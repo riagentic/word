@@ -1,0 +1,50 @@
+# Galatians 2
+
+[1] Then after fourteen years I went up again to Jerusalem with Barnabas, taking Titus along with me.
+
+[2] I went up because of a revelation and set before them (though privately before those who seemed influential) the gospel that I proclaim among the Gentiles, in order to make sure I was not running or had not run in vain.
+
+[3] But even Titus, who was with me, was not forced to be circumcised, though he was a Greek.
+
+[4] Yet because of false brothers secretly brought in — who slipped in to spy out our freedom that we have in the *Mashiach* *Yeshua*, so that they might bring us into slavery —
+
+[5] to them we did not yield in submission even for a moment, so that the truth of the gospel might be preserved for you.
+
+[6] And from those who seemed to be influential (what they were makes no difference to me; *Elohim* shows no partiality) — those, I say, who seemed influential added nothing to me.
+
+[7] On the contrary, when they saw that I had been entrusted with the gospel to the uncircumcised, just as *Kefa* had been entrusted with the gospel to the circumcised
+
+[8] (for he who worked through *Kefa* for his apostolic ministry to the circumcised worked also through me for mine to the Gentiles),
+
+[9] and when James and *Kefa* and John, who seemed to be pillars, perceived the grace that was given to me, they gave the right hand of fellowship to Barnabas and me, that we should go to the Gentiles and they to the circumcised.
+
+[10] Only, they asked us to remember the poor, the very thing I was eager to do.
+
+[11] But when *Kefa* came to Antioch, I opposed him to his face, because he stood condemned.
+
+[12] For before certain men came from James, he was eating with the Gentiles; but when they came he drew back and separated himself, fearing the circumcision party.
+
+[13] And the rest of the Jews acted hypocritically along with him, so that even Barnabas was led astray by their hypocrisy.
+
+[14] But when I saw that their conduct was not in step with the truth of the gospel, I said to *Kefa* before them all, "If you, though a Jew, live like a Gentile and not like a Jew, how can you force the Gentiles to live like Jews?"
+
+[15] We ourselves are Jews by birth and not Gentile sinners;
+
+[16] yet we know that **a person is not justified by works of the Torah but through faith in *Yeshua* the *Mashiach***, so we also have believed in the *Mashiach* *Yeshua*, in order to be justified by faith in the *Mashiach* and not by works of the Torah, because by works of the Torah no one will be justified.
+
+[17] But if, in our endeavor to be justified in the *Mashiach*, we too were found to be sinners, is the *Mashiach* then a servant of sin? Certainly not!
+
+[18] For if I rebuild what I tore down, I prove myself to be a transgressor.
+
+[19] For through the Torah I died to the Torah, so that I might live to *Elohim*.
+
+[20] **I have been crucified with the *Mashiach*. It is no longer I who live, but the *Mashiach* who lives in me. And the life I now live in the flesh I live by faith in the Son of *Elohim*, who loved me and gave himself for me.**
+
+[21] I do not nullify the grace of *Elohim*, for if righteousness were through the Torah, then the *Mashiach* died for no purpose.
+
+## Changes
+
+- **"Jesus Christ" → "*Mashiach* *Yeshua*" / "*Yeshua* the *Mashiach*"** (throughout) — Greek *Iēsous Christos*; order varies with Paul's emphasis; *Yeshua* = Hebrew/Aramaic name, *Mashiach* = "Anointed One."
+- **"God" → "*Elohim*"** (vv6, 19, 20, 21) — Greek *theos* renders Hebrew *Elohim*.
+- **"Cephas" → "*Kefa*"** (vv7, 8, 9, 11, 14) — Aramaic כֵּיפָא *Kefa* ("rock"); the Aramaic name *Yeshua* gave Simon (cf. John 1:42).
+- **"justified" / "justification"** (vv16, 17) — Greek δικαιόω *dikaioō* = declare/make righteous; retained as "justified" to preserve the forensic nuance.
