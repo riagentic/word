@@ -16,13 +16,13 @@
 
 [8] (for he who worked through *Kefa* for his apostolic ministry to the circumcised worked also through me for mine to the Gentiles),
 
-[9] and when James and *Kefa* and John, who seemed to be pillars, perceived the grace that was given to me, they gave the right hand of fellowship to Barnabas and me, that we should go to the Gentiles and they to the circumcised.
+[9] and when Jacob and *Kefa* and John, who seemed to be pillars, perceived the grace that was given to me, they gave the right hand of fellowship to Barnabas and me, that we should go to the Gentiles and they to the circumcised.
 
 [10] Only, they asked us to remember the poor, the very thing I was eager to do.
 
 [11] But when *Kefa* came to Antioch, I opposed him to his face, because he stood condemned.
 
-[12] For before certain men came from James, he was eating with the Gentiles; but when they came he drew back and separated himself, fearing the circumcision party.
+[12] For before certain men came from Jacob, he was eating with the Gentiles; but when they came he drew back and separated himself, fearing the circumcision party.
 
 [13] And the rest of the Jews acted hypocritically along with him, so that even Barnabas was led astray by their hypocrisy.
 
@@ -44,6 +44,7 @@
 
 ## Changes
 
+- **"James" → "Jacob"** (v9, 12) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"Jesus Christ" → "*Mashiach* *Yeshua*" / "*Yeshua* the *Mashiach*"** (throughout) — Greek *Iēsous Christos*; order varies with Paul's emphasis; *Yeshua* = Hebrew/Aramaic name, *Mashiach* = "Anointed One."
 - **"God" → "*Elohim*"** (vv6, 19, 20, 21) — Greek *theos* renders Hebrew *Elohim*.
 - **"Cephas" → "*Kefa*"** (vv7, 8, 9, 11, 14) — Aramaic כֵּיפָא *Kefa* ("rock"); the Aramaic name *Yeshua* gave Simon (cf. John 1:42).

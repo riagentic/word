@@ -44,21 +44,21 @@ to Jerusalem.
 [10] Tell it not in Gath;
 weep not at all;
 in Beth-le-aphrah
-roll yourselves in the dust.
+roll yourself in the dust.
 
 [11] Pass on your way,
-inhabitants of Shaphir,
+inhabitant of Shaphir,
 in nakedness and shame;
-the inhabitants of Zaanan do not come out;
+the inhabitant of Zaanan does not come out;
 the lamentation of Beth-ezel
 shall take from you its standing place.
 
-[12] For the inhabitants of Maroth wait anxiously for good,
+[12] For the inhabitant of Maroth waits anxiously for good,
 because disaster has come down from Yahweh
 to the gate of Jerusalem.
 
 [13] Harness the steeds to the chariots,
-inhabitants of Lachish;
+inhabitant of Lachish;
 it was the beginning of sin
 to the daughter of Zion,
 for in you were found
@@ -71,13 +71,13 @@ shall be a deceitful thing
 to the kings of Israel.
 
 [15] I will again bring a conqueror to you,
-inhabitants of Mareshah;
+inhabitant of Mareshah;
 the glory of Israel
 shall come to Adullam.
 
-[16] Make yourselves bald and cut off your hair,
+[16] Make yourself bald and cut off your hair,
 for the children of your delight;
-make yourselves as bald as the eagle,
+make yourself as bald as the eagle,
 for they shall go from you into exile.
 
 ## Changes
@@ -94,8 +94,8 @@ for they shall go from you into exile.
 - **"the hire of an harlot" → "the fee of a prostitute"** (v7) — Hebrew אֶתְנַן זוֹנָה *etnan zonah*; "fee" more precise; "prostitute" consistent.
 - **"I will wail and howl" → "I will lament and wail"** (v8) — Hebrew אֶסְפְּדָה *espadah*; "lament" for *saphad*.
 - **"I will make a wailing like the dragons, and mourning as the owls" → "I will make lamentation like the jackals, and mourning like the ostriches"** (v8) — Hebrew תַּנִּים *tannim* = jackals (not dragons); יַעֲנָה *ya'anah* = ostrich (not owl).
-- **"Make thee bald, and poll thee for thy delicate children" → "Make yourselves bald and cut off your hair, for the children of your delight"** (v16) — modernized.
-- **"enlarge thy baldness as the eagle" → "make yourselves as bald as the eagle"** (v16) — modernized.
+- **"Make thee bald, and poll thee for thy delicate children" → "Make yourself bald and cut off your hair, for the children of your delight"** (v16) — modernized.
+- **"enlarge thy baldness as the eagle" → "make yourself as bald as the eagle"** (v16) — modernized.
 - **"for they are gone into captivity from thee" → "for they shall go from you into exile"** (v16) — "exile" consistent.
 
 ### Notes

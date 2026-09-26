@@ -34,7 +34,7 @@
 
 [17] When we had come to Jerusalem, the brothers received us gladly.
 
-[18] On the following day Paul went in with us to James, and all the elders were present.
+[18] On the following day Paul went in with us to Jacob, and all the elders were present.
 
 [19] After greeting them, he related one by one the things that *Elohim* had done among the Gentiles through his ministry.
 
@@ -82,6 +82,7 @@
 
 ## Changes
 
+- **"James" → "Jacob"** (v18) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"God" → "*Elohim*"** (v19) — Hebrew divine name preserved.
 - **"Holy Ghost" → "*Ruach HaQodesh*"** (v11) — consistent rendering.
 - **"Jesus" → "*Yeshua*"** (v13) — systematic name transliteration.

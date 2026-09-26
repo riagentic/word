@@ -1,6 +1,6 @@
 # Ezekiel 48
 
-[1] "These are the names of the tribes: Beginning at the northern extreme, beside the way of Hethlon to Lebo-hamath, as far as Hazar-Enan (which is on the northern border of Damascus over against Hamath), and extending from the east side to the west, Dan, one portion.
+[1] "These are the names of the tribes: Beginning at the northern extreme, beside the way of Chethlon to Lebo-Hamath, as far as Hatzar-Enan (which is on the northern border of Damascus over against Hamath), and extending from the east side to the west, Dan, one portion.
 
 [2] "Adjoining the territory of Dan, from the east side to the west, Asher, one portion.
 
@@ -16,7 +16,7 @@
 
 [8] "Adjoining the territory of Judah, from the east side to the west, shall be the portion which you shall set apart, 25,000 cubits in breadth, and in length equal to one of the tribal portions, from the east side to the west, with the sanctuary in the midst of it.
 
-[9] "The portion that you shall set apart for Yahweh shall be 25,000 cubits in length, and 20,000 in breadth.
+[9] "The portion that you shall set apart for Yahweh shall be 25,000 cubits in length, and 10,000 in breadth.
 
 [10] These shall be the allotments of the holy portion: the priests shall have an allotment measuring 25,000 cubits on the northern side, 10,000 cubits in breadth on the western side, 10,000 in breadth on the eastern side, and 25,000 in length on the southern side, with the sanctuary of Yahweh in the midst of it.
 
@@ -75,7 +75,8 @@
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton יְהוָה rendered directly.
 - **"Lord GOD" → "Lord Yahweh"** (v29) — Hebrew אֲדֹנָי יְהוִה *Adonai Yahweh*; Ezekiel's distinctive doubled divine title.
-- **"JEHOVAH-SHAMMAH" → "Yahweh Shammah"** (v35) — Hebrew יְהוָה שָׁמָּה *Yahweh Shammah* = "Yahweh Is There"; the final, climactic name of the city; KJV "JEHOVAH-SHAMMAH" uses the erroneous "Jehovah" hybrid; the English gloss "Yahweh Is There" preserved alongside the Hebrew form.
+- **"JEHOVAH-SHAMMAH" → "Yahweh Is There"** (v35) — Hebrew יְהוָה שָׁמָּה *Yahweh Shammah* = "Yahweh Is There"; the final, climactic name of the city; KJV "JEHOVAH-SHAMMAH" uses the erroneous "Jehovah" hybrid; the name is rendered by its meaning.
+- **"ten thousand" kept** (v9) — MT וְרֹחַב עֲשֶׂרֶת אֲלָפִים "breadth 10,000" (the priests' portion, v10), as in 45:1 MT; the LXX reads 20,000, which many modern versions follow; the MT is kept.
 
 ### Notes
 - **Final words of Ezekiel** — "Yahweh Is There"; reverses the departure of the glory.

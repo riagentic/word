@@ -51,7 +51,7 @@ and the spirit returns to *Elohim* who gave it.
 
 ## Changes
 
-- **"God" → "*Elohim*"** (v1, 7, 13, 14) — Hebrew אֱלֹהִים *Elohim*; the epilogue commands "Fear *Elohim*."
+- **"God" → "*Elohim*"** (v7, 13, 14) — Hebrew אֱלֹהִים *Elohim*; the epilogue commands "Fear *Elohim*."
 - **"Fear God" → "Fear *Elohim*"** (v13) — Hebrew יְרָא אֶת־הָאֱלֹהִים *yera et ha-Elohim*; the book's final verdict.
 
 ### Notes

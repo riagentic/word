@@ -1,6 +1,6 @@
 # Matthew 17
 
-[1] And after six days *Yeshua* took with him Peter and James, and John his brother, and led them up a high mountain by themselves.
+[1] And after six days *Yeshua* took with him Peter and Jacob, and John his brother, and led them up a high mountain by themselves.
 
 [2] And he was transfigured before them, and his face shone like the sun, and his clothes became white as light.
 

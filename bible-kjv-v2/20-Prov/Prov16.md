@@ -4,7 +4,7 @@
 but the answer of the tongue is from Yahweh.
 
 [2] All the ways of a man are pure in his own eyes,
-but Yahweh weighs the ruchot.
+but Yahweh weighs the spirits.
 
 [3] Commit your work to Yahweh,
 and your plans will be established.

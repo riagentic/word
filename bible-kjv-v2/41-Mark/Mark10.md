@@ -68,7 +68,7 @@
 
 [34] And they will mock him and spit on him, and flog him and kill him. And after three days he will rise."
 
-[35] And James and John, the sons of Zebedee, came up to him and said to him, "Teacher, we want you to do for us whatever we ask of you."
+[35] And Jacob and John, the sons of Zebedee, came up to him and said to him, "Teacher, we want you to do for us whatever we ask of you."
 
 [36] And he said to them, "What do you want me to do for you?"
 
@@ -80,7 +80,7 @@
 
 [40] but to sit at my right hand or at my left is not mine to grant, but it is for those for whom it has been prepared."
 
-[41] And when the ten heard it, they began to be indignant at James and John.
+[41] And when the ten heard it, they began to be indignant at Jacob and John.
 
 [42] And *Yeshua* called them to him and said to them, "You know that those who are considered rulers of the Gentiles lord it over them, and their great ones exercise authority over them.
 
@@ -106,6 +106,7 @@
 
 ## Changes
 
+- **"James" → "Jacob"** (v35, 41) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"Jesus" → "*Yeshua*"** (throughout) — Hebrew name preserved.
 - **"God" → "*Elohim*"** (vv6, 9, 14, 15, 18, 23, 24, 25, 27) — divine name retained throughout.
 - **"Peter" → "*Kefa*"** (vv28) — Aramaic name preserved.

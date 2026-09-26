@@ -130,7 +130,7 @@ declares Yahweh of Hosts.
 [27] And I will kindle a fire in the wall of Damascus,
 and it shall devour the strongholds of Ben-Hadad."
 
-[28] Concerning Kedar and the kingdoms of Hatzor that Nebuchadrezzar king of Babylon struck down. Thus says Yahweh:
+[28] Concerning Kedar and the kingdoms of Hazor that Nebuchadrezzar king of Babylon struck down. Thus says Yahweh:
 
 "Rise up, advance against Kedar!
 Destroy the people of the east!

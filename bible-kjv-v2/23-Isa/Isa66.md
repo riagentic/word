@@ -120,7 +120,7 @@ and they shall be an abhorrence to all flesh."
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"God" → "*Elohim*"** (v9) — Hebrew *Elohim*; "says your *Elohim*."
-- **Poetic structure** — vv1-4 (verse oracle), vv5-6 (verse), vv7-9 (verse), vv10-11 (verse), vv12-14 (verse), vv15-16 (verse), vv22-24 (verse); prose prose sections vv17-21 preserved.
+- **Poetic structure** — vv1-4 (verse oracle), vv5-6 (verse), vv7-9 (verse), vv10-11 (verse), vv12-14 (verse), vv15-16 (verse), vv22-24 (verse); prose sections vv17-21 preserved.
 
 ### Notes
 - **v1-2** — quoted in Stephen's speech, Acts 7:49-50.

@@ -14,7 +14,7 @@
 
 [7] Yahweh said to Gideon, "With the three hundred men who lapped I will save you and give Midian into your hand. Let all the other people go, each to his place."
 
-[8] So the people took provisions in their hands, and their trumpets; and he sent all the rest of the men of Israel, each to his tent, keeping the three hundred men. The camp of Midian was below him in the valley.
+[8] So the people took provisions in their hands, and their horns; and he sent all the rest of the men of Israel, each to his tent, keeping the three hundred men. The camp of Midian was below him in the valley.
 
 [9] That same night Yahweh said to him, "Arise; go down against the camp, for I have given it into your hand.
 
@@ -30,19 +30,19 @@
 
 [15] When Gideon heard the telling of the dream and its interpretation, he bowed in worship. He returned to the camp of Israel and said, "Arise, for Yahweh has given the camp of Midian into your hand."
 
-[16] He divided the three hundred men into three companies and put trumpets into the hands of each man, along with empty jars, with torches inside the jars.
+[16] He divided the three hundred men into three companies and put horns into the hands of each man, along with empty jars, with torches inside the jars.
 
 [17] He said to them, "Look at me, and do as I do. When I come to the edge of the camp, as I do, so you shall do.
 
-[18] When I blow the trumpet, I and all who are with me, then blow the trumpets also on every side of all the camp, and say, 'For Yahweh and for Gideon!'"
+[18] When I blow the horn, I and all who are with me, then blow the horns also on every side of all the camp, and say, 'For Yahweh and for Gideon!'"
 
-[19] Gideon and the hundred men who were with him came to the edge of the camp at the beginning of the middle watch, just after they had changed the guard. They blew the trumpets and smashed the jars that were in their hands.
+[19] Gideon and the hundred men who were with him came to the edge of the camp at the beginning of the middle watch, just after they had changed the guard. They blew the horns and smashed the jars that were in their hands.
 
-[20] The three companies blew the trumpets and broke the jars; they held the torches in their left hands and the trumpets in their right hands to blow them, and they cried, "A sword for Yahweh and for Gideon!"
+[20] The three companies blew the horns and broke the jars; they held the torches in their left hands and the horns in their right hands to blow them, and they cried, "A sword for Yahweh and for Gideon!"
 
 [21] Each man stood in his place around the camp; and all the camp ran — they cried out and fled.
 
-[22] As the three hundred trumpets blew, Yahweh set each man's sword against his companion throughout the camp. The camp fled as far as Beth-shittah toward Zererah, as far as the border of Abel-meholah by Tabbath.
+[22] As the three hundred horns blew, Yahweh set each man's sword against his companion throughout the camp. The camp fled as far as Beth-shittah toward Zererah, as far as the border of Abel-meholah by Tabbath.
 
 [23] The men of Israel were called out from Naphtali, from Asher, and from all Manasseh, and they pursued Midian.
 
@@ -54,6 +54,7 @@
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
+- **"trumpet(s)" → "horn(s)"** (v8, 16, 18–20, 22) — Hebrew שׁוֹפָר *shofar* = ram's horn, not a metal trumpet.
 - **"vaunt themselves" → "boast"** (v2) — modernized.
 - **"pitchers" → "jars"** (v16, 19, 20) — archaic.
 - **"lamps" → "torches"** (v16, 20) — Hebrew לַפִּידִים *lappidim*. Flaming torches, not oil lamps.
@@ -64,6 +65,6 @@
 - **Gideon's 300** — the iconic narrative. Army reduced from 32,000 to 300 (less than 1%). Criteria: (1) fear-test: those afraid sent home; (2) drinking-test: those who lap like a dog vs kneel. Many interpretations of the lapping test — ready-for-battle vigilance, physical discipline, or simple divine selection.
 - **"Lest Israel boast"** (v2) — theological core. Yahweh reduces the force so victory is unmistakably his.
 - **Dream of the barley cake** (v13–14) — barley is the poor-man's grain; a loaf of it crushes the Midianite tent. Self-interpreting omen of Midianite doom.
-- **Trumpets, jars, torches** (v16–22) — non-standard weapons. Simultaneous smashing of jars reveals the torches, accompanied by trumpet-blasts from three sides, creating chaos. Midianites attack each other in panic.
+- **Horns, jars, torches** (v16–22) — non-standard weapons. Simultaneous smashing of jars reveals the torches, accompanied by horn-blasts from three sides, creating chaos. Midianites attack each other in panic.
 - **"For Yahweh and for Gideon"** (v18, 20) — double cry. Gideon's humility slipping? The battle is Yahweh's, but Gideon's name is joined.
 - **Pursuit to the Jordan** (v24–25) — Ephraim belatedly joins to block the fugitives. Two princes captured: Oreb ("raven") at Raven's Rock, Zeeb ("wolf") at Wolf's Winepress.

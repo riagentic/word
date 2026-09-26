@@ -55,7 +55,7 @@
 - **"great and terrible" → "great and awesome"** (v14) — *ha-gadol ve-ha-nora*.
 
 ### Notes
-- **Chapter numbering** — Hebrew Bible starts chapter 4 at English 4:1. So MT 3:33 = English 4:1.
+- **Chapter numbering** — Hebrew Bible ends chapter 3 six verses later: MT 3:33-38 = English 4:1-6, MT 4:1-17 = English 4:7-23.
 - **Opposition escalates** — verbal mockery → conspiracy → armed threat. Nehemiah's counter-measures: prayer + defensive organization + arming builders.
 - **Fox on the wall** — Tobiah's joke: even a slight fox would collapse this wall. Exaggerated dismissal.
 - **"Adversary coalition"** — Sanballat (Samaria/N), Tobiah (Ammon/E), Arabs (S), Ashdodites (W). Jerusalem encircled by hostile officials.

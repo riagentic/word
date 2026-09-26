@@ -4,7 +4,7 @@
 
 [2] And on the Sabbath he began to teach in the synagogue, and many who heard him were astonished, saying, "Where did this man get these things? What is the wisdom given to him? How are such mighty works done by his hands?
 
-[3] Is not this the carpenter, the son of Mary and brother of James and Joseph and Judas and Simon? And are not his sisters here with us?" And they took offense at him.
+[3] Is not this the carpenter, the son of Mary and brother of Jacob and Joseph and Judas and Simon? And are not his sisters here with us?" And they took offense at him.
 
 [4] And *Yeshua* said to them, "**A prophet is not without honor, except in his hometown and among his relatives and in his own household.**"
 
@@ -116,9 +116,9 @@ And he went about among the villages teaching.
 
 ## Changes
 
+- **"James" → "Jacob"** (v3) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"Jesus" → "*Yeshua*"** (throughout) — Hebrew name preserved.
 - **"John the Baptist" → "John the Immerser"** (vv14, 24, 25) — "Immerser" renders *ho baptizōn* / *ho baptistēs* (the one who immerses); see Mark 1.
-- **"baptized" → "immersed"** (v14) — consistent rendering of *baptizo*.
 - **"devils" → "demons"** (v13) — Greek *daimonia*.
 - **"straightway" → "immediately"** — throughout; Greek *euthys*.
 

@@ -85,7 +85,7 @@ and they shall be remembered by name no more.
 [18] And I will make for them a covenant on that day with the beasts of the field,
 the birds of the heavens, and the creeping things of the ground.
 And I will abolish the bow, the sword, and war from the land,
-and I will make you lie down in safety.
+and I will make them lie down in safety.
 
 [19] And I will betroth you to me forever.
 I will betroth you to me in righteousness and in justice,

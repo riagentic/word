@@ -100,9 +100,9 @@
 ### Notes
 - **Wholesale divorce** — the most drastic measure in post-exilic policy. Women and children "put away." Social cost enormous.
 - **"Gave their hand"** — public pledge gesture.
-- **3-month investigation** (v16-17) — tenth month to first month of next year; 108 known cases documented.
+- **3-month investigation** (v16-17) — tenth month to first month of next year; the cases found are listed in v18-43.
 - **Priestly offenders first** — seventeen priests among the foreign-marriage group. Even Jeshua's high-priestly family.
-- **113 individuals total** — relatively small portion of population. Focus is on leadership rather than mass reform.
+- **111 individuals total** (v18-43: 17 priests, 10 Levites/singers/gatekeepers, 84 laymen; 113 if MT v38 "Bani, Binnui" are read as two more names) — relatively small portion of population. Focus is on leadership rather than mass reform.
 - **Ezra ends abruptly** (v44) — no closure on what happened to divorced wives and children. Nehemiah continues the story (Neh 13 has parallel mixed-marriage crisis decades later).
 - **Moral tension** — Deut 23:3-6 prohibits Ammonite/Moabite citizenship; Deut 7:3 prohibits intermarriage with Canaanites. But what about widows, children? Chronicler-school resolves through separation.
 - **Chapter completes Ezra-Nehemiah's first half** (Ezra = first half). Nehemiah continues the same period's story from a different angle.

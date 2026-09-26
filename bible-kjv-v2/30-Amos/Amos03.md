@@ -67,7 +67,7 @@ declares Yahweh.
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"Lord GOD" → "Lord Yahweh"** (vv7, 8, 11) — Hebrew אֲדֹנָי יְהוָה; consistent throughout.
-- **"Lord GOD, the God of hosts" → "Lord Yahweh, the God of Hosts"** (v13) — Hebrew אֲדֹנָי יְהוָה אֱלֹהֵי הַצְּבָאוֹת; Hebrew *Tzeva'ot* = hosts; retained.
+- **"Lord GOD, the God of hosts" → "Lord Yahweh, the *Elohim* of Hosts"** (v13) — Hebrew אֲדֹנָי יְהוָה אֱלֹהֵי הַצְּבָאוֹת; Hebrew *Tzeva'ot* = hosts; retained.
 - **Poetry formatted with blockquote indentation** (throughout) — KJV prose; the rhetorical questions and oracles are poetry.
 - **"children of Israel" → "people of Israel"** (v1) — Hebrew בְּנֵי יִשְׂרָאֵל; "people" in place of "children" throughout (more natural).
 - **"except they be agreed" → "unless they have agreed to meet"** (v3) — Hebrew נוֹעָדוּ *no'adu* = have met by appointment; "agreed to meet" more precise.
@@ -78,7 +78,7 @@ declares Yahweh.
 - **"behold the great tumults in the midst thereof" → "see the great tumults within her"** (v9) — modernized.
 - **"they know not to do right" → "They do not know how to do right"** (v10) — modernized.
 - **"store up violence and robbery in their palaces" → "store up violence and robbery in their strongholds"** (v10) — consistent *armonot* = strongholds.
-- **"An adversary there shall be even round about the land" → "An adversary shall surround the land"** (v11) — Hebrew צַר וּסְבִיב הָאָרֶץ *tzar usevih ha'aretz*; modernized.
+- **"An adversary there shall be even round about the land" → "An adversary shall surround the land"** (v11) — Hebrew צַר וּסְבִיב הָאָרֶץ *tzar usviv ha'aretz*; modernized.
 - **"he shall bring down thy strength from thee, and thy palaces shall be spoiled" → "bring down your defenses from you, and your strongholds shall be plundered"** (v11) — consistent *armonot*; "defenses" for *uzzekhah*.
 - **"in Damascus in a couch" → "with the corner of a couch and part of a bed"** (v12) — Hebrew בִּדְמֶשֶׁק עֶרֶשׂ *beDameseq eres*; the text is difficult; "corner of a couch and part of a bed" follows the image of pitiful remnants like ear fragments saved from a lion.
 - **"Hear ye, and testify in the house of Jacob" → "Hear, and testify against the house of Jacob"** (v13) — Hebrew וְהָעִידוּ בְּבֵית יַעֲקֹב *veha'idu beveit Ya'aqov*; "against" captures the legal testimony sense.

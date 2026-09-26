@@ -47,7 +47,7 @@
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"God" → "*Elohim*"** (vv7, 10, 15, 18, 20) — Hebrew *Elohim*; the Rabshakeh's taunting use of "your *Elohim*" preserved.
+- **"God" → "*Elohim*"** (v7) — Hebrew *Elohim*; the Rabshakeh's taunting quotation "Yahweh our *Elohim*" preserved. The "gods of the nations/lands" (vv18-20, Hebrew אֱלֹהֵי) are plural beings and stay "gods".
 - **Entirely prose chapter** — no poetic structure changes; narrative preserved as-is.
 
 ### Notes

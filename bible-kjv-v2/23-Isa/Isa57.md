@@ -107,6 +107,6 @@ and its waters toss up mire and dirt.
 ## Changes
 
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
-- **"LORD" → "Yahweh"** (vv19, 21) — Tetragrammaton preserved.
+- **"LORD" → "Yahweh"** (v19) — Tetragrammaton preserved.
 - **"high and lofty One" → "the high and lofty One"** (v15) — Hebrew description of Yahweh; retained as descriptive title.
 - **Poetic structure** — entire chapter formatted as verse; alternating condemnation (vv3-13) and comfort (vv14-21).

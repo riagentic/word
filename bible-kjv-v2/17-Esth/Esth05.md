@@ -26,12 +26,13 @@
 
 [13] Yet all this is worth nothing to me so long as I see Mordecai the Jew sitting at the king's gate."
 
-[14] Then Zeresh his wife and all his friends said to him, "Let a gallows be made fifty cubits high; in the morning tell the king to have Mordecai hanged on it; then go in merrily with the king to the banquet." The thing pleased Haman, and he had the gallows made.
+[14] Then Zeresh his wife and all his friends said to him, "Let a pole be made fifty cubits high; in the morning tell the king to have Mordecai hanged on it; then go in merrily with the king to the banquet." The thing pleased Haman, and he had the pole made.
 
 ## Changes
 
 - **"indignation" → "rage"** (v9) — *chemah*.
 - **"princes" → "officials"** (v11).
+- **"gallows" → "pole"** (v14) — *etz*, wood/pole; see 2:23.
 
 ### Notes
 - **Third day** — after the three-day fast. Esther's emergence from preparation.
@@ -40,4 +41,4 @@
 - **Delayed petition** — Esther's strategy: build suspense, host two banquets, increase Haman's false confidence.
 - **Mordecai's continued defiance** (v9) — escalates from not bowing to not even rising.
 - **Haman's boasts** — wealth, family, promotion, royal access. All undone before the book ends.
-- **75-foot gallows** — deliberately grotesque; public, visible from afar. Iron of the narrative: Haman himself will hang on it.
+- **75-foot pole** — deliberately grotesque; public, visible from afar. Iron of the narrative: Haman himself will hang on it.

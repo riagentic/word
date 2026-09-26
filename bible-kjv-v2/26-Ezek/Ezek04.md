@@ -32,9 +32,9 @@
 
 [16] Moreover, he said to me, "Son of man, behold, I will break the supply of bread in Jerusalem. They shall eat bread by weight and with anxiety, and they shall drink water by measure and in dismay.
 
-[17] I will do this that they may lack bread and water, and look at one another in dismay, and rot away because of their punishment.
+[17] I will do this that they may lack bread and water, and look at one another in dismay, and rot away because of their punishment."
 
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton יְהוָה rendered directly.
-- **"Lord GOD" → "Lord Yahweh"** (vv14, 15) — Hebrew אֲדֹנָי יְהוִה *Adonai Yahweh*; Ezekiel's distinctive doubled divine title.
+- **"Lord GOD" → "Lord Yahweh"** (v14) — Hebrew אֲדֹנָי יְהוִה *Adonai Yahweh*; Ezekiel's distinctive doubled divine title.

@@ -46,7 +46,7 @@
 
 [23] Watch yourselves, lest you forget the covenant of Yahweh your *Elohim* that he made with you, and make for yourselves a carved image, the form of anything that Yahweh your *Elohim* has forbidden you.
 
-[24] For Yahweh your *Elohim* is a consuming fire, a jealous *Elohim*.
+[24] For Yahweh your *Elohim* is a consuming fire, a jealous El.
 
 [25] When you father children and grandchildren and have grown old in the land, and you corrupt yourselves by making a carved image in the form of anything, and do what is evil in the eyes of Yahweh your *Elohim* to provoke him to anger —
 

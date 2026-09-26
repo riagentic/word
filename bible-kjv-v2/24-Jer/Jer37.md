@@ -24,7 +24,7 @@
 
 [12] Jeremiah set out from Jerusalem to go to the land of Benjamin to receive his portion there among the people.
 
-[13] When he was at the Benjamin Gate, a sentry there named Iriyah son of Shelemiah, son of Hananiah, seized Jeremiah the prophet, saying, "You are deserting to the Chaldeans."
+[13] When he was at the Benjamin Gate, a sentry there named Irijah son of Shelemiah, son of Hananiah, seized Jeremiah the prophet, saying, "You are deserting to the Chaldeans."
 
 [14] And Jeremiah said, "It is a lie; I am not deserting to the Chaldeans." But Irijah would not listen to him, and seized Jeremiah and brought him to the officials.
 

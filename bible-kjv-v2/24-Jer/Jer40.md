@@ -10,7 +10,7 @@
 
 [5] If you remain, then return to Gedaliah son of Ahikam, son of Shaphan, whom the king of Babylon appointed governor of the cities of Judah, and dwell with him among the people. Or go wherever you think it right to go." So the captain of the guard gave him an allowance of food and a present, and let him go.
 
-[6] Then Jeremiah went to Gedaliah son of Ahikam, at Mitzpah, and lived with him among the people who were left in the land.
+[6] Then Jeremiah went to Gedaliah son of Ahikam, at Mizpah, and lived with him among the people who were left in the land.
 
 [7] When all the captains of the forces in the open country and their men heard that the king of Babylon had appointed Gedaliah son of Ahikam governor in the land, and had committed to him men, women, and children, those of the poorest of the land who had not been taken into exile to Babylon,
 

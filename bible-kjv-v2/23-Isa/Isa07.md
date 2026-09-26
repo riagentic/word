@@ -39,7 +39,7 @@ you will not be firm at all."'"
 
 [13] And he said, "Hear then, O house of David! Is it too little for you to weary men, that you weary my *Elohim* also?
 
-[14] Therefore the Lord himself will give you a sign. Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel.
+[14] Therefore the Lord himself will give you a sign. Behold, the young woman shall conceive and bear a son, and shall call his name Immanuel.
 
 [15] He shall eat curds and honey when he knows how to refuse the evil and choose the good.
 

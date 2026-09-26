@@ -72,7 +72,7 @@
 
 [36] But overhearing what they said, *Yeshua* said to the ruler of the synagogue, "**Do not fear, only believe.**"
 
-[37] And he allowed no one to follow him except *Kefa* and James and John the brother of James.
+[37] And he allowed no one to follow him except *Kefa* and Jacob and John the brother of Jacob.
 
 [38] They came to the house of the ruler of the synagogue, and *Yeshua* saw a commotion, people weeping and wailing loudly.
 
@@ -88,6 +88,7 @@
 
 ## Changes
 
+- **"James" → "Jacob"** (v37) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"Jesus" → "*Yeshua*"** (throughout) — Hebrew name preserved.
 - **"God" → "*Elohim*"** (v7) — divine name retained.
 - **"most high God" → "the Most High *Elohim*"** (v7) — Greek τοῦ Θεοῦ τοῦ ὑψίστου *tou Theou tou hypsistou* = Hebrew אֵל עֶלְיוֹן *El Elyon*.

@@ -46,9 +46,9 @@
 
 [23] "And I will set up over them one shepherd, **my servant David**, and he shall feed them: he shall feed them and be their shepherd.
 
-[24] And I, Yahweh, will be their *Elohim*, and my servant David shall be prince — among them. I am Yahweh; I have spoken.
+[24] And I, Yahweh, will be their *Elohim*, and my servant David shall be prince among them. I, Yahweh, have spoken.
 
-[25] "I will make with them a covenant of peace — and banish wild beasts from the land, so that they may dwell securely in the wilderness and sleep in the woods.
+[25] "I will make with them a covenant of peace and banish wild beasts from the land, so that they may dwell securely in the wilderness and sleep in the woods.
 
 [26] And I will make them and the places all around my hill a blessing, and I will send down the showers in their season; they shall be showers of blessing.
 

@@ -26,7 +26,7 @@
 
 [13] Then some of the itinerant Jewish exorcists undertook to invoke the name of the Lord *Yeshua* over those who had evil spirits, saying, "I adjure you by the *Yeshua* whom Paul proclaims."
 
-[14] Seven sons of a Jewish high priest named Skeva were doing this.
+[14] Seven sons of a Jewish high priest named Sceva were doing this.
 
 [15] But the evil spirit answered them, "*Yeshua* I know, and Paul I recognize, but who are you?"
 
@@ -64,7 +64,7 @@
 
 [32] Now some cried out one thing, some another, for the assembly was in confusion, and most of them did not know why they had come together.
 
-[33] Some of the crowd prompted Alexandros, whom the Jews had put forward. And Alexander, motioning with his hand, wanted to make a defense to the crowd.
+[33] Some of the crowd prompted Alexander, whom the Jews had put forward. And Alexander, motioning with his hand, wanted to make a defense to the crowd.
 
 [34] But when they recognized that he was a Jew, for about two hours they all cried out with one voice, "Great is Artemis of the Ephesians!"
 

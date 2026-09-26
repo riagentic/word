@@ -46,14 +46,14 @@ When I restore the fortunes of my people,
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"God" → "*Elohim*"** (vv6, 10) — Hebrew *Elohim*.
+- **"God" → "*Elohim*"** (v6) — Hebrew *Elohim*.
 - **Poetry formatted with blockquote indentation** (throughout) — KJV prose; Hebrew poetry.
 - **"he hath torn" → "he has torn"** (v1) — modernized archaic verb forms throughout.
 - **"that he will heal us" → "that he may heal us"** (v1) — modernized subjunctive.
 - **"his going forth is prepared as the morning" → "his going out is sure as the dawn"** (v3) — Hebrew מוֹצָאוֹ כַשַּׁחַר נָכוֹן; "going out" is more literal; "sure as the dawn" better captures the certainty.
 - **"the latter and former rain unto the earth" → "the spring rains that water the earth"** (v3) — Hebrew מַלְקוֹשׁ יוֹרֶה לָאָרֶץ; the "former rain" (*yoreh*) and "latter rain" (*malqosh*) are retained in sense; restructured for clarity.
 - **"your goodness" → "your love"** (v4) — Hebrew חַסְדְּכֶם *chasdechem*; this is *chesed* again — the very word used in v6; rendered "love" here as the covenant love that disappears like morning dew; consistent with v6's emphasis.
-- **"thy judgments are as the light that goeth forth" → "my judgment goes forth as the light"** (v5) — MT: וּמִשְׁפָּטֶיךָ אוֹר יֵצֵא; first-person speaker is Yahweh; "my judgment" follows context.
+- **"thy judgments are as the light that goeth forth" → "my judgment goes forth as the light"** (v5) — MT: וּמִשְׁפָּטֶיךָ אוֹר יֵצֵא ("and your judgments — light goes forth"); departs from the MT by redividing the consonants as וּמִשְׁפָּטִי כָאוֹר ("my judgment as the light"), with LXX, Syriac and Targum; the first-person speaker is Yahweh throughout the verse.
 - **"But they like men have transgressed" → "But like Adam they transgressed"** (v7) — Hebrew כְּאָדָם עָבְרוּ בְרִית; "like Adam" is an alternative to "like men"; Hebrew *adam* can be both; "like Adam" picks up the Eden/covenant reading (cf. the location *Eden* in Amos 1:5); either is valid but "Adam" is more provocative.
 - **"is polluted with blood" → "tracked with blood"** (v8) — Hebrew עֲקֻבָּה מִדָּם; "tracked" = footprints/traces of blood, more vivid than "polluted."
 - **"commit lewdness" → "commit villainy"** (v9) — Hebrew זִמָּה *zimmah* = deliberate wickedness/villainy.

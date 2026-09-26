@@ -58,4 +58,4 @@ he multiplies words without knowledge."
 - **Eloah is unaffected by human sin/righteousness** (v5-8) — only other humans feel impact. Philosophical claim: divine transcendence.
 - **"Songs in the night"** (v10) — beautiful phrase; Yahweh as joy-giver in darkness.
 - **Hollow cries ignored** (v13) — only sincere cries reach Yahweh.
-- **Charges Job with ignorance** — repeats v36's concluding judgment.
+- **Charges Job with ignorance** (v16) — repeats the concluding judgment of 34:35-37.

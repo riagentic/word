@@ -1,6 +1,6 @@
 # Ezekiel 45
 
-[1] "When you allot the land as an inheritance, you shall set apart for Yahweh a portion of the land as a holy district, 25,000 cubits long and 20,000 cubits broad. It shall be holy throughout its whole extent.
+[1] "When you allot the land as an inheritance, you shall set apart for Yahweh a portion of the land as a holy district, 25,000 cubits long and 10,000 cubits broad. It shall be holy throughout its whole extent.
 
 [2] Of this, a square plot of 500 by 500 cubits shall be for the sanctuary, with fifty cubits for an open space around it.
 
@@ -59,3 +59,4 @@
 - **"homer" retained** (vv11, 13, 14) — Hebrew חֹמֶר *homer* = the largest dry measure (~220 liters = 10 ephahs); *homer* retained.
 - **"hin" retained** (v24) — Hebrew הִין *hin* = liquid measure (~3.7 liters, 1/6 of a *bath*); *hin* retained.
 - **"gerahs" / "mina" retained** (v12) — Hebrew גֵּרָה *gerah* (1/20 shekel) and מָנֶה *maneh* (mina = 50 shekels); weight measures retained.
+- **"ten thousand" kept** (v1) — MT רֹחַב עֲשָׂרָה אָלֶף "breadth 10,000", as in 48:9 MT; the LXX reads 20,000 (εἴκοσι χιλιάδας), counting the Levites' strip (v5) into the holy district, and many modern versions follow it; the MT is kept.

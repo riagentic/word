@@ -1,0 +1,50 @@
+# Jonáš 4
+
+[1] Ale Jonahovi se to převelice nelíbilo a rozhněval se.
+
+[2] I modlil se k Yahweh a řekl: „Ach, Yahweh, což jsem právě tohle neříkal, když jsem byl ještě ve své zemi? Proto jsem pospíšil utéct do Tarshishe; věděl jsem totiž, že jsi milostivý a milosrdný *Elohim*, pomalý k hněvu a hojný ve věrné lásce, který upouští od neštěstí.
+
+[3] Proto nyní, Yahweh, vezmi si prosím můj život, neboť je pro mě lepší zemřít než žít.“
+
+[4] Yahweh řekl: „Je dobře, že se hněváš?“
+
+[5] Jonah vyšel z města, usadil se na východ od města a udělal si tam přístřešek. Seděl pod ním ve stínu, dokud neuvidí, co se s městem stane.
+
+[6] Tu Yahweh *Elohim* určil rostlinu a dal jí vyrůst nad Jonahem, aby byla stínem nad jeho hlavou a zbavila ho jeho trápení. I zaradoval se Jonah z té rostliny převelice.
+
+[7] Když však příštího dne vzešlo svítání, *Elohim* určil červa, který rostlinu napadl, takže uschla.
+
+[8] Když vyšlo slunce, *Elohim* určil spalující východní vítr a slunce pražilo Jonahovi na hlavu, až omdléval. I prosil, aby mohl zemřít, a řekl: „Je pro mě lepší zemřít než žít.“
+
+[9] Ale *Elohim* řekl Jonahovi: „Je dobře, že se hněváš kvůli té rostlině?“ On odpověděl: „Ano, je dobře, že se hněvám, a to k smrti.“
+
+[10] Yahweh řekl: „Ty lituješ rostlinu, o kterou ses nenamáhal a kterou jsi nedal vyrůst, která za jednu noc vznikla a za jednu noc zahynula.
+
+[11] A já bych neměl litovat Nineveh, to veliké město, v němž je víc než 120 000 lidí, kteří nerozeznají svou pravici od levice, a také mnoho dobytka?“
+
+## Změny
+
+- **"LORD" → „Yahweh“** (v celé kapitole) – zachován tetragram.
+- **"God" → „*Elohim*“** (v7, 8, 9) – hebrejsky אֱלֹהִים; vypravěč užívá *Elohim* u „určení“ červa a větru (rostlinu ve v6 určuje Yahweh *Elohim*); Jonah ve své modlitbě užívá Yahweh.
+- **"LORD God" → „Yahweh *Elohim*“** (v6) – hebrejsky יְהוָה אֱלֹהִים; spojené božské jméno; *Elohim* ponecháno.
+- **"it displeased Jonah exceedingly, and he was very angry" → „Jonahovi se to převelice nelíbilo a rozhněval se“** (v1) – hebrejsky וַיֵּרַע אֶל יוֹנָה רָעָה גְדוֹלָה וַיִּחַר לוֹ; „převelice“ už vyjadřuje intenzitu; „velmi rozhněván“ je v upraveném textu nadbytečné.
+- **"take, I beseech thee, my life from me" → „vezmi si prosím můj život“** (v3) – modernizováno; „prosím“ za *na'*.
+- **"Doest thou well to be angry?" → „Je dobře, že se hněváš?“** (v4) – modernizováno.
+- **"sat on the east side of the city" → „usadil se na východ od města“** (v5) – hebrejsky מִקֶּדֶם לָעִיר; modernizováno.
+- **"made him a booth" → „udělal si tam přístřešek“** (v5) – modernizováno.
+- **"in the shadow" → „ve stínu“** (v5) – hebrejsky בַּצֵּל *batzzel* = ve stínu; přirozenější.
+- **"the LORD God prepared a gourd" → „Yahweh *Elohim* určil rostlinu“** (v6) – hebrejsky יְהוָה אֱלֹהִים וַיְמַן קִיקָיוֹן *Yahweh *Elohim* wayeman qiqayon*; *manah* = určil (v souladu s kap. 1); *qiqayon* = skočec (ricinus) nebo podobná rostlina; KJV „gourd“ (tykev) je nejisté.
+- **"to deliver him from his grief" → „zbavila ho jeho trápení“** (v6) – hebrejsky לְהַצִּיל לוֹ מֵרָעָתוֹ *lehatzil lo mera'ato*; *ra'ah* = nepohodlí / trápení; ne zármutek, ale tělesné strádání ze slunce.
+- **"Jonah was exceeding glad of the gourd" → „zaradoval se Jonah z té rostliny převelice“** (v6) – modernizováno.
+- **"God prepared a worm when the morning rose the next day" → „když však příštího dne vzešlo svítání, *Elohim* určil červa“** (v7) – hebrejsky וַיְמַן הָאֱלֹהִים תּוֹלַעַת; *manah* = určil jednotně; „vzešlo svítání“ je názornější než „vstalo jitro“.
+- **"it smote the gourd that it withered" → „který rostlinu napadl, takže uschla“** (v7) – modernizováno.
+- **"God prepared a vehement east wind" → „*Elohim* určil spalující východní vítr“** (v8) – hebrejsky וַיְמַן הָאֱלֹהִים רוּחַ קָדִים חֲרִישִׁית *wayeman ha'*Elohim* ruach qadim charishit*; *manah* jednotně; *charishit* = spalující / dusný; „spalující“ je názornější než „prudký“.
+- **"he fainted, and wished in himself to die" → „až omdléval. I prosil, aby mohl zemřít“** (v8) – hebrejsky וַיִּתְעַלַּף *wayyit'alef* = omdlel / slábl; „omdlévání“ zachováno; prosba o smrt formulována náležitě.
+- **"Doest thou well to be angry for the gourd?" → „Je dobře, že se hněváš kvůli té rostlině?“** (v9) – modernizováno.
+- **"I do well to be angry, even unto death" → „je dobře, že se hněvám, a to k smrti“** (v9) – hebrejsky הֵיטֵב חָרָה לִי עַד מָוֶת *heytev charah li ad mavet*; „k smrti“ je názornější.
+- **"Thou hast had pity on the gourd" → „Ty lituješ rostlinu“** (v10) – modernizováno.
+- **"sixscore thousand persons that cannot discern between their right hand and their left hand" → „víc než 120 000 lidí, kteří nerozeznají svou pravici od levice“** (v11) – hebrejsky הַרְבֵּה מִשְׁתֵּים־עֶשְׂרֵה רִבּוֹ *harbeh mishteim-esreh ribbo* = „víc než dvanáct desetitisíců“; „sixscore thousand“ = 120 000; nahrazeno číslovkou; „nerozeznají svou pravici od levice“ modernizováno.
+
+### Poznámky
+- **Končí otázkou** – v Bibli ojedinělé; vyzývá čtenáře.
+- **120 000, kteří nerozeznají pravici od levice**: pravděpodobně děti nebo prostý lid.

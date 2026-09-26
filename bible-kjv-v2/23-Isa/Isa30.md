@@ -130,7 +130,7 @@ the breath of Yahweh, like a stream of sulfur, kindles it.
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"Lord GOD" → "Lord Yahweh, the Holy One of Israel"** (v15) — Hebrew title compound preserved.
+- **"the Lord GOD, the Holy One of Israel" → "the Lord Yahweh, the Holy One of Israel"** (v15) — Hebrew title compound preserved.
 - **"God" → "*Elohim*"** (v18) — "Yahweh is an *Elohim* of justice."
 - **Poetic structure** — vv1-5, 8b-17, 27-33 formatted as verse; prose passages vv6-8a, 19-26 preserved.
 

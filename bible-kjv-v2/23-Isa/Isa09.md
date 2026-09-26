@@ -27,7 +27,7 @@ to us a son is given;
 and the government shall be upon his shoulder,
 and his name shall be called
 Wonderful Counselor,
-Mighty *Elohim*,
+Mighty El,
 Everlasting Father,
 Prince of Peace.
 
@@ -101,7 +101,7 @@ and his hand is stretched out still.
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"LORD of hosts" → "Yahweh of Hosts"** (vv7, 13, 19) — divine title preserved.
-- **"Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace" → "Wonderful Counselor, Mighty *Elohim*, Everlasting Father, Prince of Peace"** (v6) — traditional English throne-name rendering; KJV punctuation split "Wonderful" from "Counsellor" but Hebrew *Pele Yo'etz* is a single compound title ("Wonder-Counselor"); four throne-names rendered as four distinct titles with *Elohim* preserved.
+- **"Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace" → "Wonderful Counselor, Mighty El, Everlasting Father, Prince of Peace"** (v6) — traditional English throne-name rendering; KJV punctuation split "Wonderful" from "Counsellor" but Hebrew *Pele Yo'etz* is a single compound title ("Wonder-Counselor"); four throne-names rendered as four distinct titles; Hebrew אֵל גִּבּוֹר *El Gibbor* has *El* (not *Elohim*), preserved as "Mighty El" (cf. 10:21).
 - **Poetic structure** — vv2-21 fully formatted as verse with proper line-break parallelism; entire chapter is Hebrew poetry.
 
 ### Notes

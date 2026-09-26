@@ -60,6 +60,7 @@ and they shall call his name Immanu-El"
 - **"Christ" → "*Mashiach*"** — Greek *Christos* translates Hebrew *Mashiach* = "Anointed."
 - **"Holy Ghost" → "*Ruach HaQodesh*"** — Hebrew term preserved.
 - **"Mary" → "*Miryam*"** at first use (then anglicized).
+- **"make her a publick example" → "put her to shame"** (v19) — Greek δειγματίσαι = expose to public disgrace.
 
 ### Notes
 - **Four women in genealogy** (Tamar, Rahab, Ruth, Bathsheba): Gentile or scandalous, hinting at Gospel's scope and grace.

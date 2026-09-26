@@ -32,7 +32,7 @@
 
 [16] And into the ark you shall put the Testimony that I will give you.
 
-[17] You shall make a mercy seat (atonement-cover / mercy-seat) of pure gold; its length shall be two and a half cubits, and its width a cubit and a half.
+[17] You shall make a mercy seat (*kapporet*, atonement cover) of pure gold; its length shall be two and a half cubits, and its width a cubit and a half.
 
 [18] You shall make two cherubim of gold; of hammered work you shall make them, at the two ends of the mercy seat.
 

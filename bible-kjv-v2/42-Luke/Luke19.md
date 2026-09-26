@@ -14,7 +14,7 @@
 
 [7] And when they saw it, they all grumbled, "He has gone in to be the guest of a man who is a sinner."
 
-[8] And Zakkai stood and said to the Lord, "Behold, Lord, the half of my goods I give to the poor. And if I have defrauded anyone of anything, I restore it fourfold."
+[8] And Zacchaeus stood and said to the Lord, "Behold, Lord, the half of my goods I give to the poor. And if I have defrauded anyone of anything, I restore it fourfold."
 
 [9] And *Yeshua* said to him, "Today salvation has come to this house, since he also is a son of Abraham.
 

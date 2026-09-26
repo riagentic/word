@@ -56,7 +56,7 @@
 
 - **"Jesus Christ" / "Christ Jesus" → "*Yeshua* the *Mashiach*" / "*Mashiach* *Yeshua*"** (v3, 18, 20, 25, 27) — systematic.
 - **"God" → "*Elohim*"** (v20, 26, 27) — systematic.
-- **"church"** (v1, 4, 5, 16, 23) — ἐκκλησία church = assembly/congregation; retained in Greek to avoid importing the later ecclesiastical connotations of "church." v4, 16 "churches" (Greek plural).
+- **"church"** (v1, 4, 5, 16, 23) — ἐκκλησία *ekklesia* = assembly/congregation; KJV "church" retained; the word here means a local gathering of believers, not the later ecclesiastical institution. v4, 16 "churches" (Greek plural).
 - **"Junia" (v7)** — Ἰουνίαν *Iounian*: female name Junia retained (as opposed to later masculine rendering "Junias"); strong textual and historical evidence for the feminine form. Paul calls her and Andronicus "well known to the apostles" — possibly meaning they themselves are apostles.
 - **v24 absent** — "The grace of our Lord Jesus Christ be with you all. Amen." (v24 KJV) is absent from the earliest and best Greek manuscripts (א B C); omitted here. Noted.
 - **"Satan" (v20)** — Σατανᾶς *Satanas*, retained as a proper name; the passage echoes Gen 3:15 (crushing the serpent's head).

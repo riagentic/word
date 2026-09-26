@@ -46,6 +46,7 @@ All the people shouted with a great shout in praising Yahweh, because the founda
 - **Altar first** — even before temple foundation, daily sacrifice restored. Worship prioritized over building.
 - **"Fear of the peoples of the lands"** (v3) — hostile neighbors (Samarians, Arabs). Worship a defiant act.
 - **Second year, second month** (v8) — builds begin roughly 536 BC. Parallels Solomon's temple-start.
+- **"The sons of Judah"** (v9) — MT *bnei Yehudah*; in this Levite list likely = "the sons of Hodaviah" (2:40; Neh 7:43 Hodevah), the two names being close in Hebrew. MT kept.
 - **Phoenician cedar again** — repeats Solomon's pattern with Hiram. Cyrus's grant provides the Persian state-level funding.
 - **Mixed tears and shouts** (v12-13) — older generation remembers First Temple's glory; younger rejoices at any restoration. Hag 2:3 echoes this ambivalence.
 - **"His chesed endures forever"** — standard liturgical refrain (Ps 136). Continuity with pre-exilic worship.

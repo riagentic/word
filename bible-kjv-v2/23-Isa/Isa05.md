@@ -153,7 +153,7 @@ and the light is darkened by its clouds.
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"LORD of hosts" → "Yahweh of Hosts"** (vv7, 9, 16, 24) — divine military/sovereign title preserved.
-- **"judgment" / "righteousness" kept as "*mishpat*" / "*tzedaqah*"** (v7) — Hebrew wordplay preserved: *mishpat* (justice) vs. *mispach* (bloodshed); *tzedaqah* (righteousness) vs. *tze'aqah* (outcry). Untranslatable pun noted in text.
+- **"judgment" → "justice"; "oppression" → "bloodshed"; "a cry" → "an outcry"** (v7) — Hebrew wordplay: *mishpat* (justice) vs. *mispach* (bloodshed); *tzedaqah* (righteousness) vs. *tze'aqah* (outcry). The pun cannot be reproduced in English; the words are translated and the pun is noted here.
 - **"Sheol" kept** (v14) — Hebrew underworld; "hell" (KJV) imposes later theological sense.
 - **Poetic structure** — entire chapter set as verse with proper line breaks; KJV verse numbering can mask parallelism.
 

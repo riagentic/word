@@ -9,7 +9,7 @@ miserable comforters are you all.
 What provokes you that you answer?
 
 [4] I also could speak as you do,
-if your soul were in my nephesh's place;
+if your soul were in my soul's place;
 I could heap up words against you
 and shake my head at you.
 

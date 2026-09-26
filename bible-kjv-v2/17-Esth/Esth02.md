@@ -44,7 +44,7 @@
 
 [22] The thing became known to Mordecai, who told it to Queen Esther; Esther reported it to the king in Mordecai's name.
 
-[23] When the matter was investigated and found to be true, the two were hanged on the gallows; it was recorded in the Book of the Chronicles in the king's presence.
+[23] When the matter was investigated and found to be true, the two were hanged on a pole; it was recorded in the Book of the Chronicles in the king's presence.
 
 ## Changes
 
@@ -52,6 +52,7 @@
 - **"fair and beautiful" → "shapely and beautiful"** (v7) — *yefat-to'ar we-tovat mar'eh*.
 - **"princes" → "officials"** (v18).
 - **"release to the provinces" — retained** (v18) — *hanachah*; probably tax remission or amnesty.
+- **"hanged on a tree" → "hanged on a pole"** (v23) — *talah al-etz*; *etz* = wood, tree, pole. Not "gallows": the text names suspension on a pole, not a noose.
 
 ### Notes
 - **Mordecai** — possibly namesake Marduk-inflected Persian-court name. Kish-Shimei-Saul Benjaminite line, setting up Haman/Agag confrontation.
@@ -60,4 +61,4 @@
 - **Year 7** = 479 BC, after Xerxes's failed Greek campaign (480-479). Historical synchronism: king returns humiliated, seeks distraction.
 - **"Esther's Feast"** — civic holiday named after the new queen.
 - **Bigthan and Teresh plot** — assassination attempt. Mordecai's discovery sets up later reward.
-- **Persian impalement** — attested execution method; not modern "hanging."
+- **Hanged on a pole** — Persians impaled or displayed the condemned on stakes (Herodotus 3.159); *talah* names only the suspension, not modern "hanging" by a noose.

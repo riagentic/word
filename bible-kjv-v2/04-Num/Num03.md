@@ -116,4 +116,5 @@
 - **Levite substitution** (v12–13, 41–51) — Yahweh's claim on Israel's firstborn (from the Passover, Ex 13) is transferred to the tribe of Levi. The Levites become living firstborn-substitutes.
 - **Three Levite clans** — Gershon (west, outer fabrics), Kohath (south, sacred vessels), Merari (north, structural frames), plus Moses & Aaron east (doorway/front). Careful geographic-functional distribution.
 - **Firstborn shortfall** (v46) — 22,273 firstborn vs 22,000 Levites; the extra 273 are redeemed by silver (5 shekels apiece), establishing the "redemption of the firstborn" price. Mary and Joseph likely paid the equivalent at Luke 2:22–23.
+- **Levite total** (v39) — MT gives 22,000, but the clan figures (v22, 28, 34: 7,500 + 8,600 + 6,200) add up to 22,300. MT kept: the total fits v46 (22,273 − 22,000 = 273). A common explanation is a copying slip in v28 — שֵׁשׁ "six" for שְׁלֹשׁ "three" (8,300, as some LXX manuscripts read).
 - **Kohathites handle holiest items** (v31) — the ark, the table, the lampstand, the altars. Highest-ranked Levite duty; but they never touch directly — Aaron covers items first (ch 4).

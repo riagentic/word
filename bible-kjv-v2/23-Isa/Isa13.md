@@ -103,7 +103,7 @@ and her days will not be prolonged.
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"LORD of hosts" → "Yahweh of Hosts"** (vv4, 13) — divine military title preserved.
 - **"God" → "*Elohim*"** (v19) — Hebrew *Elohim* when Babylon's destruction is compared to Sodom.
-- **"Day of the LORD" → "*Yom Yahweh* — Day of Yahweh"** (v6) — Hebrew יוֹם יְהוָה; technical eschatological term kept with gloss.
+- **"day of the LORD" → "Day of Yahweh"** (v6, 9) — Hebrew יוֹם יְהוָה *Yom Yahweh*; technical eschatological term, capitalized.
 - **Poetic structure** — entire chapter formatted as verse; KJV was inconsistent.
 
 ### Notes

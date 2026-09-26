@@ -1,6 +1,6 @@
 # Habakkuk 1
 
-[1] The oracle that Habakkuk — the prophet saw.
+[1] The oracle that Habakkuk the prophet saw.
 
 [2] O Yahweh, how long shall I cry for help,
 and you will not hear?
@@ -98,7 +98,7 @@ and mercilessly killing nations forever?
 - **"they shall fly as the eagle that hasteth to eat" → "they fly like an eagle swift to devour"** (v8) — Hebrew כְּנֶשֶׁר חָשׁ לֶאֱכֹל *kennesher chash le'ekhol* = like an eagle hastening to eat; "swift to devour" more vivid.
 - **"Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god" → "Then they sweep by like the wind and go on, guilty men, whose own might is their god"** (v11) — Hebrew אָז חָלַף רוּחַ וַיַּעֲבֹר *az chalaf ruach vayyavor* = then the wind sweeps past and passes on; "guilty men, whose own might is their god" captures the hubris.
 - **"Art thou not from everlasting, O LORD my God, mine Holy One?" → "Are you not from everlasting, O Yahweh my *Elohim*, my Holy One?"** (v12) — Hebrew הֲלוֹא אַתָּה מִקֶּדֶם יְהוָה אֱלֹהַי קְדֹשִׁי; *Elohim* and *Qadosh* both retained.
-- **"O LORD, thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction" → "O Yahweh, you have ordained them as a judgment, and you, O *Rock*, have established them for reproof"** (v12) — Hebrew צוּר *tzur* = Rock (divine title); KJV "mighty God" is mistranslation.
+- **"O LORD, thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction" → "O Yahweh, you have ordained them as a judgment, and you, O Rock, have established them for reproof"** (v12) — Hebrew צוּר *tzur* = Rock (divine title); KJV "mighty God" is mistranslation.
 - **"canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, and holdest thy tongue when the wicked devoureth the man that is more righteous than he?" → "and cannot look at wrong, why do you idly look at traitors and remain silent when the wicked swallows up the man more righteous than he?"** (v13) — modernized.
 - **"They take up all of them with the angle, they catch them in their net, and gather them in their drag" → "He brings all of them up with a hook; he drags them out with his net; he gathers them in his dragnet"** (v15) — Hebrew חַכָּה *chakkah* = hook; חֵרֶם *cherem* = dragnet; "dragnet" retained.
 - **"therefore they sacrifice unto their net, and burn incense unto their drag; because by them their portion is fat, and their meat plenteous" → "Therefore he sacrifices to his net and makes offerings to his dragnet; for by them he lives in luxury, and his food is rich"** (v16) — Hebrew יְזַבֵּחַ לְחֶרְמוֹ *yezabbéach lechermo*; "lives in luxury" for *shamên chelqo* = his portion is fat.

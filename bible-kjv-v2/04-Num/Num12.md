@@ -24,7 +24,7 @@
 
 [12] Let her not be like one dead, whose flesh is half-eaten away when he comes out of his mother's womb."
 
-[13] So Moses cried out to Yahweh, saying, "O *Elohim*, please heal her."
+[13] So Moses cried out to Yahweh, saying, "O El, please heal her."
 
 [14] Yahweh said to Moses, "If her father had but spit in her face, would she not be shamed seven days? Let her be shut outside the camp for seven days, and after that she may be brought back in."
 

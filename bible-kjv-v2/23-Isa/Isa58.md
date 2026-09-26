@@ -82,7 +82,7 @@ for the mouth of Yahweh has spoken."
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"God" → "*Elohim*"** (vv2, 13) — Hebrew *Elohim* preserved; "draw near to *Elohim*"; "holy day of Yahweh" / "*Elohim*" used in same verse.
+- **"God" → "*Elohim*"** (v2) — Hebrew *Elohim* preserved; "the judgment of their *Elohim*", "draw near to *Elohim*".
 - **Poetic structure** — entire chapter formatted as verse; prophetic address on fasting ethics.
 
 ### Notes

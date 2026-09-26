@@ -34,7 +34,7 @@ but by my Spirit,' says Yahweh of Hosts.**
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton יְהוָה rendered directly.
-- **"LORD of hosts" → "Yahweh of Hosts"** (vv6, 9, 10) — Hebrew יְהוָה צְבָאוֹת *Yahweh Tzeva'ot*; the military-covenantal divine title preserved.
+- **"LORD of hosts" → "Yahweh of Hosts"** (vv6, 9) — Hebrew יְהוָה צְבָאוֹת *Yahweh Tzeva'ot*; the military-covenantal divine title preserved.
 
 ### Notes
 - **v6** — "Not by might, nor by power, but by my Spirit" — oft-cited promise.

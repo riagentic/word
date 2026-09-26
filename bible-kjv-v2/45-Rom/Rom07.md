@@ -55,9 +55,9 @@
 - **"Jesus Christ" → "*Yeshua* the *Mashiach*"** (v25) — systematic.
 - **"God" → "*Elohim*"** (v4, 22, 25) — systematic.
 - **"Christ" → "*Mashiach*"** (v4) — systematic.
-- **"law" → "Torah"** (v1–6, 7, 8, 9, 12, 14, 16, 22, 25) — a complex chapter where Paul uses *nomos* in multiple senses. Torah (Mosaic law) in v1–6, 7, 12, 14, 16, 22, 25 rendered "Torah"; in v21, 23 Paul uses "law" (principle/rule) metaphorically — retained as "law" in those instances to preserve the wordplay (law of sin, law of mind, etc.).
+- **"law" → "Torah"** (v4–9, 12, 14, 16, 22, 25) — a complex chapter where Paul uses *nomos* in multiple senses. Torah (Mosaic law) in v4–9, 12, 14, 16, 22, 25 rendered "Torah"; in v1–3 the marriage illustration speaks of law as binding legal principle (νόμος τοῦ ἀνδρός, v2), so "law" is kept there; in v21, 23 Paul uses "law" (principle/rule) metaphorically — retained as "law" in those instances to preserve the wordplay (law of sin, law of mind, etc.).
 - **"Thou shalt not covet" → "You shall not covet"** (v7) — OT quotation from Ex 20:17/Deut 5:21; archaic forms modernized.
-- **"old man" → "old self"** (implied in v6 "written code") — the chapter contrasts old and new covenant service; "written code" for γράμμα = letter (of the Torah).
+- **"in newness of spirit, and not in the oldness of the letter" → "in the new way of the Spirit and not in the old way of the written code"** (v6) — the chapter contrasts old and new covenant service; "written code" for γράμμα = letter (of the Torah).
 - **"For that which I do I allow not" → "I do not understand my own actions"** (v15) — KJV "allow" meant "acknowledge/approve" in 1611; modernized.
 - **"For to will is present with me; but how to perform that which is good I find not" → "I have the desire to do what is right, but not the ability to carry it out"** (v18) — archaic KJV fully modernized.
 

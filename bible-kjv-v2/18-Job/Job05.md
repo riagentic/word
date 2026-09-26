@@ -93,4 +93,4 @@ hear it, and know it for yourself."
 - **Eliphaz continues** — points to universal providence. Humans born to trouble like sparks flying up (v7) — famous image.
 - **"Six... seven troubles"** (v19) — numerical parallelism; encompassing.
 - **Promise pattern** — if Job submits to divine discipline, restoration. The ground of Job's problem: he already is innocent; friends' counsel assumes the opposite.
-- **Rom 11:11 possibly echoes v13** — "takes the wise in their craftiness" (1 Cor 3:19 cites this verse directly).
+- **1 Cor 3:19 cites v13** — "He catches the wise in their craftiness" (Paul quotes this verse directly).

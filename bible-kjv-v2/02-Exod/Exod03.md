@@ -26,7 +26,7 @@
 
 [13] Moses said to *Elohim*, "Behold, when I come to the children of Israel and say to them, 'The *Elohim* of your fathers has sent me to you,' and they ask me, 'What is his name?' — what shall I say to them?"
 
-[14] *Elohim* said to Moses, "**I AM WHO I AM.**" And he said, "Thus you shall say to the children of Israel: '**I AM has sent me to you.**'"
+[14] *Elohim* said to Moses, "**Ehyeh-Asher-Ehyeh (I Will Be What I Will Be).**" And he said, "Thus you shall say to the children of Israel: '**Ehyeh (I Will Be) has sent me to you.**'"
 
 [15] And *Elohim* said further to Moses, "Thus you shall say to the children of Israel: 'Yahweh, the *Elohim* of your fathers — the *Elohim* of Abraham, the *Elohim* of Isaac, and the *Elohim* of Jacob — has sent me to you. This is my name forever, and this is my memorial from generation to generation.'
 

@@ -69,5 +69,5 @@
 - **"Holy Ghost" → "*Ruach HaQodesh*"** (v26) — Hebrew רוּחַ הַקֹּדֶשׁ *Ruach HaQodesh* ("Spirit of Holiness"); archaic "Ghost" replaced.
 - **"mansions" → "rooms"** (v2) — Greek μονή *mone* = "dwelling places, rooms"; KJV "mansions" (from Latin *mansiones*) has become misleading in modern English.
 - **"Verily, verily" → "Truly, truly"** (v12) — consistent rendering.
-- **"Peace" / "*Shalom*"** — in this chapter *Yeshua* says "Peace I leave with you" (v27); rendered as English "peace" since it is thematic rather than a greeting formula (contrast ch. 20 where *Shalom* is used as a greeting).
+- **"Peace" / "*Shalom*"** — in this chapter *Yeshua* says "Peace I leave with you" (v27); Greek εἰρήνη *eirēnē* (Hebrew *shalom*), rendered as English "peace," as also in the greeting of ch. 20 ("Peace be with you," vv19, 21, 26).
 - **Archaic pronouns and verb forms** (thee, thou, thy, ye, hast, art, etc.) modernized throughout.

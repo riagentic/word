@@ -114,7 +114,7 @@ I would blot out their memory from humankind' —
 [27] had I not feared the provocation of the enemy,
 lest their adversaries misunderstand,
 lest they say, 'Our hand is triumphant;
-it is not Yahweh who has done all this.'
+it is not Yahweh who has done all this.'"
 
 [28] For they are a nation void of counsel,
 and there is no understanding in them.
@@ -181,7 +181,7 @@ from the heads of the long-haired enemy."
 [43] Shout for joy, O nations, with his people,
 for he will avenge the blood of his servants;
 he will render vengeance on his adversaries
-and make atonement for his land, his people."
+and make atonement for his land, his people.
 
 [44] Moses came and spoke all the words of this song in the hearing of the people, he and Hoshea son of Nun.
 

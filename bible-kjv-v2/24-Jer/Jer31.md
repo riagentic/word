@@ -10,7 +10,7 @@ and they shall be my people."
 found grace in the wilderness;
 when Israel sought for rest,
 
-[3] Yahweh appeared to him from far away.
+[3] Yahweh appeared to me from far away.
 I have loved you with an everlasting love;
 therefore I have continued my steadfast love to you.
 
@@ -193,8 +193,9 @@ for all that they have done, declares Yahweh."
 
 - **"LORD of hosts" → "Yahweh of Hosts"** (v35) — Hebrew יְהוָה צְבָאוֹת preserved.
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"God" → "*Elohim*"** (vv1, 6, 18, 33, 38) — Hebrew *Elohim* preserved.
-- **Poetic structure** — vv1-22 largely verse (Book of Consolation continues); vv31-34, 36-38 verse; prose sections preserved.
+- **"God" → "*Elohim*"** (vv1, 6, 18, 23, 33) — Hebrew *Elohim* preserved.
+- **"unto me" → "to me"** (v3) — MT נִרְאָה לִי "appeared to me" kept; the LXX reads αὐτῷ "to him".
+- **Poetic structure** — vv1-22 largely verse (Book of Consolation continues); vv31-34, 36-37 verse; prose sections preserved.
 
 ### Notes
 - **v15** — "Rachel weeping": cited Matt 2:18 for slaughter of innocents.

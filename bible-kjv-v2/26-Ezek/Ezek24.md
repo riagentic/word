@@ -6,7 +6,7 @@
 
 [3] And utter a parable to the rebellious house and say to them, Thus says Lord Yahweh:
 
-"Set on the pot, set it on;
+'Set on the pot, set it on;
 pour in water also;
 
 [4] put in it the pieces of meat,
@@ -16,7 +16,7 @@ fill it with choice bones.
 [5] Take the choicest one of the flock;
 pile the logs under it;
 boil it well;
-seethe also its bones in it.
+seethe also its bones in it.'
 
 [6] "Therefore thus says Lord Yahweh: Woe to the bloody city, to the pot whose corrosion is in it, and whose corrosion has not gone out of it! Take out of it piece after piece, without making any choice.
 

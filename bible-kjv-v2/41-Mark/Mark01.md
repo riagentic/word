@@ -36,7 +36,7 @@
 
 [18] And immediately they left their nets and followed him.
 
-[19] And going on a little farther, he saw James the son of Zebedee and John his brother, who were in their boat mending the nets.
+[19] And going on a little farther, he saw Jacob the son of Zebedee and John his brother, who were in their boat mending the nets.
 
 [20] And immediately he called them, and they left their father Zebedee in the boat with the hired servants and followed him.
 
@@ -56,7 +56,7 @@
 
 [28] And at once his fame spread everywhere throughout all the surrounding region of Galilee.
 
-[29] And immediately he left the synagogue and entered the house of Simon and Andrew, with James and John.
+[29] And immediately he left the synagogue and entered the house of Simon and Andrew, with Jacob and John.
 
 [30] Now Simon's mother-in-law lay ill with a fever, and immediately they told him about her.
 
@@ -92,6 +92,7 @@
 
 ## Changes
 
+- **"James" → "Jacob"** (v19, 29) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"Jesus Christ, the Son of God" → "*Yeshua* the *Mashiach*, the Son of *Elohim*"** (v1) — Hebrew/Aramaic name *Yeshua* ("Yahweh saves"); Greek *Christos* = Hebrew *Mashiach* ("Anointed One"); *Elohim* retained as divine name throughout.
 - **"in the prophets" → "in Isaiah the prophet"** (v2) — most MSS read "Isaiah the prophet" (Sinaiticus, Vaticanus, etc.); KJV follows the Byzantine "in the prophets," softening an apparent error since v2 quotes Malachi, not Isaiah. Critical text reads Isaiah.
 - **"John did baptize" → "John appeared, immersing"** (v4) — "baptize" renders Greek *baptizo* = "to dip/immerse," translated literally throughout.

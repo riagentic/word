@@ -68,7 +68,7 @@ The next day he rose and went away with them, and some of the brothers from Jopp
 
 [33] So I sent for you at once, and you have been kind enough to come. Now therefore we are all here in the presence of *Elohim* to hear all that you have been commanded by the Lord."
 
-**[34] So *Kefa* opened his mouth and said: "Truly I understand that ***Elohim* shows no partiality,
+[34] So *Kefa* opened his mouth and said: "Truly I understand that ***Elohim* shows no partiality,**
 
 **[35] but in every nation anyone who fears him and does what is right is acceptable to him**.
 
@@ -106,6 +106,6 @@ The next day he rose and went away with them, and some of the brothers from Jopp
 - **"Holy Ghost" → "*Ruach HaQodesh*"** (v38, 44, 45, 47) — consistent rendering.
 - **"Peter" / "*Kefa*"** (v5, 9, 13, 14, 17, 18, 19, 21, 25, 26, 32, 34, 44, 45, 46, 47) — Aramaic name used consistently throughout.
 - **"baptized" → "immersed"** (v47, 48) — Greek *baptizo* = "to immerse"; consistent rendering.
-- **"shalom" / "peace"** (v36) — Greek εἰρήνη *eirēnē* here clearly renders Hebrew שָׁלוֹם *shalom*; rendered "*shalom*" to preserve the Hebrew covenant-peace concept.
+- **"shalom" / "peace"** (v36) — Greek εἰρήνη *eirēnē* here clearly renders Hebrew שָׁלוֹם *shalom* (covenant peace, wholeness); rendered "peace" in the text.
 - **"God is no respecter of persons" → "*Elohim* shows no partiality"** (v34) — modernized from archaic "respecter of persons."
 - **Gentile inclusion theme** — theologically central; *Kefa's* vision and Cornelius episode mark the first Gentile reception of the *Ruach HaQodesh*.

@@ -4,10 +4,10 @@
 
 [2] "Son of man, say to the prince — of Tyre, Thus says Lord Yahweh:
 
-"Because your heart is proud,
-and you have said, 'I am a god;
+'Because your heart is proud,
+and you have said, "I am a god;
 I sit in the seat of the gods,
-in the heart of the seas,'
+in the heart of the seas,"
 yet you are but a man, and no god,
 though you make your heart like the heart of a god —
 
@@ -36,20 +36,20 @@ and defile your splendor.
 and you shall die the death of the slain
 in the heart of the seas.
 
-[9] Will you still say, 'I am a god,'
+[9] Will you still say, "I am a god,"
 in the presence of those who kill you,
 though you are but a man, and no god,
 in the hands of those who slay you?
 
 [10] You shall die the death of the uncircumcised
 by the hand of foreigners;
-for I have spoken, declares Lord Yahweh."
+for I have spoken, declares Lord Yahweh.'"
 
 [11] Moreover, the word of Yahweh came to me:
 
 [12] "Son of man, raise a lamentation over the king of Tyre, and say to him, Thus says Lord Yahweh:
 
-"You were the signet of perfection,
+'You were the signet of perfection,
 full of wisdom and perfect in beauty.
 
 [13] You were in Eden, the garden of *Elohim*;
@@ -92,7 +92,7 @@ in the sight of all who saw you.
 [19] All who know you among the peoples
 are appalled at you;
 you have come to a dreadful end
-and shall be no more forever."
+and shall be no more forever.'"
 
 [20] The word of Yahweh came to me:
 
@@ -100,7 +100,7 @@ and shall be no more forever."
 
 [22] and say, Thus says Lord Yahweh:
 
-"Behold, I am against you, O Sidon,
+'Behold, I am against you, O Sidon,
 and I will manifest my glory in your midst.
 And they shall know that I am Yahweh
 when I execute judgments in her
@@ -110,7 +110,7 @@ and manifest my holiness in her;
 and blood into her streets;
 and the slain shall fall in her midst,
 by the sword that is against her on every side.
-Then they will know that I am Yahweh.
+Then they will know that I am Yahweh.'
 
 [24] "And for the house of Israel there shall be no more a brier to prick or a thorn to hurt them among all their neighbors who have treated them with contempt. Then they will know that I am Lord Yahweh.
 
@@ -122,7 +122,8 @@ Then they will know that I am Yahweh.
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton יְהוָה rendered directly.
 - **"Lord GOD" → "Lord Yahweh"** (throughout) — Hebrew אֲדֹנָי יְהוִה *Adonai Yahweh*; Ezekiel's distinctive doubled divine title.
-- **"God" → "*Elohim*"** (vv2, 6, 13, 14, 16) — Hebrew אֱלֹהִים *Elohim*; "I am a god / I sit in the seat of the gods"; "the garden of *Elohim*"; "the holy mountain of *Elohim*."
+- **"God" → "*Elohim*"** (vv13, 14, 16) — Hebrew אֱלֹהִים *Elohim*; "the garden of *Elohim*"; "the holy mountain of *Elohim*."
+- **"a God" / "the seat of God" / "not God" → "a god" / "the seat of the gods" / "no god"** (vv2, 6, 9) — Hebrew אֵל and אֱלֹהִים in the king's claim to divinity ("I am a god; I sit in the seat of the gods") and its rebuttal; rendered generically as "god(s)".
 - **"Eden" retained** (v13) — Hebrew עֵדֶן *Eden*; "You were in *Eden*, the garden of *Elohim*"; the king of Tyre as an Adam-figure cast from paradise.
 
 ### Notes

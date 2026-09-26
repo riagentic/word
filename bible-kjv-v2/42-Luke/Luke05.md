@@ -18,7 +18,7 @@
 
 [9] For he and all who were with him were astonished at the catch of fish that they had taken,
 
-[10] and so also were James and John, sons of Zebedee, who were partners with Simon. And *Yeshua* said to Simon, "Do not be afraid; from now on you will be catching men."
+[10] and so also were Jacob and John, sons of Zebedee, who were partners with Simon. And *Yeshua* said to Simon, "Do not be afraid; from now on you will be catching men."
 
 [11] And when they had brought their boats to land, they left everything and followed him.
 
@@ -80,6 +80,7 @@
 
 ## Changes
 
+- **"James" → "Jacob"** (v10) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"Jesus" → "*Yeshua*"** (throughout) — Hebrew name preserved.
 - **"God" → "*Elohim*"** (vv1, 21, 25, 26) — divine name retained.
 - **"Simon Peter" → "Simon *Kefa*"** (v8) — Aramaic *Kefa* = Rock; first use of the name in Luke.

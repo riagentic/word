@@ -270,7 +270,7 @@ the noise of their voice is raised,
 upon Babylon;
 her warriors are taken;
 their bows are broken in pieces,
-for Yahweh is an *Elohim* of recompense;
+for Yahweh is an El of recompense;
 he will surely repay.
 
 [57] I will make drunk her officials and her wise men,
@@ -303,7 +303,8 @@ Thus far are the words of Jeremiah.
 
 - **"LORD of hosts" → "Yahweh of Hosts"** (vv5, 14, 19, 33, 57-58) — Hebrew יְהוָה צְבָאוֹת preserved.
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"God" → "*Elohim*"** (vv5, 10) — Hebrew *Elohim* preserved.
+- **"God" → "*Elohim*"** (vv5, 10, 33) — Hebrew *Elohim* preserved.
+- **"the LORD God of recompences" → "Yahweh is an El of recompense"** (v56) — Hebrew אֵל גְּמֻלוֹת יְהוָה: *El*, not *Elohim*.
 - **Poetic structure** — vv1-58 entirely formatted as verse; longest oracular poem in Jeremiah; prose conclusion vv59-64 preserved.
 
 ### Notes

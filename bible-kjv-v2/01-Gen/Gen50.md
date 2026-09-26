@@ -8,7 +8,7 @@
 
 [4] When the days of weeping for him were past, Joseph spoke to the household of Pharaoh, saying, "If now I have found favor in your eyes, please speak in the ears of Pharaoh, saying,
 
-[5]'My father made me swear, saying, "Behold, I am about to die. In my grave that I hewed out for myself in the land of Canaan, there you shall bury me." Now therefore please let me go up and bury my father, and then I will return.'"
+[5] 'My father made me swear, saying, "Behold, I am about to die. In my grave that I hewed out for myself in the land of Canaan, there you shall bury me." Now therefore please let me go up and bury my father, and then I will return.'"
 
 [6] Pharaoh said, "Go up and bury your father, as he made you swear."
 
@@ -64,7 +64,7 @@
 - **v16 Jacob's supposed deathbed command** — there is no prior record of Jacob giving such a command. Either it was given privately (not narrated) or the brothers invented the message to move Joseph. Narrator reports without judging.
 - **"trespass" → "offense"** (v17) — Hebrew פֶּשַׁע *pesha* = transgression / rebellion / crime. Not "trespass" in modern property-law sense.
 - **"am I in the place of God?" (v19)** — same phrase Jacob used to Rachel (30:2). Joseph disclaims any judgment-role — "to forgive or avenge is not mine; I leave it to *Elohim*." Also invocation-of-restraint: if God has used evil for good (v20), the human reprisal would mean second-guessing the divine outcome.
-- **"ye thought evil against me; but God meant it unto good" → "you intended evil against me, but *Elohim* intended it for good"** (v20) — Hebrew חֲשַׁבְתֶּם עָלַי רָעָה אֱלֹהִים חֲשָׁבָהּ לְטֹבָה *chashavtem alay ra'ah *Elohim* chashvah le-tovah*. The pivotal theological verse of Genesis (some say of the whole Hebrew Bible). *Chashav* = "reckoned / planned." Identical verb for both human malice and divine providence. The same act carries two intentions simultaneously; both are real; the divine prevails.
+- **"ye thought evil against me; but God meant it unto good" → "you intended evil against me, but *Elohim* intended it for good"** (v20) — Hebrew חֲשַׁבְתֶּם עָלַי רָעָה אֱלֹהִים חֲשָׁבָהּ לְטֹבָה *chashavtem alay ra'ah Elohim chashvah le-tovah*. The pivotal theological verse of Genesis (some say of the whole Hebrew Bible). *Chashav* = "reckoned / planned." Identical verb for both human malice and divine providence. The same act carries two intentions simultaneously; both are real; the divine prevails.
 - **"spake kindly unto them" → "spoke to their hearts"** (v21) — Hebrew וַיְדַבֵּר עַל־לִבָּם *wa-ydaber al-libbam* = spoke to their heart, as in 34:3. Tender consolation.
 - **"brought up upon Joseph's knees" → "born on Joseph's knees"** (v23) — Hebrew יֻלְּדוּ עַל־בִּרְכֵּי יוֹסֵף *yulledu al-birkhey Yosef*. Ritual adoption gesture (as in 30:3) — Machir's children are accepted as Joseph's heirs.
 - **"visit" (v24, 25)** — Hebrew פָּקַד *paqad* = attend to / visit / take care of (with saving action). Anticipates the Exodus: "*Elohim* will surely *paqad* you" — the visitation-for-redemption that Ex 3:16 announces as imminent.

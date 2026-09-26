@@ -35,7 +35,7 @@ They have forgotten their fold.
 [7] All who found them have devoured them,
 and their enemies have said, 'We are not guilty,
 for they have sinned against Yahweh,
-their habitation of righteousness,
+the habitation of righteousness,
 Yahweh, the hope of their fathers.'
 
 [8] Flee from the midst of Babylon,

@@ -46,7 +46,7 @@
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
 - **"turn thy captivity" → "restore your fortunes"** (v3) — Hebrew וְשָׁב ... אֶת־שְׁבוּתְךָ *ve-shav ... et-shevutkha*. Hebrew double entendre: "turn your turning" — restoration both of captives and of general fortunes.
 - **"circumcise thine heart"** (v6) — Hebrew *u-mal YHWH Eloheikha et levavkha*. Internal transformation promised by Yahweh himself. Compare 10:16 (Israel commanded to circumcise their own hearts). Here, Yahweh does it.
-- **"not hidden / not far off"** → "not too wondrous for you, nor is it far off"** (v11) — Hebrew לֹא־נִפְלֵאת *lo nifle't*. Not beyond understanding / reach.
+- **"not hidden / not far off" → "not too wondrous for you, nor is it far off"** (v11) — Hebrew לֹא־נִפְלֵאת *lo nifle't*. Not beyond understanding / reach.
 - **"to record" → "to witness"** (v19) — Hebrew *ha-idoti bakhem*. Invocation of heaven and earth as witnesses.
 - **"cleave unto him" → "holding fast to him"** (v20) — *davaq*.
 - **"denounce" → "declare"** (v18) — modernized.

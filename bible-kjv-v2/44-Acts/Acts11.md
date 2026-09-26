@@ -65,7 +65,7 @@
 - **"God" → "*Elohim*"** (throughout) — Hebrew divine name preserved.
 - **"Holy Ghost" → "*Ruach HaQodesh*"** (v15, 16, 24, 28) — consistent rendering.
 - **"Jesus" → "*Yeshua*"** (throughout) — systematic name transliteration.
-- **"Christ" → "*Mashiach*"** (implied; no direct occurrence this chapter).
+- **"Christ" → "*Mashiach*"** (v17) — Greek Χριστόν *Christon*; Hebrew messianic title.
 - **"Peter" / "*Kefa*"** (v2, 4, 7, 13) — Aramaic name used consistently.
 - **"baptized / baptizeth" → "immersed"** (v16) — Greek *baptizo* = "to immerse."
 - **"Cyrene" / "*Cyrene*"** (v20) — retained.

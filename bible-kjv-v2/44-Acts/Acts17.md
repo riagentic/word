@@ -84,7 +84,7 @@ as even some of your own poets have said,
 - **"church / synagogue"** — *synagōgē* retained as "synagogue"; no church in this chapter.
 - **"Dionysios" / "*Dionysios*"** (v34) — Greek name transliterated more closely to original form.
 - **"Damaris"** (v34) — Greek Δάμαρις *Damaris*; retained.
-- **"the unknown God" / "AGNOSTOS THEOS"** (v23) — Latin inscription form preserved; Paul's Areopagus speech begins from a pagan religious context.
+- **"TO THE UNKNOWN GOD" → "To the unknown god"** (v23) — the inscription is Greek, Ἀγνώστῳ θεῷ *Agnōstō theō*; "god" in lower case because it names a deity of the Athenians' pagan worship, from which Paul's Areopagus speech begins.
 - **Greek poets quoted** (v28) — Epimenides of Crete ("In him we live and move and have our being") and Aratus (*Phaenomena* 5, "For we are indeed his offspring"); unusual — Paul quotes pagan poets as pointing toward *Elohim*; noted.
 - **"ignorance" → "times of ignorance"** (v30) — Greek ἀγνοίας *agnoias*; retained.
 - **Archaic pronouns and verb forms** modernized throughout.

@@ -26,7 +26,7 @@
 
 [13] And you shall know that I am Yahweh, when I open your graves, and raise you from your graves, O my people.
 
-[14] And I will put my Spirit within you, and you shall live, and I will place you in your own land. Then you shall know that I am Yahweh; I have spoken, and I will do it, declares Yahweh."
+[14] And I will put my Spirit within you, and you shall live, and I will place you in your own land. Then you shall know that I, Yahweh, have spoken, and I will do it, declares Yahweh."
 
 [15] The word of Yahweh came to me:
 

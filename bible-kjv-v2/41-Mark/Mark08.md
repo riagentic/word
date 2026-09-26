@@ -83,6 +83,5 @@
 - **"Christ" → "*Mashiach*"** (v29) — Hebrew Anointed.
 - **"Peter" → "*Kefa*"** (vv29, 32, 33) — Aramaic name preserved.
 - **"John the Baptist" → "John the Immerser"** (v28) — "Immerser" renders *baptistēs*; see Mark 1.
-- **"baptized … baptism" → "immersed … immersion"** (v38 context; v38 is about shame, but v38 v38 note — actually immersion appears here in v38 of the text as "immersed with the immersion") — the metaphorical use of *baptizo* (v38, not in this chapter actually; this usage is in Mark 10:38-39).
 - **"holy angels" → "the holy angels"** (v38) — retained as is; consistent.
 

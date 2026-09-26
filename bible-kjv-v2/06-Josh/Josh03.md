@@ -18,7 +18,7 @@
 
 [9] Joshua said to the children of Israel, "Come here, and listen to the words of Yahweh your *Elohim*."
 
-[10] And Joshua said, "By this you shall know that the living *Elohim* is among you, and that he will without fail drive out from before you the Canaanite, the Hittite, the Hivite, the Perizzite, the Girgashite, the Amorite, and the Jebusite.
+[10] And Joshua said, "By this you shall know that the living El is among you, and that he will without fail drive out from before you the Canaanite, the Hittite, the Hivite, the Perizzite, the Girgashite, the Amorite, and the Jebusite.
 
 [11] Behold, the ark of the covenant of the Lord of all the earth is crossing over before you into the Jordan.
 

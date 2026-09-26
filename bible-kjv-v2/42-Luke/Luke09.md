@@ -54,7 +54,7 @@
 
 [27] But I tell you truly, there are some standing here who will not taste death until they see the kingdom of *Elohim*."
 
-[28] Now about eight days after these sayings he took with him *Kefa* and John and James and went up on the mountain to pray.
+[28] Now about eight days after these sayings he took with him *Kefa* and John and Jacob and went up on the mountain to pray.
 
 [29] And as he was praying, the appearance of his face was altered, and his clothing became dazzling white.
 
@@ -108,7 +108,7 @@ But while they were all marveling at everything he was doing, *Yeshua* said to h
 
 [53] But the people did not receive him, because his face was set toward Jerusalem.
 
-[54] And when his disciples James and John saw it, they said, "Lord, do you want us to tell fire to come down from heaven and consume them?"
+[54] And when his disciples Jacob and John saw it, they said, "Lord, do you want us to tell fire to come down from heaven and consume them?"
 
 [55] But he turned and rebuked them.
 
@@ -128,11 +128,12 @@ But while they were all marveling at everything he was doing, *Yeshua* said to h
 
 ## Changes
 
+- **"James" → "Jacob"** (v28, 54) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"Jesus" → "*Yeshua*"** (throughout) — Hebrew name preserved.
 - **"God" → "*Elohim*"** (vv2, 11, 20, 27, 43, 60, 62) — divine name retained.
 - **"Christ" → "*Mashiach*"** (v20) — Hebrew Anointed; "*Kefa* answered, 'The *Mashiach* of *Elohim*.'"
 - **"Peter" → "*Kefa*"** (vv20, 28, 32, 33) — Aramaic name preserved.
-- **"John the Baptist" → "John the Immerser"** (vv7, 19) — "Immerser" renders *baptistēs*; consistent rendering.
-- **"baptized … baptism" → "immersed"** (v9 — actually no baptism here; check) — baptism terminology not in this chapter; *exodos* noted below.
+- **"John the Baptist" → "John the Immerser"** (v19) — "Immerser" renders *baptistēs*; consistent rendering.
+- **"decease" → "departure"** (v31) — Greek ἔξοδον *exodon* = exodus/departure; his death at Jerusalem is framed as an exodus.
 - **"devils" → "demon / unclean spirit"** (vv39, 42) — Greek *pneuma* / *daimonion*.
 

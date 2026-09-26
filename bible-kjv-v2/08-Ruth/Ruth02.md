@@ -64,5 +64,5 @@
 - **Gleaning rights** (Lev 19:9–10, 23:22, Deut 24:19–21) — Ruth operates within these provisions; Boaz exceeds them in hospitality.
 - **"By chance she happened"** (v3) — narrator's wink at providence. The text acknowledges apparent chance but frames it as divine guidance.
 - **Boaz's generosity** — goes beyond legal minimum: access to water, protection from harassment, food at mealtime, dropped bundles for her to glean.
-- **Ruth's status** — twice noted she is a Moabitess (v2, 21) and foreigner (v10). Boaz's inclusive welcome is the theological heart of the book.
+- **Ruth's status** — three times noted she is a Moabitess (v2, 6, 21) and foreigner (v10). Boaz's inclusive welcome is the theological heart of the book.
 - **Go'el** (v20) — key term introduced. The kinsman-redeemer who has rights and duties to preserve the family's line and land (Lev 25, Deut 25:5–10).

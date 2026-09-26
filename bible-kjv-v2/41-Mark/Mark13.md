@@ -4,7 +4,7 @@
 
 [2] And *Yeshua* said to him, "Do you see these great buildings? There will not be left here one stone upon another that will not be thrown down."
 
-[3] And as he sat on the Mount of Olives opposite the temple, *Kefa* and James and John and Andrew asked him privately,
+[3] And as he sat on the Mount of Olives opposite the temple, *Kefa* and Jacob and John and Andrew asked him privately,
 
 [4] "Tell us, when will these things be, and what will be the sign when all these things are about to be accomplished?"
 
@@ -77,9 +77,10 @@ and the powers in the heavens will be shaken.
 
 ## Changes
 
+- **"James" → "Jacob"** (v3) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"Jesus" → "*Yeshua*"** (throughout) — Hebrew name preserved.
 - **"God" → "*Elohim*"** (v19) — divine name retained.
-- **"Christ" → "*Mashiach*"** (vv21, 22) — Hebrew Anointed; "false Christs" → "false *Mashiachs*."
+- **"Christ" → "*Mashiach*"** (v21) — Hebrew Anointed; in v22 "false Christs" (ψευδόχριστοι *pseudochristoi*) → "false messiahs."
 - **"Peter" → "*Kefa*"** (v3) — Aramaic name preserved.
 - **"Holy Ghost" → "*Ruach HaQodesh*"** (v11) — Hebrew divine Spirit.
 - **"straightway" → "immediately"** — Greek *euthys*.

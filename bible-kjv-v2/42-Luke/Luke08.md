@@ -102,7 +102,7 @@ As *Yeshua* went, the people pressed around him.
 
 [50] But *Yeshua* on hearing this answered him, "Do not fear; only believe, and she will be well."
 
-[51] And when he came to the house, he allowed no one to enter with him, except *Kefa* and John and James, and the father and mother of the child.
+[51] And when he came to the house, he allowed no one to enter with him, except *Kefa* and John and Jacob, and the father and mother of the child.
 
 [52] And all were weeping and mourning for her, but he said, "Do not weep, for she is not dead but sleeping."
 
@@ -116,6 +116,7 @@ As *Yeshua* went, the people pressed around him.
 
 ## Changes
 
+- **"James" → "Jacob"** (v51) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"Jesus" → "*Yeshua*"** (throughout) — Hebrew name preserved.
 - **"God" → "*Elohim*"** (vv1, 11, 21, 28, 39) — divine name retained.
 - **"Peter" → "*Kefa*"** (v45) — Aramaic name preserved.

@@ -57,7 +57,7 @@ from Lebo-Hamath to the Brook of the Arabah."
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"Lord GOD" / "Lord the God of hosts" → "Lord Yahweh" / "*Elohei Tzeva'ot*"** (v8) — Hebrew אֲדֹנָי יְהוָה אֱלֹהֵי הַצְּבָאוֹת.
+- **"Lord GOD" / "Lord the God of hosts" → "Lord Yahweh" / "Yahweh, the *Elohim* of Hosts"** (v8) — Hebrew אֲדֹנָי יְהוָה … יְהוָה אֱלֹהֵי צְבָאוֹת (*Elohei Tzeva'ot*).
 - **"the LORD the God of hosts" → "Yahweh, the God of Hosts"** (v14) — consistent.
 - **Poetry formatted with blockquote indentation** (throughout) — KJV prose; the woe-oracle is poetry.
 - **"trust in the mountain of Samaria" → "feel secure on the mountain of Samaria"** (v1) — Hebrew הַבֹּטְחִים *habotchim* = those who trust/feel secure; "feel secure" captures the complacency.

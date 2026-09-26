@@ -40,7 +40,7 @@
 
 [20] Moreover, Yahweh your *Elohim* will send the hornet among them, until those who are left and hide themselves from you perish.
 
-[21] You shall not be in dread of them, for Yahweh your *Elohim* is in your midst — a great and fearsome *Elohim*.
+[21] You shall not be in dread of them, for Yahweh your *Elohim* is in your midst — a great and fearsome El.
 
 [22] Yahweh your *Elohim* will clear away these nations before you little by little; you shall not be able to destroy them all at once, lest the wild animals multiply against you.
 

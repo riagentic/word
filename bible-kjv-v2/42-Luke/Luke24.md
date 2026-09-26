@@ -18,7 +18,7 @@
 
 [9] and returning from the tomb they told all these things to the eleven and to all the rest.
 
-[10] Now it was Mary Magdalene and Joanna and Mary the mother of James and the other women with them who told these things to the apostles,
+[10] Now it was Mary Magdalene and Joanna and Mary the mother of Jacob and the other women with them who told these things to the apostles,
 
 [11] but these words seemed to them an idle tale, and they did not believe them.
 
@@ -108,6 +108,7 @@
 
 ## Changes
 
+- **"James" → "Jacob"** (v10) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"Jesus" → "*Yeshua*"** (throughout) — Hebrew name preserved.
 - **"God" → "*Elohim*"** (vv19, 53) — divine name retained.
 - **"Christ" → "*Mashiach*"** (vv26, 46) — Hebrew Anointed.

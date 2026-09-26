@@ -38,7 +38,7 @@ To the churches of Galatia:
 
 [18] Then after three years I went up to Jerusalem to visit *Kefa* and remained with him fifteen days.
 
-[19] But I saw none of the other apostles except James the Lord's brother.
+[19] But I saw none of the other apostles except Jacob the Lord's brother.
 
 [20] (In what I am writing to you, before *Elohim*, I do not lie!)
 
@@ -52,6 +52,7 @@ To the churches of Galatia:
 
 ## Changes
 
+- **"James" → "Jacob"** (v19) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"Jesus Christ" → "*Yeshua* the *Mashiach*"** (throughout) — Greek *Iēsous Christos* transliterates Hebrew/Aramaic *Yeshua* and renders Hebrew *Mashiach* = "Anointed One."
 - **"God" → "*Elohim*"** (throughout) — Greek *theos* renders Hebrew *Elohim*.
 - **"Cephas" → "*Kefa*"** (v18) — Aramaic כֵּיפָא *Kefa* ("rock"); the Aramaic form of the name Yeshua gave Simon.

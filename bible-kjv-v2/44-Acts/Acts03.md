@@ -58,7 +58,6 @@
 - **"God" → "*Elohim*"** (throughout) — Hebrew divine name preserved.
 - **"Christ" → "*Mashiach*"** (v18, 20) — Hebrew messianic title.
 - **"Peter" / "*Kefa*"** (v1, 4, 6, 11, 12) — Aramaic name used consistently.
-- **"baptism" → "immersion"** (v22, implied) — Greek *baptizo* = "to immerse"; consistent rendering.
 - **"servant"** (v13, 26) — Greek παῖς *pais* = "servant/child/son"; in OT prophetic context refers to the Isaianic "Servant of the Lord" (Isa 42, 52); rendered "servant" to preserve the Servant-Song resonance.
 - **"times of refreshing"** (v19) — Greek ἀνάψυξις *anapsyxis*; unusual term; retained.
 - **"restitution of all things" → "restoring all things"** (v21) — Greek ἀποκαταστάσεως *apokatastaseōs* = "restoration"; KJV "restitution" is archaic.

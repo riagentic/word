@@ -31,7 +31,7 @@
 ## Changes
 
 - **"God" → "*Elohim*"** (v6, 11) — systematic.
-- **"church"** (v6, 9, 10) — Greek ἐκκλησίᾳ *ekklēsia*; systematic substitution.
+- **"church"** (v6, 9, 10) — Greek ἐκκλησία *ekklēsia* = "assembly/congregation"; KJV "church" retained.
 - **"I wrote unto the church" → "I have written something to the church"** (v9) — "church"; modernized.
 - **"who loveth to have the preeminence among them" → "who likes to put himself first"** (v9) — Greek ὁ φιλοπρωτεύων αὐτῶν Διοτρέφης *ho philoprōteuōn autōn Diotrephes* = "Diotrephes who loves to be first among them"; "likes to put himself first" is natural.
 - **"prating against us with malicious words" → "talking wicked nonsense against us"** (v10) — Greek φλυαρῶν ἡμᾶς λόγοις πονηροῖς *phlyarōn hēmas logois ponērois* = "babbling nonsense against us with wicked words."

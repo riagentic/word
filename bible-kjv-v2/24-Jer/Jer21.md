@@ -1,6 +1,6 @@
 # Jeremiah 21
 
-[1] This is the word that came to Jeremiah from Yahweh, when King Zedekiah — sent to him Pashchur son of Malchiah and Zephaniah the priest, son of Maaseiah, saying,
+[1] This is the word that came to Jeremiah from Yahweh, when King Zedekiah sent to him Pashhur son of Malchiah and Zephaniah the priest, son of Maaseiah, saying,
 
 [2] "Inquire of Yahweh for us, for Nebuchadrezzar king of Babylon is making war against us. Perhaps Yahweh will deal with us according to all his wonderful deeds and will make him withdraw from us."
 

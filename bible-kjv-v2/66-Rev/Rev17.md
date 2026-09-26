@@ -8,7 +8,7 @@
 
 [4] The woman was arrayed in purple and scarlet, and adorned with gold and jewels and pearls, holding in her hand a golden cup full of abominations and the impurities of her sexual immorality.
 
-[5] And on her forehead was written a name of mystery: "**Babylon the great, mother of prostitutes and of earth's abominations**."
+[5] And on her forehead was written a name, a mystery: "**Babylon the great, mother of prostitutes and of earth's abominations**."
 
 [6] And I saw the woman, drunk with the blood of the saints, the blood of the martyrs of *Yeshua*.
 
@@ -42,7 +42,7 @@ When I saw her, I marveled greatly.
 
 - **"God" → "*Elohim*"** (v17) — systematic.
 - **"Jesus" → "*Yeshua*"** (v6) — systematic.
-- **"MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS" → "Babylon the great, mother of prostitutes and of earth's abominations"** (v5) — Greek ΜΥΣΤΗΡΙΟΝ, ΒΑΒΥΛΩΝ Η ΜΕΓΑΛΗ, Η ΜΗΤΗΡ ΤΩΝ ΠΟΡΝΩΝ ΚΑΙ ΤΩΝ ΒΔΕΛΥΓΜΑΤΩΝ ΤΗΣ ΓΗΣ; "harlots" → "prostitutes"; the caps may represent a forehead inscription or a title; the translation lowercases and renders naturally.
+- **"MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS" → "Babylon the great, mother of prostitutes and of earth's abominations"** (v5) — Greek ΜΥΣΤΗΡΙΟΝ, ΒΑΒΥΛΩΝ Η ΜΕΓΑΛΗ, Η ΜΗΤΗΡ ΤΩΝ ΠΟΡΝΩΝ ΚΑΙ ΤΩΝ ΒΔΕΛΥΓΜΑΤΩΝ ΤΗΣ ΓΗΣ; "harlots" → "prostitutes"; ὄνομα γεγραμμένον, μυστήριον — "mystery" may be part of the inscription (KJV) or in apposition to "name" (a name with hidden meaning, cf. v7); rendered "a name, a mystery" to keep the Greek word order and its ambiguity; KJV capitals lowercased.
 - **"the great whore that sitteth upon many waters" → "the great prostitute who is seated on many waters"** (v1) — "whore" → "prostitute"; modernized.
 - **"the wine of her fornication" → "the wine of whose sexual immorality"** (v2) — "fornication" → "sexual immorality" (Greek πορνείας *porneias*); systematic throughout.
 - **"drunk with the blood of the saints, and with the blood of the martyrs" → "drunk with the blood of the saints, the blood of the martyrs"** (v6) — "martyrs" renders Greek μαρτύρων *martyrōn* = "witnesses" (those who died for their testimony); modernized structure.

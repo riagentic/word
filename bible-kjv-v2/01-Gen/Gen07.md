@@ -46,7 +46,7 @@
 
 [23] He wiped out every living thing that was on the face of the ground — from humans to livestock, to creeping things, and to the birds of the heavens — they were wiped from the earth. Only Noah remained, and those with him in the ark.
 
-[24] And the waters prevailed on the earth 150 days.
+[24] And the waters grew strong on the earth 150 days.
 
 ## Changes
 

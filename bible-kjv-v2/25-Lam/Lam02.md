@@ -159,10 +159,10 @@ my enemy destroyed.
 ## Changes
 
 - **"LORD" → "Yahweh"** (v6, 7, 8, 9, 17, 18, 20, 22) — Hebrew יהוה *YHWH*.
-- **"LORD" / "*Adonai*"** — the poem's alternation between אֲדֹנָי *Adonai* (v1, 2, 5, 7, 18, 19, 20) and יהוה *YHWH* (v6, 8, 9, 17, 22) is preserved; *Adonai* rendered as "*Adonai*," *YHWH* as "Yahweh."
+- **"LORD" / "Lord"** — the poem's alternation between אֲדֹנָי *Adonai* (v1, 2, 5, 7, 18, 19, 20) and יהוה *YHWH* (v6, 8, 9, 17, 22) is preserved; *Adonai* rendered as "Lord," *YHWH* as "Yahweh."
 - **"How"** (v1) — Hebrew אֵיכָה *Eikhah*; the dirge-opener recurring from Lam 1:1.
 - **Acrostic** — Hebrew letters א–ת marked before each verse; chapters 2 and 4 use the non-standard order פ before ע (vv16-17), preserved in the translation's marking sequence.
-- **"*Torah*"** (v9) — Hebrew תּוֹרָה *torah*; "the *Torah* is no more" — the divine instruction/law no longer received; kept as concept-word.
+- **"the law" → "the Law"** (v9) — Hebrew תּוֹרָה *torah*; "the Law is no more" — the divine instruction/law no longer received.
 - **"liver"** (v11) — Hebrew כְּבֵד *kaved*; in Hebrew physiology the liver was the seat of intense emotion (like the heart in English); translated literally.
 - **"lamentation"** (v5) — Hebrew תַּאֲנִיָּה *ta'aniyah*; mourning-wail; dirge vocabulary.
 

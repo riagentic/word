@@ -25,7 +25,7 @@
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"God" → "*Elohim*"** (vv7, 8, 9) — Hebrew אֱלֹהִים; narrator uses *Elohim* for the three "appointments" (worm, wind, plant); Jonah uses Yahweh in his prayer.
+- **"God" → "*Elohim*"** (vv7, 8, 9) — Hebrew אֱלֹהִים; narrator uses *Elohim* for the "appointments" of the worm and the wind (the plant in v6 is appointed by Yahweh *Elohim*); Jonah uses Yahweh in his prayer.
 - **"LORD God" → "Yahweh *Elohim*"** (v6) — Hebrew יְהוָה אֱלֹהִים; the combined divine name; *Elohim* retained.
 - **"it displeased Jonah exceedingly, and he was very angry" → "it displeased Jonah exceedingly, and he was angry"** (v1) — Hebrew וַיֵּרַע אֶל יוֹנָה רָעָה גְדוֹלָה וַיִּחַר לוֹ; "exceedingly" already conveys the intensity; "very angry" redundant in the revised text.
 - **"take, I beseech thee, my life from me" → "please take my life from me"** (v3) — modernized; "please" for *na'*.
@@ -43,7 +43,7 @@
 - **"Doest thou well to be angry for the gourd?" → "Do you do well to be angry for the plant?"** (v9) — modernized.
 - **"I do well to be angry, even unto death" → "I do well to be angry, angry enough to die"** (v9) — Hebrew הֵיטֵב חָרָה לִי עַד מָוֶת *heytev charah li ad mavet*; "angry enough to die" more vivid.
 - **"Thou hast had pity on the gourd" → "You pity the plant"** (v10) — modernized.
-- **"sixscore thousand persons that cannot discern between their right hand and their left hand" → "more than 120,000 persons who do not know their right hand from their left"** (v11) — Hebrew רֶבֶב כ *riv'o*; "sixscore thousand" = 120,000; numeral substituted; "do not know their right hand from their left" modernized.
+- **"sixscore thousand persons that cannot discern between their right hand and their left hand" → "more than 120,000 persons who do not know their right hand from their left"** (v11) — Hebrew הַרְבֵּה מִשְׁתֵּים־עֶשְׂרֵה רִבּוֹ *harbeh mishteim-esreh ribbo* = "more than twelve ten-thousands"; "sixscore thousand" = 120,000; numeral substituted; "do not know their right hand from their left" modernized.
 
 ### Notes
 - **Ends with a question** — unique in Bible; challenges the reader.

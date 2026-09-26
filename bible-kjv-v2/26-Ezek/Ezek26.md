@@ -34,16 +34,16 @@
 
 [17] And they will raise a lamentation over you and say to you:
 
-"How you have perished, you who were inhabited from the seas,
+'How you have perished, you who were inhabited from the seas,
 O city renowned,
 who was mighty on the sea;
 she and her inhabitants imposed their terror
 on all her inhabitants!
 
 [18] Now the coastlands tremble on the day of your fall,
-and the coastlands that are on the sea are dismayed at your passing."
+and the coastlands that are on the sea are dismayed at your passing.'
 
-[19] For thus says Lord Yahweh: "When I make you a city laid waste, like the cities that are not inhabited, when I bring up the deep over you, and the great waters cover you,
+[19] For thus says Lord Yahweh: When I make you a city laid waste, like the cities that are not inhabited, when I bring up the deep over you, and the great waters cover you,
 
 [20] then I will make you go down with those who go down to the pit, to the people of old, and I will make you to dwell in the world below, among ruins from of old, with those who go down to the pit, so that you will not be inhabited; but I will set beauty in the land of the living.
 

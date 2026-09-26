@@ -54,7 +54,7 @@
 
 [26] And on the following day he appeared to them as they were quarreling and tried to reconcile them, saying, 'Men, you are brothers. Why do you wrong each other?'
 
-**[27] But the man who was wronging his neighbor thrust him aside, saying, '**Who made you a ruler and a judge over us?
+[27] But the man who was wronging his neighbor thrust him aside, saying, '**Who made you a ruler and a judge over us?**
 
 **[28] Do you want to kill me as you killed the Egyptian yesterday?**'
 
@@ -135,8 +135,9 @@ or what is the place of my rest?
 - **"Holy Ghost" → "*Ruach HaQodesh*"** (v51, 55) — consistent rendering.
 - **"Jesus" → "*Yeshua*"** (v55, 59) — systematic name transliteration.
 - **"Christ" → "*Mashiach*"** (implied in v52 "the Righteous One") — consistent rendering.
-- **"Saul" → "*Sha'ul*"** (v58) — Hebrew שָׁאוּל *Sha'ul* ("asked for"); first occurrence in Acts gives Hebrew form alongside Saul.
-- **"law" → "Torah"** (v38, 53) — consistent rendering; the Torah given at Sinai.
+- **"Saul" → "*Sha'ul*"** (v58) — Hebrew שָׁאוּל *Sha'ul* ("asked for"); at his first occurrence in Acts the text gives the Hebrew form (Greek Σαύλου).
+- **"lively oracles" → "living oracles"** (v38) — Greek λόγια ζῶντα *logia zōnta*; archaic "lively" = living.
+- **"law" — retained** (v53) — Greek νόμον *nomon*; the Torah given at Sinai.
 - **"tabernacle" / "tent"** (v44) — Greek σκηνή *skenē* = "tent, tabernacle"; "tent of witness" preserved.
 - **"Holy Ghost" resist** (v51) — *Ruach HaQodesh* consistent.
 - **Extensive OT quotations documented:**

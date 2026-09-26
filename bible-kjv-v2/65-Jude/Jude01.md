@@ -1,6 +1,6 @@
 # Jude 1
 
-[1] Jude, a servant of *Yeshua* the *Mashiach* and brother of James,
+[1] Jude, a servant of *Yeshua* the *Mashiach* and brother of Jacob,
 
 To those who are called, beloved in *Elohim* the Father and kept for *Yeshua* the *Mashiach*:
 
@@ -28,7 +28,7 @@ To those who are called, beloved in *Elohim* the Father and kept for *Yeshua* th
 
 [13] wild waves of the sea, casting up the foam of their own shame; wandering stars, for whom the gloom of utter darkness has been reserved forever.
 
-**[14] It was also about these that Enoch, the seventh from Adam, prophesied, saying, "**Behold, the Lord comes with ten thousands of his holy ones,
+[14] It was also about these that Enoch, the seventh from Adam, prophesied, saying, "**Behold, the Lord comes with ten thousands of his holy ones,**
 
 **[15] to execute judgment on all and to convict all the ungodly of all their deeds of ungodliness that they have committed in such an ungodly way, and of all the harsh things that ungodly sinners have spoken against him**."
 
@@ -54,6 +54,7 @@ To those who are called, beloved in *Elohim* the Father and kept for *Yeshua* th
 
 ## Changes
 
+- **"James" → "Jacob"** (v1) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"God" → "*Elohim*"** (throughout) — systematic.
 - **"Jesus Christ" → "*Yeshua* the *Mashiach*"** (v1, 4, 17, 21) — systematic.
 - **"Holy Ghost" → "*Ruach HaQodesh*"** (v20) — systematic.
@@ -64,7 +65,7 @@ To those who are called, beloved in *Elohim* the Father and kept for *Yeshua* th
 - **"raging waves of the sea, foaming out their own shame" → "wild waves of the sea, casting up the foam of their own shame"** (v13) — "raging" → "wild"; "foaming out" → "casting up the foam of"; rendered more vividly.
 - **"clouds without water" → "waterless clouds"** (v12) — Greek νεφέλαι ἄνυδροι *nephelai anydroi*; restructured.
 - **"walking after their own lusts" → "following their own sinful desires"** (v16, 18) — systematic; "lusts" → "sinful desires."
-- **"murmurers, complainers" → "grumblers, malcontents"** (v16) — Greek γογγυσταί, μεμψίμοιροι *gongyстai, mempsimоirоi* = "grumblers, fault-finders / discontented ones"; "malcontents" is a good modern equivalent.
+- **"murmurers, complainers" → "grumblers, malcontents"** (v16) — Greek γογγυσταί, μεμψίμοιροι *gongystai, mempsimoiroi* = "grumblers, fault-finders / discontented ones"; "malcontents" is a good modern equivalent.
 - **"Now unto him that is able to keep you from falling" → "Now to him who is able to keep you from stumbling"** (v24) — Greek ἀπταίστους *aptaistous* = "without stumbling / without falling."
 - **"with exceeding joy" → "with great joy"** (v24) — Greek ἐν ἀγαλλιάσει *en agalliasei* = "with exultation / great joy"; modernized.
 - **"To the only wise God our Saviour" → "to the only *Elohim*, our Savior"** (v25) — "God" → "*Elohim*"; "wise" dropped following the shorter text supported by many MSS (σοφῷ "wise" is absent in several witnesses).

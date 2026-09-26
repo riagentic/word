@@ -10,7 +10,7 @@
 
 [5] So he came to a town of Samaria called Sychar, near the field that Jacob had given to his son Joseph.
 
-[6] Yaaqov's well was there; so *Yeshua*, wearied as he was from his journey, was sitting beside the well. It was about the sixth hour.
+[6] Jacob's well was there; so *Yeshua*, wearied as he was from his journey, was sitting beside the well. It was about the sixth hour.
 
 [7] A woman from Samaria came to draw water. *Yeshua* said to her, "Give me a drink."
 

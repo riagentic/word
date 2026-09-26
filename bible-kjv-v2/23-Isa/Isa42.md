@@ -16,7 +16,7 @@ he will faithfully bring forth justice.
 till he has established justice in the earth;
 and the coastlands wait for his law.
 
-[5] Thus says *Elohim* Yahweh,
+[5] Thus says the El, Yahweh,
 who created the heavens and stretched them out,
 who spread out the earth and what comes from it,
 who gives breath to the people on it
@@ -120,7 +120,7 @@ it burned him up, but he did not take it to heart.
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"God" / "El" → "God Yahweh"** (v5) — Hebrew אֵל יְהוָה *El Yahweh*; the double divine name used as introduction to the servant commissioning oracle; preserved.
+- **"God the LORD" → "the El, Yahweh"** (v5) — Hebrew הָאֵל יְהוָה *ha-El Yahweh* (*El*, not *Elohim*); the double divine name used as introduction to the servant commissioning oracle; preserved.
 - **Poetic structure** — vv1-4 (First Servant Song), vv5-9, 10-13, 14-17, 18-25 all formatted as verse; prose bridge v5 introduction preserved.
 - **"angel" → no change** — no *mal'akh* in this chapter.
 

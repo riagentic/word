@@ -70,7 +70,7 @@
 
 [35] and some of the wise shall stumble, so that they may be refined, purified, and made white, until the time of the end, for it still awaits the appointed time.
 
-[36] "And the king shall do as he wills. He shall exalt himself and magnify himself above every god, and shall speak astonishing things against the *Elohim* of gods. He shall prosper till the indignation is accomplished; for what is decreed shall be done.
+[36] "And the king shall do as he wills. He shall exalt himself and magnify himself above every god, and shall speak astonishing things against the El of gods. He shall prosper till the indignation is accomplished; for what is decreed shall be done.
 
 [37] He shall pay no attention to the gods of his fathers, or to the one beloved by women. He shall not pay attention to any other god, for he shall magnify himself above all.
 
@@ -93,6 +93,7 @@
 ## Changes
 
 - **"God" → "*Elohim*"** (v32) — Hebrew אֱלֹהִים *Elohim*; "the people who know their *Elohim*."
+- **"the God of gods" → "the El of gods"** (v36) — Hebrew אֵל אֵלִים *El elim*; short divine name *El* preserved distinct from *Elohim*.
 
 ### Notes
 - **vv2-35** — detailed history of Ptolemies (south) and Seleucids (north) from Persia to Antiochus IV (d. 164 BC). The specificity led many scholars to date this portion after the events.

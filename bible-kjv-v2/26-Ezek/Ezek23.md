@@ -64,7 +64,7 @@
 
 [32] "Thus says Lord Yahweh:
 
-"You shall drink your sister's cup
+'You shall drink your sister's cup
 that is deep and large;
 you shall be laughed at and held in derision,
 for it contains much;
@@ -76,7 +76,7 @@ the cup of your sister Samaria;
 [34] you shall drink it and drain it out,
 and gnaw its shards,
 and tear your breasts;
-for I have spoken, declares Lord Yahweh.
+for I have spoken, declares Lord Yahweh.'
 
 [35] "Therefore thus says Lord Yahweh: Because you have forgotten me and cast me behind your back, you yourself must bear the consequences of your lewdness and whoring."
 

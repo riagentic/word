@@ -1,6 +1,6 @@
 # James 1
 
-[1] James, a servant of *Elohim* and of the Lord *Yeshua* the *Mashiach*,
+[1] Jacob, a servant of *Elohim* and of the Lord *Yeshua* the *Mashiach*,
 
 To the twelve tribes in the Dispersion:
 
@@ -60,6 +60,7 @@ Greetings.
 
 ## Changes
 
+- **"James" → "Jacob"** (v1) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"God" → "*Elohim*"** (throughout) — systematic.
 - **"Jesus Christ" → "*Yeshua* the *Mashiach*"** (v1) — systematic dual substitution.
 - **"scattered abroad" → "in the Dispersion"** (v1) — Greek ἐν τῇ διασπορᾷ *en tē diaspora*; "Dispersion" is the standard term; "scattered abroad" is a paraphrase.

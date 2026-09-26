@@ -14,7 +14,7 @@
 
 [7] **Submit yourselves therefore to *Elohim*. Resist the devil, and he will flee from you.**
 
-[8] Draw near to *Elohim*, and he will draw near to you.** Cleanse your hands, you sinners, and purify your hearts, you double-minded.**
+[8] **Draw near to *Elohim*, and he will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded.**
 
 [9] Be wretched and mourn and weep. Let your laughter be turned to mourning and your joy to gloom.
 

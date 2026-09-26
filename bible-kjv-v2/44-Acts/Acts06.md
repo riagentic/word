@@ -38,5 +38,5 @@
 - **"Cyrene" / "*Cyrenians*"** (v9) — Greek Κυρηναῖοι *Kyrēnaioi*; first occurrence noted.
 - **"Torah" / "the law"** (v13, 14) — Greek νόμον *nomon*; rendered "Torah" as it refers to Moses' instruction.
 - **"customs" / "manner"** (v14) — Greek ἔθη *ethē* = "customs, traditions"; retained.
-- **"Prochoros, Nikanor, Timon, Parmenas, Nikolaos"** (v5) — Greek names preserved with slight transliteration to original Greek forms.
+- **"Prochorus, Nicanor, Timon, Parmenas, Nicolas" → "Prochorus, Nicanor, Timon, Parmenas, Nicolaus"** (v5) — Greek Πρόχορος, Νικάνωρ, Τίμων, Παρμενᾶς, Νικόλαος; the familiar Latinized forms are kept, with "Nicolaus" matching the Greek *Nikolaos* more closely than KJV "Nicolas."
 - **Archaic pronouns and verb forms** modernized throughout.

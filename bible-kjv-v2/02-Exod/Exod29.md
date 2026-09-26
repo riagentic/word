@@ -46,13 +46,13 @@
 
 [23] Take also one loaf of bread, one cake of bread made with oil, and one wafer out of the basket of unleavened bread that is before Yahweh;
 
-[24] and you shall put all of this in the hands of Aaron and in the hands of his sons, and you shall wave them as a wave offering before Yahweh.
+[24] and you shall put all of this in the hands of Aaron and in the hands of his sons, and you shall elevate them as an elevation offering before Yahweh.
 
 [25] Then you shall take them from their hands and burn them on the altar, on top of the burnt offering, for a pleasing aroma before Yahweh; it is an offering made by fire to Yahweh.
 
-[26] You shall take the breast of the ram of Aaron's ordination and wave it as a wave offering before Yahweh; and it shall be your portion.
+[26] You shall take the breast of the ram of Aaron's ordination and elevate it as an elevation offering before Yahweh; and it shall be your portion.
 
-[27] You shall consecrate the breast of the wave offering and the thigh of the contribution offering — what was waved and what was contributed — from the ram of ordination, from that which is for Aaron and that which is for his sons.
+[27] You shall consecrate the breast of the elevation offering and the thigh of the contribution offering — what was elevated and what was contributed — from the ram of ordination, from that which is for Aaron and that which is for his sons.
 
 [28] It shall be for Aaron and for his sons as a perpetual statute from the children of Israel; for it is a contribution. It shall be a contribution from the children of Israel out of the sacrifices of their peace offerings — their contribution to Yahweh.
 
@@ -104,7 +104,7 @@
 - **"shoulder" → "thigh"** (v22, 27) — Hebrew שׁוֹק *shoq* = thigh / hind leg.
 - **"consecration" → "ordination"** (v22, 26, 27, 29, 31, 34, 35) — Hebrew מִלֻּאִים *millu'im* = "fillings" (of the hand — idiom for ordination, "filling the hand" = investing with priestly office). "Ordination" is more technical; "consecration" would be *qaddesh*.
 - **"heave offering" → "contribution offering"** (v27, 28) — Hebrew תְּרוּמָה *terumah*. Traditional "heave offering" reflects an old rabbinical interpretation (a raised / lifted portion); modern scholars generally read as "contribution" / "donation / dedicated gift."
-- **"wave offering" (v24, 26, 27)** — Hebrew תְּנוּפָה *tenuphah*. The offering was ceremonially waved / swung before Yahweh — either horizontal motion or actual lifting.
+- **"wave offering" → "elevation offering"** (v24, 26, 27) — Hebrew תְּנוּפָה *tenuphah*, from *nuph* (hiphil) = move / raise. A presentation gesture before Yahweh — traditionally "waving", more likely a lifting; rendered as in Lev 7:30.
 - **"stranger" → "outsider"** (v33) — Hebrew זָר *zar*. Non-priest. Distinct from *ger* (resident alien); *zar* = one outside the priestly office.
 - **"meat offering" → "grain offering"** (v41) — Hebrew מִנְחָה *minchah*. "Meat" in 1611 English = food; here specifically grain offering (cereal / flour). Corrected.
 

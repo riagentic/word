@@ -16,7 +16,7 @@
 
 [8] When the crowds saw it, they were afraid, and they glorified *Elohim*, who had given such authority to men.
 
-[9] As *Yeshua* passed on from there, he saw a man called Matthew — sitting at the tax booth, and he said to him, "Follow me." And he rose and followed him.
+[9] As *Yeshua* passed on from there, he saw a man called Matthew sitting at the tax booth, and he said to him, "Follow me." And he rose and followed him.
 
 [10] And as *Yeshua* reclined at table in the house, behold, many tax collectors and sinners came and were reclining with *Yeshua* and his disciples.
 

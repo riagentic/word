@@ -18,7 +18,7 @@
 
 [9] "Son of man, prophesy and say, Thus says the Lord, say:
 
-"A sword, a sword is sharpened
+'A sword, a sword is sharpened
 and also polished,
 
 [10] sharpened for slaughter,
@@ -37,7 +37,7 @@ They are delivered over to the sword with my people.
 Strike therefore upon your thigh.
 
 [13] For it will not be a testing —
-what could it do if you despise the rod? declares Lord Yahweh.
+what could it do if you despise the rod? declares Lord Yahweh.'
 
 [14] "As for you, son of man, prophesy.
 Clap your hands and let the sword come down twice, yes, three times,
@@ -80,7 +80,7 @@ I, Yahweh, have spoken."
 
 [28] "And you, son of man, prophesy, and say, Thus says Lord Yahweh concerning the Ammonites and concerning their reproach; say:
 
-"A sword, a sword is drawn for the slaughter.
+'A sword, a sword is drawn for the slaughter.
 It is polished to consume and to flash like lightning —
 
 [29] while they see for you false visions,
@@ -102,7 +102,7 @@ skillful to destroy.
 [32] You shall be fuel for the fire.
 Your blood shall be in the midst of the land.
 You shall be no more remembered,
-for I, Yahweh, have spoken."
+for I, Yahweh, have spoken.'"
 
 ## Changes
 

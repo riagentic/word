@@ -46,7 +46,7 @@ and there was no deceit in his mouth.
 
 [10] Yet it was the will of Yahweh to crush him;
 he has put him to grief;
-when his soul makes an guilt offering,
+when his soul makes a guilt offering,
 he shall see his offspring; he shall prolong his days;
 the will of Yahweh shall prosper in his hand.
 

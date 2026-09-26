@@ -1,6 +1,6 @@
 # Mark 16
 
-[1] When the Sabbath was past, Mary Magdalene and Mary the mother of James and Salome bought spices, so that they might go and anoint him.
+[1] When the Sabbath was past, Mary Magdalene and Mary the mother of Jacob and Salome bought spices, so that they might go and anoint him.
 
 [2] And very early on the first day of the week, when the sun had risen, they went to the tomb.
 
@@ -42,6 +42,7 @@
 
 ## Changes
 
+- **"James" → "Jacob"** (v1) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"Jesus" → "*Yeshua*"** (throughout) — Hebrew name preserved.
 - **"God" → "*Elohim*"** (v19) — divine name retained.
 - **"Peter" → "*Kefa*"** (v7) — Aramaic name preserved.

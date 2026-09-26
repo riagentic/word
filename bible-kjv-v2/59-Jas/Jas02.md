@@ -48,7 +48,7 @@
 
 [24] You see that a person is justified by works and not by faith alone.
 
-[25] And in the same way was not also Rachav the prostitute justified by works when she received the messengers and sent them out by another way?
+[25] And in the same way was not also Rahab the prostitute justified by works when she received the messengers and sent them out by another way?
 
 [26] For as the body apart from the spirit is dead, so also faith apart from works is dead.
 
@@ -59,7 +59,7 @@
 - **"respect of persons" → "partiality"** (v1, 9) — Greek προσωποληψίαις *prosōpolēpsiais* = "partiality / favoritism / respect of persons"; "partiality" is the standard modern term.
 - **"vile raiment" → "shabby clothing"** (v2) — Greek ἐν ῥυπαρᾷ ἐσθῆτι *en rhypara esthēti* = "in dirty/shabby clothing."
 - **"gay clothing" → "fine clothing"** (v3) — Greek ἐσθῆτι λαμπρᾷ *esthēti lampra* = "bright / shining / splendid clothing"; "gay" in modern English has a different primary meaning.
-- **"Thou art my Son, this day have I begotten thee" → "You shall love your neighbor as yourself"** (v8) — OT quotation (Lev 19:18); "Thou shalt" → "You shall"; modernized.
+- **"Thou shalt love thy neighbour as thyself" → "You shall love your neighbor as yourself"** (v8) — OT quotation (Lev 19:18); "Thou shalt" → "You shall"; modernized.
 - **"Do not commit adultery … Do not kill" → "Do not commit adultery … Do not murder"** (v11) — Greek μὴ μοιχεύσῃς … μὴ φονεύσῃς; "kill" → "murder" — the commandment is against unlawful killing/murder (Hebrew רָצַח *ratsach*), not all killing.
 - **"Abraham believed God" → "Abraham believed *Elohim*"** (v23) — OT quotation (Gen 15:6); "God" → "*Elohim*."
 - **"the friend of God" → "a friend of *Elohim*"** (v23) — "God" → "*Elohim*."

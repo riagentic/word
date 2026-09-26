@@ -49,7 +49,7 @@
 - **"Holy Ghost" → "*Ruach HaQodesh*"** (v5) — KJV's "Holy Ghost" = πνεῦμα ἅγιον *pneuma hagion* = רוּחַ הַקֹּדֶשׁ *Ruach HaQodesh*; retained in Hebrew to restore the Jewish character of the divine Spirit.
 - **"Christ" → "*Mashiach*"** (v6, 8) — systematic.
 - **"law" → "Torah"** (v13, 20) — v13 "before the law was given" and v20 "the law came in" refer to Mosaic Torah; rendered accordingly.
-- **"peace with God" → "peace with *Elohim*"** (v1) — εἰρήνη πρὸς τὸν θεόν; *shalom* retained to carry the full covenantal peace/wholeness concept.
+- **"peace with God" → "peace with *Elohim*"** (v1) — εἰρήνη πρὸς τὸν θεόν; "peace" (εἰρήνη, Hebrew *shalom*) carries the full covenantal peace/wholeness concept.
 - **"access by faith into this grace" (v2)** — χάρις *charis* = grace, an unearned gift of God's favor; retained as "grace" which is the established English term for this theological concept.
 - **"tribulation worketh patience"** → **"suffering produces endurance"** (v3) — KJV "tribulation" and "patience" are accurate but archaic; θλῖψις = affliction/pressure; ὑπομονή = endurance.
 - **"experience" → "character"** (v4) — δοκιμή *dokime* = proven character, the quality that comes from being tested and found genuine; KJV "experience" misses this nuance.

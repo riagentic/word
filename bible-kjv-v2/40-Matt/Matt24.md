@@ -108,9 +108,9 @@ and the powers of the heavens will be shaken.
 ## Changes
 
 - **"Jesus" → "*Yeshua*"** (v1, 4) — Hebrew name preserved.
-- **"Christ" → "*Mashiach*"** (vv5, 23–24) — Greek *Christos*; "false *Mashiachs*" (v24) — plural *Mashiachs* follows the Greek pseudochristoi.
-- **"birth pangs" / "*odines*"** (v8) — Greek ὠδῖνες *ōdines* = birth pangs/labor pains; vivid OT-style apocalyptic image (cf. Isa 13:8). *Odines* preserved with gloss; "beginning of the birth pangs" is more accurate than KJV "beginning of sorrows."
-- **"world" → "age"** (vv3, 14) — Greek αἰῶνος *aiōnos* = age; "end of the age," not "end of the world" (which is a different eschatological concept). See ch. 13 note.
+- **"Christ" → "*Mashiach*"** (vv5, 23–24) — Greek *Christos*. In v24 the compound ψευδόχριστοι *pseudochristoi* is rendered "false messiahs."
+- **"sorrows" → "birth pangs"** (v8) — Greek ὠδῖνες *ōdines* = birth pangs/labor pains; vivid OT-style apocalyptic image (cf. Isa 13:8). "Beginning of the birth pangs" is more accurate than KJV "beginning of sorrows."
+- **"world" → "age"** (v3) — Greek αἰῶνος *aiōnos* = age; "end of the age," not "end of the world" (which is a different eschatological concept). See ch. 13 note. In v14 "world" is retained: there the Greek is οἰκουμένῃ *oikoumenē* = the inhabited world.
 - **"saints" / "elect"** — Greek ἐκλεκτούς *eklektous* = chosen ones/elect; "elect" retained.
 - **"Son of man coming"** — retained; Greek ὁ υἱὸς τοῦ ἀνθρώπου *ho huios tou anthrōpou* = son of man/Adam; Yeshua's preferred self-designation preserved.
 - **Archaic forms** — "thee/thou/ye" modernized throughout.

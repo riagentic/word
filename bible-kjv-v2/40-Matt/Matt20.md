@@ -70,7 +70,7 @@
 
 ## Changes
 
-- **"Jesus" → "*Yeshua*"** (vv17–18, 22–23, 25, 28, 30–34) — Hebrew name preserved.
+- **"Jesus" → "*Yeshua*"** (vv17, 22, 25, 30, 32, 34) — Hebrew name preserved.
 - **"publican" → "tax collector"** — not present in this chapter; consistently rendered in others.
 - **"multitudes" → "crowds"** (v29, 31) — Greek ὄχλοι *ochloi*; modernized.
 - **"hire" → "laborers"** — Greek ἐργάτας *ergatas* = workers; retained.

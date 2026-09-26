@@ -84,7 +84,7 @@
 
 [42] I knew that you always hear me, but I said this on account of the people standing around, that they may believe that you sent me."
 
-[43] When he had said these things, he cried out with a loud voice, "Eleazar, come out!"
+[43] When he had said these things, he cried out with a loud voice, "Lazarus, come out!"
 
 [44] The man who had died came out, his hands and feet bound with linen strips, and his face wrapped with a cloth. *Yeshua* said to them, "Unbind him, and let him go."
 

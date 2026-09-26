@@ -110,7 +110,7 @@
 
 [55] There were also many women there, looking on from a distance, who had followed *Yeshua* from Galilee, ministering to him,
 
-[56] among whom were Mary Magdalene and Mary the mother of James and Joseph, and the mother of the sons of Zebedee.
+[56] among whom were Mary Magdalene and Mary the mother of Jacob and Joseph, and the mother of the sons of Zebedee.
 
 [57] When it was evening, there came a rich man from Arimathea, named Joseph, who also was a disciple of *Yeshua*.
 
@@ -134,6 +134,7 @@
 
 ## Changes
 
+- **"James" → "Jacob"** (v56) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"Jesus" → "*Yeshua*"** (throughout) — Hebrew name preserved.
 - **"Christ" / "*Mashiach*"** (vv17, 22) — Greek *Christos*; "*Yeshua* who is called *Mashiach*."
 - **"God" → "*Elohim*"** (vv40, 43, 54) — Greek θεός *theos*; divine name preserved.

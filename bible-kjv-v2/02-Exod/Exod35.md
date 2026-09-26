@@ -42,7 +42,7 @@
 
 [21] Everyone whose heart stirred him, and everyone whose spirit made him willing, came and brought Yahweh's contribution for the work of the Tent of Meeting, for all its service, and for the holy garments.
 
-[22] They came, both men and women — all who were of a willing heart — and brought brooches, earrings, rings, and pendants, all kinds of gold objects; every man who made a wave offering of gold to Yahweh.
+[22] They came, both men and women — all who were of a willing heart — and brought brooches, earrings, rings, and pendants, all kinds of gold objects; every man who made an elevation offering of gold to Yahweh.
 
 [23] Every man who had in his possession blue, purple, or scarlet yarns, or fine linen, or goats' hair, or tanned ram skins, or fine leather, brought them.
 
@@ -75,7 +75,7 @@
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
 - **"tablets" → "pendants"** (v22) — Hebrew כּוּמָז *kumaz*. Obscure; traditional "tablets" / modern "pendants" or "ornaments" (phallic-symbol amulets per some readings). Jewelry-type item.
-- **"wave offering" (v22)** — Hebrew תְּנוּפָה *tenuphah*. Cf. 29:24.
+- **"offering" → "elevation offering"** (v22) — Hebrew תְּנוּפָה *tenuphah*. Cf. 29:24.
 - **"cunning workman" → "designer"** (v35) — Hebrew חֹשֵׁב *choshev* = designer / thinker / one who devises patterns.
 
 ### Notes

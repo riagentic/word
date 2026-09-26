@@ -48,8 +48,6 @@ until he brings justice to victory;
 
 [21] and in his name the Gentiles will hope."
 
-***Yeshua* and Beelzebul:**
-
 [22] Then a demon-oppressed man who was blind and mute was brought to him, and he healed him, so that the man spoke and saw.
 
 [23] And all the people were amazed, and said, "Can this be the Son of David?"
@@ -118,4 +116,3 @@ until he brings justice to victory;
 - **"corn" → "grainfields"** (v1) — Greek σπορίμους *sporimous* = grain fields/sown fields. KJV "corn" in British English means grain; American readers understand corn as maize. "Grainfields" is unambiguous.
 - **"shewbread" → "bread of the Presence"** (v4) — Greek τοὺς ἄρτους τῆς προθέσεως *artous tēs protheseōs*; Hebrew לֶחֶם הַפָּנִים *lechem ha-panim* = bread of the Face/Presence. "Shewbread" is archaic; "bread of the Presence" is the standard modern rendering.
 - **"smoking flax" → "smoldering wick"** (v20) — Greek λίνον τυφόμενον *linon tuphomenon* = smoldering flax/wick. "Smoking flax" (KJV) is archaic; "smoldering wick" is vivid and accurate.
-- **"iniquity/lawlessness" → "lawlessness"** (v) — implied in the passage's theme; *anomia* = without Torah.

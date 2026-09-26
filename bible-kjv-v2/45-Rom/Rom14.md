@@ -52,7 +52,8 @@ and every tongue shall confess to *Elohim*.**"
 ## Changes
 
 - **"Jesus" / "Christ" → "*Yeshua*" / "*Mashiach*"** (v9, 14, 15, 18) — systematic.
-- **"God" → "*Elohim*"** (v3, 4, 6, 10, 12, 17, 18, 20, 22) — systematic.
+- **"God" → "*Elohim*"** (v3, 6, 10, 12, 17, 18, 20, 22) — systematic.
+- **"for God is able to make him stand" → "for the Lord is able to make him stand"** (v4) — the earliest and best MSS read ὁ κύριος; KJV "God" follows the later θεός reading; critical text followed.
 - **"Holy Ghost" → "*Ruach HaQodesh*"** (v17) — systematic.
 - **"As I live, saith the Lord, every knee shall bow to me, and every tongue shall confess to God" → "As I live, says the Lord, every knee shall bow to me, and every tongue shall confess to *Elohim*"** (v11) — OT quotation from Isa 45:23; archaic "saith" modernized; "God" → "*Elohim*" systematic.
 - **"judgment seat of Christ" → "judgment seat of *Elohim*"** (v10) — some MSS have "Christ" here; earliest and best MSS read "God/*Elohim*"; critical text followed.

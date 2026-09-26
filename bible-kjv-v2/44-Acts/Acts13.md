@@ -123,7 +123,7 @@ that you may bring salvation to the ends of the earth.**'"
 - **"Holy Ghost" → "*Ruach HaQodesh*"** (v2, 4, 9, 52) — consistent rendering.
 - **"baptized / baptism" → "immersed / immersion"** (v24) — Greek *baptizo* = "to immerse"; consistent rendering.
 - **"Torah" / reading "the law and the prophets"** (v15) — Greek νόμου καὶ προφητῶν; "the Torah and the Prophets" — standard synagogue reading order preserved.
-- **"Simeon / Niger"** (v1) — *Shimon* called *Niger* ("black" in Latin); the *Shimon* form used for the Hebrew name.
+- **"Simeon / Niger"** (v1) — Greek Συμεών *Symeōn*, transliterating Hebrew שִׁמְעוֹן *Shimon*, called *Niger* ("black" in Latin); the form "Simeon" is kept in the text.
 - **"Bar-Jesus" → "*Bar-Yeshua*"** (v6) — Aramaic בַּר יֵשׁוּעַ *Bar-Yeshua* ("son of *Yeshua*/salvation"); first occurrence gives Aramaic form.
 - **OT quotations documented:**
   - v22: Ps 89:20 + 1 Sam 13:14 ("a man after my heart")

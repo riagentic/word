@@ -32,9 +32,9 @@
 
 [16] He appointed the twelve: Simon, to whom he gave the name *Kefa*,
 
-[17] James the son of Zebedee and John the brother of James, to whom he gave the name Boanerges, that is, Sons of Thunder;
+[17] Jacob the son of Zebedee and John the brother of Jacob, to whom he gave the name Boanerges, that is, Sons of Thunder;
 
-[18] Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Zealot,
+[18] Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and Jacob the son of Alphaeus, and Thaddaeus, and Simon the Zealot,
 
 [19] and Judas Iscariot, who betrayed him.
 
@@ -72,6 +72,7 @@
 
 ## Changes
 
+- **"James" → "Jacob"** (v17, 18) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"Jesus" → "*Yeshua*"** (throughout) — Hebrew name preserved.
 - **"God" → "*Elohim*"** (vv11, 35) — divine name retained.
 - **"Simon … Peter" → "Simon … *Kefa*"** (v16) — Aramaic *Kefa* ("Rock") is Jesus's own name for Simon; Greek *Petros* is a translation of *Kefa*. The original Aramaic is preserved.

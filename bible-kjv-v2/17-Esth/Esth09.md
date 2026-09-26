@@ -24,7 +24,7 @@
 
 [12] The king said to Queen Esther, "The Jews have killed and destroyed five hundred men in Susa the citadel, and the ten sons of Haman. What have they done in the rest of the king's provinces! Now what is your petition? It shall be granted to you. What is your further request? It shall be done."
 
-[13] Esther said, "If it pleases the king, let tomorrow also be granted to the Jews who are in Susa to act according to this day's decree; and let Haman's ten sons be hanged on the gallows."
+[13] Esther said, "If it pleases the king, let tomorrow also be granted to the Jews who are in Susa to act according to this day's decree; and let Haman's ten sons be hanged on the pole."
 
 [14] The king commanded it to be done; a decree was issued in Susa, and they hanged Haman's ten sons.
 
@@ -48,7 +48,7 @@
 
 [24] For Haman son of Hammedatha the Agagite, the enemy of all the Jews, had plotted against the Jews to destroy them, and had cast lot (that is, the lot) to crush and to destroy them.
 
-[25] But when it came before the king, he commanded in writing that the wicked plan which Haman had devised against the Jews should return on his own head, and that he and his sons should be hanged on the gallows.
+[25] But when it came before the king, he commanded in writing that the wicked plan which Haman had devised against the Jews should return on his own head, and that he and his sons should be hanged on the pole.
 
 [26] Therefore they called these days Purim, from the word lot. Therefore, because of all the words of this letter, and of what they had seen concerning this matter, and what had come upon them,
 
@@ -71,6 +71,7 @@
 - **"prey / spoil" → "plunder"** (v10, 15, 16) — *bizah*.
 - **"Purim" — retained** (v26, 28, 29, 31, 32).
 - **"sending portions... gifts to the poor" — retained** (v22) — foundational Purim customs.
+- **"gallows" → "pole"** (v13, 25) — *etz*, wood/pole; see 2:23.
 
 ### Notes
 - **Two days of combat**: provinces on 13 Adar, Susa adding 14 Adar. This becomes the basis for Purim's two-day observance split between walled and unwalled cities.

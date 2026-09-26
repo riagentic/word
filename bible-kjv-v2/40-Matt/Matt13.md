@@ -132,7 +132,7 @@ I will utter what has been hidden since the foundation of the world."
 
 ## Changes
 
-- **"Jesus" → "*Yeshua*"** (vv34, 36, 51, 53, 57) — Hebrew name preserved.
+- **"Jesus" → "*Yeshua*"** (vv1, 34, 53, 57) — Hebrew name preserved; KJV "Jesus" in vv36, 51 is absent from the critical text.
 - **"world" → "age"** (vv39–40, 49) — Greek αἰῶνος *aiōnos* = age/era. In "end of the age," *aion* = a defined age of history, not the physical earth. "World" in KJV imports spatial/physical meaning; "age" is accurate for the eschatological term.
 - **"devils" → "demons"** — none in this chapter but consistent with prior.
 - **OT quotations** — vv14–15 quotes Isa 6:9–10; v35 quotes Ps 78:2. Rendered following Matthew's Greek text.

@@ -44,7 +44,7 @@
 
 [22] The priest shall make atonement for him with the ram of the guilt offering before Yahweh for the sin that he has committed, and he shall be forgiven for the sin that he has committed.
 
-[23] When you come into the land and plant any tree for food, you shall regard its fruit as forbidden; for three years it shall be forbidden to you — it shall not be eaten.
+[23] When you come into the land and plant any tree for food, you shall regard its fruit as uncircumcised; for three years it shall be uncircumcised to you — it shall not be eaten.
 
 [24] In the fourth year all its fruit shall be holy — a praise-offering to Yahweh.
 

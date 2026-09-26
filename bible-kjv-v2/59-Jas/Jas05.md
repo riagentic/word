@@ -20,7 +20,7 @@
 
 [10] As an example of suffering and patience, brothers, take the prophets who spoke in the name of the Lord.
 
-[11] Behold, we consider those blessed who remained steadfast. You have heard of the steadfastness of Job, and you have seen the purpose of the Lord, how the Lord is compassionate and merciful.
+[11] Behold, we consider those blessed who remained steadfast. You have heard of the steadfastness of Job, and you have seen the end of the Lord, how the Lord is compassionate and merciful.
 
 [12] But above all, my brothers, do not swear, either by heaven or by earth or by any other oath, but let your "yes" be yes and your "no" be no, so that you may not fall under condemnation.
 
@@ -42,11 +42,12 @@
 
 ## Changes
 
-- **"Lord of Sabaoth" → "Lord of of Hosts"** (v4) — Hebrew צְבָאוֹת *Tzeva'ot* = "armies / hosts"; the divine epithet is a direct Hebrew borrowing, restored from the LXX transcription *Kyrios Sabaōth* to the Hebrew form. "Lord of hosts" is the KJV rendering; "Lord of *Tzeva'ot*" preserves the original while the gloss explains.
+- **"Lord of Sabaoth" → "Lord of Hosts"** (v4) — Greek Κυρίου Σαβαώθ transliterates Hebrew צְבָאוֹת *Tzeva'ot* = "armies / hosts" (as in LXX Isa 5:9); rendered by its meaning, as the Hebrew title is rendered elsewhere.
 - **"is come of you" → "have reached the ears of"** (v4) — Greek εἰσεληλύθασιν εἰς τὰ ὦτα Κυρίου Σαβαώθ *eiselēlythasin eis ta ōta Kyriou Sabaōth* = "have entered into the ears of the Lord of Sabaoth"; the translation renders this naturally.
 - **"Ye have lived in pleasure on the earth, and been wanton" → "You have lived on the earth in luxury and in self-indulgence"** (v5) — Greek ἐτρυφήσατε … ἐσπαταλήσατε *etruphēsate … espatalaēsate*; "wanton" is archaic.
 - **"Be patient therefore, brethren, unto the coming of the Lord" → "Be patient, therefore, brothers, until the coming of the Lord"** (v7) — "brethren" → "brothers"; modernized.
 - **"the early and latter rain" → "the early and the late rains"** (v7) — Greek πρόιμον καὶ ὄψιμον *proïmon kai opsïmon* = "early (autumn) rain and late (spring) rain"; Palestinian agricultural pattern; clarified with "rains" plural.
 - **"grudge not one against another" → "Do not grumble against one another"** (v9) — "grudge" → "grumble"; modernized.
+- **"the end of the Lord"** (v11) — τὸ τέλος κυρίου, kept literal: τέλος = end/outcome (not "purpose"); the outcome the Lord gave Job's trial (Job 42:10–17).
 - **"the effectual fervent prayer of a righteous man availeth much" → "The prayer of a righteous person has great power as it is working"** (v16) — Greek πολὺ ἰσχύει δέησις δικαίου ἐνεργουμένη *poly ischyei deēsis dikaiou energoumenē*; "effectual fervent prayer" = Greek participial phrase; "has great power as it is working" is a literal rendering.
 - **"a subject to like passions as we are" → "a man with a nature like ours"** (v17) — Greek ὁμοιοπαθὴς ἡμῖν ἄνθρωπος *homoiopathēs hēmin anthrōpos* = "a man of like nature with us"; modernized.

@@ -86,7 +86,7 @@
 
 - **The tabernacle's completion and Yahweh's dwelling** — the climactic moment of Exodus: Yahweh's glory fills the newly completed dwelling. The exodus goal — "I will dwell in their midst" (29:45) — is accomplished.
 - **Moses cannot enter** (v35) — the glory is too great. The high-priestly office (not Moses') will mediate the glory thenceforth. Compare 1 Kgs 8:10–11 where the same happens at Solomon's temple dedication.
-- **Chronology** (v17) — first day, first month, second year of the exodus. The tabernacle stands for about nine months later (Num 10:11). Forty years of wilderness journey will follow, guided by the cloud/fire pillar.
+- **Chronology** (v17) — first day, first month, second year of the exodus. The tabernacle is erected about nine months after the arrival at Sinai (19:1); Israel sets out from Sinai some fifty days later (Num 10:11). Forty years of wilderness journey will follow, guided by the cloud/fire pillar.
 - **Book ends with journey theme** — Exodus closes not with arrival but with the journey-image: the cloud by day, the fire by night, guiding Israel onward. The people are not yet home; they are on the way, with Yahweh in their midst.
 
 ---

@@ -92,4 +92,4 @@ and beating for the backs of fools.
 
 - **"LORD" → "Yahweh"** (v3, 14, 17, 21, 23) — Hebrew יהוה *YHWH*.
 - **"Fear of the LORD" → "fear of Yahweh"** (v23) — Hebrew יִרְאַת יהוה *yir'at YHWH*.
-- **"My son" address** (v18, 27) — retained.
+- **"My son" address** (v27) — retained.

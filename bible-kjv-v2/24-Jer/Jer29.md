@@ -73,4 +73,4 @@
 
 ### Notes
 - **v5-7** — exiles instructed to settle, pray for Babylon's welfare; transformative ethic of diaspora.
-- **v11** — "plans to prosper you, not to harm you" — widely quoted promise.
+- **v11** — "plans for peace and not for evil" (מַחְשְׁבוֹת שָׁלוֹם וְלֹא לְרָעָה) — widely quoted promise.

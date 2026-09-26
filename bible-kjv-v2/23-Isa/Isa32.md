@@ -82,6 +82,5 @@ who let the feet of the ox and the donkey range free.
 
 ## Changes
 
-- **"LORD" → "Yahweh"** (implied throughout — no explicit Tetragrammaton in this chapter in the translation)
-- **"righteousness" / "peace" → "righteousness" / "*shalom*"** (vv17, 18) — Hebrew שָׁלוֹם *shalom*; "the work of righteousness will be *shalom*."
+- **"LORD" → "Yahweh"** (v6) — Tetragrammaton preserved.
 - **Poetic structure** — entire chapter formatted as verse; KJV verse numbering can obscure the consistent poetic parallelism throughout this chapter.

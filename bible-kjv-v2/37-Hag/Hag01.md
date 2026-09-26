@@ -1,6 +1,6 @@
 # Haggai 1
 
-[1] In the second year of Darius the king, in the sixth month, on the first day of the month, the word of Yahweh came by the hand of Haggai — the prophet to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua — son of Jehozadak, the high priest:
+[1] In the second year of Darius the king, in the sixth month, on the first day of the month, the word of Yahweh came by the hand of Haggai the prophet to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest:
 
 [2] "Thus says Yahweh of Hosts: These people say the time has not yet come to rebuild the house of Yahweh."
 

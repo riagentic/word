@@ -100,7 +100,7 @@ until I put your enemies under your feet'?
 - **"God" / "*Elohim*"** (vv29–32, 37) — Greek θεός *theos*; divine name preserved throughout.
 - **"Christ" → "*Mashiach*"** (v42) — Greek *Christos*; "What do you think about the *Mashiach*?"
 - **"publicans" → "tax collectors"** — none in this chapter.
-- **"tribute" → "taxes"** (vv17, 19) — Greek κῆνσον *kēnson* = census-tax (Latin *census*); the Roman poll tax. KJV "tribute" is accurate; "taxes" is modernized but "tribute to Caesar" is retained to preserve the political framing.
+- **"tribute" → "taxes"** (vv17, 19) — Greek κῆνσον *kēnson* = census-tax (Latin *census*); the Roman poll tax. KJV "tribute" is accurate; "taxes" (v17) / "the tax" (v19) is the modernized rendering.
 - **Archaic forms** — "thou/thee/thy/ye" modernized throughout.
 - **OT quotations** — v32 quotes Exod 3:6; v37 quotes Deut 6:5; v39 quotes Lev 19:18; v44 quotes Ps 110:1. Rendered following Matthew's Greek text.
 

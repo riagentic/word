@@ -77,5 +77,4 @@ but the belly of the wicked suffers want.
 
 ## Changes
 
-- **"hell" → "Sheol"** (v14 implied) — consistent policy throughout Proverbs.
-- **"My son" address** (v1) — retained; characteristic of Proverbs.
+- No significant deviations from KJV in this chapter.

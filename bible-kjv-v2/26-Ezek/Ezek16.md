@@ -124,7 +124,7 @@
 
 [62] I will establish my covenant with you, and you shall know that I am Yahweh,
 
-[63] that you may remember and be confounded, and never open your mouth again because of your shame, when I atone for you for all that you have done, declares Lord Yahweh."
+[63] that you may remember and be ashamed, and never open your mouth again because of your shame, when I atone for you for all that you have done, declares Lord Yahweh."
 
 ## Changes
 
@@ -141,7 +141,7 @@
 - **"How weak is thine heart" → "How sick is your heart"** (v30) — Hebrew מָה אֲמֻלָה לִבָּתֵךְ *mah amulah libbatekh* = how faint/sick is your heart; "sick" more vivid.
 - **"fulness of bread, and abundance of idleness" → "excess of food, and prosperous ease"** (v49) — Hebrew שְׂבַע לֶחֶם וְשַׁלְוַת הַשְּׁקֵט *seva lechem veshalvat hashsheqet* = satiety of bread and tranquil ease; "excess of food, and prosperous ease" more natural.
 - **"When I shall bring again their captivity" → "I will restore their fortunes"** (v53) — Hebrew בְּשׁוּבִי אֶת שְׁבוּתָן *beshuvi et shevutan*; "restore their fortunes" for *shuv shevut* (consistent formula throughout).
-- **"be confounded" → "be ashamed"** (vv52, 63) — Hebrew וּכְלַמְתִּי *ukhlammeti* = shamed/confounded; "ashamed" more natural.
+- **"be confounded" → "be ashamed"** (vv52, 63) — Hebrew בּוֹשִׁי / וָבֹשְׁתְּ, from בּוֹשׁ *bosh* = be ashamed; "ashamed" more natural.
 - **"I am pacified toward thee" → "I atone for you"** (v63) — Hebrew כְּפַרְתִּי לָךְ *khiparti lakh* = I make atonement for you; *kaphar* = atone; the covenantal forgiveness word.
 
 ### Notes

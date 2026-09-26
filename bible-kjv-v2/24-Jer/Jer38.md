@@ -12,7 +12,7 @@
 
 [6] So they took Jeremiah and cast him into the cistern of Malchiah the king's son, which was in the court of the guard, letting Jeremiah down by ropes. And there was no water in the cistern, but only mud, and Jeremiah sank in the mud.
 
-[7] When Ebed-melech the Cushite, a eunuch who was in the king's house, heard that they had put Jeremiah into the cistern — the king was sitting in the Benjamin Gate —
+[7] When Ebed-Melech the Cushite, a eunuch who was in the king's house, heard that they had put Jeremiah into the cistern — the king was sitting in the Benjamin Gate —
 
 [8] Ebed-Melech went from the king's house and said to the king,
 

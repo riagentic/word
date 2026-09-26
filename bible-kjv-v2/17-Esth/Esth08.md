@@ -12,7 +12,7 @@
 
 [6] For how can I endure to see the calamity that will come upon my people? How can I endure to see the destruction of my kindred?"
 
-[7] Then King Ahasuerus said to Queen Esther and Mordecai the Jew, "Behold, I have given Esther the house of Haman, and they have hanged him on the gallows because he laid his hand on the Jews.
+[7] Then King Ahasuerus said to Queen Esther and Mordecai the Jew, "Behold, I have given Esther the house of Haman, and they have hanged him on the pole because he laid his hand on the Jews.
 
 [8] You write for the Jews as you see fit, in the king's name, and seal it with the king's signet ring; for an edict written in the king's name and sealed with the king's signet ring cannot be revoked."
 
@@ -41,6 +41,7 @@
 - **"Ethiopia" → "Cush"** (v9).
 - **"posts on horseback, and riders on mules, camels, and young dromedaries" → "couriers on horseback — riders on swift royal steeds, bred of the royal stud"** (v10) — Hebrew *ha-rakhashim ha-achashteranim benei ha-rammakim*; Persian loanwords for elite royal horses, not literal mules/camels.
 - **"blue" → "violet"** (v15) — *tekhelet*.
+- **"gallows" → "pole"** (v7) — *etz*, wood/pole; see 2:23.
 
 ### Notes
 - **Estate transfer** — Haman's property to Esther; Mordecai inherits Haman's official position (signet ring = authority).

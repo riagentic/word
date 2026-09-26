@@ -91,7 +91,7 @@
 - **"dough" → "coarse meal"** (v37) — *arisot*; grain flour.
 
 ### Notes
-- **Covenant signatories** — 23 priests (v2-8), 17 Levites (v9-13), 44 heads of the people (v14-27). 84 named signatories.
+- **Covenant signatories** — 21 priests (v2-8), 17 Levites (v9-13), 44 heads of the people (v14-27); with Nehemiah and Zedekiah (v1), 84 named signatories.
 - **Nehemiah first** — governor heads the list.
 - **Four commitments** — (1) no intermarriage with gentiles; (2) Sabbath observance + debt release (7th year); (3) third-shekel temple tax; (4) firstfruits, firstborn, and tithes regularly.
 - **Third-shekel tax** (v32) — reduction from Exod 30:13's half-shekel; post-exilic economic realities.

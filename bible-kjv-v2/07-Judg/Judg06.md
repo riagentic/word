@@ -66,7 +66,7 @@
 
 [33] Then all the Midianites, the Amalekites, and the children of the east gathered together, crossed over, and encamped in the Valley of Jezreel.
 
-[34] But the spirit of Yahweh clothed Gideon; he blew the trumpet, and the Abiezrites were called out after him.
+[34] But the spirit of Yahweh clothed Gideon; he blew the horn, and the Abiezrites were called out after him.
 
 [35] He sent messengers throughout all Manasseh, and they were also called out after him; and he sent messengers to Asher, Zebulun, and Naphtali, and they came up to meet them.
 
@@ -84,6 +84,7 @@
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
+- **"trumpet" → "horn"** (v34) — Hebrew שׁוֹפָר *shofar* = ram's horn, not a metal trumpet.
 - **"strong holds" → "strongholds"** (v2) — modernized spelling.
 - **"grasshoppers" → "locusts"** (v5) — Hebrew אַרְבֶּה *arbeh*. Locusts specifically.
 - **"bullock" → "bull"** (v25, 26, 28).

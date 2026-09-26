@@ -112,7 +112,7 @@ for you have made known to us the king's matter."
 
 ## Changes
 
-- **Aramaic sections retain "God"** — from v4b onward, Dan 2 is in Aramaic; the word אֱלָהּ *Elah* (Aramaic) is rendered "God" rather than *Elohim* (Hebrew) to reflect the language shift in the book.
+- **Aramaic sections render "God" as *Elohim*** — from v4b onward, Dan 2 is in Aramaic; the word אֱלָהּ *Elah* (Aramaic) is rendered *Elohim*, its Hebrew equivalent, so the one God has the same name throughout the book (also chs 3-7).
 
 ### Notes
 - **v4b – 7:28** — written in **Aramaic**, not Hebrew (the royal/administrative lingua franca).

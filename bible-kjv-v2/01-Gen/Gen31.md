@@ -24,7 +24,7 @@
 
 [12] And he said, 'Lift up your eyes and see: all the he-goats leaping on the flock are striped, speckled, and mottled; for I have seen all that Laban has been doing to you.
 
-[13] I am the *Elohim* of Bethel, where you anointed the pillar and where you made a vow to me. Now arise, go out of this land and return to the land of your kindred.'"
+[13] I am the El of Bethel, where you anointed the pillar and where you made a vow to me. Now arise, go out of this land and return to the land of your kindred.'"
 
 [14] Then Rachel and Leah answered and said to him, "Is there still any portion or inheritance for us in our father's house?
 
@@ -36,7 +36,7 @@
 
 [18] and he drove away all his livestock and all the property he had acquired, the livestock of his acquisition that he had gathered in Paddan-Aram, to go to Isaac his father in the land of Canaan.
 
-[19] Laban had gone to shear his sheep, and Rachel stole the household gods (household gods) that were her father's.
+[19] Laban had gone to shear his sheep, and Rachel stole the household gods (*teraphim*) that were her father's.
 
 [20] And Jacob deceived the mind of Laban the Aramean by not telling him that he was fleeing.
 

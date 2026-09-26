@@ -7,7 +7,7 @@ my ear has heard and understood.
 I am not inferior to you.
 
 [3] But I would speak to Shaddai;
-I desire to argue my case with *Elohim*.
+I desire to argue my case with El.
 
 [4] But you plaster lies;
 you are all worthless physicians.
@@ -18,11 +18,11 @@ That would be your wisdom.
 [6] Hear now my argument;
 listen to the pleadings of my lips.
 
-[7] Will you speak falsely for *Elohim*?
+[7] Will you speak falsely for El?
 Will you speak deceitfully for him?
 
 [8] Will you show partiality toward him?
-Will you plead the case for *Elohim*?
+Will you plead the case for El?
 
 [9] Will it be good when he examines you?
 Can you deceive him as one deceives a man?

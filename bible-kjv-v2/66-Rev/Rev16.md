@@ -47,7 +47,7 @@ true and just are your judgments!**"
 
 [20] And every island fled away, and no mountains were to be found.
 
-[21] And great hailstones, about one hundred pounds each, fell from heaven on people; and they cursed *Elohim* for the plague of the hail, because the plague was so severe.
+[21] And great hailstones, each weighing about a talent, fell from heaven on people; and they cursed *Elohim* for the plague of the hail, because the plague was so severe.
 
 ## Changes
 
@@ -58,4 +58,4 @@ true and just are your judgments!**"
 - **"It is done" → "It is done!"** (v17) — Greek Γέγονεν *Gegonen* = "It has happened / It is done"; single dramatic word; exclamation restored.
 - **"the great city was divided into three parts" → "The great city was split into three parts"** (v19) — "divided" → "split"; more vivid.
 - **"the cup of the wine of the fierceness of his wrath" → "the cup of the wine of the fury of his wrath"** (v19) — Greek τοῦ οἴνου τοῦ θυμοῦ τῆς ὀργῆς αὐτοῦ *tou oinou tou thymou tēs orgēs autou* = "the wine of the fury of his wrath" (*thymos* + *orgē* = two words for wrath/fury piled together); "fierceness" → "fury."
-- **"there fell upon men a great hail out of heaven, every stone about the weight of a talent" → "great hailstones, about one hundred pounds each, fell from heaven"** (v21) — Greek τάλαντον *talanton* ≈ 57-83 pounds (26-34 kg); "one hundred pounds" is an approximation conveying the enormous weight; "talent" would be opaque to modern readers.
+- **"there fell upon men a great hail out of heaven, every stone about the weight of a talent" → "great hailstones, each weighing about a talent, fell from heaven"** (v21) — Greek ταλαντιαία *talantiaia* = "talent-weight"; a talent ≈ 57-83 pounds (26-34 kg); the original unit is kept rather than converted.

@@ -10,7 +10,7 @@ In the month Kislev, in the twentieth year, as I was in Susa the citadel,
 
 [4] When I heard these words, I sat down and wept; I mourned for days, fasted, and prayed before the *Elohim* of heaven.
 
-[5] I said: "Please, O Yahweh the *Elohim* of heaven, the great and awesome *Elohim*, who keeps covenant and steadfast love — with those who love him and keep his commandments,
+[5] I said: "Please, O Yahweh the *Elohim* of heaven, the great and awesome El, who keeps covenant and steadfast love — with those who love him and keep his commandments,
 
 [6] let your ear be attentive and your eyes open, to hear the prayer of your servant that I pray before you day and night for the children of Israel your servants. I confess the sins of the children of Israel, which we have sinned against you; I and my father's house have sinned.
 

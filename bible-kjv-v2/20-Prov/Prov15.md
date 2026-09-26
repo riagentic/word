@@ -106,4 +106,4 @@ and humility comes before honor.
 - **"Fear of the LORD" → "fear of Yahweh"** (v16, 33) — Hebrew יִרְאַת יהוה *yir'at YHWH*.
 
 ### Notes
-- **v11** — ***Sheol* and *Abaddon*** (the grave and the place of destruction) paired as the hidden underworld realms.
+- **v11** — **_Sheol_ and _Abaddon_** (the grave and the place of destruction) paired as the hidden underworld realms.

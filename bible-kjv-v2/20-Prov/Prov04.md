@@ -85,7 +85,6 @@ turn your foot away from evil.
 ## Changes
 
 - **"My son" / "O sons" address** (v1, 10, 20) — retained verbatim; characteristic of the instructional sections of Proverbs 1–9.
-- **"apple of your eye"** (v2) — Hebrew אִישׁוֹן *ishon* (pupil); KJV idiom retained here as it matches Hebrew metaphor for the most precious/guarded thing.
 
 ### Notes
 - **v23 "Keep your heart"** — foundational proverb.

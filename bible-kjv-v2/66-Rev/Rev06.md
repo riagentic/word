@@ -10,7 +10,7 @@
 
 [5] When he opened the third seal, I heard the third living creature say, "Come!" And I looked, and behold, a black horse! And its rider had a pair of scales in his hand.
 
-[6] And I heard what seemed to be a voice in the midst of the four living creatures, saying, "A choinix of wheat for a denarius, and three quarts of barley for a denarius, and do not harm the oil and wine!"
+[6] And I heard what seemed to be a voice in the midst of the four living creatures, saying, "A choinix of wheat for a denarius, and three choinikes of barley for a denarius, and do not harm the oil and wine!"
 
 [7] When he opened the fourth seal, I heard the voice of the fourth living creature say, "Come!"
 
@@ -37,6 +37,7 @@
 ## Changes
 
 - **"God" → "*Elohim*"** (v9) — systematic.
+- **"A measure of wheat for a penny, and three measures of barley for a penny" → "A choinix of wheat for a denarius, and three choinikes of barley for a denarius"** (v6) — Greek χοῖνιξ … τρεῖς χοίνικες *choinix … treis choinikes*: the same dry measure (≈ 1.1 L, a day's grain ration) for both grains; δηνάριον *dēnarion* = a day's wage; original units kept.
 - **"kill with sword, and with hunger, and with death, and with the beasts of the earth" → "to kill with sword and with famine and with pestilence and by wild beasts of the earth"** (v8) — "hunger" → "famine"; "death" → "pestilence" (Greek θάνατος *thanatos* here functions as a plague/pestilence, echoing Ezek 14:21's fourfold judgment).
 - **"How long, O Lord, holy and true, dost thou not judge" → "O Sovereign Lord, holy and true, how long before you will judge"** (v10) — "dost thou not" → "will you"; "Sovereign Lord" renders Greek δεσπότης *despotēs* = "master / sovereign / absolute lord."
 - **"their brethren, that should be killed as they were" → "their fellow servants and their brothers should be complete, who were to be killed as they themselves had been"** (v11) — modernized.

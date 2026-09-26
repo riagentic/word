@@ -159,11 +159,11 @@ and my heart is faint.
 ## Changes
 
 - **"LORD" → "Yahweh"** (v5, 8, 9, 11, 12, 17, 18, 20, 21) — Hebrew יהוה *YHWH*; note that the poem also uses *Adonai* (v14, 15) where the MT has אֲדֹנָי rather than יהוה; both forms retained distinctly.
-- **"LORD" / "*Adonai*"** — the poem uses both יהוה *YHWH* (→ Yahweh) and אֲדֹנָי *Adonai* (→ *Adonai*, kept untranslated); the distinction is preserved throughout Lamentations to honor the text's own variation.
+- **"LORD" / "Lord"** — the poem uses both יהוה *YHWH* (→ Yahweh) and אֲדֹנָי *Adonai* (→ "Lord", v14, 15 ×2); the distinction is preserved throughout Lamentations to honor the text's own variation.
 - **"How"** (v1) — Hebrew אֵיכָה *Eikhah*; the exclamatory dirge-opener and Hebrew title of the book.
 - **Acrostic structure** — Hebrew alphabet letters (א–ת) marked in bold before each verse (1–22); the acrostic cannot be reproduced in English translation but is made visible by the markers.
 - **"lovers"** (v2, 19) — Hebrew מְאַהֲבַיִךְ *me'ahavayikh*; political allies/nations who once courted Jerusalem; the word carries both political and erotic connotations, preserved as "lovers."
-- **"virgin daughter of Jerusalem"** — Hebrew בְּתוּלַת בַּת יְהוּדָה *betulat bat Yehudah* (v15); personification of Judah as a young woman; retained.
+- **"the virgin, the daughter of Judah" → "the virgin daughter of Judah"** — Hebrew בְּתוּלַת בַּת יְהוּדָה *betulat bat Yehudah* (v15); personification of Judah as a young woman; retained.
 - **"sins" / "transgressions"** — Hebrew פְּשָׁעִים *pesha'im* (rebellions/deliberate transgressions); translated contextually as "transgressions."
 
 ### Notes

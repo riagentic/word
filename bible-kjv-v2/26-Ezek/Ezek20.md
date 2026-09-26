@@ -107,7 +107,7 @@
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton יְהוָה rendered directly.
-- **"Lord GOD" → "Lord Yahweh"** (vv3, 5, 7, 27, 30, 31, 33, 36, 39, 40, 44, 47, 49) — Hebrew אֲדֹנָי יְהוִה *Adonai Yahweh*; used extensively throughout this covenant-history chapter.
+- **"Lord GOD" → "Lord Yahweh"** (vv3, 5, 27, 30, 31, 33, 36, 39, 40, 44, 47, 49) — Hebrew אֲדֹנָי יְהוִה *Adonai Yahweh*; used extensively throughout this covenant-history chapter.
 - **"God" → "*Elohim*"** (vv5, 7, 19, 20) — Hebrew אֱלֹהִים *Elohim*; "I am Yahweh your *Elohim*."
 - **"the heathen" → "the nations"** (vv9, 14, 22, 23, 32, 41) — Hebrew גּוֹיִם *goyim*; "nations" consistent throughout.
 - **"judgments" → "rules"** (vv11, 13, 16, 18, 19, 21, 24, 25) — Hebrew מִשְׁפָּטִים *mishpatim* = judgments/ordinances/rules; "rules" for the legal ordinances (cf. statutes and rules throughout).

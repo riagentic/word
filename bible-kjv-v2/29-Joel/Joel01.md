@@ -116,6 +116,6 @@ the pastures of the wilderness.
 - **"Sanctify ye a fast" → "Consecrate a fast"** (v14) — Hebrew קַדְּשׁוּ *qaddeshu* = consecrate/set apart; "consecrate" more precise than "sanctify."
 - **"the day of the LORD" → "the Day of Yahweh"** (v15) — formula consistently capitalized; Day of Yahweh is a technical eschatological term.
 - **"the meat" → "the food"** (v16) — Hebrew אֹכֶל *ochel* = food generally; "meat" in 1611 meant "food" but now means flesh only.
-- **"The seed is rotten under their clods" → "The seed shrivels under the clods"** (v17) — Hebrew עָבְשׁוּ פְרֻדוֹת *aveshu perудoth* = seeds/grains dried up/shriveled.
+- **"The seed is rotten under their clods" → "The seed shrivels under the clods"** (v17) — Hebrew עָבְשׁוּ פְרֻדוֹת *aveshu perudoth* = seeds/grains dried up/shriveled.
 - **"the garners are laid desolate, the barns are broken down" → "the storehouses are desolate; the granaries are torn down"** (v17) — modernized.
 - **"the rivers of waters are dried up" → "the water brooks are dried up"** (v20) — Hebrew אֲפִיקֵי מַיִם *afiqei mayim* = channels of water/streams.

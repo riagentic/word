@@ -4,7 +4,7 @@
 
 [2] "And you, O son of man, thus says Lord Yahweh to the land of Israel:
 
-"An end! The end has come
+'An end! The end has come
 upon the four corners of the land.
 
 [3] Now the end is upon you,
@@ -15,7 +15,7 @@ and I will punish you for all your abominations.
 [4] My eye will not spare you, nor will I have pity,
 but I will punish you for your ways,
 while your abominations are in your midst.
-Then you will know that I am Yahweh."
+Then you will know that I am Yahweh.'"
 
 [5] Thus says Lord Yahweh:
 

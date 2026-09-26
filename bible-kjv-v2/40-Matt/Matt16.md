@@ -61,7 +61,7 @@
 - **"Jesus" → "*Yeshua*"** (throughout) — Hebrew name preserved.
 - **"Christ" → "*Mashiach*"** (vv16, 20) — Greek *Christos* = *Mashiach*; "You are the *Mashiach*."
 - **"God" → "*Elohim*"** (vv16, 23) — Greek θεός *theos*; divine name preserved.
-- **"*Shim'on bar-Yonah*"** (v17) — Greek Σίμων Βαριωνᾶ *Simōn Bariōna* = Aramaic for Simon son of Jonah. Hebrew form used to preserve the patronymic.
+- **"Simon Barjona" → "Simon son of Jonah"** (v17) — Greek Σίμων Βαριωνᾶ *Simōn Bariōna*, from Aramaic *bar-Yonah* = son of Jonah; the patronymic is translated.
 - **"leaven" — retained** (vv6, 11–12) — Greek ζύμη *zumē* = leaven/yeast; figurative for pervasive influence. "Leaven" is adequately vivid; retained.
 
 ### Notes

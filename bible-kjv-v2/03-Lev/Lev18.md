@@ -44,7 +44,7 @@
 
 [22] You shall not lie with a male as with a woman; it is an abomination.
 
-[23] You shall not lie with any animal to defile yourself with it; and a woman shall not stand before an animal to lie with it is perversion.
+[23] You shall not lie with any animal to defile yourself with it; and a woman shall not stand before an animal to mate with it; it is perversion.
 
 [24] Do not defile yourselves by any of these things; for by all these the nations I am casting out before you have defiled themselves.
 
@@ -65,7 +65,7 @@
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
 - **"put apart for her uncleanness" → "in her menstrual separation"** (v19) — Hebrew נִדָּה *niddah*.
-- **"lie carnally" → "lie sexually"** (v20) — Hebrew שְׁכָבָה זֶרַע *shekhavat zera*. Sexual intercourse with seed-emission.
+- **"lie carnally" → "lie sexually"** (v20) — Hebrew שְׁכָבְתְּךָ לְזָרַע *shekhavtekha le-zara* ("your lying for seed"). Sexual intercourse with seed-emission.
 - **"pass through the fire to Molech"** (v21) — Hebrew מֹלֶךְ *Molekh*. Canaanite / Phoenician deity associated with child-sacrifice. Kept; proper name. Possibly related to *melek* "king" with vowel-pointing of *bosheth* "shame."
 - **"mankind / womankind" → "male / woman"** (v22) — Hebrew זָכָר *zakar* / אִשָּׁה *ishah*. Simplified; *-kind* archaic.
 - **"abomination" (v22) → "abomination"** — Hebrew תּוֹעֵבָה *to'evah*. Kept; a moral / covenantal abomination (distinct from *sheqets* ritual-abhorrence, ch 11).

@@ -70,4 +70,4 @@
 
 ### Notes
 - **Queen of Heaven** — likely Ishtar/Astarte.
-- **Pharaoh Hophra** (Apries) — assassinated 570 BC.
+- **Pharaoh Chofra** (Hebrew חָפְרַע; KJV Hophra, Greek Apries) — assassinated 570 BC.

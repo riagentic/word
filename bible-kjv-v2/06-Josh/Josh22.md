@@ -42,7 +42,7 @@
 
 [21] The children of Reuben, the children of Gad, and the half-tribe of Manasseh answered and said to the heads of the clans of Israel:
 
-[22] "*Elohim*, *Elohim*, Yahweh! *Elohim*, *Elohim*, Yahweh! He knows, and let Israel know! If it was in rebellion or in treachery against Yahweh, do not spare us today.
+[22] "El, *Elohim*, Yahweh! El, *Elohim*, Yahweh! He knows, and let Israel know! If it was in rebellion or in treachery against Yahweh, do not spare us today.
 
 [23] If we have built ourselves an altar to turn away from following Yahweh — or to offer burnt offering or grain offering on it, or to offer peace offerings on it — may Yahweh himself require it.
 
@@ -77,7 +77,7 @@
 - **"princes" → "chiefs"** (throughout).
 - **"great altar to see to" → "a great altar, of imposing appearance"** (v10) — Hebrew *gadol le-mar'eh*.
 - **"pattern" → "replica"** (v28) — Hebrew *tavnit*.
-- **"The Lord God of gods" → "El, *Elohim*, Yahweh"** (v22) — Hebrew אֵל אֱלֹהִים יְהוָה *El *Elohim* YHWH*. Triple divine name, emphatic oath. Kept untranslated.
+- **"The Lord God of gods" → "El, *Elohim*, Yahweh"** (v22) — Hebrew אֵל אֱלֹהִים יְהוָה *El Elohim YHWH*. Triple divine name, emphatic oath. Kept untranslated.
 - **"Ed" (v34)** — Hebrew עֵד *Ed* = "witness." Etymology retained.
 - **MT reading of v34 lacks the word "Ed"** — some manuscripts and the Hebrew read: "The Reubenites and Gadites called the altar — for it is a witness between us that Yahweh is *Elohim*." The name "Ed" is implied / supplied.
 

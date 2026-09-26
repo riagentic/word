@@ -58,7 +58,7 @@
 
 [29] These things shall be a statute of law for you throughout your generations in all your dwellings.
 
-[30] Whoever kills any person the testimony of witnesses the murderer shall be put to death; but one witness shall not testify against any person for him to be put to death.
+[30] Whoever kills any person, the murderer shall be put to death on the testimony of witnesses; but one witness shall not testify against any person for him to be put to death.
 
 [31] You shall take no ransom for the life of a murderer who is guilty of death; he shall surely be put to death.
 

@@ -72,7 +72,7 @@
 
 [36] What does he mean by saying, 'You will seek me and you will not find me,' and, 'Where I am you cannot come'?"
 
-**[37] On the last day of the feast, the great day, *Yeshua* stood up and cried out, "**If anyone thirsts, let him come to me and drink.
+[37] On the last day of the feast, the great day, *Yeshua* stood up and cried out, "**If anyone thirsts, let him come to me and drink.**
 
 **[38] Whoever believes in me, as the Scripture has said, 'Out of his heart will flow rivers of living water.'**"
 

@@ -40,7 +40,7 @@ but when the wicked rise, people hide themselves.
 [13] Whoever conceals his transgressions will not prosper,
 but he who confesses and forsakes them will obtain mercy.
 
-[14] Blessed is the man who fears Yahweh always,
+[14] Blessed is the man who fears always,
 but he who hardens his heart will fall into calamity.
 
 [15] Like a roaring lion or a charging bear

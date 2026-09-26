@@ -10,9 +10,9 @@
 
 [5] The king assigned them a daily portion of the food that the king ate, and of the wine that he drank. They were to be educated for three years, and at the end of that time they were to stand before the king.
 
-[6] Among these were of the tribe of Judah: Daniel, Hananyah, Mishael, and Azariah.
+[6] Among these were of the tribe of Judah: Daniel, Hananiah, Mishael, and Azariah.
 
-[7] And the chief of the eunuchs gave them names: Daniel he called Belteshatzar, Hananiah he called Shadrach, Mishael he called Meshach, and Azariah he called Aved-Nego.
+[7] And the chief of the eunuchs gave them names: Daniel he called Belteshatzar, Hananiah he called Shadrach, Mishael he called Meshach, and Azariah he called Abednego.
 
 [8] But Daniel resolved that he would not defile himself with the king's food, or with the wine that he drank. Therefore he asked the chief of the eunuchs to allow him not to defile himself.
 
@@ -45,9 +45,9 @@
 ## Changes
 
 - **"God" → "*Elohim*"** (vv2, 9, 17) — Hebrew אֱלֹהִים *Elohim*; Daniel's book uses *Elohim* for the God of Israel in contrast to Babylonian deities.
-- **Babylonian names** (*Belteshatzar*, *Shadrach*, *Meshach*, *Aved-Nego*) — transliterations of imposed Babylonian/Akkadian names italicized to distinguish from Hebrew originals.
+- **Babylonian names** (*Belteshatzar*, *Shadrach*, *Meshach*, *Abednego*) — transliterations of imposed Babylonian/Akkadian names italicized to distinguish from Hebrew originals.
 
 ### Notes
-- **Four Hebrew names → Babylonian names**: *Daniyel* ("El is my judge") → *Belteshatzar* ("Bel protect his life"); *Chananyah* → *Shadrach*; *Mishael* → *Meshach*; *Azaryah* → *Aved-Nego*.
+- **Four Hebrew names → Babylonian names**: *Daniyel* ("El is my judge") → *Belteshatzar* ("Bel protect his life"); *Chananyah* → *Shadrach*; *Mishael* → *Meshach*; *Azaryah* → *Abednego*.
 - **605 BC** — first deportation; Daniel a teenager.
 - **v21 Cyrus** — Daniel's tenure spans from Babylon's rise to its fall.

@@ -12,7 +12,7 @@
 
 [6] They prepared the onyx stones, enclosed in settings of gold filigree, engraved like the engravings of a signet with the names of the children of Israel.
 
-[7] He set them on the shoulder-pieces of the ephop as memorial stones for the children of Israel — as Yahweh commanded Moses.
+[7] He set them on the shoulder-pieces of the ephod as memorial stones for the children of Israel — as Yahweh commanded Moses.
 
 [8] He made the breastpiece, in skillful work, like the work of the ephod — of gold, blue, purple, and scarlet yarns, and of fine twined linen.
 

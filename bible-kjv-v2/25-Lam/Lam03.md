@@ -63,8 +63,8 @@ and is bowed down within me.
 [21] **ז** But this I call to mind,
 and therefore I have hope:
 
-[22] **ח** The steadfast love of Yahweh never ceases;
-his mercies never come to an end;
+[22] **ח** The steadfast love of Yahweh — surely we are not consumed,
+for his mercies never come to an end;
 
 [23] **ח** they are new every morning;
 great is your faithfulness.
@@ -121,7 +121,7 @@ a man, about the punishment of his sins?
 and return to Yahweh!
 
 [41] **נ** Let us lift up our hearts and hands
-to *Elohim* in heaven:
+to El in heaven:
 
 [42] **נ** "We have transgressed and rebelled,
 and you have not forgiven.
@@ -201,9 +201,9 @@ from under the heavens of Yahweh.
 ## Changes
 
 - **"LORD" → "Yahweh"** (v18, 22, 24, 25, 26, 40, 50, 55, 59, 66) — Hebrew יהוה *YHWH*.
-- **"LORD" / "*Adonai*" / "*El*"** — chapter 3 uses three divine names: יהוה *YHWH* (→ Yahweh), אֲדֹנָי *Adonai* (v31, 36, 37, 38, 58 → *Adonai*), and אֵל *El* (v41 → *El*); all three preserved distinctly.
+- **"LORD" / "Lord" / "God" → "Yahweh" / "Lord" / "El"** — chapter 3 uses three divine names: יהוה *YHWH* (→ Yahweh), אֲדֹנָי *Adonai* (v31, 36, 37, 58 → Lord), and אֵל *El* (v41 → El); all three preserved distinctly.
 - **Acrostic** — chapter 3 is a triple acrostic: each Hebrew letter governs three verses (vv1–3 = א, vv4–6 = ב, etc., through vv64–66 = ת); 66 verses total. This is the most elaborate acrostic in the book and marks Lam 3 as the structural and theological center.
-- **"steadfast love of the LORD" → "mercies of Yahweh"** (v22) — Hebrew חַסְדֵי יהוה *chasdei YHWH*; the plural of *chesed* ("acts of covenantal loyalty"); the theological climax of the book.
+- **"It is of the LORD'S mercies that we are not consumed" → "The steadfast love of Yahweh — surely we are not consumed"** (v22) — Hebrew חַסְדֵי יהוה כִּי לֹא־תָמְנוּ; *chasdei* is the plural of *chesed* ("acts of covenantal loyalty"); the theological climax of the book. MT תָמְנוּ "we are (not) consumed" kept; the Syriac and Targum read תַּמּוּ "they have (not) ceased" (so "never ceases" in some versions).
 - **"mercies"** (v22, 23) — Hebrew רַחֲמִים *rachamim*; womb-compassions, deep tender mercy; kept as "mercies" for familiarity.
 - **"*Eikhah*"** — not the opening word of this chapter (uses a different form); the dirge continues.
 

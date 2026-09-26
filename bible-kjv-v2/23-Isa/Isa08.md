@@ -35,7 +35,7 @@ for *Elohim* is with us.
 
 [15] And many shall stumble on it. They shall fall and be broken; they shall be snared and taken."
 
-[16] Bind up the testimony; seal the Law among my disciples.
+[16] Bind up the testimony; seal the *Torah* among my disciples.
 
 [17] I will wait for Yahweh, who is hiding his face from the house of Jacob, and I will hope in him.
 
@@ -43,7 +43,7 @@ for *Elohim* is with us.
 
 [19] And when they say to you, "Inquire of the mediums and the necromancers who chirp and mutter," should not a people inquire of their *Elohim*? Should they inquire of the dead on behalf of the living?
 
-[20] To the Law and to the testimony! If they will not speak according to this word, it is because they have no dawn.
+[20] To the *Torah* and to the testimony! If they will not speak according to this word, it is because they have no dawn.
 
 [21] They will pass through the land, greatly distressed and hungry. And when they are hungry, they will be enraged and will speak contemptuously against their king and their *Elohim*, and turn their faces upward.
 

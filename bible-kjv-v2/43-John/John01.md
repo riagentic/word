@@ -109,7 +109,7 @@
 - **"Christ" → "*Mashiach*"** (v17, 20, etc.) — Hebrew מָשִׁיחַ *Mashiach* ("anointed"); "Christ" is a Greek calque (*Christos*) that has become a surname; the Hebrew title is preserved. First occurrence of *Christos* in v17 rendered *Mashiach*.
 - **"Holy Ghost" → "*Ruach HaQodesh*"** (v33) — Hebrew רוּחַ הַקֹּדֶשׁ *Ruach HaQodesh* ("the Spirit of Holiness"); "Holy Ghost" is archaic KJV for the same concept.
 - **"Peter" → "*Kefa*"** (v40, 42) — Aramaic כֵּיפָא *Kepha* ("rock/stone"); text notes *Yeshua* renamed Simon as *Kefa* (v42). KJV "Peter" is the Greek *Petros* form. The text also preserves *Petros* gloss at v42 to explain the renaming.
-- **"Nathanael" / "*Netan'el*"** (v45) — first occurrence gives Hebrew form; the familiar Nathanael retained as well.
+- **"Nathanael" — retained** (vv45–49) — Greek Ναθαναήλ renders Hebrew נְתַנְאֵל *Netan'el* ("El has given"); the familiar form is kept in the text.
 - **"baptize/baptizest" → "immerse/immersing"** (v25, 26, 28, 31, 33) — Greek βαπτίζω *baptizo* means "to dip, plunge, immerse"; "baptize" is a transliteration that obscures the physical act.
 - **"law" → "Torah"** (v17) — Hebrew תּוֹרָה *Torah* ("instruction, teaching"); "law" is reductive.
 - **"record" / archaic "bare record" → "bore witness / bore record"** (v15, 32, 34) — archaic KJV "bare" modernized to "bore."

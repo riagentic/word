@@ -24,7 +24,7 @@
 
 [12] Then they returned to Jerusalem from the mount called Olivet, which is near Jerusalem, a Sabbath day's journey away.
 
-[13] And when they had entered, they went up to the upper room, where they were staying, *Kefa* and John and James and Andrew, Philip and Thomas, Bartholomew and Matthew, James the son of Alphaeus and Simon the Zealot and Judas the son of James.
+[13] And when they had entered, they went up to the upper room, where they were staying, *Kefa* and John and Jacob and Andrew, Philip and Thomas, Bartholomew and Matthew, Jacob the son of Alphaeus and Simon the Zealot and Judas the son of Jacob.
 
 [14] All these with one accord were devoting themselves to prayer, together with the women and Mary the mother of *Yeshua*, and his brothers.
 
@@ -61,6 +61,7 @@ and
 
 ## Changes
 
+- **"James" → "Jacob"** (v13) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"Jesus" → "*Yeshua*"** (throughout) — systematic name transliteration.
 - **"God" → "*Elohim*"** (throughout) — Hebrew divine name preserved.
 - **"Holy Ghost" → "*Ruach HaQodesh*"** (v2, 5, 8, 16) — Hebrew רוּחַ הַקֹּדֶשׁ *Ruach HaQodesh* ("Spirit of Holiness"); archaic "Ghost" replaced throughout Acts.

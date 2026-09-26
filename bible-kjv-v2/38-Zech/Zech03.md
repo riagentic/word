@@ -24,7 +24,7 @@
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton יְהוָה rendered directly.
 - **"LORD of hosts" → "Yahweh of Hosts"** (vv7, 9, 10) — Hebrew יְהוָה צְבָאוֹת *Yahweh Tzeva'ot*; the military-covenantal divine title preserved.
-- **"angel of the LORD" → "Messenger of Yahweh"** (vv1, 5, 6) — Hebrew מַלְאַךְ יְהוָה *Malakh Yahweh*, "messenger of Yahweh."
+- **"angel of the LORD" → "messenger of Yahweh"** (vv1, 5, 6) — Hebrew מַלְאַךְ יְהוָה *Malakh Yahweh*, "messenger of Yahweh."
 
 ### Notes
 - **v2 "brand plucked from fire"** — rescued remnant.

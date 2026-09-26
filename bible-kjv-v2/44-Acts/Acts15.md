@@ -24,7 +24,7 @@
 
 [12] And all the assembly fell silent, and they listened to Barnabas and Paul as they related what signs and wonders *Elohim* had done through them among the Gentiles.
 
-[13] After they finished speaking, James replied, "Brothers, listen to me.
+[13] After they finished speaking, Jacob replied, "Brothers, listen to me.
 
 [14] Simeon has related how *Elohim* first visited the Gentiles, to take from them a people for his name.
 
@@ -89,6 +89,7 @@ says the Lord, who makes these things**
 
 ## Changes
 
+- **"James" → "Jacob"** (v13) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"God" → "*Elohim*"** (throughout) — Hebrew divine name preserved.
 - **"Holy Ghost" → "*Ruach HaQodesh*"** (v8, 28) — consistent rendering.
 - **"Jesus" → "*Yeshua*"** (v11, 26) — systematic name transliteration.
@@ -97,7 +98,7 @@ says the Lord, who makes these things**
 - **"baptize" → "immerse"** — no direct occurrence in this chapter.
 - **"law of Moses" / "Moses"** (v1, 5, 21) — retained as proper name reference.
 - **"the Apostolic Decree"** (v20, 29) — four prohibitions (idols, blood, strangled things, sexual immorality) represent the Noachide framework; the halakhic context is significant.
-- **v15-18** — OT quotation: Amos 9:11-12 (LXX) — James cites the "tent of David" prophecy; notably the LXX differs from the MT here, allowing the Gentile inclusion reading.
+- **v15-18** — OT quotation: Amos 9:11-12 (LXX) — Jacob cites the "tent of David" prophecy; notably the LXX differs from the MT here, allowing the Gentile inclusion reading.
 - **v34 absent** — KJV v34 ("Notwithstanding it pleased Silas to abide there still") is absent from the earliest MSS; omitted with note.
 - **Archaic pronouns and verb forms** modernized throughout.
 

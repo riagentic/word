@@ -81,7 +81,7 @@ So the soldiers did these things,
 
 [37] And again another Scripture says, "**They will look on him whom they have pierced**."
 
-[38] After these things Joseph of Ramathaim, who was a disciple of *Yeshua*, but secretly for fear of the Jews, asked Pilate that he might take away the body of *Yeshua*, and Pilate gave him permission. So he came and took away his body.
+[38] After these things Joseph of Arimathea, who was a disciple of *Yeshua*, but secretly for fear of the Jews, asked Pilate that he might take away the body of *Yeshua*, and Pilate gave him permission. So he came and took away his body.
 
 [39] Nicodemus also, who earlier had come to *Yeshua* by night, came bringing a mixture of myrrh and aloes, about seventy-five pounds in weight.
 
@@ -97,8 +97,8 @@ So the soldiers did these things,
 - **"God" → "*Elohim*"** (v7) — Hebrew divine name preserved.
 - **"Golgotha"** (v17) — Aramaic גֻּלְגֹּלְתָּא *Gulgolta* ("skull"); retained with Greek form *Golgotha* as text uses the Aramaic; "Calvary" (KJV Luke 23:33) is the Latin equivalent, not used here.
 - **"Gabbatha"** (v13) — Aramaic גַּבְּתָא *Gabbatha* ("elevated place, ridge"); retained as the Aramaic place-name.
-- **"*Ecce homo* — Behold the man"** (v5) — Latin phrase retained alongside English gloss; Pilate's words preserved in their cultural resonance.
-- **"*Tetelestai* — It is finished"** (v30) — Greek τετέλεσται *tetelestai* ("it has been completed/paid in full"); the Greek is preserved alongside the English to convey both the financial and teleological force of the word.
+- **"Behold the man!" — retained** (v5) — Greek Ἰδοὺ ὁ ἄνθρωπος *Idou ho anthrōpos*; the Latin *Ecce homo* (Vulgate) is the traditional form of Pilate's words, but the text renders the Greek in English.
+- **"It is finished" — retained** (v30) — Greek τετέλεσται *tetelestai* ("it has been completed/brought to its end"; also used of debts paid in full); rendered in English only.
 - **v24** — OT quotation: Ps 22:18 ("They divided my garments among them…").
 - **v36** — OT quotation: Ex 12:46; Ps 34:20 (no bone broken — Passover lamb typology).
 - **v37** — OT quotation: Zech 12:10 ("They will look on him whom they have pierced").

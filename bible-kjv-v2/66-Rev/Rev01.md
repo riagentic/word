@@ -36,7 +36,7 @@ Even so. Amen.
 
 [16] In his right hand he held seven stars, from his mouth came a sharp two-edged sword, and his face was like the sun shining in full strength.
 
-**[17] When I saw him, I fell at his feet as though dead. But he laid his right hand on me, saying, "**Fear not, I am the first and the last,
+[17] When I saw him, I fell at his feet as though dead. But he laid his right hand on me, saying, "**Fear not, I am the first and the last,**
 
 **[18] and the living one. I died, and behold I am alive forevermore, and I have the keys of Death and Hades.**
 

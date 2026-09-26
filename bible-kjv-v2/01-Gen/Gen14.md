@@ -39,7 +39,7 @@
 [19] And he blessed him and said,
 
 "Blessed be Abram by the Most High *Elohim*,
-Maker of heaven and earth;
+Maker of heavens and earth;
 
 [20] and blessed be the Most High *Elohim*,
 who has delivered your enemies into your hand."

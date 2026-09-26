@@ -24,7 +24,7 @@
 
 [12] Not that I have already obtained this or am already perfect, but I press on to make it my own, because the *Mashiach* *Yeshua* has made me his own.
 
-**[13] Brothers, I do not consider that I have made it my own. But one thing I do: **forgetting what lies behind and straining forward to what lies ahead,
+[13] Brothers, I do not consider that I have made it my own. But one thing I do: **forgetting what lies behind and straining forward to what lies ahead,**
 
 **[14] I press on toward the goal for the prize of the upward call of *Elohim* in the *Mashiach* *Yeshua***.
 

@@ -58,7 +58,7 @@
 
 - **"Jesus" → "*Yeshua*"** (v1 implied, throughout) — systematic name transliteration.
 - **"God" → "*Elohim*"** — no direct occurrence in this chapter (Father is used instead), but consistent policy.
-- **"*Parakletos*"** (v26) — Greek παράκλητος preserved; consistent with ch. 14; glossed "Helper."
+- **"Comforter" → "Helper"** (v26) — Greek παράκλητος *paraklētos* = one called alongside (helper, advocate); rendered "Helper," consistent with ch. 14.
 - **"husbandman" → "vinedresser"** (v1) — Greek γεωργός *georgos* = "farmer / vinedresser"; "husbandman" is archaic.
 - **"purged" → "prunes"** (v2) — Greek καθαίρει *kathairei* = "cleanses, prunes"; "purged" is archaic.
 - **"servants" → "servants/friends"** (v15) — *Yeshua*'s shift from "servants" (δοῦλοι *douloi*) to "friends" (φίλοι *philoi*) is theologically significant; preserved.

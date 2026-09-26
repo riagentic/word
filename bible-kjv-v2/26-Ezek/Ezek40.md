@@ -26,7 +26,7 @@
 
 [13] Then he measured the gate from the ceiling of the one side room to the ceiling of the other, a breadth of twenty-five cubits; the openings faced each other.
 
-[14] He measured also the vestibule, sixty cubits. And around the vestibule of the gateway was the court.
+[14] He made also jambs, sixty cubits; and up to the jamb of the court was the gateway all around.
 
 [15] From the front of the gate at the entrance to the front of the inner vestibule of the gate was fifty cubits.
 
@@ -102,9 +102,9 @@
 
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton יְהוָה rendered directly.
-- **"Lord GOD" → "Lord Yahweh"** (v2) — Hebrew אֲדֹנָי יְהוִה *Adonai Yahweh*; the vision delivered in the name of *Adonai* Yahweh.
 - **"visions of God" → "visions of *Elohim*"** (v2) — Hebrew מַרְאוֹת אֱלֹהִים *mar'ot Elohim*; "In visions of *Elohim* he brought me to the land of Israel" — the same phrase as 8:3.
 - **"a cubit and an hand breadth" → "a cubit and a handbreadth"** (v5) — Hebrew אַמָּה וָטֹפַח *ammah ve-tofach*; the long cubit used in the temple measurements = standard cubit + one handbreadth (about 52 cm); specified in the text.
+- **"posts of threescore cubits" → "jambs, sixty cubits"** (v14) — MT וַיַּעַשׂ אֶת־אֵילִים שִׁשִּׁים אַמָּה וְאֶל־אֵיל הֶחָצֵר הַשַּׁעַר סָבִיב סָבִיב "he made jambs, sixty cubits; and to the jamb of the court, the gate, all around" — difficult but kept; the LXX reads "the porch (αἴθριον) of the gate … twenty cubits", which many modern versions follow ("he measured the vestibule").
 
 ### Notes
 - **573 BC** — 14 years after fall of Jerusalem; visionary temple tour begins.

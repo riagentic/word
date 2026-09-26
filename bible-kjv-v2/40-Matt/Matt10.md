@@ -93,4 +93,4 @@
 - **"devils" → "demons"** (v8) — Greek δαιμόνια *daimonia*; same correction throughout.
 
 ### Notes
-- **v25 *Ba'al-Zevul*** — Greek "Beelzebul" (from Heb "Lord of dung" — pejorative for pagan deity, applied to Satan).
+- **v25 "Beelzebul"** — Greek Βεελζεβούλ, from Hebrew *Ba'al-Zevul* ("lord of the lofty abode", mocked as "lord of dung" — pejorative for pagan deity, applied to Satan).

@@ -45,7 +45,7 @@
 - **"Jesus" → "*Yeshua*"** (vv5, 9–10, 16, 18) — Hebrew name preserved.
 - **"Holy Ghost" → "*Ruach HaQodesh*"** (v19) — Greek πνεῦμα ἅγιον *pneuma hagion*; Hebrew divine breath/spirit preserved in full in the Great Commission baptismal formula.
 - **"baptizing" → "immersing"** (v19) — Greek βαπτίζοντες *baptizontes* = immersing. The Great Commission uses *baptizo* = dip/immerse; "immersing them in the name of the Father and of the Son and of the *Ruach HaQodesh*" — rendered accurately.
-- **"Mary Magdalene" — retained** (v1) — Established as *Miryam Magdalit* in ch. 27; here retained as "Mary Magdalene" for readability in the resurrection narrative.
+- **"Mary Magdalene" — retained** (v1) — Greek Μαρία ἡ Μαγδαληνή; retained as "Mary Magdalene," as in ch. 27 (vv56, 61).
 - **"end of the world" → "end of the age"** (v20) — Greek τῆς συντελείας τοῦ αἰῶνος *tēs suntelias tou aiōnos* = completion/end of the age. "World" (KJV) imports spatial/physical meaning; "age" is the accurate eschatological term.
 - **"alway" → "always"** (v20) — KJV "lo, I am with you alway" — archaic form; modernized.
 - **"eleven" — retained** (v16) — Greek ἕνδεκα *hendeka* = eleven; post-Judas betrayal number.

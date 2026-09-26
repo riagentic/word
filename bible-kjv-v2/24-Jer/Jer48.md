@@ -57,7 +57,7 @@ when I shall send to him pourers who will pour him,
 and empty his vessels and break his jars in pieces.
 
 [13] Then Moab shall be ashamed of Kemosh,
-as the house of Israel was ashamed of Beth-*Elohim*, their confidence.
+as the house of Israel was ashamed of Bethel, their confidence.
 
 [14] How do you say, 'We are heroes
 and mighty men of war'?
@@ -90,9 +90,9 @@ wail and cry!
 Tell it beside the Arnon,
 that Moab is laid waste.
 
-[21] "Judgment has come upon the tableland, upon Cholon, and Jahatz, and Mephaath,
+[21] Judgment has come upon the tableland, upon Cholon, and Jahaz, and Mephaath,
 
-[22] and Divon, and Nevo, and Beth-Diblathaim,
+[22] and Dibon, and Nebo, and Beth-Diblathaim,
 
 [23] and Kiriathaim, and Beth-Gamul, and Beth-Meon,
 
@@ -215,7 +215,7 @@ Thus far is the judgment on Moab.
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
 - **"LORD of hosts" → "Yahweh of Hosts"** (v15) — Hebrew יְהוָה צְבָאוֹת preserved.
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"Madmen" / "Nebo" / "Cholon" / "Jahaz" / "Mephaath" / "Dibon" / "Beth-Diblathaim" → italicized** (vv2, 12, 21-24) — Moabite city names preserved with italics throughout.
+- **"Holon" → "Cholon"** (v21) — Hebrew חֹלוֹן; the other Moabite city names (Nebo, Madmen, Dibon, Jahaz, Mephaath, Beth-Diblathaim) kept as in KJV.
 - **Poetic structure** — entire chapter formatted as verse oracle against Moab; prose city list vv21-24 preserved within verse context.
 
 ### Notes

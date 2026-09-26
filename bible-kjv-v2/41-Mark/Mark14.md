@@ -64,7 +64,7 @@
 
 [32] And they went to a place called Gethsemane. And he said to his disciples, "Sit here while I pray."
 
-[33] And he took with him *Kefa* and James and John, and began to be greatly distressed and troubled.
+[33] And he took with him *Kefa* and Jacob and John, and began to be greatly distressed and troubled.
 
 [34] And he said to them, "My soul is very sorrowful, even to death. Remain here and watch."
 
@@ -146,6 +146,7 @@
 
 ## Changes
 
+- **"James" → "Jacob"** (v33) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"Jesus" → "*Yeshua*"** (throughout) — Hebrew name preserved.
 - **"God" → "*Elohim*"** (v25) — divine name retained.
 - **"Christ" → "*Mashiach*"** (v61) — Hebrew Anointed.

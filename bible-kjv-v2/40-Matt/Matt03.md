@@ -16,7 +16,7 @@ make his paths straight.'"
 
 [6] and they were immersed by him in the Jordan river, confessing their sins.
 
-[7] But when he saw many of the Pharisees — and Sadducees — coming to his immersion, he said to them, "You brood of vipers! Who warned you to flee from the wrath to come?
+[7] But when he saw many of the Pharisees and Sadducees coming to his immersion, he said to them, "You brood of vipers! Who warned you to flee from the wrath to come?
 
 [8] Bear fruit in keeping with repentance.
 

@@ -42,7 +42,7 @@ and the things they delight in do not profit.
 Their witnesses neither see nor know,
 that they may be put to shame.
 
-[10] Who fashions an god or casts an idol
+[10] Who fashions a god or casts an idol
 that is profitable for nothing?
 
 [11] Behold, all his companions shall be put to shame,
@@ -60,7 +60,7 @@ They shall be terrified; they shall be put to shame together.
 
 [16] Half of it he burns in the fire. Over the half he eats meat; he roasts it and is satisfied. Also he warms himself and says, "Aha, I am warm, I have seen the fire!"
 
-[17] And the rest of it he makes into an god, his idol, and falls down to it and worships it. He prays to it and says, "Deliver me, for you are my god!"
+[17] And the rest of it he makes into a god, his idol, and falls down to it and worships it. He prays to it and says, "Deliver me, for you are my god!"
 
 [18] They know not, nor do they discern, for he has shut their eyes, so that they cannot see, and their hearts, so that they cannot understand.
 

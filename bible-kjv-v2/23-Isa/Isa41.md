@@ -141,7 +141,7 @@ their metal images are empty wind.
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"God" → "*Elohim*"** (vv10, 13, 17, 84) — Hebrew *Elohim* preserved.
+- **"God" → "*Elohim*"** (vv10, 13, 17) — Hebrew *Elohim* preserved.
 - **Poetic structure** — entire chapter formatted as verse; divine courtroom/polemic poetry.
 
 ### Notes

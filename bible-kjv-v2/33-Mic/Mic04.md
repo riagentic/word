@@ -74,7 +74,7 @@ that he has gathered them as sheaves to the threshing floor.
 for I will make your horn iron,
 and I will make your hoofs bronze;
 you shall beat in pieces many peoples;
-and shall devote their gain to Yahweh,
+and I will devote their gain to Yahweh,
 their wealth to the Lord of the whole earth.
 
 ## Changes
@@ -105,7 +105,7 @@ their wealth to the Lord of the whole earth.
 - **"thou shalt dwell in the field" → "dwell in the open country"** (v10) — Hebrew בַּשָּׂדֶה *bassadeh* = in the field/open country; "open country" more natural.
 - **"Let her be defiled, and let our eye look upon Zion" → "'Let her be defiled, and let our eyes gaze upon Zion'"** (v11) — Hebrew וְתַחֵז בְּצִיּוֹן עֵינֵינוּ; "eyes" plural; "gaze" more vivid.
 - **"for he shall gather them as the sheaves into the floor" → "that he has gathered them as sheaves to the threshing floor"** (v12) — Hebrew כְּעָמִיר גֹּרֶן *ke'amir goren*; "threshing floor" more explicit.
-- **"and I will consecrate their gain unto the LORD, and their substance unto the Lord of the whole earth" → "and shall devote their gain to Yahweh, their wealth to the Lord of the whole earth"** (v13) — Hebrew וְהַחֲרַמְתִּי לַיהוָה בִּצְעָם *vehacharamti laYahweh bitza'am* = consecrate/devote as *cherem* (sacred ban); "devote" preserves the *cherem* concept; *Adon* retained.
+- **"and I will consecrate their gain unto the LORD, and their substance unto the Lord of the whole earth" → "and I will devote their gain to Yahweh, their wealth to the Lord of the whole earth"** (v13) — Hebrew וְהַחֲרַמְתִּי לַיהוָה בִּצְעָם *vehacharamti laYahweh bitza'am* = consecrate/devote as *cherem* (sacred ban); "devote" preserves the *cherem* concept; MT vocalizes 1st person "I will devote"; LXX, Syriac and Targum read the consonants as an archaic 2nd fem. sg. ("you shall devote", continuing the address to the daughter of Zion); *Adon* retained.
 
 ### Notes
 - **vv1-3** — parallel to Isa 2:2-4 (swords into plowshares).

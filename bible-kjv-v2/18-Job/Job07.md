@@ -74,8 +74,8 @@ you shall seek me, but I shall not be."
 
 - **"appointed time" → "hard service"** (v1) — *tzava*; military-service term.
 - **"grave" → "Sheol"** (v9).
-- **"whale" → "Tannin — the dragon"** (v12) — *tannin*; sea-monster, not whale.
-- **"sea" → "Yam"** (v12) — *Yam*; the cosmic sea, often personified.
+- **"whale" → "the dragon"** (v12) — *tannin*; sea-monster, not whale.
+- **"sea" → "the Sea"** (v12) — *Yam*; the cosmic sea, often personified.
 - **"mark against thee" → "target"** (v20) — *miphga*.
 - **"preserver of men" → "watcher of men"** (v20) — *notzer ha-adam*; observer, not preserver.
 - **"my life" → "my bones"** (v15) — *atzmotai*.

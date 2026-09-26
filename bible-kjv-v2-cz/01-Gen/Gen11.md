@@ -1,0 +1,90 @@
+# Genesis 11
+
+[1] Celá země měla jeden jazyk a stejná slova.
+
+[2] Když lidé táhli od východu, nalezli pláň v zemi Shinar a usadili se tam.
+
+[3] I řekli jeden druhému: „Nuže, nadělejme cihel a důkladně je vypalme.“ Cihla jim sloužila místo kamene a asfalt místo malty.
+
+[4] Potom řekli: „Nuže, vystavme si město a věž s vrcholem v nebesích; udělejme si jméno, abychom se nerozptýlili po tváři celé země.“
+
+[5] Ale Yahweh sestoupil, aby viděl město a věž, které stavěli synové lidstva.
+
+[6] I řekl Yahweh: „Hle, jsou jeden lid a všichni mají jeden jazyk; a to je teprve začátek toho, co budou dělat. Teď pro ně nebude nic nemožné, co si umíní udělat.
+
+[7] Nuže, sestupme a zmaťme tam jejich jazyk, aby jeden nerozuměl řeči druhého.“
+
+[8] Tak je Yahweh odtud rozptýlil po tváři celé země a přestali stavět město.
+
+[9] Proto bylo nazváno jeho jméno Babel, neboť tam Yahweh zmátl jazyk celé země; a odtud je Yahweh rozptýlil po tváři celé země.
+
+[10] Toto jsou rody Shemovy. Shemovi bylo 100 let, když zplodil Arpachshada, dva roky po potopě.
+
+[11] Shem žil poté, co zplodil Arpachshada, 500 let a zplodil syny a dcery.
+
+[12] Arpachshad žil 35 let a zplodil Shelaha.
+
+[13] Arpachshad žil poté, co zplodil Shelaha, 403 let a zplodil syny a dcery.
+
+[14] Shelah žil 30 let a zplodil Ebera.
+
+[15] Shelah žil poté, co zplodil Ebera, 403 let a zplodil syny a dcery.
+
+[16] Eber žil 34 let a zplodil Pelega.
+
+[17] Eber žil poté, co zplodil Pelega, 430 let a zplodil syny a dcery.
+
+[18] Peleg žil 30 let a zplodil Reua.
+
+[19] Peleg žil poté, co zplodil Reua, 209 let a zplodil syny a dcery.
+
+[20] Reu žil 32 let a zplodil Seruga.
+
+[21] Reu žil poté, co zplodil Seruga, 207 let a zplodil syny a dcery.
+
+[22] Serug žil 30 let a zplodil Nahora.
+
+[23] Serug žil poté, co zplodil Nahora, 200 let a zplodil syny a dcery.
+
+[24] Nahor žil 29 let a zplodil Teraha.
+
+[25] Nahor žil poté, co zplodil Teraha, 119 let a zplodil syny a dcery.
+
+[26] Terah žil 70 let a zplodil Abrama, Nahora a Harana.
+
+[27] Toto jsou rody Terahovy. Terah zplodil Abrama, Nahora a Harana; a Haran zplodil Lota.
+
+[28] Haran zemřel za života svého otce Teraha v zemi svého narození, v Ur Chaldeanů.
+
+[29] Abram a Nahor si vzali ženy. Abramova žena se jmenovala Sarai a Nahorova žena se jmenovala Milcah; byla to dcera Harana, otce Milcah a Iscah.
+
+[30] Ale Sarai byla neplodná; neměla dítě.
+
+[31] Terah vzal svého syna Abrama a Lota, syna Haranova, svého vnuka, a Sarai, svou snachu, ženu svého syna Abrama; a společně vyšli z Ur Chaldeanů, aby šli do země Canaan. Ale když přišli do Haranu, usadili se tam.
+
+[32] Terahových dnů bylo 205 let; a Terah zemřel v Haranu.
+
+## Změny
+
+- **"LORD" → „Yahweh“** (v celé kapitole) – tetragram zachován.
+- **"one language, and of one speech" → „jeden jazyk a stejná slova“** (v1) – hebrejsky שָׂפָה אֶחָת וּדְבָרִים אֲחָדִים *sapha echat u-devarim achadim*. *Sapha* = ret / jazyk; *devarim achadim* = „stejná slova / jednotná slovní zásoba“. Hendiadys pro „jednu společnou řeč“. KJV „speech“ pro *devarim* je slabé; „stejná slova“ vystihuje hebrejštinu přesně.
+- **"Go to" → „Nuže“** (v3, 4, 7) – hebrejsky הָבָה *havah* = „dej / nuže!“ – pobídková částice. „Go to“ bylo v angličtině roku 1611 běžnou pobídkou; dnes je nesrozumitelné.
+- **"burn them throughly" → „důkladně je vypalme“** (v3) – pravopis modernizován.
+- **"slime… morter" → „asfalt… malta“** (v3) – hebrejsky חֵמָר *chemar* = asfalt / živice (v Mezopotámii se vyskytuje přirozeně, užíván k izolaci a spojování). „Slime“ (sliz) zavádí; hebrejština je konkrétní.
+- **"whose top may reach unto heaven" → „s vrcholem v nebesích“** (v4) – hebrejsky וְרֹאשׁוֹ בַשָּׁמַיִם *we-rosho va-shamayim*. Nejde o ctižádost doslova se dotknout oblohy, ale o architektonickou skutečnost zikkuratu, jehož horní stupeň sahá do nebes (mezopotámské zikkuraty byly chápány jako spojnice země a nebe). Zachováno.
+- **"make us a name" → „udělejme si jméno“** (v4) – hebrejsky וְנַעֲשֶׂה־לָּנוּ שֵׁם. Modernizováno. (Ironický kontrast později: Abraham, který se nijak nesnaží o sebepropagaci, je ten, jemuž Yahweh slibuje udělat veliké jméno – 12:2.)
+- **"children of men" → „synové lidstva“** (v5) – hebrejsky בְּנֵי הָאָדָם *bene ha-adam*. Lidstvo obecně.
+- **"this they begin to do" → „to je teprve začátek toho, co budou dělat“** (v6) – hebrejsky וְזֶה הַחִלָּם לַעֲשׂוֹת *we-zeh hachillam la'asot*. „Toto je jejich začátek konání“ – víc než plochý překlad KJV.
+- **"nothing will be restrained" → „nebude nic nemožné“** (v6) – hebrejsky לֹא־יִבָּצֵר מֵהֶם *lo-yibbatser mehem*. Nifal od *batsar* = odříznout / nedosažitelné / nemožné. „Nic, co si umíní, pro ně nebude mimo dosah.“
+- **"imagined" → „umíní si“** (v6) – hebrejsky זָמָם *zamam* = vymyslet / osnovat / plánovat. *Nikoli* *yetser* z 6:5 / 8:21. „Imagined“ v moderní angličtině naznačuje fantazii; *zamam* je záměrné plánování.
+- **"confound" → „zmást“** (v7, 9) – hebrejsky בָּלַל *balal* = smísit / zmást. KJV „confound“ je přesné, ale archaické; slovní hříčka s *Bavel* (v9) výslovně zachována.
+- **„Babel“ – hebrejská etymologie zachována** (v9) – hebrejsky בָּבֶל *Bavel*. Slovní hříčka: *Bavel* ← *balal* („zmást“). Akkadské jméno města je *Babili* = „brána boha“ (*bab-ili*); hebrejský text tuto prestižní etymologii podvrací posměšnou hříčkou. Původní babylonská teologie: nebeská brána. Izraelská protiteologie: zmatení. Uvedeno zde.
+- **Tvary jmen modernizovány**: „Arphaxad“ → „Arpachshad“, „Salah“ → „Shelah“. Viz poznámky ke Gen 10.
+
+### Poznámky
+
+- **Stavba příběhu o Babelu** – sevřená chiastická kompozice (A. jeden jazyk / A'. rozptýleni / B. postavme město / B'. přestali stavět / C. Yahweh sestupuje / C'. Yahweh mate). Architektura zrcadlí to, co vypráví: vybudovaný monument, zásah Yahweh, rozptýlení.
+- **„Sestupme“ (v7)** – plurál, obdoba „učiňme lidstvo“ (1:26) a „jako jeden z nás“ (3:22). Platí tytéž překladové možnosti.
+- **Délka života dál klesá** – od kap. 5 (900 a více) ke kap. 11 (200 / 400) – vyprávěcí vzorec zkracování lidského života až k Abrahamovi (175) a dále k Mosesovi (120). Text snad naznačuje popotopní mravní / tělesné slábnutí.
+- **„Ur Chaldeanů“ (v28, 31)** – „Chaldeané“ (*Kasdim*) jako národ jsou v Mezopotámii doloženi teprve od 9. stol. př. n. l., staletí poté, kdy by žil Abraham. Často se chápe jako anachronická aktualizace pro pozdější publikum (Chaldeané byli v Mezopotámii rozhodující mocí v době, kdy text dostal svou konečnou podobu za novobabylonské říše). Poloha Uru je sporná: tradiční ztotožnění se sumerským Urem v jižní Mezopotámii; alternativa (Gordon, Cyrus) s Urem v oblasti Urfy / Haranu v severní Mezopotámii, blíže Haranu.
+- **Abram / Sarai / Haran** – tvary ponechány podle MT; změna jmen na Abraham / Sarah přichází v kap. 17.

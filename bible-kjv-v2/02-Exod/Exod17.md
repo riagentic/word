@@ -12,7 +12,7 @@
 
 [6] Behold, I will stand before you there on the rock at Horeb; and you shall strike the rock, and water will come out of it, and the people will drink." Moses did so, in the sight of the elders of Israel.
 
-[7] He called the name of the place Massah and Meribah, because of the quarrel of the children of Israel, and because they tested Yahweh, saying, "Is Yahweh in our midst or not?"
+[7] He called the name of the place Massah (testing) and Meribah (quarreling), because of the quarrel of the children of Israel, and because they tested Yahweh, saying, "Is Yahweh in our midst or not?"
 
 [8] Then came Amalek and fought with Israel at Rephidim.
 
@@ -28,7 +28,7 @@
 
 [14] Yahweh said to Moses, "Write this for a memorial in a scroll, and recite it in the ears of Joshua: I will utterly blot out the remembrance of Amalek from under the heavens."
 
-[15] And Moses built an altar and called its name Yahweh-nissi;
+[15] And Moses built an altar and called its name Yahweh-Nissi (Yahweh is my banner);
 
 [16] for he said, "Because a hand has been raised against the throne of Yah, Yahweh will have war with Amalek from generation to generation."
 

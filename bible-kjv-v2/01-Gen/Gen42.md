@@ -93,5 +93,5 @@
 ### Notes
 
 - **Joseph's dreams fulfilled (v6, 9)** — his boyhood dreams of sheaves and stars bowing (37:7, 9) come true, though his brothers do not know it. Joseph alone perceives the fulfillment; he "remembered" the dreams.
-- **The brothers' admission (v21)** — more than two decades later, they finally acknowledge guilt, and specifically the agony of Joseph's pleading as they sold him. This first honest confession (unheard by him, via an interpreter's silence) is the turning point of Joseph's approach to them.
+- **The brothers' admission (v21)** — more than two decades later, they finally acknowledge guilt, and specifically the agony of Joseph's pleading as they sold him. This first honest confession (overheard by Joseph, though they thought the interpreter kept him from understanding, v23) is the turning point of Joseph's approach to them.
 - **Joseph weeps** (v24) — the first of several tears from Joseph during the brothers' visits (42:24; 43:30; 45:2, 14–15; 46:29; 50:17). Joseph's emotion is not concealed, even as he plays the role of stern Egyptian lord.

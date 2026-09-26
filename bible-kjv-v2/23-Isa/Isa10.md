@@ -91,7 +91,7 @@ but will lean on Yahweh,
 the Holy One of Israel, in truth.
 
 [21] A remnant will return,
-the remnant of Jacob, to the Mighty *Elohim*.
+the remnant of Jacob, to the Mighty El.
 
 [22] For though your people Israel be as the sand of the sea,
 only a remnant of them will return.
@@ -131,7 +131,7 @@ and Lebanon will fall by a mighty one.
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"LORD of hosts" → "Yahweh of Hosts"** (vv16, 23, 24, 26, 33) — divine title preserved.
-- **Horizontal dash added** (before v5) — marks transition from judgment oracle on Judah (vv1-4) to oracle on Assyria (vv5ff); formatting clarifies two-part structure.
+- **"the mighty God" → "the Mighty El"** (v21) — Hebrew אֵל גִּבּוֹר *El Gibbor*, the throne-name of 9:6; *El*, not *Elohim*.
 - **Poetic structure** — vv1-4, 5-7, 15, 20-23, 33-34 set as verse; prose narrative sections preserved.
 
 ### Notes

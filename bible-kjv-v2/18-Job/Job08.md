@@ -71,7 +71,7 @@ the tent of the wicked shall be no more."
 - **"hypocrite" → "godless"** (v13) — *chanef*; profane, not a hypocrite per se.
 - **"spider's web" — retained** (v14) — *bet-akavish*.
 - **"rush... flag" → "papyrus... reed"** (v11) — *gome... achu*.
-- **"confidence is gossamer" → "whose trust is cut off"** (v14) — Hebrew *asher yaqot kislo*; his confidence = a thread easily broken; gossamer conveys fragility.
+- **"whose hope shall be cut off" → "His confidence is gossamer"** (v14) — Hebrew *asher yaqot kislo*; his confidence = a thread easily broken; gossamer conveys fragility.
 
 ### Notes
 - **Bildad's first speech** — appeals to tradition and ancestral wisdom. Straightforward retribution theology.

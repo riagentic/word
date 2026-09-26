@@ -42,7 +42,7 @@
 
 [21] "You have heard that it was said to those of old, 'You shall not murder; and whoever murders will be liable to judgment.'
 
-[22] But I say to you that everyone who is angry with his brother will be liable to judgment; whoever insults his brother will be liable to the Sanhedrin; and whoever says, 'You fool!' will be liable to the Gehenna of fire.
+[22] But I say to you that everyone who is angry with his brother will be liable to judgment; whoever says to his brother, '*Raqa*!' will be liable to the Sanhedrin; and whoever says, 'You fool!' will be liable to the Gehenna of fire.
 
 [23] "So if you are offering your gift at the altar and there remember that your brother has something against you,
 
@@ -100,11 +100,11 @@
 
 - **"God" → "*Elohim*"** (vv8–9, 34) — Greek θεός *theos*; underlying Hebrew divine name preserved.
 - **"kill" → "murder"** (v21) — Greek φονεύσεις *phoneuseis* = commit murder (not kill generally). The sixth commandment (Exod 20:13) prohibits unlawful killing; "murder" is the accurate translation.
-- **"publican" → "tax collector"** (v46–47, implied by "sinners") — Greek τελῶναι *telōnai* = tax collectors (working for Rome). KJV "publican" is an archaic English rendering; "tax collector" is clear and accurate.
+- **"publican" → "tax collector"** (v46) — Greek τελῶναι *telōnai* = tax collectors (working for Rome); in v47 KJV repeats "publicans", but the critical text reads ἐθνικοί "Gentiles". KJV "publican" is an archaic English rendering; "tax collector" is clear and accurate.
 - **"communicate" → "say"** (v37) — KJV "let your communication be, Yea, yea…" — archaic English for "let your word be Yes, yes; No, no." Modernized throughout.
 - **"coat" and "cloke" → "tunic" and "cloak"** (v40) — Greek χιτών *chiton* (inner garment, tunic) and ἱμάτιον *himation* (outer cloak). KJV "coat/cloke" is not wrong but less precise.
-- **"condemn/condemneth" → modern forms** — KJV uses archaic second-person singular throughout; rendered in modern English.
+- **"thou/thee/thy" → "you/your"** (throughout) — KJV uses archaic second-person singular forms; rendered in modern English.
 
 ### Notes
 - **v22 Gehenna** — the burning Valley of Hinnom outside Jerusalem; image of final judgment (not "hell" as cosmological place).
-- **v22 *Raqa*** (retained as "fool"): Aramaic insult "empty-head."
+- **v22 *Raqa*** (Greek ῥακά, retained untranslated): Aramaic insult "empty-head" (→ Sanhedrin); distinct from μωρέ "You fool!" (→ Gehenna).

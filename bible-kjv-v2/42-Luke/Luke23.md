@@ -96,7 +96,7 @@
 
 [49] And all his acquaintances and the women who had followed him from Galilee stood at a distance watching these things.
 
-[50] Now there was a man named Joseph, from the Jewish town of Ramathaim. He was a member of the council, a good and righteous man,
+[50] Now there was a man named Joseph, from Arimathea, a town of the Jews. He was a member of the council, a good and righteous man,
 
 [51] who had not consented to their decision and action; and he was looking for the kingdom of *Elohim*.
 
@@ -118,8 +118,10 @@ On the Sabbath they rested according to the commandment.
 - **"God" → "*Elohim*"** (vv35, 40, 47) — divine name retained.
 - **"Christ" → "*Mashiach*"** (vv2, 35, 39) — Hebrew Anointed.
 - **"v17 absent"** — Luke 23:17 ("For of necessity he must release one unto them at the feast") is absent from earliest MSS; noted in ### Notes.
+- **"Arimathaea" → "Arimathea, a town of the Jews"** (v50) — Greek ἀπὸ Ἁριμαθαίας πόλεως τῶν Ἰουδαίων; often identified with Ramathaim(-zophim), Samuel's town (1 Sam 1:1; LXX Αρμαθαιμ), but the identification is not certain.
 
 ### Notes
+- **v17** absent from earliest MSS ("For of necessity he must release one unto them at the feast").
 - **v30** quotes Hos 10:8.
 - **v34a** absent from some early MSS.
 - **v46** echoes Ps 31:5.

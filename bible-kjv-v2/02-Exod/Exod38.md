@@ -46,7 +46,7 @@
 
 [23] and with him was Oholiab son of Ahisamach, of the tribe of Dan, a craftsman and designer, and an embroiderer in blue, purple, and scarlet yarns and fine linen.
 
-[24] All the gold that was used for the work, in all the work of the Holy Place — the gold of the wave offering — was 29 talents and 730 shekels, according to the shekel of the sanctuary.
+[24] All the gold that was used for the work, in all the work of the Holy Place — the gold of the elevation offering — was 29 talents and 730 shekels, according to the shekel of the sanctuary.
 
 [25] The silver from those of the congregation who were numbered was 100 talents and 1,775 shekels, according to the shekel of the sanctuary:
 
@@ -56,7 +56,7 @@
 
 [28] Of the 1,775 shekels he made hooks for the pillars, overlaid their tops, and banded them.
 
-[29] The bronze of the wave offering was 70 talents and 2,400 shekels.
+[29] The bronze of the elevation offering was 70 talents and 2,400 shekels.
 
 [30] With it he made the sockets for the entrance of the Tent of Meeting, the bronze altar, the bronze grating for it, and all the utensils of the altar;
 

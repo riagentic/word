@@ -34,13 +34,13 @@ Then he led me back to the bank of the river.
 
 [16] Berothah, Sibraim (which lies on the border between Damascus and Hamath), as far as Hatzar-Hatticon, which is on the border of Hauran.
 
-[17] So the boundary shall run from the sea to Hazar-Enan, which is on the northern border of Damascus, with the border of Hamath to the north. This shall be the north side.
+[17] So the boundary shall run from the sea to Hatzar-Enan, which is on the northern border of Damascus, with the border of Hamath to the north. This shall be the north side.
 
 [18] "On the east side, the boundary shall run between Hauran and Damascus; along the Jordan between Gilead and the land of Israel; to the eastern sea and as far as Tamar. This shall be the east side.
 
 [19] "On the south side, it shall run from Tamar as far as the waters of Meribat-Qadesh, from there along the Brook of Egypt to the Great Sea. This shall be the south side.
 
-[20] "On the west side, the Great Sea shall be the boundary to a point opposite Lebo-hamath. This shall be the west side.
+[20] "On the west side, the Great Sea shall be the boundary to a point opposite Lebo-Hamath. This shall be the west side.
 
 [21] "So you shall divide this land among you according to the tribes of Israel.
 

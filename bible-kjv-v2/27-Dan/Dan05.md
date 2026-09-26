@@ -20,9 +20,9 @@
 
 [10] The queen, because of the words of the king and his lords, came into the banqueting hall, and the queen declared, "O king, live forever! Let not your thoughts alarm you or your color change.
 
-[11] There is a man in your kingdom in whom is the spirit of the holy gods. In the days of your father, light and understanding and wisdom like the wisdom of the gods were found in him, and King Nebuchadnezzar, your father the king — made him chief of the magicians, enchanters, Chaldeans, and astrologers,
+[11] There is a man in your kingdom in whom is the spirit of the holy gods. In the days of your father, light and understanding and wisdom like the wisdom of the gods were found in him, and King Nebuchadnezzar, your father, made him chief of the magicians, enchanters, Chaldeans, and astrologers — your father the king —
 
-[12] because an excellent spirit, knowledge, and understanding to interpret dreams, explain riddles, and solve problems were found in this Daniel, whom the king named Belteshazzar. Now let Daniel be called, and he will show the interpretation."
+[12] because an excellent spirit, knowledge, and understanding to interpret dreams, explain riddles, and solve problems were found in this Daniel, whom the king named Belteshatzar. Now let Daniel be called, and he will show the interpretation."
 
 [13] Then Daniel was brought in before the king. The king answered and said to Daniel, "You are that Daniel, one of the exiles of Judah, whom the king my father brought from Judah.
 
@@ -66,7 +66,7 @@
 ## Changes
 
 - **"God" → "*Elohim*"** (vv3, 23, 26) — Hebrew/Aramaic אלהא *Elaha* preserved as *Elohim*.
-- **"Belshazzar" / "Belteshazzar"** — standard KJV English transliteration used throughout (original draft had *Belshatzar / Belteshatzar*).
+- **"Belshazzar" retained / "Belteshazzar" → "Belteshatzar"** (v12) — "Belshazzar" keeps the standard KJV spelling; Daniel's Babylonian name בֵּלְטְשַׁאצַּר keeps *Belteshatzar*, as in chs 1, 2, 4, 10.
 - **"Darius the Mede" (v31)** — KJV English form retained (Hebrew *Daryavesh*).
 - **MENE, TEKEL, PERES/PARSIN** (vv25-28) — Aramaic weight-words retained in capitals; *MENE* (מְנֵא) = numbered; *TEKEL* (תְּקֵל) = weighed; *PERES/PARSIN* (פְּרֵס/פַּרְסִין) = divided/Persia — the wordplay requires the original terms.
 

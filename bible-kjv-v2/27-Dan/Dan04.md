@@ -27,13 +27,13 @@ and his dominion endures from generation to generation.
 
 [12] Its leaves were beautiful and its fruit abundant, and in it was food for all. The beasts of the field found shade under it, and the birds of the heavens lived in its branches, and all flesh was fed from it.
 
-[13] "I saw in the visions of my head as I lay in bed, and behold, a ir ve-qadish — watcher, a holy one — came down from heaven.
+[13] "I saw in the visions of my head as I lay in bed, and behold, a watcher, a holy one, came down from heaven.
 
 [14] He proclaimed aloud and said thus: 'Chop down the tree and lop off its branches, strip off its leaves and scatter its fruit. Let the beasts flee from under it and the birds from its branches.
 
 [15] But leave the stump of its roots in the earth, bound with a band of iron and bronze, amid the tender grass of the field. Let him be wet with the dew of heaven. Let his portion be with the beasts in the grass of the earth.
 
-[16] Let his mind be changed from a man's, and let a beast's mind be given to him; and let shiv'ah iddanin — seven periods of time — pass over him.
+[16] Let his mind be changed from a man's, and let a beast's mind be given to him; and let seven periods of time pass over him.
 
 [17] The sentence is by the decree of the watchers, the decision by the word of the holy ones, to the end that the living may know that the Most High rules the kingdom of men and gives it to whom he will and sets over it the lowliest of men.'
 

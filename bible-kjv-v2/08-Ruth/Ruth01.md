@@ -53,7 +53,7 @@
 - **"intreat me not" → "do not urge me"** (v16).
 - **"stedfastly minded" → "determined"** (v18).
 - **"steadfast love" Hebrew chesed** (v8) — translated as "deal kindly."
-- **"hap" (KJV archaism — no longer used; elsewhere).
+- **"hap"** (KJV archaism — no longer used; elsewhere).
 
 ### Notes
 - **Setting in Judges era** — Ruth takes place "when the judges ruled," providing bright contrast to the moral chaos of the Judges-appendix. A story of chesed (covenant faithfulness) amid faithlessness.

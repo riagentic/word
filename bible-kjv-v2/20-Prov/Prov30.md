@@ -1,6 +1,6 @@
 # Proverbs 30
 
-[1] The words of Agur son of Jakeh. The oracle. The man declares, I am weary, O *Elohim*; I am weary, O *Elohim*, and worn out.
+[1] The words of Agur son of Jakeh. The oracle. The man declares to Ithiel, to Ithiel and Ucal:
 
 [2] Surely I am too stupid to be a man,
 and I do not have the understanding of a man.
@@ -120,7 +120,7 @@ and pressing anger produces strife.
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
-- **v1** — "The man spake unto Ithiel" → "I am weary, O El" — Hebrew *le-iti'el* repointed as *la'iti el* (common scholarly emendation; Agur confesses his limits).
+- **v1** — "The man spake unto Ithiel, even unto Ithiel and Ucal" → "The man declares to Ithiel, to Ithiel and Ucal" — MT לְאִיתִיאֵל לְאִיתִיאֵל וְאֻכָל (two personal names) retained. The repointing *la'iti el, la'iti el wa'ekel* ("I am weary, O El, I am weary, O El, and worn out") is a modern conjecture with no Hebrew manuscript support (LXX and Vulgate paraphrase differently), so it is not adopted in the text.
 
 ### Notes
 - **Agur** — unknown non-Israelite sage; confession of human limits.

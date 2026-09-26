@@ -98,5 +98,5 @@ Go down and be laid with the uncircumcised.'
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton יְהוָה rendered directly.
 - **"Lord GOD" → "Lord Yahweh"** (throughout) — Hebrew אֲדֹנָי יְהוִה *Adonai Yahweh*; Ezekiel's distinctive doubled divine title.
-- **"the pit" → "Sheol"** (vv21, 27) — Hebrew שְׁאוֹל *Sheol* = realm of the dead; "the mighty chiefs shall speak out of the midst of *Sheol*"; "they do not lie with the mighty … who went down to *Sheol*"; *Sheol* preserved.
+- **"hell" → "Sheol"** (vv21, 27) — Hebrew שְׁאוֹל *Sheol* = realm of the dead; "the mighty chiefs shall speak out of the midst of *Sheol*"; "they do not lie with the mighty … who went down to *Sheol*"; *Sheol* preserved.
 - **"Meshech-Tubal" retained** (v26) — Hebrew מֶשֶׁךְ תֻּבַל *Meshech-Tubal*; peoples from Asia Minor/Caucasus region; proper names retained.

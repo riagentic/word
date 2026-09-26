@@ -22,7 +22,7 @@
 
 [11] "**For from the rising of the sun to its setting my name will be great among the nations, and in every place incense will be offered to my name, and a pure offering. For my name will be great among the nations**, says Yahweh of Hosts.
 
-[12] But you profane it when you say that Lord's table is polluted, and its fruit, that is, its food, may be despised.
+[12] But you profane it when you say that the Lord's table is polluted, and its fruit, that is, its food, may be despised.
 
 [13] But you say, 'What a weariness this is,' and you snort at it, says Yahweh of Hosts. You bring what has been taken by violence or is lame or sick, and this you bring as your offering! Shall I accept that from your hand? says Yahweh.
 

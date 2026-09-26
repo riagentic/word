@@ -1,6 +1,6 @@
 # Amos 9
 
-[1] I saw Lord standing beside the altar, and he said:
+[1] I saw the Lord standing beside the altar, and he said:
 
 "Strike the capitals until the thresholds shake,
 and shatter them on the heads of all the people;
@@ -23,7 +23,7 @@ there I will command the sword, and it shall kill them;
 and I will fix my eyes upon them
 for evil and not for good."
 
-[5] Lord Yahweh, the *Elohim* of Hosts,
+[5] Lord Yahweh of Hosts,
 he who touches the earth and it melts,
 and all who dwell in it mourn,
 and all of it rises like the Nile,
@@ -81,9 +81,9 @@ says Yahweh your *Elohim*.
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"Lord GOD" / "Lord God of hosts" → "Lord Yahweh" / "*Adonai* Yahweh, the *Elohei Tzeva'ot*"** (vv5, 8) — Hebrew אֲדֹנָי יְהוָה; with *Tzeva'ot* in v5.
-- **"God" → "*Elohim*"** (v15) — Hebrew אֱלֹהֵיכֶם.
-- **Poetry formatted with blockquote indentation** (throughout) — KJV prose; the vision and oracles are poetry.
+- **"Lord GOD" / "Lord God of hosts" → "Lord Yahweh" / "Lord Yahweh of Hosts"** (vv5, 8) — Hebrew אֲדֹנָי יְהוִה; in v5 אֲדֹנָי יְהוִה הַצְּבָאוֹת *Adonai Yahweh hatztseva'ot*, with no אֱלֹהֵי.
+- **"God" → "*Elohim*"** (v15) — Hebrew אֱלֹהֶיךָ (singular "your", addressed to Israel).
+- **Poetry formatted as verse lines** (throughout) — KJV prose; the vision and oracles are poetry.
 - **"Smite the lintel of the door, that the posts may shake" → "Strike the capitals until the thresholds shake"** (v1) — Hebrew הַךְ הַכַּפְתּוֹר וְיִרְעֲשׁוּ הַסִּפִּים *hakh hakkaftor veyira'ashu hassippim*; *kaftor* = capital/knob of a pillar (not "lintel"); *sippim* = thresholds; "capitals … thresholds" more architecturally precise.
 - **"and cut them in the head, all of them" → "and shatter them on the heads of all the people"** (v1) — Hebrew וּבְצַּע בָּרֹאשׁ כֻּלָּם; shatter the capitals so they fall on the people's heads.
 - **"he that fleeth of them shall not flee away, and he that escapeth of them shall not be delivered" → "not one of them shall flee away; not one of them shall escape"** (v1) — modernized.

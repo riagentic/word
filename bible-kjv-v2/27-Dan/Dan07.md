@@ -80,7 +80,7 @@ that shall not be destroyed.
 
 ## Changes
 
-- **"Belshatzar" → "Belshazzar"** (v1) — standard KJV English transliteration.
+- **"Belshazzar" retained** (v1) — standard KJV English transliteration.
 - **"the Ancient of days" → "the Ancient of Days"** (v9, 13, 22) — Aramaic עַתִּיק יוֹמִין *Atiq Yomin*; capitalized as a divine title.
 - **"saints of the most High" → "holy ones of the Most High"** (v18, 22, 25, 27) — Aramaic קַדִּישֵׁי עֶלְיוֹנִין *qaddishei elyonin*; "holy ones" (traditional) rather than "saints" which in modern English implies Christian saints rather than consecrated ones generally.
 

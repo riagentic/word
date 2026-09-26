@@ -6,7 +6,7 @@
 
 [3] The king said, "What honor and distinction has been conferred on Mordecai for this?" The king's young men who attended him said, "Nothing has been done for him."
 
-[4] The king said, "Who is in the court?" Now Haman had just entered the outer court of the king's palace to speak to the king about having Mordecai hanged on the gallows that he had prepared for him.
+[4] The king said, "Who is in the court?" Now Haman had just entered the outer court of the king's palace to speak to the king about having Mordecai hanged on the pole that he had prepared for him.
 
 [5] The king's young men said to him, "Behold, Haman is standing in the court." The king said, "Let him come in."
 
@@ -32,6 +32,7 @@
 
 - **"chamberlains" → "eunuchs"** (v2, 14).
 - **"princes" → "officials"** (v9) — *sarim*.
+- **"gallows" → "pole"** (v4) — *etz*, wood/pole; see 2:23.
 
 ### Notes
 - **Royal insomnia** (v1) — narrative turning point. "That night" the providential tipping begins.

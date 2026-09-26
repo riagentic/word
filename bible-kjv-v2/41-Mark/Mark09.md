@@ -2,7 +2,7 @@
 
 [1] And he said to them, "Truly, I say to you, there are some standing here who will not taste death until they see the kingdom of *Elohim* after it has come with power."
 
-[2] And after six days *Yeshua* took with him *Kefa* and James and John, and led them up a high mountain by themselves. And he was transfigured before them,
+[2] And after six days *Yeshua* took with him *Kefa* and Jacob and John, and led them up a high mountain by themselves. And he was transfigured before them,
 
 [3] and his clothes became radiant, intensely white, as no one on earth could bleach them.
 
@@ -98,6 +98,7 @@
 
 ## Changes
 
+- **"James" → "Jacob"** (v2) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"Jesus" → "*Yeshua*"** (throughout) — Hebrew name preserved.
 - **"God" → "*Elohim*"** (vv1, 47) — divine name retained.
 - **"Christ" → "*Mashiach*"** (v41) — Hebrew Anointed.

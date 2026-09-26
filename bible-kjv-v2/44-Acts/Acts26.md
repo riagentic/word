@@ -70,7 +70,7 @@
 - **"Jesus" → "*Yeshua*"** (v9, 15) — systematic name transliteration.
 - **"Christ" → "*Mashiach*"** (v23) — Hebrew messianic title.
 - **"Holy Ghost" / Spirit** — no explicit *Ruach HaQodesh* occurrence in this chapter; the Spirit is implied in the Damascus Road experience.
-- **"the Hebrew tongue / language"** (v14) — Greek Ἑβραΐδι διαλέκτῳ; as in ch. 22:40, likely Aramaic rather than classical Hebrew.
+- **"the Hebrew tongue / language"** (v14) — Greek Ἑβραΐδι διαλέκτῳ; as in 21:40 and 22:2, likely Aramaic rather than classical Hebrew.
 - **"Saul, Saul, why persecutest thou me"** — Paul's third account of the Damascus Road event; archaic language modernized throughout.
 - **"it is hard for thee to kick against the pricks" → "It is hard for you to kick against the goads"** (v14) — Greek σκληρόν σοι πρὸς κέντρα λακτίζειν; "goads" is the correct term (pointed sticks to prod oxen); "pricks" is archaic.
 - **"Christian" → retained** (v28) — Agrippa's challenge "In a short time would you persuade me to be a Christian?" is kept; the Greek Χριστιανόν *Christianon* is the term Agrippa uses; by this point in narrative it is an established external label.

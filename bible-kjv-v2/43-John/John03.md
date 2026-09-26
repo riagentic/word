@@ -78,7 +78,7 @@
 - **"God" → "*Elohim*"** (throughout) — Hebrew divine name preserved.
 - **"John" → "John"** (v23–26) — Hebrew name; first occurrence noted in ch. 1.
 - **"baptizing" → "immersing"** (v22, 23, 26) — Greek *baptizo* = "to immerse."
-- **"born again / from above" — "*anothen*"** (v3, 7) — Greek ἄνωθεν *anothen* is ambiguous (both "again" and "from above"); both meanings preserved in the translation with the Greek in-text.
+- **"born again" → "born from above"** (v3, 7) — Greek ἄνωθεν *anothen* is ambiguous (both "again" and "from above"); the text renders Yeshua's sense "from above" (cf. v31, ἄνωθεν = "from above"), and the "again" sense Nicodemus hears (v4) is explained in Notes.
 - **"kingdom of God" → "kingdom of *Elohim*"** (v3, 5) — consistent *Elohim* substitution.
 - **"law" / implicitly "the law"** — no occurrence here, but v19's "judgment" and v25's "purification" reflect Jewish halakhic context.
 - **"he that believeth not is condemned already" → "whoever does not believe is condemned already"** (v18) — archaic phrasing modernized.

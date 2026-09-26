@@ -46,4 +46,4 @@
 - **"Another place"** (v14) — oblique reference to divine providence? Mordecai avoids naming *Elohim*; the theological reality is present sub-textually throughout Esther.
 - **"For such a time as this"** — signature verse; providence-and-agency tension. The narrator offers the suggestion without theological certainty.
 - **Three-day fast** — solidarity, resolve. Communal pre-action preparation.
-- **"If I perish, I perish"** — Esther's heroic pivot. Role-reversal from submissive niece to decisive queen.
+- **"If I perish, I perish"** — Esther's heroic pivot. Role-reversal from submissive cousin and ward (2:7) to decisive queen.

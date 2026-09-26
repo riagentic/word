@@ -28,7 +28,7 @@
 
 [14] They will set apart men to travel continually through the land, burying those travelers who remain on the face of the land, so as to cleanse it. At the end of seven months they will make their search.
 
-[15] And when these travelers pass through the land and anyone sees a human bone, then he shall set up a sign by it, till the buriers have buried it in the Valley of Hamon-gog.
+[15] And when these travelers pass through the land and anyone sees a human bone, then he shall set up a sign by it, till the buriers have buried it in the Valley of Hamon-Gog.
 
 [16] (A city, Hamonah, is there also.) Thus shall they cleanse the land.
 

@@ -34,7 +34,7 @@
 
 [17] Moses' father-in-law said to him, "What you are doing is not good.
 
-[18] You will surely wear yourself out, both you and this people with you; for the thing is too heavy for you are not able to do it by yourself.
+[18] You will surely wear yourself out, both you and this people with you; for the thing is too heavy for you; you are not able to do it by yourself.
 
 [19] Listen now to my voice; I will give you counsel, and *Elohim* be with you. You be for the people before *Elohim*, and bring the cases to *Elohim*.
 

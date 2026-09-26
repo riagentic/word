@@ -15,7 +15,7 @@ and delight yourselves in rich food.
 [3] Incline your ear, and come to me;
 hear, that your soul may live;
 and I will make with you an everlasting covenant,
-my chasdei David ne'emanim — the sure steadfast love pledged to David.
+the sure steadfast love of David.
 
 [4] Behold, I made him a witness to the peoples,
 a leader and commander for the peoples.
@@ -64,7 +64,7 @@ an everlasting sign that shall not be cut off."
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"Lord GOD" → "Lord Yahweh"** (v11 context) — preserved where present.
+- **"the sure mercies of David" → "the sure steadfast love of David"** (v3) — Hebrew חַסְדֵי דָוִד הַנֶּאֱמָנִים *chasdei David ha-ne'emanim*, plural of *chesed* ("acts of steadfast love") promised to David (2 Sam 7:15-16); no "my" in the Hebrew. LXX τὰ ὅσια Δαυιδ τὰ πιστά, quoted in Acts 13:34.
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim* preserved.
 - **Poetic structure** — entire chapter formatted as verse; final invitation poem closing Second Isaiah.
 

@@ -26,11 +26,11 @@
 
 [13] And when day came, he called his disciples and chose from them twelve, whom he named apostles:
 
-[14] Simon, whom he named *Kefa*, and Andrew his brother, and James and John, and Philip, and Bartholomew,
+[14] Simon, whom he named *Kefa*, and Andrew his brother, and Jacob and John, and Philip, and Bartholomew,
 
-[15] and Matthew, and Thomas, and James the son of Alphaeus, and Simon who was called the Zealot,
+[15] and Matthew, and Thomas, and Jacob the son of Alphaeus, and Simon who was called the Zealot,
 
-[16] and Judas the son of James, and Judas Iscariot, who became a traitor.
+[16] and Judas the son of Jacob, and Judas Iscariot, who became a traitor.
 
 [17] And he came down with them and stood on a level place, with a great crowd of his disciples and a great multitude of people from all Judea and Jerusalem and the seacoast of Tyre and Sidon, who came to hear him and to be healed of their diseases.
 
@@ -100,6 +100,7 @@ Woe to you who laugh now, for you shall mourn and weep.
 
 ## Changes
 
+- **"James" → "Jacob"** (v14, 15, 16) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"Jesus" → "*Yeshua*"** (throughout) — Hebrew name preserved.
 - **"God" → "*Elohim*"** (vv4, 12, 20) — divine name retained.
 - **"Simon, whom he also named Peter" → "Simon, whom he named *Kefa*"** (v14) — Aramaic name *Kefa* preserved.

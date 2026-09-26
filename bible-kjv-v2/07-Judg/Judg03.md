@@ -52,7 +52,7 @@
 
 [26] Ehud escaped while they delayed, passing beyond the sculptured stones, and escaped to Seirah.
 
-[27] When he arrived, he blew a trumpet in the hill country of Ephraim, and the children of Israel went down with him from the hills, he at their head.
+[27] When he arrived, he blew a horn in the hill country of Ephraim, and the children of Israel went down with him from the hills, he at their head.
 
 [28] He said to them, "Follow after me, for Yahweh has given your enemies the Moabites into your hand." And they went down after him and seized the fords of the Jordan toward Moab; they did not let a man cross over.
 
@@ -66,6 +66,7 @@
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
+- **"trumpet" → "horn"** (v27) — Hebrew שׁוֹפָר *shofar* = ram's horn, not a metal trumpet.
 - **"Mesopotamia" → "Aram-naharaim"** (v8) — proper name.
 - **"Spirit of the Lord" → "spirit of Yahweh"** (v10) — kept.
 - **"quarries" → "sculptured stones"** (v19, 26) — Hebrew פְּסִילִים *pesilim* = idols / sculptured stones. Likely pagan cultic monuments near Gilgal.

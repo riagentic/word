@@ -38,7 +38,7 @@ that I have spoken concerning the house of Israel
 and the house of Judah.
 
 [15] In those days and at that time I will cause
-a righteous Branch — to spring up for David,
+a righteous Branch to spring up for David,
 and he shall execute justice and righteousness in the land.
 
 [16] In those days Judah will be saved,

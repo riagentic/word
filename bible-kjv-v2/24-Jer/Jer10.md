@@ -119,7 +119,7 @@ and have laid waste his habitation.
 
 - **"LORD of hosts" → "Yahweh of Hosts"** (v16) — Hebrew יְהוָה צְבָאוֹת preserved.
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"God" → "*Elohim*"** (vv10, 43) — Hebrew *Elohim*; "Yahweh is the true *Elohim*; he is the living *Elohim*."
+- **"God" → "*Elohim*"** (v10) — Hebrew *Elohim*; "Yahweh is the true *Elohim*; he is the living *Elohim*."
 - **Poetic structure** — vv2-5, 6-10, 12-16, 17-25 formatted as verse; v11 Aramaic prose preserved.
 
 ### Notes

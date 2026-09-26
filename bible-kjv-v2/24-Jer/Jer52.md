@@ -16,7 +16,7 @@
 
 [8] But the army of the Chaldeans pursued the king and overtook Zedekiah in the plains of Jericho, and all his army was scattered from him.
 
-[9] Then they captured the king and brought him up to the king of Babylon at Rivlah in the land of Hamath, and he passed sentence on him.
+[9] Then they captured the king and brought him up to the king of Babylon at Riblah in the land of Hamath, and he passed sentence on him.
 
 [10] The king of Babylon slaughtered the sons of Zedekiah before his eyes, and also slaughtered all the officials of Judah at Riblah.
 

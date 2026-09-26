@@ -97,7 +97,7 @@ like those who are not called by your name.
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"lovingkindnesses" → "mercies of Yahweh — the steadfast love deeds of Yahweh"** (v7) — Hebrew חַסְדֵי יְהוָה *chasdei Yahweh*; plural of *chesed*; "the praises of Yahweh, according to all that Yahweh has granted" — full formula preserved.
-- **"holy Spirit" → "*Ruach HaQodesh* — Holy Spirit"** (vv10, 11) — Hebrew רוּחַ קָדְשׁוֹ *Ruach Qodsho*; "his Holy Spirit"; the full Hebrew term *Ruach HaQodesh* preserved with gloss; cited Eph 4:30.
+- **"holy Spirit" → "Holy Spirit"** (vv10, 11) — Hebrew רוּחַ קָדְשׁוֹ *Ruach Qodsho*, lit. "the spirit of his holiness" = "his Holy Spirit"; not the later fixed term *Ruach HaQodesh*; cited Eph 4:30.
 - **"Spirit of the LORD" → "Spirit of Yahweh"** (v14) — Hebrew divine spirit preserved.
 - **Poetic structure** — entire chapter formatted as verse; divine warrior poem (vv1-6) and communal lament prayer (vv7-19).
 

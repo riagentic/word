@@ -70,7 +70,7 @@ we sang a dirge, and you did not mourn.'
 - **"Christ" → "*Mashiach*"** (v2) — Greek *Christos* = *Mashiach*; John hears about the works of the *Mashiach*.
 - **"John the Baptist" → "John the Immerser"** (vv11–12) — Greek Ἰωάννης ὁ βαπτιστής *Iōannēs ho baptistēs*; *baptistēs* = one who immerses; "Baptist" is a denominational term with modern baggage.
 - **"winebibber" → "drunkard"** (v19) — Greek οἰνοπότης *oinopotēs* = wine drinker/drunkard. KJV "winebibber" is archaic; "drunkard" is direct.
-- **"hell" → "Sheol"** (v23) — Greek ᾍδης *Hadēs*; in OT quotation context this renders Hebrew שְׁאוֹל *Sheol* = the underworld/realm of the dead. "Hell" misleads; *Sheol* is the precise term.
+- **"hell" → "Sheol"** (v23) — Greek ᾍδης *Hadēs*; the line echoes Isa 14:13-15 (LXX εἰς ᾅδου καταβήσῃ), where *Hadēs* renders Hebrew שְׁאוֹל *Sheol* = the underworld/realm of the dead. "Hell" misleads; *Sheol* is the precise term.
 - **"babes" → "little children"** (v25) — Greek νηπίοις *nēpiois* = infants/little children; not "babes" (archaic) but children as distinguished from the "wise and understanding."
 - **"prudent" → "understanding"** (v25) — Greek συνετῶν *sunetōn* = those with understanding/discernment; "prudent" is adequate but slightly narrower.
 - **"publicans" → "tax collectors"** (v19) — Greek τελωνῶν *telōnōn*; same correction as ch. 9.

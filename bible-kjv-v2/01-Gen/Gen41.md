@@ -46,7 +46,7 @@
 
 [23] and behold, seven ears, withered, thin, and scorched by the east wind, sprouted after them.
 
-[24] And the thin ears swallowed up the seven good ears. I told this to the magicians, but there was no one who could explain it to me."
+[24] And the thin ears swallowed up the seven good ears. I told this to the diviner-priests, but there was no one who could explain it to me."
 
 [25] Then Joseph said to Pharaoh, "Pharaoh's dream is one; *Elohim* has told Pharaoh what he is about to do.
 

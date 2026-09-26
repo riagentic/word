@@ -46,4 +46,3 @@
 - **"holy chambers"** (v13) — Hebrew לִשְׁכוֹת הַקֹּדֶשׁ *lishkot haqodesh*; the priests' dining rooms for the most holy offerings; "holy chambers" is the standard rendering.
 - **"the most holy offerings"** (v13) — Hebrew קֹדֶשׁ הַקֳּדָשִׁים *qodesh haqodashim*; the grain offering, sin offering, and guilt offering; the same root as *Qodesh HaQodashim* — degrees of holiness in the temple.
 - **"holy and common" / "unclean and clean"** (implied v20) — the wall's purpose is "to make a separation between the holy and the common" — Hebrew קֹדֶשׁ *qodesh* (holy) vs. חֹל *chol* (common); the fundamental temple distinction.
-- **"Lord GOD" → "Lord Yahweh"** (v13) — Hebrew אֲדֹנָי יְהוִה *Adonai Yahweh*; Ezekiel's distinctive doubled divine title (implied in the broader context of the temple vision).

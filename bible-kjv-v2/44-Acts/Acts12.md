@@ -2,7 +2,7 @@
 
 [1] About that time Herod the king laid violent hands on some who belonged to the church.
 
-[2] He killed James the brother of John with the sword,
+[2] He killed Jacob the brother of John with the sword,
 
 [3] and when he saw that it pleased the Jews, he proceeded to arrest *Kefa* also. This was during the days of Unleavened Bread.
 
@@ -32,7 +32,7 @@
 
 [16] But *Kefa* continued knocking, and when they opened, they saw him and were amazed.
 
-[17] But motioning to them with his hand to be silent, he described to them how the Lord had brought him out of the prison. And he said, "Tell these things to James and to the brothers." Then he departed and went to another place.
+[17] But motioning to them with his hand to be silent, he described to them how the Lord had brought him out of the prison. And he said, "Tell these things to Jacob and to the brothers." Then he departed and went to another place.
 
 [18] Now when day came, there was no little disturbance among the soldiers over what had become of *Kefa*.
 
@@ -52,6 +52,7 @@
 
 ## Changes
 
+- **"James" → "Jacob"** (v2, 17) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"God" → "*Elohim*"** (v5, 23, 24) — Hebrew divine name preserved.
 - **"Holy Ghost" / Spirit** — no explicit *Ruach HaQodesh* occurrence in this chapter; consistent policy maintained.
 - **"Jesus" → "*Yeshua*"** — no direct occurrence in narrative text of this chapter (referenced implicitly as "the Lord"); consistent policy.

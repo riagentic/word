@@ -16,7 +16,7 @@
 
 [8] You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or on the earth beneath, or in the waters beneath the earth.
 
-[9] You shall not bow down to them or serve them; for I Yahweh your *Elohim* am a jealous *Elohim*, visiting the iniquity of the fathers upon the children to the third and to the fourth generation of those who hate me,
+[9] You shall not bow down to them or serve them; for I Yahweh your *Elohim* am a jealous El, visiting the iniquity of the fathers upon the children to the third and to the fourth generation of those who hate me,
 
 [10] but showing lovingkindness to the thousandth generation of those who love me and keep my commandments.
 

@@ -76,13 +76,13 @@
 
 [39] And when the centurion, who stood facing him, saw that in this way he breathed his last, he said, "**Truly this man was the Son of *Elohim*!**"
 
-[40] There were also women looking on from a distance, among whom were Mary Magdalene, and Mary the mother of James the younger and of Joseph, and Salome.
+[40] There were also women looking on from a distance, among whom were Mary Magdalene, and Mary the mother of Jacob the younger and of Joseph, and Salome.
 
 [41] When he was in Galilee, they followed him and ministered to him, and there were also many other women who came up with him to Jerusalem.
 
 [42] And when evening had come, since it was the day of Preparation, that is, the day before the Sabbath,
 
-[43] Joseph of Ramathaim, a respected member of the council, who was also himself looking for the kingdom of *Elohim*, took courage and went to Pilate and asked for the body of *Yeshua*.
+[43] Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of *Elohim*, took courage and went to Pilate and asked for the body of *Yeshua*.
 
 [44] Pilate was surprised to hear that he should have already died. And summoning the centurion, he asked him whether he was already dead.
 
@@ -94,9 +94,11 @@
 
 ## Changes
 
+- **"James" → "Jacob"** (v40) — Greek Ἰάκωβος *Iakōbos* = Hebrew יַעֲקֹב *Yaaqov*, the same name as the patriarch; "James" is a later English form.
 - **"Jesus" → "*Yeshua*"** (throughout) — Hebrew name preserved.
 - **"God" → "*Elohim*"** (vv34, 39) — divine name retained; in v34 the Aramaic cry "Eloi, Eloi" is preserved in text.
 - **"Christ" → "*Mashiach*"** (v32) — Hebrew Anointed.
+- **"Arimathaea" → "Arimathea"** (v43) — Greek Ἁριμαθαίας *Harimathaias*, the name the text gives; often identified with Ramathaim(-zophim), Samuel's town (1 Sam 1:1; LXX Αρμαθαιμ), but the identification is not certain.
 - **"v28 absent"** — Mark 15:28 ("And the scripture was fulfilled, which saith, And he was numbered with the transgressors") is absent from earliest MSS; noted in ### Notes.
 
 ### Notes

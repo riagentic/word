@@ -58,8 +58,7 @@ because they are no more."
 - **"Jesus" → "*Yeshua*"** (throughout) — Hebrew/Aramaic name he was actually called; Greek *Iēsous* is a transliteration of *Yeshua*.
 - **"Christ" → "*Mashiach*"** (v4) — Greek *Christos* = Hebrew *Mashiach*, "Anointed One."
 - **"warned of God in a dream" → "warned in a dream"** (v12) — Greek text says simply "warned by divine oracle in a dream" (χρηματισθέντες); no specific "God" in the Greek here.
-- **"publick example" → "put her to shame"** (absent here; cf. ch. 1) — Note: KJV v19 in chapter 1 has "publick example"; ch. 2 has no direct equivalent. This chapter's narrative decisions are listed above.
-- **OT quotations** — Three fulfillment formulas appear (vv6, 15, 18, 23). Each OT source is cited in the Notes below; the translation of quoted text follows the LXX reading Matthew uses (sometimes differing from Hebrew MT), with the prophet's name in Hebrew form where first encountered.
+- **OT quotations** — Four OT quotations appear: one introduced by "it is written" (v6) and three by fulfillment formulas (vv15, 18, 23). Each OT source is cited in the Notes below; the translation of quoted text follows the LXX reading Matthew uses (sometimes differing from Hebrew MT), with the prophet's name in Hebrew form where first encountered.
 
 ### Notes
 - **v6** quotes Mic 5:2.

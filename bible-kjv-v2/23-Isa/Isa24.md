@@ -19,7 +19,7 @@ the highest people of the earth languish.
 
 [5] The earth lies defiled under its inhabitants;
 for they have transgressed the laws,
-violated the choq — statute,
+violated the statute,
 broken the everlasting covenant.
 
 [6] Therefore a curse devours the earth,

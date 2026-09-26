@@ -20,7 +20,7 @@ the king of Moab from the eastern mountains:
 come, denounce Israel.'
 
 [8] How shall I curse
-whom *Elohim* has not cursed?
+whom El has not cursed?
 How shall I denounce
 whom Yahweh has not denounced?
 
@@ -53,7 +53,7 @@ and let my end be like his!"
 "Rise, Balak, and hear;
 give ear to me, son of Zippor.
 
-[19] *Elohim* is not a man, that he should lie,
+[19] El is not a man, that he should lie,
 or a son of man, that he should change his mind.
 Has he said it, and will he not do it?
 Has he spoken, and will he not fulfill it?
@@ -66,13 +66,13 @@ nor has he seen trouble in Israel.
 Yahweh his *Elohim* is with him,
 and the shout of a king is among them.
 
-[22] *Elohim* who brought them out of Egypt
+[22] El who brought them out of Egypt
 is for them like the horns of the wild ox.
 
 [23] For there is no sorcery against Jacob,
 no divination against Israel;
 in due time it is told to Jacob,
-and to Israel, what *Elohim* has done.
+and to Israel, what El has done.
 
 [24] Behold, a people that rises like a lioness,
 and lifts itself up like a lion;
@@ -101,7 +101,7 @@ and drinks the blood of the slain."
 - **"repent" → "change his mind"** (v19) — Hebrew נָחַם *nacham*. Regret / relent, not morally repent.
 - **"enchantment / divination" → "sorcery / divination"** (v23) — Hebrew נַחַשׁ *nachash* / קֶסֶם *qesem*.
 - **"El" in oracles (v8, 19, 22, 23) kept as Hebrew.** Balaam as a non-Israelite diviner uses the generic divine name in his poetry.
-- **Poetic formatting** — Balaam's oracles are poetry in the MT; line-broken with `>` blockquote.
+- **Poetic formatting** — Balaam's oracles are poetry in the MT; set as line-broken verse.
 
 ### Notes
 - **Balaam's oracles** — four major oracles spanning chs 23–24. Instead of cursing, Balaam blesses Israel in increasingly elaborate poetry.

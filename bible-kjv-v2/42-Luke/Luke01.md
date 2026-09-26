@@ -162,10 +162,10 @@ to guide our feet into the way of peace."
 ## Changes
 
 - **"God" → "*Elohim*"** (throughout) — divine name retained.
-- **"Elisabeth" → "Elizabeth"** / "*Elisheva*" — Hebrew *Elisheva* ("my God is my oath/abundance") = KJV Elisabeth; rendered as Elizabeth in the text with the Hebrew form at first occurrence.
+- **"Elisabeth" → "Elizabeth"** (vv5, 7, 13, 24, 36, 40–41, 57) — Greek Ἐλισάβετ *Elisabet* renders Hebrew *Elisheva* ("my God is my oath/abundance"); the text uses "Elizabeth" throughout.
 - **"Jesus" → "*Yeshua*"** (v31) — Hebrew name preserved.
 - **"Holy Ghost" / "Holy Spirit" → "*Ruach HaQodesh*"** (vv15, 35, 41, 67) — Hebrew divine Spirit title.
-- **"Mary" → "*Miryam*"** (vv27, 30, etc.) — Hebrew name *Miryam* underlying Greek *Maria*; rendered "*Miryam* — Mary" at first occurrence in ch1, thereafter both forms appear.
+- **"Mary" → "*Miryam*"** (v27) — Hebrew name *Miryam* underlying Greek *Mariam*; the Hebrew form is given at first occurrence (v27), thereafter "Mary" (vv30, 34, 38–39, 41, 46, 56).
 - **"Lord God" → "Lord *Elohim*"** (v68) — in the Benedictus, OT-style "Lord God of Israel" becomes "Lord *Elohim* of Israel."
 
 ### Notes

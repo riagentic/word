@@ -115,7 +115,7 @@ and those who grumble will accept instruction."
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"LORD of hosts" → "Yahweh of Hosts"** (vv6) — divine title preserved.
-- **"Ariel" kept as "*Ariel*"** (vv1, 2, 7) — Hebrew אֲרִיאֵל; poetic name for Jerusalem; may mean "altar hearth" (*ari-el* = lion of *El*); retained as proper name with italics.
+- **"Ariel" kept** (vv1, 2, 7) — Hebrew אֲרִיאֵל; poetic name for Jerusalem; may mean "altar hearth" (*ari-el* = lion of *El*); retained as proper name.
 - **Poetic structure** — vv1-10, 15-16, 17-24 formatted as verse; prose vv11-14 preserved as narrative.
 
 ### Notes

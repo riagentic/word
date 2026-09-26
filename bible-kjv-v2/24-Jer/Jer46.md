@@ -65,9 +65,9 @@ proclaim in Memphis and Tachpanches;
 say, 'Stand ready and be prepared,
 for the sword shall devour around you.'
 
-[15] Why has Apis fled?
-Why did your bull not stand?
-Because Yahweh thrust him down.
+[15] Why is your mighty one swept away?
+He did not stand,
+because Yahweh thrust him down.
 
 [16] He made many stumble, and they fell,
 and they said one to another,
@@ -137,7 +137,8 @@ and I will by no means leave you unpunished."
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"Lord GOD of hosts" → "Lord Yahweh of Hosts"** (v10 ×2) — Hebrew אֲדֹנָי יְהוִה צְבָאוֹת preserved; full triple title.
 - **"God" → "*Elohim*"** (v25) — Hebrew *Elohim* preserved.
-- **"Pharaoh Necho" / "Carchemish" / "Migdol" → as preserved** — geographic names italicized.
+- **"Pharaohnecho" → "Pharaoh Neco"** (v2) — Hebrew פַּרְעֹה נְכוֹ; Carchemish (v2) and Migdol (v14) kept as in KJV.
+- **"thy valiant men" → "your mighty one"** (v15) — MT מַדּוּעַ נִסְחַף אַבִּירֶיךָ "why is [he] swept away, your mighty one": the verbs are singular (נִסְחַף, עָמַד, הֲדָפוֹ), and אַבִּיר also means "bull" (Ps 22:12). The LXX divides נִסְחַף as נָס חַף "Apis has fled" (ἔφυγεν ὁ Ἆπις) and reads "your chosen calf"; MT kept.
 - **Poetic structure** — vv3-12 verse battle poem; vv14-24 verse oracle against Egypt; vv27-28 verse consolation to Jacob; prose frame vv2, 13, 25-26 preserved.
 
 ### Notes

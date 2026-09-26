@@ -46,6 +46,7 @@
 
 ## Changes
 
+- **"Jehoiakim" → "Zedekiah"** (v1) — MT reads יְהוֹיָקִים, which contradicts its own context (vv3, 12; 28:1 "in that same year … Zedekiah"); a few Hebrew mss, the Syriac and Arabic read Zedekiah (LXX lacks the verse). Treated as a scribal error carried over from 26:1.
 - **"LORD of hosts" → "Yahweh of Hosts"** (vv4, 18-19, 21) — Hebrew יְהוָה צְבָאוֹת preserved.
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"God" → "*Elohim*"** (vv4, 21) — Hebrew *Elohim* preserved.

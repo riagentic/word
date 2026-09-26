@@ -33,7 +33,7 @@ and their cities shall be in the midst of cities that are laid waste.
 when I have set fire to Egypt,
 and all her helpers are broken.
 
-[9] "On that day messengers shall go out from me in ships to terrify the unsuspecting Kushites, and anguish shall come upon them on the day of Egypt's doom; for, behold, it comes!
+[9] "On that day messengers shall go out from me in ships to terrify unsuspecting Cush, and anguish shall come upon them on the day of Egypt's doom; for, behold, it comes!
 
 [10] "Thus says Lord Yahweh:
 
@@ -49,7 +49,7 @@ and fill the land with the slain.
 and will sell the land into the hand of evildoers;
 I will bring desolation upon the land and everything in it,
 by the hand of foreigners;
-I am Yahweh; I have spoken.
+I, Yahweh, have spoken.
 
 [13] "Thus says Lord Yahweh:
 
