@@ -1,11 +1,11 @@
 # Amos 4
 
 [1] "Hear this word, you cows of Bashan,
-who are on the mountain of Samaria,
+who are on the mountain of ⟦samaria|Shomron|Samaria⟧,
 who oppress the poor, who crush the needy,
 who say to your husbands, 'Bring, that we may drink!'
 
-[2] Lord Yahweh has sworn by his holiness
+[2] ⟦adonai-yhwh|Lord Yahweh|The Lord GOD⟧ has sworn by his holiness
 that, behold, the days are coming upon you,
 when they shall take you away with hooks,
 even the last of you with fishhooks.
@@ -13,21 +13,21 @@ even the last of you with fishhooks.
 [3] And you shall go out through the breaches,
 each one straight ahead;
 and you shall be cast out into Harmon,"
-declares Yahweh.
+declares ⟦yhwh|Yahweh|the LORD⟧.
 
-[4] "Come to Bethel, and transgress;
+[4] "Come to ⟦bethel|Beit El|Bethel⟧, and transgress;
 to Gilgal, and multiply transgression;
 bring your sacrifices every morning,
 your tithes every three days;
 
 [5] offer a sacrifice of thanksgiving of that which is leavened,
 and proclaim freewill offerings, publish them;
-for so you love to do, O people of Israel!"
-declares Lord Yahweh.
+for so you love to do, O people of ⟦israel|Yisrael|Israel⟧!"
+declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.
 
 [6] "I gave you cleanness of teeth in all your cities,
 and lack of bread in all your places,
-yet you did not return to me," declares Yahweh.
+yet you did not return to me," declares ⟦yhwh|Yahweh|the LORD⟧.
 
 [7] "I also withheld the rain from you
 when there were yet three months to the harvest;
@@ -38,33 +38,33 @@ and the field on which it did not rain would wither;
 
 [8] so two or three cities would wander to another city
 to drink water, and would not be satisfied;
-yet you did not return to me," declares Yahweh.
+yet you did not return to me," declares ⟦yhwh|Yahweh|the LORD⟧.
 
 [9] "I struck you with blight and mildew;
 your many gardens and your vineyards, your fig trees and your olive trees
 the locust devoured;
-yet you did not return to me," declares Yahweh.
+yet you did not return to me," declares ⟦yhwh|Yahweh|the LORD⟧.
 
-[10] "I sent among you a pestilence after the manner of Egypt;
+[10] "I sent among you a pestilence after the manner of ⟦egypt|Mitzrayim|Egypt⟧;
 I killed your young men with the sword,
 and carried away your horses,
 and I made the stench of your camp go up into your nostrils;
-yet you did not return to me," declares Yahweh.
+yet you did not return to me," declares ⟦yhwh|Yahweh|the LORD⟧.
 
 [11] "I overthrew some of you,
-as *Elohim* overthrew Sodom and Gomorrah,
+as ⟦elohim|Elohim|God⟧ overthrew ⟦sodom|Sedom|Sodom⟧ and ⟦gomorrah|Amorah|Gomorrah⟧,
 and you were as a brand plucked out of the burning;
-yet you did not return to me," declares Yahweh.
+yet you did not return to me," declares ⟦yhwh|Yahweh|the LORD⟧.
 
-[12] "Therefore thus I will do to you, O Israel;
+[12] "Therefore thus I will do to you, O ⟦israel|Yisrael|Israel⟧;
 because I will do this to you,
-**prepare to meet your *Elohim*, O Israel!**"
+**prepare to meet your ⟦elohim|Elohim|God⟧, O ⟦israel|Yisrael|Israel⟧!**"
 
 [13] For behold, he who forms the mountains and creates the wind,
 and declares to man what is his thought,
 who makes the morning darkness,
 and treads on the heights of the earth —
-Yahweh, the *Elohim* of Hosts, is his name!
+⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of Hosts, is his name!
 
 ## Changes
 

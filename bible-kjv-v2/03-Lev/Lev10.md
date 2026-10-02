@@ -1,49 +1,49 @@
 # Leviticus 10
 
-[1] Nadab and Abihu, the sons of Aaron, each took his censer, put fire in it, laid incense on it, and offered strange fire before Yahweh — which he had not commanded them.
+[1] ⟦nadab|Nadav|Nadab⟧ and ⟦abihu|Avihu|Abihu⟧, the sons of ⟦aaron|Aharon|Aaron⟧, each took his censer, put fire in it, laid incense on it, and offered strange fire before ⟦yhwh|Yahweh|the LORD⟧ — which he had not commanded them.
 
-[2] And fire came out from before Yahweh and consumed them, and they died before Yahweh.
+[2] And fire came out from before ⟦yhwh|Yahweh|the LORD⟧ and consumed them, and they died before ⟦yhwh|Yahweh|the LORD⟧.
 
-[3] Then Moses said to Aaron, "This is what Yahweh spoke, saying:
+[3] Then ⟦moses|Moshe|Moses⟧ said to ⟦aaron|Aharon|Aaron⟧, "This is what ⟦yhwh|Yahweh|the LORD⟧ spoke, saying:
 
 'Through those who draw near to me I will be shown holy;
 and before all the people I will be glorified.'"
 
-And Aaron was silent.
+And ⟦aaron|Aharon|Aaron⟧ was silent.
 
-[4] Moses called Mishael and Elzaphan, the sons of Uzziel the uncle of Aaron, and said to them, "Come near, carry your brothers from before the sanctuary out of the camp."
+[4] ⟦moses|Moshe|Moses⟧ called Mishael and ⟦elizaphan|Eltzafan|Elzaphan⟧, the sons of Uzziel the uncle of ⟦aaron|Aharon|Aaron⟧, and said to them, "Come near, carry your brothers from before the sanctuary out of the camp."
 
-[5] So they came near and carried them in their tunics out of the camp, as Moses had said.
+[5] So they came near and carried them in their tunics out of the camp, as ⟦moses|Moshe|Moses⟧ had said.
 
-[6] Moses said to Aaron and to Eleazar and Ithamar his sons, "Do not let your hair hang loose, and do not tear your garments — lest you die and wrath fall upon the whole congregation; but let your brothers, the whole house of Israel, mourn the burning that Yahweh has kindled.
+[6] ⟦moses|Moshe|Moses⟧ said to ⟦aaron|Aharon|Aaron⟧ and to ⟦eleazar|Elazar|Eleazar⟧ and ⟦ithamar|Itamar|Ithamar⟧ his sons, "Do not let your hair hang loose, and do not tear your garments — lest you die and wrath fall upon the whole congregation; but let your brothers, the whole house of ⟦israel|Yisrael|Israel⟧, mourn the burning that ⟦yhwh|Yahweh|the LORD⟧ has kindled.
 
-[7] Do not go out from the entrance of the Tent of Meeting, lest you die; for the anointing oil of Yahweh is upon you." And they did according to the word of Moses.
+[7] Do not go out from the entrance of the Tent of Meeting, lest you die; for the anointing oil of ⟦yhwh|Yahweh|the LORD⟧ is upon you." And they did according to the word of ⟦moses|Moshe|Moses⟧.
 
-[8] Yahweh spoke to Aaron, saying,
+[8] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦aaron|Aharon|Aaron⟧, saying,
 
 [9] "Drink no wine nor strong drink — you, nor your sons with you — when you go into the Tent of Meeting, lest you die. It shall be a perpetual statute throughout your generations,
 
 [10] so that you may distinguish between the holy and the common, and between the unclean and the clean,
 
-[11] and that you may teach the children of Israel all the statutes that Yahweh has spoken to them through Moses."
+[11] and that you may teach the children of ⟦israel|Yisrael|Israel⟧ all the statutes that ⟦yhwh|Yahweh|the LORD⟧ has spoken to them through ⟦moses|Moshe|Moses⟧."
 
-[12] Moses said to Aaron, and to Eleazar and Ithamar his remaining sons, "Take the grain offering that is left over from the offerings of Yahweh made by fire, and eat it unleavened beside the altar, for it is most holy.
+[12] ⟦moses|Moshe|Moses⟧ said to ⟦aaron|Aharon|Aaron⟧, and to ⟦eleazar|Elazar|Eleazar⟧ and ⟦ithamar|Itamar|Ithamar⟧ his remaining sons, "Take the grain offering that is left over from the offerings of ⟦yhwh|Yahweh|the LORD⟧ made by fire, and eat it unleavened beside the altar, for it is most holy.
 
-[13] You shall eat it in a holy place, because it is your due and your sons' due from the offerings of Yahweh made by fire — for so I have been commanded.
+[13] You shall eat it in a holy place, because it is your due and your sons' due from the offerings of ⟦yhwh|Yahweh|the LORD⟧ made by fire — for so I have been commanded.
 
-[14] But the breast of the elevation offering and the thigh of the contribution you shall eat in a clean place — you and your sons and your daughters with you — for they are given as your due and your sons' due from the sacrifices of the peace offerings of the children of Israel.
+[14] But the breast of the elevation offering and the thigh of the contribution you shall eat in a clean place — you and your sons and your daughters with you — for they are given as your due and your sons' due from the sacrifices of the peace offerings of the children of ⟦israel|Yisrael|Israel⟧.
 
-[15] The thigh of the contribution and the breast of the elevation offering they shall bring along with the offerings by fire of the fat, to elevate as an elevation offering before Yahweh; and they shall be yours and your sons' with you, as a perpetual due, as Yahweh has commanded."
+[15] The thigh of the contribution and the breast of the elevation offering they shall bring along with the offerings by fire of the fat, to elevate as an elevation offering before ⟦yhwh|Yahweh|the LORD⟧; and they shall be yours and your sons' with you, as a perpetual due, as ⟦yhwh|Yahweh|the LORD⟧ has commanded."
 
-[16] Moses diligently sought the goat of the sin offering, and behold, it had been burned up; and he was angry with Eleazar and Ithamar, the remaining sons of Aaron, saying,
+[16] ⟦moses|Moshe|Moses⟧ diligently sought the goat of the sin offering, and behold, it had been burned up; and he was angry with ⟦eleazar|Elazar|Eleazar⟧ and ⟦ithamar|Itamar|Ithamar⟧, the remaining sons of ⟦aaron|Aharon|Aaron⟧, saying,
 
-[17] "Why did you not eat the sin offering in the holy place? For it is most holy, and he has given it to you to bear the iniquity of the congregation, to make atonement for them before Yahweh.
+[17] "Why did you not eat the sin offering in the holy place? For it is most holy, and he has given it to you to bear the iniquity of the congregation, to make atonement for them before ⟦yhwh|Yahweh|the LORD⟧.
 
 [18] Behold, its blood was not brought inside the sanctuary; you should certainly have eaten it in the sanctuary, as I commanded."
 
-[19] Aaron said to Moses, "Behold, today they offered their sin offering and their burnt offering before Yahweh, and yet such things as these have befallen me. If I had eaten the sin offering today, would it have been pleasing in the eyes of Yahweh?"
+[19] ⟦aaron|Aharon|Aaron⟧ said to ⟦moses|Moshe|Moses⟧, "Behold, today they offered their sin offering and their burnt offering before ⟦yhwh|Yahweh|the LORD⟧, and yet such things as these have befallen me. If I had eaten the sin offering today, would it have been pleasing in the eyes of ⟦yhwh|Yahweh|the LORD⟧?"
 
-[20] And when Moses heard that, he was content.
+[20] And when ⟦moses|Moshe|Moses⟧ heard that, he was content.
 
 ## Changes
 

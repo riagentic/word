@@ -2,11 +2,11 @@
 
 [1] Když Beránek otevřel sedmou pečeť, nastalo v nebi ticho asi na půl hodiny.
 
-[2] Potom jsem viděl sedm andělů, kteří stojí před *Elohim*, a bylo jim dáno sedm polnic.
+[2] Potom jsem viděl sedm andělů, kteří stojí před ⟦elohim|Elohim|Bohem⟧, a bylo jim dáno sedm polnic.
 
 [3] A přišel jiný anděl se zlatou kadidelnicí a postavil se u oltáře; bylo mu dáno mnoho kadidla, aby je obětoval s modlitbami všech svatých na zlatém oltáři před trůnem,
 
-[4] a dým kadidla stoupal s modlitbami svatých z ruky anděla před *Elohim*.
+[4] a dým kadidla stoupal s modlitbami svatých z ruky anděla před ⟦elohim|Elohim|Bohem⟧.
 
 [5] Tu anděl vzal kadidelnici, naplnil ji ohněm z oltáře a hodil ji na zemi; a nastaly rachoty hromů, hlučení, blesky a zemětřesení.
 

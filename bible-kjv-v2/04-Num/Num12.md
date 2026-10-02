@@ -1,36 +1,36 @@
 # Numbers 12
 
-[1] Miriam and Aaron spoke against Moses because of the Cushite woman whom he had married; for he had married a Cushite woman.
+[1] ⟦miriam|Miryam|Miriam⟧ and ⟦aaron|Aharon|Aaron⟧ spoke against ⟦moses|Moshe|Moses⟧ because of the ⟦cushite|Kushi|Cushite⟧ woman whom he had married; for he had married a ⟦cushite|Kushi|Cushite⟧ woman.
 
-[2] They said, "Has Yahweh indeed spoken only through Moses? Has he not also spoken through us?" And Yahweh heard it.
+[2] They said, "Has ⟦yhwh|Yahweh|the LORD⟧ indeed spoken only through ⟦moses|Moshe|Moses⟧? Has he not also spoken through us?" And ⟦yhwh|Yahweh|the LORD⟧ heard it.
 
-[3] (Now the man Moses was very humble, more than any person on the face of the earth.)
+[3] (Now the man ⟦moses|Moshe|Moses⟧ was very humble, more than any person on the face of the earth.)
 
-[4] Suddenly Yahweh said to Moses, Aaron, and Miriam, "Come out, you three, to the Tent of Meeting." So the three of them came out.
+[4] Suddenly ⟦yhwh|Yahweh|the LORD⟧ said to ⟦moses|Moshe|Moses⟧, ⟦aaron|Aharon|Aaron⟧, and ⟦miriam|Miryam|Miriam⟧, "Come out, you three, to the Tent of Meeting." So the three of them came out.
 
-[5] Yahweh came down in the pillar of cloud and stood at the entrance of the tent, and called Aaron and Miriam; and the two of them came forward.
+[5] ⟦yhwh|Yahweh|The LORD⟧ came down in the pillar of cloud and stood at the entrance of the tent, and called ⟦aaron|Aharon|Aaron⟧ and ⟦miriam|Miryam|Miriam⟧; and the two of them came forward.
 
-[6] He said, "Hear my words now: If there is a prophet of Yahweh among you, I make myself known to him in a vision; I speak to him in a dream.
+[6] He said, "Hear my words now: If there is a prophet of ⟦yhwh|Yahweh|the LORD⟧ among you, I make myself known to him in a vision; I speak to him in a dream.
 
-[7] Not so with my servant Moses; he is faithful in all my house.
+[7] Not so with my servant ⟦moses|Moshe|Moses⟧; he is faithful in all my house.
 
-[8] With him I speak mouth to mouth, clearly and not in riddles; and he beholds the form of Yahweh. Why then were you not afraid to speak against my servant Moses?"
+[8] With him I speak mouth to mouth, clearly and not in riddles; and he beholds the form of ⟦yhwh|Yahweh|the LORD⟧. Why then were you not afraid to speak against my servant ⟦moses|Moshe|Moses⟧?"
 
-[9] The anger of Yahweh burned against them, and he departed.
+[9] The anger of ⟦yhwh|Yahweh|the LORD⟧ burned against them, and he departed.
 
-[10] When the cloud departed from over the tent, behold, Miriam was stricken with skin disease, white as snow; and Aaron turned toward Miriam, and behold, she had skin disease.
+[10] When the cloud departed from over the tent, behold, ⟦miriam|Miryam|Miriam⟧ was stricken with skin disease, white as snow; and ⟦aaron|Aharon|Aaron⟧ turned toward ⟦miriam|Miryam|Miriam⟧, and behold, she had skin disease.
 
-[11] Then Aaron said to Moses, "Oh, my lord, please do not lay upon us the sin, which we have done foolishly, and in which we have sinned.
+[11] Then ⟦aaron|Aharon|Aaron⟧ said to ⟦moses|Moshe|Moses⟧, "Oh, my lord, please do not lay upon us the sin, which we have done foolishly, and in which we have sinned.
 
 [12] Let her not be like one dead, whose flesh is half-eaten away when he comes out of his mother's womb."
 
-[13] So Moses cried out to Yahweh, saying, "O El, please heal her."
+[13] So ⟦moses|Moshe|Moses⟧ cried out to ⟦yhwh|Yahweh|the LORD⟧, saying, "O ⟦el|El|God⟧, please heal her."
 
-[14] Yahweh said to Moses, "If her father had but spit in her face, would she not be shamed seven days? Let her be shut outside the camp for seven days, and after that she may be brought back in."
+[14] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "If her father had but spit in her face, would she not be shamed seven days? Let her be shut outside the camp for seven days, and after that she may be brought back in."
 
-[15] So Miriam was shut outside the camp for seven days, and the people did not set out until Miriam was brought in again.
+[15] So ⟦miriam|Miryam|Miriam⟧ was shut outside the camp for seven days, and the people did not set out until ⟦miriam|Miryam|Miriam⟧ was brought in again.
 
-[16] After that the people moved from Hazeroth and encamped in the wilderness of Paran.
+[16] After that the people moved from ⟦hazeroth|Chatzerot|Hazeroth⟧ and encamped in the wilderness of Paran.
 
 ## Changes
 

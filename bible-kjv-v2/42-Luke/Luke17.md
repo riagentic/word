@@ -20,27 +20,27 @@
 
 [10] So you also, when you have done all that you were commanded, say, 'We are unworthy servants; we have only done what was our duty.'"
 
-[11] On the way to Jerusalem he was passing along between Samaria and Galilee.
+[11] On the way to ⟦jerusalem|Yerushalayim|Jerusalem⟧ he was passing along between ⟦samaria-nt|Shomron|Samaria⟧ and ⟦galilee|Galil|Galilee⟧.
 
 [12] And as he entered a village, he was met by ten lepers, who stood at a distance
 
-[13] and lifted up their voices, saying, "*Yeshua*, Master, have mercy on us."
+[13] and lifted up their voices, saying, "⟦yeshua|Yeshua|Jesus⟧, Master, have mercy on us."
 
 [14] When he saw them he said to them, "Go and show yourselves to the priests." And as they went they were cleansed.
 
-[15] Then one of them, when he saw that he was healed, turned back, praising *Elohim* with a loud voice;
+[15] Then one of them, when he saw that he was healed, turned back, praising ⟦elohim|Elohim|God⟧ with a loud voice;
 
-[16] and he fell on his face at *Yeshua's* feet, giving him thanks. Now he was a Samaritan.
+[16] and he fell on his face at ⟦yeshua|Yeshua's|Jesus'⟧ feet, giving him thanks. Now he was a ⟦samaritans|Shomroni|Samaritan⟧.
 
-[17] Then *Yeshua* answered, "Were not ten cleansed? Where are the nine?
+[17] Then ⟦yeshua|Yeshua|Jesus⟧ answered, "Were not ten cleansed? Where are the nine?
 
-[18] Was no one found to return and give praise to *Elohim* except this foreigner?"
+[18] Was no one found to return and give praise to ⟦elohim|Elohim|God⟧ except this foreigner?"
 
 [19] And he said to him, "Rise and go your way; your faith has made you well."
 
-[20] Being asked by the Pharisees when the kingdom of *Elohim* would come, he answered them, "The kingdom of *Elohim* is not coming with signs to be observed,
+[20] Being asked by the ⟦pharisees|Perushim|Pharisees⟧ when the kingdom of ⟦elohim|Elohim|God⟧ would come, he answered them, "The kingdom of ⟦elohim|Elohim|God⟧ is not coming with signs to be observed,
 
-[21] nor will they say, 'Look, here it is!' or 'There!' for behold, the kingdom of *Elohim* is in your midst."
+[21] nor will they say, 'Look, here it is!' or 'There!' for behold, the kingdom of ⟦elohim|Elohim|God⟧ is in your midst."
 
 [22] And he said to the disciples, "The days are coming when you will desire to see one of the days of the Son of Man, and you will not see it.
 
@@ -50,13 +50,13 @@
 
 [25] But first he must suffer many things and be rejected by this generation.
 
-[26] Just as it was in the days of Noah, so will it be in the days of the Son of Man.
+[26] Just as it was in the days of ⟦noah|Noach|Noah⟧, so will it be in the days of the Son of Man.
 
-[27] They were eating and drinking and marrying and being given in marriage, until the day when Noah entered the ark, and the flood came and destroyed them all.
+[27] They were eating and drinking and marrying and being given in marriage, until the day when ⟦noah|Noach|Noah⟧ entered the ark, and the flood came and destroyed them all.
 
 [28] Likewise, just as it was in the days of Lot — they were eating and drinking, buying and selling, planting and building,
 
-[29] but on the day when Lot went out from Sodom, fire and sulfur rained from heaven and destroyed them all —
+[29] but on the day when Lot went out from ⟦sodom|Sedom|Sodom⟧, fire and sulfur rained from heaven and destroyed them all —
 
 [30] so will it be on the day when the Son of Man is revealed.
 

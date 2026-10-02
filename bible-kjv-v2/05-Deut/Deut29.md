@@ -1,62 +1,62 @@
 # Deuteronomy 29
 
-[1] These are the words of the covenant that Yahweh commanded Moses to make with the children of Israel in the land of Moab, besides the covenant that he made with them at Horeb.
+[1] These are the words of the covenant that ⟦yhwh|Yahweh|the LORD⟧ commanded ⟦moses|Moshe|Moses⟧ to make with the children of ⟦israel|Yisrael|Israel⟧ in the land of ⟦moab|Moav|Moab⟧, besides the covenant that he made with them at ⟦horeb|Chorev|Horeb⟧.
 
-[2] Moses summoned all Israel and said to them: "You have seen all that Yahweh did before your eyes in the land of Egypt to Pharaoh and to all his servants and to all his land —
+[2] ⟦moses|Moshe|Moses⟧ summoned all ⟦israel|Yisrael|Israel⟧ and said to them: "You have seen all that ⟦yhwh|Yahweh|the LORD⟧ did before your eyes in the land of ⟦egypt|Mitzrayim|Egypt⟧ to ⟦pharaoh|Paroh|Pharaoh⟧ and to all his servants and to all his land —
 
 [3] the great trials that your eyes saw, the signs and the great wonders.
 
-[4] But to this day Yahweh has not given you a heart to understand, or eyes to see, or ears to hear.
+[4] But to this day ⟦yhwh|Yahweh|the LORD⟧ has not given you a heart to understand, or eyes to see, or ears to hear.
 
 [5] I led you forty years in the wilderness: your clothes did not wear out on you, and your sandals did not wear out on your feet.
 
-[6] Bread you did not eat, and wine and strong drink you did not drink — that you might know that I am Yahweh your *Elohim*.
+[6] Bread you did not eat, and wine and strong drink you did not drink — that you might know that I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
-[7] When you came to this place, Sihon king of Heshbon and Og king of Bashan came out against us for battle, and we struck them down.
+[7] When you came to this place, ⟦sihon|Sichon|Sihon⟧ king of ⟦heshbon|Cheshbon|Heshbon⟧ and Og king of Bashan came out against us for battle, and we struck them down.
 
-[8] We took their land and gave it as an inheritance to the Reubenites, the Gadites, and the half-tribe of the Manassites.
+[8] We took their land and gave it as an inheritance to the ⟦reubenites|Reuveni|Reubenites⟧, the ⟦gadites|Gadi|Gadites⟧, and the half-tribe of the ⟦manassites|Menashi|Manassites⟧.
 
 [9] Therefore keep the words of this covenant and do them, that you may prosper in all that you do.
 
-[10] You are standing today, all of you, before Yahweh your *Elohim* — your heads, your tribes, your elders, and your officers, every man of Israel,
+[10] You are standing today, all of you, before ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ — your heads, your tribes, your elders, and your officers, every man of ⟦israel|Yisrael|Israel⟧,
 
 [11] your little ones, your wives, and the foreigner who is in your camp, from the one who cuts your wood to the one who draws your water —
 
-[12] that you may enter into the covenant of Yahweh your *Elohim*, and into his sworn oath, which Yahweh your *Elohim* is making with you today,
+[12] that you may enter into the covenant of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, and into his sworn oath, which ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is making with you today,
 
-[13] in order that he may establish you today as a people for himself, and that he may be your *Elohim* — as he has spoken to you, and as he has sworn to your fathers, to Abraham, to Isaac, and to Jacob.
+[13] in order that he may establish you today as a people for himself, and that he may be your ⟦elohim|Elohim|God⟧ — as he has spoken to you, and as he has sworn to your fathers, to ⟦abraham|Avraham|Abraham⟧, to ⟦isaac|Yitzchaq|Isaac⟧, and to ⟦jacob|Yaaqov|Jacob⟧.
 
 [14] Not with you alone am I making this covenant and this sworn oath,
 
-[15] but with those who are standing here with us today before Yahweh our *Elohim*, and with those who are not here with us today.
+[15] but with those who are standing here with us today before ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧, and with those who are not here with us today.
 
-[16] For you know how we dwelt in the land of Egypt, and how we came through the midst of the nations through which you passed.
+[16] For you know how we dwelt in the land of ⟦egypt|Mitzrayim|Egypt⟧, and how we came through the midst of the nations through which you passed.
 
 [17] You have seen their detestable things and their idols of wood and stone, of silver and gold, which were among them.
 
-[18] Beware lest there be among you a man or woman or family or tribe whose heart turns away today from Yahweh our *Elohim*, to go and serve the gods of those nations; lest there be among you a root bearing poisonous and bitter fruit;
+[18] Beware lest there be among you a man or woman or family or tribe whose heart turns away today from ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧, to go and serve the gods of those nations; lest there be among you a root bearing poisonous and bitter fruit;
 
 [19] and when he hears the words of this curse, he congratulates himself in his heart, saying, 'I shall have peace, though I walk in the stubbornness of my heart' — thus sweeping away the watered along with the parched.
 
-[20] Yahweh will not be willing to forgive him, but then the anger of Yahweh and his jealousy shall smoke against that man, and every curse that is written in this book shall lie upon him, and Yahweh shall blot out his name from under the heavens.
+[20] ⟦yhwh|Yahweh|The LORD⟧ will not be willing to forgive him, but then the anger of ⟦yhwh|Yahweh|the LORD⟧ and his jealousy shall smoke against that man, and every curse that is written in this book shall lie upon him, and ⟦yhwh|Yahweh|the LORD⟧ shall blot out his name from under the heavens.
 
-[21] Yahweh shall single him out from all the tribes of Israel for calamity, according to all the curses of the covenant that are written in this book of the Torah.
+[21] ⟦yhwh|Yahweh|The LORD⟧ shall single him out from all the tribes of ⟦israel|Yisrael|Israel⟧ for calamity, according to all the curses of the covenant that are written in this book of the ⟦torah|Torah|Law⟧.
 
-[22] The generation to come, your children who rise after you, and the foreigner who comes from a far land, shall say, when they see the plagues of that land and the diseases that Yahweh has inflicted on it —
+[22] The generation to come, your children who rise after you, and the foreigner who comes from a far land, shall say, when they see the plagues of that land and the diseases that ⟦yhwh|Yahweh|the LORD⟧ has inflicted on it —
 
-[23] the whole land being brimstone and salt, a burning, not sown, not sprouting, no grass growing on it, like the overthrow of Sodom and Gomorrah, Admah and Zeboiim, which Yahweh overthrew in his anger and in his wrath —
+[23] the whole land being brimstone and salt, a burning, not sown, not sprouting, no grass growing on it, like the overthrow of ⟦sodom|Sedom|Sodom⟧ and ⟦gomorrah|Amorah|Gomorrah⟧, Admah and ⟦zeboiim|Tzevoyim|Zeboiim⟧, which ⟦yhwh|Yahweh|the LORD⟧ overthrew in his anger and in his wrath —
 
-[24] all the nations shall say, 'Why has Yahweh done this to this land? What is the meaning of the heat of this great anger?'
+[24] all the nations shall say, 'Why has ⟦yhwh|Yahweh|the LORD⟧ done this to this land? What is the meaning of the heat of this great anger?'
 
-[25] Then people shall say: 'Because they abandoned the covenant of Yahweh the *Elohim* of their fathers, which he made with them when he brought them out of the land of Egypt;
+[25] Then people shall say: 'Because they abandoned the covenant of ⟦yhwh|Yahweh|the LORD⟧ the ⟦elohim|Elohim|God⟧ of their fathers, which he made with them when he brought them out of the land of ⟦egypt|Mitzrayim|Egypt⟧;
 
 [26] they went and served other gods and bowed down to them — gods whom they had not known and whom he had not allotted to them.
 
-[27] The anger of Yahweh was kindled against this land, bringing on it every curse written in this book.
+[27] The anger of ⟦yhwh|Yahweh|the LORD⟧ was kindled against this land, bringing on it every curse written in this book.
 
-[28] Yahweh uprooted them from their land in anger and in wrath and in great fury, and cast them into another land, as it is today.'
+[28] ⟦yhwh|Yahweh|The LORD⟧ uprooted them from their land in anger and in wrath and in great fury, and cast them into another land, as it is today.'
 
-[29] The secret things belong to Yahweh our *Elohim*, but the things that are revealed belong to us and to our children forever, that we may do all the words of this Torah.
+[29] The secret things belong to ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧, but the things that are revealed belong to us and to our children forever, that we may do all the words of this ⟦torah|Torah|law⟧.
 
 ## Changes
 

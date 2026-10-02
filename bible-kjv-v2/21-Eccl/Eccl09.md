@@ -1,6 +1,6 @@
 # Ecclesiastes 9
 
-[1] For all this I took to heart, examining it all, that the righteous and the wise and their deeds are in the hand of *Elohim*. Whether love or hate, man does not know; both are before him.
+[1] For all this I took to heart, examining it all, that the righteous and the wise and their deeds are in the hand of ⟦elohim|Elohim|God⟧. Whether love or hate, man does not know; both are before him.
 
 [2] It is the same for all, since the same event happens to the righteous and the wicked, to the good and the evil, to the clean and the unclean, to him who sacrifices and him who does not sacrifice. As the good one is, so is the sinner, and he who swears is as he who shuns an oath.
 
@@ -12,7 +12,7 @@
 
 [6] Their love and their hate and their envy have already perished, and forever they have no more share in all that is done under the sun.
 
-[7] Go, eat your bread with joy, and drink your wine with a merry heart, for *Elohim* has already approved what you do.
+[7] Go, eat your bread with joy, and drink your wine with a merry heart, for ⟦elohim|Elohim|God⟧ has already approved what you do.
 
 [8] Let your garments be always white. Let not oil be lacking on your head.
 

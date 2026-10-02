@@ -23,8 +23,8 @@ ani trápení nevyrůstá ze země;
 [7] ale člověk se rodí k trápení,
 jako jiskry létají vzhůru.
 
-[8] Já bych však hledal *Elohim*
-a *Elohim* bych svěřil svou při –
+[8] Já bych však hledal ⟦el|El|Boha⟧
+a ⟦elohim|Elohim|Bohu⟧ bych svěřil svou při –
 
 [9] tomu, jenž koná veliké věci nevyzpytatelné,
 podivuhodné věci bez počtu,
@@ -50,8 +50,8 @@ a z ruky mocného.
 [16] Tak má chudý naději
 a bezpráví zavírá ústa.
 
-[17] Hle, blahoslavený je muž, kterého Eloah kárá.
-Proto nepohrdej kázní – Shaddaiovou;
+[17] Hle, blahoslavený je muž, kterého ⟦eloah|Eloah|Bůh⟧ kárá.
+Proto nepohrdej kázní – ⟦shaddai|Šaddajovou|Všemohoucího⟧;
 
 [18] neboť on zraňuje, ale obvazuje;
 udeří, ale jeho ruce hojí.
@@ -86,6 +86,7 @@ slyš to a poznej to sám pro sebe.“
 ## Změny
 
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
+- **"God" → „El“** (v8) – hebrejsky אֵל *El*, ne *Elohim*.
 - **"tabernacle" → „stan“** (v24).
 - **"shock of corn" → „stoh snopů“** (v26).
 

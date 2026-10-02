@@ -1,36 +1,36 @@
 # Amos 2
 
-[1] Thus says Yahweh:
+[1] Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
-"For three transgressions of Moab,
+"For three transgressions of ⟦moab|Moav|Moab⟧,
 and for four, I will not revoke the punishment,
 because he burned to lime
 the bones of the king of Edom.
 
-[2] So I will send a fire upon Moab,
-and it shall devour the strongholds of Kerioth,
-and Moab shall die amid uproar,
-amid shouting and the sound of the trumpet;
+[2] So I will send a fire upon ⟦moab|Moav|Moab⟧,
+and it shall devour the strongholds of ⟦kerioth|Qeriyot|Kerioth⟧,
+and ⟦moab|Moav|Moab⟧ shall die amid uproar,
+amid shouting and the sound of the ⟦shofar|shofar|trumpet⟧;
 
 [3] I will cut off the judge from its midst,
 and will kill all its princes with him,"
-says Yahweh.
+says ⟦yhwh|Yahweh|the LORD⟧.
 
-[4] Thus says Yahweh:
+[4] Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
-"For three transgressions of Judah,
+"For three transgressions of ⟦judah|Yehudah|Judah⟧,
 and for four, I will not revoke the punishment,
-because they have rejected the Law of Yahweh
+because they have rejected the ⟦torah|Torah|law⟧ of ⟦yhwh|Yahweh|the LORD⟧
 and have not kept his statutes,
 but their lies have led them astray,
 those after which their fathers walked.
 
-[5] So I will send a fire upon Judah,
-and it shall devour the strongholds of Jerusalem."
+[5] So I will send a fire upon ⟦judah|Yehudah|Judah⟧,
+and it shall devour the strongholds of ⟦jerusalem|Yerushalayim|Jerusalem⟧."
 
-[6] Thus says Yahweh:
+[6] Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
-"For three transgressions of Israel,
+"For three transgressions of ⟦israel|Yisrael|Israel⟧,
 and for four, I will not revoke the punishment,
 because they sell the righteous for silver,
 and the needy for a pair of sandals —
@@ -42,25 +42,25 @@ so that my holy name is profaned;
 
 [8] they lay themselves down beside every altar
 on garments taken in pledge,
-and in the house of their *Elohim* they drink
+and in the house of their ⟦elohim|Elohim|God⟧ they drink
 the wine of those who have been fined.
 
-[9] "Yet it was I who destroyed the Amorite before them,
+[9] "Yet it was I who destroyed the ⟦amorite|Emori|Amorite⟧ before them,
 whose height was like the height of the cedars,
 and who was as strong as the oaks;
 I destroyed his fruit above
 and his roots beneath.
 
-[10] Also it was I who brought you up out of the land of Egypt
+[10] Also it was I who brought you up out of the land of ⟦egypt|Mitzrayim|Egypt⟧
 and led you forty years in the wilderness,
-to possess the land of the Amorite.
+to possess the land of the ⟦amorite|Emori|Amorite⟧.
 
 [11] And I raised up some of your sons for prophets,
-and some of your young men for Nazirites.
-Is it not indeed so, O people of Israel?"
-declares Yahweh.
+and some of your young men for ⟦nazirites|Nezirim|Nazirites⟧.
+Is it not indeed so, O people of ⟦israel|Yisrael|Israel⟧?"
+declares ⟦yhwh|Yahweh|the LORD⟧.
 
-[12] "But you made the Nazirites drink wine,
+[12] "But you made the ⟦nazirites|Nezirim|Nazirites⟧ drink wine,
 and commanded the prophets,
 saying, 'You shall not prophesy.'
 
@@ -77,7 +77,7 @@ nor shall he who rides the horse save his soul;
 
 [16] and he who is stout of heart among the mighty
 shall flee away naked in that day,"
-declares Yahweh.
+declares ⟦yhwh|Yahweh|the LORD⟧.
 
 ## Changes
 

@@ -10,9 +10,9 @@
 
 [5] Když bude vinen v kterékoli z těchto věcí, vyzná hřích, kterého se dopustil.
 
-[6] A přivede Yahweh jako svou pokutu za hřích, kterého se dopustil, samici z bravu, ovci nebo kůzle, jako oběť za hřích; a kněz za něj vykoná smíření kvůli jeho hříchu.
+[6] A přivede ⟦yhwh|Jahvovi|Hospodinu⟧ jako svou pokutu za hřích, kterého se dopustil, samici z bravu, ovci nebo kůzle, jako oběť za hřích; a kněz za něj vykoná smíření kvůli jeho hříchu.
 
-[7] Nemá-li na ovci, přinese Yahweh jako svou pokutu za hřích, kterého se dopustil, dvě hrdličky nebo dvě holoubata – jedno jako oběť za hřích a druhé jako zápalnou oběť.
+[7] Nemá-li na ovci, přinese ⟦yhwh|Jahvovi|Hospodinu⟧ jako svou pokutu za hřích, kterého se dopustil, dvě hrdličky nebo dvě holoubata – jedno jako oběť za hřích a druhé jako zápalnou oběť.
 
 [8] Přinese je knězi, který nejprve obětuje to, které je k oběti za hřích; nehtem mu nalomí hlavu u šíje, ale neoddělí ji.
 
@@ -22,21 +22,21 @@
 
 [11] Nemá-li ani na dvě hrdličky nebo dvě holoubata, přinese jako svůj obětní dar za hřích, kterého se dopustil, desetinu éfy jemné mouky jako oběť za hřích. Nedá na ni olej ani na ni nepoloží kadidlo, neboť je to oběť za hřích.
 
-[12] Přinese ji knězi a kněz z ní vezme hrst jako její připomínkovou část a obrátí ji v dým na oltáři navrch ohnivých obětí pro Yahweh. Je to oběť za hřích.
+[12] Přinese ji knězi a kněz z ní vezme hrst jako její připomínkovou část a obrátí ji v dým na oltáři navrch ohnivých obětí pro ⟦yhwh|Jahveho|Hospodina⟧. Je to oběť za hřích.
 
 [13] Tak za něj kněz vykoná smíření za hřích, kterého se dopustil v kterékoli z těchto věcí, a bude mu odpuštěno. Zbytek bude patřit knězi jako u obilné oběti.“
 
-[14] Yahweh promluvil k Mosesovi:
+[14] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[15] „Když se někdo dopustí zpronevěry a zhřeší neúmyslně na některé ze svatých věcí Yahweh, přivede Yahweh jako svou oběť za vinu berana bez vady z bravu, oceněného ve stříbrných šekelech podle šekelu svatyně, jako oběť za vinu.
+[15] „Když se někdo dopustí zpronevěry a zhřeší neúmyslně na některé ze svatých věcí ⟦yhwh|Jahveho|Hospodina⟧, přivede ⟦yhwh|Jahvovi|Hospodinu⟧ jako svou oběť za vinu berana bez vady z bravu, oceněného ve stříbrných šekelech podle šekelu svatyně, jako oběť za vinu.
 
 [16] Nahradí to, čím zhřešil na svaté věci, přidá k tomu pětinu a dá to knězi. A kněz za něj vykoná smíření beranem oběti za vinu a bude mu odpuštěno.
 
-[17] Když někdo zhřeší tím, že udělá něco z toho, co Yahweh přikázal nedělat, i když o tom nevěděl, přesto je vinen a ponese svou vinu.
+[17] Když někdo zhřeší tím, že udělá něco z toho, co ⟦yhwh|Jahve|Hospodin⟧ přikázal nedělat, i když o tom nevěděl, přesto je vinen a ponese svou vinu.
 
 [18] Přivede knězi berana bez vady z bravu podle tvého ocenění jako oběť za vinu. A kněz za něj vykoná smíření kvůli nechtěnému pochybení, kterého se dopustil, aniž o tom věděl, a bude mu odpuštěno.
 
-[19] Je to oběť za vinu; opravdu se provinil před Yahweh.“
+[19] Je to oběť za vinu; opravdu se provinil před ⟦yhwh|Jahvem|Hospodinem⟧.“
 
 ## Změny
 

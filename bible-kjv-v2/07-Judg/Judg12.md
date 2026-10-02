@@ -1,34 +1,34 @@
 # Judges 12
 
-[1] The men of Ephraim were called out; they crossed over to Zaphon and said to Jephthah, "Why did you cross over to fight against the children of Ammon without calling us to go with you? We will burn your house down over you with fire."
+[1] The men of ⟦ephraim|Efrayim|Ephraim⟧ were called out; they crossed over to ⟦zaphon|Tzafon|Zaphon⟧ and said to ⟦jephthah|Yiftach|Jephthah⟧, "Why did you cross over to fight against the children of Ammon without calling us to go with you? We will burn your house down over you with fire."
 
-[2] Jephthah said to them, "I and my people were in a great quarrel with the children of Ammon; when I called you, you did not deliver me out of their hand.
+[2] ⟦jephthah|Yiftach|Jephthah⟧ said to them, "I and my people were in a great quarrel with the children of Ammon; when I called you, you did not deliver me out of their hand.
 
-[3] When I saw that you would not deliver me, I took my life in my own hands and crossed over against the children of Ammon, and Yahweh gave them into my hand. Why then have you come up to me this day to fight against me?"
+[3] When I saw that you would not deliver me, I took my life in my own hands and crossed over against the children of Ammon, and ⟦yhwh|Yahweh|the LORD⟧ gave them into my hand. Why then have you come up to me this day to fight against me?"
 
-[4] Then Jephthah gathered all the men of Gilead and fought with Ephraim; the men of Gilead struck Ephraim, because they said, "You Gileadites are fugitives from Ephraim — you are in the midst of Ephraim and Manasseh."
+[4] Then ⟦jephthah|Yiftach|Jephthah⟧ gathered all the men of ⟦gilead|Gilad|Gilead⟧ and fought with ⟦ephraim|Efrayim|Ephraim⟧; the men of ⟦gilead|Gilad|Gilead⟧ struck ⟦ephraim|Efrayim|Ephraim⟧, because they said, "⟦gilead|You of Gilad|You Gileadites⟧ are fugitives from ⟦ephraim|Efrayim|Ephraim⟧ — you are in the midst of ⟦ephraim|Efrayim|Ephraim⟧ and ⟦manasseh|Menashe|Manasseh⟧."
 
-[5] The Gileadites took the fords of the Jordan against the Ephraimites; and when any of the fugitives of Ephraim said, "Let me cross over," the men of Gilead said to him, "Are you an Ephraimite?" If he said, "No,"
+[5] ⟦gilead|Gilad|The Gileadites⟧ took the fords of the ⟦jordan|Yarden|Jordan⟧ against ⟦ephraim|Efrayim|the Ephraimites⟧; and when any of the fugitives of ⟦ephraim|Efrayim|Ephraim⟧ said, "Let me cross over," the men of ⟦gilead|Gilad|Gilead⟧ said to him, "Are you ⟦ephraimite|an Efrati|an Ephraimite⟧?" If he said, "No,"
 
-[6] they said to him, "Say now, 'Shibboleth.'" And he said, "Sibboleth," for he could not pronounce it correctly. Then they took him and killed him at the fords of the Jordan. At that time 42,000 of the Ephraimites fell.
+[6] they said to him, "Say now, '⟦shibboleth|Shibbolet|Shibboleth⟧.'" And he said, "⟦sibboleth|Sibbolet|Sibboleth⟧," for he could not pronounce it correctly. Then they took him and killed him at the fords of the ⟦jordan|Yarden|Jordan⟧. At that time 42,000 of ⟦ephraim|Efrayim|the Ephraimites⟧ fell.
 
-[7] Jephthah judged Israel six years. Then Jephthah the Gileadite died and was buried in one of the cities of Gilead.
+[7] ⟦jephthah|Yiftach|Jephthah⟧ judged ⟦israel|Yisrael|Israel⟧ six years. Then ⟦jephthah|Yiftach|Jephthah⟧ the ⟦gileadite|Giladi|Gileadite⟧ died and was buried in one of the cities of ⟦gilead|Gilad|Gilead⟧.
 
-[8] After him Ibzan of Bethlehem judged Israel.
+[8] After him ⟦ibzan|Ivtzan|Ibzan⟧ of ⟦bethlehem|Beit Lechem|Bethlehem⟧ judged ⟦israel|Yisrael|Israel⟧.
 
-[9] He had thirty sons; and thirty daughters he gave in marriage outside his clan, and thirty daughters from outside he brought in for his sons. He judged Israel seven years.
+[9] He had thirty sons; and thirty daughters he gave in marriage outside his clan, and thirty daughters from outside he brought in for his sons. He judged ⟦israel|Yisrael|Israel⟧ seven years.
 
-[10] Then Ibzan died and was buried at Bethlehem.
+[10] Then ⟦ibzan|Ivtzan|Ibzan⟧ died and was buried at ⟦bethlehem|Beit Lechem|Bethlehem⟧.
 
-[11] After him Elon the Zebulunite judged Israel; he judged Israel ten years.
+[11] After him Elon the ⟦zebulunite|Zevuloni|Zebulunite⟧ judged ⟦israel|Yisrael|Israel⟧; he judged ⟦israel|Yisrael|Israel⟧ ten years.
 
-[12] Then Elon the Zebulunite died and was buried at Aijalon in the land of Zebulun.
+[12] Then Elon the ⟦zebulunite|Zevuloni|Zebulunite⟧ died and was buried at ⟦aijalon|Ayyalon|Aijalon⟧ in the land of ⟦zebulun|Zevulun|Zebulun⟧.
 
-[13] After him Abdon son of Hillel the Pirathonite judged Israel.
+[13] After him ⟦abdon|Avdon|Abdon⟧ son of Hillel the ⟦pirathonite|Piratoni|Pirathonite⟧ judged ⟦israel|Yisrael|Israel⟧.
 
-[14] He had forty sons and thirty grandsons, who rode on seventy donkeys. He judged Israel eight years.
+[14] He had forty sons and thirty grandsons, who rode on seventy donkeys. He judged ⟦israel|Yisrael|Israel⟧ eight years.
 
-[15] Then Abdon son of Hillel the Pirathonite died and was buried at Pirathon in the land of Ephraim, in the hill country of the Amalekites.
+[15] Then ⟦abdon|Avdon|Abdon⟧ son of Hillel the ⟦pirathonite|Piratoni|Pirathonite⟧ died and was buried at ⟦pirathon|Piraton|Pirathon⟧ in the land of ⟦ephraim|Efrayim|Ephraim⟧, in the hill country of the ⟦amalekites|Amaleqim|Amalekites⟧.
 
 ## Changes
 

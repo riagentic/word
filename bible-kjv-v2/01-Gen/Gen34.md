@@ -1,20 +1,20 @@
 # Genesis 34
 
-[1] Dinah, the daughter of Leah whom she had borne to Jacob, went out to see the daughters of the land.
+[1] Dinah, the daughter of Leah whom she had borne to ⟦jacob|Yaaqov|Jacob⟧, went out to see the daughters of the land.
 
-[2] When Shechem son of Hamor the Hivite, prince of the land, saw her, he seized her and lay with her and violated her.
+[2] When Shechem son of ⟦hamor|Chamor|Hamor⟧ the ⟦hivite|Chivvi|Hivite⟧, prince of the land, saw her, he seized her and lay with her and violated her.
 
-[3] And his soul was drawn to Dinah the daughter of Jacob, and he loved the young woman, and spoke to the heart of the young woman.
+[3] And his soul was drawn to Dinah the daughter of ⟦jacob|Yaaqov|Jacob⟧, and he loved the young woman, and spoke to the heart of the young woman.
 
-[4] Shechem spoke to his father Hamor, saying, "Get me this girl as a wife."
+[4] Shechem spoke to his father ⟦hamor|Chamor|Hamor⟧, saying, "Get me this girl as a wife."
 
-[5] Jacob heard that he had defiled Dinah his daughter; but his sons were with his livestock in the field, so Jacob kept silent until they came home.
+[5] ⟦jacob|Yaaqov|Jacob⟧ heard that he had defiled Dinah his daughter; but his sons were with his livestock in the field, so ⟦jacob|Yaaqov|Jacob⟧ kept silent until they came home.
 
-[6] Hamor, Shechem's father, went out to Jacob to speak with him.
+[6] ⟦hamor|Chamor|Hamor⟧, Shechem's father, went out to ⟦jacob|Yaaqov|Jacob⟧ to speak with him.
 
-[7] The sons of Jacob had come in from the field when they heard of it; and the men were pained and very angry, because he had done an outrageous thing in Israel by lying with Jacob's daughter — a thing that ought not to be done.
+[7] The sons of ⟦jacob|Yaaqov|Jacob⟧ had come in from the field when they heard of it; and the men were pained and very angry, because he had done an outrageous thing in ⟦israel|Yisrael|Israel⟧ by lying with ⟦jacob|Yaaqov|Jacob⟧'s daughter — a thing that ought not to be done.
 
-[8] Hamor spoke with them, saying, "The soul of my son Shechem longs for your daughter; please give her to him as a wife.
+[8] ⟦hamor|Chamor|Hamor⟧ spoke with them, saying, "The soul of my son Shechem longs for your daughter; please give her to him as a wife.
 
 [9] Intermarry with us — give your daughters to us, and take our daughters for yourselves.
 
@@ -24,7 +24,7 @@
 
 [12] Make the bride-price and the gift as high as you like; I will give whatever you demand of me. Only give me the girl as a wife."
 
-[13] The sons of Jacob answered Shechem and Hamor his father with deceit, because he had defiled Dinah their sister,
+[13] The sons of ⟦jacob|Yaaqov|Jacob⟧ answered Shechem and ⟦hamor|Chamor|Hamor⟧ his father with deceit, because he had defiled Dinah their sister,
 
 [14] and said to them, "We cannot do this thing — to give our sister to a man who is uncircumcised, for that would be a disgrace to us.
 
@@ -34,11 +34,11 @@
 
 [17] But if you will not listen to us about being circumcised, then we will take our daughter and go."
 
-[18] Their words pleased Hamor and Shechem son of Hamor.
+[18] Their words pleased ⟦hamor|Chamor|Hamor⟧ and Shechem son of ⟦hamor|Chamor|Hamor⟧.
 
-[19] And the young man did not delay to do the thing, because he delighted in Jacob's daughter. Now he was the most honored of all his father's household.
+[19] And the young man did not delay to do the thing, because he delighted in ⟦jacob|Yaaqov|Jacob⟧'s daughter. Now he was the most honored of all his father's household.
 
-[20] So Hamor and Shechem his son came to the gate of their city, and spoke to the men of their city, saying,
+[20] So ⟦hamor|Chamor|Hamor⟧ and Shechem his son came to the gate of their city, and spoke to the men of their city, saying,
 
 [21] "These men are at peace with us; let them dwell in the land and trade in it, for the land is wide enough for them. Let us take their daughters for ourselves as wives, and let us give them our daughters.
 
@@ -46,19 +46,19 @@
 
 [23] Will not their livestock, their property, and all their animals be ours? Only let us consent to them, and they will dwell with us."
 
-[24] All who went out of the gate of his city listened to Hamor and to Shechem his son; and every male was circumcised, all who went out of the gate of his city.
+[24] All who went out of the gate of his city listened to ⟦hamor|Chamor|Hamor⟧ and to Shechem his son; and every male was circumcised, all who went out of the gate of his city.
 
-[25] On the third day, when they were in pain, two of the sons of Jacob, Simeon and Levi, the brothers of Dinah, each took his sword and came against the unsuspecting city, and killed every male.
+[25] On the third day, when they were in pain, two of the sons of ⟦jacob|Yaaqov|Jacob⟧, ⟦simeon|Shimon|Simeon⟧ and Levi, the brothers of Dinah, each took his sword and came against the unsuspecting city, and killed every male.
 
-[26] They killed Hamor and Shechem his son with the edge of the sword, and took Dinah out of Shechem's house, and went away.
+[26] They killed ⟦hamor|Chamor|Hamor⟧ and Shechem his son with the edge of the sword, and took Dinah out of Shechem's house, and went away.
 
-[27] The sons of Jacob came upon the slain and plundered the city, because they had defiled their sister.
+[27] The sons of ⟦jacob|Yaaqov|Jacob⟧ came upon the slain and plundered the city, because they had defiled their sister.
 
 [28] They took their flocks, their herds, their donkeys — whatever was in the city and whatever was in the field.
 
 [29] All their wealth, all their little ones, and their wives they took captive, and plundered everything that was in the houses.
 
-[30] Then Jacob said to Simeon and Levi, "You have brought trouble on me, making me odious among the inhabitants of the land, among the Canaanites and the Perizzites. My men are few in number; they will gather against me and strike me, and I will be destroyed, I and my household."
+[30] Then ⟦jacob|Yaaqov|Jacob⟧ said to ⟦simeon|Shimon|Simeon⟧ and Levi, "You have brought trouble on me, making me odious among the inhabitants of the land, among the ⟦canaanites|Kenaanim|Canaanites⟧ and the ⟦perizzites|Perizzim|Perizzites⟧. My men are few in number; they will gather against me and strike me, and I will be destroyed, I and my household."
 
 [31] But they said, "Should he treat our sister like a prostitute?"
 

@@ -2,11 +2,11 @@
 
 [1] Then he commanded the steward of his house, saying, "Fill the men's sacks with food, as much as they can carry, and put each man's silver in the mouth of his sack.
 
-[2] And put my cup, the silver cup, in the mouth of the sack of the youngest, along with his grain money." And he did as Joseph told him.
+[2] And put my cup, the silver cup, in the mouth of the sack of the youngest, along with his grain money." And he did as ⟦joseph|Yosef|Joseph⟧ told him.
 
 [3] As soon as the morning was light, the men were sent away, they and their donkeys.
 
-[4] When they had gone out of the city and were not yet far off, Joseph said to his steward, "Up, follow the men; and when you overtake them, say to them, 'Why have you repaid evil for good?
+[4] When they had gone out of the city and were not yet far off, ⟦joseph|Yosef|Joseph⟧ said to his steward, "Up, follow the men; and when you overtake them, say to them, 'Why have you repaid evil for good?
 
 [5] Is it not from this that my lord drinks, and by which he indeed divines? You have done evil in what you did.'"
 
@@ -14,7 +14,7 @@
 
 [7] They said to him, "Why does my lord speak such words as these? Far be it from your servants to do such a thing!
 
-[8] Behold, the silver that we found in the mouth of our sacks, we brought back to you from the land of Canaan. How then should we steal silver or gold from your lord's house?
+[8] Behold, the silver that we found in the mouth of our sacks, we brought back to you from the land of ⟦canaan|Kenaan|Canaan⟧. How then should we steal silver or gold from your lord's house?
 
 [9] With whomever of your servants it is found, let him die; and we also will be slaves to my lord."
 
@@ -22,19 +22,19 @@
 
 [11] Then each man quickly lowered his sack to the ground, and each man opened his sack.
 
-[12] He searched, beginning with the eldest and ending with the youngest; and the cup was found in Benjamin's sack.
+[12] He searched, beginning with the eldest and ending with the youngest; and the cup was found in ⟦benjamin|Binyamin|Benjamin⟧'s sack.
 
 [13] Then they tore their garments, and each man loaded his donkey and returned to the city.
 
-[14] When Judah and his brothers came to Joseph's house, he was still there; and they fell before him on the ground.
+[14] When ⟦judah|Yehudah|Judah⟧ and his brothers came to ⟦joseph|Yosef|Joseph⟧'s house, he was still there; and they fell before him on the ground.
 
-[15] Joseph said to them, "What deed is this that you have done? Do you not know that such a man as I can surely divine?"
+[15] ⟦joseph|Yosef|Joseph⟧ said to them, "What deed is this that you have done? Do you not know that such a man as I can surely divine?"
 
-[16] Judah said, "What shall we say to my lord? What shall we speak? How shall we justify ourselves? *Elohim* has found out the iniquity of your servants. Behold, we are my lord's slaves, both we and he in whose hand the cup was found."
+[16] ⟦judah|Yehudah|Judah⟧ said, "What shall we say to my lord? What shall we speak? How shall we justify ourselves? ⟦elohim|Elohim|God⟧ has found out the iniquity of your servants. Behold, we are my lord's slaves, both we and he in whose hand the cup was found."
 
 [17] But he said, "Far be it from me to do so! The man in whose hand the cup was found, he shall be my slave; and as for you, go up in peace to your father."
 
-[18] Then Judah came near to him and said, "Oh, my lord, please let your servant speak a word in my lord's ears, and let not your anger burn against your servant, for you are just like Pharaoh.
+[18] Then ⟦judah|Yehudah|Judah⟧ came near to him and said, "Oh, my lord, please let your servant speak a word in my lord's ears, and let not your anger burn against your servant, for you are just like ⟦pharaoh|Paroh|Pharaoh⟧.
 
 [19] My lord asked his servants, saying, 'Have you a father or a brother?'
 

@@ -1,11 +1,11 @@
 # Jób 40
 
-[1] Yahweh řekl Jobovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦job|Ijovovi|Jóbovi⟧:
 
-[2] „Bude se kverulant přít se Shaddaiem?
-Kdo se hádá s Eloah, ať na to odpoví.“
+[2] „Bude se kverulant přít se ⟦shaddai|Šaddajem|Všemohoucím⟧?
+Kdo se hádá s ⟦eloah|Eloah|Bohem⟧, ať na to odpoví.“
 
-[3] Tu Job Yahweh odpověděl a řekl:
+[3] Tu ⟦job|Ijov|Jób⟧ ⟦yhwh|Jahvovi|Hospodinu⟧ odpověděl a řekl:
 
 [4] „Hle, jsem nepatrný;
 co bych ti odpověděl?
@@ -14,7 +14,7 @@ Kladu si ruku na ústa.
 [5] Jednou jsem promluvil, a už nebudu odpovídat;
 dvakrát, ale dál už nebudu pokračovat.“
 
-[6] Tu Yahweh odpověděl Jobovi z vichřice a řekl:
+[6] Tu ⟦yhwh|Jahve|Hospodin⟧ odpověděl ⟦job|Ijovovi|Jóbovi⟧ z vichřice a řekl:
 
 [7] „Opaš si bedra jako muž;
 budu se tě ptát, a ty mi to vysvětlíš.
@@ -22,7 +22,7 @@ budu se tě ptát, a ty mi to vysvětlíš.
 [8] Chceš dokonce zrušit mé právo?
 Chceš mě odsoudit, abys byl ospravedlněn?
 
-[9] Máš paži jako *Elohim*
+[9] Máš paži jako ⟦el|El|Bůh⟧
 a dokážeš hřmít hlasem jako on?
 
 [10] Ozdob se velebností a důstojností;
@@ -40,7 +40,7 @@ spoutej jejich tváře ve skrytu.
 [14] Pak i já ti přiznám,
 že tě může zachránit tvá vlastní pravice.
 
-[15] Hle, Behemoth, kterého jsem učinil spolu s tebou;
+[15] Hle, ⟦behemoth|Behemot|behemót⟧, kterého jsem učinil spolu s tebou;
 žere trávu jako vůl.
 
 [16] Hle, jeho síla je v jeho bedrech,
@@ -52,7 +52,7 @@ jeho moc ve svalech jeho břicha.
 [18] Jeho kosti jsou bronzové trubice,
 jeho údy jako železné pruty.
 
-[19] Je prvním z cest *Elohim*;
+[19] Je prvním z cest ⟦el|El|Božích⟧;
 ať se k němu jeho Stvořitel přiblíží se svým mečem!
 
 [20] Hory mu dávají potravu,
@@ -65,7 +65,7 @@ v úkrytu rákosí a bažiny.
 vrby potoka ho obklopují.
 
 [23] Hle, rozvodní-li se řeka, nevyleká se;
-je klidný, i když se mu Jordan valí proti tlamě.
+je klidný, i když se mu ⟦jordan|Jarden|Jordán⟧ valí proti tlamě.
 
 [24] Může ho někdo chytit, když je ve střehu,
 nebo mu probodnout nos osidlem?“
@@ -73,6 +73,7 @@ nebo mu probodnout nos osidlem?“
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – tetragram zachován.
+- **"God" → „El“** (v9, 19) – hebrejsky אֵל *El*, ne *Elohim*.
 - **"vile" → „nepatrný“** (v4) – *qalloti*; „jsem lehký/bezvýznamný“.
 - **Zvířata kategorie „unicorn“ – zde nové**: ***Behemoth*** (v15) – ponecháno; hebrejský zesilující plurál od *behemah*; velké zvíře. Obvykle ztotožňován s hrochem (lotosové prostředí, klid v řece), občas s mytologickou nestvůrou chaosu.
 - **"brass" → „bronzové“** (v18).

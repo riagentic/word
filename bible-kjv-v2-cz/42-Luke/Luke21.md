@@ -1,6 +1,6 @@
 # Lukáš 21
 
-[1] *Yeshua* vzhlédl a uviděl bohaté, jak vhazují své dary do pokladnice,
+[1] ⟦yeshua|Ješua|Ježíš⟧ vzhlédl a uviděl bohaté, jak vhazují své dary do pokladnice,
 
 [2] a uviděl i jednu chudou vdovu, jak tam vhodila dvě drobné měděné mince.
 
@@ -38,15 +38,15 @@
 
 [19] **Svou vytrvalostí získáte své životy.**
 
-[20] „Když však uvidíte Jerusalem obklíčený vojsky, tehdy vězte, že se přiblížilo jeho zpustošení.
+[20] „Když však uvidíte ⟦jerusalem|Jerušalajim|Jeruzalém⟧ obklíčený vojsky, tehdy vězte, že se přiblížilo jeho zpustošení.
 
-[21] Tehdy ti, kdo budou v Judeji, ať utečou do hor, ti, kdo budou uvnitř města, ať z něho odejdou, a ti, kdo budou venku na polích, ať do něho nevcházejí,
+[21] Tehdy ti, kdo budou v ⟦judea|Jehudě|Judsku⟧, ať utečou do hor, ti, kdo budou uvnitř města, ať z něho odejdou, a ti, kdo budou venku na polích, ať do něho nevcházejí,
 
 [22] neboť to jsou dny odplaty, aby se naplnilo všechno, co je psáno.
 
 [23] Běda těhotným a kojícím v těch dnech! Neboť na zemi bude veliká tíseň a hněv na tento lid.
 
-[24] Padnou ostřím meče a budou odvlečeni do zajetí mezi všechny národy a Jerusalem bude pošlapán pohany, dokud se nenaplní časy pohanů.
+[24] Padnou ostřím meče a budou odvlečeni do zajetí mezi všechny národy a ⟦jerusalem|Jerušalajim|Jeruzalém⟧ bude pošlapán pohany, dokud se nenaplní časy pohanů.
 
 [25] „A budou znamení na slunci, měsíci a hvězdách a na zemi úzkost národů bezradných pro hukot moře a vln,
 
@@ -60,7 +60,7 @@
 
 [30] Jakmile vyraší listí, sami vidíte a poznáváte, že léto je již blízko.
 
-[31] Tak i vy, když uvidíte, že se to děje, poznáte, že království *Elohim* je blízko.
+[31] Tak i vy, když uvidíte, že se to děje, poznáte, že království ⟦elohim|Elohim|Boží⟧ je blízko.
 
 [32] Vpravdě vám pravím, že toto pokolení nepomine, dokud se všechno nestane.
 
@@ -72,7 +72,7 @@
 
 [36] Bděte však v každé době a modlete se, abyste měli sílu uniknout všemu, co se má stát, a obstát před Synem člověka.“
 
-[37] Každý den učil v chrámě, ale na noc vycházel a přenocovával na hoře zvané Olivet.
+[37] Každý den učil v chrámě, ale na noc vycházel a přenocovával na hoře zvané ⟦mount-of-olives|HaZejtim|Olivová⟧.
 
 [38] A všechen lid k němu časně ráno přicházel do chrámu, aby ho slyšel.
 

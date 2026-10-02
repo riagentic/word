@@ -1,14 +1,14 @@
 # Hebrews 1
 
-[1] Long ago, at many times and in many ways, *Elohim* spoke to our fathers by the prophets,
+[1] Long ago, at many times and in many ways, ⟦elohim|Elohim|God⟧ spoke to our fathers by the prophets,
 
 [2] but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world.
 
-[3] He is the radiance of the glory of *Elohim* and the exact imprint of his nature, and he upholds the universe by the word of his power. After making purification for sins, he sat down at the right hand of the Majesty on high,
+[3] He is the radiance of the glory of ⟦elohim|Elohim|God⟧ and the exact imprint of his nature, and he upholds the universe by the word of his power. After making purification for sins, he sat down at the right hand of the Majesty on high,
 
 [4] having become as much superior to angels as the name he has inherited is more excellent than theirs.
 
-[5] For to which of the angels did *Elohim* ever say,
+[5] For to which of the angels did ⟦elohim|Elohim|God⟧ ever say,
 
 "**You are my Son,
 today I have begotten you**"?
@@ -20,7 +20,7 @@ and he shall be to me a son**"?
 
 [6] And again, when he brings the firstborn into the world, he says,
 
-"**Let all *Elohim*'s angels worship him**."
+"**Let all ⟦elohim|Elohim's|God's⟧ angels worship him**."
 
 [7] Of the angels he says,
 
@@ -29,10 +29,10 @@ and his ministers a flame of fire**."
 
 [8] But of the Son he says,
 
-"**Your throne, O *Elohim*, is forever and ever,
+"**Your throne, O ⟦elohim|Elohim|God⟧, is forever and ever,
 the scepter of uprightness is the scepter of your kingdom.
 [9] You have loved righteousness and hated wickedness;
-therefore *Elohim*, your *Elohim*, has anointed you
+therefore ⟦elohim|Elohim|God⟧, your ⟦elohim|Elohim|God⟧, has anointed you
 with the oil of gladness beyond your companions**."
 
 [10] And,

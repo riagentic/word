@@ -1,6 +1,6 @@
 # Izajáš 50
 
-[1] Takto praví Yahweh:
+[1] Takto praví ⟦yhwh|Jahve|Hospodin⟧:
 
 „Kde je rozlukový list vaší matky,
 s nímž jsem ji propustil?
@@ -21,7 +21,7 @@ a umírají žízní.
 [3] Oblékám nebesa do černoty
 a žíněnou látku činím jejich přikrývkou.“
 
-[4] Pán Yahweh mi dal
+[4] ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ mi dal
 jazyk učedníků,
 abych dovedl slovem podepřít
 toho, kdo je unavený.
@@ -29,7 +29,7 @@ Jitro co jitro probouzí;
 probouzí mé ucho,
 abych slyšel jako učedníci.
 
-[5] Pán Yahweh mi otevřel ucho
+[5] ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ mi otevřel ucho
 a já jsem se nevzpíral;
 necouvl jsem zpět.
 
@@ -38,7 +38,7 @@ a své tváře těm, kdo rvou vousy;
 neskryl jsem svou tvář
 před potupou a plivanci.
 
-[7] Ale Pán Yahweh mi pomáhá;
+[7] Ale ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ mi pomáhá;
 proto jsem nebyl zhanoben;
 proto jsem učinil svou tvář jako křemen
 a vím, že nebudu zahanben.
@@ -49,17 +49,17 @@ Postavme se spolu.
 Kdo je můj protivník?
 Ať přistoupí ke mně.
 
-[9] Hle, Pán Yahweh mi pomáhá;
+[9] Hle, ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ mi pomáhá;
 kdo mě prohlásí vinným?
 Hle, všichni zvetší jako oděv;
 mol je sežere.
 
-[10] Kdo z vás se bojí Yahweh
+[10] Kdo z vás se bojí ⟦yhwh|Jahveho|Hospodina⟧
 a poslouchá hlas jeho služebníka?
 Ten, kdo chodí ve tmě
 a nemá světlo,
-ať doufá ve jméno Yahweh
-a spoléhá na svého *Elohim*.
+ať doufá ve jméno ⟦yhwh|Jahveho|Hospodina⟧
+a spoléhá na svého ⟦elohim|Elohim|Boha⟧.
 
 [11] Hle, všichni vy, kdo zapalujete oheň,
 kdo se vyzbrojujete hořícími pochodněmi!

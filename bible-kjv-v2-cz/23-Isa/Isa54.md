@@ -4,7 +4,7 @@
 propukni v zpěv a hlasitě volej,
 ty, která jsi nezakusila porodní bolesti!
 Neboť synů opuštěné bude více
-než synů té, která je vdaná,“ praví Yahweh.
+než synů té, která je vdaná,“ praví ⟦yhwh|Jahve|Hospodin⟧.
 
 [2] „Rozšiř místo svého stanu
 a ať se roztáhnou houně tvých příbytků;
@@ -21,14 +21,14 @@ vždyť zapomeneš na hanbu svého mládí
 a na potupu svého vdovství už nevzpomeneš.
 
 [5] Neboť tvůj Stvořitel je tvým manželem,
-Yahweh zástupů je jeho jméno;
-a Svatý Israele je tvým Vykupitelem,
-nazývá se *Elohim* celé země.
+⟦yhwh|Jahve|Hospodin⟧ zástupů je jeho jméno;
+a Svatý ⟦israel|Jisraele|Izraele⟧ je tvým Vykupitelem,
+nazývá se ⟦elohim|Elohim|Bůh⟧ celé země.
 
-[6] Neboť Yahweh tě povolal
+[6] Neboť ⟦yhwh|Jahve|Hospodin⟧ tě povolal
 jako ženu opuštěnou a zarmoucenou v duchu,
 jako ženu mládí, když je zapuzena,
-praví tvůj *Elohim*.
+praví tvůj ⟦elohim|Elohim|Bůh⟧.
 
 [7] Na krátkou chvíli jsem tě opustil,
 ale s velikým slitováním tě shromáždím.
@@ -37,10 +37,10 @@ ale s velikým slitováním tě shromáždím.
 skryl svou tvář před tebou,
 ale s věčnou věrnou láskou
 se nad tebou slituji,“
-praví Yahweh, tvůj Vykupitel.
+praví ⟦yhwh|Jahve|Hospodin⟧, tvůj Vykupitel.
 
-[9] „To je pro mě jako za dnů Noaha:
-jako jsem přísahal, že vody Noaha
+[9] „To je pro mě jako za dnů ⟦noah|Noacha|Noeho⟧:
+jako jsem přísahal, že vody ⟦noah|Noacha|Noeho⟧
 už nikdy nepřejdou přes zemi,
 tak jsem přísahal, že se na tebe nebudu hněvat
 a nebudu tě kárat.
@@ -49,7 +49,7 @@ a nebudu tě kárat.
 a pahorky se pohnout,
 ale má věrná láska od tebe neustoupí
 a má smlouva pokoje se nepohne,“
-praví Yahweh, který se nad tebou slitovává.
+praví ⟦yhwh|Jahve|Hospodin⟧, který se nad tebou slitovává.
 
 [11] „Ty ubohá, zmítaná bouří a neutěšená,
 hle, zasadím tvé kameny do antimonu
@@ -59,7 +59,7 @@ a tvé základy položím ze safírů.
 tvé brány z karbunklů
 a všechny tvé hradby z drahých kamenů.
 
-[13] Všichni tvoji synové budou vyučeni od Yahweh
+[13] Všichni tvoji synové budou vyučeni od ⟦yhwh|Jahveho|Hospodina⟧
 a veliký bude pokoj tvých synů.
 
 [14] Ve spravedlnosti budeš upevněna;
@@ -79,8 +79,8 @@ Já jsem také stvořil ničitele, aby hubil;
 
 [17] žádná zbraň ukovaná proti tobě neuspěje
 a každý jazyk, který proti tobě povstane k soudu, usvědčíš.
-To je dědictví služebníků Yahweh
-a jejich spravedlnost ode mne, je výrok Yahweh.“
+To je dědictví služebníků ⟦yhwh|Jahveho|Hospodina⟧
+a jejich spravedlnost ode mne, je výrok ⟦yhwh|Jahve|Hospodin⟧.“
 
 ## Změny
 

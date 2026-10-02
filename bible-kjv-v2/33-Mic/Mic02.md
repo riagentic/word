@@ -10,7 +10,7 @@ and houses, and take them away;
 they oppress a man and his house,
 a man and his inheritance.
 
-[3] Therefore thus says Yahweh:
+[3] Therefore thus says ⟦yhwh|Yahweh|the LORD⟧:
 
 "Behold, against this family I am devising disaster,
 from which you cannot remove your necks,
@@ -25,14 +25,14 @@ how he removes it from me!
 To an apostate he allots our fields.'
 
 [5] Therefore you will have none to cast the line by lot
-in the assembly of Yahweh.
+in the assembly of ⟦yhwh|Yahweh|the LORD⟧.
 
 [6] "Do not preach" — thus they preach —
 "one should not preach of such things;
 disgrace will not overtake us."
 
-[7] Should this be said, O house of Jacob?
-Has Yahweh grown impatient?
+[7] Should this be said, O house of ⟦jacob|Yaaqov|Jacob⟧?
+Has ⟦yhwh|Yahweh|the LORD⟧ grown impatient?
 Are these his deeds?
 Do not my words do good
 to him who walks uprightly?
@@ -55,8 +55,8 @@ with a grievous destruction.
 saying, "I will preach to you of wine and strong drink,"
 he would be the preacher for this people!
 
-[12] I will surely assemble all of you, O Jacob;
-I will gather the remnant of Israel;
+[12] I will surely assemble all of you, O ⟦jacob|Yaaqov|Jacob⟧;
+I will gather the remnant of ⟦israel|Yisrael|Israel⟧;
 I will set them together like sheep in a fold,
 like a flock in its pasture,
 a noisy multitude of men.
@@ -65,7 +65,7 @@ a noisy multitude of men.
 they break through and pass the gate,
 going out by it.
 Their king passes on before them,
-Yahweh at their head.
+⟦yhwh|Yahweh|the LORD⟧ at their head.
 
 ## Changes
 

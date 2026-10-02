@@ -1,14 +1,14 @@
 # Deuteronomy 6
 
-[1] "Now this is the commandment — the statutes and the ordinances — that Yahweh your *Elohim* commanded to teach you, that you may do them in the land that you are crossing over to possess,
+[1] "Now this is the commandment — the statutes and the ordinances — that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ commanded to teach you, that you may do them in the land that you are crossing over to possess,
 
-[2] so that you may fear Yahweh your *Elohim*, to keep all his statutes and his commandments which I command you and your son and your son's son — all the days of your life, and that your days may be prolonged.
+[2] so that you may fear ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, to keep all his statutes and his commandments which I command you and your son and your son's son — all the days of your life, and that your days may be prolonged.
 
-[3] Hear, O Israel, and be careful to do them, that it may be well with you, and that you may multiply greatly, as Yahweh the *Elohim* of your fathers has promised you — a land flowing with milk and honey.
+[3] Hear, O ⟦israel|Yisrael|Israel⟧, and be careful to do them, that it may be well with you, and that you may multiply greatly, as ⟦yhwh|Yahweh|the LORD⟧ the ⟦elohim|Elohim|God⟧ of your fathers has promised you — a land flowing with milk and honey.
 
-[4] Hear, O Israel: Yahweh is our *Elohim*; Yahweh is one.
+[4] Hear, O ⟦israel|Yisrael|Israel⟧: ⟦yhwh|Yahweh|The LORD⟧ is our ⟦elohim|Elohim|God⟧; ⟦yhwh|Yahweh|the LORD⟧ is one.
 
-[5] You shall love Yahweh your *Elohim* with all your heart and with all your soul and with all your might.
+[5] You shall love ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ with all your heart and with all your soul and with all your might.
 
 [6] These words that I am commanding you today shall be on your heart.
 
@@ -18,42 +18,43 @@
 
 [9] You shall write them on the doorposts of your house and on your gates.
 
-[10] When Yahweh your *Elohim* brings you into the land that he swore to your fathers — to Abraham, to Isaac, and to Jacob — to give you: great and good cities that you did not build,
+[10] When ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ brings you into the land that he swore to your fathers — to ⟦abraham|Avraham|Abraham⟧, to ⟦isaac|Yitzchaq|Isaac⟧, and to ⟦jacob|Yaaqov|Jacob⟧ — to give you: great and good cities that you did not build,
 
 [11] and houses full of all good things that you did not fill, and hewn cisterns that you did not hew, vineyards and olive groves that you did not plant — and you eat and are full,
 
-[12] then watch yourself lest you forget Yahweh, who brought you out of the land of Egypt, out of the house of slavery.
+[12] then watch yourself lest you forget ⟦yhwh|Yahweh|the LORD⟧, who brought you out of the land of ⟦egypt|Mitzrayim|Egypt⟧, out of the house of slavery.
 
-[13] Yahweh your *Elohim* you shall fear, and him you shall serve, and by his name you shall swear.
+[13] ⟦yhwh|Yahweh|The LORD⟧ your ⟦elohim|Elohim|God⟧ you shall fear, and him you shall serve, and by his name you shall swear.
 
 [14] You shall not go after other gods, of the gods of the peoples who are all around you;
 
-[15] for Yahweh your *Elohim* in your midst is a jealous *Elohim* — lest the anger of Yahweh your *Elohim* be kindled against you and destroy you from the face of the earth.
+[15] for ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ in your midst is a jealous ⟦el|El|God⟧ — lest the anger of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ be kindled against you and destroy you from the face of the earth.
 
-[16] You shall not test Yahweh your *Elohim*, as you tested him at Massah.
+[16] You shall not test ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, as you tested him at Massah.
 
-[17] You shall diligently keep the commandments of Yahweh your *Elohim*, and his testimonies and his statutes that he has commanded you.
+[17] You shall diligently keep the commandments of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, and his testimonies and his statutes that he has commanded you.
 
-[18] You shall do what is right and good in the eyes of Yahweh, that it may be well with you, and that you may go in and possess the good land that Yahweh swore to give to your fathers,
+[18] You shall do what is right and good in the eyes of ⟦yhwh|Yahweh|the LORD⟧, that it may be well with you, and that you may go in and possess the good land that ⟦yhwh|Yahweh|the LORD⟧ swore to give to your fathers,
 
-[19] thrusting out all your enemies from before you, as Yahweh has spoken.
+[19] thrusting out all your enemies from before you, as ⟦yhwh|Yahweh|the LORD⟧ has spoken.
 
-[20] When your son asks you in time to come, 'What are the testimonies and the statutes and the ordinances that Yahweh our *Elohim* has commanded you?'
+[20] When your son asks you in time to come, 'What are the testimonies and the statutes and the ordinances that ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧ has commanded you?'
 
-[21] then you shall say to your son: 'We were slaves to Pharaoh in Egypt, and Yahweh brought us out of Egypt with a mighty hand.
+[21] then you shall say to your son: 'We were slaves to ⟦pharaoh|Paroh|Pharaoh⟧ in ⟦egypt|Mitzrayim|Egypt⟧, and ⟦yhwh|Yahweh|the LORD⟧ brought us out of ⟦egypt|Mitzrayim|Egypt⟧ with a mighty hand.
 
-[22] Yahweh showed great and grievous signs and wonders on Egypt, on Pharaoh and all his house, before our eyes.
+[22] ⟦yhwh|Yahweh|The LORD⟧ showed great and grievous signs and wonders on ⟦egypt|Mitzrayim|Egypt⟧, on ⟦pharaoh|Paroh|Pharaoh⟧ and all his house, before our eyes.
 
 [23] He brought us out from there, that he might bring us in and give us the land that he swore to our fathers.
 
-[24] Yahweh commanded us to do all these statutes, to fear Yahweh our *Elohim*, for our good always, that he might keep us alive, as it is this day.
+[24] ⟦yhwh|Yahweh|The LORD⟧ commanded us to do all these statutes, to fear ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧, for our good always, that he might keep us alive, as it is this day.
 
-[25] It will be righteousness for us if we are careful to do all this commandment before Yahweh our *Elohim*, as he has commanded us.'
+[25] It will be righteousness for us if we are careful to do all this commandment before ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧, as he has commanded us.'
 
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
+- **"a jealous God" → "a jealous El"** (v15) — Hebrew אֵל קַנָּא *El qanna*, as in 4:24.
 - **"Hear, O Israel: The Lord our God is one Lord" → "Hear, O Israel: Yahweh is our *Elohim*; Yahweh is one"** (v4) — the *Shema*. Hebrew שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד *Shema Yisrael YHWH Eloheinu YHWH echad*. Translation notoriously debated:
   - "Yahweh is our *Elohim*; Yahweh is one" — monotheistic reading
   - "Yahweh our *Elohim*, Yahweh is one" — oneness-of-Yahweh reading

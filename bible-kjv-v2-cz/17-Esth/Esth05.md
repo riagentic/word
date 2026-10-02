@@ -1,32 +1,32 @@
 # Ester 5
 
-[1] Třetího dne si Esther oblékla královský šat a postavila se na vnitřním nádvoří králova paláce naproti královské síni; král seděl na svém královském trůnu v královské síni čelem ke vchodu do síně.
+[1] Třetího dne si Ester oblékla královský šat a postavila se na vnitřním nádvoří králova paláce naproti královské síni; král seděl na svém královském trůnu v královské síni čelem ke vchodu do síně.
 
-[2] Když král uviděl královnu Esther stát na nádvoří, získala v jeho očích přízeň; král vztáhl k Esther zlaté žezlo, které měl v ruce, a Esther přistoupila a dotkla se hrotu žezla.
+[2] Když král uviděl královnu Ester stát na nádvoří, získala v jeho očích přízeň; král vztáhl k Ester zlaté žezlo, které měl v ruce, a Ester přistoupila a dotkla se hrotu žezla.
 
-[3] Tu jí král řekl: „Co je ti, královno Esther? Oč žádáš? Třeba i o polovinu království, bude ti to dáno.“
+[3] Tu jí král řekl: „Co je ti, královno Ester? Oč žádáš? Třeba i o polovinu království, bude ti to dáno.“
 
-[4] Esther odpověděla: „Líbí-li se to králi, ať král s Hamanem přijde dnes na hostinu, kterou jsem pro něho připravila.“
+[4] Ester odpověděla: „Líbí-li se to králi, ať král s Hamanem přijde dnes na hostinu, kterou jsem pro něho připravila.“
 
-[5] Tu král řekl: „Přiveďte rychle Hamana, abychom učinili, co řekla Esther.“ Král a Haman tedy přišli na hostinu, kterou Esther připravila.
+[5] Tu král řekl: „Přiveďte rychle Hamana, abychom učinili, co řekla Ester.“ Král a Haman tedy přišli na hostinu, kterou Ester připravila.
 
-[6] Když pili víno, řekl král Esther: „Jaká je tvá prosba? Bude ti vyhověno. A oč žádáš? Třeba i o polovinu království, stane se to.“
+[6] Když pili víno, řekl král Ester: „Jaká je tvá prosba? Bude ti vyhověno. A oč žádáš? Třeba i o polovinu království, stane se to.“
 
-[7] Esther odpověděla: „Má prosba a má žádost –
+[7] Ester odpověděla: „Má prosba a má žádost –
 
 [8] jestliže jsem nalezla v králových očích přízeň a líbí-li se králi vyhovět mé prosbě a splnit mou žádost, ať král s Hamanem přijde na hostinu, kterou pro ně připravím, a zítra učiním, jak řekl král.“
 
-[9] Haman toho dne vyšel radostný a s veselým srdcem; ale když Haman uviděl Mordecaie v králově bráně – že před ním nevstal, ba ani se nezachvěl –, naplnila Hamana zuřivost proti Mordecaiovi.
+[9] Haman toho dne vyšel radostný a s veselým srdcem; ale když Haman uviděl ⟦mordecai|Mordechaje|Mordokaje⟧ v králově bráně – že před ním nevstal, ba ani se nezachvěl –, naplnila Hamana zuřivost proti ⟦mordecai|Mordechajovi|Mordokajovi⟧.
 
-[10] Haman se však ovládl. Když přišel domů, poslal pro své přátele a pro svou ženu Zeresh.
+[10] Haman se však ovládl. Když přišel domů, poslal pro své přátele a pro svou ženu Zereš.
 
 [11] Haman jim líčil slávu svého bohatství, množství svých synů, všechny způsoby, jak ho král povýšil, a jak ho vyzdvihl nad úředníky a služebníky krále.
 
-[12] Haman také řekl: „Dokonce i královna Esther nedovolila, aby s králem přišel na hostinu, kterou připravila, nikdo jiný než já; i na zítřek jsem od ní pozván spolu s králem.
+[12] Haman také řekl: „Dokonce i královna Ester nedovolila, aby s králem přišel na hostinu, kterou připravila, nikdo jiný než já; i na zítřek jsem od ní pozván spolu s králem.
 
-[13] Ale to všechno pro mne nemá žádnou cenu, dokud vidím Žida Mordecaie sedět v králově bráně.“
+[13] Ale to všechno pro mne nemá žádnou cenu, dokud vidím ⟦jew|Jehudiho|Žida⟧ ⟦mordecai|Mordechaje|Mordokaje⟧ sedět v králově bráně.“
 
-[14] Tu mu jeho žena Zeresh a všichni jeho přátelé řekli: „Ať se postaví kůl padesát loket vysoký; ráno řekni králi, ať je na něj Mordecai pověšen; pak jdi s králem vesele na hostinu.“ Ta věc se Hamanovi líbila a dal postavit kůl.
+[14] Tu mu jeho žena Zereš a všichni jeho přátelé řekli: „Ať se postaví kůl padesát loket vysoký; ráno řekni králi, ať je na něj ⟦mordecai|Mordechaj|Mordokaj⟧ pověšen; pak jdi s králem vesele na hostinu.“ Ta věc se Hamanovi líbila a dal postavit kůl.
 
 ## Změny
 

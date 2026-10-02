@@ -1,8 +1,8 @@
 # Přísloví 25
 
-[1] I tato jsou přísloví Solomona, která opsali muži Hezekiaha, krále Judahu:
+[1] I tato jsou přísloví ⟦solomon|Šloma|Šalomouna⟧, která opsali muži ⟦hezekiah|Chizkijahua|Chizkijáše⟧, krále ⟦judah|Jehudy|Judy⟧:
 
-[2] Slávou *Elohim* je věci skrývat,
+[2] Slávou ⟦elohim|Elohim|Boží⟧ je věci skrývat,
 ale slávou králů je věci zkoumat.
 
 [3] Jako nebesa svou výškou a země svou hloubkou,
@@ -67,7 +67,7 @@ a jako ocet na louh.
 a má-li žízeň, dej mu napít vody,
 
 [22] neboť mu nahrneš na hlavu žhavé uhlí
-a Yahweh ti odplatí.
+a ⟦yhwh|Jahve|Hospodin⟧ ti odplatí.
 
 [23] Severní vítr přináší déšť
 a pomlouvačný jazyk rozhněvané pohledy.

@@ -1,32 +1,32 @@
 # Leviticus 17
 
-[1] Yahweh promluvil k Mosesovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[2] „Mluv k Aaronovi, k jeho synům a ke všem synům Israele a řekni jim: ‚Toto je věc, kterou přikázal Yahweh:
+[2] „Mluv k ⟦aaron|Aharonovi|Áronovi⟧, k jeho synům a ke všem synům ⟦israel|Jisraele|Izraele⟧ a řekni jim: ‚Toto je věc, kterou přikázal ⟦yhwh|Jahve|Hospodin⟧:
 
-[3] Kterýkoli muž z domu Israele, který zabije býka, jehně nebo kozu v táboře nebo který je zabije mimo tábor
+[3] Kterýkoli muž z domu ⟦israel|Jisraele|Izraele⟧, který zabije býka, jehně nebo kozu v táboře nebo který je zabije mimo tábor
 
-[4] a nepřivede to ke vchodu do stanu setkávání, aby to obětoval jako obětní dar Yahweh před příbytkem Yahweh – tomu muži bude krev přičtena; prolil krev a ten muž bude vyťat ze svého lidu.
+[4] a nepřivede to ke vchodu do stanu setkávání, aby to obětoval jako obětní dar ⟦yhwh|Jahvovi|Hospodinu⟧ před příbytkem ⟦yhwh|Jahveho|Hospodina⟧ – tomu muži bude krev přičtena; prolil krev a ten muž bude vyťat ze svého lidu.
 
-[5] To proto, aby synové Israele přiváděli své oběti, které dosud obětovali na otevřeném poli, a přiváděli je Yahweh ke vchodu do stanu setkávání, ke knězi, a obětovali je Yahweh jako pokojné oběti.
+[5] To proto, aby synové ⟦israel|Jisraele|Izraele⟧ přiváděli své oběti, které dosud obětovali na otevřeném poli, a přiváděli je ⟦yhwh|Jahvovi|Hospodinu⟧ ke vchodu do stanu setkávání, ke knězi, a obětovali je ⟦yhwh|Jahvovi|Hospodinu⟧ jako pokojné oběti.
 
-[6] Kněz vyleje krev na oltář Yahweh u vchodu do stanu setkávání a tuk obrátí v dým jako libou vůni Yahweh.
+[6] Kněz vyleje krev na oltář ⟦yhwh|Jahveho|Hospodina⟧ u vchodu do stanu setkávání a tuk obrátí v dým jako libou vůni ⟦yhwh|Jahvovi|Hospodinu⟧.
 
 [7] Nebudou už obětovat své oběti kozlím démonům – s nimiž smilnili. To pro ně bude věčným nařízením po všechna jejich pokolení.‘
 
-[8] Řekni jim: ‚Kterýkoli muž z domu Israele nebo z cizinců, kteří pobývají mezi nimi, který obětuje zápalnou oběť nebo obětní hod
+[8] Řekni jim: ‚Kterýkoli muž z domu ⟦israel|Jisraele|Izraele⟧ nebo z cizinců, kteří pobývají mezi nimi, který obětuje zápalnou oběť nebo obětní hod
 
-[9] a nepřivede ji ke vchodu do stanu setkávání, aby ji obětoval Yahweh – ten muž bude vyťat ze svého lidu.
+[9] a nepřivede ji ke vchodu do stanu setkávání, aby ji obětoval ⟦yhwh|Jahvovi|Hospodinu⟧ – ten muž bude vyťat ze svého lidu.
 
-[10] Kterýkoli muž z domu Israele nebo z cizinců, kteří pobývají mezi nimi, který by jedl jakoukoli krev – obrátím svou tvář proti člověku, který jí krev, a vytnu ho z jeho lidu.
+[10] Kterýkoli muž z domu ⟦israel|Jisraele|Izraele⟧ nebo z cizinců, kteří pobývají mezi nimi, který by jedl jakoukoli krev – obrátím svou tvář proti člověku, který jí krev, a vytnu ho z jeho lidu.
 
 [11] Neboť život těla je v krvi, a já jsem vám ji dal na oltář, aby se vykonalo smíření za vaše životy; neboť je to krev, která vykonává smíření skrze život.
 
-[12] Proto jsem řekl synům Israele: Nikdo z vás nebude jíst krev a ani cizinec, který pobývá mezi vámi, nebude jíst krev.
+[12] Proto jsem řekl synům ⟦israel|Jisraele|Izraele⟧: Nikdo z vás nebude jíst krev a ani cizinec, který pobývá mezi vámi, nebude jíst krev.
 
-[13] Kterýkoli muž ze synů Israele nebo z cizinců, kteří pobývají mezi nimi, který uloví a chytí zvíře nebo ptáka, jež se smí jíst, vyleje jeho krev a přikryje ji prachem.
+[13] Kterýkoli muž ze synů ⟦israel|Jisraele|Izraele⟧ nebo z cizinců, kteří pobývají mezi nimi, který uloví a chytí zvíře nebo ptáka, jež se smí jíst, vyleje jeho krev a přikryje ji prachem.
 
-[14] Neboť život všeho těla je jeho krev. Proto jsem řekl synům Israele: Nebudete jíst krev žádného těla, neboť život všeho těla je jeho krev; kdo ji jí, bude vyťat.
+[14] Neboť život všeho těla je jeho krev. Proto jsem řekl synům ⟦israel|Jisraele|Izraele⟧: Nebudete jíst krev žádného těla, neboť život všeho těla je jeho krev; kdo ji jí, bude vyťat.
 
 [15] Každý, kdo jí zdechlinu nebo zvíře rozsápané šelmou, ať je domorodec, nebo cizinec, si vypere šaty, umyje se vodou a bude nečistý až do večera; potom bude čistý.
 

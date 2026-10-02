@@ -10,9 +10,9 @@ and some to shame and everlasting contempt.
 and those who turn many to righteousness,
 like the stars forever and ever.
 
-[4] "But you, Daniel, shut up the words and seal the book, until the time of the end. Many shall run to and fro, and knowledge shall increase."
+[4] "But you, ⟦daniel|Daniyel|Daniel⟧, shut up the words and seal the book, until the time of the end. Many shall run to and fro, and knowledge shall increase."
 
-[5] Then I, Daniel, looked, and behold, two others stood, one on this bank of the stream and one on that bank of the stream.
+[5] Then I, ⟦daniel|Daniyel|Daniel⟧, looked, and behold, two others stood, one on this bank of the stream and one on that bank of the stream.
 
 [6] And someone said to the man clothed in linen, who was above the waters of the stream, "How long shall it be till the end of these wonders?"
 
@@ -20,7 +20,7 @@ like the stars forever and ever.
 
 [8] I heard, but I did not understand. Then I said, "O my lord, what shall be the outcome of these things?"
 
-[9] He said, "Go your way, Daniel, for the words are shut up and sealed till the time of the end.
+[9] He said, "Go your way, ⟦daniel|Daniyel|Daniel⟧, for the words are shut up and sealed till the time of the end.
 
 [10] Many shall purify themselves and make themselves white and be refined, but the wicked shall act wickedly. And none of the wicked shall understand, but those who are wise shall understand.
 

@@ -2,8 +2,8 @@
 
 [1] After this I heard what seemed to be the loud voice of a great multitude in heaven, crying out,
 
-"**Hallelujah!**
-Salvation and glory and power belong to our *Elohim*,
+"**⟦hallelujah|Halleluyah|Hallelujah⟧!**
+Salvation and glory and power belong to our ⟦elohim|Elohim|God⟧,
 [2] for his judgments are true and just;
 for he has judged the great prostitute
 who corrupted the earth with her immorality,
@@ -11,21 +11,21 @@ and has avenged on her the blood of his servants."
 
 [3] Once more they cried out,
 
-"**Hallelujah!** The smoke from her goes up forever and ever."
+"**⟦hallelujah|Halleluyah|Hallelujah⟧!** The smoke from her goes up forever and ever."
 
-[4] And the twenty-four elders and the four living creatures fell down and worshiped *Elohim* who was seated on the throne, saying, "Amen. Hallelujah!"
+[4] And the twenty-four elders and the four living creatures fell down and worshiped ⟦elohim|Elohim|God⟧ who was seated on the throne, saying, "Amen. ⟦hallelujah|Halleluyah|Hallelujah⟧!"
 
 [5] And from the throne came a voice saying,
 
-"Praise our *Elohim*,
+"Praise our ⟦elohim|Elohim|God⟧,
 all you his servants,
 you who fear him,
 small and great."
 
 [6] Then I heard what seemed to be the voice of a great multitude, like the roar of many waters and like the sound of mighty peals of thunder, crying out,
 
-"**Hallelujah!
-For the Lord our *Elohim*
+"**⟦hallelujah|Halleluyah|Hallelujah⟧!
+For the Lord our ⟦elohim|Elohim|God⟧
 the Almighty reigns.**
 [7] Let us rejoice and exult
 and give him the glory,
@@ -36,23 +36,23 @@ with fine linen, bright and pure" —
 
 for the fine linen is the righteous deeds of the saints.
 
-[9] And the angel said to me, "Write this: **Blessed are those who are invited to the marriage supper of the Lamb**." And he said to me, "These are the true words of *Elohim*."
+[9] And the angel said to me, "Write this: **Blessed are those who are invited to the marriage supper of the Lamb**." And he said to me, "These are the true words of ⟦elohim|Elohim|God⟧."
 
-[10] Then I fell down at his feet to worship him, but he said to me, "You must not do that! I am a fellow servant with you and your brothers who hold to the testimony of *Yeshua*. Worship *Elohim*. For the testimony of *Yeshua* is the spirit of prophecy."
+[10] Then I fell down at his feet to worship him, but he said to me, "You must not do that! I am a fellow servant with you and your brothers who hold to the testimony of ⟦yeshua|Yeshua|Jesus⟧. Worship ⟦elohim|Elohim|God⟧. For the testimony of ⟦yeshua|Yeshua|Jesus⟧ is the spirit of prophecy."
 
 [11] Then I saw heaven opened, and behold, a white horse! The one sitting on it is called Faithful and True, and in righteousness he judges and makes war.
 
 [12] His eyes are like a flame of fire, and on his head are many diadems, and he has a name written that no one knows but himself.
 
-[13] He is clothed in a robe dipped in blood, and the name by which he is called is **The Word of *Elohim***.
+[13] He is clothed in a robe dipped in blood, and the name by which he is called is **The Word of ⟦elohim|Elohim|God⟧**.
 
 [14] And the armies of heaven, arrayed in fine linen, white and pure, were following him on white horses.
 
-[15] From his mouth comes a sharp sword with which to strike down the nations, and he will rule them with a rod of iron. He will tread the winepress of the fury of the wrath of *Elohim* the Almighty.
+[15] From his mouth comes a sharp sword with which to strike down the nations, and he will rule them with a rod of iron. He will tread the winepress of the fury of the wrath of ⟦elohim|Elohim|God⟧ the Almighty.
 
 [16] On his robe and on his thigh he has a name written, **King of kings and Lord of lords**.
 
-[17] Then I saw an angel standing in the sun, and with a loud voice he called to all the birds that fly directly overhead, "Come, gather for the great supper of *Elohim*,
+[17] Then I saw an angel standing in the sun, and with a loud voice he called to all the birds that fly directly overhead, "Come, gather for the great supper of ⟦elohim|Elohim|God⟧,
 
 [18] to eat the flesh of kings, the flesh of captains, the flesh of mighty men, the flesh of horses and their riders, and the flesh of all men, both free and slave, both small and great."
 

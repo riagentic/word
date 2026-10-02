@@ -1,6 +1,6 @@
 # Genesis 9
 
-[1] *Elohim* požehnal Noahovi a jeho synům a řekl jim: „Ploďte a množte se a naplňte zemi.
+[1] ⟦elohim|Elohim|Bůh⟧ požehnal ⟦noah|Noachovi|Noemu⟧ a jeho synům a řekl jim: „Ploďte a množte se a naplňte zemi.
 
 [2] Strach z vás a hrůza z vás padne na všechnu divokou zvěř země a na všechny ptáky nebes – na všechno, co se pohybuje po půdě, i na všechny ryby moře. Jsou vydáni do vaší ruky.
 
@@ -10,11 +10,11 @@
 
 [5] A za vaši vlastní krev, váš život, budu žádat účty: od každého zvířete je budu žádat i od každého člověka; od bratra každého člověka budu žádat život člověka.
 
-[6] Kdo prolije lidskou krev, tomu bude člověkem prolita jeho krev; neboť k obrazu *Elohim* učinil lidstvo.
+[6] Kdo prolije lidskou krev, tomu bude člověkem prolita jeho krev; neboť k obrazu ⟦elohim|Elohim|Božímu⟧ učinil lidstvo.
 
 [7] A vy ploďte a množte se; hemžete se na zemi a množte se na ní.“
 
-[8] *Elohim* řekl Noahovi a jeho synům, kteří byli s ním:
+[8] ⟦elohim|Elohim|Bůh⟧ řekl ⟦noah|Noachovi|Noemu⟧ a jeho synům, kteří byli s ním:
 
 [9] „A já, hle, ustanovuji svou smlouvu s vámi a s vaším potomstvem po vás
 
@@ -22,7 +22,7 @@
 
 [11] Ustanovuji svou smlouvu s vámi: už nikdy nebude všechno tělo vyhlazeno vodami potopy a už nikdy nebude potopa, aby zničila zemi.“
 
-[12] A *Elohim* řekl: „Toto je znamení smlouvy, kterou uzavírám mezi sebou a vámi a každou živou bytostí, která je s vámi, pro pokolení navěky:
+[12] A ⟦elohim|Elohim|Bůh⟧ řekl: „Toto je znamení smlouvy, kterou uzavírám mezi sebou a vámi a každou živou bytostí, která je s vámi, pro pokolení navěky:
 
 [13] Svůj luk jsem postavil do oblaku a bude znamením smlouvy mezi mnou a zemí.
 
@@ -30,41 +30,41 @@
 
 [15] a rozpomenu se na svou smlouvu mezi mnou a vámi a každou živou bytostí ze všeho těla, a vody se už nikdy nestanou potopou, aby zničily všechno tělo.
 
-[16] Luk bude v oblaku a já na něj pohlédnu, abych se rozpomenul na věčnou smlouvu mezi *Elohim* a každou živou bytostí ze všeho těla, které je na zemi.“
+[16] Luk bude v oblaku a já na něj pohlédnu, abych se rozpomenul na věčnou smlouvu mezi ⟦elohim|Elohim|Bohem⟧ a každou živou bytostí ze všeho těla, které je na zemi.“
 
-[17] A *Elohim* řekl Noahovi: „Toto je znamení smlouvy, kterou jsem ustanovil mezi sebou a vším tělem, které je na zemi.“
+[17] A ⟦elohim|Elohim|Bůh⟧ řekl ⟦noah|Noachovi|Noemu⟧: „Toto je znamení smlouvy, kterou jsem ustanovil mezi sebou a vším tělem, které je na zemi.“
 
-[18] Noahovi synové, kteří vyšli z archy, byli Shem, Ham a Japheth; a Ham byl otcem Canaana.
+[18] ⟦noah|Noachovi|Noemovi⟧ synové, kteří vyšli z archy, byli ⟦shem|Šem|Šém⟧, Cham a Jefet; a Cham byl otcem Kenaana.
 
-[19] Tito tři byli Noahovi synové a z nich byla zalidněna celá země.
+[19] Tito tři byli ⟦noah|Noachovi|Noemovi⟧ synové a z nich byla zalidněna celá země.
 
-[20] Noah, muž půdy, byl první, kdo vysadil vinici.
+[20] ⟦noah|Noach|Noe⟧, muž půdy, byl první, kdo vysadil vinici.
 
 [21] Napil se vína, opil se a ležel odkrytý ve svém stanu.
 
-[22] Ham, otec Canaana, spatřil nahotu svého otce a pověděl to venku svým dvěma bratrům.
+[22] Cham, otec Kenaana, spatřil nahotu svého otce a pověděl to venku svým dvěma bratrům.
 
-[23] Tu Shem a Japheth vzali plášť, položili si ho oba na ramena, vešli pozpátku a přikryli nahotu svého otce; tváře měli odvrácené, a tak nahotu svého otce neviděli.
+[23] Tu ⟦shem|Šem|Šém⟧ a Jefet vzali plášť, položili si ho oba na ramena, vešli pozpátku a přikryli nahotu svého otce; tváře měli odvrácené, a tak nahotu svého otce neviděli.
 
-[24] Když Noah procitl ze svého vína a poznal, co mu udělal jeho nejmladší syn,
+[24] Když ⟦noah|Noach|Noe⟧ procitl ze svého vína a poznal, co mu udělal jeho nejmladší syn,
 
 [25] řekl:
 
-„Proklet buď Canaan;
+„Proklet buď Kenaan;
 bude otrokem otroků svým bratrům.“
 
 [26] A řekl:
 
-„Požehnán buď Yahweh, *Elohim* Shemův;
-a Canaan ať je jeho otrokem.
+„Požehnán buď ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦shem|Šemův|Šémův⟧;
+a Kenaan ať je jeho otrokem.
 
-[27] Kéž *Elohim* rozšíří Japhetha
-a ať přebývá ve stanech Shemových;
-a Canaan ať je jeho otrokem.“
+[27] Kéž ⟦elohim|Elohim|Bůh⟧ rozšíří Jefeta
+a ať přebývá ve stanech ⟦shem|Šemových|Šémových⟧;
+a Kenaan ať je jeho otrokem.“
 
-[28] Noah žil po potopě 350 let.
+[28] ⟦noah|Noach|Noe⟧ žil po potopě 350 let.
 
-[29] Všech Noahových dnů bylo 950 let; a zemřel.
+[29] Všech ⟦noah|Noachových|Noemových⟧ dnů bylo 950 let; a zemřel.
 
 ## Změny
 

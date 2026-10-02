@@ -1,22 +1,22 @@
 # Mark 1
 
-[1] The beginning of the gospel of *Yeshua* the *Mashiach*, the Son of *Elohim*.
+[1] The beginning of the gospel of ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧, the Son of ⟦elohim|Elohim|God⟧.
 
-[2] As it is written in Isaiah the prophet, "**Behold, I send my messenger before your face, who will prepare your way,**
+[2] As it is written in ⟦isaiah|Yeshayahu|Isaiah⟧ the prophet, "**Behold, I send my messenger before your face, who will prepare your way,**
 
-[3] **the voice of one crying in the wilderness: Prepare the way of the Lord, make his paths straight**" —
+[3] **the voice of one crying in the wilderness: Prepare the way of ⟦yhwh|Yahweh|the Lord⟧, make his paths straight**" —
 
-[4] John appeared, immersing in the wilderness and proclaiming an immersion of repentance for the forgiveness of sins.
+[4] ⟦john|Yochanan|John⟧ appeared, ⟦immerse|immersing|baptizing⟧ in the wilderness and proclaiming ⟦immersion|an immersion|a baptism⟧ of repentance for the forgiveness of sins.
 
-[5] And all the country of Judea and all Jerusalem were going out to him and were being immersed by him in the Jordan River, confessing their sins.
+[5] And all the country of ⟦judea|Yehudah|Judea⟧ and all ⟦jerusalem|Yerushalayim|Jerusalem⟧ were going out to him and were being ⟦immerse|immersed|baptized⟧ by him in the ⟦jordan|Yarden|Jordan⟧ River, confessing their sins.
 
-[6] Now John was clothed with camel's hair and wore a leather belt around his waist and ate locusts and wild honey.
+[6] Now ⟦john|Yochanan|John⟧ was clothed with camel's hair and wore a leather belt around his waist and ate locusts and wild honey.
 
 [7] And he preached, saying, "After me comes one who is mightier than I, the strap of whose sandals I am not worthy to stoop down and untie.
 
-[8] I have immersed you with water, but he will immerse you with the *Ruach HaQodesh*."
+[8] I have ⟦immerse|immersed|baptized⟧ you with water, but he will ⟦immerse|immerse|baptize⟧ you with the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧."
 
-[9] In those days *Yeshua* came from Nazareth of Galilee and was immersed by John in the Jordan.
+[9] In those days ⟦yeshua|Yeshua|Jesus⟧ came from ⟦nazareth|Natzrat|Nazareth⟧ of ⟦galilee|Galil|Galilee⟧ and was ⟦immerse|immersed|baptized⟧ by ⟦john|Yochanan|John⟧ in the ⟦jordan|Yarden|Jordan⟧.
 
 [10] And when he came up out of the water, immediately he saw the heavens being torn open and the Spirit descending on him like a dove.
 
@@ -26,39 +26,39 @@
 
 [13] And he was in the wilderness forty days, being tempted by Satan. And he was with the wild animals, and the angels ministered to him.
 
-[14] Now after John was arrested, *Yeshua* came into Galilee, proclaiming the gospel of *Elohim*,
+[14] Now after ⟦john|Yochanan|John⟧ was arrested, ⟦yeshua|Yeshua|Jesus⟧ came into ⟦galilee|Galil|Galilee⟧, proclaiming the gospel of ⟦elohim|Elohim|God⟧,
 
-[15] and saying, "**The time is fulfilled, and the kingdom of *Elohim* is at hand; repent and believe in the gospel.**"
+[15] and saying, "**The time is fulfilled, and the kingdom of ⟦elohim|Elohim|God⟧ is at hand; repent and believe in the gospel.**"
 
-[16] Passing alongside the Sea of Galilee, he saw Simon and Andrew the brother of Simon casting a net into the sea, for they were fishermen.
+[16] Passing alongside the Sea of ⟦galilee|Galil|Galilee⟧, he saw ⟦simon|Shimon|Simon⟧ and ⟦andrew|Andreas|Andrew⟧ the brother of ⟦simon|Shimon|Simon⟧ casting a net into the sea, for they were fishermen.
 
-[17] And *Yeshua* said to them, "Follow me, and I will make you become fishers of men."
+[17] And ⟦yeshua|Yeshua|Jesus⟧ said to them, "Follow me, and I will make you become fishers of men."
 
 [18] And immediately they left their nets and followed him.
 
-[19] And going on a little farther, he saw Jacob the son of Zebedee and John his brother, who were in their boat mending the nets.
+[19] And going on a little farther, he saw ⟦james|Yaaqov|James⟧ the son of ⟦zebedee|Zebedaios|Zebedee⟧ and ⟦john|Yochanan|John⟧ his brother, who were in their boat mending the nets.
 
-[20] And immediately he called them, and they left their father Zebedee in the boat with the hired servants and followed him.
+[20] And immediately he called them, and they left their father ⟦zebedee|Zebedaios|Zebedee⟧ in the boat with the hired servants and followed him.
 
-[21] And they went into Capernaum, and immediately on the Sabbath he entered the synagogue and was teaching.
+[21] And they went into ⟦capernaum|Kfar Nachum|Capernaum⟧, and immediately on the ⟦shabbat|Shabbat|Sabbath⟧ he entered the synagogue and was teaching.
 
 [22] And they were astonished at his teaching, for he taught them as one who had authority, and not as the scribes.
 
 [23] And immediately there was in their synagogue a man with an unclean spirit. And he cried out,
 
-[24] "What have you to do with us, *Yeshua* of Nazareth? Have you come to destroy us? I know who you are — the Holy One of *Elohim*."
+[24] "What have you to do with us, ⟦yeshua|Yeshua|Jesus⟧ of ⟦nazareth|Natzrat|Nazareth⟧? Have you come to destroy us? I know who you are — the Holy One of ⟦elohim|Elohim|God⟧."
 
-[25] But *Yeshua* rebuked him, saying, "Be silent, and come out of him!"
+[25] But ⟦yeshua|Yeshua|Jesus⟧ rebuked him, saying, "Be silent, and come out of him!"
 
 [26] And the unclean spirit, convulsing him and crying out with a loud voice, came out of him.
 
 [27] And they were all amazed, so that they questioned among themselves, saying, "What is this? A new teaching with authority! He commands even the unclean spirits, and they obey him."
 
-[28] And at once his fame spread everywhere throughout all the surrounding region of Galilee.
+[28] And at once his fame spread everywhere throughout all the surrounding region of ⟦galilee|Galil|Galilee⟧.
 
-[29] And immediately he left the synagogue and entered the house of Simon and Andrew, with Jacob and John.
+[29] And immediately he left the synagogue and entered the house of ⟦simon|Shimon|Simon⟧ and ⟦andrew|Andreas|Andrew⟧, with ⟦james|Yaaqov|James⟧ and ⟦john|Yochanan|John⟧.
 
-[30] Now Simon's mother-in-law lay ill with a fever, and immediately they told him about her.
+[30] Now ⟦simon|Shimon's|Simon's⟧ mother-in-law lay ill with a fever, and immediately they told him about her.
 
 [31] And he came and took her by the hand and lifted her up, and the fever left her, and she began to serve them.
 
@@ -70,25 +70,25 @@
 
 [35] And rising very early in the morning, while it was still dark, he departed and went out to a desolate place, and there he prayed.
 
-[36] And Simon and those who were with him searched for him,
+[36] And ⟦simon|Shimon|Simon⟧ and those who were with him searched for him,
 
 [37] and they found him and said to him, "Everyone is looking for you."
 
 [38] And he said to them, "Let us go on to the next towns, that I may preach there also, for that is why I came out."
 
-[39] And he went throughout all Galilee, preaching in their synagogues and casting out demons.
+[39] And he went throughout all ⟦galilee|Galil|Galilee⟧, preaching in their synagogues and casting out demons.
 
 [40] And a leper came to him, imploring him, and kneeling said to him, "If you will, you can make me clean."
 
-[41] Moved with compassion, *Yeshua* stretched out his hand and touched him and said to him, "I will; be clean."
+[41] Moved with compassion, ⟦yeshua|Yeshua|Jesus⟧ stretched out his hand and touched him and said to him, "I will; be clean."
 
 [42] And immediately the leprosy left him, and he was made clean.
 
-[43] And *Yeshua* sternly charged him and sent him away at once,
+[43] And ⟦yeshua|Yeshua|Jesus⟧ sternly charged him and sent him away at once,
 
-[44] and said to him, "See that you say nothing to anyone, but go, show yourself to the priest and offer for your cleansing what Moses commanded, for a proof to them."
+[44] and said to him, "See that you say nothing to anyone, but go, show yourself to the priest and offer for your cleansing what ⟦moses|Moshe|Moses⟧ commanded, for a proof to them."
 
-[45] But he went out and began to talk freely about it, and to spread the news, so that *Yeshua* could no longer openly enter a town, but was out in desolate places, and people were coming to him from every quarter.
+[45] But he went out and began to talk freely about it, and to spread the news, so that ⟦yeshua|Yeshua|Jesus⟧ could no longer openly enter a town, but was out in desolate places, and people were coming to him from every quarter.
 
 ## Changes
 

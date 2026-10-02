@@ -10,19 +10,19 @@
 
 [5] Milovaný, jednáš věrně ve všem, co činíš pro tyto bratry, ačkoli jsou to cizinci,
 
-[6] kteří před církví vydali svědectví o tvé lásce. Dobře učiníš, když je vypravíš na cestu způsobem hodným *Elohim*.
+[6] kteří před církví vydali svědectví o tvé lásce. Dobře učiníš, když je vypravíš na cestu způsobem hodným ⟦elohim|Elohim|Boha⟧.
 
 [7] Vyšli totiž kvůli tomu jménu a nic nepřijímají od pohanů.
 
 [8] Proto máme takové lidi podporovat, abychom se stali spolupracovníky pravdy.
 
-[9] Napsal jsem něco církvi, ale Diotrephes, který se rád staví na první místo, naši autoritu neuznává.
+[9] Napsal jsem něco církvi, ale Diotrefés, který se rád staví na první místo, naši autoritu neuznává.
 
 [10] Proto, přijdu-li, připomenu, co dělá, když proti nám mluví zlé nesmysly. A nespokojí se s tím, sám bratry nepřijímá, a ty, kdo je přijmout chtějí, zdržuje a vyhání z církve.
 
-[11] Milovaný, nenapodobuj zlé, ale napodobuj dobré. Kdo činí dobro, je z *Elohim*; kdo činí zlo, *Elohim* neviděl.
+[11] Milovaný, nenapodobuj zlé, ale napodobuj dobré. Kdo činí dobro, je z ⟦elohim|Elohim|Boha⟧; kdo činí zlo, ⟦elohim|Elohim|Boha⟧ neviděl.
 
-[12] Demetrius má dobré svědectví ode všech i od samé pravdy. I my přidáváme své svědectví a ty víš, že naše svědectví je pravdivé.
+[12] Démétrios má dobré svědectví ode všech i od samé pravdy. I my přidáváme své svědectví a ty víš, že naše svědectví je pravdivé.
 
 [13] Měl bych ti mnoho co psát, ale nechci ti psát perem a inkoustem.
 

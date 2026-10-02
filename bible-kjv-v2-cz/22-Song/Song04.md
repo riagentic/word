@@ -4,7 +4,7 @@
 hle, jsi krásná!
 Tvé oči jsou holubice za tvým závojem.
 Tvé vlasy jsou jako stádo koz,
-které sbíhají po svazích Gileadu.
+které sbíhají po svazích ⟦gilead|Giladu|Gileádu⟧.
 
 [2] Tvé zuby jsou jako stádo ostříhaných ovcí,
 které vystoupily z koupele,
@@ -33,10 +33,10 @@ a na pahorek kadidla.
 [7] Celá jsi krásná, má milá;
 není na tobě vady.
 
-[8] Pojď se mnou z Lebanonu, má nevěsto,
-pojď se mnou z Lebanonu.
+[8] Pojď se mnou z ⟦lebanon|Levanonu|Libanónu⟧, má nevěsto,
+pojď se mnou z ⟦lebanon|Levanonu|Libanónu⟧.
 Sestup z vrcholu Amany,
-z vrcholu Seniru a Hermonu,
+z vrcholu ⟦senir|Seniru|Seníru⟧ a ⟦hermon|Chermonu|Chermónu⟧,
 z doupat lvů,
 z hor levhartů.
 
@@ -50,7 +50,7 @@ a vůně tvých olejů než jakékoli koření!
 
 [11] Tvé rty kanou nektarem, má nevěsto;
 med a mléko jsou pod tvým jazykem;
-vůně tvých šatů je jako vůně Lebanonu.
+vůně tvých šatů je jako vůně ⟦lebanon|Levanonu|Libanónu⟧.
 
 [12] Zamčená zahrada je má sestra, má nevěsta,
 zamčený pramen, zapečetěná studnice.
@@ -65,7 +65,7 @@ myrha a aloe
 se vším vybraným kořením –
 
 [15] zahradní studnice, pramen živé vody
-a bystřiny tekoucí z Lebanonu.
+a bystřiny tekoucí z ⟦lebanon|Levanonu|Libanónu⟧.
 
 [16] Probuď se, severáku,
 a přijď, jižní větře!

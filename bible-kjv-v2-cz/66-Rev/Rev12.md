@@ -8,9 +8,9 @@
 
 [4] Jeho ocas smetl třetinu hvězd nebe a svrhl je na zem. A drak se postavil před ženu, která měla porodit, aby, až porodí, sežral její dítě.
 
-[5] Porodila syna, chlapce, **který má pást všechny národy železnou holí**, ale její dítě bylo uchváceno k *Elohim* a k jeho trůnu,
+[5] Porodila syna, chlapce, **který má pást všechny národy železnou holí**, ale její dítě bylo uchváceno k ⟦elohim|Elohim|Bohu⟧ a k jeho trůnu,
 
-[6] a žena utekla na poušť, kde má místo připravené od *Elohim*, aby tam byla živena 1 260 dní.
+[6] a žena utekla na poušť, kde má místo připravené od ⟦elohim|Elohim|Boha⟧, aby tam byla živena 1 260 dní.
 
 [7] I strhla se válka v nebi: Michael a jeho andělé bojovali proti drakovi. Drak a jeho andělé bojovali také,
 
@@ -18,7 +18,7 @@
 
 [9] A veliký drak byl svržen, ten dávný had, který se nazývá ďábel a Satan, svůdce celého světa – byl svržen na zemi a jeho andělé byli svrženi s ním.
 
-[10] A slyšel jsem silný hlas v nebi, jak říká: „Nyní nastala spása a moc a království našeho *Elohim* a vláda jeho *Mashiacha*, neboť byl svržen žalobce našich bratrů, který je dnem i nocí obviňuje před naším *Elohim*.
+[10] A slyšel jsem silný hlas v nebi, jak říká: „Nyní nastala spása a moc a království našeho ⟦elohim|Elohim|Boha⟧ a vláda jeho ⟦mashiach|Mašiacha|Mesiáše⟧, neboť byl svržen žalobce našich bratrů, který je dnem i nocí obviňuje před naším ⟦elohim|Elohim|Bohem⟧.
 
 [11] **A oni nad ním zvítězili krví Beránka a slovem svého svědectví, neboť nemilovali svůj život až do smrti.**
 
@@ -32,7 +32,7 @@
 
 [16] Ale země přišla ženě na pomoc: země otevřela svá ústa a pohltila řeku, kterou drak vychrlil ze svých úst.
 
-[17] Tu se drak rozzuřil na ženu a odešel vést válku se zbytkem jejího potomstva, s těmi, kdo zachovávají přikázání *Elohim* a drží se svědectví *Yeshuy*. A postavil se na písek moře.
+[17] Tu se drak rozzuřil na ženu a odešel vést válku se zbytkem jejího potomstva, s těmi, kdo zachovávají přikázání ⟦elohim|Elohim|Boží⟧ a drží se svědectví ⟦yeshua|Ješuy|Ježíše⟧. A postavil se na písek moře.
 
 ## Změny
 

@@ -1,50 +1,50 @@
 # Joshua 11
 
-[1] When Jabin king of Hazor heard of this, he sent to Jobab king of Madon, to the king of Shimron, to the king of Achshaph,
+[1] When ⟦jabin|Yavin|Jabin⟧ king of ⟦hazor|Chatzor|Hazor⟧ heard of this, he sent to ⟦jobab|Yovav|Jobab⟧ king of Madon, to the king of Shimron, to the king of ⟦achshaph|Achshaf|Achshaph⟧,
 
-[2] and to the kings in the north — in the hill country, in the Arabah south of Chinneroth, in the lowland, and in Naphoth-dor on the west;
+[2] and to the kings in the north — in the hill country, in the ⟦arabah|Aravah|Arabah⟧ south of ⟦chinneroth|Kinnerot|Chinneroth⟧, in the lowland, and in ⟦naphath-dor|Nafot Dor|Naphoth-dor⟧ on the west;
 
-[3] to the Canaanites on the east and on the west, to the Amorite, Hittite, Perizzite, and Jebusite in the hill country, and to the Hivite below Hermon in the land of Mizpah.
+[3] to the ⟦canaanites|Kenaanim|Canaanites⟧ on the east and on the west, to the ⟦amorite|Emori|Amorite⟧, ⟦hittite|Chitti|Hittite⟧, ⟦perizzite|Perizzi|Perizzite⟧, and ⟦jebusite|Yevusi|Jebusite⟧ in the hill country, and to the ⟦hivite|Chivvi|Hivite⟧ below ⟦hermon|Chermon|Hermon⟧ in the land of ⟦mizpah|Mitzpah|Mizpah⟧.
 
 [4] They went out, with all their armies with them — a great throng, like the sand on the seashore in multitude, with very many horses and chariots.
 
-[5] All these kings joined forces and came and encamped together at the waters of Merom to fight against Israel.
+[5] All these kings joined forces and came and encamped together at the waters of Merom to fight against ⟦israel|Yisrael|Israel⟧.
 
-[6] Yahweh said to Joshua, "Do not be afraid of them, for tomorrow about this time I will give all of them over, slain, before Israel. You shall hamstring their horses and burn their chariots with fire."
+[6] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦joshua|Yehoshua|Joshua⟧, "Do not be afraid of them, for tomorrow about this time I will give all of them over, slain, before ⟦israel|Yisrael|Israel⟧. You shall hamstring their horses and burn their chariots with fire."
 
-[7] So Joshua with all the warriors came upon them suddenly by the waters of Merom and fell upon them.
+[7] So ⟦joshua|Yehoshua|Joshua⟧ with all the warriors came upon them suddenly by the waters of Merom and fell upon them.
 
-[8] Yahweh gave them into the hand of Israel, who struck them and chased them as far as Great Sidon and Misrephoth-maim, and eastward to the Valley of Mizpeh. They struck them until no survivor was left.
+[8] ⟦yhwh|Yahweh|The LORD⟧ gave them into the hand of ⟦israel|Yisrael|Israel⟧, who struck them and chased them as far as Great ⟦sidon|Tzidon|Sidon⟧ and ⟦misrephoth-maim|Misrefot Mayim|Misrephoth-maim⟧, and eastward to the Valley of ⟦mizpeh|Mitzpeh|Mizpeh⟧. They struck them until no survivor was left.
 
-[9] Joshua did to them as Yahweh commanded him; he hamstrung their horses and burned their chariots with fire.
+[9] ⟦joshua|Yehoshua|Joshua⟧ did to them as ⟦yhwh|Yahweh|the LORD⟧ commanded him; he hamstrung their horses and burned their chariots with fire.
 
-[10] At that time Joshua turned back and captured Hazor and struck its king down with the sword; for Hazor formerly was the head of all these kingdoms.
+[10] At that time ⟦joshua|Yehoshua|Joshua⟧ turned back and captured ⟦hazor|Chatzor|Hazor⟧ and struck its king down with the sword; for ⟦hazor|Chatzor|Hazor⟧ formerly was the head of all these kingdoms.
 
-[11] They struck every person in it with the edge of the sword, devoting them to destruction; there was nothing left that breathed; and he burned Hazor with fire.
+[11] They struck every person in it with the edge of the sword, devoting them to destruction; there was nothing left that breathed; and he burned ⟦hazor|Chatzor|Hazor⟧ with fire.
 
-[12] And all the cities of these kings and all their kings Joshua captured; he struck them with the edge of the sword and devoted them to destruction, as Moses the servant of Yahweh had commanded.
+[12] And all the cities of these kings and all their kings ⟦joshua|Yehoshua|Joshua⟧ captured; he struck them with the edge of the sword and devoted them to destruction, as ⟦moses|Moshe|Moses⟧ the servant of ⟦yhwh|Yahweh|the LORD⟧ had commanded.
 
-[13] But as for the cities that stood on mounds, Israel burned none of them except Hazor alone, which Joshua burned.
+[13] But as for the cities that stood on mounds, ⟦israel|Yisrael|Israel⟧ burned none of them except ⟦hazor|Chatzor|Hazor⟧ alone, which ⟦joshua|Yehoshua|Joshua⟧ burned.
 
-[14] And all the spoil of these cities and the livestock the children of Israel took as plunder for themselves; but every person they struck with the edge of the sword until they had destroyed them, leaving none that breathed.
+[14] And all the spoil of these cities and the livestock the children of ⟦israel|Yisrael|Israel⟧ took as plunder for themselves; but every person they struck with the edge of the sword until they had destroyed them, leaving none that breathed.
 
-[15] As Yahweh had commanded Moses his servant, so Moses commanded Joshua; and so Joshua did. He left nothing undone of all that Yahweh had commanded Moses.
+[15] As ⟦yhwh|Yahweh|the LORD⟧ had commanded ⟦moses|Moshe|Moses⟧ his servant, so ⟦moses|Moshe|Moses⟧ commanded ⟦joshua|Yehoshua|Joshua⟧; and so ⟦joshua|Yehoshua|Joshua⟧ did. He left nothing undone of all that ⟦yhwh|Yahweh|the LORD⟧ had commanded ⟦moses|Moshe|Moses⟧.
 
-[16] So Joshua took all that land: the hill country, all the Negev, all the land of Goshen, the lowland, the Arabah, the hill country of Israel and its lowland,
+[16] So ⟦joshua|Yehoshua|Joshua⟧ took all that land: the hill country, all the ⟦negev|Negev|Negeb⟧, all the land of Goshen, the lowland, the ⟦arabah|Aravah|Arabah⟧, the hill country of ⟦israel|Yisrael|Israel⟧ and its lowland,
 
-[17] from Mount Halak, which rises toward Seir, as far as Baal-gad in the valley of Lebanon below Mount Hermon. He captured all their kings and struck them and put them to death.
+[17] from Mount ⟦halak|Chalaq|Halak⟧, which rises toward Seir, as far as ⟦baal-gad|Baal Gad|Baal-gad⟧ in the valley of ⟦lebanon|Levanon|Lebanon⟧ below Mount ⟦hermon|Chermon|Hermon⟧. He captured all their kings and struck them and put them to death.
 
-[18] Joshua waged war a long time against all those kings.
+[18] ⟦joshua|Yehoshua|Joshua⟧ waged war a long time against all those kings.
 
-[19] There was not a city that made peace with the children of Israel except the Hivites, the inhabitants of Gibeon; all the others they took in battle.
+[19] There was not a city that made peace with the children of ⟦israel|Yisrael|Israel⟧ except the ⟦hivites|Chivvim|Hivites⟧, the inhabitants of ⟦gibeon|Givon|Gibeon⟧; all the others they took in battle.
 
-[20] For it was Yahweh's doing to harden their hearts so that they might come against Israel in battle, in order that they might be devoted to destruction and receive no mercy, but be utterly destroyed, as Yahweh had commanded Moses.
+[20] For it was ⟦yhwh|Yahweh's|the LORD's⟧ doing to harden their hearts so that they might come against ⟦israel|Yisrael|Israel⟧ in battle, in order that they might be devoted to destruction and receive no mercy, but be utterly destroyed, as ⟦yhwh|Yahweh|the LORD⟧ had commanded ⟦moses|Moshe|Moses⟧.
 
-[21] At that time Joshua came and cut off the Anakim from the hill country — from Hebron, from Debir, from Anab, and from all the hill country of Judah, and from all the hill country of Israel. Joshua devoted them and their cities to destruction.
+[21] At that time ⟦joshua|Yehoshua|Joshua⟧ came and cut off the ⟦anakim|Anaqim|Anakim⟧ from the hill country — from ⟦hebron|Chevron|Hebron⟧, from ⟦debir|Devir|Debir⟧, from ⟦anab|Anav|Anab⟧, and from all the hill country of ⟦judah|Yehudah|Judah⟧, and from all the hill country of ⟦israel|Yisrael|Israel⟧. ⟦joshua|Yehoshua|Joshua⟧ devoted them and their cities to destruction.
 
-[22] No Anakim were left in the land of the children of Israel; only in Gaza, in Gath, and in Ashdod some remained.
+[22] No ⟦anakim|Anaqim|Anakim⟧ were left in the land of the children of ⟦israel|Yisrael|Israel⟧; only in ⟦gaza|Azzah|Gaza⟧, in ⟦gath|Gat|Gath⟧, and in Ashdod some remained.
 
-[23] So Joshua took the whole land, according to all that Yahweh had spoken to Moses; and Joshua gave it for an inheritance to Israel according to their tribal divisions. And the land had rest from war.
+[23] So ⟦joshua|Yehoshua|Joshua⟧ took the whole land, according to all that ⟦yhwh|Yahweh|the LORD⟧ had spoken to ⟦moses|Moshe|Moses⟧; and ⟦joshua|Yehoshua|Joshua⟧ gave it for an inheritance to ⟦israel|Yisrael|Israel⟧ according to their tribal divisions. And the land had rest from war.
 
 ## Changes
 

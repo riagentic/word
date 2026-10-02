@@ -1,6 +1,6 @@
 # Přísloví 1
 
-[1] Přísloví Solomona, syna Davidova, krále Israele:
+[1] Přísloví ⟦solomon|Šloma|Šalomouna⟧, syna Davidova, krále ⟦israel|Jisraele|Izraele⟧:
 
 [2] aby člověk poznal moudrost a kázeň,
 aby rozpoznal výroky rozumnosti,
@@ -17,7 +17,7 @@ a rozumný ať získá vedení,
 [6] aby porozuměl podobenství a obraznému výroku,
 slovům moudrých a jejich hádankám.
 
-[7] Bázeň před Yahweh je počátek poznání;
+[7] Bázeň před ⟦yhwh|Jahvem|Hospodinem⟧ je počátek poznání;
 hlupáci pohrdají moudrostí a kázní.
 
 [8] Slyš, můj synu, poučení svého otce
@@ -32,7 +32,7 @@ nesvoluj.
 [11] Řeknou-li: „Pojď s námi, počíhejme na krev;
 bezdůvodně přepadněme nevinného;
 
-[12] jako Sheol je pohlťme zaživa,
+[12] jako ⟦sheol|Šeol|podsvětí⟧ je pohlťme zaživa,
 celé, jako ty, kdo sestupují do jámy;
 
 [13] najdeme všelijaký drahocenný majetek,
@@ -87,7 +87,7 @@ až na vás přijde tíseň a úzkost.
 budou mě usilovně hledat, ale nenajdou mě.
 
 [29] Protože nenáviděli poznání
-a nevyvolili si bázeň před Yahweh,
+a nevyvolili si bázeň před ⟦yhwh|Jahvem|Hospodinem⟧,
 
 [30] nechtěli nic z mé rady
 a pohrdli všemi mými pokáráními,

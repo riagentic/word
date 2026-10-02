@@ -1,24 +1,24 @@
 # John 13
 
-[1] Now before the Feast of the Passover, when *Yeshua* knew that his hour had come to depart out of this world to the Father, having loved his own who were in the world, he loved them to the end.
+[1] Now before the Feast of the ⟦pesach|Pesach|Passover⟧, when ⟦yeshua|Yeshua|Jesus⟧ knew that his hour had come to depart out of this world to the Father, having loved his own who were in the world, he loved them to the end.
 
-[2] During supper, when the devil had already put it into the heart of Judas Iscariot, Simon's son, to betray him,
+[2] During supper, when the devil had already put it into the heart of ⟦judas|Yehudah|Judas⟧ Iscariot, ⟦simon|Shimon's|Simon's⟧ son, to betray him,
 
-[3] *Yeshua*, knowing that the Father had given all things into his hands, and that he had come from *Elohim* and was going back to *Elohim*,
+[3] ⟦yeshua|Yeshua|Jesus⟧, knowing that the Father had given all things into his hands, and that he had come from ⟦elohim|Elohim|God⟧ and was going back to ⟦elohim|Elohim|God⟧,
 
 [4] rose from supper. He laid aside his outer garments, and taking a towel, tied it around his waist.
 
 [5] Then he poured water into a basin and began to wash the disciples' feet and to wipe them with the towel that was wrapped around him.
 
-[6] He came to Simon *Kefa*, who said to him, "Lord, do you wash my feet?"
+[6] He came to ⟦simon|Shimon|Simon⟧ ⟦peter|Kefa|Peter⟧, who said to him, "Lord, do you wash my feet?"
 
-[7] *Yeshua* answered him, "What I am doing you do not understand now, but afterward you will understand."
+[7] ⟦yeshua|Yeshua|Jesus⟧ answered him, "What I am doing you do not understand now, but afterward you will understand."
 
-[8] *Kefa* said to him, "You shall never wash my feet." *Yeshua* answered him, "If I do not wash you, you have no share with me."
+[8] ⟦peter|Kefa|Peter⟧ said to him, "You shall never wash my feet." ⟦yeshua|Yeshua|Jesus⟧ answered him, "If I do not wash you, you have no share with me."
 
-[9] Simon *Kefa* said to him, "Lord, not my feet only but also my hands and my head!"
+[9] ⟦simon|Shimon|Simon⟧ ⟦peter|Kefa|Peter⟧ said to him, "Lord, not my feet only but also my hands and my head!"
 
-[10] *Yeshua* said to him, "The one who has bathed does not need to wash, except for his feet, but is completely clean. And you are clean, but not every one of you."
+[10] ⟦yeshua|Yeshua|Jesus⟧ said to him, "The one who has bathed does not need to wash, except for his feet, but is completely clean. And you are clean, but not every one of you."
 
 [11] For he knew who was to betray him; that was why he said, "Not all of you are clean."
 
@@ -40,41 +40,41 @@
 
 [20] Truly, truly, I say to you, whoever receives the one I send receives me, and whoever receives me receives the one who sent me."
 
-[21] After saying these things, *Yeshua* was troubled in his spirit, and testified, "Truly, truly, I say to you, one of you will betray me."
+[21] After saying these things, ⟦yeshua|Yeshua|Jesus⟧ was troubled in his spirit, and testified, "Truly, truly, I say to you, one of you will betray me."
 
 [22] The disciples looked at one another, uncertain of whom he spoke.
 
-[23] One of his disciples, whom *Yeshua* loved, was reclining at table at *Yeshua's* side,
+[23] One of his disciples, whom ⟦yeshua|Yeshua|Jesus⟧ loved, was reclining at table at ⟦yeshua|Yeshua's|Jesus'⟧ side,
 
-[24] so Simon *Kefa* motioned to him to ask *Yeshua* of whom he was speaking.
+[24] so ⟦simon|Shimon|Simon⟧ ⟦peter|Kefa|Peter⟧ motioned to him to ask ⟦yeshua|Yeshua|Jesus⟧ of whom he was speaking.
 
-[25] So that disciple, leaning back against *Yeshua*, said to him, "Lord, who is it?"
+[25] So that disciple, leaning back against ⟦yeshua|Yeshua|Jesus⟧, said to him, "Lord, who is it?"
 
-[26] *Yeshua* answered, "It is he to whom I will give this morsel of bread when I have dipped it." So when he had dipped the morsel, he gave it to Judas, the son of Simon Iscariot.
+[26] ⟦yeshua|Yeshua|Jesus⟧ answered, "It is he to whom I will give this morsel of bread when I have dipped it." So when he had dipped the morsel, he gave it to ⟦judas|Yehudah|Judas⟧, the son of ⟦simon|Shimon|Simon⟧ Iscariot.
 
-[27] Then after he had taken the morsel, Satan entered into him. *Yeshua* said to him, "What you are going to do, do quickly."
+[27] Then after he had taken the morsel, Satan entered into him. ⟦yeshua|Yeshua|Jesus⟧ said to him, "What you are going to do, do quickly."
 
 [28] Now no one at the table knew why he said this to him.
 
-[29] Some thought that, because Judas had the moneybag, *Yeshua* was telling him, "Buy what we need for the feast," or that he should give something to the poor.
+[29] Some thought that, because ⟦judas|Yehudah|Judas⟧ had the moneybag, ⟦yeshua|Yeshua|Jesus⟧ was telling him, "Buy what we need for the feast," or that he should give something to the poor.
 
 [30] So, after receiving the morsel of bread, he immediately went out. **And it was night.**
 
-[31] When he had gone out, *Yeshua* said, "Now is the Son of Man glorified, and *Elohim* is glorified in him.
+[31] When he had gone out, ⟦yeshua|Yeshua|Jesus⟧ said, "Now is the Son of Man glorified, and ⟦elohim|Elohim|God⟧ is glorified in him.
 
-[32] If *Elohim* is glorified in him, *Elohim* will also glorify him in himself, and glorify him at once.
+[32] If ⟦elohim|Elohim|God⟧ is glorified in him, ⟦elohim|Elohim|God⟧ will also glorify him in himself, and glorify him at once.
 
-[33] Little children, yet a little while I am with you. You will seek me, and just as I said to the Jews, so now I also say to you, 'Where I am going you cannot come.'
+[33] Little children, yet a little while I am with you. You will seek me, and just as I said to the ⟦jews|Yehudim|Jews⟧, so now I also say to you, 'Where I am going you cannot come.'
 
 [34] **A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another.**
 
 **[35] By this all people will know that you are my disciples, if you have love for one another.**"
 
-[36] Simon *Kefa* said to him, "Lord, where are you going?" *Yeshua* answered him, "Where I am going you cannot follow me now, but you will follow afterward."
+[36] ⟦simon|Shimon|Simon⟧ ⟦peter|Kefa|Peter⟧ said to him, "Lord, where are you going?" ⟦yeshua|Yeshua|Jesus⟧ answered him, "Where I am going you cannot follow me now, but you will follow afterward."
 
-[37] *Kefa* said to him, "Lord, why can I not follow you now? I will lay down my life for you."
+[37] ⟦peter|Kefa|Peter⟧ said to him, "Lord, why can I not follow you now? I will lay down my life for you."
 
-[38] *Yeshua* answered, "Will you lay down your life for me? Truly, truly, I say to you, the rooster will not crow till you have denied me three times."
+[38] ⟦yeshua|Yeshua|Jesus⟧ answered, "Will you lay down your life for me? Truly, truly, I say to you, the rooster will not crow till you have denied me three times."
 
 ## Changes
 

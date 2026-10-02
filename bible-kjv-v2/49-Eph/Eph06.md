@@ -8,9 +8,9 @@
 
 [4] Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord.
 
-[5] Bondservants, obey your earthly masters with fear and trembling, with a sincere heart, as you would the *Mashiach*,
+[5] Bondservants, obey your earthly masters with fear and trembling, with a sincere heart, as you would ⟦mashiach|the Mashiach|Christ⟧,
 
-[6] not by the way of eye-service, as people-pleasers, but as bondservants of the *Mashiach*, doing the will of *Elohim* from the heart,
+[6] not by the way of eye-service, as people-pleasers, but as bondservants of ⟦mashiach|the Mashiach|Christ⟧, doing the will of ⟦elohim|Elohim|God⟧ from the heart,
 
 [7] rendering service with a good will as to the Lord and not to man,
 
@@ -20,11 +20,11 @@
 
 [10] Finally, be strong in the Lord and in the strength of his might.
 
-[11] Put on the whole armor of *Elohim*, that you may be able to stand against the schemes of the devil.
+[11] Put on the whole armor of ⟦elohim|Elohim|God⟧, that you may be able to stand against the schemes of the devil.
 
 [12] **For we do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness, against the spiritual forces of evil in the heavenly places.**
 
-[13] Therefore take up the whole armor of *Elohim*, that you may be able to withstand in the evil day, and having done all, to stand firm.
+[13] Therefore take up the whole armor of ⟦elohim|Elohim|God⟧, that you may be able to withstand in the evil day, and having done all, to stand firm.
 
 [14] Stand therefore, having fastened on the belt of truth, and having put on the breastplate of righteousness,
 
@@ -32,7 +32,7 @@
 
 [16] In all circumstances take up the shield of faith, with which you can extinguish all the flaming darts of the evil one;
 
-[17] and take the helmet of salvation, and the sword of the Spirit, which is the word of *Elohim*,
+[17] and take the helmet of salvation, and the sword of the Spirit, which is the word of ⟦elohim|Elohim|God⟧,
 
 [18] praying at all times in the Spirit, with all prayer and supplication. To that end, keep alert with all perseverance, making supplication for all the saints,
 
@@ -40,13 +40,13 @@
 
 [20] for which I am an ambassador in chains, that I may declare it boldly, as I ought to speak.
 
-[21] So that you also may know how I am and what I am doing, Tychicus the beloved brother and faithful minister in the Lord will tell you everything.
+[21] So that you also may know how I am and what I am doing, ⟦tychicus|Tychikos|Tychicus⟧ the beloved brother and faithful minister in the Lord will tell you everything.
 
 [22] I have sent him to you for this very purpose, that you may know how we are, and that he may encourage your hearts.
 
-[23] Peace be to the brothers, and love with faith, from *Elohim* the Father and the Lord *Yeshua* the *Mashiach*.
+[23] Peace be to the brothers, and love with faith, from ⟦elohim|Elohim|God⟧ the Father and the Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧.
 
-[24] Grace be with all who love our Lord *Yeshua* the *Mashiach* with love incorruptible.
+[24] Grace be with all who love our Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧ with love incorruptible.
 
 ## Changes
 

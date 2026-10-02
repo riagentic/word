@@ -1,54 +1,54 @@
 # Exodus 2
 
-[1] Jeden muž z domu Levi šel a oženil se s dcerou Leviho.
+[1] Jeden muž z domu ⟦levi|Levi|Lévi⟧ šel a oženil se s dcerou ⟦levi|Leviho|Léviho⟧.
 
 [2] Žena otěhotněla a porodila syna; a když viděla, že je to krásné dítě, skrývala ho tři měsíce.
 
-[3] Když ho už déle nemohla skrývat, vzala pro něho košík z papyrového rákosí, vymazala ho asfaltem a smolou, vložila do něj dítě a položila ho mezi rákos na břehu Nile.
+[3] Když ho už déle nemohla skrývat, vzala pro něho košík z papyrového rákosí, vymazala ho asfaltem a smolou, vložila do něj dítě a položila ho mezi rákos na břehu ⟦nile|Jeoru|Nilu⟧.
 
 [4] Jeho sestra se postavila opodál, aby viděla, co se s ním stane.
 
-[5] Pharaohova dcera sestoupila, aby se vykoupala v Nile, a její služebné se procházely podél Nile. Uviděla košík mezi rákosím a poslala svou služku, aby ho přinesla.
+[5] ⟦pharaoh|Parohova|Faraónova⟧ dcera sestoupila, aby se vykoupala v ⟦nile|Jeoru|Nilu⟧, a její služebné se procházely podél ⟦nile|Jeoru|Nilu⟧. Uviděla košík mezi rákosím a poslala svou služku, aby ho přinesla.
 
-[6] Když ho otevřela, uviděla dítě – a hle, chlapec plakal. Slitovala se nad ním a řekla: „To je jedno z dětí Hebrejců.“
+[6] Když ho otevřela, uviděla dítě – a hle, chlapec plakal. Slitovala se nad ním a řekla: „To je jedno z dětí ⟦hebrews|Ivrim|Hebrejů⟧.“
 
-[7] Tu jeho sestra řekla Pharaohově dceři: „Mám jít a zavolat ti kojnou z hebrejských žen, aby ti dítě kojila?“
+[7] Tu jeho sestra řekla ⟦pharaoh|Parohově|faraónově⟧ dceři: „Mám jít a zavolat ti kojnou z hebrejských žen, aby ti dítě kojila?“
 
-[8] Pharaohova dcera jí řekla: „Jdi.“ Dívka tedy šla a zavolala matku dítěte.
+[8] ⟦pharaoh|Parohova|Faraónova⟧ dcera jí řekla: „Jdi.“ Dívka tedy šla a zavolala matku dítěte.
 
-[9] Pharaohova dcera jí řekla: „Vezmi toto dítě a koj mi ho, a já ti dám tvou mzdu.“ Žena tedy vzala dítě a kojila ho.
+[9] ⟦pharaoh|Parohova|Faraónova⟧ dcera jí řekla: „Vezmi toto dítě a koj mi ho, a já ti dám tvou mzdu.“ Žena tedy vzala dítě a kojila ho.
 
-[10] Když dítě vyrostlo, přivedla ho k Pharaohově dceři a on se stal jejím synem. Dala mu jméno Moses a řekla: „Protože jsem ho vytáhla z vody.“
+[10] Když dítě vyrostlo, přivedla ho k ⟦pharaoh|Parohově|faraónově⟧ dceři a on se stal jejím synem. Dala mu jméno ⟦moses|Moše|Mojžíš⟧ a řekla: „Protože jsem ho vytáhla z vody.“
 
-[11] V těch dnech, když Moses vyrostl, vyšel ke svým bratrům a díval se na jejich nucenou práci. Uviděl, jak jeden Egypťan bije Hebrejce, jednoho z jeho bratrů.
+[11] V těch dnech, když ⟦moses|Moše|Mojžíš⟧ vyrostl, vyšel ke svým bratrům a díval se na jejich nucenou práci. Uviděl, jak jeden ⟦egyptian|Micri|Egypťan⟧ bije ⟦hebrew|Ivriho|Hebreje⟧, jednoho z jeho bratrů.
 
-[12] Rozhlédl se sem a tam, a když viděl, že tu nikdo není, ubil toho Egypťana a ukryl ho v písku.
+[12] Rozhlédl se sem a tam, a když viděl, že tu nikdo není, ubil toho ⟦egyptian|Micriho|Egypťana⟧ a ukryl ho v písku.
 
-[13] Když vyšel druhého dne, hle, dva Hebrejci se spolu prali. Řekl tomu, kdo byl v neprávu: „Proč biješ svého druha?“
+[13] Když vyšel druhého dne, hle, dva ⟦hebrews|Ivrim|Hebrejové⟧ se spolu prali. Řekl tomu, kdo byl v neprávu: „Proč biješ svého druha?“
 
-[14] Ten řekl: „Kdo tě ustanovil vládcem a soudcem nad námi? Chceš mě zabít, jako jsi zabil toho Egypťana?“ Tu Moses dostal strach a řekl: „Ta věc se jistě ví.“
+[14] Ten řekl: „Kdo tě ustanovil vládcem a soudcem nad námi? Chceš mě zabít, jako jsi zabil toho ⟦egyptian|Micriho|Egypťana⟧?“ Tu ⟦moses|Moše|Mojžíš⟧ dostal strach a řekl: „Ta věc se jistě ví.“
 
-[15] Když se Pharaoh o té věci doslechl, snažil se Mosese zabít; ale Moses uprchl před Pharaohovou tváří a usadil se v zemi Midian. Posadil se u studny.
+[15] Když se ⟦pharaoh|Paro|farao⟧ o té věci doslechl, snažil se ⟦moses|Moše|Mojžíše⟧ zabít; ale ⟦moses|Moše|Mojžíš⟧ uprchl před ⟦pharaoh|Parohovou|faraónovou⟧ tváří a usadil se v zemi ⟦midian|Midjan|Midján⟧. Posadil se u studny.
 
-[16] Midianský kněz měl sedm dcer; přišly, navážily vodu a naplnily žlaby, aby napojily stádo svého otce.
+[16] ⟦midian|Midjanský|Midjánský⟧ kněz měl sedm dcer; přišly, navážily vodu a naplnily žlaby, aby napojily stádo svého otce.
 
-[17] Ale přišli pastýři a odehnali je; tu Moses vstal, zachránil je a napojil jejich stádo.
+[17] Ale přišli pastýři a odehnali je; tu ⟦moses|Moše|Mojžíš⟧ vstal, zachránil je a napojil jejich stádo.
 
-[18] Když přišly ke svému otci Reuelovi, řekl: „Jak to, že jste se dnes vrátily tak brzy?“
+[18] Když přišly ke svému otci ⟦reuel|Reuelovi|Reúelovi⟧, řekl: „Jak to, že jste se dnes vrátily tak brzy?“
 
-[19] Odpověděly: „Jeden Egypťan nás vysvobodil z ruky pastýřů, a dokonce nám navážil dost vody a napojil stádo.“
+[19] Odpověděly: „Jeden ⟦egyptian|Micri|Egypťan⟧ nás vysvobodil z ruky pastýřů, a dokonce nám navážil dost vody a napojil stádo.“
 
 [20] Řekl svým dcerám: „Kde je? Proč jste toho muže nechaly odejít? Zavolejte ho, ať jí chléb.“
 
-[21] A Moses byl ochoten bydlet u toho muže; a on dal Mosesovi za manželku svou dceru Zipporah.
+[21] A ⟦moses|Moše|Mojžíš⟧ byl ochoten bydlet u toho muže; a on dal ⟦moses|Mošovi|Mojžíšovi⟧ za manželku svou dceru ⟦zipporah|Cipporu|Siporu⟧.
 
-[22] Porodila syna a on mu dal jméno Gershom, neboť řekl: „Stal jsem se hostem v cizí zemi.“
+[22] Porodila syna a on mu dal jméno ⟦gershom|Geršom|Geršóm⟧, neboť řekl: „Stal jsem se hostem v cizí zemi.“
 
-[23] Během těch mnoha dnů egyptský král zemřel. Synové Israele sténali pod nucenou prací a úpěli; a jejich volání pro nucenou práci vystoupilo k *Elohim*.
+[23] Během těch mnoha dnů egyptský král zemřel. Synové ⟦israel|Jisraele|Izraele⟧ sténali pod nucenou prací a úpěli; a jejich volání pro nucenou práci vystoupilo k ⟦elohim|Elohim|Bohu⟧.
 
-[24] *Elohim* uslyšel jejich sténání a *Elohim* se rozpomenul na svou smlouvu s Abrahamem, s Isaacem a s Jacobem.
+[24] ⟦elohim|Elohim|Bůh⟧ uslyšel jejich sténání a ⟦elohim|Elohim|Bůh⟧ se rozpomenul na svou smlouvu s ⟦abraham|Avrahamem|Abrahamem⟧, s ⟦isaac|Jicchakem|Izákem⟧ a s ⟦jacob|Jaakovem|Jákobem⟧.
 
-[25] *Elohim* viděl syny Israele a *Elohim* si jich všiml.
+[25] ⟦elohim|Elohim|Bůh⟧ viděl syny ⟦israel|Jisraele|Izraele⟧ a ⟦elohim|Elohim|Bůh⟧ si jich všiml.
 
 ## Změny
 

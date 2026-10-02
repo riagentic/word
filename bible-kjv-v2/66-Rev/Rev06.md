@@ -10,13 +10,13 @@
 
 [5] When he opened the third seal, I heard the third living creature say, "Come!" And I looked, and behold, a black horse! And its rider had a pair of scales in his hand.
 
-[6] And I heard what seemed to be a voice in the midst of the four living creatures, saying, "A choinix of wheat for a denarius, and three choinikes of barley for a denarius, and do not harm the oil and wine!"
+[6] And I heard what seemed to be a voice in the midst of the four living creatures, saying, "A ⟦choinix|choinix|quart⟧ of wheat for a denarius, and three ⟦choinix|choinikes|quarts⟧ of barley for a denarius, and do not harm the oil and wine!"
 
 [7] When he opened the fourth seal, I heard the voice of the fourth living creature say, "Come!"
 
 [8] And I looked, and behold, a pale horse! And its rider's name was Death, and Hades followed him. And they were given authority over a fourth of the earth, to kill with sword and with famine and with pestilence and by wild beasts of the earth.
 
-[9] When he opened the fifth seal, I saw under the altar the souls of those who had been slain for the word of *Elohim* and for the witness they had borne.
+[9] When he opened the fifth seal, I saw under the altar the souls of those who had been slain for the word of ⟦elohim|Elohim|God⟧ and for the witness they had borne.
 
 [10] They cried out with a loud voice, "O Sovereign Lord, holy and true, how long before you will judge and avenge our blood on those who dwell on the earth?"
 

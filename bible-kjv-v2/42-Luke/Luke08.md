@@ -1,10 +1,10 @@
 # Luke 8
 
-[1] Soon afterward he went on through cities and villages, proclaiming and bringing the good news of the kingdom of *Elohim*. And the twelve were with him,
+[1] Soon afterward he went on through cities and villages, proclaiming and bringing the good news of the kingdom of ⟦elohim|Elohim|God⟧. And the twelve were with him,
 
-[2] and also some women who had been healed of evil spirits and infirmities: Mary, called Magdalene, from whom seven demons had gone out,
+[2] and also some women who had been healed of evil spirits and infirmities: ⟦mary|Miryam|Mary⟧, called Magdalene, from whom seven demons had gone out,
 
-[3] and Joanna, the wife of Chuza, Herod's steward, and Susanna, and many others, who provided for them out of their means.
+[3] and ⟦joanna|Yochanah|Joanna⟧, the wife of ⟦chuza|Kuza|Chuza⟧, ⟦herod|Herodes's|Herod's⟧ steward, and ⟦susanna|Shoshanah|Susanna⟧, and many others, who provided for them out of their means.
 
 [4] And when a great crowd was gathering and people from town after town came to him, he said in a parable:
 
@@ -18,9 +18,9 @@
 
 [9] And when his disciples asked him what this parable meant,
 
-[10] he said, "To you it has been given to know the secrets of the kingdom of *Elohim*, but for others they are in parables, so that '**seeing they may not see, and hearing they may not understand**.'
+[10] he said, "To you it has been given to know the secrets of the kingdom of ⟦elohim|Elohim|God⟧, but for others they are in parables, so that '**seeing they may not see, and hearing they may not understand**.'
 
-[11] Now the parable is this: The seed is the word of *Elohim*.
+[11] Now the parable is this: The seed is the word of ⟦elohim|Elohim|God⟧.
 
 [12] The ones along the path are those who have heard; then the devil comes and takes away the word from their hearts, so that they may not believe and be saved.
 
@@ -40,7 +40,7 @@
 
 [20] And he was told, "Your mother and your brothers are standing outside, desiring to see you."
 
-[21] But he answered them, "**My mother and my brothers are those who hear the word of *Elohim* and do it.**"
+[21] But he answered them, "**My mother and my brothers are those who hear the word of ⟦elohim|Elohim|God⟧ and do it.**"
 
 [22] One day he got into a boat with his disciples, and he said to them, "Let us go across to the other side of the lake." So they set out,
 
@@ -50,15 +50,15 @@
 
 [25] He said to them, "Where is your faith?" And they were afraid, and they marveled, saying to one another, "Who then is this, that he commands even winds and water, and they obey him?"
 
-[26] Then they sailed to the country of the Gerasenes, which is opposite Galilee.
+[26] Then they sailed to the country of the Gerasenes, which is opposite ⟦galilee|Galil|Galilee⟧.
 
-[27] When *Yeshua* had stepped out on land, there met him a man from the city who had demons. For a long time he had worn no clothes, and he had not lived in a house but among the tombs.
+[27] When ⟦yeshua|Yeshua|Jesus⟧ had stepped out on land, there met him a man from the city who had demons. For a long time he had worn no clothes, and he had not lived in a house but among the tombs.
 
-[28] When he saw *Yeshua*, he cried out and fell down before him and said with a loud voice, "What have you to do with me, *Yeshua*, Son of the Most High *Elohim*? I beg you, do not torment me."
+[28] When he saw ⟦yeshua|Yeshua|Jesus⟧, he cried out and fell down before him and said with a loud voice, "What have you to do with me, ⟦yeshua|Yeshua|Jesus⟧, Son of the Most High ⟦elohim|Elohim|God⟧? I beg you, do not torment me."
 
 [29] For he had commanded the unclean spirit to come out of the man. (For many a time it had seized him. He was kept under guard and bound with chains and shackles, but he would break the bonds and be driven by the demon into the desert.)
 
-[30] *Yeshua* then asked him, "What is your name?" And he said, "Legion," for many demons had entered him.
+[30] ⟦yeshua|Yeshua|Jesus⟧ then asked him, "What is your name?" And he said, "Legion," for many demons had entered him.
 
 [31] And they begged him not to command them to depart into the Abyss.
 
@@ -68,31 +68,31 @@
 
 [34] When the herdsmen saw what had happened, they fled and told it in the city and in the country.
 
-[35] Then people went out to see what had happened, and they came to *Yeshua* and found the man from whom the demons had gone, sitting at the feet of *Yeshua*, clothed and in his right mind, and they were afraid.
+[35] Then people went out to see what had happened, and they came to ⟦yeshua|Yeshua|Jesus⟧ and found the man from whom the demons had gone, sitting at the feet of ⟦yeshua|Yeshua|Jesus⟧, clothed and in his right mind, and they were afraid.
 
 [36] And those who had seen it told them how the demon-possessed man had been healed.
 
 [37] Then all the people of the surrounding country of the Gerasenes asked him to depart from them, for they were seized with great fear. So he got into the boat and returned.
 
-[38] The man from whom the demons had gone begged that he might be with him, but *Yeshua* sent him away, saying,
+[38] The man from whom the demons had gone begged that he might be with him, but ⟦yeshua|Yeshua|Jesus⟧ sent him away, saying,
 
-[39] "Return to your home, and declare how much *Elohim* has done for you." And he went away, proclaiming throughout the whole city how much *Yeshua* had done for him.
+[39] "Return to your home, and declare how much ⟦elohim|Elohim|God⟧ has done for you." And he went away, proclaiming throughout the whole city how much ⟦yeshua|Yeshua|Jesus⟧ had done for him.
 
-[40] Now when *Yeshua* returned, the crowd welcomed him, for they were all waiting for him.
+[40] Now when ⟦yeshua|Yeshua|Jesus⟧ returned, the crowd welcomed him, for they were all waiting for him.
 
-[41] And there came a man named Jairus, who was a ruler of the synagogue. And falling at *Yeshua's* feet, he implored him to come to his house,
+[41] And there came a man named ⟦jairus|Yair|Jairus⟧, who was a ruler of the synagogue. And falling at ⟦yeshua|Yeshua's|Jesus'⟧ feet, he implored him to come to his house,
 
 [42] for he had an only daughter, about twelve years of age, and she was dying.
 
-As *Yeshua* went, the people pressed around him.
+As ⟦yeshua|Yeshua|Jesus⟧ went, the people pressed around him.
 
 [43] And there was a woman who had had a discharge of blood for twelve years, and though she had spent all her living on physicians, she could not be healed by anyone.
 
 [44] She came up behind him and touched the fringe of his garment, and immediately her discharge of blood ceased.
 
-[45] And *Yeshua* said, "Who was it that touched me?" When all denied it, *Kefa* said, "Master, the crowds surround you and are pressing in on you!"
+[45] And ⟦yeshua|Yeshua|Jesus⟧ said, "Who was it that touched me?" When all denied it, ⟦peter|Kefa|Peter⟧ said, "Master, the crowds surround you and are pressing in on you!"
 
-[46] But *Yeshua* said, "Someone touched me, for I perceive that power has gone out from me."
+[46] But ⟦yeshua|Yeshua|Jesus⟧ said, "Someone touched me, for I perceive that power has gone out from me."
 
 [47] And when the woman saw that she was not hidden, she came trembling, and falling down before him declared in the presence of all the people why she had touched him, and how she had been immediately healed.
 
@@ -100,9 +100,9 @@ As *Yeshua* went, the people pressed around him.
 
 [49] While he was still speaking, someone from the ruler's house came and said, "Your daughter is dead; do not trouble the Teacher any more."
 
-[50] But *Yeshua* on hearing this answered him, "Do not fear; only believe, and she will be well."
+[50] But ⟦yeshua|Yeshua|Jesus⟧ on hearing this answered him, "Do not fear; only believe, and she will be well."
 
-[51] And when he came to the house, he allowed no one to enter with him, except *Kefa* and John and Jacob, and the father and mother of the child.
+[51] And when he came to the house, he allowed no one to enter with him, except ⟦peter|Kefa|Peter⟧ and ⟦john|Yochanan|John⟧ and ⟦james|Yaaqov|James⟧, and the father and mother of the child.
 
 [52] And all were weeping and mourning for her, but he said, "Do not weep, for she is not dead but sleeping."
 

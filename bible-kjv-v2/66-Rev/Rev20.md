@@ -6,11 +6,11 @@
 
 [3] and threw him into the abyss, and shut it and sealed it over him, so that he might not deceive the nations any longer, until the thousand years were ended. After that he must be released for a little while.
 
-[4] Then I saw thrones, and seated on them were those to whom the authority to judge was committed. Also I saw the souls of those who had been beheaded for the testimony of *Yeshua* and for the word of *Elohim*, and those who had not worshiped the beast or its image and had not received its mark on their foreheads or their hands. They came to life and reigned with the *Mashiach* for a thousand years.
+[4] Then I saw thrones, and seated on them were those to whom the authority to judge was committed. Also I saw the souls of those who had been beheaded for the testimony of ⟦yeshua|Yeshua|Jesus⟧ and for the word of ⟦elohim|Elohim|God⟧, and those who had not worshiped the beast or its image and had not received its mark on their foreheads or their hands. They came to life and reigned with ⟦mashiach|the Mashiach|Christ⟧ for a thousand years.
 
 [5] The rest of the dead did not come to life until the thousand years were ended. This is the first resurrection.
 
-[6] Blessed and holy is the one who shares in the first resurrection! Over such the second death has no power, but they will be priests of *Elohim* and of the *Mashiach*, and they will reign with him for a thousand years.
+[6] Blessed and holy is the one who shares in the first resurrection! Over such the second death has no power, but they will be priests of ⟦elohim|Elohim|God⟧ and of ⟦mashiach|the Mashiach|Christ⟧, and they will reign with him for a thousand years.
 
 [7] And when the thousand years are ended, Satan will be released from his prison
 

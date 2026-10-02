@@ -1,42 +1,42 @@
 # Izajáš 62
 
-[1] Kvůli Zionu nebudu mlčet
-a kvůli Jerusalemu nebudu zticha,
+[1] Kvůli ⟦zion|Cijonu|Sijónu⟧ nebudu mlčet
+a kvůli ⟦jerusalem|Jerušalajim|Jeruzalému⟧ nebudu zticha,
 dokud nevyjde její spravedlnost jako jas
 a její spása jako hořící pochodeň.
 
 [2] Národy uvidí tvou spravedlnost
 a všichni králové tvou slávu
 a budeš nazvána novým jménem,
-které dají ústa Yahweh.
+které dají ústa ⟦yhwh|Jahveho|Hospodina⟧.
 
-[3] Budeš korunou krásy v ruce Yahweh
-a královskou čelenkou v ruce svého *Elohim*.
+[3] Budeš korunou krásy v ruce ⟦yhwh|Jahveho|Hospodina⟧
+a královskou čelenkou v ruce svého ⟦elohim|Elohim|Boha⟧.
 
 [4] Už nebudeš nazývána Opuštěná
 a tvá země už nebude nazývána Zpustošená;
 ale budeš nazývána Má záliba je v ní
 a tvá země Provdaná;
-neboť Yahweh má v tobě zalíbení
+neboť ⟦yhwh|Jahve|Hospodin⟧ má v tobě zalíbení
 a tvá země bude provdána.
 
 [5] Neboť jako se mladý muž žení s mladou ženou,
 tak se s tebou ožení tvoji synové,
 a jako se ženich raduje z nevěsty,
-tak se bude z tebe radovat tvůj *Elohim*.
+tak se bude z tebe radovat tvůj ⟦elohim|Elohim|Bůh⟧.
 
-[6] Na tvé hradby, Jerusaleme,
+[6] Na tvé hradby, ⟦jerusalem|Jerušalajim|Jeruzaléme⟧,
 jsem ustanovil strážné;
 celý den a celou noc
 nikdy nebudou mlčet.
-Vy, kdo připomínáte Yahweh,
+Vy, kdo připomínáte ⟦yhwh|Jahveho|Hospodina⟧,
 nedopřávejte si odpočinku
 
 [7] a nedopřejte mu odpočinku,
-dokud neupevní Jerusalem
+dokud neupevní ⟦jerusalem|Jerušalajim|Jeruzalém⟧
 a neučiní ho chválou na zemi.
 
-[8] Yahweh přísahal při své pravici
+[8] ⟦yhwh|Jahve|Hospodin⟧ přísahal při své pravici
 a při své mocné paži:
 „Už nikdy nedám tvé obilí
 za pokrm tvým nepřátelům
@@ -44,7 +44,7 @@ a cizinci nebudou pít tvé víno,
 pro které ses namáhala;
 
 [9] ale ti, kdo je sklidí, je budou jíst
-a chválit Yahweh,
+a chválit ⟦yhwh|Jahveho|Hospodina⟧,
 a ti, kdo je sesbírají, je budou pít
 na nádvořích mé svatyně.“
 
@@ -54,15 +54,15 @@ budujte, budujte silnici;
 očistěte ji od kamení;
 vztyčte korouhev nad národy.
 
-[11] Hle, Yahweh vyhlásil
+[11] Hle, ⟦yhwh|Jahve|Hospodin⟧ vyhlásil
 až do končin země:
-Řekněte dceři Zionu:
+Řekněte dceři ⟦zion|Cijonu|Sijónu⟧:
 „Hle, přichází tvá Spása;
 hle, jeho odměna je s ním
 a jeho odplata před ním.“
 
 [12] A budou nazýváni Svatý lid,
-Vykoupení Yahweh;
+Vykoupení ⟦yhwh|Jahveho|Hospodina⟧;
 a ty budeš nazývána Vyhledávaná,
 Město neopuštěné.
 

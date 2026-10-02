@@ -1,62 +1,62 @@
 # Numeri 34
 
-[1] Yahweh promluvil k Mosesovi a řekl:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a řekl:
 
-[2] „Přikaž synům Israele a řekni jim: ‚Až přijdete do země Canaan (to je země, která vám připadne jako dědictví – země Canaan v rámci svých hranic):
+[2] „Přikaž synům ⟦israel|Jisraele|Izraele⟧ a řekni jim: ‚Až přijdete do země Kenaan (to je země, která vám připadne jako dědictví – země Kenaan v rámci svých hranic):
 
-[3] vaše jižní strana bude od pouště Zin podél Edomu a vaše jižní hranice bude od konce Slaného moře na východě.
+[3] vaše jižní strana bude od pouště ⟦zin|Cin|Sin⟧ podél ⟦edom|Edomu|Edómu⟧ a vaše jižní hranice bude od konce Slaného moře na východě.
 
-[4] Vaše hranice se stočí na jih od stoupání Akrabbim a přejde k Zin; její konec bude na jih od Kadesh-barnea, a půjde dál k Hazar-addar a přejde k Azmon.
+[4] Vaše hranice se stočí na jih od stoupání ⟦akrabbim|Akrabbim|Akrabím⟧ a přejde k ⟦zin|Cin|Sin⟧; její konec bude na jih od ⟦kadesh-barnea|Kadeš Barnea|Kádeš-barnea⟧, a půjde dál k ⟦hazar-addar|Chacar Addar|Chasar-adar⟧ a přejde k ⟦azmon|Acmon|Asmón⟧.
 
-[5] Od Azmon se hranice stočí k Egyptskému vádí a skončí u Moře.
+[5] Od ⟦azmon|Acmon|Asmón⟧ se hranice stočí k ⟦egypt|vádí Micrajim|Egyptskému vádí⟧ a skončí u Moře.
 
 [6] Co se týče západní hranice, budete mít za hranici Velké moře; to bude vaše západní hranice.
 
-[7] Toto bude vaše severní hranice: od Velkého moře povedete čáru k hoře Hor,
+[7] Toto bude vaše severní hranice: od Velkého moře povedete čáru k hoře ⟦hor|Hor|Hór⟧,
 
-[8] od hory Hor povedete čáru k Lebo-hamath a hranice skončí u Zedad.
+[8] od hory ⟦hor|Hor|Hór⟧ povedete čáru k ⟦lebo-hamath|Levo Chamat|Lebó-chamát⟧ a hranice skončí u ⟦zedad|Cedad|Sedad⟧.
 
-[9] Hranice bude pokračovat k Ziphron a její konec bude u Hazar-enan; to bude vaše severní hranice.
+[9] Hranice bude pokračovat k ⟦ziphron|Zifron|Zifrón⟧ a její konec bude u ⟦hazar-enan|Chacar Enan|Chasar-énan⟧; to bude vaše severní hranice.
 
-[10] Svou východní hranici povedete od Hazar-enan k Shepham.
+[10] Svou východní hranici povedete od ⟦hazar-enan|Chacar Enan|Chasar-énan⟧ k Šefam.
 
-[11] Hranice sestoupí od Shepham k Riblah na východní straně Ain, a hranice bude klesat a dosáhne východního svahu moře Chinnereth.
+[11] Hranice sestoupí od Šefam k ⟦riblah|Rivla|Ribla⟧ na východní straně Ajin, a hranice bude klesat a dosáhne východního svahu moře ⟦chinnereth|Kinneret|Kineret⟧.
 
-[12] Hranice sestoupí k Jordanu a skončí u Slaného moře. To bude vaše země s jejími hranicemi dokola.‘“
+[12] Hranice sestoupí k ⟦jordan|Jardenu|Jordánu⟧ a skončí u Slaného moře. To bude vaše země s jejími hranicemi dokola.‘“
 
-[13] Moses přikázal synům Israele: „To je země, kterou zdědíte losem a o níž Yahweh přikázal, aby byla dána devíti kmenům a polovině kmene;
+[13] ⟦moses|Moše|Mojžíš⟧ přikázal synům ⟦israel|Jisraele|Izraele⟧: „To je země, kterou zdědíte losem a o níž ⟦yhwh|Jahve|Hospodin⟧ přikázal, aby byla dána devíti kmenům a polovině kmene;
 
-[14] neboť kmen synů Reubenových podle svých rodů otců a kmen synů Gadových podle svých rodů otců již obdržely své dědictví, a polovina kmene Manasseh obdržela své dědictví.
+[14] neboť kmen synů ⟦reuben|Reuvenových|Rúbenových⟧ podle svých rodů otců a kmen synů ⟦gad|Gadových|Gádových⟧ podle svých rodů otců již obdržely své dědictví, a polovina kmene ⟦manasseh|Menaše|Manases⟧ obdržela své dědictví.
 
-[15] Ty dva kmeny a polovina kmene obdržely své dědictví na této straně Jordanu naproti Jerichu, směrem na východ.“
+[15] Ty dva kmeny a polovina kmene obdržely své dědictví na této straně ⟦jordan|Jardenu|Jordánu⟧ naproti Jerichu, směrem na východ.“
 
-[16] Yahweh promluvil k Mosesovi a řekl:
+[16] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a řekl:
 
-[17] „Toto jsou jména mužů, kteří vám rozdělí zemi: kněz Eleazar a Joshua, syn Nunův.
+[17] „Toto jsou jména mužů, kteří vám rozdělí zemi: kněz ⟦eleazar|Elazar|Eleazar⟧ a ⟦joshua|Jehošua|Jozue⟧, syn ⟦nun|Nunův|Núnův⟧.
 
 [18] Vezmete po jednom předákovi z každého kmene, aby rozdělili zemi.
 
-[19] Toto jsou jména těch mužů: z kmene Judah Caleb, syn Jephunnehův;
+[19] Toto jsou jména těch mužů: z kmene ⟦judah|Jehuda|Juda⟧ ⟦caleb|Kalev|Káleb⟧, syn ⟦jephunneh|Jefunnův|Jefunův⟧;
 
-[20] z kmene synů Simeonových Shemuel, syn Ammihudův;
+[20] z kmene synů ⟦simeon|Šimonových|Šimeónových⟧ ⟦shemuel|Šemuel|Šemúel⟧, syn ⟦ammihud|Ammihudův|Amíhudův⟧;
 
-[21] z kmene Benjamin Elidad, syn Chislonův;
+[21] z kmene ⟦benjamin|Binjamin|Benjamín⟧ ⟦elidad|Elidad|Elídad⟧, syn ⟦chislon|Kislonův|Kislónův⟧;
 
-[22] z kmene synů Danových předák Bukki, syn Jogliho;
+[22] z kmene synů Danových předák ⟦bukki|Bukki|Bukí⟧, syn ⟦jogli|Jogliho|Joglího⟧;
 
-[23] ze synů Josephových: z kmene synů Manassehových předák Hanniel, syn Ephodův;
+[23] ze synů Josefových: z kmene synů ⟦manasseh|Menašových|Manasesových⟧ předák ⟦hanniel|Channiel|Chaníel⟧, syn ⟦ephod-person|Efodův|Éfodův⟧;
 
-[24] z kmene synů Ephraimových předák Kemuel, syn Shiphtanův;
+[24] z kmene synů Efrajimových předák ⟦kemuel|Kemuel|Kemúel⟧, syn ⟦shiphtan|Šiftanův|Šiftánův⟧;
 
-[25] z kmene synů Zebulunových předák Elizaphan, syn Parnachův;
+[25] z kmene synů ⟦zebulun|Zevulunových|Zabulónových⟧ předák ⟦elizaphan|Elicafan|Elísafan⟧, syn ⟦parnach|Parnachův|Parnakův⟧;
 
-[26] z kmene synů Issacharových předák Paltiel, syn Azzanův;
+[26] z kmene synů ⟦issachar|Jissacharových|Isacharových⟧ předák ⟦paltiel|Paltiel|Paltíel⟧, syn ⟦azzan|Azzanův|Azánův⟧;
 
-[27] z kmene synů Asherových předák Ahihud, syn Shelomiho;
+[27] z kmene synů Ašerových předák ⟦ahihud|Achihud|Achíhud⟧, syn ⟦shelomi|Šelomiho|Šelomího⟧;
 
-[28] z kmene synů Naphtaliho předák Pedahel, syn Ammihudův.“
+[28] z kmene synů ⟦naphtali|Naftaliho|Neftalího⟧ předák Pedahel, syn ⟦ammihud|Ammihudův|Amíhudův⟧.“
 
-[29] To jsou ti, jimž Yahweh přikázal rozdělit dědictví synům Israele v zemi Canaan.
+[29] To jsou ti, jimž ⟦yhwh|Jahve|Hospodin⟧ přikázal rozdělit dědictví synům ⟦israel|Jisraele|Izraele⟧ v zemi Kenaan.
 
 ## Změny
 

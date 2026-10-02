@@ -7,7 +7,7 @@ než dům plný hodování se svárem.
 a podělí se o dědictví jako jeden z bratří.
 
 [3] Tavicí kelímek je pro stříbro a pec pro zlato,
-ale srdce zkouší Yahweh.
+ale srdce zkouší ⟦yhwh|Jahve|Hospodin⟧.
 
 [4] Zlovolník naslouchá ničemným rtům
 a lhář přikládá ucho zhoubnému jazyku.
@@ -43,7 +43,7 @@ od jeho domu zlo neodstoupí.
 proto přestaň dřív, než hádka propukne.
 
 [15] Kdo ospravedlňuje ničemného, i kdo odsuzuje spravedlivého,
-jsou oba stejně Yahweh ohavností.
+jsou oba stejně ⟦yhwh|Jahvovi|Hospodinu⟧ ohavností.
 
 [16] Proč by měl mít hlupák v ruce peníze na koupi moudrosti,
 když nemá rozum?

@@ -1,6 +1,6 @@
 # Isaiah 46
 
-[1] Bel bows down; Nebo stoops;
+[1] Bel bows down; ⟦nebo|Nevo|Nebo⟧ stoops;
 their idols are on beasts and livestock;
 these things you carry are borne as burdens
 on weary beasts.
@@ -9,8 +9,8 @@ on weary beasts.
 they cannot save the burden,
 but themselves go into captivity.
 
-[3] "Listen to me, O house of Jacob,
-all the remnant of the house of Israel,
+[3] "Listen to me, O house of ⟦jacob|Yaaqov|Jacob⟧,
+all the remnant of the house of ⟦israel|Yisrael|Israel⟧,
 who have been borne by me from before your birth,
 carried from the womb;
 
@@ -37,8 +37,8 @@ or save him from his trouble.
 recall it to mind, you transgressors,
 
 [9] remember the former things of old;
-for I am *Elohim*, and there is no other;
-I am *Elohim*, and there is none like me,
+for I am ⟦el|El|God⟧, and there is no other;
+I am ⟦elohim|Elohim|God⟧, and there is none like me,
 
 [10] declaring the end from the beginning
 and from ancient times things not yet done,
@@ -55,13 +55,14 @@ you who are far from righteousness:
 
 [13] I bring near my righteousness; it is not far off,
 and my salvation will not delay;
-I will put salvation in Zion,
-for Israel my glory."
+I will put salvation in ⟦zion|Tziyon|Zion⟧,
+for ⟦israel|Yisrael|Israel⟧ my glory."
 
 ## Changes
 
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*; the chapter's divine polemic uses *El*/*Elohim* primarily.
 - **"Bel" / "Nebo" preserved** (vv1-2) — Babylonian divine names kept as proper nouns; no gloss added since self-evident in context.
+- **"God" → "El"** (v9) — Hebrew אֵל *El*, not *Elohim*.
 - **Poetic structure** — entire chapter formatted as verse; divine polemic against Babylonian gods.
 
 ### Notes

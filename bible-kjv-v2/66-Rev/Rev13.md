@@ -10,7 +10,7 @@
 
 [5] And the beast was given a mouth uttering haughty and blasphemous words, and it was allowed to exercise authority for forty-two months.
 
-[6] It opened its mouth to utter blasphemies against *Elohim*, blaspheming his name and his dwelling, that is, those who dwell in heaven.
+[6] It opened its mouth to utter blasphemies against ⟦elohim|Elohim|God⟧, blaspheming his name and his dwelling, that is, those who dwell in heaven.
 
 [7] Also it was allowed to make war on the saints and to conquer them. And authority was given it over every tribe and people and language and nation,
 

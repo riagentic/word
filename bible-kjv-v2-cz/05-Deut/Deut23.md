@@ -1,20 +1,20 @@
 # Deuteronomium 23
 
-[1] „Nikdo s rozdrcenými varlaty nebo s uříznutým mužským údem nevstoupí do shromáždění Yahweh.
+[1] „Nikdo s rozdrcenými varlaty nebo s uříznutým mužským údem nevstoupí do shromáždění ⟦yhwh|Jahveho|Hospodina⟧.
 
-[2] Nikdo zrozený ze zakázaného svazku nevstoupí do shromáždění Yahweh; ani do desátého pokolení nevstoupí nikdo z jeho potomků do shromáždění Yahweh.
+[2] Nikdo zrozený ze zakázaného svazku nevstoupí do shromáždění ⟦yhwh|Jahveho|Hospodina⟧; ani do desátého pokolení nevstoupí nikdo z jeho potomků do shromáždění ⟦yhwh|Jahveho|Hospodina⟧.
 
-[3] Žádný Ammonita ani Moabita nevstoupí do shromáždění Yahweh; ani do desátého pokolení nevstoupí nikdo z jejich potomků do shromáždění Yahweh navěky,
+[3] Žádný ⟦ammonites|Ammoni|Amónovec⟧ ani ⟦moabites|Moavi|Moábec⟧ nevstoupí do shromáždění ⟦yhwh|Jahveho|Hospodina⟧; ani do desátého pokolení nevstoupí nikdo z jejich potomků do shromáždění ⟦yhwh|Jahveho|Hospodina⟧ navěky,
 
-[4] protože vám nevyšli vstříc s chlebem a vodou na cestě, když jste vycházeli z Egypta, a protože proti tobě najali Balaama, syna Beorova, z Pethoru v Aram-naharaim, aby tě proklel.
+[4] protože vám nevyšli vstříc s chlebem a vodou na cestě, když jste vycházeli z ⟦egypt|Micrajim|Egypta⟧, a protože proti tobě najali ⟦balaam|Bilama|Bileáma⟧, syna ⟦beor|Beorova|Beórova⟧, z ⟦pethor|Petoru|Petóru⟧ v ⟦aram-naharaim|Aram Naharajim|Aram-naharajim⟧, aby tě proklel.
 
-[5] Ale Yahweh, tvůj *Elohim*, nechtěl Balaama slyšet; Yahweh, tvůj *Elohim*, ti obrátil kletbu v požehnání, protože tě Yahweh, tvůj *Elohim*, miloval.
+[5] Ale ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, nechtěl ⟦balaam|Bilama|Bileáma⟧ slyšet; ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, ti obrátil kletbu v požehnání, protože tě ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, miloval.
 
 [6] Nebudeš usilovat o jejich pokoj ani o jejich blaho po všechny své dny navěky.
 
-[7] Nebudeš si ošklivit Edomitu, neboť je to tvůj bratr; nebudeš si ošklivit Egypťana, protože jsi byl v jeho zemi přistěhovalcem.
+[7] Nebudeš si ošklivit ⟦edomites|Edomi|Edómce⟧, neboť je to tvůj bratr; nebudeš si ošklivit ⟦egyptian|Micri|Egypťana⟧, protože jsi byl v jeho zemi přistěhovalcem.
 
-[8] Děti, které se jim narodí ve třetím pokolení, smějí vstoupit do shromáždění Yahweh.
+[8] Děti, které se jim narodí ve třetím pokolení, smějí vstoupit do shromáždění ⟦yhwh|Jahveho|Hospodina⟧.
 
 [9] Když vytáhneš jako vojsko proti svým nepřátelům, budeš se střežit všeho zlého.
 
@@ -26,25 +26,25 @@
 
 [13] Ve své výstroji budeš mít lopatku, a když si venku sedneš, vykopeš jí jamku, obrátíš se a přikryješ to, co z tebe vyšlo.
 
-[14] Neboť Yahweh, tvůj *Elohim*, chodí uprostřed tvého tábora, aby tě vysvobodil a vydal ti tvé nepřátele. Proto bude tvůj tábor svatý, aby u tebe neviděl nic nepatřičného a neodvrátil se od tebe.
+[14] Neboť ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, chodí uprostřed tvého tábora, aby tě vysvobodil a vydal ti tvé nepřátele. Proto bude tvůj tábor svatý, aby u tebe neviděl nic nepatřičného a neodvrátil se od tebe.
 
 [15] Nevydáš jeho pánu otroka, který k tobě uprchl od svého pána.
 
 [16] Bude bydlet s tebou, uprostřed tebe, na místě, které si vybere v některé z tvých bran, kde se mu bude líbit. Nebudeš ho utiskovat.
 
-[17] Mezi dcerami Israele nebude žádná kultovní prostitutka a mezi syny Israele nebude žádný kultovní prostitut.
+[17] Mezi dcerami ⟦israel|Jisraele|Izraele⟧ nebude žádná kultovní prostitutka a mezi syny ⟦israel|Jisraele|Izraele⟧ nebude žádný kultovní prostitut.
 
-[18] Nepřineseš mzdu nevěstky ani cenu psa do domu Yahweh, svého *Elohim*, k splnění jakéhokoli slibu, neboť obojí je ohavností pro Yahweh, tvého *Elohim*.
+[18] Nepřineseš mzdu nevěstky ani cenu psa do domu ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, k splnění jakéhokoli slibu, neboť obojí je ohavností pro ⟦yhwh|Jahveho|Hospodina⟧, tvého ⟦elohim|Elohim|Boha⟧.
 
 [19] Nebudeš půjčovat svému bratru na úrok – úrok z peněz, úrok z potravin, úrok z čehokoli, co se půjčuje na úrok.
 
-[20] Cizinci smíš půjčovat na úrok, ale svému bratru nebudeš půjčovat na úrok, aby ti Yahweh, tvůj *Elohim*, žehnal ve všem, do čeho vztáhneš ruku, v zemi, do které vcházíš, abys ji vlastnil.
+[20] Cizinci smíš půjčovat na úrok, ale svému bratru nebudeš půjčovat na úrok, aby ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, žehnal ve všem, do čeho vztáhneš ruku, v zemi, do které vcházíš, abys ji vlastnil.
 
-[21] Když složíš slib Yahweh, svému *Elohim*, nebudeš otálet s jeho splněním, neboť Yahweh, tvůj *Elohim*, to od tebe jistě bude vyžadovat, a byl by to na tobě hřích.
+[21] Když složíš slib ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧, nebudeš otálet s jeho splněním, neboť ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, to od tebe jistě bude vyžadovat, a byl by to na tobě hřích.
 
 [22] Jestliže se však slibování zdržíš, nebude to na tobě hřích.
 
-[23] Co vyjde z tvých rtů, budeš dbát, abys vykonal, jak jsi dobrovolně slíbil Yahweh, svému *Elohim*, co jsi vyslovil svými ústy.
+[23] Co vyjde z tvých rtů, budeš dbát, abys vykonal, jak jsi dobrovolně slíbil ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧, co jsi vyslovil svými ústy.
 
 [24] Když vejdeš do vinice svého bližního, smíš jíst hrozny do sytosti, kolik chceš, ale do své nádoby nic nedáš.
 

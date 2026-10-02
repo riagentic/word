@@ -1,74 +1,74 @@
 # Genesis 26
 
-[1] There was a famine in the land, besides the first famine that was in the days of Abraham. So Isaac went to Abimelech king of the Philistines, to Gerar.
+[1] There was a famine in the land, besides the first famine that was in the days of ⟦abraham|Avraham|Abraham⟧. So ⟦isaac|Yitzchaq|Isaac⟧ went to ⟦abimelech|Avimelech|Abimelech⟧ king of the ⟦philistines|Pelishtim|Philistines⟧, to Gerar.
 
-[2] Yahweh appeared to him and said, "Do not go down to Egypt; dwell in the land of which I shall tell you.
+[2] ⟦yhwh|Yahweh|The LORD⟧ appeared to him and said, "Do not go down to ⟦egypt|Mitzrayim|Egypt⟧; dwell in the land of which I shall tell you.
 
-[3] Sojourn in this land, and I will be with you and bless you; for to you and to your offspring I will give all these lands, and I will establish the oath that I swore to Abraham your father.
+[3] Sojourn in this land, and I will be with you and bless you; for to you and to your offspring I will give all these lands, and I will establish the oath that I swore to ⟦abraham|Avraham|Abraham⟧ your father.
 
 [4] I will multiply your offspring as the stars of the heavens, and will give to your offspring all these lands; and in your offspring all the nations of the earth shall find blessing,
 
-[5] because Abraham listened to my voice, and kept my charge, my commandments, my statutes, and my instructions."
+[5] because ⟦abraham|Avraham|Abraham⟧ listened to my voice, and kept my charge, my commandments, my statutes, and my instructions."
 
-[6] So Isaac dwelt in Gerar.
+[6] So ⟦isaac|Yitzchaq|Isaac⟧ dwelt in Gerar.
 
-[7] The men of the place asked him about his wife, and he said, "She is my sister" — for he was afraid to say, "my wife," thinking, "the men of the place may kill me because of Rebekah, since she is beautiful to look at."
+[7] The men of the place asked him about his wife, and he said, "She is my sister" — for he was afraid to say, "my wife," thinking, "the men of the place may kill me because of ⟦rebekah|Rivqah|Rebekah⟧, since she is beautiful to look at."
 
-[8] When he had been there a long time, Abimelech king of the Philistines looked down through a window and saw — and behold, Isaac was caressing Rebekah his wife.
+[8] When he had been there a long time, ⟦abimelech|Avimelech|Abimelech⟧ king of the ⟦philistines|Pelishtim|Philistines⟧ looked down through a window and saw — and behold, ⟦isaac|Yitzchaq|Isaac⟧ was caressing ⟦rebekah|Rivqah|Rebekah⟧ his wife.
 
-[9] So Abimelech called Isaac and said, "Look, she is certainly your wife. How could you say, 'She is my sister'?" Isaac said to him, "Because I thought, 'I might die on account of her.'"
+[9] So ⟦abimelech|Avimelech|Abimelech⟧ called ⟦isaac|Yitzchaq|Isaac⟧ and said, "Look, she is certainly your wife. How could you say, 'She is my sister'?" ⟦isaac|Yitzchaq|Isaac⟧ said to him, "Because I thought, 'I might die on account of her.'"
 
-[10] Abimelech said, "What is this you have done to us? One of the people might easily have lain with your wife, and you would have brought guilt upon us."
+[10] ⟦abimelech|Avimelech|Abimelech⟧ said, "What is this you have done to us? One of the people might easily have lain with your wife, and you would have brought guilt upon us."
 
-[11] Abimelech commanded all the people, saying, "Whoever touches this man or his wife shall surely be put to death."
+[11] ⟦abimelech|Avimelech|Abimelech⟧ commanded all the people, saying, "Whoever touches this man or his wife shall surely be put to death."
 
-[12] Isaac sowed in that land and reaped in the same year a hundredfold; and Yahweh blessed him.
+[12] ⟦isaac|Yitzchaq|Isaac⟧ sowed in that land and reaped in the same year a hundredfold; and ⟦yhwh|Yahweh|the LORD⟧ blessed him.
 
 [13] The man became rich, and continued to grow richer until he became very wealthy.
 
-[14] He had possessions of flocks and herds, and a large household, and the Philistines envied him.
+[14] He had possessions of flocks and herds, and a large household, and the ⟦philistines|Pelishtim|Philistines⟧ envied him.
 
-[15] Now all the wells that his father's servants had dug in the days of Abraham his father, the Philistines had stopped up and filled with earth.
+[15] Now all the wells that his father's servants had dug in the days of ⟦abraham|Avraham|Abraham⟧ his father, the ⟦philistines|Pelishtim|Philistines⟧ had stopped up and filled with earth.
 
-[16] Abimelech said to Isaac, "Go away from us, for you are much mightier than we."
+[16] ⟦abimelech|Avimelech|Abimelech⟧ said to ⟦isaac|Yitzchaq|Isaac⟧, "Go away from us, for you are much mightier than we."
 
-[17] So Isaac departed from there and encamped in the wadi of Gerar, and dwelt there.
+[17] So ⟦isaac|Yitzchaq|Isaac⟧ departed from there and encamped in the wadi of Gerar, and dwelt there.
 
-[18] Isaac dug again the wells of water that had been dug in the days of Abraham his father, which the Philistines had stopped up after the death of Abraham; and he called them by the names that his father had called them.
+[18] ⟦isaac|Yitzchaq|Isaac⟧ dug again the wells of water that had been dug in the days of ⟦abraham|Avraham|Abraham⟧ his father, which the ⟦philistines|Pelishtim|Philistines⟧ had stopped up after the death of ⟦abraham|Avraham|Abraham⟧; and he called them by the names that his father had called them.
 
-[19] When Isaac's servants dug in the wadi and found there a well of fresh water,
+[19] When ⟦isaac|Yitzchaq's|Isaac's⟧ servants dug in the wadi and found there a well of fresh water,
 
-[20] the herders of Gerar quarreled with Isaac's herders, saying, "The water is ours." So he called the name of the well Esek ("quarrel"), because they contested with him.
+[20] the herders of Gerar quarreled with ⟦isaac|Yitzchaq's|Isaac's⟧ herders, saying, "The water is ours." So he called the name of the well ⟦esek|Eseq|Esek⟧ ("quarrel"), because they contested with him.
 
 [21] They dug another well, and quarreled over that also; and he called its name Sitnah ("enmity").
 
-[22] He moved on from there and dug another well, and they did not quarrel over that one; so he called its name Rehoboth ("broad places"), saying, "For now Yahweh has made room for us, and we shall be fruitful in the land."
+[22] He moved on from there and dug another well, and they did not quarrel over that one; so he called its name ⟦rehoboth|Rechovot|Rehoboth⟧ ("broad places"), saying, "For now ⟦yhwh|Yahweh|the LORD⟧ has made room for us, and we shall be fruitful in the land."
 
-[23] From there he went up to Beersheba.
+[23] From there he went up to ⟦beersheba|Beer Sheva|Beersheba⟧.
 
-[24] And Yahweh appeared to him that same night and said, "I am the *Elohim* of Abraham your father. Do not be afraid, for I am with you; I will bless you and multiply your offspring for the sake of Abraham my servant."
+[24] And ⟦yhwh|Yahweh|the LORD⟧ appeared to him that same night and said, "I am the ⟦elohim|Elohim|God⟧ of ⟦abraham|Avraham|Abraham⟧ your father. Do not be afraid, for I am with you; I will bless you and multiply your offspring for the sake of ⟦abraham|Avraham|Abraham⟧ my servant."
 
-[25] So he built an altar there and called on the name of Yahweh; and he pitched his tent there. There Isaac's servants dug a well.
+[25] So he built an altar there and called on the name of ⟦yhwh|Yahweh|the LORD⟧; and he pitched his tent there. There ⟦isaac|Yitzchaq's|Isaac's⟧ servants dug a well.
 
-[26] Then Abimelech went to him from Gerar, with Ahuzzath his adviser, and Phicol the commander of his army.
+[26] Then ⟦abimelech|Avimelech|Abimelech⟧ went to him from Gerar, with ⟦ahuzzath|Achuzzat|Ahuzzath⟧ his adviser, and ⟦phicol|Pichol|Phicol⟧ the commander of his army.
 
-[27] Isaac said to them, "Why have you come to me, seeing that you hate me and have sent me away from you?"
+[27] ⟦isaac|Yitzchaq|Isaac⟧ said to them, "Why have you come to me, seeing that you hate me and have sent me away from you?"
 
-[28] They said, "We have seen plainly that Yahweh was with you; so we said, 'Let there be an oath between us, between us and you, and let us make a covenant with you,
+[28] They said, "We have seen plainly that ⟦yhwh|Yahweh|the LORD⟧ was with you; so we said, 'Let there be an oath between us, between us and you, and let us make a covenant with you,
 
-[29] that you will do us no harm, just as we have not touched you and have done to you nothing but good, and have sent you away in peace. You are now the blessed of Yahweh.'"
+[29] that you will do us no harm, just as we have not touched you and have done to you nothing but good, and have sent you away in peace. You are now the blessed of ⟦yhwh|Yahweh|the LORD⟧.'"
 
 [30] So he made them a feast, and they ate and drank.
 
-[31] They rose early in the morning and swore to one another; and Isaac sent them away, and they departed from him in peace.
+[31] They rose early in the morning and swore to one another; and ⟦isaac|Yitzchaq|Isaac⟧ sent them away, and they departed from him in peace.
 
-[32] That same day Isaac's servants came and told him about the well that they had dug, and said to him, "We have found water."
+[32] That same day ⟦isaac|Yitzchaq's|Isaac's⟧ servants came and told him about the well that they had dug, and said to him, "We have found water."
 
-[33] So he called it Shibah (Shiv'ah, "oath / seven"); therefore the name of the city is Beersheba to this day.
+[33] So he called it ⟦shibah|Shivah|Shibah⟧ (Shiv'ah, "oath / seven"); therefore the name of the city is ⟦beersheba|Beer Sheva|Beersheba⟧ to this day.
 
-[34] When Esau was 40 years old, he took as wives Judith the daughter of Beeri the Hittite, and Basemath the daughter of Elon the Hittite;
+[34] When ⟦esau|Esav|Esau⟧ was 40 years old, he took as wives ⟦judith|Yehudit|Judith⟧ the daughter of Beeri the ⟦hittite|Chitti|Hittite⟧, and ⟦basemath|Basmat|Basemath⟧ the daughter of Elon the ⟦hittite|Chitti|Hittite⟧;
 
-[35] and they were a bitterness of spirit to Isaac and Rebekah.
+[35] and they were a bitterness of spirit to ⟦isaac|Yitzchaq|Isaac⟧ and ⟦rebekah|Rivqah|Rebekah⟧.
 
 ## Changes
 

@@ -1,18 +1,18 @@
 # Matouš 11
 
-[1] Když *Yeshua* dokončil pokyny svým dvanácti učedníkům, odešel odtud, aby učil a kázal v jejich městech.
+[1] Když ⟦yeshua|Ješua|Ježíš⟧ dokončil pokyny svým dvanácti učedníkům, odešel odtud, aby učil a kázal v jejich městech.
 
-[2] Když John ve vězení uslyšel o skutcích *Mashiacha*, poslal vzkaz po svých učednících
+[2] Když ⟦john|Jochanan|Jan⟧ ve vězení uslyšel o skutcích ⟦mashiach|Mašiacha|Krista⟧, poslal vzkaz po svých učednících
 
 [3] a řekl mu: „Jsi ty ten, který má přijít, nebo máme čekat jiného?“
 
-[4] *Yeshua* jim odpověděl: „Jděte a oznamte Johnovi, co slyšíte a vidíte:
+[4] ⟦yeshua|Ješua|Ježíš⟧ jim odpověděl: „Jděte a oznamte ⟦john|Jochananovi|Janovi⟧, co slyšíte a vidíte:
 
 [5] slepí vidí a chromí chodí, malomocní jsou očišťováni a hluší slyší, mrtví jsou křísení a chudým je zvěstováno evangelium.
 
 [6] A blahoslavený je ten, kdo se na mně neurazí.“
 
-[7] Když odcházeli, začal *Yeshua* mluvit k zástupům o Johnovi: „Co jste vyšli na pustinu vidět? Rákos, kterým kývá vítr?
+[7] Když odcházeli, začal ⟦yeshua|Ješua|Ježíš⟧ mluvit k zástupům o ⟦john|Jochananovi|Janovi⟧: „Co jste vyšli na pustinu vidět? Rákos, kterým kývá vítr?
 
 [8] Co jste tedy vyšli vidět? Člověka oblečeného do jemných šatů? Hle, ti, kdo nosí jemné šaty, jsou v domech králů.
 
@@ -23,13 +23,13 @@
 ‚Hle, posílám svého posla před tvou tváří,
 který připraví tvou cestu před tebou.‘
 
-[11] Vpravdě vám pravím: Mezi zrozenými z žen nepovstal nikdo větší než John Ponořovatel. Avšak ten nejmenší v království nebes je větší než on.
+[11] Vpravdě vám pravím: Mezi zrozenými z žen nepovstal nikdo větší než ⟦john|Jochanan|Jan⟧ ⟦immerser|Ponořovatel|Křtitel⟧. Avšak ten nejmenší v království nebes je větší než on.
 
-[12] Ode dnů Johna Ponořovatele až dosud trpí království nebes násilí a násilníci se ho zmocňují silou.
+[12] Ode dnů ⟦john|Jochanana|Jana⟧ ⟦immerser|Ponořovatele|Křtitele⟧ až dosud trpí království nebes násilí a násilníci se ho zmocňují silou.
 
-[13] Neboť všichni Proroci i Zákon prorokovali až do Johna,
+[13] Neboť všichni Proroci i ⟦torah|Tóra|Zákon⟧ prorokovali až do ⟦john|Jochanana|Jana⟧,
 
-[14] a chcete-li to přijmout, on je Elijah, který má přijít.
+[14] a chcete-li to přijmout, on je ⟦elijah|Elijahu|Eliáš⟧, který má přijít.
 
 [15] Kdo má uši k slyšení, ať slyší.
 
@@ -38,21 +38,21 @@ který připraví tvou cestu před tebou.‘
 [17] ‚Pískali jsme vám na flétnu, a netancovali jste;
 zpívali jsme žalozpěv, a netruchlili jste.‘
 
-[18] Přišel totiž John, nejedl a nepil, a říkají: ‚Má démona.‘
+[18] Přišel totiž ⟦john|Jochanan|Jan⟧, nejedl a nepil, a říkají: ‚Má démona.‘
 
 [19] Přišel Syn člověka, jí a pije, a říkají: ‚Podívejte se na něj! Žrout a opilec, přítel výběrčích daní a hříšníků!‘ A přece je moudrost ospravedlněna svými skutky.“
 
 [20] Tehdy začal kárat města, v nichž se stala většina jeho mocných skutků, protože nečinila pokání.
 
-[21] „Běda ti, Chorazine! Běda ti, Beit Tzaidah! Neboť kdyby se v Tyre a Sidonu staly mocné skutky, které se staly u vás, dávno by byly činily pokání v žínici a popelu.
+[21] „Běda ti, ⟦chorazin|Korazine|Chorazin⟧! Běda ti, ⟦bethsaida|Bejt Cajdo|Betsaido⟧! Neboť kdyby se v ⟦tyre|Coru|Týru⟧ a ⟦sidon|Cidonu|Sidónu⟧ staly mocné skutky, které se staly u vás, dávno by byly činily pokání v žínici a popelu.
 
-[22] Ale pravím vám, že Tyre a Sidonu bude v den soudu snesitelněji než vám.
+[22] Ale pravím vám, že ⟦tyre|Coru|Týru⟧ a ⟦sidon|Cidonu|Sidónu⟧ bude v den soudu snesitelněji než vám.
 
-[23] A ty, Capernaume, budeš snad vyvýšen až do nebe? Budeš svržen až do Sheol. Neboť kdyby se v Sodomě staly mocné skutky, které se staly v tobě, zůstala by až do dnešního dne.
+[23] A ty, ⟦capernaum|Kfar Nachume|Kafarnaum⟧, budeš snad vyvýšen až do nebe? Budeš svržen až do ⟦sheol|Šeol|podsvětí⟧. Neboť kdyby se v ⟦sodom|Sedomu|Sodomě⟧ staly mocné skutky, které se staly v tobě, zůstala by až do dnešního dne.
 
-[24] Ale pravím vám, že zemi Sodomy bude v den soudu snesitelněji než tobě.“
+[24] Ale pravím vám, že zemi ⟦sodom|Sedomu|Sodomy⟧ bude v den soudu snesitelněji než tobě.“
 
-[25] V ten čas *Yeshua* promluvil: „Chválím tě, Otče, Pane nebe i země, že jsi tyto věci skryl před moudrými a rozumnými a zjevil je malým dětem;
+[25] V ten čas ⟦yeshua|Ješua|Ježíš⟧ promluvil: „Chválím tě, Otče, Pane nebe i země, že jsi tyto věci skryl před moudrými a rozumnými a zjevil je malým dětem;
 
 [26] ano, Otče, neboť tak se ti zalíbilo.
 

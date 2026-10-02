@@ -12,7 +12,7 @@
 
 [6] a přísahal při tom, který žije na věky věků, který stvořil nebe a co je v něm, zemi a co je na ní, i moře a co je v něm, že už nebude žádný odklad,
 
-[7] ale že ve dnech, kdy zazní polnice sedmého anděla, se naplní tajemství *Elohim*, jak to zvěstoval svým služebníkům prorokům.
+[7] ale že ve dnech, kdy zazní polnice sedmého anděla, se naplní tajemství ⟦elohim|Elohim|Boží⟧, jak to zvěstoval svým služebníkům prorokům.
 
 [8] Potom ke mně znovu promluvil hlas, který jsem slyšel z nebe: „Jdi, vezmi svitek, který je otevřený v ruce anděla stojícího na moři a na souši.“
 

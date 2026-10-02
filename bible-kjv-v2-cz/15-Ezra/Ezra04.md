@@ -1,30 +1,30 @@
 # Ezdráš 4
 
-[1] Když protivníci Judaha a Benjamina uslyšeli, že synové zajetí stavějí chrám Yahweh, *Elohim* Israele,
+[1] Když protivníci ⟦judah|Jehudy|Judy⟧ a ⟦benjamin|Binjamina|Benjamína⟧ uslyšeli, že synové zajetí stavějí chrám ⟦yhwh|Jahveho|Hospodina⟧, ⟦elohim|Elohim|Boha⟧ ⟦israel|Jisraele|Izraele⟧,
 
-[2] přišli k Zerubbabelovi a k hlavám otcovských domů a řekli jim: „Budeme stavět s vámi, neboť hledáme vašeho *Elohim* stejně jako vy a obětujeme mu ode dnů Esarhaddona, krále Assyrie, který nás sem přivedl.“
+[2] přišli k ⟦zerubbabel|Zerubbavelovi|Zerubábelovi⟧ a k hlavám otcovských domů a řekli jim: „Budeme stavět s vámi, neboť hledáme vašeho ⟦elohim|Elohim|Boha⟧ stejně jako vy a obětujeme mu ode dnů ⟦esarhaddon|Esar-chaddona|Esarchadóna⟧, krále ⟦assyria|Aššuru|Asýrie⟧, který nás sem přivedl.“
 
-[3] Ale Zerubbabel, Jeshua a ostatní hlavy otcovských domů Israele jim řekli: „Nemáte s námi nic společného při stavbě domu pro našeho *Elohim*; my sami budeme stavět Yahweh, *Elohim* Israele, jak nám přikázal král Cyrus, král Persie.“
+[3] Ale ⟦zerubbabel|Zerubbavel|Zerubábel⟧, ⟦jeshua|Ješua|Jéšua⟧ a ostatní hlavy otcovských domů ⟦israel|Jisraele|Izraele⟧ jim řekli: „Nemáte s námi nic společného při stavbě domu pro našeho ⟦elohim|Elohim|Boha⟧; my sami budeme stavět ⟦yhwh|Jahvovi|Hospodinu⟧, ⟦elohim|Elohim|Bohu⟧ ⟦israel|Jisraele|Izraele⟧, jak nám přikázal král ⟦cyrus|Koreš|Kýros⟧, král ⟦persia|Parasu|Persie⟧.“
 
-[4] Tu lid země oslaboval ruce lidu Judahu a zastrašoval je, aby nestavěli;
+[4] Tu lid země oslaboval ruce lidu ⟦judah|Jehudy|Judy⟧ a zastrašoval je, aby nestavěli;
 
-[5] najímali proti nim rádce, aby zmařili jejich záměr, po všechny dny Cyra, krále Persie, až do vlády Daria, krále Persie.
+[5] najímali proti nim rádce, aby zmařili jejich záměr, po všechny dny ⟦cyrus|Koreše|Kýra⟧, krále ⟦persia|Parasu|Persie⟧, až do vlády ⟦darius|Darjaveše|Dareia⟧, krále ⟦persia|Parasu|Persie⟧.
 
-[6] Za vlády Ahasuera, na počátku jeho vlády, sepsali obžalobu proti obyvatelům Judahu a Jerusalemu.
+[6] Za vlády ⟦ahasuerus|Achašveroše|Achašveróše⟧, na počátku jeho vlády, sepsali obžalobu proti obyvatelům ⟦judah|Jehudy|Judy⟧ a ⟦jerusalem|Jerušalajim|Jeruzaléma⟧.
 
-[7] Za dnů Artaxerxa napsali Bishlam, Mithredath, Tabeel a ostatní jeho druhové Artaxerxovi, králi Persie; dopis byl napsán aramejským písmem a přeložen do aramejštiny.
+[7] Za dnů ⟦artaxerxes|Artachšasty|Artaxerxa⟧ napsali ⟦bishlam|Bišlam|Bišlám⟧, Mitredat, ⟦tabeel|Taveel|Tabeel⟧ a ostatní jeho druhové ⟦artaxerxes|Artachšastovi|Artaxerxovi⟧, králi ⟦persia|Parasu|Persie⟧; dopis byl napsán ⟦aramaic|písmem Aramit|aramejským písmem⟧ a přeložen do ⟦aramaic|Aramit|aramejštiny⟧.
 
-[8] Rehum, velitel, a Shimshai, písař, napsali proti Jerusalemu králi Artaxerxovi dopis tohoto znění:
+[8] ⟦rehum|Rechum|Rechúm⟧, velitel, a Šimšaj, písař, napsali proti ⟦jerusalem|Jerušalajim|Jeruzalému⟧ králi ⟦artaxerxes|Artachšastovi|Artaxerxovi⟧ dopis tohoto znění:
 
-[9] (Rehum, velitel, a Shimshai, písař, a ostatní jejich druhové – soudci, úředníci, perští dozorci, muži z Erechu, Babyloňané, muži ze Susy, totiž Elamité –
+[9] (⟦rehum|Rechum|Rechúm⟧, velitel, a Šimšaj, písař, a ostatní jejich druhové – soudci, úředníci, ⟦persians|dozorci Parsi|perští dozorci⟧, muži z ⟦erech|Erechu|Ereku⟧, ⟦babylonians|Bavlaje|Babyloňané⟧, muži ze ⟦susa|Šušanu|Šúšanu⟧, totiž ⟦elamites|Elmaje|Élamci⟧ –
 
-[10] a ostatní národy, které veliký a vznešený Osnappar přesídlil a usadil v městech Samarie a v ostatní provincii Za Řekou, a nyní:)
+[10] a ostatní národy, které veliký a vznešený ⟦osnappar|Osnappar|Osnapar⟧ přesídlil a usadil v městech ⟦samaria|Šomronu|Samaří⟧ a v ostatní provincii Za Řekou, a nyní:)
 
 [11] Toto je opis dopisu, který mu poslali:
 
-„Králi Artaxerxovi, od tvých služebníků, mužů provincie Za Řekou, a nyní:
+„Králi ⟦artaxerxes|Artachšastovi|Artaxerxovi⟧, od tvých služebníků, mužů provincie Za Řekou, a nyní:
 
-[12] Budiž králi známo, že Židé, kteří od tebe přišli k nám, dorazili do Jerusalemu; znovu stavějí to vzpurné a zlé město; dokončují hradby a opravují základy.
+[12] Budiž králi známo, že ⟦jews|Jehudim|Židé⟧, kteří od tebe přišli k nám, dorazili do ⟦jerusalem|Jerušalajim|Jeruzaléma⟧; znovu stavějí to vzpurné a zlé město; dokončují hradby a opravují základy.
 
 [13] Nyní budiž králi známo, že bude-li toto město znovu postaveno a jeho hradby dokončeny, nebudou platit daň, poplatek ani clo, a královské příjmy utrpí škodu.
 
@@ -36,21 +36,21 @@
 
 [17] Tu král poslal odpověď:
 
-„Rehumovi, veliteli, Shimshaiovi, písaři, a ostatním jejich druhům, kteří sídlí v Samarii a v ostatní provincii Za Řekou: pokoj, a nyní.
+„⟦rehum|Rechumovi|Rechúmovi⟧, veliteli, Šimšajovi, písaři, a ostatním jejich druhům, kteří sídlí v ⟦samaria|Šomronu|Samaří⟧ a v ostatní provincii Za Řekou: pokoj, a nyní.
 
 [18] Dopis, který jste nám poslali, byl přede mnou přeložen a přečten.
 
 [19] Vydal jsem nařízení a bylo hledáno; zjistilo se, že se toto město odedávna bouřilo proti králům a že v něm bývala podněcována vzpoura a odboj.
 
-[20] Nad Jerusalemem také vládli mocní králové, kteří ovládali celou provincii Za Řekou; platila se jim daň, poplatek i clo.
+[20] Nad ⟦jerusalem|Jerušalajim|Jeruzalémem⟧ také vládli mocní králové, kteří ovládali celou provincii Za Řekou; platila se jim daň, poplatek i clo.
 
 [21] Proto vydejte nařízení, aby tito muži byli zastaveni a aby toto město nebylo znovu postaveno, dokud ode mne nevyjde nařízení.
 
 [22] Dejte si pozor, abyste v této věci nebyli nedbalí. Proč by měla škoda růst k újmě králů?“
 
-[23] Když byl opis dopisu krále Artaxerxa přečten před Rehumem, Shimshaiem, písařem, a jejich druhy, spěšně odešli do Jerusalemu k Židům a mocí a silou je donutili přestat.
+[23] Když byl opis dopisu krále ⟦artaxerxes|Artachšasty|Artaxerxa⟧ přečten před ⟦rehum|Rechumem|Rechúmem⟧, Šimšajem, písařem, a jejich druhy, spěšně odešli do ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ k ⟦jews|Jehudim|Židům⟧ a mocí a silou je donutili přestat.
 
-[24] Tak ustala práce na domě *Elohim* v Jerusalemě; stála až do druhého roku vlády Daria, krále Persie.
+[24] Tak ustala práce na domě ⟦elohim|Elohim|Božím⟧ v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧; stála až do druhého roku vlády ⟦darius|Darjaveše|Dareia⟧, krále ⟦persia|Parasu|Persie⟧.
 
 ## Změny
 

@@ -48,7 +48,7 @@ nebo je pošlapat divoké zvíře.
 [16] Se svými mláďaty zachází tvrdě, jako by nebyla její;
 i kdyby její námaha byla marná, nemá strach,
 
-[17] protože Eloah jí dal zapomenout moudrost
+[17] protože ⟦eloah|Eloah|Bůh⟧ jí dal zapomenout moudrost
 a nedal jí podíl na rozumnosti.
 
 [18] Když se vzchopí k útěku,
@@ -70,9 +70,9 @@ necouvá před mečem.
 blýskavé kopí a oštěp.
 
 [24] S prudkostí a zuřivostí hltá zemi;
-nemůže stát v klidu, když zazní shofar.
+nemůže stát v klidu, když zazní ⟦shofar|šofar|polnice⟧.
 
-[25] Když zazní shofar, řekne: ‚Hahá!‘
+[25] Když zazní ⟦shofar|šofar|polnice⟧, řekne: ‚Hahá!‘
 zdálky větří bitvu,
 hřmění velitelů a válečný pokřik.
 

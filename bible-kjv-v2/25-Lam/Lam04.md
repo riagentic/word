@@ -6,7 +6,7 @@ how the pure gold is changed!
 The holy stones lie scattered
 at the head of every street.
 
-[2] **ב** The precious sons of Zion,
+[2] **ב** The precious sons of ⟦zion|Tziyon|Zion⟧,
 worth their weight in fine gold,
 how they are regarded as earthen pots,
 the work of a potter's hands!
@@ -27,7 +27,7 @@ those who were brought up in purple
 embrace ash heaps.
 
 [6] **ו** For the chastisement of the daughter of my people
-has been greater than the punishment of Sodom,
+has been greater than the punishment of ⟦sodom|Sedom|Sodom⟧,
 which was overthrown in a moment,
 with no hand laid on it.
 
@@ -51,15 +51,15 @@ have boiled their own children;
 they became their food
 during the destruction of the daughter of my people.
 
-[11] **כ** Yahweh gave full vent to his wrath;
+[11] **כ** ⟦yhwh|Yahweh|The LORD⟧ gave full vent to his wrath;
 he poured out his hot anger,
-and he kindled a fire in Zion
+and he kindled a fire in ⟦zion|Tziyon|Zion⟧
 that consumed its foundations.
 
 [12] **ל** The kings of the earth did not believe,
 nor any of the inhabitants of the world,
 that foe or enemy could enter
-the gates of Jerusalem.
+the gates of ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
 [13] **מ** This was for the sins of her prophets
 and the iniquities of her priests,
@@ -77,7 +77,7 @@ So they became fugitives and wanderers;
 people said among the nations,
 "They shall stay with us no longer."
 
-[16] **פ** Yahweh's face has scattered them;
+[16] **פ** ⟦yhwh|Yahweh's|The LORD's⟧ face has scattered them;
 he will regard them no more;
 no honor was shown to the priests,
 no favor to the elders.
@@ -97,17 +97,17 @@ than the eagles in the heavens;
 they chased us on the mountains;
 they lay in wait for us in the wilderness.
 
-[20] **ר** The breath of our nostrils, the anointed of Yahweh,
+[20] **ר** The breath of our nostrils, the ⟦anointed|mashiach|anointed⟧ of ⟦yhwh|Yahweh|the LORD⟧,
 was captured in their pits,
 of whom we said, "Under his shadow
 we shall live among the nations."
 
 [21] **ש** Rejoice and be glad, O daughter of Edom,
-you who dwell in the land of Utz;
+you who dwell in the land of ⟦uz|Utz|Uz⟧;
 but to you also the cup shall pass;
 you shall become drunk and strip yourself bare.
 
-[22] **ת** The punishment of your iniquity, O daughter of Zion, is accomplished;
+[22] **ת** The punishment of your iniquity, O daughter of ⟦zion|Tziyon|Zion⟧, is accomplished;
 he will keep you in exile no longer;
 but your iniquity, O daughter of Edom, he will punish;
 he will uncover your sins.

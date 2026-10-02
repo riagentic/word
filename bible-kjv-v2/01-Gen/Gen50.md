@@ -1,56 +1,56 @@
 # Genesis 50
 
-[1] Then Joseph fell on his father's face, wept upon him, and kissed him.
+[1] Then ⟦joseph|Yosef|Joseph⟧ fell on his father's face, wept upon him, and kissed him.
 
-[2] And Joseph commanded his servants the physicians to embalm his father; so the physicians embalmed Israel.
+[2] And ⟦joseph|Yosef|Joseph⟧ commanded his servants the physicians to embalm his father; so the physicians embalmed ⟦israel|Yisrael|Israel⟧.
 
-[3] Forty days were completed for him, for that is how long the days of embalming take; and the Egyptians wept for him seventy days.
+[3] Forty days were completed for him, for that is how long the days of embalming take; and the ⟦egyptians|Mitzrim|Egyptians⟧ wept for him seventy days.
 
-[4] When the days of weeping for him were past, Joseph spoke to the household of Pharaoh, saying, "If now I have found favor in your eyes, please speak in the ears of Pharaoh, saying,
+[4] When the days of weeping for him were past, ⟦joseph|Yosef|Joseph⟧ spoke to the household of ⟦pharaoh|Paroh|Pharaoh⟧, saying, "If now I have found favor in your eyes, please speak in the ears of ⟦pharaoh|Paroh|Pharaoh⟧, saying,
 
-[5] 'My father made me swear, saying, "Behold, I am about to die. In my grave that I hewed out for myself in the land of Canaan, there you shall bury me." Now therefore please let me go up and bury my father, and then I will return.'"
+[5] 'My father made me swear, saying, "Behold, I am about to die. In my grave that I hewed out for myself in the land of ⟦canaan|Kenaan|Canaan⟧, there you shall bury me." Now therefore please let me go up and bury my father, and then I will return.'"
 
-[6] Pharaoh said, "Go up and bury your father, as he made you swear."
+[6] ⟦pharaoh|Paroh|Pharaoh⟧ said, "Go up and bury your father, as he made you swear."
 
-[7] So Joseph went up to bury his father; and with him went up all the servants of Pharaoh, the elders of his household, and all the elders of the land of Egypt,
+[7] So ⟦joseph|Yosef|Joseph⟧ went up to bury his father; and with him went up all the servants of ⟦pharaoh|Paroh|Pharaoh⟧, the elders of his household, and all the elders of the land of ⟦egypt|Mitzrayim|Egypt⟧,
 
-[8] and all the household of Joseph, his brothers, and his father's household; only their little ones, their flocks, and their herds did they leave in the land of Goshen.
+[8] and all the household of ⟦joseph|Yosef|Joseph⟧, his brothers, and his father's household; only their little ones, their flocks, and their herds did they leave in the land of Goshen.
 
 [9] Both chariots and horsemen went up with him; it was a very great company.
 
-[10] When they came to the threshing-floor of Atad, which is beyond the Jordan, they mourned there with a great and very heavy lamentation; and he made a mourning for his father seven days.
+[10] When they came to the threshing-floor of Atad, which is beyond the ⟦jordan|Yarden|Jordan⟧, they mourned there with a great and very heavy lamentation; and he made a mourning for his father seven days.
 
-[11] When the inhabitants of the land, the Canaanites, saw the mourning at the threshing-floor of Atad, they said, "This is a grievous mourning for the Egyptians!" Therefore the place was called Abel-mizraim ("mourning of Egypt"), which is beyond the Jordan.
+[11] When the inhabitants of the land, the ⟦canaanites|Kenaanim|Canaanites⟧, saw the mourning at the threshing-floor of Atad, they said, "This is a grievous mourning for the ⟦egyptians|Mitzrim|Egyptians⟧!" Therefore the place was called ⟦abel-mizraim|Avel Mitzrayim|Abel-mizraim⟧ ("mourning of ⟦egypt|Mitzrayim|Egypt⟧"), which is beyond the ⟦jordan|Yarden|Jordan⟧.
 
 [12] His sons did for him as he had commanded them;
 
-[13] for his sons carried him to the land of Canaan and buried him in the cave of the field of Machpelah, the field that Abraham had bought as a burial holding from Ephron the Hittite, before Mamre.
+[13] for his sons carried him to the land of ⟦canaan|Kenaan|Canaan⟧ and buried him in the cave of the field of Machpelah, the field that ⟦abraham|Avraham|Abraham⟧ had bought as a burial holding from ⟦ephron|Efron|Ephron⟧ the ⟦hittite|Chitti|Hittite⟧, before Mamre.
 
-[14] After he had buried his father, Joseph returned to Egypt, he and his brothers and all who had gone up with him to bury his father.
+[14] After he had buried his father, ⟦joseph|Yosef|Joseph⟧ returned to ⟦egypt|Mitzrayim|Egypt⟧, he and his brothers and all who had gone up with him to bury his father.
 
-[15] When Joseph's brothers saw that their father was dead, they said, "What if Joseph bears a grudge against us and pays us back in full for all the evil that we did to him?"
+[15] When ⟦joseph|Yosef|Joseph⟧'s brothers saw that their father was dead, they said, "What if ⟦joseph|Yosef|Joseph⟧ bears a grudge against us and pays us back in full for all the evil that we did to him?"
 
-[16] So they sent a message to Joseph, saying, "Your father gave command before he died, saying,
+[16] So they sent a message to ⟦joseph|Yosef|Joseph⟧, saying, "Your father gave command before he died, saying,
 
-[17] 'Thus you shall say to Joseph: Please forgive the offense of your brothers and their sin, for they did evil to you.' And now, please forgive the offense of the servants of the *Elohim* of your father." Joseph wept when they spoke to him.
+[17] 'Thus you shall say to ⟦joseph|Yosef|Joseph⟧: Please forgive the offense of your brothers and their sin, for they did evil to you.' And now, please forgive the offense of the servants of the ⟦elohim|Elohim|God⟧ of your father." ⟦joseph|Yosef|Joseph⟧ wept when they spoke to him.
 
 [18] Then his brothers also came and fell down before him and said, "Behold, we are your slaves."
 
-[19] But Joseph said to them, "Do not be afraid, for am I in the place of *Elohim*?
+[19] But ⟦joseph|Yosef|Joseph⟧ said to them, "Do not be afraid, for am I in the place of ⟦elohim|Elohim|God⟧?
 
-[20] As for you, you intended evil against me, but *Elohim* intended it for good, to accomplish what is now being done, to keep many people alive.
+[20] As for you, you intended evil against me, but ⟦elohim|Elohim|God⟧ intended it for good, to accomplish what is now being done, to keep many people alive.
 
 [21] So now do not be afraid; I myself will provide for you and your little ones." Thus he comforted them and spoke to their hearts.
 
-[22] So Joseph dwelt in Egypt, he and his father's household; and Joseph lived 110 years.
+[22] So ⟦joseph|Yosef|Joseph⟧ dwelt in ⟦egypt|Mitzrayim|Egypt⟧, he and his father's household; and ⟦joseph|Yosef|Joseph⟧ lived 110 years.
 
-[23] Joseph saw Ephraim's children to the third generation; the children of Machir son of Manasseh were also born on Joseph's knees.
+[23] ⟦joseph|Yosef|Joseph⟧ saw ⟦ephraim|Efrayim|Ephraim⟧'s children to the third generation; the children of Machir son of ⟦manasseh|Menashe|Manasseh⟧ were also born on ⟦joseph|Yosef|Joseph⟧'s knees.
 
-[24] Joseph said to his brothers, "I am about to die, but *Elohim* will surely visit you and bring you up out of this land to the land that he swore to Abraham, to Isaac, and to Jacob."
+[24] ⟦joseph|Yosef|Joseph⟧ said to his brothers, "I am about to die, but ⟦elohim|Elohim|God⟧ will surely visit you and bring you up out of this land to the land that he swore to ⟦abraham|Avraham|Abraham⟧, to ⟦isaac|Yitzchaq|Isaac⟧, and to ⟦jacob|Yaaqov|Jacob⟧."
 
-[25] And Joseph made the sons of Israel swear, saying, "*Elohim* will surely visit you, and you shall carry up my bones from here."
+[25] And ⟦joseph|Yosef|Joseph⟧ made the sons of ⟦israel|Yisrael|Israel⟧ swear, saying, "⟦elohim|Elohim|God⟧ will surely visit you, and you shall carry up my bones from here."
 
-[26] So Joseph died, being 110 years old; they embalmed him, and he was put in a coffin in Egypt.
+[26] So ⟦joseph|Yosef|Joseph⟧ died, being 110 years old; they embalmed him, and he was put in a coffin in ⟦egypt|Mitzrayim|Egypt⟧.
 
 ## Changes
 

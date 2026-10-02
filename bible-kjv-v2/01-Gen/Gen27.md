@@ -1,6 +1,6 @@
 # Genesis 27
 
-[1] When Isaac was old and his eyes were too dim to see, he called Esau his older son and said to him, "My son." He said to him, "Here I am."
+[1] When ⟦isaac|Yitzchaq|Isaac⟧ was old and his eyes were too dim to see, he called ⟦esau|Esav|Esau⟧ his older son and said to him, "My son." He said to him, "Here I am."
 
 [2] He said, "Behold now, I am old; I do not know the day of my death.
 
@@ -8,11 +8,11 @@
 
 [4] And prepare for me savory food, such as I love, and bring it to me that I may eat, so that my soul may bless you before I die."
 
-[5] Now Rebekah was listening when Isaac spoke to Esau his son. So Esau went to the field to hunt for game to bring back.
+[5] Now ⟦rebekah|Rivqah|Rebekah⟧ was listening when ⟦isaac|Yitzchaq|Isaac⟧ spoke to ⟦esau|Esav|Esau⟧ his son. So ⟦esau|Esav|Esau⟧ went to the field to hunt for game to bring back.
 
-[6] Rebekah spoke to Jacob her son, saying, "Behold, I heard your father speaking to Esau your brother, saying,
+[6] ⟦rebekah|Rivqah|Rebekah⟧ spoke to ⟦jacob|Yaaqov|Jacob⟧ her son, saying, "Behold, I heard your father speaking to ⟦esau|Esav|Esau⟧ your brother, saying,
 
-[7] 'Bring me game, and prepare for me savory food, that I may eat and bless you before Yahweh before my death.'
+[7] 'Bring me game, and prepare for me savory food, that I may eat and bless you before ⟦yhwh|Yahweh|the LORD⟧ before my death.'
 
 [8] Now then, my son, listen to my voice, in what I command you.
 
@@ -20,7 +20,7 @@
 
 [10] You shall bring it to your father so he may eat, so that he may bless you before his death."
 
-[11] Jacob said to Rebekah his mother, "Look, Esau my brother is a hairy man, and I am a smooth man.
+[11] ⟦jacob|Yaaqov|Jacob⟧ said to ⟦rebekah|Rivqah|Rebekah⟧ his mother, "Look, ⟦esau|Esav|Esau⟧ my brother is a hairy man, and I am a smooth man.
 
 [12] Perhaps my father will feel me, and I shall seem to him a deceiver, and I shall bring a curse on myself and not a blessing."
 
@@ -28,36 +28,36 @@
 
 [14] So he went and got them and brought them to his mother; and his mother prepared savory food, such as his father loved.
 
-[15] Then Rebekah took the choicest garments of Esau her older son, which were with her in the house, and put them on Jacob her younger son.
+[15] Then ⟦rebekah|Rivqah|Rebekah⟧ took the choicest garments of ⟦esau|Esav|Esau⟧ her older son, which were with her in the house, and put them on ⟦jacob|Yaaqov|Jacob⟧ her younger son.
 
 [16] And the skins of the young goats she put on his hands and on the smooth of his neck.
 
-[17] And she gave the savory food and the bread she had prepared into the hand of her son Jacob.
+[17] And she gave the savory food and the bread she had prepared into the hand of her son ⟦jacob|Yaaqov|Jacob⟧.
 
 [18] He came to his father and said, "My father." He said, "Here I am; who are you, my son?"
 
-[19] Jacob said to his father, "I am Esau your firstborn; I have done as you told me. Please arise, sit up and eat of my game, so that your soul may bless me."
+[19] ⟦jacob|Yaaqov|Jacob⟧ said to his father, "I am ⟦esau|Esav|Esau⟧ your firstborn; I have done as you told me. Please arise, sit up and eat of my game, so that your soul may bless me."
 
-[20] Isaac said to his son, "How is it that you have found it so quickly, my son?" He said, "Because Yahweh your *Elohim* granted me success."
+[20] ⟦isaac|Yitzchaq|Isaac⟧ said to his son, "How is it that you have found it so quickly, my son?" He said, "Because ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ granted me success."
 
-[21] Isaac said to Jacob, "Please come near, that I may feel you, my son, to know whether you are really my son Esau or not."
+[21] ⟦isaac|Yitzchaq|Isaac⟧ said to ⟦jacob|Yaaqov|Jacob⟧, "Please come near, that I may feel you, my son, to know whether you are really my son ⟦esau|Esav|Esau⟧ or not."
 
-[22] So Jacob came near to Isaac his father; and he felt him, and said, "The voice is the voice of Jacob, but the hands are the hands of Esau."
+[22] So ⟦jacob|Yaaqov|Jacob⟧ came near to ⟦isaac|Yitzchaq|Isaac⟧ his father; and he felt him, and said, "The voice is the voice of ⟦jacob|Yaaqov|Jacob⟧, but the hands are the hands of ⟦esau|Esav|Esau⟧."
 
-[23] He did not recognize him, because his hands were hairy like his brother Esau's hands; so he blessed him.
+[23] He did not recognize him, because his hands were hairy like his brother ⟦esau|Esav|Esau⟧'s hands; so he blessed him.
 
-[24] He said, "Are you really my son Esau?" He said, "I am."
+[24] He said, "Are you really my son ⟦esau|Esav|Esau⟧?" He said, "I am."
 
 [25] He said, "Bring it close to me, that I may eat of my son's game, so that my soul may bless you." So he brought it close to him, and he ate; and he brought him wine, and he drank.
 
-[26] Then his father Isaac said to him, "Come close now and kiss me, my son."
+[26] Then his father ⟦isaac|Yitzchaq|Isaac⟧ said to him, "Come close now and kiss me, my son."
 
 [27] He came close and kissed him; and he smelled the smell of his garments, and blessed him and said,
 
 "See, the smell of my son
-is as the smell of a field that Yahweh has blessed.
+is as the smell of a field that ⟦yhwh|Yahweh|the LORD⟧ has blessed.
 
-[28] May *Elohim* give you of the dew of the heavens,
+[28] May ⟦elohim|Elohim|God⟧ give you of the dew of the heavens,
 and of the fatness of the earth,
 and abundance of grain and new wine.
 
@@ -68,25 +68,25 @@ and let your mother's sons bow down to you.
 Cursed be those who curse you,
 and blessed be those who bless you."
 
-[30] As soon as Isaac had finished blessing Jacob, when Jacob had barely gone out from the presence of his father Isaac, Esau his brother came in from his hunting.
+[30] As soon as ⟦isaac|Yitzchaq|Isaac⟧ had finished blessing ⟦jacob|Yaaqov|Jacob⟧, when ⟦jacob|Yaaqov|Jacob⟧ had barely gone out from the presence of his father ⟦isaac|Yitzchaq|Isaac⟧, ⟦esau|Esav|Esau⟧ his brother came in from his hunting.
 
 [31] He also prepared savory food, and brought it to his father, and said to his father, "Let my father arise and eat of his son's game, so that your soul may bless me."
 
-[32] Isaac his father said to him, "Who are you?" He said, "I am your son, your firstborn, Esau."
+[32] ⟦isaac|Yitzchaq|Isaac⟧ his father said to him, "Who are you?" He said, "I am your son, your firstborn, ⟦esau|Esav|Esau⟧."
 
-[33] Then Isaac trembled with a very great trembling, and said, "Who then was it that hunted game and brought it to me, and I ate of all of it before you came, and I blessed him? Yes, and he shall be blessed!"
+[33] Then ⟦isaac|Yitzchaq|Isaac⟧ trembled with a very great trembling, and said, "Who then was it that hunted game and brought it to me, and I ate of all of it before you came, and I blessed him? Yes, and he shall be blessed!"
 
-[34] When Esau heard the words of his father, he cried out with an exceedingly great and bitter cry, and said to his father, "Bless me, me also, my father!"
+[34] When ⟦esau|Esav|Esau⟧ heard the words of his father, he cried out with an exceedingly great and bitter cry, and said to his father, "Bless me, me also, my father!"
 
 [35] He said, "Your brother came with deceit and has taken away your blessing."
 
-[36] Esau said, "Is he not rightly named Jacob? For he has supplanted me these two times: he took away my birthright, and look, now he has taken away my blessing." Then he said, "Have you not reserved a blessing for me?"
+[36] ⟦esau|Esav|Esau⟧ said, "Is he not rightly named ⟦jacob|Yaaqov|Jacob⟧? For he has supplanted me these two times: he took away my birthright, and look, now he has taken away my blessing." Then he said, "Have you not reserved a blessing for me?"
 
-[37] Isaac answered and said to Esau, "Look, I have made him your master, and all his brothers I have given to him as servants; and with grain and new wine I have sustained him. What then can I do for you, my son?"
+[37] ⟦isaac|Yitzchaq|Isaac⟧ answered and said to ⟦esau|Esav|Esau⟧, "Look, I have made him your master, and all his brothers I have given to him as servants; and with grain and new wine I have sustained him. What then can I do for you, my son?"
 
-[38] Esau said to his father, "Have you only one blessing, my father? Bless me, me also, my father!" And Esau lifted up his voice and wept.
+[38] ⟦esau|Esav|Esau⟧ said to his father, "Have you only one blessing, my father? Bless me, me also, my father!" And ⟦esau|Esav|Esau⟧ lifted up his voice and wept.
 
-[39] Isaac his father answered and said to him,
+[39] ⟦isaac|Yitzchaq|Isaac⟧ his father answered and said to him,
 
 "Behold, away from the fatness of the earth shall your dwelling be,
 and away from the dew of the heavens above.
@@ -96,17 +96,17 @@ and your brother you shall serve;
 but when you break loose,
 you shall tear his yoke from your neck."
 
-[41] Esau bore a grudge against Jacob because of the blessing with which his father had blessed him; and Esau said in his heart, "The days of mourning for my father are at hand; then I will kill my brother Jacob."
+[41] ⟦esau|Esav|Esau⟧ bore a grudge against ⟦jacob|Yaaqov|Jacob⟧ because of the blessing with which his father had blessed him; and ⟦esau|Esav|Esau⟧ said in his heart, "The days of mourning for my father are at hand; then I will kill my brother ⟦jacob|Yaaqov|Jacob⟧."
 
-[42] But the words of Esau her older son were told to Rebekah; so she sent and called Jacob her younger son, and said to him, "Look, your brother Esau is consoling himself about you by planning to kill you.
+[42] But the words of ⟦esau|Esav|Esau⟧ her older son were told to ⟦rebekah|Rivqah|Rebekah⟧; so she sent and called ⟦jacob|Yaaqov|Jacob⟧ her younger son, and said to him, "Look, your brother ⟦esau|Esav|Esau⟧ is consoling himself about you by planning to kill you.
 
-[43] Now then, my son, listen to my voice: arise, flee to Laban my brother in Haran.
+[43] Now then, my son, listen to my voice: arise, flee to ⟦laban|Lavan|Laban⟧ my brother in ⟦haran-city|Charan|Haran⟧.
 
 [44] Stay with him a few days, until your brother's fury subsides,
 
 [45] until your brother's anger turns away from you and he forgets what you have done to him. Then I will send and bring you back from there. Why should I be bereaved of both of you in one day?"
 
-[46] Rebekah said to Isaac, "I am weary of my life because of the daughters of Heth. If Jacob takes a wife from the daughters of Heth like these, from the daughters of the land, what good is my life to me?"
+[46] ⟦rebekah|Rivqah|Rebekah⟧ said to ⟦isaac|Yitzchaq|Isaac⟧, "I am weary of my life because of the daughters of ⟦heth|Chet|Heth⟧. If ⟦jacob|Yaaqov|Jacob⟧ takes a wife from the daughters of ⟦heth|Chet|Heth⟧ like these, from the daughters of the land, what good is my life to me?"
 
 ## Changes
 

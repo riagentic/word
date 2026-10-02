@@ -1,6 +1,6 @@
 # Matthew 13
 
-[1] That same day *Yeshua* went out of the house and sat beside the sea.
+[1] That same day ⟦yeshua|Yeshua|Jesus⟧ went out of the house and sat beside the sea.
 
 [2] And great crowds gathered about him, so that he got into a boat and sat down. And the whole crowd stood on the beach.
 
@@ -28,7 +28,7 @@
 
 [13] This is why I speak to them in parables, because seeing they do not see, and hearing they do not hear, nor do they understand.
 
-[14] Indeed, in their case the prophecy of Isaiah is fulfilled that says:
+[14] Indeed, in their case the prophecy of ⟦isaiah|Yeshayahu|Isaiah⟧ is fulfilled that says:
 
 "'You will indeed hear but never understand,
 and you will indeed see but never perceive.
@@ -77,7 +77,7 @@ and turn, and I would heal them.'
 
 [33] He told them another parable. "The kingdom of heaven is like leaven that a woman took and hid in three seahs of flour, till it was all leavened."
 
-[34] All these things *Yeshua* said to the crowds in parables; indeed, he said nothing to them without a parable.
+[34] All these things ⟦yeshua|Yeshua|Jesus⟧ said to the crowds in parables; indeed, he said nothing to them without a parable.
 
 [35] This was to fulfill what was spoken by the prophet:
 
@@ -118,15 +118,15 @@ I will utter what has been hidden since the foundation of the world."
 
 [52] And he said to them, "Therefore every scribe who has been trained for the kingdom of heaven is like a master of a house, who brings out of his treasure what is new and what is old."
 
-[53] And when *Yeshua* had finished these parables, he went away from there,
+[53] And when ⟦yeshua|Yeshua|Jesus⟧ had finished these parables, he went away from there,
 
 [54] and coming to his hometown he taught them in their synagogue, so that they were astonished, and said, "Where did this man get this wisdom and these mighty works?
 
-[55] Is not this the carpenter's son? Is not his mother called Mary? And are not his brothers Jacob and Joseph and Simon and Judah?
+[55] Is not this the carpenter's son? Is not his mother called ⟦mary|Miryam|Mary⟧? And are not his brothers ⟦james|Yaaqov|James⟧ and ⟦joseph|Yosef|Joseph⟧ and ⟦simon|Shimon|Simon⟧ and ⟦jude|Yehudah|Judas⟧?
 
 [56] And are not all his sisters with us? Where then did this man get all these things?"
 
-[57] And they took offense at him. But *Yeshua* said to them, "A prophet is not without honor except in his hometown and in his own household."
+[57] And they took offense at him. But ⟦yeshua|Yeshua|Jesus⟧ said to them, "A prophet is not without honor except in his hometown and in his own household."
 
 [58] And he did not do many mighty works there, because of their unbelief.
 

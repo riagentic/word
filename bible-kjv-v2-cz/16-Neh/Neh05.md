@@ -1,6 +1,6 @@
 # Nehemjáš 5
 
-[1] Mezi lidem a jejich ženami se strhl veliký nářek proti jejich židovským bratřím.
+[1] Mezi lidem a jejich ženami se strhl veliký nářek proti jejich ⟦jews|bratřím Jehudim|židovským bratřím⟧.
 
 [2] Byli totiž takoví, kteří říkali: „Nás, našich synů a našich dcer je mnoho; opatřme si obilí, abychom jedli a žili.“
 
@@ -14,9 +14,9 @@
 
 [7] Poradil jsem se sám se sebou a potom jsem se postavil šlechticům a úředníkům; řekl jsem jim: „Vymáháte úrok, každý od svého bratra.“ Svolal jsem proti nim veliké shromáždění
 
-[8] a řekl jsem jim: „My jsme, pokud jsme byli schopni, vykoupili své židovské bratry, kteří byli prodáni národům; a vy snad budete prodávat své vlastní bratry, aby byli prodáni zpět nám?“ Tu mlčeli a nenašli slovo.
+[8] a řekl jsem jim: „My jsme, pokud jsme byli schopni, vykoupili své ⟦jews|bratry Jehudim|židovské bratry⟧, kteří byli prodáni národům; a vy snad budete prodávat své vlastní bratry, aby byli prodáni zpět nám?“ Tu mlčeli a nenašli slovo.
 
-[9] Řekl jsem také: „Není dobré, co děláte. Neměli byste chodit v bázni před naším *Elohim*, abyste se vyhnuli potupě od národů, našich nepřátel?
+[9] Řekl jsem také: „Není dobré, co děláte. Neměli byste chodit v bázni před naším ⟦elohim|Elohim|Bohem⟧, abyste se vyhnuli potupě od národů, našich nepřátel?
 
 [10] Také já, moji bratři a moji muži jim půjčujeme stříbro a obilí. Zanechme, prosím, toho vybírání úroků.
 
@@ -24,19 +24,19 @@
 
 [12] Tu řekli: „Vrátíme to a nebudeme od nich nic požadovat; učiníme, jak říkáš.“ Tehdy jsem zavolal kněze a zavázal jsem šlechtice a úředníky přísahou, že budou jednat podle tohoto slibu.
 
-[13] Také jsem vytřásl záhyb svého oděvu a řekl: „Tak ať *Elohim* vytřese z jeho domu a z jeho práce každého muže, který tento slib nedodrží; tak ať je vytřesen a vyprázdněn.“ Celé shromáždění řeklo: „Amen!“ a chválilo Yahweh. A lid jednal podle tohoto slibu.
+[13] Také jsem vytřásl záhyb svého oděvu a řekl: „Tak ať ⟦elohim|Elohim|Bůh⟧ vytřese z jeho domu a z jeho práce každého muže, který tento slib nedodrží; tak ať je vytřesen a vyprázdněn.“ Celé shromáždění řeklo: „Amen!“ a chválilo ⟦yhwh|Jahveho|Hospodina⟧. A lid jednal podle tohoto slibu.
 
-[14] Navíc od doby, kdy jsem byl ustanoven jejich místodržitelem v zemi Judah, od dvacátého roku do třicátého druhého roku krále Artaxerxa, dvanáct let, jsme já a moji bratři nejedli z místodržitelova přídělu jídla.
+[14] Navíc od doby, kdy jsem byl ustanoven jejich místodržitelem v zemi ⟦judah|Jehuda|Juda⟧, od dvacátého roku do třicátého druhého roku krále ⟦artaxerxes|Artachšasty|Artaxerxa⟧, dvanáct let, jsme já a moji bratři nejedli z místodržitelova přídělu jídla.
 
-[15] Ale dřívější místodržitelé, kteří byli přede mnou, byli lidu břemenem a brali od něho chléb a víno a k tomu čtyřicet šekelů stříbra; i jejich služebníci panovali nad lidem. Já jsem tak nejednal, pro bázeň před *Elohim*.
+[15] Ale dřívější místodržitelé, kteří byli přede mnou, byli lidu břemenem a brali od něho chléb a víno a k tomu čtyřicet šekelů stříbra; i jejich služebníci panovali nad lidem. Já jsem tak nejednal, pro bázeň před ⟦elohim|Elohim|Bohem⟧.
 
 [16] Také jsem vytrval v práci na této hradbě; nezískali jsme žádnou půdu. Všichni moji muži tam byli shromážděni k práci.
 
-[17] Navíc bylo u mého stolu sto padesát Židů a úředníků, kromě těch, kdo k nám přicházeli z národů kolem nás.
+[17] Navíc bylo u mého stolu sto padesát ⟦jews|Jehudim|Židů⟧ a úředníků, kromě těch, kdo k nám přicházeli z národů kolem nás.
 
 [18] Denně se připravoval jeden býk, šest vybraných ovcí a drůbež; jednou za deset dní hojnost všelijakého vína. Přesto jsem při tom všem nežádal místodržitelův příděl jídla, protože služba těžce doléhala na tento lid.
 
-[19] Rozpomeň se mi k dobrému, můj *Elohim*, na všechno, co jsem pro tento lid učinil.
+[19] Rozpomeň se mi k dobrému, můj ⟦elohim|Elohim|Bože⟧, na všechno, co jsem pro tento lid učinil.
 
 ## Změny
 

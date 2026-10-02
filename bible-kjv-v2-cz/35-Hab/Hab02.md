@@ -5,7 +5,7 @@ a zaujmu místo na věži
 a budu vyhlížet, abych viděl, co mi řekne
 a co odpovím na svou stížnost.
 
-[2] I odpověděl mi Yahweh:
+[2] I odpověděl mi ⟦yhwh|Jahve|Hospodin⟧:
 
 „Zapiš vidění;
 vyryj je zřetelně na desky,
@@ -21,7 +21,7 @@ ale **spravedlivý bude žít ze své víry**.
 
 [5] Víno je navíc zrádce,
 zpupný muž, který nikdy nemá klid.
-Jeho chamtivost je široká jako Sheol;
+Jeho chamtivost je široká jako ⟦sheol|Šeol|podsvětí⟧;
 jako smrt nemá nikdy dost.
 Shromažďuje si všechny národy
 a sbírá jako své všechny lidy.“
@@ -54,12 +54,12 @@ a trám z trámoví mu odpoví.
 [12] „Běda tomu, kdo staví město krví
 a zakládá hrad na ničemnosti!
 
-[13] Hle, což to není od Yahweh zástupů,
+[13] Hle, což to není od ⟦yhwh|Jahveho|Hospodina⟧ zástupů,
 že se národy lopotí jen pro oheň
 a pronárody se namáhají pro nic?
 
 [14] Neboť země bude naplněna
-poznáním slávy Yahweh,
+poznáním slávy ⟦yhwh|Jahveho|Hospodina⟧,
 jako vody pokrývají moře.
 
 [15] „Běda tomu, kdo napájí své bližní –
@@ -68,10 +68,10 @@ abys hleděl na jejich nahotu!
 
 [16] Nasytíš se hanbou místo slávy.
 Pij i ty a ukaž svou neobřízku!
-Kalich v pravici Yahweh se obrátí k tobě
+Kalich v pravici ⟦yhwh|Jahveho|Hospodina⟧ se obrátí k tobě
 a naprostá hanba padne na tvou slávu!
 
-[17] Násilí spáchané na Lebanonu tě zavalí,
+[17] Násilí spáchané na ⟦lebanon|Levanonu|Libanónu⟧ tě zavalí,
 stejně jako zničení zvěře, která je děsila,
 pro krev lidí a násilí na zemi,
 na městech a na všech, kdo v nich bydlí.
@@ -88,7 +88,7 @@ Může to učit?
 Hle, je to potaženo zlatem a stříbrem,
 a není v tom vůbec žádný dech.
 
-[20] **Ale Yahweh je ve svém svatém chrámu;
+[20] **Ale ⟦yhwh|Jahve|Hospodin⟧ je ve svém svatém chrámu;
 ať před ním mlčí celá země.**“
 
 ## Změny

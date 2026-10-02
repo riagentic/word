@@ -1,14 +1,14 @@
 # Římanům 12
 
-[1] Vybízím vás tedy, bratři, pro milosrdenství *Elohim*, abyste vydali svá těla jako živou oběť, svatou a přijatelnou pro *Elohim*; to je vaše duchovní bohoslužba.
+[1] Vybízím vás tedy, bratři, pro milosrdenství ⟦elohim|Elohim|Boží⟧, abyste vydali svá těla jako živou oběť, svatou a přijatelnou pro ⟦elohim|Elohim|Boha⟧; to je vaše duchovní bohoslužba.
 
-[2] Nepřizpůsobujte se tomuto věku, ale nechte se proměňovat obnovou své mysli, abyste zkoumáním rozpoznávali, co je vůle *Elohim*, co je dobré, přijatelné a dokonalé.
+[2] Nepřizpůsobujte se tomuto věku, ale nechte se proměňovat obnovou své mysli, abyste zkoumáním rozpoznávali, co je vůle ⟦elohim|Elohim|Boží⟧, co je dobré, přijatelné a dokonalé.
 
-[3] Z milosti, která mi byla dána, říkám každému z vás, aby si o sobě nemyslel víc, než je třeba si myslet, ale aby smýšlel střízlivě, každý podle míry víry, kterou mu *Elohim* přidělil.
+[3] Z milosti, která mi byla dána, říkám každému z vás, aby si o sobě nemyslel víc, než je třeba si myslet, ale aby smýšlel střízlivě, každý podle míry víry, kterou mu ⟦elohim|Elohim|Bůh⟧ přidělil.
 
 [4] Jako totiž máme v jednom těle mnoho údů a všechny údy nemají tutéž funkci,
 
-[5] tak i my, ač je nás mnoho, jsme jedno tělo v *Mashiachu* a jednotlivě jsme údy jeden druhého.
+[5] tak i my, ač je nás mnoho, jsme jedno tělo v ⟦mashiach|Mašiachu|Kristu⟧ a jednotlivě jsme údy jeden druhého.
 
 [6] Máme rozličné dary podle milosti, která nám byla dána, užívejme jich tedy: je-li to proroctví, v souladu s naší vírou;
 
@@ -36,7 +36,7 @@
 
 [18] Je-li to možné, pokud to záleží na vás, žijte v pokoji se všemi.
 
-[19] Milovaní, nikdy se sami nemstěte, ale nechte místo hněvu *Elohim*, neboť je psáno: „**Má je pomsta, já odplatím**, praví Pán.“
+[19] Milovaní, nikdy se sami nemstěte, ale nechte místo hněvu ⟦elohim|Elohim|Božímu⟧, neboť je psáno: „**Má je pomsta, já odplatím**, praví Pán.“
 
 [20] Naopak: „**Má-li tvůj nepřítel hlad, nasyť ho; má-li žízeň, dej mu napít; když to budeš dělat, nahrneš mu na hlavu žhavé uhlí.**“
 

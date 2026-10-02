@@ -1,8 +1,8 @@
 # Judges 19
 
-[1] In those days, when there was no king in Israel, a certain Levite was sojourning in the remote parts of the hill country of Ephraim; he took to himself a concubine from Bethlehem in Judah.
+[1] In those days, when there was no king in ⟦israel|Yisrael|Israel⟧, a certain ⟦levites|Levi|Levite⟧ was sojourning in the remote parts of the hill country of ⟦ephraim|Efrayim|Ephraim⟧; he took to himself a concubine from ⟦bethlehem|Beit Lechem|Bethlehem⟧ in ⟦judah|Yehudah|Judah⟧.
 
-[2] His concubine was unfaithful to him, and she went away from him to her father's house in Bethlehem in Judah, and remained there for four months.
+[2] His concubine was unfaithful to him, and she went away from him to her father's house in ⟦bethlehem|Beit Lechem|Bethlehem⟧ in ⟦judah|Yehudah|Judah⟧, and remained there for four months.
 
 [3] Her husband arose and went after her to speak tenderly to her and bring her back; he had his servant with him, and a pair of donkeys. She brought him into her father's house; and when the father of the young woman saw him, he rejoiced to meet him.
 
@@ -18,23 +18,23 @@
 
 [9] When the man rose to depart, he and his concubine and his servant, his father-in-law, the young woman's father, said to him, "Behold, the day grows weary toward evening. Please spend the night. Behold, the day is drawing to a close; lodge here, and let your heart be merry. Tomorrow you may rise early for your journey and go home."
 
-[10] But the man would not spend the night; he rose up and departed and came opposite Jebus (that is, Jerusalem), with his two saddled donkeys and his concubine with him.
+[10] But the man would not spend the night; he rose up and departed and came opposite ⟦jebus|Yevus|Jebus⟧ (that is, ⟦jerusalem|Yerushalayim|Jerusalem⟧), with his two saddled donkeys and his concubine with him.
 
-[11] When they were near Jebus, the day was far spent; and the servant said to his master, "Come, please, let us turn aside to this city of the Jebusites and lodge in it."
+[11] When they were near ⟦jebus|Yevus|Jebus⟧, the day was far spent; and the servant said to his master, "Come, please, let us turn aside to this city of the ⟦jebusites|Yevusim|Jebusites⟧ and lodge in it."
 
-[12] His master said to him, "We will not turn aside to the city of foreigners, who are not of the children of Israel; we will go on to Gibeah."
+[12] His master said to him, "We will not turn aside to the city of foreigners, who are not of the children of ⟦israel|Yisrael|Israel⟧; we will go on to ⟦gibeah|Givah|Gibeah⟧."
 
-[13] He said to his servant, "Come, let us approach one of these places, and we will spend the night in Gibeah or in Ramah."
+[13] He said to his servant, "Come, let us approach one of these places, and we will spend the night in ⟦gibeah|Givah|Gibeah⟧ or in Ramah."
 
-[14] So they passed on their way; the sun went down on them near Gibeah, which belongs to Benjamin.
+[14] So they passed on their way; the sun went down on them near ⟦gibeah|Givah|Gibeah⟧, which belongs to ⟦benjamin|Binyamin|Benjamin⟧.
 
-[15] They turned aside there to go in and lodge in Gibeah. He went in and sat down in the square of the city, for no one took them into his house to lodge.
+[15] They turned aside there to go in and lodge in ⟦gibeah|Givah|Gibeah⟧. He went in and sat down in the square of the city, for no one took them into his house to lodge.
 
-[16] And behold, an old man came from his work in the field at evening. The man was from the hill country of Ephraim, and he was sojourning in Gibeah; the men of the place were Benjamites.
+[16] And behold, an old man came from his work in the field at evening. The man was from the hill country of ⟦ephraim|Efrayim|Ephraim⟧, and he was sojourning in ⟦gibeah|Givah|Gibeah⟧; the men of the place were ⟦benjaminite|Bnei Yemini|Benjaminites⟧.
 
 [17] He lifted up his eyes and saw the traveler in the square of the city; and the old man said, "Where are you going? Where have you come from?"
 
-[18] He said to him, "We are passing from Bethlehem in Judah toward the remote parts of the hill country of Ephraim — where I am from. I went to Bethlehem in Judah, and now I am going to the house of Yahweh; but no one is taking me into his house.
+[18] He said to him, "We are passing from ⟦bethlehem|Beit Lechem|Bethlehem⟧ in ⟦judah|Yehudah|Judah⟧ toward the remote parts of the hill country of ⟦ephraim|Efrayim|Ephraim⟧ — where I am from. I went to ⟦bethlehem|Beit Lechem|Bethlehem⟧ in ⟦judah|Yehudah|Judah⟧, and now I am going to the house of ⟦yhwh|Yahweh|the LORD⟧; but no one is taking me into his house.
 
 [19] We have both straw and fodder for our donkeys, and also bread and wine for myself and for your maidservant and for the young man with your servants. There is no lack of anything."
 
@@ -42,7 +42,7 @@
 
 [21] So he brought him into his house and gave fodder to the donkeys; they washed their feet, ate, and drank.
 
-[22] As they were making their hearts merry, behold, the men of the city — sons of Belial — surrounded the house, beating at the door. They spoke to the master of the house, the old man, saying, "Bring out the man who came into your house, that we may know him."
+[22] As they were making their hearts merry, behold, the men of the city — ⟦belial|sons of Beliyyaal|worthless fellows⟧ — surrounded the house, beating at the door. They spoke to the master of the house, the old man, saying, "Bring out the man who came into your house, that we may know him."
 
 [23] The man, the master of the house, went out to them and said to them, "No, my brothers, please do not act so wickedly. Seeing that this man has come into my house, do not do this outrage.
 
@@ -56,9 +56,9 @@
 
 [28] He said to her, "Get up, and let us be going." But there was no answer. Then the man took her up on the donkey, and the man rose and went to his place.
 
-[29] When he entered his house, he took a knife, laid hold on his concubine, and cut her up, limb by limb, into twelve pieces, and sent her throughout all the territory of Israel.
+[29] When he entered his house, he took a knife, laid hold on his concubine, and cut her up, limb by limb, into twelve pieces, and sent her throughout all the territory of ⟦israel|Yisrael|Israel⟧.
 
-[30] All who saw it said, "Such a thing has never happened or been seen from the day the children of Israel came up out of the land of Egypt until this day. Consider it, take counsel, and speak up!"
+[30] All who saw it said, "Such a thing has never happened or been seen from the day the children of ⟦israel|Yisrael|Israel⟧ came up out of the land of ⟦egypt|Mitzrayim|Egypt⟧ until this day. Consider it, take counsel, and speak up!"
 
 ## Changes
 

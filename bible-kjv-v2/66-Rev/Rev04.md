@@ -8,7 +8,7 @@
 
 [4] Around the throne were twenty-four thrones, and seated on the thrones were twenty-four elders, clothed in white garments, with golden crowns on their heads.
 
-[5] From the throne came flashes of lightning, and rumblings and peals of thunder, and before the throne were burning seven torches of fire, which are the seven spirits of *Elohim*,
+[5] From the throne came flashes of lightning, and rumblings and peals of thunder, and before the throne were burning seven torches of fire, which are the seven spirits of ⟦elohim|Elohim|God⟧,
 
 [6] and before the throne there was as it were a sea of glass, like crystal.
 
@@ -18,14 +18,14 @@ And around the throne, on each side of the throne, are four living creatures, fu
 
 [8] And the four living creatures, each of them with six wings, are full of eyes all around and within, and day and night they never cease to say,
 
-"**Holy, holy, holy, is the Lord *Elohim* Almighty,
+"**Holy, holy, holy, is ⟦yhwh|Yahweh|the Lord⟧ ⟦elohim|Elohim|God⟧ Almighty,
 who was and is and is to come!**"
 
 [9] And whenever the living creatures give glory and honor and thanks to him who is seated on the throne, who lives forever and ever,
 
 [10] the twenty-four elders fall down before him who is seated on the throne and worship him who lives forever and ever. They cast their crowns before the throne, saying,
 
-[11] "**Worthy are you, our Lord and *Elohim*,
+[11] "**Worthy are you, our Lord and ⟦elohim|Elohim|God⟧,
 to receive glory and honor and power,
 for you created all things,
 and by your will they existed and were created**."

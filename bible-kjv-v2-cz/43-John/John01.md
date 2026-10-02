@@ -1,8 +1,8 @@
 # Jan 1
 
-[1] **Na počátku bylo Slovo a to Slovo bylo u *Elohim* a to Slovo bylo *Elohim*.**
+[1] **Na počátku bylo Slovo a to Slovo bylo u ⟦elohim|Elohim|Boha⟧ a to Slovo bylo ⟦elohim|Elohim|Bůh⟧.**
 
-[2] To bylo na počátku u *Elohim*.
+[2] To bylo na počátku u ⟦elohim|Elohim|Boha⟧.
 
 [3] Všechno povstalo skrze ně a bez něho nepovstalo nic z toho, co povstalo.
 
@@ -10,7 +10,7 @@
 
 [5] To světlo svítí ve tmě a tma ho nepřemohla.
 
-[6] Byl člověk poslaný od *Elohim*, jménem John.
+[6] Byl člověk poslaný od ⟦elohim|Elohim|Boha⟧, jménem ⟦john|Jochanan|Jan⟧.
 
 [7] Ten přišel jako svědek, aby vydal svědectví o světle, aby skrze něho všichni uvěřili.
 
@@ -22,85 +22,85 @@
 
 [11] Přišel do svého vlastního, a jeho vlastní lid ho nepřijal.
 
-[12] Ale všem, kdo ho přijali, kdo uvěřili v jeho jméno, dal právo stát se dětmi *Elohim*,
+[12] Ale všem, kdo ho přijali, kdo uvěřili v jeho jméno, dal právo stát se dětmi ⟦elohim|Elohim|Božími⟧,
 
-[13] kteří se nenarodili z krve ani z vůle těla ani z vůle muže, ale z *Elohim*.
+[13] kteří se nenarodili z krve ani z vůle těla ani z vůle muže, ale z ⟦elohim|Elohim|Boha⟧.
 
 [14] **A Slovo se stalo tělem a přebývalo mezi námi, a spatřili jsme jeho slávu, slávu jako jediného Syna od Otce, plného milosti a pravdy.**
 
-[15] (John o něm vydával svědectví a volal: „To byl ten, o němž jsem řekl: ‚Ten, který přichází za mnou, je přede mnou, protože byl dříve než já.‘“)
+[15] (⟦john|Jochanan|Jan⟧ o něm vydával svědectví a volal: „To byl ten, o němž jsem řekl: ‚Ten, který přichází za mnou, je přede mnou, protože byl dříve než já.‘“)
 
 [16] Neboť z jeho plnosti jsme všichni přijali, milost za milostí.
 
-[17] Neboť Torah byla dána skrze Mosese; milost a pravda přišla skrze *Yeshuu*, *Mashiacha*.
+[17] Neboť ⟦torah|Tóra byla dána|Zákon byl dán⟧ skrze ⟦moses|Moše|Mojžíše⟧; milost a pravda přišla skrze ⟦yeshua|Ješuu|Ježíše⟧, ⟦mashiach|Mašiacha|Krista⟧.
 
-[18] ***Elohim* nikdo nikdy neviděl; jediný *Elohim*, který je Otci po boku, ten ho zjevil.**
+[18] **⟦elohim|Elohim|Boha⟧ nikdo nikdy neviděl; jediný ⟦elohim|Elohim|Bůh⟧, který je Otci po boku, ten ho zjevil.**
 
-[19] A toto je Johnovo svědectví, když k němu Židé z Jerusalemu poslali kněze a Levity, aby se ho zeptali: „Kdo jsi?“
+[19] A toto je ⟦john|Jochananovo|Janovo⟧ svědectví, když k němu ⟦jews|Jehudim|Židé⟧ z ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ poslali kněze a ⟦levites|Levijim|levity⟧, aby se ho zeptali: „Kdo jsi?“
 
-[20] Vyznal a nezapřel, ale vyznal: „Já nejsem *Mashiach*.“
+[20] Vyznal a nezapřel, ale vyznal: „Já nejsem ⟦mashiach|Mašiach|Mesiáš⟧.“
 
-[21] Zeptali se ho: „Co tedy? Jsi Elijah?“ Řekl: „Nejsem.“ „Jsi ten Prorok?“ Odpověděl: „Ne.“
+[21] Zeptali se ho: „Co tedy? Jsi ⟦elijah|Elijahu|Eliáš⟧?“ Řekl: „Nejsem.“ „Jsi ten Prorok?“ Odpověděl: „Ne.“
 
 [22] Řekli mu tedy: „Kdo jsi? Musíme dát odpověď těm, kdo nás poslali. Co říkáš sám o sobě?“
 
-[23] Řekl: „Já jsem hlas volajícího na poušti: ‚**Vyrovnejte cestu Páně**,‘ jak řekl prorok Isaiah.“
+[23] Řekl: „Já jsem hlas volajícího na poušti: ‚**Vyrovnejte cestu ⟦yhwh|Jahveho|Páně⟧**,‘ jak řekl prorok ⟦isaiah|Ješajahu|Izajáš⟧.“
 
-[24] (Byli posláni od farizeů.)
+[24] (Byli posláni od ⟦pharisees|perušim|farizeů⟧.)
 
-[25] Zeptali se ho: „Proč tedy ponořuješ, když nejsi ani *Mashiach*, ani Elijah, ani ten Prorok?“
+[25] Zeptali se ho: „Proč tedy ⟦immerse|ponořuješ|křtíš⟧, když nejsi ani ⟦mashiach|Mašiach|Mesiáš⟧, ani ⟦elijah|Elijahu|Eliáš⟧, ani ten Prorok?“
 
-[26] John jim odpověděl: „Já ponořuji vodou, ale uprostřed vás stojí ten, koho neznáte,
+[26] ⟦john|Jochanan|Jan⟧ jim odpověděl: „Já ⟦immerse|ponořuji|křtím⟧ vodou, ale uprostřed vás stojí ten, koho neznáte,
 
 [27] ten, který přichází za mnou, jemuž nejsem hoden rozvázat řemínek u sandálu.“
 
-[28] To se stalo v Bethany za Jordanem, kde John ponořoval.
+[28] To se stalo v ⟦bethany|Bethanii|Betanii⟧ za ⟦jordan|Jardenem|Jordánem⟧, kde ⟦john|Jochanan|Jan⟧ ⟦immerse|ponořoval|křtil⟧.
 
-[29] Druhého dne uviděl *Yeshuu*, jak k němu přichází, a řekl: „**Hle, Beránek *Elohim*, který snímá hřích světa!**
+[29] Druhého dne uviděl ⟦yeshua|Ješuu|Ježíše⟧, jak k němu přichází, a řekl: „**Hle, Beránek ⟦elohim|Elohim|Boží⟧, který snímá hřích světa!**
 
 [30] To je ten, o němž jsem řekl: ‚Za mnou přichází muž, který je přede mnou, protože byl dříve než já.‘
 
-[31] Ani já jsem ho neznal, ale proto jsem přišel a ponořuji vodou, aby byl zjeven Israeli.“
+[31] Ani já jsem ho neznal, ale proto jsem přišel a ⟦immerse|ponořuji|křtím⟧ vodou, aby byl zjeven ⟦israel|Jisraeli|Izraeli⟧.“
 
-[32] A John vydal svědectví: „Viděl jsem Ducha, jak sestupuje z nebe jako holubice, a zůstal na něm.
+[32] A ⟦john|Jochanan|Jan⟧ vydal svědectví: „Viděl jsem Ducha, jak sestupuje z nebe jako holubice, a zůstal na něm.
 
-[33] Ani já jsem ho neznal, ale ten, který mě poslal ponořovat vodou, mi řekl: ‚Na koho uvidíš sestupovat Ducha a zůstávat na něm, to je ten, který ponořuje v *Ruach HaQodesh*.‘
+[33] Ani já jsem ho neznal, ale ten, který mě poslal ⟦immerse|ponořovat|křtít⟧ vodou, mi řekl: ‚Na koho uvidíš sestupovat Ducha a zůstávat na něm, to je ten, který ⟦immerse|ponořuje|křtí⟧ v ⟦ruach-haqodesh|Ruach HaKodeš|Duchu svatém⟧.‘
 
-[34] A já jsem to viděl a vydal jsem svědectví, že toto je Syn *Elohim*.“
+[34] A já jsem to viděl a vydal jsem svědectví, že toto je Syn ⟦elohim|Elohim|Boží⟧.“
 
-[35] Druhého dne tam opět stál John se dvěma ze svých učedníků,
+[35] Druhého dne tam opět stál ⟦john|Jochanan|Jan⟧ se dvěma ze svých učedníků,
 
-[36] pohlédl na *Yeshuu*, který šel kolem, a řekl: „Hle, Beránek *Elohim*!“
+[36] pohlédl na ⟦yeshua|Ješuu|Ježíše⟧, který šel kolem, a řekl: „Hle, Beránek ⟦elohim|Elohim|Boží⟧!“
 
-[37] Ti dva učedníci slyšeli, co říká, a šli za *Yeshuou*.
+[37] Ti dva učedníci slyšeli, co říká, a šli za ⟦yeshua|Ješuou|Ježíšem⟧.
 
-[38] *Yeshua* se obrátil, uviděl, že jdou za ním, a řekl jim: „Co hledáte?“ Řekli mu: „Rabbi“ (což znamená Učiteli), „kde bydlíš?“
+[38] ⟦yeshua|Ješua|Ježíš⟧ se obrátil, uviděl, že jdou za ním, a řekl jim: „Co hledáte?“ Řekli mu: „Rabbi“ (což znamená Učiteli), „kde bydlíš?“
 
 [39] Řekl jim: „Pojďte a uvidíte.“ Šli tedy a viděli, kde bydlí, a zůstali ten den u něho; bylo asi kolem desáté hodiny.
 
-[40] Jeden z těch dvou, kteří slyšeli Johna mluvit a šli za *Yeshuou*, byl Andrew, bratr Simona *Kefy*.
+[40] Jeden z těch dvou, kteří slyšeli ⟦john|Jochanana|Jana⟧ mluvit a šli za ⟦yeshua|Ješuou|Ježíšem⟧, byl ⟦andrew|Andreas|Ondřej⟧, bratr Šimona ⟦peter|Kefy|Petra⟧.
 
-[41] Ten nejprve nalezl svého bratra Simona a řekl mu: „Nalezli jsme *Mashiacha*“ (což znamená Pomazaný).
+[41] Ten nejprve nalezl svého bratra Šimona a řekl mu: „Nalezli jsme ⟦mashiach|Mašiacha|Mesiáše⟧“ (což znamená Pomazaný).
 
-[42] Přivedl ho k *Yeshuovi*. *Yeshua* na něj pohlédl a řekl: „Ty jsi Simon, syn Johnův. Budeš se jmenovat *Kefa*“ (což znamená Peter – kámen).
+[42] Přivedl ho k ⟦yeshua|Ješuovi|Ježíšovi⟧. ⟦yeshua|Ješua|Ježíš⟧ na něj pohlédl a řekl: „Ty jsi Šimon, syn ⟦john|Jochananův|Janův⟧. Budeš se jmenovat ⟦cephas|Kefa|Kéfas⟧“ (což znamená Petr – kámen).
 
-[43] Druhého dne se *Yeshua* rozhodl jít do Galilee. Nalezl Philipa a řekl mu: „Následuj mě.“
+[43] Druhého dne se ⟦yeshua|Ješua|Ježíš⟧ rozhodl jít do ⟦galilee|Galilu|Galileje⟧. Nalezl ⟦philip|Filippa|Filipa⟧ a řekl mu: „Následuj mě.“
 
-[44] Philip byl z Bethsaidy, z města Andrewa a *Kefy*.
+[44] ⟦philip|Filippos|Filip⟧ byl z ⟦bethsaida|Bejt Cajdy|Betsaidy⟧, z města ⟦andrew|Andrease|Ondřeje⟧ a ⟦peter|Kefy|Petra⟧.
 
-[45] Philip nalezl Nathanaela a řekl mu: „Nalezli jsme toho, o němž psal Moses v Torah i proroci, *Yeshuu* z Nazarethu, syna Josephova.“
+[45] ⟦philip|Filippos|Filip⟧ nalezl ⟦nathanael|Netanela|Natanaela⟧ a řekl mu: „Nalezli jsme toho, o němž psal ⟦moses|Moše|Mojžíš⟧ v ⟦torah|Tóře|Zákoně⟧ i proroci, ⟦yeshua|Ješuu|Ježíše⟧ z ⟦nazareth|Nacratu|Nazareta⟧, syna Josefova.“
 
-[46] Nathanael mu řekl: „Může z Nazarethu vzejít něco dobrého?“ Philip mu řekl: „Pojď a podívej se.“
+[46] ⟦nathanael|Netanel|Natanael⟧ mu řekl: „Může z ⟦nazareth|Nacratu|Nazareta⟧ vzejít něco dobrého?“ ⟦philip|Filippos|Filip⟧ mu řekl: „Pojď a podívej se.“
 
-[47] *Yeshua* uviděl Nathanaela, jak k němu přichází, a řekl o něm: „Hle, pravý Israelita, v němž není lsti!“
+[47] ⟦yeshua|Ješua|Ježíš⟧ uviděl ⟦nathanael|Netanela|Natanaela⟧, jak k němu přichází, a řekl o něm: „Hle, pravý ⟦israelite|Jisraeli|Izraelec⟧, v němž není lsti!“
 
-[48] Nathanael mu řekl: „Odkud mě znáš?“ *Yeshua* mu odpověděl: „Dříve než tě Philip zavolal, když jsi byl pod fíkovníkem, viděl jsem tě.“
+[48] ⟦nathanael|Netanel|Natanael⟧ mu řekl: „Odkud mě znáš?“ ⟦yeshua|Ješua|Ježíš⟧ mu odpověděl: „Dříve než tě ⟦philip|Filippos|Filip⟧ zavolal, když jsi byl pod fíkovníkem, viděl jsem tě.“
 
-[49] Nathanael mu odpověděl: „Rabbi, ty jsi Syn *Elohim*! Ty jsi král Israele!“
+[49] ⟦nathanael|Netanel|Natanael⟧ mu odpověděl: „⟦rabbi|Rabbi|Mistře⟧, ty jsi Syn ⟦elohim|Elohim|Boží⟧! Ty jsi král ⟦israel|Jisraele|Izraele⟧!“
 
-[50] *Yeshua* mu odpověděl: „Věříš, protože jsem ti řekl: ‚Viděl jsem tě pod fíkovníkem‘? Uvidíš větší věci než tyto.“
+[50] ⟦yeshua|Ješua|Ježíš⟧ mu odpověděl: „Věříš, protože jsem ti řekl: ‚Viděl jsem tě pod fíkovníkem‘? Uvidíš větší věci než tyto.“
 
-[51] A řekl mu: „Vpravdě, vpravdě vám pravím, uvidíte nebe otevřené a anděly *Elohim* vystupovat a sestupovat na Syna člověka.“
+[51] A řekl mu: „Vpravdě, vpravdě vám pravím, uvidíte nebe otevřené a anděly ⟦elohim|Elohim|Boží⟧ vystupovat a sestupovat na Syna člověka.“
 
 ## Změny
 

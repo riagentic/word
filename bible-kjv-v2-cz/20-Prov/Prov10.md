@@ -6,7 +6,7 @@ ale hloupý syn je zármutkem své matky.
 [2] Poklady získané ničemností neprospějí,
 ale spravedlnost vysvobozuje od smrti.
 
-[3] Yahweh nenechá duši spravedlivého hladovět,
+[3] ⟦yhwh|Jahve|Hospodin⟧ nenechá duši spravedlivého hladovět,
 ale maří chtíč ničemných.
 
 [4] Liknavá ruka přivádí chudobu,
@@ -63,7 +63,7 @@ srdce ničemných má malou cenu.
 [21] Rty spravedlivého sytí mnohé,
 ale hlupáci umírají pro nedostatek rozumu.
 
-[22] Požehnání Yahweh obohacuje
+[22] Požehnání ⟦yhwh|Jahveho|Hospodina⟧ obohacuje
 a on k němu nepřidává žádný zármutek.
 
 [23] Páchat ničemnost je hlupákovi jako žert,
@@ -78,13 +78,13 @@ ale spravedlivý je upevněn navěky.
 [26] Jako ocet zubům a kouř očím,
 tak je lenoch těm, kdo ho posílají.
 
-[27] Bázeň Yahweh prodlužuje život,
+[27] Bázeň ⟦yhwh|Jahveho|Hospodina⟧ prodlužuje život,
 ale léta ničemných budou zkrácena.
 
 [28] Naděje spravedlivých přináší radost,
 ale očekávání ničemných zanikne.
 
-[29] Cesta Yahweh je pevností bezúhonnému,
+[29] Cesta ⟦yhwh|Jahveho|Hospodina⟧ je pevností bezúhonnému,
 ale zkázou těm, kdo páchají zlo.
 
 [30] Spravedlivý nikdy nebude pohnut,

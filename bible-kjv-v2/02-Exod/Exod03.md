@@ -1,48 +1,48 @@
 # Exodus 3
 
-[1] Moses was shepherding the flock of Jethro his father-in-law, the priest of Midian; and he led the flock beyond the wilderness, and came to the mountain of *Elohim*, to Horeb.
+[1] ⟦moses|Moshe|Moses⟧ was shepherding the flock of ⟦jethro|Yitro|Jethro⟧ his father-in-law, the priest of ⟦midian|Midyan|Midian⟧; and he led the flock beyond the wilderness, and came to the mountain of ⟦elohim|Elohim|God⟧, to ⟦horeb|Chorev|Horeb⟧.
 
-[2] The messenger of Yahweh appeared to him in a flame of fire from the midst of a bush. He looked — and behold, the bush was burning with fire, but the bush was not consumed.
+[2] The messenger of ⟦yhwh|Yahweh|the LORD⟧ appeared to him in a flame of fire from the midst of a bush. He looked — and behold, the bush was burning with fire, but the bush was not consumed.
 
-[3] Moses said, "Let me turn aside and see this great sight — why the bush is not burned up."
+[3] ⟦moses|Moshe|Moses⟧ said, "Let me turn aside and see this great sight — why the bush is not burned up."
 
-[4] When Yahweh saw that he turned aside to see, *Elohim* called to him from the midst of the bush and said, "Moses, Moses!" He said, "Here I am."
+[4] When ⟦yhwh|Yahweh|the LORD⟧ saw that he turned aside to see, ⟦elohim|Elohim|God⟧ called to him from the midst of the bush and said, "⟦moses|Moshe|Moses⟧, ⟦moses|Moshe|Moses⟧!" He said, "Here I am."
 
 [5] He said, "Do not draw near here. Take your sandals off your feet, for the place on which you are standing is holy ground."
 
-[6] And he said, "I am the *Elohim* of your father — the *Elohim* of Abraham, the *Elohim* of Isaac, and the *Elohim* of Jacob." Moses hid his face, for he was afraid to look at *Elohim*.
+[6] And he said, "I am the ⟦elohim|Elohim|God⟧ of your father — the ⟦elohim|Elohim|God⟧ of ⟦abraham|Avraham|Abraham⟧, the ⟦elohim|Elohim|God⟧ of ⟦isaac|Yitzchaq|Isaac⟧, and the ⟦elohim|Elohim|God⟧ of ⟦jacob|Yaaqov|Jacob⟧." ⟦moses|Moshe|Moses⟧ hid his face, for he was afraid to look at ⟦elohim|Elohim|God⟧.
 
-[7] Yahweh said, "I have surely seen the affliction of my people who are in Egypt, and I have heard their cry because of their taskmasters; for I know their sufferings.
+[7] ⟦yhwh|Yahweh|The LORD⟧ said, "I have surely seen the affliction of my people who are in ⟦egypt|Mitzrayim|Egypt⟧, and I have heard their cry because of their taskmasters; for I know their sufferings.
 
-[8] I have come down to deliver them from the hand of the Egyptians and to bring them up out of that land to a good and broad land, to a land flowing with milk and honey, to the place of the Canaanites, the Hittites, the Amorites, the Perizzites, the Hivites, and the Jebusites.
+[8] I have come down to deliver them from the hand of the ⟦egyptians|Mitzrim|Egyptians⟧ and to bring them up out of that land to a good and broad land, to a land flowing with milk and honey, to the place of the ⟦canaanites|Kenaanim|Canaanites⟧, the ⟦hittites|Chittim|Hittites⟧, the ⟦amorites|Emorim|Amorites⟧, the ⟦perizzites|Perizzim|Perizzites⟧, the ⟦hivites|Chivvim|Hivites⟧, and the ⟦jebusites|Yevusim|Jebusites⟧.
 
-[9] And now, behold, the cry of the children of Israel has come to me, and I have also seen the oppression with which the Egyptians are oppressing them.
+[9] And now, behold, the cry of the children of ⟦israel|Yisrael|Israel⟧ has come to me, and I have also seen the oppression with which the ⟦egyptians|Mitzrim|Egyptians⟧ are oppressing them.
 
-[10] Now then, come, and I will send you to Pharaoh, that you may bring my people, the children of Israel, out of Egypt."
+[10] Now then, come, and I will send you to ⟦pharaoh|Paroh|Pharaoh⟧, that you may bring my people, the children of ⟦israel|Yisrael|Israel⟧, out of ⟦egypt|Mitzrayim|Egypt⟧."
 
-[11] But Moses said to *Elohim*, "Who am I, that I should go to Pharaoh, and that I should bring the children of Israel out of Egypt?"
+[11] But ⟦moses|Moshe|Moses⟧ said to ⟦elohim|Elohim|God⟧, "Who am I, that I should go to ⟦pharaoh|Paroh|Pharaoh⟧, and that I should bring the children of ⟦israel|Yisrael|Israel⟧ out of ⟦egypt|Mitzrayim|Egypt⟧?"
 
-[12] He said, "I will be with you; and this shall be the sign for you that I have sent you: when you have brought the people out of Egypt, you shall serve *Elohim* on this mountain."
+[12] He said, "I will be with you; and this shall be the sign for you that I have sent you: when you have brought the people out of ⟦egypt|Mitzrayim|Egypt⟧, you shall serve ⟦elohim|Elohim|God⟧ on this mountain."
 
-[13] Moses said to *Elohim*, "Behold, when I come to the children of Israel and say to them, 'The *Elohim* of your fathers has sent me to you,' and they ask me, 'What is his name?' — what shall I say to them?"
+[13] ⟦moses|Moshe|Moses⟧ said to ⟦elohim|Elohim|God⟧, "Behold, when I come to the children of ⟦israel|Yisrael|Israel⟧ and say to them, 'The ⟦elohim|Elohim|God⟧ of your fathers has sent me to you,' and they ask me, 'What is his name?' — what shall I say to them?"
 
-[14] *Elohim* said to Moses, "**Ehyeh-Asher-Ehyeh (I Will Be What I Will Be).**" And he said, "Thus you shall say to the children of Israel: '**Ehyeh (I Will Be) has sent me to you.**'"
+[14] ⟦elohim|Elohim|God⟧ said to ⟦moses|Moshe|Moses⟧, "**⟦ehyeh|Ehyeh-Asher-Ehyeh (I Will Be What I Will Be)|I AM WHO I AM⟧.**" And he said, "Thus you shall say to the children of ⟦israel|Yisrael|Israel⟧: '**⟦ehyeh|Ehyeh (I Will Be)|I AM⟧ has sent me to you.**'"
 
-[15] And *Elohim* said further to Moses, "Thus you shall say to the children of Israel: 'Yahweh, the *Elohim* of your fathers — the *Elohim* of Abraham, the *Elohim* of Isaac, and the *Elohim* of Jacob — has sent me to you. This is my name forever, and this is my memorial from generation to generation.'
+[15] And ⟦elohim|Elohim|God⟧ said further to ⟦moses|Moshe|Moses⟧, "Thus you shall say to the children of ⟦israel|Yisrael|Israel⟧: '⟦yhwh|Yahweh|The LORD⟧, the ⟦elohim|Elohim|God⟧ of your fathers — the ⟦elohim|Elohim|God⟧ of ⟦abraham|Avraham|Abraham⟧, the ⟦elohim|Elohim|God⟧ of ⟦isaac|Yitzchaq|Isaac⟧, and the ⟦elohim|Elohim|God⟧ of ⟦jacob|Yaaqov|Jacob⟧ — has sent me to you. This is my name forever, and this is my memorial from generation to generation.'
 
-[16] Go, gather the elders of Israel together, and say to them, 'Yahweh, the *Elohim* of your fathers — the *Elohim* of Abraham, Isaac, and Jacob — has appeared to me, saying: I have surely attended to you and to what has been done to you in Egypt;
+[16] Go, gather the elders of ⟦israel|Yisrael|Israel⟧ together, and say to them, '⟦yhwh|Yahweh|The LORD⟧, the ⟦elohim|Elohim|God⟧ of your fathers — the ⟦elohim|Elohim|God⟧ of ⟦abraham|Avraham|Abraham⟧, ⟦isaac|Yitzchaq|Isaac⟧, and ⟦jacob|Yaaqov|Jacob⟧ — has appeared to me, saying: I have surely attended to you and to what has been done to you in ⟦egypt|Mitzrayim|Egypt⟧;
 
-[17] and I have said, I will bring you up out of the affliction of Egypt to the land of the Canaanites, the Hittites, the Amorites, the Perizzites, the Hivites, and the Jebusites, to a land flowing with milk and honey.'
+[17] and I have said, I will bring you up out of the affliction of ⟦egypt|Mitzrayim|Egypt⟧ to the land of the ⟦canaanites|Kenaanim|Canaanites⟧, the ⟦hittites|Chittim|Hittites⟧, the ⟦amorites|Emorim|Amorites⟧, the ⟦perizzites|Perizzim|Perizzites⟧, the ⟦hivites|Chivvim|Hivites⟧, and the ⟦jebusites|Yevusim|Jebusites⟧, to a land flowing with milk and honey.'
 
-[18] And they will listen to your voice. You and the elders of Israel shall go to the king of Egypt, and you shall say to him, 'Yahweh, the *Elohim* of the Hebrews, has met with us. Now please let us go a three-days' journey into the wilderness, that we may sacrifice to Yahweh our *Elohim*.'
+[18] And they will listen to your voice. You and the elders of ⟦israel|Yisrael|Israel⟧ shall go to the king of ⟦egypt|Mitzrayim|Egypt⟧, and you shall say to him, '⟦yhwh|Yahweh|The LORD⟧, the ⟦elohim|Elohim|God⟧ of the ⟦hebrews|Ivrim|Hebrews⟧, has met with us. Now please let us go a three-days' journey into the wilderness, that we may sacrifice to ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧.'
 
-[19] But I know that the king of Egypt will not let you go — not even by a mighty hand.
+[19] But I know that the king of ⟦egypt|Mitzrayim|Egypt⟧ will not let you go — not even by a mighty hand.
 
-[20] So I will stretch out my hand and strike Egypt with all my wonders which I will do in its midst; and after that he will let you go.
+[20] So I will stretch out my hand and strike ⟦egypt|Mitzrayim|Egypt⟧ with all my wonders which I will do in its midst; and after that he will let you go.
 
-[21] And I will give this people favor in the sight of the Egyptians, and when you go, you shall not go empty-handed.
+[21] And I will give this people favor in the sight of the ⟦egyptians|Mitzrim|Egyptians⟧, and when you go, you shall not go empty-handed.
 
-[22] Every woman shall ask from her neighbor, and from any woman who lodges in her house, articles of silver, articles of gold, and garments; and you shall put them on your sons and on your daughters. Thus you shall plunder the Egyptians."
+[22] Every woman shall ask from her neighbor, and from any woman who lodges in her house, articles of silver, articles of gold, and garments; and you shall put them on your sons and on your daughters. Thus you shall plunder the ⟦egyptians|Mitzrim|Egyptians⟧."
 
 ## Changes
 

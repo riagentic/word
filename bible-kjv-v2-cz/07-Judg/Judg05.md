@@ -1,39 +1,39 @@
 # Soudců 5
 
-[1] Tehdy onoho dne zpívala Deborah a Barak, syn Abinoamův:
+[1] Tehdy onoho dne zpívala ⟦deborah|Devora|Debora⟧ a ⟦barak|Barak|Bárak⟧, syn ⟦abinoam|Avinoamův|Abínoamův⟧:
 
-[2] „Když vůdci vedou v Israeli,
-když se lid dobrovolně nabízí – dobrořečte Yahweh!
+[2] „Když vůdci vedou v ⟦israel|Jisraeli|Izraeli⟧,
+když se lid dobrovolně nabízí – dobrořečte ⟦yhwh|Jahvovi|Hospodinu⟧!
 
 [3] Slyšte, králové! Naslouchejte, vládcové!
-Já – Yahweh budu zpívat já;
-budu hrát Yahweh, *Elohim* Israele.
+Já – ⟦yhwh|Jahvovi|Hospodinu⟧ budu zpívat já;
+budu hrát ⟦yhwh|Jahvovi|Hospodinu⟧, ⟦elohim|Elohim|Bohu⟧ ⟦israel|Jisraele|Izraele⟧.
 
-[4] Yahweh, když jsi vycházel ze Seiru,
-když jsi kráčel z kraje Edomu,
+[4] ⟦yhwh|Jahve|Hospodine⟧, když jsi vycházel ze ⟦seir|Seiru|Seíru⟧,
+když jsi kráčel z kraje ⟦edom|Edomu|Edómu⟧,
 země se třásla, nebesa kanula,
 ano, oblaka kanula vodou.
 
-[5] Hory se chvěly před Yahweh –
-tento Sinai – před Yahweh, *Elohim* Israele.
+[5] Hory se chvěly před ⟦yhwh|Jahvem|Hospodinem⟧ –
+tento ⟦sinai|Sinaj|Sínaj⟧ – před ⟦yhwh|Jahvem|Hospodinem⟧, ⟦elohim|Elohim|Bohem⟧ ⟦israel|Jisraele|Izraele⟧.
 
-[6] Za dnů Shamgara, syna Anathova,
-za dnů Jael zpustly silnice
+[6] Za dnů Šamgara, syna Anatova,
+za dnů ⟦jael|Jael|Jáel⟧ zpustly silnice
 a pocestní chodili klikatými stezkami.
 
 [7] Venkované ustali,
-ustali v Israeli,
-dokud jsem nepovstala já – Deborah –
-dokud jsem nepovstala, matka v Israeli.
+ustali v ⟦israel|Jisraeli|Izraeli⟧,
+dokud jsem nepovstala já – ⟦deborah|Devora|Debora⟧ –
+dokud jsem nepovstala, matka v ⟦israel|Jisraeli|Izraeli⟧.
 
 [8] Vyvolili si nové bohy;
 tehdy byla válka v branách.
 Byl snad vidět štít či kopí
-mezi čtyřiceti tisíci v Israeli?
+mezi čtyřiceti tisíci v ⟦israel|Jisraeli|Izraeli⟧?
 
-[9] Mé srdce je s veliteli Israele,
+[9] Mé srdce je s veliteli ⟦israel|Jisraele|Izraele⟧,
 s těmi, kdo se mezi lidem dobrovolně nabízejí.
-Dobrořečte Yahweh!
+Dobrořečte ⟦yhwh|Jahvovi|Hospodinu⟧!
 
 [10] Vy, kdo jezdíte na bílých oslicích,
 vy, kdo sedíte na vzácných kobercích,
@@ -41,64 +41,64 @@ i vy, kdo kráčíte po cestě –
 vyprávějte o tom!
 
 [11] Za zvuku hudebníků u napajedel
-tam vyprávějí o spravedlivých činech Yahweh,
-o spravedlivých činech jeho venkovanů v Israeli.
-Tehdy sestoupil lid Yahweh k branám.
+tam vyprávějí o spravedlivých činech ⟦yhwh|Jahveho|Hospodina⟧,
+o spravedlivých činech jeho venkovanů v ⟦israel|Jisraeli|Izraeli⟧.
+Tehdy sestoupil lid ⟦yhwh|Jahveho|Hospodina⟧ k branám.
 
-[12] Probuď se, probuď se, Deborah!
+[12] Probuď se, probuď se, ⟦deborah|Devoro|Deboro⟧!
 Probuď se, probuď se, spusť píseň!
-Vstaň, Baraku, a zajmi své zajatce,
-synu Abinoamův!
+Vstaň, ⟦barak|Baraku|Báraku⟧, a zajmi své zajatce,
+synu ⟦abinoam|Avinoamův|Abínoamův⟧!
 
 [13] Tehdy sestoupil zbytek vznešených;
-lid Yahweh sestoupil za mne proti mocným.
+lid ⟦yhwh|Jahveho|Hospodina⟧ sestoupil za mne proti mocným.
 
-[14] Z Ephraima – jejich kořen byl v Amaleku;
-za tebou, Benjamine, s tvými lidmi;
-z Machira sestoupili velitelé;
-ze Zebuluna ti, kdo třímají hůl úřadu.
+[14] Z Efrajima – jejich kořen byl v ⟦amalek|Amaleku|Amáleku⟧;
+za tebou, ⟦benjamin|Binjamine|Benjamíne⟧, s tvými lidmi;
+z ⟦machir|Machira|Makíra⟧ sestoupili velitelé;
+ze ⟦zebulun|Zevuluna|Zabulóna⟧ ti, kdo třímají hůl úřadu.
 
-[15] Knížata Issachara přišla s Deborah;
-a Issachar byl jako Barak,
+[15] Knížata ⟦issachar|Jissachara|Isachara⟧ přišla s ⟦deborah|Devorou|Deborou⟧;
+a ⟦issachar|Jissachar|Isachar⟧ byl jako ⟦barak|Barak|Bárak⟧,
 v jeho stopách se hnal do údolí.
-Mezi rody Reubena
+Mezi rody ⟦reuben|Reuvena|Rúbena⟧
 bylo veliké zpytování srdce.
 
 [16] Proč jsi zůstal mezi ovčinci,
 abys poslouchal pískání pro stáda?
-Mezi rody Reubena
+Mezi rody ⟦reuben|Reuvena|Rúbena⟧
 bylo veliké zpytování srdce.
 
-[17] Gilead zůstal za Jordanem;
+[17] ⟦gilead|Gilad|Gileád⟧ zůstal za ⟦jordan|Jardenem|Jordánem⟧;
 a Dan – proč prodléval u lodí?
-Asher seděl klidně na mořském pobřeží
+Ašer seděl klidně na mořském pobřeží
 a zůstával u svých zátok.
 
-[18] Zebulun – lid, který nasadil život až na smrt –
-i Naphtali na výšinách pole.
+[18] ⟦zebulun|Zevulun|Zabulón⟧ – lid, který nasadil život až na smrt –
+i ⟦naphtali|Naftali|Neftalí⟧ na výšinách pole.
 
 [19] Přišli králové a bojovali;
-tehdy bojovali králové Canaanu
-v Taanachu u vod Megidda;
+tehdy bojovali králové Kenaanu
+v ⟦taanach|Taanachu|Taanaku⟧ u vod ⟦megiddo|Megidda|Megida⟧;
 žádnou kořist stříbra neodnesli.
 
 [20] Z nebes bojovaly hvězdy;
-ze svých drah bojovaly proti Siserovi.
+ze svých drah bojovaly proti ⟦sisera|Siserovi|Síserovi⟧.
 
-[21] Bystřina Kishon je smetla –
-prudká bystřina, bystřina Kishon.
+[21] Bystřina ⟦kishon|Kišon|Kíšon⟧ je smetla –
+prudká bystřina, bystřina ⟦kishon|Kišon|Kíšon⟧.
 Kráčej, má duše, s mocí!
 
 [22] Tehdy duněla koňská kopyta
 cvalem, cvalem jeho hřebců.
 
-[23] ‚Proklejte Meroz,‘ praví Posel Yahweh,
+[23] ‚Proklejte ⟦meroz|Meroz|Meróz⟧,‘ praví Posel ⟦yhwh|Jahveho|Hospodina⟧,
 ‚hořce proklejte jeho obyvatele,
-protože nepřišli Yahweh na pomoc,
-Yahweh na pomoc proti mocným.‘
+protože nepřišli ⟦yhwh|Jahvovi|Hospodinu⟧ na pomoc,
+⟦yhwh|Jahvovi|Hospodinu⟧ na pomoc proti mocným.‘
 
-[24] Nejpožehnanější z žen je Jael,
-žena Kenity Hebera,
+[24] Nejpožehnanější z žen je ⟦jael|Jael|Jáel⟧,
+žena ⟦kenites|Keni|Kenijce⟧ ⟦heber|Chevera|Chebera⟧,
 nejpožehnanější z žen, které bydlí ve stanech.
 
 [25] Vodu žádal, mléko dala;
@@ -106,7 +106,7 @@ v misce pro velmože přinesla smetanu.
 
 [26] Ruku vztáhla po stanovém kolíku,
 pravici po dělnické palici;
-udeřila Siseru – rozdrtila mu hlavu;
+udeřila ⟦sisera|Siseru|Síseru⟧ – rozdrtila mu hlavu;
 roztříštila a probodla jeho spánek.
 
 [27] U jejích nohou klesl,
@@ -114,7 +114,7 @@ padl, ležel;
 u jejích nohou klesl, padl.
 Kde klesl, tam padl – mrtev.
 
-[28] Oknem vyhlížela Siserova matka,
+[28] Oknem vyhlížela ⟦sisera|Siserova|Síserova⟧ matka,
 skrze mříž volala:
 ‚Proč jeho vůz tak dlouho nepřijíždí?
 Proč otálí dusot jeho vozů?‘
@@ -124,12 +124,12 @@ ano, ona sama si dává odpověď:
 
 [30] ‚Což nenacházejí a nedělí kořist –
 lůno či dvě na každého muže,
-kořist barvených šatů pro Siseru,
+kořist barvených šatů pro ⟦sisera|Siseru|Síseru⟧,
 kořist barvených šatů, vyšívaných,
 dva kusy barvené výšivky
 na šíje plenitelů?‘
 
-[31] Tak ať zahynou všichni tvoji nepřátelé, Yahweh!
+[31] Tak ať zahynou všichni tvoji nepřátelé, ⟦yhwh|Jahve|Hospodine⟧!
 Ale ti, kdo ho milují, ať jsou jako slunce,
 když vychází ve své síle.“
 

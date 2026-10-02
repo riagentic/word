@@ -2,7 +2,7 @@
 
 [1] An oracle concerning the wilderness of the sea.
 
-As whirlwinds in the Negev sweep on,
+As whirlwinds in the ⟦negev|Negev|Negeb⟧ sweep on,
 it comes from the wilderness,
 from a terrible land.
 
@@ -10,7 +10,7 @@ from a terrible land.
 the traitor betrays,
 and the destroyer destroys.
 Go up, O Elam;
-lay siege, O Media;
+lay siege, O ⟦media|Madai|Media⟧;
 all the sighing she has caused
 I bring to an end.
 
@@ -30,7 +30,7 @@ they eat, they drink.
 Arise, O princes;
 oil the shield!
 
-[6] For thus Lord said to me:
+[6] For thus ⟦adonai|Adonai|the Lord⟧ said to me:
 
 "Go, set a watchman;
 let him announce what he sees.
@@ -42,7 +42,7 @@ very diligently."
 
 [8] Then he who saw cried out:
 
-"Upon a watchtower I stand, O Lord,
+"Upon a watchtower I stand, O ⟦adonai|Adonai|Lord⟧,
 continually by day,
 and at my post I am stationed
 whole nights.
@@ -52,11 +52,11 @@ horsemen in pairs!"
 
 And he answered:
 
-"Fallen, fallen is Babylon;
+"Fallen, fallen is ⟦babylon|Bavel|Babylon⟧;
 and all the carved images of her gods
 he has shattered to the ground."
 
-[10] O my threshed and winnowed one, what I have heard from Yahweh of Hosts, the *Elohim* of Israel, I announce to you.
+[10] O my threshed and winnowed one, what I have heard from ⟦yhwh|Yahweh|the LORD⟧ of Hosts, the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧, I announce to you.
 
 [11] An oracle concerning Dumah.
 
@@ -69,10 +69,10 @@ Watchman, what time of the night?"
 If you will inquire, inquire;
 come back again."
 
-[13] An oracle concerning Arabia.
+[13] An oracle concerning ⟦arabia|Arav|Arabia⟧.
 
-In the thickets in Arabia you will lodge,
-O caravans of Dedanites.
+In the thickets in ⟦arabia|Arav|Arabia⟧ you will lodge,
+O caravans of ⟦dedanites|Dedanim|Dedanites⟧.
 
 [14] To the thirsty bring water;
 meet the fugitive with bread,
@@ -83,9 +83,9 @@ from the drawn sword,
 from the bent bow,
 and from the press of battle.
 
-[16] For thus Lord said to me, "Within a year, according to the years of a hired worker, all the glory of Kedar will come to an end.
+[16] For thus ⟦adonai|Adonai|the Lord⟧ said to me, "Within a year, according to the years of a hired worker, all the glory of ⟦kedar|Qedar|Kedar⟧ will come to an end.
 
-[17] And the remainder of the archers of the mighty men of the sons of Kedar will be few, for Yahweh, the *Elohim* of Israel, has spoken."
+[17] And the remainder of the archers of the mighty men of the sons of ⟦kedar|Qedar|Kedar⟧ will be few, for ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧, has spoken."
 
 ## Changes
 

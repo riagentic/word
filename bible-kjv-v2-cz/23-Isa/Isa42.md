@@ -14,15 +14,15 @@ věrně vynese právo.
 
 [4] Neumdlí ani neklesne na mysli,
 dokud neustanoví právo na zemi;
-a pobřeží čekají na jeho zákon.
+a pobřeží čekají na jeho ⟦torah|Tóru|zákon⟧.
 
-[5] Takto praví El, Yahweh,
+[5] Takto praví ⟦el|El|Bůh⟧, ⟦yhwh|Jahve|Hospodin⟧,
 který stvořil nebesa a roztáhl je,
 který rozprostřel zemi i to, co z ní vzchází,
 který dává dech lidu na ní
 a ducha těm, kdo po ní chodí:
 
-[6] „Já jsem Yahweh;
+[6] „Já jsem ⟦yhwh|Jahve|Hospodin⟧;
 povolal jsem tě ve spravedlnosti;
 vezmu tě za ruku a budu tě střežit;
 dám tě jako smlouvu pro lid,
@@ -32,7 +32,7 @@ jako světlo pro národy,
 vyvedl vězně ze žaláře,
 z vězení ty, kdo sedí ve tmě.
 
-[8] Já jsem Yahweh; to je mé jméno;
+[8] Já jsem ⟦yhwh|Jahve|Hospodin⟧; to je mé jméno;
 svou slávu nedám nikomu jinému
 ani svou chválu tesaným modlám.
 
@@ -41,20 +41,20 @@ a nové nyní oznamuji;
 dříve než vyrazí,
 povídám vám o nich.“
 
-[10] Zpívejte Yahweh novou píseň,
+[10] Zpívejte ⟦yhwh|Jahvovi|Hospodinu⟧ novou píseň,
 jeho chválu od konce země,
 vy, kdo sestupujete na moře, i všechno, co je naplňuje,
 pobřeží i jejich obyvatelé.
 
 [11] Ať poušť a její města pozvednou hlas,
-vesnice, v nichž bydlí Kedar;
+vesnice, v nichž bydlí ⟦kedar|Kedar|Kédar⟧;
 ať obyvatelé Sely zpívají radostí,
 ať jásají z vrcholků hor.
 
-[12] Ať vzdávají slávu Yahweh
+[12] Ať vzdávají slávu ⟦yhwh|Jahveho|Hospodina⟧
 a zvěstují jeho chválu na pobřežích.
 
-[13] Yahweh vychází jako bohatýr,
+[13] ⟦yhwh|Jahve|Hospodin⟧ vychází jako bohatýr,
 jako válečník probouzí svou horlivost;
 volá, hlasitě křičí,
 ukazuje svou sílu proti svým nepřátelům.
@@ -89,13 +89,13 @@ a hleďte, slepí, abyste viděli!
 [19] Kdo je slepý, ne-li můj služebník,
 nebo hluchý jako můj posel, kterého posílám?
 Kdo je slepý jako můj oddaný,
-nebo slepý jako služebník Yahweh?
+nebo slepý jako služebník ⟦yhwh|Jahveho|Hospodina⟧?
 
 [20] Vidíš mnoho věcí, ale nedbáš na ně;
 tvé uši jsou otevřené, ale neslyšíš.
 
-[21] Yahweh se zalíbilo pro jeho spravedlnost
-zvelebit svůj Zákon a učinit jej slavným.
+[21] ⟦yhwh|Jahvovi|Hospodinu⟧ se zalíbilo pro jeho spravedlnost
+zvelebit ⟦torah|svou Tóru a učinit ji slavnou|svůj zákon a učinit jej slavným⟧.
 
 [22] Ale toto je lid vypleněný a oloupený;
 všichni jsou chyceni v jamách
@@ -106,11 +106,11 @@ lupem a nikdo neřekne: „Vrať!“
 [23] Kdo z vás tomu nakloní ucho,
 bude dávat pozor a naslouchat do budoucna?
 
-[24] Kdo vydal Jacoba lupiči
-a Israel plenitelům?
-Což ne Yahweh, proti němuž jsme hřešili,
+[24] Kdo vydal ⟦jacob|Jaakova|Jákoba⟧ lupiči
+a ⟦israel|Jisrael|Izrael⟧ plenitelům?
+Což ne ⟦yhwh|Jahve|Hospodin⟧, proti němuž jsme hřešili,
 po jehož cestách nechtěli chodit
-a jehož Zákon nechtěli poslouchat?
+a jehož ⟦torah|Tóru|zákon⟧ nechtěli poslouchat?
 
 [25] Proto na něho vylil žár svého hněvu
 a sílu boje;

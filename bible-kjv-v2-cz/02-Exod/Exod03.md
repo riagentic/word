@@ -1,48 +1,48 @@
 # Exodus 3
 
-[1] Moses pásl stádo svého tchána Jethra, midianského kněze; a vedl stádo za pustinu a přišel k hoře *Elohim*, k Horebu.
+[1] ⟦moses|Moše|Mojžíš⟧ pásl stádo svého tchána Jitra, ⟦midian|midjanského|midjánského⟧ kněze; a vedl stádo za pustinu a přišel k hoře ⟦elohim|Elohim|Boží⟧, k ⟦horeb|Chorevu|Chorébu⟧.
 
-[2] Posel Yahweh se mu zjevil v plameni ohně ze středu keře. Podíval se – a hle, keř hořel ohněm, ale keř nebyl stráven.
+[2] Posel ⟦yhwh|Jahveho|Hospodina⟧ se mu zjevil v plameni ohně ze středu keře. Podíval se – a hle, keř hořel ohněm, ale keř nebyl stráven.
 
-[3] Moses řekl: „Zajdu si a podívám se na ten veliký úkaz – proč keř neshoří.“
+[3] ⟦moses|Moše|Mojžíš⟧ řekl: „Zajdu si a podívám se na ten veliký úkaz – proč keř neshoří.“
 
-[4] Když Yahweh viděl, že zašel, aby se podíval, zavolal na něho *Elohim* ze středu keře: „Mosesi, Mosesi!“ On odpověděl: „Tady jsem.“
+[4] Když ⟦yhwh|Jahve|Hospodin⟧ viděl, že zašel, aby se podíval, zavolal na něho ⟦elohim|Elohim|Bůh⟧ ze středu keře: „⟦moses|Moše|Mojžíši⟧, ⟦moses|Moše|Mojžíši⟧!“ On odpověděl: „Tady jsem.“
 
 [5] Řekl: „Nepřibližuj se sem. Zuj si sandály z nohou, neboť místo, na kterém stojíš, je svatá půda.“
 
-[6] A řekl: „Já jsem *Elohim* tvého otce – *Elohim* Abrahamův, *Elohim* Isaacův a *Elohim* Jacobův.“ Moses si zakryl tvář, neboť se bál pohlédnout na *Elohim*.
+[6] A řekl: „Já jsem ⟦elohim|Elohim|Bůh⟧ tvého otce – ⟦elohim|Elohim|Bůh⟧ ⟦abraham|Avrahamův|Abrahamův⟧, ⟦elohim|Elohim|Bůh⟧ ⟦isaac|Jicchakův|Izákův⟧ a ⟦elohim|Elohim|Bůh⟧ ⟦jacob|Jaakovův|Jákobův⟧.“ ⟦moses|Moše|Mojžíš⟧ si zakryl tvář, neboť se bál pohlédnout na ⟦elohim|Elohim|Boha⟧.
 
-[7] Yahweh řekl: „Jistě jsem viděl trápení svého lidu, který je v Egyptě, a slyšel jsem jeho křik kvůli jeho dozorcům; znám totiž jeho utrpení.
+[7] ⟦yhwh|Jahve|Hospodin⟧ řekl: „Jistě jsem viděl trápení svého lidu, který je v ⟦egypt|Micrajim|Egyptě⟧, a slyšel jsem jeho křik kvůli jeho dozorcům; znám totiž jeho utrpení.
 
-[8] Sestoupil jsem, abych ho vysvobodil z ruky Egypťanů a vyvedl ho z té země do země dobré a prostorné, do země oplývající mlékem a medem, na místo Canaanců, Hittitů, Amoritů, Perizzitů, Hivitů a Jebusitů.
+[8] Sestoupil jsem, abych ho vysvobodil z ruky ⟦egyptians|Micrim|Egypťanů⟧ a vyvedl ho z té země do země dobré a prostorné, do země oplývající mlékem a medem, na místo ⟦canaanites|Kenaanim|Kenaanců⟧, ⟦hittites|Chittim|Chetejců⟧, ⟦amorites|Emorim|Emorejců⟧, ⟦perizzites|Perizzim|Perizejců⟧, ⟦hivites|Chivvim|Chivejců⟧ a ⟦jebusites|Jevusim|Jebúsejců⟧.
 
-[9] A nyní, hle, křik synů Israele ke mně dolehl a viděl jsem také útlak, jímž je Egypťané utiskují.
+[9] A nyní, hle, křik synů ⟦israel|Jisraele|Izraele⟧ ke mně dolehl a viděl jsem také útlak, jímž je ⟦egyptians|Micrim|Egypťané⟧ utiskují.
 
-[10] Nyní tedy pojď, pošlu tě k Pharaohovi, abys vyvedl můj lid, syny Israele, z Egypta.“
+[10] Nyní tedy pojď, pošlu tě k ⟦pharaoh|Parohovi|faraónovi⟧, abys vyvedl můj lid, syny ⟦israel|Jisraele|Izraele⟧, z ⟦egypt|Micrajim|Egypta⟧.“
 
-[11] Ale Moses řekl *Elohim*: „Kdo jsem já, abych šel k Pharaohovi a abych vyvedl syny Israele z Egypta?“
+[11] Ale ⟦moses|Moše|Mojžíš⟧ řekl ⟦elohim|Elohim|Bohu⟧: „Kdo jsem já, abych šel k ⟦pharaoh|Parohovi|faraónovi⟧ a abych vyvedl syny ⟦israel|Jisraele|Izraele⟧ z ⟦egypt|Micrajim|Egypta⟧?“
 
-[12] Řekl: „Já budu s tebou; a toto ti bude znamením, že jsem tě poslal já: až vyvedeš lid z Egypta, budete sloužit *Elohim* na této hoře.“
+[12] Řekl: „Já budu s tebou; a toto ti bude znamením, že jsem tě poslal já: až vyvedeš lid z ⟦egypt|Micrajim|Egypta⟧, budete sloužit ⟦elohim|Elohim|Bohu⟧ na této hoře.“
 
-[13] Moses řekl *Elohim*: „Hle, až přijdu k synům Israele a řeknu jim: ‚*Elohim* vašich otců mě k vám poslal,‘ a oni se mě zeptají: ‚Jaké je jeho jméno?‘ – co jim mám říci?“
+[13] ⟦moses|Moše|Mojžíš⟧ řekl ⟦elohim|Elohim|Bohu⟧: „Hle, až přijdu k synům ⟦israel|Jisraele|Izraele⟧ a řeknu jim: ‚⟦elohim|Elohim|Bůh⟧ vašich otců mě k vám poslal,‘ a oni se mě zeptají: ‚Jaké je jeho jméno?‘ – co jim mám říci?“
 
-[14] *Elohim* řekl Mosesovi: „**Ehyeh-Asher-Ehyeh (Budu, kterým budu).**“ A řekl: „Tak řekneš synům Israele: ‚**Ehyeh (Budu) mě k vám poslal.**‘“
+[14] ⟦elohim|Elohim|Bůh⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „**⟦ehyeh|Ehje-ašer-ehje (Budu, kterým budu)|JSEM, KTERÝ JSEM⟧.**“ A řekl: „Tak řekneš synům ⟦israel|Jisraele|Izraele⟧: ‚**⟦ehyeh|Ehje (Budu)|JSEM⟧ mě k vám poslal.**‘“
 
-[15] A *Elohim* dále řekl Mosesovi: „Tak řekneš synům Israele: ‚Yahweh, *Elohim* vašich otců – *Elohim* Abrahamův, *Elohim* Isaacův a *Elohim* Jacobův – mě k vám poslal. To je mé jméno navěky a to je má památka z pokolení na pokolení.‘
+[15] A ⟦elohim|Elohim|Bůh⟧ dále řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Tak řekneš synům ⟦israel|Jisraele|Izraele⟧: ‚⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ vašich otců – ⟦elohim|Elohim|Bůh⟧ ⟦abraham|Avrahamův|Abrahamův⟧, ⟦elohim|Elohim|Bůh⟧ ⟦isaac|Jicchakův|Izákův⟧ a ⟦elohim|Elohim|Bůh⟧ ⟦jacob|Jaakovův|Jákobův⟧ – mě k vám poslal. To je mé jméno navěky a to je má památka z pokolení na pokolení.‘
 
-[16] Jdi, shromáždi starší Israele a řekni jim: ‚Yahweh, *Elohim* vašich otců – *Elohim* Abrahamův, Isaacův a Jacobův – se mi zjevil a řekl: Jistě jsem se vás ujal a viděl jsem, co se vám děje v Egyptě;
+[16] Jdi, shromáždi starší ⟦israel|Jisraele|Izraele⟧ a řekni jim: ‚⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ vašich otců – ⟦elohim|Elohim|Bůh⟧ ⟦abraham|Avrahamův|Abrahamův⟧, ⟦isaac|Jicchakův|Izákův⟧ a ⟦jacob|Jaakovův|Jákobův⟧ – se mi zjevil a řekl: Jistě jsem se vás ujal a viděl jsem, co se vám děje v ⟦egypt|Micrajim|Egyptě⟧;
 
-[17] a řekl jsem: Vyvedu vás z egyptského trápení do země Canaanců, Hittitů, Amoritů, Perizzitů, Hivitů a Jebusitů, do země oplývající mlékem a medem.‘
+[17] a řekl jsem: Vyvedu vás z egyptského trápení do země ⟦canaanites|Kenaanim|Kenaanců⟧, ⟦hittites|Chittim|Chetejců⟧, ⟦amorites|Emorim|Emorejců⟧, ⟦perizzites|Perizzim|Perizejců⟧, ⟦hivites|Chivvim|Chivejců⟧ a ⟦jebusites|Jevusim|Jebúsejců⟧, do země oplývající mlékem a medem.‘
 
-[18] A oni uposlechnou tvůj hlas. Ty a starší Israele půjdete k egyptskému králi a řeknete mu: ‚Yahweh, *Elohim* Hebrejců, se s námi setkal. Nyní nás, prosím, nech jít na tři dny cesty do pustiny, abychom obětovali Yahweh, svému *Elohim*.‘
+[18] A oni uposlechnou tvůj hlas. Ty a starší ⟦israel|Jisraele|Izraele⟧ půjdete k egyptskému králi a řeknete mu: ‚⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦hebrews|Ivrim|Hebrejů⟧, se s námi setkal. Nyní nás, prosím, nech jít na tři dny cesty do pustiny, abychom obětovali ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧.‘
 
 [19] Ale já vím, že vás egyptský král nenechá jít – ani pod mocnou rukou.
 
-[20] Proto vztáhnu svou ruku a budu bít Egypt všemi svými divy, které v jeho středu učiním; a potom vás nechá jít.
+[20] Proto vztáhnu svou ruku a budu bít ⟦egypt|Micrajim|Egypt⟧ všemi svými divy, které v jeho středu učiním; a potom vás nechá jít.
 
-[21] A dám tomuto lidu přízeň v očích Egypťanů, a až budete odcházet, neodejdete s prázdnou.
+[21] A dám tomuto lidu přízeň v očích ⟦egyptians|Micrim|Egypťanů⟧, a až budete odcházet, neodejdete s prázdnou.
 
-[22] Každá žena si vyžádá od své sousedky a od každé ženy, která pobývá v jejím domě, stříbrné předměty, zlaté předměty a šaty; a oblečete je svým synům a svým dcerám. Tak oloupíte Egypťany.“
+[22] Každá žena si vyžádá od své sousedky a od každé ženy, která pobývá v jejím domě, stříbrné předměty, zlaté předměty a šaty; a oblečete je svým synům a svým dcerám. Tak oloupíte ⟦egyptians|Micrim|Egypťany⟧.“
 
 ## Změny
 

@@ -1,46 +1,46 @@
 # Exodus 13
 
-[1] Yahweh promluvil k Mosesovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[2] „Zasvěť mi každého prvorozeného – všechno, co otvírá lůno mezi syny Israele, ať z lidí, nebo z dobytka; patří mně.“
+[2] „Zasvěť mi každého prvorozeného – všechno, co otvírá lůno mezi syny ⟦israel|Jisraele|Izraele⟧, ať z lidí, nebo z dobytka; patří mně.“
 
-[3] Moses řekl lidu: „Pamatujte na tento den, kdy jste vyšli z Egypta, z domu otroctví, neboť silnou rukou vás odtud Yahweh vyvedl; nebude se jíst nic kvašeného.
+[3] ⟦moses|Moše|Mojžíš⟧ řekl lidu: „Pamatujte na tento den, kdy jste vyšli z ⟦egypt|Micrajim|Egypta⟧, z domu otroctví, neboť silnou rukou vás odtud ⟦yhwh|Jahve|Hospodin⟧ vyvedl; nebude se jíst nic kvašeného.
 
-[4] Dnes vycházíte, v měsíci Aviv.
+[4] Dnes vycházíte, v měsíci ⟦abib|Aviv|ábíb⟧.
 
-[5] Až tě Yahweh přivede do země Canaanitů, Hittitů, Amoritů, Hivitů a Jebusitů, o které se zapřisáhl tvým otcům, že ti ji dá, do země oplývající mlékem a medem, budeš v tomto měsíci konat tuto službu.
+[5] Až tě ⟦yhwh|Jahve|Hospodin⟧ přivede do země ⟦canaanites|Kenaanim|Kenaanců⟧, ⟦hittites|Chittim|Chetejců⟧, ⟦amorites|Emorim|Emorejců⟧, ⟦hivites|Chivvim|Chivejců⟧ a ⟦jebusites|Jevusim|Jebúsejců⟧, o které se zapřisáhl tvým otcům, že ti ji dá, do země oplývající mlékem a medem, budeš v tomto měsíci konat tuto službu.
 
-[6] Sedm dní budeš jíst nekvašené chleby a sedmého dne bude slavnost pro Yahweh.
+[6] Sedm dní budeš jíst nekvašené chleby a sedmého dne bude slavnost pro ⟦yhwh|Jahveho|Hospodina⟧.
 
 [7] Nekvašené chleby se budou jíst po sedm dní; nic kvašeného u tebe nebude k vidění a na celém tvém území u tebe nebude k vidění žádný kvas.
 
-[8] A v ten den řekneš svému synovi: ‚Je to kvůli tomu, co pro mě Yahweh učinil, když jsem vyšel z Egypta.‘
+[8] A v ten den řekneš svému synovi: ‚Je to kvůli tomu, co pro mě ⟦yhwh|Jahve|Hospodin⟧ učinil, když jsem vyšel z ⟦egypt|Micrajim|Egypta⟧.‘
 
-[9] Bude ti to znamením na ruce a připomínkou mezi očima, aby poučení Yahweh bylo v tvých ústech; neboť silnou rukou tě Yahweh vyvedl z Egypta.
+[9] Bude ti to znamením na ruce a připomínkou mezi očima, aby poučení ⟦yhwh|Jahveho|Hospodina⟧ bylo v tvých ústech; neboť silnou rukou tě ⟦yhwh|Jahve|Hospodin⟧ vyvedl z ⟦egypt|Micrajim|Egypta⟧.
 
 [10] Budeš tedy toto ustanovení dodržovat v určený čas rok co rok.
 
-[11] Až tě Yahweh přivede do země Canaanitů, jak se zapřisáhl tobě i tvým otcům, a dá ti ji,
+[11] Až tě ⟦yhwh|Jahve|Hospodin⟧ přivede do země ⟦canaanites|Kenaanim|Kenaanců⟧, jak se zapřisáhl tobě i tvým otcům, a dá ti ji,
 
-[12] odevzdáš Yahweh všechno, co jako první otvírá lůno – každé prvorozené z tvého dobytka, je-li to samec, bude patřit Yahweh.
+[12] odevzdáš ⟦yhwh|Jahvovi|Hospodinu⟧ všechno, co jako první otvírá lůno – každé prvorozené z tvého dobytka, je-li to samec, bude patřit ⟦yhwh|Jahvovi|Hospodinu⟧.
 
 [13] Každé prvorozené osla vykoupíš beránkem; a nechceš-li ho vykoupit, zlomíš mu vaz. A každého prvorozeného chlapce mezi svými syny vykoupíš.
 
-[14] Až se tě v budoucnu tvůj syn zeptá: ‚Co to znamená?‘, řekneš mu: ‚Silnou rukou nás Yahweh vyvedl z Egypta, z domu otroctví.
+[14] Až se tě v budoucnu tvůj syn zeptá: ‚Co to znamená?‘, řekneš mu: ‚Silnou rukou nás ⟦yhwh|Jahve|Hospodin⟧ vyvedl z ⟦egypt|Micrajim|Egypta⟧, z domu otroctví.
 
-[15] Když Pharaoh tvrdošíjně odmítal nás propustit, Yahweh zabil všechny prvorozené v egyptské zemi, od prvorozeného z lidí až po prvorozené z dobytka. Proto obětuji Yahweh každého samce, který jako první otvírá lůno, ale každého prvorozeného ze svých synů vykupuji.‘
+[15] Když ⟦pharaoh|Paro|farao⟧ tvrdošíjně odmítal nás propustit, ⟦yhwh|Jahve|Hospodin⟧ zabil všechny prvorozené v egyptské zemi, od prvorozeného z lidí až po prvorozené z dobytka. Proto obětuji ⟦yhwh|Jahvovi|Hospodinu⟧ každého samce, který jako první otvírá lůno, ale každého prvorozeného ze svých synů vykupuji.‘
 
-[16] Bude to znamením na tvé ruce a čelenkou mezi tvýma očima; neboť silnou rukou nás Yahweh vyvedl z Egypta.“
+[16] Bude to znamením na tvé ruce a čelenkou mezi tvýma očima; neboť silnou rukou nás ⟦yhwh|Jahve|Hospodin⟧ vyvedl z ⟦egypt|Micrajim|Egypta⟧.“
 
-[17] Když Pharaoh lid propustil, *Elohim* je nevedl cestou přes zemi Philistinů, přestože byla blízko; neboť *Elohim* řekl: „Aby si to lid nerozmyslel, až uvidí válku, a nevrátil se do Egypta.“
+[17] Když ⟦pharaoh|Paro|farao⟧ lid propustil, ⟦elohim|Elohim|Bůh⟧ je nevedl cestou přes zemi ⟦philistines|Pelištim|Pelištejců⟧, přestože byla blízko; neboť ⟦elohim|Elohim|Bůh⟧ řekl: „Aby si to lid nerozmyslel, až uvidí válku, a nevrátil se do ⟦egypt|Micrajim|Egypta⟧.“
 
-[18] *Elohim* tedy vedl lid oklikou cestou pouští k Rákosovému moři; a synové Israele vytáhli z egyptské země v bojovém šiku.
+[18] ⟦elohim|Elohim|Bůh⟧ tedy vedl lid oklikou cestou pouští k Rákosovému moři; a synové ⟦israel|Jisraele|Izraele⟧ vytáhli z egyptské země v bojovém šiku.
 
-[19] Moses vzal s sebou Josephovy kosti, neboť Joseph syny Israele přísně zapřisáhl: „*Elohim* se vás jistě ujme; a vy odtud vynesete mé kosti s sebou.“
+[19] ⟦moses|Moše|Mojžíš⟧ vzal s sebou Josefovy kosti, neboť Josef syny ⟦israel|Jisraele|Izraele⟧ přísně zapřisáhl: „⟦elohim|Elohim|Bůh⟧ se vás jistě ujme; a vy odtud vynesete mé kosti s sebou.“
 
-[20] Vytáhli ze Succoth a utábořili se v Etham, na okraji pouště.
+[20] Vytáhli ze ⟦succoth|Sukkot|Sukót⟧ a utábořili se v ⟦etham|Etam|Étam⟧, na okraji pouště.
 
-[21] Yahweh šel před nimi ve dne v oblakovém sloupu, aby je vedl po cestě, a v noci v ohnivém sloupu, aby jim svítil, takže mohli putovat ve dne i v noci.
+[21] ⟦yhwh|Jahve|Hospodin⟧ šel před nimi ve dne v oblakovém sloupu, aby je vedl po cestě, a v noci v ohnivém sloupu, aby jim svítil, takže mohli putovat ve dne i v noci.
 
 [22] Oblakový sloup ve dne a ohnivý sloup v noci neodstupovaly od lidu.
 

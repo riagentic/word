@@ -1,11 +1,11 @@
 # Job 40
 
-[1] Yahweh said to Job:
+[1] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦job|Iyov|Job⟧:
 
-[2] "Shall a faultfinder contend with Shaddai?
-He who argues with Eloah, let him answer it."
+[2] "Shall a faultfinder contend with ⟦shaddai|Shaddai|the Almighty⟧?
+He who argues with ⟦eloah|Eloah|God⟧, let him answer it."
 
-[3] Then Job answered Yahweh and said:
+[3] Then ⟦job|Iyov|Job⟧ answered ⟦yhwh|Yahweh|the LORD⟧ and said:
 
 [4] "Behold, I am of small account;
 what shall I answer you?
@@ -14,7 +14,7 @@ I lay my hand on my mouth.
 [5] I have spoken once, and I will not answer;
 twice, but I will proceed no further."
 
-[6] Then Yahweh answered Job out of the whirlwind and said:
+[6] Then ⟦yhwh|Yahweh|the LORD⟧ answered ⟦job|Iyov|Job⟧ out of the whirlwind and said:
 
 [7] "Gird up your loins like a man;
 I will question you, and you shall declare to me.
@@ -22,7 +22,7 @@ I will question you, and you shall declare to me.
 [8] Will you even annul my justice?
 Will you condemn me that you may be justified?
 
-[9] Have you an arm like *Elohim*,
+[9] Have you an arm like ⟦el|El|God⟧,
 and can you thunder with a voice like his?
 
 [10] Adorn yourself with majesty and dignity;
@@ -40,7 +40,7 @@ bind their faces in the hidden place.
 [14] Then I will also acknowledge to you
 that your own right hand can save you.
 
-[15] Behold Behemoth, which I made along with you;
+[15] Behold ⟦behemoth|Behemot|Behemoth⟧, which I made along with you;
 he eats grass like an ox.
 
 [16] Behold, his strength is in his loins,
@@ -52,7 +52,7 @@ the sinews of his thighs are knit together.
 [18] His bones are tubes of bronze,
 his limbs like bars of iron.
 
-[19] He is the first of the ways of *Elohim*;
+[19] He is the first of the ways of ⟦el|El|God⟧;
 let his Maker draw near with his sword!
 
 [20] The mountains yield him food,
@@ -65,7 +65,7 @@ in the cover of the reeds and marsh.
 the willows of the brook surround him.
 
 [23] Behold, if the river surges, he is not alarmed;
-he is confident though Jordan rushes against his mouth.
+he is confident though ⟦jordan|Yarden|Jordan⟧ rushes against his mouth.
 
 [24] Can anyone capture him when he is on watch,
 or pierce his nose with a snare?"
@@ -73,6 +73,7 @@ or pierce his nose with a snare?"
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
+- **"God" → "El"** (v9, 19) — Hebrew אֵל *El*, not *Elohim*.
 - **"vile" → "of small account"** (v4) — *qalloti*; "I am slight/light."
 - **"unicorn" category animals — here new**: ***Behemoth*** (v15) — retained; Hebrew plural-intensive of *behemah*; large beast. Commonly identified as hippopotamus (lotus habitat, river confidence), occasionally as mythological chaos-monster.
 - **"brass" → "bronze"** (v18).

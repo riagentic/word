@@ -1,46 +1,46 @@
 # Genesis 15
 
-[1] Po těchto událostech přišlo k Abramovi ve vidění slovo Yahweh: „Neboj se, Abrame. Já jsem tvůj štít; tvá odměna bude velmi veliká.“
+[1] Po těchto událostech přišlo k ⟦abram|Avramovi|Abramovi⟧ ve vidění slovo ⟦yhwh|Jahveho|Hospodina⟧: „Neboj se, ⟦abram|Avrame|Abrame⟧. Já jsem tvůj štít; tvá odměna bude velmi veliká.“
 
-[2] Ale Abram řekl: „Pane Yahweh, co mi dáš, když zůstávám bezdětný a dědicem mého domu je Eliezer z Damascu?“
+[2] Ale ⟦abram|Avram|Abram⟧ řekl: „⟦adonai-yhwh|Pane Jahve|Panovníku Hospodine⟧, co mi dáš, když zůstávám bezdětný a dědicem mého domu je ⟦eliezer|Eliezer|Elíezer⟧ z ⟦damascus|Dammeseku|Damašku⟧?“
 
-[3] A Abram řekl: „Hle, nedal jsi mi potomstvo; a mým dědicem bude otrok zrozený v mém domě.“
+[3] A ⟦abram|Avram|Abram⟧ řekl: „Hle, nedal jsi mi potomstvo; a mým dědicem bude otrok zrozený v mém domě.“
 
-[4] A hle, přišlo k němu slovo Yahweh: „Ten nebude tvým dědicem; tvým dědicem bude tvůj vlastní syn.“
+[4] A hle, přišlo k němu slovo ⟦yhwh|Jahveho|Hospodina⟧: „Ten nebude tvým dědicem; tvým dědicem bude tvůj vlastní syn.“
 
 [5] Vyvedl ho ven a řekl: „Pohleď nyní k nebesům a spočítej hvězdy, dokážeš-li je spočítat.“ Potom mu řekl: „Takové bude tvé potomstvo.“
 
-[6] A on důvěřoval Yahweh, a on mu to započetl jako spravedlnost.
+[6] A on důvěřoval ⟦yhwh|Jahvovi|Hospodinu⟧, a on mu to započetl jako spravedlnost.
 
-[7] Řekl mu: „Já jsem Yahweh, který tě vyvedl z Ur Chaldeanů, aby ti dal tuto zemi do vlastnictví.“
+[7] Řekl mu: „Já jsem ⟦yhwh|Jahve|Hospodin⟧, který tě vyvedl z ⟦ur|Ur|Úru⟧ ⟦chaldeans|Kasdim|Kaldejců⟧, aby ti dal tuto zemi do vlastnictví.“
 
-[8] Ale on řekl: „Pane Yahweh, jak poznám, že ji budu vlastnit?“
+[8] Ale on řekl: „⟦adonai-yhwh|Pane Jahve|Panovníku Hospodine⟧, jak poznám, že ji budu vlastnit?“
 
 [9] Řekl mu: „Přines mi tříletou jalovici, tříletou kozu, tříletého berana, hrdličku a holoubě.“
 
 [10] Přinesl mu to všechno, rozpůlil to a položil každou polovinu naproti druhé; ale ptáky nerozpůlil.
 
-[11] A když se na mršiny snášeli draví ptáci, Abram je odháněl.
+[11] A když se na mršiny snášeli draví ptáci, ⟦abram|Avram|Abram⟧ je odháněl.
 
-[12] Když slunce zapadalo, padl na Abrama hluboký spánek, a hle, padla na něj hrozná veliká tma.
+[12] Když slunce zapadalo, padl na ⟦abram|Avrama|Abrama⟧ hluboký spánek, a hle, padla na něj hrozná veliká tma.
 
-[13] Tu řekl Abramovi: „Věz jistě, že tvé potomstvo bude přistěhovalci v zemi, která není jejich, a budou jim sloužit, a ti je budou utlačovat 400 let.
+[13] Tu řekl ⟦abram|Avramovi|Abramovi⟧: „Věz jistě, že tvé potomstvo bude přistěhovalci v zemi, která není jejich, a budou jim sloužit, a ti je budou utlačovat 400 let.
 
 [14] Ale i národ, jemuž budou sloužit, budu soudit, a potom vyjdou s velikým majetkem.
 
 [15] Ty však odejdeš ke svým otcům v pokoji; budeš pohřben v dobrém stáří.
 
-[16] A ve čtvrtém pokolení se sem vrátí, neboť vina Amoritů ještě není úplná.“
+[16] A ve čtvrtém pokolení se sem vrátí, neboť vina ⟦amorites|Emorim|Emorejců⟧ ještě není úplná.“
 
 [17] Když slunce zapadlo a byla tma, hle, mezi díly prošla kouřící pícka a planoucí pochodeň.
 
-[18] Toho dne uzavřel Yahweh s Abramem smlouvu: „Tvému potomstvu dávám tuto zemi, od egyptské řeky až po velikou řeku, řeku Euphrates,
+[18] Toho dne uzavřel ⟦yhwh|Jahve|Hospodin⟧ s ⟦abram|Avramem|Abramem⟧ smlouvu: „Tvému potomstvu dávám tuto zemi, od egyptské řeky až po velikou řeku, řeku ⟦euphrates|Perat|Eufrat⟧,
 
-[19] zemi Kenitů, Kenizzitů, Kadmonitů,
+[19] zemi ⟦kenites|Kenim|Kénijců⟧, ⟦kenizzites|Kenizzim|Kenazejců⟧, ⟦kadmonites|Kadmonim|Kadmónců⟧,
 
-[20] Hittitů, Perizzitů, Rephaim,
+[20] ⟦hittites|Chittim|Chetejců⟧, ⟦perizzites|Perizzim|Perizejců⟧, ⟦rephaim|Refaim|Refájců⟧,
 
-[21] Amoritů, Canaanitů, Girgashitů a Jebusitů.“
+[21] ⟦amorites|Emorim|Emorejců⟧, ⟦canaanites|Kenaanim|Kenaanců⟧, ⟦girgashites|Girgašim|Girgašejců⟧ a ⟦jebusites|Jevusim|Jebúsejců⟧.“
 
 ## Změny
 

@@ -1,22 +1,22 @@
 # Genesis 17
 
-[1] Když bylo Abramovi 99 let, ukázal se Yahweh Abramovi a řekl mu: „Já jsem Všemohoucí *Elohim*. Choď přede mnou a buď bezúhonný,
+[1] Když bylo ⟦abram|Avramovi|Abramovi⟧ 99 let, ukázal se ⟦yhwh|Jahve|Hospodin⟧ ⟦abram|Avramovi|Abramovi⟧ a řekl mu: „Já jsem ⟦el-shaddai|El Šaddaj|Bůh všemohoucí⟧. Choď přede mnou a buď bezúhonný,
 
 [2] a učiním svou smlouvu mezi mnou a tebou a nesmírně tě rozmnožím.“
 
-[3] Abram padl na tvář a *Elohim* s ním mluvil:
+[3] ⟦abram|Avram|Abram⟧ padl na tvář a ⟦elohim|Elohim|Bůh⟧ s ním mluvil:
 
 [4] „Co se mne týče, hle, má smlouva je s tebou a budeš otcem množství národů.
 
-[5] Už se nebudeš jmenovat Abram, ale tvé jméno bude Abraham, neboť jsem tě učinil otcem množství národů.
+[5] Už se nebudeš jmenovat ⟦abram|Avram|Abram⟧, ale tvé jméno bude ⟦abraham|Avraham|Abraham⟧, neboť jsem tě učinil otcem množství národů.
 
 [6] Učiním tě nesmírně plodným, učiním z tebe národy a vzejdou z tebe králové.
 
-[7] Ustanovím svou smlouvu mezi mnou a tebou a tvým potomstvem po tobě po všechna jejich pokolení jako smlouvu věčnou, abych byl *Elohim* tobě i tvému potomstvu po tobě.
+[7] Ustanovím svou smlouvu mezi mnou a tebou a tvým potomstvem po tobě po všechna jejich pokolení jako smlouvu věčnou, abych byl ⟦elohim|Elohim|Bohem⟧ tobě i tvému potomstvu po tobě.
 
-[8] A tobě a tvému potomstvu po tobě dám zemi tvého pobývání, celou zemi Canaan, do věčného vlastnictví; a budu jejich *Elohim*.“
+[8] A tobě a tvému potomstvu po tobě dám zemi tvého pobývání, celou zemi Kenaan, do věčného vlastnictví; a budu jejich ⟦elohim|Elohim|Bohem⟧.“
 
-[9] *Elohim* řekl Abrahamovi: „A ty budeš zachovávat mou smlouvu, ty i tvé potomstvo po tobě po všechna jejich pokolení.
+[9] ⟦elohim|Elohim|Bůh⟧ řekl ⟦abraham|Avrahamovi|Abrahamovi⟧: „A ty budeš zachovávat mou smlouvu, ty i tvé potomstvo po tobě po všechna jejich pokolení.
 
 [10] Toto je má smlouva, kterou budete zachovávat, mezi mnou a vámi a tvým potomstvem po tobě: každý muž mezi vámi bude obřezán.
 
@@ -28,29 +28,29 @@
 
 [14] Každý neobřezaný muž, který nebude obřezán na těle své předkožky – ten člověk bude vyťat ze svého lidu; porušil mou smlouvu.“
 
-[15] *Elohim* řekl Abrahamovi: „Pokud jde o Sarai, tvou ženu, nebudeš ji nazývat jménem Sarai, ale její jméno bude Sarah.
+[15] ⟦elohim|Elohim|Bůh⟧ řekl ⟦abraham|Avrahamovi|Abrahamovi⟧: „Pokud jde o ⟦sarai|Saraj|Sáraj⟧, tvou ženu, nebudeš ji nazývat jménem ⟦sarai|Saraj|Sáraj⟧, ale její jméno bude ⟦sarah|Sara|Sára⟧.
 
 [16] Požehnám jí, a navíc ti z ní dám syna. Požehnám jí a vzejdou z ní národy; vzejdou z ní králové národů.“
 
-[17] Tu Abraham padl na tvář, zasmál se a řekl ve svém srdci: „Což se může narodit dítě muži, kterému je sto let? Což může Sarah, které je devadesát let, porodit dítě?“
+[17] Tu ⟦abraham|Avraham|Abraham⟧ padl na tvář, zasmál se a řekl ve svém srdci: „Což se může narodit dítě muži, kterému je sto let? Což může ⟦sarah|Sara|Sára⟧, které je devadesát let, porodit dítě?“
 
-[18] A Abraham řekl *Elohim*: „Kéž by Ishmael žil před tebou!“
+[18] A ⟦abraham|Avraham|Abraham⟧ řekl ⟦elohim|Elohim|Bohu⟧: „Kéž by ⟦ishmael|Jišmael|Izmael⟧ žil před tebou!“
 
-[19] *Elohim* řekl: „Ne – Sarah, tvá žena, ti porodí syna a dáš mu jméno Isaac; a ustanovím svou smlouvu s ním jako smlouvu věčnou pro jeho potomstvo po něm.
+[19] ⟦elohim|Elohim|Bůh⟧ řekl: „Ne – ⟦sarah|Sara|Sára⟧, tvá žena, ti porodí syna a dáš mu jméno ⟦isaac|Jicchak|Izák⟧; a ustanovím svou smlouvu s ním jako smlouvu věčnou pro jeho potomstvo po něm.
 
-[20] Pokud jde o Ishmaela, vyslyšel jsem tě: hle, požehnal jsem mu, učiním ho plodným a nesmírně ho rozmnožím. Zplodí dvanáct náčelníků a učiním z něho veliký národ.
+[20] Pokud jde o ⟦ishmael|Jišmaela|Izmaele⟧, vyslyšel jsem tě: hle, požehnal jsem mu, učiním ho plodným a nesmírně ho rozmnožím. Zplodí dvanáct náčelníků a učiním z něho veliký národ.
 
-[21] Ale svou smlouvu ustanovím s Isaacem, kterého ti Sarah porodí v tomto čase příštího roku.“
+[21] Ale svou smlouvu ustanovím s ⟦isaac|Jicchakem|Izákem⟧, kterého ti ⟦sarah|Sara|Sára⟧ porodí v tomto čase příštího roku.“
 
-[22] Když s ním domluvil, *Elohim* od Abrahama vystoupil.
+[22] Když s ním domluvil, ⟦elohim|Elohim|Bůh⟧ od ⟦abraham|Avrahama|Abrahama⟧ vystoupil.
 
-[23] Tu vzal Abraham svého syna Ishmaela a všechny zrozené v jeho domě a všechny koupené za jeho peníze, každého muže mezi lidmi Abrahamova domu, a právě toho dne obřezal tělo jejich předkožky, jak mu *Elohim* řekl.
+[23] Tu vzal ⟦abraham|Avraham|Abraham⟧ svého syna ⟦ishmael|Jišmaela|Izmaele⟧ a všechny zrozené v jeho domě a všechny koupené za jeho peníze, každého muže mezi lidmi ⟦abraham|Avrahamova|Abrahamova⟧ domu, a právě toho dne obřezal tělo jejich předkožky, jak mu ⟦elohim|Elohim|Bůh⟧ řekl.
 
-[24] Abrahamovi bylo 99 let, když byl obřezán na těle své předkožky.
+[24] ⟦abraham|Avrahamovi|Abrahamovi⟧ bylo 99 let, když byl obřezán na těle své předkožky.
 
-[25] A jeho synu Ishmaelovi bylo 13 let, když byl obřezán na těle své předkožky.
+[25] A jeho synu ⟦ishmael|Jišmaelovi|Izmaelovi⟧ bylo 13 let, když byl obřezán na těle své předkožky.
 
-[26] Právě toho dne byl obřezán Abraham i jeho syn Ishmael;
+[26] Právě toho dne byl obřezán ⟦abraham|Avraham|Abraham⟧ i jeho syn ⟦ishmael|Jišmael|Izmael⟧;
 
 [27] a všichni muži jeho domu, zrození v domě i koupení za peníze od cizince, byli obřezáni s ním.
 
@@ -58,7 +58,7 @@
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – tetragram zachován.
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
-- **"Almighty God" → „Všemohoucí *Elohim*“** (v1) – hebrejsky אֵל שַׁדַּי *El Shaddai*. Etymologie *Shaddai* je sporná: snad od *shadad* („přemoci“) → „Všemohoucí“; nebo od *shad* („prs“) → „ten s prsy“ (živitelské božstvo; srov. paralelu *shaddayim* „prsy“ ve 49:25); nebo od akkadského *shadû* („hora“) → „ten z hory“. Tradiční „Všemohoucí“ skrze LXX παντοκράτωρ / Vulgatu *omnipotens*.
+- **"Almighty God" → „El Shaddai“** (v1) – hebrejsky אֵל שַׁדַּי *El Shaddai*. Etymologie *Shaddai* je sporná: snad od *shadad* („přemoci“) → „Všemohoucí“; nebo od *shad* („prs“) → „ten s prsy“ (živitelské božstvo; srov. paralelu *shaddayim* „prsy“ ve 49:25); nebo od akkadského *shadû* („hora“) → „ten z hory“. Tradiční „Všemohoucí“ skrze LXX παντοκράτωρ / Vulgatu *omnipotens*.
 - **"perfect" → „bezúhonný“** (v1) – hebrejsky תָּמִים *tamim* = celý / úplný / ryzí. Jako v 6:9.
 - **"father of many nations" → „otec množství národů“** (v4, 5) – hebrejsky אַב־הֲמוֹן גּוֹיִם *av-hamon goyim*. *Hamon* = množství / hlučný zástup – nejen „mnoho“. Nové jméno Abraham (*Avraham*) je vysvětleno jako *av-hamon* (otec množství). Etymologie je slovní hříčkou spíše než přísným jazykovým odvozením (jméno je nejspíš jen nářeční variantou jména Abram, „vznešený otec“); text je vykládá zvukově.
 - **Slovní hříčka při změně jména Abraham zachována** (v5) – hebrejsky אַבְרָהָם *Avraham* ze staršího אַבְרָם *Avram*. Etymologie podaná textem uvedena zde.

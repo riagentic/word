@@ -1,6 +1,6 @@
 # Luke 12
 
-[1] In the meantime, when so many thousands of the people had gathered together that they were trampling one another, he began to say to his disciples first, "Beware of the leaven of the Pharisees, which is hypocrisy.
+[1] In the meantime, when so many thousands of the people had gathered together that they were trampling one another, he began to say to his disciples first, "Beware of the leaven of the ⟦pharisees|Perushim|Pharisees⟧, which is hypocrisy.
 
 [2] Nothing is covered up that will not be revealed, or hidden that will not be known.
 
@@ -8,21 +8,21 @@
 
 [4] "I tell you, my friends, do not fear those who kill the body, and after that have nothing more that they can do.
 
-[5] But I will warn you whom to fear: fear him who, after he has killed, has authority to cast into Gehenna. Yes, I tell you, fear him!
+[5] But I will warn you whom to fear: fear him who, after he has killed, has authority to cast into ⟦gehenna|Gehenna|hell⟧. Yes, I tell you, fear him!
 
-[6] Are not five sparrows sold for two pennies? And not one of them is forgotten before *Elohim*.
+[6] Are not five sparrows sold for two pennies? And not one of them is forgotten before ⟦elohim|Elohim|God⟧.
 
 [7] Why, even the hairs of your head are all numbered. Fear not; you are of more value than many sparrows.
 
-[8] "And I tell you, everyone who acknowledges me before men, the Son of Man also will acknowledge before the angels of *Elohim*,
+[8] "And I tell you, everyone who acknowledges me before men, the Son of Man also will acknowledge before the angels of ⟦elohim|Elohim|God⟧,
 
-[9] but the one who denies me before men will be denied before the angels of *Elohim*.
+[9] but the one who denies me before men will be denied before the angels of ⟦elohim|Elohim|God⟧.
 
-[10] And everyone who speaks a word against the Son of Man will be forgiven, but the one who blasphemes against the *Ruach HaQodesh* will not be forgiven.
+[10] And everyone who speaks a word against the Son of Man will be forgiven, but the one who blasphemes against the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧ will not be forgiven.
 
 [11] And when they bring you before the synagogues and the rulers and the authorities, do not be anxious about how you should defend yourself or what you should say,
 
-[12] for the *Ruach HaQodesh* will teach you in that very hour what you ought to say."
+[12] for the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧ will teach you in that very hour what you ought to say."
 
 [13] Someone in the crowd said to him, "Teacher, tell my brother to divide the inheritance with me."
 
@@ -38,23 +38,23 @@
 
 [19] And I will say to my soul, "Soul, you have ample goods laid up for many years; relax, eat, drink, be merry."'
 
-[20] But *Elohim* said to him, 'Fool! This night your soul is required of you, and the things you have prepared, whose will they be?'
+[20] But ⟦elohim|Elohim|God⟧ said to him, 'Fool! This night your soul is required of you, and the things you have prepared, whose will they be?'
 
-[21] So is the one who lays up treasure for himself and is not rich toward *Elohim*."
+[21] So is the one who lays up treasure for himself and is not rich toward ⟦elohim|Elohim|God⟧."
 
 [22] And he said to his disciples, "Therefore I tell you, do not be anxious about your life, what you will eat, nor about your body, what you will put on.
 
 [23] For life is more than food, and the body more than clothing.
 
-[24] Consider the ravens: they neither sow nor reap, they have neither storehouse nor barn, and yet *Elohim* feeds them. Of how much more value are you than the birds!
+[24] Consider the ravens: they neither sow nor reap, they have neither storehouse nor barn, and yet ⟦elohim|Elohim|God⟧ feeds them. Of how much more value are you than the birds!
 
 [25] And which of you by being anxious can add a single hour to his span of life?
 
 [26] If then you are not able to do as small a thing as that, why are you anxious about the rest?
 
-[27] Consider the lilies, how they grow: they neither toil nor spin, yet I tell you, even Solomon in all his glory was not arrayed like one of these.
+[27] Consider the lilies, how they grow: they neither toil nor spin, yet I tell you, even ⟦solomon|Shlomo|Solomon⟧ in all his glory was not arrayed like one of these.
 
-[28] But if *Elohim* so clothes the grass, which is alive in the field today, and tomorrow is thrown into the oven, how much more will he clothe you, O you of little faith!
+[28] But if ⟦elohim|Elohim|God⟧ so clothes the grass, which is alive in the field today, and tomorrow is thrown into the oven, how much more will he clothe you, O you of little faith!
 
 [29] And do not seek what you are to eat and what you are to drink, nor be worried.
 
@@ -80,7 +80,7 @@
 
 [40] You also must be ready, for the Son of Man is coming at an hour you do not expect."
 
-[41] *Kefa* said, "Lord, are you telling this parable for us or for all?"
+[41] ⟦peter|Kefa|Peter⟧ said, "Lord, are you telling this parable for us or for all?"
 
 [42] And the Lord said, "Who then is the faithful and wise manager, whom his master will set over his household, to give them their portion of food at the proper time?
 
@@ -98,7 +98,7 @@
 
 [49] "I came to cast fire on the earth, and would that it were already kindled!
 
-[50] I have an immersion to be immersed with, and how great is my distress until it is accomplished!
+[50] I have ⟦immersion|an immersion|a baptism⟧ to be ⟦immerse|immersed|baptized⟧ with, and how great is my distress until it is accomplished!
 
 [51] Do you think that I have come to give peace on earth? No, I tell you, but rather division.
 

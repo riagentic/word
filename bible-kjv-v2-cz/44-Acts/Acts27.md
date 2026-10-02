@@ -1,36 +1,36 @@
 # Skutky 27
 
-[1] Když bylo rozhodnuto, že poplujeme do Italy, předali Paula a několik dalších vězňů setníkovi Augustovy kohorty jménem Julius.
+[1] Když bylo rozhodnuto, že poplujeme do ⟦italy|Italie|Itálie⟧, předali ⟦paul|Paula|Pavla⟧ a několik dalších vězňů setníkovi Augustovy kohorty jménem Julius.
 
-[2] Nastoupili jsme na loď z Adramyttia, která měla plout do přístavů podél pobřeží Asie, a vypluli jsme na moře; byl s námi Aristarchus, Macedoňan z Thessalonicy.
+[2] Nastoupili jsme na loď z Adramyttia, která měla plout do přístavů podél pobřeží Asie, a vypluli jsme na moře; byl s námi Aristarchos, ⟦macedonians|Makedon|Makedoňan⟧ z ⟦thessalonica|Thessaloniké|Tesaloniky⟧.
 
-[3] Druhého dne jsme přistáli v Sidonu. Julius jednal s Paulem laskavě a dovolil mu zajít k přátelům, aby se o něj postarali.
+[3] Druhého dne jsme přistáli v ⟦sidon|Cidonu|Sidónu⟧. Julius jednal s ⟦paul|Paulem|Pavlem⟧ laskavě a dovolil mu zajít k přátelům, aby se o něj postarali.
 
-[4] Odtud jsme vypluli a pluli pod závětřím Cypru, protože vanuly protivné větry.
+[4] Odtud jsme vypluli a pluli pod závětřím Kypru, protože vanuly protivné větry.
 
-[5] Přepluli jsme otevřené moře podél Cilicie a Pamphylie a přišli do Myry v Lycii.
+[5] Přepluli jsme otevřené moře podél Kilikie a Pamfylie a přišli do Myry v Lykii.
 
-[6] Tam setník našel alexandrijskou loď plující do Italy a nalodil nás na ni.
+[6] Tam setník našel alexandrijskou loď plující do ⟦italy|Italie|Itálie⟧ a nalodil nás na ni.
 
-[7] Mnoho dní jsme pluli pomalu a jen s námahou jsme se dostali ke Cnidu; protože nám vítr nedovolil plout dál, pluli jsme pod závětřím Crete kolem Salmone.
+[7] Mnoho dní jsme pluli pomalu a jen s námahou jsme se dostali ke Knidu; protože nám vítr nedovolil plout dál, pluli jsme pod závětřím Kréty kolem Salmone.
 
-[8] Jen s námahou jsme podél ní pluli a přišli na místo zvané Fair Havens, nedaleko něhož bylo město Lasea.
+[8] Jen s námahou jsme podél ní pluli a přišli na místo zvané ⟦fair-havens|Krásné přístavy|Dobré přístavy⟧, nedaleko něhož bylo město Lasea.
 
-[9] Protože uplynulo mnoho času a plavba už byla nebezpečná, neboť i Půst už minul, Paul je varoval:
+[9] Protože uplynulo mnoho času a plavba už byla nebezpečná, neboť i Půst už minul, ⟦paul|Paulus|Pavel⟧ je varoval:
 
 [10] „Muži, vidím, že plavba bude spojena se škodou a velkou ztrátou nejen nákladu a lodi, ale i našich životů.“
 
-[11] Setník však dal víc na kormidelníka a majitele lodi než na to, co říkal Paul.
+[11] Setník však dal víc na kormidelníka a majitele lodi než na to, co říkal ⟦paul|Paulus|Pavel⟧.
 
-[12] A protože přístav nebyl vhodný k přezimování, většina se rozhodla vyplout odtud a zkusit, zda by se nějak mohli dostat do Phoenixu, krétského přístavu otevřeného k jihozápadu a severozápadu, a tam přezimovat.
+[12] A protože přístav nebyl vhodný k přezimování, většina se rozhodla vyplout odtud a zkusit, zda by se nějak mohli dostat do Foinixu, krétského přístavu otevřeného k jihozápadu a severozápadu, a tam přezimovat.
 
-[13] Když mírně zavál jižní vítr, domnívali se, že dosáhli svého záměru; zvedli kotvy a pluli podél Crete těsně u břehu.
+[13] Když mírně zavál jižní vítr, domnívali se, že dosáhli svého záměru; zvedli kotvy a pluli podél Kréty těsně u břehu.
 
 [14] Brzy však na ně z pevniny udeřil bouřlivý vítr zvaný severovýchodník.
 
 [15] Loď byla zachvácena a nemohla se postavit proti větru; vzdali jsme to a nechali se unášet.
 
-[16] Když jsme se dostali pod závětří malého ostrova zvaného Cauda, jen s obtížemi jsme zajistili člun.
+[16] Když jsme se dostali pod závětří malého ostrova zvaného Kauda, jen s obtížemi jsme zajistili člun.
 
 [17] Vytáhli ho nahoru a použili pomůcek k podepnutí lodi. Potom ze strachu, aby nenajeli na Syrtis, spustili výstroj, a tak se nechali unášet.
 
@@ -40,15 +40,15 @@
 
 [20] Když se po mnoho dní neukázalo slunce ani hvězdy a doléhala na nás nemalá bouře, byla nakonec ztracena veškerá naděje na naši záchranu.
 
-[21] Protože byli dlouho bez jídla, postavil se Paul uprostřed nich a řekl: „Muži, měli jste mě poslechnout a nevyplouvat z Crete; byli byste se vyhnuli této škodě a ztrátě.
+[21] Protože byli dlouho bez jídla, postavil se ⟦paul|Paulus|Pavel⟧ uprostřed nich a řekl: „Muži, měli jste mě poslechnout a nevyplouvat z Kréty; byli byste se vyhnuli této škodě a ztrátě.
 
 [22] Ale nyní vás vybízím, abyste byli dobré mysli, neboť nikdo z vás nepřijde o život; ztracena bude jen loď.
 
-[23] Této noci totiž přede mnou stanul anděl *Elohim*, jemuž patřím a jemuž sloužím,
+[23] Této noci totiž přede mnou stanul anděl ⟦elohim|Elohim|Boží⟧, jemuž patřím a jemuž sloužím,
 
-[24] a řekl: ‚Neboj se, Paule, musíš stanout před Caesarem. A hle, *Elohim* ti daroval všechny, kdo plují s tebou.‘
+[24] a řekl: ‚Neboj se, ⟦paul|Paule|Pavle⟧, musíš stanout před ⟦caesar|Caesarem|císařem⟧. A hle, ⟦elohim|Elohim|Bůh⟧ ti daroval všechny, kdo plují s tebou.‘
 
-[25] Buďte tedy dobré mysli, muži, neboť věřím *Elohim*, že to bude přesně tak, jak mi bylo řečeno.
+[25] Buďte tedy dobré mysli, muži, neboť věřím ⟦elohim|Elohim|Bohu⟧, že to bude přesně tak, jak mi bylo řečeno.
 
 [26] Musíme však ztroskotat na nějakém ostrově.“
 
@@ -60,15 +60,15 @@
 
 [30] Když se námořníci pokoušeli uprchnout z lodi a spustili člun na moře pod záminkou, že chtějí spustit kotvy z přídě,
 
-[31] řekl Paul setníkovi a vojákům: „Jestliže tito nezůstanou na lodi, nemůžete být zachráněni.“
+[31] řekl ⟦paul|Paulus|Pavel⟧ setníkovi a vojákům: „Jestliže tito nezůstanou na lodi, nemůžete být zachráněni.“
 
 [32] Tehdy vojáci přesekli lana člunu a nechali ho odpadnout.
 
-[33] Když se začalo rozednívat, vybízel Paul všechny, aby pojedli: „Dnes je to čtrnáctý den, co čekáte v napětí a zůstáváte bez jídla a nic jste nepojedli.
+[33] Když se začalo rozednívat, vybízel ⟦paul|Paulus|Pavel⟧ všechny, aby pojedli: „Dnes je to čtrnáctý den, co čekáte v napětí a zůstáváte bez jídla a nic jste nepojedli.
 
 [34] Proto vás vybízím, abyste pojedli; bude vám to k síle, neboť nikomu z vás nezahyne ani vlas z hlavy.“
 
-[35] Když to řekl, vzal chléb, přede všemi vzdal díky *Elohim*, rozlomil ho a začal jíst.
+[35] Když to řekl, vzal chléb, přede všemi vzdal díky ⟦elohim|Elohim|Bohu⟧, rozlomil ho a začal jíst.
 
 [36] Všichni se tedy povzbudili a také sami pojedli.
 
@@ -84,7 +84,7 @@
 
 [42] Vojáci měli v úmyslu vězně zabít, aby některý neuplaval a neutekl.
 
-[43] Setník však chtěl zachránit Paula, a proto jim v jejich záměru zabránil. Přikázal, aby ti, kdo umějí plavat, skočili první do vody a dostali se na zemi,
+[43] Setník však chtěl zachránit ⟦paul|Paula|Pavla⟧, a proto jim v jejich záměru zabránil. Přikázal, aby ti, kdo umějí plavat, skočili první do vody a dostali se na zemi,
 
 [44] a ostatní na prknech nebo na troskách lodi. A tak se stalo, že se všichni zachránili na zemi.
 

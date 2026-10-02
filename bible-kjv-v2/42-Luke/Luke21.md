@@ -1,6 +1,6 @@
 # Luke 21
 
-[1] *Yeshua* looked up and saw the rich putting their gifts into the offering box,
+[1] ⟦yeshua|Yeshua|Jesus⟧ looked up and saw the rich putting their gifts into the offering box,
 
 [2] and he saw a poor widow put in two small copper coins.
 
@@ -38,15 +38,15 @@
 
 [19] **By your endurance you will gain your lives.**
 
-[20] "But when you see Jerusalem surrounded by armies, then know that its desolation has come near.
+[20] "But when you see ⟦jerusalem|Yerushalayim|Jerusalem⟧ surrounded by armies, then know that its desolation has come near.
 
-[21] Then let those who are in Judea flee to the mountains, and let those who are inside the city depart, and let not those who are out in the country enter it,
+[21] Then let those who are in ⟦judea|Yehudah|Judea⟧ flee to the mountains, and let those who are inside the city depart, and let not those who are out in the country enter it,
 
 [22] for these are days of vengeance, to fulfill all that is written.
 
 [23] Alas for women who are pregnant and for those who are nursing infants in those days! For there will be great distress upon the earth and wrath against this people.
 
-[24] They will fall by the edge of the sword and be led captive among all nations, and Jerusalem will be trampled underfoot by the Gentiles, until the times of the Gentiles are fulfilled.
+[24] They will fall by the edge of the sword and be led captive among all nations, and ⟦jerusalem|Yerushalayim|Jerusalem⟧ will be trampled underfoot by the Gentiles, until the times of the Gentiles are fulfilled.
 
 [25] "And there will be signs in sun and moon and stars, and on the earth distress of nations in perplexity because of the roaring of the sea and the waves,
 
@@ -60,7 +60,7 @@
 
 [30] As soon as they come out in leaf, you see for yourselves and know that the summer is already near.
 
-[31] So also, when you see these things taking place, you know that the kingdom of *Elohim* is near.
+[31] So also, when you see these things taking place, you know that the kingdom of ⟦elohim|Elohim|God⟧ is near.
 
 [32] Truly, I say to you, this generation will not pass away until all has taken place.
 
@@ -72,7 +72,7 @@
 
 [36] But stay awake at all times, praying that you may have strength to escape all these things that are going to take place, and to stand before the Son of Man."
 
-[37] And every day he was teaching in the temple, but at night he went out and lodged on the mount called Olivet.
+[37] And every day he was teaching in the temple, but at night he went out and lodged on the mount called ⟦mount-of-olives|HaZeitim|Olivet⟧.
 
 [38] And early in the morning all the people came to him in the temple to hear him.
 

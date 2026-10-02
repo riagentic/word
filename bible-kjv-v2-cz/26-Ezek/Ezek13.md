@@ -1,22 +1,22 @@
 # Ezechiel 13
 
-[1] Přišlo ke mně slovo Yahweh:
+[1] Přišlo ke mně slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[2] „Synu člověka, prorokuj proti prorokům Israele, kteří prorokují, a řekni těm, kdo prorokují ze svého vlastního srdce: ‚Slyšte slovo Yahweh!‘
+[2] „Synu člověka, prorokuj proti prorokům ⟦israel|Jisraele|Izraele⟧, kteří prorokují, a řekni těm, kdo prorokují ze svého vlastního srdce: ‚Slyšte slovo ⟦yhwh|Jahveho|Hospodina⟧!‘
 
-[3] Toto praví Pán Yahweh: Běda pošetilým prorokům, kteří následují svého vlastního ducha a nic neviděli!
+[3] Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Běda pošetilým prorokům, kteří následují svého vlastního ducha a nic neviděli!
 
-[4] Tvoji proroci jsou jako šakalové mezi troskami, Israeli.
+[4] Tvoji proroci jsou jako šakalové mezi troskami, ⟦israel|Jisraeli|Izraeli⟧.
 
-[5] Nevystoupili jste do trhlin ani jste nevybudovali zeď pro dům Israele, aby obstál v boji v den Yahweh.
+[5] Nevystoupili jste do trhlin ani jste nevybudovali zeď pro dům ⟦israel|Jisraele|Izraele⟧, aby obstál v boji v den ⟦yhwh|Jahveho|Hospodina⟧.
 
-[6] Vidí falešná vidění a lživá věštění. Říkají: ‚Je výrok Yahweh,‘ ačkoli je Yahweh neposlal, a přesto očekávají, že naplní jejich slovo.
+[6] Vidí falešná vidění a lživá věštění. Říkají: ‚Je výrok ⟦yhwh|Jahveho|Hospodina⟧,‘ ačkoli je ⟦yhwh|Jahve|Hospodin⟧ neposlal, a přesto očekávají, že naplní jejich slovo.
 
-[7] Neviděli jste snad falešné vidění a nevyslovili lživé věštění, kdykoli jste řekli: ‚Je výrok Yahweh,‘ ačkoli jsem nepromluvil?
+[7] Neviděli jste snad falešné vidění a nevyslovili lživé věštění, kdykoli jste řekli: ‚Je výrok ⟦yhwh|Jahveho|Hospodina⟧,‘ ačkoli jsem nepromluvil?
 
-[8] Proto toto praví Pán Yahweh: Protože jste vyslovovali faleš a viděli lživá vidění, proto hle, jsem proti vám, je výrok Pána Yahweh.
+[8] Proto toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Protože jste vyslovovali faleš a viděli lživá vidění, proto hle, jsem proti vám, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.
 
-[9] Má ruka bude proti prorokům, kteří vidí falešná vidění a vydávají lživá věštění. Nebudou v radě mého lidu, nebudou zapsáni do seznamu domu Israele a nevejdou do země Israele. A poznáte, že já jsem Pán Yahweh.
+[9] Má ruka bude proti prorokům, kteří vidí falešná vidění a vydávají lživá věštění. Nebudou v radě mého lidu, nebudou zapsáni do seznamu domu ⟦israel|Jisraele|Izraele⟧ a nevejdou do země ⟦israel|Jisraele|Izraele⟧. A poznáte, že já jsem ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧.
 
 [10] Právě proto, že svedli můj lid, když říkali: ‚Pokoj,‘ ačkoli není pokoj, a protože když lid staví zeď, tito proroci ji natírají vápnem,
 
@@ -24,27 +24,27 @@
 
 [12] A až zeď padne, neřeknou vám snad: ‚Kde je ten nátěr, kterým jste ji natírali?‘
 
-[13] Proto toto praví Pán Yahweh: Ve své zlobě nechám propuknout bouřlivý vítr a v mém hněvu přijde příval deště a veliké kroupy v zlobě, aby učinily úplný konec.
+[13] Proto toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Ve své zlobě nechám propuknout bouřlivý vítr a v mém hněvu přijde příval deště a veliké kroupy v zlobě, aby učinily úplný konec.
 
-[14] Zbořím zeď, kterou jste natírali vápnem, a strhnu ji k zemi, takže bude obnažen její základ. Až padne, zahynete uprostřed ní a poznáte, že já jsem Yahweh.
+[14] Zbořím zeď, kterou jste natírali vápnem, a strhnu ji k zemi, takže bude obnažen její základ. Až padne, zahynete uprostřed ní a poznáte, že já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
 [15] Tak vyčerpám svou zlobu na zdi a na těch, kdo ji natírali vápnem, a řeknu vám: Zeď už není, ani ti, kdo ji natírali,
 
-[16] proroci Israele, kteří prorokovali o Jerusalemu a viděli pro něj vidění pokoje, ačkoli pokoj nebyl, je výrok Pána Yahweh.
+[16] proroci ⟦israel|Jisraele|Izraele⟧, kteří prorokovali o ⟦jerusalem|Jerušalajim|Jeruzalémě⟧ a viděli pro něj vidění pokoje, ačkoli pokoj nebyl, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.
 
 [17] A ty, synu člověka, obrať svou tvář proti dcerám svého lidu, které prorokují ze svého vlastního srdce. Prorokuj proti nim
 
-[18] a řekni: Toto praví Pán Yahweh: Běda ženám, které šijí kouzelné pásky na všechna zápěstí a zhotovují závoje na hlavy lidí každé postavy, aby lovily duše! Budete lovit duše patřící mému lidu a své vlastní duše zachovávat naživu?
+[18] a řekni: Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Běda ženám, které šijí kouzelné pásky na všechna zápěstí a zhotovují závoje na hlavy lidí každé postavy, aby lovily duše! Budete lovit duše patřící mému lidu a své vlastní duše zachovávat naživu?
 
 [19] Znesvětily jste mě mezi mým lidem za hrsti ječmene a za kousky chleba, když jste usmrcovaly duše, které neměly zemřít, a zachovávaly naživu duše, které neměly žít, svými lžemi mému lidu, který poslouchá lži.
 
-[20] Proto toto praví Pán Yahweh: Hle, jsem proti vašim kouzelným páskám, kterými lovíte duše jako ptáky, strhnu je z vašich paží a propustím na svobodu duše, které lovíte, duše jako ptáky.
+[20] Proto toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Hle, jsem proti vašim kouzelným páskám, kterými lovíte duše jako ptáky, strhnu je z vašich paží a propustím na svobodu duše, které lovíte, duše jako ptáky.
 
-[21] Strhnu také vaše závoje a vysvobodím svůj lid z vaší ruky, a už nebudou ve vaší ruce jako kořist, a poznáte, že já jsem Yahweh.
+[21] Strhnu také vaše závoje a vysvobodím svůj lid z vaší ruky, a už nebudou ve vaší ruce jako kořist, a poznáte, že já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
 [22] Protože jste lží sklíčily spravedlivého, ačkoli jsem ho já nezarmoutil, a povzbudily jste svévolníka, aby se neodvrátil od své zlé cesty a nezachránil si život,
 
-[23] proto už nebudete vidět falešná vidění ani provozovat věštění. Vysvobodím svůj lid z vaší ruky. A poznáte, že já jsem Yahweh.“
+[23] proto už nebudete vidět falešná vidění ani provozovat věštění. Vysvobodím svůj lid z vaší ruky. A poznáte, že já jsem ⟦yhwh|Jahve|Hospodin⟧.“
 
 ## Změny
 

@@ -1,42 +1,42 @@
 # Numbers 28
 
-[1] Yahweh spoke to Moses, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[2] "Command the children of Israel and say to them: 'My offering, my food for my offerings made by fire, a pleasing aroma to me, you shall take care to present to me at their appointed time.'
+[2] "Command the children of ⟦israel|Yisrael|Israel⟧ and say to them: 'My offering, my food for my offerings made by fire, a pleasing aroma to me, you shall take care to present to me at their appointed time.'
 
-[3] Say to them: 'This is the offering made by fire that you shall offer to Yahweh: two year-old lambs without blemish day by day, as a regular burnt offering.
+[3] Say to them: 'This is the offering made by fire that you shall offer to ⟦yhwh|Yahweh|the LORD⟧: two year-old lambs without blemish day by day, as a regular burnt offering.
 
 [4] One lamb you shall offer in the morning, and the other lamb you shall offer at twilight,
 
 [5] with a tenth of an ephah of fine flour for a grain offering, mixed with a quarter of a hin of beaten oil.
 
-[6] It is a regular burnt offering, which was established at Mount Sinai for a pleasing aroma, an offering made by fire to Yahweh.
+[6] It is a regular burnt offering, which was established at Mount Sinai for a pleasing aroma, an offering made by fire to ⟦yhwh|Yahweh|the LORD⟧.
 
-[7] Its drink offering shall be a quarter of a hin for each lamb; in the holy place you shall pour out a drink offering of strong drink to Yahweh.
+[7] Its drink offering shall be a quarter of a hin for each lamb; in the holy place you shall pour out a drink offering of strong drink to ⟦yhwh|Yahweh|the LORD⟧.
 
-[8] The other lamb you shall offer at twilight; with the grain offering of the morning and its drink offering you shall offer it, an offering made by fire, a pleasing aroma to Yahweh.
+[8] The other lamb you shall offer at twilight; with the grain offering of the morning and its drink offering you shall offer it, an offering made by fire, a pleasing aroma to ⟦yhwh|Yahweh|the LORD⟧.
 
-[9] On the Sabbath day: two year-old lambs without blemish, and two-tenths of an ephah of fine flour mixed with oil for a grain offering, and its drink offering.
+[9] On the ⟦shabbat|Shabbat|Sabbath⟧ day: two year-old lambs without blemish, and two-tenths of an ephah of fine flour mixed with oil for a grain offering, and its drink offering.
 
-[10] This is the burnt offering of each Sabbath, besides the regular burnt offering and its drink offering.
+[10] This is the burnt offering of each ⟦shabbat|Shabbat|Sabbath⟧, besides the regular burnt offering and its drink offering.
 
-[11] At the beginnings of your months you shall present a burnt offering to Yahweh: two young bulls, one ram, and seven year-old lambs without blemish;
+[11] At the beginnings of your months you shall present a burnt offering to ⟦yhwh|Yahweh|the LORD⟧: two young bulls, one ram, and seven year-old lambs without blemish;
 
 [12] and three-tenths of an ephah of fine flour mixed with oil for a grain offering for each bull; and two-tenths of an ephah of fine flour mixed with oil for a grain offering for each ram;
 
-[13] and one-tenth of an ephah of fine flour mixed with oil for a grain offering for each lamb; a burnt offering of pleasing aroma, an offering made by fire to Yahweh.
+[13] and one-tenth of an ephah of fine flour mixed with oil for a grain offering for each lamb; a burnt offering of pleasing aroma, an offering made by fire to ⟦yhwh|Yahweh|the LORD⟧.
 
 [14] Their drink offerings shall be half a hin of wine for a bull, a third of a hin for a ram, and a quarter of a hin for a lamb; this is the burnt offering for each month throughout the months of the year.
 
-[15] And one male goat for a sin offering to Yahweh; it shall be offered besides the regular burnt offering and its drink offering.
+[15] And one male goat for a sin offering to ⟦yhwh|Yahweh|the LORD⟧; it shall be offered besides the regular burnt offering and its drink offering.
 
-[16] On the fourteenth day of the first month is the Passover of Yahweh.
+[16] On the fourteenth day of the first month is the ⟦pesach|Pesach|Passover⟧ of ⟦yhwh|Yahweh|the LORD⟧.
 
 [17] On the fifteenth day of this month is a feast; seven days unleavened bread shall be eaten.
 
 [18] On the first day there shall be a holy convocation; you shall do no laborious work.
 
-[19] You shall present an offering made by fire, a burnt offering to Yahweh: two young bulls, one ram, and seven year-old lambs — they shall be without blemish for you.
+[19] You shall present an offering made by fire, a burnt offering to ⟦yhwh|Yahweh|the LORD⟧: two young bulls, one ram, and seven year-old lambs — they shall be without blemish for you.
 
 [20] Their grain offering of fine flour mixed with oil: you shall offer three-tenths of an ephah for a bull and two-tenths of an ephah for the ram;
 
@@ -46,13 +46,13 @@
 
 [23] You shall offer these in addition to the burnt offering of the morning, which is for a regular burnt offering.
 
-[24] In this way you shall offer daily, throughout the seven days, the food of the offering made by fire, a pleasing aroma to Yahweh; it shall be offered besides the regular burnt offering and its drink offering.
+[24] In this way you shall offer daily, throughout the seven days, the food of the offering made by fire, a pleasing aroma to ⟦yhwh|Yahweh|the LORD⟧; it shall be offered besides the regular burnt offering and its drink offering.
 
 [25] On the seventh day you shall have a holy convocation; you shall do no laborious work.
 
-[26] On the day of the firstfruits, when you bring a new grain offering to Yahweh at your Feast of Weeks, you shall have a holy convocation; you shall do no laborious work.
+[26] On the day of the firstfruits, when you bring a new grain offering to ⟦yhwh|Yahweh|the LORD⟧ at your Feast of ⟦weeks|Shavuot|Weeks⟧, you shall have a holy convocation; you shall do no laborious work.
 
-[27] You shall present a burnt offering, a pleasing aroma to Yahweh: two young bulls, one ram, seven year-old lambs;
+[27] You shall present a burnt offering, a pleasing aroma to ⟦yhwh|Yahweh|the LORD⟧: two young bulls, one ram, seven year-old lambs;
 
 [28] and their grain offering of fine flour mixed with oil: three-tenths of an ephah for each bull, two-tenths of an ephah for the one ram,
 

@@ -90,7 +90,7 @@ her husband also, and he praises her:
 but you surpass them all."
 
 [30] **ש** Charm is deceitful, and beauty is vain,
-but a woman who fears Yahweh is to be praised.
+but a woman who fears ⟦yhwh|Yahweh|the LORD⟧ is to be praised.
 
 [31] **ת** Give her of the fruit of her hands,
 and let her works praise her in the gates.

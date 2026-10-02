@@ -1,24 +1,24 @@
 # Philemon 1
 
-[1] Paul, a prisoner for the *Mashiach* *Yeshua*, and Timothy our brother, to Philemon our beloved fellow worker
+[1] ⟦paul|Paulus|Paul⟧, a prisoner for ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧, and ⟦timothy|Timotheos|Timothy⟧ our brother, to Philemon our beloved fellow worker
 
-[2] and Apphia our sister and Archippos our fellow soldier, and the church in your house:
+[2] and Apphia our sister and ⟦archippus|Archippos|Archippus⟧ our fellow soldier, and the church in your house:
 
-[3] Grace to you and peace from *Elohim* our Father and the Lord *Yeshua* the *Mashiach*.
+[3] Grace to you and peace from ⟦elohim|Elohim|God⟧ our Father and the Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧.
 
-[4] I thank my *Elohim* always when I remember you in my prayers,
+[4] I thank my ⟦elohim|Elohim|God⟧ always when I remember you in my prayers,
 
-[5] because I hear of your love and of the faith that you have toward the Lord *Yeshua* and for all the saints,
+[5] because I hear of your love and of the faith that you have toward the Lord ⟦yeshua|Yeshua|Jesus⟧ and for all the saints,
 
-[6] and I pray that the sharing of your faith may become effective for the full knowledge of every good thing that is in us for the sake of the *Mashiach*.
+[6] and I pray that the sharing of your faith may become effective for the full knowledge of every good thing that is in us for the sake of ⟦mashiach|the Mashiach|Christ⟧.
 
 [7] For I have derived much joy and comfort from your love, my brother, because the hearts of the saints have been refreshed through you.
 
-[8] Accordingly, though I am bold enough in the *Mashiach* to command you to do what is required,
+[8] Accordingly, though I am bold enough in ⟦mashiach|the Mashiach|Christ⟧ to command you to do what is required,
 
-[9] yet for love's sake I prefer to appeal to you — I, Paul, an old man and now a prisoner also for the *Mashiach* *Yeshua* —
+[9] yet for love's sake I prefer to appeal to you — I, ⟦paul|Paulus|Paul⟧, an old man and now a prisoner also for ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧ —
 
-[10] I appeal to you for my child, Onesimos, whose father I became in my imprisonment.
+[10] I appeal to you for my child, ⟦onesimus|Onesimos|Onesimus⟧, whose father I became in my imprisonment.
 
 [11] (Formerly he was useless to you, but now he is indeed useful to you and to me.)
 
@@ -36,19 +36,19 @@
 
 [18] If he has wronged you at all, or owes you anything, charge that to my account.
 
-[19] I, Paul, write this with my own hand: I will repay it — to say nothing of your owing me even your own self.
+[19] I, ⟦paul|Paulus|Paul⟧, write this with my own hand: I will repay it — to say nothing of your owing me even your own self.
 
-[20] Yes, brother, I want some benefit from you in the Lord. Refresh my heart in the *Mashiach*.
+[20] Yes, brother, I want some benefit from you in the Lord. Refresh my heart in ⟦mashiach|the Mashiach|Christ⟧.
 
 [21] Confident of your obedience, I write to you, knowing that you will do even more than I say.
 
 [22] At the same time, prepare a guest room for me, for I am hoping that through your prayers I will be graciously given to you.
 
-[23] Epaphras, my fellow prisoner in the *Mashiach* *Yeshua*, sends greetings to you,
+[23] Epaphras, my fellow prisoner in ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧, sends greetings to you,
 
-[24] and so do Mark, Aristarchus, Demas, and Luke, my fellow workers.
+[24] and so do ⟦mark|Marcus|Mark⟧, ⟦aristarchus|Aristarchos|Aristarchus⟧, Demas, and ⟦luke|Loukas|Luke⟧, my fellow workers.
 
-[25] The grace of the Lord *Yeshua* the *Mashiach* be with your spirit.
+[25] The grace of the Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧ be with your spirit.
 
 ## Changes
 

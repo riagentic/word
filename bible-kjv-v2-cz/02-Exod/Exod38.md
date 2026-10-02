@@ -40,17 +40,17 @@
 
 [20] Všechny kolíky příbytku a nádvoří dokola byly z bronzu.
 
-[21] Toto je soupis příbytku svědectví – jak byly sečteny na Mosesův příkaz pro službu levitů, rukou Ithamara, syna kněze Aarona.
+[21] Toto je soupis příbytku svědectví – jak byly sečteny na ⟦moses|Mošův|Mojžíšův⟧ příkaz pro službu ⟦levites|Levijim|lévijců⟧, rukou ⟦ithamar|Itamara|Ítamara⟧, syna kněze ⟦aaron|Aharona|Árona⟧.
 
-[22] Betzalel, syn Uriho, syna Hura, z kmene Judah, udělal všechno, co Yahweh přikázal Mosesovi;
+[22] ⟦bezalel|Becalel|Besaleel⟧, syn ⟦uri|Uriho|Urího⟧, syna ⟦hur|Chura|Chúra⟧, z kmene ⟦judah|Jehudy|Judy⟧, udělal všechno, co ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧;
 
-[23] a s ním byl Oholiab, syn Ahisamachův, z kmene Dan, řemeslník a návrhář a vyšívač v modré, purpurové a karmínové přízi a v jemném plátně.
+[23] a s ním byl ⟦oholiab|Oholiav|Oholíab⟧, syn ⟦ahisamach|Achisamachův|Achísamakův⟧, z kmene Dan, řemeslník a návrhář a vyšívač v modré, purpurové a karmínové přízi a v jemném plátně.
 
 [24] Všechno zlato, které bylo použito na dílo, na veškeré dílo svatyně – zlato oběti pozdvižení – činilo 29 talentů a 730 šekelů podle šekelu svatyně.
 
 [25] Stříbro od těch ze společenství, kteří byli sečteni, činilo 100 talentů a 1 775 šekelů podle šekelu svatyně:
 
-[26] bekah na hlavu (to jest půl šekelu podle šekelu svatyně) za každého, kdo přešel k sečteným, od dvaceti let výše – za 603 550 mužů.
+[26] ⟦beka|beka|půl šekelu⟧ na hlavu (to jest půl šekelu podle šekelu svatyně) za každého, kdo přešel k sečteným, od dvaceti let výše – za 603 550 mužů.
 
 [27] 100 talentů stříbra bylo použito na odlití podstavců svatyně a podstavců opony – 100 podstavců na 100 talentů, talent na podstavec.
 

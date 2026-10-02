@@ -1,6 +1,6 @@
 # Isaiah 50
 
-[1] Thus says Yahweh:
+[1] Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
 "Where is your mother's certificate of divorce,
 with which I sent her away?
@@ -21,7 +21,7 @@ and die of thirst.
 [3] I clothe the heavens with blackness
 and make sackcloth their covering."
 
-[4] Lord Yahweh has given me
+[4] ⟦adonai-yhwh|Lord Yahweh|The Lord GOD⟧ has given me
 the tongue of those who are taught,
 that I may know how to sustain with a word
 him who is weary.
@@ -29,7 +29,7 @@ Morning by morning he awakens;
 he awakens my ear
 to hear as those who are taught.
 
-[5] Lord Yahweh has opened my ear,
+[5] ⟦adonai-yhwh|Lord Yahweh|The Lord GOD⟧ has opened my ear,
 and I was not rebellious;
 I turned not backward.
 
@@ -38,7 +38,7 @@ and my cheeks to those who pull out the beard;
 I hid not my face
 from disgrace and spitting.
 
-[7] But Lord Yahweh helps me;
+[7] But ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧ helps me;
 therefore I have not been disgraced;
 therefore I have set my face like a flint,
 and I know that I shall not be put to shame.
@@ -49,17 +49,17 @@ Let us stand up together.
 Who is my adversary?
 Let him come near to me.
 
-[9] Behold, Lord Yahweh helps me;
+[9] Behold, ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧ helps me;
 who will declare me guilty?
 Behold, all of them will wear out like a garment;
 the moth will eat them up.
 
-[10] Who among you fears Yahweh
+[10] Who among you fears ⟦yhwh|Yahweh|the LORD⟧
 and obeys the voice of his servant?
 Let him who walks in darkness
 and has no light
-trust in the name of Yahweh
-and rely on his *Elohim*.
+trust in the name of ⟦yhwh|Yahweh|the LORD⟧
+and rely on his ⟦elohim|Elohim|God⟧.
 
 [11] Behold, all you who kindle a fire,
 who equip yourselves with burning torches!

@@ -2,25 +2,25 @@
 
 [1] Znovu vešel do synagogy a byl tam člověk s odumřelou rukou.
 
-[2] Pozorovali *Yeshuu*, zda ho v sabat uzdraví, aby ho mohli obžalovat.
+[2] Pozorovali ⟦yeshua|Ješuu|Ježíše⟧, zda ho v ⟦shabbat|šabat|sobotu⟧ uzdraví, aby ho mohli obžalovat.
 
 [3] Řekl člověku s odumřelou rukou: „Pojď sem.“
 
-[4] A jim řekl: „Je dovoleno v sabat činit dobro, nebo zlo, zachránit život, nebo zabít?“ Oni však mlčeli.
+[4] A jim řekl: „Je dovoleno v ⟦shabbat|šabat|sobotu⟧ činit dobro, nebo zlo, zachránit život, nebo zabít?“ Oni však mlčeli.
 
 [5] Rozhlédl se po nich s hněvem, zarmoucen nad tvrdostí jejich srdce, a řekl tomu člověku: „Natáhni ruku.“ On ji natáhl a jeho ruka byla uzdravena.
 
-[6] Farizeové vyšli a hned se s herodiány radili proti němu, jak by ho zahubili.
+[6] ⟦pharisees|Perušim|Farizeové⟧ vyšli a hned se s ⟦herodians|herodianoi|herodiány⟧ radili proti němu, jak by ho zahubili.
 
-[7] *Yeshua* se se svými učedníky uchýlil k moři a šel za ním velký zástup z Galilee i z Judey,
+[7] ⟦yeshua|Ješua|Ježíš⟧ se se svými učedníky uchýlil k moři a šel za ním velký zástup z ⟦galilee|Galilu|Galileje⟧ i z ⟦judea|Jehudy|Judska⟧,
 
-[8] z Jerusalemu, z Idumey, z území za Jordanem a z okolí Tyru a Sidonu. Když ten velký zástup slyšel, co všechno dělá, přišli k němu.
+[8] z ⟦jerusalem|Jerušalajim|Jeruzaléma⟧, z ⟦idumea|Edomu|Idumeje⟧, z území za ⟦jordan|Jardenem|Jordánem⟧ a z okolí ⟦tyre|Coru|Týru⟧ a ⟦sidon|Cidonu|Sidónu⟧. Když ten velký zástup slyšel, co všechno dělá, přišli k němu.
 
 [9] Řekl svým učedníkům, aby pro něho měli připravenou loďku kvůli zástupu, aby ho nemačkali,
 
 [10] neboť mnohé uzdravil, takže se na něho tlačili všichni, kdo měli nemoci, aby se ho dotkli.
 
-[11] A kdykoli ho nečistí duchové uviděli, padali před ním a křičeli: „Ty jsi Syn *Elohim*.“
+[11] A kdykoli ho nečistí duchové uviděli, padali před ním a křičeli: „Ty jsi Syn ⟦elohim|Elohim|Boží⟧.“
 
 [12] On jim však přísně nařizoval, aby ho neprozrazovali.
 
@@ -30,19 +30,19 @@
 
 [15] a aby měli moc vyhánět démony.
 
-[16] Ustanovil těch dvanáct: Simona, jemuž dal jméno *Kefa*,
+[16] Ustanovil těch dvanáct: Šimona, jemuž dal jméno ⟦peter|Kefa|Petr⟧,
 
-[17] Jacoba, syna Zebedeova, a Johna, bratra Jacobova, jimž dal jméno Boanerges, to jest Synové hromu;
+[17] ⟦james|Jaakova|Jakuba⟧, syna ⟦zebedee|Zebedaiova|Zebedeova⟧, a ⟦john|Jochanana|Jana⟧, bratra ⟦james|Jaakovova|Jakubova⟧, jimž dal jméno Boanerges, to jest Synové hromu;
 
-[18] Andrewa, Philipa, Bartholomewa, Matthewa, Thomase, Jacoba, syna Alphaeova, Thaddaea, Simona Zélotu
+[18] ⟦andrew|Andrease|Ondřeje⟧, ⟦philip|Filippa|Filipa⟧, ⟦bartholomew|Bar-Talmaje|Bartoloměje⟧, ⟦matthew|Mattaje|Matouše⟧, ⟦thomas|Tomu|Tomáše⟧, ⟦james|Jaakova|Jakuba⟧, syna ⟦alphaeus|Alfaiova|Alfeova⟧, ⟦thaddaeus|Thaddaia|Tadeáše⟧, Šimona Zélotu
 
-[19] a Judase Iscariota, který ho zradil.
+[19] a ⟦judas|Jehudu|Jidáše⟧ ⟦iscariot|Iškariota|Iškariotského⟧, který ho zradil.
 
 [20] Potom šel domů a znovu se sešel zástup, takže nemohli ani pojíst.
 
 [21] Když to uslyšeli jeho příbuzní, vyšli, aby se ho zmocnili, neboť říkali: „Pomátl se.“
 
-[22] Zákoníci, kteří přišli z Jerusalemu, říkali: „Je posedlý Beelzebulem“ a „vyhání démony pomocí knížete démonů.“
+[22] Zákoníci, kteří přišli z ⟦jerusalem|Jerušalajim|Jeruzaléma⟧, říkali: „Je posedlý ⟦beelzebul|Beelzebulem|Belzebulem⟧“ a „vyhání démony pomocí knížete démonů.“
 
 [23] Zavolal si je a mluvil k nim v podobenstvích: „Jak může Satan vyhánět Satana?
 
@@ -56,7 +56,7 @@
 
 [28] Vpravdě vám říkám, že lidským synům bude odpuštěno všechno, hříchy i rouhání, jakkoli by se rouhali,
 
-[29] ale kdo by se rouhal proti *Ruach HaQodesh*, nemá navěky odpuštění, ale je vinen věčným hříchem“ –
+[29] ale kdo by se rouhal proti ⟦ruach-haqodesh|Ruach HaKodeš|Duchu svatému⟧, nemá navěky odpuštění, ale je vinen věčným hříchem“ –
 
 [30] protože říkali: „Má nečistého ducha.“
 
@@ -68,7 +68,7 @@
 
 [34] Rozhlédl se po těch, kdo kolem něho seděli, a řekl: „Hle, má matka a moji bratři!
 
-[35] **Kdo činí vůli *Elohim*, ten je můj bratr, sestra i matka.**“
+[35] **Kdo činí vůli ⟦elohim|Elohim|Boží⟧, ten je můj bratr, sestra i matka.**“
 
 ## Změny
 

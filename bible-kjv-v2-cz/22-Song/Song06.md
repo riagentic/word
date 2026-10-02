@@ -13,14 +13,14 @@ a trhal lilie.
 [3] Já jsem svého milého a můj milý je můj;
 pase se mezi liliemi.
 
-[4] Jsi krásná jako Tirzah, má milá,
-půvabná jako Jerusalem,
+[4] Jsi krásná jako ⟦tirzah|Tirca|Tirsa⟧, má milá,
+půvabná jako ⟦jerusalem|Jerušalajim|Jeruzalém⟧,
 hrozivá jako vojsko s korouhvemi.
 
 [5] Odvrať ode mne své oči,
 neboť mě přemáhají –
 tvé vlasy jsou jako stádo koz,
-které sbíhají po svazích Gileadu.
+které sbíhají po svazích ⟦gilead|Giladu|Gileádu⟧.
 
 [6] Tvé zuby jsou jako stádo ovcí,
 které vystoupily z koupele;
@@ -51,10 +51,10 @@ zda granátovníky kvetou.
 [12] Dříve než jsem se nadál, má duše mě posadila
 mezi vozy mého urozeného lidu.
 
-[13] Vrať se, vrať se, Shulammit!
+[13] Vrať se, vrať se, ⟦shulammite|Šulamit|Šulamítko⟧!
 Vrať se, vrať se, ať na tebe pohledíme.
 
-Proč byste hleděli na Shulammit
+Proč byste hleděli na ⟦shulammite|Šulamit|Šulamítku⟧
 jako na tanec před dvěma vojsky?
 
 ## Změny

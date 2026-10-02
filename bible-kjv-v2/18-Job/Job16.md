@@ -1,6 +1,6 @@
 # Job 16
 
-[1] Then Job answered and said:
+[1] Then ⟦job|Iyov|Job⟧ answered and said:
 
 [2] "I have heard many such things;
 miserable comforters are you all.
@@ -33,7 +33,7 @@ my adversary sharpens his eyes against me.
 they slap me on the cheek with reproach;
 they mass together against me.
 
-[11] *Elohim* delivers me over to the ungodly
+[11] ⟦el|El|God⟧ delivers me over to the ungodly
 and casts me into the hands of the wicked.
 
 [12] I was at ease, but he has shattered me;
@@ -63,9 +63,9 @@ and let my cry find no resting place.
 and he who testifies for me is on high.
 
 [20] My friends are my scoffers;
-my eye pours out tears to Eloah —
+my eye pours out tears to ⟦eloah|Eloah|God⟧ —
 
-[21] that a man might plead for a man before Eloah,
+[21] that a man might plead for a man before ⟦eloah|Eloah|God⟧,
 as a son of man for his neighbor.
 
 [22] For when a few years have come,
@@ -73,6 +73,7 @@ I shall go on the way whence I shall not return."
 
 ## Changes
 
+- **"God" → "El"** (v11) — Hebrew אֵל *El*, not *Elohim*.
 - **"shadow of death" → "deep shadow"** (v16) — *tzalmaweth*.
 - **"reins" → "kidneys"** (v13) — *kilyot*.
 - **"giant" → "warrior"** (v14) — *gibbor*.

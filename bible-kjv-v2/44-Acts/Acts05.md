@@ -1,38 +1,38 @@
 # Acts 5
 
-[1] But a man named Ananias, with his wife Sapphira, sold a piece of property,
+[1] But a man named ⟦ananias|Chananyah|Ananias⟧, with his wife ⟦sapphira|Shappira|Sapphira⟧, sold a piece of property,
 
 [2] and with his wife's knowledge he kept back for himself some of the proceeds and brought only a part of it and laid it at the apostles' feet.
 
-[3] But *Kefa* said, "Ananias, why has Satan filled your heart to lie to the *Ruach HaQodesh* and to keep back for yourself part of the proceeds of the land?
+[3] But ⟦peter|Kefa|Peter⟧ said, "⟦ananias|Chananyah|Ananias⟧, why has Satan filled your heart to lie to the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧ and to keep back for yourself part of the proceeds of the land?
 
-[4] While it remained unsold, did it not remain your own? And after it was sold, was it not at your disposal? Why is it that you have contrived this deed in your heart? You have not lied to man but to *Elohim*."
+[4] While it remained unsold, did it not remain your own? And after it was sold, was it not at your disposal? Why is it that you have contrived this deed in your heart? You have not lied to man but to ⟦elohim|Elohim|God⟧."
 
-[5] When Ananias heard these words, he fell down and breathed his last. And great fear came upon all who heard of it.
+[5] When ⟦ananias|Chananyah|Ananias⟧ heard these words, he fell down and breathed his last. And great fear came upon all who heard of it.
 
 [6] The young men rose and wrapped him up and carried him out and buried him.
 
 [7] After an interval of about three hours his wife came in, not knowing what had happened.
 
-[8] And *Kefa* said to her, "Tell me whether you sold the land for so much." And she said, "Yes, for so much."
+[8] And ⟦peter|Kefa|Peter⟧ said to her, "Tell me whether you sold the land for so much." And she said, "Yes, for so much."
 
-[9] But *Kefa* said to her, "How is it that you have agreed together to test the Spirit of the Lord? Behold, the feet of those who have buried your husband are at the door, and they will carry you out."
+[9] But ⟦peter|Kefa|Peter⟧ said to her, "How is it that you have agreed together to test the Spirit of the Lord? Behold, the feet of those who have buried your husband are at the door, and they will carry you out."
 
 [10] Immediately she fell down at his feet and breathed her last. When the young men came in they found her dead, and they carried her out and buried her beside her husband.
 
 [11] And great fear came upon the whole church and upon all who heard of these things.
 
-[12] Now many signs and wonders were regularly done among the people by the hands of the apostles. And they were all together in Solomon's Portico.
+[12] Now many signs and wonders were regularly done among the people by the hands of the apostles. And they were all together in ⟦solomon|Shlomo's|Solomon's⟧ Portico.
 
 [13] None of the rest dared join them, but the people held them in high esteem.
 
 [14] And more than ever believers were added to the Lord, multitudes of both men and women,
 
-[15] so that they even carried out the sick into the streets and laid them on cots and mats, that as *Kefa* came by at least his shadow might fall on some of them.
+[15] so that they even carried out the sick into the streets and laid them on cots and mats, that as ⟦peter|Kefa|Peter⟧ came by at least his shadow might fall on some of them.
 
-[16] The people also gathered from the towns around Jerusalem, bringing the sick and those afflicted with unclean spirits, and they were all healed.
+[16] The people also gathered from the towns around ⟦jerusalem|Yerushalayim|Jerusalem⟧, bringing the sick and those afflicted with unclean spirits, and they were all healed.
 
-[17] But the high priest rose up, and all who were with him (that is, the sect of the Sadducees), and filled with jealousy
+[17] But the high priest rose up, and all who were with him (that is, the sect of the ⟦sadducees|Tzedukim|Sadducees⟧), and filled with jealousy
 
 [18] they arrested the apostles and put them in the public prison.
 
@@ -42,7 +42,7 @@
 
 [21] And when they heard this, they entered the temple at daybreak and began to teach.
 
-Now when the high priest came, and those who were with him, they called together the council, all the senate of the people of Israel, and sent to the prison to have them brought.
+Now when the high priest came, and those who were with him, they called together the ⟦sanhedrin|Sanhedrin|council⟧, all the senate of the people of ⟦israel|Yisrael|Israel⟧, and sent to the prison to have them brought.
 
 [22] But when the officers came, they did not find them in the prison, so they returned and reported,
 
@@ -54,37 +54,37 @@ Now when the high priest came, and those who were with him, they called together
 
 [26] Then the captain with the officers went and brought them, but not by force, for they were afraid of being stoned by the people.
 
-[27] And when they had brought them, they set them before the council. And the high priest questioned them,
+[27] And when they had brought them, they set them before the ⟦sanhedrin|Sanhedrin|council⟧. And the high priest questioned them,
 
-[28] saying, "We strictly charged you not to teach in this name, yet here you have filled Jerusalem with your teaching, and you intend to bring this man's blood upon us."
+[28] saying, "We strictly charged you not to teach in this name, yet here you have filled ⟦jerusalem|Yerushalayim|Jerusalem⟧ with your teaching, and you intend to bring this man's blood upon us."
 
-[29] But *Kefa* and the apostles answered, "**We must obey *Elohim* rather than men.**
+[29] But ⟦peter|Kefa|Peter⟧ and the apostles answered, "**We must obey ⟦elohim|Elohim|God⟧ rather than men.**
 
-[30] The *Elohim* of our fathers raised *Yeshua*, whom you killed by hanging him on a tree.
+[30] The ⟦elohim|Elohim|God⟧ of our fathers raised ⟦yeshua|Yeshua|Jesus⟧, whom you killed by hanging him on a tree.
 
-[31] *Elohim* exalted him at his right hand as Leader and Savior, to give repentance to Israel and forgiveness of sins.
+[31] ⟦elohim|Elohim|God⟧ exalted him at his right hand as Leader and Savior, to give repentance to ⟦israel|Yisrael|Israel⟧ and forgiveness of sins.
 
-[32] And we are witnesses to these things, and so is the *Ruach HaQodesh*, whom *Elohim* has given to those who obey him."
+[32] And we are witnesses to these things, and so is the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧, whom ⟦elohim|Elohim|God⟧ has given to those who obey him."
 
 [33] When they heard this, they were enraged and wanted to kill them.
 
-[34] But a Pharisee in the council named Gamaliel, a teacher of the law held in honor by all the people, stood up and gave orders to put the men outside for a little while.
+[34] But a ⟦pharisee|Parush|Pharisee⟧ in the ⟦sanhedrin|Sanhedrin|council⟧ named ⟦gamaliel-pharisee|Gamliel|Gamaliel⟧, a teacher of the ⟦torah|Torah|law⟧ held in honor by all the people, stood up and gave orders to put the men outside for a little while.
 
-[35] And he said to them, "Men of Israel, take care what you are about to do with these men.
+[35] And he said to them, "Men of ⟦israel|Yisrael|Israel⟧, take care what you are about to do with these men.
 
 [36] For before these days Theudas rose up, claiming to be somebody, and a number of men, about four hundred, joined him. He was killed, and all who followed him were dispersed and came to nothing.
 
-[37] After him Judas the Galilean rose up in the days of the census and drew away some of the people after him. He too perished, and all who followed him were scattered.
+[37] After him ⟦jude|Yehudah|Judas⟧ the Galilean rose up in the days of the census and drew away some of the people after him. He too perished, and all who followed him were scattered.
 
 [38] So in the present case I tell you, keep away from these men and let them alone, for if this plan or this undertaking is of man, it will fail;
 
-[39] but **if it is of *Elohim*, you will not be able to overthrow them. You might even be found opposing *Elohim*!**" So they took his advice,
+[39] but **if it is of ⟦elohim|Elohim|God⟧, you will not be able to overthrow them. You might even be found opposing ⟦elohim|Elohim|God⟧!**" So they took his advice,
 
-[40] and when they had called in the apostles, they beat them and charged them not to speak in the name of *Yeshua*, and let them go.
+[40] and when they had called in the apostles, they beat them and charged them not to speak in the name of ⟦yeshua|Yeshua|Jesus⟧, and let them go.
 
-[41] Then they left the presence of the council, rejoicing that they were counted worthy to suffer dishonor for the name.
+[41] Then they left the presence of the ⟦sanhedrin|Sanhedrin|council⟧, rejoicing that they were counted worthy to suffer dishonor for the name.
 
-[42] And every day, in the temple and from house to house, they did not cease teaching and preaching that the *Mashiach* is *Yeshua*.
+[42] And every day, in the temple and from house to house, they did not cease teaching and preaching that the ⟦mashiach|Mashiach|Christ⟧ is ⟦yeshua|Yeshua|Jesus⟧.
 
 ## Changes
 

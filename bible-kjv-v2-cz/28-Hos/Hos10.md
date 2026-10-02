@@ -1,6 +1,6 @@
 # Ozeáš 10
 
-[1] Israel je bujná vinná réva,
+[1] ⟦israel|Jisrael|Izrael⟧ je bujná vinná réva,
 která nese své ovoce.
 Čím více se rozmnožovalo jeho ovoce,
 tím více stavěl oltářů;
@@ -9,12 +9,12 @@ tím krásnější dělal své posvátné sloupy.
 
 [2] Jejich srdce je falešné;
 nyní musejí nést svou vinu.
-Yahweh zboří jejich oltáře
+⟦yhwh|Jahve|Hospodin⟧ zboří jejich oltáře
 a zničí jejich posvátné sloupy.
 
 [3] Neboť nyní budou říkat:
 „Nemáme krále,
-protože se nebojíme Yahweh;
+protože se nebojíme ⟦yhwh|Jahveho|Hospodina⟧;
 a král – co by pro nás mohl udělat?“
 
 [4] Mluví pouhá slova;
@@ -22,44 +22,44 @@ s prázdnými přísahami uzavírají smlouvy;
 proto právo vyrůstá jako jedovatý plevel
 v brázdách pole.
 
-[5] Obyvatelé Samarie se třesou
-o tele z Beth-Aven.
+[5] Obyvatelé ⟦samaria|Šomronu|Samaří⟧ se třesou
+o tele z ⟦beth-aven|Bejt Avenu|Bét-avenu⟧.
 Jeho lid nad ním truchlí a stejně tak jeho modlářští kněží –
 ti, kdo nad ním a nad jeho slávou jásali –
 neboť od nich odešlo.
 
-[6] I ono samo bude odneseno do Assyrie
+[6] I ono samo bude odneseno do ⟦assyria|Aššuru|Asýrie⟧
 jako poplatek velikému králi.
-Ephraim bude zahanben
-a Israel se bude stydět za svou radu.
+Efrajim bude zahanben
+a ⟦israel|Jisrael|Izrael⟧ se bude stydět za svou radu.
 
-[7] Král Samarie zahyne
+[7] Král ⟦samaria|Šomronu|Samaří⟧ zahyne
 jako větévka na hladině vod.
 
-[8] Výšiny Aven, hřích Israele, budou zničeny.
+[8] Výšiny ⟦aven|Aven|Ávenu⟧, hřích ⟦israel|Jisraele|Izraele⟧, budou zničeny.
 Trní a bodláčí poroste na jejich oltářích
 a budou říkat horám: „Přikryjte nás,“
 a pahorkům: „Padněte na nás.“
 
-[9] Ode dnů Gibeah jsi hřešil, Israeli;
+[9] Ode dnů ⟦gibeah|Givy|Gibeje⟧ jsi hřešil, ⟦israel|Jisraeli|Izraeli⟧;
 tam setrvali.
-Což je v Gibeah nedostihne válka proti bezprávným?
+Což je v ⟦gibeah|Givě|Gibeji⟧ nedostihne válka proti bezprávným?
 
 [10] Až se mi zlíbí, potrestám je
 a národy se proti nim shromáždí,
 až budou spoutáni pro svou dvojí nepravost.
 
-[11] Ephraim byl vycvičená jalovice,
+[11] Efrajim byl vycvičená jalovice,
 která ráda mlátila,
 a já jsem šetřil její krásnou šíji;
-ale teď zapřáhnu Ephraima do jha;
-Judah musí orat;
-Jacob musí vláčet pro sebe.
+ale teď zapřáhnu Efrajima do jha;
+⟦judah|Jehuda|Juda⟧ musí orat;
+⟦jacob|Jaakov|Jákob⟧ musí vláčet pro sebe.
 
 [12] Sejte si spravedlnost;
-žněte věrnou lásku;
+žněte ⟦steadfast-love|chesed|milosrdenství⟧;
 rozorejte svůj úhor,
-neboť je čas hledat Yahweh,
+neboť je čas hledat ⟦yhwh|Jahveho|Hospodina⟧,
 aby přišel a deštěm na vás seslal spravedlnost.
 
 [13] Orali jste nepravost,
@@ -70,12 +70,12 @@ a na množství svých bojovníků,
 
 [14] proto v tvém lidu povstane válečná vřava
 a všechny tvé pevnosti budou zničeny,
-jako Shalman zničil Beth-Arbel v den bitvy;
+jako Šalman zničil ⟦beth-arbel|Bejt Arbel|Bét-arbel⟧ v den bitvy;
 matky byly roztříštěny i s dětmi.
 
-[15] Tak se stane tobě, Betheli,
+[15] Tak se stane tobě, ⟦bethel|Bejt Ele|Bét-ele⟧,
 pro tvé veliké zlo.
-Za úsvitu bude král Israele
+Za úsvitu bude král ⟦israel|Jisraele|Izraele⟧
 docela vyťat.
 
 ## Změny

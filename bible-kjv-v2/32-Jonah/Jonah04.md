@@ -1,31 +1,31 @@
 # Jonah 4
 
-[1] But it displeased Jonah exceedingly, and he was angry.
+[1] But it displeased ⟦jonah|Yonah|Jonah⟧ exceedingly, and he was angry.
 
-[2] And he prayed to Yahweh and said, "O Yahweh, is not this what I said when I was yet in my country? That is why I made haste to flee to Tarshish; for I knew that you are a gracious *Elohim* and merciful, slow to anger and abounding in steadfast love, and relenting from disaster.
+[2] And he prayed to ⟦yhwh|Yahweh|the LORD⟧ and said, "O ⟦yhwh|Yahweh|LORD⟧, is not this what I said when I was yet in my country? That is why I made haste to flee to Tarshish; for I knew that you are a gracious ⟦el|El|God⟧ and merciful, slow to anger and abounding in ⟦steadfast-love|chesed|steadfast love⟧, and relenting from disaster.
 
-[3] Therefore now, O Yahweh, please take my life from me, for it is better for me to die than to live."
+[3] Therefore now, O ⟦yhwh|Yahweh|LORD⟧, please take my life from me, for it is better for me to die than to live."
 
-[4] And Yahweh said, "Do you do well to be angry?"
+[4] And ⟦yhwh|Yahweh|the LORD⟧ said, "Do you do well to be angry?"
 
-[5] Jonah went out of the city and sat to the east of the city and made a booth for himself there. He sat under it in the shade, till he should see what would become of the city.
+[5] ⟦jonah|Yonah|Jonah⟧ went out of the city and sat to the east of the city and made a booth for himself there. He sat under it in the shade, till he should see what would become of the city.
 
-[6] Now Yahweh *Elohim* appointed a plant and made it come up over Jonah, that it might be a shade over his head, to save him from his discomfort. So Jonah was exceedingly glad because of the plant.
+[6] Now ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ appointed a plant and made it come up over ⟦jonah|Yonah|Jonah⟧, that it might be a shade over his head, to save him from his discomfort. So ⟦jonah|Yonah|Jonah⟧ was exceedingly glad because of the plant.
 
-[7] But when dawn came up the next day, *Elohim* appointed a worm that attacked the plant, so that it withered.
+[7] But when dawn came up the next day, ⟦elohim|Elohim|God⟧ appointed a worm that attacked the plant, so that it withered.
 
-[8] When the sun rose, *Elohim* appointed a scorching east wind, and the sun beat down on the head of Jonah so that he was faint. And he asked that he might die and said, "It is better for me to die than to live."
+[8] When the sun rose, ⟦elohim|Elohim|God⟧ appointed a scorching east wind, and the sun beat down on the head of ⟦jonah|Yonah|Jonah⟧ so that he was faint. And he asked that he might die and said, "It is better for me to die than to live."
 
-[9] But *Elohim* said to Jonah, "Do you do well to be angry for the plant?" And he said, "Yes, I do well to be angry, angry enough to die."
+[9] But ⟦elohim|Elohim|God⟧ said to ⟦jonah|Yonah|Jonah⟧, "Do you do well to be angry for the plant?" And he said, "Yes, I do well to be angry, angry enough to die."
 
-[10] And Yahweh said, "You pity the plant, for which you did not labor, nor did you make it grow, which came into being in a night and perished in a night.
+[10] And ⟦yhwh|Yahweh|the LORD⟧ said, "You pity the plant, for which you did not labor, nor did you make it grow, which came into being in a night and perished in a night.
 
-[11] And should not I pity Nineveh, that great city, in which there are more than 120,000 persons who do not know their right hand from their left, and also much cattle?"
+[11] And should not I pity ⟦nineveh|Ninveh|Nineveh⟧, that great city, in which there are more than 120,000 persons who do not know their right hand from their left, and also much cattle?"
 
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"God" → "*Elohim*"** (vv7, 8, 9) — Hebrew אֱלֹהִים; narrator uses *Elohim* for the "appointments" of the worm and the wind (the plant in v6 is appointed by Yahweh *Elohim*); Jonah uses Yahweh in his prayer.
+- **"God" → "*Elohim*" / "El"** (vv7, 8, 9; v2) — Hebrew אֱלֹהִים, and אֵל *El* in v2 ("a gracious El"); narrator uses *Elohim* for the "appointments" of the worm and the wind (the plant in v6 is appointed by Yahweh *Elohim*); Jonah uses Yahweh in his prayer.
 - **"LORD God" → "Yahweh *Elohim*"** (v6) — Hebrew יְהוָה אֱלֹהִים; the combined divine name; *Elohim* retained.
 - **"it displeased Jonah exceedingly, and he was very angry" → "it displeased Jonah exceedingly, and he was angry"** (v1) — Hebrew וַיֵּרַע אֶל יוֹנָה רָעָה גְדוֹלָה וַיִּחַר לוֹ; "exceedingly" already conveys the intensity; "very angry" redundant in the revised text.
 - **"take, I beseech thee, my life from me" → "please take my life from me"** (v3) — modernized; "please" for *na'*.

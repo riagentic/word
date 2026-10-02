@@ -1,6 +1,6 @@
 # Jan 14
 
-[1] „Ať se vaše srdce nechvějí. Věřte v *Elohim*; věřte i ve mne.
+[1] „Ať se vaše srdce nechvějí. Věřte v ⟦elohim|Elohim|Boha⟧; věřte i ve mne.
 
 [2] V domě mého Otce je mnoho příbytků. Kdyby tomu tak nebylo, řekl bych vám, že vám jdu připravit místo?
 
@@ -8,15 +8,15 @@
 
 [4] A cestu tam, kam jdu, znáte.“
 
-[5] Thomas mu řekl: „Pane, nevíme, kam jdeš. Jak můžeme znát cestu?“
+[5] ⟦thomas|Toma|Tomáš⟧ mu řekl: „Pane, nevíme, kam jdeš. Jak můžeme znát cestu?“
 
-[6] *Yeshua* mu řekl: „**Já jsem ta cesta, pravda i život. Nikdo nepřichází k Otci než skrze mne.**
+[6] ⟦yeshua|Ješua|Ježíš⟧ mu řekl: „**Já jsem ta cesta, pravda i život. Nikdo nepřichází k Otci než skrze mne.**
 
 [7] Kdybyste znali mne, znali byste i mého Otce. Od této chvíle ho znáte a viděli jste ho.“
 
-[8] Philip mu řekl: „Pane, ukaž nám Otce, a to nám stačí.“
+[8] ⟦philip|Filippos|Filip⟧ mu řekl: „Pane, ukaž nám Otce, a to nám stačí.“
 
-[9] *Yeshua* mu řekl: „Tak dlouho jsem s vámi, a ty mě stále neznáš, Philipe? **Kdo viděl mne, viděl Otce.** Jak můžeš říkat: ‚Ukaž nám Otce‘?
+[9] ⟦yeshua|Ješua|Ježíš⟧ mu řekl: „Tak dlouho jsem s vámi, a ty mě stále neznáš, ⟦philip|Filippe|Filipe⟧? **Kdo viděl mne, viděl Otce.** Jak můžeš říkat: ‚Ukaž nám Otce‘?
 
 [10] Nevěříš, že já jsem v Otci a Otec je ve mně? Slova, která vám říkám, nemluvím sám od sebe; Otec, který ve mně přebývá, koná své skutky.
 
@@ -42,15 +42,15 @@
 
 [21] Kdo má má přikázání a zachovává je, ten mě miluje. A kdo miluje mne, toho bude milovat můj Otec, i já ho budu milovat a zjevím se mu.“
 
-[22] Judas (ne Iscariot) mu řekl: „Pane, jak to, že se chceš zjevit nám, a ne světu?“
+[22] ⟦jude|Jehuda|Juda⟧ (ne ⟦iscariot|Iškariot|Iškariotský⟧) mu řekl: „Pane, jak to, že se chceš zjevit nám, a ne světu?“
 
-[23] *Yeshua* mu odpověděl: „Miluje-li mě kdo, bude zachovávat mé slovo, a můj Otec ho bude milovat, a přijdeme k němu a učiníme si u něho příbytek.
+[23] ⟦yeshua|Ješua|Ježíš⟧ mu odpověděl: „Miluje-li mě kdo, bude zachovávat mé slovo, a můj Otec ho bude milovat, a přijdeme k němu a učiníme si u něho příbytek.
 
 [24] Kdo mě nemiluje, nezachovává má slova. A slovo, které slyšíte, není moje, ale Otce, který mě poslal.
 
 [25] To jsem k vám mluvil, dokud ještě zůstávám s vámi.
 
-[26] Ale Pomocník, *Ruach HaQodesh*, kterého Otec pošle v mém jménu, on vás naučí všemu a připomene vám všechno, co jsem vám řekl.
+[26] Ale Pomocník, ⟦ruach-haqodesh|Ruach HaKodeš|Duch svatý⟧, kterého Otec pošle v mém jménu, on vás naučí všemu a připomene vám všechno, co jsem vám řekl.
 
 [27] **Pokoj vám zanechávám; svůj pokoj vám dávám. Nedávám vám, jako dává svět.** Ať se vaše srdce nechvějí a nestrachují.
 

@@ -1,7 +1,7 @@
 # Isaiah 63
 
 [1] Who is this who comes from Edom,
-in crimsoned garments from Bozrah,
+in crimsoned garments from ⟦bozrah|Botzrah|Bozrah⟧,
 he who is splendid in his apparel,
 marching in the greatness of his strength?
 "It is I, speaking in righteousness,
@@ -29,19 +29,19 @@ and my wrath upheld me.
 I made them drunk in my wrath,
 and I poured out their lifeblood on the earth."
 
-[7] I will recount the mercies of Yahweh — the steadfast love deeds of Yahweh,
-the praises of Yahweh,
-according to all that Yahweh has granted us,
-and the great goodness to the house of Israel
+[7] I will recount the mercies of ⟦yhwh|Yahweh|the LORD⟧ — the steadfast love deeds of ⟦yhwh|Yahweh|the LORD⟧,
+the praises of ⟦yhwh|Yahweh|the LORD⟧,
+according to all that ⟦yhwh|Yahweh|the LORD⟧ has granted us,
+and the great goodness to the house of ⟦israel|Yisrael|Israel⟧
 that he has granted them according to his compassion,
-according to the abundance of his chasadim.
+according to the abundance of his ⟦steadfast-love|chasadim|steadfast love⟧.
 
 [8] For he said, "Surely they are my people,
 children who will not deal falsely."
 And he became their Savior.
 
 [9] In all their affliction he was afflicted,
-and the mal'akh panav — messenger of his presence — saved them;
+and the ⟦malakh|mal'akh panav — messenger of his presence —|angel of his presence⟧ saved them;
 in his love and in his pity he redeemed them;
 he lifted them up and carried them all the days of old.
 
@@ -51,14 +51,14 @@ therefore he turned to be their enemy,
 and himself fought against them.
 
 [11] Then he remembered the days of old,
-of Moses and his people.
+of ⟦moses|Moshe|Moses⟧ and his people.
 Where is he who brought them up out of the sea
 with the shepherds of his flock?
 Where is he who put in the midst of them
 his Holy Spirit,
 
 [12] who caused his glorious arm
-to go at the right hand of Moses,
+to go at the right hand of ⟦moses|Moshe|Moses⟧,
 who divided the waters before them
 to make for himself an everlasting name,
 
@@ -66,7 +66,7 @@ to make for himself an everlasting name,
 Like a horse in the desert, they did not stumble.
 
 [14] Like livestock that go down into the valley,
-the Spirit of Yahweh gave them rest.
+the Spirit of ⟦yhwh|Yahweh|the LORD⟧ gave them rest.
 So you led your people,
 to make for yourself a glorious name.
 
@@ -77,12 +77,12 @@ The stirring of your inner parts and your compassion
 are held back from me.
 
 [16] For you are our Father,
-though Abraham does not know us,
-and Israel does not acknowledge us;
-you, O Yahweh, are our Father,
+though ⟦abraham|Avraham|Abraham⟧ does not know us,
+and ⟦israel|Yisrael|Israel⟧ does not acknowledge us;
+you, O ⟦yhwh|Yahweh|LORD⟧, are our Father,
 our Redeemer from of old is your name.
 
-[17] O Yahweh, why do you make us wander from your ways
+[17] O ⟦yhwh|Yahweh|LORD⟧, why do you make us wander from your ways
 and harden our heart, so that we fear you not?
 Return for the sake of your servants,
 the tribes of your heritage.

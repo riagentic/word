@@ -1,50 +1,50 @@
 # Genesis 25
 
-[1] Abraham took another wife, whose name was Keturah.
+[1] ⟦abraham|Avraham|Abraham⟧ took another wife, whose name was ⟦keturah|Qeturah|Keturah⟧.
 
-[2] She bore him Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.
+[2] She bore him Zimran, ⟦jokshan|Yoqshan|Jokshan⟧, Medan, ⟦midian|Midyan|Midian⟧, ⟦ishbak|Yishbaq|Ishbak⟧, and ⟦shuah|Shuach|Shuah⟧.
 
-[3] Jokshan fathered Sheba and Dedan. The sons of Dedan were the Asshurim, the Letushim, and the Leummim.
+[3] ⟦jokshan|Yoqshan|Jokshan⟧ fathered ⟦sheba|Sheva|Sheba⟧ and Dedan. The sons of Dedan were the ⟦asshurim|Ashurim|Asshurim⟧, the Letushim, and the Leummim.
 
-[4] The sons of Midian: Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the children of Keturah.
+[4] The sons of ⟦midian|Midyan|Midian⟧: ⟦ephah|Efah|Ephah⟧, ⟦epher|Efer|Epher⟧, ⟦hanoch|Chanoch|Hanoch⟧, ⟦abida|Avida|Abida⟧, and Eldaah. All these were the children of ⟦keturah|Qeturah|Keturah⟧.
 
-[5] Abraham gave all that he had to Isaac.
+[5] ⟦abraham|Avraham|Abraham⟧ gave all that he had to ⟦isaac|Yitzchaq|Isaac⟧.
 
-[6] But to the sons of his concubines Abraham gave gifts, and while he was still alive he sent them away from his son Isaac, eastward to the east country.
+[6] But to the sons of his concubines ⟦abraham|Avraham|Abraham⟧ gave gifts, and while he was still alive he sent them away from his son ⟦isaac|Yitzchaq|Isaac⟧, eastward to the east country.
 
-[7] These are the days of the years of Abraham's life which he lived: 175 years.
+[7] These are the days of the years of ⟦abraham|Avraham's|Abraham's⟧ life which he lived: 175 years.
 
-[8] Abraham breathed his last and died in a good old age, an old man, full of years; and he was gathered to his people.
+[8] ⟦abraham|Avraham|Abraham⟧ breathed his last and died in a good old age, an old man, full of years; and he was gathered to his people.
 
-[9] His sons Isaac and Ishmael buried him in the cave of Machpelah, in the field of Ephron son of Zohar the Hittite, which is east of Mamre,
+[9] His sons ⟦isaac|Yitzchaq|Isaac⟧ and ⟦ishmael|Yishmael|Ishmael⟧ buried him in the cave of Machpelah, in the field of ⟦ephron|Efron|Ephron⟧ son of ⟦zohar|Tzochar|Zohar⟧ the ⟦hittite|Chitti|Hittite⟧, which is east of Mamre,
 
-[10] the field that Abraham purchased from the sons of Heth. There Abraham was buried, with Sarah his wife.
+[10] the field that ⟦abraham|Avraham|Abraham⟧ purchased from the sons of ⟦heth|Chet|Heth⟧. There ⟦abraham|Avraham|Abraham⟧ was buried, with Sarah his wife.
 
-[11] After the death of Abraham, *Elohim* blessed Isaac his son; and Isaac settled by Beer-lahai-roi.
+[11] After the death of ⟦abraham|Avraham|Abraham⟧, ⟦elohim|Elohim|God⟧ blessed ⟦isaac|Yitzchaq|Isaac⟧ his son; and ⟦isaac|Yitzchaq|Isaac⟧ settled by ⟦beer-lahai-roi|Beer Lachai Roi|Beer-lahai-roi⟧.
 
-[12] These are the generations of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's slave-girl, bore to Abraham.
+[12] These are the generations of ⟦ishmael|Yishmael|Ishmael⟧, ⟦abraham|Avraham's|Abraham's⟧ son, whom Hagar the ⟦egyptian|Mitzri|Egyptian⟧, Sarah's slave-girl, bore to ⟦abraham|Avraham|Abraham⟧.
 
-[13] These are the names of the sons of Ishmael, by their names according to their generations: the firstborn of Ishmael, Nebaioth; and Kedar, Adbeel, Mibsam,
+[13] These are the names of the sons of ⟦ishmael|Yishmael|Ishmael⟧, by their names according to their generations: the firstborn of ⟦ishmael|Yishmael|Ishmael⟧, ⟦nebaioth|Nevayot|Nebaioth⟧; and ⟦kedar|Qedar|Kedar⟧, Adbeel, ⟦mibsam|Mivsam|Mibsam⟧,
 
 [14] Mishma, Dumah, Massa,
 
-[15] Hadad, Tema, Jetur, Naphish, and Kedemah.
+[15] ⟦chadad|Chadad|Hadad⟧, Tema, ⟦jetur|Yetur|Jetur⟧, ⟦naphish|Nafish|Naphish⟧, and ⟦kedemah|Qedmah|Kedemah⟧.
 
-[16] These are the sons of Ishmael and these are their names, by their villages and by their encampments; twelve chieftains according to their peoples.
+[16] These are the sons of ⟦ishmael|Yishmael|Ishmael⟧ and these are their names, by their villages and by their encampments; twelve chieftains according to their peoples.
 
-[17] These are the years of the life of Ishmael: 137 years. He breathed his last and died, and was gathered to his people.
+[17] These are the years of the life of ⟦ishmael|Yishmael|Ishmael⟧: 137 years. He breathed his last and died, and was gathered to his people.
 
-[18] They settled from Havilah to Shur, which is opposite Egypt, in the direction of Asshur. He settled in the face of all his brothers.
+[18] They settled from ⟦havilah|Chavilah|Havilah⟧ to Shur, which is opposite ⟦egypt|Mitzrayim|Egypt⟧, in the direction of ⟦assyria|Ashur|Assyria⟧. He settled in the face of all his brothers.
 
-[19] These are the generations of Isaac, Abraham's son: Abraham fathered Isaac.
+[19] These are the generations of ⟦isaac|Yitzchaq|Isaac⟧, ⟦abraham|Avraham's|Abraham's⟧ son: ⟦abraham|Avraham|Abraham⟧ fathered ⟦isaac|Yitzchaq|Isaac⟧.
 
-[20] Isaac was 40 years old when he took Rebekah, the daughter of Bethuel the Aramean of Paddan-Aram, sister of Laban the Aramean, to be his wife.
+[20] ⟦isaac|Yitzchaq|Isaac⟧ was 40 years old when he took ⟦rebekah|Rivqah|Rebekah⟧, the daughter of ⟦bethuel|Betuel|Bethuel⟧ the ⟦aramean|Arammi|Aramean⟧ of ⟦paddan-aram|Paddan Aram|Paddan-Aram⟧, sister of ⟦laban|Lavan|Laban⟧ the ⟦aramean|Arammi|Aramean⟧, to be his wife.
 
-[21] Isaac entreated Yahweh for his wife, because she was barren; and Yahweh granted his entreaty, and Rebekah his wife conceived.
+[21] ⟦isaac|Yitzchaq|Isaac⟧ entreated ⟦yhwh|Yahweh|the LORD⟧ for his wife, because she was barren; and ⟦yhwh|Yahweh|the LORD⟧ granted his entreaty, and ⟦rebekah|Rivqah|Rebekah⟧ his wife conceived.
 
-[22] The children struggled together within her, and she said, "If it is so, why this to me?" And she went to inquire of Yahweh.
+[22] The children struggled together within her, and she said, "If it is so, why this to me?" And she went to inquire of ⟦yhwh|Yahweh|the LORD⟧.
 
-[23] Yahweh said to her,
+[23] ⟦yhwh|Yahweh|The LORD⟧ said to her,
 
 "Two nations are in your womb,
 and two peoples from within you shall be separated.
@@ -53,25 +53,25 @@ and the elder shall serve the younger."
 
 [24] When her days to give birth were fulfilled, behold, there were twins in her womb.
 
-[25] The first came out red, all over like a hairy mantle, so they called his name Esau.
+[25] The first came out red, all over like a hairy mantle, so they called his name ⟦esau|Esav|Esau⟧.
 
-[26] Afterward his brother came out, with his hand grasping Esau's heel; so his name was called Jacob. Isaac was 60 years old when she bore them.
+[26] Afterward his brother came out, with his hand grasping ⟦esau|Esav's|Esau's⟧ heel; so his name was called ⟦jacob|Yaaqov|Jacob⟧. ⟦isaac|Yitzchaq|Isaac⟧ was 60 years old when she bore them.
 
-[27] When the boys grew up, Esau was a skillful hunter, a man of the field; Jacob was a quiet man, living in tents.
+[27] When the boys grew up, ⟦esau|Esav|Esau⟧ was a skillful hunter, a man of the field; ⟦jacob|Yaaqov|Jacob⟧ was a quiet man, living in tents.
 
-[28] Isaac loved Esau, because game was in his mouth; but Rebekah loved Jacob.
+[28] ⟦isaac|Yitzchaq|Isaac⟧ loved ⟦esau|Esav|Esau⟧, because game was in his mouth; but ⟦rebekah|Rivqah|Rebekah⟧ loved ⟦jacob|Yaaqov|Jacob⟧.
 
-[29] Once Jacob was boiling a stew, when Esau came in from the field, exhausted.
+[29] Once ⟦jacob|Yaaqov|Jacob⟧ was boiling a stew, when ⟦esau|Esav|Esau⟧ came in from the field, exhausted.
 
-[30] Esau said to Jacob, "Let me gulp down some of that red stuff — for I am exhausted." (Therefore his name was called Edom.)
+[30] ⟦esau|Esav|Esau⟧ said to ⟦jacob|Yaaqov|Jacob⟧, "Let me gulp down some of that red stuff — for I am exhausted." (Therefore his name was called Edom.)
 
-[31] Jacob said, "Sell me your birthright, today."
+[31] ⟦jacob|Yaaqov|Jacob⟧ said, "Sell me your birthright, today."
 
-[32] Esau said, "Look, I am about to die; what use is a birthright to me?"
+[32] ⟦esau|Esav|Esau⟧ said, "Look, I am about to die; what use is a birthright to me?"
 
-[33] Jacob said, "Swear to me, today." So he swore to him and sold his birthright to Jacob.
+[33] ⟦jacob|Yaaqov|Jacob⟧ said, "Swear to me, today." So he swore to him and sold his birthright to ⟦jacob|Yaaqov|Jacob⟧.
 
-[34] Then Jacob gave Esau bread and stew of lentils; and he ate and drank, and rose and went his way. So Esau despised his birthright.
+[34] Then ⟦jacob|Yaaqov|Jacob⟧ gave ⟦esau|Esav|Esau⟧ bread and stew of lentils; and he ate and drank, and rose and went his way. So ⟦esau|Esav|Esau⟧ despised his birthright.
 
 ## Changes
 

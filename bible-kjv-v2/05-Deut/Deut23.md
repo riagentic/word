@@ -1,20 +1,20 @@
 # Deuteronomy 23
 
-[1] "No one with crushed testicles or whose male organ is cut off shall enter the assembly of Yahweh.
+[1] "No one with crushed testicles or whose male organ is cut off shall enter the assembly of ⟦yhwh|Yahweh|the LORD⟧.
 
-[2] No one born of a forbidden union shall enter the assembly of Yahweh; even to the tenth generation none of his descendants shall enter the assembly of Yahweh.
+[2] No one born of a forbidden union shall enter the assembly of ⟦yhwh|Yahweh|the LORD⟧; even to the tenth generation none of his descendants shall enter the assembly of ⟦yhwh|Yahweh|the LORD⟧.
 
-[3] No Ammonite or Moabite shall enter the assembly of Yahweh; even to the tenth generation none of theirs shall enter the assembly of Yahweh forever,
+[3] No ⟦ammonites|Ammoni|Ammonite⟧ or ⟦moabites|Moavi|Moabite⟧ shall enter the assembly of ⟦yhwh|Yahweh|the LORD⟧; even to the tenth generation none of theirs shall enter the assembly of ⟦yhwh|Yahweh|the LORD⟧ forever,
 
-[4] because they did not meet you with bread and water on the way when you came out of Egypt, and because they hired against you Balaam son of Beor of Pethor in Aram-naharaim to curse you.
+[4] because they did not meet you with bread and water on the way when you came out of ⟦egypt|Mitzrayim|Egypt⟧, and because they hired against you ⟦balaam|Bilam|Balaam⟧ son of Beor of ⟦pethor|Petor|Pethor⟧ in ⟦aram-naharaim|Aram Naharayim|Mesopotamia⟧ to curse you.
 
-[5] But Yahweh your *Elohim* was not willing to listen to Balaam; Yahweh your *Elohim* turned the curse into a blessing for you, because Yahweh your *Elohim* loved you.
+[5] But ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ was not willing to listen to ⟦balaam|Bilam|Balaam⟧; ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ turned the curse into a blessing for you, because ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ loved you.
 
 [6] You shall not seek their peace or their prosperity all your days forever.
 
-[7] You shall not abhor an Edomite, for he is your brother; you shall not abhor an Egyptian, because you were a sojourner in his land.
+[7] You shall not abhor an ⟦edomites|Edomi|Edomite⟧, for he is your brother; you shall not abhor ⟦egyptian|a Mitzri|an Egyptian⟧, because you were a sojourner in his land.
 
-[8] The children born to them in the third generation may enter the assembly of Yahweh.
+[8] The children born to them in the third generation may enter the assembly of ⟦yhwh|Yahweh|the LORD⟧.
 
 [9] When you go out as an army against your enemies, then you shall keep yourself from every evil thing.
 
@@ -26,25 +26,25 @@
 
 [13] You shall have a trowel in your equipment, and when you sit down outside, you shall dig a hole with it and turn and cover up what comes from you.
 
-[14] For Yahweh your *Elohim* walks in the midst of your camp, to rescue you and to give up your enemies before you. Therefore your camp shall be holy, so that he may not see anything indecent among you and turn away from you.
+[14] For ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ walks in the midst of your camp, to rescue you and to give up your enemies before you. Therefore your camp shall be holy, so that he may not see anything indecent among you and turn away from you.
 
 [15] You shall not hand over to his master a slave who has escaped to you from his master.
 
 [16] He shall dwell with you, in your midst, in the place that he shall choose within one of your gates, where it pleases him. You shall not oppress him.
 
-[17] There shall be no cult-prostitute among the daughters of Israel, nor shall there be a cult-prostitute among the sons of Israel.
+[17] There shall be no cult-prostitute among the daughters of ⟦israel|Yisrael|Israel⟧, nor shall there be a cult-prostitute among the sons of ⟦israel|Yisrael|Israel⟧.
 
-[18] You shall not bring the wages of a prostitute or the price of a dog into the house of Yahweh your *Elohim* in fulfillment of any vow, for both of these are an abomination to Yahweh your *Elohim*.
+[18] You shall not bring the wages of a prostitute or the price of a dog into the house of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ in fulfillment of any vow, for both of these are an abomination to ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
 [19] You shall not lend to your brother at interest on money, interest on food, interest on anything that is lent at interest.
 
-[20] To a foreigner you may lend at interest, but to your brother you shall not lend at interest, that Yahweh your *Elohim* may bless you in all the undertaking of your hand in the land that you are entering to possess.
+[20] To a foreigner you may lend at interest, but to your brother you shall not lend at interest, that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ may bless you in all the undertaking of your hand in the land that you are entering to possess.
 
-[21] When you make a vow to Yahweh your *Elohim*, you shall not delay fulfilling it, for Yahweh your *Elohim* will surely require it of you, and it would be sin in you.
+[21] When you make a vow to ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, you shall not delay fulfilling it, for ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ will surely require it of you, and it would be sin in you.
 
 [22] But if you refrain from vowing, it shall be no sin in you.
 
-[23] What comes out of your lips you shall be careful to do, according as you have freely vowed to Yahweh your *Elohim*, which you have promised with your mouth.
+[23] What comes out of your lips you shall be careful to do, according as you have freely vowed to ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, which you have promised with your mouth.
 
 [24] When you go into your neighbor's vineyard, you may eat your fill of grapes, as many as you wish, but you shall not put any in your vessel.
 

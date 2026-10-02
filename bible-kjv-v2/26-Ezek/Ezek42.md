@@ -24,7 +24,7 @@
 
 [12] And corresponding to the doors of the chambers on the south there was a door at the head of the passage, the passage before the corresponding wall on the east as one enters them.
 
-[13] Then he said to me, "The north chambers and the south chambers opposite the yard are the holy chambers, where the priests who approach Yahweh shall eat the most holy offerings. There they shall put the most holy offerings — the grain offering, the sin offering, and the guilt offering — for the place is holy.
+[13] Then he said to me, "The north chambers and the south chambers opposite the yard are the holy chambers, where the priests who approach ⟦yhwh|Yahweh|the LORD⟧ shall eat the most holy offerings. There they shall put the most holy offerings — the grain offering, the sin offering, and the guilt offering — for the place is holy.
 
 [14] When the priests enter the Holy Place, they shall not go out of it into the outer court without laying there the garments in which they minister, for these are holy. They shall put on other garments before they go near to that which is for the people."
 

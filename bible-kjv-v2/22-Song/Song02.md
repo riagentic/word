@@ -21,7 +21,7 @@ for I am sick with love.
 [6] His left hand is under my head,
 and his right hand embraces me!
 
-[7] I adjure you, O daughters of Jerusalem,
+[7] I adjure you, O daughters of ⟦jerusalem|Yerushalayim|Jerusalem⟧,
 by the gazelles or the does of the field,
 that you not stir up or awaken love
 until it pleases.

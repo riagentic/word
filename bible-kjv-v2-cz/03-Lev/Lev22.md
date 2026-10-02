@@ -1,12 +1,12 @@
 # Leviticus 22
 
-[1] Yahweh promluvil k Mosesovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[2] „Mluv k Aaronovi a jeho synům, aby se drželi stranou od svatých věcí synů Israele, které mi zasvěcují, aby neznesvětili mé svaté jméno. Já jsem Yahweh.
+[2] „Mluv k ⟦aaron|Aharonovi|Áronovi⟧ a jeho synům, aby se drželi stranou od svatých věcí synů ⟦israel|Jisraele|Izraele⟧, které mi zasvěcují, aby neznesvětili mé svaté jméno. Já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
-[3] Řekni jim: ‚Kdokoli ze všeho vašeho potomstva po všechna vaše pokolení, kdo by se přiblížil ke svatým věcem, které synové Israele zasvěcují Yahweh, zatímco je na něm nějaká nečistota, ten člověk bude vyťat od mé tváře. Já jsem Yahweh.
+[3] Řekni jim: ‚Kdokoli ze všeho vašeho potomstva po všechna vaše pokolení, kdo by se přiblížil ke svatým věcem, které synové ⟦israel|Jisraele|Izraele⟧ zasvěcují ⟦yhwh|Jahvovi|Hospodinu⟧, zatímco je na něm nějaká nečistota, ten člověk bude vyťat od mé tváře. Já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
-[4] Žádný muž z potomstva Aarona, který má kožní nemoc nebo výtok, nebude jíst ze svatých věcí, dokud nebude čistý. Kdo se dotkne čehokoli nečistého dotykem s mrtvolou nebo muže, z něhož vyšel výron semene,
+[4] Žádný muž z potomstva ⟦aaron|Aharona|Árona⟧, který má kožní nemoc nebo výtok, nebude jíst ze svatých věcí, dokud nebude čistý. Kdo se dotkne čehokoli nečistého dotykem s mrtvolou nebo muže, z něhož vyšel výron semene,
 
 [5] nebo kdo se dotkne jakéhokoli hemžícího se tvora, jímž se může stát nečistým, nebo člověka, od něhož může nečistotu převzít – ať je ta nečistota jakákoli –
 
@@ -14,9 +14,9 @@
 
 [7] Až zapadne slunce, bude čistý a potom smí jíst ze svatých věcí, neboť je to jeho pokrm.
 
-[8] Nebude jíst zdechlinu ani zvíře rozsápané šelmou, aby se jím neposkvrnil. Já jsem Yahweh.
+[8] Nebude jíst zdechlinu ani zvíře rozsápané šelmou, aby se jím neposkvrnil. Já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
-[9] Budou tedy zachovávat, co jsem jim svěřil, aby kvůli tomu nenesli hřích a nezemřeli za to, že to znesvětili. Já jsem Yahweh, který je posvěcuje.
+[9] Budou tedy zachovávat, co jsem jim svěřil, aby kvůli tomu nenesli hřích a nezemřeli za to, že to znesvětili. Já jsem ⟦yhwh|Jahve|Hospodin⟧, který je posvěcuje.
 
 [10] Žádný nezasvěcený nebude jíst svatou věc; ten, kdo u kněze bydlí, ani nádeník nebude jíst svatou věc.
 
@@ -28,43 +28,43 @@
 
 [14] Jí-li někdo svatou věc neúmyslně, přidá k ní pětinu a dá svatou věc knězi.
 
-[15] Nebudou znesvěcovat svaté věci synů Israele, které přinášejí Yahweh,
+[15] Nebudou znesvěcovat svaté věci synů ⟦israel|Jisraele|Izraele⟧, které přinášejí ⟦yhwh|Jahvovi|Hospodinu⟧,
 
-[16] tím, že by je nechali nést vinu provinění, když jedí jejich svaté věci; neboť já jsem Yahweh, který je posvěcuje.‘“
+[16] tím, že by je nechali nést vinu provinění, když jedí jejich svaté věci; neboť já jsem ⟦yhwh|Jahve|Hospodin⟧, který je posvěcuje.‘“
 
-[17] Yahweh promluvil k Mosesovi:
+[17] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[18] „Mluv k Aaronovi, k jeho synům a ke všem synům Israele a řekni jim: ‚Kdokoli z domu Israele nebo z cizinců v Israeli, kdo přináší svůj obětní dar za kterýkoli ze svých slibů nebo jako kteroukoli ze svých dobrovolných obětí, které přinášejí Yahweh jako zápalnou oběť –
+[18] „Mluv k ⟦aaron|Aharonovi|Áronovi⟧, k jeho synům a ke všem synům ⟦israel|Jisraele|Izraele⟧ a řekni jim: ‚Kdokoli z domu ⟦israel|Jisraele|Izraele⟧ nebo z cizinců v ⟦israel|Jisraeli|Izraeli⟧, kdo přináší svůj obětní dar za kterýkoli ze svých slibů nebo jako kteroukoli ze svých dobrovolných obětí, které přinášejí ⟦yhwh|Jahvovi|Hospodinu⟧ jako zápalnou oběť –
 
 [19] abyste byli přijati, přinesete samce bez vady ze skotu, z ovcí nebo z koz.
 
 [20] Nepřinesete nic, co má vadu, neboť to za vás nebude přijato.
 
-[21] Když někdo přináší Yahweh pokojnou oběť, aby splnil slib, nebo jako dobrovolnou oběť ze skotu nebo z bravu, musí být bezvadná, aby byla přijata; nesmí na ní být žádná vada.
+[21] Když někdo přináší ⟦yhwh|Jahvovi|Hospodinu⟧ pokojnou oběť, aby splnil slib, nebo jako dobrovolnou oběť ze skotu nebo z bravu, musí být bezvadná, aby byla přijata; nesmí na ní být žádná vada.
 
-[22] Nic slepého, zraněného, zmrzačeného, s výtokem, se svědivou vyrážkou nebo se strupy – to nebudete Yahweh přinášet ani z toho nebudete dávat ohnivou oběť na oltář Yahweh.
+[22] Nic slepého, zraněného, zmrzačeného, s výtokem, se svědivou vyrážkou nebo se strupy – to nebudete ⟦yhwh|Jahvovi|Hospodinu⟧ přinášet ani z toho nebudete dávat ohnivou oběť na oltář ⟦yhwh|Jahvovi|Hospodinu⟧.
 
 [23] Býka nebo jehně, které mají příliš dlouhou nebo příliš krátkou končetinu, smíte přinést jako dobrovolnou oběť, ale jako slib to nebude přijato.
 
-[24] Nebudete Yahweh přinášet žádné zvíře, které je pohmožděné, rozdrcené, roztržené nebo uříznuté; nic takového ve své zemi obětovat nebudete.
+[24] Nebudete ⟦yhwh|Jahvovi|Hospodinu⟧ přinášet žádné zvíře, které je pohmožděné, rozdrcené, roztržené nebo uříznuté; nic takového ve své zemi obětovat nebudete.
 
-[25] A ani z ruky cizince nebudete přinášet chléb svého *Elohim* z ničeho takového; neboť je na nich jejich porušenost a je na nich vada; nebudou za vás přijaty.‘“
+[25] A ani z ruky cizince nebudete přinášet chléb svého ⟦elohim|Elohim|Boha⟧ z ničeho takového; neboť je na nich jejich porušenost a je na nich vada; nebudou za vás přijaty.‘“
 
-[26] Yahweh promluvil k Mosesovi:
+[26] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[27] „Když se narodí tele, jehně nebo kůzle, zůstane sedm dní se svou matkou; a od osmého dne dále bude přijato jako ohnivá oběť Yahweh.
+[27] „Když se narodí tele, jehně nebo kůzle, zůstane sedm dní se svou matkou; a od osmého dne dále bude přijato jako ohnivá oběť ⟦yhwh|Jahvovi|Hospodinu⟧.
 
 [28] Krávu nebo ovci však nezabijete s jejím mládětem v jeden den.
 
-[29] Když budete Yahweh obětovat děkovnou oběť, obětujte ji tak, abyste byli přijati.
+[29] Když budete ⟦yhwh|Jahvovi|Hospodinu⟧ obětovat děkovnou oběť, obětujte ji tak, abyste byli přijati.
 
-[30] Bude snědena téhož dne; nenecháte z ní nic do rána. Já jsem Yahweh.
+[30] Bude snědena téhož dne; nenecháte z ní nic do rána. Já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
-[31] Zachovávejte má přikázání a plňte je. Já jsem Yahweh.
+[31] Zachovávejte má přikázání a plňte je. Já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
-[32] Nebudete znesvěcovat mé svaté jméno, ale budu posvěcen uprostřed synů Israele. Já jsem Yahweh, který vás posvěcuje,
+[32] Nebudete znesvěcovat mé svaté jméno, ale budu posvěcen uprostřed synů ⟦israel|Jisraele|Izraele⟧. Já jsem ⟦yhwh|Jahve|Hospodin⟧, který vás posvěcuje,
 
-[33] který vás vyvedl ze země Egypt, abych byl vaším *Elohim*. Já jsem Yahweh.“
+[33] který vás vyvedl ze země ⟦egypt|Micrajim|Egypt⟧, abych byl vaším ⟦elohim|Elohim|Bohem⟧. Já jsem ⟦yhwh|Jahve|Hospodin⟧.“
 
 ## Změny
 

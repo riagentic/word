@@ -1,16 +1,16 @@
 # Isaiah 58
 
 [1] "Cry aloud; do not hold back;
-lift up your voice like a trumpet;
+lift up your voice like a ⟦shofar|shofar|trumpet⟧;
 declare to my people their transgression,
-to the house of Jacob their sins.
+to the house of ⟦jacob|Yaaqov|Jacob⟧ their sins.
 
 [2] Yet they seek me daily
 and delight to know my ways,
 as if they were a nation that did righteousness
-and did not forsake the judgment of their *Elohim*;
+and did not forsake the judgment of their ⟦elohim|Elohim|God⟧;
 they ask of me righteous judgments;
-they delight to draw near to *Elohim*.
+they delight to draw near to ⟦elohim|Elohim|God⟧.
 
 [3] 'Why have we fasted, and you see it not?
 Why have we humbled ourselves, and you take no knowledge of it?'
@@ -27,7 +27,7 @@ a day for a person to humble himself?
 Is it to bow down his head like a reed,
 and to spread sackcloth and ashes under him?
 Will you call this a fast,
-and a day acceptable to Yahweh?
+and a day acceptable to ⟦yhwh|Yahweh|the LORD⟧?
 
 [6] Is not this the fast that I choose:
 to loose the bonds of wickedness,
@@ -43,9 +43,9 @@ and not to hide yourself from your own flesh?
 [8] Then shall your light break forth like the dawn,
 and your healing shall spring up speedily;
 your righteousness shall go before you;
-the glory of Yahweh shall be your rear guard.
+the glory of ⟦yhwh|Yahweh|the LORD⟧ shall be your rear guard.
 
-[9] Then you shall call, and Yahweh will answer;
+[9] Then you shall call, and ⟦yhwh|Yahweh|the LORD⟧ will answer;
 you shall cry, and he will say, 'Here I am.'
 If you take away the yoke from your midst,
 the pointing of the finger, and speaking wickedness,
@@ -55,7 +55,7 @@ and satisfy the desire of the afflicted,
 then shall your light rise in the darkness
 and your gloom be as the noonday.
 
-[11] And Yahweh will guide you continually
+[11] And ⟦yhwh|Yahweh|the LORD⟧ will guide you continually
 and satisfy your desire in scorched places
 and make your bones strong;
 and you shall be like a watered garden,
@@ -67,17 +67,17 @@ you shall raise up the foundations of many generations;
 you shall be called the repairer of the breach,
 the restorer of streets to dwell in.
 
-[13] If you turn back your foot from the Sabbath,
+[13] If you turn back your foot from the ⟦shabbat|Shabbat|Sabbath⟧,
 from doing your pleasure on my holy day,
-and call the Sabbath a delight
-and the holy day of Yahweh honorable;
+and call the ⟦shabbat|Shabbat|Sabbath⟧ a delight
+and the holy day of ⟦yhwh|Yahweh|the LORD⟧ honorable;
 if you honor it, not going your own ways,
 or seeking your own pleasure, or talking idly;
 
-[14] then you shall take delight in Yahweh,
+[14] then you shall take delight in ⟦yhwh|Yahweh|the LORD⟧,
 and I will make you ride on the heights of the earth;
-I will feed you with the heritage of Jacob your father,
-for the mouth of Yahweh has spoken."
+I will feed you with the heritage of ⟦jacob|Yaaqov|Jacob⟧ your father,
+for the mouth of ⟦yhwh|Yahweh|the LORD⟧ has spoken."
 
 ## Changes
 

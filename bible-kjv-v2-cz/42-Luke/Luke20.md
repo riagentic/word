@@ -1,20 +1,20 @@
 # Lukáš 20
 
-[1] Jednoho dne, když *Yeshua* učil lid v chrámě a zvěstoval evangelium, přistoupili velekněží a zákoníci se staršími
+[1] Jednoho dne, když ⟦yeshua|Ješua|Ježíš⟧ učil lid v chrámě a zvěstoval evangelium, přistoupili velekněží a zákoníci se staršími
 
 [2] a řekli mu: „Pověz nám, jakou mocí to děláš, nebo kdo ti tu moc dal.“
 
 [3] Odpověděl jim: „I já se vás na něco zeptám. Povězte mi:
 
-[4] Johnovo ponoření bylo z nebe, nebo z lidí?“
+[4] ⟦john|Jochananovo|Janovo⟧ ⟦immersion|ponoření|křtění⟧ bylo z nebe, nebo z lidí?“
 
 [5] Rozvažovali mezi sebou: „Řekneme-li: ‚Z nebe,‘ řekne: ‚Proč jste mu tedy nevěřili?‘
 
-[6] Řekneme-li však: ‚Z lidí,‘ všechen lid nás ukamenuje, neboť jsou přesvědčeni, že John byl prorok.“
+[6] Řekneme-li však: ‚Z lidí,‘ všechen lid nás ukamenuje, neboť jsou přesvědčeni, že ⟦john|Jochanan|Jan⟧ byl prorok.“
 
 [7] Odpověděli tedy, že nevědí, odkud bylo.
 
-[8] *Yeshua* jim řekl: „Ani já vám nepovím, jakou mocí to dělám.“
+[8] ⟦yeshua|Ješua|Ježíš⟧ jim řekl: „Ani já vám nepovím, jakou mocí to dělám.“
 
 [9] Začal lidu vyprávět toto podobenství: „Jeden člověk vysadil vinici, pronajal ji vinařům a odcestoval na dlouhou dobu do ciziny.
 
@@ -43,21 +43,21 @@ se stal kamenem úhelným**‘?
 
 [20] Sledovali ho tedy a poslali zvědy, kteří se přetvařovali, že jsou upřímní, aby ho chytili v nějakém jeho slově a mohli ho vydat moci a pravomoci místodržitele.
 
-[21] Zeptali se ho: „Učiteli, víme, že mluvíš a učíš správně, nikomu nestraníš, ale podle pravdy učíš cestě *Elohim*.
+[21] Zeptali se ho: „Učiteli, víme, že mluvíš a učíš správně, nikomu nestraníš, ale podle pravdy učíš cestě ⟦elohim|Elohim|Boží⟧.
 
-[22] Je nám dovoleno dávat daň Caesarovi, nebo ne?“
+[22] Je nám dovoleno dávat daň ⟦caesar|Caesarovi|císaři⟧, nebo ne?“
 
 [23] On však prohlédl jejich lstivost a řekl jim:
 
-[24] „Ukažte mi denár. Čí obraz a nápis nese?“ Řekli: „Caesarův.“
+[24] „Ukažte mi denár. Čí obraz a nápis nese?“ Řekli: „⟦caesar|Caesarův|Císařův⟧.“
 
-[25] Řekl jim: „Dávejte tedy Caesarovi, co je Caesarovo, a *Elohim*, co je *Elohim*.“
+[25] Řekl jim: „Dávejte tedy ⟦caesar|Caesarovi|císaři⟧, co je ⟦caesar|Caesarovo|císařovo⟧, a ⟦elohim|Elohim|Bohu⟧, co je ⟦elohim|Elohim|Boží⟧.“
 
 [26] A nemohli ho před lidem chytit v jeho slovech, ale užasli nad jeho odpovědí a zmlkli.
 
-[27] Přišli k němu někteří ze saduceů, kteří popírají, že je vzkříšení,
+[27] Přišli k němu někteří ze ⟦sadducees|cedukim|saduceů⟧, kteří popírají, že je vzkříšení,
 
-[28] a zeptali se ho: „Učiteli, Moses nám napsal, že zemře-li něčí bratr, který měl ženu, ale neměl děti, má si tu vdovu vzít a zplodit svému bratrovi potomstvo.
+[28] a zeptali se ho: „Učiteli, ⟦moses|Moše|Mojžíš⟧ nám napsal, že zemře-li něčí bratr, který měl ženu, ale neměl děti, má si tu vdovu vzít a zplodit svému bratrovi potomstvo.
 
 [29] Bylo tedy sedm bratrů. První si vzal ženu a zemřel bez dětí.
 
@@ -69,25 +69,25 @@ se stal kamenem úhelným**‘?
 
 [33] Čí ženou tedy ta žena bude při vzkříšení? Vždyť ji všech sedm mělo za ženu.“
 
-[34] *Yeshua* jim řekl: „Synové tohoto věku se žení a vdávají,
+[34] ⟦yeshua|Ješua|Ježíš⟧ jim řekl: „Synové tohoto věku se žení a vdávají,
 
 [35] ale ti, kdo jsou uznáni za hodné dosáhnout onoho věku a vzkříšení z mrtvých, se nežení ani nevdávají,
 
-[36] neboť již nemohou zemřít, protože jsou rovni andělům a jsou syny *Elohim*, jsouce syny vzkříšení.
+[36] neboť již nemohou zemřít, protože jsou rovni andělům a jsou syny ⟦elohim|Elohim|Božími⟧, jsouce syny vzkříšení.
 
-[37] Že mrtví vstávají, ukázal i Moses v oddíle o keři, kde nazývá Pána *Elohim* Abrahamovým, *Elohim* Isaacovým a *Elohim* Jacobovým.
+[37] Že mrtví vstávají, ukázal i ⟦moses|Moše|Mojžíš⟧ v oddíle o keři, kde nazývá ⟦yhwh|Jahveho|Hospodina⟧ ⟦elohim|Elohim|Bohem⟧ ⟦abraham|Avrahamovým|Abrahamovým⟧, ⟦elohim|Elohim|Bohem⟧ ⟦isaac|Jicchakovým|Izákovým⟧ a ⟦elohim|Elohim|Bohem⟧ ⟦jacob|Jaakovovým|Jákobovým⟧.
 
-[38] On není *Elohim* mrtvých, ale živých, neboť jemu všichni žijí.“
+[38] On není ⟦elohim|Elohim|Bohem⟧ mrtvých, ale živých, neboť jemu všichni žijí.“
 
 [39] Někteří ze zákoníků na to řekli: „Učiteli, dobře jsi řekl.“
 
 [40] Už se ho totiž neodvažovali na nic ptát.
 
-[41] Řekl jim však: „Jak mohou říkat, že *Mashiach* je Davidův syn?
+[41] Řekl jim však: „Jak mohou říkat, že ⟦mashiach|Mašiach|Mesiáš⟧ je Davidův syn?
 
 [42] Vždyť sám David říká v knize Žalmů:
 
-‚**Řekl Pán mému Pánu:
+‚**Řekl ⟦yhwh|Jahve|Hospodin⟧ mému Pánu:
 „Seď po mé pravici,
 [43] dokud nepoložím tvé nepřátele za podnož tvých nohou.“**‘
 

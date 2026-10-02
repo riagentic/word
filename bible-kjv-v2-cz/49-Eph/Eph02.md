@@ -6,43 +6,43 @@
 
 [3] mezi nimiž jsme kdysi žili i my všichni ve vášních svého těla, když jsme plnili touhy těla i mysli, a byli jsme od přirozenosti dětmi hněvu jako ostatní lidé.
 
-[4] Ale *Elohim*, bohatý v milosrdenství, pro velikou lásku, kterou nás miloval,
+[4] Ale ⟦elohim|Elohim|Bůh⟧, bohatý v milosrdenství, pro velikou lásku, kterou nás miloval,
 
-[5] i když jsme byli mrtví ve svých proviněních, spolu s *Mashiachem* nás oživil – milostí jste spaseni –
+[5] i když jsme byli mrtví ve svých proviněních, spolu s ⟦mashiach|Mašiachem|Kristem⟧ nás oživil – milostí jste spaseni –
 
-[6] a spolu s ním nás vzkřísil a spolu s ním posadil v nebeských oblastech v *Mashiachovi* *Yeshuovi*,
+[6] a spolu s ním nás vzkřísil a spolu s ním posadil v nebeských oblastech v ⟦mashiach|Mašiachovi|Kristu⟧ ⟦yeshua|Ješuovi|Ježíši⟧,
 
-[7] aby v přicházejících věkách ukázal nezměrné bohatství své milosti v laskavosti k nám v *Mashiachovi* *Yeshuovi*.
+[7] aby v přicházejících věkách ukázal nezměrné bohatství své milosti v laskavosti k nám v ⟦mashiach|Mašiachovi|Kristu⟧ ⟦yeshua|Ješuovi|Ježíši⟧.
 
-[8] **Milostí jste totiž spaseni skrze víru. A to není z vás; je to dar *Elohim*,**
+[8] **Milostí jste totiž spaseni skrze víru. A to není z vás; je to dar ⟦elohim|Elohim|Boží⟧,**
 
 **[9] ne ze skutků, aby se nikdo nemohl chlubit.**
 
-[10] Jsme totiž jeho dílem, stvořeni v *Mashiachovi* *Yeshuovi* k dobrým skutkům, které *Elohim* předem připravil, abychom v nich žili.
+[10] Jsme totiž jeho dílem, stvořeni v ⟦mashiach|Mašiachovi|Kristu⟧ ⟦yeshua|Ješuovi|Ježíši⟧ k dobrým skutkům, které ⟦elohim|Elohim|Bůh⟧ předem připravil, abychom v nich žili.
 
 [11] Proto pamatujte, že jste kdysi vy, pohané podle těla, nazývaní „neobřízkou“ od těch, kdo se nazývají „obřízkou“, která je učiněna na těle rukama –
 
-[12] pamatujte, že jste v té době byli odloučeni od *Mashiacha*, vyloučeni z občanství Israele a cizí smlouvám zaslíbení, bez naděje a bez *Elohim* ve světě.
+[12] pamatujte, že jste v té době byli odloučeni od ⟦mashiach|Mašiacha|Krista⟧, vyloučeni z občanství ⟦israel|Jisraele|Izraele⟧ a cizí smlouvám zaslíbení, bez naděje a bez ⟦elohim|Elohim|Boha⟧ ve světě.
 
-[13] Nyní však v *Mashiachovi* *Yeshuovi* jste vy, kteří jste kdysi byli daleko, přivedeni blízko krví *Mashiacha*.
+[13] Nyní však v ⟦mashiach|Mašiachovi|Kristu⟧ ⟦yeshua|Ješuovi|Ježíši⟧ jste vy, kteří jste kdysi byli daleko, přivedeni blízko krví ⟦mashiach|Mašiacha|Krista⟧.
 
 [14] **On sám je totiž náš pokoj, on, který z obou učinil jedno a ve svém těle zbořil dělicí zeď nepřátelství**
 
 [15] tím, že zrušil zákon přikázání vyjádřený v ustanoveních, aby v sobě z těch dvou stvořil jednoho nového člověka, a tak zjednal pokoj,
 
-[16] a aby nás oba v jednom těle usmířil s *Elohim* skrze kříž, jímž usmrtil nepřátelství.
+[16] a aby nás oba v jednom těle usmířil s ⟦elohim|Elohim|Bohem⟧ skrze kříž, jímž usmrtil nepřátelství.
 
 [17] Přišel a zvěstoval pokoj vám, kteří jste byli daleko, i pokoj těm, kdo byli blízko.
 
 [18] Skrze něho totiž máme oba v jednom Duchu přístup k Otci.
 
-[19] Nejste tedy již cizinci a přistěhovalci, ale jste spoluobčany svatých a členy domácnosti *Elohim*,
+[19] Nejste tedy již cizinci a přistěhovalci, ale jste spoluobčany svatých a členy domácnosti ⟦elohim|Elohim|Boží⟧,
 
-[20] vybudovaní na základě apoštolů a proroků, přičemž úhelným kamenem je sám *Mashiach* *Yeshua*,
+[20] vybudovaní na základě apoštolů a proroků, přičemž úhelným kamenem je sám ⟦mashiach|Mašiach|Kristus⟧ ⟦yeshua|Ješua|Ježíš⟧,
 
 [21] v němž celá stavba, pevně spojená, roste v svatý chrám v Pánu.
 
-[22] V něm jste i vy spolu budováni v příbytek *Elohim* v Duchu.
+[22] V něm jste i vy spolu budováni v příbytek ⟦elohim|Elohim|Boží⟧ v Duchu.
 
 ## Změny
 

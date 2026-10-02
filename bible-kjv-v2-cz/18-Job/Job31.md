@@ -3,8 +3,8 @@
 [1] „Uzavřel jsem smlouvu se svýma očima –
 jak bych tedy mohl upírat zrak na pannu?
 
-[2] Jaký je podíl od Eloah shůry,
-dědictví od Shaddaie z výšin?
+[2] Jaký je podíl od ⟦eloah|Eloah|Boha⟧ shůry,
+dědictví od ⟦shaddai|Šaddaje|Všemohoucího⟧ z výšin?
 
 [3] Není pohroma pro nespravedlivého,
 neštěstí pro ty, kdo páchají nepravost?
@@ -16,7 +16,7 @@ a nepočítá všechny mé kroky?
 jestliže má noha spěchala ke klamu –
 
 [6] ať mě zváží na poctivých vahách
-a ať Eloah pozná mou ryzost.
+a ať ⟦eloah|Eloah|Bůh⟧ pozná mou ryzost.
 
 [7] Jestliže můj krok uhnul z cesty
 a mé srdce šlo za mýma očima,
@@ -34,13 +34,13 @@ a ať se nad ní sklánějí jiní.
 [11] Vždyť to by byl ohavný zločin,
 nepravost, kterou mají trestat soudci;
 
-[12] neboť je to oheň, který stravuje až do Abaddonu
+[12] neboť je to oheň, který stravuje až do ⟦abaddon|Avaddonu|Abadonu⟧
 a vyvrátil by všechnu mou úrodu.
 
 [13] Jestliže jsem odmítl při svého služebníka
 nebo své služky, když si na mě stěžovali,
 
-[14] co pak budu dělat, až povstane *Elohim*?
+[14] co pak budu dělat, až povstane ⟦el|El|Bůh⟧?
 Až to bude vyšetřovat, co mu odpovím?
 
 [15] Což ten, kdo mě učinil v lůně, neučinil i jeho?
@@ -67,7 +67,7 @@ když jsem viděl, že mám oporu v bráně –
 [22] ať mi rameno vypadne z kloubu
 a má paže se ulomí od kosti.
 
-[23] Vždyť pohroma od *Elohim* pro mě byla hrůzou;
+[23] Vždyť pohroma od ⟦el|El|Boha⟧ pro mě byla hrůzou;
 pro jeho velebnost jsem nic takového nemohl.
 
 [24] Jestliže jsem ve zlatě skládal svou důvěru
@@ -83,7 +83,7 @@ nebo na měsíc, jak se ve své nádheře pohybuje,
 a má ústa políbila mou ruku –
 
 [28] i to by byla nepravost pro soudce,
-neboť bych zapřel *Elohim* nahoře.
+neboť bych zapřel ⟦el|El|Boha⟧ nahoře.
 
 [29] Jestliže jsem se radoval ze zkázy toho, kdo mě nenáviděl,
 nebo jásal, když ho zastihlo zlo –
@@ -105,7 +105,7 @@ a pohrdání rodů mě děsilo,
 takže jsem mlčel a nevycházel ze dveří –
 
 [35] kéž bych měl někoho, kdo by mě vyslechl!
-Zde je můj podpis – ať mi Shaddai odpoví
+Zde je můj podpis – ať mi ⟦shaddai|Šaddaj|Všemohoucí⟧ odpoví
 a ať můj protivník sepíše obžalobu.
 
 [36] Jistě bych ji nosil na rameni;
@@ -123,10 +123,11 @@ a přivedl její vlastníky k tomu, aby vydechli naposled –
 [40] ať místo pšenice rostou trny
 a místo ječmene páchnoucí plevel.“
 
-Jobova slova jsou skončena.
+⟦job|Ijovova|Jóbova⟧ slova jsou skončena.
 
 ## Změny
 
+- **"God" → „El“** (v14, 23, 28) – hebrejsky אֵל *El*, ne *Elohim*.
 - **"kissed my hand" – ponecháno jako „políbila mou ruku“** (v27) – hebrejsky *tishshaq yadi le-fi*; obřadní gesto uctívání slunce/měsíce.
 - **"oh that one would hear me!" → „kéž bych měl někoho, kdo by mě vyslechl! Zde je můj podpis“** (v35) – hebrejsky *hen tavi*; „hle, můj *tav*“ = značka/podpis (poslední písmeno hebrejské abecedy). Právně: Job „podepisuje“ své místopřísežné prohlášení.
 - **"cockle" → „páchnoucí plevel“** (v40) – *bo'shah*; smrdutý plevel.

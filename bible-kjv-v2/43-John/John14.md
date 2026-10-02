@@ -1,6 +1,6 @@
 # John 14
 
-[1] "Let not your hearts be troubled. Believe in *Elohim*; believe also in me.
+[1] "Let not your hearts be troubled. Believe in ⟦elohim|Elohim|God⟧; believe also in me.
 
 [2] In my Father's house are many rooms. If it were not so, would I have told you that I go to prepare a place for you?
 
@@ -8,15 +8,15 @@
 
 [4] And you know the way to where I am going."
 
-[5] Thomas said to him, "Lord, we do not know where you are going. How can we know the way?"
+[5] ⟦thomas|Toma|Thomas⟧ said to him, "Lord, we do not know where you are going. How can we know the way?"
 
-[6] *Yeshua* said to him, "**I am the way, and the truth, and the life. No one comes to the Father except through me.**
+[6] ⟦yeshua|Yeshua|Jesus⟧ said to him, "**I am the way, and the truth, and the life. No one comes to the Father except through me.**
 
 [7] If you had known me, you would have known my Father also. From now on you do know him and have seen him."
 
-[8] Philip said to him, "Lord, show us the Father, and it is enough for us."
+[8] ⟦philip|Philippos|Philip⟧ said to him, "Lord, show us the Father, and it is enough for us."
 
-[9] *Yeshua* said to him, "Have I been with you so long, and you still do not know me, Philip? **Whoever has seen me has seen the Father.** How can you say, 'Show us the Father'?
+[9] ⟦yeshua|Yeshua|Jesus⟧ said to him, "Have I been with you so long, and you still do not know me, ⟦philip|Philippos|Philip⟧? **Whoever has seen me has seen the Father.** How can you say, 'Show us the Father'?
 
 [10] Do you not believe that I am in the Father and the Father is in me? The words that I say to you I do not speak on my own authority, but the Father who dwells in me does his works.
 
@@ -42,15 +42,15 @@
 
 [21] Whoever has my commandments and keeps them, he it is who loves me. And he who loves me will be loved by my Father, and I will love him and manifest myself to him."
 
-[22] Judas (not Iscariot) said to him, "Lord, how is it that you will manifest yourself to us, and not to the world?"
+[22] ⟦jude|Yehudah|Judas⟧ (not Iscariot) said to him, "Lord, how is it that you will manifest yourself to us, and not to the world?"
 
-[23] *Yeshua* answered him, "If anyone loves me, he will keep my word, and my Father will love him, and we will come to him and make our home with him.
+[23] ⟦yeshua|Yeshua|Jesus⟧ answered him, "If anyone loves me, he will keep my word, and my Father will love him, and we will come to him and make our home with him.
 
 [24] Whoever does not love me does not keep my words. And the word that you hear is not mine but the Father's who sent me.
 
 [25] "These things I have spoken to you while I am still with you.
 
-[26] But the Helper, the *Ruach HaQodesh*, whom the Father will send in my name, he will teach you all things and bring to your remembrance all that I have said to you.
+[26] But the Helper, the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧, whom the Father will send in my name, he will teach you all things and bring to your remembrance all that I have said to you.
 
 [27] **Peace I leave with you; my peace I give to you. Not as the world gives do I give to you.** Let not your hearts be troubled, neither let them be afraid.
 

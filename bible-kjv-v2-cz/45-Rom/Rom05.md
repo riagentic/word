@@ -1,46 +1,46 @@
 # Římanům 5
 
-[1] Protože jsme tedy byli ospravedlněni z víry, máme pokoj s *Elohim* skrze našeho Pána *Yeshuu* *Mashiacha*.
+[1] Protože jsme tedy byli ospravedlněni z víry, máme pokoj s ⟦elohim|Elohim|Bohem⟧ skrze našeho Pána ⟦yeshua|Ješuu|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧.
 
-[2] Skrze něho jsme také vírou získali přístup do této milosti, v níž stojíme, a radujeme se v naději na slávu *Elohim*.
+[2] Skrze něho jsme také vírou získali přístup do této milosti, v níž stojíme, a radujeme se v naději na slávu ⟦elohim|Elohim|Boží⟧.
 
 [3] Nejen to, radujeme se i v souženích, protože víme, že soužení působí vytrvalost,
 
 [4] vytrvalost osvědčenost a osvědčenost naději;
 
-[5] a naděje nezahanbuje, protože láska *Elohim* je vylita do našich srdcí skrze *Ruach HaQodesh*, který nám byl dán.
+[5] a naděje nezahanbuje, protože láska ⟦elohim|Elohim|Boží⟧ je vylita do našich srdcí skrze ⟦ruach-haqodesh|Ruach HaKodeš|Ducha svatého⟧, který nám byl dán.
 
-[6] Když jsme byli ještě slabí, zemřel totiž *Mashiach* v určený čas za bezbožné.
+[6] Když jsme byli ještě slabí, zemřel totiž ⟦mashiach|Mašiach|Kristus⟧ v určený čas za bezbožné.
 
 [7] Sotva kdo zemře za spravedlivého – za dobrého by se snad někdo i odvážil zemřít –,
 
-[8] ale *Elohim* prokazuje svou lásku k nám tím, že *Mashiach* za nás zemřel, když jsme byli ještě hříšníky.
+[8] ale ⟦elohim|Elohim|Bůh⟧ prokazuje svou lásku k nám tím, že ⟦mashiach|Mašiach|Kristus⟧ za nás zemřel, když jsme byli ještě hříšníky.
 
-[9] Když jsme tedy nyní byli ospravedlněni jeho krví, tím spíše skrze něho budeme zachráněni od hněvu *Elohim*.
+[9] Když jsme tedy nyní byli ospravedlněni jeho krví, tím spíše skrze něho budeme zachráněni od hněvu ⟦elohim|Elohim|Božího⟧.
 
-[10] Jestliže jsme totiž byli, když jsme byli nepřáteli, smířeni s *Elohim* smrtí jeho Syna, tím spíše budeme jako smíření zachráněni jeho životem.
+[10] Jestliže jsme totiž byli, když jsme byli nepřáteli, smířeni s ⟦elohim|Elohim|Bohem⟧ smrtí jeho Syna, tím spíše budeme jako smíření zachráněni jeho životem.
 
-[11] Nejen to, ale i radujeme se v *Elohim* skrze našeho Pána *Yeshuu* *Mashiacha*, skrze něhož jsme nyní přijali smíření.
+[11] Nejen to, ale i radujeme se v ⟦elohim|Elohim|Bohu⟧ skrze našeho Pána ⟦yeshua|Ješuu|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧, skrze něhož jsme nyní přijali smíření.
 
 [12] Proto jako skrze jednoho člověka vstoupil do světa hřích a skrze hřích smrt, a tak smrt přešla na všechny lidi, protože všichni zhřešili –
 
-[13] hřích totiž na světě byl i před tím, než byla dána Torah, ale hřích se nepočítá, kde není zákon.
+[13] hřích totiž na světě byl i před tím, než ⟦torah|byla dána Tóra|byl dán zákon⟧, ale hřích se nepočítá, kde není zákon.
 
-[14] Přesto smrt vládla od Adama až do Mosese i nad těmi, jejichž hřích nebyl podobný přestoupení Adamovu, který je předobrazem toho, jenž měl přijít.
+[14] Přesto smrt vládla od Adama až do ⟦moses|Moše|Mojžíše⟧ i nad těmi, jejichž hřích nebyl podobný přestoupení Adamovu, který je předobrazem toho, jenž měl přijít.
 
-[15] S darem milosti to však není jako s proviněním. Jestliže totiž proviněním jednoho zemřeli mnozí, mnohem více se na mnohé rozhojnila milost *Elohim* a dar v milosti jednoho člověka, *Yeshuy* *Mashiacha*.
+[15] S darem milosti to však není jako s proviněním. Jestliže totiž proviněním jednoho zemřeli mnozí, mnohem více se na mnohé rozhojnila milost ⟦elohim|Elohim|Boží⟧ a dar v milosti jednoho člověka, ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧.
 
 [16] A s darem to není jako s následkem hříchu toho jednoho. Soud po jednom provinění přinesl odsouzení, ale dar milosti po mnoha proviněních přinesl ospravedlnění.
 
-[17] Jestliže totiž proviněním jednoho zavládla skrze toho jednoho smrt, mnohem spíše budou ti, kdo přijímají hojnost milosti a dar spravedlnosti, vládnout v životě skrze toho jednoho, *Yeshuu* *Mashiacha*.
+[17] Jestliže totiž proviněním jednoho zavládla skrze toho jednoho smrt, mnohem spíše budou ti, kdo přijímají hojnost milosti a dar spravedlnosti, vládnout v životě skrze toho jednoho, ⟦yeshua|Ješuu|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧.
 
 [18] Jako tedy jedno provinění vedlo k odsouzení pro všechny lidi, tak jeden čin spravedlnosti vede k ospravedlnění a životu pro všechny lidi.
 
 [19] Jako se totiž neposlušností jednoho člověka mnozí stali hříšníky, tak se poslušností jednoho mnozí stanou spravedlivými.
 
-[20] Torah však vstoupila, aby se provinění rozmnožilo, ale **kde se rozmnožil hřích, tam se ještě mnohem více rozhojnila milost**,
+[20] ⟦torah|Tóra však vstoupila|Zákon však vstoupil⟧, aby se provinění rozmnožilo, ale **kde se rozmnožil hřích, tam se ještě mnohem více rozhojnila milost**,
 
-[21] aby jako hřích vládl ve smrti, tak i milost vládla skrze spravedlnost k věčnému životu skrze *Yeshuu* *Mashiacha*, našeho Pána.
+[21] aby jako hřích vládl ve smrti, tak i milost vládla skrze spravedlnost k věčnému životu skrze ⟦yeshua|Ješuu|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧, našeho Pána.
 
 ## Změny
 

@@ -37,7 +37,7 @@ but a wise man quietly holds it back.
 all his officials will be wicked.
 
 [13] The poor man and the oppressor meet together;
-Yahweh gives light to the eyes of both.
+⟦yhwh|Yahweh|the LORD⟧ gives light to the eyes of both.
 
 [14] If a king faithfully judges the poor,
 his throne will be established forever.
@@ -52,7 +52,7 @@ but the righteous will look upon their downfall.
 he will give delight to your soul.
 
 [18] Where there is no prophetic vision, the people cast off restraint,
-but blessed is he who keeps the Law.
+but blessed is he who keeps the ⟦torah|Torah|law⟧.
 
 [19] By mere words a servant is not disciplined,
 for though he understands, he will not respond.
@@ -73,10 +73,10 @@ but he who is lowly in spirit will obtain honor.
 he hears the curse, but discloses nothing.
 
 [25] The fear of man lays a snare,
-but whoever trusts in Yahweh is safe.
+but whoever trusts in ⟦yhwh|Yahweh|the LORD⟧ is safe.
 
 [26] Many seek the face of a ruler,
-but it is from Yahweh that a man gets justice.
+but it is from ⟦yhwh|Yahweh|the LORD⟧ that a man gets justice.
 
 [27] An unjust man is an abomination to the righteous,
 but one whose way is straight is an abomination to the wicked.

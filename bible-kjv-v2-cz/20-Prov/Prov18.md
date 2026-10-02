@@ -27,7 +27,7 @@ sestupují do nitra těla.
 [9] Kdo je liknavý ve své práci,
 je bratrem toho, kdo ničí.
 
-[10] Jméno Yahweh je pevná věž;
+[10] Jméno ⟦yhwh|Jahveho|Hospodina⟧ je pevná věž;
 spravedlivý se do ní uteče a je v bezpečí.
 
 [11] Majetek boháče je jeho pevné město
@@ -64,7 +64,7 @@ nasycuje se výnosem svých rtů.
 a ti, kdo ho milují, budou jíst jeho ovoce.
 
 [22] Kdo nalezne manželku, nalezne dobrou věc
-a získá přízeň od Yahweh.
+a získá přízeň od ⟦yhwh|Jahveho|Hospodina⟧.
 
 [23] Chudý prosí a úpí,
 ale boháč odpovídá hrubě.

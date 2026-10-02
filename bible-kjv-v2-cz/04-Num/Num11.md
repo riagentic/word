@@ -1,14 +1,14 @@
 # Numeri 11
 
-[1] Lid se stal jako ti, kdo si stěžují na neštěstí, v uších Yahweh; a Yahweh to uslyšel, jeho hněv vzplanul a oheň Yahweh mezi nimi vzplál a pohltil ty na okraji tábora.
+[1] Lid se stal jako ti, kdo si stěžují na neštěstí, v uších ⟦yhwh|Jahveho|Hospodina⟧; a ⟦yhwh|Jahve|Hospodin⟧ to uslyšel, jeho hněv vzplanul a oheň ⟦yhwh|Jahveho|Hospodina⟧ mezi nimi vzplál a pohltil ty na okraji tábora.
 
-[2] Tu lid volal k Mosesovi, Moses se modlil k Yahweh a oheň uhasl.
+[2] Tu lid volal k ⟦moses|Mošovi|Mojžíšovi⟧, ⟦moses|Moše|Mojžíš⟧ se modlil k ⟦yhwh|Jahvovi|Hospodinu⟧ a oheň uhasl.
 
-[3] Proto bylo to místo nazváno Taberah („Hoření“), protože mezi nimi hořel oheň Yahweh.
+[3] Proto bylo to místo nazváno ⟦taberah|Tavera|Tabeéra⟧ („Hoření“), protože mezi nimi hořel oheň ⟦yhwh|Jahveho|Hospodina⟧.
 
-[4] Smíšená lůza, která byla mezi nimi, propadla silné chtivosti; a také synové Israele znovu plakali a říkali: „Kdo nám dá jíst maso?
+[4] Smíšená lůza, která byla mezi nimi, propadla silné chtivosti; a také synové ⟦israel|Jisraele|Izraele⟧ znovu plakali a říkali: „Kdo nám dá jíst maso?
 
-[5] Vzpomínáme na ryby, které jsme v Egyptě jedli zadarmo, na okurky, melouny, pór, cibuli a česnek.
+[5] Vzpomínáme na ryby, které jsme v ⟦egypt|Micrajim|Egyptě⟧ jedli zadarmo, na okurky, melouny, pór, cibuli a česnek.
 
 [6] Ale teď nám vyschla chuť; není tu vůbec nic, jen na tu manu se dívat.“
 
@@ -18,9 +18,9 @@
 
 [9] Když v noci padala na tábor rosa, padala s ní i mana.
 
-[10] Moses slyšel lid plakat po všech jeho rodech, každého u vchodu do jeho stanu; a hněv Yahweh prudce vzplanul a Mosesovi se to nelíbilo.
+[10] ⟦moses|Moše|Mojžíš⟧ slyšel lid plakat po všech jeho rodech, každého u vchodu do jeho stanu; a hněv ⟦yhwh|Jahveho|Hospodina⟧ prudce vzplanul a ⟦moses|Mošovi|Mojžíšovi⟧ se to nelíbilo.
 
-[11] Moses řekl Yahweh: „Proč jsi se svým služebníkem naložil zle? Proč jsem nenalezl přízeň v tvých očích, že jsi na mě vložil břemeno celého tohoto lidu?
+[11] ⟦moses|Moše|Mojžíš⟧ řekl ⟦yhwh|Jahvovi|Hospodinu⟧: „Proč jsi se svým služebníkem naložil zle? Proč jsem nenalezl přízeň v tvých očích, že jsi na mě vložil břemeno celého tohoto lidu?
 
 [12] Copak jsem já počal celý tento lid? Copak jsem ho já porodil, že mi říkáš: ‚Nes je v náručí, jako chůva nosí kojence,‘ do země, kterou jsi přísahou slíbil jejich otcům?
 
@@ -30,45 +30,45 @@
 
 [15] Jestliže se mnou chceš takto jednat, raději mě hned zabij – prosím tě – jestliže jsem nalezl přízeň v tvých očích, ať nemusím hledět na své neštěstí.“
 
-[16] Yahweh řekl Mosesovi: „Shromáždi mi sedmdesát mužů ze starších Israele, o nichž víš, že jsou staršími lidu a jeho úředníky; přiveď je ke stanu setkávání a ať se tam postaví s tebou.
+[16] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Shromáždi mi sedmdesát mužů ze starších ⟦israel|Jisraele|Izraele⟧, o nichž víš, že jsou staršími lidu a jeho úředníky; přiveď je ke stanu setkávání a ať se tam postaví s tebou.
 
 [17] Sestoupím a budu tam s tebou mluvit; vezmu z ducha, který je na tobě, a vložím ho na ně, a ponesou s tebou břemeno lidu, abys ho nenesl sám.
 
-[18] A lidu řekni: ‚Posvěťte se na zítřek a budete jíst maso; neboť jste plakali v uších Yahweh a říkali: „Kdo nám dá jíst maso? Vždyť v Egyptě nám bylo lépe.“ Proto vám Yahweh dá maso a budete jíst.
+[18] A lidu řekni: ‚Posvěťte se na zítřek a budete jíst maso; neboť jste plakali v uších ⟦yhwh|Jahveho|Hospodina⟧ a říkali: „Kdo nám dá jíst maso? Vždyť v ⟦egypt|Micrajim|Egyptě⟧ nám bylo lépe.“ Proto vám ⟦yhwh|Jahve|Hospodin⟧ dá maso a budete jíst.
 
 [19] Nebudete ho jíst jeden den ani dva dny ani pět dní ani deset dní ani dvacet dní,
 
-[20] ale celý měsíc – dokud vám nepoleze nosem a nezhnusí se vám – protože jste zavrhli Yahweh, který je mezi vámi, a plakali jste před ním a říkali: „Proč jsme vůbec vycházeli z Egypta?“‘“
+[20] ale celý měsíc – dokud vám nepoleze nosem a nezhnusí se vám – protože jste zavrhli ⟦yhwh|Jahveho|Hospodina⟧, který je mezi vámi, a plakali jste před ním a říkali: „Proč jsme vůbec vycházeli z ⟦egypt|Micrajim|Egypta⟧?“‘“
 
-[21] Moses řekl: „Lid, uprostřed něhož jsem, čítá šest set tisíc pěších, a ty jsi řekl: ‚Dám jim maso, ať jedí celý měsíc.‘
+[21] ⟦moses|Moše|Mojžíš⟧ řekl: „Lid, uprostřed něhož jsem, čítá šest set tisíc pěších, a ty jsi řekl: ‚Dám jim maso, ať jedí celý měsíc.‘
 
 [22] Mají se pro ně porazit stáda ovcí a skotu, aby jim to stačilo? Nebo se pro ně mají shromáždit všechny ryby moře, aby jim to stačilo?“
 
-[23] Yahweh řekl Mosesovi: „Copak je ruka Yahweh příliš krátká? Teď uvidíš, zda se ti mé slovo splní, nebo ne.“
+[23] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Copak je ruka ⟦yhwh|Jahveho|Hospodina⟧ příliš krátká? Teď uvidíš, zda se ti mé slovo splní, nebo ne.“
 
-[24] Moses vyšel a pověděl lidu slova Yahweh; shromáždil sedmdesát mužů ze starších lidu a rozestavil je kolem stanu.
+[24] ⟦moses|Moše|Mojžíš⟧ vyšel a pověděl lidu slova ⟦yhwh|Jahveho|Hospodina⟧; shromáždil sedmdesát mužů ze starších lidu a rozestavil je kolem stanu.
 
-[25] Tu Yahweh sestoupil v oblaku, promluvil k němu, vzal z ducha, který byl na něm, a vložil ho na těch sedmdesát starších; a když na nich spočinul duch, prorokovali – ale dále v tom nepokračovali.
+[25] Tu ⟦yhwh|Jahve|Hospodin⟧ sestoupil v oblaku, promluvil k němu, vzal z ducha, který byl na něm, a vložil ho na těch sedmdesát starších; a když na nich spočinul duch, prorokovali – ale dále v tom nepokračovali.
 
-[26] Dva muži však zůstali v táboře, jeden se jmenoval Eldad a druhý Medad; i na nich spočinul duch. Byli mezi zapsanými, ale nevyšli ke stanu. Prorokovali v táboře.
+[26] Dva muži však zůstali v táboře, jeden se jmenoval Eldad a druhý ⟦medad|Mejdad|Médad⟧; i na nich spočinul duch. Byli mezi zapsanými, ale nevyšli ke stanu. Prorokovali v táboře.
 
-[27] Jeden mladík přiběhl a oznámil Mosesovi: „Eldad a Medad prorokují v táboře.“
+[27] Jeden mladík přiběhl a oznámil ⟦moses|Mošovi|Mojžíšovi⟧: „Eldad a ⟦medad|Mejdad|Médad⟧ prorokují v táboře.“
 
-[28] Joshua, syn Nuna, Mosesův služebník od mládí, odpověděl: „Můj pane Mosesi, zakaž jim to!“
+[28] ⟦joshua|Jehošua|Jozue⟧, syn ⟦nun|Nuna|Núna⟧, ⟦moses|Mošův|Mojžíšův⟧ služebník od mládí, odpověděl: „Můj pane ⟦moses|Moše|Mojžíši⟧, zakaž jim to!“
 
-[29] Moses mu však řekl: „Ty žárlíš kvůli mně? Kéž by všechen lid Yahweh byli proroky, kéž by na ně Yahweh vložil svého ducha!“
+[29] ⟦moses|Moše|Mojžíš⟧ mu však řekl: „Ty žárlíš kvůli mně? Kéž by všechen lid ⟦yhwh|Jahveho|Hospodina⟧ byli proroky, kéž by na ně ⟦yhwh|Jahve|Hospodin⟧ vložil svého ducha!“
 
-[30] Potom se Moses vrátil do tábora, on i starší Israele.
+[30] Potom se ⟦moses|Moše|Mojžíš⟧ vrátil do tábora, on i starší ⟦israel|Jisraele|Izraele⟧.
 
-[31] Od Yahweh vyšel vítr, přinesl od moře křepelky a nechal je padat vedle tábora, asi na den cesty na jednu stranu a na den cesty na druhou stranu, všude kolem tábora, asi dva lokty vysoko nad povrchem země.
+[31] Od ⟦yhwh|Jahveho|Hospodina⟧ vyšel vítr, přinesl od moře křepelky a nechal je padat vedle tábora, asi na den cesty na jednu stranu a na den cesty na druhou stranu, všude kolem tábora, asi dva lokty vysoko nad povrchem země.
 
 [32] Lid byl vzhůru celý ten den, celou noc i celý další den a sbíral křepelky; kdo nasbíral nejméně, nasbíral deset chomerů; a rozložili si je všude kolem tábora.
 
-[33] Maso měli ještě mezi zuby, ještě nebylo rozžvýkáno, když hněv Yahweh proti lidu vzplál a Yahweh lid zasáhl velmi velikou ranou.
+[33] Maso měli ještě mezi zuby, ještě nebylo rozžvýkáno, když hněv ⟦yhwh|Jahveho|Hospodina⟧ proti lidu vzplál a ⟦yhwh|Jahve|Hospodin⟧ lid zasáhl velmi velikou ranou.
 
-[34] Proto bylo to místo nazváno Kibroth-hattaavah („Hroby chtivosti“), protože tam pohřbili lid, který propadl chtivosti.
+[34] Proto bylo to místo nazváno ⟦kibroth-hattaavah|Kivrot HaTaava|Kibrót-taava⟧ („Hroby chtivosti“), protože tam pohřbili lid, který propadl chtivosti.
 
-[35] Z Kibroth-hattaavah lid vytáhl do Hazerothu; a zůstali v Hazerothu.
+[35] Z ⟦kibroth-hattaavah|Kivrot HaTaava|Kibrót-taavy⟧ lid vytáhl do ⟦hazeroth|Chacerotu|Chaserótu⟧; a zůstali v ⟦hazeroth|Chacerotu|Chaserótu⟧.
 
 ## Změny
 

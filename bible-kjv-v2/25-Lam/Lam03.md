@@ -52,7 +52,7 @@ and made me cower in ashes;
 I have forgotten what happiness is;
 
 [18] **ו** so I say, "My endurance has perished;
-so has my hope from Yahweh."
+so has my hope from ⟦yhwh|Yahweh|the LORD⟧."
 
 [19] **ז** Remember my affliction and my wanderings,
 the wormwood and the gall!
@@ -63,20 +63,20 @@ and is bowed down within me.
 [21] **ז** But this I call to mind,
 and therefore I have hope:
 
-[22] **ח** The steadfast love of Yahweh — surely we are not consumed,
+[22] **ח** The steadfast love of ⟦yhwh|Yahweh|the LORD⟧ — surely we are not consumed,
 for his mercies never come to an end;
 
 [23] **ח** they are new every morning;
 great is your faithfulness.
 
-[24] **ח** "Yahweh is my portion," says my soul,
+[24] **ח** "⟦yhwh|Yahweh|The LORD⟧ is my portion," says my soul,
 "therefore I will hope in him."
 
-[25] **ט** Yahweh is good to those who wait for him,
+[25] **ט** ⟦yhwh|Yahweh|The LORD⟧ is good to those who wait for him,
 to the soul who seeks him.
 
 [26] **ט** It is good that one should wait quietly
-for the salvation of Yahweh.
+for the salvation of ⟦yhwh|Yahweh|the LORD⟧.
 
 [27] **ט** It is good for a man that he bear
 the yoke in his youth.
@@ -90,7 +90,7 @@ there may yet be hope;
 [30] **י** let him give his cheek to the one who strikes,
 and let him be filled with insults.
 
-[31] **כ** For Lord will not
+[31] **כ** For ⟦adonai|Adonai|the Lord⟧ will not
 cast off forever,
 
 [32] **כ** but, though he cause grief, he will have compassion
@@ -103,25 +103,25 @@ or grieve the children of men.
 all the prisoners of the earth,
 
 [35] **ל** to deny a man justice
-in the presence of the Most High,
+in the presence of ⟦elyon|Elyon|the Most High⟧,
 
 [36] **ל** to subvert a man in his lawsuit,
-Lord does not approve.
+⟦adonai|Adonai|the Lord⟧ does not approve.
 
 [37] **מ** Who has spoken and it came to pass,
-unless Lord has commanded it?
+unless ⟦adonai|Adonai|the Lord⟧ has commanded it?
 
-[38] **מ** Is it not from the mouth of the Most High
+[38] **מ** Is it not from the mouth of ⟦elyon|Elyon|the Most High⟧
 that good and bad come?
 
 [39] **מ** Why should a living man complain,
 a man, about the punishment of his sins?
 
 [40] **נ** Let us test and examine our ways,
-and return to Yahweh!
+and return to ⟦yhwh|Yahweh|the LORD⟧!
 
 [41] **נ** Let us lift up our hearts and hands
-to El in heaven:
+to ⟦el|El|God⟧ in heaven:
 
 [42] **נ** "We have transgressed and rebelled,
 and you have not forgiven.
@@ -147,7 +147,7 @@ because of the destruction of the daughter of my people.
 [49] **ע** My eyes will flow without ceasing,
 without respite,
 
-[50] **ע** until Yahweh from heaven
+[50] **ע** until ⟦yhwh|Yahweh|the LORD⟧ from heaven
 looks down and sees;
 
 [51] **ע** my eyes cause me grief
@@ -162,7 +162,7 @@ and cast stones on me;
 [54] **צ** water closed over my head;
 I said, "I am lost."
 
-[55] **ק** I called on your name, O Yahweh,
+[55] **ק** I called on your name, O ⟦yhwh|Yahweh|LORD⟧,
 from the depths of the pit;
 
 [56] **ק** you heard my plea, "Do not close
@@ -171,16 +171,16 @@ your ear to my cry for help!"
 [57] **ק** You came near when I called on you;
 you said, "Do not fear!"
 
-[58] **ר** You have taken up my cause, O Lord;
+[58] **ר** You have taken up my cause, O ⟦adonai|Adonai|Lord⟧;
 you have redeemed my life.
 
-[59] **ר** You have seen the wrong done to me, O Yahweh;
+[59] **ר** You have seen the wrong done to me, O ⟦yhwh|Yahweh|LORD⟧;
 judge my cause.
 
 [60] **ר** You have seen all their vengeance,
 all their plots against me.
 
-[61] **ש** You have heard their taunts, O Yahweh,
+[61] **ש** You have heard their taunts, O ⟦yhwh|Yahweh|LORD⟧,
 all their plots against me.
 
 [62] **ש** The lips and thoughts of my assailants
@@ -189,14 +189,14 @@ are against me all the day long.
 [63] **ש** Behold their sitting and their rising;
 I am the object of their taunts.
 
-[64] **ת** You will repay them, O Yahweh,
+[64] **ת** You will repay them, O ⟦yhwh|Yahweh|LORD⟧,
 according to the work of their hands.
 
 [65] **ת** You will give them hardness of heart;
 your curse will be on them.
 
 [66] **ת** You will pursue them in anger and destroy them
-from under the heavens of Yahweh.
+from under the heavens of ⟦yhwh|Yahweh|the LORD⟧.
 
 ## Changes
 

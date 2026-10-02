@@ -2,7 +2,7 @@
 
 [1] There is an evil that I have seen under the sun, and it lies heavy on mankind:
 
-[2] a man to whom *Elohim* gives wealth, possessions, and honor, so that he lacks nothing of all that he desires, yet *Elohim* does not give him power to enjoy them, but a stranger enjoys them. This is vanity; it is a grievous evil.
+[2] a man to whom ⟦elohim|Elohim|God⟧ gives wealth, possessions, and honor, so that he lacks nothing of all that he desires, yet ⟦elohim|Elohim|God⟧ does not give him power to enjoy them, but a stranger enjoys them. This is vanity; it is a grievous evil.
 
 [3] If a man fathers a hundred children and lives many years, so that the days of his years are many, but his soul is not satisfied with life's good things, and he also has no burial, I say that a stillborn child is better off than he.
 

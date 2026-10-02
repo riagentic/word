@@ -1,38 +1,38 @@
 # Jozue 3
 
-[1] Joshua vstal časně ráno; vytáhli ze Shittimu a přišli k Jordanu – on i všichni synové Israele – a přenocovali tam, dříve než přešli.
+[1] ⟦joshua|Jehošua|Jozue⟧ vstal časně ráno; vytáhli ze ⟦shittim|Šittimu|Šitímu⟧ a přišli k ⟦jordan|Jardenu|Jordánu⟧ – on i všichni synové ⟦israel|Jisraele|Izraele⟧ – a přenocovali tam, dříve než přešli.
 
 [2] Po třech dnech prošli úředníci táborem
 
-[3] a přikázali lidu: „Až uvidíte truhlu smlouvy Yahweh, vašeho *Elohim*, a kněží, Levity, jak ji nesou, pak vytáhnete ze svého místa a půjdete za ní.
+[3] a přikázali lidu: „Až uvidíte truhlu smlouvy ⟦yhwh|Jahveho|Hospodina⟧, vašeho ⟦elohim|Elohim|Boha⟧, a kněží, ⟦levites|Levijim|lévijce⟧, jak ji nesou, pak vytáhnete ze svého místa a půjdete za ní.
 
 [4] Mezi vámi a jí však bude vzdálenost asi dvou tisíc loket podle míry; nepřibližujte se k ní – abyste znali cestu, kterou máte jít, neboť jste touto cestou dříve nešli.“
 
-[5] Joshua řekl lidu: „Posvěťte se, neboť zítra Yahweh učiní mezi vámi divy.“
+[5] ⟦joshua|Jehošua|Jozue⟧ řekl lidu: „Posvěťte se, neboť zítra ⟦yhwh|Jahve|Hospodin⟧ učiní mezi vámi divy.“
 
-[6] Joshua řekl kněžím: „Zvedněte truhlu smlouvy a přejděte před lidem.“ Zvedli tedy truhlu smlouvy a šli před lidem.
+[6] ⟦joshua|Jehošua|Jozue⟧ řekl kněžím: „Zvedněte truhlu smlouvy a přejděte před lidem.“ Zvedli tedy truhlu smlouvy a šli před lidem.
 
-[7] Yahweh řekl Joshuovi: „Dnes tě začnu vyvyšovat před očima celého Israele, aby poznali, že jako jsem byl s Mosesem, tak budu s tebou.
+[7] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦joshua|Jehošuovi|Jozuovi⟧: „Dnes tě začnu vyvyšovat před očima celého ⟦israel|Jisraele|Izraele⟧, aby poznali, že jako jsem byl s ⟦moses|Mošem|Mojžíšem⟧, tak budu s tebou.
 
-[8] Přikážeš kněžím, kteří nesou truhlu smlouvy: ‚Až přijdete na okraj vod Jordanu, zůstaňte stát v Jordanu.‘“
+[8] Přikážeš kněžím, kteří nesou truhlu smlouvy: ‚Až přijdete na okraj vod ⟦jordan|Jardenu|Jordánu⟧, zůstaňte stát v ⟦jordan|Jardenu|Jordánu⟧.‘“
 
-[9] Joshua řekl synům Israele: „Pojďte sem a slyšte slova Yahweh, vašeho *Elohim*.“
+[9] ⟦joshua|Jehošua|Jozue⟧ řekl synům ⟦israel|Jisraele|Izraele⟧: „Pojďte sem a slyšte slova ⟦yhwh|Jahveho|Hospodina⟧, vašeho ⟦elohim|Elohim|Boha⟧.“
 
-[10] A Joshua řekl: „Podle toho poznáte, že živý El je uprostřed vás a že před vámi jistě vyžene Canaanitu, Hittitu, Hivitu, Perizzitu, Girgashitu, Amoritu a Jebusitu.
+[10] A ⟦joshua|Jehošua|Jozue⟧ řekl: „Podle toho poznáte, že živý ⟦el|El|Bůh⟧ je uprostřed vás a že před vámi jistě vyžene ⟦canaanites|Kenaaniho|Kenaance⟧, ⟦hittite|Chittiho|Chetejce⟧, ⟦hivite|Chivviho|Chivejce⟧, ⟦perizzite|Perizziho|Perizejce⟧, ⟦girgashite|Girgašiho|Girgašejce⟧, ⟦amorite|Emoriho|Emorejce⟧ a ⟦jebusite|Jevusiho|Jebúsejce⟧.
 
-[11] Hle, truhla smlouvy Pána celé země přechází před vámi do Jordanu.
+[11] Hle, truhla smlouvy Pána celé země přechází před vámi do ⟦jordan|Jardenu|Jordánu⟧.
 
-[12] Nyní si tedy vezměte dvanáct mužů z kmenů Israele – po jednom muži z každého kmene.
+[12] Nyní si tedy vezměte dvanáct mužů z kmenů ⟦israel|Jisraele|Izraele⟧ – po jednom muži z každého kmene.
 
-[13] Až chodidla nohou kněží, kteří nesou truhlu Yahweh, Pána celé země, spočinou ve vodách Jordanu, vody Jordanu – vody tekoucí shora – budou přerušeny a zastaví se v jedné hradbě.“
+[13] Až chodidla nohou kněží, kteří nesou truhlu ⟦yhwh|Jahveho|Hospodina⟧, Pána celé země, spočinou ve vodách ⟦jordan|Jardenu|Jordánu⟧, vody ⟦jordan|Jardenu|Jordánu⟧ – vody tekoucí shora – budou přerušeny a zastaví se v jedné hradbě.“
 
-[14] Když lid vytáhl ze svých stanů, aby přešel Jordan, a kněží nesli truhlu smlouvy před lidem,
+[14] Když lid vytáhl ze svých stanů, aby přešel ⟦jordan|Jarden|Jordán⟧, a kněží nesli truhlu smlouvy před lidem,
 
-[15] a jakmile ti, kdo nesli truhlu, přišli k Jordanu a nohy kněží, kteří nesli truhlu, se ponořily do okraje vody (Jordan se po celou dobu žně rozlévá přes všechny své břehy),
+[15] a jakmile ti, kdo nesli truhlu, přišli k ⟦jordan|Jardenu|Jordánu⟧ a nohy kněží, kteří nesli truhlu, se ponořily do okraje vody (⟦jordan|Jarden|Jordán⟧ se po celou dobu žně rozlévá přes všechny své břehy),
 
-[16] vody tekoucí shora se zastavily a vzdouvaly se v jedné hradbě velmi daleko, u Adam, města, které je vedle Zarethanu. A vody tekoucí dolů k moři Arabah – k Solnému moři – byly úplně přerušeny. A lid přešel naproti Jerichu.
+[16] vody tekoucí shora se zastavily a vzdouvaly se v jedné hradbě velmi daleko, u Adam, města, které je vedle ⟦zarethan|Cartanu|Sartanu⟧. A vody tekoucí dolů k moři ⟦arabah|Aravy|pustiny⟧ – k Solnému moři – byly úplně přerušeny. A lid přešel naproti Jerichu.
 
-[17] Kněží, kteří nesli truhlu smlouvy Yahweh, stáli pevně na suché zemi uprostřed Jordanu, zatímco celý Israel přecházel po suché zemi, dokud celý národ nedokončil přechod přes Jordan.
+[17] Kněží, kteří nesli truhlu smlouvy ⟦yhwh|Jahveho|Hospodina⟧, stáli pevně na suché zemi uprostřed ⟦jordan|Jardenu|Jordánu⟧, zatímco celý ⟦israel|Jisrael|Izrael⟧ přecházel po suché zemi, dokud celý národ nedokončil přechod přes ⟦jordan|Jarden|Jordán⟧.
 
 ## Změny
 

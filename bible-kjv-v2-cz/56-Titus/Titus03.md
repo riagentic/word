@@ -6,23 +6,23 @@
 
 [3] I my jsme totiž byli kdysi nerozumní, neposlušní, svedení, otroci rozličných vášní a rozkoší, trávili jsme své dny ve zlobě a závisti, byli jsme druhými nenáviděni a nenáviděli jsme jeden druhého.
 
-[4] Když se však zjevila dobrota a láska k lidem *Elohim*, našeho Zachránce,
+[4] Když se však zjevila dobrota a láska k lidem ⟦elohim|Elohim|Boha⟧, našeho Zachránce,
 
-[5] spasil nás, **ne pro skutky, které jsme vykonali ve spravedlnosti, ale podle svého vlastního milosrdenství, koupelí znovuzrození a obnovou *Ruach HaQodesh***,
+[5] spasil nás, **ne pro skutky, které jsme vykonali ve spravedlnosti, ale podle svého vlastního milosrdenství, koupelí znovuzrození a obnovou ⟦ruach-haqodesh|Ruach HaKodeš|Ducha svatého⟧**,
 
-[6] kterého na nás bohatě vylil skrze *Yeshuu Mashiacha*, našeho Zachránce,
+[6] kterého na nás bohatě vylil skrze ⟦yeshua|Ješuu|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧, našeho Zachránce,
 
 [7] abychom, ospravedlněni jeho milostí, se stali dědici podle naděje věčného života.
 
-[8] Spolehlivé je to slovo a chci, abys na tom trval, aby ti, kdo uvěřili *Elohim*, dbali na to, aby se věnovali dobrým skutkům. To je znamenité a užitečné pro lidi.
+[8] Spolehlivé je to slovo a chci, abys na tom trval, aby ti, kdo uvěřili ⟦elohim|Elohim|Bohu⟧, dbali na to, aby se věnovali dobrým skutkům. To je znamenité a užitečné pro lidi.
 
-[9] Vyhýbej se však pošetilým sporům, rodokmenům, rozepřím a hádkám o zákon, neboť jsou neužitečné a bezcenné.
+[9] Vyhýbej se však pošetilým sporům, rodokmenům, rozepřím a hádkám o ⟦torah|Tóru|zákon⟧, neboť jsou neužitečné a bezcenné.
 
 [10] Člověka, který způsobuje rozkoly, po prvním a druhém napomenutí se vzdal,
 
 [11] věda, že takový člověk je zvrácený a hřeší; sám sebe odsuzuje.
 
-[12] Až k tobě pošlu Artemase nebo Tychicuse, přičiň se, abys ke mně přišel do Nikopolis, neboť jsem se rozhodl tam přezimovat.
+[12] Až k tobě pošlu Artemase nebo Tychika, přičiň se, abys ke mně přišel do Nikopolis, neboť jsem se rozhodl tam přezimovat.
 
 [13] Zenase, znalce zákona, a Apollose ochotně vypravuj na cestu; dbej, aby jim nic nechybělo.
 

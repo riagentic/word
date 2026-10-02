@@ -1,18 +1,18 @@
 # Jób 8
 
-[1] Tu odpověděl Bildad Shuachský a řekl:
+[1] Tu odpověděl Bildad ⟦shuhite|Šuchi|Šúchský⟧ a řekl:
 
 [2] „Jak dlouho budeš takové věci mluvit?
 Jak dlouho budou slova tvých úst prudkým větrem?
 
-[3] Copak *Elohim* převrací právo?
-Copak Shaddai převrací spravedlnost?
+[3] Copak ⟦el|El|Bůh⟧ převrací právo?
+Copak ⟦shaddai|Šaddaj|Všemohoucí⟧ převrací spravedlnost?
 
 [4] Jestliže tvé děti proti němu zhřešily,
 poslal je pryč pro jejich přestoupení.
 
-[5] Kdybys usilovně hledal *Elohim*
-a prosil Shaddaie o milost,
+[5] Kdybys usilovně hledal ⟦el|El|Boha⟧
+a prosil ⟦shaddai|Šaddaje|Všemohoucího⟧ o milost,
 
 [6] jsi-li čistý a přímý,
 jistě se pak pro tebe probudí
@@ -36,7 +36,7 @@ Může se rákosu dařit bez vody?
 [12] Ještě je zelený, neposečený,
 a uvadne dřív než kterákoli jiná rostlina.
 
-[13] Takové jsou stezky všech, kdo zapomínají na *Elohim*;
+[13] Takové jsou stezky všech, kdo zapomínají na ⟦el|El|Boha⟧;
 naděje bezbožného zahyne.
 
 [14] Jeho důvěra je jemné vlákno;
@@ -57,7 +57,7 @@ zapře ho: ‚Nikdy jsem tě neviděl.‘
 [19] Hle, to je radost jeho cesty;
 z prachu vyraší jiní.
 
-[20] Hle, *Elohim* nezavrhne bezúhonného muže,
+[20] Hle, ⟦el|El|Bůh⟧ nezavrhne bezúhonného muže,
 ani neuchopí ruku zločinců.
 
 [21] Ještě naplní tvá ústa smíchem
@@ -68,6 +68,7 @@ stan svévolníků už nebude.“
 
 ## Změny
 
+- **"God" → „El“** (v3, 5, 13, 20) – hebrejsky אֵל *El*, ne *Elohim*.
 - **"hypocrite" → „bezbožného“** (v13) – *chanef*; bezbožník, nikoli přímo pokrytec.
 - **"spider's web" – ponecháno jako „pavučina“** (v14) – *bet-akavish*.
 - **"rush... flag" → „papyrus… rákos“** (v11) – *gome… achu*.

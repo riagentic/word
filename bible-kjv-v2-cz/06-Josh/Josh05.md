@@ -1,34 +1,34 @@
 # Jozue 5
 
-[1] Když všichni králové Amoritů, kteří byli za Jordanem na západě, a všichni králové Canaanitů, kteří byli u moře, uslyšeli, že Yahweh vysušil vody Jordanu před syny Israele, dokud nepřešli, rozplynula se jejich srdce a kvůli synům Israele v nich už nezůstal duch.
+[1] Když všichni králové ⟦amorites|Emorim|Emorejců⟧, kteří byli za ⟦jordan|Jardenem|Jordánem⟧ na západě, a všichni králové ⟦canaanites|Kenaanim|Kenaanců⟧, kteří byli u moře, uslyšeli, že ⟦yhwh|Jahve|Hospodin⟧ vysušil vody ⟦jordan|Jardenu|Jordánu⟧ před syny ⟦israel|Jisraele|Izraele⟧, dokud nepřešli, rozplynula se jejich srdce a kvůli synům ⟦israel|Jisraele|Izraele⟧ v nich už nezůstal duch.
 
-[2] V té době řekl Yahweh Joshuovi: „Udělej si kamenné nože a obřízni syny Israele podruhé.“
+[2] V té době řekl ⟦yhwh|Jahve|Hospodin⟧ ⟦joshua|Jehošuovi|Jozuovi⟧: „Udělej si kamenné nože a obřízni syny ⟦israel|Jisraele|Izraele⟧ podruhé.“
 
-[3] Joshua si tedy udělal kamenné nože a obřezal syny Israele v Gibeath-haaraloth – na Pahorku předkožek.
+[3] ⟦joshua|Jehošua|Jozue⟧ si tedy udělal kamenné nože a obřezal syny ⟦israel|Jisraele|Izraele⟧ v ⟦gibeath-haaraloth|Givat HaAralot|Gibeat-aralót⟧ – na Pahorku předkožek.
 
-[4] Toto je důvod, proč je Joshua obřezal: všechen lid, který vyšel z Egypta – muži, všichni bojovníci – zemřel na poušti na cestě po odchodu z Egypta.
+[4] Toto je důvod, proč je ⟦joshua|Jehošua|Jozue⟧ obřezal: všechen lid, který vyšel z ⟦egypt|Micrajim|Egypta⟧ – muži, všichni bojovníci – zemřel na poušti na cestě po odchodu z ⟦egypt|Micrajim|Egypta⟧.
 
-[5] Ačkoli všechen lid, který vyšel, byl obřezán, všechen lid narozený na poušti na cestě po odchodu z Egypta obřezán nebyl.
+[5] Ačkoli všechen lid, který vyšel, byl obřezán, všechen lid narozený na poušti na cestě po odchodu z ⟦egypt|Micrajim|Egypta⟧ obřezán nebyl.
 
-[6] Synové Israele totiž chodili čtyřicet let po poušti, dokud nevyhynul celý národ – bojovníci, kteří vyšli z Egypta – protože neposlouchali hlas Yahweh. Jim Yahweh přísahal, že jim nedá spatřit zemi, o které Yahweh přísahal jejich otcům, že ji dá nám – zemi oplývající mlékem a medem.
+[6] Synové ⟦israel|Jisraele|Izraele⟧ totiž chodili čtyřicet let po poušti, dokud nevyhynul celý národ – bojovníci, kteří vyšli z ⟦egypt|Micrajim|Egypta⟧ – protože neposlouchali hlas ⟦yhwh|Jahveho|Hospodina⟧. Jim ⟦yhwh|Jahve|Hospodin⟧ přísahal, že jim nedá spatřit zemi, o které ⟦yhwh|Jahve|Hospodin⟧ přísahal jejich otcům, že ji dá nám – zemi oplývající mlékem a medem.
 
-[7] Jejich syny, které povolal na jejich místo – ty Joshua obřezal, neboť byli neobřezaní, protože nebyli na cestě obřezáni.
+[7] Jejich syny, které povolal na jejich místo – ty ⟦joshua|Jehošua|Jozue⟧ obřezal, neboť byli neobřezaní, protože nebyli na cestě obřezáni.
 
 [8] Když se celý národ dal obřezat, zůstali na svých místech v táboře, dokud se neuzdravili.
 
-[9] A Yahweh řekl Joshuovi: „Dnes jsem z vás svalil potupu Egypta.“ Proto se to místo až do dnešního dne nazývá Gilgal („Valení“).
+[9] A ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦joshua|Jehošuovi|Jozuovi⟧: „Dnes jsem z vás svalil potupu ⟦egypt|Micrajim|Egypta⟧.“ Proto se to místo až do dnešního dne nazývá ⟦gilgal|Gilgal|Gilgál⟧ („Valení“).
 
-[10] Synové Israele tábořili v Gilgalu a slavili Paschu čtrnáctého dne měsíce večer na pláních Jericha.
+[10] Synové ⟦israel|Jisraele|Izraele⟧ tábořili v ⟦gilgal|Gilgalu|Gilgálu⟧ a slavili ⟦pesach|Pesach|hod beránka⟧ čtrnáctého dne měsíce večer na pláních Jericha.
 
-[11] Nazítří po Pascha, právě toho dne, jedli z úrody země – nekvašené chleby a pražené obilí.
+[11] Nazítří po ⟦pesach|Pesachu|hodu beránka⟧, právě toho dne, jedli z úrody země – nekvašené chleby a pražené obilí.
 
-[12] Mana přestala den poté, co jedli z úrody země; synové Israele už manu neměli, ale toho roku jedli z výnosu země Canaan.
+[12] Mana přestala den poté, co jedli z úrody země; synové ⟦israel|Jisraele|Izraele⟧ už manu neměli, ale toho roku jedli z výnosu země Kenaan.
 
-[13] Když byl Joshua u Jericha, pozvedl oči a podíval se, a hle, před ním stál muž s taseným mečem v ruce. Joshua k němu přistoupil a řekl mu: „Jsi s námi, nebo s našimi protivníky?“
+[13] Když byl ⟦joshua|Jehošua|Jozue⟧ u Jericha, pozvedl oči a podíval se, a hle, před ním stál muž s taseným mečem v ruce. ⟦joshua|Jehošua|Jozue⟧ k němu přistoupil a řekl mu: „Jsi s námi, nebo s našimi protivníky?“
 
-[14] Odpověděl: „Ne; ale jako velitel vojska Yahweh jsem nyní přišel.“ Tu Joshua padl tváří k zemi, poklonil se a řekl mu: „Co praví můj pán svému služebníkovi?“
+[14] Odpověděl: „Ne; ale jako velitel vojska ⟦yhwh|Jahveho|Hospodina⟧ jsem nyní přišel.“ Tu ⟦joshua|Jehošua|Jozue⟧ padl tváří k zemi, poklonil se a řekl mu: „Co praví můj pán svému služebníkovi?“
 
-[15] A velitel vojska Yahweh řekl Joshuovi: „Zuj si sandál z nohy, neboť místo, na kterém stojíš, je svaté.“ A Joshua tak učinil.
+[15] A velitel vojska ⟦yhwh|Jahveho|Hospodina⟧ řekl ⟦joshua|Jehošuovi|Jozuovi⟧: „Zuj si sandál z nohy, neboť místo, na kterém stojíš, je svaté.“ A ⟦joshua|Jehošua|Jozue⟧ tak učinil.
 
 ## Změny
 

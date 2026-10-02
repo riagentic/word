@@ -1,12 +1,12 @@
 # Exodus 28
 
-[1] "Bring near to yourself Aaron your brother, and his sons with him, from among the children of Israel, to serve me as priests — Aaron, and Aaron's sons: Nadab and Abihu, Eleazar and Ithamar.
+[1] "Bring near to yourself ⟦aaron|Aharon|Aaron⟧ your brother, and his sons with him, from among the children of ⟦israel|Yisrael|Israel⟧, to serve me as priests — ⟦aaron|Aharon|Aaron⟧, and ⟦aaron|Aharon's|Aaron's⟧ sons: ⟦nadab|Nadav|Nadab⟧ and ⟦abihu|Avihu|Abihu⟧, ⟦eleazar|Elazar|Eleazar⟧ and ⟦ithamar|Itamar|Ithamar⟧.
 
-[2] You shall make holy garments for Aaron your brother, for glory and for beauty.
+[2] You shall make holy garments for ⟦aaron|Aharon|Aaron⟧ your brother, for glory and for beauty.
 
-[3] You shall speak to all the skillful of heart, whom I have filled with a spirit of skill, that they may make Aaron's garments to consecrate him, that he may serve me as priest.
+[3] You shall speak to all the skillful of heart, whom I have filled with a spirit of skill, that they may make ⟦aaron|Aharon's|Aaron's⟧ garments to consecrate him, that he may serve me as priest.
 
-[4] These are the garments that they shall make: a breastpiece, an ephod, a robe, a tunic of checker-work, a turban, and a sash. They shall make holy garments for Aaron your brother and his sons to serve me as priests.
+[4] These are the garments that they shall make: a breastpiece, an ephod, a robe, a tunic of checker-work, a turban, and a sash. They shall make holy garments for ⟦aaron|Aharon|Aaron⟧ your brother and his sons to serve me as priests.
 
 [5] They shall take gold, blue, purple, and scarlet yarns, and fine linen.
 
@@ -16,13 +16,13 @@
 
 [8] The skillfully woven band on it for fastening, of the same workmanship, shall be of one piece with it — of gold, blue, purple, and scarlet yarns, and fine twined linen.
 
-[9] You shall take two onyx stones and engrave on them the names of the children of Israel:
+[9] You shall take two onyx stones and engrave on them the names of the children of ⟦israel|Yisrael|Israel⟧:
 
 [10] six of their names on the one stone and the names of the remaining six on the other stone, according to their birth order.
 
-[11] With the work of an engraver in stone, as the engravings of a signet, you shall engrave the two stones with the names of the children of Israel. You shall set them in settings of gold filigree.
+[11] With the work of an engraver in stone, as the engravings of a signet, you shall engrave the two stones with the names of the children of ⟦israel|Yisrael|Israel⟧. You shall set them in settings of gold filigree.
 
-[12] You shall set the two stones on the shoulder-pieces of the ephod as memorial stones for the children of Israel; and Aaron shall bear their names before Yahweh on his two shoulders as a memorial.
+[12] You shall set the two stones on the shoulder-pieces of the ephod as memorial stones for the children of ⟦israel|Yisrael|Israel⟧; and ⟦aaron|Aharon|Aaron⟧ shall bear their names before ⟦yhwh|Yahweh|the LORD⟧ on his two shoulders as a memorial.
 
 [13] You shall make settings of gold filigree,
 
@@ -40,7 +40,7 @@
 
 [20] and the fourth row: topaz, onyx, and jasper. They shall be set in gold filigree.
 
-[21] The stones shall be according to the names of the sons of Israel, twelve, according to their names; they shall be like the engravings of a signet, each with its name, for the twelve tribes.
+[21] The stones shall be according to the names of the sons of ⟦israel|Yisrael|Israel⟧, twelve, according to their names; they shall be like the engravings of a signet, each with its name, for the twelve tribes.
 
 [22] You shall make for the breastpiece chains of pure gold, twisted like cords.
 
@@ -56,9 +56,9 @@
 
 [28] They shall bind the breastpiece by its rings to the rings of the ephod with a blue cord, so that it may lie on the skillfully woven band of the ephod, and that the breastpiece not come loose from the ephod.
 
-[29] So Aaron shall bear the names of the sons of Israel on the breastpiece of judgment on his heart, when he enters the Holy Place, as a continual memorial before Yahweh.
+[29] So ⟦aaron|Aharon|Aaron⟧ shall bear the names of the sons of ⟦israel|Yisrael|Israel⟧ on the breastpiece of judgment on his heart, when he enters the Holy Place, as a continual memorial before ⟦yhwh|Yahweh|the LORD⟧.
 
-[30] In the breastpiece of judgment you shall put the Urim and the Thummim, and they shall be on Aaron's heart when he goes in before Yahweh; and Aaron shall bear the judgment of the children of Israel on his heart before Yahweh continually.
+[30] In the breastpiece of judgment you shall put the Urim and the ⟦thummim|Tummim|Thummim⟧, and they shall be on ⟦aaron|Aharon's|Aaron's⟧ heart when he goes in before ⟦yhwh|Yahweh|the LORD⟧; and ⟦aaron|Aharon|Aaron⟧ shall bear the judgment of the children of ⟦israel|Yisrael|Israel⟧ on his heart before ⟦yhwh|Yahweh|the LORD⟧ continually.
 
 [31] You shall make the robe of the ephod all of blue.
 
@@ -68,23 +68,23 @@
 
 [34] a golden bell and a pomegranate, a golden bell and a pomegranate, around the hem of the robe.
 
-[35] It shall be on Aaron when he ministers, so that its sound may be heard when he goes into the Holy Place before Yahweh and when he comes out, so that he does not die.
+[35] It shall be on ⟦aaron|Aharon|Aaron⟧ when he ministers, so that its sound may be heard when he goes into the Holy Place before ⟦yhwh|Yahweh|the LORD⟧ and when he comes out, so that he does not die.
 
-[36] You shall make a plate of pure gold and engrave on it, like the engravings of a signet, 'Holy to Yahweh.'
+[36] You shall make a plate of pure gold and engrave on it, like the engravings of a signet, 'Holy to ⟦yhwh|Yahweh|the LORD⟧.'
 
 [37] You shall fasten it on a blue cord, so that it may be on the turban; it shall be on the front of the turban.
 
-[38] It shall be on Aaron's forehead, and Aaron shall bear any iniquity in connection with the holy things that the children of Israel consecrate, of all their holy gifts; it shall always be on his forehead, that they may be accepted before Yahweh.
+[38] It shall be on ⟦aaron|Aharon's|Aaron's⟧ forehead, and ⟦aaron|Aharon|Aaron⟧ shall bear any iniquity in connection with the holy things that the children of ⟦israel|Yisrael|Israel⟧ consecrate, of all their holy gifts; it shall always be on his forehead, that they may be accepted before ⟦yhwh|Yahweh|the LORD⟧.
 
 [39] You shall weave the tunic in checker-work of fine linen, and make a turban of fine linen, and you shall make a sash, the work of an embroiderer.
 
-[40] For Aaron's sons you shall make tunics, sashes, and headdresses; you shall make them for glory and beauty.
+[40] For ⟦aaron|Aharon's|Aaron's⟧ sons you shall make tunics, sashes, and headdresses; you shall make them for glory and beauty.
 
-[41] You shall put them on Aaron your brother and his sons with him; you shall anoint them, ordain them, and consecrate them, that they may serve me as priests.
+[41] You shall put them on ⟦aaron|Aharon|Aaron⟧ your brother and his sons with him; you shall anoint them, ordain them, and consecrate them, that they may serve me as priests.
 
 [42] You shall make for them linen undergarments to cover their naked flesh; they shall reach from the waist to the thighs.
 
-[43] They shall be on Aaron and on his sons when they go into the Tent of Meeting or when they come near the altar to minister in the Holy Place, that they not bear iniquity and die. This shall be a statute forever for him and for his offspring after him."
+[43] They shall be on ⟦aaron|Aharon|Aaron⟧ and on his sons when they go into the Tent of Meeting or when they come near the altar to minister in the Holy Place, that they not bear iniquity and die. This shall be a statute forever for him and for his offspring after him."
 
 ## Changes
 

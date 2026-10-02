@@ -1,6 +1,6 @@
 # Ezekiel 19
 
-[1] And you, take up a lamentation for the princes of Israel,
+[1] And you, take up a lamentation for the princes of ⟦israel|Yisrael|Israel⟧,
 
 [2] and say:
 
@@ -16,7 +16,7 @@ he devoured men.
 [4] The nations heard about him;
 he was caught in their pit,
 and they brought him with hooks
-to the land of Egypt.
+to the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
 [5] When she saw that she waited in vain,
 that her hope was lost,
@@ -39,10 +39,10 @@ they spread their net over him;
 he was taken in their pit.
 
 [9] With hooks they put him in a cage
-and brought him to the king of Babylon;
+and brought him to the king of ⟦babylon|Bavel|Babylon⟧;
 they brought him into custody,
 that his voice should no more be heard
-on the mountains of Israel.
+on the mountains of ⟦israel|Yisrael|Israel⟧.
 
 [10] Your mother was like a vine in a vineyard,
 planted by the water,

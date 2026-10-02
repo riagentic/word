@@ -1,8 +1,8 @@
 # Ezechiel 7
 
-[1] Přišlo ke mně slovo Yahweh:
+[1] Přišlo ke mně slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[2] „A ty, synu člověka, toto praví Pán Yahweh zemi Israele:
+[2] „A ty, synu člověka, toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ zemi ⟦israel|Jisraele|Izraele⟧:
 
 ‚Konec! Přišel konec
 na čtyři kouty země.
@@ -15,9 +15,9 @@ a potrestám tě za všechny tvé ohavnosti.
 [4] Mé oko tě nebude šetřit a nebudu mít slitování,
 ale potrestám tě za tvé cesty,
 dokud jsou tvé ohavnosti uprostřed tebe.
-Tehdy poznáš, že já jsem Yahweh.‘“
+Tehdy poznáš, že já jsem ⟦yhwh|Jahve|Hospodin⟧.‘“
 
-[5] Toto praví Pán Yahweh:
+[5] Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧:
 
 „Neštěstí za neštěstím! Hle, přichází.
 
@@ -38,7 +38,7 @@ a potrestám tě za všechny tvé ohavnosti.
 [9] Mé oko nebude šetřit a nebudu mít slitování.
 Potrestám tě podle tvých cest,
 dokud jsou tvé ohavnosti uprostřed tebe.
-Tehdy poznáš, že já jsem Yahweh, který bije.
+Tehdy poznáš, že já jsem ⟦yhwh|Jahve|Hospodin⟧, který bije.
 
 [10] Hle, ten den!
 Hle, přichází!
@@ -84,7 +84,7 @@ a pleš na všech jejich hlavách.
 [19] Své stříbro budou házet na ulice
 a jejich zlato bude jako něco nečistého.
 Jejich stříbro a zlato je nebude moci vysvobodit
-v den hněvu Yahweh.
+v den hněvu ⟦yhwh|Jahveho|Hospodina⟧.
 Nemohou jím utišit svůj hlad
 ani naplnit své břicho.
 Neboť bylo kamenem úrazu jejich nepravosti.
@@ -116,14 +116,14 @@ ale nebude žádný.
 [26] Neštěstí přichází za neštěstím,
 zpráva následuje za zprávou.
 Hledají u proroka vidění,
-zatímco zákon se ztrácí od kněze
+zatímco ⟦torah|Tóra|zákon⟧ se ztrácí od kněze
 a rada od starších.
 
 [27] Král truchlí, kníže je zahaleno zoufalstvím
 a ruce lidu země jsou ochromeny hrůzou.
 Podle jejich cesty s nimi naložím
 a podle jejich soudů je budu soudit,
-a poznají, že já jsem Yahweh.“
+a poznají, že já jsem ⟦yhwh|Jahve|Hospodin⟧.“
 
 ## Změny
 

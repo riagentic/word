@@ -1,24 +1,24 @@
 # Exodus 11
 
-[1] Yahweh said to Moses, "One more plague I will bring upon Pharaoh and upon Egypt; afterward he will let you go from here. When he lets you go, he will drive you out from here altogether.
+[1] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "One more plague I will bring upon ⟦pharaoh|Paroh|Pharaoh⟧ and upon ⟦egypt|Mitzrayim|Egypt⟧; afterward he will let you go from here. When he lets you go, he will drive you out from here altogether.
 
 [2] Speak now in the ears of the people, and let every man ask from his neighbor, and every woman from her neighbor, articles of silver and articles of gold."
 
-[3] And Yahweh gave the people favor in the sight of the Egyptians. Moreover, the man Moses was very great in the land of Egypt, in the sight of Pharaoh's servants and in the sight of the people.
+[3] And ⟦yhwh|Yahweh|the LORD⟧ gave the people favor in the sight of the ⟦egyptians|Mitzrim|Egyptians⟧. Moreover, the man ⟦moses|Moshe|Moses⟧ was very great in the land of ⟦egypt|Mitzrayim|Egypt⟧, in the sight of ⟦pharaoh|Paroh|Pharaoh⟧'s servants and in the sight of the people.
 
-[4] Moses said, "Thus says Yahweh: 'About midnight I will go out into the midst of Egypt,
+[4] ⟦moses|Moshe|Moses⟧ said, "Thus says ⟦yhwh|Yahweh|the LORD⟧: 'About midnight I will go out into the midst of ⟦egypt|Mitzrayim|Egypt⟧,
 
-[5] and every firstborn in the land of Egypt shall die — from the firstborn of Pharaoh who sits on his throne, to the firstborn of the slave-girl who is behind the handmill, and every firstborn of the animals.
+[5] and every firstborn in the land of ⟦egypt|Mitzrayim|Egypt⟧ shall die — from the firstborn of ⟦pharaoh|Paroh|Pharaoh⟧ who sits on his throne, to the firstborn of the slave-girl who is behind the handmill, and every firstborn of the animals.
 
-[6] There shall be a great cry throughout all the land of Egypt, such as there never has been and never shall be again.
+[6] There shall be a great cry throughout all the land of ⟦egypt|Mitzrayim|Egypt⟧, such as there never has been and never shall be again.
 
-[7] But against any of the children of Israel no dog shall so much as snarl, against man or beast, so that you may know that Yahweh distinguishes between Egypt and Israel.'
+[7] But against any of the children of ⟦israel|Yisrael|Israel⟧ no dog shall so much as snarl, against man or beast, so that you may know that ⟦yhwh|Yahweh|the LORD⟧ distinguishes between ⟦egypt|Mitzrayim|Egypt⟧ and ⟦israel|Yisrael|Israel⟧.'
 
-[8] And all these your servants shall come down to me and bow themselves before me, saying, 'Go out, you and all the people who follow you!' And after that I will go out." And he went out from Pharaoh in burning anger.
+[8] And all these your servants shall come down to me and bow themselves before me, saying, 'Go out, you and all the people who follow you!' And after that I will go out." And he went out from ⟦pharaoh|Paroh|Pharaoh⟧ in burning anger.
 
-[9] Yahweh said to Moses, "Pharaoh will not listen to you, so that my wonders may be multiplied in the land of Egypt."
+[9] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "⟦pharaoh|Paroh|Pharaoh⟧ will not listen to you, so that my wonders may be multiplied in the land of ⟦egypt|Mitzrayim|Egypt⟧."
 
-[10] Moses and Aaron did all these wonders before Pharaoh; but Yahweh hardened Pharaoh's heart, and he would not let the children of Israel go out of his land.
+[10] ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧ did all these wonders before ⟦pharaoh|Paroh|Pharaoh⟧; but ⟦yhwh|Yahweh|the LORD⟧ hardened ⟦pharaoh|Paroh|Pharaoh⟧'s heart, and he would not let the children of ⟦israel|Yisrael|Israel⟧ go out of his land.
 
 ## Changes
 

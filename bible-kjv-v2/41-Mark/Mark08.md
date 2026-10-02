@@ -20,7 +20,7 @@
 
 [10] And immediately he got into the boat with his disciples and went to the district of Dalmanutha.
 
-[11] The Pharisees came and began to argue with him, seeking from him a sign from heaven to test him.
+[11] The ⟦pharisees|Perushim|Pharisees⟧ came and began to argue with him, seeking from him a sign from heaven to test him.
 
 [12] And he sighed deeply in his spirit and said, "Why does this generation seek a sign? Truly, I say to you, no sign will be given to this generation."
 
@@ -28,11 +28,11 @@
 
 [14] Now they had forgotten to bring bread, and they had only one loaf with them in the boat.
 
-[15] And he cautioned them, saying, "Watch out; beware of the leaven of the Pharisees and the leaven of Herod."
+[15] And he cautioned them, saying, "Watch out; beware of the leaven of the ⟦pharisees|Perushim|Pharisees⟧ and the leaven of ⟦herod|Herodes|Herod⟧."
 
 [16] And they began discussing with one another the fact that they had no bread.
 
-[17] And *Yeshua*, aware of this, said to them, "Why are you discussing the fact that you have no bread? Do you not yet perceive or understand? Are your hearts hardened?
+[17] And ⟦yeshua|Yeshua|Jesus⟧, aware of this, said to them, "Why are you discussing the fact that you have no bread? Do you not yet perceive or understand? Are your hearts hardened?
 
 [18] Having eyes do you not see, and having ears do you not hear? And do you not remember?
 
@@ -42,29 +42,29 @@
 
 [21] And he said to them, "Do you not yet understand?"
 
-[22] And they came to Bethsaida. And some people brought to him a blind man and begged him to touch him.
+[22] And they came to ⟦bethsaida|Beit Tzaidah|Bethsaida⟧. And some people brought to him a blind man and begged him to touch him.
 
 [23] And he took the blind man by the hand and led him out of the village, and when he had spit on his eyes and laid his hands on him, he asked him, "Do you see anything?"
 
 [24] And he looked up and said, "I see people, but they look like trees, walking."
 
-[25] Then *Yeshua* laid his hands on his eyes again; and he opened his eyes, his sight was restored, and he saw everything clearly.
+[25] Then ⟦yeshua|Yeshua|Jesus⟧ laid his hands on his eyes again; and he opened his eyes, his sight was restored, and he saw everything clearly.
 
 [26] And he sent him to his home, saying, "Do not even enter the village."
 
-[27] And *Yeshua* went on with his disciples to the villages of Caesarea Philippi. And on the way he asked his disciples, "Who do people say that I am?"
+[27] And ⟦yeshua|Yeshua|Jesus⟧ went on with his disciples to the villages of Caesarea Philippi. And on the way he asked his disciples, "Who do people say that I am?"
 
-[28] And they told him, "John the Immerser; and others say, Elijah; and others, one of the prophets."
+[28] And they told him, "⟦john|Yochanan|John⟧ the ⟦immerser|Immerser|Baptist⟧; and others say, ⟦elijah|Eliyahu|Elijah⟧; and others, one of the prophets."
 
-[29] And he asked them, "But who do you say that I am?" *Kefa* answered him, "**You are the *Mashiach*.**"
+[29] And he asked them, "But who do you say that I am?" ⟦peter|Kefa|Peter⟧ answered him, "**You are the ⟦mashiach|Mashiach|Christ⟧.**"
 
 [30] And he strictly charged them to tell no one about him.
 
 [31] And he began to teach them that the Son of Man must suffer many things and be rejected by the elders and the chief priests and the scribes and be killed, and after three days rise again.
 
-[32] And he said this plainly. And *Kefa* took him aside and began to rebuke him.
+[32] And he said this plainly. And ⟦peter|Kefa|Peter⟧ took him aside and began to rebuke him.
 
-[33] But turning and seeing his disciples, he rebuked *Kefa* and said, "Get behind me, Satan! For you are not setting your mind on the things of *Elohim*, but on the things of man."
+[33] But turning and seeing his disciples, he rebuked ⟦peter|Kefa|Peter⟧ and said, "Get behind me, Satan! For you are not setting your mind on the things of ⟦elohim|Elohim|God⟧, but on the things of man."
 
 [34] And calling the crowd to him with his disciples, he said to them, "**If anyone would come after me, let him deny himself and take up his cross and follow me.**
 

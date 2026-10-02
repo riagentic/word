@@ -1,36 +1,36 @@
 # Numeri 31
 
-[1] Yahweh promluvil k Mosesovi a řekl:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a řekl:
 
-[2] „Vykonej pomstu synů Israele na Midianitech; potom budeš připojen ke svému lidu.“
+[2] „Vykonej pomstu synů ⟦israel|Jisraele|Izraele⟧ na ⟦midianites|Midjanim|Midjáncích⟧; potom budeš připojen ke svému lidu.“
 
-[3] Moses tedy promluvil k lidu: „Vyzbrojte ze svého středu muže k válce, ať vytáhnou proti Midianu a vykonají na Midianu pomstu Yahweh.
+[3] ⟦moses|Moše|Mojžíš⟧ tedy promluvil k lidu: „Vyzbrojte ze svého středu muže k válce, ať vytáhnou proti ⟦midian|Midjanu|Midjánu⟧ a vykonají na ⟦midian|Midjanu|Midjánu⟧ pomstu ⟦yhwh|Jahveho|Hospodina⟧.
 
-[4] Po tisíci z každého kmene, ze všech kmenů Israele, pošlete do války.“
+[4] Po tisíci z každého kmene, ze všech kmenů ⟦israel|Jisraele|Izraele⟧, pošlete do války.“
 
-[5] Z tisíců Israele tedy bylo odvedeno po tisíci z každého kmene – dvanáct tisíc vyzbrojených k válce.
+[5] Z tisíců ⟦israel|Jisraele|Izraele⟧ tedy bylo odvedeno po tisíci z každého kmene – dvanáct tisíc vyzbrojených k válce.
 
-[6] Moses je poslal – po tisíci z každého kmene – do války; je a Phinehase, syna kněze Eleazara, se svatým náčiním a s trubkami k poplachu v jeho ruce.
+[6] ⟦moses|Moše|Mojžíš⟧ je poslal – po tisíci z každého kmene – do války; je a Pinchase, syna kněze ⟦eleazar|Elazara|Eleazara⟧, se svatým náčiním a s trubkami k poplachu v jeho ruce.
 
-[7] Bojovali proti Midianu, jak Yahweh přikázal Mosesovi, a zabili všechny muže.
+[7] Bojovali proti ⟦midian|Midjanu|Midjánu⟧, jak ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧, a zabili všechny muže.
 
-[8] Spolu s ostatními pobitými zabili krále Midianu – Eviho, Rekema, Zura, Hura a Rebu – pět králů Midianu; a Balaama, syna Beora, zabili mečem.
+[8] Spolu s ostatními pobitými zabili krále ⟦midian|Midjanu|Midjánu⟧ – ⟦evi|Eviho|Evího⟧, Rekema, ⟦zur|Cura|Súra⟧, ⟦hur|Chura|Chúra⟧ a ⟦reba|Revu|Rebaa⟧ – pět králů ⟦midian|Midjanu|Midjánu⟧; a ⟦balaam|Bilama|Bileáma⟧, syna ⟦beor|Beora|Beóra⟧, zabili mečem.
 
-[9] Synové Israele zajali ženy Midianu s jejich malými dětmi a jako kořist pobrali všechen jejich dobytek, všechna jejich stáda a všechen jejich majetek.
+[9] Synové ⟦israel|Jisraele|Izraele⟧ zajali ženy ⟦midian|Midjanu|Midjánu⟧ s jejich malými dětmi a jako kořist pobrali všechen jejich dobytek, všechna jejich stáda a všechen jejich majetek.
 
 [10] Všechna města, v nichž sídlili, a všechna jejich tábořiště spálili ohněm.
 
 [11] Vzali všechnu kořist a všechen lup, lidi i zvířata.
 
-[12] Zajatce, lup i kořist přivedli k Mosesovi, ke knězi Eleazarovi a k pospolitosti synů Israele do tábora na moabských pláních u Jordanu naproti Jerichu.
+[12] Zajatce, lup i kořist přivedli k ⟦moses|Mošovi|Mojžíšovi⟧, ke knězi ⟦eleazar|Elazarovi|Eleazarovi⟧ a k pospolitosti synů ⟦israel|Jisraele|Izraele⟧ do tábora na ⟦moab|moavských|moábských⟧ pláních u ⟦jordan|Jardenu|Jordánu⟧ naproti Jerichu.
 
-[13] Moses, kněz Eleazar a všichni předáci pospolitosti jim vyšli naproti ven z tábora.
+[13] ⟦moses|Moše|Mojžíš⟧, kněz ⟦eleazar|Elazar|Eleazar⟧ a všichni předáci pospolitosti jim vyšli naproti ven z tábora.
 
-[14] Moses se rozhněval na důstojníky vojska – velitele tisíců a velitele setnin – kteří přišli z válečné výpravy.
+[14] ⟦moses|Moše|Mojžíš⟧ se rozhněval na důstojníky vojska – velitele tisíců a velitele setnin – kteří přišli z válečné výpravy.
 
-[15] Moses jim řekl: „Vy jste nechali naživu všechny ženy?
+[15] ⟦moses|Moše|Mojžíš⟧ jim řekl: „Vy jste nechali naživu všechny ženy?
 
-[16] Hle, právě ony na Balaamovu radu svedly syny Israele k věrolomnosti vůči Yahweh ve věci Peoru, a tak na pospolitost Yahweh přišla rána.
+[16] Hle, právě ony na ⟦balaam|Bilamovu|Bileámovu⟧ radu svedly syny ⟦israel|Jisraele|Izraele⟧ k věrolomnosti vůči ⟦yhwh|Jahvovi|Hospodinu⟧ ve věci ⟦peor|Peoru|Peóru⟧, a tak na pospolitost ⟦yhwh|Jahveho|Hospodina⟧ přišla rána.
 
 [17] Nyní tedy zabijte každého mužského pohlaví mezi malými dětmi a zabijte každou ženu, která poznala muže tím, že s ním ležela.
 
@@ -40,7 +40,7 @@
 
 [20] Očistěte každý oděv, každou věc z kůže, všechno zhotovené z kozí srsti a každou věc ze dřeva.“
 
-[21] Kněz Eleazar řekl válečníkům, kteří šli do boje: „Toto je ustanovení zákona, které Yahweh přikázal Mosesovi:
+[21] Kněz ⟦eleazar|Elazar|Eleazar⟧ řekl válečníkům, kteří šli do boje: „Toto je ustanovení zákona, které ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧:
 
 [22] jen zlato, stříbro, bronz, železo, cín a olovo –
 
@@ -48,19 +48,19 @@
 
 [24] Sedmého dne si vyperte šaty a budete čistí; potom smíte vejít do tábora.“
 
-[25] Yahweh promluvil k Mosesovi a řekl:
+[25] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a řekl:
 
-[26] „Sečti lup, který byl zajat, lidi i zvířata – ty, kněz Eleazar a hlavy otcovských domů pospolitosti –
+[26] „Sečti lup, který byl zajat, lidi i zvířata – ty, kněz ⟦eleazar|Elazar|Eleazar⟧ a hlavy otcovských domů pospolitosti –
 
 [27] a rozděl lup na dvě poloviny: mezi bojovníky, kteří vytáhli do boje, a celou pospolitost.
 
-[28] Od válečníků, kteří vytáhli do boje, vybereš daň pro Yahweh: jednoho z každých pěti set – z lidí, ze skotu, z oslů a z ovcí.
+[28] Od válečníků, kteří vytáhli do boje, vybereš daň pro ⟦yhwh|Jahveho|Hospodina⟧: jednoho z každých pěti set – z lidí, ze skotu, z oslů a z ovcí.
 
-[29] Vezmi to z jejich poloviny a dej to knězi Eleazarovi jako příspěvek pro Yahweh.
+[29] Vezmi to z jejich poloviny a dej to knězi ⟦eleazar|Elazarovi|Eleazarovi⟧ jako příspěvek pro ⟦yhwh|Jahveho|Hospodina⟧.
 
-[30] Z poloviny patřící synům Israele vezmi jednoho z každých padesáti – z lidí, ze skotu, z oslů, z ovcí, ze všech druhů zvířat – a dej je Levitům, kteří drží stráž při příbytku Yahweh.“
+[30] Z poloviny patřící synům ⟦israel|Jisraele|Izraele⟧ vezmi jednoho z každých padesáti – z lidí, ze skotu, z oslů, z ovcí, ze všech druhů zvířat – a dej je ⟦levites|Levijim|lévijcům⟧, kteří drží stráž při příbytku ⟦yhwh|Jahveho|Hospodina⟧.“
 
-[31] Moses a kněz Eleazar učinili, jak Yahweh přikázal Mosesovi.
+[31] ⟦moses|Moše|Mojžíš⟧ a kněz ⟦eleazar|Elazar|Eleazar⟧ učinili, jak ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧.
 
 [32] Lup, zbytek kořisti, kterou válečníci uloupili, činil 675 000 ovcí,
 
@@ -72,17 +72,17 @@
 
 [36] Polovina – podíl těch, kdo vytáhli do války – činila 337 500 ovcí;
 
-[37] a daň pro Yahweh z ovcí činila 675.
+[37] a daň pro ⟦yhwh|Jahveho|Hospodina⟧ z ovcí činila 675.
 
-[38] Skotu bylo 36 000, z toho daň pro Yahweh 72.
+[38] Skotu bylo 36 000, z toho daň pro ⟦yhwh|Jahveho|Hospodina⟧ 72.
 
-[39] Oslů bylo 30 500, z toho daň pro Yahweh 61.
+[39] Oslů bylo 30 500, z toho daň pro ⟦yhwh|Jahveho|Hospodina⟧ 61.
 
-[40] Lidí bylo 16 000, z nich daň pro Yahweh 32.
+[40] Lidí bylo 16 000, z nich daň pro ⟦yhwh|Jahveho|Hospodina⟧ 32.
 
-[41] Moses dal daň, příspěvek pro Yahweh, knězi Eleazarovi, jak Yahweh přikázal Mosesovi.
+[41] ⟦moses|Moše|Mojžíš⟧ dal daň, příspěvek pro ⟦yhwh|Jahveho|Hospodina⟧, knězi ⟦eleazar|Elazarovi|Eleazarovi⟧, jak ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧.
 
-[42] Polovina patřící synům Israele, kterou Moses oddělil od mužů, kteří bojovali –
+[42] Polovina patřící synům ⟦israel|Jisraele|Izraele⟧, kterou ⟦moses|Moše|Mojžíš⟧ oddělil od mužů, kteří bojovali –
 
 [43] polovina patřící pospolitosti tedy činila 337 500 ovcí,
 
@@ -92,21 +92,21 @@
 
 [46] a 16 000 lidí –
 
-[47] z poloviny synů Israele vzal Moses jednoho z každých padesáti, z lidí i ze zvířat, a dal je Levitům, kteří drželi stráž při příbytku Yahweh, jak Yahweh přikázal Mosesovi.
+[47] z poloviny synů ⟦israel|Jisraele|Izraele⟧ vzal ⟦moses|Moše|Mojžíš⟧ jednoho z každých padesáti, z lidí i ze zvířat, a dal je ⟦levites|Levijim|lévijcům⟧, kteří drželi stráž při příbytku ⟦yhwh|Jahveho|Hospodina⟧, jak ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧.
 
-[48] Důstojníci nad tisíci vojska, velitelé tisíců a velitelé setnin, přistoupili k Mosesovi
+[48] Důstojníci nad tisíci vojska, velitelé tisíců a velitelé setnin, přistoupili k ⟦moses|Mošovi|Mojžíšovi⟧
 
-[49] a řekli Mosesovi: „Tvoji služebníci sečetli válečníky, kteří jsou pod naším velením, a nechybí z nás ani jeden.
+[49] a řekli ⟦moses|Mošovi|Mojžíšovi⟧: „Tvoji služebníci sečetli válečníky, kteří jsou pod naším velením, a nechybí z nás ani jeden.
 
-[50] Proto jsme přinesli obětní dar pro Yahweh – co kdo nalezl ze zlatých předmětů, náramků na paži, náramků, pečetních prstenů, náušnic a přívěsků – abychom za sebe zjednali smír před Yahweh.“
+[50] Proto jsme přinesli obětní dar pro ⟦yhwh|Jahveho|Hospodina⟧ – co kdo nalezl ze zlatých předmětů, náramků na paži, náramků, pečetních prstenů, náušnic a přívěsků – abychom za sebe zjednali smír před ⟦yhwh|Jahvem|Hospodinem⟧.“
 
-[51] Moses a kněz Eleazar od nich přijali zlato, všechny zpracované předměty.
+[51] ⟦moses|Moše|Mojžíš⟧ a kněz ⟦eleazar|Elazar|Eleazar⟧ od nich přijali zlato, všechny zpracované předměty.
 
-[52] Všechno zlato příspěvku, který odvedli Yahweh, od velitelů tisíců a velitelů setnin, činilo 16 750 šekelů.
+[52] Všechno zlato příspěvku, který odvedli ⟦yhwh|Jahvovi|Hospodinu⟧, od velitelů tisíců a velitelů setnin, činilo 16 750 šekelů.
 
 [53] (Válečníci si uloupili kořist každý pro sebe.)
 
-[54] Moses a kněz Eleazar přijali zlato od velitelů tisíců a setnin a přinesli je do stanu setkávání jako připomínku pro syny Israele před Yahweh.
+[54] ⟦moses|Moše|Mojžíš⟧ a kněz ⟦eleazar|Elazar|Eleazar⟧ přijali zlato od velitelů tisíců a setnin a přinesli je do stanu setkávání jako připomínku pro syny ⟦israel|Jisraele|Izraele⟧ před ⟦yhwh|Jahvem|Hospodinem⟧.
 
 ## Změny
 

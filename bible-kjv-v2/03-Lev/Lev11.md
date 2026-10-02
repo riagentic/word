@@ -1,8 +1,8 @@
 # Leviticus 11
 
-[1] Yahweh spoke to Moses and Aaron, saying to them,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧, saying to them,
 
-[2] "Speak to the children of Israel, saying: 'These are the living creatures that you may eat among all the animals that are on the earth.
+[2] "Speak to the children of ⟦israel|Yisrael|Israel⟧, saying: 'These are the living creatures that you may eat among all the animals that are on the earth.
 
 [3] Whatever has a divided hoof — cleft in two — and chews the cud, among the animals, that you may eat.
 
@@ -86,9 +86,9 @@
 
 [43] You shall not make yourselves detestable with any swarming thing that swarms, and you shall not make yourselves unclean with them, that you should be defiled by them.
 
-[44] For I am Yahweh your *Elohim*; consecrate yourselves and be holy, for I am holy. You shall not defile yourselves with any swarming thing that moves on the earth.
+[44] For I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧; consecrate yourselves and be holy, for I am holy. You shall not defile yourselves with any swarming thing that moves on the earth.
 
-[45] For I am Yahweh who brought you up out of the land of Egypt to be your *Elohim*; you shall therefore be holy, for I am holy.
+[45] For I am ⟦yhwh|Yahweh|the LORD⟧ who brought you up out of the land of ⟦egypt|Mitzrayim|Egypt⟧ to be your ⟦elohim|Elohim|God⟧; you shall therefore be holy, for I am holy.
 
 [46] This is the law concerning the animal, the bird, every living creature that moves in the waters, and every creature that swarms on the earth,
 

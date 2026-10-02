@@ -1,10 +1,10 @@
 # Ezekiel 1
 
-[1] In the thirtieth year, in the fourth month, on the fifth day of the month, as I was among the exiles by the Chebar canal, the heavens were opened, and I saw visions of *Elohim*.
+[1] In the thirtieth year, in the fourth month, on the fifth day of the month, as I was among the exiles by the ⟦chebar|Kevar|Chebar⟧ canal, the heavens were opened, and I saw visions of ⟦elohim|Elohim|God⟧.
 
-[2] On the fifth day of the month (it was the fifth year of the exile of King Jehoiachin),
+[2] On the fifth day of the month (it was the fifth year of the exile of King ⟦jehoiachin|Yehoyachin|Jehoiachin⟧),
 
-[3] the word of Yahweh came to Ezekiel — son of Buzi the priest, in the land of the Chaldeans by the Chebar canal, and the hand of Yahweh was upon him there.
+[3] the word of ⟦yhwh|Yahweh|the LORD⟧ came to ⟦ezekiel|Yechezqel|Ezekiel⟧ — son of Buzi the priest, in the land of the ⟦chaldeans|Kasdim|Chaldeans⟧ by the ⟦chebar|Kevar|Chebar⟧ canal, and the hand of ⟦yhwh|Yahweh|the LORD⟧ was upon him there.
 
 [4] As I looked, behold, a stormy wind came out of the north, a great cloud with flashing fire, with brightness around it; and in its midst, as it were gleaming metal in the midst of the fire.
 
@@ -46,7 +46,7 @@
 
 [23] And under the expanse their wings were stretched out straight, one toward another. And each creature had two wings covering its body.
 
-[24] And when they went, I heard the sound of their wings like the sound of many waters, like the voice of Shaddai, a sound of tumult like the sound of an army. When they stood still, they let down their wings.
+[24] And when they went, I heard the sound of their wings like the sound of many waters, like the voice of ⟦shaddai|Shaddai|the Almighty⟧, a sound of tumult like the sound of an army. When they stood still, they let down their wings.
 
 [25] And there came a voice from above the expanse over their heads. When they stood still, they let down their wings.
 

@@ -1,24 +1,24 @@
 # Jozue 16
 
-[1] Los pro syny Josepha vycházel od Jordanu u Jericha, východně od vod Jericha, k poušti, která stoupá od Jericha přes pahorkatinu k Bethelu.
+[1] Los pro syny Josefa vycházel od ⟦jordan|Jardenu|Jordánu⟧ u Jericha, východně od vod Jericha, k poušti, která stoupá od Jericha přes pahorkatinu k ⟦bethel|Bejt Elu|Bét-elu⟧.
 
-[2] Od Bethelu vychází k Luzu a pokračuje k hranici Architů u Atarothu.
+[2] Od ⟦bethel|Bejt Elu|Bét-elu⟧ vychází k ⟦luz|Luzu|Lúzu⟧ a pokračuje k hranici ⟦archites|Arki|Arkijců⟧ u ⟦ataroth|Atarotu|Atarótu⟧.
 
-[3] Potom sestupuje na západ k hranici Japhletitů až k hranici Dolního Beth-horonu a ke Gezeru; a končí u moře.
+[3] Potom sestupuje na západ k hranici ⟦japhletites|Jafleti|Jafletovců⟧ až k hranici Dolního ⟦beth-horon|Bejt Choronu|Bét-chorónu⟧ a ke Gezeru; a končí u moře.
 
-[4] Tak obdrželi své dědictví synové Josepha, Manasseh a Ephraim.
+[4] Tak obdrželi své dědictví synové Josefa, ⟦manasseh|Menaše|Manases⟧ a Efrajim.
 
-[5] Hranice synů Ephraima podle jejich rodů byla tato: hranicí jejich dědictví na východě byl Ataroth-addar až k Hornímu Beth-horonu.
+[5] Hranice synů Efrajima podle jejich rodů byla tato: hranicí jejich dědictví na východě byl ⟦ataroth-addar|Atrot Addar|Atarót-adar⟧ až k Hornímu ⟦beth-horon|Bejt Choronu|Bét-chorónu⟧.
 
-[6] Hranice vycházela k moři, s Michmethathem na severu; stáčela se na východ k Taanath-shilohu a pokračovala východně od něho k Janoah.
+[6] Hranice vycházela k moři, s ⟦michmethath|Michmetatem|Mikmetatem⟧ na severu; stáčela se na východ k ⟦taanath-shiloh|Taanat Šilu|Taanat-šílu⟧ a pokračovala východně od něho k ⟦janoah|Janoachu|Janóachu⟧.
 
-[7] Od Janoah sestupovala k Atarothu a k Naarah, dotýkala se Jericha a vycházela u Jordanu.
+[7] Od ⟦janoah|Janoachu|Janóachu⟧ sestupovala k ⟦ataroth|Atarotu|Atarótu⟧ a k Naaře, dotýkala se Jericha a vycházela u ⟦jordan|Jardenu|Jordánu⟧.
 
-[8] Od Tappuah vedla hranice na západ k vádí Kanah a končila u moře. To je dědictví kmene synů Ephraima podle jejich rodů,
+[8] Od ⟦tappuah|Tappuachu|Tapúachu⟧ vedla hranice na západ k vádí Kana a končila u moře. To je dědictví kmene synů Efrajima podle jejich rodů,
 
-[9] spolu s městy, která byla vyčleněna synům Ephraima uprostřed dědictví synů Manasseh – všechna ta města s jejich vesnicemi.
+[9] spolu s městy, která byla vyčleněna synům Efrajima uprostřed dědictví synů ⟦manasseh|Menaše|Manasesa⟧ – všechna ta města s jejich vesnicemi.
 
-[10] Nevyhnali však Canaanity, kteří bydleli v Gezeru; a tak Canaanité žijí uprostřed Ephraima až do tohoto dne a slouží jako nucení robotníci.
+[10] Nevyhnali však ⟦canaanites|Kenaanim|Kenaance⟧, kteří bydleli v Gezeru; a tak ⟦canaanites|Kenaanim|Kenaanci⟧ žijí uprostřed Efrajima až do tohoto dne a slouží jako nucení robotníci.
 
 ## Změny
 

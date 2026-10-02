@@ -1,16 +1,16 @@
 # Izajáš 28
 
-[1] Běda pyšné koruně opilců Ephraimu
+[1] Běda pyšné koruně opilců Efrajimu
 a vadnoucímu květu jeho slavné krásy,
 který je na hlavě úrodného údolí
 těch, kdo jsou přemoženi vínem!
 
-[2] Hle, Pán má někoho mocného a silného;
+[2] Hle, ⟦adonai|Adonaj|Pán⟧ má někoho mocného a silného;
 jako krupobití, ničivá bouře,
 jako příval mocných, rozvodněných vod
 srazí rukou k zemi.
 
-[3] Pyšná koruna opilců Ephraimu
+[3] Pyšná koruna opilců Efrajimu
 bude pošlapána nohama;
 
 [4] a vadnoucí květ jeho slavné krásy,
@@ -19,7 +19,7 @@ bude jako raný fík před létem –
 když ho někdo uvidí,
 spolkne ho, jakmile ho má v ruce.
 
-[5] V onen den bude Yahweh zástupů korunou slávy
+[5] V onen den bude ⟦yhwh|Jahve|Hospodin⟧ zástupů korunou slávy
 a čelenkou krásy
 zbytku svého lidu
 
@@ -46,19 +46,19 @@ ty, kdo byli vzati od prsu?
 šňůra na šňůru, šňůra na šňůru,
 trochu tu, trochu tam.“
 
-[11] Neboť skrze lid cizích rtů a cizím jazykem bude Yahweh mluvit k tomuto lidu,
+[11] Neboť skrze lid cizích rtů a cizím jazykem bude ⟦yhwh|Jahve|Hospodin⟧ mluvit k tomuto lidu,
 
 [12] jemuž řekl: „Toto je odpočinutí; dejte odpočinout unavenému; a toto je klid“; ale oni nechtěli slyšet.
 
-[13] A slovo Yahweh pro ně bude příkaz na příkaz, příkaz na příkaz, šňůra na šňůru, šňůra na šňůru, trochu tu, trochu tam, aby šli a padli naznak, byli roztříštěni, chyceni do osidla a zajati.
+[13] A slovo ⟦yhwh|Jahveho|Hospodina⟧ pro ně bude příkaz na příkaz, příkaz na příkaz, šňůra na šňůru, šňůra na šňůru, trochu tu, trochu tam, aby šli a padli naznak, byli roztříštěni, chyceni do osidla a zajati.
 
-[14] Proto slyšte slovo Yahweh, vy posměvači, kteří vládnete tomuto lidu v Jerusalemě!
+[14] Proto slyšte slovo ⟦yhwh|Jahveho|Hospodina⟧, vy posměvači, kteří vládnete tomuto lidu v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧!
 
-[15] Protože jste řekli: „Uzavřeli jsme smlouvu se smrtí a se Sheol máme dohodu; až bude procházet zaplavující bič, nepřijde k nám, neboť jsme učinili lež svým útočištěm a ve falši jsme se ukryli“;
+[15] Protože jste řekli: „Uzavřeli jsme smlouvu se smrtí a se ⟦sheol|Šeolem|podsvětím⟧ máme dohodu; až bude procházet zaplavující bič, nepřijde k nám, neboť jsme učinili lež svým útočištěm a ve falši jsme se ukryli“;
 
-[16] proto takto praví Pán Yahweh:
+[16] proto takto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧:
 
-„Hle, já jsem ten, kdo položil na Zionu za základ
+„Hle, já jsem ten, kdo položil na ⟦zion|Cijonu|Sijónu⟧ za základ
 kámen, kámen vyzkoušený,
 vzácný úhelný kámen pevného základu:
 ‚Kdo věří, nebude spěchat.‘
@@ -69,7 +69,7 @@ krupobití smete útočiště lži
 a vody zaplaví úkryt.“
 
 [18] Tehdy bude vaše smlouva se smrtí zrušena
-a vaše dohoda se Sheol neobstojí;
+a vaše dohoda se ⟦sheol|Šeolem|podsvětím⟧ neobstojí;
 až bude procházet zaplavující metla,
 budete jí sraženi.
 
@@ -81,15 +81,15 @@ a pochopit to poselství bude čirá hrůza.
 [20] Neboť lože je příliš krátké, aby se na něm člověk natáhl,
 a přikrývka příliš úzká, aby se do ní zavinul.
 
-[21] Neboť Yahweh povstane jako na hoře Perazim;
-jako v údolí Gibeon se vzbudí,
+[21] Neboť ⟦yhwh|Jahve|Hospodin⟧ povstane jako na hoře ⟦perazim|Peracim|Perasím⟧;
+jako v údolí ⟦gibeon|Givon|Gibeónu⟧ se vzbudí,
 aby vykonal svůj čin – podivný je jeho čin! –
 a aby provedl své dílo – cizí je jeho dílo!
 
 [22] Nyní se tedy neposmívejte,
 aby vaše pouta nebyla zesílena;
 neboť jsem slyšel rozhodnutí o zkáze
-od Pána Yahweh zástupů proti celé zemi.
+od ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧ zástupů proti celé zemi.
 
 [23] Naslouchejte a slyšte můj hlas;
 dávejte pozor a slyšte mou řeč.
@@ -104,7 +104,7 @@ a ječmen na jeho místo
 a dvouzrnku na okraj?
 
 [26] Neboť je správně poučen;
-jeho *Elohim* ho učí.
+jeho ⟦elohim|Elohim|Bůh⟧ ho učí.
 
 [27] Kopr se nemlátí mlátícími saněmi
 ani se přes kmín nepřevaluje kolo vozu,
@@ -116,7 +116,7 @@ Ne, nemlátí ho donekonečna;
 když přes ně žene kolo svého vozu
 se svými koňmi, nerozdrtí je.
 
-[29] I to vychází od Yahweh zástupů;
+[29] I to vychází od ⟦yhwh|Jahveho|Hospodina⟧ zástupů;
 je podivuhodný v radě
 a znamenitý v moudrosti.
 

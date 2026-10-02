@@ -1,9 +1,9 @@
 # Joel 2
 
-[1] Blow a trumpet in Zion;
+[1] Blow a ⟦shofar|shofar|trumpet⟧ in ⟦zion|Tziyon|Zion⟧;
 sound an alarm on my holy mountain!
 Let all the inhabitants of the land tremble,
-for the **Day of Yahweh** is coming; it is near:
+for the **Day of ⟦yhwh|Yahweh|the LORD⟧** is coming; it is near:
 
 [2] a day of darkness and gloom,
 a day of clouds and thick darkness!
@@ -50,28 +50,28 @@ the heavens tremble.
 The sun and the moon are darkened,
 and the stars withdraw their shining.
 
-[11] Yahweh utters his voice before his army,
+[11] ⟦yhwh|Yahweh|The LORD⟧ utters his voice before his army,
 for his camp is exceedingly great;
 he who executes his word is powerful.
-For the Day of Yahweh is great and very awesome;
+For the Day of ⟦yhwh|Yahweh|the LORD⟧ is great and very awesome;
 who can endure it?
 
-[12] "Yet even now," declares Yahweh,
+[12] "Yet even now," declares ⟦yhwh|Yahweh|the LORD⟧,
 "return to me with all your heart,
 with fasting, with weeping, and with mourning;
 
 [13] and rend your hearts and not your garments."
-Return to Yahweh your *Elohim*,
+Return to ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧,
 for he is gracious and merciful,
-slow to anger, and abounding in steadfast love;
+slow to anger, and abounding in ⟦steadfast-love|chesed|steadfast love⟧;
 and he relents over disaster.
 
 [14] Who knows whether he will not turn and relent,
 and leave a blessing behind him,
 a grain offering and a drink offering
-for Yahweh your *Elohim*?
+for ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧?
 
-[15] Blow the trumpet in Zion;
+[15] Blow the ⟦shofar|shofar|trumpet⟧ in ⟦zion|Tziyon|Zion⟧;
 consecrate a fast;
 call a solemn assembly;
 
@@ -84,17 +84,17 @@ Let the bridegroom leave his room,
 and the bride her chamber.
 
 [17] Between the vestibule and the altar
-let the priests, the ministers of Yahweh, weep
-and say, "Spare your people, O Yahweh,
+let the priests, the ministers of ⟦yhwh|Yahweh|the LORD⟧, weep
+and say, "Spare your people, O ⟦yhwh|Yahweh|LORD⟧,
 and make not your heritage a reproach,
 a byword among the nations.
 Why should they say among the peoples,
-'Where is their *Elohim*?'"
+'Where is their ⟦elohim|Elohim|God⟧?'"
 
-[18] Then Yahweh became jealous for his land
+[18] Then ⟦yhwh|Yahweh|the LORD⟧ became jealous for his land
 and had pity on his people.
 
-[19] Yahweh answered and said to his people, "Behold, I am sending to you grain, wine, and oil, and you will be satisfied; and I will no more make you a reproach among the nations.
+[19] ⟦yhwh|Yahweh|The LORD⟧ answered and said to his people, "Behold, I am sending to you grain, wine, and oil, and you will be satisfied; and I will no more make you a reproach among the nations.
 
 [20] "I will remove the northerner far from you,
 and drive him into a parched and desolate land,
@@ -105,15 +105,15 @@ for he has done great things.
 
 [21] Fear not, O land;
 be glad and rejoice,
-for Yahweh has done great things!
+for ⟦yhwh|Yahweh|the LORD⟧ has done great things!
 
 [22] Fear not, you beasts of the field,
 for the pastures of the wilderness are green;
 the tree bears its fruit;
 the fig tree and vine give their full yield.
 
-[23] Be glad, O children of Zion,
-and rejoice in Yahweh your *Elohim*,
+[23] Be glad, O children of ⟦zion|Tziyon|Zion⟧,
+and rejoice in ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧,
 for he has given the early rain for your vindication;
 he has poured down for you abundant rain,
 the early and the latter rain, as before.
@@ -127,12 +127,12 @@ the hopper, the destroyer, and the cutter,
 my great army, which I sent among you.
 
 [26] You shall eat in plenty and be satisfied,
-and praise the name of Yahweh your *Elohim*,
+and praise the name of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧,
 who has dealt wondrously with you.
 And my people shall never again be put to shame.
 
-[27] You shall know that I am in the midst of Israel,
-and that I am Yahweh your *Elohim* and there is none else.
+[27] You shall know that I am in the midst of ⟦israel|Yisrael|Israel⟧,
+and that I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ and there is none else.
 And my people shall never again be put to shame.
 
 [28] "And it shall come to pass afterward,
@@ -149,14 +149,14 @@ blood and fire and columns of smoke.
 
 [31] The sun shall be turned to darkness,
 and the moon to blood,
-before the great and awesome Day of Yahweh comes.
+before the great and awesome Day of ⟦yhwh|Yahweh|the LORD⟧ comes.
 
 [32] And it shall come to pass that everyone
-who calls on the name of Yahweh shall be saved.
-For in Mount Zion and in Jerusalem
+who calls on the name of ⟦yhwh|Yahweh|the LORD⟧ shall be saved.
+For in Mount ⟦zion|Tziyon|Zion⟧ and in ⟦jerusalem|Yerushalayim|Jerusalem⟧
 there shall be those who escape,
-as Yahweh has said,
-and among the survivors shall be those whom Yahweh calls."
+as ⟦yhwh|Yahweh|the LORD⟧ has said,
+and among the survivors shall be those whom ⟦yhwh|Yahweh|the LORD⟧ calls."
 
 ## Changes
 

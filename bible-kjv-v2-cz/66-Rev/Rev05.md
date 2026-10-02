@@ -8,9 +8,9 @@
 
 [4] a já jsem začal hlasitě plakat, protože nikdo nebyl shledán hodným otevřít svitek ani do něj nahlédnout.
 
-[5] Jeden ze starších mi však řekl: „Už neplač; hle, **Lev z kmene Judah, Kořen Davidův, zvítězil**, takže může otevřít svitek a jeho sedm pečetí.“
+[5] Jeden ze starších mi však řekl: „Už neplač; hle, **Lev z kmene ⟦judah|Jehuda|Juda⟧, Kořen Davidův, zvítězil**, takže může otevřít svitek a jeho sedm pečetí.“
 
-[6] A mezi trůnem a čtyřmi živými bytostmi a uprostřed starších jsem viděl stát Beránka, jako by byl zabit, se sedmi rohy a se sedmi očima, což je sedm duchů *Elohim* vyslaných do celé země.
+[6] A mezi trůnem a čtyřmi živými bytostmi a uprostřed starších jsem viděl stát Beránka, jako by byl zabit, se sedmi rohy a se sedmi očima, což je sedm duchů ⟦elohim|Elohim|Božích⟧ vyslaných do celé země.
 
 [7] Šel a vzal svitek z pravé ruky toho, který seděl na trůnu.
 
@@ -20,9 +20,9 @@
 
 „**Hoden jsi vzít svitek
 a otevřít jeho pečeti,
-neboť jsi byl zabit a svou krví jsi vykoupil lidi pro *Elohim*
+neboť jsi byl zabit a svou krví jsi vykoupil lidi pro ⟦elohim|Elohim|Boha⟧
 z každého kmene a jazyka a lidu a národa,
-[10] a učinil jsi je královstvím a kněžími našemu *Elohim*,
+[10] a učinil jsi je královstvím a kněžími našemu ⟦elohim|Elohim|Bohu⟧,
 a budou kralovat na zemi**.“
 
 [11] Potom jsem pohleděl a uslyšel jsem kolem trůnu, živých bytostí a starších hlas mnoha andělů, jejichž počet byl myriády myriád a tisíce tisíců,

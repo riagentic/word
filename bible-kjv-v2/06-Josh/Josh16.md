@@ -1,24 +1,24 @@
 # Joshua 16
 
-[1] The lot for the children of Joseph went from the Jordan at Jericho, east of the waters of Jericho, up to the wilderness that goes up from Jericho through the hill country to Bethel.
+[1] The lot for the children of ⟦joseph|Yosef|Joseph⟧ went from the ⟦jordan|Yarden|Jordan⟧ at ⟦jericho|Yericho|Jericho⟧, east of the waters of ⟦jericho|Yericho|Jericho⟧, up to the wilderness that goes up from ⟦jericho|Yericho|Jericho⟧ through the hill country to ⟦bethel|Beit El|Bethel⟧.
 
-[2] From Bethel it goes out to Luz and passes along to the border of the Archites at Ataroth.
+[2] From ⟦bethel|Beit El|Bethel⟧ it goes out to Luz and passes along to the border of the ⟦archites|Arki|Archites⟧ at ⟦ataroth|Atarot|Ataroth⟧.
 
-[3] Then it goes down westward to the border of the Japhletites, as far as the border of Lower Beth-horon, and to Gezer; and it ends at the sea.
+[3] Then it goes down westward to the border of the ⟦japhletites|Yafleti|Japhletites⟧, as far as the border of Lower ⟦beth-horon|Beit Choron|Beth-horon⟧, and to Gezer; and it ends at the sea.
 
-[4] So the children of Joseph, Manasseh and Ephraim, received their inheritance.
+[4] So the children of ⟦joseph|Yosef|Joseph⟧, ⟦manasseh|Menashe|Manasseh⟧ and ⟦ephraim|Efrayim|Ephraim⟧, received their inheritance.
 
-[5] The border of the children of Ephraim by their clans was as follows: the border of their inheritance on the east was Ataroth-addar, as far as Upper Beth-horon.
+[5] The border of the children of ⟦ephraim|Efrayim|Ephraim⟧ by their clans was as follows: the border of their inheritance on the east was ⟦ataroth-addar|Atrot Addar|Ataroth-addar⟧, as far as Upper ⟦beth-horon|Beit Choron|Beth-horon⟧.
 
-[6] The border went out toward the sea, with Michmethath on the north; it turned eastward to Taanath-shiloh and passed along east of it to Janoah.
+[6] The border went out toward the sea, with ⟦michmethath|Michmetat|Michmethath⟧ on the north; it turned eastward to ⟦taanath-shiloh|Taanat Shiloh|Taanath-shiloh⟧ and passed along east of it to ⟦janoah|Yanoach|Janoah⟧.
 
-[7] From Janoah it went down to Ataroth and to Naarah, touching Jericho and coming out at the Jordan.
+[7] From ⟦janoah|Yanoach|Janoah⟧ it went down to ⟦ataroth|Atarot|Ataroth⟧ and to Naarah, touching ⟦jericho|Yericho|Jericho⟧ and coming out at the ⟦jordan|Yarden|Jordan⟧.
 
-[8] From Tappuah the border went west to the wadi Kanah, and it ended at the sea. This is the inheritance of the tribe of the children of Ephraim by their clans,
+[8] From ⟦tappuah|Tappuach|Tappuah⟧ the border went west to the wadi ⟦kanah|Qanah|Kanah⟧, and it ended at the sea. This is the inheritance of the tribe of the children of ⟦ephraim|Efrayim|Ephraim⟧ by their clans,
 
-[9] together with the cities that were set apart for the children of Ephraim within the inheritance of the children of Manasseh — all those cities with their villages.
+[9] together with the cities that were set apart for the children of ⟦ephraim|Efrayim|Ephraim⟧ within the inheritance of the children of ⟦manasseh|Menashe|Manasseh⟧ — all those cities with their villages.
 
-[10] However, they did not drive out the Canaanites who dwelt in Gezer; so the Canaanites have lived in the midst of Ephraim to this day, serving as forced labor.
+[10] However, they did not drive out the ⟦canaanites|Kenaanim|Canaanites⟧ who dwelt in Gezer; so the ⟦canaanites|Kenaanim|Canaanites⟧ have lived in the midst of ⟦ephraim|Efrayim|Ephraim⟧ to this day, serving as forced labor.
 
 ## Changes
 

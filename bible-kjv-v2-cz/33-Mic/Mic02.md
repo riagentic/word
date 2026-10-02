@@ -10,7 +10,7 @@ po domech, a berou je;
 utiskují muže i jeho dům,
 člověka i jeho dědictví.
 
-[3] Proto toto praví Yahweh:
+[3] Proto toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
 „Hle, proti tomuto rodu vymýšlím neštěstí,
 z něhož nevyprostíte své šíje
@@ -25,14 +25,14 @@ jak mi jej odnímá!
 Odpadlíkovi přiděluje naše pole.‘
 
 [5] Proto nebudeš mít nikoho, kdo by losem natahoval měřicí provazec
-ve shromáždění Yahweh.
+ve shromáždění ⟦yhwh|Jahveho|Hospodina⟧.
 
 [6] ‚Nekažte‘ – tak kážou –
 ‚o takových věcech se nemá kázat;
 potupa nás nedostihne.‘
 
-[7] Smí se tohle říkat, dome Jacobův?
-Došla snad Yahweh trpělivost?
+[7] Smí se tohle říkat, dome ⟦jacob|Jaakovův|Jákobův⟧?
+Došla snad ⟦yhwh|Jahvovi|Hospodinu⟧ trpělivost?
 Jsou tohle jeho skutky?
 Což má slova nečiní dobře
 tomu, kdo chodí přímě?
@@ -55,8 +55,8 @@ krutou zkázou.
 a říkal: ‚Budu ti kázat o víně a opojném nápoji,‘
 ten by byl kazatelem pro tento lid!
 
-[12] Jistě tě celého shromáždím, Jacobe;
-jistě sesbírám pozůstatek Israele;
+[12] Jistě tě celého shromáždím, ⟦jacob|Jaakove|Jákobe⟧;
+jistě sesbírám pozůstatek ⟦israel|Jisraele|Izraele⟧;
 dám je dohromady jako ovce v ohradě,
 jako stádo na jeho pastvině,
 hlučný zástup lidí.
@@ -65,7 +65,7 @@ hlučný zástup lidí.
 prorazí a projdou branou
 a vyjdou jí ven.
 Jejich král jde před nimi,
-Yahweh v jejich čele.
+⟦yhwh|Jahve|Hospodin⟧ v jejich čele.
 
 ## Změny
 

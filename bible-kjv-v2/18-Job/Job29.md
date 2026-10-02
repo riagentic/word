@@ -1,17 +1,17 @@
 # Job 29
 
-[1] Job continued his parable and said:
+[1] ⟦job|Iyov|Job⟧ continued his parable and said:
 
 [2] "Oh that I were as in months past,
-as in the days when Eloah watched over me,
+as in the days when ⟦eloah|Eloah|God⟧ watched over me,
 
 [3] when his lamp shone upon my head,
 and by his light I walked through darkness;
 
 [4] as I was in the autumn of my days,
-when the friendship of Eloah was upon my tent,
+when the friendship of ⟦eloah|Eloah|God⟧ was upon my tent,
 
-[5] when Shaddai was yet with me,
+[5] when ⟦shaddai|Shaddai|the Almighty⟧ was yet with me,
 when my young ones were around me,
 
 [6] when my steps were bathed in curds,

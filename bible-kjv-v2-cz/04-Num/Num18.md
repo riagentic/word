@@ -1,68 +1,68 @@
 # Numeri 18
 
-[1] Yahweh řekl Aaronovi: „Ty, tvoji synové a dům tvého otce s tebou ponesete vinu svatyně; a ty a tvoji synové s tebou ponesete vinu svého kněžství.
+[1] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦aaron|Aharonovi|Áronovi⟧: „Ty, tvoji synové a dům tvého otce s tebou ponesete vinu svatyně; a ty a tvoji synové s tebou ponesete vinu svého kněžství.
 
-[2] Přiveď s sebou také své bratry z kmene Leviho, kmene svého otce, aby se k tobě připojili a přisluhovali ti; ale ty a tvoji synové s tebou budete před stanem Svědectví.
+[2] Přiveď s sebou také své bratry z kmene ⟦levi|Leviho|Léviho⟧, kmene svého otce, aby se k tobě připojili a přisluhovali ti; ale ty a tvoji synové s tebou budete před stanem Svědectví.
 
 [3] Budou držet stráž pro tebe a stráž celého stanu; ale nepřiblíží se k náčiní svatyně ani k oltáři, abyste nezemřeli oni i vy.
 
 [4] Budou se k tobě připojovat a držet stráž stanu setkávání pro veškerou službu stanu; a žádný nepovolaný se k vám nepřiblíží.
 
-[5] Budete držet stráž svatyně a stráž oltáře, aby na syny Israele už nepřišel hněv.
+[5] Budete držet stráž svatyně a stráž oltáře, aby na syny ⟦israel|Jisraele|Izraele⟧ už nepřišel hněv.
 
-[6] Hle, já sám jsem vzal vaše bratry Levity ze synů Israele; jsou vám dáni jako dar pro Yahweh, aby konali službu při stanu setkávání.
+[6] Hle, já sám jsem vzal vaše bratry ⟦levites|Levijim|lévijce⟧ ze synů ⟦israel|Jisraele|Izraele⟧; jsou vám dáni jako dar pro ⟦yhwh|Jahveho|Hospodina⟧, aby konali službu při stanu setkávání.
 
 [7] Ty a tvoji synové s tebou budete pečovat o své kněžství ve všem, co se týká oltáře a všeho, co je za oponou; budete sloužit. Dávám vám kněžství jako službu darem; každý nepovolaný, kdo se přiblíží, bude usmrcen.“
 
-[8] Yahweh řekl Aaronovi: „Hle, svěřil jsem ti správu svých příspěvků – všech svatých darů synů Israele. Tobě jsem je dal jako podíl a tvým synům jako trvalý nárok.
+[8] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦aaron|Aharonovi|Áronovi⟧: „Hle, svěřil jsem ti správu svých příspěvků – všech svatých darů synů ⟦israel|Jisraele|Izraele⟧. Tobě jsem je dal jako podíl a tvým synům jako trvalý nárok.
 
 [9] Toto ti bude patřit z nejsvětějších věcí, vyhrazených z ohně: každý jejich obětní dar – každá jejich moučná oběť, každá jejich oběť za hřích a každá jejich oběť za vinu, kterou mi odvádějí – bude nejsvětější pro tebe a pro tvé syny.
 
 [10] Budeš to jíst jako něco nejsvětějšího; smí to jíst každý muž; bude ti to svaté.
 
-[11] Také toto je tvoje: příspěvek z jejich daru spolu se všemi obětmi pozvednutí synů Israele. Dal jsem je tobě a tvým synům a dcerám s tebou jako trvalý nárok; smí z toho jíst každý, kdo je ve tvém domě čistý.
+[11] Také toto je tvoje: příspěvek z jejich daru spolu se všemi obětmi pozvednutí synů ⟦israel|Jisraele|Izraele⟧. Dal jsem je tobě a tvým synům a dcerám s tebou jako trvalý nárok; smí z toho jíst každý, kdo je ve tvém domě čistý.
 
-[12] Všechno nejlepší z oleje a všechno nejlepší z vína a pšenice – jejich prvotiny, které dávají Yahweh – dal jsem tobě.
+[12] Všechno nejlepší z oleje a všechno nejlepší z vína a pšenice – jejich prvotiny, které dávají ⟦yhwh|Jahvovi|Hospodinu⟧ – dal jsem tobě.
 
-[13] Prvotiny všeho, co je v jejich zemi, které přinášejí Yahweh, budou tvoje; smí z toho jíst každý, kdo je ve tvém domě čistý.
+[13] Prvotiny všeho, co je v jejich zemi, které přinášejí ⟦yhwh|Jahvovi|Hospodinu⟧, budou tvoje; smí z toho jíst každý, kdo je ve tvém domě čistý.
 
-[14] Všechno, co je v Israeli propadlé klatbě, bude tvoje.
+[14] Všechno, co je v ⟦israel|Jisraeli|Izraeli⟧ propadlé klatbě, bude tvoje.
 
-[15] Každý prvorozený, který otevírá lůno ze všeho těla a který přinášejí Yahweh, ať z lidí, či ze zvířat, bude tvůj. Prvorozeného z lidí však jistě vykoupíš a prvorozené nečistých zvířat vykoupíš.
+[15] Každý prvorozený, který otevírá lůno ze všeho těla a který přinášejí ⟦yhwh|Jahvovi|Hospodinu⟧, ať z lidí, či ze zvířat, bude tvůj. Prvorozeného z lidí však jistě vykoupíš a prvorozené nečistých zvířat vykoupíš.
 
 [16] Výkupné za ně ve věku od jednoho měsíce zaplatíš podle svého odhadu – pět šekelů stříbra podle šekelu svatyně, který má dvacet ger.
 
-[17] Ale prvorozené krávy nebo prvorozené ovce nebo prvorozené kozy nevykoupíš; jsou svatí. Jejich krev vyliješ na oltář a jejich tuk necháš vzejít v dým jako ohnivou oběť, libou vůni pro Yahweh.
+[17] Ale prvorozené krávy nebo prvorozené ovce nebo prvorozené kozy nevykoupíš; jsou svatí. Jejich krev vyliješ na oltář a jejich tuk necháš vzejít v dým jako ohnivou oběť, libou vůni pro ⟦yhwh|Jahveho|Hospodina⟧.
 
 [18] Jejich maso bude tvoje – jako je tvoje hruď oběti pozvednutí a pravé stehno.
 
-[19] Všechny svaté příspěvky, které synové Israele odvádějí Yahweh, jsem dal tobě a tvým synům a dcerám s tebou jako trvalý nárok; je to věčná smlouva soli před Yahweh pro tebe i pro tvé potomky s tebou.“
+[19] Všechny svaté příspěvky, které synové ⟦israel|Jisraele|Izraele⟧ odvádějí ⟦yhwh|Jahvovi|Hospodinu⟧, jsem dal tobě a tvým synům a dcerám s tebou jako trvalý nárok; je to věčná ⟦berit-melach|berit melach|smlouva soli⟧ před ⟦yhwh|Jahvem|Hospodinem⟧ pro tebe i pro tvé potomky s tebou.“
 
-[20] Yahweh řekl Aaronovi: „V jejich zemi nebudeš mít dědictví ani nebudeš mít mezi nimi žádný podíl. Já jsem tvůj podíl a tvé dědictví uprostřed synů Israele.
+[20] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦aaron|Aharonovi|Áronovi⟧: „V jejich zemi nebudeš mít dědictví ani nebudeš mít mezi nimi žádný podíl. Já jsem tvůj podíl a tvé dědictví uprostřed synů ⟦israel|Jisraele|Izraele⟧.
 
-[21] Hle, synům Leviho jsem dal do dědictví každý desátek v Israeli jako odměnu za jejich službu, kterou konají – službu při stanu setkávání.
+[21] Hle, synům ⟦levi|Leviho|Léviho⟧ jsem dal do dědictví každý desátek v ⟦israel|Jisraeli|Izraeli⟧ jako odměnu za jejich službu, kterou konají – službu při stanu setkávání.
 
-[22] Synové Israele se už nebudou přibližovat ke stanu setkávání, aby nenesli hřích a nezemřeli.
+[22] Synové ⟦israel|Jisraele|Izraele⟧ se už nebudou přibližovat ke stanu setkávání, aby nenesli hřích a nezemřeli.
 
-[23] Službu při stanu setkávání budou konat jedině Levité a ponesou vinu lidu. Po všechna vaše pokolení to bude trvalé ustanovení, že mezi syny Israele nebudou mít dědictví.
+[23] Službu při stanu setkávání budou konat jedině ⟦levites|Levijim|lévijci⟧ a ponesou vinu lidu. Po všechna vaše pokolení to bude trvalé ustanovení, že mezi syny ⟦israel|Jisraele|Izraele⟧ nebudou mít dědictví.
 
-[24] Neboť desátek synů Israele, který odvádějí jako příspěvek Yahweh, jsem dal Levitům do dědictví; proto jsem jim řekl: ‚Mezi syny Israele nebudou mít dědictví.‘“
+[24] Neboť desátek synů ⟦israel|Jisraele|Izraele⟧, který odvádějí jako příspěvek ⟦yhwh|Jahvovi|Hospodinu⟧, jsem dal ⟦levites|Levijim|lévijcům⟧ do dědictví; proto jsem jim řekl: ‚Mezi syny ⟦israel|Jisraele|Izraele⟧ nebudou mít dědictví.‘“
 
-[25] Yahweh promluvil k Mosesovi a řekl:
+[25] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a řekl:
 
-[26] „Mluv k Levitům a řekni jim: ‚Až budete brát od synů Israele desátek, který jsem vám od nich dal jako vaše dědictví, odvedete z něj příspěvek pro Yahweh – desátek z desátku.
+[26] „Mluv k ⟦levites|Levijim|lévijcům⟧ a řekni jim: ‚Až budete brát od synů ⟦israel|Jisraele|Izraele⟧ desátek, který jsem vám od nich dal jako vaše dědictví, odvedete z něj příspěvek pro ⟦yhwh|Jahveho|Hospodina⟧ – desátek z desátku.
 
 [27] Váš příspěvek vám bude započten jako obilí z mlatu a jako plnost z lisu.
 
-[28] Tak i vy budete odvádět příspěvek pro Yahweh ze všech svých desátků, které přijímáte od synů Israele; a z nich dáte příspěvek pro Yahweh knězi Aaronovi.
+[28] Tak i vy budete odvádět příspěvek pro ⟦yhwh|Jahveho|Hospodina⟧ ze všech svých desátků, které přijímáte od synů ⟦israel|Jisraele|Izraele⟧; a z nich dáte příspěvek pro ⟦yhwh|Jahveho|Hospodina⟧ knězi ⟦aaron|Aharonovi|Áronovi⟧.
 
-[29] Ze všech svých darů odvedete celý příspěvek pro Yahweh – ze všeho nejlepšího, jeho posvěcenou část.
+[29] Ze všech svých darů odvedete celý příspěvek pro ⟦yhwh|Jahveho|Hospodina⟧ – ze všeho nejlepšího, jeho posvěcenou část.
 
-[30] Proto jim řekneš: Až z toho odvedete nejlepší část, zbytek bude Levitům započten jako výnos mlatu a výnos lisu.
+[30] Proto jim řekneš: Až z toho odvedete nejlepší část, zbytek bude ⟦levites|Levijim|lévijcům⟧ započten jako výnos mlatu a výnos lisu.
 
 [31] Smíte to jíst na kterémkoli místě, vy i vaše domácnosti, neboť je to vaše mzda za vaši službu ve stanu setkávání.
 
-[32] Kvůli tomu neponesete žádný hřích, když z toho odvedete nejlepší část; a nebudete znesvěcovat svaté dary synů Israele, abyste nezemřeli.‘“
+[32] Kvůli tomu neponesete žádný hřích, když z toho odvedete nejlepší část; a nebudete znesvěcovat svaté dary synů ⟦israel|Jisraele|Izraele⟧, abyste nezemřeli.‘“
 
 ## Změny
 

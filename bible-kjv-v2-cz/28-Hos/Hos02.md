@@ -1,6 +1,6 @@
 # Ozeáš 2
 
-[1] Říkejte svým bratrům: „Ammi – Vy jste můj lid,“ a svým sestrám: „Ruchamah – Došly jste slitování.“
+[1] Říkejte svým bratrům: „⟦ammi|Ami – Vy jste můj lid|Lide můj⟧,“ a svým sestrám: „⟦ruchamah|Ruchama – Došly jste slitování|Omilostněná⟧.“
 
 [2] „Veďte spor se svou matkou, veďte spor –
 neboť ona není má žena
@@ -49,7 +49,7 @@ před očima jejích milenců
 a nikdo ji z mé ruky nevytrhne.
 
 [11] Učiním konec všemu jejímu veselí,
-jejím slavnostem, jejím novoluním, jejím sabatům
+jejím slavnostem, jejím novoluním, jejím ⟦shabbat|šabatům|sobotám⟧
 a všem jejím určeným svátkům.
 
 [12] Zpustoším její vinné kmeny a její fíkovníky,
@@ -59,27 +59,27 @@ kterou mi dali moji milenci.‘
 Obrátím je v les
 a polní zvěř je bude požírat.
 
-[13] Potrestám ji za sváteční dny Baalů,
+[13] Potrestám ji za sváteční dny ⟦baal|Baalů|baalů⟧,
 kdy jim pálila oběti
 a zdobila se svým kroužkem a šperky
 a chodila za svými milenci
-a na mne zapomněla, je výrok Yahweh.
+a na mne zapomněla, je výrok ⟦yhwh|Jahveho|Hospodina⟧.
 
 [14] Proto, hle, přemluvím ji,
 uvedu ji do pouště
 a promluvím k jejímu srdci.
 
 [15] Tam jí dám její vinice
-a údolí Achor („Soužení“) učiním
+a údolí ⟦achor|Achor|Akór⟧ („Soužení“) učiním
 branou naděje.
 Tam bude odpovídat jako ve dnech svého mládí,
-jako v době, kdy vyšla ze země Egypt.
+jako v době, kdy vyšla ze země ⟦egypt|Micrajim|Egypt⟧.
 
-[16] V ten den, je výrok Yahweh,
-mě budeš nazývat ‚Můj muži‘
-a už mě nebudeš nazývat ‚Můj Baale‘.
+[16] V ten den, je výrok ⟦yhwh|Jahveho|Hospodina⟧,
+mě budeš nazývat ‚⟦ishi-husband|Iši|Můj muži⟧‘
+a už mě nebudeš nazývat ‚⟦baali|Baali|Můj Baale⟧‘.
 
-[17] Odstraním totiž jména Baalů z jejích úst
+[17] Odstraním totiž jména ⟦baal|Baalů|baalů⟧ z jejích úst
 a už nikdy nebudou připomínána jménem.
 
 [18] V ten den pro ně uzavřu smlouvu s polní zvěří,
@@ -89,22 +89,22 @@ a dám jim uléhat v bezpečí.
 
 [19] Zasnoubím si tě navěky.
 Zasnoubím si tě ve spravedlnosti a v právu,
-ve věrné lásce a v milosrdenství.
+⟦steadfast-love|v chesedu a v milosrdenství|v milosrdenství a ve slitování⟧.
 
 [20] Zasnoubím si tě ve věrnosti.
-A poznáš Yahweh.
+A poznáš ⟦yhwh|Jahveho|Hospodina⟧.
 
-[21] V ten den odpovím, je výrok Yahweh,
+[21] V ten den odpovím, je výrok ⟦yhwh|Jahveho|Hospodina⟧,
 odpovím nebesům
 a ona odpovědí zemi,
 
 [22] a země odpoví obilí, vínu i oleji
-a ty odpovědí Jezreelu,
+a ty odpovědí Jizreelu,
 
 [23] a zaseji si ji v zemi.
-Slituji se nad Lo-Ruchamah
-a řeknu Lo-Ammi: ‚Ty jsi můj lid‘;
-a on řekne: ‚Ty jsi můj *Elohim*.‘“
+Slituji se nad ⟦lo-ruhamah|Lo-ruchamou|Lóruchámou⟧
+a řeknu ⟦lo-ammi|Lo-ami|Lóamimu⟧: ‚Ty jsi můj lid‘;
+a on řekne: ‚Ty jsi můj ⟦elohim|Elohim|Bůh⟧.‘“
 
 ## Změny
 

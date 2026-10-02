@@ -19,7 +19,7 @@ půvabné a plné smrtících kouzel,
 která zrazuje národy svými smilstvy
 a kmeny svými kouzly.
 
-[5] Hle, jsem proti tobě, praví Yahweh zástupů,
+[5] Hle, jsem proti tobě, praví ⟦yhwh|Jahve|Hospodin⟧ zástupů,
 vyhrnu ti suknice přes obličej;
 dám národům hledět na tvou nahotu
 a královstvím na tvou hanbu.
@@ -29,17 +29,17 @@ budu tebou pohrdat
 a učiním z tebe podívanou.
 
 [7] A všichni, kdo tě uvidí, od tebe ucouvnou a řeknou:
-„Nineveh leží v troskách; kdo nad ním zaplače?“
+„⟦nineveh|Ninve|Ninive⟧ leží v troskách; kdo nad ním zaplače?“
 Kde ti mám hledat utěšitele?
 
-[8] Jsi snad lepší než Thebes,
-které sídlilo u Nilu,
+[8] Jsi snad lepší než No-Amon,
+které sídlilo u ⟦nile|Jeoru|Nilu⟧,
 obklopeno vodou,
 jehož valem bylo moře
 a voda jeho hradbou?
 
-[9] Cush byl jeho silou, i Egypt, a to bez hranic;
-Put a Libyjci byli jeho pomocníky.
+[9] ⟦cush|Kuš|Kúš⟧ byl jeho silou, i ⟦egypt|Micrajim|Egypt⟧, a to bez hranic;
+⟦put|Put|Pút⟧ a ⟦libyans|Luvim|Lúbijci⟧ byli jeho pomocníky.
 
 [10] A přece odešlo do vyhnanství;
 šlo do zajetí;
@@ -85,7 +85,7 @@ když vyjde slunce, odletí;
 nikdo neví, kde jsou.
 
 [18] Tví pastýři spí,
-králi Assyrie;
+králi ⟦assyria|Aššuru|Asýrie⟧;
 tví velmožové dřímají.
 Tvůj lid je rozptýlen po horách
 a nikdo ho neshromáždí.
@@ -112,7 +112,7 @@ tvá neustávající zloba?
 - **"I will cast abominable filth upon thee, and make thee vile, and will set thee as a gazingstock" → „Budu po tobě házet špínu, budu tebou pohrdat a učiním z tebe podívanou“** (v6) – hebrejsky שִׁקּוּצִים *shiqqutzim* = ohavnosti / špína; „podívaná“ za *re'eh* = to, na co se hledí.
 - **"all they that look upon thee shall flee from thee" → „všichni, kdo tě uvidí, od tebe ucouvnou“** (v7) – hebrejsky כָּל רֹאַיִךְ יִדּוֹד מִמֵּךְ *kol ro'ayikh yiddod mimekh* = utečou / ucouvnou od tebe.
 - **"Nineveh is laid waste: who will bemoan her? whence shall I seek comforters for thee?" → „Nineveh leží v troskách; kdo nad ním zaplače? Kde ti mám hledat utěšitele?“** (v7) – modernizováno.
-- **"populous No, that was situate among the rivers" → „Thebes, které sídlilo u Nilu“** (v8) – hebrejsky נֹא אָמוֹן *No Amon* = Théby (No-Amon = „No“ je egyptské slovo pro město; Amon je bůh); „Thebes“ je řecké / anglické jméno; „u Nilu“ za *yeorim*.
+- **"populous No, that was situate among the rivers" → „No-Amon, které sídlilo u Nilu“** (v8) – hebrejsky נֹא אָמוֹן *No Amon* = Théby (No-Amon = „No“ je egyptské slovo pro město; Amon je bůh); „Théby“ je řecké jméno; „u Nilu“ za *yeorim*.
 - **"whose rampart was the sea, and her wall was from the sea?" → „jehož valem bylo moře a voda jeho hradbou?“** (v8) – modernizováno; řeky kolem Théb jako moře.
 - **"Yet was she carried away, she went into captivity" → „A přece odešlo do vyhnanství; šlo do zajetí“** (v10) – modernizováno.
 - **"for her honourable men lots were cast" → „o jeho vážené muže se metal los“** (v10) – modernizováno.

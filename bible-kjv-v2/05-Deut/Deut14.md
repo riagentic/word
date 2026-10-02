@@ -1,8 +1,8 @@
 # Deuteronomy 14
 
-[1] "You are the children of Yahweh your *Elohim*. You shall not cut yourselves or make any bald patch between your eyes for the dead.
+[1] "You are the children of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧. You shall not cut yourselves or make any bald patch between your eyes for the dead.
 
-[2] For you are a holy people to Yahweh your *Elohim*, and Yahweh has chosen you to be a treasured people for himself, above all the peoples that are on the face of the earth.
+[2] For you are a holy people to ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, and ⟦yhwh|Yahweh|the LORD⟧ has chosen you to be a treasured people for himself, above all the peoples that are on the face of the earth.
 
 [3] You shall not eat any detestable thing.
 
@@ -40,23 +40,23 @@
 
 [20] All clean birds you may eat.
 
-[21] You shall not eat of anything that dies of itself. You may give it to the foreigner within your gates, that he may eat it; or you may sell it to a foreigner; for you are a holy people to Yahweh your *Elohim*. You shall not boil a kid in its mother's milk.
+[21] You shall not eat of anything that dies of itself. You may give it to the foreigner within your gates, that he may eat it; or you may sell it to a foreigner; for you are a holy people to ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧. You shall not boil a kid in its mother's milk.
 
 [22] You shall tithe all the yield of your seed, which comes forth from the field year by year.
 
-[23] You shall eat before Yahweh your *Elohim*, in the place that he will choose to make his name dwell there, the tithe of your grain, your new wine, and your oil, and the firstborn of your herds and your flocks, that you may learn to fear Yahweh your *Elohim* always.
+[23] You shall eat before ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, in the place that he will choose to make his name dwell there, the tithe of your grain, your new wine, and your oil, and the firstborn of your herds and your flocks, that you may learn to fear ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ always.
 
-[24] If the way is too long for you, so that you cannot carry it, when the place is too far from you that Yahweh your *Elohim* will choose to set his name there, when Yahweh your *Elohim* blesses you,
+[24] If the way is too long for you, so that you cannot carry it, when the place is too far from you that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ will choose to set his name there, when ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ blesses you,
 
-[25] then you shall turn it into money and bind the money in your hand and go to the place that Yahweh your *Elohim* will choose;
+[25] then you shall turn it into money and bind the money in your hand and go to the place that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ will choose;
 
-[26] and you shall spend the money for whatever your soul desires — for oxen, for sheep, for wine, for strong drink, for whatever your soul desires; and you shall eat there before Yahweh your *Elohim*, and you shall rejoice — you and your household,
+[26] and you shall spend the money for whatever your soul desires — for oxen, for sheep, for wine, for strong drink, for whatever your soul desires; and you shall eat there before ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, and you shall rejoice — you and your household,
 
-[27] and the Levite who is within your gates; you shall not forsake him, for he has no portion or inheritance with you.
+[27] and the ⟦levites|Levi|Levite⟧ who is within your gates; you shall not forsake him, for he has no portion or inheritance with you.
 
 [28] At the end of every three years you shall bring out all the tithe of your yield in that year and store it within your gates;
 
-[29] and the Levite, because he has no portion or inheritance with you, and the foreigner, the fatherless, and the widow who are within your gates shall come and eat and be filled, that Yahweh your *Elohim* may bless you in all the work of your hand that you do.
+[29] and the ⟦levites|Levi|Levite⟧, because he has no portion or inheritance with you, and the foreigner, the fatherless, and the widow who are within your gates shall come and eat and be filled, that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ may bless you in all the work of your hand that you do.
 
 ## Changes
 

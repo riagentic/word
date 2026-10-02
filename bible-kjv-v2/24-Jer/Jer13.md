@@ -1,37 +1,37 @@
 # Jeremiah 13
 
-[1] Thus says Yahweh to me, "Go and buy a linen loincloth and put it around your waist, and do not dip it in water."
+[1] Thus says ⟦yhwh|Yahweh|the LORD⟧ to me, "Go and buy a linen loincloth and put it around your waist, and do not dip it in water."
 
-[2] So I bought a loincloth according to the word of Yahweh, and put it around my waist.
+[2] So I bought a loincloth according to the word of ⟦yhwh|Yahweh|the LORD⟧, and put it around my waist.
 
-[3] And the word of Yahweh came to me a second time,
+[3] And the word of ⟦yhwh|Yahweh|the LORD⟧ came to me a second time,
 
-[4] "Take the loincloth that you have bought, which is around your waist, and arise, go to the Euphrates and hide it there in a cleft of the rock."
+[4] "Take the loincloth that you have bought, which is around your waist, and arise, go to the ⟦euphrates|Perat|Euphrates⟧ and hide it there in a cleft of the rock."
 
-[5] So I went and hid it by the Euphrates, as Yahweh commanded me.
+[5] So I went and hid it by the ⟦euphrates|Perat|Euphrates⟧, as ⟦yhwh|Yahweh|the LORD⟧ commanded me.
 
-[6] And after many days Yahweh said to me, "Arise, go to the Euphrates, and take from there the loincloth that I commanded you to hide there."
+[6] And after many days ⟦yhwh|Yahweh|the LORD⟧ said to me, "Arise, go to the ⟦euphrates|Perat|Euphrates⟧, and take from there the loincloth that I commanded you to hide there."
 
-[7] Then I went to the Euphrates, and dug, and I took the loincloth from the place where I had hidden it. And behold, the loincloth was spoiled; it was good for nothing.
+[7] Then I went to the ⟦euphrates|Perat|Euphrates⟧, and dug, and I took the loincloth from the place where I had hidden it. And behold, the loincloth was spoiled; it was good for nothing.
 
-[8] Then the word of Yahweh came to me:
+[8] Then the word of ⟦yhwh|Yahweh|the LORD⟧ came to me:
 
-[9] "Thus says Yahweh: Even so will I spoil the pride of Judah and the great pride of Jerusalem.
+[9] "Thus says ⟦yhwh|Yahweh|the LORD⟧: Even so will I spoil the pride of ⟦judah|Yehudah|Judah⟧ and the great pride of ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
 [10] This evil people, who refuse to hear my words, who stubbornly follow their own heart and have gone after other gods to serve them and worship them, shall be like this loincloth, which is good for nothing.
 
-[11] For as the loincloth clings to the waist of a man, so I made the whole house of Israel and the whole house of Judah cling to me, declares Yahweh, that they might be for me a people, a name, a praise, and a glory, but they would not listen.
+[11] For as the loincloth clings to the waist of a man, so I made the whole house of ⟦israel|Yisrael|Israel⟧ and the whole house of ⟦judah|Yehudah|Judah⟧ cling to me, declares ⟦yhwh|Yahweh|the LORD⟧, that they might be for me a people, a name, a praise, and a glory, but they would not listen.
 
-[12] "You shall speak to them this word: 'Thus says Yahweh, the *Elohim* of Israel: Every jar shall be filled with wine.' And they will say to you, 'Do we not indeed know that every jar will be filled with wine?'
+[12] "You shall speak to them this word: 'Thus says ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧: Every jar shall be filled with wine.' And they will say to you, 'Do we not indeed know that every jar will be filled with wine?'
 
-[13] Then you shall say to them, 'Thus says Yahweh: Behold, I will fill with drunkenness all the inhabitants of this land: the kings who sit on David's throne, the priests, the prophets, and all the inhabitants of Jerusalem.
+[13] Then you shall say to them, 'Thus says ⟦yhwh|Yahweh|the LORD⟧: Behold, I will fill with drunkenness all the inhabitants of this land: the kings who sit on David's throne, the priests, the prophets, and all the inhabitants of ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[14] And I will dash them one against another, fathers and sons together, declares Yahweh. I will not pity or spare or have compassion, that I should not destroy them.'"
+[14] And I will dash them one against another, fathers and sons together, declares ⟦yhwh|Yahweh|the LORD⟧. I will not pity or spare or have compassion, that I should not destroy them.'"
 
 [15] Hear and give ear; be not proud,
-for Yahweh has spoken.
+for ⟦yhwh|Yahweh|the LORD⟧ has spoken.
 
-[16] Give glory to Yahweh your *Elohim*
+[16] Give glory to ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧
 before he brings darkness,
 before your feet stumble
 on the twilight mountains,
@@ -42,16 +42,16 @@ and makes it deep darkness.
 [17] But if you will not listen,
 my soul will weep in secret for your pride;
 my eyes will weep bitterly and run down with tears,
-because Yahweh's flock has been taken captive.
+because ⟦yhwh|Yahweh's|the LORD's⟧ flock has been taken captive.
 
 [18] Say to the king and the queen mother:
 "Take a lowly seat,
 for your beautiful crown
 has come down from your head."
 
-[19] The cities of the Negev are shut up,
+[19] The cities of the ⟦negev|Negev|Negeb⟧ are shut up,
 with none to open them;
-all Judah is taken into exile,
+all ⟦judah|Yehudah|Judah⟧ is taken into exile,
 wholly taken into exile.
 
 [20] Lift up your eyes and see
@@ -70,7 +70,7 @@ it is for the greatness of your iniquity
 that your skirts are lifted up
 and you suffer violence.
 
-[23] Can the Cushite change his skin
+[23] Can the ⟦cushite|Kushi|Ethiopian⟧ change his skin
 or the leopard his spots?
 Then also you can do good
 who are accustomed to do evil.
@@ -80,7 +80,7 @@ driven by the wind from the desert.
 
 [25] This is your lot,
 the portion I have measured out to you,
-declares Yahweh,
+declares ⟦yhwh|Yahweh|the LORD⟧,
 because you have forgotten me
 and trusted in lies.
 
@@ -91,7 +91,7 @@ and your shame will be seen.
 your adulteries and neighings,
 your lewd whorings,
 on the hills in the field.
-Woe to you, O Jerusalem!
+Woe to you, O ⟦jerusalem|Yerushalayim|Jerusalem⟧!
 How long will it be before you are made clean?
 
 ## Changes

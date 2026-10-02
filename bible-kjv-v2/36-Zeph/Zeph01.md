@@ -1,36 +1,36 @@
 # Zephaniah 1
 
-[1] The word of Yahweh that came to Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in the days of Josiah son of Amon, king of Judah.
+[1] The word of ⟦yhwh|Yahweh|the LORD⟧ that came to ⟦zephaniah-prophet|Tzefanyah|Zephaniah⟧ son of ⟦cushi|Kushi|Cushi⟧, son of ⟦gedaliah|Gedalyahu|Gedaliah⟧, son of ⟦amariah|Amaryah|Amariah⟧, son of ⟦hezekiah|Chizqiyahu|Hezekiah⟧, in the days of ⟦josiah|Yoshiyahu|Josiah⟧ son of Amon, king of ⟦judah|Yehudah|Judah⟧.
 
 [2] "I will utterly sweep away everything
-from the face of the earth," declares Yahweh.
+from the face of the earth," declares ⟦yhwh|Yahweh|the LORD⟧.
 
 [3] "I will sweep away man and beast;
 I will sweep away the birds of the heavens
 and the fish of the sea,
 and the rubble with the wicked.
 I will cut off mankind
-from the face of the earth," declares Yahweh.
+from the face of the earth," declares ⟦yhwh|Yahweh|the LORD⟧.
 
-[4] "I will stretch out my hand against Judah
-and against all the inhabitants of Jerusalem;
+[4] "I will stretch out my hand against ⟦judah|Yehudah|Judah⟧
+and against all the inhabitants of ⟦jerusalem|Yerushalayim|Jerusalem⟧;
 and I will cut off from this place the remnant of Baal
 and the name of the idolatrous priests with the priests,
 
 [5] those who bow down on the roofs
 to the host of the heavens,
-those who bow down and swear to Yahweh
-and yet swear by Milkom,
+those who bow down and swear to ⟦yhwh|Yahweh|the LORD⟧
+and yet swear by ⟦milcom|Milkom|Milcom⟧,
 
-[6] those who have turned back from following Yahweh,
-who do not seek Yahweh or inquire of him."
+[6] those who have turned back from following ⟦yhwh|Yahweh|the LORD⟧,
+who do not seek ⟦yhwh|Yahweh|the LORD⟧ or inquire of him."
 
-[7] Be silent before the Lord Yahweh!
-For the Day of Yahweh is near;
-Yahweh has prepared a sacrifice
+[7] Be silent before the ⟦adonai-yhwh|Lord Yahweh|Lord GOD⟧!
+For the Day of ⟦yhwh|Yahweh|the LORD⟧ is near;
+⟦yhwh|Yahweh|the LORD⟧ has prepared a sacrifice
 and consecrated his guests.
 
-[8] "And on the day of Yahweh's sacrifice —
+[8] "And on the day of ⟦yhwh|Yahweh's|the LORD's⟧ sacrifice —
 
 "I will punish the officials and the king's sons
 and all who array themselves in foreign attire.
@@ -40,7 +40,7 @@ everyone who leaps over the threshold,
 and those who fill their master's house
 with violence and fraud.
 
-[10] "On that day," declares Yahweh,
+[10] "On that day," declares ⟦yhwh|Yahweh|the LORD⟧,
 "a cry will be heard from the Fish Gate,
 a wail from the Second Quarter,
 a loud crash from the hills.
@@ -49,11 +49,11 @@ a loud crash from the hills.
 For all the traders are no more;
 all who weigh out silver are cut off.
 
-[12] "At that time I will search Jerusalem with lamps,
+[12] "At that time I will search ⟦jerusalem|Yerushalayim|Jerusalem⟧ with lamps,
 and I will punish the men
 who are complacent, thickening on their dregs,
 those who say in their hearts,
-'Yahweh will not do good,
+'⟦yhwh|Yahweh|The LORD⟧ will not do good,
 nor will he do ill.'
 
 [13] Their goods shall be plundered,
@@ -63,9 +63,9 @@ they shall not inhabit them;
 though they plant vineyards,
 they shall not drink wine from them."
 
-[14] The great Day of Yahweh is near,
+[14] The great Day of ⟦yhwh|Yahweh|the LORD⟧ is near,
 near and hastening fast;
-the sound of the Day of Yahweh is bitter;
+the sound of the Day of ⟦yhwh|Yahweh|the LORD⟧ is bitter;
 the mighty man cries aloud there.
 
 [15] A day of wrath is that day,
@@ -74,19 +74,19 @@ a day of ruin and devastation,
 a day of darkness and gloom,
 a day of clouds and thick darkness,
 
-[16] a day of trumpet blast and battle cry
+[16] a day of ⟦shofar|shofar|trumpet⟧ blast and battle cry
 against the fortified cities
 and against the lofty battlements.
 
 [17] I will bring distress on mankind,
 so that they shall walk like the blind,
-because they have sinned against Yahweh;
+because they have sinned against ⟦yhwh|Yahweh|the LORD⟧;
 their blood shall be poured out like dust,
 and their flesh like dung.
 
 [18] Neither their silver nor their gold
 shall be able to deliver them
-on the day of the wrath of Yahweh.
+on the day of the wrath of ⟦yhwh|Yahweh|the LORD⟧.
 In the fire of his jealousy,
 all the earth shall be consumed;
 for a full and sudden end

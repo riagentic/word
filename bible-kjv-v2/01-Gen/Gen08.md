@@ -1,6 +1,6 @@
 # Genesis 8
 
-[1] *Elohim* remembered Noah, and all the wild animals and all the livestock that were with him in the ark. *Elohim* made a wind pass over the earth, and the waters subsided.
+[1] ⟦elohim|Elohim|God⟧ remembered ⟦noah|Noach|Noah⟧, and all the wild animals and all the livestock that were with him in the ark. ⟦elohim|Elohim|God⟧ made a wind pass over the earth, and the waters subsided.
 
 [2] The springs of the deep and the windows of the heavens were closed, and the rain from the heavens was restrained.
 
@@ -10,7 +10,7 @@
 
 [5] The waters continued to recede until the tenth month; in the tenth month, on the first day of the month, the tops of the mountains appeared.
 
-[6] At the end of forty days Noah opened the window of the ark that he had made,
+[6] At the end of forty days ⟦noah|Noach|Noah⟧ opened the window of the ark that he had made,
 
 [7] and he sent out a raven, which went back and forth until the waters had dried up from the earth.
 
@@ -20,27 +20,27 @@
 
 [10] He waited another seven days, and again sent out the dove from the ark.
 
-[11] The dove came in to him toward evening, and there was a freshly plucked olive leaf in her beak; so Noah knew that the waters had receded from the earth.
+[11] The dove came in to him toward evening, and there was a freshly plucked olive leaf in her beak; so ⟦noah|Noach|Noah⟧ knew that the waters had receded from the earth.
 
 [12] He waited another seven days and sent out the dove, and she did not return to him again.
 
-[13] In the 601st year, in the first month, on the first day of the month, the waters were dried up from the earth. Noah removed the covering of the ark and looked, and behold, the face of the ground was dry.
+[13] In the 601st year, in the first month, on the first day of the month, the waters were dried up from the earth. ⟦noah|Noach|Noah⟧ removed the covering of the ark and looked, and behold, the face of the ground was dry.
 
 [14] In the second month, on the 27th day of the month, the earth was dry.
 
-[15] Then *Elohim* spoke to Noah, saying,
+[15] Then ⟦elohim|Elohim|God⟧ spoke to ⟦noah|Noach|Noah⟧, saying,
 
 [16] "Go out from the ark, you and your wife, your sons and your sons' wives with you.
 
 [17] Bring out with you every living thing that is with you — of all flesh, of birds, of livestock, of every creeping thing that creeps on the earth — so that they may swarm on the earth and be fruitful and multiply on the earth."
 
-[18] So Noah went out, and his sons and his wife and his sons' wives with him.
+[18] So ⟦noah|Noach|Noah⟧ went out, and his sons and his wife and his sons' wives with him.
 
 [19] Every wild animal, every creeping thing, every bird, everything that moves on the earth — they went out of the ark according to their families.
 
-[20] Then Noah built an altar to Yahweh, and he took from every clean animal and from every clean bird, and offered burnt offerings on the altar.
+[20] Then ⟦noah|Noach|Noah⟧ built an altar to ⟦yhwh|Yahweh|the LORD⟧, and he took from every clean animal and from every clean bird, and offered burnt offerings on the altar.
 
-[21] Yahweh smelled the soothing aroma, and Yahweh said in his heart, "I will not again curse the ground because of humankind, for the inclination of the human heart is evil from its youth; nor will I again strike down every living thing as I have done.
+[21] ⟦yhwh|Yahweh|The LORD⟧ smelled the soothing aroma, and ⟦yhwh|Yahweh|the LORD⟧ said in his heart, "I will not again curse the ground because of humankind, for the inclination of the human heart is evil from its youth; nor will I again strike down every living thing as I have done.
 
 [22] As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, and day and night shall not cease."
 

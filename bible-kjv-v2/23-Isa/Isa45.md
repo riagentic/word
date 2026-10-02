@@ -1,6 +1,6 @@
 # Isaiah 45
 
-[1] Thus says Yahweh to his anointed — to Cyrus, whose right hand I have grasped, to subdue nations before him and to loose the belts of kings, to open doors before him that gates may not be closed:
+[1] Thus says ⟦yhwh|Yahweh|the LORD⟧ to his ⟦anointed|mashiach|anointed⟧ — to ⟦cyrus|Koresh|Cyrus⟧, whose right hand I have grasped, to subdue nations before him and to loose the belts of kings, to open doors before him that gates may not be closed:
 
 [2] "I will go before you
 and level the exalted places,
@@ -9,31 +9,31 @@ and cut through the bars of iron,
 
 [3] I will give you the treasures of darkness
 and the hoards in secret places,
-that you may know that it is I, Yahweh,
-the *Elohim* of Israel, who call you by your name.
+that you may know that it is I, ⟦yhwh|Yahweh|the LORD⟧,
+the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧, who call you by your name.
 
-[4] For the sake of my servant Jacob,
-and Israel my chosen,
+[4] For the sake of my servant ⟦jacob|Yaaqov|Jacob⟧,
+and ⟦israel|Yisrael|Israel⟧ my chosen,
 I call you by your name,
 I name you, though you do not know me.
 
-[5] I am Yahweh, and there is no other,
-besides me there is no *Elohim*;
+[5] I am ⟦yhwh|Yahweh|the LORD⟧, and there is no other,
+besides me there is no ⟦elohim|Elohim|God⟧;
 I equip you, though you do not know me,
 
 [6] that people may know, from the rising of the sun
 and from the west, that there is none besides me;
-I am Yahweh, and there is no other.
+I am ⟦yhwh|Yahweh|the LORD⟧, and there is no other.
 
 [7] I form light and create darkness;
 I make peace and create ra — calamity;
-I am Yahweh, who does all these things.
+I am ⟦yhwh|Yahweh|the LORD⟧, who does all these things.
 
 [8] Shower, O heavens, from above,
 and let the clouds rain down righteousness;
 let the earth open, that salvation and righteousness may bear fruit;
 let the earth cause them both to sprout;
-I Yahweh have created it.
+I ⟦yhwh|Yahweh|the LORD⟧ have created it.
 
 [9] Woe to him who strives with him who formed him,
 a pot among earthen pots!
@@ -43,7 +43,7 @@ or 'Your work has no handles'?
 [10] Woe to him who says to a father, 'What are you begetting?'
 or to a woman, 'With what are you in labor?'"
 
-[11] Thus says Yahweh, the Holy One of Israel, and the one who formed him:
+[11] Thus says ⟦yhwh|Yahweh|the LORD⟧, the Holy One of ⟦israel|Yisrael|Israel⟧, and the one who formed him:
 
 "Ask me of things to come;
 will you command me concerning my children and the work of my hands?
@@ -58,39 +58,39 @@ and I will make all his ways level;
 he shall build my city
 and set my exiles free,
 not for price or reward,"
-says Yahweh of Hosts.
+says ⟦yhwh|Yahweh|the LORD⟧ of Hosts.
 
-[14] Thus says Yahweh:
+[14] Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
-"The wealth of Egypt and the merchandise of Cush,
-and the Sabeans, men of stature,
+"The wealth of ⟦egypt|Mitzrayim|Egypt⟧ and the merchandise of ⟦cush|Kush|Cush⟧,
+and the ⟦sabeans-seba|Sevaim|Sabeans⟧, men of stature,
 shall come over to you and be yours;
 they shall follow you; they shall come over in chains
 and bow down to you.
 They will plead with you, saying:
-'Surely *Elohim* is in you, and there is no other,
-no *Elohim* besides him.'"
+'Surely ⟦el|El|God⟧ is in you, and there is no other,
+no ⟦elohim|Elohim|god⟧ besides him.'"
 
-[15] Truly, you are an *Elohim* who hides himself,
-O *Elohim* of Israel, the Savior.
+[15] Truly, you are ⟦el|an El|a God⟧ who hides himself,
+O ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧, the Savior.
 
 [16] All of them are put to shame and confounded;
 the makers of idols go in confusion together.
 
-[17] But Israel is saved by Yahweh
+[17] But ⟦israel|Yisrael|Israel⟧ is saved by ⟦yhwh|Yahweh|the LORD⟧
 with everlasting salvation;
 you shall not be put to shame or confounded
 to all eternity.
 
-[18] For thus says Yahweh, who created the heavens (he is *Elohim*!), who formed the earth and made it (he established it; he did not create it empty, he formed it to be inhabited!):
+[18] For thus says ⟦yhwh|Yahweh|the LORD⟧, who created the heavens (he is ⟦elohim|Elohim|God⟧!), who formed the earth and made it (he established it; he did not create it empty, he formed it to be inhabited!):
 
-"I am Yahweh, and there is no other.
+"I am ⟦yhwh|Yahweh|the LORD⟧, and there is no other.
 
 [19] I did not speak in secret,
 in a land of darkness;
-I did not say to the offspring of Jacob,
+I did not say to the offspring of ⟦jacob|Yaaqov|Jacob⟧,
 'Seek me in emptiness.'
-I, Yahweh, speak the truth;
+I, ⟦yhwh|Yahweh|the LORD⟧, speak the truth;
 I declare what is right.
 
 [20] Assemble yourselves and come;
@@ -104,14 +104,14 @@ and keep on praying to a god that cannot save.
 let them take counsel together!
 Who told this long ago?
 Who declared it of old?
-Was it not I, Yahweh?
-And there is no other *Elohim* besides me,
-a righteous *Elohim* and a Savior;
+Was it not I, ⟦yhwh|Yahweh|the LORD⟧?
+And there is no other ⟦elohim|Elohim|god⟧ besides me,
+a righteous ⟦el|El|God⟧ and a Savior;
 there is none besides me.
 
 [22] Turn to me and be saved,
 all the ends of the earth!
-For I am *Elohim*, and there is no other.
+For I am ⟦el|El|God⟧, and there is no other.
 
 [23] By myself I have sworn;
 from my mouth has gone out in righteousness
@@ -119,12 +119,12 @@ a word that shall not return:
 'To me every knee shall bow,
 every tongue shall swear allegiance.'
 
-[24] Only in Yahweh, it shall be said of me,
+[24] Only in ⟦yhwh|Yahweh|the LORD⟧, it shall be said of me,
 are righteousness and strength;
 to him shall come and be ashamed
 all who were incensed against him.
 
-[25] In Yahweh all the offspring of Israel
+[25] In ⟦yhwh|Yahweh|the LORD⟧ all the offspring of ⟦israel|Yisrael|Israel⟧
 shall be justified and shall glory."
 
 ## Changes
@@ -132,7 +132,7 @@ shall be justified and shall glory."
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"LORD of hosts" → "Yahweh of Hosts"** (v13) — divine title preserved.
-- **"God" / "El" → "*Elohim*" / "*El*"** (throughout) — Hebrew divine names preserved with appropriate forms.
+- **"God" → "El"** (v14, 15, 21, 22) — Hebrew אֵל *El*, not *Elohim*.
 - **Poetic structure** — vv2-8, 9-10, 11-13, 14-17, 18-25 formatted as verse with prose bridge v1 preserved.
 
 ### Notes

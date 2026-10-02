@@ -12,10 +12,10 @@ and raise your voice for understanding,
 [4] if you seek it like silver
 and search for it as for hidden treasures,
 
-[5] then you will understand the fear of Yahweh
-and find the knowledge of *Elohim*.
+[5] then you will understand the fear of ⟦yhwh|Yahweh|the LORD⟧
+and find the knowledge of ⟦elohim|Elohim|God⟧.
 
-[6] For Yahweh gives wisdom;
+[6] For ⟦yhwh|Yahweh|the LORD⟧ gives wisdom;
 from his mouth come knowledge and understanding;
 
 [7] he stores up sound wisdom for the upright;
@@ -49,7 +49,7 @@ and who are devious in their ways.
 from the adulteress with her smooth words,
 
 [17] who forsakes the companion of her youth
-and forgets the covenant of her *Elohim*;
+and forgets the covenant of her ⟦elohim|Elohim|God⟧;
 
 [18] for her house sinks down to death,
 and her paths to the departed;

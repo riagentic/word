@@ -1,46 +1,46 @@
 # Zechariah 1
 
-[1] In the eighth month, in the second year of Darius, the word of Yahweh came to the prophet Zechariah — son of Berechiah, son of Iddo, saying,
+[1] In the eighth month, in the second year of ⟦darius|Daryavesh|Darius⟧, the word of ⟦yhwh|Yahweh|the LORD⟧ came to the prophet ⟦zechariah|Zecharyah|Zechariah⟧ — son of ⟦berechiah|Berechyah|Berechiah⟧, son of Iddo, saying,
 
-[2] "Yahweh was very angry with your fathers.
+[2] "⟦yhwh|Yahweh|The LORD⟧ was very angry with your fathers.
 
-[3] Therefore say to them, Thus says Yahweh of Hosts: **Return to me, says Yahweh of Hosts, and I will return to you**, says Yahweh of Hosts.
+[3] Therefore say to them, Thus says ⟦yhwh|Yahweh|the LORD⟧ of Hosts: **Return to me, says ⟦yhwh|Yahweh|the LORD⟧ of Hosts, and I will return to you**, says ⟦yhwh|Yahweh|the LORD⟧ of Hosts.
 
-[4] Do not be like your fathers, to whom the former prophets cried out, 'Thus says Yahweh of Hosts: Return from your evil ways and from your evil deeds.' But they did not hear or pay attention to me, declares Yahweh.
+[4] Do not be like your fathers, to whom the former prophets cried out, 'Thus says ⟦yhwh|Yahweh|the LORD⟧ of Hosts: Return from your evil ways and from your evil deeds.' But they did not hear or pay attention to me, declares ⟦yhwh|Yahweh|the LORD⟧.
 
 [5] Your fathers, where are they? And the prophets, do they live forever?
 
-[6] But my words and my statutes, which I commanded my servants the prophets, did they not overtake your fathers? So they repented and said, 'As Yahweh of Hosts purposed to deal with us for our ways and deeds, so has he dealt with us.'"
+[6] But my words and my statutes, which I commanded my servants the prophets, did they not overtake your fathers? So they repented and said, 'As ⟦yhwh|Yahweh|the LORD⟧ of Hosts purposed to deal with us for our ways and deeds, so has he dealt with us.'"
 
-[7] On the twenty-fourth day of the eleventh month, which is the month of Shevat, in the second year of Darius, the word of Yahweh came to the prophet Zechariah, son of Berechiah, son of Iddo, saying,
+[7] On the twenty-fourth day of the eleventh month, which is the month of ⟦shevat|Shevat|Shebat⟧, in the second year of ⟦darius|Daryavesh|Darius⟧, the word of ⟦yhwh|Yahweh|the LORD⟧ came to the prophet ⟦zechariah|Zecharyah|Zechariah⟧, son of ⟦berechiah|Berechyah|Berechiah⟧, son of Iddo, saying,
 
 [8] "I saw in the night, and behold, a man riding on a red horse! He was standing among the myrtle trees in the glen, and behind him were red, sorrel, and white horses.
 
 [9] Then I said, 'What are these, my lord?' The messenger who talked with me said to me, 'I will show you what they are.'
 
-[10] So the man who was standing among the myrtle trees answered, 'These are they whom Yahweh has sent to patrol the earth.'
+[10] So the man who was standing among the myrtle trees answered, 'These are they whom ⟦yhwh|Yahweh|the LORD⟧ has sent to patrol the earth.'
 
-[11] And they answered the messenger of Yahweh who was standing among the myrtle trees, and said, 'We have patrolled the earth, and behold, all the earth remains at rest.'
+[11] And they answered the messenger of ⟦yhwh|Yahweh|the LORD⟧ who was standing among the myrtle trees, and said, 'We have patrolled the earth, and behold, all the earth remains at rest.'
 
-[12] "Then the messenger of Yahweh said, 'O Yahweh of Hosts, how long will you have no mercy on Jerusalem and the cities of Judah, against which you have been angry these seventy years?'
+[12] "Then the messenger of ⟦yhwh|Yahweh|the LORD⟧ said, 'O ⟦yhwh|Yahweh|LORD⟧ of Hosts, how long will you have no mercy on ⟦jerusalem|Yerushalayim|Jerusalem⟧ and the cities of ⟦judah|Yehudah|Judah⟧, against which you have been angry these seventy years?'
 
-[13] And Yahweh answered gracious and comforting words to the messenger who talked with me.
+[13] And ⟦yhwh|Yahweh|the LORD⟧ answered gracious and comforting words to the messenger who talked with me.
 
-[14] So the messenger who talked with me said to me, 'Cry out: Thus says Yahweh of Hosts: I am exceedingly jealous for Jerusalem and for Zion.
+[14] So the messenger who talked with me said to me, 'Cry out: Thus says ⟦yhwh|Yahweh|the LORD⟧ of Hosts: I am exceedingly jealous for ⟦jerusalem|Yerushalayim|Jerusalem⟧ and for ⟦zion|Tziyon|Zion⟧.
 
 [15] And I am exceedingly angry with the nations that are at ease; for while I was angry but a little, they furthered the disaster.
 
-[16] Therefore, thus says Yahweh: I have returned to Jerusalem with mercy; my house shall be built in it, declares Yahweh of Hosts, and the measuring line shall be stretched out over Jerusalem.
+[16] Therefore, thus says ⟦yhwh|Yahweh|the LORD⟧: I have returned to ⟦jerusalem|Yerushalayim|Jerusalem⟧ with mercy; my house shall be built in it, declares ⟦yhwh|Yahweh|the LORD⟧ of Hosts, and the measuring line shall be stretched out over ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[17] Cry out again, Thus says Yahweh of Hosts: My cities shall again overflow with prosperity, and Yahweh will again comfort Zion and again choose Jerusalem.'"
+[17] Cry out again, Thus says ⟦yhwh|Yahweh|the LORD⟧ of Hosts: My cities shall again overflow with prosperity, and ⟦yhwh|Yahweh|the LORD⟧ will again comfort ⟦zion|Tziyon|Zion⟧ and again choose ⟦jerusalem|Yerushalayim|Jerusalem⟧.'"
 
 [18] And I lifted my eyes and saw, and behold, four horns!
 
-[19] And I said to the messenger who talked with me, "What are these?" And he said to me, "These are the horns that have scattered Judah, Israel, and Jerusalem."
+[19] And I said to the messenger who talked with me, "What are these?" And he said to me, "These are the horns that have scattered ⟦judah|Yehudah|Judah⟧, ⟦israel|Yisrael|Israel⟧, and ⟦jerusalem|Yerushalayim|Jerusalem⟧."
 
-[20] Then Yahweh showed me four craftsmen.
+[20] Then ⟦yhwh|Yahweh|the LORD⟧ showed me four craftsmen.
 
-[21] And I said, "What are these coming to do?" He said, "These are the horns that scattered Judah, so that no one raised his head. And these have come to terrify them, to cast down the horns of the nations who lifted up their horns against the land of Judah to scatter it."
+[21] And I said, "What are these coming to do?" He said, "These are the horns that scattered ⟦judah|Yehudah|Judah⟧, so that no one raised his head. And these have come to terrify them, to cast down the horns of the nations who lifted up their horns against the land of ⟦judah|Yehudah|Judah⟧ to scatter it."
 
 ## Changes
 

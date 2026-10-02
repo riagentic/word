@@ -2,61 +2,61 @@
 
 [1] "Then we turned and went up by the way to Bashan, and Og king of Bashan came out against us — he and all his people — for battle at Edrei.
 
-[2] Yahweh said to me, 'Do not fear him, for I have given him and all his people and his land into your hand, and you shall do to him as you did to Sihon king of the Amorites, who lived at Heshbon.'
+[2] ⟦yhwh|Yahweh|The LORD⟧ said to me, 'Do not fear him, for I have given him and all his people and his land into your hand, and you shall do to him as you did to ⟦sihon|Sichon|Sihon⟧ king of the ⟦amorites|Emorim|Amorites⟧, who lived at ⟦heshbon|Cheshbon|Heshbon⟧.'
 
-[3] So Yahweh our *Elohim* gave into our hand Og also, the king of Bashan, and all his people; and we struck him down until he had no survivor remaining.
+[3] So ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧ gave into our hand Og also, the king of Bashan, and all his people; and we struck him down until he had no survivor remaining.
 
-[4] We captured all his cities at that time; there was not a city that we did not take from them — sixty cities, the whole region of Argob, the kingdom of Og in Bashan.
+[4] We captured all his cities at that time; there was not a city that we did not take from them — sixty cities, the whole region of ⟦argob|Argov|Argob⟧, the kingdom of Og in Bashan.
 
 [5] All these cities were fortified with high walls, gates, and bars, besides a very great number of unwalled villages.
 
-[6] We devoted them to destruction, as we did to Sihon king of Heshbon, devoting to destruction every city — men, women, and little ones.
+[6] We devoted them to destruction, as we did to ⟦sihon|Sichon|Sihon⟧ king of ⟦heshbon|Cheshbon|Heshbon⟧, devoting to destruction every city — men, women, and little ones.
 
 [7] But all the livestock and the spoil of the cities we took for ourselves as plunder.
 
-[8] At that time we took from the two kings of the Amorites the land that was beyond the Jordan, from the wadi Arnon to Mount Hermon —
+[8] At that time we took from the two kings of the ⟦amorites|Emorim|Amorites⟧ the land that was beyond the ⟦jordan|Yarden|Jordan⟧, from the wadi Arnon to Mount ⟦hermon|Chermon|Hermon⟧ —
 
-[9] (the Sidonians call Hermon Siryon, and the Amorites call it Senir) —
+[9] (the ⟦sidonians|Tzidonim|Sidonians⟧ call ⟦hermon|Chermon|Hermon⟧ ⟦sirion|Siryon|Sirion⟧, and the ⟦amorites|Emorim|Amorites⟧ call it Senir) —
 
-[10] all the cities of the plateau, all of Gilead, and all of Bashan as far as Salcah and Edrei, cities of Og's kingdom in Bashan.
+[10] all the cities of the plateau, all of ⟦gilead|Gilad|Gilead⟧, and all of Bashan as far as ⟦salecah|Salchah|Salecah⟧ and Edrei, cities of Og's kingdom in Bashan.
 
-[11] (For only Og king of Bashan remained of the remnant of the Rephaim. Behold, his bed was a bed of iron — is it not in Rabbah of the children of Ammon? Nine cubits was its length, and four cubits its breadth, by the common cubit.)
+[11] (For only Og king of Bashan remained of the remnant of the ⟦rephaim|Refaim|Rephaim⟧. Behold, his bed was a bed of iron — is it not in Rabbah of the children of Ammon? Nine cubits was its length, and four cubits its breadth, by the common cubit.)
 
-[12] This is the land that we took in possession at that time: from Aroer, which is by the wadi Arnon, and half the hill country of Gilead with its cities, I gave to the Reubenites and to the Gadites;
+[12] This is the land that we took in possession at that time: from Aroer, which is by the wadi Arnon, and half the hill country of ⟦gilead|Gilad|Gilead⟧ with its cities, I gave to the ⟦reubenites|Reuveni|Reubenites⟧ and to the ⟦gadites|Gadi|Gadites⟧;
 
-[13] the rest of Gilead and all of Bashan — Og's kingdom — I gave to the half-tribe of Manasseh, all the region of Argob, all of Bashan, which was called the land of the Rephaim.
+[13] the rest of ⟦gilead|Gilad|Gilead⟧ and all of Bashan — Og's kingdom — I gave to the half-tribe of ⟦manasseh|Menashe|Manasseh⟧, all the region of ⟦argob|Argov|Argob⟧, all of Bashan, which was called the land of the ⟦rephaim|Refaim|Rephaim⟧.
 
-[14] Jair son of Manasseh took all the region of Argob as far as the border of the Geshurites and the Maacathites, and he called Bashan after his own name, Havvoth-Jair, to this day.
+[14] ⟦jair|Yair|Jair⟧ son of ⟦manasseh|Menashe|Manasseh⟧ took all the region of ⟦argob|Argov|Argob⟧ as far as the border of the ⟦geshurites|Geshuri|Geshurites⟧ and the ⟦maacathites|Maachati|Maacathites⟧, and he called Bashan after his own name, ⟦havvoth-jair|Chavvot Yair|Havvoth-jair⟧, to this day.
 
-[15] To Machir I gave Gilead.
+[15] To Machir I gave ⟦gilead|Gilad|Gilead⟧.
 
-[16] To the Reubenites and the Gadites I gave from Gilead as far as the wadi Arnon, the middle of the wadi being the border, and as far as the wadi Jabbok, which is the border of the children of Ammon,
+[16] To the ⟦reubenites|Reuveni|Reubenites⟧ and the ⟦gadites|Gadi|Gadites⟧ I gave from ⟦gilead|Gilad|Gilead⟧ as far as the wadi Arnon, the middle of the wadi being the border, and as far as the wadi ⟦jabbok|Yabboq|Jabbok⟧, which is the border of the children of Ammon,
 
-[17] the Arabah also, with the Jordan as its border, from Chinnereth down to the sea of the Arabah — the Salt Sea — under the slopes of Pisgah on the east.
+[17] the ⟦arabah|Aravah|Arabah⟧ also, with the ⟦jordan|Yarden|Jordan⟧ as its border, from ⟦chinnereth|Kinneret|Chinnereth⟧ down to the sea of the ⟦arabah|Aravah|Arabah⟧ — the Salt Sea — under the slopes of Pisgah on the east.
 
-[18] I commanded you at that time, saying, 'Yahweh your *Elohim* has given you this land to possess; all your warriors shall cross over armed, before your brothers the children of Israel.
+[18] I commanded you at that time, saying, '⟦yhwh|Yahweh|The LORD⟧ your ⟦elohim|Elohim|God⟧ has given you this land to possess; all your warriors shall cross over armed, before your brothers the children of ⟦israel|Yisrael|Israel⟧.
 
 [19] Only your wives, your little ones, and your livestock (I know that you have much livestock) shall remain in the cities that I have given you,
 
-[20] until Yahweh gives rest to your brothers as to you, and they also take possession of the land that Yahweh your *Elohim* is giving them beyond the Jordan. Then each of you may return to his possession that I have given you.'
+[20] until ⟦yhwh|Yahweh|the LORD⟧ gives rest to your brothers as to you, and they also take possession of the land that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is giving them beyond the ⟦jordan|Yarden|Jordan⟧. Then each of you may return to his possession that I have given you.'
 
-[21] I commanded Joshua at that time, saying, 'Your eyes have seen all that Yahweh your *Elohim* has done to these two kings; so will Yahweh do to all the kingdoms into which you are crossing over.
+[21] I commanded ⟦joshua|Yehoshua|Joshua⟧ at that time, saying, 'Your eyes have seen all that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ has done to these two kings; so will ⟦yhwh|Yahweh|the LORD⟧ do to all the kingdoms into which you are crossing over.
 
-[22] You shall not fear them, for Yahweh your *Elohim* — he himself fights for you.'
+[22] You shall not fear them, for ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ — he himself fights for you.'
 
-[23] I also pleaded with Yahweh at that time, saying,
+[23] I also pleaded with ⟦yhwh|Yahweh|the LORD⟧ at that time, saying,
 
-[24] 'Lord Yahweh, you have only begun to show your servant your greatness and your mighty hand; for what god is there in heaven or on earth who can do works and mighty deeds like yours?
+[24] '⟦adonai-yhwh|Lord Yahweh|Lord GOD⟧, you have only begun to show your servant your greatness and your mighty hand; for what god is there in heaven or on earth who can do works and mighty deeds like yours?
 
-[25] Please let me cross over and see the good land beyond the Jordan — that good hill country, and Lebanon.'
+[25] Please let me cross over and see the good land beyond the ⟦jordan|Yarden|Jordan⟧ — that good hill country, and ⟦lebanon|Levanon|Lebanon⟧.'
 
-[26] But Yahweh was angry with me on your account and would not listen to me. Yahweh said to me, 'Enough! Speak to me no more of this matter.
+[26] But ⟦yhwh|Yahweh|the LORD⟧ was angry with me on your account and would not listen to me. ⟦yhwh|Yahweh|The LORD⟧ said to me, 'Enough! Speak to me no more of this matter.
 
-[27] Go up to the top of Pisgah, and lift up your eyes westward, northward, southward, and eastward, and see it with your eyes; for you shall not cross over this Jordan.
+[27] Go up to the top of Pisgah, and lift up your eyes westward, northward, southward, and eastward, and see it with your eyes; for you shall not cross over this ⟦jordan|Yarden|Jordan⟧.
 
-[28] But commission Joshua, encourage him and strengthen him, for he shall cross over before this people and cause them to inherit the land that you shall see.'
+[28] But commission ⟦joshua|Yehoshua|Joshua⟧, encourage him and strengthen him, for he shall cross over before this people and cause them to inherit the land that you shall see.'
 
-[29] So we remained in the valley opposite Beth-peor.
+[29] So we remained in the valley opposite ⟦beth-peor|Beit Peor|Beth-peor⟧.
 
 ## Changes
 

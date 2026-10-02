@@ -2,11 +2,11 @@
 
 [1] He went away from there and came to his hometown, and his disciples followed him.
 
-[2] And on the Sabbath he began to teach in the synagogue, and many who heard him were astonished, saying, "Where did this man get these things? What is the wisdom given to him? How are such mighty works done by his hands?
+[2] And on the ⟦shabbat|Shabbat|Sabbath⟧ he began to teach in the synagogue, and many who heard him were astonished, saying, "Where did this man get these things? What is the wisdom given to him? How are such mighty works done by his hands?
 
-[3] Is not this the carpenter, the son of Mary and brother of Jacob and Joseph and Judas and Simon? And are not his sisters here with us?" And they took offense at him.
+[3] Is not this the carpenter, the son of ⟦mary|Miryam|Mary⟧ and brother of ⟦james|Yaaqov|James⟧ and ⟦joses|Yose|Joses⟧ and ⟦jude|Yehudah|Judas⟧ and ⟦simon|Shimon|Simon⟧? And are not his sisters here with us?" And they took offense at him.
 
-[4] And *Yeshua* said to them, "**A prophet is not without honor, except in his hometown and among his relatives and in his own household.**"
+[4] And ⟦yeshua|Yeshua|Jesus⟧ said to them, "**A prophet is not without honor, except in his hometown and among his relatives and in his own household.**"
 
 [5] And he could do no mighty work there, except that he laid his hands on a few sick people and healed them.
 
@@ -28,39 +28,39 @@ And he went about among the villages teaching.
 
 [13] And they cast out many demons and anointed with oil many who were sick and healed them.
 
-[14] King Herod heard of it, for *Yeshua's* name had become known. Some said, "John the Immerser has been raised from the dead. That is why these miraculous powers are at work in him."
+[14] King ⟦herod|Herodes|Herod⟧ heard of it, for ⟦yeshua|Yeshua's|Jesus'⟧ name had become known. Some said, "⟦john|Yochanan|John⟧ the ⟦immerser|Immerser|Baptist⟧ has been raised from the dead. That is why these miraculous powers are at work in him."
 
-[15] But others said, "He is Elijah." And others said, "He is a prophet, like one of the prophets of old."
+[15] But others said, "He is ⟦elijah|Eliyahu|Elijah⟧." And others said, "He is a prophet, like one of the prophets of old."
 
-[16] But when Herod heard of it, he said, "John, whom I beheaded, has been raised."
+[16] But when ⟦herod|Herodes|Herod⟧ heard of it, he said, "⟦john|Yochanan|John⟧, whom I beheaded, has been raised."
 
-[17] For it was Herod who had sent and seized John and bound him in prison for the sake of Herodias, his brother Philip's wife, because he had married her.
+[17] For it was ⟦herod|Herodes|Herod⟧ who had sent and seized ⟦john|Yochanan|John⟧ and bound him in prison for the sake of Herodias, his brother ⟦philip|Philippos's|Philip's⟧ wife, because he had married her.
 
-[18] For John had been saying to Herod, "It is not lawful for you to have your brother's wife."
+[18] For ⟦john|Yochanan|John⟧ had been saying to ⟦herod|Herodes|Herod⟧, "It is not lawful for you to have your brother's wife."
 
 [19] And Herodias had a grudge against him and wanted to put him to death. But she could not,
 
-[20] for Herod feared John, knowing that he was a righteous and holy man, and he kept him safe. When he heard him, he was greatly perplexed, and yet he heard him gladly.
+[20] for ⟦herod|Herodes|Herod⟧ feared ⟦john|Yochanan|John⟧, knowing that he was a righteous and holy man, and he kept him safe. When he heard him, he was greatly perplexed, and yet he heard him gladly.
 
-[21] But an opportunity came when Herod on his birthday gave a banquet for his nobles and military commanders and the leading men of Galilee.
+[21] But an opportunity came when ⟦herod|Herodes|Herod⟧ on his birthday gave a banquet for his nobles and military commanders and the leading men of ⟦galilee|Galil|Galilee⟧.
 
-[22] For when Herodias's daughter came in and danced, she pleased Herod and his guests. And the king said to the girl, "Ask me for whatever you wish, and I will give it to you."
+[22] For when Herodias's daughter came in and danced, she pleased ⟦herod|Herodes|Herod⟧ and his guests. And the king said to the girl, "Ask me for whatever you wish, and I will give it to you."
 
 [23] And he vowed to her, "Whatever you ask me, I will give you, up to half of my kingdom."
 
-[24] And she went out and said to her mother, "For what should I ask?" And she said, "The head of John the Immerser."
+[24] And she went out and said to her mother, "For what should I ask?" And she said, "The head of ⟦john|Yochanan|John⟧ the ⟦immerser|Immerser|Baptist⟧."
 
-[25] And she came in immediately with haste to the king and asked, saying, "I want you to give me at once the head of John the Immerser on a platter."
+[25] And she came in immediately with haste to the king and asked, saying, "I want you to give me at once the head of ⟦john|Yochanan|John⟧ the ⟦immerser|Immerser|Baptist⟧ on a platter."
 
 [26] And the king was exceedingly sorry, but because of his oaths and his guests he did not want to refuse her.
 
-[27] And immediately the king sent an executioner with orders to bring John's head. He went and beheaded him in the prison
+[27] And immediately the king sent an executioner with orders to bring ⟦john|Yochanan's|John's⟧ head. He went and beheaded him in the prison
 
 [28] and brought his head on a platter and gave it to the girl, and the girl gave it to her mother.
 
 [29] When his disciples heard of it, they came and took his body and laid it in a tomb.
 
-[30] The apostles returned to *Yeshua* and told him all that they had done and taught.
+[30] The apostles returned to ⟦yeshua|Yeshua|Jesus⟧ and told him all that they had done and taught.
 
 [31] And he said to them, "Come away by yourselves to a desolate place and rest a while." For many were coming and going, and they had no leisure even to eat.
 
@@ -90,7 +90,7 @@ And he went about among the villages teaching.
 
 [44] And those who ate the loaves were five thousand men.
 
-[45] Immediately he made his disciples get into the boat and go before him to the other side, to Bethsaida, while he dismissed the crowd.
+[45] Immediately he made his disciples get into the boat and go before him to the other side, to ⟦bethsaida|Beit Tzaidah|Bethsaida⟧, while he dismissed the crowd.
 
 [46] And after he had taken leave of them, he went up on the mountain to pray.
 
@@ -106,7 +106,7 @@ And he went about among the villages teaching.
 
 [52] for they did not understand about the loaves, but their hearts were hardened.
 
-[53] When they had crossed over, they came to land at Gennesaret and moored to the shore.
+[53] When they had crossed over, they came to land at ⟦gennesaret|Ginosar|Gennesaret⟧ and moored to the shore.
 
 [54] And when they got out of the boat, the people immediately recognized him
 

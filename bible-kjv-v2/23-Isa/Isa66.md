@@ -1,6 +1,6 @@
 # Isaiah 66
 
-[1] Thus says Yahweh:
+[1] Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
 "Heaven is my throne,
 and the earth is my footstool;
@@ -8,7 +8,7 @@ what is the house that you would build for me,
 and what is the place of my rest?
 
 [2] All these things my hand has made,
-and so all these things came to be," declares Yahweh.
+and so all these things came to be," declares ⟦yhwh|Yahweh|the LORD⟧.
 "But this is the one to whom I will look:
 he who is humble and contrite in spirit
 and trembles at my word.
@@ -28,15 +28,15 @@ when I spoke, they did not listen;
 but they did what was evil in my eyes
 and chose that in which I did not delight."
 
-[5] Hear the word of Yahweh, you who tremble at his word:
+[5] Hear the word of ⟦yhwh|Yahweh|the LORD⟧, you who tremble at his word:
 "Your brothers who hate you
 and cast you out for my name's sake have said,
-'Let Yahweh be glorified, that we may see your joy';
+'Let ⟦yhwh|Yahweh|the LORD⟧ be glorified, that we may see your joy';
 but it is they who shall be put to shame.
 
 [6] The sound of an uproar from the city!
 A sound from the temple!
-The sound of Yahweh
+The sound of ⟦yhwh|Yahweh|the LORD⟧
 rendering recompense to his enemies!
 
 [7] Before she was in labor
@@ -48,15 +48,15 @@ she delivered a son.
 Who has seen such things?
 Shall a land be born in one day?
 Shall a nation be brought forth in one moment?
-For as soon as Zion was in labor
+For as soon as ⟦zion|Tziyon|Zion⟧ was in labor
 she brought forth her children.
 
 [9] Shall I bring to the point of birth and not cause to bring forth?"
-says Yahweh;
+says ⟦yhwh|Yahweh|the LORD⟧;
 "shall I, who cause to bring forth, shut the womb?"
-says your *Elohim*.
+says your ⟦elohim|Elohim|God⟧.
 
-[10] "Rejoice with Jerusalem, and be glad for her,
+[10] "Rejoice with ⟦jerusalem|Yerushalayim|Jerusalem⟧, and be glad for her,
 all you who love her;
 rejoice with her in joy,
 all you who mourn over her;
@@ -66,7 +66,7 @@ from her consoling breast;
 that you may drink deeply with delight
 from her glorious abundance."
 
-[12] For thus says Yahweh:
+[12] For thus says ⟦yhwh|Yahweh|the LORD⟧:
 
 "Behold, I will extend peace to her like a river,
 and the glory of the nations like an overflowing stream;
@@ -75,40 +75,40 @@ and bounced upon her knees.
 
 [13] As one whom his mother comforts,
 so I will comfort you;
-you shall be comforted in Jerusalem.
+you shall be comforted in ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
 [14] You shall see, and your heart shall rejoice;
 your bones shall flourish like the grass;
-and the hand of Yahweh shall be known to his servants,
+and the hand of ⟦yhwh|Yahweh|the LORD⟧ shall be known to his servants,
 and he shall show his indignation against his enemies.
 
-[15] For behold, Yahweh will come in fire,
+[15] For behold, ⟦yhwh|Yahweh|the LORD⟧ will come in fire,
 and his chariots like the whirlwind,
 to render his anger in fury,
 and his rebuke with flames of fire.
 
-[16] For by fire will Yahweh enter into judgment,
+[16] For by fire will ⟦yhwh|Yahweh|the LORD⟧ enter into judgment,
 and by his sword, with all flesh;
-and those slain by Yahweh shall be many.
+and those slain by ⟦yhwh|Yahweh|the LORD⟧ shall be many.
 
-[17] "Those who sanctify and purify themselves to go into the gardens, following one in the midst, eating pig's flesh and the abomination and mice, shall come to an end together, declares Yahweh.
+[17] "Those who sanctify and purify themselves to go into the gardens, following one in the midst, eating pig's flesh and the abomination and mice, shall come to an end together, declares ⟦yhwh|Yahweh|the LORD⟧.
 
 [18] "For I know their works and their thoughts, and the time is coming to gather all nations and tongues. And they shall come and shall see my glory,
 
-[19] and I will set a sign among them. And from them I will send survivors to the nations, to Tarshish, Pul, and Lud, who draw the bow, to Tubal and Yavan, to the coastlands far away, that have not heard my fame or seen my glory. And they shall declare my glory among the nations.
+[19] and I will set a sign among them. And from them I will send survivors to the nations, to Tarshish, Pul, and Lud, who draw the bow, to ⟦tubal|Tuval|Tubal⟧ and ⟦javan|Yavan|Javan⟧, to the coastlands far away, that have not heard my fame or seen my glory. And they shall declare my glory among the nations.
 
-[20] And they shall bring all your brothers from all the nations as an offering to Yahweh, on horses and in chariots and in litters and on mules and on dromedaries, to my holy mountain Jerusalem," says Yahweh, "just as the Israelites bring their grain offering in a clean vessel to the house of Yahweh.
+[20] And they shall bring all your brothers from all the nations as an offering to ⟦yhwh|Yahweh|the LORD⟧, on horses and in chariots and in litters and on mules and on dromedaries, to my holy mountain ⟦jerusalem|Yerushalayim|Jerusalem⟧," says ⟦yhwh|Yahweh|the LORD⟧, "just as the ⟦israelite|Yisraelim|Israelites⟧ bring their grain offering in a clean vessel to the house of ⟦yhwh|Yahweh|the LORD⟧.
 
-[21] And some of them also I will take for priests and for Levites," says Yahweh.
+[21] And some of them also I will take for priests and for ⟦levites|Leviyim|Levites⟧," says ⟦yhwh|Yahweh|the LORD⟧.
 
 [22] "For as the new heavens and the new earth
-that I make shall remain before me," says Yahweh,
+that I make shall remain before me," says ⟦yhwh|Yahweh|the LORD⟧,
 "so shall your offspring and your name remain.
 
 [23] From new moon to new moon,
-and from Sabbath to Sabbath,
+and from ⟦shabbat|Shabbat|Sabbath⟧ to ⟦shabbat|Shabbat|Sabbath⟧,
 all flesh shall come to worship before me,"
-says Yahweh.
+says ⟦yhwh|Yahweh|the LORD⟧.
 
 [24] "And they shall go out and look
 on the dead bodies of the men who have rebelled against me.

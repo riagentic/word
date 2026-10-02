@@ -1,43 +1,43 @@
 # Micah 6
 
-[1] Hear what Yahweh says:
+[1] Hear what ⟦yhwh|Yahweh|the LORD⟧ says:
 Arise, plead your case before the mountains,
 and let the hills hear your voice.
 
-[2] Hear, you mountains, the dispute of Yahweh,
+[2] Hear, you mountains, the dispute of ⟦yhwh|Yahweh|the LORD⟧,
 and you enduring foundations of the earth,
-for Yahweh has a case against his people,
-and he will contend with Israel.
+for ⟦yhwh|Yahweh|the LORD⟧ has a case against his people,
+and he will contend with ⟦israel|Yisrael|Israel⟧.
 
 [3] "O my people, what have I done to you?
 How have I wearied you? Answer me!
 
-[4] For I brought you up from the land of Egypt
+[4] For I brought you up from the land of ⟦egypt|Mitzrayim|Egypt⟧
 and redeemed you from the house of slavery,
-and I sent before you Moses, Aaron, and Miriam.
+and I sent before you ⟦moses|Moshe|Moses⟧, ⟦aaron|Aharon|Aaron⟧, and ⟦miriam|Miryam|Miriam⟧.
 
-[5] O my people, remember what Balak king of Moab devised,
-and what Balaam the son of Beor answered him,
+[5] O my people, remember what ⟦balak|Balaq|Balak⟧ king of ⟦moab|Moav|Moab⟧ devised,
+and what ⟦balaam|Bilam|Balaam⟧ the son of Beor answered him,
 and what happened from Shittim to Gilgal,
-that you may know the righteous acts of Yahweh."
+that you may know the righteous acts of ⟦yhwh|Yahweh|the LORD⟧."
 
-[6] "With what shall I come before Yahweh,
-and bow myself before the *Elohim* on high?
+[6] "With what shall I come before ⟦yhwh|Yahweh|the LORD⟧,
+and bow myself before the ⟦elohim|Elohim|God⟧ on high?
 Shall I come before him with burnt offerings,
 with calves a year old?
 
-[7] Will Yahweh be pleased with thousands of rams,
+[7] Will ⟦yhwh|Yahweh|the LORD⟧ be pleased with thousands of rams,
 with ten thousands of rivers of oil?
 Shall I give my firstborn for my transgression,
 the fruit of my body for the sin of my soul?"
 
 [8] **He has told you, O man, what is good;
-and what does Yahweh require of you
+and what does ⟦yhwh|Yahweh|the LORD⟧ require of you
 but to do justice,
-and to love steadfast love,
-and to walk humbly with your *Elohim*?**
+and to love ⟦steadfast-love|chesed|kindness⟧,
+and to walk humbly with your ⟦elohim|Elohim|God⟧?**
 
-[9] The voice of Yahweh cries to the city —
+[9] The voice of ⟦yhwh|Yahweh|the LORD⟧ cries to the city —
 and it is sound wisdom to fear your name:
 "Hear of the rod and of him who appointed it!
 
@@ -64,7 +64,7 @@ you shall tread olives, but not anoint yourselves with oil;
 you shall tread grapes, but not drink wine.
 
 [16] For you have kept the statutes of Omri,
-and all the works of the house of Ahab;
+and all the works of the house of ⟦ahab|Achav|Ahab⟧;
 and you have walked in their counsels,
 that I may make you a desolation, and your inhabitants a hissing;
 so you shall bear the scorn of my people."

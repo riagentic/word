@@ -1,28 +1,28 @@
 # Izajáš 40
 
-[1] Nachamu, nachamu ami –
-„Potěšujte, potěšujte můj lid,“
-praví váš *Elohim*.
+[1] ⟦nachamu|Nachamu, nachamu ami –|„Potěšujte,⟧
+⟦nachamu|„Potěšujte, potěšujte můj lid,“|potěšujte můj lid,“⟧
+praví váš ⟦elohim|Elohim|Bůh⟧.
 
-[2] „Mluvte k srdci Jerusalemu
+[2] „Mluvte k srdci ⟦jerusalem|Jerušalajim|Jeruzalému⟧
 a volejte k němu,
 že jeho služba skončila,
 že jeho nepravost je odpuštěna,
-že přijal z ruky Yahweh
+že přijal z ruky ⟦yhwh|Jahveho|Hospodina⟧
 dvojnásobek za všechny své hříchy.“
 
 [3] Hlas volá:
-„Na poušti připravte cestu Yahweh;
-vyrovnejte na stepi silnici pro našeho *Elohim*.
+„Na poušti připravte cestu ⟦yhwh|Jahveho|Hospodina⟧;
+vyrovnejte na stepi silnici pro našeho ⟦elohim|Elohim|Boha⟧.
 
 [4] Každé údolí bude vyvýšeno
 a každá hora i pahorek sníženy;
 nerovná půda se stane rovinou
 a drsná místa plání.
 
-[5] A zjeví se sláva Yahweh
+[5] A zjeví se sláva ⟦yhwh|Jahveho|Hospodina⟧
 a všechno tělo ji spatří spolu,
-neboť promluvila ústa Yahweh.“
+neboť promluvila ústa ⟦yhwh|Jahveho|Hospodina⟧.“
 
 [6] Hlas říká: „Volej!“
 A já jsem řekl: „Co mám volat?“
@@ -30,21 +30,21 @@ A já jsem řekl: „Co mám volat?“
 a všechna jeho věrnost je jako polní květ.
 
 [7] Tráva usychá, květ vadne,
-když na ni zavane dech Yahweh;
+když na ni zavane dech ⟦yhwh|Jahveho|Hospodina⟧;
 vpravdě, lid je tráva.
 
 [8] Tráva usychá, květ vadne,
-ale slovo našeho *Elohim* obstojí navěky.“
+ale slovo našeho ⟦elohim|Elohim|Boha⟧ obstojí navěky.“
 
 [9] Vystup si na vysokou horu,
-zvěstovatelko Zione – zvěstovatelko dobré zprávy pro Zion;
+zvěstovatelko ⟦zion|Cijone|Sijóne⟧ – zvěstovatelko dobré zprávy pro ⟦zion|Cijon|Sijón⟧;
 pozvedni mocně svůj hlas,
-zvěstovatelko Jerusaleme – zvěstovatelko dobré zprávy pro Jerusalem;
+zvěstovatelko ⟦jerusalem|Jerušalajim|Jeruzaléme⟧ – zvěstovatelko dobré zprávy pro ⟦jerusalem|Jerušalajim|Jeruzalém⟧;
 pozvedni jej, neboj se;
-řekni městům Judahu:
-„Hle, váš *Elohim*!“
+řekni městům ⟦judah|Jehudy|Judy⟧:
+„Hle, váš ⟦elohim|Elohim|Bůh⟧!“
 
-[10] Hle, Pán Yahweh přichází v moci
+[10] Hle, ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ přichází v moci
 a jeho paže mu vládne;
 hle, jeho odměna je s ním
 a jeho odplata před ním.
@@ -60,7 +60,7 @@ kdo pojal prach země do míry
 a zvážil hory na vahách
 a pahorky na váze?
 
-[13] Kdo řídil Ducha Yahweh
+[13] Kdo řídil Ducha ⟦yhwh|Jahveho|Hospodina⟧
 nebo který člověk mu ukazuje svou radu?
 
 [14] S kým se radil
@@ -73,13 +73,13 @@ a ukázal mu cestu rozumnosti?
 a jsou pokládány za prach na vahách;
 hle, zvedá pobřeží jako jemný prach.
 
-[16] Lebanon by nestačil na palivo
+[16] ⟦lebanon|Levanon|Libanón⟧ by nestačil na palivo
 a jeho zvěř nestačí na zápalnou oběť.
 
 [17] Všechny národy jsou před ním jako nic,
 pokládá je za méně než nic a za prázdnotu.
 
-[18] Ke komu tedy připodobníte *Elohim*
+[18] Ke komu tedy připodobníte ⟦el|El|Boha⟧
 nebo jakou podobu s ním srovnáte?
 
 [19] Modlu! Řemeslník ji odlije,
@@ -119,13 +119,13 @@ pro velikost jeho moci
 a protože je silný v síle,
 nechybí ani jeden.
 
-[27] Proč říkáš, Jacobe,
-a mluvíš, Israeli:
-„Má cesta je skryta před Yahweh
-a mé právo můj *Elohim* přehlíží“?
+[27] Proč říkáš, ⟦jacob|Jaakove|Jákobe⟧,
+a mluvíš, ⟦israel|Jisraeli|Izraeli⟧:
+„Má cesta je skryta před ⟦yhwh|Jahvem|Hospodinem⟧
+a mé právo můj ⟦elohim|Elohim|Bůh⟧ přehlíží“?
 
 [28] Nevíš? Neslyšel jsi?
-Yahweh je věčný *Elohim*,
+⟦yhwh|Jahve|Hospodin⟧ je věčný ⟦elohim|Elohim|Bůh⟧,
 Stvořitel končin země.
 Neumdlévá ani se neunaví;
 jeho rozumnost je nevyzpytatelná.
@@ -136,7 +136,7 @@ a tomu, kdo nemá moc, rozmnožuje sílu.
 [30] I mladíci umdlí a unaví se
 a jinoši padnou vyčerpáni;
 
-[31] ale ti, kdo čekají na Yahweh, obnoví svou sílu;
+[31] ale ti, kdo čekají na ⟦yhwh|Jahveho|Hospodina⟧, obnoví svou sílu;
 vznesou se na křídlech jako orli;
 poběží a neunaví se;
 půjdou a neumdlí.
@@ -148,6 +148,7 @@ půjdou a neumdlí.
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejské *Elohim* zachováno důsledně.
 - **"Spirit of the LORD" → „Duch Yahweh“** (v13) – zachován hebrejský výraz pro Božího ducha.
 - **"Comfort ye" / „Nachamu“ – úvod** – hebrejské נַחֲמוּ נַחֲמוּ *Nachamu, nachamu ami* zachováno jako úvodní zvolání.
+- **"God" → „El“** (v18) – hebrejsky אֵל *El*, ne *Elohim*.
 - **Básnická struktura** – celá kapitola uspořádána jako verše; Druhý Izajáš je téměř celý poezie s krátkými prozaickými spojkami.
 
 ### Poznámky

@@ -1,59 +1,59 @@
 # Numbers 23
 
-[1] Balaam said to Balak, "Build me here seven altars, and prepare for me here seven bulls and seven rams."
+[1] ⟦balaam|Bilam|Balaam⟧ said to ⟦balak|Balaq|Balak⟧, "Build me here seven altars, and prepare for me here seven bulls and seven rams."
 
-[2] Balak did as Balaam had spoken; and Balak and Balaam offered a bull and a ram on each altar.
+[2] ⟦balak|Balaq|Balak⟧ did as ⟦balaam|Bilam|Balaam⟧ had spoken; and ⟦balak|Balaq|Balak⟧ and ⟦balaam|Bilam|Balaam⟧ offered a bull and a ram on each altar.
 
-[3] Balaam said to Balak, "Stand beside your burnt offering, and I will go. Perhaps Yahweh will come to meet me, and whatever he shows me I will tell you." So he went off to a bare height.
+[3] ⟦balaam|Bilam|Balaam⟧ said to ⟦balak|Balaq|Balak⟧, "Stand beside your burnt offering, and I will go. Perhaps ⟦yhwh|Yahweh|the LORD⟧ will come to meet me, and whatever he shows me I will tell you." So he went off to a bare height.
 
-[4] *Elohim* met Balaam, and he said to him, "I have arranged seven altars, and I have offered a bull and a ram on each altar."
+[4] ⟦elohim|Elohim|God⟧ met ⟦balaam|Bilam|Balaam⟧, and he said to him, "I have arranged seven altars, and I have offered a bull and a ram on each altar."
 
-[5] Yahweh put a word in Balaam's mouth and said, "Return to Balak, and thus shall you speak."
+[5] ⟦yhwh|Yahweh|The LORD⟧ put a word in ⟦balaam|Bilam's|Balaam's⟧ mouth and said, "Return to ⟦balak|Balaq|Balak⟧, and thus shall you speak."
 
-[6] So he returned to him, and behold, he was standing beside his burnt offering — he and all the chiefs of Moab.
+[6] So he returned to him, and behold, he was standing beside his burnt offering — he and all the chiefs of ⟦moab|Moav|Moab⟧.
 
-[7] Then Balaam took up his oracle and said:
+[7] Then ⟦balaam|Bilam|Balaam⟧ took up his oracle and said:
 
-"From Aram Balak has brought me,
-the king of Moab from the eastern mountains:
-'Come, curse Jacob for me;
-come, denounce Israel.'
+"From Aram ⟦balak|Balaq|Balak⟧ has brought me,
+the king of ⟦moab|Moav|Moab⟧ from the eastern mountains:
+'Come, curse ⟦jacob|Yaaqov|Jacob⟧ for me;
+come, denounce ⟦israel|Yisrael|Israel⟧.'
 
 [8] How shall I curse
-whom El has not cursed?
+whom ⟦el|El|God⟧ has not cursed?
 How shall I denounce
-whom Yahweh has not denounced?
+whom ⟦yhwh|Yahweh|the LORD⟧ has not denounced?
 
 [9] For from the top of the crags I see him,
 from the hills I behold him:
 behold, a people dwelling alone,
 not reckoning itself among the nations.
 
-[10] Who can count the dust of Jacob,
-or number the fourth part of Israel?
+[10] Who can count the dust of ⟦jacob|Yaaqov|Jacob⟧,
+or number the fourth part of ⟦israel|Yisrael|Israel⟧?
 Let me die the death of the upright,
 and let my end be like his!"
 
-[11] Balak said to Balaam, "What have you done to me? I took you to curse my enemies, and behold, you have altogether blessed them!"
+[11] ⟦balak|Balaq|Balak⟧ said to ⟦balaam|Bilam|Balaam⟧, "What have you done to me? I took you to curse my enemies, and behold, you have altogether blessed them!"
 
-[12] And he answered, "Must I not take care to speak what Yahweh puts in my mouth?"
+[12] And he answered, "Must I not take care to speak what ⟦yhwh|Yahweh|the LORD⟧ puts in my mouth?"
 
-[13] Balak said to him, "Please come with me to another place, from which you can see them. You shall see only the edge of them, and shall not see all of them; and curse them for me from there."
+[13] ⟦balak|Balaq|Balak⟧ said to him, "Please come with me to another place, from which you can see them. You shall see only the edge of them, and shall not see all of them; and curse them for me from there."
 
-[14] So he took him to the field of Zophim, to the top of Pisgah, and built seven altars and offered a bull and a ram on each altar.
+[14] So he took him to the field of ⟦zophim|Tzofim|Zophim⟧, to the top of Pisgah, and built seven altars and offered a bull and a ram on each altar.
 
-[15] Balaam said to Balak, "Stand here beside your burnt offering, while I meet Yahweh over there."
+[15] ⟦balaam|Bilam|Balaam⟧ said to ⟦balak|Balaq|Balak⟧, "Stand here beside your burnt offering, while I meet ⟦yhwh|Yahweh|the LORD⟧ over there."
 
-[16] Yahweh met Balaam and put a word in his mouth, and said, "Return to Balak and speak thus."
+[16] ⟦yhwh|Yahweh|The LORD⟧ met ⟦balaam|Bilam|Balaam⟧ and put a word in his mouth, and said, "Return to ⟦balak|Balaq|Balak⟧ and speak thus."
 
-[17] When he came to him, behold, he was standing beside his burnt offering, with the chiefs of Moab with him. And Balak said to him, "What has Yahweh spoken?"
+[17] When he came to him, behold, he was standing beside his burnt offering, with the chiefs of ⟦moab|Moav|Moab⟧ with him. And ⟦balak|Balaq|Balak⟧ said to him, "What has ⟦yhwh|Yahweh|the LORD⟧ spoken?"
 
 [18] He took up his oracle and said:
 
-"Rise, Balak, and hear;
-give ear to me, son of Zippor.
+"Rise, ⟦balak|Balaq|Balak⟧, and hear;
+give ear to me, son of ⟦zippor|Tzippor|Zippor⟧.
 
-[19] El is not a man, that he should lie,
+[19] ⟦el|El|God⟧ is not a man, that he should lie,
 or a son of man, that he should change his mind.
 Has he said it, and will he not do it?
 Has he spoken, and will he not fulfill it?
@@ -61,35 +61,35 @@ Has he spoken, and will he not fulfill it?
 [20] Behold, I was bidden to bless;
 he has blessed — I cannot reverse it.
 
-[21] He has not beheld misfortune in Jacob,
-nor has he seen trouble in Israel.
-Yahweh his *Elohim* is with him,
+[21] He has not beheld misfortune in ⟦jacob|Yaaqov|Jacob⟧,
+nor has he seen trouble in ⟦israel|Yisrael|Israel⟧.
+⟦yhwh|Yahweh|The LORD⟧ his ⟦elohim|Elohim|God⟧ is with him,
 and the shout of a king is among them.
 
-[22] El who brought them out of Egypt
+[22] ⟦el|El|God⟧ who brought them out of ⟦egypt|Mitzrayim|Egypt⟧
 is for them like the horns of the wild ox.
 
-[23] For there is no sorcery against Jacob,
-no divination against Israel;
-in due time it is told to Jacob,
-and to Israel, what El has done.
+[23] For there is no sorcery against ⟦jacob|Yaaqov|Jacob⟧,
+no divination against ⟦israel|Yisrael|Israel⟧;
+in due time it is told to ⟦jacob|Yaaqov|Jacob⟧,
+and to ⟦israel|Yisrael|Israel⟧, what ⟦el|El|God⟧ has done.
 
 [24] Behold, a people that rises like a lioness,
 and lifts itself up like a lion;
 it does not lie down until it devours the prey
 and drinks the blood of the slain."
 
-[25] Balak said to Balaam, "Do not curse them at all, and do not bless them at all!"
+[25] ⟦balak|Balaq|Balak⟧ said to ⟦balaam|Bilam|Balaam⟧, "Do not curse them at all, and do not bless them at all!"
 
-[26] But Balaam answered and said to Balak, "Did I not tell you, 'All that Yahweh speaks — that I must do'?"
+[26] But ⟦balaam|Bilam|Balaam⟧ answered and said to ⟦balak|Balaq|Balak⟧, "Did I not tell you, 'All that ⟦yhwh|Yahweh|the LORD⟧ speaks — that I must do'?"
 
-[27] Balak said to Balaam, "Please come, I will take you to another place; perhaps it will be pleasing in the eyes of *Elohim* that you curse them for me from there."
+[27] ⟦balak|Balaq|Balak⟧ said to ⟦balaam|Bilam|Balaam⟧, "Please come, I will take you to another place; perhaps it will be pleasing in the eyes of ⟦elohim|Elohim|God⟧ that you curse them for me from there."
 
-[28] So Balak took Balaam to the top of Peor, which overlooks the Yeshimon — the wasteland.
+[28] So ⟦balak|Balaq|Balak⟧ took ⟦balaam|Bilam|Balaam⟧ to the top of Peor, which overlooks the ⟦jeshimon|Yeshimon|Jeshimon⟧ — the wasteland.
 
-[29] Balaam said to Balak, "Build me here seven altars, and prepare me here seven bulls and seven rams."
+[29] ⟦balaam|Bilam|Balaam⟧ said to ⟦balak|Balaq|Balak⟧, "Build me here seven altars, and prepare me here seven bulls and seven rams."
 
-[30] Balak did as Balaam had said, and offered a bull and a ram on each altar.
+[30] ⟦balak|Balaq|Balak⟧ did as ⟦balaam|Bilam|Balaam⟧ had said, and offered a bull and a ram on each altar.
 
 ## Changes
 

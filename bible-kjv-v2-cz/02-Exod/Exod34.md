@@ -1,32 +1,32 @@
 # Exodus 34
 
-[1] Yahweh řekl Mosesovi: „Vytesej si dvě kamenné desky jako ty první a já na ty desky napíšu slova, která byla na prvních deskách, jež jsi roztříštil.
+[1] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Vytesej si dvě kamenné desky jako ty první a já na ty desky napíšu slova, která byla na prvních deskách, jež jsi roztříštil.
 
-[2] Buď připraven na ráno a ráno vystup na horu Sinai a postav se tam přede mě na vrcholu hory.
+[2] Buď připraven na ráno a ráno vystup na horu ⟦sinai|Sinaj|Sínaj⟧ a postav se tam přede mě na vrcholu hory.
 
 [3] Nikdo s tebou nevystoupí a ať se nikdo neukáže na celé hoře; ani brav ani skot ať se nepase naproti té hoře.“
 
-[4] Vytesal tedy dvě kamenné desky jako ty první; a Moses časně ráno vstal a vystoupil na horu Sinai, jak mu Yahweh přikázal, a vzal do ruky ty dvě kamenné desky.
+[4] Vytesal tedy dvě kamenné desky jako ty první; a ⟦moses|Moše|Mojžíš⟧ časně ráno vstal a vystoupil na horu ⟦sinai|Sinaj|Sínaj⟧, jak mu ⟦yhwh|Jahve|Hospodin⟧ přikázal, a vzal do ruky ty dvě kamenné desky.
 
-[5] Yahweh sestoupil v oblaku, postavil se tam s ním a vyhlásil jméno Yahweh.
+[5] ⟦yhwh|Jahve|Hospodin⟧ sestoupil v oblaku, postavil se tam s ním a vyhlásil jméno ⟦yhwh|Jahveho|Hospodina⟧.
 
-[6] Yahweh přešel před ním a volal: „Yahweh, Yahweh, *Elohim* soucitný a milostivý, pomalý k hněvu a hojný ve věrné lásce a věrnosti,
+[6] ⟦yhwh|Jahve|Hospodin⟧ přešel před ním a volal: „⟦yhwh|Jahve|Hospodin⟧, ⟦yhwh|Jahve|Hospodin⟧, ⟦el|El|Bůh⟧ soucitný a milostivý, pomalý k hněvu a hojný ve věrné lásce a věrnosti,
 
 [7] který zachovává věrnou lásku tisícům, odpouští vinu, přestoupení i hřích – ale viníka nikterak nenechá bez trestu, stíhá vinu otců na dětech a na dětech dětí, do třetího a čtvrtého pokolení.“
 
-[8] Moses rychle sklonil hlavu k zemi a klaněl se.
+[8] ⟦moses|Moše|Mojžíš⟧ rychle sklonil hlavu k zemi a klaněl se.
 
-[9] Řekl: „Jestliže jsem nyní nalezl přízeň v tvých očích, Pane, ať Pán jde uprostřed nás; neboť je to lid tvrdé šíje. Odpusť naši vinu a náš hřích a přijmi nás za své dědictví.“
+[9] Řekl: „Jestliže jsem nyní nalezl přízeň v tvých očích, ⟦adonai|Adonaji|Pane⟧, ať ⟦adonai|Adonaj|Pán⟧ jde uprostřed nás; neboť je to lid tvrdé šíje. Odpusť naši vinu a náš hřích a přijmi nás za své dědictví.“
 
-[10] Yahweh řekl: „Hle, uzavírám smlouvu. Před celým tvým lidem učiním divy, jaké nebyly učiněny na celé zemi ani v žádném národě; a všechen lid, uprostřed něhož jsi, uvidí dílo Yahweh, neboť je to hrozná věc, kterou s tebou učiním.
+[10] ⟦yhwh|Jahve|Hospodin⟧ řekl: „Hle, uzavírám smlouvu. Před celým tvým lidem učiním divy, jaké nebyly učiněny na celé zemi ani v žádném národě; a všechen lid, uprostřed něhož jsi, uvidí dílo ⟦yhwh|Jahveho|Hospodina⟧, neboť je to hrozná věc, kterou s tebou učiním.
 
-[11] Zachovávej, co ti dnes přikazuji. Hle, vyháním před tebou Amorejce, Canaanejce, Hittejce, Perizzejce, Hivejce a Jebusejce.
+[11] Zachovávej, co ti dnes přikazuji. Hle, vyháním před tebou ⟦amorites|Emorim|Emorejce⟧, ⟦canaanites|Kenaanim|Kenaance⟧, ⟦hittites|Chittim|Chetejce⟧, ⟦perizzites|Perizzim|Perizejce⟧, ⟦hivites|Chivvim|Chivejce⟧ a ⟦jebusites|Jevusim|Jebúsejce⟧.
 
 [12] Měj se na pozoru, abys neuzavřel smlouvu s obyvateli země, do níž jdeš, aby se ti nestala léčkou uprostřed tebe.
 
-[13] Naopak zboříte jejich oltáře, roztříštíte jejich posvátné sloupy a vykácíte jejich kůly Asherah –
+[13] Naopak zboříte jejich oltáře, roztříštíte jejich posvátné sloupy a vykácíte jejich ⟦asherah|kůly Ašery|posvátné kůly⟧ –
 
-[14] neboť se nebudeš klanět jinému bohu, protože Yahweh, jehož jméno je Žárlivý, je žárlivý *Elohim* –
+[14] neboť se nebudeš klanět jinému bohu, protože ⟦yhwh|Jahve|Hospodin⟧, jehož jméno je Žárlivý, je žárlivý ⟦el|El|Bůh⟧ –
 
 [15] abys neuzavřel smlouvu s obyvateli země, a když budou smilnit se svými bohy a obětovat svým bohům, nepozvali tě a ty bys nejedl z jejich oběti;
 
@@ -34,7 +34,7 @@
 
 [17] Neuděláš si žádné slité bohy.
 
-[18] Budeš zachovávat Svátek nekvašených chlebů. Sedm dní budeš jíst nekvašené chleby, jak jsem ti přikázal, v určený čas měsíce Aviv; neboť v měsíci Aviv jsi vyšel z Egypta.
+[18] Budeš zachovávat Svátek ⟦unleavened-bread|Macot|nekvašených chlebů⟧. Sedm dní budeš jíst nekvašené chleby, jak jsem ti přikázal, v určený čas měsíce ⟦abib|Aviv|ábíbu⟧; neboť v měsíci ⟦abib|Aviv|ábíbu⟧ jsi vyšel z ⟦egypt|Micrajim|Egypta⟧.
 
 [19] Všechno, co první otevírá lůno, je moje, i každý samčí prvorozený z tvého dobytka – ze skotu i z bravu.
 
@@ -42,38 +42,39 @@
 
 [21] Šest dní budeš pracovat, ale sedmého dne budeš odpočívat; i v době orby a v době žně budeš odpočívat.
 
-[22] Budeš zachovávat Svátek týdnů – prvotiny pšeničné žně – a Svátek sklizně na přelomu roku.
+[22] Budeš zachovávat Svátek ⟦weeks|Šavuot|týdnů⟧ – prvotiny pšeničné žně – a Svátek sklizně na přelomu roku.
 
-[23] Třikrát do roka se všichni tvoji muži ukážou před Pánem Yahweh, *Elohim* Israele.
+[23] Třikrát do roka se všichni tvoji muži ukážou před ⟦adonai-yhwh|Pánem Jahvem|Pánem Hospodinem⟧, ⟦elohim|Elohim|Bohem⟧ ⟦israel|Jisraele|Izraele⟧.
 
-[24] Neboť vyženu před tebou národy a rozšířím tvé hranice; nikdo nebude dychtit po tvé zemi, když budeš třikrát do roka vystupovat, aby ses ukázal před Yahweh, svým *Elohim*.
+[24] Neboť vyženu před tebou národy a rozšířím tvé hranice; nikdo nebude dychtit po tvé zemi, když budeš třikrát do roka vystupovat, aby ses ukázal před ⟦yhwh|Jahvem|Hospodinem⟧, svým ⟦elohim|Elohim|Bohem⟧.
 
 [25] Nebudeš obětovat krev mé oběti s ničím kvašeným; a oběť ze Svátku Paschy nezůstane přes noc do rána.
 
-[26] První z prvotin své země přineseš do domu Yahweh, svého *Elohim*. Nebudeš vařit kůzle v mléce jeho matky.“
+[26] První z prvotin své země přineseš do domu ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧. Nebudeš vařit kůzle v mléce jeho matky.“
 
-[27] Yahweh řekl Mosesovi: „Zapiš tato slova, neboť podle těchto slov jsem uzavřel smlouvu s tebou a s Israelem.“
+[27] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Zapiš tato slova, neboť podle těchto slov jsem uzavřel smlouvu s tebou a s ⟦israel|Jisraelem|Izraelem⟧.“
 
-[28] Byl tam s Yahweh čtyřicet dní a čtyřicet nocí; nejedl chléb a nepil vodu. A napsal na desky slova smlouvy – Deset slov.
+[28] Byl tam s ⟦yhwh|Jahvem|Hospodinem⟧ čtyřicet dní a čtyřicet nocí; nejedl chléb a nepil vodu. A napsal na desky slova smlouvy – Deset slov.
 
-[29] Když Moses sestupoval z hory Sinai – se dvěma deskami svědectví v Mosesově ruce, když sestupoval z hory – Moses nevěděl, že kůže jeho tváře zářila, protože s ním mluvil.
+[29] Když ⟦moses|Moše|Mojžíš⟧ sestupoval z hory ⟦sinai|Sinaj|Sínaj⟧ – se dvěma deskami svědectví v ⟦moses|Mošově|Mojžíšově⟧ ruce, když sestupoval z hory – ⟦moses|Moše|Mojžíš⟧ nevěděl, že kůže jeho tváře zářila, protože s ním mluvil.
 
-[30] Když Aaron a všichni synové Israele uviděli Mosese, hle, kůže jeho tváře zářila; a báli se k němu přiblížit.
+[30] Když ⟦aaron|Aharon|Áron⟧ a všichni synové ⟦israel|Jisraele|Izraele⟧ uviděli ⟦moses|Moše|Mojžíše⟧, hle, kůže jeho tváře zářila; a báli se k němu přiblížit.
 
-[31] Ale Moses je zavolal; a Aaron a všichni předáci shromáždění se k němu vrátili, a Moses s nimi mluvil.
+[31] Ale ⟦moses|Moše|Mojžíš⟧ je zavolal; a ⟦aaron|Aharon|Áron⟧ a všichni předáci shromáždění se k němu vrátili, a ⟦moses|Moše|Mojžíš⟧ s nimi mluvil.
 
-[32] Potom přistoupili všichni synové Israele a on jim přikázal všechno, co s ním Yahweh mluvil na hoře Sinai.
+[32] Potom přistoupili všichni synové ⟦israel|Jisraele|Izraele⟧ a on jim přikázal všechno, co s ním ⟦yhwh|Jahve|Hospodin⟧ mluvil na hoře ⟦sinai|Sinaj|Sínaj⟧.
 
-[33] Když Moses s nimi domluvil, dal si na tvář závoj.
+[33] Když ⟦moses|Moše|Mojžíš⟧ s nimi domluvil, dal si na tvář závoj.
 
-[34] Ale když Moses vcházel před Yahweh, aby s ním mluvil, sňal závoj, dokud nevyšel; a když vyšel, mluvil k synům Israele, co mu bylo přikázáno.
+[34] Ale když ⟦moses|Moše|Mojžíš⟧ vcházel před ⟦yhwh|Jahvem|Hospodinem⟧, aby s ním mluvil, sňal závoj, dokud nevyšel; a když vyšel, mluvil k synům ⟦israel|Jisraele|Izraele⟧, co mu bylo přikázáno.
 
-[35] Synové Israele viděli Mosesovu tvář – že kůže Mosesovy tváře září – a Moses si znovu dával závoj na tvář, dokud nevešel, aby s ním mluvil.
+[35] Synové ⟦israel|Jisraele|Izraele⟧ viděli ⟦moses|Mošovu|Mojžíšovu⟧ tvář – že kůže ⟦moses|Mošovy|Mojžíšovy⟧ tváře září – a ⟦moses|Moše|Mojžíš⟧ si znovu dával závoj na tvář, dokud nevešel, aby s ním mluvil.
 
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – zachován tetragram.
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
+- **"God" → „El“** (v6, 14) – hebrejsky אֵל רַחוּם וְחַנּוּן *El rachum ve-channun*; אֵל קַנָּא *El qanna*.
 - **"Hew thee" → „Vytesej si“** (v1) – hebrejsky פְּסָל־לְךָ *psal-lekha*. Tyto druhé desky vytesává sám Moses (na rozdíl od prvních, které byly dílem Yahweh, 31:18). Mosesova práce na nových deskách smlouvy.
 - **"tables" → „desky“** (v1, 4, 28, 29) – modernizováno.
 - **"brakest" → „roztříštil“** (v1) – modernizováno.

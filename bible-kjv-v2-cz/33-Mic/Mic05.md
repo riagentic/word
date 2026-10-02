@@ -2,46 +2,46 @@
 
 [1] Nyní sešikuj své houfy, dcero houfů;
 je proti nám vedeno obléhání;
-holí bijí soudce Israele
+holí bijí soudce ⟦israel|Jisraele|Izraele⟧
 po tváři.
 
-[2] **Ale ty, Bethleheme Ephratah,
-příliš malý, abys byl mezi rody Judahu,
+[2] **Ale ty, ⟦bethlehem|Bejt Lecheme|Betléme⟧ Efrato,
+příliš malý, abys byl mezi rody ⟦judah|Jehudy|Judy⟧,
 z tebe mi vyjde
-ten, kdo má být vládcem v Israeli,
-jehož motza'ot – východy – jsou od pradávna,
+ten, kdo má být vládcem v ⟦israel|Jisraeli|Izraeli⟧,
+jehož ⟦motzaot|moca'ot – východy – jsou|původ je⟧ od pradávna,
 ode dnů věčnosti.**
 
 [3] Proto je vydá až do času,
 kdy ta, která rodí, porodí;
 pak se ostatek jeho bratří vrátí
-k synům Israele.
+k synům ⟦israel|Jisraele|Izraele⟧.
 
-[4] I bude stát a pást své stádo v síle Yahweh,
-ve velebnosti jména Yahweh, svého *Elohim*.
+[4] I bude stát a pást své stádo v síle ⟦yhwh|Jahveho|Hospodina⟧,
+ve velebnosti jména ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧.
 A budou bydlet v bezpečí, neboť nyní bude veliký
 až do končin země.
 
 [5] A on bude jejich pokojem.
-Když Assyřan vpadne do naší země
+Když ⟦assyria|Aššur|Asyřan⟧ vpadne do naší země
 a bude šlapat po našich palácích,
 postavíme proti němu sedm pastýřů
 a osm knížat z lidí;
 
-[6] budou pást zemi Assyrie mečem
-a zemi Nimrodovu v jejích vstupech;
-a on nás vysvobodí od Assyřana,
+[6] budou pást zemi ⟦assyria|Aššuru|Asýrie⟧ mečem
+a zemi ⟦nimrod|Nimrodovu|Nimródovu⟧ v jejích vstupech;
+a on nás vysvobodí od ⟦assyria|Aššuru|Asyřana⟧,
 když vpadne do naší země
 a bude šlapat po našem území.
 
-[7] Tehdy bude pozůstatek Jacobův
+[7] Tehdy bude pozůstatek ⟦jacob|Jaakovův|Jákobův⟧
 uprostřed mnoha národů
-jako rosa od Yahweh,
+jako rosa od ⟦yhwh|Jahveho|Hospodina⟧,
 jako přeháňky na trávě,
 které neotálejí kvůli člověku
 ani nečekají na syny lidské.
 
-[8] A pozůstatek Jacobův bude mezi pronárody,
+[8] A pozůstatek ⟦jacob|Jaakovův|Jákobův⟧ bude mezi pronárody,
 uprostřed mnoha národů,
 jako lev mezi lesní zvěří,
 jako mladý lev mezi stády ovcí,
@@ -51,7 +51,7 @@ a rve na kusy, a nikdo nevysvobodí.
 [9] Tvá ruka bude pozdvižena nad tvými protivníky
 a všichni tvoji nepřátelé budou vyhlazeni.
 
-[10] „Onoho dne,“ praví Yahweh,
+[10] „Onoho dne,“ praví ⟦yhwh|Jahve|Hospodin⟧,
 „vyhladím z tvého středu tvé koně
 a zničím tvé vozy;
 
@@ -66,7 +66,7 @@ a tvé posvátné sloupy
 a už se nebudeš klanět
 dílu svých rukou;
 
-[14] vykořením z tvého středu tvé kůly Asherah
+[14] vykořením z tvého středu tvé ⟦asherah|kůly Ašery|posvátné kůly⟧
 a zničím tvá města.
 
 [15] A v hněvu a rozhořčení vykonám pomstu

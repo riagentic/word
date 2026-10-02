@@ -1,10 +1,10 @@
 # Isaiah 59
 
-[1] Behold, Yahweh's hand is not shortened, that it cannot save,
+[1] Behold, ⟦yhwh|Yahweh's|the LORD's⟧ hand is not shortened, that it cannot save,
 or his ear dull, that it cannot hear;
 
 [2] but your iniquities have made a separation
-between you and your *Elohim*,
+between you and your ⟦elohim|Elohim|God⟧,
 and your sins have hidden his face from you
 so that he does not hear.
 
@@ -58,8 +58,8 @@ and our sins testify against us;
 for our transgressions are with us,
 and we know our iniquities:
 
-[13] transgressing, and denying Yahweh,
-and turning back from following our *Elohim*,
+[13] transgressing, and denying ⟦yhwh|Yahweh|the LORD⟧,
+and turning back from following our ⟦elohim|Elohim|God⟧,
 speaking oppression and revolt,
 conceiving and uttering from the heart lying words.
 
@@ -70,7 +70,7 @@ and uprightness cannot enter.
 
 [15] Truth is lacking,
 and he who departs from evil makes himself a prey.
-Yahweh saw it, and it displeased him
+⟦yhwh|Yahweh|The LORD⟧ saw it, and it displeased him
 that there was no justice.
 
 [16] He saw that there was no man,
@@ -87,16 +87,16 @@ and wrapped himself in zeal as a cloak.
 wrath to his adversaries, repayment to his enemies;
 to the coastlands he will render repayment.
 
-[19] So they shall fear the name of Yahweh from the west,
+[19] So they shall fear the name of ⟦yhwh|Yahweh|the LORD⟧ from the west,
 and his glory from the rising of the sun;
 for he will come like a rushing stream,
-which the Spirit of Yahweh drives.
+which the Spirit of ⟦yhwh|Yahweh|the LORD⟧ drives.
 
-[20] And a Redeemer will come to Zion,
-to those in Jacob who turn from transgression,
-declares Yahweh.
+[20] And a Redeemer will come to ⟦zion|Tziyon|Zion⟧,
+to those in ⟦jacob|Yaaqov|Jacob⟧ who turn from transgression,
+declares ⟦yhwh|Yahweh|the LORD⟧.
 
-[21] "And as for me, this is my covenant with them," says Yahweh: "My spirit that is upon you, and my words that I have put in your mouth, shall not depart out of your mouth, or out of the mouth of your offspring, or out of the mouth of your children's offspring," says Yahweh, "from this time forth and forevermore."
+[21] "And as for me, this is my covenant with them," says ⟦yhwh|Yahweh|the LORD⟧: "My spirit that is upon you, and my words that I have put in your mouth, shall not depart out of your mouth, or out of the mouth of your offspring, or out of the mouth of your children's offspring," says ⟦yhwh|Yahweh|the LORD⟧, "from this time forth and forevermore."
 
 ## Changes
 

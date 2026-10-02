@@ -1,6 +1,6 @@
 # Hosea 2
 
-[1] Say to your brothers, "Ammi — You are my people," and to your sisters, "Ruchamah — You have received mercy."
+[1] Say to your brothers, "⟦ammi|Ammi — You are my people|You are my people⟧," and to your sisters, "⟦ruchamah|Ruchamah — You have received mercy|You have received mercy⟧."
 
 [2] "Plead with your mother, plead —
 for she is not my wife,
@@ -49,7 +49,7 @@ in the sight of her lovers,
 and no one shall rescue her out of my hand.
 
 [11] And I will put an end to all her mirth,
-her feasts, her new moons, her Sabbaths,
+her feasts, her new moons, her ⟦shabbat|Shabbatot|Sabbaths⟧,
 and all her appointed festivals.
 
 [12] And I will lay waste her vines and her fig trees,
@@ -63,7 +63,7 @@ and the beasts of the field shall devour them.
 when she burned offerings to them
 and adorned herself with her ring and jewelry,
 and went after her lovers
-and forgot me, declares Yahweh.
+and forgot me, declares ⟦yhwh|Yahweh|the LORD⟧.
 
 [14] "Therefore, behold, I will allure her,
 and bring her into the wilderness,
@@ -73,11 +73,11 @@ and speak tenderly to her.
 and make the Valley of Achor ("Trouble")
 a door of hope.
 And there she shall answer as in the days of her youth,
-as at the time when she came out of the land of Egypt.
+as at the time when she came out of the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
-[16] "And in that day, declares Yahweh,
-you will call me 'My Husband,'
-and no longer will you call me 'My Baal.'
+[16] "And in that day, declares ⟦yhwh|Yahweh|the LORD⟧,
+you will call me '⟦ishi-husband|Ishi|My Husband⟧,'
+and no longer will you call me '⟦baali|Baali|My Baal⟧.'
 
 [17] For I will remove the names of the Baals from her mouth,
 and they shall be remembered by name no more.
@@ -89,22 +89,22 @@ and I will make them lie down in safety.
 
 [19] And I will betroth you to me forever.
 I will betroth you to me in righteousness and in justice,
-in steadfast love and in mercy.
+in ⟦steadfast-love|chesed|steadfast love⟧ and in mercy.
 
 [20] I will betroth you to me in faithfulness.
-And you shall know Yahweh.
+And you shall know ⟦yhwh|Yahweh|the LORD⟧.
 
-[21] "And in that day I will answer, declares Yahweh,
+[21] "And in that day I will answer, declares ⟦yhwh|Yahweh|the LORD⟧,
 I will answer the heavens,
 and they shall answer the earth,
 
 [22] and the earth shall answer the grain, the wine, and the oil,
-and they shall answer Jezreel,
+and they shall answer ⟦jezreel|Yizreel|Jezreel⟧,
 
 [23] and I will sow her for myself in the land.
-And I will have mercy on Lo-Ruchamah,
-and I will say to Lo-Ammi, 'You are my people';
-and he shall say, 'You are my *Elohim*.'"
+And I will have mercy on ⟦lo-ruhamah|Lo-Ruchamah|No Mercy⟧,
+and I will say to ⟦lo-ammi|Lo-Ammi|Not My People⟧, 'You are my people';
+and he shall say, 'You are my ⟦elohim|Elohim|God⟧.'"
 
 ## Changes
 

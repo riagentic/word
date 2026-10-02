@@ -8,9 +8,9 @@
 
 [4] Otcové, nepopouzejte své děti k hněvu, ale vychovávejte je v kázni a poučování Páně.
 
-[5] Otroci, poslouchejte své pozemské pány s bázní a chvěním, s upřímným srdcem, jako byste poslouchali *Mashiacha*,
+[5] Otroci, poslouchejte své pozemské pány s bázní a chvěním, s upřímným srdcem, jako byste poslouchali ⟦mashiach|Mašiacha|Krista⟧,
 
-[6] ne jen naoko, jako ti, kdo se chtějí zalíbit lidem, ale jako otroci *Mashiacha*, kteří ze srdce činí vůli *Elohim*;
+[6] ne jen naoko, jako ti, kdo se chtějí zalíbit lidem, ale jako otroci ⟦mashiach|Mašiacha|Krista⟧, kteří ze srdce činí vůli ⟦elohim|Elohim|Boží⟧;
 
 [7] služte ochotně jako Pánu, a ne lidem,
 
@@ -20,11 +20,11 @@
 
 [10] Nakonec: buďte silní v Pánu a v síle jeho moci.
 
-[11] Oblečte celou výzbroj *Elohim*, abyste mohli obstát proti ďáblovým úkladům.
+[11] Oblečte celou výzbroj ⟦elohim|Elohim|Boží⟧, abyste mohli obstát proti ďáblovým úkladům.
 
 [12] **Neboť náš zápas není proti tělu a krvi, ale proti vládám, proti autoritám, proti kosmickým mocnostem této přítomné tmy, proti duchovním silám zla v nebeských oblastech.**
 
-[13] Proto vezměte celou výzbroj *Elohim*, abyste mohli odolat ve zlý den, a když všechno vykonáte, pevně stát.
+[13] Proto vezměte celou výzbroj ⟦elohim|Elohim|Boží⟧, abyste mohli odolat ve zlý den, a když všechno vykonáte, pevně stát.
 
 [14] Stůjte tedy, přepásáni opaskem pravdy a oblečeni pancířem spravedlnosti,
 
@@ -32,7 +32,7 @@
 
 [16] Za všech okolností vezměte štít víry, jímž budete moci uhasit všechny ohnivé šípy toho zlého;
 
-[17] a vezměte přilbu spasení a meč Ducha, jímž je slovo *Elohim*,
+[17] a vezměte přilbu spasení a meč Ducha, jímž je slovo ⟦elohim|Elohim|Boží⟧,
 
 [18] a v každý čas se modlete v Duchu každou modlitbou a prosbou. Za tím účelem bděte se vší vytrvalostí a proste za všechny svaté,
 
@@ -40,13 +40,13 @@
 
 [20] jehož jsem vyslancem v řetězech, abych o něm mluvil směle, jak mám mluvit.
 
-[21] Abyste i vy věděli, jak se mám a co dělám, všechno vám oznámí Tychicus, milovaný bratr a věrný služebník v Pánu.
+[21] Abyste i vy věděli, jak se mám a co dělám, všechno vám oznámí Tychikos, milovaný bratr a věrný služebník v Pánu.
 
 [22] Posílám ho k vám právě proto, abyste věděli, jak se máme, a aby povzbudil vaše srdce.
 
-[23] Pokoj bratřím a láska s vírou od *Elohim* Otce a Pána *Yeshuy Mashiacha*.
+[23] Pokoj bratřím a láska s vírou od ⟦elohim|Elohim|Boha⟧ Otce a Pána ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧.
 
-[24] Milost se všemi, kdo milují našeho Pána *Yeshuu Mashiacha* láskou nepomíjející.
+[24] Milost se všemi, kdo milují našeho Pána ⟦yeshua|Ješuu|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧ láskou nepomíjející.
 
 ## Změny
 

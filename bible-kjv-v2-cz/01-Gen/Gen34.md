@@ -1,30 +1,30 @@
 # Genesis 34
 
-[1] Dinah, dcera Leah, kterou porodila Jacobovi, vyšla, aby se podívala na dcery té země.
+[1] ⟦dinah|Dina|Dína⟧, dcera Ley, kterou porodila ⟦jacob|Jaakovovi|Jákobovi⟧, vyšla, aby se podívala na dcery té země.
 
-[2] Když ji uviděl Shechem, syn Hamora Hivity, kníže té země, zmocnil se jí, ležel s ní a znásilnil ji.
+[2] Když ji uviděl ⟦shechem|Šechem|Šekem⟧, syn ⟦hamor|Chamora|Chamóra⟧ ⟦hivite|Chivviho|Chivejce⟧, kníže té země, zmocnil se jí, ležel s ní a znásilnil ji.
 
-[3] A jeho duše tíhla k Dinah, dceři Jacobově; miloval tu dívku a mluvil k srdci té dívky.
+[3] A jeho duše tíhla k ⟦dinah|Dině|Díně⟧, dceři ⟦jacob|Jaakovově|Jákobově⟧; miloval tu dívku a mluvil k srdci té dívky.
 
-[4] Shechem řekl svému otci Hamorovi: „Vezmi mi tuto dívku za ženu.“
+[4] ⟦shechem|Šechem|Šekem⟧ řekl svému otci ⟦hamor|Chamorovi|Chamórovi⟧: „Vezmi mi tuto dívku za ženu.“
 
-[5] Jacob uslyšel, že poskvrnil jeho dceru Dinah; ale jeho synové byli s jeho dobytkem na poli, a tak Jacob mlčel, dokud nepřišli domů.
+[5] ⟦jacob|Jaakov|Jákob⟧ uslyšel, že poskvrnil jeho dceru ⟦dinah|Dinu|Dínu⟧; ale jeho synové byli s jeho dobytkem na poli, a tak ⟦jacob|Jaakov|Jákob⟧ mlčel, dokud nepřišli domů.
 
-[6] Hamor, otec Shechemův, vyšel k Jacobovi, aby s ním promluvil.
+[6] ⟦hamor|Chamor|Chamór⟧, otec ⟦shechem|Šechemův|Šekemův⟧, vyšel k ⟦jacob|Jaakovovi|Jákobovi⟧, aby s ním promluvil.
 
-[7] Jacobovi synové přišli z pole, jakmile o tom uslyšeli; a ti muži byli zraněni a velmi rozhněváni, protože spáchal v Israeli hanebnost, když ležel s Jacobovou dcerou – věc, která se nemá dělat.
+[7] ⟦jacob|Jaakovovi|Jákobovi⟧ synové přišli z pole, jakmile o tom uslyšeli; a ti muži byli zraněni a velmi rozhněváni, protože spáchal v ⟦israel|Jisraeli|Izraeli⟧ hanebnost, když ležel s ⟦jacob|Jaakovovou|Jákobovou⟧ dcerou – věc, která se nemá dělat.
 
-[8] Hamor s nimi mluvil a řekl: „Duše mého syna Shechema touží po vaší dceři; dejte mu ji, prosím, za ženu.
+[8] ⟦hamor|Chamor|Chamór⟧ s nimi mluvil a řekl: „Duše mého syna ⟦shechem|Šechema|Šekema⟧ touží po vaší dceři; dejte mu ji, prosím, za ženu.
 
 [9] Spřízněte se s námi sňatky – dávejte nám své dcery a berte si naše dcery.
 
 [10] Budete bydlet s námi; země je vám otevřená – bydlete v ní, obchodujte v ní a nabývejte v ní vlastnictví.“
 
-[11] Shechem řekl jejímu otci a jejím bratrům: „Ať naleznu přízeň ve vašich očích, a cokoli mi řeknete, dám.
+[11] ⟦shechem|Šechem|Šekem⟧ řekl jejímu otci a jejím bratrům: „Ať naleznu přízeň ve vašich očích, a cokoli mi řeknete, dám.
 
 [12] Stanovte cenu za nevěstu a dar, jak vysoko chcete; dám, cokoli ode mne budete žádat. Jen mi dejte tu dívku za ženu.“
 
-[13] Jacobovi synové odpověděli Shechemovi a jeho otci Hamorovi se lstí, protože poskvrnil jejich sestru Dinah,
+[13] ⟦jacob|Jaakovovi|Jákobovi⟧ synové odpověděli ⟦shechem|Šechemovi|Šekemovi⟧ a jeho otci ⟦hamor|Chamorovi|Chamórovi⟧ se lstí, protože poskvrnil jejich sestru ⟦dinah|Dinu|Dínu⟧,
 
 [14] a řekli jim: „Nemůžeme udělat tuto věc – dát svou sestru muži, který je neobřezaný, neboť to by pro nás byla hanba.
 
@@ -34,11 +34,11 @@
 
 [17] Jestliže nás však neposlechnete a nedáte se obřezat, vezmeme svou dceru a odejdeme.“
 
-[18] Jejich slova se líbila Hamorovi i Shechemovi, synu Hamorovu.
+[18] Jejich slova se líbila ⟦hamor|Chamorovi|Chamórovi⟧ i ⟦shechem|Šechemovi|Šekemovi⟧, synu ⟦hamor|Chamorovu|Chamórovu⟧.
 
-[19] A mladík neotálel tu věc udělat, protože si oblíbil Jacobovu dceru. Byl přitom nejváženější z celého domu svého otce.
+[19] A mladík neotálel tu věc udělat, protože si oblíbil ⟦jacob|Jaakovovu|Jákobovu⟧ dceru. Byl přitom nejváženější z celého domu svého otce.
 
-[20] Hamor a jeho syn Shechem tedy přišli do brány svého města a promluvili k mužům svého města:
+[20] ⟦hamor|Chamor|Chamór⟧ a jeho syn ⟦shechem|Šechem|Šekem⟧ tedy přišli do brány svého města a promluvili k mužům svého města:
 
 [21] „Tito muži jsou s námi v pokoji; ať bydlí v zemi a obchodují v ní, vždyť země je pro ně dost široká. Vezměme si jejich dcery za ženy a dejme jim své dcery.
 
@@ -46,19 +46,19 @@
 
 [23] Nebudou jejich stáda, jejich majetek a všechna jejich zvířata naše? Jen jim svolme, a budou bydlet s námi.“
 
-[24] Všichni, kdo vycházeli branou jeho města, poslechli Hamora a jeho syna Shechema; a každý muž byl obřezán, všichni, kdo vycházeli branou jeho města.
+[24] Všichni, kdo vycházeli branou jeho města, poslechli ⟦hamor|Chamora|Chamóra⟧ a jeho syna ⟦shechem|Šechema|Šekema⟧; a každý muž byl obřezán, všichni, kdo vycházeli branou jeho města.
 
-[25] Třetího dne, když měli bolesti, vzali dva z Jacobových synů, Simeon a Levi, bratři Dinah, každý svůj meč, přišli na nic netušící město a zabili každého muže.
+[25] Třetího dne, když měli bolesti, vzali dva z ⟦jacob|Jaakovových|Jákobových⟧ synů, ⟦simeon|Šimon|Šimeón⟧ a ⟦levi|Levi|Lévi⟧, bratři ⟦dinah|Diny|Díny⟧, každý svůj meč, přišli na nic netušící město a zabili každého muže.
 
-[26] Hamora a jeho syna Shechema zabili ostřím meče, vzali Dinah ze Shechemova domu a odešli.
+[26] ⟦hamor|Chamora|Chamóra⟧ a jeho syna ⟦shechem|Šechema|Šekema⟧ zabili ostřím meče, vzali ⟦dinah|Dinu|Dínu⟧ ze ⟦shechem|Šechemova|Šekemova⟧ domu a odešli.
 
-[27] Jacobovi synové přišli na pobité a vyplenili město, protože poskvrnili jejich sestru.
+[27] ⟦jacob|Jaakovovi|Jákobovi⟧ synové přišli na pobité a vyplenili město, protože poskvrnili jejich sestru.
 
 [28] Vzali jejich ovce, jejich skot, jejich osly – cokoli bylo ve městě i cokoli bylo na poli.
 
 [29] Všechno jejich bohatství, všechny jejich malé děti a jejich ženy odvedli do zajetí a vyplenili všechno, co bylo v domech.
 
-[30] Tu Jacob řekl Simeonovi a Levimu: „Uvrhli jste mě do neštěstí a zošklivili jste mě obyvatelům země, Canaanitům a Perizzitům. Mých mužů je málo; shromáždí se proti mně a pobijí mě, a budu zničen, já i můj dům.“
+[30] Tu ⟦jacob|Jaakov|Jákob⟧ řekl ⟦simeon|Šimonovi|Šimeónovi⟧ a ⟦levi|Levimu|Lévimu⟧: „Uvrhli jste mě do neštěstí a zošklivili jste mě obyvatelům země, ⟦canaanites|Kenaanim|Kenaancům⟧ a ⟦perizzites|Perizzim|Perizejcům⟧. Mých mužů je málo; shromáždí se proti mně a pobijí mě, a budu zničen, já i můj dům.“
 
 [31] Oni však řekli: „Smí jednat s naší sestrou jako s nevěstkou?“
 

@@ -1,6 +1,6 @@
 # Jób 24
 
-[1] „Proč Shaddai nedodržuje časy soudu?
+[1] „Proč ⟦shaddai|Šaddaj|Všemohoucí⟧ nedodržuje časy soudu?
 Proč ti, kdo ho znají, nevidí jeho dny?
 
 [2] Lidé posunují mezníky;
@@ -37,7 +37,7 @@ nosí snopy, a přece hladovějí.
 
 [12] Z města sténají umírající
 a duše raněných volá o pomoc –
-a přece Eloah nikomu nepřipisuje křivdu.
+a přece ⟦eloah|Eloah|Bůh⟧ nikomu nepřipisuje křivdu.
 
 [13] Patří k těm, kdo se bouří proti světlu;
 neznají jeho cesty
@@ -63,7 +63,7 @@ jejich podíl je v zemi prokletý;
 nikdo se neobrací k jejich vinicím.
 
 [19] Sucho a žár uchvátí sněhové vody;
-tak Sheol ty, kdo zhřešili.
+tak ⟦sheol|Šeol|podsvětí⟧ ty, kdo zhřešili.
 
 [20] Lůno na něho zapomene;
 červ si na něm pochutná;
@@ -76,7 +76,7 @@ vdově nečiní dobro.
 [22] A přece strhává mocné svou silou;
 povstane, a nikdo si není jist životem.
 
-[23] Eloah mu dává bezpečí, na něž se spoléhá,
+[23] ⟦eloah|Eloah|Bůh⟧ mu dává bezpečí, na něž se spoléhá,
 a jeho oči jsou na jejich cestách.
 
 [24] Na chvíli jsou vyvýšeni, pak jsou pryč;

@@ -2,25 +2,25 @@
 
 [1] Vešel do Jericha a procházel jím.
 
-[2] A hle, byl tam muž jménem Zacchaeus. Byl vrchním výběrčím daní a byl bohatý.
+[2] A hle, byl tam muž jménem ⟦zacchaeus|Zakaj|Zacheus⟧. Byl vrchním výběrčím daní a byl bohatý.
 
-[3] Snažil se spatřit, kdo je *Yeshua*, ale kvůli zástupu nemohl, protože byl malé postavy.
+[3] Snažil se spatřit, kdo je ⟦yeshua|Ješua|Ježíš⟧, ale kvůli zástupu nemohl, protože byl malé postavy.
 
 [4] Běžel tedy napřed a vylezl na sykomoru, aby ho uviděl, neboť tudy měl jít.
 
-[5] Když *Yeshua* přišel na to místo, vzhlédl a řekl mu: „Zacchaee, pospěš si a sestup, neboť dnes musím zůstat v tvém domě.“
+[5] Když ⟦yeshua|Ješua|Ježíš⟧ přišel na to místo, vzhlédl a řekl mu: „⟦zacchaeus|Zakaji|Zachee⟧, pospěš si a sestup, neboť dnes musím zůstat v tvém domě.“
 
 [6] Pospíšil si tedy, sestoupil a s radostí ho přijal.
 
 [7] Když to viděli, všichni reptali: „Vešel, aby byl hostem u hříšného člověka.“
 
-[8] Zacchaeus se však postavil a řekl Pánu: „Hle, Pane, polovinu svého majetku dávám chudým. A jestliže jsem někoho o něco ošidil, vracím to čtyřnásobně.“
+[8] ⟦zacchaeus|Zakaj|Zacheus⟧ se však postavil a řekl Pánu: „Hle, Pane, polovinu svého majetku dávám chudým. A jestliže jsem někoho o něco ošidil, vracím to čtyřnásobně.“
 
-[9] *Yeshua* mu řekl: „Dnes přišla spása do tohoto domu, neboť i on je synem Abrahamovým.
+[9] ⟦yeshua|Ješua|Ježíš⟧ mu řekl: „Dnes přišla spása do tohoto domu, neboť i on je synem ⟦abraham|Avrahamovým|Abrahamovým⟧.
 
 [10] **Neboť Syn člověka přišel hledat a zachránit, co je ztracené.**“
 
-[11] Když to slyšeli, pokračoval a řekl podobenství, protože byl blízko Jerusalema a oni se domnívali, že se království *Elohim* má ihned ukázat.
+[11] Když to slyšeli, pokračoval a řekl podobenství, protože byl blízko ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ a oni se domnívali, že se království ⟦elohim|Elohim|Boží⟧ má ihned ukázat.
 
 [12] Řekl tedy: „Jeden urozený muž odcestoval do daleké země, aby tam pro sebe přijal království a pak se vrátil.
 
@@ -54,9 +54,9 @@
 
 [27] A ty mé nepřátele, kteří nechtěli, abych nad nimi vládl, přiveďte sem a pobijte je přede mnou.‘“
 
-[28] Když to řekl, šel napřed a vystupoval do Jerusalemu.
+[28] Když to řekl, šel napřed a vystupoval do ⟦jerusalem|Jerušalajim|Jeruzaléma⟧.
 
-[29] Když se přiblížil k Bethphage a Bethany, k hoře zvané Olivet, poslal dva z učedníků
+[29] Když se přiblížil k ⟦bethphage|Bejt Pagej|Betfage⟧ a ⟦bethany|Bethanii|Betanii⟧, k hoře zvané ⟦mount-of-olives|HaZejtim|Olivová⟧, poslal dva z učedníků
 
 [30] a řekl: „Jděte do vesnice, která je před vámi, a jakmile do ní vejdete, najdete přivázané oslátko, na němž ještě nikdy nikdo neseděl. Odvažte je a přiveďte sem.
 
@@ -68,15 +68,15 @@
 
 [34] Oni řekli: „Pán ho potřebuje.“
 
-[35] Přivedli je k *Yeshuovi*, hodili na oslátko své pláště a posadili na ně *Yeshuu*.
+[35] Přivedli je k ⟦yeshua|Ješuovi|Ježíšovi⟧, hodili na oslátko své pláště a posadili na ně ⟦yeshua|Ješuu|Ježíše⟧.
 
 [36] A jak jel, prostírali své pláště na cestu.
 
-[37] Když se už přibližoval – již na cestě dolů z Olivové hory – začalo celé množství jeho učedníků radostně a velikým hlasem chválit *Elohim* za všechny mocné činy, které viděli,
+[37] Když se už přibližoval – již na cestě dolů z ⟦mount-of-olives|Har HaZejtim|Olivové hory⟧ – začalo celé množství jeho učedníků radostně a velikým hlasem chválit ⟦elohim|Elohim|Boha⟧ za všechny mocné činy, které viděli,
 
-[38] a volali: „**Požehnaný Král, který přichází ve jménu Páně!** Pokoj v nebi a sláva na výsostech!“
+[38] a volali: „**Požehnaný Král, který přichází ve jménu ⟦yhwh|Jahveho|Hospodinově⟧!** Pokoj v nebi a sláva na výsostech!“
 
-[39] Někteří z farizeů v zástupu mu řekli: „Učiteli, pokárej své učedníky.“
+[39] Někteří z ⟦pharisees|perušim|farizeů⟧ v zástupu mu řekli: „Učiteli, pokárej své učedníky.“
 
 [40] Odpověděl: „Pravím vám, kdyby tito mlčeli, budou volat kameny.“
 

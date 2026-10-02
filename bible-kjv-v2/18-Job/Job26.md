@@ -1,6 +1,6 @@
 # Job 26
 
-[1] Then Job answered and said:
+[1] Then ⟦job|Iyov|Job⟧ answered and said:
 
 [2] "How you have helped him who has no power!
 How you have saved the arm that has no strength!
@@ -15,7 +15,7 @@ Whose breath has come forth from you?
 beneath the waters and their inhabitants.
 
 [6] Sheol is naked before him;
-Abaddon has no covering.
+⟦abaddon|Avaddon|Abaddon⟧ has no covering.
 
 [7] He stretches out tzaphon — the north — over empty space;
 he hangs the earth on nothing.
@@ -33,7 +33,7 @@ at the boundary between light and darkness.
 astonished at his rebuke.
 
 [12] By his power he stilled the sea;
-by his understanding he shattered Rahab.
+by his understanding he shattered ⟦rahab-monster|Rahav|Rahab⟧.
 
 [13] By his spirit the heavens were made fair;
 his hand pierced the fleeing serpent.

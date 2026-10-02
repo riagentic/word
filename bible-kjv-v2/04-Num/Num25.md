@@ -1,40 +1,40 @@
 # Numbers 25
 
-[1] While Israel stayed at Shittim, the people began to whore with the daughters of Moab.
+[1] While ⟦israel|Yisrael|Israel⟧ stayed at Shittim, the people began to whore with the daughters of ⟦moab|Moav|Moab⟧.
 
 [2] They invited the people to the sacrifices of their gods; the people ate and bowed down to their gods.
 
-[3] So Israel yoked itself to Baal of Peor, and the anger of Yahweh burned against Israel.
+[3] So ⟦israel|Yisrael|Israel⟧ yoked itself to ⟦baal-peor|Baal Peor|Baal of Peor⟧, and the anger of ⟦yhwh|Yahweh|the LORD⟧ burned against ⟦israel|Yisrael|Israel⟧.
 
-[4] Yahweh said to Moses, "Take all the chiefs of the people, and impale them before Yahweh in the sun, that the fierce anger of Yahweh may turn away from Israel."
+[4] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Take all the chiefs of the people, and impale them before ⟦yhwh|Yahweh|the LORD⟧ in the sun, that the fierce anger of ⟦yhwh|Yahweh|the LORD⟧ may turn away from ⟦israel|Yisrael|Israel⟧."
 
-[5] Moses said to the judges of Israel, "Each of you kill his men who have yoked themselves to Baal of Peor."
+[5] ⟦moses|Moshe|Moses⟧ said to the judges of ⟦israel|Yisrael|Israel⟧, "Each of you kill his men who have yoked themselves to ⟦baal-peor|Baal Peor|Baal of Peor⟧."
 
-[6] Behold, one of the children of Israel came and brought a Midianite woman to his brothers in the sight of Moses and in the sight of the whole congregation of the children of Israel, while they were weeping at the entrance of the Tent of Meeting.
+[6] Behold, one of the children of ⟦israel|Yisrael|Israel⟧ came and brought a ⟦midianites|Midyani|Midianite⟧ woman to his brothers in the sight of ⟦moses|Moshe|Moses⟧ and in the sight of the whole congregation of the children of ⟦israel|Yisrael|Israel⟧, while they were weeping at the entrance of the Tent of Meeting.
 
-[7] When Phinehas son of Eleazar son of Aaron the priest saw it, he rose up from the midst of the congregation and took a spear in his hand;
+[7] When ⟦phinehas|Pinchas|Phinehas⟧ son of ⟦eleazar|Elazar|Eleazar⟧ son of ⟦aaron|Aharon|Aaron⟧ the priest saw it, he rose up from the midst of the congregation and took a spear in his hand;
 
-[8] he went after the man of Israel into the inner chamber and thrust both of them through — the man of Israel and the woman through her belly. So the plague was halted from the children of Israel.
+[8] he went after the man of ⟦israel|Yisrael|Israel⟧ into the inner chamber and thrust both of them through — the man of ⟦israel|Yisrael|Israel⟧ and the woman through her belly. So the plague was halted from the children of ⟦israel|Yisrael|Israel⟧.
 
 [9] Those who died in the plague were 24,000.
 
-[10] Yahweh spoke to Moses, saying,
+[10] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[11] "Phinehas son of Eleazar son of Aaron the priest has turned my wrath away from the children of Israel by his being jealous with my jealousy in their midst, so that I did not consume the children of Israel in my jealousy.
+[11] "⟦phinehas|Pinchas|Phinehas⟧ son of ⟦eleazar|Elazar|Eleazar⟧ son of ⟦aaron|Aharon|Aaron⟧ the priest has turned my wrath away from the children of ⟦israel|Yisrael|Israel⟧ by his being jealous with my jealousy in their midst, so that I did not consume the children of ⟦israel|Yisrael|Israel⟧ in my jealousy.
 
 [12] Therefore say, 'Behold, I am giving to him my covenant of peace.
 
-[13] It shall be for him and for his descendants after him a covenant of perpetual priesthood, because he was jealous for his *Elohim*, and made atonement for the children of Israel.'"
+[13] It shall be for him and for his descendants after him a covenant of perpetual priesthood, because he was jealous for his ⟦elohim|Elohim|God⟧, and made atonement for the children of ⟦israel|Yisrael|Israel⟧.'"
 
-[14] The name of the man of Israel who was killed with the Midianite woman — was Zimri son of Salu, chief of an ancestral house of the Simeonites.
+[14] The name of the man of ⟦israel|Yisrael|Israel⟧ who was killed with the ⟦midianites|Midyani|Midianite⟧ woman — was Zimri son of Salu, chief of an ancestral house of the ⟦simeonites|Shimoni|Simeonites⟧.
 
-[15] And the name of the Midianite woman who was killed was Cozbi, daughter of Zur; he was head of the people of an ancestral house in Midian.
+[15] And the name of the ⟦midianites|Midyani|Midianite⟧ woman who was killed was ⟦cozbi|Kozbi|Cozbi⟧, daughter of ⟦zur|Tzur|Zur⟧; he was head of the people of an ancestral house in ⟦midian|Midyan|Midian⟧.
 
-[16] Yahweh spoke to Moses, saying,
+[16] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[17] "Be hostile to the Midianites and strike them down,
+[17] "Be hostile to the ⟦midianites|Midyanim|Midianites⟧ and strike them down,
 
-[18] for they have been hostile to you with their wiles, by which they have deceived you in the matter of Peor and in the matter of Cozbi, the daughter of a chief of Midian, their sister, who was killed on the day of the plague on account of Peor."
+[18] for they have been hostile to you with their wiles, by which they have deceived you in the matter of Peor and in the matter of ⟦cozbi|Kozbi|Cozbi⟧, the daughter of a chief of ⟦midian|Midyan|Midian⟧, their sister, who was killed on the day of the plague on account of Peor."
 
 ## Changes
 

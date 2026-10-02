@@ -30,21 +30,21 @@ a fire that burns all the day.
 I will indeed repay into their bosom
 
 [7] both your iniquities and your fathers' iniquities together,"
-says Yahweh;
+says ⟦yhwh|Yahweh|the LORD⟧;
 "because they made offerings on the mountains
 and insulted me on the hills,
 I will measure into their bosom
 payment for their former deeds."
 
-[8] Thus says Yahweh:
+[8] Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
 "As the new wine is found in the cluster,
 and they say, 'Do not destroy it, for there is a blessing in it,'
 so I will do for my servants' sake,
 and not destroy them all.
 
-[9] I will bring forth offspring from Jacob,
-and from Judah possessors of my mountains;
+[9] I will bring forth offspring from ⟦jacob|Yaaqov|Jacob⟧,
+and from ⟦judah|Yehudah|Judah⟧ possessors of my mountains;
 my chosen shall possess it,
 and my servants shall dwell there.
 
@@ -52,10 +52,10 @@ and my servants shall dwell there.
 and the Valley of Achor a place for herds to lie down,
 for my people who have sought me.
 
-[11] But you who forsake Yahweh,
+[11] But you who forsake ⟦yhwh|Yahweh|the LORD⟧,
 who forget my holy mountain,
-who set a table for Gad — Fortune,
-and fill cups of mixed wine for Meni — Destiny,
+who set a table for ⟦gad-fortune|Gad — Fortune|Fortune⟧,
+and fill cups of mixed wine for ⟦meni|Meni — Destiny|Destiny⟧,
 
 [12] I will destine you to the sword,
 and all of you shall bow down to the slaughter,
@@ -64,7 +64,7 @@ when I spoke, you did not listen,
 but you did what was evil in my eyes
 and chose what I did not delight in."
 
-[13] Therefore thus says Lord Yahweh:
+[13] Therefore thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧:
 
 "Behold, my servants shall eat,
 but you shall be hungry;
@@ -78,13 +78,13 @@ but you shall cry out for pain of heart
 and shall wail for breaking of spirit.
 
 [15] You shall leave your name to my chosen for a curse,
-and Lord Yahweh will put you to death,
+and ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧ will put you to death,
 but his servants he will call by another name.
 
 [16] So that he who blesses himself in the land
-shall bless himself by the *Elohim* of truth,
+shall bless himself by the ⟦elohim|Elohim|God⟧ of truth,
 and he who takes an oath in the land
-shall swear by the *Elohim* of truth;
+shall swear by the ⟦elohim|Elohim|God⟧ of truth;
 because the former troubles are forgotten
 and are hidden from my eyes.
 
@@ -94,10 +94,10 @@ or come into mind.
 
 [18] But be glad and rejoice forever
 in that which I create;
-for behold, I create Jerusalem to be a joy,
+for behold, I create ⟦jerusalem|Yerushalayim|Jerusalem⟧ to be a joy,
 and her people to be a gladness.
 
-[19] I will rejoice in Jerusalem
+[19] I will rejoice in ⟦jerusalem|Yerushalayim|Jerusalem⟧
 and be glad in my people;
 no more shall be heard in it the sound of weeping
 and the cry of distress.
@@ -118,7 +118,7 @@ and my chosen shall long enjoy the work of their hands.
 
 [23] They shall not labor in vain
 or bear children for calamity,
-for they shall be the offspring of the blessed of Yahweh,
+for they shall be the offspring of the blessed of ⟦yhwh|Yahweh|the LORD⟧,
 and their descendants with them.
 
 [24] Before they call I will answer;
@@ -128,7 +128,7 @@ while they are yet speaking I will hear.
 the lion shall eat straw like the ox,
 and dust shall be the serpent's food.
 They shall not hurt or destroy
-in all my holy mountain," says Yahweh.
+in all my holy mountain," says ⟦yhwh|Yahweh|the LORD⟧.
 
 ## Changes
 

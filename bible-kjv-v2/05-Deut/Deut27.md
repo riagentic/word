@@ -1,34 +1,34 @@
 # Deuteronomy 27
 
-[1] Moses with the elders of Israel commanded the people, saying, "Keep the whole commandment that I am commanding you today.
+[1] ⟦moses|Moshe|Moses⟧ with the elders of ⟦israel|Yisrael|Israel⟧ commanded the people, saying, "Keep the whole commandment that I am commanding you today.
 
-[2] On the day you cross the Jordan into the land that Yahweh your *Elohim* is giving you, you shall set up for yourselves large stones and plaster them with plaster.
+[2] On the day you cross the ⟦jordan|Yarden|Jordan⟧ into the land that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is giving you, you shall set up for yourselves large stones and plaster them with plaster.
 
-[3] You shall write on them all the words of this Torah when you have crossed over, so that you may go into the land that Yahweh your *Elohim* is giving you — a land flowing with milk and honey — as Yahweh the *Elohim* of your fathers has promised you.
+[3] You shall write on them all the words of this ⟦torah|Torah|law⟧ when you have crossed over, so that you may go into the land that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is giving you — a land flowing with milk and honey — as ⟦yhwh|Yahweh|the LORD⟧ the ⟦elohim|Elohim|God⟧ of your fathers has promised you.
 
-[4] So when you have crossed the Jordan, you shall set up these stones, concerning which I am commanding you today, on Mount Ebal; and you shall plaster them with plaster.
+[4] So when you have crossed the ⟦jordan|Yarden|Jordan⟧, you shall set up these stones, concerning which I am commanding you today, on Mount ⟦ebal|Eival|Ebal⟧; and you shall plaster them with plaster.
 
-[5] There you shall build an altar to Yahweh your *Elohim* — an altar of stones; you shall not wield any iron tool upon them.
+[5] There you shall build an altar to ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ — an altar of stones; you shall not wield any iron tool upon them.
 
-[6] You shall build the altar of Yahweh your *Elohim* of uncut stones. You shall offer on it burnt offerings to Yahweh your *Elohim*,
+[6] You shall build the altar of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ of uncut stones. You shall offer on it burnt offerings to ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧,
 
-[7] and you shall offer peace offerings and eat there, and rejoice before Yahweh your *Elohim*.
+[7] and you shall offer peace offerings and eat there, and rejoice before ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
-[8] You shall write on the stones all the words of this Torah very plainly."
+[8] You shall write on the stones all the words of this ⟦torah|Torah|law⟧ very plainly."
 
-[9] Then Moses and the levitical priests spoke to all Israel, saying, "Be silent and listen, O Israel! This very day you have become the people of Yahweh your *Elohim*.
+[9] Then ⟦moses|Moshe|Moses⟧ and the levitical priests spoke to all ⟦israel|Yisrael|Israel⟧, saying, "Be silent and listen, O ⟦israel|Yisrael|Israel⟧! This very day you have become the people of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
-[10] You shall therefore obey the voice of Yahweh your *Elohim* and do his commandments and his statutes, which I am commanding you today."
+[10] You shall therefore obey the voice of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ and do his commandments and his statutes, which I am commanding you today."
 
-[11] Moses charged the people on that day, saying,
+[11] ⟦moses|Moshe|Moses⟧ charged the people on that day, saying,
 
-[12] "These shall stand on Mount Gerizim to bless the people when you have crossed the Jordan: Simeon, Levi, Judah, Issachar, Joseph, and Benjamin.
+[12] "These shall stand on Mount Gerizim to bless the people when you have crossed the ⟦jordan|Yarden|Jordan⟧: ⟦simeon|Shimon|Simeon⟧, Levi, ⟦judah|Yehudah|Judah⟧, ⟦issachar|Yissachar|Issachar⟧, ⟦joseph|Yosef|Joseph⟧, and ⟦benjamin|Binyamin|Benjamin⟧.
 
-[13] And these shall stand on Mount Ebal for the curse: Reuben, Gad, Asher, Zebulun, Dan, and Naphtali.
+[13] And these shall stand on Mount ⟦ebal|Eival|Ebal⟧ for the curse: ⟦reuben|Reuven|Reuben⟧, Gad, Asher, ⟦zebulun|Zevulun|Zebulun⟧, Dan, and ⟦naphtali|Naftali|Naphtali⟧.
 
-[14] The Levites shall answer and say to all the men of Israel with a loud voice:
+[14] The ⟦levites|Leviyim|Levites⟧ shall answer and say to all the men of ⟦israel|Yisrael|Israel⟧ with a loud voice:
 
-[15] 'Cursed be the man who makes a carved or cast image, an abomination to Yahweh, the work of a craftsman's hands, and sets it up in secret.' And all the people shall answer and say, 'Amen.'
+[15] 'Cursed be the man who makes a carved or cast image, an abomination to ⟦yhwh|Yahweh|the LORD⟧, the work of a craftsman's hands, and sets it up in secret.' And all the people shall answer and say, 'Amen.'
 
 [16] 'Cursed be he who dishonors his father or his mother.' And all the people shall say, 'Amen.'
 
@@ -50,7 +50,7 @@
 
 [25] 'Cursed be he who takes a bribe to strike down an innocent person.' And all the people shall say, 'Amen.'
 
-[26] 'Cursed be anyone who does not confirm the words of this Torah by doing them.' And all the people shall say, 'Amen.'
+[26] 'Cursed be anyone who does not confirm the words of this ⟦torah|Torah|law⟧ by doing them.' And all the people shall say, 'Amen.'
 
 ## Changes
 

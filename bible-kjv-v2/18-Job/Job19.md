@@ -1,6 +1,6 @@
 # Job 19
 
-[1] Then Job answered and said:
+[1] Then ⟦job|Iyov|Job⟧ answered and said:
 
 [2] "How long will you torment my soul
 and break me in pieces with words?
@@ -14,7 +14,7 @@ my error remains with me alone.
 [5] If indeed you magnify yourselves against me
 and make my disgrace an argument against me,
 
-[6] know then that Eloah has wronged me
+[6] know then that ⟦eloah|Eloah|God⟧ has wronged me
 and closed his net around me.
 
 [7] Behold, I cry 'Violence!' but I am not answered;
@@ -62,9 +62,9 @@ those whom I loved have turned against me.
 I have escaped with the skin of my teeth.
 
 [21] Have pity on me, have pity on me, O my friends,
-for the hand of Eloah has struck me!
+for the hand of ⟦eloah|Eloah|God⟧ has struck me!
 
-[22] Why do you, like *Elohim*, pursue me?
+[22] Why do you, like ⟦el|El|God⟧, pursue me?
 Why are you not satisfied with my flesh?
 
 [23] Oh that my words were now written!
@@ -77,7 +77,7 @@ in the rock forever!
 and at the last he shall stand upon the earth;
 
 [26] and after my skin has been destroyed thus,
-yet in my flesh I shall see Eloah,
+yet in my flesh I shall see ⟦eloah|Eloah|God⟧,
 
 [27] whom I shall see for myself,
 whom my eyes shall behold, and not another.
@@ -92,6 +92,7 @@ that you may know there is judgment."
 
 ## Changes
 
+- **"God" → "El"** (v22) — Hebrew אֵל *El*, not *Elohim*.
 - **"the children of mine own body" → "the sons of my own mother"** (v17) — Hebrew *benei vitni*; literally "sons of my belly," figuratively his full-brothers / household.
 - **"Why... are not satisfied with my flesh?" → "Why are you not satisfied with my flesh?"** (v22) — cannibalistic pursuit imagery.
 - **"in my flesh shall I see God" → "in my flesh I shall see Eloah"** (v26) — Hebrew ambiguous: *mi-bsari* — "from my flesh" / "apart from my flesh" / "in my flesh." Preposition allows multiple readings; traditional rendering retained.

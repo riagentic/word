@@ -1,6 +1,6 @@
 # Jakubův 1
 
-[1] Jacob, služebník *Elohim* a Pána *Yeshuy* *Mashiacha*,
+[1] ⟦james|Jaakov|Jakub⟧, služebník ⟦elohim|Elohim|Boží⟧ a Pána ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧,
 
 dvanácti kmenům v rozptýlení:
 
@@ -12,7 +12,7 @@ Pozdrav.
 
 [4] A vytrvalost ať dojde svého plného účinku, abyste byli dokonalí a celiství a nic vám nechybělo.
 
-[5] Jestliže však někomu z vás chybí moudrost, ať prosí *Elohim*, který dává všem štědře a bez výčitek, a bude mu dána.
+[5] Jestliže však někomu z vás chybí moudrost, ať prosí ⟦elohim|Elohim|Boha⟧, který dává všem štědře a bez výčitek, a bude mu dána.
 
 [6] Ať však prosí s vírou a bez pochybování, neboť kdo pochybuje, je jako mořská vlna, kterou vítr žene a zmítá.
 
@@ -26,9 +26,9 @@ Pozdrav.
 
 [11] Vyjde slunce se svým spalujícím žárem a trávu usuší; její květ opadne a jeho krása zanikne. Tak i bohatý uprostřed svého shonu uvadne.
 
-[12] Blahoslavený muž, který v pokušení vytrvá, neboť až obstojí ve zkoušce, přijme korunu života, kterou *Elohim* zaslíbil těm, kdo ho milují.
+[12] Blahoslavený muž, který v pokušení vytrvá, neboť až obstojí ve zkoušce, přijme korunu života, kterou ⟦elohim|Elohim|Bůh⟧ zaslíbil těm, kdo ho milují.
 
-[13] Nikdo, kdo je pokoušen, ať neříká: „Jsem pokoušen od *Elohim*,“ neboť *Elohim* nemůže být pokoušen ke zlému a sám nikoho nepokouší.
+[13] Nikdo, kdo je pokoušen, ať neříká: „Jsem pokoušen od ⟦elohim|Elohim|Boha⟧,“ neboť ⟦elohim|Elohim|Bůh⟧ nemůže být pokoušen ke zlému a sám nikoho nepokouší.
 
 [14] Každý je však pokoušen, když ho vlastní touha vábí a svádí.
 
@@ -42,7 +42,7 @@ Pozdrav.
 
 [19] Vězte, moji milovaní bratři: **každý člověk ať je rychlý k naslouchání, pomalý k mluvení, pomalý k hněvu**;
 
-[20] neboť lidský hněv nepůsobí spravedlnost *Elohim*.
+[20] neboť lidský hněv nepůsobí spravedlnost ⟦elohim|Elohim|Boží⟧.
 
 [21] Odložte proto veškerou špínu a bující zlobu a s tichostí přijměte vštípené slovo, které má moc spasit vaše duše.
 
@@ -52,11 +52,11 @@ Pozdrav.
 
 [24] Podívá se na sebe, odejde a hned zapomene, jaký byl.
 
-[25] Kdo však nahlédne do dokonalého zákona, zákona svobody, a vytrvá v něm, protože není zapomnětlivým posluchačem, ale činitelem, který jedná, ten bude ve svém jednání blahoslavený.
+[25] Kdo však nahlédne do ⟦torah|dokonalé Tóry, Tóry svobody, a vytrvá v ní|dokonalého zákona, zákona svobody, a vytrvá v něm⟧, protože není zapomnětlivým posluchačem, ale činitelem, který jedná, ten bude ve svém jednání blahoslavený.
 
 [26] Myslí-li si někdo, že je zbožný, a nedrží na uzdě svůj jazyk, ale klame své srdce, zbožnost takového člověka je bezcenná.
 
-[27] Čistá a neposkvrněná zbožnost před *Elohim* Otcem je toto: navštěvovat sirotky a vdovy v jejich soužení a uchovávat se neposkvrněný od světa.
+[27] Čistá a neposkvrněná zbožnost před ⟦elohim|Elohim|Bohem⟧ Otcem je toto: navštěvovat sirotky a vdovy v jejich soužení a uchovávat se neposkvrněný od světa.
 
 ## Změny
 

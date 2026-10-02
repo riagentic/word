@@ -1,41 +1,41 @@
 # Isaiah 19
 
-[1] An oracle concerning Egypt.
+[1] An oracle concerning ⟦egypt|Mitzrayim|Egypt⟧.
 
-Behold, Yahweh is riding on a swift cloud
-and comes to Egypt;
-and the idols of Egypt will tremble at his presence,
-and the heart of the Egyptians will melt within them.
+Behold, ⟦yhwh|Yahweh|the LORD⟧ is riding on a swift cloud
+and comes to ⟦egypt|Mitzrayim|Egypt⟧;
+and the idols of ⟦egypt|Mitzrayim|Egypt⟧ will tremble at his presence,
+and the heart of the ⟦egyptians|Mitzrim|Egyptians⟧ will melt within them.
 
-[2] "And I will stir up Egyptians against Egyptians,
+[2] "And I will stir up ⟦egyptians|Mitzrim|Egyptians⟧ against ⟦egyptians|Mitzrim|Egyptians⟧,
 and they will fight, each against another
 and each against his neighbor,
 city against city, kingdom against kingdom;
 
-[3] and the spirit of the Egyptians within them will be emptied out,
+[3] and the spirit of the ⟦egyptians|Mitzrim|Egyptians⟧ within them will be emptied out,
 and I will confound their counsel;
 and they will inquire of the idols and the sorcerers,
 and the mediums and the necromancers;
 
-[4] and I will give over the Egyptians
+[4] and I will give over the ⟦egyptians|Mitzrim|Egyptians⟧
 into the hand of a hard master,
 and a fierce king will rule over them,"
-declares Lord, Yahweh of Hosts.
+declares Lord, ⟦yhwh|Yahweh|the LORD⟧ of Hosts.
 
 [5] And the waters of the sea will be dried up,
 and the river will be dry and parched,
 
 [6] and its canals will become foul,
-and the branches of Egypt's Nile will diminish and dry up,
+and the branches of ⟦egypt|Mitzrayim's|Egypt's⟧ ⟦nile|Yeor|Nile⟧ will diminish and dry up,
 reeds and rushes will rot away.
 
-[7] There will be bare places by the Nile,
-on the brink of the Nile,
-and all that is sown by the Nile
+[7] There will be bare places by the ⟦nile|Yeor|Nile⟧,
+on the brink of the ⟦nile|Yeor|Nile⟧,
+and all that is sown by the ⟦nile|Yeor|Nile⟧
 will be parched, will be driven away, and will be no more.
 
 [8] The fishermen will mourn and lament,
-all who cast a hook in the Nile;
+all who cast a hook in the ⟦nile|Yeor|Nile⟧;
 and they will languish who spread nets on the water.
 
 [9] The workers in combed flax will be in despair,
@@ -44,47 +44,47 @@ and the weavers of white cotton.
 [10] Those who are the pillars of the land will be crushed,
 and all who work for pay will be grieved.
 
-[11] The princes of Zoan are utterly foolish;
-the wisest counselors of Pharaoh give stupid counsel.
-How can you say to Pharaoh,
+[11] The princes of ⟦zoan|Tzoan|Zoan⟧ are utterly foolish;
+the wisest counselors of ⟦pharaoh|Paroh|Pharaoh⟧ give stupid counsel.
+How can you say to ⟦pharaoh|Paroh|Pharaoh⟧,
 "I am a son of the wise,
 a son of ancient kings"?
 
 [12] Where then are your wise men?
 Let them tell you that they might know
-what Yahweh of Hosts has purposed against Egypt.
+what ⟦yhwh|Yahweh|the LORD⟧ of Hosts has purposed against ⟦egypt|Mitzrayim|Egypt⟧.
 
-[13] The princes of Zoan have become fools,
-and the princes of Memphis are deluded;
+[13] The princes of ⟦zoan|Tzoan|Zoan⟧ have become fools,
+and the princes of ⟦memphis|Nof|Memphis⟧ are deluded;
 those who are the cornerstones of her tribes
-have made Egypt stagger.
+have made ⟦egypt|Mitzrayim|Egypt⟧ stagger.
 
-[14] Yahweh has mingled within her a spirit of confusion,
-and they will make Egypt stagger in all its deeds,
+[14] ⟦yhwh|Yahweh|The LORD⟧ has mingled within her a spirit of confusion,
+and they will make ⟦egypt|Mitzrayim|Egypt⟧ stagger in all its deeds,
 as a drunken man staggers in his vomit.
 
-[15] And there will be nothing for Egypt that head or tail,
+[15] And there will be nothing for ⟦egypt|Mitzrayim|Egypt⟧ that head or tail,
 palm branch or reed, may do.
 
-[16] In that day the Egyptians will be like women, and tremble with fear before the hand that Yahweh of Hosts shakes over them.
+[16] In that day the ⟦egyptians|Mitzrim|Egyptians⟧ will be like women, and tremble with fear before the hand that ⟦yhwh|Yahweh|the LORD⟧ of Hosts shakes over them.
 
-[17] And the land of Judah will become a terror to the Egyptians. Everyone to whom it is mentioned will fear because of the purpose that Yahweh of Hosts has purposed against them.
+[17] And the land of ⟦judah|Yehudah|Judah⟧ will become a terror to the ⟦egyptians|Mitzrim|Egyptians⟧. Everyone to whom it is mentioned will fear because of the purpose that ⟦yhwh|Yahweh|the LORD⟧ of Hosts has purposed against them.
 
-[18] In that day there will be five cities in the land of Egypt that speak the language of Canaan and swear allegiance to Yahweh of Hosts. One of these will be called the City of the Sun.
+[18] In that day there will be five cities in the land of ⟦egypt|Mitzrayim|Egypt⟧ that speak the language of ⟦canaan|Kenaan|Canaan⟧ and swear allegiance to ⟦yhwh|Yahweh|the LORD⟧ of Hosts. One of these will be called the City of the Sun.
 
-[19] In that day there will be an altar to Yahweh in the midst of the land of Egypt, and a pillar to Yahweh at its border.
+[19] In that day there will be an altar to ⟦yhwh|Yahweh|the LORD⟧ in the midst of the land of ⟦egypt|Mitzrayim|Egypt⟧, and a pillar to ⟦yhwh|Yahweh|the LORD⟧ at its border.
 
-[20] It will be a sign and a witness to Yahweh of Hosts in the land of Egypt. When they cry to Yahweh because of oppressors, he will send them a savior and defender, and deliver them.
+[20] It will be a sign and a witness to ⟦yhwh|Yahweh|the LORD⟧ of Hosts in the land of ⟦egypt|Mitzrayim|Egypt⟧. When they cry to ⟦yhwh|Yahweh|the LORD⟧ because of oppressors, he will send them a savior and defender, and deliver them.
 
-[21] And Yahweh will make himself known to the Egyptians, and the Egyptians will know Yahweh in that day and worship with sacrifice and offering, and they will make vows to Yahweh and perform them.
+[21] And ⟦yhwh|Yahweh|the LORD⟧ will make himself known to the ⟦egyptians|Mitzrim|Egyptians⟧, and the ⟦egyptians|Mitzrim|Egyptians⟧ will know ⟦yhwh|Yahweh|the LORD⟧ in that day and worship with sacrifice and offering, and they will make vows to ⟦yhwh|Yahweh|the LORD⟧ and perform them.
 
-[22] And Yahweh will strike Egypt, striking and healing, and they will return to Yahweh, and he will listen to their pleas and heal them.
+[22] And ⟦yhwh|Yahweh|the LORD⟧ will strike ⟦egypt|Mitzrayim|Egypt⟧, striking and healing, and they will return to ⟦yhwh|Yahweh|the LORD⟧, and he will listen to their pleas and heal them.
 
-[23] In that day there will be a highway from Egypt to Assyria, and Assyria will come into Egypt, and Egypt into Assyria, and the Egyptians will worship with the Assyrians.
+[23] In that day there will be a highway from ⟦egypt|Mitzrayim|Egypt⟧ to ⟦assyria|Ashur|Assyria⟧, and ⟦assyria|Ashur|Assyria⟧ will come into ⟦egypt|Mitzrayim|Egypt⟧, and ⟦egypt|Mitzrayim|Egypt⟧ into ⟦assyria|Ashur|Assyria⟧, and the ⟦egyptians|Mitzrim|Egyptians⟧ will worship with ⟦assyria|Ashur|the Assyrians⟧.
 
-[24] In that day Israel will be the third with Egypt and Assyria, a blessing in the midst of the earth,
+[24] In that day ⟦israel|Yisrael|Israel⟧ will be the third with ⟦egypt|Mitzrayim|Egypt⟧ and ⟦assyria|Ashur|Assyria⟧, a blessing in the midst of the earth,
 
-[25] whom Yahweh of Hosts has blessed, saying, "Blessed be Egypt my people, and Assyria the work of my hands, and Israel my inheritance."
+[25] whom ⟦yhwh|Yahweh|the LORD⟧ of Hosts has blessed, saying, "Blessed be ⟦egypt|Mitzrayim|Egypt⟧ my people, and ⟦assyria|Ashur|Assyria⟧ the work of my hands, and ⟦israel|Yisrael|Israel⟧ my inheritance."
 
 ## Changes
 

@@ -1,15 +1,15 @@
 # Isaiah 48
 
-[1] Hear this, O house of Jacob,
-who are called by the name of Israel,
-and who came from the waters of Judah,
-who swear by the name of Yahweh
-and confess the *Elohim* of Israel,
+[1] Hear this, O house of ⟦jacob|Yaaqov|Jacob⟧,
+who are called by the name of ⟦israel|Yisrael|Israel⟧,
+and who came from the waters of ⟦judah|Yehudah|Judah⟧,
+who swear by the name of ⟦yhwh|Yahweh|the LORD⟧
+and confess the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧,
 but not in truth or right.
 
 [2] For they call themselves after the holy city,
-and stay themselves on the *Elohim* of Israel;
-Yahweh of Hosts is his name.
+and stay themselves on the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧;
+⟦yhwh|Yahweh|the LORD⟧ of Hosts is his name.
 
 [3] "The former things I declared of old;
 they went out from my mouth, and I announced them;
@@ -49,8 +49,8 @@ I have tried you in the furnace of affliction.
 for how should my name be profaned?
 My glory I will not give to another.
 
-[12] Listen to me, O Jacob,
-and Israel, whom I called!
+[12] Listen to me, O ⟦jacob|Yaaqov|Jacob⟧,
+and ⟦israel|Yisrael|Israel⟧, whom I called!
 I am he; I am the first,
 and I am the last.
 
@@ -61,9 +61,9 @@ they stand forth together.
 
 [14] Assemble, all of you, and listen!
 Who among them has declared these things?
-Yahweh loves him;
-he shall perform his purpose on Babylon,
-and his arm shall be against the Chaldeans.
+⟦yhwh|Yahweh|The LORD⟧ loves him;
+he shall perform his purpose on ⟦babylon|Bavel|Babylon⟧,
+and his arm shall be against the ⟦chaldeans|Kasdim|Chaldeans⟧.
 
 [15] I, even I, have spoken and called him;
 I have brought him, and he will prosper in his way.
@@ -72,11 +72,11 @@ I have brought him, and he will prosper in his way.
 from the beginning I have not spoken in secret,
 from the time it came to be I have been there."
 
-And now Lord Yahweh has sent me, and his spirit.
+And now ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧ has sent me, and his spirit.
 
-[17] Thus says Yahweh, your Redeemer, the Holy One of Israel:
+[17] Thus says ⟦yhwh|Yahweh|the LORD⟧, your Redeemer, the Holy One of ⟦israel|Yisrael|Israel⟧:
 
-"I am Yahweh your *Elohim*,
+"I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧,
 who teaches you to profit,
 who leads you in the way you should go.
 
@@ -89,16 +89,16 @@ and your descendants like its grains;
 their name would never be cut off
 or destroyed from before me."
 
-[20] Go out from Babylon, flee from Chaldea,
+[20] Go out from ⟦babylon|Bavel|Babylon⟧, flee from ⟦chaldea|Kasdim|Chaldea⟧,
 declare this with a shout of joy, proclaim it,
 send it out to the end of the earth;
-say, "Yahweh has redeemed his servant Jacob!"
+say, "⟦yhwh|Yahweh|The LORD⟧ has redeemed his servant ⟦jacob|Yaaqov|Jacob⟧!"
 
 [21] They did not thirst when he led them through the deserts;
 he made water flow for them from the rock;
 he split the rock and the water gushed out.
 
-[22] "There is no peace," says Yahweh, "for the wicked."
+[22] "There is no peace," says ⟦yhwh|Yahweh|the LORD⟧, "for the wicked."
 
 ## Changes
 

@@ -1,40 +1,40 @@
 # Exodus 31
 
-[1] Yahweh spoke to Moses, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[2] "See, I have called by name Betzalel son of Uri, son of Hur, of the tribe of Judah;
+[2] "See, I have called by name ⟦bezalel|Betzalel|Bezalel⟧ son of Uri, son of ⟦hur|Chur|Hur⟧, of the tribe of ⟦judah|Yehudah|Judah⟧;
 
-[3] and I have filled him with the Spirit of *Elohim*, with skill, with understanding, with knowledge, and with all kinds of craftsmanship,
+[3] and I have filled him with the Spirit of ⟦elohim|Elohim|God⟧, with skill, with understanding, with knowledge, and with all kinds of craftsmanship,
 
 [4] to devise designs for working in gold, silver, and bronze,
 
 [5] in cutting of stones for setting, and in carving of wood — to work in every kind of craft.
 
-[6] And I have appointed with him Oholiab son of Ahisamach, of the tribe of Dan; and in the hearts of all who are skillful of heart I have put skill, that they may make all that I have commanded you —
+[6] And I have appointed with him ⟦oholiab|Oholiav|Oholiab⟧ son of ⟦ahisamach|Achisamach|Ahisamach⟧, of the tribe of Dan; and in the hearts of all who are skillful of heart I have put skill, that they may make all that I have commanded you —
 
-[7] the Tent of Meeting, the ark of the Testimony, the mercy seat that is on it, and all the furnishings of the tent;
+[7] the Tent of Meeting, the ark of the Testimony, the ⟦mercy-seat|kapporet|mercy seat⟧ that is on it, and all the furnishings of the tent;
 
 [8] the table and its utensils, and the pure lampstand with all its utensils, and the altar of incense,
 
 [9] and the altar of burnt offering with all its utensils, and the basin and its stand;
 
-[10] and the finely-woven garments, the holy garments for Aaron the priest and the garments of his sons to serve as priests;
+[10] and the finely-woven garments, the holy garments for ⟦aaron|Aharon|Aaron⟧ the priest and the garments of his sons to serve as priests;
 
 [11] and the anointing oil and fragrant incense for the Holy Place — according to all that I have commanded you they shall do."
 
-[12] Yahweh said to Moses,
+[12] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧,
 
-[13] "You shall speak to the children of Israel, saying: 'Above all, you shall keep my Sabbaths, for it is a sign between me and you throughout your generations, that you may know that I, Yahweh, sanctify you.
+[13] "You shall speak to the children of ⟦israel|Yisrael|Israel⟧, saying: 'Above all, you shall keep my ⟦shabbat|Shabbatot|Sabbaths⟧, for it is a sign between me and you throughout your generations, that you may know that I, ⟦yhwh|Yahweh|the LORD⟧, sanctify you.
 
-[14] You shall therefore keep the Sabbath, because it is holy to you. Everyone who profanes it shall surely be put to death; for whoever does any work on it, that person shall be cut off from among his people.
+[14] You shall therefore keep the ⟦shabbat|Shabbat|Sabbath⟧, because it is holy to you. Everyone who profanes it shall surely be put to death; for whoever does any work on it, that person shall be cut off from among his people.
 
-[15] Six days shall work be done, but the seventh day is a Sabbath of solemn rest, holy to Yahweh. Whoever does any work on the Sabbath day shall surely be put to death.
+[15] Six days shall work be done, but the seventh day is a ⟦shabbat|Shabbat|Sabbath⟧ of solemn rest, holy to ⟦yhwh|Yahweh|the LORD⟧. Whoever does any work on the ⟦shabbat|Shabbat|Sabbath⟧ day shall surely be put to death.
 
-[16] Therefore the children of Israel shall keep the Sabbath, to observe the Sabbath throughout their generations as a perpetual covenant.
+[16] Therefore the children of ⟦israel|Yisrael|Israel⟧ shall keep the ⟦shabbat|Shabbat|Sabbath⟧, to observe the ⟦shabbat|Shabbat|Sabbath⟧ throughout their generations as a perpetual covenant.
 
-[17] It is a sign forever between me and the children of Israel; for in six days Yahweh made the heavens and the earth, and on the seventh day he rested and was refreshed.'"
+[17] It is a sign forever between me and the children of ⟦israel|Yisrael|Israel⟧; for in six days ⟦yhwh|Yahweh|the LORD⟧ made the heavens and the earth, and on the seventh day he rested and was refreshed.'"
 
-[18] And when he had finished speaking with him on Mount Sinai, he gave to Moses the two tablets of the Testimony — tablets of stone written with the finger of *Elohim*.
+[18] And when he had finished speaking with him on Mount Sinai, he gave to ⟦moses|Moshe|Moses⟧ the two tablets of the Testimony — tablets of stone written with the finger of ⟦elohim|Elohim|God⟧.
 
 ## Changes
 

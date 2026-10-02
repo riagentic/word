@@ -1,12 +1,12 @@
 # Jób 27
 
-[1] Job pokračoval ve své řeči a řekl:
+[1] ⟦job|Ijov|Jób⟧ pokračoval ve své řeči a řekl:
 
-[2] „Jakože živ je *Elohim* – který mi odňal mé právo –
-a Shaddai, který naplnil hořkostí mou duši –
+[2] „Jakože živ je ⟦el|El|Bůh⟧ – který mi odňal mé právo –
+a ⟦shaddai|Šaddaj|Všemohoucí⟧, který naplnil hořkostí mou duši –
 
 [3] dokud je ve mně můj dech
-a duch Eloah v mém chřípí,
+a duch ⟦eloah|Eloah|Boží⟧ v mém chřípí,
 
 [4] mé rty nebudou mluvit nepravdu
 a můj jazyk nebude pronášet klam.
@@ -21,22 +21,22 @@ mé srdce mi nebude nic vyčítat, dokud budu živ.
 a můj protivník jako nespravedlivý.
 
 [8] Vždyť jaká je naděje bezbožného, když je odťat,
-když Eloah vezme jeho duši?
+když ⟦eloah|Eloah|Bůh⟧ vezme jeho duši?
 
-[9] Vyslyší *Elohim* jeho křik,
+[9] Vyslyší ⟦el|El|Bůh⟧ jeho křik,
 když na něj přijde tíseň?
 
-[10] Bude se těšit ze Shaddaie?
-Bude vzývat Eloah v každý čas?
+[10] Bude se těšit ze ⟦shaddai|Šaddaje|Všemohoucího⟧?
+Bude vzývat ⟦eloah|Eloah|Boha⟧ v každý čas?
 
-[11] Poučím vás o ruce *Elohim*;
-co je u Shaddaie, nebudu tajit.
+[11] Poučím vás o ruce ⟦el|El|Boží⟧;
+co je u ⟦shaddai|Šaddaje|Všemohoucího⟧, nebudu tajit.
 
 [12] Hle, vy všichni jste to sami viděli;
 proč jste tedy propadli takové marnosti?
 
-[13] To je podíl svévolného člověka u *Elohim*,
-dědictví, které utlačovatelé dostávají od Shaddaie:
+[13] To je podíl svévolného člověka u ⟦el|El|Boha⟧,
+dědictví, které utlačovatelé dostávají od ⟦shaddai|Šaddaje|Všemohoucího⟧:
 
 [14] Rozmnoží-li se jeho děti, je to pro meč;
 jeho potomci se nenasytí chleba.
@@ -70,6 +70,7 @@ a sviští na něj z jeho místa.“
 
 ## Změny
 
+- **"God" → „El“** (v2, 9, 11, 13) – hebrejsky אֵל *El*, ne *Elohim*.
 - **"hypocrite" → „bezbožného“** (v8) – *chanef*.
 - **"buried in death" → „pohřbí mor“** (v15) – *ba-maweth yiqqaveru*; „ve smrti budou pohřbeni“, nejspíš ve smyslu moru.
 

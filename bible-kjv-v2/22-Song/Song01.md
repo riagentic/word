@@ -1,6 +1,6 @@
 # Song of Songs 1
 
-[1] The Song of Songs, which is Solomon's.
+[1] The Song of Songs, which is ⟦solomon|Shlomo's|Solomon's⟧.
 
 [2] Let him kiss me with the kisses of his mouth!
 For your love is better than wine;
@@ -17,9 +17,9 @@ we will extol your love more than wine;
 rightly do they love you.
 
 [5] I am very dark, but lovely,
-O daughters of Jerusalem,
-like the tents of Kedar,
-like the curtains of Solomon.
+O daughters of ⟦jerusalem|Yerushalayim|Jerusalem⟧,
+like the tents of ⟦kedar|Qedar|Kedar⟧,
+like the curtains of ⟦solomon|Shlomo|Solomon⟧.
 
 [6] Do not gaze at me because I am dark,
 because the sun has looked upon me.
@@ -39,7 +39,7 @@ and pasture your young goats
 beside the shepherds' tents.
 
 [9] I compare you, my love,
-to a mare among Pharaoh's chariots.
+to a mare among ⟦pharaoh|Paroh's|Pharaoh's⟧ chariots.
 
 [10] Your cheeks are lovely with ornaments,
 your neck with strings of jewels.
@@ -54,7 +54,7 @@ my nard gave forth its fragrance.
 that lies between my breasts.
 
 [14] My beloved is to me a cluster of henna blossoms
-in the vineyards of En-gedi.
+in the vineyards of ⟦en-gedi|Ein Gedi|En-gedi⟧.
 
 [15] Behold, you are beautiful, my love;
 behold, you are beautiful;

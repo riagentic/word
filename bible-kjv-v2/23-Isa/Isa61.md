@@ -1,22 +1,22 @@
 # Isaiah 61
 
-[1] The Spirit of the Lord Yahweh is upon me,
-because Yahweh has anointed me
+[1] The Spirit of ⟦adonai-yhwh|the Lord Yahweh|the Lord GOD⟧ is upon me,
+because ⟦yhwh|Yahweh|the LORD⟧ has anointed me
 to bring good news to the afflicted;
 he has sent me to bind up the brokenhearted,
 to proclaim liberty to the captives,
 and the opening of the prison to those who are bound;
 
-[2] to proclaim the year of Yahweh's favor,
-and the day of vengeance of our *Elohim*;
+[2] to proclaim the year of ⟦yhwh|Yahweh's|the LORD's⟧ favor,
+and the day of vengeance of our ⟦elohim|Elohim|God⟧;
 to comfort all who mourn;
 
-[3] to grant to those who mourn in Zion —
+[3] to grant to those who mourn in ⟦zion|Tziyon|Zion⟧ —
 to give them a beautiful headdress instead of ashes,
 the oil of gladness instead of mourning,
 the garment of praise instead of a faint spirit;
 that they may be called oaks of righteousness,
-the planting of Yahweh, that he may be glorified.
+the planting of ⟦yhwh|Yahweh|the LORD⟧, that he may be glorified.
 
 [4] They shall build up the ancient ruins;
 they shall raise up the former devastations;
@@ -26,8 +26,8 @@ the devastations of many generations.
 [5] Strangers shall stand and tend your flocks;
 foreigners shall be your plowmen and vinedressers;
 
-[6] but you shall be called the priests of Yahweh;
-they shall speak of you as the ministers of our *Elohim*;
+[6] but you shall be called the priests of ⟦yhwh|Yahweh|the LORD⟧;
+they shall speak of you as the ministers of our ⟦elohim|Elohim|God⟧;
 you shall eat the wealth of the nations,
 and in their glory you shall boast.
 
@@ -36,7 +36,7 @@ instead of dishonor they shall rejoice in their lot;
 therefore in their land they shall possess a double portion;
 they shall have everlasting joy.
 
-[8] For I, Yahweh, love justice;
+[8] For I, ⟦yhwh|Yahweh|the LORD⟧, love justice;
 I hate robbery and wrong;
 I will faithfully give them their recompense,
 and I will make an everlasting covenant with them.
@@ -44,10 +44,10 @@ and I will make an everlasting covenant with them.
 [9] Their offspring shall be known among the nations,
 and their descendants in the midst of the peoples;
 all who see them shall acknowledge them,
-that they are an offspring Yahweh has blessed.
+that they are an offspring ⟦yhwh|Yahweh|the LORD⟧ has blessed.
 
-[10] I will greatly rejoice in Yahweh;
-my soul shall exult in my *Elohim*,
+[10] I will greatly rejoice in ⟦yhwh|Yahweh|the LORD⟧;
+my soul shall exult in my ⟦elohim|Elohim|God⟧,
 for he has clothed me with the garments of salvation;
 he has covered me with the robe of righteousness,
 as a bridegroom adorns himself with a beautiful headdress,
@@ -55,7 +55,7 @@ and as a bride adorns herself with her jewels.
 
 [11] For as the earth brings forth its sprouts,
 and as a garden causes what is sown in it to sprout up,
-so Lord Yahweh will cause righteousness and praise
+so ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧ will cause righteousness and praise
 to sprout up before all the nations.
 
 ## Changes

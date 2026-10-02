@@ -16,7 +16,7 @@ a company of treacherous men.
 falsehood and not truth has grown strong in the land;
 for they proceed from evil to evil,
 and they do not know me,
-declares Yahweh.
+declares ⟦yhwh|Yahweh|the LORD⟧.
 
 [4] Let everyone beware of his neighbor,
 and put no trust in any brother,
@@ -29,9 +29,9 @@ they have taught their tongue to speak lies;
 they weary themselves committing iniquity.
 
 [6] Heaping oppression upon oppression, and deceit upon deceit,
-they refuse to know me, declares Yahweh.
+they refuse to know me, declares ⟦yhwh|Yahweh|the LORD⟧.
 
-[7] Therefore thus says Yahweh of Hosts:
+[7] Therefore thus says ⟦yhwh|Yahweh|the LORD⟧ of Hosts:
 
 "Behold, I will refine them and test them,
 for what else can I do, because of my people?
@@ -41,7 +41,7 @@ it speaks deceitfully;
 with his mouth each speaks peace to his neighbor,
 but in his heart he plans an ambush for him.
 
-[9] Shall I not punish them for these things? declares Yahweh,
+[9] Shall I not punish them for these things? declares ⟦yhwh|Yahweh|the LORD⟧,
 and shall I not avenge myself
 on a nation such as this?"
 
@@ -52,22 +52,22 @@ and the lowing of cattle is not heard;
 both the birds of the air and the beasts
 have fled and are gone.
 
-[11] "I will make Jerusalem a heap of ruins,
+[11] "I will make ⟦jerusalem|Yerushalayim|Jerusalem⟧ a heap of ruins,
 a lair of jackals,
-and I will make the cities of Judah a desolation,
+and I will make the cities of ⟦judah|Yehudah|Judah⟧ a desolation,
 without inhabitant."
 
-[12] Who is the wise man who can understand this? To whom has the mouth of Yahweh spoken, that he may declare it? Why is the land ruined and laid waste like a wilderness, so that no one passes through?
+[12] Who is the wise man who can understand this? To whom has the mouth of ⟦yhwh|Yahweh|the LORD⟧ spoken, that he may declare it? Why is the land ruined and laid waste like a wilderness, so that no one passes through?
 
-[13] And Yahweh says: "Because they have forsaken my Law that I set before them, and have not obeyed my voice or walked in accord with it,
+[13] And ⟦yhwh|Yahweh|the LORD⟧ says: "Because they have forsaken my ⟦torah|Torah|law⟧ that I set before them, and have not obeyed my voice or walked in accord with it,
 
 [14] but have stubbornly followed their own hearts and have gone after the Baals, as their fathers taught them.
 
-[15] Therefore thus says Yahweh of Hosts, the *Elohim* of Israel: Behold, I will feed this people with bitter food, and give them poisonous water to drink.
+[15] Therefore thus says ⟦yhwh|Yahweh|the LORD⟧ of Hosts, the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧: Behold, I will feed this people with bitter food, and give them poisonous water to drink.
 
 [16] I will scatter them among the nations whom neither they nor their fathers have known, and I will send the sword after them, until I have consumed them."
 
-[17] Thus says Yahweh of Hosts:
+[17] Thus says ⟦yhwh|Yahweh|the LORD⟧ of Hosts:
 
 "Consider, and call for the mourning women to come;
 send for the skillful women to come;
@@ -76,13 +76,13 @@ send for the skillful women to come;
 that our eyes may run down with tears
 and our eyelids flow with water.
 
-[19] For a sound of wailing is heard from Zion:
+[19] For a sound of wailing is heard from ⟦zion|Tziyon|Zion⟧:
 'How we are ruined!
 We are utterly shamed,
 because we have left the land,
 because they have cast down our dwellings.'"
 
-[20] Hear, O women, the word of Yahweh,
+[20] Hear, O women, the word of ⟦yhwh|Yahweh|the LORD⟧,
 and let your ear receive the word of his mouth;
 teach to your daughters a lament,
 and each to her neighbor a dirge.
@@ -92,13 +92,13 @@ it has entered our palaces,
 cutting off the children from the streets
 and the young men from the squares.
 
-[22] Speak: "Thus declares Yahweh,
+[22] Speak: "Thus declares ⟦yhwh|Yahweh|the LORD⟧,
 'The dead bodies of men shall fall
 like dung on the open field,
 like sheaves after the reaper,
 and none shall gather them.'"
 
-[23] Thus says Yahweh:
+[23] Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
 "Let not the wise man boast in his wisdom,
 let not the mighty man boast in his might,
@@ -106,12 +106,12 @@ let not the rich man boast in his riches,
 
 [24] but let him who boasts boast in this,
 that he understands and knows me,
-that I am Yahweh who practices steadfast love, justice, and righteousness in the earth.
-For in these things I delight, declares Yahweh."
+that I am ⟦yhwh|Yahweh|the LORD⟧ who practices steadfast love, justice, and righteousness in the earth.
+For in these things I delight, declares ⟦yhwh|Yahweh|the LORD⟧."
 
-[25] "Behold, the days are coming, declares Yahweh, when I will punish all those who are circumcised merely in the flesh —
+[25] "Behold, the days are coming, declares ⟦yhwh|Yahweh|the LORD⟧, when I will punish all those who are circumcised merely in the flesh —
 
-[26] Egypt, Judah, Edom, the sons of Ammon, Moab, and all who dwell in the desert who cut the corners of their hair, for all these nations are uncircumcised, and all the house of Israel are uncircumcised in heart."
+[26] ⟦egypt|Mitzrayim|Egypt⟧, ⟦judah|Yehudah|Judah⟧, Edom, the sons of Ammon, ⟦moab|Moav|Moab⟧, and all who dwell in the desert who cut the corners of their hair, for all these nations are uncircumcised, and all the house of ⟦israel|Yisrael|Israel⟧ are uncircumcised in heart."
 
 ## Changes
 

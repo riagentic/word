@@ -3,7 +3,7 @@
 [1] The wisest of women builds her house,
 but folly with her own hands tears it down.
 
-[2] Whoever walks in uprightness fears Yahweh,
+[2] Whoever walks in uprightness fears ⟦yhwh|Yahweh|the LORD⟧,
 but he who is devious in his ways despises him.
 
 [3] By the mouth of a fool comes a rod for his back,
@@ -75,10 +75,10 @@ but the folly of fools brings folly.
 [25] A truthful witness saves souls,
 but one who breathes out lies is deceitful.
 
-[26] In the fear of Yahweh one has strong confidence,
+[26] In the fear of ⟦yhwh|Yahweh|the LORD⟧ one has strong confidence,
 and his children will have a refuge.
 
-[27] The fear of Yahweh is a fountain of life,
+[27] The fear of ⟦yhwh|Yahweh|the LORD⟧ is a fountain of life,
 that one may turn away from the snares of death.
 
 [28] In a multitude of people is the glory of a king,

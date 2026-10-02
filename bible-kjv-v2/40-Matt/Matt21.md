@@ -1,6 +1,6 @@
 # Matthew 21
 
-[1] Now when they drew near to Jerusalem and came to Bethphage, to the Mount of Olives, then *Yeshua* sent two disciples,
+[1] Now when they drew near to ⟦jerusalem|Yerushalayim|Jerusalem⟧ and came to ⟦bethphage|Beit Pagei|Bethphage⟧, to ⟦mount-of-olives|Har HaZeitim|the Mount of Olives⟧, then ⟦yeshua|Yeshua|Jesus⟧ sent two disciples,
 
 [2] saying to them, "Go into the village in front of you, and immediately you will find a donkey tied, and a colt with her. Untie them and bring them to me.
 
@@ -8,24 +8,24 @@
 
 [4] This took place to fulfill what was spoken by the prophet, saying,
 
-[5] "Say to the daughter of Zion,
+[5] "Say to the daughter of ⟦zion|Tziyon|Zion⟧,
 'Behold, your king is coming to you,
 humble, and mounted on a donkey,
 and on a colt, the foal of a donkey.'"
 
-[6] The disciples went and did as *Yeshua* had directed them.
+[6] The disciples went and did as ⟦yeshua|Yeshua|Jesus⟧ had directed them.
 
 [7] They brought the donkey and the colt and put on them their cloaks, and he sat on them.
 
 [8] Most of the crowd spread their cloaks on the road, and others cut branches from the trees and spread them on the road.
 
-[9] And the crowds that went before him and that followed him were shouting, "Hosanna to the Son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest!"
+[9] And the crowds that went before him and that followed him were shouting, "Hosanna to the Son of David! Blessed is he who comes in the name of ⟦yhwh|Yahweh|the Lord⟧! Hosanna in the highest!"
 
-[10] And when he entered Jerusalem, the whole city was stirred up, saying, "Who is this?"
+[10] And when he entered ⟦jerusalem|Yerushalayim|Jerusalem⟧, the whole city was stirred up, saying, "Who is this?"
 
-[11] And the crowds said, "This is the prophet *Yeshua*, from Nazareth of Galilee."
+[11] And the crowds said, "This is the prophet ⟦yeshua|Yeshua|Jesus⟧, from ⟦nazareth|Natzrat|Nazareth⟧ of ⟦galilee|Galil|Galilee⟧."
 
-[12] And *Yeshua* entered the temple and drove out all who sold and bought in the temple, and he overturned the tables of the money-changers and the seats of those who sold pigeons.
+[12] And ⟦yeshua|Yeshua|Jesus⟧ entered the temple and drove out all who sold and bought in the temple, and he overturned the tables of the money-changers and the seats of those who sold pigeons.
 
 [13] He said to them, "It is written, '**My house shall be called a house of prayer**,' but you make it a den of robbers."
 
@@ -33,12 +33,12 @@ and on a colt, the foal of a donkey.'"
 
 [15] But when the chief priests and the scribes saw the wonderful things that he did, and the children crying out in the temple, "Hosanna to the Son of David!" they were indignant,
 
-[16] and they said to him, "Do you hear what these are saying?" And *Yeshua* said to them, "Yes; have you never read,
+[16] and they said to him, "Do you hear what these are saying?" And ⟦yeshua|Yeshua|Jesus⟧ said to them, "Yes; have you never read,
 
 "'Out of the mouth of infants and nursing babies
 you have prepared praise'?"
 
-[17] And leaving them, he went out of the city to Bethany and lodged there.
+[17] And leaving them, he went out of the city to ⟦bethany|Bethania|Bethany⟧ and lodged there.
 
 [18] In the morning, as he was returning to the city, he became hungry.
 
@@ -46,19 +46,19 @@ you have prepared praise'?"
 
 [20] When the disciples saw it, they marveled, saying, "How did the fig tree wither at once?"
 
-[21] And *Yeshua* answered them, "Truly, I say to you, if you have faith and do not doubt, you will not only do what has been done to the fig tree, but even if you say to this mountain, 'Be taken up and thrown into the sea,' it will happen.
+[21] And ⟦yeshua|Yeshua|Jesus⟧ answered them, "Truly, I say to you, if you have faith and do not doubt, you will not only do what has been done to the fig tree, but even if you say to this mountain, 'Be taken up and thrown into the sea,' it will happen.
 
 [22] And whatever you ask in prayer, you will receive, if you have faith."
 
 [23] And when he entered the temple, the chief priests and the elders of the people came up to him as he was teaching, and said, "By what authority are you doing these things, and who gave you this authority?"
 
-[24] *Yeshua* answered them, "I also will ask you one question, and if you tell me the answer, then I also will tell you by what authority I do these things.
+[24] ⟦yeshua|Yeshua|Jesus⟧ answered them, "I also will ask you one question, and if you tell me the answer, then I also will tell you by what authority I do these things.
 
-[25] The immersion of John, from where did it come? From heaven or from man?" And they discussed it among themselves, saying, "If we say, 'From heaven,' he will say to us, 'Why then did you not believe him?'
+[25] The ⟦immersion|immersion|baptism⟧ of ⟦john|Yochanan|John⟧, from where did it come? From heaven or from man?" And they discussed it among themselves, saying, "If we say, 'From heaven,' he will say to us, 'Why then did you not believe him?'
 
-[26] But if we say, 'From man,' we are afraid of the crowd, for they all hold that John was a prophet."
+[26] But if we say, 'From man,' we are afraid of the crowd, for they all hold that ⟦john|Yochanan|John⟧ was a prophet."
 
-[27] So they answered *Yeshua*, "We do not know." And he said to them, "Neither will I tell you by what authority I do these things.
+[27] So they answered ⟦yeshua|Yeshua|Jesus⟧, "We do not know." And he said to them, "Neither will I tell you by what authority I do these things.
 
 [28] "What do you think? A man had two sons. And he went to the first and said, 'Son, go and work in the vineyard today.'
 
@@ -66,9 +66,9 @@ you have prepared praise'?"
 
 [30] And he went to the other son and said the same. And he answered, 'I go, sir,' but did not go.
 
-[31] Which of the two did the will of his father?" They said, "The first." *Yeshua* said to them, "Truly, I say to you, the tax collectors and the prostitutes go into the kingdom of *Elohim* before you.
+[31] Which of the two did the will of his father?" They said, "The first." ⟦yeshua|Yeshua|Jesus⟧ said to them, "Truly, I say to you, the tax collectors and the prostitutes go into the kingdom of ⟦elohim|Elohim|God⟧ before you.
 
-[32] For John came to you in the way of righteousness, and you did not believe him, but the tax collectors and the prostitutes believed him. And even when you saw it, you did not afterward change your minds and believe him.
+[32] For ⟦john|Yochanan|John⟧ came to you in the way of righteousness, and you did not believe him, but the tax collectors and the prostitutes believed him. And even when you saw it, you did not afterward change your minds and believe him.
 
 [33] "Hear another parable. There was a master of a house who planted a vineyard and put a fence around it and dug a winepress in it and built a tower and leased it to tenants, and went into another country.
 
@@ -88,18 +88,18 @@ you have prepared praise'?"
 
 [41] They said to him, "He will put those wretches to a miserable death and let out the vineyard to other tenants who will give him the fruits in their seasons."
 
-[42] *Yeshua* said to them, "Have you never read in the Scriptures:
+[42] ⟦yeshua|Yeshua|Jesus⟧ said to them, "Have you never read in the Scriptures:
 
 "'The stone that the builders rejected
 has become the cornerstone;
-this was the Lord's doing,
+this was ⟦yhwh|Yahweh's|the Lord's⟧ doing,
 and it is marvelous in our eyes'?
 
-[43] Therefore I tell you, the kingdom of *Elohim* will be taken away from you and given to a people producing its fruits.
+[43] Therefore I tell you, the kingdom of ⟦elohim|Elohim|God⟧ will be taken away from you and given to a people producing its fruits.
 
 [44] And the one who falls on this stone will be broken to pieces; and when it falls on anyone, it will crush him."
 
-[45] When the chief priests and the Pharisees heard his parables, they perceived that he was speaking about them.
+[45] When the chief priests and the ⟦pharisees|Perushim|Pharisees⟧ heard his parables, they perceived that he was speaking about them.
 
 [46] And although they were seeking to arrest him, they feared the crowds, because they held him to be a prophet.
 

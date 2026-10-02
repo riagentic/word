@@ -6,7 +6,7 @@ jak se změnilo ryzí zlato!
 Svaté kameny leží rozházené
 na nároží každé ulice.
 
-[2] **ב** Drazí synové Sionu,
+[2] **ב** Drazí synové ⟦zion|Cijonu|Sijónu⟧,
 vyvážení ryzím zlatem,
 jak jsou pokládáni za hliněné džbány,
 dílo hrnčířových rukou!
@@ -27,7 +27,7 @@ ti, kdo byli vychováni v purpuru,
 objímají hromady popela.
 
 [6] **ו** Neboť trest dcery mého lidu
-byl větší než trest Sodomy,
+byl větší než trest ⟦sodom|Sedomu|Sodomy⟧,
 jež byla vyvrácena v okamžiku,
 aniž na ni vztáhla ruku.
 
@@ -51,15 +51,15 @@ vařily jejich vlastní děti;
 staly se jim pokrmem
 při zkáze dcery mého lidu.
 
-[11] **כ** Yahweh dal plný průchod své zlobě,
+[11] **כ** ⟦yhwh|Jahve|Hospodin⟧ dal plný průchod své zlobě,
 vylil svůj planoucí hněv
-a zažehl na Sionu oheň,
+a zažehl na ⟦zion|Cijonu|Sijónu⟧ oheň,
 který strávil jeho základy.
 
 [12] **ל** Nevěřili králové země
 ani nikdo z obyvatel světa,
 že by protivník či nepřítel mohl vejít
-do bran Jerusalemu.
+do bran ⟦jerusalem|Jerušalajim|Jeruzaléma⟧.
 
 [13] **מ** Stalo se to pro hříchy jejích proroků
 a nepravosti jejích kněží,
@@ -77,7 +77,7 @@ Tak se stali uprchlíky a tuláky;
 mezi národy se říkalo:
 „Už u nás déle nezůstanou.“
 
-[16] **פ** Tvář Yahweh je rozptýlila;
+[16] **פ** Tvář ⟦yhwh|Jahveho|Hospodina⟧ je rozptýlila;
 už na ně nepohlédne;
 kněžím nebyla prokázána úcta,
 starším žádná přízeň.
@@ -97,19 +97,19 @@ než orli na nebesích;
 honili nás po horách,
 na poušti na nás číhali.
 
-[20] **ר** Dech našeho chřípí, pomazaný Yahweh,
+[20] **ר** Dech našeho chřípí, ⟦anointed|mašiach|pomazaný⟧ ⟦yhwh|Jahveho|Hospodina⟧,
 byl chycen v jejich jámách,
 on, o němž jsme říkali: „V jeho stínu
 budeme žít mezi národy.“
 
-[21] **ש** Raduj se a vesel se, dcero Edomu,
-ty, jež bydlíš v zemi Utz;
+[21] **ש** Raduj se a vesel se, dcero ⟦edom|Edomu|Edómu⟧,
+ty, jež bydlíš v zemi ⟦uz|Uc|Ús⟧;
 ale i k tobě přejde kalich;
 opiješ se a obnažíš se.
 
-[22] **ת** Trest za tvou nepravost, dcero Sionu, je dovršen;
+[22] **ת** Trest za tvou nepravost, dcero ⟦zion|Cijonu|Sijónu⟧, je dovršen;
 už tě nebude déle držet ve vyhnanství;
-ale tvou nepravost, dcero Edomu, potrestá;
+ale tvou nepravost, dcero ⟦edom|Edomu|Edómu⟧, potrestá;
 odkryje tvé hříchy.
 
 ## Změny

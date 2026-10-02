@@ -22,19 +22,19 @@ a leader and commander for the peoples.
 
 [5] Behold, you shall call a nation that you do not know,
 and a nation that did not know you shall run to you,
-because of Yahweh your *Elohim*, and of the Holy One of Israel,
+because of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, and of the Holy One of ⟦israel|Yisrael|Israel⟧,
 for he has glorified you.
 
-[6] Seek Yahweh while he may be found;
+[6] Seek ⟦yhwh|Yahweh|the LORD⟧ while he may be found;
 call upon him while he is near;
 
 [7] let the wicked forsake his way,
 and the unrighteous man his thoughts;
-let him return to Yahweh, that he may have compassion on him,
-and to our *Elohim*, for he will abundantly pardon.
+let him return to ⟦yhwh|Yahweh|the LORD⟧, that he may have compassion on him,
+and to our ⟦elohim|Elohim|God⟧, for he will abundantly pardon.
 
 [8] For my thoughts are not your thoughts,
-neither are your ways my ways, declares Yahweh.
+neither are your ways my ways, declares ⟦yhwh|Yahweh|the LORD⟧.
 
 [9] For as the heavens are higher than the earth,
 so are my ways higher than your ways
@@ -58,7 +58,7 @@ and all the trees of the field shall clap their hands.
 
 [13] Instead of the thorn shall come up the cypress;
 instead of the brier shall come up the myrtle;
-and it shall make a name for Yahweh,
+and it shall make a name for ⟦yhwh|Yahweh|the LORD⟧,
 an everlasting sign that shall not be cut off."
 
 ## Changes

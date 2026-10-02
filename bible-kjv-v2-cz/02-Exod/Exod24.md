@@ -1,40 +1,40 @@
 # Exodus 24
 
-[1] Mosesovi řekl: „Vystup k Yahweh, ty a Aaron, Nadab a Abihu a sedmdesát starších Israele; a klaňte se z dálky.
+[1] ⟦moses|Mošovi|Mojžíšovi⟧ řekl: „Vystup k ⟦yhwh|Jahvovi|Hospodinu⟧, ty a ⟦aaron|Aharon|Áron⟧, ⟦nadab|Nadav|Nádab⟧ a ⟦abihu|Avihu|Abíhú⟧ a sedmdesát starších ⟦israel|Jisraele|Izraele⟧; a klaňte se z dálky.
 
-[2] Jen Moses sám přistoupí k Yahweh, oni však nepřistoupí; a lid s ním nevystoupí.“
+[2] Jen ⟦moses|Moše|Mojžíš⟧ sám přistoupí k ⟦yhwh|Jahvovi|Hospodinu⟧, oni však nepřistoupí; a lid s ním nevystoupí.“
 
-[3] Moses přišel a vyprávěl lidu všechna slova Yahweh a všechna práva, a všechen lid odpověděl jedním hlasem: „Všechna slova, která Yahweh promluvil, budeme činit.“
+[3] ⟦moses|Moše|Mojžíš⟧ přišel a vyprávěl lidu všechna slova ⟦yhwh|Jahveho|Hospodina⟧ a všechna práva, a všechen lid odpověděl jedním hlasem: „Všechna slova, která ⟦yhwh|Jahve|Hospodin⟧ promluvil, budeme činit.“
 
-[4] Moses zapsal všechna slova Yahweh. Časně ráno vstal a postavil pod horou oltář a dvanáct sloupů podle dvanácti kmenů Israele.
+[4] ⟦moses|Moše|Mojžíš⟧ zapsal všechna slova ⟦yhwh|Jahveho|Hospodina⟧. Časně ráno vstal a postavil pod horou oltář a dvanáct sloupů podle dvanácti kmenů ⟦israel|Jisraele|Izraele⟧.
 
-[5] A poslal mládence ze synů Israele, kteří přinesli zápalné oběti a obětovali býky jako pokojné oběti Yahweh.
+[5] A poslal mládence ze synů ⟦israel|Jisraele|Izraele⟧, kteří přinesli zápalné oběti a obětovali býky jako pokojné oběti ⟦yhwh|Jahvovi|Hospodinu⟧.
 
-[6] Moses vzal polovinu krve a dal ji do misek a polovinou krve pokropil prudce oltář.
+[6] ⟦moses|Moše|Mojžíš⟧ vzal polovinu krve a dal ji do misek a polovinou krve pokropil prudce oltář.
 
-[7] Potom vzal Knihu smlouvy a přečetl ji lidu do uší. A řekli: „Všechno, co Yahweh promluvil, budeme činit a budeme poslouchat.“
+[7] Potom vzal Knihu smlouvy a přečetl ji lidu do uší. A řekli: „Všechno, co ⟦yhwh|Jahve|Hospodin⟧ promluvil, budeme činit a budeme poslouchat.“
 
-[8] Moses vzal krev a prudce jí pokropil lid se slovy: „Hle, krev smlouvy, kterou s vámi Yahweh uzavřel na základě všech těchto slov.“
+[8] ⟦moses|Moše|Mojžíš⟧ vzal krev a prudce jí pokropil lid se slovy: „Hle, krev smlouvy, kterou s vámi ⟦yhwh|Jahve|Hospodin⟧ uzavřel na základě všech těchto slov.“
 
-[9] Potom Moses vystoupil s Aaronem, Nadabem a Abihu a se sedmdesáti staršími Israele.
+[9] Potom ⟦moses|Moše|Mojžíš⟧ vystoupil s ⟦aaron|Aharonem|Áronem⟧, ⟦nadab|Nadavem|Nádabem⟧ a ⟦abihu|Avihu|Abíhúem⟧ a se sedmdesáti staršími ⟦israel|Jisraele|Izraele⟧.
 
-[10] Viděli *Elohim* Israele; a pod jeho nohama bylo cosi jako dlažba ze safírového kamene, jasná jako samo nebe.
+[10] Viděli ⟦elohim|Elohim|Boha⟧ ⟦israel|Jisraele|Izraele⟧; a pod jeho nohama bylo cosi jako dlažba ze safírového kamene, jasná jako samo nebe.
 
-[11] Na vyvolené ze synů Israele nevztáhl ruku; hleděli na *Elohim* a jedli a pili.
+[11] Na vyvolené ze synů ⟦israel|Jisraele|Izraele⟧ nevztáhl ruku; hleděli na ⟦elohim|Elohim|Boha⟧ a jedli a pili.
 
-[12] Yahweh řekl Mosesovi: „Vystup ke mně na horu a zůstaň tam, a dám ti kamenné desky s poučením a přikázáním, které jsem napsal k jejich poučení.“
+[12] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Vystup ke mně na horu a zůstaň tam, a dám ti kamenné desky s poučením a přikázáním, které jsem napsal k jejich poučení.“
 
-[13] Moses tedy vstal se svým pomocníkem Joshuou a Moses vystoupil na horu *Elohim*.
+[13] ⟦moses|Moše|Mojžíš⟧ tedy vstal se svým pomocníkem ⟦joshua|Jehošuou|Jozuem⟧ a ⟦moses|Moše|Mojžíš⟧ vystoupil na horu ⟦elohim|Elohim|Boží⟧.
 
-[14] Starším řekl: „Čekejte tu na nás, dokud se k vám nevrátíme. A hle, Aaron a Hur jsou s vámi; kdo má nějaký spor, ať jde za nimi.“
+[14] Starším řekl: „Čekejte tu na nás, dokud se k vám nevrátíme. A hle, ⟦aaron|Aharon|Áron⟧ a ⟦hur|Chur|Chúr⟧ jsou s vámi; kdo má nějaký spor, ať jde za nimi.“
 
-[15] Moses vystoupil na horu a oblak horu přikryl.
+[15] ⟦moses|Moše|Mojžíš⟧ vystoupil na horu a oblak horu přikryl.
 
-[16] Sláva Yahweh přebývala na hoře Sinai a oblak ji přikrýval šest dní; sedmého dne zavolal Mosese ze středu oblaku.
+[16] Sláva ⟦yhwh|Jahveho|Hospodina⟧ přebývala na hoře ⟦sinai|Sinaji|Sínaji⟧ a oblak ji přikrýval šest dní; sedmého dne zavolal ⟦moses|Moše|Mojžíše⟧ ze středu oblaku.
 
-[17] Vzhled slávy Yahweh byl před očima synů Israele jako stravující oheň na vrcholu hory.
+[17] Vzhled slávy ⟦yhwh|Jahveho|Hospodina⟧ byl před očima synů ⟦israel|Jisraele|Izraele⟧ jako stravující oheň na vrcholu hory.
 
-[18] Moses vešel doprostřed oblaku a vystoupil na horu; a Moses byl na hoře čtyřicet dní a čtyřicet nocí.
+[18] ⟦moses|Moše|Mojžíš⟧ vešel doprostřed oblaku a vystoupil na horu; a ⟦moses|Moše|Mojžíš⟧ byl na hoře čtyřicet dní a čtyřicet nocí.
 
 ## Změny
 

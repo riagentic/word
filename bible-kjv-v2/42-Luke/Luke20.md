@@ -1,20 +1,20 @@
 # Luke 20
 
-[1] One day, as *Yeshua* was teaching the people in the temple and preaching the gospel, the chief priests and the scribes with the elders came up
+[1] One day, as ⟦yeshua|Yeshua|Jesus⟧ was teaching the people in the temple and preaching the gospel, the chief priests and the scribes with the elders came up
 
 [2] and said to him, "Tell us by what authority you do these things, or who it is that gave you this authority."
 
 [3] He answered them, "I also will ask you a question. Now tell me,
 
-[4] was the immersion of John from heaven or from man?"
+[4] was the ⟦immersion|immersion|baptism⟧ of ⟦john|Yochanan|John⟧ from heaven or from man?"
 
 [5] And they discussed it with one another, saying, "If we say, 'From heaven,' he will say, 'Why did you not believe him?'
 
-[6] But if we say, 'From man,' all the people will stone us to death, for they are convinced that John was a prophet."
+[6] But if we say, 'From man,' all the people will stone us to death, for they are convinced that ⟦john|Yochanan|John⟧ was a prophet."
 
 [7] So they answered that they did not know where it came from.
 
-[8] And *Yeshua* said to them, "Neither will I tell you by what authority I do these things."
+[8] And ⟦yeshua|Yeshua|Jesus⟧ said to them, "Neither will I tell you by what authority I do these things."
 
 [9] And he began to tell the people this parable: "A man planted a vineyard and let it out to tenants and went into another country for a long while.
 
@@ -43,7 +43,7 @@ has become the cornerstone**'?
 
 [20] So they watched him and sent spies, who pretended to be sincere, that they might catch him in something he said, so as to deliver him up to the authority and jurisdiction of the governor.
 
-[21] So they asked him, "Teacher, we know that you speak and teach rightly, and show no partiality, but truly teach the way of *Elohim*.
+[21] So they asked him, "Teacher, we know that you speak and teach rightly, and show no partiality, but truly teach the way of ⟦elohim|Elohim|God⟧.
 
 [22] Is it lawful for us to give tribute to Caesar, or not?"
 
@@ -51,13 +51,13 @@ has become the cornerstone**'?
 
 [24] "Show me a denarius. Whose likeness and inscription does it have?" They said, "Caesar's."
 
-[25] He said to them, "Then render to Caesar the things that are Caesar's, and to *Elohim* the things that are *Elohim*'s."
+[25] He said to them, "Then render to Caesar the things that are Caesar's, and to ⟦elohim|Elohim|God⟧ the things that are ⟦elohim|Elohim|God⟧'s."
 
 [26] And they were not able in the presence of the people to catch him in what he said, but marveling at his answer they became silent.
 
-[27] There came to him some Sadducees, those who deny that there is a resurrection,
+[27] There came to him some ⟦sadducees|Tzedukim|Sadducees⟧, those who deny that there is a resurrection,
 
-[28] and they asked him a question, saying, "Teacher, Moses wrote for us that if a man's brother dies, having a wife but no children, the man must take the widow and raise up offspring for his brother.
+[28] and they asked him a question, saying, "Teacher, ⟦moses|Moshe|Moses⟧ wrote for us that if a man's brother dies, having a wife but no children, the man must take the widow and raise up offspring for his brother.
 
 [29] Now there were seven brothers. The first took a wife, and died without children.
 
@@ -69,25 +69,25 @@ has become the cornerstone**'?
 
 [33] In the resurrection, therefore, whose wife will the woman be? For the seven had her as wife."
 
-[34] And *Yeshua* said to them, "The sons of this age marry and are given in marriage,
+[34] And ⟦yeshua|Yeshua|Jesus⟧ said to them, "The sons of this age marry and are given in marriage,
 
 [35] but those who are considered worthy to attain to that age and to the resurrection from the dead neither marry nor are given in marriage,
 
-[36] for they cannot die anymore, because they are equal to angels and are sons of *Elohim*, being sons of the resurrection.
+[36] for they cannot die anymore, because they are equal to angels and are sons of ⟦elohim|Elohim|God⟧, being sons of the resurrection.
 
-[37] But that the dead are raised, even Moses showed, in the passage about the bush, where he calls the Lord the *Elohim* of Abraham and the *Elohim* of Isaac and the *Elohim* of Jacob.
+[37] But that the dead are raised, even ⟦moses|Moshe|Moses⟧ showed, in the passage about the bush, where he calls ⟦yhwh|Yahweh|the Lord⟧ the ⟦elohim|Elohim|God⟧ of ⟦abraham|Avraham|Abraham⟧ and the ⟦elohim|Elohim|God⟧ of ⟦isaac|Yitzchaq|Isaac⟧ and the ⟦elohim|Elohim|God⟧ of ⟦jacob|Yaaqov|Jacob⟧.
 
-[38] Now he is not *Elohim* of the dead, but of the living, for all live to him."
+[38] Now he is not ⟦elohim|Elohim|God⟧ of the dead, but of the living, for all live to him."
 
 [39] Then some of the scribes answered, "Teacher, you have spoken well."
 
 [40] For they no longer dared to ask him any question.
 
-[41] But he said to them, "How can they say that the *Mashiach* is David's son?
+[41] But he said to them, "How can they say that the ⟦mashiach|Mashiach|Christ⟧ is David's son?
 
 [42] For David himself says in the Book of Psalms,
 
-'**The Lord said to my Lord,
+'**⟦yhwh|Yahweh|The Lord⟧ said to my Lord,
 "Sit at my right hand,
 [43] until I make your enemies your footstool."**'
 

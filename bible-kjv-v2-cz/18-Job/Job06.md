@@ -1,6 +1,6 @@
 # Jób 6
 
-[1] Tu Job odpověděl a řekl:
+[1] Tu ⟦job|Ijov|Jób⟧ odpověděl a řekl:
 
 [2] „Kéž by byl můj zármutek poctivě zvážen
 a moje pohroma položena spolu na váhy!
@@ -8,9 +8,9 @@ a moje pohroma položena spolu na váhy!
 [3] Teď by přece byla těžší než písek moří –
 proto byla má slova divoká.
 
-[4] Neboť Shaddaiovy šípy jsou ve mně;
+[4] Neboť ⟦shaddai|Šaddajovy šípy|šípy Všemohoucího⟧ jsou ve mně;
 můj duch pije jejich jed;
-hrůzy Eloah se proti mně šikují.
+hrůzy ⟦eloah|Eloah|Boží⟧ se proti mně šikují.
 
 [5] Hýká divoký osel, když má trávu?
 Bučí vůl nad svou pící?
@@ -22,9 +22,9 @@ Je nějaká chuť v slizu slézu?
 jsou mi jako odporný pokrm.
 
 [8] Kéž by se splnila má prosba,
-kéž by Eloah dal, po čem toužím –
+kéž by ⟦eloah|Eloah|Bůh⟧ dal, po čem toužím –
 
-[9] kéž by se Eloah uráčil mě rozdrtit,
+[9] kéž by se ⟦eloah|Eloah|Bůh⟧ uráčil mě rozdrtit,
 kéž by uvolnil svou ruku a odťal mě!
 
 [10] To by mi ještě bylo útěchou –
@@ -41,7 +41,7 @@ Je mé tělo z bronzu?
 Byla ode mne zahnána důvtipnost?
 
 [14] Zoufalému by měl jeho přítel prokázat věrnou lásku –
-jinak opouští bázeň před Shaddaiem.
+jinak opouští bázeň před ⟦shaddai|Šaddajem|Všemohoucím⟧.
 
 [15] Moji bratři jednali zrádně jako vádí,
 jako koryto vádí, která vysychají –
@@ -55,8 +55,8 @@ když je horko, ztrácejí se ze svého místa.
 [18] Stezky jejich cesty se stáčejí;
 odcházejí do pustiny a hynou.
 
-[19] Karavany z Temy vyhlížely;
-poutníci ze Sheby v ně doufali.
+[19] Karavany z ⟦tema|Temy|Témy⟧ vyhlížely;
+poutníci ze ⟦sheba|Ševy|Šeby⟧ v ně doufali.
 
 [20] Byli zahanbeni, protože důvěřovali;
 přišli tam a byli zklamáni.

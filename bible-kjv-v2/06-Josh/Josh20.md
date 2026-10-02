@@ -1,8 +1,8 @@
 # Joshua 20
 
-[1] Yahweh spoke to Joshua, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦joshua|Yehoshua|Joshua⟧, saying,
 
-[2] "Speak to the children of Israel, saying, 'Appoint for yourselves the cities of refuge of which I spoke to you by the hand of Moses,
+[2] "Speak to the children of ⟦israel|Yisrael|Israel⟧, saying, 'Appoint for yourselves the cities of refuge of which I spoke to you by the hand of ⟦moses|Moshe|Moses⟧,
 
 [3] that the manslayer who kills any person unintentionally and without knowing it may flee there. They shall be for you a refuge from the avenger of blood.
 
@@ -12,11 +12,11 @@
 
 [6] He shall dwell in that city until he stands before the congregation for judgment, and until the death of the high priest who is in office in those days. Then the manslayer may return to his own city and to his own house, to the city from which he fled.'"
 
-[7] So they set apart Kedesh in Galilee in the hill country of Naphtali, Shechem in the hill country of Ephraim, and Kiriath-arba (that is, Hebron) in the hill country of Judah.
+[7] So they set apart ⟦kedesh|Qedesh|Kedesh⟧ in ⟦galilee|Galil|Galilee⟧ in the hill country of ⟦naphtali|Naftali|Naphtali⟧, Shechem in the hill country of ⟦ephraim|Efrayim|Ephraim⟧, and ⟦kiriath-arba|Qiryat Arba|Kiriath-arba⟧ (that is, ⟦hebron|Chevron|Hebron⟧) in the hill country of ⟦judah|Yehudah|Judah⟧.
 
-[8] Beyond the Jordan, east of Jericho, they assigned Bezer in the wilderness on the tableland, from the tribe of Reuben; Ramoth in Gilead, from the tribe of Gad; and Golan in Bashan, from the tribe of Manasseh.
+[8] Beyond the ⟦jordan|Yarden|Jordan⟧, east of ⟦jericho|Yericho|Jericho⟧, they assigned ⟦bezer|Betzer|Bezer⟧ in the wilderness on the tableland, from the tribe of ⟦reuben|Reuven|Reuben⟧; ⟦ramoth|Ramot|Ramoth⟧ in ⟦gilead|Gilad|Gilead⟧, from the tribe of Gad; and Golan in Bashan, from the tribe of ⟦manasseh|Menashe|Manasseh⟧.
 
-[9] These were the cities appointed for all the children of Israel and for the foreigner who sojourns among them, so that whoever kills any person unintentionally may flee there and not die by the hand of the avenger of blood, until he stands before the congregation.
+[9] These were the cities appointed for all the children of ⟦israel|Yisrael|Israel⟧ and for the foreigner who sojourns among them, so that whoever kills any person unintentionally may flee there and not die by the hand of the avenger of blood, until he stands before the congregation.
 
 ## Changes
 

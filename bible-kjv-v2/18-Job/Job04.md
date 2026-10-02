@@ -1,6 +1,6 @@
 # Job 4
 
-[1] Then Eliphaz the Temanite answered and said:
+[1] Then ⟦eliphaz|Elifaz|Eliphaz⟧ the ⟦temanite|Temani|Temanite⟧ answered and said:
 
 [2] "If one ventures a word with you, will you be weary?
 But who can restrain himself from speaking?
@@ -14,7 +14,7 @@ you have made firm the feeble knees.
 [5] But now it has come upon you, and you are weary;
 it touches you, and you are dismayed.
 
-[6] Is not your fear of *Elohim* your confidence,
+[6] Is not your fear of ⟦elohim|Elohim|God⟧ your confidence,
 and the integrity of your ways your hope?
 
 [7] Remember: who, being innocent, ever perished?
@@ -23,7 +23,7 @@ Where were the upright cut off?
 [8] As I have seen, those who plow iniquity
 and sow trouble reap the same.
 
-[9] By the breath of Eloah they perish;
+[9] By the breath of ⟦eloah|Eloah|God⟧ they perish;
 by the blast of his nostril they are consumed.
 
 [10] The roar of the lion, the voice of the fierce lion,
@@ -48,7 +48,7 @@ the hair of my flesh stood up.
 a form was before my eyes;
 there was silence, then I heard a voice:
 
-[17] 'Can man — mortal man — be more righteous than Eloah?
+[17] 'Can man — mortal man — be more righteous than ⟦eloah|Eloah|God⟧?
 Can a man be more pure than his Maker?
 
 [18] Behold, he puts no trust in his servants;

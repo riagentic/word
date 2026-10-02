@@ -6,27 +6,27 @@
 
 [3] Behind the second curtain was a second section called the Most Holy Place,
 
-[4] having the golden altar of incense and the ark of the covenant covered on all sides with gold, in which was a golden urn holding the manna, and Aaron's staff that budded, and the tablets of the covenant.
+[4] having the golden altar of incense and the ark of the covenant covered on all sides with gold, in which was a golden urn holding the manna, and ⟦aaron|Aharon's|Aaron's⟧ staff that budded, and the tablets of the covenant.
 
-[5] Above it were the cherubim of glory overshadowing the mercy seat. Of these things we cannot now speak in detail.
+[5] Above it were the ⟦cherubim|keruvim|cherubim⟧ of glory overshadowing the ⟦mercy-seat|kapporet|mercy seat⟧. Of these things we cannot now speak in detail.
 
 [6] These preparations having thus been made, the priests go regularly into the first section, performing their ritual duties,
 
 [7] but into the second only the high priest goes, and he but once a year, and not without taking blood, which he offers for himself and for the unintentional sins of the people.
 
-[8] By this the *Ruach HaQodesh* indicates that the way into the holy places is not yet opened as long as the first section is still standing
+[8] By this the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧ indicates that the way into the holy places is not yet opened as long as the first section is still standing
 
 [9] (which is symbolic for the present age). According to this arrangement, gifts and sacrifices are offered that cannot perfect the conscience of the worshiper,
 
 [10] but deal only with food and drink and various washings, regulations for the body imposed until the time of reformation.
 
-[11] But when the *Mashiach* appeared as a high priest of the good things that have come, then through the greater and more perfect tent (not made with hands, that is, not of this creation)
+[11] But when ⟦mashiach|the Mashiach|Christ⟧ appeared as a high priest of the good things that have come, then through the greater and more perfect tent (not made with hands, that is, not of this creation)
 
 [12] he entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption.
 
 [13] For if the blood of goats and bulls, and the sprinkling of defiled persons with the ashes of a heifer, sanctify for the purification of the flesh,
 
-[14] how much more will the blood of the *Mashiach*, who through the eternal Spirit offered himself without blemish to *Elohim*, purify our conscience from dead works to serve the living *Elohim*.
+[14] how much more will the blood of ⟦mashiach|the Mashiach|Christ⟧, who through the eternal Spirit offered himself without blemish to ⟦elohim|Elohim|God⟧, purify our conscience from dead works to serve the living ⟦elohim|Elohim|God⟧.
 
 [15] Therefore he is the mediator of a new covenant, so that those who are called may receive the promised eternal inheritance, since a death has occurred that redeems them from the transgressions committed under the first covenant.
 
@@ -36,17 +36,17 @@
 
 [18] Therefore not even the first covenant was inaugurated without blood.
 
-[19] For when every commandment of the Torah had been declared by Moses to all the people, he took the blood of calves and goats, with water and scarlet wool and hyssop, and sprinkled both the book itself and all the people,
+[19] For when every commandment of the ⟦torah|Torah|law⟧ had been declared by ⟦moses|Moshe|Moses⟧ to all the people, he took the blood of calves and goats, with water and scarlet wool and hyssop, and sprinkled both the book itself and all the people,
 
-[20] saying, "**This is the blood of the covenant that *Elohim* commanded for you**."
+[20] saying, "**This is the blood of the covenant that ⟦elohim|Elohim|God⟧ commanded for you**."
 
 [21] And in the same way he sprinkled with the blood both the tent and all the vessels used in worship.
 
-[22] Indeed, under the Torah **almost everything is purified with blood, and without the shedding of blood there is no forgiveness of sins**.
+[22] Indeed, under the ⟦torah|Torah|law⟧ **almost everything is purified with blood, and without the shedding of blood there is no forgiveness of sins**.
 
 [23] Thus it was necessary for the copies of the heavenly things to be purified with these rites, but the heavenly things themselves with better sacrifices than these.
 
-[24] For the *Mashiach* has entered, not into holy places made with hands, which are copies of the true things, but into heaven itself, now to appear in the presence of *Elohim* on our behalf.
+[24] For ⟦mashiach|the Mashiach|Christ⟧ has entered, not into holy places made with hands, which are copies of the true things, but into heaven itself, now to appear in the presence of ⟦elohim|Elohim|God⟧ on our behalf.
 
 [25] Nor was it to offer himself repeatedly, as the high priest enters the holy places every year with blood not his own,
 
@@ -54,7 +54,7 @@
 
 [27] And just as it is appointed for man to die once, and after that comes judgment,
 
-[28] so the *Mashiach*, having been offered once to bear the sins of many, will appear a second time, not to deal with sin but to save those who are eagerly waiting for him.
+[28] so ⟦mashiach|the Mashiach|Christ⟧, having been offered once to bear the sins of many, will appear a second time, not to deal with sin but to save those who are eagerly waiting for him.
 
 ## Changes
 

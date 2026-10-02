@@ -4,15 +4,15 @@
 
 [2] ten život byl zjeven a my jsme ho viděli, svědčíme o něm a zvěstujeme vám věčný život, který byl u Otce a byl nám zjeven –
 
-[3] co jsme viděli a slyšeli, zvěstujeme i vám, abyste i vy měli společenství s námi; a naše společenství je s Otcem a s jeho Synem *Yeshuou* *Mashiachem*.
+[3] co jsme viděli a slyšeli, zvěstujeme i vám, abyste i vy měli společenství s námi; a naše společenství je s Otcem a s jeho Synem ⟦yeshua|Ješuou|Ježíšem⟧ ⟦mashiach|Mašiachem|Kristem⟧.
 
 [4] A to píšeme, aby naše radost byla úplná.
 
-[5] Toto je zvěst, kterou jsme od něho slyšeli a zvěstujeme vám: ***Elohim* je světlo a není v něm vůbec žádná tma**.
+[5] Toto je zvěst, kterou jsme od něho slyšeli a zvěstujeme vám: **⟦elohim|Elohim|Bůh⟧ je světlo a není v něm vůbec žádná tma**.
 
 [6] Říkáme-li, že s ním máme společenství, a přitom chodíme ve tmě, lžeme a nečiníme pravdu.
 
-[7] Ale **chodíme-li ve světle, jako on je ve světle, máme společenství jeden s druhým a krev *Yeshuy*, jeho Syna, nás očišťuje od každého hříchu**.
+[7] Ale **chodíme-li ve světle, jako on je ve světle, máme společenství jeden s druhým a krev ⟦yeshua|Ješuy|Ježíše⟧, jeho Syna, nás očišťuje od každého hříchu**.
 
 [8] Říkáme-li, že hřích nemáme, klameme sami sebe a pravda v nás není.
 

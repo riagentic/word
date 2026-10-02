@@ -1,9 +1,9 @@
 # Ozeáš 4
 
-[1] Slyšte slovo Yahweh, synové Israele,
-neboť Yahweh vede spor s obyvateli země.
-Není věrnosti ani věrné lásky
-ani poznání *Elohim* v zemi;
+[1] Slyšte slovo ⟦yhwh|Jahveho|Hospodina⟧, synové ⟦israel|Jisraele|Izraele⟧,
+neboť ⟦yhwh|Jahve|Hospodin⟧ vede spor s obyvateli země.
+Není věrnosti ani ⟦steadfast-love|chesedu|milosrdenství⟧
+ani poznání ⟦elohim|Elohim|Boha⟧ v zemi;
 
 [2] je tu křivé přísahání, lež, vražda, krádež a cizoložství;
 překračují všechny meze a krveprolití stíhá krveprolití.
@@ -23,7 +23,7 @@ a zahubím tvou matku.
 [6] **Můj lid hyne pro nedostatek poznání;**
 protože jsi zavrhl poznání,
 zavrhuji tě, abys mi nebyl knězem.
-A protože jsi zapomněl na Zákon svého *Elohim*,
+A protože jsi zapomněl na ⟦torah|Tóru|zákon⟧ svého ⟦elohim|Elohim|Boha⟧,
 zapomenu i já na tvé syny.
 
 [7] Čím více se rozmnožovali, tím více proti mně hřešili;
@@ -38,7 +38,7 @@ a odplatím jim za jejich skutky.
 
 [10] Budou jíst, ale nenasytí se;
 budou smilnit, ale nerozmnoží se,
-protože opustili Yahweh,
+protože opustili ⟦yhwh|Jahveho|Hospodina⟧,
 aby se oddali
 
 [11] smilstvu, vínu a moštu,
@@ -47,7 +47,7 @@ které berou rozum.
 [12] Můj lid se dotazuje kusu dřeva
 a jejich hůl jim vydává věštby.
 Neboť duch smilstva je svedl
-a smilně odešli zpod svého *Elohim*.
+a smilně odešli zpod svého ⟦elohim|Elohim|Boha⟧.
 
 [13] Obětují na vrcholcích hor
 a pálí oběti na pahorcích,
@@ -62,18 +62,18 @@ neboť sami muži odcházejí stranou s nevěstkami
 a obětují s kultickými nevěstkami,
 a lid bez rozumu přijde vniveč.
 
-[15] Jestliže ty smilníš, Israeli,
-ať se Judah neprovinuje.
-Nechoďte do Gilgalu,
-nevystupujte do Beth-Aven
-a nepřísahejte: „Jakože živ je Yahweh.“
+[15] Jestliže ty smilníš, ⟦israel|Jisraeli|Izraeli⟧,
+ať se ⟦judah|Jehuda|Juda⟧ neprovinuje.
+Nechoďte do ⟦gilgal|Gilgalu|Gilgálu⟧,
+nevystupujte do ⟦beth-aven|Bejt Avenu|Bét-avenu⟧
+a nepřísahejte: „Jakože živ je ⟦yhwh|Jahve|Hospodin⟧.“
 
 [16] Jako vzpurná jalovice
-je Israel vzpurný;
-může je nyní Yahweh pást
+je ⟦israel|Jisrael|Izrael⟧ vzpurný;
+může je nyní ⟦yhwh|Jahve|Hospodin⟧ pást
 jako beránka na širé pastvině?
 
-[17] Ephraim se spolčil s modlami;
+[17] Efrajim se spolčil s modlami;
 nech ho být.
 
 [18] Když jim dojde pití, oddávají se smilstvu;

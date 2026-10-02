@@ -1,12 +1,12 @@
 # Deuteronomium 17
 
-[1] „Nebudeš obětovat Yahweh, svému *Elohim*, býka ani ovci, na nichž je vada nebo jakákoli vážná chyba, neboť to je ohavnost pro Yahweh, tvého *Elohim*.
+[1] „Nebudeš obětovat ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧, býka ani ovci, na nichž je vada nebo jakákoli vážná chyba, neboť to je ohavnost pro ⟦yhwh|Jahveho|Hospodina⟧, tvého ⟦elohim|Elohim|Boha⟧.
 
-[2] Najde-li se uprostřed tebe, v kterékoli z tvých bran, které ti Yahweh, tvůj *Elohim*, dává, muž nebo žena, kteří páchali, co je zlé v očích Yahweh, tvého *Elohim*, a přestoupili jeho smlouvu –
+[2] Najde-li se uprostřed tebe, v kterékoli z tvých bran, které ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, dává, muž nebo žena, kteří páchali, co je zlé v očích ⟦yhwh|Jahveho|Hospodina⟧, tvého ⟦elohim|Elohim|Boha⟧, a přestoupili jeho smlouvu –
 
 [3] kteří šli a sloužili jiným bohům a klaněli se jim, nebo slunci či měsíci nebo komukoli z nebeského zástupu, což jsem nepřikázal –
 
-[4] a bude ti to oznámeno a uslyšíš o tom, důkladně to vyšetříš; a hle, je-li to pravda a potvrdí-li se, že se v Israeli stala taková ohavnost,
+[4] a bude ti to oznámeno a uslyšíš o tom, důkladně to vyšetříš; a hle, je-li to pravda a potvrdí-li se, že se v ⟦israel|Jisraeli|Izraeli⟧ stala taková ohavnost,
 
 [5] vyvedeš ke svým branám toho muže nebo tu ženu, kteří spáchali tuto zlou věc, a ukamenuješ je kameny, až zemřou.
 
@@ -14,31 +14,31 @@
 
 [7] Ruka svědků bude první proti němu, aby ho usmrtila, a potom ruka všeho lidu. Tak vymýtíš zlo ze svého středu.
 
-[8] Vyskytne-li se případ, který je pro tebe příliš těžký – mezi krví a krví, mezi právním nárokem a právním nárokem, mezi úrazem a úrazem – jakékoli sporné případy ve tvých branách, vstaneš a vystoupíš na místo, které Yahweh, tvůj *Elohim*, vyvolí.
+[8] Vyskytne-li se případ, který je pro tebe příliš těžký – mezi krví a krví, mezi právním nárokem a právním nárokem, mezi úrazem a úrazem – jakékoli sporné případy ve tvých branách, vstaneš a vystoupíš na místo, které ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, vyvolí.
 
-[9] Přijdeš k levitským kněžím a k soudci, který bude v úřadě v oněch dnech, a budeš se dotazovat; a oni ti oznámí soudní výrok.
+[9] Přijdeš k ⟦levites|levijským|lévijským⟧ kněžím a k soudci, který bude v úřadě v oněch dnech, a budeš se dotazovat; a oni ti oznámí soudní výrok.
 
-[10] Budeš jednat podle výroku, který ti oznámí z onoho místa, které Yahweh vyvolí; budeš pečlivě jednat podle všeho, čemu tě poučí.
+[10] Budeš jednat podle výroku, který ti oznámí z onoho místa, které ⟦yhwh|Jahve|Hospodin⟧ vyvolí; budeš pečlivě jednat podle všeho, čemu tě poučí.
 
 [11] Podle poučení, kterému tě naučí, a podle rozhodnutí, které ti řeknou, budeš jednat. Neuchýlíš se od výroku, který ti oznámí, napravo ani nalevo.
 
-[12] Muž, který bude jednat opovážlivě a nebude poslouchat kněze, jenž tam stojí, aby sloužil před Yahweh, tvým *Elohim*, ani soudce – ten muž zemře; a vymýtíš zlo z Israele.
+[12] Muž, který bude jednat opovážlivě a nebude poslouchat kněze, jenž tam stojí, aby sloužil před ⟦yhwh|Jahvem|Hospodinem⟧, tvým ⟦elohim|Elohim|Bohem⟧, ani soudce – ten muž zemře; a vymýtíš zlo z ⟦israel|Jisraele|Izraele⟧.
 
 [13] Všechen lid uslyší a bude se bát a už nebude jednat opovážlivě.
 
-[14] Až přijdeš do země, kterou ti Yahweh, tvůj *Elohim*, dává, a vezmeš ji do vlastnictví a budeš v ní bydlet, a řekneš: ‚Ustanovím nad sebou krále jako všechny národy, které jsou kolem mne,‘
+[14] Až přijdeš do země, kterou ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, dává, a vezmeš ji do vlastnictví a budeš v ní bydlet, a řekneš: ‚Ustanovím nad sebou krále jako všechny národy, které jsou kolem mne,‘
 
-[15] jistě ustanovíš nad sebou za krále toho, koho vyvolí Yahweh, tvůj *Elohim*. Jednoho ze svých bratrů ustanovíš nad sebou za krále; nesmíš nad sebe dosadit cizince, který není tvým bratrem.
+[15] jistě ustanovíš nad sebou za krále toho, koho vyvolí ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧. Jednoho ze svých bratrů ustanovíš nad sebou za krále; nesmíš nad sebe dosadit cizince, který není tvým bratrem.
 
-[16] Jen ať si nerozmnožuje koně a nevrací lid do Egypta, aby rozmnožil koně, neboť Yahweh vám řekl: ‚Už se nikdy nevrátíte touto cestou.‘
+[16] Jen ať si nerozmnožuje koně a nevrací lid do ⟦egypt|Micrajim|Egypta⟧, aby rozmnožil koně, neboť ⟦yhwh|Jahve|Hospodin⟧ vám řekl: ‚Už se nikdy nevrátíte touto cestou.‘
 
 [17] Ať si nerozmnožuje ženy, aby se jeho srdce neodvrátilo; ani ať si příliš nerozmnožuje stříbro a zlato.
 
-[18] Až usedne na trůn svého království, napíše si opis této *Torah* do svitku v přítomnosti levitských kněží.
+[18] Až usedne na trůn svého království, napíše si opis ⟦torah|této Tóry|tohoto zákona⟧ do svitku v přítomnosti ⟦levites|levijských|lévijských⟧ kněží.
 
-[19] Bude jej mít u sebe a bude v něm číst po všechny dny svého života, aby se naučil bát se Yahweh, svého *Elohim*, a zachovával všechna slova této *Torah* i tato ustanovení a plnil je;
+[19] Bude jej mít u sebe a bude v něm číst po všechny dny svého života, aby se naučil bát se ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, a zachovával všechna slova ⟦torah|této Tóry|tohoto zákona⟧ i tato ustanovení a plnil je;
 
-[20] aby se jeho srdce nepovyšovalo nad jeho bratry a aby se neuchýlil od přikázání napravo ani nalevo, aby prodloužil své dny ve svém království, on i jeho synové, uprostřed Israele.
+[20] aby se jeho srdce nepovyšovalo nad jeho bratry a aby se neuchýlil od přikázání napravo ani nalevo, aby prodloužil své dny ve svém království, on i jeho synové, uprostřed ⟦israel|Jisraele|Izraele⟧.
 
 ## Změny
 

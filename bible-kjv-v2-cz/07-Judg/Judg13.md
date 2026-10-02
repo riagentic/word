@@ -1,54 +1,54 @@
 # Soudců 13
 
-[1] Synové Israele opět činili, co je zlé v očích Yahweh, a Yahweh je vydal do ruky Philistinů na čtyřicet let.
+[1] Synové ⟦israel|Jisraele|Izraele⟧ opět činili, co je zlé v očích ⟦yhwh|Jahveho|Hospodina⟧, a ⟦yhwh|Jahve|Hospodin⟧ je vydal do ruky ⟦philistines|Pelištim|Pelištejců⟧ na čtyřicet let.
 
-[2] Byl jeden muž ze Zorahu, z rodu Danitů, jménem Manoah; jeho žena byla neplodná a neporodila děti.
+[2] Byl jeden muž ze ⟦zorah|Cory|Soreje⟧, z rodu ⟦danites|Dani|Danovců⟧, jménem ⟦manoah|Manoach|Manóach⟧; jeho žena byla neplodná a neporodila děti.
 
-[3] Posel Yahweh se ukázal té ženě a řekl jí: „Hle, jsi neplodná a neporodila jsi děti, ale počneš a porodíš syna.
+[3] Posel ⟦yhwh|Jahveho|Hospodina⟧ se ukázal té ženě a řekl jí: „Hle, jsi neplodná a neporodila jsi děti, ale počneš a porodíš syna.
 
 [4] Nyní se tedy měj na pozoru; nepij víno ani opojný nápoj a nejez nic nečistého.
 
-[5] Neboť hle, počneš a porodíš syna; břitva nevstoupí na jeho hlavu, protože to dítě bude od lůna Naziritou pro *Elohim*. On začne vysvobozovat Israel z ruky Philistinů.“
+[5] Neboť hle, počneš a porodíš syna; břitva nevstoupí na jeho hlavu, protože to dítě bude od lůna ⟦nazirite|Nazirem|Nazírem⟧ pro ⟦elohim|Elohim|Boha⟧. On začne vysvobozovat ⟦israel|Jisrael|Izrael⟧ z ruky ⟦philistines|Pelištim|Pelištejců⟧.“
 
-[6] Žena přišla a řekla svému muži: „Přišel ke mně muž *Elohim* a jeho vzhled byl jako vzhled Posla *Elohim* – velmi hrozný. Neptala jsem se ho, odkud je, a své jméno mi neřekl.
+[6] Žena přišla a řekla svému muži: „Přišel ke mně muž ⟦elohim|Elohim|Boží⟧ a jeho vzhled byl jako vzhled Posla ⟦elohim|Elohim|Božího⟧ – velmi hrozný. Neptala jsem se ho, odkud je, a své jméno mi neřekl.
 
-[7] Řekl mi: ‚Hle, počneš a porodíš syna; proto teď nepij víno ani opojný nápoj a nejez nic nečistého, neboť to dítě bude Naziritou pro *Elohim* od lůna až do dne své smrti.‘“
+[7] Řekl mi: ‚Hle, počneš a porodíš syna; proto teď nepij víno ani opojný nápoj a nejez nic nečistého, neboť to dítě bude ⟦nazirite|Nazirem|Nazírem⟧ pro ⟦elohim|Elohim|Boha⟧ od lůna až do dne své smrti.‘“
 
-[8] Tehdy Manoah úpěnlivě prosil Yahweh a řekl: „Ó Pane, prosím, ať k nám znovu přijde muž *Elohim*, kterého jsi poslal, a naučí nás, co máme dělat s chlapcem, který se narodí.“
+[8] Tehdy ⟦manoah|Manoach|Manóach⟧ úpěnlivě prosil ⟦yhwh|Jahveho|Hospodina⟧ a řekl: „Ó ⟦adonai|Adonaji|Pane⟧, prosím, ať k nám znovu přijde muž ⟦elohim|Elohim|Boží⟧, kterého jsi poslal, a naučí nás, co máme dělat s chlapcem, který se narodí.“
 
-[9] *Elohim* vyslyšel hlas Manoahův; Posel *Elohim* znovu přišel k ženě, když seděla na poli, ale Manoah, její muž, s ní nebyl.
+[9] ⟦elohim|Elohim|Bůh⟧ vyslyšel hlas ⟦manoah|Manoachův|Manóachův⟧; Posel ⟦elohim|Elohim|Boží⟧ znovu přišel k ženě, když seděla na poli, ale ⟦manoah|Manoach|Manóach⟧, její muž, s ní nebyl.
 
 [10] Žena rychle běžela a oznámila svému muži: „Hle, ukázal se mi ten muž, který ke mně onehdy přišel.“
 
-[11] Manoah vstal, šel za svou ženou, přišel k tomu muži a řekl mu: „Jsi ty ten muž, který mluvil s mou ženou?“ Odpověděl: „Jsem.“
+[11] ⟦manoah|Manoach|Manóach⟧ vstal, šel za svou ženou, přišel k tomu muži a řekl mu: „Jsi ty ten muž, který mluvil s mou ženou?“ Odpověděl: „Jsem.“
 
-[12] Manoah řekl: „Až se tvá slova naplní, jaký bude řád pro chlapce a jaké bude jeho dílo?“
+[12] ⟦manoah|Manoach|Manóach⟧ řekl: „Až se tvá slova naplní, jaký bude řád pro chlapce a jaké bude jeho dílo?“
 
-[13] Posel Yahweh řekl Manoahovi: „Ať se žena varuje všeho, o čem jsem jí mluvil.
+[13] Posel ⟦yhwh|Jahveho|Hospodina⟧ řekl ⟦manoah|Manoachovi|Manóachovi⟧: „Ať se žena varuje všeho, o čem jsem jí mluvil.
 
 [14] Nebude jíst nic, co pochází z vinné révy; nebude pít víno ani opojný nápoj a nebude jíst nic nečistého. Ať dodržuje všechno, co jsem jí přikázal.“
 
-[15] Manoah řekl Poslu Yahweh: „Prosím, dovol, abychom tě zdrželi a připravili ti kůzle.“
+[15] ⟦manoah|Manoach|Manóach⟧ řekl Poslu ⟦yhwh|Jahveho|Hospodina⟧: „Prosím, dovol, abychom tě zdrželi a připravili ti kůzle.“
 
-[16] Posel Yahweh řekl Manoahovi: „I kdybys mě zdržel, z tvého pokrmu jíst nebudu; ale připravíš-li zápalnou oběť, musíš ji obětovat Yahweh.“ Manoah totiž nevěděl, že je to Posel Yahweh.
+[16] Posel ⟦yhwh|Jahveho|Hospodina⟧ řekl ⟦manoah|Manoachovi|Manóachovi⟧: „I kdybys mě zdržel, z tvého pokrmu jíst nebudu; ale připravíš-li zápalnou oběť, musíš ji obětovat ⟦yhwh|Jahvovi|Hospodinu⟧.“ ⟦manoah|Manoach|Manóach⟧ totiž nevěděl, že je to Posel ⟦yhwh|Jahveho|Hospodina⟧.
 
-[17] Manoah řekl Poslu Yahweh: „Jaké je tvé jméno, abychom tě mohli uctít, až se tvá slova naplní?“
+[17] ⟦manoah|Manoach|Manóach⟧ řekl Poslu ⟦yhwh|Jahveho|Hospodina⟧: „Jaké je tvé jméno, abychom tě mohli uctít, až se tvá slova naplní?“
 
-[18] Posel Yahweh mu řekl: „Proč se ptáš na mé jméno? Je podivuhodné.“
+[18] Posel ⟦yhwh|Jahveho|Hospodina⟧ mu řekl: „Proč se ptáš na mé jméno? Je podivuhodné.“
 
-[19] Manoah tedy vzal kůzle s obilnou obětí a obětoval je na skále Yahweh; a Posel činil divy, zatímco Manoah a jeho žena přihlíželi.
+[19] ⟦manoah|Manoach|Manóach⟧ tedy vzal kůzle s obilnou obětí a obětoval je na skále ⟦yhwh|Jahvovi|Hospodinu⟧; a Posel činil divy, zatímco ⟦manoah|Manoach|Manóach⟧ a jeho žena přihlíželi.
 
-[20] Když plamen stoupal od oltáře k nebesům, vystoupil Posel Yahweh v plameni oltáře. Manoah a jeho žena to viděli a padli tváří k zemi.
+[20] Když plamen stoupal od oltáře k nebesům, vystoupil Posel ⟦yhwh|Jahveho|Hospodina⟧ v plameni oltáře. ⟦manoah|Manoach|Manóach⟧ a jeho žena to viděli a padli tváří k zemi.
 
-[21] Posel Yahweh se už Manoahovi a jeho ženě neukázal. Tehdy Manoah poznal, že to byl Posel Yahweh.
+[21] Posel ⟦yhwh|Jahveho|Hospodina⟧ se už ⟦manoah|Manoachovi|Manóachovi⟧ a jeho ženě neukázal. Tehdy ⟦manoah|Manoach|Manóach⟧ poznal, že to byl Posel ⟦yhwh|Jahveho|Hospodina⟧.
 
-[22] Manoah řekl své ženě: „Jistě zemřeme, neboť jsme viděli *Elohim*.“
+[22] ⟦manoah|Manoach|Manóach⟧ řekl své ženě: „Jistě zemřeme, neboť jsme viděli ⟦elohim|Elohim|Boha⟧.“
 
-[23] Ale jeho žena mu řekla: „Kdyby nás Yahweh chtěl zabít, nepřijal by z našich rukou zápalnou a obilnou oběť, neukázal by nám to všechno a nedal by nám v tuto chvíli slyšet takové věci.“
+[23] Ale jeho žena mu řekla: „Kdyby nás ⟦yhwh|Jahve|Hospodin⟧ chtěl zabít, nepřijal by z našich rukou zápalnou a obilnou oběť, neukázal by nám to všechno a nedal by nám v tuto chvíli slyšet takové věci.“
 
-[24] Žena porodila syna a dala mu jméno Shimshon – Samson. Chlapec rostl a Yahweh mu žehnal.
+[24] Žena porodila syna a dala mu jméno ⟦samson|Šimšon|Samson⟧. Chlapec rostl a ⟦yhwh|Jahve|Hospodin⟧ mu žehnal.
 
-[25] Duch Yahweh ho začal podněcovat v Mahaneh-danu, mezi Zorahem a Eshtaolem.
+[25] Duch ⟦yhwh|Jahveho|Hospodina⟧ ho začal podněcovat v ⟦mahaneh-dan|Machane Danu|Machane-danu⟧, mezi ⟦zorah|Corou|Soreou⟧ a Eštaolem.
 
 ## Změny
 
@@ -58,6 +58,7 @@
 - **"terrible" → „hrozný“** (v6) – hebrejsky *nora*.
 - **"secret" → „podivuhodné“** (v18) – hebrejsky פֶּלִאי *peli'i*. „Přesahující chápání“ – týž kořen jako v Isa 9:6 „*Podivuhodný* Rádce“.
 - **"meat offering" → „obilná oběť“** (v19, 23).
+- **"Samson" → „Shimshon“** (v24) – hebrejsky שִׁמְשׁוֹן *Shimshon*; jméno je uvedeno jednou, bez přidané glosy „– Samson“.
 
 ### Poznámky
 - **Zvěstování Samsonova narození** – odpovídá vzorci neplodných žen, které rodí vysvoboditele: Sarah/Isaac, Rachel/Joseph, Hannah/Samuel, Elizabeth/John, Mary/Jesus.

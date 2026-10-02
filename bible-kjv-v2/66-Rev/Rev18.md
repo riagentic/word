@@ -4,7 +4,7 @@
 
 [2] And he called out with a mighty voice,
 
-"**Fallen, fallen is Babylon the great!**
+"**Fallen, fallen is ⟦babylon|Bavel|Babylon⟧ the great!**
 She has become a dwelling place for demons,
 a haunt for every unclean spirit,
 a haunt for every unclean bird,
@@ -21,7 +21,7 @@ from the power of her luxurious living."
 lest you take part in her sins,
 lest you share in her plagues;
 [5] for her sins are heaped high as heaven,
-and *Elohim* has remembered her iniquities**.
+and ⟦elohim|Elohim|God⟧ has remembered her iniquities**.
 [6] Pay her back as she herself has paid back others,
 and repay her double for her deeds;
 mix a double portion for her in the cup she mixed.
@@ -34,14 +34,14 @@ and mourning I shall never see.'
 [8] For this reason her plagues will come in a single day,
 death and mourning and famine,
 and she will be burned up with fire;
-for mighty is the Lord *Elohim* who has judged her."
+for mighty is the Lord ⟦elohim|Elohim|God⟧ who has judged her."
 
 [9] And the kings of the earth, who committed sexual immorality and lived in luxury with her, will weep and wail over her when they see the smoke of her burning.
 
 [10] They will stand far off, in fear of her torment, and say,
 
 "Alas! Alas! You great city,
-you mighty city, Babylon!
+you mighty city, ⟦babylon|Bavel|Babylon⟧!
 For in a single hour your judgment has come."
 
 [11] And the merchants of the earth weep and mourn for her, since no one buys their cargo anymore,
@@ -71,11 +71,11 @@ grew rich by her wealth!
 For in a single hour she has been laid waste.
 [20] Rejoice over her, O heaven,
 and you saints and apostles and prophets,
-for *Elohim* has given judgment for you against her!"
+for ⟦elohim|Elohim|God⟧ has given judgment for you against her!"
 
 [21] Then a mighty angel took up a stone like a great millstone and threw it into the sea, saying,
 
-"So will Babylon the great city be thrown down with violence,
+"So will ⟦babylon|Bavel|Babylon⟧ the great city be thrown down with violence,
 and will be found no more;
 [22] and the sound of harpists and musicians, of flute players and trumpeters,
 will be heard in you no more,

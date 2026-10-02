@@ -1,42 +1,42 @@
 # Isaiah 62
 
-[1] For Zion's sake I will not keep silent,
-and for Jerusalem's sake I will not be quiet,
+[1] For ⟦zion|Tziyon's|Zion's⟧ sake I will not keep silent,
+and for ⟦jerusalem|Yerushalayim's|Jerusalem's⟧ sake I will not be quiet,
 until her righteousness goes forth as brightness,
 and her salvation as a burning torch.
 
 [2] The nations shall see your righteousness,
 and all the kings your glory,
 and you shall be called by a new name
-that the mouth of Yahweh will give.
+that the mouth of ⟦yhwh|Yahweh|the LORD⟧ will give.
 
-[3] You shall be a crown of beauty in the hand of Yahweh,
-and a royal diadem in the hand of your *Elohim*.
+[3] You shall be a crown of beauty in the hand of ⟦yhwh|Yahweh|the LORD⟧,
+and a royal diadem in the hand of your ⟦elohim|Elohim|God⟧.
 
 [4] You shall no more be termed Forsaken,
 and your land shall no more be termed Desolate;
 but you shall be called My Delight Is in Her,
 and your land Married;
-for Yahweh delights in you,
+for ⟦yhwh|Yahweh|the LORD⟧ delights in you,
 and your land shall be married.
 
 [5] For as a young man marries a young woman,
 so shall your sons marry you,
 and as the bridegroom rejoices over the bride,
-so shall your *Elohim* rejoice over you.
+so shall your ⟦elohim|Elohim|God⟧ rejoice over you.
 
-[6] On your walls, O Jerusalem,
+[6] On your walls, O ⟦jerusalem|Yerushalayim|Jerusalem⟧,
 I have set watchmen;
 all the day and all the night
 they shall never be silent.
-You who put Yahweh in remembrance,
+You who put ⟦yhwh|Yahweh|the LORD⟧ in remembrance,
 take no rest,
 
 [7] and give him no rest
-until he establishes Jerusalem
+until he establishes ⟦jerusalem|Yerushalayim|Jerusalem⟧
 and makes it a praise in the earth.
 
-[8] Yahweh has sworn by his right hand
+[8] ⟦yhwh|Yahweh|The LORD⟧ has sworn by his right hand
 and by his mighty arm:
 "I will not again give your grain
 to be food for your enemies,
@@ -44,7 +44,7 @@ and foreigners shall not drink your wine
 for which you have labored;
 
 [9] but those who garner it shall eat it
-and praise Yahweh,
+and praise ⟦yhwh|Yahweh|the LORD⟧,
 and those who gather it shall drink it
 in the courts of my sanctuary."
 
@@ -54,15 +54,15 @@ build up, build up the highway;
 clear it of stones;
 lift up a signal over the peoples.
 
-[11] Behold, Yahweh has proclaimed
+[11] Behold, ⟦yhwh|Yahweh|the LORD⟧ has proclaimed
 to the end of the earth:
-Say to the daughter of Zion,
+Say to the daughter of ⟦zion|Tziyon|Zion⟧,
 "Behold, your Salvation comes;
 behold, his reward is with him,
 and his recompense before him."
 
 [12] And they shall be called The Holy People,
-The Redeemed of Yahweh;
+The Redeemed of ⟦yhwh|Yahweh|the LORD⟧;
 and you shall be called Sought Out,
 A City Not Forsaken.
 

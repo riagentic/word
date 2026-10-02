@@ -1,14 +1,14 @@
 # Jeremjáš 6
 
-[1] Utečte do bezpečí, lide Benjamina,
-ze středu Jerusalemu!
-Troubte na polnici v Tekoa
-a vztyčte znamení nad Beth-Haccheremem,
+[1] Utečte do bezpečí, lide ⟦benjamin|Binjamina|Benjamína⟧,
+ze středu ⟦jerusalem|Jerušalajim|Jeruzaléma⟧!
+Troubte na ⟦shofar|šofar|polnici⟧ v ⟦tekoa|Tekoa|Tekóji⟧
+a vztyčte znamení nad ⟦beth-haccherem|Bejt HaKeremem|Bét-keremem⟧,
 neboť od severu hrozí pohroma
 a veliká zkáza.
 
 [2] Tu půvabnou a rozmazlenou zničím,
-dceru Zionu.
+dceru ⟦zion|Cijonu|Sijónu⟧.
 
 [3] Pastýři se svými stády přitáhnou proti ní;
 postaví kolem ní své stany;
@@ -22,10 +22,10 @@ neboť se prodlužují večerní stíny!
 [5] Vstaňte a zaútočme v noci
 a zničme její paláce!“
 
-[6] Neboť toto praví Yahweh zástupů:
+[6] Neboť toto praví ⟦yhwh|Jahve|Hospodin⟧ zástupů:
 
 „Kácejte její stromy;
-navršte proti Jerusalemu obléhací val.
+navršte proti ⟦jerusalem|Jerušalajim|Jeruzalému⟧ obléhací val.
 To je město, které musí být potrestáno;
 uvnitř něho není nic než útisk.
 
@@ -34,15 +34,15 @@ tak ono udržuje čerstvou svou zlobu;
 násilí a zkáza je v něm slyšet;
 nemoc a rány jsou ustavičně přede mnou.
 
-[8] Dej si říct, Jerusaleme,
+[8] Dej si říct, ⟦jerusalem|Jerušalajim|Jeruzaléme⟧,
 abych se od tebe neodvrátil s odporem,
 abych z tebe neučinil zpustošení,
 neobydlenou zemi.“
 
-[9] Toto praví Yahweh zástupů:
+[9] Toto praví ⟦yhwh|Jahve|Hospodin⟧ zástupů:
 
 „Důkladně paběrkovat budou jako na vinném kmeni
-ostatek Israele;
+ostatek ⟦israel|Jisraele|Izraele⟧;
 jako vinař ještě jednou přejeď rukou
 po jeho ratolestech.“
 
@@ -50,10 +50,10 @@ po jeho ratolestech.“
 aby slyšeli?
 Hle, jejich uši jsou neobřezané,
 nemohou naslouchat;
-hle, slovo Yahweh je jim předmětem posměchu;
+hle, slovo ⟦yhwh|Jahveho|Hospodina⟧ je jim předmětem posměchu;
 nemají v něm zalíbení.
 
-[11] Proto jsem plný hněvu Yahweh;
+[11] Proto jsem plný hněvu ⟦yhwh|Jahveho|Hospodina⟧;
 jsem unaven tím, jak ho zadržuji.
 „Vylij ho na děti na ulici
 i na shromáždění mladých mužů;
@@ -63,7 +63,7 @@ starce i velmi sešlého věkem.
 [12] Jejich domy připadnou jiným,
 jejich pole i ženy zároveň,
 neboť vztáhnu svou ruku
-proti obyvatelům země,“ je výrok Yahweh.
+proti obyvatelům země,“ je výrok ⟦yhwh|Jahveho|Hospodina⟧.
 
 [13] „Neboť od nejmenšího z nich až po největšího
 každý je chtivý nepoctivého zisku;
@@ -79,9 +79,9 @@ Ne, vůbec se nestyděli;
 nevěděli, co je to zardít se.
 Proto padnou mezi padajícími;
 v čase, kdy je ztrestám, budou vyvráceni,“
-praví Yahweh.
+praví ⟦yhwh|Jahve|Hospodin⟧.
 
-[16] Toto praví Yahweh:
+[16] Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
 „Postavte se u cest a hleďte
 a ptejte se na dávné stezky,
@@ -91,7 +91,7 @@ a naleznete odpočinek pro své duše.
 Ale oni řekli: ‚Nepůjdeme po ní.‘
 
 [17] Ustanovil jsem nad vámi strážné a říkal jsem:
-‚Dávejte pozor na zvuk polnice!‘
+‚Dávejte pozor na zvuk ⟦shofar|šofaru|polnice⟧!‘
 Ale oni řekli: ‚Nebudeme dávat pozor.‘
 
 [18] Proto slyšte, národy,
@@ -100,20 +100,20 @@ a poznej, shromáždění, co se s nimi stane.
 [19] Slyš, země; hle, přivádím na tento lid pohromu,
 ovoce jejich záměrů,
 protože nedbali na má slova;
-a můj Zákon – ten zavrhli.
+a ⟦torah|mou Tóru – tu|můj zákon – ten⟧ zavrhli.
 
-[20] K čemu je mi kadidlo, které přichází ze Sheby,
+[20] K čemu je mi kadidlo, které přichází ze ⟦sheba|Ševy|Šeby⟧,
 nebo vonná třtina z daleké země?
 Vaše zápalné oběti nejsou přijatelné
 a vaše oběti se mi nelíbí.“
 
-[21] Proto toto praví Yahweh:
+[21] Proto toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
 „Hle, položím před tento lid kameny úrazu, o něž klopýtnou;
 otcové i synové zároveň,
 soused i přítel zahynou.“
 
-[22] Toto praví Yahweh:
+[22] Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
 „Hle, přichází lid ze severní země,
 veliký národ se zdvihá z nejzazších končin země.
@@ -123,7 +123,7 @@ jsou krutí a nemají slitování;
 jejich hluk je jako hučení moře;
 jedou na koních,
 seřazeni jako muž k boji
-proti tobě, dcero Zionu!“
+proti tobě, dcero ⟦zion|Cijonu|Sijónu⟧!“
 
 [24] Slyšeli jsme zprávu o něm;
 naše ruce bezmocně klesají;
@@ -156,7 +156,7 @@ nadarmo pokračuje tavení,
 neboť svévolníci nejsou odstraněni.
 
 [30] Zavrženým stříbrem jsou nazýváni,
-neboť Yahweh je zavrhl.“
+neboť ⟦yhwh|Jahve|Hospodin⟧ je zavrhl.“
 
 ## Změny
 

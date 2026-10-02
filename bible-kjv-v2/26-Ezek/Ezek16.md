@@ -1,10 +1,10 @@
 # Ezekiel 16
 
-[1] The word of Yahweh came to me:
+[1] The word of ⟦yhwh|Yahweh|the LORD⟧ came to me:
 
-[2] "Son of man, make known to Jerusalem her abominations,
+[2] "Son of man, make known to ⟦jerusalem|Yerushalayim|Jerusalem⟧ her abominations,
 
-[3] and say, Thus says Lord Yahweh to Jerusalem: Your origin and your birth are of the land of the Canaanites; your father was an Amorite and your mother a Hittite.
+[3] and say, Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧ to ⟦jerusalem|Yerushalayim|Jerusalem⟧: Your origin and your birth are of the land of the ⟦canaanites|Kenaanim|Canaanites⟧; your father was an ⟦amorite|Emori|Amorite⟧ and your mother a ⟦hittite|Chitti|Hittite⟧.
 
 [4] And as for your birth, on the day you were born your umbilical cord was not cut, nor were you washed with water to cleanse you, nor rubbed with salt, nor wrapped in swaddling cloths.
 
@@ -14,7 +14,7 @@
 
 [7] I made you flourish like a plant of the field. And you grew up and became tall and arrived at full adornment. Your breasts were formed, and your hair had grown; yet you were naked and bare.
 
-[8] "When I passed by you again and saw you, behold, you were at the age for love, and I spread the corner of my garment over you and covered your nakedness; I made my vow to you and entered into a covenant with you, declares Lord Yahweh, and you became mine.
+[8] "When I passed by you again and saw you, behold, you were at the age for love, and I spread the corner of my garment over you and covered your nakedness; I made my vow to you and entered into a covenant with you, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧, and you became mine.
 
 [9] Then I bathed you with water and washed off your blood from you and anointed you with oil.
 
@@ -26,7 +26,7 @@
 
 [13] Thus you were adorned with gold and silver, and your clothing was of fine linen and silk and embroidered cloth. You ate fine flour and honey and oil. You grew exceedingly beautiful and advanced to royalty.
 
-[14] And your renown went forth among the nations because of your beauty, for it was perfect through the splendor that I had bestowed on you, declares Lord Yahweh.
+[14] And your renown went forth among the nations because of your beauty, for it was perfect through the splendor that I had bestowed on you, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.
 
 [15] "But you trusted in your beauty and played the whore because of your renown and lavished your whorings on any passerby; his it was.
 
@@ -36,7 +36,7 @@
 
 [18] And you took your embroidered garments to cover them, and set my oil and my incense before them.
 
-[19] Also my bread that I gave you — I fed you with fine flour and oil and honey — you set before them for a pleasing aroma; and so it was, declares Lord Yahweh.
+[19] Also my bread that I gave you — I fed you with fine flour and oil and honey — you set before them for a pleasing aroma; and so it was, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.
 
 [20] "And you took your sons and your daughters, whom you had borne to me, and these you sacrificed to them to be devoured. Were your whorings so small a matter
 
@@ -44,21 +44,21 @@
 
 [22] And in all your abominations and your whorings you did not remember the days of your youth, when you were naked and bare, wallowing in your blood.
 
-[23] "And after all your wickedness (woe, woe to you! declares Lord Yahweh),
+[23] "And after all your wickedness (woe, woe to you! declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧),
 
 [24] you built yourself a vaulted chamber and made yourself a lofty place in every square.
 
 [25] At the head of every street you built your lofty place and made your beauty an abomination, offering yourself to any passerby and multiplying your whoring.
 
-[26] You also played the whore with the Egyptians, your lustful neighbors, multiplying your whoring, to provoke me to anger.
+[26] You also played the whore with the ⟦egyptians|Mitzrim|Egyptians⟧, your lustful neighbors, multiplying your whoring, to provoke me to anger.
 
-[27] Behold, therefore, I stretched out my hand against you and diminished your allotted portion and delivered you to the greed of your enemies, the daughters of the Philistines, who were ashamed of your lewd behavior.
+[27] Behold, therefore, I stretched out my hand against you and diminished your allotted portion and delivered you to the greed of your enemies, the daughters of the ⟦philistines|Pelishtim|Philistines⟧, who were ashamed of your lewd behavior.
 
-[28] You played the whore also with the Assyrians, because you were not satisfied; yes, you played the whore with them, and still you were not satisfied.
+[28] You played the whore also with ⟦assyria|Ashur|the Assyrians⟧, because you were not satisfied; yes, you played the whore with them, and still you were not satisfied.
 
-[29] You multiplied your whoring also with the trading land of Chaldea, and even with this you were not satisfied.
+[29] You multiplied your whoring also with the trading land of ⟦chaldea|Kasdim|Chaldea⟧, and even with this you were not satisfied.
 
-[30] "How sick is your heart, declares Lord Yahweh, because you did all these things, the deeds of a brazen prostitute,
+[30] "How sick is your heart, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧, because you did all these things, the deeds of a brazen prostitute,
 
 [31] building your vaulted chamber at the head of every street, and making your lofty place in every square. Yet you were not like a prostitute, because you scorned payment.
 
@@ -68,9 +68,9 @@
 
 [34] So you were different from other women in your whorings. No one solicited you to play the whore, and you gave payment, while no payment was given to you; therefore you were different.
 
-[35] "Therefore, O prostitute, hear the word of Yahweh:
+[35] "Therefore, O prostitute, hear the word of ⟦yhwh|Yahweh|the LORD⟧:
 
-[36] Thus says Lord Yahweh, Because your lust was poured out and your nakedness uncovered in your whorings with your lovers, and with all your abominable idols, and because of the blood of your children that you gave to them,
+[36] Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧, Because your lust was poured out and your nakedness uncovered in your whorings with your lovers, and with all your abominable idols, and because of the blood of your children that you gave to them,
 
 [37] therefore, behold, I will gather all your lovers with whom you took pleasure, all those you loved and all those you hated. I will gather them against you from every side and will uncover your nakedness to them, that they may see all your nakedness.
 
@@ -84,47 +84,47 @@
 
 [42] So will I satisfy my wrath on you, and my jealousy shall depart from you. I will be calm and will no more be angry.
 
-[43] "Because you have not remembered the days of your youth, but have enraged me with all these things, therefore, behold, I have returned your deeds upon your head, declares Lord Yahweh. Have you not committed lewdness in addition to all your abominations?
+[43] "Because you have not remembered the days of your youth, but have enraged me with all these things, therefore, behold, I have returned your deeds upon your head, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧. Have you not committed lewdness in addition to all your abominations?
 
 [44] "Behold, everyone who uses proverbs will use this proverb about you: 'Like mother, like daughter.'
 
-[45] You are the daughter of your mother, who loathed her husband and her children; and you are the sister of your sisters, who loathed their husbands and their children. Your mother was a Hittite and your father an Amorite.
+[45] You are the daughter of your mother, who loathed her husband and her children; and you are the sister of your sisters, who loathed their husbands and their children. Your mother was a ⟦hittite|Chitti|Hittite⟧ and your father an ⟦amorite|Emori|Amorite⟧.
 
-[46] "And your elder sister is Samaria, who lived with her daughters to the north of you; and your younger sister, who lived to the south of you, is Sodom with her daughters.
+[46] "And your elder sister is ⟦samaria|Shomron|Samaria⟧, who lived with her daughters to the north of you; and your younger sister, who lived to the south of you, is ⟦sodom|Sedom|Sodom⟧ with her daughters.
 
 [47] Not only did you walk in their ways and do according to their abominations; within a very little time you were more corrupt than they in all your ways.
 
-[48] As I live, declares Lord Yahweh, your sister Sodom and her daughters have not done as you and your daughters have done.
+[48] As I live, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧, your sister ⟦sodom|Sedom|Sodom⟧ and her daughters have not done as you and your daughters have done.
 
-[49] Behold, this was the guilt of your sister Sodom: she and her daughters had pride, excess of food, and prosperous ease, but did not aid the poor and needy.
+[49] Behold, this was the guilt of your sister ⟦sodom|Sedom|Sodom⟧: she and her daughters had pride, excess of food, and prosperous ease, but did not aid the poor and needy.
 
 [50] They were haughty and did an abomination before me. So I removed them, when I saw it.
 
-[51] "Samaria has not committed half your sins. You have committed more abominations than they, and have made your sisters appear righteous by all the abominations that you have committed.
+[51] "⟦samaria|Shomron|Samaria⟧ has not committed half your sins. You have committed more abominations than they, and have made your sisters appear righteous by all the abominations that you have committed.
 
 [52] Bear your disgrace, you also, for you have intervened in judgment for your sisters; because of your sins in which you acted more abominably than they, they are more in the right than you. So be ashamed, you also, and bear your disgrace, for you have made your sisters appear righteous.
 
-[53] "I will restore their fortunes, both the fortunes of Sodom and her daughters, and the fortunes of Samaria and her daughters, and I will restore your own fortunes in their midst,
+[53] "I will restore their fortunes, both the fortunes of ⟦sodom|Sedom|Sodom⟧ and her daughters, and the fortunes of ⟦samaria|Shomron|Samaria⟧ and her daughters, and I will restore your own fortunes in their midst,
 
 [54] that you may bear your disgrace and be ashamed of all that you have done, becoming a consolation to them.
 
-[55] As for your sisters, Sodom and her daughters shall return to their former state, and Samaria and her daughters shall return to their former state, and you and your daughters shall return to your former state.
+[55] As for your sisters, ⟦sodom|Sedom|Sodom⟧ and her daughters shall return to their former state, and ⟦samaria|Shomron|Samaria⟧ and her daughters shall return to their former state, and you and your daughters shall return to your former state.
 
-[56] Was not your sister Sodom a byword in your mouth in the day of your pride,
+[56] Was not your sister ⟦sodom|Sedom|Sodom⟧ a byword in your mouth in the day of your pride,
 
-[57] before your wickedness was uncovered? Now you have become an object of reproach for the daughters of Syria and all those around her, and for the daughters of the Philistines, those all around who despise you.
+[57] before your wickedness was uncovered? Now you have become an object of reproach for the daughters of ⟦aram|Aram|Syria⟧ and all those around her, and for the daughters of the ⟦philistines|Pelishtim|Philistines⟧, those all around who despise you.
 
-[58] You bear the penalty of your lewdness and your abominations, declares Yahweh.
+[58] You bear the penalty of your lewdness and your abominations, declares ⟦yhwh|Yahweh|the LORD⟧.
 
-[59] "For thus says Lord Yahweh: I will deal with you as you have done, you who have despised the oath in breaking the covenant,
+[59] "For thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: I will deal with you as you have done, you who have despised the oath in breaking the covenant,
 
 [60] yet I will remember my covenant with you in the days of your youth, and I will establish for you an everlasting covenant.
 
 [61] Then you will remember your ways and be ashamed when you take your sisters, both your elder and your younger, and I give them to you as daughters, but not on account of the covenant with you.
 
-[62] I will establish my covenant with you, and you shall know that I am Yahweh,
+[62] I will establish my covenant with you, and you shall know that I am ⟦yhwh|Yahweh|the LORD⟧,
 
-[63] that you may remember and be ashamed, and never open your mouth again because of your shame, when I atone for you for all that you have done, declares Lord Yahweh."
+[63] that you may remember and be ashamed, and never open your mouth again because of your shame, when I atone for you for all that you have done, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧."
 
 ## Changes
 

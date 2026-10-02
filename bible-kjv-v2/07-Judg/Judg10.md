@@ -1,40 +1,40 @@
 # Judges 10
 
-[1] After Abimelech, Tola son of Puah son of Dodo, a man of Issachar, arose to deliver Israel; he lived at Shamir in the hill country of Ephraim.
+[1] After ⟦abimelech|Avimelech|Abimelech⟧, Tola son of Puah son of Dodo, a man of ⟦issachar|Yissachar|Issachar⟧, arose to deliver ⟦israel|Yisrael|Israel⟧; he lived at Shamir in the hill country of ⟦ephraim|Efrayim|Ephraim⟧.
 
-[2] He judged Israel twenty-three years, and then he died and was buried at Shamir.
+[2] He judged ⟦israel|Yisrael|Israel⟧ twenty-three years, and then he died and was buried at Shamir.
 
-[3] After him arose Jair the Gileadite; he judged Israel twenty-two years.
+[3] After him arose ⟦jair|Yair|Jair⟧ the ⟦gileadite|Giladi|Gileadite⟧; he judged ⟦israel|Yisrael|Israel⟧ twenty-two years.
 
-[4] He had thirty sons who rode on thirty donkeys; they had thirty cities, which are called Havvoth-Jair to this day, and they are in the land of Gilead.
+[4] He had thirty sons who rode on thirty donkeys; they had thirty cities, which are called ⟦havvoth-jair|Chavvot Yair|Havvoth-jair⟧ to this day, and they are in the land of ⟦gilead|Gilad|Gilead⟧.
 
-[5] Jair died and was buried at Kamon.
+[5] ⟦jair|Yair|Jair⟧ died and was buried at ⟦kamon|Qamon|Kamon⟧.
 
-[6] The children of Israel again did what was evil in the eyes of Yahweh. They served the Baals and the Ashtaroth, the gods of Aram, the gods of Sidon, the gods of Moab, the gods of the children of Ammon, and the gods of the Philistines. They forsook Yahweh and did not serve him.
+[6] The children of ⟦israel|Yisrael|Israel⟧ again did what was evil in the eyes of ⟦yhwh|Yahweh|the LORD⟧. They served the Baals and the ⟦ashtaroth-goddesses|Ashtarot|Ashtaroth⟧, the gods of ⟦aram|Aram|Syria⟧, the gods of ⟦sidon|Tzidon|Sidon⟧, the gods of ⟦moab|Moav|Moab⟧, the gods of the children of Ammon, and the gods of the ⟦philistines|Pelishtim|Philistines⟧. They forsook ⟦yhwh|Yahweh|the LORD⟧ and did not serve him.
 
-[7] The anger of Yahweh burned against Israel, and he sold them into the hand of the Philistines and the hand of the children of Ammon.
+[7] The anger of ⟦yhwh|Yahweh|the LORD⟧ burned against ⟦israel|Yisrael|Israel⟧, and he sold them into the hand of the ⟦philistines|Pelishtim|Philistines⟧ and the hand of the children of Ammon.
 
-[8] They crushed and oppressed the children of Israel in that year; for eighteen years they oppressed all the children of Israel who were beyond the Jordan in the land of the Amorites, which is in Gilead.
+[8] They crushed and oppressed the children of ⟦israel|Yisrael|Israel⟧ in that year; for eighteen years they oppressed all the children of ⟦israel|Yisrael|Israel⟧ who were beyond the ⟦jordan|Yarden|Jordan⟧ in the land of the ⟦amorites|Emorim|Amorites⟧, which is in ⟦gilead|Gilad|Gilead⟧.
 
-[9] The children of Ammon crossed over the Jordan to fight also against Judah, against Benjamin, and against the house of Ephraim; so that Israel was in great distress.
+[9] The children of Ammon crossed over the ⟦jordan|Yarden|Jordan⟧ to fight also against ⟦judah|Yehudah|Judah⟧, against ⟦benjamin|Binyamin|Benjamin⟧, and against the house of ⟦ephraim|Efrayim|Ephraim⟧; so that ⟦israel|Yisrael|Israel⟧ was in great distress.
 
-[10] The children of Israel cried out to Yahweh, saying, "We have sinned against you — we have forsaken our *Elohim* and served the Baals."
+[10] The children of ⟦israel|Yisrael|Israel⟧ cried out to ⟦yhwh|Yahweh|the LORD⟧, saying, "We have sinned against you — we have forsaken our ⟦elohim|Elohim|God⟧ and served the Baals."
 
-[11] Yahweh said to the children of Israel, "Did I not deliver you from the Egyptians, from the Amorites, from the children of Ammon, and from the Philistines?
+[11] ⟦yhwh|Yahweh|The LORD⟧ said to the children of ⟦israel|Yisrael|Israel⟧, "Did I not deliver you from the ⟦egyptians|Mitzrim|Egyptians⟧, from the ⟦amorites|Emorim|Amorites⟧, from the children of Ammon, and from the ⟦philistines|Pelishtim|Philistines⟧?
 
-[12] The Sidonians, the Amalekites, and the Maonites oppressed you; you cried to me, and I delivered you out of their hand.
+[12] The ⟦sidonians|Tzidonim|Sidonians⟧, ⟦amalek|Amaleq|the Amalekites⟧, and ⟦maonites|Maon|the Maonites⟧ oppressed you; you cried to me, and I delivered you out of their hand.
 
 [13] Yet you have forsaken me and served other gods; therefore I will deliver you no more.
 
 [14] Go and cry out to the gods you have chosen; let them deliver you in the time of your distress."
 
-[15] The children of Israel said to Yahweh, "We have sinned. Do to us whatever seems good in your eyes; only please deliver us this day."
+[15] The children of ⟦israel|Yisrael|Israel⟧ said to ⟦yhwh|Yahweh|the LORD⟧, "We have sinned. Do to us whatever seems good in your eyes; only please deliver us this day."
 
-[16] So they put away the foreign gods from among them and served Yahweh; and his soul could no longer bear the misery of Israel.
+[16] So they put away the foreign gods from among them and served ⟦yhwh|Yahweh|the LORD⟧; and his soul could no longer bear the misery of ⟦israel|Yisrael|Israel⟧.
 
-[17] The children of Ammon were called out and encamped in Gilead, and the children of Israel assembled and encamped at Mizpah.
+[17] The children of Ammon were called out and encamped in ⟦gilead|Gilad|Gilead⟧, and the children of ⟦israel|Yisrael|Israel⟧ assembled and encamped at ⟦mizpah|Mitzpah|Mizpah⟧.
 
-[18] The people — the chiefs of Gilead — said to one another, "Who is the man that will begin to fight against the children of Ammon? He shall be head over all the inhabitants of Gilead."
+[18] The people — the chiefs of ⟦gilead|Gilad|Gilead⟧ — said to one another, "Who is the man that will begin to fight against the children of Ammon? He shall be head over all the inhabitants of ⟦gilead|Gilad|Gilead⟧."
 
 ## Changes
 

@@ -26,23 +26,23 @@ a každá věc pod nebem svůj čas:
 
 [9] Jaký zisk má pracující ze své námahy?
 
-[10] Viděl jsem zaměstnání, které *Elohim* dal synům lidským, aby se jím zabývali.
+[10] Viděl jsem zaměstnání, které ⟦elohim|Elohim|Bůh⟧ dal synům lidským, aby se jím zabývali.
 
-[11] Všechno učinil krásné v jeho čase. Také vložil do srdce člověka věčnost, avšak tak, že člověk nemůže vystihnout dílo, které *Elohim* koná, od počátku až do konce.
+[11] Všechno učinil krásné v jeho čase. Také vložil do srdce člověka věčnost, avšak tak, že člověk nemůže vystihnout dílo, které ⟦elohim|Elohim|Bůh⟧ koná, od počátku až do konce.
 
 [12] Pochopil jsem, že pro ně není nic lepšího, než se radovat a konat dobro, dokud žijí;
 
-[13] a také, že každý má jíst a pít a těšit se ze vší své námahy – to je dar *Elohim*.
+[13] a také, že každý má jíst a pít a těšit se ze vší své námahy – to je dar ⟦elohim|Elohim|Boží⟧.
 
-[14] Pochopil jsem, že cokoli *Elohim* činí, trvá navěky; nic k tomu nelze přidat ani nic od toho ubrat. *Elohim* to tak učinil, aby se lidé před ním báli.
+[14] Pochopil jsem, že cokoli ⟦elohim|Elohim|Bůh⟧ činí, trvá navěky; nic k tomu nelze přidat ani nic od toho ubrat. ⟦elohim|Elohim|Bůh⟧ to tak učinil, aby se lidé před ním báli.
 
-[15] Co je, už bylo; co má být, už bylo; a *Elohim* vyhledává, co bylo zapuzeno.
+[15] Co je, už bylo; co má být, už bylo; a ⟦elohim|Elohim|Bůh⟧ vyhledává, co bylo zapuzeno.
 
 [16] Dále jsem viděl pod sluncem, že na místě práva, i tam byla ničemnost, a na místě spravedlnosti, i tam byla ničemnost.
 
-[17] Řekl jsem ve svém srdci: *Elohim* bude soudit spravedlivého i ničemného, neboť je čas pro každou věc a pro každé dílo.
+[17] Řekl jsem ve svém srdci: ⟦elohim|Elohim|Bůh⟧ bude soudit spravedlivého i ničemného, neboť je čas pro každou věc a pro každé dílo.
 
-[18] Řekl jsem ve svém srdci o synech lidských, že je *Elohim* zkouší, aby viděli, že sami jsou jen zvířata.
+[18] Řekl jsem ve svém srdci o synech lidských, že je ⟦elohim|Elohim|Bůh⟧ zkouší, aby viděli, že sami jsou jen zvířata.
 
 [19] Neboť co potkává syny lidské a co potkává zvířata, je totéž; jak umírá jedno, tak umírá i druhé. Všichni mají tentýž duch a člověk nemá nad zvířaty žádnou přednost, neboť všechno je marnost.
 

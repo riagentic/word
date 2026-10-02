@@ -4,7 +4,7 @@
 
 [2] because of the truth that abides in us and will be with us forever:
 
-[3] Grace, mercy, and peace will be with us, from *Elohim* the Father and from *Yeshua* the *Mashiach*, the Father's Son, in truth and love.
+[3] Grace, mercy, and peace will be with us, from ⟦elohim|Elohim|God⟧ the Father and from ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧, the Father's Son, in truth and love.
 
 [4] I rejoiced greatly to find some of your children walking in the truth, just as we were commanded by the Father.
 
@@ -12,11 +12,11 @@
 
 [6] And this is love, that we walk according to his commandments; this is the commandment, just as you have heard from the beginning, so that you should walk in it.
 
-[7] For many deceivers have gone out into the world, those who do not confess the coming of *Yeshua* the *Mashiach* in the flesh. Such a one is the deceiver and the antichrist.
+[7] For many deceivers have gone out into the world, those who do not confess the coming of ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧ in the flesh. Such a one is the deceiver and the antichrist.
 
 [8] Watch yourselves, so that you may not lose what we have worked for, but may win a full reward.
 
-[9] Everyone who goes on ahead and does not abide in the teaching of the *Mashiach*, does not have *Elohim*. Whoever abides in the teaching has both the Father and the Son.
+[9] Everyone who goes on ahead and does not abide in the teaching of ⟦mashiach|the Mashiach|Christ⟧, does not have ⟦elohim|Elohim|God⟧. Whoever abides in the teaching has both the Father and the Son.
 
 [10] If anyone comes to you and does not bring this teaching, do not receive him into your house or give him any greeting,
 

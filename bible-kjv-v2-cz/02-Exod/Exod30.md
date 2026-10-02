@@ -10,39 +10,39 @@
 
 [5] Tyče uděláš z akáciového dřeva a obložíš je zlatem.
 
-[6] Postavíš ho před oponu, která je u truhly svědectví, před slitovnici, která je nad svědectvím, kde se s tebou budu setkávat.
+[6] Postavíš ho před oponu, která je u truhly svědectví, před ⟦mercy-seat|kapporet, která|příkrov, který⟧ je nad svědectvím, kde se s tebou budu setkávat.
 
-[7] Aaron na něm bude pálit vonné kadidlo; každé ráno, když bude ošetřovat lampy, ho bude pálit.
+[7] ⟦aaron|Aharon|Áron⟧ na něm bude pálit vonné kadidlo; každé ráno, když bude ošetřovat lampy, ho bude pálit.
 
-[8] A když Aaron za soumraku rozsvítí lampy, bude ho pálit – pravidelné kadidlo před Yahweh po všechna vaše pokolení.
+[8] A když ⟦aaron|Aharon|Áron⟧ za soumraku rozsvítí lampy, bude ho pálit – pravidelné kadidlo před ⟦yhwh|Jahvem|Hospodinem⟧ po všechna vaše pokolení.
 
 [9] Nebudete na něm přinášet nepovolené kadidlo ani zápalnou oběť, ani obilnou oběť; a nebudete na něj vylévat úlitbu.
 
-[10] Aaron bude jednou v roce vykonávat smíření na jeho rozích; krví oběti za hřích ke smíření bude na něm jednou v roce vykonávat smíření po všechna vaše pokolení. Je to nejsvětější pro Yahweh.“
+[10] ⟦aaron|Aharon|Áron⟧ bude jednou v roce vykonávat smíření na jeho rozích; krví oběti za hřích ke smíření bude na něm jednou v roce vykonávat smíření po všechna vaše pokolení. Je to nejsvětější pro ⟦yhwh|Jahveho|Hospodina⟧.“
 
-[11] Yahweh promluvil k Mosesovi:
+[11] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[12] „Když budeš provádět sčítání synů Israele, abys je spočítal, každý dá Yahweh výkupné za svůj život, když budou sčítáni, aby na ně nepřišla rána, když budou počítáni.
+[12] „Když budeš provádět sčítání synů ⟦israel|Jisraele|Izraele⟧, abys je spočítal, každý dá ⟦yhwh|Jahvovi|Hospodinu⟧ výkupné za svůj život, když budou sčítáni, aby na ně nepřišla rána, když budou počítáni.
 
-[13] Toto dá každý, kdo bude zapsán: půl šekelu podle šekelu svatyně (šekel je dvacet ger); půl šekelu jako dar pro Yahweh.
+[13] Toto dá každý, kdo bude zapsán: půl šekelu podle šekelu svatyně (šekel je dvacet ger); půl šekelu jako dar pro ⟦yhwh|Jahveho|Hospodina⟧.
 
-[14] Každý, kdo přejde k sečteným, od dvaceti let výše, dá dar Yahweh.
+[14] Každý, kdo přejde k sečteným, od dvaceti let výše, dá dar ⟦yhwh|Jahvovi|Hospodinu⟧.
 
-[15] Bohatý nedá víc a chudý nedá méně než půl šekelu, když budou dávat dar Yahweh, aby vykonali smíření za vaše životy.
+[15] Bohatý nedá víc a chudý nedá méně než půl šekelu, když budou dávat dar ⟦yhwh|Jahvovi|Hospodinu⟧, aby vykonali smíření za vaše životy.
 
-[16] Vezmeš peníze smíření od synů Israele a vyhradíš je na službu stanu setkávání; budou pro syny Israele připomínkou před Yahweh, aby bylo vykonáno smíření za vaše životy.“
+[16] Vezmeš peníze smíření od synů ⟦israel|Jisraele|Izraele⟧ a vyhradíš je na službu stanu setkávání; budou pro syny ⟦israel|Jisraele|Izraele⟧ připomínkou před ⟦yhwh|Jahvem|Hospodinem⟧, aby bylo vykonáno smíření za vaše životy.“
 
-[17] Yahweh promluvil k Mosesovi:
+[17] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
 [18] „Uděláš také bronzové umyvadlo s bronzovým podstavcem k umývání. Postavíš ho mezi stan setkávání a oltář a naleješ do něj vodu.
 
-[19] Aaron a jeho synové si z něj budou umývat ruce a nohy.
+[19] ⟦aaron|Aharon|Áron⟧ a jeho synové si z něj budou umývat ruce a nohy.
 
-[20] Když budou vcházet do stanu setkávání, umyjí se vodou, aby nezemřeli; anebo když budou přistupovat k oltáři, aby sloužili a obraceli v dým ohnivou oběť pro Yahweh.
+[20] Když budou vcházet do stanu setkávání, umyjí se vodou, aby nezemřeli; anebo když budou přistupovat k oltáři, aby sloužili a obraceli v dým ohnivou oběť pro ⟦yhwh|Jahveho|Hospodina⟧.
 
 [21] Budou si umývat ruce a nohy, aby nezemřeli. Bude to pro ně věčné ustanovení – pro něho i pro jeho potomstvo po všechna jejich pokolení.“
 
-[22] Yahweh promluvil k Mosesovi:
+[22] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
 [23] „Vezmi si nejlepší koření: tekuté myrhy pět set šekelů, vonné skořice polovinu, totiž dvě stě padesát, a vonné třtiny dvě stě padesát,
 
@@ -58,21 +58,21 @@
 
 [29] Posvětíš je, aby byly nejsvětější; cokoli se jich dotkne, stane se svatým.
 
-[30] Pomažeš Aarona a jeho syny a posvětíš je, aby mi sloužili jako kněží.
+[30] Pomažeš ⟦aaron|Aharona|Árona⟧ a jeho syny a posvětíš je, aby mi sloužili jako kněží.
 
-[31] A synům Israele řekneš: ‚Toto mi bude svatým olejem pomazání po všechna vaše pokolení.
+[31] A synům ⟦israel|Jisraele|Izraele⟧ řekneš: ‚Toto mi bude svatým olejem pomazání po všechna vaše pokolení.
 
 [32] Nebude se vylévat na tělo žádného člověka a nebudete dělat žádný jiný jemu podobný ve stejném složení; je svatý a bude vám svatý.
 
 [33] Kdokoli namíchá něco podobného nebo dá něco z něj na nepovolaného, bude vyobcován ze svého lidu.‘“
 
-[34] Yahweh řekl Mosesovi: „Vezmi vonné koření – styrax, onychu a galbánum, vonné koření s čistým kadidlem; všeho bude stejná váha –
+[34] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Vezmi vonné koření – styrax, onychu a galbánum, vonné koření s čistým kadidlem; všeho bude stejná váha –
 
 [35] a uděláš z toho vonnou směs, dílo voňavkáře, osolenou, čistou a svatou.
 
 [36] Část z ní rozetřeš najemno a část z ní položíš před svědectví ve stanu setkávání, kde se s tebou budu setkávat. Bude vám nejsvětější.
 
-[37] Kadidlo, které budeš dělat, si podle jeho složení dělat nebudete; bude ti svaté pro Yahweh.
+[37] Kadidlo, které budeš dělat, si podle jeho složení dělat nebudete; bude ti svaté pro ⟦yhwh|Jahveho|Hospodina⟧.
 
 [38] Kdokoli udělá něco podobného, aby se těšil jeho vůní, bude vyobcován ze svého lidu.“
 

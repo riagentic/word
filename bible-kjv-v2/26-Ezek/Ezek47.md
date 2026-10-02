@@ -16,37 +16,37 @@ Then he led me back to the bank of the river.
 
 [7] As I went back, I saw on the bank of the river very many trees on the one side and on the other.
 
-[8] And he said to me, "This water flows toward the eastern region and goes down into the Arabah, and enters the sea; when the water flows into the sea, the water will become fresh.
+[8] And he said to me, "This water flows toward the eastern region and goes down into the ⟦arabah|Aravah|Arabah⟧, and enters the sea; when the water flows into the sea, the water will become fresh.
 
 [9] And wherever the river goes, every living creature that swarms will live, and there will be very many fish. For this water goes there, that the waters of the sea may become fresh; so everything will live where the river goes.
 
-[10] Fishermen will stand beside the sea. From En-gedi to En-eglaim it will be a place for the spreading of nets. Its fish will be of very many kinds, like the fish of the Great Sea.
+[10] Fishermen will stand beside the sea. From ⟦en-gedi|Ein Gedi|Engedi⟧ to ⟦eneglaim|Ein Eglayim|Eneglaim⟧ it will be a place for the spreading of nets. Its fish will be of very many kinds, like the fish of the Great Sea.
 
 [11] But its swamps and marshes will not become fresh; they are to be left for salt.
 
 [12] And on the banks, on both sides of the river, there will grow all kinds of trees for food. Their leaves will not wither, nor their fruit fail, but they will bear fresh fruit every month, because the water for them flows from the sanctuary. Their fruit will be for food, and their leaves for healing."
 
-[13] Thus says Lord Yahweh: "This is the boundary by which you shall divide the land for inheritance among the twelve tribes of Israel. Joseph shall have two portions.
+[13] Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: "This is the boundary by which you shall divide the land for inheritance among the twelve tribes of ⟦israel|Yisrael|Israel⟧. ⟦joseph|Yosef|Joseph⟧ shall have two portions.
 
 [14] And you shall divide equally what I swore with uplifted hand to give to your fathers. This land shall fall to you as your inheritance.
 
-[15] "This shall be the boundary of the land: On the north side, from the Great Sea by way of Chethlon to Lebo-Hamath, and on to Tzedad,
+[15] "This shall be the boundary of the land: On the north side, from the Great Sea by way of ⟦hethlon|Chetlon|Hethlon⟧ to ⟦lebo-hamath|Levo Chamat|Lebo-hamath⟧, and on to ⟦zedad|Tzedad|Zedad⟧,
 
-[16] Berothah, Sibraim (which lies on the border between Damascus and Hamath), as far as Hatzar-Hatticon, which is on the border of Hauran.
+[16] ⟦berothah|Berotah|Berothah⟧, ⟦sibraim|Sivrayim|Sibraim⟧ (which lies on the border between ⟦damascus|Dammeseq|Damascus⟧ and ⟦hamath|Chamat|Hamath⟧), as far as ⟦hazer-hatticon|Chatzer Hattichon|Hazer-hatticon⟧, which is on the border of ⟦hauran|Chavran|Hauran⟧.
 
-[17] So the boundary shall run from the sea to Hatzar-Enan, which is on the northern border of Damascus, with the border of Hamath to the north. This shall be the north side.
+[17] So the boundary shall run from the sea to ⟦hazar-enan|Chatzar Enan|Hazar-enan⟧, which is on the northern border of ⟦damascus|Dammeseq|Damascus⟧, with the border of ⟦hamath|Chamat|Hamath⟧ to the north. This shall be the north side.
 
-[18] "On the east side, the boundary shall run between Hauran and Damascus; along the Jordan between Gilead and the land of Israel; to the eastern sea and as far as Tamar. This shall be the east side.
+[18] "On the east side, the boundary shall run between ⟦hauran|Chavran|Hauran⟧ and ⟦damascus|Dammeseq|Damascus⟧; along the ⟦jordan|Yarden|Jordan⟧ between ⟦gilead|Gilad|Gilead⟧ and the land of ⟦israel|Yisrael|Israel⟧; to the eastern sea and as far as Tamar. This shall be the east side.
 
-[19] "On the south side, it shall run from Tamar as far as the waters of Meribat-Qadesh, from there along the Brook of Egypt to the Great Sea. This shall be the south side.
+[19] "On the south side, it shall run from Tamar as far as the waters of ⟦meribah-kadesh|Merivot Qadesh|Meribah-kadesh⟧, from there along the Brook of ⟦egypt|Mitzrayim|Egypt⟧ to the Great Sea. This shall be the south side.
 
-[20] "On the west side, the Great Sea shall be the boundary to a point opposite Lebo-Hamath. This shall be the west side.
+[20] "On the west side, the Great Sea shall be the boundary to a point opposite ⟦lebo-hamath|Levo Chamat|Lebo-hamath⟧. This shall be the west side.
 
-[21] "So you shall divide this land among you according to the tribes of Israel.
+[21] "So you shall divide this land among you according to the tribes of ⟦israel|Yisrael|Israel⟧.
 
-[22] You shall allot it as an inheritance for yourselves and for the sojourners who reside among you and have had children among you. They shall be to you as native-born children of Israel. With you they shall be allotted an inheritance among the tribes of Israel.
+[22] You shall allot it as an inheritance for yourselves and for the sojourners who reside among you and have had children among you. They shall be to you as native-born children of ⟦israel|Yisrael|Israel⟧. With you they shall be allotted an inheritance among the tribes of ⟦israel|Yisrael|Israel⟧.
 
-[23] In whatever tribe the sojourner resides, there you shall assign him his inheritance, declares Lord Yahweh."
+[23] In whatever tribe the sojourner resides, there you shall assign him his inheritance, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧."
 
 ## Changes
 

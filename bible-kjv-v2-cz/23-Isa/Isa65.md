@@ -30,32 +30,32 @@ ohněm, který hoří celý den.
 jistě odplatím do jejich klína
 
 [7] vaše viny i viny vašich otců zároveň,“
-praví Yahweh;
+praví ⟦yhwh|Jahve|Hospodin⟧;
 „protože pálili oběti na horách
 a potupovali mě na pahorcích,
 odměřím do jejich klína
 odplatu za jejich dřívější skutky.“
 
-[8] Toto praví Yahweh:
+[8] Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
 „Jako když se v hroznu najde mladé víno
 a říká se: ‚Nekaz ho, neboť je v něm požehnání,‘
 tak učiním kvůli svým služebníkům
 a nezahubím je všechny.
 
-[9] Vyvedu z Jacoba potomstvo
-a z Judah dědice svých hor;
+[9] Vyvedu z ⟦jacob|Jaakova|Jákoba⟧ potomstvo
+a z ⟦judah|Jehudy|Judy⟧ dědice svých hor;
 moji vyvolení ji obdrží
 a moji služebníci tam budou přebývat.
 
-[10] Sharon se stane pastvinou pro stáda
-a údolí Achor místem, kde odpočívá skot,
+[10] ⟦sharon|Šaron|Šarón⟧ se stane pastvinou pro stáda
+a údolí ⟦achor|Achor|Akór⟧ místem, kde odpočívá skot,
 pro můj lid, který mě hledal.
 
-[11] Ale vy, kdo opouštíte Yahweh,
+[11] Ale vy, kdo opouštíte ⟦yhwh|Jahveho|Hospodina⟧,
 kdo zapomínáte na mou svatou horu,
-kdo prostíráte stůl pro Gada – Štěstí
-a naléváte poháry míchaného vína pro Meniho – Osud,
+kdo prostíráte stůl pro ⟦gad-fortune|Gada – Štěstí|Štěstí⟧
+a naléváte poháry míchaného vína pro ⟦meni|Meniho – Osud|Osud⟧,
 
 [12] vám určím za osud meč
 a všichni se skloníte k porážce,
@@ -64,7 +64,7 @@ když jsem mluvil, neposlouchali jste,
 ale dělali jste, co je zlé v mých očích,
 a volili jste, v čem nemám zalíbení.“
 
-[13] Proto toto praví Pán Yahweh:
+[13] Proto toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧:
 
 „Hle, moji služebníci budou jíst,
 ale vy budete hladovět;
@@ -78,13 +78,13 @@ ale vy budete křičet bolestí srdce
 a kvílet se zlomeným duchem.
 
 [15] Své jméno zanecháte mým vyvoleným za kletbu
-a Pán Yahweh vás usmrtí,
+a ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ vás usmrtí,
 ale své služebníky nazve jiným jménem.
 
 [16] Takže kdo si bude žehnat v zemi,
-bude si žehnat při *Elohim* pravdy,
+bude si žehnat při ⟦elohim|Elohim|Bohu⟧ pravdy,
 a kdo bude přísahat v zemi,
-bude přísahat při *Elohim* pravdy;
+bude přísahat při ⟦elohim|Elohim|Bohu⟧ pravdy;
 neboť dřívější soužení jsou zapomenuta
 a jsou skryta před mýma očima.
 
@@ -94,10 +94,10 @@ ani nepřijdou na mysl.
 
 [18] Ale radujte se a jásejte navěky
 nad tím, co tvořím;
-neboť hle, tvořím Jerusalem k radosti
+neboť hle, tvořím ⟦jerusalem|Jerušalajim|Jeruzalém⟧ k radosti
 a jeho lid k veselí.
 
-[19] Budu se radovat z Jerusalemu
+[19] Budu se radovat z ⟦jerusalem|Jerušalajim|Jeruzaléma⟧
 a veselit se ze svého lidu;
 už v něm nebude slyšet zvuk pláče
 ani křik tísně.
@@ -118,7 +118,7 @@ a moji vyvolení budou dlouho užívat díla svých rukou.
 
 [23] Nebudou se namáhat nadarmo
 ani rodit děti pro neštěstí,
-neboť budou potomstvem požehnaných od Yahweh
+neboť budou potomstvem požehnaných od ⟦yhwh|Jahveho|Hospodina⟧
 a jejich potomci s nimi.
 
 [24] Dříve než zavolají, odpovím;
@@ -128,7 +128,7 @@ ještě budou mluvit, a já vyslyším.
 lev bude jíst slámu jako býk
 a prach bude pokrmem hada.
 Nebudou škodit ani hubit
-na celé mé svaté hoře,“ praví Yahweh.
+na celé mé svaté hoře,“ praví ⟦yhwh|Jahve|Hospodin⟧.
 
 ## Změny
 

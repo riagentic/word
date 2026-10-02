@@ -1,6 +1,6 @@
 # Jób 18
 
-[1] Tu odpověděl Bildad Shuachský a řekl:
+[1] Tu odpověděl Bildad ⟦shuhite|Šuchi|Šúchský⟧ a řekl:
 
 [2] „Kdy skoncujete se slovy?
 Rozmyslete se, a pak budeme mluvit.
@@ -61,10 +61,11 @@ a vypuzen ze světa.
 a ty na východě jímá hrůza.
 
 [21] Jistě takové jsou příbytky nespravedlivého
-a to je místo toho, kdo nezná *Elohim*.“
+a to je místo toho, kdo nezná ⟦el|El|Boha⟧.“
 
 ## Změny
 
+- **"God" → „El“** (v21) – hebrejsky אֵל *El*, ne *Elohim*.
 - **"gin" → „osidlo“** (v9).
 - **"nephew" → „potomka“** (v19) – *neked*; vnuk/potomek.
 - **"they that come after... they that went before" → „ti na západě… ty na východě“** (v20) – *acharonim… qadmonim*; moderní překlady dávají přednost zeměpisnému čtení (západ–východ slunce); možné je i časové „ti, kdo přijdou potom, ti, kdo byli předtím“.

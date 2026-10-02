@@ -1,6 +1,6 @@
 # Ezekiel 15
 
-[1] The word of Yahweh came to me:
+[1] The word of ⟦yhwh|Yahweh|the LORD⟧ came to me:
 
 [2] "Son of man, how does the wood of the vine surpass any wood, the vine branch that is among the trees of the forest?
 
@@ -10,11 +10,11 @@
 
 [5] Behold, when it was whole, it was used for nothing. How much less, when the fire has consumed it and it is charred, can it ever be used for anything!
 
-[6] Therefore thus says Lord Yahweh: Like the wood of the vine among the trees of the forest, which I have given to the fire for fuel, so have I given up the inhabitants of Jerusalem.
+[6] Therefore thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: Like the wood of the vine among the trees of the forest, which I have given to the fire for fuel, so have I given up the inhabitants of ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[7] And I will set my face against them. Though they escape from the fire, the fire shall yet consume them, and you will know that I am Yahweh, when I set my face against them.
+[7] And I will set my face against them. Though they escape from the fire, the fire shall yet consume them, and you will know that I am ⟦yhwh|Yahweh|the LORD⟧, when I set my face against them.
 
-[8] And I will make the land desolate, because they have acted faithlessly, declares Lord Yahweh."
+[8] And I will make the land desolate, because they have acted faithlessly, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧."
 
 ## Changes
 

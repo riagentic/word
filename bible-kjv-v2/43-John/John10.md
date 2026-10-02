@@ -10,9 +10,9 @@
 
 [5] A stranger they will not follow, but they will flee from him, for they do not know the voice of strangers."
 
-[6] This figure of speech *Yeshua* used with them, but they did not understand what he was saying to them.
+[6] This figure of speech ⟦yeshua|Yeshua|Jesus⟧ used with them, but they did not understand what he was saying to them.
 
-[7] So *Yeshua* again said to them, "Truly, truly, I say to you, **I am the door of the sheep.**
+[7] So ⟦yeshua|Yeshua|Jesus⟧ again said to them, "Truly, truly, I say to you, **I am the door of the sheep.**
 
 [8] All who came before me are thieves and robbers, but the sheep did not listen to them.
 
@@ -36,19 +36,19 @@
 
 [18] No one takes it from me, but I lay it down of my own accord. I have authority to lay it down, and I have authority to take it up again. This charge I have received from my Father."
 
-[19] There was again a division among the Jews because of these words.
+[19] There was again a division among the ⟦jews|Yehudim|Jews⟧ because of these words.
 
 [20] Many of them said, "He has a demon, and is insane; why listen to him?"
 
 [21] Others said, "These are not the words of one who is oppressed by a demon. Can a demon open the eyes of the blind?"
 
-[22] At that time the Feast of Dedication took place at Jerusalem. It was winter,
+[22] At that time ⟦hanukkah|Chanukkah|the Feast of Dedication⟧ took place at ⟦jerusalem|Yerushalayim|Jerusalem⟧. It was winter,
 
-[23] and *Yeshua* was walking in the temple, in the colonnade of Solomon.
+[23] and ⟦yeshua|Yeshua|Jesus⟧ was walking in the temple, in the colonnade of ⟦solomon|Shlomo|Solomon⟧.
 
-[24] So the Jews gathered around him and said to him, "How long will you keep us in suspense? If you are the *Mashiach*, tell us plainly."
+[24] So the ⟦jews|Yehudim|Jews⟧ gathered around him and said to him, "How long will you keep us in suspense? If you are the ⟦mashiach|Mashiach|Christ⟧, tell us plainly."
 
-[25] *Yeshua* answered them, "I told you, and you do not believe. The works that I do in my Father's name bear witness about me,
+[25] ⟦yeshua|Yeshua|Jesus⟧ answered them, "I told you, and you do not believe. The works that I do in my Father's name bear witness about me,
 
 [26] but you do not believe because you are not among my sheep.
 
@@ -60,17 +60,17 @@
 
 [30] **I and the Father are one.**"
 
-[31] The Jews picked up stones again to stone him.
+[31] The ⟦jews|Yehudim|Jews⟧ picked up stones again to stone him.
 
-[32] *Yeshua* answered them, "I have shown you many good works from the Father; for which of them are you going to stone me?"
+[32] ⟦yeshua|Yeshua|Jesus⟧ answered them, "I have shown you many good works from the Father; for which of them are you going to stone me?"
 
-[33] The Jews answered him, "It is not for a good work that we are going to stone you but for blasphemy, because you, being a man, make yourself *Elohim*."
+[33] The ⟦jews|Yehudim|Jews⟧ answered him, "It is not for a good work that we are going to stone you but for blasphemy, because you, being a man, make yourself ⟦elohim|Elohim|God⟧."
 
-[34] *Yeshua* answered them, "Is it not written in your Law, '**I said, you are gods**'?
+[34] ⟦yeshua|Yeshua|Jesus⟧ answered them, "Is it not written in your ⟦torah|Torah|Law⟧, '**I said, you are gods**'?
 
-[35] If he called them gods to whom the word of *Elohim* came — and Scripture cannot be broken —
+[35] If he called them gods to whom the word of ⟦elohim|Elohim|God⟧ came — and Scripture cannot be broken —
 
-[36] do you say of him whom the Father consecrated and sent into the world, 'You are blaspheming,' because I said, 'I am the Son of *Elohim*'?
+[36] do you say of him whom the Father consecrated and sent into the world, 'You are blaspheming,' because I said, 'I am the Son of ⟦elohim|Elohim|God⟧'?
 
 [37] If I am not doing the works of my Father, then do not believe me;
 
@@ -78,9 +78,9 @@
 
 [39] Again they sought to arrest him, but he escaped from their hands.
 
-[40] He went away again across the Jordan to the place where John had been immersing at first, and there he remained.
+[40] He went away again across the ⟦jordan|Yarden|Jordan⟧ to the place where ⟦john|Yochanan|John⟧ had been ⟦immerse|immersing|baptizing⟧ at first, and there he remained.
 
-[41] And many came to him. And they said, "John did no sign, but everything that John said about this man was true."
+[41] And many came to him. And they said, "⟦john|Yochanan|John⟧ did no sign, but everything that ⟦john|Yochanan|John⟧ said about this man was true."
 
 [42] And many believed in him there.
 

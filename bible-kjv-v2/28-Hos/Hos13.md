@@ -1,7 +1,7 @@
 # Hosea 13
 
-[1] When Ephraim spoke, there was trembling;
-he was exalted in Israel,
+[1] When ⟦ephraim|Efrayim|Ephraim⟧ spoke, there was trembling;
+he was exalted in ⟦israel|Yisrael|Israel⟧,
 but he incurred guilt through Baal and died.
 
 [2] And now they sin more and more,
@@ -16,9 +16,9 @@ or like the dew that goes early away,
 like the chaff that swirls from the threshing floor
 or like smoke from a window.
 
-[4] But I am Yahweh your *Elohim*
-from the land of Egypt;
-you know no *Elohim* but me,
+[4] But I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧
+from the land of ⟦egypt|Mitzrayim|Egypt⟧;
+you know no ⟦elohim|Elohim|God⟧ but me,
 and besides me there is no savior.
 
 [5] It was I who knew you in the wilderness,
@@ -36,7 +36,7 @@ I will tear open their breast,
 and there I will devour them like a lion,
 as a wild beast would rip them open.
 
-[9] He destroys you, O Israel,
+[9] He destroys you, O ⟦israel|Yisrael|Israel⟧,
 for you are against me, against your helper.
 
 [10] Where now is your king, to save you in all your cities?
@@ -47,7 +47,7 @@ those of whom you said,
 [11] I gave you a king in my anger,
 and I took him away in my wrath.
 
-[12] The iniquity of Ephraim is bound up;
+[12] The iniquity of ⟦ephraim|Efrayim|Ephraim⟧ is bound up;
 his sin is kept in store.
 
 [13] The pangs of childbirth come for him,
@@ -62,15 +62,15 @@ O Sheol, where is your sting?**
 Compassion is hidden from my eyes.
 
 [15] Though he may flourish among his brothers,
-the east wind, the wind of Yahweh, shall come,
+the east wind, the wind of ⟦yhwh|Yahweh|the LORD⟧, shall come,
 rising from the wilderness,
 and his fountain shall dry up;
 his spring shall be parched;
 it shall strip his treasury
 of every precious thing.
 
-[16] Samaria shall bear her guilt,
-because she has rebelled against her *Elohim*;
+[16] ⟦samaria|Shomron|Samaria⟧ shall bear her guilt,
+because she has rebelled against her ⟦elohim|Elohim|God⟧;
 they shall fall by the sword;
 their little ones shall be dashed in pieces,
 and their pregnant women ripped open.

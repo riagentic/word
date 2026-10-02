@@ -1,98 +1,98 @@
 # Nehemiah 12
 
-[1] These are the priests and the Levites who went up with Zerubbabel son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,
+[1] These are the priests and the ⟦levites|Leviyim|Levites⟧ who went up with ⟦zerubbabel|Zerubbavel|Zerubbabel⟧ son of Shealtiel, and ⟦jeshua|Yeshua|Jeshua⟧: ⟦seraiah|Serayah|Seraiah⟧, ⟦jeremiah|Yirmeyahu|Jeremiah⟧, Ezra,
 
-[2] Amariah, Malluch, Hattush,
+[2] ⟦amariah|Amaryah|Amariah⟧, Malluch, ⟦hattush|Chattush|Hattush⟧,
 
-[3] Shecaniah, Rehum, Meremoth,
+[3] ⟦shecaniah|Shechanyah|Shecaniah⟧, ⟦rehum|Rechum|Rehum⟧, ⟦meremoth|Meremot|Meremoth⟧,
 
-[4] Iddo, Ginnethon, Abijah,
+[4] Iddo, ⟦ginnethon|Ginneton|Ginnethon⟧, ⟦abijah|Aviyah|Abijah⟧,
 
-[5] Mijamin, Moadiah, Bilgah,
+[5] ⟦mijamin|Miyyamin|Mijamin⟧, ⟦moadiah|Moadyah|Moadiah⟧, Bilgah,
 
-[6] Shemaiah, Joiarib, Jedaiah,
+[6] ⟦shemaiah|Shemayah|Shemaiah⟧, ⟦joiarib|Yoyariv|Joiarib⟧, ⟦jedaiah|Yedayah|Jedaiah⟧,
 
-[7] Sallu, Amok, Hilkiah, Jedaiah. These were the heads of the priests and of their brothers in the days of Jeshua.
+[7] Sallu, ⟦amok|Amoq|Amok⟧, ⟦hilkiah|Chilqiyahu|Hilkiah⟧, ⟦jedaiah|Yedayah|Jedaiah⟧. These were the heads of the priests and of their brothers in the days of ⟦jeshua|Yeshua|Jeshua⟧.
 
-[8] The Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who with his brothers was over the songs of thanksgiving.
+[8] The ⟦levites|Leviyim|Levites⟧: ⟦jeshua|Yeshua|Jeshua⟧, Binnui, ⟦kadmiel|Qadmiel|Kadmiel⟧, ⟦sherebiah|Sherevyah|Sherebiah⟧, ⟦judah|Yehudah|Judah⟧, and ⟦mattaniah|Mattanyah|Mattaniah⟧, who with his brothers was over the songs of thanksgiving.
 
-[9] Bakbukiah and Unni, their brothers, stood opposite them in the watches.
+[9] ⟦bakbukiah|Baqbuqyah|Bakbukiah⟧ and Unni, their brothers, stood opposite them in the watches.
 
-[10] Jeshua fathered Joiakim; Joiakim fathered Eliashib; Eliashib fathered Joiada;
+[10] ⟦jeshua|Yeshua|Jeshua⟧ fathered ⟦joiakim|Yoyaqim|Joiakim⟧; ⟦joiakim|Yoyaqim|Joiakim⟧ fathered ⟦eliashib|Elyashiv|Eliashib⟧; ⟦eliashib|Elyashiv|Eliashib⟧ fathered ⟦joiada|Yoyada|Joiada⟧;
 
-[11] Joiada fathered Jonathan; Jonathan fathered Jaddua.
+[11] ⟦joiada|Yoyada|Joiada⟧ fathered ⟦jonathan|Yehonatan|Jonathan⟧; ⟦jonathan|Yehonatan|Jonathan⟧ fathered ⟦jaddua|Yaddua|Jaddua⟧.
 
-[12] In the days of Joiakim these were the priests, the heads of fathers' houses: of Seraiah, Meraiah; of Jeremiah, Hananiah;
+[12] In the days of ⟦joiakim|Yoyaqim|Joiakim⟧ these were the priests, the heads of fathers' houses: of ⟦seraiah|Serayah|Seraiah⟧, ⟦meraiah|Merayah|Meraiah⟧; of ⟦jeremiah|Yirmeyahu|Jeremiah⟧, ⟦hananiah|Chananyah|Hananiah⟧;
 
-[13] of Ezra, Meshullam; of Amariah, Jehohanan;
+[13] of Ezra, Meshullam; of ⟦amariah|Amaryah|Amariah⟧, ⟦jehohanan|Yehochanan|Jehohanan⟧;
 
-[14] of Malluchi, Jonathan; of Shebaniah, Joseph;
+[14] of Malluchi, ⟦jonathan|Yehonatan|Jonathan⟧; of ⟦shebaniah|Shevanyah|Shebaniah⟧, ⟦joseph|Yosef|Joseph⟧;
 
-[15] of Harim, Adna; of Meraioth, Helkai;
+[15] of ⟦harim|Charim|Harim⟧, Adna; of ⟦meraioth|Merayot|Meraioth⟧, ⟦helkai|Chelqai|Helkai⟧;
 
-[16] of Iddo, Zechariah; of Ginnethon, Meshullam;
+[16] of Iddo, ⟦zechariah|Zecharyah|Zechariah⟧; of ⟦ginnethon|Ginneton|Ginnethon⟧, Meshullam;
 
-[17] of Abijah, Zichri; of Miniamin and of Moadiah, Piltai;
+[17] of ⟦abijah|Aviyah|Abijah⟧, Zichri; of ⟦miniamin|Minyamin|Miniamin⟧ and of ⟦moadiah|Moadyah|Moadiah⟧, Piltai;
 
-[18] of Bilgah, Shammua; of Shemaiah, Jehonathan;
+[18] of Bilgah, Shammua; of ⟦shemaiah|Shemayah|Shemaiah⟧, ⟦jehonathan|Yehonatan|Jehonathan⟧;
 
-[19] of Joiarib, Mattenai; of Jedaiah, Uzzi;
+[19] of ⟦joiarib|Yoyariv|Joiarib⟧, Mattenai; of ⟦jedaiah|Yedayah|Jedaiah⟧, Uzzi;
 
-[20] of Sallai, Kallai; of Amok, Eber;
+[20] of Sallai, ⟦kallai|Qallai|Kallai⟧; of ⟦amok|Amoq|Amok⟧, ⟦eber|Ever|Eber⟧;
 
-[21] of Hilkiah, Hashabiah; of Jedaiah, Nethanel.
+[21] of ⟦hilkiah|Chilqiyahu|Hilkiah⟧, ⟦hashabiah|Chashavyah|Hashabiah⟧; of ⟦jedaiah|Yedayah|Jedaiah⟧, ⟦nethanel|Netanel|Nethanel⟧.
 
-[22] The Levites in the days of Eliashib, Joiada, Johanan, and Jaddua were recorded as heads of fathers' houses; also the priests, until the reign of Darius the Persian.
+[22] The ⟦levites|Leviyim|Levites⟧ in the days of ⟦eliashib|Elyashiv|Eliashib⟧, ⟦joiada|Yoyada|Joiada⟧, ⟦johanan|Yochanan|Johanan⟧, and ⟦jaddua|Yaddua|Jaddua⟧ were recorded as heads of fathers' houses; also the priests, until the reign of ⟦darius|Daryavesh|Darius⟧ the ⟦persians|Parsi|Persian⟧.
 
-[23] The sons of Levi, heads of fathers' houses, were written in the Book of the Chronicles until the days of Johanan son of Eliashib.
+[23] The sons of Levi, heads of fathers' houses, were written in the Book of the Chronicles until the days of ⟦johanan|Yochanan|Johanan⟧ son of ⟦eliashib|Elyashiv|Eliashib⟧.
 
-[24] The heads of the Levites: Hashabiah, Sherebiah, and Jeshua son of Kadmiel, with their brothers standing opposite them, to praise and to give thanks according to the commandment of David the man of *Elohim* — watch corresponding to watch.
+[24] The heads of the ⟦levites|Leviyim|Levites⟧: ⟦hashabiah|Chashavyah|Hashabiah⟧, ⟦sherebiah|Sherevyah|Sherebiah⟧, and ⟦jeshua|Yeshua|Jeshua⟧ son of ⟦kadmiel|Qadmiel|Kadmiel⟧, with their brothers standing opposite them, to praise and to give thanks according to the commandment of David the man of ⟦elohim|Elohim|God⟧ — watch corresponding to watch.
 
-[25] Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon, and Akkub were gatekeepers keeping watch at the thresholds of the gates.
+[25] ⟦mattaniah|Mattanyah|Mattaniah⟧, ⟦bakbukiah|Baqbuqyah|Bakbukiah⟧, ⟦obadiah|Ovadyahu|Obadiah⟧, Meshullam, Talmon, and ⟦akkub|Aqquv|Akkub⟧ were gatekeepers keeping watch at the thresholds of the gates.
 
-[26] These were in the days of Joiakim son of Jeshua son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest and scribe.
+[26] These were in the days of ⟦joiakim|Yoyaqim|Joiakim⟧ son of ⟦jeshua|Yeshua|Jeshua⟧ son of ⟦jozadak|Yotzadaq|Jozadak⟧, and in the days of ⟦nehemiah|Nechemyah|Nehemiah⟧ the governor, and of Ezra the priest and scribe.
 
-[27] At the dedication of the wall of Jerusalem they sought out the Levites from all their places to bring them to Jerusalem, to celebrate the dedication with gladness — with thanksgivings and singing, with cymbals, harps, and lyres.
+[27] At the dedication of the wall of ⟦jerusalem|Yerushalayim|Jerusalem⟧ they sought out the ⟦levites|Leviyim|Levites⟧ from all their places to bring them to ⟦jerusalem|Yerushalayim|Jerusalem⟧, to celebrate the dedication with gladness — with thanksgivings and singing, with cymbals, harps, and lyres.
 
-[28] The sons of the singers gathered together from the circuit around Jerusalem and from the villages of the Netophathites;
+[28] The sons of the singers gathered together from the circuit around ⟦jerusalem|Yerushalayim|Jerusalem⟧ and from the villages of the ⟦netophathites|Netofati|Netophathites⟧;
 
-[29] also from Beth-gilgal and from the fields of Geba and Azmaveth, for the singers had built themselves villages around Jerusalem.
+[29] also from ⟦beth-gilgal|Beit HaGilgal|Beth-gilgal⟧ and from the fields of ⟦geba|Geva|Geba⟧ and ⟦azmaveth|Azmavet|Azmaveth⟧, for the singers had built themselves villages around ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[30] The priests and the Levites purified themselves; they also purified the people, the gates, and the wall.
+[30] The priests and the ⟦levites|Leviyim|Levites⟧ purified themselves; they also purified the people, the gates, and the wall.
 
-[31] Then I brought the officials of Judah up on the wall and appointed two great thanksgiving choirs. One went to the right on the wall, toward the Dung Gate.
+[31] Then I brought the officials of ⟦judah|Yehudah|Judah⟧ up on the wall and appointed two great thanksgiving choirs. One went to the right on the wall, toward the Dung Gate.
 
-[32] After them went Hoshaiah and half of the officials of Judah,
+[32] After them went ⟦hoshaiah|Hoshayah|Hoshaiah⟧ and half of the officials of ⟦judah|Yehudah|Judah⟧,
 
-[33] along with Azariah, Ezra, Meshullam,
+[33] along with ⟦azariah|Azaryah|Azariah⟧, Ezra, Meshullam,
 
-[34] Judah, Benjamin, Shemaiah, and Jeremiah.
+[34] ⟦judah|Yehudah|Judah⟧, ⟦benjamin|Binyamin|Benjamin⟧, ⟦shemaiah|Shemayah|Shemaiah⟧, and ⟦jeremiah|Yirmeyahu|Jeremiah⟧.
 
-[35] Some of the priests' sons carried trumpets: Zechariah son of Jonathan son of Shemaiah son of Mattaniah son of Micaiah son of Zaccur son of Asaph.
+[35] Some of the priests' sons carried trumpets: ⟦zechariah|Zecharyah|Zechariah⟧ son of ⟦jonathan|Yehonatan|Jonathan⟧ son of ⟦shemaiah|Shemayah|Shemaiah⟧ son of ⟦mattaniah|Mattanyah|Mattaniah⟧ son of ⟦micaiah|Michayehu|Micaiah⟧ son of ⟦zaccur|Zakkur|Zaccur⟧ son of ⟦asaph|Asaf|Asaph⟧.
 
-[36] And his brothers Shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel, Judah, and Hanani, with the instruments of music of David the man of *Elohim*; and Ezra the scribe was at their head.
+[36] And his brothers ⟦shemaiah|Shemayah|Shemaiah⟧, Azarel, Milalai, Gilalai, Maai, ⟦nethanel|Netanel|Nethanel⟧, ⟦judah|Yehudah|Judah⟧, and ⟦hanani|Chanani|Hanani⟧, with the instruments of music of David the man of ⟦elohim|Elohim|God⟧; and Ezra the scribe was at their head.
 
 [37] At the Fountain Gate they went straight up by the stairs of the city of David, at the ascent of the wall, above the house of David, to the Water Gate on the east.
 
 [38] The other thanksgiving choir went in the opposite direction; I followed them with half of the people, on the wall, above the Tower of the Ovens, to the Broad Wall,
 
-[39] above the Gate of Ephraim, the Jeshanah Gate, the Fish Gate, the Tower of Hananel, the Tower of the Hundred, as far as the Sheep Gate; they stopped at the Gate of the Guard.
+[39] above the Gate of ⟦ephraim|Efrayim|Ephraim⟧, the Yeshanah Gate, the Fish Gate, the Tower of ⟦hananel|Chananel|Hananel⟧, the Tower of the Hundred, as far as the Sheep Gate; they stopped at the Gate of the Guard.
 
-[40] The two choirs of thanksgiving took their stations at the house of *Elohim*; I also, and half of the officials with me,
+[40] The two choirs of thanksgiving took their stations at the house of ⟦elohim|Elohim|God⟧; I also, and half of the officials with me,
 
-[41] and the priests Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah, and Hananiah, with trumpets,
+[41] and the priests ⟦eliakim|Elyaqim|Eliakim⟧, ⟦maaseiah|Maaseyah|Maaseiah⟧, ⟦miniamin|Minyamin|Miniamin⟧, ⟦micaiah|Michayehu|Micaiah⟧, ⟦elioenai|Elyoenai|Elioenai⟧, ⟦zechariah|Zecharyah|Zechariah⟧, and ⟦hananiah|Chananyah|Hananiah⟧, with trumpets,
 
-[42] and Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malchijah, Elam, and Ezer. The singers sang loudly, under Jezrahiah the leader.
+[42] and ⟦maaseiah|Maaseyah|Maaseiah⟧, ⟦shemaiah|Shemayah|Shemaiah⟧, ⟦eleazar|Elazar|Eleazar⟧, Uzzi, ⟦jehohanan|Yehochanan|Jehohanan⟧, ⟦malchijah|Malkiyah|Malchijah⟧, Elam, and Ezer. The singers sang loudly, under ⟦jezrahiah|Yizrachyah|Jezrahiah⟧ the leader.
 
-[43] They offered great sacrifices that day and rejoiced, for *Elohim* had made them rejoice with great joy; the women and children also rejoiced, so that the joy of Jerusalem was heard far away.
+[43] They offered great sacrifices that day and rejoiced, for ⟦elohim|Elohim|God⟧ had made them rejoice with great joy; the women and children also rejoiced, so that the joy of ⟦jerusalem|Yerushalayim|Jerusalem⟧ was heard far away.
 
-[44] On that day men were appointed over the chambers for the storehouses, for the contributions, the firstfruits, and the tithes, to gather into them from the fields of the towns the portions required by the Law for the priests and the Levites; for Judah rejoiced over the priests and the Levites who ministered.
+[44] On that day men were appointed over the chambers for the storehouses, for the contributions, the firstfruits, and the tithes, to gather into them from the fields of the towns the portions required by the ⟦torah|Torah|Law⟧ for the priests and the ⟦levites|Leviyim|Levites⟧; for ⟦judah|Yehudah|Judah⟧ rejoiced over the priests and the ⟦levites|Leviyim|Levites⟧ who ministered.
 
-[45] They kept the charge of their *Elohim* and the charge of purification, and the singers and gatekeepers did likewise, according to the commandment of David and Solomon his son.
+[45] They kept the charge of their ⟦elohim|Elohim|God⟧ and the charge of purification, and the singers and gatekeepers did likewise, according to the commandment of David and ⟦solomon|Shlomo|Solomon⟧ his son.
 
-[46] For long ago, in the days of David and Asaph, there were leaders of the singers, and there were songs of praise and thanksgiving to *Elohim*.
+[46] For long ago, in the days of David and ⟦asaph|Asaf|Asaph⟧, there were leaders of the singers, and there were songs of praise and thanksgiving to ⟦elohim|Elohim|God⟧.
 
-[47] In the days of Zerubbabel and in the days of Nehemiah, all Israel gave the portions of the singers and the gatekeepers, each day's required portion; they consecrated things for the Levites, and the Levites consecrated them for the sons of Aaron.
+[47] In the days of ⟦zerubbabel|Zerubbavel|Zerubbabel⟧ and in the days of ⟦nehemiah|Nechemyah|Nehemiah⟧, all ⟦israel|Yisrael|Israel⟧ gave the portions of the singers and the gatekeepers, each day's required portion; they consecrated things for the ⟦levites|Leviyim|Levites⟧, and the ⟦levites|Leviyim|Levites⟧ consecrated them for the sons of ⟦aaron|Aharon|Aaron⟧.
 
 ## Changes
 

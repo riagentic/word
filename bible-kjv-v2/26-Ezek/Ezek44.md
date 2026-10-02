@@ -2,33 +2,33 @@
 
 [1] Then he brought me back to the outer gate of the sanctuary, which faces east. And it was shut.
 
-[2] And Yahweh said to me, "This gate shall remain shut; it shall not be opened, and no one shall enter by it, for Yahweh, the *Elohim* of Israel, has entered by it. Therefore it shall remain shut.
+[2] And ⟦yhwh|Yahweh|the LORD⟧ said to me, "This gate shall remain shut; it shall not be opened, and no one shall enter by it, for ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧, has entered by it. Therefore it shall remain shut.
 
-[3] Only the prince may sit in it to eat bread before Yahweh. He shall enter by way of the vestibule of the gate, and shall go out by the same way."
+[3] Only the prince may sit in it to eat bread before ⟦yhwh|Yahweh|the LORD⟧. He shall enter by way of the vestibule of the gate, and shall go out by the same way."
 
-[4] Then he brought me by way of the north gate to the front of the temple, and I looked, and behold, the glory of Yahweh filled the temple of Yahweh. And I fell on my face.
+[4] Then he brought me by way of the north gate to the front of the temple, and I looked, and behold, the glory of ⟦yhwh|Yahweh|the LORD⟧ filled the temple of ⟦yhwh|Yahweh|the LORD⟧. And I fell on my face.
 
-[5] And Yahweh said to me, "Son of man, mark well, see with your eyes, and hear with your ears all that I shall tell you concerning all the statutes of the temple of Yahweh and all its laws. And mark well the entrance to the temple and all the exits from the sanctuary.
+[5] And ⟦yhwh|Yahweh|the LORD⟧ said to me, "Son of man, mark well, see with your eyes, and hear with your ears all that I shall tell you concerning all the statutes of the temple of ⟦yhwh|Yahweh|the LORD⟧ and all its ⟦torah|torot|laws⟧. And mark well the entrance to the temple and all the exits from the sanctuary.
 
-[6] And say to the rebellious house, to the house of Israel, Thus says Lord Yahweh: O house of Israel, enough of all your abominations,
+[6] And say to the rebellious house, to the house of ⟦israel|Yisrael|Israel⟧, Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: O house of ⟦israel|Yisrael|Israel⟧, enough of all your abominations,
 
 [7] in admitting foreigners, uncircumcised in heart and flesh, to be in my sanctuary, profaning my temple, when you offer to me my food, the fat and the blood. You have broken my covenant, in addition to all your abominations.
 
 [8] And you have not kept charge of my holy things, but you have set others to keep my charge for you in my sanctuary.
 
-[9] "Thus says Lord Yahweh: No foreigner, uncircumcised in heart and flesh, of all the foreigners who are among the people of Israel, shall enter my sanctuary.
+[9] "Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: No foreigner, uncircumcised in heart and flesh, of all the foreigners who are among the people of ⟦israel|Yisrael|Israel⟧, shall enter my sanctuary.
 
-[10] "But the Levites who went far from me, going astray from me after their idols when Israel went astray, shall bear their punishment.
+[10] "But the ⟦levites|Leviyim|Levites⟧ who went far from me, going astray from me after their idols when ⟦israel|Yisrael|Israel⟧ went astray, shall bear their punishment.
 
 [11] They shall be ministers in my sanctuary, having oversight at the gates of the temple and ministering in the temple. They shall slaughter the burnt offering and the sacrifice for the people, and they shall stand before the people, to minister to them.
 
-[12] Because they ministered to them before their idols and became a stumbling block of iniquity to the house of Israel, therefore I have sworn concerning them, declares Lord Yahweh, that they shall bear their punishment.
+[12] Because they ministered to them before their idols and became a stumbling block of iniquity to the house of ⟦israel|Yisrael|Israel⟧, therefore I have sworn concerning them, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧, that they shall bear their punishment.
 
 [13] They shall not come near to me, to serve me as priest, nor come near any of my holy things and the things that are most holy, but they shall bear their shame and the abominations that they have committed.
 
 [14] Yet I will appoint them to keep charge of the temple, to do all its service and all that is to be done in it.
 
-[15] "But the **Levitical priests, the sons of Zadok**, who kept the charge of my sanctuary when the people of Israel went astray from me, shall come near to me to minister to me. And they shall stand before me to offer me the fat and the blood, declares Lord Yahweh.
+[15] "But the **Levitical priests, the sons of ⟦zadok|Tzadoq|Zadok⟧**, who kept the charge of my sanctuary when the people of ⟦israel|Yisrael|Israel⟧ went astray from me, shall come near to me to minister to me. And they shall stand before me to offer me the fat and the blood, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.
 
 [16] They shall enter my sanctuary, and they shall approach my table, to minister to me, and they shall keep my charge.
 
@@ -42,21 +42,21 @@
 
 [21] No priest shall drink wine when he enters the inner court.
 
-[22] They shall not marry a widow or a divorced woman, but only virgins of the offspring of the house of Israel, or a widow who is the widow of a priest.
+[22] They shall not marry a widow or a divorced woman, but only virgins of the offspring of the house of ⟦israel|Yisrael|Israel⟧, or a widow who is the widow of a priest.
 
 [23] "They shall teach my people the difference between the holy and the common, and show them how to distinguish between the unclean and the clean.
 
-[24] In a dispute, they shall act as judges, and they shall judge it according to my judgments. They shall keep my laws and my statutes in all my appointed feasts, and they shall keep my Sabbaths holy.
+[24] In a dispute, they shall act as judges, and they shall judge it according to my judgments. They shall keep my ⟦torah|torot|laws⟧ and my statutes in all my appointed feasts, and they shall keep my ⟦shabbat|Shabbatot|Sabbaths⟧ holy.
 
 [25] "They shall not defile themselves by going near to a dead person. However, for father or mother, for son or daughter, for brother or unmarried sister they may defile themselves.
 
 [26] After he has become clean, they shall count seven days for him.
 
-[27] And on the day that he goes into the Holy Place, into the inner court, to minister in the Holy Place, he shall offer his sin offering, declares Lord Yahweh.
+[27] And on the day that he goes into the Holy Place, into the inner court, to minister in the Holy Place, he shall offer his sin offering, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.
 
-[28] "This shall be their inheritance: I am their inheritance. And you shall give them no possession in Israel; I am their possession.
+[28] "This shall be their inheritance: I am their inheritance. And you shall give them no possession in ⟦israel|Yisrael|Israel⟧; I am their possession.
 
-[29] They shall eat the grain offering, the sin offering, and the guilt offering, and every devoted thing in Israel shall be theirs.
+[29] They shall eat the grain offering, the sin offering, and the guilt offering, and every devoted thing in ⟦israel|Yisrael|Israel⟧ shall be theirs.
 
 [30] And the first of all the firstfruits of all kinds, and every offering of all kinds from all your offerings, shall belong to the priests. You shall also give to the priests the first of your dough, that a blessing may rest on your house.
 

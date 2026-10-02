@@ -5,19 +5,19 @@ the desert shall rejoice and blossom like the crocus;
 
 [2] it shall blossom abundantly
 and rejoice with joy and singing.
-The glory of Lebanon shall be given to it,
-the majesty of Carmel and Sharon.
-They shall see the glory of Yahweh,
-the majesty of our *Elohim*.
+The glory of ⟦lebanon|Levanon|Lebanon⟧ shall be given to it,
+the majesty of ⟦carmel|Karmel|Carmel⟧ and Sharon.
+They shall see the glory of ⟦yhwh|Yahweh|the LORD⟧,
+the majesty of our ⟦elohim|Elohim|God⟧.
 
 [3] Strengthen the weak hands,
 and make firm the feeble knees.
 
 [4] Say to those who have an anxious heart,
 "Be strong; fear not!
-Behold, your *Elohim*
+Behold, your ⟦elohim|Elohim|God⟧
 will come with vengeance,
-with the recompense of *Elohim*.
+with the recompense of ⟦elohim|Elohim|God⟧.
 He will come and save you."
 
 [5] Then the eyes of the blind shall be opened,
@@ -44,8 +44,8 @@ nor shall any ravenous beast come up on it;
 they shall not be found there,
 but the redeemed shall walk there.
 
-[10] And the ransomed of Yahweh shall return
-and come to Zion with singing;
+[10] And the ransomed of ⟦yhwh|Yahweh|the LORD⟧ shall return
+and come to ⟦zion|Tziyon|Zion⟧ with singing;
 everlasting joy shall be upon their heads;
 they shall obtain gladness and joy,
 and sorrow and sighing shall flee away.

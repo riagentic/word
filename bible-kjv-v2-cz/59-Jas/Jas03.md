@@ -12,13 +12,13 @@
 
 Jak veliký les zapálí tak malý oheň!
 
-[6] A **jazyk je oheň**, svět nespravedlnosti. Jazyk je zasazen mezi našimi údy, poskvrňuje celé tělo, zapaluje celý běh života a sám je zapalován Gehennou.
+[6] A **jazyk je oheň**, svět nespravedlnosti. Jazyk je zasazen mezi našimi údy, poskvrňuje celé tělo, zapaluje celý běh života a sám je zapalován ⟦gehenna|Gehennou|peklem⟧.
 
 [7] Každý druh zvěře a ptáků, plazů i mořských tvorů může být zkrocen a byl zkrocen lidským pokolením,
 
 [8] ale jazyk nedokáže zkrotit nikdo z lidí. Je to neklidné zlo, plné smrtícího jedu.
 
-[9] Jím dobrořečíme našemu Pánu a Otci a jím proklínáme lidi, kteří jsou stvořeni k podobě *Elohim*.
+[9] Jím dobrořečíme našemu Pánu a Otci a jím proklínáme lidi, kteří jsou stvořeni k podobě ⟦elohim|Elohim|Boží⟧.
 
 [10] Z týchž úst vychází dobrořečení i prokletí. Moji bratři, tak tomu nemá být.
 

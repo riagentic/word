@@ -1,13 +1,13 @@
 # Proverbs 21
 
-[1] The king's heart is a stream of water in the hand of Yahweh;
+[1] The king's heart is a stream of water in the hand of ⟦yhwh|Yahweh|the LORD⟧;
 he turns it wherever he will.
 
 [2] Every way of a man is right in his own eyes,
-but Yahweh weighs the heart.
+but ⟦yhwh|Yahweh|the LORD⟧ weighs the heart.
 
 [3] To do righteousness and justice
-is more acceptable to Yahweh than sacrifice.
+is more acceptable to ⟦yhwh|Yahweh|the LORD⟧ than sacrifice.
 
 [4] Haughty eyes and a proud heart —
 the lamp of the wicked — are sin.
@@ -88,10 +88,10 @@ but the word of a man who hears will endure.
 but the upright gives thought to his ways.
 
 [30] No wisdom, no understanding, no counsel
-can avail against Yahweh.
+can avail against ⟦yhwh|Yahweh|the LORD⟧.
 
 [31] The horse is made ready for the day of battle,
-but the victory belongs to Yahweh.
+but the victory belongs to ⟦yhwh|Yahweh|the LORD⟧.
 
 ## Changes
 

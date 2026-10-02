@@ -4,9 +4,9 @@
 
 [2] A hle, od horní brány, která je obrácena k severu, přišlo šest mužů, každý se svou zbraní k zabíjení v ruce, a s nimi byl muž oděný lnem, s písařským pouzdrem u pasu. Vešli a postavili se vedle bronzového oltáře.
 
-[3] Sláva *Elohim* Israele se zatím zvedla od cheruba, na němž spočívala, k prahu domu. I zavolal na muže oděného lnem, který měl u pasu písařské pouzdro.
+[3] Sláva ⟦elohim|Elohim|Boha⟧ ⟦israel|Jisraele|Izraele⟧ se zatím zvedla od ⟦cherub|keruva|cheruba⟧, na němž spočívala, k prahu domu. I zavolal na muže oděného lnem, který měl u pasu písařské pouzdro.
 
-[4] A Yahweh mu řekl: „Projdi městem, Jerusalemem, a udělej znamení – na čela mužů, kteří vzdychají a sténají nad všemi ohavnostmi, které se v něm páchají.“
+[4] A ⟦yhwh|Jahve|Hospodin⟧ mu řekl: „Projdi městem, ⟦jerusalem|Jerušalajim|Jeruzalémem⟧, a udělej znamení – na čela mužů, kteří vzdychají a sténají nad všemi ohavnostmi, které se v něm páchají.“
 
 [5] A ostatním řekl, tak abych to slyšel: „Projděte městem za ním a bijte. Vaše oko nebude šetřit a nebudete mít slitování.
 
@@ -14,9 +14,9 @@
 
 [7] Tu jim řekl: „Poskvrňte dům a naplňte nádvoří zabitými. Vyjděte.“ Vyšli tedy a bili ve městě.
 
-[8] A zatímco bili a já jsem zůstal sám, padl jsem na tvář a zvolal: „Ach, Pane Yahweh! Zničíš celý pozůstatek Israele, až vyliješ svou zlobu na Jerusalem?“
+[8] A zatímco bili a já jsem zůstal sám, padl jsem na tvář a zvolal: „Ach, ⟦adonai-yhwh|Pane Jahve|Panovníku Hospodine⟧! Zničíš celý pozůstatek ⟦israel|Jisraele|Izraele⟧, až vyliješ svou zlobu na ⟦jerusalem|Jerušalajim|Jeruzalém⟧?“
 
-[9] Tu mi řekl: „Vina domu Israele a Judah je převeliká. Země je plná krve a město plné bezpráví. Neboť říkají: ‚Yahweh opustil zemi a Yahweh nevidí.‘
+[9] Tu mi řekl: „Vina domu ⟦israel|Jisraele|Izraele⟧ a ⟦judah|Jehudy|Judy⟧ je převeliká. Země je plná krve a město plné bezpráví. Neboť říkají: ‚⟦yhwh|Jahve|Hospodin⟧ opustil zemi a ⟦yhwh|Jahve|Hospodin⟧ nevidí.‘
 
 [10] Pokud jde o mne, mé oko nebude šetřit a nebudu mít slitování; uvedu jejich skutky na jejich hlavy.“
 

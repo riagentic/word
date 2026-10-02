@@ -4,23 +4,23 @@
 
 [2] Pro ni totiž předkové dosáhli dobrého svědectví.
 
-[3] Vírou chápeme, že vesmír byl stvořen slovem *Elohim*, takže to, co vidíme, nevzniklo z věcí viditelných.
+[3] Vírou chápeme, že vesmír byl stvořen slovem ⟦elohim|Elohim|Božím⟧, takže to, co vidíme, nevzniklo z věcí viditelných.
 
-[4] Vírou přinesl Abel *Elohim* přijatelnější oběť než Cain; skrze ni dosáhl svědectví, že je spravedlivý, neboť *Elohim* se přiznal k jeho darům tím, že je přijal. A skrze svou víru, ač zemřel, ještě mluví.
+[4] Vírou přinesl ⟦abel|Hevel|Ábel⟧ ⟦elohim|Elohim|Bohu⟧ přijatelnější oběť než ⟦cain|Kajin|Kain⟧; skrze ni dosáhl svědectví, že je spravedlivý, neboť ⟦elohim|Elohim|Bůh⟧ se přiznal k jeho darům tím, že je přijal. A skrze svou víru, ač zemřel, ještě mluví.
 
-[5] Vírou byl Enoch přenesen, aby neuviděl smrt, a nebylo ho k nalezení, protože ho *Elohim* přenesl. Ještě před přenesením o něm bylo dosvědčeno, že se líbil *Elohim*.
+[5] Vírou byl ⟦enoch|Chanoch|Henoch⟧ přenesen, aby neuviděl smrt, a nebylo ho k nalezení, protože ho ⟦elohim|Elohim|Bůh⟧ přenesl. Ještě před přenesením o něm bylo dosvědčeno, že se líbil ⟦elohim|Elohim|Bohu⟧.
 
-[6] Bez víry však není možné se mu líbit, neboť kdo chce přistoupit k *Elohim*, musí věřit, že je a že odměňuje ty, kdo ho hledají.
+[6] Bez víry však není možné se mu líbit, neboť kdo chce přistoupit k ⟦elohim|Elohim|Bohu⟧, musí věřit, že je a že odměňuje ty, kdo ho hledají.
 
-[7] Vírou Noah, když byl od *Elohim* varován před tím, co ještě nebylo vidět, v posvátné bázni postavil archu k záchraně své rodiny. Tím odsoudil svět a stal se dědicem spravedlnosti, která je z víry.
+[7] Vírou ⟦noah|Noach|Noe⟧, když byl od ⟦elohim|Elohim|Boha⟧ varován před tím, co ještě nebylo vidět, v posvátné bázni postavil archu k záchraně své rodiny. Tím odsoudil svět a stal se dědicem spravedlnosti, která je z víry.
 
-[8] Vírou uposlechl Abraham, když byl povolán, aby odešel na místo, které měl přijmout za dědictví. A vyšel, aniž věděl, kam jde.
+[8] Vírou uposlechl ⟦abraham|Avraham|Abraham⟧, když byl povolán, aby odešel na místo, které měl přijmout za dědictví. A vyšel, aniž věděl, kam jde.
 
-[9] Vírou se usadil v zaslíbené zemi jako v cizí zemi a bydlel ve stanech s Isaacem a Jacobem, spoludědici téhož zaslíbení.
+[9] Vírou se usadil v zaslíbené zemi jako v cizí zemi a bydlel ve stanech s ⟦isaac|Jicchakem|Izákem⟧ a ⟦jacob|Jaakovem|Jákobem⟧, spoludědici téhož zaslíbení.
 
-[10] Očekával totiž město, které má základy, jehož projektantem a stavitelem je *Elohim*.
+[10] Očekával totiž město, které má základy, jehož projektantem a stavitelem je ⟦elohim|Elohim|Bůh⟧.
 
-[11] Vírou i sama Sarah přijala moc počít, ačkoli už byla za hranicí věku, protože pokládala za věrného toho, který dal zaslíbení.
+[11] Vírou i sama ⟦sarah|Sara|Sára⟧ přijala moc počít, ačkoli už byla za hranicí věku, protože pokládala za věrného toho, který dal zaslíbení.
 
 [12] Proto se z jednoho muže, a to už téměř mrtvého, narodilo potomstvo tak početné jako hvězdy na nebi a jako nesčetná zrnka písku na mořském břehu.
 
@@ -30,39 +30,39 @@
 
 [15] Kdyby měli na mysli tu zemi, z níž vyšli, měli by příležitost se vrátit.
 
-[16] Nyní však touží po lepší vlasti, totiž nebeské. Proto se *Elohim* nestydí nazývat se jejich *Elohim*, neboť jim připravil město.
+[16] Nyní však touží po lepší vlasti, totiž nebeské. Proto se ⟦elohim|Elohim|Bůh⟧ nestydí nazývat se jejich ⟦elohim|Elohim|Bohem⟧, neboť jim připravil město.
 
-[17] Vírou Abraham, když byl zkoušen, obětoval Isaaca; ten, který přijal zaslíbení, obětoval svého jediného syna,
+[17] Vírou ⟦abraham|Avraham|Abraham⟧, když byl zkoušen, obětoval ⟦isaac|Jicchaka|Izáka⟧; ten, který přijal zaslíbení, obětoval svého jediného syna,
 
-[18] o němž bylo řečeno: „**Podle Isaaca bude pojmenováno tvé potomstvo**.“
+[18] o němž bylo řečeno: „**Podle ⟦isaac|Jicchaka|Izáka⟧ bude pojmenováno tvé potomstvo**.“
 
-[19] Usoudil, že *Elohim* je mocen i vzkřísit z mrtvých; odtud ho také, obrazně řečeno, dostal zpět.
+[19] Usoudil, že ⟦elohim|Elohim|Bůh⟧ je mocen i vzkřísit z mrtvých; odtud ho také, obrazně řečeno, dostal zpět.
 
-[20] Vírou Isaac vyprosil budoucí požehnání Jacobovi a Esauovi.
+[20] Vírou ⟦isaac|Jicchak|Izák⟧ vyprosil budoucí požehnání ⟦jacob|Jaakovovi|Jákobovi⟧ a ⟦esau|Esavovi|Ezauovi⟧.
 
-[21] Vírou Jacob, když umíral, požehnal každému z Josephových synů a poklonil se, opřen o vrchol své hole.
+[21] Vírou ⟦jacob|Jaakov|Jákob⟧, když umíral, požehnal každému z Josefových synů a poklonil se, opřen o vrchol své hole.
 
-[22] Vírou Joseph na sklonku života připomněl odchod Israelitů a dal pokyny o svých kostech.
+[22] Vírou Josef na sklonku života připomněl odchod ⟦israelite|Jisraelim|Izraelců⟧ a dal pokyny o svých kostech.
 
-[23] Vírou byl Moses po svém narození tři měsíce ukrýván svými rodiči, protože viděli, že dítě je krásné, a nebáli se královského nařízení.
+[23] Vírou byl ⟦moses|Moše|Mojžíš⟧ po svém narození tři měsíce ukrýván svými rodiči, protože viděli, že dítě je krásné, a nebáli se královského nařízení.
 
-[24] Vírou Moses, když dospěl, odmítl nazývat se synem Pharaohovy dcery;
+[24] Vírou ⟦moses|Moše|Mojžíš⟧, když dospěl, odmítl nazývat se synem ⟦pharaoh|Parohovy|faraónovy⟧ dcery;
 
-[25] raději si zvolil snášet zlé zacházení spolu s lidem *Elohim*, než užívat pomíjivých rozkoší hříchu.
+[25] raději si zvolil snášet zlé zacházení spolu s lidem ⟦elohim|Elohim|Božím⟧, než užívat pomíjivých rozkoší hříchu.
 
-[26] Potupu *Mashiacha* pokládal za větší bohatství než poklady Egypta, neboť hleděl k odměně.
+[26] Potupu ⟦mashiach|Mašiacha|Krista⟧ pokládal za větší bohatství než poklady ⟦egypt|Micrajim|Egypta⟧, neboť hleděl k odměně.
 
-[27] Vírou opustil Egypt a nebál se králova hněvu, neboť vytrval, jako by viděl toho, který je neviditelný.
+[27] Vírou opustil ⟦egypt|Micrajim|Egypt⟧ a nebál se králova hněvu, neboť vytrval, jako by viděl toho, který je neviditelný.
 
-[28] Vírou slavil Paschu a vykonal pokropení krví, aby se jich nedotkl Zhoubce prvorozených.
+[28] Vírou slavil ⟦pesach|Pesach|velikonoce⟧ a vykonal pokropení krví, aby se jich nedotkl Zhoubce prvorozených.
 
-[29] Vírou prošel lid Rudým mořem jako po suché zemi, ale Egypťané, když se o to pokusili, utonuli.
+[29] Vírou prošel lid Rudým mořem jako po suché zemi, ale ⟦egyptians|Micrim|Egypťané⟧, když se o to pokusili, utonuli.
 
 [30] Vírou padly hradby Jericha, když je sedm dní obcházeli.
 
-[31] Vírou nezahynula nevěstka Rahab s neposlušnými, protože přátelsky přijala zvědy.
+[31] Vírou nezahynula nevěstka ⟦rahab|Rachav|Rachab⟧ s neposlušnými, protože přátelsky přijala zvědy.
 
-[32] A co ještě mám říci? Nestačil by mi čas, abych vyprávěl o Gideonovi, Barakovi, Samsonovi, Jephthahovi, o Davidovi, Samuelovi a o prorocích –
+[32] A co ještě mám říci? Nestačil by mi čas, abych vyprávěl o ⟦gideon|Gidonovi|Gedeónovi⟧, ⟦barak|Barakovi|Barákovi⟧, ⟦samson|Šimšonovi|Samsonovi⟧, ⟦jephthah|Jiftachovi|Jeftovi⟧, o Davidovi, ⟦samuel|Šmuelovi|Samuelovi⟧ a o prorocích –
 
 [33] kteří skrze víru dobyli království, prosadili spravedlnost, dosáhli zaslíbení, zavřeli tlamy lvům,
 
@@ -78,7 +78,7 @@
 
 [39] A ti všichni, ač pro svou víru dosáhli dobrého svědectví, neobdrželi, co bylo zaslíbeno,
 
-[40] protože *Elohim* pro nás připravil něco lepšího, aby nedošli dokonalosti bez nás.
+[40] protože ⟦elohim|Elohim|Bůh⟧ pro nás připravil něco lepšího, aby nedošli dokonalosti bez nás.
 
 ## Změny
 

@@ -1,6 +1,6 @@
 # Proverbs 30
 
-[1] The words of Agur son of Jakeh. The oracle. The man declares to Ithiel, to Ithiel and Ucal:
+[1] The words of Agur son of ⟦jakeh|Yaqeh|Jakeh⟧. The oracle. The man declares to ⟦ithiel|Itiel|Ithiel⟧, to ⟦ithiel|Itiel|Ithiel⟧ and ⟦ucal|Uchal|Ucal⟧:
 
 [2] Surely I am too stupid to be a man,
 and I do not have the understanding of a man.
@@ -15,7 +15,7 @@ Who has established all the ends of the earth?
 What is his name, and what is his son's name?
 Surely you know!
 
-[5] Every word of Eloah proves true;
+[5] Every word of ⟦eloah|Eloah|God⟧ proves true;
 he is a shield to those who take refuge in him.
 
 [6] Do not add to his words,
@@ -29,9 +29,9 @@ give me neither poverty nor riches;
 feed me with the food that is needful for me,
 
 [9] lest I be full and deny you
-and say, "Who is Yahweh?"
+and say, "Who is ⟦yhwh|Yahweh|the LORD⟧?"
 or lest I be poor and steal
-and profane the name of my *Elohim*.
+and profane the name of my ⟦elohim|Elohim|God⟧.
 
 [10] Do not slander a servant to his master,
 lest he curse you, and you be held guilty.

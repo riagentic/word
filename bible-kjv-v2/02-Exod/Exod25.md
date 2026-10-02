@@ -1,8 +1,8 @@
 # Exodus 25
 
-[1] Yahweh spoke to Moses, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[2] "Speak to the children of Israel, that they bring me a contribution. From every man whose heart moves him, you shall take my contribution.
+[2] "Speak to the children of ⟦israel|Yisrael|Israel⟧, that they bring me a contribution. From every man whose heart moves him, you shall take my contribution.
 
 [3] And this is the contribution that you shall take from them: gold, silver, and bronze;
 
@@ -32,17 +32,17 @@
 
 [16] And into the ark you shall put the Testimony that I will give you.
 
-[17] You shall make a mercy seat (*kapporet*, atonement cover) of pure gold; its length shall be two and a half cubits, and its width a cubit and a half.
+[17] You shall make a ⟦mercy-seat|mercy seat (kapporet, atonement cover)|mercy seat⟧ of pure gold; its length shall be two and a half cubits, and its width a cubit and a half.
 
-[18] You shall make two cherubim of gold; of hammered work you shall make them, at the two ends of the mercy seat.
+[18] You shall make two ⟦cherubim|keruvim|cherubim⟧ of gold; of hammered work you shall make them, at the two ends of the ⟦mercy-seat|kapporet|mercy seat⟧.
 
-[19] Make one cherub at the one end, and one cherub at the other end; of one piece with the mercy seat shall you make the cherubim on its two ends.
+[19] Make one ⟦cherub|keruv|cherub⟧ at the one end, and one ⟦cherub|keruv|cherub⟧ at the other end; of one piece with the ⟦mercy-seat|kapporet|mercy seat⟧ shall you make the ⟦cherubim|keruvim|cherubim⟧ on its two ends.
 
-[20] The cherubim shall spread out their wings above, overshadowing the mercy seat with their wings, with their faces toward each other; the faces of the cherubim shall be toward the mercy seat.
+[20] The ⟦cherubim|keruvim|cherubim⟧ shall spread out their wings above, overshadowing the ⟦mercy-seat|kapporet|mercy seat⟧ with their wings, with their faces toward each other; the faces of the ⟦cherubim|keruvim|cherubim⟧ shall be toward the ⟦mercy-seat|kapporet|mercy seat⟧.
 
-[21] You shall put the mercy seat on top of the ark; and in the ark you shall put the Testimony that I will give you.
+[21] You shall put the ⟦mercy-seat|kapporet|mercy seat⟧ on top of the ark; and in the ark you shall put the Testimony that I will give you.
 
-[22] There I will meet with you, and from above the mercy seat, from between the two cherubim that are on the ark of the Testimony, I will speak with you about all that I give you in commandment for the children of Israel.
+[22] There I will meet with you, and from above the ⟦mercy-seat|kapporet|mercy seat⟧, from between the two ⟦cherubim|keruvim|cherubim⟧ that are on the ark of the Testimony, I will speak with you about all that I give you in commandment for the children of ⟦israel|Yisrael|Israel⟧.
 
 [23] You shall make a table of acacia wood; two cubits shall be its length, a cubit its width, and a cubit and a half its height.
 

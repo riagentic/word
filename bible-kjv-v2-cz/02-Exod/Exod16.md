@@ -1,76 +1,76 @@
 # Exodus 16
 
-[1] Vytáhli z Elim a celá pospolitost synů Israele přišla na poušť Sin, která leží mezi Elim a Sinai, patnáctého dne druhého měsíce po svém odchodu z egyptské země.
+[1] Vytáhli z ⟦elim|Elim|Élimu⟧ a celá pospolitost synů ⟦israel|Jisraele|Izraele⟧ přišla na poušť ⟦sin|Sin|Sín⟧, která leží mezi ⟦elim|Elim|Élimem⟧ a ⟦sinai|Sinajem|Sínajem⟧, patnáctého dne druhého měsíce po svém odchodu ⟦egypt|ze země Micrajim|z egyptské země⟧.
 
-[2] Celá pospolitost synů Israele reptala na poušti proti Mosesovi a Aaronovi
+[2] Celá pospolitost synů ⟦israel|Jisraele|Izraele⟧ reptala na poušti proti ⟦moses|Mošovi|Mojžíšovi⟧ a ⟦aaron|Aharonovi|Áronovi⟧
 
-[3] a synové Israele jim řekli: „Kéž bychom byli zemřeli rukou Yahweh v egyptské zemi, když jsme sedávali u hrnců s masem, když jsme jídali chleba do sytosti! Vždyť jste nás vyvedli na tuto poušť, abyste celé toto shromáždění umořili hladem.“
+[3] a synové ⟦israel|Jisraele|Izraele⟧ jim řekli: „Kéž bychom byli zemřeli rukou ⟦yhwh|Jahveho|Hospodina⟧ v ⟦egypt|zemi Micrajim|egyptské zemi⟧, když jsme sedávali u hrnců s masem, když jsme jídali chleba do sytosti! Vždyť jste nás vyvedli na tuto poušť, abyste celé toto shromáždění umořili hladem.“
 
-[4] Tu Yahweh řekl Mosesovi: „Hle, dám vám pršet chléb z nebes; a lid bude vycházet a sbírat každý den dávku na ten den, abych je vyzkoušel, zda budou žít podle mého poučení, či ne.
+[4] Tu ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Hle, dám vám pršet chléb z nebes; a lid bude vycházet a sbírat každý den dávku na ten den, abych je vyzkoušel, zda budou žít podle mého poučení, či ne.
 
 [5] A šestého dne, až připraví, co přinesou, bude toho dvakrát tolik, kolik sbírají denně.“
 
-[6] Moses a Aaron tedy řekli všem synům Israele: „Večer poznáte, že vás z egyptské země vyvedl Yahweh;
+[6] ⟦moses|Moše|Mojžíš⟧ a ⟦aaron|Aharon|Áron⟧ tedy řekli všem synům ⟦israel|Jisraele|Izraele⟧: „Večer poznáte, že vás ⟦egypt|ze země Micrajim|z egyptské země⟧ vyvedl ⟦yhwh|Jahve|Hospodin⟧;
 
-[7] a ráno uvidíte slávu Yahweh, protože uslyšel vaše reptání proti Yahweh. Co jsme my, že reptáte proti nám?“
+[7] a ráno uvidíte slávu ⟦yhwh|Jahveho|Hospodina⟧, protože uslyšel vaše reptání proti ⟦yhwh|Jahvovi|Hospodinu⟧. Co jsme my, že reptáte proti nám?“
 
-[8] Moses řekl: „Až vám Yahweh dá večer maso k jídlu a ráno chleba do sytosti – protože Yahweh uslyšel vaše reptání, jímž proti němu reptáte – co jsme my? Vaše reptání není proti nám, ale proti Yahweh.“
+[8] ⟦moses|Moše|Mojžíš⟧ řekl: „Až vám ⟦yhwh|Jahve|Hospodin⟧ dá večer maso k jídlu a ráno chleba do sytosti – protože ⟦yhwh|Jahve|Hospodin⟧ uslyšel vaše reptání, jímž proti němu reptáte – co jsme my? Vaše reptání není proti nám, ale proti ⟦yhwh|Jahvovi|Hospodinu⟧.“
 
-[9] Moses řekl Aaronovi: „Řekni celé pospolitosti synů Israele: ‚Přistupte před Yahweh, neboť uslyšel vaše reptání.‘“
+[9] ⟦moses|Moše|Mojžíš⟧ řekl ⟦aaron|Aharonovi|Áronovi⟧: „Řekni celé pospolitosti synů ⟦israel|Jisraele|Izraele⟧: ‚Přistupte před ⟦yhwh|Jahvem|Hospodinem⟧, neboť uslyšel vaše reptání.‘“
 
-[10] Když Aaron mluvil k celé pospolitosti synů Israele, pohlédli k poušti, a hle, v oblaku se ukázala sláva Yahweh.
+[10] Když ⟦aaron|Aharon|Áron⟧ mluvil k celé pospolitosti synů ⟦israel|Jisraele|Izraele⟧, pohlédli k poušti, a hle, v oblaku se ukázala sláva ⟦yhwh|Jahveho|Hospodina⟧.
 
-[11] Yahweh promluvil k Mosesovi:
+[11] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[12] „Slyšel jsem reptání synů Israele. Řekni jim: ‚Za soumraku budete jíst maso a ráno se nasytíte chlebem; a poznáte, že já jsem Yahweh, váš *Elohim*.‘“
+[12] „Slyšel jsem reptání synů ⟦israel|Jisraele|Izraele⟧. Řekni jim: ‚Za soumraku budete jíst maso a ráno se nasytíte chlebem; a poznáte, že já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧.‘“
 
 [13] Večer přiletěly křepelky a pokryly tábor; a ráno ležela kolem tábora rosa.
 
 [14] Když se ležící rosa vypařila, hle, na povrchu pouště leželo cosi jemného, podobného vločkám, jemného jako jinovatka na zemi.
 
-[15] Když to synové Israele uviděli, říkali jeden druhému: „Man-hu?“ (Co je to?) – neboť nevěděli, co to je. Moses jim řekl: „To je chléb, který vám Yahweh dal k jídlu.
+[15] Když to synové ⟦israel|Jisraele|Izraele⟧ uviděli, říkali jeden druhému: „⟦man-hu|Man hu|Co je to⟧?“ (Co je to?) – neboť nevěděli, co to je. ⟦moses|Moše|Mojžíš⟧ jim řekl: „To je chléb, který vám ⟦yhwh|Jahve|Hospodin⟧ dal k jídlu.
 
-[16] Toto přikázal Yahweh: ‚Sbírejte z něho každý podle toho, kolik sní – omer na osobu, podle počtu vašich osob; každý ať nabere pro ty, kdo jsou v jeho stanu.‘“
+[16] Toto přikázal ⟦yhwh|Jahve|Hospodin⟧: ‚Sbírejte z něho každý podle toho, kolik sní – ⟦omer|omer|gomer⟧ na osobu, podle počtu vašich osob; každý ať nabere pro ty, kdo jsou v jeho stanu.‘“
 
-[17] Synové Israele tak učinili; sbírali, jeden víc, druhý méně.
+[17] Synové ⟦israel|Jisraele|Izraele⟧ tak učinili; sbírali, jeden víc, druhý méně.
 
-[18] Když to však odměřili omerem, ten, kdo nasbíral mnoho, neměl nadbytek, a ten, kdo nasbíral málo, neměl nedostatek; každý nasbíral podle toho, kolik mohl sníst.
+[18] Když to však odměřili ⟦omer|omerem|gomerem⟧, ten, kdo nasbíral mnoho, neměl nadbytek, a ten, kdo nasbíral málo, neměl nedostatek; každý nasbíral podle toho, kolik mohl sníst.
 
-[19] Moses jim řekl: „Ať si z toho nikdo nic nenechává do rána.“
+[19] ⟦moses|Moše|Mojžíš⟧ jim řekl: „Ať si z toho nikdo nic nenechává do rána.“
 
-[20] Někteří však Mosese neposlechli; nechali si z toho něco do rána a začali se v tom líhnout červi a páchlo to. Moses se na ně rozhněval.
+[20] Někteří však ⟦moses|Moše|Mojžíše⟧ neposlechli; nechali si z toho něco do rána a začali se v tom líhnout červi a páchlo to. ⟦moses|Moše|Mojžíš⟧ se na ně rozhněval.
 
 [21] Sbírali to ráno co ráno, každý podle toho, kolik mohl sníst; a když slunce začalo pálit, rozpustilo se to.
 
-[22] Šestého dne nasbírali dvakrát tolik chleba, dva omery na osobu. Všichni předáci pospolitosti přišli a oznámili to Mosesovi;
+[22] Šestého dne nasbírali dvakrát tolik chleba, dva ⟦omer|omery|gomery⟧ na osobu. Všichni předáci pospolitosti přišli a oznámili to ⟦moses|Mošovi|Mojžíšovi⟧;
 
-[23] a on jim řekl: „Toto řekl Yahweh: ‚Zítra je den slavnostního odpočinku, svatý sabat pro Yahweh. Co chcete péct, upečte dnes, a co chcete vařit, uvařte; a všechno, co zbude, si odložte a uschovejte do rána.‘“
+[23] a on jim řekl: „Toto řekl ⟦yhwh|Jahve|Hospodin⟧: ‚Zítra je den slavnostního odpočinku, ⟦shabbat|svatý šabat|svatá sobota⟧ pro ⟦yhwh|Jahveho|Hospodina⟧. Co chcete péct, upečte dnes, a co chcete vařit, uvařte; a všechno, co zbude, si odložte a uschovejte do rána.‘“
 
-[24] Odložili to tedy do rána, jak Moses přikázal; a nezapáchalo to a nebyli v tom červi.
+[24] Odložili to tedy do rána, jak ⟦moses|Moše|Mojžíš⟧ přikázal; a nezapáchalo to a nebyli v tom červi.
 
-[25] Moses řekl: „Snězte to dnes, neboť dnes je sabat pro Yahweh; dnes to na poli nenajdete.
+[25] ⟦moses|Moše|Mojžíš⟧ řekl: „Snězte to dnes, neboť dnes je ⟦shabbat|šabat|sobota⟧ pro ⟦yhwh|Jahveho|Hospodina⟧; dnes to na poli nenajdete.
 
-[26] Šest dní to budete sbírat; ale sedmého dne, v sabat, nic nebude.“
+[26] Šest dní to budete sbírat; ale sedmého dne, v ⟦shabbat|šabat|sobotu⟧, nic nebude.“
 
 [27] Přesto sedmého dne vyšli někteří z lidu sbírat, ale nic nenašli.
 
-[28] Yahweh řekl Mosesovi: „Jak dlouho budete odmítat zachovávat má přikázání a má poučení?
+[28] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Jak dlouho budete odmítat zachovávat má přikázání a má poučení?
 
-[29] Hleďte! Yahweh vám dal sabat; proto vám šestého dne dává chléb na dva dny. Každý ať zůstane na svém místě; sedmého dne ať nikdo nevychází ze svého místa.“
+[29] Hleďte! ⟦yhwh|Jahve|Hospodin⟧ vám dal ⟦shabbat|šabat|sobotu⟧; proto vám šestého dne dává chléb na dva dny. Každý ať zůstane na svém místě; sedmého dne ať nikdo nevychází ze svého místa.“
 
 [30] Lid tedy sedmého dne odpočíval.
 
-[31] Dům Israele to nazval Mana. Bylo to jako koriandrové semeno, bílé; a chutnalo to jako oplatky s medem.
+[31] Dům ⟦israel|Jisraele|Izraele⟧ to nazval Mana. Bylo to jako koriandrové semeno, bílé; a chutnalo to jako oplatky s medem.
 
-[32] Moses řekl: „Toto přikázal Yahweh: ‚Naplňte jím omer, aby byl uchován pro vaše pokolení, aby viděla chléb, jímž jsem vás živil na poušti, když jsem vás vyvedl z egyptské země.‘“
+[32] ⟦moses|Moše|Mojžíš⟧ řekl: „Toto přikázal ⟦yhwh|Jahve|Hospodin⟧: ‚Naplňte jím ⟦omer|omer|gomer⟧, aby byl uchován pro vaše pokolení, aby viděla chléb, jímž jsem vás živil na poušti, když jsem vás vyvedl ⟦egypt|ze země Micrajim|z egyptské země⟧.‘“
 
-[33] Moses řekl Aaronovi: „Vezmi džbán, dej do něj plný omer many a polož ho před Yahweh, aby byl uchován pro vaše pokolení.“
+[33] ⟦moses|Moše|Mojžíš⟧ řekl ⟦aaron|Aharonovi|Áronovi⟧: „Vezmi džbán, dej do něj plný ⟦omer|omer|gomer⟧ many a polož ho před ⟦yhwh|Jahvem|Hospodinem⟧, aby byl uchován pro vaše pokolení.“
 
-[34] Jak Yahweh Mosesovi přikázal, Aaron jej položil před Svědectví, aby byl uchován.
+[34] Jak ⟦yhwh|Jahve|Hospodin⟧ ⟦moses|Mošovi|Mojžíšovi⟧ přikázal, ⟦aaron|Aharon|Áron⟧ jej položil před Svědectví, aby byl uchován.
 
-[35] Synové Israele jedli manu čtyřicet let, dokud nepřišli do obydlené země; jedli manu, dokud nepřišli na hranici země Canaan.
+[35] Synové ⟦israel|Jisraele|Izraele⟧ jedli manu čtyřicet let, dokud nepřišli do obydlené země; jedli manu, dokud nepřišli na hranici země Kenaan.
 
-[36] (Omer je desetina éfy.)
+[36] (⟦omer|Omer|Gomer⟧ je desetina éfy.)
 
 ## Změny
 

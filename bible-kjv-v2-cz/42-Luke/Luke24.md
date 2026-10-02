@@ -4,13 +4,13 @@
 
 [2] Nalezly kámen od hrobu odvalený,
 
-[3] ale když vešly dovnitř, nenalezly tělo Pána *Yeshuy*.
+[3] ale když vešly dovnitř, nenalezly tělo Pána ⟦yeshua|Ješuy|Ježíše⟧.
 
 [4] Zatímco nad tím byly v rozpacích, hle, stanuli u nich dva muži v zářícím oděvu.
 
 [5] Ženy se vylekaly a sklonily tváře k zemi, ale muži jim řekli: „**Proč hledáte živého mezi mrtvými?**
 
-[6] Není zde, ale vstal. Vzpomeňte si, jak vám mluvil, když byl ještě v Galilee,
+[6] Není zde, ale vstal. Vzpomeňte si, jak vám mluvil, když byl ještě v ⟦galilee|Galilu|Galileji⟧,
 
 [7] že Syn člověka musí být vydán do rukou hříšných lidí, být ukřižován a třetího dne vstát.“
 
@@ -18,29 +18,29 @@
 
 [9] vrátily se od hrobu a oznámily to všechno těm jedenácti i všem ostatním.
 
-[10] Byly to Mary Magdalene, Joanna, Mary, matka Jacoba, a ostatní ženy s nimi, které to říkaly apoštolům,
+[10] Byly to ⟦mary|Mirjam|Marie⟧ ⟦magdalene|Magdaléna|Magdalská⟧, ⟦joanna|Jochana|Johana⟧, ⟦mary|Mirjam|Marie⟧, matka ⟦james|Jaakova|Jakuba⟧, a ostatní ženy s nimi, které to říkaly apoštolům,
 
 [11] ale ta slova se jim zdála jako plané povídání a nevěřili jim.
 
-[12] *Kefa* však vstal a běžel k hrobu; sehnul se, nahlédl dovnitř a uviděl jen lněná plátna; a odešel domů a divil se tomu, co se stalo.
+[12] ⟦peter|Kefa|Petr⟧ však vstal a běžel k hrobu; sehnul se, nahlédl dovnitř a uviděl jen lněná plátna; a odešel domů a divil se tomu, co se stalo.
 
-[13] Téhož dne šli dva z nich do vesnice jménem Emmaus, vzdálené od Jerusalemu asi sedm mil,
+[13] Téhož dne šli dva z nich do vesnice jménem ⟦emmaus|Emmaus|Emauzy⟧, vzdálené od ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ asi sedm mil,
 
 [14] a rozmlouvali spolu o všem, co se stalo.
 
-[15] Zatímco rozmlouvali a společně se dohadovali, přiblížil se sám *Yeshua* a šel s nimi.
+[15] Zatímco rozmlouvali a společně se dohadovali, přiblížil se sám ⟦yeshua|Ješua|Ježíš⟧ a šel s nimi.
 
 [16] Jejich oči však byly zadrženy, aby ho nepoznali.
 
 [17] Řekl jim: „O čem to spolu cestou rozmlouváte?“ Zastavili se a tvářili se smutně.
 
-[18] Jeden z nich, jménem Cleopas, mu odpověděl: „Jsi snad jediný poutník v Jerusalemě, který neví, co se tam v těchto dnech stalo?“
+[18] Jeden z nich, jménem ⟦cleopas|Kleopas|Kleofáš⟧, mu odpověděl: „Jsi snad jediný poutník v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧, který neví, co se tam v těchto dnech stalo?“
 
-[19] Řekl jim: „Co?“ Řekli mu: „To, co se stalo s *Yeshuou* z Nazarethu, mužem, který byl prorokem mocným v činu i slově před *Elohim* i přede vším lidem,
+[19] Řekl jim: „Co?“ Řekli mu: „To, co se stalo s ⟦yeshua|Ješuou|Ježíšem⟧ z ⟦nazareth|Nacratu|Nazareta⟧, mužem, který byl prorokem mocným v činu i slově před ⟦elohim|Elohim|Bohem⟧ i přede vším lidem,
 
 [20] a jak ho naši velekněží a přední muži vydali, aby byl odsouzen k smrti, a ukřižovali ho.
 
-[21] My jsme však doufali, že on je ten, kdo má vykoupit Israel. Ano, a kromě toho všeho je dnes již třetí den, co se to stalo.
+[21] My jsme však doufali, že on je ten, kdo má vykoupit ⟦israel|Jisrael|Izrael⟧. Ano, a kromě toho všeho je dnes již třetí den, co se to stalo.
 
 [22] Nadto nás ohromily některé ženy z našeho okruhu. Byly časně ráno u hrobu,
 
@@ -50,9 +50,9 @@
 
 [25] Řekl jim: „Ó nerozumní a srdcem pomalí uvěřit všemu, co mluvili proroci!
 
-[26] Což nemusel *Mashiach* toto vytrpět a vejít do své slávy?“
+[26] Což nemusel ⟦mashiach|Mašiach|Mesiáš⟧ toto vytrpět a vejít do své slávy?“
 
-[27] A **počínaje od Mosese a všech Proroků jim vykládal, co se o něm píše ve všech Písmech.**
+[27] A **počínaje od ⟦moses|Moše|Mojžíše⟧ a všech Proroků jim vykládal, co se o něm píše ve všech Písmech.**
 
 [28] Přiblížili se k vesnici, do které šli. On se tvářil, že chce jít dál,
 
@@ -64,13 +64,13 @@
 
 [32] Řekli si navzájem: „Což nám nehořelo srdce, když k nám na cestě mluvil a otevíral nám Písma?“
 
-[33] V tutéž hodinu vstali a vrátili se do Jerusalemu. Tam nalezli shromážděné ty jedenáct a ty, kdo byli s nimi,
+[33] V tutéž hodinu vstali a vrátili se do ⟦jerusalem|Jerušalajim|Jeruzaléma⟧. Tam nalezli shromážděné ty jedenáct a ty, kdo byli s nimi,
 
-[34] kteří říkali: „Pán opravdu vstal a zjevil se Simonovi!“
+[34] kteří říkali: „Pán opravdu vstal a zjevil se Šimonovi!“
 
 [35] Oni pak vyprávěli, co se stalo na cestě a jak ho poznali při lámání chleba.
 
-[36] Zatímco o tom mluvili, stál sám *Yeshua* uprostřed nich a řekl jim: „Pokoj vám!“
+[36] Zatímco o tom mluvili, stál sám ⟦yeshua|Ješua|Ježíš⟧ uprostřed nich a řekl jim: „Pokoj vám!“
 
 [37] Oni se však zděsili a vystrašili a mysleli, že vidí ducha.
 
@@ -86,25 +86,25 @@
 
 [43] on si ho vzal a před nimi snědl.
 
-[44] Pak jim řekl: „To jsou má slova, která jsem vám mluvil, když jsem byl ještě s vámi, že se musí naplnit všechno, co je o mně psáno v **zákoně Mosesově, v Prorocích a v Žalmech**.“
+[44] Pak jim řekl: „To jsou má slova, která jsem vám mluvil, když jsem byl ještě s vámi, že se musí naplnit všechno, co je o mně psáno v **⟦torah|Tóře|zákoně⟧ ⟦moses|Mošově|Mojžíšově⟧, v Prorocích a v Žalmech**.“
 
 [45] Tehdy jim otevřel mysl, aby rozuměli Písmům,
 
-[46] a řekl jim: „Tak je psáno, že *Mashiach* bude trpět a třetího dne vstane z mrtvých
+[46] a řekl jim: „Tak je psáno, že ⟦mashiach|Mašiach|Kristus⟧ bude trpět a třetího dne vstane z mrtvých
 
-[47] a že v jeho jménu bude všem národům hlásáno pokání na odpuštění hříchů, počínaje od Jerusalemu.
+[47] a že v jeho jménu bude všem národům hlásáno pokání na odpuštění hříchů, počínaje od ⟦jerusalem|Jerušalajim|Jeruzaléma⟧.
 
 [48] Vy jste svědky těchto věcí.
 
 [49] A hle, já na vás posílám zaslíbení svého Otce. Vy však zůstaňte ve městě, dokud nebudete oděni mocí z výsosti.“
 
-[50] Potom je vyvedl až k Bethany, pozvedl ruce a požehnal jim.
+[50] Potom je vyvedl až k ⟦bethany|Bethanii|Betanii⟧, pozvedl ruce a požehnal jim.
 
 [51] Zatímco jim žehnal, odloučil se od nich a byl vzat vzhůru do nebe.
 
-[52] Oni se mu poklonili a s velikou radostí se vrátili do Jerusalemu
+[52] Oni se mu poklonili a s velikou radostí se vrátili do ⟦jerusalem|Jerušalajim|Jeruzaléma⟧
 
-[53] a byli stále v chrámě a dobrořečili *Elohim*.
+[53] a byli stále v chrámě a dobrořečili ⟦elohim|Elohim|Bohu⟧.
 
 ## Změny
 

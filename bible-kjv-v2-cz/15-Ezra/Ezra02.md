@@ -1,132 +1,132 @@
 # Ezdráš 2
 
-[1] Toto jsou synové provincie, kteří vystoupili ze zajetí vyhnanců, které Nebuchadnezzar, král Babylonu, odvlekl do Babylonu; vrátili se do Jerusalemu a do Judaha, každý do svého města.
+[1] Toto jsou synové provincie, kteří vystoupili ze zajetí vyhnanců, které ⟦nebuchadnezzar|Nevuchadnecar|Nebúkadnesar⟧, král ⟦babylon|Bavelu|Babylóna⟧, odvlekl do ⟦babylon|Bavelu|Babylóna⟧; vrátili se do ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ a do ⟦judah|Jehudy|Judy⟧, každý do svého města.
 
-[2] Přišli se Zerubbabelem: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum a Baanah.
+[2] Přišli se ⟦zerubbabel|Zerubbavelem|Zerubábelem⟧: ⟦jeshua|Ješua|Jéšua⟧, ⟦nehemiah|Nechemja|Nehemjáš⟧, ⟦seraiah|Seraja|Serajáš⟧, ⟦reelaiah|Reelaja|Reelajáš⟧, ⟦mordecai|Mordechaj|Mordokaj⟧, ⟦bilshan|Bilšan|Bilšán⟧, Mispar, Bigvaj, ⟦rehum|Rechum|Rechúm⟧ a Baana.
 
-Počet mužů lidu Israele:
+Počet mužů lidu ⟦israel|Jisraele|Izraele⟧:
 
-[3] synové Parosha, 2 172;
+[3] synové ⟦parosh|Paroše|Pareóše⟧, 2 172;
 
-[4] synové Shephatiaha, 372;
+[4] synové ⟦shephatiah|Šefatji|Šefatjáše⟧, 372;
 
-[5] synové Araha, 775;
+[5] synové Aracha, 775;
 
-[6] synové Pahath-moaba, ze synů Jeshuy a Joaba, 2 812;
+[6] synové ⟦pahath-moab|Pachat-Moava|Pachat-moába⟧, ze synů ⟦jeshua|Ješuy|Jéšuy⟧ a ⟦joab|Joava|Jóaba⟧, 2 812;
 
-[7] synové Elama, 1 254;
+[7] synové ⟦elam|Elama|Élama⟧, 1 254;
 
-[8] synové Zattu, 945;
+[8] synové ⟦zattu|Zattu|Zatú⟧, 945;
 
-[9] synové Zaccaie, 760;
+[9] synové ⟦zaccai|Zakkaje|Zakaje⟧, 760;
 
-[10] synové Baniho, 642;
+[10] synové ⟦bani|Baniho|Baního⟧, 642;
 
-[11] synové Bebaie, 623;
+[11] synové ⟦bebai|Bevaje|Bebaje⟧, 623;
 
-[12] synové Azgada, 1 222;
+[12] synové ⟦azgad|Azgada|Azgáda⟧, 1 222;
 
-[13] synové Adonikama, 666;
+[13] synové ⟦adonikam|Adonikama|Adoníkama⟧, 666;
 
-[14] synové Bigvaie, 2 056;
+[14] synové Bigvaje, 2 056;
 
-[15] synové Adina, 454;
+[15] synové ⟦adin|Adina|Adína⟧, 454;
 
-[16] synové Atera, z Hezekiaha, 98;
+[16] synové ⟦ater|Atera|Átera⟧, z ⟦hezekiah|Chizkijahua|Chizkijáše⟧, 98;
 
-[17] synové Bezaie, 323;
+[17] synové ⟦bezai|Becaje|Besaje⟧, 323;
 
-[18] synové Joraha, 112;
+[18] synové ⟦jorah|Jory|Jóry⟧, 112;
 
-[19] synové Hashuma, 223;
+[19] synové Chašuma, 223;
 
-[20] synové Gibbara, 95;
+[20] synové ⟦gibbar|Gibbara|Gibara⟧, 95;
 
-[21] synové Bethlehemu, 123;
+[21] synové ⟦bethlehem|Bejt Lechemu|Betléma⟧, 123;
 
-[22] muži z Netophah, 56;
+[22] muži z ⟦netophah|Netofy|Netófy⟧, 56;
 
-[23] muži z Anathothu, 128;
+[23] muži z ⟦anathoth|Anatotu|Anatótu⟧, 128;
 
-[24] synové Azmavethu, 42;
+[24] synové ⟦azmaveth|Azmavetu|Azmávetu⟧, 42;
 
-[25] synové Kiriath-arimu, Chephirah a Beerothu, 743;
+[25] synové ⟦kiriath-jearim|Kirjat Arimu|Kirjat-arímu⟧, ⟦chephirah|Kefiry|Kefíry⟧ a ⟦beeroth|Beerotu|Beerótu⟧, 743;
 
-[26] synové Ramah a Geby, 621;
+[26] synové ⟦ramah|Ramy|Rámy⟧ a ⟦geba|Gevy|Geby⟧, 621;
 
-[27] muži z Michmasu, 122;
+[27] muži z ⟦michmash|Michmasu|Mikmásu⟧, 122;
 
-[28] muži z Bethelu a Ai, 223;
+[28] muži z ⟦bethel|Bejt Elu|Bét-elu⟧ a Aj, 223;
 
-[29] synové Neba, 52;
+[29] synové ⟦nebo|Neva|Nebó⟧, 52;
 
-[30] synové Magbishe, 156;
+[30] synové ⟦magbish|Magbiše|Magbíše⟧, 156;
 
-[31] synové druhého Elama, 1 254;
+[31] synové druhého ⟦elam|Elama|Élama⟧, 1 254;
 
-[32] synové Harima, 320;
+[32] synové ⟦harim|Charima|Chárima⟧, 320;
 
-[33] synové Lodu, Hadidu a Ono, 725;
+[33] synové ⟦lod|Lodu|Lódu⟧, ⟦hadid|Chadidu|Chadídu⟧ a ⟦ono|Ono|Ónó⟧, 725;
 
 [34] synové Jericha, 345;
 
-[35] synové Senaah, 3 630.
+[35] synové ⟦senaah|Senaa|Senáa⟧, 3 630.
 
-[36] Kněží: synové Jedaiaha, z domu Jeshuy, 973;
+[36] Kněží: synové ⟦jedaiah|Jedaji|Jedajáše⟧, z domu ⟦jeshua|Ješuy|Jéšuy⟧, 973;
 
-[37] synové Immera, 1 052;
+[37] synové ⟦immer|Immera|Iméra⟧, 1 052;
 
-[38] synové Pashhura, 1 247;
+[38] synové ⟦pashhur|Pašchura|Pašchúra⟧, 1 247;
 
-[39] synové Harima, 1 017.
+[39] synové ⟦harim|Charima|Chárima⟧, 1 017.
 
-[40] Levité: synové Jeshuy a Kadmiela, ze synů Hodaviaha, 74.
+[40] ⟦levites|Levijim|Lévijci⟧: synové ⟦jeshua|Ješuy|Jéšuy⟧ a ⟦kadmiel|Kadmiela|Kadmíela⟧, ze synů ⟦hodaviah|Hodavji|Hódavjáše⟧, 74.
 
-[41] Zpěváci: synové Asapha, 128.
+[41] Zpěváci: synové Asafa, 128.
 
-[42] Synové vrátných: synové Shalluma, synové Atera, synové Talmona, synové Akkuba, synové Hatity, synové Shobaie – celkem 139.
+[42] Synové vrátných: synové ⟦shallum|Šalluma|Šalúma⟧, synové ⟦ater|Atera|Átera⟧, synové ⟦talmon|Talmona|Talmóna⟧, synové ⟦akkub|Akkuva|Akúba⟧, synové ⟦hatita|Chatity|Chatíty⟧, synové ⟦shobai|Šovaje|Šobaje⟧ – celkem 139.
 
-[43] Chrámoví služebníci: synové Zihy, synové Hasuphy, synové Tabbaotha,
+[43] ⟦nethinim|Netinim|Chrámoví nevolníci⟧: synové ⟦ziha|Cichy|Síchy⟧, synové ⟦hasupha|Chasufy|Chasúfy⟧, synové ⟦tabbaoth|Tabbaota|Tabaóta⟧,
 
-[44] synové Kerose, synové Siahy, synové Padona,
+[44] synové ⟦keros|Kerose|Kérose⟧, synové ⟦siaha|Siahy|Síahy⟧, synové ⟦padon|Fadona|Padóna⟧,
 
-[45] synové Lebanaha, synové Hagabaha, synové Akkuba,
+[45] synové ⟦lebanah|Levany|Lebány⟧, synové ⟦hagabah|Chagavy|Chagaby⟧, synové ⟦akkub|Akkuva|Akúba⟧,
 
-[46] synové Hagaba, synové Shalmaie, synové Hanana,
+[46] synové ⟦hagab|Chagava|Chagaba⟧, synové Šalmaje, synové Chanana,
 
-[47] synové Giddela, synové Gahara, synové Reaiaha,
+[47] synové ⟦giddel|Giddela|Gidela⟧, synové Gachara, synové ⟦reaiah|Reaji|Reajáše⟧,
 
-[48] synové Rezina, synové Nekody, synové Gazzama,
+[48] synové ⟦rezin|Recina|Resína⟧, synové ⟦nekoda|Nekody|Nekódy⟧, synové ⟦gazzam|Gazzama|Gazama⟧,
 
-[49] synové Uzzy, synové Paseaha, synové Besaie,
+[49] synové ⟦uzza|Uzzy|Uzy⟧, synové Paseacha, synové Besaje,
 
-[50] synové Asnaha, synové Meunim, synové Nephusim,
+[50] synové Asny, synové ⟦meunim|Meunim|Meúnim⟧, synové ⟦nephisim|Nefusim|Nefúsim⟧,
 
-[51] synové Bakbuka, synové Hakuphy, synové Harhura,
+[51] synové ⟦bakbuk|Bakbuka|Bakbúka⟧, synové ⟦hakupha|Chakufy|Chakúfy⟧, synové ⟦harhur|Charchura|Charchúra⟧,
 
-[52] synové Bazlutha, synové Mehidy, synové Harshy,
+[52] synové ⟦bazluth|Bacluta|Baslúta⟧, synové ⟦mehida|Mechidy|Mechídy⟧, synové Charši,
 
-[53] synové Barkose, synové Sisery, synové Temaha,
+[53] synové ⟦barkos|Barkose|Barkóse⟧, synové ⟦sisera|Sisery|Sísery⟧, synové Tamacha,
 
-[54] synové Neziaha, synové Hatiphy.
+[54] synové ⟦neziah|Neciacha|Nesíacha⟧, synové ⟦hatipha|Chatify|Chatífy⟧.
 
-[55] Synové Solomonových služebníků: synové Sotaie, synové Hassophereth, synové Perudy,
+[55] Synové ⟦solomon|Šlomových|Šalomounových⟧ služebníků: synové Sotaje, synové Hassoferet, synové ⟦peruda|Perudy|Perúdy⟧,
 
-[56] synové Jaalaha, synové Darkona, synové Giddela,
+[56] synové Jaaly, synové ⟦darkon|Darkona|Darkóna⟧, synové ⟦giddel|Giddela|Gidela⟧,
 
-[57] synové Shephatiaha, synové Hattila, synové Pochereth-hazzebaim, synové Amiho.
+[57] synové ⟦shephatiah|Šefatji|Šefatjáše⟧, synové ⟦hattil|Chattila|Chatíla⟧, synové ⟦pochereth-hazzebaim|Pocheret HaCevajim|Pokeret-sebajim⟧, synové ⟦ami|Amiho|Ámího⟧.
 
-[58] Všech chrámových služebníků a synů Solomonových služebníků bylo 392.
+[58] Všech ⟦nethinim|Netinim|chrámových nevolníků⟧ a synů ⟦solomon|Šlomových|Šalomounových⟧ služebníků bylo 392.
 
-[59] Toto jsou ti, kdo vystoupili z Tel-melah, Tel-harsha, Cherubu, Addanu a Immeru; nemohli však prokázat své otcovské domy ani svůj původ, zda jsou z Israele:
+[59] Toto jsou ti, kdo vystoupili z ⟦tel-melah|Tel Melach|Tel-melach⟧, ⟦tel-harsha|Tel Charša|Tel-charša⟧, ⟦cherub-place|Keruvu|Kerúbu⟧, ⟦addan|Addanu|Adanu⟧ a ⟦immer|Immeru|Iméru⟧; nemohli však prokázat své otcovské domy ani svůj původ, zda jsou z ⟦israel|Jisraele|Izraele⟧:
 
-[60] synové Delaiaha, synové Tobiaha, synové Nekody – 652.
+[60] synové ⟦delaiah|Delaji|Delajáše⟧, synové ⟦tobiah|Toviji|Tóbijáše⟧, synové ⟦nekoda|Nekody|Nekódy⟧ – 652.
 
-[61] Ze synů kněží: synové Habaiaha, synové Hakkoze, synové Barzillaie, který si vzal za manželku jednu z dcer Barzillaie Gileadského a byl nazván jejich jménem.
+[61] Ze synů kněží: synové ⟦habaiah|Chovaji|Chobajáše⟧, synové ⟦hakkoz|HaKoce|Hakóse⟧, synové ⟦barzillai|Barzillaje|Barzilaje⟧, který si vzal za manželku jednu z dcer ⟦barzillai|Barzillaje|Barzilaje⟧ ⟦gileadite|Giladiho|Gileádského⟧ a byl nazván jejich jménem.
 
 [62] Ti hledali svůj zápis mezi zapsanými v rodokmenech, ale nebyli nalezeni; byli proto jako nečistí vyloučeni z kněžství.
 
-[63] Místodržitel jim řekl, že nesmějí jíst z nejsvětějších věcí, dokud nepovstane kněz s Urim a Thummim.
+[63] Místodržitel jim řekl, že nesmějí jíst z nejsvětějších věcí, dokud nepovstane kněz s ⟦urim|Urim|urím⟧ a ⟦thummim|Tummim|tumím⟧.
 
 [64] Celé shromáždění dohromady čítalo 42 360,
 
@@ -136,11 +136,11 @@ Počet mužů lidu Israele:
 
 [67] jejich velbloudů 435; jejich oslů 6 720.
 
-[68] Někteří z představitelů otcovských domů, když přišli k domu Yahweh, který je v Jerusalemě, dali dobrovolné dary pro dům *Elohim*, aby byl postaven na svém místě.
+[68] Někteří z představitelů otcovských domů, když přišli k domu ⟦yhwh|Jahveho|Hospodina⟧, který je v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧, dali dobrovolné dary pro dům ⟦elohim|Elohim|Boží⟧, aby byl postaven na svém místě.
 
 [69] Podle svých možností dali do pokladnice díla 61 000 zlatých dareiků, 5 000 hřiven stříbra a 100 kněžských rouch.
 
-[70] Tak kněží, Levité, někteří z lidu, zpěváci, vrátní a chrámoví služebníci bydleli ve svých městech a celý Israel ve svých městech.
+[70] Tak kněží, ⟦levites|Levijim|lévijci⟧, někteří z lidu, zpěváci, vrátní a ⟦nethinim|Netinim|chrámoví nevolníci⟧ bydleli ve svých městech a celý ⟦israel|Jisrael|Izrael⟧ ve svých městech.
 
 ## Změny
 

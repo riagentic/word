@@ -1,28 +1,28 @@
 # Deuteronomium 34
 
-[1] Moses vystoupil z moabských rovin na horu Nebo, na vrchol Pisgah, který je naproti Jerichu. A Yahweh mu ukázal celou zemi – Gilead až po Dan,
+[1] ⟦moses|Moše|Mojžíš⟧ vystoupil z ⟦moab|moavských|moábských⟧ rovin na horu ⟦nebo|Nevo|Nebó⟧, na vrchol Pisgy, který je naproti Jerichu. A ⟦yhwh|Jahve|Hospodin⟧ mu ukázal celou zemi – ⟦gilead|Gilad|Gileád⟧ až po Dan,
 
-[2] celé území Naphtaliho, zemi Ephraima a Manasseha, celou zemi Judah až k západnímu moři,
+[2] celé území ⟦naphtali|Naftaliho|Neftalího⟧, zemi Efrajima a ⟦manasseh|Menaše|Manasese⟧, celou zemi ⟦judah|Jehudy|Judy⟧ až k západnímu moři,
 
-[3] Negev a rovinu – údolí Jericha, města palem – až po Zoar.
+[3] ⟦negev|Negev|Negeb⟧ a rovinu – údolí Jericha, města palem – až po ⟦zoar|Coar|Sóar⟧.
 
-[4] Yahweh mu řekl: „To je země, o které jsem přísahal Abrahamovi, Isaacovi a Jacobovi: ‚Dám ji tvému potomstvu.‘ Dal jsem ti ji spatřit na vlastní oči, ale tam nepřejdeš.“
+[4] ⟦yhwh|Jahve|Hospodin⟧ mu řekl: „To je země, o které jsem přísahal ⟦abraham|Avrahamovi|Abrahamovi⟧, ⟦isaac|Jicchakovi|Izákovi⟧ a ⟦jacob|Jaakovovi|Jákobovi⟧: ‚Dám ji tvému potomstvu.‘ Dal jsem ti ji spatřit na vlastní oči, ale tam nepřejdeš.“
 
-[5] Tak tam zemřel Moses, služebník Yahweh, v zemi Moab, podle slova Yahweh.
+[5] Tak tam zemřel ⟦moses|Moše|Mojžíš⟧, služebník ⟦yhwh|Jahveho|Hospodina⟧, v zemi ⟦moab|Moav|Moáb⟧, podle slova ⟦yhwh|Jahveho|Hospodina⟧.
 
-[6] Pohřbil ho v údolí v zemi Moab naproti Beth-peoru; ale nikdo nezná jeho hrob až do dnešního dne.
+[6] Pohřbil ho v údolí v zemi ⟦moab|Moav|Moáb⟧ naproti ⟦beth-peor|Bejt Peoru|Bét-peóru⟧; ale nikdo nezná jeho hrob až do dnešního dne.
 
-[7] Mosesovi bylo 120 let, když zemřel; jeho oko nezeslablo a jeho síla neochabla.
+[7] ⟦moses|Mošovi|Mojžíšovi⟧ bylo 120 let, když zemřel; jeho oko nezeslablo a jeho síla neochabla.
 
-[8] Synové Israele oplakávali Mosese na moabských rovinách třicet dní; potom se skončily dny pláče a smutku za Mosese.
+[8] Synové ⟦israel|Jisraele|Izraele⟧ oplakávali ⟦moses|Moše|Mojžíše⟧ na ⟦moab|moavských|moábských⟧ rovinách třicet dní; potom se skončily dny pláče a smutku za ⟦moses|Moše|Mojžíše⟧.
 
-[9] Joshua, syn Nunův, byl plný ducha moudrosti, neboť Moses na něj vložil své ruce. Synové Israele ho poslouchali a jednali, jak Yahweh přikázal Mosesovi.
+[9] ⟦joshua|Jehošua|Jozue⟧, syn ⟦nun|Nunův|Núnův⟧, byl plný ducha moudrosti, neboť ⟦moses|Moše|Mojžíš⟧ na něj vložil své ruce. Synové ⟦israel|Jisraele|Izraele⟧ ho poslouchali a jednali, jak ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧.
 
-[10] V Israeli už nepovstal prorok jako Moses, kterého Yahweh znal tváří v tvář –
+[10] V ⟦israel|Jisraeli|Izraeli⟧ už nepovstal prorok jako ⟦moses|Moše|Mojžíš⟧, kterého ⟦yhwh|Jahve|Hospodin⟧ znal tváří v tvář –
 
-[11] nikdo jako on ve všech znameních a zázracích, které ho Yahweh poslal vykonat v egyptské zemi Pharaohovi, všem jeho služebníkům a celé jeho zemi,
+[11] nikdo jako on ve všech znameních a zázracích, které ho ⟦yhwh|Jahve|Hospodin⟧ poslal vykonat v egyptské zemi ⟦pharaoh|Parohovi|faraónovi⟧, všem jeho služebníkům a celé jeho zemi,
 
-[12] a ve vší mocné ruce a ve všech velikých, bázeň budících činech, které Moses vykonal před očima celého Israele.
+[12] a ve vší mocné ruce a ve všech velikých, bázeň budících činech, které ⟦moses|Moše|Mojžíš⟧ vykonal před očima celého ⟦israel|Jisraele|Izraele⟧.
 
 ## Změny
 

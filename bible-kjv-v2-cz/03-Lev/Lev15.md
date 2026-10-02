@@ -1,8 +1,8 @@
 # Leviticus 15
 
-[1] Yahweh promluvil k Mosesovi a Aaronovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a ⟦aaron|Aharonovi|Áronovi⟧:
 
-[2] „Mluvte k synům Israele a řekněte jim: ‚Má-li kterýkoli muž výtok ze svého těla, jeho výtok je nečistý.
+[2] „Mluvte k synům ⟦israel|Jisraele|Izraele⟧ a řekněte jim: ‚Má-li kterýkoli muž výtok ze svého těla, jeho výtok je nečistý.
 
 [3] Toto bude jeho nečistota při výtoku: ať jeho tělo výtokem mokvá, nebo je jeho tělo výtokem ucpané, je to jeho nečistota.
 
@@ -26,9 +26,9 @@
 
 [13] Když se ten, kdo má výtok, od svého výtoku očistí, odpočítá si sedm dní ke svému očištění. Vypere si šaty, omyje tělo čerstvou vodou a bude čistý.
 
-[14] Osmého dne vezme dvě hrdličky nebo dvě holoubata, předstoupí před Yahweh ke vchodu do stanu setkávání a dá je knězi.
+[14] Osmého dne vezme dvě hrdličky nebo dvě holoubata, předstoupí před ⟦yhwh|Jahveho|Hospodina⟧ ke vchodu do stanu setkávání a dá je knězi.
 
-[15] Kněz je obětuje – jedno jako oběť za hřích a druhé jako zápalnou oběť – a kněz za něj vykoná před Yahweh smíření kvůli jeho výtoku.
+[15] Kněz je obětuje – jedno jako oběť za hřích a druhé jako zápalnou oběť – a kněz za něj vykoná před ⟦yhwh|Jahvem|Hospodinem⟧ smíření kvůli jeho výtoku.
 
 [16] Má-li muž výron semene, omyje celé své tělo vodou a bude nečistý až do večera.
 
@@ -58,9 +58,9 @@
 
 [29] Osmého dne vezme dvě hrdličky nebo dvě holoubata a přinese je knězi ke vchodu do stanu setkávání.
 
-[30] Kněz obětuje jedno jako oběť za hřích a druhé jako zápalnou oběť; a kněz za ni vykoná před Yahweh smíření kvůli výtoku její nečistoty.
+[30] Kněz obětuje jedno jako oběť za hřích a druhé jako zápalnou oběť; a kněz za ni vykoná před ⟦yhwh|Jahvem|Hospodinem⟧ smíření kvůli výtoku její nečistoty.
 
-[31] Tak budete oddělovat syny Israele od jejich nečistoty, aby nezemřeli ve své nečistotě tím, že poskvrní můj příbytek, který je uprostřed nich.
+[31] Tak budete oddělovat syny ⟦israel|Jisraele|Izraele⟧ od jejich nečistoty, aby nezemřeli ve své nečistotě tím, že poskvrní můj příbytek, který je uprostřed nich.
 
 [32] To je zákon o tom, kdo má výtok; o tom, z něhož vychází semeno a poskvrňuje ho;
 

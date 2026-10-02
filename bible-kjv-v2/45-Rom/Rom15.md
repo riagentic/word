@@ -4,19 +4,19 @@
 
 [2] Let each of us please his neighbor for his good, to build him up.
 
-[3] For the *Mashiach* did not please himself, but as it is written, "**The reproaches of those who reproached you fell on me**."
+[3] For ⟦mashiach|the Mashiach|Christ⟧ did not please himself, but as it is written, "**The reproaches of those who reproached you fell on me**."
 
 [4] For whatever was written in former days was written for our instruction, that through endurance and through the encouragement of the Scriptures we might have hope.
 
-[5] May the *Elohim* of endurance and encouragement grant you to live in such harmony with one another, in accord with the *Mashiach* *Yeshua*,
+[5] May the ⟦elohim|Elohim|God⟧ of endurance and encouragement grant you to live in such harmony with one another, in accord with ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧,
 
-[6] that together you may with one voice glorify the *Elohim* and Father of our Lord *Yeshua* the *Mashiach*.
+[6] that together you may with one voice glorify the ⟦elohim|Elohim|God⟧ and Father of our Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧.
 
-[7] Therefore welcome one another as the *Mashiach* has welcomed you, for the glory of *Elohim*.
+[7] Therefore welcome one another as ⟦mashiach|the Mashiach|Christ⟧ has welcomed you, for the glory of ⟦elohim|Elohim|God⟧.
 
-[8] For I tell you that the *Mashiach* became a servant to the circumcised to show *Elohim*'s truthfulness, in order to confirm the promises given to the patriarchs,
+[8] For I tell you that ⟦mashiach|the Mashiach|Christ⟧ became a servant to the circumcised to show ⟦elohim|Elohim's|God's⟧ truthfulness, in order to confirm the promises given to the patriarchs,
 
-[9] and in order that the Gentiles might glorify *Elohim* for his mercy. As it is written,
+[9] and in order that the Gentiles might glorify ⟦elohim|Elohim|God⟧ for his mercy. As it is written,
 
 "**Therefore I will praise you among the Gentiles,
 and sing to your name**."
@@ -27,30 +27,30 @@ and sing to your name**."
 
 [11] And again,
 
-"**Praise the Lord, all you Gentiles,
+"**Praise ⟦yhwh|Yahweh|the Lord⟧, all you Gentiles,
 and let all the peoples extol him**."
 
-[12] And again Isaiah says,
+[12] And again ⟦isaiah|Yeshayahu|Isaiah⟧ says,
 
-"**The root of Jesse will come,
+"**The root of ⟦jesse|Yishai|Jesse⟧ will come,
 even he who arises to rule the Gentiles;
 in him will the Gentiles hope**."
 
-[13] May the *Elohim* of hope fill you with all joy and peace in believing, so that by the power of the *Ruach HaQodesh* you may abound in hope.
+[13] May the ⟦elohim|Elohim|God⟧ of hope fill you with all joy and peace in believing, so that by the power of the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧ you may abound in hope.
 
 [14] I myself am satisfied about you, my brothers, that you yourselves are full of goodness, filled with all knowledge and able to instruct one another.
 
-[15] But on some points I have written to you very boldly by way of reminder, because of the grace given me by *Elohim*
+[15] But on some points I have written to you very boldly by way of reminder, because of the grace given me by ⟦elohim|Elohim|God⟧
 
-[16] to be a minister of the *Mashiach* *Yeshua* to the Gentiles in the priestly service of the gospel of *Elohim*, so that the offering of the Gentiles may be acceptable, sanctified by the *Ruach HaQodesh*.
+[16] to be a minister of ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧ to the Gentiles in the priestly service of the gospel of ⟦elohim|Elohim|God⟧, so that the offering of the Gentiles may be acceptable, sanctified by the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧.
 
-[17] In the *Mashiach* *Yeshua*, then, I have reason to be proud of my work for *Elohim*.
+[17] In ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧, then, I have reason to be proud of my work for ⟦elohim|Elohim|God⟧.
 
-[18] For I will not venture to speak of anything except what the *Mashiach* has accomplished through me to bring the Gentiles to obedience — by word and deed,
+[18] For I will not venture to speak of anything except what ⟦mashiach|the Mashiach|Christ⟧ has accomplished through me to bring the Gentiles to obedience — by word and deed,
 
-[19] by the power of signs and wonders, by the power of the Spirit of *Elohim* — so that from Jerusalem and all the way around to Illyricum I have fulfilled the ministry of the gospel of the *Mashiach*;
+[19] by the power of signs and wonders, by the power of the Spirit of ⟦elohim|Elohim|God⟧ — so that from ⟦jerusalem|Yerushalayim|Jerusalem⟧ and all the way around to Illyricum I have fulfilled the ministry of the gospel of ⟦mashiach|the Mashiach|Christ⟧;
 
-[20] and thus I make it my ambition to preach the gospel, not where the *Mashiach* has already been named, lest I build on someone else's foundation,
+[20] and thus I make it my ambition to preach the gospel, not where ⟦mashiach|the Mashiach|Christ⟧ has already been named, lest I build on someone else's foundation,
 
 [21] but as it is written,
 
@@ -61,25 +61,25 @@ and those who have never heard will understand**."
 
 [23] But now, since I no longer have any room for work in these regions, and since I have longed for many years to come to you,
 
-[24] I hope to see you in passing as I go to Spain, and to be helped on my journey there by you, once I have enjoyed your company for a while.
+[24] I hope to see you in passing as I go to ⟦spain|Spania|Spain⟧, and to be helped on my journey there by you, once I have enjoyed your company for a while.
 
-[25] At present, however, I am going to Jerusalem bringing aid to the saints.
+[25] At present, however, I am going to ⟦jerusalem|Yerushalayim|Jerusalem⟧ bringing aid to the saints.
 
-[26] For Macedonia and Achaia have been pleased to make some contribution for the poor among the saints at Jerusalem.
+[26] For ⟦macedonia|Makedonia|Macedonia⟧ and Achaia have been pleased to make some contribution for the poor among the saints at ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
 [27] For they were pleased to do it, and indeed they owe it to them. For if the Gentiles have come to share in their spiritual blessings, they ought also to be of service to them in material blessings.
 
-[28] When therefore I have completed this and have delivered to them what has been collected, I will leave for Spain by way of you.
+[28] When therefore I have completed this and have delivered to them what has been collected, I will leave for ⟦spain|Spania|Spain⟧ by way of you.
 
-[29] I know that when I come to you I will come in the fullness of the blessing of the *Mashiach*.
+[29] I know that when I come to you I will come in the fullness of the blessing of ⟦mashiach|the Mashiach|Christ⟧.
 
-[30] I appeal to you, brothers, by our Lord *Yeshua* the *Mashiach* and by the love of the Spirit, to strive together with me in your prayers to *Elohim* on my behalf,
+[30] I appeal to you, brothers, by our Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧ and by the love of the Spirit, to strive together with me in your prayers to ⟦elohim|Elohim|God⟧ on my behalf,
 
-[31] that I may be delivered from the unbelievers in Judea, and that my service for Jerusalem may be acceptable to the saints,
+[31] that I may be delivered from the unbelievers in ⟦judea|Yehudah|Judea⟧, and that my service for ⟦jerusalem|Yerushalayim|Jerusalem⟧ may be acceptable to the saints,
 
-[32] so that by *Elohim*'s will I may come to you with joy and be refreshed in your company.
+[32] so that by ⟦elohim|Elohim's|God's⟧ will I may come to you with joy and be refreshed in your company.
 
-[33] May the *Elohim* of peace be with you all. Amen.
+[33] May the ⟦elohim|Elohim|God⟧ of peace be with you all. Amen.
 
 ## Changes
 

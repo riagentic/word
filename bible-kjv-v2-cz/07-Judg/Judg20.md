@@ -1,100 +1,100 @@
 # Soudců 20
 
-[1] Tehdy vyšli všichni synové Israele a shromáždění se sešlo jako jeden muž, od Danu až po Beershebu, i se zemí Gilead, k Yahweh do Mizpy.
+[1] Tehdy vyšli všichni synové ⟦israel|Jisraele|Izraele⟧ a shromáždění se sešlo jako jeden muž, od Danu až po ⟦beersheba|Beer Ševu|Beer-šebu⟧, i se zemí ⟦gilead|Gilad|Gileád⟧, k ⟦yhwh|Jahvovi|Hospodinu⟧ do ⟦mizpah|Micpy|Mispy⟧.
 
-[2] Předáci všeho lidu, všech kmenů Israele, se postavili ve shromáždění lidu *Elohim* – 400 000 pěšáků tasících meč.
+[2] Předáci všeho lidu, všech kmenů ⟦israel|Jisraele|Izraele⟧, se postavili ve shromáždění lidu ⟦elohim|Elohim|Božího⟧ – 400 000 pěšáků tasících meč.
 
-[3] (Synové Benjaminovi uslyšeli, že synové Israele vytáhli do Mizpy.) Synové Israele řekli: „Povězte nám, jak se to zlo stalo?“
+[3] (Synové ⟦benjamin|Binjaminovi|Benjamínovi⟧ uslyšeli, že synové ⟦israel|Jisraele|Izraele⟧ vytáhli do ⟦mizpah|Micpy|Mispy⟧.) Synové ⟦israel|Jisraele|Izraele⟧ řekli: „Povězte nám, jak se to zlo stalo?“
 
-[4] Levita, muž zavražděné ženy, odpověděl: „Přišel jsem do Gibeah, které patří Benjaminovi, já a má ženina, abychom tam přenocovali.
+[4] ⟦levites|Levi|Lévijec⟧, muž zavražděné ženy, odpověděl: „Přišel jsem do ⟦gibeah|Givy, která patří|Gibeje, která patří⟧ ⟦benjamin|Binjaminovi|Benjamínovi⟧, já a má ženina, abychom tam přenocovali.
 
-[5] Páni Gibeah povstali proti mně a v noci kvůli mně obklíčili dům; chtěli mě zabít. Mou ženinu znásilnili a ona je mrtvá.
+[5] Páni ⟦gibeah|Givy|Gibeje⟧ povstali proti mně a v noci kvůli mně obklíčili dům; chtěli mě zabít. Mou ženinu znásilnili a ona je mrtvá.
 
-[6] Uchopil jsem svou ženinu, rozsekal ji na kusy a rozeslal ji po celé zemi dědictví Israele; neboť se dopustili zvrhlosti a hanebnosti v Israeli.
+[6] Uchopil jsem svou ženinu, rozsekal ji na kusy a rozeslal ji po celé zemi dědictví ⟦israel|Jisraele|Izraele⟧; neboť se dopustili zvrhlosti a hanebnosti v ⟦israel|Jisraeli|Izraeli⟧.
 
-[7] Hle, vy všichni jste synové Israele; dejte zde svou radu a úsudek.“
+[7] Hle, vy všichni jste synové ⟦israel|Jisraele|Izraele⟧; dejte zde svou radu a úsudek.“
 
 [8] Všechen lid povstal jako jeden muž a řekl: „Nikdo z nás nepůjde do svého stanu a nikdo z nás se neuchýlí do svého domu.
 
-[9] Nyní tedy toto uděláme s Gibeah: vytáhneme proti němu podle losu.
+[9] Nyní tedy toto uděláme s ⟦gibeah|Givou: vytáhneme proti ní|Gibeou: vytáhneme proti ní⟧ podle losu.
 
-[10] Vezmeme ve všech kmenech Israele deset mužů ze sta, sto z tisíce a tisíc z deseti tisíc, aby opatřovali zásoby pro lid, aby lid, až přijde do Gibeah v Benjaminovi, mu odplatil za všechnu hanebnost, které se dopustili v Israeli.“
+[10] Vezmeme ve všech kmenech ⟦israel|Jisraele|Izraele⟧ deset mužů ze sta, sto z tisíce a tisíc z deseti tisíc, aby opatřovali zásoby pro lid, aby lid, až přijde do ⟦gibeah|Givy v Binjaminovi, jí odplatil|Gibeje v Benjamínovi, jí odplatil⟧ za všechnu hanebnost, které se dopustili v ⟦israel|Jisraeli|Izraeli⟧.“
 
-[11] Tak se všichni muži Israele shromáždili proti městu, sjednoceni jako jeden muž.
+[11] Tak se všichni muži ⟦israel|Jisraele|Izraele⟧ shromáždili proti městu, sjednoceni jako jeden muž.
 
-[12] Kmeny Israele poslaly muže po celém kmeni Benjaminově se vzkazem: „Co je to za zlo, které se mezi vámi stalo?
+[12] Kmeny ⟦israel|Jisraele|Izraele⟧ poslaly muže po celém kmeni ⟦benjamin|Binjaminově|Benjamínově⟧ se vzkazem: „Co je to za zlo, které se mezi vámi stalo?
 
-[13] Nyní tedy vydejte ty muže – syny Belialovy –, kteří jsou v Gibeah, abychom je usmrtili a odstranili zlo z Israele.“ Ale synové Benjaminovi nechtěli poslechnout hlas svých bratří, synů Israele.
+[13] Nyní tedy vydejte ty muže – ⟦belial|syny Belijjaalovy|ničemníky⟧ –, kteří jsou v ⟦gibeah|Givě|Gibeji⟧, abychom je usmrtili a odstranili zlo z ⟦israel|Jisraele|Izraele⟧.“ Ale synové ⟦benjamin|Binjaminovi|Benjamínovi⟧ nechtěli poslechnout hlas svých bratří, synů ⟦israel|Jisraele|Izraele⟧.
 
-[14] Synové Benjaminovi se shromáždili z měst do Gibeah, aby vyšli do boje proti synům Israele.
+[14] Synové ⟦benjamin|Binjaminovi|Benjamínovi⟧ se shromáždili z měst do ⟦gibeah|Givy|Gibeje⟧, aby vyšli do boje proti synům ⟦israel|Jisraele|Izraele⟧.
 
-[15] Synové Benjaminovi byli toho dne sečteni – 26 000 mužů tasících meč, z měst, kromě obyvatel Gibeah – 700 vybraných mužů.
+[15] Synové ⟦benjamin|Binjaminovi|Benjamínovi⟧ byli toho dne sečteni – 26 000 mužů tasících meč, z měst, kromě obyvatel ⟦gibeah|Givy|Gibeje⟧ – 700 vybraných mužů.
 
 [16] Mezi všemi těmi bylo 700 vybraných mužů leváků; každý z nich dokázal prakem mrštit kamenem na vlas a neminout.
 
-[17] Muži Israele, kromě Benjamina, byli sečteni – 400 000 mužů tasících meč, všichni válečníci.
+[17] Muži ⟦israel|Jisraele|Izraele⟧, kromě ⟦benjamin|Binjamina|Benjamína⟧, byli sečteni – 400 000 mužů tasících meč, všichni válečníci.
 
-[18] Synové Israele vstali, vytáhli do Bethelu a dotazovali se *Elohim*: „Kdo z nás má vytáhnout první do boje proti synům Benjaminovým?“ Yahweh řekl: „Judah první.“
+[18] Synové ⟦israel|Jisraele|Izraele⟧ vstali, vytáhli do ⟦bethel|Bejt Elu|Bét-elu⟧ a dotazovali se ⟦elohim|Elohim|Boha⟧: „Kdo z nás má vytáhnout první do boje proti synům ⟦benjamin|Binjaminovým|Benjamínovým⟧?“ ⟦yhwh|Jahve|Hospodin⟧ řekl: „⟦judah|Jehuda|Juda⟧ první.“
 
-[19] Synové Israele ráno vstali a utábořili se proti Gibeah.
+[19] Synové ⟦israel|Jisraele|Izraele⟧ ráno vstali a utábořili se proti ⟦gibeah|Givě|Gibeji⟧.
 
-[20] Muži Israele vyšli do boje proti Benjaminovi; muži Israele se proti nim seřadili k boji u Gibeah.
+[20] Muži ⟦israel|Jisraele|Izraele⟧ vyšli do boje proti ⟦benjamin|Binjaminovi|Benjamínovi⟧; muži ⟦israel|Jisraele|Izraele⟧ se proti nim seřadili k boji u ⟦gibeah|Givy|Gibeje⟧.
 
-[21] Synové Benjaminovi vyšli z Gibeah a toho dne povalili k zemi 22 000 mužů Israele.
+[21] Synové ⟦benjamin|Binjaminovi|Benjamínovi⟧ vyšli z ⟦gibeah|Givy|Gibeje⟧ a toho dne povalili k zemi 22 000 mužů ⟦israel|Jisraele|Izraele⟧.
 
-[22] Ale lid, muži Israele, se vzmužili a znovu se seřadili k boji na místě, kde se seřadili prvního dne.
+[22] Ale lid, muži ⟦israel|Jisraele|Izraele⟧, se vzmužili a znovu se seřadili k boji na místě, kde se seřadili prvního dne.
 
-[23] (Synové Israele vystoupili a plakali před Yahweh až do večera a dotazovali se Yahweh: „Máme znovu přistoupit k boji proti synům Benjamina, našeho bratra?“ Yahweh řekl: „Vytáhněte proti němu.“)
+[23] (Synové ⟦israel|Jisraele|Izraele⟧ vystoupili a plakali před ⟦yhwh|Jahvem|Hospodinem⟧ až do večera a dotazovali se ⟦yhwh|Jahveho|Hospodina⟧: „Máme znovu přistoupit k boji proti synům ⟦benjamin|Binjamina|Benjamína⟧, našeho bratra?“ ⟦yhwh|Jahve|Hospodin⟧ řekl: „Vytáhněte proti němu.“)
 
-[24] Synové Israele přistoupili druhého dne proti synům Benjaminovým.
+[24] Synové ⟦israel|Jisraele|Izraele⟧ přistoupili druhého dne proti synům ⟦benjamin|Binjaminovým|Benjamínovým⟧.
 
-[25] Benjamin proti nim druhého dne vyšel z Gibeah a znovu povalil k zemi 18 000 mužů ze synů Israele – všichni tasili meč.
+[25] ⟦benjamin|Binjamin|Benjamín⟧ proti nim druhého dne vyšel z ⟦gibeah|Givy|Gibeje⟧ a znovu povalil k zemi 18 000 mužů ze synů ⟦israel|Jisraele|Izraele⟧ – všichni tasili meč.
 
-[26] Tehdy všichni synové Israele a všechen lid vystoupili a přišli do Bethelu; plakali a seděli tam před Yahweh, postili se toho dne až do večera a přinášeli zápalné oběti a pokojné oběti před Yahweh.
+[26] Tehdy všichni synové ⟦israel|Jisraele|Izraele⟧ a všechen lid vystoupili a přišli do ⟦bethel|Bejt Elu|Bét-elu⟧; plakali a seděli tam před ⟦yhwh|Jahvem|Hospodinem⟧, postili se toho dne až do večera a přinášeli zápalné oběti a pokojné oběti před ⟦yhwh|Jahvem|Hospodinem⟧.
 
-[27] Synové Israele se dotazovali Yahweh (neboť v těch dnech tam byla truhla smlouvy *Elohim*
+[27] Synové ⟦israel|Jisraele|Izraele⟧ se dotazovali ⟦yhwh|Jahveho|Hospodina⟧ (neboť v těch dnech tam byla truhla smlouvy ⟦elohim|Elohim|Boží⟧
 
-[28] a Phinehas, syn Eleazara, syna Aaronova, před ní v těch dnech stál): „Máme ještě znovu vyjít do boje proti synům Benjamina, našeho bratra, nebo máme přestat?“ Yahweh řekl: „Vytáhněte, neboť zítra je vydám do tvé ruky.“
+[28] a Pinchas, syn ⟦eleazar|Elazara|Eleazara⟧, syna ⟦aaron|Aharonova|Áronova⟧, před ní v těch dnech stál): „Máme ještě znovu vyjít do boje proti synům ⟦benjamin|Binjamina|Benjamína⟧, našeho bratra, nebo máme přestat?“ ⟦yhwh|Jahve|Hospodin⟧ řekl: „Vytáhněte, neboť zítra je vydám do tvé ruky.“
 
-[29] Israel tedy rozestavil kolem Gibeah muže do zálohy.
+[29] ⟦israel|Jisrael|Izrael⟧ tedy rozestavil kolem ⟦gibeah|Givy|Gibeje⟧ muže do zálohy.
 
-[30] Synové Israele vytáhli třetího dne proti synům Benjaminovým a seřadili se proti Gibeah jako jindy.
+[30] Synové ⟦israel|Jisraele|Izraele⟧ vytáhli třetího dne proti synům ⟦benjamin|Binjaminovým|Benjamínovým⟧ a seřadili se proti ⟦gibeah|Givě|Gibeji⟧ jako jindy.
 
-[31] Synové Benjaminovi vyšli proti lidu a byli odlákáni od města. Začali jako jindy bít a zabíjet někteří z lidu na silnicích – z nichž jedna vede nahoru do Bethelu a druhá do Gibeah – v otevřené krajině, asi třicet mužů Israele.
+[31] Synové ⟦benjamin|Binjaminovi|Benjamínovi⟧ vyšli proti lidu a byli odlákáni od města. Začali jako jindy bít a zabíjet někteří z lidu na silnicích – z nichž jedna vede nahoru do ⟦bethel|Bejt Elu|Bét-elu⟧ a druhá do ⟦gibeah|Givy|Gibeje⟧ – v otevřené krajině, asi třicet mužů ⟦israel|Jisraele|Izraele⟧.
 
-[32] Synové Benjaminovi řekli: „Jsou před námi poraženi jako poprvé.“ Ale synové Israele řekli: „Utečme a odlákejme je od města na silnice.“
+[32] Synové ⟦benjamin|Binjaminovi|Benjamínovi⟧ řekli: „Jsou před námi poraženi jako poprvé.“ Ale synové ⟦israel|Jisraele|Izraele⟧ řekli: „Utečme a odlákejme je od města na silnice.“
 
-[33] Všichni muži Israele se zvedli ze svého místa a seřadili se k boji u Baal-tamaru; a muži Israele, kteří leželi v záloze, vyrazili ze svého místa, z roviny Geby.
+[33] Všichni muži ⟦israel|Jisraele|Izraele⟧ se zvedli ze svého místa a seřadili se k boji u ⟦baal-tamar|Baal Tamaru|Baal-tamaru⟧; a muži ⟦israel|Jisraele|Izraele⟧, kteří leželi v záloze, vyrazili ze svého místa, z roviny ⟦geba|Gevy|Geby⟧.
 
-[34] Proti Gibeah přitáhlo deset tisíc vybraných mužů z celého Israele a boj byl urputný; ale Benjamin nevěděl, že se na ně valí pohroma.
+[34] Proti ⟦gibeah|Givě|Gibeji⟧ přitáhlo deset tisíc vybraných mužů z celého ⟦israel|Jisraele|Izraele⟧ a boj byl urputný; ale ⟦benjamin|Binjamin|Benjamín⟧ nevěděl, že se na ně valí pohroma.
 
-[35] Yahweh porazil Benjamina před Israelem; synové Israele toho dne pobili 25 100 mužů z Benjamina – všichni tasili meč.
+[35] ⟦yhwh|Jahve|Hospodin⟧ porazil ⟦benjamin|Binjamina|Benjamína⟧ před ⟦israel|Jisraelem|Izraelem⟧; synové ⟦israel|Jisraele|Izraele⟧ toho dne pobili 25 100 mužů z ⟦benjamin|Binjamina|Benjamína⟧ – všichni tasili meč.
 
-[36] Synové Benjaminovi viděli, že jsou poraženi. Muži Israele totiž před Benjaminem ustupovali, protože spoléhali na zálohu, kterou nastražili proti Gibeah.
+[36] Synové ⟦benjamin|Binjaminovi|Benjamínovi⟧ viděli, že jsou poraženi. Muži ⟦israel|Jisraele|Izraele⟧ totiž před ⟦benjamin|Binjaminem|Benjamínem⟧ ustupovali, protože spoléhali na zálohu, kterou nastražili proti ⟦gibeah|Givě|Gibeji⟧.
 
-[37] Muži v záloze pospíšili a vrhli se na Gibeah; záloha se rozvinula a pobila celé město ostřím meče.
+[37] Muži v záloze pospíšili a vrhli se na ⟦gibeah|Givu|Gibeu⟧; záloha se rozvinula a pobila celé město ostřím meče.
 
-[38] Smluveným znamením mezi muži Israele a zálohou bylo, že nechají z města vystoupit veliký sloup kouře.
+[38] Smluveným znamením mezi muži ⟦israel|Jisraele|Izraele⟧ a zálohou bylo, že nechají z města vystoupit veliký sloup kouře.
 
-[39] Když se muži Israele v boji obrátili, začal Benjamin bít a zabil asi třicet mužů Israele, neboť říkali: „Jistě jsou před námi poraženi jako v prvním boji.“
+[39] Když se muži ⟦israel|Jisraele|Izraele⟧ v boji obrátili, začal ⟦benjamin|Binjamin|Benjamín⟧ bít a zabil asi třicet mužů ⟦israel|Jisraele|Izraele⟧, neboť říkali: „Jistě jsou před námi poraženi jako v prvním boji.“
 
-[40] Ale když z města začal stoupat sloup kouře jako pilíř, Benjaminité se ohlédli – a hle, celé město stoupalo v kouři k nebesům.
+[40] Ale když z města začal stoupat sloup kouře jako pilíř, ⟦benjamin|Binjamin se ohlédl|Benjamínovci se ohlédli⟧ – a hle, celé město stoupalo v kouři k nebesům.
 
-[41] Když se muži Israele obrátili zpět, muži Benjamina se zděsili, neboť viděli, že je dostihla pohroma.
+[41] Když se muži ⟦israel|Jisraele|Izraele⟧ obrátili zpět, muži ⟦benjamin|Binjamina|Benjamína⟧ se zděsili, neboť viděli, že je dostihla pohroma.
 
-[42] Obrátili se tedy před muži Israele na útěk směrem k poušti; ale boj je dostihl a ty, kteří vyšli z měst, pobili uprostřed nich.
+[42] Obrátili se tedy před muži ⟦israel|Jisraele|Izraele⟧ na útěk směrem k poušti; ale boj je dostihl a ty, kteří vyšli z měst, pobili uprostřed nich.
 
-[43] Obklíčili Benjaminity, pronásledovali je a snadno je pošlapali od okolí Gibeah směrem k východu slunce.
+[43] Obklíčili ⟦benjamin|Binjamina, pronásledovali ho a snadno ho|Benjamínovce, pronásledovali je a snadno je⟧ pošlapali od okolí ⟦gibeah|Givy|Gibeje⟧ směrem k východu slunce.
 
-[44] Padlo osmnáct tisíc mužů z Benjamina – všichni udatní muži.
+[44] Padlo osmnáct tisíc mužů z ⟦benjamin|Binjamina|Benjamína⟧ – všichni udatní muži.
 
-[45] Obrátili se a utekli k poušti ke skále Rimmon. Na silnicích jich paběrkovali pět tisíc mužů a pronásledovali je až do Gidomu a zabili z nich dva tisíce mužů.
+[45] Obrátili se a utekli k poušti ke skále ⟦rimmon|Rimmon|Rimón⟧. Na silnicích jich paběrkovali pět tisíc mužů a pronásledovali je až do ⟦gidom|Gidomu|Gideómu⟧ a zabili z nich dva tisíce mužů.
 
-[46] Všech, kdo toho dne padli z Benjamina, bylo 25 000 mužů tasících meč, všichni udatní muži.
+[46] Všech, kdo toho dne padli z ⟦benjamin|Binjamina|Benjamína⟧, bylo 25 000 mužů tasících meč, všichni udatní muži.
 
-[47] Šest set mužů se obrátilo a uteklo do pouště ke skále Rimmon a zůstali u skály Rimmon čtyři měsíce.
+[47] Šest set mužů se obrátilo a uteklo do pouště ke skále ⟦rimmon|Rimmon|Rimón⟧ a zůstali u skály ⟦rimmon|Rimmon|Rimón⟧ čtyři měsíce.
 
-[48] Muži Israele se obrátili zpět proti synům Benjaminovým a pobili je ostřím meče – lid každého města i dobytek a všechno, co jim přišlo pod ruku; a všechna města, na která narazili, zapálili.
+[48] Muži ⟦israel|Jisraele|Izraele⟧ se obrátili zpět proti synům ⟦benjamin|Binjaminovým|Benjamínovým⟧ a pobili je ostřím meče – lid každého města i dobytek a všechno, co jim přišlo pod ruku; a všechna města, na která narazili, zapálili.
 
 ## Změny
 

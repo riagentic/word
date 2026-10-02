@@ -13,7 +13,7 @@ a její řeč je hladší než olej,
 ostrá jako dvojsečný meč.
 
 [5] Její nohy sestupují k smrti;
-její kroky vedou stezkou do Sheol;
+její kroky vedou stezkou do ⟦sheol|Šeolu|podsvětí⟧;
 
 [6] nezvažuje stezku života;
 její cesty bloudí, a ona to neví.
@@ -61,7 +61,7 @@ buď vždy opojen její láskou.
 [20] Proč bys měl být opojen, můj synu, zakázanou ženou
 a objímat ňadra cizoložnice?
 
-[21] Neboť cesty člověka jsou před očima Yahweh
+[21] Neboť cesty člověka jsou před očima ⟦yhwh|Jahveho|Hospodina⟧
 a on zvažuje všechny jeho stezky.
 
 [22] Nepravosti svévolníka ho chytí do léčky

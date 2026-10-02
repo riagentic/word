@@ -1,11 +1,11 @@
 # Genesis 49
 
-[1] Potom Jacob zavolal své syny a řekl: „Shromážděte se, ať vám oznámím, co vás potká v nastávajících dnech.
+[1] Potom ⟦jacob|Jaakov|Jákob⟧ zavolal své syny a řekl: „Shromážděte se, ať vám oznámím, co vás potká v nastávajících dnech.
 
-[2] Sejděte se a slyšte, synové Jacoba;
-naslouchejte Israelovi, svému otci.
+[2] Sejděte se a slyšte, synové ⟦jacob|Jaakova|Jákoba⟧;
+naslouchejte ⟦israel|Jisraelovi|Izraelovi⟧, svému otci.
 
-[3] Reubene, ty jsi můj prvorozený,
+[3] ⟦reuben|Reuvene|Rúbene⟧, ty jsi můj prvorozený,
 má síla a prvotina mé mužné moci,
 přední v důstojnosti a přední v moci.
 
@@ -13,7 +13,7 @@ přední v důstojnosti a přední v moci.
 neboť jsi vstoupil na lože svého otce;
 tehdy jsi je poskvrnil – on vstoupil na mé lůžko.
 
-[5] Simeon a Levi jsou bratři;
+[5] ⟦simeon|Šimon|Šimeón⟧ a ⟦levi|Levi|Lévi⟧ jsou bratři;
 nástroji násilí jsou jejich meče.
 
 [6] Má duše, nevcházej do jejich rady;
@@ -23,21 +23,21 @@ a ve své svévoli ochromovali býky.
 
 [7] Proklet buď jejich hněv, neboť je prudký,
 a jejich zloba, neboť je krutá.
-Rozdělím je v Jacobovi
-a rozptýlím je v Israeli.
+Rozdělím je v ⟦jacob|Jaakovovi|Jákobovi⟧
+a rozptýlím je v ⟦israel|Jisraeli|Izraeli⟧.
 
-[8] Judahu, ty jsi ten, koho budou chválit tvoji bratři;
+[8] ⟦judah|Jehudo|Judo⟧, ty jsi ten, koho budou chválit tvoji bratři;
 tvá ruka bude na šíji tvých nepřátel;
 synové tvého otce se ti budou klanět.
 
-[9] Judah je lvíče;
+[9] ⟦judah|Jehuda|Juda⟧ je lvíče;
 od kořisti, můj synu, jsi vystoupil.
 Přikrčí se, uléhá jako lev
 a jako lvice – kdo ho vyburcuje?
 
-[10] Žezlo se neodchýlí od Judaha
+[10] Žezlo se neodchýlí od ⟦judah|Jehudy|Judy⟧
 ani vladařská hůl zpomezi jeho nohou,
-dokud nepřijde Shiloh,
+dokud nepřijde ⟦shiloh|Šilo|Šíló⟧,
 a jemu bude patřit poslušnost národů.
 
 [11] Přivazuje své hříbě k vinné révě
@@ -48,11 +48,11 @@ a svůj plášť v krvi hroznů.
 [12] Jeho oči jsou tmavší než víno
 a jeho zuby bělejší než mléko.
 
-[13] Zebulun bude bydlet na mořském břehu;
+[13] ⟦zebulun|Zevulun|Zabulón⟧ bude bydlet na mořském břehu;
 bude pobřežím pro lodě
-a jeho bok bude obrácen k Sidonu.
+a jeho bok bude obrácen k ⟦sidon|Cidonu|Sidónu⟧.
 
-[14] Issachar je silný osel,
+[14] ⟦issachar|Jissachar|Isachar⟧ je silný osel,
 který odpočívá mezi ovčinci.
 
 [15] Viděl, že odpočinek je dobrý
@@ -61,25 +61,25 @@ sklonil tedy rameno, aby nesl břemeno,
 a stal se otrokem nucené práce.
 
 [16] Dan bude soudit svůj lid
-jako jeden z kmenů Israele.
+jako jeden z kmenů ⟦israel|Jisraele|Izraele⟧.
 
 [17] Dan bude hadem na cestě,
 rohatou zmijí na stezce,
 která uštkne koně do paty,
 takže jeho jezdec spadne naznak.
 
-[18] Na tvou spásu čekám, Yahweh.
+[18] Na tvou spásu čekám, ⟦yhwh|Jahve|Hospodine⟧.
 
-[19] Gad – loupeživá tlupa na něho bude útočit,
+[19] ⟦gad|Gad|Gád⟧ – loupeživá tlupa na něho bude útočit,
 ale on bude útočit na jejich patu.
 
-[20] Asher – jeho chléb bude vydatný
+[20] Ašer – jeho chléb bude vydatný
 a on bude dávat královské lahůdky.
 
-[21] Naphtali je volně vypuštěná laň;
+[21] ⟦naphtali|Naftali|Neftalí⟧ je volně vypuštěná laň;
 pronáší krásná slova.
 
-[22] Joseph je plodná ratolest,
+[22] Josef je plodná ratolest,
 plodná ratolest u pramene;
 jeho výhonky přerůstají přes zeď.
 
@@ -88,11 +88,11 @@ stříleli na něho a sužovali ho.
 
 [24] Ale jeho luk zůstal pevný
 a paže jeho rukou byly učiněny hbitými
-rukama Mocného Jacobova –
-odtamtud, od Pastýře, Kamene Israele –
+rukama Mocného ⟦jacob|Jaakovova|Jákobova⟧ –
+odtamtud, od Pastýře, Kamene ⟦israel|Jisraele|Izraele⟧ –
 
-[25] od *Elohim* tvého otce, který ti pomůže,
-od Shaddai, který ti požehná
+[25] od ⟦el|El|Boha⟧ tvého otce, který ti pomůže,
+od ⟦shaddai|Šaddaj|Všemohoucího⟧, který ti požehná
 požehnáními nebes shůry,
 požehnáními hlubiny, jež leží dole,
 požehnáními prsů a lůna.
@@ -100,24 +100,24 @@ požehnáními prsů a lůna.
 [26] Požehnání tvého otce
 jsou mocnější než požehnání věčných hor,
 dary odvěkých pahorků.
-Kéž spočinou na hlavě Josepha,
+Kéž spočinou na hlavě Josefa,
 na temeni knížete mezi jeho bratry.
 
-[27] Benjamin je vlk, který trhá;
+[27] ⟦benjamin|Binjamin|Benjamín⟧ je vlk, který trhá;
 ráno požírá kořist
 a večer rozděluje lup.“
 
-[28] To všechno je dvanáct kmenů Israele; a toto jim řekl jejich otec, když jim žehnal; každému požehnal požehnáním, které mu příslušelo.
+[28] To všechno je dvanáct kmenů ⟦israel|Jisraele|Izraele⟧; a toto jim řekl jejich otec, když jim žehnal; každému požehnal požehnáním, které mu příslušelo.
 
-[29] Potom jim přikázal a řekl jim: „Já budu brzy připojen ke svému lidu; pohřběte mě u mých otců v jeskyni, která je na poli Ephrona Hittity,
+[29] Potom jim přikázal a řekl jim: „Já budu brzy připojen ke svému lidu; pohřběte mě u mých otců v jeskyni, která je na poli ⟦ephron|Efrona|Efróna⟧ ⟦hittite|Chittiho|Chetejce⟧,
 
-[30] v jeskyni, která je na poli Machpelah naproti Mamre v zemi Canaan, kterou Abraham koupil spolu s polem od Ephrona Hittity do vlastnictví jako hrob.
+[30] v jeskyni, která je na poli ⟦machpelah|Machpela|Makpela⟧ naproti Mamre v zemi Kenaan, kterou ⟦abraham|Avraham|Abraham⟧ koupil spolu s polem od ⟦ephron|Efrona|Efróna⟧ ⟦hittite|Chittiho|Chetejce⟧ do vlastnictví jako hrob.
 
-[31] Tam pohřbili Abrahama a jeho manželku Sarah; tam pohřbili Isaaca a jeho manželku Rebekah; a tam jsem pohřbil Leah –
+[31] Tam pohřbili ⟦abraham|Avrahama|Abrahama⟧ a jeho manželku ⟦sarah|Saru|Sáru⟧; tam pohřbili ⟦isaac|Jicchaka|Izáka⟧ a jeho manželku ⟦rebekah|Rivku|Rebeku⟧; a tam jsem pohřbil Leu –
 
-[32] pole i jeskyně v něm byly koupeny od synů Hetha.“
+[32] pole i jeskyně v něm byly koupeny od synů Cheta.“
 
-[33] Když Jacob dokončil příkazy svým synům, stáhl nohy na lůžko, vydechl naposledy a byl připojen ke svému lidu.
+[33] Když ⟦jacob|Jaakov|Jákob⟧ dokončil příkazy svým synům, stáhl nohy na lůžko, vydechl naposledy a byl připojen ke svému lidu.
 
 ## Změny
 
@@ -147,6 +147,7 @@ a večer rozděluje lup.“
 - **"arms were made strong" → „paže jeho rukou byly učiněny hbitými“** (v24) – hebrejsky וַיָּפֹזּוּ זְרֹעֵי יָדָיו *wa-yaphozzu zero'e yadav*. *Pazaz* = být hbitý / pružný / obratný (podle homonyma též „ryzí zlato“). Josephovy ruce učiněny pružnými pro lukostřelbu.
 - **"the mighty God of Jacob" → „Mocný Jacobův“** (v24) – hebrejsky אֲבִיר יַעֲקֹב *Abir Ya'aqov*. *Abir* = Mocný / Hřebec. Božský titul vlastní jen Jacobovu příběhu.
 - **"the Almighty" → „Shaddai“** (v25) – hebrejsky שַׁדַּי *Shaddai*. Viz 17:1. „Požehnání prsů“ (*shaddayim*) je slovní hříčkou se *Shaddai* – živitelský / plodný smysl jména.
+- **"the God of thy father" → „El tvého otce“** (v25) – hebrejsky אֵל אָבִיךָ *El avikha*.
 - **"separate from" → „kníže mezi“** (v26) – hebrejsky נָזִיר אֶחָיו *nezir echav*. *Nazir* = oddělený / zasvěcený / korunovaný (od *nezer* „čelenka, diadém“). Joseph jako korunní princ mezi svými bratry, ne pouze „oddělený“.
 - **"ravin as a wolf" → „vlk, který trhá“** (v27) – hebrejsky זְאֵב יִטְרָף *ze'ev yitraph*. *Taraph* = rvát / trhat na kusy.
 - **"yielded up the ghost" → „vydechl naposledy“** (v33) – jako ve 25:8.

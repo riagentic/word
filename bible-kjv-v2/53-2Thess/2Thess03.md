@@ -8,9 +8,9 @@
 
 [4] And we have confidence in the Lord about you, that you are doing and will do the things that we command.
 
-[5] May the Lord direct your hearts to the love of *Elohim* and to the steadfastness of the *Mashiach*.
+[5] May the Lord direct your hearts to the love of ⟦elohim|Elohim|God⟧ and to the steadfastness of ⟦mashiach|the Mashiach|Christ⟧.
 
-[6] Now we command you, brothers, in the name of our Lord *Yeshua* the *Mashiach*, that you keep away from any brother who is walking in idleness and not in accord with the tradition that you received from us.
+[6] Now we command you, brothers, in the name of our Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧, that you keep away from any brother who is walking in idleness and not in accord with the tradition that you received from us.
 
 [7] For you yourselves know how you ought to imitate us, because we were not idle when we were with you,
 
@@ -22,7 +22,7 @@
 
 [11] For we hear that some among you walk in idleness, not busy at work, but busybodies.
 
-[12] Now such persons we command and encourage in the Lord *Yeshua* the *Mashiach* to do their work quietly and to earn their own living.
+[12] Now such persons we command and encourage in the Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧ to do their work quietly and to earn their own living.
 
 [13] As for you, brothers, do not grow weary in doing good.
 
@@ -32,9 +32,9 @@
 
 [16] Now may the Lord of peace himself give you peace at all times in every way. The Lord be with you all.
 
-[17] I, Paul, write this greeting with my own hand. This is the sign of genuineness in every letter of mine; it is the way I write.
+[17] I, ⟦paul|Paulus|Paul⟧, write this greeting with my own hand. This is the sign of genuineness in every letter of mine; it is the way I write.
 
-[18] The grace of our Lord *Yeshua* the *Mashiach* be with you all.
+[18] The grace of our Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧ be with you all.
 
 ## Changes
 

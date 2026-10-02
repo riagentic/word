@@ -1,48 +1,48 @@
 # Exodus 1
 
-[1] These are the names of the sons of Israel who came to Egypt with Jacob, each man with his household:
+[1] These are the names of the sons of ⟦israel|Yisrael|Israel⟧ who came to ⟦egypt|Mitzrayim|Egypt⟧ with ⟦jacob|Yaaqov|Jacob⟧, each man with his household:
 
-[2] Reuben, Simeon, Levi, Judah,
+[2] ⟦reuben|Reuven|Reuben⟧, ⟦simeon|Shimon|Simeon⟧, Levi, ⟦judah|Yehudah|Judah⟧,
 
-[3] Issachar, Zebulun, Benjamin,
+[3] ⟦issachar|Yissachar|Issachar⟧, ⟦zebulun|Zevulun|Zebulun⟧, ⟦benjamin|Binyamin|Benjamin⟧,
 
-[4] Dan, Naphtali, Gad, and Asher.
+[4] Dan, ⟦naphtali|Naftali|Naphtali⟧, Gad, and Asher.
 
-[5] All the persons who came from the loins of Jacob were 70 in all; Joseph was already in Egypt.
+[5] All the persons who came from the loins of ⟦jacob|Yaaqov|Jacob⟧ were 70 in all; ⟦joseph|Yosef|Joseph⟧ was already in ⟦egypt|Mitzrayim|Egypt⟧.
 
-[6] Then Joseph died, and all his brothers, and all that generation.
+[6] Then ⟦joseph|Yosef|Joseph⟧ died, and all his brothers, and all that generation.
 
-[7] But the children of Israel were fruitful and teemed and multiplied and grew very mighty; and the land was filled with them.
+[7] But the children of ⟦israel|Yisrael|Israel⟧ were fruitful and teemed and multiplied and grew very mighty; and the land was filled with them.
 
-[8] A new king arose over Egypt, who did not know Joseph.
+[8] A new king arose over ⟦egypt|Mitzrayim|Egypt⟧, who did not know ⟦joseph|Yosef|Joseph⟧.
 
-[9] He said to his people, "Behold, the people of the children of Israel are more numerous and mightier than we.
+[9] He said to his people, "Behold, the people of the children of ⟦israel|Yisrael|Israel⟧ are more numerous and mightier than we.
 
 [10] Come, let us deal shrewdly with them, lest they multiply; and in the event of war, they may join those who hate us, fight against us, and go up from the land."
 
-[11] So they set taskmasters over them to oppress them with their forced labor. They built store-cities for Pharaoh: Pithom and Raamses.
+[11] So they set taskmasters over them to oppress them with their forced labor. They built store-cities for ⟦pharaoh|Paroh|Pharaoh⟧: ⟦pithom|Pitom|Pithom⟧ and Raamses.
 
-[12] But the more they oppressed them, the more they multiplied and the more they spread. So the Egyptians came to dread the children of Israel.
+[12] But the more they oppressed them, the more they multiplied and the more they spread. So the ⟦egyptians|Mitzrim|Egyptians⟧ came to dread the children of ⟦israel|Yisrael|Israel⟧.
 
-[13] The Egyptians made the children of Israel serve with harshness,
+[13] The ⟦egyptians|Mitzrim|Egyptians⟧ made the children of ⟦israel|Yisrael|Israel⟧ serve with harshness,
 
 [14] and they made their lives bitter with hard labor — with mortar and brick, and with every kind of labor in the field. In all their service, they worked them with harshness.
 
-[15] The king of Egypt said to the Hebrew midwives — the name of the one was Shiphrah, and the name of the other Puah —
+[15] The king of ⟦egypt|Mitzrayim|Egypt⟧ said to the ⟦hebrew|Ivri|Hebrew⟧ midwives — the name of the one was ⟦shiphrah|Shifrah|Shiphrah⟧, and the name of the other Puah —
 
-[16] and he said, "When you deliver the Hebrew women, look upon the birthstool: if it is a son, you shall put him to death; but if it is a daughter, she shall live."
+[16] and he said, "When you deliver the ⟦hebrew|Ivri|Hebrew⟧ women, look upon the birthstool: if it is a son, you shall put him to death; but if it is a daughter, she shall live."
 
-[17] But the midwives feared *Elohim* and did not do as the king of Egypt had spoken to them, but let the boys live.
+[17] But the midwives feared ⟦elohim|Elohim|God⟧ and did not do as the king of ⟦egypt|Mitzrayim|Egypt⟧ had spoken to them, but let the boys live.
 
-[18] The king of Egypt called the midwives and said to them, "Why have you done this thing and let the boys live?"
+[18] The king of ⟦egypt|Mitzrayim|Egypt⟧ called the midwives and said to them, "Why have you done this thing and let the boys live?"
 
-[19] The midwives said to Pharaoh, "Because the Hebrew women are not like the Egyptian women; for they are vigorous, and they give birth before the midwife comes to them."
+[19] The midwives said to ⟦pharaoh|Paroh|Pharaoh⟧, "Because the ⟦hebrew|Ivri|Hebrew⟧ women are not like the ⟦egyptian|Mitzri|Egyptian⟧ women; for they are vigorous, and they give birth before the midwife comes to them."
 
-[20] So *Elohim* dealt well with the midwives; and the people multiplied and grew very mighty.
+[20] So ⟦elohim|Elohim|God⟧ dealt well with the midwives; and the people multiplied and grew very mighty.
 
-[21] And because the midwives feared *Elohim*, he made households for them.
+[21] And because the midwives feared ⟦elohim|Elohim|God⟧, he made households for them.
 
-[22] Then Pharaoh commanded all his people, "Every son that is born you shall cast into the Nile; but every daughter you shall let live."
+[22] Then ⟦pharaoh|Paroh|Pharaoh⟧ commanded all his people, "Every son that is born you shall cast into the ⟦nile|Yeor|Nile⟧; but every daughter you shall let live."
 
 ## Changes
 

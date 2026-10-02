@@ -51,7 +51,7 @@ my heart too will be glad.
 when your lips speak what is right.
 
 [17] Let not your heart envy sinners,
-but continue in the fear of Yahweh all the day.
+but continue in the fear of ⟦yhwh|Yahweh|the LORD⟧ all the day.
 
 [18] Surely there is a future,
 and your hope will not be cut off.

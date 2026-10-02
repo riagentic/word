@@ -12,8 +12,8 @@ a vytesal v ní lis;
 a čekal, že vydá hrozny,
 ale vydala plané hrozny.
 
-[3] A nyní, obyvatelé Jerusalema
-a muži Judahu,
+[3] A nyní, obyvatelé ⟦jerusalem|Jerušalajim|Jeruzaléma⟧
+a muži ⟦judah|Jehudy|Judy⟧,
 rozsuďte mezi mnou a mou vinicí.
 
 [4] Co víc se dalo udělat pro mou vinici,
@@ -34,9 +34,9 @@ a vyroste trní a bodláčí;
 a oblakům přikážu,
 aby na ni nesesílaly déšť.
 
-[7] Neboť vinicí Yahweh zástupů
-je dům Israele
-a muži Judahu
+[7] Neboť vinicí ⟦yhwh|Jahveho|Hospodina⟧ zástupů
+je dům ⟦israel|Jisraele|Izraele⟧
+a muži ⟦judah|Jehudy|Judy⟧
 jsou jeho milou výsadbou;
 a čekal právo,
 ale hle, krveprolití;
@@ -49,7 +49,7 @@ až už nezbude místo
 a vy budete bydlet sami
 uprostřed země.
 
-[9] Yahweh zástupů přísahal v mém slyšení:
+[9] ⟦yhwh|Jahve|Hospodin⟧ zástupů přísahal v mém slyšení:
 „Jistě mnohé domy zpustnou,
 veliké a krásné domy, bez obyvatel.
 
@@ -63,7 +63,7 @@ až je víno rozpálí!
 
 [12] Mají lyru a harfu,
 tamburínu a flétnu a víno na svých hostinách,
-ale nedbají na skutky Yahweh
+ale nedbají na skutky ⟦yhwh|Jahveho|Hospodina⟧
 a nevidí dílo jeho rukou.
 
 [13] Proto můj lid odchází do vyhnanství
@@ -71,16 +71,16 @@ pro nedostatek poznání;
 jeho vážení muži hladovějí
 a jeho množství vysychá žízní.
 
-[14] Proto Sheol rozšířil svůj chtíč
+[14] Proto ⟦sheol|Šeol|podsvětí⟧ rozšířil svůj chtíč
 a otevřel svou tlamu nad míru
-a sestoupí tam šlechta Jerusalema i jeho množství,
+a sestoupí tam šlechta ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ i jeho množství,
 jeho hýřilové i ten, kdo v něm jásá.
 
 [15] Člověk je ponížen a každý je sražen
 a oči povýšených jsou sraženy.
 
-[16] Ale Yahweh zástupů je vyvýšen v právu
-a svatý *Elohim* se prokazuje svatým ve spravedlnosti.
+[16] Ale ⟦yhwh|Jahve|Hospodin⟧ zástupů je vyvýšen v právu
+a svatý ⟦el|El|Bůh⟧ se prokazuje svatým ve spravedlnosti.
 
 [17] Tehdy se budou jehňata pást jako na své pastvině
 a kočovníci budou jíst mezi troskami bohatých.
@@ -91,7 +91,7 @@ kdo táhnou hřích jako vozovými lany,
 [19] kdo říkají: „Ať si pospíší,
 ať urychlí své dílo,
 abychom je viděli;
-ať se přiblíží rada Svatého Israele
+ať se přiblíží rada Svatého ⟦israel|Jisraele|Izraele⟧
 a ať přijde, abychom ji poznali!“
 
 [20] Běda těm, kdo zlu říkají dobro
@@ -114,10 +114,10 @@ a nevinnému upírají jeho právo!
 a jako suchá tráva klesá v plameni,
 tak bude jejich kořen jako hniloba
 a jejich květ vzlétne jako prach;
-neboť zavrhli Zákon Yahweh zástupů
-a pohrdli slovem Svatého Israele.
+neboť zavrhli ⟦torah|Tóru|zákon⟧ ⟦yhwh|Jahveho|Hospodina⟧ zástupů
+a pohrdli slovem Svatého ⟦israel|Jisraele|Izraele⟧.
 
-[25] Proto vzplál hněv Yahweh proti jeho lidu
+[25] Proto vzplál hněv ⟦yhwh|Jahveho|Hospodina⟧ proti jeho lidu
 a vztáhl proti nim svou ruku a bil je
 a hory se zachvěly;
 a jejich mrtvoly byly jako smetí uprostřed ulic.
@@ -155,6 +155,7 @@ a světlo je zatemněno jejími mračny.
 - **"LORD of hosts" → „Yahweh zástupů“** (v7, 9, 16, 24) – boží vojenský / panovnický titul zachován.
 - **"judgment" → „právo“; "oppression" → „krveprolití“; "a cry" → „úpěnlivý křik“** (v7) – hebrejská slovní hříčka: *mishpat* (právo) vs. *mispach* (krveprolití); *tzedaqah* (spravedlnost) vs. *tze'aqah* (úpěnlivý křik). Hříčku nelze v překladu napodobit; slova jsou přeložena a hříčka je uvedena zde.
 - **„Sheol“ ponecháno** (v14) – hebrejské podsvětí; „hell“ (KJV) vnáší pozdější teologický smysl.
+- **"God" → „El“** (v16) – hebrejsky אֵל *El*, ne *Elohim*.
 - **Básnická stavba** – celá kapitola uspořádána jako verše se správnými zlomy řádků; číslování veršů v KJV může zastírat paralelismus.
 
 ### Poznámky

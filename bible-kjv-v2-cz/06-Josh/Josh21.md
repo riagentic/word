@@ -1,94 +1,94 @@
 # Jozue 21
 
-[1] Představení otcovských domů Levitů přistoupili ke knězi Eleazarovi, k Joshuovi, synu Nunovu, a k představeným otcovských domů kmenů synů Israele;
+[1] Představení otcovských domů ⟦levites|Levijim|lévijců⟧ přistoupili ke knězi ⟦eleazar|Elazarovi|Eleazarovi⟧, k ⟦joshua|Jehošuovi|Jozuovi⟧, synu ⟦nun|Nunovu|Núnovu⟧, a k představeným otcovských domů kmenů synů ⟦israel|Jisraele|Izraele⟧;
 
-[2] a promluvili k nim v Shilohu v zemi Canaan: „Yahweh přikázal skrze Mosese, aby nám byla dána města k bydlení s pastvinami pro náš dobytek.“
+[2] a promluvili k nim v ⟦shiloh|Šilu|Šílu⟧ v zemi Kenaan: „⟦yhwh|Jahve|Hospodin⟧ přikázal skrze ⟦moses|Moše|Mojžíše⟧, aby nám byla dána města k bydlení s pastvinami pro náš dobytek.“
 
-[3] Synové Israele tedy dali Levitům ze svého dědictví na příkaz Yahweh tato města a jejich pastviny.
+[3] Synové ⟦israel|Jisraele|Izraele⟧ tedy dali ⟦levites|Levijim|lévijcům⟧ ze svého dědictví na příkaz ⟦yhwh|Jahveho|Hospodina⟧ tato města a jejich pastviny.
 
-[4] Los vyšel pro rody Kohathitů; synové kněze Aarona, kteří byli z Levitů, dostali losem třináct měst z kmene Judah, z kmene Simeon a z kmene Benjamin.
+[4] Los vyšel pro rody ⟦kohathites|Kehati|Kehatovců⟧; synové kněze ⟦aaron|Aharona|Árona⟧, kteří byli z ⟦levites|Levijim|lévijců⟧, dostali losem třináct měst z kmene ⟦judah|Jehuda|Juda⟧, z kmene ⟦simeon|Šimon|Šimeón⟧ a z kmene ⟦benjamin|Binjamin|Benjamín⟧.
 
-[5] Ostatní synové Kohatha dostali losem deset měst z rodů kmene Ephraim, z kmene Dan a z poloviny kmene Manasseh.
+[5] Ostatní synové Kehata dostali losem deset měst z rodů kmene Efrajim, z kmene Dan a z poloviny kmene ⟦manasseh|Menaše|Manases⟧.
 
-[6] Synové Gershona dostali losem třináct měst z rodů kmene Issachar, z kmene Asher, z kmene Naphtali a z poloviny kmene Manasseh v Bashanu.
+[6] Synové ⟦gershon|Geršona|Geršóna⟧ dostali losem třináct měst z rodů kmene ⟦issachar|Jissachar|Isachar⟧, z kmene Ašer, z kmene ⟦naphtali|Naftali|Neftalí⟧ a z poloviny kmene ⟦manasseh|Menaše|Manases⟧ v ⟦bashan|Bašanu|Bášanu⟧.
 
-[7] Synové Merariho podle svých rodů dostali dvanáct měst z kmene Reuben, z kmene Gad a z kmene Zebulun.
+[7] Synové ⟦merari|Merariho|Merarího⟧ podle svých rodů dostali dvanáct měst z kmene ⟦reuben|Reuven|Rúben⟧, z kmene ⟦gad|Gad|Gád⟧ a z kmene ⟦zebulun|Zevulun|Zabulón⟧.
 
-[8] Synové Israele dali losem Levitům tato města s pastvinami, jak Yahweh přikázal skrze Mosese.
+[8] Synové ⟦israel|Jisraele|Izraele⟧ dali losem ⟦levites|Levijim|lévijcům⟧ tato města s pastvinami, jak ⟦yhwh|Jahve|Hospodin⟧ přikázal skrze ⟦moses|Moše|Mojžíše⟧.
 
-[9] Z kmene synů Judah a z kmene synů Simeona dali tato města, jež jsou uvedena jménem,
+[9] Z kmene synů ⟦judah|Jehudy|Judy⟧ a z kmene synů ⟦simeon|Šimona|Šimeóna⟧ dali tato města, jež jsou uvedena jménem,
 
-[10] a připadla synům Aaronovým, kteří byli z rodů Kohathitů, ze synů Leviho; neboť jim připadl první los.
+[10] a připadla synům ⟦aaron|Aharonovým|Áronovým⟧, kteří byli z rodů ⟦kohathites|Kehati|Kehatovců⟧, ze synů ⟦levi|Leviho|Lévího⟧; neboť jim připadl první los.
 
-[11] Dali jim Kiriath-arba (otce Anakova) – to je Hebron – v pahorkatině Judah s okolními pastvinami.
+[11] Dali jim ⟦kiriath-arba|Kirjat Arbu|Kirjat-arbu⟧ (otce ⟦anak|Anakova|Anákova⟧) – to je ⟦hebron|Chevron|Chebrón⟧ – v pahorkatině ⟦judah|Jehuda|Juda⟧ s okolními pastvinami.
 
-[12] Pole města a jeho vesnice však byly dány do vlastnictví Calebovi, synu Jephunnehovu.
+[12] Pole města a jeho vesnice však byly dány do vlastnictví ⟦caleb|Kalevovi|Kálebovi⟧, synu ⟦jephunneh|Jefunnovu|Jefunovu⟧.
 
-[13] Synům kněze Aarona dali Hebron s pastvinami – útočištné město pro zabijáka – a Libnah s pastvinami,
+[13] Synům kněze ⟦aaron|Aharona|Árona⟧ dali ⟦hebron|Chevron|Chebrón⟧ s pastvinami – útočištné město pro zabijáka – a ⟦libnah|Livnu|Libnu⟧ s pastvinami,
 
-[14] Jattir s pastvinami, Eshtemoa s pastvinami,
+[14] ⟦jattir|Jattir|Jatír⟧ s pastvinami, ⟦eshtemoa|Eštemou|Eštemóu⟧ s pastvinami,
 
-[15] Holon s pastvinami, Debir s pastvinami,
+[15] ⟦holon|Cholon|Cholón⟧ s pastvinami, ⟦debir|Devir|Debír⟧ s pastvinami,
 
-[16] Ain s pastvinami, Juttah s pastvinami, Beth-shemesh s pastvinami – devět měst z těchto dvou kmenů.
+[16] Ajin s pastvinami, ⟦juttah|Juttu|Jutu⟧ s pastvinami, ⟦beth-shemesh|Bejt Šemeš|Bét-šemeš⟧ s pastvinami – devět měst z těchto dvou kmenů.
 
-[17] Z kmene Benjamin Gibeon s pastvinami, Geba s pastvinami,
+[17] Z kmene ⟦benjamin|Binjamin|Benjamín⟧ ⟦gibeon|Givon|Gibeón⟧ s pastvinami, ⟦geba|Gevu|Gebu⟧ s pastvinami,
 
-[18] Anathoth s pastvinami a Almon s pastvinami – čtyři města.
+[18] ⟦anathoth|Anatot|Anatót⟧ s pastvinami a ⟦almon|Almon|Almón⟧ s pastvinami – čtyři města.
 
-[19] Všech měst synů Aaronových, kněží, bylo třináct s pastvinami.
+[19] Všech měst synů ⟦aaron|Aharonových|Áronových⟧, kněží, bylo třináct s pastvinami.
 
-[20] Pokud jde o rody synů Kohatha – Levity, kteří zbývali ze synů Kohatha – města jejich losu byla z kmene Ephraim.
+[20] Pokud jde o rody synů Kehata – ⟦levites|Levijim|lévijce⟧, kteří zbývali ze synů Kehata – města jejich losu byla z kmene Efrajim.
 
-[21] Dali jim Shechem s pastvinami v pahorkatině Ephraim – útočištné město pro zabijáka – a Gezer s pastvinami,
+[21] Dali jim ⟦shechem|Šechem|Šekem⟧ s pastvinami v pahorkatině Efrajim – útočištné město pro zabijáka – a Gezer s pastvinami,
 
-[22] Kibzaim s pastvinami a Beth-horon s pastvinami – čtyři města.
+[22] ⟦kibzaim|Kivcajim|Kibsajim⟧ s pastvinami a ⟦beth-horon|Bejt Choron|Bét-chorón⟧ s pastvinami – čtyři města.
 
-[23] Z kmene Dan Elteke s pastvinami, Gibbethon s pastvinami,
+[23] Z kmene Dan Elteke s pastvinami, ⟦gibbethon|Gibbeton|Gibetón⟧ s pastvinami,
 
-[24] Aijalon s pastvinami a Gath-rimmon s pastvinami – čtyři města.
+[24] ⟦aijalon|Ajjalon|Ajalón⟧ s pastvinami a ⟦gath-rimmon|Gat Rimmon|Gat-rimón⟧ s pastvinami – čtyři města.
 
-[25] Z poloviny kmene Manasseh Taanach s pastvinami a Gath-rimmon s pastvinami – dvě města.
+[25] Z poloviny kmene ⟦manasseh|Menaše|Manases⟧ ⟦taanach|Taanach|Taanak⟧ s pastvinami a ⟦gath-rimmon|Gat Rimmon|Gat-rimón⟧ s pastvinami – dvě města.
 
-[26] Všech měst pro rody ostatních synů Kohatha bylo deset s pastvinami.
+[26] Všech měst pro rody ostatních synů Kehata bylo deset s pastvinami.
 
-[27] Synům Gershona z rodů Levitů dali z poloviny kmene Manasseh Golan v Bashanu s pastvinami – útočištné město pro zabijáka – a Beeshterah s pastvinami – dvě města.
+[27] Synům ⟦gershon|Geršona|Geršóna⟧ z rodů ⟦levites|Levijim|lévijců⟧ dali z poloviny kmene ⟦manasseh|Menaše|Manases⟧ ⟦golan|Golan|Gólan⟧ v ⟦bashan|Bašanu|Bášanu⟧ s pastvinami – útočištné město pro zabijáka – a Beešteru s pastvinami – dvě města.
 
-[28] Z kmene Issachar Kishion s pastvinami, Daberath s pastvinami,
+[28] Z kmene ⟦issachar|Jissachar|Isachar⟧ ⟦kishion|Kišjon|Kišjón⟧ s pastvinami, ⟦daberath|Daverat|Daberat⟧ s pastvinami,
 
-[29] Jarmuth s pastvinami, En-gannim s pastvinami – čtyři města.
+[29] ⟦jarmuth|Jarmut|Jarmút⟧ s pastvinami, ⟦en-gannim|Ejn Gannim|Én-ganím⟧ s pastvinami – čtyři města.
 
-[30] Z kmene Asher Mishal s pastvinami, Abdon s pastvinami,
+[30] Z kmene Ašer Mišal s pastvinami, ⟦abdon|Avdon|Abdón⟧ s pastvinami,
 
-[31] Helkath s pastvinami a Rehob s pastvinami – čtyři města.
+[31] Chelkat s pastvinami a ⟦rehob|Rechov|Rechób⟧ s pastvinami – čtyři města.
 
-[32] Z kmene Naphtali Kedesh v Galilee s pastvinami – útočištné město pro zabijáka – Hammoth-dor s pastvinami a Kartan s pastvinami – tři města.
+[32] Z kmene ⟦naphtali|Naftali|Neftalí⟧ Kedeš v ⟦galilee|Galilu|Galileji⟧ s pastvinami – útočištné město pro zabijáka – ⟦hammoth-dor|Chammot Dor|Chamot-dór⟧ s pastvinami a Kartan s pastvinami – tři města.
 
-[33] Všech měst Gershonitů podle jejich rodů bylo třináct s pastvinami.
+[33] Všech měst ⟦gershonites|Geršunni|Geršonovců⟧ podle jejich rodů bylo třináct s pastvinami.
 
-[34] Rodům synů Merariho, ostatním Levitům, z kmene Zebulun: Jokneam s pastvinami a Kartah s pastvinami,
+[34] Rodům synů ⟦merari|Merariho|Merarího⟧, ostatním ⟦levites|Levijim|lévijcům⟧, z kmene ⟦zebulun|Zevulun|Zabulón⟧: ⟦jokneam|Jokneam|Jokneám⟧ s pastvinami a Kartu s pastvinami,
 
-[35] Dimnah s pastvinami a Nahalal s pastvinami – čtyři města.
+[35] Dimnu s pastvinami a Nahalal s pastvinami – čtyři města.
 
-[36] Z kmene Reuben Bezer s pastvinami, Jahaz s pastvinami,
+[36] Z kmene ⟦reuben|Reuven|Rúben⟧ ⟦bezer|Becer|Beser⟧ s pastvinami, ⟦jahaz|Jahcu|Jahas⟧ s pastvinami,
 
-[37] Kedemoth s pastvinami a Mephaath s pastvinami – čtyři města.
+[37] ⟦kedemoth|Kedemot|Kedemót⟧ s pastvinami a Mefaat s pastvinami – čtyři města.
 
-[38] Z kmene Gad Ramoth v Gileadu s pastvinami – útočištné město pro zabijáka – Mahanaim s pastvinami,
+[38] Z kmene ⟦gad|Gad|Gád⟧ ⟦ramoth|Ramot|Rámot⟧ v ⟦gilead|Giladu|Gileádu⟧ s pastvinami – útočištné město pro zabijáka – Machanajim s pastvinami,
 
-[39] Heshbon s pastvinami a Jazer s pastvinami – celkem čtyři města.
+[39] ⟦heshbon|Chešbon|Chešbón⟧ s pastvinami a ⟦jazer|Jazer|Jaezer⟧ s pastvinami – celkem čtyři města.
 
-[40] Všech měst pro syny Merariho podle jejich rodů – pro ostatní rody Levitů – bylo podle jejich losu dvanáct.
+[40] Všech měst pro syny ⟦merari|Merariho|Merarího⟧ podle jejich rodů – pro ostatní rody ⟦levites|Levijim|lévijců⟧ – bylo podle jejich losu dvanáct.
 
-[41] Všech měst Levitů uprostřed vlastnictví synů Israele bylo čtyřicet osm s pastvinami.
+[41] Všech měst ⟦levites|Levijim|lévijců⟧ uprostřed vlastnictví synů ⟦israel|Jisraele|Izraele⟧ bylo čtyřicet osm s pastvinami.
 
 [42] Každé z těchto měst mělo kolem sebe pastviny; tak tomu bylo u všech těchto měst.
 
-[43] Tak dal Yahweh Israeli celou zemi, kterou přísahal dát jejich otcům; zaujali ji a usadili se v ní.
+[43] Tak dal ⟦yhwh|Jahve|Hospodin⟧ ⟦israel|Jisraeli|Izraeli⟧ celou zemi, kterou přísahal dát jejich otcům; zaujali ji a usadili se v ní.
 
-[44] Yahweh jim dal odpočinek ze všech stran, ve všem podle toho, co přísahal jejich otcům. Ani jeden ze všech jejich nepřátel proti nim neobstál; Yahweh jim vydal do ruky všechny jejich nepřátele.
+[44] ⟦yhwh|Jahve|Hospodin⟧ jim dal odpočinek ze všech stran, ve všem podle toho, co přísahal jejich otcům. Ani jeden ze všech jejich nepřátel proti nim neobstál; ⟦yhwh|Jahve|Hospodin⟧ jim vydal do ruky všechny jejich nepřátele.
 
-[45] Nepadlo ani slovo ze všeho dobrého, co Yahweh mluvil k domu Israele; všechno se splnilo.
+[45] Nepadlo ani slovo ze všeho dobrého, co ⟦yhwh|Jahve|Hospodin⟧ mluvil k domu ⟦israel|Jisraele|Izraele⟧; všechno se splnilo.
 
 ## Změny
 

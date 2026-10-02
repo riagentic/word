@@ -1,6 +1,6 @@
 # Lukáš 12
 
-[1] Mezitím se shromáždily mnohé tisíce lidí, takže šlapali jeden po druhém, a on začal mluvit nejprve ke svým učedníkům: „Mějte se na pozoru před kvasem farizeů, to jest před pokrytectvím.
+[1] Mezitím se shromáždily mnohé tisíce lidí, takže šlapali jeden po druhém, a on začal mluvit nejprve ke svým učedníkům: „Mějte se na pozoru před kvasem ⟦pharisees|perušim|farizeů⟧, to jest před pokrytectvím.
 
 [2] Není nic zakrytého, co nebude odhaleno, ani skrytého, co nebude poznáno.
 
@@ -8,21 +8,21 @@
 
 [4] „Pravím vám, svým přátelům: nebojte se těch, kdo zabíjejí tělo, a potom už nemohou nic víc udělat.
 
-[5] Ukážu vám však, koho se máte bát: bojte se toho, který má moc po zabití uvrhnout do Gehenna. Ano, pravím vám, toho se bojte!
+[5] Ukážu vám však, koho se máte bát: bojte se toho, který má moc po zabití uvrhnout do ⟦gehenna|Gehenny|pekla⟧. Ano, pravím vám, toho se bojte!
 
-[6] Neprodává se pět vrabců za dva haléře? A ani na jednoho z nich se před *Elohim* nezapomíná.
+[6] Neprodává se pět vrabců za dva haléře? A ani na jednoho z nich se před ⟦elohim|Elohim|Bohem⟧ nezapomíná.
 
 [7] Vždyť i vlasy na vaší hlavě jsou všechny sečteny. Nebojte se; máte větší cenu než mnoho vrabců.
 
-[8] „A pravím vám: každého, kdo se ke mně přizná před lidmi, se i Syn člověka přizná před anděly *Elohim*,
+[8] „A pravím vám: každého, kdo se ke mně přizná před lidmi, se i Syn člověka přizná před anděly ⟦elohim|Elohim|Božími⟧,
 
-[9] ale kdo mě zapře před lidmi, bude zapřen před anděly *Elohim*.
+[9] ale kdo mě zapře před lidmi, bude zapřen před anděly ⟦elohim|Elohim|Božími⟧.
 
-[10] A každému, kdo řekne slovo proti Synu člověka, bude odpuštěno, ale tomu, kdo se rouhá proti *Ruach HaQodesh*, nebude odpuštěno.
+[10] A každému, kdo řekne slovo proti Synu člověka, bude odpuštěno, ale tomu, kdo se rouhá proti ⟦ruach-haqodesh|Ruach HaKodeš|Duchu svatému⟧, nebude odpuštěno.
 
 [11] Když vás povedou před synagogy, vládce a vrchnosti, nedělejte si starosti, jak se budete hájit nebo co máte říci,
 
-[12] neboť *Ruach HaQodesh* vás v tu hodinu naučí, co je třeba říci.“
+[12] neboť ⟦ruach-haqodesh|Ruach HaKodeš|Duch svatý⟧ vás v tu hodinu naučí, co je třeba říci.“
 
 [13] Kdosi ze zástupu mu řekl: „Učiteli, řekni mému bratrovi, ať se se mnou rozdělí o dědictví.“
 
@@ -38,23 +38,23 @@
 
 [19] A řeknu své duši: „Duše, máš mnoho majetku uloženého na mnoho let; odpočívej, jez, pij a vesel se.“‘
 
-[20] *Elohim* mu však řekl: ‚Blázne! Této noci bude tvá duše od tebe vyžádána, a čí bude to, co jsi připravil?‘
+[20] ⟦elohim|Elohim|Bůh⟧ mu však řekl: ‚Blázne! Této noci bude tvá duše od tebe vyžádána, a čí bude to, co jsi připravil?‘
 
-[21] Tak je to s tím, kdo shromažďuje poklady pro sebe, a není bohatý u *Elohim*.“
+[21] Tak je to s tím, kdo shromažďuje poklady pro sebe, a není bohatý u ⟦elohim|Elohim|Boha⟧.“
 
 [22] Svým učedníkům řekl: „Proto vám pravím: nemějte starost o svůj život, co budete jíst, ani o své tělo, co budete mít na sebe.
 
 [23] Život je víc než pokrm a tělo víc než oděv.
 
-[24] Pohleďte na havrany: nesejí ani nežnou, nemají sklad ani stodolu, a přece je *Elohim* živí. O kolik větší cenu máte vy než ptáci!
+[24] Pohleďte na havrany: nesejí ani nežnou, nemají sklad ani stodolu, a přece je ⟦elohim|Elohim|Bůh⟧ živí. O kolik větší cenu máte vy než ptáci!
 
 [25] A kdo z vás může svou ustaraností přidat ke své délce života jedinou hodinu?
 
 [26] Jestliže tedy nemůžete udělat ani tak malou věc, proč si děláte starosti o ostatní?
 
-[27] Pohleďte na lilie, jak rostou: nepracují ani nepředou, a přece vám pravím, ani Solomon v celé své slávě nebyl oděn jako jedna z nich.
+[27] Pohleďte na lilie, jak rostou: nepracují ani nepředou, a přece vám pravím, ani ⟦solomon|Šlomo|Šalomoun⟧ v celé své slávě nebyl oděn jako jedna z nich.
 
-[28] Jestliže však *Elohim* tak odívá trávu, která je dnes na poli a zítra je hozena do pece, čím spíše oděje vás, malověrní!
+[28] Jestliže však ⟦elohim|Elohim|Bůh⟧ tak odívá trávu, která je dnes na poli a zítra je hozena do pece, čím spíše oděje vás, malověrní!
 
 [29] Ani vy nehledejte, co budete jíst a co budete pít, a neznepokojujte se.
 
@@ -80,7 +80,7 @@
 
 [40] I vy buďte připraveni, neboť Syn člověka přichází v hodinu, kdy to nečekáte.“
 
-[41] *Kefa* řekl: „Pane, říkáš toto podobenství nám, nebo všem?“
+[41] ⟦peter|Kefa|Petr⟧ řekl: „Pane, říkáš toto podobenství nám, nebo všem?“
 
 [42] Pán řekl: „Kdo je tedy ten věrný a moudrý správce, kterého jeho pán ustanoví nad svou čeledí, aby jim ve správný čas dával jejich příděl jídla?
 
@@ -98,7 +98,7 @@
 
 [49] „Přišel jsem vrhnout oheň na zem, a jak bych si přál, aby již vzplanul!
 
-[50] Mám být ponořen ponořením, a jak jsem sevřen úzkostí, dokud se to nedovrší!
+[50] Mám být ⟦immerse|ponořen|pokřtěn⟧ ⟦immersion|ponořením|křtem⟧, a jak jsem sevřen úzkostí, dokud se to nedovrší!
 
 [51] Myslíte, že jsem přišel dát zemi pokoj? Ne, pravím vám, ale spíše rozdělení.
 

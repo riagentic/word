@@ -1,23 +1,23 @@
 # Isaiah 1
 
-[1] The vision of Isaiah — son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.
+[1] The vision of ⟦isaiah|Yeshayahu|Isaiah⟧ — son of ⟦amoz|Amotz|Amoz⟧, which he saw concerning ⟦judah|Yehudah|Judah⟧ and ⟦jerusalem|Yerushalayim|Jerusalem⟧ in the days of ⟦uzziah|Uzziyahu|Uzziah⟧, ⟦jotham|Yotam|Jotham⟧, ⟦ahaz|Achaz|Ahaz⟧, and ⟦hezekiah|Chizqiyahu|Hezekiah⟧, kings of ⟦judah|Yehudah|Judah⟧.
 
 [2] Hear, O heavens, and give ear, O earth;
-for Yahweh has spoken:
+for ⟦yhwh|Yahweh|the LORD⟧ has spoken:
 "Children have I reared and brought up,
 but they have rebelled against me.
 
 [3] The ox knows its owner,
 and the donkey its master's crib,
-but Israel does not know,
+but ⟦israel|Yisrael|Israel⟧ does not know,
 my people does not understand."
 
 [4] Ah, sinful nation,
 a people laden with iniquity,
 offspring of evildoers,
 children who deal corruptly!
-They have forsaken Yahweh,
-they have despised the Holy One of Israel —
+They have forsaken ⟦yhwh|Yahweh|the LORD⟧,
+they have despised the Holy One of ⟦israel|Yisrael|Israel⟧ —
 they are utterly estranged.
 
 [5] Why will you still be struck down?
@@ -37,25 +37,25 @@ your cities are burned with fire;
 in your very presence foreigners devour your land;
 it is desolate, as overthrown by foreigners.
 
-[8] And the daughter of Zion is left
+[8] And the daughter of ⟦zion|Tziyon|Zion⟧ is left
 like a booth in a vineyard,
 like a lodge in a cucumber field,
 like a besieged city.
 
-[9] If Yahweh of Hosts had not left us a few survivors,
-we should have been like Sodom,
-and become like Gomorrah.
+[9] If ⟦yhwh|Yahweh|the LORD⟧ of Hosts had not left us a few survivors,
+we should have been like ⟦sodom|Sedom|Sodom⟧,
+and become like ⟦gomorrah|Amorah|Gomorrah⟧.
 
-[10] Hear the word of Yahweh,
-you rulers of Sodom!
-Give ear to the Law of our *Elohim*,
-you people of Gomorrah!
+[10] Hear the word of ⟦yhwh|Yahweh|the LORD⟧,
+you rulers of ⟦sodom|Sedom|Sodom⟧!
+Give ear to the ⟦torah|Torah|teaching⟧ of our ⟦elohim|Elohim|God⟧,
+you people of ⟦gomorrah|Amorah|Gomorrah⟧!
 
-[11] "What to me is the multitude of your sacrifices?" says Yahweh. "I have had enough of burnt offerings of rams and the fat of well-fed beasts; I do not delight in the blood of bulls, or of lambs, or of goats.
+[11] "What to me is the multitude of your sacrifices?" says ⟦yhwh|Yahweh|the LORD⟧. "I have had enough of burnt offerings of rams and the fat of well-fed beasts; I do not delight in the blood of bulls, or of lambs, or of goats.
 
 [12] When you come to appear before me, who has required of you this trampling of my courts?
 
-[13] Bring no more vain offerings; incense is an abomination to me. New moon and Sabbath and the calling of convocations — I cannot endure iniquity and solemn assembly.
+[13] Bring no more vain offerings; incense is an abomination to me. New moon and ⟦shabbat|Shabbat|Sabbath⟧ and the calling of convocations — I cannot endure iniquity and solemn assembly.
 
 [14] Your new moons and your appointed feasts my soul hates; they have become a burden to me; I am weary of bearing them.
 
@@ -71,7 +71,7 @@ correct oppression;
 bring justice to the fatherless,
 plead the widow's cause.
 
-[18] Come now, let us reason together, says Yahweh:
+[18] Come now, let us reason together, says ⟦yhwh|Yahweh|the LORD⟧:
 though your sins are like scarlet,
 they shall be as white as snow;
 though they are red like crimson,
@@ -82,7 +82,7 @@ you shall eat the good of the land;
 
 [20] but if you refuse and rebel,
 you shall be eaten by the sword;
-for the mouth of Yahweh has spoken.
+for the mouth of ⟦yhwh|Yahweh|the LORD⟧ has spoken.
 
 [21] How the faithful city
 has become a whore,
@@ -100,7 +100,7 @@ and runs after gifts.
 They do not bring justice to the fatherless,
 and the widow's cause does not come to them.
 
-[24] Therefore declares Lord, Yahweh of Hosts, the Mighty One of Israel:
+[24] Therefore declares Lord, ⟦yhwh|Yahweh|the LORD⟧ of Hosts, the Mighty One of ⟦israel|Yisrael|Israel⟧:
 
 "Ah, I will get relief from my enemies
 and avenge myself on my foes.
@@ -114,11 +114,11 @@ and your counselors as at the beginning.
 Afterward you shall be called the city of righteousness,
 the faithful city."
 
-[27] Zion shall be redeemed by justice,
+[27] ⟦zion|Tziyon|Zion⟧ shall be redeemed by justice,
 and those in her who repent, by righteousness.
 
 [28] But rebels and sinners shall be broken together,
-and those who forsake Yahweh shall be consumed.
+and those who forsake ⟦yhwh|Yahweh|the LORD⟧ shall be consumed.
 
 [29] For they shall be ashamed of the oaks
 that you desired;

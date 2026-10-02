@@ -1,27 +1,27 @@
 # Isaiah 30
 
-[1] "Ah, stubborn children," declares Yahweh,
+[1] "Ah, stubborn children," declares ⟦yhwh|Yahweh|the LORD⟧,
 "who carry out a plan, but not mine,
 and who make an alliance, but not of my spirit,
 that they may add sin to sin;
 
-[2] who set out to go down to Egypt,
+[2] who set out to go down to ⟦egypt|Mitzrayim|Egypt⟧,
 without asking for my direction,
-to take refuge in the protection of Pharaoh
-and to seek shelter in the shadow of Egypt!
+to take refuge in the protection of ⟦pharaoh|Paroh|Pharaoh⟧
+and to seek shelter in the shadow of ⟦egypt|Mitzrayim|Egypt⟧!
 
-[3] Therefore shall the protection of Pharaoh turn to your shame,
-and the shelter in the shadow of Egypt to your humiliation.
+[3] Therefore shall the protection of ⟦pharaoh|Paroh|Pharaoh⟧ turn to your shame,
+and the shelter in the shadow of ⟦egypt|Mitzrayim|Egypt⟧ to your humiliation.
 
-[4] For though his officials are at Zoan
-and his envoys reach Hanes,
+[4] For though his officials are at ⟦zoan|Tzoan|Zoan⟧
+and his envoys reach ⟦hanes|Chanes|Hanes⟧,
 
 [5] everyone comes to shame
 through a people that cannot profit them,
 that brings neither help nor profit,
 but shame and disgrace."
 
-[6] An oracle on the beasts of the Negev.
+[6] An oracle on the beasts of the ⟦negev|Negev|Negeb⟧.
 
 Through a land of trouble and anguish,
 from where come the lioness and the lion,
@@ -30,19 +30,19 @@ they carry their riches on the backs of donkeys,
 and their treasures on the humps of camels,
 to a people that cannot profit them.
 
-[7] Egypt's help is worthless and empty;
+[7] ⟦egypt|Mitzrayim's|Egypt's⟧ help is worthless and empty;
 therefore I have called her
-"Rahab Who Sits Still."
+"⟦rahab-monster|Rahav|Rahab⟧ Who Sits Still."
 
 [8] And now, go, write it before them on a tablet and inscribe it in a book, that it may be for the time to come as a witness forever.
 
-[9] For they are a rebellious people, lying children, children unwilling to hear the Law of Yahweh;
+[9] For they are a rebellious people, lying children, children unwilling to hear the ⟦torah|Torah|instruction⟧ of ⟦yhwh|Yahweh|the LORD⟧;
 
 [10] who say to the seers, "Do not see," and to the prophets, "Do not prophesy to us what is right; speak to us smooth things, prophesy illusions,
 
-[11] leave the way, turn aside from the path, let us hear no more about the Holy One of Israel."
+[11] leave the way, turn aside from the path, let us hear no more about the Holy One of ⟦israel|Yisrael|Israel⟧."
 
-[12] Therefore thus says the Holy One of Israel:
+[12] Therefore thus says the Holy One of ⟦israel|Yisrael|Israel⟧:
 
 "Because you despise this word
 and trust in oppression and perverseness
@@ -58,7 +58,7 @@ that among its fragments not a shard is found
 with which to take fire from the hearth,
 or to dip up water out of the cistern."
 
-[15] For thus said the Lord Yahweh, the Holy One of Israel:
+[15] For thus said the ⟦adonai-yhwh|Lord Yahweh|Lord GOD⟧, the Holy One of ⟦israel|Yisrael|Israel⟧:
 
 "In returning and rest you shall be saved;
 in quietness and in trust shall be your strength."
@@ -76,14 +76,14 @@ at the threat of five you shall flee,
 till you are left like a flagstaff on the top of a mountain,
 like a signal on a hill.
 
-[18] Therefore Yahweh waits to be gracious to you,
+[18] Therefore ⟦yhwh|Yahweh|the LORD⟧ waits to be gracious to you,
 and therefore he exalts himself to show mercy to you.
-For Yahweh is an *Elohim* of justice;
+For ⟦yhwh|Yahweh|the LORD⟧ is an ⟦elohim|Elohim|God⟧ of justice;
 blessed are all those who wait for him.
 
-[19] For a people shall dwell in Zion, in Jerusalem; you shall weep no more. He will surely be gracious to you at the sound of your cry. As soon as he hears it, he answers you.
+[19] For a people shall dwell in ⟦zion|Tziyon|Zion⟧, in ⟦jerusalem|Yerushalayim|Jerusalem⟧; you shall weep no more. He will surely be gracious to you at the sound of your cry. As soon as he hears it, he answers you.
 
-[20] And though Lord give you the bread of adversity and the water of affliction, yet your Teacher will not hide himself anymore, but your eyes shall see your Teacher.
+[20] And though ⟦adonai|Adonai|the Lord⟧ give you the bread of adversity and the water of affliction, yet your Teacher will not hide himself anymore, but your eyes shall see your Teacher.
 
 [21] And your ears shall hear a word behind you, saying, "This is the way, walk in it," when you turn to the right or when you turn to the left.
 
@@ -95,9 +95,9 @@ blessed are all those who wait for him.
 
 [25] And on every lofty mountain and every high hill there will be brooks running with water, in the day of the great slaughter, when the towers fall.
 
-[26] Moreover, the light of the moon will be as the light of the sun, and the light of the sun will be sevenfold, as the light of seven days, in the day when Yahweh binds up the brokenness of his people and heals the wounds inflicted by his blow.
+[26] Moreover, the light of the moon will be as the light of the sun, and the light of the sun will be sevenfold, as the light of seven days, in the day when ⟦yhwh|Yahweh|the LORD⟧ binds up the brokenness of his people and heals the wounds inflicted by his blow.
 
-[27] Behold, the name of Yahweh comes from afar,
+[27] Behold, the name of ⟦yhwh|Yahweh|the LORD⟧ comes from afar,
 burning with his anger, and in thick rising smoke;
 his lips are full of fury,
 and his tongue is like a devouring fire;
@@ -108,24 +108,24 @@ and to place on the jaws of the peoples a bridle that leads astray.
 
 [29] You shall have a song as in the night when a holy feast is kept,
 and gladness of heart, as when one sets out to the sound of the flute
-to go to the mountain of Yahweh, to the Rock of Israel.
+to go to the mountain of ⟦yhwh|Yahweh|the LORD⟧, to the Rock of ⟦israel|Yisrael|Israel⟧.
 
-[30] And Yahweh will cause his majestic voice to be heard
+[30] And ⟦yhwh|Yahweh|the LORD⟧ will cause his majestic voice to be heard
 and the descending blow of his arm to be seen,
 in furious anger and a flame of devouring fire,
 with a cloudburst and storm and hailstones.
 
-[31] The Assyrians will be terror-stricken at the voice of Yahweh,
+[31] ⟦assyria|Ashur|The Assyrians⟧ will be terror-stricken at the voice of ⟦yhwh|Yahweh|the LORD⟧,
 when he strikes with his rod.
 
 [32] And every stroke of the appointed staff
-that Yahweh lays on them will be to the sound of tambourines and lyres;
+that ⟦yhwh|Yahweh|the LORD⟧ lays on them will be to the sound of tambourines and lyres;
 battling with brandished arm he will fight with them.
 
 [33] For a burning place has long been prepared;
 indeed, for the king it is made ready,
 its pyre made deep and wide, with fire and wood in abundance;
-the breath of Yahweh, like a stream of sulfur, kindles it.
+the breath of ⟦yhwh|Yahweh|the LORD⟧, like a stream of sulfur, kindles it.
 
 ## Changes
 

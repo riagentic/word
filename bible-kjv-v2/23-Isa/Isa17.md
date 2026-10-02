@@ -1,27 +1,27 @@
 # Isaiah 17
 
-[1] An oracle concerning Damascus.
+[1] An oracle concerning ⟦damascus|Dammeseq|Damascus⟧.
 
-Behold, Damascus will cease to be a city
+Behold, ⟦damascus|Dammeseq|Damascus⟧ will cease to be a city
 and will become a heap of ruins.
 
 [2] The cities of Aroer are deserted;
 they will be for flocks,
 which will lie down, and none will make them afraid.
 
-[3] The fortress will disappear from Ephraim,
-and the kingdom from Damascus;
-and the remnant of Syria will be
-like the glory of the children of Israel,
-declares Yahweh of Hosts.
+[3] The fortress will disappear from ⟦ephraim|Efrayim|Ephraim⟧,
+and the kingdom from ⟦damascus|Dammeseq|Damascus⟧;
+and the remnant of ⟦aram|Aram|Syria⟧ will be
+like the glory of the children of ⟦israel|Yisrael|Israel⟧,
+declares ⟦yhwh|Yahweh|the LORD⟧ of Hosts.
 
-[4] In that day the glory of Jacob will be brought low,
+[4] In that day the glory of ⟦jacob|Yaaqov|Jacob⟧ will be brought low,
 and the fat of his flesh will grow lean.
 
 [5] It shall be as when the reaper gathers standing grain
 and his arm harvests the ears,
 and as when one gleans the ears of grain
-in the Valley of Rephaim.
+in the Valley of ⟦rephaim|Refaim|Rephaim⟧.
 
 [6] Gleanings will be left in it,
 as when an olive tree is beaten —
@@ -29,20 +29,20 @@ two or three berries
 in the top of the highest bough,
 four or five
 on the branches of a fruit tree,
-declares Yahweh, *Elohim* of Israel.
+declares ⟦yhwh|Yahweh|the LORD⟧, ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧.
 
 [7] In that day man will look to his Maker,
-and his eyes will look on the Holy One of Israel.
+and his eyes will look on the Holy One of ⟦israel|Yisrael|Israel⟧.
 
 [8] He will not look to the altars, the work of his hands,
 and he will not look on what his own fingers have made,
 either the Asherah poles or the incense altars.
 
 [9] In that day their strong cities will be like the deserted places of the wooded heights and the hilltops,
-which they deserted because of the children of Israel,
+which they deserted because of the children of ⟦israel|Yisrael|Israel⟧,
 and there will be desolation.
 
-[10] For you have forgotten the *Elohim* of your salvation
+[10] For you have forgotten the ⟦elohim|Elohim|God⟧ of your salvation
 and have not remembered the Rock of your refuge;
 therefore, though you plant pleasant plants
 and sow the vine-branch of a stranger,

@@ -12,10 +12,10 @@ a pozvedat svůj hlas po rozumnosti,
 [4] budeš-li ji hledat jako stříbro
 a pátrat po ní jako po skrytých pokladech,
 
-[5] tehdy porozumíš bázni před Yahweh
-a nalezneš poznání *Elohim*.
+[5] tehdy porozumíš bázni před ⟦yhwh|Jahvem|Hospodinem⟧
+a nalezneš poznání ⟦elohim|Elohim|Boha⟧.
 
-[6] Neboť Yahweh dává moudrost;
+[6] Neboť ⟦yhwh|Jahve|Hospodin⟧ dává moudrost;
 z jeho úst vychází poznání a rozumnost;
 
 [7] uchovává zdravou moudrost pro přímé;
@@ -49,7 +49,7 @@ a kteří jsou na svých cestách úskoční.
 od cizoložnice s jejími úlisnými slovy,
 
 [17] která opouští druha svého mládí
-a zapomíná na smlouvu svého *Elohim*;
+a zapomíná na smlouvu svého ⟦elohim|Elohim|Boha⟧;
 
 [18] neboť její dům se propadá k smrti
 a její stezky k zemřelým;

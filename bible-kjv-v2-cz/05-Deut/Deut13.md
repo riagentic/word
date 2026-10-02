@@ -4,11 +4,11 @@
 
 [2] a znamení nebo div, o kterém mluvil, se splní, a on řekne: ‚Pojďme za jinými bohy‘, které jsi neznal, ‚a služme jim‘,
 
-[3] nebudeš poslouchat slova toho proroka ani toho vykladače snů; neboť Yahweh, váš *Elohim*, vás zkouší, aby poznal, zda milujete Yahweh, svého *Elohim*, celým svým srdcem a celou svou duší.
+[3] nebudeš poslouchat slova toho proroka ani toho vykladače snů; neboť ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧, vás zkouší, aby poznal, zda milujete ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, celým svým srdcem a celou svou duší.
 
-[4] Budete chodit za Yahweh, svým *Elohim*, jeho se budete bát a jeho přikázání budete zachovávat; jeho hlas budete poslouchat, jemu budete sloužit a k němu se budete pevně držet.
+[4] Budete chodit za ⟦yhwh|Jahvem|Hospodinem⟧, svým ⟦elohim|Elohim|Bohem⟧, jeho se budete bát a jeho přikázání budete zachovávat; jeho hlas budete poslouchat, jemu budete sloužit a k němu se budete pevně držet.
 
-[5] Ten prorok nebo ten vykladač snů bude usmrcen, protože mluvil o vzpouře proti Yahweh, vašemu *Elohim* – který vás vyvedl ze země Egypt a vykoupil tě z domu otroctví – aby tě svedl z cesty, po které ti Yahweh, tvůj *Elohim*, přikázal chodit. Tak vymýtíš zlo ze svého středu.
+[5] Ten prorok nebo ten vykladač snů bude usmrcen, protože mluvil o vzpouře proti ⟦yhwh|Jahvovi|Hospodinu⟧, vašemu ⟦elohim|Elohim|Bohu⟧ – který vás vyvedl ze země ⟦egypt|Micrajim|Egypt⟧ a vykoupil tě z domu otroctví – aby tě svedl z cesty, po které ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, přikázal chodit. Tak vymýtíš zlo ze svého středu.
 
 [6] Jestliže tě tvůj bratr, syn tvé matky, nebo tvůj syn či tvá dcera nebo žena, kterou objímáš, nebo tvůj přítel, který je ti jako tvá vlastní duše, potají svádí: ‚Pojďme a služme jiným bohům‘, které jsi neznal ty ani tvoji otcové –
 
@@ -18,23 +18,23 @@
 
 [9] Ale jistě ho zabiješ; tvá ruka bude první proti němu, aby ho usmrtila, a potom ruka všeho lidu.
 
-[10] Ukamenuješ ho kameny k smrti, protože se tě snažil odvést od Yahweh, tvého *Elohim*, který tě vyvedl ze země Egypt, z domu otroctví.
+[10] Ukamenuješ ho kameny k smrti, protože se tě snažil odvést od ⟦yhwh|Jahveho|Hospodina⟧, tvého ⟦elohim|Elohim|Boha⟧, který tě vyvedl ze země ⟦egypt|Micrajim|Egypt⟧, z domu otroctví.
 
-[11] Všechen Israel uslyší a bude se bát, a už nikdy nespáchají uprostřed tebe nic tak zlého.
+[11] Všechen ⟦israel|Jisrael|Izrael⟧ uslyší a bude se bát, a už nikdy nespáchají uprostřed tebe nic tak zlého.
 
-[12] Uslyšíš-li o jednom ze svých měst, která ti Yahweh, tvůj *Elohim*, dává k bydlení, že
+[12] Uslyšíš-li o jednom ze svých měst, která ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, dává k bydlení, že
 
-[13] ničemní muži – synové Belial – vyšli z tvého středu a svedli obyvatele svého města: ‚Pojďme a služme jiným bohům‘, které jste neznali,
+[13] ⟦belial|ničemní muži – synové Belijjaal –|ničemní muži⟧ vyšli z tvého středu a svedli obyvatele svého města: ‚Pojďme a služme jiným bohům‘, které jste neznali,
 
 [14] pak budeš vyšetřovat, pátrat a důkladně se vyptávat; a hle, je-li to pravda a potvrdí-li se – že se uprostřed tebe stala taková ohavnost –
 
 [15] jistě pobiješ obyvatele toho města ostřím meče a zasvětíš meči je i všechno, co je v něm, včetně jeho dobytka.
 
-[16] Všechnu jeho kořist shromáždíš doprostřed jeho náměstí a spálíš město i všechnu jeho kořist ohněm jako celopal pro Yahweh, tvého *Elohim*. Bude navždy pahorkem sutin; nebude znovu vystavěno.
+[16] Všechnu jeho kořist shromáždíš doprostřed jeho náměstí a spálíš město i všechnu jeho kořist ohněm jako celopal pro ⟦yhwh|Jahveho|Hospodina⟧, tvého ⟦elohim|Elohim|Boha⟧. Bude navždy pahorkem sutin; nebude znovu vystavěno.
 
-[17] Nic z toho, co je zasvěceno zkáze, nepřilne k tvé ruce, aby se Yahweh odvrátil od svého planoucího hněvu, prokázal ti milosrdenství, slitoval se nad tebou a rozmnožil tě, jak přísahal tvým otcům –
+[17] Nic z toho, co je zasvěceno zkáze, nepřilne k tvé ruce, aby se ⟦yhwh|Jahve|Hospodin⟧ odvrátil od svého planoucího hněvu, prokázal ti milosrdenství, slitoval se nad tebou a rozmnožil tě, jak přísahal tvým otcům –
 
-[18] budeš-li poslouchat hlas Yahweh, svého *Elohim*, a zachovávat všechna jeho přikázání, která ti dnes přikazuji, a činit, co je správné v očích Yahweh, tvého *Elohim*.
+[18] budeš-li poslouchat hlas ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, a zachovávat všechna jeho přikázání, která ti dnes přikazuji, a činit, co je správné v očích ⟦yhwh|Jahveho|Hospodina⟧, tvého ⟦elohim|Elohim|Boha⟧.
 
 ## Změny
 

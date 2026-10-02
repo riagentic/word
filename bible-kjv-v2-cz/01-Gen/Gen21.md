@@ -1,72 +1,72 @@
 # Genesis 21
 
-[1] Yahweh navštívil Sarah, jak řekl, a Yahweh učinil pro Sarah, jak promluvil.
+[1] ⟦yhwh|Jahve|Hospodin⟧ navštívil ⟦sarah|Saru|Sáru⟧, jak řekl, a ⟦yhwh|Jahve|Hospodin⟧ učinil pro ⟦sarah|Saru|Sáru⟧, jak promluvil.
 
-[2] Sarah počala a porodila Abrahamovi syna v jeho stáří, v určený čas, o kterém mu *Elohim* mluvil.
+[2] ⟦sarah|Sara|Sára⟧ počala a porodila ⟦abraham|Avrahamovi|Abrahamovi⟧ syna v jeho stáří, v určený čas, o kterém mu ⟦elohim|Elohim|Bůh⟧ mluvil.
 
-[3] Abraham dal synovi, který se mu narodil, jehož mu porodila Sarah, jméno Isaac.
+[3] ⟦abraham|Avraham|Abraham⟧ dal synovi, který se mu narodil, jehož mu porodila ⟦sarah|Sara|Sára⟧, jméno ⟦isaac|Jicchak|Izák⟧.
 
-[4] A Abraham obřezal svého syna Isaaca, když mu bylo osm dní, jak mu *Elohim* přikázal.
+[4] A ⟦abraham|Avraham|Abraham⟧ obřezal svého syna ⟦isaac|Jicchaka|Izáka⟧, když mu bylo osm dní, jak mu ⟦elohim|Elohim|Bůh⟧ přikázal.
 
-[5] Abrahamovi bylo 100 let, když se mu narodil jeho syn Isaac.
+[5] ⟦abraham|Avrahamovi|Abrahamovi⟧ bylo 100 let, když se mu narodil jeho syn ⟦isaac|Jicchak|Izák⟧.
 
-[6] Sarah řekla: „*Elohim* mi připravil smích; každý, kdo to uslyší, se bude smát se mnou.“
+[6] ⟦sarah|Sara|Sára⟧ řekla: „⟦elohim|Elohim|Bůh⟧ mi připravil smích; každý, kdo to uslyší, se bude smát se mnou.“
 
-[7] A řekla: „Kdo by byl Abrahamovi řekl, že Sarah bude kojit děti? A přece jsem mu porodila syna v jeho stáří.“
+[7] A řekla: „Kdo by byl ⟦abraham|Avrahamovi|Abrahamovi⟧ řekl, že ⟦sarah|Sara|Sára⟧ bude kojit děti? A přece jsem mu porodila syna v jeho stáří.“
 
-[8] Dítě rostlo a bylo odstaveno; a Abraham připravil velikou hostinu v den, kdy byl Isaac odstaven.
+[8] Dítě rostlo a bylo odstaveno; a ⟦abraham|Avraham|Abraham⟧ připravil velikou hostinu v den, kdy byl ⟦isaac|Jicchak|Izák⟧ odstaven.
 
-[9] Sarah však viděla, jak se syn Hagar Egypťanky, kterého porodila Abrahamovi, směje.
+[9] ⟦sarah|Sara|Sára⟧ však viděla, jak se syn Hagar ⟦egyptian|Micrijky|Egypťanky⟧, kterého porodila ⟦abraham|Avrahamovi|Abrahamovi⟧, směje.
 
-[10] Řekla proto Abrahamovi: „Vyžeň tuto otrokyni i jejího syna, neboť syn této otrokyně nebude dědit s mým synem, s Isaacem.“
+[10] Řekla proto ⟦abraham|Avrahamovi|Abrahamovi⟧: „Vyžeň tuto otrokyni i jejího syna, neboť syn této otrokyně nebude dědit s mým synem, s ⟦isaac|Jicchakem|Izákem⟧.“
 
-[11] Ta věc byla v Abrahamových očích velmi zlá kvůli jeho synovi.
+[11] Ta věc byla v ⟦abraham|Avrahamových|Abrahamových⟧ očích velmi zlá kvůli jeho synovi.
 
-[12] Ale *Elohim* řekl Abrahamovi: „Ať to není zlé ve tvých očích kvůli chlapci a kvůli tvé otrokyni. Ve všem, co ti Sarah říká, poslechni její hlas, neboť skrze Isaaca bude pojmenováno tvé potomstvo.
+[12] Ale ⟦elohim|Elohim|Bůh⟧ řekl ⟦abraham|Avrahamovi|Abrahamovi⟧: „Ať to není zlé ve tvých očích kvůli chlapci a kvůli tvé otrokyni. Ve všem, co ti ⟦sarah|Sara|Sára⟧ říká, poslechni její hlas, neboť skrze ⟦isaac|Jicchaka|Izáka⟧ bude pojmenováno tvé potomstvo.
 
 [13] Ale i ze syna otrokyně učiním národ, protože je to tvůj potomek.“
 
-[14] Abraham tedy vstal časně ráno, vzal chléb a měch vody a dal je Hagar, položil jí je na rameno spolu s chlapcem a propustil ji. Odešla a bloudila po pustině Beersheby.
+[14] ⟦abraham|Avraham|Abraham⟧ tedy vstal časně ráno, vzal chléb a měch vody a dal je Hagar, položil jí je na rameno spolu s chlapcem a propustil ji. Odešla a bloudila po pustině ⟦beersheba|Beer Ševy|Beer-šeby⟧.
 
 [15] Když voda v měchu došla, pohodila dítě pod jeden z keřů.
 
 [16] Pak odešla a posadila se naproti němu, asi na dostřel luku, neboť si řekla: „Ať se nedívám na smrt dítěte.“ A jak seděla naproti němu, pozvedla svůj hlas a plakala.
 
-[17] *Elohim* uslyšel hlas chlapce a posel *Elohim* zavolal na Hagar z nebes a řekl jí: „Co je ti, Hagar? Neboj se, neboť *Elohim* uslyšel hlas chlapce tam, kde je.
+[17] ⟦elohim|Elohim|Bůh⟧ uslyšel hlas chlapce a posel ⟦elohim|Elohim|Boží⟧ zavolal na Hagar z nebes a řekl jí: „Co je ti, Hagar? Neboj se, neboť ⟦elohim|Elohim|Bůh⟧ uslyšel hlas chlapce tam, kde je.
 
 [18] Vstaň, zvedni chlapce a pevně ho drž svou rukou, neboť z něho učiním veliký národ.“
 
-[19] Tu jí *Elohim* otevřel oči a uviděla studnu s vodou. Šla, naplnila měch vodou a dala chlapci napít.
+[19] Tu jí ⟦elohim|Elohim|Bůh⟧ otevřel oči a uviděla studnu s vodou. Šla, naplnila měch vodou a dala chlapci napít.
 
-[20] *Elohim* byl s chlapcem a on vyrostl. Žil v pustině a stal se lukostřelcem.
+[20] ⟦elohim|Elohim|Bůh⟧ byl s chlapcem a on vyrostl. Žil v pustině a stal se lukostřelcem.
 
-[21] Žil v pustině Paran; a jeho matka mu vzala ženu ze země Egypt.
+[21] Žil v pustině ⟦paran|Paran|Páran⟧; a jeho matka mu vzala ženu ze země ⟦egypt|Micrajim|Egypt⟧.
 
-[22] V té době Abimelech a Phicol, velitel jeho vojska, promluvili k Abrahamovi a řekli: „*Elohim* je s tebou ve všem, co činíš.
+[22] V té době ⟦abimelech|Avimelech|Abímelek⟧ a ⟦phicol|Pichol|Píkol⟧, velitel jeho vojska, promluvili k ⟦abraham|Avrahamovi|Abrahamovi⟧ a řekli: „⟦elohim|Elohim|Bůh⟧ je s tebou ve všem, co činíš.
 
-[23] Nyní mi tedy přísahej zde při *Elohim*, že nebudeš jednat falešně se mnou ani s mým potomstvem ani s mými vnuky, ale že podle věrnosti, kterou jsem prokázal já tobě, budeš jednat se mnou i se zemí, v níž jsi pobýval jako cizinec.“
+[23] Nyní mi tedy přísahej zde při ⟦elohim|Elohim|Bohu⟧, že nebudeš jednat falešně se mnou ani s mým potomstvem ani s mými vnuky, ale že podle věrnosti, kterou jsem prokázal já tobě, budeš jednat se mnou i se zemí, v níž jsi pobýval jako cizinec.“
 
-[24] Abraham řekl: „Přísahám.“
+[24] ⟦abraham|Avraham|Abraham⟧ řekl: „Přísahám.“
 
-[25] Abraham si však Abimelechovi stěžoval na studnu s vodou, kterou Abimelechovi služebníci uchvátili.
+[25] ⟦abraham|Avraham|Abraham⟧ si však ⟦abimelech|Avimelechovi|Abímelekovi⟧ stěžoval na studnu s vodou, kterou ⟦abimelech|Avimelechovi|Abímelekovi⟧ služebníci uchvátili.
 
-[26] Abimelech řekl: „Nevím, kdo tu věc udělal; ty jsi mi to neřekl a já jsem o tom až do dneška neslyšel.“
+[26] ⟦abimelech|Avimelech|Abímelek⟧ řekl: „Nevím, kdo tu věc udělal; ty jsi mi to neřekl a já jsem o tom až do dneška neslyšel.“
 
-[27] Abraham vzal ovce a skot a dal je Abimelechovi a oba spolu uzavřeli smlouvu.
+[27] ⟦abraham|Avraham|Abraham⟧ vzal ovce a skot a dal je ⟦abimelech|Avimelechovi|Abímelekovi⟧ a oba spolu uzavřeli smlouvu.
 
-[28] Abraham oddělil sedm jehnic ze stáda zvlášť.
+[28] ⟦abraham|Avraham|Abraham⟧ oddělil sedm jehnic ze stáda zvlášť.
 
-[29] Abimelech řekl Abrahamovi: „Co znamená těchto sedm jehnic, které jsi oddělil?“
+[29] ⟦abimelech|Avimelech|Abímelek⟧ řekl ⟦abraham|Avrahamovi|Abrahamovi⟧: „Co znamená těchto sedm jehnic, které jsi oddělil?“
 
 [30] Řekl: „Těchto sedm jehnic přijmeš z mé ruky, aby mi byly svědectvím, že jsem vykopal tuto studnu.“
 
-[31] Proto se to místo nazývá Beersheba („studna přísahy“ / „studna sedmi“), neboť tam oba přísahali.
+[31] Proto se to místo nazývá ⟦beersheba|Beer Ševa|Beer-šeba⟧ („studna přísahy“ / „studna sedmi“), neboť tam oba přísahali.
 
-[32] Tak uzavřeli smlouvu v Beershebě. Abimelech a Phicol, velitel jeho vojska, vstali a vrátili se do země Philistinů.
+[32] Tak uzavřeli smlouvu v ⟦beersheba|Beer Ševě|Beer-šebě⟧. ⟦abimelech|Avimelech|Abímelek⟧ a ⟦phicol|Pichol|Píkol⟧, velitel jeho vojska, vstali a vrátili se do země ⟦philistines|Pelištim|Pelištejců⟧.
 
-[33] Abraham zasadil v Beershebě tamaryšek a vzýval tam jméno Yahweh, věčného *Elohim*.
+[33] ⟦abraham|Avraham|Abraham⟧ zasadil v ⟦beersheba|Beer Ševě|Beer-šebě⟧ tamaryšek a vzýval tam jméno ⟦yhwh|Jahveho|Hospodina⟧, věčného ⟦el|El|Boha⟧.
 
-[34] A Abraham pobýval jako cizinec v zemi Philistinů mnoho dní.
+[34] A ⟦abraham|Avraham|Abraham⟧ pobýval jako cizinec v zemi ⟦philistines|Pelištim|Pelištejců⟧ mnoho dní.
 
 ## Změny
 
@@ -84,7 +84,7 @@
 - **"angel of God" → „posel *Elohim*“** (v17) – jako jinde.
 - **"What aileth thee" → „Co je ti“** (v17) – modernizováno.
 - **"grove" → „tamaryšek“** (v33) – hebrejsky אֵשֶׁל *eshel*. Konkrétní druh stromu (*Tamarix*), pouštní strom nenáročný na vodu. KJV „grove“ (háj) přes LXX a Vulgatu míjí konkrétní botaniku a plete si ho s háji Asherah (které by byly pohanským kultem). Opraveno.
-- **"the everlasting God" → „věčného *Elohim*“** (v33) – hebrejsky אֵל עוֹלָם *El Olam*. Další složené božské jméno s El, jako El Elyon (14), El Shaddai (17), El Roi (16). Přeloženo podle standardní konvence s *Elohim*.
+- **"the everlasting God" → „věčného El“** (v33) – hebrejsky אֵל עוֹלָם *El Olam*. Další složené božské jméno s El, jako El Elyon (14), El Shaddai (17), El Roi (16). *El* ponecháno hebrejsky, přívlastek přeložen.
 - **"kindness" → „věrnosti“** (v23) – hebrejsky חֶסֶד *chesed*, jako jinde.
 - **"son, nor with my son's son" → „s mým potomstvem ani s mými vnuky“** (v23) – hebrejsky וּלְנִינִי וּלְנֶכְדִּי *u-le-nini u-le-nekhdi* = mé potomstvo a mí vnuci. Modernizováno do obecného ekvivalentu.
 - **"the Philistines" (v32, 34)** – anachronismus: Philistini jako organizovaný národ jsou v této oblasti doloženi až od 12. století př. n. l. (doba železná), staletí po Abrahamovi. Pravděpodobně pozdější redakční aktualizace pro čtenáře obeznámené se soudobými poměry v oblasti, nebo širší užití označení „Philistin“ pro pobřežní národy egejského původu ve 2. tisíciletí.

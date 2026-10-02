@@ -1,8 +1,8 @@
 # Abdijáš 1
 
-[1] Toto praví Pán Yahweh o Edomu:
+[1] Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ o ⟦edom|Edomu|Edómu⟧:
 
-Uslyšeli jsme zprávu od Yahweh
+Uslyšeli jsme zprávu od ⟦yhwh|Jahveho|Hospodina⟧
 a mezi národy byl vyslán posel:
 „Vzhůru! Povstaňme proti ní do boje!“
 
@@ -17,7 +17,7 @@ který si v srdci říkáš: „Kdo mě srazí na zem?“
 [4] I kdybys vzlétl vysoko jako orel,
 i kdyby tvé hnízdo bylo zasazeno mezi hvězdy,
 odtud tě strhnu dolů,
-praví Yahweh.
+praví ⟦yhwh|Jahve|Hospodin⟧.
 
 [5] Kdyby k tobě přišli zloději,
 kdyby přišli plenitelé v noci –
@@ -26,7 +26,7 @@ nekradli by jen tolik, co jim stačí?
 Kdyby k tobě přišli sběrači hroznů,
 nenechali by paběrky?
 
-[6] Jak je Esau vydrancován,
+[6] Jak je ⟦esau|Esav|Ezau⟧ vydrancován,
 jak jsou jeho poklady vyslíděny!
 
 [7] Všichni tvoji spojenci tě zahnali až k tvé hranici;
@@ -35,26 +35,26 @@ přemohli tě;
 ti, kdo jedí tvůj chléb, ti pod tebou nastražili past;
 nemáš žádné porozumění.
 
-[8] Což onoho dne, praví Yahweh,
-nevyhladím mudrce z Edomu
-a porozumění z hory Esau?
+[8] Což onoho dne, praví ⟦yhwh|Jahve|Hospodin⟧,
+nevyhladím mudrce z ⟦edom|Edomu|Edómu⟧
+a porozumění z hory ⟦esau|Esava|Ezaua⟧?
 
-[9] A tvoji hrdinové budou zděšeni, Temane,
-takže každý muž z hory Esau bude vyťat v řeži.
+[9] A tvoji hrdinové budou zděšeni, ⟦teman|Temane|Témane⟧,
+takže každý muž z hory ⟦esau|Esava|Ezaua⟧ bude vyťat v řeži.
 
-[10] Pro násilí spáchané na tvém bratru Jacobovi
+[10] Pro násilí spáchané na tvém bratru ⟦jacob|Jaakovovi|Jákobovi⟧
 tě pokryje hanba
 a budeš vyťat navěky.
 
 [11] Toho dne, kdy jsi stál opodál,
 toho dne, kdy cizinci odvlekli jeho bohatství
 a cizáci vstoupili do jeho bran
-a o Jerusalem házeli los,
+a o ⟦jerusalem|Jerušalajim|Jeruzalém⟧ házeli los,
 byl jsi jako jeden z nich.
 
 [12] Neškodolib se nad dnem svého bratra
 v den jeho neštěstí;
-neraduj se nad lidem Judahu
+neraduj se nad lidem ⟦judah|Jehudy|Judy⟧
 v den jejich záhuby;
 nevychloubej se
 v den soužení.
@@ -71,7 +71,7 @@ abys vyhlazoval jeho uprchlíky;
 nevydávej jeho přeživší
 v den soužení.
 
-[15] Neboť **Den Yahweh** je blízko nade všemi národy.
+[15] Neboť **Den ⟦yhwh|Jahveho|Hospodina⟧** je blízko nade všemi národy.
 Jak jsi činil ty, tak bude učiněno tobě;
 tvé skutky se vrátí na tvou vlastní hlavu.
 
@@ -80,22 +80,22 @@ tak budou všechny národy pít ustavičně;
 budou pít a hltat
 a budou, jako by nikdy nebyly.
 
-[17] Ale na hoře Zion budou ti, kdo uniknou,
+[17] Ale na hoře ⟦zion|Cijon|Sijón⟧ budou ti, kdo uniknou,
 a bude svatá,
-a dům Jacobův se zmocní svého vlastního dědictví.
+a dům ⟦jacob|Jaakovův|Jákobův⟧ se zmocní svého vlastního dědictví.
 
-[18] Dům Jacobův bude ohněm
-a dům Josephův plamenem
-a dům Esauův strništěm;
+[18] Dům ⟦jacob|Jaakovův|Jákobův⟧ bude ohněm
+a dům Josefův plamenem
+a dům ⟦esau|Esavův|Ezauův⟧ strništěm;
 zapálí je a stráví je
-a z domu Esauova nezůstane nikdo, kdo by přežil,
-neboť Yahweh promluvil.
+a z domu ⟦esau|Esavova|Ezauova⟧ nezůstane nikdo, kdo by přežil,
+neboť ⟦yhwh|Jahve|Hospodin⟧ promluvil.
 
-[19] Ti z Negev obsadí horu Esau a ti ze Shephelah obsadí zemi Philistinců; obsadí zemi Ephraimu a zemi Samarie a Benjamin obsadí Gilead.
+[19] Ti z ⟦negev|Negevu|Negebu⟧ obsadí horu ⟦esau|Esava|Ezaua⟧ a ti ze Šefely obsadí zemi ⟦philistines|Pelištim|Pelištejců⟧; obsadí zemi Efrajimu a zemi ⟦samaria|Šomronu|Samaří⟧ a ⟦benjamin|Binjamin|Benjamín⟧ obsadí ⟦gilead|Gilad|Gileád⟧.
 
-[20] Vyhnanci tohoto zástupu synů Israele obsadí zemi Canaanitů až po Zarephath a vyhnanci z Jerusalemu, kteří jsou v Sepharadu, obsadí města Negev.
+[20] Vyhnanci tohoto zástupu synů ⟦israel|Jisraele|Izraele⟧ obsadí zemi ⟦canaanites|Kenaanim|Kenaanců⟧ až po ⟦zarephath|Carfat|Sareptu⟧ a vyhnanci z ⟦jerusalem|Jerušalajim|Jeruzaléma⟧, kteří jsou v Sefaradu, obsadí města ⟦negev|Negevu|Negebu⟧.
 
-[21] Zachránci vystoupí na horu Zion, aby vládli hoře Esau, a **království bude Yahweh**.
+[21] Zachránci vystoupí na horu ⟦zion|Cijon|Sijón⟧, aby vládli hoře ⟦esau|Esava|Ezaua⟧, a **království bude ⟦yhwh|Jahveho|Hospodina⟧**.
 
 ## Změny
 

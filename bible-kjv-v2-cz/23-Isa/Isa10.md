@@ -18,7 +18,7 @@ nebo padnout mezi pobitými.
 Při tom všem se jeho hněv neodvrátil
 a jeho ruka je stále vztažená.
 
-[5] Běda Assyrii, holi mého hněvu;
+[5] Běda ⟦assyria|Aššuru|Asýrii⟧, holi mého hněvu;
 prut v jejich rukou je má zuřivost!
 
 [6] Proti bezbožnému národu ho posílám
@@ -35,17 +35,17 @@ a vyhlazovat národy, a ne málo.
 
 „Nejsou snad moji velitelé samí králové?
 
-[9] Není snad Calno jako Carchemish?
-Není snad Hamath jako Arpad?
-Není snad Samaria jako Damascus?
+[9] Není snad Kalno jako Karkemiš?
+Není snad ⟦hamath|Chamat|Chamát⟧ jako ⟦arpad|Arpad|Arpád⟧?
+Není snad ⟦samaria|Šomron|Samaří⟧ jako ⟦damascus|Dammesek|Damašek⟧?
 
 [10] Jako má ruka dosáhla na království modl,
-jejichž tesané obrazy byly větší než ty v Jerusalemě a Samarii,
+jejichž tesané obrazy byly větší než ty v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧ a ⟦samaria|Šomronu|Samaří⟧,
 
-[11] neučiním snad Jerusalemu a jeho modlám
-tak, jak jsem učinil Samarii a jejím obrazům?“
+[11] neučiním snad ⟦jerusalem|Jerušalajim|Jeruzalému⟧ a jeho modlám
+tak, jak jsem učinil ⟦samaria|Šomronu a jeho|Samaří a jeho⟧ obrazům?“
 
-[12] Až Pán dokončí všechno své dílo na hoře Zion a v Jerusalemě, potrestá řeč zpupného srdce krále Assyrie a chvástavý pohled jeho očí.
+[12] Až ⟦adonai|Adonaj|Pán⟧ dokončí všechno své dílo na hoře ⟦zion|Cijon|Sijón⟧ a v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧, potrestá řeč zpupného srdce krále ⟦assyria|Aššuru|Asýrie⟧ a chvástavý pohled jeho očí.
 
 [13] Neboť říká:
 
@@ -67,65 +67,65 @@ nebo se pila vypínat proti tomu, kdo s ní zachází?
 Jako by prut vládl tím, kdo jej zvedá,
 nebo jako by hůl zvedala toho, kdo není dřevo!
 
-[16] Proto Pán, Yahweh zástupů,
+[16] Proto Pán, ⟦yhwh|Jahve|Hospodin⟧ zástupů,
 pošle mezi jeho statné bojovníky úbytě
 a pod jeho slávou se vznítí požár
 jako hořící oheň.
 
-[17] Světlo Israele se stane ohněm
+[17] Světlo ⟦israel|Jisraele|Izraele⟧ se stane ohněm
 a jeho Svatý plamenem
 a ten spálí a stráví
 jeho trní a bodláčí v jediný den.
 
 [18] Slávu jeho lesa a jeho úrodné země
-Yahweh zničí, duši i tělo,
+⟦yhwh|Jahve|Hospodin⟧ zničí, duši i tělo,
 a bude to jako když chřadne nemocný.
 
 [19] Zbytek stromů jeho lesa bude tak nepatrný,
 že je dítě sepíše.
 
-[20] V onen den se zbytek Israele
-a ti, kdo z domu Jacobova unikli,
+[20] V onen den se zbytek ⟦israel|Jisraele|Izraele⟧
+a ti, kdo z domu ⟦jacob|Jaakovova|Jákobova⟧ unikli,
 už nebudou opírat o toho, který je bil,
-ale budou se opírat o Yahweh,
-Svatého Israele, v pravdě.
+ale budou se opírat o ⟦yhwh|Jahveho|Hospodina⟧,
+Svatého ⟦israel|Jisraele|Izraele⟧, v pravdě.
 
 [21] Zbytek se navrátí,
-zbytek Jacobův, k Mocnému Elovi.
+zbytek ⟦jacob|Jaakovův|Jákobův⟧, k Mocnému ⟦el|Elovi|Bohu⟧.
 
-[22] Neboť i kdyby tvůj lid, Israel, byl jako písek moře,
+[22] Neboť i kdyby tvůj lid, ⟦israel|Jisrael|Izrael⟧, byl jako písek moře,
 jen zbytek z nich se navrátí.
 Zkáza je ustanovena, přetékající spravedlností.
 
-[23] Neboť Pán Yahweh zástupů
+[23] Neboť ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ zástupů
 učiní úplný konec, jak je ustanoveno,
 uprostřed celé země.
 
-[24] Proto takto praví Pán Yahweh zástupů: „Můj lide, který bydlíš na Zionu, neboj se Assyřanů, když bijí prutem a zvedají proti tobě svou hůl, jako to činili Egypťané.
+[24] Proto takto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ zástupů: „Můj lide, který bydlíš na ⟦zion|Cijonu|Sijónu⟧, neboj se ⟦assyria|Aššuru|Asyřanů⟧, když bijí prutem a zvedají proti tobě svou hůl, jako to činili ⟦egyptians|Micrim|Egypťané⟧.
 
 [25] Neboť už za velmi krátkou chvíli skončí má zuřivost a můj hněv se obrátí k jejich zničení.
 
-[26] A Yahweh zástupů proti nim bude vládnout bičem, jako když bil Midian u skály Oreb. A jeho hůl bude nad mořem a zvedne ji, jako to učinil v Egyptě.
+[26] A ⟦yhwh|Jahve|Hospodin⟧ zástupů proti nim bude vládnout bičem, jako když bil ⟦midian|Midjan|Midján⟧ u skály ⟦oreb|Orev|Oréb⟧. A jeho hůl bude nad mořem a zvedne ji, jako to učinil v ⟦egypt|Micrajim|Egyptě⟧.
 
 [27] A v onen den z tvého ramene sejde jeho břemeno a z tvé šíje jeho jho; a jho bude zlomeno kvůli tuku.“
 
-[28] Přišel do Aiathu; prošel Migronem; v Michmashi ukládá svá zavazadla;
+[28] Přišel do ⟦aiath|Ajjatu|Ajatu⟧; prošel ⟦migron|Migronem|Migrónem⟧; v ⟦michmash|Michmasu|Mikmásu⟧ ukládá svá zavazadla;
 
-[29] překročili průsmyk; v Gebě nocují; Ramah se třese; Gibeah Saulova uprchla.
+[29] překročili průsmyk; v ⟦geba|Gevě|Gebě⟧ nocují; ⟦ramah|Rama|Ráma⟧ se třese; ⟦gibeah|Giva|Gibea⟧ ⟦saul|Šaulova|Saulova⟧ uprchla.
 
-[30] Křič nahlas, dcero Gallimu! Dávej pozor, Laishah! Ubohý Anathoth!
+[30] Křič nahlas, dcero ⟦gallim|Gallimu|Galímu⟧! Dávej pozor, Lajšo! Ubohý ⟦anathoth|Anatot|Anatót⟧!
 
-[31] Madmenah je na útěku; obyvatelé Gebimu prchají do bezpečí.
+[31] ⟦madmenah|Madmena|Madména⟧ je na útěku; obyvatelé ⟦gebim|Gevimu|Gebímu⟧ prchají do bezpečí.
 
-[32] Ještě tento den se zastaví v Nobu; zahrozí pěstí hoře dcery Zion, pahorku Jerusalemu.
+[32] Ještě tento den se zastaví v ⟦nob|Novu|Nóbu⟧; zahrozí pěstí hoře dcery ⟦zion|Cijon|Sijón⟧, pahorku ⟦jerusalem|Jerušalajim|Jeruzaléma⟧.
 
-[33] Hle, Pán, Yahweh zástupů,
+[33] Hle, Pán, ⟦yhwh|Jahve|Hospodin⟧ zástupů,
 osekne větve děsivou mocí;
 ti vysokého vzrůstu budou pokáceni
 a vznešení budou poníženi.
 
 [34] Vysekne lesní houštiny sekerou
-a Lebanon padne rukou mocného.
+a ⟦lebanon|Levanon|Libanón⟧ padne rukou mocného.
 
 ## Změny
 

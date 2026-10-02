@@ -1,6 +1,6 @@
 # Izajáš 25
 
-[1] Yahweh, ty jsi můj *Elohim*;
+[1] ⟦yhwh|Jahve|Hospodine⟧, ty jsi můj ⟦elohim|Elohim|Bůh⟧;
 budu tě vyvyšovat, budu chválit tvé jméno,
 neboť jsi učinil podivuhodné věci,
 záměry utvořené odedávna, věrné a jisté.
@@ -24,7 +24,7 @@ Tlumíš hluk cizinců;
 jako horko stínem oblaku,
 tak utichá píseň ukrutníků.
 
-[6] Na této hoře připraví Yahweh zástupů
+[6] Na této hoře připraví ⟦yhwh|Jahve|Hospodin⟧ zástupů
 všem národům
 hostinu z vybraných pokrmů,
 hostinu z uleželého vína,
@@ -36,24 +36,24 @@ závoj, který je vržen přes všechny národy,
 roušku, která je rozprostřena nad všemi pronárody.
 
 [8] Pohltí smrt navždy;
-a Pán Yahweh setře slzy ze všech tváří
+a ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ setře slzy ze všech tváří
 a potupu svého lidu odejme z celé země,
-neboť Yahweh promluvil.
+neboť ⟦yhwh|Jahve|Hospodin⟧ promluvil.
 
 [9] V onen den se bude říkat:
 
-„Hle, to je náš *Elohim*;
+„Hle, to je náš ⟦elohim|Elohim|Bůh⟧;
 čekali jsme na něho, aby nás zachránil.
-To je Yahweh; čekali jsme na něho;
+To je ⟦yhwh|Jahve|Hospodin⟧; čekali jsme na něho;
 radujme se a jásejme z jeho spasení.“
 
-[10] Neboť ruka Yahweh spočine na této hoře
-a Moab bude pošlapán na svém místě,
+[10] Neboť ruka ⟦yhwh|Jahveho|Hospodina⟧ spočine na této hoře
+a ⟦moab|Moav|Moáb⟧ bude pošlapán na svém místě,
 jako se šlape sláma v hnojišti.
 
 [11] A rozprostře ruce uprostřed něho,
 jako plavec rozprostírá ruce, aby plaval,
-ale Yahweh srazí jeho pýchu
+ale ⟦yhwh|Jahve|Hospodin⟧ srazí jeho pýchu
 i s dovedností jeho rukou.
 
 [12] A vysoká opevnění jeho hradeb strhne,

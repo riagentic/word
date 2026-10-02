@@ -1,8 +1,8 @@
 # Ezechiel 28
 
-[1] Přišlo ke mně slovo Yahweh:
+[1] Přišlo ke mně slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[2] „Synu člověka, řekni knížeti – Tyru: Toto praví Pán Yahweh:
+[2] „Synu člověka, řekni knížeti – ⟦tyre|Coru|Týru⟧: Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧:
 
 ‚Protože se tvé srdce vypíná
 a řekl jsi: „Já jsem bůh;
@@ -11,7 +11,7 @@ v srdci moří,“
 ačkoli jsi jen člověk, a ne bůh,
 přestože činíš své srdce jako srdce boha –
 
-[3] jsi jistě moudřejší než Daniel;
+[3] jsi jistě moudřejší než ⟦daniel|Danijel|Daniel⟧;
 žádné tajemství před tebou není skryto;
 
 [4] svou moudrostí a svou rozumností
@@ -23,7 +23,7 @@ do svých pokladnic;
 jsi rozmnožil své bohatství
 a tvé srdce se ve tvém bohatství vypíná –
 
-[6] proto toto praví Pán Yahweh:
+[6] proto toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧:
 Protože činíš své srdce
 jako srdce boha,
 
@@ -43,16 +43,16 @@ v rukou těch, kdo tě pobíjejí?
 
 [10] Zemřeš smrtí neobřezanců
 rukou cizinců;
-neboť já jsem promluvil, je výrok Pána Yahweh.‘“
+neboť já jsem promluvil, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.‘“
 
-[11] Dále ke mně přišlo slovo Yahweh:
+[11] Dále ke mně přišlo slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[12] „Synu člověka, zanoť žalozpěv nad králem Tyru a řekni mu: Toto praví Pán Yahweh:
+[12] „Synu člověka, zanoť žalozpěv nad králem ⟦tyre|Coru|Týru⟧ a řekni mu: Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧:
 
 ‚Byl jsi pečetí dokonalosti,
 plný moudrosti a dokonalý v kráse.
 
-[13] Byl jsi v Edenu, zahradě *Elohim*;
+[13] Byl jsi v ⟦eden|Edenu|Édenu⟧, zahradě ⟦elohim|Elohim|Boží⟧;
 každý drahý kámen byl tvým příkrovem:
 karneol, topas a diamant,
 beryl, onyx a jaspis,
@@ -61,8 +61,8 @@ a ze zlata byla zhotovena tvá lůžka a tvé rytiny.
 V den, kdy jsi byl stvořen,
 byly připraveny.
 
-[14] Byl jsi pomazaný cherub, který střeží;
-ustanovil jsem tě; byl jsi na svaté hoře *Elohim*;
+[14] Byl jsi pomazaný ⟦cherub|keruv|cherub⟧, který střeží;
+ustanovil jsem tě; byl jsi na svaté hoře ⟦elohim|Elohim|Boží⟧;
 procházel ses uprostřed ohnivých kamenů.
 
 [15] Byl jsi bezúhonný na svých cestách
@@ -71,8 +71,8 @@ dokud se v tobě nenašla nespravedlnost.
 
 [16] V hojnosti svého obchodu
 ses uvnitř naplnil násilím a zhřešil jsi;
-proto jsem tě svrhl jako něco znesvěceného z hory *Elohim*
-a zahubil jsem tě, strážný cherube,
+proto jsem tě svrhl jako něco znesvěceného z hory ⟦elohim|Elohim|Boží⟧
+a zahubil jsem tě, strážný ⟦cherub|keruve|cherube⟧,
 zprostřed ohnivých kamenů.
 
 [17] Tvé srdce se vypínalo pro tvou krásu;
@@ -94,15 +94,15 @@ jsou nad tebou zděšeni;
 došel jsi k hroznému konci
 a už navěky nebudeš.‘“
 
-[20] Přišlo ke mně slovo Yahweh:
+[20] Přišlo ke mně slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[21] „Synu člověka, obrať svou tvář k Sidonu a prorokuj proti němu
+[21] „Synu člověka, obrať svou tvář k ⟦sidon|Cidonu|Sidónu⟧ a prorokuj proti němu
 
-[22] a řekni: Toto praví Pán Yahweh:
+[22] a řekni: Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧:
 
-‚Hle, jsem proti tobě, Sidone,
+‚Hle, jsem proti tobě, ⟦sidon|Cidone|Sidóne⟧,
 a projevím uprostřed tebe svou slávu.
-A poznají, že já jsem Yahweh,
+A poznají, že já jsem ⟦yhwh|Jahve|Hospodin⟧,
 až v něm vykonám soudy
 a projevím v něm svou svatost;
 
@@ -110,13 +110,13 @@ a projevím v něm svou svatost;
 a krev do jeho ulic;
 a uprostřed něho padnou pobití
 mečem, který je proti němu ze všech stran.
-Tehdy poznají, že já jsem Yahweh.‘
+Tehdy poznají, že já jsem ⟦yhwh|Jahve|Hospodin⟧.‘
 
-[24] A pro dům Israele už nebude pichlavý trn ani bolestivý bodlák mezi všemi jejich sousedy, kteří jimi pohrdali. Tehdy poznají, že já jsem Pán Yahweh.
+[24] A pro dům ⟦israel|Jisraele|Izraele⟧ už nebude pichlavý trn ani bolestivý bodlák mezi všemi jejich sousedy, kteří jimi pohrdali. Tehdy poznají, že já jsem ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧.
 
-[25] Toto praví Pán Yahweh: Až shromáždím dům Israele z národů, mezi které jsou rozptýleni, a projevím na nich svou svatost před očima národů, tehdy budou bydlet ve své vlastní zemi, kterou jsem dal svému služebníku Jacobovi.
+[25] Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Až shromáždím dům ⟦israel|Jisraele|Izraele⟧ z národů, mezi které jsou rozptýleni, a projevím na nich svou svatost před očima národů, tehdy budou bydlet ve své vlastní zemi, kterou jsem dal svému služebníku ⟦jacob|Jaakovovi|Jákobovi⟧.
 
-[26] Budou v ní bydlet bezpečně, budou stavět domy a sázet vinice. Budou bydlet bezpečně, až vykonám soudy na všech jejich sousedech, kteří jimi pohrdali. Tehdy poznají, že já jsem Yahweh, jejich *Elohim*.“
+[26] Budou v ní bydlet bezpečně, budou stavět domy a sázet vinice. Budou bydlet bezpečně, až vykonám soudy na všech jejich sousedech, kteří jimi pohrdali. Tehdy poznají, že já jsem ⟦yhwh|Jahve|Hospodin⟧, jejich ⟦elohim|Elohim|Bůh⟧.“
 
 ## Změny
 

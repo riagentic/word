@@ -16,37 +16,37 @@ Potom mě odvedl zpět na břeh řeky.
 
 [7] Když jsem se vracel, viděl jsem na břehu řeky velmi mnoho stromů na jedné i na druhé straně.
 
-[8] Řekl mi: „Tato voda teče k východnímu kraji, sestupuje do Arabah a vtéká do moře; když voda vteče do moře, voda se stane sladkou.
+[8] Řekl mi: „Tato voda teče k východnímu kraji, sestupuje do ⟦arabah|Aravy|pustiny⟧ a vtéká do moře; když voda vteče do moře, voda se stane sladkou.
 
 [9] A kamkoli řeka dojde, bude žít každý živý tvor, který se hemží, a bude velmi mnoho ryb. Neboť tato voda tam přichází, aby se vody moře staly sladkými; a tak bude všechno žít tam, kam řeka dojde.
 
-[10] U moře budou stát rybáři. Od En-gedi po En-eglaim bude místo k roztahování sítí. Jeho ryby budou velmi mnoha druhů jako ryby Velkého moře.
+[10] U moře budou stát rybáři. Od ⟦en-gedi|Ejn Gedi|Én-gedí⟧ po ⟦eneglaim|Ejn Eglajim|Én-eglajim⟧ bude místo k roztahování sítí. Jeho ryby budou velmi mnoha druhů jako ryby Velkého moře.
 
 [11] Ale jeho bažiny a močály se sladkými nestanou; budou ponechány pro sůl.
 
 [12] Na březích, po obou stranách řeky, porostou všechny druhy stromů k jídlu. Jejich listí nezvadne a jejich ovoce nepřestane, ale každý měsíc ponesou čerstvé ovoce, protože voda pro ně vytéká ze svatyně. Jejich ovoce bude k jídlu a jejich listí k uzdravení.“
 
-[13] Tak praví Pán Yahweh: „Toto je hranice, podle níž si rozdělíte zemi jako dědictví mezi dvanáct kmenů Israele. Joseph bude mít dva díly.
+[13] Tak praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: „Toto je hranice, podle níž si rozdělíte zemi jako dědictví mezi dvanáct kmenů ⟦israel|Jisraele|Izraele⟧. Josef bude mít dva díly.
 
 [14] Rozdělíte rovným dílem to, co jsem s pozdviženou rukou přísahal dát vašim otcům. Tato země vám připadne jako vaše dědictví.
 
-[15] „Toto bude hranice země: Na severní straně od Velkého moře cestou na Chethlon do Lebo-Hamath a dál do Tzedad,
+[15] „Toto bude hranice země: Na severní straně od Velkého moře cestou na ⟦hethlon|Chetlon|Chetlón⟧ do ⟦lebo-hamath|Levo Chamat|Lebó-chamát⟧ a dál do ⟦zedad|Cedad|Sedad⟧,
 
-[16] Berothah, Sibraim (který leží na hranici mezi Damascem a Hamathem), až po Hatzar-Hatticon, který je na hranici Hauranu.
+[16] Berota, ⟦sibraim|Sivrajim|Sibrajim⟧ (který leží na hranici mezi ⟦damascus|Dammesekem|Damaškem⟧ a ⟦hamath|Chamatem|Chamátem⟧), až po ⟦hazer-hatticon|Chacer Hatichon|Chaser-tíkon⟧, který je na hranici ⟦hauran|Chavranu|Chauránu⟧.
 
-[17] Hranice tedy povede od moře do Hatzar-Enan, který je na severní hranici Damascu, s hranicí Hamathu na severu. To bude severní strana.
+[17] Hranice tedy povede od moře do ⟦hazar-enan|Chacar Enan|Chasar-énan⟧, který je na severní hranici ⟦damascus|Dammeseku|Damašku⟧, s hranicí ⟦hamath|Chamatu|Chamátu⟧ na severu. To bude severní strana.
 
-[18] „Na východní straně povede hranice mezi Hauranem a Damascem; podél Jordanu mezi Gileadem a zemí Israele; k východnímu moři a až k Tamaru. To bude východní strana.
+[18] „Na východní straně povede hranice mezi ⟦hauran|Chavranem|Chauránem⟧ a ⟦damascus|Dammesekem|Damaškem⟧; podél ⟦jordan|Jardenu|Jordánu⟧ mezi ⟦gilead|Giladem|Gileádem⟧ a zemí ⟦israel|Jisraele|Izraele⟧; k východnímu moři a až k ⟦tamar|Tamaru|Támaru⟧. To bude východní strana.
 
-[19] „Na jižní straně povede od Tamaru až k vodám Meribat-Qadesh, odtud podél Potoka Egypta k Velkému moři. To bude jižní strana.
+[19] „Na jižní straně povede od ⟦tamar|Tamaru|Támaru⟧ až k vodám ⟦meribah-kadesh|Merivot Kadeš|Meribót-kadéš⟧, odtud podél Potoka ⟦egypt|Micrajim|Egypta⟧ k Velkému moři. To bude jižní strana.
 
-[20] „Na západní straně bude hranicí Velké moře až k bodu naproti Lebo-Hamath. To bude západní strana.
+[20] „Na západní straně bude hranicí Velké moře až k bodu naproti ⟦lebo-hamath|Levo Chamat|Lebó-chamát⟧. To bude západní strana.
 
-[21] „Tak si rozdělíte tuto zemi mezi sebou podle kmenů Israele.
+[21] „Tak si rozdělíte tuto zemi mezi sebou podle kmenů ⟦israel|Jisraele|Izraele⟧.
 
-[22] Přidělíte ji losem jako dědictví sobě i přistěhovalcům, kteří pobývají mezi vámi a zplodili mezi vámi děti. Budou pro vás jako rodilí synové Israele. Spolu s vámi dostanou losem dědictví mezi kmeny Israele.
+[22] Přidělíte ji losem jako dědictví sobě i přistěhovalcům, kteří pobývají mezi vámi a zplodili mezi vámi děti. Budou pro vás jako rodilí synové ⟦israel|Jisraele|Izraele⟧. Spolu s vámi dostanou losem dědictví mezi kmeny ⟦israel|Jisraele|Izraele⟧.
 
-[23] V kterémkoli kmeni bude přistěhovalec pobývat, tam mu vyměříte jeho dědictví, je výrok Pána Yahweh.“
+[23] V kterémkoli kmeni bude přistěhovalec pobývat, tam mu vyměříte jeho dědictví, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.“
 
 ## Změny
 

@@ -2,7 +2,7 @@
 
 [1] Přibližovali se k němu všichni výběrčí daní a hříšníci, aby ho slyšeli.
 
-[2] Farizeové a zákoníci reptali: „Tento člověk přijímá hříšníky a jí s nimi.“
+[2] ⟦pharisees|Perušim|Farizeové⟧ a zákoníci reptali: „Tento člověk přijímá hříšníky a jí s nimi.“
 
 [3] Řekl jim tedy toto podobenství:
 
@@ -18,7 +18,7 @@
 
 [9] A když ji nalezne, svolá své přítelkyně a sousedky a řekne: ‚Radujte se se mnou, neboť jsem nalezla minci, kterou jsem ztratila.‘
 
-[10] Pravím vám, že právě tak je radost před anděly *Elohim* nad jedním hříšníkem, který činí pokání.“
+[10] Pravím vám, že právě tak je radost před anděly ⟦elohim|Elohim|Božími⟧ nad jedním hříšníkem, který činí pokání.“
 
 [11] A řekl: „Jeden člověk měl dva syny.
 

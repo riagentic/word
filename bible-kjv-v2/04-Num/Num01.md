@@ -1,78 +1,78 @@
 # Numbers 1
 
-[1] Yahweh spoke to Moses in the wilderness of Sinai, in the Tent of Meeting, on the first day of the second month in the second year after they had come out of the land of Egypt, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧ in the wilderness of Sinai, in the Tent of Meeting, on the first day of the second month in the second year after they had come out of the land of ⟦egypt|Mitzrayim|Egypt⟧, saying,
 
-[2] "Take a census of all the congregation of the children of Israel, by their clans, by their ancestral houses, listing the names of every male one by one,
+[2] "Take a census of all the congregation of the children of ⟦israel|Yisrael|Israel⟧, by their clans, by their ancestral houses, listing the names of every male one by one,
 
-[3] from twenty years old and upward — all in Israel who are able to go out to war — you and Aaron shall number them, company by company.
+[3] from twenty years old and upward — all in ⟦israel|Yisrael|Israel⟧ who are able to go out to war — you and ⟦aaron|Aharon|Aaron⟧ shall number them, company by company.
 
 [4] With you there shall be one man of each tribe, each the head of his ancestral house.
 
-[5] These are the names of the men who shall stand with you: from Reuben, Elizur son of Shedeur;
+[5] These are the names of the men who shall stand with you: from ⟦reuben|Reuven|Reuben⟧, ⟦elizur|Elitzur|Elizur⟧ son of Shedeur;
 
-[6] from Simeon, Shelumiel son of Zurishaddai;
+[6] from ⟦simeon|Shimon|Simeon⟧, Shelumiel son of ⟦zurishaddai|Tzurishaddai|Zurishaddai⟧;
 
-[7] from Judah, Nahshon son of Amminadab;
+[7] from ⟦judah|Yehudah|Judah⟧, ⟦nahshon|Nachshon|Nahshon⟧ son of ⟦amminadab|Amminadav|Amminadab⟧;
 
-[8] from Issachar, Nethanel son of Zuar;
+[8] from ⟦issachar|Yissachar|Issachar⟧, ⟦nethanel|Netanel|Nethanel⟧ son of ⟦zuar|Tzuar|Zuar⟧;
 
-[9] from Zebulun, Eliab son of Helon;
+[9] from ⟦zebulun|Zevulun|Zebulun⟧, ⟦eliab|Eliav|Eliab⟧ son of ⟦helon|Chelon|Helon⟧;
 
-[10] from the sons of Joseph: from Ephraim, Elishama son of Ammihud; from Manasseh, Gamaliel son of Pedahzur;
+[10] from the sons of ⟦joseph|Yosef|Joseph⟧: from ⟦ephraim|Efrayim|Ephraim⟧, Elishama son of Ammihud; from ⟦manasseh|Menashe|Manasseh⟧, ⟦gamaliel|Gamliel|Gamaliel⟧ son of ⟦pedahzur|Pedahtzur|Pedahzur⟧;
 
-[11] from Benjamin, Abidan son of Gideoni;
+[11] from ⟦benjamin|Binyamin|Benjamin⟧, ⟦abidan|Avidan|Abidan⟧ son of ⟦gideoni|Gidoni|Gideoni⟧;
 
-[12] from Dan, Ahiezer son of Ammishaddai;
+[12] from Dan, ⟦ahiezer|Achiezer|Ahiezer⟧ son of Ammishaddai;
 
 [13] from Asher, Pagiel son of Ochran;
 
-[14] from Gad, Eliasaph son of Deuel;
+[14] from Gad, ⟦eliasaph|Elyasaf|Eliasaph⟧ son of Deuel;
 
-[15] from Naphtali, Ahira son of Enan."
+[15] from ⟦naphtali|Naftali|Naphtali⟧, ⟦ahira|Achira|Ahira⟧ son of ⟦enan|Einan|Enan⟧."
 
-[16] These were the ones called from the congregation, the chiefs of their ancestral tribes; they were the heads of the clans of Israel.
+[16] These were the ones called from the congregation, the chiefs of their ancestral tribes; they were the heads of the clans of ⟦israel|Yisrael|Israel⟧.
 
-[17] Moses and Aaron took these men who had been designated by name,
+[17] ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧ took these men who had been designated by name,
 
 [18] and they assembled all the congregation on the first day of the second month, and they registered their lineages by their clans, by their ancestral houses, according to the number of names, from twenty years old and upward, one by one,
 
-[19] as Yahweh commanded Moses. So he numbered them in the wilderness of Sinai.
+[19] as ⟦yhwh|Yahweh|the LORD⟧ commanded ⟦moses|Moshe|Moses⟧. So he numbered them in the wilderness of Sinai.
 
-[20] The children of Reuben, Israel's firstborn, their descendants by their clans, by their ancestral houses, according to the number of names, one by one, every male from twenty years old and upward, all who were able to go out to war —
+[20] The children of ⟦reuben|Reuven|Reuben⟧, ⟦israel|Yisrael's|Israel's⟧ firstborn, their descendants by their clans, by their ancestral houses, according to the number of names, one by one, every male from twenty years old and upward, all who were able to go out to war —
 
-[21] those numbered of the tribe of Reuben were 46,500.
+[21] those numbered of the tribe of ⟦reuben|Reuven|Reuben⟧ were 46,500.
 
-[22] Of the children of Simeon, their descendants by their clans, by their ancestral houses, numbered by the number of names, one by one, every male from twenty years old and upward, all who were able to go out to war —
+[22] Of the children of ⟦simeon|Shimon|Simeon⟧, their descendants by their clans, by their ancestral houses, numbered by the number of names, one by one, every male from twenty years old and upward, all who were able to go out to war —
 
-[23] those numbered of the tribe of Simeon were 59,300.
+[23] those numbered of the tribe of ⟦simeon|Shimon|Simeon⟧ were 59,300.
 
 [24] Of the children of Gad, their descendants by their clans, by their ancestral houses, according to the number of names, from twenty years old and upward, all who were able to go out to war —
 
 [25] those numbered of the tribe of Gad were 45,650.
 
-[26] Of the children of Judah, their descendants by their clans, by their ancestral houses, according to the number of names, from twenty years old and upward, all who were able to go out to war —
+[26] Of the children of ⟦judah|Yehudah|Judah⟧, their descendants by their clans, by their ancestral houses, according to the number of names, from twenty years old and upward, all who were able to go out to war —
 
-[27] those numbered of the tribe of Judah were 74,600.
+[27] those numbered of the tribe of ⟦judah|Yehudah|Judah⟧ were 74,600.
 
-[28] Of the children of Issachar, their descendants by their clans, by their ancestral houses, according to the number of names, from twenty years old and upward, all who were able to go out to war —
+[28] Of the children of ⟦issachar|Yissachar|Issachar⟧, their descendants by their clans, by their ancestral houses, according to the number of names, from twenty years old and upward, all who were able to go out to war —
 
-[29] those numbered of the tribe of Issachar were 54,400.
+[29] those numbered of the tribe of ⟦issachar|Yissachar|Issachar⟧ were 54,400.
 
-[30] Of the children of Zebulun, their descendants by their clans, by their ancestral houses, according to the number of names, from twenty years old and upward, all who were able to go out to war —
+[30] Of the children of ⟦zebulun|Zevulun|Zebulun⟧, their descendants by their clans, by their ancestral houses, according to the number of names, from twenty years old and upward, all who were able to go out to war —
 
-[31] those numbered of the tribe of Zebulun were 57,400.
+[31] those numbered of the tribe of ⟦zebulun|Zevulun|Zebulun⟧ were 57,400.
 
-[32] Of the children of Joseph, namely of the children of Ephraim, their descendants by their clans, by their ancestral houses, according to the number of names, from twenty years old and upward, all who were able to go out to war —
+[32] Of the children of ⟦joseph|Yosef|Joseph⟧, namely of the children of ⟦ephraim|Efrayim|Ephraim⟧, their descendants by their clans, by their ancestral houses, according to the number of names, from twenty years old and upward, all who were able to go out to war —
 
-[33] those numbered of the tribe of Ephraim were 40,500.
+[33] those numbered of the tribe of ⟦ephraim|Efrayim|Ephraim⟧ were 40,500.
 
-[34] Of the children of Manasseh, their descendants by their clans, by their ancestral houses, according to the number of names, from twenty years old and upward, all who were able to go out to war —
+[34] Of the children of ⟦manasseh|Menashe|Manasseh⟧, their descendants by their clans, by their ancestral houses, according to the number of names, from twenty years old and upward, all who were able to go out to war —
 
-[35] those numbered of the tribe of Manasseh were 32,200.
+[35] those numbered of the tribe of ⟦manasseh|Menashe|Manasseh⟧ were 32,200.
 
-[36] Of the children of Benjamin, their descendants by their clans, by their ancestral houses, according to the number of names, from twenty years old and upward, all who were able to go out to war —
+[36] Of the children of ⟦benjamin|Binyamin|Benjamin⟧, their descendants by their clans, by their ancestral houses, according to the number of names, from twenty years old and upward, all who were able to go out to war —
 
-[37] those numbered of the tribe of Benjamin were 35,400.
+[37] those numbered of the tribe of ⟦benjamin|Binyamin|Benjamin⟧ were 35,400.
 
 [38] Of the children of Dan, their descendants by their clans, by their ancestral houses, according to the number of names, from twenty years old and upward, all who were able to go out to war —
 
@@ -82,31 +82,31 @@
 
 [41] those numbered of the tribe of Asher were 41,500.
 
-[42] Of the children of Naphtali, their descendants by their clans, by their ancestral houses, according to the number of names, from twenty years old and upward, all who were able to go out to war —
+[42] Of the children of ⟦naphtali|Naftali|Naphtali⟧, their descendants by their clans, by their ancestral houses, according to the number of names, from twenty years old and upward, all who were able to go out to war —
 
-[43] those numbered of the tribe of Naphtali were 53,400.
+[43] those numbered of the tribe of ⟦naphtali|Naftali|Naphtali⟧ were 53,400.
 
-[44] These are those numbered, whom Moses and Aaron numbered, with the chiefs of Israel, twelve men — each one for his ancestral house.
+[44] These are those numbered, whom ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧ numbered, with the chiefs of ⟦israel|Yisrael|Israel⟧, twelve men — each one for his ancestral house.
 
-[45] So all those numbered of the children of Israel, by their ancestral houses, from twenty years old and upward, all in Israel who were able to go out to war —
+[45] So all those numbered of the children of ⟦israel|Yisrael|Israel⟧, by their ancestral houses, from twenty years old and upward, all in ⟦israel|Yisrael|Israel⟧ who were able to go out to war —
 
 [46] all those numbered were 603,550.
 
-[47] But the Levites, by their ancestral tribe, were not numbered among them;
+[47] But the ⟦levites|Leviyim|Levites⟧, by their ancestral tribe, were not numbered among them;
 
-[48] for Yahweh had spoken to Moses, saying,
+[48] for ⟦yhwh|Yahweh|the LORD⟧ had spoken to ⟦moses|Moshe|Moses⟧, saying,
 
-[49] "Only the tribe of Levi you shall not number, nor shall you count their sum among the children of Israel.
+[49] "Only the tribe of Levi you shall not number, nor shall you count their sum among the children of ⟦israel|Yisrael|Israel⟧.
 
-[50] You shall appoint the Levites over the Dwelling of the Testimony, and over all its furnishings and over all that belongs to it; they shall carry the Dwelling and all its furnishings, and shall minister to it and camp around the Dwelling.
+[50] You shall appoint the ⟦levites|Leviyim|Levites⟧ over the Dwelling of the Testimony, and over all its furnishings and over all that belongs to it; they shall carry the Dwelling and all its furnishings, and shall minister to it and camp around the Dwelling.
 
-[51] When the Dwelling sets out, the Levites shall take it down; and when the Dwelling is to be pitched, the Levites shall set it up. Any outsider who comes near shall be put to death.
+[51] When the Dwelling sets out, the ⟦levites|Leviyim|Levites⟧ shall take it down; and when the Dwelling is to be pitched, the ⟦levites|Leviyim|Levites⟧ shall set it up. Any outsider who comes near shall be put to death.
 
-[52] The children of Israel shall camp each by his own company, and each by his own standard, company by company.
+[52] The children of ⟦israel|Yisrael|Israel⟧ shall camp each by his own company, and each by his own standard, company by company.
 
-[53] But the Levites shall camp around the Dwelling of the Testimony, so that there may be no wrath on the congregation of the children of Israel; and the Levites shall keep charge of the Dwelling of the Testimony."
+[53] But the ⟦levites|Leviyim|Levites⟧ shall camp around the Dwelling of the Testimony, so that there may be no wrath on the congregation of the children of ⟦israel|Yisrael|Israel⟧; and the ⟦levites|Leviyim|Levites⟧ shall keep charge of the Dwelling of the Testimony."
 
-[54] The children of Israel did as Yahweh had commanded Moses; so they did.
+[54] The children of ⟦israel|Yisrael|Israel⟧ did as ⟦yhwh|Yahweh|the LORD⟧ had commanded ⟦moses|Moshe|Moses⟧; so they did.
 
 ## Changes
 

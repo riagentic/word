@@ -1,10 +1,10 @@
 # Skutky 28
 
-[1] Když jsme se zachránili, dozvěděli jsme se, že ostrov se jmenuje Malta.
+[1] Když jsme se zachránili, dozvěděli jsme se, že ostrov se jmenuje ⟦malta|Melité|Malta⟧.
 
 [2] Domorodci nám prokázali neobyčejnou vlídnost: rozdělali oheň a přijali nás všechny, protože začalo pršet a byla zima.
 
-[3] Když Paul nasbíral otep chrastí a přiložil ji na oheň, vylezla před horkem zmije a zakousla se mu do ruky.
+[3] Když ⟦paul|Paulus|Pavel⟧ nasbíral otep chrastí a přiložil ji na oheň, vylezla před horkem zmije a zakousla se mu do ruky.
 
 [4] Když domorodci uviděli, jak mu to zvíře visí z ruky, říkali si navzájem: „Tento člověk je jistě vrah. I když unikl moři, Spravedlnost ho nenechala žít.“
 
@@ -14,7 +14,7 @@
 
 [7] V okolí toho místa měl pozemky přední muž ostrova jménem Publius; ten nás přijal a tři dny nás přátelsky hostil.
 
-[8] Stalo se, že Publiův otec ležel nemocen horečkou a úplavicí. Paul za ním vešel, pomodlil se, vložil na něj ruce a uzdravil ho.
+[8] Stalo se, že Publiův otec ležel nemocen horečkou a úplavicí. ⟦paul|Paulus|Pavel⟧ za ním vešel, pomodlil se, vložil na něj ruce a uzdravil ho.
 
 [9] Když se to stalo, přicházeli i ostatní lidé na ostrově, kteří měli nemoci, a byli uzdravováni.
 
@@ -22,33 +22,33 @@
 
 [11] Po třech měsících jsme odpluli na alexandrijské lodi, která na ostrově přezimovala a nesla na přídi znak božských dvojčat.
 
-[12] Přistáli jsme v Syracuse a zůstali tam tři dny.
+[12] Přistáli jsme v ⟦syracuse|Syrakusai|Syrakusách⟧ a zůstali tam tři dny.
 
-[13] Odtud jsme pluli oklikou a přišli do Rhegia. Po jednom dni se zvedl jižní vítr a druhého dne jsme přišli do Puteoli.
+[13] Odtud jsme pluli oklikou a přišli do ⟦rhegium|Rhégia|Regia⟧. Po jednom dni se zvedl jižní vítr a druhého dne jsme přišli do Puteoli.
 
-[14] Tam jsme našli bratry a byli jsme pozváni, abychom u nich zůstali sedm dní. A tak jsme přišli do Rome.
+[14] Tam jsme našli bratry a byli jsme pozváni, abychom u nich zůstali sedm dní. A tak jsme přišli do ⟦rome|Romy|Říma⟧.
 
-[15] Bratři odtamtud, když o nás uslyšeli, nám vyšli naproti až k Appiovu foru a ke Třem krčmám. Když je Paul uviděl, vzdal díky *Elohim* a nabyl odvahy.
+[15] Bratři odtamtud, když o nás uslyšeli, nám vyšli naproti až k Appiovu foru a ke Třem krčmám. Když je ⟦paul|Paulus|Pavel⟧ uviděl, vzdal díky ⟦elohim|Elohim|Bohu⟧ a nabyl odvahy.
 
-[16] Když jsme přišli do Rome, bylo Paulovi dovoleno bydlet samostatně s vojákem, který ho hlídal.
+[16] Když jsme přišli do ⟦rome|Romy|Říma⟧, bylo ⟦paul|Paulovi|Pavlovi⟧ dovoleno bydlet samostatně s vojákem, který ho hlídal.
 
-[17] Po třech dnech svolal přední místní Židy, a když se sešli, řekl jim: „Bratři, ačkoli jsem neudělal nic proti našemu lidu ani proti obyčejům otců, byl jsem v Jerusalemě vydán jako vězeň do rukou Římanů.
+[17] Po třech dnech svolal přední místní ⟦jews|Jehudim|Židy⟧, a když se sešli, řekl jim: „Bratři, ačkoli jsem neudělal nic proti našemu lidu ani proti obyčejům otců, byl jsem v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧ vydán jako vězeň do rukou Římanů.
 
 [18] Ti mě vyslechli a chtěli mě propustit, protože na mně nebyla žádná vina hodná smrti.
 
-[19] Protože se však Židé stavěli proti, byl jsem nucen odvolat se k Caesarovi – ne že bych chtěl svůj národ z něčeho obviňovat.
+[19] Protože se však ⟦jews|Jehudim|Židé⟧ stavěli proti, byl jsem nucen odvolat se k ⟦caesar|Caesarovi|císaři⟧ – ne že bych chtěl svůj národ z něčeho obviňovat.
 
-[20] Proto jsem vás tedy požádal, abych vás uviděl a promluvil s vámi, neboť kvůli naději Israele nosím tento řetěz.“
+[20] Proto jsem vás tedy požádal, abych vás uviděl a promluvil s vámi, neboť kvůli naději ⟦israel|Jisraele|Izraele⟧ nosím tento řetěz.“
 
-[21] Oni mu řekli: „Nedostali jsme o tobě z Judeje žádné dopisy a ani nikdo z bratří, kteří sem přišli, o tobě nic zlého neoznámil ani neřekl.
+[21] Oni mu řekli: „Nedostali jsme o tobě z ⟦judea|Jehudy|Judska⟧ žádné dopisy a ani nikdo z bratří, kteří sem přišli, o tobě nic zlého neoznámil ani neřekl.
 
 [22] Rádi bychom však od tebe slyšeli, co si myslíš; o této sektě totiž víme, že se proti ní všude mluví.“
 
-[23] Určili mu den a přišli k němu do jeho bytu ve větším počtu. Od rána do večera jim vykládal, dosvědčoval království *Elohim* a snažil se je přesvědčit o *Yeshuovi* ze zákona Mosesova i z Proroků.
+[23] Určili mu den a přišli k němu do jeho bytu ve větším počtu. Od rána do večera jim vykládal, dosvědčoval království ⟦elohim|Elohim|Boží⟧ a snažil se je přesvědčit o ⟦yeshua|Ješuovi|Ježíši⟧ ⟦torah|z Tóry Mošovy|ze zákona Mojžíšova⟧ i z Proroků.
 
 [24] Jedni se jeho slovy dali přesvědčit, druzí nevěřili.
 
-[25] Protože se mezi sebou neshodli, rozcházeli se, když Paul řekl ještě jedno slovo: „Dobře promluvil *Ruach HaQodesh* skrze proroka Isaiaha k vašim otcům:
+[25] Protože se mezi sebou neshodli, rozcházeli se, když ⟦paul|Paulus|Pavel⟧ řekl ještě jedno slovo: „Dobře promluvil ⟦ruach-haqodesh|Ruach HaKodeš|Duch svatý⟧ skrze proroka ⟦isaiah|Ješajahua|Izaiáše⟧ k vašim otcům:
 
 [26] ‚**Jdi k tomuto lidu a řekni:
 „Sluchem budete slyšet, ale nikdy neporozumíte,
@@ -61,11 +61,11 @@ a neslyšeli ušima
 a neporozuměli srdcem
 a neobrátili se, a já bych je uzdravil.**‘
 
-[28] Vězte tedy, že tato spása *Elohim* byla poslána pohanům; ti budou naslouchat.“
+[28] Vězte tedy, že tato spása ⟦elohim|Elohim|Boží⟧ byla poslána pohanům; ti budou naslouchat.“
 
 [30] Zůstal tam celé dva roky na vlastní náklady a přijímal všechny, kdo k němu přicházeli;
 
-[31] zvěstoval království *Elohim* a učil o Pánu *Yeshuovi* *Mashiachovi* se vší smělostí a bez překážek.
+[31] zvěstoval království ⟦elohim|Elohim|Boží⟧ a učil o Pánu ⟦yeshua|Ješuovi|Ježíši⟧ ⟦mashiach|Mašiachovi|Kristu⟧ se vší smělostí a bez překážek.
 
 ## Změny
 

@@ -1,25 +1,25 @@
 # Isaiah 51
 
 [1] "Listen to me, you who pursue righteousness,
-you who seek Yahweh:
+you who seek ⟦yhwh|Yahweh|the LORD⟧:
 look to the rock from which you were hewn,
 and to the quarry from which you were dug.
 
-[2] Look to Abraham your father
+[2] Look to ⟦abraham|Avraham|Abraham⟧ your father
 and to Sarah who bore you;
 for he was but one when I called him,
 that I might bless him and multiply him.
 
-[3] For Yahweh comforts Zion;
+[3] For ⟦yhwh|Yahweh|the LORD⟧ comforts ⟦zion|Tziyon|Zion⟧;
 he comforts all her waste places
 and makes her wilderness like Eden,
-her desert like the garden of Yahweh;
+her desert like the garden of ⟦yhwh|Yahweh|the LORD⟧;
 joy and gladness will be found in her,
 thanksgiving and the voice of song.
 
 [4] Give attention to me, my people,
 and give ear to me, my nation;
-for a law will go out from me,
+for a ⟦torah|Torah|law⟧ will go out from me,
 and I will set my justice for a light to the peoples.
 
 [5] My righteousness draws near,
@@ -37,7 +37,7 @@ but my salvation will be forever,
 and my righteousness will never be dismayed.
 
 [7] Listen to me, you who know righteousness,
-the people in whose heart is my law;
+the people in whose heart is my ⟦torah|Torah|law⟧;
 fear not the reproach of man,
 nor be dismayed at their revilings.
 
@@ -47,10 +47,10 @@ but my righteousness will be forever,
 and my salvation to all generations."
 
 [9] Awake, awake, put on strength,
-O arm of Yahweh;
+O arm of ⟦yhwh|Yahweh|the LORD⟧;
 awake, as in days of old,
 the generations of long ago.
-Was it not you who cut Rahab in pieces,
+Was it not you who cut ⟦rahab-monster|Rahav|Rahab⟧ in pieces,
 who pierced the sea monster?
 
 [10] Was it not you who dried up the sea,
@@ -58,8 +58,8 @@ the waters of the great deep,
 who made the depths of the sea a way
 for the redeemed to pass over?
 
-[11] And the ransomed of Yahweh shall return
-and come to Zion with singing;
+[11] And the ransomed of ⟦yhwh|Yahweh|the LORD⟧ shall return
+and come to ⟦zion|Tziyon|Zion⟧ with singing;
 everlasting joy shall be upon their heads;
 they shall obtain gladness and joy,
 and sorrow and sighing shall flee away.
@@ -68,7 +68,7 @@ and sorrow and sighing shall flee away.
 who are you that you are afraid of man who dies,
 of the son of man who is made like grass,
 
-[13] and have forgotten Yahweh, your Maker,
+[13] and have forgotten ⟦yhwh|Yahweh|the LORD⟧, your Maker,
 who stretched out the heavens
 and laid the foundations of the earth,
 and you fear continually all the day
@@ -80,19 +80,19 @@ And where is the wrath of the oppressor?
 he shall not die and go down to the pit,
 neither shall his bread be lacking.
 
-[15] I am Yahweh your *Elohim*,
+[15] I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧,
 who stirs up the sea so that its waves roar —
-Yahweh of Hosts is his name.
+⟦yhwh|Yahweh|the LORD⟧ of Hosts is his name.
 
 [16] And I have put my words in your mouth
 and covered you in the shadow of my hand,
 establishing the heavens
 and laying the foundations of the earth,
-and saying to Zion, 'You are my people.'"
+and saying to ⟦zion|Tziyon|Zion⟧, 'You are my people.'"
 
 [17] Wake yourself, wake yourself,
-stand up, O Jerusalem,
-you who have drunk from the hand of Yahweh
+stand up, O ⟦jerusalem|Yerushalayim|Jerusalem⟧,
+you who have drunk from the hand of ⟦yhwh|Yahweh|the LORD⟧
 the cup of his wrath,
 who have drunk to the dregs
 the bowl, the cup of staggering.
@@ -110,13 +110,13 @@ who will comfort you?
 [20] Your sons have fainted;
 they lie at the head of every street
 like an antelope in a net;
-they are full of the wrath of Yahweh,
-the rebuke of your *Elohim*.
+they are full of the wrath of ⟦yhwh|Yahweh|the LORD⟧,
+the rebuke of your ⟦elohim|Elohim|God⟧.
 
 [21] Therefore hear this, you who are afflicted,
 who are drunk, but not with wine:
 
-[22] Thus says the Lord, Yahweh, your *Elohim*, who pleads the cause of his people:
+[22] Thus says the Lord, ⟦yhwh|Yahweh|the LORD⟧, your ⟦elohim|Elohim|God⟧, who pleads the cause of his people:
 
 "Behold, I have taken from your hand the cup of staggering;
 the bowl of my wrath you shall drink no more;

@@ -1,68 +1,68 @@
 # Genesis 5
 
-[1] Toto je svitek rodů Adamových. V den, kdy *Elohim* stvořil člověka, učinil ho k podobě *Elohim*.
+[1] Toto je svitek rodů Adamových. V den, kdy ⟦elohim|Elohim|Bůh⟧ stvořil člověka, učinil ho k podobě ⟦elohim|Elohim|Boží⟧.
 
 [2] Muže a ženu je stvořil; požehnal jim a dal jim jméno „Lidstvo“ v den, kdy byli stvořeni.
 
-[3] Adam žil 130 let a zplodil syna ke své podobě, podle svého obrazu, a dal mu jméno Seth.
+[3] Adam žil 130 let a zplodil syna ke své podobě, podle svého obrazu, a dal mu jméno ⟦seth|Šet|Šét⟧.
 
-[4] Adamových dnů poté, co zplodil Setha, bylo 800 let; a zplodil syny a dcery.
+[4] Adamových dnů poté, co zplodil ⟦seth|Šeta|Šéta⟧, bylo 800 let; a zplodil syny a dcery.
 
 [5] Všech dnů, které Adam prožil, bylo 930 let; a zemřel.
 
-[6] Seth žil 105 let a zplodil Enoshe.
+[6] ⟦seth|Šet|Šét⟧ žil 105 let a zplodil ⟦enosh|Enoše|Enóše⟧.
 
-[7] Seth žil poté, co zplodil Enoshe, 807 let a zplodil syny a dcery.
+[7] ⟦seth|Šet|Šét⟧ žil poté, co zplodil ⟦enosh|Enoše|Enóše⟧, 807 let a zplodil syny a dcery.
 
-[8] Všech Sethových dnů bylo 912 let; a zemřel.
+[8] Všech ⟦seth|Šetových|Šétových⟧ dnů bylo 912 let; a zemřel.
 
-[9] Enosh žil 90 let a zplodil Kenana.
+[9] ⟦enosh|Enoš|Enóš⟧ žil 90 let a zplodil ⟦kenan|Kenana|Kénana⟧.
 
-[10] Enosh žil poté, co zplodil Kenana, 815 let a zplodil syny a dcery.
+[10] ⟦enosh|Enoš|Enóš⟧ žil poté, co zplodil ⟦kenan|Kenana|Kénana⟧, 815 let a zplodil syny a dcery.
 
-[11] Všech Enoshových dnů bylo 905 let; a zemřel.
+[11] Všech ⟦enosh|Enošových|Enóšových⟧ dnů bylo 905 let; a zemřel.
 
-[12] Kenan žil 70 let a zplodil Mahalalela.
+[12] ⟦kenan|Kenan|Kénan⟧ žil 70 let a zplodil Mahalalela.
 
-[13] Kenan žil poté, co zplodil Mahalalela, 840 let a zplodil syny a dcery.
+[13] ⟦kenan|Kenan|Kénan⟧ žil poté, co zplodil Mahalalela, 840 let a zplodil syny a dcery.
 
-[14] Všech Kenanových dnů bylo 910 let; a zemřel.
+[14] Všech ⟦kenan|Kenanových|Kénanových⟧ dnů bylo 910 let; a zemřel.
 
-[15] Mahalalel žil 65 let a zplodil Jareda.
+[15] Mahalalel žil 65 let a zplodil Jereda.
 
-[16] Mahalalel žil poté, co zplodil Jareda, 830 let a zplodil syny a dcery.
+[16] Mahalalel žil poté, co zplodil Jereda, 830 let a zplodil syny a dcery.
 
 [17] Všech Mahalalelových dnů bylo 895 let; a zemřel.
 
-[18] Jared žil 162 let a zplodil Enocha.
+[18] Jered žil 162 let a zplodil ⟦enoch|Chanocha|Henocha⟧.
 
-[19] Jared žil poté, co zplodil Enocha, 800 let a zplodil syny a dcery.
+[19] Jered žil poté, co zplodil ⟦enoch|Chanocha|Henocha⟧, 800 let a zplodil syny a dcery.
 
-[20] Všech Jaredových dnů bylo 962 let; a zemřel.
+[20] Všech Jeredových dnů bylo 962 let; a zemřel.
 
-[21] Enoch žil 65 let a zplodil Methuselaha.
+[21] ⟦enoch|Chanoch|Henoch⟧ žil 65 let a zplodil ⟦methuselah|Metušelacha|Metuzaléma⟧.
 
-[22] Enoch chodil s *Elohim* poté, co zplodil Methuselaha, 300 let a zplodil syny a dcery.
+[22] ⟦enoch|Chanoch|Henoch⟧ chodil s ⟦elohim|Elohim|Bohem⟧ poté, co zplodil ⟦methuselah|Metušelacha|Metuzaléma⟧, 300 let a zplodil syny a dcery.
 
-[23] Všech Enochových dnů bylo 365 let.
+[23] Všech ⟦enoch|Chanochových|Henochových⟧ dnů bylo 365 let.
 
-[24] Enoch chodil s *Elohim* – a už nebyl, neboť ho *Elohim* vzal.
+[24] ⟦enoch|Chanoch|Henoch⟧ chodil s ⟦elohim|Elohim|Bohem⟧ – a už nebyl, neboť ho ⟦elohim|Elohim|Bůh⟧ vzal.
 
-[25] Methuselah žil 187 let a zplodil Lamecha.
+[25] ⟦methuselah|Metušelach|Metuzalém⟧ žil 187 let a zplodil ⟦lamech|Lemecha|Lámecha⟧.
 
-[26] Methuselah žil poté, co zplodil Lamecha, 782 let a zplodil syny a dcery.
+[26] ⟦methuselah|Metušelach|Metuzalém⟧ žil poté, co zplodil ⟦lamech|Lemecha|Lámecha⟧, 782 let a zplodil syny a dcery.
 
-[27] Všech Methuselahových dnů bylo 969 let; a zemřel.
+[27] Všech ⟦methuselah|Metušelachových|Metuzalémových⟧ dnů bylo 969 let; a zemřel.
 
-[28] Lamech žil 182 let a zplodil syna.
+[28] ⟦lamech|Lemech|Lámech⟧ žil 182 let a zplodil syna.
 
-[29] Dal mu jméno Noah a řekl: „Ten nám přinese úlevu od naší práce a od lopoty našich rukou, od půdy, kterou Yahweh proklel.“
+[29] Dal mu jméno ⟦noah|Noach|Noe⟧ a řekl: „Ten nám přinese úlevu od naší práce a od lopoty našich rukou, od půdy, kterou ⟦yhwh|Jahve|Hospodin⟧ proklel.“
 
-[30] Lamech žil poté, co zplodil Noaha, 595 let a zplodil syny a dcery.
+[30] ⟦lamech|Lemech|Lámech⟧ žil poté, co zplodil ⟦noah|Noacha|Noeho⟧, 595 let a zplodil syny a dcery.
 
-[31] Všech Lamechových dnů bylo 777 let; a zemřel.
+[31] Všech ⟦lamech|Lemechových|Lámechových⟧ dnů bylo 777 let; a zemřel.
 
-[32] Noahovi bylo 500 let a Noah zplodil Shema, Hama a Japhetha.
+[32] ⟦noah|Noachovi|Noemu⟧ bylo 500 let a ⟦noah|Noach|Noe⟧ zplodil ⟦shem|Šema|Šéma⟧, Chama a Jefeta.
 
 ## Změny
 

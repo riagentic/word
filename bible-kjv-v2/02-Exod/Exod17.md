@@ -1,36 +1,36 @@
 # Exodus 17
 
-[1] All the congregation of the children of Israel journeyed on from the Wilderness of Sin by stages, at the command of Yahweh, and encamped at Rephidim; but there was no water for the people to drink.
+[1] All the congregation of the children of ⟦israel|Yisrael|Israel⟧ journeyed on from the Wilderness of Sin by stages, at the command of ⟦yhwh|Yahweh|the LORD⟧, and encamped at ⟦rephidim|Refidim|Rephidim⟧; but there was no water for the people to drink.
 
-[2] So the people quarreled with Moses and said, "Give us water to drink." Moses said to them, "Why do you quarrel with me? Why do you test Yahweh?"
+[2] So the people quarreled with ⟦moses|Moshe|Moses⟧ and said, "Give us water to drink." ⟦moses|Moshe|Moses⟧ said to them, "Why do you quarrel with me? Why do you test ⟦yhwh|Yahweh|the LORD⟧?"
 
-[3] But the people thirsted there for water, and the people grumbled against Moses and said, "Why is this, that you have brought us up from Egypt — to kill us and our children and our livestock with thirst?"
+[3] But the people thirsted there for water, and the people grumbled against ⟦moses|Moshe|Moses⟧ and said, "Why is this, that you have brought us up from ⟦egypt|Mitzrayim|Egypt⟧ — to kill us and our children and our livestock with thirst?"
 
-[4] Moses cried out to Yahweh, saying, "What shall I do with this people? They are almost ready to stone me."
+[4] ⟦moses|Moshe|Moses⟧ cried out to ⟦yhwh|Yahweh|the LORD⟧, saying, "What shall I do with this people? They are almost ready to stone me."
 
-[5] Yahweh said to Moses, "Pass on before the people, and take with you some of the elders of Israel; and your staff, with which you struck the Nile, take in your hand, and go.
+[5] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Pass on before the people, and take with you some of the elders of ⟦israel|Yisrael|Israel⟧; and your staff, with which you struck the ⟦nile|Yeor|Nile⟧, take in your hand, and go.
 
-[6] Behold, I will stand before you there on the rock at Horeb; and you shall strike the rock, and water will come out of it, and the people will drink." Moses did so, in the sight of the elders of Israel.
+[6] Behold, I will stand before you there on the rock at ⟦horeb|Chorev|Horeb⟧; and you shall strike the rock, and water will come out of it, and the people will drink." ⟦moses|Moshe|Moses⟧ did so, in the sight of the elders of ⟦israel|Yisrael|Israel⟧.
 
-[7] He called the name of the place Massah (testing) and Meribah (quarreling), because of the quarrel of the children of Israel, and because they tested Yahweh, saying, "Is Yahweh in our midst or not?"
+[7] He called the name of the place Massah (testing) and ⟦meribah|Merivah|Meribah⟧ (quarreling), because of the quarrel of the children of ⟦israel|Yisrael|Israel⟧, and because they tested ⟦yhwh|Yahweh|the LORD⟧, saying, "Is ⟦yhwh|Yahweh|the LORD⟧ in our midst or not?"
 
-[8] Then came Amalek and fought with Israel at Rephidim.
+[8] Then came ⟦amalek|Amaleq|Amalek⟧ and fought with ⟦israel|Yisrael|Israel⟧ at ⟦rephidim|Refidim|Rephidim⟧.
 
-[9] Moses said to Joshua, "Choose men for us, and go out, fight with Amalek. Tomorrow I will stand on the top of the hill with the staff of *Elohim* in my hand."
+[9] ⟦moses|Moshe|Moses⟧ said to ⟦joshua|Yehoshua|Joshua⟧, "Choose men for us, and go out, fight with ⟦amalek|Amaleq|Amalek⟧. Tomorrow I will stand on the top of the hill with the staff of ⟦elohim|Elohim|God⟧ in my hand."
 
-[10] Joshua did as Moses had said to him and fought with Amalek; and Moses, Aaron, and Hur went up to the top of the hill.
+[10] ⟦joshua|Yehoshua|Joshua⟧ did as ⟦moses|Moshe|Moses⟧ had said to him and fought with ⟦amalek|Amaleq|Amalek⟧; and ⟦moses|Moshe|Moses⟧, ⟦aaron|Aharon|Aaron⟧, and ⟦hur|Chur|Hur⟧ went up to the top of the hill.
 
-[11] Whenever Moses held up his hand, Israel prevailed; and whenever he let down his hand, Amalek prevailed.
+[11] Whenever ⟦moses|Moshe|Moses⟧ held up his hand, ⟦israel|Yisrael|Israel⟧ prevailed; and whenever he let down his hand, ⟦amalek|Amaleq|Amalek⟧ prevailed.
 
-[12] But Moses' hands grew heavy, so they took a stone and put it under him, and he sat on it; and Aaron and Hur held up his hands, one on one side and the other on the other side. So his hands were steady until the going down of the sun.
+[12] But ⟦moses|Moshe's|Moses'⟧ hands grew heavy, so they took a stone and put it under him, and he sat on it; and ⟦aaron|Aharon|Aaron⟧ and ⟦hur|Chur|Hur⟧ held up his hands, one on one side and the other on the other side. So his hands were steady until the going down of the sun.
 
-[13] And Joshua defeated Amalek and his people with the edge of the sword.
+[13] And ⟦joshua|Yehoshua|Joshua⟧ defeated ⟦amalek|Amaleq|Amalek⟧ and his people with the edge of the sword.
 
-[14] Yahweh said to Moses, "Write this for a memorial in a scroll, and recite it in the ears of Joshua: I will utterly blot out the remembrance of Amalek from under the heavens."
+[14] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Write this for a memorial in a scroll, and recite it in the ears of ⟦joshua|Yehoshua|Joshua⟧: I will utterly blot out the remembrance of ⟦amalek|Amaleq|Amalek⟧ from under the heavens."
 
-[15] And Moses built an altar and called its name Yahweh-Nissi (Yahweh is my banner);
+[15] And ⟦moses|Moshe|Moses⟧ built an altar and called its name ⟦yhwh-nissi|Yahweh-Nissi (Yahweh is my banner)|The LORD Is My Banner⟧;
 
-[16] for he said, "Because a hand has been raised against the throne of Yah, Yahweh will have war with Amalek from generation to generation."
+[16] for he said, "Because a hand has been raised against the throne of ⟦yah|Yah|the LORD⟧, ⟦yhwh|Yahweh|the LORD⟧ will have war with ⟦amalek|Amaleq|Amalek⟧ from generation to generation."
 
 ## Changes
 

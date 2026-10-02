@@ -1,14 +1,14 @@
 # Jeremiah 30
 
-[1] The word that came to Jeremiah from Yahweh:
+[1] The word that came to ⟦jeremiah|Yirmeyahu|Jeremiah⟧ from ⟦yhwh|Yahweh|the LORD⟧:
 
-[2] "Thus says Yahweh, the *Elohim* of Israel: Write in a book all the words that I have spoken to you.
+[2] "Thus says ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧: Write in a book all the words that I have spoken to you.
 
-[3] For behold, days are coming, declares Yahweh, when I will restore the fortunes of my people, Israel and Judah, says Yahweh, and I will bring them back to the land that I gave to their fathers, and they shall take possession of it."
+[3] For behold, days are coming, declares ⟦yhwh|Yahweh|the LORD⟧, when I will restore the fortunes of my people, ⟦israel|Yisrael|Israel⟧ and ⟦judah|Yehudah|Judah⟧, says ⟦yhwh|Yahweh|the LORD⟧, and I will bring them back to the land that I gave to their fathers, and they shall take possession of it."
 
-[4] These are the words that Yahweh spoke concerning Israel and Judah:
+[4] These are the words that ⟦yhwh|Yahweh|the LORD⟧ spoke concerning ⟦israel|Yisrael|Israel⟧ and ⟦judah|Yehudah|Judah⟧:
 
-[5] "Thus says Yahweh:
+[5] "Thus says ⟦yhwh|Yahweh|the LORD⟧:
 We have heard a cry of panic,
 of terror, and no peace.
 
@@ -20,33 +20,33 @@ Why has every face turned pale?
 
 [7] Alas! That day is so great
 there is none like it;
-it is a time of distress for Jacob;
+it is a time of distress for ⟦jacob|Yaaqov|Jacob⟧;
 yet he shall be saved out of it.
 
-[8] And it shall come to pass in that day, declares Yahweh of Hosts,
+[8] And it shall come to pass in that day, declares ⟦yhwh|Yahweh|the LORD⟧ of Hosts,
 that I will break his yoke from off your neck,
 and I will burst your bonds,
 and foreigners shall no more make a servant of him.
 
-[9] But they shall serve Yahweh their *Elohim*
+[9] But they shall serve ⟦yhwh|Yahweh|the LORD⟧ their ⟦elohim|Elohim|God⟧
 and David their king,
 whom I will raise up for them.
 
-[10] Then fear not, O Jacob my servant, declares Yahweh,
-nor be dismayed, O Israel;
+[10] Then fear not, O ⟦jacob|Yaaqov|Jacob⟧ my servant, declares ⟦yhwh|Yahweh|the LORD⟧,
+nor be dismayed, O ⟦israel|Yisrael|Israel⟧;
 for behold, I will save you from far away,
 and your offspring from the land of their captivity.
-Jacob shall return and have quiet and ease,
+⟦jacob|Yaaqov|Jacob⟧ shall return and have quiet and ease,
 and none shall make him afraid.
 
-[11] For I am with you to save you, declares Yahweh;
+[11] For I am with you to save you, declares ⟦yhwh|Yahweh|the LORD⟧;
 I will make a full end of all the nations
 among whom I scattered you,
 but of you I will not make a full end.
 I will discipline you in just measure,
 and I will by no means leave you unpunished.
 
-[12] For thus says Yahweh:
+[12] For thus says ⟦yhwh|Yahweh|the LORD⟧:
 Your hurt is incurable,
 and your wound is grievous.
 
@@ -73,12 +73,12 @@ those who plunder you shall be plundered,
 and all who prey on you I will make a prey.
 
 [17] For I will restore health to you,
-and your wounds I will heal, declares Yahweh,
+and your wounds I will heal, declares ⟦yhwh|Yahweh|the LORD⟧,
 because they have called you an outcast:
-'It is Zion, for whom no one cares!'
+'It is ⟦zion|Tziyon|Zion⟧, for whom no one cares!'
 
-[18] Thus says Yahweh:
-Behold, I will restore the fortunes of the tents of Jacob
+[18] Thus says ⟦yhwh|Yahweh|the LORD⟧:
+Behold, I will restore the fortunes of the tents of ⟦jacob|Yaaqov|Jacob⟧
 and have compassion on his dwellings;
 the city shall be rebuilt on its mound,
 and the palace shall stand where it used to be.
@@ -96,17 +96,17 @@ and I will punish all who oppress them.
 their ruler shall come out from their midst;
 I will make him draw near, and he shall approach me,
 for who would dare of himself to approach me?
-declares Yahweh.
+declares ⟦yhwh|Yahweh|the LORD⟧.
 
 [22] And you shall be my people,
-and I will be your *Elohim*."
+and I will be your ⟦elohim|Elohim|God⟧."
 
-[23] Behold, the storm of Yahweh!
+[23] Behold, the storm of ⟦yhwh|Yahweh|the LORD⟧!
 Wrath has gone forth,
 a whirling tempest;
 it will burst upon the head of the wicked.
 
-[24] The fierce anger of Yahweh will not turn back
+[24] The fierce anger of ⟦yhwh|Yahweh|the LORD⟧ will not turn back
 until he has executed and accomplished
 the intents of his mind.
 In the latter days you will understand this.

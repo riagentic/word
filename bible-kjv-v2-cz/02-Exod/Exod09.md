@@ -1,30 +1,30 @@
 # Exodus 9
 
-[1] Tu Yahweh řekl Mosesovi: „Vejdi k Pharaohovi a řekni mu: ‚Toto praví Yahweh, *Elohim* Hebrejů: Propusť můj lid, aby mi sloužil.
+[1] Tu ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Vejdi k ⟦pharaoh|Parohovi|faraónovi⟧ a řekni mu: ‚Toto praví ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦hebrews|Ivrim|Hebrejů⟧: Propusť můj lid, aby mi sloužil.
 
 [2] Neboť jestliže je odmítneš propustit a budeš je dál zadržovat,
 
-[3] hle, ruka Yahweh dopadne na tvůj dobytek, který je na poli – na koně, osly, velbloudy, skot i ovce – velmi těžký mor.
+[3] hle, ruka ⟦yhwh|Jahveho|Hospodina⟧ dopadne na tvůj dobytek, který je na poli – na koně, osly, velbloudy, skot i ovce – velmi těžký mor.
 
-[4] Ale Yahweh učiní rozdíl mezi dobytkem Israele a dobytkem Egypta a nezahyne nic ze všeho, co patří synům Israele.‘“
+[4] Ale ⟦yhwh|Jahve|Hospodin⟧ učiní rozdíl mezi dobytkem ⟦israel|Jisraele|Izraele⟧ a dobytkem ⟦egypt|Micrajim|Egypta⟧ a nezahyne nic ze všeho, co patří synům ⟦israel|Jisraele|Izraele⟧.‘“
 
-[5] Yahweh stanovil určený čas a řekl: „Zítra Yahweh v této zemi učiní tuto věc.“
+[5] ⟦yhwh|Jahve|Hospodin⟧ stanovil určený čas a řekl: „Zítra ⟦yhwh|Jahve|Hospodin⟧ v této zemi učiní tuto věc.“
 
-[6] Nazítří to Yahweh učinil: všechen dobytek Egypta pošel, ale z dobytka synů Israele nepošel ani jeden kus.
+[6] Nazítří to ⟦yhwh|Jahve|Hospodin⟧ učinil: všechen dobytek ⟦egypt|Micrajim|Egypta⟧ pošel, ale z dobytka synů ⟦israel|Jisraele|Izraele⟧ nepošel ani jeden kus.
 
-[7] Pharaoh poslal zjistit, a hle, z dobytka Israele nepošel ani jediný kus; ale Pharaohovo srdce bylo těžké a lid nepropustil.
+[7] ⟦pharaoh|Paro|Farao⟧ poslal zjistit, a hle, z dobytka ⟦israel|Jisraele|Izraele⟧ nepošel ani jediný kus; ale ⟦pharaoh|Parohovo|faraónovo⟧ srdce bylo těžké a lid nepropustil.
 
-[8] Yahweh řekl Mosesovi a Aaronovi: „Naberte si plné hrsti sazí z pece a ať je Moses před očima Pharaoha rozhodí k nebesům.
+[8] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧ a ⟦aaron|Aharonovi|Áronovi⟧: „Naberte si plné hrsti sazí z pece a ať je ⟦moses|Moše|Mojžíš⟧ před očima ⟦pharaoh|Paroha|faraóna⟧ rozhodí k nebesům.
 
 [9] Stane se z nich jemný prach nad celou egyptskou zemí a na lidech i na dobytku po celé egyptské zemi z něj budou vředy propukající v hnisavé puchýře.“
 
-[10] Vzali tedy saze z pece a postavili se před Pharaoha; Moses je rozhodil k nebesům a staly se z nich vředy propukající v hnisavé puchýře na lidech i na dobytku.
+[10] Vzali tedy saze z pece a postavili se před ⟦pharaoh|Paroha|faraóna⟧; ⟦moses|Moše|Mojžíš⟧ je rozhodil k nebesům a staly se z nich vředy propukající v hnisavé puchýře na lidech i na dobytku.
 
-[11] Věštečtí kněží nemohli pro vředy obstát před Mosesem, neboť vředy byly na věšteckých kněžích stejně jako na všech Egypťanech.
+[11] Věštečtí kněží nemohli pro vředy obstát před ⟦moses|Mošem|Mojžíšem⟧, neboť vředy byly na věšteckých kněžích stejně jako na všech ⟦egyptians|Micrim|Egypťanech⟧.
 
-[12] Ale Yahweh zatvrdil Pharaohovo srdce a neuposlechl je, jak Yahweh Mosesovi řekl.
+[12] Ale ⟦yhwh|Jahve|Hospodin⟧ zatvrdil ⟦pharaoh|Parohovo|faraónovo⟧ srdce a neuposlechl je, jak ⟦yhwh|Jahve|Hospodin⟧ ⟦moses|Mošovi|Mojžíšovi⟧ řekl.
 
-[13] Tu Yahweh řekl Mosesovi: „Vstaň časně ráno, postav se před Pharaoha a řekni mu: ‚Toto praví Yahweh, *Elohim* Hebrejů: Propusť můj lid, aby mi sloužil.
+[13] Tu ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Vstaň časně ráno, postav se před ⟦pharaoh|Paroha|faraóna⟧ a řekni mu: ‚Toto praví ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦hebrews|Ivrim|Hebrejů⟧: Propusť můj lid, aby mi sloužil.
 
 [14] Neboť tentokrát pošlu všechny své rány na tvé srdce, na tvé služebníky i na tvůj lid – abys poznal, že na celé zemi není nikdo jako já.
 
@@ -34,41 +34,41 @@
 
 [17] Ještě stále se vyvyšuješ nad můj lid tím, že ho nepropouštíš.
 
-[18] Hle, zítra kolem této doby sešlu velmi těžké krupobití, jaké v Egyptě nebylo ode dne jeho založení až dosud.
+[18] Hle, zítra kolem této doby sešlu velmi těžké krupobití, jaké v ⟦egypt|Micrajim|Egyptě⟧ nebylo ode dne jeho založení až dosud.
 
 [19] Nyní tedy pošli a shromáždi svůj dobytek a všechno, co máš na poli; na každého člověka i každé zvíře, které se najde na poli a nebude přivedeno domů, dopadne krupobití a zemřou.‘“
 
-[20] Kdo z Pharaohových služebníků se bál slova Yahweh, rychle zahnal své služebníky a svůj dobytek do domů.
+[20] Kdo z ⟦pharaoh|Parohových|faraónových⟧ služebníků se bál slova ⟦yhwh|Jahveho|Hospodina⟧, rychle zahnal své služebníky a svůj dobytek do domů.
 
-[21] Kdo si však slovo Yahweh nevzal k srdci, nechal své služebníky a svůj dobytek na poli.
+[21] Kdo si však slovo ⟦yhwh|Jahveho|Hospodina⟧ nevzal k srdci, nechal své služebníky a svůj dobytek na poli.
 
-[22] Yahweh řekl Mosesovi: „Vztáhni ruku k nebesům, ať je krupobití v celé egyptské zemi – na lidi, na dobytek i na každou polní rostlinu po egyptské zemi.“
+[22] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Vztáhni ruku k nebesům, ať je krupobití v celé egyptské zemi – na lidi, na dobytek i na každou polní rostlinu po egyptské zemi.“
 
-[23] Moses vztáhl svou hůl k nebesům a Yahweh seslal hromy a krupobití a oheň sjížděl k zemi; a Yahweh dal pršet krupobití na egyptskou zemi.
+[23] ⟦moses|Moše|Mojžíš⟧ vztáhl svou hůl k nebesům a ⟦yhwh|Jahve|Hospodin⟧ seslal hromy a krupobití a oheň sjížděl k zemi; a ⟦yhwh|Jahve|Hospodin⟧ dal pršet krupobití na egyptskou zemi.
 
 [24] Bylo krupobití a oheň v něm neustále šlehal, velmi těžké, jaké nikdy nebylo v celé egyptské zemi od chvíle, kdy se stala národem.
 
 [25] Krupobití pobilo po celé egyptské zemi všechno, co bylo na poli, lidi i dobytek; krupobití pobilo každou polní rostlinu a polámalo každý polní strom.
 
-[26] Jedině v zemi Goshen, kde byli synové Israele, krupobití nebylo.
+[26] Jedině v zemi Gošen, kde byli synové ⟦israel|Jisraele|Izraele⟧, krupobití nebylo.
 
-[27] Pharaoh poslal a zavolal Mosese a Aarona a řekl jim: „Tentokrát jsem zhřešil. Yahweh je spravedlivý, a já i můj lid jsme svévolníci.
+[27] ⟦pharaoh|Paro|Farao⟧ poslal a zavolal ⟦moses|Moše|Mojžíše⟧ a ⟦aaron|Aharona|Árona⟧ a řekl jim: „Tentokrát jsem zhřešil. ⟦yhwh|Jahve|Hospodin⟧ je spravedlivý, a já i můj lid jsme svévolníci.
 
-[28] Proste Yahweh – vždyť už bylo dost *Elohim* hromů a krupobití – a já vás propustím; už tu nezůstanete.“
+[28] Proste ⟦yhwh|Jahveho|Hospodina⟧ – vždyť už bylo dost ⟦elohim|Elohim|Božích⟧ hromů a krupobití – a já vás propustím; už tu nezůstanete.“
 
-[29] Moses mu řekl: „Jakmile vyjdu z města, rozprostřu ruce k Yahweh; hromy ustanou a krupobití už nebude, abys poznal, že země patří Yahweh.
+[29] ⟦moses|Moše|Mojžíš⟧ mu řekl: „Jakmile vyjdu z města, rozprostřu ruce k ⟦yhwh|Jahvovi|Hospodinu⟧; hromy ustanou a krupobití už nebude, abys poznal, že země patří ⟦yhwh|Jahvovi|Hospodinu⟧.
 
-[30] Ale co se týče tebe a tvých služebníků, vím, že se Yahweh *Elohim* ještě nebojíte.“
+[30] Ale co se týče tebe a tvých služebníků, vím, že se ⟦yhwh|Jahveho|Hospodina⟧ ⟦elohim|Elohim|Boha⟧ ještě nebojíte.“
 
 [31] (Len a ječmen byly pobity, neboť ječmen byl v klasech a len v poupatech.
 
 [32] Pšenice a špalda však pobity nebyly, protože dozrávají pozdě.)
 
-[33] Moses tedy vyšel od Pharaoha z města a rozprostřel ruce k Yahweh, a hromy i krupobití ustaly a déšť se už na zemi nelil.
+[33] ⟦moses|Moše|Mojžíš⟧ tedy vyšel od ⟦pharaoh|Paroha|faraóna⟧ z města a rozprostřel ruce k ⟦yhwh|Jahvovi|Hospodinu⟧, a hromy i krupobití ustaly a déšť se už na zemi nelil.
 
-[34] Když však Pharaoh viděl, že déšť, krupobití a hromy ustaly, hřešil ještě víc a zatvrdil své srdce, on i jeho služebníci.
+[34] Když však ⟦pharaoh|Paro|farao⟧ viděl, že déšť, krupobití a hromy ustaly, hřešil ještě víc a zatvrdil své srdce, on i jeho služebníci.
 
-[35] A Pharaohovo srdce bylo zatvrzeno a syny Israele nepropustil, jak Yahweh řekl skrze Mosese.
+[35] A ⟦pharaoh|Parohovo|faraónovo⟧ srdce bylo zatvrzeno a syny ⟦israel|Jisraele|Izraele⟧ nepropustil, jak ⟦yhwh|Jahve|Hospodin⟧ řekl skrze ⟦moses|Moše|Mojžíše⟧.
 
 ## Změny
 

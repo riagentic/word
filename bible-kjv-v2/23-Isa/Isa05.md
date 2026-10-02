@@ -12,8 +12,8 @@ and hewed out a wine vat in it;
 and he looked for it to yield grapes,
 but it yielded wild grapes.
 
-[3] And now, O inhabitants of Jerusalem
-and men of Judah,
+[3] And now, O inhabitants of ⟦jerusalem|Yerushalayim|Jerusalem⟧
+and men of ⟦judah|Yehudah|Judah⟧,
 judge between me and my vineyard.
 
 [4] What more was there to do for my vineyard,
@@ -34,9 +34,9 @@ and briers and thorns shall grow up;
 I will also command the clouds
 that they rain no rain upon it.
 
-[7] For the vineyard of Yahweh of Hosts
-is the house of Israel,
-and the men of Judah
+[7] For the vineyard of ⟦yhwh|Yahweh|the LORD⟧ of Hosts
+is the house of ⟦israel|Yisrael|Israel⟧,
+and the men of ⟦judah|Yehudah|Judah⟧
 are his pleasant planting;
 and he looked for justice,
 but behold, bloodshed;
@@ -49,7 +49,7 @@ until there is no more room,
 and you are made to dwell alone
 in the midst of the land.
 
-[9] Yahweh of Hosts has sworn in my hearing:
+[9] ⟦yhwh|Yahweh|The LORD⟧ of Hosts has sworn in my hearing:
 "Surely many houses shall be desolate,
 large and beautiful houses, without inhabitant.
 
@@ -63,7 +63,7 @@ as wine inflames them!
 
 [12] They have lyre and harp,
 tambourine and flute and wine at their feasts,
-but they do not regard the deeds of Yahweh,
+but they do not regard the deeds of ⟦yhwh|Yahweh|the LORD⟧,
 or see the work of his hands.
 
 [13] Therefore my people go into exile
@@ -73,14 +73,14 @@ and their multitude is parched with thirst.
 
 [14] Therefore Sheol has enlarged its appetite
 and opened its mouth beyond measure,
-and the nobility of Jerusalem and her multitude will go down,
+and the nobility of ⟦jerusalem|Yerushalayim|Jerusalem⟧ and her multitude will go down,
 her revelers and he who exults in her.
 
 [15] Man is humbled, and each one is brought low,
 and the eyes of the haughty are brought low.
 
-[16] But Yahweh of Hosts is exalted in justice,
-and the holy *Elohim* shows himself holy in righteousness.
+[16] But ⟦yhwh|Yahweh|the LORD⟧ of Hosts is exalted in justice,
+and the holy ⟦el|El|God⟧ shows himself holy in righteousness.
 
 [17] Then shall the lambs graze as in their pasture,
 and nomads shall eat among the ruins of the rich.
@@ -91,7 +91,7 @@ who draw sin as with cart ropes,
 [19] who say: "Let him be quick,
 let him speed his work
 that we may see it;
-let the counsel of the Holy One of Israel draw near,
+let the counsel of the Holy One of ⟦israel|Yisrael|Israel⟧ draw near,
 and let it come, that we may know it!"
 
 [20] Woe to those who call evil good
@@ -114,10 +114,10 @@ and deprive the innocent of his right!
 and as dry grass sinks down in the flame,
 so their root will be as rottenness,
 and their blossom go up like dust;
-for they have rejected the Law of Yahweh of Hosts,
-and have despised the word of the Holy One of Israel.
+for they have rejected the ⟦torah|Torah|law⟧ of ⟦yhwh|Yahweh|the LORD⟧ of Hosts,
+and have despised the word of the Holy One of ⟦israel|Yisrael|Israel⟧.
 
-[25] Therefore the anger of Yahweh was kindled against his people,
+[25] Therefore the anger of ⟦yhwh|Yahweh|the LORD⟧ was kindled against his people,
 and he stretched out his hand against them and struck them,
 and the mountains quaked;
 and their corpses were as refuse in the midst of the streets.
@@ -155,6 +155,7 @@ and the light is darkened by its clouds.
 - **"LORD of hosts" → "Yahweh of Hosts"** (vv7, 9, 16, 24) — divine military/sovereign title preserved.
 - **"judgment" → "justice"; "oppression" → "bloodshed"; "a cry" → "an outcry"** (v7) — Hebrew wordplay: *mishpat* (justice) vs. *mispach* (bloodshed); *tzedaqah* (righteousness) vs. *tze'aqah* (outcry). The pun cannot be reproduced in English; the words are translated and the pun is noted here.
 - **"Sheol" kept** (v14) — Hebrew underworld; "hell" (KJV) imposes later theological sense.
+- **"God" → "El"** (v16) — Hebrew אֵל *El*, not *Elohim*.
 - **Poetic structure** — entire chapter set as verse with proper line breaks; KJV verse numbering can mask parallelism.
 
 ### Notes

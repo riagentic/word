@@ -1,26 +1,26 @@
 # Římanům 1
 
-[1] Paul, služebník *Yeshuy* *Mashiacha*, povolaný apoštol, oddělený pro evangelium *Elohim*,
+[1] ⟦paul|Paulus|Pavel⟧, služebník ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧, povolaný apoštol, oddělený pro evangelium ⟦elohim|Elohim|Boží⟧,
 
 [2] které on předem zaslíbil skrze své proroky ve svatých Písmech,
 
 [3] o svém Synu, který pocházel z Davida podle těla
 
-[4] a byl v moci prokázán jako Syn *Elohim* podle Ducha svatosti vzkříšením z mrtvých, o *Yeshuovi* *Mashiachovi*, našem Pánu,
+[4] a byl v moci prokázán jako Syn ⟦elohim|Elohim|Boží⟧ podle Ducha svatosti vzkříšením z mrtvých, o ⟦yeshua|Ješuovi|Ježíši⟧ ⟦mashiach|Mašiachovi|Kristu⟧, našem Pánu,
 
 [5] skrze něhož jsme přijali milost a apoštolství, abychom kvůli jeho jménu mezi všemi národy přiváděli k poslušnosti víry,
 
-[6] mezi nimiž jste i vy, povolaní, abyste patřili *Yeshuovi* *Mashiachovi* –
+[6] mezi nimiž jste i vy, povolaní, abyste patřili ⟦yeshua|Ješuovi|Ježíši⟧ ⟦mashiach|Mašiachovi|Kristu⟧ –
 
-[7] všem v Rome, kdo jsou milováni *Elohim* a povoláni být svatými:
+[7] všem v ⟦rome|Romě|Římě⟧, kdo jsou milováni ⟦elohim|Elohim|Bohem⟧ a povoláni být svatými:
 
-Milost vám a pokoj od *Elohim*, našeho Otce, a Pána *Yeshuy* *Mashiacha*.
+Milost vám a pokoj od ⟦elohim|Elohim|Boha⟧, našeho Otce, a Pána ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧.
 
-[8] Předně děkuji svému *Elohim* skrze *Yeshuu* *Mashiacha* za vás všechny, protože o vaší víře se mluví po celém světě.
+[8] Předně děkuji svému ⟦elohim|Elohim|Bohu⟧ skrze ⟦yeshua|Ješuu|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧ za vás všechny, protože o vaší víře se mluví po celém světě.
 
-[9] *Elohim*, jemuž sloužím svým duchem v evangeliu jeho Syna, je mi totiž svědkem, že na vás bez ustání vzpomínám
+[9] ⟦elohim|Elohim|Bůh⟧, jemuž sloužím svým duchem v evangeliu jeho Syna, je mi totiž svědkem, že na vás bez ustání vzpomínám
 
-[10] vždy ve svých modlitbách a prosím, abych snad nyní konečně mohl z vůle *Elohim* šťastně přijít k vám.
+[10] vždy ve svých modlitbách a prosím, abych snad nyní konečně mohl z vůle ⟦elohim|Elohim|Boží⟧ šťastně přijít k vám.
 
 [11] Toužím vás totiž spatřit, abych vám udělil nějaký duchovní dar k vašemu posílení –
 
@@ -28,43 +28,43 @@ Milost vám a pokoj od *Elohim*, našeho Otce, a Pána *Yeshuy* *Mashiacha*.
 
 [13] Nechci, bratři, abyste nevěděli, že jsem si často předsevzal přijít k vám (ale až dosud mi v tom bylo bráněno), abych i mezi vámi sklidil nějakou úrodu jako mezi ostatními pohany.
 
-[14] Jsem dlužníkem Řekům i barbarům, moudrým i nemoudrým.
+[14] Jsem dlužníkem ⟦greeks|Jevanim|Řekům⟧ i barbarům, moudrým i nemoudrým.
 
-[15] Proto toužím zvěstovat evangelium i vám, kdo jste v Rome.
+[15] Proto toužím zvěstovat evangelium i vám, kdo jste v ⟦rome|Romě|Římě⟧.
 
-[16] Nestydím se totiž za evangelium, neboť je mocí *Elohim* ke spáse pro každého, kdo věří, pro Žida nejprve, ale i pro Řeka.
+[16] Nestydím se totiž za evangelium, neboť je mocí ⟦elohim|Elohim|Boží⟧ ke spáse pro každého, kdo věří, pro ⟦jew|Jehudiho|Žida⟧ nejprve, ale i pro ⟦greek|Jevaniho|Řeka⟧.
 
-[17] V něm se totiž zjevuje spravedlnost *Elohim* z víry pro víru, jak je napsáno: „**Spravedlivý bude žít z víry**.“
+[17] V něm se totiž zjevuje spravedlnost ⟦elohim|Elohim|Boží⟧ z víry pro víru, jak je napsáno: „**Spravedlivý bude žít z víry**.“
 
-[18] Z nebe se totiž zjevuje hněv *Elohim* proti veškeré bezbožnosti a nespravedlnosti lidí, kteří svou nespravedlností potlačují pravdu.
+[18] Z nebe se totiž zjevuje hněv ⟦elohim|Elohim|Boží⟧ proti veškeré bezbožnosti a nespravedlnosti lidí, kteří svou nespravedlností potlačují pravdu.
 
-[19] Co lze o *Elohim* poznat, je jim totiž zjevné, protože *Elohim* jim to ukázal.
+[19] Co lze o ⟦elohim|Elohim|Bohu⟧ poznat, je jim totiž zjevné, protože ⟦elohim|Elohim|Bůh⟧ jim to ukázal.
 
 [20] Jeho neviditelné vlastnosti, totiž jeho věčná moc a božská podstata, jsou od stvoření světa jasně poznávány z věcí stvořených. Proto nemají výmluvu.
 
-[21] Ačkoli totiž *Elohim* poznali, nevzdali mu čest jako *Elohim* ani mu neděkovali, ale propadli marnosti ve svém myšlení a jejich nerozumné srdce se zatemnilo.
+[21] Ačkoli totiž ⟦elohim|Elohim|Boha⟧ poznali, nevzdali mu čest jako ⟦elohim|Elohim|Bohu⟧ ani mu neděkovali, ale propadli marnosti ve svém myšlení a jejich nerozumné srdce se zatemnilo.
 
 [22] Prohlašovali se za moudré, a stali se blázny
 
-[23] a zaměnili slávu nesmrtelného *Elohim* za zobrazení podobná smrtelnému člověku, ptákům, čtvernožcům a plazům.
+[23] a zaměnili slávu nesmrtelného ⟦elohim|Elohim|Boha⟧ za zobrazení podobná smrtelnému člověku, ptákům, čtvernožcům a plazům.
 
-[24] Proto je *Elohim* vydal v žádostech jejich srdcí nečistotě, aby mezi sebou zneuctívali svá těla,
+[24] Proto je ⟦elohim|Elohim|Bůh⟧ vydal v žádostech jejich srdcí nečistotě, aby mezi sebou zneuctívali svá těla,
 
-[25] protože zaměnili pravdu o *Elohim* za lež a uctívali stvoření a sloužili mu místo Stvořiteli, který je požehnaný navěky! Amen.
+[25] protože zaměnili pravdu o ⟦elohim|Elohim|Bohu⟧ za lež a uctívali stvoření a sloužili mu místo Stvořiteli, který je požehnaný navěky! Amen.
 
-[26] Proto je *Elohim* vydal nečestným vášním. Jejich ženy zaměnily přirozený styk za styk proti přirozenosti;
+[26] Proto je ⟦elohim|Elohim|Bůh⟧ vydal nečestným vášním. Jejich ženy zaměnily přirozený styk za styk proti přirozenosti;
 
 [27] a stejně tak i muži opustili přirozený styk se ženami a vzplanuli vášní jeden k druhému; muži s muži páchali nestoudnosti a sami na sobě dostávali náležitou odplatu za svůj blud.
 
-[28] A protože nepokládali za hodné uznávat *Elohim*, vydal je *Elohim* zvrácené mysli, aby dělali, co se nesluší.
+[28] A protože nepokládali za hodné uznávat ⟦elohim|Elohim|Boha⟧, vydal je ⟦elohim|Elohim|Bůh⟧ zvrácené mysli, aby dělali, co se nesluší.
 
 [29] Byli naplněni veškerou nespravedlností, zlem, chamtivostí, zlobou. Jsou plni závisti, vraždy, sváru, lsti, zlomyslnosti. Jsou to klevetníci,
 
-[30] pomlouvači, nenávistníci *Elohim*, zpupní, domýšliví, chvástaví, vynalézaví ve zlém, neposlušní rodičů,
+[30] pomlouvači, nenávistníci ⟦elohim|Elohim|Boha⟧, zpupní, domýšliví, chvástaví, vynalézaví ve zlém, neposlušní rodičů,
 
 [31] nerozumní, věrolomní, bez citu, nemilosrdní.
 
-[32] Ačkoli znají spravedlivé ustanovení *Elohim*, že ti, kdo takové věci páchají, zasluhují smrt, nejen je sami dělají, ale ještě schvalují ty, kdo je páchají.
+[32] Ačkoli znají spravedlivé ustanovení ⟦elohim|Elohim|Boží⟧, že ti, kdo takové věci páchají, zasluhují smrt, nejen je sami dělají, ale ještě schvalují ty, kdo je páchají.
 
 ## Změny
 

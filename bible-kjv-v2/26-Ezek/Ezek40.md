@@ -1,12 +1,12 @@
 # Ezekiel 40
 
-[1] In the twenty-fifth year of our exile, at the beginning of the year, on the tenth day of the month, in the fourteenth year after the city was struck down, on that very day, the hand of Yahweh was upon me, and he brought me to the city.
+[1] In the twenty-fifth year of our exile, at the beginning of the year, on the tenth day of the month, in the fourteenth year after the city was struck down, on that very day, the hand of ⟦yhwh|Yahweh|the LORD⟧ was upon me, and he brought me to the city.
 
-[2] In visions of *Elohim* he brought me to the land of Israel, and set me down on a very high mountain, on which was a structure like a city to the south.
+[2] In visions of ⟦elohim|Elohim|God⟧ he brought me to the land of ⟦israel|Yisrael|Israel⟧, and set me down on a very high mountain, on which was a structure like a city to the south.
 
 [3] When he brought me there, behold, there was a man whose appearance was like bronze, with a linen cord and a measuring reed in his hand. And he was standing in the gateway.
 
-[4] And the man said to me, "Son of man, look with your eyes, and hear with your ears, and set your heart upon all that I shall show you, for you were brought here in order that I might show it to you. Declare all that you see to the house of Israel."
+[4] And the man said to me, "Son of man, look with your eyes, and hear with your ears, and set your heart upon all that I shall show you, for you were brought here in order that I might show it to you. Declare all that you see to the house of ⟦israel|Yisrael|Israel⟧."
 
 [5] And behold, there was a wall all around the outside of the temple area, and the length of the measuring reed in the man's hand was six long cubits (each being a cubit and a handbreadth in length). So he measured the thickness of the wall, one reed; and the height, one reed.
 
@@ -90,7 +90,7 @@
 
 [45] And he said to me, "This chamber that faces south is for the priests who have charge of the temple,
 
-[46] and the chamber that faces north is for the priests who have charge of the altar. These are the **sons of Zadok**, who alone among the sons of Levi may come near to Yahweh to minister to him."
+[46] and the chamber that faces north is for the priests who have charge of the altar. These are the **sons of ⟦zadok|Tzadoq|Zadok⟧**, who alone among the sons of Levi may come near to ⟦yhwh|Yahweh|the LORD⟧ to minister to him."
 
 [47] And he measured the court, a hundred cubits long and a hundred cubits broad, a square. And the altar was in front of the temple.
 

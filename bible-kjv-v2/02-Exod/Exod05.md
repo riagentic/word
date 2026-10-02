@@ -1,50 +1,50 @@
 # Exodus 5
 
-[1] Afterward Moses and Aaron went in and said to Pharaoh, "Thus says Yahweh, the *Elohim* of Israel: 'Let my people go, that they may hold a feast to me in the wilderness.'"
+[1] Afterward ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧ went in and said to ⟦pharaoh|Paroh|Pharaoh⟧, "Thus says ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧: 'Let my people go, that they may hold a feast to me in the wilderness.'"
 
-[2] But Pharaoh said, "Who is Yahweh, that I should listen to his voice and let Israel go? I do not know Yahweh, and moreover I will not let Israel go."
+[2] But ⟦pharaoh|Paroh|Pharaoh⟧ said, "Who is ⟦yhwh|Yahweh|the LORD⟧, that I should listen to his voice and let ⟦israel|Yisrael|Israel⟧ go? I do not know ⟦yhwh|Yahweh|the LORD⟧, and moreover I will not let ⟦israel|Yisrael|Israel⟧ go."
 
-[3] Then they said, "The *Elohim* of the Hebrews has met with us. Please let us go a three-days' journey into the wilderness and sacrifice to Yahweh our *Elohim*, lest he fall upon us with pestilence or with the sword."
+[3] Then they said, "The ⟦elohim|Elohim|God⟧ of the ⟦hebrews|Ivrim|Hebrews⟧ has met with us. Please let us go a three-days' journey into the wilderness and sacrifice to ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧, lest he fall upon us with pestilence or with the sword."
 
-[4] The king of Egypt said to them, "Moses and Aaron, why do you draw the people away from their work? Get to your forced labor!"
+[4] The king of ⟦egypt|Mitzrayim|Egypt⟧ said to them, "⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧, why do you draw the people away from their work? Get to your forced labor!"
 
-[5] Pharaoh said, "Behold, the people of the land are now many, and you would make them cease from their forced labor!"
+[5] ⟦pharaoh|Paroh|Pharaoh⟧ said, "Behold, the people of the land are now many, and you would make them cease from their forced labor!"
 
-[6] That same day Pharaoh commanded the taskmasters of the people and their foremen, saying,
+[6] That same day ⟦pharaoh|Paroh|Pharaoh⟧ commanded the taskmasters of the people and their foremen, saying,
 
 [7] "You shall no longer give the people straw to make bricks, as before. Let them go and gather straw for themselves.
 
-[8] But the quota of bricks that they have been making, you shall lay upon them; you shall not diminish it. For they are lazy; therefore they cry out, saying, 'Let us go and sacrifice to our *Elohim*.'
+[8] But the quota of bricks that they have been making, you shall lay upon them; you shall not diminish it. For they are lazy; therefore they cry out, saying, 'Let us go and sacrifice to our ⟦elohim|Elohim|God⟧.'
 
 [9] Let heavier work be laid on the men, and let them labor at it, and let them not regard lying words."
 
-[10] So the taskmasters of the people and their foremen went out and said to the people, "Thus says Pharaoh: 'I will not give you straw.
+[10] So the taskmasters of the people and their foremen went out and said to the people, "Thus says ⟦pharaoh|Paroh|Pharaoh⟧: 'I will not give you straw.
 
 [11] Go, get yourselves straw wherever you can find it; yet none of your work shall be diminished.'"
 
-[12] So the people scattered throughout all the land of Egypt to gather stubble for straw.
+[12] So the people scattered throughout all the land of ⟦egypt|Mitzrayim|Egypt⟧ to gather stubble for straw.
 
 [13] The taskmasters pressed them, saying, "Complete your work, your daily quota, as when straw was given."
 
-[14] And the foremen of the children of Israel, whom Pharaoh's taskmasters had set over them, were beaten and asked, "Why have you not completed your quota in making bricks, yesterday and today, as before?"
+[14] And the foremen of the children of ⟦israel|Yisrael|Israel⟧, whom ⟦pharaoh|Paroh|Pharaoh⟧'s taskmasters had set over them, were beaten and asked, "Why have you not completed your quota in making bricks, yesterday and today, as before?"
 
-[15] Then the foremen of the children of Israel came and cried out to Pharaoh, saying, "Why do you deal this way with your servants?
+[15] Then the foremen of the children of ⟦israel|Yisrael|Israel⟧ came and cried out to ⟦pharaoh|Paroh|Pharaoh⟧, saying, "Why do you deal this way with your servants?
 
 [16] No straw is given to your servants, yet they say to us, 'Make bricks!' And behold, your servants are being beaten, but the fault is with your own people."
 
-[17] He said, "You are lazy, lazy! Therefore you say, 'Let us go and sacrifice to Yahweh.'
+[17] He said, "You are lazy, lazy! Therefore you say, 'Let us go and sacrifice to ⟦yhwh|Yahweh|the LORD⟧.'
 
 [18] Now go and work! No straw shall be given to you, yet you shall deliver the quota of bricks."
 
-[19] The foremen of the children of Israel saw themselves in trouble, when they were told, "You shall not diminish your daily quota of bricks."
+[19] The foremen of the children of ⟦israel|Yisrael|Israel⟧ saw themselves in trouble, when they were told, "You shall not diminish your daily quota of bricks."
 
-[20] As they came out from Pharaoh, they met Moses and Aaron standing in their path;
+[20] As they came out from ⟦pharaoh|Paroh|Pharaoh⟧, they met ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧ standing in their path;
 
-[21] and they said to them, "May Yahweh look upon you and judge, because you have made us stink in the eyes of Pharaoh and in the eyes of his servants, so as to put a sword in their hand to kill us."
+[21] and they said to them, "May ⟦yhwh|Yahweh|the LORD⟧ look upon you and judge, because you have made us stink in the eyes of ⟦pharaoh|Paroh|Pharaoh⟧ and in the eyes of his servants, so as to put a sword in their hand to kill us."
 
-[22] Then Moses returned to Yahweh and said, "O Lord, why have you brought harm on this people? Why is it that you sent me?
+[22] Then ⟦moses|Moshe|Moses⟧ returned to ⟦yhwh|Yahweh|the LORD⟧ and said, "O ⟦adonai|Adonai|Lord⟧, why have you brought harm on this people? Why is it that you sent me?
 
-[23] Ever since I came to Pharaoh to speak in your name, he has brought harm on this people; and you have not delivered your people at all."
+[23] Ever since I came to ⟦pharaoh|Paroh|Pharaoh⟧ to speak in your name, he has brought harm on this people; and you have not delivered your people at all."
 
 ## Changes
 

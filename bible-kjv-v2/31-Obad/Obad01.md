@@ -1,8 +1,8 @@
 # Obadiah 1
 
-[1] Thus says Lord Yahweh concerning Edom:
+[1] Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧ concerning Edom:
 
-We have heard a report from Yahweh,
+We have heard a report from ⟦yhwh|Yahweh|the LORD⟧,
 and a messenger has been sent among the nations:
 "Rise up! Let us rise against her for battle!"
 
@@ -17,7 +17,7 @@ who say in your heart, "Who will bring me down to the ground?"
 [4] Though you soar aloft like the eagle,
 though your nest is set among the stars,
 from there I will bring you down,
-declares Yahweh.
+declares ⟦yhwh|Yahweh|the LORD⟧.
 
 [5] If thieves came to you,
 if plunderers came by night —
@@ -26,7 +26,7 @@ would they not steal only enough for themselves?
 If grape gatherers came to you,
 would they not leave gleanings?
 
-[6] How Esau has been pillaged,
+[6] How ⟦esau|Esav|Esau⟧ has been pillaged,
 his treasures sought out!
 
 [7] All your allies have driven you to your border;
@@ -35,26 +35,26 @@ they have prevailed against you;
 those who eat your bread have set a trap beneath you;
 you have no understanding.
 
-[8] Will I not on that day, declares Yahweh,
+[8] Will I not on that day, declares ⟦yhwh|Yahweh|the LORD⟧,
 destroy the wise men out of Edom,
-and understanding out of Mount Esau?
+and understanding out of Mount ⟦esau|Esav|Esau⟧?
 
 [9] And your mighty men shall be dismayed, O Teman,
-so that every man from Mount Esau will be cut off by slaughter.
+so that every man from Mount ⟦esau|Esav|Esau⟧ will be cut off by slaughter.
 
-[10] Because of the violence done to your brother Jacob,
+[10] Because of the violence done to your brother ⟦jacob|Yaaqov|Jacob⟧,
 shame shall cover you,
 and you shall be cut off forever.
 
 [11] On the day that you stood aloof,
 on the day that strangers carried off his wealth
 and foreigners entered his gates
-and cast lots for Jerusalem,
+and cast lots for ⟦jerusalem|Yerushalayim|Jerusalem⟧,
 you were like one of them.
 
 [12] But do not gloat over the day of your brother
 in the day of his misfortune;
-do not rejoice over the people of Judah
+do not rejoice over the people of ⟦judah|Yehudah|Judah⟧
 in the day of their ruin;
 do not boast
 in the day of distress.
@@ -71,7 +71,7 @@ to cut off his fugitives;
 do not hand over his survivors
 in the day of distress.
 
-[15] For the **Day of Yahweh** is near upon all the nations.
+[15] For the **Day of ⟦yhwh|Yahweh|the LORD⟧** is near upon all the nations.
 As you have done, it shall be done to you;
 your deeds shall return on your own head.
 
@@ -80,22 +80,22 @@ so all the nations shall drink continually;
 they shall drink and swallow,
 and shall be as though they had never been.
 
-[17] But in Mount Zion there shall be those who escape,
+[17] But in Mount ⟦zion|Tziyon|Zion⟧ there shall be those who escape,
 and it shall be holy,
-and the house of Jacob shall possess their own possessions.
+and the house of ⟦jacob|Yaaqov|Jacob⟧ shall possess their own possessions.
 
-[18] The house of Jacob shall be a fire,
-and the house of Joseph a flame,
-and the house of Esau stubble;
+[18] The house of ⟦jacob|Yaaqov|Jacob⟧ shall be a fire,
+and the house of ⟦joseph|Yosef|Joseph⟧ a flame,
+and the house of ⟦esau|Esav|Esau⟧ stubble;
 they shall burn them and consume them,
-and there shall be no survivor for the house of Esau,
-for Yahweh has spoken.
+and there shall be no survivor for the house of ⟦esau|Esav|Esau⟧,
+for ⟦yhwh|Yahweh|the LORD⟧ has spoken.
 
-[19] Those of the Negev shall possess Mount Esau, and those of the Shephelah shall possess the land of the Philistines; they shall possess the land of Ephraim and the land of Samaria, and Benjamin shall possess Gilead.
+[19] Those of the ⟦negev|Negev|Negeb⟧ shall possess Mount ⟦esau|Esav|Esau⟧, and those of the ⟦shephelah|Shefelah|Shephelah⟧ shall possess the land of the ⟦philistines|Pelishtim|Philistines⟧; they shall possess the land of ⟦ephraim|Efrayim|Ephraim⟧ and the land of ⟦samaria|Shomron|Samaria⟧, and ⟦benjamin|Binyamin|Benjamin⟧ shall possess ⟦gilead|Gilad|Gilead⟧.
 
-[20] The exiles of this host of the people of Israel shall possess the land of the Canaanites as far as Zarephath, and the exiles of Jerusalem who are in Sepharad shall possess the cities of the Negev.
+[20] The exiles of this host of the people of ⟦israel|Yisrael|Israel⟧ shall possess the land of the ⟦canaanites|Kenaanim|Canaanites⟧ as far as ⟦zarephath|Tzarfat|Zarephath⟧, and the exiles of ⟦jerusalem|Yerushalayim|Jerusalem⟧ who are in ⟦sepharad|Sefarad|Sepharad⟧ shall possess the cities of the ⟦negev|Negev|Negeb⟧.
 
-[21] Saviors shall go up to Mount Zion to rule Mount Esau, and **the kingdom shall be Yahweh's**.
+[21] Saviors shall go up to Mount ⟦zion|Tziyon|Zion⟧ to rule Mount ⟦esau|Esav|Esau⟧, and **the kingdom shall be ⟦yhwh|Yahweh's|the LORD's⟧**.
 
 ## Changes
 

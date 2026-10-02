@@ -1,6 +1,6 @@
 # Isaiah 9
 
-[1] But there will be no gloom for her who was in anguish. In the former time he brought into contempt the land of Zebulun and the land of Naphtali, but in the latter time he has made glorious the way of the sea, the land beyond the Jordan, Galilee of the nations.
+[1] But there will be no gloom for her who was in anguish. In the former time he brought into contempt the land of ⟦zebulun|Zevulun|Zebulun⟧ and the land of ⟦naphtali|Naftali|Naphtali⟧, but in the latter time he has made glorious the way of the sea, the land beyond the ⟦jordan|Yarden|Jordan⟧, ⟦galilee|Galil|Galilee⟧ of the nations.
 
 [2] The people who walked in darkness
 have seen a great light;
@@ -16,7 +16,7 @@ as they are glad when they divide the spoil.
 [4] For the yoke of his burden,
 and the staff for his shoulder,
 the rod of his oppressor,
-you have broken as on the day of Midian.
+you have broken as on the day of ⟦midian|Midyan|Midian⟧.
 
 [5] For every boot of the tramping warrior in battle tumult
 and every garment rolled in blood
@@ -27,7 +27,7 @@ to us a son is given;
 and the government shall be upon his shoulder,
 and his name shall be called
 Wonderful Counselor,
-Mighty El,
+Mighty ⟦el|El|God⟧,
 Everlasting Father,
 Prince of Peace.
 
@@ -37,13 +37,13 @@ on the throne of David and over his kingdom,
 to establish it and to uphold it
 with justice and with righteousness
 from this time forth and forevermore.
-The zeal of Yahweh of Hosts will do this.
+The zeal of ⟦yhwh|Yahweh|the LORD⟧ of Hosts will do this.
 
-[8] Lord has sent a word against Jacob,
-and it will fall on Israel;
+[8] ⟦adonai|Adonai|The Lord⟧ has sent a word against ⟦jacob|Yaaqov|Jacob⟧,
+and it will fall on ⟦israel|Yisrael|Israel⟧;
 
 [9] and all the people will know,
-Ephraim and the inhabitants of Samaria,
+⟦ephraim|Efrayim|Ephraim⟧ and the inhabitants of ⟦samaria|Shomron|Samaria⟧,
 who say in pride and in arrogance of heart:
 
 [10] "The bricks have fallen,
@@ -51,18 +51,18 @@ but we will build with dressed stones;
 the sycamores have been cut down,
 but we will put cedars in their place."
 
-[11] But Yahweh raises the adversaries of Rezin against him,
+[11] But ⟦yhwh|Yahweh|the LORD⟧ raises the adversaries of ⟦rezin|Retzin|Rezin⟧ against him,
 and stirs up his enemies.
 
-[12] The Syrians on the east and the Philistines on the west
-devour Israel with open mouth.
+[12] ⟦aram|Aram|The Syrians⟧ on the east and the ⟦philistines|Pelishtim|Philistines⟧ on the west
+devour ⟦israel|Yisrael|Israel⟧ with open mouth.
 For all this his anger has not turned away,
 and his hand is stretched out still.
 
 [13] The people did not turn to him who struck them,
-nor inquire of Yahweh of Hosts.
+nor inquire of ⟦yhwh|Yahweh|the LORD⟧ of Hosts.
 
-[14] So Yahweh cut off from Israel head and tail,
+[14] So ⟦yhwh|Yahweh|the LORD⟧ cut off from ⟦israel|Yisrael|Israel⟧ head and tail,
 palm branch and reed, in one day —
 
 [15] the elder and honored man is the head,
@@ -71,7 +71,7 @@ and the prophet who teaches lies is the tail.
 [16] For those who guide this people have been leading them astray,
 and those who are guided by them are swallowed up.
 
-[17] Therefore the Lord does not rejoice over their young men,
+[17] Therefore ⟦adonai|Adonai|the Lord⟧ does not rejoice over their young men,
 and has no compassion on their fatherless and widows;
 for everyone is godless and an evildoer,
 and every mouth speaks folly.
@@ -83,7 +83,7 @@ it consumes briers and thorns;
 it kindles the thickets of the forest,
 and they roll upward in a column of smoke.
 
-[19] Through the wrath of Yahweh of Hosts
+[19] Through the wrath of ⟦yhwh|Yahweh|the LORD⟧ of Hosts
 the land is scorched,
 and the people are like fuel for the fire;
 no one spares another.
@@ -92,8 +92,8 @@ no one spares another.
 and they devour on the left, but are not satisfied;
 each devours the flesh of his own arm,
 
-[21] Manasseh devours Ephraim, and Ephraim Manasseh;
-together they are against Judah.
+[21] ⟦manasseh|Menashe|Manasseh⟧ devours ⟦ephraim|Efrayim|Ephraim⟧, and ⟦ephraim|Efrayim|Ephraim⟧ ⟦manasseh|Menashe|Manasseh⟧;
+together they are against ⟦judah|Yehudah|Judah⟧.
 For all this his anger has not turned away,
 and his hand is stretched out still.
 

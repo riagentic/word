@@ -8,9 +8,9 @@
 
 [4] His tail swept down a third of the stars of heaven and cast them to the earth. And the dragon stood before the woman who was about to give birth, so that when she bore her child he might devour it.
 
-[5] She gave birth to a male child, **one who is to rule all the nations with a rod of iron**, but her child was caught up to *Elohim* and to his throne,
+[5] She gave birth to a male child, **one who is to rule all the nations with a rod of iron**, but her child was caught up to ⟦elohim|Elohim|God⟧ and to his throne,
 
-[6] and the woman fled into the wilderness, where she has a place prepared by *Elohim*, in which she is to be nourished for 1,260 days.
+[6] and the woman fled into the wilderness, where she has a place prepared by ⟦elohim|Elohim|God⟧, in which she is to be nourished for 1,260 days.
 
 [7] Now war arose in heaven, Michael and his angels fighting against the dragon. And the dragon and his angels fought back,
 
@@ -18,7 +18,7 @@
 
 [9] And the great dragon was thrown down, that ancient serpent, who is called the devil and Satan, the deceiver of the whole world — he was thrown down to the earth, and his angels were thrown down with him.
 
-[10] And I heard a loud voice in heaven, saying, "Now the salvation and the power and the kingdom of our *Elohim* and the authority of his *Mashiach* have come, for the accuser of our brothers has been thrown down, who accuses them day and night before our *Elohim*.
+[10] And I heard a loud voice in heaven, saying, "Now the salvation and the power and the kingdom of our ⟦elohim|Elohim|God⟧ and the authority of his ⟦mashiach|Mashiach|Christ⟧ have come, for the accuser of our brothers has been thrown down, who accuses them day and night before our ⟦elohim|Elohim|God⟧.
 
 [11] **And they have conquered him by the blood of the Lamb and by the word of their testimony, for they loved not their lives even unto death.**
 
@@ -32,7 +32,7 @@
 
 [16] But the earth came to the help of the woman, and the earth opened its mouth and swallowed the river that the dragon had poured from his mouth.
 
-[17] Then the dragon became furious with the woman and went off to make war on the rest of her offspring, on those who keep the commandments of *Elohim* and hold to the testimony of *Yeshua*. And he stood on the sand of the sea.
+[17] Then the dragon became furious with the woman and went off to make war on the rest of her offspring, on those who keep the commandments of ⟦elohim|Elohim|God⟧ and hold to the testimony of ⟦yeshua|Yeshua|Jesus⟧. And he stood on the sand of the sea.
 
 ## Changes
 

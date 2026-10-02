@@ -1,16 +1,16 @@
 # Mark 14
 
-[1] It was now two days before the Passover and the Feast of Unleavened Bread. And the chief priests and the scribes were seeking how to arrest him by stealth and kill him,
+[1] It was now two days before the ⟦pesach|Pesach|Passover⟧ and the Feast of ⟦unleavened-bread|Matzot|Unleavened Bread⟧. And the chief priests and the scribes were seeking how to arrest him by stealth and kill him,
 
 [2] for they said, "Not during the feast, lest there be an uproar from the people."
 
-[3] And while he was at Bethany in the house of Simon the leper, as he was reclining at table, a woman came with an alabaster flask of ointment of pure nard, very costly, and she broke the flask and poured it over his head.
+[3] And while he was at ⟦bethany|Bethania|Bethany⟧ in the house of ⟦simon|Shimon|Simon⟧ the leper, as he was reclining at table, a woman came with an alabaster flask of ointment of pure nard, very costly, and she broke the flask and poured it over his head.
 
 [4] There were some who said to themselves indignantly, "Why was the ointment wasted like that?
 
 [5] For this ointment could have been sold for more than three hundred denarii and given to the poor." And they scolded her.
 
-[6] But *Yeshua* said, "Leave her alone. Why do you trouble her? She has done a beautiful thing to me.
+[6] But ⟦yeshua|Yeshua|Jesus⟧ said, "Leave her alone. Why do you trouble her? She has done a beautiful thing to me.
 
 [7] For you always have the poor with you, and whenever you want, you can do good for them. But you will not always have me.
 
@@ -18,23 +18,23 @@
 
 [9] And truly, I say to you, wherever the gospel is proclaimed in the whole world, what she has done will be told in memory of her."
 
-[10] Then Judas Iscariot, who was one of the twelve, went to the chief priests in order to betray him to them.
+[10] Then ⟦judas|Yehudah|Judas⟧ Iscariot, who was one of the twelve, went to the chief priests in order to betray him to them.
 
 [11] And when they heard it, they were glad and promised to give him money. And he sought an opportunity to betray him.
 
-[12] And on the first day of Unleavened Bread, when they sacrificed the Passover lamb, his disciples said to him, "Where will you have us go and prepare for you to eat the Passover?"
+[12] And on the first day of ⟦unleavened-bread|Matzot|Unleavened Bread⟧, when they sacrificed the ⟦pesach|Pesach|Passover⟧ lamb, his disciples said to him, "Where will you have us go and prepare for you to eat the ⟦pesach|Pesach|Passover⟧?"
 
 [13] And he sent two of his disciples and said to them, "Go into the city, and a man carrying a jar of water will meet you. Follow him,
 
-[14] and wherever he enters, say to the master of the house, 'The Teacher says, Where is my guest room, where I may eat the Passover with my disciples?'
+[14] and wherever he enters, say to the master of the house, 'The Teacher says, Where is my guest room, where I may eat the ⟦pesach|Pesach|Passover⟧ with my disciples?'
 
 [15] And he will show you a large upper room furnished and ready; there prepare for us."
 
-[16] And the disciples set out and went to the city and found it just as he had told them, and they prepared the Passover.
+[16] And the disciples set out and went to the city and found it just as he had told them, and they prepared the ⟦pesach|Pesach|Passover⟧.
 
 [17] And when it was evening, he came with the twelve.
 
-[18] And as they were reclining at table and eating, *Yeshua* said, "Truly, I say to you, one of you will betray me, one who is eating with me."
+[18] And as they were reclining at table and eating, ⟦yeshua|Yeshua|Jesus⟧ said, "Truly, I say to you, one of you will betray me, one who is eating with me."
 
 [19] They began to be sorrowful and to say to him one after another, "Is it I?"
 
@@ -48,23 +48,23 @@
 
 [24] And he said to them, "This is my blood of the covenant, which is poured out for many.
 
-[25] Truly, I say to you, I will not drink again of the fruit of the vine until that day when I drink it new in the kingdom of *Elohim*."
+[25] Truly, I say to you, I will not drink again of the fruit of the vine until that day when I drink it new in the kingdom of ⟦elohim|Elohim|God⟧."
 
-[26] And when they had sung a hymn, they went out to the Mount of Olives.
+[26] And when they had sung a hymn, they went out to ⟦mount-of-olives|Har HaZeitim|the Mount of Olives⟧.
 
-[27] And *Yeshua* said to them, "You will all fall away, for it is written, '**I will strike the shepherd, and the sheep will be scattered**.'
+[27] And ⟦yeshua|Yeshua|Jesus⟧ said to them, "You will all fall away, for it is written, '**I will strike the shepherd, and the sheep will be scattered**.'
 
-[28] But after I am raised up, I will go before you to Galilee."
+[28] But after I am raised up, I will go before you to ⟦galilee|Galil|Galilee⟧."
 
-[29] *Kefa* said to him, "Even though they all fall away, I will not."
+[29] ⟦peter|Kefa|Peter⟧ said to him, "Even though they all fall away, I will not."
 
-[30] And *Yeshua* said to him, "Truly, I tell you, this very night, before the rooster crows twice, you will deny me three times."
+[30] And ⟦yeshua|Yeshua|Jesus⟧ said to him, "Truly, I tell you, this very night, before the rooster crows twice, you will deny me three times."
 
 [31] But he said emphatically, "If I must die with you, I will not deny you." And they all said the same.
 
-[32] And they went to a place called Gethsemane. And he said to his disciples, "Sit here while I pray."
+[32] And they went to a place called ⟦gethsemane|Gethsemani|Gethsemane⟧. And he said to his disciples, "Sit here while I pray."
 
-[33] And he took with him *Kefa* and Jacob and John, and began to be greatly distressed and troubled.
+[33] And he took with him ⟦peter|Kefa|Peter⟧ and ⟦james|Yaaqov|James⟧ and ⟦john|Yochanan|John⟧, and began to be greatly distressed and troubled.
 
 [34] And he said to them, "My soul is very sorrowful, even to death. Remain here and watch."
 
@@ -72,7 +72,7 @@
 
 [36] And he said, "***Abba***, Father, all things are possible for you. Remove this cup from me. Yet not what I will, but what you will."
 
-[37] And he came and found them sleeping, and he said to *Kefa*, "Simon, are you asleep? Could you not watch one hour?
+[37] And he came and found them sleeping, and he said to ⟦peter|Kefa|Peter⟧, "⟦simon|Shimon|Simon⟧, are you asleep? Could you not watch one hour?
 
 [38] Watch and pray that you may not enter into temptation. The spirit indeed is willing, but the flesh is weak."
 
@@ -84,7 +84,7 @@
 
 [42] Rise, let us be going; see, my betrayer is at hand."
 
-[43] And immediately, while he was still speaking, Judas came, one of the twelve, and with him a crowd with swords and clubs, from the chief priests and the scribes and the elders.
+[43] And immediately, while he was still speaking, ⟦judas|Yehudah|Judas⟧ came, one of the twelve, and with him a crowd with swords and clubs, from the chief priests and the scribes and the elders.
 
 [44] Now the betrayer had given them a sign, saying, "The one I will kiss is the man. Seize him and lead him away under guard."
 
@@ -94,7 +94,7 @@
 
 [47] But one of those who stood by drew his sword and struck the servant of the high priest and cut off his ear.
 
-[48] And *Yeshua* said to them, "Have you come out as against a robber, with swords and clubs to capture me?
+[48] And ⟦yeshua|Yeshua|Jesus⟧ said to them, "Have you come out as against a robber, with swords and clubs to capture me?
 
 [49] Day after day I was with you in the temple teaching, and you did not seize me. But let the Scriptures be fulfilled."
 
@@ -104,11 +104,11 @@
 
 [52] but he left the linen cloth and ran away naked.
 
-[53] And they led *Yeshua* to the high priest. And all the chief priests and the elders and the scribes came together.
+[53] And they led ⟦yeshua|Yeshua|Jesus⟧ to the high priest. And all the chief priests and the elders and the scribes came together.
 
-[54] And *Kefa* had followed him at a distance, right into the courtyard of the high priest. And he was sitting with the guards and warming himself at the fire.
+[54] And ⟦peter|Kefa|Peter⟧ had followed him at a distance, right into the courtyard of the high priest. And he was sitting with the guards and warming himself at the fire.
 
-[55] Now the chief priests and the whole council were seeking testimony against *Yeshua* to put him to death, but they found none.
+[55] Now the chief priests and the whole ⟦sanhedrin|Sanhedrin|council⟧ were seeking testimony against ⟦yeshua|Yeshua|Jesus⟧ to put him to death, but they found none.
 
 [56] For many bore false witness against him, but their testimony did not agree.
 
@@ -118,11 +118,11 @@
 
 [59] Yet even about this their testimony did not agree.
 
-[60] And the high priest stood up in the midst and asked *Yeshua*, "Have you no answer to make? What is it that these men testify against you?"
+[60] And the high priest stood up in the midst and asked ⟦yeshua|Yeshua|Jesus⟧, "Have you no answer to make? What is it that these men testify against you?"
 
-[61] But he remained silent and made no answer. Again the high priest asked him, "Are you the *Mashiach*, the Son of the Blessed?"
+[61] But he remained silent and made no answer. Again the high priest asked him, "Are you the ⟦mashiach|Mashiach|Christ⟧, the Son of the Blessed?"
 
-[62] And *Yeshua* said, "**I am, and you will see the Son of Man seated at the right hand of Power, and coming with the clouds of heaven.**"
+[62] And ⟦yeshua|Yeshua|Jesus⟧ said, "**I am, and you will see the Son of Man seated at the right hand of Power, and coming with the clouds of heaven.**"
 
 [63] And the high priest tore his garments and said, "What further witnesses do we need?
 
@@ -130,19 +130,19 @@
 
 [65] And some began to spit on him and to cover his face and to strike him, saying to him, "Prophesy!" And the guards received him with blows.
 
-[66] And as *Kefa* was below in the courtyard, one of the servant girls of the high priest came,
+[66] And as ⟦peter|Kefa|Peter⟧ was below in the courtyard, one of the servant girls of the high priest came,
 
-[67] and seeing *Kefa* warming himself, she looked at him and said, "You also were with the Nazarene, *Yeshua*."
+[67] and seeing ⟦peter|Kefa|Peter⟧ warming himself, she looked at him and said, "You also were with the ⟦nazarenes|Notzri|Nazarene⟧, ⟦yeshua|Yeshua|Jesus⟧."
 
 [68] But he denied it, saying, "I neither know nor understand what you mean." And he went out into the gateway, and the rooster crowed.
 
 [69] And the servant girl saw him and began again to say to the bystanders, "This man is one of them."
 
-[70] But again he denied it. And after a little while the bystanders again said to *Kefa*, "Certainly you are one of them, for you are a Galilean."
+[70] But again he denied it. And after a little while the bystanders again said to ⟦peter|Kefa|Peter⟧, "Certainly you are one of them, for you are a Galilean."
 
 [71] But he began to invoke a curse on himself and to swear, "I do not know this man of whom you speak."
 
-[72] And immediately the rooster crowed a second time. And *Kefa* remembered how *Yeshua* had said to him, "Before the rooster crows twice, you will deny me three times." And he broke down and wept.
+[72] And immediately the rooster crowed a second time. And ⟦peter|Kefa|Peter⟧ remembered how ⟦yeshua|Yeshua|Jesus⟧ had said to him, "Before the rooster crows twice, you will deny me three times." And he broke down and wept.
 
 ## Changes
 

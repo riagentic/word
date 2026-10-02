@@ -1,28 +1,28 @@
 # Leviticus 9
 
-[1] Osmého dne zavolal Moses Aarona a jeho syny a starší Israele.
+[1] Osmého dne zavolal ⟦moses|Moše|Mojžíš⟧ ⟦aaron|Aharona|Árona⟧ a jeho syny a starší ⟦israel|Jisraele|Izraele⟧.
 
-[2] Řekl Aaronovi: „Vezmi si býčka jako oběť za hřích a berana jako zápalnou oběť, oba bez vady, a přines je před Yahweh.
+[2] Řekl ⟦aaron|Aharonovi|Áronovi⟧: „Vezmi si býčka jako oběť za hřích a berana jako zápalnou oběť, oba bez vady, a přines je před ⟦yhwh|Jahveho|Hospodina⟧.
 
-[3] A k synům Israele promluvíš: ‚Vezměte kozla jako oběť za hřích a tele a beránka – oba roční, bez vady – jako zápalnou oběť;
+[3] A k synům ⟦israel|Jisraele|Izraele⟧ promluvíš: ‚Vezměte kozla jako oběť za hřích a tele a beránka – oba roční, bez vady – jako zápalnou oběť;
 
-[4] a býka a berana jako pokojné oběti, abyste obětovali před Yahweh; a obilnou oběť zadělanou olejem – neboť dnes se vám Yahweh ukáže.‘“
+[4] a býka a berana jako pokojné oběti, abyste obětovali před ⟦yhwh|Jahvem|Hospodinem⟧; a obilnou oběť zadělanou olejem – neboť dnes se vám ⟦yhwh|Jahve|Hospodin⟧ ukáže.‘“
 
-[5] Přinesli, co Moses přikázal, před stan setkávání; a celé společenství přistoupilo a postavilo se před Yahweh.
+[5] Přinesli, co ⟦moses|Moše|Mojžíš⟧ přikázal, před stan setkávání; a celé společenství přistoupilo a postavilo se před ⟦yhwh|Jahvem|Hospodinem⟧.
 
-[6] Moses řekl: „Toto je věc, kterou vám Yahweh přikázal učinit, aby se vám ukázala sláva Yahweh.“
+[6] ⟦moses|Moše|Mojžíš⟧ řekl: „Toto je věc, kterou vám ⟦yhwh|Jahve|Hospodin⟧ přikázal učinit, aby se vám ukázala sláva ⟦yhwh|Jahveho|Hospodina⟧.“
 
-[7] Moses řekl Aaronovi: „Přistup k oltáři a přines svou oběť za hřích a svou zápalnou oběť a vykonej smíření za sebe i za lid; a přines obětní dar lidu a vykonej za ně smíření, jak Yahweh přikázal.“
+[7] ⟦moses|Moše|Mojžíš⟧ řekl ⟦aaron|Aharonovi|Áronovi⟧: „Přistup k oltáři a přines svou oběť za hřích a svou zápalnou oběť a vykonej smíření za sebe i za lid; a přines obětní dar lidu a vykonej za ně smíření, jak ⟦yhwh|Jahve|Hospodin⟧ přikázal.“
 
-[8] Aaron tedy přistoupil k oltáři a porazil tele oběti za hřích, které bylo za něj.
+[8] ⟦aaron|Aharon|Áron⟧ tedy přistoupil k oltáři a porazil tele oběti za hřích, které bylo za něj.
 
-[9] Aaronovi synové mu přinesli krev; omočil prst v krvi a dal ji na rohy oltáře, a ostatní krev vylil u podstavce oltáře.
+[9] ⟦aaron|Aharonovi|Áronovi⟧ synové mu přinesli krev; omočil prst v krvi a dal ji na rohy oltáře, a ostatní krev vylil u podstavce oltáře.
 
-[10] Ale tuk, ledviny a lalok nad játry z oběti za hřích obrátil v dým na oltáři, jak Yahweh přikázal Mosesovi.
+[10] Ale tuk, ledviny a lalok nad játry z oběti za hřích obrátil v dým na oltáři, jak ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧.
 
 [11] Maso a kůži spálil ohněm venku za táborem.
 
-[12] Potom porazil zápalnou oběť; Aaronovi synové mu podali krev a on ji vyšplíchl dokola na oltář.
+[12] Potom porazil zápalnou oběť; ⟦aaron|Aharonovi|Áronovi⟧ synové mu podali krev a on ji vyšplíchl dokola na oltář.
 
 [13] Podávali mu zápalnou oběť, kus po kusu, i s hlavou, a on je obrátil v dým na oltáři.
 
@@ -34,19 +34,19 @@
 
 [17] Přinesl obilnou oběť, vzal z ní hrst a obrátil ji v dým na oltáři, kromě ranní zápalné oběti.
 
-[18] Porazil býka a berana jako pokojnou oběť za lid. Aaronovi synové mu podali krev a on ji vyšplíchl dokola na oltář,
+[18] Porazil býka a berana jako pokojnou oběť za lid. ⟦aaron|Aharonovi|Áronovi⟧ synové mu podali krev a on ji vyšplíchl dokola na oltář,
 
 [19] i tučné díly z býka a z berana – tučný ocas, pokrývající tuk, ledviny a lalok nad játry.
 
 [20] Tučné díly položili na hrudi a on obrátil tuk v dým na oltáři;
 
-[21] ale hrudi a pravou kýtu Aaron pozdvihl jako oběť pozdvižení před Yahweh, jak Moses přikázal.
+[21] ale hrudi a pravou kýtu ⟦aaron|Aharon|Áron⟧ pozdvihl jako oběť pozdvižení před ⟦yhwh|Jahvem|Hospodinem⟧, jak ⟦moses|Moše|Mojžíš⟧ přikázal.
 
-[22] Potom Aaron pozvedl ruce k lidu a požehnal jim, a sestoupil od přinášení oběti za hřích, zápalné oběti a pokojných obětí.
+[22] Potom ⟦aaron|Aharon|Áron⟧ pozvedl ruce k lidu a požehnal jim, a sestoupil od přinášení oběti za hřích, zápalné oběti a pokojných obětí.
 
-[23] Moses a Aaron vešli do stanu setkávání, a když vyšli, požehnali lidu; a sláva Yahweh se ukázala všemu lidu.
+[23] ⟦moses|Moše|Mojžíš⟧ a ⟦aaron|Aharon|Áron⟧ vešli do stanu setkávání, a když vyšli, požehnali lidu; a sláva ⟦yhwh|Jahveho|Hospodina⟧ se ukázala všemu lidu.
 
-[24] Od Yahweh vyšel oheň a strávil na oltáři zápalnou oběť i tučné díly; a když to všechen lid uviděl, zajásali a padli na tvář.
+[24] Od ⟦yhwh|Jahveho|Hospodina⟧ vyšel oheň a strávil na oltáři zápalnou oběť i tučné díly; a když to všechen lid uviděl, zajásali a padli na tvář.
 
 ## Změny
 

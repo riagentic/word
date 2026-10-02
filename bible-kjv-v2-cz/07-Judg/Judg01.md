@@ -1,76 +1,76 @@
 # Soudců 1
 
-[1] Po Joshuově smrti se synové Israele dotazovali Yahweh: „Kdo z nás vytáhne první proti Canaanitům, aby proti nim bojoval?“
+[1] Po ⟦joshua|Jehošuově|Jozuově⟧ smrti se synové ⟦israel|Jisraele|Izraele⟧ dotazovali ⟦yhwh|Jahveho|Hospodina⟧: „Kdo z nás vytáhne první proti ⟦canaanites|Kenaanim|Kenaancům⟧, aby proti nim bojoval?“
 
-[2] Yahweh řekl: „Vytáhne Judah; hle, vydal jsem zemi do jeho ruky.“
+[2] ⟦yhwh|Jahve|Hospodin⟧ řekl: „Vytáhne ⟦judah|Jehuda|Juda⟧; hle, vydal jsem zemi do jeho ruky.“
 
-[3] Judah řekl svému bratru Simeonovi: „Vytáhni se mnou na území, které mi připadlo losem, a bojujme proti Canaanitům; potom i já půjdu s tebou na tvé území.“ Simeon tedy šel s ním.
+[3] ⟦judah|Jehuda|Juda⟧ řekl svému bratru ⟦simeon|Šimonovi|Šimeónovi⟧: „Vytáhni se mnou na území, které mi připadlo losem, a bojujme proti ⟦canaanites|Kenaanim|Kenaancům⟧; potom i já půjdu s tebou na tvé území.“ ⟦simeon|Šimon|Šimeón⟧ tedy šel s ním.
 
-[4] Judah vytáhl a Yahweh jim vydal do ruky Canaanity a Perizzity. Pobili u Bezeku deset tisíc mužů.
+[4] ⟦judah|Jehuda|Juda⟧ vytáhl a ⟦yhwh|Jahve|Hospodin⟧ jim vydal do ruky ⟦canaanites|Kenaanim|Kenaance⟧ a ⟦perizzites|Perizzim|Perizejce⟧. Pobili u Bezeku deset tisíc mužů.
 
-[5] V Bezeku narazili na Adoni-bezeka a bojovali proti němu; pobili Canaanity a Perizzity.
+[5] V Bezeku narazili na ⟦adoni-bezek|Adoni Vezeka|Adoní-bezeka⟧ a bojovali proti němu; pobili ⟦canaanites|Kenaanim|Kenaance⟧ a ⟦perizzites|Perizzim|Perizejce⟧.
 
-[6] Adoni-bezek uprchl; pronásledovali ho, chytili ho a usekli mu palce na rukou i na nohou.
+[6] ⟦adoni-bezek|Adoni Vezek|Adoní-bezek⟧ uprchl; pronásledovali ho, chytili ho a usekli mu palce na rukou i na nohou.
 
-[7] Adoni-bezek řekl: „Sedmdesát králů s usekanými palci na rukou i na nohou sbíralo drobky pod mým stolem. Jak jsem činil já, tak mi *Elohim* odplatil.“ Přivedli ho do Jerusalemu a tam zemřel.
+[7] ⟦adoni-bezek|Adoni Vezek|Adoní-bezek⟧ řekl: „Sedmdesát králů s usekanými palci na rukou i na nohou sbíralo drobky pod mým stolem. Jak jsem činil já, tak mi ⟦elohim|Elohim|Bůh⟧ odplatil.“ Přivedli ho do ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ a tam zemřel.
 
-[8] Synové Judah bojovali proti Jerusalemu a dobyli ho, pobili ho ostřím meče a město zapálili.
+[8] Synové ⟦judah|Jehudy|Judy⟧ bojovali proti ⟦jerusalem|Jerušalajim|Jeruzalému⟧ a dobyli ho, pobili ho ostřím meče a město zapálili.
 
-[9] Potom synové Judah sestoupili bojovat proti Canaanitům, kteří bydleli v pahorkatině, v Negevu a v nížině.
+[9] Potom synové ⟦judah|Jehudy|Judy⟧ sestoupili bojovat proti ⟦canaanites|Kenaanim|Kenaancům⟧, kteří bydleli v pahorkatině, v ⟦negev|Negevu|Negebu⟧ a v nížině.
 
-[10] Judah vytáhl proti Canaanitům, kteří bydleli v Hebronu – Hebron se dříve jmenoval Kiriath-arba – a pobili Sheshaie, Ahimana a Talmaie.
+[10] ⟦judah|Jehuda|Juda⟧ vytáhl proti ⟦canaanites|Kenaanim|Kenaancům⟧, kteří bydleli v ⟦hebron|Chevronu|Chebrónu⟧ – ⟦hebron|Chevron|Chebrón⟧ se dříve jmenoval ⟦kiriath-arba|Kirjat Arba|Kirjat-arba⟧ – a pobili Šešaje, ⟦ahiman|Achimana|Achímana⟧ a Talmaje.
 
-[11] Odtud vytáhl proti obyvatelům Debiru – Debir se dříve jmenoval Kiriath-sepher.
+[11] Odtud vytáhl proti obyvatelům ⟦debir|Deviru|Debíru⟧ – ⟦debir|Devir|Debír⟧ se dříve jmenoval ⟦kiriath-sepher|Kirjat Sefer|Kirjat-sefer⟧.
 
-[12] Caleb řekl: „Kdo pobije Kiriath-sepher a dobude jej, tomu dám za ženu svou dceru Achsah.“
+[12] ⟦caleb|Kalev|Káleb⟧ řekl: „Kdo pobije ⟦kiriath-sepher|Kirjat Sefer|Kirjat-sefer⟧ a dobude jej, tomu dám za ženu svou dceru ⟦achsah|Achsa|Aksa⟧.“
 
-[13] Dobyl jej Othniel, syn Kenazův, Calebův mladší bratr, a Caleb mu dal za ženu svou dceru Achsah.
+[13] Dobyl jej Otniel, syn Kenazův, ⟦caleb|Kalevův|Kálebův⟧ mladší bratr, a ⟦caleb|Kalev|Káleb⟧ mu dal za ženu svou dceru ⟦achsah|Achsa|Aksa⟧.
 
-[14] Když k němu přišla, naléhala na něj, aby si od jejího otce vyžádal pole. Sesedla z oslice a Caleb se jí zeptal: „Co chceš?“
+[14] Když k němu přišla, naléhala na něj, aby si od jejího otce vyžádal pole. Sesedla z oslice a ⟦caleb|Kalev|Káleb⟧ se jí zeptal: „Co chceš?“
 
-[15] Řekla mu: „Dej mi požehnání. Když jsi mě usadil v zemi Negevu, dej mi také prameny vody.“ Caleb jí tedy dal horní prameny i dolní prameny.
+[15] Řekla mu: „Dej mi požehnání. Když jsi mě usadil v zemi ⟦negev|Negevu|Negebu⟧, dej mi také prameny vody.“ ⟦caleb|Kalev|Káleb⟧ jí tedy dal horní prameny i dolní prameny.
 
-[16] Synové Kenity, Mosesova tchána, vytáhli z Města palem se syny Judah na poušť Judah, která je v Negevu poblíž Aradu; šli a usadili se s lidem.
+[16] Synové ⟦kenites|Keni|Kenijce⟧, ⟦moses|Mošova|Mojžíšova⟧ tchána, vytáhli z Města palem se syny ⟦judah|Jehudy|Judy⟧ na poušť ⟦judah|Jehudy|Judy⟧, která je v ⟦negev|Negevu|Negebu⟧ poblíž ⟦arad|Aradu|Arádu⟧; šli a usadili se s lidem.
 
-[17] Judah šel se svým bratrem Simeonem a pobili Canaanity, kteří bydleli v Zephathu, a zasvětili jej zkáze. Město dostalo jméno Hormah.
+[17] ⟦judah|Jehuda|Juda⟧ šel se svým bratrem ⟦simeon|Šimonem|Šimeónem⟧ a pobili ⟦canaanites|Kenaanim|Kenaance⟧, kteří bydleli v ⟦zephath|Cefatu|Sefatu⟧, a zasvětili jej zkáze. Město dostalo jméno Chorma.
 
-[18] Judah dobyl také Gazu s jejím územím, Ashkelon s jeho územím a Ekron s jeho územím.
+[18] ⟦judah|Jehuda|Juda⟧ dobyl také ⟦gaza|Azzu|Gazu⟧ s jejím územím, ⟦ashkelon|Aškelon|Aškalón⟧ s jeho územím a ⟦ekron|Ekron|Ekrón⟧ s jeho územím.
 
-[19] Yahweh byl s Judah, a tak zaujali pahorkatinu; obyvatele údolí však vyhnat nedokázali, protože měli železné vozy.
+[19] ⟦yhwh|Jahve|Hospodin⟧ byl s ⟦judah|Jehudou|Judou⟧, a tak zaujali pahorkatinu; obyvatele údolí však vyhnat nedokázali, protože měli železné vozy.
 
-[20] Hebron dali Calebovi, jak řekl Moses; a on odtud vyhnal tři syny Anakovy.
+[20] ⟦hebron|Chevron|Chebrón⟧ dali ⟦caleb|Kalevovi|Kálebovi⟧, jak řekl ⟦moses|Moše|Mojžíš⟧; a on odtud vyhnal tři syny ⟦anak|Anakovy|Anákovy⟧.
 
-[21] Synové Benjamina nevyhnali Jebusity, kteří bydleli v Jerusalemě; a tak Jebusité bydlí se syny Benjamina v Jerusalemě až do tohoto dne.
+[21] Synové ⟦benjamin|Binjamina|Benjamína⟧ nevyhnali ⟦jebusites|Jevusim|Jebúsejce⟧, kteří bydleli v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧; a tak ⟦jebusites|Jevusim|Jebúsejci⟧ bydlí se syny ⟦benjamin|Binjamina|Benjamína⟧ v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧ až do tohoto dne.
 
-[22] Dům Josepha – i oni vytáhli proti Bethelu a Yahweh byl s nimi.
+[22] Dům Josefa – i oni vytáhli proti ⟦bethel|Bejt Elu|Bét-elu⟧ a ⟦yhwh|Jahve|Hospodin⟧ byl s nimi.
 
-[23] Dům Josepha dal vyzvědět Bethel (město se dříve jmenovalo Luz).
+[23] Dům Josefa dal vyzvědět ⟦bethel|Bejt El|Bét-el⟧ (město se dříve jmenovalo ⟦luz|Luz|Lúz⟧).
 
 [24] Zvědové uviděli muže, jak vychází z města, a řekli mu: „Ukaž nám prosím cestu do města, a my ti prokážeme milosrdenství.“
 
 [25] Když jim ukázal cestu do města, pobili město ostřím meče, ale toho muže a celou jeho rodinu propustili.
 
-[26] Ten muž odešel do země Hittitů, vystavěl město a nazval je Luz; tak se jmenuje až do tohoto dne.
+[26] Ten muž odešel do země ⟦hittites|Chittim|Chetejců⟧, vystavěl město a nazval je ⟦luz|Luz|Lúz⟧; tak se jmenuje až do tohoto dne.
 
-[27] Manasseh nevyhnal obyvatele Beth-sheanu a jeho vesnic, Taanachu a jeho vesnic, obyvatele Doru a jeho vesnic, Ibleamu a jeho vesnic ani Megidda a jeho vesnic; Canaanité v té zemi setrvávali.
+[27] ⟦manasseh|Menaše|Manases⟧ nevyhnal obyvatele ⟦beth-shean|Bejt Šeanu|Bét-šeánu⟧ a jeho vesnic, ⟦taanach|Taanachu|Taanaku⟧ a jeho vesnic, obyvatele ⟦dor|Doru|Dóru⟧ a jeho vesnic, ⟦ibleam|Jivleamu|Jibleámu⟧ a jeho vesnic ani ⟦megiddo|Megidda|Megida⟧ a jeho vesnic; ⟦canaanites|Kenaanim|Kenaanci⟧ v té zemi setrvávali.
 
-[28] Když Israel zesílil, podrobil Canaanity nucené robotě, ale úplně je nevyhnal.
+[28] Když ⟦israel|Jisrael|Izrael⟧ zesílil, podrobil ⟦canaanites|Kenaanim|Kenaance⟧ nucené robotě, ale úplně je nevyhnal.
 
-[29] Ephraim nevyhnal Canaanity, kteří bydleli v Gezeru; a tak Canaanité bydleli mezi nimi v Gezeru.
+[29] Efrajim nevyhnal ⟦canaanites|Kenaanim|Kenaance⟧, kteří bydleli v Gezeru; a tak ⟦canaanites|Kenaanim|Kenaanci⟧ bydleli mezi nimi v Gezeru.
 
-[30] Zebulun nevyhnal obyvatele Kitronu ani obyvatele Nahalolu; a tak Canaanité bydleli mezi nimi, ale stali se nucenými robotníky.
+[30] ⟦zebulun|Zevulun|Zabulón⟧ nevyhnal obyvatele ⟦kitron|Kitronu|Kitrónu⟧ ani obyvatele ⟦nahalol|Nahalolu|Nahalólu⟧; a tak ⟦canaanites|Kenaanim|Kenaanci⟧ bydleli mezi nimi, ale stali se nucenými robotníky.
 
-[31] Asher nevyhnal obyvatele Acca, obyvatele Sidonu ani Ahlabu, Achzibu, Helbah, Aphiku či Rehobu;
+[31] Ašer nevyhnal obyvatele ⟦acco|Akko|Ako⟧, obyvatele ⟦sidon|Cidonu|Sidónu⟧ ani ⟦ahlab|Achlavu|Achlábu⟧, ⟦achzib|Achzivu|Akzíbu⟧, Chelba, ⟦aphik|Afiku|Afíku⟧ či ⟦rehob|Rechovu|Rechóbu⟧;
 
-[32] a tak Asherité bydleli mezi Canaanity, obyvateli země, neboť je nevyhnali.
+[32] a tak ⟦asherites|Ašeri|Ašerovci⟧ bydleli mezi ⟦canaanites|Kenaanim|Kenaanci⟧, obyvateli země, neboť je nevyhnali.
 
-[33] Naphtali nevyhnal obyvatele Beth-shemeshe ani obyvatele Beth-anathu; a tak bydlel mezi Canaanity, obyvateli země; ale obyvatelé Beth-shemeshe a Beth-anathu se jim stali nucenými robotníky.
+[33] ⟦naphtali|Naftali|Neftalí⟧ nevyhnal obyvatele ⟦beth-shemesh|Bejt Šemeše|Bét-šemeše⟧ ani obyvatele ⟦beth-anath|Bejt Anatu|Bét-anatu⟧; a tak bydlel mezi ⟦canaanites|Kenaanim|Kenaanci⟧, obyvateli země; ale obyvatelé ⟦beth-shemesh|Bejt Šemeše|Bét-šemeše⟧ a ⟦beth-anath|Bejt Anatu|Bét-anatu⟧ se jim stali nucenými robotníky.
 
-[34] Amorité zatlačili syny Dana zpět do pahorkatiny, neboť jim nedovolili sestoupit do údolí.
+[34] ⟦amorites|Emorim|Emorejci⟧ zatlačili syny Dana zpět do pahorkatiny, neboť jim nedovolili sestoupit do údolí.
 
-[35] Amorité setrvávali v Har-heresu, v Aijalonu a v Shaalbimu; ale ruka domu Josepha nabyla převahy, takže se stali nucenými robotníky.
+[35] ⟦amorites|Emorim|Emorejci⟧ setrvávali v ⟦har-heres|Har Cheresu|Har-cheresu⟧, v ⟦aijalon|Ajjalonu|Ajalónu⟧ a v ⟦shaalbim|Šaalvimu|Šaalbímu⟧; ale ruka domu Josefa nabyla převahy, takže se stali nucenými robotníky.
 
-[36] Hranice Amoritů vedla od stoupání Akrabbim, od Sely výše.
+[36] Hranice ⟦amorites|Emorim|Emorejců⟧ vedla od stoupání ⟦akrabbim|Akrabbim|Akrabím⟧, od Sely výše.
 
 ## Změny
 

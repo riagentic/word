@@ -1,46 +1,46 @@
 # Genesis 15
 
-[1] After these things the word of Yahweh came to Abram in a vision, saying, "Do not be afraid, Abram. I am your shield; your reward shall be very great."
+[1] After these things the word of ⟦yhwh|Yahweh|the LORD⟧ came to ⟦abram|Avram|Abram⟧ in a vision, saying, "Do not be afraid, ⟦abram|Avram|Abram⟧. I am your shield; your reward shall be very great."
 
-[2] But Abram said, "Lord Yahweh, what will you give me, for I continue childless, and the heir of my house is Eliezer of Damascus?"
+[2] But ⟦abram|Avram|Abram⟧ said, "⟦adonai-yhwh|Lord Yahweh|Lord GOD⟧, what will you give me, for I continue childless, and the heir of my house is Eliezer of ⟦damascus|Dammeseq|Damascus⟧?"
 
-[3] And Abram said, "Look, you have given me no offspring; and a slave born in my house will be my heir."
+[3] And ⟦abram|Avram|Abram⟧ said, "Look, you have given me no offspring; and a slave born in my house will be my heir."
 
-[4] And behold, the word of Yahweh came to him: "This one shall not be your heir; your very own son shall be your heir."
+[4] And behold, the word of ⟦yhwh|Yahweh|the LORD⟧ came to him: "This one shall not be your heir; your very own son shall be your heir."
 
 [5] He brought him outside and said, "Look now toward the heavens and count the stars, if you are able to count them." Then he said to him, "So shall your offspring be."
 
-[6] And he trusted in Yahweh, and he reckoned it to him as righteousness.
+[6] And he trusted in ⟦yhwh|Yahweh|the LORD⟧, and he reckoned it to him as righteousness.
 
-[7] He said to him, "I am Yahweh, who brought you out of Ur of the Chaldeans, to give you this land to possess."
+[7] He said to him, "I am ⟦yhwh|Yahweh|the LORD⟧, who brought you out of Ur of the ⟦chaldeans|Kasdim|Chaldeans⟧, to give you this land to possess."
 
-[8] But he said, "Lord Yahweh, how am I to know that I shall possess it?"
+[8] But he said, "⟦adonai-yhwh|Lord Yahweh|Lord GOD⟧, how am I to know that I shall possess it?"
 
 [9] He said to him, "Bring me a heifer three years old, a female goat three years old, a ram three years old, a turtledove, and a young pigeon."
 
 [10] He brought him all these, cut them in half, and laid each half over against the other; but the birds he did not cut in half.
 
-[11] And when birds of prey came down on the carcasses, Abram drove them away.
+[11] And when birds of prey came down on the carcasses, ⟦abram|Avram|Abram⟧ drove them away.
 
-[12] As the sun was going down, a deep sleep fell on Abram, and behold, a dreadful great darkness fell on him.
+[12] As the sun was going down, a deep sleep fell on ⟦abram|Avram|Abram⟧, and behold, a dreadful great darkness fell on him.
 
-[13] Then he said to Abram, "Know for certain that your offspring shall be resident aliens in a land that is not theirs, and they shall serve them, and they shall oppress them for 400 years.
+[13] Then he said to ⟦abram|Avram|Abram⟧, "Know for certain that your offspring shall be resident aliens in a land that is not theirs, and they shall serve them, and they shall oppress them for 400 years.
 
 [14] But I will also judge the nation that they serve, and afterward they shall come out with great possessions.
 
 [15] As for you, you shall go to your fathers in peace; you shall be buried in a good old age.
 
-[16] And in the fourth generation they shall come back here, for the iniquity of the Amorites is not yet complete."
+[16] And in the fourth generation they shall come back here, for the iniquity of the ⟦amorites|Emorim|Amorites⟧ is not yet complete."
 
 [17] When the sun had set and it was dark, behold, a smoking firepot and a flaming torch passed between the pieces.
 
-[18] On that day Yahweh made a covenant with Abram, saying, "To your offspring I give this land, from the river of Egypt to the great river, the river Euphrates,
+[18] On that day ⟦yhwh|Yahweh|the LORD⟧ made a covenant with ⟦abram|Avram|Abram⟧, saying, "To your offspring I give this land, from the river of ⟦egypt|Mitzrayim|Egypt⟧ to the great river, the river ⟦euphrates|Perat|Euphrates⟧,
 
-[19] the land of the Kenites, the Kenizzites, the Kadmonites,
+[19] the land of the ⟦kenites|Qenim|Kenites⟧, the ⟦kenizzites|Qenizzim|Kenizzites⟧, the ⟦kadmonites|Qadmonim|Kadmonites⟧,
 
-[20] the Hittites, the Perizzites, the Rephaim,
+[20] the ⟦hittites|Chittim|Hittites⟧, the ⟦perizzites|Perizzim|Perizzites⟧, the ⟦rephaim|Refaim|Rephaim⟧,
 
-[21] the Amorites, the Canaanites, the Girgashites, and the Jebusites."
+[21] the ⟦amorites|Emorim|Amorites⟧, the ⟦canaanites|Kenaanim|Canaanites⟧, the ⟦girgashites|Girgashim|Girgashites⟧, and the ⟦jebusites|Yevusim|Jebusites⟧."
 
 ## Changes
 

@@ -1,8 +1,8 @@
 # Daniel 8
 
-[1] In the third year of the reign of King Belshazzar a vision appeared to me, Daniel, after that which appeared to me at the first.
+[1] In the third year of the reign of King ⟦belshazzar|Belshatzar|Belshazzar⟧ a vision appeared to me, ⟦daniel|Daniyel|Daniel⟧, after that which appeared to me at the first.
 
-[2] And I saw in the vision; and when I saw, I was in Shushan the citadel, which is in the province of Elam. And I saw in the vision, and I was at the Ulai canal.
+[2] And I saw in the vision; and when I saw, I was in ⟦susa|Shushan|Susa⟧ the citadel, which is in the province of Elam. And I saw in the vision, and I was at the Ulai canal.
 
 [3] I raised my eyes and saw, and behold, a ram standing on the bank of the canal. It had two horns, and both horns were high, but one was higher than the other, and the higher one came up last.
 
@@ -28,9 +28,9 @@
 
 [14] And he said to me, "For 2,300 evenings and mornings. Then the sanctuary shall be restored to its rightful state."
 
-[15] When I, Daniel, had seen the vision, I sought to understand it. And behold, there stood before me one having the appearance of a man.
+[15] When I, ⟦daniel|Daniyel|Daniel⟧, had seen the vision, I sought to understand it. And behold, there stood before me one having the appearance of a man.
 
-[16] And I heard a man's voice between the banks of the Ulai, and it called, "Gabriel — make this man understand the vision."
+[16] And I heard a man's voice between the banks of the Ulai, and it called, "⟦gabriel|Gavriel|Gabriel⟧ — make this man understand the vision."
 
 [17] So he came near where I stood. And when he came, I was frightened and fell on my face. But he said to me, "Understand, O son of man, that the vision is for the time of the end."
 
@@ -38,9 +38,9 @@
 
 [19] He said, "Behold, I will make known to you what shall be at the latter end of the indignation, for it refers to the appointed time of the end.
 
-[20] As for the ram that you saw with the two horns, these are the kings of Media and Persia.
+[20] As for the ram that you saw with the two horns, these are the kings of ⟦media|Madai|Media⟧ and ⟦persia|Paras|Persia⟧.
 
-[21] And the goat is the king of Greece. And the great horn between his eyes is the first king.
+[21] And the goat is the king of ⟦greece|Yavan|Greece⟧. And the great horn between his eyes is the first king.
 
 [22] As for the horn that was broken, in place of which four others arose, four kingdoms shall arise from his nation, but not with his power.
 
@@ -52,7 +52,7 @@
 
 [26] The vision of the evenings and the mornings that has been told is true, but seal up the vision, for it refers to many days from now."
 
-[27] And I, Daniel, was overcome and lay sick for some days. Then I rose and went about the king's business, but I was appalled by the vision and did not understand it.
+[27] And I, ⟦daniel|Daniyel|Daniel⟧, was overcome and lay sick for some days. Then I rose and went about the king's business, but I was appalled by the vision and did not understand it.
 
 ## Changes
 

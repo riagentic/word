@@ -13,7 +13,7 @@ sestoupil jsi, hory se zachvěly před tvou tváří.
 
 [4] Od pradávna nikdo neslyšel
 ani uchem nevnímal,
-žádné oko nevidělo *Elohim* kromě tebe,
+žádné oko nevidělo ⟦elohim|Elohim|Boha⟧ kromě tebe,
 který jedná pro ty, kdo na něj čekají.
 
 [5] Vycházíš vstříc tomu, kdo s radostí koná spravedlnost,
@@ -31,24 +31,24 @@ kdo by se vzchopil, aby se tě chopil;
 neboť jsi před námi skryl svou tvář
 a nechal jsi nás rozplynout v moci našich vin.
 
-[8] Ale nyní, Yahweh, ty jsi náš Otec;
+[8] Ale nyní, ⟦yhwh|Jahve|Hospodine⟧, ty jsi náš Otec;
 my jsme hlína a ty jsi náš hrnčíř;
 všichni jsme dílem tvé ruky.
 
-[9] Nehněvej se tak strašně, Yahweh,
+[9] Nehněvej se tak strašně, ⟦yhwh|Jahve|Hospodine⟧,
 a nepamatuj na vinu navěky.
 Hle, prosím, pohleď, všichni jsme tvůj lid.
 
 [10] Tvá svatá města se stala pustinou;
-Zion se stal pustinou,
-Jerusalem zpustošením.
+⟦zion|Cijon|Sijón⟧ se stal pustinou,
+⟦jerusalem|Jerušalajim|Jeruzalém⟧ zpustošením.
 
 [11] Náš svatý a krásný dům,
 kde tě chválili naši otcové,
 byl spálen ohněm
 a všechna naše milá místa se stala troskami.
 
-[12] Budeš se nad tím zdržovat, Yahweh?
+[12] Budeš se nad tím zdržovat, ⟦yhwh|Jahve|Hospodine⟧?
 Budeš mlčet a tak strašně nás trýznit?
 
 ## Změny

@@ -2,25 +2,25 @@
 
 [1] Again he entered the synagogue, and a man was there with a withered hand.
 
-[2] And they watched *Yeshua*, to see whether he would heal him on the Sabbath, so that they might accuse him.
+[2] And they watched ⟦yeshua|Yeshua|Jesus⟧, to see whether he would heal him on the ⟦shabbat|Shabbat|Sabbath⟧, so that they might accuse him.
 
 [3] And he said to the man with the withered hand, "Come here."
 
-[4] And he said to them, "Is it lawful on the Sabbath to do good or to do harm, to save life or to kill?" But they were silent.
+[4] And he said to them, "Is it lawful on the ⟦shabbat|Shabbat|Sabbath⟧ to do good or to do harm, to save life or to kill?" But they were silent.
 
 [5] And he looked around at them with anger, grieved at their hardness of heart, and said to the man, "Stretch out your hand." He stretched it out, and his hand was restored.
 
-[6] The Pharisees went out and immediately held counsel with the Herodians against him, how to destroy him.
+[6] The ⟦pharisees|Perushim|Pharisees⟧ went out and immediately held counsel with the ⟦herodians|Herodianoi|Herodians⟧ against him, how to destroy him.
 
-[7] *Yeshua* withdrew with his disciples to the sea, and a great crowd followed, from Galilee and Judea
+[7] ⟦yeshua|Yeshua|Jesus⟧ withdrew with his disciples to the sea, and a great crowd followed, from ⟦galilee|Galil|Galilee⟧ and ⟦judea|Yehudah|Judea⟧
 
-[8] and Jerusalem and Idumea and from beyond the Jordan and from around Tyre and Sidon. When the great crowd heard all that he was doing, they came to him.
+[8] and ⟦jerusalem|Yerushalayim|Jerusalem⟧ and ⟦idumea|Edom|Idumea⟧ and from beyond the ⟦jordan|Yarden|Jordan⟧ and from around ⟦tyre|Tzor|Tyre⟧ and ⟦sidon|Tzidon|Sidon⟧. When the great crowd heard all that he was doing, they came to him.
 
 [9] And he told his disciples to have a boat ready for him because of the crowd, lest they crush him,
 
 [10] for he had healed many, so that all who had diseases pressed around him to touch him.
 
-[11] And whenever the unclean spirits saw him, they fell down before him and cried out, "You are the Son of *Elohim*."
+[11] And whenever the unclean spirits saw him, they fell down before him and cried out, "You are the Son of ⟦elohim|Elohim|God⟧."
 
 [12] And he strictly ordered them not to make him known.
 
@@ -30,19 +30,19 @@
 
 [15] and have authority to cast out demons.
 
-[16] He appointed the twelve: Simon, to whom he gave the name *Kefa*,
+[16] He appointed the twelve: ⟦simon|Shimon|Simon⟧, to whom he gave the name ⟦peter|Kefa|Peter⟧,
 
-[17] Jacob the son of Zebedee and John the brother of Jacob, to whom he gave the name Boanerges, that is, Sons of Thunder;
+[17] ⟦james|Yaaqov|James⟧ the son of ⟦zebedee|Zebedaios|Zebedee⟧ and ⟦john|Yochanan|John⟧ the brother of ⟦james|Yaaqov|James⟧, to whom he gave the name Boanerges, that is, Sons of Thunder;
 
-[18] Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and Jacob the son of Alphaeus, and Thaddaeus, and Simon the Zealot,
+[18] ⟦andrew|Andreas|Andrew⟧, and ⟦philip|Philippos|Philip⟧, and ⟦bartholomew|Bar-Talmai|Bartholomew⟧, and ⟦matthew|Mattai|Matthew⟧, and ⟦thomas|Toma|Thomas⟧, and ⟦james|Yaaqov|James⟧ the son of ⟦alphaeus|Alphaios|Alphaeus⟧, and ⟦thaddaeus|Thaddaios|Thaddaeus⟧, and ⟦simon|Shimon|Simon⟧ the Zealot,
 
-[19] and Judas Iscariot, who betrayed him.
+[19] and ⟦judas|Yehudah|Judas⟧ Iscariot, who betrayed him.
 
 [20] Then he went home, and the crowd gathered again, so that they could not even eat.
 
 [21] And when his family heard it, they went out to seize him, for they were saying, "He is out of his mind."
 
-[22] And the scribes who came down from Jerusalem were saying, "He is possessed by Beelzebul," and "by the prince of demons he casts out the demons."
+[22] And the scribes who came down from ⟦jerusalem|Yerushalayim|Jerusalem⟧ were saying, "He is possessed by Beelzebul," and "by the prince of demons he casts out the demons."
 
 [23] And he called them to him and said to them in parables, "How can Satan cast out Satan?
 
@@ -56,7 +56,7 @@
 
 [28] "Truly, I say to you, all sins will be forgiven the children of man, and whatever blasphemies they utter,
 
-[29] but whoever blasphemes against the *Ruach HaQodesh* never has forgiveness, but is guilty of an eternal sin" —
+[29] but whoever blasphemes against the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧ never has forgiveness, but is guilty of an eternal sin" —
 
 [30] for they were saying, "He has an unclean spirit."
 
@@ -68,7 +68,7 @@
 
 [34] And looking about at those who sat around him, he said, "Here are my mother and my brothers!
 
-[35] **Whoever does the will of *Elohim*, he is my brother and sister and mother.**"
+[35] **Whoever does the will of ⟦elohim|Elohim|God⟧, he is my brother and sister and mother.**"
 
 ## Changes
 

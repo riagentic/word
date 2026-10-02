@@ -8,7 +8,7 @@
 
 [4] Neuvidíš osla nebo býka svého bratra, jak padl na cestě, abys před nimi skryl svou tvář; jistě mu je pomůžeš znovu zvednout.
 
-[5] Žena nebude nosit mužský oděv a muž si nebude oblékat ženský šat, neboť každý, kdo tyto věci činí, je ohavností pro Yahweh, tvého *Elohim*.
+[5] Žena nebude nosit mužský oděv a muž si nebude oblékat ženský šat, neboť každý, kdo tyto věci činí, je ohavností pro ⟦yhwh|Jahveho|Hospodina⟧, tvého ⟦elohim|Elohim|Boha⟧.
 
 [6] Narazíš-li na cestě na ptačí hnízdo – na jakémkoli stromě nebo na zemi, s mláďaty nebo vejci, a matka sedí na mláďatech nebo na vejcích – nevezmeš matku spolu s mláďaty.
 
@@ -36,13 +36,13 @@
 
 [18] Starší toho města vezmou toho muže a potrestají ho
 
-[19] a uloží mu pokutu sto šekelů stříbra a dají je otci mladé ženy, protože uvedl zlou pověst na pannu v Israeli. Ona zůstane jeho manželkou; nesmí se s ní rozvést po všechny své dny.
+[19] a uloží mu pokutu sto šekelů stříbra a dají je otci mladé ženy, protože uvedl zlou pověst na pannu v ⟦israel|Jisraeli|Izraeli⟧. Ona zůstane jeho manželkou; nesmí se s ní rozvést po všechny své dny.
 
 [20] Je-li však ta věc pravdivá – u mladé ženy se důkaz panenství nenajde –
 
-[21] pak mladou ženu vyvedou ke dveřím domu jejího otce a muži jejího města ji ukamenují kameny k smrti, protože spáchala v Israeli hanebnost, když smilnila v domě svého otce. Tak odstraníš zlo ze svého středu.
+[21] pak mladou ženu vyvedou ke dveřím domu jejího otce a muži jejího města ji ukamenují kameny k smrti, protože spáchala v ⟦israel|Jisraeli|Izraeli⟧ hanebnost, když smilnila v domě svého otce. Tak odstraníš zlo ze svého středu.
 
-[22] Bude-li muž přistižen, jak leží se ženou provdanou za manžela, zemřou oba – muž, který se ženou ležel, i ta žena. Tak odstraníš zlo z Israele.
+[22] Bude-li muž přistižen, jak leží se ženou provdanou za manžela, zemřou oba – muž, který se ženou ležel, i ta žena. Tak odstraníš zlo z ⟦israel|Jisraele|Izraele⟧.
 
 [23] Je-li mladá žena, panna, zasnoubena muži a jiný muž ji najde ve městě a vyspí se s ní,
 

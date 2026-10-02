@@ -1,6 +1,6 @@
 # Job 20
 
-[1] Then Zophar the Naamathite answered and said:
+[1] Then ⟦zophar|Tzofar|Zophar⟧ the ⟦naamathite|Naamati|Naamathite⟧ answered and said:
 
 [2] "Therefore my disquieting thoughts answer me,
 because of my inward agitation.
@@ -42,7 +42,7 @@ and keeps it still in his mouth,
 it is the venom of cobras within him.
 
 [15] He swallows down riches, and vomits them up again;
-*Elohim* drives them out of his belly.
+⟦el|El|God⟧ drives them out of his belly.
 
 [16] He sucks the poison of cobras;
 the viper's fangs kill him.
@@ -67,7 +67,7 @@ therefore his prosperity will not last.
 all the force of misery will come on him.
 
 [23] To fill his belly to the full,
-*Elohim* will send his burning wrath upon him
+⟦elohim|Elohim|God⟧ will send his burning wrath upon him
 and rain it down on him as his food.
 
 [24] He will flee from an iron weapon;
@@ -87,12 +87,13 @@ the earth will rise up against him.
 [28] The possessions of his house will be carried off,
 dragged away in the day of his wrath.
 
-[29] This is the portion of the wicked man from *Elohim*,
-the heritage decreed for him by *Elohim*."
+[29] This is the portion of the wicked man from ⟦elohim|Elohim|God⟧,
+the heritage decreed for him by ⟦el|El|God⟧."
 
 ## Changes
 
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
+- **"God" → "El"** (v15, 29) — Hebrew אֵל *El*, not *Elohim*.
 - **"hypocrite" → "godless"** (v5) — *chanef*.
 - **"asps" → "cobras"** (v14, 16) — *petanim*.
 - **"bow of steel" → "bronze arrow"** (v24) — *qeshet nechushah*; bronze bow (steel unknown at composition date).

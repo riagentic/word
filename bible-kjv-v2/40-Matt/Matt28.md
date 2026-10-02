@@ -1,6 +1,6 @@
 # Matthew 28
 
-[1] Now after the Sabbath, toward the dawn of the first day of the week, Mary Magdalene and the other Mary went to see the tomb.
+[1] Now after the ⟦shabbat|Shabbat|Sabbath⟧, toward the dawn of the first day of the week, ⟦mary|Miryam|Mary⟧ Magdalene and the other ⟦mary|Miryam|Mary⟧ went to see the tomb.
 
 [2] And behold, there was a great earthquake, for an angel of the Lord descended from heaven and came and rolled back the stone and sat on it.
 
@@ -8,17 +8,17 @@
 
 [4] And for fear of him the guards trembled and became like dead men.
 
-[5] But the angel said to the women, "**Do not be afraid**, for I know that you seek *Yeshua* who was crucified.
+[5] But the angel said to the women, "**Do not be afraid**, for I know that you seek ⟦yeshua|Yeshua|Jesus⟧ who was crucified.
 
 [6] He is not here, for he has risen, as he said. Come, see the place where he lay.
 
-[7] Then go quickly and tell his disciples that he has risen from the dead, and behold, he is going before you to Galilee; there you will see him. See, I have told you."
+[7] Then go quickly and tell his disciples that he has risen from the dead, and behold, he is going before you to ⟦galilee|Galil|Galilee⟧; there you will see him. See, I have told you."
 
 [8] So they departed quickly from the tomb with fear and great joy, and ran to tell his disciples.
 
-[9] And behold, *Yeshua* met them and said, "Greetings!" And they came up and took hold of his feet and worshiped him.
+[9] And behold, ⟦yeshua|Yeshua|Jesus⟧ met them and said, "Greetings!" And they came up and took hold of his feet and worshiped him.
 
-[10] Then *Yeshua* said to them, "Do not be afraid; go and tell my brothers to go to Galilee, and there they will see me."
+[10] Then ⟦yeshua|Yeshua|Jesus⟧ said to them, "Do not be afraid; go and tell my brothers to go to ⟦galilee|Galil|Galilee⟧, and there they will see me."
 
 [11] While they were going, behold, some of the guard went into the city and told the chief priests all that had taken place.
 
@@ -28,15 +28,15 @@
 
 [14] And if this comes to the governor's ears, we will satisfy him and keep you out of trouble."
 
-[15] So they took the money and did as they were directed. And this story has been spread among the Jews to this day.
+[15] So they took the money and did as they were directed. And this story has been spread among the ⟦jews|Yehudim|Jews⟧ to this day.
 
-[16] Now the eleven disciples went to Galilee, to the mountain to which *Yeshua* had directed them.
+[16] Now the eleven disciples went to ⟦galilee|Galil|Galilee⟧, to the mountain to which ⟦yeshua|Yeshua|Jesus⟧ had directed them.
 
 [17] And when they saw him they worshiped him, but some doubted.
 
-[18] And *Yeshua* came and said to them, "**All authority in heaven and on earth has been given to me.**
+[18] And ⟦yeshua|Yeshua|Jesus⟧ came and said to them, "**All authority in heaven and on earth has been given to me.**
 
-[19] Go therefore and make disciples of all nations, immersing them in the name of the Father and of the Son and of the *Ruach HaQodesh*,
+[19] Go therefore and make disciples of all nations, ⟦immerse|immersing|baptizing⟧ them in the name of the Father and of the Son and of the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧,
 
 **[20] teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.**"
 

@@ -12,11 +12,11 @@
 
 [6] I made myself pools from which to water the forest of growing trees.
 
-[7] I bought male and female slaves, and had slaves who were born in my house. I had also great possessions of herds and flocks, more than any who had been before me in Jerusalem.
+[7] I bought male and female slaves, and had slaves who were born in my house. I had also great possessions of herds and flocks, more than any who had been before me in ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
 [8] I also gathered for myself silver and gold and the treasure of kings and provinces. I got singers, both men and women, and many concubines, the delight of the children of man.
 
-[9] So I became great and surpassed all who were before me in Jerusalem. Also my wisdom remained with me.
+[9] So I became great and surpassed all who were before me in ⟦jerusalem|Yerushalayim|Jerusalem⟧. Also my wisdom remained with me.
 
 [10] And whatever my eyes desired I did not keep from them. I kept my heart from no pleasure, for my heart found pleasure in all my toil, and this was my reward for all my toil.
 
@@ -46,11 +46,11 @@
 
 [23] For all his days are full of sorrow, and his work is a vexation. Even in the night his heart does not rest. This also is vanity.
 
-[24] There is nothing better for a person than that he should eat and drink and find enjoyment in his toil. This also, I saw, is from the hand of *Elohim*,
+[24] There is nothing better for a person than that he should eat and drink and find enjoyment in his toil. This also, I saw, is from the hand of ⟦elohim|Elohim|God⟧,
 
 [25] for apart from him who can eat or who can have enjoyment?
 
-[26] For to the one who pleases him, *Elohim* has given wisdom and knowledge and joy, but to the sinner he has given the business of gathering and collecting, only to give to one who pleases *Elohim*. This also is vanity and a striving after spirit.
+[26] For to the one who pleases him, ⟦elohim|Elohim|God⟧ has given wisdom and knowledge and joy, but to the sinner he has given the business of gathering and collecting, only to give to one who pleases ⟦elohim|Elohim|God⟧. This also is vanity and a striving after spirit.
 
 ## Changes
 

@@ -1,22 +1,22 @@
 # Romans 11
 
-[1] I ask, then, has *Elohim* rejected his people? By no means! For I myself am an Israelite, a descendant of Abraham, a member of the tribe of Benjamin.
+[1] I ask, then, has ⟦elohim|Elohim|God⟧ rejected his people? By no means! For I myself am an ⟦israelite|Yisraeli|Israelite⟧, a descendant of ⟦abraham|Avraham|Abraham⟧, a member of the tribe of ⟦benjamin|Binyamin|Benjamin⟧.
 
-[2] *Elohim* has not rejected his people whom he foreknew. Do you not know what the Scripture says of Elijah, how he appeals to *Elohim* against Israel?
+[2] ⟦elohim|Elohim|God⟧ has not rejected his people whom he foreknew. Do you not know what the Scripture says of ⟦elijah|Eliyahu|Elijah⟧, how he appeals to ⟦elohim|Elohim|God⟧ against ⟦israel|Yisrael|Israel⟧?
 
 [3] "**Lord, they have killed your prophets, they have demolished your altars, and I alone am left, and they seek my life**."
 
-[4] But what is *Elohim*'s reply to him? "**I have kept for myself seven thousand men who have not bowed the knee to Baal**."
+[4] But what is ⟦elohim|Elohim's|God's⟧ reply to him? "**I have kept for myself seven thousand men who have not bowed the knee to Baal**."
 
 [5] So too at the present time there is a remnant, chosen by grace.
 
 [6] But if it is by grace, it is no longer on the basis of works; otherwise grace would no longer be grace.
 
-[7] What then? Israel failed to obtain what it was seeking. The elect obtained it, but the rest were hardened,
+[7] What then? ⟦israel|Yisrael|Israel⟧ failed to obtain what it was seeking. The elect obtained it, but the rest were hardened,
 
 [8] as it is written,
 
-"***Elohim* gave them a spirit of stupor,
+"**⟦elohim|Elohim|God⟧ gave them a spirit of stupor,
 eyes that would not see
 and ears that would not hear,
 down to this very day**."
@@ -28,13 +28,13 @@ a stumbling block and a retribution for them;
 [10] let their eyes be darkened so that they cannot see,
 and bend their backs forever**."
 
-[11] So I ask, did they stumble in order that they might fall? By no means! Rather, through their trespass salvation has come to the Gentiles, so as to make Israel jealous.
+[11] So I ask, did they stumble in order that they might fall? By no means! Rather, through their trespass salvation has come to the Gentiles, so as to make ⟦israel|Yisrael|Israel⟧ jealous.
 
 [12] Now if their trespass means riches for the world, and if their failure means riches for the Gentiles, how much more will their full inclusion mean!
 
 [13] Now I am speaking to you Gentiles. Inasmuch then as I am an apostle to the Gentiles, I magnify my ministry
 
-[14] in order somehow to make my fellow Jews jealous, and thus save some of them.
+[14] in order somehow to make my fellow ⟦jews|Yehudim|Jews⟧ jealous, and thus save some of them.
 
 [15] For if their rejection means the reconciliation of the world, what will their acceptance mean but life from the dead?
 
@@ -48,37 +48,37 @@ and bend their backs forever**."
 
 [20] That is true. They were broken off because of their unbelief, but you stand fast through faith. So do not become proud, but fear.
 
-[21] For if *Elohim* did not spare the natural branches, neither will he spare you.
+[21] For if ⟦elohim|Elohim|God⟧ did not spare the natural branches, neither will he spare you.
 
-[22] Note then the kindness and the severity of *Elohim*: severity toward those who have fallen, but *Elohim*'s kindness to you, provided you continue in his kindness. Otherwise you too will be cut off.
+[22] Note then the kindness and the severity of ⟦elohim|Elohim|God⟧: severity toward those who have fallen, but ⟦elohim|Elohim's|God's⟧ kindness to you, provided you continue in his kindness. Otherwise you too will be cut off.
 
-[23] And even they, if they do not continue in their unbelief, will be grafted in, for *Elohim* has the power to graft them in again.
+[23] And even they, if they do not continue in their unbelief, will be grafted in, for ⟦elohim|Elohim|God⟧ has the power to graft them in again.
 
 [24] For if you were cut from what is by nature a wild olive tree, and grafted, contrary to nature, into a cultivated olive tree, how much more will these, the natural branches, be grafted back into their own olive tree.
 
-[25] Lest you be wise in your own sight, I do not want you to be unaware of this mystery, brothers: a partial hardening has come upon Israel, until the fullness of the Gentiles has come in.
+[25] Lest you be wise in your own sight, I do not want you to be unaware of this mystery, brothers: a partial hardening has come upon ⟦israel|Yisrael|Israel⟧, until the fullness of the Gentiles has come in.
 
-[26] And in this way **all Israel will be saved**, as it is written,
+[26] And in this way **all ⟦israel|Yisrael|Israel⟧ will be saved**, as it is written,
 
-"**The Deliverer will come from Zion,
-he will banish ungodliness from Jacob**;
+"**The Deliverer will come from ⟦zion|Tziyon|Zion⟧,
+he will banish ungodliness from ⟦jacob|Yaaqov|Jacob⟧**;
 [27] and this will be my covenant with them
 when I take away their sins."
 
 [28] As regards the gospel, they are enemies for your sake. But as regards election, they are beloved for the sake of their forefathers.
 
-[29] For **the gifts and the calling of *Elohim* are irrevocable**.
+[29] For **the gifts and the calling of ⟦elohim|Elohim|God⟧ are irrevocable**.
 
-[30] For just as you were at one time disobedient to *Elohim* but now have received mercy because of their disobedience,
+[30] For just as you were at one time disobedient to ⟦elohim|Elohim|God⟧ but now have received mercy because of their disobedience,
 
 [31] so they too have now been disobedient in order that by the mercy shown to you they also may now receive mercy.
 
-[32] For *Elohim* has consigned all to disobedience, that he may have mercy on all.
+[32] For ⟦elohim|Elohim|God⟧ has consigned all to disobedience, that he may have mercy on all.
 
-[33] Oh, the depth of the riches and wisdom and knowledge of *Elohim*!
+[33] Oh, the depth of the riches and wisdom and knowledge of ⟦elohim|Elohim|God⟧!
 How unsearchable are his judgments
 and how inscrutable his ways!
-[34] "**For who has known the mind of the Lord,
+[34] "**For who has known the mind of ⟦yhwh|Yahweh|the Lord⟧,
 or who has been his counselor?**"
 [35] "**Or who has given a gift to him
 that he might be repaid?**"

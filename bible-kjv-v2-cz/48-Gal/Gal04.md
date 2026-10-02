@@ -6,17 +6,17 @@
 
 [3] Stejně tak i my, když jsme byli dětmi, jsme byli zotročeni základním principům světa.
 
-[4] Když však nastala plnost času, *Elohim* vyslal svého Syna, narozeného z ženy, narozeného pod Torah,
+[4] Když však nastala plnost času, ⟦elohim|Elohim|Bůh⟧ vyslal svého Syna, narozeného z ženy, narozeného pod ⟦torah|Tórou|zákonem⟧,
 
-[5] aby vykoupil ty, kdo byli pod Torah, abychom přijali synovství.
+[5] aby vykoupil ty, kdo byli pod ⟦torah|Tórou|zákonem⟧, abychom přijali synovství.
 
-[6] A protože jste synové, *Elohim* poslal do našich srdcí Ducha svého Syna, který volá: „***Abba*! Otče!**“
+[6] A protože jste synové, ⟦elohim|Elohim|Bůh⟧ poslal do našich srdcí Ducha svého Syna, který volá: „***Abba*! Otče!**“
 
-[7] Nejsi tedy již otrok, nýbrž syn; a jsi-li syn, pak také dědic skrze *Elohim*.
+[7] Nejsi tedy již otrok, nýbrž syn; a jsi-li syn, pak také dědic skrze ⟦elohim|Elohim|Boha⟧.
 
-[8] Dříve, když jste neznali *Elohim*, byli jste zotročeni těm, kdo svou podstatou nejsou bohové.
+[8] Dříve, když jste neznali ⟦elohim|Elohim|Boha⟧, byli jste zotročeni těm, kdo svou podstatou nejsou bohové.
 
-[9] Nyní však, když jste poznali *Elohim*, či spíše když jste byli *Elohim* poznáni, jak se můžete znovu obracet ke slabým a bezcenným základním principům světa, jimž chcete opět otročit?
+[9] Nyní však, když jste poznali ⟦elohim|Elohim|Boha⟧, či spíše když jste byli ⟦elohim|Elohim|Bohem⟧ poznáni, jak se můžete znovu obracet ke slabým a bezcenným základním principům světa, jimž chcete opět otročit?
 
 [10] Zachováváte dny a měsíce a období a roky!
 
@@ -26,7 +26,7 @@
 
 [13] Víte, že jsem vám poprvé zvěstoval evangelium kvůli tělesné nemoci,
 
-[14] a přestože vám můj stav byl zkouškou, nepohrdli jste mnou ani jste mnou neopovrhli, nýbrž jste mě přijali jako anděla *Elohim*, jako *Mashiacha* *Yeshuu*.
+[14] a přestože vám můj stav byl zkouškou, nepohrdli jste mnou ani jste mnou neopovrhli, nýbrž jste mě přijali jako anděla ⟦elohim|Elohim|Božího⟧, jako ⟦mashiach|Mašiacha|Krista⟧ ⟦yeshua|Ješuu|Ježíše⟧.
 
 [15] Kam se tedy podělo vaše blahoslavenství? Dosvědčuji vám totiž, že kdyby to bylo možné, vyloupli byste si oči a dali mi je.
 
@@ -36,21 +36,21 @@
 
 [18] Je vždy dobré, když se o někoho horlivě ucházejí v dobrém úmyslu, a ne jen tehdy, když jsem u vás přítomen,
 
-[19] mé dětičky, pro které znovu snáším porodní bolesti, dokud ve vás nebude zformován *Mashiach*!
+[19] mé dětičky, pro které znovu snáším porodní bolesti, dokud ve vás nebude zformován ⟦mashiach|Mašiach|Kristus⟧!
 
 [20] Kéž bych teď mohl být u vás a změnit svůj tón, protože jsem z vás bezradný.
 
-[21] Řekněte mi, vy, kteří chcete být pod Torah, neslyšíte Torah?
+[21] Řekněte mi, vy, kteří chcete být pod ⟦torah|Tórou|zákonem⟧, neslyšíte ⟦torah|Tóru|zákon⟧?
 
-[22] Je totiž napsáno, že Abraham měl dva syny, jednoho z otrokyně a jednoho ze svobodné.
+[22] Je totiž napsáno, že ⟦abraham|Avraham|Abraham⟧ měl dva syny, jednoho z otrokyně a jednoho ze svobodné.
 
 [23] Syn otrokyně se však narodil podle těla, kdežto syn svobodné skrze zaslíbení.
 
-[24] Lze to vykládat alegoricky: tyto ženy jsou dvě smlouvy. Jedna je z hory Sinai a rodí děti pro otroctví; to je Hagar.
+[24] Lze to vykládat alegoricky: tyto ženy jsou dvě smlouvy. Jedna je z hory ⟦sinai|Sinaj|Sínaj⟧ a rodí děti pro otroctví; to je Hagar.
 
-[25] Hagar je hora Sinai v Arabii; odpovídá nynějšímu Jerusalemu, neboť je se svými dětmi v otroctví.
+[25] Hagar je hora ⟦sinai|Sinaj|Sínaj⟧ v ⟦arabia|Aravu|Arábii⟧; odpovídá nynějšímu ⟦jerusalem|Jerušalajim|Jeruzalému⟧, neboť je se svými dětmi v otroctví.
 
-[26] Ale Jerusalem, který je nahoře, je svobodný, a ten je naší matkou.
+[26] Ale ⟦jerusalem|Jerušalajim|Jeruzalém⟧, který je nahoře, je svobodný, a ten je naší matkou.
 
 [27] Je totiž napsáno:
 
@@ -59,7 +59,7 @@ propukni v jásot a zvolej, ty, která nemáš porodní bolesti!
 Neboť dětí opuštěné bude víc
 než té, která má muže**.“
 
-[28] Vy, bratři, jste jako Isaac dětmi zaslíbení.
+[28] Vy, bratři, jste jako ⟦isaac|Jicchak|Izák⟧ dětmi zaslíbení.
 
 [29] Ale jako tehdy ten, který se narodil podle těla, pronásledoval toho, který se narodil podle Ducha, tak je tomu i nyní.
 

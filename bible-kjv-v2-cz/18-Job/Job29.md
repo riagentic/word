@@ -1,17 +1,17 @@
 # Jób 29
 
-[1] Job pokračoval ve svém výroku a řekl:
+[1] ⟦job|Ijov|Jób⟧ pokračoval ve svém výroku a řekl:
 
 [2] „Kéž bych byl jako v minulých měsících,
-jako ve dnech, kdy nade mnou bděl Eloah,
+jako ve dnech, kdy nade mnou bděl ⟦eloah|Eloah|Bůh⟧,
 
 [3] kdy jeho lampa svítila nad mou hlavou
 a v jeho světle jsem procházel tmou;
 
 [4] jaký jsem byl v podzimu svých dnů,
-kdy nad mým stanem spočívalo přátelství Eloah,
+kdy nad mým stanem spočívalo přátelství ⟦eloah|Eloah|Boží⟧,
 
-[5] kdy byl Shaddai ještě se mnou,
+[5] kdy byl ⟦shaddai|Šaddaj|Všemohoucí⟧ ještě se mnou,
 kdy byli kolem mne moji mladí,
 
 [6] kdy se mé kroky koupaly ve smetaně

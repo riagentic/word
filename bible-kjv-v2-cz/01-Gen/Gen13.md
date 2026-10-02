@@ -1,32 +1,32 @@
 # Genesis 13
 
-[1] Tak Abram vystoupil z Egypta, on, jeho žena a všechno, co měl, a s ním Lot, do Negev.
+[1] Tak ⟦abram|Avram|Abram⟧ vystoupil z ⟦egypt|Micrajim|Egypta⟧, on, jeho žena a všechno, co měl, a s ním Lot, do ⟦negev|Negev|Negebu⟧.
 
-[2] Abram byl velmi bohatý na dobytek, na stříbro a na zlato.
+[2] ⟦abram|Avram|Abram⟧ byl velmi bohatý na dobytek, na stříbro a na zlato.
 
-[3] Putoval po etapách z Negev až k Bethelu, k místu, kde byl na počátku jeho stan, mezi Bethelem a Ai,
+[3] Putoval po etapách z ⟦negev|Negev|Negebu⟧ až k ⟦bethel|Bejt Elu|Bét-elu⟧, k místu, kde byl na počátku jeho stan, mezi ⟦bethel|Bejt Elem|Bét-elem⟧ a Aj,
 
-[4] k místu oltáře, který tam kdysi udělal; a tam Abram vzýval jméno Yahweh.
+[4] k místu oltáře, který tam kdysi udělal; a tam ⟦abram|Avram|Abram⟧ vzýval jméno ⟦yhwh|Jahveho|Hospodina⟧.
 
-[5] Také Lot, který šel s Abramem, měl brav, skot a stany.
+[5] Také Lot, který šel s ⟦abram|Avramem|Abramem⟧, měl brav, skot a stany.
 
 [6] Země je neuživila, aby bydleli spolu, neboť jejich majetek byl tak veliký, že nemohli bydlet pospolu,
 
-[7] a došlo ke sváru mezi pastevci Abramova dobytka a pastevci Lotova dobytka. V té době bydleli v zemi Canaanité a Perizzité.
+[7] a došlo ke sváru mezi pastevci ⟦abram|Avramova|Abramova⟧ dobytka a pastevci Lotova dobytka. V té době bydleli v zemi ⟦canaanites|Kenaanim|Kenaanci⟧ a ⟦perizzites|Perizzim|Perizejci⟧.
 
-[8] Tu Abram řekl Lotovi: „Prosím, ať není svár mezi mnou a tebou a mezi mými pastevci a tvými pastevci, neboť jsme bratři.
+[8] Tu ⟦abram|Avram|Abram⟧ řekl Lotovi: „Prosím, ať není svár mezi mnou a tebou a mezi mými pastevci a tvými pastevci, neboť jsme bratři.
 
 [9] Což není celá země před tebou? Prosím, odděl se ode mne. Půjdeš-li vlevo, půjdu vpravo; půjdeš-li vpravo, půjdu vlevo.“
 
-[10] Lot pozvedl oči a spatřil celou rovinu Jordanu, že je všude dobře zavlažený – bylo to předtím, než Yahweh zničil Sodom a Gomorrah –, jako zahrada Yahweh, jako egyptská země, směrem k Zoaru.
+[10] Lot pozvedl oči a spatřil celou rovinu ⟦jordan|Jardenu|Jordánu⟧, že je všude dobře zavlažený – bylo to předtím, než ⟦yhwh|Jahve|Hospodin⟧ zničil ⟦sodom|Sedom|Sodomu⟧ a ⟦gomorrah|Amoru|Gomoru⟧ –, jako zahrada ⟦yhwh|Jahveho|Hospodina⟧, jako egyptská země, směrem k ⟦zoar|Coaru|Sóaru⟧.
 
-[11] Lot si tedy vybral celou rovinu Jordanu a Lot táhl na východ; tak se od sebe oddělili.
+[11] Lot si tedy vybral celou rovinu ⟦jordan|Jardenu|Jordánu⟧ a Lot táhl na východ; tak se od sebe oddělili.
 
-[12] Abram bydlel v zemi Canaan a Lot bydlel mezi městy roviny a stanoval až k Sodomu.
+[12] ⟦abram|Avram|Abram⟧ bydlel v zemi Kenaan a Lot bydlel mezi městy roviny a stanoval až k ⟦sodom|Sedomu|Sodomě⟧.
 
-[13] Muži Sodomu však byli zlí a velcí hříšníci proti Yahweh.
+[13] Muži ⟦sodom|Sedomu|Sodomy⟧ však byli zlí a velcí hříšníci proti ⟦yhwh|Jahvovi|Hospodinu⟧.
 
-[14] Yahweh řekl Abramovi, když se od něho Lot oddělil: „Pozvedni nyní oči a rozhlédni se z místa, kde jsi – na sever, na jih, na východ i na západ;
+[14] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦abram|Avramovi|Abramovi⟧, když se od něho Lot oddělil: „Pozvedni nyní oči a rozhlédni se z místa, kde jsi – na sever, na jih, na východ i na západ;
 
 [15] neboť celou zemi, kterou vidíš, dám tobě a tvému potomstvu navěky.
 
@@ -34,7 +34,7 @@
 
 [17] Vstaň, projdi zemi v její délce i šířce, neboť tobě ji dám.“
 
-[18] Abram tedy přesunul svůj stan, přišel a usadil se u dubů Mamre, které jsou v Hebronu; a tam postavil oltář Yahweh.
+[18] ⟦abram|Avram|Abram⟧ tedy přesunul svůj stan, přišel a usadil se u dubů Mamre, které jsou v ⟦hebron|Chevronu|Chebrónu⟧; a tam postavil oltář ⟦yhwh|Jahvovi|Hospodinu⟧.
 
 ## Změny
 

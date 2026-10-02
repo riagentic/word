@@ -5,7 +5,7 @@ and station myself on the tower,
 and look out to see what he will say to me,
 and what I will answer concerning my complaint.
 
-[2] And Yahweh answered me:
+[2] And ⟦yhwh|Yahweh|the LORD⟧ answered me:
 
 "Write the vision;
 make it plain on tablets,
@@ -54,12 +54,12 @@ and the beam from the woodwork respond.
 [12] "Woe to him who builds a town with blood
 and founds a city on iniquity!
 
-[13] Behold, is it not from Yahweh of Hosts
+[13] Behold, is it not from ⟦yhwh|Yahweh|the LORD⟧ of Hosts
 that peoples labor merely for fire,
 and nations weary themselves for nothing?
 
 [14] For the earth will be filled
-with the knowledge of the glory of Yahweh,
+with the knowledge of the glory of ⟦yhwh|Yahweh|the LORD⟧,
 as the waters cover the sea.
 
 [15] "Woe to him who makes his neighbors drink —
@@ -68,10 +68,10 @@ in order to gaze at their nakedness!
 
 [16] You will have your fill of shame instead of glory.
 Drink, yourself, and show your uncircumcision!
-The cup in the right hand of Yahweh will come around to you,
+The cup in the right hand of ⟦yhwh|Yahweh|the LORD⟧ will come around to you,
 and utter shame will come upon your glory!
 
-[17] The violence done to Lebanon will overwhelm you,
+[17] The violence done to ⟦lebanon|Levanon|Lebanon⟧ will overwhelm you,
 as will the destruction of the beasts that terrified them,
 for the blood of man and violence to the earth,
 to cities and all who dwell in them.
@@ -88,7 +88,7 @@ Can this teach?
 Behold, it is overlaid with gold and silver,
 and there is no breath at all in it.
 
-[20] **But Yahweh is in his holy temple;
+[20] **But ⟦yhwh|Yahweh|the LORD⟧ is in his holy temple;
 let all the earth keep silence before him.**"
 
 ## Changes

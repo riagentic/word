@@ -1,6 +1,6 @@
 # Job 42
 
-[1] Then Job answered Yahweh and said:
+[1] Then ⟦job|Iyov|Job⟧ answered ⟦yhwh|Yahweh|the LORD⟧ and said:
 
 [2] "I know that you can do all things,
 and that no purpose of yours can be thwarted.
@@ -18,27 +18,27 @@ but now my eye sees you;
 [6] therefore I recant,
 and repent in dust and ashes."
 
-[7] After Yahweh had spoken these words to Job, Yahweh said to Eliphaz the Temanite, "My wrath is kindled against you and against your two friends, for you have not spoken rightly concerning me, as my servant Job has.
+[7] After ⟦yhwh|Yahweh|the LORD⟧ had spoken these words to ⟦job|Iyov|Job⟧, ⟦yhwh|Yahweh|the LORD⟧ said to ⟦eliphaz|Elifaz|Eliphaz⟧ the ⟦temanite|Temani|Temanite⟧, "My wrath is kindled against you and against your two friends, for you have not spoken rightly concerning me, as my servant ⟦job|Iyov|Job⟧ has.
 
-[8] Now therefore take seven bulls and seven rams, and go to my servant Job and offer up a burnt offering for yourselves; my servant Job shall pray for you, for him I will accept, lest I deal with you according to your folly. For you have not spoken rightly concerning me, as my servant Job has."
+[8] Now therefore take seven bulls and seven rams, and go to my servant ⟦job|Iyov|Job⟧ and offer up a burnt offering for yourselves; my servant ⟦job|Iyov|Job⟧ shall pray for you, for him I will accept, lest I deal with you according to your folly. For you have not spoken rightly concerning me, as my servant ⟦job|Iyov|Job⟧ has."
 
-[9] So Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite went and did what Yahweh had told them; Yahweh accepted Job.
+[9] So ⟦eliphaz|Elifaz|Eliphaz⟧ the ⟦temanite|Temani|Temanite⟧, Bildad the ⟦shuhite|Shuchi|Shuhite⟧, and ⟦zophar|Tzofar|Zophar⟧ the ⟦naamathite|Naamati|Naamathite⟧ went and did what ⟦yhwh|Yahweh|the LORD⟧ had told them; ⟦yhwh|Yahweh|the LORD⟧ accepted ⟦job|Iyov|Job⟧.
 
-[10] Yahweh restored the fortunes of Job when he prayed for his friends. Yahweh gave Job twice as much as he had before.
+[10] ⟦yhwh|Yahweh|The LORD⟧ restored the fortunes of ⟦job|Iyov|Job⟧ when he prayed for his friends. ⟦yhwh|Yahweh|The LORD⟧ gave ⟦job|Iyov|Job⟧ twice as much as he had before.
 
-[11] Then came to him all his brothers and all his sisters and all who had known him before, and ate bread with him in his house; they consoled him and comforted him for all the evil that Yahweh had brought upon him, and each gave him a qesitah — silver piece — and a ring of gold.
+[11] Then came to him all his brothers and all his sisters and all who had known him before, and ate bread with him in his house; they consoled him and comforted him for all the evil that ⟦yhwh|Yahweh|the LORD⟧ had brought upon him, and each gave him ⟦qesitah|a qesitah — silver piece —|a piece of money⟧ and a ring of gold.
 
-[12] Yahweh blessed the latter days of Job more than his beginning; he had fourteen thousand sheep, six thousand camels, a thousand yoke of oxen, and a thousand female donkeys.
+[12] ⟦yhwh|Yahweh|The LORD⟧ blessed the latter days of ⟦job|Iyov|Job⟧ more than his beginning; he had fourteen thousand sheep, six thousand camels, a thousand yoke of oxen, and a thousand female donkeys.
 
 [13] He also had seven sons and three daughters.
 
-[14] He called the name of the first Jemimah, the name of the second Keziah, and the name of the third Keren-happuch.
+[14] He called the name of the first ⟦jemimah|Yemimah|Jemimah⟧, the name of the second ⟦keziah|Qetziah|Keziah⟧, and the name of the third ⟦keren-happuch|Keren HaPuch|Keren-happuch⟧.
 
-[15] In all the land there were no women found so beautiful as Job's daughters; their father gave them an inheritance among their brothers.
+[15] In all the land there were no women found so beautiful as ⟦job|Iyov|Job⟧'s daughters; their father gave them an inheritance among their brothers.
 
-[16] After this Job lived one hundred forty years, and saw his children and his children's children — four generations.
+[16] After this ⟦job|Iyov|Job⟧ lived one hundred forty years, and saw his children and his children's children — four generations.
 
-[17] So Job died, old and full of days.
+[17] So ⟦job|Iyov|Job⟧ died, old and full of days.
 
 ## Changes
 

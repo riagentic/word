@@ -1,28 +1,28 @@
 # Nehemiah 1
 
-[1] The words of Nehemiah son of Hachaliah.
+[1] The words of ⟦nehemiah|Nechemyah|Nehemiah⟧ son of ⟦hachaliah|Chachalyah|Hacaliah⟧.
 
-In the month Kislev, in the twentieth year, as I was in Susa the citadel,
+In the month ⟦kislev|Kislev|Chislev⟧, in the twentieth year, as I was in ⟦susa|Shushan|Susa⟧ the citadel,
 
-[2] Hanani, one of my brothers, came, he and some men from Judah. I asked them about the Jews who had escaped, who were left of the captivity, and about Jerusalem.
+[2] ⟦hanani|Chanani|Hanani⟧, one of my brothers, came, he and some men from ⟦judah|Yehudah|Judah⟧. I asked them about the ⟦jews|Yehudim|Jews⟧ who had escaped, who were left of the captivity, and about ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[3] They said to me, "The remnant left of the captivity there in the province are in great affliction and reproach; the wall of Jerusalem is broken down, and its gates are burned with fire."
+[3] They said to me, "The remnant left of the captivity there in the province are in great affliction and reproach; the wall of ⟦jerusalem|Yerushalayim|Jerusalem⟧ is broken down, and its gates are burned with fire."
 
-[4] When I heard these words, I sat down and wept; I mourned for days, fasted, and prayed before the *Elohim* of heaven.
+[4] When I heard these words, I sat down and wept; I mourned for days, fasted, and prayed before the ⟦elohim|Elohim|God⟧ of heaven.
 
-[5] I said: "Please, O Yahweh the *Elohim* of heaven, the great and awesome El, who keeps covenant and steadfast love — with those who love him and keep his commandments,
+[5] I said: "Please, O ⟦yhwh|Yahweh|LORD⟧ the ⟦elohim|Elohim|God⟧ of heaven, the great and awesome ⟦el|El|God⟧, who keeps covenant and steadfast love — with those who love him and keep his commandments,
 
-[6] let your ear be attentive and your eyes open, to hear the prayer of your servant that I pray before you day and night for the children of Israel your servants. I confess the sins of the children of Israel, which we have sinned against you; I and my father's house have sinned.
+[6] let your ear be attentive and your eyes open, to hear the prayer of your servant that I pray before you day and night for the children of ⟦israel|Yisrael|Israel⟧ your servants. I confess the sins of the children of ⟦israel|Yisrael|Israel⟧, which we have sinned against you; I and my father's house have sinned.
 
-[7] We have acted very corruptly against you and have not kept the commandments, the statutes, or the ordinances that you commanded your servant Moses.
+[7] We have acted very corruptly against you and have not kept the commandments, the statutes, or the ordinances that you commanded your servant ⟦moses|Moshe|Moses⟧.
 
-[8] Remember the word that you commanded your servant Moses, saying, 'If you act unfaithfully, I will scatter you among the peoples;
+[8] Remember the word that you commanded your servant ⟦moses|Moshe|Moses⟧, saying, 'If you act unfaithfully, I will scatter you among the peoples;
 
 [9] but if you return to me and keep my commandments and do them, though your outcasts are at the farthest horizon, I will gather them from there and bring them to the place that I have chosen to set my name there.'
 
 [10] They are your servants and your people whom you redeemed by your great power and your strong hand.
 
-[11] O Lord, let your ear be attentive to the prayer of your servant and to the prayer of your servants who delight to fear your name. Give success, please, to your servant today, and grant him compassion — in the sight of this man."
+[11] O ⟦adonai|Adonai|Lord⟧, let your ear be attentive to the prayer of your servant and to the prayer of your servants who delight to fear your name. Give success, please, to your servant today, and grant him compassion — in the sight of this man."
 
 Now I was the king's cupbearer.
 

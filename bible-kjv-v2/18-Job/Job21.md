@@ -1,6 +1,6 @@
 # Job 21
 
-[1] Then Job answered and said:
+[1] Then ⟦job|Iyov|Job⟧ answered and said:
 
 [2] "Listen carefully to my speech,
 and let this be your consolation.
@@ -24,7 +24,7 @@ grow old, and mount in power?
 their descendants before their eyes.
 
 [9] Their houses are safe from fear;
-no rod of Eloah is on them.
+no rod of ⟦eloah|Eloah|God⟧ is on them.
 
 [10] Their bull mates and does not fail;
 their cow calves and does not miscarry.
@@ -38,10 +38,10 @@ they rejoice at the sound of the flute.
 [13] They spend their days in prosperity,
 and in peace they go down to Sheol.
 
-[14] They say to *Elohim*, 'Depart from us;
+[14] They say to ⟦el|El|God⟧, 'Depart from us;
 we desire not the knowledge of your ways.
 
-[15] What is Shaddai, that we should serve him?
+[15] What is ⟦shaddai|Shaddai|the Almighty⟧, that we should serve him?
 What profit should we have if we pray to him?'
 
 [16] Behold, their good is not in their hand;
@@ -49,21 +49,21 @@ the counsel of the wicked is far from me.
 
 [17] How often is the lamp of the wicked put out?
 How often does their calamity come upon them?
-Does Eloah apportion pains in his anger?
+Does ⟦eloah|Eloah|God⟧ apportion pains in his anger?
 
 [18] They are as stubble before the wind,
 as chaff that the storm carries away.
 
-[19] 'Eloah stores up the iniquity for his children' —
+[19] '⟦eloah|Eloah|God⟧ stores up the iniquity for his children' —
 let him repay it to the man himself, that he may know it.
 
 [20] Let his own eyes see his ruin;
-let him drink from the wrath of Shaddai.
+let him drink from the wrath of ⟦shaddai|Shaddai|the Almighty⟧.
 
 [21] For what is his pleasure in his house after him,
 when the number of his months is cut off?
 
-[22] Can one teach *Elohim* knowledge,
+[22] Can one teach ⟦el|El|God⟧ knowledge,
 when it is he who judges those on high?
 
 [23] One man dies in his full vigor,
@@ -105,6 +105,7 @@ Your answers remain falsehoods."
 
 ## Changes
 
+- **"God" → "El"** (v14, 22) — Hebrew אֵל *El*, not *Elohim*.
 - **"grave" → "Sheol"** (v13).
 - **"timbrel... organ" → "tambourine... flute"** (v12) — *toph... ugav*.
 - **"prince" → "noble"** (v28) — *nadiv*.

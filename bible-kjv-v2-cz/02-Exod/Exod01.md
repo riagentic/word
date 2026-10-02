@@ -1,48 +1,48 @@
 # Exodus 1
 
-[1] Toto jsou jména synů Israele, kteří přišli s Jacobem do Egypta, každý se svou domácností:
+[1] Toto jsou jména synů ⟦israel|Jisraele|Izraele⟧, kteří přišli s ⟦jacob|Jaakovem|Jákobem⟧ do ⟦egypt|Micrajim|Egypta⟧, každý se svou domácností:
 
-[2] Reuben, Simeon, Levi, Judah,
+[2] ⟦reuben|Reuven|Rúben⟧, ⟦simeon|Šimon|Šimeón⟧, ⟦levi|Levi|Lévi⟧, ⟦judah|Jehuda|Juda⟧,
 
-[3] Issachar, Zebulun, Benjamin,
+[3] ⟦issachar|Jissachar|Isachar⟧, ⟦zebulun|Zevulun|Zabulón⟧, ⟦benjamin|Binjamin|Benjamín⟧,
 
-[4] Dan, Naphtali, Gad a Asher.
+[4] Dan, ⟦naphtali|Naftali|Neftalí⟧, ⟦gad|Gad|Gád⟧ a Ašer.
 
-[5] Všech osob, které vzešly z Jacobových beder, bylo celkem 70; Joseph už byl v Egyptě.
+[5] Všech osob, které vzešly z ⟦jacob|Jaakovových|Jákobových⟧ beder, bylo celkem 70; Josef už byl v ⟦egypt|Micrajim|Egyptě⟧.
 
-[6] Potom zemřel Joseph i všichni jeho bratři a celé to pokolení.
+[6] Potom zemřel Josef i všichni jeho bratři a celé to pokolení.
 
-[7] Ale synové Israele byli plodní, hemžili se, množili se a byli nesmírně mocní; a země se jimi naplnila.
+[7] Ale synové ⟦israel|Jisraele|Izraele⟧ byli plodní, hemžili se, množili se a byli nesmírně mocní; a země se jimi naplnila.
 
-[8] Nad Egyptem povstal nový král, který Josepha neznal.
+[8] Nad ⟦egypt|Micrajim|Egyptem⟧ povstal nový král, který Josefa neznal.
 
-[9] Řekl svému lidu: „Hle, lid synů Israele je početnější a mocnější než my.
+[9] Řekl svému lidu: „Hle, lid synů ⟦israel|Jisraele|Izraele⟧ je početnější a mocnější než my.
 
 [10] Pojďte, jednejme s nimi lstivě, aby se nerozmnožili; a kdyby došlo k válce, mohli by se přidat k těm, kdo nás nenávidí, bojovat proti nám a odejít ze země.“
 
-[11] Ustanovili tedy nad nimi dozorce nad robotou, aby je utiskovali nucenou prací. Stavěli pro Pharaoha zásobovací města: Pithom a Raamses.
+[11] Ustanovili tedy nad nimi dozorce nad robotou, aby je utiskovali nucenou prací. Stavěli pro ⟦pharaoh|Paroha|faraóna⟧ zásobovací města: Pitom a ⟦raamses|Raamses|Ramses⟧.
 
-[12] Ale čím víc je utiskovali, tím víc se množili a tím víc se rozšiřovali. Egypťané se proto začali synů Israele děsit.
+[12] Ale čím víc je utiskovali, tím víc se množili a tím víc se rozšiřovali. ⟦egyptians|Micrim|Egypťané⟧ se proto začali synů ⟦israel|Jisraele|Izraele⟧ děsit.
 
-[13] Egypťané nutili syny Israele k otrocké práci s tvrdostí
+[13] ⟦egyptians|Micrim|Egypťané⟧ nutili syny ⟦israel|Jisraele|Izraele⟧ k otrocké práci s tvrdostí
 
 [14] a ztrpčovali jim život těžkou prací – s maltou a cihlami a všelijakou prací na poli. Při vší jejich službě je nutili pracovat s tvrdostí.
 
-[15] Egyptský král promluvil k hebrejským porodním bábám – jedna se jmenovala Shiphrah a druhá Puah –
+[15] Egyptský král promluvil k hebrejským porodním bábám – jedna se jmenovala Šifra a druhá ⟦puah|Pua|Púa⟧ –
 
 [16] a řekl: „Když budete pomáhat hebrejským ženám při porodu, dívejte se na porodní stolici: bude-li to syn, usmrťte ho; ale bude-li to dcera, ať žije.“
 
-[17] Ale porodní báby se bály *Elohim* a nedělaly, jak jim egyptský král nařídil, ale nechávaly chlapce naživu.
+[17] Ale porodní báby se bály ⟦elohim|Elohim|Boha⟧ a nedělaly, jak jim egyptský král nařídil, ale nechávaly chlapce naživu.
 
 [18] Egyptský král zavolal porodní báby a řekl jim: „Proč jste to udělaly a nechaly chlapce naživu?“
 
-[19] Porodní báby odpověděly Pharaohovi: „Protože hebrejské ženy nejsou jako egyptské ženy; jsou plné síly a porodí dřív, než k nim porodní bába přijde.“
+[19] Porodní báby odpověděly ⟦pharaoh|Parohovi|faraónovi⟧: „Protože hebrejské ženy nejsou jako egyptské ženy; jsou plné síly a porodí dřív, než k nim porodní bába přijde.“
 
-[20] *Elohim* tedy prokazoval porodním bábám dobro; a lid se množil a byl nesmírně mocný.
+[20] ⟦elohim|Elohim|Bůh⟧ tedy prokazoval porodním bábám dobro; a lid se množil a byl nesmírně mocný.
 
-[21] A protože se porodní báby bály *Elohim*, založil jim domácnosti.
+[21] A protože se porodní báby bály ⟦elohim|Elohim|Boha⟧, založil jim domácnosti.
 
-[22] Potom Pharaoh přikázal všemu svému lidu: „Každého syna, který se narodí, hoďte do Nile; ale každou dceru nechte naživu.“
+[22] Potom ⟦pharaoh|Paro|farao⟧ přikázal všemu svému lidu: „Každého syna, který se narodí, hoďte do ⟦nile|Jeoru|Nilu⟧; ale každou dceru nechte naživu.“
 
 ## Změny
 

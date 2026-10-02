@@ -1,8 +1,8 @@
 # Hosea 7
 
-[1] when I would heal Israel,
-the iniquity of Ephraim is revealed,
-and the evil deeds of Samaria;
+[1] when I would heal ⟦israel|Yisrael|Israel⟧,
+the iniquity of ⟦ephraim|Efrayim|Ephraim⟧ is revealed,
+and the evil deeds of ⟦samaria|Shomron|Samaria⟧;
 for they deal falsely;
 the thief breaks in,
 and the bandits raid outside.
@@ -34,20 +34,20 @@ and they devour their rulers.
 All their kings have fallen,
 and none of them calls upon me.
 
-[8] Ephraim mixes himself with the peoples;
-Ephraim is a cake not turned.
+[8] ⟦ephraim|Efrayim|Ephraim⟧ mixes himself with the peoples;
+⟦ephraim|Efrayim|Ephraim⟧ is a cake not turned.
 
 [9] Strangers devour his strength,
 and he knows it not;
 gray hairs are sprinkled upon him,
 and he knows it not.
 
-[10] The pride of Israel testifies to his face;
-yet they do not return to Yahweh their *Elohim*,
+[10] The pride of ⟦israel|Yisrael|Israel⟧ testifies to his face;
+yet they do not return to ⟦yhwh|Yahweh|the LORD⟧ their ⟦elohim|Elohim|God⟧,
 nor seek him, for all this.
 
-[11] Ephraim is like a dove, silly and without sense,
-calling to Egypt, going to Assyria.
+[11] ⟦ephraim|Efrayim|Ephraim⟧ is like a dove, silly and without sense,
+calling to ⟦egypt|Mitzrayim|Egypt⟧, going to ⟦assyria|Ashur|Assyria⟧.
 
 [12] As they go, I will spread over them my net;
 I will bring them down like birds of the heavens;
@@ -69,7 +69,7 @@ yet they devise evil against me.
 they are like a deceitful bow;
 their princes shall fall by the sword
 because of the insolence of their tongue.
-This shall be their derision in the land of Egypt.
+This shall be their derision in the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
 ## Changes
 

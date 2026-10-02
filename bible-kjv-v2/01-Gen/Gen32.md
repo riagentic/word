@@ -1,30 +1,30 @@
 # Genesis 32
 
-[1] Jacob went on his way, and messengers of *Elohim* met him.
+[1] ⟦jacob|Yaaqov|Jacob⟧ went on his way, and messengers of ⟦elohim|Elohim|God⟧ met him.
 
-[2] When Jacob saw them, he said, "This is *Elohim*'s camp!" So he called the name of that place Mahanaim ("two camps").
+[2] When ⟦jacob|Yaaqov|Jacob⟧ saw them, he said, "This is ⟦elohim|Elohim|God⟧'s camp!" So he called the name of that place ⟦mahanaim|Machanayim|Mahanaim⟧ ("two camps").
 
-[3] Jacob sent messengers ahead of him to Esau his brother in the land of Seir, the country of Edom.
+[3] ⟦jacob|Yaaqov|Jacob⟧ sent messengers ahead of him to ⟦esau|Esav|Esau⟧ his brother in the land of Seir, the country of Edom.
 
-[4] He commanded them, "Thus you shall say to my lord, to Esau: 'Thus says your servant Jacob: I have sojourned with Laban and stayed until now.
+[4] He commanded them, "Thus you shall say to my lord, to ⟦esau|Esav|Esau⟧: 'Thus says your servant ⟦jacob|Yaaqov|Jacob⟧: I have sojourned with ⟦laban|Lavan|Laban⟧ and stayed until now.
 
 [5] I have cattle, donkeys, flocks, and male and female slaves. And I have sent to tell my lord, that I may find favor in your sight.'"
 
-[6] The messengers returned to Jacob, saying, "We came to your brother Esau; and he is also coming to meet you, and 400 men are with him."
+[6] The messengers returned to ⟦jacob|Yaaqov|Jacob⟧, saying, "We came to your brother ⟦esau|Esav|Esau⟧; and he is also coming to meet you, and 400 men are with him."
 
-[7] Then Jacob was greatly afraid and distressed; and he divided the people with him, and the flocks and herds and camels, into two companies,
+[7] Then ⟦jacob|Yaaqov|Jacob⟧ was greatly afraid and distressed; and he divided the people with him, and the flocks and herds and camels, into two companies,
 
-[8] thinking, "If Esau comes to the one company and strikes it, then the company that is left shall escape."
+[8] thinking, "If ⟦esau|Esav|Esau⟧ comes to the one company and strikes it, then the company that is left shall escape."
 
-[9] And Jacob said, "O *Elohim* of my father Abraham and *Elohim* of my father Isaac, Yahweh who said to me, 'Return to your country and to your kindred, and I will deal well with you':
+[9] And ⟦jacob|Yaaqov|Jacob⟧ said, "O ⟦elohim|Elohim|God⟧ of my father ⟦abraham|Avraham|Abraham⟧ and ⟦elohim|Elohim|God⟧ of my father ⟦isaac|Yitzchaq|Isaac⟧, ⟦yhwh|Yahweh|the LORD⟧ who said to me, 'Return to your country and to your kindred, and I will deal well with you':
 
-[10] I am not worthy of the least of all the lovingkindnesses and of all the faithfulness that you have shown to your servant; for with only my staff I crossed this Jordan, and now I have become two companies.
+[10] I am not worthy of the least of all the lovingkindnesses and of all the faithfulness that you have shown to your servant; for with only my staff I crossed this ⟦jordan|Yarden|Jordan⟧, and now I have become two companies.
 
-[11] Please deliver me from the hand of my brother, from the hand of Esau; for I fear him, lest he come and strike me down — the mothers with the children.
+[11] Please deliver me from the hand of my brother, from the hand of ⟦esau|Esav|Esau⟧; for I fear him, lest he come and strike me down — the mothers with the children.
 
 [12] You yourself said, 'I will surely do you good, and make your offspring as the sand of the sea, which cannot be counted for multitude.'"
 
-[13] He spent that night there. He took from what he had with him a present for Esau his brother:
+[13] He spent that night there. He took from what he had with him a present for ⟦esau|Esav|Esau⟧ his brother:
 
 [14] two hundred female goats and twenty male goats, two hundred ewes and twenty rams,
 
@@ -32,37 +32,37 @@
 
 [16] He handed them over to his servants, every drove by itself, and said to his servants, "Pass on ahead of me, and put a space between drove and drove."
 
-[17] He commanded the first, saying, "When Esau my brother meets you and asks you, 'To whom do you belong? Where are you going? And whose are these before you?'
+[17] He commanded the first, saying, "When ⟦esau|Esav|Esau⟧ my brother meets you and asks you, 'To whom do you belong? Where are you going? And whose are these before you?'
 
-[18] then you shall say, 'They belong to your servant Jacob; it is a present sent to my lord Esau. And behold, he is just behind us.'"
+[18] then you shall say, 'They belong to your servant ⟦jacob|Yaaqov|Jacob⟧; it is a present sent to my lord ⟦esau|Esav|Esau⟧. And behold, he is just behind us.'"
 
-[19] He commanded the second also, and the third, and all those who followed the droves, saying, "In this manner you shall speak to Esau when you find him;
+[19] He commanded the second also, and the third, and all those who followed the droves, saying, "In this manner you shall speak to ⟦esau|Esav|Esau⟧ when you find him;
 
-[20] and you shall say, 'Behold, your servant Jacob is just behind us.'" For he said, "I will appease his face with the present that goes before me, and afterward I will see his face; perhaps he will lift up my face."
+[20] and you shall say, 'Behold, your servant ⟦jacob|Yaaqov|Jacob⟧ is just behind us.'" For he said, "I will appease his face with the present that goes before me, and afterward I will see his face; perhaps he will lift up my face."
 
 [21] So the present passed on before him, and he himself spent that night in the camp.
 
-[22] He arose that night, took his two wives, his two slave-girls, and his eleven children, and crossed the ford of the Jabbok.
+[22] He arose that night, took his two wives, his two slave-girls, and his eleven children, and crossed the ford of the ⟦jabbok|Yabboq|Jabbok⟧.
 
 [23] He took them and sent them across the wadi, and he sent across whatever he had.
 
-[24] And Jacob was left alone; and a man wrestled with him until daybreak.
+[24] And ⟦jacob|Yaaqov|Jacob⟧ was left alone; and a man wrestled with him until daybreak.
 
-[25] When the man saw that he could not prevail against him, he struck the socket of Jacob's thigh, and Jacob's thigh-socket was dislocated as he wrestled with him.
+[25] When the man saw that he could not prevail against him, he struck the socket of ⟦jacob|Yaaqov|Jacob⟧'s thigh, and ⟦jacob|Yaaqov|Jacob⟧'s thigh-socket was dislocated as he wrestled with him.
 
 [26] Then he said, "Let me go, for the dawn is breaking." But he said, "I will not let you go unless you bless me."
 
-[27] So he said to him, "What is your name?" And he said, "Jacob."
+[27] So he said to him, "What is your name?" And he said, "⟦jacob|Yaaqov|Jacob⟧."
 
-[28] He said, "Your name shall no longer be called Jacob, but Israel, for you have striven with *Elohim* and with men, and have prevailed."
+[28] He said, "Your name shall no longer be called ⟦jacob|Yaaqov|Jacob⟧, but ⟦israel|Yisrael|Israel⟧, for you have striven with ⟦elohim|Elohim|God⟧ and with men, and have prevailed."
 
-[29] Then Jacob asked and said, "Please tell me your name." But he said, "Why is it that you ask my name?" And he blessed him there.
+[29] Then ⟦jacob|Yaaqov|Jacob⟧ asked and said, "Please tell me your name." But he said, "Why is it that you ask my name?" And he blessed him there.
 
-[30] So Jacob called the name of the place Peniel, "for I have seen *Elohim* face to face, and my life has been delivered."
+[30] So ⟦jacob|Yaaqov|Jacob⟧ called the name of the place Peniel, "for I have seen ⟦elohim|Elohim|God⟧ face to face, and my life has been delivered."
 
 [31] The sun rose on him as he passed Penuel, and he limped because of his thigh.
 
-[32] Therefore to this day the children of Israel do not eat the sinew of the thigh-socket, which is upon the hip, because he struck the socket of Jacob's thigh, on the sinew of the hip.
+[32] Therefore to this day the children of ⟦israel|Yisrael|Israel⟧ do not eat the sinew of the thigh-socket, which is upon the hip, because he struck the socket of ⟦jacob|Yaaqov|Jacob⟧'s thigh, on the sinew of the hip.
 
 ## Changes
 

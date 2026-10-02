@@ -1,8 +1,8 @@
 # Leviticus 11
 
-[1] Yahweh promluvil k Mosesovi a Aaronovi a řekl jim:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a ⟦aaron|Aharonovi|Áronovi⟧ a řekl jim:
 
-[2] „Mluvte k synům Israele: ‚Toto jsou živí tvorové, které smíte jíst ze všech zvířat, která jsou na zemi.
+[2] „Mluvte k synům ⟦israel|Jisraele|Izraele⟧: ‚Toto jsou živí tvorové, které smíte jíst ze všech zvířat, která jsou na zemi.
 
 [3] Cokoli mezi zvířaty má rozdělené kopyto – rozpolcené vedví – a přežvykuje, to smíte jíst.
 
@@ -86,9 +86,9 @@
 
 [43] Nečiňte se odpornými žádným hemžícím se tvorem, který se hemží, a nečiňte se jimi nečistými, abyste se jimi poskvrnili.
 
-[44] Neboť já jsem Yahweh, váš *Elohim*; posvěťte se a buďte svatí, neboť já jsem svatý. Nebudete se poskvrňovat žádným hemžícím se tvorem, který se pohybuje po zemi.
+[44] Neboť já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧; posvěťte se a buďte svatí, neboť já jsem svatý. Nebudete se poskvrňovat žádným hemžícím se tvorem, který se pohybuje po zemi.
 
-[45] Neboť já jsem Yahweh, který vás vyvedl z egyptské země, abych byl vaším *Elohim*; buďte tedy svatí, neboť já jsem svatý.
+[45] Neboť já jsem ⟦yhwh|Jahve|Hospodin⟧, který vás vyvedl z egyptské země, abych byl vaším ⟦elohim|Elohim|Bohem⟧; buďte tedy svatí, neboť já jsem svatý.
 
 [46] Toto je zákon o zvířatech, o ptácích, o každém živém tvoru, který se pohybuje ve vodách, a o každém tvoru, který se hemží po zemi,
 

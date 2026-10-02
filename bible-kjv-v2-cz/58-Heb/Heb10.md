@@ -1,6 +1,6 @@
 # Židům 10
 
-[1] Protože Torah má jen stín budoucích dobrých věcí, a ne pravou podobu těchto skutečností, nemůže nikdy týmiž oběťmi, které se rok co rok stále přinášejí, přivést k dokonalosti ty, kdo přistupují.
+[1] Protože ⟦torah|Tóra|zákon⟧ má jen stín budoucích dobrých věcí, a ne pravou podobu těchto skutečností, nemůže nikdy týmiž oběťmi, které se rok co rok stále přinášejí, přivést k dokonalosti ty, kdo přistupují.
 
 [2] Jinak by je snad nepřestali přinášet, když by ti, kdo se klaní, jednou očištěni, už neměli žádné vědomí hříchů?
 
@@ -8,33 +8,33 @@
 
 [4] Je totiž nemožné, aby krev býků a kozlů odnímala hříchy.
 
-[5] Proto když *Mashiach* přicházel na svět, řekl:
+[5] Proto když ⟦mashiach|Mašiach|Kristus⟧ přicházel na svět, řekl:
 
 „**Oběti a dary jsi nechtěl,
 ale tělo jsi mi připravil;
 [6] v celopalech a obětech za hřích
 jsi nenašel zalíbení.
-[7] Tehdy jsem řekl: ‚Hle, přišel jsem, abych činil tvou vůli, *Elohim*,
+[7] Tehdy jsem řekl: ‚Hle, přišel jsem, abych činil tvou vůli, ⟦elohim|Elohim|Bože⟧,
 jak je o mně napsáno ve svitku knihy.‘**“
 
-[8] Když nejprve řekl: „Oběti a dary, celopaly a oběti za hřích jsi nechtěl, ani jsi v nich nenašel zalíbení“ (ty se přinášejí podle Torah),
+[8] Když nejprve řekl: „Oběti a dary, celopaly a oběti za hřích jsi nechtěl, ani jsi v nich nenašel zalíbení“ (ty se přinášejí podle ⟦torah|Tóry|zákona⟧),
 
 [9] pak dodal: „Hle, přišel jsem, abych činil tvou vůli.“ Ruší to první, aby ustanovil to druhé.
 
-[10] A v této vůli **jsme byli posvěceni obětováním těla *Yeshuy* *Mashiacha* jednou provždy**.
+[10] A v této vůli **jsme byli posvěceni obětováním těla ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧ jednou provždy**.
 
 [11] Každý kněz stojí den co den při své službě a opakovaně přináší tytéž oběti, které nikdy nemohou odstranit hříchy.
 
-[12] Když však *Mashiach* přinesl jedinou oběť za hříchy platnou navždy, usedl po pravici *Elohim*
+[12] Když však ⟦mashiach|Mašiach|Kristus⟧ přinesl jedinou oběť za hříchy platnou navždy, usedl po pravici ⟦elohim|Elohim|Boží⟧
 
 [13] a od té doby čeká, až budou jeho nepřátelé položeni za podnož jeho nohou.
 
 [14] Jedinou obětí totiž navždy přivedl k dokonalosti ty, kdo jsou posvěcováni.
 
-[15] Dosvědčuje nám to i *Ruach HaQodesh*; když totiž nejprve řekl:
+[15] Dosvědčuje nám to i ⟦ruach-haqodesh|Ruach HaKodeš|Duch svatý⟧; když totiž nejprve řekl:
 
 [16] „**Toto je smlouva, kterou s nimi uzavřu
-po oněch dnech, praví Pán:
+po oněch dnech, praví ⟦yhwh|Jahve|Pán⟧:
 Vložím své zákony do jejich srdcí
 a napíšu je do jejich mysli**,“
 
@@ -44,11 +44,11 @@ a napíšu je do jejich mysli**,“
 
 [18] Kde je však jejich odpuštění, tam už není třeba oběti za hřích.
 
-[19] Protože tedy, bratři, máme důvěru vstoupit do svatyně skrze krev *Yeshuy*,
+[19] Protože tedy, bratři, máme důvěru vstoupit do svatyně skrze krev ⟦yeshua|Ješuy|Ježíše⟧,
 
 [20] novou a živou cestou, kterou nám otevřel skrze oponu, to jest skrze své tělo,
 
-[21] a protože máme velikého kněze nad domem *Elohim*,
+[21] a protože máme velikého kněze nad domem ⟦elohim|Elohim|Božím⟧,
 
 [22] přistupme s opravdovým srdcem v plné jistotě víry, se srdci pokropením očištěnými od zlého svědomí a s těly omytými čistou vodou.
 
@@ -62,13 +62,13 @@ a napíšu je do jejich mysli**,“
 
 [27] ale jen hrozné očekávání soudu a prudký oheň, který pohltí protivníky.
 
-[28] Kdo pohrdl zákonem Mosese, umírá bez milosti na svědectví dvou nebo tří svědků.
+[28] Kdo pohrdl ⟦torah|Tórou|zákonem⟧ ⟦moses|Moše|Mojžíše⟧, umírá bez milosti na svědectví dvou nebo tří svědků.
 
-[29] Oč horší trest podle vás zaslouží ten, kdo pošlapal Syna *Elohim*, znesvětil krev smlouvy, jíž byl posvěcen, a potupil Ducha milosti?
+[29] Oč horší trest podle vás zaslouží ten, kdo pošlapal Syna ⟦elohim|Elohim|Božího⟧, znesvětil krev smlouvy, jíž byl posvěcen, a potupil Ducha milosti?
 
-[30] Známe přece toho, který řekl: „**Moje je pomsta, já odplatím**.“ A znovu: „**Pán bude soudit svůj lid**.“
+[30] Známe přece toho, který řekl: „**Moje je pomsta, já odplatím**.“ A znovu: „**⟦yhwh|Jahve|Pán⟧ bude soudit svůj lid**.“
 
-[31] Strašné je upadnout do rukou živého *Elohim*.
+[31] Strašné je upadnout do rukou živého ⟦elohim|Elohim|Boha⟧.
 
 [32] Rozpomeňte se však na dřívější dny, kdy jste po svém osvícení vydrželi těžký zápas s utrpením,
 
@@ -78,7 +78,7 @@ a napíšu je do jejich mysli**,“
 
 [35] Neodhazujte proto svou důvěru, která má velikou odměnu.
 
-[36] Potřebujete totiž vytrvalost, abyste po vykonání vůle *Elohim* obdrželi, co je zaslíbeno.
+[36] Potřebujete totiž vytrvalost, abyste po vykonání vůle ⟦elohim|Elohim|Boží⟧ obdrželi, co je zaslíbeno.
 
 [37] Neboť:
 

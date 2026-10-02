@@ -1,24 +1,24 @@
 # Jan 13
 
-[1] Před svátkem Paschy, když *Yeshua* věděl, že přišla jeho hodina, aby odešel z tohoto světa k Otci, projevil svým, kteří byli na světě a které miloval, lásku až do konce.
+[1] Před svátkem ⟦pesach|Pesachu|velikonoc⟧, když ⟦yeshua|Ješua|Ježíš⟧ věděl, že přišla jeho hodina, aby odešel z tohoto světa k Otci, projevil svým, kteří byli na světě a které miloval, lásku až do konce.
 
-[2] Při večeři, když už ďábel vložil do srdce Judase Iscariota, syna Simonova, aby ho zradil,
+[2] Při večeři, když už ďábel vložil do srdce ⟦judas|Jehudy|Jidáše⟧ ⟦iscariot|Iškariota|Iškariotského⟧, syna Šimonova, aby ho zradil,
 
-[3] *Yeshua*, věda, že mu Otec dal všechno do rukou a že od *Elohim* vyšel a k *Elohim* se vrací,
+[3] ⟦yeshua|Ješua|Ježíš⟧, věda, že mu Otec dal všechno do rukou a že od ⟦elohim|Elohim|Boha⟧ vyšel a k ⟦elohim|Elohim|Bohu⟧ se vrací,
 
 [4] vstal od večeře. Odložil svrchní oděv, vzal ručník a opásal se jím.
 
 [5] Potom nalil vodu do umyvadla a začal učedníkům umývat nohy a utírat je ručníkem, kterým byl opásán.
 
-[6] Přišel k Simonovi *Kefovi* a ten mu řekl: „Pane, ty mi chceš umývat nohy?“
+[6] Přišel k Šimonovi ⟦peter|Kefovi|Petrovi⟧ a ten mu řekl: „Pane, ty mi chceš umývat nohy?“
 
-[7] *Yeshua* mu odpověděl: „Co činím, nyní nechápeš, ale později to pochopíš.“
+[7] ⟦yeshua|Ješua|Ježíš⟧ mu odpověděl: „Co činím, nyní nechápeš, ale později to pochopíš.“
 
-[8] *Kefa* mu řekl: „Nikdy mi nebudeš umývat nohy!“ *Yeshua* mu odpověděl: „Jestliže tě neumyji, nemáš se mnou podíl.“
+[8] ⟦peter|Kefa|Petr⟧ mu řekl: „Nikdy mi nebudeš umývat nohy!“ ⟦yeshua|Ješua|Ježíš⟧ mu odpověděl: „Jestliže tě neumyji, nemáš se mnou podíl.“
 
-[9] Simon *Kefa* mu řekl: „Pane, pak nejen nohy, ale i ruce a hlavu!“
+[9] Šimon ⟦peter|Kefa|Petr⟧ mu řekl: „Pane, pak nejen nohy, ale i ruce a hlavu!“
 
-[10] *Yeshua* mu řekl: „Kdo se vykoupal, nepotřebuje se umývat, leda nohy, ale je celý čistý. I vy jste čistí, ale ne všichni.“
+[10] ⟦yeshua|Ješua|Ježíš⟧ mu řekl: „Kdo se vykoupal, nepotřebuje se umývat, leda nohy, ale je celý čistý. I vy jste čistí, ale ne všichni.“
 
 [11] Věděl totiž, kdo ho zradí; proto řekl: „Nejste všichni čistí.“
 
@@ -40,41 +40,41 @@
 
 [20] Vpravdě, vpravdě vám říkám, kdo přijímá toho, koho pošlu, přijímá mne, a kdo přijímá mne, přijímá toho, který mě poslal.“
 
-[21] Když to *Yeshua* řekl, byl rozrušen v duchu a dosvědčil: „Vpravdě, vpravdě vám říkám, jeden z vás mě zradí.“
+[21] Když to ⟦yeshua|Ješua|Ježíš⟧ řekl, byl rozrušen v duchu a dosvědčil: „Vpravdě, vpravdě vám říkám, jeden z vás mě zradí.“
 
 [22] Učedníci se dívali jeden na druhého a nevěděli, o kom mluví.
 
-[23] Jeden z jeho učedníků, kterého *Yeshua* miloval, byl u stolu po *Yeshuově* boku,
+[23] Jeden z jeho učedníků, kterého ⟦yeshua|Ješua|Ježíš⟧ miloval, byl u stolu po ⟦yeshua|Ješuově|Ježíšově⟧ boku,
 
-[24] a tak mu Simon *Kefa* pokynul, aby se zeptal *Yeshuy*, o kom mluví.
+[24] a tak mu Šimon ⟦peter|Kefa|Petr⟧ pokynul, aby se zeptal ⟦yeshua|Ješuy|Ježíše⟧, o kom mluví.
 
-[25] Onen učedník se tedy naklonil k *Yeshuovi* a řekl mu: „Pane, kdo to je?“
+[25] Onen učedník se tedy naklonil k ⟦yeshua|Ješuovi|Ježíšovi⟧ a řekl mu: „Pane, kdo to je?“
 
-[26] *Yeshua* odpověděl: „Je to ten, komu podám tento kousek chleba, až ho omočím.“ Omočil tedy kousek a podal ho Judasovi, synu Simona Iscariota.
+[26] ⟦yeshua|Ješua|Ježíš⟧ odpověděl: „Je to ten, komu podám tento kousek chleba, až ho omočím.“ Omočil tedy kousek a podal ho ⟦judas|Jehudovi|Jidášovi⟧, synu Šimona ⟦iscariot|Iškariota|Iškariotského⟧.
 
-[27] Jakmile ten kousek přijal, vstoupil do něho Satan. *Yeshua* mu řekl: „Co chceš udělat, udělej rychle.“
+[27] Jakmile ten kousek přijal, vstoupil do něho Satan. ⟦yeshua|Ješua|Ježíš⟧ mu řekl: „Co chceš udělat, udělej rychle.“
 
 [28] Nikdo z těch, kdo byli u stolu, však nepochopil, proč mu to řekl.
 
-[29] Někteří se domnívali, že protože Judas měl pokladnici, *Yeshua* mu říká: „Nakup, co potřebujeme na svátek,“ nebo aby dal něco chudým.
+[29] Někteří se domnívali, že protože ⟦judas|Jehuda|Jidáš⟧ měl pokladnici, ⟦yeshua|Ješua|Ježíš⟧ mu říká: „Nakup, co potřebujeme na svátek,“ nebo aby dal něco chudým.
 
 [30] Když tedy přijal ten kousek chleba, hned vyšel ven. **Byla noc.**
 
-[31] Když vyšel, *Yeshua* řekl: „Nyní je oslaven Syn člověka a *Elohim* je oslaven v něm.
+[31] Když vyšel, ⟦yeshua|Ješua|Ježíš⟧ řekl: „Nyní je oslaven Syn člověka a ⟦elohim|Elohim|Bůh⟧ je oslaven v něm.
 
-[32] Je-li *Elohim* oslaven v něm, také *Elohim* oslaví jeho v sobě, a oslaví ho hned.
+[32] Je-li ⟦elohim|Elohim|Bůh⟧ oslaven v něm, také ⟦elohim|Elohim|Bůh⟧ oslaví jeho v sobě, a oslaví ho hned.
 
-[33] Dětičky, ještě krátce jsem s vámi. Budete mě hledat, a jak jsem řekl Židům, tak nyní říkám i vám: ‚Kam já jdu, tam vy přijít nemůžete.‘
+[33] Dětičky, ještě krátce jsem s vámi. Budete mě hledat, a jak jsem řekl ⟦jews|Jehudim|Židům⟧, tak nyní říkám i vám: ‚Kam já jdu, tam vy přijít nemůžete.‘
 
 [34] **Nové přikázání vám dávám, abyste se navzájem milovali: jako jsem já miloval vás, tak se i vy máte navzájem milovat.**
 
 **[35] Podle toho všichni poznají, že jste moji učedníci, budete-li mít lásku jeden k druhému.**“
 
-[36] Simon *Kefa* mu řekl: „Pane, kam jdeš?“ *Yeshua* mu odpověděl: „Kam já jdu, tam mě nyní následovat nemůžeš, ale později mě následovat budeš.“
+[36] Šimon ⟦peter|Kefa|Petr⟧ mu řekl: „Pane, kam jdeš?“ ⟦yeshua|Ješua|Ježíš⟧ mu odpověděl: „Kam já jdu, tam mě nyní následovat nemůžeš, ale později mě následovat budeš.“
 
-[37] *Kefa* mu řekl: „Pane, proč tě nemohu následovat nyní? Svůj život za tebe položím.“
+[37] ⟦peter|Kefa|Petr⟧ mu řekl: „Pane, proč tě nemohu následovat nyní? Svůj život za tebe položím.“
 
-[38] *Yeshua* odpověděl: „Svůj život za mne položíš? Vpravdě, vpravdě ti říkám, kohout nezakokrhá, dokud mě třikrát nezapřeš.“
+[38] ⟦yeshua|Ješua|Ježíš⟧ odpověděl: „Svůj život za mne položíš? Vpravdě, vpravdě ti říkám, kohout nezakokrhá, dokud mě třikrát nezapřeš.“
 
 ## Změny
 

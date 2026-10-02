@@ -53,7 +53,7 @@ but deliver us from the evil one."
 
 [23] but if your eye is bad, your whole body will be full of darkness. If then the light in you is darkness, how great is the darkness!
 
-[24] "No one can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve *Elohim* and money.
+[24] "No one can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve ⟦elohim|Elohim|God⟧ and money.
 
 [25] "Therefore I tell you, do not be anxious about your life, what you will eat or what you will drink, nor about your body, what you will put on. Is not life more than food, and the body more than clothing?
 
@@ -63,15 +63,15 @@ but deliver us from the evil one."
 
 [28] And why are you anxious about clothing? Consider the lilies of the field, how they grow: they neither toil nor spin,
 
-[29] yet I tell you, even Solomon in all his glory was not arrayed like one of these.
+[29] yet I tell you, even ⟦solomon|Shlomo|Solomon⟧ in all his glory was not arrayed like one of these.
 
-[30] But if *Elohim* so clothes the grass of the field, which today is alive and tomorrow is thrown into the oven, will he not much more clothe you, O you of little faith?
+[30] But if ⟦elohim|Elohim|God⟧ so clothes the grass of the field, which today is alive and tomorrow is thrown into the oven, will he not much more clothe you, O you of little faith?
 
 [31] Therefore do not be anxious, saying, 'What shall we eat?' or 'What shall we drink?' or 'What shall we wear?'
 
 [32] For the Gentiles seek after all these things, and your heavenly Father knows that you need them all.
 
-[33] **But seek first the kingdom of *Elohim* and his righteousness, and all these things will be added to you.**
+[33] **But seek first the kingdom of ⟦elohim|Elohim|God⟧ and his righteousness, and all these things will be added to you.**
 
 [34] Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble."
 

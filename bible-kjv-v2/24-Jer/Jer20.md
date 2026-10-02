@@ -1,18 +1,18 @@
 # Jeremiah 20
 
-[1] Now Pashhur son of Immer, the priest, who was chief officer in the house of Yahweh, heard Jeremiah prophesying these things.
+[1] Now ⟦pashhur|Pashchur|Pashhur⟧ son of Immer, the priest, who was chief officer in the house of ⟦yhwh|Yahweh|the LORD⟧, heard ⟦jeremiah|Yirmeyahu|Jeremiah⟧ prophesying these things.
 
-[2] Then Pashhur beat Jeremiah the prophet and put him in the stocks that were in the upper Benjamin Gate of the house of Yahweh.
+[2] Then ⟦pashhur|Pashchur|Pashhur⟧ beat ⟦jeremiah|Yirmeyahu|Jeremiah⟧ the prophet and put him in the stocks that were in the upper ⟦benjamin|Binyamin|Benjamin⟧ Gate of the house of ⟦yhwh|Yahweh|the LORD⟧.
 
-[3] The next day, when Pashhur released Jeremiah from the stocks, Jeremiah said to him, "Yahweh does not call your name Pashhur, but Terror on Every Side.
+[3] The next day, when ⟦pashhur|Pashchur|Pashhur⟧ released ⟦jeremiah|Yirmeyahu|Jeremiah⟧ from the stocks, ⟦jeremiah|Yirmeyahu|Jeremiah⟧ said to him, "⟦yhwh|Yahweh|The LORD⟧ does not call your name ⟦pashhur|Pashchur|Pashhur⟧, but ⟦magor-missabib|Magor Missaviv — Terror on Every Side|Terror on Every Side⟧.
 
-[4] For thus says Yahweh: Behold, I will make you a terror to yourself and to all your friends. They shall fall by the sword of their enemies while you look on. And I will give all Judah into the hand of the king of Babylon. He shall carry them captive to Babylon, and shall strike them down with the sword.
+[4] For thus says ⟦yhwh|Yahweh|the LORD⟧: Behold, I will make you a terror to yourself and to all your friends. They shall fall by the sword of their enemies while you look on. And I will give all ⟦judah|Yehudah|Judah⟧ into the hand of the king of ⟦babylon|Bavel|Babylon⟧. He shall carry them captive to ⟦babylon|Bavel|Babylon⟧, and shall strike them down with the sword.
 
-[5] Moreover, I will give all the wealth of the city, all its gains, all its prized belongings, and all the treasures of the kings of Judah into the hand of their enemies, who shall plunder them and seize them and carry them to Babylon.
+[5] Moreover, I will give all the wealth of the city, all its gains, all its prized belongings, and all the treasures of the kings of ⟦judah|Yehudah|Judah⟧ into the hand of their enemies, who shall plunder them and seize them and carry them to ⟦babylon|Bavel|Babylon⟧.
 
-[6] And you, Pashhur, and all who dwell in your house, shall go into captivity. To Babylon you shall go, and there you shall die, and there you shall be buried, you and all your friends, to whom you have prophesied falsely."
+[6] And you, ⟦pashhur|Pashchur|Pashhur⟧, and all who dwell in your house, shall go into captivity. To ⟦babylon|Bavel|Babylon⟧ you shall go, and there you shall die, and there you shall be buried, you and all your friends, to whom you have prophesied falsely."
 
-[7] O Yahweh, you have deceived me,
+[7] O ⟦yhwh|Yahweh|LORD⟧, you have deceived me,
 and I was deceived;
 you are stronger than I,
 and you have prevailed.
@@ -21,7 +21,7 @@ everyone mocks me.
 
 [8] For whenever I speak, I cry out,
 I shout, "Violence and destruction!"
-For the word of Yahweh has become for me
+For the word of ⟦yhwh|Yahweh|the LORD⟧ has become for me
 a reproach and derision all day long.
 
 [9] If I say, "I will not mention him,
@@ -40,7 +40,7 @@ watching for my fall.
 then we can overcome him
 and take our revenge on him."
 
-[11] But Yahweh is with me as a dread warrior;
+[11] But ⟦yhwh|Yahweh|the LORD⟧ is with me as a dread warrior;
 therefore my persecutors will stumble;
 they will not overcome me.
 They will be greatly shamed,
@@ -48,13 +48,13 @@ for they will not succeed.
 Their eternal dishonor
 will never be forgotten.
 
-[12] O Yahweh of Hosts, who tests the righteous,
+[12] O ⟦yhwh|Yahweh|LORD⟧ of Hosts, who tests the righteous,
 who sees the inmost being and the heart,
 let me see your vengeance upon them,
 for to you have I committed my cause.
 
-[13] Sing to Yahweh;
-praise Yahweh!
+[13] Sing to ⟦yhwh|Yahweh|the LORD⟧;
+praise ⟦yhwh|Yahweh|the LORD⟧!
 For he has delivered the life of the needy
 from the hand of evildoers.
 
@@ -68,7 +68,7 @@ let it not be blessed!
 making him very glad.
 
 [16] Let that man be like the cities
-that Yahweh overthrew without pity;
+that ⟦yhwh|Yahweh|the LORD⟧ overthrew without pity;
 let him hear a cry in the morning
 and an alarm at noon,
 

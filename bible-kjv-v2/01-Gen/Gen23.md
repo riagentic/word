@@ -2,43 +2,43 @@
 
 [1] Sarah lived 127 years; these were the years of the life of Sarah.
 
-[2] And Sarah died at Kiriath-Arba (that is, Hebron) in the land of Canaan; and Abraham came to mourn for Sarah and to weep for her.
+[2] And Sarah died at ⟦kiriath-arba|Qiryat Arba|Kiriath-Arba⟧ (that is, ⟦hebron|Chevron|Hebron⟧) in the land of ⟦canaan|Kenaan|Canaan⟧; and ⟦abraham|Avraham|Abraham⟧ came to mourn for Sarah and to weep for her.
 
-[3] Abraham rose up from before his dead and spoke to the sons of Heth, saying,
+[3] ⟦abraham|Avraham|Abraham⟧ rose up from before his dead and spoke to the sons of ⟦heth|Chet|Heth⟧, saying,
 
 [4] "I am a resident alien and a sojourner among you; give me a burial holding among you, that I may bury my dead from before my face."
 
-[5] The sons of Heth answered Abraham, saying to him,
+[5] The sons of ⟦heth|Chet|Heth⟧ answered ⟦abraham|Avraham|Abraham⟧, saying to him,
 
-[6] "Hear us, my lord. You are a prince of *Elohim* among us; bury your dead in the choicest of our burial-places. None of us will withhold from you his burial-place for burying your dead."
+[6] "Hear us, my lord. You are a prince of ⟦elohim|Elohim|God⟧ among us; bury your dead in the choicest of our burial-places. None of us will withhold from you his burial-place for burying your dead."
 
-[7] Abraham rose up and bowed down to the people of the land, to the sons of Heth.
+[7] ⟦abraham|Avraham|Abraham⟧ rose up and bowed down to the people of the land, to the sons of ⟦heth|Chet|Heth⟧.
 
-[8] He spoke with them, saying, "If it is your desire that I should bury my dead from before my face, hear me and intercede for me with Ephron son of Zohar,
+[8] He spoke with them, saying, "If it is your desire that I should bury my dead from before my face, hear me and intercede for me with ⟦ephron|Efron|Ephron⟧ son of ⟦zohar|Tzochar|Zohar⟧,
 
 [9] that he may give me the cave of Machpelah that is his, at the end of his field; let him give it to me for the full price, among you, for a burial holding."
 
-[10] Now Ephron was sitting among the sons of Heth; and Ephron the Hittite answered Abraham in the hearing of the sons of Heth, of all who entered at the gate of his city, saying,
+[10] Now ⟦ephron|Efron|Ephron⟧ was sitting among the sons of ⟦heth|Chet|Heth⟧; and ⟦ephron|Efron|Ephron⟧ the ⟦hittite|Chitti|Hittite⟧ answered ⟦abraham|Avraham|Abraham⟧ in the hearing of the sons of ⟦heth|Chet|Heth⟧, of all who entered at the gate of his city, saying,
 
 [11] "No, my lord, hear me. I give you the field, and the cave that is in it I give to you; in the sight of the sons of my people I give it to you. Bury your dead."
 
-[12] Then Abraham bowed down before the people of the land,
+[12] Then ⟦abraham|Avraham|Abraham⟧ bowed down before the people of the land,
 
-[13] and he spoke to Ephron in the hearing of the people of the land, saying, "But if you will, please hear me: I give the price of the field; take it from me, and I will bury my dead there."
+[13] and he spoke to ⟦ephron|Efron|Ephron⟧ in the hearing of the people of the land, saying, "But if you will, please hear me: I give the price of the field; take it from me, and I will bury my dead there."
 
-[14] Ephron answered Abraham, saying to him,
+[14] ⟦ephron|Efron|Ephron⟧ answered ⟦abraham|Avraham|Abraham⟧, saying to him,
 
 [15] "My lord, listen to me: land worth 400 shekels of silver — what is that between me and you? Bury your dead."
 
-[16] Abraham listened to Ephron; and Abraham weighed out to Ephron the silver that he had named in the hearing of the sons of Heth — 400 shekels of silver, according to the weights current among the merchants.
+[16] ⟦abraham|Avraham|Abraham⟧ listened to ⟦ephron|Efron|Ephron⟧; and ⟦abraham|Avraham|Abraham⟧ weighed out to ⟦ephron|Efron|Ephron⟧ the silver that he had named in the hearing of the sons of ⟦heth|Chet|Heth⟧ — 400 shekels of silver, according to the weights current among the merchants.
 
-[17] So the field of Ephron, which was at Machpelah, which was before Mamre — the field and the cave that was in it, and all the trees that were in the field, within all its surrounding borders — were made over
+[17] So the field of ⟦ephron|Efron|Ephron⟧, which was at Machpelah, which was before Mamre — the field and the cave that was in it, and all the trees that were in the field, within all its surrounding borders — were made over
 
-[18] to Abraham as a possession in the sight of the sons of Heth, before all who entered at the gate of his city.
+[18] to ⟦abraham|Avraham|Abraham⟧ as a possession in the sight of the sons of ⟦heth|Chet|Heth⟧, before all who entered at the gate of his city.
 
-[19] After this Abraham buried Sarah his wife in the cave of the field of Machpelah before Mamre (that is, Hebron) in the land of Canaan.
+[19] After this ⟦abraham|Avraham|Abraham⟧ buried Sarah his wife in the cave of the field of Machpelah before Mamre (that is, ⟦hebron|Chevron|Hebron⟧) in the land of ⟦canaan|Kenaan|Canaan⟧.
 
-[20] So the field and the cave that was in it were made over to Abraham as a burial holding from the sons of Heth.
+[20] So the field and the cave that was in it were made over to ⟦abraham|Avraham|Abraham⟧ as a burial holding from the sons of ⟦heth|Chet|Heth⟧.
 
 ## Changes
 

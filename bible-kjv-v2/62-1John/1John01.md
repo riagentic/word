@@ -4,15 +4,15 @@
 
 [2] the life was made manifest, and we have seen it, and testify to it and proclaim to you the eternal life, which was with the Father and was made manifest to us —
 
-[3] that which we have seen and heard we proclaim also to you, so that you too may have fellowship with us; and indeed our fellowship is with the Father and with his Son *Yeshua* the *Mashiach*.
+[3] that which we have seen and heard we proclaim also to you, so that you too may have fellowship with us; and indeed our fellowship is with the Father and with his Son ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧.
 
 [4] And we are writing these things so that our joy may be complete.
 
-[5] This is the message we have heard from him and proclaim to you, that ***Elohim* is light, and in him is no darkness at all**.
+[5] This is the message we have heard from him and proclaim to you, that **⟦elohim|Elohim|God⟧ is light, and in him is no darkness at all**.
 
 [6] If we say we have fellowship with him while we walk in darkness, we lie and do not practice the truth.
 
-[7] But **if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of *Yeshua* his Son cleanses us from all sin**.
+[7] But **if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of ⟦yeshua|Yeshua|Jesus⟧ his Son cleanses us from all sin**.
 
 [8] If we say we have no sin, we deceive ourselves, and the truth is not in us.
 

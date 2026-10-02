@@ -22,24 +22,24 @@
 
 '**The stone that the builders rejected
 has become the cornerstone;
-[11] this was the Lord's doing,
+[11] this was ⟦yhwh|Yahweh's|the Lord's⟧ doing,
 and it is marvelous in our eyes**'?"
 
 [12] And they were seeking to arrest him but feared the people, for they perceived that he had told the parable against them. So they left him and went away.
 
-[13] And they sent to him some of the Pharisees and some of the Herodians, to trap him in his talk.
+[13] And they sent to him some of the ⟦pharisees|Perushim|Pharisees⟧ and some of the ⟦herodians|Herodianoi|Herodians⟧, to trap him in his talk.
 
-[14] And they came and said to him, "Teacher, we know that you are true and do not care about anyone's opinion. For you are not swayed by appearances, but truly teach the way of *Elohim*. Is it lawful to pay taxes to Caesar, or not? Should we pay them, or should we not?"
+[14] And they came and said to him, "Teacher, we know that you are true and do not care about anyone's opinion. For you are not swayed by appearances, but truly teach the way of ⟦elohim|Elohim|God⟧. Is it lawful to pay taxes to Caesar, or not? Should we pay them, or should we not?"
 
 [15] But, knowing their hypocrisy, he said to them, "Why put me to the test? Bring me a denarius, and let me look at it."
 
 [16] And they brought one. And he said to them, "Whose likeness and inscription is this?" They said to him, "Caesar's."
 
-[17] *Yeshua* said to them, "**Render to Caesar the things that are Caesar's, and to *Elohim* the things that are *Elohim*'s.**" And they marveled at him.
+[17] ⟦yeshua|Yeshua|Jesus⟧ said to them, "**Render to Caesar the things that are Caesar's, and to ⟦elohim|Elohim|God⟧ the things that are ⟦elohim|Elohim's|God's⟧.**" And they marveled at him.
 
-[18] And Sadducees came to him, who say that there is no resurrection. And they asked him a question, saying,
+[18] And ⟦sadducees|Tzedukim|Sadducees⟧ came to him, who say that there is no resurrection. And they asked him a question, saying,
 
-[19] "Teacher, Moses wrote for us that if a man's brother dies and leaves a wife, but leaves no child, the man must take the widow and raise up offspring for his brother.
+[19] "Teacher, ⟦moses|Moshe|Moses⟧ wrote for us that if a man's brother dies and leaves a wife, but leaves no child, the man must take the widow and raise up offspring for his brother.
 
 [20] There were seven brothers; the first took a wife, and when he died left no offspring.
 
@@ -49,19 +49,19 @@ and it is marvelous in our eyes**'?"
 
 [23] In the resurrection, when they rise again, whose wife will she be? For the seven had her as wife."
 
-[24] *Yeshua* said to them, "Is this not the reason you are wrong, because you know neither the Scriptures nor the power of *Elohim*?
+[24] ⟦yeshua|Yeshua|Jesus⟧ said to them, "Is this not the reason you are wrong, because you know neither the Scriptures nor the power of ⟦elohim|Elohim|God⟧?
 
 [25] For when they rise from the dead, they neither marry nor are given in marriage, but are like angels in heaven.
 
-[26] And as for the dead being raised, have you not read in the book of Moses, in the passage about the bush, how *Elohim* spoke to him, saying, '**I am the *Elohim* of Abraham, and the *Elohim* of Isaac, and the *Elohim* of Jacob**'?
+[26] And as for the dead being raised, have you not read in the book of ⟦moses|Moshe|Moses⟧, in the passage about the bush, how ⟦elohim|Elohim|God⟧ spoke to him, saying, '**I am the ⟦elohim|Elohim|God⟧ of ⟦abraham|Avraham|Abraham⟧, and the ⟦elohim|Elohim|God⟧ of ⟦isaac|Yitzchaq|Isaac⟧, and the ⟦elohim|Elohim|God⟧ of ⟦jacob|Yaaqov|Jacob⟧**'?
 
-[27] He is not *Elohim* of the dead, but of the living. You are quite wrong."
+[27] He is not ⟦elohim|Elohim|God⟧ of the dead, but of the living. You are quite wrong."
 
 [28] And one of the scribes came up and heard them disputing with one another, and seeing that he answered them well, asked him, "Which commandment is the most important of all?"
 
-[29] *Yeshua* answered, "The most important is, '**Hear, O Israel: the Lord our *Elohim*, the Lord is one.**
+[29] ⟦yeshua|Yeshua|Jesus⟧ answered, "The most important is, '**Hear, O ⟦israel|Yisrael|Israel⟧: ⟦yhwh|Yahweh|the Lord⟧ our ⟦elohim|Elohim|God⟧, ⟦yhwh|Yahweh|the Lord⟧ is one.**
 
-**[30] And you shall love the Lord your *Elohim* with all your heart and with all your soul and with all your mind and with all your strength**.'
+**[30] And you shall love ⟦yhwh|Yahweh|the Lord⟧ your ⟦elohim|Elohim|God⟧ with all your heart and with all your soul and with all your mind and with all your strength**.'
 
 [31] The second is this: '**You shall love your neighbor as yourself**.' There is no other commandment greater than these."
 
@@ -69,13 +69,13 @@ and it is marvelous in our eyes**'?"
 
 [33] And to love him with all the heart and with all the understanding and with all the strength, and to love one's neighbor as oneself, is much more than all whole burnt offerings and sacrifices."
 
-[34] And when *Yeshua* saw that he answered wisely, he said to him, "You are not far from the kingdom of *Elohim*." And after that no one dared to ask him any more questions.
+[34] And when ⟦yeshua|Yeshua|Jesus⟧ saw that he answered wisely, he said to him, "You are not far from the kingdom of ⟦elohim|Elohim|God⟧." And after that no one dared to ask him any more questions.
 
-[35] And as *Yeshua* taught in the temple, he said, "How can the scribes say that the *Mashiach* is the son of David?
+[35] And as ⟦yeshua|Yeshua|Jesus⟧ taught in the temple, he said, "How can the scribes say that the ⟦mashiach|Mashiach|Christ⟧ is the son of David?
 
-[36] David himself, in the *Ruach HaQodesh*, declared,
+[36] David himself, in the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧, declared,
 
-'**The Lord said to my Lord,
+'**⟦yhwh|Yahweh|The Lord⟧ said to my Lord,
 "Sit at my right hand,
 until I put your enemies under your feet."**'
 

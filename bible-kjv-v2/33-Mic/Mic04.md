@@ -1,18 +1,18 @@
 # Micah 4
 
 [1] It shall come to pass in the latter days
-that the mountain of the house of Yahweh
+that the mountain of the house of ⟦yhwh|Yahweh|the LORD⟧
 shall be established as the highest of the mountains,
 and it shall be lifted up above the hills;
 and peoples shall flow to it,
 
 [2] and many nations shall come, and say:
-"Come, let us go up to the mountain of Yahweh,
-to the house of the *Elohim* of Jacob,
+"Come, let us go up to the mountain of ⟦yhwh|Yahweh|the LORD⟧,
+to the house of the ⟦elohim|Elohim|God⟧ of ⟦jacob|Yaaqov|Jacob⟧,
 that he may teach us his ways,
 and that we may walk in his paths."
-For out of Zion shall go forth the Law,
-and the word of Yahweh from Jerusalem.
+For out of ⟦zion|Tziyon|Zion⟧ shall go forth the ⟦torah|Torah|law⟧,
+and the word of ⟦yhwh|Yahweh|the LORD⟧ from ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
 [3] He shall judge between many peoples,
 and shall decide for strong nations afar off;
@@ -23,58 +23,58 @@ neither shall they learn war anymore;**
 
 [4] but they shall sit every man under his vine and under his fig tree,
 and no one shall make them afraid,
-for the mouth of Yahweh of Hosts has spoken.
+for the mouth of ⟦yhwh|Yahweh|the LORD⟧ of Hosts has spoken.
 
 [5] For all the peoples walk
 each in the name of its god,
-but we will walk in the name of Yahweh our *Elohim*
+but we will walk in the name of ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧
 forever and ever.
 
-[6] In that day, declares Yahweh,
+[6] In that day, declares ⟦yhwh|Yahweh|the LORD⟧,
 I will assemble the lame
 and gather those who have been driven away
 and those whom I have afflicted;
 
 [7] and the lame I will make the remnant,
 and those who were cast off, a strong nation;
-and Yahweh will reign over them in Mount Zion
+and ⟦yhwh|Yahweh|the LORD⟧ will reign over them in Mount ⟦zion|Tziyon|Zion⟧
 from this time forth and forevermore.
 
 [8] And you, O tower of the flock,
-hill of the daughter of Zion,
+hill of the daughter of ⟦zion|Tziyon|Zion⟧,
 to you shall it come,
 the former dominion shall come,
-kingship for the daughter of Jerusalem.
+kingship for the daughter of ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
 [9] Now why do you cry aloud?
 Is there no king in you?
 Has your counselor perished,
 that pain seized you like a woman in labor?
 
-[10] Writhe and groan, O daughter of Zion,
+[10] Writhe and groan, O daughter of ⟦zion|Tziyon|Zion⟧,
 like a woman in labor,
 for now you shall go out from the city
 and dwell in the open country;
-you shall go to Babylon.
+you shall go to ⟦babylon|Bavel|Babylon⟧.
 There you shall be rescued;
-there Yahweh will redeem you
+there ⟦yhwh|Yahweh|the LORD⟧ will redeem you
 from the hand of your enemies.
 
 [11] Now many nations
 are assembled against you,
 saying, "Let her be defiled,
-and let our eyes gaze upon Zion."
+and let our eyes gaze upon ⟦zion|Tziyon|Zion⟧."
 
 [12] But they do not know
-the thoughts of Yahweh;
+the thoughts of ⟦yhwh|Yahweh|the LORD⟧;
 they do not understand his plan,
 that he has gathered them as sheaves to the threshing floor.
 
-[13] Arise and thresh, O daughter of Zion,
+[13] Arise and thresh, O daughter of ⟦zion|Tziyon|Zion⟧,
 for I will make your horn iron,
 and I will make your hoofs bronze;
 you shall beat in pieces many peoples;
-and I will devote their gain to Yahweh,
+and I will devote their gain to ⟦yhwh|Yahweh|the LORD⟧,
 their wealth to the Lord of the whole earth.
 
 ## Changes

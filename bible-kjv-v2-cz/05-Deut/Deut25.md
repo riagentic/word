@@ -10,15 +10,15 @@
 
 [5] Jestliže bratři bydlí spolu a jeden z nich zemře a nemá syna, manželka zemřelého se nevdá mimo rodinu za cizího muže; bratr jejího manžela k ní vejde, vezme si ji za manželku a splní vůči ní povinnost švagra.
 
-[6] Prvorozený, kterého porodí, ponese jméno zemřelého bratra, aby jeho jméno nebylo vymazáno z Israele.
+[6] Prvorozený, kterého porodí, ponese jméno zemřelého bratra, aby jeho jméno nebylo vymazáno z ⟦israel|Jisraele|Izraele⟧.
 
-[7] Nebude-li však ten muž chtít vzít si manželku svého bratra, vystoupí manželka jeho bratra do brány ke starším a řekne: ‚Bratr mého manžela odmítá zachovat jméno svého bratra v Israeli; nechce vůči mně splnit povinnost švagra.‘
+[7] Nebude-li však ten muž chtít vzít si manželku svého bratra, vystoupí manželka jeho bratra do brány ke starším a řekne: ‚Bratr mého manžela odmítá zachovat jméno svého bratra v ⟦israel|Jisraeli|Izraeli⟧; nechce vůči mně splnit povinnost švagra.‘
 
 [8] Tu ho starší jeho města předvolají a promluví s ním. Bude-li trvat na svém a řekne: ‚Nechci si ji vzít,‘
 
 [9] pak k němu manželka jeho bratra přistoupí před očima starších, zuje mu sandál z nohy, plivne mu do tváře a prohlásí: ‚Tak se stane muži, který nechce budovat dům svého bratra.‘
 
-[10] A jeho jméno bude v Israeli znít: ‚Dům toho, jemuž byl zut sandál.‘
+[10] A jeho jméno bude v ⟦israel|Jisraeli|Izraeli⟧ znít: ‚Dům toho, jemuž byl zut sandál.‘
 
 [11] Když se muži spolu perou a manželka jednoho z nich přistoupí, aby vysvobodila svého manžela z ruky toho, kdo ho bije, a vztáhne ruku a chytí ho za přirození,
 
@@ -28,15 +28,15 @@
 
 [14] Nebudeš mít ve svém domě dvojí míru, velkou a malou.
 
-[15] Budeš mít plné a poctivé závaží; plnou a poctivou míru budeš mít, aby tvé dny byly dlouhé v zemi, kterou ti Yahweh, tvůj *Elohim*, dává.
+[15] Budeš mít plné a poctivé závaží; plnou a poctivou míru budeš mít, aby tvé dny byly dlouhé v zemi, kterou ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, dává.
 
-[16] Neboť každý, kdo tyto věci činí, každý, kdo jedná nepoctivě, je ohavností pro Yahweh, tvého *Elohim*.
+[16] Neboť každý, kdo tyto věci činí, každý, kdo jedná nepoctivě, je ohavností pro ⟦yhwh|Jahveho|Hospodina⟧, tvého ⟦elohim|Elohim|Boha⟧.
 
-[17] Pamatuj, co ti udělal Amalek na cestě, když jste vycházeli z Egypta –
+[17] Pamatuj, co ti udělal ⟦amalek|Amalek|Amálek⟧ na cestě, když jste vycházeli z ⟦egypt|Micrajim|Egypta⟧ –
 
-[18] jak se s tebou střetl na cestě a napadl tvůj týl, všechny, kdo se za tebou opožďovali, když jsi byl zemdlený a unavený; nebál se *Elohim*.
+[18] jak se s tebou střetl na cestě a napadl tvůj týl, všechny, kdo se za tebou opožďovali, když jsi byl zemdlený a unavený; nebál se ⟦elohim|Elohim|Boha⟧.
 
-[19] Proto až ti Yahweh, tvůj *Elohim*, dá odpočinout ode všech tvých nepřátel dokola, v zemi, kterou ti Yahweh, tvůj *Elohim*, dává do dědictví, abys ji vlastnil, vymažeš památku Amaleka zpod nebes; nezapomeň.
+[19] Proto až ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, dá odpočinout ode všech tvých nepřátel dokola, v zemi, kterou ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, dává do dědictví, abys ji vlastnil, vymažeš památku ⟦amalek|Amaleka|Amáleka⟧ zpod nebes; nezapomeň.
 
 ## Změny
 

@@ -1,44 +1,44 @@
 # Judges 3
 
-[1] These are the nations that Yahweh left, to test Israel by them — all the Israelites who had not experienced any of the wars in Canaan,
+[1] These are the nations that ⟦yhwh|Yahweh|the LORD⟧ left, to test ⟦israel|Yisrael|Israel⟧ by them — all the ⟦israelite|Yisraelim|Israelites⟧ who had not experienced any of the wars in ⟦canaan|Kenaan|Canaan⟧,
 
-[2] so that the generations of the children of Israel might know about war, teaching it at least to those who had not known it before:
+[2] so that the generations of the children of ⟦israel|Yisrael|Israel⟧ might know about war, teaching it at least to those who had not known it before:
 
-[3] the five lords of the Philistines, all the Canaanites, the Sidonians, and the Hivites who dwelt on Mount Lebanon, from Mount Baal-hermon to Lebo-hamath.
+[3] the five lords of the ⟦philistines|Pelishtim|Philistines⟧, all the ⟦canaanites|Kenaanim|Canaanites⟧, the ⟦sidonians|Tzidonim|Sidonians⟧, and the ⟦hivites|Chivvim|Hivites⟧ who dwelt on Mount ⟦lebanon|Levanon|Lebanon⟧, from Mount ⟦baal-hermon|Baal Chermon|Baal-hermon⟧ to ⟦lebo-hamath|Levo Chamat|Lebo-hamath⟧.
 
-[4] These were to test Israel by them, to know whether they would obey the commandments of Yahweh that he commanded their fathers by the hand of Moses.
+[4] These were to test ⟦israel|Yisrael|Israel⟧ by them, to know whether they would obey the commandments of ⟦yhwh|Yahweh|the LORD⟧ that he commanded their fathers by the hand of ⟦moses|Moshe|Moses⟧.
 
-[5] So the children of Israel dwelt among the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites.
+[5] So the children of ⟦israel|Yisrael|Israel⟧ dwelt among the ⟦canaanites|Kenaanim|Canaanites⟧, ⟦hittites|Chittim|Hittites⟧, ⟦amorites|Emorim|Amorites⟧, ⟦perizzites|Perizzim|Perizzites⟧, ⟦hivites|Chivvim|Hivites⟧, and ⟦jebusites|Yevusim|Jebusites⟧.
 
 [6] They took their daughters as wives for themselves and gave their own daughters to their sons, and they served their gods.
 
-[7] The children of Israel did what was evil in the eyes of Yahweh. They forgot Yahweh their *Elohim* and served the Baals and the Asherah poles.
+[7] The children of ⟦israel|Yisrael|Israel⟧ did what was evil in the eyes of ⟦yhwh|Yahweh|the LORD⟧. They forgot ⟦yhwh|Yahweh|the LORD⟧ their ⟦elohim|Elohim|God⟧ and served the Baals and the Asherah poles.
 
-[8] Therefore the anger of Yahweh burned against Israel, and he sold them into the hand of Cushan-rishathaim king of Aram-naharaim; the children of Israel served Cushan-rishathaim eight years.
+[8] Therefore the anger of ⟦yhwh|Yahweh|the LORD⟧ burned against ⟦israel|Yisrael|Israel⟧, and he sold them into the hand of ⟦cushan-rishathaim|Kushan Rishatayim|Cushan-rishathaim⟧ king of ⟦aram-naharaim|Aram Naharayim|Mesopotamia⟧; the children of ⟦israel|Yisrael|Israel⟧ served ⟦cushan-rishathaim|Kushan Rishatayim|Cushan-rishathaim⟧ eight years.
 
-[9] When the children of Israel cried out to Yahweh, Yahweh raised up a deliverer for the children of Israel who delivered them — Othniel son of Kenaz, Caleb's younger brother.
+[9] When the children of ⟦israel|Yisrael|Israel⟧ cried out to ⟦yhwh|Yahweh|the LORD⟧, ⟦yhwh|Yahweh|the LORD⟧ raised up a deliverer for the children of ⟦israel|Yisrael|Israel⟧ who delivered them — ⟦othniel|Otniel|Othniel⟧ son of ⟦kenaz|Qenaz|Kenaz⟧, ⟦caleb|Kalev's|Caleb's⟧ younger brother.
 
-[10] The spirit of Yahweh came upon him, and he judged Israel; he went out to war, and Yahweh gave Cushan-rishathaim king of Aram into his hand; his hand prevailed over Cushan-rishathaim.
+[10] The spirit of ⟦yhwh|Yahweh|the LORD⟧ came upon him, and he judged ⟦israel|Yisrael|Israel⟧; he went out to war, and ⟦yhwh|Yahweh|the LORD⟧ gave ⟦cushan-rishathaim|Kushan Rishatayim|Cushan-rishathaim⟧ king of ⟦aram-naharaim|Aram|Mesopotamia⟧ into his hand; his hand prevailed over ⟦cushan-rishathaim|Kushan Rishatayim|Cushan-rishathaim⟧.
 
-[11] The land had rest forty years. Then Othniel son of Kenaz died.
+[11] The land had rest forty years. Then ⟦othniel|Otniel|Othniel⟧ son of ⟦kenaz|Qenaz|Kenaz⟧ died.
 
-[12] The children of Israel again did what was evil in the eyes of Yahweh, and Yahweh strengthened Eglon king of Moab against Israel, because they had done what was evil in the eyes of Yahweh.
+[12] The children of ⟦israel|Yisrael|Israel⟧ again did what was evil in the eyes of ⟦yhwh|Yahweh|the LORD⟧, and ⟦yhwh|Yahweh|the LORD⟧ strengthened Eglon king of ⟦moab|Moav|Moab⟧ against ⟦israel|Yisrael|Israel⟧, because they had done what was evil in the eyes of ⟦yhwh|Yahweh|the LORD⟧.
 
-[13] He gathered the children of Ammon and Amalek to himself, and went and struck Israel; they took possession of the City of Palms.
+[13] He gathered the children of Ammon and ⟦amalek|Amaleq|Amalek⟧ to himself, and went and struck ⟦israel|Yisrael|Israel⟧; they took possession of the City of Palms.
 
-[14] The children of Israel served Eglon king of Moab eighteen years.
+[14] The children of ⟦israel|Yisrael|Israel⟧ served Eglon king of ⟦moab|Moav|Moab⟧ eighteen years.
 
-[15] When the children of Israel cried out to Yahweh, Yahweh raised up a deliverer for them — Ehud son of Gera, a Benjamite, a left-handed man. The children of Israel sent tribute by him to Eglon king of Moab.
+[15] When the children of ⟦israel|Yisrael|Israel⟧ cried out to ⟦yhwh|Yahweh|the LORD⟧, ⟦yhwh|Yahweh|the LORD⟧ raised up a deliverer for them — Ehud son of Gera, a ⟦benjaminite|Yemini|Benjaminite⟧, a left-handed man. The children of ⟦israel|Yisrael|Israel⟧ sent tribute by him to Eglon king of ⟦moab|Moav|Moab⟧.
 
 [16] Ehud made a dagger for himself; it had two edges and was a cubit in length. He strapped it on his right thigh under his garment.
 
-[17] He brought the tribute to Eglon king of Moab. Now Eglon was a very fat man.
+[17] He brought the tribute to Eglon king of ⟦moab|Moav|Moab⟧. Now Eglon was a very fat man.
 
 [18] When he had finished presenting the tribute, he sent away the people who had carried the tribute.
 
 [19] But he himself turned back from the sculptured stones near Gilgal and said, "I have a secret message for you, O king." The king said, "Silence!" And all those who stood by him went out from him.
 
-[20] Ehud came to him while he was sitting alone in his upper cool room; and Ehud said, "I have a message from *Elohim* for you." He arose from his seat.
+[20] Ehud came to him while he was sitting alone in his upper cool room; and Ehud said, "I have a message from ⟦elohim|Elohim|God⟧ for you." He arose from his seat.
 
 [21] Ehud reached out his left hand, took the dagger from his right thigh, and thrust it into his belly.
 
@@ -52,15 +52,15 @@
 
 [26] Ehud escaped while they delayed, passing beyond the sculptured stones, and escaped to Seirah.
 
-[27] When he arrived, he blew a horn in the hill country of Ephraim, and the children of Israel went down with him from the hills, he at their head.
+[27] When he arrived, he blew a horn in the hill country of ⟦ephraim|Efrayim|Ephraim⟧, and the children of ⟦israel|Yisrael|Israel⟧ went down with him from the hills, he at their head.
 
-[28] He said to them, "Follow after me, for Yahweh has given your enemies the Moabites into your hand." And they went down after him and seized the fords of the Jordan toward Moab; they did not let a man cross over.
+[28] He said to them, "Follow after me, for ⟦yhwh|Yahweh|the LORD⟧ has given your enemies the ⟦moabites|Moavim|Moabites⟧ into your hand." And they went down after him and seized the fords of the ⟦jordan|Yarden|Jordan⟧ toward ⟦moab|Moav|Moab⟧; they did not let a man cross over.
 
-[29] They struck down Moab at that time about ten thousand men — all strong and all valiant — and no man escaped.
+[29] They struck down ⟦moab|Moav|Moab⟧ at that time about ten thousand men — all strong and all valiant — and no man escaped.
 
-[30] So Moab was subdued that day under the hand of Israel. The land had rest eighty years.
+[30] So ⟦moab|Moav|Moab⟧ was subdued that day under the hand of ⟦israel|Yisrael|Israel⟧. The land had rest eighty years.
 
-[31] After him came Shamgar son of Anath, who struck down six hundred Philistines with an ox-goad; he too delivered Israel.
+[31] After him came Shamgar son of ⟦anath|Anat|Anath⟧, who struck down six hundred ⟦philistines|Pelishtim|Philistines⟧ with an ox-goad; he too delivered ⟦israel|Yisrael|Israel⟧.
 
 ## Changes
 

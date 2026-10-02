@@ -1,6 +1,6 @@
 # Přísloví 30
 
-[1] Slova Agura, syna Jakeha. Výrok. Ten muž prohlašuje k Ithielovi, k Ithielovi a Ucalovi:
+[1] Slova ⟦agur|Agura|Agúra⟧, syna Jake. Výrok. Ten muž prohlašuje k ⟦ithiel|Itielovi|Itíelovi⟧, k ⟦ithiel|Itielovi|Itíelovi⟧ a ⟦ucal|Uchalovi|Úkalovi⟧:
 
 [2] Jistě jsem příliš tupý, než abych byl člověkem,
 a nemám lidský rozum.
@@ -15,7 +15,7 @@ Kdo upevnil všechny končiny země?
 Jaké je jeho jméno a jaké jméno jeho syna?
 Jistě to víš!
 
-[5] Každé slovo Eloah se osvědčuje jako pravdivé;
+[5] Každé slovo ⟦eloah|Eloah|Boží⟧ se osvědčuje jako pravdivé;
 je štítem těm, kdo se k němu utíkají.
 
 [6] Nepřidávej k jeho slovům,
@@ -29,9 +29,9 @@ nedávej mi chudobu ani bohatství;
 syť mne pokrmem, který potřebuji,
 
 [9] abych nebyl přesycen a nezapřel tě
-a neřekl: „Kdo je Yahweh?“
+a neřekl: „Kdo je ⟦yhwh|Jahve|Hospodin⟧?“
 anebo abych nezchudl a nekradl
-a neznesvětil jméno svého *Elohim*.
+a neznesvětil jméno svého ⟦elohim|Elohim|Boha⟧.
 
 [10] Nepomlouvej služebníka u jeho pána,
 aby ti nezlořečil a ty jsi nebyl shledán vinným.
@@ -54,7 +54,7 @@ nuzné z lidstva.
 Tři věci se nikdy nenasytí;
 čtyři nikdy neřeknou: „Dost“:
 
-[16] Sheol, neplodné lůno,
+[16] ⟦sheol|Šeol|Podsvětí⟧, neplodné lůno,
 země, která se nikdy nenasytí vody,
 a oheň, který nikdy neřekne: „Dost.“
 

@@ -1,6 +1,6 @@
 # Proverbs 11
 
-[1] A false balance is an abomination to Yahweh,
+[1] A false balance is an abomination to ⟦yhwh|Yahweh|the LORD⟧,
 but a just weight is his delight.
 
 [2] When pride comes, then comes disgrace,
@@ -57,7 +57,7 @@ but one who sows righteousness gets a sure reward.
 [19] Whoever is steadfast in righteousness will live,
 but he who pursues evil will die.
 
-[20] Those of crooked heart are an abomination to Yahweh,
+[20] Those of crooked heart are an abomination to ⟦yhwh|Yahweh|the LORD⟧,
 but those of blameless ways are his delight.
 
 [21] Be assured, an evil person will not go unpunished,

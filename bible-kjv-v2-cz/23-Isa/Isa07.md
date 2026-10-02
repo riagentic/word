@@ -1,57 +1,57 @@
 # Izajáš 7
 
-[1] Ve dnech Ahaze, syna Jothama, syna Uzziaha, krále Judahu, vytáhli Rezin, král Syrie, a Pekah, syn Remaliahův, král Israele, na Jerusalem, aby proti němu vedli válku, ale nemohli proti němu podniknout útok.
+[1] Ve dnech Achaze, syna ⟦jotham|Jotama|Jótama⟧, syna ⟦uzziah|Uzzijahua|Uzijáše⟧, krále ⟦judah|Jehudy|Judy⟧, vytáhli ⟦rezin|Recin|Resín⟧, král Aramu, a Pekach, syn ⟦remaliah|Remaljahuův|Remaljášův⟧, král ⟦israel|Jisraele|Izraele⟧, na ⟦jerusalem|Jerušalajim|Jeruzalém⟧, aby proti němu vedli válku, ale nemohli proti němu podniknout útok.
 
-[2] Když bylo domu Davidovu oznámeno: „Syria se spolčila s Ephraimem,“ zachvělo se srdce Ahaze i srdce jeho lidu, jako se chvějí lesní stromy před větrem.
+[2] Když bylo domu Davidovu oznámeno: „Aram se spolčil s Efrajimem,“ zachvělo se srdce Achaze i srdce jeho lidu, jako se chvějí lesní stromy před větrem.
 
-[3] I řekl Yahweh Isaiahovi: „Vyjdi naproti Ahazovi, ty a tvůj syn Shear-Yashuv – Ostatek-se-navrátí –, na konec vodovodu horního rybníka, na silnici k Valchářovu poli.
+[3] I řekl ⟦yhwh|Jahve|Hospodin⟧ ⟦isaiah|Ješajahuovi|Izajášovi⟧: „Vyjdi naproti Achazovi, ty a tvůj syn ⟦shear-jashub|Šear Jašuv|Šearjašúb⟧ – Ostatek-se-navrátí –, na konec vodovodu horního rybníka, na silnici k Valchářovu poli.
 
 [4] A řekni mu:
 
 ‚Dej si pozor, zachovej klid, neboj se
 a ať tvé srdce neochabuje
 kvůli těmto dvěma doutnajícím oharkům,
-kvůli prudkému hněvu Rezina a Syrie a syna Remaliahova.
+kvůli prudkému hněvu ⟦rezin|Recina|Resína⟧ a Aramu a syna ⟦remaliah|Remaljahuova|Remaljášova⟧.
 
-[5] Protože Syria s Ephraimem a synem Remaliahovým proti tobě zamýšlela zlo a říkala:
+[5] Protože Aram s Efrajimem a synem ⟦remaliah|Remaljahuovým|Remaljášovým⟧ proti tobě zamýšlel zlo a říkal:
 
-[6] „Vytáhněme proti Judahu a zastrašme ho
+[6] „Vytáhněme proti ⟦judah|Jehudovi|Judovi⟧ a zastrašme ho
 a dobudeme ho pro sebe
-a dosaďme uprostřed něho za krále syna Tabeelova,“
+a dosaďme uprostřed něho za krále syna ⟦tabeel|Taveelova|Tabealova⟧,“
 
-[7] tak praví Pán Yahweh:
+[7] tak praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧:
 „Neobstojí to a nestane se to.
 
-[8] Neboť hlavou Syrie je Damascus
-a hlavou Damascu je Rezin.
-A do šedesáti pěti let bude Ephraim rozdrcen, takže přestane být lidem.
+[8] Neboť hlavou Aramu je ⟦damascus|Dammesek|Damašek⟧
+a hlavou ⟦damascus|Dammeseku|Damašku⟧ je ⟦rezin|Recin|Resín⟧.
+A do šedesáti pěti let bude Efrajim rozdrcen, takže přestane být lidem.
 
-[9] A hlavou Ephraimu je Samaria
-a hlavou Samarie je syn Remaliahův.
+[9] A hlavou Efrajimu je ⟦samaria|Šomron|Samaří⟧
+a hlavou ⟦samaria|Šomronu|Samaří⟧ je syn ⟦remaliah|Remaljahuův|Remaljášův⟧.
 Nebudete-li pevni ve víře,
 nebudete pevni vůbec.“‘“
 
-[10] Znovu promluvil Yahweh k Ahazovi:
+[10] Znovu promluvil ⟦yhwh|Jahve|Hospodin⟧ k Achazovi:
 
-[11] „Žádej si znamení od Yahweh, svého *Elohim*; ať je hluboko jako Sheol nebo vysoko jako nebe.“
+[11] „Žádej si znamení od ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧; ať je hluboko jako ⟦sheol|Šeol|podsvětí⟧ nebo vysoko jako nebe.“
 
-[12] Ale Ahaz řekl: „Nebudu žádat a nebudu Yahweh pokoušet.“
+[12] Ale Achaz řekl: „Nebudu žádat a nebudu ⟦yhwh|Jahveho|Hospodina⟧ pokoušet.“
 
-[13] I řekl: „Slyšte tedy, dome Davidův! Což je vám málo unavovat lidi, že unavujete i mého *Elohim*?
+[13] I řekl: „Slyšte tedy, dome Davidův! Což je vám málo unavovat lidi, že unavujete i mého ⟦elohim|Elohim|Boha⟧?
 
-[14] Proto vám sám Pán dá znamení. Hle, mladá žena počne a porodí syna a dá mu jméno Immanuel.
+[14] Proto vám sám ⟦adonai|Adonaj|Pán⟧ dá znamení. Hle, mladá žena počne a porodí syna a dá mu jméno ⟦immanuel|Immanu El|Immanuel⟧.
 
 [15] Bude jíst smetanu a med, až bude umět zavrhnout zlé a zvolit dobré.
 
 [16] Neboť dříve než chlapec bude umět zavrhnout zlé a zvolit dobré, bude opuštěna země, jejíchž dvou králů se děsíš.
 
-[17] Yahweh přivede na tebe a na tvůj lid a na dům tvého otce takové dny, jaké nepřišly ode dne, kdy se Ephraim odtrhl od Judahu – krále Assyrie.“
+[17] ⟦yhwh|Jahve|Hospodin⟧ přivede na tebe a na tvůj lid a na dům tvého otce takové dny, jaké nepřišly ode dne, kdy se Efrajim odtrhl od ⟦judah|Jehudy|Judy⟧ – krále ⟦assyria|Aššuru|Asýrie⟧.“
 
-[18] V onen den Yahweh zapíská na mouchu, která je na konci ramen řek Egypta, a na včelu, která je v zemi Assyrie.
+[18] V onen den ⟦yhwh|Jahve|Hospodin⟧ zapíská na mouchu, která je na konci ramen řek ⟦egypt|Micrajim|Egypta⟧, a na včelu, která je v zemi ⟦assyria|Aššuru|Asýrie⟧.
 
 [19] A všechny přijdou a usadí se v příkrých roklích a ve skalních rozsedlinách, na všech trnitých keřích a na všech pastvinách.
 
-[20] V onen den Pán oholí břitvou najatou za Řekou – králem Assyrie – hlavu a chlupy nohou a smete i bradu.
+[20] V onen den ⟦adonai|Adonaj|Pán⟧ oholí břitvou najatou za Řekou – králem ⟦assyria|Aššuru|Asýrie⟧ – hlavu a chlupy nohou a smete i bradu.
 
 [21] V onen den bude člověk chovat jednu jalovici a dvě ovce
 

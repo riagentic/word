@@ -37,7 +37,7 @@ ale moudrý jej tiše drží na uzdě.
 všichni jeho úředníci budou ničemní.
 
 [13] Chudý a utlačovatel se potkávají;
-Yahweh dává světlo očím obou.
+⟦yhwh|Jahve|Hospodin⟧ dává světlo očím obou.
 
 [14] Soudí-li král věrně chudé,
 jeho trůn bude upevněn navěky.
@@ -52,7 +52,7 @@ ale spravedliví budou hledět na jejich pád.
 potěší tvou duši.
 
 [18] Kde není prorocké vidění, lid se vymkne z uzdy,
-ale blaze tomu, kdo zachovává Zákon.
+ale blaze tomu, kdo zachovává ⟦torah|Tóru|Zákon⟧.
 
 [19] Pouhými slovy se služebník nevychová,
 neboť i když rozumí, neodpoví.
@@ -73,10 +73,10 @@ ale kdo je pokorného ducha, dojde cti.
 slyší kletbu, ale nic neprozradí.
 
 [25] Strach z lidí klade osidlo,
-ale kdo spoléhá na Yahweh, je v bezpečí.
+ale kdo spoléhá na ⟦yhwh|Jahveho|Hospodina⟧, je v bezpečí.
 
 [26] Mnozí vyhledávají tvář vládce,
-ale od Yahweh se člověku dostává práva.
+ale od ⟦yhwh|Jahveho|Hospodina⟧ se člověku dostává práva.
 
 [27] Nespravedlivý člověk je ohavností spravedlivým,
 ale ten, jehož cesta je přímá, je ohavností ničemným.

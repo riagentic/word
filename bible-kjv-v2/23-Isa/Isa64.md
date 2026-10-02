@@ -13,7 +13,7 @@ you came down, the mountains quaked at your presence.
 
 [4] From of old no one has heard
 or perceived by the ear,
-no eye has seen an *Elohim* besides you,
+no eye has seen ⟦elohim|an Elohim|a God⟧ besides you,
 who acts for those who wait for him.
 
 [5] You meet him who joyfully works righteousness,
@@ -31,24 +31,24 @@ who rouses himself to take hold of you;
 for you have hidden your face from us,
 and have made us melt in the hand of our iniquities.
 
-[8] But now, O Yahweh, you are our Father;
+[8] But now, O ⟦yhwh|Yahweh|LORD⟧, you are our Father;
 we are the clay, and you are our potter;
 we are all the work of your hand.
 
-[9] Be not so terribly angry, O Yahweh,
+[9] Be not so terribly angry, O ⟦yhwh|Yahweh|LORD⟧,
 and remember not iniquity forever.
 Behold, please look, we are all your people.
 
 [10] Your holy cities have become a wilderness;
-Zion has become a wilderness,
-Jerusalem a desolation.
+⟦zion|Tziyon|Zion⟧ has become a wilderness,
+⟦jerusalem|Yerushalayim|Jerusalem⟧ a desolation.
 
 [11] Our holy and beautiful house,
 where our fathers praised you,
 has been burned by fire,
 and all our pleasant places have become ruins.
 
-[12] Will you restrain yourself at these things, O Yahweh?
+[12] Will you restrain yourself at these things, O ⟦yhwh|Yahweh|LORD⟧?
 Will you keep silent, and afflict us so terribly?
 
 ## Changes

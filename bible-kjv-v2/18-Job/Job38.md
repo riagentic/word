@@ -1,6 +1,6 @@
 # Job 38
 
-[1] Then Yahweh answered Job from the whirlwind and said:
+[1] Then ⟦yhwh|Yahweh|the LORD⟧ answered ⟦job|Iyov|Job⟧ from the whirlwind and said:
 
 [2] "Who is this who darkens counsel
 with words without knowledge?
@@ -89,11 +89,11 @@ The hoarfrost of heaven — who has given it birth?
 [30] The waters become hard like stone,
 and the face of the deep is frozen.
 
-[31] Can you bind the chains of the Pleiades
-or loose the cords of Orion?
+[31] Can you bind the chains of ⟦pleiades|Kimah|the Pleiades⟧
+or loose the cords of ⟦orion|Kesil|Orion⟧?
 
-[32] Can you bring out the constellations in their season,
-or guide the Bear with its cubs?
+[32] Can you bring out ⟦mazzaroth|Mazzarot|the Mazzaroth⟧ in their season,
+or guide ⟦bear|Ayish|the Bear⟧ with its cubs?
 
 [33] Do you know the ordinances of the heavens?
 Can you establish their rule on the earth?
@@ -120,11 +120,12 @@ or satisfy the appetite of the young lions,
 or lie in wait in their covert?
 
 [41] Who provides for the raven its prey,
-when its young cry to *Elohim* for lack of food?"
+when its young cry to ⟦el|El|God⟧ for lack of food?"
 
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
+- **"God" → "El"** (v41) — Hebrew אֵל *El*, not *Elohim*.
 - **"shadow of death" → "deep gloom"** (v17) — *tzalmaweth*.
 - **"Arcturus" → "Bear"** (v32) — *Ayish*; modern: Bear or Arcturus debated.
 - **"bottles" → "water-skins"** (v37).

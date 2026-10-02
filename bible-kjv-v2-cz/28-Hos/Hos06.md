@@ -1,6 +1,6 @@
 # Ozeáš 6
 
-[1] „Pojďte, vraťme se k Yahweh;
+[1] „Pojďte, vraťme se k ⟦yhwh|Jahvovi|Hospodinu⟧;
 neboť on nás roztrhal, aby nás uzdravil;
 on nás srazil, a on nás obváže.
 
@@ -8,13 +8,13 @@ on nás srazil, a on nás obváže.
 třetího dne nás pozvedne,
 abychom žili před ním.
 
-[3] Poznávejme, usilujme poznat Yahweh;
+[3] Poznávejme, usilujme poznat ⟦yhwh|Jahveho|Hospodina⟧;
 jeho vycházení je jisté jako úsvit;
 přijde k nám jako přeháňky,
 jako jarní deště, které svlažují zemi.“
 
-[4] Co s tebou mám dělat, Ephraime?
-Co s tebou mám dělat, Judo?
+[4] Co s tebou mám dělat, Efrajime?
+Co s tebou mám dělat, ⟦judah|Jehudo|Judo⟧?
 Vaše láska je jako ranní oblak,
 jako rosa, která brzy mizí.
 
@@ -22,24 +22,24 @@ jako rosa, která brzy mizí.
 pobil jsem je slovy svých úst
 a můj soud vychází jako světlo.
 
-[6] **Neboť toužím po věrné lásce, a ne po oběti,
-po poznání *Elohim* spíše než po zápalných obětech.**
+[6] **Neboť toužím po ⟦steadfast-love|chesedu|milosrdenství⟧, a ne po oběti,
+po poznání ⟦elohim|Elohim|Boha⟧ spíše než po zápalných obětech.**
 
 [7] Ale jako Adam přestoupili smlouvu;
 tam se mnou jednali nevěrně.
 
-[8] Gilead je město zločinců,
+[8] ⟦gilead|Gilad|Gileád⟧ je město zločinců,
 poznamenané stopami krve.
 
 [9] Jako lupiči číhají na člověka,
 tak se srocují kněží;
-vraždí na cestě do Shechemu;
+vraždí na cestě do ⟦shechem|Šechemu|Šekemu⟧;
 páchají ničemnost.
 
-[10] V domě Israele jsem viděl hroznou věc;
-je tam smilstvo Ephraima; Israel je poskvrněný.
+[10] V domě ⟦israel|Jisraele|Izraele⟧ jsem viděl hroznou věc;
+je tam smilstvo Efrajima; ⟦israel|Jisrael|Izrael⟧ je poskvrněný.
 
-[11] I pro tebe, Judo, je určena žeň.
+[11] I pro tebe, ⟦judah|Jehudo|Judo⟧, je určena žeň.
 
 Až změním úděl svého lidu,
 

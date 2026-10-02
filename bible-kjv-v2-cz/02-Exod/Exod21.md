@@ -2,7 +2,7 @@
 
 [1] „Toto jsou práva, která jim předložíš.
 
-[2] Koupíš-li hebrejského otroka, bude sloužit šest let; a sedmého roku odejde svobodný, zadarmo.
+[2] Koupíš-li ⟦hebrew|otroka Ivri|hebrejského otroka⟧, bude sloužit šest let; a sedmého roku odejde svobodný, zadarmo.
 
 [3] Přišel-li sám, odejde sám; byl-li ženatý, odejde s ním i jeho žena.
 
@@ -10,7 +10,7 @@
 
 [5] Jestliže však otrok výslovně prohlásí: ‚Miluji svého pána, svou ženu i své děti; nechci odejít svobodný,‘
 
-[6] pak ho jeho pán přivede k *Elohim*; přivede ho ke dveřím nebo k veřeji a jeho pán mu šídlem probodne ucho a bude mu sloužit doživotně.
+[6] pak ho jeho pán přivede k ⟦elohim|Elohim|Bohu⟧; přivede ho ke dveřím nebo k veřeji a jeho pán mu šídlem probodne ucho a bude mu sloužit doživotně.
 
 [7] Prodá-li muž svou dceru za otrokyni, neodejde tak, jak odcházejí otroci.
 
@@ -24,7 +24,7 @@
 
 [12] Kdo udeří člověka tak, že zemře, bude jistě usmrcen.
 
-[13] Jestliže však nečíhal, ale *Elohim* mu ho nechal padnout do ruky, určím ti místo, kam se může utéct.
+[13] Jestliže však nečíhal, ale ⟦elohim|Elohim|Bůh⟧ mu ho nechal padnout do ruky, určím ti místo, kam se může utéct.
 
 [14] Jestliže však někdo proti svému bližnímu osnuje, aby ho zabil lstí, vezmeš ho i od mého oltáře, aby zemřel.
 

@@ -1,13 +1,13 @@
 # Micheáš 1
 
-[1] Slovo Yahweh, které se stalo k Micahovi z Moreshethu za dnů Jothama, Ahaze a Hezekiaha, králů Judahu, a které viděl o Samarii a Jerusalemu.
+[1] Slovo ⟦yhwh|Jahveho|Hospodina⟧, které se stalo k ⟦micah-prophet|Michovi|Micheášovi⟧ z Morešetu za dnů ⟦jotham|Jotama|Jótama⟧, Achaze a ⟦hezekiah|Chizkijahua|Chizkijáše⟧, králů ⟦judah|Jehudy|Judy⟧, a které viděl o ⟦samaria|Šomronu|Samaří⟧ a ⟦jerusalem|Jerušalajim|Jeruzalémě⟧.
 
 [2] Slyšte, národy, všichni;
 pozorně poslouchej, země, i vše, co je na ní,
-a ať je Pán Yahweh svědkem proti vám,
-Pán ze svého svatého chrámu.
+a ať je ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ svědkem proti vám,
+⟦adonai|Adonaj|Pán⟧ ze svého svatého chrámu.
 
-[3] Neboť hle, Yahweh vychází ze svého místa,
+[3] Neboť hle, ⟦yhwh|Jahve|Hospodin⟧ vychází ze svého místa,
 sestoupí a bude šlapat po výšinách země.
 
 [4] Hory se pod ním roztečou
@@ -15,12 +15,12 @@ a údolí se rozestoupí
 jako vosk před ohněm,
 jako vody řinoucí se po srázu.
 
-[5] To vše pro přestoupení Jacoba
-a pro hříchy domu Israele.
-Co je přestoupení Jacoba? Což ne Samaria?
-A co je výšina Judahu? Což ne Jerusalem?
+[5] To vše pro přestoupení ⟦jacob|Jaakova|Jákoba⟧
+a pro hříchy domu ⟦israel|Jisraele|Izraele⟧.
+Co je přestoupení ⟦jacob|Jaakova|Jákoba⟧? Což ne ⟦samaria|Šomron|Samaří⟧?
+A co je výšina ⟦judah|Jehudy|Judy⟧? Což ne ⟦jerusalem|Jerušalajim|Jeruzalém⟧?
 
-[6] Proto učiním Samarii hromadou sutin v šírém poli,
+[6] Proto učiním ⟦samaria|Šomron|Samaří⟧ hromadou sutin v šírém poli,
 místem pro sázení vinic,
 její kameny svalím do údolí
 a obnažím její základy.
@@ -37,43 +37,43 @@ spustím nářek jako šakali
 a truchlení jako pštrosi.
 
 [9] Neboť její rána je nevyléčitelná,
-dostala se až k Judahu;
+dostala se až k ⟦judah|Jehudovi|Judovi⟧;
 dosáhla až k bráně mého lidu,
-až k Jerusalemu.
+až k ⟦jerusalem|Jerušalajim|Jeruzalému⟧.
 
-[10] Neoznamujte to v Gathu;
+[10] Neoznamujte to v Gatu;
 vůbec neplačte;
-v Beth-le-aphrah
+v ⟦beth-le-aphrah|Bejt LeAfře|Bét-leafře⟧
 se válej v prachu.
 
 [11] Táhni svou cestou,
-obyvatelstvo Shaphiru,
+obyvatelstvo ⟦shaphir|Šafiru|Šafíru⟧,
 v nahotě a hanbě;
-obyvatelstvo Zaananu nevychází;
-nářek Beth-ezelu
+obyvatelstvo ⟦zaanan|Caananu|Saananu⟧ nevychází;
+nářek ⟦beth-ezel|Bejt HaEcelu|Bét-eselu⟧
 vám vezme své stanoviště.
 
-[12] Neboť obyvatelstvo Marothu úzkostně vyhlíží dobro,
-protože od Yahweh sestoupilo neštěstí
-až k bráně Jerusalemu.
+[12] Neboť obyvatelstvo ⟦maroth|Marotu|Marótu⟧ úzkostně vyhlíží dobro,
+protože od ⟦yhwh|Jahveho|Hospodina⟧ sestoupilo neštěstí
+až k bráně ⟦jerusalem|Jerušalajim|Jeruzaléma⟧.
 
 [13] Zapřáhni oře do vozů,
-obyvatelstvo Lachishe;
+obyvatelstvo ⟦lachish|Lachiše|Lakíše⟧;
 to byl počátek hříchu
-pro dceru Zion,
+pro dceru ⟦zion|Cijon|Sijón⟧,
 neboť v tobě byla nalezena
-přestoupení Israele.
+přestoupení ⟦israel|Jisraele|Izraele⟧.
 
 [14] Proto dáš dary na rozloučenou
-Moresheth-gathu;
-domy Achzibu
+⟦moresheth-gath|Morešet Gatu|Morešet-gatu⟧;
+domy ⟦achzib|Achzivu|Akzíbu⟧
 budou klamem
-pro krále Israele.
+pro krále ⟦israel|Jisraele|Izraele⟧.
 
 [15] Znovu na tebe přivedu dobyvatele,
-obyvatelstvo Mareshahu;
-sláva Israele
-přijde až do Adullamu.
+obyvatelstvo ⟦mareshah|Mareši|Maréši⟧;
+sláva ⟦israel|Jisraele|Izraele⟧
+přijde až do ⟦adullam|Adullamu|Adulamu⟧.
 
 [16] Oholi se a ostříhej si vlasy
 pro děti svého potěšení;

@@ -1,14 +1,14 @@
 # Genesis 29
 
-[1] Jacob lifted up his feet and went on his way to the land of the people of the east.
+[1] ⟦jacob|Yaaqov|Jacob⟧ lifted up his feet and went on his way to the land of the people of the east.
 
 [2] He looked, and behold, there was a well in the field, and behold, three flocks of sheep were lying there beside it, for from that well they watered the flocks. And a great stone was on the mouth of the well.
 
 [3] When all the flocks were gathered there, they would roll the stone from the mouth of the well and water the sheep, and then put the stone back in its place on the mouth of the well.
 
-[4] Jacob said to them, "My brothers, where are you from?" And they said, "We are from Haran."
+[4] ⟦jacob|Yaaqov|Jacob⟧ said to them, "My brothers, where are you from?" And they said, "We are from ⟦haran-city|Charan|Haran⟧."
 
-[5] He said to them, "Do you know Laban son of Nahor?" And they said, "We know him."
+[5] He said to them, "Do you know ⟦laban|Lavan|Laban⟧ son of ⟦nahor|Nachor|Nahor⟧?" And they said, "We know him."
 
 [6] He said to them, "Is it well with him?" And they said, "It is well; and behold, Rachel his daughter is coming with the sheep."
 
@@ -18,57 +18,57 @@
 
 [9] While he was still speaking with them, Rachel came with her father's sheep, for she was a shepherdess.
 
-[10] When Jacob saw Rachel the daughter of Laban his mother's brother, and the sheep of Laban his mother's brother, Jacob came near and rolled the stone from the mouth of the well, and watered the flock of Laban his mother's brother.
+[10] When ⟦jacob|Yaaqov|Jacob⟧ saw Rachel the daughter of ⟦laban|Lavan|Laban⟧ his mother's brother, and the sheep of ⟦laban|Lavan|Laban⟧ his mother's brother, ⟦jacob|Yaaqov|Jacob⟧ came near and rolled the stone from the mouth of the well, and watered the flock of ⟦laban|Lavan|Laban⟧ his mother's brother.
 
-[11] Then Jacob kissed Rachel, and lifted up his voice and wept.
+[11] Then ⟦jacob|Yaaqov|Jacob⟧ kissed Rachel, and lifted up his voice and wept.
 
-[12] Jacob told Rachel that he was her father's kinsman and that he was Rebekah's son; and she ran and told her father.
+[12] ⟦jacob|Yaaqov|Jacob⟧ told Rachel that he was her father's kinsman and that he was ⟦rebekah|Rivqah|Rebekah⟧'s son; and she ran and told her father.
 
-[13] When Laban heard the news of Jacob, his sister's son, he ran to meet him, embraced him, kissed him, and brought him to his house. And Jacob told Laban all these things.
+[13] When ⟦laban|Lavan|Laban⟧ heard the news of ⟦jacob|Yaaqov|Jacob⟧, his sister's son, he ran to meet him, embraced him, kissed him, and brought him to his house. And ⟦jacob|Yaaqov|Jacob⟧ told ⟦laban|Lavan|Laban⟧ all these things.
 
-[14] Laban said to him, "Surely you are my bone and my flesh." And he stayed with him the full month.
+[14] ⟦laban|Lavan|Laban⟧ said to him, "Surely you are my bone and my flesh." And he stayed with him the full month.
 
-[15] Then Laban said to Jacob, "Because you are my kinsman, should you serve me for nothing? Tell me, what shall your wages be?"
+[15] Then ⟦laban|Lavan|Laban⟧ said to ⟦jacob|Yaaqov|Jacob⟧, "Because you are my kinsman, should you serve me for nothing? Tell me, what shall your wages be?"
 
-[16] Now Laban had two daughters; the name of the older was Leah, and the name of the younger was Rachel.
+[16] Now ⟦laban|Lavan|Laban⟧ had two daughters; the name of the older was Leah, and the name of the younger was Rachel.
 
 [17] Leah's eyes were weak; but Rachel was shapely and beautiful.
 
-[18] Jacob loved Rachel, and said, "I will serve you seven years for Rachel, your younger daughter."
+[18] ⟦jacob|Yaaqov|Jacob⟧ loved Rachel, and said, "I will serve you seven years for Rachel, your younger daughter."
 
-[19] Laban said, "It is better that I give her to you than that I should give her to another man; stay with me."
+[19] ⟦laban|Lavan|Laban⟧ said, "It is better that I give her to you than that I should give her to another man; stay with me."
 
-[20] So Jacob served seven years for Rachel, and they seemed to him but a few days because of his love for her.
+[20] So ⟦jacob|Yaaqov|Jacob⟧ served seven years for Rachel, and they seemed to him but a few days because of his love for her.
 
-[21] Then Jacob said to Laban, "Give me my wife, for my days are fulfilled, that I may go in to her."
+[21] Then ⟦jacob|Yaaqov|Jacob⟧ said to ⟦laban|Lavan|Laban⟧, "Give me my wife, for my days are fulfilled, that I may go in to her."
 
-[22] So Laban gathered together all the men of the place and made a feast.
+[22] So ⟦laban|Lavan|Laban⟧ gathered together all the men of the place and made a feast.
 
 [23] And in the evening he took Leah his daughter and brought her to him; and he went in to her.
 
-[24] (And Laban gave his slave-girl Zilpah to his daughter Leah as a slave-girl.)
+[24] (And ⟦laban|Lavan|Laban⟧ gave his slave-girl Zilpah to his daughter Leah as a slave-girl.)
 
-[25] When morning came, behold, it was Leah! And he said to Laban, "What is this you have done to me? Was it not for Rachel that I served with you? Why then have you deceived me?"
+[25] When morning came, behold, it was Leah! And he said to ⟦laban|Lavan|Laban⟧, "What is this you have done to me? Was it not for Rachel that I served with you? Why then have you deceived me?"
 
-[26] Laban said, "It is not done so in our place, to give the younger before the firstborn.
+[26] ⟦laban|Lavan|Laban⟧ said, "It is not done so in our place, to give the younger before the firstborn.
 
 [27] Complete the bridal week of this one, and we will give you this other also, for the service that you shall serve with me still seven more years."
 
-[28] Jacob did so, and completed her week; and he gave him Rachel his daughter as a wife.
+[28] ⟦jacob|Yaaqov|Jacob⟧ did so, and completed her week; and he gave him Rachel his daughter as a wife.
 
-[29] (And Laban gave his slave-girl Bilhah to his daughter Rachel to be her slave-girl.)
+[29] (And ⟦laban|Lavan|Laban⟧ gave his slave-girl Bilhah to his daughter Rachel to be her slave-girl.)
 
 [30] So he went in to Rachel also, and he loved Rachel more than Leah, and served with him seven more years.
 
-[31] When Yahweh saw that Leah was unloved, he opened her womb; but Rachel was barren.
+[31] When ⟦yhwh|Yahweh|the LORD⟧ saw that Leah was unloved, he opened her womb; but Rachel was barren.
 
-[32] Leah conceived and bore a son, and she named him Reuben, for she said, "Yahweh has seen my affliction; now my husband will love me."
+[32] Leah conceived and bore a son, and she named him ⟦reuben|Reuven|Reuben⟧, for she said, "⟦yhwh|Yahweh|The LORD⟧ has seen my affliction; now my husband will love me."
 
-[33] She conceived again and bore a son, and said, "Because Yahweh has heard that I am unloved, he has given me this one also." So she named him Simeon.
+[33] She conceived again and bore a son, and said, "Because ⟦yhwh|Yahweh|the LORD⟧ has heard that I am unloved, he has given me this one also." So she named him ⟦simeon|Shimon|Simeon⟧.
 
 [34] Again she conceived and bore a son, and said, "Now this time my husband will be joined to me, because I have borne him three sons." Therefore he was named Levi.
 
-[35] She conceived again and bore a son, and said, "This time I will praise Yahweh." Therefore she named him Judah. Then she ceased bearing.
+[35] She conceived again and bore a son, and said, "This time I will praise ⟦yhwh|Yahweh|the LORD⟧." Therefore she named him ⟦judah|Yehudah|Judah⟧. Then she ceased bearing.
 
 ## Changes
 

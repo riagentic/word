@@ -14,12 +14,12 @@ obklopená liliemi.
 dvojčata gazely.
 
 [4] Tvá šíje je jako věž ze slonoviny.
-Tvé oči jsou tůně v Heshbonu
-u brány Bath-rabbim.
-Tvůj nos je jako věž Lebanonu,
-která hledí k Damascu.
+Tvé oči jsou tůně v ⟦heshbon|Chešbonu|Chešbónu⟧
+u brány ⟦bath-rabbim|Bat-rabim|Bat-rabím⟧.
+Tvůj nos je jako věž ⟦lebanon|Levanonu|Libanónu⟧,
+která hledí k ⟦damascus|Dammeseku|Damašku⟧.
 
-[5] Tvá hlava tě korunuje jako Carmel
+[5] Tvá hlava tě korunuje jako Karmel
 a tvé splývající kadeře jsou jako purpur;
 král je zajat v těch kadeřích.
 

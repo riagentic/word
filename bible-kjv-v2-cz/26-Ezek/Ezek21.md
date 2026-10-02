@@ -1,22 +1,22 @@
 # Ezechiel 21
 
-[1] Přišlo ke mně slovo Yahweh:
+[1] Přišlo ke mně slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[2] „Synu člověka, obrať svou tvář k Jerusalemu a kaž proti svatyním. Prorokuj proti zemi Israele
+[2] „Synu člověka, obrať svou tvář k ⟦jerusalem|Jerušalajim|Jeruzalému⟧ a kaž proti svatyním. Prorokuj proti zemi ⟦israel|Jisraele|Izraele⟧
 
-[3] a řekni zemi Israele: Toto praví Yahweh: Hle, jsem proti tobě, vytasím svůj meč z pochvy a vyhladím z tebe spravedlivého i svévolníka.
+[3] a řekni zemi ⟦israel|Jisraele|Izraele⟧: Toto praví ⟦yhwh|Jahve|Hospodin⟧: Hle, jsem proti tobě, vytasím svůj meč z pochvy a vyhladím z tebe spravedlivého i svévolníka.
 
 [4] Protože z tebe vyhladím spravedlivého i svévolníka, proto bude můj meč vytasen z pochvy proti všemu tělu od jihu až k severu.
 
-[5] A všechno tělo pozná, že já jsem Yahweh. Vytasil jsem svůj meč z pochvy; už nebude znovu zasunut.
+[5] A všechno tělo pozná, že já jsem ⟦yhwh|Jahve|Hospodin⟧. Vytasil jsem svůj meč z pochvy; už nebude znovu zasunut.
 
 [6] A ty, synu člověka, sténej; se zlomeným srdcem a v hořkém žalu sténej před jejich očima.
 
-[7] A až ti řeknou: ‚Proč sténáš?‘, odpovíš: ‚Kvůli zprávě, že to přichází. Každé srdce se rozplyne a všechny ruce ochabnou; každý duch zemdlí a všechna kolena se rozplynou jako voda. Hle, přichází to a naplní se to,‘ je výrok Pána Yahweh.“
+[7] A až ti řeknou: ‚Proč sténáš?‘, odpovíš: ‚Kvůli zprávě, že to přichází. Každé srdce se rozplyne a všechny ruce ochabnou; každý duch zemdlí a všechna kolena se rozplynou jako voda. Hle, přichází to a naplní se to,‘ je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.“
 
-[8] A přišlo ke mně slovo Yahweh:
+[8] A přišlo ke mně slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[9] „Synu člověka, prorokuj a řekni: Toto praví Pán, řekni:
+[9] „Synu člověka, prorokuj a řekni: Toto praví ⟦adonai|Adonaj|Pán⟧, řekni:
 
 ‚Meč, meč je nabroušen
 a také vyleštěn,
@@ -32,12 +32,12 @@ aby byl dán do ruky vraha.
 
 [12] Křič a naříkej, synu člověka,
 neboť je proti mému lidu.
-Je proti všem knížatům Israele.
+Je proti všem knížatům ⟦israel|Jisraele|Izraele⟧.
 Jsou vydáni meči spolu s mým lidem.
 Proto se bij do stehna.
 
 [13] Neboť to nebude zkouška –
-co by mohla dělat, pohrdáš-li holí? je výrok Pána Yahweh.‘
+co by mohla dělat, pohrdáš-li holí? je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.‘
 
 [14] A ty, synu člověka, prorokuj.
 Tleskni rukama a ať meč dopadne dvakrát, ano, třikrát,
@@ -56,29 +56,29 @@ kamkoli je namířena tvá tvář.
 
 [17] I já zatleskám rukama
 a ukojím svou zuřivost;
-já, Yahweh, jsem promluvil.“
+já, ⟦yhwh|Jahve|Hospodin⟧, jsem promluvil.“
 
-[18] Znovu ke mně přišlo slovo Yahweh:
+[18] Znovu ke mně přišlo slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[19] „A ty, synu člověka, vyznač dvě cesty, kudy přijde meč babylonského krále. Obě vyjdou z téže země. A udělej ukazatel; udělej jej na začátku cesty k městu.
+[19] „A ty, synu člověka, vyznač dvě cesty, kudy přijde meč ⟦babylon|bavelského|babylónského⟧ krále. Obě vyjdou z téže země. A udělej ukazatel; udělej jej na začátku cesty k městu.
 
-[20] Vyznač cestu, kudy přijde meč do Rabbah Ammonců a do Judah, do opevněného Jerusalemu.
+[20] Vyznač cestu, kudy přijde meč do ⟦rabbah|Rabby|Raby⟧ ⟦ammonites|Ammonim|Amónovců⟧ a do ⟦judah|Jehudy|Judy⟧, do opevněného ⟦jerusalem|Jerušalajim|Jeruzaléma⟧.
 
-[21] Neboť babylonský král stojí na rozcestí, na začátku dvou cest, aby věštil. Třese šípy, dotazuje se domácích bůžků, prohlíží játra.
+[21] Neboť ⟦babylon|bavelský|babylónský⟧ král stojí na rozcestí, na začátku dvou cest, aby věštil. Třese šípy, dotazuje se ⟦teraphim|terafim|domácích bůžků⟧, prohlíží játra.
 
-[22] Do jeho pravice padá věštba pro Jerusalem: postavit beranidla, otevřít ústa k vraždění, pozvednout hlas v bojovém pokřiku, postavit beranidla proti branám, nasypat náspy, stavět obléhací věže.
+[22] Do jeho pravice padá věštba pro ⟦jerusalem|Jerušalajim|Jeruzalém⟧: postavit beranidla, otevřít ústa k vraždění, pozvednout hlas v bojovém pokřiku, postavit beranidla proti branám, nasypat náspy, stavět obléhací věže.
 
 [23] Ale jim se to bude zdát falešnou věštbou. Složili slavnostní přísahy, ale on připomíná jejich vinu, aby byli zajati.
 
-[24] Proto toto praví Pán Yahweh: Protože jste způsobili, že se připomíná vaše vina, když jsou odhalena vaše přestoupení, takže se ve všech vašich skutcích ukazují vaše hříchy – protože jste byli připomenuti, budete chyceni do ruky.
+[24] Proto toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Protože jste způsobili, že se připomíná vaše vina, když jsou odhalena vaše přestoupení, takže se ve všech vašich skutcích ukazují vaše hříchy – protože jste byli připomenuti, budete chyceni do ruky.
 
-[25] A ty, bezbožný svévolníku, knížeti Israele, jehož den přišel, čas tvého konečného trestu,
+[25] A ty, bezbožný svévolníku, knížeti ⟦israel|Jisraele|Izraele⟧, jehož den přišel, čas tvého konečného trestu,
 
-[26] toto praví Pán Yahweh: Sejmi turban a sundej korunu. Nezůstane to tak, jak to je. Povyš, co je nízké, a sniž, co je vyvýšené.
+[26] toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Sejmi turban a sundej korunu. Nezůstane to tak, jak to je. Povyš, co je nízké, a sniž, co je vyvýšené.
 
 [27] Trosky, trosky, trosky z toho udělám. Ani to nebude, dokud nepřijde ten, jemuž náleží soud, a jemu to dám.
 
-[28] A ty, synu člověka, prorokuj a řekni: Toto praví Pán Yahweh o Ammoncích a o jejich potupě; řekni:
+[28] A ty, synu člověka, prorokuj a řekni: Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ o ⟦ammonites|Ammonim|Amónovcích⟧ a o jejich potupě; řekni:
 
 ‚Meč, meč je tasen k porážce.
 Je vyleštěn, aby pohlcoval a blýskal se jako blesk –
@@ -102,7 +102,7 @@ zručných v ničení.
 [32] Budeš palivem pro oheň.
 Tvá krev bude uprostřed země.
 Nikdo si na tebe už nevzpomene,
-neboť já, Yahweh, jsem promluvil.‘“
+neboť já, ⟦yhwh|Jahve|Hospodin⟧, jsem promluvil.‘“
 
 ## Změny
 

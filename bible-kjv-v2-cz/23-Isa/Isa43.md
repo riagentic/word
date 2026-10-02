@@ -1,8 +1,8 @@
 # Izajáš 43
 
-[1] Ale nyní takto praví Yahweh,
-ten, který tě stvořil, Jacobe,
-ten, který tě utvořil, Israeli:
+[1] Ale nyní takto praví ⟦yhwh|Jahve|Hospodin⟧,
+ten, který tě stvořil, ⟦jacob|Jaakove|Jákobe⟧,
+ten, který tě utvořil, ⟦israel|Jisraeli|Izraeli⟧:
 „Neboj se, neboť jsem tě vykoupil;
 povolal jsem tě jménem, jsi můj.
 
@@ -11,10 +11,10 @@ povolal jsem tě jménem, jsi můj.
 až půjdeš ohněm, nespálíš se
 a plamen tě nestráví.
 
-[3] Neboť já jsem Yahweh, tvůj *Elohim*,
-Svatý Israele, tvůj Spasitel.
-Dávám Egypt jako tvé výkupné,
-Cush a Sevu místo tebe.
+[3] Neboť já jsem ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧,
+Svatý ⟦israel|Jisraele|Izraele⟧, tvůj Spasitel.
+Dávám ⟦egypt|Micrajim|Egypt⟧ jako tvé výkupné,
+⟦cush|Kuš|Kúš⟧ a ⟦seba|Sevu|Sebu⟧ místo tebe.
 
 [4] Protože jsi vzácný v mých očích
 a vážený a já tě miluji,
@@ -44,34 +44,34 @@ a ukázat nám dřívější věci?
 Ať přivedou své svědky, aby jim dali za pravdu,
 ať slyší a řeknou: „Je to pravda.“
 
-[10] „Vy jste moji svědkové,“ praví Yahweh,
+[10] „Vy jste moji svědkové,“ praví ⟦yhwh|Jahve|Hospodin⟧,
 „a můj služebník, kterého jsem vyvolil,
 abyste poznali a věřili mi
 a porozuměli, že já jsem to.
-Přede mnou nebyl utvořen žádný *Elohim*
+Přede mnou nebyl utvořen žádný ⟦el|El|Bůh⟧
 a po mně žádný nebude.
 
-[11] Já, já jsem Yahweh
+[11] Já, já jsem ⟦yhwh|Jahve|Hospodin⟧
 a kromě mě není zachránce.
 
 [12] Já jsem oznámil, zachránil a ohlásil,
 když mezi vámi nebyl žádný cizí bůh;
-a vy jste moji svědkové,“ praví Yahweh, „a já jsem *Elohim*.
+a vy jste moji svědkové,“ praví ⟦yhwh|Jahve|Hospodin⟧, „a já jsem ⟦el|El|Bůh⟧.
 
 [13] I nadále jsem to já;
 není nikoho, kdo by vytrhl z mé ruky;
 jednám, a kdo to zvrátí?“
 
-[14] Takto praví Yahweh, váš Vykupitel, Svatý Israele:
+[14] Takto praví ⟦yhwh|Jahve|Hospodin⟧, váš Vykupitel, Svatý ⟦israel|Jisraele|Izraele⟧:
 
-„Kvůli vám posílám do Babylonu
+„Kvůli vám posílám do ⟦babylon|Bavelu|Babylóna⟧
 a svrhnu je všechny jako uprchlíky,
-i Chaldejce, v lodích, v nichž jásají.
+i ⟦chaldeans|Kasdim|Kaldejce⟧, v lodích, v nichž jásají.
 
-[15] Já jsem Yahweh, váš Svatý,
-Stvořitel Israele, váš Král.“
+[15] Já jsem ⟦yhwh|Jahve|Hospodin⟧, váš Svatý,
+Stvořitel ⟦israel|Jisraele|Izraele⟧, váš Král.“
 
-[16] Takto praví Yahweh,
+[16] Takto praví ⟦yhwh|Jahve|Hospodin⟧,
 který dělá cestu v moři,
 stezku v mocných vodách,
 
@@ -97,8 +97,8 @@ abych napojil svůj vyvolený lid,
 [21] lid, který jsem si utvořil,
 aby zvěstoval mou chválu.
 
-[22] Ale ty jsi mě nevzýval, Jacobe;
-naopak jsi mnou byl unaven, Israeli!
+[22] Ale ty jsi mě nevzýval, ⟦jacob|Jaakove|Jákobe⟧;
+naopak jsi mnou byl unaven, ⟦israel|Jisraeli|Izraeli⟧!
 
 [23] Nepřinášel jsi mi své ovce k zápalným obětem
 ani jsi mě nectil svými oběťmi.
@@ -121,11 +121,12 @@ předlož svou při, abys byl uznán spravedlivým.
 a tvoji prostředníci se proti mně provinili.
 
 [28] Proto znesvětím knížata svatyně
-a vydám Jacoba zkáze
-a Israel potupě.“
+a vydám ⟦jacob|Jaakova|Jákoba⟧ zkáze
+a ⟦israel|Jisrael|Izrael⟧ potupě.“
 
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – zachován tetragram.
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejské *Elohim* zachováno.
+- **"God" → „El“** (v10, 12) – hebrejsky אֵל *El*, ne *Elohim*.
 - **Básnická struktura** – celá kapitola uspořádána jako verše; poezie Božího pověření a obnovy.

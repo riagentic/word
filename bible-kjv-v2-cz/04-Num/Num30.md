@@ -1,20 +1,20 @@
 # Numeri 30
 
-[1] Moses promluvil k hlavám kmenů synů Israele: „Toto je věc, kterou Yahweh přikázal.
+[1] ⟦moses|Moše|Mojžíš⟧ promluvil k hlavám kmenů synů ⟦israel|Jisraele|Izraele⟧: „Toto je věc, kterou ⟦yhwh|Jahve|Hospodin⟧ přikázal.
 
-[2] Když muž složí Yahweh slib nebo odpřisáhne přísahu, že se zaváže závazkem, nezruší své slovo; učiní podle všeho, co vyšlo z jeho úst.
+[2] Když muž složí ⟦yhwh|Jahvovi|Hospodinu⟧ slib nebo odpřisáhne přísahu, že se zaváže závazkem, nezruší své slovo; učiní podle všeho, co vyšlo z jeho úst.
 
-[3] Když žena složí Yahweh slib a zaváže se závazkem, dokud je ve svém mládí v domě svého otce,
+[3] Když žena složí ⟦yhwh|Jahvovi|Hospodinu⟧ slib a zaváže se závazkem, dokud je ve svém mládí v domě svého otce,
 
 [4] a její otec uslyší její slib a závazek, kterým se zavázala, a její otec jí nic neřekne, pak budou platit všechny její sliby a bude platit každý závazek, kterým se zavázala.
 
-[5] Jestliže jí to však její otec zakáže v den, kdy to uslyší, nebude platit žádný z jejích slibů ani z jejích závazků, kterými se zavázala, a Yahweh jí odpustí, protože jí to její otec zakázal.
+[5] Jestliže jí to však její otec zakáže v den, kdy to uslyší, nebude platit žádný z jejích slibů ani z jejích závazků, kterými se zavázala, a ⟦yhwh|Jahve|Hospodin⟧ jí odpustí, protože jí to její otec zakázal.
 
 [6] A jestliže se provdá za muže, zatímco je vázána svými sliby – nebo výroky svých rtů, kterými se zavázala –
 
 [7] a její muž se o tom dozví a v den, kdy to uslyší, jí nic neřekne, pak budou platit její sliby a budou platit její závazky, kterými se zavázala.
 
-[8] Jestliže jí to však její muž v den, kdy se o tom dozví, zakáže, pak zruší její slib, kterým je vázána, i výrok jejích rtů, kterým se zavázala; a Yahweh jí odpustí.
+[8] Jestliže jí to však její muž v den, kdy se o tom dozví, zakáže, pak zruší její slib, kterým je vázána, i výrok jejích rtů, kterým se zavázala; a ⟦yhwh|Jahve|Hospodin⟧ jí odpustí.
 
 [9] Ale každý slib vdovy nebo rozvedené ženy, kterým se zavázala, bude proti ní platit.
 
@@ -22,7 +22,7 @@
 
 [11] a její muž se o tom dozvěděl a nic jí neřekl a nezakázal jí to, pak budou platit všechny její sliby a bude platit každý závazek, kterým se zavázala.
 
-[12] Jestliže je však její muž v den, kdy se o nich dozvěděl, výslovně zrušil, pak nebude platit nic, co vyšlo z jejích rtů ohledně jejích slibů nebo závazku, který ji vázal; její muž je zrušil a Yahweh jí odpustí.
+[12] Jestliže je však její muž v den, kdy se o nich dozvěděl, výslovně zrušil, pak nebude platit nic, co vyšlo z jejích rtů ohledně jejích slibů nebo závazku, který ji vázal; její muž je zrušil a ⟦yhwh|Jahve|Hospodin⟧ jí odpustí.
 
 [13] Každý slib a každou zavazující přísahu, že se bude pokořovat, může její muž potvrdit nebo může její muž zrušit.
 
@@ -30,7 +30,7 @@
 
 [15] A jestliže je zruší nějaký čas poté, co se o nich dozvěděl, ponese on její vinu.“
 
-[16] To jsou ustanovení, která Yahweh přikázal Mosesovi, mezi mužem a jeho ženou, mezi otcem a jeho dcerou, dokud je ve svém mládí v domě svého otce.
+[16] To jsou ustanovení, která ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧, mezi mužem a jeho ženou, mezi otcem a jeho dcerou, dokud je ve svém mládí v domě svého otce.
 
 ## Změny
 

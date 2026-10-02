@@ -1,36 +1,36 @@
 # Ámos 2
 
-[1] Toto praví Yahweh:
+[1] Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
-„Pro tři přestoupení Moabu,
+„Pro tři přestoupení ⟦moab|Moavu|Moábu⟧,
 ba pro čtyři, neodvolám trest,
 protože spálil na vápno
-kosti krále Edomu.
+kosti krále ⟦edom|Edomu|Edómu⟧.
 
-[2] Proto pošlu oheň na Moab
-a ten pohltí pevnosti Kerioth,
-a Moab zemře uprostřed vřavy,
-uprostřed válečného křiku a zvuku trubky;
+[2] Proto pošlu oheň na ⟦moab|Moav|Moáb⟧
+a ten pohltí pevnosti ⟦kerioth|Kerijotu|Kerijótu⟧,
+a ⟦moab|Moav|Moáb⟧ zemře uprostřed vřavy,
+uprostřed válečného křiku a zvuku ⟦shofar|šofaru|polnice⟧;
 
 [3] vyhladím soudce z jeho středu
 a pobiji s ním všechna jeho knížata,“
-praví Yahweh.
+praví ⟦yhwh|Jahve|Hospodin⟧.
 
-[4] Toto praví Yahweh:
+[4] Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
-„Pro tři přestoupení Judah,
+„Pro tři přestoupení ⟦judah|Jehudy|Judy⟧,
 ba pro čtyři, neodvolám trest,
-protože zavrhli Zákon Yahweh
+protože zavrhli ⟦torah|Tóru|zákon⟧ ⟦yhwh|Jahveho|Hospodina⟧
 a nezachovávali jeho nařízení,
 ale svedly je jejich lži,
 za nimiž chodili jejich otcové.
 
-[5] Proto pošlu oheň na Judah
-a ten pohltí pevnosti Jerusalemu.“
+[5] Proto pošlu oheň na ⟦judah|Jehudu|Judu⟧
+a ten pohltí pevnosti ⟦jerusalem|Jerušalajim|Jeruzaléma⟧.“
 
-[6] Toto praví Yahweh:
+[6] Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
-„Pro tři přestoupení Israele,
+„Pro tři přestoupení ⟦israel|Jisraele|Izraele⟧,
 ba pro čtyři, neodvolám trest,
 protože prodávají spravedlivého za stříbro
 a chudého za pár sandálů –
@@ -42,25 +42,25 @@ takže je znesvěcováno mé svaté jméno;
 
 [8] uléhají vedle každého oltáře
 na šatech vzatých do zástavy
-a v domě svého *Elohim* pijí
+a v domě svého ⟦elohim|Elohim|Boha⟧ pijí
 víno těch, kdo byli pokutováni.
 
-[9] A přece jsem to byl já, kdo před nimi zahubil Amoritu,
+[9] A přece jsem to byl já, kdo před nimi zahubil ⟦amorite|Emoriho|Emorejce⟧,
 jehož výška byla jako výška cedrů
 a který byl silný jako duby;
 zničil jsem jeho plod nahoře
 i jeho kořeny dole.
 
-[10] A já jsem vás vyvedl ze země Egypt
+[10] A já jsem vás vyvedl ze země ⟦egypt|Micrajim|Egypt⟧
 a vodil vás čtyřicet let pouští,
-abyste obsadili zemi Amority.
+abyste obsadili zemi ⟦amorite|Emoriho|Emorejce⟧.
 
 [11] Vzbudil jsem z vašich synů proroky
-a z vašich mladíků nazirity.
-Což tomu tak není, synové Israele?“
-je výrok Yahweh.
+a z vašich mladíků ⟦nazirites|nezirim|nazíry⟧.
+Což tomu tak není, synové ⟦israel|Jisraele|Izraele⟧?“
+je výrok ⟦yhwh|Jahveho|Hospodina⟧.
 
-[12] „Ale vy jste dávali naziritům pít víno
+[12] „Ale vy jste dávali ⟦nazirites|nezirim|nazírům⟧ pít víno
 a prorokům jste přikazovali:
 ‚Neprorokujte!‘
 
@@ -77,7 +77,7 @@ a jezdec na koni nezachrání svou duši;
 
 [16] a nejstatečnější mezi hrdiny
 v ten den nahý uteče,“
-je výrok Yahweh.
+je výrok ⟦yhwh|Jahveho|Hospodina⟧.
 
 ## Změny
 

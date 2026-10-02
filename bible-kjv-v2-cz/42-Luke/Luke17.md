@@ -20,27 +20,27 @@
 
 [10] Tak i vy, když uděláte všechno, co vám bylo přikázáno, říkejte: ‚Jsme neužiteční služebníci; udělali jsme jen to, co jsme byli povinni udělat.‘“
 
-[11] Na cestě do Jerusalemu procházel pomezím mezi Samarií a Galilee.
+[11] Na cestě do ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ procházel pomezím mezi ⟦samaria-nt|Šomronem|Samařskem⟧ a ⟦galilee|Galilem|Galileou⟧.
 
 [12] Když vcházel do jedné vesnice, potkalo ho deset malomocných mužů; zastavili se opodál
 
-[13] a pozvedli hlas: „*Yeshuo*, Mistře, smiluj se nad námi.“
+[13] a pozvedli hlas: „⟦yeshua|Ješuo|Ježíši⟧, Mistře, smiluj se nad námi.“
 
 [14] Když je uviděl, řekl jim: „Jděte a ukažte se kněžím.“ A cestou byli očištěni.
 
-[15] Jeden z nich, když viděl, že je uzdraven, se vrátil a velikým hlasem chválil *Elohim*;
+[15] Jeden z nich, když viděl, že je uzdraven, se vrátil a velikým hlasem chválil ⟦elohim|Elohim|Boha⟧;
 
-[16] padl na tvář k *Yeshuovým* nohám a děkoval mu. A ten byl Samaritán.
+[16] padl na tvář k ⟦yeshua|Ješuovým|Ježíšovým⟧ nohám a děkoval mu. A ten byl ⟦samaritans|Šomroni|Samařan⟧.
 
-[17] *Yeshua* na to řekl: „Nebylo jich očištěno deset? Kde je těch devět?
+[17] ⟦yeshua|Ješua|Ježíš⟧ na to řekl: „Nebylo jich očištěno deset? Kde je těch devět?
 
-[18] Nenašel se nikdo, kdo by se vrátil a vzdal chválu *Elohim*, kromě tohoto cizince?“
+[18] Nenašel se nikdo, kdo by se vrátil a vzdal chválu ⟦elohim|Elohim|Bohu⟧, kromě tohoto cizince?“
 
 [19] A řekl mu: „Vstaň a jdi; tvá víra tě uzdravila.“
 
-[20] Když se ho farizeové ptali, kdy přijde království *Elohim*, odpověděl jim: „Království *Elohim* nepřichází se znameními, která by se dala pozorovat,
+[20] Když se ho ⟦pharisees|perušim|farizeové⟧ ptali, kdy přijde království ⟦elohim|Elohim|Boží⟧, odpověděl jim: „Království ⟦elohim|Elohim|Boží⟧ nepřichází se znameními, která by se dala pozorovat,
 
-[21] ani nebudou říkat: ‚Hle, je tady!‘ nebo ‚Tam!‘ Neboť hle, království *Elohim* je uprostřed vás.“
+[21] ani nebudou říkat: ‚Hle, je tady!‘ nebo ‚Tam!‘ Neboť hle, království ⟦elohim|Elohim|Boží⟧ je uprostřed vás.“
 
 [22] Učedníkům řekl: „Přijdou dny, kdy budete toužit spatřit jeden ze dnů Syna člověka, a nespatříte.
 
@@ -50,13 +50,13 @@
 
 [25] Nejprve však musí mnoho trpět a být zavržen tímto pokolením.
 
-[26] Jak tomu bylo za dnů Noahových, tak bude i za dnů Syna člověka.
+[26] Jak tomu bylo za dnů ⟦noah|Noachových|Noemových⟧, tak bude i za dnů Syna člověka.
 
-[27] Jedli a pili, ženili se a vdávaly se až do dne, kdy Noah vešel do archy; a přišla potopa a zahubila všechny.
+[27] Jedli a pili, ženili se a vdávaly se až do dne, kdy ⟦noah|Noach|Noe⟧ vešel do archy; a přišla potopa a zahubila všechny.
 
 [28] Stejně tak jako za dnů Lotových – jedli a pili, kupovali a prodávali, sázeli a stavěli,
 
-[29] ale v den, kdy Lot vyšel ze Sodomu, pršel z nebe oheň a síra a zahubil všechny –
+[29] ale v den, kdy Lot vyšel ze ⟦sodom|Sedomu|Sodomy⟧, pršel z nebe oheň a síra a zahubil všechny –
 
 [30] tak tomu bude v den, kdy se Syn člověka zjeví.
 

@@ -1,46 +1,46 @@
 # Římanům 8
 
-[1] Nyní tedy není žádné odsouzení pro ty, kdo jsou v *Mashiachu* *Yeshuovi*.
+[1] Nyní tedy není žádné odsouzení pro ty, kdo jsou v ⟦mashiach|Mašiachu|Kristu⟧ ⟦yeshua|Ješuovi|Ježíši⟧.
 
-[2] Zákon Ducha života tě totiž v *Mashiachu* *Yeshuovi* osvobodil od zákona hříchu a smrti.
+[2] Zákon Ducha života tě totiž v ⟦mashiach|Mašiachu|Kristu⟧ ⟦yeshua|Ješuovi|Ježíši⟧ osvobodil od zákona hříchu a smrti.
 
-[3] *Elohim* totiž učinil to, co Torah, oslabená tělem, učinit nemohla. Poslal svého vlastního Syna v podobě hříšného těla a jako oběť za hřích, a tak odsoudil hřích v těle,
+[3] ⟦elohim|Elohim|Bůh⟧ totiž učinil to, co ⟦torah|Tóra, oslabená tělem, učinit nemohla|zákon, oslabený tělem, učinit nemohl⟧. Poslal svého vlastního Syna v podobě hříšného těla a jako oběť za hřích, a tak odsoudil hřích v těle,
 
-[4] aby se spravedlivý požadavek Torah naplnil v nás, kteří nechodíme podle těla, ale podle Ducha.
+[4] aby se spravedlivý požadavek ⟦torah|Tóry|zákona⟧ naplnil v nás, kteří nechodíme podle těla, ale podle Ducha.
 
 [5] Ti, kdo žijí podle těla, myslí na věci těla, ale ti, kdo žijí podle Ducha, myslí na věci Ducha.
 
 [6] Smýšlení těla je totiž smrt, ale smýšlení Ducha je život a pokoj.
 
-[7] Mysl zaměřená na tělo je totiž nepřátelská vůči *Elohim*, neboť se nepodřizuje zákonu *Elohim*; a ani nemůže.
+[7] Mysl zaměřená na tělo je totiž nepřátelská vůči ⟦elohim|Elohim|Bohu⟧, neboť se nepodřizuje zákonu ⟦elohim|Elohim|Božímu⟧; a ani nemůže.
 
-[8] Ti, kdo jsou v těle, se *Elohim* líbit nemohou.
+[8] Ti, kdo jsou v těle, se ⟦elohim|Elohim|Bohu⟧ líbit nemohou.
 
-[9] Vy však nejste v těle, ale v Duchu, jestliže ve vás opravdu přebývá Duch *Elohim*. Kdo nemá Ducha *Mashiacha*, ten k němu nepatří.
+[9] Vy však nejste v těle, ale v Duchu, jestliže ve vás opravdu přebývá Duch ⟦elohim|Elohim|Boží⟧. Kdo nemá Ducha ⟦mashiach|Mašiacha|Krista⟧, ten k němu nepatří.
 
-[10] Je-li však *Mashiach* ve vás, pak je sice tělo mrtvé kvůli hříchu, ale Duch je život kvůli spravedlnosti.
+[10] Je-li však ⟦mashiach|Mašiach|Kristus⟧ ve vás, pak je sice tělo mrtvé kvůli hříchu, ale Duch je život kvůli spravedlnosti.
 
-[11] Jestliže ve vás přebývá Duch toho, který vzkřísil *Yeshuu* z mrtvých, pak ten, který vzkřísil *Mashiacha* *Yeshuu* z mrtvých, oživí i vaše smrtelná těla skrze svého Ducha, který ve vás přebývá.
+[11] Jestliže ve vás přebývá Duch toho, který vzkřísil ⟦yeshua|Ješuu|Ježíše⟧ z mrtvých, pak ten, který vzkřísil ⟦mashiach|Mašiacha|Krista⟧ ⟦yeshua|Ješuu|Ježíše⟧ z mrtvých, oživí i vaše smrtelná těla skrze svého Ducha, který ve vás přebývá.
 
 [12] Jsme tedy, bratři, dlužníky – ne však tělu, abychom žili podle těla.
 
 [13] Budete-li totiž žít podle těla, zemřete; budete-li však Duchem usmrcovat skutky těla, budete žít.
 
-[14] Všichni, kdo jsou vedeni Duchem *Elohim*, jsou totiž syny *Elohim*.
+[14] Všichni, kdo jsou vedeni Duchem ⟦elohim|Elohim|Božím⟧, jsou totiž syny ⟦elohim|Elohim|Božími⟧.
 
 [15] Nepřijali jste přece ducha otroctví, abyste znovu propadli strachu, ale přijali jste Ducha přijetí za syny, v němž voláme: „***Abba*! Otče!**“
 
-[16] Sám Duch dosvědčuje spolu s naším duchem, že jsme děti *Elohim*,
+[16] Sám Duch dosvědčuje spolu s naším duchem, že jsme děti ⟦elohim|Elohim|Boží⟧,
 
-[17] a jsme-li děti, pak i dědicové – dědicové *Elohim* a spoludědicové *Mashiacha*, jestliže s ním trpíme, abychom s ním byli také oslaveni.
+[17] a jsme-li děti, pak i dědicové – dědicové ⟦elohim|Elohim|Boží⟧ a spoludědicové ⟦mashiach|Mašiacha|Krista⟧, jestliže s ním trpíme, abychom s ním byli také oslaveni.
 
 [18] Mám totiž za to, že utrpení nynějšího času nestojí za srovnání se slávou, která se na nás má zjevit.
 
-[19] Stvoření totiž s dychtivou touhou očekává zjevení synů *Elohim*.
+[19] Stvoření totiž s dychtivou touhou očekává zjevení synů ⟦elohim|Elohim|Božích⟧.
 
 [20] Stvoření bylo totiž podrobeno marnosti, ne dobrovolně, ale kvůli tomu, který je podrobil, v naději,
 
-[21] že i samo stvoření bude osvobozeno z otroctví porušitelnosti a dosáhne svobody slávy dětí *Elohim*.
+[21] že i samo stvoření bude osvobozeno z otroctví porušitelnosti a dosáhne svobody slávy dětí ⟦elohim|Elohim|Božích⟧.
 
 [22] Víme totiž, že celé stvoření až dosud spolu sténá v porodních bolestech.
 
@@ -52,23 +52,23 @@
 
 [26] Stejně tak i Duch nám pomáhá v naší slabosti. Nevíme totiž, za co se modlit, jak bychom měli, ale sám Duch se za nás přimlouvá sténáním, které je příliš hluboké pro slova.
 
-[27] A ten, který zkoumá srdce, ví, jaké je smýšlení Ducha, protože Duch se přimlouvá za svaté podle vůle *Elohim*.
+[27] A ten, který zkoumá srdce, ví, jaké je smýšlení Ducha, protože Duch se přimlouvá za svaté podle vůle ⟦elohim|Elohim|Boží⟧.
 
-[28] A víme, že těm, kdo milují *Elohim*, všechno napomáhá k dobrému – těm, kdo jsou povoláni podle jeho záměru.
+[28] A víme, že těm, kdo milují ⟦elohim|Elohim|Boha⟧, všechno napomáhá k dobrému – těm, kdo jsou povoláni podle jeho záměru.
 
 [29] Ty, které předem poznal, totiž také předem určil, aby byli připodobněni obrazu jeho Syna, aby on byl prvorozeným mezi mnoha bratry.
 
 [30] A ty, které předem určil, také povolal; a ty, které povolal, také ospravedlnil; a ty, které ospravedlnil, také oslavil.
 
-[31] Co tedy na to řekneme? **Je-li *Elohim* za nás, kdo může být proti nám?**
+[31] Co tedy na to řekneme? **Je-li ⟦elohim|Elohim|Bůh⟧ za nás, kdo může být proti nám?**
 
 [32] Ten, který neušetřil svého vlastního Syna, ale vydal ho za nás všechny, jak by nám spolu s ním nedaroval milostivě všechno?
 
-[33] Kdo vznese obžalobu proti vyvoleným *Elohim*? *Elohim* je ten, kdo ospravedlňuje.
+[33] Kdo vznese obžalobu proti vyvoleným ⟦elohim|Elohim|Božím⟧? ⟦elohim|Elohim|Bůh⟧ je ten, kdo ospravedlňuje.
 
-[34] Kdo bude odsuzovat? *Mashiach* *Yeshua* je ten, který zemřel – ba co víc, který byl vzkříšen –, který je po pravici *Elohim* a který se za nás opravdu přimlouvá.
+[34] Kdo bude odsuzovat? ⟦mashiach|Mašiach|Kristus⟧ ⟦yeshua|Ješua|Ježíš⟧ je ten, který zemřel – ba co víc, který byl vzkříšen –, který je po pravici ⟦elohim|Elohim|Boží⟧ a který se za nás opravdu přimlouvá.
 
-[35] Kdo nás odloučí od lásky *Mashiacha*? Soužení, nebo úzkost, nebo pronásledování, nebo hlad, nebo nahota, nebo nebezpečí, nebo meč?
+[35] Kdo nás odloučí od lásky ⟦mashiach|Mašiacha|Krista⟧? Soužení, nebo úzkost, nebo pronásledování, nebo hlad, nebo nahota, nebo nebezpečí, nebo meč?
 
 [36] Jak je psáno:
 
@@ -79,7 +79,7 @@ jsme pokládáni za ovce určené k porážce.**“
 
 [38] Jsem si totiž jist, že ani smrt, ani život, ani andělé, ani vládci, ani věci přítomné, ani věci budoucí, ani mocnosti,
 
-[39] ani výška, ani hloubka, ani nic jiného v celém stvoření nás nebude moci odloučit od lásky *Elohim* v *Mashiachu* *Yeshuovi*, našem Pánu.
+[39] ani výška, ani hloubka, ani nic jiného v celém stvoření nás nebude moci odloučit od lásky ⟦elohim|Elohim|Boží⟧ v ⟦mashiach|Mašiachu|Kristu⟧ ⟦yeshua|Ješuovi|Ježíši⟧, našem Pánu.
 
 ## Změny
 

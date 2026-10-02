@@ -1,36 +1,36 @@
 # Leviticus 3
 
-[1] „Je-li jeho obětním darem pokojná oběť – přináší-li ji ze skotu, ať samce, či samici – přinese ji bez vady před Yahweh.
+[1] „Je-li jeho obětním darem pokojná oběť – přináší-li ji ze skotu, ať samce, či samici – přinese ji bez vady před ⟦yhwh|Jahveho|Hospodina⟧.
 
-[2] Položí ruku na hlavu svého obětního daru a porazí ho u vchodu do stanu setkávání; a Aaronovi synové, kněží, vyšplíchnou krev dokola na oltář.
+[2] Položí ruku na hlavu svého obětního daru a porazí ho u vchodu do stanu setkávání; a ⟦aaron|Aharonovi|Áronovi⟧ synové, kněží, vyšplíchnou krev dokola na oltář.
 
-[3] Z pokojné oběti přinese jako ohnivou oběť pro Yahweh: tuk, který pokrývá vnitřnosti, a všechen tuk, který je na vnitřnostech,
+[3] Z pokojné oběti přinese jako ohnivou oběť pro ⟦yhwh|Jahveho|Hospodina⟧: tuk, který pokrývá vnitřnosti, a všechen tuk, který je na vnitřnostech,
 
 [4] obě ledviny i tuk na nich u beder a lalok nad játry, který oddělí spolu s ledvinami.
 
-[5] Aaronovi synové to obrátí v dým na oltáři navrch zápalné oběti, která je na dřevě, jež je na ohni; je to ohnivá oběť, libá vůně pro Yahweh.
+[5] ⟦aaron|Aharonovi|Áronovi⟧ synové to obrátí v dým na oltáři navrch zápalné oběti, která je na dřevě, jež je na ohni; je to ohnivá oběť, libá vůně pro ⟦yhwh|Jahveho|Hospodina⟧.
 
-[6] Je-li jeho obětním darem k pokojné oběti pro Yahweh kus z bravu – samec či samice – přinese ho bez vady.
+[6] Je-li jeho obětním darem k pokojné oběti pro ⟦yhwh|Jahveho|Hospodina⟧ kus z bravu – samec či samice – přinese ho bez vady.
 
-[7] Přináší-li jako svůj obětní dar beránka, přinese ho před Yahweh.
+[7] Přináší-li jako svůj obětní dar beránka, přinese ho před ⟦yhwh|Jahveho|Hospodina⟧.
 
-[8] Položí ruku na hlavu svého obětního daru a porazí ho před stanem setkávání; a Aaronovi synové vyšplíchnou jeho krev dokola na oltář.
+[8] Položí ruku na hlavu svého obětního daru a porazí ho před stanem setkávání; a ⟦aaron|Aharonovi|Áronovi⟧ synové vyšplíchnou jeho krev dokola na oltář.
 
-[9] Z pokojné oběti přinese jako ohnivou oběť pro Yahweh: jeho tuk a celý tučný ocas – který oddělí těsně u páteře – a tuk, který pokrývá vnitřnosti, a všechen tuk, který je na vnitřnostech,
+[9] Z pokojné oběti přinese jako ohnivou oběť pro ⟦yhwh|Jahveho|Hospodina⟧: jeho tuk a celý tučný ocas – který oddělí těsně u páteře – a tuk, který pokrývá vnitřnosti, a všechen tuk, který je na vnitřnostech,
 
 [10] obě ledviny i tuk na nich u beder a lalok nad játry, který oddělí spolu s ledvinami.
 
-[11] Kněz to obrátí v dým na oltáři; je to pokrm, ohnivá oběť pro Yahweh.
+[11] Kněz to obrátí v dým na oltáři; je to pokrm, ohnivá oběť pro ⟦yhwh|Jahveho|Hospodina⟧.
 
-[12] Je-li jeho obětním darem koza, přinese ji před Yahweh.
+[12] Je-li jeho obětním darem koza, přinese ji před ⟦yhwh|Jahveho|Hospodina⟧.
 
-[13] Položí ruku na její hlavu a porazí ji před stanem setkávání; a Aaronovi synové vyšplíchnou její krev dokola na oltář.
+[13] Položí ruku na její hlavu a porazí ji před stanem setkávání; a ⟦aaron|Aharonovi|Áronovi⟧ synové vyšplíchnou její krev dokola na oltář.
 
-[14] Přinese z ní jako svůj obětní dar, jako ohnivou oběť pro Yahweh: tuk, který pokrývá vnitřnosti, a všechen tuk, který je na vnitřnostech,
+[14] Přinese z ní jako svůj obětní dar, jako ohnivou oběť pro ⟦yhwh|Jahveho|Hospodina⟧: tuk, který pokrývá vnitřnosti, a všechen tuk, který je na vnitřnostech,
 
 [15] obě ledviny i tuk na nich u beder a lalok nad játry, který oddělí spolu s ledvinami.
 
-[16] Kněz je obrátí v dým na oltáři; je to pokrm, ohnivá oběť, libá vůně. Všechen tuk patří Yahweh.
+[16] Kněz je obrátí v dým na oltáři; je to pokrm, ohnivá oběť, libá vůně. Všechen tuk patří ⟦yhwh|Jahvovi|Hospodinu⟧.
 
 [17] Bude to věčné ustanovení po všechna vaše pokolení ve všech vašich obydlích: nebudete jíst žádný tuk ani žádnou krev.“
 

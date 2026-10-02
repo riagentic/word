@@ -1,8 +1,8 @@
 # 1. Janův 3
 
-[1] Pohleďte, jakou lásku nám Otec dal, že se smíme nazývat dětmi *Elohim*; a my jimi jsme. Svět nás nezná proto, že nepoznal jeho.
+[1] Pohleďte, jakou lásku nám Otec dal, že se smíme nazývat dětmi ⟦elohim|Elohim|Božími⟧; a my jimi jsme. Svět nás nezná proto, že nepoznal jeho.
 
-[2] Milovaní, nyní jsme dětmi *Elohim*, a co budeme, ještě nebylo zjeveno; víme však, že až se on zjeví, budeme mu podobní, protože ho uvidíme tak, jak jest.
+[2] Milovaní, nyní jsme dětmi ⟦elohim|Elohim|Božími⟧, a co budeme, ještě nebylo zjeveno; víme však, že až se on zjeví, budeme mu podobní, protože ho uvidíme tak, jak jest.
 
 [3] A každý, kdo v něho takto doufá, očišťuje se, jako on je čistý.
 
@@ -14,15 +14,15 @@
 
 [7] Dítky, ať vás nikdo nesvede. Kdo činí spravedlnost, je spravedlivý, jako on je spravedlivý.
 
-[8] Kdo žije v hříchu, je z ďábla, neboť ďábel hřeší od počátku. Syn *Elohim* se zjevil proto, aby zničil skutky ďábla.
+[8] Kdo žije v hříchu, je z ďábla, neboť ďábel hřeší od počátku. Syn ⟦elohim|Elohim|Boží⟧ se zjevil proto, aby zničil skutky ďábla.
 
-[9] Nikdo, kdo je zrozen z *Elohim*, nežije v hříchu, neboť v něm zůstává símě *Elohim*, a nemůže dál hřešit, protože je zrozen z *Elohim*.
+[9] Nikdo, kdo je zrozen z ⟦elohim|Elohim|Boha⟧, nežije v hříchu, neboť v něm zůstává símě ⟦elohim|Elohim|Boží⟧, a nemůže dál hřešit, protože je zrozen z ⟦elohim|Elohim|Boha⟧.
 
-[10] Podle toho je zjevné, kdo jsou děti *Elohim* a kdo děti ďábla: kdo nečiní spravedlnost, není z *Elohim*, a stejně tak ten, kdo nemiluje svého bratra.
+[10] Podle toho je zjevné, kdo jsou děti ⟦elohim|Elohim|Boží⟧ a kdo děti ďábla: kdo nečiní spravedlnost, není z ⟦elohim|Elohim|Boha⟧, a stejně tak ten, kdo nemiluje svého bratra.
 
 [11] Neboť to je zvěst, kterou jste slyšeli od počátku: abychom se navzájem milovali.
 
-[12] Ne jako Cain, který byl ze Zlého a zavraždil svého bratra. A proč ho zavraždil? Protože jeho vlastní skutky byly zlé, kdežto skutky jeho bratra spravedlivé.
+[12] Ne jako ⟦cain|Kajin|Kain⟧, který byl ze Zlého a zavraždil svého bratra. A proč ho zavraždil? Protože jeho vlastní skutky byly zlé, kdežto skutky jeho bratra spravedlivé.
 
 [13] Nedivte se, bratři, že vás svět nenávidí.
 
@@ -32,21 +32,21 @@
 
 [16] Podle toho jsme poznali lásku, že on za nás položil svůj život, a i my máme za bratry pokládat své životy.
 
-[17] Má-li však někdo světský majetek a vidí svého bratra v nouzi, a přece před ním zavře své srdce, jak v něm může zůstávat láska *Elohim*?
+[17] Má-li však někdo světský majetek a vidí svého bratra v nouzi, a přece před ním zavře své srdce, jak v něm může zůstávat láska ⟦elohim|Elohim|Boží⟧?
 
 [18] Dítky, nemilujme slovem ani jazykem, ale skutkem a v pravdě.
 
 [19] Podle toho poznáme, že jsme z pravdy, a před ním upokojíme své srdce;
 
-[20] neboť kdykoli nás naše srdce odsuzuje, *Elohim* je větší než naše srdce a ví všechno.
+[20] neboť kdykoli nás naše srdce odsuzuje, ⟦elohim|Elohim|Bůh⟧ je větší než naše srdce a ví všechno.
 
-[21] Milovaní, jestliže nás naše srdce neodsuzuje, máme důvěru před *Elohim*;
+[21] Milovaní, jestliže nás naše srdce neodsuzuje, máme důvěru před ⟦elohim|Elohim|Bohem⟧;
 
 [22] a cokoli prosíme, dostáváme od něho, protože zachováváme jeho přikázání a činíme to, co se mu líbí.
 
-[23] A toto je jeho přikázání: abychom věřili ve jméno jeho Syna *Yeshuy* *Mashiacha* a milovali se navzájem, jak nám přikázal.
+[23] A toto je jeho přikázání: abychom věřili ve jméno jeho Syna ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧ a milovali se navzájem, jak nám přikázal.
 
-[24] Kdo zachovává jeho přikázání, zůstává v *Elohim* a *Elohim* v něm. A podle toho poznáváme, že v nás zůstává: podle Ducha, kterého nám dal.
+[24] Kdo zachovává jeho přikázání, zůstává v ⟦elohim|Elohim|Bohu⟧ a ⟦elohim|Elohim|Bůh⟧ v něm. A podle toho poznáváme, že v nás zůstává: podle Ducha, kterého nám dal.
 
 ## Změny
 

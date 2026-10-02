@@ -1,56 +1,56 @@
 # Luke 5
 
-[1] On one occasion, while the crowd was pressing in on him to hear the word of *Elohim*, he was standing by the lake of Gennesaret,
+[1] On one occasion, while the crowd was pressing in on him to hear the word of ⟦elohim|Elohim|God⟧, he was standing by the lake of ⟦gennesaret|Ginosar|Gennesaret⟧,
 
 [2] and he saw two boats by the lake, but the fishermen had gone out of them and were washing their nets.
 
-[3] Getting into one of the boats, which was Simon's, he asked him to put out a little from the land. And he sat down and taught the people from the boat.
+[3] Getting into one of the boats, which was ⟦simon|Shimon's|Simon's⟧, he asked him to put out a little from the land. And he sat down and taught the people from the boat.
 
-[4] And when he had finished speaking, he said to Simon, "Put out into the deep and let down your nets for a catch."
+[4] And when he had finished speaking, he said to ⟦simon|Shimon|Simon⟧, "Put out into the deep and let down your nets for a catch."
 
-[5] And Simon answered, "Master, we toiled all night and took nothing! But at your word I will let down the nets."
+[5] And ⟦simon|Shimon|Simon⟧ answered, "Master, we toiled all night and took nothing! But at your word I will let down the nets."
 
 [6] And when they had done this, they enclosed a large number of fish, and their nets were breaking.
 
 [7] They signaled to their partners in the other boat to come and help them. And they came and filled both the boats, so that they began to sink.
 
-[8] But when Simon *Kefa* saw it, he fell down at *Yeshua's* knees, saying, "Depart from me, for I am a sinful man, O Lord."
+[8] But when ⟦simon|Shimon|Simon⟧ ⟦peter|Kefa|Peter⟧ saw it, he fell down at ⟦yeshua|Yeshua's|Jesus'⟧ knees, saying, "Depart from me, for I am a sinful man, O Lord."
 
 [9] For he and all who were with him were astonished at the catch of fish that they had taken,
 
-[10] and so also were Jacob and John, sons of Zebedee, who were partners with Simon. And *Yeshua* said to Simon, "Do not be afraid; from now on you will be catching men."
+[10] and so also were ⟦james|Yaaqov|James⟧ and ⟦john|Yochanan|John⟧, sons of ⟦zebedee|Zebedaios|Zebedee⟧, who were partners with ⟦simon|Shimon|Simon⟧. And ⟦yeshua|Yeshua|Jesus⟧ said to ⟦simon|Shimon|Simon⟧, "Do not be afraid; from now on you will be catching men."
 
 [11] And when they had brought their boats to land, they left everything and followed him.
 
-[12] While he was in one of the cities, there came a man full of leprosy. And when he saw *Yeshua*, he fell on his face and begged him, "Lord, if you will, you can make me clean."
+[12] While he was in one of the cities, there came a man full of leprosy. And when he saw ⟦yeshua|Yeshua|Jesus⟧, he fell on his face and begged him, "Lord, if you will, you can make me clean."
 
-[13] And *Yeshua* stretched out his hand and touched him, saying, "I will; be clean." And immediately the leprosy left him.
+[13] And ⟦yeshua|Yeshua|Jesus⟧ stretched out his hand and touched him, saying, "I will; be clean." And immediately the leprosy left him.
 
-[14] And he charged him to tell no one, but "go and show yourself to the priest, and make an offering for your cleansing, as Moses commanded, for a proof to them."
+[14] And he charged him to tell no one, but "go and show yourself to the priest, and make an offering for your cleansing, as ⟦moses|Moshe|Moses⟧ commanded, for a proof to them."
 
 [15] But now even more the report about him went abroad, and great crowds gathered to hear him and to be healed of their infirmities.
 
 [16] But he would withdraw to desolate places and pray.
 
-[17] On one of those days, as he was teaching, Pharisees and teachers of the law were sitting there, who had come from every village of Galilee and Judea and from Jerusalem. And the power of the Lord was with him to heal.
+[17] On one of those days, as he was teaching, ⟦pharisees|Perushim|Pharisees⟧ and teachers of the ⟦torah|Torah|law⟧ were sitting there, who had come from every village of ⟦galilee|Galil|Galilee⟧ and ⟦judea|Yehudah|Judea⟧ and from ⟦jerusalem|Yerushalayim|Jerusalem⟧. And the power of the Lord was with him to heal.
 
-[18] And behold, some men were bringing on a bed a man who was paralyzed, and they were seeking to bring him in and lay him before *Yeshua*,
+[18] And behold, some men were bringing on a bed a man who was paralyzed, and they were seeking to bring him in and lay him before ⟦yeshua|Yeshua|Jesus⟧,
 
-[19] but finding no way to bring him in, because of the crowd, they went up on the roof and let him down with his bed through the tiles into the midst before *Yeshua*.
+[19] but finding no way to bring him in, because of the crowd, they went up on the roof and let him down with his bed through the tiles into the midst before ⟦yeshua|Yeshua|Jesus⟧.
 
 [20] And when he saw their faith, he said, "Man, your sins are forgiven you."
 
-[21] And the scribes and the Pharisees began to question, saying, "Who is this who speaks blasphemies? Who can forgive sins but *Elohim* alone?"
+[21] And the scribes and the ⟦pharisees|Perushim|Pharisees⟧ began to question, saying, "Who is this who speaks blasphemies? Who can forgive sins but ⟦elohim|Elohim|God⟧ alone?"
 
-[22] When *Yeshua* perceived their thoughts, he answered them, "Why do you question in your hearts?
+[22] When ⟦yeshua|Yeshua|Jesus⟧ perceived their thoughts, he answered them, "Why do you question in your hearts?
 
 [23] Which is easier, to say, 'Your sins are forgiven you,' or to say, 'Rise and walk'?
 
 [24] But that you may know that the Son of Man has authority on earth to forgive sins" — he said to the man who was paralyzed — "I say to you, rise, pick up your bed and go home."
 
-[25] And immediately he rose up before them and picked up what he had been lying on and went home, glorifying *Elohim*.
+[25] And immediately he rose up before them and picked up what he had been lying on and went home, glorifying ⟦elohim|Elohim|God⟧.
 
-[26] And amazement seized them all, and they glorified *Elohim* and were filled with awe, saying, "We have seen extraordinary things today."
+[26] And amazement seized them all, and they glorified ⟦elohim|Elohim|God⟧ and were filled with awe, saying, "We have seen extraordinary things today."
 
 [27] After this he went out and saw a tax collector named Levi, sitting at the tax booth. And he said to him, "Follow me."
 
@@ -58,15 +58,15 @@
 
 [29] And Levi made him a great feast in his house, and there was a large company of tax collectors and others reclining at table with them.
 
-[30] And the Pharisees and their scribes grumbled at his disciples, saying, "Why do you eat and drink with tax collectors and sinners?"
+[30] And the ⟦pharisees|Perushim|Pharisees⟧ and their scribes grumbled at his disciples, saying, "Why do you eat and drink with tax collectors and sinners?"
 
-[31] And *Yeshua* answered them, "Those who are well have no need of a physician, but those who are sick.
+[31] And ⟦yeshua|Yeshua|Jesus⟧ answered them, "Those who are well have no need of a physician, but those who are sick.
 
 [32] I have not come to call the righteous but sinners to repentance."
 
-[33] And they said to him, "The disciples of John fast often and offer prayers, and so do the disciples of the Pharisees, but yours eat and drink."
+[33] And they said to him, "The disciples of ⟦john|Yochanan|John⟧ fast often and offer prayers, and so do the disciples of the ⟦pharisees|Perushim|Pharisees⟧, but yours eat and drink."
 
-[34] And *Yeshua* said to them, "Can you make wedding guests fast while the bridegroom is with them?
+[34] And ⟦yeshua|Yeshua|Jesus⟧ said to them, "Can you make wedding guests fast while the bridegroom is with them?
 
 [35] The days will come when the bridegroom is taken away from them, and then they will fast in those days."
 

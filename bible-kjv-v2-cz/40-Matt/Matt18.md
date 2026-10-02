@@ -1,6 +1,6 @@
 # Matouš 18
 
-[1] V tu hodinu přistoupili učedníci k *Yeshuovi* a řekli: „Kdo je největší v království nebes?“
+[1] V tu hodinu přistoupili učedníci k ⟦yeshua|Ješuovi|Ježíšovi⟧ a řekli: „Kdo je největší v království nebes?“
 
 [2] Zavolal k sobě dítě, postavil je doprostřed nich
 
@@ -16,7 +16,7 @@
 
 [8] Svádí-li tě tvá ruka nebo tvá noha k hříchu, utni ji a odhoď od sebe. Je pro tebe lepší vejít do života zmrzačený nebo chromý, než být se dvěma rukama nebo dvěma nohama uvržen do věčného ohně.
 
-[9] A svádí-li tě tvé oko k hříchu, vyrvi je a odhoď od sebe. Je pro tebe lepší vejít do života jednooký, než být se dvěma očima uvržen do ohnivé Gehenna.
+[9] A svádí-li tě tvé oko k hříchu, vyrvi je a odhoď od sebe. Je pro tebe lepší vejít do života jednooký, než být se dvěma očima uvržen do ⟦gehenna|ohnivé Gehenny|ohnivého pekla⟧.
 
 [10] Hleďte, abyste nepohrdali ani jedním z těchto maličkých. Neboť vám pravím, že jejich andělé v nebesích stále hledí na tvář mého Otce, který je v nebesích.
 
@@ -38,9 +38,9 @@
 
 [20] **Neboť kde jsou dva nebo tři shromážděni v mém jménu, tam jsem já uprostřed nich.**“
 
-[21] Tehdy přistoupil Peter a řekl mu: „Pane, kolikrát proti mně může můj bratr zhřešit a já mu mám odpustit? Až sedmkrát?“
+[21] Tehdy přistoupil ⟦peter|Kefa|Petr⟧ a řekl mu: „Pane, kolikrát proti mně může můj bratr zhřešit a já mu mám odpustit? Až sedmkrát?“
 
-[22] *Yeshua* mu řekl: „Neříkám ti, že sedmkrát, ale **sedmdesát sedmkrát** – neboli sedmdesátkrát sedm.
+[22] ⟦yeshua|Ješua|Ježíš⟧ mu řekl: „Neříkám ti, že sedmkrát, ale **sedmdesát sedmkrát** – neboli sedmdesátkrát sedm.
 
 [23] Proto se království nebes podobá králi, který chtěl vyúčtovat se svými služebníky.
 

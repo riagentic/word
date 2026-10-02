@@ -1,106 +1,106 @@
 # Jozue 19
 
-[1] Druhý los padl na Simeona – na kmen synů Simeona podle jejich rodů. Jejich dědictví leželo uprostřed dědictví synů Judah.
+[1] Druhý los padl na ⟦simeon|Šimona|Šimeóna⟧ – na kmen synů ⟦simeon|Šimona|Šimeóna⟧ podle jejich rodů. Jejich dědictví leželo uprostřed dědictví synů ⟦judah|Jehudy|Judy⟧.
 
-[2] Jejich dědictví zahrnovalo: Beersheba (neboli Sheba), Moladah,
+[2] Jejich dědictví zahrnovalo: ⟦beersheba|Beer Ševa|Beer-šeba⟧ (neboli ⟦sheba|Ševa|Šeba⟧), Molada,
 
-[3] Hazar-shual, Balah, Ezem,
+[3] ⟦hazar-shual|Chacar Šual|Chasar-šúal⟧, Bala, ⟦ezem|Ecem|Esem⟧,
 
-[4] Eltolad, Bethul, Hormah,
+[4] ⟦eltolad|Eltolad|Eltólad⟧, ⟦bethul|Betul|Betúl⟧, Chorma,
 
-[5] Ziklag, Beth-marcaboth, Hazar-susah,
+[5] ⟦ziklag|Ciklag|Siklag⟧, ⟦beth-marcaboth|Bejt HaMarkavot|Bét-markabót⟧, ⟦hazar-susah|Chacar Susa|Chasar-súsa⟧,
 
-[6] Beth-lebaoth a Sharuhen – třináct měst s jejich vesnicemi;
+[6] ⟦beth-lebaoth|Bejt Levaot|Bét-lebaót⟧ a ⟦sharuhen|Šaruchen|Šarúchen⟧ – třináct měst s jejich vesnicemi;
 
-[7] Ain, Rimmon, Ether a Ashan – čtyři města s jejich vesnicemi;
+[7] Ajin, ⟦rimmon|Rimmon|Rimón⟧, Eter a Ašan – čtyři města s jejich vesnicemi;
 
-[8] a všechny vesnice kolem těchto měst až k Baalath-beeru, Ramah v Negevu. To je dědictví kmene synů Simeona podle jejich rodů.
+[8] a všechny vesnice kolem těchto měst až k ⟦baalath-beer|Baalat Beeru|Baalat-beeru⟧, ⟦ramah|Rama|Ráma⟧ v ⟦negev|Negevu|Negebu⟧. To je dědictví kmene synů ⟦simeon|Šimona|Šimeóna⟧ podle jejich rodů.
 
-[9] Dědictví synů Simeona bylo vzato z podílu synů Judah, protože podíl synů Judah byl pro ně příliš velký; synové Simeona tedy měli své dědictví uprostřed jejich podílu.
+[9] Dědictví synů ⟦simeon|Šimona|Šimeóna⟧ bylo vzato z podílu synů ⟦judah|Jehudy|Judy⟧, protože podíl synů ⟦judah|Jehudy|Judy⟧ byl pro ně příliš velký; synové ⟦simeon|Šimona|Šimeóna⟧ tedy měli své dědictví uprostřed jejich podílu.
 
-[10] Třetí los vyšel pro syny Zebuluna podle jejich rodů. Hranice jejich dědictví sahala k Saridu;
+[10] Třetí los vyšel pro syny ⟦zebulun|Zevuluna|Zabulóna⟧ podle jejich rodů. Hranice jejich dědictví sahala k ⟦sarid|Saridu|Sarídu⟧;
 
-[11] jejich hranice stoupala na západ k Maralah, dotýkala se Dabbeshethu a dosahovala k vádí východně od Jokneamu.
+[11] jejich hranice stoupala na západ k Marale, dotýkala se ⟦dabbesheth|Dabbešetu|Dabešetu⟧ a dosahovala k vádí východně od ⟦jokneam|Jokneamu|Jokneámu⟧.
 
-[12] Od Saridu se stáčela na východ k východu slunce k hranici Chisloth-taboru, vedla k Daberathu a stoupala k Japhii;
+[12] Od ⟦sarid|Saridu|Sarídu⟧ se stáčela na východ k východu slunce k hranici ⟦chisloth-tabor|Kislot Tavoru|Kislót-táboru⟧, vedla k ⟦daberath|Daveratu|Daberatu⟧ a stoupala k ⟦japhia|Jafii|Jafíji⟧;
 
-[13] odtud pokračovala na východ ke Gath-hepheru, k Eth-kazinu a vycházela k Rimmon-methoaru směrem k Neah;
+[13] odtud pokračovala na východ ke ⟦gath-hepher|Gat HaCheferu|Gat-cheferu⟧, k ⟦eth-kazin|Ittah Kacinu|Et-kasínu⟧ a vycházela k ⟦rimmon-methoar|Rimmon HaMetoaru|Rimónu⟧ směrem k Nee;
 
-[14] hranice jej obcházela na severu k Hannathonu a končila v údolí Iphtah-el –
+[14] hranice jej obcházela na severu k ⟦hannathon|Channatonu|Chanatónu⟧ a končila v údolí ⟦iphtah-el|Jiftach El|Jiftach-el⟧ –
 
-[15] včetně Kattathu, Nahalalu, Shimronu, Idalah a Bethlehemu – dvanáct měst s jejich vesnicemi.
+[15] včetně ⟦kattath|Kattatu|Katatu⟧, Nahalalu, ⟦shimron|Šimronu|Šimrónu⟧, Jidaly a ⟦bethlehem|Bejt Lechemu|Betléma⟧ – dvanáct měst s jejich vesnicemi.
 
-[16] To je dědictví synů Zebuluna podle jejich rodů – tato města s jejich vesnicemi.
+[16] To je dědictví synů ⟦zebulun|Zevuluna|Zabulóna⟧ podle jejich rodů – tato města s jejich vesnicemi.
 
-[17] Čtvrtý los vyšel pro Issachara, pro syny Issachara podle jejich rodů.
+[17] Čtvrtý los vyšel pro ⟦issachar|Jissachara|Isachara⟧, pro syny ⟦issachar|Jissachara|Isachara⟧ podle jejich rodů.
 
-[18] Jejich území zahrnovalo Jezreel, Chesulloth, Shunem,
+[18] Jejich území zahrnovalo Jizreel, ⟦chesulloth|Kesullot|Kesulót⟧, ⟦shunem|Šunem|Šúnem⟧,
 
-[19] Hapharaim, Shion, Anaharath,
+[19] Chafarajim, ⟦shion|Šion|Šíon⟧, Anacharat,
 
-[20] Rabbith, Kishion, Ebez,
+[20] ⟦rabbith|Rabbit|Rabít⟧, ⟦kishion|Kišjon|Kišjón⟧, ⟦ebez|Evec|Ebes⟧,
 
-[21] Remeth, En-gannim, En-haddah a Beth-pazzez.
+[21] Remet, ⟦en-gannim|Ejn Gannim|Én-ganím⟧, ⟦en-haddah|Ejn Chadda|Én-chada⟧ a ⟦beth-pazzez|Bejt Pacec|Bét-pases⟧.
 
-[22] Hranice dosahovala k Taboru, Shahazumah a Beth-shemeshi; a jejich hranice končila u Jordanu – šestnáct měst s jejich vesnicemi.
+[22] Hranice dosahovala k ⟦tabor|Tavoru|Táboru⟧, ⟦shahazumah|Šachacumě|Šachasúmě⟧ a ⟦beth-shemesh|Bejt Šemeši|Bét-šemeši⟧; a jejich hranice končila u ⟦jordan|Jardenu|Jordánu⟧ – šestnáct měst s jejich vesnicemi.
 
-[23] To je dědictví kmene synů Issachara podle jejich rodů – města a jejich vesnice.
+[23] To je dědictví kmene synů ⟦issachar|Jissachara|Isachara⟧ podle jejich rodů – města a jejich vesnice.
 
-[24] Pátý los vyšel pro kmen synů Ashera podle jejich rodů.
+[24] Pátý los vyšel pro kmen synů Ašera podle jejich rodů.
 
-[25] Jejich území zahrnovalo Helkath, Hali, Beten, Achshaph,
+[25] Jejich území zahrnovalo Chelkat, ⟦hali|Chali|Chalí⟧, Beten, ⟦achshaph|Achšaf|Akšaf⟧,
 
-[26] Allammelech, Amad a Mishal; dosahovalo ke Carmelu na západě a k Shihor-libnathu.
+[26] ⟦allammelech|Allammelech|Alamelek⟧, ⟦amad|Amad|Ameád⟧ a Mišal; dosahovalo ke Karmelu na západě a k ⟦shihor-libnath|Šichor Livnatu|Šichor-libnatu⟧.
 
-[27] Potom se stáčelo na východ k Beth-dagonu, dosahovalo k Zebulunu a k údolí Iphtah-el severně od Beth-emeku a Neielu; vycházelo ke Cabulu po levé straně,
+[27] Potom se stáčelo na východ k ⟦beth-dagon|Bejt Dagonu|Bét-dágonu⟧, dosahovalo k ⟦zebulun|Zevulunu|Zabulónu⟧ a k údolí ⟦iphtah-el|Jiftach El|Jiftach-el⟧ severně od ⟦beth-emek|Bejt HaEmeku|Bét-emeku⟧ a ⟦neiel|Neielu|Neíelu⟧; vycházelo ke ⟦cabul|Kavulu|Kabúlu⟧ po levé straně,
 
-[28] a Ebron, Rehob, Hammon a Kanah až k Velkému Sidonu;
+[28] a ⟦ebron|Evron|Ebrón⟧, ⟦rehob|Rechov|Rechób⟧, ⟦hammon|Chammon|Chamón⟧ a Kana až k Velkému ⟦sidon|Cidonu|Sidónu⟧;
 
-[29] potom se hranice stáčela k Ramah, k opevněnému městu Tyru; potom se hranice stáčela k Hosah a končila u moře v kraji Achzibu –
+[29] potom se hranice stáčela k ⟦ramah|Ramě|Rámě⟧, k opevněnému městu ⟦tyre|Coru|Týru⟧; potom se hranice stáčela k Chose a končila u moře v kraji ⟦achzib|Achzivu|Akzíbu⟧ –
 
-[30] Ummah, Aphek a Rehob – dvacet dva měst s jejich vesnicemi.
+[30] ⟦ummah|Umma|Uma⟧, Afek a ⟦rehob|Rechov|Rechób⟧ – dvacet dva měst s jejich vesnicemi.
 
-[31] To je dědictví kmene synů Ashera podle jejich rodů – tato města s jejich vesnicemi.
+[31] To je dědictví kmene synů Ašera podle jejich rodů – tato města s jejich vesnicemi.
 
-[32] Šestý los vyšel pro syny Naphtaliho, pro syny Naphtaliho podle jejich rodů.
+[32] Šestý los vyšel pro syny ⟦naphtali|Naftaliho|Neftalího⟧, pro syny ⟦naphtali|Naftaliho|Neftalího⟧ podle jejich rodů.
 
-[33] Jejich hranice vedla od Helephu, od dubu u Zaanannim, a Adami-nekeb a Jabneel až k Lakkumu; a končila u Jordanu.
+[33] Jejich hranice vedla od Chelefu, od dubu u ⟦zaanannim|Caanannim|Saananím⟧, a ⟦adami-nekeb|Adami HaNekev|Adamí-nekeb⟧ a ⟦jabneel|Javneel|Jabneel⟧ až k ⟦lakkum|Lakkumu|Lakúmu⟧; a končila u ⟦jordan|Jardenu|Jordánu⟧.
 
-[34] Potom se hranice stáčela na západ k Aznoth-taboru a odtud vedla k Hukkoku; na jihu dosahovala k Zebulunu, na západě k Asheru a u Jordanu k Judah, k východu slunce.
+[34] Potom se hranice stáčela na západ k ⟦aznoth-tabor|Aznot Tavoru|Aznót-táboru⟧ a odtud vedla k ⟦hukkok|Chukoku|Chukóku⟧; na jihu dosahovala k ⟦zebulun|Zevulunu|Zabulónu⟧, na západě k Ašeru a u ⟦jordan|Jardenu|Jordánu⟧ k ⟦judah|Jehudovi|Judovi⟧, k východu slunce.
 
-[35] Opevněná města byla Ziddim, Zer, Hammath, Rakkath, Chinnereth,
+[35] Opevněná města byla ⟦ziddim|Ciddim|Sidím⟧, ⟦zer|Cer|Ser⟧, ⟦hammath|Chammat|Chamát⟧, ⟦rakkath|Rakkat|Rakat⟧, ⟦chinnereth|Kinneret|Kineret⟧,
 
-[36] Adamah, Ramah, Hazor,
+[36] Adama, ⟦ramah|Rama|Ráma⟧, ⟦hazor|Chacor|Chasór⟧,
 
-[37] Kedesh, Edrei, En-hazor,
+[37] Kedeš, ⟦edrei|Edrej|Edreí⟧, ⟦en-hazor|Ejn Chacor|Én-chasór⟧,
 
-[38] Yiron, Migdal-el, Horem, Beth-anath a Beth-shemesh – devatenáct měst s jejich vesnicemi.
+[38] ⟦yiron|Jiron|Jirón⟧, ⟦migdal-el|Migdal El|Migdal-el⟧, Chorem, ⟦beth-anath|Bejt Anat|Bét-anat⟧ a ⟦beth-shemesh|Bejt Šemeš|Bét-šemeš⟧ – devatenáct měst s jejich vesnicemi.
 
-[39] To je dědictví kmene synů Naphtaliho podle jejich rodů – města a jejich vesnice.
+[39] To je dědictví kmene synů ⟦naphtali|Naftaliho|Neftalího⟧ podle jejich rodů – města a jejich vesnice.
 
 [40] Sedmý los vyšel pro kmen synů Dana podle jejich rodů.
 
-[41] Území jejich dědictví zahrnovalo Zorah, Eshtaol, Ir-shemesh,
+[41] Území jejich dědictví zahrnovalo ⟦zorah|Cora|Sorea⟧, Eštaol, ⟦ir-shemesh|Ir Šemeš|Ír-šemeš⟧,
 
-[42] Shaalabbin, Aijalon, Ithlah,
+[42] ⟦shaalabbin|Šaalabbin|Šaalabín⟧, ⟦aijalon|Ajjalon|Ajalón⟧, Jitla,
 
-[43] Elon, Timnah, Ekron,
+[43] ⟦elon|Elon|Elón⟧, Timna, ⟦ekron|Ekron|Ekrón⟧,
 
-[44] Eltekeh, Gibbethon, Baalath,
+[44] Elteke, ⟦gibbethon|Gibbeton|Gibetón⟧, Baalat,
 
-[45] Jehud, Bene-berak, Gath-rimmon,
+[45] ⟦jehud|Jehud|Jehúd⟧, ⟦bene-berak|Benej Verak|Bené-berak⟧, ⟦gath-rimmon|Gat Rimmon|Gat-rimón⟧,
 
-[46] Me-jarkon a Rakkon s územím naproti Joppě.
+[46] ⟦me-jarkon|Mej HaJarkon|Mé-jarkón⟧ a ⟦rakkon|Rakkon|Rakón⟧ s územím naproti Jafu.
 
-[47] Když bylo území synů Dana pro ně příliš těsné, synové Dana vytáhli a bojovali proti Leshemu a dobyli jej. Pobili jej ostřím meče, zaujali jej a usadili se v něm a nazvali Leshem „Dan“ podle jména svého praotce Dana.
+[47] Když bylo území synů Dana pro ně příliš těsné, synové Dana vytáhli a bojovali proti Lešemu a dobyli jej. Pobili jej ostřím meče, zaujali jej a usadili se v něm a nazvali Lešem „Dan“ podle jména svého praotce Dana.
 
 [48] To je dědictví kmene synů Dana podle jejich rodů – tato města s jejich vesnicemi.
 
-[49] Když dokončili rozdělování země do dědictví podle jejích území, dali synové Israele Joshuovi, synu Nunovu, dědictví mezi sebou.
+[49] Když dokončili rozdělování země do dědictví podle jejích území, dali synové ⟦israel|Jisraele|Izraele⟧ ⟦joshua|Jehošuovi|Jozuovi⟧, synu ⟦nun|Nunovu|Núnovu⟧, dědictví mezi sebou.
 
-[50] Na příkaz Yahweh mu dali město, o které žádal, Timnath-serah v pahorkatině Ephraim; znovu to město vystavěl a usadil se v něm.
+[50] Na příkaz ⟦yhwh|Jahveho|Hospodina⟧ mu dali město, o které žádal, ⟦timnath-serah|Timnat Serach|Timnat-serach⟧ v pahorkatině Efrajim; znovu to město vystavěl a usadil se v něm.
 
-[51] To jsou dědictví, která kněz Eleazar, Joshua, syn Nunův, a představení otcovských domů kmenů synů Israele rozdělili losem v Shilohu před Yahweh, u vchodu do stanu setkávání. Tak dokončili rozdělování země.
+[51] To jsou dědictví, která kněz ⟦eleazar|Elazar|Eleazar⟧, ⟦joshua|Jehošua|Jozue⟧, syn ⟦nun|Nunův|Núnův⟧, a představení otcovských domů kmenů synů ⟦israel|Jisraele|Izraele⟧ rozdělili losem v ⟦shiloh|Šilu|Šílu⟧ před ⟦yhwh|Jahvem|Hospodinem⟧, u vchodu do stanu setkávání. Tak dokončili rozdělování země.
 
 ## Změny
 

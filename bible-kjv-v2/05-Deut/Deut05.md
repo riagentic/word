@@ -1,36 +1,36 @@
 # Deuteronomy 5
 
-[1] Moses summoned all Israel and said to them: "Hear, O Israel, the statutes and the ordinances that I speak in your ears today, that you may learn them and be careful to do them.
+[1] ⟦moses|Moshe|Moses⟧ summoned all ⟦israel|Yisrael|Israel⟧ and said to them: "Hear, O ⟦israel|Yisrael|Israel⟧, the statutes and the ordinances that I speak in your ears today, that you may learn them and be careful to do them.
 
-[2] Yahweh our *Elohim* made a covenant with us at Horeb.
+[2] ⟦yhwh|Yahweh|The LORD⟧ our ⟦elohim|Elohim|God⟧ made a covenant with us at ⟦horeb|Chorev|Horeb⟧.
 
-[3] Not with our fathers did Yahweh make this covenant, but with us — with all of us here, alive today.
+[3] Not with our fathers did ⟦yhwh|Yahweh|the LORD⟧ make this covenant, but with us — with all of us here, alive today.
 
-[4] Yahweh spoke with you face to face at the mountain, out of the midst of the fire,
+[4] ⟦yhwh|Yahweh|The LORD⟧ spoke with you face to face at the mountain, out of the midst of the fire,
 
-[5] (I was standing between Yahweh and you at that time, to declare to you the word of Yahweh, for you were afraid because of the fire and did not go up to the mountain), saying:
+[5] (I was standing between ⟦yhwh|Yahweh|the LORD⟧ and you at that time, to declare to you the word of ⟦yhwh|Yahweh|the LORD⟧, for you were afraid because of the fire and did not go up to the mountain), saying:
 
-[6] 'I am Yahweh your *Elohim*, who brought you out of the land of Egypt, out of the house of slavery.
+[6] 'I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, who brought you out of the land of ⟦egypt|Mitzrayim|Egypt⟧, out of the house of slavery.
 
 [7] You shall have no other gods before me.
 
 [8] You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or on the earth beneath, or in the waters beneath the earth.
 
-[9] You shall not bow down to them or serve them; for I Yahweh your *Elohim* am a jealous El, visiting the iniquity of the fathers upon the children to the third and to the fourth generation of those who hate me,
+[9] You shall not bow down to them or serve them; for I ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ am a jealous ⟦el|El|God⟧, visiting the iniquity of the fathers upon the children to the third and to the fourth generation of those who hate me,
 
 [10] but showing lovingkindness to the thousandth generation of those who love me and keep my commandments.
 
-[11] You shall not lift up the name of Yahweh your *Elohim* for an empty purpose, for Yahweh will not hold guiltless anyone who lifts up his name for an empty purpose.
+[11] You shall not lift up the name of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ for an empty purpose, for ⟦yhwh|Yahweh|the LORD⟧ will not hold guiltless anyone who lifts up his name for an empty purpose.
 
-[12] Observe the Sabbath day, to keep it holy, as Yahweh your *Elohim* has commanded you.
+[12] Observe the ⟦shabbat|Shabbat|Sabbath⟧ day, to keep it holy, as ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ has commanded you.
 
 [13] Six days you shall labor and do all your work,
 
-[14] but the seventh day is a Sabbath to Yahweh your *Elohim*; on it you shall do no work — you, your son, your daughter, your male servant, your female servant, your ox, your donkey, any of your livestock, or the foreigner who is within your gates — that your male servant and your female servant may rest as well as you.
+[14] but the seventh day is a ⟦shabbat|Shabbat|Sabbath⟧ to ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧; on it you shall do no work — you, your son, your daughter, your male servant, your female servant, your ox, your donkey, any of your livestock, or the foreigner who is within your gates — that your male servant and your female servant may rest as well as you.
 
-[15] You shall remember that you were a slave in the land of Egypt, and Yahweh your *Elohim* brought you out from there with a mighty hand and an outstretched arm; therefore Yahweh your *Elohim* commanded you to keep the Sabbath day.
+[15] You shall remember that you were a slave in the land of ⟦egypt|Mitzrayim|Egypt⟧, and ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ brought you out from there with a mighty hand and an outstretched arm; therefore ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ commanded you to keep the ⟦shabbat|Shabbat|Sabbath⟧ day.
 
-[16] Honor your father and your mother, as Yahweh your *Elohim* has commanded you, that your days may be prolonged and that it may go well with you in the land that Yahweh your *Elohim* is giving you.
+[16] Honor your father and your mother, as ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ has commanded you, that your days may be prolonged and that it may go well with you in the land that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is giving you.
 
 [17] You shall not murder.
 
@@ -42,19 +42,19 @@
 
 [21] And you shall not covet your neighbor's wife; and you shall not desire your neighbor's house, his field, his male servant, his female servant, his ox, his donkey, or anything that is your neighbor's.'
 
-[22] These words Yahweh spoke to all your assembly at the mountain out of the midst of the fire, the cloud, and the thick darkness, with a loud voice; and he added no more. He wrote them on two tablets of stone and gave them to me.
+[22] These words ⟦yhwh|Yahweh|the LORD⟧ spoke to all your assembly at the mountain out of the midst of the fire, the cloud, and the thick darkness, with a loud voice; and he added no more. He wrote them on two tablets of stone and gave them to me.
 
 [23] When you heard the voice from the midst of the darkness — while the mountain was burning with fire — you came near to me, all the heads of your tribes and your elders,
 
-[24] and you said, 'Behold, Yahweh our *Elohim* has shown us his glory and his greatness, and we have heard his voice out of the midst of the fire. We have seen this day that *Elohim* speaks with humans, and they live.
+[24] and you said, 'Behold, ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧ has shown us his glory and his greatness, and we have heard his voice out of the midst of the fire. We have seen this day that ⟦elohim|Elohim|God⟧ speaks with humans, and they live.
 
-[25] Now therefore why should we die? For this great fire will consume us; if we hear the voice of Yahweh our *Elohim* any longer, we shall die.
+[25] Now therefore why should we die? For this great fire will consume us; if we hear the voice of ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧ any longer, we shall die.
 
-[26] For who of all flesh has heard the voice of the living *Elohim* speaking out of the midst of fire, as we have, and lived?
+[26] For who of all flesh has heard the voice of the living ⟦elohim|Elohim|God⟧ speaking out of the midst of fire, as we have, and lived?
 
-[27] Go near, you, and hear all that Yahweh our *Elohim* will say; and you shall speak to us all that Yahweh our *Elohim* speaks to you, and we will listen and do it.'
+[27] Go near, you, and hear all that ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧ will say; and you shall speak to us all that ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧ speaks to you, and we will listen and do it.'
 
-[28] Yahweh heard the sound of your words when you spoke to me, and Yahweh said to me, 'I have heard the sound of the words of this people, which they have spoken to you. They have done well in all that they have spoken.
+[28] ⟦yhwh|Yahweh|The LORD⟧ heard the sound of your words when you spoke to me, and ⟦yhwh|Yahweh|the LORD⟧ said to me, 'I have heard the sound of the words of this people, which they have spoken to you. They have done well in all that they have spoken.
 
 [29] If only their heart would always be inclined to fear me and keep all my commandments, that it might go well with them and with their children forever!
 
@@ -62,9 +62,9 @@
 
 [31] But you, stand here by me, that I may speak to you all the commandments, the statutes, and the ordinances that you shall teach them, that they may do them in the land I am giving them to possess.'
 
-[32] Be careful, therefore, to do as Yahweh your *Elohim* has commanded you; you shall not turn aside to the right or to the left.
+[32] Be careful, therefore, to do as ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ has commanded you; you shall not turn aside to the right or to the left.
 
-[33] You shall walk in all the way that Yahweh your *Elohim* has commanded you, that you may live and that it may go well with you, and that you may prolong your days in the land that you shall possess.
+[33] You shall walk in all the way that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ has commanded you, that you may live and that it may go well with you, and that you may prolong your days in the land that you shall possess.
 
 ## Changes
 

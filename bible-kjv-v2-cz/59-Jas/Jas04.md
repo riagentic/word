@@ -6,21 +6,21 @@
 
 [3] Prosíte, a nedostáváte, protože prosíte špatně, abyste to utratili pro své vášně.
 
-[4] Cizoložníci! Nevíte, že přátelství se světem je nepřátelstvím vůči *Elohim*? Kdo tedy chce být přítelem světa, stává se nepřítelem *Elohim*.
+[4] Cizoložníci! Nevíte, že přátelství se světem je nepřátelstvím vůči ⟦elohim|Elohim|Bohu⟧? Kdo tedy chce být přítelem světa, stává se nepřítelem ⟦elohim|Elohim|Božím⟧.
 
 [5] Nebo si myslíte, že Písmo nadarmo říká: „Žárlivě touží po duchu, jemuž dal přebývat v nás“?
 
-[6] Dává však větší milost. Proto říká: „***Elohim* se pyšným staví na odpor, ale pokorným dává milost**.“
+[6] Dává však větší milost. Proto říká: „**⟦elohim|Elohim|Bůh⟧ se pyšným staví na odpor, ale pokorným dává milost**.“
 
-[7] **Podřiďte se tedy *Elohim*. Vzepřete se ďáblu, a uteče od vás.**
+[7] **Podřiďte se tedy ⟦elohim|Elohim|Bohu⟧. Vzepřete se ďáblu, a uteče od vás.**
 
-[8] **Přibližte se k *Elohim*, a on se přiblíží k vám. Očisťte si ruce, hříšníci, a posvěťte svá srdce, vy rozpolcení.**
+[8] **Přibližte se k ⟦elohim|Elohim|Bohu⟧, a on se přiblíží k vám. Očisťte si ruce, hříšníci, a posvěťte svá srdce, vy rozpolcení.**
 
 [9] Poznejte svou bídu, truchlete a plačte. Váš smích ať se obrátí v truchlení a vaše radost v sklíčenost.
 
 [10] Pokořte se před Pánem, a on vás povýší.
 
-[11] Nepomlouvejte jeden druhého, bratři. Kdo pomlouvá bratra nebo soudí svého bratra, pomlouvá zákon a soudí zákon. Soudíš-li však zákon, nejsi činitelem zákona, ale soudcem.
+[11] Nepomlouvejte jeden druhého, bratři. Kdo pomlouvá bratra nebo soudí svého bratra, pomlouvá ⟦torah|Tóru|zákon⟧ a soudí ⟦torah|Tóru|zákon⟧. Soudíš-li však ⟦torah|Tóru|zákon⟧, nejsi činitelem ⟦torah|Tóry|zákona⟧, ale soudcem.
 
 [12] Jediný je zákonodárce a soudce, ten, který může spasit i zahubit. Kdo jsi ty, že soudíš svého bližního?
 

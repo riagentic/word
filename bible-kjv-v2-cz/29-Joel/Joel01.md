@@ -1,6 +1,6 @@
 # Jóel 1
 
-[1] Slovo Yahweh, které přišlo k Joelovi, synu Pethuelovu:
+[1] Slovo ⟦yhwh|Jahveho|Hospodina⟧, které přišlo k ⟦joel|Joelovi|Jóelovi⟧, synu ⟦pethuel|Petuelovu|Petúelovu⟧:
 
 [2] Slyšte to, starší,
 naslouchejte, všichni obyvatelé země!
@@ -37,9 +37,9 @@ jejich větve zbělely.
 nad ženichem svého mládí.
 
 [9] Přídavná oběť a úlitba jsou odňaty
-z domu Yahweh.
+z domu ⟦yhwh|Jahveho|Hospodina⟧.
 Kněží truchlí,
-služebníci Yahweh.
+služebníci ⟦yhwh|Jahveho|Hospodina⟧.
 
 [10] Pole jsou zničena,
 půda truchlí,
@@ -62,25 +62,25 @@ u synů lidských.
 [13] Oblečte žíněné roucho a naříkejte, kněží;
 kvilte, služebníci oltáře.
 Vejděte, přenocujte v žíněném rouchu,
-služebníci mého *Elohim*!
+služebníci mého ⟦elohim|Elohim|Boha⟧!
 Neboť přídavná oběť a úlitba
-jsou odepřeny domu vašeho *Elohim*.
+jsou odepřeny domu vašeho ⟦elohim|Elohim|Boha⟧.
 
 [14] Posvěťte půst,
 svolejte slavnostní shromáždění.
 Shromážděte starší
 a všechny obyvatele země
-do domu Yahweh, vašeho *Elohim*,
-a volejte k Yahweh.
+do domu ⟦yhwh|Jahveho|Hospodina⟧, vašeho ⟦elohim|Elohim|Boha⟧,
+a volejte k ⟦yhwh|Jahvovi|Hospodinu⟧.
 
 [15] Běda, jaký den!
-Neboť Den Yahweh je blízko
-a přichází jako zkáza od Shaddai.
+Neboť Den ⟦yhwh|Jahveho|Hospodina⟧ je blízko
+a přichází jako zkáza od ⟦shaddai|Šaddaje|Všemohoucího⟧.
 
 [16] Není snad pokrm odňat
 před našima očima,
 radost a veselí
-z domu našeho *Elohim*?
+z domu našeho ⟦elohim|Elohim|Boha⟧?
 
 [17] Semeno scvrklo pod hroudami;
 sklady jsou zpustošené,
@@ -92,7 +92,7 @@ Stáda skotu bloudí bezradně,
 protože pro ně není pastvy;
 i stáda ovcí trpí.
 
-[19] K tobě, Yahweh, volám.
+[19] K tobě, ⟦yhwh|Jahve|Hospodine⟧, volám.
 Neboť oheň pohltil
 pastviny v pustině
 a plamen spálil

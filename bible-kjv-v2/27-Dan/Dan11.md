@@ -1,8 +1,8 @@
 # Daniel 11
 
-[1] "And as for me, in the first year of Darius the Mede, I stood up to confirm and strengthen him.
+[1] "And as for me, in the first year of ⟦darius|Daryavesh|Darius⟧ the ⟦medes|Madi|Mede⟧, I stood up to confirm and strengthen him.
 
-[2] "And now I will show you the truth. Behold, three more kings shall arise in Persia, and a fourth shall be far richer than all of them. And when he has become strong through his riches, he shall stir up all against the kingdom of Greece.
+[2] "And now I will show you the truth. Behold, three more kings shall arise in ⟦persia|Paras|Persia⟧, and a fourth shall be far richer than all of them. And when he has become strong through his riches, he shall stir up all against the kingdom of ⟦greece|Yavan|Greece⟧.
 
 [3] Then a mighty king shall arise, who shall rule with great dominion and do as he wills.
 
@@ -14,7 +14,7 @@
 
 [7] "And from a branch from her roots one shall arise in his place. He shall come against the army and enter the fortress of the king of the north, and he shall deal with them and shall prevail.
 
-[8] He shall also carry off to Egypt their gods with their metal images and their precious vessels of silver and gold, and for some years he shall refrain from attacking the king of the north.
+[8] He shall also carry off to ⟦egypt|Mitzrayim|Egypt⟧ their gods with their metal images and their precious vessels of silver and gold, and for some years he shall refrain from attacking the king of the north.
 
 [9] Then the latter shall come into the realm of the king of the south but shall return to his own land.
 
@@ -62,7 +62,7 @@
 
 [31] Forces from him shall appear and profane the temple and fortress, and shall take away the regular burnt offering. And they shall set up the **abomination that makes desolate**.
 
-[32] He shall seduce with flattery those who violate the covenant, but the people who know their *Elohim* shall stand firm and take action.
+[32] He shall seduce with flattery those who violate the covenant, but the people who know their ⟦elohim|Elohim|God⟧ shall stand firm and take action.
 
 [33] "And the wise among the people shall make many understand, though for some days they shall stumble by sword and flame, by captivity and plunder.
 
@@ -70,7 +70,7 @@
 
 [35] and some of the wise shall stumble, so that they may be refined, purified, and made white, until the time of the end, for it still awaits the appointed time.
 
-[36] "And the king shall do as he wills. He shall exalt himself and magnify himself above every god, and shall speak astonishing things against the El of gods. He shall prosper till the indignation is accomplished; for what is decreed shall be done.
+[36] "And the king shall do as he wills. He shall exalt himself and magnify himself above every god, and shall speak astonishing things against the ⟦el|El|God⟧ of gods. He shall prosper till the indignation is accomplished; for what is decreed shall be done.
 
 [37] He shall pay no attention to the gods of his fathers, or to the one beloved by women. He shall not pay attention to any other god, for he shall magnify himself above all.
 
@@ -80,11 +80,11 @@
 
 [40] "At the time of the end, the king of the south shall attack him, but the king of the north shall rush upon him like a whirlwind, with chariots and horsemen, and with many ships. And he shall come into countries and shall overflow and pass through.
 
-[41] He shall come into the glorious land. And tens of thousands shall fall, but these shall be delivered out of his hand: Edom and Moab and the main part of the Ammonites.
+[41] He shall come into the glorious land. And tens of thousands shall fall, but these shall be delivered out of his hand: Edom and ⟦moab|Moav|Moab⟧ and the main part of the ⟦ammonites|Ammonim|Ammonites⟧.
 
-[42] He shall stretch out his hand against the countries, and the land of Egypt shall not escape.
+[42] He shall stretch out his hand against the countries, and the land of ⟦egypt|Mitzrayim|Egypt⟧ shall not escape.
 
-[43] He shall become ruler of the treasures of gold and of silver, and all the precious things of Egypt, and the Libyans and the Kushites shall follow in his train.
+[43] He shall become ruler of the treasures of gold and of silver, and all the precious things of ⟦egypt|Mitzrayim|Egypt⟧, and the ⟦libyans|Luvim|Libyans⟧ and the ⟦cushites|Kushim|Cushites⟧ shall follow in his train.
 
 [44] But news from the east and the north shall alarm him, and he shall go out with great fury to destroy and devote many to destruction.
 

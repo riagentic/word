@@ -47,7 +47,7 @@ and today I have paid my vows;
 to seek you eagerly, and I have found you.
 
 [16] I have spread my couch with coverings,
-colored linens from Egyptian cotton;
+colored linens from ⟦egypt|Mitzrayim|Egyptian⟧ cotton;
 
 [17] I have perfumed my bed with myrrh,
 aloes, and cinnamon.

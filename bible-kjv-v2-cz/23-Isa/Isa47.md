@@ -1,9 +1,9 @@
 # Izajáš 47
 
 [1] Sestup a usedni do prachu,
-panno, dcero Babylonu;
+panno, dcero ⟦babylon|Bavelu|Babylóna⟧;
 usedni na zem bez trůnu,
-dcero Chaldejců!
+dcero ⟦chaldeans|Kasdim|Kaldejců⟧!
 Neboť už nebudeš nazývána
 něžnou a rozmazlenou.
 
@@ -17,11 +17,11 @@ a tvá hanba bude vidět.
 Vykonám pomstu
 a nikoho neušetřím.
 
-[4] Náš Vykupitel – Yahweh zástupů je jeho jméno –
-je Svatý Israele.
+[4] Náš Vykupitel – ⟦yhwh|Jahve|Hospodin⟧ zástupů je jeho jméno –
+je Svatý ⟦israel|Jisraele|Izraele⟧.
 
 [5] Seď mlčky a odejdi do tmy,
-dcero Chaldejců;
+dcero ⟦chaldeans|Kasdim|Kaldejců⟧;
 neboť už nebudeš nazývána
 paní království.
 

@@ -3,8 +3,8 @@
 [1] "I made a covenant with my eyes —
 how then could I gaze at a virgin?
 
-[2] What is the portion of Eloah above,
-the heritage of Shaddai from on high?
+[2] What is the portion of ⟦eloah|Eloah|God⟧ above,
+the heritage of ⟦shaddai|Shaddai|the Almighty⟧ from on high?
 
 [3] Is not calamity for the unrighteous,
 disaster for the workers of iniquity?
@@ -16,7 +16,7 @@ and count all my steps?
 if my foot has hastened to deceit —
 
 [6] let him weigh me in an honest balance,
-and let Eloah know my integrity.
+and let ⟦eloah|Eloah|God⟧ know my integrity.
 
 [7] If my step has turned aside from the way,
 and my heart has gone after my eyes,
@@ -34,13 +34,13 @@ and let others kneel over her.
 [11] For that would be a heinous crime,
 an iniquity to be punished by the judges;
 
-[12] for it is a fire that consumes to Abaddon,
+[12] for it is a fire that consumes to ⟦abaddon|Avaddon|Abaddon⟧,
 and would uproot all my increase.
 
 [13] If I have rejected the cause of my manservant
 or my maidservant when they brought a complaint against me,
 
-[14] what then shall I do when *Elohim* rises up?
+[14] what then shall I do when ⟦el|El|God⟧ rises up?
 When he makes inquiry, what shall I answer him?
 
 [15] Did not he who made me in the womb make him?
@@ -67,7 +67,7 @@ when I saw my support in the gate —
 [22] let my shoulder fall from its socket,
 and my arm be broken from its bone.
 
-[23] For calamity from *Elohim* was a terror to me;
+[23] For calamity from ⟦el|El|God⟧ was a terror to me;
 because of his majesty I could do nothing.
 
 [24] If I have made gold my confidence,
@@ -83,7 +83,7 @@ or the moon moving in splendor,
 and my mouth kissed my hand —
 
 [28] this also would be an iniquity for the judges,
-for I would have denied *Elohim* above.
+for I would have denied ⟦el|El|God⟧ above.
 
 [29] If I rejoiced at the ruin of him who hated me,
 or exulted when evil overtook him —
@@ -105,7 +105,7 @@ and the contempt of families terrified me,
 so that I kept silent and did not go out of my door —
 
 [35] oh that I had one to hear me!
-Here is my signature — let Shaddai answer me,
+Here is my signature — let ⟦shaddai|Shaddai|the Almighty⟧ answer me,
 and let my adversary write an indictment.
 
 [36] Surely I would carry it on my shoulder;
@@ -123,10 +123,11 @@ and made its owners breathe their last —
 [40] let thorns grow instead of wheat,
 and noxious weeds instead of barley."
 
-The words of Job are ended.
+The words of ⟦job|Iyov|Job⟧ are ended.
 
 ## Changes
 
+- **"God" → "El"** (v14, 23, 28) — Hebrew אֵל *El*, not *Elohim*.
 - **"kissed my hand" — retained** (v27) — Hebrew *tishshaq yadi le-fi*; ritual gesture of sun/moon worship.
 - **"oh that one would hear me!" → "oh that I had one to hear me! Here is my signature"** (v35) — Hebrew *hen tavi*; "behold my *tav*" = mark/signature (final letter of Hebrew alphabet). Legal: Job "signs" his affidavit.
 - **"cockle" → "noxious weeds"** (v40) — *bo'shah*; stinkweed.

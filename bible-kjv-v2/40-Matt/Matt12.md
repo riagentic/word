@@ -1,38 +1,38 @@
 # Matthew 12
 
-[1] At that time *Yeshua* went through the grainfields on the Sabbath. His disciples were hungry, and they began to pluck heads of grain and to eat.
+[1] At that time ⟦yeshua|Yeshua|Jesus⟧ went through the grainfields on the ⟦shabbat|Shabbat|Sabbath⟧. His disciples were hungry, and they began to pluck heads of grain and to eat.
 
-[2] But when the Pharisees saw it, they said to him, "Look, your disciples are doing what is not lawful to do on the Sabbath."
+[2] But when the ⟦pharisees|Perushim|Pharisees⟧ saw it, they said to him, "Look, your disciples are doing what is not lawful to do on the ⟦shabbat|Shabbat|Sabbath⟧."
 
 [3] He said to them, "Have you not read what David did when he was hungry, and those who were with him:
 
-[4] how he entered the house of *Elohim* and ate the bread of the Presence, which it was not lawful for him to eat nor for those who were with him, but only for the priests?
+[4] how he entered the house of ⟦elohim|Elohim|God⟧ and ate the bread of the Presence, which it was not lawful for him to eat nor for those who were with him, but only for the priests?
 
-[5] Or have you not read in the Law how on the Sabbath the priests in the temple profane the Sabbath and are guiltless?
+[5] Or have you not read in the ⟦torah|Torah|Law⟧ how on the ⟦shabbat|Shabbat|Sabbath⟧ the priests in the temple profane the ⟦shabbat|Shabbat|Sabbath⟧ and are guiltless?
 
 [6] I tell you, something greater than the temple is here.
 
 [7] And if you had known what this means, '**I desire mercy, and not sacrifice**,' you would not have condemned the guiltless.
 
-[8] For the Son of Man is Lord of the Sabbath."
+[8] For the Son of Man is Lord of the ⟦shabbat|Shabbat|Sabbath⟧."
 
 [9] He went on from there and entered their synagogue.
 
-[10] And a man was there with a withered hand. And they asked him, "Is it lawful to heal on the Sabbath?" — so that they might accuse him.
+[10] And a man was there with a withered hand. And they asked him, "Is it lawful to heal on the ⟦shabbat|Shabbat|Sabbath⟧?" — so that they might accuse him.
 
-[11] He said to them, "Which one of you who has a sheep, if it falls into a pit on the Sabbath, will not take hold of it and lift it out?
+[11] He said to them, "Which one of you who has a sheep, if it falls into a pit on the ⟦shabbat|Shabbat|Sabbath⟧, will not take hold of it and lift it out?
 
-[12] Of how much more value is a man than a sheep! So it is lawful to do good on the Sabbath."
+[12] Of how much more value is a man than a sheep! So it is lawful to do good on the ⟦shabbat|Shabbat|Sabbath⟧."
 
 [13] Then he said to the man, "Stretch out your hand." And the man stretched it out, and it was restored, healthy like the other.
 
-[14] But the Pharisees went out and conspired against him, how to destroy him.
+[14] But the ⟦pharisees|Perushim|Pharisees⟧ went out and conspired against him, how to destroy him.
 
-[15] *Yeshua*, aware of this, withdrew from there. And many followed him, and he healed them all
+[15] ⟦yeshua|Yeshua|Jesus⟧, aware of this, withdrew from there. And many followed him, and he healed them all
 
 [16] and ordered them not to make him known.
 
-[17] This was to fulfill what was spoken by the prophet Isaiah:
+[17] This was to fulfill what was spoken by the prophet ⟦isaiah|Yeshayahu|Isaiah⟧:
 
 [18] "Behold, my servant whom I have chosen,
 my beloved with whom my soul is well pleased.
@@ -52,7 +52,7 @@ until he brings justice to victory;
 
 [23] And all the people were amazed, and said, "Can this be the Son of David?"
 
-[24] But when the Pharisees heard it, they said, "It is only by Beelzebul, the prince of demons, that this man casts out demons."
+[24] But when the ⟦pharisees|Perushim|Pharisees⟧ heard it, they said, "It is only by Beelzebul, the prince of demons, that this man casts out demons."
 
 [25] Knowing their thoughts, he said to them, "Every kingdom divided against itself is laid waste, and no city or house divided against itself will stand.
 
@@ -60,7 +60,7 @@ until he brings justice to victory;
 
 [27] And if I cast out demons by Beelzebul, by whom do your sons cast them out? Therefore they will be your judges.
 
-[28] But if it is by the Spirit of *Elohim* that I cast out demons, then the kingdom of *Elohim* has come upon you.
+[28] But if it is by the Spirit of ⟦elohim|Elohim|God⟧ that I cast out demons, then the kingdom of ⟦elohim|Elohim|God⟧ has come upon you.
 
 [29] Or how can someone enter a strong man's house and plunder his goods, unless he first binds the strong man? Then indeed he may plunder his house.
 
@@ -68,7 +68,7 @@ until he brings justice to victory;
 
 [31] Therefore I tell you, every sin and blasphemy will be forgiven people, but the blasphemy against the Spirit will not be forgiven.
 
-[32] And whoever speaks a word against the Son of Man will be forgiven, but whoever speaks against the *Ruach HaQodesh* will not be forgiven, either in this age or in the age to come.
+[32] And whoever speaks a word against the Son of Man will be forgiven, but whoever speaks against the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧ will not be forgiven, either in this age or in the age to come.
 
 [33] "Either make the tree good and its fruit good, or make the tree bad and its fruit bad, for the tree is known by its fruit.
 
@@ -80,15 +80,15 @@ until he brings justice to victory;
 
 [37] for by your words you will be justified, and by your words you will be condemned."
 
-[38] Then some of the scribes and Pharisees answered him, saying, "Teacher, we wish to see a sign from you."
+[38] Then some of the scribes and ⟦pharisees|Perushim|Pharisees⟧ answered him, saying, "Teacher, we wish to see a sign from you."
 
-[39] But he answered them, "An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of the prophet Jonah.
+[39] But he answered them, "An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of the prophet ⟦jonah|Yonah|Jonah⟧.
 
-[40] For just as Jonah was three days and three nights in the belly of the great fish, so will the Son of Man be three days and three nights in the heart of the earth.
+[40] For just as ⟦jonah|Yonah|Jonah⟧ was three days and three nights in the belly of the great fish, so will the Son of Man be three days and three nights in the heart of the earth.
 
-[41] The men of Nineveh will rise up at the judgment with this generation and condemn it, for they repented at the preaching of Jonah, and behold, something greater than Jonah is here.
+[41] The men of ⟦nineveh|Ninveh|Nineveh⟧ will rise up at the judgment with this generation and condemn it, for they repented at the preaching of ⟦jonah|Yonah|Jonah⟧, and behold, something greater than ⟦jonah|Yonah|Jonah⟧ is here.
 
-[42] The queen of the South will rise up at the judgment with this generation and condemn it, for she came from the ends of the earth to hear the wisdom of Solomon, and behold, something greater than Solomon is here.
+[42] The queen of the South will rise up at the judgment with this generation and condemn it, for she came from the ends of the earth to hear the wisdom of ⟦solomon|Shlomo|Solomon⟧, and behold, something greater than ⟦solomon|Shlomo|Solomon⟧ is here.
 
 [43] "When the unclean spirit has gone out of a person, it passes through waterless places seeking rest, but finds none.
 

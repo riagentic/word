@@ -20,7 +20,7 @@ nor the scoundrel said to be honorable.
 [6] For the fool speaks folly,
 and his heart is busy with iniquity,
 to practice ungodliness,
-to utter error concerning Yahweh,
+to utter error concerning ⟦yhwh|Yahweh|the LORD⟧,
 to leave the craving of the hungry unsatisfied,
 and to deprive the thirsty of drink.
 

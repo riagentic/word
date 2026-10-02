@@ -1,39 +1,39 @@
 # Ozeáš 12
 
-[1] Ephraim se živí větrem
+[1] Efrajim se živí větrem
 a celý den se honí za východním větrem;
 rozmnožují lež a násilí;
-uzavírají smlouvu s Assyrií
-a do Egypta se odváží olej.
+uzavírají smlouvu s ⟦assyria|Aššurem|Asýrií⟧
+a do ⟦egypt|Micrajim|Egypta⟧ se odváží olej.
 
-[2] Yahweh vede spor s Judah
-a potrestá Jacoba podle jeho cest;
+[2] ⟦yhwh|Jahve|Hospodin⟧ vede spor s ⟦judah|Jehudou|Judou⟧
+a potrestá ⟦jacob|Jaakova|Jákoba⟧ podle jeho cest;
 odplatí mu podle jeho skutků.
 
 [3] V lůně chytil svého bratra za patu
-a v mužné síle zápasil s *Elohim*.
+a v mužné síle zápasil s ⟦elohim|Elohim|Bohem⟧.
 
 [4] Zápasil s poslem a přemohl ho;
 plakal a prosil ho o přízeň.
-Setkal se s *Elohim* v Bethelu
-a tam s námi *Elohim* mluvil –
+Setkal se s ⟦elohim|Elohim|Bohem⟧ v ⟦bethel|Bejt Elu|Bét-elu⟧
+a tam s námi ⟦elohim|Elohim|Bůh⟧ mluvil –
 
-[5] Yahweh, *Elohim* zástupů,
-Yahweh je jméno, jímž je připomínán:
+[5] ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ zástupů,
+⟦yhwh|Jahve|Hospodin⟧ je jméno, jímž je připomínán:
 
-[6] „Ty se tedy s pomocí svého *Elohim* obrať,
-drž se věrné lásky a práva
-a stále očekávej svého *Elohim*.“
+[6] „Ty se tedy s pomocí svého ⟦elohim|Elohim|Boha⟧ obrať,
+drž se ⟦steadfast-love|chesedu|milosrdenství⟧ a práva
+a stále očekávej svého ⟦elohim|Elohim|Boha⟧.“
 
 [7] Kupec, v jehož rukou jsou falešné váhy,
 rád utiskuje.
 
-[8] Ephraim řekl: „Ach, vždyť jsem bohatý;
+[8] Efrajim řekl: „Ach, vždyť jsem bohatý;
 získal jsem si jmění;
 v celé mé práci na mně nenajdou nepravost ani hřích.“
 
-[9] Já jsem Yahweh, tvůj *Elohim*,
-od země Egypt;
+[9] Já jsem ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧,
+od země ⟦egypt|Micrajim|Egypt⟧;
 znovu tě usadím ve stanech
 jako ve dnech určeného svátku.
 
@@ -41,20 +41,20 @@ jako ve dnech určeného svátku.
 já jsem rozmnožil vidění
 a skrze proroky jsem mluvil v podobenstvích.
 
-[11] Je-li v Gileadu nepravost,
+[11] Je-li v ⟦gilead|Giladu|Gileádu⟧ nepravost,
 jistě přijdou vniveč:
-v Gilgalu obětují býky;
+v ⟦gilgal|Gilgalu|Gilgálu⟧ obětují býky;
 i jejich oltáře jsou jako hromady kamení
 na brázdách pole.
 
-[12] Jacob utekl do země Aram;
-tam Israel sloužil za ženu
+[12] ⟦jacob|Jaakov|Jákob⟧ utekl do země Aram;
+tam ⟦israel|Jisrael|Izrael⟧ sloužil za ženu
 a za ženu pásl ovce.
 
-[13] Skrze proroka vyvedl Yahweh Israele z Egypta
+[13] Skrze proroka vyvedl ⟦yhwh|Jahve|Hospodin⟧ ⟦israel|Jisraele|Izraele⟧ z ⟦egypt|Micrajim|Egypta⟧
 a skrze proroka byl střežen.
 
-[14] Ephraim vyvolal hořké pohoršení;
+[14] Efrajim vyvolal hořké pohoršení;
 proto na něm jeho Pán ponechá jeho krvavou vinu
 a odplatí mu za jeho hanebné skutky.
 

@@ -3,7 +3,7 @@
 [1] Nejmoudřejší z žen staví svůj dům,
 ale pošetilost jej vlastníma rukama bourá.
 
-[2] Kdo chodí v přímosti, bojí se Yahweh,
+[2] Kdo chodí v přímosti, bojí se ⟦yhwh|Jahveho|Hospodina⟧,
 ale kdo je na svých cestách úskočný, pohrdá jím.
 
 [3] Z úst hlupáka vychází hůl na jeho záda,
@@ -75,10 +75,10 @@ ale pošetilost hlupáků plodí pošetilost.
 [25] Pravdivý svědek zachraňuje duše,
 ale kdo chrlí lži, je lstivý.
 
-[26] V bázni Yahweh má člověk pevnou důvěru
+[26] V bázni ⟦yhwh|Jahveho|Hospodina⟧ má člověk pevnou důvěru
 a jeho děti budou mít útočiště.
 
-[27] Bázeň Yahweh je pramen života,
+[27] Bázeň ⟦yhwh|Jahveho|Hospodina⟧ je pramen života,
 aby se člověk vyhnul osidlům smrti.
 
 [28] V množství lidu je sláva krále,

@@ -2,65 +2,65 @@
 
 [1] Řekl jim podobenství o tom, že se mají stále modlit a neochabovat.
 
-[2] Řekl: „V jednom městě byl soudce, který se nebál *Elohim* a na člověka nedbal.
+[2] Řekl: „V jednom městě byl soudce, který se nebál ⟦elohim|Elohim|Boha⟧ a na člověka nedbal.
 
 [3] V tom městě byla také vdova, která k němu stále chodila a říkala: ‚Zjednej mi právo proti mému protivníkovi.‘
 
-[4] Nějakou dobu nechtěl, ale potom si řekl: ‚I když se *Elohim* nebojím a na člověka nedbám,
+[4] Nějakou dobu nechtěl, ale potom si řekl: ‚I když se ⟦elohim|Elohim|Boha⟧ nebojím a na člověka nedbám,
 
 [5] přece jí zjednám právo, protože mě ta vdova obtěžuje, aby mě nakonec svým ustavičným chozením neutýrala.‘“
 
 [6] Pán řekl: „Slyšte, co říká ten nespravedlivý soudce.
 
-[7] A což *Elohim* nezjedná právo svým vyvoleným, kteří k němu volají dnem i nocí? Bude s nimi dlouho otálet?
+[7] A což ⟦elohim|Elohim|Bůh⟧ nezjedná právo svým vyvoleným, kteří k němu volají dnem i nocí? Bude s nimi dlouho otálet?
 
 [8] Pravím vám, že jim rychle zjedná právo. Ale až přijde Syn člověka, nalezne na zemi víru?“
 
 [9] Některým, kteří spoléhali sami na sebe, že jsou spravedliví, a ostatními pohrdali, řekl také toto podobenství:
 
-[10] „Dva muži vystoupili do chrámu, aby se modlili, jeden farizeus a druhý výběrčí daní.
+[10] „Dva muži vystoupili do chrámu, aby se modlili, jeden ⟦pharisee|paruš|farizeus⟧ a druhý výběrčí daní.
 
-[11] Farizeus se postavil stranou a modlil se takto: ‚*Elohim*, děkuji ti, že nejsem jako ostatní lidé, vyděrači, nespravedliví, cizoložníci, nebo i jako tento výběrčí daní.
+[11] ⟦pharisee|Paruš|Farizeus⟧ se postavil stranou a modlil se takto: ‚⟦elohim|Elohim|Bože⟧, děkuji ti, že nejsem jako ostatní lidé, vyděrači, nespravedliví, cizoložníci, nebo i jako tento výběrčí daní.
 
 [12] Postím se dvakrát týdně; dávám desátky ze všeho, co získám.‘
 
-[13] Výběrčí daní však stál opodál a nechtěl ani pozvednout oči k nebi, ale bil se do prsou a říkal: ‚*Elohim*, buď milostiv mně hříšnému!‘
+[13] Výběrčí daní však stál opodál a nechtěl ani pozvednout oči k nebi, ale bil se do prsou a říkal: ‚⟦elohim|Elohim|Bože⟧, buď milostiv mně hříšnému!‘
 
 [14] Pravím vám, že ten odešel do svého domu ospravedlněn, a ne onen. **Neboť každý, kdo se povyšuje, bude ponížen, ale kdo se ponižuje, bude povýšen.**“
 
 [15] Přinášeli k němu i nemluvňata, aby se jich dotkl. Když to učedníci viděli, okřikovali je.
 
-[16] *Yeshua* je však zavolal k sobě a řekl: „Nechte děti přicházet ke mně a nebraňte jim, neboť takovým patří království *Elohim*.
+[16] ⟦yeshua|Ješua|Ježíš⟧ je však zavolal k sobě a řekl: „Nechte děti přicházet ke mně a nebraňte jim, neboť takovým patří království ⟦elohim|Elohim|Boží⟧.
 
-[17] Vpravdě vám pravím, kdo nepřijme království *Elohim* jako dítě, jistě do něho nevejde.“
+[17] Vpravdě vám pravím, kdo nepřijme království ⟦elohim|Elohim|Boží⟧ jako dítě, jistě do něho nevejde.“
 
 [18] Jeden z předních mužů se ho zeptal: „Dobrý Učiteli, co musím dělat, abych zdědil věčný život?“
 
-[19] *Yeshua* mu řekl: „Proč mě nazýváš dobrým? Nikdo není dobrý, jen jediný *Elohim*.
+[19] ⟦yeshua|Ješua|Ježíš⟧ mu řekl: „Proč mě nazýváš dobrým? Nikdo není dobrý, jen jediný ⟦elohim|Elohim|Bůh⟧.
 
 [20] Znáš přikázání: ‚**Necizolož, Nevraždi, Nekraď, Nevydávej křivé svědectví, Cti svého otce a matku**.‘“
 
 [21] On řekl: „To všechno jsem dodržoval od svého mládí.“
 
-[22] Když to *Yeshua* uslyšel, řekl mu: „Ještě jedno ti chybí. Prodej všechno, co máš, a rozdej chudým, a budeš mít poklad v nebi; pak pojď a následuj mě.“
+[22] Když to ⟦yeshua|Ješua|Ježíš⟧ uslyšel, řekl mu: „Ještě jedno ti chybí. Prodej všechno, co máš, a rozdej chudým, a budeš mít poklad v nebi; pak pojď a následuj mě.“
 
 [23] Když to uslyšel, velmi se zarmoutil, neboť byl nesmírně bohatý.
 
-[24] *Yeshua* viděl, že se zarmoutil, a řekl: „Jak těžko vcházejí ti, kdo mají bohatství, do království *Elohim*!
+[24] ⟦yeshua|Ješua|Ježíš⟧ viděl, že se zarmoutil, a řekl: „Jak těžko vcházejí ti, kdo mají bohatství, do království ⟦elohim|Elohim|Božího⟧!
 
-[25] Snáze totiž projde velbloud uchem jehly, než vejde bohatý do království *Elohim*.“
+[25] Snáze totiž projde velbloud uchem jehly, než vejde bohatý do království ⟦elohim|Elohim|Božího⟧.“
 
 [26] Ti, kdo to slyšeli, řekli: „Kdo tedy může být spasen?“
 
-[27] On však řekl: „Co je nemožné u člověka, je možné u *Elohim*.“
+[27] On však řekl: „Co je nemožné u člověka, je možné u ⟦elohim|Elohim|Boha⟧.“
 
-[28] *Kefa* řekl: „Hle, my jsme opustili své domovy a šli jsme za tebou.“
+[28] ⟦peter|Kefa|Petr⟧ řekl: „Hle, my jsme opustili své domovy a šli jsme za tebou.“
 
-[29] Řekl jim: „Vpravdě vám pravím, není nikoho, kdo opustil dům nebo ženu nebo bratry nebo rodiče nebo děti kvůli království *Elohim*,
+[29] Řekl jim: „Vpravdě vám pravím, není nikoho, kdo opustil dům nebo ženu nebo bratry nebo rodiče nebo děti kvůli království ⟦elohim|Elohim|Božímu⟧,
 
 [30] aby nedostal mnohonásobně víc v tomto čase a ve věku, který přichází, věčný život.“
 
-[31] Vzal k sobě těch dvanáct a řekl jim: „Hle, vystupujeme do Jerusalemu a naplní se všechno, co napsali proroci o Synu člověka.
+[31] Vzal k sobě těch dvanáct a řekl jim: „Hle, vystupujeme do ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ a naplní se všechno, co napsali proroci o Synu člověka.
 
 [32] Bude totiž vydán pohanům, budou se mu posmívat, hanebně s ním zacházet a plivat na něj.
 
@@ -72,19 +72,19 @@
 
 [36] Když uslyšel, že jde kolem zástup, vyptával se, co to znamená.
 
-[37] Řekli mu: „Jde tudy *Yeshua* z Nazarethu.“
+[37] Řekli mu: „Jde tudy ⟦yeshua|Ješua|Ježíš⟧ z ⟦nazareth|Nacratu|Nazareta⟧.“
 
-[38] I vykřikl: „*Yeshuo*, Synu Davidův, smiluj se nade mnou!“
+[38] I vykřikl: „⟦yeshua|Ješuo|Ježíši⟧, Synu Davidův, smiluj se nade mnou!“
 
 [39] Ti, kdo šli vpředu, ho okřikovali, aby mlčel. On však křičel ještě víc: „Synu Davidův, smiluj se nade mnou!“
 
-[40] *Yeshua* se zastavil a přikázal, aby ho k němu přivedli. Když přišel blízko, zeptal se ho:
+[40] ⟦yeshua|Ješua|Ježíš⟧ se zastavil a přikázal, aby ho k němu přivedli. Když přišel blízko, zeptal se ho:
 
 [41] „Co chceš, abych pro tebe udělal?“ On řekl: „Pane, ať znovu vidím.“
 
-[42] *Yeshua* mu řekl: „Prohlédni; tvá víra tě uzdravila.“
+[42] ⟦yeshua|Ješua|Ježíš⟧ mu řekl: „Prohlédni; tvá víra tě uzdravila.“
 
-[43] Ihned prohlédl a šel za ním a oslavoval *Elohim*. A všechen lid, když to viděl, vzdal chválu *Elohim*.
+[43] Ihned prohlédl a šel za ním a oslavoval ⟦elohim|Elohim|Boha⟧. A všechen lid, když to viděl, vzdal chválu ⟦elohim|Elohim|Bohu⟧.
 
 ## Změny
 

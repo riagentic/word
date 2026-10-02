@@ -1,20 +1,20 @@
 # Isaiah 39
 
-[1] At that time Merodach-Baladan son of Baladan, king of Babylon, sent envoys with letters and a present to Hezekiah, for he had heard that he had been sick and had recovered.
+[1] At that time Merodach-Baladan son of Baladan, king of ⟦babylon|Bavel|Babylon⟧, sent envoys with letters and a present to ⟦hezekiah|Chizqiyahu|Hezekiah⟧, for he had heard that he had been sick and had recovered.
 
-[2] And Hezekiah welcomed them gladly. And he showed them his treasure house, the silver, the gold, the spices, the precious oil, his whole armory, all that was found in his storehouses. There was nothing in his house or in all his realm that Hezekiah did not show them.
+[2] And ⟦hezekiah|Chizqiyahu|Hezekiah⟧ welcomed them gladly. And he showed them his treasure house, the silver, the gold, the spices, the precious oil, his whole armory, all that was found in his storehouses. There was nothing in his house or in all his realm that ⟦hezekiah|Chizqiyahu|Hezekiah⟧ did not show them.
 
-[3] Then Isaiah the prophet came to King Hezekiah, and said to him, "What did these men say? And from where did they come to you?" Hezekiah said, "They have come to me from a far country, from Babylon."
+[3] Then ⟦isaiah|Yeshayahu|Isaiah⟧ the prophet came to King ⟦hezekiah|Chizqiyahu|Hezekiah⟧, and said to him, "What did these men say? And from where did they come to you?" ⟦hezekiah|Chizqiyahu|Hezekiah⟧ said, "They have come to me from a far country, from ⟦babylon|Bavel|Babylon⟧."
 
-[4] He said, "What have they seen in your house?" Hezekiah answered, "They have seen all that is in my house. There is nothing in my storehouses that I did not show them."
+[4] He said, "What have they seen in your house?" ⟦hezekiah|Chizqiyahu|Hezekiah⟧ answered, "They have seen all that is in my house. There is nothing in my storehouses that I did not show them."
 
-[5] Then Isaiah said to Hezekiah, "Hear the word of Yahweh of Hosts:
+[5] Then ⟦isaiah|Yeshayahu|Isaiah⟧ said to ⟦hezekiah|Chizqiyahu|Hezekiah⟧, "Hear the word of ⟦yhwh|Yahweh|the LORD⟧ of Hosts:
 
-[6] Behold, the days are coming, when all that is in your house, and that which your fathers have stored up till this day, shall be carried to Babylon. Nothing shall be left, says Yahweh.
+[6] Behold, the days are coming, when all that is in your house, and that which your fathers have stored up till this day, shall be carried to ⟦babylon|Bavel|Babylon⟧. Nothing shall be left, says ⟦yhwh|Yahweh|the LORD⟧.
 
-[7] And some of your own sons, who will come from you, whom you will father, shall be taken away, and they shall be eunuchs in the palace of the king of Babylon."
+[7] And some of your own sons, who will come from you, whom you will father, shall be taken away, and they shall be eunuchs in the palace of the king of ⟦babylon|Bavel|Babylon⟧."
 
-[8] Then said Hezekiah to Isaiah, "The word of Yahweh that you have spoken is good." For he thought, "There will be peace and security in my days."
+[8] Then said ⟦hezekiah|Chizqiyahu|Hezekiah⟧ to ⟦isaiah|Yeshayahu|Isaiah⟧, "The word of ⟦yhwh|Yahweh|the LORD⟧ that you have spoken is good." For he thought, "There will be peace and security in my days."
 
 ## Changes
 

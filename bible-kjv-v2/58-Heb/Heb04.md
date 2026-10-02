@@ -11,7 +11,7 @@
 
 although his works were finished from the foundation of the world.
 
-[4] For he has somewhere spoken of the seventh day in this way: "**And *Elohim* rested on the seventh day from all his works**."
+[4] For he has somewhere spoken of the seventh day in this way: "**And ⟦elohim|Elohim|God⟧ rested on the seventh day from all his works**."
 
 [5] And again in this passage he said,
 
@@ -24,19 +24,19 @@ although his works were finished from the foundation of the world.
 "**Today, if you hear his voice,
 do not harden your hearts**."
 
-[8] For if Joshua had given them rest, *Elohim* would not have spoken of another day later on.
+[8] For if ⟦joshua|Yehoshua|Joshua⟧ had given them rest, ⟦elohim|Elohim|God⟧ would not have spoken of another day later on.
 
-[9] So then, there remains a Sabbath rest for the people of *Elohim*,
+[9] So then, there remains a ⟦shabbat|Shabbat|Sabbath⟧ rest for the people of ⟦elohim|Elohim|God⟧,
 
-[10] for whoever has entered *Elohim*'s rest has also rested from his works as *Elohim* did from his.
+[10] for whoever has entered ⟦elohim|Elohim's|God's⟧ rest has also rested from his works as ⟦elohim|Elohim|God⟧ did from his.
 
 [11] Let us therefore strive to enter that rest, so that no one may fall by the same sort of disobedience.
 
-[12] **For the word of *Elohim* is living and active, sharper than any two-edged sword, piercing to the division of soul and of spirit, of joints and of marrow, and discerning the thoughts and intentions of the heart.**
+[12] **For the word of ⟦elohim|Elohim|God⟧ is living and active, sharper than any two-edged sword, piercing to the division of soul and of spirit, of joints and of marrow, and discerning the thoughts and intentions of the heart.**
 
 [13] And no creature is hidden from his sight, but all are naked and exposed to the eyes of him to whom we must give account.
 
-[14] Since then we have a great high priest who has passed through the heavens, *Yeshua* the Son of *Elohim*, let us hold fast our confession.
+[14] Since then we have a great high priest who has passed through the heavens, ⟦yeshua|Yeshua|Jesus⟧ the Son of ⟦elohim|Elohim|God⟧, let us hold fast our confession.
 
 [15] **For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin.**
 

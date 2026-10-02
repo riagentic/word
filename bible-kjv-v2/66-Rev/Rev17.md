@@ -8,9 +8,9 @@
 
 [4] The woman was arrayed in purple and scarlet, and adorned with gold and jewels and pearls, holding in her hand a golden cup full of abominations and the impurities of her sexual immorality.
 
-[5] And on her forehead was written a name, a mystery: "**Babylon the great, mother of prostitutes and of earth's abominations**."
+[5] And on her forehead was written a name, a mystery: "**⟦babylon|Bavel|Babylon⟧ the great, mother of prostitutes and of earth's abominations**."
 
-[6] And I saw the woman, drunk with the blood of the saints, the blood of the martyrs of *Yeshua*.
+[6] And I saw the woman, drunk with the blood of the saints, the blood of the martyrs of ⟦yeshua|Yeshua|Jesus⟧.
 
 When I saw her, I marveled greatly.
 
@@ -34,7 +34,7 @@ When I saw her, I marveled greatly.
 
 [16] And the ten horns that you saw, they and the beast will hate the prostitute. They will make her desolate and naked, and devour her flesh and burn her up with fire,
 
-[17] for *Elohim* has put it into their hearts to carry out his purpose by being of one mind and handing over their royal power to the beast, until the words of *Elohim* are fulfilled.
+[17] for ⟦elohim|Elohim|God⟧ has put it into their hearts to carry out his purpose by being of one mind and handing over their royal power to the beast, until the words of ⟦elohim|Elohim|God⟧ are fulfilled.
 
 [18] And the woman that you saw is the great city that has dominion over the kings of the earth."
 

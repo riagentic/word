@@ -1,12 +1,12 @@
 # Deuteronomium 33
 
-[1] Toto je požehnání, kterým Moses, muž *Elohim*, požehnal synům Israele před svou smrtí.
+[1] Toto je požehnání, kterým ⟦moses|Moše|Mojžíš⟧, muž ⟦elohim|Elohim|Boží⟧, požehnal synům ⟦israel|Jisraele|Izraele⟧ před svou smrtí.
 
 [2] Řekl:
 
-„Yahweh přišel ze Sinai;
-vzešel nad nimi ze Seiru;
-zazářil z hory Paran;
+„⟦yhwh|Jahve|Hospodin⟧ přišel ze ⟦sinai|Sinaje|Sínaje⟧;
+vzešel nad nimi ze ⟦seir|Seiru|Seíru⟧;
+zazářil z hory ⟦paran|Paran|Páran⟧;
 přišel od desetitisíců svatých,
 s blýskajícím se bleskem po své pravici pro ně.
 
@@ -15,29 +15,29 @@ všichni jeho svatí jsou v tvé ruce;
 usadili se u tvých nohou;
 každý přijímá tvá slova.
 
-[4] Moses nám přikázal *Torah*,
-vlastnictví shromáždění Jacobova.
+[4] ⟦moses|Moše|Mojžíš⟧ nám přikázal ⟦torah|Tóru|zákon⟧,
+vlastnictví shromáždění ⟦jacob|Jaakovova|Jákobova⟧.
 
-[5] Byl králem v Jeshurunu,
+[5] Byl králem v ⟦jeshurun|Ješurunu|Ješurúnu⟧,
 když se shromáždili náčelníci lidu,
-kmeny Israele pospolu.“
+kmeny ⟦israel|Jisraele|Izraele⟧ pospolu.“
 
-[6] „Ať Reuben žije a nezemře,
+[6] „Ať ⟦reuben|Reuven|Rúben⟧ žije a nezemře,
 i když jeho mužů bude málo.“
 
-[7] A toto je o Judahovi; řekl:
+[7] A toto je o ⟦judah|Jehudovi|Judovi⟧; řekl:
 
-„Slyš, Yahweh, hlas Judaha
+„Slyš, ⟦yhwh|Jahve|Hospodine⟧, hlas ⟦judah|Jehudy|Judy⟧
 a přiveď ho k jeho lidu.
 Vlastníma rukama zápasí sám za sebe;
 buď mu pomocí proti jeho protivníkům.“
 
-[8] O Levim řekl:
+[8] O ⟦levi|Levim|Lévim⟧ řekl:
 
-„Dej svůj Thummim Levimu,
-svůj Urim svému věrnému,
-kterého jsi zkoušel v Massah,
-s nímž ses přel u vod Meribah.
+„Dej svůj ⟦thummim|Tummim|tumím⟧ ⟦levi|Levimu|Lévimu⟧,
+svůj ⟦urim|Urim|urím⟧ svému věrnému,
+kterého jsi zkoušel v ⟦massah|Masse|Mase⟧,
+s nímž ses přel u vod ⟦meribah|Merivy|Meriby⟧.
 
 [9] Který o svém otci a matce řekl: ‚Nehledím na ně‘;
 své bratry nepoznal
@@ -45,25 +45,25 @@ a o svých vlastních dětech nevěděl.
 Neboť dbali na tvé slovo
 a zachovávali tvou smlouvu.
 
-[10] Budou učit Jacoba tvým nařízením,
-Israel tvé *Torah*;
+[10] Budou učit ⟦jacob|Jaakova|Jákoba⟧ tvým nařízením,
+⟦israel|Jisrael|Izrael⟧ ⟦torah|tvé Tóře|tvému zákonu⟧;
 budou klást kadidlo před tebe
 a celopaly na tvůj oltář.
 
-[11] Požehnej, Yahweh, jeho síle
+[11] Požehnej, ⟦yhwh|Jahve|Hospodine⟧, jeho síle
 a přijmi dílo jeho rukou.
 Rozdrť bedra těch, kdo proti němu povstávají,
 těch, kdo ho nenávidí, ať už nepovstanou.“
 
-[12] O Benjaminovi řekl:
+[12] O ⟦benjamin|Binjaminovi|Benjamínovi⟧ řekl:
 
-„Milovaný Yahweh přebývá v bezpečí vedle něho;
+„Milovaný ⟦yhwh|Jahveho|Hospodina⟧ přebývá v bezpečí vedle něho;
 on ho ochraňuje po celý den
 a přebývá mezi jeho rameny.“
 
-[13] O Josephovi řekl:
+[13] O Josefovi řekl:
 
-„Požehnaná od Yahweh buď jeho země –
+„Požehnaná od ⟦yhwh|Jahveho|Hospodina⟧ buď jeho země –
 tím nejvzácnějším z nebes nahoře, rosou,
 i hlubinou, která leží dole;
 
@@ -75,73 +75,73 @@ a hojností věčných pahorků;
 
 [16] tím nejvzácnějším ze země a její plnosti
 a přízní toho, který přebýval v keři.
-Ať to přijde na hlavu Josepha,
+Ať to přijde na hlavu Josefa,
 na temeno toho, který je oddělen od svých bratrů.
 
 [17] Jeho prvorozený býk – jemu patří velebnost;
 jeho rohy jsou rohy divokého tura;
 jimi trká národy,
 všechny, až do končin země.
-To jsou desetitisíce Ephraima,
-to jsou tisíce Manasseha.“
+To jsou desetitisíce Efrajima,
+to jsou tisíce ⟦manasseh|Menaše|Manasese⟧.“
 
-[18] O Zebulunovi řekl:
+[18] O ⟦zebulun|Zevulunovi|Zabulónovi⟧ řekl:
 
-„Raduj se, Zebulune, ve svém vycházení,
-a ty, Issachare, ve svých stanech.
+„Raduj se, ⟦zebulun|Zevulune|Zabulóne⟧, ve svém vycházení,
+a ty, ⟦issachar|Jissachare|Isachare⟧, ve svých stanech.
 
 [19] Svolají národy na svou horu;
 tam budou obětovat oběti spravedlnosti;
 neboť budou sát hojnost moří
 a skryté poklady písku.“
 
-[20] O Gadovi řekl:
+[20] O ⟦gad|Gadovi|Gádovi⟧ řekl:
 
-„Požehnaný, kdo rozšiřuje Gada!
+„Požehnaný, kdo rozšiřuje ⟦gad|Gada|Gáda⟧!
 Krčí se jako lvice,
 trhá paži, i temeno hlavy.
 
 [21] Vybral si to nejlepší pro sebe –
 neboť tam byl vyhrazen podíl velitele;
 přišel s náčelníky lidu
-a vykonal spravedlnost Yahweh
-a jeho nařízení s Israelem.“
+a vykonal spravedlnost ⟦yhwh|Jahveho|Hospodina⟧
+a jeho nařízení s ⟦israel|Jisraelem|Izraelem⟧.“
 
 [22] O Danovi řekl:
 
 „Dan je lvíče,
-které vyskakuje z Bashanu.“
+které vyskakuje z ⟦bashan|Bašanu|Bášanu⟧.“
 
-[23] O Naphtalim řekl:
+[23] O ⟦naphtali|Naftalim|Neftalím⟧ řekl:
 
-„Naphtali, nasycený přízní,
-plný požehnání Yahweh –
+„⟦naphtali|Naftali|Neftalí⟧, nasycený přízní,
+plný požehnání ⟦yhwh|Jahveho|Hospodina⟧ –
 vlastni moře a jih.“
 
-[24] O Asherovi řekl:
+[24] O Ašerovi řekl:
 
-„Nejpožehnanější ze synů buď Asher;
+„Nejpožehnanější ze synů buď Ašer;
 ať má přízeň u svých bratrů
 a ať smáčí svou nohu v oleji.
 
 [25] Tvé závory budou ze železa a bronzu;
 a jaké tvé dny, taková bude tvá síla.
 
-[26] Není nikdo jako *Elohim* Jeshurunu,
+[26] Není nikdo jako ⟦el|El|Bůh⟧ ⟦jeshurun|Ješurunu|Ješurúnu⟧,
 který jede přes nebesa tobě na pomoc,
 přes oblaka ve své velebnosti.
 
-[27] Pradávný *Elohim* je příbytkem
+[27] Pradávný ⟦elohim|Elohim|Bůh⟧ je příbytkem
 a dole jsou věčné paže.
 Vyhnal před tebou nepřítele
 a řekl: ‚Hub!‘
 
-[28] Tak Israel bydlí v bezpečí, osamocen;
-pramen Jacobův je v zemi obilí a mladého vína;
+[28] Tak ⟦israel|Jisrael|Izrael⟧ bydlí v bezpečí, osamocen;
+pramen ⟦jacob|Jaakovův|Jákobův⟧ je v zemi obilí a mladého vína;
 jeho nebesa kanou rosou.
 
-[29] Blaze tobě, Israeli! Kdo je jako ty,
-lid zachráněný Yahweh,
+[29] Blaze tobě, ⟦israel|Jisraeli|Izraeli⟧! Kdo je jako ty,
+lid zachráněný ⟦yhwh|Jahvem|Hospodinem⟧,
 štít tvé pomoci
 a meč tvé velebnosti.
 Tvoji nepřátelé se ti budou podlézavě klanět
@@ -151,6 +151,7 @@ a ty budeš šlapat po jejich výšinách.“
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – zachován tetragram.
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
+- **"the God of Jeshurun" → „El Jeshurunu“** (v26) – hebrejsky כָּאֵל יְשֻׁרוּן *ka-El Yeshurun*.
 - **"law" → „*Torah*“** (v4, 10) – hebrejsky תּוֹרָה *torah*; Mosesovo poučení.
 - **"saints" → „svatí“** (v2, 3) – hebrejsky קְדֹשִׁים *qedoshim*. V kontextu nebeské bytosti / andělé.
 - **"fiery law" → „blýskající se blesk“** (v2) – hebrejsky אֵשׁ דָּת *esh dat*. Nejasné; „oheň zákona“ (KJV), nebo „blýskání“ / „blesk“ / něco o vycházejícím ohni. „Blesk“ odpovídá teofanickým obrazům.

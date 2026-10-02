@@ -1,18 +1,18 @@
 # Malachiáš 4
 
-[1] „Neboť hle, přichází den, hořící jako pec, kdy všichni domýšliví a všichni zločinci budou strništěm. Den, který přichází, je zapálí, praví Yahweh zástupů, takže jim nezanechá kořen ani větev.
+[1] „Neboť hle, přichází den, hořící jako pec, kdy všichni domýšliví a všichni zločinci budou strništěm. Den, který přichází, je zapálí, praví ⟦yhwh|Jahve|Hospodin⟧ zástupů, takže jim nezanechá kořen ani větev.
 
 [2] Ale pro vás, kdo se bojíte mého jména,
 vzejde Slunce spravedlnosti
 s uzdravením na svých křídlech.
 Vyjdete a budete poskakovat jako telata z chléva.
 
-[3] A budete šlapat svévolníky, neboť budou popelem pod chodidly vašich nohou v den, kdy budu jednat, praví Yahweh zástupů.
+[3] A budete šlapat svévolníky, neboť budou popelem pod chodidly vašich nohou v den, kdy budu jednat, praví ⟦yhwh|Jahve|Hospodin⟧ zástupů.
 
-[4] Pamatujte na Zákon mého služebníka Mosese, na ustanovení a právní řády, které jsem mu přikázal na Horebu pro celý Israel.
+[4] Pamatujte na ⟦torah|Tóru|zákon⟧ mého služebníka ⟦moses|Moše|Mojžíše⟧, na ustanovení a právní řády, které jsem mu přikázal na ⟦horeb|Chorevu|Chorébu⟧ pro celý ⟦israel|Jisrael|Izrael⟧.
 
-[5] **Hle, pošlu vám proroka Elijaha,
-dříve než přijde veliký a hrozný den Yahweh.**
+[5] **Hle, pošlu vám proroka ⟦elijah|Elijahua|Eliáše⟧,
+dříve než přijde veliký a hrozný den ⟦yhwh|Jahveho|Hospodina⟧.**
 
 **[6] On obrátí srdce otců k dětem
 a srdce dětí k jejich otcům,

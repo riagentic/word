@@ -3,7 +3,7 @@
 [1] Kdo miluje kázeň, miluje poznání,
 ale kdo nenávidí pokárání, je tupý.
 
-[2] Dobrý člověk získává přízeň od Yahweh,
+[2] Dobrý člověk získává přízeň od ⟦yhwh|Jahveho|Hospodina⟧,
 ale muže zlých úmyslů odsuzuje.
 
 [3] Nikdo se neupevní ničemností,
@@ -63,7 +63,7 @@ ale ti, kdo plánují pokoj, mají radost.
 [21] Spravedlivého nepotká žádné neštěstí,
 ale ničemní jsou plni trápení.
 
-[22] Lživé rty jsou Yahweh ohavností,
+[22] Lživé rty jsou ⟦yhwh|Jahvovi|Hospodinu⟧ ohavností,
 ale ti, kdo jednají věrně, jsou jeho potěšením.
 
 [23] Prozíravý člověk skrývá poznání,

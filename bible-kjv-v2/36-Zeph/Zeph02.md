@@ -6,25 +6,25 @@ O shameless nation,
 [2] before the decree takes effect —
 before the day passes away like chaff —
 before there comes upon you
-the burning anger of Yahweh,
+the burning anger of ⟦yhwh|Yahweh|the LORD⟧,
 before there comes upon you
-the day of the anger of Yahweh.
+the day of the anger of ⟦yhwh|Yahweh|the LORD⟧.
 
-[3] Seek Yahweh, all you humble of the land,
+[3] Seek ⟦yhwh|Yahweh|the LORD⟧, all you humble of the land,
 who do his just commands;
 seek righteousness; seek humility;
 perhaps you may be hidden
-on the day of the anger of Yahweh.
+on the day of the anger of ⟦yhwh|Yahweh|the LORD⟧.
 
-[4] For Gaza shall be deserted,
-and Ashkelon shall become a desolation;
+[4] For ⟦gaza|Azzah|Gaza⟧ shall be deserted,
+and ⟦ashkelon|Ashqelon|Ashkelon⟧ shall become a desolation;
 Ashdod's people shall be driven out at noon,
-and Ekron shall be uprooted.
+and ⟦ekron|Eqron|Ekron⟧ shall be uprooted.
 
 [5] Woe to you inhabitants of the seacoast,
-you nation of the Cherethites!
-The word of Yahweh is against you,
-O Canaan, land of the Philistines;
+you nation of the ⟦cherethites|Keretim|Cherethites⟧!
+The word of ⟦yhwh|Yahweh|the LORD⟧ is against you,
+O ⟦canaan|Kenaan|Canaan⟧, land of the ⟦philistines|Pelishtim|Philistines⟧;
 and I will destroy you until no inhabitant is left.
 
 [6] And you, O seacoast, shall be pastures,
@@ -32,21 +32,21 @@ with meadows for shepherds
 and folds for flocks.
 
 [7] The seacoast shall become the possession
-of the remnant of the house of Judah,
+of the remnant of the house of ⟦judah|Yehudah|Judah⟧,
 on which they shall graze,
-and in the houses of Ashkelon they shall lie down at evening.
-For Yahweh their *Elohim* will be mindful of them
+and in the houses of ⟦ashkelon|Ashqelon|Ashkelon⟧ they shall lie down at evening.
+For ⟦yhwh|Yahweh|the LORD⟧ their ⟦elohim|Elohim|God⟧ will be mindful of them
 and restore their fortunes.
 
-[8] "I have heard the taunts of Moab
-and the revilings of the Ammonites,
+[8] "I have heard the taunts of ⟦moab|Moav|Moab⟧
+and the revilings of the ⟦ammonites|Ammonim|Ammonites⟧,
 how they have taunted my people
 and made boasts against their territory.
 
-[9] Therefore, as I live," declares Yahweh of Hosts,
-the *Elohim* of Israel,
-"Moab shall become like Sodom,
-and the Ammonites like Gomorrah,
+[9] Therefore, as I live," declares ⟦yhwh|Yahweh|the LORD⟧ of Hosts,
+the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧,
+"⟦moab|Moav|Moab⟧ shall become like ⟦sodom|Sedom|Sodom⟧,
+and the ⟦ammonites|Ammonim|Ammonites⟧ like ⟦gomorrah|Amorah|Gomorrah⟧,
 a land possessed by nettles and salt pits,
 and a waste forever.
 The remnant of my people shall plunder them,
@@ -54,20 +54,20 @@ and the survivors of my nation shall possess them."
 
 [10] This shall be their lot in return for their pride,
 because they taunted and boasted
-against the people of Yahweh of Hosts.
+against the people of ⟦yhwh|Yahweh|the LORD⟧ of Hosts.
 
-[11] Yahweh will be awesome against them;
+[11] ⟦yhwh|Yahweh|The LORD⟧ will be awesome against them;
 for he will famish all the gods of the earth,
 and to him shall bow down,
 each in its place,
 all the lands of the nations.
 
-[12] You also, O Cushites,
+[12] You also, O ⟦cushites|Kushim|Cushites⟧,
 shall be slain by my sword.
 
 [13] And he will stretch out his hand against the north
-and destroy Assyria,
-and he will make Nineveh a desolation,
+and destroy ⟦assyria|Ashur|Assyria⟧,
+and he will make ⟦nineveh|Ninveh|Nineveh⟧ a desolation,
 a dry waste like the desert.
 
 [14] Herds shall lie down in her midst,

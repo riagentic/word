@@ -1,10 +1,10 @@
 # Ezechiel 24
 
-[1] V devátém roce, v desátém měsíci, desátého dne toho měsíce, přišlo ke mně slovo Yahweh:
+[1] V devátém roce, v desátém měsíci, desátého dne toho měsíce, přišlo ke mně slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[2] „Synu člověka, zapiš si jméno tohoto dne, právě tohoto dne. Babylonský král oblehl Jerusalem právě tohoto dne.
+[2] „Synu člověka, zapiš si jméno tohoto dne, právě tohoto dne. ⟦babylon|Bavelský|Babylónský⟧ král oblehl ⟦jerusalem|Jerušalajim|Jeruzalém⟧ právě tohoto dne.
 
-[3] A pověz vzpurnému domu podobenství a řekni jim: Toto praví Pán Yahweh:
+[3] A pověz vzpurnému domu podobenství a řekni jim: Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧:
 
 ‚Postav hrnec, postav jej;
 nalij do něj také vodu;
@@ -18,13 +18,13 @@ navrš pod něj polena;
 dobře to uvař;
 vař v něm i jeho kosti.‘
 
-[6] Proto toto praví Pán Yahweh: Běda krvavému městu, hrnci, v němž je jeho rez a jehož rez z něho nevyšla! Vybírej z něho kus po kuse, bez vybírání.
+[6] Proto toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Běda krvavému městu, hrnci, v němž je jeho rez a jehož rez z něho nevyšla! Vybírej z něho kus po kuse, bez vybírání.
 
 [7] Neboť krev, kterou prolilo, je uprostřed něho; vylilo ji na holou skálu; nevylilo ji na zem, aby ji přikrylo prachem.
 
 [8] Abych vzbudil svou zlobu, abych vykonal pomstu, nechal jsem krev, kterou prolilo, na holé skále, aby nebyla přikryta.
 
-[9] Proto toto praví Pán Yahweh: Běda krvavému městu! I já zvětším hranici.
+[9] Proto toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Běda krvavému městu! I já zvětším hranici.
 
 [10] Navrš polena, zapal oheň, dobře uvař maso, přimíchej koření a ať kosti shoří.
 
@@ -34,9 +34,9 @@ vař v něm i jeho kosti.‘
 
 [13] Pro tvou nečistou nestoudnost, protože jsem tě chtěl očistit, a ty ses neočistilo od své nečistoty, už nebudeš očištěno, dokud na tobě neukojím svou zuřivost.
 
-[14] Já jsem Yahweh. Promluvil jsem; stane se to; učiním to. Neustoupím, nebudu šetřit, nebudu litovat; podle tvých cest a tvých skutků budeš souzeno, je výrok Pána Yahweh.“
+[14] Já jsem ⟦yhwh|Jahve|Hospodin⟧. Promluvil jsem; stane se to; učiním to. Neustoupím, nebudu šetřit, nebudu litovat; podle tvých cest a tvých skutků budeš souzeno, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.“
 
-[15] Přišlo ke mně slovo Yahweh:
+[15] Přišlo ke mně slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
 [16] „Synu člověka, hle, jedinou ranou ti vezmu potěchu tvých očí; ty však nebudeš truchlit ani plakat a nebudou ti téct slzy.
 
@@ -46,21 +46,21 @@ vař v něm i jeho kosti.‘
 
 [19] I řekl mi lid: „Nepovíš nám, co pro nás znamenají tyto věci, že jednáš takto?“
 
-[20] Tu jsem jim řekl: „Přišlo ke mně slovo Yahweh:
+[20] Tu jsem jim řekl: „Přišlo ke mně slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[21] ‚Řekni domu Israele: Toto praví Pán Yahweh: Hle, znesvětím svou svatyni, pýchu vaší moci, potěchu vašich očí a touhu vaší duše, a vaši synové a vaše dcery, které jste zanechali, padnou mečem.
+[21] ‚Řekni domu ⟦israel|Jisraele|Izraele⟧: Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Hle, znesvětím svou svatyni, pýchu vaší moci, potěchu vašich očí a touhu vaší duše, a vaši synové a vaše dcery, které jste zanechali, padnou mečem.
 
 [22] A budete jednat, jako jsem jednal já; nebudete si zakrývat rty a nebudete jíst chléb, který přinášejí lidé.
 
 [23] Vaše turbany budou na vašich hlavách a vaše opánky na vašich nohou; nebudete truchlit ani plakat, ale budete hníst ve svých nepravostech a sténat jeden k druhému.
 
-[24] Tak vám bude Ezekiel znamením; podle všeho, co učinil, budete jednat i vy. Až to přijde, tehdy poznáte, že já jsem Pán Yahweh.‘
+[24] Tak vám bude ⟦ezekiel|Jechezkel|Ezechiel⟧ znamením; podle všeho, co učinil, budete jednat i vy. Až to přijde, tehdy poznáte, že já jsem ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧.‘
 
 [25] A ty, synu člověka, jistě v den, kdy jim vezmu jejich pevnost, jejich radost a slávu, potěchu jejich očí a touhu jejich duše, i jejich syny a dcery,
 
 [26] v ten den k tobě přijde uprchlík, aby ti oznámil zprávu.
 
-[27] V ten den se ti otevřou ústa k uprchlíkovi a budeš mluvit a už nebudeš němý. Tak jim budeš znamením a poznají, že já jsem Yahweh.“
+[27] V ten den se ti otevřou ústa k uprchlíkovi a budeš mluvit a už nebudeš němý. Tak jim budeš znamením a poznají, že já jsem ⟦yhwh|Jahve|Hospodin⟧.“
 
 ## Změny
 

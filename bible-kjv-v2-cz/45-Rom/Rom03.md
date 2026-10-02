@@ -1,31 +1,31 @@
 # Římanům 3
 
-[1] Jakou přednost má tedy Žid? Nebo jaký užitek má obřízka?
+[1] Jakou přednost má tedy ⟦jew|Jehudi|Žid⟧? Nebo jaký užitek má obřízka?
 
-[2] Velký v každém ohledu. Především to, že Židům byly svěřeny výroky *Elohim*.
+[2] Velký v každém ohledu. Především to, že ⟦jews|Jehudim|Židům⟧ byly svěřeny výroky ⟦elohim|Elohim|Boží⟧.
 
-[3] Co když někteří byli nevěrní? Zruší snad jejich nevěrnost věrnost *Elohim*?
+[3] Co když někteří byli nevěrní? Zruší snad jejich nevěrnost věrnost ⟦elohim|Elohim|Boží⟧?
 
-[4] Naprosto ne! Ať je *Elohim* pravdivý, i kdyby každý člověk byl lhář, jak je napsáno:
+[4] Naprosto ne! Ať je ⟦elohim|Elohim|Bůh⟧ pravdivý, i kdyby každý člověk byl lhář, jak je napsáno:
 
 „**Abys byl uznán spravedlivým ve svých slovech
 a zvítězil, když jsi souzen**.“
 
-[5] Jestliže však naše nespravedlnost vyzdvihuje spravedlnost *Elohim*, co řekneme? Že je *Elohim* nespravedlivý, když na nás uvaluje hněv? (Mluvím po lidsku.)
+[5] Jestliže však naše nespravedlnost vyzdvihuje spravedlnost ⟦elohim|Elohim|Boží⟧, co řekneme? Že je ⟦elohim|Elohim|Bůh⟧ nespravedlivý, když na nás uvaluje hněv? (Mluvím po lidsku.)
 
-[6] Naprosto ne! Jak by jinak *Elohim* mohl soudit svět?
+[6] Naprosto ne! Jak by jinak ⟦elohim|Elohim|Bůh⟧ mohl soudit svět?
 
-[7] Jestliže však skrze mou lež vynikla pravda *Elohim* hojněji k jeho slávě, proč jsem ještě já souzen jako hříšník?
+[7] Jestliže však skrze mou lež vynikla pravda ⟦elohim|Elohim|Boží⟧ hojněji k jeho slávě, proč jsem ještě já souzen jako hříšník?
 
 [8] A proč nedělat zlo, aby z toho vzešlo dobro? – jak nás někteří pomlouvačně obviňují, že říkáme. Jejich odsouzení je spravedlivé.
 
-[9] Co tedy? Jsme my Židé na tom lépe? Vůbec ne. Již jsme přece obvinili všechny, Židy i Řeky, že jsou pod hříchem,
+[9] Co tedy? Jsme my ⟦jews|Jehudim|Židé⟧ na tom lépe? Vůbec ne. Již jsme přece obvinili všechny, ⟦jews|Jehudim|Židy⟧ i ⟦greeks|Jevanim|Řeky⟧, že jsou pod hříchem,
 
 [10] jak je napsáno:
 
 „**Není spravedlivého, ani jednoho;
 [11] není, kdo by rozuměl,
-není, kdo by hledal *Elohim*.
+není, kdo by hledal ⟦elohim|Elohim|Boha⟧.
 [12] Všichni se odchýlili, společně se stali neužitečnými;
 není, kdo by činil dobro, není ani jeden.**“
 
@@ -40,33 +40,33 @@ svými jazyky klamou.**“
 [16] na jejich stezkách je zkáza a bída
 [17] a cestu pokoje nepoznali.**“
 
-[18] „**Před jejich očima není bázeň *Elohim*.**“
+[18] „**Před jejich očima není bázeň ⟦elohim|Elohim|Boží⟧.**“
 
-[19] Víme pak, že cokoli Torah říká, mluví k těm, kdo jsou pod Torah, aby byla zacpána každá ústa a celý svět se stal odpovědným před *Elohim*.
+[19] Víme pak, že cokoli ⟦torah|Tóra|zákon⟧ říká, mluví k těm, kdo jsou pod ⟦torah|Tórou|zákonem⟧, aby byla zacpána každá ústa a celý svět se stal odpovědným před ⟦elohim|Elohim|Bohem⟧.
 
-[20] Ze skutků Torah totiž nebude před ním ospravedlněn žádný člověk, neboť skrze Torah přichází poznání hříchu.
+[20] Ze skutků ⟦torah|Tóry|zákona⟧ totiž nebude před ním ospravedlněn žádný člověk, neboť skrze ⟦torah|Tóru|zákon⟧ přichází poznání hříchu.
 
-[21] Nyní však byla zjevena spravedlnost *Elohim* bez Torah, ačkoli o ní svědčí Torah i Proroci –
+[21] Nyní však byla zjevena spravedlnost ⟦elohim|Elohim|Boží⟧ bez ⟦torah|Tóry|zákona⟧, ačkoli o ní svědčí ⟦torah|Tóra|zákon⟧ i Proroci –
 
-[22] spravedlnost *Elohim* skrze víru v *Yeshuu* *Mashiacha* pro všechny, kdo věří. Není totiž rozdílu:
+[22] spravedlnost ⟦elohim|Elohim|Boží⟧ skrze víru v ⟦yeshua|Ješuu|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧ pro všechny, kdo věří. Není totiž rozdílu:
 
-[23] neboť **všichni zhřešili a postrádají slávu *Elohim***
+[23] neboť **všichni zhřešili a postrádají slávu ⟦elohim|Elohim|Boží⟧**
 
-**[24] a jsou ospravedlňováni darem jeho milosti skrze vykoupení, které je v *Yeshuovi* *Mashiachovi***,
+**[24] a jsou ospravedlňováni darem jeho milosti skrze vykoupení, které je v ⟦yeshua|Ješuovi|Ježíši⟧ ⟦mashiach|Mašiachovi|Kristu⟧**,
 
-[25] jehož *Elohim* ustanovil jako smírčí oběť v jeho krvi, přijímanou vírou. To bylo k prokázání spravedlnosti *Elohim*, protože ve své božské shovívavosti přešel dřívější hříchy.
+[25] jehož ⟦elohim|Elohim|Bůh⟧ ustanovil jako smírčí oběť v jeho krvi, přijímanou vírou. To bylo k prokázání spravedlnosti ⟦elohim|Elohim|Boží⟧, protože ve své božské shovívavosti přešel dřívější hříchy.
 
-[26] Bylo to k prokázání jeho spravedlnosti v nynějším čase, aby byl sám spravedlivý a ospravedlňoval toho, kdo má víru v *Yeshuu*.
+[26] Bylo to k prokázání jeho spravedlnosti v nynějším čase, aby byl sám spravedlivý a ospravedlňoval toho, kdo má víru v ⟦yeshua|Ješuu|Ježíše⟧.
 
 [27] Kde je tedy naše chlouba? Je vyloučena. Jakým zákonem? Zákonem skutků? Ne, ale zákonem víry.
 
-[28] Máme totiž za to, že člověk je ospravedlněn vírou bez skutků Torah.
+[28] Máme totiž za to, že člověk je ospravedlněn vírou bez skutků ⟦torah|Tóry|zákona⟧.
 
-[29] Nebo je *Elohim* *Elohim* pouze Židů? Není také *Elohim* pohanů? Ano, i pohanů,
+[29] Nebo je ⟦elohim|Elohim|Bůh⟧ ⟦elohim|Elohim|Bohem⟧ pouze ⟦jews|Jehudim|Židů⟧? Není také ⟦elohim|Elohim|Bohem⟧ pohanů? Ano, i pohanů,
 
-[30] protože *Elohim* je jeden – on ospravedlní obřezané z víry i neobřezané skrze víru.
+[30] protože ⟦elohim|Elohim|Bůh⟧ je jeden – on ospravedlní obřezané z víry i neobřezané skrze víru.
 
-[31] Rušíme tedy touto vírou Torah? Naprosto ne! Naopak, Torah potvrzujeme.
+[31] Rušíme tedy touto vírou ⟦torah|Tóru|zákon⟧? Naprosto ne! Naopak, ⟦torah|Tóru|zákon⟧ potvrzujeme.
 
 ## Změny
 

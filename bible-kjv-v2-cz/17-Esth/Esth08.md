@@ -1,38 +1,38 @@
 # Ester 8
 
-[1] Toho dne dal král Ahasuerus královně Esther dům Hamana, nepřítele Židů. Mordecai přišel před krále, neboť Esther oznámila, čím jí je.
+[1] Toho dne dal král ⟦ahasuerus|Achašveroš|Achašveróš⟧ královně Ester dům Hamana, nepřítele ⟦jews|Jehudim|Židů⟧. ⟦mordecai|Mordechaj|Mordokaj⟧ přišel před krále, neboť Ester oznámila, čím jí je.
 
-[2] Král sňal svůj pečetní prsten, který vzal Hamanovi, a dal ho Mordecaiovi. Esther ustanovila Mordecaie nad domem Hamanovým.
+[2] Král sňal svůj pečetní prsten, který vzal Hamanovi, a dal ho ⟦mordecai|Mordechajovi|Mordokajovi⟧. Ester ustanovila ⟦mordecai|Mordechaje|Mordokaje⟧ nad domem Hamanovým.
 
-[3] Esther znovu promluvila před králem, padla mu k nohám a v slzách ho prosila, aby odvrátil zlý záměr Hamana Agagovce, plán, který vymyslel proti Židům.
+[3] Ester znovu promluvila před králem, padla mu k nohám a v slzách ho prosila, aby odvrátil zlý záměr Hamana ⟦agagite|Agagiho|Agagovce⟧, plán, který vymyslel proti ⟦jews|Jehudim|Židům⟧.
 
-[4] Král vztáhl k Esther zlaté žezlo. Esther tedy vstala a postavila se před krále.
+[4] Král vztáhl k Ester zlaté žezlo. Ester tedy vstala a postavila se před krále.
 
-[5] Řekla: „Líbí-li se to králi a nalezla-li jsem v jeho očích přízeň, zdá-li se ta věc králi správná a jsem-li mu milá – ať se napíše, že se odvolávají dopisy vymyšlené Hamanem, synem Hammedathy, Agagovcem, které napsal, aby zahubil Židy, kteří jsou ve všech králových provinciích.
+[5] Řekla: „Líbí-li se to králi a nalezla-li jsem v jeho očích přízeň, zdá-li se ta věc králi správná a jsem-li mu milá – ať se napíše, že se odvolávají dopisy vymyšlené Hamanem, synem ⟦hammedatha|Hammedaty|Hamedáty⟧, ⟦agagite|Agagim|Agagovcem⟧, které napsal, aby zahubil ⟦jews|Jehudim|Židy⟧, kteří jsou ve všech králových provinciích.
 
 [6] Jak bych totiž mohla snést pohled na neštěstí, které přijde na můj lid? Jak bych mohla snést pohled na zkázu svého rodu?“
 
-[7] Tu řekl král Ahasuerus královně Esther a Židu Mordecaiovi: „Hle, dal jsem Esther dům Hamanův a jeho pověsili na kůl, protože vztáhl ruku na Židy.
+[7] Tu řekl král ⟦ahasuerus|Achašveroš|Achašveróš⟧ královně Ester a ⟦jew|Jehudimu|Židu⟧ ⟦mordecai|Mordechajovi|Mordokajovi⟧: „Hle, dal jsem Ester dům Hamanův a jeho pověsili na kůl, protože vztáhl ruku na ⟦jews|Jehudim|Židy⟧.
 
-[8] Napište vy o Židech, jak uznáte za vhodné, jménem krále, a zapečeťte to královým pečetním prstenem; neboť výnos napsaný jménem krále a zapečetěný královým pečetním prstenem nelze odvolat.“
+[8] Napište vy o ⟦jews|Jehudim|Židech⟧, jak uznáte za vhodné, jménem krále, a zapečeťte to královým pečetním prstenem; neboť výnos napsaný jménem krále a zapečetěný královým pečetním prstenem nelze odvolat.“
 
-[9] Tehdy, ve třetím měsíci, v měsíci Sivan, dvacátého třetího dne, byli svoláni královi písaři. Bylo napsáno podle všeho, co Mordecai přikázal – Židům, satrapům, místodržitelům a úředníkům provincií od Indie až po Cush, 127 provinciím, každé provincii jejím vlastním písmem a každému národu v jeho vlastním jazyce, i Židům jejich vlastním písmem a jazykem.
+[9] Tehdy, ve třetím měsíci, v měsíci ⟦sivan|Sivan|sívan⟧, dvacátého třetího dne, byli svoláni královi písaři. Bylo napsáno podle všeho, co ⟦mordecai|Mordechaj|Mordokaj⟧ přikázal – ⟦jews|Jehudim|Židům⟧, satrapům, místodržitelům a úředníkům provincií od ⟦india|Hodu|Indie⟧ až po ⟦cush|Kuš|Kúš⟧, 127 provinciím, každé provincii jejím vlastním písmem a každému národu v jeho vlastním jazyce, i ⟦jews|Jehudim|Židům⟧ jejich vlastním písmem a jazykem.
 
-[10] Napsal to jménem krále Ahasuera, zapečetil to královým pečetním prstenem a rozeslal dopisy po kurýrech na koních – jezdcích na rychlých královských ořích z královského chovu –
+[10] Napsal to jménem krále ⟦ahasuerus|Achašveroše|Achašveróše⟧, zapečetil to královým pečetním prstenem a rozeslal dopisy po kurýrech na koních – jezdcích na rychlých královských ořích z královského chovu –
 
-[11] a zmocnil jimi Židy v každém městě, aby se shromáždili a postavili se na obranu svých životů, aby zahubili, pobili a vyhladili každou ozbrojenou sílu kteréhokoli národa či provincie, která by je napadla, i s jejich dětmi a ženami, a aby uloupili jejich majetek –
+[11] a zmocnil jimi ⟦jews|Jehudim|Židy⟧ v každém městě, aby se shromáždili a postavili se na obranu svých životů, aby zahubili, pobili a vyhladili každou ozbrojenou sílu kteréhokoli národa či provincie, která by je napadla, i s jejich dětmi a ženami, a aby uloupili jejich majetek –
 
-[12] v jediný den ve všech provinciích krále Ahasuera, třináctého dne dvanáctého měsíce, měsíce Adar.
+[12] v jediný den ve všech provinciích krále ⟦ahasuerus|Achašveroše|Achašveróše⟧, třináctého dne dvanáctého měsíce, měsíce ⟦adar|Adar|adaru⟧.
 
-[13] Opis písemnosti, která měla být vydána jako nařízení v každé provincii, byl vyhlášen všem národům, aby Židé byli v ten den připraveni pomstít se na svých nepřátelích.
+[13] Opis písemnosti, která měla být vydána jako nařízení v každé provincii, byl vyhlášen všem národům, aby ⟦jews|Jehudim|Židé⟧ byli v ten den připraveni pomstít se na svých nepřátelích.
 
-[14] Kurýři na rychlých královských ořích tedy spěšně vyrazili, poháněni královým příkazem. Nařízení bylo vydáno v Suse, v citadele.
+[14] Kurýři na rychlých královských ořích tedy spěšně vyrazili, poháněni královým příkazem. Nařízení bylo vydáno v ⟦susa|Šušanu|Šúšanu⟧, v citadele.
 
-[15] Mordecai vyšel od krále v královském šatu fialovém a bílém, s velikou zlatou korunou a v plášti z jemného plátna a purpuru; a město Susa jásalo a radovalo se.
+[15] ⟦mordecai|Mordechaj|Mordokaj⟧ vyšel od krále v královském šatu fialovém a bílém, s velikou zlatou korunou a v plášti z jemného plátna a purpuru; a město ⟦susa|Šušan|Šúšan⟧ jásalo a radovalo se.
 
-[16] Židům zazářilo světlo, radost, veselí a čest.
+[16] ⟦jews|Jehudim|Židům⟧ zazářilo světlo, radost, veselí a čest.
 
-[17] V každé provincii a v každém městě, kamkoli dorazil králův příkaz a jeho nařízení, měli Židé radost a veselí – hostinu a sváteční den. Mnozí z národů země se stávali Židy, neboť na ně padl strach ze Židů.
+[17] V každé provincii a v každém městě, kamkoli dorazil králův příkaz a jeho nařízení, měli ⟦jews|Jehudim|Židé⟧ radost a veselí – hostinu a sváteční den. Mnozí z národů země se stávali ⟦jews|Jehudim|Židy⟧, neboť na ně padl strach ze ⟦jews|Jehudim|Židů⟧.
 
 ## Změny
 

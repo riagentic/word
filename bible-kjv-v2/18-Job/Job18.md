@@ -1,6 +1,6 @@
 # Job 18
 
-[1] Then Bildad the Shuhite answered and said:
+[1] Then Bildad the ⟦shuhite|Shuchi|Shuhite⟧ answered and said:
 
 [2] "When will you put an end to words?
 Think, and then we will speak.
@@ -61,10 +61,11 @@ no survivor where he sojourned.
 and those of the east are seized with horror.
 
 [21] Surely such are the dwellings of the unrighteous,
-and this is the place of him who does not know *Elohim*."
+and this is the place of him who does not know ⟦el|El|God⟧."
 
 ## Changes
 
+- **"God" → "El"** (v21) — Hebrew אֵל *El*, not *Elohim*.
 - **"gin" → "snare"** (v9).
 - **"nephew" → "descendant"** (v19) — *neked*; grandson/offspring.
 - **"they that come after... they that went before" → "those of the west... those of the east"** (v20) — *acharonim... qadmonim*; geographical (sunset-sunrise) readings preferred in modern; also possible "those coming after, those gone before" temporally.

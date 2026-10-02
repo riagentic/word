@@ -1,6 +1,6 @@
 # Isaiah 56
 
-[1] Thus says Yahweh:
+[1] Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
 "Keep justice, and do righteousness,
 for soon my salvation will come,
@@ -8,17 +8,17 @@ and my righteousness be revealed.
 
 [2] Blessed is the man who does this,
 and the son of man who holds it fast,
-who keeps the Sabbath, not profaning it,
+who keeps the ⟦shabbat|Shabbat|Sabbath⟧, not profaning it,
 and keeps his hand from doing any evil."
 
-[3] Let not the foreigner who has joined himself to Yahweh say,
-"Yahweh will surely separate me from his people";
+[3] Let not the foreigner who has joined himself to ⟦yhwh|Yahweh|the LORD⟧ say,
+"⟦yhwh|Yahweh|The LORD⟧ will surely separate me from his people";
 and let not the eunuch say,
 "Behold, I am a dry tree."
 
-[4] For thus says Yahweh:
+[4] For thus says ⟦yhwh|Yahweh|the LORD⟧:
 
-"To the eunuchs who keep my Sabbaths,
+"To the eunuchs who keep my ⟦shabbat|Shabbatot|Sabbaths⟧,
 who choose the things that please me
 and hold fast my covenant,
 
@@ -28,10 +28,10 @@ better than sons and daughters;
 I will give them an everlasting name
 that shall not be cut off.
 
-[6] And the foreigners who join themselves to Yahweh,
-to minister to him, to love the name of Yahweh,
+[6] And the foreigners who join themselves to ⟦yhwh|Yahweh|the LORD⟧,
+to minister to him, to love the name of ⟦yhwh|Yahweh|the LORD⟧,
 and to be his servants,
-everyone who keeps the Sabbath and does not profane it,
+everyone who keeps the ⟦shabbat|Shabbat|Sabbath⟧ and does not profane it,
 and holds fast my covenant —
 
 [7] these I will bring to my holy mountain,
@@ -41,7 +41,7 @@ will be accepted on my altar;
 for my house shall be called
 a house of prayer for all peoples."
 
-[8] Declares Lord Yahweh, who gathers the outcasts of Israel: "I will gather yet others to him besides those already gathered."
+[8] Declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧, who gathers the outcasts of ⟦israel|Yisrael|Israel⟧: "I will gather yet others to him besides those already gathered."
 
 [9] All you beasts of the field, come to devour —
 all you beasts in the forest.

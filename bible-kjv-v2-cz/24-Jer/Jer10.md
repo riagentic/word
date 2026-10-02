@@ -1,14 +1,14 @@
 # Jeremjáš 10
 
-[1] Slyšte slovo, které k vám mluví Yahweh, dome Israele.
+[1] Slyšte slovo, které k vám mluví ⟦yhwh|Jahve|Hospodin⟧, dome ⟦israel|Jisraele|Izraele⟧.
 
-[2] Toto praví Yahweh:
+[2] Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
 „Neučte se cestě národů
 a neděste se znamení na nebesích,
 protože se jich děsí národy,
 
-[3] neboť chuqot – obyčeje národů jsou marnost.
+[3] neboť ⟦chuqqot|chukot – obyčeje|zvyklosti⟧ národů jsou marnost.
 Strom z lesa je poražen
 a opracován sekerou rukama řemeslníka.
 
@@ -24,7 +24,7 @@ Nebojte se jich,
 neboť nemohou škodit,
 ani není v jejich moci činit dobro.“
 
-[6] Nikdo není jako ty, Yahweh;
+[6] Nikdo není jako ty, ⟦yhwh|Jahve|Hospodine⟧;
 jsi veliký a tvé jméno je veliké v moci.
 
 [7] Kdo by se tě nebál, Králi národů?
@@ -36,14 +36,14 @@ není nikdo jako ty.
 [8] Jsou hloupí i pošetilí zároveň;
 naučení model je jen dřevo!
 
-[9] Tepané stříbro se přiváží z Tarshishe
-a zlato z Uphazu.
+[9] Tepané stříbro se přiváží z ⟦tarshish|Taršiše|Taršíše⟧
+a zlato z ⟦uphaz|Ufazu|Úfazu⟧.
 Jsou dílem řemeslníka a rukou zlatníka;
 jejich oděv je fialový a purpurový;
 všechny jsou dílem zručných mužů.
 
-[10] Ale Yahweh je pravý *Elohim*;
-on je živý *Elohim* a věčný Král.
+[10] Ale ⟦yhwh|Jahve|Hospodin⟧ je pravý ⟦elohim|Elohim|Bůh⟧;
+on je živý ⟦elohim|Elohim|Bůh⟧ a věčný Král.
 Před jeho hněvem se třese země
 a národy nesnesou jeho rozhořčení.
 
@@ -66,15 +66,15 @@ a není v nich dech.
 [15] Jsou nicotné, dílo klamu;
 v čase svého ztrestání zahynou.
 
-[16] Takový není ten, který je podílem Jacoba,
+[16] Takový není ten, který je podílem ⟦jacob|Jaakova|Jákoba⟧,
 neboť on je ten, který utvořil všechno,
-a Israel je kmen jeho dědictví;
-Yahweh zástupů je jeho jméno.
+a ⟦israel|Jisrael|Izrael⟧ je kmen jeho dědictví;
+⟦yhwh|Jahve|Hospodin⟧ zástupů je jeho jméno.
 
 [17] Seber ze země svůj uzlík,
 ty, která bydlíš v obležení!
 
-[18] Neboť toto praví Yahweh:
+[18] Neboť toto praví ⟦yhwh|Jahve|Hospodin⟧:
 „Hle, vymrštím obyvatele země
 v tomto čase
 a přivedu na ně tíseň,
@@ -93,25 +93,25 @@ není nikoho, kdo by znovu rozbil můj stan
 a postavil mé stanové houně.
 
 [21] Neboť pastýři jsou hloupí
-a nedotazují se Yahweh;
+a nedotazují se ⟦yhwh|Jahveho|Hospodina⟧;
 proto neměli zdar
 a celé jejich stádo je rozptýleno.
 
 [22] Hlas, zvěst! Hle, přichází! –
 veliký rozruch ze severní země,
-aby učinil z měst Judah zpustošení,
+aby učinil z měst ⟦judah|Jehudy|Judy⟧ zpustošení,
 doupě šakalů.
 
-[23] Vím, Yahweh, že cesta člověka není v něm samém,
+[23] Vím, ⟦yhwh|Jahve|Hospodine⟧, že cesta člověka není v něm samém,
 že není v moci člověka, který chodí, řídit své kroky.
 
-[24] Kárej mě, Yahweh, ale podle práva;
+[24] Kárej mě, ⟦yhwh|Jahve|Hospodine⟧, ale podle práva;
 ne ve svém hněvu, abys mě neobrátil v nic.
 
 [25] Vylij svůj hněv na národy,
 které tě neznají,
 a na kmeny, které nevzývají tvé jméno,
-neboť pohltily Jacoba;
+neboť pohltily ⟦jacob|Jaakova|Jákoba⟧;
 pohltily ho a strávily
 a zpustošily jeho obydlí.
 

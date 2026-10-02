@@ -1,60 +1,60 @@
 # Leviticus 23
 
-[1] Yahweh promluvil k Mosesovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[2] „Mluv k synům Israele a řekni jim: ‚Určené svátky Yahweh, které budete vyhlašovat jako svatá shromáždění – toto jsou mé určené svátky.
+[2] „Mluv k synům ⟦israel|Jisraele|Izraele⟧ a řekni jim: ‚Určené svátky ⟦yhwh|Jahveho|Hospodina⟧, které budete vyhlašovat jako svatá shromáždění – toto jsou mé určené svátky.
 
-[3] Šest dní se bude pracovat, ale sedmý den je sabat slavnostního odpočinku, svaté shromáždění; nebudete dělat žádnou práci. Je to sabat Yahweh ve všech vašich sídlech.
+[3] Šest dní se bude pracovat, ale sedmý den je ⟦shabbat|šabat|sobota⟧ slavnostního odpočinku, svaté shromáždění; nebudete dělat žádnou práci. Je to ⟦shabbat|šabat|sobota⟧ ⟦yhwh|Jahvovi|Hospodinu⟧ ve všech vašich sídlech.
 
-[4] Toto jsou určené svátky Yahweh, svatá shromáždění, která budete vyhlašovat v jejich určených časech.
+[4] Toto jsou určené svátky ⟦yhwh|Jahveho|Hospodina⟧, svatá shromáždění, která budete vyhlašovat v jejich určených časech.
 
-[5] V prvním měsíci, čtrnáctého dne toho měsíce za soumraku, je Pascha Yahweh.
+[5] V prvním měsíci, čtrnáctého dne toho měsíce za soumraku, je ⟦pesach|Pesach|velikonoční hod⟧ ⟦yhwh|Jahveho|Hospodina⟧.
 
-[6] Patnáctého dne téhož měsíce je svátek nekvašených chlebů Yahweh; sedm dní budete jíst nekvašené chleby.
+[6] Patnáctého dne téhož měsíce je svátek ⟦unleavened-bread|Macot|nekvašených chlebů⟧ ⟦yhwh|Jahvovi|Hospodinu⟧; sedm dní budete jíst nekvašené chleby.
 
 [7] První den budete mít svaté shromáždění; nebudete dělat žádnou těžkou práci.
 
-[8] Sedm dní budete přinášet Yahweh ohnivou oběť; sedmý den je svaté shromáždění; nebudete dělat žádnou těžkou práci.‘“
+[8] Sedm dní budete přinášet ⟦yhwh|Jahvovi|Hospodinu⟧ ohnivou oběť; sedmý den je svaté shromáždění; nebudete dělat žádnou těžkou práci.‘“
 
-[9] Yahweh promluvil k Mosesovi:
+[9] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[10] „Mluv k synům Israele a řekni jim: ‚Až přijdete do země, kterou vám dávám, a budete sklízet její úrodu, přinesete knězi snop prvotin své sklizně.
+[10] „Mluv k synům ⟦israel|Jisraele|Izraele⟧ a řekni jim: ‚Až přijdete do země, kterou vám dávám, a budete sklízet její úrodu, přinesete knězi snop prvotin své sklizně.
 
-[11] On bude snop pozdvihovat před Yahweh, aby byl za vás přijat; nazítří po sabatu jej kněz bude pozdvihovat.
+[11] On bude snop pozdvihovat před ⟦yhwh|Jahvem|Hospodinem⟧, aby byl za vás přijat; nazítří po ⟦shabbat|šabatu|sobotě⟧ jej kněz bude pozdvihovat.
 
-[12] V den, kdy budete snop pozdvihovat, obětujete Yahweh roční jehně bez vady jako zápalnou oběť.
+[12] V den, kdy budete snop pozdvihovat, obětujete ⟦yhwh|Jahvovi|Hospodinu⟧ roční jehně bez vady jako zápalnou oběť.
 
-[13] Jeho moučnou obětí budou dvě desetiny éfy bílé mouky smíšené s olejem, ohnivá oběť Yahweh jako libá vůně; a jeho úlitbou bude víno, čtvrtina hinu.
+[13] Jeho moučnou obětí budou dvě desetiny éfy bílé mouky smíšené s olejem, ohnivá oběť ⟦yhwh|Jahvovi|Hospodinu⟧ jako libá vůně; a jeho úlitbou bude víno, čtvrtina hinu.
 
-[14] Nebudete jíst chléb, pražené zrní ani čerstvé klasy až do samého dne, kdy přinesete obětní dar svého *Elohim*. Bude to věčné nařízení po všechna vaše pokolení ve všech vašich sídlech.
+[14] Nebudete jíst chléb, pražené zrní ani čerstvé klasy až do samého dne, kdy přinesete obětní dar svého ⟦elohim|Elohim|Boha⟧. Bude to věčné nařízení po všechna vaše pokolení ve všech vašich sídlech.
 
-[15] Odpočítáte si ode dne po sabatu – ode dne, kdy jste přinesli snop pozdvihované oběti – sedm sabatů; budou celé.
+[15] Odpočítáte si ode dne po ⟦shabbat|šabatu|sobotě⟧ – ode dne, kdy jste přinesli snop pozdvihované oběti – sedm ⟦shabbat|šabatů|sobot⟧; budou celé.
 
-[16] Odpočítáte padesát dní až do dne po sedmém sabatu a přinesete Yahweh novou moučnou oběť.
+[16] Odpočítáte padesát dní až do dne po ⟦shabbat|sedmém šabatu|sedmé sobotě⟧ a přinesete ⟦yhwh|Jahvovi|Hospodinu⟧ novou moučnou oběť.
 
-[17] Ze svých sídel přinesete dva chleby jako pozdvihovanou oběť; budou ze dvou desetin éfy bílé mouky, pečené s kvasem; jsou to prvotiny Yahweh.
+[17] Ze svých sídel přinesete dva chleby jako pozdvihovanou oběť; budou ze dvou desetin éfy bílé mouky, pečené s kvasem; jsou to prvotiny ⟦yhwh|Jahvovi|Hospodinu⟧.
 
-[18] S chlebem obětujete sedm ročních jehňat bez vady, jednoho mladého býčka a dva berany; budou zápalnou obětí Yahweh spolu se svými moučnými obětmi a úlitbami, ohnivou obětí libé vůně Yahweh.
+[18] S chlebem obětujete sedm ročních jehňat bez vady, jednoho mladého býčka a dva berany; budou zápalnou obětí ⟦yhwh|Jahvovi|Hospodinu⟧ spolu se svými moučnými obětmi a úlitbami, ohnivou obětí libé vůně ⟦yhwh|Jahvovi|Hospodinu⟧.
 
 [19] Obětujete také jednoho kozla jako oběť za hřích a dvě roční jehňata jako pokojnou oběť.
 
-[20] Kněz je bude pozdvihovat spolu s chlebem prvotin jako pozdvihovanou oběť před Yahweh, i s oběma jehňaty; budou svaté Yahweh pro kněze.
+[20] Kněz je bude pozdvihovat spolu s chlebem prvotin jako pozdvihovanou oběť před ⟦yhwh|Jahvem|Hospodinem⟧, i s oběma jehňaty; budou svaté ⟦yhwh|Jahvovi|Hospodinu⟧ pro kněze.
 
 [21] Téhož dne si vyhlásíte svaté shromáždění; nebudete dělat žádnou těžkou práci. Bude to věčné nařízení ve všech vašich sídlech po všechna vaše pokolení.
 
-[22] Když budete sklízet úrodu své země, nebudeš sklízet až do samých okrajů svého pole a nebudeš sbírat paběrky své sklizně; necháš je pro chudého a pro cizince. Já jsem Yahweh, váš *Elohim*.‘“
+[22] Když budete sklízet úrodu své země, nebudeš sklízet až do samých okrajů svého pole a nebudeš sbírat paběrky své sklizně; necháš je pro chudého a pro cizince. Já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧.‘“
 
-[23] Yahweh promluvil k Mosesovi:
+[23] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[24] „Mluv k synům Israele: ‚V sedmém měsíci, prvního dne toho měsíce, budete mít sabatní odpočinek, připomínku vyhlašovanou troubením, svaté shromáždění.
+[24] „Mluv k synům ⟦israel|Jisraele|Izraele⟧: ‚V sedmém měsíci, prvního dne toho měsíce, budete mít ⟦shabbat|šabatní|sobotní⟧ odpočinek, připomínku vyhlašovanou troubením, svaté shromáždění.
 
-[25] Nebudete dělat žádnou těžkou práci a budete přinášet Yahweh ohnivou oběť.‘“
+[25] Nebudete dělat žádnou těžkou práci a budete přinášet ⟦yhwh|Jahvovi|Hospodinu⟧ ohnivou oběť.‘“
 
-[26] Yahweh promluvil k Mosesovi:
+[26] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[27] „Desátého dne tohoto sedmého měsíce je však Den smíření; bude vám svatým shromážděním, budete se pokořovat a přinášet Yahweh ohnivou oběť.
+[27] „Desátého dne tohoto sedmého měsíce je však Den smíření; bude vám svatým shromážděním, budete se pokořovat a přinášet ⟦yhwh|Jahvovi|Hospodinu⟧ ohnivou oběť.
 
-[28] Téhož dne nebudete dělat žádnou práci, neboť je to Den smíření, kdy se za vás vykonává smíření před Yahweh, vaším *Elohim*.
+[28] Téhož dne nebudete dělat žádnou práci, neboť je to Den smíření, kdy se za vás vykonává smíření před ⟦yhwh|Jahvem|Hospodinem⟧, vaším ⟦elohim|Elohim|Bohem⟧.
 
 [29] Kdokoli se téhož dne nepokoří, bude vyťat ze svého lidu.
 
@@ -62,31 +62,31 @@
 
 [31] Nebudete dělat vůbec žádnou práci; je to věčné nařízení po všechna vaše pokolení ve všech vašich sídlech.
 
-[32] Bude vám sabatem slavnostního odpočinku a budete se pokořovat. Devátého dne měsíce večer, od večera do večera, budete zachovávat svůj sabat.“
+[32] Bude vám ⟦shabbat|šabatem|sobotou⟧ slavnostního odpočinku a budete se pokořovat. Devátého dne měsíce večer, od večera do večera, budete zachovávat ⟦shabbat|svůj šabat|svou sobotu⟧.“
 
-[33] Yahweh promluvil k Mosesovi:
+[33] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[34] „Mluv k synům Israele: ‚Patnáctého dne tohoto sedmého měsíce je svátek stánků, po sedm dní Yahweh.
+[34] „Mluv k synům ⟦israel|Jisraele|Izraele⟧: ‚Patnáctého dne tohoto sedmého měsíce je ⟦sukkot|Sukot|slavnost stánků⟧, po sedm dní ⟦yhwh|Jahvovi|Hospodinu⟧.
 
 [35] První den bude svaté shromáždění; nebudete dělat žádnou těžkou práci.
 
-[36] Sedm dní budete přinášet Yahweh ohnivou oběť. Osmého dne budete mít svaté shromáždění a budete přinášet Yahweh ohnivou oběť. Je to slavnostní shromáždění; nebudete dělat žádnou těžkou práci.
+[36] Sedm dní budete přinášet ⟦yhwh|Jahvovi|Hospodinu⟧ ohnivou oběť. Osmého dne budete mít svaté shromáždění a budete přinášet ⟦yhwh|Jahvovi|Hospodinu⟧ ohnivou oběť. Je to slavnostní shromáždění; nebudete dělat žádnou těžkou práci.
 
-[37] Toto jsou určené svátky Yahweh, které budete vyhlašovat jako svatá shromáždění, abyste přinášeli Yahweh ohnivou oběť – zápalnou oběť a moučnou oběť, obětní hod a úlitby, každou v její vlastní den –
+[37] Toto jsou určené svátky ⟦yhwh|Jahveho|Hospodina⟧, které budete vyhlašovat jako svatá shromáždění, abyste přinášeli ⟦yhwh|Jahvovi|Hospodinu⟧ ohnivou oběť – zápalnou oběť a moučnou oběť, obětní hod a úlitby, každou v její vlastní den –
 
-[38] kromě sabatů Yahweh, kromě vašich darů, kromě všech vašich slibů a kromě všech vašich dobrovolných obětí, které dáváte Yahweh.
+[38] kromě ⟦shabbat|šabatů|sobot⟧ ⟦yhwh|Jahveho|Hospodina⟧, kromě vašich darů, kromě všech vašich slibů a kromě všech vašich dobrovolných obětí, které dáváte ⟦yhwh|Jahvovi|Hospodinu⟧.
 
-[39] Patnáctého dne sedmého měsíce, až sklidíte výnos země, však budete slavit svátek Yahweh sedm dní; první den bude sabatní odpočinek a osmý den sabatní odpočinek.
+[39] Patnáctého dne sedmého měsíce, až sklidíte výnos země, však budete slavit svátek ⟦yhwh|Jahveho|Hospodina⟧ sedm dní; první den bude ⟦shabbat|šabatní|sobotní⟧ odpočinek a osmý den ⟦shabbat|šabatní|sobotní⟧ odpočinek.
 
-[40] První den si vezmete plody vznešených stromů, palmové ratolesti, větve listnatých stromů a vrby od potoka; a budete se radovat před Yahweh, svým *Elohim*, sedm dní.
+[40] První den si vezmete plody vznešených stromů, palmové ratolesti, větve listnatých stromů a vrby od potoka; a budete se radovat před ⟦yhwh|Jahvem|Hospodinem⟧, svým ⟦elohim|Elohim|Bohem⟧, sedm dní.
 
-[41] Budete ho slavit jako svátek Yahweh sedm dní v roce; je to věčné nařízení po všechna vaše pokolení; budete ho slavit v sedmém měsíci.
+[41] Budete ho slavit jako svátek ⟦yhwh|Jahvovi|Hospodinu⟧ sedm dní v roce; je to věčné nařízení po všechna vaše pokolení; budete ho slavit v sedmém měsíci.
 
-[42] Sedm dní budete bydlet ve stáncích; všichni rodilí Israelci budou bydlet ve stáncích,
+[42] Sedm dní budete bydlet ve stáncích; všichni rodilí ⟦israelite|Jisraelim|Izraelci⟧ budou bydlet ve stáncích,
 
-[43] aby vaše pokolení věděla, že jsem nechal syny Israele bydlet ve stáncích, když jsem je vyvedl ze země Egypt. Já jsem Yahweh, váš *Elohim*.‘“
+[43] aby vaše pokolení věděla, že jsem nechal syny ⟦israel|Jisraele|Izraele⟧ bydlet ve stáncích, když jsem je vyvedl ze země ⟦egypt|Micrajim|Egypt⟧. Já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧.‘“
 
-[44] Tak Moses oznámil synům Israele určené svátky Yahweh.
+[44] Tak ⟦moses|Moše|Mojžíš⟧ oznámil synům ⟦israel|Jisraele|Izraele⟧ určené svátky ⟦yhwh|Jahveho|Hospodina⟧.
 
 ## Změny
 

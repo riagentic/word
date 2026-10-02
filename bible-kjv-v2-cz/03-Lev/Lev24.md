@@ -1,36 +1,36 @@
 # Leviticus 24
 
-[1] Yahweh promluvil k Mosesovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[2] „Přikaž synům Israele, ať ti přinášejí čistý olivový olej z tlučených oliv na svícení, aby lampy hořely ustavičně.
+[2] „Přikaž synům ⟦israel|Jisraele|Izraele⟧, ať ti přinášejí čistý olivový olej z tlučených oliv na svícení, aby lampy hořely ustavičně.
 
-[3] Před oponou Svědectví ve stanu setkávání jej bude Aaron ustavičně ošetřovat od večera do rána před Yahweh. Bude to věčné nařízení po všechna vaše pokolení.
+[3] Před oponou Svědectví ve stanu setkávání jej bude ⟦aaron|Aharon|Áron⟧ ustavičně ošetřovat od večera do rána před ⟦yhwh|Jahvem|Hospodinem⟧. Bude to věčné nařízení po všechna vaše pokolení.
 
-[4] Bude ustavičně ošetřovat lampy na čistém svícnu před Yahweh.
+[4] Bude ustavičně ošetřovat lampy na čistém svícnu před ⟦yhwh|Jahvem|Hospodinem⟧.
 
 [5] Vezmeš bílou mouku a upečeš z ní dvanáct bochníků; v každém bochníku budou dvě desetiny éfy.
 
-[6] Položíš je ve dvou řadách, šest v řadě, na čistý stůl před Yahweh.
+[6] Položíš je ve dvou řadách, šest v řadě, na čistý stůl před ⟦yhwh|Jahvem|Hospodinem⟧.
 
-[7] Na každou řadu dáš čisté kadidlo, aby bylo připomínkovým podílem za chléb, ohnivou obětí Yahweh.
+[7] Na každou řadu dáš čisté kadidlo, aby bylo připomínkovým podílem za chléb, ohnivou obětí ⟦yhwh|Jahvovi|Hospodinu⟧.
 
-[8] Každý sabat jej bude ustavičně rovnat před Yahweh, od synů Israele jako věčnou smlouvu.
+[8] ⟦shabbat|Každý šabat|Každou sobotu⟧ jej bude ustavičně rovnat před ⟦yhwh|Jahvem|Hospodinem⟧, od synů ⟦israel|Jisraele|Izraele⟧ jako věčnou smlouvu.
 
-[9] Bude patřit Aaronovi a jeho synům a budou ho jíst na svatém místě; neboť je mu velesvatý z ohnivých obětí Yahweh podle věčného nařízení.“
+[9] Bude patřit ⟦aaron|Aharonovi|Áronovi⟧ a jeho synům a budou ho jíst na svatém místě; neboť je mu velesvatý z ohnivých obětí ⟦yhwh|Jahveho|Hospodina⟧ podle věčného nařízení.“
 
-[10] Syn jedné Israelitky, jehož otec byl Egypťan, vyšel mezi syny Israele; a syn té Israelitky se v táboře pobil s jedním Israelcem.
+[10] Syn jedné ⟦israelite|Jisraelitky|Izraelitky⟧, jehož otec byl ⟦egyptian|Micri|Egypťan⟧, vyšel mezi syny ⟦israel|Jisraele|Izraele⟧; a syn té ⟦israelite|Jisraelitky|Izraelitky⟧ se v táboře pobil s jedním ⟦israelite|Jisraeli|Izraelcem⟧.
 
-[11] Syn Israelitky rouhavě vyslovil Jméno a zlořečil. Přivedli ho tedy k Mosesovi. Jeho matka se jmenovala Shelomith, dcera Dibriho, z kmene Dan.
+[11] Syn ⟦israelite|Jisraelitky|Izraelitky⟧ rouhavě vyslovil Jméno a zlořečil. Přivedli ho tedy k ⟦moses|Mošovi|Mojžíšovi⟧. Jeho matka se jmenovala ⟦shelomith|Šelomit|Šelomít⟧, dcera ⟦dibri|Divriho|Dibrího⟧, z kmene Dan.
 
-[12] Dali ho do vazby, dokud jim nebude jasné rozhodnutí Yahweh.
+[12] Dali ho do vazby, dokud jim nebude jasné rozhodnutí ⟦yhwh|Jahveho|Hospodina⟧.
 
-[13] Yahweh promluvil k Mosesovi:
+[13] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
 [14] „Vyveď toho, kdo zlořečil, ven z tábora, ať všichni, kdo ho slyšeli, vloží ruce na jeho hlavu, a ať ho celé shromáždění ukamenuje.
 
-[15] A k synům Israele promluvíš: ‚Kdokoli zlořečí svému *Elohim*, ponese svůj hřích.
+[15] A k synům ⟦israel|Jisraele|Izraele⟧ promluvíš: ‚Kdokoli zlořečí svému ⟦elohim|Elohim|Bohu⟧, ponese svůj hřích.
 
-[16] A kdo se rouhá jménu Yahweh, musí zemřít; celé shromáždění ho jistě ukamenuje. Cizinec stejně jako domorodec – když se rouhá Jménu – bude usmrcen.
+[16] A kdo se rouhá jménu ⟦yhwh|Jahveho|Hospodina⟧, musí zemřít; celé shromáždění ho jistě ukamenuje. Cizinec stejně jako domorodec – když se rouhá Jménu – bude usmrcen.
 
 [17] Kdo vezme život kterémukoli člověku, musí zemřít.
 
@@ -42,9 +42,9 @@
 
 [21] Kdo zabije zvíře, nahradí ho; a kdo zabije člověka, bude usmrcen.
 
-[22] Budete mít stejné právo pro cizince jako pro domorodce, neboť já jsem Yahweh, váš *Elohim*.‘“
+[22] Budete mít stejné právo pro cizince jako pro domorodce, neboť já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧.‘“
 
-[23] Moses tedy promluvil k synům Israele; a ti vyvedli toho, kdo zlořečil, ven z tábora a ukamenovali ho kameny. Tak synové Israele učinili, jak Yahweh přikázal Mosesovi.
+[23] ⟦moses|Moše|Mojžíš⟧ tedy promluvil k synům ⟦israel|Jisraele|Izraele⟧; a ti vyvedli toho, kdo zlořečil, ven z tábora a ukamenovali ho kameny. Tak synové ⟦israel|Jisraele|Izraele⟧ učinili, jak ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧.
 
 ## Změny
 

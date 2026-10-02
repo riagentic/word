@@ -14,13 +14,13 @@
 
 [7] If a man gives his neighbor silver or goods to keep safe, and it is stolen from the man's house, if the thief is found, he shall pay double.
 
-[8] If the thief is not found, the owner of the house shall come before the *Elohim*, to determine whether he has laid his hand on his neighbor's goods.
+[8] If the thief is not found, the owner of the house shall come before ⟦elohim|the Elohim|God⟧, to determine whether he has laid his hand on his neighbor's goods.
 
-[9] For every breach of trust — whether for ox, donkey, sheep, clothing, or any lost thing of which one says, 'This is it' — the case of both parties shall come before the *Elohim*. The one whom the *Elohim* condemns shall pay double to his neighbor.
+[9] For every breach of trust — whether for ox, donkey, sheep, clothing, or any lost thing of which one says, 'This is it' — the case of both parties shall come before ⟦elohim|the Elohim|God⟧. The one whom ⟦elohim|the Elohim|God⟧ condemns shall pay double to his neighbor.
 
 [10] If a man gives his neighbor a donkey, or an ox, or a sheep, or any animal to keep, and it dies, or is injured, or is driven away while no one sees it,
 
-[11] an oath by Yahweh shall be between the two of them that he has not laid his hand on his neighbor's property; and the owner shall accept it, and he shall not make restitution.
+[11] an oath by ⟦yhwh|Yahweh|the LORD⟧ shall be between the two of them that he has not laid his hand on his neighbor's property; and the owner shall accept it, and he shall not make restitution.
 
 [12] But if it is stolen from him, he shall make restitution to its owner.
 
@@ -38,9 +38,9 @@
 
 [19] Whoever lies with an animal shall surely be put to death.
 
-[20] Whoever sacrifices to any god, except to Yahweh alone, shall be devoted to destruction.
+[20] Whoever sacrifices to any god, except to ⟦yhwh|Yahweh|the LORD⟧ alone, shall be devoted to destruction.
 
-[21] You shall not wrong a resident alien nor oppress him, for you were resident aliens in the land of Egypt.
+[21] You shall not wrong a resident alien nor oppress him, for you were resident aliens in the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
 [22] You shall not afflict any widow or orphan.
 
@@ -54,7 +54,7 @@
 
 [27] for that is his only covering — it is his cloak for his skin. In what shall he sleep? And when he cries out to me, I will hear, for I am gracious.
 
-[28] You shall not revile *Elohim*, nor curse a ruler of your people.
+[28] You shall not revile ⟦elohim|Elohim|God⟧, nor curse a ruler of your people.
 
 [29] You shall not delay offering the fullness of your harvest or the outflow of your winepress. The firstborn of your sons you shall give to me.
 

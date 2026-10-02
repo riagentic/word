@@ -1,26 +1,26 @@
 # Ezdráš 1
 
-[1] V prvním roce Cyruse, krále Persie, aby se naplnilo slovo Yahweh skrze ústa Jeremiaha, vzbudil Yahweh ducha Cyruse, krále Persie, takže dal po celém svém království provolat, a také písemně:
+[1] V prvním roce ⟦cyrus|Koreše|Kýra⟧, krále ⟦persia|Parasu|Persie⟧, aby se naplnilo slovo ⟦yhwh|Jahveho|Hospodina⟧ skrze ústa ⟦jeremiah|Jirmejahua|Jeremjáše⟧, vzbudil ⟦yhwh|Jahve|Hospodin⟧ ducha ⟦cyrus|Koreše|Kýra⟧, krále ⟦persia|Parasu|Persie⟧, takže dal po celém svém království provolat, a také písemně:
 
-[2] „Toto praví Cyrus, král Persie: Yahweh, *Elohim* nebes, mi dal všechna království země; a pověřil mě, abych mu vystavěl dům v Jerusalemě, který je v Judahu.
+[2] „Toto praví ⟦cyrus|Koreš|Kýros⟧, král ⟦persia|Parasu|Persie⟧: ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ nebes, mi dal všechna království země; a pověřil mě, abych mu vystavěl dům v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧, který je v ⟦judah|Jehudě|Judsku⟧.
 
-[3] Kdokoli je mezi vámi z celého jeho lidu, jeho *Elohim* buď s ním. Ať vystoupí do Jerusalemu, který je v Judahu, a staví dům Yahweh, *Elohim* Israele – on je *Elohim* –, který je v Jerusalemě.
+[3] Kdokoli je mezi vámi z celého jeho lidu, jeho ⟦elohim|Elohim|Bůh⟧ buď s ním. Ať vystoupí do ⟦jerusalem|Jerušalajim|Jeruzaléma⟧, který je v ⟦judah|Jehudě|Judsku⟧, a staví dům ⟦yhwh|Jahveho|Hospodina⟧, ⟦elohim|Elohim|Boha⟧ ⟦israel|Jisraele|Izraele⟧ – on je ⟦elohim|Elohim|Bůh⟧ –, který je v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧.
 
-[4] A kdokoli zůstává na kterémkoli místě, kde pobývá jako přistěhovalec, tomu ať muži z jeho místa pomohou stříbrem, zlatem, zbožím a dobytkem, kromě dobrovolného daru pro dům *Elohim*, který je v Jerusalemě.“
+[4] A kdokoli zůstává na kterémkoli místě, kde pobývá jako přistěhovalec, tomu ať muži z jeho místa pomohou stříbrem, zlatem, zbožím a dobytkem, kromě dobrovolného daru pro dům ⟦elohim|Elohim|Boží⟧, který je v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧.“
 
-[5] Tehdy povstali představitelé otcovských domů Judaha a Benjamina s kněžími a Levity – každý, jehož ducha *Elohim* vzbudil –, aby vystoupili a stavěli dům Yahweh v Jerusalemě.
+[5] Tehdy povstali představitelé otcovských domů ⟦judah|Jehudy|Judy⟧ a ⟦benjamin|Binjamina|Benjamína⟧ s kněžími a ⟦levites|Levijim|lévijci⟧ – každý, jehož ducha ⟦elohim|Elohim|Bůh⟧ vzbudil –, aby vystoupili a stavěli dům ⟦yhwh|Jahveho|Hospodina⟧ v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧.
 
 [6] Všichni, kdo byli kolem nich, posilnili jejich ruce stříbrnými nádobami, zlatem, zbožím, dobytkem a vzácnými věcmi, kromě všeho, co bylo dobrovolně darováno.
 
-[7] Král Cyrus také vydal nádoby domu Yahweh, které Nebuchadnezzar odnesl z Jerusalemu a uložil v domě svých bohů.
+[7] Král ⟦cyrus|Koreš|Kýros⟧ také vydal nádoby domu ⟦yhwh|Jahveho|Hospodina⟧, které ⟦nebuchadnezzar|Nevuchadnecar|Nebúkadnesar⟧ odnesl z ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ a uložil v domě svých bohů.
 
-[8] Cyrus, král Persie, je vydal rukou pokladníka Mithredatha a odpočítal je Sheshbazzarovi, vůdci Judaha.
+[8] ⟦cyrus|Koreš|Kýros⟧, král ⟦persia|Parasu|Persie⟧, je vydal rukou pokladníka Mitredata a odpočítal je ⟦sheshbazzar|Šešbacarovi|Šešbasarovi⟧, vůdci ⟦judah|Jehudy|Judy⟧.
 
 [9] Toto je jejich počet: třicet zlatých mís, tisíc stříbrných mís, dvacet devět nožů,
 
 [10] třicet zlatých misek, čtyři sta deset stříbrných misek jiného druhu a tisíc jiných nádob.
 
-[11] Všech zlatých a stříbrných nádob bylo pět tisíc čtyři sta. To všechno přinesl Sheshbazzar s těmi ze zajetí, kteří byli přivedeni z Babylonu do Jerusalemu.
+[11] Všech zlatých a stříbrných nádob bylo pět tisíc čtyři sta. To všechno přinesl ⟦sheshbazzar|Šešbacar|Šešbasar⟧ s těmi ze zajetí, kteří byli přivedeni z ⟦babylon|Bavelu|Babylóna⟧ do ⟦jerusalem|Jerušalajim|Jeruzaléma⟧.
 
 ## Změny
 

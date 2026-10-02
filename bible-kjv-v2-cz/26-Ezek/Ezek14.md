@@ -1,50 +1,50 @@
 # Ezechiel 14
 
-[1] Tu ke mně přišli někteří ze starších Israele a posadili se přede mnou.
+[1] Tu ke mně přišli někteří ze starších ⟦israel|Jisraele|Izraele⟧ a posadili se přede mnou.
 
-[2] A přišlo ke mně slovo Yahweh:
+[2] A přišlo ke mně slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
 [3] „Synu člověka, tito muži vzali své modly do svého srdce a postavili si před tvář kámen úrazu své nepravosti. Mám se jim vůbec nechat dotazovat?
 
-[4] Proto k nim mluv a řekni jim: ‚Toto praví Pán Yahweh: Kdokoli z domu Israele, kdo bere své modly do svého srdce a staví si před tvář kámen úrazu své nepravosti, a přesto přichází k prorokovi, tomu já, Yahweh, odpovím, jak přichází s množstvím svých model,
+[4] Proto k nim mluv a řekni jim: ‚Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Kdokoli z domu ⟦israel|Jisraele|Izraele⟧, kdo bere své modly do svého srdce a staví si před tvář kámen úrazu své nepravosti, a přesto přichází k prorokovi, tomu já, ⟦yhwh|Jahve|Hospodin⟧, odpovím, jak přichází s množstvím svých model,
 
-[5] abych uchopil srdce domu Israele, kteří se mi všichni odcizili svými modlami.‘
+[5] abych uchopil srdce domu ⟦israel|Jisraele|Izraele⟧, kteří se mi všichni odcizili svými modlami.‘
 
-[6] Proto řekni domu Israele: ‚Toto praví Pán Yahweh: Čiňte pokání a odvraťte se od svých model a odvraťte své tváře od všech svých ohavností.
+[6] Proto řekni domu ⟦israel|Jisraele|Izraele⟧: ‚Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Čiňte pokání a odvraťte se od svých model a odvraťte své tváře od všech svých ohavností.
 
-[7] Neboť kdokoli z domu Israele nebo z cizinců, kteří pobývají v Israeli, kdo se ode mne oddělí, bere své modly do svého srdce a staví si před tvář kámen úrazu své nepravosti, a přesto přichází k prorokovi, aby se mě skrze něho dotazoval, tomu já, Yahweh, odpovím sám.
+[7] Neboť kdokoli z domu ⟦israel|Jisraele|Izraele⟧ nebo z cizinců, kteří pobývají v ⟦israel|Jisraeli|Izraeli⟧, kdo se ode mne oddělí, bere své modly do svého srdce a staví si před tvář kámen úrazu své nepravosti, a přesto přichází k prorokovi, aby se mě skrze něho dotazoval, tomu já, ⟦yhwh|Jahve|Hospodin⟧, odpovím sám.
 
-[8] Obrátím svou tvář proti tomu muži; učiním ho znamením a příslovím a vyhladím ho zprostřed svého lidu, a poznáte, že já jsem Yahweh.
+[8] Obrátím svou tvář proti tomu muži; učiním ho znamením a příslovím a vyhladím ho zprostřed svého lidu, a poznáte, že já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
-[9] ‚A dá-li se prorok oklamat a promluví slovo, já, Yahweh, jsem toho proroka oklamal a vztáhnu proti němu ruku a vyhubím ho zprostřed svého lidu Israele.
+[9] ‚A dá-li se prorok oklamat a promluví slovo, já, ⟦yhwh|Jahve|Hospodin⟧, jsem toho proroka oklamal a vztáhnu proti němu ruku a vyhubím ho zprostřed svého lidu ⟦israel|Jisraele|Izraele⟧.
 
 [10] A ponesou svůj trest – trest proroka i trest tazatele bude stejný –,
 
-[11] aby dům Israele už ode mne nebloudil a už se neposkvrňoval všemi svými přestoupeními, ale aby byli mým lidem a já abych byl jejich *Elohim*, je výrok Pána Yahweh.‘“
+[11] aby dům ⟦israel|Jisraele|Izraele⟧ už ode mne nebloudil a už se neposkvrňoval všemi svými přestoupeními, ale aby byli mým lidem a já abych byl jejich ⟦elohim|Elohim|Bohem⟧, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.‘“
 
-[12] A přišlo ke mně slovo Yahweh:
+[12] A přišlo ke mně slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
 [13] „Synu člověka, když země proti mně zhřeší tím, že jedná nevěrně, a já proti ní vztáhnu ruku, zlomím její zásobu chleba, pošlu na ni hlad a vyhladím z ní člověka i zvíře,
 
-[14] i kdyby v ní byli tito tři muži, **Noah, Daniel a Job**, vysvobodili by svou spravedlností jen svůj vlastní život, je výrok Pána Yahweh.
+[14] i kdyby v ní byli tito tři muži, **⟦noah|Noach|Noe⟧, ⟦daniel|Danijel|Daniel⟧ a ⟦job|Ijov|Jób⟧**, vysvobodili by svou spravedlností jen svůj vlastní život, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.
 
 [15] Jestliže nechám zemí projít divou zvěř a ta ji zpustoší, takže se stane pustinou a nikdo tudy nebude moci projít kvůli zvěři,
 
-[16] i kdyby v ní byli tito tři muži, jakože jsem živ, je výrok Pána Yahweh, nevysvobodili by ani syny, ani dcery. Jen oni sami by byli vysvobozeni, ale země by byla pustinou.
+[16] i kdyby v ní byli tito tři muži, jakože jsem živ, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧, nevysvobodili by ani syny, ani dcery. Jen oni sami by byli vysvobozeni, ale země by byla pustinou.
 
 [17] Nebo jestliže uvedu na tu zemi meč a řeknu: Ať meč projde zemí, a vyhladím z ní člověka i zvíře,
 
-[18] i kdyby v ní byli tito tři muži, jakože jsem živ, je výrok Pána Yahweh, nevysvobodili by ani syny, ani dcery, ale jen oni sami by byli vysvobozeni.
+[18] i kdyby v ní byli tito tři muži, jakože jsem živ, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧, nevysvobodili by ani syny, ani dcery, ale jen oni sami by byli vysvobozeni.
 
 [19] Nebo jestliže pošlu do té země mor a vyleji na ni svou zlobu v krvi, abych z ní vyhladil člověka i zvíře,
 
-[20] i kdyby v ní byli Noah, Daniel a Job, jakože jsem živ, je výrok Pána Yahweh, nevysvobodili by ani syna, ani dceru. Vysvobodili by svou spravedlností jen svůj vlastní život.
+[20] i kdyby v ní byli ⟦noah|Noach|Noe⟧, ⟦daniel|Danijel|Daniel⟧ a ⟦job|Ijov|Jób⟧, jakože jsem živ, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧, nevysvobodili by ani syna, ani dceru. Vysvobodili by svou spravedlností jen svůj vlastní život.
 
-[21] Neboť toto praví Pán Yahweh: Oč víc, až pošlu na Jerusalem své čtyři zhoubné soudy – meč, hlad, divou zvěř a mor –, abych z něho vyhladil člověka i zvíře!
+[21] Neboť toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Oč víc, až pošlu na ⟦jerusalem|Jerušalajim|Jeruzalém⟧ své čtyři zhoubné soudy – meč, hlad, divou zvěř a mor –, abych z něho vyhladil člověka i zvíře!
 
-[22] Ale hle, zůstanou v něm někteří přeživší, synové a dcery, kteří budou vyvedeni. Vyjdou k vám, a až uvidíte jejich cesty a jejich skutky, budete utěšeni ohledně neštěstí, které jsem uvedl na Jerusalem, ohledně všeho, co jsem na něj uvedl.
+[22] Ale hle, zůstanou v něm někteří přeživší, synové a dcery, kteří budou vyvedeni. Vyjdou k vám, a až uvidíte jejich cesty a jejich skutky, budete utěšeni ohledně neštěstí, které jsem uvedl na ⟦jerusalem|Jerušalajim|Jeruzalém⟧, ohledně všeho, co jsem na něj uvedl.
 
-[23] Utěší vás, až uvidíte jejich cesty a jejich skutky, a poznáte, že ne bez příčiny jsem učinil všechno, co jsem v něm učinil, je výrok Pána Yahweh.“
+[23] Utěší vás, až uvidíte jejich cesty a jejich skutky, a poznáte, že ne bez příčiny jsem učinil všechno, co jsem v něm učinil, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.“
 
 ## Změny
 

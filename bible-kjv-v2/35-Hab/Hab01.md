@@ -1,8 +1,8 @@
 # Habakkuk 1
 
-[1] The oracle that Habakkuk the prophet saw.
+[1] The oracle that ⟦habakkuk|Chavaqquq|Habakkuk⟧ the prophet saw.
 
-[2] O Yahweh, how long shall I cry for help,
+[2] O ⟦yhwh|Yahweh|LORD⟧, how long shall I cry for help,
 and you will not hear?
 Or cry to you "Violence!"
 and you will not save?
@@ -12,7 +12,7 @@ and why do you idly look at wrong?
 Destruction and violence are before me;
 strife and contention arise.
 
-[4] So the Law is paralyzed,
+[4] So the ⟦torah|Torah|law⟧ is paralyzed,
 and justice never goes forth.
 For the wicked surround the righteous;
 so justice goes forth perverted.
@@ -22,7 +22,7 @@ wonder and be astounded.
 For I am doing a work in your days
 that you would not believe if told.
 
-[6] For behold, I am raising up the Chaldeans,
+[6] For behold, I am raising up the ⟦chaldeans|Kasdim|Chaldeans⟧,
 that bitter and hasty nation,
 who march through the breadth of the earth,
 to seize dwellings not their own.
@@ -49,9 +49,9 @@ for they pile up earth and take it.
 guilty men, whose own might is their god!"
 
 [12] Are you not from everlasting,
-O Yahweh my *Elohim*, my Holy One?
+O ⟦yhwh|Yahweh|LORD⟧ my ⟦elohim|Elohim|God⟧, my Holy One?
 We shall not die.
-O Yahweh, you have ordained them as a judgment,
+O ⟦yhwh|Yahweh|LORD⟧, you have ordained them as a judgment,
 and you, O Rock, have established them for reproof.
 
 [13] You who are of purer eyes than to see evil

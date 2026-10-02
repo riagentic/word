@@ -1,14 +1,14 @@
 # Job 3
 
-[1] After this, Job opened his mouth and cursed his day.
+[1] After this, ⟦job|Iyov|Job⟧ opened his mouth and cursed his day.
 
-[2] Job spoke and said:
+[2] ⟦job|Iyov|Job⟧ spoke and said:
 
 [3] "Let the day perish on which I was born,
 and the night that said, 'A man-child is conceived.'
 
 [4] Let that day be darkness;
-let Eloah not seek it from above,
+let ⟦eloah|Eloah|God⟧ not seek it from above,
 nor let light shine upon it.
 
 [5] Let darkness and deep darkness — deep shadow — claim it;
@@ -23,7 +23,7 @@ let it not enter the number of the months.
 let no cry of joy enter it.
 
 [8] Let those who curse the day curse it,
-those who are ready to rouse Leviathan.
+those who are ready to rouse ⟦leviathan|Livyatan|Leviathan⟧.
 
 [9] Let the stars of its twilight be dark;
 let it wait for light and have none;
@@ -69,7 +69,7 @@ and dig for it more than for hidden treasures,
 and are glad when they find the grave?
 
 [23] Why is light given to a man whose way is hidden,
-and whom Eloah has hedged in?
+and whom ⟦eloah|Eloah|God⟧ has hedged in?
 
 [24] For my sighing comes as my bread,
 and my groans are poured out like water.

@@ -1,36 +1,36 @@
 # Sofonjáš 1
 
-[1] Slovo Yahweh, které se stalo k Zephaniahovi, synu Cushiho, syna Gedaliahova, syna Amariahova, syna Hezekiahova, za dnů Josiaha, syna Amonova, krále Judahu.
+[1] Slovo ⟦yhwh|Jahveho|Hospodina⟧, které se stalo k ⟦zephaniah-prophet|Cefanjovi|Sofonjášovi⟧, synu ⟦cushi|Kušiho|Kúšího⟧, syna ⟦gedaliah|Gedaljahuova|Gedaljášova⟧, syna ⟦amariah|Amarjova|Amarjášova⟧, syna ⟦hezekiah|Chizkijahuova|Chizkijášova⟧, za dnů ⟦josiah|Jošijahua|Jóšijáše⟧, syna ⟦amon|Amonova|Amónova⟧, krále ⟦judah|Jehudy|Judy⟧.
 
 [2] „Naprosto smetu všechno
-z tváře země,“ praví Yahweh.
+z tváře země,“ praví ⟦yhwh|Jahve|Hospodin⟧.
 
 [3] „Smetu člověka i zvíře;
 smetu ptáky nebes
 i ryby moře
 a sutiny i s ničemy.
 Vyhladím lidstvo
-z tváře země,“ praví Yahweh.
+z tváře země,“ praví ⟦yhwh|Jahve|Hospodin⟧.
 
-[4] „Vztáhnu svou ruku proti Judahu
-a proti všem obyvatelům Jerusalemu;
+[4] „Vztáhnu svou ruku proti ⟦judah|Jehudovi|Judovi⟧
+a proti všem obyvatelům ⟦jerusalem|Jerušalajim|Jeruzaléma⟧;
 vyhladím z tohoto místa zbytek Baala
 a jméno modlářských kněží i s kněžími,
 
 [5] ty, kdo se na střechách klanějí
 zástupu nebes,
-ty, kdo se klanějí a přísahají Yahweh,
-a přitom přísahají při Milkomovi,
+ty, kdo se klanějí a přísahají ⟦yhwh|Jahvovi|Hospodinu⟧,
+a přitom přísahají při ⟦milcom|Milkomovi|Milkómovi⟧,
 
-[6] ty, kdo se odvrátili od následování Yahweh,
-kdo Yahweh nehledají ani se ho nedotazují.“
+[6] ty, kdo se odvrátili od následování ⟦yhwh|Jahveho|Hospodina⟧,
+kdo ⟦yhwh|Jahveho|Hospodina⟧ nehledají ani se ho nedotazují.“
 
-[7] Mlč před Pánem Yahweh!
-Neboť Den Yahweh je blízko;
-Yahweh připravil oběť
+[7] Mlč před ⟦adonai-yhwh|Pánem Jahvem|Panovníkem Hospodinem⟧!
+Neboť Den ⟦yhwh|Jahveho|Hospodina⟧ je blízko;
+⟦yhwh|Jahve|Hospodin⟧ připravil oběť
 a posvětil své hosty.
 
-[8] „A v den oběti Yahweh –
+[8] „A v den oběti ⟦yhwh|Jahveho|Hospodina⟧ –
 
 „ztrestám úředníky a královy syny
 a všechny, kdo se strojí do cizího šatu.
@@ -40,7 +40,7 @@ každého, kdo skáče přes práh,
 a ty, kdo plní dům svého pána
 násilím a podvodem.
 
-[10] „Onoho dne,“ praví Yahweh,
+[10] „Onoho dne,“ praví ⟦yhwh|Jahve|Hospodin⟧,
 „bude slyšet křik od Rybí brány,
 kvílení z Druhé čtvrti,
 veliký lomoz z pahorků.
@@ -49,11 +49,11 @@ veliký lomoz z pahorků.
 Neboť všichni obchodníci jsou pryč;
 všichni, kdo odvažují stříbro, jsou vyhlazeni.
 
-[12] „V onen čas prohledám Jerusalem s lampami
+[12] „V onen čas prohledám ⟦jerusalem|Jerušalajim|Jeruzalém⟧ s lampami
 a ztrestám muže,
 kteří jsou samolibí, houstnou na svých kalech,
 kteří si v srdci říkají:
-‚Yahweh neučiní dobré
+‚⟦yhwh|Jahve|Hospodin⟧ neučiní dobré
 ani neučiní zlé.‘
 
 [13] Jejich statky budou vydrancovány
@@ -63,9 +63,9 @@ nebudou v nich bydlet;
 ač vysadí vinice,
 nebudou z nich pít víno.“
 
-[14] Veliký Den Yahweh je blízko,
+[14] Veliký Den ⟦yhwh|Jahveho|Hospodina⟧ je blízko,
 blízko a velmi spěchá;
-zvuk Dne Yahweh je hořký;
+zvuk Dne ⟦yhwh|Jahveho|Hospodina⟧ je hořký;
 hrdina tam hlasitě křičí.
 
 [15] Dnem hněvu je ten den,
@@ -74,19 +74,19 @@ dnem zkázy a zpustošení,
 dnem tmy a šera,
 dnem oblaků a temných mračen,
 
-[16] dnem troubení a válečného pokřiku
+[16] dnem ⟦shofar|šofaru|polnice⟧ a válečného pokřiku
 proti opevněným městům
 a proti vysokým cimbuřím.
 
 [17] Uvedu na lidstvo tíseň,
 takže budou chodit jako slepí,
-protože zhřešili proti Yahweh;
+protože zhřešili proti ⟦yhwh|Jahvovi|Hospodinu⟧;
 jejich krev bude vylita jako prach
 a jejich maso jako hnůj.
 
 [18] Ani jejich stříbro, ani jejich zlato
 je nebude moci vysvobodit
-v den hněvu Yahweh.
+v den hněvu ⟦yhwh|Jahveho|Hospodina⟧.
 V ohni jeho žárlivosti
 bude strávena celá země;
 neboť úplný a náhlý konec

@@ -1,68 +1,68 @@
 # Skutky 8
 
-[1] A Saul s jeho popravou souhlasil.
+[1] A ⟦saul|Šaul|Saul⟧ s jeho popravou souhlasil.
 
-Onoho dne vypuklo proti církvi v Jerusalemě veliké pronásledování a všichni kromě apoštolů se rozprchli po krajinách Judeje a Samarie.
+Onoho dne vypuklo proti církvi v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧ veliké pronásledování a všichni kromě apoštolů se rozprchli po krajinách ⟦judea|Jehudy|Judska⟧ a ⟦samaria-nt|Šomronu|Samařska⟧.
 
-[2] Zbožní muži Stephena pohřbili a velmi nad ním naříkali.
+[2] Zbožní muži ⟦stephen|Stefana|Štěpána⟧ pohřbili a velmi nad ním naříkali.
 
-[3] Saul však pustošil církev; vcházel dům za domem, odvlékal muže i ženy a dával je do vězení.
+[3] ⟦saul|Šaul|Saul⟧ však pustošil církev; vcházel dům za domem, odvlékal muže i ženy a dával je do vězení.
 
 [4] Ti, kdo se rozprchli, chodili a zvěstovali slovo.
 
-[5] Philip sestoupil do města Samarie a kázal jim *Mashiacha*.
+[5] ⟦philip|Filippos|Filip⟧ sestoupil do města ⟦samaria-nt|Šomronu|Samaří⟧ a kázal jim ⟦mashiach|Mašiacha|Krista⟧.
 
-[6] Zástupy jednomyslně dbaly na to, co Philip říkal, když ho slyšely a viděly znamení, která činil.
+[6] Zástupy jednomyslně dbaly na to, co ⟦philip|Filippos|Filip⟧ říkal, když ho slyšely a viděly znamení, která činil.
 
 [7] Z mnohých, kdo je měli, totiž vycházeli nečistí duchové s hlasitým křikem a mnoho ochrnutých a chromých bylo uzdraveno.
 
 [8] V tom městě tedy zavládla veliká radost.
 
-[9] Byl tam však muž jménem Simon, který předtím v tom městě provozoval magii a uváděl lid Samarie v úžas; říkal o sobě, že je někdo veliký.
+[9] Byl tam však muž jménem Šimon, který předtím v tom městě provozoval magii a uváděl lid ⟦samaria-nt|Šomronu|Samařska⟧ v úžas; říkal o sobě, že je někdo veliký.
 
-[10] Všichni, od nejmenšího po největšího, na něj dbali a říkali: „Tento člověk je ta moc *Elohim*, která se nazývá Veliká.“
+[10] Všichni, od nejmenšího po největšího, na něj dbali a říkali: „Tento člověk je ta moc ⟦elohim|Elohim|Boží⟧, která se nazývá Veliká.“
 
 [11] Dbali na něj proto, že je dlouhou dobu uváděl v úžas svou magií.
 
-[12] Když však uvěřili Philipovi, který zvěstoval dobrou zprávu o království *Elohim* a o jménu *Yeshuy* *Mashiacha*, dávali se ponořit, muži i ženy.
+[12] Když však uvěřili ⟦philip|Filippovi|Filipovi⟧, který zvěstoval dobrou zprávu o království ⟦elohim|Elohim|Božím⟧ a o jménu ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧, dávali se ⟦immerse|ponořit|pokřtít⟧, muži i ženy.
 
-[13] I sám Simon uvěřil, a když byl ponořen, držel se Philipa. A když viděl dějící se znamení a veliké mocné činy, žasl.
+[13] I sám Šimon uvěřil, a když byl ⟦immerse|ponořen|pokřtěn⟧, držel se ⟦philip|Filippa|Filipa⟧. A když viděl dějící se znamení a veliké mocné činy, žasl.
 
-[14] Když apoštolové v Jerusalemě uslyšeli, že Samaria přijala slovo *Elohim*, poslali k nim *Kefu* a Johna.
+[14] Když apoštolové v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧ uslyšeli, že ⟦samaria-nt|Šomron přijal|Samařsko přijalo⟧ slovo ⟦elohim|Elohim|Boží⟧, poslali k nim ⟦peter|Kefu|Petra⟧ a ⟦john|Jochanana|Jana⟧.
 
-[15] Ti tam sestoupili a modlili se za ně, aby přijali *Ruach HaQodesh*,
+[15] Ti tam sestoupili a modlili se za ně, aby přijali ⟦ruach-haqodesh|Ruach HaKodeš|Ducha svatého⟧,
 
-[16] neboť ještě na nikoho z nich nesestoupil; byli pouze ponořeni ve jméno Pána *Yeshuy*.
+[16] neboť ještě na nikoho z nich nesestoupil; byli pouze ⟦immerse|ponořeni|pokřtěni⟧ ve jméno Pána ⟦yeshua|Ješuy|Ježíše⟧.
 
-[17] Tehdy na ně vkládali ruce a oni přijímali *Ruach HaQodesh*.
+[17] Tehdy na ně vkládali ruce a oni přijímali ⟦ruach-haqodesh|Ruach HaKodeš|Ducha svatého⟧.
 
-[18] Když Simon uviděl, že skrze vkládání rukou apoštolů je dáván Duch, nabídl jim peníze
+[18] Když Šimon uviděl, že skrze vkládání rukou apoštolů je dáván Duch, nabídl jim peníze
 
-[19] a řekl: „Dejte i mně tuto moc, aby každý, na koho vložím ruce, přijal *Ruach HaQodesh*.“
+[19] a řekl: „Dejte i mně tuto moc, aby každý, na koho vložím ruce, přijal ⟦ruach-haqodesh|Ruach HaKodeš|Ducha svatého⟧.“
 
-[20] *Kefa* mu však řekl: „Ať tvé stříbro zahyne spolu s tebou, protože sis myslel, že dar *Elohim* lze získat za peníze!
+[20] ⟦peter|Kefa|Petr⟧ mu však řekl: „Ať tvé stříbro zahyne spolu s tebou, protože sis myslel, že dar ⟦elohim|Elohim|Boží⟧ lze získat za peníze!
 
-[21] Nemáš na této věci podíl ani los, neboť tvé srdce není před *Elohim* upřímné.
+[21] Nemáš na této věci podíl ani los, neboť tvé srdce není před ⟦elohim|Elohim|Bohem⟧ upřímné.
 
 [22] Čiň tedy pokání z této své zloby a pros Pána, zda by ti snad mohl být odpuštěn záměr tvého srdce.
 
 [23] Vidím totiž, že jsi v žluči hořkosti a v poutech nepravosti.“
 
-[24] Simon odpověděl: „Proste vy za mě Pána, aby na mě nepřišlo nic z toho, co jste řekli.“
+[24] Šimon odpověděl: „Proste vy za mě Pána, aby na mě nepřišlo nic z toho, co jste řekli.“
 
-[25] Když pak vydali svědectví a promluvili slovo Páně, vraceli se do Jerusalemu a v mnoha samaritánských vesnicích zvěstovali evangelium.
+[25] Když pak vydali svědectví a promluvili slovo Páně, vraceli se do ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ a v mnoha samaritánských vesnicích zvěstovali evangelium.
 
-[26] Anděl Páně promluvil k Philipovi: „Vstaň a jdi k jihu na cestu, která vede dolů z Jerusalemu do Gazy.“ Je to pustá cesta.
+[26] Anděl Páně promluvil k ⟦philip|Filippovi|Filipovi⟧: „Vstaň a jdi k jihu na cestu, která vede dolů z ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ do ⟦gaza|Azzy|Gázy⟧.“ Je to pustá cesta.
 
-[27] Vstal tedy a šel. A hle, byl tam Ethiopan, eunuch, dvořan Candace, královny Ethiopanů, který spravoval všechen její poklad. Přišel do Jerusalemu, aby se poklonil,
+[27] Vstal tedy a šel. A hle, byl tam ⟦ethiopian|Aithiops|Etiop⟧, eunuch, dvořan Kandaké, královny ⟦ethiopian|Aithiopů|Etiopů⟧, který spravoval všechen její poklad. Přišel do ⟦jerusalem|Jerušalajim|Jeruzaléma⟧, aby se poklonil,
 
-[28] a nyní se vracel; seděl ve svém voze a četl proroka Isaiaha.
+[28] a nyní se vracel; seděl ve svém voze a četl proroka ⟦isaiah|Ješajahua|Izaiáše⟧.
 
-[29] Duch řekl Philipovi: „Přistup a připoj se k tomu vozu.“
+[29] Duch řekl ⟦philip|Filippovi|Filipovi⟧: „Přistup a připoj se k tomu vozu.“
 
-[30] Philip k němu přiběhl, uslyšel, jak čte proroka Isaiaha, a zeptal se: „Rozumíš tomu, co čteš?“
+[30] ⟦philip|Filippos|Filip⟧ k němu přiběhl, uslyšel, jak čte proroka ⟦isaiah|Ješajahua|Izaiáše⟧, a zeptal se: „Rozumíš tomu, co čteš?“
 
-[31] On odpověděl: „Jak bych mohl, když mě nikdo neuvede?“ A vyzval Philipa, aby vystoupil a posadil se k němu.
+[31] On odpověděl: „Jak bych mohl, když mě nikdo neuvede?“ A vyzval ⟦philip|Filippa|Filipa⟧, aby vystoupil a posadil se k němu.
 
 [32] Místo Písma, které četl, bylo toto:
 
@@ -73,17 +73,17 @@ tak neotvírá svá ústa.
 Kdo vylíčí jeho pokolení?
 Neboť jeho život je vzat ze země**.“
 
-[34] Eunuch se obrátil k Philipovi: „Prosím tě, o kom to prorok říká? O sobě, nebo o někom jiném?“
+[34] Eunuch se obrátil k ⟦philip|Filippovi|Filipovi⟧: „Prosím tě, o kom to prorok říká? O sobě, nebo o někom jiném?“
 
-[35] Tu Philip otevřel ústa, a počínaje tímto Písmem mu zvěstoval dobrou zprávu o *Yeshuovi*.
+[35] Tu ⟦philip|Filippos|Filip⟧ otevřel ústa, a počínaje tímto Písmem mu zvěstoval dobrou zprávu o ⟦yeshua|Ješuovi|Ježíši⟧.
 
-[36] Jak jeli po cestě, přijeli k nějaké vodě a eunuch řekl: „Hle, voda! Co mi brání, abych byl ponořen?“
+[36] Jak jeli po cestě, přijeli k nějaké vodě a eunuch řekl: „Hle, voda! Co mi brání, abych byl ⟦immerse|ponořen|pokřtěn⟧?“
 
-[38] Rozkázal zastavit vůz a oba sestoupili do vody, Philip i eunuch, a Philip ho ponořil.
+[38] Rozkázal zastavit vůz a oba sestoupili do vody, ⟦philip|Filippos|Filip⟧ i eunuch, a ⟦philip|Filippos|Filip⟧ ho ⟦immerse|ponořil|pokřtil⟧.
 
-[39] Když vystoupili z vody, Duch Páně Philipa uchvátil a eunuch ho již neviděl; pokračoval v cestě a radoval se.
+[39] Když vystoupili z vody, Duch Páně ⟦philip|Filippa|Filipa⟧ uchvátil a eunuch ho již neviděl; pokračoval v cestě a radoval se.
 
-[40] Philip se však ocitl v Azotu, a jak procházel, zvěstoval evangelium ve všech městech, dokud nepřišel do Caesareje.
+[40] ⟦philip|Filippos|Filip⟧ se však ocitl v ⟦azotus|Ašdodu|Azótu⟧, a jak procházel, zvěstoval evangelium ve všech městech, dokud nepřišel do ⟦caesarea|Caesareje|Cesareje⟧.
 
 ## Změny
 

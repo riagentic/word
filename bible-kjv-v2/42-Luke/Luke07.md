@@ -1,26 +1,26 @@
 # Luke 7
 
-[1] After he had finished all his sayings in the hearing of the people, he entered Capernaum.
+[1] After he had finished all his sayings in the hearing of the people, he entered ⟦capernaum|Kfar Nachum|Capernaum⟧.
 
 [2] Now a centurion had a servant who was sick and at the point of death, who was highly valued by him.
 
-[3] When the centurion heard about *Yeshua*, he sent to him elders of the Jews, asking him to come and heal his servant.
+[3] When the centurion heard about ⟦yeshua|Yeshua|Jesus⟧, he sent to him elders of the ⟦jews|Yehudim|Jews⟧, asking him to come and heal his servant.
 
-[4] And when they came to *Yeshua*, they pleaded with him earnestly, saying, "He is worthy to have you do this for him,
+[4] And when they came to ⟦yeshua|Yeshua|Jesus⟧, they pleaded with him earnestly, saying, "He is worthy to have you do this for him,
 
 [5] for he loves our nation, and he is the one who built us our synagogue."
 
-[6] And *Yeshua* went with them. When he was not far from the house, the centurion sent friends, saying to him, "Lord, do not trouble yourself, for I am not worthy to have you come under my roof.
+[6] And ⟦yeshua|Yeshua|Jesus⟧ went with them. When he was not far from the house, the centurion sent friends, saying to him, "Lord, do not trouble yourself, for I am not worthy to have you come under my roof.
 
 [7] Therefore I did not presume to come to you. But say the word, and let my servant be healed.
 
 [8] For I too am a man set under authority, with soldiers under me: and I say to one, 'Go,' and he goes; and to another, 'Come,' and he comes; and to my servant, 'Do this,' and he does it."
 
-[9] When *Yeshua* heard these things, he marveled at him, and turning to the crowd that followed him, said, "I tell you, not even in Israel have I found such faith."
+[9] When ⟦yeshua|Yeshua|Jesus⟧ heard these things, he marveled at him, and turning to the crowd that followed him, said, "I tell you, not even in ⟦israel|Yisrael|Israel⟧ have I found such faith."
 
 [10] And when those who had been sent returned to the house, they found the servant well.
 
-[11] Soon afterward he went to a town called Nain, and his disciples and a great crowd went with him.
+[11] Soon afterward he went to a town called ⟦nain|Naim|Nain⟧, and his disciples and a great crowd went with him.
 
 [12] As he drew near to the gate of the town, behold, a man who had died was being carried out, the only son of his mother, and she was a widow, and a considerable crowd from the town was with her.
 
@@ -28,25 +28,25 @@
 
 [14] Then he came up and touched the bier, and the bearers stood still. And he said, "Young man, I say to you, arise."
 
-[15] And the dead man sat up and began to speak, and *Yeshua* gave him to his mother.
+[15] And the dead man sat up and began to speak, and ⟦yeshua|Yeshua|Jesus⟧ gave him to his mother.
 
-[16] Fear seized them all, and they glorified *Elohim*, saying, "A great prophet has arisen among us!" and "*Elohim* has visited his people!"
+[16] Fear seized them all, and they glorified ⟦elohim|Elohim|God⟧, saying, "A great prophet has arisen among us!" and "⟦elohim|Elohim|God⟧ has visited his people!"
 
-[17] And this report about him spread through the whole of Judea and all the surrounding country.
+[17] And this report about him spread through the whole of ⟦judea|Yehudah|Judea⟧ and all the surrounding country.
 
-[18] The disciples of John reported all these things to him. And John,
+[18] The disciples of ⟦john|Yochanan|John⟧ reported all these things to him. And ⟦john|Yochanan|John⟧,
 
 [19] calling two of his disciples to him, sent them to the Lord, saying, "Are you the one who is to come, or shall we look for another?"
 
-[20] And when the men had come to him, they said, "John the Immerser has sent us to you, saying, 'Are you the one who is to come, or shall we look for another?'"
+[20] And when the men had come to him, they said, "⟦john|Yochanan|John⟧ the ⟦immerser|Immerser|Baptist⟧ has sent us to you, saying, 'Are you the one who is to come, or shall we look for another?'"
 
 [21] In that hour he healed many people of diseases and plagues and evil spirits, and on many who were blind he bestowed sight.
 
-[22] And he answered them, "Go and tell John what you have seen and heard: **the blind receive their sight, the lame walk, lepers are cleansed, and the deaf hear, the dead are raised up, the poor have good news preached to them**.
+[22] And he answered them, "Go and tell ⟦john|Yochanan|John⟧ what you have seen and heard: **the blind receive their sight, the lame walk, lepers are cleansed, and the deaf hear, the dead are raised up, the poor have good news preached to them**.
 
 [23] And blessed is the one who is not offended by me."
 
-[24] When John's messengers had gone, *Yeshua* began to speak to the crowds concerning John: "What did you go out into the wilderness to see? A reed shaken by the wind?
+[24] When ⟦john|Yochanan's|John's⟧ messengers had gone, ⟦yeshua|Yeshua|Jesus⟧ began to speak to the crowds concerning ⟦john|Yochanan|John⟧: "What did you go out into the wilderness to see? A reed shaken by the wind?
 
 [25] What then did you go out to see? A man dressed in soft clothing? Behold, those who are dressed in splendid clothing and live in luxury are in kings' courts.
 
@@ -57,11 +57,11 @@
 '**Behold, I send my messenger before your face,
 who will prepare your way before you**.'
 
-[28] I tell you, among those born of women none is greater than John. Yet the one who is least in the kingdom of *Elohim* is greater than he."
+[28] I tell you, among those born of women none is greater than ⟦john|Yochanan|John⟧. Yet the one who is least in the kingdom of ⟦elohim|Elohim|God⟧ is greater than he."
 
-[29] (When all the people heard this, and the tax collectors too, they declared *Elohim* just, having been immersed with the immersion of John,
+[29] (When all the people heard this, and the tax collectors too, they declared ⟦elohim|Elohim|God⟧ just, having been ⟦immerse|immersed|baptized⟧ with the ⟦immersion|immersion|baptism⟧ of ⟦john|Yochanan|John⟧,
 
-[30] but the Pharisees and the lawyers rejected the purpose of *Elohim* for themselves, not having been immersed by him.)
+[30] but the ⟦pharisees|Perushim|Pharisees⟧ and the lawyers rejected the purpose of ⟦elohim|Elohim|God⟧ for themselves, not having been ⟦immerse|immersed|baptized⟧ by him.)
 
 [31] "To what then shall I compare the people of this generation, and what are they like?
 
@@ -70,29 +70,29 @@ who will prepare your way before you**.'
 'We played the flute for you, and you did not dance;
 we sang a dirge, and you did not weep.'
 
-[33] For John the Immerser has come eating no bread and drinking no wine, and you say, 'He has a demon.'
+[33] For ⟦john|Yochanan|John⟧ the ⟦immerser|Immerser|Baptist⟧ has come eating no bread and drinking no wine, and you say, 'He has a demon.'
 
 [34] The Son of Man has come eating and drinking, and you say, 'Look at him! A glutton and a drunkard, a friend of tax collectors and sinners!'
 
 [35] Yet wisdom is justified by all her children."
 
-[36] One of the Pharisees asked him to eat with him, and he went into the Pharisee's house and reclined at table.
+[36] One of the ⟦pharisees|Perushim|Pharisees⟧ asked him to eat with him, and he went into the ⟦pharisee|Parush's|Pharisee's⟧ house and reclined at table.
 
-[37] And behold, a woman of the city, who was a sinner, when she learned that he was reclining at table in the Pharisee's house, brought an alabaster flask of ointment,
+[37] And behold, a woman of the city, who was a sinner, when she learned that he was reclining at table in the ⟦pharisee|Parush's|Pharisee's⟧ house, brought an alabaster flask of ointment,
 
 [38] and standing behind him at his feet, weeping, she began to wet his feet with her tears and wiped them with the hair of her head and kissed his feet and anointed them with the ointment.
 
-[39] Now when the Pharisee who had invited him saw this, he said to himself, "If this man were a prophet, he would have known who and what sort of woman this is who is touching him, for she is a sinner."
+[39] Now when the ⟦pharisee|Parush|Pharisee⟧ who had invited him saw this, he said to himself, "If this man were a prophet, he would have known who and what sort of woman this is who is touching him, for she is a sinner."
 
-[40] And *Yeshua* answering said to him, "Simon, I have something to say to you." And he answered, "Say it, Teacher."
+[40] And ⟦yeshua|Yeshua|Jesus⟧ answering said to him, "⟦simon|Shimon|Simon⟧, I have something to say to you." And he answered, "Say it, Teacher."
 
 [41] "A certain moneylender had two debtors. One owed five hundred denarii, and the other fifty.
 
 [42] When they could not pay, he cancelled the debt of both. Now which of them will love him more?"
 
-[43] Simon answered, "The one, I suppose, for whom he cancelled the larger debt." And he said to him, "You have judged rightly."
+[43] ⟦simon|Shimon|Simon⟧ answered, "The one, I suppose, for whom he cancelled the larger debt." And he said to him, "You have judged rightly."
 
-[44] Then turning toward the woman he said to Simon, "Do you see this woman? I entered your house; you gave me no water for my feet, but she has wet my feet with her tears and wiped them with her hair.
+[44] Then turning toward the woman he said to ⟦simon|Shimon|Simon⟧, "Do you see this woman? I entered your house; you gave me no water for my feet, but she has wet my feet with her tears and wiped them with her hair.
 
 [45] You gave me no kiss, but from the time I came in she has not ceased to kiss my feet.
 

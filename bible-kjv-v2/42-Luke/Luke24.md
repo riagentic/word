@@ -4,13 +4,13 @@
 
 [2] And they found the stone rolled away from the tomb,
 
-[3] but when they went in they did not find the body of the Lord *Yeshua*.
+[3] but when they went in they did not find the body of the Lord ⟦yeshua|Yeshua|Jesus⟧.
 
 [4] While they were perplexed about this, behold, two men stood by them in dazzling apparel.
 
 [5] And as they were frightened and bowed their faces to the ground, the men said to them, "**Why do you seek the living among the dead?**
 
-[6] He is not here, but has risen. Remember how he told you, while he was still in Galilee,
+[6] He is not here, but has risen. Remember how he told you, while he was still in ⟦galilee|Galil|Galilee⟧,
 
 [7] that the Son of Man must be delivered into the hands of sinful men and be crucified and on the third day rise."
 
@@ -18,29 +18,29 @@
 
 [9] and returning from the tomb they told all these things to the eleven and to all the rest.
 
-[10] Now it was Mary Magdalene and Joanna and Mary the mother of Jacob and the other women with them who told these things to the apostles,
+[10] Now it was ⟦mary|Miryam|Mary⟧ Magdalene and ⟦joanna|Yochanah|Joanna⟧ and ⟦mary|Miryam|Mary⟧ the mother of ⟦james|Yaaqov|James⟧ and the other women with them who told these things to the apostles,
 
 [11] but these words seemed to them an idle tale, and they did not believe them.
 
-[12] But *Kefa* rose and ran to the tomb; stooping and looking in, he saw the linen cloths by themselves; and he went home marveling at what had happened.
+[12] But ⟦peter|Kefa|Peter⟧ rose and ran to the tomb; stooping and looking in, he saw the linen cloths by themselves; and he went home marveling at what had happened.
 
-[13] That very day two of them were going to a village named Emmaus, about seven miles from Jerusalem,
+[13] That very day two of them were going to a village named Emmaus, about seven miles from ⟦jerusalem|Yerushalayim|Jerusalem⟧,
 
 [14] and they were talking with each other about all these things that had happened.
 
-[15] While they were talking and discussing together, *Yeshua* himself drew near and went with them.
+[15] While they were talking and discussing together, ⟦yeshua|Yeshua|Jesus⟧ himself drew near and went with them.
 
 [16] But their eyes were kept from recognizing him.
 
 [17] And he said to them, "What is this conversation that you are holding with each other as you walk?" And they stood still, looking sad.
 
-[18] Then one of them, named Cleopas, answered him, "Are you the only visitor to Jerusalem who does not know the things that have happened there in these days?"
+[18] Then one of them, named ⟦cleopas|Kleopas|Cleopas⟧, answered him, "Are you the only visitor to ⟦jerusalem|Yerushalayim|Jerusalem⟧ who does not know the things that have happened there in these days?"
 
-[19] And he said to them, "What things?" And they said to him, "Concerning *Yeshua* of Nazareth, a man who was a prophet mighty in deed and word before *Elohim* and all the people,
+[19] And he said to them, "What things?" And they said to him, "Concerning ⟦yeshua|Yeshua|Jesus⟧ of ⟦nazareth|Natzrat|Nazareth⟧, a man who was a prophet mighty in deed and word before ⟦elohim|Elohim|God⟧ and all the people,
 
 [20] and how our chief priests and rulers delivered him up to be condemned to death, and crucified him.
 
-[21] But we had hoped that he was the one to redeem Israel. Yes, and besides all this, it is now the third day since these things happened.
+[21] But we had hoped that he was the one to redeem ⟦israel|Yisrael|Israel⟧. Yes, and besides all this, it is now the third day since these things happened.
 
 [22] Moreover, some women of our company amazed us. They were at the tomb early in the morning,
 
@@ -50,9 +50,9 @@
 
 [25] And he said to them, "O foolish ones, and slow of heart to believe all that the prophets have spoken!
 
-[26] Was it not necessary that the *Mashiach* should suffer these things and enter into his glory?"
+[26] Was it not necessary that the ⟦mashiach|Mashiach|Christ⟧ should suffer these things and enter into his glory?"
 
-[27] And **beginning with Moses and all the Prophets, he interpreted to them in all the Scriptures the things concerning himself.**
+[27] And **beginning with ⟦moses|Moshe|Moses⟧ and all the Prophets, he interpreted to them in all the Scriptures the things concerning himself.**
 
 [28] So they drew near to the village to which they were going. He acted as if he were going farther,
 
@@ -64,13 +64,13 @@
 
 [32] They said to each other, "Did not our hearts burn within us while he talked to us on the road, while he opened to us the Scriptures?"
 
-[33] And they rose that same hour and returned to Jerusalem. And they found the eleven and those who were with them gathered together,
+[33] And they rose that same hour and returned to ⟦jerusalem|Yerushalayim|Jerusalem⟧. And they found the eleven and those who were with them gathered together,
 
-[34] saying, "The Lord has risen indeed, and has appeared to Simon!"
+[34] saying, "The Lord has risen indeed, and has appeared to ⟦simon|Shimon|Simon⟧!"
 
 [35] Then they told what had happened on the road, and how he was known to them in the breaking of the bread.
 
-[36] As they were talking about these things, *Yeshua* himself stood among them, and said to them, "Peace be to you!"
+[36] As they were talking about these things, ⟦yeshua|Yeshua|Jesus⟧ himself stood among them, and said to them, "Peace be to you!"
 
 [37] But they were startled and frightened and thought they saw a spirit.
 
@@ -86,25 +86,25 @@
 
 [43] and he took it and ate before them.
 
-[44] Then he said to them, "These are my words that I spoke to you while I was still with you, that everything written about me in the **Law of Moses and the Prophets and the Psalms** must be fulfilled."
+[44] Then he said to them, "These are my words that I spoke to you while I was still with you, that everything written about me in the **⟦torah|Torah|Law⟧ of ⟦moses|Moshe|Moses⟧ and the Prophets and the Psalms** must be fulfilled."
 
 [45] Then he opened their minds to understand the Scriptures,
 
-[46] and said to them, "Thus it is written, that the *Mashiach* should suffer and on the third day rise from the dead,
+[46] and said to them, "Thus it is written, that the ⟦mashiach|Mashiach|Christ⟧ should suffer and on the third day rise from the dead,
 
-[47] and that repentance for the forgiveness of sins should be proclaimed in his name to all nations, beginning from Jerusalem.
+[47] and that repentance for the forgiveness of sins should be proclaimed in his name to all nations, beginning from ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
 [48] You are witnesses of these things.
 
 [49] And behold, I am sending the promise of my Father upon you. But stay in the city until you are clothed with power from on high."
 
-[50] Then he led them out as far as Bethany, and lifting up his hands he blessed them.
+[50] Then he led them out as far as ⟦bethany|Bethania|Bethany⟧, and lifting up his hands he blessed them.
 
 [51] While he blessed them, he parted from them and was carried up into heaven.
 
-[52] And they worshiped him and returned to Jerusalem with great joy,
+[52] And they worshiped him and returned to ⟦jerusalem|Yerushalayim|Jerusalem⟧ with great joy,
 
-[53] and were continually in the temple blessing *Elohim*.
+[53] and were continually in the temple blessing ⟦elohim|Elohim|God⟧.
 
 ## Changes
 

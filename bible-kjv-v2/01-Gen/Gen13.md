@@ -1,32 +1,32 @@
 # Genesis 13
 
-[1] So Abram went up from Egypt, he and his wife and all that he had, and Lot with him, into the Negev.
+[1] So ⟦abram|Avram|Abram⟧ went up from ⟦egypt|Mitzrayim|Egypt⟧, he and his wife and all that he had, and Lot with him, into the ⟦negev|Negev|Negeb⟧.
 
-[2] Abram was very rich in livestock, in silver, and in gold.
+[2] ⟦abram|Avram|Abram⟧ was very rich in livestock, in silver, and in gold.
 
-[3] He journeyed on by stages from the Negev to Bethel, to the place where his tent had been at the beginning, between Bethel and Ai,
+[3] He journeyed on by stages from the ⟦negev|Negev|Negeb⟧ to ⟦bethel|Beit El|Bethel⟧, to the place where his tent had been at the beginning, between ⟦bethel|Beit El|Bethel⟧ and Ai,
 
-[4] to the place of the altar that he had made there at the first; and there Abram called on the name of Yahweh.
+[4] to the place of the altar that he had made there at the first; and there ⟦abram|Avram|Abram⟧ called on the name of ⟦yhwh|Yahweh|the LORD⟧.
 
-[5] Lot, who was going with Abram, also had flocks and herds and tents.
+[5] Lot, who was going with ⟦abram|Avram|Abram⟧, also had flocks and herds and tents.
 
 [6] The land could not support them living together, for their possessions were so great that they could not dwell together,
 
-[7] and there was strife between the herders of Abram's livestock and the herders of Lot's livestock. At that time the Canaanites and the Perizzites were dwelling in the land.
+[7] and there was strife between the herders of ⟦abram|Avram's|Abram's⟧ livestock and the herders of Lot's livestock. At that time the ⟦canaanites|Kenaanim|Canaanites⟧ and the ⟦perizzites|Perizzim|Perizzites⟧ were dwelling in the land.
 
-[8] So Abram said to Lot, "Please let there be no strife between me and you, and between my herders and your herders, for we are brothers.
+[8] So ⟦abram|Avram|Abram⟧ said to Lot, "Please let there be no strife between me and you, and between my herders and your herders, for we are brothers.
 
 [9] Is not the whole land before you? Please separate yourself from me. If you take the left hand, I will go right; or if you take the right hand, I will go left."
 
-[10] Lot lifted up his eyes and saw all the plain of the Jordan, that it was well watered everywhere — before Yahweh destroyed Sodom and Gomorrah — like the garden of Yahweh, like the land of Egypt, as you go toward Zoar.
+[10] Lot lifted up his eyes and saw all the plain of the ⟦jordan|Yarden|Jordan⟧, that it was well watered everywhere — before ⟦yhwh|Yahweh|the LORD⟧ destroyed ⟦sodom|Sedom|Sodom⟧ and ⟦gomorrah|Amorah|Gomorrah⟧ — like the garden of ⟦yhwh|Yahweh|the LORD⟧, like the land of ⟦egypt|Mitzrayim|Egypt⟧, as you go toward ⟦zoar|Tzoar|Zoar⟧.
 
-[11] So Lot chose for himself all the plain of the Jordan, and Lot journeyed eastward; thus they separated from each other.
+[11] So Lot chose for himself all the plain of the ⟦jordan|Yarden|Jordan⟧, and Lot journeyed eastward; thus they separated from each other.
 
-[12] Abram dwelt in the land of Canaan, and Lot dwelt among the cities of the plain, and pitched his tent as far as Sodom.
+[12] ⟦abram|Avram|Abram⟧ dwelt in the land of ⟦canaan|Kenaan|Canaan⟧, and Lot dwelt among the cities of the plain, and pitched his tent as far as ⟦sodom|Sedom|Sodom⟧.
 
-[13] Now the men of Sodom were wicked and great sinners against Yahweh.
+[13] Now the men of ⟦sodom|Sedom|Sodom⟧ were wicked and great sinners against ⟦yhwh|Yahweh|the LORD⟧.
 
-[14] Yahweh said to Abram, after Lot had separated from him, "Lift up your eyes now and look from the place where you are — northward, southward, eastward, and westward;
+[14] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦abram|Avram|Abram⟧, after Lot had separated from him, "Lift up your eyes now and look from the place where you are — northward, southward, eastward, and westward;
 
 [15] for all the land that you see, to you I will give it, and to your offspring forever.
 
@@ -34,7 +34,7 @@
 
 [17] Arise, walk through the land, through its length and its breadth, for to you I will give it."
 
-[18] So Abram moved his tent, and came and settled by the oaks of Mamre, which are in Hebron; and there he built an altar to Yahweh.
+[18] So ⟦abram|Avram|Abram⟧ moved his tent, and came and settled by the oaks of Mamre, which are in ⟦hebron|Chevron|Hebron⟧; and there he built an altar to ⟦yhwh|Yahweh|the LORD⟧.
 
 ## Changes
 

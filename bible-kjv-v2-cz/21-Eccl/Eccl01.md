@@ -1,8 +1,8 @@
 # Kazatel 1
 
-[1] Slova Kazatele, syna Davida, krále v Jerusalemě.
+[1] Slova ⟦qohelet|Koheleta|Kazatele⟧, syna Davida, krále v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧.
 
-[2] Marnost nad marnostmi, praví Kazatel,
+[2] Marnost nad marnostmi, praví ⟦qohelet|Kohelet|Kazatel⟧,
 marnost nad marnostmi; všechno je marnost.
 
 [3] Jaký zisk má člověk ze vší své námahy,
@@ -41,16 +41,16 @@ Byla už v dobách před námi.
 a nebude ani vzpomínky na pozdější věci, které teprve budou,
 u těch, kdo přijdou potom.
 
-[12] Já, Kazatel, jsem byl králem nad Israelem v Jerusalemě.
+[12] Já, ⟦qohelet|Kohelet|Kazatel⟧, jsem byl králem nad ⟦israel|Jisraelem|Izraelem⟧ v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧.
 
-[13] Upnul jsem své srdce k tomu, abych moudrostí hledal a zkoumal všechno, co se děje pod nebesy. Je to neblahé zaměstnání, které *Elohim* dal synům lidským, aby se jím zabývali.
+[13] Upnul jsem své srdce k tomu, abych moudrostí hledal a zkoumal všechno, co se děje pod nebesy. Je to neblahé zaměstnání, které ⟦elohim|Elohim|Bůh⟧ dal synům lidským, aby se jím zabývali.
 
 [14] Viděl jsem všechny skutky, které se dějí pod sluncem, a hle, všechno je marnost a honba za duchem.
 
 [15] Co je pokřivené, nelze narovnat,
 a co chybí, nelze sečíst.
 
-[16] Řekl jsem ve svém srdci: „Hle, nabyl jsem veliké moudrosti, převyšující všechny, kdo byli nad Jerusalemem přede mnou, a mé srdce zakusilo mnoho moudrosti a poznání.“
+[16] Řekl jsem ve svém srdci: „Hle, nabyl jsem veliké moudrosti, převyšující všechny, kdo byli nad ⟦jerusalem|Jerušalajim|Jeruzalémem⟧ přede mnou, a mé srdce zakusilo mnoho moudrosti a poznání.“
 
 [17] Upnul jsem své srdce k tomu, abych poznal moudrost a poznal šílenství a pošetilost. Pochopil jsem, že i to je jen honba za duchem.
 

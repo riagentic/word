@@ -1,8 +1,8 @@
 # Daniel 7
 
-[1] In the first year of Belshazzar king of Babylon, Daniel saw a dream and visions of his head as he lay in his bed. Then he wrote down the dream and told the sum of the matter.
+[1] In the first year of ⟦belshazzar|Belshatzar|Belshazzar⟧ king of ⟦babylon|Bavel|Babylon⟧, ⟦daniel|Daniyel|Daniel⟧ saw a dream and visions of his head as he lay in his bed. Then he wrote down the dream and told the sum of the matter.
 
-[2] Daniel declared, "I saw in my vision by night, and behold, the four winds of heaven were stirring up the great sea.
+[2] ⟦daniel|Daniyel|Daniel⟧ declared, "I saw in my vision by night, and behold, the four winds of heaven were stirring up the great sea.
 
 [3] And four great beasts came up out of the sea, different from one another.
 
@@ -18,7 +18,7 @@
 
 [9] "As I looked,
 thrones were placed,
-and the Ancient of Days took his seat;
+and ⟦ancient-of-days|Attiq Yomin|the Ancient of Days⟧ took his seat;
 his clothing was white as snow,
 and the hair of his head like pure wool;
 his throne was fiery flames;
@@ -38,7 +38,7 @@ and the books were opened.
 [13] "I saw in the night visions,
 and behold, with the clouds of heaven
 there came one like a Son of Man,
-and he came to the Ancient of Days
+and he came to ⟦ancient-of-days|Attiq Yomin|the Ancient of Days⟧
 and was presented before him.
 
 [14] And to him was given dominion
@@ -50,13 +50,13 @@ which shall not pass away,
 and his kingdom one
 that shall not be destroyed.
 
-[15] "As for me, Daniel, my spirit within me was anxious, and the visions of my head alarmed me.
+[15] "As for me, ⟦daniel|Daniyel|Daniel⟧, my spirit within me was anxious, and the visions of my head alarmed me.
 
 [16] I approached one of those who stood there and asked him the truth concerning all this. So he told me and made known to me the interpretation of the things.
 
 [17] 'These four great beasts are four kings who shall arise out of the earth.
 
-[18] But the holy ones of the Most High shall receive the kingdom and possess the kingdom forever, forever and ever.'
+[18] But the holy ones of ⟦elyon|Elyonin|the Most High⟧ shall receive the kingdom and possess the kingdom forever, forever and ever.'
 
 [19] "Then I desired to know the truth about the fourth beast, which was different from all the rest, exceedingly terrifying, with its teeth of iron and claws of bronze, and which devoured and broke in pieces and stamped what was left with its feet,
 
@@ -64,19 +64,19 @@ that shall not be destroyed.
 
 [21] As I looked, this horn made war with the holy ones and prevailed over them,
 
-[22] until the Ancient of Days came, and judgment was given for the holy ones of the Most High, and the time came when the holy ones possessed the kingdom.
+[22] until ⟦ancient-of-days|Attiq Yomin|the Ancient of Days⟧ came, and judgment was given for the holy ones of ⟦elyon|Elyonin|the Most High⟧, and the time came when the holy ones possessed the kingdom.
 
 [23] "Thus he said: 'As for the fourth beast, there shall be a fourth kingdom on earth, which shall be different from all the kingdoms, and it shall devour the whole earth, and trample it down, and break it to pieces.
 
 [24] As for the ten horns, out of this kingdom ten kings shall arise, and another shall arise after them; he shall be different from the former ones, and shall put down three kings.
 
-[25] He shall speak words against the Most High, and shall wear out the holy ones of the Most High, and shall think to change the times and the law; and they shall be given into his hand for **a time, times, and half a time**.
+[25] He shall speak words against ⟦elyon|Illaya|the Most High⟧, and shall wear out the holy ones of ⟦elyon|Elyonin|the Most High⟧, and shall think to change the times and the law; and they shall be given into his hand for **a time, times, and half a time**.
 
 [26] But the court shall sit in judgment, and his dominion shall be taken away, to be consumed and destroyed to the end.
 
-[27] And the kingdom and the dominion and the greatness of the kingdoms under the whole heaven shall be given to the people of the holy ones of the Most High; his kingdom shall be an everlasting kingdom, and all dominions shall serve and obey him.'
+[27] And the kingdom and the dominion and the greatness of the kingdoms under the whole heaven shall be given to the people of the holy ones of ⟦elyon|Elyonin|the Most High⟧; his kingdom shall be an everlasting kingdom, and all dominions shall serve and obey him.'
 
-[28] "Here is the end of the matter. As for me, Daniel, my thoughts greatly alarmed me, and my color changed, but I kept the matter in my heart."
+[28] "Here is the end of the matter. As for me, ⟦daniel|Daniyel|Daniel⟧, my thoughts greatly alarmed me, and my color changed, but I kept the matter in my heart."
 
 ## Changes
 

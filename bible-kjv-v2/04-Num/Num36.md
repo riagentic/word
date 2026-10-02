@@ -1,30 +1,30 @@
 # Numbers 36
 
-[1] The heads of the ancestral houses of the clans of the children of Gilead son of Machir son of Manasseh, of the clans of the children of Joseph, came near and spoke before Moses and before the chiefs, the heads of the ancestral houses of the children of Israel.
+[1] The heads of the ancestral houses of the clans of the children of ⟦gilead|Gilad|Gilead⟧ son of Machir son of ⟦manasseh|Menashe|Manasseh⟧, of the clans of the children of ⟦joseph|Yosef|Joseph⟧, came near and spoke before ⟦moses|Moshe|Moses⟧ and before the chiefs, the heads of the ancestral houses of the children of ⟦israel|Yisrael|Israel⟧.
 
-[2] They said, "Yahweh commanded my lord to give the land for an inheritance by lot to the children of Israel; and my lord was commanded by Yahweh to give the inheritance of Zelophehad our brother to his daughters.
+[2] They said, "⟦yhwh|Yahweh|The LORD⟧ commanded my lord to give the land for an inheritance by lot to the children of ⟦israel|Yisrael|Israel⟧; and my lord was commanded by ⟦yhwh|Yahweh|the LORD⟧ to give the inheritance of ⟦zelophehad|Tzelofchad|Zelophehad⟧ our brother to his daughters.
 
-[3] But if they are married to any of the sons of the other tribes of the children of Israel, then their inheritance will be taken from the inheritance of our fathers and added to the inheritance of the tribe into which they marry; so it will be taken from the lot of our inheritance.
+[3] But if they are married to any of the sons of the other tribes of the children of ⟦israel|Yisrael|Israel⟧, then their inheritance will be taken from the inheritance of our fathers and added to the inheritance of the tribe into which they marry; so it will be taken from the lot of our inheritance.
 
-[4] And when the jubilee of the children of Israel comes, their inheritance will be added to the inheritance of the tribe into which they have married; so their inheritance will be taken from the inheritance of our ancestral tribe."
+[4] And when the jubilee of the children of ⟦israel|Yisrael|Israel⟧ comes, their inheritance will be added to the inheritance of the tribe into which they have married; so their inheritance will be taken from the inheritance of our ancestral tribe."
 
-[5] Moses commanded the children of Israel at the word of Yahweh, saying, "The tribe of the sons of Joseph has spoken rightly.
+[5] ⟦moses|Moshe|Moses⟧ commanded the children of ⟦israel|Yisrael|Israel⟧ at the word of ⟦yhwh|Yahweh|the LORD⟧, saying, "The tribe of the sons of ⟦joseph|Yosef|Joseph⟧ has spoken rightly.
 
-[6] This is what Yahweh has commanded concerning the daughters of Zelophehad: let them marry whom they think best; only they must marry within the clan of the tribe of their father.
+[6] This is what ⟦yhwh|Yahweh|the LORD⟧ has commanded concerning the daughters of ⟦zelophehad|Tzelofchad|Zelophehad⟧: let them marry whom they think best; only they must marry within the clan of the tribe of their father.
 
-[7] So the inheritance of the children of Israel shall not pass from tribe to tribe; for each of the children of Israel shall hold fast to the inheritance of his ancestral tribe.
+[7] So the inheritance of the children of ⟦israel|Yisrael|Israel⟧ shall not pass from tribe to tribe; for each of the children of ⟦israel|Yisrael|Israel⟧ shall hold fast to the inheritance of his ancestral tribe.
 
-[8] Every daughter who inherits any portion in any tribe of the children of Israel shall be a wife to one from the clan of her ancestral tribe, so that each of the children of Israel may possess the inheritance of his fathers.
+[8] Every daughter who inherits any portion in any tribe of the children of ⟦israel|Yisrael|Israel⟧ shall be a wife to one from the clan of her ancestral tribe, so that each of the children of ⟦israel|Yisrael|Israel⟧ may possess the inheritance of his fathers.
 
-[9] No inheritance shall pass from one tribe to another, but each of the tribes of the children of Israel shall hold fast to its own inheritance."
+[9] No inheritance shall pass from one tribe to another, but each of the tribes of the children of ⟦israel|Yisrael|Israel⟧ shall hold fast to its own inheritance."
 
-[10] As Yahweh commanded Moses, so the daughters of Zelophehad did.
+[10] As ⟦yhwh|Yahweh|the LORD⟧ commanded ⟦moses|Moshe|Moses⟧, so the daughters of ⟦zelophehad|Tzelofchad|Zelophehad⟧ did.
 
-[11] Mahlah, Tirzah, Hoglah, Milcah, and Noah, the daughters of Zelophehad, were married to their father's brothers' sons;
+[11] ⟦mahlah|Machlah|Mahlah⟧, ⟦tirzah|Tirtzah|Tirzah⟧, ⟦hoglah|Choglah|Hoglah⟧, ⟦milcah|Milkah|Milcah⟧, and Noah, the daughters of ⟦zelophehad|Tzelofchad|Zelophehad⟧, were married to their father's brothers' sons;
 
-[12] they were married into the clans of the sons of Manasseh son of Joseph, and their inheritance remained in the tribe of their father's clan.
+[12] they were married into the clans of the sons of ⟦manasseh|Menashe|Manasseh⟧ son of ⟦joseph|Yosef|Joseph⟧, and their inheritance remained in the tribe of their father's clan.
 
-[13] These are the commandments and the ordinances that Yahweh commanded by the hand of Moses to the children of Israel in the plains of Moab by the Jordan at Jericho.
+[13] These are the commandments and the ordinances that ⟦yhwh|Yahweh|the LORD⟧ commanded by the hand of ⟦moses|Moshe|Moses⟧ to the children of ⟦israel|Yisrael|Israel⟧ in the plains of ⟦moab|Moav|Moab⟧ by the ⟦jordan|Yarden|Jordan⟧ at ⟦jericho|Yericho|Jericho⟧.
 
 ## Changes
 

@@ -14,13 +14,13 @@
 
 [7] Dá-li někdo svému bližnímu do úschovy stříbro nebo věci a ty jsou z domu toho muže ukradeny, nahradí zloděj, je-li nalezen, dvojnásobně.
 
-[8] Nebude-li zloděj nalezen, přistoupí pán domu před *Elohim*, aby se zjistilo, zda nevztáhl ruku na věci svého bližního.
+[8] Nebude-li zloděj nalezen, přistoupí pán domu před ⟦elohim|Elohim|Bohem⟧, aby se zjistilo, zda nevztáhl ruku na věci svého bližního.
 
-[9] Při každém zpronevěření – ať jde o býka, osla, ovci, oděv nebo jakoukoli ztracenou věc, o níž někdo řekne: ‚To je ono‘ – přijde spor obou stran před *Elohim*. Ten, koho *Elohim* odsoudí, zaplatí svému bližnímu dvojnásobně.
+[9] Při každém zpronevěření – ať jde o býka, osla, ovci, oděv nebo jakoukoli ztracenou věc, o níž někdo řekne: ‚To je ono‘ – přijde spor obou stran před ⟦elohim|Elohim|Bohem⟧. Ten, koho ⟦elohim|Elohim|Bůh⟧ odsoudí, zaplatí svému bližnímu dvojnásobně.
 
 [10] Dá-li někdo svému bližnímu do opatrování osla, býka, ovci nebo jakékoli zvíře a ono zajde, nebo se zraní, nebo je odehnáno, aniž to kdo vidí,
 
-[11] bude mezi oběma přísaha při Yahweh, že nevztáhl ruku na majetek svého bližního; a majitel to přijme a on nebude škodu nahrazovat.
+[11] bude mezi oběma přísaha při ⟦yhwh|Jahvovi|Hospodinu⟧, že nevztáhl ruku na majetek svého bližního; a majitel to přijme a on nebude škodu nahrazovat.
 
 [12] Bylo-li mu však ukradeno, nahradí je jeho majiteli.
 
@@ -38,9 +38,9 @@
 
 [19] Kdo se vyspí se zvířetem, bude jistě usmrcen.
 
-[20] Kdo obětuje jakémukoli bohu kromě jedině Yahweh, propadne zkáze jako zasvěcený klatbě.
+[20] Kdo obětuje jakémukoli bohu kromě jedině ⟦yhwh|Jahveho|Hospodina⟧, propadne zkáze jako zasvěcený klatbě.
 
-[21] Přistěhovalci nebudeš křivdit ani ho utiskovat, neboť jste byli přistěhovalci v egyptské zemi.
+[21] Přistěhovalci nebudeš křivdit ani ho utiskovat, neboť jste byli přistěhovalci v ⟦egypt|zemi Micrajim|egyptské zemi⟧.
 
 [22] Nebudete trápit žádnou vdovu ani sirotka.
 
@@ -54,7 +54,7 @@
 
 [27] neboť to je jeho jediná přikrývka – je to plášť na jeho kůži. V čem by spal? A až ke mně zavolá, uslyším, neboť jsem milostivý.
 
-[28] Nebudeš tupit *Elohim* ani zlořečit vládci svého lidu.
+[28] Nebudeš tupit ⟦elohim|Elohim|Boha⟧ ani zlořečit vládci svého lidu.
 
 [29] Nebudeš otálet s odevzdáním plnosti své úrody ani výtoku svého lisu. Prvorozeného ze svých synů dáš mně.
 

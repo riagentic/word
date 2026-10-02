@@ -1,6 +1,6 @@
 # Marek 16
 
-[1] Když minul sabat, Mary Magdalene, Mary, matka Jacoba, a Salome nakoupily vonné masti, aby šly a pomazaly ho.
+[1] Když minul ⟦shabbat|šabat|sobota⟧, ⟦mary|Mirjam|Marie⟧ ⟦magdalene|Magdaléna|Magdalská⟧, ⟦mary|Mirjam|Marie⟧, matka ⟦james|Jaakova|Jakuba⟧, a Salome nakoupily vonné masti, aby šly a pomazaly ho.
 
 [2] A velmi časně prvního dne týdne, když vyšlo slunce, přišly k hrobu.
 
@@ -10,13 +10,13 @@
 
 [5] A když vešly do hrobu, uviděly mladíka, jak sedí po pravé straně, oblečeného do bílého roucha, a zděsily se.
 
-[6] On jim však řekl: „Neděste se. Hledáte *Yeshuu* z Nazarethu, který byl ukřižován. **Vstal, není zde.** Hle, místo, kam ho položili.
+[6] On jim však řekl: „Neděste se. Hledáte ⟦yeshua|Ješuu|Ježíše⟧ z ⟦nazareth|Nacratu|Nazareta⟧, který byl ukřižován. **Vstal, není zde.** Hle, místo, kam ho položili.
 
-[7] Ale jděte, povězte jeho učedníkům a *Kefovi*, že vás předchází do Galilee. Tam ho uvidíte, jak vám řekl.“
+[7] Ale jděte, povězte jeho učedníkům a ⟦peter|Kefovi|Petrovi⟧, že vás předchází do ⟦galilee|Galilu|Galileje⟧. Tam ho uvidíte, jak vám řekl.“
 
 [8] I vyšly a utekly od hrobu, neboť se jich zmocnilo chvění a úžas; a nikomu nic neřekly, protože se bály.
 
-[9] [[Když pak vstal časně prvního dne týdne, zjevil se nejprve Mary Magdalene, z níž vyhnal sedm démonů.
+[9] [[Když pak vstal časně prvního dne týdne, zjevil se nejprve ⟦mary|Mirjam|Marii⟧ ⟦magdalene|Magdaléně|Magdalské⟧, z níž vyhnal sedm démonů.
 
 [10] Ona šla a oznámila to těm, kteří bývali s ním a nyní truchlili a plakali.
 
@@ -30,13 +30,13 @@
 
 [15] A řekl jim: „**Jděte do celého světa a hlásejte evangelium všemu stvoření.**
 
-**[16] Kdo uvěří a bude ponořen, bude spasen, ale kdo neuvěří, bude odsouzen.**
+**[16] Kdo uvěří a bude ⟦immerse|ponořen|pokřtěn⟧, bude spasen, ale kdo neuvěří, bude odsouzen.**
 
 [17] A ty, kdo uvěří, budou provázet tato znamení: v mém jménu budou vyhánět démony; budou mluvit novými jazyky;
 
 [18] budou brát hady do rukou; a vypijí-li něco smrtícího, neublíží jim to; na nemocné budou vkládat ruce, a ti se uzdraví.“
 
-[19] Pán *Yeshua* pak, když k nim promluvil, byl vzat vzhůru do nebe a posadil se po pravici *Elohim*.
+[19] Pán ⟦yeshua|Ješua|Ježíš⟧ pak, když k nim promluvil, byl vzat vzhůru do nebe a posadil se po pravici ⟦elohim|Elohim|Boží⟧.
 
 [20] A oni vyšli a kázali všude a Pán s nimi spolupůsobil a potvrzoval slovo znameními, která je provázela.]]
 

@@ -1,6 +1,6 @@
 # Isaiah 24
 
-[1] Behold, Yahweh will empty the earth and make it desolate,
+[1] Behold, ⟦yhwh|Yahweh|the LORD⟧ will empty the earth and make it desolate,
 and he will twist its surface and scatter its inhabitants.
 
 [2] And it shall be, as with the people, so with the priest;
@@ -11,7 +11,7 @@ as with the lender, so with the borrower;
 as with the creditor, so with the debtor.
 
 [3] The earth shall be utterly empty and utterly plundered;
-for Yahweh has spoken this word.
+for ⟦yhwh|Yahweh|the LORD⟧ has spoken this word.
 
 [4] The earth mourns and withers;
 the world languishes and withers;
@@ -53,11 +53,11 @@ as when an olive tree is beaten,
 as at the gleaning when the grape harvest is done.
 
 [14] They lift up their voices, they sing for joy;
-over the majesty of Yahweh they shout from the west.
+over the majesty of ⟦yhwh|Yahweh|the LORD⟧ they shout from the west.
 
-[15] Therefore in the east give glory to Yahweh;
-in the coastlands of the sea, give glory to the name of Yahweh,
-the *Elohim* of Israel.
+[15] Therefore in the east give glory to ⟦yhwh|Yahweh|the LORD⟧;
+in the coastlands of the sea, give glory to the name of ⟦yhwh|Yahweh|the LORD⟧,
+the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧.
 
 [16] From the ends of the earth we hear songs of praise,
 of glory to the Righteous One.
@@ -85,7 +85,7 @@ it sways like a hut;
 its transgression lies heavy upon it,
 and it falls, and will not rise again.
 
-[21] On that day Yahweh will punish
+[21] On that day ⟦yhwh|Yahweh|the LORD⟧ will punish
 the host of heaven, in heaven,
 and the kings of the earth, on the earth.
 
@@ -96,8 +96,8 @@ and after many days they will be punished.
 
 [23] Then the moon will be confounded
 and the sun ashamed,
-for Yahweh of Hosts reigns
-on Mount Zion and in Jerusalem,
+for ⟦yhwh|Yahweh|the LORD⟧ of Hosts reigns
+on Mount ⟦zion|Tziyon|Zion⟧ and in ⟦jerusalem|Yerushalayim|Jerusalem⟧,
 and his glory will be before his elders.
 
 ## Changes

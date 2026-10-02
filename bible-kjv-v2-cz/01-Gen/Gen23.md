@@ -1,44 +1,44 @@
 # Genesis 23
 
-[1] Sarah žila 127 let; to byla léta života Sarah.
+[1] ⟦sarah|Sara|Sára⟧ žila 127 let; to byla léta života ⟦sarah|Sary|Sáry⟧.
 
-[2] A Sarah zemřela v Kiriath-Arbě (to je Hebron) v zemi Canaan; a Abraham přišel, aby truchlil nad Sarah a oplakával ji.
+[2] A ⟦sarah|Sara|Sára⟧ zemřela v ⟦kiriath-arba|Kirjat Arbě|Kirjat-arbě⟧ (to je ⟦hebron|Chevron|Chebrón⟧) v zemi Kenaan; a ⟦abraham|Avraham|Abraham⟧ přišel, aby truchlil nad ⟦sarah|Sarou|Sárou⟧ a oplakával ji.
 
-[3] Abraham vstal od své mrtvé a promluvil k synům Hetha:
+[3] ⟦abraham|Avraham|Abraham⟧ vstal od své mrtvé a promluvil k synům Cheta:
 
 [4] „Jsem mezi vámi přistěhovalý cizinec a host; dejte mi mezi sebou hrobové vlastnictví, abych pohřbil svou mrtvou a odnesl ji ze svých očí.“
 
-[5] Synové Hetha odpověděli Abrahamovi a řekli mu:
+[5] Synové Cheta odpověděli ⟦abraham|Avrahamovi|Abrahamovi⟧ a řekli mu:
 
-[6] „Slyš nás, můj pane. Jsi mezi námi knížetem *Elohim*; pohřbi svou mrtvou v nejvybranějším z našich hrobů. Nikdo z nás ti neodepře svůj hrob, abys pohřbil svou mrtvou.“
+[6] „Slyš nás, můj pane. Jsi mezi námi knížetem ⟦elohim|Elohim|Božím⟧; pohřbi svou mrtvou v nejvybranějším z našich hrobů. Nikdo z nás ti neodepře svůj hrob, abys pohřbil svou mrtvou.“
 
-[7] Abraham vstal a poklonil se lidu země, synům Hetha.
+[7] ⟦abraham|Avraham|Abraham⟧ vstal a poklonil se lidu země, synům Cheta.
 
-[8] Promluvil s nimi a řekl: „Je-li vaší vůlí, abych pohřbil svou mrtvou a odnesl ji ze svých očí, slyšte mě a přimluvte se za mě u Ephrona, syna Zoharova,
+[8] Promluvil s nimi a řekl: „Je-li vaší vůlí, abych pohřbil svou mrtvou a odnesl ji ze svých očí, slyšte mě a přimluvte se za mě u ⟦ephron|Efrona|Efróna⟧, syna ⟦zohar|Cocharova|Socharova⟧,
 
-[9] aby mi dal jeskyni Machpelah, která mu patří, na konci jeho pole; ať mi ji dá za plnou cenu mezi vámi jako hrobové vlastnictví.“
+[9] aby mi dal jeskyni ⟦machpelah|Machpely|Makpely⟧, která mu patří, na konci jeho pole; ať mi ji dá za plnou cenu mezi vámi jako hrobové vlastnictví.“
 
-[10] Ephron přitom seděl mezi syny Hetha; a Ephron Hittita odpověděl Abrahamovi, tak aby to slyšeli synové Hetha, všichni, kdo vcházeli branou jeho města:
+[10] ⟦ephron|Efron|Efrón⟧ přitom seděl mezi syny Cheta; a ⟦ephron|Efron|Efrón⟧ ⟦hittite|Chitti|Chetejec⟧ odpověděl ⟦abraham|Avrahamovi|Abrahamovi⟧, tak aby to slyšeli synové Cheta, všichni, kdo vcházeli branou jeho města:
 
 [11] „Ne, můj pane, slyš mě. Dávám ti to pole i jeskyni, která je na něm, ti dávám; před očima synů svého lidu ti ji dávám. Pohřbi svou mrtvou.“
 
-[12] Tu se Abraham poklonil před lidem země
+[12] Tu se ⟦abraham|Avraham|Abraham⟧ poklonil před lidem země
 
-[13] a promluvil k Ephronovi, tak aby to slyšel lid země: „Jestliže chceš, prosím, slyš mě: dávám cenu za pole; přijmi ji ode mne a pohřbím tam svou mrtvou.“
+[13] a promluvil k ⟦ephron|Efronovi|Efrónovi⟧, tak aby to slyšel lid země: „Jestliže chceš, prosím, slyš mě: dávám cenu za pole; přijmi ji ode mne a pohřbím tam svou mrtvou.“
 
-[14] Ephron odpověděl Abrahamovi a řekl mu:
+[14] ⟦ephron|Efron|Efrón⟧ odpověděl ⟦abraham|Avrahamovi|Abrahamovi⟧ a řekl mu:
 
 [15] „Můj pane, poslyš mě: půda v ceně 400 šekelů stříbra – co je to mezi mnou a tebou? Pohřbi svou mrtvou.“
 
-[16] Abraham Ephrona poslechl; a Abraham odvážil Ephronovi stříbro, které jmenoval, tak aby to slyšeli synové Hetha – 400 šekelů stříbra podle vah platných mezi kupci.
+[16] ⟦abraham|Avraham|Abraham⟧ ⟦ephron|Efrona|Efróna⟧ poslechl; a ⟦abraham|Avraham|Abraham⟧ odvážil ⟦ephron|Efronovi|Efrónovi⟧ stříbro, které jmenoval, tak aby to slyšeli synové Cheta – 400 šekelů stříbra podle vah platných mezi kupci.
 
-[17] Tak Ephronovo pole, které bylo v Machpelah naproti Mamre – pole i jeskyně, která byla na něm, a všechny stromy, které byly na poli, v celém jeho obvodu – přešly
+[17] Tak ⟦ephron|Efronovo|Efrónovo⟧ pole, které bylo v ⟦machpelah|Machpele|Makpele⟧ naproti Mamre – pole i jeskyně, která byla na něm, a všechny stromy, které byly na poli, v celém jeho obvodu – přešly
 
-[18] na Abrahama jako vlastnictví před očima synů Hetha, přede všemi, kdo vcházeli branou jeho města.
+[18] na ⟦abraham|Avrahama|Abrahama⟧ jako vlastnictví před očima synů Cheta, přede všemi, kdo vcházeli branou jeho města.
 
-[19] Potom Abraham pohřbil svou ženu Sarah v jeskyni pole Machpelah naproti Mamre (to je Hebron) v zemi Canaan.
+[19] Potom ⟦abraham|Avraham|Abraham⟧ pohřbil svou ženu ⟦sarah|Saru|Sáru⟧ v jeskyni pole ⟦machpelah|Machpely|Makpely⟧ naproti Mamre (to je ⟦hebron|Chevron|Chebrón⟧) v zemi Kenaan.
 
-[20] Tak pole i jeskyně, která byla na něm, přešly od synů Hetha na Abrahama jako hrobové vlastnictví.
+[20] Tak pole i jeskyně, která byla na něm, přešly od synů Cheta na ⟦abraham|Avrahama|Abrahama⟧ jako hrobové vlastnictví.
 
 ## Změny
 

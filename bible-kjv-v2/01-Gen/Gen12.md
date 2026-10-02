@@ -1,6 +1,6 @@
 # Genesis 12
 
-[1] Yahweh said to Abram, "Go from your land, and from your kindred, and from your father's house, to the land that I will show you.
+[1] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦abram|Avram|Abram⟧, "Go from your land, and from your kindred, and from your father's house, to the land that I will show you.
 
 [2] I will make of you a great nation,
 and I will bless you,
@@ -11,39 +11,39 @@ and you shall be a blessing.
 and the one who treats you with contempt I will curse;
 and in you all the clans of the earth shall find blessing."
 
-[4] So Abram went, as Yahweh had spoken to him, and Lot went with him. Abram was 75 years old when he departed from Haran.
+[4] So ⟦abram|Avram|Abram⟧ went, as ⟦yhwh|Yahweh|the LORD⟧ had spoken to him, and Lot went with him. ⟦abram|Avram|Abram⟧ was 75 years old when he departed from ⟦haran-city|Charan|Haran⟧.
 
-[5] Abram took Sarai his wife and Lot his brother's son, and all the possessions they had gathered and the people they had acquired in Haran, and they set out to go to the land of Canaan. When they came to the land of Canaan,
+[5] ⟦abram|Avram|Abram⟧ took Sarai his wife and Lot his brother's son, and all the possessions they had gathered and the people they had acquired in ⟦haran-city|Charan|Haran⟧, and they set out to go to the land of ⟦canaan|Kenaan|Canaan⟧. When they came to the land of ⟦canaan|Kenaan|Canaan⟧,
 
-[6] Abram passed through the land to the place of Shechem, to the oak of Moreh. The Canaanites were then in the land.
+[6] ⟦abram|Avram|Abram⟧ passed through the land to the place of Shechem, to the oak of Moreh. The ⟦canaanites|Kenaanim|Canaanites⟧ were then in the land.
 
-[7] Yahweh appeared to Abram and said, "To your offspring I will give this land." So he built there an altar to Yahweh, who had appeared to him.
+[7] ⟦yhwh|Yahweh|The LORD⟧ appeared to ⟦abram|Avram|Abram⟧ and said, "To your offspring I will give this land." So he built there an altar to ⟦yhwh|Yahweh|the LORD⟧, who had appeared to him.
 
-[8] From there he moved on to the hill country east of Bethel and pitched his tent, with Bethel to the west and Ai to the east; and there he built an altar to Yahweh and called on the name of Yahweh.
+[8] From there he moved on to the hill country east of ⟦bethel|Beit El|Bethel⟧ and pitched his tent, with ⟦bethel|Beit El|Bethel⟧ to the west and Ai to the east; and there he built an altar to ⟦yhwh|Yahweh|the LORD⟧ and called on the name of ⟦yhwh|Yahweh|the LORD⟧.
 
-[9] And Abram journeyed on, continually pulling up stakes toward the Negev.
+[9] And ⟦abram|Avram|Abram⟧ journeyed on, continually pulling up stakes toward the ⟦negev|Negev|Negeb⟧.
 
-[10] There was a famine in the land, and Abram went down to Egypt to live there as a resident alien, for the famine was severe in the land.
+[10] There was a famine in the land, and ⟦abram|Avram|Abram⟧ went down to ⟦egypt|Mitzrayim|Egypt⟧ to live there as a resident alien, for the famine was severe in the land.
 
-[11] When he was about to enter Egypt, he said to Sarai his wife, "Look, I know that you are a woman beautiful in appearance.
+[11] When he was about to enter ⟦egypt|Mitzrayim|Egypt⟧, he said to Sarai his wife, "Look, I know that you are a woman beautiful in appearance.
 
-[12] And when the Egyptians see you, they will say, 'This is his wife,' and they will kill me and let you live.
+[12] And when the ⟦egyptians|Mitzrim|Egyptians⟧ see you, they will say, 'This is his wife,' and they will kill me and let you live.
 
 [13] Please say you are my sister, so that it may go well with me for your sake, and that my life may be spared because of you."
 
-[14] When Abram entered Egypt, the Egyptians saw that the woman was very beautiful.
+[14] When ⟦abram|Avram|Abram⟧ entered ⟦egypt|Mitzrayim|Egypt⟧, the ⟦egyptians|Mitzrim|Egyptians⟧ saw that the woman was very beautiful.
 
-[15] And when the officials of Pharaoh saw her, they praised her to Pharaoh, and the woman was taken into Pharaoh's house.
+[15] And when the officials of ⟦pharaoh|Paroh|Pharaoh⟧ saw her, they praised her to ⟦pharaoh|Paroh|Pharaoh⟧, and the woman was taken into ⟦pharaoh|Paroh's|Pharaoh's⟧ house.
 
-[16] And for her sake he dealt well with Abram; and Abram acquired sheep, cattle, male donkeys, male and female servants, female donkeys, and camels.
+[16] And for her sake he dealt well with ⟦abram|Avram|Abram⟧; and ⟦abram|Avram|Abram⟧ acquired sheep, cattle, male donkeys, male and female servants, female donkeys, and camels.
 
-[17] But Yahweh struck Pharaoh and his household with great plagues because of Sarai, Abram's wife.
+[17] But ⟦yhwh|Yahweh|the LORD⟧ struck ⟦pharaoh|Paroh|Pharaoh⟧ and his household with great plagues because of Sarai, ⟦abram|Avram's|Abram's⟧ wife.
 
-[18] Then Pharaoh summoned Abram and said, "What is this you have done to me? Why did you not tell me that she was your wife?
+[18] Then ⟦pharaoh|Paroh|Pharaoh⟧ summoned ⟦abram|Avram|Abram⟧ and said, "What is this you have done to me? Why did you not tell me that she was your wife?
 
 [19] Why did you say, 'She is my sister,' so that I took her as my wife? Now then, here is your wife; take her and go."
 
-[20] Pharaoh gave his men orders concerning him, and they sent him away, with his wife and all that he had.
+[20] ⟦pharaoh|Paroh|Pharaoh⟧ gave his men orders concerning him, and they sent him away, with his wife and all that he had.
 
 ## Changes
 

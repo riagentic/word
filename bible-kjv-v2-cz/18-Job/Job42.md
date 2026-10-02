@@ -1,6 +1,6 @@
 # Jób 42
 
-[1] Tu Job Yahweh odpověděl a řekl:
+[1] Tu ⟦job|Ijov|Jób⟧ ⟦yhwh|Jahvovi|Hospodinu⟧ odpověděl a řekl:
 
 [2] „Vím, že všechno můžeš
 a že žádný tvůj záměr nelze zmařit.
@@ -18,27 +18,27 @@ ale teď tě vidí mé oko;
 [6] proto odvolávám
 a činím pokání v prachu a popelu.“
 
-[7] Když Yahweh domluvil tato slova k Jobovi, řekl Yahweh Eliphazovi Temanskému: „Můj hněv vzplál proti tobě a proti tvým dvěma přátelům, neboť jste o mně nemluvili správně jako můj služebník Job.
+[7] Když ⟦yhwh|Jahve|Hospodin⟧ domluvil tato slova k ⟦job|Ijovovi|Jóbovi⟧, řekl ⟦yhwh|Jahve|Hospodin⟧ ⟦eliphaz|Elifazovi|Elífazovi⟧ ⟦temanite|Temanimu|Témanskému⟧: „Můj hněv vzplál proti tobě a proti tvým dvěma přátelům, neboť jste o mně nemluvili správně jako můj služebník ⟦job|Ijov|Jób⟧.
 
-[8] Nyní si tedy vezměte sedm býků a sedm beranů, jděte k mému služebníku Jobovi a obětujte za sebe zápalnou oběť; můj služebník Job se bude za vás modlit, neboť jeho přijmu, abych s vámi nenaložil podle vaší pošetilosti. Vždyť jste o mně nemluvili správně jako můj služebník Job.“
+[8] Nyní si tedy vezměte sedm býků a sedm beranů, jděte k mému služebníku ⟦job|Ijovovi|Jóbovi⟧ a obětujte za sebe zápalnou oběť; můj služebník ⟦job|Ijov|Jób⟧ se bude za vás modlit, neboť jeho přijmu, abych s vámi nenaložil podle vaší pošetilosti. Vždyť jste o mně nemluvili správně jako můj služebník ⟦job|Ijov|Jób⟧.“
 
-[9] Šli tedy Eliphaz Temanský, Bildad Shuachský a Zophar Naamatský a učinili, co jim Yahweh řekl; a Yahweh přijal Joba.
+[9] Šli tedy ⟦eliphaz|Elifaz|Elífaz⟧ ⟦temanite|Temani|Témanský⟧, Bildad ⟦shuhite|Šuchi|Šúchský⟧ a ⟦zophar|Cofar|Sófar⟧ ⟦naamathite|Naamati|Naamatský⟧ a učinili, co jim ⟦yhwh|Jahve|Hospodin⟧ řekl; a ⟦yhwh|Jahve|Hospodin⟧ přijal ⟦job|Ijova|Jóba⟧.
 
-[10] Yahweh obrátil Jobův úděl, když se modlil za své přátele. Yahweh dal Jobovi dvakrát tolik, než měl dříve.
+[10] ⟦yhwh|Jahve|Hospodin⟧ obrátil ⟦job|Ijovův|Jóbův⟧ úděl, když se modlil za své přátele. ⟦yhwh|Jahve|Hospodin⟧ dal ⟦job|Ijovovi|Jóbovi⟧ dvakrát tolik, než měl dříve.
 
-[11] Tu k němu přišli všichni jeho bratři a všechny jeho sestry a všichni, kdo ho dříve znali, a jedli s ním chléb v jeho domě; projevovali mu soustrast a těšili ho pro všechno zlé, co na něj Yahweh uvedl, a každý mu dal qesitah – stříbrný peníz – a zlatý kroužek.
+[11] Tu k němu přišli všichni jeho bratři a všechny jeho sestry a všichni, kdo ho dříve znali, a jedli s ním chléb v jeho domě; projevovali mu soustrast a těšili ho pro všechno zlé, co na něj ⟦yhwh|Jahve|Hospodin⟧ uvedl, a každý mu dal ⟦qesitah|kesitu – stříbrný peníz –|kesítu⟧ a zlatý kroužek.
 
-[12] Yahweh požehnal Jobovým posledním dnům víc než jeho počátku; měl čtrnáct tisíc ovcí, šest tisíc velbloudů, tisíc spřežení volů a tisíc oslic.
+[12] ⟦yhwh|Jahve|Hospodin⟧ požehnal ⟦job|Ijovovým|Jóbovým⟧ posledním dnům víc než jeho počátku; měl čtrnáct tisíc ovcí, šest tisíc velbloudů, tisíc spřežení volů a tisíc oslic.
 
 [13] Měl také sedm synů a tři dcery.
 
-[14] První pojmenoval Jemimah, druhou Keziah a třetí Keren-happuch.
+[14] První pojmenoval ⟦jemimah|Jemima|Jemíma⟧, druhou ⟦keziah|Kecia|Kesía⟧ a třetí ⟦keren-happuch|Keren HaPuch|Keren-happúk⟧.
 
-[15] V celé zemi nebylo žen tak krásných jako Jobovy dcery; jejich otec jim dal dědictví mezi jejich bratry.
+[15] V celé zemi nebylo žen tak krásných jako ⟦job|Ijovovy|Jóbovy⟧ dcery; jejich otec jim dal dědictví mezi jejich bratry.
 
-[16] Potom žil Job ještě sto čtyřicet let a viděl své děti a děti svých dětí – čtyři pokolení.
+[16] Potom žil ⟦job|Ijov|Jób⟧ ještě sto čtyřicet let a viděl své děti a děti svých dětí – čtyři pokolení.
 
-[17] Tak Job zemřel, starý a sytý dnů.
+[17] Tak ⟦job|Ijov|Jób⟧ zemřel, starý a sytý dnů.
 
 ## Změny
 

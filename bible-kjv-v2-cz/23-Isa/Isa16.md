@@ -2,12 +2,12 @@
 
 [1] Pošlete beránka vládci země
 ze Sely přes poušť
-na horu dcery Zion.
+na horu dcery ⟦zion|Cijon|Sijón⟧.
 
 [2] Jako prchající ptáci,
 jako rozprášené hnízdo,
-tak jsou dcery Moabu
-u brodů Arnonu.
+tak jsou dcery ⟦moab|Moavu|Moábu⟧
+u brodů ⟦arnon|Arnonu|Arnónu⟧.
 
 [3] „Poraď,
 zjednej právo;
@@ -16,7 +16,7 @@ v plném poledni;
 ukryj vyhnance,
 neprozraď uprchlíka;
 
-[4] ať vyhnanci Moabu
+[4] ať vyhnanci ⟦moab|Moavu|Moábu⟧
 pobývají u tebe;
 buď jim úkrytem
 před ničitelem.“
@@ -30,29 +30,29 @@ ve stanu Davidově
 ten, kdo soudí a hledá právo
 a je pohotový konat spravedlnost.
 
-[6] Slyšeli jsme o pýše Moabu –
+[6] Slyšeli jsme o pýše ⟦moab|Moavu|Moábu⟧ –
 jak je pyšný! –
 o jeho nadutosti, jeho pýše a jeho zpupnosti;
 v jeho prázdném vychloubání není nic správného.
 
-[7] Proto ať Moab kvílí pro Moab,
+[7] Proto ať ⟦moab|Moav|Moáb⟧ kvílí pro ⟦moab|Moav|Moáb⟧,
 ať kvílí každý.
 Truchlete, zcela zdrceni,
-pro rozinkové koláče Kir-haresethu.
+pro rozinkové koláče ⟦kir-hareseth|Kir Charesetu|Kír-charesetu⟧.
 
-[8] Neboť pole Heshbonu chřadnou
-i vinná réva Sibmah;
+[8] Neboť pole ⟦heshbon|Chešbonu|Chešbónu⟧ chřadnou
+i vinná réva ⟦sibmah|Sivmy|Sibmy⟧;
 páni národů
 srazili její ratolesti,
-které dosahovaly až do Jazeru
+které dosahovaly až do ⟦jazer|Jazeru|Jaezeru⟧
 a bloudily do pouště;
 její výhonky se rozprostíraly
 a přecházely přes moře.
 
-[9] Proto pláču pláčem Jazeru
-pro vinnou révu Sibmah;
+[9] Proto pláču pláčem ⟦jazer|Jazeru|Jaezeru⟧
+pro vinnou révu ⟦sibmah|Sivmy|Sibmy⟧;
 zavlažuji tě svými slzami,
-Heshbone a Elealeh;
+⟦heshbon|Chešbone|Chešbóne⟧ a ⟦elealeh|Elale|Eleále⟧;
 neboť nad tvým letním ovocem a tvou sklizní
 utichl jásot.
 
@@ -61,16 +61,16 @@ a na vinicích se nezpívají písně, nezaznívá jásání;
 žádný šlapač nešlape víno v lisech;
 učinil jsem konec výskání.
 
-[11] Proto mé nitro sténá pro Moab jako lyra
-a mé nejhlubší já pro Kir-hareseth.
+[11] Proto mé nitro sténá pro ⟦moab|Moav|Moáb⟧ jako lyra
+a mé nejhlubší já pro ⟦kir-heres|Kir Cheres|Kír-cheres⟧.
 
-[12] A když se Moab dostaví, když se namáhá na posvátném návrší,
+[12] A když se ⟦moab|Moav|Moáb⟧ dostaví, když se namáhá na posvátném návrší,
 když přijde do své svatyně, aby se modlil,
 nic nezmůže.
 
-[13] To je slovo, které Yahweh v minulosti promluvil o Moabu.
+[13] To je slovo, které ⟦yhwh|Jahve|Hospodin⟧ v minulosti promluvil o ⟦moab|Moavu|Moábu⟧.
 
-[14] Ale nyní Yahweh promluvil a řekl: „Do tří let, jako jsou léta nádeníka, bude sláva Moabu uvedena v potupu i přes všechno jeho veliké množství, a ti, kdo zůstanou, budou velmi nečetní a slabí.“
+[14] Ale nyní ⟦yhwh|Jahve|Hospodin⟧ promluvil a řekl: „Do tří let, jako jsou léta nádeníka, bude sláva ⟦moab|Moavu|Moábu⟧ uvedena v potupu i přes všechno jeho veliké množství, a ti, kdo zůstanou, budou velmi nečetní a slabí.“
 
 ## Změny
 

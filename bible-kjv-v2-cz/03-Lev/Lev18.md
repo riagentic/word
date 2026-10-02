@@ -1,16 +1,16 @@
 # Leviticus 18
 
-[1] Yahweh promluvil k Mosesovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[2] „Mluv k synům Israele a řekni jim: ‚Já jsem Yahweh, váš *Elohim*.
+[2] „Mluv k synům ⟦israel|Jisraele|Izraele⟧ a řekni jim: ‚Já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧.
 
-[3] Nebudete jednat, jak se jedná v zemi Egypt, kde jste bydleli; a nebudete jednat, jak se jedná v zemi Canaan, kam vás přivádím; nebudete žít podle jejich ustanovení.
+[3] Nebudete jednat, jak se jedná v zemi ⟦egypt|Micrajim|Egypt⟧, kde jste bydleli; a nebudete jednat, jak se jedná v zemi Kenaan, kam vás přivádím; nebudete žít podle jejich ustanovení.
 
-[4] Budete plnit má nařízení a zachovávat má ustanovení, abyste podle nich žili. Já jsem Yahweh, váš *Elohim*.
+[4] Budete plnit má nařízení a zachovávat má ustanovení, abyste podle nich žili. Já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧.
 
-[5] Zachovávejte tedy má ustanovení a má nařízení; kdo je plní, bude skrze ně žít. Já jsem Yahweh.
+[5] Zachovávejte tedy má ustanovení a má nařízení; kdo je plní, bude skrze ně žít. Já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
-[6] Nikdo z vás se nepřiblíží k žádnému blízkému příbuznému, aby odkryl nahotu. Já jsem Yahweh.
+[6] Nikdo z vás se nepřiblíží k žádnému blízkému příbuznému, aby odkryl nahotu. Já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
 [7] Nahotu svého otce – totiž nahotu své matky – neodkryješ; je to tvá matka, neodkryješ její nahotu.
 
@@ -40,7 +40,7 @@
 
 [20] Nebudeš pohlavně obcovat se ženou svého bližního a poskvrňovat se s ní.
 
-[21] Nedáš nikoho ze svého potomstva, aby byl převeden ohněm Molechovi, a nebudeš znesvěcovat jméno svého *Elohim*. Já jsem Yahweh.
+[21] Nedáš nikoho ze svého potomstva, aby byl převeden ohněm ⟦molech|Molechovi|Molekovi⟧, a nebudeš znesvěcovat jméno svého ⟦elohim|Elohim|Boha⟧. Já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
 [22] Nebudeš uléhat s mužem, jako se uléhá se ženou; je to ohavnost.
 
@@ -58,7 +58,7 @@
 
 [29] Neboť kdokoli spáchá kteroukoli z těchto ohavností – ti, kdo tak jednají, budou vyťati ze svého lidu.
 
-[30] Zachovávejte tedy, co jsem vám svěřil, abyste nenásledovali žádný z ohavných zvyků, které se před vámi provozovaly, a abyste se jimi neposkvrňovali. Já jsem Yahweh, váš *Elohim*.‘“
+[30] Zachovávejte tedy, co jsem vám svěřil, abyste nenásledovali žádný z ohavných zvyků, které se před vámi provozovaly, a abyste se jimi neposkvrňovali. Já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧.‘“
 
 ## Změny
 

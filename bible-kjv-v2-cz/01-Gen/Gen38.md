@@ -1,34 +1,34 @@
 # Genesis 38
 
-[1] V té době Judah odešel od svých bratrů a uchýlil se k jednomu Adullamitovi, který se jmenoval Hirah.
+[1] V té době ⟦judah|Jehuda|Juda⟧ odešel od svých bratrů a uchýlil se k jednomu ⟦adullamite|Adulamimu|Adulamci⟧, který se jmenoval ⟦hirah|Chira|Chíra⟧.
 
-[2] Tam Judah uviděl dceru jednoho Canaance, který se jmenoval Shua; vzal si ji a vešel k ní,
+[2] Tam ⟦judah|Jehuda|Juda⟧ uviděl dceru jednoho ⟦canaanites|Kenaaniho|Kenaance⟧, který se jmenoval ⟦shua|Šua|Šúa⟧; vzal si ji a vešel k ní,
 
 [3] a ona otěhotněla a porodila syna a on mu dal jméno Er.
 
-[4] Znovu otěhotněla a porodila syna a dala mu jméno Onan.
+[4] Znovu otěhotněla a porodila syna a dala mu jméno ⟦onan|Onan|Ónan⟧.
 
-[5] A ještě porodila syna a dala mu jméno Shelah. Porodila ho v Chezibu.
+[5] A ještě porodila syna a dala mu jméno Šela. Porodila ho v ⟦chezib|Kezivu|Kezíbu⟧.
 
-[6] Judah vzal pro Era, svého prvorozeného, manželku, která se jmenovala Tamar.
+[6] ⟦judah|Jehuda|Juda⟧ vzal pro Era, svého prvorozeného, manželku, která se jmenovala ⟦tamar|Tamar|Támar⟧.
 
-[7] Ale Er, Judahův prvorozený, byl zlý v očích Yahweh; a Yahweh ho usmrtil.
+[7] Ale Er, ⟦judah|Jehudův|Judův⟧ prvorozený, byl zlý v očích ⟦yhwh|Jahveho|Hospodina⟧; a ⟦yhwh|Jahve|Hospodin⟧ ho usmrtil.
 
-[8] Tu Judah řekl Onanovi: „Vejdi k manželce svého bratra, splň vůči ní povinnost levirátního manžela a zploď potomstvo svému bratrovi.“
+[8] Tu ⟦judah|Jehuda|Juda⟧ řekl ⟦onan|Onanovi|Ónanovi⟧: „Vejdi k manželce svého bratra, splň vůči ní povinnost levirátního manžela a zploď potomstvo svému bratrovi.“
 
-[9] Ale Onan věděl, že to potomstvo nebude jeho; a tak kdykoli vešel k manželce svého bratra, vylil to na zem, aby nedal potomstvo svému bratrovi.
+[9] Ale ⟦onan|Onan|Ónan⟧ věděl, že to potomstvo nebude jeho; a tak kdykoli vešel k manželce svého bratra, vylil to na zem, aby nedal potomstvo svému bratrovi.
 
-[10] To, co dělal, bylo zlé v očích Yahweh, a usmrtil také jeho.
+[10] To, co dělal, bylo zlé v očích ⟦yhwh|Jahveho|Hospodina⟧, a usmrtil také jeho.
 
-[11] Tu Judah řekl své snaše Tamar: „Zůstaň jako vdova v domě svého otce, dokud můj syn Shelah nevyroste.“ Pomyslel si totiž: „Aby také on nezemřel jako jeho bratři.“ Tamar tedy odešla a bydlela v domě svého otce.
+[11] Tu ⟦judah|Jehuda|Juda⟧ řekl své snaše ⟦tamar|Tamar|Támar⟧: „Zůstaň jako vdova v domě svého otce, dokud můj syn Šela nevyroste.“ Pomyslel si totiž: „Aby také on nezemřel jako jeho bratři.“ ⟦tamar|Tamar|Támar⟧ tedy odešla a bydlela v domě svého otce.
 
-[12] Po čase zemřela Shuova dcera, Judahova manželka; a když se Judah utěšil, šel nahoru ke střihačům svých ovcí do Timnah, on a jeho přítel Hirah Adullamita.
+[12] Po čase zemřela ⟦shua|Šuova|Šúova⟧ dcera, ⟦judah|Jehudova|Judova⟧ manželka; a když se ⟦judah|Jehuda|Juda⟧ utěšil, šel nahoru ke střihačům svých ovcí do Timny, on a jeho přítel ⟦hirah|Chira|Chíra⟧ ⟦adullamite|Adulami|Adulamec⟧.
 
-[13] Tamar bylo oznámeno: „Hle, tvůj tchán jde nahoru do Timnah stříhat své ovce.“
+[13] ⟦tamar|Tamar|Támar⟧ bylo oznámeno: „Hle, tvůj tchán jde nahoru do Timny stříhat své ovce.“
 
-[14] Svlékla ze sebe vdovské šaty, zakryla se závojem a zahalila se a posadila se u vchodu do Enaim, které leží na cestě do Timnah – viděla totiž, že Shelah vyrostl, a jí nebyla dána za manželku.
+[14] Svlékla ze sebe vdovské šaty, zakryla se závojem a zahalila se a posadila se u vchodu do ⟦enaim|Ejnajim|Énajim⟧, které leží na cestě do Timny – viděla totiž, že Šela vyrostl, a jí nebyla dána za manželku.
 
-[15] Když ji Judah uviděl, myslel si, že je to prostitutka, protože si zakryla tvář.
+[15] Když ji ⟦judah|Jehuda|Juda⟧ uviděl, myslel si, že je to prostitutka, protože si zakryla tvář.
 
 [16] Odbočil k ní z cesty a řekl: „Pojď, prosím, dovol mi vejít k tobě“ – nevěděl totiž, že je to jeho snacha. Ona řekla: „Co mi dáš, abys ke mně mohl vejít?“
 
@@ -38,27 +38,27 @@
 
 [19] Potom vstala a odešla, sňala svůj závoj a oblékla si šaty svého vdovství.
 
-[20] Když Judah poslal kůzle po svém příteli Adullamitovi, aby převzal zástavu z ruky té ženy, nenašel ji.
+[20] Když ⟦judah|Jehuda|Juda⟧ poslal kůzle po svém příteli ⟦adullamite|Adulamim|Adulamci⟧, aby převzal zástavu z ruky té ženy, nenašel ji.
 
-[21] Ptal se mužů toho místa: „Kde je ta kultovní prostitutka, která byla v Enaim u cesty?“ Oni odpověděli: „Žádná kultovní prostitutka tu nebyla.“
+[21] Ptal se mužů toho místa: „Kde je ta kultovní prostitutka, která byla v ⟦enaim|Ejnajim|Énajim⟧ u cesty?“ Oni odpověděli: „Žádná kultovní prostitutka tu nebyla.“
 
-[22] Vrátil se tedy k Judahovi a řekl: „Nenašel jsem ji; a také muži toho místa řekli: ‚Žádná kultovní prostitutka tu nebyla.‘“
+[22] Vrátil se tedy k ⟦judah|Jehudovi|Judovi⟧ a řekl: „Nenašel jsem ji; a také muži toho místa řekli: ‚Žádná kultovní prostitutka tu nebyla.‘“
 
-[23] Judah řekl: „Ať si to nechá, abychom nebyli pro smích. Hle, poslal jsem to kůzle, a tys ji nenašel.“
+[23] ⟦judah|Jehuda|Juda⟧ řekl: „Ať si to nechá, abychom nebyli pro smích. Hle, poslal jsem to kůzle, a tys ji nenašel.“
 
-[24] Asi po třech měsících bylo Judahovi oznámeno: „Tvá snacha Tamar se dopustila smilstva; a navíc, hle, je ze smilstva těhotná.“ Judah řekl: „Vyveďte ji ven a ať je upálena.“
+[24] Asi po třech měsících bylo ⟦judah|Jehudovi|Judovi⟧ oznámeno: „Tvá snacha ⟦tamar|Tamar|Támar⟧ se dopustila smilstva; a navíc, hle, je ze smilstva těhotná.“ ⟦judah|Jehuda|Juda⟧ řekl: „Vyveďte ji ven a ať je upálena.“
 
 [25] Když ji vyváděli, poslala svému tchánovi vzkaz: „Jsem těhotná s mužem, jemuž tyto věci patří.“ A řekla: „Prozkoumej, prosím: čí jsou tyto věci – pečeť a šňůra a hůl?“
 
-[26] Judah je poznal a řekl: „Ona je spravedlivější než já, protože jsem ji nedal svému synovi Shelahovi.“ A už ji znovu nepoznal.
+[26] ⟦judah|Jehuda|Juda⟧ je poznal a řekl: „Ona je spravedlivější než já, protože jsem ji nedal svému synovi Šelovi.“ A už ji znovu nepoznal.
 
 [27] Když přišel čas jejího porodu, hle, v jejím lůně byla dvojčata.
 
 [28] Když rodila, jeden vystrčil ruku a porodní bába vzala šarlatovou nit, uvázala mu ji na ruku a řekla: „Tento vyšel první.“
 
-[29] Ale když ruku stáhl zpět, hle, vyšel jeho bratr. I řekla: „Jakou trhlinu sis to protrhl!“ Proto dostal jméno Perez.
+[29] Ale když ruku stáhl zpět, hle, vyšel jeho bratr. I řekla: „Jakou trhlinu sis to protrhl!“ Proto dostal jméno ⟦perez|Perec|Peres⟧.
 
-[30] Potom vyšel jeho bratr, který měl na ruce šarlatovou nit, a dostal jméno Zerah.
+[30] Potom vyšel jeho bratr, který měl na ruce šarlatovou nit, a dostal jméno Zerach.
 
 ## Změny
 

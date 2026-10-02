@@ -33,21 +33,21 @@ or the pitcher is shattered at the fountain,
 or the wheel broken at the cistern,
 
 [7] and the dust returns to the earth as it was,
-and the spirit returns to *Elohim* who gave it.
+and the spirit returns to ⟦elohim|Elohim|God⟧ who gave it.
 
-[8] Vanity of vanities, says Preacher; all is vanity.
+[8] Vanity of vanities, says ⟦qohelet|Qohelet|the Preacher⟧; all is vanity.
 
-[9] Besides being wise, Preacher also taught the people knowledge, weighing and studying and arranging many proverbs with great care.
+[9] Besides being wise, ⟦qohelet|Qohelet|the Preacher⟧ also taught the people knowledge, weighing and studying and arranging many proverbs with great care.
 
-[10] Preacher sought to find words of delight, and uprightly he wrote words of truth.
+[10] ⟦qohelet|Qohelet|The Preacher⟧ sought to find words of delight, and uprightly he wrote words of truth.
 
 [11] The words of the wise are like goads, and like nails firmly fixed are the collected sayings — they are given by one Shepherd.
 
 [12] My son, beware of anything beyond these. Of making many books there is no end, and much study wearies the flesh.
 
-[13] The end of the matter; all has been heard. Fear *Elohim* and keep his commandments, for this is the whole duty of man.
+[13] The end of the matter; all has been heard. Fear ⟦elohim|Elohim|God⟧ and keep his commandments, for this is the whole duty of man.
 
-[14] For *Elohim* will bring every deed into judgment, with every secret thing, whether good or evil.
+[14] For ⟦elohim|Elohim|God⟧ will bring every deed into judgment, with every secret thing, whether good or evil.
 
 ## Changes
 

@@ -2,7 +2,7 @@
 
 [1] Protože jsme tedy obklopeni tak velikým oblakem svědků, odložme i my každou zátěž i hřích, který tak pevně lpí, a běžme s vytrvalostí závod, který je před námi,
 
-[2] a hleďme na *Yeshuu*, zakladatele a dovršitele naší víry, který pro radost, jež byla před ním, vytrpěl kříž, pohrdl hanbou a usedl po pravici trůnu *Elohim*.
+[2] a hleďme na ⟦yeshua|Ješuu|Ježíše⟧, zakladatele a dovršitele naší víry, který pro radost, jež byla před ním, vytrpěl kříž, pohrdl hanbou a usedl po pravici trůnu ⟦elohim|Elohim|Božího⟧.
 
 [3] Pomyslete na toho, který od hříšníků snesl takové nepřátelství proti sobě, abyste neochabovali a neklesali na mysli.
 
@@ -10,12 +10,12 @@
 
 [5] A zapomněli jste na napomenutí, které k vám mluví jako k synům?
 
-„**Můj synu, nepodceňuj kázeň Páně
+„**Můj synu, nepodceňuj kázeň ⟦yhwh|Jahveho|Páně⟧
 a neochabuj, když tě kárá.
-[6] Neboť koho Pán miluje, toho vychovává kázní,
+[6] Neboť koho ⟦yhwh|Jahve|Pán⟧ miluje, toho vychovává kázní,
 a trestá každého syna, kterého přijímá**.“
 
-[7] Kvůli kázni to musíte snášet. *Elohim* s vámi jedná jako se syny. Který je to syn, jehož by otec nevychovával kázní?
+[7] Kvůli kázni to musíte snášet. ⟦elohim|Elohim|Bůh⟧ s vámi jedná jako se syny. Který je to syn, jehož by otec nevychovával kázní?
 
 [8] Jste-li bez kázně, jíž se dostalo všem, pak jste nemanželské děti, a ne synové.
 
@@ -31,9 +31,9 @@ a trestá každého syna, kterého přijímá**.“
 
 [14] Usilujte o pokoj se všemi a o svatost, bez níž nikdo neuvidí Pána.
 
-[15] Dbejte, aby nikdo nepromeškal milost *Elohim*; aby nevyrostl žádný „kořen hořkosti“, nezpůsobil potíže a neposkvrnilo se jím mnoho lidí;
+[15] Dbejte, aby nikdo nepromeškal milost ⟦elohim|Elohim|Boží⟧; aby nevyrostl žádný „kořen hořkosti“, nezpůsobil potíže a neposkvrnilo se jím mnoho lidí;
 
-[16] aby nikdo nebyl smilník nebo bezbožník jako Esau, který za jediný pokrm prodal své prvorozenství.
+[16] aby nikdo nebyl smilník nebo bezbožník jako ⟦esau|Esav|Ezau⟧, který za jediný pokrm prodal své prvorozenství.
 
 [17] Víte přece, že když potom chtěl zdědit požehnání, byl odmítnut, neboť nenašel příležitost k pokání, ačkoli ji se slzami hledal.
 
@@ -43,13 +43,13 @@ a trestá každého syna, kterého přijímá**.“
 
 [20] Nemohli totiž snést příkaz, který byl dán: „**Dotkne-li se hory i jen zvíře, bude ukamenováno**.“
 
-[21] A tak hrozný byl ten pohled, že Moses řekl: „**Třesu se strachem**.“
+[21] A tak hrozný byl ten pohled, že ⟦moses|Moše|Mojžíš⟧ řekl: „**Třesu se strachem**.“
 
-[22] Vy však jste přistoupili k hoře Zion a k městu živého *Elohim*, k nebeskému Jerusalemu, k nesčetným andělům ve slavnostním shromáždění,
+[22] Vy však jste přistoupili k hoře ⟦zion|Cijon|Sión⟧ a k městu živého ⟦elohim|Elohim|Boha⟧, k nebeskému ⟦jerusalem|Jerušalajim|Jeruzalému⟧, k nesčetným andělům ve slavnostním shromáždění,
 
-[23] ke shromáždění prvorozených, kteří jsou zapsáni v nebesích, k *Elohim*, soudci všech, k duchům spravedlivých, kteří dosáhli dokonalosti,
+[23] ke shromáždění prvorozených, kteří jsou zapsáni v nebesích, k ⟦elohim|Elohim|Bohu⟧, soudci všech, k duchům spravedlivých, kteří dosáhli dokonalosti,
 
-[24] k *Yeshuovi*, prostředníku nové smlouvy, a ke krvi pokropení, která mluví lépe než krev Abela.
+[24] k ⟦yeshua|Ješuovi|Ježíši⟧, prostředníku nové smlouvy, a ke krvi pokropení, která mluví lépe než krev ⟦abel|Hevela|Ábela⟧.
 
 [25] Hleďte, abyste neodmítli toho, který mluví. Jestliže totiž neunikli ti, kdo odmítli toho, jenž je varoval na zemi, tím méně unikneme my, jestliže se odvrátíme od toho, který varuje z nebe.
 
@@ -57,9 +57,9 @@ a trestá každého syna, kterého přijímá**.“
 
 [27] Slova „ještě jednou“ ukazují na odstranění toho, čím se otřásá – totiž věcí stvořených –, aby zůstalo to, čím otřást nelze.
 
-[28] Buďme tedy vděčni, že přijímáme království, jímž nelze otřást, a tak přinášejme *Elohim* přijatelnou bohoslužbu s úctou a bázní,
+[28] Buďme tedy vděčni, že přijímáme království, jímž nelze otřást, a tak přinášejme ⟦elohim|Elohim|Bohu⟧ přijatelnou bohoslužbu s úctou a bázní,
 
-[29] neboť **náš *Elohim* je spalující oheň**.
+[29] neboť **náš ⟦elohim|Elohim|Bůh⟧ je spalující oheň**.
 
 ## Změny
 

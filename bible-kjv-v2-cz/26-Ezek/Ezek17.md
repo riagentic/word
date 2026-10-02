@@ -1,14 +1,14 @@
 # Ezechiel 17
 
-[1] Přišlo ke mně slovo Yahweh:
+[1] Přišlo ke mně slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[2] „Synu člověka, předlož hádanku a pověz podobenství domu Israele;
+[2] „Synu člověka, předlož hádanku a pověz podobenství domu ⟦israel|Jisraele|Izraele⟧;
 
-[3] řekni: Toto praví Pán Yahweh:
+[3] řekni: Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧:
 
 ‚Veliký orel s velikými křídly a dlouhými letkami,
 bohatý na peří mnoha barev,
-přiletěl na Lebanon
+přiletěl na ⟦lebanon|Levanon|Libanón⟧
 a vzal vrcholek cedru.
 
 [4] Ulomil nejvyšší z jeho mladých výhonků,
@@ -36,37 +36,37 @@ aby ji zavlažoval.
 aby vyhnala ratolesti, nesla ovoce
 a stala se ušlechtilou révou.‘
 
-[9] Řekni: Toto praví Pán Yahweh: Bude se jí dařit? Nevytrhne snad její kořeny a neotrhá její ovoce, takže uschne, takže uschnou všechny její svěže rašící listy? Nebude třeba silné paže ani mnoha lidí, aby ji vytrhli i s kořeny.
+[9] Řekni: Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Bude se jí dařit? Nevytrhne snad její kořeny a neotrhá její ovoce, takže uschne, takže uschnou všechny její svěže rašící listy? Nebude třeba silné paže ani mnoha lidí, aby ji vytrhli i s kořeny.
 
 [10] Hle, je zasazena; bude se jí dařit? Neuschne snad úplně, až do ní udeří východní vítr – neuschne na záhonu, kde vyrašila?“
 
-[11] Tu ke mně přišlo slovo Yahweh:
+[11] Tu ke mně přišlo slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[12] „Řekni teď vzpurnému domu: Nevíte, co tyto věci znamenají? Řekni jim: Hle, babylonský král přišel do Jerusalemu, vzal jeho krále a jeho knížata a odvedl je k sobě do Babylonu.
+[12] „Řekni teď vzpurnému domu: Nevíte, co tyto věci znamenají? Řekni jim: Hle, ⟦babylon|bavelský|babylónský⟧ král přišel do ⟦jerusalem|Jerušalajim|Jeruzaléma⟧, vzal jeho krále a jeho knížata a odvedl je k sobě do ⟦babylon|Bavelu|Babylóna⟧.
 
 [13] Vzal jednoho z královského semene, uzavřel s ním smlouvu a zavázal ho přísahou. Přední muže země odvedl,
 
 [14] aby království bylo pokořené a nepovyšovalo se, ale zachovávalo jeho smlouvu, aby obstálo.
 
-[15] Ale on se proti němu vzbouřil tím, že poslal své vyslance do Egypta, aby mu dali koně a velké vojsko. Bude se mu dařit? Může uniknout ten, kdo dělá takové věci? Může porušit smlouvu, a přesto uniknout?
+[15] Ale on se proti němu vzbouřil tím, že poslal své vyslance do ⟦egypt|Micrajim|Egypta⟧, aby mu dali koně a velké vojsko. Bude se mu dařit? Může uniknout ten, kdo dělá takové věci? Může porušit smlouvu, a přesto uniknout?
 
-[16] Jakože jsem živ, je výrok Pána Yahweh, jistě na místě, kde bydlí král, který ho učinil králem, jehož přísahou pohrdl a jehož smlouvu s ním porušil, v Babylonu zemře.
+[16] Jakože jsem živ, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧, jistě na místě, kde bydlí král, který ho učinil králem, jehož přísahou pohrdl a jehož smlouvu s ním porušil, v ⟦babylon|Bavelu|Babylóně⟧ zemře.
 
-[17] Pharaoh se svým mocným vojskem a velkým zástupem mu ve válce nepomůže, až budou nasypány náspy a postaveny obléhací valy, aby bylo vyhlazeno mnoho životů.
+[17] ⟦pharaoh|Paro|Farao⟧ se svým mocným vojskem a velkým zástupem mu ve válce nepomůže, až budou nasypány náspy a postaveny obléhací valy, aby bylo vyhlazeno mnoho životů.
 
 [18] Pohrdl přísahou, když porušil smlouvu, a hle, podal ruku, a přece dělal všechny tyto věci; neunikne.
 
-[19] Proto toto praví Pán Yahweh: Jakože jsem živ, jistě je to má přísaha, kterou pohrdl, a má smlouva, kterou porušil. Obrátím to na jeho hlavu.
+[19] Proto toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Jakože jsem živ, jistě je to má přísaha, kterou pohrdl, a má smlouva, kterou porušil. Obrátím to na jeho hlavu.
 
-[20] Rozprostřu na něj svou síť a bude chycen do mého osidla, přivedu ho do Babylonu a tam s ním vejdu do soudu pro zradu, které se proti mně dopustil.
+[20] Rozprostřu na něj svou síť a bude chycen do mého osidla, přivedu ho do ⟦babylon|Bavelu|Babylóna⟧ a tam s ním vejdu do soudu pro zradu, které se proti mně dopustil.
 
-[21] A všichni nejlepší z jeho vojsk padnou mečem a přeživší budou rozptýleni do všech větrů, a poznáte, že já jsem Yahweh; já jsem promluvil.
+[21] A všichni nejlepší z jeho vojsk padnou mečem a přeživší budou rozptýleni do všech větrů, a poznáte, že já jsem ⟦yhwh|Jahve|Hospodin⟧; já jsem promluvil.
 
-[22] Toto praví Pán Yahweh: Já sám vezmu ratolest z vysokého vrcholku cedru a zasadím ji. Ulomím z nejvyšších jeho mladých výhonků jeden útlý a sám jej zasadím na vysokou a vznešenou horu.
+[22] Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Já sám vezmu ratolest z vysokého vrcholku cedru a zasadím ji. Ulomím z nejvyšších jeho mladých výhonků jeden útlý a sám jej zasadím na vysokou a vznešenou horu.
 
-[23] Na vysoké hoře Israele jej zasadím, aby vyhnal větve, nesl ovoce a stal se ušlechtilým cedrem. A pod ním bude bydlet všeliký pták; ve stínu jeho větví budou hnízdit ptáci všeho druhu.
+[23] Na vysoké hoře ⟦israel|Jisraele|Izraele⟧ jej zasadím, aby vyhnal větve, nesl ovoce a stal se ušlechtilým cedrem. A pod ním bude bydlet všeliký pták; ve stínu jeho větví budou hnízdit ptáci všeho druhu.
 
-[24] A všechny stromy pole poznají, že já jsem Yahweh; snižuji vysoký strom a povyšuji nízký strom, vysušuji zelený strom a dávám vzkvétat suchému stromu. Já jsem Yahweh; promluvil jsem a učiním to.“
+[24] A všechny stromy pole poznají, že já jsem ⟦yhwh|Jahve|Hospodin⟧; snižuji vysoký strom a povyšuji nízký strom, vysušuji zelený strom a dávám vzkvétat suchému stromu. Já jsem ⟦yhwh|Jahve|Hospodin⟧; promluvil jsem a učiním to.“
 
 ## Změny
 

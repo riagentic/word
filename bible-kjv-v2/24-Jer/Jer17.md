@@ -1,6 +1,6 @@
 # Jeremiah 17
 
-[1] "The sin of Judah is written with a pen of iron;
+[1] "The sin of ⟦judah|Yehudah|Judah⟧ is written with a pen of iron;
 with a point of diamond it is engraved
 on the tablet of their heart,
 and on the horns of their altars,
@@ -22,19 +22,19 @@ in a land that you do not know,
 for in my anger a fire is kindled
 that shall burn forever."
 
-[5] Thus says Yahweh:
+[5] Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
 "Cursed is the man who trusts in man
 and makes flesh his strength,
-whose heart turns away from Yahweh.
+whose heart turns away from ⟦yhwh|Yahweh|the LORD⟧.
 
 [6] He is like a shrub in the desert,
 and shall not see any good come.
 He shall dwell in the parched places of the wilderness,
 in an uninhabited salt land.
 
-[7] Blessed is the man who trusts in Yahweh,
-whose trust is Yahweh.
+[7] Blessed is the man who trusts in ⟦yhwh|Yahweh|the LORD⟧,
+whose trust is ⟦yhwh|Yahweh|the LORD⟧.
 
 [8] He is like a tree planted by water,
 that sends out its roots by the stream,
@@ -47,7 +47,7 @@ for it does not cease to bear fruit.
 and desperately sick;
 who can understand it?
 
-[10] I, Yahweh, search the heart
+[10] I, ⟦yhwh|Yahweh|the LORD⟧, search the heart
 and test the inmost being,
 to give every man according to his ways,
 according to the fruit of his deeds."
@@ -60,17 +60,17 @@ and at his end he will be a fool.
 [12] A glorious throne set on high from the beginning
 is the place of our sanctuary.
 
-[13] O Yahweh, the hope of Israel,
+[13] O ⟦yhwh|Yahweh|LORD⟧, the hope of ⟦israel|Yisrael|Israel⟧,
 all who forsake you shall be put to shame;
 those who turn away from you shall be written in the earth,
-for they have forsaken Yahweh, the fountain of living waters.
+for they have forsaken ⟦yhwh|Yahweh|the LORD⟧, the fountain of living waters.
 
-[14] Heal me, O Yahweh, and I shall be healed;
+[14] Heal me, O ⟦yhwh|Yahweh|LORD⟧, and I shall be healed;
 save me, and I shall be saved,
 for you are my praise.
 
 [15] Behold, they say to me,
-"Where is the word of Yahweh?
+"Where is the word of ⟦yhwh|Yahweh|the LORD⟧?
 Let it come!"
 
 [16] I have not run away from being your shepherd,
@@ -88,23 +88,23 @@ but let me not be dismayed;
 bring upon them the day of disaster;
 destroy them with double destruction!
 
-[19] Thus said Yahweh to me: "Go and stand in the People's Gate, by which the kings of Judah enter and by which they go out, and in all the gates of Jerusalem,
+[19] Thus said ⟦yhwh|Yahweh|the LORD⟧ to me: "Go and stand in the People's Gate, by which the kings of ⟦judah|Yehudah|Judah⟧ enter and by which they go out, and in all the gates of ⟦jerusalem|Yerushalayim|Jerusalem⟧,
 
-[20] and say: 'Hear the word of Yahweh, you kings of Judah, and all Judah, and all the inhabitants of Jerusalem, who enter by these gates.
+[20] and say: 'Hear the word of ⟦yhwh|Yahweh|the LORD⟧, you kings of ⟦judah|Yehudah|Judah⟧, and all ⟦judah|Yehudah|Judah⟧, and all the inhabitants of ⟦jerusalem|Yerushalayim|Jerusalem⟧, who enter by these gates.
 
-[21] Thus says Yahweh: Take care for the sake of your souls, and do not bear a burden on the Sabbath day or bring it in by the gates of Jerusalem.
+[21] Thus says ⟦yhwh|Yahweh|the LORD⟧: Take care for the sake of your souls, and do not bear a burden on the ⟦shabbat|Shabbat|Sabbath⟧ day or bring it in by the gates of ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[22] And do not carry a burden out of your houses on the Sabbath or do any work, but keep the Sabbath day holy, as I commanded your fathers.
+[22] And do not carry a burden out of your houses on the ⟦shabbat|Shabbat|Sabbath⟧ or do any work, but keep the ⟦shabbat|Shabbat|Sabbath⟧ day holy, as I commanded your fathers.
 
 [23] Yet they did not listen or incline their ear, but stiffened their neck, that they might not hear and receive instruction.
 
-[24] "'But if you listen to me, declares Yahweh, and bring in no burden by the gates of this city on the Sabbath day, but keep the Sabbath day holy and do no work on it,
+[24] "'But if you listen to me, declares ⟦yhwh|Yahweh|the LORD⟧, and bring in no burden by the gates of this city on the ⟦shabbat|Shabbat|Sabbath⟧ day, but keep the ⟦shabbat|Shabbat|Sabbath⟧ day holy and do no work on it,
 
-[25] then there shall enter by the gates of this city kings and princes who sit on the throne of David, riding in chariots and on horses, they and their officials, the men of Judah and the inhabitants of Jerusalem. And this city shall be inhabited forever.
+[25] then there shall enter by the gates of this city kings and princes who sit on the throne of David, riding in chariots and on horses, they and their officials, the men of ⟦judah|Yehudah|Judah⟧ and the inhabitants of ⟦jerusalem|Yerushalayim|Jerusalem⟧. And this city shall be inhabited forever.
 
-[26] And people shall come from the cities of Judah and the places around Jerusalem, from the land of Benjamin, from the Shephelah, from the hill country, and from the Negev, bringing burnt offerings and sacrifices, grain offerings and frankincense, and bringing thank offerings to the house of Yahweh.
+[26] And people shall come from the cities of ⟦judah|Yehudah|Judah⟧ and the places around ⟦jerusalem|Yerushalayim|Jerusalem⟧, from the land of ⟦benjamin|Binyamin|Benjamin⟧, from the ⟦shephelah|Shefelah|Shephelah⟧, from the hill country, and from the ⟦negev|Negev|Negeb⟧, bringing burnt offerings and sacrifices, grain offerings and frankincense, and bringing thank offerings to the house of ⟦yhwh|Yahweh|the LORD⟧.
 
-[27] But if you do not listen to me, to keep the Sabbath day holy, and not to bear a burden and enter by the gates of Jerusalem on the Sabbath day, then I will kindle a fire in its gates, and it shall devour the palaces of Jerusalem and shall not be quenched.'"
+[27] But if you do not listen to me, to keep the ⟦shabbat|Shabbat|Sabbath⟧ day holy, and not to bear a burden and enter by the gates of ⟦jerusalem|Yerushalayim|Jerusalem⟧ on the ⟦shabbat|Shabbat|Sabbath⟧ day, then I will kindle a fire in its gates, and it shall devour the palaces of ⟦jerusalem|Yerushalayim|Jerusalem⟧ and shall not be quenched.'"
 
 ## Changes
 

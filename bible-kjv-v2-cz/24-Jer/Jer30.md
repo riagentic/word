@@ -1,14 +1,14 @@
 # Jeremjáš 30
 
-[1] Slovo, které přišlo k Jeremiahovi od Yahweh:
+[1] Slovo, které přišlo k ⟦jeremiah|Jirmejahuovi|Jeremjášovi⟧ od ⟦yhwh|Jahveho|Hospodina⟧:
 
-[2] „Toto praví Yahweh, *Elohim* Israele: Zapiš do knihy všechna slova, která jsem k tobě mluvil.
+[2] „Toto praví ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧: Zapiš do knihy všechna slova, která jsem k tobě mluvil.
 
-[3] Neboť hle, přicházejí dny, praví Yahweh, kdy změním úděl svého lidu, Israele i Judahu, praví Yahweh, a přivedu je zpět do země, kterou jsem dal jejich otcům, a vezmou ji do vlastnictví.“
+[3] Neboť hle, přicházejí dny, praví ⟦yhwh|Jahve|Hospodin⟧, kdy změním úděl svého lidu, ⟦israel|Jisraele|Izraele⟧ i ⟦judah|Jehudy|Judy⟧, praví ⟦yhwh|Jahve|Hospodin⟧, a přivedu je zpět do země, kterou jsem dal jejich otcům, a vezmou ji do vlastnictví.“
 
-[4] Toto jsou slova, která Yahweh promluvil o Israeli a o Judahu:
+[4] Toto jsou slova, která ⟦yhwh|Jahve|Hospodin⟧ promluvil o ⟦israel|Jisraeli|Izraeli⟧ a o ⟦judah|Jehudě|Judsku⟧:
 
-[5] „Toto praví Yahweh:
+[5] „Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 Slyšeli jsme křik zděšení,
 hrůzy, a žádný pokoj.
 
@@ -20,33 +20,33 @@ Proč každá tvář zbledla?
 
 [7] Běda! Ten den je tak veliký,
 že žádný mu není roven;
-je to čas soužení pro Jacoba;
+je to čas soužení pro ⟦jacob|Jaakova|Jákoba⟧;
 avšak z něho bude zachráněn.
 
-[8] A stane se v onen den, praví Yahweh zástupů,
+[8] A stane se v onen den, praví ⟦yhwh|Jahve|Hospodin⟧ zástupů,
 že zlomím jeho jho z tvé šíje
 a roztrhnu tvá pouta,
 a cizinci si ho už nepodrobí do služby.
 
-[9] Ale budou sloužit Yahweh, svému *Elohim*,
+[9] Ale budou sloužit ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧,
 a Davidovi, svému králi,
 kterého jim vzbudím.
 
-[10] Neboj se tedy, Jacobe, můj služebníku, praví Yahweh,
-a neděs se, Israeli;
+[10] Neboj se tedy, ⟦jacob|Jaakove|Jákobe⟧, můj služebníku, praví ⟦yhwh|Jahve|Hospodin⟧,
+a neděs se, ⟦israel|Jisraeli|Izraeli⟧;
 neboť hle, zachráním tě zdaleka
 a tvé potomstvo ze země jejich zajetí.
-Jacob se vrátí a bude mít klid a pokoj
+⟦jacob|Jaakov|Jákob⟧ se vrátí a bude mít klid a pokoj
 a nikdo ho nebude strašit.
 
-[11] Neboť já jsem s tebou, abych tě zachránil, praví Yahweh;
+[11] Neboť já jsem s tebou, abych tě zachránil, praví ⟦yhwh|Jahve|Hospodin⟧;
 učiním úplný konec všem národům,
 mezi které jsem tě rozptýlil,
 ale tobě úplný konec neučiním.
 Budu tě kázeňsky trestat spravedlivou měrou
 a nikterak tě nenechám bez trestu.
 
-[12] Neboť toto praví Yahweh:
+[12] Neboť toto praví ⟦yhwh|Jahve|Hospodin⟧:
 Tvé zranění je nevyléčitelné
 a tvá rána je těžká.
 
@@ -73,12 +73,12 @@ ti, kdo tě plení, budou vypleněni
 a všechny, kdo tě loví jako kořist, učiním kořistí.
 
 [17] Neboť ti navrátím zdraví
-a tvé rány uzdravím, praví Yahweh,
+a tvé rány uzdravím, praví ⟦yhwh|Jahve|Hospodin⟧,
 protože tě nazvali zapuzenou:
-‚To je Zion, o kterou nikdo nedbá!‘
+‚To je ⟦zion|Cijon|Sijón⟧, o kterou nikdo nedbá!‘
 
-[18] Toto praví Yahweh:
-Hle, změním úděl Jacobových stanů
+[18] Toto praví ⟦yhwh|Jahve|Hospodin⟧:
+Hle, změním úděl ⟦jacob|Jaakovových|Jákobových⟧ stanů
 a slituji se nad jeho příbytky;
 město bude znovu vystavěno na svém pahorku
 a palác bude stát tam, kde býval.
@@ -96,17 +96,17 @@ a potrestám všechny, kdo je utlačují.
 jejich vládce vzejde z jejich středu;
 dám mu přiblížit se a on přistoupí ke mně,
 neboť kdo by se sám od sebe odvážil přistoupit ke mně?
-praví Yahweh.
+praví ⟦yhwh|Jahve|Hospodin⟧.
 
 [22] A budete mým lidem
-a já budu vaším *Elohim*.“
+a já budu vaším ⟦elohim|Elohim|Bohem⟧.“
 
-[23] Hle, bouře Yahweh!
+[23] Hle, bouře ⟦yhwh|Jahveho|Hospodina⟧!
 Hněv vyšel,
 vířící vichřice;
 snese se na hlavu svévolníků.
 
-[24] Planoucí hněv Yahweh se neodvrátí,
+[24] Planoucí hněv ⟦yhwh|Jahveho|Hospodina⟧ se neodvrátí,
 dokud nevykoná a nedovrší
 záměry svého srdce.
 V posledních dnech to pochopíte.

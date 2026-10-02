@@ -10,39 +10,39 @@
 
 [5] You shall make the poles of acacia wood and overlay them with gold.
 
-[6] You shall put it before the veil that is beside the ark of the Testimony, before the mercy seat that is over the Testimony, where I will meet with you.
+[6] You shall put it before the veil that is beside the ark of the Testimony, before the ⟦mercy-seat|kapporet|mercy seat⟧ that is over the Testimony, where I will meet with you.
 
-[7] Aaron shall burn on it fragrant incense; every morning when he tends the lamps, he shall burn it.
+[7] ⟦aaron|Aharon|Aaron⟧ shall burn on it fragrant incense; every morning when he tends the lamps, he shall burn it.
 
-[8] And when Aaron sets up the lamps at twilight, he shall burn it — a regular incense before Yahweh throughout your generations.
+[8] And when ⟦aaron|Aharon|Aaron⟧ sets up the lamps at twilight, he shall burn it — a regular incense before ⟦yhwh|Yahweh|the LORD⟧ throughout your generations.
 
 [9] You shall not offer unauthorized incense on it, nor burnt offering or grain offering; nor shall you pour a drink offering on it.
 
-[10] Aaron shall make atonement on its horns once a year; with the blood of the sin offering of atonement, once a year he shall make atonement on it throughout your generations. It is most holy to Yahweh."
+[10] ⟦aaron|Aharon|Aaron⟧ shall make atonement on its horns once a year; with the blood of the sin offering of atonement, once a year he shall make atonement on it throughout your generations. It is most holy to ⟦yhwh|Yahweh|the LORD⟧."
 
-[11] Yahweh spoke to Moses, saying,
+[11] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[12] "When you take a census of the children of Israel to number them, each shall give a ransom for his life to Yahweh when they are counted, so that no plague may come upon them when they are numbered.
+[12] "When you take a census of the children of ⟦israel|Yisrael|Israel⟧ to number them, each shall give a ransom for his life to ⟦yhwh|Yahweh|the LORD⟧ when they are counted, so that no plague may come upon them when they are numbered.
 
-[13] This is what each one who is registered shall give: half a shekel, according to the shekel of the sanctuary (a shekel is twenty gerahs); a half shekel as an offering to Yahweh.
+[13] This is what each one who is registered shall give: half a shekel, according to the shekel of the sanctuary (a shekel is twenty gerahs); a half shekel as an offering to ⟦yhwh|Yahweh|the LORD⟧.
 
-[14] Everyone who passes over to those who are numbered, from twenty years old and upward, shall give the offering of Yahweh.
+[14] Everyone who passes over to those who are numbered, from twenty years old and upward, shall give the offering of ⟦yhwh|Yahweh|the LORD⟧.
 
-[15] The rich shall not give more and the poor shall not give less than the half shekel, when they give the offering of Yahweh to make atonement for your lives.
+[15] The rich shall not give more and the poor shall not give less than the half shekel, when they give the offering of ⟦yhwh|Yahweh|the LORD⟧ to make atonement for your lives.
 
-[16] You shall take the atonement money from the children of Israel and set it apart for the service of the Tent of Meeting; it shall be a memorial for the children of Israel before Yahweh, to make atonement for your lives."
+[16] You shall take the atonement money from the children of ⟦israel|Yisrael|Israel⟧ and set it apart for the service of the Tent of Meeting; it shall be a memorial for the children of ⟦israel|Yisrael|Israel⟧ before ⟦yhwh|Yahweh|the LORD⟧, to make atonement for your lives."
 
-[17] Yahweh spoke to Moses, saying,
+[17] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
 [18] "You shall also make a basin of bronze, with its stand of bronze, for washing. You shall put it between the Tent of Meeting and the altar, and you shall put water in it.
 
-[19] Aaron and his sons shall wash their hands and their feet from it.
+[19] ⟦aaron|Aharon|Aaron⟧ and his sons shall wash their hands and their feet from it.
 
-[20] When they go into the Tent of Meeting, they shall wash with water, so that they do not die; or when they come near the altar to minister, to burn an offering made by fire to Yahweh.
+[20] When they go into the Tent of Meeting, they shall wash with water, so that they do not die; or when they come near the altar to minister, to burn an offering made by fire to ⟦yhwh|Yahweh|the LORD⟧.
 
 [21] They shall wash their hands and their feet, so that they do not die. It shall be a perpetual statute for them — for him and for his offspring throughout their generations."
 
-[22] Yahweh spoke to Moses, saying,
+[22] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
 [23] "Take the finest spices: of liquid myrrh five hundred shekels, and of sweet-smelling cinnamon half as much, that is, two hundred and fifty, and of aromatic cane two hundred and fifty,
 
@@ -58,21 +58,21 @@
 
 [29] You shall consecrate them, that they may be most holy; whatever touches them shall become holy.
 
-[30] You shall anoint Aaron and his sons and consecrate them, that they may serve me as priests.
+[30] You shall anoint ⟦aaron|Aharon|Aaron⟧ and his sons and consecrate them, that they may serve me as priests.
 
-[31] And to the children of Israel you shall say, 'This shall be a sacred anointing oil to me throughout your generations.
+[31] And to the children of ⟦israel|Yisrael|Israel⟧ you shall say, 'This shall be a sacred anointing oil to me throughout your generations.
 
 [32] It shall not be poured on anyone's flesh, nor shall you make any other like it, in the same proportions; it is holy, and it shall be holy to you.
 
 [33] Whoever compounds any like it or puts any of it on an outsider shall be cut off from his people.'"
 
-[34] Yahweh said to Moses, "Take fragrant spices — storax, onycha, and galbanum, fragrant spices with pure frankincense; each shall be in equal weight —
+[34] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Take fragrant spices — storax, onycha, and galbanum, fragrant spices with pure frankincense; each shall be in equal weight —
 
 [35] and you shall make of it a fragrant blend, the work of a perfumer, salted, pure, and holy.
 
 [36] You shall beat some of it very small, and put some of it before the Testimony in the Tent of Meeting, where I will meet with you. It shall be most holy to you.
 
-[37] The incense that you shall make, according to its proportions you shall not make for yourselves; it shall be holy to you for Yahweh.
+[37] The incense that you shall make, according to its proportions you shall not make for yourselves; it shall be holy to you for ⟦yhwh|Yahweh|the LORD⟧.
 
 [38] Whoever makes any like it, to enjoy its smell, shall be cut off from his people."
 

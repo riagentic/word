@@ -1,8 +1,8 @@
 # Leviticus 12
 
-[1] Yahweh promluvil k Mosesovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[2] „Mluv k synům Israele: ‚Když žena počne a porodí chlapce, bude nečistá sedm dní; jako ve dnech svého menstruačního oddělení bude nečistá.
+[2] „Mluv k synům ⟦israel|Jisraele|Izraele⟧: ‚Když žena počne a porodí chlapce, bude nečistá sedm dní; jako ve dnech svého menstruačního oddělení bude nečistá.
 
 [3] Osmého dne bude obřezáno maso jeho předkožky.
 
@@ -12,7 +12,7 @@
 
 [6] Když se naplní dny jejího očišťování – ať za syna, nebo za dceru – přinese knězi ke vchodu do stanu setkávání ročního beránka jako zápalnou oběť a holoubě nebo hrdličku jako oběť za hřích.
 
-[7] Kněz to přinese před Yahweh a vykoná za ni smíření, a bude očištěna od toku své krve. To je zákon pro tu, která porodí dítě, chlapce nebo děvčátko.
+[7] Kněz to přinese před ⟦yhwh|Jahveho|Hospodina⟧ a vykoná za ni smíření, a bude očištěna od toku své krve. To je zákon pro tu, která porodí dítě, chlapce nebo děvčátko.
 
 [8] A nemá-li na beránka, vezme dvě hrdličky nebo dvě holoubata – jedno jako zápalnou oběť a druhé jako oběť za hřích; a kněz za ni vykoná smíření a bude čistá.‘“
 

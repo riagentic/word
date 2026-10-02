@@ -1,8 +1,8 @@
 # Marek 5
 
-[1] Přišli na druhý břeh moře, do krajiny Gerasenů.
+[1] Přišli na druhý břeh moře, do krajiny ⟦gerasenes|Gerasenů|Gerasenských⟧.
 
-[2] Když *Yeshua* vystoupil z lodi, hned mu z hrobů vyšel naproti člověk s nečistým duchem.
+[2] Když ⟦yeshua|Ješua|Ježíš⟧ vystoupil z lodi, hned mu z hrobů vyšel naproti člověk s nečistým duchem.
 
 [3] Bydlel v hrobech. A nikdo ho už nemohl spoutat, ani řetězem,
 
@@ -10,13 +10,13 @@
 
 [5] Ustavičně v noci i ve dne křičel v hrobech a na horách a tloukl se kameny.
 
-[6] Když zdálky uviděl *Yeshuu*, přiběhl a padl před ním
+[6] Když zdálky uviděl ⟦yeshua|Ješuu|Ježíše⟧, přiběhl a padl před ním
 
-[7] a zvolal mocným hlasem: „Co je ti do mě, *Yeshuo*, Synu Nejvyššího *Elohim*? Zaklínám tě při *Elohim*, netrap mě!“
+[7] a zvolal mocným hlasem: „Co je ti do mě, ⟦yeshua|Ješuo|Ježíši⟧, Synu Nejvyššího ⟦elohim|Elohim|Boha⟧? Zaklínám tě při ⟦elohim|Elohim|Bohu⟧, netrap mě!“
 
 [8] Říkal mu totiž: „Vyjdi z toho člověka, nečistý duchu!“
 
-[9] *Yeshua* se ho zeptal: „Jak se jmenuješ?“ Odpověděl: „Mé jméno je Legie, protože je nás mnoho.“
+[9] ⟦yeshua|Ješua|Ježíš⟧ se ho zeptal: „Jak se jmenuješ?“ Odpověděl: „Mé jméno je ⟦legion|Legion|Legie⟧, protože je nás mnoho.“
 
 [10] A úpěnlivě ho prosil, aby je z té krajiny nevyháněl.
 
@@ -28,21 +28,21 @@
 
 [14] Pasáci utekli a oznámili to ve městě i po venkově. A lidé přišli podívat se, co se to stalo.
 
-[15] Přišli k *Yeshuovi* a uviděli posedlého démony, toho, který měl legii, jak tam sedí oblečený a při zdravém rozumu; a dostali strach.
+[15] Přišli k ⟦yeshua|Ješuovi|Ježíšovi⟧ a uviděli posedlého démony, toho, který měl legii, jak tam sedí oblečený a při zdravém rozumu; a dostali strach.
 
 [16] Ti, kdo to viděli, jim vylíčili, co se stalo s posedlým a s vepři.
 
-[17] I začali *Yeshuu* prosit, aby odešel z jejich končin.
+[17] I začali ⟦yeshua|Ješuu|Ježíše⟧ prosit, aby odešel z jejich končin.
 
 [18] Když vstupoval do lodi, prosil ho ten, který býval posedlý démony, aby mohl být s ním.
 
 [19] On mu to nedovolil, ale řekl mu: „Jdi domů ke svým přátelům a oznam jim, jak veliké věci ti učinil Pán a jak se nad tebou smiloval.“
 
-[20] On odešel a začal v Decapolis hlásat, jak veliké věci mu učinil *Yeshua*; a všichni žasli.
+[20] On odešel a začal v ⟦decapolis|Dekapoli|Desetiměstí⟧ hlásat, jak veliké věci mu učinil ⟦yeshua|Ješua|Ježíš⟧; a všichni žasli.
 
-[21] Když se *Yeshua* znovu přeplavil lodí na druhý břeh, shromáždil se kolem něho velký zástup; a on byl u moře.
+[21] Když se ⟦yeshua|Ješua|Ježíš⟧ znovu přeplavil lodí na druhý břeh, shromáždil se kolem něho velký zástup; a on byl u moře.
 
-[22] Tu přišel jeden z představených synagogy, jménem Jairus, a když ho uviděl, padl mu k nohám
+[22] Tu přišel jeden z představených synagogy, jménem ⟦jairus|Jair|Jairos⟧, a když ho uviděl, padl mu k nohám
 
 [23] a úpěnlivě ho prosil: „Má dcerka umírá. Pojď a vlož na ni ruce, aby se uzdravila a žila.“
 
@@ -52,13 +52,13 @@
 
 [26] a mnoho zkusila od mnoha lékařů, vynaložila všechno, co měla, a nic jí to nepomohlo, ale bylo jí ještě hůř.
 
-[27] Uslyšela zprávy o *Yeshuovi*, přišla v zástupu zezadu a dotkla se jeho oděvu.
+[27] Uslyšela zprávy o ⟦yeshua|Ješuovi|Ježíši⟧, přišla v zástupu zezadu a dotkla se jeho oděvu.
 
 [28] Říkala si totiž: „Dotknu-li se aspoň jeho šatů, budu uzdravena.“
 
 [29] A hned vyschl zdroj jejího krvácení a pocítila na těle, že je ze svého trápení uzdravena.
 
-[30] *Yeshua* hned v sobě poznal, že z něho vyšla moc, obrátil se v zástupu a řekl: „Kdo se dotkl mých šatů?“
+[30] ⟦yeshua|Ješua|Ježíš⟧ hned v sobě poznal, že z něho vyšla moc, obrátil se v zástupu a řekl: „Kdo se dotkl mých šatů?“
 
 [31] Jeho učedníci mu řekli: „Vidíš, jak se na tebe zástup tlačí, a říkáš: ‚Kdo se mě dotkl?‘“
 
@@ -70,17 +70,17 @@
 
 [35] Ještě mluvil, když přišli z domu představeného synagogy lidé a řekli: „Tvá dcera zemřela. Proč ještě obtěžuješ Učitele?“
 
-[36] *Yeshua* však zaslechl, co říkali, a řekl představenému synagogy: „**Neboj se, jen věř.**“
+[36] ⟦yeshua|Ješua|Ježíš⟧ však zaslechl, co říkali, a řekl představenému synagogy: „**Neboj se, jen věř.**“
 
-[37] Nedovolil nikomu, aby šel s ním, kromě *Kefy*, Jacoba a Johna, bratra Jacobova.
+[37] Nedovolil nikomu, aby šel s ním, kromě ⟦peter|Kefy|Petra⟧, ⟦james|Jaakova|Jakuba⟧ a ⟦john|Jochanana|Jana⟧, bratra ⟦james|Jaakovova|Jakubova⟧.
 
-[38] Přišli do domu představeného synagogy a *Yeshua* uviděl zmatek a lidi, kteří hlasitě plakali a naříkali.
+[38] Přišli do domu představeného synagogy a ⟦yeshua|Ješua|Ježíš⟧ uviděl zmatek a lidi, kteří hlasitě plakali a naříkali.
 
 [39] Vešel dovnitř a řekl jim: „Proč děláte zmatek a pláčete? Dítě nezemřelo, ale spí.“
 
 [40] Vysmívali se mu. On však všechny vyhnal ven, vzal s sebou otce a matku dítěte a ty, kdo byli s ním, a vešel tam, kde dítě bylo.
 
-[41] Vzal ji za ruku a řekl jí: „***Talitha kumi***,“ což znamená: „Děvčátko, pravím ti, vstaň.“
+[41] Vzal ji za ruku a řekl jí: „**⟦talitha-kumi|Talita kumi|Talitha kum⟧**,“ což znamená: „Děvčátko, pravím ti, vstaň.“
 
 [42] A děvčátko hned vstalo a chodilo (bylo mu totiž dvanáct let); a hned je zachvátil veliký úžas.
 

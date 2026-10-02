@@ -20,7 +20,7 @@
 
 [10] Když byl sám, ptali se ho ti, kdo byli kolem něho, spolu s dvanácti na ta podobenství.
 
-[11] Řekl jim: „Vám je dáno tajemství království *Elohim*, ale těm, kdo jsou venku, se všechno podává v podobenstvích,
+[11] Řekl jim: „Vám je dáno tajemství království ⟦elohim|Elohim|Boží⟧, ale těm, kdo jsou venku, se všechno podává v podobenstvích,
 
 [12] aby
 
@@ -54,7 +54,7 @@ aby se snad neobrátili a nebylo jim odpuštěno.‘“
 
 [25] Neboť kdo má, tomu bude dáno, a kdo nemá, tomu bude vzato i to, co má.“
 
-[26] A řekl: „S královstvím *Elohim* je to, jako když člověk rozhodí semeno na zem.
+[26] A řekl: „S královstvím ⟦elohim|Elohim|Božím⟧ je to, jako když člověk rozhodí semeno na zem.
 
 [27] Spí a vstává, v noci i ve dne, a semeno klíčí a roste; on neví jak.
 
@@ -62,7 +62,7 @@ aby se snad neobrátili a nebylo jim odpuštěno.‘“
 
 [29] A když je zrno zralé, hned přikládá srp, protože nastala žeň.“
 
-[30] A řekl: „K čemu přirovnáme království *Elohim* nebo jakým podobenstvím ho vyjádříme?
+[30] A řekl: „K čemu přirovnáme království ⟦elohim|Elohim|Boží⟧ nebo jakým podobenstvím ho vyjádříme?
 
 [31] Je jako hořčičné zrnko, které je, když se zasévá do země, nejmenší ze všech semen na zemi,
 

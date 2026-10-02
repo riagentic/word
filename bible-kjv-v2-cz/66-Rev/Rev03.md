@@ -1,34 +1,34 @@
 # Zjevení 3
 
-[1] „A andělu církve v Sardis napiš: ‚Toto praví ten, který má sedm duchů *Elohim* a sedm hvězd.
+[1] „A andělu církve v ⟦sardis|Sardeis|Sardách⟧ napiš: ‚Toto praví ten, který má sedm duchů ⟦elohim|Elohim|Božích⟧ a sedm hvězd.
 
 „‚Znám tvé skutky. Máš pověst, že žiješ, ale jsi mrtvý.
 
-[2] Probuď se a posilni to, co zbývá a co už umírá, neboť jsem neshledal tvé skutky úplnými před mým *Elohim*.
+[2] Probuď se a posilni to, co zbývá a co už umírá, neboť jsem neshledal tvé skutky úplnými před mým ⟦elohim|Elohim|Bohem⟧.
 
 [3] Rozpomeň se tedy, co jsi přijal a slyšel. Zachovávej to a čiň pokání. Jestliže se neprobudíš, **přijdu jako zloděj** a nepoznáš, v kterou hodinu na tebe přijdu.
 
-[4] Máš však v Sardis několik jmen, lidí, kteří si nepošpinili svá roucha, a budou chodit se mnou v bílém, neboť jsou toho hodni.
+[4] Máš však v ⟦sardis|Sardeis|Sardách⟧ několik jmen, lidí, kteří si nepošpinili svá roucha, a budou chodit se mnou v bílém, neboť jsou toho hodni.
 
 [5] Kdo vítězí, bude takto oblečen do bílých rouch a jeho jméno nikdy nevymažu z knihy života. Vyznám jeho jméno před svým Otcem a před jeho anděly.
 
 [6] „‚Kdo má ucho, ať slyší, co Duch praví církvím.‘
 
-[7] „A andělu církve ve Philadelphii napiš: ‚Toto praví ten svatý, ten pravý, který má klíč Davidův, který otevírá, a nikdo nezavře, který zavírá, a nikdo neotevře.
+[7] „A andělu církve ve ⟦philadelphia|Filadelfeji|Filadelfii⟧ napiš: ‚Toto praví ten svatý, ten pravý, který má klíč Davidův, který otevírá, a nikdo nezavře, který zavírá, a nikdo neotevře.
 
 [8] „‚Znám tvé skutky. Hle, dal jsem před tebe otevřené dveře, které nikdo nemůže zavřít. Vím, že máš jen malou sílu, a přece jsi zachoval mé slovo a nezapřel jsi mé jméno.
 
-[9] Hle, ty ze synagogy satana, kteří o sobě říkají, že jsou Židé, a nejsou, ale lžou – hle, způsobím, že přijdou, pokloní se u tvých nohou a poznají, že jsem si tě zamiloval.
+[9] Hle, ty ze synagogy satana, kteří o sobě říkají, že jsou ⟦jews|Jehudim|Židé⟧, a nejsou, ale lžou – hle, způsobím, že přijdou, pokloní se u tvých nohou a poznají, že jsem si tě zamiloval.
 
 [10] Protože jsi zachoval mé slovo o trpělivé vytrvalosti, i já tě zachovám v hodině zkoušky, která má přijít na celý svět, aby vyzkoušela ty, kdo bydlí na zemi.
 
 [11] Přijdu brzy. Drž se toho, co máš, aby ti nikdo nevzal tvou korunu.
 
-[12] Toho, kdo vítězí, učiním sloupem v chrámu svého *Elohim*. Už nikdy z něho nevyjde a napíšu na něho jméno svého *Elohim* a jméno města svého *Elohim*, nového Jerusalemu, který sestupuje z nebe od mého *Elohim*, i své nové jméno.
+[12] Toho, kdo vítězí, učiním sloupem v chrámu svého ⟦elohim|Elohim|Boha⟧. Už nikdy z něho nevyjde a napíšu na něho jméno svého ⟦elohim|Elohim|Boha⟧ a jméno města svého ⟦elohim|Elohim|Boha⟧, nového ⟦jerusalem|Jerušalajim|Jeruzaléma⟧, který sestupuje z nebe od mého ⟦elohim|Elohim|Boha⟧, i své nové jméno.
 
 [13] „‚Kdo má ucho, ať slyší, co Duch praví církvím.‘
 
-[14] „A andělu církve v Laodiceji napiš: ‚Toto praví Amen, ten věrný a pravý svědek, počátek stvoření *Elohim*.
+[14] „A andělu církve v Laodikeji napiš: ‚Toto praví Amen, ten věrný a pravý svědek, počátek stvoření ⟦elohim|Elohim|Božího⟧.
 
 [15] „‚Znám tvé skutky: nejsi studený ani horký. Kéž bys byl studený, nebo horký!
 

@@ -1,50 +1,50 @@
 # Genesis 25
 
-[1] Abraham si vzal další ženu, jménem Keturah.
+[1] ⟦abraham|Avraham|Abraham⟧ si vzal další ženu, jménem Ketura.
 
-[2] Porodila mu Zimrana, Jokshana, Medana, Midiana, Ishbaka a Shuaha.
+[2] Porodila mu ⟦zimran|Zimrana|Zimrána⟧, Jokšana, ⟦medan|Medana|Medána⟧, ⟦midian|Midjana|Midjána⟧, Jišbaka a ⟦shuah|Šuacha|Šúacha⟧.
 
-[3] Jokshan zplodil Shebu a Dedana. Synové Dedanovi byli Asshurim, Letushim a Leummim.
+[3] Jokšan zplodil ⟦sheba|Ševu|Šebu⟧ a ⟦dedan|Dedana|Dedána⟧. Synové ⟦dedan|Dedanovi|Dedánovi⟧ byli ⟦asshurim|Ašurim|Ašúrejci⟧, ⟦letushim|Letušim|Letúšejci⟧ a ⟦leummim|Leumim|Leumejci⟧.
 
-[4] Synové Midianovi: Ephah, Epher, Hanoch, Abida a Eldaah. Ti všichni byli potomci Keturah.
+[4] Synové ⟦midian|Midjanovi|Midjánovi⟧: ⟦ephah|Efa|Éfa⟧, ⟦epher|Efer|Éfer⟧, ⟦hanoch|Chanoch|Chanók⟧, ⟦abida|Avida|Abída⟧ a Eldaa. Ti všichni byli potomci Ketury.
 
-[5] Abraham dal všechno, co měl, Isaacovi.
+[5] ⟦abraham|Avraham|Abraham⟧ dal všechno, co měl, ⟦isaac|Jicchakovi|Izákovi⟧.
 
-[6] Ale synům svých vedlejších žen dal Abraham dary, a ještě za svého života je poslal pryč od svého syna Isaaca na východ, do východní země.
+[6] Ale synům svých vedlejších žen dal ⟦abraham|Avraham|Abraham⟧ dary, a ještě za svého života je poslal pryč od svého syna ⟦isaac|Jicchaka|Izáka⟧ na východ, do východní země.
 
-[7] Toto jsou dny let Abrahamova života, které prožil: 175 let.
+[7] Toto jsou dny let ⟦abraham|Avrahamova|Abrahamova⟧ života, které prožil: 175 let.
 
-[8] Abraham vydechl naposledy a zemřel v dobrém stáří, stařec sytý let; a byl připojen ke svému lidu.
+[8] ⟦abraham|Avraham|Abraham⟧ vydechl naposledy a zemřel v dobrém stáří, stařec sytý let; a byl připojen ke svému lidu.
 
-[9] Jeho synové Isaac a Ishmael ho pohřbili v jeskyni Machpelah, na poli Ephrona, syna Zohara Hittity, které je na východ od Mamre,
+[9] Jeho synové ⟦isaac|Jicchak|Izák⟧ a ⟦ishmael|Jišmael|Izmael⟧ ho pohřbili v jeskyni ⟦machpelah|Machpely|Makpely⟧, na poli ⟦ephron|Efrona|Efróna⟧, syna ⟦zohar|Cochara|Sochara⟧ ⟦hittite|Chittiho|Chetejce⟧, které je na východ od Mamre,
 
-[10] na poli, které Abraham koupil od synů Hetha. Tam byl pohřben Abraham se svou ženou Sarah.
+[10] na poli, které ⟦abraham|Avraham|Abraham⟧ koupil od synů Cheta. Tam byl pohřben ⟦abraham|Avraham|Abraham⟧ se svou ženou ⟦sarah|Sarou|Sárou⟧.
 
-[11] Po Abrahamově smrti *Elohim* požehnal jeho synu Isaacovi; a Isaac se usadil u Beer-lahai-roi.
+[11] Po ⟦abraham|Avrahamově|Abrahamově⟧ smrti ⟦elohim|Elohim|Bůh⟧ požehnal jeho synu ⟦isaac|Jicchakovi|Izákovi⟧; a ⟦isaac|Jicchak|Izák⟧ se usadil u ⟦beer-lahai-roi|Beer Lachaj Roi|Beer-lachaj-roí⟧.
 
-[12] Toto jsou rody Ishmaela, Abrahamova syna, kterého Abrahamovi porodila Hagar Egypťanka, otrokyně Sarah.
+[12] Toto jsou rody ⟦ishmael|Jišmaela|Izmaele⟧, ⟦abraham|Avrahamova|Abrahamova⟧ syna, kterého ⟦abraham|Avrahamovi|Abrahamovi⟧ porodila Hagar ⟦egyptian|Micrijka|Egypťanka⟧, otrokyně ⟦sarah|Sary|Sáry⟧.
 
-[13] Toto jsou jména synů Ishmaelových, podle jejich jmen a podle jejich rodů: Ishmaelův prvorozený Nebaioth; dále Kedar, Adbeel, Mibsam,
+[13] Toto jsou jména synů ⟦ishmael|Jišmaelových|Izmaelových⟧, podle jejich jmen a podle jejich rodů: ⟦ishmael|Jišmaelův|Izmaelův⟧ prvorozený ⟦nebaioth|Nevajot|Nebajót⟧; dále ⟦kedar|Kedar|Kédar⟧, Adbeel, ⟦mibsam|Mivsam|Mibsam⟧,
 
-[14] Mishma, Dumah, Massa,
+[14] Mišma, ⟦dumah|Duma|Dúma⟧, Masa,
 
-[15] Hadad, Tema, Jetur, Naphish a Kedemah.
+[15] Chadad, ⟦tema|Tema|Téma⟧, ⟦jetur|Jetur|Jetúr⟧, ⟦naphish|Nafiš|Nafíš⟧ a Kedma.
 
-[16] Toto jsou synové Ishmaelovi a toto jsou jejich jména podle jejich vesnic a podle jejich táborů; dvanáct náčelníků podle jejich kmenů.
+[16] Toto jsou synové ⟦ishmael|Jišmaelovi|Izmaelovi⟧ a toto jsou jejich jména podle jejich vesnic a podle jejich táborů; dvanáct náčelníků podle jejich kmenů.
 
-[17] Toto jsou léta Ishmaelova života: 137 let. Vydechl naposledy, zemřel a byl připojen ke svému lidu.
+[17] Toto jsou léta ⟦ishmael|Jišmaelova|Izmaelova⟧ života: 137 let. Vydechl naposledy, zemřel a byl připojen ke svému lidu.
 
-[18] Usadili se od Havilah až po Shur, který leží naproti Egyptu, směrem k Asshuru. Usadil se naproti všem svým bratrům.
+[18] Usadili se od ⟦havilah|Chavily|Chavíly⟧ až po ⟦shur|Šur|Šúr⟧, který leží naproti ⟦egypt|Micrajim|Egyptu⟧, směrem k ⟦assyria|Aššuru|Asýrii⟧. Usadil se naproti všem svým bratrům.
 
-[19] Toto jsou rody Isaaca, Abrahamova syna: Abraham zplodil Isaaca.
+[19] Toto jsou rody ⟦isaac|Jicchaka|Izáka⟧, ⟦abraham|Avrahamova|Abrahamova⟧ syna: ⟦abraham|Avraham|Abraham⟧ zplodil ⟦isaac|Jicchaka|Izáka⟧.
 
-[20] Isaacovi bylo 40 let, když si vzal za ženu Rebekah, dceru Bethuela Aramejce z Paddan-Aramu, sestru Labana Aramejce.
+[20] ⟦isaac|Jicchakovi|Izákovi⟧ bylo 40 let, když si vzal za ženu ⟦rebekah|Rivku|Rebeku⟧, dceru ⟦bethuel|Betuela|Betúela⟧ ⟦aramean|Arammiho|Aramejce⟧ z ⟦paddan-aram|Padan Aramu|Rovin aramských⟧, sestru ⟦laban|Lavana|Lábana⟧ ⟦aramean|Arammiho|Aramejce⟧.
 
-[21] Isaac prosil Yahweh za svou ženu, protože byla neplodná; a Yahweh vyslyšel jeho prosbu a jeho žena Rebekah počala.
+[21] ⟦isaac|Jicchak|Izák⟧ prosil ⟦yhwh|Jahveho|Hospodina⟧ za svou ženu, protože byla neplodná; a ⟦yhwh|Jahve|Hospodin⟧ vyslyšel jeho prosbu a jeho žena ⟦rebekah|Rivka|Rebeka⟧ počala.
 
-[22] Děti se v ní strkaly a řekla: „Je-li to tak, proč tohle mně?“ A šla se dotázat Yahweh.
+[22] Děti se v ní strkaly a řekla: „Je-li to tak, proč tohle mně?“ A šla se dotázat ⟦yhwh|Jahveho|Hospodina⟧.
 
-[23] Yahweh jí řekl:
+[23] ⟦yhwh|Jahve|Hospodin⟧ jí řekl:
 
 „Dva národy jsou v tvém lůně
 a dva lidy se oddělí z tvého nitra.
@@ -53,25 +53,25 @@ a starší bude sloužit mladšímu.“
 
 [24] Když se naplnily její dny k porodu, hle, v jejím lůně byla dvojčata.
 
-[25] První vyšel červený, celý jako chlupatý plášť, a tak mu dali jméno Esau.
+[25] První vyšel červený, celý jako chlupatý plášť, a tak mu dali jméno ⟦esau|Esav|Ezau⟧.
 
-[26] Potom vyšel jeho bratr, rukou svíral Esauovu patu; proto dostal jméno Jacob. Isaacovi bylo 60 let, když je porodila.
+[26] Potom vyšel jeho bratr, rukou svíral ⟦esau|Esavovu|Ezauovu⟧ patu; proto dostal jméno ⟦jacob|Jaakov|Jákob⟧. ⟦isaac|Jicchakovi|Izákovi⟧ bylo 60 let, když je porodila.
 
-[27] Když chlapci vyrostli, Esau byl zkušený lovec, muž pole; Jacob byl tichý muž, bydlící ve stanech.
+[27] Když chlapci vyrostli, ⟦esau|Esav|Ezau⟧ byl zkušený lovec, muž pole; ⟦jacob|Jaakov|Jákob⟧ byl tichý muž, bydlící ve stanech.
 
-[28] Isaac miloval Esaua, protože měl v ústech zvěřinu; ale Rebekah milovala Jacoba.
+[28] ⟦isaac|Jicchak|Izák⟧ miloval ⟦esau|Esava|Ezaua⟧, protože měl v ústech zvěřinu; ale ⟦rebekah|Rivka|Rebeka⟧ milovala ⟦jacob|Jaakova|Jákoba⟧.
 
-[29] Jednou Jacob vařil polévku, když Esau přišel z pole vyčerpaný.
+[29] Jednou ⟦jacob|Jaakov|Jákob⟧ vařil polévku, když ⟦esau|Esav|Ezau⟧ přišel z pole vyčerpaný.
 
-[30] Esau řekl Jacobovi: „Nech mě zhltnout trochu toho červeného – vždyť jsem vyčerpaný.“ (Proto dostal jméno Edom.)
+[30] ⟦esau|Esav|Ezau⟧ řekl ⟦jacob|Jaakovovi|Jákobovi⟧: „Nech mě zhltnout trochu toho červeného – vždyť jsem vyčerpaný.“ (Proto dostal jméno ⟦edom|Edom|Edóm⟧.)
 
-[31] Jacob řekl: „Prodej mi své prvorozenství, dnes.“
+[31] ⟦jacob|Jaakov|Jákob⟧ řekl: „Prodej mi své prvorozenství, dnes.“
 
-[32] Esau řekl: „Hle, umírám; k čemu mi je prvorozenství?“
+[32] ⟦esau|Esav|Ezau⟧ řekl: „Hle, umírám; k čemu mi je prvorozenství?“
 
-[33] Jacob řekl: „Přísahej mi, dnes.“ Přísahal mu tedy a prodal své prvorozenství Jacobovi.
+[33] ⟦jacob|Jaakov|Jákob⟧ řekl: „Přísahej mi, dnes.“ Přísahal mu tedy a prodal své prvorozenství ⟦jacob|Jaakovovi|Jákobovi⟧.
 
-[34] Potom dal Jacob Esauovi chléb a čočkovou polévku; on jedl a pil, vstal a šel svou cestou. Tak Esau pohrdl svým prvorozenstvím.
+[34] Potom dal ⟦jacob|Jaakov|Jákob⟧ ⟦esau|Esavovi|Ezauovi⟧ chléb a čočkovou polévku; on jedl a pil, vstal a šel svou cestou. Tak ⟦esau|Esav|Ezau⟧ pohrdl svým prvorozenstvím.
 
 ## Změny
 

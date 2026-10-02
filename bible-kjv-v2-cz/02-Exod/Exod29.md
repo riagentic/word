@@ -6,9 +6,9 @@
 
 [3] Vložíš je do jednoho koše a přineseš je v koši – spolu s býčkem a oběma berany.
 
-[4] Přivedeš Aarona a jeho syny ke vchodu do stanu setkávání a umyješ je vodou.
+[4] Přivedeš ⟦aaron|Aharona|Árona⟧ a jeho syny ke vchodu do stanu setkávání a umyješ je vodou.
 
-[5] Potom vezmeš roucha a oblečeš Aaronovi suknici, plášť efodu, efod a náprsník; a přepášeš ho umně tkaným pásem efodu.
+[5] Potom vezmeš roucha a oblečeš ⟦aaron|Aharonovi|Áronovi⟧ suknici, plášť ⟦ephod|efodu|nárameníku⟧, ⟦ephod|efod|nárameník⟧ a náprsník; a přepášeš ho umně tkaným pásem ⟦ephod|efodu|nárameníku⟧.
 
 [6] Vložíš mu na hlavu turban a na turban připevníš svatou čelenku.
 
@@ -16,11 +16,11 @@
 
 [8] Potom přivedeš jeho syny a oblečeš je do suknic,
 
-[9] přepášeš je šerpami – Aarona i jeho syny – a uvážeš jim pokrývky hlavy. Kněžství jim bude patřit jako věčné ustanovení. Tak uvedeš do úřadu Aarona a jeho syny.
+[9] přepášeš je šerpami – ⟦aaron|Aharona|Árona⟧ i jeho syny – a uvážeš jim pokrývky hlavy. Kněžství jim bude patřit jako věčné ustanovení. Tak uvedeš do úřadu ⟦aaron|Aharona|Árona⟧ a jeho syny.
 
-[10] Přivedeš býčka před stan setkávání; a Aaron a jeho synové položí ruce na hlavu býčka.
+[10] Přivedeš býčka před stan setkávání; a ⟦aaron|Aharon|Áron⟧ a jeho synové položí ruce na hlavu býčka.
 
-[11] Býčka porazíš před Yahweh u vchodu do stanu setkávání.
+[11] Býčka porazíš před ⟦yhwh|Jahvem|Hospodinem⟧ u vchodu do stanu setkávání.
 
 [12] Vezmeš trochu krve býčka a prstem ji dáš na rohy oltáře, a všechnu ostatní krev vyleješ u podstavce oltáře.
 
@@ -28,47 +28,47 @@
 
 [14] Ale maso býčka, jeho kůži a jeho výkaly spálíš ohněm venku za táborem; je to oběť za hřích.
 
-[15] Potom vezmeš jednoho z beranů, a Aaron a jeho synové položí ruce na hlavu berana.
+[15] Potom vezmeš jednoho z beranů, a ⟦aaron|Aharon|Áron⟧ a jeho synové položí ruce na hlavu berana.
 
 [16] Berana porazíš, vezmeš jeho krev a vyšplícneš ji dokola na oltář.
 
 [17] Berana rozsekáš na kusy, omyješ jeho vnitřnosti a jeho nohy a položíš je k jeho kusům a k jeho hlavě.
 
-[18] Celého berana obrátíš v dým na oltáři; je to zápalná oběť pro Yahweh. Je to libá vůně, ohnivá oběť pro Yahweh.
+[18] Celého berana obrátíš v dým na oltáři; je to zápalná oběť pro ⟦yhwh|Jahveho|Hospodina⟧. Je to libá vůně, ohnivá oběť pro ⟦yhwh|Jahveho|Hospodina⟧.
 
-[19] Vezmeš druhého berana, a Aaron a jeho synové položí ruce na hlavu berana.
+[19] Vezmeš druhého berana, a ⟦aaron|Aharon|Áron⟧ a jeho synové položí ruce na hlavu berana.
 
-[20] Berana porazíš, vezmeš trochu jeho krve a dáš ji na lalůček pravého ucha Aaronova a na lalůček pravého ucha jeho synů, na palec jejich pravé ruky a na palec jejich pravé nohy; a ostatní krev vyšplícneš dokola na oltář.
+[20] Berana porazíš, vezmeš trochu jeho krve a dáš ji na lalůček pravého ucha ⟦aaron|Aharonova|Áronova⟧ a na lalůček pravého ucha jeho synů, na palec jejich pravé ruky a na palec jejich pravé nohy; a ostatní krev vyšplícneš dokola na oltář.
 
-[21] Vezmeš trochu krve, která je na oltáři, a trochu oleje pomazání a pokropíš jím Aarona a jeho roucha, i jeho syny a roucha jeho synů s ním; a bude posvěcen on i jeho roucha, i jeho synové a roucha jeho synů s ním.
+[21] Vezmeš trochu krve, která je na oltáři, a trochu oleje pomazání a pokropíš jím ⟦aaron|Aharona|Árona⟧ a jeho roucha, i jeho syny a roucha jeho synů s ním; a bude posvěcen on i jeho roucha, i jeho synové a roucha jeho synů s ním.
 
 [22] Vezmeš také z berana tuk, tučný ocas, tuk, který pokrývá vnitřnosti, lalok jater, obě ledviny s tukem, který je na nich, a pravou kýtu; neboť je to beran uvedení do úřadu.
 
-[23] Vezmi také jeden bochník chleba, jeden koláč chleba připravený s olejem a jeden oplatek z koše nekvašených chlebů, který je před Yahweh;
+[23] Vezmi také jeden bochník chleba, jeden koláč chleba připravený s olejem a jeden oplatek z koše nekvašených chlebů, který je před ⟦yhwh|Jahvem|Hospodinem⟧;
 
-[24] a to všechno vložíš do rukou Aaronových a do rukou jeho synů a pozdvihneš to jako oběť pozdvižení před Yahweh.
+[24] a to všechno vložíš do rukou ⟦aaron|Aharonových|Áronových⟧ a do rukou jeho synů a pozdvihneš to jako oběť pozdvižení před ⟦yhwh|Jahvem|Hospodinem⟧.
 
-[25] Potom to vezmeš z jejich rukou a obrátíš v dým na oltáři navrch zápalné oběti jako libou vůni před Yahweh; je to ohnivá oběť pro Yahweh.
+[25] Potom to vezmeš z jejich rukou a obrátíš v dým na oltáři navrch zápalné oběti jako libou vůni před ⟦yhwh|Jahvem|Hospodinem⟧; je to ohnivá oběť pro ⟦yhwh|Jahveho|Hospodina⟧.
 
-[26] Vezmeš hruď berana Aaronova uvedení do úřadu a pozdvihneš ji jako oběť pozdvižení před Yahweh; a bude to tvůj podíl.
+[26] Vezmeš hruď berana ⟦aaron|Aharonova|Áronova⟧ uvedení do úřadu a pozdvihneš ji jako oběť pozdvižení před ⟦yhwh|Jahvem|Hospodinem⟧; a bude to tvůj podíl.
 
-[27] Posvětíš hruď oběti pozdvižení a kýtu příspěvkové oběti – co bylo pozdviženo a co bylo odevzdáno jako příspěvek – z berana uvedení do úřadu, z toho, co patří Aaronovi, a z toho, co patří jeho synům.
+[27] Posvětíš hruď oběti pozdvižení a kýtu příspěvkové oběti – co bylo pozdviženo a co bylo odevzdáno jako příspěvek – z berana uvedení do úřadu, z toho, co patří ⟦aaron|Aharonovi|Áronovi⟧, a z toho, co patří jeho synům.
 
-[28] Bude to patřit Aaronovi a jeho synům jako věčné ustanovení od synů Israele; neboť je to příspěvek. Bude to příspěvek od synů Israele z jejich pokojných obětí – jejich příspěvek pro Yahweh.
+[28] Bude to patřit ⟦aaron|Aharonovi|Áronovi⟧ a jeho synům jako věčné ustanovení od synů ⟦israel|Jisraele|Izraele⟧; neboť je to příspěvek. Bude to příspěvek od synů ⟦israel|Jisraele|Izraele⟧ z jejich pokojných obětí – jejich příspěvek pro ⟦yhwh|Jahveho|Hospodina⟧.
 
-[29] Svatá roucha Aaronova budou patřit jeho synům po něm; v nich budou pomazáni a uvedeni do úřadu.
+[29] Svatá roucha ⟦aaron|Aharonova|Áronova⟧ budou patřit jeho synům po něm; v nich budou pomazáni a uvedeni do úřadu.
 
 [30] Sedm dní je bude oblékat ten syn, který bude knězem na jeho místě, když bude vcházet do stanu setkávání, aby sloužil ve svatyni.
 
 [31] Vezmeš berana uvedení do úřadu a uvaříš jeho maso na svatém místě.
 
-[32] Aaron a jeho synové budou jíst maso berana a chléb, který je v koši, u vchodu do stanu setkávání.
+[32] ⟦aaron|Aharon|Áron⟧ a jeho synové budou jíst maso berana a chléb, který je v koši, u vchodu do stanu setkávání.
 
 [33] Budou jíst to, čím bylo vykonáno smíření při jejich uvedení do úřadu a jejich posvěcení; ale nikdo nepovolaný z toho jíst nebude, protože je to svaté.
 
 [34] Zůstane-li něco z masa uvedení do úřadu nebo z chleba do rána, spálíš zbytek ohněm; nebude se to jíst, protože je to svaté.
 
-[35] Tak učiníš s Aaronem a jeho syny podle všeho, co jsem ti přikázal; sedm dní je budeš uvádět do úřadu.
+[35] Tak učiníš s ⟦aaron|Aharonem|Áronem⟧ a jeho syny podle všeho, co jsem ti přikázal; sedm dní je budeš uvádět do úřadu.
 
 [36] Každý den budeš přinášet býčka jako oběť za hřích ke smíření; očistíš oltář tím, že za něj vykonáš smíření, a pomažeš ho, abys ho posvětil.
 
@@ -80,17 +80,17 @@
 
 [40] a s jedním beránkem desetinu jemné mouky zadělané čtvrtinou hinu vytlučeného oleje a čtvrtinu hinu vína jako úlitbu.
 
-[41] Druhého beránka budeš přinášet za soumraku a naložíš s ním stejně jako s ranní obilnou obětí a s její úlitbou, jako libou vůni, ohnivou oběť pro Yahweh.
+[41] Druhého beránka budeš přinášet za soumraku a naložíš s ním stejně jako s ranní obilnou obětí a s její úlitbou, jako libou vůni, ohnivou oběť pro ⟦yhwh|Jahveho|Hospodina⟧.
 
-[42] Bude to ustavičná zápalná oběť po všechna vaše pokolení u vchodu do stanu setkávání před Yahweh, kde se s vámi budu setkávat, abych tam s tebou mluvil.
+[42] Bude to ustavičná zápalná oběť po všechna vaše pokolení u vchodu do stanu setkávání před ⟦yhwh|Jahvem|Hospodinem⟧, kde se s vámi budu setkávat, abych tam s tebou mluvil.
 
-[43] Tam se budu setkávat se syny Israele a to místo bude posvěceno mou slávou.
+[43] Tam se budu setkávat se syny ⟦israel|Jisraele|Izraele⟧ a to místo bude posvěceno mou slávou.
 
-[44] Posvětím stan setkávání i oltář; posvětím také Aarona a jeho syny, aby mi sloužili jako kněží.
+[44] Posvětím stan setkávání i oltář; posvětím také ⟦aaron|Aharona|Árona⟧ a jeho syny, aby mi sloužili jako kněží.
 
-[45] Budu přebývat uprostřed synů Israele a budu jejich *Elohim*.
+[45] Budu přebývat uprostřed synů ⟦israel|Jisraele|Izraele⟧ a budu jejich ⟦elohim|Elohim|Bůh⟧.
 
-[46] Poznají, že já jsem Yahweh, jejich *Elohim*, který je vyvedl z egyptské země, abych přebýval uprostřed nich. Já jsem Yahweh, jejich *Elohim*.“
+[46] Poznají, že já jsem ⟦yhwh|Jahve|Hospodin⟧, jejich ⟦elohim|Elohim|Bůh⟧, který je vyvedl z egyptské země, abych přebýval uprostřed nich. Já jsem ⟦yhwh|Jahve|Hospodin⟧, jejich ⟦elohim|Elohim|Bůh⟧.“
 
 ## Změny
 

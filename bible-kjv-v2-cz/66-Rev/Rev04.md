@@ -8,7 +8,7 @@
 
 [4] Kolem trůnu bylo dvacet čtyři trůnů a na trůnech sedělo dvacet čtyři starších, oděných v bílá roucha, se zlatými korunami na hlavách.
 
-[5] Od trůnu vycházely blesky, hlučení a rachot hromů a před trůnem hořelo sedm ohnivých pochodní, což je sedm duchů *Elohim*,
+[5] Od trůnu vycházely blesky, hlučení a rachot hromů a před trůnem hořelo sedm ohnivých pochodní, což je sedm duchů ⟦elohim|Elohim|Božích⟧,
 
 [6] a před trůnem bylo jakoby skleněné moře, podobné křišťálu.
 
@@ -18,14 +18,14 @@ A kolem trůnu, po každé straně trůnu, jsou čtyři živé bytosti, plné o�
 
 [8] A ty čtyři živé bytosti, každá z nich se šesti křídly, jsou plné očí všude kolem i uvnitř a dnem i nocí neustávají říkat:
 
-„**Svatý, svatý, svatý je Pán *Elohim* Všemohoucí,
+„**Svatý, svatý, svatý je ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ Všemohoucí,
 který byl a je a přichází!**“
 
 [9] A kdykoli živé bytosti vzdávají slávu, čest a díky tomu, který sedí na trůnu, který žije na věky věků,
 
 [10] padá dvacet čtyři starších před tím, který sedí na trůnu, a klanějí se tomu, který žije na věky věků. Kladou své koruny před trůn a říkají:
 
-[11] „**Hoden jsi, náš Pane a *Elohim*,
+[11] „**Hoden jsi, náš Pane a ⟦elohim|Elohim|Bože⟧,
 přijmout slávu, čest a moc,
 neboť ty jsi stvořil všechno
 a tvou vůlí to bylo a bylo stvořeno**.“

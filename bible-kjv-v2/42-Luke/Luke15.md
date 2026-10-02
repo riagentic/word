@@ -2,7 +2,7 @@
 
 [1] Now the tax collectors and sinners were all drawing near to hear him.
 
-[2] And the Pharisees and the scribes grumbled, saying, "This man receives sinners and eats with them."
+[2] And the ⟦pharisees|Perushim|Pharisees⟧ and the scribes grumbled, saying, "This man receives sinners and eats with them."
 
 [3] So he told them this parable:
 
@@ -18,7 +18,7 @@
 
 [9] And when she has found it, she calls together her friends and neighbors, saying, 'Rejoice with me, for I have found the coin that I had lost.'
 
-[10] Just so, I tell you, there is joy before the angels of *Elohim* over one sinner who repents."
+[10] Just so, I tell you, there is joy before the angels of ⟦elohim|Elohim|God⟧ over one sinner who repents."
 
 [11] And he said, "There was a man who had two sons.
 

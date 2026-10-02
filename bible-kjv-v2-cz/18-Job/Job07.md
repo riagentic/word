@@ -27,7 +27,7 @@ mé oko už nikdy neuvidí dobro.
 tvé oči budou na mně, a já už nebudu.
 
 [9] Jako mrak bledne a mizí,
-tak ten, kdo sestoupí do Sheolu, už nevystoupí.
+tak ten, kdo sestoupí do ⟦sheol|Šeolu|podsvětí⟧, už nevystoupí.
 
 [10] Už se nevrátí do svého domu;
 jeho místo ho už nepozná.

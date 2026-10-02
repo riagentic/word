@@ -1,14 +1,14 @@
 # Ozeáš 8
 
-[1] Přilož trubku ke rtům!
-Kdosi jako sup je nad domem Yahweh,
+[1] Přilož ⟦shofar|šofar|polnici⟧ ke rtům!
+Kdosi jako sup je nad domem ⟦yhwh|Jahveho|Hospodina⟧,
 protože přestoupili mou smlouvu
-a vzbouřili se proti mému Zákonu.
+a vzbouřili se proti ⟦torah|mé Tóře|mému zákonu⟧.
 
 [2] Ke mně volají:
-„Můj *Elohim*, my – Israel – tě známe.“
+„Můj ⟦elohim|Elohim|Bože⟧, my – ⟦israel|Jisrael|Izrael⟧ – tě známe.“
 
-[3] Israel zavrhl dobro;
+[3] ⟦israel|Jisrael|Izrael⟧ zavrhl dobro;
 nepřítel ho bude pronásledovat.
 
 [4] Dosazovali krále, ale ne skrze mne.
@@ -16,13 +16,13 @@ Ustanovovali knížata, ale já jsem o tom nevěděl.
 Ze svého stříbra a zlata si udělali modly
 ke své vlastní zkáze.
 
-[5] Zavrhl jsem tvé tele, Samarie.
+[5] Zavrhl jsem tvé tele, ⟦samaria|Šomrone|Samaří⟧.
 Můj hněv proti nim plane.
 Jak dlouho ještě nebudou schopni nevinnosti?
 
-[6] Neboť je z Israele;
-udělal je řemeslník; není to *Elohim*.
-Tele Samarie
+[6] Neboť je z ⟦israel|Jisraele|Izraele⟧;
+udělal je řemeslník; není to ⟦elohim|Elohim|Bůh⟧.
+Tele ⟦samaria|Šomronu|Samaří⟧
 bude roztříštěno na kusy.
 
 [7] Neboť sejí vítr
@@ -32,35 +32,35 @@ nedá žádnou mouku;
 a kdyby i dalo,
 cizinci by ji pohltili.
 
-[8] Israel je pohlcen;
+[8] ⟦israel|Jisrael|Izrael⟧ je pohlcen;
 už jsou mezi národy
 jako nepotřebná nádoba.
 
-[9] Neboť vystoupili do Assyrie,
+[9] Neboť vystoupili do ⟦assyria|Aššuru|Asýrie⟧,
 divoký osel, který bloudí sám;
-Ephraim si najal milence.
+Efrajim si najal milence.
 
 [10] Ačkoli si najímají spojence mezi národy,
 brzy je shromáždím.
 A král i knížata se budou brzy svíjet
 pod břemenem poplatku.
 
-[11] Protože Ephraim rozmnožil oltáře k hřešení,
+[11] Protože Efrajim rozmnožil oltáře k hřešení,
 staly se mu oltáři k hřešení.
 
-[12] Kdybych mu napsal své zákony po desetitisících,
+[12] Kdybych mu napsal své ⟦torah|tóry|zákony⟧ po desetitisících,
 byly by pokládány za něco cizího.
 
 [13] Pokud jde o mé obětní dary,
 obětují maso a jedí je,
-ale Yahweh je nepřijímá.
+ale ⟦yhwh|Jahve|Hospodin⟧ je nepřijímá.
 Nyní si připomene jejich nepravost
 a potrestá jejich hříchy;
-vrátí se do Egypta.
+vrátí se do ⟦egypt|Micrajim|Egypta⟧.
 
-[14] Neboť Israel zapomněl na svého Tvůrce
+[14] Neboť ⟦israel|Jisrael|Izrael⟧ zapomněl na svého Tvůrce
 a stavěl paláce
-a Judah rozmnožil opevněná města;
+a ⟦judah|Jehuda|Juda⟧ rozmnožil opevněná města;
 proto pošlu oheň na jeho města
 a ten pohltí její pevnosti.
 

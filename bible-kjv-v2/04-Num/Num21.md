@@ -1,43 +1,43 @@
 # Numbers 21
 
-[1] When the Canaanite king of Arad, who dwelt in the Negev, heard that Israel was coming by the way of Atharim, he fought against Israel and took some of them captive.
+[1] When the ⟦canaanites|Kenaani|Canaanite⟧ king of Arad, who dwelt in the ⟦negev|Negev|Negeb⟧, heard that ⟦israel|Yisrael|Israel⟧ was coming by the way of ⟦atharim|Atarim|Atharim⟧, he fought against ⟦israel|Yisrael|Israel⟧ and took some of them captive.
 
-[2] Israel vowed a vow to Yahweh and said, "If you will indeed deliver this people into my hand, then I will devote their cities to destruction."
+[2] ⟦israel|Yisrael|Israel⟧ vowed a vow to ⟦yhwh|Yahweh|the LORD⟧ and said, "If you will indeed deliver this people into my hand, then I will devote their cities to destruction."
 
-[3] Yahweh listened to the voice of Israel and gave up the Canaanites; and they devoted them and their cities to destruction. So the name of the place was called Hormah.
+[3] ⟦yhwh|Yahweh|The LORD⟧ listened to the voice of ⟦israel|Yisrael|Israel⟧ and gave up the ⟦canaanites|Kenaanim|Canaanites⟧; and they devoted them and their cities to destruction. So the name of the place was called ⟦hormah|Chormah|Hormah⟧.
 
-[4] They set out from Mount Hor by way of the Sea of Reeds, to go around the land of Edom; and the people became impatient along the way.
+[4] They set out from Mount Hor by way of the ⟦red-sea|Sea of Reeds|Red Sea⟧, to go around the land of Edom; and the people became impatient along the way.
 
-[5] The people spoke against *Elohim* and against Moses: "Why have you brought us up out of Egypt to die in the wilderness? For there is no bread, and there is no water, and our soul loathes this worthless food."
+[5] The people spoke against ⟦elohim|Elohim|God⟧ and against ⟦moses|Moshe|Moses⟧: "Why have you brought us up out of ⟦egypt|Mitzrayim|Egypt⟧ to die in the wilderness? For there is no bread, and there is no water, and our soul loathes this worthless food."
 
-[6] Then Yahweh sent fiery serpents among the people, and they bit the people, and many people of Israel died.
+[6] Then ⟦yhwh|Yahweh|the LORD⟧ sent fiery serpents among the people, and they bit the people, and many people of ⟦israel|Yisrael|Israel⟧ died.
 
-[7] The people came to Moses and said, "We have sinned, for we have spoken against Yahweh and against you; pray to Yahweh that he take away the serpents from us." So Moses prayed for the people.
+[7] The people came to ⟦moses|Moshe|Moses⟧ and said, "We have sinned, for we have spoken against ⟦yhwh|Yahweh|the LORD⟧ and against you; pray to ⟦yhwh|Yahweh|the LORD⟧ that he take away the serpents from us." So ⟦moses|Moshe|Moses⟧ prayed for the people.
 
-[8] Yahweh said to Moses, "Make yourself a seraph and set it on a pole; everyone who is bitten shall look at it and live."
+[8] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Make yourself ⟦saraf|a saraf|a fiery serpent⟧ and set it on a pole; everyone who is bitten shall look at it and live."
 
-[9] So Moses made a bronze serpent and set it on the pole; and if a serpent bit anyone, when he looked at the bronze serpent, he lived.
+[9] So ⟦moses|Moshe|Moses⟧ made a bronze serpent and set it on the pole; and if a serpent bit anyone, when he looked at the bronze serpent, he lived.
 
-[10] The children of Israel set out and encamped at Oboth.
+[10] The children of ⟦israel|Yisrael|Israel⟧ set out and encamped at ⟦oboth|Ovot|Oboth⟧.
 
-[11] They set out from Oboth and encamped at Iye-abarim, in the wilderness that is opposite Moab, toward the sunrise.
+[11] They set out from ⟦oboth|Ovot|Oboth⟧ and encamped at ⟦iye-abarim|Iyei HaAvarim|Iye-abarim⟧, in the wilderness that is opposite ⟦moab|Moav|Moab⟧, toward the sunrise.
 
 [12] From there they set out and encamped in the valley of Zered.
 
-[13] From there they set out and encamped beyond the Arnon, which is in the wilderness that extends from the territory of the Amorites; for the Arnon is the border of Moab, between Moab and the Amorites.
+[13] From there they set out and encamped beyond the Arnon, which is in the wilderness that extends from the territory of the ⟦amorites|Emorim|Amorites⟧; for the Arnon is the border of ⟦moab|Moav|Moab⟧, between ⟦moab|Moav|Moab⟧ and the ⟦amorites|Emorim|Amorites⟧.
 
-[14] Therefore it is said in the Book of the Wars of Yahweh:
+[14] Therefore it is said in the Book of the Wars of ⟦yhwh|Yahweh|the LORD⟧:
 
-Waheb in Suphah,
+⟦waheb|Vahev|Waheb⟧ in ⟦suphah|Sufah|Suphah⟧,
 and the wadis — the Arnon,
 
 [15] and the slopes of the wadis
 that extend to the site of Ar
-and lean toward the border of Moab.
+and lean toward the border of ⟦moab|Moav|Moab⟧.
 
-[16] From there they went on to Beer; that is the well of which Yahweh said to Moses, "Gather the people together, and I will give them water."
+[16] From there they went on to Beer; that is the well of which ⟦yhwh|Yahweh|the LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Gather the people together, and I will give them water."
 
-[17] Then Israel sang this song:
+[17] Then ⟦israel|Yisrael|Israel⟧ sang this song:
 
 Spring up, O well! Sing to it!
 
@@ -47,50 +47,50 @@ with the scepter, with their staves.
 
 From the wilderness they went to Mattanah;
 
-[19] from Mattanah to Nahaliel; from Nahaliel to Bamoth;
+[19] from Mattanah to ⟦nahaliel|Nachaliel|Nahaliel⟧; from ⟦nahaliel|Nachaliel|Nahaliel⟧ to ⟦bamoth|Bamot|Bamoth⟧;
 
-[20] from Bamoth to the valley that is in the country of Moab, to the top of Pisgah, which overlooks the Jeshimon.
+[20] from ⟦bamoth|Bamot|Bamoth⟧ to the valley that is in the country of ⟦moab|Moav|Moab⟧, to the top of Pisgah, which overlooks the ⟦jeshimon|Yeshimon|Jeshimon⟧.
 
-[21] Israel sent messengers to Sihon, king of the Amorites, saying,
+[21] ⟦israel|Yisrael|Israel⟧ sent messengers to ⟦sihon|Sichon|Sihon⟧, king of the ⟦amorites|Emorim|Amorites⟧, saying,
 
 [22] "Let me pass through your land. We will not turn aside into field or vineyard; we will not drink water from any well. We will go along the King's Highway until we have passed through your territory."
 
-[23] But Sihon would not allow Israel to pass through his territory. Sihon gathered all his people and went out against Israel in the wilderness, and came to Jahaz and fought against Israel.
+[23] But ⟦sihon|Sichon|Sihon⟧ would not allow ⟦israel|Yisrael|Israel⟧ to pass through his territory. ⟦sihon|Sichon|Sihon⟧ gathered all his people and went out against ⟦israel|Yisrael|Israel⟧ in the wilderness, and came to ⟦jahaz|Yahtzah|Jahaz⟧ and fought against ⟦israel|Yisrael|Israel⟧.
 
-[24] Israel struck him with the edge of the sword and took possession of his land from the Arnon to the Jabbok, as far as the children of Ammon; for the border of the children of Ammon was fortified.
+[24] ⟦israel|Yisrael|Israel⟧ struck him with the edge of the sword and took possession of his land from the Arnon to the ⟦jabbok|Yabboq|Jabbok⟧, as far as the children of Ammon; for the border of the children of Ammon was fortified.
 
-[25] Israel took all these cities, and Israel lived in all the cities of the Amorites — in Heshbon and all its villages.
+[25] ⟦israel|Yisrael|Israel⟧ took all these cities, and ⟦israel|Yisrael|Israel⟧ lived in all the cities of the ⟦amorites|Emorim|Amorites⟧ — in ⟦heshbon|Cheshbon|Heshbon⟧ and all its villages.
 
-[26] For Heshbon was the city of Sihon king of the Amorites, who had fought against the former king of Moab and taken all his land out of his hand, as far as the Arnon.
+[26] For ⟦heshbon|Cheshbon|Heshbon⟧ was the city of ⟦sihon|Sichon|Sihon⟧ king of the ⟦amorites|Emorim|Amorites⟧, who had fought against the former king of ⟦moab|Moav|Moab⟧ and taken all his land out of his hand, as far as the Arnon.
 
 [27] Therefore those who speak in proverbs say:
 
-Come to Heshbon,
-let the city of Sihon be built and established!
+Come to ⟦heshbon|Cheshbon|Heshbon⟧,
+let the city of ⟦sihon|Sichon|Sihon⟧ be built and established!
 
-[28] For fire went out from Heshbon,
-a flame from the city of Sihon;
-it devoured Ar of Moab,
+[28] For fire went out from ⟦heshbon|Cheshbon|Heshbon⟧,
+a flame from the city of ⟦sihon|Sichon|Sihon⟧;
+it devoured Ar of ⟦moab|Moav|Moab⟧,
 the lords of the heights of the Arnon.
 
-[29] Woe to you, Moab!
-You are undone, O people of Chemosh!
+[29] Woe to you, ⟦moab|Moav|Moab⟧!
+You are undone, O people of ⟦chemosh|Kemosh|Chemosh⟧!
 He has given his sons as fugitives,
 and his daughters into captivity,
-to Sihon king of the Amorites.
+to ⟦sihon|Sichon|Sihon⟧ king of the ⟦amorites|Emorim|Amorites⟧.
 
 [30] So we shot them down;
-Heshbon perished as far as Dibon,
-and we laid waste as far as Nophah,
-which reaches to Medeba.
+⟦heshbon|Cheshbon|Heshbon⟧ perished as far as ⟦dibon|Divon|Dibon⟧,
+and we laid waste as far as ⟦nophah|Nofach|Nophah⟧,
+which reaches to ⟦medeba|Meidva|Medeba⟧.
 
-[31] Thus Israel dwelt in the land of the Amorites.
+[31] Thus ⟦israel|Yisrael|Israel⟧ dwelt in the land of the ⟦amorites|Emorim|Amorites⟧.
 
-[32] Moses sent men to scout Jazer; and they took its villages, and dispossessed the Amorites who were there.
+[32] ⟦moses|Moshe|Moses⟧ sent men to scout ⟦jazer|Yazer|Jazer⟧; and they took its villages, and dispossessed the ⟦amorites|Emorim|Amorites⟧ who were there.
 
 [33] Then they turned and went up by way of Bashan; and Og king of Bashan went out against them, he and all his people, to battle at Edrei.
 
-[34] Yahweh said to Moses, "Do not fear him, for I have given him into your hand, with all his people and his land; and you shall do to him as you did to Sihon king of the Amorites, who dwelt at Heshbon."
+[34] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Do not fear him, for I have given him into your hand, with all his people and his land; and you shall do to him as you did to ⟦sihon|Sichon|Sihon⟧ king of the ⟦amorites|Emorim|Amorites⟧, who dwelt at ⟦heshbon|Cheshbon|Heshbon⟧."
 
 [35] So they struck him down, and his sons and all his people, until there was no survivor left to him; and they took possession of his land.
 

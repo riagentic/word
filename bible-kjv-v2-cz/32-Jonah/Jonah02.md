@@ -1,12 +1,12 @@
 # Jonáš 2
 
-[1] Tu se Jonah z břicha ryby modlil k Yahweh, svému *Elohim*,
+[1] Tu se ⟦jonah|Jona|Jonáš⟧ z břicha ryby modlil k ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧,
 
 [2] a řekl:
 
-„Volal jsem k Yahweh ze svého soužení,
+„Volal jsem k ⟦yhwh|Jahvovi|Hospodinu⟧ ze svého soužení,
 a on mi odpověděl;
-z břicha Sheol jsem křičel
+z břicha ⟦sheol|Šeolu|podsvětí⟧ jsem křičel
 a ty jsi slyšel můj hlas.
 
 [3] Neboť jsi mě vrhl do hlubiny,
@@ -28,22 +28,22 @@ chaluhy se mi ovinuly kolem hlavy
 Sestoupil jsem do země,
 jejíž závory se za mnou zavřely navěky;
 ty však jsi vyvedl můj život z jámy,
-Yahweh, můj *Elohim*.
+⟦yhwh|Jahve|Hospodine⟧, můj ⟦elohim|Elohim|Bože⟧.
 
 [7] Když má duše ve mně umdlévala,
-vzpomněl jsem na Yahweh
+vzpomněl jsem na ⟦yhwh|Jahveho|Hospodina⟧
 a má modlitba přišla k tobě,
 do tvého svatého chrámu.
 
 [8] Ti, kdo dbají na marné modly,
-opouštějí svou věrnou lásku.
+opouštějí ⟦steadfast-love|svůj chesed|své milosrdenství⟧.
 
 [9] Ale já ti s hlasem díkůvzdání
 budu obětovat;
 co jsem slíbil, splním.
-**Yeshuah patří Yahweh!**“
+**⟦yeshuah|Ješua|Spása⟧ patří ⟦yhwh|Jahvovi|Hospodinu⟧!**“
 
-[10] I promluvil Yahweh k rybě a ta vyvrhla Jonaha na souš.
+[10] I promluvil ⟦yhwh|Jahve|Hospodin⟧ k rybě a ta vyvrhla ⟦jonah|Jonu|Jonáše⟧ na souš.
 
 ## Změny
 

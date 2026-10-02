@@ -1,74 +1,74 @@
 # Ezekiel 27
 
-[1] The word of Yahweh came to me:
+[1] The word of ⟦yhwh|Yahweh|the LORD⟧ came to me:
 
-[2] "Now you, son of man, raise a lamentation over Tyre,
+[2] "Now you, son of man, raise a lamentation over ⟦tyre|Tzor|Tyre⟧,
 
-[3] and say to Tyre, who dwells at the entrances to the sea, merchant of the peoples to many coastlands, thus says Lord Yahweh:
+[3] and say to ⟦tyre|Tzor|Tyre⟧, who dwells at the entrances to the sea, merchant of the peoples to many coastlands, thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧:
 
-"O Tyre, you have said,
+"O ⟦tyre|Tzor|Tyre⟧, you have said,
 'I am perfect in beauty.'
 
 [4] Your borders are in the heart of the seas;
 your builders made perfect your beauty.
 
 [5] They made all your planks of fir trees from Senir;
-they took a cedar from Lebanon
+they took a cedar from ⟦lebanon|Levanon|Lebanon⟧
 to make a mast for you.
 
 [6] Of oaks of Bashan they made your oars;
 they made your deck of pines from the coasts of Kittim,
 inlaid with ivory.
 
-[7] Of fine embroidered linen from Egypt
+[7] Of fine embroidered linen from ⟦egypt|Mitzrayim|Egypt⟧
 was your sail, serving as your banner;
 blue and purple from the coasts of Elishah
 was your awning.
 
-[8] The inhabitants of Sidon and Arvad
+[8] The inhabitants of ⟦sidon|Tzidon|Sidon⟧ and Arvad
 were your rowers;
-your skilled men, O Tyre, were in you;
+your skilled men, O ⟦tyre|Tzor|Tyre⟧, were in you;
 they were your pilots.
 
-[9] The elders of Geval and her skilled men were in you,
+[9] The elders of ⟦gebal|Geval|Gebal⟧ and her skilled men were in you,
 caulking your seams;
 all the ships of the sea with their mariners were in you
 to barter for your wares.
 
-[10] Persia and Lud and Put were in your army
+[10] ⟦persia|Paras|Persia⟧ and Lud and Put were in your army
 as your men of war.
 They hung the shield and helmet in you;
 they gave you splendor.
 
-[11] The men of Arvad and Helech
+[11] The men of Arvad and ⟦helech|Chelech|Helech⟧
 were on your walls all around,
-and men of Gammad were in your towers.
+and men of ⟦gamad|Gammad|Gamad⟧ were in your towers.
 They hung their shields on your walls all around;
 they made perfect your beauty.
 
 [12] "Tarshish did business with you because of your great wealth of every kind; silver, iron, tin, and lead they exchanged for your wares.
 
-[13] Javan, Tubal, and Meshech traded with you; they exchanged human beings and vessels of bronze for your merchandise.
+[13] ⟦javan|Yavan|Javan⟧, ⟦tubal|Tuval|Tubal⟧, and Meshech traded with you; they exchanged human beings and vessels of bronze for your merchandise.
 
-[14] From Beth-togarmah they exchanged horses, war horses, and mules for your wares.
+[14] From ⟦beth-togarmah|Beit Togarmah|Beth-togarmah⟧ they exchanged horses, war horses, and mules for your wares.
 
 [15] The men of Dedan traded with you. Many coastlands were your own markets; they brought you in payment ivory tusks and ebony.
 
-[16] Syria did business with you because of your abundant goods; they exchanged for your wares emeralds, purple, embroidered work, fine linen, coral, and ruby.
+[16] ⟦aram|Aram|Syria⟧ did business with you because of your abundant goods; they exchanged for your wares emeralds, purple, embroidered work, fine linen, coral, and ruby.
 
-[17] Judah and the land of Israel traded with you; they exchanged for your merchandise wheat of Minnith, meal, honey, oil, and balm.
+[17] ⟦judah|Yehudah|Judah⟧ and the land of ⟦israel|Yisrael|Israel⟧ traded with you; they exchanged for your merchandise wheat of ⟦minnith|Minnit|Minnith⟧, meal, honey, oil, and balm.
 
-[18] Damascus did business with you for your abundant goods, because of your great wealth of every kind; wine of Helbon and wool of Zahar
+[18] ⟦damascus|Dammeseq|Damascus⟧ did business with you for your abundant goods, because of your great wealth of every kind; wine of ⟦helbon|Chelbon|Helbon⟧ and wool of ⟦zahar|Tzachar|Zahar⟧
 
 [19] and casks of wine from Uzal they exchanged for your wares; wrought iron, cassia, and calamus were bartered for your merchandise.
 
 [20] Dedan traded with you in saddlecloths for riding.
 
-[21] Arabia and all the princes of Kedar were your favored dealers in lambs, rams, and goats; in these they did business with you.
+[21] ⟦arabia|Arav|Arabia⟧ and all the princes of ⟦kedar|Qedar|Kedar⟧ were your favored dealers in lambs, rams, and goats; in these they did business with you.
 
-[22] The traders of Sheba and Raamah traded with you; they exchanged for your wares the best of all kinds of spices and all precious stones and gold.
+[22] The traders of ⟦sheba|Sheva|Sheba⟧ and Raamah traded with you; they exchanged for your wares the best of all kinds of spices and all precious stones and gold.
 
-[23] Haran, Canneh, Eden, traders of Sheba, Asshur, and Chilmad traded with you.
+[23] ⟦haran-city|Charan|Haran⟧, ⟦canneh|Kanneh|Canneh⟧, Eden, traders of ⟦sheba|Sheva|Sheba⟧, ⟦asshur|Ashur|Asshur⟧, and ⟦chilmad|Kilmad|Chilmad⟧ traded with you.
 
 [24] In your market these traded with you in choice garments, in clothes of blue and embroidered work, and in carpets of colored material, bound with cords and made secure.
 
@@ -109,7 +109,7 @@ with bitter mourning.
 
 [32] In their wailing they raise a lamentation for you
 and lament over you:
-'Who is like Tyre,
+'Who is like ⟦tyre|Tzor|Tyre⟧,
 like one destroyed in the midst of the sea?
 
 [33] When your wares came from the seas,

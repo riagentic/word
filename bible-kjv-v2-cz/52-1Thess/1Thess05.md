@@ -16,7 +16,7 @@
 
 [8] My však, protože patříme dni, buďme střízliví, oblečeni pancířem víry a lásky a s přilbou naděje spasení.
 
-[9] *Elohim* nás totiž neurčil k hněvu, ale k získání spasení skrze našeho Pána *Yeshuu Mashiacha*,
+[9] ⟦elohim|Elohim|Bůh⟧ nás totiž neurčil k hněvu, ale k získání spasení skrze našeho Pána ⟦yeshua|Ješuu|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧,
 
 [10] který za nás zemřel, abychom, ať bdíme, nebo spíme, žili spolu s ním.
 
@@ -34,7 +34,7 @@
 
 [17] bez přestání se modlete,
 
-**[18] za všech okolností děkujte; neboť to je vůle *Elohim* v *Mashiachovi* *Yeshuovi* pro vás.**
+**[18] za všech okolností děkujte; neboť to je vůle ⟦elohim|Elohim|Boží⟧ v ⟦mashiach|Mašiachovi|Kristu⟧ ⟦yeshua|Ješuovi|Ježíši⟧ pro vás.**
 
 [19] Neuhašujte Ducha.
 
@@ -44,7 +44,7 @@
 
 [22] Zdržujte se každé podoby zla.
 
-[23] Sám *Elohim* pokoje ať vás cele posvětí a celý váš duch, duše i tělo ať jsou zachovány bezúhonné při příchodu našeho Pána *Yeshuy Mashiacha*.
+[23] Sám ⟦elohim|Elohim|Bůh⟧ pokoje ať vás cele posvětí a celý váš duch, duše i tělo ať jsou zachovány bezúhonné při příchodu našeho Pána ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧.
 
 [24] Věrný je ten, který vás povolává; on to jistě učiní.
 
@@ -54,7 +54,7 @@
 
 [27] Zavazuji vás přísahou před Pánem, aby byl tento dopis přečten všem bratřím.
 
-[28] Milost našeho Pána *Yeshuy Mashiacha* buď s vámi.
+[28] Milost našeho Pána ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧ buď s vámi.
 
 ## Změny
 

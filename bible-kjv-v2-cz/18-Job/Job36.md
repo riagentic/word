@@ -1,9 +1,9 @@
 # Jób 36
 
-[1] Elihu pokračoval a řekl:
+[1] ⟦elihu|Elihu|Elíhú⟧ pokračoval a řekl:
 
 [2] „Posečkej se mnou chvíli, a ukážu ti,
-neboť mám ještě co říci za Eloah.
+neboť mám ještě co říci za ⟦eloah|Eloah|Boha⟧.
 
 [3] Přinesu své poznání zdaleka
 a přiznám spravedlnost svému Stvořiteli.
@@ -11,7 +11,7 @@ a přiznám spravedlnost svému Stvořiteli.
 [4] Vždyť má slova vskutku nejsou lživá;
 je s tebou ten, kdo je dokonalý v poznání.
 
-[5] Hle, *Elohim* je mocný a nikým nepohrdá;
+[5] Hle, ⟦el|El|Bůh⟧ je mocný a nikým nepohrdá;
 je mocný silou rozumnosti.
 
 [6] Nenechává svévolníka žít,
@@ -65,7 +65,7 @@ kdy jsou národy odťaty na svém místě.
 [21] Měj se na pozoru; neobracej se k nepravosti,
 neboť tu sis zvolil raději než soužení.
 
-[22] Hle, *Elohim* je vznešený ve své moci;
+[22] Hle, ⟦el|El|Bůh⟧ je vznešený ve své moci;
 kdo je učitel jako on?
 
 [23] Kdo mu určil jeho cestu
@@ -77,7 +77,7 @@ o němž lidé zpívali.
 [25] Všechno lidstvo na ně hledělo;
 člověk je pozoruje zdaleka.
 
-[26] Hle, *Elohim* je veliký, a my ho neznáme;
+[26] Hle, ⟦el|El|Bůh⟧ je veliký, a my ho neznáme;
 počet jeho let je nevyzpytatelný.
 
 [27] Vždyť vytahuje kapky vody;
@@ -103,6 +103,7 @@ i dobytek o tom, co se blíží.“
 
 ## Změny
 
+- **"God" → „El“** (v5, 22, 26) – hebrejsky אֵל *El*, ne *Elohim*.
 - **"hypocrites" → „bezbožní“** (v13) – *chanef*.
 - **"unclean" → „chrámovými prostituty“** (v14) – *qedeshim*.
 - **"tabernacle" → „stánku“** (v29) – *sukkato*; božský stan.

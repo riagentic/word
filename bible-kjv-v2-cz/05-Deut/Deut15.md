@@ -2,45 +2,45 @@
 
 [1] „Na konci každých sedmi let vyhlásíš promíjení dluhů.
 
-[2] Promíjení bude probíhat takto: každý věřitel promine, co půjčil svému bližnímu. Nebude to vymáhat na svém bližním, na svém bratru, protože bylo vyhlášeno promíjení Yahweh.
+[2] Promíjení bude probíhat takto: každý věřitel promine, co půjčil svému bližnímu. Nebude to vymáhat na svém bližním, na svém bratru, protože bylo vyhlášeno promíjení ⟦yhwh|Jahveho|Hospodina⟧.
 
 [3] Od cizince to vymáhat smíš, ale co tvého je u tvého bratra, to tvá ruka promine.
 
-[4] Nebude u tebe chudého – neboť Yahweh ti hojně požehná v zemi, kterou ti Yahweh, tvůj *Elohim*, dává do dědictví, abys ji vlastnil –
+[4] Nebude u tebe chudého – neboť ⟦yhwh|Jahve|Hospodin⟧ ti hojně požehná v zemi, kterou ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, dává do dědictví, abys ji vlastnil –
 
-[5] jen budeš-li pozorně poslouchat hlas Yahweh, svého *Elohim*, a pečlivě plnit celé toto přikázání, které ti dnes přikazuji.
+[5] jen budeš-li pozorně poslouchat hlas ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, a pečlivě plnit celé toto přikázání, které ti dnes přikazuji.
 
-[6] Neboť Yahweh, tvůj *Elohim*, ti požehná, jak ti slíbil; a ty budeš půjčovat mnoha národům, ale sám si půjčovat nebudeš; budeš vládnout mnoha národům, ale nad tebou vládnout nebudou.
+[6] Neboť ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, ti požehná, jak ti slíbil; a ty budeš půjčovat mnoha národům, ale sám si půjčovat nebudeš; budeš vládnout mnoha národům, ale nad tebou vládnout nebudou.
 
-[7] Bude-li u tebe chudý člověk, některý z tvých bratrů, v kterékoli z tvých bran ve tvé zemi, kterou ti Yahweh, tvůj *Elohim*, dává, nezatvrdíš své srdce a nezavřeš svou ruku před svým chudým bratrem.
+[7] Bude-li u tebe chudý člověk, některý z tvých bratrů, v kterékoli z tvých bran ve tvé zemi, kterou ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, dává, nezatvrdíš své srdce a nezavřeš svou ruku před svým chudým bratrem.
 
 [8] Ale jistě mu otevřeš svou ruku a jistě mu půjčíš, cokoli potřebuje, dost na jeho nedostatek.
 
-[9] Měj se na pozoru, aby v tvém srdci nebyla ničemná myšlenka: ‚Blíží se sedmý rok, rok promíjení,‘ a tvé oko nebylo zlé vůči tvému chudému bratru, takže bys mu nic nedal, a on by proti tobě volal k Yahweh, a bylo by to na tobě hříchem.
+[9] Měj se na pozoru, aby v tvém srdci nebyla ničemná myšlenka: ‚Blíží se sedmý rok, rok promíjení,‘ a tvé oko nebylo zlé vůči tvému chudému bratru, takže bys mu nic nedal, a on by proti tobě volal k ⟦yhwh|Jahvovi|Hospodinu⟧, a bylo by to na tobě hříchem.
 
-[10] Jistě mu dáš, a tvé srdce nebude nevrlé, když mu budeš dávat, protože za to ti Yahweh, tvůj *Elohim*, požehná ve všem tvém díle a ve všem, k čemu vztáhneš ruku.
+[10] Jistě mu dáš, a tvé srdce nebude nevrlé, když mu budeš dávat, protože za to ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, požehná ve všem tvém díle a ve všem, k čemu vztáhneš ruku.
 
 [11] Neboť chudí ze země nikdy nevymizí; proto ti přikazuji: ‚Jistě otevřeš svou ruku svému bratru, svému potřebnému a svému chudému ve své zemi.‘
 
-[12] Bude-li ti prodán tvůj bratr – Hebrejec nebo Hebrejka – bude ti sloužit šest let, a v sedmém roce ho od sebe propustíš na svobodu.
+[12] Bude-li ti prodán tvůj bratr – ⟦hebrew|Ivri|Hebrejec⟧ nebo ⟦hebrew|Ivrija|Hebrejka⟧ – bude ti sloužit šest let, a v sedmém roce ho od sebe propustíš na svobodu.
 
 [13] Až ho od sebe propustíš na svobodu, nepropustíš ho s prázdnou.
 
-[14] Štědře ho obdaříš ze svého stáda, ze svého mlatu a ze svého lisu; jak ti požehnal Yahweh, tvůj *Elohim*, tak mu dáš.
+[14] Štědře ho obdaříš ze svého stáda, ze svého mlatu a ze svého lisu; jak ti požehnal ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, tak mu dáš.
 
-[15] Budeš pamatovat, že jsi byl otrokem v zemi Egypt a že tě Yahweh, tvůj *Elohim*, vykoupil; proto ti dnes přikazuji tuto věc.
+[15] Budeš pamatovat, že jsi byl otrokem v zemi ⟦egypt|Micrajim|Egypt⟧ a že tě ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, vykoupil; proto ti dnes přikazuji tuto věc.
 
 [16] Jestliže ti však řekne: ‚Neodejdu od tebe,‘ protože miluje tebe i tvou domácnost, neboť se mu u tebe dobře vede,
 
 [17] vezmeš šídlo a probodneš mu ucho do dveří, a bude tvým služebníkem navždy. Také se svou služebnicí naložíš stejně.
 
-[18] Nebude se ti zdát těžké, když ho od sebe propustíš na svobodu, neboť tím, že ti sloužil šest let, měl dvojnásobnou cenu mzdy nádeníka; a Yahweh, tvůj *Elohim*, ti požehná ve všem, co děláš.
+[18] Nebude se ti zdát těžké, když ho od sebe propustíš na svobodu, neboť tím, že ti sloužil šest let, měl dvojnásobnou cenu mzdy nádeníka; a ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, ti požehná ve všem, co děláš.
 
-[19] Všechny prvorozené samce, kteří se narodí z tvého skotu a z tvého stáda, zasvětíš Yahweh, svému *Elohim*. S prvorozeným ze svého skotu nebudeš pracovat a prvorozené ze svého stáda nebudeš stříhat.
+[19] Všechny prvorozené samce, kteří se narodí z tvého skotu a z tvého stáda, zasvětíš ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧. S prvorozeným ze svého skotu nebudeš pracovat a prvorozené ze svého stáda nebudeš stříhat.
 
-[20] Budeš ho jíst před Yahweh, svým *Elohim*, rok co rok na místě, které Yahweh vyvolí, ty i tvá domácnost.
+[20] Budeš ho jíst před ⟦yhwh|Jahvem|Hospodinem⟧, svým ⟦elohim|Elohim|Bohem⟧, rok co rok na místě, které ⟦yhwh|Jahve|Hospodin⟧ vyvolí, ty i tvá domácnost.
 
-[21] Má-li však nějakou vadu – je-li chromé nebo slepé nebo má-li jakoukoli vážnou vadu – neobětuješ ho Yahweh, svému *Elohim*.
+[21] Má-li však nějakou vadu – je-li chromé nebo slepé nebo má-li jakoukoli vážnou vadu – neobětuješ ho ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧.
 
 [22] Budeš ho jíst ve svých branách; nečistý i čistý ho budou jíst stejně, jako by to byla gazela nebo jelen.
 

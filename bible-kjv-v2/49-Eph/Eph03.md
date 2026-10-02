@@ -1,26 +1,26 @@
 # Ephesians 3
 
-[1] For this reason I, Paul, a prisoner for the *Mashiach* *Yeshua* on behalf of you Gentiles —
+[1] For this reason I, ⟦paul|Paulus|Paul⟧, a prisoner for ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧ on behalf of you Gentiles —
 
-[2] assuming that you have heard of the stewardship of *Elohim*'s grace that was given to me for you,
+[2] assuming that you have heard of the stewardship of ⟦elohim|Elohim's|God's⟧ grace that was given to me for you,
 
 [3] how the mystery was made known to me by revelation, as I have written briefly.
 
-[4] When you read this, you can perceive my insight into the mystery of the *Mashiach*,
+[4] When you read this, you can perceive my insight into the mystery of ⟦mashiach|the Mashiach|Christ⟧,
 
 [5] which was not made known to the sons of men in other generations as it has now been revealed to his holy apostles and prophets by the Spirit.
 
-[6] This mystery is that the Gentiles are fellow heirs, members of the same body, and partakers of the promise in the *Mashiach* *Yeshua* through the gospel.
+[6] This mystery is that the Gentiles are fellow heirs, members of the same body, and partakers of the promise in ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧ through the gospel.
 
-[7] Of this gospel I was made a minister according to the gift of *Elohim*'s grace, which was given me by the working of his power.
+[7] Of this gospel I was made a minister according to the gift of ⟦elohim|Elohim's|God's⟧ grace, which was given me by the working of his power.
 
-[8] To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of the *Mashiach*,
+[8] To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of ⟦mashiach|the Mashiach|Christ⟧,
 
-[9] and to bring to light for everyone what is the plan of the mystery hidden for ages in *Elohim*, who created all things,
+[9] and to bring to light for everyone what is the plan of the mystery hidden for ages in ⟦elohim|Elohim|God⟧, who created all things,
 
-[10] so that through the church the manifold wisdom of *Elohim* might now be made known to the rulers and authorities in the heavenly places.
+[10] so that through the church the manifold wisdom of ⟦elohim|Elohim|God⟧ might now be made known to the rulers and authorities in the heavenly places.
 
-[11] This was according to the eternal purpose that he has realized in the *Mashiach* *Yeshua* our Lord,
+[11] This was according to the eternal purpose that he has realized in ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧ our Lord,
 
 [12] in whom we have boldness and access with confidence through our faith in him.
 
@@ -32,15 +32,15 @@
 
 [16] that according to the riches of his glory he may grant you to be strengthened with power through his Spirit in your inner being,
 
-[17] so that the *Mashiach* may dwell in your hearts through faith — that you, being rooted and grounded in love,
+[17] so that ⟦mashiach|the Mashiach|Christ⟧ may dwell in your hearts through faith — that you, being rooted and grounded in love,
 
 [18] may have strength to comprehend with all the saints what is the breadth and length and height and depth,
 
-[19] and to know the love of the *Mashiach* that surpasses knowledge, that you may be filled with all the fullness of *Elohim*.
+[19] and to know the love of ⟦mashiach|the Mashiach|Christ⟧ that surpasses knowledge, that you may be filled with all the fullness of ⟦elohim|Elohim|God⟧.
 
 [20] Now to him who is able to do far more abundantly than all that we ask or think, according to the power at work within us,
 
-[21] to him be glory in the church and in the *Mashiach* *Yeshua* throughout all generations, forever and ever. Amen.
+[21] to him be glory in the church and in ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧ throughout all generations, forever and ever. Amen.
 
 ## Changes
 

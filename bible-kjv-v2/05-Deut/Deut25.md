@@ -10,15 +10,15 @@
 
 [5] If brothers dwell together, and one of them dies and has no son, the wife of the dead man shall not be married outside the family to a stranger; her husband's brother shall go in to her and take her as his wife and perform the duty of a brother-in-law to her.
 
-[6] The firstborn whom she bears shall carry on the name of the dead brother, so that his name may not be blotted out of Israel.
+[6] The firstborn whom she bears shall carry on the name of the dead brother, so that his name may not be blotted out of ⟦israel|Yisrael|Israel⟧.
 
-[7] But if the man does not wish to take his brother's wife, then his brother's wife shall go up to the gate to the elders and say, 'My husband's brother refuses to perpetuate his brother's name in Israel; he will not perform the duty of a brother-in-law to me.'
+[7] But if the man does not wish to take his brother's wife, then his brother's wife shall go up to the gate to the elders and say, 'My husband's brother refuses to perpetuate his brother's name in ⟦israel|Yisrael|Israel⟧; he will not perform the duty of a brother-in-law to me.'
 
 [8] Then the elders of his city shall summon him and speak to him. If he persists and says, 'I do not wish to take her,'
 
 [9] then his brother's wife shall come up to him in the presence of the elders, remove his sandal from his foot, spit in his face, and declare, 'So shall it be done to the man who will not build up his brother's house.'
 
-[10] His name shall be called in Israel: 'The house of the one whose sandal was removed.'
+[10] His name shall be called in ⟦israel|Yisrael|Israel⟧: 'The house of the one whose sandal was removed.'
 
 [11] When men fight with one another, and the wife of one draws near to deliver her husband from the hand of the one striking him, and puts out her hand and seizes his genitals,
 
@@ -28,15 +28,15 @@
 
 [14] You shall not have in your house two different measures, a large and a small.
 
-[15] You shall have a full and honest weight; a full and honest measure you shall have, that your days may be long in the land that Yahweh your *Elohim* is giving you.
+[15] You shall have a full and honest weight; a full and honest measure you shall have, that your days may be long in the land that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is giving you.
 
-[16] For everyone who does these things, anyone who acts dishonestly, is an abomination to Yahweh your *Elohim*.
+[16] For everyone who does these things, anyone who acts dishonestly, is an abomination to ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
-[17] Remember what Amalek did to you on the way, when you came out of Egypt —
+[17] Remember what ⟦amalek|Amaleq|Amalek⟧ did to you on the way, when you came out of ⟦egypt|Mitzrayim|Egypt⟧ —
 
-[18] how he met you on the way and attacked your rear, all who were lagging behind you, when you were faint and weary; he did not fear *Elohim*.
+[18] how he met you on the way and attacked your rear, all who were lagging behind you, when you were faint and weary; he did not fear ⟦elohim|Elohim|God⟧.
 
-[19] Therefore when Yahweh your *Elohim* has given you rest from all your surrounding enemies, in the land that Yahweh your *Elohim* is giving you for an inheritance to possess, you shall blot out the memory of Amalek from under the heavens; do not forget.
+[19] Therefore when ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ has given you rest from all your surrounding enemies, in the land that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is giving you for an inheritance to possess, you shall blot out the memory of ⟦amalek|Amaleq|Amalek⟧ from under the heavens; do not forget.
 
 ## Changes
 

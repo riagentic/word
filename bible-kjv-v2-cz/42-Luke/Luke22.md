@@ -1,10 +1,10 @@
 # Lukáš 22
 
-[1] Blížil se svátek nekvašených chlebů, který se nazývá Pascha.
+[1] Blížil se svátek ⟦unleavened-bread|Macot|nekvašených chlebů⟧, který se nazývá ⟦pesach|Pesach|velikonoce⟧.
 
 [2] Velekněží a zákoníci hledali, jak by ho odstranili, neboť se báli lidu.
 
-[3] Tu vstoupil Satan do Judase, zvaného Iscariot, který byl z počtu těch dvanácti.
+[3] Tu vstoupil Satan do ⟦judas|Jehudy|Jidáše⟧, zvaného ⟦iscariot|Iškariot|Iškariotský⟧, který byl z počtu těch dvanácti.
 
 [4] Odešel a domlouval se s velekněžími a veliteli stráže, jak by jim ho vydal.
 
@@ -12,29 +12,29 @@
 
 [6] On souhlasil a hledal příležitost, aby jim ho vydal bez přítomnosti zástupu.
 
-[7] Nastal den nekvašených chlebů, kdy se měl obětovat beránek Paschy.
+[7] Nastal den ⟦unleavened-bread|Macot|nekvašených chlebů⟧, kdy se měl obětovat ⟦pesach|beránek Pesachu|velikonoční beránek⟧.
 
-[8] *Yeshua* tedy poslal *Kefu* a Johna a řekl: „Jděte a připravte nám Paschu, abychom ji jedli.“
+[8] ⟦yeshua|Ješua|Ježíš⟧ tedy poslal ⟦peter|Kefu|Petra⟧ a ⟦john|Jochanana|Jana⟧ a řekl: „Jděte a připravte nám ⟦pesach|Pesach, abychom ho|velikonočního beránka, abychom ho⟧ jedli.“
 
 [9] Řekli mu: „Kde chceš, abychom ji připravili?“
 
 [10] Řekl jim: „Hle, až vejdete do města, potká vás člověk, který nese džbán vody. Jděte za ním do domu, do kterého vejde,
 
-[11] a řekněte hospodáři: ‚Učitel ti vzkazuje: Kde je pokoj pro hosty, v němž bych jedl Paschu se svými učedníky?‘
+[11] a řekněte hospodáři: ‚Učitel ti vzkazuje: Kde je pokoj pro hosty, v němž bych jedl ⟦pesach|Pesach|velikonočního beránka⟧ se svými učedníky?‘
 
 [12] A on vám ukáže velkou horní místnost, prostřenou; tam připravte.“
 
-[13] Odešli a nalezli všechno tak, jak jim řekl, a připravili Paschu.
+[13] Odešli a nalezli všechno tak, jak jim řekl, a připravili ⟦pesach|Pesach|velikonočního beránka⟧.
 
 [14] Když nastala hodina, usadil se ke stolu a apoštolové s ním.
 
-[15] Řekl jim: „Velice jsem toužil jíst s vámi tuto Paschu, dříve než budu trpět.
+[15] Řekl jim: „Velice jsem toužil jíst s vámi ⟦pesach|tento Pesach|tohoto velikonočního beránka⟧, dříve než budu trpět.
 
-[16] Neboť vám pravím, že ji již nebudu jíst, dokud se nenaplní v království *Elohim*.“
+[16] Neboť vám pravím, že ji již nebudu jíst, dokud se nenaplní v království ⟦elohim|Elohim|Božím⟧.“
 
 [17] Vzal kalich, vzdal díky a řekl: „Vezměte to a rozdělte se o to mezi sebou.
 
-[18] Neboť vám pravím, že od nynějška nebudu pít z plodu vinné révy, dokud nepřijde království *Elohim*.“
+[18] Neboť vám pravím, že od nynějška nebudu pít z plodu vinné révy, dokud nepřijde království ⟦elohim|Elohim|Boží⟧.“
 
 [19] Vzal chléb, vzdal díky, lámal ho a dával jim se slovy: „Toto je mé tělo, které se za vás dává. To čiňte na mou památku.“
 
@@ -58,15 +58,15 @@
 
 [29] a já vám odkazuji království, jako je můj Otec odkázal mně,
 
-[30] abyste jedli a pili u mého stolu v mém království a seděli na trůnech a soudili dvanáct kmenů Israele.
+[30] abyste jedli a pili u mého stolu v mém království a seděli na trůnech a soudili dvanáct kmenů ⟦israel|Jisraele|Izraele⟧.
 
-[31] „Simone, Simone, hle, Satan si vás vyžádal, aby vás prosíval jako pšenici,
+[31] „Šimone, Šimone, hle, Satan si vás vyžádal, aby vás prosíval jako pšenici,
 
 [32] ale já jsem prosil za tebe, aby tvá víra neselhala. A až se obrátíš, posiluj své bratry.“
 
-[33] *Kefa* mu řekl: „Pane, jsem připraven jít s tebou do vězení i na smrt.“
+[33] ⟦peter|Kefa|Petr⟧ mu řekl: „Pane, jsem připraven jít s tebou do vězení i na smrt.“
 
-[34] *Yeshua* řekl: „Pravím ti, *Kefo*, dnes nezakokrhá kohout, dokud třikrát nezapřeš, že mě znáš.“
+[34] ⟦yeshua|Ješua|Ježíš⟧ řekl: „Pravím ti, ⟦peter|Kefo|Petře⟧, dnes nezakokrhá kohout, dokud třikrát nezapřeš, že mě znáš.“
 
 [35] A řekl jim: „Když jsem vás poslal bez měšce, mošny a sandálů, měli jste v něčem nedostatek?“ Řekli: „V ničem.“
 
@@ -76,7 +76,7 @@
 
 [38] Řekli: „Pane, hle, tady jsou dva meče.“ Řekl jim: „To stačí.“
 
-[39] Vyšel a šel podle svého zvyku na Olivovou horu, a učedníci ho následovali.
+[39] Vyšel a šel podle svého zvyku na ⟦mount-of-olives|Har HaZejtim|Olivovou horu⟧, a učedníci ho následovali.
 
 [40] Když přišel na to místo, řekl jim: „Modlete se, abyste nevešli do pokušení.“
 
@@ -92,53 +92,53 @@
 
 [46] a řekl jim: „Proč spíte? Vstaňte a modlete se, abyste nevešli do pokušení.“
 
-[47] Ještě mluvil, a hle, přišel zástup a vedl ho ten, který se jmenoval Judas, jeden ze dvanácti. Přiblížil se k *Yeshuovi*, aby ho políbil,
+[47] Ještě mluvil, a hle, přišel zástup a vedl ho ten, který se jmenoval ⟦judas|Jehuda|Jidáš⟧, jeden ze dvanácti. Přiblížil se k ⟦yeshua|Ješuovi|Ježíšovi⟧, aby ho políbil,
 
-[48] ale *Yeshua* mu řekl: „Judasi, políbením zrazuješ Syna člověka?“
+[48] ale ⟦yeshua|Ješua|Ježíš⟧ mu řekl: „⟦judas|Jehudo|Jidáši⟧, políbením zrazuješ Syna člověka?“
 
 [49] Když ti, kdo byli kolem něho, viděli, co nastane, řekli: „Pane, máme udeřit mečem?“
 
 [50] A jeden z nich udeřil služebníka velekněze a uťal mu pravé ucho.
 
-[51] *Yeshua* však řekl: „Dost! Nechte toho!“ Dotkl se jeho ucha a uzdravil ho.
+[51] ⟦yeshua|Ješua|Ježíš⟧ však řekl: „Dost! Nechte toho!“ Dotkl se jeho ucha a uzdravil ho.
 
-[52] Pak řekl *Yeshua* velekněžím, velitelům chrámové stráže a starším, kteří proti němu vyšli: „Vyšli jste jako na lupiče, s meči a kyji?
+[52] Pak řekl ⟦yeshua|Ješua|Ježíš⟧ velekněžím, velitelům chrámové stráže a starším, kteří proti němu vyšli: „Vyšli jste jako na lupiče, s meči a kyji?
 
 [53] Když jsem byl den co den s vámi v chrámě, nevztáhli jste na mne ruce. Ale toto je vaše hodina a moc tmy.“
 
-[54] Zmocnili se ho, odvedli ho a přivedli do domu velekněze; *Kefa* šel zpovzdálí za ním.
+[54] Zmocnili se ho, odvedli ho a přivedli do domu velekněze; ⟦peter|Kefa|Petr⟧ šel zpovzdálí za ním.
 
-[55] Když uprostřed nádvoří rozdělali oheň a posadili se spolu, posadil se *Kefa* mezi ně.
+[55] Když uprostřed nádvoří rozdělali oheň a posadili se spolu, posadil se ⟦peter|Kefa|Petr⟧ mezi ně.
 
 [56] Jedna služka ho uviděla, jak sedí u světla, upřeně se na něj podívala a řekla: „Tento byl také s ním.“
 
 [57] On však zapřel: „Ženo, neznám ho.“
 
-[58] Zanedlouho ho uviděl někdo jiný a řekl: „I ty jsi jeden z nich.“ *Kefa* však řekl: „Člověče, nejsem.“
+[58] Zanedlouho ho uviděl někdo jiný a řekl: „I ty jsi jeden z nich.“ ⟦peter|Kefa|Petr⟧ však řekl: „Člověče, nejsem.“
 
 [59] Asi po hodině tvrdil zase jiný: „Opravdu i tento byl s ním, vždyť je také Galilejec.“
 
-[60] *Kefa* však řekl: „Člověče, nevím, o čem mluvíš.“ A ihned, ještě než domluvil, zakokrhal kohout.
+[60] ⟦peter|Kefa|Petr⟧ však řekl: „Člověče, nevím, o čem mluvíš.“ A ihned, ještě než domluvil, zakokrhal kohout.
 
-[61] Pán se obrátil a pohlédl na *Kefu*. I rozpomenul se *Kefa* na slovo Páně, jak mu řekl: „Dříve než dnes kohout zakokrhá, třikrát mě zapřeš.“
+[61] Pán se obrátil a pohlédl na ⟦peter|Kefu|Petra⟧. I rozpomenul se ⟦peter|Kefa|Petr⟧ na slovo Páně, jak mu řekl: „Dříve než dnes kohout zakokrhá, třikrát mě zapřeš.“
 
 [62] Vyšel ven a hořce se rozplakal.
 
-[63] Muži, kteří *Yeshuu* hlídali, se mu posmívali a bili ho.
+[63] Muži, kteří ⟦yeshua|Ješuu|Ježíše⟧ hlídali, se mu posmívali a bili ho.
 
 [64] Zavázali mu také oči a vyptávali se ho: „Prorokuj! Kdo tě to udeřil?“
 
 [65] A mnoho jiného proti němu říkali a rouhali se mu.
 
-[66] Když nastal den, sešla se rada starších lidu, velekněží i zákoníci. Odvedli ho do své velerady a řekli:
+[66] Když nastal den, sešla se rada starších lidu, velekněží i zákoníci. Odvedli ho do ⟦sanhedrin|svého Sanhedrinu|své velerady⟧ a řekli:
 
-[67] „Jsi-li *Mashiach*, řekni nám to.“ On jim však řekl: „Řeknu-li vám to, neuvěříte,
+[67] „Jsi-li ⟦mashiach|Mašiach|Mesiáš⟧, řekni nám to.“ On jim však řekl: „Řeknu-li vám to, neuvěříte,
 
 [68] a zeptám-li se já vás, neodpovíte.
 
-[69] Ale od nynějška **bude Syn člověka sedět po pravici moci *Elohim*.**“
+[69] Ale od nynějška **bude Syn člověka sedět po pravici moci ⟦elohim|Elohim|Boží⟧.**“
 
-[70] Tu řekli všichni: „Ty jsi tedy Syn *Elohim*?“ On jim řekl: „Vy říkáte, že jsem.“
+[70] Tu řekli všichni: „Ty jsi tedy Syn ⟦elohim|Elohim|Boží⟧?“ On jim řekl: „Vy říkáte, že jsem.“
 
 [71] Oni řekli: „Nač ještě potřebujeme svědectví? Sami jsme to slyšeli z jeho úst.“
 

@@ -41,7 +41,7 @@ they beat me, they bruised me,
 they took away my veil,
 those watchmen of the walls.
 
-[8] I adjure you, O daughters of Jerusalem,
+[8] I adjure you, O daughters of ⟦jerusalem|Yerushalayim|Jerusalem⟧,
 if you find my beloved,
 that you tell him
 I am sick with love.
@@ -74,13 +74,13 @@ bedecked with sapphires.
 
 [15] His legs are alabaster columns,
 set on bases of gold.
-His appearance is like Lebanon,
+His appearance is like ⟦lebanon|Levanon|Lebanon⟧,
 choice as the cedars.
 
 [16] His mouth is most sweet,
 and he is altogether desirable.
 This is my beloved and this is my friend,
-O daughters of Jerusalem.
+O daughters of ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
 ## Changes
 

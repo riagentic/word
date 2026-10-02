@@ -1,70 +1,70 @@
 # Matthew 4
 
-[1] Then *Yeshua* was led up by the Spirit into the wilderness to be tempted by the devil.
+[1] Then ⟦yeshua|Yeshua|Jesus⟧ was led up by the Spirit into the wilderness to be tempted by the devil.
 
 [2] And after fasting forty days and forty nights, he was hungry.
 
-[3] And the tempter came and said to him, "If you are the Son of *Elohim*, command these stones to become loaves of bread."
+[3] And the tempter came and said to him, "If you are the Son of ⟦elohim|Elohim|God⟧, command these stones to become loaves of bread."
 
 [4] But he answered, "It is written,
 
 "'Man shall not live by bread alone,
-but by every word that comes from the mouth of *Elohim*.'"
+but by every word that comes from the mouth of ⟦elohim|Elohim|God⟧.'"
 
 [5] Then the devil took him to the holy city and set him on the pinnacle of the temple
 
-[6] and said to him, "If you are the Son of *Elohim*, throw yourself down, for it is written,
+[6] and said to him, "If you are the Son of ⟦elohim|Elohim|God⟧, throw yourself down, for it is written,
 
 "'He will command his angels concerning you,'
 and
 "'On their hands they will bear you up,
 lest you strike your foot against a stone.'"
 
-[7] *Yeshua* said to him, "Again it is written, 'You shall not put the Lord your *Elohim* to the test.'"
+[7] ⟦yeshua|Yeshua|Jesus⟧ said to him, "Again it is written, 'You shall not put ⟦yhwh|Yahweh|the Lord⟧ your ⟦elohim|Elohim|God⟧ to the test.'"
 
 [8] Again, the devil took him to a very high mountain and showed him all the kingdoms of the world and their glory.
 
 [9] And he said to him, "All these I will give you, if you will fall down and worship me."
 
-[10] Then *Yeshua* said to him, "Be gone, Satan! For it is written,
+[10] Then ⟦yeshua|Yeshua|Jesus⟧ said to him, "Be gone, Satan! For it is written,
 
-"'You shall worship the Lord your *Elohim*
+"'You shall worship ⟦yhwh|Yahweh|the Lord⟧ your ⟦elohim|Elohim|God⟧
 and him only shall you serve.'"
 
 [11] Then the devil left him, and behold, angels came and were ministering to him.
 
-[12] Now when he heard that John had been arrested, he withdrew into Galilee.
+[12] Now when he heard that ⟦john|Yochanan|John⟧ had been arrested, he withdrew into ⟦galilee|Galil|Galilee⟧.
 
-[13] And leaving Nazareth he went and lived in Capernaum — by the sea, in the territory of Zebulun and Naphtali,
+[13] And leaving ⟦nazareth|Natzrat|Nazareth⟧ he went and lived in ⟦capernaum|Kfar Nachum|Capernaum⟧ — by the sea, in the territory of ⟦zebulun|Zevulun|Zebulun⟧ and ⟦naphtali|Naftali|Naphtali⟧,
 
-[14] so that what was spoken by the prophet Isaiah might be fulfilled:
+[14] so that what was spoken by the prophet ⟦isaiah|Yeshayahu|Isaiah⟧ might be fulfilled:
 
-[15] "The land of Zebulun and the land of Naphtali,
-the way of the sea, beyond the Jordan,
-Galilee of the Gentiles —
+[15] "The land of ⟦zebulun|Zevulun|Zebulun⟧ and the land of ⟦naphtali|Naftali|Naphtali⟧,
+the way of the sea, beyond the ⟦jordan|Yarden|Jordan⟧,
+⟦galilee|Galil|Galilee⟧ of the Gentiles —
 
 [16] the people dwelling in darkness
 have seen a great light,
 and for those dwelling in the region and shadow of death,
 on them a light has dawned."
 
-[17] From that time *Yeshua* began to preach, saying, "**Repent, for the kingdom of heaven is at hand.**"
+[17] From that time ⟦yeshua|Yeshua|Jesus⟧ began to preach, saying, "**Repent, for the kingdom of heaven is at hand.**"
 
-[18] While walking by the Sea of Galilee, he saw two brothers, Simon (who is called *Kefa*) and Andrew his brother, casting a net into the sea, for they were fishermen.
+[18] While walking by the Sea of ⟦galilee|Galil|Galilee⟧, he saw two brothers, ⟦simon|Shimon|Simon⟧ (who is called ⟦peter|Kefa|Peter⟧) and ⟦andrew|Andreas|Andrew⟧ his brother, casting a net into the sea, for they were fishermen.
 
 [19] And he said to them, "Follow me, and I will make you fishers of men."
 
 [20] Immediately they left their nets and followed him.
 
-[21] And going on from there he saw two other brothers, Jacob son of Zebedee and John his brother, in the boat with Zebedee their father, mending their nets, and he called them.
+[21] And going on from there he saw two other brothers, ⟦james|Yaaqov|James⟧ son of ⟦zebedee|Zebedaios|Zebedee⟧ and ⟦john|Yochanan|John⟧ his brother, in the boat with ⟦zebedee|Zebedaios|Zebedee⟧ their father, mending their nets, and he called them.
 
 [22] Immediately they left the boat and their father and followed him.
 
-[23] And he went throughout all Galilee, teaching in their synagogues and proclaiming the gospel of the kingdom, and healing every disease and every affliction among the people.
+[23] And he went throughout all ⟦galilee|Galil|Galilee⟧, teaching in their synagogues and proclaiming the gospel of the kingdom, and healing every disease and every affliction among the people.
 
 [24] So his fame spread throughout all Syria, and they brought him all the sick, those afflicted with various diseases and pains, those oppressed by demons, epileptics, and paralytics, and he healed them.
 
-[25] And great crowds followed him from Galilee and the Decapolis, and from Jerusalem and Judea, and from beyond the Jordan.
+[25] And great crowds followed him from ⟦galilee|Galil|Galilee⟧ and the Decapolis, and from ⟦jerusalem|Yerushalayim|Jerusalem⟧ and ⟦judea|Yehudah|Judea⟧, and from beyond the ⟦jordan|Yarden|Jordan⟧.
 
 ## Changes
 

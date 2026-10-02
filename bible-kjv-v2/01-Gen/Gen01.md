@@ -1,66 +1,66 @@
 # Genesis 1
 
-[1] In the beginning, *Elohim* created the heavens and the earth.
+[1] In the beginning, ⟦elohim|Elohim|God⟧ created the heavens and the earth.
 
-[2] The earth was wild and waste, and darkness was over the face of the deep; and the Spirit of *Elohim* was hovering over the face of the waters.
+[2] The earth was wild and waste, and darkness was over the face of the deep; and the Spirit of ⟦elohim|Elohim|God⟧ was hovering over the face of the waters.
 
-[3] And *Elohim* said, "Let there be light," and there was light.
+[3] And ⟦elohim|Elohim|God⟧ said, "Let there be light," and there was light.
 
-[4] *Elohim* saw that the light was good, and *Elohim* separated the light from the darkness.
+[4] ⟦elohim|Elohim|God⟧ saw that the light was good, and ⟦elohim|Elohim|God⟧ separated the light from the darkness.
 
-[5] *Elohim* called the light "Day," and the darkness he called "Night." And there was evening, and there was morning — day one.
+[5] ⟦elohim|Elohim|God⟧ called the light "Day," and the darkness he called "Night." And there was evening, and there was morning — day one.
 
-[6] And *Elohim* said, "Let there be a vault in the midst of the waters, and let it separate the waters from the waters."
+[6] And ⟦elohim|Elohim|God⟧ said, "Let there be a vault in the midst of the waters, and let it separate the waters from the waters."
 
-[7] So *Elohim* made the vault and separated the waters under the vault from the waters above the vault. And it was so.
+[7] So ⟦elohim|Elohim|God⟧ made the vault and separated the waters under the vault from the waters above the vault. And it was so.
 
-[8] *Elohim* called the vault "Heavens." And there was evening, and there was morning — a second day.
+[8] ⟦elohim|Elohim|God⟧ called the vault "Heavens." And there was evening, and there was morning — a second day.
 
-[9] And *Elohim* said, "Let the waters under the heavens be gathered to one place, and let the dry ground appear." And it was so.
+[9] And ⟦elohim|Elohim|God⟧ said, "Let the waters under the heavens be gathered to one place, and let the dry ground appear." And it was so.
 
-[10] *Elohim* called the dry ground "Land," and the gathered waters he called "Seas." And *Elohim* saw that it was good.
+[10] ⟦elohim|Elohim|God⟧ called the dry ground "Land," and the gathered waters he called "Seas." And ⟦elohim|Elohim|God⟧ saw that it was good.
 
-[11] And *Elohim* said, "Let the land sprout vegetation: seed-bearing plants and fruit trees bearing fruit with seed in it, each according to its kind, upon the land." And it was so.
+[11] And ⟦elohim|Elohim|God⟧ said, "Let the land sprout vegetation: seed-bearing plants and fruit trees bearing fruit with seed in it, each according to its kind, upon the land." And it was so.
 
-[12] The land brought forth vegetation: plants bearing seed according to their kinds, and trees bearing fruit with seed in it according to their kinds. And *Elohim* saw that it was good.
+[12] The land brought forth vegetation: plants bearing seed according to their kinds, and trees bearing fruit with seed in it according to their kinds. And ⟦elohim|Elohim|God⟧ saw that it was good.
 
 [13] And there was evening, and there was morning — a third day.
 
-[14] And *Elohim* said, "Let there be lights in the vault of the heavens to separate the day from the night, and let them be for signs, for appointed times, for days, and for years,
+[14] And ⟦elohim|Elohim|God⟧ said, "Let there be lights in the vault of the heavens to separate the day from the night, and let them be for signs, for appointed times, for days, and for years,
 
 [15] and let them be lights in the vault of the heavens to give light upon the earth." And it was so.
 
-[16] *Elohim* made the two great lights — the greater light to govern the day, and the lesser light to govern the night — and the stars.
+[16] ⟦elohim|Elohim|God⟧ made the two great lights — the greater light to govern the day, and the lesser light to govern the night — and the stars.
 
-[17] *Elohim* set them in the vault of the heavens to give light upon the earth,
+[17] ⟦elohim|Elohim|God⟧ set them in the vault of the heavens to give light upon the earth,
 
-[18] to govern the day and the night, and to separate the light from the darkness. And *Elohim* saw that it was good.
+[18] to govern the day and the night, and to separate the light from the darkness. And ⟦elohim|Elohim|God⟧ saw that it was good.
 
 [19] And there was evening, and there was morning — a fourth day.
 
-[20] And *Elohim* said, "Let the waters swarm with swarms of living beings, and let birds fly above the earth across the face of the vault of the heavens."
+[20] And ⟦elohim|Elohim|God⟧ said, "Let the waters swarm with swarms of living beings, and let birds fly above the earth across the face of the vault of the heavens."
 
-[21] So *Elohim* created the great sea creatures and every living being that moves, with which the waters swarm, according to their kinds, and every winged bird according to its kind. And *Elohim* saw that it was good.
+[21] So ⟦elohim|Elohim|God⟧ created the great sea creatures and every living being that moves, with which the waters swarm, according to their kinds, and every winged bird according to its kind. And ⟦elohim|Elohim|God⟧ saw that it was good.
 
-[22] *Elohim* blessed them, saying, "Be fruitful and multiply, and fill the waters in the seas, and let the birds multiply on the earth."
+[22] ⟦elohim|Elohim|God⟧ blessed them, saying, "Be fruitful and multiply, and fill the waters in the seas, and let the birds multiply on the earth."
 
 [23] And there was evening, and there was morning — a fifth day.
 
-[24] And *Elohim* said, "Let the land bring forth living beings according to their kinds: livestock, creeping things, and wild animals of the land according to their kinds." And it was so.
+[24] And ⟦elohim|Elohim|God⟧ said, "Let the land bring forth living beings according to their kinds: livestock, creeping things, and wild animals of the land according to their kinds." And it was so.
 
-[25] *Elohim* made the wild animals of the land according to their kinds, the livestock according to their kinds, and every creeping thing of the ground according to its kind. And *Elohim* saw that it was good.
+[25] ⟦elohim|Elohim|God⟧ made the wild animals of the land according to their kinds, the livestock according to their kinds, and every creeping thing of the ground according to its kind. And ⟦elohim|Elohim|God⟧ saw that it was good.
 
-[26] Then *Elohim* said, "Let us make humankind in our image, according to our likeness, and let them rule over the fish of the sea, the birds of the heavens, the livestock, all the earth, and every creeping thing that creeps on the earth."
+[26] Then ⟦elohim|Elohim|God⟧ said, "Let us make humankind in our image, according to our likeness, and let them rule over the fish of the sea, the birds of the heavens, the livestock, all the earth, and every creeping thing that creeps on the earth."
 
-[27] So *Elohim* created the human in his own image; in the image of *Elohim* he created him; male and female he created them.
+[27] So ⟦elohim|Elohim|God⟧ created the human in his own image; in the image of ⟦elohim|Elohim|God⟧ he created him; male and female he created them.
 
-[28] *Elohim* blessed them, and *Elohim* said to them, "Be fruitful and multiply, and fill the earth and subdue it. Rule over the fish of the sea, the birds of the heavens, and every living thing that moves on the earth."
+[28] ⟦elohim|Elohim|God⟧ blessed them, and ⟦elohim|Elohim|God⟧ said to them, "Be fruitful and multiply, and fill the earth and subdue it. Rule over the fish of the sea, the birds of the heavens, and every living thing that moves on the earth."
 
-[29] And *Elohim* said, "Behold, I have given you every seed-bearing plant on the face of all the earth, and every tree that has seed-bearing fruit. They shall be yours for food.
+[29] And ⟦elohim|Elohim|God⟧ said, "Behold, I have given you every seed-bearing plant on the face of all the earth, and every tree that has seed-bearing fruit. They shall be yours for food.
 
 [30] And to every wild animal of the earth, every bird of the heavens, and every creature that creeps on the earth — everything that has the breath of life in it — I have given every green plant for food." And it was so.
 
-[31] *Elohim* saw everything he had made, and behold, it was very good. And there was evening, and there was morning — the sixth day.
+[31] ⟦elohim|Elohim|God⟧ saw everything he had made, and behold, it was very good. And there was evening, and there was morning — the sixth day.
 
 ## Changes
 

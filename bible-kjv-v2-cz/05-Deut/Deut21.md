@@ -1,6 +1,6 @@
 # Deuteronomium 21
 
-[1] „Najde-li se v zemi, kterou ti Yahweh, tvůj *Elohim*, dává, abys ji vlastnil, někdo zabitý, jak leží na otevřeném poli, a neví se, kdo ho ubil,
+[1] „Najde-li se v zemi, kterou ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, dává, abys ji vlastnil, někdo zabitý, jak leží na otevřeném poli, a neví se, kdo ho ubil,
 
 [2] pak vyjdou tvoji starší a tvoji soudci a odměří vzdálenost k městům, která jsou kolem zabitého.
 
@@ -8,17 +8,17 @@
 
 [4] a starší toho města svedou jalovici dolů do údolí s tekoucí vodou, které se neoře ani neoseje, a tam v údolí jalovici zlomí vaz.
 
-[5] Přistoupí kněží, synové Leviho, neboť je Yahweh, tvůj *Elohim*, vyvolil, aby mu sloužili a žehnali ve jménu Yahweh, a podle jejich slova bude rozhodnut každý spor a každé napadení.
+[5] Přistoupí kněží, synové ⟦levi|Leviho|Léviho⟧, neboť je ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, vyvolil, aby mu sloužili a žehnali ve jménu ⟦yhwh|Jahveho|Hospodina⟧, a podle jejich slova bude rozhodnut každý spor a každé napadení.
 
 [6] Všichni starší toho města, kteří jsou zabitému nejblíže, si umyjí ruce nad jalovicí, které byl v údolí zlomen vaz,
 
 [7] a prohlásí: ‚Naše ruce tuto krev neprolily a naše oči to neviděly.
 
-[8] Smiř, Yahweh, svůj lid Israel, který jsi vykoupil, a nepřičítej nevinnou krev svému lidu Israeli.‘ A vina krve jim bude smířena.
+[8] Smiř, ⟦yhwh|Jahve|Hospodine⟧, svůj lid ⟦israel|Jisrael|Izrael⟧, který jsi vykoupil, a nepřičítej nevinnou krev svému lidu ⟦israel|Jisraeli|Izraeli⟧.‘ A vina krve jim bude smířena.
 
-[9] Tak odstraníš vinu nevinné krve ze svého středu, když budeš činit, co je správné v očích Yahweh.
+[9] Tak odstraníš vinu nevinné krve ze svého středu, když budeš činit, co je správné v očích ⟦yhwh|Jahveho|Hospodina⟧.
 
-[10] Když vytáhneš do války proti svým nepřátelům a Yahweh, tvůj *Elohim*, ti je vydá do ruky a zajmeš je,
+[10] Když vytáhneš do války proti svým nepřátelům a ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, ti je vydá do ruky a zajmeš je,
 
 [11] a uvidíš mezi zajatci krásnou ženu, zatoužíš po ní a chtěl by sis ji vzít za manželku,
 
@@ -40,11 +40,11 @@
 
 [20] a řeknou starším jeho města: ‚Tento náš syn je tvrdohlavý a vzpurný; neposlouchá náš hlas; je žrout a opilec.‘
 
-[21] Potom ho všichni muži jeho města ukamenují kameny k smrti. Tak odstraníš zlo ze svého středu; a celý Israel to uslyší a bude se bát.
+[21] Potom ho všichni muži jeho města ukamenují kameny k smrti. Tak odstraníš zlo ze svého středu; a celý ⟦israel|Jisrael|Izrael⟧ to uslyší a bude se bát.
 
 [22] Jestliže se muž dopustí zločinu, který se trestá smrtí, a je usmrcen a pověsíš ho na strom,
 
-[23] jeho mrtvola nezůstane na stromě přes noc; pohřbíš ho téhož dne – neboť pověšený je pod kletbou *Elohim* – abys neposkvrnil svou zemi, kterou ti Yahweh, tvůj *Elohim*, dává do dědictví.
+[23] jeho mrtvola nezůstane na stromě přes noc; pohřbíš ho téhož dne – neboť pověšený je pod kletbou ⟦elohim|Elohim|Boží⟧ – abys neposkvrnil svou zemi, kterou ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, dává do dědictví.
 
 ## Změny
 

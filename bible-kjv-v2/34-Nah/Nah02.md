@@ -6,8 +6,8 @@ watch the road;
 dress for battle;
 collect all your strength.
 
-[2] For Yahweh is restoring the majesty of Jacob
-as the majesty of Israel,
+[2] For ⟦yhwh|Yahweh|the LORD⟧ is restoring the majesty of ⟦jacob|Yaaqov|Jacob⟧
+as the majesty of ⟦israel|Yisrael|Israel⟧,
 for plunderers have plundered them
 and ruined their branches.
 
@@ -36,7 +36,7 @@ her slave girls lamenting,
 moaning like doves
 and beating their breasts.
 
-[8] Nineveh is like a pool
+[8] ⟦nineveh|Ninveh|Nineveh⟧ is like a pool
 whose waters run away.
 "Halt! Halt!" they cry,
 but none turns back.
@@ -60,7 +60,7 @@ and strangled prey for his lionesses;
 he filled his caves with prey
 and his dens with torn flesh.
 
-[13] Behold, I am against you, declares Yahweh of Hosts,
+[13] Behold, I am against you, declares ⟦yhwh|Yahweh|the LORD⟧ of Hosts,
 and I will burn your chariots in smoke,
 and the sword shall devour your young lions.
 I will cut off your prey from the earth,

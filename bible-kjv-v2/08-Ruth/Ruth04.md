@@ -4,45 +4,45 @@
 
 [2] Boaz took ten men of the elders of the city and said, "Sit down here." So they sat down.
 
-[3] He said to the kinsman-redeemer, "Naomi, who has returned from the country of Moab, is selling the parcel of land that was our brother Elimelech's.
+[3] He said to the kinsman-redeemer, "⟦naomi|Noomi|Naomi⟧, who has returned from the country of ⟦moab|Moav|Moab⟧, is selling the parcel of land that was our brother Elimelech's.
 
 [4] I thought to disclose it to you, saying, 'Buy it before those sitting here and before the elders of my people. If you will redeem it, redeem it; but if you will not, tell me, so that I may know, for there is no one else to redeem it except you, and I am after you.'" He said, "I will redeem it."
 
-[5] Then Boaz said, "On the day you buy the field from the hand of Naomi, you also acquire Ruth the Moabitess, the wife of the dead, to raise up the name of the dead upon his inheritance."
+[5] Then Boaz said, "On the day you buy the field from the hand of ⟦naomi|Noomi|Naomi⟧, you also acquire ⟦ruth|Rut|Ruth⟧ the ⟦moabites|Moaviyah|Moabitess⟧, the wife of the dead, to raise up the name of the dead upon his inheritance."
 
 [6] The kinsman-redeemer said, "Then I cannot redeem it for myself, lest I ruin my own inheritance. Redeem for yourself what is mine to redeem; for I cannot redeem it."
 
-[7] Now this was the custom in former times in Israel concerning redemption and exchange: to confirm any matter a man pulled off his sandal and gave it to his neighbor; this was the way of attestation in Israel.
+[7] Now this was the custom in former times in ⟦israel|Yisrael|Israel⟧ concerning redemption and exchange: to confirm any matter a man pulled off his sandal and gave it to his neighbor; this was the way of attestation in ⟦israel|Yisrael|Israel⟧.
 
 [8] So the kinsman-redeemer said to Boaz, "Buy it for yourself," and drew off his sandal.
 
-[9] Boaz said to the elders and to all the people, "You are witnesses today that I have acquired all that belonged to Elimelech, and all that belonged to Chilion and to Mahlon, from the hand of Naomi.
+[9] Boaz said to the elders and to all the people, "You are witnesses today that I have acquired all that belonged to Elimelech, and all that belonged to ⟦chilion|Kilyon|Chilion⟧ and to ⟦mahlon|Machlon|Mahlon⟧, from the hand of ⟦naomi|Noomi|Naomi⟧.
 
-[10] Moreover, I have acquired Ruth the Moabitess, the wife of Mahlon, to be my wife, to raise up the name of the dead upon his inheritance, that the name of the dead may not be cut off from among his brothers and from the gate of his place. You are witnesses today."
+[10] Moreover, I have acquired ⟦ruth|Rut|Ruth⟧ the ⟦moabites|Moaviyah|Moabitess⟧, the wife of ⟦mahlon|Machlon|Mahlon⟧, to be my wife, to raise up the name of the dead upon his inheritance, that the name of the dead may not be cut off from among his brothers and from the gate of his place. You are witnesses today."
 
-[11] All the people who were at the gate and the elders said, "We are witnesses. May Yahweh make the woman who is coming into your house like Rachel and Leah, who together built up the house of Israel. May you do worthily in Ephrathah and proclaim a name in Bethlehem.
+[11] All the people who were at the gate and the elders said, "We are witnesses. May ⟦yhwh|Yahweh|the LORD⟧ make the woman who is coming into your house like Rachel and Leah, who together built up the house of ⟦israel|Yisrael|Israel⟧. May you do worthily in ⟦ephrathah|Efratah|Ephrathah⟧ and proclaim a name in ⟦bethlehem|Beit Lechem|Bethlehem⟧.
 
-[12] May your house be like the house of Perez, whom Tamar bore to Judah, from the offspring that Yahweh will give you by this young woman."
+[12] May your house be like the house of ⟦perez|Peretz|Perez⟧, whom Tamar bore to ⟦judah|Yehudah|Judah⟧, from the offspring that ⟦yhwh|Yahweh|the LORD⟧ will give you by this young woman."
 
-[13] So Boaz took Ruth, and she became his wife; he went in to her, and Yahweh gave her conception, and she bore a son.
+[13] So Boaz took ⟦ruth|Rut|Ruth⟧, and she became his wife; he went in to her, and ⟦yhwh|Yahweh|the LORD⟧ gave her conception, and she bore a son.
 
-[14] The women said to Naomi, "Blessed be Yahweh, who has not left you this day without a kinsman-redeemer; may his name be proclaimed in Israel.
+[14] The women said to ⟦naomi|Noomi|Naomi⟧, "Blessed be ⟦yhwh|Yahweh|the LORD⟧, who has not left you this day without a kinsman-redeemer; may his name be proclaimed in ⟦israel|Yisrael|Israel⟧.
 
 [15] He shall be to you a restorer of life and a sustainer of your old age, for your daughter-in-law who loves you — who is better to you than seven sons — has borne him."
 
-[16] Naomi took the child and laid him on her bosom and became his nurse.
+[16] ⟦naomi|Noomi|Naomi⟧ took the child and laid him on her bosom and became his nurse.
 
-[17] The women of the neighborhood gave him a name, saying, "A son has been born to Naomi." They called his name Obed. He is the father of Jesse, the father of David.
+[17] The women of the neighborhood gave him a name, saying, "A son has been born to ⟦naomi|Noomi|Naomi⟧." They called his name ⟦obed|Oved|Obed⟧. He is the father of ⟦jesse|Yishai|Jesse⟧, the father of David.
 
-[18] Now these are the generations of Perez: Perez fathered Hezron,
+[18] Now these are the generations of ⟦perez|Peretz|Perez⟧: ⟦perez|Peretz|Perez⟧ fathered ⟦hezron|Chetzron|Hezron⟧,
 
-[19] and Hezron fathered Ram, and Ram fathered Amminadab,
+[19] and ⟦hezron|Chetzron|Hezron⟧ fathered Ram, and Ram fathered ⟦amminadab|Amminadav|Amminadab⟧,
 
-[20] and Amminadab fathered Nahshon, and Nahshon fathered Salmah,
+[20] and ⟦amminadab|Amminadav|Amminadab⟧ fathered ⟦nahshon|Nachshon|Nahshon⟧, and ⟦nahshon|Nachshon|Nahshon⟧ fathered ⟦salmah|Salmah|Salmon⟧,
 
-[21] and Salmah fathered Boaz, and Boaz fathered Obed,
+[21] and Salmon fathered Boaz, and Boaz fathered ⟦obed|Oved|Obed⟧,
 
-[22] and Obed fathered Jesse, and Jesse fathered David.
+[22] and ⟦obed|Oved|Obed⟧ fathered ⟦jesse|Yishai|Jesse⟧, and ⟦jesse|Yishai|Jesse⟧ fathered David.
 
 ## Changes
 
@@ -54,6 +54,7 @@
 - **"Salmon" → "Salmah"** (v20) — Hebrew variant.
 - **"Pharez" → "Perez"** (v12, 18) — standard modern form.
 - **"begat" → "fathered"** (v18–22) — modernized.
+- **"Salmon" kept** (v21) — Hebrew שַׂלְמוֹן *Salmon* here, שַׂלְמָה *Salmah* in v20; the Hebrew has both spellings side by side.
 
 ### Notes
 - **City gate court** — the legal forum. Ten elders witness the transaction.

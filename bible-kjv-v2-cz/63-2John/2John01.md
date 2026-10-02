@@ -4,7 +4,7 @@
 
 [2] pro pravdu, která v nás zůstává a bude s námi navěky:
 
-[3] Milost, milosrdenství a pokoj bude s námi od *Elohim* Otce a od *Yeshuy* *Mashiacha*, Syna Otcova, v pravdě a lásce.
+[3] Milost, milosrdenství a pokoj bude s námi od ⟦elohim|Elohim|Boha⟧ Otce a od ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧, Syna Otcova, v pravdě a lásce.
 
 [4] Velmi jsem se zaradoval, když jsem shledal, že někteří z tvých dětí žijí v pravdě, jak jsme dostali přikázání od Otce.
 
@@ -12,11 +12,11 @@
 
 [6] A to je láska, abychom žili podle jeho přikázání; to je to přikázání, jak jste slyšeli od počátku, abyste v něm žili.
 
-[7] Do světa totiž vyšlo mnoho svůdců, kteří nevyznávají příchod *Yeshuy* *Mashiacha* v těle. Takový je ten svůdce a antikrist.
+[7] Do světa totiž vyšlo mnoho svůdců, kteří nevyznávají příchod ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧ v těle. Takový je ten svůdce a antikrist.
 
 [8] Dávejte si pozor, abyste neztratili, co jsme vypracovali, ale abyste obdrželi plnou odměnu.
 
-[9] Každý, kdo jde dál a nezůstává v učení *Mashiacha*, nemá *Elohim*. Kdo zůstává v tom učení, má Otce i Syna.
+[9] Každý, kdo jde dál a nezůstává v učení ⟦mashiach|Mašiacha|Krista⟧, nemá ⟦elohim|Elohim|Boha⟧. Kdo zůstává v tom učení, má Otce i Syna.
 
 [10] Přijde-li k vám někdo a nepřináší toto učení, nepřijímejte ho do domu a nepozdravujte ho,
 

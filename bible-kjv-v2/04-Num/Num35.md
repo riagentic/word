@@ -1,24 +1,24 @@
 # Numbers 35
 
-[1] Yahweh spoke to Moses in the plains of Moab by the Jordan at Jericho, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧ in the plains of ⟦moab|Moav|Moab⟧ by the ⟦jordan|Yarden|Jordan⟧ at ⟦jericho|Yericho|Jericho⟧, saying,
 
-[2] "Command the children of Israel to give to the Levites, out of the inheritance of their possession, cities to dwell in; and you shall also give the Levites pasturelands around the cities.
+[2] "Command the children of ⟦israel|Yisrael|Israel⟧ to give to the ⟦levites|Leviyim|Levites⟧, out of the inheritance of their possession, cities to dwell in; and you shall also give the ⟦levites|Leviyim|Levites⟧ pasturelands around the cities.
 
 [3] The cities shall be theirs to dwell in, and their pasturelands shall be for their livestock, their property, and all their animals.
 
-[4] The pasturelands of the cities that you give to the Levites shall extend from the city wall outward a thousand cubits all around.
+[4] The pasturelands of the cities that you give to the ⟦levites|Leviyim|Levites⟧ shall extend from the city wall outward a thousand cubits all around.
 
 [5] You shall measure outside the city, on the east side two thousand cubits, on the south side two thousand cubits, on the west side two thousand cubits, and on the north side two thousand cubits, with the city in the middle; this shall be the pasturelands of their cities.
 
-[6] The cities that you give to the Levites shall include the six cities of refuge, which you shall designate for the manslayer to flee to; and besides these you shall give forty-two cities.
+[6] The cities that you give to the ⟦levites|Leviyim|Levites⟧ shall include the six cities of refuge, which you shall designate for the manslayer to flee to; and besides these you shall give forty-two cities.
 
-[7] All the cities that you give to the Levites shall be forty-eight cities, together with their pasturelands.
+[7] All the cities that you give to the ⟦levites|Leviyim|Levites⟧ shall be forty-eight cities, together with their pasturelands.
 
-[8] Of the cities that you give from the possession of the children of Israel — from the many you shall take many, and from the few you shall take few; each shall give some of its cities to the Levites in proportion to its inheritance."
+[8] Of the cities that you give from the possession of the children of ⟦israel|Yisrael|Israel⟧ — from the many you shall take many, and from the few you shall take few; each shall give some of its cities to the ⟦levites|Leviyim|Levites⟧ in proportion to its inheritance."
 
-[9] Yahweh spoke to Moses, saying,
+[9] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[10] "Speak to the children of Israel and say to them: 'When you cross the Jordan into the land of Canaan,
+[10] "Speak to the children of ⟦israel|Yisrael|Israel⟧ and say to them: 'When you cross the ⟦jordan|Yarden|Jordan⟧ into the land of ⟦canaan|Kenaan|Canaan⟧,
 
 [11] then you shall appoint cities to be cities of refuge for you, so that the manslayer who strikes down a person unintentionally may flee there.
 
@@ -26,9 +26,9 @@
 
 [13] The cities you give shall be six cities of refuge for you.
 
-[14] You shall give three cities beyond the Jordan, and three cities in the land of Canaan; they shall be cities of refuge.
+[14] You shall give three cities beyond the ⟦jordan|Yarden|Jordan⟧, and three cities in the land of ⟦canaan|Kenaan|Canaan⟧; they shall be cities of refuge.
 
-[15] These six cities shall be a refuge for the children of Israel, for the foreigner, and for the sojourner among them, so that anyone who strikes down a person unintentionally may flee there.
+[15] These six cities shall be a refuge for the children of ⟦israel|Yisrael|Israel⟧, for the foreigner, and for the sojourner among them, so that anyone who strikes down a person unintentionally may flee there.
 
 [16] But if he struck him with an iron instrument so that he died, he is a murderer; the murderer shall surely be put to death.
 
@@ -66,7 +66,7 @@
 
 [33] So you shall not pollute the land in which you dwell, for blood pollutes the land; and no atonement can be made for the land for the blood shed in it, except by the blood of the one who shed it.
 
-[34] Do not defile the land in which you dwell, in the midst of which I dwell; for I Yahweh dwell among the children of Israel.'"
+[34] Do not defile the land in which you dwell, in the midst of which I dwell; for I ⟦yhwh|Yahweh|the LORD⟧ dwell among the children of ⟦israel|Yisrael|Israel⟧.'"
 
 ## Changes
 

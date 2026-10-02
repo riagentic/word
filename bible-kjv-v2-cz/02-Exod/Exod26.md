@@ -1,6 +1,6 @@
 # Exodus 26
 
-[1] „Dále uděláš příbytek z deseti pruhů tkaniny z jemného soukaného plátna a z modré, purpurové a karmínové příze; uděláš je s umně vetkanými cheruby.
+[1] „Dále uděláš příbytek z deseti pruhů tkaniny z jemného soukaného plátna a z modré, purpurové a karmínové příze; uděláš je s umně vetkanými ⟦cherubim|keruvim|cheruby⟧.
 
 [2] Délka každého pruhu bude 28 loket a šířka každého pruhu 4 lokte; všechny pruhy budou stejné velikosti.
 
@@ -60,13 +60,13 @@
 
 [30] Postavíš příbytek podle plánu, který ti byl ukázán na hoře.
 
-[31] Uděláš oponu z modré, purpurové a karmínové příze a z jemného soukaného plátna; bude udělána s umně vetkanými cheruby.
+[31] Uděláš oponu z modré, purpurové a karmínové příze a z jemného soukaného plátna; bude udělána s umně vetkanými ⟦cherubim|keruvim|cheruby⟧.
 
 [32] Zavěsíš ji na čtyři sloupy z akácie potažené zlatem, se zlatými háčky, na čtyřech stříbrných podstavcích.
 
 [33] Oponu zavěsíš pod spony a tam, za oponu, vneseš truhlu Svědectví; opona vám bude oddělovat Svaté od Nejsvětějšího.
 
-[34] Slitovnici položíš na truhlu Svědectví v Nejsvětějším.
+[34] ⟦mercy-seat|Kapporet|Příkrov⟧ položíš na truhlu Svědectví v Nejsvětějším.
 
 [35] Stůl postavíš před oponu a svícen naproti stolu na jižní straně příbytku; a stůl dáš na severní stranu.
 

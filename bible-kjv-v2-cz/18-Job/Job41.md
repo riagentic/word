@@ -1,6 +1,6 @@
 # Jób 41
 
-[1] „Dokážeš vytáhnout Leviathana udicí
+[1] „Dokážeš vytáhnout ⟦leviathan|Livjatana|livjátana⟧ udicí
 nebo mu provazem přitisknout jazyk?
 
 [2] Dokážeš mu provléct provaz nosem

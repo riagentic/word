@@ -16,19 +16,19 @@
 
 [8] Whenever you enter a town and they receive you, eat what is set before you.
 
-[9] Heal the sick in it and say to them, 'The kingdom of *Elohim* has come near to you.'
+[9] Heal the sick in it and say to them, 'The kingdom of ⟦elohim|Elohim|God⟧ has come near to you.'
 
 [10] But whenever you enter a town and they do not receive you, go into its streets and say,
 
-[11] 'Even the dust of your town that clings to our feet we wipe off against you. Nevertheless know this, that the kingdom of *Elohim* has come near.'
+[11] 'Even the dust of your town that clings to our feet we wipe off against you. Nevertheless know this, that the kingdom of ⟦elohim|Elohim|God⟧ has come near.'
 
-[12] I tell you, it will be more bearable on that day for Sodom than for that town.
+[12] I tell you, it will be more bearable on that day for ⟦sodom|Sedom|Sodom⟧ than for that town.
 
-[13] "Woe to you, Chorazin! Woe to you, Bethsaida! For if the mighty works done in you had been done in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes.
+[13] "Woe to you, ⟦chorazin|Korazin|Chorazin⟧! Woe to you, ⟦bethsaida|Beit Tzaidah|Bethsaida⟧! For if the mighty works done in you had been done in ⟦tyre|Tzor|Tyre⟧ and ⟦sidon|Tzidon|Sidon⟧, they would have repented long ago, sitting in sackcloth and ashes.
 
-[14] But it will be more bearable in the judgment for Tyre and Sidon than for you.
+[14] But it will be more bearable in the judgment for ⟦tyre|Tzor|Tyre⟧ and ⟦sidon|Tzidon|Sidon⟧ than for you.
 
-[15] And you, Capernaum, will you be exalted to heaven? You shall be brought down to Sheol.
+[15] And you, ⟦capernaum|Kfar Nachum|Capernaum⟧, will you be exalted to heaven? You shall be brought down to Sheol.
 
 [16] "The one who hears you hears me, and the one who rejects you rejects me, and the one who rejects me rejects him who sent me."
 
@@ -40,7 +40,7 @@
 
 [20] Nevertheless, do not rejoice in this, that the spirits are subject to you, but rejoice that your names are written in heaven."
 
-[21] In that same hour he rejoiced in the *Ruach HaQodesh* and said, "I thank you, Father, Lord of heaven and earth, that you have hidden these things from the wise and understanding and revealed them to little children; yes, Father, for such was your gracious will.
+[21] In that same hour he rejoiced in the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧ and said, "I thank you, Father, Lord of heaven and earth, that you have hidden these things from the wise and understanding and revealed them to little children; yes, Father, for such was your gracious will.
 
 [22] All things have been handed over to me by my Father, and no one knows who the Son is except the Father, or who the Father is except the Son and anyone to whom the Son chooses to reveal him."
 
@@ -50,21 +50,21 @@
 
 [25] And behold, a lawyer stood up to put him to the test, saying, "Teacher, what shall I do to inherit eternal life?"
 
-[26] He said to him, "What is written in the Law? How do you read it?"
+[26] He said to him, "What is written in the ⟦torah|Torah|Law⟧? How do you read it?"
 
-[27] And he answered, "'**You shall love the Lord your *Elohim* with all your heart and with all your soul and with all your strength and with all your mind**, and **your neighbor as yourself**.'"
+[27] And he answered, "'**You shall love ⟦yhwh|Yahweh|the Lord⟧ your ⟦elohim|Elohim|God⟧ with all your heart and with all your soul and with all your strength and with all your mind**, and **your neighbor as yourself**.'"
 
 [28] And he said to him, "You have answered correctly; do this, and you will live."
 
-[29] But he, desiring to justify himself, said to *Yeshua*, "And who is my neighbor?"
+[29] But he, desiring to justify himself, said to ⟦yeshua|Yeshua|Jesus⟧, "And who is my neighbor?"
 
-[30] *Yeshua* replied, "A man was going down from Jerusalem to Jericho, and he fell among robbers, who stripped him and beat him and departed, leaving him half dead.
+[30] ⟦yeshua|Yeshua|Jesus⟧ replied, "A man was going down from ⟦jerusalem|Yerushalayim|Jerusalem⟧ to ⟦jericho|Yericho|Jericho⟧, and he fell among robbers, who stripped him and beat him and departed, leaving him half dead.
 
 [31] Now by chance a priest was going down that road, and when he saw him he passed by on the other side.
 
-[32] So likewise a Levite, when he came to the place and saw him, passed by on the other side.
+[32] So likewise a ⟦levites|Levi|Levite⟧, when he came to the place and saw him, passed by on the other side.
 
-[33] But a Samaritan, as he journeyed, came to where he was, and when he saw him, he had compassion.
+[33] But a ⟦samaritans|Shomroni|Samaritan⟧, as he journeyed, came to where he was, and when he saw him, he had compassion.
 
 [34] He went to him and bound up his wounds, pouring on oil and wine. Then he set him on his own animal and brought him to an inn and took care of him.
 
@@ -72,17 +72,17 @@
 
 [36] Which of these three, do you think, proved to be a neighbor to the man who fell among the robbers?"
 
-[37] He said, "The one who showed him mercy." And *Yeshua* said to him, "**You go, and do likewise.**"
+[37] He said, "The one who showed him mercy." And ⟦yeshua|Yeshua|Jesus⟧ said to him, "**You go, and do likewise.**"
 
-[38] Now as they went on their way, *Yeshua* entered a village. And a woman named Martha welcomed him into her house.
+[38] Now as they went on their way, ⟦yeshua|Yeshua|Jesus⟧ entered a village. And a woman named ⟦martha|Marta|Martha⟧ welcomed him into her house.
 
-[39] And she had a sister called Mary, who sat at the Lord's feet and listened to his teaching.
+[39] And she had a sister called ⟦mary|Miryam|Mary⟧, who sat at the Lord's feet and listened to his teaching.
 
-[40] But Martha was distracted with much serving. And she went up to him and said, "Lord, do you not care that my sister has left me to serve alone? Tell her then to help me."
+[40] But ⟦martha|Marta|Martha⟧ was distracted with much serving. And she went up to him and said, "Lord, do you not care that my sister has left me to serve alone? Tell her then to help me."
 
-[41] But the Lord answered her, "Martha, Martha, you are anxious and troubled about many things,
+[41] But the Lord answered her, "⟦martha|Marta|Martha⟧, ⟦martha|Marta|Martha⟧, you are anxious and troubled about many things,
 
-[42] but **one thing is necessary. Mary has chosen the good portion, which will not be taken away from her**."
+[42] but **one thing is necessary. ⟦mary|Miryam|Mary⟧ has chosen the good portion, which will not be taken away from her**."
 
 ## Changes
 

@@ -1,6 +1,6 @@
 # Matouš 13
 
-[1] Téhož dne *Yeshua* vyšel z domu a posadil se u moře.
+[1] Téhož dne ⟦yeshua|Ješua|Ježíš⟧ vyšel z domu a posadil se u moře.
 
 [2] Shromáždily se k němu velké zástupy, takže vstoupil do lodi a posadil se. A celý zástup stál na břehu.
 
@@ -28,7 +28,7 @@
 
 [13] Proto k nim mluvím v podobenstvích, protože hledíce nevidí a slyšíce neslyší ani nerozumějí.
 
-[14] Na nich se naplňuje proroctví Isaiahovo, které praví:
+[14] Na nich se naplňuje proroctví ⟦isaiah|Ješajahuovo|Izajášovo⟧, které praví:
 
 ‚Budete stále slyšet, ale nikdy neporozumíte,
 budete stále hledět, ale nikdy nepoznáte.
@@ -77,7 +77,7 @@ a neobrátili se, a já bych je uzdravil.‘
 
 [33] Pověděl jim jiné podobenství: „Království nebes je jako kvas, který žena vzala a zamísila do tří seah mouky, až se všechno prokvasilo.“
 
-[34] To všechno *Yeshua* mluvil k zástupům v podobenstvích; bez podobenství k nim nemluvil nic.
+[34] To všechno ⟦yeshua|Ješua|Ježíš⟧ mluvil k zástupům v podobenstvích; bez podobenství k nim nemluvil nic.
 
 [35] Tak se naplnilo, co bylo řečeno skrze proroka:
 
@@ -118,15 +118,15 @@ vyslovím, co bylo skryto od založení světa.“
 
 [52] A řekl jim: „Proto každý zákoník, který se stal učedníkem království nebes, je jako hospodář, který vynáší ze svého pokladu nové i staré.“
 
-[53] Když *Yeshua* dokončil tato podobenství, odešel odtud,
+[53] Když ⟦yeshua|Ješua|Ježíš⟧ dokončil tato podobenství, odešel odtud,
 
 [54] přišel do svého rodného města a učil je v jejich synagoze, takže žasli a říkali: „Odkud má tento člověk tuto moudrost a tyto mocné skutky?
 
-[55] Což to není tesařův syn? Což se jeho matka nejmenuje Mary? A což nejsou jeho bratři Jacob, Joseph, Simon a Judah?
+[55] Což to není tesařův syn? Což se jeho matka nejmenuje ⟦mary|Mirjam|Marie⟧? A což nejsou jeho bratři ⟦james|Jaakov|Jakub⟧, Josef, Šimon a ⟦jude|Jehuda|Juda⟧?
 
 [56] A nejsou všechny jeho sestry u nás? Odkud to tedy tento člověk všechno má?“
 
-[57] A pohoršovali se nad ním. Ale *Yeshua* jim řekl: „Prorok není beze cti, leda ve svém rodném městě a ve svém vlastním domě.“
+[57] A pohoršovali se nad ním. Ale ⟦yeshua|Ješua|Ježíš⟧ jim řekl: „Prorok není beze cti, leda ve svém rodném městě a ve svém vlastním domě.“
 
 [58] A pro jejich nevěru tam neučinil mnoho mocných skutků.
 

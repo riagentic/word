@@ -1,12 +1,12 @@
 # Isaiah 44
 
-[1] But now hear, O Jacob my servant,
-Israel whom I have chosen!
+[1] But now hear, O ⟦jacob|Yaaqov|Jacob⟧ my servant,
+⟦israel|Yisrael|Israel⟧ whom I have chosen!
 
-[2] Thus says Yahweh who made you, who formed you from the womb and will help you:
+[2] Thus says ⟦yhwh|Yahweh|the LORD⟧ who made you, who formed you from the womb and will help you:
 
-"Fear not, O Jacob my servant,
-Jeshurun whom I have chosen.
+"Fear not, O ⟦jacob|Yaaqov|Jacob⟧ my servant,
+⟦jeshurun|Yeshurun|Jeshurun⟧ whom I have chosen.
 
 [3] For I will pour water on the thirsty land,
 and streams on the dry ground;
@@ -16,15 +16,15 @@ and my blessing on your descendants.
 [4] They shall spring up among the grass
 like willows by flowing streams.
 
-[5] This one will say, 'I am Yahweh's,'
-another will call on the name of Jacob,
-and another will write on his hand, 'Yahweh's,'
-and name himself by the name of Israel."
+[5] This one will say, 'I am ⟦yhwh|Yahweh's|the LORD's⟧,'
+another will call on the name of ⟦jacob|Yaaqov|Jacob⟧,
+and another will write on his hand, '⟦yhwh|Yahweh's|The LORD's⟧,'
+and name himself by the name of ⟦israel|Yisrael|Israel⟧."
 
-[6] Thus says Yahweh, the King of Israel and his Redeemer, Yahweh of Hosts:
+[6] Thus says ⟦yhwh|Yahweh|the LORD⟧, the King of ⟦israel|Yisrael|Israel⟧ and his Redeemer, ⟦yhwh|Yahweh|the LORD⟧ of Hosts:
 
 "I am the first and I am the last;
-besides me there is no *Elohim*.
+besides me there is no ⟦elohim|Elohim|god⟧.
 
 [7] Who is like me? Let him proclaim it.
 Let him declare and set it before me,
@@ -34,7 +34,7 @@ Let them declare what is to come, and what will happen.
 [8] Fear not, nor be afraid;
 have I not told you from of old and declared it?
 And you are my witnesses!
-Is there an *Elohim* besides me?
+Is there ⟦eloah|an Eloah|a God⟧ besides me?
 There is no Rock; I know not any."
 
 [9] All who fashion idols are nothing,
@@ -68,25 +68,25 @@ They shall be terrified; they shall be put to shame together.
 
 [20] He feeds on ashes; a deluded heart has led him astray, and he cannot deliver his soul or say, "Is there not a lie in my right hand?"
 
-[21] Remember these things, O Jacob,
-and Israel, for you are my servant;
+[21] Remember these things, O ⟦jacob|Yaaqov|Jacob⟧,
+and ⟦israel|Yisrael|Israel⟧, for you are my servant;
 I formed you; you are my servant;
-O Israel, you will not be forgotten by me.
+O ⟦israel|Yisrael|Israel⟧, you will not be forgotten by me.
 
 [22] I have blotted out your transgressions like a cloud
 and your sins like mist;
 return to me, for I have redeemed you.
 
-[23] Sing, O heavens, for Yahweh has done it;
+[23] Sing, O heavens, for ⟦yhwh|Yahweh|the LORD⟧ has done it;
 shout, O depths of the earth;
 break forth into singing, O mountains,
 O forest, and every tree in it!
-For Yahweh has redeemed Jacob,
-and will be glorified in Israel.
+For ⟦yhwh|Yahweh|the LORD⟧ has redeemed ⟦jacob|Yaaqov|Jacob⟧,
+and will be glorified in ⟦israel|Yisrael|Israel⟧.
 
-[24] Thus says Yahweh, your Redeemer, who formed you from the womb:
+[24] Thus says ⟦yhwh|Yahweh|the LORD⟧, your Redeemer, who formed you from the womb:
 
-"I am Yahweh, who made all things,
+"I am ⟦yhwh|Yahweh|the LORD⟧, who made all things,
 who alone stretched out the heavens,
 who spread out the earth by myself,
 
@@ -97,16 +97,16 @@ and makes their knowledge foolish,
 
 [26] who confirms the word of his servant
 and fulfills the counsel of his messengers,
-who says of Jerusalem, 'She shall be inhabited,'
-and of the cities of Judah, 'They shall be built,
+who says of ⟦jerusalem|Yerushalayim|Jerusalem⟧, 'She shall be inhabited,'
+and of the cities of ⟦judah|Yehudah|Judah⟧, 'They shall be built,
 and I will raise up their ruins';
 
 [27] who says to the deep, 'Be dry;
 I will dry up your rivers';
 
-[28] who says of **Cyrus**, 'He is my shepherd,
+[28] who says of **⟦cyrus|Koresh|Cyrus⟧**, 'He is my shepherd,
 and he shall fulfill all my purpose';
-saying of Jerusalem, 'She shall be built,'
+saying of ⟦jerusalem|Yerushalayim|Jerusalem⟧, 'She shall be built,'
 and of the temple, 'Your foundation shall be laid.'"
 
 ## Changes
@@ -115,6 +115,7 @@ and of the temple, 'Your foundation shall be laid.'"
 - **"LORD of hosts" → "Yahweh of Hosts"** (v6) — divine title preserved.
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim* preserved.
 - **"Cyrus" — first named explicitly** (v28) — bolded in text to mark the extraordinary prophetic specificity.
+- **"God" → "Eloah"** (v8) — Hebrew אֱלוֹהַּ *Eloah*, not *Elohim*.
 - **Prose idol-polemic (vv12-20)** — preserved as prose; surrounding poetry formatted as verse.
 
 ### Notes

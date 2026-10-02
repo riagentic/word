@@ -4,9 +4,9 @@
 
 [2] And as he spoke to me, the spirit entered into me and set me on my feet, and I heard him speaking to me.
 
-[3] And he said to me, "Son of Man, I send you to the people of Israel, to nations of rebels, who have rebelled against me. They and their fathers have transgressed against me to this very day.
+[3] And he said to me, "Son of Man, I send you to the people of ⟦israel|Yisrael|Israel⟧, to nations of rebels, who have rebelled against me. They and their fathers have transgressed against me to this very day.
 
-[4] The descendants also are hard-faced and stubborn of heart. I send you to them, and you shall say to them, 'Thus says Lord Yahweh.'
+[4] The descendants also are hard-faced and stubborn of heart. I send you to them, and you shall say to them, 'Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.'
 
 [5] And whether they hear or refuse to hear (for they are a rebellious house) they will know that a prophet has been among them.
 

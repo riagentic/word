@@ -1,6 +1,6 @@
 # Jób 38
 
-[1] Tu Yahweh odpověděl Jobovi z vichřice a řekl:
+[1] Tu ⟦yhwh|Jahve|Hospodin⟧ odpověděl ⟦job|Ijovovi|Jóbovi⟧ z vichřice a řekl:
 
 [2] „Kdo je to, kdo zatemňuje radu
 slovy bez poznání?
@@ -89,11 +89,11 @@ Jinovatku nebes – kdo ji porodil?
 [30] Vody tvrdnou jako kámen
 a hladina hlubiny zamrzá.
 
-[31] Dokážeš svázat řetězy Plejád
-nebo rozvázat provazy Oriona?
+[31] Dokážeš svázat řetězy ⟦pleiades|Kimy|Plejád⟧
+nebo rozvázat provazy ⟦orion|Kesilu|Oriona⟧?
 
-[32] Dokážeš vyvést souhvězdí v jejich čas
-nebo vést Medvědici s jejími mláďaty?
+[32] Dokážeš vyvést ⟦mazzaroth|Mazzarot|hvězdy zvířetníku⟧ v jejich čas
+nebo vést ⟦bear|Ajiš s jejími mláďaty|souhvězdí Lva s jeho mláďaty⟧?
 
 [33] Znáš řády nebes?
 Dokážeš ustanovit jejich vládu na zemi?
@@ -120,11 +120,12 @@ nebo nasytit hlad lvíčat,
 nebo číhají ve své skrýši?
 
 [41] Kdo opatřuje havranovi jeho kořist,
-když jeho mláďata volají k *Elohim* pro nedostatek potravy?“
+když jeho mláďata volají k ⟦el|El|Bohu⟧ pro nedostatek potravy?“
 
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – tetragram zachován.
+- **"God" → „El“** (v41) – hebrejsky אֵל *El*, ne *Elohim*.
 - **"shadow of death" → „hlubokého šera“** (v17) – *tzalmaweth*.
 - **"Arcturus" → „Medvědice“** (v32) – *Ayish*; moderně: Medvědice nebo Arktur, sporné.
 - **"bottles" → „měchy“** (v37).

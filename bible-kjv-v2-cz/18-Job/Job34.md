@@ -1,6 +1,6 @@
 # Jób 34
 
-[1] Elihu se ujal slova a řekl:
+[1] ⟦elihu|Elihu|Elíhú⟧ se ujal slova a řekl:
 
 [2] „Slyšte má slova, vy moudří;
 naslouchejte mi, vy, kdo máte poznání.
@@ -11,30 +11,30 @@ jako patro ochutnává pokrm.
 [4] Vyberme si, co je správné;
 poznejme mezi sebou, co je dobré.
 
-[5] Job totiž řekl: ‚Jsem spravedlivý
-a *Elohim* mi odňal mé právo.
+[5] ⟦job|Ijov|Jób⟧ totiž řekl: ‚Jsem spravedlivý
+a ⟦el|El|Bůh⟧ mi odňal mé právo.
 
 [6] Ač mám pravdu, mají mě za lháře;
 má rána je nevyléčitelná, ač jsem bez přestoupení.‘
 
-[7] Který muž je jako Job,
+[7] Který muž je jako ⟦job|Ijov|Jób⟧,
 jenž pije posměch jako vodu,
 
 [8] putuje ve společnosti zločinců
 a chodí se svévolnými lidmi?
 
 [9] Vždyť řekl: ‚Člověk nic nezíská,
-když se zalíbí *Elohim*.‘
+když se zalíbí ⟦elohim|Elohim|Bohu⟧.‘
 
 [10] Proto mě slyšte, vy rozumní muži:
-ať je daleko od *Elohim*, aby jednal svévolně,
-od Shaddaie, aby páchal křivdu.
+ať je daleko od ⟦el|El|Boha⟧, aby jednal svévolně,
+od ⟦shaddai|Šaddaje|Všemohoucího⟧, aby páchal křivdu.
 
 [11] Vždyť člověku odplácí jeho dílo
 a každému dává sklízet podle jeho cesty.
 
-[12] Jistě *Elohim* nebude jednat svévolně
-a Shaddai nebude převracet právo.
+[12] Jistě ⟦el|El|Bůh⟧ nebude jednat svévolně
+a ⟦shaddai|Šaddaj|Všemohoucí⟧ nebude převracet právo.
 
 [13] Kdo mu svěřil péči o zemi?
 Kdo na něj vložil celý svět?
@@ -51,7 +51,7 @@ naslouchej hlasu mých slov.
 [17] Může vládnout ten, kdo nenávidí právo?
 Můžeš odsoudit spravedlivého Mocného?
 
-[18] – toho, kdo říká králi: ‚Ničemo,‘
+[18] – toho, kdo říká králi: ‚⟦belial|Belijjaale|Ničemo⟧,‘
 a urozeným: ‚Svévolníku‘;
 
 [19] kdo nestraní knížatům
@@ -69,7 +69,7 @@ a vidí všechny jeho kroky.
 kde by se zločinci mohli skrýt.
 
 [23] Vždyť nestanovil žádnému člověku čas,
-kdy má předstoupit před *Elohim* na soud.
+kdy má předstoupit před ⟦el|El|Bohem⟧ na soud.
 
 [24] Rozdrtí mocné bez vyšetřování
 a na jejich místo postaví jiné.
@@ -94,7 +94,7 @@ A přece je to nad národem i nad člověkem stejně –
 [30] aby nekraloval bezbožný,
 aby nenastražoval léčky lidu.
 
-[31] Řekl někdo *Elohim*:
+[31] Řekl někdo ⟦el|El|Bohu⟧:
 ‚Nesl jsem kázeň; už nebudu provinile jednat.
 
 [32] Co nevidím, tomu mě nauč;
@@ -108,19 +108,20 @@ pověz tedy, co víš.
 [34] Rozumní muži mi řeknou
 a moudrý, který mě slyší, prohlásí:
 
-[35] ‚Job mluví bez poznání;
+[35] ‚⟦job|Ijov|Jób⟧ mluví bez poznání;
 jeho slova jsou bez prozíravosti.‘
 
-[36] Kéž by byl Job zkoušen až do konce,
+[36] Kéž by byl ⟦job|Ijov|Jób⟧ zkoušen až do konce,
 protože odpovídá jako svévolní lidé.
 
 [37] Vždyť ke svému hříchu přidává vzpouru;
 mezi námi tleská rukama
-a rozmnožuje svá slova proti *Elohim*.“
+a rozmnožuje svá slova proti ⟦el|El|Bohu⟧.“
 
 ## Změny
 
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
+- **"God" → „El“** (v5, 10, 12, 23, 31, 37) – hebrejsky אֵל *El*, ne *Elohim*.
 - **"hypocrite" → „bezbožný“** (v30) – *chanef*.
 - **"shadow of death" → „hlubokého šera“** (v22) – *tzalmaweth*.
 

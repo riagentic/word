@@ -4,12 +4,12 @@
 a přízeň je lepší než stříbro či zlato.
 
 [2] Boháč a chudý se potkávají;
-Yahweh je Stvořitelem jich všech.
+⟦yhwh|Jahve|Hospodin⟧ je Stvořitelem jich všech.
 
 [3] Prozíravý vidí nebezpečí a skryje se,
 ale prostoduší jdou dál a doplatí na to.
 
-[4] Odměnou za pokoru a bázeň Yahweh
+[4] Odměnou za pokoru a bázeň ⟦yhwh|Jahveho|Hospodina⟧
 je bohatství, čest a život.
 
 [5] Trní a osidla jsou na cestě pokřiveného;
@@ -33,14 +33,14 @@ a ustanou hádky a urážky.
 [11] Kdo miluje čistotu srdce a jehož řeč je laskavá,
 bude mít krále za přítele.
 
-[12] Oči Yahweh bdí nad poznáním,
+[12] Oči ⟦yhwh|Jahveho|Hospodina⟧ bdí nad poznáním,
 ale slova zrádce vyvrací.
 
 [13] Lenoch říká: „Venku je lev!
 Na ulicích budu zabit!“
 
 [14] Ústa zakázaných žen jsou hluboká jáma;
-na koho se Yahweh hněvá, do ní padne.
+na koho se ⟦yhwh|Jahve|Hospodin⟧ hněvá, do ní padne.
 
 [15] Pošetilost je přivázána k srdci dítěte,
 ale hůl kázně ji od něho odežene daleko.
@@ -54,7 +54,7 @@ a obrať své srdce k mému poznání,
 [18] neboť bude příjemné, uchováš-li je v sobě,
 budou-li všechna pohotově na tvých rtech.
 
-[19] Aby tvá důvěra byla v Yahweh,
+[19] Aby tvá důvěra byla v ⟦yhwh|Jahveho|Hospodina⟧,
 oznámil jsem ti je dnes, právě tobě.
 
 [20] Což jsem ti nenapsal třicet výroků
@@ -66,7 +66,7 @@ abys mohl dát pravdivou odpověď těm, kdo tě poslali?
 [22] Neolupuj chudého, protože je chudý,
 ani nedrť ztrápeného v bráně,
 
-[23] neboť Yahweh povede jejich při
+[23] neboť ⟦yhwh|Jahve|Hospodin⟧ povede jejich při
 a oloupí o život ty, kdo je olupují.
 
 [24] Nepřátel se s člověkem oddaným hněvu

@@ -1,22 +1,22 @@
 # Genesis 4
 
-[1] Člověk poznal Eve, svou ženu, a ona otěhotněla a porodila Caina. Řekla: „Získala jsem muže s Yahweh.“
+[1] Člověk poznal ⟦eve|Chavvu|Evu⟧, svou ženu, a ona otěhotněla a porodila ⟦cain|Kajina|Kaina⟧. Řekla: „Získala jsem muže s ⟦yhwh|Jahvem|Hospodinem⟧.“
 
-[2] Znovu porodila – jeho bratra Abela. Abel byl pastýřem stád a Cain byl rolníkem, jenž obdělával půdu.
+[2] Znovu porodila – jeho bratra ⟦abel|Hevela|Ábela⟧. ⟦abel|Hevel|Ábel⟧ byl pastýřem stád a ⟦cain|Kajin|Kain⟧ byl rolníkem, jenž obdělával půdu.
 
-[3] Po čase přinesl Cain z plodů půdy obětní dar Yahweh.
+[3] Po čase přinesl ⟦cain|Kajin|Kain⟧ z plodů půdy obětní dar ⟦yhwh|Jahvovi|Hospodinu⟧.
 
-[4] Také Abel přinesl z prvorozených svého stáda a z jejich tučných částí. I shlédl Yahweh příznivě na Abela a na jeho obětní dar,
+[4] Také ⟦abel|Hevel|Ábel⟧ přinesl z prvorozených svého stáda a z jejich tučných částí. I shlédl ⟦yhwh|Jahve|Hospodin⟧ příznivě na ⟦abel|Hevela|Ábela⟧ a na jeho obětní dar,
 
-[5] ale na Caina a jeho obětní dar příznivě neshlédl. Cain se velmi rozhněval a jeho tvář poklesla.
+[5] ale na ⟦cain|Kajina|Kaina⟧ a jeho obětní dar příznivě neshlédl. ⟦cain|Kajin|Kain⟧ se velmi rozhněval a jeho tvář poklesla.
 
-[6] Yahweh řekl Cainovi: „Proč se hněváš a proč ti tvář poklesla?
+[6] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦cain|Kajinovi|Kainovi⟧: „Proč se hněváš a proč ti tvář poklesla?
 
 [7] Jestliže jednáš dobře, není tu pozvednutí? Ale jestliže dobře nejednáš, hřích číhá u dveří; jeho touha směřuje k tobě, ale ty nad ním musíš vládnout.“
 
-[8] Cain řekl svému bratru Abelovi: „Pojďme ven na pole.“ A když byli na poli, povstal Cain proti svému bratru Abelovi a zabil ho.
+[8] ⟦cain|Kajin|Kain⟧ řekl svému bratru ⟦abel|Hevelovi|Ábelovi⟧: „Pojďme ven na pole.“ A když byli na poli, povstal ⟦cain|Kajin|Kain⟧ proti svému bratru ⟦abel|Hevelovi|Ábelovi⟧ a zabil ho.
 
-[9] Tu Yahweh řekl Cainovi: „Kde je Abel, tvůj bratr?“ Odpověděl: „Nevím. Jsem snad strážcem svého bratra?“
+[9] Tu ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦cain|Kajinovi|Kainovi⟧: „Kde je ⟦abel|Hevel|Ábel⟧, tvůj bratr?“ Odpověděl: „Nevím. Jsem snad strážcem svého bratra?“
 
 [10] Řekl: „Co jsi to udělal? Hlas krve tvého bratra ke mně volá z půdy.
 
@@ -24,39 +24,39 @@
 
 [12] Když budeš obdělávat půdu, už ti nevydá svou sílu. Budeš na zemi neustálým tulákem.“
 
-[13] Cain řekl Yahweh: „Můj trest je větší, než mohu unést.
+[13] ⟦cain|Kajin|Kain⟧ řekl ⟦yhwh|Jahvovi|Hospodinu⟧: „Můj trest je větší, než mohu unést.
 
 [14] Hle, dnes jsi mě vyhnal z tváře půdy a před tvou tváří budu skryt; budu na zemi neustálým tulákem a kdokoli mě najde, zabije mě.“
 
-[15] Yahweh mu řekl: „Tak ne – kdokoli zabije Caina, na tom bude vykonána pomsta sedminásobně.“ A Yahweh dal Cainovi znamení, aby ho nikdo, kdo ho najde, nezabil.
+[15] ⟦yhwh|Jahve|Hospodin⟧ mu řekl: „Tak ne – kdokoli zabije ⟦cain|Kajina|Kaina⟧, na tom bude vykonána pomsta sedminásobně.“ A ⟦yhwh|Jahve|Hospodin⟧ dal ⟦cain|Kajinovi|Kainovi⟧ znamení, aby ho nikdo, kdo ho najde, nezabil.
 
-[16] Cain odešel od tváře Yahweh a usadil se v zemi Nod, na východ od Edenu.
+[16] ⟦cain|Kajin|Kain⟧ odešel od tváře ⟦yhwh|Jahveho|Hospodina⟧ a usadil se v zemi ⟦nod|Nod|Nód⟧, na východ od ⟦eden|Edenu|Édenu⟧.
 
-[17] Cain poznal svou ženu, a ona otěhotněla a porodila Enocha. Stavěl město a pojmenoval to město po svém synu Enoch.
+[17] ⟦cain|Kajin|Kain⟧ poznal svou ženu, a ona otěhotněla a porodila ⟦enoch|Chanocha|Enocha⟧. Stavěl město a pojmenoval to město po svém synu ⟦enoch|Chanoch|Enoch⟧.
 
-[18] Enochovi se narodil Irad; Irad zplodil Mehujaela; Mehujael zplodil Methushaela; a Methushael zplodil Lamecha.
+[18] ⟦enoch|Chanochovi|Enochovi⟧ se narodil ⟦irad|Irad|Írad⟧; ⟦irad|Irad|Írad⟧ zplodil ⟦mehujael|Mechujaela|Mechújaela⟧; ⟦mehujael|Mechujael|Mechújael⟧ zplodil ⟦methushael|Metušaela|Metúšaela⟧; a ⟦methushael|Metušael|Metúšael⟧ zplodil ⟦lamech|Lemecha|Lámecha⟧.
 
-[19] Lamech si vzal dvě ženy; jedna se jmenovala Adah a druhá Zillah.
+[19] ⟦lamech|Lemech|Lámech⟧ si vzal dvě ženy; jedna se jmenovala ⟦adah|Ada|Áda⟧ a druhá ⟦zillah|Cila|Sila⟧.
 
-[20] Adah porodila Jabala; ten se stal praotcem těch, kdo bydlí ve stanech a chovají dobytek.
+[20] ⟦adah|Ada|Áda⟧ porodila ⟦jabal|Javala|Jábala⟧; ten se stal praotcem těch, kdo bydlí ve stanech a chovají dobytek.
 
-[21] Jeho bratr se jmenoval Jubal; ten se stal praotcem všech, kdo hrají na lyru a píšťalu.
+[21] Jeho bratr se jmenoval ⟦jubal|Juval|Júbal⟧; ten se stal praotcem všech, kdo hrají na lyru a píšťalu.
 
-[22] Také Zillah porodila Tubal-caina, který koval všelijaké nástroje z bronzu a železa. A sestrou Tubal-caina byla Naamah.
+[22] Také ⟦zillah|Cila|Sila⟧ porodila ⟦tubal-cain|Tuval-Kajina|Tubal-kajina⟧, který koval všelijaké nástroje z bronzu a železa. A sestrou ⟦tubal-cain|Tuval-Kajina|Tubal-kajina⟧ byla Naama.
 
-[23] Lamech řekl svým ženám:
+[23] ⟦lamech|Lemech|Lámech⟧ řekl svým ženám:
 
-„Adah a Zillah, slyšte můj hlas;
-ženy Lamechovy, naslouchejte tomu, co říkám.
+„⟦adah|Ada|Áda⟧ a ⟦zillah|Cila|Sila⟧, slyšte můj hlas;
+ženy ⟦lamech|Lemechovy|Lámechovy⟧, naslouchejte tomu, co říkám.
 Neboť jsem zabil muže za to, že mě zranil,
 chlapce za to, že mě udeřil.
 
-[24] Je-li Cain pomstěn sedminásobně,
-pak Lamech sedmdesátisedminásobně.“
+[24] Je-li ⟦cain|Kajin|Kain⟧ pomstěn sedminásobně,
+pak ⟦lamech|Lemech|Lámech⟧ sedmdesátisedminásobně.“
 
-[25] Člověk znovu poznal svou ženu, a ona porodila syna a dala mu jméno Seth, „neboť *Elohim* mi dal jiného potomka místo Abela, kterého zabil Cain“.
+[25] Člověk znovu poznal svou ženu, a ona porodila syna a dala mu jméno ⟦seth|Šet|Šét⟧, „neboť ⟦elohim|Elohim|Bůh⟧ mi dal jiného potomka místo ⟦abel|Hevela|Ábela⟧, kterého zabil ⟦cain|Kajin|Kain⟧“.
 
-[26] Také Sethovi se narodil syn a dal mu jméno Enosh. Tehdy lidé začali vzývat jméno Yahweh.
+[26] Také ⟦seth|Šetovi|Šétovi⟧ se narodil syn a dal mu jméno ⟦enosh|Enoš|Enóš⟧. Tehdy lidé začali vzývat jméno ⟦yhwh|Jahveho|Hospodina⟧.
 
 ## Změny
 

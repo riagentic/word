@@ -1,11 +1,11 @@
 # Jeremiah 14
 
-[1] The word of Yahweh that came to Jeremiah concerning the drought:
+[1] The word of ⟦yhwh|Yahweh|the LORD⟧ that came to ⟦jeremiah|Yirmeyahu|Jeremiah⟧ concerning the drought:
 
-[2] "Judah mourns,
+[2] "⟦judah|Yehudah|Judah⟧ mourns,
 and her gates languish;
 her people lament on the ground,
-and the cry of Jerusalem goes up.
+and the cry of ⟦jerusalem|Yerushalayim|Jerusalem⟧ goes up.
 
 [3] Her nobles send their servants for water;
 they come to the cisterns;
@@ -29,40 +29,40 @@ their eyes fail
 because there is no vegetation.
 
 [7] Though our iniquities testify against us,
-act, O Yahweh, for your name's sake;
+act, O ⟦yhwh|Yahweh|LORD⟧, for your name's sake;
 for our backslidings are many;
 we have sinned against you.
 
-[8] O hope of Israel,
+[8] O hope of ⟦israel|Yisrael|Israel⟧,
 its Savior in time of trouble,
 why should you be like a stranger in the land,
 like a traveler who turns aside to tarry for a night?
 
 [9] Why should you be like a man confused,
 like a mighty warrior who cannot save?
-Yet you, O Yahweh, are in the midst of us,
+Yet you, O ⟦yhwh|Yahweh|LORD⟧, are in the midst of us,
 and your name is called upon us;
 do not forsake us."
 
-[10] Thus says Yahweh concerning this people:
+[10] Thus says ⟦yhwh|Yahweh|the LORD⟧ concerning this people:
 
 "They have loved to wander thus;
 they have not restrained their feet;
-therefore Yahweh does not accept them;
+therefore ⟦yhwh|Yahweh|the LORD⟧ does not accept them;
 now he will remember their iniquity
 and punish their sins."
 
-[11] Yahweh said to me: "Do not pray for the welfare of this people.
+[11] ⟦yhwh|Yahweh|The LORD⟧ said to me: "Do not pray for the welfare of this people.
 
 [12] Though they fast, I will not hear their cry, and though they offer burnt offering and grain offering, I will not accept them. But I will consume them by the sword, by famine, and by pestilence."
 
-[13] Then I said: "Ah, Lord Yahweh, behold, the prophets say to them, 'You shall not see the sword, nor shall you have famine, but I will give you assured peace in this place.'"
+[13] Then I said: "Ah, ⟦adonai-yhwh|Lord Yahweh|Lord GOD⟧, behold, the prophets say to them, 'You shall not see the sword, nor shall you have famine, but I will give you assured peace in this place.'"
 
-[14] And Yahweh said to me: "The prophets are prophesying lies in my name. I did not send them, nor did I command them or speak to them. They are prophesying to you a lying vision, worthless divination, and the deceit of their own minds.
+[14] And ⟦yhwh|Yahweh|the LORD⟧ said to me: "The prophets are prophesying lies in my name. I did not send them, nor did I command them or speak to them. They are prophesying to you a lying vision, worthless divination, and the deceit of their own minds.
 
-[15] Therefore thus says Yahweh concerning the prophets who prophesy in my name although I did not send them, and who say, 'Sword and famine shall not come upon this land': By sword and famine those prophets shall be consumed.
+[15] Therefore thus says ⟦yhwh|Yahweh|the LORD⟧ concerning the prophets who prophesy in my name although I did not send them, and who say, 'Sword and famine shall not come upon this land': By sword and famine those prophets shall be consumed.
 
-[16] And the people to whom they prophesy shall be cast out in the streets of Jerusalem, victims of famine and sword, with none to bury them, their wives, their sons, and their daughters. For I will pour out their evil upon them.
+[16] And the people to whom they prophesy shall be cast out in the streets of ⟦jerusalem|Yerushalayim|Jerusalem⟧, victims of famine and sword, with none to bury them, their wives, their sons, and their daughters. For I will pour out their evil upon them.
 
 [17] "You shall say to them this word:
 
@@ -78,14 +78,14 @@ behold, the diseases of famine!
 For both prophet and priest ply their trade through the land
 and have no knowledge.'"
 
-[19] Have you utterly rejected Judah?
-Does your soul loathe Zion?
+[19] Have you utterly rejected ⟦judah|Yehudah|Judah⟧?
+Does your soul loathe ⟦zion|Tziyon|Zion⟧?
 Why have you struck us down
 so that there is no healing for us?
 We looked for peace, but no good came;
 for a time of healing, but behold, terror.
 
-[20] We acknowledge our wickedness, O Yahweh,
+[20] We acknowledge our wickedness, O ⟦yhwh|Yahweh|LORD⟧,
 and the iniquity of our fathers,
 for we have sinned against you.
 
@@ -95,7 +95,7 @@ remember and do not break your covenant with us.
 
 [22] Are there any among the false gods of the nations that can bring rain?
 Or can the heavens give showers?
-Are you not he, O Yahweh our *Elohim*?
+Are you not he, O ⟦yhwh|Yahweh|LORD⟧ our ⟦elohim|Elohim|God⟧?
 We set our hope on you,
 for you do all these things.
 

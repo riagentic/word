@@ -16,7 +16,7 @@ tlupa věrolomných.
 lež, a ne pravda zmohutněla v zemi;
 neboť postupují od zla ke zlu
 a mne neznají,
-je výrok Yahweh.
+je výrok ⟦yhwh|Jahveho|Hospodina⟧.
 
 [4] Ať se každý střeží svého bližního
 a nedůvěřujte žádnému bratru,
@@ -29,9 +29,9 @@ naučili svůj jazyk mluvit lež;
 umdlévají pácháním viny.
 
 [6] Hromadí útisk na útisk a lest na lest,
-odmítají mě poznat, je výrok Yahweh.
+odmítají mě poznat, je výrok ⟦yhwh|Jahveho|Hospodina⟧.
 
-[7] Proto toto praví Yahweh zástupů:
+[7] Proto toto praví ⟦yhwh|Jahve|Hospodin⟧ zástupů:
 
 „Hle, přetavím je a vyzkouším je,
 neboť co jiného mám dělat kvůli svému lidu?
@@ -41,7 +41,7 @@ mluví lstivě;
 svými ústy každý mluví o pokoji se svým bližním,
 ale ve svém srdci mu strojí úklady.
 
-[9] Což je za to nemám ztrestat? je výrok Yahweh,
+[9] Což je za to nemám ztrestat? je výrok ⟦yhwh|Jahveho|Hospodina⟧,
 a což se nemám pomstít
 na takovém národě, jako je tento?“
 
@@ -52,22 +52,22 @@ a není slyšet bučení dobytka;
 ptáci nebes i zvěř
 utekli a jsou pryč.
 
-[11] „Učiním z Jerusalemu hromadu trosek,
+[11] „Učiním z ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ hromadu trosek,
 doupě šakalů,
-a z měst Judah učiním zpustošení
+a z měst ⟦judah|Jehudy|Judy⟧ učiním zpustošení
 bez obyvatel.“
 
-[12] Kdo je ten moudrý, který by tomu rozuměl? Ke komu promluvila ústa Yahweh, aby to oznámil? Proč je země zničena a zpustošena jako poušť, takže tudy nikdo neprochází?
+[12] Kdo je ten moudrý, který by tomu rozuměl? Ke komu promluvila ústa ⟦yhwh|Jahveho|Hospodina⟧, aby to oznámil? Proč je země zničena a zpustošena jako poušť, takže tudy nikdo neprochází?
 
-[13] A Yahweh praví: „Protože opustili můj Zákon, který jsem jim předložil, a neposlouchali můj hlas ani podle něho nechodili,
+[13] A ⟦yhwh|Jahve|Hospodin⟧ praví: „Protože opustili ⟦torah|mou Tóru, kterou|můj zákon, který⟧ jsem jim předložil, a neposlouchali můj hlas ani podle něho nechodili,
 
-[14] ale tvrdošíjně šli za svým vlastním srdcem a chodili za Baaly, jak je to naučili jejich otcové.
+[14] ale tvrdošíjně šli za svým vlastním srdcem a chodili za ⟦baal|Baaly|baaly⟧, jak je to naučili jejich otcové.
 
-[15] Proto toto praví Yahweh zástupů, *Elohim* Israele: Hle, budu tento lid krmit hořkým pokrmem a dám jim pít otrávenou vodu.
+[15] Proto toto praví ⟦yhwh|Jahve|Hospodin⟧ zástupů, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧: Hle, budu tento lid krmit hořkým pokrmem a dám jim pít otrávenou vodu.
 
 [16] Rozptýlím je mezi národy, které neznali ani oni, ani jejich otcové, a pošlu za nimi meč, dokud je nevyhubím.“
 
-[17] Toto praví Yahweh zástupů:
+[17] Toto praví ⟦yhwh|Jahve|Hospodin⟧ zástupů:
 
 „Uvažte to a zavolejte plačky, ať přijdou;
 pošlete pro zkušené ženy, ať přijdou;
@@ -76,13 +76,13 @@ pošlete pro zkušené ženy, ať přijdou;
 aby naše oči zalily slzy
 a z našich víček se řinula voda.
 
-[19] Neboť ze Zionu je slyšet zvuk kvílení:
+[19] Neboť ze ⟦zion|Cijonu|Sijónu⟧ je slyšet zvuk kvílení:
 ‚Jak jsme zničeni!
 Jsme naprosto zahanbeni,
 protože jsme opustili zemi,
 protože strhli naše příbytky.‘“
 
-[20] Slyšte, ženy, slovo Yahweh
+[20] Slyšte, ženy, slovo ⟦yhwh|Jahveho|Hospodina⟧
 a ať vaše ucho přijme slovo jeho úst;
 učte své dcery nářku
 a každá svou sousedku žalozpěvu.
@@ -92,13 +92,13 @@ vešla do našich paláců,
 vyhlazuje děti z ulic
 a mladíky z náměstí.
 
-[22] Mluv: „Toto je výrok Yahweh:
+[22] Mluv: „Toto je výrok ⟦yhwh|Jahveho|Hospodina⟧:
 ‚Mrtvá těla lidí budou padat
 jako hnůj na otevřeném poli,
 jako snopy za žencem,
 a nikdo je nesebere.‘“
 
-[23] Toto praví Yahweh:
+[23] Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
 „Ať se moudrý nechlubí svou moudrostí,
 ať se mocný nechlubí svou mocí,
@@ -106,12 +106,12 @@ ať se bohatý nechlubí svým bohatstvím,
 
 [24] ale kdo se chlubí, ať se chlubí tímto:
 že rozumí a zná mne,
-že já jsem Yahweh, který koná věrnou lásku, právo a spravedlnost na zemi.
-Neboť v tom mám zalíbení, je výrok Yahweh.“
+že já jsem ⟦yhwh|Jahve|Hospodin⟧, který koná věrnou lásku, právo a spravedlnost na zemi.
+Neboť v tom mám zalíbení, je výrok ⟦yhwh|Jahveho|Hospodina⟧.“
 
-[25] „Hle, přicházejí dny, je výrok Yahweh, kdy ztrestám všechny, kdo jsou obřezáni pouze na těle –
+[25] „Hle, přicházejí dny, je výrok ⟦yhwh|Jahveho|Hospodina⟧, kdy ztrestám všechny, kdo jsou obřezáni pouze na těle –
 
-[26] Egypt, Judah, Edom, syny Ammona, Moab a všechny, kdo bydlí v poušti a přistřihují si vlasy na skráních, neboť všechny tyto národy jsou neobřezané a celý dům Israele je neobřezaný v srdci.“
+[26] ⟦egypt|Micrajim|Egypt⟧, ⟦judah|Jehudu|Judu⟧, ⟦edom|Edom|Edóm⟧, syny ⟦ammon|Ammona|Amóna⟧, ⟦moab|Moav|Moáb⟧ a všechny, kdo bydlí v poušti a přistřihují si vlasy na skráních, neboť všechny tyto národy jsou neobřezané a celý dům ⟦israel|Jisraele|Izraele⟧ je neobřezaný v srdci.“
 
 ## Změny
 

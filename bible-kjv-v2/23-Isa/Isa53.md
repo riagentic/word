@@ -1,7 +1,7 @@
 # Isaiah 53
 
 [1] Who has believed what they heard from us?
-And to whom has the arm of Yahweh been revealed?
+And to whom has the arm of ⟦yhwh|Yahweh|the LORD⟧ been revealed?
 
 [2] For he grew up before him like a young plant,
 and like a root out of dry ground;
@@ -16,7 +16,7 @@ he was despised, and we esteemed him not.
 [4] Surely he has borne our griefs
 and carried our sorrows;
 yet we esteemed him stricken,
-smitten by *Elohim*, and afflicted.
+smitten by ⟦elohim|Elohim|God⟧, and afflicted.
 
 [5] But he was pierced for our transgressions;
 he was crushed for our iniquities;
@@ -25,7 +25,7 @@ and with his wounds we are healed.
 
 [6] All we like sheep have gone astray;
 we have turned — every one — to his own way;
-and Yahweh has laid on him
+and ⟦yhwh|Yahweh|the LORD⟧ has laid on him
 the iniquity of us all.
 
 [7] He was oppressed, and he was afflicted,
@@ -44,11 +44,11 @@ and with a rich man in his death,
 although he had done no violence,
 and there was no deceit in his mouth.
 
-[10] Yet it was the will of Yahweh to crush him;
+[10] Yet it was the will of ⟦yhwh|Yahweh|the LORD⟧ to crush him;
 he has put him to grief;
 when his soul makes a guilt offering,
 he shall see his offspring; he shall prolong his days;
-the will of Yahweh shall prosper in his hand.
+the will of ⟦yhwh|Yahweh|the LORD⟧ shall prosper in his hand.
 
 [11] Out of the anguish of his soul he shall see and be satisfied;
 by his knowledge shall the righteous one, my servant,

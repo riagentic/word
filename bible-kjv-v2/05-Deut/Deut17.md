@@ -1,12 +1,12 @@
 # Deuteronomy 17
 
-[1] "You shall not sacrifice to Yahweh your *Elohim* a bull or a sheep in which is a blemish or any serious defect, for that is an abomination to Yahweh your *Elohim*.
+[1] "You shall not sacrifice to ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ a bull or a sheep in which is a blemish or any serious defect, for that is an abomination to ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
-[2] If there is found among you, within any of your gates that Yahweh your *Elohim* is giving you, a man or a woman who has done what is evil in the eyes of Yahweh your *Elohim*, in transgressing his covenant —
+[2] If there is found among you, within any of your gates that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is giving you, a man or a woman who has done what is evil in the eyes of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, in transgressing his covenant —
 
 [3] who has gone and served other gods and bowed down to them, or to the sun or the moon or any of the host of the heavens, which I have not commanded —
 
-[4] and it is told to you and you hear of it, then you shall inquire thoroughly; and behold, if it is true and confirmed that such an abomination has been done in Israel,
+[4] and it is told to you and you hear of it, then you shall inquire thoroughly; and behold, if it is true and confirmed that such an abomination has been done in ⟦israel|Yisrael|Israel⟧,
 
 [5] then you shall bring out to your gates that man or that woman who has done this evil thing, and you shall stone them with stones until they die.
 
@@ -14,31 +14,31 @@
 
 [7] The hand of the witnesses shall be first against him to put him to death, and afterward the hand of all the people. So you shall purge the evil from your midst.
 
-[8] If a case arises that is too hard for you — between blood and blood, between legal claim and legal claim, between assault and assault — any cases of dispute within your gates, then you shall arise and go up to the place that Yahweh your *Elohim* will choose.
+[8] If a case arises that is too hard for you — between blood and blood, between legal claim and legal claim, between assault and assault — any cases of dispute within your gates, then you shall arise and go up to the place that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ will choose.
 
 [9] You shall come to the levitical priests and to the judge who is in office in those days, and inquire; and they shall declare to you the verdict of judgment.
 
-[10] You shall do according to the verdict they declare to you from that place which Yahweh will choose; you shall be careful to do according to all that they instruct you.
+[10] You shall do according to the verdict they declare to you from that place which ⟦yhwh|Yahweh|the LORD⟧ will choose; you shall be careful to do according to all that they instruct you.
 
 [11] According to the instruction that they teach you, and according to the ruling that they tell you, you shall act. You shall not turn aside from the verdict they declare to you, to the right hand or to the left.
 
-[12] The man who acts presumptuously, not listening to the priest who stands to minister there before Yahweh your *Elohim*, or to the judge — that man shall die; and you shall purge the evil from Israel.
+[12] The man who acts presumptuously, not listening to the priest who stands to minister there before ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, or to the judge — that man shall die; and you shall purge the evil from ⟦israel|Yisrael|Israel⟧.
 
 [13] All the people shall hear and be afraid, and shall no longer act presumptuously.
 
-[14] When you come into the land that Yahweh your *Elohim* is giving you, and you possess it and dwell in it, and you say, 'I will set a king over me like all the nations that are around me,'
+[14] When you come into the land that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is giving you, and you possess it and dwell in it, and you say, 'I will set a king over me like all the nations that are around me,'
 
-[15] then you shall surely set as king over you the one whom Yahweh your *Elohim* chooses. One from among your brothers you shall set as king over you; you shall not put a foreigner over you, who is not your brother.
+[15] then you shall surely set as king over you the one whom ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ chooses. One from among your brothers you shall set as king over you; you shall not put a foreigner over you, who is not your brother.
 
-[16] Only he shall not multiply horses for himself, nor cause the people to return to Egypt in order to multiply horses, since Yahweh has said to you, 'You shall never return that way again.'
+[16] Only he shall not multiply horses for himself, nor cause the people to return to ⟦egypt|Mitzrayim|Egypt⟧ in order to multiply horses, since ⟦yhwh|Yahweh|the LORD⟧ has said to you, 'You shall never return that way again.'
 
 [17] He shall not multiply wives for himself, lest his heart turn away; nor shall he greatly multiply for himself silver and gold.
 
-[18] When he sits on the throne of his kingdom, he shall write for himself a copy of this Torah in a scroll, in the presence of the levitical priests.
+[18] When he sits on the throne of his kingdom, he shall write for himself a copy of this ⟦torah|Torah|law⟧ in a scroll, in the presence of the levitical priests.
 
-[19] It shall be with him, and he shall read in it all the days of his life, that he may learn to fear Yahweh his *Elohim* by keeping all the words of this Torah and these statutes, and doing them;
+[19] It shall be with him, and he shall read in it all the days of his life, that he may learn to fear ⟦yhwh|Yahweh|the LORD⟧ his ⟦elohim|Elohim|God⟧ by keeping all the words of this ⟦torah|Torah|law⟧ and these statutes, and doing them;
 
-[20] that his heart may not be lifted up above his brothers, and that he may not turn aside from the commandment, to the right hand or to the left, to the end that he may prolong his days in his kingdom, he and his children, in the midst of Israel.
+[20] that his heart may not be lifted up above his brothers, and that he may not turn aside from the commandment, to the right hand or to the left, to the end that he may prolong his days in his kingdom, he and his children, in the midst of ⟦israel|Yisrael|Israel⟧.
 
 ## Changes
 

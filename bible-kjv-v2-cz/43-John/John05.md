@@ -1,42 +1,42 @@
 # Jan 5
 
-[1] Potom byl židovský svátek a *Yeshua* vystoupil do Jerusalemu.
+[1] Potom byl židovský svátek a ⟦yeshua|Ješua|Ježíš⟧ vystoupil do ⟦jerusalem|Jerušalajim|Jeruzaléma⟧.
 
-[2] V Jerusalemě je u Ovčí brány rybník, aramejsky zvaný Bethesda, který má pět krytých sloupořadí.
+[2] V ⟦jerusalem|Jerušalajim|Jeruzalémě⟧ je u Ovčí brány rybník, ⟦aramaic|aramit|aramejsky⟧ zvaný ⟦bethesda|Bejt Chesda|Bethesda⟧, který má pět krytých sloupořadí.
 
 [3] V nich leželo množství nemocných – slepých, chromých a ochrnutých.
 
 [5] Byl tam jeden člověk, který byl nemocen třicet osm let.
 
-[6] Když ho *Yeshua* uviděl ležet a poznal, že je tam už dlouhou dobu, řekl mu: „Chceš být uzdraven?“
+[6] Když ho ⟦yeshua|Ješua|Ježíš⟧ uviděl ležet a poznal, že je tam už dlouhou dobu, řekl mu: „Chceš být uzdraven?“
 
 [7] Nemocný mu odpověděl: „Pane, nemám nikoho, kdo by mě spustil do rybníka, když se voda rozvíří; a než tam dojdu, sestoupí přede mnou jiný.“
 
-[8] *Yeshua* mu řekl: „Vstaň, vezmi své lůžko a choď.“
+[8] ⟦yeshua|Ješua|Ježíš⟧ mu řekl: „Vstaň, vezmi své lůžko a choď.“
 
 [9] A ten člověk byl hned uzdraven, vzal své lůžko a chodil.
 
-Toho dne byl sabat.
+Toho dne ⟦shabbat|byl šabat|byla sobota⟧.
 
-[10] Židé tedy říkali uzdravenému: „Je sabat, a nesmíš nést své lůžko.“
+[10] ⟦jews|Jehudim|Židé⟧ tedy říkali uzdravenému: „Je ⟦shabbat|šabat|sobota⟧, a nesmíš nést své lůžko.“
 
 [11] On jim však odpověděl: „Ten, kdo mě uzdravil, ten mi řekl: ‚Vezmi své lůžko a choď.‘“
 
 [12] Zeptali se ho: „Kdo je ten člověk, který ti řekl: ‚Vezmi své lůžko a choď‘?“
 
-[13] Uzdravený však nevěděl, kdo to byl, neboť *Yeshua* se vzdálil, protože na tom místě byl zástup.
+[13] Uzdravený však nevěděl, kdo to byl, neboť ⟦yeshua|Ješua|Ježíš⟧ se vzdálil, protože na tom místě byl zástup.
 
-[14] Potom ho *Yeshua* nalezl v chrámu a řekl mu: „Hle, jsi zdráv! Už nehřeš, aby se ti nepřihodilo něco horšího.“
+[14] Potom ho ⟦yeshua|Ješua|Ježíš⟧ nalezl v chrámu a řekl mu: „Hle, jsi zdráv! Už nehřeš, aby se ti nepřihodilo něco horšího.“
 
-[15] Ten člověk odešel a oznámil Židům, že ho uzdravil *Yeshua*.
+[15] Ten člověk odešel a oznámil ⟦jews|Jehudim|Židům⟧, že ho uzdravil ⟦yeshua|Ješua|Ježíš⟧.
 
-[16] A proto Židé pronásledovali *Yeshuu*, že to činil v sabat.
+[16] A proto ⟦jews|Jehudim|Židé⟧ pronásledovali ⟦yeshua|Ješuu|Ježíše⟧, že to činil v ⟦shabbat|šabat|sobotu⟧.
 
-[17] *Yeshua* jim však odpověděl: „**Můj Otec pracuje až dosud, i já pracuji.**“
+[17] ⟦yeshua|Ješua|Ježíš⟧ jim však odpověděl: „**Můj Otec pracuje až dosud, i já pracuji.**“
 
-[18] Proto se ho Židé ještě více snažili zabít, protože nejen rušil sabat, ale dokonce nazýval *Elohim* svým vlastním Otcem, a tak se činil rovným *Elohim*.
+[18] Proto se ho ⟦jews|Jehudim|Židé⟧ ještě více snažili zabít, protože nejen rušil ⟦shabbat|šabat|sobotu⟧, ale dokonce nazýval ⟦elohim|Elohim|Boha⟧ svým vlastním Otcem, a tak se činil rovným ⟦elohim|Elohim|Bohu⟧.
 
-[19] *Yeshua* jim tedy řekl: „Vpravdě, vpravdě vám říkám, Syn nemůže sám od sebe činit nic, jen to, co vidí činit Otce. Neboť cokoli činí Otec, to stejně činí i Syn.
+[19] ⟦yeshua|Ješua|Ježíš⟧ jim tedy řekl: „Vpravdě, vpravdě vám říkám, Syn nemůže sám od sebe činit nic, jen to, co vidí činit Otce. Neboť cokoli činí Otec, to stejně činí i Syn.
 
 [20] Otec totiž miluje Syna a ukazuje mu všechno, co sám činí. A ukáže mu ještě větší skutky než tyto, abyste se divili.
 
@@ -48,7 +48,7 @@ Toho dne byl sabat.
 
 [24] Vpravdě, vpravdě vám říkám: **kdo slyší mé slovo a věří tomu, který mě poslal, má věčný život. Nepřichází na soud, ale přešel ze smrti do života.**
 
-[25] Vpravdě, vpravdě vám říkám: přichází hodina, a už je tu, kdy mrtví uslyší hlas Syna *Elohim*, a ti, kdo uslyší, budou žít.
+[25] Vpravdě, vpravdě vám říkám: přichází hodina, a už je tu, kdy mrtví uslyší hlas Syna ⟦elohim|Elohim|Božího⟧, a ti, kdo uslyší, budou žít.
 
 [26] Neboť jako Otec má život sám v sobě, tak dal i Synovi, aby měl život sám v sobě.
 
@@ -64,13 +64,13 @@ Toho dne byl sabat.
 
 [32] Je jiný, kdo o mně vydává svědectví, a vím, že svědectví, které o mně vydává, je pravdivé.
 
-[33] Vy jste poslali k Johnovi a on vydal svědectví pravdě.
+[33] Vy jste poslali k ⟦john|Jochananovi|Janovi⟧ a on vydal svědectví pravdě.
 
 [34] Ne že bych já přijímal svědectví od člověka, ale říkám to, abyste vy byli spaseni.
 
 [35] On byl lampou, která hořela a svítila, a vy jste se chtěli na chvíli radovat v jejím světle.
 
-[36] Já však mám svědectví větší než Johnovo. Neboť skutky, které mi Otec dal dokonat, právě ty skutky, které činím, o mně svědčí, že mě Otec poslal.
+[36] Já však mám svědectví větší než ⟦john|Jochananovo|Janovo⟧. Neboť skutky, které mi Otec dal dokonat, právě ty skutky, které činím, o mně svědčí, že mě Otec poslal.
 
 [37] A Otec, který mě poslal, sám o mně vydal svědectví. Jeho hlas jste nikdy neslyšeli, jeho podobu jste nikdy neviděli
 
@@ -82,15 +82,15 @@ Toho dne byl sabat.
 
 [41] Slávu od lidí nepřijímám.
 
-[42] Ale poznal jsem vás, že v sobě nemáte lásku k *Elohim*.
+[42] Ale poznal jsem vás, že v sobě nemáte lásku k ⟦elohim|Elohim|Bohu⟧.
 
 [43] Přišel jsem ve jménu svého Otce, a nepřijímáte mě. Přijde-li jiný ve svém vlastním jménu, toho přijmete.
 
-[44] Jak můžete uvěřit, když přijímáte slávu jeden od druhého, a slávu, která je od jediného *Elohim*, nehledáte?
+[44] Jak můžete uvěřit, když přijímáte slávu jeden od druhého, a slávu, která je od jediného ⟦elohim|Elohim|Boha⟧, nehledáte?
 
-[45] Nemyslete si, že já vás budu obžalovávat u Otce. Je tu ten, kdo vás obžalovává: Moses, na něhož jste složili svou naději.
+[45] Nemyslete si, že já vás budu obžalovávat u Otce. Je tu ten, kdo vás obžalovává: ⟦moses|Moše|Mojžíš⟧, na něhož jste složili svou naději.
 
-[46] Kdybyste věřili Mosesovi, věřili byste mně; neboť on psal o mně.
+[46] Kdybyste věřili ⟦moses|Mošovi|Mojžíšovi⟧, věřili byste mně; neboť on psal o mně.
 
 [47] Jestliže však nevěříte jeho spisům, jak uvěříte mým slovům?“
 

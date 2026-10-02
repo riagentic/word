@@ -1,9 +1,9 @@
 # Jóel 2
 
-[1] Troubte na trubku na Zionu,
+[1] Troubte na ⟦shofar|šofar|polnici⟧ na ⟦zion|Cijonu|Sijónu⟧,
 vyhlaste poplach na mé svaté hoře!
 Ať se třesou všichni obyvatelé země,
-neboť přichází **Den Yahweh**; je blízko:
+neboť přichází **Den ⟦yhwh|Jahveho|Hospodina⟧**; je blízko:
 
 [2] den tmy a šera,
 den oblaků a husté temnoty!
@@ -15,7 +15,7 @@ po léta všech pokolení.
 
 [3] Před ním požírá oheň
 a za ním plane plamen.
-Země je před ním jako zahrada Eden,
+Země je před ním jako zahrada ⟦eden|Eden|Éden⟧,
 ale za ním zpustošená pustina
 a nic mu neunikne.
 
@@ -50,28 +50,28 @@ nebesa se chvějí.
 Slunce i měsíc se zatmívají
 a hvězdy odnímají svůj svit.
 
-[11] Yahweh vydává svůj hlas před svým vojskem,
+[11] ⟦yhwh|Jahve|Hospodin⟧ vydává svůj hlas před svým vojskem,
 neboť jeho tábor je nesmírně veliký;
 ten, kdo vykonává jeho slovo, je mocný.
-Neboť Den Yahweh je veliký a velmi úctyhodný;
+Neboť Den ⟦yhwh|Jahveho|Hospodina⟧ je veliký a velmi úctyhodný;
 kdo jej snese?
 
-[12] „Ale i nyní,“ je výrok Yahweh,
+[12] „Ale i nyní,“ je výrok ⟦yhwh|Jahveho|Hospodina⟧,
 „vraťte se ke mně celým svým srdcem,
 s postem, s pláčem a s naříkáním;
 
 [13] roztrhněte svá srdce, a ne svá roucha.“
-Vraťte se k Yahweh, svému *Elohim*,
+Vraťte se k ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧,
 neboť je milostivý a milosrdný,
-pomalý k hněvu a hojný věrnou láskou;
+pomalý k hněvu a hojný ⟦steadfast-love|chesedem|milosrdenstvím⟧;
 a lituje pohromy.
 
 [14] Kdo ví, zda se neobrátí a nebude litovat
 a nezanechá za sebou požehnání,
 přídavnou oběť a úlitbu
-pro Yahweh, vašeho *Elohim*?
+pro ⟦yhwh|Jahveho|Hospodina⟧, vašeho ⟦elohim|Elohim|Boha⟧?
 
-[15] Troubte na trubku na Zionu,
+[15] Troubte na ⟦shofar|šofar|polnici⟧ na ⟦zion|Cijonu|Sijónu⟧,
 posvěťte půst,
 svolejte slavnostní shromáždění;
 
@@ -84,17 +84,17 @@ Ať ženich opustí svou komnatu
 a nevěsta svou ložnici.
 
 [17] Mezi předsíní a oltářem
-ať pláčou kněží, služebníci Yahweh,
-a říkají: „Ušetři svůj lid, Yahweh,
+ať pláčou kněží, služebníci ⟦yhwh|Jahveho|Hospodina⟧,
+a říkají: „Ušetři svůj lid, ⟦yhwh|Jahve|Hospodine⟧,
 a nevydávej své dědictví potupě,
 aby bylo pořekadlem mezi národy.
 Proč by mezi národy měli říkat:
-‚Kde je jejich *Elohim*?‘“
+‚Kde je jejich ⟦elohim|Elohim|Bůh⟧?‘“
 
-[18] Tu Yahweh zahořel horlivostí pro svou zemi
+[18] Tu ⟦yhwh|Jahve|Hospodin⟧ zahořel horlivostí pro svou zemi
 a slitoval se nad svým lidem.
 
-[19] Yahweh odpověděl a řekl svému lidu: „Hle, posílám vám obilí, víno a olej a nasytíte se; a již vás nevydám potupě mezi národy.
+[19] ⟦yhwh|Jahve|Hospodin⟧ odpověděl a řekl svému lidu: „Hle, posílám vám obilí, víno a olej a nasytíte se; a již vás nevydám potupě mezi národy.
 
 [20] Seveřana od vás vzdálím
 a zaženu ho do vyprahlé a zpustošené země,
@@ -105,15 +105,15 @@ neboť dělal veliké věci.
 
 [21] Neboj se, země;
 raduj se a jásej,
-neboť Yahweh učinil veliké věci!
+neboť ⟦yhwh|Jahve|Hospodin⟧ učinil veliké věci!
 
 [22] Nebojte se, polní zvířata,
 neboť pastviny v pustině se zelenají;
 strom nese své ovoce;
 fíkovník i réva dávají plnou úrodu.
 
-[23] Radujte se, synové Zionu,
-a jásejte v Yahweh, svém *Elohim*,
+[23] Radujte se, synové ⟦zion|Cijonu|Sijónu⟧,
+a jásejte v ⟦yhwh|Jahvovi|Hospodinu⟧, svém ⟦elohim|Elohim|Bohu⟧,
 neboť vám dal raný déšť k vašemu ospravedlnění;
 seslal vám hojný déšť,
 raný i pozdní déšť, jako dříve.
@@ -127,12 +127,12 @@ skákající, ničivé a ořezávající saranče,
 mé veliké vojsko, které jsem mezi vás poslal.
 
 [26] Budete jíst do sytosti a nasytíte se
-a budete chválit jméno Yahweh, svého *Elohim*,
+a budete chválit jméno ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧,
 který s vámi jednal podivuhodně.
 A můj lid už nikdy nebude zahanben.
 
-[27] Poznáte, že jsem uprostřed Israele
-a že já jsem Yahweh, váš *Elohim*, a jiného není.
+[27] Poznáte, že jsem uprostřed ⟦israel|Jisraele|Izraele⟧
+a že já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧, a jiného není.
 A můj lid už nikdy nebude zahanben.
 
 [28] A stane se potom,
@@ -149,14 +149,14 @@ krev, oheň a sloupy dýmu.
 
 [31] Slunce se obrátí ve tmu
 a měsíc v krev,
-než přijde veliký a úctyhodný Den Yahweh.
+než přijde veliký a úctyhodný Den ⟦yhwh|Jahveho|Hospodina⟧.
 
 [32] A stane se, že každý,
-kdo vzývá jméno Yahweh, bude zachráněn.
-Neboť na hoře Zion a v Jerusalemě
+kdo vzývá jméno ⟦yhwh|Jahveho|Hospodina⟧, bude zachráněn.
+Neboť na hoře ⟦zion|Cijon|Sijónu⟧ a v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧
 budou ti, kdo uniknou,
-jak řekl Yahweh,
-a mezi těmi, kdo přežijí, budou ti, které Yahweh povolá.“
+jak řekl ⟦yhwh|Jahve|Hospodin⟧,
+a mezi těmi, kdo přežijí, budou ti, které ⟦yhwh|Jahve|Hospodin⟧ povolá.“
 
 ## Změny
 

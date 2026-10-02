@@ -1,78 +1,78 @@
 # Nehemjáš 11
 
-[1] Úředníci lidu bydleli v Jerusalemě. Ostatní lid metal losy, aby přivedli jednoho z každých deseti bydlet v Jerusalemě, svatém městě, zatímco devět zůstalo v ostatních městech.
+[1] Úředníci lidu bydleli v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧. Ostatní lid metal losy, aby přivedli jednoho z každých deseti bydlet v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧, svatém městě, zatímco devět zůstalo v ostatních městech.
 
-[2] Lid požehnal všem mužům, kteří se dobrovolně nabídli bydlet v Jerusalemě.
+[2] Lid požehnal všem mužům, kteří se dobrovolně nabídli bydlet v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧.
 
-[3] Toto jsou přední muži provincie, kteří bydleli v Jerusalemě – v městech Judahu však bydlel každý na svém majetku ve svých městech: Israel, kněží, Levité, chrámoví služebníci a potomci Solomonových služebníků.
+[3] Toto jsou přední muži provincie, kteří bydleli v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧ – v městech ⟦judah|Jehudy|Judy⟧ však bydlel každý na svém majetku ve svých městech: ⟦israel|Jisrael|Izrael⟧, kněží, ⟦levites|Levijim|lévijci⟧, ⟦nethinim|Netinim|chrámoví nevolníci⟧ a potomci ⟦solomon|Šlomových|Šalomounových⟧ služebníků.
 
-[4] V Jerusalemě bydleli někteří ze synů Judahových a ze synů Benjaminových.
+[4] V ⟦jerusalem|Jerušalajim|Jeruzalémě⟧ bydleli někteří ze synů ⟦judah|Jehudových|Judových⟧ a ze synů ⟦benjamin|Binjaminových|Benjamínových⟧.
 
-Ze synů Judahových: Athaiah, syn Uzziaha, syna Zechariaha, syna Amariaha, syna Shephatiaha, syna Mahalalela, ze synů Pereze;
+Ze synů ⟦judah|Jehudových|Judových⟧: ⟦athaiah|Ataja|Atajáš⟧, syn ⟦uzziah|Uzzijahua|Uzijáše⟧, syna ⟦zechariah|Zecharji|Zacharjáše⟧, syna ⟦amariah|Amarji|Amarjáše⟧, syna ⟦shephatiah|Šefatji|Šefatjáše⟧, syna Mahalalela, ze synů ⟦perez|Perece|Peresa⟧;
 
-[5] a Maaseiah, syn Barucha, syna Col-hozeho, syna Hazaiaha, syna Adaiaha, syna Joiariba, syna Zechariaha, potomek Shiloňana.
+[5] a ⟦maaseiah|Maaseja|Maasejáš⟧, syn ⟦baruch|Barucha|Báruka⟧, syna ⟦col-hozeh|Kol-Chozeho|Kol-chózeho⟧, syna ⟦hazaiah|Chazaji|Chazajáše⟧, syna ⟦adaiah|Adaji|Adajáše⟧, syna ⟦joiarib|Jojariva|Jójaríba⟧, syna ⟦zechariah|Zecharji|Zacharjáše⟧, potomek ⟦shilonite|Šiloniho|Šíloňana⟧.
 
-[6] Všech synů Pereze, kteří bydleli v Jerusalemě, bylo 468 udatných mužů.
+[6] Všech synů ⟦perez|Perece|Peresa⟧, kteří bydleli v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧, bylo 468 udatných mužů.
 
-[7] Toto jsou synové Benjaminovi: Sallu, syn Meshullama, syna Joeda, syna Pedaiaha, syna Kolaiaha, syna Maaseiaha, syna Ithiela, syna Jeshaiaha;
+[7] Toto jsou synové ⟦benjamin|Binjaminovi|Benjamínovi⟧: ⟦sallu|Sallu|Salú⟧, syn ⟦meshullam|Mešullama|Mešulama⟧, syna ⟦joed|Joeda|Jóeda⟧, syna ⟦pedaiah|Pedaji|Pedajáše⟧, syna ⟦kolaiah|Kolaji|Kolajáše⟧, syna ⟦maaseiah|Maaseji|Maasejáše⟧, syna ⟦ithiel|Itiela|Itíela⟧, syna ⟦jeshaiah|Ješaji|Ješajáše⟧;
 
-[8] a po něm Gabbai, Sallai – 928.
+[8] a po něm ⟦gabbai|Gabbaj|Gabaj⟧, ⟦sallai|Sallaj|Salaj⟧ – 928.
 
-[9] Joel, syn Zichriho, byl jejich dozorcem; Judah, syn Hassenuaha, byl druhý nad městem.
+[9] ⟦joel|Joel|Jóel⟧, syn ⟦zichri|Zichriho|Zikrího⟧, byl jejich dozorcem; ⟦judah|Jehuda|Juda⟧, syn ⟦hassenuah|HaSenua|Senúa⟧, byl druhý nad městem.
 
-[10] Z kněží: Jedaiah, syn Joiariba, Jachin,
+[10] Z kněží: ⟦jedaiah|Jedaja|Jedajáš⟧, syn ⟦joiarib|Jojariva|Jójaríba⟧, ⟦jachin|Jachin|Jakín⟧,
 
-[11] Seraiah, syn Hilkiaha, syna Meshullama, syna Zadoka, syna Meraiotha, syna Ahituba, vrchní správce domu *Elohim*;
+[11] ⟦seraiah|Seraja|Serajáš⟧, syn ⟦hilkiah|Chilkijahua|Chilkijáše⟧, syna ⟦meshullam|Mešullama|Mešulama⟧, syna ⟦zadok|Cadoka|Sádoka⟧, syna ⟦meraioth|Merajota|Merajóta⟧, syna ⟦ahitub|Achituva|Achítúba⟧, vrchní správce domu ⟦elohim|Elohim|Božího⟧;
 
-[12] jejich bratři, kteří konali práci v domě – 822. A Adaiah, syn Jerohama, syna Pelaliaha, syna Amziho, syna Zechariaha, syna Pashhura, syna Malchijaha,
+[12] jejich bratři, kteří konali práci v domě – 822. A ⟦adaiah|Adaja|Adajáš⟧, syn ⟦jeroham|Jerochama|Jerócháma⟧, syna ⟦pelaliah|Pelalji|Pelaljáše⟧, syna ⟦amzi|Amciho|Amsího⟧, syna ⟦zechariah|Zecharji|Zacharjáše⟧, syna ⟦pashhur|Pašchura|Pašchúra⟧, syna ⟦malchijah|Malkiji|Malkijáše⟧,
 
-[13] se svými bratry, hlavami otcovských domů – 242. A Amashsai, syn Azarela, syna Ahzaie, syna Meshillemotha, syna Immera,
+[13] se svými bratry, hlavami otcovských domů – 242. A Amašsaj, syn Azarela, syna Achzaje, syna ⟦meshillemoth|Mešillemota|Mešilemóta⟧, syna ⟦immer|Immera|Iméra⟧,
 
-[14] s jejich bratry, udatnými bojovníky – 128; jejich dozorcem byl Zabdiel, syn Haggedolima.
+[14] s jejich bratry, udatnými bojovníky – 128; jejich dozorcem byl ⟦zabdiel|Zavdiel|Zabdíel⟧, syn ⟦haggedolim|HaGedolima|Hagedólima⟧.
 
-[15] Z Levitů: Shemaiah, syn Hasshuba, syna Azrikama, syna Hashabiaha, syna Bunniho;
+[15] Z ⟦levites|Levijim|lévijců⟧: ⟦shemaiah|Šemaja|Šemajáš⟧, syn ⟦hasshub|Chaššuva|Chašúba⟧, syna ⟦azrikam|Azrikama|Azríkama⟧, syna ⟦hashabiah|Chašavji|Chašabjáše⟧, syna ⟦bunni|Bunniho|Buního⟧;
 
-[16] Shabbethai a Jozabad, přední z Levitů, měli dohled nad vnějšími záležitostmi domu *Elohim*;
+[16] ⟦shabbethai|Šabbetaj|Šabtaj⟧ a ⟦jozabad|Jozavad|Józabad⟧, přední z ⟦levites|Levijim|lévijců⟧, měli dohled nad vnějšími záležitostmi domu ⟦elohim|Elohim|Božího⟧;
 
-[17] Mattaniah, syn Micy, syna Zabdiho, syna Asapha, byl vedoucím, který začínal díkůvzdání při modlitbě; a Bakbukiah, druhý mezi svými bratry; a Abda, syn Shammuy, syna Galala, syna Jeduthuna.
+[17] ⟦mattaniah|Mattanja|Matanjáš⟧, syn ⟦mica|Michy|Míky⟧, syna ⟦zabdi|Zavdiho|Zabdího⟧, syna Asafa, byl vedoucím, který začínal díkůvzdání při modlitbě; a ⟦bakbukiah|Bakbukja|Bakbukjáš⟧, druhý mezi svými bratry; a ⟦abda|Avda|Abda⟧, syn ⟦shammua|Šammuy|Šamúy⟧, syna Galala, syna ⟦jeduthun|Jedutuna|Jedútúna⟧.
 
-[18] Všech Levitů ve svatém městě bylo 284.
+[18] Všech ⟦levites|Levijim|lévijců⟧ ve svatém městě bylo 284.
 
-[19] Vrátní: Akkub, Talmon a jejich bratři, kteří drželi stráž u bran – 172.
+[19] Vrátní: ⟦akkub|Akkuv|Akúb⟧, ⟦talmon|Talmon|Talmón⟧ a jejich bratři, kteří drželi stráž u bran – 172.
 
-[20] Ostatní z Israele, kněží a Levité byli ve všech městech Judahu, každý na svém dědictví.
+[20] Ostatní z ⟦israel|Jisraele|Izraele⟧, kněží a ⟦levites|Levijim|lévijci⟧ byli ve všech městech ⟦judah|Jehudy|Judy⟧, každý na svém dědictví.
 
-[21] Chrámoví služebníci bydleli na Ophelu; Ziha a Gishpa byli nad chrámovými služebníky.
+[21] ⟦nethinim|Netinim|Chrámoví nevolníci⟧ bydleli na Ofelu; ⟦ziha|Cicha|Sícha⟧ a Gišpa byli nad ⟦nethinim|Netinim|chrámovými nevolníky⟧.
 
-[22] Dozorcem Levitů v Jerusalemě byl Uzzi, syn Baniho, syna Hashabiaha, syna Mattaniaha, syna Micy, ze synů Asapha, zpěváků, kteří byli nad záležitostmi domu *Elohim*.
+[22] Dozorcem ⟦levites|Levijim|lévijců⟧ v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧ byl ⟦uzzi|Uzzi|Uzí⟧, syn ⟦bani|Baniho|Baního⟧, syna ⟦hashabiah|Chašavji|Chašabjáše⟧, syna ⟦mattaniah|Mattanji|Matanjáše⟧, syna ⟦mica|Michy|Míky⟧, ze synů Asafa, zpěváků, kteří byli nad záležitostmi domu ⟦elohim|Elohim|Božího⟧.
 
 [23] Nad nimi totiž byl králův příkaz, ustanovení pro zpěváky, zaopatření na každý den.
 
-[24] Pethahiah, syn Meshezabela, ze synů Zeraha, syna Judahova, byl po králově ruce ve všech záležitostech týkajících se lidu.
+[24] ⟦pethahiah|Petachja|Petachjáš⟧, syn ⟦meshezabel|Mešezavela|Mešezabela⟧, ze synů Zeracha, syna ⟦judah|Jehudova|Judova⟧, byl po králově ruce ve všech záležitostech týkajících se lidu.
 
-[25] Co se týče vesnic s jejich poli, někteří ze synů Judahových bydleli v Kiriath-arbě a jejích vesnicích, v Dibonu a jeho vesnicích, v Jekabzeelu a jeho vesnicích,
+[25] Co se týče vesnic s jejich poli, někteří ze synů ⟦judah|Jehudových|Judových⟧ bydleli v ⟦kiriath-arba|Kirjat Arbě|Kirjat-arbě⟧ a jejích vesnicích, v ⟦dibon|Divonu|Díbonu⟧ a jeho vesnicích, v ⟦jekabzeel|Jekavceelu|Jekabseelu⟧ a jeho vesnicích,
 
-[26] v Jeshui, Moladě, Beth-peletu,
+[26] v ⟦jeshua|Ješui|Jéšui⟧, Moladě, ⟦beth-pelet|Bejt Peletu|Bét-peletu⟧,
 
-[27] Hazar-shualu, Beershebě a jejích vesnicích,
+[27] ⟦hazar-shual|Chacar Šualu|Chasar-šúalu⟧, ⟦beersheba|Beer Ševě|Beer-šebě⟧ a jejích vesnicích,
 
-[28] Ziklagu, Meconě a jejích vesnicích,
+[28] ⟦ziklag|Ciklagu|Siklagu⟧, ⟦meconah|Mechoně|Mekoně⟧ a jejích vesnicích,
 
-[29] En-rimmonu, Zoře, Jarmuthu,
+[29] ⟦en-rimmon|Ein Rimmonu|Én-rimónu⟧, ⟦zorah|Coře|Soreji⟧, ⟦jarmuth|Jarmutu|Jarmútu⟧,
 
-[30] Zanoahu, Adullamu a jejich vesnicích, Lachishi a jeho polích, Azece a jejích vesnicích. Bydleli tedy od Beersheby až k Údolí Hinnom.
+[30] ⟦zanoah|Zanoachu|Zanóachu⟧, ⟦adullam|Adullamu|Adulamu⟧ a jejich vesnicích, ⟦lachish|Lachiši|Lakíši⟧ a jeho polích, Azece a jejích vesnicích. Bydleli tedy od ⟦beersheba|Beer Ševy|Beer-šeby⟧ až k Údolí ⟦hinnom|Hinnom|Hinóm⟧.
 
-[31] Synové Benjaminovi bydleli od Geby dále: v Michmashi, Aije, Bethelu a jeho vesnicích,
+[31] Synové ⟦benjamin|Binjaminovi|Benjamínovi⟧ bydleli od ⟦geba|Gevy|Geby⟧ dále: v ⟦michmash|Michmasu|Mikmásu⟧, ⟦aija|Ajje|Ajatu⟧, ⟦bethel|Bejt Elu|Bét-elu⟧ a jeho vesnicích,
 
-[32] Anathothu, Nobu, Ananiahu,
+[32] ⟦anathoth|Anatotu|Anatótu⟧, ⟦nob|Novu|Nóbu⟧, ⟦ananiah|Ananji|Ananjáši⟧,
 
-[33] Hazoru, Ramě, Gittaimu,
+[33] ⟦hazor|Chacoru|Chasóru⟧, ⟦ramah|Ramě|Rámě⟧, ⟦gittaim|Gittajimu|Gitajimu⟧,
 
-[34] Hadidu, Zeboimu, Neballatu,
+[34] ⟦hadid|Chadidu|Chadídu⟧, ⟦zeboim|Cevoimu|Seboímu⟧, ⟦neballat|Nevallatu|Neblatu⟧,
 
-[35] Lodu, Onu, v Údolí řemeslníků.
+[35] ⟦lod|Lodu|Lódu⟧, ⟦ono|Ono|Ónó⟧, v Údolí řemeslníků.
 
-[36] Z Levitů byly některé oddíly z Judahu připojeny k Benjaminovi.
+[36] Z ⟦levites|Levijim|lévijců⟧ byly některé oddíly z ⟦judah|Jehudy|Judska⟧ připojeny k ⟦benjamin|Binjaminovi|Benjamínovi⟧.
 
 ## Změny
 

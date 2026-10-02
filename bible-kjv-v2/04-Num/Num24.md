@@ -1,24 +1,24 @@
 # Numbers 24
 
-[1] When Balaam saw that it was good in the eyes of Yahweh to bless Israel, he did not go, as at other times, to seek for omens, but he set his face toward the wilderness.
+[1] When ⟦balaam|Bilam|Balaam⟧ saw that it was good in the eyes of ⟦yhwh|Yahweh|the LORD⟧ to bless ⟦israel|Yisrael|Israel⟧, he did not go, as at other times, to seek for omens, but he set his face toward the wilderness.
 
-[2] Balaam lifted up his eyes and saw Israel encamped, tribe by tribe; and the spirit of *Elohim* came upon him.
+[2] ⟦balaam|Bilam|Balaam⟧ lifted up his eyes and saw ⟦israel|Yisrael|Israel⟧ encamped, tribe by tribe; and the spirit of ⟦elohim|Elohim|God⟧ came upon him.
 
 [3] He took up his oracle and said:
 
-"The utterance of Balaam son of Beor,
+"The utterance of ⟦balaam|Bilam|Balaam⟧ son of Beor,
 the utterance of the man whose eye is open;
 
-[4] the utterance of one who hears the words of *Elohim*,
-who sees the vision of Shaddai,
+[4] the utterance of one who hears the words of ⟦el|El|God⟧,
+who sees the vision of ⟦shaddai|Shaddai|the Almighty⟧,
 falling down with eyes uncovered:
 
-[5] How good are your tents, O Jacob,
-your dwellings, O Israel!
+[5] How good are your tents, O ⟦jacob|Yaaqov|Jacob⟧,
+your dwellings, O ⟦israel|Yisrael|Israel⟧!
 
 [6] Like wadis stretching out,
 like gardens beside a river,
-like aloes that Yahweh has planted,
+like aloes that ⟦yhwh|Yahweh|the LORD⟧ has planted,
 like cedars beside the waters.
 
 [7] Water shall flow from his buckets,
@@ -26,7 +26,7 @@ and his seed shall be in abundant waters;
 his king shall be higher than Agag,
 and his kingdom shall be exalted.
 
-[8] *Elohim* who brought him out of Egypt
+[8] ⟦el|El|God⟧ who brought him out of ⟦egypt|Mitzrayim|Egypt⟧
 is for him like the horns of the wild ox.
 He shall devour the nations, his adversaries,
 and crush their bones
@@ -37,70 +37,71 @@ like a lioness — who shall rouse him?
 Blessed are those who bless you,
 and cursed are those who curse you."
 
-[10] Balak's anger burned against Balaam, and he struck his hands together; and Balak said to Balaam, "I called you to curse my enemies, and behold, you have altogether blessed them these three times.
+[10] ⟦balak|Balaq's|Balak's⟧ anger burned against ⟦balaam|Bilam|Balaam⟧, and he struck his hands together; and ⟦balak|Balaq|Balak⟧ said to ⟦balaam|Bilam|Balaam⟧, "I called you to curse my enemies, and behold, you have altogether blessed them these three times.
 
-[11] Now therefore flee to your home. I said I would honor you greatly, but behold, Yahweh has withheld you from honor."
+[11] Now therefore flee to your home. I said I would honor you greatly, but behold, ⟦yhwh|Yahweh|the LORD⟧ has withheld you from honor."
 
-[12] And Balaam said to Balak, "Did I not also say to your messengers whom you sent to me,
+[12] And ⟦balaam|Bilam|Balaam⟧ said to ⟦balak|Balaq|Balak⟧, "Did I not also say to your messengers whom you sent to me,
 
-[13] 'If Balak would give me his house full of silver and gold, I could not go beyond the command of Yahweh, to do either good or bad of my own mind — but what Yahweh says, that I will speak'?
+[13] 'If ⟦balak|Balaq|Balak⟧ would give me his house full of silver and gold, I could not go beyond the command of ⟦yhwh|Yahweh|the LORD⟧, to do either good or bad of my own mind — but what ⟦yhwh|Yahweh|the LORD⟧ says, that I will speak'?
 
 [14] And now, behold, I am going to my own people. Come, let me inform you what this people will do to your people in the days to come."
 
 [15] He took up his oracle and said:
 
-"The utterance of Balaam son of Beor,
+"The utterance of ⟦balaam|Bilam|Balaam⟧ son of Beor,
 the utterance of the man whose eye is open;
 
-[16] the utterance of one who hears the words of *Elohim*,
-who knows the knowledge of Most High — the Most High,
-who sees the vision of Shaddai,
+[16] the utterance of one who hears the words of ⟦el|El|God⟧,
+who knows the knowledge of ⟦elyon|Elyon|the Most High⟧,
+who sees the vision of ⟦shaddai|Shaddai|the Almighty⟧,
 falling down with eyes uncovered:
 
 [17] I see him, but not now;
 I behold him, but not near:
-a star shall come forth from Jacob,
-and a scepter shall rise from Israel.
-It shall crush the brow of Moab,
-and break down all the sons of Seth.
+a star shall come forth from ⟦jacob|Yaaqov|Jacob⟧,
+and a scepter shall rise from ⟦israel|Yisrael|Israel⟧.
+It shall crush the brow of ⟦moab|Moav|Moab⟧,
+and break down all the sons of ⟦sheth|Shet|Sheth⟧.
 
 [18] Edom shall be a possession;
 Seir, its enemies, shall be a possession;
-while Israel does valiantly.
+while ⟦israel|Yisrael|Israel⟧ does valiantly.
 
-[19] One from Jacob shall have dominion,
+[19] One from ⟦jacob|Yaaqov|Jacob⟧ shall have dominion,
 and destroy the survivors of the city."
 
-[20] Then he looked on Amalek, and took up his oracle and said:
+[20] Then he looked on ⟦amalek|Amaleq|Amalek⟧, and took up his oracle and said:
 
-"Amalek was first among the nations,
+"⟦amalek|Amaleq|Amalek⟧ was first among the nations,
 but his end shall be utter destruction."
 
-[21] And he looked on the Kenite, and took up his oracle and said:
+[21] And he looked on the ⟦kenites|Qeni|Kenite⟧, and took up his oracle and said:
 
 "Enduring is your dwelling,
 and your nest is set in the rock;
 
-[22] yet Kain shall be consumed —
-how long until Asshur takes you captive?"
+[22] yet ⟦kain|Qayin|Kain⟧ shall be consumed —
+how long until ⟦asshur|Ashur|Asshur⟧ takes you captive?"
 
 [23] And he took up his oracle and said:
 
-"Alas, who shall live when *Elohim* does this?
+"Alas, who shall live when ⟦el|El|God⟧ does this?
 
 [24] Ships shall come from the coast of Kittim;
-they shall afflict Asshur and afflict Eber;
+they shall afflict ⟦asshur|Ashur|Asshur⟧ and afflict ⟦eber|Ever|Eber⟧;
 and he too shall come to utter destruction."
 
-[25] Then Balaam rose and went and returned to his place; and Balak also went his way.
+[25] Then ⟦balaam|Bilam|Balaam⟧ rose and went and returned to his place; and ⟦balak|Balaq|Balak⟧ also went his way.
 
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
+- **"God" → "El"** (v4, 8, 16, 23) — Hebrew אֵל *El*, as in the oracles of ch. 23.
 - **"enchantments" → "omens"** (v1) — Hebrew נְחָשִׁים *nechashim*. Divinatory practice — seeking signs.
 - **"spirit of God" → "spirit of *Elohim*"** (v2) — kept.
-- **"the most High" → "Most High — the Most High"** (v16) — Hebrew עֶלְיוֹן *Elyon*.
+- **"the most High" → "Elyon"** (v16) — Hebrew עֶלְיוֹן *Elyon*.
 - **"parable" → "oracle"** (throughout) — *mashal*.
 - **"falling into a trance" → "falling down"** (v4, 16) — Hebrew נֹפֵל *nofel*. The diviner's prostrate receptive posture; "trance" interpretive.
 - **"lign aloes" → "aloes"** (v6) — archaic term for aromatic aloe-wood.

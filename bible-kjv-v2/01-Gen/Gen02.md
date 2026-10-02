@@ -2,47 +2,47 @@
 
 [1] Thus the heavens and the earth were completed, and all their array.
 
-[2] On the seventh day *Elohim* finished the work he had done, and he rested on the seventh day from all the work he had done.
+[2] On the seventh day ⟦elohim|Elohim|God⟧ finished the work he had done, and he rested on the seventh day from all the work he had done.
 
-[3] *Elohim* blessed the seventh day and set it apart as holy, because on it he rested from all the work of creating that he had done.
+[3] ⟦elohim|Elohim|God⟧ blessed the seventh day and set it apart as holy, because on it he rested from all the work of creating that he had done.
 
-[4] These are the generations of the heavens and the earth when they were created, on the day that Yahweh *Elohim* made earth and heavens.
+[4] These are the generations of the heavens and the earth when they were created, on the day that ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ made earth and heavens.
 
-[5] No shrub of the field had yet appeared on the earth, and no plant of the field had yet sprung up, because Yahweh *Elohim* had not sent rain on the earth, and there was no human to till the ground.
+[5] No shrub of the field had yet appeared on the earth, and no plant of the field had yet sprung up, because ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ had not sent rain on the earth, and there was no human to till the ground.
 
 [6] But a stream would rise from the earth and water the whole face of the ground.
 
-[7] Then Yahweh *Elohim* formed the human from the dust of the ground and breathed into his nostrils the breath of life, and the human became a living being.
+[7] Then ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ formed the human from the dust of the ground and breathed into his nostrils the breath of life, and the human became a living being.
 
-[8] Yahweh *Elohim* planted a garden in Eden, in the east, and there he placed the human he had formed.
+[8] ⟦yhwh|Yahweh|The LORD⟧ ⟦elohim|Elohim|God⟧ planted a garden in Eden, in the east, and there he placed the human he had formed.
 
-[9] Out of the ground Yahweh *Elohim* made grow every tree pleasing to the sight and good for food — and the tree of life in the middle of the garden, and the tree of the knowledge of good and bad.
+[9] Out of the ground ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ made grow every tree pleasing to the sight and good for food — and the tree of life in the middle of the garden, and the tree of the knowledge of good and bad.
 
 [10] A river went out from Eden to water the garden, and from there it divided and became four headwaters.
 
-[11] The name of the first is Pishon; it winds through the whole land of Havilah, where there is gold,
+[11] The name of the first is Pishon; it winds through the whole land of ⟦havilah|Chavilah|Havilah⟧, where there is gold,
 
 [12] and the gold of that land is good. Bdellium and onyx stone are there too.
 
-[13] The name of the second river is Gihon; it winds through the whole land of Cush.
+[13] The name of the second river is ⟦gihon|Gichon|Gihon⟧; it winds through the whole land of ⟦cush|Kush|Cush⟧.
 
-[14] The name of the third river is Tigris; it flows east of Asshur. And the fourth river is the Euphrates.
+[14] The name of the third river is ⟦tigris|Chiddeqel|Tigris⟧; it flows east of ⟦assyria|Ashur|Assyria⟧. And the fourth river is the ⟦euphrates|Perat|Euphrates⟧.
 
-[15] Yahweh *Elohim* took the human and placed him in the garden of Eden to work it and to keep it.
+[15] ⟦yhwh|Yahweh|The LORD⟧ ⟦elohim|Elohim|God⟧ took the human and placed him in the garden of Eden to work it and to keep it.
 
-[16] And Yahweh *Elohim* commanded the human, saying, "From every tree of the garden you may freely eat;
+[16] And ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ commanded the human, saying, "From every tree of the garden you may freely eat;
 
 [17] but from the tree of the knowledge of good and bad you shall not eat, for on the day you eat of it you shall surely die."
 
-[18] Then Yahweh *Elohim* said, "It is not good for the human to be alone. I will make for him a helper corresponding to him."
+[18] Then ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ said, "It is not good for the human to be alone. I will make for him a helper corresponding to him."
 
-[19] So out of the ground Yahweh *Elohim* formed every wild animal of the field and every bird of the heavens, and brought them to the human to see what he would call them; and whatever the human called each living being, that was its name.
+[19] So out of the ground ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ formed every wild animal of the field and every bird of the heavens, and brought them to the human to see what he would call them; and whatever the human called each living being, that was its name.
 
 [20] The human gave names to all the livestock, to the birds of the heavens, and to every wild animal of the field; but for the human no helper corresponding to him was found.
 
-[21] So Yahweh *Elohim* caused a deep sleep to fall on the human, and he slept; and he took one of his sides and closed up the flesh in its place.
+[21] So ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ caused a deep sleep to fall on the human, and he slept; and he took one of his sides and closed up the flesh in its place.
 
-[22] And Yahweh *Elohim* built the side he had taken from the human into a woman and brought her to the human.
+[22] And ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ built the side he had taken from the human into a woman and brought her to the human.
 
 [23] And the human said,
 

@@ -1,108 +1,108 @@
 # Numeri 26
 
-[1] Po té ráně Yahweh promluvil k Mosesovi a k Eleazarovi, synu kněze Aarona, a řekl:
+[1] Po té ráně ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a k ⟦eleazar|Elazarovi|Eleazarovi⟧, synu kněze ⟦aaron|Aharona|Árona⟧, a řekl:
 
-[2] „Sečtěte celou pospolitost synů Israele od dvaceti let výše podle jejich otcovských domů – všechny v Israeli, kdo jsou schopni vytáhnout do války.“
+[2] „Sečtěte celou pospolitost synů ⟦israel|Jisraele|Izraele⟧ od dvaceti let výše podle jejich otcovských domů – všechny v ⟦israel|Jisraeli|Izraeli⟧, kdo jsou schopni vytáhnout do války.“
 
-[3] Moses a kněz Eleazar k nim tedy promluvili na moabských pláních u Jordanu naproti Jerichu:
+[3] ⟦moses|Moše|Mojžíš⟧ a kněz ⟦eleazar|Elazar|Eleazar⟧ k nim tedy promluvili na ⟦moab|moavských|moábských⟧ pláních u ⟦jordan|Jardenu|Jordánu⟧ naproti Jerichu:
 
-[4] „Sečtěte lid od dvaceti let výše, jak Yahweh přikázal Mosesovi.“ A synové Israele, kteří vyšli ze země Egypt, byli:
+[4] „Sečtěte lid od dvaceti let výše, jak ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧.“ A synové ⟦israel|Jisraele|Izraele⟧, kteří vyšli ze země ⟦egypt|Micrajim|Egypt⟧, byli:
 
-[5] Reuben, prvorozený Israele; synové Reubena: z Hanocha rod Hanochitů; z Pallua rod Palluitů;
+[5] ⟦reuben|Reuven|Rúben⟧, prvorozený ⟦israel|Jisraele|Izraele⟧; synové ⟦reuben|Reuvena|Rúbena⟧: z ⟦hanoch|Chanocha|Chanóka⟧ rod ⟦hanochites|Chanochi|Chanókovců⟧; z ⟦pallu|Pallua|Palúa⟧ rod ⟦palluites|Pallui|Paluovců⟧;
 
-[6] z Hezrona rod Hezronitů; z Carmiho rod Carmitů.
+[6] z ⟦hezron|Checrona|Chesróna⟧ rod ⟦hezronites|Checroni|Chesrónovců⟧; z ⟦carmi|Karmiho|Karmího⟧ rod ⟦carmites|Karmi|Karmíovců⟧.
 
-[7] To jsou rody Reubenitů; sečtených bylo 43 730.
+[7] To jsou rody ⟦reubenites|Reuveni|Rúbenovců⟧; sečtených bylo 43 730.
 
-[8] Syn Pallua: Eliab.
+[8] Syn ⟦pallu|Pallua|Palúa⟧: ⟦eliab|Eliav|Elíab⟧.
 
-[9] Synové Eliaba: Nemuel, Dathan a Abiram. (To jsou ti Dathan a Abiram, povolávaní z pospolitosti, kteří se přeli s Mosesem a Aaronem v Korahově tlupě, když se přeli s Yahweh;
+[9] Synové ⟦eliab|Eliava|Elíaba⟧: ⟦nemuel|Nemuel|Nemúel⟧, ⟦dathan|Datan|Dátan⟧ a ⟦abiram|Aviram|Abíram⟧. (To jsou ti ⟦dathan|Datan|Dátan⟧ a ⟦abiram|Aviram|Abíram⟧, povolávaní z pospolitosti, kteří se přeli s ⟦moses|Mošem|Mojžíšem⟧ a ⟦aaron|Aharonem|Áronem⟧ v ⟦korah|Korachově|Kórachově⟧ tlupě, když se přeli s ⟦yhwh|Jahvem|Hospodinem⟧;
 
-[10] a země otevřela svá ústa a pohltila je spolu s Korahem, když ta tlupa zemřela – když oheň pohltil 250 mužů; a stali se výstrahou.
+[10] a země otevřela svá ústa a pohltila je spolu s ⟦korah|Korachem|Kórachem⟧, když ta tlupa zemřela – když oheň pohltil 250 mužů; a stali se výstrahou.
 
-[11] Synové Koraha však nezemřeli.)
+[11] Synové ⟦korah|Koracha|Kóracha⟧ však nezemřeli.)
 
-[12] Synové Simeona podle jejich rodů: z Nemuela rod Nemuelitů; z Jamina rod Jaminitů; z Jachina rod Jachinitů;
+[12] Synové ⟦simeon|Šimona|Šimeóna⟧ podle jejich rodů: z ⟦nemuel|Nemuela|Nemúela⟧ rod ⟦nemuelites|Nemueli|Nemúelovců⟧; z ⟦jamin|Jamina|Jamína⟧ rod ⟦jaminites|Jamini|Jamínovců⟧; z ⟦jachin|Jachina|Jakína⟧ rod ⟦jachinites|Jachini|Jakínovců⟧;
 
-[13] ze Zeraha rod Zerahitů; ze Shaula rod Shaulitů.
+[13] ze Zeracha rod ⟦zerahites|Zarchi|Zerachovců⟧; ze Šaula rod ⟦shaulites|Šauli|Šaulovců⟧.
 
-[14] To jsou rody Simeonitů, 22 200.
+[14] To jsou rody ⟦simeonites|Šimoni|Šimeónovců⟧, 22 200.
 
-[15] Synové Gada podle jejich rodů: ze Zephona rod Zephonitů; z Haggiho rod Haggitů; ze Shuniho rod Shunitů;
+[15] Synové ⟦gad|Gada|Gáda⟧ podle jejich rodů: ze ⟦zephon|Cefona|Sefóna⟧ rod ⟦zephonites|Cefoni|Sefónovců⟧; z ⟦haggi|Chaggiho|Chagího⟧ rod ⟦haggites|Chaggi|Chagíovců⟧; ze ⟦shuni|Šuniho|Šúniho⟧ rod ⟦shunites|Šuni|Šúnovců⟧;
 
-[16] z Ozniho rod Oznitů; z Eriho rod Eritů;
+[16] z ⟦ozni|Ozniho|Ozního⟧ rod ⟦oznites|Ozni|Oznovců⟧; z ⟦eri|Eriho|Érího⟧ rod ⟦erites|Eri|Érovců⟧;
 
-[17] z Aroda rod Aroditů; z Areliho rod Arelitů.
+[17] z ⟦arodi|Aroda|Aróda⟧ rod ⟦arodites|Arodi|Aródovců⟧; z ⟦areli|Areliho|Arelího⟧ rod ⟦arelites|Areli|Arelíovců⟧.
 
-[18] To jsou rody synů Gada podle sečtených, 40 500.
+[18] To jsou rody synů ⟦gad|Gada|Gáda⟧ podle sečtených, 40 500.
 
-[19] Synové Judaha: Er a Onan; ale Er a Onan zemřeli v zemi Canaan.
+[19] Synové ⟦judah|Jehudy|Judy⟧: Er a ⟦onan|Onan|Ónan⟧; ale Er a ⟦onan|Onan|Ónan⟧ zemřeli v zemi Kenaan.
 
-[20] Synové Judaha podle jejich rodů: ze Shelaha rod Shelanitů; z Pereze rod Perezitů; ze Zeraha rod Zerahitů.
+[20] Synové ⟦judah|Jehudy|Judy⟧ podle jejich rodů: ze Šely rod ⟦shelanites|Šelani|Šelanovců⟧; z ⟦perez|Perece|Perese⟧ rod ⟦perezites|Parci|Peresovců⟧; ze Zeracha rod ⟦zerahites|Zarchi|Zerachovců⟧.
 
-[21] Synové Pereze: z Hezrona rod Hezronitů; z Hamula rod Hamulitů.
+[21] Synové ⟦perez|Perece|Perese⟧: z ⟦hezron|Checrona|Chesróna⟧ rod ⟦hezronites|Checroni|Chesrónovců⟧; z ⟦hamul|Chamula|Chamúla⟧ rod ⟦hamulites|Chamuli|Chamúlovců⟧.
 
-[22] To jsou rody Judaha podle sečtených, 76 500.
+[22] To jsou rody ⟦judah|Jehudy|Judy⟧ podle sečtených, 76 500.
 
-[23] Synové Issachara podle jejich rodů: z Toly rod Tolaitů; z Puvaha rod Punitů;
+[23] Synové ⟦issachar|Jissachara|Isachara⟧ podle jejich rodů: z ⟦tola|Toly|Tóly⟧ rod ⟦tolaites|Tolai|Tólovců⟧; z ⟦puvah|Puvvy|Púvy⟧ rod ⟦punites|Puni|Púnovců⟧;
 
-[24] z Jashuba rod Jashubitů; ze Shimrona rod Shimronitů.
+[24] z ⟦jashub|Jašuva|Jašúba⟧ rod ⟦jashubites|Jašuvi|Jašúbovců⟧; ze ⟦shimron|Šimrona|Šimróna⟧ rod ⟦shimronites|Šimroni|Šimrónovců⟧.
 
-[25] To jsou rody Issachara podle sečtených, 64 300.
+[25] To jsou rody ⟦issachar|Jissachara|Isachara⟧ podle sečtených, 64 300.
 
-[26] Synové Zebuluna podle jejich rodů: ze Sereda rod Sereditů; z Elona rod Elonitů; z Jahleela rod Jahleelitů.
+[26] Synové ⟦zebulun|Zevuluna|Zabulóna⟧ podle jejich rodů: ze Sereda rod ⟦seredites|Sardi|Seredovců⟧; z ⟦elon|Elona|Elóna⟧ rod ⟦elonites|Eloni|Elónovců⟧; z Jachleela rod ⟦jahleelites|Jachleeli|Jachleelovců⟧.
 
-[27] To jsou rody Zebulunitů podle sečtených, 60 500.
+[27] To jsou rody ⟦zebulunites|Zevuloni|Zabulónovců⟧ podle sečtených, 60 500.
 
-[28] Synové Josepha podle jejich rodů: Manasseh a Ephraim.
+[28] Synové Josefa podle jejich rodů: ⟦manasseh|Menaše|Manases⟧ a Efrajim.
 
-[29] Synové Manasseha: z Machira rod Machiritů; a Machir zplodil Gileada; z Gileada rod Gileaditů.
+[29] Synové ⟦manasseh|Menaše|Manasesa⟧: z ⟦machir|Machira|Makíra⟧ rod ⟦machirites|Machiri|Makírovců⟧; a ⟦machir|Machir|Makír⟧ zplodil ⟦gilead|Gilada|Gileáda⟧; z ⟦gilead|Gilada|Gileáda⟧ rod ⟦gileadite|Giladi|Gileádovců⟧.
 
-[30] Toto jsou synové Gileada: z Iezera rod Iezeritů; z Heleka rod Helekitů;
+[30] Toto jsou synové ⟦gilead|Gilada|Gileáda⟧: z ⟦iezer|Iezera|Íezera⟧ rod ⟦iezerites|Iezri|Íezerovců⟧; z Cheleka rod ⟦helekites|Chelki|Chelekovců⟧;
 
-[31] z Asriela rod Asrielitů; ze Shechema rod Shechemitů;
+[31] z ⟦asriel|Asriela|Asríela⟧ rod ⟦asrielites|Asrieli|Asríelovců⟧; ze ⟦shechem|Šechema|Šekema⟧ rod ⟦shechemites|Šichmi|Šekemovců⟧;
 
-[32] ze Shemidy rod Shemidaitů; z Hephera rod Hepheritů.
+[32] ze ⟦shemida|Šemidy|Šemídy⟧ rod ⟦shemidaites|Šemidai|Šemídovců⟧; z Chefera rod ⟦hepherites|Chefri|Cheferovců⟧.
 
-[33] Zelophehad, syn Hephera, neměl syny, jen dcery; a jména dcer Zelophehada byla Mahlah, Noah, Hoglah, Milcah a Tirzah.
+[33] ⟦zelophehad|Celofchad|Selofchad⟧, syn Chefera, neměl syny, jen dcery; a jména dcer ⟦zelophehad|Celofchada|Selofchada⟧ byla Machla, ⟦noa|Noa|Nóa⟧, Chogla, Milka a ⟦tirzah|Tirca|Tirsa⟧.
 
-[34] To jsou rody Manasseha a jejich sečtených bylo 52 700.
+[34] To jsou rody ⟦manasseh|Menaše|Manasesa⟧ a jejich sečtených bylo 52 700.
 
-[35] Toto jsou synové Ephraima podle jejich rodů: ze Shuthelaha rod Shuthelahitů; z Bechera rod Becheritů; z Tahana rod Tahanitů.
+[35] Toto jsou synové Efrajima podle jejich rodů: ze Šutelacha rod ⟦shuthelahites|Šutalchi|Šutelachovců⟧; z ⟦becher|Bechera|Bekera⟧ rod ⟦becherites|Bachri|Becherovců⟧; z Tachana rod ⟦tahanites|Tachani|Tachanovců⟧.
 
-[36] Toto jsou synové Shuthelaha: z Erana rod Eranitů.
+[36] Toto jsou synové Šutelacha: z ⟦eran|Erana|Érana⟧ rod ⟦eranites|Erani|Eránovců⟧.
 
-[37] To jsou rody synů Ephraima podle sečtených, 32 500. To jsou synové Josepha podle jejich rodů.
+[37] To jsou rody synů Efrajima podle sečtených, 32 500. To jsou synové Josefa podle jejich rodů.
 
-[38] Synové Benjamina podle jejich rodů: z Bely rod Belaitů; z Ashbela rod Ashbelitů; z Ahirama rod Ahiramitů;
+[38] Synové ⟦benjamin|Binjamina|Benjamína⟧ podle jejich rodů: z Bely rod ⟦belaites|Bali|Belovců⟧; z Ašbela rod ⟦ashbelites|Ašbeli|Ašbelovců⟧; z ⟦ahiram|Achirama|Achírama⟧ rod ⟦ahiramites|Achirami|Achíramovců⟧;
 
-[39] ze Shephuphama rod Shuphamitů; z Huphama rod Huphamitů.
+[39] ze ⟦shephupham|Šefufama|Šefúfama⟧ rod ⟦shuphamites|Šufami|Šúfamovců⟧; z ⟦hupham|Chufama|Chúfama⟧ rod ⟦huphamites|Chufami|Chúfamovců⟧.
 
-[40] Synové Bely byli Ard a Naaman; z Arda rod Arditů; z Naamana rod Naamitů.
+[40] Synové Bely byli Ard a ⟦naaman|Naaman|Naamán⟧; z Arda rod ⟦ardites|Ardi|Ardovců⟧; z ⟦naaman|Naamana|Naamána⟧ rod ⟦naamites|Naami|Naamánovců⟧.
 
-[41] To jsou synové Benjamina podle jejich rodů a jejich sečtených bylo 45 600.
+[41] To jsou synové ⟦benjamin|Binjamina|Benjamína⟧ podle jejich rodů a jejich sečtených bylo 45 600.
 
-[42] Toto jsou synové Dana podle jejich rodů: ze Shuhama rod Shuhamitů. To jsou rody Dana podle jejich rodů.
+[42] Toto jsou synové Dana podle jejich rodů: ze ⟦shuham|Šuchama|Šúchama⟧ rod ⟦shuhamites|Šuchami|Šúchamovců⟧. To jsou rody Dana podle jejich rodů.
 
-[43] Všech rodů Shuhamitů podle sečtených bylo 64 400.
+[43] Všech rodů ⟦shuhamites|Šuchami|Šúchamovců⟧ podle sečtených bylo 64 400.
 
-[44] Synové Ashera podle jejich rodů: z Imnaha rod Imnitů; z Ishviho rod Ishvitů; z Beriaha rod Beriitů.
+[44] Synové Ašera podle jejich rodů: z Jimny rod ⟦imnites|Jimna|Jimnovců⟧; z ⟦ishvi|Jišviho|Jišvího⟧ rod ⟦ishvites|Jišvi|Jišvíovců⟧; z ⟦beriah|Berii|Beríi⟧ rod ⟦beriites|Berii|Berijovců⟧.
 
-[45] Ze synů Beriaha: z Hebera rod Heberitů; z Malchiela rod Malchielitů.
+[45] Ze synů ⟦beriah|Berii|Beríi⟧: z ⟦heber|Chevera|Chebera⟧ rod ⟦heberites|Chevri|Cheberovců⟧; z ⟦malchiel|Malkiela|Malkíela⟧ rod ⟦malchielites|Malkieli|Malkíelovců⟧.
 
-[46] Jméno dcery Ashera bylo Serah.
+[46] Jméno dcery Ašera bylo Serach.
 
-[47] To jsou rody synů Ashera podle sečtených, 53 400.
+[47] To jsou rody synů Ašera podle sečtených, 53 400.
 
-[48] Synové Naphtaliho podle jejich rodů: z Jahzeela rod Jahzeelitů; z Guniho rod Gunitů;
+[48] Synové ⟦naphtali|Naftaliho|Neftalího⟧ podle jejich rodů: z ⟦jahzeel|Jachceela|Jachseela⟧ rod ⟦jahzeelites|Jachceeli|Jachseelovců⟧; z ⟦guni|Guniho|Guního⟧ rod ⟦gunites|Guni|Gúnovců⟧;
 
-[49] z Jezera rod Jezeritů; ze Shillema rod Shillemitů.
+[49] z ⟦jezer|Jecera|Jesera⟧ rod ⟦jezerites|Jicri|Jeserovců⟧; ze ⟦shillem|Šillema|Šiléma⟧ rod ⟦shillemites|Šillemi|Šilémovců⟧.
 
-[50] To jsou rody Naphtaliho podle jejich rodů a jejich sečtených bylo 45 400.
+[50] To jsou rody ⟦naphtali|Naftaliho|Neftalího⟧ podle jejich rodů a jejich sečtených bylo 45 400.
 
-[51] To byli sečtení ze synů Israele: 601 730.
+[51] To byli sečtení ze synů ⟦israel|Jisraele|Izraele⟧: 601 730.
 
-[52] Yahweh promluvil k Mosesovi a řekl:
+[52] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a řekl:
 
 [53] „Těmto bude země rozdělena do dědictví podle počtu jmen.
 
@@ -112,23 +112,23 @@
 
 [56] Jejich dědictví bude rozděleno losem mezi větší a menší kmeny.“
 
-[57] Toto jsou sečtení z Levitů podle jejich rodů: z Gershona rod Gershonitů; z Kohatha rod Kohathitů; z Merariho rod Meraritů.
+[57] Toto jsou sečtení z ⟦levites|Levijim|lévijců⟧ podle jejich rodů: z ⟦gershon|Geršona|Geršóna⟧ rod ⟦gershonites|Geršunni|Geršonovců⟧; z Kehata rod ⟦kohathites|Kehati|Kehatovců⟧; z ⟦merari|Merariho|Merarího⟧ rod ⟦merarites|Merari|Merariovců⟧.
 
-[58] Toto jsou rody Leviho: rod Libnitů, rod Hebronitů, rod Mahlitů, rod Mushitů, rod Korahitů. A Kohath zplodil Amrama.
+[58] Toto jsou rody ⟦levi|Leviho|Léviho⟧: rod ⟦libnites|Livni|Libníovců⟧, rod ⟦hebronites|Chevroni|Chebrónovců⟧, rod ⟦mahlites|Machli|Machlíovců⟧, rod ⟦mushites|Muši|Mušíovců⟧, rod ⟦korahites|Korchi|Kórachovců⟧. A Kehat zplodil ⟦amram|Amrama|Amráma⟧.
 
-[59] Jméno Amramovy ženy bylo Jochebed, dcera Leviho, která se Levimu narodila v Egyptě; a porodila Amramovi Aarona, Mosese a jejich sestru Miriam.
+[59] Jméno ⟦amram|Amramovy|Amrámovy⟧ ženy bylo ⟦jochebed|Jocheved|Jókebed⟧, dcera ⟦levi|Leviho|Léviho⟧, která se ⟦levi|Levimu|Lévimu⟧ narodila v ⟦egypt|Micrajim|Egyptě⟧; a porodila ⟦amram|Amramovi|Amrámovi⟧ ⟦aaron|Aharona|Árona⟧, ⟦moses|Moše|Mojžíše⟧ a jejich sestru Mirjam.
 
-[60] Aaronovi se narodili Nadab, Abihu, Eleazar a Ithamar.
+[60] ⟦aaron|Aharonovi|Áronovi⟧ se narodili ⟦nadab|Nadav|Nádab⟧, ⟦abihu|Avihu|Abíhú⟧, ⟦eleazar|Elazar|Eleazar⟧ a ⟦ithamar|Itamar|Ítamar⟧.
 
-[61] Ale Nadab a Abihu zemřeli, když přinesli před Yahweh cizí oheň.
+[61] Ale ⟦nadab|Nadav|Nádab⟧ a ⟦abihu|Avihu|Abíhú⟧ zemřeli, když přinesli před ⟦yhwh|Jahvem|Hospodinem⟧ cizí oheň.
 
-[62] Jejich sečtených bylo 23 000, všech mužského pohlaví od jednoho měsíce výše; nebyli totiž sečteni mezi syny Israele, protože jim mezi syny Israele nebylo dáno žádné dědictví.
+[62] Jejich sečtených bylo 23 000, všech mužského pohlaví od jednoho měsíce výše; nebyli totiž sečteni mezi syny ⟦israel|Jisraele|Izraele⟧, protože jim mezi syny ⟦israel|Jisraele|Izraele⟧ nebylo dáno žádné dědictví.
 
-[63] To jsou ti, které sečetl Moses a kněz Eleazar, když sčítali syny Israele na moabských pláních u Jordanu naproti Jerichu.
+[63] To jsou ti, které sečetl ⟦moses|Moše|Mojžíš⟧ a kněz ⟦eleazar|Elazar|Eleazar⟧, když sčítali syny ⟦israel|Jisraele|Izraele⟧ na ⟦moab|moavských|moábských⟧ pláních u ⟦jordan|Jardenu|Jordánu⟧ naproti Jerichu.
 
-[64] Ale mezi nimi nebyl ani jeden muž z těch, které sečetl Moses a kněz Aaron, když sčítali syny Israele na poušti Sinai.
+[64] Ale mezi nimi nebyl ani jeden muž z těch, které sečetl ⟦moses|Moše|Mojžíš⟧ a kněz ⟦aaron|Aharon|Áron⟧, když sčítali syny ⟦israel|Jisraele|Izraele⟧ na poušti ⟦sinai|Sinaj|Sínaj⟧.
 
-[65] Neboť Yahweh o nich řekl: „Jistě zemřou na poušti.“ A nezůstal z nich ani jeden kromě Caleba, syna Jephunneha, a Joshuy, syna Nuna.
+[65] Neboť ⟦yhwh|Jahve|Hospodin⟧ o nich řekl: „Jistě zemřou na poušti.“ A nezůstal z nich ani jeden kromě ⟦caleb|Kaleva|Káleba⟧, syna ⟦jephunneh|Jefunneho|Jefunova⟧, a ⟦joshua|Jehošuy|Jozua⟧, syna ⟦nun|Nuna|Núna⟧.
 
 ## Změny
 

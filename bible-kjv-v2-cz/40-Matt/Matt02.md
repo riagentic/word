@@ -1,57 +1,57 @@
 # Matouš 2
 
-[1] Když se *Yeshua* narodil v Bethlehemu v Judeji za dnů krále Heroda, hle, přišli do Jerusalemu mágové od východu
+[1] Když se ⟦yeshua|Ješua|Ježíš⟧ narodil v ⟦bethlehem|Bejt Lechemu|Betlémě⟧ v ⟦judea|Jehudě|Judsku⟧ za dnů krále Heroda, hle, přišli do ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ ⟦magi|mágové|mudrci⟧ od východu
 
-[2] a ptali se: „Kde je ten, který se narodil jako král Židů? Viděli jsme totiž jeho hvězdu, když vycházela, a přišli jsme se mu poklonit.“
+[2] a ptali se: „Kde je ten, který se narodil jako král ⟦jews|Jehudim|Židů⟧? Viděli jsme totiž jeho hvězdu, když vycházela, a přišli jsme se mu poklonit.“
 
-[3] Když to uslyšel král Herod, znepokojil se a celý Jerusalem s ním;
+[3] Když to uslyšel král Herodes, znepokojil se a celý ⟦jerusalem|Jerušalajim|Jeruzalém⟧ s ním;
 
-[4] shromáždil všechny velekněze a zákoníky lidu a vyptával se jich, kde se má *Mashiach* narodit.
+[4] shromáždil všechny velekněze a zákoníky lidu a vyptával se jich, kde se má ⟦mashiach|Mašiach|Mesiáš⟧ narodit.
 
-[5] Řekli mu: „V Bethlehemu v Judeji, neboť tak je napsáno skrze proroka:
+[5] Řekli mu: „V ⟦bethlehem|Bejt Lechemu|Betlémě⟧ v ⟦judea|Jehudě|Judsku⟧, neboť tak je napsáno skrze proroka:
 
-[6] ‚A ty, Bethleheme, země Judahu,
-nejsi nijak nejmenší mezi vládci Judahu;
+[6] ‚A ty, ⟦bethlehem|Bejt Lecheme|Betléme⟧, země ⟦judah|Jehudy|Judy⟧,
+nejsi nijak nejmenší mezi vládci ⟦judah|Jehudy|Judy⟧;
 neboť z tebe vyjde vládce,
-který bude pást můj lid Israel.‘“
+který bude pást můj lid ⟦israel|Jisrael|Izrael⟧.‘“
 
-[7] Tehdy Herod tajně zavolal mágy a zjistil od nich přesně, v jakém čase se hvězda ukázala.
+[7] Tehdy Herodes tajně zavolal ⟦magi|mágy|mudrce⟧ a zjistil od nich přesně, v jakém čase se hvězda ukázala.
 
-[8] Poslal je do Bethlehemu a řekl: „Jděte a pečlivě pátrejte po dítěti, a až ho najdete, oznamte mi to, abych i já přišel a poklonil se mu.“
+[8] Poslal je do ⟦bethlehem|Bejt Lechemu|Betléma⟧ a řekl: „Jděte a pečlivě pátrejte po dítěti, a až ho najdete, oznamte mi to, abych i já přišel a poklonil se mu.“
 
 [9] Když vyslechli krále, vydali se na cestu. A hle, hvězda, kterou viděli vycházet, šla před nimi, až se zastavila nad místem, kde bylo dítě.
 
 [10] Když uviděli hvězdu, zaradovali se převelikou radostí.
 
-[11] Vešli do domu, uviděli dítě s jeho matkou Mary, padli a poklonili se mu. Potom otevřeli své poklady a obětovali mu dary: zlato, kadidlo a myrhu.
+[11] Vešli do domu, uviděli dítě s jeho matkou ⟦mary|Mirjam|Marií⟧, padli a poklonili se mu. Potom otevřeli své poklady a obětovali mu dary: zlato, kadidlo a myrhu.
 
 [12] A protože byli ve snu varováni, aby se nevraceli k Herodovi, odešli do své země jinou cestou.
 
-[13] Když odešli, hle, anděl Páně se zjevil Josephovi ve snu a řekl: „Vstaň, vezmi dítě a jeho matku a uteč do Egypta a zůstaň tam, dokud ti neřeknu, neboť Herod bude hledat dítě, aby je zahubil.“
+[13] Když odešli, hle, anděl Páně se zjevil Josefovi ve snu a řekl: „Vstaň, vezmi dítě a jeho matku a uteč do ⟦egypt|Micrajim|Egypta⟧ a zůstaň tam, dokud ti neřeknu, neboť Herodes bude hledat dítě, aby je zahubil.“
 
-[14] Vstal tedy, vzal v noci dítě a jeho matku a odešel do Egypta
+[14] Vstal tedy, vzal v noci dítě a jeho matku a odešel do ⟦egypt|Micrajim|Egypta⟧
 
-[15] a zůstal tam až do Herodovy smrti. To aby se naplnilo, co Pán řekl skrze proroka: „Z Egypta jsem povolal svého syna.“
+[15] a zůstal tam až do Herodovy smrti. To aby se naplnilo, co Pán řekl skrze proroka: „Z ⟦egypt|Micrajim|Egypta⟧ jsem povolal svého syna.“
 
-[16] Tehdy Herod, když viděl, že ho mágové oklamali, velice se rozzuřil a dal zabít všechny chlapce v Bethlehemu a v celém jeho okolí, kteří byli ve věku dvou let a mladší, podle času, který přesně zjistil od mágů.
+[16] Tehdy Herodes, když viděl, že ho ⟦magi|mágové|mudrci⟧ oklamali, velice se rozzuřil a dal zabít všechny chlapce v ⟦bethlehem|Bejt Lechemu|Betlémě⟧ a v celém jeho okolí, kteří byli ve věku dvou let a mladší, podle času, který přesně zjistil od ⟦magi|mágů|mudrců⟧.
 
-[17] Tehdy se naplnilo, co bylo řečeno skrze proroka Jeremiaha:
+[17] Tehdy se naplnilo, co bylo řečeno skrze proroka ⟦jeremiah-nt|Jirmejahua|Jeremiáše⟧:
 
-[18] „V Ramě byl slyšet hlas,
+[18] „V ⟦ramah|Ramě|Rámě⟧ byl slyšet hlas,
 pláč a hlasitý nářek:
-Rachel oplakává své děti;
+⟦rachel|Rachel|Ráchel⟧ oplakává své děti;
 nechtěla se dát utěšit,
 protože už nejsou.“
 
-[19] Když však Herod zemřel, hle, anděl Páně se ve snu zjevil Josephovi v Egyptě
+[19] Když však Herodes zemřel, hle, anděl Páně se ve snu zjevil Josefovi v ⟦egypt|Micrajim|Egyptě⟧
 
-[20] a řekl: „Vstaň, vezmi dítě a jeho matku a jdi do země Israel, neboť zemřeli ti, kdo ukládali dítěti o život.“
+[20] a řekl: „Vstaň, vezmi dítě a jeho matku a jdi do země ⟦israel|Jisrael|Izraele⟧, neboť zemřeli ti, kdo ukládali dítěti o život.“
 
-[21] Vstal tedy, vzal dítě a jeho matku a přišel do země Israel.
+[21] Vstal tedy, vzal dítě a jeho matku a přišel do země ⟦israel|Jisrael|Izraele⟧.
 
-[22] Když však uslyšel, že v Judeji kraluje Archelaus místo svého otce Heroda, bál se tam jít; a byv varován ve snu, uchýlil se do krajiny Galilee.
+[22] Když však uslyšel, že v ⟦judea|Jehudě|Judsku⟧ kraluje Archelaos místo svého otce Heroda, bál se tam jít; a byv varován ve snu, uchýlil se do krajiny ⟦galilee|Galilu|Galileje⟧.
 
-[23] Přišel a usadil se ve městě zvaném Nazareth, aby se naplnilo, co bylo řečeno skrze proroky: „Bude nazván Nazarén.“
+[23] Přišel a usadil se ve městě zvaném ⟦nazareth|Nacrat|Nazaret⟧, aby se naplnilo, co bylo řečeno skrze proroky: „Bude nazván ⟦nazarenes|Nocri|Nazaretský⟧.“
 
 ## Změny
 

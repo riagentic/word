@@ -1,36 +1,36 @@
 # Leviticus 24
 
-[1] Yahweh spoke to Moses, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[2] "Command the children of Israel to bring you pure beaten olive oil for the light, so that the lamps may burn continually.
+[2] "Command the children of ⟦israel|Yisrael|Israel⟧ to bring you pure beaten olive oil for the light, so that the lamps may burn continually.
 
-[3] Outside the veil of the Testimony, in the Tent of Meeting, Aaron shall tend it from evening until morning before Yahweh continually. It shall be a perpetual statute throughout your generations.
+[3] Outside the veil of the Testimony, in the Tent of Meeting, ⟦aaron|Aharon|Aaron⟧ shall tend it from evening until morning before ⟦yhwh|Yahweh|the LORD⟧ continually. It shall be a perpetual statute throughout your generations.
 
-[4] He shall tend the lamps upon the pure lampstand before Yahweh continually.
+[4] He shall tend the lamps upon the pure lampstand before ⟦yhwh|Yahweh|the LORD⟧ continually.
 
 [5] You shall take fine flour and bake twelve cakes from it; two-tenths of an ephah shall be in each cake.
 
-[6] You shall set them in two rows, six in a row, upon the pure table before Yahweh.
+[6] You shall set them in two rows, six in a row, upon the pure table before ⟦yhwh|Yahweh|the LORD⟧.
 
-[7] You shall put pure frankincense on each row, that it may be a memorial portion for the bread, an offering made by fire to Yahweh.
+[7] You shall put pure frankincense on each row, that it may be a memorial portion for the bread, an offering made by fire to ⟦yhwh|Yahweh|the LORD⟧.
 
-[8] Every sabbath he shall arrange it before Yahweh continually, from the children of Israel as an everlasting covenant.
+[8] Every ⟦shabbat|Shabbat|Sabbath⟧ he shall arrange it before ⟦yhwh|Yahweh|the LORD⟧ continually, from the children of ⟦israel|Yisrael|Israel⟧ as an everlasting covenant.
 
-[9] It shall belong to Aaron and his sons, and they shall eat it in a holy place; for it is most holy to him from the offerings of Yahweh made by fire, by a perpetual statute."
+[9] It shall belong to ⟦aaron|Aharon|Aaron⟧ and his sons, and they shall eat it in a holy place; for it is most holy to him from the offerings of ⟦yhwh|Yahweh|the LORD⟧ made by fire, by a perpetual statute."
 
-[10] Now the son of an Israelite woman, whose father was an Egyptian, went out among the children of Israel; and the Israelite woman's son and a man of Israel fought in the camp.
+[10] Now the son of ⟦israelite|a Yisraeli|an Israelite⟧ woman, whose father was ⟦egyptian|a Mitzri|an Egyptian⟧, went out among the children of ⟦israel|Yisrael|Israel⟧; and the ⟦israelite|Yisraeli|Israelite⟧ woman's son and a man of ⟦israel|Yisrael|Israel⟧ fought in the camp.
 
-[11] The Israelite woman's son blasphemed the Name, and cursed. So they brought him to Moses. His mother's name was Shelomith, the daughter of Dibri, of the tribe of Dan.
+[11] The ⟦israelite|Yisraeli|Israelite⟧ woman's son blasphemed the Name, and cursed. So they brought him to ⟦moses|Moshe|Moses⟧. His mother's name was ⟦shelomith|Shelomit|Shelomith⟧, the daughter of ⟦dibri|Divri|Dibri⟧, of the tribe of Dan.
 
-[12] They put him in custody until the decision of Yahweh might be made clear to them.
+[12] They put him in custody until the decision of ⟦yhwh|Yahweh|the LORD⟧ might be made clear to them.
 
-[13] Yahweh spoke to Moses, saying,
+[13] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
 [14] "Bring out of the camp the one who cursed, and let all who heard him lay their hands on his head, and let the whole congregation stone him.
 
-[15] And you shall speak to the children of Israel, saying: 'Anyone who curses his *Elohim* shall bear his sin.
+[15] And you shall speak to the children of ⟦israel|Yisrael|Israel⟧, saying: 'Anyone who curses his ⟦elohim|Elohim|God⟧ shall bear his sin.
 
-[16] And whoever blasphemes the name of Yahweh shall surely be put to death; the whole congregation shall certainly stone him. The foreigner as well as the native — when he blasphemes the Name — shall be put to death.
+[16] And whoever blasphemes the name of ⟦yhwh|Yahweh|the LORD⟧ shall surely be put to death; the whole congregation shall certainly stone him. The foreigner as well as the native — when he blasphemes the Name — shall be put to death.
 
 [17] Whoever takes the life of any person shall surely be put to death.
 
@@ -42,9 +42,9 @@
 
 [21] Whoever kills an animal shall make restitution for it; and whoever kills a man shall be put to death.
 
-[22] You shall have the same law for the foreigner as for the native, for I am Yahweh your *Elohim*.'"
+[22] You shall have the same law for the foreigner as for the native, for I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.'"
 
-[23] Then Moses spoke to the children of Israel; and they brought out of the camp the one who had cursed, and stoned him with stones. So the children of Israel did as Yahweh commanded Moses.
+[23] Then ⟦moses|Moshe|Moses⟧ spoke to the children of ⟦israel|Yisrael|Israel⟧; and they brought out of the camp the one who had cursed, and stoned him with stones. So the children of ⟦israel|Yisrael|Israel⟧ did as ⟦yhwh|Yahweh|the LORD⟧ commanded ⟦moses|Moshe|Moses⟧.
 
 ## Changes
 

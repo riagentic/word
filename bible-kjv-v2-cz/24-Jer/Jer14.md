@@ -1,11 +1,11 @@
 # Jeremjáš 14
 
-[1] Slovo Yahweh, které přišlo k Jeremiahovi o suchu:
+[1] Slovo ⟦yhwh|Jahveho|Hospodina⟧, které přišlo k ⟦jeremiah|Jirmejahuovi|Jeremjášovi⟧ o suchu:
 
-[2] „Judah truchlí
+[2] „⟦judah|Jehuda|Juda⟧ truchlí
 a jeho brány chřadnou;
 jeho lid naříká na zemi
-a vystupuje křik Jerusalemu.
+a vystupuje křik ⟦jerusalem|Jerušalajim|Jeruzaléma⟧.
 
 [3] Jeho velmoži posílají své sluhy pro vodu;
 přicházejí k cisternám;
@@ -29,40 +29,40 @@ jejich oči hasnou,
 protože není zeleň.
 
 [7] I když naše viny svědčí proti nám,
-jednej, Yahweh, kvůli svému jménu;
+jednej, ⟦yhwh|Jahve|Hospodine⟧, kvůli svému jménu;
 neboť naše odpadnutí jsou mnohá;
 zhřešili jsme proti tobě.
 
-[8] Naděje Israele,
+[8] Naděje ⟦israel|Jisraele|Izraele⟧,
 jeho Spasiteli v čase soužení,
 proč bys měl být jako cizinec v zemi,
 jako pocestný, který se uchýlí jen na jednu noc?
 
 [9] Proč bys měl být jako zmatený muž,
 jako mocný bojovník, který nemůže zachránit?
-Vždyť ty, Yahweh, jsi uprostřed nás
+Vždyť ty, ⟦yhwh|Jahve|Hospodine⟧, jsi uprostřed nás
 a tvé jméno je vzýváno nad námi;
 neopouštěj nás.“
 
-[10] Toto praví Yahweh o tomto lidu:
+[10] Toto praví ⟦yhwh|Jahve|Hospodin⟧ o tomto lidu:
 
 „Tak rádi bloudí;
 nezdržují své nohy;
-proto je Yahweh nepřijímá;
+proto je ⟦yhwh|Jahve|Hospodin⟧ nepřijímá;
 nyní si vzpomene na jejich vinu
 a ztrestá jejich hříchy.“
 
-[11] Yahweh mi řekl: „Nemodli se za blaho tohoto lidu.
+[11] ⟦yhwh|Jahve|Hospodin⟧ mi řekl: „Nemodli se za blaho tohoto lidu.
 
 [12] I když se budou postit, nevyslyším jejich úpění, a i když budou přinášet zápalnou oběť a obětní dar, nepřijmu je. Ale vyhubím je mečem, hladem a morem.“
 
-[13] Tu jsem řekl: „Ach, Pane Yahweh, hle, proroci jim říkají: ‚Neuvidíte meč a nebudete mít hlad, ale dám vám na tomto místě jistý pokoj.‘“
+[13] Tu jsem řekl: „Ach, ⟦adonai-yhwh|Pane Jahve|Panovníku Hospodine⟧, hle, proroci jim říkají: ‚Neuvidíte meč a nebudete mít hlad, ale dám vám na tomto místě jistý pokoj.‘“
 
-[14] A Yahweh mi řekl: „Proroci prorokují v mém jménu lež. Neposlal jsem je, nepřikázal jsem jim ani jsem k nim nemluvil. Prorokují vám lživé vidění, nicotné věštění a klam svého vlastního srdce.
+[14] A ⟦yhwh|Jahve|Hospodin⟧ mi řekl: „Proroci prorokují v mém jménu lež. Neposlal jsem je, nepřikázal jsem jim ani jsem k nim nemluvil. Prorokují vám lživé vidění, nicotné věštění a klam svého vlastního srdce.
 
-[15] Proto toto praví Yahweh o prorocích, kteří prorokují v mém jménu, ačkoli jsem je neposlal, a říkají: ‚Meč a hlad na tuto zemi nepřijdou‘: Mečem a hladem budou ti proroci vyhubeni.
+[15] Proto toto praví ⟦yhwh|Jahve|Hospodin⟧ o prorocích, kteří prorokují v mém jménu, ačkoli jsem je neposlal, a říkají: ‚Meč a hlad na tuto zemi nepřijdou‘: Mečem a hladem budou ti proroci vyhubeni.
 
-[16] A lid, jemuž prorokují, bude pohozen na ulicích Jerusalemu, oběť hladu a meče, a nebude nikoho, kdo by je pohřbil, je, jejich ženy, jejich syny a jejich dcery. Neboť vyliji na ně jejich zlobu.
+[16] A lid, jemuž prorokují, bude pohozen na ulicích ⟦jerusalem|Jerušalajim|Jeruzaléma⟧, oběť hladu a meče, a nebude nikoho, kdo by je pohřbil, je, jejich ženy, jejich syny a jejich dcery. Neboť vyliji na ně jejich zlobu.
 
 [17] Řekneš jim toto slovo:
 
@@ -78,14 +78,14 @@ hle, nemoci z hladu!
 Neboť prorok i kněz provozují své řemeslo po zemi
 a nemají poznání.‘“
 
-[19] Což jsi Judah naprosto zavrhl?
-Což se tvé duši hnusí Zion?
+[19] Což jsi ⟦judah|Jehudu|Judu⟧ naprosto zavrhl?
+Což se tvé duši hnusí ⟦zion|Cijon|Sijón⟧?
 Proč jsi nás bil,
 takže pro nás není uzdravení?
 Čekali jsme pokoj, ale nepřišlo nic dobrého;
 čas uzdravení, ale hle, hrůza.
 
-[20] Uznáváme svou svévoli, Yahweh,
+[20] Uznáváme svou svévoli, ⟦yhwh|Jahve|Hospodine⟧,
 i vinu svých otců,
 neboť jsme proti tobě zhřešili.
 
@@ -95,7 +95,7 @@ pamatuj a neruš svou smlouvu s námi.
 
 [22] Jsou mezi falešnými bohy národů někteří, kteří mohou dát déšť?
 Nebo mohou nebesa dát přeháňky?
-Nejsi to ty, Yahweh, náš *Elohim*?
+Nejsi to ty, ⟦yhwh|Jahve|Hospodin⟧, náš ⟦elohim|Elohim|Bůh⟧?
 V tebe skládáme svou naději,
 neboť ty činíš všechny tyto věci.
 

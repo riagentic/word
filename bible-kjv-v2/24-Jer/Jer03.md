@@ -7,12 +7,12 @@ will he return to her?
 Would not that land be greatly polluted?
 You have played the whore with many lovers;
 and would you return to me?
-declares Yahweh.
+declares ⟦yhwh|Yahweh|the LORD⟧.
 
 [2] Lift up your eyes to the bare heights, and see!
 Where have you not been ravished?
 By the waysides you have sat awaiting lovers
-like an Arab in the wilderness.
+like an ⟦arabs|Arvi|Arab⟧ in the wilderness.
 You have polluted the land
 with your vile whoredom.
 
@@ -29,45 +29,45 @@ will he be indignant to the end?'
 Behold, you have spoken,
 but you have done all the evil that you could."
 
-[6] Yahweh said to me in the days of King Josiah: "Have you seen what apostate Israel did, how she went up on every high hill and under every green tree, and there played the whore?
+[6] ⟦yhwh|Yahweh|The LORD⟧ said to me in the days of King ⟦josiah|Yoshiyahu|Josiah⟧: "Have you seen what apostate ⟦israel|Yisrael|Israel⟧ did, how she went up on every high hill and under every green tree, and there played the whore?
 
-[7] And I thought, 'After she has done all this she will return to me,' but she did not return, and her treacherous sister Judah saw it.
+[7] And I thought, 'After she has done all this she will return to me,' but she did not return, and her treacherous sister ⟦judah|Yehudah|Judah⟧ saw it.
 
-[8] She saw that for all the adulteries of that faithless one, Apostate Israel, I had sent her away with a decree of divorce. Yet her treacherous sister Judah did not fear, but she too went and played the whore.
+[8] She saw that for all the adulteries of that faithless one, Apostate ⟦israel|Yisrael|Israel⟧, I had sent her away with a decree of divorce. Yet her treacherous sister ⟦judah|Yehudah|Judah⟧ did not fear, but she too went and played the whore.
 
 [9] Because she took her whoredom lightly, she polluted the land, committing adultery with stone and tree.
 
-[10] Yet for all this her treacherous sister Judah did not return to me with her whole heart, but in pretense, declares Yahweh."
+[10] Yet for all this her treacherous sister ⟦judah|Yehudah|Judah⟧ did not return to me with her whole heart, but in pretense, declares ⟦yhwh|Yahweh|the LORD⟧."
 
-[11] And Yahweh said to me, "Faithless Israel has shown herself more righteous than treacherous Judah.
+[11] And ⟦yhwh|Yahweh|the LORD⟧ said to me, "Faithless ⟦israel|Yisrael|Israel⟧ has shown herself more righteous than treacherous ⟦judah|Yehudah|Judah⟧.
 
 [12] Go, and proclaim these words toward the north, and say,
 
-"'Return, faithless Israel, declares Yahweh.
+"'Return, faithless ⟦israel|Yisrael|Israel⟧, declares ⟦yhwh|Yahweh|the LORD⟧.
 I will not look on you in anger,
-for I am merciful, declares Yahweh;
+for I am merciful, declares ⟦yhwh|Yahweh|the LORD⟧;
 I will not be angry forever.
 
 [13] Only acknowledge your guilt,
-that you rebelled against Yahweh your *Elohim*
+that you rebelled against ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧
 and scattered your favors among foreigners under every green tree,
 and that you have not obeyed my voice,
-declares Yahweh.
+declares ⟦yhwh|Yahweh|the LORD⟧.
 
 [14] Return, O faithless children,
-declares Yahweh;
+declares ⟦yhwh|Yahweh|the LORD⟧;
 for I am your master;
 I will take you, one from a city and two from a family,
-and I will bring you to Zion.
+and I will bring you to ⟦zion|Tziyon|Zion⟧.
 
 [15] And I will give you shepherds after my own heart,
 who will feed you with knowledge and understanding.'"
 
-[16] "And when you have multiplied and been fruitful in the land, in those days, declares Yahweh, they shall no more say, 'The ark of the covenant of Yahweh.' It shall not come to mind or be remembered or missed; it shall not be made again.
+[16] "And when you have multiplied and been fruitful in the land, in those days, declares ⟦yhwh|Yahweh|the LORD⟧, they shall no more say, 'The ark of the covenant of ⟦yhwh|Yahweh|the LORD⟧.' It shall not come to mind or be remembered or missed; it shall not be made again.
 
-[17] At that time Jerusalem shall be called the throne of Yahweh, and all nations shall gather to it, to the presence of Yahweh in Jerusalem, and they shall no more stubbornly follow their own evil heart.
+[17] At that time ⟦jerusalem|Yerushalayim|Jerusalem⟧ shall be called the throne of ⟦yhwh|Yahweh|the LORD⟧, and all nations shall gather to it, to the presence of ⟦yhwh|Yahweh|the LORD⟧ in ⟦jerusalem|Yerushalayim|Jerusalem⟧, and they shall no more stubbornly follow their own evil heart.
 
-[18] In those days the house of Judah shall join the house of Israel, and together they shall come from the land of the north to the land that I gave your fathers for a heritage.
+[18] In those days the house of ⟦judah|Yehudah|Judah⟧ shall join the house of ⟦israel|Yisrael|Israel⟧, and together they shall come from the land of the north to the land that I gave your fathers for a heritage.
 
 [19] I said,
 How I would set you among my sons,
@@ -78,22 +78,22 @@ and would not turn from following me.
 
 [20] Surely, as a treacherous wife leaves her husband,
 so have you been treacherous to me,
-O house of Israel, declares Yahweh.
+O house of ⟦israel|Yisrael|Israel⟧, declares ⟦yhwh|Yahweh|the LORD⟧.
 
 [21] A voice on the bare heights is heard,
-the weeping and pleading of Israel's sons
+the weeping and pleading of ⟦israel|Yisrael's|Israel's⟧ sons
 because they have perverted their way;
-they have forgotten Yahweh their *Elohim*.
+they have forgotten ⟦yhwh|Yahweh|the LORD⟧ their ⟦elohim|Elohim|God⟧.
 
 [22] 'Return, O faithless sons;
 I will heal your faithlessness.'
 'Behold, we come to you,
-for you are Yahweh our *Elohim*.
+for you are ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧.
 
 [23] Truly the hills are a delusion,
 the orgies on the mountains.
-Truly in Yahweh our *Elohim*
-is the salvation of Israel.
+Truly in ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧
+is the salvation of ⟦israel|Yisrael|Israel⟧.
 
 [24] But from our youth the shameful thing has devoured
 all for which our fathers labored,
@@ -102,9 +102,9 @@ their sons and their daughters.
 
 [25] Let us lie down in our shame,
 and let our dishonor cover us.
-For we have sinned against Yahweh our *Elohim*,
+For we have sinned against ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧,
 we and our fathers, from our youth even to this day,
-and we have not obeyed the voice of Yahweh our *Elohim*.'"
+and we have not obeyed the voice of ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧.'"
 
 ## Changes
 

@@ -1,74 +1,74 @@
 # Exodus 32
 
-[1] When the people saw that Moses was long in coming down from the mountain, the people gathered around Aaron and said to him, "Up! Make us gods who shall go before us; for as for this Moses, the man who brought us up out of the land of Egypt, we do not know what has become of him."
+[1] When the people saw that ⟦moses|Moshe|Moses⟧ was long in coming down from the mountain, the people gathered around ⟦aaron|Aharon|Aaron⟧ and said to him, "Up! Make us gods who shall go before us; for as for this ⟦moses|Moshe|Moses⟧, the man who brought us up out of the land of ⟦egypt|Mitzrayim|Egypt⟧, we do not know what has become of him."
 
-[2] Aaron said to them, "Take off the gold rings that are in the ears of your wives, your sons, and your daughters, and bring them to me."
+[2] ⟦aaron|Aharon|Aaron⟧ said to them, "Take off the gold rings that are in the ears of your wives, your sons, and your daughters, and bring them to me."
 
-[3] So all the people took off the gold rings that were in their ears and brought them to Aaron.
+[3] So all the people took off the gold rings that were in their ears and brought them to ⟦aaron|Aharon|Aaron⟧.
 
-[4] He took them from their hand, formed it with a graving tool, and made of it a molten calf; and they said, "These are your gods, O Israel, who brought you up out of the land of Egypt!"
+[4] He took them from their hand, formed it with a graving tool, and made of it a molten calf; and they said, "These are your gods, O ⟦israel|Yisrael|Israel⟧, who brought you up out of the land of ⟦egypt|Mitzrayim|Egypt⟧!"
 
-[5] When Aaron saw it, he built an altar before it; and Aaron made proclamation, saying, "Tomorrow is a feast to Yahweh."
+[5] When ⟦aaron|Aharon|Aaron⟧ saw it, he built an altar before it; and ⟦aaron|Aharon|Aaron⟧ made proclamation, saying, "Tomorrow is a feast to ⟦yhwh|Yahweh|the LORD⟧."
 
 [6] They rose up early on the next day and offered burnt offerings, and brought peace offerings; and the people sat down to eat and drink, and rose up to revel.
 
-[7] Then Yahweh said to Moses, "Go down at once, for your people, whom you brought up out of the land of Egypt, have corrupted themselves.
+[7] Then ⟦yhwh|Yahweh|the LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Go down at once, for your people, whom you brought up out of the land of ⟦egypt|Mitzrayim|Egypt⟧, have corrupted themselves.
 
-[8] They have turned aside quickly from the way that I commanded them; they have made for themselves a molten calf, and have worshiped it, and have sacrificed to it, and said, 'These are your gods, O Israel, who brought you up out of the land of Egypt.'"
+[8] They have turned aside quickly from the way that I commanded them; they have made for themselves a molten calf, and have worshiped it, and have sacrificed to it, and said, 'These are your gods, O ⟦israel|Yisrael|Israel⟧, who brought you up out of the land of ⟦egypt|Mitzrayim|Egypt⟧.'"
 
-[9] Yahweh said to Moses, "I have seen this people, and behold, they are a stiff-necked people.
+[9] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "I have seen this people, and behold, they are a stiff-necked people.
 
 [10] Now therefore let me alone, that my wrath may burn hot against them and I may consume them; and I will make of you a great nation."
 
-[11] But Moses sought the favor of Yahweh his *Elohim* and said, "O Yahweh, why should your wrath burn hot against your people, whom you brought out of the land of Egypt with great power and with a mighty hand?
+[11] But ⟦moses|Moshe|Moses⟧ sought the favor of ⟦yhwh|Yahweh|the LORD⟧ his ⟦elohim|Elohim|God⟧ and said, "O ⟦yhwh|Yahweh|LORD⟧, why should your wrath burn hot against your people, whom you brought out of the land of ⟦egypt|Mitzrayim|Egypt⟧ with great power and with a mighty hand?
 
-[12] Why should the Egyptians say, 'It was for evil that he brought them out, to kill them in the mountains and to consume them from the face of the earth'? Turn from your burning wrath and relent of this disaster against your people.
+[12] Why should the ⟦egyptians|Mitzrim|Egyptians⟧ say, 'It was for evil that he brought them out, to kill them in the mountains and to consume them from the face of the earth'? Turn from your burning wrath and relent of this disaster against your people.
 
-[13] Remember Abraham, Isaac, and Israel, your servants, to whom you swore by yourself, and said to them, 'I will multiply your offspring as the stars of the heavens, and all this land that I have spoken of I will give to your offspring, and they shall inherit it forever.'"
+[13] Remember ⟦abraham|Avraham|Abraham⟧, ⟦isaac|Yitzchaq|Isaac⟧, and ⟦israel|Yisrael|Israel⟧, your servants, to whom you swore by yourself, and said to them, 'I will multiply your offspring as the stars of the heavens, and all this land that I have spoken of I will give to your offspring, and they shall inherit it forever.'"
 
-[14] And Yahweh relented of the disaster that he had said he would do to his people.
+[14] And ⟦yhwh|Yahweh|the LORD⟧ relented of the disaster that he had said he would do to his people.
 
-[15] Moses turned and went down from the mountain, with the two tablets of the Testimony in his hand; tablets written on both their sides — on the one side and on the other they were written.
+[15] ⟦moses|Moshe|Moses⟧ turned and went down from the mountain, with the two tablets of the Testimony in his hand; tablets written on both their sides — on the one side and on the other they were written.
 
-[16] The tablets were the work of *Elohim*, and the writing was the writing of *Elohim*, engraved on the tablets.
+[16] The tablets were the work of ⟦elohim|Elohim|God⟧, and the writing was the writing of ⟦elohim|Elohim|God⟧, engraved on the tablets.
 
-[17] When Joshua heard the noise of the people as they shouted, he said to Moses, "There is a noise of war in the camp."
+[17] When ⟦joshua|Yehoshua|Joshua⟧ heard the noise of the people as they shouted, he said to ⟦moses|Moshe|Moses⟧, "There is a noise of war in the camp."
 
 [18] But he said, "It is not the sound of shouting for victory, nor the sound of crying out in defeat; it is the sound of singing that I hear."
 
-[19] As soon as he came near the camp, he saw the calf and the dancing; Moses' anger burned hot, and he threw the tablets from his hands and shattered them at the foot of the mountain.
+[19] As soon as he came near the camp, he saw the calf and the dancing; ⟦moses|Moshe's|Moses'⟧ anger burned hot, and he threw the tablets from his hands and shattered them at the foot of the mountain.
 
-[20] He took the calf that they had made and burned it in the fire; and he ground it to powder, scattered it on the water, and made the children of Israel drink it.
+[20] He took the calf that they had made and burned it in the fire; and he ground it to powder, scattered it on the water, and made the children of ⟦israel|Yisrael|Israel⟧ drink it.
 
-[21] Moses said to Aaron, "What did this people do to you, that you have brought such a great sin upon them?"
+[21] ⟦moses|Moshe|Moses⟧ said to ⟦aaron|Aharon|Aaron⟧, "What did this people do to you, that you have brought such a great sin upon them?"
 
-[22] Aaron said, "Let not the anger of my lord burn hot. You know the people, that they are set on evil.
+[22] ⟦aaron|Aharon|Aaron⟧ said, "Let not the anger of my lord burn hot. You know the people, that they are set on evil.
 
-[23] For they said to me, 'Make us gods who shall go before us; for as for this Moses, the man who brought us up out of the land of Egypt, we do not know what has become of him.'
+[23] For they said to me, 'Make us gods who shall go before us; for as for this ⟦moses|Moshe|Moses⟧, the man who brought us up out of the land of ⟦egypt|Mitzrayim|Egypt⟧, we do not know what has become of him.'
 
 [24] And I said to them, 'Whoever has any gold, take it off.' So they gave it to me, and I threw it into the fire, and out came this calf."
 
-[25] When Moses saw that the people had broken loose — for Aaron had let them loose, to their shame among their enemies —
+[25] When ⟦moses|Moshe|Moses⟧ saw that the people had broken loose — for ⟦aaron|Aharon|Aaron⟧ had let them loose, to their shame among their enemies —
 
-[26] then Moses stood at the gate of the camp and said, "Who is for Yahweh? Come to me!" And all the sons of Levi gathered to him.
+[26] then ⟦moses|Moshe|Moses⟧ stood at the gate of the camp and said, "Who is for ⟦yhwh|Yahweh|the LORD⟧? Come to me!" And all the sons of Levi gathered to him.
 
-[27] He said to them, "Thus says Yahweh, the *Elohim* of Israel: 'Each man put his sword on his side; go back and forth through the camp, from gate to gate, and each man kill his brother, his companion, and his neighbor.'"
+[27] He said to them, "Thus says ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧: 'Each man put his sword on his side; go back and forth through the camp, from gate to gate, and each man kill his brother, his companion, and his neighbor.'"
 
-[28] The sons of Levi did as Moses commanded; and about three thousand men of the people fell that day.
+[28] The sons of Levi did as ⟦moses|Moshe|Moses⟧ commanded; and about three thousand men of the people fell that day.
 
-[29] Moses said, "You have been ordained today for the service of Yahweh — each man at the cost of his son and brother — so that he may bestow a blessing on you this day."
+[29] ⟦moses|Moshe|Moses⟧ said, "You have been ordained today for the service of ⟦yhwh|Yahweh|the LORD⟧ — each man at the cost of his son and brother — so that he may bestow a blessing on you this day."
 
-[30] On the next day Moses said to the people, "You have sinned a great sin. Now I will go up to Yahweh; perhaps I can make atonement for your sin."
+[30] On the next day ⟦moses|Moshe|Moses⟧ said to the people, "You have sinned a great sin. Now I will go up to ⟦yhwh|Yahweh|the LORD⟧; perhaps I can make atonement for your sin."
 
-[31] So Moses returned to Yahweh and said, "Oh, this people has sinned a great sin; they have made for themselves gods of gold.
+[31] So ⟦moses|Moshe|Moses⟧ returned to ⟦yhwh|Yahweh|the LORD⟧ and said, "Oh, this people has sinned a great sin; they have made for themselves gods of gold.
 
 [32] Yet now, if you will forgive their sin — but if not, please blot me out of your scroll that you have written."
 
-[33] Yahweh said to Moses, "Whoever has sinned against me, him I will blot out of my scroll.
+[33] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Whoever has sinned against me, him I will blot out of my scroll.
 
 [34] But now go, lead the people to the place of which I have spoken to you. Behold, my messenger shall go before you. Nevertheless, on the day when I punish, I will punish them for their sin."
 
-[35] And Yahweh struck the people with a plague because they had made the calf — the one that Aaron made.
+[35] And ⟦yhwh|Yahweh|the LORD⟧ struck the people with a plague because they had made the calf — the one that ⟦aaron|Aharon|Aaron⟧ made.
 
 ## Changes
 

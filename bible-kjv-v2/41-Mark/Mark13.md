@@ -2,13 +2,13 @@
 
 [1] And as he came out of the temple, one of his disciples said to him, "Look, Teacher, what wonderful stones and what wonderful buildings!"
 
-[2] And *Yeshua* said to him, "Do you see these great buildings? There will not be left here one stone upon another that will not be thrown down."
+[2] And ⟦yeshua|Yeshua|Jesus⟧ said to him, "Do you see these great buildings? There will not be left here one stone upon another that will not be thrown down."
 
-[3] And as he sat on the Mount of Olives opposite the temple, *Kefa* and Jacob and John and Andrew asked him privately,
+[3] And as he sat on ⟦mount-of-olives|Har HaZeitim|the Mount of Olives⟧ opposite the temple, ⟦peter|Kefa|Peter⟧ and ⟦james|Yaaqov|James⟧ and ⟦john|Yochanan|John⟧ and ⟦andrew|Andreas|Andrew⟧ asked him privately,
 
 [4] "Tell us, when will these things be, and what will be the sign when all these things are about to be accomplished?"
 
-[5] And *Yeshua* began to say to them, "See that no one leads you astray.
+[5] And ⟦yeshua|Yeshua|Jesus⟧ began to say to them, "See that no one leads you astray.
 
 [6] Many will come in my name, saying, 'I am he!' and they will lead many astray.
 
@@ -20,13 +20,13 @@
 
 [10] And the gospel must first be proclaimed to all nations.
 
-[11] And when they bring you to trial and deliver you over, do not be anxious beforehand what you are to say, but say whatever is given you in that hour, for it is not you who speak, but the *Ruach HaQodesh*.
+[11] And when they bring you to trial and deliver you over, do not be anxious beforehand what you are to say, but say whatever is given you in that hour, for it is not you who speak, but the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧.
 
 [12] And brother will deliver brother over to death, and the father his child, and children will rise against parents and have them put to death.
 
 [13] And you will be hated by all for my name's sake. But the one who endures to the end will be saved.
 
-[14] "But when you see the abomination of desolation standing where he ought not to be (let the reader understand), then let those who are in Judea flee to the mountains.
+[14] "But when you see the abomination of desolation standing where he ought not to be (let the reader understand), then let those who are in ⟦judea|Yehudah|Judea⟧ flee to the mountains.
 
 [15] Let the one who is on the housetop not go down, nor enter his house, to take anything out,
 
@@ -36,11 +36,11 @@
 
 [18] Pray that it may not happen in winter.
 
-[19] For in those days there will be such tribulation as has not been from the beginning of the creation that *Elohim* created until now, and never will be.
+[19] For in those days there will be such tribulation as has not been from the beginning of the creation that ⟦elohim|Elohim|God⟧ created until now, and never will be.
 
 [20] And if the Lord had not cut short the days, no human being would be saved. But for the sake of the elect, whom he chose, he shortened the days.
 
-[21] And then if anyone says to you, 'Look, here is the *Mashiach*!' or 'Look, there he is!' do not believe it.
+[21] And then if anyone says to you, 'Look, here is the ⟦mashiach|Mashiach|Christ⟧!' or 'Look, there he is!' do not believe it.
 
 [22] For false messiahs and false prophets will arise and perform signs and wonders, to lead astray, if possible, the elect.
 

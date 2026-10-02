@@ -1,20 +1,20 @@
 # Titus 1
 
-[1] Paul, a servant of *Elohim* and an apostle of *Yeshua* the *Mashiach*, for the sake of the faith of *Elohim*'s elect and their knowledge of the truth, which accords with godliness,
+[1] ⟦paul|Paulus|Paul⟧, a servant of ⟦elohim|Elohim|God⟧ and an apostle of ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧, for the sake of the faith of ⟦elohim|Elohim's|God's⟧ elect and their knowledge of the truth, which accords with godliness,
 
-[2] in hope of eternal life, which *Elohim*, who never lies, promised before the ages began
+[2] in hope of eternal life, which ⟦elohim|Elohim|God⟧, who never lies, promised before the ages began
 
-[3] and at the proper time manifested in his word through the preaching with which I have been entrusted by the command of *Elohim* our Savior;
+[3] and at the proper time manifested in his word through the preaching with which I have been entrusted by the command of ⟦elohim|Elohim|God⟧ our Savior;
 
 [4] To Titus, my true child in a common faith:
 
-Grace and peace from *Elohim* the Father and the *Mashiach* *Yeshua* our Savior.
+Grace and peace from ⟦elohim|Elohim|God⟧ the Father and ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧ our Savior.
 
-[5] This is why I left you in Crete, so that you might put what remained into order, and appoint elders in every town as I directed you —
+[5] This is why I left you in ⟦crete|Krete|Crete⟧, so that you might put what remained into order, and appoint elders in every town as I directed you —
 
 [6] if anyone is above reproach, the husband of one wife, and his children are believers and not open to the charge of debauchery or insubordination.
 
-[7] For an overseer, as *Elohim*'s steward, must be above reproach. He must not be arrogant or quick-tempered or a drunkard or violent or greedy for gain,
+[7] For an overseer, as ⟦elohim|Elohim's|God's⟧ steward, must be above reproach. He must not be arrogant or quick-tempered or a drunkard or violent or greedy for gain,
 
 [8] but hospitable, a lover of good, self-controlled, upright, holy, and disciplined.
 
@@ -24,7 +24,7 @@ Grace and peace from *Elohim* the Father and the *Mashiach* *Yeshua* our Savior.
 
 [11] They must be silenced, since they are upsetting whole families by teaching for shameful gain what they ought not to teach.
 
-[12] One of the Cretans, a prophet of their own, said, "**Cretans are always liars, evil beasts, lazy gluttons**."
+[12] One of the ⟦cretans|Kretes|Cretans⟧, a prophet of their own, said, "**⟦cretans|Kretes|Cretans⟧ are always liars, evil beasts, lazy gluttons**."
 
 [13] This testimony is true. Therefore rebuke them sharply, that they may be sound in the faith,
 
@@ -32,7 +32,7 @@ Grace and peace from *Elohim* the Father and the *Mashiach* *Yeshua* our Savior.
 
 [15] To the pure, all things are pure, but to the defiled and unbelieving, nothing is pure; but both their minds and their consciences are defiled.
 
-[16] They profess to know *Elohim*, but they deny him by their works. They are detestable, disobedient, unfit for any good work.
+[16] They profess to know ⟦elohim|Elohim|God⟧, but they deny him by their works. They are detestable, disobedient, unfit for any good work.
 
 ## Changes
 

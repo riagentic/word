@@ -1,50 +1,50 @@
 # Judges 2
 
-[1] The Messenger of Yahweh went up from Gilgal to Bochim, and said, "I brought you up out of Egypt and brought you into the land that I swore to give to your fathers. I said, 'I will never break my covenant with you,
+[1] The Messenger of ⟦yhwh|Yahweh|the LORD⟧ went up from Gilgal to Bochim, and said, "I brought you up out of ⟦egypt|Mitzrayim|Egypt⟧ and brought you into the land that I swore to give to your fathers. I said, 'I will never break my covenant with you,
 
 [2] and you shall make no covenant with the inhabitants of this land; you shall break down their altars.' But you have not obeyed my voice. What is this you have done?
 
 [3] So now I say, I will not drive them out from before you; they shall become your adversaries, and their gods shall be a snare to you."
 
-[4] When the Messenger of Yahweh spoke these words to all the children of Israel, the people lifted up their voices and wept.
+[4] When the Messenger of ⟦yhwh|Yahweh|the LORD⟧ spoke these words to all the children of ⟦israel|Yisrael|Israel⟧, the people lifted up their voices and wept.
 
-[5] They called the name of that place Bochim ("Weepers"), and they sacrificed there to Yahweh.
+[5] They called the name of that place Bochim ("Weepers"), and they sacrificed there to ⟦yhwh|Yahweh|the LORD⟧.
 
-[6] When Joshua had sent the people away, the children of Israel went each to his own inheritance to take possession of the land.
+[6] When ⟦joshua|Yehoshua|Joshua⟧ had sent the people away, the children of ⟦israel|Yisrael|Israel⟧ went each to his own inheritance to take possession of the land.
 
-[7] The people served Yahweh all the days of Joshua and all the days of the elders who survived Joshua, who had seen all the great work of Yahweh that he had done for Israel.
+[7] The people served ⟦yhwh|Yahweh|the LORD⟧ all the days of ⟦joshua|Yehoshua|Joshua⟧ and all the days of the elders who survived ⟦joshua|Yehoshua|Joshua⟧, who had seen all the great work of ⟦yhwh|Yahweh|the LORD⟧ that he had done for ⟦israel|Yisrael|Israel⟧.
 
-[8] Joshua son of Nun, the servant of Yahweh, died at the age of 110 years.
+[8] ⟦joshua|Yehoshua|Joshua⟧ son of Nun, the servant of ⟦yhwh|Yahweh|the LORD⟧, died at the age of 110 years.
 
-[9] They buried him within the territory of his inheritance at Timnath-heres, in the hill country of Ephraim, north of Mount Gaash.
+[9] They buried him within the territory of his inheritance at ⟦timnath-heres|Timnat Cheres|Timnath-heres⟧, in the hill country of ⟦ephraim|Efrayim|Ephraim⟧, north of Mount Gaash.
 
-[10] All that generation also were gathered to their fathers, and another generation arose after them who did not know Yahweh or the work that he had done for Israel.
+[10] All that generation also were gathered to their fathers, and another generation arose after them who did not know ⟦yhwh|Yahweh|the LORD⟧ or the work that he had done for ⟦israel|Yisrael|Israel⟧.
 
-[11] The children of Israel did what was evil in the eyes of Yahweh and served the Baals.
+[11] The children of ⟦israel|Yisrael|Israel⟧ did what was evil in the eyes of ⟦yhwh|Yahweh|the LORD⟧ and served the Baals.
 
-[12] They forsook Yahweh the *Elohim* of their fathers, who had brought them out of the land of Egypt, and followed other gods, from the gods of the peoples who were around them; they bowed down to them and provoked Yahweh to anger.
+[12] They forsook ⟦yhwh|Yahweh|the LORD⟧ the ⟦elohim|Elohim|God⟧ of their fathers, who had brought them out of the land of ⟦egypt|Mitzrayim|Egypt⟧, and followed other gods, from the gods of the peoples who were around them; they bowed down to them and provoked ⟦yhwh|Yahweh|the LORD⟧ to anger.
 
-[13] They forsook Yahweh and served Baal and the Ashtaroth.
+[13] They forsook ⟦yhwh|Yahweh|the LORD⟧ and served Baal and the ⟦ashtaroth-goddesses|Ashtarot|Ashtaroth⟧.
 
-[14] The anger of Yahweh burned against Israel, and he gave them into the hands of plunderers who plundered them; he sold them into the hands of their enemies all around, so that they could no longer stand before their enemies.
+[14] The anger of ⟦yhwh|Yahweh|the LORD⟧ burned against ⟦israel|Yisrael|Israel⟧, and he gave them into the hands of plunderers who plundered them; he sold them into the hands of their enemies all around, so that they could no longer stand before their enemies.
 
-[15] Wherever they went out, the hand of Yahweh was against them for harm, as Yahweh had said and as Yahweh had sworn to them. And they were in great distress.
+[15] Wherever they went out, the hand of ⟦yhwh|Yahweh|the LORD⟧ was against them for harm, as ⟦yhwh|Yahweh|the LORD⟧ had said and as ⟦yhwh|Yahweh|the LORD⟧ had sworn to them. And they were in great distress.
 
-[16] Then Yahweh raised up judges, who delivered them out of the hand of those who plundered them.
+[16] Then ⟦yhwh|Yahweh|the LORD⟧ raised up judges, who delivered them out of the hand of those who plundered them.
 
-[17] Yet they did not listen to their judges, but whored after other gods and bowed down to them. They turned aside quickly from the way in which their fathers had walked — obeying the commandments of Yahweh — they did not do likewise.
+[17] Yet they did not listen to their judges, but whored after other gods and bowed down to them. They turned aside quickly from the way in which their fathers had walked — obeying the commandments of ⟦yhwh|Yahweh|the LORD⟧ — they did not do likewise.
 
-[18] When Yahweh raised up judges for them, Yahweh was with the judge and delivered them from the hand of their enemies all the days of the judge; for Yahweh had compassion because of their groaning under those who oppressed them and harassed them.
+[18] When ⟦yhwh|Yahweh|the LORD⟧ raised up judges for them, ⟦yhwh|Yahweh|the LORD⟧ was with the judge and delivered them from the hand of their enemies all the days of the judge; for ⟦yhwh|Yahweh|the LORD⟧ had compassion because of their groaning under those who oppressed them and harassed them.
 
 [19] But when the judge died, they turned back and became more corrupt than their fathers — going after other gods, serving them and bowing down to them; they did not abandon any of their practices or their stubborn ways.
 
-[20] The anger of Yahweh burned against Israel, and he said, "Because this nation has transgressed my covenant that I commanded their fathers and has not listened to my voice,
+[20] The anger of ⟦yhwh|Yahweh|the LORD⟧ burned against ⟦israel|Yisrael|Israel⟧, and he said, "Because this nation has transgressed my covenant that I commanded their fathers and has not listened to my voice,
 
-[21] I will no longer drive out before them any of the nations that Joshua left when he died,
+[21] I will no longer drive out before them any of the nations that ⟦joshua|Yehoshua|Joshua⟧ left when he died,
 
-[22] in order to test Israel by them, whether they will keep the way of Yahweh, walking in it as their fathers did, or not."
+[22] in order to test ⟦israel|Yisrael|Israel⟧ by them, whether they will keep the way of ⟦yhwh|Yahweh|the LORD⟧, walking in it as their fathers did, or not."
 
-[23] So Yahweh left those nations, not driving them out quickly, nor giving them into the hand of Joshua.
+[23] So ⟦yhwh|Yahweh|the LORD⟧ left those nations, not driving them out quickly, nor giving them into the hand of ⟦joshua|Yehoshua|Joshua⟧.
 
 ## Changes
 

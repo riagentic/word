@@ -1,58 +1,58 @@
 # Ámos 7
 
-[1] Toto mi ukázal Pán Yahweh: hle, tvořil saranče, když otava teprve začínala rašit, a hle, byla to otava po královských sečích.
+[1] Toto mi ukázal ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: hle, tvořil saranče, když otava teprve začínala rašit, a hle, byla to otava po královských sečích.
 
 [2] Když dojedly trávu země, řekl jsem:
 
-„Pane Yahweh, prosím, odpusť!
-Jak může Jacob obstát?
+„⟦adonai-yhwh|Pane Jahve|Panovníku Hospodine⟧, prosím, odpusť!
+Jak může ⟦jacob|Jaakov|Jákob⟧ obstát?
 Je tak malý!“
 
-[3] Yahweh toho litoval: „Nestane se to,“ řekl Yahweh.
+[3] ⟦yhwh|Jahve|Hospodin⟧ toho litoval: „Nestane se to,“ řekl ⟦yhwh|Jahve|Hospodin⟧.
 
-[4] Toto mi ukázal Pán Yahweh: hle, Pán Yahweh svolával soud ohněm a ten pohltil velikou hlubinu a pojídal zemi.
+[4] Toto mi ukázal ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: hle, ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ svolával soud ohněm a ten pohltil velikou hlubinu a pojídal zemi.
 
 [5] Tu jsem řekl:
 
-„Pane Yahweh, prosím, přestaň!
-Jak může Jacob obstát?
+„⟦adonai-yhwh|Pane Jahve|Panovníku Hospodine⟧, prosím, přestaň!
+Jak může ⟦jacob|Jaakov|Jákob⟧ obstát?
 Je tak malý!“
 
-[6] Yahweh toho litoval: „Ani toto se nestane,“ řekl Pán Yahweh.
+[6] ⟦yhwh|Jahve|Hospodin⟧ toho litoval: „Ani toto se nestane,“ řekl ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧.
 
-[7] Toto mi ukázal: hle, Pán stál u zdi postavené podle olovnice a v ruce měl olovnici.
+[7] Toto mi ukázal: hle, ⟦adonai|Adonaj|Pán⟧ stál u zdi postavené podle olovnice a v ruce měl olovnici.
 
-[8] Yahweh mi řekl: „Amosi, co vidíš?“ Odpověděl jsem: „Olovnici.“ Tu Pán řekl:
+[8] ⟦yhwh|Jahve|Hospodin⟧ mi řekl: „⟦amos|Amosi|Ámosi⟧, co vidíš?“ Odpověděl jsem: „Olovnici.“ Tu ⟦adonai|Adonaj|Pán⟧ řekl:
 
 „Hle, kladu olovnici
-doprostřed svého lidu Israele;
+doprostřed svého lidu ⟦israel|Jisraele|Izraele⟧;
 už nikdy je nepřejdu bez trestu;
 
-[9] výšiny Isaaca budou zpustošeny,
-svatyně Israele budou obráceny v trosky
-a povstanu proti domu Jeroboama s mečem.“
+[9] výšiny ⟦isaac|Jicchaka|Izáka⟧ budou zpustošeny,
+svatyně ⟦israel|Jisraele|Izraele⟧ budou obráceny v trosky
+a povstanu proti domu ⟦jeroboam|Jarovama|Jarobeáma⟧ s mečem.“
 
-[10] Tu Amaziah, kněz v Bethelu, poslal k Jeroboamovi, králi Israele, se vzkazem: „Amos proti tobě zosnoval spiknutí uprostřed domu Israele. Země nemůže snést všechna jeho slova.
+[10] Tu ⟦amaziah|Amacjahu|Amasjáš⟧, kněz v ⟦bethel|Bejt Elu|Bét-elu⟧, poslal k ⟦jeroboam|Jarovamovi|Jarobeámovi⟧, králi ⟦israel|Jisraele|Izraele⟧, se vzkazem: „⟦amos|Amos|Ámos⟧ proti tobě zosnoval spiknutí uprostřed domu ⟦israel|Jisraele|Izraele⟧. Země nemůže snést všechna jeho slova.
 
-[11] Neboť Amos takto řekl: ‚Jeroboam zemře mečem a Israel musí jít do vyhnanství pryč ze své země.‘“
+[11] Neboť ⟦amos|Amos|Ámos⟧ takto řekl: ‚⟦jeroboam|Jarovam|Jarobeám⟧ zemře mečem a ⟦israel|Jisrael|Izrael⟧ musí jít do vyhnanství pryč ze své země.‘“
 
-[12] Amaziah řekl Amosovi: „Vidoucí, jdi, uteč do země Judah, tam jez chléb a tam prorokuj,
+[12] ⟦amaziah|Amacjahu|Amasjáš⟧ řekl ⟦amos|Amosovi|Ámosovi⟧: „Vidoucí, jdi, uteč do země ⟦judah|Jehudy|Judy⟧, tam jez chléb a tam prorokuj,
 
-[13] ale v Bethelu už nikdy neprorokuj, neboť je to královská svatyně a chrám království.“
+[13] ale v ⟦bethel|Bejt Elu|Bét-elu⟧ už nikdy neprorokuj, neboť je to královská svatyně a chrám království.“
 
-[14] Amos odpověděl Amaziahovi: „Nebyl jsem prorok ani syn proroka, ale byl jsem pastevec a pěstitel sykomorových fíků.
+[14] ⟦amos|Amos|Ámos⟧ odpověděl ⟦amaziah|Amacjahuovi|Amasjášovi⟧: „Nebyl jsem prorok ani syn proroka, ale byl jsem pastevec a pěstitel sykomorových fíků.
 
-[15] Ale Yahweh mě vzal od stáda, za nímž jsem chodil, a Yahweh mi řekl: ‚Jdi, prorokuj mému lidu Israeli.‘
+[15] Ale ⟦yhwh|Jahve|Hospodin⟧ mě vzal od stáda, za nímž jsem chodil, a ⟦yhwh|Jahve|Hospodin⟧ mi řekl: ‚Jdi, prorokuj mému lidu ⟦israel|Jisraeli|Izraeli⟧.‘
 
-[16] Nyní tedy slyš slovo Yahweh. Ty říkáš: ‚Neprorokuj proti Israeli a nekaž proti domu Isaaca.‘
+[16] Nyní tedy slyš slovo ⟦yhwh|Jahveho|Hospodina⟧. Ty říkáš: ‚Neprorokuj proti ⟦israel|Jisraeli|Izraeli⟧ a nekaž proti domu ⟦isaac|Jicchaka|Izáka⟧.‘
 
-[17] Proto toto praví Yahweh:
+[17] Proto toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
 ‚Tvá žena bude nevěstkou ve městě,
 tvoji synové a tvé dcery padnou mečem,
 tvá země bude rozdělena měřicí šňůrou;
 ty sám zemřeš v nečisté zemi
-a Israel jistě půjde do vyhnanství pryč ze své země.‘“
+a ⟦israel|Jisrael|Izrael⟧ jistě půjde do vyhnanství pryč ze své země.‘“
 
 ## Změny
 

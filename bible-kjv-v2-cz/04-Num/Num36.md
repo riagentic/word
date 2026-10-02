@@ -1,30 +1,30 @@
 # Numeri 36
 
-[1] Představení rodů otců z rodů synů Gileada, syna Machirova, syna Manassehova, z rodů synů Josephových, přistoupili a promluvili před Mosesem a před předáky, představenými rodů otců synů Israele.
+[1] Představení rodů otců z rodů synů ⟦gilead|Gilada|Gileáda⟧, syna ⟦machir|Machirova|Makírova⟧, syna ⟦manasseh|Menašova|Manasesova⟧, z rodů synů Josefových, přistoupili a promluvili před ⟦moses|Mošem|Mojžíšem⟧ a před předáky, představenými rodů otců synů ⟦israel|Jisraele|Izraele⟧.
 
-[2] Řekli: „Yahweh přikázal mému pánu dát zemi do dědictví losem synům Israele; a mému pánu bylo Yahweh přikázáno dát dědictví našeho bratra Zelophehada jeho dcerám.
+[2] Řekli: „⟦yhwh|Jahve|Hospodin⟧ přikázal mému pánu dát zemi do dědictví losem synům ⟦israel|Jisraele|Izraele⟧; a mému pánu bylo ⟦yhwh|Jahvem|Hospodinem⟧ přikázáno dát dědictví našeho bratra ⟦zelophehad|Celofchada|Selofchada⟧ jeho dcerám.
 
-[3] Jestliže se však provdají za některé ze synů ostatních kmenů synů Israele, pak bude jejich dědictví odňato od dědictví našich otců a přidáno k dědictví kmene, do něhož se provdají; tak bude odňato z losu našeho dědictví.
+[3] Jestliže se však provdají za některé ze synů ostatních kmenů synů ⟦israel|Jisraele|Izraele⟧, pak bude jejich dědictví odňato od dědictví našich otců a přidáno k dědictví kmene, do něhož se provdají; tak bude odňato z losu našeho dědictví.
 
-[4] A až přijde jubilejní rok synů Israele, jejich dědictví bude přidáno k dědictví kmene, do něhož se provdaly; tak bude jejich dědictví odňato od dědictví kmene našich otců.“
+[4] A až přijde jubilejní rok synů ⟦israel|Jisraele|Izraele⟧, jejich dědictví bude přidáno k dědictví kmene, do něhož se provdaly; tak bude jejich dědictví odňato od dědictví kmene našich otců.“
 
-[5] Moses přikázal synům Israele na slovo Yahweh: „Kmen synů Josephových mluví správně.
+[5] ⟦moses|Moše|Mojžíš⟧ přikázal synům ⟦israel|Jisraele|Izraele⟧ na slovo ⟦yhwh|Jahveho|Hospodina⟧: „Kmen synů Josefových mluví správně.
 
-[6] Toto přikázal Yahweh ohledně dcer Zelophehadových: ať se vdají, za koho uznají za nejlepší; jen se musí vdát v rámci rodu kmene svého otce.
+[6] Toto přikázal ⟦yhwh|Jahve|Hospodin⟧ ohledně dcer ⟦zelophehad|Celofchadových|Selofchadových⟧: ať se vdají, za koho uznají za nejlepší; jen se musí vdát v rámci rodu kmene svého otce.
 
-[7] Tak dědictví synů Israele nebude přecházet od kmene ke kmeni; neboť každý ze synů Israele se bude pevně držet dědictví kmene svých otců.
+[7] Tak dědictví synů ⟦israel|Jisraele|Izraele⟧ nebude přecházet od kmene ke kmeni; neboť každý ze synů ⟦israel|Jisraele|Izraele⟧ se bude pevně držet dědictví kmene svých otců.
 
-[8] Každá dcera, která zdědí nějaký podíl v kterémkoli kmeni synů Israele, bude ženou někoho z rodu kmene svých otců, aby každý ze synů Israele vlastnil dědictví svých otců.
+[8] Každá dcera, která zdědí nějaký podíl v kterémkoli kmeni synů ⟦israel|Jisraele|Izraele⟧, bude ženou někoho z rodu kmene svých otců, aby každý ze synů ⟦israel|Jisraele|Izraele⟧ vlastnil dědictví svých otců.
 
-[9] Žádné dědictví nebude přecházet z jednoho kmene na druhý, ale každý z kmenů synů Israele se bude pevně držet svého vlastního dědictví.“
+[9] Žádné dědictví nebude přecházet z jednoho kmene na druhý, ale každý z kmenů synů ⟦israel|Jisraele|Izraele⟧ se bude pevně držet svého vlastního dědictví.“
 
-[10] Jak Yahweh přikázal Mosesovi, tak dcery Zelophehadovy učinily.
+[10] Jak ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧, tak dcery ⟦zelophehad|Celofchadovy|Selofchadovy⟧ učinily.
 
-[11] Mahlah, Tirzah, Hoglah, Milcah a Noah, dcery Zelophehadovy, se provdaly za syny bratrů svého otce;
+[11] Machla, ⟦tirzah|Tirca|Tirsa⟧, Chogla, Milka a ⟦noa|Noa|Nóa⟧, dcery ⟦zelophehad|Celofchadovy|Selofchadovy⟧, se provdaly za syny bratrů svého otce;
 
-[12] provdaly se do rodů synů Manasseha, syna Josephova, a jejich dědictví zůstalo v kmeni rodu jejich otce.
+[12] provdaly se do rodů synů ⟦manasseh|Menaše|Manasesa⟧, syna Josefova, a jejich dědictví zůstalo v kmeni rodu jejich otce.
 
-[13] To jsou přikázání a nařízení, která Yahweh přikázal skrze Mosese synům Israele na moabských pláních u Jordanu naproti Jerichu.
+[13] To jsou přikázání a nařízení, která ⟦yhwh|Jahve|Hospodin⟧ přikázal skrze ⟦moses|Moše|Mojžíše⟧ synům ⟦israel|Jisraele|Izraele⟧ na ⟦moab|moavských|moábských⟧ pláních u ⟦jordan|Jardenu|Jordánu⟧ naproti Jerichu.
 
 ## Změny
 

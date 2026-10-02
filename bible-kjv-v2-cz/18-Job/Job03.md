@@ -1,14 +1,14 @@
 # Jób 3
 
-[1] Potom Job otevřel ústa a zlořečil svému dni.
+[1] Potom ⟦job|Ijov|Jób⟧ otevřel ústa a zlořečil svému dni.
 
-[2] Job promluvil a řekl:
+[2] ⟦job|Ijov|Jób⟧ promluvil a řekl:
 
 [3] „Kéž zanikne den, kdy jsem se narodil,
 i noc, která řekla: ‚Počat je chlapec.‘
 
 [4] Ten den ať je tmou;
-ať se po něm Eloah shůry neshání
+ať se po něm ⟦eloah|Eloah|Bůh⟧ shůry neshání
 a ať na něj nezazáří světlo.
 
 [5] Ať si ho vezme tma a temnota – hluboký stín;
@@ -23,7 +23,7 @@ ať nevstoupí do počtu měsíců.
 ať do ní nevnikne jásot.
 
 [8] Ať ji proklejí ti, kdo proklínají den,
-ti, kdo jsou připraveni vyburcovat Leviathana.
+ti, kdo jsou připraveni vyburcovat ⟦leviathan|Livjatana|livjátana⟧.
 
 [9] Ať se zatmí hvězdy jejího soumraku;
 ať čeká na světlo, a žádné nepřijde;
@@ -69,7 +69,7 @@ a kopou po ní víc než po skrytých pokladech,
 a jásali, kdyby našli hrob?
 
 [23] Proč je dáváno světlo muži, jehož cesta je skrytá
-a jejž Eloah ohradil?
+a jejž ⟦eloah|Eloah|Bůh⟧ ohradil?
 
 [24] Vzdychání mi přichází jako můj chléb
 a mé sténání se rozlévá jako voda.

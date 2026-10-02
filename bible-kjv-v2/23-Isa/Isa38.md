@@ -1,30 +1,30 @@
 # Isaiah 38
 
-[1] In those days Hezekiah became sick and was at the point of death. And Isaiah the prophet son of Amoz came to him, and said to him, "Thus says Yahweh: Set your house in order, for you shall die, and not live."
+[1] In those days ⟦hezekiah|Chizqiyahu|Hezekiah⟧ became sick and was at the point of death. And ⟦isaiah|Yeshayahu|Isaiah⟧ the prophet son of ⟦amoz|Amotz|Amoz⟧ came to him, and said to him, "Thus says ⟦yhwh|Yahweh|the LORD⟧: Set your house in order, for you shall die, and not live."
 
-[2] Then Hezekiah turned his face to the wall and prayed to Yahweh,
+[2] Then ⟦hezekiah|Chizqiyahu|Hezekiah⟧ turned his face to the wall and prayed to ⟦yhwh|Yahweh|the LORD⟧,
 
-[3] and said, "Please, O Yahweh, remember how I have walked before you in faithfulness and with a whole heart, and have done what is good in your sight." And Hezekiah wept bitterly.
+[3] and said, "Please, O ⟦yhwh|Yahweh|LORD⟧, remember how I have walked before you in faithfulness and with a whole heart, and have done what is good in your sight." And ⟦hezekiah|Chizqiyahu|Hezekiah⟧ wept bitterly.
 
-[4] Then the word of Yahweh came to Isaiah:
+[4] Then the word of ⟦yhwh|Yahweh|the LORD⟧ came to ⟦isaiah|Yeshayahu|Isaiah⟧:
 
-[5] "Go and say to Hezekiah, Thus says Yahweh, the *Elohim* of David your father: I have heard your prayer; I have seen your tears. Behold, I will add fifteen years to your life.
+[5] "Go and say to ⟦hezekiah|Chizqiyahu|Hezekiah⟧, Thus says ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of David your father: I have heard your prayer; I have seen your tears. Behold, I will add fifteen years to your life.
 
-[6] I will deliver you and this city out of the hand of the king of Assyria, and will defend this city.
+[6] I will deliver you and this city out of the hand of the king of ⟦assyria|Ashur|Assyria⟧, and will defend this city.
 
-[7] "This shall be the sign to you from Yahweh, that Yahweh will do this thing that he has promised:
+[7] "This shall be the sign to you from ⟦yhwh|Yahweh|the LORD⟧, that ⟦yhwh|Yahweh|the LORD⟧ will do this thing that he has promised:
 
-[8] Behold, I will make the shadow cast by the declining sun on the dial of Ahaz turn back ten steps." So the sun turned back on the dial the ten steps by which it had declined.
+[8] Behold, I will make the shadow cast by the declining sun on the dial of ⟦ahaz|Achaz|Ahaz⟧ turn back ten steps." So the sun turned back on the dial the ten steps by which it had declined.
 
-[9] A writing of Hezekiah king of Judah, after he had been sick and had recovered from his sickness:
+[9] A writing of ⟦hezekiah|Chizqiyahu|Hezekiah⟧ king of ⟦judah|Yehudah|Judah⟧, after he had been sick and had recovered from his sickness:
 
 [10] I said, In the middle of my days
 I must depart;
 I am consigned to the gates of Sheol
 for the rest of my years.
 
-[11] I said, I shall not see Yah,
-Yah in the land of the living;
+[11] I said, I shall not see ⟦yah|Yah|the LORD⟧,
+⟦yah|Yah|the LORD⟧ in the land of the living;
 I shall look on man no more
 among the inhabitants of the world.
 
@@ -41,14 +41,14 @@ from day to night you bring me to an end.
 [14] Like a swallow or a crane I chirp;
 I moan like a dove.
 My eyes are weary with looking upward.
-O Lord, I am oppressed; be my pledge of safety!
+O ⟦adonai|Adonai|Lord⟧, I am oppressed; be my pledge of safety!
 
 [15] What shall I say? For he has spoken to me,
 and he himself has done it.
 I walk slowly all my years
 because of the bitterness of my soul.
 
-[16] O Lord, by these things men live,
+[16] O ⟦adonai|Adonai|Lord⟧, by these things men live,
 and in all these is the life of my spirit.
 Oh restore me to health and make me live!
 
@@ -69,14 +69,14 @@ as I do this day;
 the father makes known to the children
 your faithfulness.
 
-[20] Yahweh will save me,
+[20] ⟦yhwh|Yahweh|The LORD⟧ will save me,
 and we will play my music on stringed instruments
 all the days of our lives,
-at the house of Yahweh.
+at the house of ⟦yhwh|Yahweh|the LORD⟧.
 
-[21] Now Isaiah had said, "Let them take a cake of figs and apply it to the boil, that he may recover."
+[21] Now ⟦isaiah|Yeshayahu|Isaiah⟧ had said, "Let them take a cake of figs and apply it to the boil, that he may recover."
 
-[22] Hezekiah also had said, "What is the sign that I shall go up to the house of Yahweh?"
+[22] ⟦hezekiah|Chizqiyahu|Hezekiah⟧ also had said, "What is the sign that I shall go up to the house of ⟦yhwh|Yahweh|the LORD⟧?"
 
 ## Changes
 

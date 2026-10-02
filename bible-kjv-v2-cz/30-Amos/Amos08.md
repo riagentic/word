@@ -1,14 +1,14 @@
 # Ámos 8
 
-[1] Toto mi ukázal Pán Yahweh: hle, koš letního ovoce.
+[1] Toto mi ukázal ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: hle, koš letního ovoce.
 
-[2] Řekl: „Amosi, co vidíš?“ Odpověděl jsem: „Koš letního ovoce.“ Tu mi Yahweh řekl:
+[2] Řekl: „⟦amos|Amosi|Ámosi⟧, co vidíš?“ Odpověděl jsem: „Koš letního ovoce.“ Tu mi ⟦yhwh|Jahve|Hospodin⟧ řekl:
 
-„Přišel konec na můj lid Israel;
+„Přišel konec na můj lid ⟦israel|Jisrael|Izrael⟧;
 už nikdy je nepřejdu bez trestu.
 
 [3] Písně chrámu se v ten den změní v kvílení,“
-je výrok Pána Yahweh.
+je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.
 „Tolik mrtvých těl! Všude jsou pohozena!
 Ticho!“
 
@@ -17,7 +17,7 @@ a skoncováváte s chudými země,
 
 [5] a říkáte: „Kdy skončí novoluní,
 abychom mohli prodávat obilí?
-A sabat,
+A ⟦shabbat|šabat|sobota⟧,
 abychom mohli nabízet pšenici na prodej,
 zmenšovat éfu a zvětšovat šekel
 a podvádět falešnými váhami,
@@ -26,15 +26,15 @@ a podvádět falešnými váhami,
 a ubohé za pár sandálů
 a prodávali plevy z pšenice?“
 
-[7] Yahweh přísahal při pýše Jacoba:
+[7] ⟦yhwh|Jahve|Hospodin⟧ přísahal při pýše ⟦jacob|Jaakova|Jákoba⟧:
 „Jistě nikdy nezapomenu na žádný z jejich skutků.“
 
 [8] Což se kvůli tomu nezachvěje země
 a nebude truchlit každý, kdo v ní bydlí,
-a celá se nevzedme jako Nil,
-nerozbouří se a zase neklesne jako Nil v Egyptě?
+a celá se nevzedme jako ⟦nile|Jeor|Nil⟧,
+nerozbouří se a zase neklesne jako ⟦nile|Jeor|Nil⟧ v ⟦egypt|Micrajim|Egyptě⟧?
 
-[9] „V ten den,“ je výrok Pána Yahweh,
+[9] „V ten den,“ je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧,
 „dám slunci zapadnout v poledne
 a zatemním zemi za bílého dne.
 
@@ -45,22 +45,22 @@ a lysinu na každou hlavu;
 učiním to jako smutek za jediného syna
 a jeho konec jako hořký den.
 
-[11] Hle, přicházejí dny,“ je výrok Pána Yahweh,
+[11] Hle, přicházejí dny,“ je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧,
 „kdy pošlu na zemi hlad –
 ne hlad po chlebu ani žízeň po vodě,
-ale po slyšení slov Yahweh.
+ale po slyšení slov ⟦yhwh|Jahveho|Hospodina⟧.
 
 [12] Budou bloudit od moře k moři
 a od severu k východu;
-budou pobíhat sem a tam, aby hledali slovo Yahweh,
+budou pobíhat sem a tam, aby hledali slovo ⟦yhwh|Jahveho|Hospodina⟧,
 ale nenajdou je.
 
 [13] V ten den půvabné panny i mladíci
 budou omdlévat žízní.
 
-[14] Ti, kdo přísahají při vině Samarie
+[14] Ti, kdo přísahají při vině ⟦samaria|Šomronu|Samaří⟧
 a říkají: ‚Jakože živ je tvůj bůh, Dane,‘
-a: ‚Jakože živa je Cesta do Beersheba,‘
+a: ‚Jakože živa je Cesta do ⟦beersheba|Beer Ševy|Beer-šeby⟧,‘
 padnou a už nikdy nevstanou.“
 
 ## Změny

@@ -1,6 +1,6 @@
 # Leviticus 21
 
-[1] Yahweh said to Moses, "Speak to the priests, the sons of Aaron, and say to them: 'None of you shall defile himself for a dead person among his kin,
+[1] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Speak to the priests, the sons of ⟦aaron|Aharon|Aaron⟧, and say to them: 'None of you shall defile himself for a dead person among his kin,
 
 [2] except for the close relatives that are near to him — for his mother, his father, his son, his daughter, his brother,
 
@@ -10,11 +10,11 @@
 
 [5] They shall not make bald patches on their head, nor shave off the edge of their beard, nor make any cuts in their flesh.
 
-[6] They shall be holy to their *Elohim* and not profane the name of their *Elohim*; for they offer the offerings of Yahweh made by fire, the bread of their *Elohim*; therefore they shall be holy.
+[6] They shall be holy to their ⟦elohim|Elohim|God⟧ and not profane the name of their ⟦elohim|Elohim|God⟧; for they offer the offerings of ⟦yhwh|Yahweh|the LORD⟧ made by fire, the bread of their ⟦elohim|Elohim|God⟧; therefore they shall be holy.
 
-[7] They shall not take a woman who is a prostitute or profaned, nor shall they take a woman divorced from her husband; for the priest is holy to his *Elohim*.
+[7] They shall not take a woman who is a prostitute or profaned, nor shall they take a woman divorced from her husband; for the priest is holy to his ⟦elohim|Elohim|God⟧.
 
-[8] You shall consecrate him, therefore, for he offers the bread of your *Elohim*; he shall be holy to you, for I Yahweh, who consecrate you, am holy.
+[8] You shall consecrate him, therefore, for he offers the bread of your ⟦elohim|Elohim|God⟧; he shall be holy to you, for I ⟦yhwh|Yahweh|the LORD⟧, who consecrate you, am holy.
 
 [9] The daughter of any priest, if she profanes herself by prostitution, profanes her father; she shall be burned with fire.
 
@@ -22,17 +22,17 @@
 
 [11] He shall not go near any dead body, nor defile himself even for his father or his mother;
 
-[12] nor shall he go out of the sanctuary or profane the sanctuary of his *Elohim*; for the consecration of the anointing oil of his *Elohim* is upon him. I am Yahweh.
+[12] nor shall he go out of the sanctuary or profane the sanctuary of his ⟦elohim|Elohim|God⟧; for the consecration of the anointing oil of his ⟦elohim|Elohim|God⟧ is upon him. I am ⟦yhwh|Yahweh|the LORD⟧.
 
 [13] He shall take a wife in her virginity.
 
 [14] A widow, or a divorced woman, or a profaned woman, or a prostitute — these he shall not take; but a virgin of his own people he shall take as a wife.
 
-[15] He shall not profane his offspring among his people; for I am Yahweh who consecrates him.'"
+[15] He shall not profane his offspring among his people; for I am ⟦yhwh|Yahweh|the LORD⟧ who consecrates him.'"
 
-[16] Yahweh spoke to Moses, saying,
+[16] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[17] "Speak to Aaron, saying: 'Any man of your offspring throughout their generations who has a blemish shall not draw near to offer the bread of his *Elohim*.
+[17] "Speak to ⟦aaron|Aharon|Aaron⟧, saying: 'Any man of your offspring throughout their generations who has a blemish shall not draw near to offer the bread of his ⟦elohim|Elohim|God⟧.
 
 [18] For any man who has a blemish shall not draw near: a blind man, or a lame man, or one with a disfigured face, or with a limb too long;
 
@@ -40,13 +40,13 @@
 
 [20] or a hunchback, or a dwarf, or one with a defect in his eye, or an itch or scabs, or crushed testicles.
 
-[21] No man of the offspring of Aaron the priest who has a blemish shall come near to offer the offerings of Yahweh made by fire; he has a blemish; he shall not come near to offer the bread of his *Elohim*.
+[21] No man of the offspring of ⟦aaron|Aharon|Aaron⟧ the priest who has a blemish shall come near to offer the offerings of ⟦yhwh|Yahweh|the LORD⟧ made by fire; he has a blemish; he shall not come near to offer the bread of his ⟦elohim|Elohim|God⟧.
 
-[22] He may eat the bread of his *Elohim* — both of the most holy and of the holy things.
+[22] He may eat the bread of his ⟦elohim|Elohim|God⟧ — both of the most holy and of the holy things.
 
-[23] But he shall not come near the veil, nor approach the altar, because he has a blemish, so that he may not profane my sanctuaries; for I am Yahweh who consecrates them.'"
+[23] But he shall not come near the veil, nor approach the altar, because he has a blemish, so that he may not profane my sanctuaries; for I am ⟦yhwh|Yahweh|the LORD⟧ who consecrates them.'"
 
-[24] And Moses spoke to Aaron and to his sons and to all the children of Israel.
+[24] And ⟦moses|Moshe|Moses⟧ spoke to ⟦aaron|Aharon|Aaron⟧ and to his sons and to all the children of ⟦israel|Yisrael|Israel⟧.
 
 ## Changes
 

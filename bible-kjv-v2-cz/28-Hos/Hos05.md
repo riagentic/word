@@ -1,68 +1,68 @@
 # Ozeáš 5
 
 [1] Slyšte to, kněží!
-Pozorujte, dome Israele!
+Pozorujte, dome ⟦israel|Jisraele|Izraele⟧!
 Naslouchejte, dome královský!
 Neboť ten soud platí vám;
-byli jste totiž osidlem v Mizpah
-a sítí rozestřenou na Taboru.
+byli jste totiž osidlem v ⟦mizpah|Micpě|Mispě⟧
+a sítí rozestřenou na ⟦tabor|Tavoru|Táboru⟧.
 
 [2] Prohloubili porážku odpadlíků,
 ale já je všechny potrestám.
 
-[3] Znám Ephraima
-a Israel není přede mnou skrytý;
-neboť nyní, Ephraime, jsi smilnil;
-Israel je poskvrněný.
+[3] Znám Efrajima
+a ⟦israel|Jisrael|Izrael⟧ není přede mnou skrytý;
+neboť nyní, Efrajime, jsi smilnil;
+⟦israel|Jisrael|Izrael⟧ je poskvrněný.
 
 [4] Jejich skutky jim nedovolí
-vrátit se k jejich *Elohim*.
+vrátit se k jejich ⟦elohim|Elohim|Bohu⟧.
 Neboť duch smilstva je v nich
-a Yahweh neznají.
+a ⟦yhwh|Jahveho|Hospodina⟧ neznají.
 
-[5] Pýcha Israele svědčí proti němu do tváře;
-Israel a Ephraim klopýtnou ve své vině;
-i Judah klopýtne s nimi.
+[5] Pýcha ⟦israel|Jisraele|Izraele⟧ svědčí proti němu do tváře;
+⟦israel|Jisrael|Izrael⟧ a Efrajim klopýtnou ve své vině;
+i ⟦judah|Jehuda|Juda⟧ klopýtne s nimi.
 
 [6] Se svými stády ovcí a skotu půjdou
-hledat Yahweh,
+hledat ⟦yhwh|Jahveho|Hospodina⟧,
 ale nenajdou ho;
 vzdálil se od nich.
 
-[7] Jednali s Yahweh nevěrně;
+[7] Jednali s ⟦yhwh|Jahvem|Hospodinem⟧ nevěrně;
 vždyť zplodili cizí děti.
 Nyní je i s jejich poli pohltí novoluní.
 
-[8] Troubte na roh v Gibeah,
-na trubku v Ramah.
-Vyhlaste poplach v Beth-Aven;
-jdeme za tebou, Benjamine!
+[8] Troubte na ⟦shofar|šofar|polnici⟧ v ⟦gibeah|Givě|Gibeji⟧,
+na trubku v ⟦ramah|Ramě|Rámě⟧.
+Vyhlaste poplach v ⟦beth-aven|Bejt Avenu|Bét-avenu⟧;
+jdeme za tebou, ⟦benjamin|Binjamine|Benjamíne⟧!
 
-[9] Ephraim se stane pustinou
+[9] Efrajim se stane pustinou
 v den trestu;
-mezi kmeny Israele
+mezi kmeny ⟦israel|Jisraele|Izraele⟧
 oznamuji, co je jisté.
 
-[10] Knížata Judah se stala
+[10] Knížata ⟦judah|Jehudy|Judy⟧ se stala
 podobnými těm, kdo posouvají mezník;
 na ně vyleji
 svůj hněv jako vodu.
 
-[11] Ephraim je utlačován, rozdrcen soudem,
+[11] Efrajim je utlačován, rozdrcen soudem,
 protože se umínil chodit za nečistotou.
 
-[12] Já jsem však pro Ephraima jako mol
-a pro dům Judah jako hniloba.
+[12] Já jsem však pro Efrajima jako mol
+a pro dům ⟦judah|Jehudy|Judy⟧ jako hniloba.
 
-[13] Když Ephraim spatřil svou nemoc
-a Judah svou ránu,
-šel Ephraim do Assyrie
+[13] Když Efrajim spatřil svou nemoc
+a ⟦judah|Jehuda|Juda⟧ svou ránu,
+šel Efrajim do ⟦assyria|Aššuru|Asýrie⟧
 a poslal k velikému králi.
 On vás však nemůže uzdravit
 ani vyléčit vaši ránu.
 
-[14] Neboť budu pro Ephraima jako lev
-a pro dům Judah jako mladý lev.
+[14] Neboť budu pro Efrajima jako lev
+a pro dům ⟦judah|Jehudy|Judy⟧ jako mladý lev.
 Já, právě já, roztrhám a odejdu;
 odnesu a nikdo nevysvobodí.
 

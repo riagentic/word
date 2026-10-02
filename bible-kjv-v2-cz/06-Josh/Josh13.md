@@ -1,70 +1,70 @@
 # Jozue 13
 
-[1] Joshua byl už starý a pokročilého věku, a Yahweh mu řekl: „Jsi starý a pokročilého věku, a ještě zbývá velmi mnoho země, kterou je třeba zaujmout.
+[1] ⟦joshua|Jehošua|Jozue⟧ byl už starý a pokročilého věku, a ⟦yhwh|Jahve|Hospodin⟧ mu řekl: „Jsi starý a pokročilého věku, a ještě zbývá velmi mnoho země, kterou je třeba zaujmout.
 
-[2] Toto je země, která ještě zbývá: všechny oblasti Philistinů a všechny oblasti Geshuritů,
+[2] Toto je země, která ještě zbývá: všechny oblasti ⟦philistines|Pelištim|Pelištejců⟧ a všechny oblasti ⟦geshurites|Gešuri|Gešúrců⟧,
 
-[3] od Shihoru, který je východně od Egypta, až k hranici Ekronu na severu, jež se počítá za canaanitské území; pět knížat Philistinů – knížata Gazy, Ashdodu, Ashkelonu, Gathu a Ekronu – a území Avvim
+[3] od ⟦shihor|Šichoru|Šíchoru⟧, který je východně od ⟦egypt|Micrajim|Egypta⟧, až k hranici ⟦ekron|Ekronu|Ekrónu⟧ na severu, jež se počítá za ⟦canaanites|kenaanijské|kenaanské⟧ území; pět knížat ⟦philistines|Pelištim|Pelištejců⟧ – knížata ⟦gaza|Azzy|Gazy⟧, ⟦ashdod|Ašdodu|Ašdódu⟧, ⟦ashkelon|Aškelonu|Aškalónu⟧, Gatu a ⟦ekron|Ekronu|Ekrónu⟧ – a území ⟦avvim|Avvim|Avijců⟧
 
-[4] na jihu; celá země Canaanitů; a Mearah, která patří Sidonským, až k Apheku, k hranici Amoritů;
+[4] na jihu; celá země ⟦canaanites|Kenaanim|Kenaanců⟧; a ⟦mearah|Meara|Meára⟧, která patří ⟦sidonians|Cidonim|Sidóňanům⟧, až k Afeku, k hranici ⟦amorites|Emorim|Emorejců⟧;
 
-[5] a země Gebalitů a celý Lebanon k východu slunce, od Baal-gadu pod horou Hermon až k Lebo-hamathu;
+[5] a země ⟦gebalites|Givlim|Gebalců⟧ a celý ⟦lebanon|Levanon|Libanón⟧ k východu slunce, od ⟦baal-gad|Baal Gadu|Baal-gadu⟧ pod horou ⟦hermon|Chermon|Chermón⟧ až k ⟦lebo-hamath|Levo Chamatu|Lebó-chamátu⟧;
 
-[6] všichni obyvatelé pahorkatiny od Lebanonu až k Misrephoth-maim, všichni Sidonští. Já sám je vypudím před syny Israele. Jen rozděl zemi losem Israeli do dědictví, jak jsem ti přikázal.
+[6] všichni obyvatelé pahorkatiny od ⟦lebanon|Levanonu|Libanónu⟧ až k ⟦misrephoth-maim|Misrefot Majim|Misrefót-majim⟧, všichni ⟦sidonians|Cidonim|Sidóňané⟧. Já sám je vypudím před syny ⟦israel|Jisraele|Izraele⟧. Jen rozděl zemi losem ⟦israel|Jisraeli|Izraeli⟧ do dědictví, jak jsem ti přikázal.
 
-[7] Nyní tedy rozděl tuto zemi do dědictví devíti kmenům a polovině kmene Manasseh.“
+[7] Nyní tedy rozděl tuto zemi do dědictví devíti kmenům a polovině kmene ⟦manasseh|Menaše|Manases⟧.“
 
-[8] S druhou polovinou obdrželi Reubenité a Gadité své dědictví, které jim dal Moses za Jordanem na východě, jak jim je dal Moses, služebník Yahweh:
+[8] S druhou polovinou obdrželi ⟦reubenites|Reuveni|Rúbenovci⟧ a ⟦gadites|Gadi|Gádovci⟧ své dědictví, které jim dal ⟦moses|Moše|Mojžíš⟧ za ⟦jordan|Jardenem|Jordánem⟧ na východě, jak jim je dal ⟦moses|Moše|Mojžíš⟧, služebník ⟦yhwh|Jahveho|Hospodina⟧:
 
-[9] od Aroeru na okraji vádí Arnon – i město uprostřed údolí – a celou náhorní rovinu Medeba až k Dibonu;
+[9] od ⟦aroer|Aroeru|Aroéru⟧ na okraji vádí ⟦arnon|Arnon|Arnón⟧ – i město uprostřed údolí – a celou náhorní rovinu ⟦medeba|Mejdvy|Médeby⟧ až k ⟦dibon|Divonu|Díbonu⟧;
 
-[10] a všechna města Sihona, krále Amoritů, který kraloval v Heshbonu, až k hranici synů Ammonu;
+[10] a všechna města ⟦sihon|Sichona|Síchona⟧, krále ⟦amorites|Emorim|Emorejců⟧, který kraloval v ⟦heshbon|Chešbonu|Chešbónu⟧, až k hranici synů ⟦ammon|Ammonu|Amónu⟧;
 
-[11] a Gilead a území Geshuritů a Maacathitů a celou horu Hermon a celý Bashan až k Salcah;
+[11] a ⟦gilead|Gilad|Gileád⟧ a území ⟦geshurites|Gešuri|Gešúrců⟧ a ⟦maacathites|Maachati|Maakátců⟧ a celou horu ⟦hermon|Chermon|Chermón⟧ a celý ⟦bashan|Bašan|Bášan⟧ až k ⟦salecah|Salše|Salce⟧;
 
-[12] celé království Oga v Bashanu, který kraloval v Ashtarothu a v Edrei – on jediný zůstal ze zbytku Rephaim – ty Moses pobil a vyhnal.
+[12] celé království ⟦og|Oga|Óga⟧ v ⟦bashan|Bašanu|Bášanu⟧, který kraloval v ⟦ashtaroth|Aštarotu|Aštarótu⟧ a v ⟦edrei|Edreji|Edreí⟧ – on jediný zůstal ze zbytku ⟦rephaim|Refaim|Refájců⟧ – ty ⟦moses|Moše|Mojžíš⟧ pobil a vyhnal.
 
-[13] Synové Israele však nevyhnali Geshurity ani Maacathity; Geshurité a Maacathité bydlí uprostřed Israele až do tohoto dne.
+[13] Synové ⟦israel|Jisraele|Izraele⟧ však nevyhnali ⟦geshurites|Gešuri|Gešúrce⟧ ani ⟦maacathites|Maachati|Maakátce⟧; ⟦geshurites|Gešuri|Gešúrci⟧ a ⟦maacathites|Maachati|Maakátci⟧ bydlí uprostřed ⟦israel|Jisraele|Izraele⟧ až do tohoto dne.
 
-[14] Jedině kmeni Levi nedal žádné dědictví; ohnivé oběti Yahweh, *Elohim* Israele, jsou jejich dědictvím, jak jim řekl.
+[14] Jedině kmeni ⟦levi|Levi|Lévi⟧ nedal žádné dědictví; ohnivé oběti ⟦yhwh|Jahveho|Hospodina⟧, ⟦elohim|Elohim|Boha⟧ ⟦israel|Jisraele|Izraele⟧, jsou jejich dědictvím, jak jim řekl.
 
-[15] Moses dal kmeni synů Reubena jejich dědictví podle jejich rodů.
+[15] ⟦moses|Moše|Mojžíš⟧ dal kmeni synů ⟦reuben|Reuvena|Rúbena⟧ jejich dědictví podle jejich rodů.
 
-[16] Jejich území sahalo od Aroeru na okraji vádí Arnon – i město uprostřed údolí – a celá náhorní rovina u Medeba;
+[16] Jejich území sahalo od ⟦aroer|Aroeru|Aroéru⟧ na okraji vádí ⟦arnon|Arnon|Arnón⟧ – i město uprostřed údolí – a celá náhorní rovina u ⟦medeba|Mejdvy|Médeby⟧;
 
-[17] Heshbon a všechna jeho města, která jsou na náhorní rovině; Dibon, Bamoth-baal, Beth-baal-meon,
+[17] ⟦heshbon|Chešbon|Chešbón⟧ a všechna jeho města, která jsou na náhorní rovině; ⟦dibon|Divon|Díbon⟧, ⟦bamoth-baal|Bamot Baal|Bamót-baal⟧, ⟦beth-baal-meon|Bejt Baal Meon|Bét-baal-meón⟧,
 
-[18] Jahaz, Kedemoth, Mephaath,
+[18] ⟦jahaz|Jahca|Jahas⟧, ⟦kedemoth|Kedemot|Kedemót⟧, Mefaat,
 
-[19] Kiriathaim, Sibmah, Zereth-shahar na pahorku v údolí,
+[19] Kirjatajim, ⟦sibmah|Sivma|Sibma⟧, ⟦zereth-shahar|Ceret HaŠachar|Seret-šachar⟧ na pahorku v údolí,
 
-[20] Beth-peor, svahy Pisgah, Beth-jeshimoth
+[20] ⟦beth-peor|Bejt Peor|Bét-peór⟧, svahy Pisgy, ⟦beth-jeshimoth|Bejt HaJešimot|Bét-ješimót⟧
 
-[21] a všechna města náhorní roviny a celé království Sihona, krále Amoritů, který kraloval v Heshbonu a kterého Moses pobil spolu s náčelníky Midianu – Evim, Rekemem, Zurem, Hurem a Rebou, Sihonovými knížaty, kteří sídlili v zemi.
+[21] a všechna města náhorní roviny a celé království ⟦sihon|Sichona|Síchona⟧, krále ⟦amorites|Emorim|Emorejců⟧, který kraloval v ⟦heshbon|Chešbonu|Chešbónu⟧ a kterého ⟦moses|Moše|Mojžíš⟧ pobil spolu s náčelníky ⟦midian|Midjanu|Midjánu⟧ – ⟦evi|Evim|Evím⟧, Rekemem, ⟦zur|Curem|Súrem⟧, ⟦hur|Churem|Chúrem⟧ a ⟦reba|Revou|Rebou⟧, ⟦sihon|Sichonovými|Síchonovými⟧ knížaty, kteří sídlili v zemi.
 
-[22] Také Balaama, syna Beorova, věštce, zabili synové Israele mečem mezi ostatními, které pobili.
+[22] Také ⟦balaam|Bilama|Bileáma⟧, syna ⟦beor|Beorova|Beórova⟧, věštce, zabili synové ⟦israel|Jisraele|Izraele⟧ mečem mezi ostatními, které pobili.
 
-[23] Hranicí synů Reubena byl Jordan a jeho břeh. To bylo dědictví synů Reubena podle jejich rodů – města a jejich vesnice.
+[23] Hranicí synů ⟦reuben|Reuvena|Rúbena⟧ byl ⟦jordan|Jarden|Jordán⟧ a jeho břeh. To bylo dědictví synů ⟦reuben|Reuvena|Rúbena⟧ podle jejich rodů – města a jejich vesnice.
 
-[24] Moses dal dědictví kmeni Gad, synům Gada, podle jejich rodů.
+[24] ⟦moses|Moše|Mojžíš⟧ dal dědictví kmeni ⟦gad|Gad|Gád⟧, synům ⟦gad|Gada|Gáda⟧, podle jejich rodů.
 
-[25] Jejich území byl Jazer a všechna města Gileadu a polovina země synů Ammonu až k Aroeru, který leží východně od Rabbah;
+[25] Jejich území byl ⟦jazer|Jazer|Jaezer⟧ a všechna města ⟦gilead|Giladu|Gileádu⟧ a polovina země synů ⟦ammon|Ammonu|Amónu⟧ až k ⟦aroer|Aroeru|Aroéru⟧, který leží východně od ⟦rabbah|Rabby|Raby⟧;
 
-[26] a od Heshbonu až k Ramath-mizpeh a Betonimu a od Mahanaimu až k hranici Debiru;
+[26] a od ⟦heshbon|Chešbonu|Chešbónu⟧ až k ⟦ramath-mizpeh|Ramat HaMicpe|Ramat-mispe⟧ a ⟦betonim|Betonimu|Betonímu⟧ a od Machanajimu až k hranici ⟦debir|Deviru|Debíru⟧;
 
-[27] a v údolí Beth-haram, Beth-nimrah, Succoth a Zaphon – zbytek království Sihona, krále Heshbonu – Jordan a jeho břeh až k okraji moře Chinnereth, za Jordanem na východě.
+[27] a v údolí ⟦beth-haram|Bejt HaRam|Bét-haram⟧, ⟦beth-nimrah|Bejt Nimra|Bét-nimra⟧, ⟦succoth|Sukkot|Sukót⟧ a ⟦zaphon|Cafon|Safón⟧ – zbytek království ⟦sihon|Sichona|Síchona⟧, krále ⟦heshbon|Chešbonu|Chešbónu⟧ – ⟦jordan|Jarden|Jordán⟧ a jeho břeh až k okraji moře ⟦chinnereth|Kinneret|Kineret⟧, za ⟦jordan|Jardenem|Jordánem⟧ na východě.
 
-[28] To bylo dědictví synů Gada podle jejich rodů – města a jejich vesnice.
+[28] To bylo dědictví synů ⟦gad|Gada|Gáda⟧ podle jejich rodů – města a jejich vesnice.
 
-[29] Moses dal dědictví polovině kmene Manasseh; připadlo polovině kmene synů Manasseh podle jejich rodů.
+[29] ⟦moses|Moše|Mojžíš⟧ dal dědictví polovině kmene ⟦manasseh|Menaše|Manases⟧; připadlo polovině kmene synů ⟦manasseh|Menaše|Manasesa⟧ podle jejich rodů.
 
-[30] Jejich území sahalo od Mahanaimu, celý Bashan, celé království Oga, krále Bashanu, a všechny Havvoth-jair, které jsou v Bashanu – šedesát měst.
+[30] Jejich území sahalo od Machanajimu, celý ⟦bashan|Bašan|Bášan⟧, celé království ⟦og|Oga|Óga⟧, krále ⟦bashan|Bašanu|Bášanu⟧, a všechny ⟦havvoth-jair|Chavvot Jair|Chavót-jaír⟧, které jsou v ⟦bashan|Bašanu|Bášanu⟧ – šedesát měst.
 
-[31] Polovina Gileadu, Ashtaroth a Edrei – města Ogova království v Bashanu – připadly synům Machira, syna Manasseh, polovině synů Machira podle jejich rodů.
+[31] Polovina ⟦gilead|Giladu|Gileádu⟧, ⟦ashtaroth|Aštarot|Aštarót⟧ a ⟦edrei|Edrej|Edreí⟧ – města ⟦og|Ogova|Ógova⟧ království v ⟦bashan|Bašanu|Bášanu⟧ – připadly synům ⟦machir|Machira|Makíra⟧, syna ⟦manasseh|Menaše|Manasesa⟧, polovině synů ⟦machir|Machira|Makíra⟧ podle jejich rodů.
 
-[32] To jsou podíly, které Moses rozdělil do dědictví na moabských pláních, za Jordanem, východně od Jericha.
+[32] To jsou podíly, které ⟦moses|Moše|Mojžíš⟧ rozdělil do dědictví na ⟦moab|moavských|moábských⟧ pláních, za ⟦jordan|Jardenem|Jordánem⟧, východně od Jericha.
 
-[33] Kmeni Levi však Moses nedal žádné dědictví; Yahweh, *Elohim* Israele, byl jejich dědictvím, jak jim řekl.
+[33] Kmeni ⟦levi|Levi|Lévi⟧ však ⟦moses|Moše|Mojžíš⟧ nedal žádné dědictví; ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧, byl jejich dědictvím, jak jim řekl.
 
 ## Změny
 

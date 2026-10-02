@@ -1,30 +1,30 @@
 # Matthew 17
 
-[1] And after six days *Yeshua* took with him Peter and Jacob, and John his brother, and led them up a high mountain by themselves.
+[1] And after six days ⟦yeshua|Yeshua|Jesus⟧ took with him ⟦peter|Kefa|Peter⟧ and ⟦james|Yaaqov|James⟧, and ⟦john|Yochanan|John⟧ his brother, and led them up a high mountain by themselves.
 
 [2] And he was transfigured before them, and his face shone like the sun, and his clothes became white as light.
 
-[3] And behold, there appeared to them Moses and Elijah, talking with him.
+[3] And behold, there appeared to them ⟦moses|Moshe|Moses⟧ and ⟦elijah|Eliyahu|Elijah⟧, talking with him.
 
-[4] And Peter said to *Yeshua*, "Lord, it is good that we are here. If you wish, I will make three booths, one for you and one for Moses and one for Elijah."
+[4] And ⟦peter|Kefa|Peter⟧ said to ⟦yeshua|Yeshua|Jesus⟧, "Lord, it is good that we are here. If you wish, I will make three booths, one for you and one for ⟦moses|Moshe|Moses⟧ and one for ⟦elijah|Eliyahu|Elijah⟧."
 
 [5] He was still speaking when, behold, a bright cloud overshadowed them, and a voice from the cloud said, "**This is my beloved Son, with whom I am well pleased; listen to him.**"
 
 [6] When the disciples heard this, they fell on their faces and were terrified.
 
-[7] But *Yeshua* came and touched them, saying, "Rise, and have no fear."
+[7] But ⟦yeshua|Yeshua|Jesus⟧ came and touched them, saying, "Rise, and have no fear."
 
-[8] And when they lifted up their eyes, they saw no one but *Yeshua* only.
+[8] And when they lifted up their eyes, they saw no one but ⟦yeshua|Yeshua|Jesus⟧ only.
 
-[9] And as they were coming down the mountain, *Yeshua* commanded them, "Tell no one the vision, until the Son of Man is raised from the dead."
+[9] And as they were coming down the mountain, ⟦yeshua|Yeshua|Jesus⟧ commanded them, "Tell no one the vision, until the Son of Man is raised from the dead."
 
-[10] And the disciples asked him, "Then why do the scribes say that first Elijah must come?"
+[10] And the disciples asked him, "Then why do the scribes say that first ⟦elijah|Eliyahu|Elijah⟧ must come?"
 
-[11] He answered, "Elijah does come, and he will restore all things.
+[11] He answered, "⟦elijah|Eliyahu|Elijah⟧ does come, and he will restore all things.
 
-[12] But I tell you that Elijah has already come, and they did not recognize him, but did to him whatever they pleased. So also the Son of Man will certainly suffer at their hands."
+[12] But I tell you that ⟦elijah|Eliyahu|Elijah⟧ has already come, and they did not recognize him, but did to him whatever they pleased. So also the Son of Man will certainly suffer at their hands."
 
-[13] Then the disciples understood that he was speaking to them of John the Immerser.
+[13] Then the disciples understood that he was speaking to them of ⟦john|Yochanan|John⟧ the ⟦immerser|Immerser|Baptist⟧.
 
 [14] And when they came to the crowd, a man came up to him and, kneeling before him,
 
@@ -32,23 +32,23 @@
 
 [16] And I brought him to your disciples, and they could not heal him."
 
-[17] And *Yeshua* answered, "O faithless and twisted generation, how long am I to be with you? How long am I to bear with you? Bring him here to me."
+[17] And ⟦yeshua|Yeshua|Jesus⟧ answered, "O faithless and twisted generation, how long am I to be with you? How long am I to bear with you? Bring him here to me."
 
-[18] And *Yeshua* rebuked the demon, and it came out of him, and the boy was healed instantly.
+[18] And ⟦yeshua|Yeshua|Jesus⟧ rebuked the demon, and it came out of him, and the boy was healed instantly.
 
-[19] Then the disciples came to *Yeshua* privately and said, "Why could we not cast it out?"
+[19] Then the disciples came to ⟦yeshua|Yeshua|Jesus⟧ privately and said, "Why could we not cast it out?"
 
 [20] He said to them, "Because of your little faith. For truly, I say to you, if you have faith like a grain of mustard seed, you will say to this mountain, 'Move from here to there,' and it will move, and nothing will be impossible for you."
 
-[22] As they were gathering in Galilee, *Yeshua* said to them, "The Son of Man is about to be delivered into the hands of men,
+[22] As they were gathering in ⟦galilee|Galil|Galilee⟧, ⟦yeshua|Yeshua|Jesus⟧ said to them, "The Son of Man is about to be delivered into the hands of men,
 
 [23] and they will kill him, and he will be raised on the third day." And they were greatly distressed.
 
-[24] When they came to Capernaum, the collectors of the two-drachma tax went up to Peter and said, "Does your teacher not pay the tax?"
+[24] When they came to ⟦capernaum|Kfar Nachum|Capernaum⟧, the collectors of the two-drachma tax went up to ⟦peter|Kefa|Peter⟧ and said, "Does your teacher not pay the tax?"
 
-[25] He said, "Yes." And when he came into the house, *Yeshua* spoke to him first, saying, "What do you think, Simon? From whom do kings of the earth take toll or tax? From their sons or from others?"
+[25] He said, "Yes." And when he came into the house, ⟦yeshua|Yeshua|Jesus⟧ spoke to him first, saying, "What do you think, ⟦simon|Shimon|Simon⟧? From whom do kings of the earth take toll or tax? From their sons or from others?"
 
-[26] And when he said, "From others," *Yeshua* said to him, "Then the sons are free.
+[26] And when he said, "From others," ⟦yeshua|Yeshua|Jesus⟧ said to him, "Then the sons are free.
 
 [27] However, not to give offense to them, go to the sea and cast a hook and take the first fish that comes up, and when you open its mouth you will find a shekel. Take that and give it to them for me and for yourself."
 

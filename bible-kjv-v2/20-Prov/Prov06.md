@@ -46,7 +46,7 @@ continually sowing discord;
 [15] therefore calamity will come upon him suddenly;
 in a moment he will be broken beyond healing.
 
-[16] There are six things that Yahweh hates,
+[16] There are six things that ⟦yhwh|Yahweh|the LORD⟧ hates,
 seven that are an abomination to him:
 
 [17] haughty eyes, a lying tongue,

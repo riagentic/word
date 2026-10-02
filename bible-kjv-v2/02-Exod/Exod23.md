@@ -16,7 +16,7 @@
 
 [8] You shall take no bribe, for a bribe blinds those who see and subverts the cause of the righteous.
 
-[9] You shall not oppress a resident alien; you yourselves know the life of a resident alien, for you were resident aliens in the land of Egypt.
+[9] You shall not oppress a resident alien; you yourselves know the life of a resident alien, for you were resident aliens in the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
 [10] For six years you shall sow your land and gather its produce;
 
@@ -28,15 +28,15 @@
 
 [14] Three times a year you shall hold a festival to me.
 
-[15] You shall keep the Feast of Unleavened Bread. (Seven days you shall eat unleavened bread, as I commanded you, at the appointed time of the month of Aviv; for in it you came out of Egypt. No one shall appear before me empty-handed.)
+[15] You shall keep the Feast of ⟦unleavened-bread|Matzot|Unleavened Bread⟧. (Seven days you shall eat unleavened bread, as I commanded you, at the appointed time of the month of ⟦abib|Aviv|Abib⟧; for in it you came out of ⟦egypt|Mitzrayim|Egypt⟧. No one shall appear before me empty-handed.)
 
 [16] And the Feast of Harvest, the firstfruits of your labor, of what you sow in the field. And the Feast of Ingathering at the end of the year, when you gather in your labor from the field.
 
-[17] Three times in the year all your males shall appear before Lord Yahweh.
+[17] Three times in the year all your males shall appear before ⟦adonai-yhwh|Lord Yahweh|Lord GOD⟧.
 
 [18] You shall not offer the blood of my sacrifice with anything leavened; nor shall the fat of my feast remain until morning.
 
-[19] The first of the firstfruits of your land you shall bring into the house of Yahweh your *Elohim*. You shall not boil a young goat in its mother's milk.
+[19] The first of the firstfruits of your land you shall bring into the house of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧. You shall not boil a young goat in its mother's milk.
 
 [20] Behold, I am sending a messenger before you to guard you on the way and to bring you to the place that I have prepared.
 
@@ -44,23 +44,23 @@
 
 [22] But if you will indeed listen to his voice and do all that I say, then I will be an enemy to your enemies and an adversary to your adversaries.
 
-[23] For my messenger shall go before you and bring you in to the Amorites, the Hittites, the Perizzites, the Canaanites, the Hivites, and the Jebusites, and I will wipe them out.
+[23] For my messenger shall go before you and bring you in to the ⟦amorites|Emorim|Amorites⟧, the ⟦hittites|Chittim|Hittites⟧, the ⟦perizzites|Perizzim|Perizzites⟧, the ⟦canaanites|Kenaanim|Canaanites⟧, the ⟦hivites|Chivvim|Hivites⟧, and the ⟦jebusites|Yevusim|Jebusites⟧, and I will wipe them out.
 
 [24] You shall not bow down to their gods or serve them, nor shall you do after their works; but you shall utterly tear them down and smash their sacred pillars to pieces.
 
-[25] You shall serve Yahweh your *Elohim*, and he shall bless your bread and your water. And I will take sickness away from your midst.
+[25] You shall serve ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, and he shall bless your bread and your water. And I will take sickness away from your midst.
 
 [26] None shall miscarry or be barren in your land; the number of your days I will make full.
 
 [27] I will send my terror before you, and will throw into confusion all the peoples to whom you come; and I will make all your enemies turn their backs to you.
 
-[28] And I will send the hornet before you, which shall drive out the Hivite, the Canaanite, and the Hittite from before you.
+[28] And I will send the hornet before you, which shall drive out the ⟦hivite|Chivvi|Hivite⟧, the ⟦canaanites|Kenaani|Canaanite⟧, and the ⟦hittite|Chitti|Hittite⟧ from before you.
 
 [29] I will not drive them out before you in one year, lest the land become desolate and the wild animals multiply against you.
 
 [30] Little by little I will drive them out from before you, until you have increased and taken possession of the land.
 
-[31] I will set your borders from the Sea of Reeds to the Sea of the Philistines, and from the wilderness to the River; for I will give into your hand the inhabitants of the land, and you shall drive them out before you.
+[31] I will set your borders from the ⟦red-sea|Sea of Reeds|Red Sea⟧ to the Sea of the ⟦philistines|Pelishtim|Philistines⟧, and from the wilderness to the River; for I will give into your hand the inhabitants of the land, and you shall drive them out before you.
 
 [32] You shall make no covenant with them or with their gods.
 

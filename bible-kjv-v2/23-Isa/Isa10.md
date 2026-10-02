@@ -18,7 +18,7 @@ or fall among the slain.
 For all this his anger has not turned away,
 and his hand is stretched out still.
 
-[5] Woe to Assyria, the rod of my anger;
+[5] Woe to ⟦assyria|Ashur|Assyria⟧, the rod of my anger;
 the staff in their hands is my fury!
 
 [6] Against a godless nation I send him,
@@ -35,17 +35,17 @@ and to cut off nations not a few.
 
 "Are not my commanders all kings?
 
-[9] Is not Calno like Carchemish?
-Is not Hamath like Arpad?
-Is not Samaria like Damascus?
+[9] Is not ⟦calno|Kalno|Calno⟧ like ⟦carchemish|Karkemish|Carchemish⟧?
+Is not ⟦hamath|Chamat|Hamath⟧ like Arpad?
+Is not ⟦samaria|Shomron|Samaria⟧ like ⟦damascus|Dammeseq|Damascus⟧?
 
 [10] As my hand has reached to the kingdoms of the idols,
-whose carved images were greater than those of Jerusalem and Samaria,
+whose carved images were greater than those of ⟦jerusalem|Yerushalayim|Jerusalem⟧ and ⟦samaria|Shomron|Samaria⟧,
 
-[11] shall I not do to Jerusalem and her idols
-as I have done to Samaria and her images?"
+[11] shall I not do to ⟦jerusalem|Yerushalayim|Jerusalem⟧ and her idols
+as I have done to ⟦samaria|Shomron|Samaria⟧ and her images?"
 
-[12] When Lord has finished all his work on Mount Zion and on Jerusalem, he will punish the speech of the arrogant heart of the king of Assyria and the boastful look in his eyes.
+[12] When ⟦adonai|Adonai|the Lord⟧ has finished all his work on Mount ⟦zion|Tziyon|Zion⟧ and on ⟦jerusalem|Yerushalayim|Jerusalem⟧, he will punish the speech of the arrogant heart of the king of ⟦assyria|Ashur|Assyria⟧ and the boastful look in his eyes.
 
 [13] For he says:
 
@@ -67,65 +67,65 @@ or the saw magnify itself against him who wields it?
 As if a rod should wield him who lifts it,
 or as if a staff should lift him who is not wood!
 
-[16] Therefore the Lord, Yahweh of Hosts,
+[16] Therefore the Lord, ⟦yhwh|Yahweh|the LORD⟧ of Hosts,
 will send wasting sickness among his stout warriors,
 and under his glory a burning will be kindled,
 like the burning of fire.
 
-[17] The light of Israel will become a fire,
+[17] The light of ⟦israel|Yisrael|Israel⟧ will become a fire,
 and his Holy One a flame,
 and it will burn and devour
 his thorns and briers in one day.
 
 [18] The glory of his forest and of his fruitful land
-Yahweh will destroy, both soul and body,
+⟦yhwh|Yahweh|the LORD⟧ will destroy, both soul and body,
 and it will be as when a sick man wastes away.
 
 [19] The remnant of the trees of his forest will be so few
 that a child can write them down.
 
-[20] In that day the remnant of Israel
-and the survivors of the house of Jacob
+[20] In that day the remnant of ⟦israel|Yisrael|Israel⟧
+and the survivors of the house of ⟦jacob|Yaaqov|Jacob⟧
 will no more lean on him who struck them,
-but will lean on Yahweh,
-the Holy One of Israel, in truth.
+but will lean on ⟦yhwh|Yahweh|the LORD⟧,
+the Holy One of ⟦israel|Yisrael|Israel⟧, in truth.
 
 [21] A remnant will return,
-the remnant of Jacob, to the Mighty El.
+the remnant of ⟦jacob|Yaaqov|Jacob⟧, to the Mighty ⟦el|El|God⟧.
 
-[22] For though your people Israel be as the sand of the sea,
+[22] For though your people ⟦israel|Yisrael|Israel⟧ be as the sand of the sea,
 only a remnant of them will return.
 Destruction is decreed, overflowing with righteousness.
 
-[23] For Lord Yahweh of Hosts
+[23] For ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧ of Hosts
 will make a full end, as decreed,
 in the midst of all the earth.
 
-[24] Therefore thus says Lord Yahweh of Hosts: "O my people, who dwell in Zion, be not afraid of the Assyrians when they strike with the rod and lift up their staff against you as the Egyptians did.
+[24] Therefore thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧ of Hosts: "O my people, who dwell in ⟦zion|Tziyon|Zion⟧, be not afraid of ⟦assyria|Ashur|the Assyrians⟧ when they strike with the rod and lift up their staff against you as the ⟦egyptians|Mitzrim|Egyptians⟧ did.
 
 [25] For in a very little while my fury will come to an end, and my anger will be directed to their destruction.
 
-[26] And Yahweh of Hosts will wield against them a whip, as when he struck Midian at the rock of Oreb. And his staff will be over the sea, and he will lift it as he did in Egypt.
+[26] And ⟦yhwh|Yahweh|the LORD⟧ of Hosts will wield against them a whip, as when he struck ⟦midian|Midyan|Midian⟧ at the rock of ⟦oreb|Orev|Oreb⟧. And his staff will be over the sea, and he will lift it as he did in ⟦egypt|Mitzrayim|Egypt⟧.
 
 [27] And in that day his burden will depart from your shoulder, and his yoke from your neck; and the yoke will be broken because of the fat."
 
-[28] He has come to Aiath; he has passed through Migron; at Michmash he stores his baggage;
+[28] He has come to ⟦aiath|Ayyat|Aiath⟧; he has passed through Migron; at ⟦michmash|Michmas|Michmash⟧ he stores his baggage;
 
-[29] they have crossed over the pass; at Geba they lodge for the night; Ramah trembles; Gibeah of Saul has fled.
+[29] they have crossed over the pass; at ⟦geba|Geva|Geba⟧ they lodge for the night; Ramah trembles; ⟦gibeah|Givah|Gibeah⟧ of ⟦saul|Shaul|Saul⟧ has fled.
 
-[30] Cry aloud, O daughter of Gallim! Give attention, O Laishah! O poor Anathoth!
+[30] Cry aloud, O daughter of Gallim! Give attention, O ⟦laishah|Layshah|Laishah⟧! O poor ⟦anathoth|Anatot|Anathoth⟧!
 
-[31] Madmenah is in flight; the inhabitants of Gebim flee for safety.
+[31] Madmenah is in flight; the inhabitants of ⟦gebim|Gevim|Gebim⟧ flee for safety.
 
-[32] This very day he will halt at Nob; he will shake his fist at the mount of the daughter of Zion, the hill of Jerusalem.
+[32] This very day he will halt at ⟦nob|Nov|Nob⟧; he will shake his fist at the mount of the daughter of ⟦zion|Tziyon|Zion⟧, the hill of ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[33] Behold, Lord, Yahweh of Hosts,
+[33] Behold, Lord, ⟦yhwh|Yahweh|the LORD⟧ of Hosts,
 will lop the boughs with terrifying power;
 the great in height will be hewn down,
 and the lofty will be brought low.
 
 [34] He will cut down the thickets of the forest with an axe,
-and Lebanon will fall by a mighty one.
+and ⟦lebanon|Levanon|Lebanon⟧ will fall by a mighty one.
 
 ## Changes
 

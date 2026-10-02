@@ -4,7 +4,7 @@
 
 [2] Zvolal mocným hlasem:
 
-„**Padl, padl veliký Babylon!**
+„**Padl, padl veliký ⟦babylon|Bavel|Babylón⟧!**
 Stal se příbytkem démonů,
 skrýší každého nečistého ducha,
 skrýší každého nečistého ptáka,
@@ -21,7 +21,7 @@ z moci jejího přepychu.“
 abyste neměli podíl na jejích hříších,
 abyste nedostali z jejích ran;
 [5] neboť její hříchy se navršily až k nebi
-a *Elohim* se rozpomenul na její nepravosti**.
+a ⟦elohim|Elohim|Bůh⟧ se rozpomenul na její nepravosti**.
 [6] Odplaťte jí, jak ona sama odplácela jiným,
 a vraťte jí dvojnásob podle jejích skutků;
 v kalichu, v němž míchala, jí namíchejte dvojnásob.
@@ -34,14 +34,14 @@ a žal nikdy neuvidím.‘
 [8] Proto v jediném dni přijdou její rány,
 smrt a žal a hlad,
 a bude spálena ohněm;
-neboť mocný je Pán *Elohim*, který ji odsoudil.“
+neboť mocný je Pán ⟦elohim|Elohim|Bůh⟧, který ji odsoudil.“
 
 [9] A králové země, kteří s ní smilnili a žili v přepychu, budou nad ní plakat a naříkat, až uvidí dým jejího požáru.
 
 [10] Budou stát opodál ze strachu před její trýzní a říkat:
 
 „Běda! Běda! Ty veliké město,
-ty mocné město, Babylone!
+ty mocné město, ⟦babylon|Bavele|Babylóne⟧!
 Neboť v jediné hodině přišel tvůj soud.“
 
 [11] A kupci země nad ní pláčou a truchlí, protože už nikdo nekupuje jejich zboží,
@@ -71,11 +71,11 @@ všichni, kdo měli lodi na moři!
 Neboť v jediné hodině bylo zpustošeno.
 [20] Raduj se nad ním, nebe,
 i vy, svatí, apoštolové a proroci,
-neboť *Elohim* nad ním vynesl soud ve váš prospěch!“
+neboť ⟦elohim|Elohim|Bůh⟧ nad ním vynesl soud ve váš prospěch!“
 
 [21] Potom jeden mocný anděl zvedl kámen jako veliký mlýnský kámen a hodil jej do moře se slovy:
 
-„Tak prudce bude svržen Babylon, to veliké město,
+„Tak prudce bude svržen ⟦babylon|Bavel|Babylón⟧, to veliké město,
 a už nebude nalezen;
 [22] a zvuk harfeníků a hudebníků, pištců a trubačů
 už v tobě nebude slyšet,

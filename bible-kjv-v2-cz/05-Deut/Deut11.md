@@ -1,30 +1,30 @@
 # Deuteronomium 11
 
-[1] „Budeš tedy milovat Yahweh, svého *Elohim*, a zachovávat, co ti svěřil, jeho ustanovení, jeho nařízení a jeho přikázání po všechny dny.
+[1] „Budeš tedy milovat ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, a zachovávat, co ti svěřil, jeho ustanovení, jeho nařízení a jeho přikázání po všechny dny.
 
-[2] Poznejte dnes – neboť nemluvím k vašim synům, kteří nepoznali ani neviděli – kázeň Yahweh, vašeho *Elohim*, jeho velikost, jeho mocnou ruku a jeho vztaženou paži,
+[2] Poznejte dnes – neboť nemluvím k vašim synům, kteří nepoznali ani neviděli – kázeň ⟦yhwh|Jahveho|Hospodina⟧, vašeho ⟦elohim|Elohim|Boha⟧, jeho velikost, jeho mocnou ruku a jeho vztaženou paži,
 
-[3] jeho znamení a jeho činy, které vykonal uprostřed Egypta na Pharaohovi, králi Egypta, a na celé jeho zemi;
+[3] jeho znamení a jeho činy, které vykonal uprostřed ⟦egypt|Micrajim|Egypta⟧ na ⟦pharaoh|Parohovi|faraónovi⟧, králi ⟦egypt|Micrajim|Egypta⟧, a na celé jeho zemi;
 
-[4] co učinil egyptskému vojsku, jejich koním a vozům – jak na ně nechal přeplavit vody Rákosového moře, když vás pronásledovali, a jak je Yahweh zahubil až do dnešního dne;
+[4] co učinil egyptskému vojsku, jejich koním a vozům – jak na ně nechal přeplavit vody Rákosového moře, když vás pronásledovali, a jak je ⟦yhwh|Jahve|Hospodin⟧ zahubil až do dnešního dne;
 
 [5] co pro vás učinil na poušti, až jste přišli na toto místo;
 
-[6] a co učinil Dathanovi a Abiramovi, synům Eliaba, syna Reubenova – jak země otevřela svá ústa a pohltila je i s jejich domácnostmi, jejich stany a vším živým, co bylo u jejich nohou, uprostřed všeho Israele.
+[6] a co učinil ⟦dathan|Datanovi|Dátanovi⟧ a ⟦abiram|Aviramovi|Abíramovi⟧, synům ⟦eliab|Eliava|Elíaba⟧, syna ⟦reuben|Reuvenova|Rúbenova⟧ – jak země otevřela svá ústa a pohltila je i s jejich domácnostmi, jejich stany a vším živým, co bylo u jejich nohou, uprostřed všeho ⟦israel|Jisraele|Izraele⟧.
 
-[7] Vždyť vaše vlastní oči viděly každý veliký čin Yahweh, který vykonal.
+[7] Vždyť vaše vlastní oči viděly každý veliký čin ⟦yhwh|Jahveho|Hospodina⟧, který vykonal.
 
 [8] Zachovávejte tedy celé přikázání, které vám dnes přikazuji, abyste byli silní, vešli a vzali do vlastnictví zemi, do které přecházíte, abyste ji vlastnili,
 
-[9] a abyste prodloužili své dny v zemi, kterou Yahweh přísahal dát vašim otcům a jejich potomstvu – v zemi oplývající mlékem a medem.
+[9] a abyste prodloužili své dny v zemi, kterou ⟦yhwh|Jahve|Hospodin⟧ přísahal dát vašim otcům a jejich potomstvu – v zemi oplývající mlékem a medem.
 
-[10] Neboť země, do které vcházíš, abys ji vlastnil, není jako země Egypt, z níž jste vyšli, kde jsi zasel své semeno a zavlažoval je svou nohou jako zeleninovou zahradu.
+[10] Neboť země, do které vcházíš, abys ji vlastnil, není jako země ⟦egypt|Micrajim|Egypt⟧, z níž jste vyšli, kde jsi zasel své semeno a zavlažoval je svou nohou jako zeleninovou zahradu.
 
 [11] Ale země, do které přecházíte, abyste ji vlastnili, je zemí hor a údolí, kterou napájí déšť z nebe –
 
-[12] zemí, o kterou pečuje Yahweh, tvůj *Elohim*; oči Yahweh, tvého *Elohim*, jsou na ní ustavičně, od počátku roku až do konce roku.
+[12] zemí, o kterou pečuje ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧; oči ⟦yhwh|Jahveho|Hospodina⟧, tvého ⟦elohim|Elohim|Boha⟧, jsou na ní ustavičně, od počátku roku až do konce roku.
 
-[13] A budete-li pilně poslouchat má přikázání, která vám dnes přikazuji, milovat Yahweh, svého *Elohim*, a sloužit mu celým svým srdcem a celou svou duší,
+[13] A budete-li pilně poslouchat má přikázání, která vám dnes přikazuji, milovat ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, a sloužit mu celým svým srdcem a celou svou duší,
 
 [14] dám vaší zemi déšť v jeho čase – raný déšť i pozdní déšť – abys sklidil své obilí, své nové víno a svůj olej;
 
@@ -32,7 +32,7 @@
 
 [16] Mějte se na pozoru, aby se vaše srdce nedalo oklamat a abyste se neodchýlili, nesloužili jiným bohům a neklaněli se jim;
 
-[17] pak by proti vám vzplanul hněv Yahweh a zavřel by nebesa, takže by nepršelo a země by nevydávala svou úrodu; a rychle byste zahynuli z té dobré země, kterou vám Yahweh dává.
+[17] pak by proti vám vzplanul hněv ⟦yhwh|Jahveho|Hospodina⟧ a zavřel by nebesa, takže by nepršelo a země by nevydávala svou úrodu; a rychle byste zahynuli z té dobré země, kterou vám ⟦yhwh|Jahve|Hospodin⟧ dává.
 
 [18] Uložte tato má slova do svého srdce a do své duše, přivažte si je jako znamení na ruku a budou vám jako čelenky mezi očima.
 
@@ -40,27 +40,27 @@
 
 [20] Napíšeš je na veřeje svého domu a na své brány,
 
-[21] aby se rozmnožily vaše dny i dny vašich synů v zemi, o níž Yahweh přísahal vašim otcům, že jim ji dá, jako dny nebes nad zemí.
+[21] aby se rozmnožily vaše dny i dny vašich synů v zemi, o níž ⟦yhwh|Jahve|Hospodin⟧ přísahal vašim otcům, že jim ji dá, jako dny nebes nad zemí.
 
-[22] Neboť budete-li pečlivě zachovávat celé toto přikázání, které vám přikazuji, a plnit je – milovat Yahweh, svého *Elohim*, chodit po všech jeho cestách a pevně se ho držet –
+[22] Neboť budete-li pečlivě zachovávat celé toto přikázání, které vám přikazuji, a plnit je – milovat ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, chodit po všech jeho cestách a pevně se ho držet –
 
-[23] pak Yahweh vyžene před vámi všechny tyto národy, a vy vyvlastníte národy větší a mocnější, než jste vy.
+[23] pak ⟦yhwh|Jahve|Hospodin⟧ vyžene před vámi všechny tyto národy, a vy vyvlastníte národy větší a mocnější, než jste vy.
 
-[24] Každé místo, na které šlápne vaše chodidlo, bude vaše; od pouště po Lebanon, od Řeky – řeky Euphrates – až k západnímu moři bude vaše hranice.
+[24] Každé místo, na které šlápne vaše chodidlo, bude vaše; od pouště po ⟦lebanon|Levanon|Libanón⟧, od Řeky – řeky ⟦euphrates|Perat|Eufrat⟧ – až k západnímu moři bude vaše hranice.
 
-[25] Nikdo před vámi neobstojí; Yahweh, váš *Elohim*, vloží děs a strach z vás na celou zemi, na kterou vkročíte, jak vám řekl.
+[25] Nikdo před vámi neobstojí; ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧, vloží děs a strach z vás na celou zemi, na kterou vkročíte, jak vám řekl.
 
 [26] Hleďte, předkládám vám dnes požehnání a prokletí:
 
-[27] požehnání, budete-li poslouchat přikázání Yahweh, svého *Elohim*, která vám dnes přikazuji;
+[27] požehnání, budete-li poslouchat přikázání ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, která vám dnes přikazuji;
 
-[28] a prokletí, nebudete-li poslouchat přikázání Yahweh, svého *Elohim*, ale odchýlíte se od cesty, kterou vám dnes přikazuji, a půjdete za jinými bohy, které jste neznali.
+[28] a prokletí, nebudete-li poslouchat přikázání ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, ale odchýlíte se od cesty, kterou vám dnes přikazuji, a půjdete za jinými bohy, které jste neznali.
 
-[29] Až tě Yahweh, tvůj *Elohim*, uvede do země, do které vcházíš, abys ji vlastnil, dáš požehnání na horu Gerizim a prokletí na horu Ebal.
+[29] Až tě ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, uvede do země, do které vcházíš, abys ji vlastnil, dáš požehnání na horu ⟦gerizim|Gerizim|Gerizím⟧ a prokletí na horu ⟦ebal|Ejval|Ébal⟧.
 
-[30] Nejsou snad za Jordanem, směrem k západu slunce, v zemi Canaanitů, kteří bydlí v Arabě, naproti Gilgalu, vedle dubů Moreh?
+[30] Nejsou snad za ⟦jordan|Jardenem|Jordánem⟧, směrem k západu slunce, v zemi ⟦canaanites|Kenaanim|Kenaanců⟧, kteří bydlí v ⟦arabah|Aravě|pustině⟧, naproti ⟦gilgal|Gilgalu|Gilgálu⟧, vedle dubů ⟦moreh|More|Móre⟧?
 
-[31] Neboť máte přejít Jordan, abyste vešli a vzali do vlastnictví zemi, kterou vám dává Yahweh, váš *Elohim*; vezmete ji do vlastnictví a budete v ní bydlet.
+[31] Neboť máte přejít ⟦jordan|Jarden|Jordán⟧, abyste vešli a vzali do vlastnictví zemi, kterou vám dává ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧; vezmete ji do vlastnictví a budete v ní bydlet.
 
 [32] Pečlivě plňte všechna ustanovení a nařízení, která vám dnes předkládám.
 

@@ -1,17 +1,17 @@
 # Izajáš 14
 
-[1] Neboť Yahweh se slituje nad Jacobem a znovu si vyvolí Israel a usadí je v jejich vlastní zemi; a přistěhovalci se k nim připojí a přimknou se k domu Jacobovu.
+[1] Neboť ⟦yhwh|Jahve|Hospodin⟧ se slituje nad ⟦jacob|Jaakovem|Jákobem⟧ a znovu si vyvolí ⟦israel|Jisrael|Izrael⟧ a usadí je v jejich vlastní zemi; a přistěhovalci se k nim připojí a přimknou se k domu ⟦jacob|Jaakovovu|Jákobovu⟧.
 
-[2] A národy je vezmou a přivedou je na jejich místo a dům Israele si je přivlastní v zemi Yahweh jako otroky a otrokyně. Zajmou ty, kdo je drželi v zajetí, a budou vládnout nad těmi, kdo je utlačovali.
+[2] A národy je vezmou a přivedou je na jejich místo a dům ⟦israel|Jisraele|Izraele⟧ si je přivlastní v zemi ⟦yhwh|Jahveho|Hospodina⟧ jako otroky a otrokyně. Zajmou ty, kdo je drželi v zajetí, a budou vládnout nad těmi, kdo je utlačovali.
 
-[3] Až ti Yahweh dá odpočinout od tvé bolesti a neklidu a od tvrdé služby, kterou jsi musel sloužit,
+[3] Až ti ⟦yhwh|Jahve|Hospodin⟧ dá odpočinout od tvé bolesti a neklidu a od tvrdé služby, kterou jsi musel sloužit,
 
-[4] proneseš tento výsměšný výrok proti králi Babylonu:
+[4] proneseš tento výsměšný výrok proti králi ⟦babylon|Bavelu|Babylóna⟧:
 
 „Jak skončil utlačovatel,
 skončila zpupná zuřivost!
 
-[5] Yahweh zlomil hůl svévolníků,
+[5] ⟦yhwh|Jahve|Hospodin⟧ zlomil hůl svévolníků,
 žezlo vládců,
 
 [6] které bilo národy v prchlivosti
@@ -23,11 +23,11 @@ neúprosným pronásledováním.
 propukají v zpěv.
 
 [8] Cypřiše se nad tebou radují,
-cedry Lebanonu, a říkají:
+cedry ⟦lebanon|Levanonu|Libanónu⟧, a říkají:
 ‚Od té doby, co jsi byl sražen,
 nepřichází proti nám žádný dřevorubec.‘
 
-[9] Sheol dole se vzrušil,
+[9] ⟦sheol|Šeol dole se vzrušil|Podsvětí dole se vzrušilo⟧,
 aby ti vyšel vstříc, až přijdeš;
 probouzí stíny, aby tě uvítaly,
 všechny, kdo byli vůdci země;
@@ -39,7 +39,7 @@ a řeknou ti:
 ‚I ty jsi zeslábl jako my!
 Stal ses nám podobným!‘
 
-[11] Tvá okázalost je svržena do Sheol,
+[11] Tvá okázalost je svržena do ⟦sheol|Šeolu|podsvětí⟧,
 zvuk tvých harf;
 pod tebou je ustláno z červů
 a tvou přikrývkou jsou červi.
@@ -51,15 +51,15 @@ ty, který jsi porážel národy!
 
 [13] Říkal jsi ve svém srdci:
 ‚Vystoupím na nebe;
-nad hvězdy *Elohim*
+nad hvězdy ⟦el|El|Boží⟧
 vyvýším svůj trůn;
 usednu na hoře shromáždění
 v nejzazších končinách severu;
 
 [14] vystoupím nad výšiny oblaků;
-připodobním se Nejvyššímu.‘
+připodobním se ⟦elyon|Eljonovi|Nejvyššímu⟧.‘
 
-[15] Ale jsi svržen do Sheol,
+[15] Ale jsi svržen do ⟦sheol|Šeolu|podsvětí⟧,
 do nejzazších hlubin jámy.
 
 [16] Kdo tě uvidí, budou na tebe zírat
@@ -91,18 +91,18 @@ pro vinu jejich otců,
 aby nepovstali a nezmocnili se země
 a nenaplnili tvář světa městy.“
 
-[22] „Povstanu proti nim,“ praví Yahweh zástupů, „a vyhladím z Babylonu jméno i zbytek, potomky i pokolení,“ praví Yahweh.
+[22] „Povstanu proti nim,“ praví ⟦yhwh|Jahve|Hospodin⟧ zástupů, „a vyhladím z ⟦babylon|Bavelu|Babylóna⟧ jméno i zbytek, potomky i pokolení,“ praví ⟦yhwh|Jahve|Hospodin⟧.
 
-[23] „A učiním jej majetkem ježka a vodními tůněmi a vymetu jej koštětem zkázy,“ praví Yahweh zástupů.
+[23] „A učiním jej majetkem ježka a vodními tůněmi a vymetu jej koštětem zkázy,“ praví ⟦yhwh|Jahve|Hospodin⟧ zástupů.
 
-[24] Yahweh zástupů přísahal:
+[24] ⟦yhwh|Jahve|Hospodin⟧ zástupů přísahal:
 
 „Jak jsem zamýšlel,
 tak se stane,
 a jak jsem usoudil,
 tak to obstojí:
 
-[25] že rozdrtím Assyřana ve své zemi
+[25] že rozdrtím ⟦assyria|Aššura|Ašúra⟧ ve své zemi
 a na svých horách ho rozšlapu;
 jeho jho z nich sejde
 a jeho břemeno z jejich ramene.“
@@ -110,14 +110,14 @@ a jeho břemeno z jejich ramene.“
 [26] To je úradek, který je usouzen o celé zemi,
 a to je ruka, která je vztažena nad všemi národy.
 
-[27] Neboť Yahweh zástupů usoudil,
+[27] Neboť ⟦yhwh|Jahve|Hospodin⟧ zástupů usoudil,
 a kdo to zruší?
 Jeho ruka je vztažena,
 a kdo ji odvrátí?
 
-[28] V roce, kdy zemřel král Ahaz, přišel tento výnos:
+[28] V roce, kdy zemřel král Achaz, přišel tento výnos:
 
-[29] Neraduj se, Philistie, celá,
+[29] Neraduj se, ⟦philistia|Pelešet|Pelišteo⟧, celá,
 že je zlomen prut, který tě bil,
 neboť z kořene hada vyjde zmije
 a jejím plodem bude létající ohnivý had.
@@ -128,12 +128,12 @@ ale tvůj kořen usmrtím hladem
 a tvůj zbytek on zabije.
 
 [31] Kvílej, bráno; křič, město;
-rozplyň se strachem, Philistie, celá!
+rozplyň se strachem, ⟦philistia|Pelešet|Pelišteo⟧, celá!
 Neboť ze severu přichází dým
 a v jeho šicích není nikdo, kdo by zaostával.
 
 [32] Co se odpoví poslům národa?
-„Yahweh založil Zion
+„⟦yhwh|Jahve|Hospodin⟧ založil ⟦zion|Cijon|Sijón⟧
 a v něm nacházejí útočiště utištění z jeho lidu.“
 
 ## Změny
@@ -141,6 +141,7 @@ a v něm nacházejí útočiště utištění z jeho lidu.“
 - **"LORD" → „Yahweh“** (v celé kapitole) – zachován tetragram.
 - **"LORD of hosts" → „Yahweh zástupů“** (v22, 23, 24, 27) – zachován božský titul.
 - **"O Lucifer, son of the morning" → „Jitřenko, synu Úsvitu“** (v12) – hebrejsky הֵילֵל בֶּן־שָׁחַר *Heilel ben Shachar* = „zářící, syn úsvitu / jitřní hvězda“. KJV „Lucifer“ pochází z latinské Vulgáty (*lucifer* = „nositel světla“); „Jitřenka“ (angl. „Day Star“) odpovídá doslovnému hebrejskému smyslu.
+- **"God" → „El“** (v13) – hebrejsky אֵל *El*, ne *Elohim*.
 
 ### Poznámky
 - **v12–15** – v křesťanské tradici spojováno s pádem Satana (srov. Luke 10:18); v původním kontextu pád babylonského krále.

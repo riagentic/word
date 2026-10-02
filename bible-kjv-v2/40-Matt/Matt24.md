@@ -1,14 +1,14 @@
 # Matthew 24
 
-[1] *Yeshua* left the temple and was going away, when his disciples came to point out to him the buildings of the temple.
+[1] ⟦yeshua|Yeshua|Jesus⟧ left the temple and was going away, when his disciples came to point out to him the buildings of the temple.
 
 [2] But he answered them, "You see all these, do you not? Truly, I say to you, there will not be left here one stone upon another that will not be thrown down."
 
-[3] As he sat on the Mount of Olives, the disciples came to him privately, saying, "Tell us, when will these things be, and what will be the sign of your coming and of the end of the age?"
+[3] As he sat on ⟦mount-of-olives|Har HaZeitim|the Mount of Olives⟧, the disciples came to him privately, saying, "Tell us, when will these things be, and what will be the sign of your coming and of the end of the age?"
 
-[4] And *Yeshua* answered them, "See that no one leads you astray.
+[4] And ⟦yeshua|Yeshua|Jesus⟧ answered them, "See that no one leads you astray.
 
-[5] For many will come in my name, saying, 'I am the *Mashiach*,' and they will lead many astray.
+[5] For many will come in my name, saying, 'I am the ⟦mashiach|Mashiach|Christ⟧,' and they will lead many astray.
 
 [6] And you will hear of wars and rumors of wars. See that you are not alarmed, for this must take place, but the end is not yet.
 
@@ -28,9 +28,9 @@
 
 [14] And this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations, and then the end will come.
 
-[15] "So when you see the abomination of desolation spoken of by the prophet Daniel, standing in the holy place (let the reader understand),
+[15] "So when you see the abomination of desolation spoken of by the prophet ⟦daniel|Daniyel|Daniel⟧, standing in the holy place (let the reader understand),
 
-[16] then let those who are in Judea flee to the mountains.
+[16] then let those who are in ⟦judea|Yehudah|Judea⟧ flee to the mountains.
 
 [17] Let the one who is on the housetop not go down to take what is in his house,
 
@@ -38,13 +38,13 @@
 
 [19] And alas for women who are pregnant and for those who are nursing infants in those days!
 
-[20] Pray that your flight may not be in winter or on a Sabbath.
+[20] Pray that your flight may not be in winter or on a ⟦shabbat|Shabbat|Sabbath⟧.
 
 [21] For then there will be great tribulation, such as has not been from the beginning of the world until now, no, and never will be.
 
 [22] And if those days had not been cut short, no human being would be saved. But for the sake of the elect those days will be cut short.
 
-[23] "Then if anyone says to you, 'Look, here is the *Mashiach*!' or 'There he is!' do not believe it.
+[23] "Then if anyone says to you, 'Look, here is the ⟦mashiach|Mashiach|Christ⟧!' or 'There he is!' do not believe it.
 
 [24] For false messiahs and false prophets will arise and perform great signs and wonders, so as to lead astray, if possible, even the elect.
 
@@ -75,9 +75,9 @@ and the powers of the heavens will be shaken.
 
 [36] "But concerning that day and hour **no one knows, not even the angels of heaven, nor the Son, but the Father only**.
 
-[37] For as were the days of Noah, so will be the coming of the Son of Man.
+[37] For as were the days of ⟦noah|Noach|Noah⟧, so will be the coming of the Son of Man.
 
-[38] For as in those days before the flood they were eating and drinking, marrying and giving in marriage, until the day when Noah entered the ark,
+[38] For as in those days before the flood they were eating and drinking, marrying and giving in marriage, until the day when ⟦noah|Noach|Noah⟧ entered the ark,
 
 [39] and they were unaware until the flood came and swept them all away, so will be the coming of the Son of Man.
 

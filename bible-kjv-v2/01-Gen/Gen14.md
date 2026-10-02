@@ -1,58 +1,58 @@
 # Genesis 14
 
-[1] In the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of Goiim,
+[1] In the days of ⟦amraphel|Amrafel|Amraphel⟧ king of Shinar, ⟦arioch|Aryoch|Arioch⟧ king of Ellasar, ⟦chedorlaomer|Kedorlaomer|Chedorlaomer⟧ king of Elam, and Tidal king of ⟦goiim|Goyim|Goiim⟧,
 
-[2] these kings made war against Bera king of Sodom, Birsha king of Gomorrah, Shinab king of Admah, Shemeber king of Zeboiim, and the king of Bela (that is, Zoar).
+[2] these kings made war against Bera king of ⟦sodom|Sedom|Sodom⟧, Birsha king of ⟦gomorrah|Amorah|Gomorrah⟧, ⟦shinab|Shinav|Shinab⟧ king of Admah, ⟦shemeber|Shemever|Shemeber⟧ king of ⟦zeboiim|Tzevoyim|Zeboiim⟧, and the king of Bela (that is, ⟦zoar|Tzoar|Zoar⟧).
 
 [3] All these joined forces in the Valley of Siddim (that is, the Salt Sea).
 
-[4] Twelve years they had served Chedorlaomer, but in the thirteenth year they rebelled.
+[4] Twelve years they had served ⟦chedorlaomer|Kedorlaomer|Chedorlaomer⟧, but in the thirteenth year they rebelled.
 
-[5] In the fourteenth year Chedorlaomer and the kings with him came and struck down the Rephaim in Ashteroth-Karnaim, the Zuzim in Ham, the Emim in Shaveh-Kiriathaim,
+[5] In the fourteenth year ⟦chedorlaomer|Kedorlaomer|Chedorlaomer⟧ and the kings with him came and struck down the ⟦rephaim|Refaim|Rephaim⟧ in ⟦ashteroth-karnaim|Ashterot Qarnayim|Ashteroth-Karnaim⟧, the Zuzim in Ham, the Emim in ⟦shaveh-kiriathaim|Shaveh Qiryatayim|Shaveh-Kiriathaim⟧,
 
-[6] and the Horites in their hill country of Seir, as far as El-Paran, which is by the wilderness.
+[6] and the ⟦horites|Chorim|Horites⟧ in their hill country of Seir, as far as ⟦el-paran|Eil Paran|El-Paran⟧, which is by the wilderness.
 
-[7] Then they turned back and came to En-Mishpat (that is, Kadesh) and struck down all the country of the Amalekites, and also the Amorites who dwelt in Hazazon-Tamar.
+[7] Then they turned back and came to ⟦en-mishpat|Ein Mishpat|En-Mishpat⟧ (that is, ⟦kadesh|Qadesh|Kadesh⟧) and struck down all the country of the ⟦amalekites|Amaleqim|Amalekites⟧, and also the ⟦amorites|Emorim|Amorites⟧ who dwelt in ⟦hazazon-tamar|Chatzatzon Tamar|Hazazon-Tamar⟧.
 
-[8] Then the king of Sodom went out, with the king of Gomorrah, the king of Admah, the king of Zeboiim, and the king of Bela (that is, Zoar), and they drew up for battle against them in the Valley of Siddim,
+[8] Then the king of ⟦sodom|Sedom|Sodom⟧ went out, with the king of ⟦gomorrah|Amorah|Gomorrah⟧, the king of Admah, the king of ⟦zeboiim|Tzevoyim|Zeboiim⟧, and the king of Bela (that is, ⟦zoar|Tzoar|Zoar⟧), and they drew up for battle against them in the Valley of Siddim,
 
-[9] against Chedorlaomer king of Elam, Tidal king of Goiim, Amraphel king of Shinar, and Arioch king of Ellasar — four kings against five.
+[9] against ⟦chedorlaomer|Kedorlaomer|Chedorlaomer⟧ king of Elam, Tidal king of ⟦goiim|Goyim|Goiim⟧, ⟦amraphel|Amrafel|Amraphel⟧ king of Shinar, and ⟦arioch|Aryoch|Arioch⟧ king of Ellasar — four kings against five.
 
-[10] Now the Valley of Siddim was full of bitumen pits; and as the kings of Sodom and Gomorrah fled, some fell into them, and the rest fled to the hill country.
+[10] Now the Valley of Siddim was full of bitumen pits; and as the kings of ⟦sodom|Sedom|Sodom⟧ and ⟦gomorrah|Amorah|Gomorrah⟧ fled, some fell into them, and the rest fled to the hill country.
 
-[11] So the enemies took all the possessions of Sodom and Gomorrah, and all their provisions, and went their way.
+[11] So the enemies took all the possessions of ⟦sodom|Sedom|Sodom⟧ and ⟦gomorrah|Amorah|Gomorrah⟧, and all their provisions, and went their way.
 
-[12] They also took Lot, Abram's nephew, who was dwelling in Sodom, and his possessions, and departed.
+[12] They also took Lot, ⟦abram|Avram's|Abram's⟧ nephew, who was dwelling in ⟦sodom|Sedom|Sodom⟧, and his possessions, and departed.
 
-[13] One who had escaped came and told Abram the Hebrew, who was dwelling by the oaks of Mamre the Amorite, brother of Eshcol and brother of Aner; these were allies of Abram.
+[13] One who had escaped came and told ⟦abram|Avram|Abram⟧ the ⟦hebrew|Ivri|Hebrew⟧, who was dwelling by the oaks of Mamre the ⟦amorite|Emori|Amorite⟧, brother of ⟦eshcol|Eshkol|Eshcol⟧ and brother of Aner; these were allies of ⟦abram|Avram|Abram⟧.
 
-[14] When Abram heard that his kinsman had been taken captive, he mustered his trained men, born in his household — 318 of them — and went in pursuit as far as Dan.
+[14] When ⟦abram|Avram|Abram⟧ heard that his kinsman had been taken captive, he mustered his trained men, born in his household — 318 of them — and went in pursuit as far as Dan.
 
-[15] He divided his forces against them by night, he and his servants, and struck them, and pursued them as far as Hobah, north of Damascus.
+[15] He divided his forces against them by night, he and his servants, and struck them, and pursued them as far as ⟦hobah|Chovah|Hobah⟧, north of ⟦damascus|Dammeseq|Damascus⟧.
 
 [16] He brought back all the possessions, and also brought back his kinsman Lot with his possessions, and the women and the people.
 
-[17] After Abram's return from defeating Chedorlaomer and the kings with him, the king of Sodom went out to meet him at the Valley of Shaveh (that is, the King's Valley).
+[17] After ⟦abram|Avram's|Abram's⟧ return from defeating ⟦chedorlaomer|Kedorlaomer|Chedorlaomer⟧ and the kings with him, the king of ⟦sodom|Sedom|Sodom⟧ went out to meet him at the Valley of Shaveh (that is, the King's Valley).
 
-[18] And Melchizedek king of Salem brought out bread and wine; he was a priest of the Most High *Elohim*.
+[18] And ⟦melchizedek|Malki-Tzedeq|Melchizedek⟧ king of ⟦salem|Shalem|Salem⟧ brought out bread and wine; he was a priest of ⟦el-elyon|El Elyon|God Most High⟧.
 
 [19] And he blessed him and said,
 
-"Blessed be Abram by the Most High *Elohim*,
+"Blessed be ⟦abram|Avram|Abram⟧ by ⟦el-elyon|El Elyon|God Most High⟧,
 Maker of heavens and earth;
 
-[20] and blessed be the Most High *Elohim*,
+[20] and blessed be ⟦el-elyon|El Elyon|God Most High⟧,
 who has delivered your enemies into your hand."
 
-And Abram gave him a tenth of everything.
+And ⟦abram|Avram|Abram⟧ gave him a tenth of everything.
 
-[21] The king of Sodom said to Abram, "Give me the people, and take the possessions for yourself."
+[21] The king of ⟦sodom|Sedom|Sodom⟧ said to ⟦abram|Avram|Abram⟧, "Give me the people, and take the possessions for yourself."
 
-[22] But Abram said to the king of Sodom, "I have lifted up my hand to Yahweh, the Most High *Elohim*, maker of heavens and earth,
+[22] But ⟦abram|Avram|Abram⟧ said to the king of ⟦sodom|Sedom|Sodom⟧, "I have lifted up my hand to ⟦yhwh|Yahweh|the LORD⟧, ⟦el-elyon|El Elyon|God Most High⟧, maker of heavens and earth,
 
-[23] that I will take nothing, neither a thread nor a sandal-strap, nor anything that is yours, so that you may not say, 'I have made Abram rich.'
+[23] that I will take nothing, neither a thread nor a sandal-strap, nor anything that is yours, so that you may not say, 'I have made ⟦abram|Avram|Abram⟧ rich.'
 
-[24] I will take only what the young men have eaten, and the share of the men who went with me — Aner, Eshcol, and Mamre — let them take their share."
+[24] I will take only what the young men have eaten, and the share of the men who went with me — Aner, ⟦eshcol|Eshkol|Eshcol⟧, and Mamre — let them take their share."
 
 ## Changes
 
@@ -69,7 +69,7 @@ And Abram gave him a tenth of everything.
 - **"armed his trained servants" → "mustered his trained men"** (v14) — Hebrew וַיָּרֶק אֶת־חֲנִיכָיו *wa-yareq et-chanikhav*. *Heriq* = drew out / deployed (as in drawing a sword). *Chanikhim* = trained men / retainers (hapax legomenon; Egyptian-loan-word candidate from early 2nd millennium BCE execration texts, suggesting archaic origin for this narrative). Military mustering.
 - **"slimepits" → "bitumen pits"** (v10) — Hebrew בֶּאֱרֹת בֶּאֱרֹת חֵמָר *be'erot be'erot chemar* = "pits, pits of bitumen." Same *chemar* as Babel (11:3) and Moses' basket (Ex 2:3). "Slime" in modern English misleads.
 - **"victuals" → "provisions"** (v11) — Hebrew אָכְלָם *okhlam* = their food. Modernized.
-- **"the most high God" → "the Most High *Elohim*"** (v18, 19, 20, 22) — Hebrew אֵל עֶלְיוֹן *El Elyon*; "God" → "*Elohim*." Melchizedek is priest of the Most High *Elohim*, a pre-Israelite designation of the supreme deity; Abram in v22 identifies this title with Yahweh.
+- **"the most high God" → "El Elyon"** (v18, 19, 20, 22) — Hebrew אֵל עֶלְיוֹן *El Elyon*, kept as the name (*El*, not *Elohim*). Melchizedek is priest of El Elyon, a pre-Israelite designation of the supreme deity; Abram in v22 identifies this title with Yahweh.
 - **"heaven and earth" → "heavens and earth"** (v19, 22) — Hebrew *shamayim* plural; as in Gen 1.
 - **"gave him tithes of all" → "gave him a tenth of everything"** (v20) — Hebrew מַעֲשֵׂר *ma'aser* = a tenth / tithe. Modernized.
 - **"I have lift up mine hand" → "I have lifted up my hand"** (v22) — oath gesture (hand raised to heaven). Modernized.

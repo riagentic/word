@@ -1,6 +1,6 @@
 # Izajáš 66
 
-[1] Toto praví Yahweh:
+[1] Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
 „Nebesa jsou můj trůn
 a země podnož mých nohou;
@@ -8,7 +8,7 @@ jaký je to dům, který byste mi chtěli postavit,
 a jaké je místo mého odpočinku?
 
 [2] To všechno učinila má ruka,
-a tak to všechno vzniklo,“ je výrok Yahweh.
+a tak to všechno vzniklo,“ je výrok ⟦yhwh|Jahve|Hospodin⟧.
 „Ale na tohoto pohlédnu:
 na toho, kdo je pokorný a zkroušený v duchu
 a chvěje se před mým slovem.
@@ -28,15 +28,15 @@ když jsem mluvil, neposlouchali;
 ale dělali, co je zlé v mých očích,
 a volili to, v čem jsem neměl zalíbení.“
 
-[5] Slyšte slovo Yahweh, vy, kdo se chvějete před jeho slovem:
+[5] Slyšte slovo ⟦yhwh|Jahveho|Hospodina⟧, vy, kdo se chvějete před jeho slovem:
 „Vaši bratři, kteří vás nenávidí
 a vyhánějí vás kvůli mému jménu, řekli:
-‚Ať je Yahweh oslaven, abychom viděli vaši radost‘;
+‚Ať je ⟦yhwh|Jahve|Hospodin⟧ oslaven, abychom viděli vaši radost‘;
 ale to oni budou zahanbeni.
 
 [6] Zvuk vřavy z města!
 Zvuk z chrámu!
-Zvuk Yahweh,
+Zvuk ⟦yhwh|Jahveho|Hospodina⟧,
 který odplácí svým nepřátelům!
 
 [7] Dříve než pocítila porodní bolesti,
@@ -48,15 +48,15 @@ povila syna.
 Kdo viděl takové věci?
 Může se země zrodit v jednom dni?
 Může být národ zplozen v jediném okamžiku?
-Neboť jakmile Zion pocítila porodní bolesti,
+Neboť jakmile ⟦zion|Cijon|Sijón⟧ pocítila porodní bolesti,
 porodila své děti.
 
 [9] Mám přivést k porodu, a nedat porodit?“
-praví Yahweh;
+praví ⟦yhwh|Jahve|Hospodin⟧;
 „mám já, který dávám rodit, zavřít lůno?“
-praví tvůj *Elohim*.
+praví tvůj ⟦elohim|Elohim|Bůh⟧.
 
-[10] „Radujte se s Jerusalemem a veselte se nad ním,
+[10] „Radujte se s ⟦jerusalem|Jerušalajim|Jeruzalémem⟧ a veselte se nad ním,
 všichni, kdo ho milujete;
 radujte se s ním radostí,
 všichni, kdo nad ním truchlíte;
@@ -66,7 +66,7 @@ z jeho konejšivého prsu;
 abyste pili plnými doušky s rozkoší
 z jeho slavné hojnosti.“
 
-[12] Neboť toto praví Yahweh:
+[12] Neboť toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
 „Hle, rozšířím k němu pokoj jako řeku
 a slávu národů jako rozvodněný proud;
@@ -75,40 +75,40 @@ a chováni na jeho kolenou.
 
 [13] Jako toho, koho utěšuje jeho matka,
 tak já budu utěšovat vás;
-v Jerusalemě budete utěšeni.
+v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧ budete utěšeni.
 
 [14] Uvidíte a vaše srdce se zaraduje;
 vaše kosti pokvetou jako tráva;
-a ruka Yahweh se dá poznat jeho služebníkům
+a ruka ⟦yhwh|Jahveho|Hospodina⟧ se dá poznat jeho služebníkům
 a on projeví své rozhořčení proti svým nepřátelům.
 
-[15] Neboť hle, Yahweh přijde v ohni
+[15] Neboť hle, ⟦yhwh|Jahve|Hospodin⟧ přijde v ohni
 a jeho vozy jako vichřice,
 aby vylil svůj hněv v prchlivosti
 a své pokárání v plamenech ohně.
 
-[16] Neboť ohněm a svým mečem povede Yahweh soud
+[16] Neboť ohněm a svým mečem povede ⟦yhwh|Jahve|Hospodin⟧ soud
 se vším tělem;
-a těch, které Yahweh pobije, bude mnoho.
+a těch, které ⟦yhwh|Jahve|Hospodin⟧ pobije, bude mnoho.
 
-[17] „Ti, kdo se posvěcují a očišťují, aby šli do zahrad, za jedním uprostřed, a jedí vepřové maso, ohavnost a myši, spolu skončí, je výrok Yahweh.
+[17] „Ti, kdo se posvěcují a očišťují, aby šli do zahrad, za jedním uprostřed, a jedí vepřové maso, ohavnost a myši, spolu skončí, je výrok ⟦yhwh|Jahve|Hospodin⟧.
 
 [18] Neboť znám jejich skutky i jejich myšlenky a blíží se čas shromáždit všechny národy a jazyky. I přijdou a uvidí mou slávu
 
-[19] a postavím mezi nimi znamení. A z nich pošlu ty, kdo přežili, k národům, do Tarshishe, Pulu a Ludu, k těm, kdo napínají luk, do Tubalu a Yavanu, na daleká pobřeží, která neslyšela o mé pověsti ani neviděla mou slávu. A budou oznamovat mou slávu mezi národy.
+[19] a postavím mezi nimi znamení. A z nich pošlu ty, kdo přežili, k národům, do ⟦tarshish|Taršiše|Taršíše⟧, ⟦pul|Pulu|Púlu⟧ a ⟦lud|Ludu|Lúdu⟧, k těm, kdo napínají luk, do ⟦tubal|Tuvalu|Túbalu⟧ a ⟦javan|Javanu|Jávanu⟧, na daleká pobřeží, která neslyšela o mé pověsti ani neviděla mou slávu. A budou oznamovat mou slávu mezi národy.
 
-[20] A přivedou všechny vaše bratry ze všech národů jako obětní dar Yahweh, na koních, na vozech, v nosítkách, na mezcích a na dromedárech, na mou svatou horu Jerusalem,“ praví Yahweh, „tak jako Israelité přinášejí svůj obětní dar v čisté nádobě do domu Yahweh.
+[20] A přivedou všechny vaše bratry ze všech národů jako obětní dar ⟦yhwh|Jahvovi|Hospodinu⟧, na koních, na vozech, v nosítkách, na mezcích a na dromedárech, na mou svatou horu ⟦jerusalem|Jerušalajim|Jeruzalém⟧,“ praví ⟦yhwh|Jahve|Hospodin⟧, „tak jako ⟦israelite|Jisraelim|Izraelci⟧ přinášejí svůj obětní dar v čisté nádobě do domu ⟦yhwh|Jahveho|Hospodina⟧.
 
-[21] A také některé z nich vezmu za kněze a za levity,“ praví Yahweh.
+[21] A také některé z nich vezmu za kněze a za ⟦levites|Levijim|lévijce⟧,“ praví ⟦yhwh|Jahve|Hospodin⟧.
 
 [22] „Neboť jako nová nebesa a nová země,
-které činím, zůstanou přede mnou,“ praví Yahweh,
+které činím, zůstanou přede mnou,“ praví ⟦yhwh|Jahve|Hospodin⟧,
 „tak zůstane vaše potomstvo i vaše jméno.
 
 [23] Od novoluní k novoluní
-a od sabatu k sabatu
+a od ⟦shabbat|šabatu|soboty⟧ k ⟦shabbat|šabatu|sobotě⟧
 bude všechno tělo přicházet klanět se přede mnou,“
-praví Yahweh.
+praví ⟦yhwh|Jahve|Hospodin⟧.
 
 [24] „A vyjdou a pohlédnou
 na mrtvá těla lidí, kteří se proti mně vzbouřili.

@@ -1,32 +1,32 @@
 # Ezechiel 20
 
-[1] V sedmém roce, v pátém měsíci, desátého dne toho měsíce, přišli někteří ze starších Israele, aby se dotazovali Yahweh, a posadili se přede mnou.
+[1] V sedmém roce, v pátém měsíci, desátého dne toho měsíce, přišli někteří ze starších ⟦israel|Jisraele|Izraele⟧, aby se dotazovali ⟦yhwh|Jahveho|Hospodina⟧, a posadili se přede mnou.
 
-[2] A přišlo ke mně slovo Yahweh:
+[2] A přišlo ke mně slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[3] „Synu člověka, mluv ke starším Israele a řekni jim: Toto praví Pán Yahweh: Přicházíte se mě dotazovat? Jakože jsem živ, je výrok Pána Yahweh, nedám se od vás dotazovat.
+[3] „Synu člověka, mluv ke starším ⟦israel|Jisraele|Izraele⟧ a řekni jim: Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Přicházíte se mě dotazovat? Jakože jsem živ, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧, nedám se od vás dotazovat.
 
 [4] Budeš je soudit, synu člověka, budeš je soudit? Dej jim poznat ohavnosti jejich otců
 
-[5] a řekni jim: Toto praví Pán Yahweh:
+[5] a řekni jim: Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧:
 
-V den, kdy jsem si vyvolil Israele, přísahal jsem potomstvu domu Jacoba a dal jsem se jim poznat v zemi Egypt; přísahal jsem jim a řekl: ‚Já jsem Yahweh, váš *Elohim*.‘
+V den, kdy jsem si vyvolil ⟦israel|Jisraele|Izraele⟧, přísahal jsem potomstvu domu ⟦jacob|Jaakova|Jákoba⟧ a dal jsem se jim poznat v zemi ⟦egypt|Micrajim|Egypt⟧; přísahal jsem jim a řekl: ‚Já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧.‘
 
-[6] V ten den jsem jim přísahal, že je vyvedu ze země Egypt do země, kterou jsem pro ně vyhledal, do země oplývající mlékem a medem, nejslavnější ze všech zemí.
+[6] V ten den jsem jim přísahal, že je vyvedu ze země ⟦egypt|Micrajim|Egypt⟧ do země, kterou jsem pro ně vyhledal, do země oplývající mlékem a medem, nejslavnější ze všech zemí.
 
-[7] A řekl jsem jim: ‚Odvrhněte každý z vás hnusné věci, na nichž se pasou vaše oči, a neposkvrňujte se modlami Egypta; já jsem Yahweh, váš *Elohim*.‘
+[7] A řekl jsem jim: ‚Odvrhněte každý z vás hnusné věci, na nichž se pasou vaše oči, a neposkvrňujte se modlami ⟦egypt|Micrajim|Egypta⟧; já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧.‘
 
-[8] Ale oni se proti mně vzbouřili a nechtěli mě poslouchat. Nikdo z nich neodvrhl hnusné věci, na nichž se pásly jeho oči, ani neopustili modly Egypta. Tu jsem řekl, že na ně vyleji svou zlobu a vyčerpám na nich svůj hněv uprostřed země Egypt.
+[8] Ale oni se proti mně vzbouřili a nechtěli mě poslouchat. Nikdo z nich neodvrhl hnusné věci, na nichž se pásly jeho oči, ani neopustili modly ⟦egypt|Micrajim|Egypta⟧. Tu jsem řekl, že na ně vyleji svou zlobu a vyčerpám na nich svůj hněv uprostřed země ⟦egypt|Micrajim|Egypt⟧.
 
-[9] Ale jednal jsem kvůli svému jménu, aby nebylo znesvěceno před očima národů, mezi nimiž žili a před jejichž očima jsem se jim dal poznat, když jsem je vyváděl ze země Egypt.
+[9] Ale jednal jsem kvůli svému jménu, aby nebylo znesvěceno před očima národů, mezi nimiž žili a před jejichž očima jsem se jim dal poznat, když jsem je vyváděl ze země ⟦egypt|Micrajim|Egypt⟧.
 
-[10] Vyvedl jsem je tedy ze země Egypt a přivedl je na poušť.
+[10] Vyvedl jsem je tedy ze země ⟦egypt|Micrajim|Egypt⟧ a přivedl je na poušť.
 
 [11] Dal jsem jim svá ustanovení a oznámil jsem jim své řády, podle nichž bude žít člověk, který je plní.
 
-[12] Dal jsem jim také své sabaty jako znamení mezi mnou a jimi, aby poznali, že já jsem Yahweh, který je posvěcuje.
+[12] Dal jsem jim také své ⟦shabbat|šabaty|soboty⟧ jako znamení mezi mnou a jimi, aby poznali, že já jsem ⟦yhwh|Jahve|Hospodin⟧, který je posvěcuje.
 
-[13] Ale dům Israele se proti mně na poušti vzbouřil. Nechodili v mých ustanoveních, ale zavrhli mé řády, podle nichž bude žít člověk, který je plní; a mé sabaty velice znesvětili.
+[13] Ale dům ⟦israel|Jisraele|Izraele⟧ se proti mně na poušti vzbouřil. Nechodili v mých ustanoveních, ale zavrhli mé řády, podle nichž bude žít člověk, který je plní; a mé ⟦shabbat|šabaty|soboty⟧ velice znesvětili.
 
 Tu jsem řekl, že na ně na poušti vyleji svou zlobu, abych s nimi učinil úplný konec.
 
@@ -34,17 +34,17 @@ Tu jsem řekl, že na ně na poušti vyleji svou zlobu, abych s nimi učinil úp
 
 [15] Také jsem jim na poušti přísahal, že je neuvedu do země, kterou jsem jim dal, do země oplývající mlékem a medem, nejslavnější ze všech zemí,
 
-[16] protože zavrhli mé řády, nechodili v mých ustanoveních a znesvětili mé sabaty; neboť jejich srdce šlo za jejich modlami.
+[16] protože zavrhli mé řády, nechodili v mých ustanoveních a znesvětili mé ⟦shabbat|šabaty|soboty⟧; neboť jejich srdce šlo za jejich modlami.
 
 [17] Přesto je mé oko ušetřilo a nezahubil jsem je ani jsem s nimi na poušti neučinil úplný konec.
 
 [18] A jejich synům jsem na poušti řekl: ‚Nechoďte v ustanoveních svých otců, nezachovávejte jejich řády a neposkvrňujte se jejich modlami.
 
-[19] Já jsem Yahweh, váš *Elohim*; choďte v mých ustanoveních a pečlivě zachovávejte mé řády
+[19] Já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧; choďte v mých ustanoveních a pečlivě zachovávejte mé řády
 
-[20] a světěte mé sabaty, aby byly znamením mezi mnou a vámi, abyste poznali, že já jsem Yahweh, váš *Elohim*.‘
+[20] a světěte mé ⟦shabbat|šabaty|soboty⟧, aby byly znamením mezi mnou a vámi, abyste poznali, že já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧.‘
 
-[21] Ale synové se proti mně vzbouřili. Nechodili v mých ustanoveních a nedbali, aby zachovávali mé řády, podle nichž bude žít člověk, který je plní; znesvětili mé sabaty.
+[21] Ale synové se proti mně vzbouřili. Nechodili v mých ustanoveních a nedbali, aby zachovávali mé řády, podle nichž bude žít člověk, který je plní; znesvětili mé ⟦shabbat|šabaty|soboty⟧.
 
 Tu jsem řekl, že na ně vyleji svou zlobu a vyčerpám na nich svůj hněv na poušti.
 
@@ -52,57 +52,57 @@ Tu jsem řekl, že na ně vyleji svou zlobu a vyčerpám na nich svůj hněv na 
 
 [23] Také jsem jim na poušti přísahal, že je rozptýlím mezi národy a rozeženu po zemích,
 
-[24] protože nezachovávali mé řády, ale zavrhli má ustanovení a znesvětili mé sabaty a jejich oči se upíraly k modlám jejich otců.
+[24] protože nezachovávali mé řády, ale zavrhli má ustanovení a znesvětili mé ⟦shabbat|šabaty|soboty⟧ a jejich oči se upíraly k modlám jejich otců.
 
 [25] Také jsem jim dal ustanovení, která nebyla dobrá, a řády, podle nichž nemohli žít,
 
-[26] a poskvrnil jsem je jejich vlastními dary, když obětovali všechny své prvorozené, abych je zpustošil. Učinil jsem to, aby poznali, že já jsem Yahweh.
+[26] a poskvrnil jsem je jejich vlastními dary, když obětovali všechny své prvorozené, abych je zpustošil. Učinil jsem to, aby poznali, že já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
-[27] Proto, synu člověka, mluv k domu Israele a řekni jim: Toto praví Pán Yahweh: I tím mě vaši otcové rouhavě urazili, že se mnou jednali zrádně.
+[27] Proto, synu člověka, mluv k domu ⟦israel|Jisraele|Izraele⟧ a řekni jim: Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: I tím mě vaši otcové rouhavě urazili, že se mnou jednali zrádně.
 
 [28] Neboť když jsem je uvedl do země, kterou jsem přísahal, že jim dám, pak kdekoli uviděli nějaký vysoký pahorek nebo nějaký košatý strom, tam přinášeli své oběti a předkládali své dráždivé obětní dary; tam pouštěli vzhůru své libé vůně a tam vylévali své úlitby.
 
-[29] Řekl jsem jim tedy: ‚Co je to za posvátné návrší, na které chodíte?‘ Proto se jeho jméno až do tohoto dne nazývá Bamah.
+[29] Řekl jsem jim tedy: ‚Co je to za posvátné návrší, na které chodíte?‘ Proto se jeho jméno až do tohoto dne nazývá Bama.
 
-[30] Proto řekni domu Israele: Toto praví Pán Yahweh: Chcete se poskvrňovat způsobem svých otců a smilnit za jejich hnusnými věcmi?
+[30] Proto řekni domu ⟦israel|Jisraele|Izraele⟧: Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Chcete se poskvrňovat způsobem svých otců a smilnit za jejich hnusnými věcmi?
 
-[31] Když předkládáte své dary a obětujete své děti v ohni, poskvrňujete se všemi svými modlami až do tohoto dne. A já se mám od vás nechat dotazovat, dome Israele? Jakože jsem živ, je výrok Pána Yahweh, nedám se od vás dotazovat.
+[31] Když předkládáte své dary a obětujete své děti v ohni, poskvrňujete se všemi svými modlami až do tohoto dne. A já se mám od vás nechat dotazovat, dome ⟦israel|Jisraele|Izraele⟧? Jakože jsem živ, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧, nedám se od vás dotazovat.
 
 [32] Co máte na mysli, se nikdy nestane – ta myšlenka: ‚Buďme jako národy, jako kmeny zemí, a uctívejme dřevo a kámen.‘
 
-[33] Jakože jsem živ, je výrok Pána Yahweh, jistě mocnou rukou, vztaženou paží a vylitou zlobou budu nad vámi kralovat.
+[33] Jakože jsem živ, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧, jistě mocnou rukou, vztaženou paží a vylitou zlobou budu nad vámi kralovat.
 
 [34] Vyvedu vás z národů a shromáždím vás ze zemí, kde jste rozptýleni, mocnou rukou, vztaženou paží a vylitou zlobou.
 
 [35] Přivedu vás na poušť národů a tam s vámi vejdu do soudu tváří v tvář.
 
-[36] Jako jsem vešel do soudu s vašimi otci na poušti země Egypt, tak vejdu do soudu s vámi, je výrok Pána Yahweh.
+[36] Jako jsem vešel do soudu s vašimi otci na poušti země ⟦egypt|Micrajim|Egypt⟧, tak vejdu do soudu s vámi, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.
 
 [37] Dám vám projít pod holí a uvedu vás do pouta smlouvy.
 
-[38] Vytřídím z vás vzbouřence a ty, kdo se proti mně provinili. Vyvedu je ze země, kde pobývají jako cizinci, ale do země Israele nevejdou. Tehdy poznáte, že já jsem Yahweh.
+[38] Vytřídím z vás vzbouřence a ty, kdo se proti mně provinili. Vyvedu je ze země, kde pobývají jako cizinci, ale do země ⟦israel|Jisraele|Izraele⟧ nevejdou. Tehdy poznáte, že já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
-[39] A vy, dome Israele, toto praví Pán Yahweh: Jděte, služte každý svým modlám, teď i potom, jestliže mě nechcete poslouchat; ale mé svaté jméno už nebudete znesvěcovat svými dary a svými modlami.
+[39] A vy, dome ⟦israel|Jisraele|Izraele⟧, toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Jděte, služte každý svým modlám, teď i potom, jestliže mě nechcete poslouchat; ale mé svaté jméno už nebudete znesvěcovat svými dary a svými modlami.
 
-[40] Neboť na mé svaté hoře, na vysoké hoře Israele, je výrok Pána Yahweh, tam mi bude sloužit celý dům Israele, všichni, v zemi. Tam je přijmu a tam budu požadovat vaše příspěvky a to nejlepší z vašich darů se všemi vašimi svatými obětmi.
+[40] Neboť na mé svaté hoře, na vysoké hoře ⟦israel|Jisraele|Izraele⟧, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧, tam mi bude sloužit celý dům ⟦israel|Jisraele|Izraele⟧, všichni, v zemi. Tam je přijmu a tam budu požadovat vaše příspěvky a to nejlepší z vašich darů se všemi vašimi svatými obětmi.
 
 [41] Jako libou vůni vás přijmu, až vás vyvedu z národů a shromáždím vás ze zemí, kam jste byli rozptýleni. A projevím mezi vámi svou svatost před očima národů.
 
-[42] A poznáte, že já jsem Yahweh, až vás uvedu do země Israele, do země, o níž jsem přísahal, že ji dám vašim otcům.
+[42] A poznáte, že já jsem ⟦yhwh|Jahve|Hospodin⟧, až vás uvedu do země ⟦israel|Jisraele|Izraele⟧, do země, o níž jsem přísahal, že ji dám vašim otcům.
 
 [43] A tam si vzpomenete na své cesty a na všechny své skutky, jimiž jste se poskvrnili, a budete si sami sebe ošklivit pro všechna zla, jichž jste se dopustili.
 
-[44] A poznáte, že já jsem Yahweh, až s vámi naložím kvůli svému jménu, ne podle vašich zlých cest ani podle vašich zkažených skutků, dome Israele, je výrok Pána Yahweh.“
+[44] A poznáte, že já jsem ⟦yhwh|Jahve|Hospodin⟧, až s vámi naložím kvůli svému jménu, ne podle vašich zlých cest ani podle vašich zkažených skutků, dome ⟦israel|Jisraele|Izraele⟧, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.“
 
-[45] A přišlo ke mně slovo Yahweh:
+[45] A přišlo ke mně slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[46] „Synu člověka, obrať svou tvář k jihu, kaž proti jihu a prorokuj proti lesnaté krajině v Negev.
+[46] „Synu člověka, obrať svou tvář k jihu, kaž proti jihu a prorokuj proti lesnaté krajině v ⟦negev|Negev|Negebu⟧.
 
-[47] Řekni lesu Negev: Slyš slovo Yahweh: Toto praví Pán Yahweh: Hle, zažehnu v tobě oheň a ten pohltí v tobě každý zelený strom i každý suchý strom. Šlehající plamen nebude uhašen a všechny tváře od jihu až k severu jím budou spáleny.
+[47] Řekni lesu ⟦negev|Negev|Negebu⟧: Slyš slovo ⟦yhwh|Jahveho|Hospodina⟧: Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Hle, zažehnu v tobě oheň a ten pohltí v tobě každý zelený strom i každý suchý strom. Šlehající plamen nebude uhašen a všechny tváře od jihu až k severu jím budou spáleny.
 
-[48] Všechno tělo uvidí, že jsem jej zažehl já, Yahweh; nebude uhašen.“
+[48] Všechno tělo uvidí, že jsem jej zažehl já, ⟦yhwh|Jahve|Hospodin⟧; nebude uhašen.“
 
-[49] Tu jsem řekl: „Ach, Pane Yahweh! Říkají o mně: ‚Což to není vymýšlitel podobenství?‘“
+[49] Tu jsem řekl: „Ach, ⟦adonai-yhwh|Pane Jahve|Panovníku Hospodine⟧! Říkají o mně: ‚Což to není vymýšlitel podobenství?‘“
 
 ## Změny
 

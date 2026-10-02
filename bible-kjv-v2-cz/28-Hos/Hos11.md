@@ -1,13 +1,13 @@
 # Ozeáš 11
 
-[1] **Když byl Israel dítě, miloval jsem ho
-a z Egypta jsem povolal svého syna.**
+[1] **Když byl ⟦israel|Jisrael|Izrael⟧ dítě, miloval jsem ho
+a z ⟦egypt|Micrajim|Egypta⟧ jsem povolal svého syna.**
 
 [2] Čím více je volali, tím více odcházeli;
-stále obětovali Baalům
+stále obětovali ⟦baal|Baalům|baalům⟧
 a pálili oběti modlám.
 
-[3] A přece jsem to byl já, kdo učil Ephraima chodit;
+[3] A přece jsem to byl já, kdo učil Efrajima chodit;
 bral jsem je do náručí,
 ale nepoznali, že jsem je uzdravoval.
 
@@ -16,8 +16,8 @@ pouty lásky,
 a byl jsem jim jako ten, kdo jim ulehčuje jho na čelistech,
 a sklonil jsem se k nim a krmil je.
 
-[5] Nevrátí se do země Egypt,
-ale Assyrie bude jejich králem,
+[5] Nevrátí se do země ⟦egypt|Micrajim|Egypt⟧,
+ale ⟦assyria|Aššur|Asýrie⟧ bude jejich králem,
 protože se odmítli ke mně vrátit.
 
 [6] Meč bude řádit v jejich městech,
@@ -28,35 +28,36 @@ a pohltí je pro jejich vlastní záměry.
 a i když volají k Nejvyššímu,
 on je vůbec nepozvedne.
 
-[8] Jak bych tě mohl vydat, Ephraime?
-Jak bych tě mohl vydat, Israeli?
-Jak bych s tebou mohl naložit jako s Admah?
-Jak bych s tebou mohl zacházet jako se Zevoyim?
+[8] Jak bych tě mohl vydat, Efrajime?
+Jak bych tě mohl vydat, ⟦israel|Jisraeli|Izraeli⟧?
+Jak bych s tebou mohl naložit jako s Admou?
+Jak bych s tebou mohl zacházet jako se ⟦zeboiim|Cevojim|Sebojím⟧?
 Mé srdce se ve mně obrací;
 mé slitování se rozehřívá a něžní.
 
 [9] Nevykonám svůj planoucí hněv;
-už znovu nezahubím Ephraima;
-neboť já jsem *Elohim*, a ne člověk,
+už znovu nezahubím Efrajima;
+neboť já jsem ⟦el|El|Bůh⟧, a ne člověk,
 Svatý uprostřed tebe,
 a nepřijdu v hněvu.
 
-[10] Půjdou za Yahweh;
+[10] Půjdou za ⟦yhwh|Jahvem|Hospodinem⟧;
 bude řvát jako lev;
 až zařve, přijdou jeho děti s chvěním od západu;
 
-[11] přilétnou s chvěním jako ptáci z Egypta
-a jako holubice ze země Assyrie
-a usadím je v jejich domovech, je výrok Yahweh.
+[11] přilétnou s chvěním jako ptáci z ⟦egypt|Micrajim|Egypta⟧
+a jako holubice ze země ⟦assyria|Aššuru|Asýrie⟧
+a usadím je v jejich domovech, je výrok ⟦yhwh|Jahveho|Hospodina⟧.
 
-[12] Ephraim mě obklopil lžemi
-a dům Israele klamem,
-ale Judah stále chodí s *Elohim*
+[12] Efrajim mě obklopil lžemi
+a dům ⟦israel|Jisraele|Izraele⟧ klamem,
+ale ⟦judah|Jehuda|Juda⟧ stále chodí s ⟦el|El|Bohem⟧
 a je věrný Svatému.
 
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – tetragram zachován.
+- **"God" → „El“** (v9, 12) – hebrejsky אֵל *El*, ne *Elohim*.
 - **Poezie zformátována s odsazením blokové citace** (v celé kapitole) – KJV má prózu; hebrejština patří k nejněžnější poezii u proroků.
 - **"As they called them, so they went from them" → „Čím více je volali, tím více odcházeli“** (v2) – hebrejsky כְּקָרְאָם כֵּן הָלְכוּ מִפְּנֵיהֶם; hebrejský idiom znamená, že čím naléhavěji byli voláni, tím více odcházeli.
 - **"burned incense to graven images" → „pálili oběti modlám“** (v2) – hebrejsky יְקַטְּרוּן לַפְּסִלִים; „oběti“ je obecnější.

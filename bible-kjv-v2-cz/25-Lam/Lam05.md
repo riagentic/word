@@ -1,6 +1,6 @@
 # Pláč 5
 
-[1] Pamatuj, Yahweh, co nás postihlo;
+[1] Pamatuj, ⟦yhwh|Jahve|Hospodine⟧, co nás postihlo;
 pohleď a viz naši potupu!
 
 [2] Naše dědictví připadlo cizákům,
@@ -15,7 +15,7 @@ dříví, které získáme, musíme kupovat.
 [5] Pronásledovatelé nám jsou v patách;
 jsme vyčerpaní, nedopřávají nám odpočinku.
 
-[6] Podali jsme ruku Egyptu i Asyrii,
+[6] Podali jsme ruku ⟦egypt|Micrajim|Egyptu⟧ i ⟦assyria|Aššuru|Asýrii⟧,
 abychom se nasytili chlebem.
 
 [7] Naši otcové zhřešili, a už nejsou;
@@ -30,8 +30,8 @@ kvůli meči na poušti.
 [10] Naše kůže je rozpálená jako pec
 žhoucím žárem hladu.
 
-[11] Ženy jsou znásilňovány na Sionu,
-mladé ženy v městech Judah.
+[11] Ženy jsou znásilňovány na ⟦zion|Cijonu|Sijónu⟧,
+mladé ženy v městech ⟦judah|Jehudy|Judy⟧.
 
 [12] Knížata jsou věšena za ruce;
 starším se neprokazuje úcta.
@@ -51,16 +51,16 @@ běda nám, neboť jsme zhřešili!
 [17] Proto je naše srdce nemocné,
 kvůli tomu naše oči pohasly,
 
-[18] kvůli hoře Sion, která leží zpustošená;
+[18] kvůli hoře ⟦zion|Cijon|Sijón⟧, která leží zpustošená;
 šakalové se po ní potulují.
 
-[19] Ale ty, Yahweh, kraluješ navěky;
+[19] Ale ty, ⟦yhwh|Jahve|Hospodine⟧, kraluješ navěky;
 tvůj trůn trvá od pokolení do pokolení.
 
 [20] Proč na nás navždy zapomínáš,
 proč nás opouštíš na tak dlouhé dny?
 
-[21] Obrať nás k sobě, Yahweh, a budeme obráceni!
+[21] Obrať nás k sobě, ⟦yhwh|Jahve|Hospodine⟧, a budeme obráceni!
 Obnov naše dny jako za dávných časů –
 
 [22] leda bys nás naprosto zavrhl

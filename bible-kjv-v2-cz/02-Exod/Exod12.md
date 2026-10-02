@@ -1,16 +1,16 @@
 # Exodus 12
 
-[1] Yahweh řekl Mosesovi a Aaronovi v egyptské zemi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧ a ⟦aaron|Aharonovi|Áronovi⟧ v egyptské zemi:
 
 [2] „Tento měsíc bude pro vás počátkem měsíců; bude pro vás prvním z měsíců roku.
 
-[3] Mluvte k celé pospolitosti Israele a řekněte: ‚Desátého dne tohoto měsíce si každý muž vezme beránka podle svých otcovských domů – beránka na domácnost.
+[3] Mluvte k celé pospolitosti ⟦israel|Jisraele|Izraele⟧ a řekněte: ‚Desátého dne tohoto měsíce si každý muž vezme beránka podle svých otcovských domů – beránka na domácnost.
 
 [4] Je-li domácnost na beránka příliš malá, vezme ho spolu se svým nejbližším sousedem podle počtu osob; podle toho, kolik kdo sní, rozpočítáte beránka.
 
 [5] Váš beránek bude bez vady, samec, jednoroční; můžete ho vzít z ovcí nebo z koz.
 
-[6] Budete ho opatrovat až do čtrnáctého dne tohoto měsíce; tehdy ho celé shromáždění pospolitosti Israele zabije za soumraku.
+[6] Budete ho opatrovat až do čtrnáctého dne tohoto měsíce; tehdy ho celé shromáždění pospolitosti ⟦israel|Jisraele|Izraele⟧ zabije za soumraku.
 
 [7] Vezmou trochu krve a potřou jí obě veřeje a nadpraží domů, v nichž ho budou jíst.
 
@@ -20,71 +20,71 @@
 
 [10] Nenecháte z něho nic do rána; co z něho do rána zůstane, spálíte ohněm.
 
-[11] Takto ho budete jíst: s bedry přepásanými, se sandály na nohou a s holí v ruce; budete ho jíst ve spěchu. Je to Pascha pro Yahweh.
+[11] Takto ho budete jíst: s bedry přepásanými, se sandály na nohou a s holí v ruce; budete ho jíst ve spěchu. Je to Pascha pro ⟦yhwh|Jahveho|Hospodina⟧.
 
-[12] Neboť té noci projdu egyptskou zemí a pobiji všechny prvorozené v egyptské zemi, od člověka až po dobytek; a nad všemi bohy Egypta vykonám soudy. Já jsem Yahweh.
+[12] Neboť té noci projdu egyptskou zemí a pobiji všechny prvorozené v egyptské zemi, od člověka až po dobytek; a nad všemi bohy ⟦egypt|Micrajim|Egypta⟧ vykonám soudy. Já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
 [13] Krev vám bude znamením na domech, kde jste; a když uvidím krev, přejdu vás, a nepostihne vás žádná rána, která by vás zahubila, až budu bít egyptskou zemi.
 
-[14] Tento den vám bude na památku; budete ho slavit jako slavnost Yahweh po všechna svá pokolení – jako trvalé nařízení ho budete slavit.
+[14] Tento den vám bude na památku; budete ho slavit jako slavnost ⟦yhwh|Jahveho|Hospodina⟧ po všechna svá pokolení – jako trvalé nařízení ho budete slavit.
 
-[15] Sedm dní budete jíst nekvašené chleby. Hned prvního dne odstraníte ze svých domů kvas, neboť každý, kdo by jedl něco kvašeného od prvního do sedmého dne, ten člověk bude vyťat z Israele.
+[15] Sedm dní budete jíst nekvašené chleby. Hned prvního dne odstraníte ze svých domů kvas, neboť každý, kdo by jedl něco kvašeného od prvního do sedmého dne, ten člověk bude vyťat z ⟦israel|Jisraele|Izraele⟧.
 
 [16] Prvního dne budete mít svaté shromáždění a sedmého dne také svaté shromáždění. V těchto dnech se nebude konat žádná práce; jen to, co každý musí sníst – jen to smíte připravit.
 
-[17] Budete dodržovat slavnost nekvašených chlebů, neboť právě v tento den jsem vyvedl vaše zástupy z egyptské země. Proto budete tento den dodržovat po všechna svá pokolení jako trvalé nařízení.
+[17] Budete dodržovat slavnost ⟦unleavened-bread|Macot|nekvašených chlebů⟧, neboť právě v tento den jsem vyvedl vaše zástupy z egyptské země. Proto budete tento den dodržovat po všechna svá pokolení jako trvalé nařízení.
 
 [18] V prvním měsíci, od večera čtrnáctého dne měsíce, budete jíst nekvašené chleby až do večera dvacátého prvního dne měsíce.
 
-[19] Sedm dní se ve vašich domech nesmí najít kvas; neboť kdokoli by jedl něco kvašeného, ten člověk bude vyťat z pospolitosti Israele – ať je to přistěhovalec, nebo rodák země.
+[19] Sedm dní se ve vašich domech nesmí najít kvas; neboť kdokoli by jedl něco kvašeného, ten člověk bude vyťat z pospolitosti ⟦israel|Jisraele|Izraele⟧ – ať je to přistěhovalec, nebo rodák země.
 
 [20] Nebudete jíst nic kvašeného; ve všech svých obydlích budete jíst nekvašené chleby.‘“
 
-[21] Tu Moses svolal všechny starší Israele a řekl jim: „Jděte a vezměte si beránky podle svých rodů a zabijte paschální oběť.
+[21] Tu ⟦moses|Moše|Mojžíš⟧ svolal všechny starší ⟦israel|Jisraele|Izraele⟧ a řekl jim: „Jděte a vezměte si beránky podle svých rodů a zabijte paschální oběť.
 
 [22] Vezměte svazek yzopu, namočte jej do krve, která je v míse, a potřete krví, která je v míse, nadpraží a obě veřeje; a nikdo z vás nevyjde ze dveří svého domu až do rána.
 
-[23] Neboť Yahweh projde, aby bil Egypťany; a když uvidí krev na nadpraží a na obou veřejích, Yahweh přejde ty dveře a nedovolí Ničiteli vejít do vašich domů a bít vás.
+[23] Neboť ⟦yhwh|Jahve|Hospodin⟧ projde, aby bil ⟦egyptians|Micrim|Egypťany⟧; a když uvidí krev na nadpraží a na obou veřejích, ⟦yhwh|Jahve|Hospodin⟧ přejde ty dveře a nedovolí Ničiteli vejít do vašich domů a bít vás.
 
 [24] Budete dodržovat tuto věc jako ustanovení pro sebe a pro své syny navěky.
 
-[25] Až přijdete do země, kterou vám Yahweh dá, jak slíbil, budete dodržovat tuto službu.
+[25] Až přijdete do země, kterou vám ⟦yhwh|Jahve|Hospodin⟧ dá, jak slíbil, budete dodržovat tuto službu.
 
 [26] A až se vás vaše děti zeptají: ‚Co pro vás znamená tato služba?‘,
 
-[27] odpovíte: ‚Je to oběť Paschy Yahweh, který v Egyptě přešel domy synů Israele, když bil Egypťany, a naše domy vysvobodil.‘“ A lid sklonil hlavu a klaněl se.
+[27] odpovíte: ‚Je to oběť Paschy ⟦yhwh|Jahveho|Hospodina⟧, který v ⟦egypt|Micrajim|Egyptě⟧ přešel domy synů ⟦israel|Jisraele|Izraele⟧, když bil ⟦egyptians|Micrim|Egypťany⟧, a naše domy vysvobodil.‘“ A lid sklonil hlavu a klaněl se.
 
-[28] Synové Israele šli a učinili tak; jak Yahweh přikázal Mosesovi a Aaronovi, tak učinili.
+[28] Synové ⟦israel|Jisraele|Izraele⟧ šli a učinili tak; jak ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧ a ⟦aaron|Aharonovi|Áronovi⟧, tak učinili.
 
-[29] O půlnoci pobil Yahweh všechny prvorozené v egyptské zemi, od prvorozeného Pharaoha, který seděl na svém trůnu, až po prvorozeného zajatce, který byl v žaláři, i všechno prvorozené z dobytka.
+[29] O půlnoci pobil ⟦yhwh|Jahve|Hospodin⟧ všechny prvorozené v egyptské zemi, od prvorozeného ⟦pharaoh|Paroha|faraóna⟧, který seděl na svém trůnu, až po prvorozeného zajatce, který byl v žaláři, i všechno prvorozené z dobytka.
 
-[30] Pharaoh vstal v noci, on i všichni jeho služebníci a všichni Egypťané; a v Egyptě byl veliký křik, neboť nebylo domu, v němž by někdo nebyl mrtev.
+[30] ⟦pharaoh|Paro|Farao⟧ vstal v noci, on i všichni jeho služebníci a všichni ⟦egyptians|Micrim|Egypťané⟧; a v ⟦egypt|Micrajim|Egyptě⟧ byl veliký křik, neboť nebylo domu, v němž by někdo nebyl mrtev.
 
-[31] V noci zavolal Mosese a Aarona a řekl: „Vstaňte, odejděte z mého lidu, vy i synové Israele; jděte, služte Yahweh, jak jste říkali.
+[31] V noci zavolal ⟦moses|Moše|Mojžíše⟧ a ⟦aaron|Aharona|Árona⟧ a řekl: „Vstaňte, odejděte z mého lidu, vy i synové ⟦israel|Jisraele|Izraele⟧; jděte, služte ⟦yhwh|Jahvovi|Hospodinu⟧, jak jste říkali.
 
 [32] Vezměte také svá stáda ovcí i skotu, jak jste říkali, a jděte; a požehnejte také mně.“
 
-[33] Egypťané naléhali na lid, aby ho spěšně vyhnali ze země; neboť říkali: „Všichni jsme mrtví muži.“
+[33] ⟦egyptians|Micrim|Egypťané⟧ naléhali na lid, aby ho spěšně vyhnali ze země; neboť říkali: „Všichni jsme mrtví muži.“
 
 [34] Lid tedy vzal své těsto, dříve než vykynulo, své díže svázané v pláštích na ramenou.
 
-[35] Synové Israele učinili, jak jim Moses řekl: vyžádali si od Egypťanů stříbrné předměty, zlaté předměty a oděvy;
+[35] Synové ⟦israel|Jisraele|Izraele⟧ učinili, jak jim ⟦moses|Moše|Mojžíš⟧ řekl: vyžádali si od ⟦egyptians|Micrim|Egypťanů⟧ stříbrné předměty, zlaté předměty a oděvy;
 
-[36] a Yahweh dal lidu přízeň v očích Egypťanů, takže jim dali, oč žádali. Tak vyplenili Egypťany.
+[36] a ⟦yhwh|Jahve|Hospodin⟧ dal lidu přízeň v očích ⟦egyptians|Micrim|Egypťanů⟧, takže jim dali, oč žádali. Tak vyplenili ⟦egyptians|Micrim|Egypťany⟧.
 
-[37] Synové Israele vytáhli z Raamses do Succoth, asi 600 000 pěších mužů, kromě dětí.
+[37] Synové ⟦israel|Jisraele|Izraele⟧ vytáhli z ⟦rameses|Raamsesu|Ramesesu⟧ do ⟦succoth|Sukkot|Sukót⟧, asi 600 000 pěších mužů, kromě dětí.
 
 [38] Vytáhlo s nimi také smíšené množství a stáda ovcí a skotu – velmi mnoho dobytka.
 
-[39] Z těsta, které vynesli z Egypta, napekli nekvašené placky, neboť nevykynulo – protože byli z Egypta vyhnáni a nemohli otálet, ani si nepřipravili zásoby na cestu.
+[39] Z těsta, které vynesli z ⟦egypt|Micrajim|Egypta⟧, napekli nekvašené placky, neboť nevykynulo – protože byli z ⟦egypt|Micrajim|Egypta⟧ vyhnáni a nemohli otálet, ani si nepřipravili zásoby na cestu.
 
-[40] Doba, po kterou synové Israele bydleli v Egyptě, činila 430 let.
+[40] Doba, po kterou synové ⟦israel|Jisraele|Izraele⟧ bydleli v ⟦egypt|Micrajim|Egyptě⟧, činila 430 let.
 
-[41] Na konci 430 let, právě v ten den, vyšly všechny zástupy Yahweh z egyptské země.
+[41] Na konci 430 let, právě v ten den, vyšly všechny zástupy ⟦yhwh|Jahveho|Hospodina⟧ z egyptské země.
 
-[42] Je to noc bdění pro Yahweh, kdy je vyvedl z egyptské země. To je ta noc Yahweh – bdění pro všechny syny Israele po všechna jejich pokolení.
+[42] Je to noc bdění pro ⟦yhwh|Jahveho|Hospodina⟧, kdy je vyvedl z egyptské země. To je ta noc ⟦yhwh|Jahveho|Hospodina⟧ – bdění pro všechny syny ⟦israel|Jisraele|Izraele⟧ po všechna jejich pokolení.
 
-[43] Yahweh řekl Mosesovi a Aaronovi: „Toto je nařízení o Pasše: žádný cizinec z ní nebude jíst.
+[43] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧ a ⟦aaron|Aharonovi|Áronovi⟧: „Toto je nařízení o Pasše: žádný cizinec z ní nebude jíst.
 
 [44] Ale každý otrok koupený za peníze z ní bude jíst, jakmile ho obřežete.
 
@@ -92,15 +92,15 @@
 
 [46] V jednom domě bude jedena; nevyneseš nic z masa ven z domu a nezlomíte v ní ani kost.
 
-[47] Celá pospolitost Israele ji bude slavit.
+[47] Celá pospolitost ⟦israel|Jisraele|Izraele⟧ ji bude slavit.
 
-[48] Bude-li u tebe pobývat přistěhovalec a bude chtít slavit Paschu Yahweh, ať jsou obřezáni všichni jeho mužští příslušníci; potom smí přistoupit a slavit ji a bude jako rodák země. Ale nikdo neobřezaný z ní nebude jíst.
+[48] Bude-li u tebe pobývat přistěhovalec a bude chtít slavit Paschu ⟦yhwh|Jahveho|Hospodina⟧, ať jsou obřezáni všichni jeho mužští příslušníci; potom smí přistoupit a slavit ji a bude jako rodák země. Ale nikdo neobřezaný z ní nebude jíst.
 
 [49] Jeden zákon bude platit pro rodáka i pro přistěhovalce, který pobývá mezi vámi.“
 
-[50] Všichni synové Israele tedy učinili, jak Yahweh přikázal Mosesovi a Aaronovi; tak učinili.
+[50] Všichni synové ⟦israel|Jisraele|Izraele⟧ tedy učinili, jak ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧ a ⟦aaron|Aharonovi|Áronovi⟧; tak učinili.
 
-[51] Právě v ten den vyvedl Yahweh syny Israele z egyptské země po jejich zástupech.
+[51] Právě v ten den vyvedl ⟦yhwh|Jahve|Hospodin⟧ syny ⟦israel|Jisraele|Izraele⟧ z egyptské země po jejich zástupech.
 
 ## Změny
 

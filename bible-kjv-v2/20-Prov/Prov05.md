@@ -61,7 +61,7 @@ be intoxicated always in her love.
 [20] Why should you be intoxicated, my son, with a forbidden woman
 and embrace the bosom of an adulteress?
 
-[21] For a man's ways are before the eyes of Yahweh,
+[21] For a man's ways are before the eyes of ⟦yhwh|Yahweh|the LORD⟧,
 and he ponders all his paths.
 
 [22] The iniquities of the wicked ensnare him,

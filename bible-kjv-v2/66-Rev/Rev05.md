@@ -8,9 +8,9 @@
 
 [4] and I began to weep loudly because no one was found worthy to open the scroll or to look into it.
 
-[5] And one of the elders said to me, "Weep no more; behold, **the Lion of the tribe of Judah, the Root of David, has conquered**, so that he can open the scroll and its seven seals."
+[5] And one of the elders said to me, "Weep no more; behold, **the Lion of the tribe of ⟦judah|Yehudah|Judah⟧, the Root of David, has conquered**, so that he can open the scroll and its seven seals."
 
-[6] And between the throne and the four living creatures and among the elders I saw a Lamb standing, as though it had been slain, with seven horns and with seven eyes, which are the seven spirits of *Elohim* sent out into all the earth.
+[6] And between the throne and the four living creatures and among the elders I saw a Lamb standing, as though it had been slain, with seven horns and with seven eyes, which are the seven spirits of ⟦elohim|Elohim|God⟧ sent out into all the earth.
 
 [7] And he went and took the scroll from the right hand of him who was seated on the throne.
 
@@ -20,9 +20,9 @@
 
 "**Worthy are you to take the scroll
 and to open its seals,
-for you were slain, and by your blood you ransomed people for *Elohim*
+for you were slain, and by your blood you ransomed people for ⟦elohim|Elohim|God⟧
 from every tribe and language and people and nation,
-[10] and you have made them a kingdom and priests to our *Elohim*,
+[10] and you have made them a kingdom and priests to our ⟦elohim|Elohim|God⟧,
 and they shall reign on the earth**."
 
 [11] Then I looked, and I heard around the throne and the living creatures and the elders the voice of many angels, numbering myriads of myriads and thousands of thousands,

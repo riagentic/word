@@ -3,7 +3,7 @@
 [1] Elihu continued and said:
 
 [2] "Bear with me a little, and I will show you,
-for I have yet more to say for Eloah.
+for I have yet more to say for ⟦eloah|Eloah|God⟧.
 
 [3] I will bring my knowledge from afar,
 and ascribe righteousness to my Maker.
@@ -11,7 +11,7 @@ and ascribe righteousness to my Maker.
 [4] For truly my words are not false;
 one perfect in knowledge is with you.
 
-[5] Behold, *Elohim* is mighty, and despises no one;
+[5] Behold, ⟦el|El|God⟧ is mighty, and despises no one;
 he is mighty in strength of understanding.
 
 [6] He does not let the wicked live,
@@ -65,7 +65,7 @@ when peoples are cut off in their place.
 [21] Take care; do not turn to iniquity,
 for this you have chosen rather than affliction.
 
-[22] Behold, *Elohim* is exalted in his power;
+[22] Behold, ⟦el|El|God⟧ is exalted in his power;
 who is a teacher like him?
 
 [23] Who has appointed him his way,
@@ -77,7 +77,7 @@ of which men have sung.
 [25] All mankind has looked on it;
 man gazes from afar.
 
-[26] Behold, *Elohim* is great, and we do not know him;
+[26] Behold, ⟦el|El|God⟧ is great, and we do not know him;
 the number of his years is unsearchable.
 
 [27] For he draws up the drops of water;
@@ -103,6 +103,7 @@ even the cattle concerning what is coming up."
 
 ## Changes
 
+- **"God" → "El"** (v5, 22, 26) — Hebrew אֵל *El*, not *Elohim*.
 - **"hypocrites" → "godless"** (v13) — *chanef*.
 - **"unclean" → "male temple-prostitutes"** (v14) — *qedeshim*.
 - **"tabernacle" → "pavilion"** (v29) — *sukkato*; divine tent.

@@ -1,30 +1,30 @@
 # Soudců 17
 
-[1] Byl jeden muž z pohoří Ephraim, jménem Micah.
+[1] Byl jeden muž z pohoří Efrajim, jménem ⟦micah|Micha|Míka⟧.
 
-[2] Řekl své matce: „Těch jedenáct set stříbrných, které ti byly vzaty a kvůli nimž jsi vyslovila kletbu – a vyslovila jsi ji i do mých uší –, hle, to stříbro je u mě; vzal jsem je já.“ A jeho matka řekla: „Buď požehnán od Yahweh, můj synu.“
+[2] Řekl své matce: „Těch jedenáct set stříbrných, které ti byly vzaty a kvůli nimž jsi vyslovila kletbu – a vyslovila jsi ji i do mých uší –, hle, to stříbro je u mě; vzal jsem je já.“ A jeho matka řekla: „Buď požehnán od ⟦yhwh|Jahveho|Hospodina⟧, můj synu.“
 
-[3] Vrátil své matce těch jedenáct set stříbrných a jeho matka řekla: „To stříbro jsem ze své ruky zcela zasvětila Yahweh pro svého syna, aby se z něj udělala tesaná socha a litá socha. Nyní ti je tedy vracím.“
+[3] Vrátil své matce těch jedenáct set stříbrných a jeho matka řekla: „To stříbro jsem ze své ruky zcela zasvětila ⟦yhwh|Jahvovi|Hospodinu⟧ pro svého syna, aby se z něj udělala tesaná socha a litá socha. Nyní ti je tedy vracím.“
 
-[4] Když tedy vrátil stříbro své matce, jeho matka vzala dvě stě stříbrných a dala je stříbrníkovi, který z nich udělal tesanou sochu a litou sochu; a byla v Micahově domě.
+[4] Když tedy vrátil stříbro své matce, jeho matka vzala dvě stě stříbrných a dala je stříbrníkovi, který z nich udělal tesanou sochu a litou sochu; a byla v ⟦micah|Michově|Míkově⟧ domě.
 
-[5] Ten muž Micah měl svatyni; udělal efod a domácí bůžky a zasvětil jednoho ze svých synů, který se stal jeho knězem.
+[5] Ten muž ⟦micah|Micha|Míka⟧ měl svatyni; udělal ⟦ephod|efod|efód⟧ a ⟦teraphim|terafim|domácí bůžky⟧ a zasvětil jednoho ze svých synů, který se stal jeho knězem.
 
-[6] V těch dnech nebyl v Israeli král; každý dělal, co bylo správné v jeho vlastních očích.
+[6] V těch dnech nebyl v ⟦israel|Jisraeli|Izraeli⟧ král; každý dělal, co bylo správné v jeho vlastních očích.
 
-[7] Byl jeden mladý muž z Bethlehemu v Judahu, z rodu Judahova, který byl Levita, a pobýval tam jako host.
+[7] Byl jeden mladý muž z ⟦bethlehem|Bejt Lechemu|Betléma⟧ v ⟦judah|Jehudě|Judě⟧, z rodu ⟦judah|Jehudova|Judova⟧, který byl ⟦levites|Levi|lévijec⟧, a pobýval tam jako host.
 
-[8] Ten muž odešel z města Bethlehemu v Judahu, aby pobýval jako host, kde by našel místo; a jak šel svou cestou, přišel do pohoří Ephraim, k Micahovu domu.
+[8] Ten muž odešel z města ⟦bethlehem|Bejt Lechemu|Betléma⟧ v ⟦judah|Jehudě|Judě⟧, aby pobýval jako host, kde by našel místo; a jak šel svou cestou, přišel do pohoří Efrajim, k ⟦micah|Michovu|Míkovu⟧ domu.
 
-[9] Micah se ho zeptal: „Odkud přicházíš?“ Odpověděl mu: „Jsem Levita z Bethlehemu v Judahu a jdu pobývat jako host tam, kde najdu místo.“
+[9] ⟦micah|Micha|Míka⟧ se ho zeptal: „Odkud přicházíš?“ Odpověděl mu: „Jsem ⟦levites|Levi|lévijec⟧ z ⟦bethlehem|Bejt Lechemu|Betléma⟧ v ⟦judah|Jehudě|Judě⟧ a jdu pobývat jako host tam, kde najdu místo.“
 
-[10] Micah mu řekl: „Zůstaň u mě a buď mi otcem a knězem. Dám ti deset stříbrných ročně, sadu šatů a tvou obživu.“ Levita tedy vešel.
+[10] ⟦micah|Micha|Míka⟧ mu řekl: „Zůstaň u mě a buď mi otcem a knězem. Dám ti deset stříbrných ročně, sadu šatů a tvou obživu.“ ⟦levites|Levi|Lévijec⟧ tedy vešel.
 
-[11] Levita byl spokojen, že bude bydlet u toho muže; mladý muž mu byl jako jeden z jeho synů.
+[11] ⟦levites|Levi|Lévijec⟧ byl spokojen, že bude bydlet u toho muže; mladý muž mu byl jako jeden z jeho synů.
 
-[12] Micah zasvětil Levitu a mladý muž se stal jeho knězem a byl v Micahově domě.
+[12] ⟦micah|Micha|Míka⟧ zasvětil ⟦levites|Levi|lévijce⟧ a mladý muž se stal jeho knězem a byl v ⟦micah|Michově|Míkově⟧ domě.
 
-[13] Tehdy Micah řekl: „Teď vím, že mi Yahweh bude prokazovat dobro, protože mám za kněze Levitu.“
+[13] Tehdy ⟦micah|Micha|Míka⟧ řekl: „Teď vím, že mi ⟦yhwh|Jahve|Hospodin⟧ bude prokazovat dobro, protože mám za kněze ⟦levites|Levi|lévijce⟧.“
 
 ## Změny
 

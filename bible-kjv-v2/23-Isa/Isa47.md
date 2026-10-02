@@ -1,9 +1,9 @@
 # Isaiah 47
 
 [1] Come down and sit in the dust,
-O virgin daughter of Babylon;
+O virgin daughter of ⟦babylon|Bavel|Babylon⟧;
 sit on the ground without a throne,
-O daughter of the Chaldeans!
+O daughter of the ⟦chaldeans|Kasdim|Chaldeans⟧!
 For you shall no more be called
 tender and delicate.
 
@@ -17,11 +17,11 @@ and your shame shall be seen.
 I will take vengeance,
 and I will spare no one.
 
-[4] Our Redeemer — Yahweh of Hosts is his name —
-is the Holy One of Israel.
+[4] Our Redeemer — ⟦yhwh|Yahweh|the LORD⟧ of Hosts is his name —
+is the Holy One of ⟦israel|Yisrael|Israel⟧.
 
 [5] Sit in silence, and go into darkness,
-O daughter of the Chaldeans;
+O daughter of the ⟦chaldeans|Kasdim|Chaldeans⟧;
 for you shall no more be called
 the mistress of kingdoms.
 

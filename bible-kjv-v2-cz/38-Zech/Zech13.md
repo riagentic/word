@@ -1,10 +1,10 @@
 # Zacharjáš 13
 
-[1] V ten den bude otevřen pramen pro dům Davidův a pro obyvatele Jerusalemu, aby je očistil od hříchu a nečistoty.
+[1] V ten den bude otevřen pramen pro dům Davidův a pro obyvatele ⟦jerusalem|Jerušalajim|Jeruzaléma⟧, aby je očistil od hříchu a nečistoty.
 
-[2] „A v ten den, je výrok Yahweh zástupů, vyhladím jména model ze země, takže už nebudou připomínány. A také odstraním ze země proroky i ducha nečistoty.
+[2] „A v ten den, je výrok ⟦yhwh|Jahveho|Hospodina⟧ zástupů, vyhladím jména model ze země, takže už nebudou připomínány. A také odstraním ze země proroky i ducha nečistoty.
 
-[3] A bude-li ještě někdo prorokovat, jeho otec a matka, kteří ho zplodili, mu řeknou: ‚Nebudeš žít, neboť mluvíš lež ve jménu Yahweh.‘ A jeho otec a matka, kteří ho zplodili, ho probodnou, když bude prorokovat.
+[3] A bude-li ještě někdo prorokovat, jeho otec a matka, kteří ho zplodili, mu řeknou: ‚Nebudeš žít, neboť mluvíš lež ve jménu ⟦yhwh|Jahveho|Hospodina⟧.‘ A jeho otec a matka, kteří ho zplodili, ho probodnou, když bude prorokovat.
 
 [4] V ten den se každý prorok bude stydět za své vidění, když bude prorokovat. Neobleče si chlupatý plášť, aby klamal,
 
@@ -14,11 +14,11 @@
 
 [7] Probuď se, meči, proti mému pastýři,
 proti muži, který stojí vedle mě,“
-je výrok Yahweh zástupů.
+je výrok ⟦yhwh|Jahveho|Hospodina⟧ zástupů.
 „**Udeř pastýře, a ovce se rozprchnou;**
 obrátím svou ruku proti maličkým.
 
-[8] V celé zemi, je výrok Yahweh,
+[8] V celé zemi, je výrok ⟦yhwh|Jahveho|Hospodina⟧,
 budou dvě třetiny vyhlazeny a zahynou
 a jedna třetina zůstane naživu.
 
@@ -28,7 +28,7 @@ a vyzkouším je, jako se zkouší zlato.
 Budou vzývat mé jméno
 a já jim odpovím.
 Řeknu: ‚Jsou mým lidem‘;
-a oni řeknou: ‚Yahweh je můj *Elohim*.‘“
+a oni řeknou: ‚⟦yhwh|Jahve|Hospodin⟧ je můj ⟦elohim|Elohim|Bůh⟧.‘“
 
 ## Změny
 

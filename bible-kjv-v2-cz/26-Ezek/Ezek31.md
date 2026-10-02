@@ -1,12 +1,12 @@
 # Ezechiel 31
 
-[1] V jedenáctém roce, ve třetím měsíci, prvního dne toho měsíce, ke mně přišlo slovo Yahweh:
+[1] V jedenáctém roce, ve třetím měsíci, prvního dne toho měsíce, ke mně přišlo slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[2] „Synu člověka, řekni Pharaohovi, králi Egypta, a jeho množství:
+[2] „Synu člověka, řekni ⟦pharaoh|Parohovi|faraónovi⟧, králi ⟦egypt|Micrajim|Egypta⟧, a jeho množství:
 
 „Komu se podobáš ve své velikosti?
 
-[3] Hle, Assyrie byla cedrem na Lebanonu
+[3] Hle, ⟦assyria|Aššur byl|Asýrie byla⟧ cedrem na ⟦lebanon|Levanonu|Libanónu⟧
 s krásnými větvemi a lesním stínem,
 vysoko se tyčícím,
 s vrcholem mezi mračny.
@@ -33,16 +33,16 @@ a v jeho stínu bydlely všechny veliké národy.
 v délce svých ratolestí,
 neboť jeho kořeny sahaly k hojným vodám.
 
-[8] Cedry v zahradě *Elohim* se mu nemohly vyrovnat,
+[8] Cedry v zahradě ⟦elohim|Elohim|Boží⟧ se mu nemohly vyrovnat,
 jedle se nevyrovnaly jeho větvím,
 ani platany nebyly jako jeho ratolesti;
-žádný strom v zahradě *Elohim* se mu nevyrovnal krásou.
+žádný strom v zahradě ⟦elohim|Elohim|Boží⟧ se mu nevyrovnal krásou.
 
 [9] Učinil jsem ho krásným v hojnosti jeho ratolestí
-a všechny stromy Edenu mu záviděly,
-ty, které byly v zahradě *Elohim*.
+a všechny stromy ⟦eden|Edenu|Édenu⟧ mu záviděly,
+ty, které byly v zahradě ⟦elohim|Elohim|Boží⟧.
 
-[10] „Proto tak praví Pán Yahweh: Protože se tyčil vysoko a vztyčil svůj vrchol mezi mračna a jeho srdce se pyšnilo jeho výškou,
+[10] „Proto tak praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Protože se tyčil vysoko a vztyčil svůj vrchol mezi mračna a jeho srdce se pyšnilo jeho výškou,
 
 [11] vydám ho do ruky mocného mezi národy. Jistě s ním naloží, jak si jeho ničemnost zaslouží. Zavrhl jsem ho.
 
@@ -52,13 +52,13 @@ ty, které byly v zahradě *Elohim*.
 
 [14] To všechno proto, aby žádné stromy u vod nevyrostly do veliké výšky ani nevztyčily své vrcholy mezi mračna a aby žádné stromy, které pijí vodu, k nim nedosáhly výškou. Neboť všechny jsou vydány smrti, do světa dole, mezi lidské syny, k těm, kdo sestupují do jámy.
 
-[15] „Tak praví Pán Yahweh: V den, kdy cedr sestoupil do Sheol, způsobil jsem smutek; zakryl jsem nad ním hlubinu, zadržel její řeky a mnohé vody se zastavily. Kvůli němu jsem oděl Lebanon do chmuru a všechny stromy pole kvůli němu omdlely.
+[15] „Tak praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: V den, kdy cedr sestoupil do ⟦sheol|Šeolu|podsvětí⟧, způsobil jsem smutek; zakryl jsem nad ním hlubinu, zadržel její řeky a mnohé vody se zastavily. Kvůli němu jsem oděl ⟦lebanon|Levanon|Libanón⟧ do chmuru a všechny stromy pole kvůli němu omdlely.
 
-[16] Zvukem jeho pádu jsem roztřásl národy, když jsem ho svrhl do Sheol s těmi, kdo sestupují do jámy. A všechny stromy Edenu, výběr a to nejlepší z Lebanonu, všechny, které pijí vodu, byly utěšeny ve světě dole.
+[16] Zvukem jeho pádu jsem roztřásl národy, když jsem ho svrhl do ⟦sheol|Šeolu|podsvětí⟧ s těmi, kdo sestupují do jámy. A všechny stromy ⟦eden|Edenu|Édenu⟧, výběr a to nejlepší z ⟦lebanon|Levanonu|Libanónu⟧, všechny, které pijí vodu, byly utěšeny ve světě dole.
 
-[17] I ony s ním sestoupily do Sheol, k těm, kdo byli zabiti mečem; ano, ti, kdo byli jeho paží, kdo bydleli v jeho stínu mezi národy.
+[17] I ony s ním sestoupily do ⟦sheol|Šeolu|podsvětí⟧, k těm, kdo byli zabiti mečem; ano, ti, kdo byli jeho paží, kdo bydleli v jeho stínu mezi národy.
 
-[18] „Komu se tedy podobáš slávou a velikostí mezi stromy Edenu? Budeš svržen se stromy Edenu do světa dole. Budeš ležet mezi neobřezanými, s těmi, kdo byli zabiti mečem. To je Pharaoh a všechno jeho množství, je výrok Pána Yahweh.“
+[18] „Komu se tedy podobáš slávou a velikostí mezi stromy ⟦eden|Edenu|Édenu⟧? Budeš svržen se stromy ⟦eden|Edenu|Édenu⟧ do světa dole. Budeš ležet mezi neobřezanými, s těmi, kdo byli zabiti mečem. To je ⟦pharaoh|Paro|farao⟧ a všechno jeho množství, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.“
 
 ## Změny
 

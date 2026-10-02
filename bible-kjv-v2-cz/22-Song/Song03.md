@@ -19,7 +19,7 @@ Držela jsem ho a nepustila,
 dokud jsem ho neuvedla do domu své matky,
 do komnaty té, která mě počala.
 
-[5] Zapřísahám vás, dcery Jerusalema,
+[5] Zapřísahám vás, dcery ⟦jerusalem|Jerušalajim|Jeruzaléma⟧,
 při gazelách nebo laních v poli,
 abyste nebudily ani nevyrušovaly lásku,
 dokud se jí nezlíbí.
@@ -29,26 +29,26 @@ jako sloupy dýmu,
 provoněné myrhou a kadidlem,
 všemi vonnými prášky kupce?
 
-[7] Hle, to jsou nosítka Solomona!
+[7] Hle, to jsou nosítka ⟦solomon|Šloma|Šalomouna⟧!
 Kolem nich je šedesát bojovníků
-z bojovníků Israele,
+z bojovníků ⟦israel|Jisraele|Izraele⟧,
 
 [8] všichni ozbrojení meči,
 zběhlí ve válce,
 každý s mečem u boku
 proti hrůzám noci.
 
-[9] Král Solomon si udělal palankýn
-ze dřeva z Lebanonu.
+[9] Král ⟦solomon|Šlomo|Šalomoun⟧ si udělal palankýn
+ze dřeva z ⟦lebanon|Levanonu|Libanónu⟧.
 
 [10] Jeho sloupky udělal ze stříbra,
 opěradlo ze zlata,
 sedadlo z purpuru;
 jeho vnitřek byl vyložen láskou
-od dcer Jerusalema.
+od dcer ⟦jerusalem|Jerušalajim|Jeruzaléma⟧.
 
-[11] Vyjděte, dcery Zionu,
-a pohleďte na krále Solomona
+[11] Vyjděte, dcery ⟦zion|Cijonu|Sijónu⟧,
+a pohleďte na krále ⟦solomon|Šloma|Šalomouna⟧
 s korunou, kterou ho korunovala jeho matka
 v den jeho svatby,
 v den radosti jeho srdce.

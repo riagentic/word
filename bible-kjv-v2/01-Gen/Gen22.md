@@ -1,52 +1,52 @@
 # Genesis 22
 
-[1] After these things, *Elohim* tested Abraham. He said to him, "Abraham!" And he said, "Here I am."
+[1] After these things, ⟦elohim|Elohim|God⟧ tested ⟦abraham|Avraham|Abraham⟧. He said to him, "⟦abraham|Avraham|Abraham⟧!" And he said, "Here I am."
 
-[2] He said, "Take your son, please — your only one, whom you love, Isaac — and go to the land of Moriah, and offer him up there as a burnt offering on one of the mountains of which I shall tell you."
+[2] He said, "Take your son, please — your only one, whom you love, ⟦isaac|Yitzchaq|Isaac⟧ — and go to the land of ⟦moriah|Moriyyah|Moriah⟧, and offer him up there as a burnt offering on one of the mountains of which I shall tell you."
 
-[3] Abraham rose early in the morning, saddled his donkey, took two of his young men with him and Isaac his son; he split wood for the burnt offering, and set out for the place of which *Elohim* had told him.
+[3] ⟦abraham|Avraham|Abraham⟧ rose early in the morning, saddled his donkey, took two of his young men with him and ⟦isaac|Yitzchaq|Isaac⟧ his son; he split wood for the burnt offering, and set out for the place of which ⟦elohim|Elohim|God⟧ had told him.
 
-[4] On the third day Abraham lifted up his eyes and saw the place from afar.
+[4] On the third day ⟦abraham|Avraham|Abraham⟧ lifted up his eyes and saw the place from afar.
 
-[5] Abraham said to his young men, "Stay here with the donkey; I and the boy will go yonder, and we will worship, and we will return to you."
+[5] ⟦abraham|Avraham|Abraham⟧ said to his young men, "Stay here with the donkey; I and the boy will go yonder, and we will worship, and we will return to you."
 
-[6] Abraham took the wood for the burnt offering and laid it on Isaac his son; and he took in his hand the fire and the knife. So the two of them went together.
+[6] ⟦abraham|Avraham|Abraham⟧ took the wood for the burnt offering and laid it on ⟦isaac|Yitzchaq|Isaac⟧ his son; and he took in his hand the fire and the knife. So the two of them went together.
 
-[7] Isaac spoke to his father Abraham and said, "My father!" And he said, "Here I am, my son." He said, "Look, the fire and the wood — but where is the lamb for a burnt offering?"
+[7] ⟦isaac|Yitzchaq|Isaac⟧ spoke to his father ⟦abraham|Avraham|Abraham⟧ and said, "My father!" And he said, "Here I am, my son." He said, "Look, the fire and the wood — but where is the lamb for a burnt offering?"
 
-[8] Abraham said, "*Elohim* will see to the lamb for himself, for a burnt offering, my son." So the two of them went together.
+[8] ⟦abraham|Avraham|Abraham⟧ said, "⟦elohim|Elohim|God⟧ will see to the lamb for himself, for a burnt offering, my son." So the two of them went together.
 
-[9] They came to the place of which *Elohim* had told him, and Abraham built the altar there, arranged the wood, bound Isaac his son, and laid him on the altar, on top of the wood.
+[9] They came to the place of which ⟦elohim|Elohim|God⟧ had told him, and ⟦abraham|Avraham|Abraham⟧ built the altar there, arranged the wood, bound ⟦isaac|Yitzchaq|Isaac⟧ his son, and laid him on the altar, on top of the wood.
 
-[10] Then Abraham stretched out his hand and took the knife to slaughter his son.
+[10] Then ⟦abraham|Avraham|Abraham⟧ stretched out his hand and took the knife to slaughter his son.
 
-[11] But the messenger of Yahweh called to him from the heavens and said, "Abraham, Abraham!" He said, "Here I am."
+[11] But the messenger of ⟦yhwh|Yahweh|the LORD⟧ called to him from the heavens and said, "⟦abraham|Avraham|Abraham⟧, ⟦abraham|Avraham|Abraham⟧!" He said, "Here I am."
 
-[12] He said, "Do not lay your hand on the boy or do anything to him, for now I know that you fear *Elohim*, seeing that you have not withheld your son, your only one, from me."
+[12] He said, "Do not lay your hand on the boy or do anything to him, for now I know that you fear ⟦elohim|Elohim|God⟧, seeing that you have not withheld your son, your only one, from me."
 
-[13] Abraham lifted up his eyes and looked, and there, behind him, was a ram caught in the thicket by its horns. Abraham went and took the ram and offered it up as a burnt offering in place of his son.
+[13] ⟦abraham|Avraham|Abraham⟧ lifted up his eyes and looked, and there, behind him, was a ram caught in the thicket by its horns. ⟦abraham|Avraham|Abraham⟧ went and took the ram and offered it up as a burnt offering in place of his son.
 
-[14] Abraham called the name of that place "Yahweh Yireh" ("Yahweh will see / provide"); as it is said to this day, "On the mount of Yahweh it shall be seen / provided."
+[14] ⟦abraham|Avraham|Abraham⟧ called the name of that place ⟦yhwh-yireh|"Yahweh Yireh" ("Yahweh will see / provide")|"The LORD will provide"⟧; as it is said to this day, "On the mount of ⟦yhwh|Yahweh|the LORD⟧ it shall be seen / provided."
 
-[15] The messenger of Yahweh called to Abraham a second time from the heavens
+[15] The messenger of ⟦yhwh|Yahweh|the LORD⟧ called to ⟦abraham|Avraham|Abraham⟧ a second time from the heavens
 
-[16] and said, "By myself I have sworn, declares Yahweh: because you have done this thing, and have not withheld your son, your only one,
+[16] and said, "By myself I have sworn, declares ⟦yhwh|Yahweh|the LORD⟧: because you have done this thing, and have not withheld your son, your only one,
 
 [17] I will surely bless you, and surely multiply your offspring as the stars of the heavens and as the sand on the seashore; and your offspring shall possess the gate of their enemies.
 
 [18] And in your offspring all the nations of the earth shall find blessing — because you have obeyed my voice."
 
-[19] So Abraham returned to his young men, and they rose up and went together to Beersheba; and Abraham lived at Beersheba.
+[19] So ⟦abraham|Avraham|Abraham⟧ returned to his young men, and they rose up and went together to ⟦beersheba|Beer Sheva|Beersheba⟧; and ⟦abraham|Avraham|Abraham⟧ lived at ⟦beersheba|Beer Sheva|Beersheba⟧.
 
-[20] After these things it was told to Abraham, "Behold, Milcah too has borne sons to your brother Nahor:
+[20] After these things it was told to ⟦abraham|Avraham|Abraham⟧, "Behold, ⟦milcah|Milkah|Milcah⟧ too has borne sons to your brother ⟦nahor|Nachor|Nahor⟧:
 
-[21] Uz his firstborn, Buz his brother, Kemuel the father of Aram,
+[21] ⟦uz|Utz|Uz⟧ his firstborn, Buz his brother, ⟦kemuel|Qemuel|Kemuel⟧ the father of Aram,
 
-[22] Chesed, Hazo, Pildash, Jidlaph, and Bethuel."
+[22] ⟦chesed|Kesed|Chesed⟧, ⟦hazo|Chazo|Hazo⟧, Pildash, ⟦jidlaph|Yidlaf|Jidlaph⟧, and ⟦bethuel|Betuel|Bethuel⟧."
 
-[23] Bethuel fathered Rebekah. These eight Milcah bore to Nahor, Abraham's brother.
+[23] ⟦bethuel|Betuel|Bethuel⟧ fathered ⟦rebekah|Rivqah|Rebekah⟧. These eight ⟦milcah|Milkah|Milcah⟧ bore to ⟦nahor|Nachor|Nahor⟧, ⟦abraham|Avraham's|Abraham's⟧ brother.
 
-[24] His concubine, whose name was Reumah, also bore Tebah, Gaham, Tahash, and Maacah.
+[24] His concubine, whose name was Reumah, also bore ⟦tebah|Tevach|Tebah⟧, ⟦gaham|Gacham|Gaham⟧, ⟦tahash|Tachash|Tahash⟧, and ⟦maacah|Maachah|Maacah⟧.
 
 ## Changes
 

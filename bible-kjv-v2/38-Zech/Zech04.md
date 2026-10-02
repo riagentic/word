@@ -10,18 +10,18 @@
 
 [5] Then the messenger who talked with me answered and said to me, "Do you not know what these are?" I said, "No, my lord."
 
-[6] Then he said to me, "This is the word of Yahweh to Zerubbabel:
+[6] Then he said to me, "This is the word of ⟦yhwh|Yahweh|the LORD⟧ to ⟦zerubbabel|Zerubbavel|Zerubbabel⟧:
 
 **'Not by might, nor by power,
-but by my Spirit,' says Yahweh of Hosts.**
+but by my Spirit,' says ⟦yhwh|Yahweh|the LORD⟧ of Hosts.**
 
-[7] Who are you, O great mountain? Before Zerubbabel you shall become a plain. And he shall bring forward the top stone amid shouts of 'Grace, grace to it!'"
+[7] Who are you, O great mountain? Before ⟦zerubbabel|Zerubbavel|Zerubbabel⟧ you shall become a plain. And he shall bring forward the top stone amid shouts of 'Grace, grace to it!'"
 
-[8] Then the word of Yahweh came to me, saying,
+[8] Then the word of ⟦yhwh|Yahweh|the LORD⟧ came to me, saying,
 
-[9] "The hands of Zerubbabel have laid the foundation of this house; his hands shall also complete it. Then you will know that Yahweh of Hosts has sent me to you.
+[9] "The hands of ⟦zerubbabel|Zerubbavel|Zerubbabel⟧ have laid the foundation of this house; his hands shall also complete it. Then you will know that ⟦yhwh|Yahweh|the LORD⟧ of Hosts has sent me to you.
 
-[10] For whoever has despised the day of small things shall rejoice, and shall see the plumb line in the hand of Zerubbabel. These seven are the eyes of Yahweh, which range through the whole earth."
+[10] For whoever has despised the day of small things shall rejoice, and shall see the plumb line in the hand of ⟦zerubbabel|Zerubbavel|Zerubbabel⟧. These seven are the eyes of ⟦yhwh|Yahweh|the LORD⟧, which range through the whole earth."
 
 [11] Then I said to him, "What are these two olive trees on the right and the left of the lampstand?"
 

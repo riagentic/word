@@ -1,24 +1,24 @@
 # Jonáš 1
 
-[1] Slovo Yahweh se stalo k Jonahovi, synu Amittaiovu, takto:
+[1] Slovo ⟦yhwh|Jahveho|Hospodina⟧ se stalo k ⟦jonah|Jonovi|Jonášovi⟧, synu ⟦amittai|Amittajovu|Amitajovu⟧, takto:
 
-[2] „Vstaň, jdi do Ninevehu, toho velikého města, a volej proti němu, neboť jejich zlo vystoupilo přede mne.“
+[2] „Vstaň, jdi do ⟦nineveh|Ninve|Ninive⟧, toho velikého města, a volej proti němu, neboť jejich zlo vystoupilo přede mne.“
 
-[3] Ale Jonah vstal, aby utekl do Tarshishe pryč od tváře Yahweh. Sestoupil do Joppy a našel loď plující do Tarshishe. Zaplatil tedy jízdné a vstoupil na palubu, aby s nimi odplul do Tarshishe, pryč od tváře Yahweh.
+[3] Ale ⟦jonah|Jona|Jonáš⟧ vstal, aby utekl do ⟦tarshish|Taršiše|Taršíše⟧ pryč od tváře ⟦yhwh|Jahveho|Hospodina⟧. Sestoupil do Jafa a našel loď plující do ⟦tarshish|Taršiše|Taršíše⟧. Zaplatil tedy jízdné a vstoupil na palubu, aby s nimi odplul do ⟦tarshish|Taršiše|Taršíše⟧, pryč od tváře ⟦yhwh|Jahveho|Hospodina⟧.
 
-[4] Ale Yahweh vrhl na moře veliký vítr a na moři se strhla mocná bouře, takže loď hrozila, že se rozlomí.
+[4] Ale ⟦yhwh|Jahve|Hospodin⟧ vrhl na moře veliký vítr a na moři se strhla mocná bouře, takže loď hrozila, že se rozlomí.
 
-[5] Tu se námořníci ulekli a každý volal ke svému bohu. A náklad, který byl na lodi, vrhali do moře, aby si ji odlehčili. Ale Jonah sestoupil do nitra lodi, ulehl a tvrdě spal.
+[5] Tu se námořníci ulekli a každý volal ke svému bohu. A náklad, který byl na lodi, vrhali do moře, aby si ji odlehčili. Ale ⟦jonah|Jona|Jonáš⟧ sestoupil do nitra lodi, ulehl a tvrdě spal.
 
 [6] Přišel tedy k němu kapitán a řekl mu: „Co to děláš, ty spáči? Vstaň, volej ke svému bohu! Snad ten bůh na nás pomyslí, abychom nezahynuli.“
 
-[7] A řekli si navzájem: „Pojďte, metejme los, abychom poznali, kvůli komu nás toto zlo postihlo.“ Metali tedy los a los padl na Jonaha.
+[7] A řekli si navzájem: „Pojďte, metejme los, abychom poznali, kvůli komu nás toto zlo postihlo.“ Metali tedy los a los padl na ⟦jonah|Jonu|Jonáše⟧.
 
 [8] Tu mu řekli: „Pověz nám, kvůli komu nás toto zlo postihlo. Jaké je tvé zaměstnání? A odkud přicházíš? Jaká je tvá země? A z kterého lidu jsi?“
 
-[9] Odpověděl jim: „Jsem Hebrejec a bojím se Yahweh, *Elohim* nebes, který učinil moře i souš.“
+[9] Odpověděl jim: „Jsem ⟦hebrew|Ivri|Hebrejec⟧ a bojím se ⟦yhwh|Jahveho|Hospodina⟧, ⟦elohim|Elohim|Boha⟧ nebes, který učinil moře i souš.“
 
-[10] Tu se ti muži převelice ulekli a řekli mu: „Co jsi to udělal!“ Ti muži totiž věděli, že utíká od tváře Yahweh, protože jim to řekl.
+[10] Tu se ti muži převelice ulekli a řekli mu: „Co jsi to udělal!“ Ti muži totiž věděli, že utíká od tváře ⟦yhwh|Jahveho|Hospodina⟧, protože jim to řekl.
 
 [11] Tu mu řekli: „Co s tebou máme udělat, aby se nám moře utišilo?“ Moře se totiž bouřilo víc a víc.
 
@@ -26,13 +26,13 @@
 
 [13] Ti muži však usilovně veslovali, aby se dostali zpět k souši, ale nemohli, neboť moře se proti nim bouřilo víc a víc.
 
-[14] Proto volali k Yahweh: „Ach, Yahweh, nedej nám zahynout pro život tohoto muže a nevkládej na nás nevinnou krev, neboť ty, Yahweh, jsi učinil, jak se ti zalíbilo.“
+[14] Proto volali k ⟦yhwh|Jahvovi|Hospodinu⟧: „Ach, ⟦yhwh|Jahve|Hospodine⟧, nedej nám zahynout pro život tohoto muže a nevkládej na nás nevinnou krev, neboť ty, ⟦yhwh|Jahve|Hospodine⟧, jsi učinil, jak se ti zalíbilo.“
 
-[15] Zvedli tedy Jonaha a vrhli ho do moře a moře přestalo zuřit.
+[15] Zvedli tedy ⟦jonah|Jonu|Jonáše⟧ a vrhli ho do moře a moře přestalo zuřit.
 
-[16] Tu se ti muži převelice báli Yahweh, přinesli Yahweh oběť a složili sliby.
+[16] Tu se ti muži převelice báli ⟦yhwh|Jahveho|Hospodina⟧, přinesli ⟦yhwh|Jahvovi|Hospodinu⟧ oběť a složili sliby.
 
-[17] A Yahweh určil velikou rybu, aby Jonaha pohltila. A Jonah byl v břiše ryby tři dny a tři noci.
+[17] A ⟦yhwh|Jahve|Hospodin⟧ určil velikou rybu, aby ⟦jonah|Jonu|Jonáše⟧ pohltila. A ⟦jonah|Jona|Jonáš⟧ byl v břiše ryby tři dny a tři noci.
 
 ## Změny
 

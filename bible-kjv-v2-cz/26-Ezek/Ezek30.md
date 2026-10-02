@@ -1,102 +1,102 @@
 # Ezechiel 30
 
-[1] Ke mně přišlo slovo Yahweh:
+[1] Ke mně přišlo slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[2] „Synu člověka, prorokuj a řekni: Tak praví Pán Yahweh:
+[2] „Synu člověka, prorokuj a řekni: Tak praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧:
 
 „Kvílejte: ‚Běda, ten den!‘
 
 [3] Neboť den je blízko,
-den Yahweh je blízko;
+den ⟦yhwh|Jahve|Hospodin⟧ je blízko;
 bude to den mračen,
 čas zkázy pro národy.
 
-[4] Na Egypt přijde meč
-a v Cushi bude úzkost,
-až v Egyptě budou padat zabití,
+[4] Na ⟦egypt|Micrajim|Egypt⟧ přijde meč
+a v ⟦cush|Kuši|Kúši⟧ bude úzkost,
+až v ⟦egypt|Micrajim|Egyptě⟧ budou padat zabití,
 až bude odnášeno jeho bohatství
 a strhávány jeho základy.
 
-[5] Cush a Put a Lud a celá Arábie a Luv a lid země, jež je ve spolku, padnou spolu s nimi mečem.
+[5] ⟦cush|Kuš|Kúš⟧ a ⟦put|Put|Pút⟧ a ⟦lud|Lud|Lúd⟧ a celá ⟦arabia|Arav|Arábie⟧ a ⟦libya|Luv|Kúb⟧ a lid země, jež je ve spolku, padnou spolu s nimi mečem.
 
-[6] „Tak praví Yahweh:
+[6] „Tak praví ⟦yhwh|Jahve|Hospodin⟧:
 
-„Padnou ti, kdo podpírají Egypt,
+„Padnou ti, kdo podpírají ⟦egypt|Micrajim|Egypt⟧,
 a jeho pyšná moc klesne;
-od Migdolu po Syene v něm padnou mečem,
-je výrok Pána Yahweh.
+od ⟦migdol|Migdolu|Migdólu⟧ po ⟦syene|Sevene|Sevéne⟧ v něm padnou mečem,
+je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.
 
 [7] Budou zpustošeni uprostřed zpustošených zemí
 a jejich města budou uprostřed měst, jež leží v troskách.
 
-[8] Tehdy poznají, že já jsem Yahweh,
-až zapálím Egypt
+[8] Tehdy poznají, že já jsem ⟦yhwh|Jahve|Hospodin⟧,
+až zapálím ⟦egypt|Micrajim|Egypt⟧
 a všichni jeho pomocníci budou rozdrceni.
 
-[9] „V ten den vyjdou ode mne poslové na lodích, aby vyděsili bezstarostný Cush, a přijde na ně úzkost v den zkázy Egypta; neboť hle, přichází!
+[9] „V ten den vyjdou ode mne poslové na lodích, aby vyděsili bezstarostný ⟦cush|Kuš|Kúš⟧, a přijde na ně úzkost v den zkázy ⟦egypt|Micrajim|Egypta⟧; neboť hle, přichází!
 
-[10] „Tak praví Pán Yahweh:
+[10] „Tak praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧:
 
-„Učiním konec bohatství Egypta
-rukou Nebuchadrezzara, krále Babylonu.
+„Učiním konec bohatství ⟦egypt|Micrajim|Egypta⟧
+rukou ⟦nebuchadnezzar|Nevuchadrecara|Nebúkadnesara⟧, krále ⟦babylon|Bavelu|Babylóna⟧.
 
 [11] On a jeho lid s ním, nejkrutější z národů,
 budou přivedeni, aby zničili zemi;
-vytasí své meče proti Egyptu
+vytasí své meče proti ⟦egypt|Micrajim|Egyptu⟧
 a naplní zemi zabitými.
 
-[12] Vysuším Nil
+[12] Vysuším ⟦nile|Jeor|Nil⟧
 a prodám zemi do rukou zločinců;
 zpustoším zemi i všechno, co je v ní,
 rukou cizinců;
-já, Yahweh, jsem promluvil.
+já, ⟦yhwh|Jahve|Hospodin⟧, jsem promluvil.
 
-[13] „Tak praví Pán Yahweh:
+[13] „Tak praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧:
 
 „Zničím modly
-a učiním konec obrazům v Noph – Memphis.
-Už nebude kníže ze země egyptské;
-tak uvedu strach na zemi egyptskou.
+a učiním konec obrazům v ⟦memphis|Nof – Memfis|Memfidě⟧.
+Už nebude kníže ⟦egypt|ze země Micrajim|ze země egyptské⟧;
+tak uvedu strach na ⟦egypt|zemi Micrajim|zemi egyptskou⟧.
 
-[14] Učiním Pathros zpustošením,
-zapálím Zoan
-a vykonám soudy nad No – Théby.
+[14] Učiním Patros zpustošením,
+zapálím ⟦zoan|Coan|Sóan⟧
+a vykonám soudy nad ⟦thebes|No – Théby|Thébami⟧.
 
-[15] Vyleji svůj hněv na Sin – Pelusium,
-pevnost Egypta,
-a vyhladím množství No.
+[15] Vyleji svůj hněv na ⟦pelusium|Sin – Pelusium|Sín⟧,
+pevnost ⟦egypt|Micrajim|Egypta⟧,
+a vyhladím množství ⟦thebes|No|Théb⟧.
 
-[16] Zapálím Egypt;
-Sin se bude svíjet ve velké bolesti;
-No bude proraženo
-a Noph bude čelit nepřátelům za bílého dne.
+[16] Zapálím ⟦egypt|Micrajim|Egypt⟧;
+⟦pelusium|Sin|Sín⟧ se bude svíjet ve velké bolesti;
+⟦thebes|No bude proraženo|Théby budou proraženy⟧
+a ⟦memphis|Nof|Memfis⟧ bude čelit nepřátelům za bílého dne.
 
-[17] Mladí muži z On a z Pi-Beseth
+[17] Mladí muži z ⟦on|On|Ónu⟧ a z ⟦pi-beseth|Pi-vesetu|Pí-besetu⟧
 padnou mečem
 a ženy půjdou do zajetí.
 
-[18] V Tehaphnehes se den zatmí,
-až zlomím egyptská jha,
+[18] V ⟦tehaphnehes|Techafnechesu|Tachpanchésu⟧ se den zatmí,
+až zlomím ⟦egypt|jha Micrajim|egyptská jha⟧,
 a jeho pyšná moc v něm skončí;
 přikryje ho mračno
 a jeho dcery půjdou do zajetí.
 
-[19] Tak vykonám soudy nad Egyptem.
-Tehdy poznají, že já jsem Yahweh.“
+[19] Tak vykonám soudy nad ⟦egypt|Micrajim|Egyptem⟧.
+Tehdy poznají, že já jsem ⟦yhwh|Jahve|Hospodin⟧.“
 
-[20] V jedenáctém roce, v prvním měsíci, sedmého dne toho měsíce, ke mně přišlo slovo Yahweh:
+[20] V jedenáctém roce, v prvním měsíci, sedmého dne toho měsíce, ke mně přišlo slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[21] „Synu člověka, zlomil jsem paži Pharaoha, krále Egypta, a hle, nebyla obvázána, aby se zhojila, ovinuta obvazem, aby zesílila a mohla třímat meč.
+[21] „Synu člověka, zlomil jsem paži ⟦pharaoh|Paroha|faraóna⟧, krále ⟦egypt|Micrajim|Egypta⟧, a hle, nebyla obvázána, aby se zhojila, ovinuta obvazem, aby zesílila a mohla třímat meč.
 
-[22] Proto tak praví Pán Yahweh: Hle, jsem proti Pharaohovi, králi Egypta, a zlomím mu paže, tu silnou i tu, která už byla zlomená, a meč mu vypadne z ruky.
+[22] Proto tak praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Hle, jsem proti ⟦pharaoh|Parohovi|faraónovi⟧, králi ⟦egypt|Micrajim|Egypta⟧, a zlomím mu paže, tu silnou i tu, která už byla zlomená, a meč mu vypadne z ruky.
 
-[23] Rozptýlím Egypťany mezi národy a rozženu je po zemích.
+[23] Rozptýlím ⟦egyptians|Micrim|Egypťany⟧ mezi národy a rozženu je po zemích.
 
-[24] Posílím paže krále Babylonu a vložím mu do ruky svůj meč, ale Pharaohovi paže zlomím a bude před ním sténat jako smrtelně raněný.
+[24] Posílím paže krále ⟦babylon|Bavelu|Babylóna⟧ a vložím mu do ruky svůj meč, ale ⟦pharaoh|Parohovi|faraónovi⟧ paže zlomím a bude před ním sténat jako smrtelně raněný.
 
-[25] Posílím paže krále Babylonu, ale paže Pharaoha klesnou. Tehdy poznají, že já jsem Yahweh, až vložím svůj meč do ruky krále Babylonu a on jej napřáhne proti egyptské zemi.
+[25] Posílím paže krále ⟦babylon|Bavelu|Babylóna⟧, ale paže ⟦pharaoh|Paroha|faraóna⟧ klesnou. Tehdy poznají, že já jsem ⟦yhwh|Jahve|Hospodin⟧, až vložím svůj meč do ruky krále ⟦babylon|Bavelu|Babylóna⟧ a on jej napřáhne proti ⟦egypt|zemi Micrajim|egyptské zemi⟧.
 
-[26] Rozptýlím Egypťany mezi národy a rozženu je po zemích. Tehdy poznají, že já jsem Yahweh.“
+[26] Rozptýlím ⟦egyptians|Micrim|Egypťany⟧ mezi národy a rozženu je po zemích. Tehdy poznají, že já jsem ⟦yhwh|Jahve|Hospodin⟧.“
 
 ## Změny
 

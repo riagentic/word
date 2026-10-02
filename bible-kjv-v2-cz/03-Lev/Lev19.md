@@ -1,78 +1,78 @@
 # Leviticus 19
 
-[1] Yahweh promluvil k Mosesovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[2] „Mluv k celému shromáždění synů Israele a řekni jim: ‚Buďte svatí, neboť já, Yahweh, váš *Elohim*, jsem svatý.
+[2] „Mluv k celému shromáždění synů ⟦israel|Jisraele|Izraele⟧ a řekni jim: ‚Buďte svatí, neboť já, ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧, jsem svatý.
 
-[3] Každý z vás bude ctít svou matku a svého otce a zachovávat mé sabaty. Já jsem Yahweh, váš *Elohim*.
+[3] Každý z vás bude ctít svou matku a svého otce a zachovávat mé ⟦shabbat|šabaty|soboty⟧. Já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧.
 
-[4] Neobracejte se k modlám a nedělejte si lité bohy. Já jsem Yahweh, váš *Elohim*.
+[4] Neobracejte se k modlám a nedělejte si lité bohy. Já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧.
 
-[5] Když budete obětovat Yahweh pokojnou oběť, obětujte ji tak, abyste byli přijati.
+[5] Když budete obětovat ⟦yhwh|Jahvovi|Hospodinu⟧ pokojnou oběť, obětujte ji tak, abyste byli přijati.
 
 [6] Bude se jíst v den, kdy ji obětujete, nebo nazítří; co zbude do třetího dne, bude spáleno ohněm.
 
 [7] Bude-li se z ní něco jíst třetího dne, je to zkažené maso; nebude přijata.
 
-[8] Každý, kdo ji jí, ponese svou vinu, protože znesvětil, co je svaté Yahweh; ten člověk bude vyťat ze svého lidu.
+[8] Každý, kdo ji jí, ponese svou vinu, protože znesvětil, co je svaté ⟦yhwh|Jahvovi|Hospodinu⟧; ten člověk bude vyťat ze svého lidu.
 
 [9] Když budete sklízet úrodu své země, nebudeš sklízet až do samých okrajů svého pole a nebudeš sbírat paběrky své sklizně.
 
-[10] Svou vinici nepaběrkuj do čista a nesbírej spadlé hrozny své vinice; necháš je pro chudého a pro cizince. Já jsem Yahweh, váš *Elohim*.
+[10] Svou vinici nepaběrkuj do čista a nesbírej spadlé hrozny své vinice; necháš je pro chudého a pro cizince. Já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧.
 
 [11] Nebudete krást; nebudete jednat falešně; nebudete jeden druhému lhát.
 
-[12] Nebudete křivě přísahat při mém jménu, a tak znesvěcovat jméno svého *Elohim*. Já jsem Yahweh.
+[12] Nebudete křivě přísahat při mém jménu, a tak znesvěcovat jméno svého ⟦elohim|Elohim|Boha⟧. Já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
 [13] Nebudeš utlačovat svého bližního ani ho okrádat. Mzda nádeníka nezůstane u tebe přes noc až do rána.
 
-[14] Nebudeš zlořečit hluchému a nepoložíš překážku před slepého, ale budeš se bát svého *Elohim*. Já jsem Yahweh.
+[14] Nebudeš zlořečit hluchému a nepoložíš překážku před slepého, ale budeš se bát svého ⟦elohim|Elohim|Boha⟧. Já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
 [15] Nedopustíš se bezpráví v soudu; nebudeš straník chudého ani nebudeš ustupovat mocnému; spravedlivě budeš soudit svého bližního.
 
-[16] Nebudeš chodit jako pomlouvač mezi svým lidem; nepostavíš se proti krvi svého bližního. Já jsem Yahweh.
+[16] Nebudeš chodit jako pomlouvač mezi svým lidem; nepostavíš se proti krvi svého bližního. Já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
 [17] Nebudeš ve svém srdci nenávidět svého bratra. Svého bližního rozhodně pokárej, abys kvůli němu nenesl hřích.
 
-[18] Nebudeš se mstít ani chovat zášť vůči synům svého lidu, ale budeš milovat svého bližního jako sám sebe. Já jsem Yahweh.
+[18] Nebudeš se mstít ani chovat zášť vůči synům svého lidu, ale budeš milovat svého bližního jako sám sebe. Já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
 [19] Zachovávejte má ustanovení. Nedopustíš, aby se tvůj dobytek pářil s jiným druhem; neoseješ své pole dvojím semenem; a oděv ze dvou druhů látky smíšených dohromady na sebe nevezmeš.
 
 [20] Uléhá-li muž pohlavně se ženou, která je otrokyní určenou jinému muži, ale dosud nebyla vykoupena ani jí nebyla dána svoboda, bude vedeno vyšetřování; nebudou usmrceni, protože nebyla svobodná.
 
-[21] Přivede Yahweh svou oběť za vinu ke vchodu do stanu setkávání – berana jako oběť za vinu.
+[21] Přivede ⟦yhwh|Jahvovi|Hospodinu⟧ svou oběť za vinu ke vchodu do stanu setkávání – berana jako oběť za vinu.
 
-[22] Kněz za něj vykoná beranem oběti za vinu před Yahweh smíření za hřích, kterého se dopustil, a bude mu odpuštěn hřích, kterého se dopustil.
+[22] Kněz za něj vykoná beranem oběti za vinu před ⟦yhwh|Jahvem|Hospodinem⟧ smíření za hřích, kterého se dopustil, a bude mu odpuštěn hřích, kterého se dopustil.
 
 [23] Až přijdete do země a zasadíte jakýkoli ovocný strom, budete jeho plody považovat za neobřezané; tři roky vám budou neobřezané – nebudou se jíst.
 
-[24] Čtvrtého roku bude všechno jeho ovoce svaté – chvalebná oběť Yahweh.
+[24] Čtvrtého roku bude všechno jeho ovoce svaté – chvalebná oběť ⟦yhwh|Jahvovi|Hospodinu⟧.
 
-[25] Pátého roku smíte jíst jeho ovoce, aby vám vydával bohatší úrodu. Já jsem Yahweh, váš *Elohim*.
+[25] Pátého roku smíte jíst jeho ovoce, aby vám vydával bohatší úrodu. Já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧.
 
 [26] Nebudete jíst nic s krví. Nebudete provozovat věštění ani hadačství.
 
 [27] Nebudete zastřihovat okraj vlasů na své hlavě a neznetvoříte okraje svých vousů.
 
-[28] Nebudete si dělat zářezy na těle kvůli mrtvým a nebudete si dělat tetování. Já jsem Yahweh.
+[28] Nebudete si dělat zářezy na těle kvůli mrtvým a nebudete si dělat tetování. Já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
 [29] Neznesvěcuj svou dceru tím, že z ní uděláš prostitutku, aby země nepropadla prostituci a nebyla plná zvrhlosti.
 
-[30] Zachovávejte mé sabaty a mějte v úctě mou svatyni. Já jsem Yahweh.
+[30] Zachovávejte mé ⟦shabbat|šabaty|soboty⟧ a mějte v úctě mou svatyni. Já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
-[31] Neobracejte se k vyvolávačům duchů a nevyhledávejte spiritisty, abyste se jimi neposkvrnili. Já jsem Yahweh, váš *Elohim*.
+[31] Neobracejte se k vyvolávačům duchů a nevyhledávejte spiritisty, abyste se jimi neposkvrnili. Já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧.
 
-[32] Povstaneš před šedinami a prokážeš čest tváři starce a budeš se bát svého *Elohim*. Já jsem Yahweh.
+[32] Povstaneš před šedinami a prokážeš čest tváři starce a budeš se bát svého ⟦elohim|Elohim|Boha⟧. Já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
 [33] Když u tebe ve vaší zemi bude pobývat cizinec, nebudete mu křivdit.
 
-[34] Cizinec, který u vás pobývá, vám bude jako domorodec mezi vámi a budeš ho milovat jako sám sebe; neboť jste byli cizinci v zemi Egypt. Já jsem Yahweh, váš *Elohim*.
+[34] Cizinec, který u vás pobývá, vám bude jako domorodec mezi vámi a budeš ho milovat jako sám sebe; neboť jste byli cizinci v zemi ⟦egypt|Micrajim|Egypt⟧. Já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧.
 
 [35] Nedopustíte se bezpráví v soudu, v délce, váze ani množství.
 
-[36] Budete mít spravedlivé váhy, spravedlivá závaží, spravedlivou éfu a spravedlivý hin. Já jsem Yahweh, váš *Elohim*, který vás vyvedl ze země Egypt.
+[36] Budete mít spravedlivé váhy, spravedlivá závaží, spravedlivou éfu a spravedlivý hin. Já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧, který vás vyvedl ze země ⟦egypt|Micrajim|Egypt⟧.
 
-[37] Budete dbát na všechna má ustanovení a všechna má nařízení a plnit je. Já jsem Yahweh.‘“
+[37] Budete dbát na všechna má ustanovení a všechna má nařízení a plnit je. Já jsem ⟦yhwh|Jahve|Hospodin⟧.‘“
 
 ## Změny
 

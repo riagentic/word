@@ -1,34 +1,34 @@
 # Genesis 38
 
-[1] At that time Judah went down from his brothers and turned aside to a certain Adullamite whose name was Hirah.
+[1] At that time ⟦judah|Yehudah|Judah⟧ went down from his brothers and turned aside to a certain ⟦adullamite|Adullami|Adullamite⟧ whose name was ⟦hirah|Chirah|Hirah⟧.
 
-[2] There Judah saw the daughter of a certain Canaanite whose name was Shua; he took her and went in to her,
+[2] There ⟦judah|Yehudah|Judah⟧ saw the daughter of a certain ⟦canaanites|Kenaani|Canaanite⟧ whose name was Shua; he took her and went in to her,
 
 [3] and she conceived and bore a son, whom he named Er.
 
 [4] She conceived again and bore a son, and she named him Onan.
 
-[5] Yet again she bore a son and named him Shelah. It was at Chezib that she bore him.
+[5] Yet again she bore a son and named him Shelah. It was at ⟦chezib|Keziv|Chezib⟧ that she bore him.
 
-[6] Judah took a wife for Er his firstborn, whose name was Tamar.
+[6] ⟦judah|Yehudah|Judah⟧ took a wife for Er his firstborn, whose name was Tamar.
 
-[7] But Er, Judah's firstborn, was evil in the eyes of Yahweh; and Yahweh put him to death.
+[7] But Er, ⟦judah|Yehudah|Judah⟧'s firstborn, was evil in the eyes of ⟦yhwh|Yahweh|the LORD⟧; and ⟦yhwh|Yahweh|the LORD⟧ put him to death.
 
-[8] Then Judah said to Onan, "Go in to your brother's wife, and perform the duty of a levir-husband to her, and raise up offspring for your brother."
+[8] Then ⟦judah|Yehudah|Judah⟧ said to Onan, "Go in to your brother's wife, and perform the duty of a levir-husband to her, and raise up offspring for your brother."
 
 [9] But Onan knew that the offspring would not be his; so whenever he went in to his brother's wife, he spilled it on the ground, so as not to give offspring to his brother.
 
-[10] What he did was evil in the eyes of Yahweh, and he put him to death also.
+[10] What he did was evil in the eyes of ⟦yhwh|Yahweh|the LORD⟧, and he put him to death also.
 
-[11] Then Judah said to Tamar his daughter-in-law, "Remain a widow in your father's house until Shelah my son grows up." For he thought, "Lest he die, like his brothers." So Tamar went and dwelt in her father's house.
+[11] Then ⟦judah|Yehudah|Judah⟧ said to Tamar his daughter-in-law, "Remain a widow in your father's house until Shelah my son grows up." For he thought, "Lest he die, like his brothers." So Tamar went and dwelt in her father's house.
 
-[12] In the course of time Shua's daughter, Judah's wife, died; and after Judah was comforted, he went up to his sheepshearers at Timnah, he and his friend Hirah the Adullamite.
+[12] In the course of time Shua's daughter, ⟦judah|Yehudah|Judah⟧'s wife, died; and after ⟦judah|Yehudah|Judah⟧ was comforted, he went up to his sheepshearers at Timnah, he and his friend ⟦hirah|Chirah|Hirah⟧ the ⟦adullamite|Adullami|Adullamite⟧.
 
 [13] Tamar was told, "Behold, your father-in-law is going up to Timnah to shear his sheep."
 
-[14] She took off her widow's garments, covered herself with a veil and wrapped herself up, and sat at the entrance to Enaim, which is on the road to Timnah — for she saw that Shelah had grown up, and she had not been given to him as a wife.
+[14] She took off her widow's garments, covered herself with a veil and wrapped herself up, and sat at the entrance to ⟦enaim|Einayim|Enaim⟧, which is on the road to Timnah — for she saw that Shelah had grown up, and she had not been given to him as a wife.
 
-[15] When Judah saw her he thought she was a prostitute, because she had covered her face.
+[15] When ⟦judah|Yehudah|Judah⟧ saw her he thought she was a prostitute, because she had covered her face.
 
 [16] He turned to her by the way and said, "Come, please, let me come in to you" — for he did not know that she was his daughter-in-law. She said, "What will you give me, that you may come in to me?"
 
@@ -38,27 +38,27 @@
 
 [19] Then she rose and went away, and put off her veil and put on the garments of her widowhood.
 
-[20] When Judah sent the young goat by the hand of his friend the Adullamite, to receive the pledge from the woman's hand, he did not find her.
+[20] When ⟦judah|Yehudah|Judah⟧ sent the young goat by the hand of his friend the ⟦adullamite|Adullami|Adullamite⟧, to receive the pledge from the woman's hand, he did not find her.
 
-[21] He asked the men of the place, saying, "Where is the cult-prostitute who was at Enaim by the wayside?" And they said, "There has been no cult-prostitute here."
+[21] He asked the men of the place, saying, "Where is the cult-prostitute who was at ⟦enaim|Einayim|Enaim⟧ by the wayside?" And they said, "There has been no cult-prostitute here."
 
-[22] So he returned to Judah and said, "I have not found her; and also the men of the place said, 'There has been no cult-prostitute here.'"
+[22] So he returned to ⟦judah|Yehudah|Judah⟧ and said, "I have not found her; and also the men of the place said, 'There has been no cult-prostitute here.'"
 
-[23] Judah said, "Let her take them for herself, lest we become a laughingstock. Behold, I sent this young goat, and you did not find her."
+[23] ⟦judah|Yehudah|Judah⟧ said, "Let her take them for herself, lest we become a laughingstock. Behold, I sent this young goat, and you did not find her."
 
-[24] About three months later Judah was told, "Your daughter-in-law Tamar has played the prostitute; moreover, behold, she is with child by prostitution." Judah said, "Bring her out, and let her be burned."
+[24] About three months later ⟦judah|Yehudah|Judah⟧ was told, "Your daughter-in-law Tamar has played the prostitute; moreover, behold, she is with child by prostitution." ⟦judah|Yehudah|Judah⟧ said, "Bring her out, and let her be burned."
 
 [25] As she was being brought out, she sent to her father-in-law, saying, "By the man to whom these belong, I am with child." And she said, "Please examine: whose are these, the seal and cord, and the staff?"
 
-[26] Judah recognized them and said, "She is more righteous than I, since I did not give her to my son Shelah." And he did not know her again.
+[26] ⟦judah|Yehudah|Judah⟧ recognized them and said, "She is more righteous than I, since I did not give her to my son Shelah." And he did not know her again.
 
 [27] When the time of her delivery came, behold, there were twins in her womb.
 
 [28] While she was giving birth, one put out a hand, and the midwife took and bound on his hand a scarlet thread, saying, "This one came out first."
 
-[29] But as he drew back his hand, behold, his brother came out. And she said, "What a breach you have made for yourself!" Therefore his name was called Perez.
+[29] But as he drew back his hand, behold, his brother came out. And she said, "What a breach you have made for yourself!" Therefore his name was called ⟦perez|Peretz|Perez⟧.
 
-[30] Afterward his brother came out, with the scarlet thread on his hand, and he was named Zerah.
+[30] Afterward his brother came out, with the scarlet thread on his hand, and he was named ⟦zerah|Zerach|Zerah⟧.
 
 ## Changes
 

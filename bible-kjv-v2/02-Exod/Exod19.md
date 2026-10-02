@@ -1,54 +1,54 @@
 # Exodus 19
 
-[1] In the third month after the children of Israel had gone out of the land of Egypt, on that very day they came to the Wilderness of Sinai.
+[1] In the third month after the children of ⟦israel|Yisrael|Israel⟧ had gone out of the land of ⟦egypt|Mitzrayim|Egypt⟧, on that very day they came to the Wilderness of Sinai.
 
-[2] They set out from Rephidim and came to the Wilderness of Sinai, and they encamped in the wilderness; Israel camped there before the mountain.
+[2] They set out from ⟦rephidim|Refidim|Rephidim⟧ and came to the Wilderness of Sinai, and they encamped in the wilderness; ⟦israel|Yisrael|Israel⟧ camped there before the mountain.
 
-[3] Moses went up to *Elohim*, and Yahweh called to him from the mountain, saying, "Thus you shall say to the house of Jacob, and declare to the children of Israel:
+[3] ⟦moses|Moshe|Moses⟧ went up to ⟦elohim|Elohim|God⟧, and ⟦yhwh|Yahweh|the LORD⟧ called to him from the mountain, saying, "Thus you shall say to the house of ⟦jacob|Yaaqov|Jacob⟧, and declare to the children of ⟦israel|Yisrael|Israel⟧:
 
-[4] 'You have seen what I did to the Egyptians, and how I bore you on eagles' wings and brought you to myself.
+[4] 'You have seen what I did to the ⟦egyptians|Mitzrim|Egyptians⟧, and how I bore you on eagles' wings and brought you to myself.
 
 [5] Now then, if you will indeed listen to my voice and keep my covenant, you shall be my own treasured possession out of all the peoples — for all the earth is mine.
 
-[6] And you shall be for me a kingdom of priests and a holy nation.' These are the words that you shall speak to the children of Israel."
+[6] And you shall be for me a kingdom of priests and a holy nation.' These are the words that you shall speak to the children of ⟦israel|Yisrael|Israel⟧."
 
-[7] Moses came and called the elders of the people, and set before them all these words that Yahweh had commanded him.
+[7] ⟦moses|Moshe|Moses⟧ came and called the elders of the people, and set before them all these words that ⟦yhwh|Yahweh|the LORD⟧ had commanded him.
 
-[8] All the people answered together and said, "All that Yahweh has spoken we will do." Moses brought back the words of the people to Yahweh.
+[8] All the people answered together and said, "All that ⟦yhwh|Yahweh|the LORD⟧ has spoken we will do." ⟦moses|Moshe|Moses⟧ brought back the words of the people to ⟦yhwh|Yahweh|the LORD⟧.
 
-[9] Yahweh said to Moses, "Behold, I am coming to you in a thick cloud, so that the people may hear when I speak with you, and may believe in you forever." And Moses reported the words of the people to Yahweh.
+[9] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Behold, I am coming to you in a thick cloud, so that the people may hear when I speak with you, and may believe in you forever." And ⟦moses|Moshe|Moses⟧ reported the words of the people to ⟦yhwh|Yahweh|the LORD⟧.
 
-[10] Yahweh said to Moses, "Go to the people and consecrate them today and tomorrow; let them wash their garments,
+[10] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Go to the people and consecrate them today and tomorrow; let them wash their garments,
 
-[11] and be ready for the third day; for on the third day Yahweh will come down on Mount Sinai in the sight of all the people.
+[11] and be ready for the third day; for on the third day ⟦yhwh|Yahweh|the LORD⟧ will come down on Mount Sinai in the sight of all the people.
 
 [12] You shall set limits for the people all around, saying, 'Take care not to go up into the mountain or to touch the edge of it; whoever touches the mountain shall surely be put to death.
 
 [13] No hand shall touch him, but he shall surely be stoned or shot through; whether beast or man, it shall not live.' When the ram's horn sounds a long blast, they may go up to the mountain."
 
-[14] Moses went down from the mountain to the people and consecrated the people; and they washed their garments.
+[14] ⟦moses|Moshe|Moses⟧ went down from the mountain to the people and consecrated the people; and they washed their garments.
 
 [15] He said to the people, "Be ready for the third day; do not go near a woman."
 
 [16] On the third day, in the morning, there were thunders and lightnings, and a thick cloud on the mountain, and the sound of a very loud ram's horn; and all the people in the camp trembled.
 
-[17] Moses brought the people out of the camp to meet *Elohim*, and they stood at the foot of the mountain.
+[17] ⟦moses|Moshe|Moses⟧ brought the people out of the camp to meet ⟦elohim|Elohim|God⟧, and they stood at the foot of the mountain.
 
-[18] Mount Sinai was wrapped in smoke, because Yahweh had descended on it in fire; its smoke went up like the smoke of a kiln, and the whole mountain shook violently.
+[18] Mount Sinai was wrapped in smoke, because ⟦yhwh|Yahweh|the LORD⟧ had descended on it in fire; its smoke went up like the smoke of a kiln, and the whole mountain shook violently.
 
-[19] When the sound of the ram's horn grew louder and louder, Moses spoke, and *Elohim* answered him in thunder.
+[19] When the sound of the ram's horn grew louder and louder, ⟦moses|Moshe|Moses⟧ spoke, and ⟦elohim|Elohim|God⟧ answered him in thunder.
 
-[20] Yahweh came down on Mount Sinai, on the top of the mountain; and Yahweh called Moses to the top of the mountain, and Moses went up.
+[20] ⟦yhwh|Yahweh|The LORD⟧ came down on Mount Sinai, on the top of the mountain; and ⟦yhwh|Yahweh|the LORD⟧ called ⟦moses|Moshe|Moses⟧ to the top of the mountain, and ⟦moses|Moshe|Moses⟧ went up.
 
-[21] Yahweh said to Moses, "Go down, warn the people, lest they break through to Yahweh to look, and many of them perish.
+[21] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Go down, warn the people, lest they break through to ⟦yhwh|Yahweh|the LORD⟧ to look, and many of them perish.
 
-[22] Even the priests who come near to Yahweh must consecrate themselves, lest Yahweh break out against them."
+[22] Even the priests who come near to ⟦yhwh|Yahweh|the LORD⟧ must consecrate themselves, lest ⟦yhwh|Yahweh|the LORD⟧ break out against them."
 
-[23] Moses said to Yahweh, "The people cannot come up to Mount Sinai, for you yourself warned us, saying, 'Set limits around the mountain and consecrate it.'"
+[23] ⟦moses|Moshe|Moses⟧ said to ⟦yhwh|Yahweh|the LORD⟧, "The people cannot come up to Mount Sinai, for you yourself warned us, saying, 'Set limits around the mountain and consecrate it.'"
 
-[24] Yahweh said to him, "Go, get down; and come up, you and Aaron with you. But let not the priests and the people break through to come up to Yahweh, lest he break out against them."
+[24] ⟦yhwh|Yahweh|The LORD⟧ said to him, "Go, get down; and come up, you and ⟦aaron|Aharon|Aaron⟧ with you. But let not the priests and the people break through to come up to ⟦yhwh|Yahweh|the LORD⟧, lest he break out against them."
 
-[25] So Moses went down to the people and told them.
+[25] So ⟦moses|Moshe|Moses⟧ went down to the people and told them.
 
 ## Changes
 

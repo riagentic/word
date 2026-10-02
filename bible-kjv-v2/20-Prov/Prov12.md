@@ -3,7 +3,7 @@
 [1] Whoever loves discipline loves knowledge,
 but he who hates reproof is stupid.
 
-[2] A good man obtains favor from Yahweh,
+[2] A good man obtains favor from ⟦yhwh|Yahweh|the LORD⟧,
 but a man of evil schemes he condemns.
 
 [3] No one is established by wickedness,
@@ -63,7 +63,7 @@ but those who plan peace have joy.
 [21] No ill befalls the righteous,
 but the wicked are filled with trouble.
 
-[22] Lying lips are an abomination to Yahweh,
+[22] Lying lips are an abomination to ⟦yhwh|Yahweh|the LORD⟧,
 but those who act faithfully are his delight.
 
 [23] A prudent man conceals knowledge,

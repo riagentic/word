@@ -6,23 +6,23 @@
 
 [3] For we ourselves were once foolish, disobedient, led astray, slaves to various passions and pleasures, passing our days in malice and envy, hated by others and hating one another.
 
-[4] But when the goodness and loving kindness of *Elohim* our Savior appeared,
+[4] But when the goodness and loving kindness of ⟦elohim|Elohim|God⟧ our Savior appeared,
 
-[5] he saved us, **not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the *Ruach HaQodesh***,
+[5] he saved us, **not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧**,
 
-[6] whom he poured out on us richly through *Yeshua* the *Mashiach* our Savior,
+[6] whom he poured out on us richly through ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧ our Savior,
 
 [7] so that being justified by his grace we might become heirs according to the hope of eternal life.
 
-[8] The saying is trustworthy, and I want you to insist on these things, so that those who have believed in *Elohim* may be careful to devote themselves to good works. These things are excellent and profitable for people.
+[8] The saying is trustworthy, and I want you to insist on these things, so that those who have believed in ⟦elohim|Elohim|God⟧ may be careful to devote themselves to good works. These things are excellent and profitable for people.
 
-[9] But avoid foolish controversies, genealogies, dissensions, and quarrels about the law, for they are unprofitable and worthless.
+[9] But avoid foolish controversies, genealogies, dissensions, and quarrels about the ⟦torah|Torah|law⟧, for they are unprofitable and worthless.
 
 [10] As for a person who stirs up division, after warning him once and then twice, have nothing more to do with him,
 
 [11] knowing that such a person is warped and sinful; he is self-condemned.
 
-[12] When I send Artemas or Tychicus to you, do your best to come to me at Nikopolis, for I have decided to spend the winter there.
+[12] When I send Artemas or ⟦tychicus|Tychikos|Tychicus⟧ to you, do your best to come to me at ⟦nicopolis|Nikopolis|Nicopolis⟧, for I have decided to spend the winter there.
 
 [13] Do your best to speed Zenas the lawyer and Apollos on their way; see that they lack nothing.
 

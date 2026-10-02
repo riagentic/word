@@ -47,7 +47,7 @@ the sea says, 'It is not with me.'
 [15] It cannot be bought for pure gold,
 nor can silver be weighed for its price.
 
-[16] It cannot be valued with gold of Ophir,
+[16] It cannot be valued with gold of ⟦ophir|Ofir|Ophir⟧,
 with precious onyx or sapphire.
 
 [17] Gold and glass cannot equal it,
@@ -56,7 +56,7 @@ nor can it be exchanged for articles of fine gold.
 [18] Coral and crystal are not to be mentioned;
 the pulling out of wisdom is above rubies.
 
-[19] The topaz of Cush cannot equal it,
+[19] The topaz of ⟦cush|Kush|Ethiopia⟧ cannot equal it,
 nor can it be valued in pure gold.
 
 [20] From where, then, does wisdom come?
@@ -65,10 +65,10 @@ Where is the place of understanding?
 [21] It is hidden from the eyes of all living
 and concealed from the birds of the sky.
 
-[22] Abaddon and Death say,
+[22] ⟦abaddon|Avaddon|Abaddon⟧ and Death say,
 'We have heard a rumor of it with our ears.'
 
-[23] *Elohim* understands the way to it;
+[23] ⟦elohim|Elohim|God⟧ understands the way to it;
 he knows its place.
 
 [24] For he looks to the ends of the earth
@@ -84,7 +84,7 @@ and a way for the thunderbolt,
 he established it and searched it out.
 
 [28] And he said to man:
-'Behold, the fear of the Lord — that is wisdom,
+'Behold, the fear of ⟦adonai|Adonai|the Lord⟧ — that is wisdom,
 and to turn from evil is understanding.'"
 
 ## Changes

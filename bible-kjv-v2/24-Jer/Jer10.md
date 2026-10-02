@@ -1,14 +1,14 @@
 # Jeremiah 10
 
-[1] Hear the word that Yahweh speaks to you, O house of Israel.
+[1] Hear the word that ⟦yhwh|Yahweh|the LORD⟧ speaks to you, O house of ⟦israel|Yisrael|Israel⟧.
 
-[2] Thus says Yahweh:
+[2] Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
 "Learn not the way of the nations,
 nor be dismayed at the signs of the heavens
 because the nations are dismayed at them,
 
-[3] for the chuqot — customs of the peoples are vanity.
+[3] for the ⟦chuqqot|chuqot — customs|customs⟧ of the peoples are vanity.
 A tree from the forest is cut down
 and worked with an axe by the hands of a craftsman.
 
@@ -24,7 +24,7 @@ Do not be afraid of them,
 for they cannot do evil,
 neither is it in them to do good."
 
-[6] There is none like you, O Yahweh;
+[6] There is none like you, O ⟦yhwh|Yahweh|LORD⟧;
 you are great, and your name is great in might.
 
 [7] Who would not fear you, O King of the nations?
@@ -37,13 +37,13 @@ there is none like you.
 the instruction of idols is but wood!
 
 [9] Beaten silver is brought from Tarshish,
-and gold from Uphaz.
+and gold from ⟦uphaz|Ufaz|Uphaz⟧.
 They are the work of the craftsman and of the hands of the goldsmith;
 their clothing is violet and purple;
 they are all the work of skilled men.
 
-[10] But Yahweh is the true *Elohim*;
-he is the living *Elohim* and the everlasting King.
+[10] But ⟦yhwh|Yahweh|the LORD⟧ is the true ⟦elohim|Elohim|God⟧;
+he is the living ⟦elohim|Elohim|God⟧ and the everlasting King.
 At his wrath the earth quakes,
 and the nations cannot endure his indignation.
 
@@ -66,15 +66,15 @@ and there is no breath in them.
 [15] They are worthless, a work of delusion;
 at the time of their punishment they shall perish.
 
-[16] Not like these is he who is the portion of Jacob,
+[16] Not like these is he who is the portion of ⟦jacob|Yaaqov|Jacob⟧,
 for he is the one who formed all things,
-and Israel is the tribe of his inheritance;
-Yahweh of Hosts is his name.
+and ⟦israel|Yisrael|Israel⟧ is the tribe of his inheritance;
+⟦yhwh|Yahweh|the LORD⟧ of Hosts is his name.
 
 [17] Gather up your bundle from the ground,
 O you who dwell under siege!
 
-[18] For thus says Yahweh:
+[18] For thus says ⟦yhwh|Yahweh|the LORD⟧:
 "Behold, I am slinging out the inhabitants of the land
 at this time,
 and I will bring distress on them,
@@ -93,25 +93,25 @@ there is no one to spread my tent again
 and to set up my curtains.
 
 [21] For the shepherds are stupid
-and do not inquire of Yahweh;
+and do not inquire of ⟦yhwh|Yahweh|the LORD⟧;
 therefore they have not prospered,
 and all their flock is scattered.
 
 [22] A voice, a rumor! Behold, it comes! —
 a great commotion out of the north country
-to make the cities of Judah a desolation,
+to make the cities of ⟦judah|Yehudah|Judah⟧ a desolation,
 a lair of jackals.
 
-[23] I know, O Yahweh, that the way of man is not in himself,
+[23] I know, O ⟦yhwh|Yahweh|LORD⟧, that the way of man is not in himself,
 that it is not in man who walks to direct his steps.
 
-[24] Correct me, O Yahweh, but in justice;
+[24] Correct me, O ⟦yhwh|Yahweh|LORD⟧, but in justice;
 not in your anger, lest you bring me to nothing.
 
 [25] Pour out your wrath on the nations
 that know you not,
 and on the peoples that call not on your name,
-for they have devoured Jacob;
+for they have devoured ⟦jacob|Yaaqov|Jacob⟧;
 they have devoured him and consumed him,
 and have laid waste his habitation.
 

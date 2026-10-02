@@ -48,7 +48,7 @@ or a wild beast may trample them.
 [16] She treats her young harshly, as if they were not hers;
 though her labor be in vain, she has no fear,
 
-[17] because Eloah made her forget wisdom
+[17] because ⟦eloah|Eloah|God⟧ made her forget wisdom
 and gave her no share in understanding.
 
 [18] When she arouses herself to flee,
@@ -70,9 +70,9 @@ he does not turn back from the sword.
 the flashing spear and the javelin.
 
 [24] With fierceness and fury he swallows the ground;
-he cannot stand still when the shofar sounds.
+he cannot stand still when the ⟦shofar|shofar|trumpet⟧ sounds.
 
-[25] When the shofar sounds he says, 'Aha!'
+[25] When the ⟦shofar|shofar|trumpet⟧ sounds he says, 'Aha!'
 he smells the battle from afar,
 the thunder of the captains and the war shout.
 

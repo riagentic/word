@@ -1,6 +1,6 @@
 # Zjevení 11
 
-[1] Potom mi byla dána měřicí tyč podobná holi a bylo mi řečeno: „Vstaň a změř chrám *Elohim* a oltář a ty, kdo se tam klanějí,
+[1] Potom mi byla dána měřicí tyč podobná holi a bylo mi řečeno: „Vstaň a změř chrám ⟦elohim|Elohim|Boží⟧ a oltář a ty, kdo se tam klanějí,
 
 [2] ale nádvoří vně chrámu neměř; to vynech, neboť je vydáno národům a ty budou šlapat svaté město čtyřicet dva měsíce.
 
@@ -14,27 +14,27 @@
 
 [7] A až dokončí své svědectví, šelma, která vystupuje z propasti, s nimi povede válku, přemůže je a zabije je,
 
-[8] a jejich mrtvá těla budou ležet na ulici velikého města, které se obrazně nazývá Sodom a Egypt, kde byl také ukřižován jejich Pán.
+[8] a jejich mrtvá těla budou ležet na ulici velikého města, které se obrazně nazývá ⟦sodom|Sedom|Sodoma⟧ a ⟦egypt|Micrajim|Egypt⟧, kde byl také ukřižován jejich Pán.
 
 [9] Po tři a půl dne budou někteří z lidů, kmenů, jazyků a národů hledět na jejich mrtvá těla a nedovolí je uložit do hrobu,
 
 [10] a ti, kdo bydlí na zemi, se budou nad nimi radovat a veselit a posílat si navzájem dary, protože tito dva proroci byli trýzní pro ty, kdo bydlí na zemi.
 
-[11] Ale po těch třech a půl dnech do nich vešel dech života od *Elohim* a postavili se na nohy, a na ty, kdo je viděli, padl veliký strach.
+[11] Ale po těch třech a půl dnech do nich vešel dech života od ⟦elohim|Elohim|Boha⟧ a postavili se na nohy, a na ty, kdo je viděli, padl veliký strach.
 
 [12] Tu uslyšeli silný hlas z nebe, jak jim říká: „Vystupte sem!“ A vystoupili v oblaku do nebe a jejich nepřátelé se na ně dívali.
 
-[13] V tu hodinu nastalo veliké zemětřesení a desetina města se zřítila. Při zemětřesení bylo zabito sedm tisíc lidí a ostatní se zděsili a vzdali slávu *Elohim* nebes.
+[13] V tu hodinu nastalo veliké zemětřesení a desetina města se zřítila. Při zemětřesení bylo zabito sedm tisíc lidí a ostatní se zděsili a vzdali slávu ⟦elohim|Elohim|Bohu⟧ nebes.
 
 [14] Druhé běda pominulo; hle, třetí běda brzy přijde.
 
-[15] Potom sedmý anděl zatroubil, a v nebi se ozvaly silné hlasy: „**Království světa se stalo královstvím našeho Pána a jeho *Mashiacha*, a bude kralovat na věky věků.**“
+[15] Potom sedmý anděl zatroubil, a v nebi se ozvaly silné hlasy: „**Království světa se stalo královstvím našeho Pána a jeho ⟦mashiach|Mašiacha|Mesiáše⟧, a bude kralovat na věky věků.**“
 
-[16] A dvacet čtyři starších, kteří sedí na svých trůnech před *Elohim*, padlo na tvář a klanělo se *Elohim*
+[16] A dvacet čtyři starších, kteří sedí na svých trůnech před ⟦elohim|Elohim|Bohem⟧, padlo na tvář a klanělo se ⟦elohim|Elohim|Bohu⟧
 
 [17] se slovy:
 
-„**Děkujeme ti, Pane *Elohim* Všemohoucí,
+„**Děkujeme ti, Pane ⟦elohim|Elohim|Bože⟧ Všemohoucí,
 který jsi a který jsi byl,
 že ses chopil své veliké moci
 a ujal ses vlády.
@@ -46,7 +46,7 @@ a těm, kdo se bojí tvého jména,
 malým i velkým,
 a aby byli zahubeni ti, kdo hubí zemi**.“
 
-[19] Tu se otevřel chrám *Elohim* v nebi a v jeho chrámu se ukázala truhla jeho smlouvy. A nastaly blesky, hlučení, rachoty hromů, zemětřesení a silné krupobití.
+[19] Tu se otevřel chrám ⟦elohim|Elohim|Boží⟧ v nebi a v jeho chrámu se ukázala truhla jeho smlouvy. A nastaly blesky, hlučení, rachoty hromů, zemětřesení a silné krupobití.
 
 ## Změny
 

@@ -1,38 +1,38 @@
 # Matouš 12
 
-[1] V ten čas šel *Yeshua* v sabat obilnými poli. Jeho učedníci měli hlad a začali trhat klasy a jíst.
+[1] V ten čas šel ⟦yeshua|Ješua|Ježíš⟧ v ⟦shabbat|šabat|sobotu⟧ obilnými poli. Jeho učedníci měli hlad a začali trhat klasy a jíst.
 
-[2] Když to farizeové uviděli, řekli mu: „Hle, tvoji učedníci dělají, co v sabat není dovoleno dělat.“
+[2] Když to ⟦pharisees|perušim|farizeové⟧ uviděli, řekli mu: „Hle, tvoji učedníci dělají, co v ⟦shabbat|šabat|sobotu⟧ není dovoleno dělat.“
 
 [3] Řekl jim: „Nečetli jste, co udělal David, když dostal hlad on i ti, kdo byli s ním:
 
-[4] jak vešel do domu *Elohim* a jedl chleby Přítomnosti, které nesměl jíst on ani ti, kdo byli s ním, ale jen kněží?
+[4] jak vešel do domu ⟦elohim|Elohim|Božího⟧ a jedl chleby Přítomnosti, které nesměl jíst on ani ti, kdo byli s ním, ale jen kněží?
 
-[5] Nebo jste nečetli v Zákoně, že kněží v chrámu v sabat porušují sabat, a přece jsou bez viny?
+[5] Nebo jste nečetli v ⟦torah|Tóře|Zákoně⟧, že kněží v chrámu v ⟦shabbat|šabat|sobotu⟧ porušují ⟦shabbat|šabat|sobotu⟧, a přece jsou bez viny?
 
 [6] Pravím vám, že zde je něco většího než chrám.
 
 [7] Kdybyste věděli, co znamená: ‚**Chci milosrdenství, a ne oběť**,‘ neodsoudili byste nevinné.
 
-[8] Neboť Syn člověka je Pánem sabatu.“
+[8] Neboť Syn člověka je Pánem ⟦shabbat|šabatu|soboty⟧.“
 
 [9] Odešel odtud a vešel do jejich synagogy.
 
-[10] A byl tam člověk s odumřelou rukou. I zeptali se ho: „Je dovoleno v sabat uzdravovat?“ – aby ho mohli obžalovat.
+[10] A byl tam člověk s odumřelou rukou. I zeptali se ho: „Je dovoleno v ⟦shabbat|šabat|sobotu⟧ uzdravovat?“ – aby ho mohli obžalovat.
 
-[11] Řekl jim: „Kdo z vás, má-li ovci a ta mu v sabat spadne do jámy, ji neuchopí a nevytáhne?
+[11] Řekl jim: „Kdo z vás, má-li ovci a ta mu v ⟦shabbat|šabat|sobotu⟧ spadne do jámy, ji neuchopí a nevytáhne?
 
-[12] Oč cennější je člověk než ovce! Je tedy dovoleno v sabat činit dobro.“
+[12] Oč cennější je člověk než ovce! Je tedy dovoleno v ⟦shabbat|šabat|sobotu⟧ činit dobro.“
 
 [13] Tehdy řekl tomu člověku: „Vztáhni ruku.“ Vztáhl ji a byla obnovena, zdravá jako ta druhá.
 
-[14] Farizeové však vyšli a radili se proti němu, jak by ho zahubili.
+[14] ⟦pharisees|Perušim|Farizeové⟧ však vyšli a radili se proti němu, jak by ho zahubili.
 
-[15] *Yeshua* to poznal a odešel odtud. Mnozí šli za ním a on je všechny uzdravil
+[15] ⟦yeshua|Ješua|Ježíš⟧ to poznal a odešel odtud. Mnozí šli za ním a on je všechny uzdravil
 
 [16] a přikázal jim, aby ho nezjevovali.
 
-[17] Tak se naplnilo, co bylo řečeno skrze proroka Isaiaha:
+[17] Tak se naplnilo, co bylo řečeno skrze proroka ⟦isaiah|Ješajahua|Izajáše⟧:
 
 [18] „Hle, můj služebník, kterého jsem vyvolil,
 můj milovaný, v němž má duše nalezla zalíbení.
@@ -52,15 +52,15 @@ dokud nepřivede právo k vítězství;
 
 [23] Všechen lid žasl a říkal: „Není to snad Syn Davidův?“
 
-[24] Když to však uslyšeli farizeové, řekli: „Tento člověk vyhání démony jen mocí Beelzebula, knížete démonů.“
+[24] Když to však uslyšeli ⟦pharisees|perušim|farizeové⟧, řekli: „Tento člověk vyhání démony jen mocí ⟦beelzebul|Beelzebula|Belzebula⟧, knížete démonů.“
 
 [25] Znal jejich myšlenky a řekl jim: „Každé království rozdělené samo proti sobě pustne a žádné město ani dům rozdělený sám proti sobě neobstojí.
 
 [26] A jestliže Satan vyhání Satana, je rozdělen sám proti sobě. Jak tedy obstojí jeho království?
 
-[27] A jestliže já vyháním démony mocí Beelzebula, čí mocí je vyhánějí vaši synové? Proto oni budou vašimi soudci.
+[27] A jestliže já vyháním démony mocí ⟦beelzebul|Beelzebula|Belzebula⟧, čí mocí je vyhánějí vaši synové? Proto oni budou vašimi soudci.
 
-[28] Jestliže však vyháním démony Duchem *Elohim*, pak na vás přišlo království *Elohim*.
+[28] Jestliže však vyháním démony Duchem ⟦elohim|Elohim|Božím⟧, pak na vás přišlo království ⟦elohim|Elohim|Boží⟧.
 
 [29] Nebo jak může někdo vejít do domu silného muže a uloupit jeho majetek, jestliže silného muže nejprve nespoutá? Teprve pak může vyloupit jeho dům.
 
@@ -68,7 +68,7 @@ dokud nepřivede právo k vítězství;
 
 [31] Proto vám pravím: Každý hřích i rouhání bude lidem odpuštěno, ale rouhání proti Duchu nebude odpuštěno.
 
-[32] A kdo řekne slovo proti Synu člověka, bude mu odpuštěno, ale kdo mluví proti *Ruach HaQodesh*, nebude mu odpuštěno ani v tomto věku, ani v budoucím.
+[32] A kdo řekne slovo proti Synu člověka, bude mu odpuštěno, ale kdo mluví proti ⟦ruach-haqodesh|Ruach HaKodeš|Duchu svatému⟧, nebude mu odpuštěno ani v tomto věku, ani v budoucím.
 
 [33] Buď učiňte strom dobrým a jeho ovoce dobrým, nebo učiňte strom špatným a jeho ovoce špatným, neboť strom se pozná po ovoci.
 
@@ -80,15 +80,15 @@ dokud nepřivede právo k vítězství;
 
 [37] neboť podle svých slov budeš ospravedlněn a podle svých slov budeš odsouzen.“
 
-[38] Tehdy mu někteří ze zákoníků a farizeů odpověděli: „Učiteli, chceme od tebe vidět znamení.“
+[38] Tehdy mu někteří ze zákoníků a ⟦pharisees|perušim|farizeů⟧ odpověděli: „Učiteli, chceme od tebe vidět znamení.“
 
-[39] On jim však odpověděl: „Zlé a cizoložné pokolení hledá znamení, ale nebude mu dáno jiné znamení než znamení proroka Jonaha.
+[39] On jim však odpověděl: „Zlé a cizoložné pokolení hledá znamení, ale nebude mu dáno jiné znamení než znamení proroka ⟦jonah|Jony|Jonáše⟧.
 
-[40] Neboť jako byl Jonah tři dny a tři noci v břiše veliké ryby, tak bude Syn člověka tři dny a tři noci v srdci země.
+[40] Neboť jako byl ⟦jonah|Jona|Jonáš⟧ tři dny a tři noci v břiše veliké ryby, tak bude Syn člověka tři dny a tři noci v srdci země.
 
-[41] Muži z Ninive povstanou na soudu s tímto pokolením a odsoudí je, neboť činili pokání na Jonahovo kázání; a hle, zde je něco většího než Jonah.
+[41] Muži z ⟦nineveh|Ninve|Ninive⟧ povstanou na soudu s tímto pokolením a odsoudí je, neboť činili pokání na ⟦jonah|Jonovo|Jonášovo⟧ kázání; a hle, zde je něco většího než ⟦jonah|Jona|Jonáš⟧.
 
-[42] Královna jihu povstane na soudu s tímto pokolením a odsoudí je, neboť přišla z končin země, aby slyšela Solomonovu moudrost; a hle, zde je něco většího než Solomon.
+[42] Královna jihu povstane na soudu s tímto pokolením a odsoudí je, neboť přišla z končin země, aby slyšela ⟦solomon|Šlomovu|Šalomounovu⟧ moudrost; a hle, zde je něco většího než ⟦solomon|Šlomo|Šalomoun⟧.
 
 [43] Když nečistý duch vyjde z člověka, prochází bezvodými místy a hledá odpočinek, ale nenachází.
 

@@ -1,7 +1,7 @@
 # Izajáš 18
 
 [1] Ach, země bzučících křídel,
-která je za řekami Cushe,
+která je za řekami ⟦cush|Kuše|Kúše⟧,
 
 [2] která posílá vyslance po moři
 v papyrových člunech po vodách!
@@ -14,9 +14,9 @@ jehož zemi rozdělují řeky.
 [3] Všichni obyvatelé světa,
 vy, kdo bydlíte na zemi,
 až bude na horách vztyčena korouhev, hleďte!
-Až zazní polnice, slyšte!
+Až zazní ⟦shofar|šofar|polnice⟧, slyšte!
 
-[4] Neboť takto mi řekl Yahweh:
+[4] Neboť takto mi řekl ⟦yhwh|Jahve|Hospodin⟧:
 
 „Budu tiše hledět ze svého příbytku
 jako jasné horko ve slunečním svitu,
@@ -33,7 +33,7 @@ a zvěři země.
 A draví ptáci na nich budou trávit léto
 a všechna zvěř země na nich bude přezimovat.
 
-[7] V onen čas bude přinesen dar Yahweh zástupů od lidu vysokého a hladkého, od lidu obávaného blízko i daleko, od národa mocného a dobyvačného, jehož zemi rozdělují řeky, na místo jména Yahweh zástupů, na horu Zion.
+[7] V onen čas bude přinesen dar ⟦yhwh|Jahveho|Hospodina⟧ zástupů od lidu vysokého a hladkého, od lidu obávaného blízko i daleko, od národa mocného a dobyvačného, jehož zemi rozdělují řeky, na místo jména ⟦yhwh|Jahveho|Hospodina⟧ zástupů, na horu ⟦zion|Cijon|Sijón⟧.
 
 ## Změny
 

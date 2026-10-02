@@ -1,14 +1,14 @@
 # Ozeáš 3
 
-[1] Yahweh mi řekl: „Jdi znovu, miluj ženu, kterou miluje jiný muž a která je cizoložnice, tak jako Yahweh miluje syny Israele, ačkoli se obracejí k jiným bohům a milují rozinkové koláče.“
+[1] ⟦yhwh|Jahve|Hospodin⟧ mi řekl: „Jdi znovu, miluj ženu, kterou miluje jiný muž a která je cizoložnice, tak jako ⟦yhwh|Jahve|Hospodin⟧ miluje syny ⟦israel|Jisraele|Izraele⟧, ačkoli se obracejí k jiným bohům a milují rozinkové koláče.“
 
-[2] Koupil jsem si ji tedy za patnáct šekelů stříbra a za homer a lethech ječmene.
+[2] Koupil jsem si ji tedy za patnáct šekelů stříbra a za chómer a letek ječmene.
 
 [3] Řekl jsem jí: „Budeš u mne bydlet jako moje po mnoho dní. Nebudeš smilnit ani patřit jinému muži; tak budu i já tvůj.“
 
-[4] Neboť synové Israele budou po mnoho dní bydlet bez krále a bez knížete, bez oběti a bez posvátného sloupu, bez efodu a bez domácích bůžků.
+[4] Neboť synové ⟦israel|Jisraele|Izraele⟧ budou po mnoho dní bydlet bez krále a bez knížete, bez oběti a bez posvátného sloupu, bez ⟦ephod|efodu|efódu⟧ a bez ⟦teraphim|terafim|domácích bůžků⟧.
 
-[5] Potom se synové Israele obrátí a budou hledat Yahweh, svého *Elohim*, a Davida, svého krále, a v posledních dnech přijdou s bázní k Yahweh a k jeho dobrotě.
+[5] Potom se synové ⟦israel|Jisraele|Izraele⟧ obrátí a budou hledat ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, a Davida, svého krále, a v posledních dnech přijdou s bázní k ⟦yhwh|Jahvovi|Hospodinu⟧ a k jeho dobrotě.
 
 ## Změny
 

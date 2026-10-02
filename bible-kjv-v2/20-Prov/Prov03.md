@@ -11,30 +11,30 @@ bind them around your neck;
 write them on the tablet of your heart.
 
 [4] So you will find favor and good understanding
-in the sight of *Elohim* and man.
+in the sight of ⟦elohim|Elohim|God⟧ and man.
 
-[5] Trust in Yahweh with all your heart,
+[5] Trust in ⟦yhwh|Yahweh|the LORD⟧ with all your heart,
 and do not lean on your own understanding.
 
 [6] In all your ways acknowledge him,
 and he will make straight your paths.
 
 [7] Be not wise in your own eyes;
-fear Yahweh, and turn away from evil.
+fear ⟦yhwh|Yahweh|the LORD⟧, and turn away from evil.
 
 [8] It will be healing to your flesh
 and refreshment to your bones.
 
-[9] Honor Yahweh with your wealth
+[9] Honor ⟦yhwh|Yahweh|the LORD⟧ with your wealth
 and with the firstfruits of all your produce;
 
 [10] then your barns will be filled with plenty,
 and your vats will be bursting with new wine.
 
-[11] My son, do not despise Yahweh's discipline
+[11] My son, do not despise ⟦yhwh|Yahweh's|the LORD's⟧ discipline
 or be weary of his reproof,
 
-[12] for Yahweh reproves him whom he loves,
+[12] for ⟦yhwh|Yahweh|the LORD⟧ reproves him whom he loves,
 as a father the son in whom he delights.
 
 [13] Blessed is the one who finds wisdom,
@@ -55,7 +55,7 @@ and all her paths are peace.
 [18] She is a tree of life to those who lay hold of her;
 those who hold her fast are called blessed.
 
-[19] Yahweh by wisdom founded the earth;
+[19] ⟦yhwh|Yahweh|The LORD⟧ by wisdom founded the earth;
 by understanding he established the heavens;
 
 [20] by his knowledge the deeps broke open,
@@ -76,7 +76,7 @@ when you lie down, your sleep will be sweet.
 [25] Do not be afraid of sudden terror
 or of the ruin of the wicked, when it comes,
 
-[26] for Yahweh will be your confidence
+[26] for ⟦yhwh|Yahweh|the LORD⟧ will be your confidence
 and will keep your foot from being caught.
 
 [27] Do not withhold good from those to whom it is due,
@@ -94,10 +94,10 @@ when he has done you no harm.
 [31] Do not envy a man of violence
 and do not choose any of his ways,
 
-[32] for the devious person is an abomination to Yahweh,
+[32] for the devious person is an abomination to ⟦yhwh|Yahweh|the LORD⟧,
 but the upright are in his confidence.
 
-[33] The curse of Yahweh is on the house of the wicked,
+[33] The curse of ⟦yhwh|Yahweh|the LORD⟧ is on the house of the wicked,
 but he blesses the dwelling of the righteous.
 
 [34] Toward the scorners he is scornful,

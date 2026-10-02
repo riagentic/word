@@ -1,66 +1,66 @@
 # Nehemiah 3
 
-[1] Eliashib the high priest rose up with his brothers the priests, and they rebuilt the Sheep Gate; they consecrated it and set up its doors — all the way to the Tower of the Hundred they consecrated it, and to the Tower of Hananel.
+[1] ⟦eliashib|Elyashiv|Eliashib⟧ the high priest rose up with his brothers the priests, and they rebuilt the Sheep Gate; they consecrated it and set up its doors — all the way to the Tower of the Hundred they consecrated it, and to the Tower of ⟦hananel|Chananel|Hananel⟧.
 
-[2] Next to him the men of Jericho built; next to them Zaccur son of Imri built.
+[2] Next to him the men of ⟦jericho|Yericho|Jericho⟧ built; next to them ⟦zaccur|Zakkur|Zaccur⟧ son of Imri built.
 
-[3] The sons of Hassenaah built the Fish Gate; they laid its beams and set up its doors, its bolts, and its bars.
+[3] The sons of ⟦hassenaah|HaSenaah|Hassenaah⟧ built the Fish Gate; they laid its beams and set up its doors, its bolts, and its bars.
 
-[4] Next to them Meremoth son of Uriah son of Hakkoz repaired. Next to them Meshullam son of Berechiah son of Meshezabel repaired. Next to them Zadok son of Baana repaired.
+[4] Next to them ⟦meremoth|Meremot|Meremoth⟧ son of ⟦uriah|Uriyah|Uriah⟧ son of ⟦hakkoz|HaQotz|Hakkoz⟧ repaired. Next to them Meshullam son of ⟦berechiah|Berechyah|Berechiah⟧ son of ⟦meshezabel|Meshezavel|Meshezabel⟧ repaired. Next to them ⟦zadok|Tzadoq|Zadok⟧ son of Baana repaired.
 
-[5] Next to them the Tekoites repaired; but their nobles did not put their necks to the work of their lord.
+[5] Next to them the ⟦tekoites|Teqoim|Tekoites⟧ repaired; but their nobles did not put their necks to the work of their lord.
 
-[6] Joiada son of Paseah and Meshullam son of Besodeiah repaired the Jeshanah Gate; they laid its beams and set up its doors, its bolts, and its bars.
+[6] ⟦joiada|Yoyada|Joiada⟧ son of ⟦paseah|Paseach|Paseah⟧ and Meshullam son of ⟦besodeiah|Besodyah|Besodeiah⟧ repaired the Yeshanah Gate; they laid its beams and set up its doors, its bolts, and its bars.
 
-[7] Next to them Melatiah the Gibeonite and Jadon the Meronothite, men of Gibeon and Mizpah, repaired, under the authority of the governor of the province Beyond the River.
+[7] Next to them ⟦melatiah|Melatyah|Melatiah⟧ the ⟦gibeonite|Givoni|Gibeonite⟧ and ⟦jadon|Yadon|Jadon⟧ the ⟦meronothite|Meronoti|Meronothite⟧, men of ⟦gibeon|Givon|Gibeon⟧ and ⟦mizpah|Mitzpah|Mizpah⟧, repaired, under the authority of the governor of the province Beyond the River.
 
-[8] Next to them Uzziel son of Harhaiah, one of the goldsmiths, repaired. Next to him Hananiah, one of the perfumers, repaired; they restored Jerusalem as far as the Broad Wall.
+[8] Next to them Uzziel son of ⟦harhaiah|Charhayah|Harhaiah⟧, one of the goldsmiths, repaired. Next to him ⟦hananiah|Chananyah|Hananiah⟧, one of the perfumers, repaired; they restored ⟦jerusalem|Yerushalayim|Jerusalem⟧ as far as the Broad Wall.
 
-[9] Next to them Rephaiah son of Hur, ruler of half the district of Jerusalem, repaired.
+[9] Next to them ⟦rephaiah|Refayah|Rephaiah⟧ son of ⟦hur|Chur|Hur⟧, ruler of half the district of ⟦jerusalem|Yerushalayim|Jerusalem⟧, repaired.
 
-[10] Next to them Jedaiah son of Harumaph repaired, opposite his own house. Next to him Hattush son of Hashabneiah repaired.
+[10] Next to them ⟦jedaiah|Yedayah|Jedaiah⟧ son of ⟦harumaph|Charumaf|Harumaph⟧ repaired, opposite his own house. Next to him ⟦hattush|Chattush|Hattush⟧ son of ⟦hashabneiah|Chashavneyah|Hashabneiah⟧ repaired.
 
-[11] Malchijah son of Harim and Hasshub son of Pahath-moab repaired another section and the Tower of the Ovens.
+[11] ⟦malchijah|Malkiyah|Malchijah⟧ son of ⟦harim|Charim|Harim⟧ and ⟦hasshub|Chashshuv|Hasshub⟧ son of ⟦pahath-moab|Pachat-Moav|Pahath-moab⟧ repaired another section and the Tower of the Ovens.
 
-[12] Next to him Shallum son of Hallohesh, ruler of half the district of Jerusalem, repaired — he and his daughters.
+[12] Next to him Shallum son of ⟦hallohesh|HaLochesh|Hallohesh⟧, ruler of half the district of ⟦jerusalem|Yerushalayim|Jerusalem⟧, repaired — he and his daughters.
 
-[13] The Valley Gate was repaired by Hanun and the inhabitants of Zanoah; they built it and set up its doors, its bolts, and its bars, with a thousand cubits of the wall as far as the Dung Gate.
+[13] The Valley Gate was repaired by ⟦hanun|Chanun|Hanun⟧ and the inhabitants of ⟦zanoah|Zanoach|Zanoah⟧; they built it and set up its doors, its bolts, and its bars, with a thousand cubits of the wall as far as the Dung Gate.
 
-[14] Malchijah son of Rechab, ruler of the district of Beth-haccerem, repaired the Dung Gate; he built it and set up its doors, its bolts, and its bars.
+[14] ⟦malchijah|Malkiyah|Malchijah⟧ son of ⟦rechab|Rechav|Rechab⟧, ruler of the district of ⟦beth-haccerem|Beit HaKerem|Beth-haccherem⟧, repaired the Dung Gate; he built it and set up its doors, its bolts, and its bars.
 
-[15] Shallun son of Col-hozeh, ruler of the district of Mizpah, repaired the Fountain Gate; he built it, roofed it, and set up its doors, its bolts, and its bars; also the wall of the Pool of Shelah by the King's Garden, as far as the stairs that descend from the city of David.
+[15] Shallun son of ⟦col-hozeh|Kol-Chozeh|Col-hozeh⟧, ruler of the district of ⟦mizpah|Mitzpah|Mizpah⟧, repaired the Fountain Gate; he built it, roofed it, and set up its doors, its bolts, and its bars; also the wall of the Pool of ⟦shelach|Shelach|Shelah⟧ by the King's Garden, as far as the stairs that descend from the city of David.
 
-[16] After him Nehemiah son of Azbuk, ruler of half the district of Beth-zur, repaired as far as a point opposite the tombs of David, as far as the artificial pool, and as far as the House of the Warriors.
+[16] After him ⟦nehemiah|Nechemyah|Nehemiah⟧ son of ⟦azbuk|Azbuq|Azbuk⟧, ruler of half the district of ⟦beth-zur|Beit Tzur|Beth-zur⟧, repaired as far as a point opposite the tombs of David, as far as the artificial pool, and as far as the House of the Warriors.
 
-[17] After him the Levites repaired: Rehum son of Bani. Next to him Hashabiah, ruler of half the district of Keilah, repaired for his district.
+[17] After him the ⟦levites|Leviyim|Levites⟧ repaired: ⟦rehum|Rechum|Rehum⟧ son of Bani. Next to him ⟦hashabiah|Chashavyah|Hashabiah⟧, ruler of half the district of ⟦keilah|Qeilah|Keilah⟧, repaired for his district.
 
-[18] After him their brothers repaired: Binnui son of Henadad, ruler of half the district of Keilah.
+[18] After him their brothers repaired: Binnui son of ⟦henadad|Chenadad|Henadad⟧, ruler of half the district of ⟦keilah|Qeilah|Keilah⟧.
 
-[19] Next to him Ezer son of Jeshua, ruler of Mizpah, repaired another section, opposite the ascent to the armory at the Angle.
+[19] Next to him Ezer son of ⟦jeshua|Yeshua|Jeshua⟧, ruler of ⟦mizpah|Mitzpah|Mizpah⟧, repaired another section, opposite the ascent to the armory at the Angle.
 
-[20] After him Baruch son of Zabbai zealously repaired another section, from the Angle to the door of the house of Eliashib the high priest.
+[20] After him Baruch son of Zabbai zealously repaired another section, from the Angle to the door of the house of ⟦eliashib|Elyashiv|Eliashib⟧ the high priest.
 
-[21] After him Meremoth son of Uriah son of Hakkoz repaired another section, from the door of Eliashib's house to the end of his house.
+[21] After him ⟦meremoth|Meremot|Meremoth⟧ son of ⟦uriah|Uriyah|Uriah⟧ son of ⟦hakkoz|HaQotz|Hakkoz⟧ repaired another section, from the door of ⟦eliashib|Elyashiv|Eliashib⟧'s house to the end of his house.
 
 [22] After him the priests, the men of the plain, repaired.
 
-[23] After them Benjamin and Hasshub repaired opposite their house. After them Azariah son of Maaseiah son of Ananiah repaired beside his house.
+[23] After them ⟦benjamin|Binyamin|Benjamin⟧ and ⟦hasshub|Chashshuv|Hasshub⟧ repaired opposite their house. After them ⟦azariah|Azaryah|Azariah⟧ son of ⟦maaseiah|Maaseyah|Maaseiah⟧ son of ⟦ananiah|Ananyah|Ananiah⟧ repaired beside his house.
 
-[24] After him Binnui son of Henadad repaired another section, from the house of Azariah to the Angle and the Corner.
+[24] After him Binnui son of ⟦henadad|Chenadad|Henadad⟧ repaired another section, from the house of ⟦azariah|Azaryah|Azariah⟧ to the Angle and the Corner.
 
-[25] Palal son of Uzai repaired opposite the Angle and the tower projecting from the upper house of the king at the court of the guard. After him Pedaiah son of Parosh repaired.
+[25] Palal son of Uzai repaired opposite the Angle and the tower projecting from the upper house of the king at the court of the guard. After him ⟦pedaiah|Pedayah|Pedaiah⟧ son of Parosh repaired.
 
-[26] The temple servants lived in Ophel, as far as the point opposite the Water Gate on the east and the projecting tower.
+[26] The ⟦nethinim|Netinim|temple servants⟧ lived in ⟦ophel|Ofel|Ophel⟧, as far as the point opposite the Water Gate on the east and the projecting tower.
 
-[27] After him the Tekoites repaired another section, opposite the great projecting tower as far as the wall of Ophel.
+[27] After him the ⟦tekoites|Teqoim|Tekoites⟧ repaired another section, opposite the great projecting tower as far as the wall of ⟦ophel|Ofel|Ophel⟧.
 
 [28] Above the Horse Gate the priests repaired, each opposite his own house.
 
-[29] After them Zadok son of Immer repaired opposite his own house. After him Shemaiah son of Shecaniah, keeper of the East Gate, repaired.
+[29] After them ⟦zadok|Tzadoq|Zadok⟧ son of Immer repaired opposite his own house. After him ⟦shemaiah|Shemayah|Shemaiah⟧ son of ⟦shecaniah|Shechanyah|Shecaniah⟧, keeper of the East Gate, repaired.
 
-[30] After him Hananiah son of Shelemiah and Hanun the sixth son of Zalaph repaired another section. After him Meshullam son of Berechiah repaired opposite his own chamber.
+[30] After him ⟦hananiah|Chananyah|Hananiah⟧ son of ⟦shelemiah|Shelemyah|Shelemiah⟧ and ⟦hanun|Chanun|Hanun⟧ the sixth son of ⟦zalaph|Tzalaf|Zalaph⟧ repaired another section. After him Meshullam son of ⟦berechiah|Berechyah|Berechiah⟧ repaired opposite his own chamber.
 
-[31] After him Malchijah, one of the goldsmiths, repaired as far as the house of the temple servants and the merchants, opposite the Muster Gate, and as far as the Upper Room of the Corner.
+[31] After him ⟦malchijah|Malkiyah|Malchijah⟧, one of the goldsmiths, repaired as far as the house of the ⟦nethinim|Netinim|temple servants⟧ and the merchants, opposite the Muster Gate, and as far as the Upper Room of the Corner.
 
 [32] Between the Upper Room of the Corner and the Sheep Gate the goldsmiths and the merchants repaired.
 

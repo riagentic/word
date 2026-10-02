@@ -1,6 +1,6 @@
 # Exodus 37
 
-[1] Betzalel made the ark of acacia wood: two and a half cubits was its length, a cubit and a half its width, and a cubit and a half its height.
+[1] ⟦bezalel|Betzalel|Bezalel⟧ made the ark of acacia wood: two and a half cubits was its length, a cubit and a half its width, and a cubit and a half its height.
 
 [2] He overlaid it with pure gold inside and outside, and made a molding of gold around it.
 
@@ -10,13 +10,13 @@
 
 [5] He put the poles into the rings on the sides of the ark, to carry the ark.
 
-[6] He made the mercy seat of pure gold: two and a half cubits was its length, and a cubit and a half its width.
+[6] He made the ⟦mercy-seat|kapporet|mercy seat⟧ of pure gold: two and a half cubits was its length, and a cubit and a half its width.
 
-[7] He made two cherubim of gold; of hammered work he made them, on the two ends of the mercy seat —
+[7] He made two ⟦cherubim|keruvim|cherubim⟧ of gold; of hammered work he made them, on the two ends of the ⟦mercy-seat|kapporet|mercy seat⟧ —
 
-[8] one cherub on the end from this side, and another cherub on the end from that side; of one piece with the mercy seat he made the cherubim on its two ends.
+[8] one ⟦cherub|keruv|cherub⟧ on the end from this side, and another ⟦cherub|keruv|cherub⟧ on the end from that side; of one piece with the ⟦mercy-seat|kapporet|mercy seat⟧ he made the ⟦cherubim|keruvim|cherubim⟧ on its two ends.
 
-[9] The cherubim spread out their wings above, overshadowing the mercy seat with their wings, with their faces toward each other; toward the mercy seat were the faces of the cherubim.
+[9] The ⟦cherubim|keruvim|cherubim⟧ spread out their wings above, overshadowing the ⟦mercy-seat|kapporet|mercy seat⟧ with their wings, with their faces toward each other; toward the ⟦mercy-seat|kapporet|mercy seat⟧ were the faces of the ⟦cherubim|keruvim|cherubim⟧.
 
 [10] He made the table of acacia wood: two cubits was its length, a cubit its width, and a cubit and a half its height.
 

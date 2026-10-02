@@ -1,70 +1,70 @@
 # Genesis 18
 
-[1] Yahweh se mu ukázal u dubů Mamre, když seděl ve vchodu svého stanu v denním horku.
+[1] ⟦yhwh|Jahve|Hospodin⟧ se mu ukázal u dubů Mamre, když seděl ve vchodu svého stanu v denním horku.
 
 [2] Pozvedl oči a podíval se, a hle, naproti němu stáli tři muži. Když je uviděl, vyběhl jim naproti ze vchodu stanu, poklonil se k zemi
 
-[3] a řekl: „Můj pane, jestliže jsem nalezl přízeň v tvých očích, prosím, nepřecházej svého služebníka.
+[3] a řekl: „⟦adonai|Adonaji|Můj pane⟧, jestliže jsem nalezl přízeň v tvých očích, prosím, nepřecházej svého služebníka.
 
 [4] Ať se přinese trochu vody, umyjte si nohy a odpočiňte si pod stromem;
 
 [5] a dovolte, ať přinesu sousto chleba, abyste se posilnili; potom můžete jít dál, když jste už k svému služebníkovi přišli.“ Odpověděli: „Udělej, jak jsi řekl.“
 
-[6] Tu Abraham spěchal do stanu k Sarah a řekl: „Rychle tři seahy jemné mouky! Uhněť ji a udělej placky.“
+[6] Tu ⟦abraham|Avraham|Abraham⟧ spěchal do stanu k ⟦sarah|Saře|Sáře⟧ a řekl: „Rychle tři seahy jemné mouky! Uhněť ji a udělej placky.“
 
-[7] A Abraham běžel ke stádu, vzal tele, mladé a dobré, a dal je sluhovi, který spěchal, aby je připravil.
+[7] A ⟦abraham|Avraham|Abraham⟧ běžel ke stádu, vzal tele, mladé a dobré, a dal je sluhovi, který spěchal, aby je připravil.
 
 [8] Vzal tvaroh, mléko a tele, které připravil, a předložil jim to; a zatímco jedli, stál u nich pod stromem.
 
-[9] Řekli mu: „Kde je Sarah, tvá žena?“ Odpověděl: „Tady, ve stanu.“
+[9] Řekli mu: „Kde je ⟦sarah|Sara|Sára⟧, tvá žena?“ Odpověděl: „Tady, ve stanu.“
 
-[10] Řekl: „Jistě se k tobě vrátím příštího roku touto dobou, a Sarah, tvá žena, bude mít syna.“ A Sarah naslouchala ve vchodu stanu za ním.
+[10] Řekl: „Jistě se k tobě vrátím příštího roku touto dobou, a ⟦sarah|Sara|Sára⟧, tvá žena, bude mít syna.“ A ⟦sarah|Sara|Sára⟧ naslouchala ve vchodu stanu za ním.
 
-[11] Abraham a Sarah byli staří, pokročilého věku; Sarah už ustalo to, co bývá u žen.
+[11] ⟦abraham|Avraham|Abraham⟧ a ⟦sarah|Sara|Sára⟧ byli staří, pokročilého věku; ⟦sarah|Saře|Sáře⟧ už ustalo to, co bývá u žen.
 
-[12] Sarah se tedy v duchu zasmála: „Když už jsem opotřebovaná a můj pán je starý, mám mít rozkoš?“
+[12] ⟦sarah|Sara|Sára⟧ se tedy v duchu zasmála: „Když už jsem opotřebovaná a můj pán je starý, mám mít rozkoš?“
 
-[13] Yahweh řekl Abrahamovi: „Proč se Sarah zasmála a řekla: ‚Opravdu porodím dítě, když jsem stará?‘
+[13] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦abraham|Avrahamovi|Abrahamovi⟧: „Proč se ⟦sarah|Sara|Sára⟧ zasmála a řekla: ‚Opravdu porodím dítě, když jsem stará?‘
 
-[14] Je snad pro Yahweh něco příliš podivuhodné? V určený čas se k tobě vrátím, příštího roku touto dobou, a Sarah bude mít syna.“
+[14] Je snad pro ⟦yhwh|Jahveho|Hospodina⟧ něco příliš podivuhodné? V určený čas se k tobě vrátím, příštího roku touto dobou, a ⟦sarah|Sara|Sára⟧ bude mít syna.“
 
-[15] Ale Sarah zapírala: „Nesmála jsem se“ – neboť se bála. Řekl: „Ne, ty ses smála.“
+[15] Ale ⟦sarah|Sara|Sára⟧ zapírala: „Nesmála jsem se“ – neboť se bála. Řekl: „Ne, ty ses smála.“
 
-[16] Potom muži odtud vstali a shlédli dolů k Sodomu; a Abraham šel s nimi, aby je vyprovodil.
+[16] Potom muži odtud vstali a shlédli dolů k ⟦sodom|Sedomu|Sodomě⟧; a ⟦abraham|Avraham|Abraham⟧ šel s nimi, aby je vyprovodil.
 
-[17] Yahweh řekl: „Mám skrýt před Abrahamem, co se chystám učinit,
+[17] ⟦yhwh|Jahve|Hospodin⟧ řekl: „Mám skrýt před ⟦abraham|Avrahamem|Abrahamem⟧, co se chystám učinit,
 
-[18] když se Abraham jistě stane velikým a mocným národem a všechny národy země v něm naleznou požehnání?
+[18] když se ⟦abraham|Avraham|Abraham⟧ jistě stane velikým a mocným národem a všechny národy země v něm naleznou požehnání?
 
-[19] Neboť jsem si ho vyvolil, aby přikázal svým synům a svému domu po sobě zachovávat cestu Yahweh konáním spravedlnosti a práva – aby Yahweh uvedl na Abrahama to, co o něm řekl.“
+[19] Neboť jsem si ho vyvolil, aby přikázal svým synům a svému domu po sobě zachovávat cestu ⟦yhwh|Jahveho|Hospodina⟧ konáním spravedlnosti a práva – aby ⟦yhwh|Jahve|Hospodin⟧ uvedl na ⟦abraham|Avrahama|Abrahama⟧ to, co o něm řekl.“
 
-[20] Potom Yahweh řekl: „Křik proti Sodomu a Gomorrah je veliký a jejich hřích je velmi těžký.
+[20] Potom ⟦yhwh|Jahve|Hospodin⟧ řekl: „Křik proti ⟦sodom|Sedomu|Sodomě⟧ a ⟦gomorrah|Amoře|Gomoře⟧ je veliký a jejich hřích je velmi těžký.
 
 [21] Sestoupím nyní a podívám se, zda jednali úplně podle křiku, který ke mně přišel; a jestliže ne, poznám to.“
 
-[22] Muži se tedy odtud obrátili a šli k Sodomu, ale Abraham zůstal stát před Yahweh.
+[22] Muži se tedy odtud obrátili a šli k ⟦sodom|Sedomu|Sodomě⟧, ale ⟦abraham|Avraham|Abraham⟧ zůstal stát před ⟦yhwh|Jahvem|Hospodinem⟧.
 
-[23] Tu Abraham přistoupil a řekl: „Opravdu smeteš spravedlivého se zlovolným?
+[23] Tu ⟦abraham|Avraham|Abraham⟧ přistoupil a řekl: „Opravdu smeteš spravedlivého se zlovolným?
 
 [24] Co když je ve městě padesát spravedlivých; smeteš je pak a neušetříš to místo kvůli padesáti spravedlivým, kteří jsou v něm?
 
 [25] Daleko od tebe, abys učinil něco takového, abys zabil spravedlivého se zlovolným, takže by se spravedlivému vedlo jako zlovolnému! Daleko od tebe! Což Soudce celé země nebude jednat spravedlivě?“
 
-[26] Yahweh řekl: „Jestliže najdu v městě Sodomu padesát spravedlivých, ušetřím kvůli nim celé to místo.“
+[26] ⟦yhwh|Jahve|Hospodin⟧ řekl: „Jestliže najdu v městě ⟦sodom|Sedomu|Sodomy⟧ padesát spravedlivých, ušetřím kvůli nim celé to místo.“
 
-[27] Abraham odpověděl: „Hle, odvážil jsem se mluvit k Pánu, ačkoli jsem jen prach a popel.
+[27] ⟦abraham|Avraham|Abraham⟧ odpověděl: „Hle, odvážil jsem se mluvit k ⟦adonai|Adonaji|Pánu⟧, ačkoli jsem jen prach a popel.
 
 [28] Co když se z padesáti spravedlivých nedostává pěti; zničíš celé město kvůli chybějícím pěti?“ Řekl: „Nezničím ho, najdu-li jich tam čtyřicet pět.“
 
 [29] A znovu k němu promluvil: „Co když se jich tam najde čtyřicet?“ Řekl: „Kvůli čtyřiceti to neučiním.“
 
-[30] Tu řekl: „Ať se prosím Pán nehněvá, a budu mluvit: co když se jich tam najde třicet?“ Řekl: „Neučiním to, najdu-li jich tam třicet.“
+[30] Tu řekl: „Ať se prosím ⟦adonai|Adonaj|Pán⟧ nehněvá, a budu mluvit: co když se jich tam najde třicet?“ Řekl: „Neučiním to, najdu-li jich tam třicet.“
 
-[31] Řekl: „Hle, odvážil jsem se mluvit k Pánu: co když se jich tam najde dvacet?“ Řekl: „Kvůli dvaceti ho nezničím.“
+[31] Řekl: „Hle, odvážil jsem se mluvit k ⟦adonai|Adonaji|Pánu⟧: co když se jich tam najde dvacet?“ Řekl: „Kvůli dvaceti ho nezničím.“
 
-[32] Tu řekl: „Ať se prosím Pán nehněvá, a promluvím už jen tentokrát: co když se jich tam najde deset?“ Řekl: „Kvůli deseti ho nezničím.“
+[32] Tu řekl: „Ať se prosím ⟦adonai|Adonaj|Pán⟧ nehněvá, a promluvím už jen tentokrát: co když se jich tam najde deset?“ Řekl: „Kvůli deseti ho nezničím.“
 
-[33] A Yahweh odešel, jakmile domluvil s Abrahamem; a Abraham se vrátil na své místo.
+[33] A ⟦yhwh|Jahve|Hospodin⟧ odešel, jakmile domluvil s ⟦abraham|Avrahamem|Abrahamem⟧; a ⟦abraham|Avraham|Abraham⟧ se vrátil na své místo.
 
 ## Změny
 

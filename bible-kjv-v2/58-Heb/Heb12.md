@@ -2,7 +2,7 @@
 
 [1] Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us,
 
-[2] looking to *Yeshua*, the founder and perfecter of our faith, who for the joy that was set before him endured the cross, despising the shame, and is seated at the right hand of the throne of *Elohim*.
+[2] looking to ⟦yeshua|Yeshua|Jesus⟧, the founder and perfecter of our faith, who for the joy that was set before him endured the cross, despising the shame, and is seated at the right hand of the throne of ⟦elohim|Elohim|God⟧.
 
 [3] Consider him who endured from sinners such hostility against himself, so that you may not grow weary or fainthearted.
 
@@ -10,12 +10,12 @@
 
 [5] And have you forgotten the exhortation that addresses you as sons?
 
-"**My son, do not regard lightly the discipline of the Lord,
+"**My son, do not regard lightly the discipline of ⟦yhwh|Yahweh|the Lord⟧,
 nor be weary when reproved by him.
-[6] For the Lord disciplines the one he loves,
+[6] For ⟦yhwh|Yahweh|the Lord⟧ disciplines the one he loves,
 and chastises every son whom he receives**."
 
-[7] It is for discipline that you have to endure. *Elohim* is treating you as sons. For what son is there whom his father does not discipline?
+[7] It is for discipline that you have to endure. ⟦elohim|Elohim|God⟧ is treating you as sons. For what son is there whom his father does not discipline?
 
 [8] If you are left without discipline, in which all have participated, then you are illegitimate children and not sons.
 
@@ -31,9 +31,9 @@ and chastises every son whom he receives**."
 
 [14] Strive for peace with everyone, and for the holiness without which no one will see the Lord.
 
-[15] See to it that no one fails to obtain the grace of *Elohim*; that no "root of bitterness" springs up and causes trouble, and by it many become defiled;
+[15] See to it that no one fails to obtain the grace of ⟦elohim|Elohim|God⟧; that no "root of bitterness" springs up and causes trouble, and by it many become defiled;
 
-[16] that no one is sexually immoral or unholy like Esau, who sold his birthright for a single meal.
+[16] that no one is sexually immoral or unholy like ⟦esau|Esav|Esau⟧, who sold his birthright for a single meal.
 
 [17] For you know that afterward, when he desired to inherit the blessing, he was rejected, for he found no chance to repent, though he sought it with tears.
 
@@ -43,13 +43,13 @@ and chastises every son whom he receives**."
 
 [20] For they could not endure the order that was given, "**If even a beast touches the mountain, it shall be stoned**."
 
-[21] Indeed, so terrifying was the sight that Moses said, "**I tremble with fear**."
+[21] Indeed, so terrifying was the sight that ⟦moses|Moshe|Moses⟧ said, "**I tremble with fear**."
 
-[22] But you have come to Mount Zion and to the city of the living *Elohim*, the heavenly Jerusalem, and to innumerable angels in festal gathering,
+[22] But you have come to Mount ⟦zion|Tziyon|Zion⟧ and to the city of the living ⟦elohim|Elohim|God⟧, the heavenly ⟦jerusalem|Yerushalayim|Jerusalem⟧, and to innumerable angels in festal gathering,
 
-[23] and to the assembly of the firstborn who are enrolled in heaven, and to *Elohim*, the judge of all, and to the spirits of the righteous made perfect,
+[23] and to the assembly of the firstborn who are enrolled in heaven, and to ⟦elohim|Elohim|God⟧, the judge of all, and to the spirits of the righteous made perfect,
 
-[24] and to *Yeshua*, the mediator of a new covenant, and to the sprinkled blood that speaks a better word than the blood of Abel.
+[24] and to ⟦yeshua|Yeshua|Jesus⟧, the mediator of a new covenant, and to the sprinkled blood that speaks a better word than the blood of ⟦abel|Hevel|Abel⟧.
 
 [25] See that you do not refuse him who is speaking. For if they did not escape when they refused him who warned them on earth, much less will we escape if we reject him who warns from heaven.
 
@@ -57,9 +57,9 @@ and chastises every son whom he receives**."
 
 [27] This phrase, "Yet once more," indicates the removal of things that are shaken — that is, things that have been made — in order that the things that cannot be shaken may remain.
 
-[28] Therefore let us be grateful for receiving a kingdom that cannot be shaken, and thus let us offer to *Elohim* acceptable worship, with reverence and awe,
+[28] Therefore let us be grateful for receiving a kingdom that cannot be shaken, and thus let us offer to ⟦elohim|Elohim|God⟧ acceptable worship, with reverence and awe,
 
-[29] for **our *Elohim* is a consuming fire**.
+[29] for **our ⟦elohim|Elohim|God⟧ is a consuming fire**.
 
 ## Changes
 

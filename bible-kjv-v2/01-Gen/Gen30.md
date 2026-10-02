@@ -1,88 +1,88 @@
 # Genesis 30
 
-[1] When Rachel saw that she was bearing Jacob no children, Rachel envied her sister; and she said to Jacob, "Give me children, or else I die."
+[1] When Rachel saw that she was bearing ⟦jacob|Yaaqov|Jacob⟧ no children, Rachel envied her sister; and she said to ⟦jacob|Yaaqov|Jacob⟧, "Give me children, or else I die."
 
-[2] Jacob's anger burned against Rachel, and he said, "Am I in the place of *Elohim*, who has withheld from you the fruit of the womb?"
+[2] ⟦jacob|Yaaqov|Jacob⟧'s anger burned against Rachel, and he said, "Am I in the place of ⟦elohim|Elohim|God⟧, who has withheld from you the fruit of the womb?"
 
 [3] She said, "Behold my slave-girl Bilhah. Go in to her, that she may bear on my knees, that I too may be built up through her."
 
-[4] So she gave him Bilhah her slave-girl as a wife, and Jacob went in to her.
+[4] So she gave him Bilhah her slave-girl as a wife, and ⟦jacob|Yaaqov|Jacob⟧ went in to her.
 
-[5] Bilhah conceived and bore Jacob a son.
+[5] Bilhah conceived and bore ⟦jacob|Yaaqov|Jacob⟧ a son.
 
-[6] Then Rachel said, "*Elohim* has judged me, and has also heard my voice, and has given me a son." Therefore she named him Dan.
+[6] Then Rachel said, "⟦elohim|Elohim|God⟧ has judged me, and has also heard my voice, and has given me a son." Therefore she named him Dan.
 
-[7] Bilhah, Rachel's slave-girl, conceived again and bore Jacob a second son.
+[7] Bilhah, Rachel's slave-girl, conceived again and bore ⟦jacob|Yaaqov|Jacob⟧ a second son.
 
-[8] Rachel said, "With mighty wrestlings I have wrestled with my sister, and have prevailed." So she named him Naphtali.
+[8] Rachel said, "With mighty wrestlings I have wrestled with my sister, and have prevailed." So she named him ⟦naphtali|Naftali|Naphtali⟧.
 
-[9] When Leah saw that she had stopped bearing, she took Zilpah her slave-girl and gave her to Jacob as a wife.
+[9] When Leah saw that she had stopped bearing, she took Zilpah her slave-girl and gave her to ⟦jacob|Yaaqov|Jacob⟧ as a wife.
 
-[10] And Zilpah, Leah's slave-girl, bore Jacob a son.
+[10] And Zilpah, Leah's slave-girl, bore ⟦jacob|Yaaqov|Jacob⟧ a son.
 
 [11] Leah said, "Good fortune has come!" So she named him Gad.
 
-[12] Zilpah, Leah's slave-girl, bore Jacob a second son.
+[12] Zilpah, Leah's slave-girl, bore ⟦jacob|Yaaqov|Jacob⟧ a second son.
 
 [13] And Leah said, "In my happiness! For the daughters will call me happy." So she named him Asher.
 
-[14] In the days of wheat harvest, Reuben went out and found mandrakes in the field, and brought them to his mother Leah. Then Rachel said to Leah, "Please give me some of your son's mandrakes."
+[14] In the days of wheat harvest, ⟦reuben|Reuven|Reuben⟧ went out and found mandrakes in the field, and brought them to his mother Leah. Then Rachel said to Leah, "Please give me some of your son's mandrakes."
 
 [15] But she said to her, "Is it a small matter that you have taken away my husband? Would you take my son's mandrakes also?" And Rachel said, "Then he shall lie with you tonight for your son's mandrakes."
 
-[16] When Jacob came from the field in the evening, Leah went out to meet him and said, "You must come in to me, for I have surely hired you with my son's mandrakes." So he lay with her that night.
+[16] When ⟦jacob|Yaaqov|Jacob⟧ came from the field in the evening, Leah went out to meet him and said, "You must come in to me, for I have surely hired you with my son's mandrakes." So he lay with her that night.
 
-[17] *Elohim* listened to Leah, and she conceived and bore Jacob a fifth son.
+[17] ⟦elohim|Elohim|God⟧ listened to Leah, and she conceived and bore ⟦jacob|Yaaqov|Jacob⟧ a fifth son.
 
-[18] Leah said, "*Elohim* has given me my wages, because I gave my slave-girl to my husband." So she named him Issachar.
+[18] Leah said, "⟦elohim|Elohim|God⟧ has given me my wages, because I gave my slave-girl to my husband." So she named him ⟦issachar|Yissachar|Issachar⟧.
 
-[19] Leah conceived again and bore Jacob a sixth son.
+[19] Leah conceived again and bore ⟦jacob|Yaaqov|Jacob⟧ a sixth son.
 
-[20] And Leah said, "*Elohim* has endowed me with a good endowment; now my husband will dwell with me, because I have borne him six sons." So she named him Zebulun.
+[20] And Leah said, "⟦elohim|Elohim|God⟧ has endowed me with a good endowment; now my husband will dwell with me, because I have borne him six sons." So she named him ⟦zebulun|Zevulun|Zebulun⟧.
 
 [21] Afterwards she bore a daughter and named her Dinah.
 
-[22] Then *Elohim* remembered Rachel; *Elohim* listened to her and opened her womb.
+[22] Then ⟦elohim|Elohim|God⟧ remembered Rachel; ⟦elohim|Elohim|God⟧ listened to her and opened her womb.
 
-[23] She conceived and bore a son, and said, "*Elohim* has taken away my reproach."
+[23] She conceived and bore a son, and said, "⟦elohim|Elohim|God⟧ has taken away my reproach."
 
-[24] And she named him Joseph, saying, "May Yahweh add to me another son."
+[24] And she named him ⟦joseph|Yosef|Joseph⟧, saying, "May ⟦yhwh|Yahweh|the LORD⟧ add to me another son."
 
-[25] When Rachel had borne Joseph, Jacob said to Laban, "Send me away, that I may go to my own place and to my country.
+[25] When Rachel had borne ⟦joseph|Yosef|Joseph⟧, ⟦jacob|Yaaqov|Jacob⟧ said to ⟦laban|Lavan|Laban⟧, "Send me away, that I may go to my own place and to my country.
 
 [26] Give me my wives and my children, for whom I have served you, and let me go; for you know the service that I have given you."
 
-[27] But Laban said to him, "If I have found favor in your sight — I have learned by divination that Yahweh has blessed me because of you."
+[27] But ⟦laban|Lavan|Laban⟧ said to him, "If I have found favor in your sight — I have learned by divination that ⟦yhwh|Yahweh|the LORD⟧ has blessed me because of you."
 
 [28] And he said, "Name me your wages, and I will give it."
 
-[29] Jacob said to him, "You know how I have served you, and how your livestock has fared with me.
+[29] ⟦jacob|Yaaqov|Jacob⟧ said to him, "You know how I have served you, and how your livestock has fared with me.
 
-[30] For the little you had before I came has grown to a multitude, and Yahweh has blessed you wherever I have gone. Now when shall I provide for my own household also?"
+[30] For the little you had before I came has grown to a multitude, and ⟦yhwh|Yahweh|the LORD⟧ has blessed you wherever I have gone. Now when shall I provide for my own household also?"
 
-[31] Laban said, "What shall I give you?" Jacob said, "Give me nothing. If you will do this one thing for me, I will again pasture and keep your flock.
+[31] ⟦laban|Lavan|Laban⟧ said, "What shall I give you?" ⟦jacob|Yaaqov|Jacob⟧ said, "Give me nothing. If you will do this one thing for me, I will again pasture and keep your flock.
 
 [32] Let me pass through all your flock today, removing from it every speckled and spotted animal, every black lamb among the sheep, and the spotted and speckled among the goats; and these shall be my wages.
 
 [33] So my honesty will answer for me on a future day, when you come to check my wages before your face: every one that is not speckled and spotted among the goats, and black among the sheep, if found with me, shall be counted stolen."
 
-[34] Laban said, "Good! Let it be as you have said."
+[34] ⟦laban|Lavan|Laban⟧ said, "Good! Let it be as you have said."
 
-[35] But that same day Laban removed the striped and spotted male goats, and all the speckled and spotted female goats — every one that had any white in it — and every black one among the sheep; and he put them in the care of his sons.
+[35] But that same day ⟦laban|Lavan|Laban⟧ removed the striped and spotted male goats, and all the speckled and spotted female goats — every one that had any white in it — and every black one among the sheep; and he put them in the care of his sons.
 
-[36] And he set three days' journey between himself and Jacob; and Jacob pastured the rest of Laban's flock.
+[36] And he set three days' journey between himself and ⟦jacob|Yaaqov|Jacob⟧; and ⟦jacob|Yaaqov|Jacob⟧ pastured the rest of ⟦laban|Lavan|Laban⟧'s flock.
 
-[37] Then Jacob took fresh rods of poplar, almond, and plane tree, and peeled white stripes in them, exposing the white on the rods.
+[37] Then ⟦jacob|Yaaqov|Jacob⟧ took fresh rods of poplar, almond, and plane tree, and peeled white stripes in them, exposing the white on the rods.
 
 [38] And he set the rods that he had peeled in front of the flocks, in the troughs — the watering troughs where the flocks came to drink — so that they would mate when they came to drink.
 
 [39] And the flocks mated before the rods, and the flocks produced young that were striped, speckled, and spotted.
 
-[40] Jacob separated the lambs, and set the faces of the flock toward the striped and all the black in Laban's flock. Then he put his own droves apart, and did not put them with Laban's flock.
+[40] ⟦jacob|Yaaqov|Jacob⟧ separated the lambs, and set the faces of the flock toward the striped and all the black in ⟦laban|Lavan|Laban⟧'s flock. Then he put his own droves apart, and did not put them with ⟦laban|Lavan|Laban⟧'s flock.
 
-[41] Whenever the stronger of the flock were mating, Jacob laid the rods in front of the flock in the troughs, that they might mate among the rods;
+[41] Whenever the stronger of the flock were mating, ⟦jacob|Yaaqov|Jacob⟧ laid the rods in front of the flock in the troughs, that they might mate among the rods;
 
-[42] but when the flock were feeble, he did not put them there. So the feebler were Laban's, and the stronger Jacob's.
+[42] but when the flock were feeble, he did not put them there. So the feebler were ⟦laban|Lavan|Laban⟧'s, and the stronger ⟦jacob|Yaaqov|Jacob⟧'s.
 
 [43] The man became exceedingly prosperous, and had large flocks, female and male slaves, camels and donkeys.
 

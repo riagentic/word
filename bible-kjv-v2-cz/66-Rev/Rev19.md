@@ -2,8 +2,8 @@
 
 [1] Potom jsem slyšel cosi jako silný hlas velikého zástupu v nebi, jak volá:
 
-„**Hallelujah!**
-Spása a sláva a moc patří našemu *Elohim*,
+„**⟦hallelujah|Hallelujah|Haleluja⟧!**
+Spása a sláva a moc patří našemu ⟦elohim|Elohim|Bohu⟧,
 [2] neboť jeho soudy jsou pravé a spravedlivé;
 odsoudil totiž velikou nevěstku,
 která kazila zemi svým smilstvem,
@@ -11,21 +11,21 @@ a pomstil na ní krev svých služebníků.“
 
 [3] A znovu zvolali:
 
-„**Hallelujah!** Dým z ní stoupá na věky věků.“
+„**⟦hallelujah|Hallelujah|Haleluja⟧!** Dým z ní stoupá na věky věků.“
 
-[4] A dvacet čtyři starších a čtyři živé bytosti padli a klaněli se *Elohim*, který seděl na trůnu, a říkali: „Amen. Hallelujah!“
+[4] A dvacet čtyři starších a čtyři živé bytosti padli a klaněli se ⟦elohim|Elohim|Bohu⟧, který seděl na trůnu, a říkali: „Amen. ⟦hallelujah|Hallelujah|Haleluja⟧!“
 
 [5] A od trůnu vyšel hlas, který říkal:
 
-„Chvalte našeho *Elohim*,
+„Chvalte našeho ⟦elohim|Elohim|Boha⟧,
 všichni jeho služebníci,
 vy, kdo se ho bojíte,
 malí i velcí.“
 
 [6] Potom jsem slyšel cosi jako hlas velikého zástupu, jako hukot mnoha vod a jako zvuk mohutných hromů, jak volá:
 
-„**Hallelujah!
-Neboť Pán, náš *Elohim*,
+„**⟦hallelujah|Hallelujah|Haleluja⟧!
+Neboť Pán, náš ⟦elohim|Elohim|Bůh⟧,
 Všemohoucí, kraluje.**
 [7] Radujme se a jásejme
 a vzdejme mu slávu,
@@ -36,23 +36,23 @@ do jemného plátna, zářícího a čistého“ –
 
 to jemné plátno jsou totiž spravedlivé skutky svatých.
 
-[9] A anděl mi řekl: „Napiš: **Blahoslavení, kdo jsou pozváni na svatební hostinu Beránka**.“ A řekl mi: „To jsou pravá slova *Elohim*.“
+[9] A anděl mi řekl: „Napiš: **Blahoslavení, kdo jsou pozváni na svatební hostinu Beránka**.“ A řekl mi: „To jsou pravá slova ⟦elohim|Elohim|Boží⟧.“
 
-[10] Tu jsem padl k jeho nohám, abych se mu poklonil, ale on mi řekl: „To nesmíš! Jsem spoluslužebník tvůj i tvých bratrů, kteří se drží svědectví *Yeshuy*. Klaněj se *Elohim*. Svědectví *Yeshuy* je totiž duch proroctví.“
+[10] Tu jsem padl k jeho nohám, abych se mu poklonil, ale on mi řekl: „To nesmíš! Jsem spoluslužebník tvůj i tvých bratrů, kteří se drží svědectví ⟦yeshua|Ješuy|Ježíše⟧. Klaněj se ⟦elohim|Elohim|Bohu⟧. Svědectví ⟦yeshua|Ješuy|Ježíše⟧ je totiž duch proroctví.“
 
 [11] Potom jsem viděl otevřené nebe, a hle, bílý kůň! Ten, který na něm sedí, se nazývá Věrný a Pravý a ve spravedlnosti soudí a vede válku.
 
 [12] Jeho oči jsou jako plamen ohně, na hlavě má mnoho diadémů a má napsané jméno, které nezná nikdo kromě něho samého.
 
-[13] Je oděn v roucho namočené v krvi a jméno, kterým se nazývá, je **Slovo *Elohim***.
+[13] Je oděn v roucho namočené v krvi a jméno, kterým se nazývá, je **Slovo ⟦elohim|Elohim|Boží⟧**.
 
 [14] A nebeská vojska, oděná v jemné plátno, bílé a čisté, ho následovala na bílých koních.
 
-[15] Z jeho úst vychází ostrý meč, aby jím bil národy, a bude je pást železnou holí. On bude šlapat lis vína zuřivosti hněvu *Elohim* Všemohoucího.
+[15] Z jeho úst vychází ostrý meč, aby jím bil národy, a bude je pást železnou holí. On bude šlapat lis vína zuřivosti hněvu ⟦elohim|Elohim|Boha⟧ Všemohoucího.
 
 [16] Na rouchu a na stehně má napsané jméno: **Král králů a Pán pánů**.
 
-[17] Potom jsem viděl anděla, jak stojí ve slunci, a silným hlasem zavolal na všechny ptáky, kteří létají přímo nad hlavou: „Pojďte, shromážděte se k veliké hostině *Elohim*,
+[17] Potom jsem viděl anděla, jak stojí ve slunci, a silným hlasem zavolal na všechny ptáky, kteří létají přímo nad hlavou: „Pojďte, shromážděte se k veliké hostině ⟦elohim|Elohim|Boží⟧,
 
 [18] abyste jedli maso králů, maso velitelů, maso mocných mužů, maso koní a jejich jezdců a maso všech lidí, svobodných i otroků, malých i velkých.“
 

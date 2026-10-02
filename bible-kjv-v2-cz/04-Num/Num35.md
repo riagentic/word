@@ -1,24 +1,24 @@
 # Numeri 35
 
-[1] Yahweh promluvil k Mosesovi na moabských pláních u Jordanu naproti Jerichu a řekl:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ na ⟦moab|moavských|moábských⟧ pláních u ⟦jordan|Jardenu|Jordánu⟧ naproti Jerichu a řekl:
 
-[2] „Přikaž synům Israele, aby dali Levitům z dědictví svého vlastnictví města k bydlení; a Levitům dáte také pastviny kolem měst.
+[2] „Přikaž synům ⟦israel|Jisraele|Izraele⟧, aby dali ⟦levites|Levijim|lévijcům⟧ z dědictví svého vlastnictví města k bydlení; a ⟦levites|Levijim|lévijcům⟧ dáte také pastviny kolem měst.
 
 [3] Města budou jejich k bydlení a jejich pastviny budou pro jejich dobytek, jejich majetek a všechna jejich zvířata.
 
-[4] Pastviny měst, která dáte Levitům, budou sahat od městské hradby ven tisíc loket dokola.
+[4] Pastviny měst, která dáte ⟦levites|Levijim|lévijcům⟧, budou sahat od městské hradby ven tisíc loket dokola.
 
 [5] Naměříte vně města na východní straně dva tisíce loket, na jižní straně dva tisíce loket, na západní straně dva tisíce loket a na severní straně dva tisíce loket, s městem uprostřed; to budou pastviny jejich měst.
 
-[6] Mezi městy, která dáte Levitům, bude šest útočištných měst, která určíte, aby tam mohl utéci ten, kdo zabil člověka; a kromě nich dáte čtyřicet dva měst.
+[6] Mezi městy, která dáte ⟦levites|Levijim|lévijcům⟧, bude šest útočištných měst, která určíte, aby tam mohl utéci ten, kdo zabil člověka; a kromě nich dáte čtyřicet dva měst.
 
-[7] Všech měst, která dáte Levitům, bude čtyřicet osm, i s jejich pastvinami.
+[7] Všech měst, která dáte ⟦levites|Levijim|lévijcům⟧, bude čtyřicet osm, i s jejich pastvinami.
 
-[8] Pokud jde o města, která dáte z vlastnictví synů Israele – od početného vezmete mnoho a od malého vezmete málo; každý dá Levitům některá ze svých měst v poměru ke svému dědictví.“
+[8] Pokud jde o města, která dáte z vlastnictví synů ⟦israel|Jisraele|Izraele⟧ – od početného vezmete mnoho a od malého vezmete málo; každý dá ⟦levites|Levijim|lévijcům⟧ některá ze svých měst v poměru ke svému dědictví.“
 
-[9] Yahweh promluvil k Mosesovi a řekl:
+[9] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a řekl:
 
-[10] „Mluv k synům Israele a řekni jim: ‚Až přejdete Jordan do země Canaan,
+[10] „Mluv k synům ⟦israel|Jisraele|Izraele⟧ a řekni jim: ‚Až přejdete ⟦jordan|Jarden|Jordán⟧ do země Kenaan,
 
 [11] určíte si města, která vám budou útočištnými městy, aby tam mohl utéci ten, kdo zabil, kdo neúmyslně usmrtil člověka.
 
@@ -26,9 +26,9 @@
 
 [13] Města, která dáte, vám budou šesti útočištnými městy.
 
-[14] Tři města dáte za Jordanem a tři města v zemi Canaan; budou útočištnými městy.
+[14] Tři města dáte za ⟦jordan|Jardenem|Jordánem⟧ a tři města v zemi Kenaan; budou útočištnými městy.
 
-[15] Těchto šest měst bude útočištěm pro syny Israele, pro cizince i pro přistěhovalce mezi nimi, aby tam mohl utéci každý, kdo neúmyslně usmrtí člověka.
+[15] Těchto šest měst bude útočištěm pro syny ⟦israel|Jisraele|Izraele⟧, pro cizince i pro přistěhovalce mezi nimi, aby tam mohl utéci každý, kdo neúmyslně usmrtí člověka.
 
 [16] Jestliže ho však udeřil železným nástrojem, takže zemřel, je vrah; vrah bude jistě usmrcen.
 
@@ -66,7 +66,7 @@
 
 [33] Neznesvětíte tedy zemi, v níž bydlíte, neboť krev zemi znesvěcuje; a za zemi nelze vykonat smíření za krev v ní prolitou, leč krví toho, kdo ji prolil.
 
-[34] Neposkvrňujte zemi, v níž bydlíte, uprostřed níž já přebývám; neboť já, Yahweh, přebývám uprostřed synů Israele.‘“
+[34] Neposkvrňujte zemi, v níž bydlíte, uprostřed níž já přebývám; neboť já, ⟦yhwh|Jahve|Hospodin⟧, přebývám uprostřed synů ⟦israel|Jisraele|Izraele⟧.‘“
 
 ## Změny
 

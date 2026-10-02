@@ -1,23 +1,23 @@
 # Izajáš 1
 
-[1] Vidění Isaiaha – syna Amoze, které viděl o Judahu a Jerusalemu ve dnech Uzziaha, Jothama, Ahaze a Hezekiaha, králů Judahu.
+[1] Vidění ⟦isaiah|Ješajahua|Izajáše⟧ – syna ⟦amoz|Amoce|Amóse⟧, které viděl o ⟦judah|Jehudě|Judě⟧ a ⟦jerusalem|Jerušalajim|Jeruzalému⟧ ve dnech ⟦uzziah|Uzzijahua|Uzijáše⟧, ⟦jotham|Jotama|Jótama⟧, Achaze a ⟦hezekiah|Chizkijahua|Chizkijáše⟧, králů ⟦judah|Jehudy|Judy⟧.
 
 [2] Slyšte, nebesa, a naslouchej, země,
-neboť Yahweh promluvil:
+neboť ⟦yhwh|Jahve|Hospodin⟧ promluvil:
 „Syny jsem vychoval a vypěstoval,
 ale oni se proti mně vzbouřili.
 
 [3] Vůl zná svého vlastníka
 a osel jesle svého pána,
-ale Israel nezná,
+ale ⟦israel|Jisrael|Izrael⟧ nezná,
 můj lid nerozumí.“
 
 [4] Běda, hříšný národe,
 lide obtížený nepravostí,
 potomstvo zločinců,
 synové, kteří jednají zvráceně!
-Opustili Yahweh,
-pohrdli Svatým Israele –
+Opustili ⟦yhwh|Jahveho|Hospodina⟧,
+pohrdli Svatým ⟦israel|Jisraele|Izraele⟧ –
 zcela se odcizili.
 
 [5] Proč ještě chcete být biti?
@@ -37,25 +37,25 @@ vaše města jsou vypálená ohněm;
 přímo před vašima očima pohlcují cizinci vaši půdu;
 je zpustošená, jako by ji vyvrátili cizinci.
 
-[8] A dcera Zionu zůstala
+[8] A dcera ⟦zion|Cijonu|Sijónu⟧ zůstala
 jako chýše na vinici,
 jako přístřešek na okurkovém poli,
 jako obležené město.
 
-[9] Kdyby nám Yahweh zástupů nenechal několik málo přeživších,
-byli bychom jako Sodom
-a podobali bychom se Gomorře.
+[9] Kdyby nám ⟦yhwh|Jahve|Hospodin⟧ zástupů nenechal několik málo přeživších,
+byli bychom jako ⟦sodom|Sedom|Sodoma⟧
+a podobali bychom se ⟦gomorrah|Amoře|Gomoře⟧.
 
-[10] Slyšte slovo Yahweh,
-vládcové Sodomu!
-Naslouchejte Zákonu našeho *Elohim*,
-lide Gomorry!
+[10] Slyšte slovo ⟦yhwh|Jahveho|Hospodina⟧,
+vládcové ⟦sodom|Sedomu|Sodomy⟧!
+Naslouchejte ⟦torah|Tóře|naučení⟧ našeho ⟦elohim|Elohim|Boha⟧,
+lide ⟦gomorrah|Amory|Gomory⟧!
 
-[11] „K čemu je mi množství vašich obětí?“ praví Yahweh. „Mám dost zápalných obětí beranů a tuku vykrmeného dobytka; nemám zalíbení v krvi býků ani jehňat ani kozlů.
+[11] „K čemu je mi množství vašich obětí?“ praví ⟦yhwh|Jahve|Hospodin⟧. „Mám dost zápalných obětí beranů a tuku vykrmeného dobytka; nemám zalíbení v krvi býků ani jehňat ani kozlů.
 
 [12] Když přicházíte, abyste se ukázali před mou tváří, kdo od vás žádal toto šlapání po mých nádvořích?
 
-[13] Nepřinášejte už marné obětní dary; kadidlo je mi ohavností. Novoluní a sabat a svolávání shromáždění – nesnesu nepravost spolu se slavnostním shromážděním.
+[13] Nepřinášejte už marné obětní dary; kadidlo je mi ohavností. Novoluní a ⟦shabbat|šabat|sobota⟧ a svolávání shromáždění – nesnesu nepravost spolu se slavnostním shromážděním.
 
 [14] Vaše novoluní a vaše určené svátky nenávidí má duše; staly se mi břemenem; jsem unaven je nést.
 
@@ -71,7 +71,7 @@ napravujte útlak;
 zjednávejte právo sirotkovi,
 veďte při vdovy.
 
-[18] Nuže pojďte, projednejme to spolu, praví Yahweh:
+[18] Nuže pojďte, projednejme to spolu, praví ⟦yhwh|Jahve|Hospodin⟧:
 i kdyby vaše hříchy byly jako šarlat,
 zbělají jako sníh;
 i kdyby byly rudé jako karmín,
@@ -82,7 +82,7 @@ budete jíst dobra země;
 
 [20] ale budete-li odmítat a bouřit se,
 pohltí vás meč;
-neboť ústa Yahweh promluvila.
+neboť ústa ⟦yhwh|Jahveho|Hospodina⟧ promluvila.
 
 [21] Jak se věrné město
 stalo nevěstkou,
@@ -100,7 +100,7 @@ a honí se za dary.
 Sirotkovi nezjednávají právo
 a při vdovy k nim nepřichází.
 
-[24] Proto praví Pán, Yahweh zástupů, Mocný Israele:
+[24] Proto praví Pán, ⟦yhwh|Jahve|Hospodin⟧ zástupů, Mocný ⟦israel|Jisraele|Izraele⟧:
 
 „Běda, ulevím si od svých nepřátel
 a pomstím se na svých protivnících.
@@ -114,11 +114,11 @@ a tvé rádce jako na počátku.
 Potom budeš nazváno městem spravedlnosti,
 věrným městem.“
 
-[27] Zion bude vykoupen právem
+[27] ⟦zion|Cijon|Sijón⟧ bude vykoupen právem
 a ti v něm, kdo se obrátí, spravedlností.
 
 [28] Ale buřiči a hříšníci budou společně rozdrceni
-a ti, kdo opouštějí Yahweh, budou stráveni.
+a ti, kdo opouštějí ⟦yhwh|Jahveho|Hospodina⟧, budou stráveni.
 
 [29] Neboť se budou stydět za duby,
 po nichž jste toužili;

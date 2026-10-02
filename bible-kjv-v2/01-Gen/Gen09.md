@@ -1,6 +1,6 @@
 # Genesis 9
 
-[1] *Elohim* blessed Noah and his sons and said to them, "Be fruitful and multiply, and fill the earth.
+[1] ⟦elohim|Elohim|God⟧ blessed ⟦noah|Noach|Noah⟧ and his sons and said to them, "Be fruitful and multiply, and fill the earth.
 
 [2] The fear of you and the dread of you shall be on every wild animal of the earth and on every bird of the heavens — on everything that moves on the ground and all the fish of the sea. Into your hand they are given.
 
@@ -10,11 +10,11 @@
 
 [5] And for your own lifeblood I will require an accounting: from every animal I will require it, and from each human; from each person's brother I will require the life of a human.
 
-[6] Whoever sheds human blood, by a human shall his blood be shed; for in the image of *Elohim* he made humankind.
+[6] Whoever sheds human blood, by a human shall his blood be shed; for in the image of ⟦elohim|Elohim|God⟧ he made humankind.
 
 [7] And you, be fruitful and multiply; swarm on the earth and multiply in it."
 
-[8] *Elohim* said to Noah and to his sons with him,
+[8] ⟦elohim|Elohim|God⟧ said to ⟦noah|Noach|Noah⟧ and to his sons with him,
 
 [9] "And I, behold, I am establishing my covenant with you and with your offspring after you,
 
@@ -22,7 +22,7 @@
 
 [11] I establish my covenant with you: never again shall all flesh be cut off by the waters of a flood, and never again shall there be a flood to destroy the earth."
 
-[12] And *Elohim* said, "This is the sign of the covenant that I am making between me and you and every living being that is with you, for generations forever:
+[12] And ⟦elohim|Elohim|God⟧ said, "This is the sign of the covenant that I am making between me and you and every living being that is with you, for generations forever:
 
 [13] I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth.
 
@@ -30,41 +30,41 @@
 
 [15] and I will remember my covenant between me and you and every living being of all flesh, and the waters shall never again become a flood to destroy all flesh.
 
-[16] The bow shall be in the cloud, and I will look upon it to remember the everlasting covenant between *Elohim* and every living being of all flesh that is on the earth."
+[16] The bow shall be in the cloud, and I will look upon it to remember the everlasting covenant between ⟦elohim|Elohim|God⟧ and every living being of all flesh that is on the earth."
 
-[17] And *Elohim* said to Noah, "This is the sign of the covenant that I have established between me and all flesh that is on the earth."
+[17] And ⟦elohim|Elohim|God⟧ said to ⟦noah|Noach|Noah⟧, "This is the sign of the covenant that I have established between me and all flesh that is on the earth."
 
-[18] The sons of Noah who went out of the ark were Shem, Ham, and Japheth; and Ham was the father of Canaan.
+[18] The sons of ⟦noah|Noach|Noah⟧ who went out of the ark were Shem, ⟦ham|Cham|Ham⟧, and ⟦japheth|Yefet|Japheth⟧; and ⟦ham|Cham|Ham⟧ was the father of ⟦canaan|Kenaan|Canaan⟧.
 
-[19] These three were the sons of Noah, and from them the whole earth was populated.
+[19] These three were the sons of ⟦noah|Noach|Noah⟧, and from them the whole earth was populated.
 
-[20] Noah, a man of the ground, was the first to plant a vineyard.
+[20] ⟦noah|Noach|Noah⟧, a man of the ground, was the first to plant a vineyard.
 
 [21] He drank some of the wine and became drunk, and he lay uncovered in his tent.
 
-[22] Ham, the father of Canaan, saw the nakedness of his father and told his two brothers outside.
+[22] ⟦ham|Cham|Ham⟧, the father of ⟦canaan|Kenaan|Canaan⟧, saw the nakedness of his father and told his two brothers outside.
 
-[23] Then Shem and Japheth took a garment, laid it on both their shoulders, and walked in backward and covered the nakedness of their father; their faces were turned away, and they did not see their father's nakedness.
+[23] Then Shem and ⟦japheth|Yefet|Japheth⟧ took a garment, laid it on both their shoulders, and walked in backward and covered the nakedness of their father; their faces were turned away, and they did not see their father's nakedness.
 
-[24] When Noah awoke from his wine and knew what his youngest son had done to him,
+[24] When ⟦noah|Noach|Noah⟧ awoke from his wine and knew what his youngest son had done to him,
 
 [25] he said,
 
-"Cursed be Canaan;
+"Cursed be ⟦canaan|Kenaan|Canaan⟧;
 a servant of servants shall he be to his brothers."
 
 [26] And he said,
 
-"Blessed be Yahweh, *Elohim* of Shem;
-and let Canaan be his servant.
+"Blessed be ⟦yhwh|Yahweh|the LORD⟧, ⟦elohim|Elohim|God⟧ of Shem;
+and let ⟦canaan|Kenaan|Canaan⟧ be his servant.
 
-[27] May *Elohim* enlarge Japheth,
+[27] May ⟦elohim|Elohim|God⟧ enlarge ⟦japheth|Yefet|Japheth⟧,
 and let him dwell in the tents of Shem;
-and let Canaan be his servant."
+and let ⟦canaan|Kenaan|Canaan⟧ be his servant."
 
-[28] Noah lived after the flood 350 years.
+[28] ⟦noah|Noach|Noah⟧ lived after the flood 350 years.
 
-[29] All the days of Noah were 950 years; and he died.
+[29] All the days of ⟦noah|Noach|Noah⟧ were 950 years; and he died.
 
 ## Changes
 

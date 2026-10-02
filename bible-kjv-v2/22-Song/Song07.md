@@ -14,12 +14,12 @@ encircled with lilies.
 twins of a gazelle.
 
 [4] Your neck is like an ivory tower.
-Your eyes are pools in Heshbon,
-by the gate of Bath-rabbim.
-Your nose is like a tower of Lebanon,
-which looks toward Damascus.
+Your eyes are pools in ⟦heshbon|Cheshbon|Heshbon⟧,
+by the gate of ⟦bath-rabbim|Bat-Rabbim|Bath-rabbim⟧.
+Your nose is like a tower of ⟦lebanon|Levanon|Lebanon⟧,
+which looks toward ⟦damascus|Dammeseq|Damascus⟧.
 
-[5] Your head crowns you like Carmel,
+[5] Your head crowns you like ⟦carmel|Karmel|Carmel⟧,
 and your flowing locks are like purple;
 a king is held captive in the tresses.
 

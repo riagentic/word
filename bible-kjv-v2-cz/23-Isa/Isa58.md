@@ -1,16 +1,16 @@
 # Izajáš 58
 
 [1] „Volej plným hrdlem, nezdráhej se;
-pozdvihni svůj hlas jako polnici;
+pozdvihni svůj hlas jako ⟦shofar|šofar|polnici⟧;
 oznam mému lidu jeho přestoupení,
-domu Jacoba jeho hříchy.
+domu ⟦jacob|Jaakova|Jákoba⟧ jeho hříchy.
 
 [2] A přece mě hledají den co den
 a rádi poznávají mé cesty,
 jako by byli národem, který činil spravedlnost
-a neopustil právo svého *Elohim*;
+a neopustil právo svého ⟦elohim|Elohim|Boha⟧;
 žádají ode mne spravedlivé soudy;
-rádi se přibližují k *Elohim*.
+rádi se přibližují k ⟦elohim|Elohim|Bohu⟧.
 
 [3] ‚Proč jsme se postili, a ty to nevidíš?
 Proč jsme se pokořovali, a ty o tom nevíš?‘
@@ -27,7 +27,7 @@ den, kdy se člověk pokořuje?
 Sklánět hlavu jako rákos
 a stlát si pod sebe žíněné roucho a popel?
 Tohle nazveš půstem
-a dnem, který je milý Yahweh?
+a dnem, který je milý ⟦yhwh|Jahvovi|Hospodinu⟧?
 
 [6] Není snad toto půst, který jsem si vyvolil:
 rozvázat pouta svévole,
@@ -43,9 +43,9 @@ a neskrývat se před svým vlastním tělem?
 [8] Tehdy vytryskne tvé světlo jako úsvit
 a tvé uzdravení rychle vzejde;
 tvá spravedlnost půjde před tebou;
-sláva Yahweh bude tvým zadním vojem.
+sláva ⟦yhwh|Jahveho|Hospodina⟧ bude tvým zadním vojem.
 
-[9] Tehdy zavoláš, a Yahweh odpoví;
+[9] Tehdy zavoláš, a ⟦yhwh|Jahve|Hospodin⟧ odpoví;
 budeš volat o pomoc, a on řekne: ‚Tady jsem.‘
 Jestliže odstraníš ze svého středu jho,
 ukazování prstem a mluvení svévole,
@@ -55,7 +55,7 @@ a nasytíš touhu pokořeného,
 tehdy vzejde tvé světlo ve tmě
 a tvé šero bude jako poledne.
 
-[11] A Yahweh tě bude ustavičně vést
+[11] A ⟦yhwh|Jahve|Hospodin⟧ tě bude ustavičně vést
 a nasytí tvou touhu na vyprahlých místech
 a posílí tvé kosti;
 a budeš jako zavlažovaná zahrada,
@@ -67,17 +67,17 @@ vybuduješ základy mnoha pokolení;
 budeš nazýván opravcem trhliny,
 obnovitelem ulic k bydlení.
 
-[13] Jestliže zdržíš svou nohu od sabatu,
+[13] Jestliže zdržíš svou nohu od ⟦shabbat|šabatu|soboty⟧,
 od konání své libovůle v můj svatý den,
-a nazveš sabat rozkoší
-a svatý den Yahweh ctihodným;
+a nazveš ⟦shabbat|šabat|sobotu⟧ rozkoší
+a svatý den ⟦yhwh|Jahveho|Hospodina⟧ ctihodným;
 jestliže ho budeš ctít a nepůjdeš svými vlastními cestami
 ani nebudeš hledat své vlastní potěšení ani plané řeči vést;
 
-[14] tehdy se budeš kochat v Yahweh
+[14] tehdy se budeš kochat v ⟦yhwh|Jahvovi|Hospodinu⟧
 a dám ti jezdit po výšinách země;
-budu tě sytit dědictvím Jacoba, tvého otce,
-neboť ústa Yahweh promluvila.“
+budu tě sytit dědictvím ⟦jacob|Jaakova|Jákoba⟧, tvého otce,
+neboť ústa ⟦yhwh|Jahveho|Hospodina⟧ promluvila.“
 
 ## Změny
 

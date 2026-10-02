@@ -1,10 +1,10 @@
 # Jonah 2
 
-[1] Then Jonah prayed to Yahweh his *Elohim* from the belly of the fish,
+[1] Then ⟦jonah|Yonah|Jonah⟧ prayed to ⟦yhwh|Yahweh|the LORD⟧ his ⟦elohim|Elohim|God⟧ from the belly of the fish,
 
 [2] saying,
 
-"I called out to Yahweh, out of my distress,
+"I called out to ⟦yhwh|Yahweh|the LORD⟧, out of my distress,
 and he answered me;
 out of the belly of Sheol I cried,
 and you heard my voice.
@@ -28,22 +28,22 @@ weeds were wrapped about my head
 I went down to the land
 whose bars closed upon me forever;
 yet you brought up my life from the pit,
-O Yahweh my *Elohim*.
+O ⟦yhwh|Yahweh|LORD⟧ my ⟦elohim|Elohim|God⟧.
 
 [7] When my soul fainted within me,
-I remembered Yahweh,
+I remembered ⟦yhwh|Yahweh|the LORD⟧,
 and my prayer came to you,
 into your holy temple.
 
 [8] Those who pay regard to vain idols
-forsake their steadfast love.
+forsake their ⟦steadfast-love|chesed|steadfast love⟧.
 
 [9] But I with the voice of thanksgiving
 will sacrifice to you;
 what I have vowed I will pay.
-**Yeshuah belongs to Yahweh!**"
+**⟦yeshuah|Yeshuah|Salvation⟧ belongs to ⟦yhwh|Yahweh|the LORD⟧!**"
 
-[10] And Yahweh spoke to the fish, and it vomited Jonah out upon the dry land.
+[10] And ⟦yhwh|Yahweh|the LORD⟧ spoke to the fish, and it vomited ⟦jonah|Yonah|Jonah⟧ out upon the dry land.
 
 ## Changes
 

@@ -1,54 +1,54 @@
 # Genesis 28
 
-[1] Isaac called Jacob and blessed him, and charged him, saying, "You shall not take a wife from the daughters of Canaan.
+[1] ⟦isaac|Yitzchaq|Isaac⟧ called ⟦jacob|Yaaqov|Jacob⟧ and blessed him, and charged him, saying, "You shall not take a wife from the daughters of ⟦canaan|Kenaan|Canaan⟧.
 
-[2] Arise, go to Paddan-Aram, to the house of Bethuel your mother's father; and take a wife for yourself from there, from the daughters of Laban your mother's brother.
+[2] Arise, go to ⟦paddan-aram|Paddan Aram|Paddan-Aram⟧, to the house of ⟦bethuel|Betuel|Bethuel⟧ your mother's father; and take a wife for yourself from there, from the daughters of ⟦laban|Lavan|Laban⟧ your mother's brother.
 
-[3] May Almighty *Elohim* bless you and make you fruitful and multiply you, that you may become a company of peoples.
+[3] May ⟦el-shaddai|El Shaddai|God Almighty⟧ bless you and make you fruitful and multiply you, that you may become a company of peoples.
 
-[4] May he give you the blessing of Abraham, to you and to your offspring with you, that you may take possession of the land of your sojourning, which *Elohim* gave to Abraham."
+[4] May he give you the blessing of ⟦abraham|Avraham|Abraham⟧, to you and to your offspring with you, that you may take possession of the land of your sojourning, which ⟦elohim|Elohim|God⟧ gave to ⟦abraham|Avraham|Abraham⟧."
 
-[5] So Isaac sent Jacob away, and he went to Paddan-Aram, to Laban son of Bethuel the Aramean, brother of Rebekah, the mother of Jacob and Esau.
+[5] So ⟦isaac|Yitzchaq|Isaac⟧ sent ⟦jacob|Yaaqov|Jacob⟧ away, and he went to ⟦paddan-aram|Paddan Aram|Paddan-Aram⟧, to ⟦laban|Lavan|Laban⟧ son of ⟦bethuel|Betuel|Bethuel⟧ the ⟦aramean|Arammi|Aramean⟧, brother of ⟦rebekah|Rivqah|Rebekah⟧, the mother of ⟦jacob|Yaaqov|Jacob⟧ and ⟦esau|Esav|Esau⟧.
 
-[6] Now Esau saw that Isaac had blessed Jacob and sent him away to Paddan-Aram to take a wife from there, and that as he blessed him he charged him, saying, "You shall not take a wife from the daughters of Canaan,"
+[6] Now ⟦esau|Esav|Esau⟧ saw that ⟦isaac|Yitzchaq|Isaac⟧ had blessed ⟦jacob|Yaaqov|Jacob⟧ and sent him away to ⟦paddan-aram|Paddan Aram|Paddan-Aram⟧ to take a wife from there, and that as he blessed him he charged him, saying, "You shall not take a wife from the daughters of ⟦canaan|Kenaan|Canaan⟧,"
 
-[7] and that Jacob had obeyed his father and his mother and had gone to Paddan-Aram.
+[7] and that ⟦jacob|Yaaqov|Jacob⟧ had obeyed his father and his mother and had gone to ⟦paddan-aram|Paddan Aram|Paddan-Aram⟧.
 
-[8] So when Esau saw that the daughters of Canaan did not please Isaac his father,
+[8] So when ⟦esau|Esav|Esau⟧ saw that the daughters of ⟦canaan|Kenaan|Canaan⟧ did not please ⟦isaac|Yitzchaq|Isaac⟧ his father,
 
-[9] Esau went to Ishmael and took Mahalath the daughter of Ishmael, Abraham's son, the sister of Nebaioth, as his wife, in addition to the wives he already had.
+[9] ⟦esau|Esav|Esau⟧ went to ⟦ishmael|Yishmael|Ishmael⟧ and took ⟦mahalath|Machalat|Mahalath⟧ the daughter of ⟦ishmael|Yishmael|Ishmael⟧, ⟦abraham|Avraham|Abraham⟧'s son, the sister of ⟦nebaioth|Nevayot|Nebaioth⟧, as his wife, in addition to the wives he already had.
 
-[10] Jacob left Beersheba and went toward Haran.
+[10] ⟦jacob|Yaaqov|Jacob⟧ left ⟦beersheba|Beer Sheva|Beersheba⟧ and went toward ⟦haran-city|Charan|Haran⟧.
 
 [11] He came upon a certain place and stayed there for the night, because the sun had set. Taking one of the stones of the place, he put it under his head, and he lay down in that place.
 
-[12] He dreamed — and behold, a stairway set up on the earth with its top reaching to the heavens, and behold, messengers of *Elohim* ascending and descending on it.
+[12] He dreamed — and behold, a stairway set up on the earth with its top reaching to the heavens, and behold, messengers of ⟦elohim|Elohim|God⟧ ascending and descending on it.
 
-[13] And behold, Yahweh stood above it and said, "I am Yahweh, the *Elohim* of Abraham your father and the *Elohim* of Isaac. The land on which you lie I will give to you and to your offspring.
+[13] And behold, ⟦yhwh|Yahweh|the LORD⟧ stood above it and said, "I am ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of ⟦abraham|Avraham|Abraham⟧ your father and the ⟦elohim|Elohim|God⟧ of ⟦isaac|Yitzchaq|Isaac⟧. The land on which you lie I will give to you and to your offspring.
 
 [14] And your offspring shall be as the dust of the earth, and you shall spread abroad to the west and to the east and to the north and to the south; and in you and in your offspring all the clans of the earth shall find blessing.
 
 [15] And behold, I am with you and will keep you wherever you go, and will bring you back to this land; for I will not leave you until I have done what I have spoken to you."
 
-[16] Jacob awoke from his sleep and said, "Surely Yahweh is in this place, and I did not know it."
+[16] ⟦jacob|Yaaqov|Jacob⟧ awoke from his sleep and said, "Surely ⟦yhwh|Yahweh|the LORD⟧ is in this place, and I did not know it."
 
-[17] He was afraid and said, "How awesome is this place! This is none other than the house of *Elohim*, and this is the gate of the heavens."
+[17] He was afraid and said, "How awesome is this place! This is none other than the house of ⟦elohim|Elohim|God⟧, and this is the gate of the heavens."
 
-[18] Jacob rose early in the morning, took the stone that he had put under his head, and set it up as a pillar, and poured oil on its top.
+[18] ⟦jacob|Yaaqov|Jacob⟧ rose early in the morning, took the stone that he had put under his head, and set it up as a pillar, and poured oil on its top.
 
-[19] He called the name of that place Bethel; but the name of the city was formerly Luz.
+[19] He called the name of that place ⟦bethel|Beit El|Bethel⟧; but the name of the city was formerly Luz.
 
-[20] Then Jacob made a vow, saying, "If *Elohim* will be with me and will keep me in this way that I go, and will give me bread to eat and clothing to wear,
+[20] Then ⟦jacob|Yaaqov|Jacob⟧ made a vow, saying, "If ⟦elohim|Elohim|God⟧ will be with me and will keep me in this way that I go, and will give me bread to eat and clothing to wear,
 
-[21] and I return in peace to my father's house, then Yahweh shall be my *Elohim*,
+[21] and I return in peace to my father's house, then ⟦yhwh|Yahweh|the LORD⟧ shall be my ⟦elohim|Elohim|God⟧,
 
-[22] and this stone, which I have set up as a pillar, shall be *Elohim*'s house; and of all that you give me I will surely give a tenth to you."
+[22] and this stone, which I have set up as a pillar, shall be ⟦elohim|Elohim|God⟧'s house; and of all that you give me I will surely give a tenth to you."
 
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
-- **"God Almighty" → "Almighty *Elohim*"** (v3) — as in 17:1.
+- **"God Almighty" → "El Shaddai"** (v3) — as in 17:1.
 - **"a multitude of people" → "a company of peoples"** (v3) — Hebrew קְהַל עַמִּים *qehal ammim*. *Qahal* = assembly / congregation. Israel as a convocation of peoples (the twelve tribes).
 - **"pillows" → "under his head"** (v11, 18) — Hebrew מְרַאֲשֹׁתָיו *mera'ashotav* = "at his head-area / headrest." A single stone, not plural "pillows"; the plural in Hebrew refers to the head-region, not multiple stones. KJV literalism produced the common misunderstanding that Jacob used multiple stones as pillows.
 - **"ladder" → "stairway"** (v12) — Hebrew סֻלָּם *sullam*. Hapax legomenon. "Ladder" is traditional KJV translation, but the vertical ramp / staircase of a Mesopotamian ziggurat is likely in view (the angels "ascending and descending" would more naturally fit a wide stairway than a narrow ladder). Ziggurat-language is apt given the Babel echo.

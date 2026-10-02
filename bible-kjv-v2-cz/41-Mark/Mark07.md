@@ -1,33 +1,33 @@
 # Marek 7
 
-[1] Když se u něho shromáždili farizeové s některými zákoníky, kteří přišli z Jerusalemu,
+[1] Když se u něho shromáždili ⟦pharisees|perušim|farizeové⟧ s některými zákoníky, kteří přišli z ⟦jerusalem|Jerušalajim|Jeruzaléma⟧,
 
 [2] uviděli, že někteří z jeho učedníků jedí poskvrněnýma, to jest neumytýma rukama.
 
-[3] (Farizeové totiž a všichni Židé nejedí, dokud si řádně neumyjí ruce, a drží se tak tradice starších;
+[3] (⟦pharisees|Perušim|Farizeové⟧ totiž a všichni ⟦jews|Jehudim|Židé⟧ nejedí, dokud si řádně neumyjí ruce, a drží se tak tradice starších;
 
 [4] a když přijdou z tržiště, nejedí, dokud se neumyjí. A je mnoho jiných tradic, které zachovávají, jako je umývání pohárů, džbánů, měděných nádob a lehátek.)
 
-[5] Farizeové a zákoníci se ho zeptali: „Proč tvoji učedníci nežijí podle tradice starších, ale jedí poskvrněnýma rukama?“
+[5] ⟦pharisees|Perušim|Farizeové⟧ a zákoníci se ho zeptali: „Proč tvoji učedníci nežijí podle tradice starších, ale jedí poskvrněnýma rukama?“
 
-[6] On jim řekl: „Dobře o vás pokrytcích prorokoval Isaiah, jak je napsáno:
+[6] On jim řekl: „Dobře o vás pokrytcích prorokoval ⟦isaiah|Ješajahu|Izajáš⟧, jak je napsáno:
 
 ‚**Tento lid mě ctí rty,
 ale jejich srdce je daleko ode mne;
 [7] nadarmo mě uctívají,
 když učí naukám, které jsou lidskými přikázáními**.‘
 
-[8] Opouštíte přikázání *Elohim* a držíte se lidské tradice.“
+[8] Opouštíte přikázání ⟦elohim|Elohim|Boží⟧ a držíte se lidské tradice.“
 
-[9] A řekl jim: „Jak pěkně odmítáte přikázání *Elohim*, abyste ustanovili svou tradici!
+[9] A řekl jim: „Jak pěkně odmítáte přikázání ⟦elohim|Elohim|Boží⟧, abyste ustanovili svou tradici!
 
-[10] Moses totiž řekl: ‚**Cti svého otce i svou matku**,‘ a: ‚**Kdo zlořečí otci nebo matce, musí zemřít**.‘
+[10] ⟦moses|Moše|Mojžíš⟧ totiž řekl: ‚**Cti svého otce i svou matku**,‘ a: ‚**Kdo zlořečí otci nebo matce, musí zemřít**.‘
 
-[11] Vy však říkáte: ‚Řekne-li člověk otci nebo matce: „Cokoli bys ode mne měl dostat, je qorban“‘ (to jest dáno *Elohim*) –
+[11] Vy však říkáte: ‚Řekne-li člověk otci nebo matce: „Cokoli bys ode mne měl dostat, je korban“‘ (to jest dáno ⟦elohim|Elohim|Bohu⟧) –
 
 [12] pak mu už nedovolíte udělat nic pro otce nebo matku,
 
-[13] a tak rušíte slovo *Elohim* svou tradicí, kterou jste předali. A mnoho podobných věcí děláte.“
+[13] a tak rušíte slovo ⟦elohim|Elohim|Boží⟧ svou tradicí, kterou jste předali. A mnoho podobných věcí děláte.“
 
 [14] Znovu zavolal lidi k sobě a řekl jim: „Slyšte mě všichni a pochopte:
 
@@ -47,11 +47,11 @@ když učí naukám, které jsou lidskými přikázáními**.‘
 
 [23] Všechny tyto zlé věci vycházejí zevnitř a poskvrňují člověka.“
 
-[24] Odtamtud vstal a odešel do oblasti Tyru a Sidonu. Vešel do domu a nechtěl, aby o tom někdo věděl, ale nemohl se skrýt.
+[24] Odtamtud vstal a odešel do oblasti ⟦tyre|Coru|Týru⟧ a ⟦sidon|Cidonu|Sidónu⟧. Vešel do domu a nechtěl, aby o tom někdo věděl, ale nemohl se skrýt.
 
 [25] Hned o něm uslyšela žena, jejíž dcerka měla nečistého ducha, přišla a padla mu k nohám.
 
-[26] Ta žena byla Řekyně, rodem Syrophoeničanka. Prosila ho, aby z její dcery vyhnal démona.
+[26] Ta žena byla Řekyně, rodem Syrofeničanka. Prosila ho, aby z její dcery vyhnal démona.
 
 [27] Řekl jí: „Nech nejprve nasytit děti, neboť není správné vzít chléb dětem a hodit ho psům.“
 
@@ -61,17 +61,17 @@ když učí naukám, které jsou lidskými přikázáními**.‘
 
 [30] Odešla domů a nalezla dítě ležet na lůžku a démon byl pryč.
 
-[31] Potom se vrátil z oblasti Tyru a šel přes Sidon k moři Galilee, do oblasti Decapolis.
+[31] Potom se vrátil z oblasti ⟦tyre|Coru|Týru⟧ a šel přes ⟦sidon|Cidon|Sidón⟧ k moři ⟦galilee|Galilu|Galileje⟧, do oblasti ⟦decapolis|Dekapole|Desetiměstí⟧.
 
 [32] Přivedli k němu člověka hluchého, který měl vadu řeči, a prosili ho, aby na něho vložil ruku.
 
 [33] Vzal ho od zástupu stranou, o samotě, vložil mu prsty do uší, plivl a dotkl se jeho jazyka.
 
-[34] Pohlédl k nebi, povzdechl a řekl mu: „***Ephphatha***,“ to jest: „Otevři se.“
+[34] Pohlédl k nebi, povzdechl a řekl mu: „***Effata***,“ to jest: „Otevři se.“
 
 [35] A jeho uši se otevřely, jeho jazyk se uvolnil a mluvil zřetelně.
 
-[36] *Yeshua* jim přikázal, aby to nikomu neříkali. Čím víc jim to však přikazoval, tím horlivěji to rozhlašovali.
+[36] ⟦yeshua|Ješua|Ježíš⟧ jim přikázal, aby to nikomu neříkali. Čím víc jim to však přikazoval, tím horlivěji to rozhlašovali.
 
 [37] Nesmírně žasli a říkali: „Všechno dělá dobře. Dokonce působí, že hluší slyší a němí mluví.“
 

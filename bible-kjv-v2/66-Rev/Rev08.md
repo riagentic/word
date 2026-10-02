@@ -2,11 +2,11 @@
 
 [1] When the Lamb opened the seventh seal, there was silence in heaven for about half an hour.
 
-[2] Then I saw the seven angels who stand before *Elohim*, and seven trumpets were given to them.
+[2] Then I saw the seven angels who stand before ⟦elohim|Elohim|God⟧, and seven trumpets were given to them.
 
 [3] And another angel came and stood at the altar with a golden censer, and he was given much incense to offer with the prayers of all the saints on the golden altar before the throne,
 
-[4] and the smoke of the incense, with the prayers of the saints, rose before *Elohim* from the hand of the angel.
+[4] and the smoke of the incense, with the prayers of the saints, rose before ⟦elohim|Elohim|God⟧ from the hand of the angel.
 
 [5] Then the angel took the censer and filled it with fire from the altar and threw it on the earth, and there were peals of thunder, rumblings, flashes of lightning, and an earthquake.
 

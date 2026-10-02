@@ -1,38 +1,38 @@
 # Leviticus 1
 
-[1] Yahweh zavolal Mosese a promluvil k němu ze stanu setkávání:
+[1] ⟦yhwh|Jahve|Hospodin⟧ zavolal ⟦moses|Moše|Mojžíše⟧ a promluvil k němu ze stanu setkávání:
 
-[2] „Mluv k synům Israele a řekni jim: ‚Když někdo z vás přináší obětní dar pro Yahweh, přinesete svůj obětní dar z dobytka – ze skotu nebo z bravu.
+[2] „Mluv k synům ⟦israel|Jisraele|Izraele⟧ a řekni jim: ‚Když někdo z vás přináší obětní dar pro ⟦yhwh|Jahveho|Hospodina⟧, přinesete svůj obětní dar z dobytka – ze skotu nebo z bravu.
 
-[3] Je-li jeho obětním darem zápalná oběť ze skotu, přinese samce bez vady; přinese ho ze své vlastní vůle ke vchodu do stanu setkávání před Yahweh.
+[3] Je-li jeho obětním darem zápalná oběť ze skotu, přinese samce bez vady; přinese ho ze své vlastní vůle ke vchodu do stanu setkávání před ⟦yhwh|Jahveho|Hospodina⟧.
 
 [4] Položí ruku na hlavu zápalné oběti a bude mu přijata, aby za něj vykonala smíření.
 
-[5] Býčka porazí před Yahweh; a kněží, Aaronovi synové, přinesou krev a vyšplíchnou krev dokola na oltář, který je u vchodu do stanu setkávání.
+[5] Býčka porazí před ⟦yhwh|Jahvem|Hospodinem⟧; a kněží, ⟦aaron|Aharonovi|Áronovi⟧ synové, přinesou krev a vyšplíchnou krev dokola na oltář, který je u vchodu do stanu setkávání.
 
 [6] Zápalnou oběť stáhne z kůže a rozseká ji na její kusy.
 
-[7] A synové kněze Aarona dají na oltář oheň a narovnají na oheň dřevo;
+[7] A synové kněze ⟦aaron|Aharona|Árona⟧ dají na oltář oheň a narovnají na oheň dřevo;
 
-[8] a kněží, Aaronovi synové, narovnají kusy – hlavu i tuk – na dřevo, které je na ohni, jenž je na oltáři.
+[8] a kněží, ⟦aaron|Aharonovi|Áronovi⟧ synové, narovnají kusy – hlavu i tuk – na dřevo, které je na ohni, jenž je na oltáři.
 
-[9] Její vnitřnosti a její nohy omyje vodou; a kněz obrátí všechno v dým na oltáři jako zápalnou oběť, ohnivou oběť, libou vůni pro Yahweh.
+[9] Její vnitřnosti a její nohy omyje vodou; a kněz obrátí všechno v dým na oltáři jako zápalnou oběť, ohnivou oběť, libou vůni pro ⟦yhwh|Jahveho|Hospodina⟧.
 
 [10] Je-li jeho obětním darem k zápalné oběti kus z bravu – z ovcí nebo z koz – přivede samce bez vady.
 
-[11] Porazí ho na severní straně oltáře před Yahweh; a kněží, Aaronovi synové, vyšplíchnou jeho krev dokola na oltář.
+[11] Porazí ho na severní straně oltáře před ⟦yhwh|Jahvem|Hospodinem⟧; a kněží, ⟦aaron|Aharonovi|Áronovi⟧ synové, vyšplíchnou jeho krev dokola na oltář.
 
 [12] Rozseká ho na jeho kusy spolu s jeho hlavou a jeho tukem; a kněz je narovná na dřevo, které je na ohni, jenž je na oltáři.
 
-[13] Vnitřnosti a nohy omyje vodou; a kněz to všechno přinese a obrátí v dým na oltáři. Je to zápalná oběť, ohnivá oběť, libá vůně pro Yahweh.
+[13] Vnitřnosti a nohy omyje vodou; a kněz to všechno přinese a obrátí v dým na oltáři. Je to zápalná oběť, ohnivá oběť, libá vůně pro ⟦yhwh|Jahveho|Hospodina⟧.
 
-[14] Je-li jeho obětním darem pro Yahweh zápalná oběť z ptáků, přinese svůj obětní dar z hrdliček nebo z holoubat.
+[14] Je-li jeho obětním darem pro ⟦yhwh|Jahveho|Hospodina⟧ zápalná oběť z ptáků, přinese svůj obětní dar z hrdliček nebo z holoubat.
 
 [15] Kněz ho přinese k oltáři, nehtem mu utrhne hlavu a obrátí ho v dým na oltáři; a jeho krev bude vymačkána na stěnu oltáře.
 
 [16] Odstraní jeho vole i s peřím a pohodí je vedle oltáře na východní straně, na místo pro popel.
 
-[17] Roztrhne ho za křídla, ale neoddělí je; a kněz ho obrátí v dým na oltáři, na dřevě, které je na ohni. Je to zápalná oběť, ohnivá oběť, libá vůně pro Yahweh.‘“
+[17] Roztrhne ho za křídla, ale neoddělí je; a kněz ho obrátí v dým na oltáři, na dřevě, které je na ohni. Je to zápalná oběť, ohnivá oběť, libá vůně pro ⟦yhwh|Jahveho|Hospodina⟧.‘“
 
 ## Změny
 

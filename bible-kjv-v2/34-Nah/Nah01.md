@@ -1,21 +1,21 @@
 # Nahum 1
 
-[1] An oracle concerning Nineveh. The book of the vision of Nahum of Elkosh.
+[1] An oracle concerning ⟦nineveh|Ninveh|Nineveh⟧. The book of the vision of ⟦nahum|Nachum|Nahum⟧ of ⟦elkosh|Elqosh|Elkosh⟧.
 
-[2] Yahweh is a jealous and avenging *Elohim*;
-Yahweh is avenging and wrathful;
-Yahweh takes vengeance on his adversaries
+[2] ⟦yhwh|Yahweh|The LORD⟧ is a jealous and avenging ⟦el|El|God⟧;
+⟦yhwh|Yahweh|the LORD⟧ is avenging and wrathful;
+⟦yhwh|Yahweh|the LORD⟧ takes vengeance on his adversaries
 and keeps wrath for his enemies.
 
-[3] Yahweh is slow to anger and great in power,
-and Yahweh will by no means clear the guilty.
+[3] ⟦yhwh|Yahweh|The LORD⟧ is slow to anger and great in power,
+and ⟦yhwh|Yahweh|the LORD⟧ will by no means clear the guilty.
 His way is in whirlwind and storm,
 and the clouds are the dust of his feet.
 
 [4] He rebukes the sea and makes it dry;
 he dries up all the rivers;
-Bashan and Carmel wither;
-the bloom of Lebanon withers.
+Bashan and ⟦carmel|Karmel|Carmel⟧ wither;
+the bloom of ⟦lebanon|Levanon|Lebanon⟧ withers.
 
 [5] The mountains quake before him;
 the hills melt;
@@ -27,7 +27,7 @@ Who can endure the heat of his anger?
 His wrath is poured out like fire,
 and the rocks are broken into pieces by him.
 
-[7] Yahweh is good,
+[7] ⟦yhwh|Yahweh|The LORD⟧ is good,
 a stronghold in the day of trouble;
 he knows those who take refuge in him.
 
@@ -35,7 +35,7 @@ he knows those who take refuge in him.
 he will make a complete end of the adversaries,
 and will pursue his enemies into darkness.
 
-[9] What do you plot against Yahweh?
+[9] What do you plot against ⟦yhwh|Yahweh|the LORD⟧?
 He will make a complete end;
 trouble will not rise up a second time.
 
@@ -44,10 +44,10 @@ like drunkards as they drink;
 they are consumed like stubble fully dried.
 
 [11] From you came one
-who plotted evil against Yahweh,
+who plotted evil against ⟦yhwh|Yahweh|the LORD⟧,
 a worthless counselor.
 
-[12] Thus says Yahweh:
+[12] Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
 "Though they are full of strength and many,
 they will be cut down and pass away.
@@ -57,7 +57,7 @@ I will afflict you no more.
 [13] And now I will break his yoke from off you
 and will burst your bonds apart."
 
-[14] Yahweh has given commandment about you:
+[14] ⟦yhwh|Yahweh|The LORD⟧ has given commandment about you:
 
 "No more shall your name be perpetuated;
 from the house of your gods I will cut off
@@ -66,7 +66,7 @@ I will make your grave, for you are vile."
 
 [15] Behold, upon the mountains, the feet of him who brings good news,
 who publishes peace!
-Keep your feasts, O Judah;
+Keep your feasts, O ⟦judah|Yehudah|Judah⟧;
 fulfill your vows,
 for never again shall the worthless pass through you;
 he is utterly cut off.
@@ -76,7 +76,7 @@ he is utterly cut off.
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"The burden of Nineveh" → "An oracle concerning Nineveh"** (v1) — Hebrew מַשָּׂא נִינְוֵה *massa' Nineveh*; *massa'* = oracle/burden; "oracle" more precise than "burden."
 - **Poetry formatted with blockquote indentation** (throughout) — KJV prose; the chapter is an acrostic poem and then oracle.
-- **"God is jealous, and the Lord revengeth; the Lord revengeth, and is furious" → "Yahweh is a jealous and avenging God; Yahweh is avenging and wrathful"** (v2) — Hebrew אֵל קַנּוֹא וְנֹקֵם יְהוָה *El qanno venokhem Yahweh*; *El qanno* = jealous God; three instances of "the LORD" restored to Yahweh; "avenging" for *noqem* = taking vengeance.
+- **"God is jealous, and the Lord revengeth; the Lord revengeth, and is furious" → "Yahweh is a jealous and avenging El; Yahweh is avenging and wrathful"** (v2) — Hebrew אֵל קַנּוֹא וְנֹקֵם יְהוָה *El qanno venokhem Yahweh*; *El qanno* = jealous God; three instances of "the LORD" restored to Yahweh; "avenging" for *noqem* = taking vengeance.
 - **"will not at all acquit the wicked" → "will by no means clear the guilty"** (v3) — Hebrew נַקֵּה לֹא יְנַקֶּה *naqqeh lo yenaqqeh* = will certainly not clear; "clear the guilty" more precise.
 - **"Bashan languisheth, and Carmel, and the flower of Lebanon languisheth" → "Bashan and Carmel wither; the bloom of Lebanon withers"** (v4) — Hebrew וּפֶרַח לְבָנוֹן *uforah Levanon* = the bloom of Lebanon; "bloom" more vivid than "flower"; condensed.
 - **"the earth is burned at his presence" → "the earth heaves before him"** (v5) — Hebrew וַתִּשָּׂא הָאָרֶץ *vatissa' ha'aretz* = the earth lifts/heaves; "heaves" captures the earthquake image better than "burned."

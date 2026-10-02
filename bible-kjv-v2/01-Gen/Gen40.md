@@ -1,50 +1,50 @@
 # Genesis 40
 
-[1] After these things, the cupbearer of the king of Egypt and his baker offended their lord, the king of Egypt.
+[1] After these things, the cupbearer of the king of ⟦egypt|Mitzrayim|Egypt⟧ and his baker offended their lord, the king of ⟦egypt|Mitzrayim|Egypt⟧.
 
-[2] Pharaoh was angry with his two officers, with the chief cupbearer and the chief baker,
+[2] ⟦pharaoh|Paroh|Pharaoh⟧ was angry with his two officers, with the chief cupbearer and the chief baker,
 
-[3] and he put them in custody in the house of the captain of the guard, in the house of confinement, the same place where Joseph was imprisoned.
+[3] and he put them in custody in the house of the captain of the guard, in the house of confinement, the same place where ⟦joseph|Yosef|Joseph⟧ was imprisoned.
 
-[4] The captain of the guard assigned Joseph to them, and he attended them; and they were in custody for some time.
+[4] The captain of the guard assigned ⟦joseph|Yosef|Joseph⟧ to them, and he attended them; and they were in custody for some time.
 
-[5] Both of them dreamed a dream, each his own dream, on the same night, each dream with its own meaning — the cupbearer and the baker of the king of Egypt, who were confined in the house of confinement.
+[5] Both of them dreamed a dream, each his own dream, on the same night, each dream with its own meaning — the cupbearer and the baker of the king of ⟦egypt|Mitzrayim|Egypt⟧, who were confined in the house of confinement.
 
-[6] When Joseph came in to them in the morning, he saw that they were troubled.
+[6] When ⟦joseph|Yosef|Joseph⟧ came in to them in the morning, he saw that they were troubled.
 
-[7] And he asked Pharaoh's officers who were with him in custody in his lord's house, saying, "Why are your faces downcast today?"
+[7] And he asked ⟦pharaoh|Paroh|Pharaoh⟧'s officers who were with him in custody in his lord's house, saying, "Why are your faces downcast today?"
 
-[8] They said to him, "We have dreamed dreams, and there is no one to interpret them." Joseph said to them, "Do not interpretations belong to *Elohim*? Tell them to me, please."
+[8] They said to him, "We have dreamed dreams, and there is no one to interpret them." ⟦joseph|Yosef|Joseph⟧ said to them, "Do not interpretations belong to ⟦elohim|Elohim|God⟧? Tell them to me, please."
 
-[9] So the chief cupbearer told his dream to Joseph, and said to him, "In my dream, behold, a vine was before me;
+[9] So the chief cupbearer told his dream to ⟦joseph|Yosef|Joseph⟧, and said to him, "In my dream, behold, a vine was before me;
 
 [10] and on the vine were three branches. As soon as it budded, its blossoms came out, and its clusters ripened into grapes.
 
-[11] Pharaoh's cup was in my hand; and I took the grapes and pressed them into Pharaoh's cup, and placed the cup into Pharaoh's hand."
+[11] ⟦pharaoh|Paroh|Pharaoh⟧'s cup was in my hand; and I took the grapes and pressed them into ⟦pharaoh|Paroh|Pharaoh⟧'s cup, and placed the cup into ⟦pharaoh|Paroh|Pharaoh⟧'s hand."
 
-[12] Joseph said to him, "This is the interpretation of it: the three branches are three days.
+[12] ⟦joseph|Yosef|Joseph⟧ said to him, "This is the interpretation of it: the three branches are three days.
 
-[13] In three more days Pharaoh will lift up your head and restore you to your place, and you shall place Pharaoh's cup into his hand as you did before, when you were his cupbearer.
+[13] In three more days ⟦pharaoh|Paroh|Pharaoh⟧ will lift up your head and restore you to your place, and you shall place ⟦pharaoh|Paroh|Pharaoh⟧'s cup into his hand as you did before, when you were his cupbearer.
 
-[14] But remember me when it goes well with you, and please show me lovingkindness by making mention of me to Pharaoh, so that he may bring me out of this house.
+[14] But remember me when it goes well with you, and please show me lovingkindness by making mention of me to ⟦pharaoh|Paroh|Pharaoh⟧, so that he may bring me out of this house.
 
-[15] For I was indeed stolen out of the land of the Hebrews; and here also I have done nothing that they should put me into the dungeon."
+[15] For I was indeed stolen out of the land of the ⟦hebrews|Ivrim|Hebrews⟧; and here also I have done nothing that they should put me into the dungeon."
 
-[16] When the chief baker saw that the interpretation was good, he said to Joseph, "I too was in my dream; behold, there were three baskets of white bread on my head,
+[16] When the chief baker saw that the interpretation was good, he said to ⟦joseph|Yosef|Joseph⟧, "I too was in my dream; behold, there were three baskets of white bread on my head,
 
-[17] and in the uppermost basket were all sorts of baked goods for Pharaoh; and the birds were eating them out of the basket on my head."
+[17] and in the uppermost basket were all sorts of baked goods for ⟦pharaoh|Paroh|Pharaoh⟧; and the birds were eating them out of the basket on my head."
 
-[18] Joseph answered and said, "This is its interpretation: the three baskets are three days.
+[18] ⟦joseph|Yosef|Joseph⟧ answered and said, "This is its interpretation: the three baskets are three days.
 
-[19] In three more days Pharaoh will lift up your head from you and hang you on a tree; and the birds will eat your flesh from you."
+[19] In three more days ⟦pharaoh|Paroh|Pharaoh⟧ will lift up your head from you and hang you on a tree; and the birds will eat your flesh from you."
 
-[20] On the third day, which was Pharaoh's birthday, he made a feast for all his servants, and he lifted up the head of the chief cupbearer and the head of the chief baker among his servants.
+[20] On the third day, which was ⟦pharaoh|Paroh|Pharaoh⟧'s birthday, he made a feast for all his servants, and he lifted up the head of the chief cupbearer and the head of the chief baker among his servants.
 
-[21] He restored the chief cupbearer to his cupbearing, and he placed the cup in Pharaoh's hand.
+[21] He restored the chief cupbearer to his cupbearing, and he placed the cup in ⟦pharaoh|Paroh|Pharaoh⟧'s hand.
 
-[22] But he hanged the chief baker, as Joseph had interpreted to them.
+[22] But he hanged the chief baker, as ⟦joseph|Yosef|Joseph⟧ had interpreted to them.
 
-[23] Yet the chief cupbearer did not remember Joseph, but forgot him.
+[23] Yet the chief cupbearer did not remember ⟦joseph|Yosef|Joseph⟧, but forgot him.
 
 ## Changes
 

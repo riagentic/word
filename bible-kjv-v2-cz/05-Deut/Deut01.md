@@ -1,26 +1,26 @@
 # Deuteronomium 1
 
-[1] To jsou slova, která Moses mluvil ke všemu Israeli za Jordanem na poušti, v Arabě naproti Suph, mezi Paran, Tophel, Laban, Hazeroth a Di-zahab.
+[1] To jsou slova, která ⟦moses|Moše|Mojžíš⟧ mluvil ke všemu ⟦israel|Jisraeli|Izraeli⟧ za ⟦jordan|Jardenem|Jordánem⟧ na poušti, v ⟦arabah|Aravě|pustině⟧ naproti ⟦suph|Sufu|Súfu⟧, mezi ⟦paran|Paran|Páran⟧, Tofel, ⟦laban|Lavan|Lában⟧, ⟦hazeroth|Chacerot|Chaserót⟧ a ⟦di-zahab|Di Zahav|Dí-zahab⟧.
 
-[2] Od Horebu cestou přes horu Seir do Kadesh-barnea je to jedenáct dní cesty.
+[2] Od ⟦horeb|Chorevu|Chorébu⟧ cestou přes horu ⟦seir|Seir|Seír⟧ do ⟦kadesh-barnea|Kadeš Barnea|Kádeš-barneje⟧ je to jedenáct dní cesty.
 
-[3] Ve čtyřicátém roce, prvního dne jedenáctého měsíce, mluvil Moses k synům Israele podle všeho, co mu Yahweh přikázal pro ně,
+[3] Ve čtyřicátém roce, prvního dne jedenáctého měsíce, mluvil ⟦moses|Moše|Mojžíš⟧ k synům ⟦israel|Jisraele|Izraele⟧ podle všeho, co mu ⟦yhwh|Jahve|Hospodin⟧ přikázal pro ně,
 
-[4] poté co pobil Sihona, krále Amoritů, který sídlil v Heshbonu, a Oga, krále Bashanu, který sídlil v Ashtaroth a v Edrei.
+[4] poté co pobil ⟦sihon|Sichona|Síchona⟧, krále ⟦amorites|Emorim|Emorejců⟧, který sídlil v ⟦heshbon|Chešbonu|Chešbónu⟧, a ⟦og|Oga|Óga⟧, krále ⟦bashan|Bašanu|Bášanu⟧, který sídlil v ⟦ashtaroth|Aštarot|Aštarótu⟧ a v ⟦edrei|Edreji|Edreí⟧.
 
-[5] Za Jordanem, v zemi Moab, se Moses ujal výkladu této *Torah* a řekl:
+[5] Za ⟦jordan|Jardenem|Jordánem⟧, v zemi ⟦moab|Moav|Moáb⟧, se ⟦moses|Moše|Mojžíš⟧ ujal výkladu ⟦torah|této Tóry|tohoto zákona⟧ a řekl:
 
-[6] „Yahweh, náš *Elohim*, k nám promluvil na Horebu: ‚Dost dlouho jste pobyli u této hory.
+[6] „⟦yhwh|Jahve|Hospodin⟧, náš ⟦elohim|Elohim|Bůh⟧, k nám promluvil na ⟦horeb|Chorevu|Chorébu⟧: ‚Dost dlouho jste pobyli u této hory.
 
-[7] Obraťte se a vytáhněte; jděte do pohoří Amoritů a ke všem jejich sousedům v Arabě, v pohoří, v Shephelah, v Negev a na mořském pobřeží – do země Canaanitů a do Lebanonu, až k veliké řece, řece Euphrates.
+[7] Obraťte se a vytáhněte; jděte do pohoří ⟦amorites|Emorim|Emorejců⟧ a ke všem jejich sousedům v ⟦arabah|Aravě|pustině⟧, v pohoří, v Šefele, v ⟦negev|Negev|Negebu⟧ a na mořském pobřeží – do země ⟦canaanites|Kenaanim|Kenaanců⟧ a do ⟦lebanon|Levanonu|Libanónu⟧, až k veliké řece, řece ⟦euphrates|Perat|Eufrat⟧.
 
-[8] Hle, předložil jsem vám tu zemi. Vejděte a zmocněte se země, kterou Yahweh přísahal dát vašim otcům, Abrahamovi, Isaacovi a Jacobovi, a jejich potomkům po nich.‘
+[8] Hle, předložil jsem vám tu zemi. Vejděte a zmocněte se země, kterou ⟦yhwh|Jahve|Hospodin⟧ přísahal dát vašim otcům, ⟦abraham|Avrahamovi|Abrahamovi⟧, ⟦isaac|Jicchakovi|Izákovi⟧ a ⟦jacob|Jaakovovi|Jákobovi⟧, a jejich potomkům po nich.‘
 
 [9] Tehdy jsem vám řekl: ‚Nemohu vás nést sám.
 
-[10] Yahweh, váš *Elohim*, vás rozmnožil, a hle, dnes je vás tolik jako hvězd na nebi.
+[10] ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧, vás rozmnožil, a hle, dnes je vás tolik jako hvězd na nebi.
 
-[11] Kéž vás Yahweh, *Elohim* vašich otců, rozmnoží tisíckrát víc, než vás je, a kéž vám požehná, jak vám slíbil!
+[11] Kéž vás ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ vašich otců, rozmnoží tisíckrát víc, než vás je, a kéž vám požehná, jak vám slíbil!
 
 [12] Jak mohu sám nést břemeno vás, tíhu vás i vaše spory?
 
@@ -32,65 +32,65 @@
 
 [16] Tehdy jsem přikázal vašim soudcům: ‚Vyslýchejte spory mezi svými bratry a suďte spravedlivě mezi mužem a jeho bratrem nebo cizincem, který je u něho.
 
-[17] Při soudu nebudete nikomu stranit; vyslechnete malého stejně jako velikého; nebudete se bát tváře žádného člověka, neboť soud patří *Elohim*. A případ, který je pro vás příliš těžký, předložte mně, a já ho vyslechnu.‘
+[17] Při soudu nebudete nikomu stranit; vyslechnete malého stejně jako velikého; nebudete se bát tváře žádného člověka, neboť soud patří ⟦elohim|Elohim|Bohu⟧. A případ, který je pro vás příliš těžký, předložte mně, a já ho vyslechnu.‘
 
 [18] Tehdy jsem vám přikázal všechno, co jste měli dělat.
 
-[19] Potom jsme vytáhli od Horebu a prošli jsme celou tou velikou a hrozivou pouští, kterou jste viděli, cestou k pohoří Amoritů, jak nám přikázal Yahweh, náš *Elohim*; a přišli jsme do Kadesh-barnea.
+[19] Potom jsme vytáhli od ⟦horeb|Chorevu|Chorébu⟧ a prošli jsme celou tou velikou a hrozivou pouští, kterou jste viděli, cestou k pohoří ⟦amorites|Emorim|Emorejců⟧, jak nám přikázal ⟦yhwh|Jahve|Hospodin⟧, náš ⟦elohim|Elohim|Bůh⟧; a přišli jsme do ⟦kadesh-barnea|Kadeš Barnea|Kádeš-barneje⟧.
 
-[20] Řekl jsem vám: ‚Přišli jste k pohoří Amoritů, které nám dává Yahweh, náš *Elohim*.
+[20] Řekl jsem vám: ‚Přišli jste k pohoří ⟦amorites|Emorim|Emorejců⟧, které nám dává ⟦yhwh|Jahve|Hospodin⟧, náš ⟦elohim|Elohim|Bůh⟧.
 
-[21] Hleď, Yahweh, tvůj *Elohim*, ti předložil tu zemi. Vystup, zmocni se jí, jak ti řekl Yahweh, *Elohim* tvých otců. Neboj se a neděs se.‘
+[21] Hleď, ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, ti předložil tu zemi. Vystup, zmocni se jí, jak ti řekl ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ tvých otců. Neboj se a neděs se.‘
 
 [22] Všichni jste ke mně přistoupili a řekli: ‚Pošleme před sebou muže, aby nám zemi prozkoumali a přinesli nám zprávu o cestě, kudy máme vystoupit, a o městech, k nimž přijdeme.‘
 
 [23] Ten návrh se mi zalíbil, a vzal jsem z vás dvanáct mužů, po jednom z každého kmene.
 
-[24] Obrátili se, vystoupili do pohoří, přišli k údolí Eshkol a prozkoumali je.
+[24] Obrátili se, vystoupili do pohoří, přišli k údolí ⟦eshcol|Eškol|Eškól⟧ a prozkoumali je.
 
-[25] Vzali do rukou něco z ovoce té země a přinesli je dolů k nám, a přinesli nám zprávu: ‚Země, kterou nám dává Yahweh, náš *Elohim*, je dobrá.‘
+[25] Vzali do rukou něco z ovoce té země a přinesli je dolů k nám, a přinesli nám zprávu: ‚Země, kterou nám dává ⟦yhwh|Jahve|Hospodin⟧, náš ⟦elohim|Elohim|Bůh⟧, je dobrá.‘
 
-[26] Vy jste však nechtěli vystoupit; vzepřeli jste se rozkazu Yahweh, svého *Elohim*.
+[26] Vy jste však nechtěli vystoupit; vzepřeli jste se rozkazu ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧.
 
-[27] Reptali jste ve svých stanech a říkali: ‚Protože nás Yahweh nenávidí, vyvedl nás ze země Egypt, aby nás vydal do ruky Amoritů, aby nás zahladil.
+[27] Reptali jste ve svých stanech a říkali: ‚Protože nás ⟦yhwh|Jahve|Hospodin⟧ nenávidí, vyvedl nás ze země ⟦egypt|Micrajim|Egypt⟧, aby nás vydal do ruky ⟦amorites|Emorim|Emorejců⟧, aby nás zahladil.
 
-[28] Kam to vystupujeme? Naši bratři rozpustili naše srdce, když řekli: „Ten lid je větší a vyšší než my; města jsou veliká a opevněná až do nebes; a navíc jsme tam viděli syny Anakim.“‘
+[28] Kam to vystupujeme? Naši bratři rozpustili naše srdce, když řekli: „Ten lid je větší a vyšší než my; města jsou veliká a opevněná až do nebes; a navíc jsme tam viděli ⟦anakim|syny Anakim|Anákovce⟧.“‘
 
 [29] Tehdy jsem vám řekl: ‚Nelekejte se a nebojte se jich.
 
-[30] Yahweh, váš *Elohim*, který jde před vámi, bude sám bojovat za vás, stejně jako to pro vás učinil v Egyptě před vašima očima,
+[30] ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧, který jde před vámi, bude sám bojovat za vás, stejně jako to pro vás učinil v ⟦egypt|Micrajim|Egyptě⟧ před vašima očima,
 
-[31] i na poušti, kde jsi viděl, jak tě Yahweh, tvůj *Elohim*, nesl, jako muž nese svého syna, po celé cestě, kterou jste šli, až jste přišli na toto místo.‘
+[31] i na poušti, kde jsi viděl, jak tě ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, nesl, jako muž nese svého syna, po celé cestě, kterou jste šli, až jste přišli na toto místo.‘
 
-[32] Přesto jste navzdory tomu nedůvěřovali Yahweh, svému *Elohim*,
+[32] Přesto jste navzdory tomu nedůvěřovali ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧,
 
 [33] který šel před vámi na cestě, aby vám vyhledal místo, kde byste postavili své stany – v ohni v noci a v oblaku ve dne, aby vám ukázal cestu, kterou máte jít.
 
-[34] Yahweh uslyšel zvuk vašich slov, rozhněval se a přísahal:
+[34] ⟦yhwh|Jahve|Hospodin⟧ uslyšel zvuk vašich slov, rozhněval se a přísahal:
 
 [35] ‚Ani jeden z těchto mužů, z tohoto zlého pokolení, neuvidí tu dobrou zemi, kterou jsem přísahal dát vašim otcům,
 
-[36] kromě Caleba, syna Jephunnehova. On ji uvidí, a jemu a jeho synům dám zemi, po níž chodil, protože cele následoval Yahweh.‘
+[36] kromě ⟦caleb|Kaleva|Káleba⟧, syna ⟦jephunneh|Jefunnova|Jefunova⟧. On ji uvidí, a jemu a jeho synům dám zemi, po níž chodil, protože cele následoval ⟦yhwh|Jahveho|Hospodina⟧.‘
 
-[37] Kvůli vám se Yahweh rozhněval i na mne a řekl: ‚Ani ty tam nevejdeš.
+[37] Kvůli vám se ⟦yhwh|Jahve|Hospodin⟧ rozhněval i na mne a řekl: ‚Ani ty tam nevejdeš.
 
-[38] Joshua, syn Nunův, který stojí před tebou, ten tam vejde. Povzbuď ho, neboť on uvede Israele v dědictví té země.
+[38] ⟦joshua|Jehošua|Jozue⟧, syn ⟦nun|Nunův|Núnův⟧, který stojí před tebou, ten tam vejde. Povzbuď ho, neboť on uvede ⟦israel|Jisraele|Izraele⟧ v dědictví té země.
 
 [39] A vaše děti, o nichž jste říkali, že se stanou kořistí, a vaši synové, kteří dnes nerozeznávají dobré od zlého – ti tam vejdou; jim ji dám a oni ji budou vlastnit.
 
 [40] Vy však se obraťte a vytáhněte do pouště cestou k Rákosovému moři.‘
 
-[41] Tu jste mi odpověděli: ‚Zhřešili jsme proti Yahweh. Sami vystoupíme a budeme bojovat podle všeho, co nám přikázal Yahweh, náš *Elohim*.‘ A každý z vás si připjal své válečné zbraně v domnění, že je snadné vystoupit do pohoří.
+[41] Tu jste mi odpověděli: ‚Zhřešili jsme proti ⟦yhwh|Jahvovi|Hospodinu⟧. Sami vystoupíme a budeme bojovat podle všeho, co nám přikázal ⟦yhwh|Jahve|Hospodin⟧, náš ⟦elohim|Elohim|Bůh⟧.‘ A každý z vás si připjal své válečné zbraně v domnění, že je snadné vystoupit do pohoří.
 
-[42] Yahweh mi řekl: ‚Řekni jim: „Nevystupujte a nebojujte, neboť nejsem mezi vámi, abyste nebyli poraženi před svými nepřáteli.“‘
+[42] ⟦yhwh|Jahve|Hospodin⟧ mi řekl: ‚Řekni jim: „Nevystupujte a nebojujte, neboť nejsem mezi vámi, abyste nebyli poraženi před svými nepřáteli.“‘
 
-[43] Mluvil jsem tedy k vám, ale nechtěli jste poslouchat; vzepřeli jste se rozkazu Yahweh a opovážlivě jste vystoupili do pohoří.
+[43] Mluvil jsem tedy k vám, ale nechtěli jste poslouchat; vzepřeli jste se rozkazu ⟦yhwh|Jahveho|Hospodina⟧ a opovážlivě jste vystoupili do pohoří.
 
-[44] Tu proti vám vyšli Amorité, kteří bydleli v tom pohoří, pronásledovali vás, jak to dělají včely, a pobili vás v Seiru až po Hormah.
+[44] Tu proti vám vyšli ⟦amorites|Emorim|Emorejci⟧, kteří bydleli v tom pohoří, pronásledovali vás, jak to dělají včely, a pobili vás v ⟦seir|Seiru|Seíru⟧ až po Chormu.
 
-[45] Vrátili jste se a plakali před Yahweh, ale Yahweh nechtěl slyšet váš hlas ani vám naslouchat.
+[45] Vrátili jste se a plakali před ⟦yhwh|Jahvem|Hospodinem⟧, ale ⟦yhwh|Jahve|Hospodin⟧ nechtěl slyšet váš hlas ani vám naslouchat.
 
-[46] Zůstali jste tedy v Kadeshi mnoho dní – tolik dní, kolik jste tam zůstali.
+[46] Zůstali jste tedy v ⟦kadesh|Kadeši|Kádeši⟧ mnoho dní – tolik dní, kolik jste tam zůstali.
 
 ## Změny
 

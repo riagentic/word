@@ -1,130 +1,130 @@
 # Joshua 15
 
-[1] The lot for the tribe of the children of Judah by their clans reached to the border of Edom, to the wilderness of Zin at the southern limit.
+[1] The lot for the tribe of the children of ⟦judah|Yehudah|Judah⟧ by their clans reached to the border of Edom, to the wilderness of ⟦zin|Tzin|Zin⟧ at the southern limit.
 
 [2] Their southern boundary ran from the end of the Salt Sea, from the bay that faces south;
 
-[3] and it went out south of the ascent of Akrabbim, passed along to Zin, and went up on the south of Kadesh-barnea, passed along to Hezron, up to Addar, turned about to Karka,
+[3] and it went out south of the ascent of ⟦akrabbim|Aqrabbim|Akrabbim⟧, passed along to ⟦zin|Tzin|Zin⟧, and went up on the south of ⟦kadesh-barnea|Qadesh Barnea|Kadesh-barnea⟧, passed along to ⟦hezron|Chetzron|Hezron⟧, up to Addar, turned about to ⟦karka|Qarqa|Karka⟧,
 
-[4] passed to Azmon, and went out to the Wadi of Egypt; the border came out at the Sea. This shall be your southern boundary.
+[4] passed to ⟦azmon|Atzmon|Azmon⟧, and went out to the Wadi of ⟦egypt|Mitzrayim|Egypt⟧; the border came out at the Sea. This shall be your southern boundary.
 
-[5] The eastern boundary is the Salt Sea, to the end of the Jordan. The northern boundary begins at the bay of the sea at the mouth of the Jordan;
+[5] The eastern boundary is the Salt Sea, to the end of the ⟦jordan|Yarden|Jordan⟧. The northern boundary begins at the bay of the sea at the mouth of the ⟦jordan|Yarden|Jordan⟧;
 
-[6] the border goes up to Beth-hoglah, passes north of Beth-arabah, and goes up to the Stone of Bohan son of Reuben.
+[6] the border goes up to ⟦beth-hoglah|Beit Choglah|Beth-hoglah⟧, passes north of ⟦beth-arabah|Beit HaAravah|Beth-arabah⟧, and goes up to the Stone of Bohan son of ⟦reuben|Reuven|Reuben⟧.
 
-[7] The border goes up toward Debir from the Valley of Achor and turns northward toward Gilgal, which is opposite the ascent of Adummim south of the valley; the border passes to the waters of En-shemesh, and ends at En-rogel.
+[7] The border goes up toward ⟦debir|Devir|Debir⟧ from the Valley of Achor and turns northward toward Gilgal, which is opposite the ascent of Adummim south of the valley; the border passes to the waters of ⟦en-shemesh|Ein Shemesh|En-shemesh⟧, and ends at ⟦en-rogel|Ein Rogel|En-rogel⟧.
 
-[8] The border goes up by the Valley of Ben-hinnom at the southern slope of the Jebusite — that is, Jerusalem; the border goes up to the top of the mountain that lies west of the Valley of Hinnom, at the northern end of the Valley of Rephaim.
+[8] The border goes up by the Valley of ⟦ben-hinnom|Ben Hinnom|Ben-hinnom⟧ at the southern slope of the ⟦jebusite|Yevusi|Jebusite⟧ — that is, ⟦jerusalem|Yerushalayim|Jerusalem⟧; the border goes up to the top of the mountain that lies west of the Valley of Hinnom, at the northern end of the Valley of ⟦rephaim|Refaim|Rephaim⟧.
 
-[9] The border extends from the top of the mountain to the spring of the waters of Nephtoah, and goes out to the cities of Mount Ephron; then the border bends around to Baalah — that is, Kiriath-jearim.
+[9] The border extends from the top of the mountain to the spring of the waters of ⟦nephtoah|Neftoach|Nephtoah⟧, and goes out to the cities of Mount ⟦ephron|Efron|Ephron⟧; then the border bends around to Baalah — that is, ⟦kiriath-jearim|Qiryat Yearim|Kiriath-jearim⟧.
 
-[10] From Baalah the border turns westward to Mount Seir, passes along to the slope of Mount Jearim — that is, Chesalon the north, goes down to Beth-shemesh, and passes by Timnah.
+[10] From Baalah the border turns westward to Mount Seir, passes along to the slope of Mount ⟦jearim|Yearim|Jearim⟧ — that is, ⟦chesalon|Kesalon|Chesalon⟧ the north, goes down to ⟦beth-shemesh|Beit Shemesh|Beth-shemesh⟧, and passes by Timnah.
 
-[11] The border goes out to the slope of Ekron northward; it bends around to Shikkeron, passes along to Mount Baalah, and goes out to Jabneel; the border ends at the sea.
+[11] The border goes out to the slope of ⟦ekron|Eqron|Ekron⟧ northward; it bends around to Shikkeron, passes along to Mount Baalah, and goes out to ⟦jabneel|Yavneel|Jabneel⟧; the border ends at the sea.
 
-[12] The western boundary is the Great Sea with its coast. This is the border of the children of Judah on every side, by their clans.
+[12] The western boundary is the Great Sea with its coast. This is the border of the children of ⟦judah|Yehudah|Judah⟧ on every side, by their clans.
 
-[13] To Caleb son of Jephunneh he gave a portion among the children of Judah, according to the commandment of Yahweh to Joshua — Kiriath-arba (Arba was the father of Anak), that is, Hebron.
+[13] To ⟦caleb|Kalev|Caleb⟧ son of ⟦jephunneh|Yefunneh|Jephunneh⟧ he gave a portion among the children of ⟦judah|Yehudah|Judah⟧, according to the commandment of ⟦yhwh|Yahweh|the LORD⟧ to ⟦joshua|Yehoshua|Joshua⟧ — ⟦kiriath-arba|Qiryat Arba|Kiriath-arba⟧ (Arba was the father of ⟦anak|Anaq|Anak⟧), that is, ⟦hebron|Chevron|Hebron⟧.
 
-[14] Caleb drove out from there the three sons of Anak: Sheshai, Ahiman, and Talmai, the descendants of Anak.
+[14] ⟦caleb|Kalev|Caleb⟧ drove out from there the three sons of ⟦anak|Anaq|Anak⟧: Sheshai, ⟦ahiman|Achiman|Ahiman⟧, and Talmai, the descendants of ⟦anak|Anaq|Anak⟧.
 
-[15] He went up from there against the inhabitants of Debir; the former name of Debir was Kiriath-sepher.
+[15] He went up from there against the inhabitants of ⟦debir|Devir|Debir⟧; the former name of ⟦debir|Devir|Debir⟧ was ⟦kiriath-sepher|Qiryat Sefer|Kiriath-sepher⟧.
 
-[16] Caleb said, "Whoever strikes Kiriath-sepher and captures it, to him I will give Achsah my daughter as a wife."
+[16] ⟦caleb|Kalev|Caleb⟧ said, "Whoever strikes ⟦kiriath-sepher|Qiryat Sefer|Kiriath-sepher⟧ and captures it, to him I will give Achsah my daughter as a wife."
 
-[17] Othniel son of Kenaz, Caleb's brother, captured it; and he gave him Achsah his daughter as a wife.
+[17] ⟦othniel|Otniel|Othniel⟧ son of ⟦kenaz|Qenaz|Kenaz⟧, ⟦caleb|Kalev|Caleb⟧'s brother, captured it; and he gave him Achsah his daughter as a wife.
 
-[18] When she came to him, she urged him to ask her father for a field. She dismounted from her donkey, and Caleb said to her, "What do you want?"
+[18] When she came to him, she urged him to ask her father for a field. She dismounted from her donkey, and ⟦caleb|Kalev|Caleb⟧ said to her, "What do you want?"
 
-[19] She said, "Give me a blessing. Since you have set me in the land of the Negev, give me also springs of water." So he gave her the upper springs and the lower springs.
+[19] She said, "Give me a blessing. Since you have set me in the land of the ⟦negev|Negev|Negeb⟧, give me also springs of water." So he gave her the upper springs and the lower springs.
 
-[20] This is the inheritance of the tribe of the children of Judah by their clans.
+[20] This is the inheritance of the tribe of the children of ⟦judah|Yehudah|Judah⟧ by their clans.
 
-[21] The cities at the edge of the tribe of the children of Judah toward the border of Edom to the south were: Kabzeel, Eder, Jagur,
+[21] The cities at the edge of the tribe of the children of ⟦judah|Yehudah|Judah⟧ toward the border of Edom to the south were: ⟦kabzeel|Qavtzeel|Kabzeel⟧, Eder, ⟦jagur|Yagur|Jagur⟧,
 
-[22] Kinah, Dimonah, Adadah,
+[22] ⟦kinah|Qinah|Kinah⟧, Dimonah, Adadah,
 
-[23] Kedesh, Hazor, Ithnan,
+[23] ⟦kedesh|Qedesh|Kedesh⟧, ⟦hazor|Chatzor|Hazor⟧, ⟦ithnan|Yitnan|Ithnan⟧,
 
-[24] Ziph, Telem, Bealoth,
+[24] ⟦ziph|Zif|Ziph⟧, Telem, ⟦bealoth|Bealot|Bealoth⟧,
 
-[25] Hazor-hadattah, Kerioth-hezron (that is, Hazor),
+[25] ⟦hazor-hadattah|Chatzor Chadattah|Hazor-hadattah⟧, ⟦kerioth-hezron|Qeriyyot Chetzron|Kerioth-hezron⟧ (that is, ⟦hazor|Chatzor|Hazor⟧),
 
 [26] Amam, Shema, Moladah,
 
-[27] Hazar-gaddah, Heshmon, Beth-pelet,
+[27] ⟦hazar-gaddah|Chatzar Gaddah|Hazar-gaddah⟧, ⟦heshmon|Cheshmon|Heshmon⟧, ⟦beth-pelet|Beit Pelet|Beth-pelet⟧,
 
-[28] Hazar-shual, Beersheba, Biziothiah,
+[28] ⟦hazar-shual|Chatzar Shual|Hazar-shual⟧, ⟦beersheba|Beer Sheva|Beersheba⟧, ⟦biziothiah|Bizyotyah|Biziothiah⟧,
 
-[29] Baalah, Iim, Ezem,
+[29] Baalah, ⟦iim|Iyyim|Iim⟧, ⟦ezem|Etzem|Ezem⟧,
 
-[30] Eltolad, Chesil, Hormah,
+[30] Eltolad, ⟦chesil|Kesil|Chesil⟧, ⟦hormah|Chormah|Hormah⟧,
 
-[31] Ziklag, Madmannah, Sansannah,
+[31] ⟦ziklag|Tziqlag|Ziklag⟧, Madmannah, Sansannah,
 
-[32] Lebaoth, Shilhim, Ain, and Rimmon — twenty-nine cities in all, with their villages.
+[32] ⟦lebaoth|Levaot|Lebaoth⟧, ⟦shilhim|Shilchim|Shilhim⟧, ⟦ain|Ayin|Ain⟧, and Rimmon — twenty-nine cities in all, with their villages.
 
-[33] In the lowland: Eshtaol, Zorah, Ashnah,
+[33] In the lowland: Eshtaol, ⟦zorah|Tzorah|Zorah⟧, Ashnah,
 
-[34] Zanoah, En-gannim, Tappuah, Enam,
+[34] ⟦zanoah|Zanoach|Zanoah⟧, ⟦en-gannim|Ein Gannim|En-gannim⟧, ⟦tappuah|Tappuach|Tappuah⟧, ⟦enam|Einam|Enam⟧,
 
-[35] Jarmuth, Adullam, Socoh, Azekah,
+[35] ⟦jarmuth|Yarmut|Jarmuth⟧, Adullam, ⟦socoh|Sochoh|Socoh⟧, ⟦azekah|Azeqah|Azekah⟧,
 
-[36] Shaaraim, Adithaim, Gederah, Gederothaim — fourteen cities with their villages.
+[36] ⟦shaaraim|Shaarayim|Shaaraim⟧, ⟦adithaim|Aditayim|Adithaim⟧, Gederah, ⟦gederothaim|Gederotayim|Gederothaim⟧ — fourteen cities with their villages.
 
-[37] Zenan, Hadashah, Migdal-gad,
+[37] ⟦zenan|Tzenan|Zenan⟧, ⟦hadashah|Chadashah|Hadashah⟧, ⟦migdal-gad|Migdal Gad|Migdal-gad⟧,
 
-[38] Dilean, Mizpeh, Joktheel,
+[38] ⟦dilean|Dilan|Dilean⟧, ⟦mizpeh|Mitzpeh|Mizpeh⟧, ⟦joktheel|Yoqteel|Joktheel⟧,
 
-[39] Lachish, Bozkath, Eglon,
+[39] Lachish, ⟦bozkath|Botzqat|Bozkath⟧, Eglon,
 
-[40] Cabbon, Lahmas, Chitlish,
+[40] ⟦cabbon|Kabbon|Cabbon⟧, ⟦lahmas|Lachmas|Lahmas⟧, ⟦chitlish|Kitlish|Chitlish⟧,
 
-[41] Gederoth, Beth-dagon, Naamah, and Makkedah — sixteen cities with their villages.
+[41] ⟦gederoth|Gederot|Gederoth⟧, ⟦beth-dagon|Beit Dagon|Beth-dagon⟧, Naamah, and ⟦makkedah|Maqqedah|Makkedah⟧ — sixteen cities with their villages.
 
-[42] Libnah, Ether, Ashan,
+[42] ⟦libnah|Livnah|Libnah⟧, ⟦ether|Eter|Ether⟧, Ashan,
 
-[43] Iphtah, Ashnah, Nezib,
+[43] ⟦iphtah|Yiftach|Iphtah⟧, Ashnah, ⟦nezib|Netziv|Nezib⟧,
 
-[44] Keilah, Achzib, and Mareshah — nine cities with their villages.
+[44] ⟦keilah|Qeilah|Keilah⟧, ⟦achzib|Achziv|Achzib⟧, and Mareshah — nine cities with their villages.
 
-[45] Ekron, with its dependent towns and its villages;
+[45] ⟦ekron|Eqron|Ekron⟧, with its dependent towns and its villages;
 
-[46] from Ekron to the sea, all that lay near Ashdod, with their villages;
+[46] from ⟦ekron|Eqron|Ekron⟧ to the sea, all that lay near Ashdod, with their villages;
 
-[47] Ashdod, its dependent towns and its villages; Gaza, its dependent towns and its villages — as far as the Wadi of Egypt and the Great Sea with its coast.
+[47] Ashdod, its dependent towns and its villages; ⟦gaza|Azzah|Gaza⟧, its dependent towns and its villages — as far as the Wadi of ⟦egypt|Mitzrayim|Egypt⟧ and the Great Sea with its coast.
 
-[48] In the hill country: Shamir, Jattir, Socoh,
+[48] In the hill country: Shamir, ⟦jattir|Yattir|Jattir⟧, ⟦socoh|Sochoh|Socoh⟧,
 
-[49] Dannah, Kiriath-sannah (that is, Debir),
+[49] Dannah, ⟦kiriath-sannah|Qiryat Sannah|Kiriath-sannah⟧ (that is, ⟦debir|Devir|Debir⟧),
 
-[50] Anab, Eshtemoh, Anim,
+[50] ⟦anab|Anav|Anab⟧, Eshtemoh, Anim,
 
-[51] Goshen, Holon, and Giloh — eleven cities with their villages.
+[51] Goshen, ⟦holon|Cholon|Holon⟧, and Giloh — eleven cities with their villages.
 
-[52] Arab, Dumah, Eshan,
+[52] ⟦arab|Arav|Arab⟧, Dumah, Eshan,
 
-[53] Janim, Beth-tappuah, Aphekah,
+[53] ⟦janim|Yanum|Janim⟧, ⟦beth-tappuah|Beit Tappuach|Beth-tappuah⟧, ⟦aphekah|Afeqah|Aphekah⟧,
 
-[54] Humtah, Kiriath-arba (that is, Hebron), and Zior — nine cities with their villages.
+[54] ⟦humtah|Chumtah|Humtah⟧, ⟦kiriath-arba|Qiryat Arba|Kiriath-arba⟧ (that is, ⟦hebron|Chevron|Hebron⟧), and ⟦zior|Tzior|Zior⟧ — nine cities with their villages.
 
-[55] Maon, Carmel, Ziph, Juttah,
+[55] Maon, ⟦carmel|Karmel|Carmel⟧, ⟦ziph|Zif|Ziph⟧, ⟦juttah|Yuttah|Juttah⟧,
 
-[56] Jezreel, Jokdeam, Zanoah,
+[56] ⟦jezreel|Yizreel|Jezreel⟧, ⟦jokdeam|Yoqdeam|Jokdeam⟧, ⟦zanoah|Zanoach|Zanoah⟧,
 
-[57] Kain, Gibeah, and Timnah — ten cities with their villages.
+[57] ⟦kain|Qayin|Kain⟧, ⟦gibeah|Givah|Gibeah⟧, and Timnah — ten cities with their villages.
 
-[58] Halhul, Beth-zur, Gedor,
+[58] ⟦halhul|Chalchul|Halhul⟧, ⟦beth-zur|Beit Tzur|Beth-zur⟧, Gedor,
 
-[59] Maarath, Beth-anoth, and Eltekon — six cities with their villages.
+[59] ⟦maarath|Maarat|Maarath⟧, ⟦beth-anoth|Beit Anot|Beth-anoth⟧, and ⟦eltekon|Elteqon|Eltekon⟧ — six cities with their villages.
 
-[60] Kiriath-baal (that is, Kiriath-jearim) and Rabbah — two cities with their villages.
+[60] ⟦kiriath-baal|Qiryat Baal|Kiriath-baal⟧ (that is, ⟦kiriath-jearim|Qiryat Yearim|Kiriath-jearim⟧) and Rabbah — two cities with their villages.
 
-[61] In the wilderness: Beth-arabah, Middin, Secacah,
+[61] In the wilderness: ⟦beth-arabah|Beit HaAravah|Beth-arabah⟧, Middin, ⟦secacah|Sechachah|Secacah⟧,
 
-[62] Nibshan, the City of Salt, and En-gedi — six cities with their villages.
+[62] ⟦nibshan|Nivshan|Nibshan⟧, the City of Salt, and ⟦en-gedi|Ein Gedi|Engedi⟧ — six cities with their villages.
 
-[63] But as for the Jebusites, the inhabitants of Jerusalem, the children of Judah could not drive them out; so the Jebusites dwell with the children of Judah at Jerusalem to this day.
+[63] But as for the ⟦jebusites|Yevusim|Jebusites⟧, the inhabitants of ⟦jerusalem|Yerushalayim|Jerusalem⟧, the children of ⟦judah|Yehudah|Judah⟧ could not drive them out; so the ⟦jebusites|Yevusim|Jebusites⟧ dwell with the children of ⟦judah|Yehudah|Judah⟧ at ⟦jerusalem|Yerushalayim|Jerusalem⟧ to this day.
 
 ## Changes
 

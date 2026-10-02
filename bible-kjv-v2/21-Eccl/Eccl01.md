@@ -1,8 +1,8 @@
 # Ecclesiastes 1
 
-[1] The words of Preacher, son of David, king in Jerusalem.
+[1] The words of ⟦qohelet|Qohelet|the Preacher⟧, son of David, king in ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[2] Vanity of vanities, says Preacher,
+[2] Vanity of vanities, says ⟦qohelet|Qohelet|the Preacher⟧,
 vanity of vanities; all is vanity.
 
 [3] What gain has man from all his toil
@@ -41,16 +41,16 @@ It has been already in the ages before us.
 nor will there be any remembrance of later things yet to be
 among those who come after.
 
-[12] I, Preacher, have been king over Israel in Jerusalem.
+[12] I, ⟦qohelet|Qohelet|the Preacher⟧, have been king over ⟦israel|Yisrael|Israel⟧ in ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[13] And I applied my heart to seek and to search out by wisdom all that is done under the heavens. It is an unhappy business that *Elohim* has given to the children of man to be busy with.
+[13] And I applied my heart to seek and to search out by wisdom all that is done under the heavens. It is an unhappy business that ⟦elohim|Elohim|God⟧ has given to the children of man to be busy with.
 
 [14] I saw all the deeds that are done under the sun, and behold, all is vanity and a striving after spirit.
 
 [15] What is crooked cannot be made straight,
 and what is lacking cannot be counted.
 
-[16] I said in my heart, "Behold, I have acquired great wisdom, surpassing all who were over Jerusalem before me, and my heart has had great experience of wisdom and knowledge."
+[16] I said in my heart, "Behold, I have acquired great wisdom, surpassing all who were over ⟦jerusalem|Yerushalayim|Jerusalem⟧ before me, and my heart has had great experience of wisdom and knowledge."
 
 [17] And I applied my heart to know wisdom and to know madness and folly. I perceived that this also is but a striving after spirit.
 

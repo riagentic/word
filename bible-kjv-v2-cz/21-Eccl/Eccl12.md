@@ -33,21 +33,21 @@ nebo se roztříští džbán u pramene
 nebo se zlomí kolo u cisterny
 
 [7] a prach se vrátí do země, jak byl,
-a duch se vrátí k *Elohim*, který jej dal.
+a duch se vrátí k ⟦elohim|Elohim|Bohu⟧, který jej dal.
 
-[8] Marnost nad marnostmi, praví Kazatel; všechno je marnost.
+[8] Marnost nad marnostmi, praví ⟦qohelet|Kohelet|Kazatel⟧; všechno je marnost.
 
-[9] Kromě toho, že byl moudrý, učil Kazatel lid také poznání; vážil, zkoumal a s velkou péčí uspořádal mnoho přísloví.
+[9] Kromě toho, že byl moudrý, učil ⟦qohelet|Kohelet|Kazatel⟧ lid také poznání; vážil, zkoumal a s velkou péčí uspořádal mnoho přísloví.
 
-[10] Kazatel se snažil najít slova potěšení a přímo napsal slova pravdy.
+[10] ⟦qohelet|Kohelet|Kazatel⟧ se snažil najít slova potěšení a přímo napsal slova pravdy.
 
 [11] Slova moudrých jsou jako bodce a jako pevně zatlučené hřeby jsou sebrané výroky – jsou dány od jednoho Pastýře.
 
 [12] Můj synu, střez se čehokoli nad to. Psaní mnoha knih není konce a mnohé studium vyčerpává tělo.
 
-[13] Konec věci; všechno bylo vyslyšeno. Boj se *Elohim* a zachovávej jeho přikázání, neboť to je celá povinnost člověka.
+[13] Konec věci; všechno bylo vyslyšeno. Boj se ⟦elohim|Elohim|Boha⟧ a zachovávej jeho přikázání, neboť to je celá povinnost člověka.
 
-[14] Neboť *Elohim* povolá na soud každý skutek, i všechno skryté, ať dobré, či zlé.
+[14] Neboť ⟦elohim|Elohim|Bůh⟧ povolá na soud každý skutek, i všechno skryté, ať dobré, či zlé.
 
 ## Změny
 

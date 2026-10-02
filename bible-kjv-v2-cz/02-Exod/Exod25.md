@@ -1,8 +1,8 @@
 # Exodus 25
 
-[1] Yahweh promluvil k Mosesovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[2] „Řekni synům Israele, ať mi přinesou příspěvek. Od každého, koho k tomu pohne srdce, vezmete můj příspěvek.
+[2] „Řekni synům ⟦israel|Jisraele|Izraele⟧, ať mi přinesou příspěvek. Od každého, koho k tomu pohne srdce, vezmete můj příspěvek.
 
 [3] A toto je příspěvek, který od nich vezmete: zlato, stříbro a bronz;
 
@@ -12,7 +12,7 @@
 
 [6] olej pro světlo, vonné látky pro olej pomazání a pro vonné kadidlo;
 
-[7] onyxové kameny a kameny k vsazení, pro ephod a pro náprsník.
+[7] onyxové kameny a kameny k vsazení, pro ⟦ephod|efod|nárameník⟧ a pro náprsník.
 
 [8] A ať mi udělají svatyni, abych přebýval uprostřed nich.
 
@@ -32,17 +32,17 @@
 
 [16] A do truhly vložíš Svědectví, které ti dám.
 
-[17] Uděláš slitovnici (*kapporet*, smírčí víko) z čistého zlata; její délka bude dva a půl lokte a šířka půldruhého lokte.
+[17] Uděláš ⟦mercy-seat|slitovnici (kapporet, smírčí víko) z čistého zlata; její délka|příkrov z čistého zlata; jeho délka⟧ bude dva a půl lokte a šířka půldruhého lokte.
 
-[18] Uděláš dva cheruby ze zlata; vytepané práce je uděláš, na obou koncích slitovnice.
+[18] Uděláš dva ⟦cherubim|keruvim|cheruby⟧ ze zlata; vytepané práce je uděláš, na obou koncích ⟦mercy-seat|kapporet|příkrovu⟧.
 
-[19] Udělej jednoho cheruba na jednom konci a jednoho cheruba na druhém konci; z jednoho kusu se slitovnicí uděláš cheruby na jejích obou koncích.
+[19] Udělej jednoho ⟦cherub|keruva|cheruba⟧ na jednom konci a jednoho ⟦cherub|keruva|cheruba⟧ na druhém konci; z jednoho kusu ⟦mercy-seat|s kapporet uděláš keruvim na jejích obou koncích|s příkrovem uděláš cheruby na jeho obou koncích⟧.
 
-[20] Cherubové budou mít křídla rozprostřená vzhůru a budou svými křídly zastiňovat slitovnici, tvářemi obráceni k sobě; tváře cherubů budou obráceny ke slitovnici.
+[20] ⟦cherubim|Keruvim|Cherubové⟧ budou mít křídla rozprostřená vzhůru a budou svými křídly zastiňovat ⟦mercy-seat|kapporet|příkrov⟧, tvářemi obráceni k sobě; tváře ⟦cherubim|keruvim|cherubů⟧ budou obráceny ⟦mercy-seat|ke kapporet|k příkrovu⟧.
 
-[21] Slitovnici položíš navrch truhly; a do truhly vložíš Svědectví, které ti dám.
+[21] ⟦mercy-seat|Kapporet|Příkrov⟧ položíš navrch truhly; a do truhly vložíš Svědectví, které ti dám.
 
-[22] Tam se s tebou budu setkávat a shora ze slitovnice, zprostřed dvou cherubů, kteří jsou na truhle Svědectví, s tebou budu mluvit o všem, co ti přikážu pro syny Israele.
+[22] Tam se s tebou budu setkávat a shora ⟦mercy-seat|z kapporet|z příkrovu⟧, zprostřed dvou ⟦cherubim|keruvim|cherubů⟧, kteří jsou na truhle Svědectví, s tebou budu mluvit o všem, co ti přikážu pro syny ⟦israel|Jisraele|Izraele⟧.
 
 [23] Uděláš stůl z akáciového dřeva; dva lokte bude jeho délka, loket jeho šířka a půldruhého lokte jeho výška.
 

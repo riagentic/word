@@ -1,6 +1,6 @@
 # Izajáš 24
 
-[1] Hle, Yahweh vyprázdní zemi a zpustoší ji,
+[1] Hle, ⟦yhwh|Jahve|Hospodin⟧ vyprázdní zemi a zpustoší ji,
 zkroutí její povrch a rozptýlí její obyvatele.
 
 [2] A bude to tak: jak s lidem, tak s knězem;
@@ -11,7 +11,7 @@ jak s věřitelem, tak s dlužníkem;
 jak s lichvářem, tak s tím, kdo mu dluží.
 
 [3] Země bude docela vyprázdněná a docela vypleněná;
-neboť Yahweh promluvil toto slovo.
+neboť ⟦yhwh|Jahve|Hospodin⟧ promluvil toto slovo.
 
 [4] Země truchlí a vadne,
 svět chřadne a vadne,
@@ -53,11 +53,11 @@ jako když se otlouká olivovník,
 jako při paběrkování, když skončí vinobraní.
 
 [14] Oni pozvedají svůj hlas, zpívají radostí;
-nad velebností Yahweh jásají od západu.
+nad velebností ⟦yhwh|Jahveho|Hospodina⟧ jásají od západu.
 
-[15] Proto na východě vzdávejte slávu Yahweh;
-na pobřežích moře vzdávejte slávu jménu Yahweh,
-*Elohim* Israele.
+[15] Proto na východě vzdávejte slávu ⟦yhwh|Jahvovi|Hospodinu⟧;
+na pobřežích moře vzdávejte slávu jménu ⟦yhwh|Jahveho|Hospodina⟧,
+⟦elohim|Elohim|Boha⟧ ⟦israel|Jisraele|Izraele⟧.
 
 [16] Z končin země slyšíme chvalozpěvy,
 slávu Spravedlivému.
@@ -85,7 +85,7 @@ kymácí se jako chatrč;
 její přestoupení na ní těžce leží,
 a padne a už nepovstane.
 
-[21] V onen den Yahweh potrestá
+[21] V onen den ⟦yhwh|Jahve|Hospodin⟧ potrestá
 zástup nebes na nebi
 a krále země na zemi.
 
@@ -96,8 +96,8 @@ a po mnoha dnech budou potrestáni.
 
 [23] Tehdy bude měsíc zahanben
 a slunce se zastydí,
-neboť Yahweh zástupů kraluje
-na hoře Zion a v Jerusalemě
+neboť ⟦yhwh|Jahve|Hospodin⟧ zástupů kraluje
+na hoře ⟦zion|Cijon|Sijón⟧ a v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧
 a jeho sláva bude před jeho staršími.
 
 ## Změny

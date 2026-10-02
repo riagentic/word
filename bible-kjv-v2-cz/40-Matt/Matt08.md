@@ -4,11 +4,11 @@
 
 [2] A hle, přišel k němu malomocný, poklekl před ním a řekl: „Pane, chceš-li, můžeš mě očistit.“
 
-[3] *Yeshua* vztáhl ruku, dotkl se ho a řekl: „Chci; buď čistý.“ A hned byl očištěn od svého malomocenství.
+[3] ⟦yeshua|Ješua|Ježíš⟧ vztáhl ruku, dotkl se ho a řekl: „Chci; buď čistý.“ A hned byl očištěn od svého malomocenství.
 
-[4] Tu mu *Yeshua* řekl: „Hleď, abys nikomu nic neříkal, ale jdi, ukaž se knězi a obětuj dar, který přikázal Moses, jim na svědectví.“
+[4] Tu mu ⟦yeshua|Ješua|Ježíš⟧ řekl: „Hleď, abys nikomu nic neříkal, ale jdi, ukaž se knězi a obětuj dar, který přikázal ⟦moses|Moše|Mojžíš⟧, jim na svědectví.“
 
-[5] Když vešel do Capernaumu, přistoupil k němu setník a prosil ho:
+[5] Když vešel do ⟦capernaum|Kfar Nachumu|Kafarnaum⟧, přistoupil k němu setník a prosil ho:
 
 [6] „Pane, můj služebník leží doma ochrnutý a strašně trpí.“
 
@@ -18,31 +18,31 @@
 
 [9] Neboť i já jsem člověk podřízený autoritě a mám pod sebou vojáky. Řeknu jednomu: ‚Jdi,‘ a jde, a jinému: ‚Pojď,‘ a přijde, a svému služebníku: ‚Udělej to,‘ a udělá to.“
 
-[10] Když to *Yeshua* uslyšel, podivil se a řekl těm, kdo šli za ním: „Vpravdě vám pravím, u nikoho v Israeli jsem nenašel takovou víru.
+[10] Když to ⟦yeshua|Ješua|Ježíš⟧ uslyšel, podivil se a řekl těm, kdo šli za ním: „Vpravdě vám pravím, u nikoho v ⟦israel|Jisraeli|Izraeli⟧ jsem nenašel takovou víru.
 
-[11] Pravím vám, že mnozí přijdou od východu i západu a budou stolovat s Abrahamem, Isaacem a Jacobem v království nebes,
+[11] Pravím vám, že mnozí přijdou od východu i západu a budou stolovat s ⟦abraham|Avrahamem|Abrahamem⟧, ⟦isaac|Jicchakem|Izákem⟧ a ⟦jacob|Jaakovem|Jákobem⟧ v království nebes,
 
 [12] kdežto synové království budou vyvrženi do vnější tmy. Tam bude pláč a skřípění zubů.“
 
-[13] A setníkovi *Yeshua* řekl: „Jdi; ať se ti stane, jak jsi uvěřil.“ A služebník byl v tu hodinu uzdraven.
+[13] A setníkovi ⟦yeshua|Ješua|Ježíš⟧ řekl: „Jdi; ať se ti stane, jak jsi uvěřil.“ A služebník byl v tu hodinu uzdraven.
 
-[14] Když *Yeshua* vešel do domu *Kefy*, uviděl jeho tchyni, jak leží v horečce.
+[14] Když ⟦yeshua|Ješua|Ježíš⟧ vešel do domu ⟦peter|Kefy|Petra⟧, uviděl jeho tchyni, jak leží v horečce.
 
 [15] Dotkl se její ruky a horečka ji opustila; vstala a začala mu posluhovat.
 
 [16] Když nastal večer, přinesli k němu mnoho utlačovaných démony; on vyhnal duchy slovem a uzdravil všechny nemocné.
 
-[17] Tak se naplnilo, co bylo řečeno skrze proroka Isaiaha: „On vzal na sebe naše slabosti a nesl naše nemoci.“
+[17] Tak se naplnilo, co bylo řečeno skrze proroka ⟦isaiah|Ješajahua|Izajáše⟧: „On vzal na sebe naše slabosti a nesl naše nemoci.“
 
-[18] Když *Yeshua* uviděl kolem sebe zástup, rozkázal přeplout na druhou stranu.
+[18] Když ⟦yeshua|Ješua|Ježíš⟧ uviděl kolem sebe zástup, rozkázal přeplout na druhou stranu.
 
 [19] Tu přistoupil jeden zákoník a řekl mu: „Učiteli, budu tě následovat, kamkoli půjdeš.“
 
-[20] *Yeshua* mu řekl: „Lišky mají doupata a ptáci nebe hnízda, ale Syn člověka nemá, kam by hlavu složil.“
+[20] ⟦yeshua|Ješua|Ježíš⟧ mu řekl: „Lišky mají doupata a ptáci nebe hnízda, ale Syn člověka nemá, kam by hlavu složil.“
 
 [21] Jiný z učedníků mu řekl: „Pane, dovol mi, abych nejprve šel a pohřbil svého otce.“
 
-[22] Ale *Yeshua* mu řekl: „Následuj mě a nech mrtvé, ať pohřbívají své mrtvé.“
+[22] Ale ⟦yeshua|Ješua|Ježíš⟧ mu řekl: „Následuj mě a nech mrtvé, ať pohřbívají své mrtvé.“
 
 [23] Když vstoupil do lodi, jeho učedníci ho následovali.
 
@@ -54,9 +54,9 @@
 
 [27] Lidé žasli a říkali: „Kdo je to, že ho poslouchají i větry a moře?“
 
-[28] Když přišel na druhou stranu, do krajiny Gadarenů, vyšli mu vstříc z hrobů dva posedlí démony, tak nebezpeční, že nikdo nemohl projít tou cestou.
+[28] Když přišel na druhou stranu, do krajiny ⟦gadarenes|Gadarenů|Gadarských⟧, vyšli mu vstříc z hrobů dva posedlí démony, tak nebezpeční, že nikdo nemohl projít tou cestou.
 
-[29] A hle, vykřikli: „Co je ti po nás, Synu *Elohim*? Přišel jsi sem, abys nás trápil před časem?“
+[29] A hle, vykřikli: „Co je ti po nás, Synu ⟦elohim|Elohim|Boží⟧? Přišel jsi sem, abys nás trápil před časem?“
 
 [30] Opodál od nich se páslo veliké stádo prasat.
 
@@ -66,7 +66,7 @@
 
 [33] Pasáci utekli, přišli do města a vypravovali všechno, zvláště co se stalo s posedlými démony.
 
-[34] A hle, celé město vyšlo *Yeshuovi* naproti, a když ho uviděli, prosili ho, aby odešel z jejich kraje.
+[34] A hle, celé město vyšlo ⟦yeshua|Ješuovi|Ježíšovi⟧ naproti, a když ho uviděli, prosili ho, aby odešel z jejich kraje.
 
 ## Změny
 

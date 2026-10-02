@@ -1,38 +1,38 @@
 # Luke 6
 
-[1] On a Sabbath, while he was going through the grainfields, his disciples plucked and ate some heads of grain, rubbing them in their hands.
+[1] On a ⟦shabbat|Shabbat|Sabbath⟧, while he was going through the grainfields, his disciples plucked and ate some heads of grain, rubbing them in their hands.
 
-[2] But some of the Pharisees said, "Why are you doing what is not lawful to do on the Sabbath?"
+[2] But some of the ⟦pharisees|Perushim|Pharisees⟧ said, "Why are you doing what is not lawful to do on the ⟦shabbat|Shabbat|Sabbath⟧?"
 
-[3] And *Yeshua* answered them, "Have you not read what David did when he was hungry, he and those who were with him:
+[3] And ⟦yeshua|Yeshua|Jesus⟧ answered them, "Have you not read what David did when he was hungry, he and those who were with him:
 
-[4] how he entered the house of *Elohim* and took and ate the bread of the Presence, which is not lawful for any but the priests to eat, and also gave it to those with him?"
+[4] how he entered the house of ⟦elohim|Elohim|God⟧ and took and ate the bread of the Presence, which is not lawful for any but the priests to eat, and also gave it to those with him?"
 
-[5] And he said to them, "**The Son of Man is lord of the Sabbath.**"
+[5] And he said to them, "**The Son of Man is lord of the ⟦shabbat|Shabbat|Sabbath⟧.**"
 
-[6] On another Sabbath, he entered the synagogue and was teaching, and a man was there whose right hand was withered.
+[6] On another ⟦shabbat|Shabbat|Sabbath⟧, he entered the synagogue and was teaching, and a man was there whose right hand was withered.
 
-[7] And the scribes and the Pharisees watched him, to see whether he would heal on the Sabbath, so that they might find a reason to accuse him.
+[7] And the scribes and the ⟦pharisees|Perushim|Pharisees⟧ watched him, to see whether he would heal on the ⟦shabbat|Shabbat|Sabbath⟧, so that they might find a reason to accuse him.
 
 [8] But he knew their thoughts, and he said to the man with the withered hand, "Come and stand here." And he rose and stood there.
 
-[9] And *Yeshua* said to them, "I ask you, is it lawful on the Sabbath to do good or to do harm, to save life or to destroy it?"
+[9] And ⟦yeshua|Yeshua|Jesus⟧ said to them, "I ask you, is it lawful on the ⟦shabbat|Shabbat|Sabbath⟧ to do good or to do harm, to save life or to destroy it?"
 
 [10] And after looking around at them all, he said to him, "Stretch out your hand." And he did so, and his hand was restored.
 
-[11] But they were filled with fury and discussed with one another what they might do to *Yeshua*.
+[11] But they were filled with fury and discussed with one another what they might do to ⟦yeshua|Yeshua|Jesus⟧.
 
-[12] In these days he went out to the mountain to pray, and all night he continued in prayer to *Elohim*.
+[12] In these days he went out to the mountain to pray, and all night he continued in prayer to ⟦elohim|Elohim|God⟧.
 
 [13] And when day came, he called his disciples and chose from them twelve, whom he named apostles:
 
-[14] Simon, whom he named *Kefa*, and Andrew his brother, and Jacob and John, and Philip, and Bartholomew,
+[14] ⟦simon|Shimon|Simon⟧, whom he named ⟦peter|Kefa|Peter⟧, and ⟦andrew|Andreas|Andrew⟧ his brother, and ⟦james|Yaaqov|James⟧ and ⟦john|Yochanan|John⟧, and ⟦philip|Philippos|Philip⟧, and ⟦bartholomew|Bar-Talmai|Bartholomew⟧,
 
-[15] and Matthew, and Thomas, and Jacob the son of Alphaeus, and Simon who was called the Zealot,
+[15] and ⟦matthew|Mattai|Matthew⟧, and ⟦thomas|Toma|Thomas⟧, and ⟦james|Yaaqov|James⟧ the son of ⟦alphaeus|Alphaios|Alphaeus⟧, and ⟦simon|Shimon|Simon⟧ who was called the Zealot,
 
-[16] and Judas the son of Jacob, and Judas Iscariot, who became a traitor.
+[16] and ⟦jude|Yehudah|Judas⟧ the son of ⟦james|Yaaqov|James⟧, and ⟦judas|Yehudah|Judas⟧ Iscariot, who became a traitor.
 
-[17] And he came down with them and stood on a level place, with a great crowd of his disciples and a great multitude of people from all Judea and Jerusalem and the seacoast of Tyre and Sidon, who came to hear him and to be healed of their diseases.
+[17] And he came down with them and stood on a level place, with a great crowd of his disciples and a great multitude of people from all ⟦judea|Yehudah|Judea⟧ and ⟦jerusalem|Yerushalayim|Jerusalem⟧ and the seacoast of ⟦tyre|Tzor|Tyre⟧ and ⟦sidon|Tzidon|Sidon⟧, who came to hear him and to be healed of their diseases.
 
 [18] And those who were troubled with unclean spirits were cured.
 
@@ -40,7 +40,7 @@
 
 [20] And he lifted up his eyes on his disciples, and said:
 
-"Blessed are you who are poor, for yours is the kingdom of *Elohim*.
+"Blessed are you who are poor, for yours is the kingdom of ⟦elohim|Elohim|God⟧.
 [21] Blessed are you who are hungry now, for you shall be satisfied.
 Blessed are you who weep now, for you shall laugh.
 [22] Blessed are you when people hate you and when they exclude you and revile you and spurn your name as evil, on account of the Son of Man!

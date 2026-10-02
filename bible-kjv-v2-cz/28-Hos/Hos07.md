@@ -1,8 +1,8 @@
 # Ozeáš 7
 
-[1] když bych chtěl uzdravit Israele,
-odhaluje se nepravost Ephraima
-a zlé skutky Samarie;
+[1] když bych chtěl uzdravit ⟦israel|Jisraele|Izraele⟧,
+odhaluje se nepravost Efrajima
+a zlé skutky ⟦samaria|Šomronu|Samaří⟧;
 neboť jednají falešně;
 zloděj se vlamuje dovnitř
 a venku plení lupičské tlupy.
@@ -34,20 +34,20 @@ a požírají své vládce.
 Všichni jejich králové padli
 a nikdo z nich mě nevzývá.
 
-[8] Ephraim se mísí s národy;
-Ephraim je placka neobrácená.
+[8] Efrajim se mísí s národy;
+Efrajim je placka neobrácená.
 
 [9] Cizinci požírají jeho sílu,
 a on o tom neví;
 šediny ho prokvetly,
 a on o tom neví.
 
-[10] Pýcha Israele svědčí proti němu do tváře;
-a přece se přes to všechno nevracejí k Yahweh, svému *Elohim*,
+[10] Pýcha ⟦israel|Jisraele|Izraele⟧ svědčí proti němu do tváře;
+a přece se přes to všechno nevracejí k ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧,
 ani ho nehledají.
 
-[11] Ephraim je jako holubice, pošetilá a bez rozumu;
-volají Egypt, chodí do Assyrie.
+[11] Efrajim je jako holubice, pošetilá a bez rozumu;
+volají ⟦egypt|Micrajim|Egypt⟧, chodí do ⟦assyria|Aššuru|Asýrie⟧.
 
 [12] Až půjdou, rozprostřu nad nimi svou síť;
 srazím je dolů jako ptáky nebes;
@@ -69,7 +69,7 @@ přece proti mně osnují zlo.
 jsou jako zrádný luk;
 jejich knížata padnou mečem
 pro zpupnost svého jazyka.
-To bude jejich posměchem v zemi Egypt.
+To bude jejich posměchem v zemi ⟦egypt|Micrajim|Egypt⟧.
 
 ## Změny
 

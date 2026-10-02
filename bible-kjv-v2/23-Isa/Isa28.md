@@ -1,16 +1,16 @@
 # Isaiah 28
 
-[1] Woe to the proud crown of the drunkards of Ephraim,
+[1] Woe to the proud crown of the drunkards of ⟦ephraim|Efrayim|Ephraim⟧,
 and to the fading flower of its glorious beauty,
 which is on the head of the rich valley
 of those overcome with wine!
 
-[2] Behold, Lord has one who is mighty and strong;
+[2] Behold, ⟦adonai|Adonai|the Lord⟧ has one who is mighty and strong;
 like a storm of hail, a destroying tempest,
 like a storm of mighty, overflowing waters,
 he casts down to the earth with his hand.
 
-[3] The proud crown of the drunkards of Ephraim
+[3] The proud crown of the drunkards of ⟦ephraim|Efrayim|Ephraim⟧
 will be trodden underfoot;
 
 [4] and the fading flower of its glorious beauty,
@@ -19,7 +19,7 @@ will be like a first-ripe fig before the summer —
 when someone sees it,
 he swallows it as soon as it is in his hand.
 
-[5] In that day Yahweh of Hosts will be a crown of glory
+[5] In that day ⟦yhwh|Yahweh|the LORD⟧ of Hosts will be a crown of glory
 and a diadem of beauty
 to the remnant of his people,
 
@@ -46,19 +46,19 @@ those taken from the breast?
 line upon line, line upon line,
 a little here, a little there."
 
-[11] For by people of strange lips and with a foreign tongue Yahweh will speak to this people,
+[11] For by people of strange lips and with a foreign tongue ⟦yhwh|Yahweh|the LORD⟧ will speak to this people,
 
 [12] to whom he has said, "This is rest; give rest to the weary; and this is repose"; yet they would not hear.
 
-[13] And the word of Yahweh will be to them precept upon precept, precept upon precept, line upon line, line upon line, a little here, a little there, that they may go, and fall backward, and be broken, and snared, and taken.
+[13] And the word of ⟦yhwh|Yahweh|the LORD⟧ will be to them precept upon precept, precept upon precept, line upon line, line upon line, a little here, a little there, that they may go, and fall backward, and be broken, and snared, and taken.
 
-[14] Therefore hear the word of Yahweh, you scoffers, who rule this people in Jerusalem!
+[14] Therefore hear the word of ⟦yhwh|Yahweh|the LORD⟧, you scoffers, who rule this people in ⟦jerusalem|Yerushalayim|Jerusalem⟧!
 
 [15] Because you have said, "We have made a covenant with death, and with Sheol we have an agreement; when the overwhelming whip passes through, it will not come to us, for we have made lies our refuge, and in falsehood we have taken shelter";
 
-[16] therefore thus says Lord Yahweh:
+[16] therefore thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧:
 
-"Behold, I am the one who has laid as a foundation in Zion,
+"Behold, I am the one who has laid as a foundation in ⟦zion|Tziyon|Zion⟧,
 a stone, a tested stone,
 a precious cornerstone, of a sure foundation:
 'Whoever believes will not be in haste.'
@@ -81,15 +81,15 @@ and it will be sheer terror to understand the message.
 [20] For the bed is too short to stretch oneself on,
 and the covering too narrow to wrap oneself in.
 
-[21] For Yahweh will rise up as on Mount Perazim;
-as in the Valley of Gibeon he will be roused;
+[21] For ⟦yhwh|Yahweh|the LORD⟧ will rise up as on Mount ⟦perazim|Peratzim|Perazim⟧;
+as in the Valley of ⟦gibeon|Givon|Gibeon⟧ he will be roused;
 to do his deed — strange is his deed!
 and to work his work — alien is his work!
 
 [22] Now therefore do not scoff,
 lest your bonds be made strong;
 for I have heard a decree of destruction
-from the Lord Yahweh of Hosts against the whole land.
+from the ⟦adonai-yhwh|Lord Yahweh|Lord GOD⟧ of Hosts against the whole land.
 
 [23] Give ear, and hear my voice;
 give attention, and hear my speech.
@@ -104,7 +104,7 @@ and barley in its proper place,
 and emmer as the border?
 
 [26] For he is rightly instructed;
-his *Elohim* teaches him.
+his ⟦elohim|Elohim|God⟧ teaches him.
 
 [27] Dill is not threshed with a threshing sledge,
 nor is a cart wheel rolled over cumin,
@@ -116,7 +116,7 @@ No, he does not thresh it forever;
 when he drives his cart wheel over it
 with his horses, he does not crush it.
 
-[29] This also comes from Yahweh of Hosts;
+[29] This also comes from ⟦yhwh|Yahweh|the LORD⟧ of Hosts;
 he is wonderful in counsel
 and excellent in wisdom.
 

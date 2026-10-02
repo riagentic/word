@@ -1,28 +1,28 @@
 # Numeri 5
 
-[1] Yahweh promluvil k Mosesovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[2] „Přikaž synům Israele, ať vyšlou ven z tábora každého s kožní nemocí, každého, kdo má výtok, a každého, kdo se poskvrnil mrtvolou.
+[2] „Přikaž synům ⟦israel|Jisraele|Izraele⟧, ať vyšlou ven z tábora každého s kožní nemocí, každého, kdo má výtok, a každého, kdo se poskvrnil mrtvolou.
 
 [3] Muže i ženu vyšlete ven, za tábor je vyšlete; aby neposkvrňovali své tábory, uprostřed nichž přebývám.“
 
-[4] Synové Israele tak učinili a vyslali je ven za tábor; jak Yahweh mluvil k Mosesovi, tak synové Israele učinili.
+[4] Synové ⟦israel|Jisraele|Izraele⟧ tak učinili a vyslali je ven za tábor; jak ⟦yhwh|Jahve|Hospodin⟧ mluvil k ⟦moses|Mošovi|Mojžíšovi⟧, tak synové ⟦israel|Jisraele|Izraele⟧ učinili.
 
-[5] Yahweh promluvil k Mosesovi:
+[5] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[6] „Mluv k synům Israele: ‚Když se muž nebo žena dopustí některého z hříchů, jichž se lidé dopouštějí – a zpronevěří se tak Yahweh – a ten člověk je vinen,
+[6] „Mluv k synům ⟦israel|Jisraele|Izraele⟧: ‚Když se muž nebo žena dopustí některého z hříchů, jichž se lidé dopouštějí – a zpronevěří se tak ⟦yhwh|Jahvovi|Hospodinu⟧ – a ten člověk je vinen,
 
 [7] vyznají hřích, kterého se dopustili. Za své provinění nahradí plnou náhradu, přidá k ní pětinu a dá ji tomu, komu ukřivdil.
 
-[8] Nemá-li však poškozený nejbližšího příbuzného, jemuž by se dala náhrada, náhrada za provinění vrácená Yahweh připadne knězi – kromě berana smíření, jímž se za něj vykonává smíření.
+[8] Nemá-li však poškozený nejbližšího příbuzného, jemuž by se dala náhrada, náhrada za provinění vrácená ⟦yhwh|Jahvovi|Hospodinu⟧ připadne knězi – kromě berana smíření, jímž se za něj vykonává smíření.
 
-[9] Každý příspěvek ze všech svatých věcí synů Israele, které přinášejí knězi, bude jeho.
+[9] Každý příspěvek ze všech svatých věcí synů ⟦israel|Jisraele|Izraele⟧, které přinášejí knězi, bude jeho.
 
 [10] Svaté věci každého budou jeho vlastní; cokoli kdo dá knězi, bude knězovo.‘“
 
-[11] Yahweh promluvil k Mosesovi:
+[11] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[12] „Mluv k synům Israele a řekni jim: ‚Jestliže něčí žena sejde z cesty a zpronevěří se mu,
+[12] „Mluv k synům ⟦israel|Jisraele|Izraele⟧ a řekni jim: ‚Jestliže něčí žena sejde z cesty a zpronevěří se mu,
 
 [13] a nějaký muž s ní pohlavně ulehne, a je to skryto před očima jejího muže a ona se tajně poskvrnila, a není proti ní svědek a nebyla přistižena při činu;
 
@@ -30,17 +30,17 @@
 
 [15] muž přivede svou ženu ke knězi a přinese za ni její obětní dar: desetinu éfy ječné mouky. Nenaleje na ni olej a nepřidá k ní kadidlo, neboť je to moučná oběť žárlivosti, moučná oběť připomínky, která připomíná vinu.
 
-[16] Kněz ji přivede a postaví ji před Yahweh.
+[16] Kněz ji přivede a postaví ji před ⟦yhwh|Jahvem|Hospodinem⟧.
 
 [17] Kněz vezme svatou vodu do hliněné nádoby a z prachu, který je na podlaze Příbytku, kněz vezme a dá do vody.
 
-[18] Kněz postaví ženu před Yahweh, rozpustí vlasy na hlavě ženy a dá jí do rukou moučnou oběť připomínky, což je moučná oběť žárlivosti; a v ruce kněze bude voda hořkosti, která přináší kletbu.
+[18] Kněz postaví ženu před ⟦yhwh|Jahvem|Hospodinem⟧, rozpustí vlasy na hlavě ženy a dá jí do rukou moučnou oběť připomínky, což je moučná oběť žárlivosti; a v ruce kněze bude voda hořkosti, která přináší kletbu.
 
 [19] Kněz ji zaváže přísahou a řekne ženě: „Jestliže s tebou žádný muž neulehl a jestliže jsi nesešla z cesty do nečistoty, když jsi byla pod mocí svého muže, buď prosta této vody hořkosti, která přináší kletbu.
 
 [20] Jestliže jsi však sešla z cesty, když jsi byla pod mocí svého muže, a poskvrnila ses a jiný muž než tvůj manžel s tebou ulehl“ –
 
-[21] pak kněz nechá ženu vyslovit přísahu kletby a kněz řekne ženě: „Ať tě Yahweh učiní kletbou a přísahou mezi tvým lidem tím, že Yahweh nechá tvé stehno odpadnout a tvé břicho otéci;
+[21] pak kněz nechá ženu vyslovit přísahu kletby a kněz řekne ženě: „Ať tě ⟦yhwh|Jahve|Hospodin⟧ učiní kletbou a přísahou mezi tvým lidem tím, že ⟦yhwh|Jahve|Hospodin⟧ nechá tvé stehno odpadnout a tvé břicho otéci;
 
 [22] a ať tato voda, která přináší kletbu, vnikne do tvých útrob, aby ti břicho oteklo a stehno odpadlo.“ A žena řekne: „Amen. Amen.“
 
@@ -48,7 +48,7 @@
 
 [24] Dá ženě vypít vodu hořkosti, která přináší kletbu, a voda, která přináší kletbu, do ní vnikne a způsobí hořkost.
 
-[25] Kněz vezme z ruky ženy moučnou oběť žárlivosti, bude moučnou oběť pozdvihovat před Yahweh a přinese ji k oltáři.
+[25] Kněz vezme z ruky ženy moučnou oběť žárlivosti, bude moučnou oběť pozdvihovat před ⟦yhwh|Jahvem|Hospodinem⟧ a přinese ji k oltáři.
 
 [26] Kněz vezme z moučné oběti hrst jako její připomínkový podíl a obrátí ho v dým na oltáři; potom dá ženě vypít vodu.
 
@@ -58,7 +58,7 @@
 
 [29] To je zákon o žárlivosti, když žena, jsouc pod mocí svého muže, sejde z cesty a poskvrní se,
 
-[30] nebo když na muže přijde duch žárlivosti a on žárlí na svou ženu; tehdy postaví ženu před Yahweh a kněz na ni použije celý tento zákon.
+[30] nebo když na muže přijde duch žárlivosti a on žárlí na svou ženu; tehdy postaví ženu před ⟦yhwh|Jahvem|Hospodinem⟧ a kněz na ni použije celý tento zákon.
 
 [31] Muž bude prost viny, ale ta žena ponese svou vinu.‘“
 

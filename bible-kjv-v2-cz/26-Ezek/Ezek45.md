@@ -1,22 +1,22 @@
 # Ezechiel 45
 
-[1] „Až budete přidělovat zemi jako dědictví, oddělíte pro Yahweh díl země jako svatý okrsek, 25 000 loktů dlouhý a 10 000 loktů široký. Bude svatý v celém svém rozsahu.
+[1] „Až budete přidělovat zemi jako dědictví, oddělíte pro ⟦yhwh|Jahveho|Hospodina⟧ díl země jako svatý okrsek, 25 000 loktů dlouhý a 10 000 loktů široký. Bude svatý v celém svém rozsahu.
 
 [2] Z toho bude pro svatyni čtvercový pozemek 500 na 500 loktů s padesáti lokty volného prostranství kolem něj.
 
 [3] Z tohoto odměřeného okrsku odměříte úsek 25 000 loktů dlouhý a 10 000 široký, v němž bude svatyně, Svatyně svatých.
 
-[4] Bude to svatý díl země. Bude pro kněze, kteří slouží ve svatyni a přistupují k Yahweh, aby mu sloužili, a bude to místo pro jejich domy a svaté místo pro svatyni.
+[4] Bude to svatý díl země. Bude pro kněze, kteří slouží ve svatyni a přistupují k ⟦yhwh|Jahvovi|Hospodinu⟧, aby mu sloužili, a bude to místo pro jejich domy a svaté místo pro svatyni.
 
-[5] Další úsek, 25 000 loktů dlouhý a 10 000 loktů široký, bude pro Levity, kteří slouží v chrámu, jako jejich vlastnictví pro města k bydlení.
+[5] Další úsek, 25 000 loktů dlouhý a 10 000 loktů široký, bude pro ⟦levites|Levijim|lévijce⟧, kteří slouží v chrámu, jako jejich vlastnictví pro města k bydlení.
 
-[6] „Vedle dílu odděleného jako svatý okrsek vyměříte jako majetek města území 5 000 loktů široké a 25 000 loktů dlouhé. Bude patřit celému domu Israele.
+[6] „Vedle dílu odděleného jako svatý okrsek vyměříte jako majetek města území 5 000 loktů široké a 25 000 loktů dlouhé. Bude patřit celému domu ⟦israel|Jisraele|Izraele⟧.
 
 [7] „Knížeti bude patřit země po obou stranách svatého okrsku a majetku města, podél svatého okrsku a majetku města, na západě i na východě, délkou odpovídající jednomu z kmenových dílů a sahající od západní k východní hranici
 
-[8] země. To bude jeho majetek v Israeli. A moji knížata už nebudou utiskovat můj lid, ale přenechají zemi domu Israele podle jejich kmenů.
+[8] země. To bude jeho majetek v ⟦israel|Jisraeli|Izraeli⟧. A moji knížata už nebudou utiskovat můj lid, ale přenechají zemi domu ⟦israel|Jisraele|Izraele⟧ podle jejich kmenů.
 
-[9] „Tak praví Pán Yahweh: Dost, knížata Israele! Odstraňte násilí a útisk a konejte právo a spravedlnost. Přestaňte vyhánět můj lid z jeho majetku, je výrok Pána Yahweh.
+[9] „Tak praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Dost, knížata ⟦israel|Jisraele|Izraele⟧! Odstraňte násilí a útisk a konejte právo a spravedlnost. Přestaňte vyhánět můj lid z jeho majetku, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.
 
 [10] „Budete mít správné váhy, správnou éfu a správný bat.
 
@@ -28,23 +28,23 @@
 
 [14] a jako stanovený podíl oleje, měřeného batem, desetinu batu z každého kóru (kór, stejně jako chomer, obsahuje deset batů).
 
-[15] A jednu ovci z každého stáda o dvou stech z napajedel Israele pro obětní dar z obilí, zápalnou oběť a pokojné oběti, k vykonání smírčího obřadu za ně, je výrok Pána Yahweh.
+[15] A jednu ovci z každého stáda o dvou stech z napajedel ⟦israel|Jisraele|Izraele⟧ pro obětní dar z obilí, zápalnou oběť a pokojné oběti, k vykonání smírčího obřadu za ně, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.
 
-[16] Všechen lid země bude povinen odvádět tuto dávku knížeti v Israeli.
+[16] Všechen lid země bude povinen odvádět tuto dávku knížeti v ⟦israel|Jisraeli|Izraeli⟧.
 
-[17] Povinností knížete bude opatřovat zápalné oběti, obětní dary z obilí a úlitby o svátcích, novoluních a sabatech, o všech určených svátcích domu Israele: opatří oběti za hřích, obětní dary z obilí, zápalné oběti a pokojné oběti k vykonání smírčího obřadu za dům Israele.
+[17] Povinností knížete bude opatřovat zápalné oběti, obětní dary z obilí a úlitby o svátcích, novoluních a ⟦shabbat|šabatech|sobotách⟧, o všech určených svátcích domu ⟦israel|Jisraele|Izraele⟧: opatří oběti za hřích, obětní dary z obilí, zápalné oběti a pokojné oběti k vykonání smírčího obřadu za dům ⟦israel|Jisraele|Izraele⟧.
 
-[18] „Tak praví Pán Yahweh: V prvním měsíci, prvního dne toho měsíce, vezmeš býčka ze skotu bez vady a očistíš svatyni.
+[18] „Tak praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: V prvním měsíci, prvního dne toho měsíce, vezmeš býčka ze skotu bez vady a očistíš svatyni.
 
 [19] Kněz vezme z krve oběti za hřích a dá ji na veřeje chrámu, na čtyři rohy oltářní římsy a na veřeje brány vnitřního nádvoří.
 
 [20] Totéž učiníš sedmého dne toho měsíce za každého, kdo zhřešil omylem nebo z nevědomosti; tak vykonáte smírčí obřad za chrám.
 
-[21] „V prvním měsíci, čtrnáctého dne toho měsíce, budete slavit Paschu a po sedm dní se budou jíst nekvašené chleby.
+[21] „V prvním měsíci, čtrnáctého dne toho měsíce, budete slavit ⟦pesach|Pesach|velikonoce⟧ a po sedm dní se budou jíst nekvašené chleby.
 
 [22] V ten den kníže opatří za sebe a za všechen lid země mladého býčka jako oběť za hřích.
 
-[23] Po sedm dní svátku opatří jako zápalnou oběť pro Yahweh sedm mladých býčků a sedm beranů bez vady na každý ze sedmi dní; a denně kozla jako oběť za hřích.
+[23] Po sedm dní svátku opatří jako zápalnou oběť pro ⟦yhwh|Jahveho|Hospodina⟧ sedm mladých býčků a sedm beranů bez vady na každý ze sedmi dní; a denně kozla jako oběť za hřích.
 
 [24] Jako obětní dar z obilí opatří éfu na každého býčka, éfu na každého berana a hín oleje na každou éfu.
 

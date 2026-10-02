@@ -26,23 +26,23 @@ a time for war, and a time for peace.
 
 [9] What gain has the worker from his toil?
 
-[10] I have seen the business that *Elohim* has given to the children of man to be busy with.
+[10] I have seen the business that ⟦elohim|Elohim|God⟧ has given to the children of man to be busy with.
 
-[11] He has made everything beautiful in its time. Also, he has put eternity into man's heart, yet so that he cannot find out what *Elohim* has done from the beginning to the end.
+[11] He has made everything beautiful in its time. Also, he has put eternity into man's heart, yet so that he cannot find out what ⟦elohim|Elohim|God⟧ has done from the beginning to the end.
 
 [12] I perceived that there is nothing better for them than to be joyful and to do good as long as they live;
 
-[13] also that everyone should eat and drink and take pleasure in all his toil — this is the gift of *Elohim*.
+[13] also that everyone should eat and drink and take pleasure in all his toil — this is the gift of ⟦elohim|Elohim|God⟧.
 
-[14] I perceived that whatever *Elohim* does endures forever; nothing can be added to it, nor anything taken from it. *Elohim* has done it, so that people fear before him.
+[14] I perceived that whatever ⟦elohim|Elohim|God⟧ does endures forever; nothing can be added to it, nor anything taken from it. ⟦elohim|Elohim|God⟧ has done it, so that people fear before him.
 
-[15] That which is, already has been; that which is to be, already has been; and *Elohim* seeks what has been driven away.
+[15] That which is, already has been; that which is to be, already has been; and ⟦elohim|Elohim|God⟧ seeks what has been driven away.
 
 [16] Moreover, I saw under the sun that in the place of justice, even there was wickedness, and in the place of righteousness, even there was wickedness.
 
-[17] I said in my heart, *Elohim* will judge the righteous and the wicked, for there is a time for every matter and for every work.
+[17] I said in my heart, ⟦elohim|Elohim|God⟧ will judge the righteous and the wicked, for there is a time for every matter and for every work.
 
-[18] I said in my heart with regard to the children of man that *Elohim* is testing them that they may see that they themselves are but beasts.
+[18] I said in my heart with regard to the children of man that ⟦elohim|Elohim|God⟧ is testing them that they may see that they themselves are but beasts.
 
 [19] For what happens to the children of man and what happens to the beasts is the same; as one dies, so dies the other. They all have the same spirit, and man has no advantage over the beasts, for all is vanity.
 

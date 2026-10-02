@@ -1,62 +1,62 @@
 # Galatským 3
 
-[1] Ó nerozumní Galaťané! Kdo vás očaroval? Vždyť před vašima očima byl *Yeshua Mashiach* veřejně vykreslen jako ukřižovaný.
+[1] Ó nerozumní Galaťané! Kdo vás očaroval? Vždyť před vašima očima byl ⟦yeshua|Ješua|Ježíš⟧ ⟦mashiach|Mašiach|Kristus⟧ veřejně vykreslen jako ukřižovaný.
 
-[2] Jen na tohle se vás chci zeptat: Přijali jste Ducha ze skutků Torah, nebo ze slyšení s vírou?
+[2] Jen na tohle se vás chci zeptat: Přijali jste Ducha ze skutků ⟦torah|Tóry|zákona⟧, nebo ze slyšení s vírou?
 
 [3] Tak nerozumní jste? Začali jste Duchem, a nyní dokonáváte tělem?
 
 [4] Tolik jste vytrpěli nadarmo – jestli to ovšem bylo nadarmo?
 
-[5] Ten, který vám dává Ducha a působí mezi vámi zázraky, činí to ze skutků Torah, nebo ze slyšení s vírou –
+[5] Ten, který vám dává Ducha a působí mezi vámi zázraky, činí to ze skutků ⟦torah|Tóry|zákona⟧, nebo ze slyšení s vírou –
 
-[6] tak jako Abraham „**uvěřil *Elohim*, a bylo mu to připočteno za spravedlnost**“?
+[6] tak jako ⟦abraham|Avraham|Abraham⟧ „**uvěřil ⟦elohim|Elohim|Bohu⟧, a bylo mu to připočteno za spravedlnost**“?
 
-[7] Vězte tedy, že syny Abrahama jsou ti, kdo jsou z víry.
+[7] Vězte tedy, že syny ⟦abraham|Avrahama|Abrahama⟧ jsou ti, kdo jsou z víry.
 
-[8] A Písmo, které předvídalo, že *Elohim* bude ospravedlňovat pohany z víry, předem zvěstovalo Abrahamovi evangelium: „**V tobě budou požehnány všechny národy**.“
+[8] A Písmo, které předvídalo, že ⟦elohim|Elohim|Bůh⟧ bude ospravedlňovat pohany z víry, předem zvěstovalo ⟦abraham|Avrahamovi|Abrahamovi⟧ evangelium: „**V tobě budou požehnány všechny národy**.“
 
-[9] Proto ti, kdo jsou z víry, jsou požehnáni spolu s Abrahamem, mužem víry.
+[9] Proto ti, kdo jsou z víry, jsou požehnáni spolu s ⟦abraham|Avrahamem|Abrahamem⟧, mužem víry.
 
-[10] Všichni, kdo spoléhají na skutky Torah, jsou totiž pod kletbou; neboť je napsáno: „**Proklet buď každý, kdo nezůstává ve všem, co je napsáno v Knize Torah, a nečiní to**.“
+[10] Všichni, kdo spoléhají na skutky ⟦torah|Tóry|zákona⟧, jsou totiž pod kletbou; neboť je napsáno: „**Proklet buď každý, kdo nezůstává ve všem, co je napsáno v Knize ⟦torah|Tóry|zákona⟧, a nečiní to**.“
 
-[11] Je pak zřejmé, že nikdo není před *Elohim* ospravedlněn skrze Torah, neboť „**Spravedlivý bude žít z víry**.“
+[11] Je pak zřejmé, že nikdo není před ⟦elohim|Elohim|Bohem⟧ ospravedlněn skrze ⟦torah|Tóru|zákon⟧, neboť „**Spravedlivý bude žít z víry**.“
 
-[12] Torah však není z víry, nýbrž „**Kdo je činí, bude jimi žít**.“
+[12] ⟦torah|Tóra|Zákon⟧ však není z víry, nýbrž „**Kdo je činí, bude jimi žít**.“
 
-[13] *Mashiach* nás vykoupil z kletby Torah tím, že se za nás stal kletbou – neboť je napsáno: „**Proklet je každý, kdo visí na dřevě**“ –
+[13] ⟦mashiach|Mašiach|Kristus⟧ nás vykoupil z kletby ⟦torah|Tóry|zákona⟧ tím, že se za nás stal kletbou – neboť je napsáno: „**Proklet je každý, kdo visí na dřevě**“ –
 
-[14] aby v *Mashiachovi* *Yeshuovi* přišlo Abrahamovo požehnání k pohanům, abychom skrze víru přijali zaslíbeného Ducha.
+[14] aby v ⟦mashiach|Mašiachovi|Kristu⟧ ⟦yeshua|Ješuovi|Ježíši⟧ přišlo ⟦abraham|Avrahamovo|Abrahamovo⟧ požehnání k pohanům, abychom skrze víru přijali zaslíbeného Ducha.
 
 [15] Bratři, uvedu příklad z lidského života: ani lidskou smlouvu, jakmile byla stvrzena, nikdo neruší ani k ní nic nepřidává.
 
-[16] Zaslíbení pak byla dána Abrahamovi a jeho potomstvu. Neříká se: „A potomstvům“, jako o mnohých, nýbrž jako o jednom: „**A tvému potomstvu**“, a tím je *Mashiach*.
+[16] Zaslíbení pak byla dána ⟦abraham|Avrahamovi|Abrahamovi⟧ a jeho potomstvu. Neříká se: „A potomstvům“, jako o mnohých, nýbrž jako o jednom: „**A tvému potomstvu**“, a tím je ⟦mashiach|Mašiach|Kristus⟧.
 
-[17] Chci tím říci: Torah, která přišla o 430 let později, neruší smlouvu dříve stvrzenou od *Elohim*, takže by zaslíbení pozbylo platnosti.
+[17] Chci tím říci: ⟦torah|Tóra, která přišla|zákon, který přišel⟧ o 430 let později, neruší smlouvu dříve stvrzenou od ⟦elohim|Elohim|Boha⟧, takže by zaslíbení pozbylo platnosti.
 
-[18] Kdyby totiž dědictví bylo z Torah, už by nebylo ze zaslíbení; *Elohim* je však Abrahamovi daroval skrze zaslíbení.
+[18] Kdyby totiž dědictví bylo z ⟦torah|Tóry|zákona⟧, už by nebylo ze zaslíbení; ⟦elohim|Elohim|Bůh⟧ je však ⟦abraham|Avrahamovi|Abrahamovi⟧ daroval skrze zaslíbení.
 
-[19] K čemu tedy Torah? Byla přidána kvůli přestupkům, dokud nepřijde potomek, jemuž bylo dáno zaslíbení, a byla ustanovena skrze anděly rukou prostředníka.
+[19] K čemu tedy ⟦torah|Tóra? Byla přidána kvůli přestupkům, dokud nepřijde potomek, jemuž bylo dáno zaslíbení, a byla ustanovena|zákon? Byl přidán kvůli přestupkům, dokud nepřijde potomek, jemuž bylo dáno zaslíbení, a byl ustanoven⟧ skrze anděly rukou prostředníka.
 
-[20] Prostředník však předpokládá víc než jednoho, *Elohim* je však jeden.
+[20] Prostředník však předpokládá víc než jednoho, ⟦elohim|Elohim|Bůh⟧ je však jeden.
 
-[21] Je tedy Torah proti zaslíbením *Elohim*? V žádném případě! Kdyby totiž byl dán zákon, který by mohl dát život, pak by spravedlnost opravdu byla z Torah.
+[21] Je tedy ⟦torah|Tóra|zákon⟧ proti zaslíbením ⟦elohim|Elohim|Božím⟧? V žádném případě! Kdyby totiž byl dán zákon, který by mohl dát život, pak by spravedlnost opravdu byla z ⟦torah|Tóry|zákona⟧.
 
-[22] Písmo však všechno uzavřelo pod hřích, aby zaslíbení z víry v *Yeshuu Mashiacha* bylo dáno těm, kdo věří.
+[22] Písmo však všechno uzavřelo pod hřích, aby zaslíbení z víry v ⟦yeshua|Ješuu|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧ bylo dáno těm, kdo věří.
 
-[23] Než však přišla víra, byli jsme střeženi pod Torah, uzavřeni až do chvíle, kdy se měla zjevit přicházející víra.
+[23] Než však přišla víra, byli jsme střeženi pod ⟦torah|Tórou|zákonem⟧, uzavřeni až do chvíle, kdy se měla zjevit přicházející víra.
 
-[24] Torah tedy byla naším vychovatelem, dokud nepřišel *Mashiach*, abychom byli ospravedlněni z víry.
+[24] ⟦torah|Tóra tedy byla|Zákon tedy byl⟧ naším vychovatelem, dokud nepřišel ⟦mashiach|Mašiach|Kristus⟧, abychom byli ospravedlněni z víry.
 
 [25] Když však víra přišla, už nejsme pod vychovatelem,
 
-[26] neboť v *Mashiachovi* *Yeshuovi* jste všichni syny *Elohim*, skrze víru.
+[26] neboť v ⟦mashiach|Mašiachovi|Kristu⟧ ⟦yeshua|Ješuovi|Ježíši⟧ jste všichni syny ⟦elohim|Elohim|Božími⟧, skrze víru.
 
-[27] Všichni, kdo jste byli ponořeni do *Mashiacha*, jste oblékli *Mashiacha*.
+[27] Všichni, kdo jste byli ⟦immerse|ponořeni|pokřtěni⟧ do ⟦mashiach|Mašiacha|Krista⟧, jste oblékli ⟦mashiach|Mašiacha|Krista⟧.
 
-[28] **Není Žid ani Řek, není otrok ani svobodný, není muž a žena, neboť vy všichni jste jedno v *Mashiachovi* *Yeshuovi*.**
+[28] **Není ⟦jew|Jehudi|Žid⟧ ani ⟦greek|Jevani|Řek⟧, není otrok ani svobodný, není muž a žena, neboť vy všichni jste jedno v ⟦mashiach|Mašiachovi|Kristu⟧ ⟦yeshua|Ješuovi|Ježíši⟧.**
 
-[29] A jestliže patříte *Mashiachovi*, pak jste potomstvo Abrahamovo, dědicové podle zaslíbení.
+[29] A jestliže patříte ⟦mashiach|Mašiachovi|Kristu⟧, pak jste potomstvo ⟦abraham|Avrahamovo|Abrahamovo⟧, dědicové podle zaslíbení.
 
 ## Změny
 

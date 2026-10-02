@@ -1,6 +1,6 @@
 # Jób 20
 
-[1] Tu odpověděl Zophar Naamatský a řekl:
+[1] Tu odpověděl ⟦zophar|Cofar|Sófar⟧ ⟦naamathite|Naamati|Naamatský⟧ a řekl:
 
 [2] „Proto mi odpovídají mé neklidné myšlenky,
 kvůli vnitřnímu rozrušení.
@@ -42,7 +42,7 @@ a stále je drží v ústech,
 je v něm jedem kober.
 
 [15] Hltá bohatství a zase je vyvrhuje;
-*Elohim* mu je vyžene z břicha.
+⟦el|El|Bůh⟧ mu je vyžene z břicha.
 
 [16] Saje jed kober;
 zmijí zuby ho zabijí.
@@ -67,7 +67,7 @@ proto jeho blahobyt nevydrží.
 dolehne na něj všechna síla bídy.
 
 [23] Aby si naplnil břicho do syta,
-sešle na něj *Elohim* svůj planoucí hněv
+sešle na něj ⟦elohim|Elohim|Bůh⟧ svůj planoucí hněv
 a nechá ho na něj pršet jako jeho pokrm.
 
 [24] Bude prchat před železnou zbraní;
@@ -87,12 +87,13 @@ země povstane proti němu.
 [28] Majetek jeho domu bude odnesen,
 odvlečen v den jeho hněvu.
 
-[29] To je podíl svévolného člověka od *Elohim*,
-dědictví, které mu *Elohim* vyměřil.“
+[29] To je podíl svévolného člověka od ⟦elohim|Elohim|Boha⟧,
+dědictví, které mu ⟦el|El|Bůh⟧ vyměřil.“
 
 ## Změny
 
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
+- **"God" → „El“** (v15, 29) – hebrejsky אֵל *El*, ne *Elohim*.
 - **"hypocrite" → „bezbožného“** (v5) – *chanef*.
 - **"asps" → „kobry“** (v14, 16) – *petanim*.
 - **"bow of steel" → „bronzový šíp“** (v24) – *qeshet nechushah*; bronzový luk (ocel v době vzniku neznámá).

@@ -1,20 +1,20 @@
 # Leviticus 25
 
-[1] Yahweh spoke to Moses on Mount Sinai, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧ on Mount Sinai, saying,
 
-[2] "Speak to the children of Israel and say to them: 'When you come into the land which I give you, then the land shall keep a sabbath to Yahweh.
+[2] "Speak to the children of ⟦israel|Yisrael|Israel⟧ and say to them: 'When you come into the land which I give you, then the land shall keep a ⟦shabbat|Shabbat|Sabbath⟧ to ⟦yhwh|Yahweh|the LORD⟧.
 
 [3] Six years you shall sow your field, and six years you shall prune your vineyard and gather its produce;
 
-[4] but in the seventh year there shall be a sabbath of solemn rest for the land, a sabbath to Yahweh. You shall not sow your field or prune your vineyard.
+[4] but in the seventh year there shall be a ⟦shabbat|Shabbat|Sabbath⟧ of solemn rest for the land, a ⟦shabbat|Shabbat|Sabbath⟧ to ⟦yhwh|Yahweh|the LORD⟧. You shall not sow your field or prune your vineyard.
 
 [5] What grows of itself from your harvest you shall not reap, and the grapes of your untended vine you shall not gather; it shall be a year of solemn rest for the land.
 
-[6] The sabbath of the land shall be food for you, for your male and female slaves, for your hired worker, and for the foreigner who sojourns with you;
+[6] The ⟦shabbat|Shabbat|Sabbath⟧ of the land shall be food for you, for your male and female slaves, for your hired worker, and for the foreigner who sojourns with you;
 
 [7] for your cattle and for the wild animals in your land — all its produce shall be food.
 
-[8] You shall count for yourself seven sabbaths of years, seven times seven years, and the period of the seven sabbaths of years shall be forty-nine years for you.
+[8] You shall count for yourself seven ⟦shabbat|Shabbatot|Sabbaths⟧ of years, seven times seven years, and the period of the seven ⟦shabbat|Shabbatot|Sabbaths⟧ of years shall be forty-nine years for you.
 
 [9] Then you shall sound the ram's horn blast on the tenth day of the seventh month; on the Day of Atonement you shall sound the horn throughout all your land.
 
@@ -32,7 +32,7 @@
 
 [16] The more years remaining, the higher the price; and the fewer years remaining, the lower the price; for what he is selling you is a number of harvests.
 
-[17] You shall not oppress one another, but you shall fear your *Elohim*; for I am Yahweh your *Elohim*.
+[17] You shall not oppress one another, but you shall fear your ⟦elohim|Elohim|God⟧; for I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
 [18] You shall do my statutes, keep my ordinances, and perform them; and you shall dwell in the land in safety.
 
@@ -62,19 +62,19 @@
 
 [31] But the houses of villages that have no wall around them shall be counted as the open fields; they may be redeemed, and they shall be released in the jubilee.
 
-[32] As for the cities of the Levites and the houses in the cities of their possession — the Levites shall have a perpetual right of redemption.
+[32] As for the cities of the ⟦levites|Leviyim|Levites⟧ and the houses in the cities of their possession — the ⟦levites|Leviyim|Levites⟧ shall have a perpetual right of redemption.
 
-[33] If one of the Levites does not redeem, then the house that was sold in a city of his possession shall be released in the year of jubilee; for the houses of the cities of the Levites are their possession among the children of Israel.
+[33] If one of the ⟦levites|Leviyim|Levites⟧ does not redeem, then the house that was sold in a city of his possession shall be released in the year of jubilee; for the houses of the cities of the ⟦levites|Leviyim|Levites⟧ are their possession among the children of ⟦israel|Yisrael|Israel⟧.
 
 [34] But the pasture fields of their cities shall not be sold, for they are their perpetual possession.
 
 [35] If your brother becomes poor and cannot support himself with you, then you shall uphold him, as a foreigner and sojourner; he shall live with you.
 
-[36] Take no interest or profit from him, but fear your *Elohim*, that your brother may live with you.
+[36] Take no interest or profit from him, but fear your ⟦elohim|Elohim|God⟧, that your brother may live with you.
 
 [37] You shall not lend him your money at interest, nor give him your food for profit.
 
-[38] I am Yahweh your *Elohim* who brought you out of the land of Egypt to give you the land of Canaan, to be your *Elohim*.
+[38] I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ who brought you out of the land of ⟦egypt|Mitzrayim|Egypt⟧ to give you the land of ⟦canaan|Kenaan|Canaan⟧, to be your ⟦elohim|Elohim|God⟧.
 
 [39] If your brother with you becomes poor and sells himself to you, you shall not make him serve as a slave.
 
@@ -82,15 +82,15 @@
 
 [41] Then he shall depart from you — he and his children with him — and return to his own family, and to the possession of his ancestors he shall return.
 
-[42] For they are my servants, whom I brought out of the land of Egypt; they shall not be sold as slaves are sold.
+[42] For they are my servants, whom I brought out of the land of ⟦egypt|Mitzrayim|Egypt⟧; they shall not be sold as slaves are sold.
 
-[43] You shall not rule over him with harshness, but shall fear your *Elohim*.
+[43] You shall not rule over him with harshness, but shall fear your ⟦elohim|Elohim|God⟧.
 
 [44] As for your male and female slaves whom you may have — from the nations around you, from them you may buy male and female slaves.
 
 [45] Moreover, from among the children of the sojourners who dwell with you, and from their clans that are with you, whom they have fathered in your land, from these you may buy; and they shall be your possession.
 
-[46] You shall leave them as an inheritance to your children after you, to inherit them as a possession; from them you may take your slaves permanently. But as for your brothers, the children of Israel, no one shall rule over another with harshness.
+[46] You shall leave them as an inheritance to your children after you, to inherit them as a possession; from them you may take your slaves permanently. But as for your brothers, the children of ⟦israel|Yisrael|Israel⟧, no one shall rule over another with harshness.
 
 [47] If a sojourner or foreigner with you prospers, and your brother with him becomes poor, and sells himself to the sojourner or foreigner with you, or to a member of the sojourner's clan,
 
@@ -108,7 +108,7 @@
 
 [54] If he is not redeemed by these means, then he shall be released in the year of jubilee, he and his children with him.
 
-[55] For the children of Israel are servants to me; they are my servants, whom I brought out of the land of Egypt. I am Yahweh your *Elohim*.'"
+[55] For the children of ⟦israel|Yisrael|Israel⟧ are servants to me; they are my servants, whom I brought out of the land of ⟦egypt|Mitzrayim|Egypt⟧. I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.'"
 
 ## Changes
 

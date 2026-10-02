@@ -1,23 +1,23 @@
 # Jeremjáš 15
 
-[1] Tu mi Yahweh řekl: „I kdyby přede mnou stál Moses a Samuel, mé srdce by se k tomuto lidu nenaklonilo. Pošli je pryč od mé tváře, ať odejdou!
+[1] Tu mi ⟦yhwh|Jahve|Hospodin⟧ řekl: „I kdyby přede mnou stál ⟦moses|Moše|Mojžíš⟧ a ⟦samuel|Šmuel|Samuel⟧, mé srdce by se k tomuto lidu nenaklonilo. Pošli je pryč od mé tváře, ať odejdou!
 
-[2] A až se tě zeptají: ‚Kam máme jít?‘, řekneš jim: ‚Toto praví Yahweh:
+[2] A až se tě zeptají: ‚Kam máme jít?‘, řekneš jim: ‚Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
 „‚Kdo je určen moru, k moru,
 a kdo je určen meči, k meči;
 kdo je určen hladu, k hladu,
 a kdo je určen zajetí, do zajetí.‘“
 
-[3] „Ustanovím nad nimi čtyři druhy ničitelů, je výrok Yahweh: meč, aby zabíjel, psy, aby vláčeli, a ptáky nebes a zvěř země, aby žrali a hubili.
+[3] „Ustanovím nad nimi čtyři druhy ničitelů, je výrok ⟦yhwh|Jahveho|Hospodina⟧: meč, aby zabíjel, psy, aby vláčeli, a ptáky nebes a zvěř země, aby žrali a hubili.
 
-[4] A učiním je hrůzou pro všechna království země kvůli tomu, co v Jerusalemě učinil Manasseh, syn Hezekiaha, král Judah.
+[4] A učiním je hrůzou pro všechna království země kvůli tomu, co v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧ učinil ⟦manasseh|Menaše|Manases⟧, syn ⟦hezekiah|Chizkijahua|Chizkijáše⟧, král ⟦judah|Jehudy|Judy⟧.
 
-[5] Kdo se nad tebou slituje, Jerusaleme,
+[5] Kdo se nad tebou slituje, ⟦jerusalem|Jerušalajim|Jeruzaléme⟧,
 nebo kdo s tebou bude soucítit?
 Kdo se zastaví, aby se zeptal, jak se ti daří?
 
-[6] Zavrhl jsi mě, je výrok Yahweh;
+[6] Zavrhl jsi mě, je výrok ⟦yhwh|Jahveho|Hospodina⟧;
 stále couváš zpět,
 proto jsem vztáhl ruku proti tobě a zničil tě –
 jsem unaven ustupováním.
@@ -39,14 +39,14 @@ omdlela;
 její slunce zapadlo, když byl ještě den;
 je zahanbena a potupena.
 A ostatek z nich vydám meči
-před jejich nepřáteli, je výrok Yahweh.“
+před jejich nepřáteli, je výrok ⟦yhwh|Jahveho|Hospodina⟧.“
 
 [10] Běda mi, má matko, že jsi mě porodila,
 muže sváru a rozepří pro celou zemi!
 Nepůjčoval jsem ani jsem si nevypůjčil,
 a přece mě všichni proklínají.
 
-[11] Yahweh řekl: „Což jsem tě nevysvobodil k tvému dobru? Což jsem se za tebe nepřimlouval u nepřítele v čase soužení a v čase tísně?
+[11] ⟦yhwh|Jahve|Hospodin⟧ řekl: „Což jsem tě nevysvobodil k tvému dobru? Což jsem se za tebe nepřimlouval u nepřítele v čase soužení a v čase tísně?
 
 [12] Může někdo zlomit železo, železo ze severu, a bronz?
 
@@ -54,7 +54,7 @@ a přece mě všichni proklínají.
 
 [14] Dám tě sloužit tvým nepřátelům v zemi, kterou neznáš, neboť v mém hněvu se vznítil oheň, který bude hořet navěky.“
 
-[15] Yahweh, ty víš;
+[15] ⟦yhwh|Jahve|Hospodine⟧, ty víš;
 pamatuj na mě a navštiv mě
 a pomsti mě na mých pronásledovatelích.
 Ve své shovívavosti mě neodnímej;
@@ -64,7 +64,7 @@ věz, že kvůli tobě snáším potupu.
 a tvá slova se mi stala radostí
 a rozkoší mého srdce,
 neboť jsem nazýván tvým jménem,
-Yahweh, *Elohim* zástupů.
+⟦yhwh|Jahve|Hospodine⟧, ⟦elohim|Elohim|Bože⟧ zástupů.
 
 [17] Nesedal jsem ve společnosti hodovníků ani jsem se neveselil;
 sedal jsem sám, protože tvá ruka byla na mně,
@@ -75,7 +75,7 @@ a má rána nevyléčitelná, odmítá se zhojit?
 Budeš mi jako klamný potok,
 jako vody, které vysychají?
 
-[19] Proto toto praví Yahweh:
+[19] Proto toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
 „Jestliže se vrátíš, obnovím tě
 a budeš stát přede mnou.
@@ -89,7 +89,7 @@ opevněnou bronzovou hradbou;
 budou proti tobě bojovat,
 ale nepřemohou tě,
 neboť já jsem s tebou,
-abych tě zachránil a vysvobodil, je výrok Yahweh.
+abych tě zachránil a vysvobodil, je výrok ⟦yhwh|Jahveho|Hospodina⟧.
 
 [21] Vysvobodím tě z ruky svévolníků
 a vykoupím tě ze sevření násilníků.“

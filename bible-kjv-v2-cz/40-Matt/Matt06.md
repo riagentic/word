@@ -53,7 +53,7 @@ ale vysvoboď nás od toho zlého.
 
 [23] ale je-li tvé oko špatné, celé tvé tělo bude plné tmy. Je-li tedy světlo, které je v tobě, tmou, jak veliká je ta tma!
 
-[24] Nikdo nemůže sloužit dvěma pánům, neboť buď jednoho bude nenávidět a druhého milovat, anebo se jednoho bude držet a druhým pohrdne. Nemůžete sloužit *Elohim* i penězům.
+[24] Nikdo nemůže sloužit dvěma pánům, neboť buď jednoho bude nenávidět a druhého milovat, anebo se jednoho bude držet a druhým pohrdne. Nemůžete sloužit ⟦elohim|Elohim|Bohu⟧ i penězům.
 
 [25] Proto vám pravím: Nestarejte se úzkostlivě o svůj život, co budete jíst nebo co budete pít, ani o své tělo, co si oblečete. Není snad život víc než pokrm a tělo víc než oděv?
 
@@ -63,15 +63,15 @@ ale vysvoboď nás od toho zlého.
 
 [28] A proč se úzkostlivě staráte o oděv? Pozorujte polní lilie, jak rostou: nepracují ani nepředou,
 
-[29] a pravím vám, že ani Solomon v celé své slávě nebyl oděn jako jedna z nich.
+[29] a pravím vám, že ani ⟦solomon|Šlomo|Šalomoun⟧ v celé své slávě nebyl oděn jako jedna z nich.
 
-[30] Jestliže však *Elohim* takto odívá polní trávu, která dnes je a zítra je hozena do pece, neodějí mnohem spíše vás, vy malověrní?
+[30] Jestliže však ⟦elohim|Elohim|Bůh⟧ takto odívá polní trávu, která dnes je a zítra je hozena do pece, neodějí mnohem spíše vás, vy malověrní?
 
 [31] Nestarejte se tedy úzkostlivě a neříkejte: ‚Co budeme jíst?‘ nebo ‚Co budeme pít?‘ nebo ‚Co si oblečeme?‘
 
 [32] Po tom všem se totiž shánějí pohané, a váš nebeský Otec ví, že to všechno potřebujete.
 
-[33] **Hledejte však nejprve království *Elohim* a jeho spravedlnost, a to všechno vám bude přidáno.**
+[33] **Hledejte však nejprve království ⟦elohim|Elohim|Boží⟧ a jeho spravedlnost, a to všechno vám bude přidáno.**
 
 [34] Nestarejte se tedy úzkostlivě o zítřek, neboť zítřek se bude starat sám o sebe. Každý den má dost svého trápení.“
 

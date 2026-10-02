@@ -1,26 +1,26 @@
 # Job 2
 
-[1] There was again a day when the sons of *Elohim* came to present themselves before Yahweh, and the adversary came also among them to present himself before Yahweh.
+[1] There was again a day when the sons of ⟦elohim|Elohim|God⟧ came to present themselves before ⟦yhwh|Yahweh|the LORD⟧, and the adversary came also among them to present himself before ⟦yhwh|Yahweh|the LORD⟧.
 
-[2] Yahweh said to the adversary, "From where do you come?" the adversary answered Yahweh, "From roaming the earth and walking up and down on it."
+[2] ⟦yhwh|Yahweh|The LORD⟧ said to the adversary, "From where do you come?" the adversary answered ⟦yhwh|Yahweh|the LORD⟧, "From roaming the earth and walking up and down on it."
 
-[3] Yahweh said to the adversary, "Have you considered my servant Job? There is none like him on earth — a blameless and upright man, one who fears *Elohim* and turns away from evil. He still holds fast his integrity — though you incited me against him, to swallow him up without cause."
+[3] ⟦yhwh|Yahweh|The LORD⟧ said to the adversary, "Have you considered my servant ⟦job|Iyov|Job⟧? There is none like him on earth — a blameless and upright man, one who fears ⟦elohim|Elohim|God⟧ and turns away from evil. He still holds fast his integrity — though you incited me against him, to swallow him up without cause."
 
-[4] the adversary answered Yahweh, "Skin for skin! All that a man has he will give for his life.
+[4] the adversary answered ⟦yhwh|Yahweh|the LORD⟧, "Skin for skin! All that a man has he will give for his life.
 
 [5] But stretch out your hand now and touch his bone and his flesh, and he will surely curse you to your face."
 
-[6] Yahweh said to the adversary, "Behold, he is in your hand; only spare his life."
+[6] ⟦yhwh|Yahweh|The LORD⟧ said to the adversary, "Behold, he is in your hand; only spare his life."
 
-[7] So the adversary went out from the presence of Yahweh and struck Job with severe sores from the sole of his foot to the crown of his head.
+[7] So the adversary went out from the presence of ⟦yhwh|Yahweh|the LORD⟧ and struck ⟦job|Iyov|Job⟧ with severe sores from the sole of his foot to the crown of his head.
 
 [8] He took a potsherd with which to scrape himself, and he sat down among the ashes.
 
-[9] Then his wife said to him, "Do you still hold fast your integrity? Curse *Elohim*, and die."
+[9] Then his wife said to him, "Do you still hold fast your integrity? Curse ⟦elohim|Elohim|God⟧, and die."
 
-[10] But he said to her, "You speak as one of the foolish women speaks. Shall we accept the good from *Elohim* and not accept the evil?" In all this Job did not sin with his lips.
+[10] But he said to her, "You speak as one of the foolish women speaks. Shall we accept the good from ⟦elohim|Elohim|God⟧ and not accept the evil?" In all this ⟦job|Iyov|Job⟧ did not sin with his lips.
 
-[11] When Job's three friends heard of all this evil that had come upon him, each came from his own place: Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite; they had met together to come to console him and comfort him.
+[11] When ⟦job|Iyov|Job⟧'s three friends heard of all this evil that had come upon him, each came from his own place: ⟦eliphaz|Elifaz|Eliphaz⟧ the ⟦temanite|Temani|Temanite⟧, Bildad the ⟦shuhite|Shuchi|Shuhite⟧, and ⟦zophar|Tzofar|Zophar⟧ the ⟦naamathite|Naamati|Naamathite⟧; they had met together to come to console him and comfort him.
 
 [12] When they lifted up their eyes from a distance and did not recognize him, they raised their voices and wept; they tore their robes and sprinkled dust on their heads toward heaven.
 

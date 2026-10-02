@@ -4,51 +4,51 @@
 
 [2] The woman conceived and bore a son; and when she saw that he was a fine child, she hid him three months.
 
-[3] When she could hide him no longer, she took for him a basket of papyrus reeds, coated it with bitumen and pitch, put the child in it, and placed it among the reeds by the bank of the Nile.
+[3] When she could hide him no longer, she took for him a basket of papyrus reeds, coated it with bitumen and pitch, put the child in it, and placed it among the reeds by the bank of the ⟦nile|Yeor|Nile⟧.
 
 [4] His sister stationed herself at a distance to see what would be done to him.
 
-[5] The daughter of Pharaoh came down to bathe at the Nile, and her attendants walked along by the Nile. She saw the basket among the reeds and sent her maid to fetch it.
+[5] The daughter of ⟦pharaoh|Paroh|Pharaoh⟧ came down to bathe at the ⟦nile|Yeor|Nile⟧, and her attendants walked along by the ⟦nile|Yeor|Nile⟧. She saw the basket among the reeds and sent her maid to fetch it.
 
-[6] When she opened it, she saw the child — and behold, the boy was crying. She had compassion on him and said, "This is one of the Hebrews' children."
+[6] When she opened it, she saw the child — and behold, the boy was crying. She had compassion on him and said, "This is one of the ⟦hebrews|Ivrim|Hebrews⟧' children."
 
-[7] Then his sister said to Pharaoh's daughter, "Shall I go and call for you a nurse from the Hebrew women, who may nurse the child for you?"
+[7] Then his sister said to ⟦pharaoh|Paroh|Pharaoh⟧'s daughter, "Shall I go and call for you a nurse from the ⟦hebrew|Ivri|Hebrew⟧ women, who may nurse the child for you?"
 
-[8] Pharaoh's daughter said to her, "Go." So the young woman went and called the child's mother.
+[8] ⟦pharaoh|Paroh|Pharaoh⟧'s daughter said to her, "Go." So the young woman went and called the child's mother.
 
-[9] Pharaoh's daughter said to her, "Take this child and nurse him for me, and I will give you your wages." So the woman took the child and nursed him.
+[9] ⟦pharaoh|Paroh|Pharaoh⟧'s daughter said to her, "Take this child and nurse him for me, and I will give you your wages." So the woman took the child and nursed him.
 
-[10] When the child grew up, she brought him to Pharaoh's daughter, and he became her son. She called his name Moses, saying, "Because I drew him out of the water."
+[10] When the child grew up, she brought him to ⟦pharaoh|Paroh|Pharaoh⟧'s daughter, and he became her son. She called his name ⟦moses|Moshe|Moses⟧, saying, "Because I drew him out of the water."
 
-[11] In those days, when Moses had grown up, he went out to his brothers and looked on their forced labor. He saw an Egyptian beating a Hebrew, one of his brothers.
+[11] In those days, when ⟦moses|Moshe|Moses⟧ had grown up, he went out to his brothers and looked on their forced labor. He saw an ⟦egyptian|Mitzri|Egyptian⟧ beating a ⟦hebrew|Ivri|Hebrew⟧, one of his brothers.
 
-[12] He looked this way and that, and when he saw that there was no one, he struck down the Egyptian and hid him in the sand.
+[12] He looked this way and that, and when he saw that there was no one, he struck down the ⟦egyptian|Mitzri|Egyptian⟧ and hid him in the sand.
 
-[13] When he went out the second day, behold, two Hebrews were fighting each other. He said to the one in the wrong, "Why are you striking your fellow?"
+[13] When he went out the second day, behold, two ⟦hebrews|Ivrim|Hebrews⟧ were fighting each other. He said to the one in the wrong, "Why are you striking your fellow?"
 
-[14] He said, "Who made you a ruler and a judge over us? Are you thinking of killing me as you killed the Egyptian?" Then Moses was afraid and said, "Surely the matter is known."
+[14] He said, "Who made you a ruler and a judge over us? Are you thinking of killing me as you killed the ⟦egyptian|Mitzri|Egyptian⟧?" Then ⟦moses|Moshe|Moses⟧ was afraid and said, "Surely the matter is known."
 
-[15] When Pharaoh heard of the matter, he sought to kill Moses; but Moses fled from the face of Pharaoh and dwelt in the land of Midian. He sat down by a well.
+[15] When ⟦pharaoh|Paroh|Pharaoh⟧ heard of the matter, he sought to kill ⟦moses|Moshe|Moses⟧; but ⟦moses|Moshe|Moses⟧ fled from the face of ⟦pharaoh|Paroh|Pharaoh⟧ and dwelt in the land of ⟦midian|Midyan|Midian⟧. He sat down by a well.
 
-[16] Now the priest of Midian had seven daughters; they came, drew water, and filled the troughs to water their father's flock.
+[16] Now the priest of ⟦midian|Midyan|Midian⟧ had seven daughters; they came, drew water, and filled the troughs to water their father's flock.
 
-[17] But shepherds came and drove them away; so Moses stood up and saved them, and watered their flock.
+[17] But shepherds came and drove them away; so ⟦moses|Moshe|Moses⟧ stood up and saved them, and watered their flock.
 
 [18] When they came to Reuel their father, he said, "How is it that you have come back so soon today?"
 
-[19] They said, "An Egyptian delivered us from the hand of the shepherds, and also drew enough water for us and watered the flock."
+[19] They said, "An ⟦egyptian|Mitzri|Egyptian⟧ delivered us from the hand of the shepherds, and also drew enough water for us and watered the flock."
 
 [20] He said to his daughters, "Where is he? Why is it that you have left the man? Call him, that he may eat bread."
 
-[21] And Moses was willing to dwell with the man; and he gave his daughter Zipporah to Moses.
+[21] And ⟦moses|Moshe|Moses⟧ was willing to dwell with the man; and he gave his daughter ⟦zipporah|Tzipporah|Zipporah⟧ to ⟦moses|Moshe|Moses⟧.
 
 [22] She bore a son, and he called his name Gershom, for he said, "I have become a sojourner in a foreign land."
 
-[23] In the course of those many days, the king of Egypt died. The children of Israel groaned because of the forced labor, and they cried out; and their cry went up to *Elohim* because of the forced labor.
+[23] In the course of those many days, the king of ⟦egypt|Mitzrayim|Egypt⟧ died. The children of ⟦israel|Yisrael|Israel⟧ groaned because of the forced labor, and they cried out; and their cry went up to ⟦elohim|Elohim|God⟧ because of the forced labor.
 
-[24] *Elohim* heard their groaning, and *Elohim* remembered his covenant with Abraham, with Isaac, and with Jacob.
+[24] ⟦elohim|Elohim|God⟧ heard their groaning, and ⟦elohim|Elohim|God⟧ remembered his covenant with ⟦abraham|Avraham|Abraham⟧, with ⟦isaac|Yitzchaq|Isaac⟧, and with ⟦jacob|Yaaqov|Jacob⟧.
 
-[25] *Elohim* saw the children of Israel, and *Elohim* took notice.
+[25] ⟦elohim|Elohim|God⟧ saw the children of ⟦israel|Yisrael|Israel⟧, and ⟦elohim|Elohim|God⟧ took notice.
 
 ## Changes
 

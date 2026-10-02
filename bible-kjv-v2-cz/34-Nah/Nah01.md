@@ -1,21 +1,21 @@
 # Nahum 1
 
-[1] Výrok o Ninevehu. Kniha vidění Nahuma z Elkoshe.
+[1] Výrok o ⟦nineveh|Ninve|Ninive⟧. Kniha vidění ⟦nahum|Nachuma|Nahuma⟧ z ⟦elkosh|Elkoše|Elkóše⟧.
 
-[2] Yahweh je žárlivý a mstící *Elohim*;
-Yahweh se mstí a je plný hněvu;
-Yahweh se mstí na svých protivnících
+[2] ⟦yhwh|Jahve|Hospodin⟧ je žárlivý a mstící ⟦el|El|Bůh⟧;
+⟦yhwh|Jahve|Hospodin⟧ se mstí a je plný hněvu;
+⟦yhwh|Jahve|Hospodin⟧ se mstí na svých protivnících
 a chová hněv pro své nepřátele.
 
-[3] Yahweh je pomalý k hněvu a veliký v moci
-a Yahweh viníka nikterak neosvobodí.
+[3] ⟦yhwh|Jahve|Hospodin⟧ je pomalý k hněvu a veliký v moci
+a ⟦yhwh|Jahve|Hospodin⟧ viníka nikterak neosvobodí.
 Jeho cesta je ve vichřici a bouři
 a oblaka jsou prachem jeho nohou.
 
 [4] Okřikne moře a vysuší je;
 vysušuje všechny řeky;
-Bashan i Carmel vadnou;
-květ Lebanonu vadne.
+⟦bashan|Bašan|Bášan⟧ i Karmel vadnou;
+květ ⟦lebanon|Levanonu|Libanónu⟧ vadne.
 
 [5] Hory se před ním třesou;
 pahorky se rozplývají;
@@ -27,7 +27,7 @@ Kdo vydrží žár jeho hněvu?
 Jeho rozhořčení se vylévá jako oheň
 a skály se před ním tříští na kusy.
 
-[7] Yahweh je dobrý,
+[7] ⟦yhwh|Jahve|Hospodin⟧ je dobrý,
 pevnost v den soužení;
 zná ty, kdo se k němu utíkají.
 
@@ -35,7 +35,7 @@ zná ty, kdo se k němu utíkají.
 učiní úplný konec protivníkům
 a své nepřátele bude pronásledovat do tmy.
 
-[9] Co kujete proti Yahweh?
+[9] Co kujete proti ⟦yhwh|Jahvovi|Hospodinu⟧?
 On učiní úplný konec;
 soužení nepovstane podruhé.
 
@@ -44,10 +44,10 @@ jako opilci při pití;
 jsou stráveni jako docela vyschlé strniště.
 
 [11] Z tebe vyšel ten,
-kdo proti Yahweh vymýšlel zlo,
+kdo proti ⟦yhwh|Jahvovi|Hospodinu⟧ vymýšlel zlo,
 ničemný rádce.
 
-[12] Toto praví Yahweh:
+[12] Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
 „Ač jsou plni síly a je jich mnoho,
 budou posekáni a pominou.
@@ -57,7 +57,7 @@ už tě ponižovat nebudu.
 [13] A nyní zlomím jeho jho, které je na tobě,
 a roztrhám tvá pouta.“
 
-[14] Yahweh o tobě vydal příkaz:
+[14] ⟦yhwh|Jahve|Hospodin⟧ o tobě vydal příkaz:
 
 „Tvé jméno se už nebude šířit;
 z domu tvých bohů vyhladím
@@ -66,7 +66,7 @@ Připravím ti hrob, neboť jsi opovrženíhodný.“
 
 [15] Hle, na horách nohy toho, kdo nese dobrou zprávu,
 kdo zvěstuje pokoj!
-Slav své svátky, Judo,
+Slav své svátky, ⟦judah|Jehudo|Judo⟧,
 plň své sliby,
 neboť už nikdy tebou neprojde ničemník;
 je naprosto vyhlazen.
@@ -76,7 +76,7 @@ je naprosto vyhlazen.
 - **"LORD" → „Yahweh“** (v celé kapitole) – zachován tetragram.
 - **"The burden of Nineveh" → „Výrok o Ninevehu“** (v1) – hebrejsky מַשָּׂא נִינְוֵה *massa' Nineveh*; *massa'* = výrok / břemeno; „výrok“ je přesnější než „břemeno“.
 - **Poezie formátována odsazením jako citát** (v celé kapitole) – KJV má prózu; kapitola je akrostická báseň a pak výrok.
-- **"God is jealous, and the Lord revengeth; the Lord revengeth, and is furious" → „Yahweh je žárlivý a mstící *Elohim*; Yahweh se mstí a je plný hněvu“** (v2) – hebrejsky אֵל קַנּוֹא וְנֹקֵם יְהוָה *El qanno venokhem Yahweh*; *El qanno* = žárlivý Bůh; tři výskyty „the LORD“ obnoveny na Yahweh; „mstící“ za *noqem* = vykonávající pomstu.
+- **"God is jealous, and the Lord revengeth; the Lord revengeth, and is furious" → „Yahweh je žárlivý a mstící El; Yahweh se mstí a je plný hněvu“** (v2) – hebrejsky אֵל קַנּוֹא וְנֹקֵם יְהוָה *El qanno venokhem Yahweh*; *El qanno* = žárlivý Bůh; tři výskyty „the LORD“ obnoveny na Yahweh; „mstící“ za *noqem* = vykonávající pomstu.
 - **"will not at all acquit the wicked" → „viníka nikterak neosvobodí“** (v3) – hebrejsky נַקֵּה לֹא יְנַקֶּה *naqqeh lo yenaqqeh* = jistě neosvobodí; „neosvobodí viníka“ je přesnější.
 - **"Bashan languisheth, and Carmel, and the flower of Lebanon languisheth" → „Bashan i Carmel vadnou; květ Lebanonu vadne“** (v4) – hebrejsky וּפֶרַח לְבָנוֹן *uforah Levanon* = květ Lebanonu; „bloom“ je názornější než „flower“; zhuštěno.
 - **"the earth is burned at his presence" → „země se před ním zvedá“** (v5) – hebrejsky וַתִּשָּׂא הָאָרֶץ *vatissa' ha'aretz* = země se zvedá / vzdouvá; „zvedá“ vystihuje obraz zemětřesení lépe než „je spálena“.

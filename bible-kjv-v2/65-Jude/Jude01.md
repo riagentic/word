@@ -1,48 +1,48 @@
 # Jude 1
 
-[1] Jude, a servant of *Yeshua* the *Mashiach* and brother of Jacob,
+[1] ⟦jude|Yehudah|Jude⟧, a servant of ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧ and brother of ⟦james|Yaaqov|James⟧,
 
-To those who are called, beloved in *Elohim* the Father and kept for *Yeshua* the *Mashiach*:
+To those who are called, beloved in ⟦elohim|Elohim|God⟧ the Father and kept for ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧:
 
 [2] May mercy, peace, and love be multiplied to you.
 
 [3] Beloved, although I was very eager to write to you about our common salvation, I found it necessary to write appealing to you to contend for the faith that was once for all delivered to the saints.
 
-[4] For certain people have crept in unnoticed who long ago were designated for this condemnation, ungodly people, who pervert the grace of our *Elohim* into sensuality and deny our only Master and Lord, *Yeshua* the *Mashiach*.
+[4] For certain people have crept in unnoticed who long ago were designated for this condemnation, ungodly people, who pervert the grace of our ⟦elohim|Elohim|God⟧ into sensuality and deny our only Master and Lord, ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧.
 
-[5] Now I want to remind you, although you once fully knew it, that the Lord, who saved a people out of the land of Egypt, afterward destroyed those who did not believe.
+[5] Now I want to remind you, although you once fully knew it, that the Lord, who saved a people out of the land of ⟦egypt|Mitzrayim|Egypt⟧, afterward destroyed those who did not believe.
 
 [6] And the angels who did not stay within their own position of authority, but left their proper dwelling, he has kept in eternal chains under gloomy darkness until the judgment of the great day —
 
-[7] just as Sodom and Gomorrah and the surrounding cities, which likewise indulged in sexual immorality and pursued unnatural desire, serve as an example by undergoing a punishment of eternal fire.
+[7] just as ⟦sodom|Sedom|Sodom⟧ and ⟦gomorrah|Amorah|Gomorrah⟧ and the surrounding cities, which likewise indulged in sexual immorality and pursued unnatural desire, serve as an example by undergoing a punishment of eternal fire.
 
 [8] Yet in like manner these people also, relying on their dreams, defile the flesh, reject authority, and blaspheme the glorious ones.
 
-[9] But when the archangel Michael, contending with the devil, was disputing about the body of Moses, he did not presume to pronounce a blasphemous judgment, but said, "**The Lord rebuke you**."
+[9] But when the archangel Michael, contending with the devil, was disputing about the body of ⟦moses|Moshe|Moses⟧, he did not presume to pronounce a blasphemous judgment, but said, "**⟦yhwh|Yahweh|The Lord⟧ rebuke you**."
 
 [10] But these people blaspheme all that they do not understand, and they are destroyed by all that they, like unreasoning animals, understand instinctively.
 
-[11] Woe to them! For they walked in the way of Cain and abandoned themselves for the sake of gain to Balaam's error and perished in Korach's rebellion.
+[11] Woe to them! For they walked in the way of ⟦cain|Qayin|Cain⟧ and abandoned themselves for the sake of gain to ⟦balaam|Bilam's|Balaam's⟧ error and perished in ⟦korah|Qorach's|Korah's⟧ rebellion.
 
 [12] These are hidden reefs at your love feasts, as they feast with you without fear, shepherds feeding themselves; waterless clouds, swept along by winds; fruitless trees in late autumn, twice dead, uprooted;
 
 [13] wild waves of the sea, casting up the foam of their own shame; wandering stars, for whom the gloom of utter darkness has been reserved forever.
 
-[14] It was also about these that Enoch, the seventh from Adam, prophesied, saying, "**Behold, the Lord comes with ten thousands of his holy ones,**
+[14] It was also about these that ⟦enoch|Chanoch|Enoch⟧, the seventh from Adam, prophesied, saying, "**Behold, the Lord comes with ten thousands of his holy ones,**
 
 **[15] to execute judgment on all and to convict all the ungodly of all their deeds of ungodliness that they have committed in such an ungodly way, and of all the harsh things that ungodly sinners have spoken against him**."
 
 [16] These are grumblers, malcontents, following their own sinful desires; they are loud-mouthed boasters, showing favoritism to gain advantage.
 
-[17] But you must remember, beloved, the predictions of the apostles of our Lord *Yeshua* the *Mashiach*.
+[17] But you must remember, beloved, the predictions of the apostles of our Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧.
 
 [18] They said to you, "In the last time there will be scoffers, following their own ungodly passions."
 
 [19] It is these who cause divisions, worldly people, devoid of the Spirit.
 
-[20] But you, beloved, building yourselves up in your most holy faith and praying in the *Ruach HaQodesh*,
+[20] But you, beloved, building yourselves up in your most holy faith and praying in the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧,
 
-[21] keep yourselves in the love of *Elohim*, waiting for the mercy of our Lord *Yeshua* the *Mashiach* that leads to eternal life.
+[21] keep yourselves in the love of ⟦elohim|Elohim|God⟧, waiting for the mercy of our Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧ that leads to eternal life.
 
 [22] And have mercy on those who doubt;
 
@@ -50,7 +50,7 @@ To those who are called, beloved in *Elohim* the Father and kept for *Yeshua* th
 
 [24] Now to him who is able to keep you from stumbling and to present you blameless before the presence of his glory with great joy,
 
-[25] to the only *Elohim*, our Savior, through *Yeshua* the *Mashiach* our Lord, be glory, majesty, dominion, and authority, before all time and now and forever. Amen.
+[25] to the only ⟦elohim|Elohim|God⟧, our Savior, through ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧ our Lord, be glory, majesty, dominion, and authority, before all time and now and forever. Amen.
 
 ## Changes
 

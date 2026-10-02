@@ -1,22 +1,22 @@
 # Zjevení 22
 
-[1] Potom mi anděl ukázal řeku vody života, zářící jako křišťál, vytékající od trůnu *Elohim* a Beránka
+[1] Potom mi anděl ukázal řeku vody života, zářící jako křišťál, vytékající od trůnu ⟦elohim|Elohim|Boha⟧ a Beránka
 
 [2] středem ulice města; a po obou stranách řeky strom života s dvanácti druhy plodů, který každý měsíc dává své ovoce. Listí stromu bylo k uzdravení národů.
 
-[3] Už nebude nic prokletého, ale bude v něm trůn *Elohim* a Beránka a jeho služebníci ho budou uctívat.
+[3] Už nebude nic prokletého, ale bude v něm trůn ⟦elohim|Elohim|Boha⟧ a Beránka a jeho služebníci ho budou uctívat.
 
 [4] Budou hledět na jeho tvář a jeho jméno bude na jejich čelech.
 
-[5] A noc už nebude. Nebudou potřebovat světlo lampy ani slunce, neboť Pán *Elohim* bude jejich světlem, a budou kralovat na věky věků.
+[5] A noc už nebude. Nebudou potřebovat světlo lampy ani slunce, neboť Pán ⟦elohim|Elohim|Bůh⟧ bude jejich světlem, a budou kralovat na věky věků.
 
-[6] A řekl mi: „Tato slova jsou spolehlivá a pravá. Pán, *Elohim* duchů proroků, poslal svého anděla, aby ukázal svým služebníkům, co se musí brzy stát.“
+[6] A řekl mi: „Tato slova jsou spolehlivá a pravá. Pán, ⟦elohim|Elohim|Bůh⟧ duchů proroků, poslal svého anděla, aby ukázal svým služebníkům, co se musí brzy stát.“
 
 [7] „**A hle, přicházím brzy. Blahoslavený, kdo zachovává slova proroctví této knihy.**“
 
-[8] Já, John, jsem ten, kdo toto slyšel a viděl. A když jsem to slyšel a viděl, padl jsem, abych se poklonil u nohou anděla, který mi to ukazoval,
+[8] Já, ⟦john|Jochanan|Jan⟧, jsem ten, kdo toto slyšel a viděl. A když jsem to slyšel a viděl, padl jsem, abych se poklonil u nohou anděla, který mi to ukazoval,
 
-[9] ale on mi řekl: „To nesmíš! Jsem spoluslužebník tvůj i tvých bratrů proroků a těch, kdo zachovávají slova této knihy. Klaněj se *Elohim*.“
+[9] ale on mi řekl: „To nesmíš! Jsem spoluslužebník tvůj i tvých bratrů proroků a těch, kdo zachovávají slova této knihy. Klaněj se ⟦elohim|Elohim|Bohu⟧.“
 
 [10] A řekl mi: „Nezapečeťuj slova proroctví této knihy, neboť čas je blízko.
 
@@ -30,19 +30,19 @@
 
 [15] Venku jsou psi a čarodějové a smilníci a vrazi a modloslužebníci a každý, kdo miluje a páchá lež.
 
-[16] „**Já, *Yeshua*, jsem poslal svého anděla, aby vám o těchto věcech vydal svědectví pro církve. Já jsem kořen a potomek Davidův, jasná jitřní hvězda.**“
+[16] „**Já, ⟦yeshua|Ješua|Ježíš⟧, jsem poslal svého anděla, aby vám o těchto věcech vydal svědectví pro církve. Já jsem kořen a potomek Davidův, jasná jitřní hvězda.**“
 
 [17] **Duch a Nevěsta říkají: „Pojď.“ A kdo slyší, ať řekne: „Pojď.“ A kdo žízní, ať přijde; kdo chce, ať si vezme vodu života zdarma.**
 
-[18] Varuji každého, kdo slyší slova proroctví této knihy: přidá-li k nim kdo něco, *Elohim* přidá jemu rány popsané v této knize,
+[18] Varuji každého, kdo slyší slova proroctví této knihy: přidá-li k nim kdo něco, ⟦elohim|Elohim|Bůh⟧ přidá jemu rány popsané v této knize,
 
-[19] a odejme-li kdo něco ze slov knihy tohoto proroctví, *Elohim* mu odejme jeho podíl na stromu života a na svatém městě, které jsou popsány v této knize.
+[19] a odejme-li kdo něco ze slov knihy tohoto proroctví, ⟦elohim|Elohim|Bůh⟧ mu odejme jeho podíl na stromu života a na svatém městě, které jsou popsány v této knize.
 
 [20] Ten, který o tom svědčí, říká: „**Ano, přicházím brzy.**“
 
-Amen. Přijď, Pane *Yeshuo*!
+Amen. Přijď, Pane ⟦yeshua|Ješuo|Ježíši⟧!
 
-[21] Milost Pána *Yeshuy* se všemi. Amen.
+[21] Milost Pána ⟦yeshua|Ješuy|Ježíše⟧ se všemi. Amen.
 
 ## Změny
 

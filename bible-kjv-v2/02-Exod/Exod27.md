@@ -38,9 +38,9 @@
 
 [19] All the utensils of the dwelling for every service, and all its pegs, and all the pegs of the court, shall be of bronze.
 
-[20] You shall command the children of Israel to bring you pure beaten olive oil for the light, to make a lamp burn continually.
+[20] You shall command the children of ⟦israel|Yisrael|Israel⟧ to bring you pure beaten olive oil for the light, to make a lamp burn continually.
 
-[21] In the Tent of Meeting, outside the veil that is before the Testimony, Aaron and his sons shall tend it from evening until morning before Yahweh; it shall be a statute forever throughout their generations on behalf of the children of Israel."
+[21] In the Tent of Meeting, outside the veil that is before the Testimony, ⟦aaron|Aharon|Aaron⟧ and his sons shall tend it from evening until morning before ⟦yhwh|Yahweh|the LORD⟧; it shall be a statute forever throughout their generations on behalf of the children of ⟦israel|Yisrael|Israel⟧."
 
 ## Changes
 

@@ -1,10 +1,10 @@
 # Ezechiel 1
 
-[1] Ve třicátém roce, ve čtvrtém měsíci, pátého dne toho měsíce, když jsem byl mezi vyhnanci u kanálu Chebar, otevřela se nebesa a viděl jsem vidění *Elohim*.
+[1] Ve třicátém roce, ve čtvrtém měsíci, pátého dne toho měsíce, když jsem byl mezi vyhnanci u kanálu ⟦chebar|Kevar|Kebar⟧, otevřela se nebesa a viděl jsem vidění ⟦elohim|Elohim|Boží⟧.
 
-[2] Pátého dne toho měsíce (byl to pátý rok vyhnanství krále Jehoiachina)
+[2] Pátého dne toho měsíce (byl to pátý rok vyhnanství krále ⟦jehoiachin|Jehojachina|Jójakína⟧)
 
-[3] přišlo slovo Yahweh k Ezekielovi – synu kněze Buziho – v zemi Chaldejců u kanálu Chebar, a byla tam na něm ruka Yahweh.
+[3] přišlo slovo ⟦yhwh|Jahveho|Hospodina⟧ k ⟦ezekiel|Jechezkelovi|Ezechielovi⟧ – synu kněze ⟦buzi|Buziho|Búzího⟧ – v zemi ⟦chaldeans|Kasdim|Kaldejců⟧ u kanálu ⟦chebar|Kevar|Kebar⟧, a byla tam na něm ruka ⟦yhwh|Jahveho|Hospodina⟧.
 
 [4] Když jsem se díval, hle, od severu přicházel bouřlivý vítr, veliký oblak s šlehajícím ohněm a kolem něho jas; a uprostřed něho jakoby třpytivý kov uprostřed ohně.
 
@@ -46,7 +46,7 @@
 
 [23] A pod klenbou byla jejich křídla rovně roztažena, jedno k druhému. A každá bytost měla dvě křídla, která zakrývala její tělo.
 
-[24] A když šly, slyšel jsem zvuk jejich křídel jako hukot mnohých vod, jako hlas Shaddai, zvuk vřavy jako hluk vojska. Když stanuly, spustily svá křídla.
+[24] A když šly, slyšel jsem zvuk jejich křídel jako hukot mnohých vod, jako hlas ⟦shaddai|Šaddaje|Všemohoucího⟧, zvuk vřavy jako hluk vojska. Když stanuly, spustily svá křídla.
 
 [25] A ozval se hlas shora nad klenbou nad jejich hlavami. Když stanuly, spustily svá křídla.
 

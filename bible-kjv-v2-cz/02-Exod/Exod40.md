@@ -1,6 +1,6 @@
 # Exodus 40
 
-[1] Yahweh promluvil k Mosesovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
 [2] „Prvního dne prvního měsíce postavíš příbytek stanu setkávání.
 
@@ -22,59 +22,59 @@
 
 [11] Pomažeš umyvadlo a jeho podstavec a posvětíš ho.
 
-[12] Přivedeš Aarona a jeho syny ke vchodu do stanu setkávání a umyješ je vodou.
+[12] Přivedeš ⟦aaron|Aharona|Árona⟧ a jeho syny ke vchodu do stanu setkávání a umyješ je vodou.
 
-[13] Oblečeš Aarona do svatých rouch, pomažeš ho a posvětíš ho, aby mi sloužil jako kněz.
+[13] Oblečeš ⟦aaron|Aharona|Árona⟧ do svatých rouch, pomažeš ho a posvětíš ho, aby mi sloužil jako kněz.
 
 [14] Přivedeš jeho syny a oblečeš je do suknic
 
 [15] a pomažeš je, jako jsi pomazal jejich otce, aby mi sloužili jako kněží. Jejich pomazání jim bude věčným kněžstvím po všechna jejich pokolení.“
 
-[16] Moses tak učinil; podle všeho, co mu Yahweh přikázal, tak učinil.
+[16] ⟦moses|Moše|Mojžíš⟧ tak učinil; podle všeho, co mu ⟦yhwh|Jahve|Hospodin⟧ přikázal, tak učinil.
 
 [17] V prvním měsíci druhého roku, prvního dne toho měsíce, byl příbytek postaven.
 
-[18] Moses postavil příbytek – položil jeho podstavce, postavil jeho rámy, vsadil jeho svlaky a vztyčil jeho sloupy.
+[18] ⟦moses|Moše|Mojžíš⟧ postavil příbytek – položil jeho podstavce, postavil jeho rámy, vsadil jeho svlaky a vztyčil jeho sloupy.
 
-[19] Rozprostřel stan nad příbytkem a navrch na něj položil přikrývku stanu – jak Yahweh přikázal Mosesovi.
+[19] Rozprostřel stan nad příbytkem a navrch na něj položil přikrývku stanu – jak ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧.
 
-[20] Vzal svědectví a vložil je do truhly, nasadil na truhlu tyče a položil na truhlu navrch slitovnici.
+[20] Vzal svědectví a vložil je do truhly, nasadil na truhlu tyče a položil na truhlu navrch ⟦mercy-seat|kapporet|příkrov⟧.
 
-[21] Vnesl truhlu do příbytku, zavěsil zakrývající oponu a zakryl truhlu svědectví – jak Yahweh přikázal Mosesovi.
+[21] Vnesl truhlu do příbytku, zavěsil zakrývající oponu a zakryl truhlu svědectví – jak ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧.
 
 [22] Postavil stůl do stanu setkávání, na severní stranu příbytku, vně opony;
 
-[23] a uspořádal na něm chléb před Yahweh – jak Yahweh přikázal Mosesovi.
+[23] a uspořádal na něm chléb před ⟦yhwh|Jahvem|Hospodinem⟧ – jak ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧.
 
 [24] Postavil svícen do stanu setkávání, naproti stolu, na jižní stranu příbytku,
 
-[25] a postavil lampy před Yahweh – jak Yahweh přikázal Mosesovi.
+[25] a postavil lampy před ⟦yhwh|Jahvem|Hospodinem⟧ – jak ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧.
 
 [26] Postavil zlatý oltář do stanu setkávání, před oponu,
 
-[27] a pálil na něm vonné kadidlo – jak Yahweh přikázal Mosesovi.
+[27] a pálil na něm vonné kadidlo – jak ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧.
 
 [28] Zavěsil zástěnu u vchodu do příbytku.
 
-[29] Postavil oltář zápalné oběti u vchodu do příbytku stanu setkávání a přinesl na něm zápalnou oběť a obilnou oběť – jak Yahweh přikázal Mosesovi.
+[29] Postavil oltář zápalné oběti u vchodu do příbytku stanu setkávání a přinesl na něm zápalnou oběť a obilnou oběť – jak ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧.
 
 [30] Postavil umyvadlo mezi stan setkávání a oltář a nalil do něj vodu k umývání,
 
-[31] v níž si Moses, Aaron a jeho synové umývali ruce a nohy;
+[31] v níž si ⟦moses|Moše|Mojžíš⟧, ⟦aaron|Aharon|Áron⟧ a jeho synové umývali ruce a nohy;
 
-[32] když vcházeli do stanu setkávání a když přistupovali k oltáři, umývali se – jak Yahweh přikázal Mosesovi.
+[32] když vcházeli do stanu setkávání a když přistupovali k oltáři, umývali se – jak ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧.
 
-[33] Postavil nádvoří kolem příbytku a oltáře a zavěsil zástěnu u brány nádvoří. Tak Moses dokončil dílo.
+[33] Postavil nádvoří kolem příbytku a oltáře a zavěsil zástěnu u brány nádvoří. Tak ⟦moses|Moše|Mojžíš⟧ dokončil dílo.
 
-[34] Tehdy oblak přikryl stan setkávání a sláva Yahweh naplnila příbytek.
+[34] Tehdy oblak přikryl stan setkávání a sláva ⟦yhwh|Jahveho|Hospodina⟧ naplnila příbytek.
 
-[35] Moses nemohl vejít do stanu setkávání, protože na něm spočíval oblak a sláva Yahweh naplňovala příbytek.
+[35] ⟦moses|Moše|Mojžíš⟧ nemohl vejít do stanu setkávání, protože na něm spočíval oblak a sláva ⟦yhwh|Jahveho|Hospodina⟧ naplňovala příbytek.
 
-[36] Kdykoli se oblak zvedl z příbytku, synové Israele se vydávali dál na všech svých cestách.
+[36] Kdykoli se oblak zvedl z příbytku, synové ⟦israel|Jisraele|Izraele⟧ se vydávali dál na všech svých cestách.
 
 [37] Jestliže se však oblak nezvedl, nevydali se na cestu až do dne, kdy se zvedl.
 
-[38] Neboť oblak Yahweh byl nad příbytkem ve dne a v noci v něm byl oheň, před očima celého domu Israele, na všech jejich cestách.
+[38] Neboť oblak ⟦yhwh|Jahveho|Hospodina⟧ byl nad příbytkem ve dne a v noci v něm byl oheň, před očima celého domu ⟦israel|Jisraele|Izraele⟧, na všech jejich cestách.
 
 ## Změny
 

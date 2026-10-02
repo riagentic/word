@@ -5,7 +5,7 @@ And who knows the interpretation of a thing?
 A man's wisdom makes his face shine,
 and the hardness of his face is changed.
 
-[2] I say: Keep the king's command, because of the oath of *Elohim*.
+[2] I say: Keep the king's command, because of the oath of ⟦elohim|Elohim|God⟧.
 
 [3] Be not hasty to go from his presence. Do not take your stand in an evil cause, for he does whatever he pleases.
 
@@ -25,17 +25,17 @@ and the hardness of his face is changed.
 
 [11] Because the sentence against an evil deed is not executed speedily, the heart of the children of man is fully set to do evil.
 
-[12] Though a sinner does evil a hundred times and prolongs his life, yet I know that it will be well with those who fear *Elohim*, because they fear before him.
+[12] Though a sinner does evil a hundred times and prolongs his life, yet I know that it will be well with those who fear ⟦elohim|Elohim|God⟧, because they fear before him.
 
-[13] But it will not be well with the wicked, neither will he prolong his days like a shadow, because he does not fear before *Elohim*.
+[13] But it will not be well with the wicked, neither will he prolong his days like a shadow, because he does not fear before ⟦elohim|Elohim|God⟧.
 
 [14] There is a vanity that takes place on earth, that there are righteous people to whom it happens according to the deeds of the wicked, and there are wicked people to whom it happens according to the deeds of the righteous. I said that this also is vanity.
 
-[15] And I commend joy, for man has nothing better under the sun than to eat and drink and be joyful, for this will go with him in his toil through the days of his life that *Elohim* has given him under the sun.
+[15] And I commend joy, for man has nothing better under the sun than to eat and drink and be joyful, for this will go with him in his toil through the days of his life that ⟦elohim|Elohim|God⟧ has given him under the sun.
 
 [16] When I applied my heart to know wisdom, and to see the business that is done on earth — how neither day nor night do one's eyes see sleep —
 
-[17] then I saw all the work of *Elohim*, that man cannot find out the work that is done under the sun. However much man may toil in seeking, he will not find it out. Even though a wise man claims to know, he cannot find it out.
+[17] then I saw all the work of ⟦elohim|Elohim|God⟧, that man cannot find out the work that is done under the sun. However much man may toil in seeking, he will not find it out. Even though a wise man claims to know, he cannot find it out.
 
 ## Changes
 

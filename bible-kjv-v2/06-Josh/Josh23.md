@@ -1,36 +1,36 @@
 # Joshua 23
 
-[1] A long time after Yahweh had given rest to Israel from all their surrounding enemies, when Joshua was old and advanced in years,
+[1] A long time after ⟦yhwh|Yahweh|the LORD⟧ had given rest to ⟦israel|Yisrael|Israel⟧ from all their surrounding enemies, when ⟦joshua|Yehoshua|Joshua⟧ was old and advanced in years,
 
-[2] Joshua summoned all Israel — their elders, their heads, their judges, and their officers — and said to them, "I am old and advanced in years.
+[2] ⟦joshua|Yehoshua|Joshua⟧ summoned all ⟦israel|Yisrael|Israel⟧ — their elders, their heads, their judges, and their officers — and said to them, "I am old and advanced in years.
 
-[3] You have seen all that Yahweh your *Elohim* has done to all these nations for your sake; for it is Yahweh your *Elohim* who has fought for you.
+[3] You have seen all that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ has done to all these nations for your sake; for it is ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ who has fought for you.
 
-[4] Behold, I have apportioned to you by lot these nations that remain as an inheritance for your tribes — from the Jordan, with all the nations that I have cut off, to the Great Sea in the west.
+[4] Behold, I have apportioned to you by lot these nations that remain as an inheritance for your tribes — from the ⟦jordan|Yarden|Jordan⟧, with all the nations that I have cut off, to the Great Sea in the west.
 
-[5] Yahweh your *Elohim* himself will push them out from before you and drive them out of your sight, and you shall take possession of their land, as Yahweh your *Elohim* promised you.
+[5] ⟦yhwh|Yahweh|The LORD⟧ your ⟦elohim|Elohim|God⟧ himself will push them out from before you and drive them out of your sight, and you shall take possession of their land, as ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ promised you.
 
-[6] Therefore be very strong to keep and to do all that is written in the book of the Torah of Moses, turning aside from it neither to the right hand nor to the left;
+[6] Therefore be very strong to keep and to do all that is written in the book of the ⟦torah|Torah|Law⟧ of ⟦moses|Moshe|Moses⟧, turning aside from it neither to the right hand nor to the left;
 
 [7] that you do not come among these nations — these that remain among you — or make mention of the name of their gods, or cause anyone to swear by them, or serve them, or bow down to them;
 
-[8] but hold fast to Yahweh your *Elohim*, as you have done to this day.
+[8] but hold fast to ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, as you have done to this day.
 
-[9] Yahweh has driven out from before you great and mighty nations; as for you, no man has stood before you to this day.
+[9] ⟦yhwh|Yahweh|The LORD⟧ has driven out from before you great and mighty nations; as for you, no man has stood before you to this day.
 
-[10] One man of you puts to flight a thousand, for Yahweh your *Elohim* is the one who fights for you, as he promised you.
+[10] One man of you puts to flight a thousand, for ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is the one who fights for you, as he promised you.
 
-[11] Take great care of yourselves, therefore, to love Yahweh your *Elohim*.
+[11] Take great care of yourselves, therefore, to love ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
 [12] For if you do in any way turn back and hold fast to the remnant of these nations that remain among you, and make marriages with them — you going in to them and they to you —
 
-[13] know for certain that Yahweh your *Elohim* will no longer drive out these nations from before you. They shall be a snare and a trap for you, a scourge on your sides and thorns in your eyes, until you perish from this good land that Yahweh your *Elohim* has given you.
+[13] know for certain that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ will no longer drive out these nations from before you. They shall be a snare and a trap for you, a scourge on your sides and thorns in your eyes, until you perish from this good land that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ has given you.
 
-[14] Behold, today I am going the way of all the earth. You know in all your hearts and in all your souls that not one word has failed of all the good words that Yahweh your *Elohim* spoke concerning you. All have come to pass for you; not one of them has failed.
+[14] Behold, today I am going the way of all the earth. You know in all your hearts and in all your souls that not one word has failed of all the good words that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ spoke concerning you. All have come to pass for you; not one of them has failed.
 
-[15] But as every good thing has come upon you that Yahweh your *Elohim* promised you, so will Yahweh bring upon you every evil thing, until he has destroyed you from this good land that Yahweh your *Elohim* has given you.
+[15] But as every good thing has come upon you that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ promised you, so will ⟦yhwh|Yahweh|the LORD⟧ bring upon you every evil thing, until he has destroyed you from this good land that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ has given you.
 
-[16] When you transgress the covenant of Yahweh your *Elohim* that he commanded you, going and serving other gods and bowing down to them, then the anger of Yahweh will be kindled against you, and you shall perish quickly from the good land that he has given to you."
+[16] When you transgress the covenant of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ that he commanded you, going and serving other gods and bowing down to them, then the anger of ⟦yhwh|Yahweh|the LORD⟧ will be kindled against you, and you shall perish quickly from the good land that he has given to you."
 
 ## Changes
 

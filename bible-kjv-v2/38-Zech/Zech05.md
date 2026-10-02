@@ -6,7 +6,7 @@
 
 [3] Then he said to me, "This is the curse that goes out over the face of the whole land. For everyone who steals shall be cleaned out according to what is on one side, and everyone who swears falsely shall be cleaned out according to what is on the other side.
 
-[4] I will send it out, declares Yahweh of Hosts, and it shall enter the house of the thief, and the house of him who swears falsely by my name. And it shall remain in his house and consume it, both timber and stones."
+[4] I will send it out, declares ⟦yhwh|Yahweh|the LORD⟧ of Hosts, and it shall enter the house of the thief, and the house of him who swears falsely by my name. And it shall remain in his house and consume it, both timber and stones."
 
 [5] Then the messenger who talked with me came forward and said to me, "Lift your eyes and see what this is that is going out."
 
@@ -14,7 +14,7 @@
 
 [7] And behold, the leaden cover was lifted, and there was a woman sitting in the ephah!
 
-[8] And he said, "This is Rish'ah — Wickedness." And he thrust her back into the ephah, and thrust down the leaden weight on its opening.
+[8] And he said, "This is ⟦rishah|Rishah — Wickedness|Wickedness⟧." And he thrust her back into the ephah, and thrust down the leaden weight on its opening.
 
 [9] Then I lifted my eyes and saw, and behold, two women coming forward! The wind was in their wings. They had wings like the wings of a stork, and they lifted up the ephah between earth and heaven.
 

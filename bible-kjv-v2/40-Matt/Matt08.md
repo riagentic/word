@@ -4,11 +4,11 @@
 
 [2] And behold, a leper came to him and knelt before him, saying, "Lord, if you will, you can make me clean."
 
-[3] And *Yeshua* stretched out his hand and touched him, saying, "I will; be clean." And immediately his leprosy was cleansed.
+[3] And ⟦yeshua|Yeshua|Jesus⟧ stretched out his hand and touched him, saying, "I will; be clean." And immediately his leprosy was cleansed.
 
-[4] And *Yeshua* said to him, "See that you say nothing to anyone, but go, show yourself to the priest and offer the gift that Moses commanded, for a testimony to them."
+[4] And ⟦yeshua|Yeshua|Jesus⟧ said to him, "See that you say nothing to anyone, but go, show yourself to the priest and offer the gift that ⟦moses|Moshe|Moses⟧ commanded, for a testimony to them."
 
-[5] When he had entered Capernaum, a centurion came forward to him, appealing to him,
+[5] When he had entered ⟦capernaum|Kfar Nachum|Capernaum⟧, a centurion came forward to him, appealing to him,
 
 [6] "Lord, my servant is lying paralyzed at home, suffering terribly."
 
@@ -18,31 +18,31 @@
 
 [9] For I too am a man under authority, with soldiers under me. And I say to one, 'Go,' and he goes, and to another, 'Come,' and he comes, and to my servant, 'Do this,' and he does it."
 
-[10] When *Yeshua* heard this, he marveled and said to those who followed him, "Truly, I tell you, with no one in Israel have I found such faith.
+[10] When ⟦yeshua|Yeshua|Jesus⟧ heard this, he marveled and said to those who followed him, "Truly, I tell you, with no one in ⟦israel|Yisrael|Israel⟧ have I found such faith.
 
-[11] I tell you, many will come from east and west and recline at table with Abraham, Isaac, and Jacob in the kingdom of heaven,
+[11] I tell you, many will come from east and west and recline at table with ⟦abraham|Avraham|Abraham⟧, ⟦isaac|Yitzchaq|Isaac⟧, and ⟦jacob|Yaaqov|Jacob⟧ in the kingdom of heaven,
 
 [12] while the sons of the kingdom will be thrown into the outer darkness. In that place there will be weeping and gnashing of teeth."
 
-[13] And to the centurion *Yeshua* said, "Go; let it be done for you as you have believed." And the servant was healed at that very moment.
+[13] And to the centurion ⟦yeshua|Yeshua|Jesus⟧ said, "Go; let it be done for you as you have believed." And the servant was healed at that very moment.
 
-[14] And when *Yeshua* entered *Kefa's* house, he saw his mother-in-law lying sick with a fever.
+[14] And when ⟦yeshua|Yeshua|Jesus⟧ entered ⟦peter|Kefa's|Peter's⟧ house, he saw his mother-in-law lying sick with a fever.
 
 [15] He touched her hand, and the fever left her, and she rose and began to serve him.
 
 [16] That evening they brought to him many who were oppressed by demons, and he cast out the spirits with a word and healed all who were sick.
 
-[17] This was to fulfill what was spoken by the prophet Isaiah: "He took our illnesses and bore our diseases."
+[17] This was to fulfill what was spoken by the prophet ⟦isaiah|Yeshayahu|Isaiah⟧: "He took our illnesses and bore our diseases."
 
-[18] Now when *Yeshua* saw a crowd around him, he gave orders to go over to the other side.
+[18] Now when ⟦yeshua|Yeshua|Jesus⟧ saw a crowd around him, he gave orders to go over to the other side.
 
 [19] And a scribe came up and said to him, "Teacher, I will follow you wherever you go."
 
-[20] And *Yeshua* said to him, "Foxes have holes, and birds of the air have nests, but the Son of Man has nowhere to lay his head."
+[20] And ⟦yeshua|Yeshua|Jesus⟧ said to him, "Foxes have holes, and birds of the air have nests, but the Son of Man has nowhere to lay his head."
 
 [21] Another of the disciples said to him, "Lord, let me first go and bury my father."
 
-[22] And *Yeshua* said to him, "Follow me, and leave the dead to bury their own dead."
+[22] And ⟦yeshua|Yeshua|Jesus⟧ said to him, "Follow me, and leave the dead to bury their own dead."
 
 [23] And when he got into the boat, his disciples followed him.
 
@@ -56,7 +56,7 @@
 
 [28] And when he came to the other side, to the country of the Gadarenes, two demon-possessed men met him, coming out of the tombs, so fierce that no one could pass that way.
 
-[29] And behold, they cried out, "What have you to do with us, O Son of *Elohim*? Have you come here to torment us before the time?"
+[29] And behold, they cried out, "What have you to do with us, O Son of ⟦elohim|Elohim|God⟧? Have you come here to torment us before the time?"
 
 [30] Now a herd of many pigs was feeding at some distance from them.
 
@@ -66,7 +66,7 @@
 
 [33] The herdsmen fled, and going into the city they told everything, especially what had happened to the demon-possessed men.
 
-[34] And behold, all the city came out to meet *Yeshua*, and when they saw him, they begged him to leave their region.
+[34] And behold, all the city came out to meet ⟦yeshua|Yeshua|Jesus⟧, and when they saw him, they begged him to leave their region.
 
 ## Changes
 

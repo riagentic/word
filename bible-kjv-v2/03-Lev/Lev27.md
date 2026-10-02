@@ -1,8 +1,8 @@
 # Leviticus 27
 
-[1] Yahweh spoke to Moses, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[2] "Speak to the children of Israel and say to them: 'When a man makes a special vow to Yahweh, dedicating persons, the persons shall be valued at your valuation.
+[2] "Speak to the children of ⟦israel|Yisrael|Israel⟧ and say to them: 'When a man makes a special vow to ⟦yhwh|Yahweh|the LORD⟧, dedicating persons, the persons shall be valued at your valuation.
 
 [3] Your valuation for a male from twenty years old to sixty years old shall be fifty shekels of silver, by the shekel of the sanctuary.
 
@@ -16,21 +16,21 @@
 
 [8] But if he is poorer than your valuation, he shall present himself before the priest, and the priest shall value him; according to the ability of the one who vowed, the priest shall value him.
 
-[9] If it is an animal such as one may offer as an offering to Yahweh, whatever a man gives to Yahweh from such shall be holy.
+[9] If it is an animal such as one may offer as an offering to ⟦yhwh|Yahweh|the LORD⟧, whatever a man gives to ⟦yhwh|Yahweh|the LORD⟧ from such shall be holy.
 
 [10] He shall not replace it or exchange it, a good for a bad or a bad for a good; and if he does exchange animal for animal, then it and the substitute shall both be holy.
 
-[11] If it is any unclean animal, of which they do not offer a sacrifice to Yahweh, then he shall present the animal before the priest,
+[11] If it is any unclean animal, of which they do not offer a sacrifice to ⟦yhwh|Yahweh|the LORD⟧, then he shall present the animal before the priest,
 
 [12] and the priest shall value it, whether good or bad; as you the priest value it, so it shall be.
 
 [13] But if he wishes to redeem it, he shall add a fifth to your valuation.
 
-[14] When a man consecrates his house as holy to Yahweh, the priest shall value it, whether good or bad; as the priest values it, so it shall stand.
+[14] When a man consecrates his house as holy to ⟦yhwh|Yahweh|the LORD⟧, the priest shall value it, whether good or bad; as the priest values it, so it shall stand.
 
 [15] If the one who consecrated it wishes to redeem his house, he shall add a fifth of the money of your valuation to it, and it shall be his.
 
-[16] If a man consecrates to Yahweh some part of a field of his possession, your valuation shall be according to its seed: a homer of barley seed at fifty shekels of silver.
+[16] If a man consecrates to ⟦yhwh|Yahweh|the LORD⟧ some part of a field of his possession, your valuation shall be according to its seed: a homer of barley seed at fifty shekels of silver.
 
 [17] If he consecrates his field from the year of jubilee, your valuation shall stand.
 
@@ -40,33 +40,33 @@
 
 [20] But if he does not redeem the field, or if he has sold the field to another man, it shall no longer be redeemable.
 
-[21] And the field, when it is released in the jubilee, shall be holy to Yahweh, as a field dedicated to him; it shall become the property of the priest.
+[21] And the field, when it is released in the jubilee, shall be holy to ⟦yhwh|Yahweh|the LORD⟧, as a field dedicated to him; it shall become the property of the priest.
 
-[22] If a man consecrates to Yahweh a field that he has bought, which is not a field of his possession,
+[22] If a man consecrates to ⟦yhwh|Yahweh|the LORD⟧ a field that he has bought, which is not a field of his possession,
 
-[23] then the priest shall compute for him the amount of your valuation up to the year of jubilee, and he shall pay your valuation on that day as a holy thing to Yahweh.
+[23] then the priest shall compute for him the amount of your valuation up to the year of jubilee, and he shall pay your valuation on that day as a holy thing to ⟦yhwh|Yahweh|the LORD⟧.
 
 [24] In the year of jubilee the field shall return to him from whom it was bought — the one to whom the land belongs as a possession.
 
 [25] All your valuations shall be according to the shekel of the sanctuary: twenty gerahs to the shekel.
 
-[26] However, a firstborn of animals, which by birthright belongs to Yahweh, no man shall consecrate; whether an ox or a sheep, it is Yahweh's.
+[26] However, a firstborn of animals, which by birthright belongs to ⟦yhwh|Yahweh|the LORD⟧, no man shall consecrate; whether an ox or a sheep, it is ⟦yhwh|Yahweh's|the LORD's⟧.
 
 [27] If it is of an unclean animal, he shall redeem it according to your valuation and shall add a fifth to it; and if it is not redeemed, it shall be sold according to your valuation.
 
-[28] But nothing that a man has devoted by ban to Yahweh, of all that he has — whether human, animal, or field of his possession — shall be sold or redeemed; every devoted thing is most holy to Yahweh.
+[28] But nothing that a man has devoted by ban to ⟦yhwh|Yahweh|the LORD⟧, of all that he has — whether human, animal, or field of his possession — shall be sold or redeemed; every devoted thing is most holy to ⟦yhwh|Yahweh|the LORD⟧.
 
 [29] No person under the ban — who has been devoted — shall be ransomed; he shall surely be put to death.
 
-[30] All the tithe of the land, whether of the seed of the land or of the fruit of the tree, is Yahweh's; it is holy to Yahweh.
+[30] All the tithe of the land, whether of the seed of the land or of the fruit of the tree, is ⟦yhwh|Yahweh's|the LORD's⟧; it is holy to ⟦yhwh|Yahweh|the LORD⟧.
 
 [31] If a man wishes to redeem any of his tithe, he shall add a fifth to it.
 
-[32] And all the tithe of the herd or the flock — whatever passes under the shepherd's staff — the tenth shall be holy to Yahweh.
+[32] And all the tithe of the herd or the flock — whatever passes under the shepherd's staff — the tenth shall be holy to ⟦yhwh|Yahweh|the LORD⟧.
 
 [33] He shall not search out whether it is good or bad, nor shall he exchange it; and if he does exchange it, then it and the substitute shall both be holy; it shall not be redeemed.'"
 
-[34] These are the commandments that Yahweh commanded Moses for the children of Israel on Mount Sinai.
+[34] These are the commandments that ⟦yhwh|Yahweh|the LORD⟧ commanded ⟦moses|Moshe|Moses⟧ for the children of ⟦israel|Yisrael|Israel⟧ on Mount Sinai.
 
 ## Changes
 

@@ -36,7 +36,7 @@ and all that you may desire cannot compare with her.
 [12] I, wisdom, dwell with prudence,
 and I find knowledge and discretion.
 
-[13] The fear of Yahweh is hatred of evil.
+[13] The fear of ⟦yhwh|Yahweh|the LORD⟧ is hatred of evil.
 Pride and arrogance and the way of evil
 and perverted speech I hate.
 
@@ -64,7 +64,7 @@ in the paths of justice,
 [21] granting an inheritance to those who love me,
 and filling their treasuries.
 
-[22] Yahweh possessed me at the beginning of his way,
+[22] ⟦yhwh|Yahweh|The LORD⟧ possessed me at the beginning of his way,
 the first of his works of old.
 
 [23] From everlasting I was established,
@@ -107,7 +107,7 @@ watching daily at my gates,
 waiting beside my doors.
 
 [35] For whoever finds me finds life
-and obtains favor from Yahweh,
+and obtains favor from ⟦yhwh|Yahweh|the LORD⟧,
 
 [36] but he who fails to find me injures himself;
 all who hate me love death."

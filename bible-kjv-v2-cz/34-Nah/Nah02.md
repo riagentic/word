@@ -6,8 +6,8 @@ střež cestu;
 připrav se k boji;
 sober všechnu svou sílu.
 
-[2] Neboť Yahweh obnovuje velebnost Jacoba
-jako velebnost Israele,
+[2] Neboť ⟦yhwh|Jahve|Hospodin⟧ obnovuje velebnost ⟦jacob|Jaakova|Jákoba⟧
+jako velebnost ⟦israel|Jisraele|Izraele⟧,
 neboť plenitelé je vyplenili
 a zničili jejich ratolesti.
 
@@ -36,7 +36,7 @@ její otrokyně naříkají,
 úpí jako holubice
 a bijí se v prsa.
 
-[8] Nineveh je jako nádrž,
+[8] ⟦nineveh|Ninve|Ninive⟧ je jako nádrž,
 z níž unikají vody.
 „Stůjte! Stůjte!“ volají,
 ale nikdo se neobrací zpět.
@@ -60,7 +60,7 @@ a škrtil kořist pro své lvice;
 plnil své jeskyně kořistí
 a svá doupata rozsápaným masem.
 
-[13] Hle, jsem proti tobě, praví Yahweh zástupů,
+[13] Hle, jsem proti tobě, praví ⟦yhwh|Jahve|Hospodin⟧ zástupů,
 spálím tvé vozy v dým
 a meč pohltí tvé mladé lvy.
 Vyhladím tvou kořist ze země

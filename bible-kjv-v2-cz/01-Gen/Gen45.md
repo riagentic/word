@@ -1,38 +1,38 @@
 # Genesis 45
 
-[1] Tu se Joseph už nedokázal ovládnout před všemi, kdo stáli kolem něho, a zvolal: „Ať všichni ode mne odejdou!“ A tak s ním nikdo nestál, když se Joseph dal poznat svým bratrům.
+[1] Tu se Josef už nedokázal ovládnout před všemi, kdo stáli kolem něho, a zvolal: „Ať všichni ode mne odejdou!“ A tak s ním nikdo nestál, když se Josef dal poznat svým bratrům.
 
-[2] A hlasitě se rozplakal, a Egypťané to slyšeli a slyšel to i Pharaohův dům.
+[2] A hlasitě se rozplakal, a ⟦egyptians|Micrim|Egypťané⟧ to slyšeli a slyšel to i ⟦pharaoh|Parohův|faraónův⟧ dům.
 
-[3] Tu Joseph řekl svým bratrům: „Já jsem Joseph! Žije ještě můj otec?“ Ale jeho bratři mu nedokázali odpovědět, neboť byli v jeho přítomnosti zděšeni.
+[3] Tu Josef řekl svým bratrům: „Já jsem Josef! Žije ještě můj otec?“ Ale jeho bratři mu nedokázali odpovědět, neboť byli v jeho přítomnosti zděšeni.
 
-[4] Joseph řekl svým bratrům: „Přistupte, prosím, ke mně.“ Přistoupili tedy. A řekl: „Já jsem Joseph, váš bratr, kterého jste prodali do Egypta.
+[4] Josef řekl svým bratrům: „Přistupte, prosím, ke mně.“ Přistoupili tedy. A řekl: „Já jsem Josef, váš bratr, kterého jste prodali do ⟦egypt|Micrajim|Egypta⟧.
 
-[5] A nyní se netrapte a nezlobte se na sebe, že jste mě sem prodali; neboť *Elohim* mě poslal před vámi, abych zachoval život.
+[5] A nyní se netrapte a nezlobte se na sebe, že jste mě sem prodali; neboť ⟦elohim|Elohim|Bůh⟧ mě poslal před vámi, abych zachoval život.
 
 [6] Hlad je totiž v zemi už dva roky a zbývá ještě pět let, kdy nebude orba ani žeň.
 
-[7] *Elohim* mě poslal před vámi, aby vám zachoval ostatek na zemi a zachránil vaše životy velikým vysvobozením.
+[7] ⟦elohim|Elohim|Bůh⟧ mě poslal před vámi, aby vám zachoval ostatek na zemi a zachránil vaše životy velikým vysvobozením.
 
-[8] Nyní tedy, nebyli jste to vy, kdo mě sem poslal, ale *Elohim*; a učinil mě otcem Pharaohovi, pánem celého jeho domu a vládcem nad celou egyptskou zemí.
+[8] Nyní tedy, nebyli jste to vy, kdo mě sem poslal, ale ⟦elohim|Elohim|Bůh⟧; a učinil mě otcem ⟦pharaoh|Parohovi|faraónovi⟧, pánem celého jeho domu a vládcem nad celou egyptskou zemí.
 
-[9] Pospěšte si a jděte nahoru k mému otci a řekněte mu: ‚Toto praví tvůj syn Joseph: *Elohim* mě učinil pánem celého Egypta. Sestup ke mně; neotálej.
+[9] Pospěšte si a jděte nahoru k mému otci a řekněte mu: ‚Toto praví tvůj syn Josef: ⟦elohim|Elohim|Bůh⟧ mě učinil pánem celého ⟦egypt|Micrajim|Egypta⟧. Sestup ke mně; neotálej.
 
-[10] Budeš bydlet v zemi Goshen a budeš blízko mne – ty, tvé děti, tvá vnoučata, tvá stáda ovcí, tvá stáda skotu a všechno, co máš.
+[10] Budeš bydlet v zemi Gošen a budeš blízko mne – ty, tvé děti, tvá vnoučata, tvá stáda ovcí, tvá stáda skotu a všechno, co máš.
 
 [11] Budu tě tam živit, neboť ještě zbývá pět let hladu – abys nepřišel na mizinu ty, tvá domácnost a všechno, co máš.‘
 
-[12] Hle, vaše vlastní oči vidí i oči mého bratra Benjamina, že to jsou má ústa, která k vám mluví.
+[12] Hle, vaše vlastní oči vidí i oči mého bratra ⟦benjamin|Binjamina|Benjamína⟧, že to jsou má ústa, která k vám mluví.
 
-[13] Povězte mému otci o vší mé slávě v Egyptě a o všem, co jste viděli; a pospěšte si a přiveďte sem mého otce.“
+[13] Povězte mému otci o vší mé slávě v ⟦egypt|Micrajim|Egyptě⟧ a o všem, co jste viděli; a pospěšte si a přiveďte sem mého otce.“
 
-[14] Potom padl svému bratru Benjaminovi kolem krku a plakal, a Benjamin plakal na jeho krku.
+[14] Potom padl svému bratru ⟦benjamin|Binjaminovi|Benjamínovi⟧ kolem krku a plakal, a ⟦benjamin|Binjamin|Benjamín⟧ plakal na jeho krku.
 
 [15] Políbil všechny své bratry a plakal nad nimi; a potom s ním jeho bratři mluvili.
 
-[16] V Pharaohově domě se rozneslo: „Přišli Josephovi bratři.“ Líbilo se to Pharaohovi i jeho služebníkům.
+[16] V ⟦pharaoh|Parohově|faraónově⟧ domě se rozneslo: „Přišli Josefovi bratři.“ Líbilo se to ⟦pharaoh|Parohovi|faraónovi⟧ i jeho služebníkům.
 
-[17] Pharaoh řekl Josephovi: „Řekni svým bratrům: ‚Udělejte toto: naložte svá zvířata a jděte, vstupte do země Canaan;
+[17] ⟦pharaoh|Paro|Farao⟧ řekl Josefovi: „Řekni svým bratrům: ‚Udělejte toto: naložte svá zvířata a jděte, vstupte do země Kenaan;
 
 [18] vezměte svého otce a své domácnosti a přijďte ke mně. Dám vám to nejlepší z egyptské země a budete jíst tuk země.‘
 
@@ -40,21 +40,21 @@
 
 [20] Nelitujte svého majetku, neboť to nejlepší z celé egyptské země je vaše.‘“
 
-[21] A synové Israele tak učinili; Joseph jim dal vozy podle Pharaohova rozkazu a dal jim zásoby na cestu.
+[21] A synové ⟦israel|Jisraele|Izraele⟧ tak učinili; Josef jim dal vozy podle ⟦pharaoh|Parohova|faraónova⟧ rozkazu a dal jim zásoby na cestu.
 
-[22] Každému z nich dal šaty na převlečení, ale Benjaminovi dal 300 stříbrných a pět šatů na převlečení.
+[22] Každému z nich dal šaty na převlečení, ale ⟦benjamin|Binjaminovi|Benjamínovi⟧ dal 300 stříbrných a pět šatů na převlečení.
 
-[23] A svému otci poslal toto: deset oslů naložených dobrými věcmi Egypta a deset oslic naložených obilím, chlebem a živobytím pro svého otce na cestu.
+[23] A svému otci poslal toto: deset oslů naložených dobrými věcmi ⟦egypt|Micrajim|Egypta⟧ a deset oslic naložených obilím, chlebem a živobytím pro svého otce na cestu.
 
 [24] Tak propustil své bratry a oni odešli; a řekl jim: „Nehádejte se na cestě.“
 
-[25] Vystoupili tedy z Egypta a přišli do země Canaan k Jacobovi, svému otci.
+[25] Vystoupili tedy z ⟦egypt|Micrajim|Egypta⟧ a přišli do země Kenaan k ⟦jacob|Jaakovovi|Jákobovi⟧, svému otci.
 
-[26] Oznámili mu: „Joseph ještě žije, a dokonce je vládcem nad celou egyptskou zemí.“ Ale jeho srdce ochablo, neboť jim nevěřil.
+[26] Oznámili mu: „Josef ještě žije, a dokonce je vládcem nad celou egyptskou zemí.“ Ale jeho srdce ochablo, neboť jim nevěřil.
 
-[27] Když mu vyprávěli všechna Josephova slova, která jim řekl, a když uviděl vozy, které Joseph poslal, aby ho převezly, ožil duch Jacoba, jejich otce.
+[27] Když mu vyprávěli všechna Josefova slova, která jim řekl, a když uviděl vozy, které Josef poslal, aby ho převezly, ožil duch ⟦jacob|Jaakova|Jákoba⟧, jejich otce.
 
-[28] Israel řekl: „Dost; můj syn Joseph ještě žije. Půjdu a uvidím ho, než zemřu.“
+[28] ⟦israel|Jisrael|Izrael⟧ řekl: „Dost; můj syn Josef ještě žije. Půjdu a uvidím ho, než zemřu.“
 
 ## Změny
 

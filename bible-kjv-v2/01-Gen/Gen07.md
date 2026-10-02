@@ -1,6 +1,6 @@
 # Genesis 7
 
-[1] Then Yahweh said to Noah, "Come, you and all your household, into the ark, for I have seen that you are righteous before me in this generation.
+[1] Then ⟦yhwh|Yahweh|the LORD⟧ said to ⟦noah|Noach|Noah⟧, "Come, you and all your household, into the ark, for I have seen that you are righteous before me in this generation.
 
 [2] Of every clean animal take with you seven pairs, the male and his female; and of the animals that are not clean, a pair, the male and his female;
 
@@ -8,29 +8,29 @@
 
 [4] For in seven more days I will send rain on the earth forty days and forty nights, and I will wipe from the face of the ground every living thing that I have made."
 
-[5] And Noah did all that Yahweh commanded him.
+[5] And ⟦noah|Noach|Noah⟧ did all that ⟦yhwh|Yahweh|the LORD⟧ commanded him.
 
-[6] Noah was 600 years old when the flood of waters came on the earth.
+[6] ⟦noah|Noach|Noah⟧ was 600 years old when the flood of waters came on the earth.
 
-[7] Noah went in, and his sons, his wife, and his sons' wives with him, into the ark, because of the waters of the flood.
+[7] ⟦noah|Noach|Noah⟧ went in, and his sons, his wife, and his sons' wives with him, into the ark, because of the waters of the flood.
 
 [8] Of the clean animals, and of the animals that are not clean, and of the birds, and of everything that creeps on the ground,
 
-[9] two by two they went in to Noah into the ark, male and female, as *Elohim* had commanded Noah.
+[9] two by two they went in to ⟦noah|Noach|Noah⟧ into the ark, male and female, as ⟦elohim|Elohim|God⟧ had commanded ⟦noah|Noach|Noah⟧.
 
 [10] And after seven days the waters of the flood came on the earth.
 
-[11] In the 600th year of Noah's life, in the second month, on the 17th day of the month — on that very day all the springs of the great deep burst forth, and the windows of the heavens were opened.
+[11] In the 600th year of ⟦noah|Noach's|Noah's⟧ life, in the second month, on the 17th day of the month — on that very day all the springs of the great deep burst forth, and the windows of the heavens were opened.
 
 [12] The rain was on the earth forty days and forty nights.
 
-[13] On that very day Noah entered the ark, with Shem, Ham, and Japheth, the sons of Noah, and Noah's wife and the three wives of his sons with them,
+[13] On that very day ⟦noah|Noach|Noah⟧ entered the ark, with Shem, ⟦ham|Cham|Ham⟧, and ⟦japheth|Yefet|Japheth⟧, the sons of ⟦noah|Noach|Noah⟧, and ⟦noah|Noach's|Noah's⟧ wife and the three wives of his sons with them,
 
 [14] they and every wild animal according to its kind, and all the livestock according to their kinds, and every creeping thing that creeps on the earth according to its kind, and every bird according to its kind — every winged creature.
 
-[15] They went in to Noah into the ark, two by two of all flesh in which was the breath of life.
+[15] They went in to ⟦noah|Noach|Noah⟧ into the ark, two by two of all flesh in which was the breath of life.
 
-[16] Those that entered, male and female of all flesh, went in as *Elohim* had commanded him; and Yahweh shut him in.
+[16] Those that entered, male and female of all flesh, went in as ⟦elohim|Elohim|God⟧ had commanded him; and ⟦yhwh|Yahweh|the LORD⟧ shut him in.
 
 [17] The flood came on the earth for forty days; and the waters increased and lifted up the ark, and it rose above the earth.
 
@@ -44,7 +44,7 @@
 
 [22] Everything in whose nostrils was the breath of the spirit of life, of all that was on the dry land, died.
 
-[23] He wiped out every living thing that was on the face of the ground — from humans to livestock, to creeping things, and to the birds of the heavens — they were wiped from the earth. Only Noah remained, and those with him in the ark.
+[23] He wiped out every living thing that was on the face of the ground — from humans to livestock, to creeping things, and to the birds of the heavens — they were wiped from the earth. Only ⟦noah|Noach|Noah⟧ remained, and those with him in the ark.
 
 [24] And the waters grew strong on the earth 150 days.
 

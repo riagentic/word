@@ -1,22 +1,22 @@
 # Genesis 3
 
-[1] Now the serpent was more shrewd than any wild animal of the field that Yahweh *Elohim* had made. He said to the woman, "Did *Elohim* really say, 'You shall not eat from any tree of the garden'?"
+[1] Now the serpent was more shrewd than any wild animal of the field that ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ had made. He said to the woman, "Did ⟦elohim|Elohim|God⟧ really say, 'You shall not eat from any tree of the garden'?"
 
 [2] The woman said to the serpent, "We may eat from the fruit of the trees of the garden;
 
-[3] but of the fruit of the tree that is in the middle of the garden, *Elohim* has said, 'You shall not eat of it, and you shall not touch it, or you will die.'"
+[3] but of the fruit of the tree that is in the middle of the garden, ⟦elohim|Elohim|God⟧ has said, 'You shall not eat of it, and you shall not touch it, or you will die.'"
 
 [4] The serpent said to the woman, "You will not surely die.
 
-[5] For *Elohim* knows that on the day you eat of it your eyes will be opened, and you will be like *Elohim*, knowing good and bad."
+[5] For ⟦elohim|Elohim|God⟧ knows that on the day you eat of it your eyes will be opened, and you will be like ⟦elohim|Elohim|God⟧, knowing good and bad."
 
 [6] When the woman saw that the tree was good for food and a delight to the eyes, and that the tree was desirable for gaining insight, she took of its fruit and ate; and she gave some also to her husband with her, and he ate.
 
 [7] Then the eyes of both were opened, and they knew that they were naked; and they sewed fig leaves together and made themselves loincloths.
 
-[8] Then they heard the sound of Yahweh *Elohim* walking about in the garden at the breeze of the day, and the human and his wife hid themselves from the face of Yahweh *Elohim* among the trees of the garden.
+[8] Then they heard the sound of ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ walking about in the garden at the breeze of the day, and the human and his wife hid themselves from the face of ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ among the trees of the garden.
 
-[9] Yahweh *Elohim* called to the human and said to him, "Where are you?"
+[9] ⟦yhwh|Yahweh|The LORD⟧ ⟦elohim|Elohim|God⟧ called to the human and said to him, "Where are you?"
 
 [10] He said, "I heard your sound in the garden, and I was afraid because I was naked; and I hid myself."
 
@@ -24,9 +24,9 @@
 
 [12] The human said, "The woman whom you gave to be with me — she gave me from the tree, and I ate."
 
-[13] Then Yahweh *Elohim* said to the woman, "What is this that you have done?" The woman said, "The serpent deceived me, and I ate."
+[13] Then ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ said to the woman, "What is this that you have done?" The woman said, "The serpent deceived me, and I ate."
 
-[14] Yahweh *Elohim* said to the serpent,
+[14] ⟦yhwh|Yahweh|The LORD⟧ ⟦elohim|Elohim|God⟧ said to the serpent,
 
 "Because you have done this,
 cursed are you more than all livestock
@@ -64,15 +64,15 @@ for from it you were taken;
 for dust you are,
 and to dust you shall return."
 
-[20] The human named his wife Eve, because she was the mother of all the living.
+[20] The human named his wife ⟦eve|Chavvah|Eve⟧, because she was the mother of all the living.
 
-[21] Yahweh *Elohim* made tunics of skin for the human and his wife, and clothed them.
+[21] ⟦yhwh|Yahweh|The LORD⟧ ⟦elohim|Elohim|God⟧ made tunics of skin for the human and his wife, and clothed them.
 
-[22] Then Yahweh *Elohim* said, "Look, the human has become like one of us, knowing good and bad. Now, let him not put out his hand and also take from the tree of life, and eat, and live forever" —
+[22] Then ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ said, "Look, the human has become like one of us, knowing good and bad. Now, let him not put out his hand and also take from the tree of life, and eat, and live forever" —
 
-[23] so Yahweh *Elohim* sent him out from the garden of Eden, to work the ground from which he was taken.
+[23] so ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ sent him out from the garden of Eden, to work the ground from which he was taken.
 
-[24] He drove the human out; and east of the garden of Eden he stationed the cherubim, and the flame of the ever-turning sword, to guard the way to the tree of life.
+[24] He drove the human out; and east of the garden of Eden he stationed the ⟦cherubim|keruvim|cherubim⟧, and the flame of the ever-turning sword, to guard the way to the tree of life.
 
 ## Changes
 

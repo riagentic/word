@@ -1,49 +1,49 @@
 # Soudců 15
 
-[1] Po nějaké době, v čase žně pšenice, navštívil Samson svou ženu s kůzletem. Řekl: „Vejdu ke své ženě do komnaty.“ Ale její otec ho nechtěl pustit dovnitř.
+[1] Po nějaké době, v čase žně pšenice, navštívil ⟦samson|Šimšon|Samson⟧ svou ženu s kůzletem. Řekl: „Vejdu ke své ženě do komnaty.“ Ale její otec ho nechtěl pustit dovnitř.
 
 [2] Její otec řekl: „Opravdu jsem si myslel, že ji docela nenávidíš, a tak jsem ji dal tvému druhovi. Není její mladší sestra krásnější než ona? Vezmi si prosím místo ní ji.“
 
-[3] Samson jim řekl: „Tentokrát budu bez viny vůči Philistinům, když jim udělám zlé.“
+[3] ⟦samson|Šimšon|Samson⟧ jim řekl: „Tentokrát budu bez viny vůči ⟦philistines|Pelištim|Pelištejcům⟧, když jim udělám zlé.“
 
-[4] Samson šel a pochytal tři sta lišek; vzal pochodně, obrátil lišky ocasem k ocasu a mezi každé dva ocasy dal pochodeň.
+[4] ⟦samson|Šimšon|Samson⟧ šel a pochytal tři sta lišek; vzal pochodně, obrátil lišky ocasem k ocasu a mezi každé dva ocasy dal pochodeň.
 
-[5] Když pochodně zapálil, vypustil lišky do stojícího obilí Philistinů; spálil snopy i stojící obilí, a také vinice a olivové háje.
+[5] Když pochodně zapálil, vypustil lišky do stojícího obilí ⟦philistines|Pelištim|Pelištejců⟧; spálil snopy i stojící obilí, a také vinice a olivové háje.
 
-[6] Tu se Philistini ptali: „Kdo to udělal?“ Odpověděli: „Samson, zeť Timnity, protože ten mu vzal ženu a dal ji jeho druhovi.“ Philistini tedy přitáhli a spálili ohněm ji i jejího otce.
+[6] Tu se ⟦philistines|Pelištim|Pelištejci⟧ ptali: „Kdo to udělal?“ Odpověděli: „⟦samson|Šimšon|Samson⟧, zeť ⟦timnite|Timni|Timnijce⟧, protože ten mu vzal ženu a dal ji jeho druhovi.“ ⟦philistines|Pelištim|Pelištejci⟧ tedy přitáhli a spálili ohněm ji i jejího otce.
 
-[7] Samson jim řekl: „Když jednáte takto, jistě se vám pomstím, a potom přestanu.“
+[7] ⟦samson|Šimšon|Samson⟧ jim řekl: „Když jednáte takto, jistě se vám pomstím, a potom přestanu.“
 
-[8] Pobil je, bil je do lýtek i stehen, velikou porážkou. Potom sestoupil a bydlel v rozsedlině skály Etam.
+[8] Pobil je, bil je do lýtek i stehen, velikou porážkou. Potom sestoupil a bydlel v rozsedlině skály ⟦etam|Ejtam|Étam⟧.
 
-[9] Philistini vytáhli, utábořili se v Judahu a rozložili se v Lehi.
+[9] ⟦philistines|Pelištim|Pelištejci⟧ vytáhli, utábořili se v ⟦judah|Jehudě|Judě⟧ a rozložili se v ⟦lehi|Lechi|Lechí⟧.
 
-[10] Muži Judahu řekli: „Proč jste proti nám vytáhli?“ Odpověděli: „Vytáhli jsme, abychom svázali Samsona a udělali mu, jak on udělal nám.“
+[10] Muži ⟦judah|Jehudy|Judy⟧ řekli: „Proč jste proti nám vytáhli?“ Odpověděli: „Vytáhli jsme, abychom svázali ⟦samson|Šimšona|Samsona⟧ a udělali mu, jak on udělal nám.“
 
-[11] Tehdy tři tisíce mužů z Judahu sestoupilo k rozsedlině skály Etam a řekli Samsonovi: „Což nevíš, že nad námi vládnou Philistini? Co jsi nám to udělal?“ Řekl jim: „Jak oni udělali mně, tak jsem já udělal jim.“
+[11] Tehdy tři tisíce mužů z ⟦judah|Jehudy|Judy⟧ sestoupilo k rozsedlině skály ⟦etam|Ejtam|Étam⟧ a řekli ⟦samson|Šimšonovi|Samsonovi⟧: „Což nevíš, že nad námi vládnou ⟦philistines|Pelištim|Pelištejci⟧? Co jsi nám to udělal?“ Řekl jim: „Jak oni udělali mně, tak jsem já udělal jim.“
 
-[12] Řekli mu: „Sestoupili jsme, abychom tě svázali a vydali tě do ruky Philistinů.“ Samson jim řekl: „Přísahejte mi, že se na mě sami nevrhnete.“
+[12] Řekli mu: „Sestoupili jsme, abychom tě svázali a vydali tě do ruky ⟦philistines|Pelištim|Pelištejců⟧.“ ⟦samson|Šimšon|Samson⟧ jim řekl: „Přísahejte mi, že se na mě sami nevrhnete.“
 
 [13] Řekli mu: „Ne, jen tě svážeme a vydáme do jejich ruky; jistě tě nezabijeme.“ Svázali ho tedy dvěma novými provazy a vyvedli ho nahoru ze skály.
 
-[14] Když přišel do Lehi, Philistini s křikem vyrazili proti němu; a duch Yahweh se na něj řítil a provazy, které měl na pažích, byly jako len, který chytil oheň, a jeho pouta mu z rukou spadla, jako by roztála.
+[14] Když přišel do ⟦lehi|Lechi|Lechí⟧, ⟦philistines|Pelištim|Pelištejci⟧ s křikem vyrazili proti němu; a duch ⟦yhwh|Jahveho|Hospodina⟧ se na něj řítil a provazy, které měl na pažích, byly jako len, který chytil oheň, a jeho pouta mu z rukou spadla, jako by roztála.
 
 [15] Našel čerstvou oslí čelist; vztáhl ruku, vzal ji a pobil jí tisíc mužů.
 
-[16] Samson řekl:
+[16] ⟦samson|Šimšon|Samson⟧ řekl:
 
 „Oslí čelistí –
 hromada na hromadě!
 Oslí čelistí
 jsem pobil tisíc mužů!“
 
-[17] Když domluvil, odhodil čelist z ruky; a to místo bylo nazváno Ramath-lehi – „Pahorek čelisti“.
+[17] Když domluvil, odhodil čelist z ruky; a to místo bylo nazváno ⟦ramath-lehi|Ramat Lechi|Ramat-lechí⟧ – „Pahorek čelisti“.
 
-[18] Velmi žíznil, i volal k Yahweh a řekl: „Ty jsi dal tuto velikou záchranu do ruky svého služebníka. Mám teď zemřít žízní a padnout do ruky neobřezaných?“
+[18] Velmi žíznil, i volal k ⟦yhwh|Jahvovi|Hospodinu⟧ a řekl: „Ty jsi dal tuto velikou záchranu do ruky svého služebníka. Mám teď zemřít žízní a padnout do ruky neobřezaných?“
 
-[19] Tu *Elohim* rozpoltil prohlubeň, která je v Lehi, a vyšla z ní voda. Když se napil, vrátil se mu duch a ožil. Proto ji nazval En-hakkore („pramen toho, kdo volal“); je v Lehi až do dnešního dne.
+[19] Tu ⟦elohim|Elohim|Bůh⟧ rozpoltil prohlubeň, která je v ⟦lehi|Lechi|Lechí⟧, a vyšla z ní voda. Když se napil, vrátil se mu duch a ožil. Proto ji nazval ⟦en-hakkore|Ejn HaKore|Én-hakóre⟧ („pramen toho, kdo volal“); je v ⟦lehi|Lechi|Lechí⟧ až do dnešního dne.
 
-[20] Soudil Israel ve dnech Philistinů dvacet let.
+[20] Soudil ⟦israel|Jisrael|Izrael⟧ ve dnech ⟦philistines|Pelištim|Pelištejců⟧ dvacet let.
 
 ## Změny
 

@@ -58,7 +58,7 @@ and he who guards his master will be honored.
 [19] As in water face reflects face,
 so the heart of man reflects the man.
 
-[20] Sheol and Abaddon are never satisfied,
+[20] Sheol and ⟦abaddon|Avaddon|Abaddon⟧ are never satisfied,
 and never satisfied are the eyes of man.
 
 [21] The crucible is for silver, and the furnace is for gold,

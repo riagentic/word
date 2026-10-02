@@ -16,7 +16,7 @@
 
 [8] Nebudeš brát úplatek, neboť úplatek oslepuje vidoucí a převrací věc spravedlivých.
 
-[9] Nebudeš utiskovat přistěhovalce; vy sami znáte život přistěhovalce, neboť jste byli přistěhovalci v egyptské zemi.
+[9] Nebudeš utiskovat přistěhovalce; vy sami znáte život přistěhovalce, neboť jste byli přistěhovalci v ⟦egypt|zemi Micrajim|egyptské zemi⟧.
 
 [10] Šest let budeš osévat svou zemi a sklízet její výnos;
 
@@ -28,15 +28,15 @@
 
 [14] Třikrát do roka mi budeš slavit slavnost.
 
-[15] Budeš dodržovat slavnost nekvašených chlebů. (Sedm dní budeš jíst nekvašené chleby, jak jsem ti přikázal, v určený čas měsíce Aviv; neboť v něm jsi vyšel z Egypta. Nikdo se přede mnou neukáže s prázdnou.)
+[15] Budeš dodržovat slavnost ⟦unleavened-bread|Macot|nekvašených chlebů⟧. (Sedm dní budeš jíst nekvašené chleby, jak jsem ti přikázal, v určený čas měsíce ⟦abib|Aviv|ábíb⟧; neboť v něm jsi vyšel z ⟦egypt|Micrajim|Egypta⟧. Nikdo se přede mnou neukáže s prázdnou.)
 
 [16] A slavnost žně, prvotin tvé práce, toho, co oséváš na poli. A slavnost sklizně na konci roku, když sklízíš plody své práce z pole.
 
-[17] Třikrát do roka se všichni tvoji muži ukážou před Pánem Yahweh.
+[17] Třikrát do roka se všichni tvoji muži ukážou před ⟦adonai-yhwh|Pánem Jahvem|Pánem Hospodinem⟧.
 
 [18] Nebudeš obětovat krev mé oběti s ničím kvašeným; ani tuk mé slavnosti nezůstane do rána.
 
-[19] To nejlepší z prvotin své země přineseš do domu Yahweh, svého *Elohim*. Nebudeš vařit kůzle v mléce jeho matky.
+[19] To nejlepší z prvotin své země přineseš do domu ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧. Nebudeš vařit kůzle v mléce jeho matky.
 
 [20] Hle, posílám před tebou posla, aby tě střežil na cestě a přivedl tě na místo, které jsem připravil.
 
@@ -44,23 +44,23 @@
 
 [22] Budeš-li však opravdu poslouchat jeho hlas a činit všechno, co říkám, budu nepřítelem tvých nepřátel a protivníkem tvých protivníků.
 
-[23] Neboť můj posel půjde před tebou a přivede tě k Amoritům, Hittitům, Perizzitům, Canaanitům, Hivitům a Jebusitům, a já je vyhladím.
+[23] Neboť můj posel půjde před tebou a přivede tě k ⟦amorites|Emorim|Emorejcům⟧, ⟦hittites|Chittim|Chetejcům⟧, ⟦perizzites|Perizzim|Perizejcům⟧, ⟦canaanites|Kenaanim|Kenaancům⟧, ⟦hivites|Chivvim|Chivejcům⟧ a ⟦jebusites|Jevusim|Jebúsejcům⟧, a já je vyhladím.
 
 [24] Nebudeš se klanět jejich bohům ani jim sloužit ani jednat podle jejich skutků; ale úplně je zboříš a jejich posvátné sloupy roztříštíš na kusy.
 
-[25] Budete sloužit Yahweh, svému *Elohim*, a on požehná tvůj chléb i tvou vodu. A odstraním nemoc z tvého středu.
+[25] Budete sloužit ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧, a on požehná tvůj chléb i tvou vodu. A odstraním nemoc z tvého středu.
 
 [26] V tvé zemi nebude žádná, která by potratila nebo byla neplodná; počet tvých dní naplním.
 
 [27] Pošlu před tebou svou hrůzu a uvrhnu do zmatku všechny národy, k nimž přijdeš; a způsobím, že se k tobě všichni tvoji nepřátelé obrátí zády.
 
-[28] A pošlu před tebou sršeň, který před tebou vyžene Hivitu, Canaanitu a Hittitu.
+[28] A pošlu před tebou sršeň, který před tebou vyžene ⟦hivite|Chivvi|Chivejce⟧, ⟦canaanites|Kenaani|Kenaance⟧ a ⟦hittite|Chitti|Chetejce⟧.
 
 [29] Nevyženu je před tebou za jeden rok, aby země nezpustla a divoká zvěř se proti tobě nerozmnožila.
 
 [30] Pomalu, kousek po kousku je před tebou vyženu, dokud se nerozmnožíš a nezmocníš se země.
 
-[31] Stanovím tvé hranice od Rákosového moře až k Moři Philistinů a od pouště až k Řece; neboť ti vydám do rukou obyvatele země a ty je před sebou vyženeš.
+[31] Stanovím tvé hranice od Rákosového moře až k Moři ⟦philistines|Pelištim|Pelištejců⟧ a od pouště až k Řece; neboť ti vydám do rukou obyvatele země a ty je před sebou vyženeš.
 
 [32] Neuzavřeš smlouvu s nimi ani s jejich bohy.
 

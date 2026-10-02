@@ -1,6 +1,6 @@
 # Exodus 40
 
-[1] Yahweh spoke to Moses, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
 [2] "On the first day of the first month you shall set up the dwelling of the Tent of Meeting.
 
@@ -22,59 +22,59 @@
 
 [11] You shall anoint the basin and its stand, and consecrate it.
 
-[12] You shall bring Aaron and his sons to the entrance of the Tent of Meeting, and wash them with water.
+[12] You shall bring ⟦aaron|Aharon|Aaron⟧ and his sons to the entrance of the Tent of Meeting, and wash them with water.
 
-[13] You shall put on Aaron the holy garments, and anoint him, and consecrate him, that he may serve me as priest.
+[13] You shall put on ⟦aaron|Aharon|Aaron⟧ the holy garments, and anoint him, and consecrate him, that he may serve me as priest.
 
 [14] You shall bring his sons and clothe them with tunics,
 
 [15] and anoint them as you anointed their father, that they may serve me as priests. Their anointing shall be to them for an everlasting priesthood throughout their generations."
 
-[16] Moses did so; according to all that Yahweh commanded him, so he did.
+[16] ⟦moses|Moshe|Moses⟧ did so; according to all that ⟦yhwh|Yahweh|the LORD⟧ commanded him, so he did.
 
 [17] In the first month of the second year, on the first day of the month, the dwelling was set up.
 
-[18] Moses set up the dwelling — laid its sockets, set up its frames, put in its bars, and raised up its pillars.
+[18] ⟦moses|Moshe|Moses⟧ set up the dwelling — laid its sockets, set up its frames, put in its bars, and raised up its pillars.
 
-[19] He spread the tent over the dwelling, and put the covering of the tent over it above — as Yahweh commanded Moses.
+[19] He spread the tent over the dwelling, and put the covering of the tent over it above — as ⟦yhwh|Yahweh|the LORD⟧ commanded ⟦moses|Moshe|Moses⟧.
 
-[20] He took the Testimony and put it into the ark, and set the poles on the ark, and put the mercy seat above on the ark.
+[20] He took the Testimony and put it into the ark, and set the poles on the ark, and put the ⟦mercy-seat|kapporet|mercy seat⟧ above on the ark.
 
-[21] He brought the ark into the dwelling, and set up the screening veil, and screened the ark of the Testimony — as Yahweh commanded Moses.
+[21] He brought the ark into the dwelling, and set up the screening veil, and screened the ark of the Testimony — as ⟦yhwh|Yahweh|the LORD⟧ commanded ⟦moses|Moshe|Moses⟧.
 
 [22] He put the table in the Tent of Meeting, on the north side of the dwelling, outside the veil;
 
-[23] and he arranged the bread upon it before Yahweh — as Yahweh had commanded Moses.
+[23] and he arranged the bread upon it before ⟦yhwh|Yahweh|the LORD⟧ — as ⟦yhwh|Yahweh|the LORD⟧ had commanded ⟦moses|Moshe|Moses⟧.
 
 [24] He put the lampstand in the Tent of Meeting, opposite the table, on the south side of the dwelling,
 
-[25] and set up the lamps before Yahweh — as Yahweh commanded Moses.
+[25] and set up the lamps before ⟦yhwh|Yahweh|the LORD⟧ — as ⟦yhwh|Yahweh|the LORD⟧ commanded ⟦moses|Moshe|Moses⟧.
 
 [26] He put the golden altar in the Tent of Meeting, before the veil,
 
-[27] and burned fragrant incense on it — as Yahweh commanded Moses.
+[27] and burned fragrant incense on it — as ⟦yhwh|Yahweh|the LORD⟧ commanded ⟦moses|Moshe|Moses⟧.
 
 [28] He set up the screen at the entrance of the dwelling.
 
-[29] He set the altar of burnt offering at the entrance of the dwelling of the Tent of Meeting, and offered on it the burnt offering and the grain offering — as Yahweh commanded Moses.
+[29] He set the altar of burnt offering at the entrance of the dwelling of the Tent of Meeting, and offered on it the burnt offering and the grain offering — as ⟦yhwh|Yahweh|the LORD⟧ commanded ⟦moses|Moshe|Moses⟧.
 
 [30] He set the basin between the Tent of Meeting and the altar, and put water in it for washing,
 
-[31] with which Moses, Aaron, and his sons washed their hands and their feet;
+[31] with which ⟦moses|Moshe|Moses⟧, ⟦aaron|Aharon|Aaron⟧, and his sons washed their hands and their feet;
 
-[32] when they went into the Tent of Meeting and when they came near the altar, they washed — as Yahweh commanded Moses.
+[32] when they went into the Tent of Meeting and when they came near the altar, they washed — as ⟦yhwh|Yahweh|the LORD⟧ commanded ⟦moses|Moshe|Moses⟧.
 
-[33] He raised up the court around the dwelling and the altar, and set up the screen at the gate of the court. So Moses finished the work.
+[33] He raised up the court around the dwelling and the altar, and set up the screen at the gate of the court. So ⟦moses|Moshe|Moses⟧ finished the work.
 
-[34] Then the cloud covered the Tent of Meeting, and the glory of Yahweh filled the dwelling.
+[34] Then the cloud covered the Tent of Meeting, and the glory of ⟦yhwh|Yahweh|the LORD⟧ filled the dwelling.
 
-[35] Moses was not able to enter the Tent of Meeting, because the cloud rested on it, and the glory of Yahweh filled the dwelling.
+[35] ⟦moses|Moshe|Moses⟧ was not able to enter the Tent of Meeting, because the cloud rested on it, and the glory of ⟦yhwh|Yahweh|the LORD⟧ filled the dwelling.
 
-[36] Whenever the cloud was lifted up from over the dwelling, the children of Israel would go onward throughout their journeys.
+[36] Whenever the cloud was lifted up from over the dwelling, the children of ⟦israel|Yisrael|Israel⟧ would go onward throughout their journeys.
 
 [37] But if the cloud was not lifted up, they did not set out until the day that it was lifted.
 
-[38] For the cloud of Yahweh was on the dwelling by day, and fire was in it by night, in the sight of all the house of Israel, throughout all their journeys.
+[38] For the cloud of ⟦yhwh|Yahweh|the LORD⟧ was on the dwelling by day, and fire was in it by night, in the sight of all the house of ⟦israel|Yisrael|Israel⟧, throughout all their journeys.
 
 ## Changes
 

@@ -1,35 +1,35 @@
 # Jeremjáš 4
 
-[1] „Jestliže se vrátíš, Israeli,
-je výrok Yahweh,
+[1] „Jestliže se vrátíš, ⟦israel|Jisraeli|Izraeli⟧,
+je výrok ⟦yhwh|Jahveho|Hospodina⟧,
 ke mně se máš vrátit.
 Jestliže odstraníš své ohavnosti z mé přítomnosti
 a nebudeš kolísat,
 
-[2] a budeš-li přísahat: ‚Jakože živ je Yahweh,‘
+[2] a budeš-li přísahat: ‚Jakože živ je ⟦yhwh|Jahve|Hospodin⟧,‘
 v pravdě, v právu a ve spravedlnosti,
 pak si v něm budou národy žehnat
 a v něm se budou chlubit.“
 
-[3] Neboť toto praví Yahweh mužům Judah a Jerusalemu:
+[3] Neboť toto praví ⟦yhwh|Jahve|Hospodin⟧ mužům ⟦judah|Jehudy|Judy⟧ a ⟦jerusalem|Jerušalajim|Jeruzaléma⟧:
 
 „Rozorejte si úhor
 a nesejte mezi trní.
 
-[4] Obřežte se pro Yahweh;
+[4] Obřežte se pro ⟦yhwh|Jahveho|Hospodina⟧;
 odstraňte předkožku svých srdcí,
-muži Judah a obyvatelé Jerusalemu;
+muži ⟦judah|Jehudy|Judy⟧ a obyvatelé ⟦jerusalem|Jerušalajim|Jeruzaléma⟧;
 aby můj hněv nevyšlehl jako oheň
 a nehořel tak, že ho nikdo neuhasí,
 pro zlo vašich skutků.“
 
-[5] Oznamte v Judah a vyhlaste v Jerusalemě
-a řekněte: „Troubte na polnici po celé zemi;
+[5] Oznamte v ⟦judah|Jehudě|Judě⟧ a vyhlaste v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧
+a řekněte: „Troubte na ⟦shofar|šofar|polnici⟧ po celé zemi;
 volejte plným hrdlem a říkejte:
 ‚Shromážděte se a pojďme
 do opevněných měst!‘
 
-[6] Vztyčte korouhev směrem k Zionu,
+[6] Vztyčte korouhev směrem k ⟦zion|Cijonu|Sijónu⟧,
 utečte do bezpečí, nezastavujte se,
 neboť přivádím pohromu od severu
 a velikou zkázu.
@@ -43,14 +43,14 @@ bez obyvatel.
 
 [8] Proto se oblečte do žíněného roucha,
 naříkejte a kvilte,
-neboť planoucí hněv Yahweh
+neboť planoucí hněv ⟦yhwh|Jahveho|Hospodina⟧
 se od nás neodvrátil.“
 
-[9] „V ten den, je výrok Yahweh, selže odvaha králi i hodnostářům. Kněží budou zděšeni a proroci ohromeni.“
+[9] „V ten den, je výrok ⟦yhwh|Jahveho|Hospodina⟧, selže odvaha králi i hodnostářům. Kněží budou zděšeni a proroci ohromeni.“
 
-[10] Tu jsem řekl: „Ach, Pane Yahweh, jistě jsi naprosto oklamal tento lid i Jerusalem, když jsi říkal: ‚Bude vám dobře,‘ zatímco meč dosáhl až na jejich samotný život.“
+[10] Tu jsem řekl: „Ach, ⟦adonai-yhwh|Pane Jahve|Panovníku Hospodine⟧, jistě jsi naprosto oklamal tento lid i ⟦jerusalem|Jerušalajim|Jeruzalém⟧, když jsi říkal: ‚Bude vám dobře,‘ zatímco meč dosáhl až na jejich samotný život.“
 
-[11] V tom čase se řekne tomuto lidu a Jerusalemu:
+[11] V tom čase se řekne tomuto lidu a ⟦jerusalem|Jerušalajim|Jeruzalému⟧:
 „Žhavý vítr z holých výšin v poušti
 směrem k dceři mého lidu –
 ne aby převíval nebo čistil,
@@ -63,22 +63,22 @@ jeho vozy jako vichřice;
 jeho koně jsou rychlejší než orli –
 běda nám, neboť jsme zničeni!
 
-[14] Jerusaleme, umyj své srdce od zla,
+[14] ⟦jerusalem|Jerušalajim|Jeruzaléme⟧, umyj své srdce od zla,
 abys byl zachráněn.
 Jak dlouho budou tvé svévolné myšlenky
 přebývat v tobě?
 
 [15] Neboť hlas oznamuje z Danu
-a vyhlašuje neštěstí z hory Ephraim.
+a vyhlašuje neštěstí z hory Efrajim.
 
 [16] Varujte národy, že přichází;
-ohlaste Jerusalemu:
+ohlaste ⟦jerusalem|Jerušalajim|Jeruzalému⟧:
 „Obléhatelé přicházejí z daleké země;
-pozvedají křik proti městům Judah.
+pozvedají křik proti městům ⟦judah|Jehudy|Judy⟧.
 
 [17] Jako strážci pole ji obklopují kolem dokola,
 protože se proti mně vzbouřila,
-je výrok Yahweh.
+je výrok ⟦yhwh|Jahveho|Hospodina⟧.
 
 [18] Tvé cesty a tvé skutky
 ti to přivodily.
@@ -89,7 +89,7 @@ zasáhl tě až do srdce.“
 Ach, stěny mého srdce!
 Mé srdce divoce buší;
 nemohu mlčet,
-neboť slyším zvuk polnice,
+neboť slyším zvuk ⟦shofar|šofaru|polnice⟧,
 válečný poplach.
 
 [20] Rána stíhá ránu,
@@ -98,7 +98,7 @@ Náhle jsou zpustošeny mé stany,
 v okamžiku mé stanové houně.
 
 [21] Jak dlouho musím vidět korouhev
-a slyšet zvuk polnice?
+a slyšet zvuk ⟦shofar|šofaru|polnice⟧?
 
 [22] „Neboť můj lid je pošetilý;
 neznají mě;
@@ -107,7 +107,7 @@ nemají rozum.
 Jsou moudří v páchání zla,
 ale jak činit dobro, nevědí.“
 
-[23] Pohleděl jsem na zemi, a hle, tohu va-vohu – beztvará a prázdná;
+[23] Pohleděl jsem na zemi, a hle, ⟦tohu-va-vohu|tohu va-vohu – beztvará a prázdná|pustá a prázdná⟧;
 a na nebesa, a neměla světlo.
 
 [24] Pohleděl jsem na hory, a hle, chvěly se,
@@ -118,9 +118,9 @@ a všichni ptáci nebes uletěli.
 
 [26] Pohleděl jsem, a hle, úrodná země byla pouští
 a všechna její města byla obrácena v trosky
-před Yahweh, před jeho planoucím hněvem.
+před ⟦yhwh|Jahvem|Hospodinem⟧, před jeho planoucím hněvem.
 
-[27] Neboť toto praví Yahweh:
+[27] Neboť toto praví ⟦yhwh|Jahve|Hospodin⟧:
 „Celá země bude zpustošením;
 avšak úplný konec neučiním.
 
@@ -145,7 +145,7 @@ usilují o tvůj život.
 
 [31] Neboť jsem slyšel křik jako ženy v porodních bolestech,
 úzkost jako té, která rodí své první dítě,
-křik dcery Zionu, jež lapá po dechu,
+křik dcery ⟦zion|Cijonu|Sijónu⟧, jež lapá po dechu,
 vztahuje ruce:
 „Běda mi! Omdlévám před vrahy.“
 

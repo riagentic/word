@@ -1,22 +1,22 @@
 # Ezekiel 13
 
-[1] The word of Yahweh came to me:
+[1] The word of ⟦yhwh|Yahweh|the LORD⟧ came to me:
 
-[2] "Son of man, prophesy against the prophets of Israel, who are prophesying, and say to those who prophesy from their own hearts: 'Hear the word of Yahweh!'
+[2] "Son of man, prophesy against the prophets of ⟦israel|Yisrael|Israel⟧, who are prophesying, and say to those who prophesy from their own hearts: 'Hear the word of ⟦yhwh|Yahweh|the LORD⟧!'
 
-[3] Thus says Lord Yahweh, Woe to the foolish prophets who follow their own spirit, and have seen nothing!
+[3] Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧, Woe to the foolish prophets who follow their own spirit, and have seen nothing!
 
-[4] Your prophets have been like jackals among ruins, O Israel.
+[4] Your prophets have been like jackals among ruins, O ⟦israel|Yisrael|Israel⟧.
 
-[5] You have not gone up into the breaches, or built up a wall for the house of Israel, that it might stand in battle in the day of Yahweh.
+[5] You have not gone up into the breaches, or built up a wall for the house of ⟦israel|Yisrael|Israel⟧, that it might stand in battle in the day of ⟦yhwh|Yahweh|the LORD⟧.
 
-[6] They have seen false visions and lying divinations. They say, 'Declares Yahweh,' when Yahweh has not sent them, and yet they expect him to fulfill their word.
+[6] They have seen false visions and lying divinations. They say, 'Declares ⟦yhwh|Yahweh|the LORD⟧,' when ⟦yhwh|Yahweh|the LORD⟧ has not sent them, and yet they expect him to fulfill their word.
 
-[7] Have you not seen a false vision and uttered a lying divination, whenever you have said, 'Declares Yahweh,' although I have not spoken?
+[7] Have you not seen a false vision and uttered a lying divination, whenever you have said, 'Declares ⟦yhwh|Yahweh|the LORD⟧,' although I have not spoken?
 
-[8] "Therefore thus says Lord Yahweh: Because you have uttered falsehood and seen lying visions, therefore behold, I am against you, declares Lord Yahweh.
+[8] "Therefore thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: Because you have uttered falsehood and seen lying visions, therefore behold, I am against you, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.
 
-[9] My hand will be against the prophets who see false visions and who give lying divinations. They shall not be in the council of my people, nor be enrolled in the register of the house of Israel, nor shall they enter the land of Israel. And you shall know that I am Lord Yahweh.
+[9] My hand will be against the prophets who see false visions and who give lying divinations. They shall not be in the council of my people, nor be enrolled in the register of the house of ⟦israel|Yisrael|Israel⟧, nor shall they enter the land of ⟦israel|Yisrael|Israel⟧. And you shall know that I am ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.
 
 [10] Precisely because they have misled my people, saying, 'Peace,' when there is no peace, and because, when the people build a wall, these prophets smear it with whitewash,
 
@@ -24,27 +24,27 @@
 
 [12] And when the wall falls, will it not be said to you, 'Where is the coating with which you smeared it?'
 
-[13] Therefore thus says Lord Yahweh: I will make a stormy wind break out in my wrath, and there shall be a deluge of rain in my anger, and great hailstones in wrath to make a full end.
+[13] Therefore thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: I will make a stormy wind break out in my wrath, and there shall be a deluge of rain in my anger, and great hailstones in wrath to make a full end.
 
-[14] And I will break down the wall that you have smeared with whitewash, and bring it down to the ground, so that its foundation will be laid bare. When it falls, you shall perish in the midst of it, and you shall know that I am Yahweh.
+[14] And I will break down the wall that you have smeared with whitewash, and bring it down to the ground, so that its foundation will be laid bare. When it falls, you shall perish in the midst of it, and you shall know that I am ⟦yhwh|Yahweh|the LORD⟧.
 
 [15] Thus will I spend my wrath upon the wall and upon those who have smeared it with whitewash, and I will say to you, The wall is no more, nor those who smeared it,
 
-[16] the prophets of Israel who prophesied concerning Jerusalem and saw visions of peace for her, when there was no peace, declares Lord Yahweh.
+[16] the prophets of ⟦israel|Yisrael|Israel⟧ who prophesied concerning ⟦jerusalem|Yerushalayim|Jerusalem⟧ and saw visions of peace for her, when there was no peace, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.
 
 [17] "And you, son of man, set your face against the daughters of your people, who prophesy out of their own hearts. Prophesy against them
 
-[18] and say, Thus says Lord Yahweh: Woe to the women who sew magic bands upon all wrists, and make veils for the heads of persons of every stature, in the hunt for souls! Will you hunt down souls belonging to my people and keep your own souls alive?
+[18] and say, Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: Woe to the women who sew magic bands upon all wrists, and make veils for the heads of persons of every stature, in the hunt for souls! Will you hunt down souls belonging to my people and keep your own souls alive?
 
 [19] You have profaned me among my people for handfuls of barley and for pieces of bread, putting to death souls who should not die and keeping alive souls who should not live, by your lying to my people, who listen to lies.
 
-[20] "Therefore thus says Lord Yahweh: Behold, I am against your magic bands with which you hunt the souls like birds, and I will tear them from your arms, and I will let the souls whom you hunt go free, the souls like birds.
+[20] "Therefore thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: Behold, I am against your magic bands with which you hunt the souls like birds, and I will tear them from your arms, and I will let the souls whom you hunt go free, the souls like birds.
 
-[21] Your veils also I will tear off and deliver my people out of your hand, and they shall be no more in your hand as prey, and you shall know that I am Yahweh.
+[21] Your veils also I will tear off and deliver my people out of your hand, and they shall be no more in your hand as prey, and you shall know that I am ⟦yhwh|Yahweh|the LORD⟧.
 
 [22] Because you have disheartened the righteous falsely, although I have not grieved him, and you have encouraged the wicked, that he should not turn from his evil way to save his life,
 
-[23] therefore you shall no more see false visions nor practice divination. I will deliver my people out of your hand. And you shall know that I am Yahweh."
+[23] therefore you shall no more see false visions nor practice divination. I will deliver my people out of your hand. And you shall know that I am ⟦yhwh|Yahweh|the LORD⟧."
 
 ## Changes
 

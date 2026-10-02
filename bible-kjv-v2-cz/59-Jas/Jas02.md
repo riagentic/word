@@ -1,6 +1,6 @@
 # Jakubův 2
 
-[1] Moji bratři, nebuďte straníci, když se držíte víry v našeho Pána *Yeshuu* *Mashiacha*, Pána slávy.
+[1] Moji bratři, nebuďte straníci, když se držíte víry v našeho Pána ⟦yeshua|Ješuu|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧, Pána slávy.
 
 [2] Jestliže totiž do vašeho shromáždění přijde muž se zlatým prstenem a v nádherném oděvu a přijde také chudák v ošuntělém oděvu,
 
@@ -8,21 +8,21 @@
 
 [4] nedělali jste mezi sebou rozdíly a nestali jste se soudci se zlými úmysly?
 
-[5] Slyšte, moji milovaní bratři: což *Elohim* nevyvolil ty, kdo jsou v očích světa chudí, aby byli bohatí ve víře a dědici království, které zaslíbil těm, kdo ho milují?
+[5] Slyšte, moji milovaní bratři: což ⟦elohim|Elohim|Bůh⟧ nevyvolil ty, kdo jsou v očích světa chudí, aby byli bohatí ve víře a dědici království, které zaslíbil těm, kdo ho milují?
 
 [6] Vy jste však chudého zneuctili. Nejsou to snad bohatí, kdo vás utlačují a kdo vás vláčejí před soudy?
 
 [7] Nejsou to oni, kdo se rouhají vznešenému jménu, jímž jste byli nazváni?
 
-[8] Jestliže opravdu plníte královský zákon podle Písma: „**Budeš milovat svého bližního jako sám sebe**,“ jednáte dobře.
+[8] Jestliže opravdu plníte ⟦torah|královskou Tóru|královský zákon⟧ podle Písma: „**Budeš milovat svého bližního jako sám sebe**,“ jednáte dobře.
 
-[9] Jestliže však nadržujete, dopouštíte se hříchu a zákon vás usvědčuje jako přestupníky.
+[9] Jestliže však nadržujete, dopouštíte se hříchu a ⟦torah|Tóra|zákon⟧ vás usvědčuje jako přestupníky.
 
-[10] Kdo totiž zachovává celý zákon, ale klopýtne v jediném bodě, stal se vinným ve všem.
+[10] Kdo totiž zachovává ⟦torah|celou Tóru|celý zákon⟧, ale klopýtne v jediném bodě, stal se vinným ve všem.
 
-[11] Ten, který řekl: „**Necizolož**,“ řekl také: „**Nevraždi**.“ Jestliže necizoložíš, ale vraždíš, stal ses přestupníkem zákona.
+[11] Ten, který řekl: „**Necizolož**,“ řekl také: „**Nevraždi**.“ Jestliže necizoložíš, ale vraždíš, stal ses přestupníkem ⟦torah|Tóry|zákona⟧.
 
-[12] Tak mluvte a tak jednejte jako ti, kdo mají být souzeni podle zákona svobody.
+[12] Tak mluvte a tak jednejte jako ti, kdo mají být souzeni podle ⟦torah|Tóry|zákona⟧ svobody.
 
 [13] **Soud je totiž nemilosrdný k tomu, kdo neprokázal milosrdenství. Milosrdenství vítězí nad soudem.**
 
@@ -36,19 +36,19 @@
 
 [18] Ale někdo řekne: „Ty máš víru a já mám skutky.“ Ukaž mi svou víru bez skutků a já ti ukážu svou víru ze svých skutků.
 
-[19] Ty věříš, že *Elohim* je jeden; dobře děláš. I démoni věří – a třesou se!
+[19] Ty věříš, že ⟦elohim|Elohim|Bůh⟧ je jeden; dobře děláš. I démoni věří – a třesou se!
 
 [20] Chceš vidět důkaz, ty pošetilý člověče, že víra bez skutků je neužitečná?
 
-[21] Nebyl náš otec Abraham ospravedlněn ze skutků, když obětoval na oltáři svého syna Isaaca?
+[21] Nebyl náš otec ⟦abraham|Avraham|Abraham⟧ ospravedlněn ze skutků, když obětoval na oltáři svého syna ⟦isaac|Jicchaka|Izáka⟧?
 
 [22] Vidíš, že víra spolupůsobila s jeho skutky a skutky byla víra dovršena;
 
-[23] a naplnilo se Písmo, které říká: „**Abraham uvěřil *Elohim*, a bylo mu to počítáno za spravedlnost**“ – a byl nazván přítelem *Elohim*.
+[23] a naplnilo se Písmo, které říká: „**⟦abraham|Avraham|Abraham⟧ uvěřil ⟦elohim|Elohim|Bohu⟧, a bylo mu to počítáno za spravedlnost**“ – a byl nazván přítelem ⟦elohim|Elohim|Božím⟧.
 
 [24] Vidíte, že člověk je ospravedlněn ze skutků, a ne pouze z víry.
 
-[25] Stejně tak nebyla i nevěstka Rahab ospravedlněna ze skutků, když přijala posly a jinou cestou je vypravila pryč?
+[25] Stejně tak nebyla i nevěstka ⟦rahab|Rachav|Rachab⟧ ospravedlněna ze skutků, když přijala posly a jinou cestou je vypravila pryč?
 
 [26] Jako je totiž tělo bez ducha mrtvé, tak je mrtvá i víra bez skutků.
 

@@ -1,20 +1,20 @@
 # Exodus 36
 
-[1] "Betzalel and Oholiab and every skillful man, in whom Yahweh has put skill and understanding to know how to do every work for the service of the sanctuary, shall work according to all that Yahweh has commanded."
+[1] "⟦bezalel|Betzalel|Bezalel⟧ and ⟦oholiab|Oholiav|Oholiab⟧ and every skillful man, in whom ⟦yhwh|Yahweh|the LORD⟧ has put skill and understanding to know how to do every work for the service of the sanctuary, shall work according to all that ⟦yhwh|Yahweh|the LORD⟧ has commanded."
 
-[2] Moses called Betzalel and Oholiab and every skillful man in whose heart Yahweh had put skill — everyone whose heart stirred him to come to the work to do it.
+[2] ⟦moses|Moshe|Moses⟧ called ⟦bezalel|Betzalel|Bezalel⟧ and ⟦oholiab|Oholiav|Oholiab⟧ and every skillful man in whose heart ⟦yhwh|Yahweh|the LORD⟧ had put skill — everyone whose heart stirred him to come to the work to do it.
 
-[3] They received from Moses all the contribution that the children of Israel had brought for the work of the service of the sanctuary, to do it. They continued to bring him freewill offerings morning after morning,
+[3] They received from ⟦moses|Moshe|Moses⟧ all the contribution that the children of ⟦israel|Yisrael|Israel⟧ had brought for the work of the service of the sanctuary, to do it. They continued to bring him freewill offerings morning after morning,
 
 [4] so that all the skilled craftsmen who were doing every work of the sanctuary came, each from the work he was doing,
 
-[5] and they said to Moses, "The people are bringing more than enough for the work that Yahweh has commanded to be done."
+[5] and they said to ⟦moses|Moshe|Moses⟧, "The people are bringing more than enough for the work that ⟦yhwh|Yahweh|the LORD⟧ has commanded to be done."
 
-[6] So Moses gave command, and a proclamation was made throughout the camp: "Let no man or woman do any more work for the contribution of the sanctuary." So the people were restrained from bringing,
+[6] So ⟦moses|Moshe|Moses⟧ gave command, and a proclamation was made throughout the camp: "Let no man or woman do any more work for the contribution of the sanctuary." So the people were restrained from bringing,
 
 [7] for the material that they had was sufficient for all the work to be done, and more than enough.
 
-[8] Every skillful man among those who did the work made the dwelling with ten curtains of fine twined linen, blue, purple, and scarlet yarns; with cherubim skillfully worked into them they were made.
+[8] Every skillful man among those who did the work made the dwelling with ten curtains of fine twined linen, blue, purple, and scarlet yarns; with ⟦cherubim|keruvim|cherubim⟧ skillfully worked into them they were made.
 
 [9] The length of each curtain was 28 cubits, and the width of each curtain 4 cubits; all the curtains were of the same size.
 
@@ -68,7 +68,7 @@
 
 [34] He overlaid the frames with gold, and made their rings of gold, as holders for the bars; and he overlaid the bars with gold.
 
-[35] He made the veil of blue, purple, and scarlet yarns, and fine twined linen; with cherubim skillfully worked into it he made it.
+[35] He made the veil of blue, purple, and scarlet yarns, and fine twined linen; with ⟦cherubim|keruvim|cherubim⟧ skillfully worked into it he made it.
 
 [36] He made for it four pillars of acacia and overlaid them with gold; their hooks were of gold, and he cast for them four sockets of silver.
 

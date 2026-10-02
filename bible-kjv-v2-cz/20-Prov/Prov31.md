@@ -1,6 +1,6 @@
 # Přísloví 31
 
-[1] Slova krále Lemuela – výrok, kterému ho naučila jeho matka:
+[1] Slova krále ⟦lemuel|Lemuela|Lemúela⟧ – výrok, kterému ho naučila jeho matka:
 
 [2] Co to děláš, můj synu?
 Co to děláš, synu mého lůna?
@@ -9,7 +9,7 @@ Co to děláš, synu mých slibů?
 [3] Nedávej svou sílu ženám,
 své cesty těm, které ničí krále.
 
-[4] Není to pro krále, Lemueli,
+[4] Není to pro krále, ⟦lemuel|Lemueli|Lemúeli⟧,
 není to pro krále pít víno
 ani pro vládce pít opojný nápoj,
 
@@ -90,7 +90,7 @@ i její muž, a chválí ji:
 ale ty je všechny převyšuješ.“
 
 [30] **ש** Půvab je klamný a krása je marná,
-ale žena, která se bojí Yahweh, zaslouží chválu.
+ale žena, která se bojí ⟦yhwh|Jahveho|Hospodina⟧, zaslouží chválu.
 
 [31] **ת** Dejte jí z výtěžku jejích rukou
 a ať ji její skutky chválí v branách.

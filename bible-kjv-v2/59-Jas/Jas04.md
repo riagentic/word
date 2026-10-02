@@ -6,21 +6,21 @@
 
 [3] You ask and do not receive, because you ask wrongly, to spend it on your passions.
 
-[4] You adulterous people! Do you not know that friendship with the world is enmity with *Elohim*? Therefore whoever wishes to be a friend of the world makes himself an enemy of *Elohim*.
+[4] You adulterous people! Do you not know that friendship with the world is enmity with ⟦elohim|Elohim|God⟧? Therefore whoever wishes to be a friend of the world makes himself an enemy of ⟦elohim|Elohim|God⟧.
 
 [5] Or do you suppose it is to no purpose that the Scripture says, "He yearns jealously over the spirit that he has made to dwell in us"?
 
-[6] But he gives more grace. Therefore it says, "***Elohim* opposes the proud, but gives grace to the humble**."
+[6] But he gives more grace. Therefore it says, "**⟦elohim|Elohim|God⟧ opposes the proud, but gives grace to the humble**."
 
-[7] **Submit yourselves therefore to *Elohim*. Resist the devil, and he will flee from you.**
+[7] **Submit yourselves therefore to ⟦elohim|Elohim|God⟧. Resist the devil, and he will flee from you.**
 
-[8] **Draw near to *Elohim*, and he will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded.**
+[8] **Draw near to ⟦elohim|Elohim|God⟧, and he will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded.**
 
 [9] Be wretched and mourn and weep. Let your laughter be turned to mourning and your joy to gloom.
 
 [10] Humble yourselves before the Lord, and he will exalt you.
 
-[11] Do not speak evil against one another, brothers. The one who speaks against a brother or judges his brother, speaks evil against the law and judges the law. But if you judge the law, you are not a doer of the law but a judge.
+[11] Do not speak evil against one another, brothers. The one who speaks against a brother or judges his brother, speaks evil against the ⟦torah|Torah|law⟧ and judges the ⟦torah|Torah|law⟧. But if you judge the ⟦torah|Torah|law⟧, you are not a doer of the ⟦torah|Torah|law⟧ but a judge.
 
 [12] There is only one lawgiver and judge, he who is able to save and to destroy. But who are you to judge your neighbor?
 

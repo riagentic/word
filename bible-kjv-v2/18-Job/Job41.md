@@ -1,6 +1,6 @@
 # Job 41
 
-[1] "Can you draw out Leviathan with a fishhook,
+[1] "Can you draw out ⟦leviathan|Livyatan|Leviathan⟧ with a fishhook,
 or press down his tongue with a cord?
 
 [2] Can you put a rope in his nose

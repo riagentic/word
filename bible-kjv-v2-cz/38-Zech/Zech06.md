@@ -16,27 +16,27 @@
 
 [8] Tu na mě zavolal: „Hle, ti, kdo jdou do země severu, uklidnili mého Ducha v zemi severu.“
 
-[9] A přišlo ke mně slovo Yahweh:
+[9] A přišlo ke mně slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[10] „Vezmi od vyhnanců Heldaie, Tobijaha a Jedaiaha, kteří přišli z Babylonu, a jdi téhož dne do domu Josiaha, syna Zephaniahova.
+[10] „Vezmi od vyhnanců Cheldaje, ⟦tobijah|Toviji|Tobijáše⟧ a ⟦jedaiah|Jedaji|Jedajáše⟧, kteří přišli z ⟦babylon|Bavelu|Babylóna⟧, a jdi téhož dne do domu ⟦josiah|Jošijahua|Jóšijáše⟧, syna ⟦zephaniah|Cefanjova|Sefanjášova⟧.
 
-[11] Vezmi od nich stříbro a zlato, udělej korunu a vlož ji na hlavu Joshuovi, synu Jehozadakovu, veleknězi.
+[11] Vezmi od nich stříbro a zlato, udělej korunu a vlož ji na hlavu ⟦joshua-priest|Jehošuovi|Jóšuovi⟧, synu ⟦jehozadak|Jehocadakovu|Jósadakovu⟧, veleknězi.
 
-[12] A řekni mu: ‚Tak praví Yahweh zástupů:
+[12] A řekni mu: ‚Tak praví ⟦yhwh|Jahve|Hospodin⟧ zástupů:
 
 „Hle, muž, jehož jméno je Výhonek:
 neboť vyraší ze svého místa
-a postaví chrám Yahweh.
+a postaví chrám ⟦yhwh|Jahveho|Hospodina⟧.
 
-[13] On postaví chrám Yahweh
+[13] On postaví chrám ⟦yhwh|Jahveho|Hospodina⟧
 a ponese královskou čest,
 bude sedět a vládnout na svém trůnu.
 A na jeho trůnu bude kněz
 a rada pokoje bude mezi nimi oběma.“‘
 
-[14] A koruna bude v chrámu Yahweh na památku Helemovi, Tobijahovi, Jedaiahovi a Henovi, synu Zephaniahovu.
+[14] A koruna bude v chrámu ⟦yhwh|Jahveho|Hospodina⟧ na památku Chelemovi, ⟦tobijah|Tovijovi|Tobijášovi⟧, ⟦jedaiah|Jedajovi|Jedajášovi⟧ a Chenovi, synu ⟦zephaniah|Cefanjovu|Sefanjášovu⟧.
 
-[15] A ti, kdo jsou daleko, přijdou a budou pomáhat stavět chrám Yahweh. A poznáte, že mě k vám poslal Yahweh zástupů. A stane se to, budete-li bedlivě poslouchat hlas Yahweh, svého *Elohim*.“
+[15] A ti, kdo jsou daleko, přijdou a budou pomáhat stavět chrám ⟦yhwh|Jahveho|Hospodina⟧. A poznáte, že mě k vám poslal ⟦yhwh|Jahve|Hospodin⟧ zástupů. A stane se to, budete-li bedlivě poslouchat hlas ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧.“
 
 ## Změny
 

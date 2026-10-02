@@ -1,55 +1,55 @@
 # Římanům 10
 
-[1] Bratři, touhou mého srdce a mou modlitbou k *Elohim* za ně je, aby byli spaseni.
+[1] Bratři, touhou mého srdce a mou modlitbou k ⟦elohim|Elohim|Bohu⟧ za ně je, aby byli spaseni.
 
-[2] Dosvědčuji jim totiž, že mají horlivost pro *Elohim*, ale ne podle poznání.
+[2] Dosvědčuji jim totiž, že mají horlivost pro ⟦elohim|Elohim|Boha⟧, ale ne podle poznání.
 
-[3] Protože neznali spravedlnost *Elohim* a snažili se ustanovit svou vlastní, nepodřídili se spravedlnosti *Elohim*.
+[3] Protože neznali spravedlnost ⟦elohim|Elohim|Boží⟧ a snažili se ustanovit svou vlastní, nepodřídili se spravedlnosti ⟦elohim|Elohim|Boží⟧.
 
-[4] *Mashiach* je totiž koncem Torah ke spravedlnosti pro každého, kdo věří.
+[4] ⟦mashiach|Mašiach|Kristus⟧ je totiž koncem ⟦torah|Tóry|zákona⟧ ke spravedlnosti pro každého, kdo věří.
 
-[5] Moses totiž píše o spravedlnosti, která je založena na zákoně: „**Člověk, který plní přikázání, bude z nich žít.**“
+[5] ⟦moses|Moše|Mojžíš⟧ totiž píše o spravedlnosti, která je založena na zákoně: „**Člověk, který plní přikázání, bude z nich žít.**“
 
-[6] Ale spravedlnost založená na víře říká: „**Neříkej ve svém srdci: ‚Kdo vystoupí do nebe?‘**“ (to jest, aby přivedl *Mashiacha* dolů)
+[6] Ale spravedlnost založená na víře říká: „**Neříkej ve svém srdci: ‚Kdo vystoupí do nebe?‘**“ (to jest, aby přivedl ⟦mashiach|Mašiacha|Krista⟧ dolů)
 
-[7] „**nebo: ‚Kdo sestoupí do propasti?‘**“ (to jest, aby vyvedl *Mashiacha* z mrtvých).
+[7] „**nebo: ‚Kdo sestoupí do propasti?‘**“ (to jest, aby vyvedl ⟦mashiach|Mašiacha|Krista⟧ z mrtvých).
 
 [8] Ale co říká? „**Slovo je ti blízko, v tvých ústech a v tvém srdci**“ (to jest slovo víry, které hlásáme);
 
-[9] neboť **vyznáš-li svými ústy, že *Yeshua* je Pán, a uvěříš-li ve svém srdci, že ho *Elohim* vzkřísil z mrtvých, budeš spasen**.
+[9] neboť **vyznáš-li svými ústy, že ⟦yeshua|Ješua|Ježíš⟧ je Pán, a uvěříš-li ve svém srdci, že ho ⟦elohim|Elohim|Bůh⟧ vzkřísil z mrtvých, budeš spasen**.
 
 [10] Srdcem se totiž věří k ospravedlnění a ústy se vyznává ke spasení.
 
 [11] Písmo totiž říká: „**Nikdo, kdo v něho věří, nebude zahanben.**“
 
-[12] Není totiž rozdílu mezi Židem a Řekem; tentýž Pán je Pánem všech a štědře rozdává své bohatství všem, kdo ho vzývají.
+[12] Není totiž rozdílu mezi ⟦jew|Jehudi|Židem⟧ a ⟦greek|Jevani|Řekem⟧; tentýž Pán je Pánem všech a štědře rozdává své bohatství všem, kdo ho vzývají.
 
-[13] Neboť „**každý, kdo bude vzývat jméno Pána, bude spasen**“.
+[13] Neboť „**každý, kdo bude vzývat jméno ⟦yhwh|Jahveho|Páně⟧, bude spasen**“.
 
 [14] Jak ale budou vzývat toho, v něhož neuvěřili? A jak mají uvěřit v toho, o němž nikdy neslyšeli? A jak mají uslyšet, když jim nikdo nekáže?
 
 [15] A jak mají kázat, nejsou-li posláni? Jak je psáno: „**Jak krásné jsou nohy těch, kdo zvěstují dobrou zprávu!**“
 
-[16] Ale ne všichni uposlechli evangelium. Isaiah totiž říká: „**Pane, kdo uvěřil tomu, co od nás slyšel?**“
+[16] Ale ne všichni uposlechli evangelium. ⟦isaiah|Ješajahu|Izaiáš⟧ totiž říká: „**Pane, kdo uvěřil tomu, co od nás slyšel?**“
 
-[17] Víra je tedy ze slyšení a slyšení skrze slovo *Mashiacha*.
+[17] Víra je tedy ze slyšení a slyšení skrze slovo ⟦mashiach|Mašiacha|Krista⟧.
 
 [18] Ale ptám se: Neslyšeli snad? Ovšemže slyšeli, neboť
 
 „**Jejich hlas se rozlehl po celé zemi
 a jejich slova až do končin světa.**“
 
-[19] Ale ptám se: Neporozuměl snad Israel? Nejprve Moses říká:
+[19] Ale ptám se: Neporozuměl snad ⟦israel|Jisrael|Izrael⟧? Nejprve ⟦moses|Moše|Mojžíš⟧ říká:
 
 „**Vzbudím ve vás žárlivost na ty, kdo nejsou národem;
 bláhovým národem vás rozhněvám.**“
 
-[20] Potom se Isaiah odvažuje říci:
+[20] Potom se ⟦isaiah|Ješajahu|Izaiáš⟧ odvažuje říci:
 
 „**Nalezli mě ti, kdo mě nehledali;
 zjevil jsem se těm, kdo se po mně neptali.**“
 
-[21] Ale o Israeli říká: „**Celý den jsem vztahoval své ruce k neposlušnému a vzpurnému lidu.**“
+[21] Ale o ⟦israel|Jisraeli|Izraeli⟧ říká: „**Celý den jsem vztahoval své ruce k neposlušnému a vzpurnému lidu.**“
 
 ## Změny
 

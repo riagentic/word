@@ -1,59 +1,59 @@
 # Ozeáš 9
 
-[1] Neraduj se, Israeli!
+[1] Neraduj se, ⟦israel|Jisraeli|Izraeli⟧!
 Nejásej jako národy;
-neboť jsi smilnil a opustil svého *Elohim*.
+neboť jsi smilnil a opustil svého ⟦elohim|Elohim|Boha⟧.
 Zamiloval sis mzdu nevěstky
 na všech mlatech.
 
 [2] Mlat ani lis je neuživí
 a mošt je zklame.
 
-[3] Nezůstanou v zemi Yahweh,
-ale Ephraim se vrátí do Egypta
-a v Assyrii budou jíst nečistý pokrm.
+[3] Nezůstanou v zemi ⟦yhwh|Jahveho|Hospodina⟧,
+ale Efrajim se vrátí do ⟦egypt|Micrajim|Egypta⟧
+a v ⟦assyria|Aššuru|Asýrii⟧ budou jíst nečistý pokrm.
 
-[4] Nebudou Yahweh vylévat úlitby vína
+[4] Nebudou ⟦yhwh|Jahvovi|Hospodinu⟧ vylévat úlitby vína
 a jejich oběti se mu nebudou líbit.
 Bude jim to jako chléb truchlících;
 všichni, kdo z něj jedí, budou poskvrněni;
 neboť jejich chléb bude jen pro jejich hlad;
-do domu Yahweh nepřijde.
+do domu ⟦yhwh|Jahveho|Hospodina⟧ nepřijde.
 
 [5] Co budete dělat v den určeného svátku
-a v den slavnosti Yahweh?
+a v den slavnosti ⟦yhwh|Jahveho|Hospodina⟧?
 
 [6] Neboť hle, odcházejí před zkázou;
-ale Egypt je shromáždí,
-Memphis je pohřbí.
+ale ⟦egypt|Micrajim|Egypt⟧ je shromáždí,
+⟦memphis|Mof|Memfis⟧ je pohřbí.
 Jejich stříbrné vzácnosti zabere kopřiva;
 v jejich stanech bude trní.
 
 [7] Přišly dny trestu,
 přišly dny odplaty;
-Israel to pozná.
+⟦israel|Jisrael|Izrael⟧ to pozná.
 Prorok je blázen,
 muž ducha šílí
 pro tvou velikou nepravost a veliké nepřátelství.
 
-[8] Prorok je strážcem Ephraima u mého *Elohim*;
+[8] Prorok je strážcem Efrajima u mého ⟦elohim|Elohim|Boha⟧;
 a přece je na všech jeho cestách čihařova léčka
-a nepřátelství v domě jeho *Elohim*.
+a nepřátelství v domě jeho ⟦elohim|Elohim|Boha⟧.
 
 [9] Hluboce se zkazili
-jako ve dnech Gibeah:
+jako ve dnech ⟦gibeah|Givy|Gibeje⟧:
 on si připomene jejich nepravost,
 potrestá jejich hříchy.
 
 [10] Jako hrozny na poušti
-jsem nalezl Israele.
+jsem nalezl ⟦israel|Jisraele|Izraele⟧.
 Jako první plod na fíkovníku v jeho první době
 jsem spatřil vaše otce.
-Ale oni přišli do Baal-Peor
+Ale oni přišli do ⟦baal-peor|Baal Peoru|Baal-peóru⟧
 a zasvětili se té hanebnosti
 a stali se ohavnými jako to, co milovali.
 
-[11] Sláva Ephraima uletí jako pták –
+[11] Sláva Efrajima uletí jako pták –
 žádný porod, žádné těhotenství, žádné početí!
 
 [12] I kdyby vychovali děti,
@@ -61,28 +61,28 @@ připravím je o ně, až nezůstane nikdo.
 Běda jim,
 až od nich odstoupím!
 
-[13] Ephraim, jak jsem viděl, byl jako mladá palma zasazená na louce;
-ale Ephraim musí vyvést své děti na porážku.
+[13] Efrajim, jak jsem viděl, byl jako mladá palma zasazená na louce;
+ale Efrajim musí vyvést své děti na porážku.
 
-[14] Dej jim, Yahweh –
+[14] Dej jim, ⟦yhwh|Jahve|Hospodine⟧ –
 co jim dáš?
 Dej jim lůno, které potrácí,
 a vyschlé prsy.
 
-[15] Všechno jejich zlo je v Gilgalu;
+[15] Všechno jejich zlo je v ⟦gilgal|Gilgalu|Gilgálu⟧;
 tam jsem je začal nenávidět.
 Pro zlovolnost jejich skutků
 je vyženu ze svého domu.
 Už je nebudu milovat;
 všechna jejich knížata jsou vzbouřenci.
 
-[16] Ephraim je zasažen;
+[16] Efrajim je zasažen;
 jeho kořen je vyschlý;
 nepřinesou ovoce.
 I kdyby rodili,
 usmrtím jejich milované děti.
 
-[17] Můj *Elohim* je zavrhne,
+[17] Můj ⟦elohim|Elohim|Bůh⟧ je zavrhne,
 protože ho neposlouchali;
 budou tuláky mezi národy.
 

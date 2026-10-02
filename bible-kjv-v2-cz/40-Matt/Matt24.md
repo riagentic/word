@@ -1,14 +1,14 @@
 # Matouš 24
 
-[1] *Yeshua* vyšel z chrámu a odcházel, když k němu přistoupili jeho učedníci, aby mu ukázali chrámové stavby.
+[1] ⟦yeshua|Ješua|Ježíš⟧ vyšel z chrámu a odcházel, když k němu přistoupili jeho učedníci, aby mu ukázali chrámové stavby.
 
 [2] On jim však odpověděl: „Vidíte to všechno, že? Vpravdě vám říkám, nezůstane zde kámen na kameni, který by nebyl stržen.“
 
-[3] Když seděl na Olivové hoře, přistoupili k němu učedníci v soukromí a řekli: „Pověz nám, kdy se to stane a jaké bude znamení tvého příchodu a konce věku?“
+[3] Když seděl na ⟦mount-of-olives|Har HaZejtim|Olivové hoře⟧, přistoupili k němu učedníci v soukromí a řekli: „Pověz nám, kdy se to stane a jaké bude znamení tvého příchodu a konce věku?“
 
-[4] *Yeshua* jim odpověděl: „Dejte si pozor, aby vás nikdo nesvedl.
+[4] ⟦yeshua|Ješua|Ježíš⟧ jim odpověděl: „Dejte si pozor, aby vás nikdo nesvedl.
 
-[5] Mnozí totiž přijdou v mém jménu a budou říkat: ‚Já jsem *Mashiach*,‘ a svedou mnohé.
+[5] Mnozí totiž přijdou v mém jménu a budou říkat: ‚Já jsem ⟦mashiach|Mašiach|Mesiáš⟧,‘ a svedou mnohé.
 
 [6] Uslyšíte o válkách a zvěsti o válkách. Hleďte, abyste se nelekali, neboť to se musí stát, ale to ještě není konec.
 
@@ -28,9 +28,9 @@
 
 [14] A toto evangelium království bude hlásáno po celém světě na svědectví všem národům, a potom přijde konec.
 
-[15] Když tedy uvidíte ohavnost zpustošení, o níž mluvil prorok Daniel, stát na svatém místě (kdo čte, ať rozumí),
+[15] Když tedy uvidíte ohavnost zpustošení, o níž mluvil prorok ⟦daniel|Danijel|Daniel⟧, stát na svatém místě (kdo čte, ať rozumí),
 
-[16] tehdy ti, kdo budou v Judeji, ať utečou do hor.
+[16] tehdy ti, kdo budou v ⟦judea|Jehudě|Judsku⟧, ať utečou do hor.
 
 [17] Kdo bude na střeše, ať nesestupuje, aby si vzal něco ze svého domu,
 
@@ -38,13 +38,13 @@
 
 [19] Běda těhotným a kojícím v těch dnech!
 
-[20] Modlete se, aby váš útěk nepřipadl na zimu ani na sabat.
+[20] Modlete se, aby váš útěk nepřipadl na zimu ani na ⟦shabbat|šabat|sobotu⟧.
 
 [21] Tehdy totiž bude veliké soužení, jaké nebylo od počátku světa až dosud, a už nikdy nebude.
 
 [22] A kdyby ty dny nebyly zkráceny, nebyl by zachráněn žádný člověk. Ale kvůli vyvoleným budou ty dny zkráceny.
 
-[23] Jestliže vám tehdy někdo řekne: ‚Hle, tady je *Mashiach*!‘ nebo ‚Tamhle je!‘, nevěřte tomu.
+[23] Jestliže vám tehdy někdo řekne: ‚Hle, tady je ⟦mashiach|Mašiach|Mesiáš⟧!‘ nebo ‚Tamhle je!‘, nevěřte tomu.
 
 [24] Povstanou totiž falešní mesiášové a falešní proroci a budou činit veliká znamení a divy, aby svedli, bude-li to možné, i vyvolené.
 
@@ -75,9 +75,9 @@ a mocnosti nebes se zachvějí.
 
 [36] O tom dni a hodině však **neví nikdo, ani andělé v nebi, ani Syn, jen sám Otec**.
 
-[37] Neboť jako bylo za dnů Noaha, tak bude i příchod Syna člověka.
+[37] Neboť jako bylo za dnů ⟦noah|Noacha|Noeho⟧, tak bude i příchod Syna člověka.
 
-[38] Jako totiž v těch dnech před potopou jedli a pili, ženili se a vdávaly, až do dne, kdy Noah vešel do archy,
+[38] Jako totiž v těch dnech před potopou jedli a pili, ženili se a vdávaly, až do dne, kdy ⟦noah|Noach|Noe⟧ vešel do archy,
 
 [39] a nic netušili, dokud nepřišla potopa a nesmetla je všechny, tak bude i příchod Syna člověka.
 

@@ -1,80 +1,80 @@
 # Jeremiah 32
 
-[1] The word that came to Jeremiah from Yahweh in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadrezzar.
+[1] The word that came to ⟦jeremiah|Yirmeyahu|Jeremiah⟧ from ⟦yhwh|Yahweh|the LORD⟧ in the tenth year of ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ king of ⟦judah|Yehudah|Judah⟧, which was the eighteenth year of ⟦nebuchadnezzar|Nevuchadretzar|Nebuchadnezzar⟧.
 
-[2] At that time the army of the king of Babylon was besieging Jerusalem, and Jeremiah the prophet was shut up in the court of the guard that was in the palace of the king of Judah.
+[2] At that time the army of the king of ⟦babylon|Bavel|Babylon⟧ was besieging ⟦jerusalem|Yerushalayim|Jerusalem⟧, and ⟦jeremiah|Yirmeyahu|Jeremiah⟧ the prophet was shut up in the court of the guard that was in the palace of the king of ⟦judah|Yehudah|Judah⟧.
 
-[3] For Zedekiah king of Judah had imprisoned him, saying, "Why do you prophesy and say, 'Thus says Yahweh: Behold, I am giving this city into the hand of the king of Babylon, and he shall capture it;
+[3] For ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ king of ⟦judah|Yehudah|Judah⟧ had imprisoned him, saying, "Why do you prophesy and say, 'Thus says ⟦yhwh|Yahweh|the LORD⟧: Behold, I am giving this city into the hand of the king of ⟦babylon|Bavel|Babylon⟧, and he shall capture it;
 
-[4] Zedekiah king of Judah shall not escape out of the hand of the Chaldeans, but shall surely be given into the hand of the king of Babylon, and shall speak with him face to face and see him eye to eye.
+[4] ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ king of ⟦judah|Yehudah|Judah⟧ shall not escape out of the hand of the ⟦chaldeans|Kasdim|Chaldeans⟧, but shall surely be given into the hand of the king of ⟦babylon|Bavel|Babylon⟧, and shall speak with him face to face and see him eye to eye.
 
-[5] And he shall take Zedekiah to Babylon, and there he shall remain until I visit him, declares Yahweh. Though you fight against the Chaldeans, you shall not succeed'?"
+[5] And he shall take ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ to ⟦babylon|Bavel|Babylon⟧, and there he shall remain until I visit him, declares ⟦yhwh|Yahweh|the LORD⟧. Though you fight against the ⟦chaldeans|Kasdim|Chaldeans⟧, you shall not succeed'?"
 
-[6] Jeremiah said, "The word of Yahweh came to me:
+[6] ⟦jeremiah|Yirmeyahu|Jeremiah⟧ said, "The word of ⟦yhwh|Yahweh|the LORD⟧ came to me:
 
-[7] Behold, Hanamel the son of Shallum your uncle will come to you and say, 'Buy my field that is at Anathoth, for the right of redemption by purchase is yours.'
+[7] Behold, ⟦hanamel|Chanamel|Hanamel⟧ the son of Shallum your uncle will come to you and say, 'Buy my field that is at ⟦anathoth|Anatot|Anathoth⟧, for the right of redemption by purchase is yours.'
 
-[8] Then Hanamel my cousin came to me in the court of the guard, in accordance with the word of Yahweh, and said to me, 'Buy my field that is at Anathoth in the land of Benjamin, for the right of possession and redemption is yours; buy it for yourself.' Then I knew that this was the word of Yahweh.
+[8] Then ⟦hanamel|Chanamel|Hanamel⟧ my cousin came to me in the court of the guard, in accordance with the word of ⟦yhwh|Yahweh|the LORD⟧, and said to me, 'Buy my field that is at ⟦anathoth|Anatot|Anathoth⟧ in the land of ⟦benjamin|Binyamin|Benjamin⟧, for the right of possession and redemption is yours; buy it for yourself.' Then I knew that this was the word of ⟦yhwh|Yahweh|the LORD⟧.
 
-[9] "And I bought the field at Anathoth from Hanamel my cousin, and weighed out the money to him, seventeen shekels of silver.
+[9] "And I bought the field at ⟦anathoth|Anatot|Anathoth⟧ from ⟦hanamel|Chanamel|Hanamel⟧ my cousin, and weighed out the money to him, seventeen shekels of silver.
 
 [10] I signed the deed, sealed it, got witnesses, and weighed the money on scales.
 
 [11] Then I took the sealed deed of purchase, containing the terms and conditions, and the open copy.
 
-[12] And I gave the deed of purchase to Baruch son of Neriah son of Mahseiah, in the presence of Hanamel my cousin, in the presence of the witnesses who signed the deed of purchase, and in the presence of all the Judeans who were sitting in the court of the guard.
+[12] And I gave the deed of purchase to Baruch son of ⟦neriah|Neriyah|Neriah⟧ son of ⟦mahseiah|Machseyah|Mahseiah⟧, in the presence of ⟦hanamel|Chanamel|Hanamel⟧ my cousin, in the presence of the witnesses who signed the deed of purchase, and in the presence of all the ⟦judeans|Yehudim|Judeans⟧ who were sitting in the court of the guard.
 
 [13] I charged Baruch in their presence, saying,
 
-[14] 'Thus says Yahweh of Hosts, the *Elohim* of Israel: Take these deeds, both this sealed deed of purchase and this open deed, and put them in an earthenware vessel, that they may last for a long time.
+[14] 'Thus says ⟦yhwh|Yahweh|the LORD⟧ of Hosts, the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧: Take these deeds, both this sealed deed of purchase and this open deed, and put them in an earthenware vessel, that they may last for a long time.
 
-[15] For thus says Yahweh of Hosts, the *Elohim* of Israel: Houses and fields and vineyards shall again be bought in this land.'
+[15] For thus says ⟦yhwh|Yahweh|the LORD⟧ of Hosts, the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧: Houses and fields and vineyards shall again be bought in this land.'
 
-[16] "After I had given the deed of purchase to Baruch son of Neriah, I prayed to Yahweh, saying:
+[16] "After I had given the deed of purchase to Baruch son of ⟦neriah|Neriyah|Neriah⟧, I prayed to ⟦yhwh|Yahweh|the LORD⟧, saying:
 
-[17] 'Ah, Lord Yahweh! Behold, you have made the heavens and the earth by your great power and by your outstretched arm. Nothing is too hard for you.
+[17] 'Ah, ⟦adonai-yhwh|Lord Yahweh|Lord GOD⟧! Behold, you have made the heavens and the earth by your great power and by your outstretched arm. Nothing is too hard for you.
 
-[18] You show steadfast love to thousands, but you repay the iniquity of fathers into the bosom of their children after them, O great and mighty *Elohim*, whose name is Yahweh of Hosts,
+[18] You show steadfast love to thousands, but you repay the iniquity of fathers into the bosom of their children after them, O great and mighty ⟦el|El|God⟧, whose name is ⟦yhwh|Yahweh|the LORD⟧ of Hosts,
 
 [19] great in counsel and mighty in deed, whose eyes are open to all the ways of the children of man, rewarding each one according to his ways and according to the fruit of his deeds.
 
-[20] You have shown signs and wonders in the land of Egypt, and to this day in Israel and among all mankind, and have made yourself a name, as at this day.
+[20] You have shown signs and wonders in the land of ⟦egypt|Mitzrayim|Egypt⟧, and to this day in ⟦israel|Yisrael|Israel⟧ and among all mankind, and have made yourself a name, as at this day.
 
-[21] You brought your people Israel out of the land of Egypt with signs and wonders, with a strong hand and outstretched arm, and with great terror.
+[21] You brought your people ⟦israel|Yisrael|Israel⟧ out of the land of ⟦egypt|Mitzrayim|Egypt⟧ with signs and wonders, with a strong hand and outstretched arm, and with great terror.
 
 [22] And you gave them this land, which you swore to their fathers to give them, a land flowing with milk and honey.
 
-[23] And they entered and took possession of it. But they did not obey your voice or walk in your Law. They did nothing of all you commanded them to do. Therefore you have made all this disaster come upon them.
+[23] And they entered and took possession of it. But they did not obey your voice or walk in your ⟦torah|Torah|law⟧. They did nothing of all you commanded them to do. Therefore you have made all this disaster come upon them.
 
-[24] Behold, the siege mounds have come up to the city to take it, and because of sword and famine and pestilence the city is given into the hands of the Chaldeans who are fighting against it. What you spoke has come to pass, and behold, you see it.
+[24] Behold, the siege mounds have come up to the city to take it, and because of sword and famine and pestilence the city is given into the hands of the ⟦chaldeans|Kasdim|Chaldeans⟧ who are fighting against it. What you spoke has come to pass, and behold, you see it.
 
-[25] Yet you, Lord Yahweh, have said to me, "Buy the field for money and get witnesses" — though the city is given into the hands of the Chaldeans.'"
+[25] Yet you, ⟦adonai-yhwh|Lord Yahweh|Lord GOD⟧, have said to me, "Buy the field for money and get witnesses" — though the city is given into the hands of the ⟦chaldeans|Kasdim|Chaldeans⟧.'"
 
-[26] The word of Yahweh came to Jeremiah:
+[26] The word of ⟦yhwh|Yahweh|the LORD⟧ came to ⟦jeremiah|Yirmeyahu|Jeremiah⟧:
 
-[27] "Behold, I am Yahweh, the *Elohim* of all flesh. Is anything too hard for me?
+[27] "Behold, I am ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of all flesh. Is anything too hard for me?
 
-[28] Therefore, thus says Yahweh: Behold, I am giving this city into the hands of the Chaldeans and into the hand of Nebuchadrezzar king of Babylon, and he shall capture it.
+[28] Therefore, thus says ⟦yhwh|Yahweh|the LORD⟧: Behold, I am giving this city into the hands of the ⟦chaldeans|Kasdim|Chaldeans⟧ and into the hand of ⟦nebuchadnezzar|Nevuchadretzar|Nebuchadnezzar⟧ king of ⟦babylon|Bavel|Babylon⟧, and he shall capture it.
 
-[29] The Chaldeans who are fighting against this city shall come and set this city on fire and burn it, with the houses on whose roofs offerings have been made to Baal and drink offerings have been poured out to other gods, to provoke me to anger.
+[29] The ⟦chaldeans|Kasdim|Chaldeans⟧ who are fighting against this city shall come and set this city on fire and burn it, with the houses on whose roofs offerings have been made to Baal and drink offerings have been poured out to other gods, to provoke me to anger.
 
-[30] For the children of Israel and the children of Judah have done nothing but evil in my sight from their youth. The children of Israel have done nothing but provoke me to anger by the work of their hands, declares Yahweh.
+[30] For the children of ⟦israel|Yisrael|Israel⟧ and the children of ⟦judah|Yehudah|Judah⟧ have done nothing but evil in my sight from their youth. The children of ⟦israel|Yisrael|Israel⟧ have done nothing but provoke me to anger by the work of their hands, declares ⟦yhwh|Yahweh|the LORD⟧.
 
 [31] This city has aroused my anger and wrath, from the day it was built to this day, so that I will remove it from my sight
 
-[32] because of all the evil of the children of Israel and the children of Judah that they did to provoke me to anger — their kings and officials, their priests and prophets, the men of Judah and the inhabitants of Jerusalem.
+[32] because of all the evil of the children of ⟦israel|Yisrael|Israel⟧ and the children of ⟦judah|Yehudah|Judah⟧ that they did to provoke me to anger — their kings and officials, their priests and prophets, the men of ⟦judah|Yehudah|Judah⟧ and the inhabitants of ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
 [33] They have turned to me their back and not their face. And though I have taught them persistently, they have not listened to receive instruction.
 
 [34] They set up their abominations in the house that is called by my name, to defile it.
 
-[35] They built the high places of Baal in the Valley of the Son of Hinnom, to offer their sons and daughters to Molech, though I did not command them, nor did it enter my mind, that they should do this abomination, to cause Judah to sin.
+[35] They built the high places of Baal in the Valley of the Son of Hinnom, to offer their sons and daughters to Molech, though I did not command them, nor did it enter my mind, that they should do this abomination, to cause ⟦judah|Yehudah|Judah⟧ to sin.
 
-[36] "Now therefore thus says Yahweh, the *Elohim* of Israel, concerning this city, of which you say, 'It is given into the hand of the king of Babylon by sword, by famine, and by pestilence':
+[36] "Now therefore thus says ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧, concerning this city, of which you say, 'It is given into the hand of the king of ⟦babylon|Bavel|Babylon⟧ by sword, by famine, and by pestilence':
 
 [37] Behold, I will gather them from all the countries to which I drove them in my anger and my wrath and in great indignation. I will bring them back to this place, and I will make them dwell in safety.
 
-[38] And they shall be my people, and I will be their *Elohim*.
+[38] And they shall be my people, and I will be their ⟦elohim|Elohim|God⟧.
 
 [39] I will give them one heart and one way, that they may fear me forever, for their own good and the good of their children after them.
 
@@ -82,11 +82,11 @@
 
 [41] I will rejoice in doing them good, and I will plant them in this land in faithfulness, with all my heart and all my soul.
 
-[42] "For thus says Yahweh: Just as I have brought all this great disaster upon this people, so I will bring upon them all the good that I promise them.
+[42] "For thus says ⟦yhwh|Yahweh|the LORD⟧: Just as I have brought all this great disaster upon this people, so I will bring upon them all the good that I promise them.
 
-[43] Fields shall be bought in this land of which you are saying, 'It is a desolation, without man or beast; it is given into the hand of the Chaldeans.'
+[43] Fields shall be bought in this land of which you are saying, 'It is a desolation, without man or beast; it is given into the hand of the ⟦chaldeans|Kasdim|Chaldeans⟧.'
 
-[44] Fields shall be bought for money, and deeds shall be signed and sealed and witnessed, in the land of Benjamin, in the places about Jerusalem, and in the cities of Judah, in the cities of the hill country, in the cities of the Shephelah, and in the cities of the Negev; for I will restore their fortunes, declares Yahweh."
+[44] Fields shall be bought for money, and deeds shall be signed and sealed and witnessed, in the land of ⟦benjamin|Binyamin|Benjamin⟧, in the places about ⟦jerusalem|Yerushalayim|Jerusalem⟧, and in the cities of ⟦judah|Yehudah|Judah⟧, in the cities of the hill country, in the cities of the ⟦shephelah|Shefelah|Shephelah⟧, and in the cities of the ⟦negev|Negev|Negeb⟧; for I will restore their fortunes, declares ⟦yhwh|Yahweh|the LORD⟧."
 
 ## Changes
 
@@ -94,6 +94,7 @@
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"Lord GOD" → "Lord Yahweh"** (vv17, 25) — Hebrew אֲדֹנָי יְהוָה preserved.
 - **"God" → "*Elohim*"** (vv27, 36, 38) — Hebrew *Elohim* preserved; "I am Yahweh, the *Elohim* of all flesh."
+- **"God" → "El"** (v18) — Hebrew אֵל *El*, not *Elohim*.
 - **Poetic structure** — entirely prose; field purchase sign-act and prayer.
 
 ### Notes

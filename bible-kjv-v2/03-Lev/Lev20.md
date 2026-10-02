@@ -1,8 +1,8 @@
 # Leviticus 20
 
-[1] Yahweh spoke to Moses, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[2] "Again, say to the children of Israel: 'Any person of the children of Israel, or of the foreigners who sojourn in Israel, who gives any of his offspring to Molech shall surely be put to death; the people of the land shall stone him with stones.
+[2] "Again, say to the children of ⟦israel|Yisrael|Israel⟧: 'Any person of the children of ⟦israel|Yisrael|Israel⟧, or of the foreigners who sojourn in ⟦israel|Yisrael|Israel⟧, who gives any of his offspring to Molech shall surely be put to death; the people of the land shall stone him with stones.
 
 [3] I myself will set my face against that man and will cut him off from among his people, because he has given some of his offspring to Molech, so as to defile my sanctuary and profane my holy name.
 
@@ -12,9 +12,9 @@
 
 [6] The person who turns to mediums or spiritists, to whore after them, I will set my face against that person and cut him off from among his people.
 
-[7] Consecrate yourselves, therefore, and be holy; for I am Yahweh your *Elohim*.
+[7] Consecrate yourselves, therefore, and be holy; for I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
-[8] You shall keep my statutes and do them; I am Yahweh who consecrates you.
+[8] You shall keep my statutes and do them; I am ⟦yhwh|Yahweh|the LORD⟧ who consecrates you.
 
 [9] Anyone who curses his father or his mother shall surely be put to death; he has cursed his father or his mother — his blood is on him.
 
@@ -46,11 +46,11 @@
 
 [23] You shall not walk in the customs of the nation that I am driving out before you; for they did all these things, and therefore I abhorred them.
 
-[24] But I have said to you, "You shall inherit their land, and I will give it to you to possess it — a land flowing with milk and honey." I am Yahweh your *Elohim*, who has separated you from the peoples.
+[24] But I have said to you, "You shall inherit their land, and I will give it to you to possess it — a land flowing with milk and honey." I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, who has separated you from the peoples.
 
 [25] You shall therefore distinguish between clean animal and unclean, and between unclean bird and clean; you shall not make yourselves detestable by beast or by bird or by anything that creeps on the ground, which I have separated for you as unclean.
 
-[26] You shall be holy to me, for I Yahweh am holy, and have separated you from the peoples, that you should be mine.
+[26] You shall be holy to me, for I ⟦yhwh|Yahweh|the LORD⟧ am holy, and have separated you from the peoples, that you should be mine.
 
 [27] A man or a woman who is a medium or a spiritist shall surely be put to death; they shall be stoned with stones; their blood is on them.'"
 

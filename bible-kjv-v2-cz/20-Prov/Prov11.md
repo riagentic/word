@@ -1,6 +1,6 @@
 # Přísloví 11
 
-[1] Falešné váhy jsou Yahweh ohavností,
+[1] Falešné váhy jsou ⟦yhwh|Jahvovi|Hospodinu⟧ ohavností,
 ale správné závaží je jeho potěšením.
 
 [2] Když přijde pýcha, přijde i potupa,
@@ -57,7 +57,7 @@ ale kdo seje spravedlnost, dostane jistou odměnu.
 [19] Kdo vytrvá ve spravedlnosti, bude žít,
 ale kdo se žene za zlem, zemře.
 
-[20] Ti, kdo jsou pokřiveného srdce, jsou Yahweh ohavností,
+[20] Ti, kdo jsou pokřiveného srdce, jsou ⟦yhwh|Jahvovi|Hospodinu⟧ ohavností,
 ale ti, kdo jsou bezúhonných cest, jsou jeho potěšením.
 
 [21] Buď si jist, že zlý člověk nezůstane bez trestu,

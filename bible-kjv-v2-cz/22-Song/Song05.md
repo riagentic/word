@@ -41,7 +41,7 @@ bili mě, zranili mě,
 vzali mi můj závoj,
 ti strážní hradeb.
 
-[8] Zapřísahám vás, dcery Jerusalema,
+[8] Zapřísahám vás, dcery ⟦jerusalem|Jerušalajim|Jeruzaléma⟧,
 najdete-li mého milého,
 abyste mu pověděly,
 že jsem nemocná láskou.
@@ -74,13 +74,13 @@ pokrytá safíry.
 
 [15] Jeho nohy jsou alabastrové sloupy
 postavené na zlatých podstavcích.
-Jeho vzhled je jako Lebanon,
+Jeho vzhled je jako ⟦lebanon|Levanon|Libanón⟧,
 vybraný jako cedry.
 
 [16] Jeho ústa jsou přesladká
 a celý je žádoucí.
 To je můj milý a to je můj přítel,
-dcery Jerusalema.
+dcery ⟦jerusalem|Jerušalajim|Jeruzaléma⟧.
 
 ## Změny
 

@@ -1,8 +1,8 @@
 # Leviticus 12
 
-[1] Yahweh spoke to Moses, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[2] "Speak to the children of Israel, saying: 'If a woman conceives and bears a male child, she shall be unclean for seven days; as in the days of her menstrual separation she shall be unclean.
+[2] "Speak to the children of ⟦israel|Yisrael|Israel⟧, saying: 'If a woman conceives and bears a male child, she shall be unclean for seven days; as in the days of her menstrual separation she shall be unclean.
 
 [3] On the eighth day the flesh of his foreskin shall be circumcised.
 
@@ -12,7 +12,7 @@
 
 [6] When the days of her purification are completed — whether for a son or for a daughter — she shall bring to the priest at the entrance of the Tent of Meeting a year-old lamb as a burnt offering, and a young pigeon or a turtledove as a sin offering.
 
-[7] He shall offer it before Yahweh and make atonement for her, and she shall be cleansed from the flow of her blood. This is the law for her who bears a child, male or female.
+[7] He shall offer it before ⟦yhwh|Yahweh|the LORD⟧ and make atonement for her, and she shall be cleansed from the flow of her blood. This is the law for her who bears a child, male or female.
 
 [8] And if she cannot afford a lamb, she shall take two turtledoves or two young pigeons — one for a burnt offering and the other for a sin offering; and the priest shall make atonement for her, and she shall be clean.'"
 

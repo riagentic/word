@@ -1,70 +1,70 @@
 # Jozue 24
 
-[1] Joshua shromáždil všechny kmeny Israele do Shechemu a svolal starší Israele, jeho představené, jeho soudce a jeho správce; a postavili se před *Elohim*.
+[1] ⟦joshua|Jehošua|Jozue⟧ shromáždil všechny kmeny ⟦israel|Jisraele|Izraele⟧ do ⟦shechem|Šechemu|Šekemu⟧ a svolal starší ⟦israel|Jisraele|Izraele⟧, jeho představené, jeho soudce a jeho správce; a postavili se před ⟦elohim|Elohim|Boha⟧.
 
-[2] Joshua řekl všemu lidu: „Tak praví Yahweh, *Elohim* Israele: ‚Kdysi dávno bydleli vaši otcové – Terah, otec Abrahamův a otec Nahorův – za Řekou a sloužili jiným bohům.
+[2] ⟦joshua|Jehošua|Jozue⟧ řekl všemu lidu: „Tak praví ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧: ‚Kdysi dávno bydleli vaši otcové – Terach, otec ⟦abraham|Avrahamův|Abrahamův⟧ a otec ⟦nahor|Nachorův|Náchorův⟧ – za Řekou a sloužili jiným bohům.
 
-[3] Vzal jsem vašeho otce Abrahama zpoza Řeky a vodil jsem ho celou zemí Canaan. Rozmnožil jsem jeho potomstvo a dal jsem mu Isaaca.
+[3] Vzal jsem vašeho otce ⟦abraham|Avrahama|Abrahama⟧ zpoza Řeky a vodil jsem ho celou zemí Kenaan. Rozmnožil jsem jeho potomstvo a dal jsem mu ⟦isaac|Jicchaka|Izáka⟧.
 
-[4] Isaacovi jsem dal Jacoba a Esaua. Esauovi jsem dal do vlastnictví horu Seir, ale Jacob a jeho synové sestoupili do Egypta.
+[4] ⟦isaac|Jicchakovi|Izákovi⟧ jsem dal ⟦jacob|Jaakova|Jákoba⟧ a ⟦esau|Esava|Ezaua⟧. ⟦esau|Esavovi|Ezauovi⟧ jsem dal do vlastnictví horu ⟦seir|Seir|Seír⟧, ale ⟦jacob|Jaakov|Jákob⟧ a jeho synové sestoupili do ⟦egypt|Micrajim|Egypta⟧.
 
-[5] Poslal jsem Mosese a Aarona a ranami jsem stihl Egypt tím, co jsem mezi nimi učinil; potom jsem vás vyvedl.
+[5] Poslal jsem ⟦moses|Moše|Mojžíše⟧ a ⟦aaron|Aharona|Árona⟧ a ranami jsem stihl ⟦egypt|Micrajim|Egypt⟧ tím, co jsem mezi nimi učinil; potom jsem vás vyvedl.
 
-[6] Vyvedl jsem vaše otce z Egypta a přišli jste k moři. Egypťané pronásledovali vaše otce s vozy a jezdci až k Rákosovému moři.
+[6] Vyvedl jsem vaše otce z ⟦egypt|Micrajim|Egypta⟧ a přišli jste k moři. ⟦egyptians|Micrim|Egypťané⟧ pronásledovali vaše otce s vozy a jezdci až k Rákosovému moři.
 
-[7] Když volali k Yahweh, položil tmu mezi vás a Egypťany, přivedl na ně moře a přikryl je; vaše vlastní oči viděly, co jsem učinil v Egyptě. Potom jste mnoho dní bydleli na poušti.
+[7] Když volali k ⟦yhwh|Jahvovi|Hospodinu⟧, položil tmu mezi vás a ⟦egyptians|Micrim|Egypťany⟧, přivedl na ně moře a přikryl je; vaše vlastní oči viděly, co jsem učinil v ⟦egypt|Micrajim|Egyptě⟧. Potom jste mnoho dní bydleli na poušti.
 
-[8] Přivedl jsem vás do země Amoritů, kteří bydleli za Jordanem. Bojovali s vámi, a já jsem vám je vydal do ruky; zaujali jste jejich zemi a já jsem je před vámi vyhladil.
+[8] Přivedl jsem vás do země ⟦amorites|Emorim|Emorejců⟧, kteří bydleli za ⟦jordan|Jardenem|Jordánem⟧. Bojovali s vámi, a já jsem vám je vydal do ruky; zaujali jste jejich zemi a já jsem je před vámi vyhladil.
 
-[9] Potom povstal Balak, syn Zipporův, král Moabu, a bojoval proti Israeli. Poslal a povolal Balaama, syna Beorova, aby vás proklel,
+[9] Potom povstal ⟦balak|Balak|Balák⟧, syn ⟦zippor|Cipporův|Sipórův⟧, král ⟦moab|Moavu|Moábu⟧, a bojoval proti ⟦israel|Jisraeli|Izraeli⟧. Poslal a povolal ⟦balaam|Bilama|Bileáma⟧, syna ⟦beor|Beorova|Beórova⟧, aby vás proklel,
 
-[10] ale já jsem nechtěl Balaama slyšet; proto vám naopak žehnal, a já jsem vás vysvobodil z jeho ruky.
+[10] ale já jsem nechtěl ⟦balaam|Bilama|Bileáma⟧ slyšet; proto vám naopak žehnal, a já jsem vás vysvobodil z jeho ruky.
 
-[11] Přešli jste Jordan a přišli k Jerichu; páni Jericha bojovali proti vám – Amorité, Perizzité, Canaanité, Hittité, Girgashité, Hivité a Jebusité – a já jsem vám je vydal do ruky.
+[11] Přešli jste ⟦jordan|Jarden|Jordán⟧ a přišli k Jerichu; páni Jericha bojovali proti vám – ⟦amorites|Emorim|Emorejci⟧, ⟦perizzites|Perizzim|Perizejci⟧, ⟦canaanites|Kenaanim|Kenaanci⟧, ⟦hittites|Chittim|Chetejci⟧, ⟦girgashites|Girgašim|Girgašejci⟧, ⟦hivites|Chivvim|Chivejci⟧ a ⟦jebusites|Jevusim|Jebúsejci⟧ – a já jsem vám je vydal do ruky.
 
-[12] Poslal jsem před vámi sršně, a ti je před vámi vyhnali – ty dva amoritské krále – ne vaším mečem ani vaším lukem.
+[12] Poslal jsem před vámi sršně, a ti je před vámi vyhnali – ty dva ⟦amorites|emorijské|emorejské⟧ krále – ne vaším mečem ani vaším lukem.
 
 [13] Dal jsem vám zemi, na níž jste se nenamáhali, a města, která jste nestavěli, a vy v nich bydlíte. Jíte z vinic a olivových hájů, které jste nesázeli.‘
 
-[14] Nyní se tedy bojte Yahweh a služte mu v bezúhonnosti a věrnosti. Odstraňte bohy, jimž sloužili vaši otcové za Řekou a v Egyptě, a služte Yahweh.
+[14] Nyní se tedy bojte ⟦yhwh|Jahveho|Hospodina⟧ a služte mu v bezúhonnosti a věrnosti. Odstraňte bohy, jimž sloužili vaši otcové za Řekou a v ⟦egypt|Micrajim|Egyptě⟧, a služte ⟦yhwh|Jahvovi|Hospodinu⟧.
 
-[15] Jestliže je ve vašich očích zlé sloužit Yahweh, vyberte si dnes, komu budete sloužit – zda bohům, jimž sloužili vaši otcové za Řekou, nebo bohům Amoritů, v jejichž zemi bydlíte. Ale já a můj dům budeme sloužit Yahweh.“
+[15] Jestliže je ve vašich očích zlé sloužit ⟦yhwh|Jahvovi|Hospodinu⟧, vyberte si dnes, komu budete sloužit – zda bohům, jimž sloužili vaši otcové za Řekou, nebo bohům ⟦amorites|Emorim|Emorejců⟧, v jejichž zemi bydlíte. Ale já a můj dům budeme sloužit ⟦yhwh|Jahvovi|Hospodinu⟧.“
 
-[16] Lid odpověděl: „Ať je nám daleko, abychom opustili Yahweh a sloužili jiným bohům.
+[16] Lid odpověděl: „Ať je nám daleko, abychom opustili ⟦yhwh|Jahveho|Hospodina⟧ a sloužili jiným bohům.
 
-[17] Neboť Yahweh, náš *Elohim*, je ten, kdo vyvedl nás i naše otce ze země Egypt, z domu otroctví – kdo před našima očima učinil ta veliká znamení a chránil nás na celé cestě, kterou jsme šli, a mezi všemi národy, jimiž jsme procházeli.
+[17] Neboť ⟦yhwh|Jahve|Hospodin⟧, náš ⟦elohim|Elohim|Bůh⟧, je ten, kdo vyvedl nás i naše otce ze země ⟦egypt|Micrajim|Egypt⟧, z domu otroctví – kdo před našima očima učinil ta veliká znamení a chránil nás na celé cestě, kterou jsme šli, a mezi všemi národy, jimiž jsme procházeli.
 
-[18] Yahweh před námi vyhnal všechny národy, i Amority, kteří bydleli v zemi. Proto i my budeme sloužit Yahweh, neboť on je náš *Elohim*.“
+[18] ⟦yhwh|Jahve|Hospodin⟧ před námi vyhnal všechny národy, i ⟦amorites|Emorim|Emorejce⟧, kteří bydleli v zemi. Proto i my budeme sloužit ⟦yhwh|Jahvovi|Hospodinu⟧, neboť on je náš ⟦elohim|Elohim|Bůh⟧.“
 
-[19] Joshua řekl lidu: „Nejste schopni sloužit Yahweh, neboť je svatý *Elohim*; je žárlivý *Elohim*. Neodpustí vaše přestoupení ani vaše hříchy.
+[19] ⟦joshua|Jehošua|Jozue⟧ řekl lidu: „Nejste schopni sloužit ⟦yhwh|Jahvovi|Hospodinu⟧, neboť je svatý ⟦elohim|Elohim|Bůh⟧; je žárlivý ⟦el|El|Bůh⟧. Neodpustí vaše přestoupení ani vaše hříchy.
 
-[20] Jestliže opustíte Yahweh a budete sloužit cizím bohům, obrátí se, uškodí vám a zničí vás, ačkoli vám předtím prokazoval dobro.“
+[20] Jestliže opustíte ⟦yhwh|Jahveho|Hospodina⟧ a budete sloužit cizím bohům, obrátí se, uškodí vám a zničí vás, ačkoli vám předtím prokazoval dobro.“
 
-[21] Lid řekl Joshuovi: „Ne, my budeme sloužit Yahweh.“
+[21] Lid řekl ⟦joshua|Jehošuovi|Jozuovi⟧: „Ne, my budeme sloužit ⟦yhwh|Jahvovi|Hospodinu⟧.“
 
-[22] Joshua řekl lidu: „Jste sami proti sobě svědky, že jste si vyvolili Yahweh, abyste mu sloužili.“ A oni řekli: „Jsme svědky.“
+[22] ⟦joshua|Jehošua|Jozue⟧ řekl lidu: „Jste sami proti sobě svědky, že jste si vyvolili ⟦yhwh|Jahveho|Hospodina⟧, abyste mu sloužili.“ A oni řekli: „Jsme svědky.“
 
-[23] „Nyní tedy odstraňte cizí bohy, kteří jsou mezi vámi, a nakloňte své srdce k Yahweh, *Elohim* Israele.“
+[23] „Nyní tedy odstraňte cizí bohy, kteří jsou mezi vámi, a nakloňte své srdce k ⟦yhwh|Jahvovi|Hospodinu⟧, ⟦elohim|Elohim|Bohu⟧ ⟦israel|Jisraele|Izraele⟧.“
 
-[24] Lid řekl Joshuovi: „Yahweh, našemu *Elohim*, budeme sloužit a jeho hlasu budeme poslouchat.“
+[24] Lid řekl ⟦joshua|Jehošuovi|Jozuovi⟧: „⟦yhwh|Jahvovi|Hospodinu⟧, našemu ⟦elohim|Elohim|Bohu⟧, budeme sloužit a jeho hlasu budeme poslouchat.“
 
-[25] Tak Joshua toho dne uzavřel s lidem smlouvu a dal mu v Shechemu ustanovení a právo.
+[25] Tak ⟦joshua|Jehošua|Jozue⟧ toho dne uzavřel s lidem smlouvu a dal mu v ⟦shechem|Šechemu|Šekemu⟧ ustanovení a právo.
 
-[26] Joshua zapsal tato slova do knihy *Torah* *Elohim*, vzal veliký kámen a postavil jej tam pod dubem, který byl u svatyně Yahweh.
+[26] ⟦joshua|Jehošua|Jozue⟧ zapsal tato slova do knihy ⟦torah|Tóry|zákona⟧ ⟦elohim|Elohim|Božího⟧, vzal veliký kámen a postavil jej tam pod dubem, který byl u svatyně ⟦yhwh|Jahveho|Hospodina⟧.
 
-[27] Joshua řekl všemu lidu: „Hle, tento kámen bude svědkem proti nám, neboť slyšel všechna slova Yahweh, která k nám mluvil. Bude tedy svědkem proti vám, abyste nezapřeli svého *Elohim*.“
+[27] ⟦joshua|Jehošua|Jozue⟧ řekl všemu lidu: „Hle, tento kámen bude svědkem proti nám, neboť slyšel všechna slova ⟦yhwh|Jahveho|Hospodina⟧, která k nám mluvil. Bude tedy svědkem proti vám, abyste nezapřeli svého ⟦elohim|Elohim|Boha⟧.“
 
-[28] Potom Joshua propustil lid, každého do jeho dědictví.
+[28] Potom ⟦joshua|Jehošua|Jozue⟧ propustil lid, každého do jeho dědictví.
 
-[29] Po těchto událostech zemřel Joshua, syn Nunův, služebník Yahweh, ve věku sto deseti let.
+[29] Po těchto událostech zemřel ⟦joshua|Jehošua|Jozue⟧, syn ⟦nun|Nunův|Núnův⟧, služebník ⟦yhwh|Jahveho|Hospodina⟧, ve věku sto deseti let.
 
-[30] Pohřbili ho v jeho vlastním dědictví v Timnath-serah, které je v pahorkatině Ephraim, severně od hory Gaash.
+[30] Pohřbili ho v jeho vlastním dědictví v ⟦timnath-serah|Timnat Serachu|Timnat-serachu⟧, které je v pahorkatině Efrajim, severně od hory Gaaš.
 
-[31] Israel sloužil Yahweh po všechny dny Joshuy a po všechny dny starších, kteří Joshuu přežili a znali všechno dílo, které Yahweh pro Israel vykonal.
+[31] ⟦israel|Jisrael|Izrael⟧ sloužil ⟦yhwh|Jahvovi|Hospodinu⟧ po všechny dny ⟦joshua|Jehošuy|Jozua⟧ a po všechny dny starších, kteří ⟦joshua|Jehošuu|Jozua⟧ přežili a znali všechno dílo, které ⟦yhwh|Jahve|Hospodin⟧ pro ⟦israel|Jisrael|Izrael⟧ vykonal.
 
-[32] Josephovy kosti, které synové Israele vynesli z Egypta, pohřbili v Shechemu na kusu pole, který Jacob koupil od synů Hamora, otce Shechemova, za sto kusů stříbra. Stal se dědictvím synů Josepha.
+[32] Josefovy kosti, které synové ⟦israel|Jisraele|Izraele⟧ vynesli z ⟦egypt|Micrajim|Egypta⟧, pohřbili v ⟦shechem|Šechemu|Šekemu⟧ na kusu pole, který ⟦jacob|Jaakov|Jákob⟧ koupil od synů ⟦hamor|Chamora|Chamóra⟧, otce ⟦shechem|Šechemova|Šekemova⟧, za sto kusů stříbra. Stal se dědictvím synů Josefa.
 
-[33] Eleazar, syn Aaronův, zemřel a pohřbili ho v Gibeah, které patřilo jeho synu Phinehasovi a bylo mu dáno v pahorkatině Ephraim.
+[33] ⟦eleazar|Elazar|Eleazar⟧, syn ⟦aaron|Aharonův|Áronův⟧, zemřel a pohřbili ho v ⟦gibeah|Givě, která patřila jeho synu Pinchasovi a byla mu dána|Gibeji, která patřila jeho synu Pinchasovi a byla mu dána⟧ v pahorkatině Efrajim.
 
 ## Změny
 
@@ -76,6 +76,7 @@
 - **"God forbid" → „Ať je nám daleko“** (v16) – idiomatické.
 - **"book of the law of God" → „kniha *Torah* *Elohim*“** (v26).
 - **"overlived" → „přežili“** (v31) – archaické.
+- **"a jealous God" → „žárlivý El“** (v19) – hebrejsky אֵל קַנּוֹא *El qanno*; *El*, ne *Elohim* („svatý *Elohim*“ těsně předtím je אֱלֹהִים).
 
 ### Poznámky
 - **Smluvní obřad v Shechemu** – druhé, slavnostnější rozloučení. Shechem: místo, kde Abraham poprvé vstoupil do země (Gen 12:6–7), kde Jacob postavil oltář (Gen 33:20), kde jsou pohřbeny Josephovy kosti. Místo hluboké paměti.

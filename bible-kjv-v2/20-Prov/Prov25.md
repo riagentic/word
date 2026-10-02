@@ -1,8 +1,8 @@
 # Proverbs 25
 
-[1] These also are proverbs of Solomon which the men of Hezekiah king of Judah copied:
+[1] These also are proverbs of ⟦solomon|Shlomo|Solomon⟧ which the men of ⟦hezekiah|Chizqiyahu|Hezekiah⟧ king of ⟦judah|Yehudah|Judah⟧ copied:
 
-[2] It is the glory of *Elohim* to conceal things,
+[2] It is the glory of ⟦elohim|Elohim|God⟧ to conceal things,
 but the glory of kings is to search things out.
 
 [3] As the heavens for height, and the earth for depth,
@@ -67,7 +67,7 @@ and like vinegar on soda.
 and if he is thirsty, give him water to drink,
 
 [22] for you will heap burning coals on his head,
-and Yahweh will reward you.
+and ⟦yhwh|Yahweh|the LORD⟧ will reward you.
 
 [23] The north wind brings forth rain,
 and a backbiting tongue, angry looks.

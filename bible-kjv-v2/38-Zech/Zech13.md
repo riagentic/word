@@ -1,10 +1,10 @@
 # Zechariah 13
 
-[1] On that day there shall be a fountain opened for the house of David and the inhabitants of Jerusalem, to cleanse them from sin and uncleanness.
+[1] On that day there shall be a fountain opened for the house of David and the inhabitants of ⟦jerusalem|Yerushalayim|Jerusalem⟧, to cleanse them from sin and uncleanness.
 
-[2] "And on that day, declares Yahweh of Hosts, I will cut off the names of the idols from the land, so that they shall be remembered no more. And also I will remove from the land the prophets and the spirit of uncleanness.
+[2] "And on that day, declares ⟦yhwh|Yahweh|the LORD⟧ of Hosts, I will cut off the names of the idols from the land, so that they shall be remembered no more. And also I will remove from the land the prophets and the spirit of uncleanness.
 
-[3] And if anyone again prophesies, his father and mother who bore him will say to him, 'You shall not live, for you speak lies in the name of Yahweh.' And his father and mother who bore him shall pierce him through when he prophesies.
+[3] And if anyone again prophesies, his father and mother who bore him will say to him, 'You shall not live, for you speak lies in the name of ⟦yhwh|Yahweh|the LORD⟧.' And his father and mother who bore him shall pierce him through when he prophesies.
 
 [4] "On that day every prophet will be ashamed of his vision when he prophesies. He will not put on a hairy cloak in order to deceive,
 
@@ -14,11 +14,11 @@
 
 [7] "Awake, O sword, against my shepherd,
 against the man who stands next to me,"
-declares Yahweh of Hosts.
+declares ⟦yhwh|Yahweh|the LORD⟧ of Hosts.
 "**Strike the shepherd, and the sheep will be scattered;**
 I will turn my hand against the little ones.
 
-[8] In the whole land, declares Yahweh,
+[8] In the whole land, declares ⟦yhwh|Yahweh|the LORD⟧,
 two thirds shall be cut off and perish,
 and one third shall be left alive.
 
@@ -28,7 +28,7 @@ and test them as gold is tested.
 They will call upon my name,
 and I will answer them.
 I will say, 'They are my people';
-and they will say, 'Yahweh is my *Elohim*.'"
+and they will say, '⟦yhwh|Yahweh|The LORD⟧ is my ⟦elohim|Elohim|God⟧.'"
 
 ## Changes
 

@@ -1,16 +1,16 @@
 # Jób 32
 
-[1] Tak ti tři muži přestali Jobovi odpovídat, protože byl spravedlivý ve svých očích.
+[1] Tak ti tři muži přestali ⟦job|Ijovovi|Jóbovi⟧ odpovídat, protože byl spravedlivý ve svých očích.
 
-[2] Tu vzplál hněv Elihua, syna Barachelova, Buzijského, z rodu Ram. Jeho hněv vzplál proti Jobovi, protože ospravedlňoval sebe spíše než *Elohim*;
+[2] Tu vzplál hněv ⟦elihu|Elihua|Elíhúa⟧, syna ⟦barachel|Barachelova|Barakeelova⟧, ⟦buzite|Buziho|Búzského⟧, z rodu ⟦ram|Ram|Rám⟧. Jeho hněv vzplál proti ⟦job|Ijovovi|Jóbovi⟧, protože ospravedlňoval sebe spíše než ⟦elohim|Elohim|Boha⟧;
 
-[3] i proti jeho třem přátelům vzplál jeho hněv, protože nenašli odpověď, a přesto Joba odsoudili.
+[3] i proti jeho třem přátelům vzplál jeho hněv, protože nenašli odpověď, a přesto ⟦job|Ijova|Jóba⟧ odsoudili.
 
-[4] Elihu totiž čekal, než k Jobovi promluví, protože oni byli starší než on.
+[4] ⟦elihu|Elihu|Elíhú⟧ totiž čekal, než k ⟦job|Ijovovi|Jóbovi⟧ promluví, protože oni byli starší než on.
 
-[5] Když Elihu viděl, že v ústech těch tří mužů není odpověď, vzplál jeho hněv.
+[5] Když ⟦elihu|Elihu|Elíhú⟧ viděl, že v ústech těch tří mužů není odpověď, vzplál jeho hněv.
 
-[6] Elihu, syn Barachelův, Buzijský, se ujal slova a řekl:
+[6] ⟦elihu|Elihu|Elíhú⟧, syn ⟦barachel|Barachelův|Barakeelův⟧, ⟦buzite|Buzi|Búzský⟧, se ujal slova a řekl:
 
 „Já jsem mladý věkem, a vy jste staří;
 proto jsem byl ostýchavý a bál jsem se
@@ -20,7 +20,7 @@ vám oznámit svůj názor.
 a mnohá léta ať učí moudrosti.‘
 
 [8] Ale je to duch v člověku,
-dech Shaddaie, co jim dává porozumění.
+dech ⟦shaddai|Šaddaje|Všemohoucího⟧, co jim dává porozumění.
 
 [9] Moudří nejsou ti mnozí
 ani starci nerozumějí právu.
@@ -33,11 +33,11 @@ naslouchal jsem vašim moudrým řečem,
 zatímco jste hledali, co říci.
 
 [12] Pozorně jsem vás sledoval;
-hle, nebyl mezi vámi nikdo, kdo by Joba vyvrátil,
+hle, nebyl mezi vámi nikdo, kdo by ⟦job|Ijova|Jóba⟧ vyvrátil,
 nikdo, kdo by odpověděl na jeho slova.
 
 [13] Dejte si pozor, abyste neřekli: ‚Našli jsme moudrost;
-*Elohim* ho může přemoci, ne člověk.‘
+⟦el|El|Bůh⟧ ho může přemoci, ne člověk.‘
 
 [14] Svoje argumenty nesešikoval proti mně
 a já mu nebudu odpovídat vašimi řečmi.
@@ -69,6 +69,7 @@ jinak by mě můj Stvořitel brzy odklidil.“
 ## Změny
 
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
+- **"God" → „El“** (v13) – hebrejsky אֵל *El*, ne *Elohim*.
 - **"inspiration" → „dech“** (v8) – *nishmat*.
 - **"matter" → „slov“** (v18) – *millim*.
 - **"bottles" → „měchy“** (v19).

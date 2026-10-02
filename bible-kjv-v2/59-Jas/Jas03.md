@@ -12,13 +12,13 @@
 
 How great a forest is set ablaze by such a small fire!
 
-[6] And **the tongue is a fire**, a world of unrighteousness. The tongue is set among our members, staining the whole body, setting on fire the entire course of life, and set on fire by Gehenna.
+[6] And **the tongue is a fire**, a world of unrighteousness. The tongue is set among our members, staining the whole body, setting on fire the entire course of life, and set on fire by ⟦gehenna|Gehenna|hell⟧.
 
 [7] For every kind of beast and bird, of reptile and sea creature, can be tamed and has been tamed by mankind,
 
 [8] but no human being can tame the tongue. It is a restless evil, full of deadly poison.
 
-[9] With it we bless our Lord and Father, and with it we curse people who are made in the likeness of *Elohim*.
+[9] With it we bless our Lord and Father, and with it we curse people who are made in the likeness of ⟦elohim|Elohim|God⟧.
 
 [10] From the same mouth come blessing and cursing. My brothers, these things ought not to be so.
 

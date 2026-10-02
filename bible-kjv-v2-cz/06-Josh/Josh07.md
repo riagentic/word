@@ -1,56 +1,56 @@
 # Jozue 7
 
-[1] Synové Israele se však zpronevěřili, pokud jde o věci zasvěcené zkáze: Achan, syn Carmiho, syna Zabdiho, syna Zerahova, z kmene Judah, vzal něco z věcí zasvěcených zkáze; a hněv Yahweh vzplanul proti synům Israele.
+[1] Synové ⟦israel|Jisraele|Izraele⟧ se však zpronevěřili, pokud jde o věci zasvěcené zkáze: ⟦achan|Achan|Akan⟧, syn ⟦carmi|Karmiho|Karmího⟧, syna ⟦zabdi|Zavdiho|Zabdího⟧, syna Zerachova, z kmene ⟦judah|Jehudy|Judy⟧, vzal něco z věcí zasvěcených zkáze; a hněv ⟦yhwh|Jahveho|Hospodina⟧ vzplanul proti synům ⟦israel|Jisraele|Izraele⟧.
 
-[2] Joshua poslal muže z Jericha do Ai, které leží u Beth-avenu, na východ od Bethelu, a řekl jim: „Vystupte a vyzvězte zemi.“ Muži vystoupili a vyzvěděli Ai.
+[2] ⟦joshua|Jehošua|Jozue⟧ poslal muže z Jericha do Aje, které leží u ⟦beth-aven|Bejt Avenu|Bét-avenu⟧, na východ od ⟦bethel|Bejt Elu|Bét-elu⟧, a řekl jim: „Vystupte a vyzvězte zemi.“ Muži vystoupili a vyzvěděli Aj.
 
-[3] Vrátili se k Joshuovi a řekli mu: „Ať nevystupuje všechen lid; ať vystoupí jen asi dva nebo tři tisíce mužů a pobijí Ai. Neobtěžuj tam všechen lid, neboť jich je málo.“
+[3] Vrátili se k ⟦joshua|Jehošuovi|Jozuovi⟧ a řekli mu: „Ať nevystupuje všechen lid; ať vystoupí jen asi dva nebo tři tisíce mužů a pobijí Aj. Neobtěžuj tam všechen lid, neboť jich je málo.“
 
-[4] Vystoupilo tedy tam z lidu asi tři tisíce mužů; ale před muži z Ai utekli.
+[4] Vystoupilo tedy tam z lidu asi tři tisíce mužů; ale před muži z Aje utekli.
 
-[5] Muži z Ai jich pobili asi třicet šest, pronásledovali je od brány až k lomům a pobíjeli je na svahu. Srdce lidu se rozplynulo a stalo se jako voda.
+[5] Muži z Aje jich pobili asi třicet šest, pronásledovali je od brány až k lomům a pobíjeli je na svahu. Srdce lidu se rozplynulo a stalo se jako voda.
 
-[6] Joshua roztrhl své šaty a padl tváří k zemi před truhlou Yahweh až do večera, on i starší Israele; a sypali si prach na hlavy.
+[6] ⟦joshua|Jehošua|Jozue⟧ roztrhl své šaty a padl tváří k zemi před truhlou ⟦yhwh|Jahveho|Hospodina⟧ až do večera, on i starší ⟦israel|Jisraele|Izraele⟧; a sypali si prach na hlavy.
 
-[7] Joshua řekl: „Ach, Pane Yahweh, proč jsi vůbec převedl tento lid přes Jordan, abys nás vydal do ruky Amoritů a zahubil nás? Kéž bychom se byli spokojili a zůstali za Jordanem!
+[7] ⟦joshua|Jehošua|Jozue⟧ řekl: „Ach, ⟦adonai-yhwh|Pane Jahve|Panovníku Hospodine⟧, proč jsi vůbec převedl tento lid přes ⟦jordan|Jarden|Jordán⟧, abys nás vydal do ruky ⟦amorites|Emorim|Emorejců⟧ a zahubil nás? Kéž bychom se byli spokojili a zůstali za ⟦jordan|Jardenem|Jordánem⟧!
 
-[8] Pane, co mám říci, když Israel obrátil záda před svými nepřáteli?
+[8] ⟦adonai|Adonaji|Pane⟧, co mám říci, když ⟦israel|Jisrael|Izrael⟧ obrátil záda před svými nepřáteli?
 
-[9] Neboť Canaanité a všichni obyvatelé země o tom uslyší, obklíčí nás a vyhladí naše jméno ze země. A co uděláš pro své veliké jméno?“
+[9] Neboť ⟦canaanites|Kenaanim|Kenaanci⟧ a všichni obyvatelé země o tom uslyší, obklíčí nás a vyhladí naše jméno ze země. A co uděláš pro své veliké jméno?“
 
-[10] Yahweh řekl Joshuovi: „Vstaň! Proč ležíš na tváři?
+[10] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦joshua|Jehošuovi|Jozuovi⟧: „Vstaň! Proč ležíš na tváři?
 
-[11] Israel zhřešil; také přestoupili mou smlouvu, kterou jsem jim přikázal. Vzali něco z věcí zasvěcených zkáze; kradli; lhali; uložili je mezi své vlastní věci.
+[11] ⟦israel|Jisrael|Izrael⟧ zhřešil; také přestoupili mou smlouvu, kterou jsem jim přikázal. Vzali něco z věcí zasvěcených zkáze; kradli; lhali; uložili je mezi své vlastní věci.
 
-[12] Proto synové Israele nemohou obstát před svými nepřáteli; obracejí záda před svými nepřáteli, protože se sami stali zasvěcenými zkáze. Už nebudu s vámi, jestliže nezničíte to, co je zasvěceno zkáze, ze svého středu.
+[12] Proto synové ⟦israel|Jisraele|Izraele⟧ nemohou obstát před svými nepřáteli; obracejí záda před svými nepřáteli, protože se sami stali zasvěcenými zkáze. Už nebudu s vámi, jestliže nezničíte to, co je zasvěceno zkáze, ze svého středu.
 
-[13] Vstaň! Posvěť lid a řekni: ‚Posvěťte se na zítřek; neboť tak praví Yahweh, *Elohim* Israele: „Uprostřed tebe, Israeli, jsou věci zasvěcené zkáze; nemůžeš obstát před svými nepřáteli, dokud neodstraníte věci zasvěcené zkáze ze svého středu.“
+[13] Vstaň! Posvěť lid a řekni: ‚Posvěťte se na zítřek; neboť tak praví ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧: „Uprostřed tebe, ⟦israel|Jisraeli|Izraeli⟧, jsou věci zasvěcené zkáze; nemůžeš obstát před svými nepřáteli, dokud neodstraníte věci zasvěcené zkáze ze svého středu.“
 
-[14] Ráno tedy budete předstupovat po svých kmenech; a kmen, který Yahweh vybere, bude předstupovat po rodech; a rod, který Yahweh vybere, bude předstupovat po domácnostech; a domácnost, kterou Yahweh vybere, bude předstupovat muž po muži.
+[14] Ráno tedy budete předstupovat po svých kmenech; a kmen, který ⟦yhwh|Jahve|Hospodin⟧ vybere, bude předstupovat po rodech; a rod, který ⟦yhwh|Jahve|Hospodin⟧ vybere, bude předstupovat po domácnostech; a domácnost, kterou ⟦yhwh|Jahve|Hospodin⟧ vybere, bude předstupovat muž po muži.
 
-[15] Ten, kdo bude vybrán s věcmi zasvěcenými zkáze, bude spálen ohněm – on i všechno, co má – protože přestoupil smlouvu Yahweh a protože se dopustil v Israeli hanebnosti.‘“
+[15] Ten, kdo bude vybrán s věcmi zasvěcenými zkáze, bude spálen ohněm – on i všechno, co má – protože přestoupil smlouvu ⟦yhwh|Jahveho|Hospodina⟧ a protože se dopustil v ⟦israel|Jisraeli|Izraeli⟧ hanebnosti.‘“
 
-[16] Joshua tedy vstal časně ráno a dal Israeli předstoupit po kmenech; a byl vybrán kmen Judah.
+[16] ⟦joshua|Jehošua|Jozue⟧ tedy vstal časně ráno a dal ⟦israel|Jisraeli|Izraeli⟧ předstoupit po kmenech; a byl vybrán kmen ⟦judah|Jehuda|Juda⟧.
 
-[17] Dal předstoupit rodům Judah a byl vybrán rod Zerahovců; dal předstoupit rodu Zerahovců muž po muži a byl vybrán Zabdi.
+[17] Dal předstoupit rodům ⟦judah|Jehudy|Judy⟧ a byl vybrán rod ⟦zerahites|Zarchi|Zerachovců⟧; dal předstoupit rodu ⟦zerahites|Zarchi|Zerachovců⟧ muž po muži a byl vybrán ⟦zabdi|Zavdi|Zabdí⟧.
 
-[18] Dal předstoupit jeho domácnosti muž po muži a byl vybrán Achan, syn Carmiho, syna Zabdiho, syna Zerahova, z kmene Judah.
+[18] Dal předstoupit jeho domácnosti muž po muži a byl vybrán ⟦achan|Achan|Akan⟧, syn ⟦carmi|Karmiho|Karmího⟧, syna ⟦zabdi|Zavdiho|Zabdího⟧, syna Zerachova, z kmene ⟦judah|Jehudy|Judy⟧.
 
-[19] Joshua řekl Achanovi: „Můj synu, vzdej slávu Yahweh, *Elohim* Israele, a vyznej se mu. Pověz mi teď, co jsi udělal; nic přede mnou neskrývej.“
+[19] ⟦joshua|Jehošua|Jozue⟧ řekl ⟦achan|Achanovi|Akanovi⟧: „Můj synu, vzdej slávu ⟦yhwh|Jahvovi|Hospodinu⟧, ⟦elohim|Elohim|Bohu⟧ ⟦israel|Jisraele|Izraele⟧, a vyznej se mu. Pověz mi teď, co jsi udělal; nic přede mnou neskrývej.“
 
-[20] Achan odpověděl Joshuovi: „Opravdu jsem zhřešil proti Yahweh, *Elohim* Israele, a toto jsem udělal:
+[20] ⟦achan|Achan|Akan⟧ odpověděl ⟦joshua|Jehošuovi|Jozuovi⟧: „Opravdu jsem zhřešil proti ⟦yhwh|Jahvovi|Hospodinu⟧, ⟦elohim|Elohim|Bohu⟧ ⟦israel|Jisraele|Izraele⟧, a toto jsem udělal:
 
-[21] když jsem uviděl mezi kořistí krásný plášť ze Shinaru, dvě stě šekelů stříbra a zlatý prut vážící padesát šekelů, zatoužil jsem po nich a vzal jsem je. Hle, jsou zakopány v zemi uvnitř mého stanu a stříbro je pod tím.“
+[21] když jsem uviděl mezi kořistí krásný plášť ze ⟦shinar|Šinaru|Šineáru⟧, dvě stě šekelů stříbra a zlatý prut vážící padesát šekelů, zatoužil jsem po nich a vzal jsem je. Hle, jsou zakopány v zemi uvnitř mého stanu a stříbro je pod tím.“
 
-[22] Joshua tedy poslal posly a ti běželi ke stanu, a hle, bylo to ukryto v jeho stanu a stříbro pod tím.
+[22] ⟦joshua|Jehošua|Jozue⟧ tedy poslal posly a ti běželi ke stanu, a hle, bylo to ukryto v jeho stanu a stříbro pod tím.
 
-[23] Vynesli to ze stanu, přinesli to Joshuovi a všem synům Israele a rozložili to před Yahweh.
+[23] Vynesli to ze stanu, přinesli to ⟦joshua|Jehošuovi|Jozuovi⟧ a všem synům ⟦israel|Jisraele|Izraele⟧ a rozložili to před ⟦yhwh|Jahvem|Hospodinem⟧.
 
-[24] Potom Joshua a celý Israel s ním vzali Achana, syna Zerahova, i stříbro, plášť, zlatý prut, jeho syny, jeho dcery, jeho býky, jeho osly, jeho ovce, jeho stan a všechno, co měl; a vyvedli je do údolí Achor.
+[24] Potom ⟦joshua|Jehošua|Jozue⟧ a celý ⟦israel|Jisrael|Izrael⟧ s ním vzali ⟦achan|Achana|Akana⟧, syna Zerachova, i stříbro, plášť, zlatý prut, jeho syny, jeho dcery, jeho býky, jeho osly, jeho ovce, jeho stan a všechno, co měl; a vyvedli je do údolí ⟦achor|Achor|Akór⟧.
 
-[25] Joshua řekl: „Proč jsi na nás uvedl neštěstí? Yahweh uvede neštěstí na tebe dnes.“ A celý Israel ho ukamenoval kameny; spálili je ohněm a ukamenovali je kameny.
+[25] ⟦joshua|Jehošua|Jozue⟧ řekl: „Proč jsi na nás uvedl neštěstí? ⟦yhwh|Jahve|Hospodin⟧ uvede neštěstí na tebe dnes.“ A celý ⟦israel|Jisrael|Izrael⟧ ho ukamenoval kameny; spálili je ohněm a ukamenovali je kameny.
 
-[26] Navršili nad ním velikou hromadu kamenů, která stojí až do dnešního dne. Tehdy se Yahweh odvrátil od svého planoucího hněvu. Proto se to místo až do dnešního dne nazývá údolí Achor („Neštěstí“).
+[26] Navršili nad ním velikou hromadu kamenů, která stojí až do dnešního dne. Tehdy se ⟦yhwh|Jahve|Hospodin⟧ odvrátil od svého planoucího hněvu. Proto se to místo až do dnešního dne nazývá údolí ⟦achor|Achor|Akór⟧ („Neštěstí“).
 
 ## Změny
 

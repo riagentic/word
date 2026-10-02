@@ -1,20 +1,20 @@
 # Numbers 30
 
-[1] Moses spoke to the heads of the tribes of the children of Israel, saying, "This is the thing that Yahweh has commanded.
+[1] ⟦moses|Moshe|Moses⟧ spoke to the heads of the tribes of the children of ⟦israel|Yisrael|Israel⟧, saying, "This is the thing that ⟦yhwh|Yahweh|the LORD⟧ has commanded.
 
-[2] When a man makes a vow to Yahweh or swears an oath to bind himself by a pledge, he shall not break his word; he shall do according to all that proceeds out of his mouth.
+[2] When a man makes a vow to ⟦yhwh|Yahweh|the LORD⟧ or swears an oath to bind himself by a pledge, he shall not break his word; he shall do according to all that proceeds out of his mouth.
 
-[3] When a woman makes a vow to Yahweh and binds herself by a pledge, being in her father's house in her youth,
+[3] When a woman makes a vow to ⟦yhwh|Yahweh|the LORD⟧ and binds herself by a pledge, being in her father's house in her youth,
 
 [4] and her father hears her vow and the pledge by which she has bound herself, and her father says nothing to her, then all her vows shall stand, and every pledge by which she has bound herself shall stand.
 
-[5] But if her father disallows her on the day that he hears, none of her vows or of her pledges by which she has bound herself shall stand, and Yahweh will forgive her, because her father disallowed her.
+[5] But if her father disallows her on the day that he hears, none of her vows or of her pledges by which she has bound herself shall stand, and ⟦yhwh|Yahweh|the LORD⟧ will forgive her, because her father disallowed her.
 
 [6] And if she is married to a husband while she is under her vows — or utterances of her lips by which she has bound herself —
 
 [7] and her husband hears of it and says nothing to her on the day he hears, then her vows shall stand, and her pledges by which she has bound herself shall stand.
 
-[8] But if on the day her husband hears of it he disallows her, then he annuls her vow by which she is bound and the utterance of her lips by which she bound herself; and Yahweh will forgive her.
+[8] But if on the day her husband hears of it he disallows her, then he annuls her vow by which she is bound and the utterance of her lips by which she bound herself; and ⟦yhwh|Yahweh|the LORD⟧ will forgive her.
 
 [9] But every vow of a widow or of a divorced woman, by which she has bound herself, shall stand against her.
 
@@ -22,7 +22,7 @@
 
 [11] and her husband heard of it and said nothing to her and did not disallow her, then all her vows shall stand, and every pledge by which she bound herself shall stand.
 
-[12] But if her husband clearly annulled them on the day he heard of them, then whatever proceeded from her lips concerning her vows or the pledge binding her shall not stand; her husband has annulled them, and Yahweh will forgive her.
+[12] But if her husband clearly annulled them on the day he heard of them, then whatever proceeded from her lips concerning her vows or the pledge binding her shall not stand; her husband has annulled them, and ⟦yhwh|Yahweh|the LORD⟧ will forgive her.
 
 [13] Every vow, and every binding oath to afflict herself, her husband may confirm or her husband may annul.
 
@@ -30,7 +30,7 @@
 
 [15] And if he annuls them some time after he has heard of them, then he shall bear her iniquity."
 
-[16] These are the statutes that Yahweh commanded Moses, between a man and his wife, between a father and his daughter while she is in her youth in her father's house.
+[16] These are the statutes that ⟦yhwh|Yahweh|the LORD⟧ commanded ⟦moses|Moshe|Moses⟧, between a man and his wife, between a father and his daughter while she is in her youth in her father's house.
 
 ## Changes
 

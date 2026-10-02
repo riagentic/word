@@ -1,40 +1,40 @@
 # Genesis 20
 
-[1] From there Abraham journeyed toward the land of the Negev, and settled between Kadesh and Shur; and he sojourned in Gerar.
+[1] From there ⟦abraham|Avraham|Abraham⟧ journeyed toward the land of the ⟦negev|Negev|Negeb⟧, and settled between ⟦kadesh|Qadesh|Kadesh⟧ and Shur; and he sojourned in Gerar.
 
-[2] Abraham said of Sarah his wife, "She is my sister." And Abimelech king of Gerar sent and took Sarah.
+[2] ⟦abraham|Avraham|Abraham⟧ said of Sarah his wife, "She is my sister." And ⟦abimelech|Avimelech|Abimelech⟧ king of Gerar sent and took Sarah.
 
-[3] But *Elohim* came to Abimelech in a dream by night, and said to him, "Behold, you are about to die because of the woman you have taken, for she is a married woman."
+[3] But ⟦elohim|Elohim|God⟧ came to ⟦abimelech|Avimelech|Abimelech⟧ in a dream by night, and said to him, "Behold, you are about to die because of the woman you have taken, for she is a married woman."
 
-[4] Abimelech had not approached her; so he said, "Lord, will you slay even a righteous nation?
+[4] ⟦abimelech|Avimelech|Abimelech⟧ had not approached her; so he said, "⟦adonai|Adonai|Lord⟧, will you slay even a righteous nation?
 
 [5] Did he not himself say to me, 'She is my sister'? And she herself also said, 'He is my brother.' In the integrity of my heart and the innocence of my hands I have done this."
 
-[6] *Elohim* said to him in the dream, "Yes, I know that you did this in the integrity of your heart, and I also kept you from sinning against me; therefore I did not let you touch her.
+[6] ⟦elohim|Elohim|God⟧ said to him in the dream, "Yes, I know that you did this in the integrity of your heart, and I also kept you from sinning against me; therefore I did not let you touch her.
 
 [7] Now then, return the man's wife; for he is a prophet, and he will pray for you, and you shall live. But if you do not return her, know that you shall surely die, you and all that are yours."
 
-[8] So Abimelech rose early in the morning and called all his servants, and told all these things in their hearing; and the men were greatly afraid.
+[8] So ⟦abimelech|Avimelech|Abimelech⟧ rose early in the morning and called all his servants, and told all these things in their hearing; and the men were greatly afraid.
 
-[9] Then Abimelech called Abraham and said to him, "What have you done to us? How have I sinned against you, that you have brought on me and my kingdom a great sin? You have done to me things that ought not to be done."
+[9] Then ⟦abimelech|Avimelech|Abimelech⟧ called ⟦abraham|Avraham|Abraham⟧ and said to him, "What have you done to us? How have I sinned against you, that you have brought on me and my kingdom a great sin? You have done to me things that ought not to be done."
 
-[10] Abimelech said to Abraham, "What did you see, that you did this thing?"
+[10] ⟦abimelech|Avimelech|Abimelech⟧ said to ⟦abraham|Avraham|Abraham⟧, "What did you see, that you did this thing?"
 
-[11] Abraham said, "I thought, Surely there is no fear of *Elohim* in this place, and they will kill me because of my wife.
+[11] ⟦abraham|Avraham|Abraham⟧ said, "I thought, Surely there is no fear of ⟦elohim|Elohim|God⟧ in this place, and they will kill me because of my wife.
 
 [12] Moreover she is indeed my sister, the daughter of my father but not the daughter of my mother; and she became my wife.
 
-[13] And when *Elohim* caused me to wander from my father's house, I said to her, 'This is the loyalty you must show me: at every place to which we come, say of me, He is my brother.'"
+[13] And when ⟦elohim|Elohim|God⟧ caused me to wander from my father's house, I said to her, 'This is the loyalty you must show me: at every place to which we come, say of me, He is my brother.'"
 
-[14] Then Abimelech took sheep and cattle, and male and female servants, and gave them to Abraham; and he returned Sarah his wife to him.
+[14] Then ⟦abimelech|Avimelech|Abimelech⟧ took sheep and cattle, and male and female servants, and gave them to ⟦abraham|Avraham|Abraham⟧; and he returned Sarah his wife to him.
 
-[15] And Abimelech said, "Behold, my land is before you; settle where it pleases you."
+[15] And ⟦abimelech|Avimelech|Abimelech⟧ said, "Behold, my land is before you; settle where it pleases you."
 
 [16] To Sarah he said, "Behold, I have given your brother a thousand pieces of silver; it is for you a covering of the eyes before all who are with you; and before everyone you are vindicated."
 
-[17] Abraham prayed to *Elohim*; and *Elohim* healed Abimelech, his wife, and his female slaves, so that they bore children.
+[17] ⟦abraham|Avraham|Abraham⟧ prayed to ⟦elohim|Elohim|God⟧; and ⟦elohim|Elohim|God⟧ healed ⟦abimelech|Avimelech|Abimelech⟧, his wife, and his female slaves, so that they bore children.
 
-[18] For Yahweh had tightly closed every womb of the household of Abimelech because of Sarah, Abraham's wife.
+[18] For ⟦yhwh|Yahweh|the LORD⟧ had tightly closed every womb of the household of ⟦abimelech|Avimelech|Abimelech⟧ because of Sarah, ⟦abraham|Avraham's|Abraham's⟧ wife.
 
 ## Changes
 

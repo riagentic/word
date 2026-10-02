@@ -1,20 +1,20 @@
 # Numeri 6
 
-[1] Yahweh promluvil k Mosesovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[2] „Mluv k synům Israele a řekni jim: ‚Když muž nebo žena učiní zvláštní slib – slib nazíra – aby se zasvětil Yahweh,
+[2] „Mluv k synům ⟦israel|Jisraele|Izraele⟧ a řekni jim: ‚Když muž nebo žena učiní zvláštní slib – slib ⟦nazirite|nazira|nazíra⟧ – aby se zasvětil ⟦yhwh|Jahvovi|Hospodinu⟧,
 
 [3] zdrží se vína a opojného nápoje; nebude pít vinný ocet ani ocet z opojného nápoje, nebude pít žádnou hroznovou šťávu a nebude jíst hrozny, ať čerstvé, nebo sušené.
 
 [4] Po všechny dny svého zasvěcení nebude jíst nic, co pochází z vinné révy, od jadérek až po slupky.
 
-[5] Po všechny dny slibu svého zasvěcení nepřijde na jeho hlavu břitva; dokud se nenaplní dny, na které se zasvěcuje Yahweh, bude svatý a nechá kadeře vlasů na své hlavě volně růst.
+[5] Po všechny dny slibu svého zasvěcení nepřijde na jeho hlavu břitva; dokud se nenaplní dny, na které se zasvěcuje ⟦yhwh|Jahvovi|Hospodinu⟧, bude svatý a nechá kadeře vlasů na své hlavě volně růst.
 
-[6] Po všechny dny, kdy se zasvěcuje Yahweh, se nepřiblíží k žádnému mrtvému tělu.
+[6] Po všechny dny, kdy se zasvěcuje ⟦yhwh|Jahvovi|Hospodinu⟧, se nepřiblíží k žádnému mrtvému tělu.
 
-[7] Ani kvůli svému otci, své matce, svému bratrovi nebo své sestře se neznečistí, když zemřou, protože zasvěcení jeho *Elohim* je na jeho hlavě.
+[7] Ani kvůli svému otci, své matce, svému bratrovi nebo své sestře se neznečistí, když zemřou, protože zasvěcení jeho ⟦elohim|Elohim|Boha⟧ je na jeho hlavě.
 
-[8] Po všechny dny svého zasvěcení je svatý Yahweh.
+[8] Po všechny dny svého zasvěcení je svatý ⟦yhwh|Jahvovi|Hospodinu⟧.
 
 [9] Zemře-li někdo náhle vedle něj a on tak poskvrní svou zasvěcenou hlavu, oholí si hlavu v den svého očištění; sedmého dne si ji oholí.
 
@@ -22,39 +22,39 @@
 
 [11] Kněz obětuje jedno jako oběť za hřích a druhé jako zápalnou oběť a vykoná za něj smíření, protože zhřešil kvůli mrtvole; a téhož dne znovu posvětí svou hlavu.
 
-[12] Zasvětí Yahweh své dny nazírství a přinese roční jehně jako oběť za vinu; předchozí dny však propadnou, protože jeho zasvěcení bylo poskvrněno.
+[12] Zasvětí ⟦yhwh|Jahvovi|Hospodinu⟧ své dny ⟦nazirite|nazirství|nazírství⟧ a přinese roční jehně jako oběť za vinu; předchozí dny však propadnou, protože jeho zasvěcení bylo poskvrněno.
 
-[13] Toto je zákon o nazírovi, když se naplní dny jeho zasvěcení: bude přiveden ke vchodu do stanu setkávání
+[13] Toto je zákon o ⟦nazirite|nazirovi|nazírovi⟧, když se naplní dny jeho zasvěcení: bude přiveden ke vchodu do stanu setkávání
 
-[14] a přinese Yahweh svůj obětní dar: jednoho ročního beránka bez vady jako zápalnou oběť, jednu roční ovečku bez vady jako oběť za hřích, jednoho berana bez vady jako pokojnou oběť
+[14] a přinese ⟦yhwh|Jahvovi|Hospodinu⟧ svůj obětní dar: jednoho ročního beránka bez vady jako zápalnou oběť, jednu roční ovečku bez vady jako oběť za hřích, jednoho berana bez vady jako pokojnou oběť
 
 [15] a koš nekvašených chlebů – bochníků z bílé mouky smíšené s olejem a nekvašených oplatek pomazaných olejem – s jejich moučnými obětmi a úlitbami.
 
-[16] Kněz je přinese před Yahweh a obětuje jeho oběť za hřích a jeho zápalnou oběť.
+[16] Kněz je přinese před ⟦yhwh|Jahvem|Hospodinem⟧ a obětuje jeho oběť za hřích a jeho zápalnou oběť.
 
-[17] Berana obětuje jako pokojnou oběť Yahweh spolu s košem nekvašených chlebů; kněz obětuje také moučnou oběť a úlitbu.
+[17] Berana obětuje jako pokojnou oběť ⟦yhwh|Jahvovi|Hospodinu⟧ spolu s košem nekvašených chlebů; kněz obětuje také moučnou oběť a úlitbu.
 
-[18] Nazír oholí svou zasvěcenou hlavu u vchodu do stanu setkávání, vezme vlasy své zasvěcené hlavy a dá je na oheň, který je pod pokojnou obětí.
+[18] ⟦nazirite|Nazir|Nazír⟧ oholí svou zasvěcenou hlavu u vchodu do stanu setkávání, vezme vlasy své zasvěcené hlavy a dá je na oheň, který je pod pokojnou obětí.
 
-[19] Kněz vezme uvařenou plec berana, jeden nekvašený bochník z koše a jednu nekvašenou oplatku a dá je do rukou nazíra, poté co si oholil své zasvěcené vlasy.
+[19] Kněz vezme uvařenou plec berana, jeden nekvašený bochník z koše a jednu nekvašenou oplatku a dá je do rukou ⟦nazirite|nazira|nazíra⟧, poté co si oholil své zasvěcené vlasy.
 
-[20] Kněz je bude pozdvihovat jako pozdvihovanou oběť před Yahweh; je to svaté pro kněze spolu s hrudí pozdvihované oběti a kýtou příspěvku. Potom smí nazír pít víno.
+[20] Kněz je bude pozdvihovat jako pozdvihovanou oběť před ⟦yhwh|Jahvem|Hospodinem⟧; je to svaté pro kněze spolu s hrudí pozdvihované oběti a kýtou příspěvku. Potom smí ⟦nazirite|nazir|nazír⟧ pít víno.
 
-[21] To je zákon o nazírovi, který učiní slib, a o jeho obětním daru Yahweh za jeho zasvěcení, kromě čehokoli dalšího, na co mu stačí prostředky; podle slibu, který učiní, tak musí jednat podle zákona svého zasvěcení.‘“
+[21] To je zákon o ⟦nazirite|nazirovi|nazírovi⟧, který učiní slib, a o jeho obětním daru ⟦yhwh|Jahvovi|Hospodinu⟧ za jeho zasvěcení, kromě čehokoli dalšího, na co mu stačí prostředky; podle slibu, který učiní, tak musí jednat podle zákona svého zasvěcení.‘“
 
-[22] Yahweh promluvil k Mosesovi:
+[22] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[23] „Mluv k Aaronovi a k jeho synům: ‚Takto budete žehnat synům Israele; řeknete jim:
+[23] „Mluv k ⟦aaron|Aharonovi|Áronovi⟧ a k jeho synům: ‚Takto budete žehnat synům ⟦israel|Jisraele|Izraele⟧; řeknete jim:
 
-[24] Yahweh ti žehnej a chraň tě;
+[24] ⟦yhwh|Jahve|Hospodin⟧ ti žehnej a chraň tě;
 
-[25] Yahweh ať rozjasní svou tvář nad tebou
+[25] ⟦yhwh|Jahve|Hospodin⟧ ať rozjasní svou tvář nad tebou
 a je ti milostiv;
 
-[26] Yahweh ať obrátí svou tvář k tobě
+[26] ⟦yhwh|Jahve|Hospodin⟧ ať obrátí svou tvář k tobě
 a dá ti pokoj.‘
 
-[27] Tak budou klást mé jméno na syny Israele, a já sám jim budu žehnat.“
+[27] Tak budou klást mé jméno na syny ⟦israel|Jisraele|Izraele⟧, a já sám jim budu žehnat.“
 
 ## Změny
 

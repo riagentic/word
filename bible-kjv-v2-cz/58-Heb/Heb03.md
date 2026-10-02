@@ -1,18 +1,18 @@
 # Židům 3
 
-[1] Proto, svatí bratři, vy, kteří máte podíl na nebeském povolání, hleďte na *Yeshuu*, apoštola a velekněze našeho vyznání,
+[1] Proto, svatí bratři, vy, kteří máte podíl na nebeském povolání, hleďte na ⟦yeshua|Ješuu|Ježíše⟧, apoštola a velekněze našeho vyznání,
 
-[2] který byl věrný tomu, kdo ho ustanovil, tak jako byl věrný i Moses v celém domě *Elohim*.
+[2] který byl věrný tomu, kdo ho ustanovil, tak jako byl věrný i ⟦moses|Moše|Mojžíš⟧ v celém domě ⟦elohim|Elohim|Božím⟧.
 
-[3] *Yeshua* byl totiž uznán hodným větší slávy než Moses – o tolik větší slávy, oč větší čest má stavitel domu než dům sám.
+[3] ⟦yeshua|Ješua|Ježíš⟧ byl totiž uznán hodným větší slávy než ⟦moses|Moše|Mojžíš⟧ – o tolik větší slávy, oč větší čest má stavitel domu než dům sám.
 
-[4] (Každý dům totiž někdo staví, ale stavitelem všeho je *Elohim*.)
+[4] (Každý dům totiž někdo staví, ale stavitelem všeho je ⟦elohim|Elohim|Bůh⟧.)
 
-[5] Moses byl věrný v celém domě *Elohim* jako služebník, aby dosvědčoval to, co mělo být vysloveno později,
+[5] ⟦moses|Moše|Mojžíš⟧ byl věrný v celém domě ⟦elohim|Elohim|Božím⟧ jako služebník, aby dosvědčoval to, co mělo být vysloveno později,
 
-[6] ale *Mashiach* je věrný nad domem *Elohim* jako syn. A jeho domem jsme my, jestliže ovšem pevně zachováme svou důvěru a chloubu své naděje.
+[6] ale ⟦mashiach|Mašiach|Kristus⟧ je věrný nad domem ⟦elohim|Elohim|Božím⟧ jako syn. A jeho domem jsme my, jestliže ovšem pevně zachováme svou důvěru a chloubu své naděje.
 
-[7] Proto, jak říká *Ruach HaQodesh*:
+[7] Proto, jak říká ⟦ruach-haqodesh|Ruach HaKodeš|Duch svatý⟧:
 
 „**Dnes, uslyšíte-li jeho hlas,**
 
@@ -30,18 +30,18 @@ nepoznali mé cesty.‘**
 **[11] Tak jsem ve svém hněvu přísahal:
 ‚Nevejdou do mého odpočinutí.‘**“
 
-[12] Dejte si pozor, bratři, aby v někom z vás nebylo zlé, nevěřící srdce, které by vás vedlo k odpadnutí od živého *Elohim*.
+[12] Dejte si pozor, bratři, aby v někom z vás nebylo zlé, nevěřící srdce, které by vás vedlo k odpadnutí od živého ⟦elohim|Elohim|Boha⟧.
 
 [13] Ale povzbuzujte se navzájem každý den, dokud se říká „dnes“, aby nikdo z vás nebyl zatvrzen klamem hříchu.
 
-[14] Stali jsme se totiž účastnými *Mashiacha*, jestliže ovšem svou počáteční důvěru pevně zachováme až do konce.
+[14] Stali jsme se totiž účastnými ⟦mashiach|Mašiacha|Krista⟧, jestliže ovšem svou počáteční důvěru pevně zachováme až do konce.
 
 [15] Jak je řečeno:
 
 „**Dnes, uslyšíte-li jeho hlas,
 nezatvrzujte svá srdce jako při vzpouře**.“
 
-[16] Kdo byli ti, kdo slyšeli, a přece se vzbouřili? Nebyli to všichni, kdo vyšli z Egypta pod vedením Mosese?
+[16] Kdo byli ti, kdo slyšeli, a přece se vzbouřili? Nebyli to všichni, kdo vyšli z ⟦egypt|Micrajim|Egypta⟧ pod vedením ⟦moses|Moše|Mojžíše⟧?
 
 [17] A na koho se hněval po čtyřicet let? Nebylo to na ty, kdo zhřešili, jejichž těla padla na poušti?
 

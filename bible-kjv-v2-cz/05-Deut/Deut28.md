@@ -1,8 +1,8 @@
 # Deuteronomium 28
 
-[1] „Budeš-li opravdu poslouchat hlas Yahweh, svého *Elohim*, a dbát, abys plnil všechna jeho přikázání, která ti dnes přikazuji, vyvýší tě Yahweh, tvůj *Elohim*, vysoko nade všechny národy země.
+[1] „Budeš-li opravdu poslouchat hlas ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, a dbát, abys plnil všechna jeho přikázání, která ti dnes přikazuji, vyvýší tě ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, vysoko nade všechny národy země.
 
-[2] Všechna tato požehnání na tebe přijdou a dostihnou tě, budeš-li poslouchat hlas Yahweh, svého *Elohim*:
+[2] Všechna tato požehnání na tebe přijdou a dostihnou tě, budeš-li poslouchat hlas ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧:
 
 [3] Požehnaný budeš ve městě a požehnaný budeš na poli.
 
@@ -12,23 +12,23 @@
 
 [6] Požehnaný budeš, když budeš vcházet, a požehnaný budeš, když budeš vycházet.
 
-[7] Yahweh způsobí, že tvoji nepřátelé, kteří povstanou proti tobě, budou před tebou poraženi; jednou cestou proti tobě vytáhnou a sedmi cestami před tebou utečou.
+[7] ⟦yhwh|Jahve|Hospodin⟧ způsobí, že tvoji nepřátelé, kteří povstanou proti tobě, budou před tebou poraženi; jednou cestou proti tobě vytáhnou a sedmi cestami před tebou utečou.
 
-[8] Yahweh přikáže požehnání, aby bylo s tebou v tvých sýpkách a ve všem, do čeho vztáhneš ruku; a požehná ti v zemi, kterou ti Yahweh, tvůj *Elohim*, dává.
+[8] ⟦yhwh|Jahve|Hospodin⟧ přikáže požehnání, aby bylo s tebou v tvých sýpkách a ve všem, do čeho vztáhneš ruku; a požehná ti v zemi, kterou ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, dává.
 
-[9] Yahweh tě ustanoví jako svatý lid pro sebe, jak ti přísahal, budeš-li zachovávat přikázání Yahweh, svého *Elohim*, a chodit po jeho cestách.
+[9] ⟦yhwh|Jahve|Hospodin⟧ tě ustanoví jako svatý lid pro sebe, jak ti přísahal, budeš-li zachovávat přikázání ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, a chodit po jeho cestách.
 
-[10] Všechny národy země uvidí, že nad tebou je vzýváno jméno Yahweh, a budou se tě bát.
+[10] Všechny národy země uvidí, že nad tebou je vzýváno jméno ⟦yhwh|Jahveho|Hospodina⟧, a budou se tě bát.
 
-[11] Yahweh ti dá hojnou prosperitu – v plodu tvého lůna, v plodu tvého dobytka a v plodu tvé půdy – v zemi, o které Yahweh přísahal tvým otcům, že ti ji dá.
+[11] ⟦yhwh|Jahve|Hospodin⟧ ti dá hojnou prosperitu – v plodu tvého lůna, v plodu tvého dobytka a v plodu tvé půdy – v zemi, o které ⟦yhwh|Jahve|Hospodin⟧ přísahal tvým otcům, že ti ji dá.
 
-[12] Yahweh ti otevře svou dobrou pokladnici, nebesa, aby dával tvé zemi déšť v jeho čase a žehnal všemu dílu tvých rukou. Budeš půjčovat mnoha národům, ale sám si půjčovat nebudeš.
+[12] ⟦yhwh|Jahve|Hospodin⟧ ti otevře svou dobrou pokladnici, nebesa, aby dával tvé zemi déšť v jeho čase a žehnal všemu dílu tvých rukou. Budeš půjčovat mnoha národům, ale sám si půjčovat nebudeš.
 
-[13] Yahweh tě učiní hlavou, a ne ocasem, a budeš jen stoupat, a ne klesat – budeš-li poslouchat přikázání Yahweh, svého *Elohim*, která ti dnes přikazuji, a dbát, abys je plnil,
+[13] ⟦yhwh|Jahve|Hospodin⟧ tě učiní hlavou, a ne ocasem, a budeš jen stoupat, a ne klesat – budeš-li poslouchat přikázání ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, která ti dnes přikazuji, a dbát, abys je plnil,
 
 [14] a neuchýlíš-li se od žádného ze slov, která ti dnes přikazuji, napravo ani nalevo, abys chodil za jinými bohy a sloužil jim.
 
-[15] Jestliže však nebudeš poslouchat hlas Yahweh, svého *Elohim*, a dbát, abys plnil všechna jeho přikázání a jeho ustanovení, která ti dnes přikazuji, přijdou na tebe všechny tyto kletby a dostihnou tě:
+[15] Jestliže však nebudeš poslouchat hlas ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, a dbát, abys plnil všechna jeho přikázání a jeho ustanovení, která ti dnes přikazuji, přijdou na tebe všechny tyto kletby a dostihnou tě:
 
 [16] Prokletý budeš ve městě a prokletý budeš na poli.
 
@@ -38,23 +38,23 @@
 
 [19] Prokletý budeš, když budeš vcházet, a prokletý budeš, když budeš vycházet.
 
-[20] Yahweh na tebe pošle kletby, zmatek a pohrůžku ve všem, do čeho se pustíš, dokud nebudeš zničen a dokud rychle nezahyneš pro zlo svých skutků, protože jsi mě opustil.
+[20] ⟦yhwh|Jahve|Hospodin⟧ na tebe pošle kletby, zmatek a pohrůžku ve všem, do čeho se pustíš, dokud nebudeš zničen a dokud rychle nezahyneš pro zlo svých skutků, protože jsi mě opustil.
 
-[21] Yahweh způsobí, že se k tobě přilepí mor, dokud tě nevyhladí ze země, do které vcházíš, abys ji vlastnil.
+[21] ⟦yhwh|Jahve|Hospodin⟧ způsobí, že se k tobě přilepí mor, dokud tě nevyhladí ze země, do které vcházíš, abys ji vlastnil.
 
-[22] Yahweh tě bude bít úbytěmi, horečkou, zánětem, spalujícím žárem, suchem, snětí a plísní; budou tě pronásledovat, dokud nezahyneš.
+[22] ⟦yhwh|Jahve|Hospodin⟧ tě bude bít úbytěmi, horečkou, zánětem, spalujícím žárem, suchem, snětí a plísní; budou tě pronásledovat, dokud nezahyneš.
 
 [23] Nebesa nad tvou hlavou budou bronzová a země pod tebou železná.
 
-[24] Yahweh promění déšť tvé země v prach a písek; bude na tebe padat z nebes, dokud nebudeš zničen.
+[24] ⟦yhwh|Jahve|Hospodin⟧ promění déšť tvé země v prach a písek; bude na tebe padat z nebes, dokud nebudeš zničen.
 
-[25] Yahweh způsobí, že budeš poražen před svými nepřáteli. Jednou cestou proti nim vytáhneš a sedmi cestami před nimi utečeš a staneš se hrůzou pro všechna království země.
+[25] ⟦yhwh|Jahve|Hospodin⟧ způsobí, že budeš poražen před svými nepřáteli. Jednou cestou proti nim vytáhneš a sedmi cestami před nimi utečeš a staneš se hrůzou pro všechna království země.
 
 [26] Tvá mrtvola bude potravou všem ptákům nebes a zvěři země a nebude nikdo, kdo by je zaplašil.
 
-[27] Yahweh tě bude bít egyptskými vředy, nádory, prašivinou a svrabem, z nichž se nebudeš moci uzdravit.
+[27] ⟦yhwh|Jahve|Hospodin⟧ tě bude bít egyptskými vředy, nádory, prašivinou a svrabem, z nichž se nebudeš moci uzdravit.
 
-[28] Yahweh tě bude bít šílenstvím, slepotou a zmatením mysli;
+[28] ⟦yhwh|Jahve|Hospodin⟧ tě bude bít šílenstvím, slepotou a zmatením mysli;
 
 [29] budeš tápat v poledne, jako tápe slepý ve tmě, a nebudeš mít úspěch na svých cestách; budeš jen neustále utlačován a olupován a nikdo tě nezachrání.
 
@@ -68,11 +68,11 @@
 
 [34] až zešílíš z pohledu, který uvidí tvé oči.
 
-[35] Yahweh tě bude bít na kolenou a na nohou zhoubnými vředy, z nichž se nebudeš moci uzdravit, od chodidla tvé nohy až po temeno tvé hlavy.
+[35] ⟦yhwh|Jahve|Hospodin⟧ tě bude bít na kolenou a na nohou zhoubnými vředy, z nichž se nebudeš moci uzdravit, od chodidla tvé nohy až po temeno tvé hlavy.
 
-[36] Yahweh odvede tebe i tvého krále, kterého nad sebe ustanovíš, k národu, který jsi neznal ty ani tvoji otcové; a tam budeš sloužit jiným bohům ze dřeva a z kamene.
+[36] ⟦yhwh|Jahve|Hospodin⟧ odvede tebe i tvého krále, kterého nad sebe ustanovíš, k národu, který jsi neznal ty ani tvoji otcové; a tam budeš sloužit jiným bohům ze dřeva a z kamene.
 
-[37] Staneš se hrůzou, příslovím a posměchem mezi všemi národy, kam tě Yahweh zažene.
+[37] Staneš se hrůzou, příslovím a posměchem mezi všemi národy, kam tě ⟦yhwh|Jahve|Hospodin⟧ zažene.
 
 [38] Vyneseš na pole mnoho semene, ale sklidíš málo, neboť to sežerou kobylky.
 
@@ -88,23 +88,23 @@
 
 [44] On bude půjčovat tobě, a ty mu půjčovat nebudeš; on bude hlavou, a ty budeš ocasem.
 
-[45] Všechny tyto kletby na tebe přijdou, budou tě pronásledovat a dostihnou tě, dokud nebudeš zničen, protože jsi neposlouchal hlas Yahweh, svého *Elohim*, abys zachovával jeho přikázání a jeho ustanovení, která ti přikázal.
+[45] Všechny tyto kletby na tebe přijdou, budou tě pronásledovat a dostihnou tě, dokud nebudeš zničen, protože jsi neposlouchal hlas ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, abys zachovával jeho přikázání a jeho ustanovení, která ti přikázal.
 
 [46] Budou na tobě a na tvém potomstvu jako znamení a div navěky.
 
-[47] Protože jsi nesloužil Yahweh, svému *Elohim*, s radostí a s veselým srdcem při hojnosti všeho,
+[47] Protože jsi nesloužil ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧, s radostí a s veselým srdcem při hojnosti všeho,
 
-[48] budeš sloužit svým nepřátelům, které proti tobě Yahweh pošle – v hladu a v žízni, v nahotě a v nedostatku všeho; a vloží ti na šíji železné jho, dokud tě nezničí.
+[48] budeš sloužit svým nepřátelům, které proti tobě ⟦yhwh|Jahve|Hospodin⟧ pošle – v hladu a v žízni, v nahotě a v nedostatku všeho; a vloží ti na šíji železné jho, dokud tě nezničí.
 
-[49] Yahweh proti tobě přivede národ z daleka, z konce země, rychlý, jako když letí orel – národ, jehož jazyku nerozumíš,
+[49] ⟦yhwh|Jahve|Hospodin⟧ proti tobě přivede národ z daleka, z konce země, rychlý, jako když letí orel – národ, jehož jazyku nerozumíš,
 
 [50] národ zachmuřené tváře, který nebude brát ohled na starce ani projevovat přízeň mladým.
 
 [51] Bude jíst plod tvého dobytka a plod tvé půdy, dokud nebudeš zničen; nenechá ti obilí, mladé víno ani olej, ani přírůstek tvého skotu, ani mláďata tvého bravu, dokud tě nepřivede do záhuby.
 
-[52] Bude tě obléhat ve všech tvých branách, dokud nepadnou tvé vysoké a opevněné hradby, na které ses spoléhal, po celé tvé zemi; bude tě obléhat ve všech tvých branách po celé tvé zemi, kterou ti dal Yahweh, tvůj *Elohim*.
+[52] Bude tě obléhat ve všech tvých branách, dokud nepadnou tvé vysoké a opevněné hradby, na které ses spoléhal, po celé tvé zemi; bude tě obléhat ve všech tvých branách po celé tvé zemi, kterou ti dal ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧.
 
-[53] Budeš jíst plod svého vlastního těla, maso svých synů a dcer, které ti dal Yahweh, tvůj *Elohim*, v obležení a v tísni, kterou tě budou tísnit tvoji nepřátelé.
+[53] Budeš jíst plod svého vlastního těla, maso svých synů a dcer, které ti dal ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, v obležení a v tísni, kterou tě budou tísnit tvoji nepřátelé.
 
 [54] Nejútlocitnější a nejzhýčkanější muž u tebe bude nepřát svému bratru, své milované manželce a zbytku svých dětí, které mu zůstaly,
 
@@ -114,27 +114,27 @@
 
 [57] i lůžku, které vyjde z jejího klína, i jejím dětem, které porodí – bude je tajně jíst pro nedostatek všeho v obležení a v tísni, kterou tě bude tísnit tvůj nepřítel v tvých branách.
 
-[58] Nebudeš-li pečlivě plnit všechna slova této *Torah*, která jsou zapsána v této knize, abys se bál tohoto slavného a hrozného jména, Yahweh, svého *Elohim*,
+[58] Nebudeš-li pečlivě plnit všechna slova ⟦torah|této Tóry|tohoto zákona⟧, která jsou zapsána v této knize, abys se bál tohoto slavného a hrozného jména, ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧,
 
-[59] pak Yahweh uvalí na tebe a na tvé potomstvo neobyčejné rány – těžké a trvalé rány a zhoubné a trvalé nemoci.
+[59] pak ⟦yhwh|Jahve|Hospodin⟧ uvalí na tebe a na tvé potomstvo neobyčejné rány – těžké a trvalé rány a zhoubné a trvalé nemoci.
 
 [60] Uvalí na tebe všechny egyptské nemoci, kterých ses bál, a přilepí se k tobě.
 
-[61] Také každou nemoc a každou ránu, která není zapsána v této knize *Torah*, na tebe Yahweh uvalí, dokud nebudeš zničen.
+[61] Také každou nemoc a každou ránu, která není zapsána v této knize ⟦torah|Tóry|zákona⟧, na tebe ⟦yhwh|Jahve|Hospodin⟧ uvalí, dokud nebudeš zničen.
 
-[62] Zůstanete v malém počtu, ačkoli jste byli tak početní jako hvězdy nebes, protože jsi neposlouchal hlas Yahweh, svého *Elohim*.
+[62] Zůstanete v malém počtu, ačkoli jste byli tak početní jako hvězdy nebes, protože jsi neposlouchal hlas ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧.
 
-[63] Jako se Yahweh nad vámi radoval, když vám prokazoval dobro a rozmnožoval vás, tak se Yahweh nad vámi bude radovat, když vás bude hubit a ničit; budete vyrváni ze země, do které vcházíš, abys ji vlastnil.
+[63] Jako se ⟦yhwh|Jahve|Hospodin⟧ nad vámi radoval, když vám prokazoval dobro a rozmnožoval vás, tak se ⟦yhwh|Jahve|Hospodin⟧ nad vámi bude radovat, když vás bude hubit a ničit; budete vyrváni ze země, do které vcházíš, abys ji vlastnil.
 
-[64] Yahweh tě rozptýlí mezi všechny národy, od jednoho konce země ke druhému; a tam budeš sloužit jiným bohům ze dřeva a z kamene, které jsi neznal ty ani tvoji otcové.
+[64] ⟦yhwh|Jahve|Hospodin⟧ tě rozptýlí mezi všechny národy, od jednoho konce země ke druhému; a tam budeš sloužit jiným bohům ze dřeva a z kamene, které jsi neznal ty ani tvoji otcové.
 
-[65] Mezi těmi národy nenajdeš klid ani odpočinutí pro chodidlo své nohy; ale Yahweh ti tam dá rozechvělé srdce, hasnoucí oči a zoufalou duši.
+[65] Mezi těmi národy nenajdeš klid ani odpočinutí pro chodidlo své nohy; ale ⟦yhwh|Jahve|Hospodin⟧ ti tam dá rozechvělé srdce, hasnoucí oči a zoufalou duši.
 
 [66] Tvůj život bude viset před tebou v nejistotě; budeš se děsit ve dne i v noci a nebudeš si jist svým životem.
 
 [67] Ráno řekneš: ‚Kéž by byl večer!‘ A večer řekneš: ‚Kéž by bylo ráno!‘ pro děs, kterým se bude děsit tvé srdce, a pro pohled, který uvidí tvé oči.
 
-[68] Yahweh tě přivede zpět do Egypta na lodích, cestou, o které jsem ti řekl: ‚Už ji nikdy neuvidíš‘; a tam se budete prodávat svým nepřátelům jako otroci a otrokyně, ale nikdo vás nekoupí.
+[68] ⟦yhwh|Jahve|Hospodin⟧ tě přivede zpět do ⟦egypt|Micrajim|Egypta⟧ na lodích, cestou, o které jsem ti řekl: ‚Už ji nikdy neuvidíš‘; a tam se budete prodávat svým nepřátelům jako otroci a otrokyně, ale nikdo vás nekoupí.
 
 ## Změny
 

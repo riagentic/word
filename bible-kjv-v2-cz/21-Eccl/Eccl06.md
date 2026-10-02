@@ -2,7 +2,7 @@
 
 [1] Je zlo, které jsem viděl pod sluncem, a těžce doléhá na lidstvo:
 
-[2] člověk, jemuž *Elohim* dává bohatství, majetek a čest, takže mu nechybí nic z toho, po čem touží, ale *Elohim* mu nedává moc, aby z toho užíval, nýbrž užívá toho cizí. To je marnost; je to bolestné zlo.
+[2] člověk, jemuž ⟦elohim|Elohim|Bůh⟧ dává bohatství, majetek a čest, takže mu nechybí nic z toho, po čem touží, ale ⟦elohim|Elohim|Bůh⟧ mu nedává moc, aby z toho užíval, nýbrž užívá toho cizí. To je marnost; je to bolestné zlo.
 
 [3] Zplodí-li někdo sto dětí a žije mnoho let, takže dnů jeho let je mnoho, ale jeho duše se nenasytí dobrými věcmi života a nedostane se mu ani pohřbu, pravím, že mrtvě narozené dítě je na tom lépe než on.
 

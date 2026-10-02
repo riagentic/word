@@ -2,11 +2,11 @@
 
 [1] Potom přikázal správci svého domu: „Naplň žoky těch mužů potravinami, kolik jen unesou, a každému dej jeho stříbro navrch do jeho žoku.
 
-[2] A můj pohár, ten stříbrný pohár, dej navrch do žoku nejmladšího spolu s jeho stříbrem za obilí.“ A on udělal, jak mu Joseph řekl.
+[2] A můj pohár, ten stříbrný pohár, dej navrch do žoku nejmladšího spolu s jeho stříbrem za obilí.“ A on udělal, jak mu Josef řekl.
 
 [3] Jakmile se rozednilo, muži byli propuštěni, oni i jejich osli.
 
-[4] Když vyšli z města a nebyli ještě daleko, řekl Joseph svému správci: „Vstaň, pronásleduj ty muže; a až je dostihneš, řekni jim: ‚Proč jste oplatili zlým za dobré?
+[4] Když vyšli z města a nebyli ještě daleko, řekl Josef svému správci: „Vstaň, pronásleduj ty muže; a až je dostihneš, řekni jim: ‚Proč jste oplatili zlým za dobré?
 
 [5] Není to snad ten, z něhož můj pán pije a z něhož opravdu věští? Zle jste udělali tím, co jste učinili.‘“
 
@@ -14,7 +14,7 @@
 
 [7] Řekli mu: „Proč můj pán mluví taková slova? Ať je to daleko od tvých služebníků, aby udělali něco takového!
 
-[8] Hle, stříbro, které jsme našli navrchu ve svých žocích, jsme ti přinesli zpět ze země Canaan. Jak bychom tedy kradli stříbro nebo zlato z domu tvého pána?
+[8] Hle, stříbro, které jsme našli navrchu ve svých žocích, jsme ti přinesli zpět ze země Kenaan. Jak bychom tedy kradli stříbro nebo zlato z domu tvého pána?
 
 [9] U kohokoli z tvých služebníků se najde, ať zemře; a my ostatní budeme otroky mého pána.“
 
@@ -22,19 +22,19 @@
 
 [11] Tu každý rychle složil svůj žok na zem a každý otevřel svůj žok.
 
-[12] Prohledával, počínaje nejstarším a konče nejmladším; a pohár se našel v Benjaminově žoku.
+[12] Prohledával, počínaje nejstarším a konče nejmladším; a pohár se našel v ⟦benjamin|Binjaminově|Benjamínově⟧ žoku.
 
 [13] Tu roztrhli svá roucha, každý naložil svého osla a vrátili se do města.
 
-[14] Když Judah a jeho bratři přišli do Josephova domu, byl tam ještě; a padli před ním na zem.
+[14] Když ⟦judah|Jehuda|Juda⟧ a jeho bratři přišli do Josefova domu, byl tam ještě; a padli před ním na zem.
 
-[15] Joseph jim řekl: „Co je to za čin, který jste spáchali? Nevíte, že muž jako já dovede jistě věštit?“
+[15] Josef jim řekl: „Co je to za čin, který jste spáchali? Nevíte, že muž jako já dovede jistě věštit?“
 
-[16] Judah řekl: „Co máme říci mému pánu? Co máme mluvit? Jak se ospravedlníme? *Elohim* odhalil nepravost tvých služebníků. Hle, jsme otroky mého pána, my i ten, v jehož ruce se pohár našel.“
+[16] ⟦judah|Jehuda|Juda⟧ řekl: „Co máme říci mému pánu? Co máme mluvit? Jak se ospravedlníme? ⟦elohim|Elohim|Bůh⟧ odhalil nepravost tvých služebníků. Hle, jsme otroky mého pána, my i ten, v jehož ruce se pohár našel.“
 
 [17] Ale on řekl: „Ať je to ode mne daleko, abych tak učinil! Muž, v jehož ruce se pohár našel, ten bude mým otrokem; a vy jděte v pokoji nahoru ke svému otci.“
 
-[18] Tu k němu Judah přistoupil a řekl: „Ach, můj pane, dovol, prosím, svému služebníku promluvit slovo do uší mého pána a ať se tvůj hněv nerozpálí proti tvému služebníku, neboť jsi zrovna jako Pharaoh.
+[18] Tu k němu ⟦judah|Jehuda|Juda⟧ přistoupil a řekl: „Ach, můj pane, dovol, prosím, svému služebníku promluvit slovo do uší mého pána a ať se tvůj hněv nerozpálí proti tvému služebníku, neboť jsi zrovna jako ⟦pharaoh|Paro|farao⟧.
 
 [19] Můj pán se ptal svých služebníků: ‚Máte otce nebo bratra?‘
 
@@ -56,11 +56,11 @@
 
 [28] jeden ode mne odešel a já jsem řekl: „Jistě byl roztrhán na kusy,“ a od té doby jsem ho neviděl.
 
-[29] Vezmete-li mi i tohoto a potká-li ho neštěstí, přivedete mé šediny ve zlém do Sheol.‘
+[29] Vezmete-li mi i tohoto a potká-li ho neštěstí, přivedete mé šediny ve zlém do ⟦sheol|Šeolu|podsvětí⟧.‘
 
 [30] Nyní tedy, až přijdu k tvému služebníku, mému otci, a chlapec nebude s námi – vždyť jeho život je spjat s chlapcovým životem –,
 
-[31] stane se, že až uvidí, že chlapec s námi není, zemře; a tvoji služebníci přivedou šediny tvého služebníka, našeho otce, se zármutkem do Sheol.
+[31] stane se, že až uvidí, že chlapec s námi není, zemře; a tvoji služebníci přivedou šediny tvého služebníka, našeho otce, se zármutkem do ⟦sheol|Šeolu|podsvětí⟧.
 
 [32] Tvůj služebník se totiž svému otci za chlapce zaručil: ‚Jestliže ti ho nepřivedu zpět, ponesu vinu před svým otcem navždy.‘
 

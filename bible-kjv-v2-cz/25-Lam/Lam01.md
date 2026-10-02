@@ -14,14 +14,14 @@ nemá nikoho, kdo by ji potěšil;
 všichni její přátelé se k ní zachovali věrolomně;
 stali se jejími nepřáteli.
 
-[3] **ג** Judah odešel do exilu pro trápení
+[3] **ג** ⟦judah|Jehuda|Juda⟧ odešel do exilu pro trápení
 a tvrdé otroctví;
 bydlí nyní mezi národy,
 ale nenachází místo odpočinku;
 všichni její pronásledovatelé ji dostihli
 uprostřed její tísně.
 
-[4] **ד** Cesty k Zionu truchlí,
+[4] **ד** Cesty k ⟦zion|Cijonu|Sijónu⟧ truchlí,
 neboť nikdo nepřichází k určeným svátkům;
 všechny její brány jsou zpustlé;
 její kněží sténají;
@@ -30,19 +30,19 @@ a ona sama hořce trpí.
 
 [5] **ה** Její protivníci se stali hlavou;
 jejím nepřátelům se daří,
-protože ji Yahweh ztrápil
+protože ji ⟦yhwh|Jahve|Hospodin⟧ ztrápil
 pro množství jejích přestoupení;
 její děti odešly
 jako zajatci před protivníkem.
 
-[6] **ו** Od dcery Zionu
+[6] **ו** Od dcery ⟦zion|Cijonu|Sijónu⟧
 odešla všechna její velebnost.
 Její knížata se stala jako jeleni,
 kteří nenacházejí pastvu;
 utekli bez síly
 před pronásledovatelem.
 
-[7] **ז** Jerusalem si ve dnech svého trápení a bloudění
+[7] **ז** ⟦jerusalem|Jerušalajim|Jeruzalém⟧ si ve dnech svého trápení a bloudění
 připomíná
 všechny drahocennosti,
 které jí patřily od dávných dnů.
@@ -51,7 +51,7 @@ a nebylo nikoho, kdo by jí pomohl,
 její protivníci se nad ní škodolibě radovali;
 posmívali se jejímu pádu.
 
-[8] **ח** Jerusalem těžce zhřešila;
+[8] **ח** ⟦jerusalem|Jerušalajim těžce zhřešila|Jeruzalém těžce zhřešil⟧;
 proto se stala nečistou;
 všichni, kdo ji ctili, jí pohrdají,
 neboť viděli její nahotu;
@@ -62,7 +62,7 @@ a odvrací tvář.
 nepomyslela na svou budoucnost;
 proto je její pád hrozný;
 nemá utěšitele.
-„Yahweh, pohleď na mé trápení,
+„⟦yhwh|Jahve|Hospodine⟧, pohleď na mé trápení,
 neboť nepřítel zvítězil!“
 
 [10] **י** Nepřítel vztáhl své ruce
@@ -76,14 +76,14 @@ vstupovat do tvého shromáždění.
 když hledá chléb;
 vyměňují své poklady za jídlo,
 aby oživili svou duši.
-„Pohleď, Yahweh, a viz,
+„Pohleď, ⟦yhwh|Jahve|Hospodine⟧, a viz,
 neboť jsem opovrhovaná.“
 
 [12] **ל** Nic vám to neříká, všichni, kdo jdete kolem?
 Pohleďte a vizte,
 je-li nějaká bolest jako má bolest,
 která byla na mne uvedena,
-kterou na mne Yahweh dopustil
+kterou na mne ⟦yhwh|Jahve|Hospodin⟧ dopustil
 v den svého planoucího hněvu.
 
 [13] **מ** Z výšin seslal oheň;
@@ -97,15 +97,15 @@ zemdlenou po celý den.
 jeho rukou byla spojena dohromady;
 byla vložena na mou šíji;
 zlomil mou sílu;
-Pán mě vydal do rukou
+⟦adonai|Adonaj|Pán⟧ mě vydal do rukou
 těch, proti nimž nemohu obstát.
 
-[15] **ס** Pán zavrhl
+[15] **ס** ⟦adonai|Adonaj|Pán⟧ zavrhl
 všechny mé silné muže v mém středu;
 svolal proti mně shromáždění,
 aby rozdrtil mé mládence;
-Pán šlapal jako v lisu
-panenskou dceru Judahu.
+⟦adonai|Adonaj|Pán⟧ šlapal jako v lisu
+panenskou dceru ⟦judah|Jehudy|Judy⟧.
 
 [16] **ע** Pro tyto věci pláču;
 mé oči zalévají slzy;
@@ -114,14 +114,14 @@ ten, kdo by oživil mou duši;
 mé děti jsou opuštěné,
 neboť nepřítel zvítězil.
 
-[17] **פ** Zion vztahuje své ruce,
+[17] **פ** ⟦zion|Cijon|Sijón⟧ vztahuje své ruce,
 ale není nikoho, kdo by ji potěšil;
-Yahweh přikázal proti Jacobovi,
+⟦yhwh|Jahve|Hospodin⟧ přikázal proti ⟦jacob|Jaakovovi|Jákobovi⟧,
 aby jeho sousedé byli jeho protivníky;
-Jerusalem se mezi nimi
+⟦jerusalem|Jerušalajim|Jeruzalém⟧ se mezi nimi
 stala nečistou věcí.
 
-[18] **צ** Yahweh je v právu,
+[18] **צ** ⟦yhwh|Jahve|Hospodin⟧ je v právu,
 neboť jsem se vzepřela jeho slovu;
 ale slyšte, všechny národy,
 a vizte mé utrpení;
@@ -135,7 +135,7 @@ zahynuli ve městě,
 když hledali jídlo,
 aby obnovili svou sílu.
 
-[20] **ר** Pohleď, Yahweh, neboť jsem v tísni;
+[20] **ר** Pohleď, ⟦yhwh|Jahve|Hospodine⟧, neboť jsem v tísni;
 mé nitro je ve zmatku;
 mé srdce se ve mně svírá,
 protože jsem byla velmi vzpurná.

@@ -1,6 +1,6 @@
 # Exodus 37
 
-[1] Betzalel udělal truhlu z akáciového dřeva: její délka byla dva a půl lokte, její šířka loket a půl a její výška loket a půl.
+[1] ⟦bezalel|Becalel|Besaleel⟧ udělal truhlu z akáciového dřeva: její délka byla dva a půl lokte, její šířka loket a půl a její výška loket a půl.
 
 [2] Obložil ji čistým zlatem uvnitř i zvenku a udělal kolem ní zlatou obrubu.
 
@@ -10,13 +10,13 @@
 
 [5] Tyče provlékl kruhy po stranách truhly, aby se truhla dala nosit.
 
-[6] Udělal slitovnici z čistého zlata: její délka byla dva a půl lokte a její šířka loket a půl.
+[6] Udělal ⟦mercy-seat|kapporet z čistého zlata: její délka byla dva a půl lokte a její šířka|příkrov z čistého zlata: jeho délka byla dva a půl lokte a jeho šířka⟧ loket a půl.
 
-[7] Udělal dva zlaté cheruby; udělal je z tepané práce na obou koncích slitovnice –
+[7] Udělal dva zlaté ⟦cherubim|keruvim|cheruby⟧; udělal je z tepané práce na obou koncích ⟦mercy-seat|kapporet|příkrovu⟧ –
 
-[8] jednoho cheruba na konci z této strany a druhého cheruba na konci z oné strany; cheruby na obou jejích koncích udělal z jednoho kusu se slitovnicí.
+[8] jednoho ⟦cherub|keruva|cheruba⟧ na konci z této strany a druhého ⟦cherub|keruva|cheruba⟧ na konci z oné strany; ⟦cherubim|keruvim|cheruby⟧ ⟦mercy-seat|na obou jejích koncích udělal z jednoho kusu s kapporet|na obou jeho koncích udělal z jednoho kusu s příkrovem⟧.
 
-[9] Cherubové měli křídla roztažená vzhůru a svými křídly zastiňovali slitovnici; tváře měli obrácené k sobě; ke slitovnici byly obráceny tváře cherubů.
+[9] ⟦cherubim|Keruvim|Cherubové⟧ měli křídla roztažená vzhůru a svými křídly zastiňovali ⟦mercy-seat|kapporet|příkrov⟧; tváře měli obrácené k sobě; ⟦mercy-seat|ke kapporet|k příkrovu⟧ byly obráceny tváře ⟦cherubim|keruvim|cherubů⟧.
 
 [10] Udělal stůl z akáciového dřeva: jeho délka byla dva lokty, jeho šířka loket a jeho výška loket a půl.
 

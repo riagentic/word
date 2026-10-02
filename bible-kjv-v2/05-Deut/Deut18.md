@@ -1,38 +1,38 @@
 # Deuteronomy 18
 
-[1] "The levitical priests — all the tribe of Levi — shall have no portion or inheritance with Israel. They shall eat the offerings of Yahweh made by fire, which are his inheritance.
+[1] "The levitical priests — all the tribe of Levi — shall have no portion or inheritance with ⟦israel|Yisrael|Israel⟧. They shall eat the offerings of ⟦yhwh|Yahweh|the LORD⟧ made by fire, which are his inheritance.
 
-[2] They shall have no inheritance among their brothers; Yahweh is their inheritance, as he has said to them.
+[2] They shall have no inheritance among their brothers; ⟦yhwh|Yahweh|the LORD⟧ is their inheritance, as he has said to them.
 
 [3] This shall be the priest's due from the people, from those who offer a sacrifice, whether bull or sheep: they shall give the priest the shoulder, the two cheeks, and the stomach.
 
 [4] The firstfruits of your grain, your new wine, and your oil, and the first of the fleece of your sheep, you shall give him.
 
-[5] For Yahweh your *Elohim* has chosen him out of all your tribes, to stand and minister in the name of Yahweh — him and his sons, forever.
+[5] For ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ has chosen him out of all your tribes, to stand and minister in the name of ⟦yhwh|Yahweh|the LORD⟧ — him and his sons, forever.
 
-[6] If a Levite comes from any of your gates throughout all Israel where he sojourns, and comes with all the desire of his soul to the place that Yahweh will choose,
+[6] If ⟦levites|a Levi|a Levite⟧ comes from any of your gates throughout all ⟦israel|Yisrael|Israel⟧ where he sojourns, and comes with all the desire of his soul to the place that ⟦yhwh|Yahweh|the LORD⟧ will choose,
 
-[7] then he may minister in the name of Yahweh his *Elohim*, like all his fellow Levites who stand there before Yahweh.
+[7] then he may minister in the name of ⟦yhwh|Yahweh|the LORD⟧ his ⟦elohim|Elohim|God⟧, like all his fellow ⟦levites|Leviyim|Levites⟧ who stand there before ⟦yhwh|Yahweh|the LORD⟧.
 
 [8] They shall have equal portions to eat, besides what he receives from the sale of his patrimony.
 
-[9] When you come into the land that Yahweh your *Elohim* is giving you, you shall not learn to do according to the abominations of those nations.
+[9] When you come into the land that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is giving you, you shall not learn to do according to the abominations of those nations.
 
 [10] There shall not be found among you anyone who makes his son or his daughter pass through the fire, or who practices divination, or one who interprets omens, or a sorcerer, or a charmer,
 
 [11] or a medium, or a spiritist, or one who inquires of the dead.
 
-[12] For anyone who does these things is an abomination to Yahweh; and because of these abominations Yahweh your *Elohim* is driving them out from before you.
+[12] For anyone who does these things is an abomination to ⟦yhwh|Yahweh|the LORD⟧; and because of these abominations ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is driving them out from before you.
 
-[13] You shall be blameless before Yahweh your *Elohim*.
+[13] You shall be blameless before ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
-[14] For these nations, whom you shall dispossess, listen to diviners and interpreters of omens; but as for you, Yahweh your *Elohim* has not allowed you to do so.
+[14] For these nations, whom you shall dispossess, listen to diviners and interpreters of omens; but as for you, ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ has not allowed you to do so.
 
-[15] Yahweh your *Elohim* will raise up for you a prophet like me from your midst, from your brothers; to him you shall listen.
+[15] ⟦yhwh|Yahweh|The LORD⟧ your ⟦elohim|Elohim|God⟧ will raise up for you a prophet like me from your midst, from your brothers; to him you shall listen.
 
-[16] This is according to all that you asked of Yahweh your *Elohim* at Horeb on the day of the assembly, saying, 'Let me not hear again the voice of Yahweh my *Elohim* or see this great fire any more, lest I die.'
+[16] This is according to all that you asked of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ at ⟦horeb|Chorev|Horeb⟧ on the day of the assembly, saying, 'Let me not hear again the voice of ⟦yhwh|Yahweh|the LORD⟧ my ⟦elohim|Elohim|God⟧ or see this great fire any more, lest I die.'
 
-[17] Yahweh said to me, 'They have done well in what they have spoken.
+[17] ⟦yhwh|Yahweh|The LORD⟧ said to me, 'They have done well in what they have spoken.
 
 [18] I will raise up for them a prophet like you from among their brothers, and I will put my words in his mouth, and he shall speak to them all that I command him.
 
@@ -40,9 +40,9 @@
 
 [20] But the prophet who presumes to speak a word in my name that I have not commanded him to speak, or who speaks in the name of other gods — that prophet shall die.'
 
-[21] And if you say in your heart, 'How shall we know the word that Yahweh has not spoken?' —
+[21] And if you say in your heart, 'How shall we know the word that ⟦yhwh|Yahweh|the LORD⟧ has not spoken?' —
 
-[22] when a prophet speaks in the name of Yahweh, if the word does not come to pass or come true, that is a word that Yahweh has not spoken; the prophet has spoken it presumptuously. You shall not be afraid of him.
+[22] when a prophet speaks in the name of ⟦yhwh|Yahweh|the LORD⟧, if the word does not come to pass or come true, that is a word that ⟦yhwh|Yahweh|the LORD⟧ has not spoken; the prophet has spoken it presumptuously. You shall not be afraid of him.
 
 ## Changes
 

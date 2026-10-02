@@ -1,6 +1,6 @@
 # Izajáš 13
 
-[1] Výnos o Babylonu, který viděl Isaiah, syn Amozův.
+[1] Výnos o ⟦babylon|Bavelu|Babylónu⟧, který viděl ⟦isaiah|Ješajahu|Izajáš⟧, syn ⟦amoz|Amocův|Amósův⟧.
 
 [2] Na holém vrchu vztyčte korouhev,
 volejte na ně nahlas,
@@ -16,15 +16,15 @@ ty, kdo pyšně jásají.
 jako velikého množství!
 Zvuk hluku království,
 národů, které se shromažďují!
-Yahweh zástupů sčítá vojsko k boji.
+⟦yhwh|Jahve|Hospodin⟧ zástupů sčítá vojsko k boji.
 
 [5] Přicházejí z daleké země,
 od konce nebes,
-Yahweh a zbraně jeho rozhořčení,
+⟦yhwh|Jahve|Hospodin⟧ a zbraně jeho rozhořčení,
 aby zničili celou zemi.
 
-[6] Kvílejte, neboť Den Yahweh je blízko;
-přijde jako zkáza od Shaddai!
+[6] Kvílejte, neboť Den ⟦yhwh|Jahveho|Hospodina⟧ je blízko;
+přijde jako zkáza od ⟦shaddai|Šaddaje|Všemohoucího⟧!
 
 [7] Proto všechny ruce ochabnou
 a každé lidské srdce se rozplyne.
@@ -35,7 +35,7 @@ budou se svíjet jako rodička.
 Budou na sebe zírat ohromeně;
 jejich tváře v plamenech.
 
-[9] Hle, Den Yahweh přichází,
+[9] Hle, Den ⟦yhwh|Jahveho|Hospodina⟧ přichází,
 krutý, s prchlivostí a planoucím hněvem,
 aby učinil zemi pustinou
 a vyhladil z ní její hříšníky.
@@ -51,11 +51,11 @@ učiním konec okázalosti zpupných
 a srazím nadutou pýchu ukrutníků.
 
 [12] Učiním lidi vzácnějšími než ryzí zlato
-a lidstvo vzácnějším než zlato z Ophiru.
+a lidstvo vzácnějším než zlato z ⟦ophir|Ofiru|Ofíru⟧.
 
 [13] Proto rozechvěji nebesa
 a země se otřese ze svého místa
-pro prchlivost Yahweh zástupů
+pro prchlivost ⟦yhwh|Jahveho|Hospodina⟧ zástupů
 v den jeho planoucího hněvu.
 
 [14] A jako štvaná gazela
@@ -70,7 +70,7 @@ a kdokoli bude chycen, padne mečem.
 jejich domy budou vyloupeny
 a jejich ženy znásilněny.
 
-[17] Hle, já proti nim probouzím Medy,
+[17] Hle, já proti nim probouzím ⟦medes|Madaj|Médy⟧,
 kteří si stříbra neváží
 a v zlatě nenacházejí zalíbení.
 
@@ -78,14 +78,14 @@ a v zlatě nenacházejí zalíbení.
 nebudou mít slitování s plodem života;
 jejich oči nebudou šetřit děti.
 
-[19] A Babylon, ozdoba království,
-nádhera a pýcha Chaldejců,
-bude jako Sodom a Gomorrah,
-když je *Elohim* vyvrátil.
+[19] A ⟦babylon|Bavel|Babylón⟧, ozdoba království,
+nádhera a pýcha ⟦chaldeans|Kasdim|Kaldejců⟧,
+bude jako ⟦sodom|Sedom|Sodoma⟧ a ⟦gomorrah|Amora|Gomora⟧,
+když je ⟦elohim|Elohim|Bůh⟧ vyvrátil.
 
 [20] Už nikdy nebude obýván
 ani zabydlen po všechna pokolení;
-žádný Arab tam nerozbije svůj stan;
+žádný ⟦arab|Arav|Arab⟧ tam nerozbije svůj stan;
 žádní pastýři tam nenechají svá stáda ležet.
 
 [21] Ale budou tam ležet divoká zvířata

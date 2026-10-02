@@ -1,28 +1,28 @@
 # Exodus 33
 
-[1] Yahweh řekl Mosesovi: „Odejdi, vytáhni odsud, ty i lid, který jsi vyvedl z egyptské země, do země, o níž jsem přísahal Abrahamovi, Isaacovi a Jacobovi: ‚Tvému potomstvu ji dám.‘
+[1] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Odejdi, vytáhni odsud, ty i lid, který jsi vyvedl z egyptské země, do země, o níž jsem přísahal ⟦abraham|Avrahamovi|Abrahamovi⟧, ⟦isaac|Jicchakovi|Izákovi⟧ a ⟦jacob|Jaakovovi|Jákobovi⟧: ‚Tvému potomstvu ji dám.‘
 
-[2] Pošlu před tebou posla a vyženu Canaanejce, Amorejce, Hittejce, Perizzejce, Hivejce a Jebusejce.
+[2] Pošlu před tebou posla a vyženu ⟦canaanites|Kenaani|Kenaance⟧, ⟦amorite|Emori|Emorejce⟧, ⟦hittite|Chitti|Chetejce⟧, ⟦perizzite|Perizzi|Perizejce⟧, ⟦hivite|Chivvi|Chivejce⟧ a ⟦jebusite|Jevusi|Jebúsejce⟧.
 
 [3] Vytáhni do země oplývající mlékem a medem; ale já nepůjdu uprostřed tebe, protože jsi lid tvrdé šíje, abych tě na cestě nezničil.“
 
 [4] Když lid uslyšel tuto zlou zprávu, truchlili a nikdo si nevzal své ozdoby.
 
-[5] Yahweh totiž řekl Mosesovi: „Řekni synům Israele: ‚Vy jste lid tvrdé šíje; kdybych šel uprostřed tebe byť jen na okamžik, zničil bych tě. Nyní tedy ze sebe sundej své ozdoby, abych věděl, co s tebou udělám.‘“
+[5] ⟦yhwh|Jahve|Hospodin⟧ totiž řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Řekni synům ⟦israel|Jisraele|Izraele⟧: ‚Vy jste lid tvrdé šíje; kdybych šel uprostřed tebe byť jen na okamžik, zničil bych tě. Nyní tedy ze sebe sundej své ozdoby, abych věděl, co s tebou udělám.‘“
 
-[6] Synové Israele tedy ze sebe strhli své ozdoby, od hory Horeb dále.
+[6] Synové ⟦israel|Jisraele|Izraele⟧ tedy ze sebe strhli své ozdoby, od hory ⟦horeb|Chorev|Choréb⟧ dále.
 
-[7] Moses bral stan a stavěl ho venku za táborem, daleko od tábora, a nazval ho stanem setkávání. Každý, kdo hledal Yahweh, vycházel ke stanu setkávání, který byl venku za táborem.
+[7] ⟦moses|Moše|Mojžíš⟧ bral stan a stavěl ho venku za táborem, daleko od tábora, a nazval ho stanem setkávání. Každý, kdo hledal ⟦yhwh|Jahveho|Hospodina⟧, vycházel ke stanu setkávání, který byl venku za táborem.
 
-[8] Kdykoli Moses vycházel ke stanu, všechen lid povstal a stál, každý u vchodu svého stanu, a hleděl za Mosesem, dokud nevešel do stanu.
+[8] Kdykoli ⟦moses|Moše|Mojžíš⟧ vycházel ke stanu, všechen lid povstal a stál, každý u vchodu svého stanu, a hleděl za ⟦moses|Mošem|Mojžíšem⟧, dokud nevešel do stanu.
 
-[9] Když Moses vešel do stanu, sestoupil oblakový sloup a stál u vchodu stanu, a Yahweh mluvil s Mosesem.
+[9] Když ⟦moses|Moše|Mojžíš⟧ vešel do stanu, sestoupil oblakový sloup a stál u vchodu stanu, a ⟦yhwh|Jahve|Hospodin⟧ mluvil s ⟦moses|Mošem|Mojžíšem⟧.
 
 [10] Když všechen lid viděl oblakový sloup stát u vchodu stanu, všechen lid povstal a klaněl se, každý u vchodu svého stanu.
 
-[11] Yahweh mluvil s Mosesem tváří v tvář, jako mluví člověk se svým přítelem. Potom se Moses vracel do tábora; ale jeho služebník Joshua, syn Nuna, mladý muž, se od stanu nevzdaloval.
+[11] ⟦yhwh|Jahve|Hospodin⟧ mluvil s ⟦moses|Mošem|Mojžíšem⟧ tváří v tvář, jako mluví člověk se svým přítelem. Potom se ⟦moses|Moše|Mojžíš⟧ vracel do tábora; ale jeho služebník ⟦joshua|Jehošua|Jozue⟧, syn ⟦nun|Nuna|Núna⟧, mladý muž, se od stanu nevzdaloval.
 
-[12] Moses řekl Yahweh: „Hleď, ty mi říkáš: ‚Vyveď tento lid‘; ale nedal jsi mi poznat, koho se mnou pošleš. Přitom jsi řekl: ‚Znám tě jménem a také jsi nalezl přízeň v mých očích.‘
+[12] ⟦moses|Moše|Mojžíš⟧ řekl ⟦yhwh|Jahvovi|Hospodinu⟧: „Hleď, ty mi říkáš: ‚Vyveď tento lid‘; ale nedal jsi mi poznat, koho se mnou pošleš. Přitom jsi řekl: ‚Znám tě jménem a také jsi nalezl přízeň v mých očích.‘
 
 [13] Nyní tedy, jestliže jsem nalezl přízeň v tvých očích, ukaž mi, prosím, své cesty, abych tě poznal a dál nalézal přízeň v tvých očích. A uvaž, že tento národ je tvůj lid.“
 
@@ -32,15 +32,15 @@
 
 [16] Podle čeho by se totiž poznalo, že jsem nalezl přízeň v tvých očích, já i tvůj lid? Zda ne tím, že půjdeš s námi, takže budeme odlišeni – já i tvůj lid – ode všech národů na tváři země?“
 
-[17] Yahweh řekl Mosesovi: „I tuto věc, o které jsi mluvil, učiním; neboť jsi nalezl přízeň v mých očích a znám tě jménem.“
+[17] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „I tuto věc, o které jsi mluvil, učiním; neboť jsi nalezl přízeň v mých očích a znám tě jménem.“
 
 [18] Tehdy řekl: „Ukaž mi, prosím, svou slávu.“
 
-[19] Řekl: „Nechám před tebou přejít všechnu svou dobrotu a vyhlásím před tebou jméno Yahweh; smiluji se, nad kým se smiluji, a slituji se, nad kým se slituji.“
+[19] Řekl: „Nechám před tebou přejít všechnu svou dobrotu a vyhlásím před tebou jméno ⟦yhwh|Jahveho|Hospodina⟧; smiluji se, nad kým se smiluji, a slituji se, nad kým se slituji.“
 
 [20] Ale řekl: „Nemůžeš vidět mou tvář; neboť žádný člověk mě nemůže vidět a zůstat naživu.“
 
-[21] Yahweh řekl: „Hle, je místo u mě; postavíš se na skálu,
+[21] ⟦yhwh|Jahve|Hospodin⟧ řekl: „Hle, je místo u mě; postavíš se na skálu,
 
 [22] a až bude přecházet má sláva, postavím tě do skalní rozsedliny a přikryji tě svou rukou, dokud nepřejdu.
 

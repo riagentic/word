@@ -47,7 +47,7 @@ moře říká: ‚Není u mne.‘
 [15] Nelze ji koupit za ryzí zlato
 ani za ni odvážit stříbro jako cenu.
 
-[16] Nelze ji ocenit zlatem z Ophiru,
+[16] Nelze ji ocenit zlatem z ⟦ophir|Ofiru|Ofíru⟧,
 vzácným onyxem ani safírem.
 
 [17] Zlato a sklo se jí nevyrovnají
@@ -56,7 +56,7 @@ ani ji nelze vyměnit za předměty z ryzího zlata.
 [18] O korálech a křišťálu ani nemluvě;
 získat moudrost je víc než rubíny.
 
-[19] Topaz z Cushe se jí nevyrovná
+[19] Topaz z ⟦cush|Kuše|Kúše⟧ se jí nevyrovná
 ani ji nelze ocenit ryzím zlatem.
 
 [20] Odkud tedy přichází moudrost?
@@ -65,10 +65,10 @@ Kde je místo rozumnosti?
 [21] Je skryta očím všeho živého
 a utajena ptákům nebes.
 
-[22] Abaddon a Smrt říkají:
+[22] ⟦abaddon|Avaddon|Abadon⟧ a Smrt říkají:
 ‚Na vlastní uši jsme o ní slyšeli pověst.‘
 
-[23] *Elohim* rozumí cestě k ní;
+[23] ⟦elohim|Elohim|Bůh⟧ rozumí cestě k ní;
 on zná její místo.
 
 [24] Vždyť hledí až na konce země
@@ -84,7 +84,7 @@ a cestu blesku,
 upevnil ji a prozkoumal.
 
 [28] A řekl člověku:
-‚Hle, bázeň před Pánem – to je moudrost,
+‚Hle, bázeň před ⟦adonai|Adonajem|Pánem⟧ – to je moudrost,
 a odvrátit se od zla je rozumnost.‘“
 
 ## Změny

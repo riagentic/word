@@ -8,11 +8,11 @@
 
 [4] There is **one body and one Spirit — just as you were called to the one hope that belongs to your call —**
 
-[5] one Lord, one faith, one immersion,
+[5] one Lord, one faith, one ⟦immersion|immersion|baptism⟧,
 
-**[6] one *Elohim* and Father of all, who is over all and through all and in all**.
+**[6] one ⟦elohim|Elohim|God⟧ and Father of all, who is over all and through all and in all**.
 
-[7] But grace was given to each one of us according to the measure of the *Mashiach*'s gift.
+[7] But grace was given to each one of us according to the measure of ⟦mashiach|the Mashiach's|Christ's⟧ gift.
 
 [8] Therefore it says,
 
@@ -25,31 +25,31 @@ and he gave gifts to men**."
 
 [11] And he gave the apostles, the prophets, the evangelists, the shepherds and teachers,
 
-[12] to equip the saints for the work of ministry, for building up the body of the *Mashiach*,
+[12] to equip the saints for the work of ministry, for building up the body of ⟦mashiach|the Mashiach|Christ⟧,
 
-[13] until we all attain to the unity of the faith and of the knowledge of the Son of *Elohim*, to mature manhood, to the measure of the stature of the fullness of the *Mashiach*,
+[13] until we all attain to the unity of the faith and of the knowledge of the Son of ⟦elohim|Elohim|God⟧, to mature manhood, to the measure of the stature of the fullness of ⟦mashiach|the Mashiach|Christ⟧,
 
 [14] so that we may no longer be children, tossed to and fro by the waves and carried about by every wind of doctrine, by human cunning, by craftiness in deceitful schemes.
 
-[15] Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into the *Mashiach*,
+[15] Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into ⟦mashiach|the Mashiach|Christ⟧,
 
 [16] from whom the whole body, joined and held together by every joint with which it is equipped, when each part is working properly, makes the body grow so that it builds itself up in love.
 
 [17] Now this I say and testify in the Lord, that you must no longer walk as the Gentiles do, in the futility of their minds.
 
-[18] They are darkened in their understanding, alienated from the life of *Elohim* because of the ignorance that is in them, due to their hardness of heart.
+[18] They are darkened in their understanding, alienated from the life of ⟦elohim|Elohim|God⟧ because of the ignorance that is in them, due to their hardness of heart.
 
 [19] They have become callous and have given themselves up to sensuality, greedy to practice every kind of impurity.
 
-[20] But that is not the way you learned the *Mashiach*! —
+[20] But that is not the way you learned ⟦mashiach|the Mashiach|Christ⟧! —
 
-[21] assuming that you have heard about him and were taught in him, as the truth is in *Yeshua*,
+[21] assuming that you have heard about him and were taught in him, as the truth is in ⟦yeshua|Yeshua|Jesus⟧,
 
 [22] to put off your old self, which belongs to your former manner of life and is corrupt through deceitful desires,
 
 [23] and to be renewed in the spirit of your minds,
 
-[24] and to put on the new self, created after the likeness of *Elohim* in true righteousness and holiness.
+[24] and to put on the new self, created after the likeness of ⟦elohim|Elohim|God⟧ in true righteousness and holiness.
 
 [25] Therefore, having put away falsehood, let each one of you speak the truth with his neighbor, for we are members one of another.
 
@@ -61,11 +61,11 @@ and he gave gifts to men**."
 
 [29] Let no corrupting talk come out of your mouths, but only such as is good for building up, as fits the occasion, that it may give grace to those who hear.
 
-[30] And do not grieve the *Ruach HaQodesh* of *Elohim*, by whom you were sealed for the day of redemption.
+[30] And do not grieve the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧ of ⟦elohim|Elohim|God⟧, by whom you were sealed for the day of redemption.
 
 [31] Let all bitterness and wrath and anger and clamor and slander be put away from you, along with all malice.
 
-[32] Be kind to one another, tenderhearted, forgiving one another, as *Elohim* in the *Mashiach* forgave you.
+[32] Be kind to one another, tenderhearted, forgiving one another, as ⟦elohim|Elohim|God⟧ in ⟦mashiach|the Mashiach|Christ⟧ forgave you.
 
 ## Changes
 

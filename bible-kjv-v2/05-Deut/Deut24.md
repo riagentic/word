@@ -6,17 +6,17 @@
 
 [3] and if the latter husband comes to hate her and writes her a certificate of divorce, gives it into her hand, and sends her out of his house, or if the latter husband who took her as his wife dies —
 
-[4] then her former husband, who sent her away, may not take her again to be his wife, after she has been defiled; for that is an abomination before Yahweh. You shall not bring sin upon the land that Yahweh your *Elohim* is giving you for an inheritance.
+[4] then her former husband, who sent her away, may not take her again to be his wife, after she has been defiled; for that is an abomination before ⟦yhwh|Yahweh|the LORD⟧. You shall not bring sin upon the land that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is giving you for an inheritance.
 
 [5] When a man has newly taken a wife, he shall not go out with the army or be charged with any duty; he shall be free at home for one year and shall bring joy to his wife whom he has taken.
 
 [6] No one shall take a pair of millstones — or even an upper millstone — in pledge, for he would be taking a life in pledge.
 
-[7] If a man is found kidnapping one of his brothers, of the children of Israel, and treats him harshly or sells him, then that thief shall die. So you shall purge the evil from your midst.
+[7] If a man is found kidnapping one of his brothers, of the children of ⟦israel|Yisrael|Israel⟧, and treats him harshly or sells him, then that thief shall die. So you shall purge the evil from your midst.
 
 [8] Take care in a case of skin disease to observe diligently and do according to all that the levitical priests shall teach you; as I commanded them, so you shall be careful to do.
 
-[9] Remember what Yahweh your *Elohim* did to Miriam on the way as you came out of Egypt.
+[9] Remember what ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ did to ⟦miriam|Miryam|Miriam⟧ on the way as you came out of ⟦egypt|Mitzrayim|Egypt⟧.
 
 [10] When you make your neighbor a loan of any sort, you shall not go into his house to take his pledge.
 
@@ -24,25 +24,25 @@
 
 [12] And if he is a poor man, you shall not sleep in his pledge;
 
-[13] you shall surely restore the pledge to him when the sun sets, that he may sleep in his garment and bless you; and it shall be righteousness to you before Yahweh your *Elohim*.
+[13] you shall surely restore the pledge to him when the sun sets, that he may sleep in his garment and bless you; and it shall be righteousness to you before ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
 [14] You shall not oppress a hired worker who is poor and needy, whether he is of your brothers or of your foreigners who are in your land within your gates.
 
-[15] On the same day you shall give him his wages, and the sun shall not go down on it — for he is poor and sets his heart on it — lest he cry against you to Yahweh and it be sin in you.
+[15] On the same day you shall give him his wages, and the sun shall not go down on it — for he is poor and sets his heart on it — lest he cry against you to ⟦yhwh|Yahweh|the LORD⟧ and it be sin in you.
 
 [16] Fathers shall not be put to death for their children, nor shall children be put to death for their fathers; each shall be put to death for his own sin.
 
 [17] You shall not pervert justice due to the foreigner or the fatherless, nor take a widow's garment in pledge.
 
-[18] You shall remember that you were a slave in Egypt and Yahweh your *Elohim* redeemed you from there; therefore I am commanding you to do this thing.
+[18] You shall remember that you were a slave in ⟦egypt|Mitzrayim|Egypt⟧ and ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ redeemed you from there; therefore I am commanding you to do this thing.
 
-[19] When you reap your harvest in your field and forget a sheaf in the field, you shall not go back to get it; it shall be for the foreigner, the fatherless, and the widow, that Yahweh your *Elohim* may bless you in all the work of your hands.
+[19] When you reap your harvest in your field and forget a sheaf in the field, you shall not go back to get it; it shall be for the foreigner, the fatherless, and the widow, that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ may bless you in all the work of your hands.
 
 [20] When you beat your olive tree, you shall not go over it again; it shall be for the foreigner, the fatherless, and the widow.
 
 [21] When you gather the grapes of your vineyard, you shall not glean it afterward; it shall be for the foreigner, the fatherless, and the widow.
 
-[22] You shall remember that you were a slave in the land of Egypt; therefore I am commanding you to do this thing.
+[22] You shall remember that you were a slave in the land of ⟦egypt|Mitzrayim|Egypt⟧; therefore I am commanding you to do this thing.
 
 ## Changes
 

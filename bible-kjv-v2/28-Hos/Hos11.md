@@ -1,13 +1,13 @@
 # Hosea 11
 
-[1] **When Israel was a child, I loved him,
-and out of Egypt I called my son.**
+[1] **When ⟦israel|Yisrael|Israel⟧ was a child, I loved him,
+and out of ⟦egypt|Mitzrayim|Egypt⟧ I called my son.**
 
 [2] The more they were called, the more they went away;
 they kept sacrificing to the Baals
 and burning offerings to idols.
 
-[3] Yet it was I who taught Ephraim to walk;
+[3] Yet it was I who taught ⟦ephraim|Efrayim|Ephraim⟧ to walk;
 I took them up by their arms,
 but they did not know that I healed them.
 
@@ -16,8 +16,8 @@ with the bands of love,
 and I became to them as one who eases the yoke on their jaws,
 and I bent down to them and fed them.
 
-[5] They shall not return to the land of Egypt,
-but Assyria shall be their king,
+[5] They shall not return to the land of ⟦egypt|Mitzrayim|Egypt⟧,
+but ⟦assyria|Ashur|Assyria⟧ shall be their king,
 because they have refused to return to me.
 
 [6] The sword shall rage against their cities,
@@ -28,35 +28,36 @@ and devour them because of their own counsels.
 and though they call out to the Most High,
 he shall not raise them up at all.
 
-[8] How can I give you up, O Ephraim?
-How can I hand you over, O Israel?
+[8] How can I give you up, O ⟦ephraim|Efrayim|Ephraim⟧?
+How can I hand you over, O ⟦israel|Yisrael|Israel⟧?
 How can I make you like Admah?
-How can I treat you like Zevoyim?
+How can I treat you like ⟦zeboiim|Tzevoyim|Zeboiim⟧?
 My heart recoils within me;
 my compassion grows warm and tender.
 
 [9] I will not execute my burning anger;
-I will not again destroy Ephraim;
-for I am *Elohim* and not a man,
+I will not again destroy ⟦ephraim|Efrayim|Ephraim⟧;
+for I am ⟦el|El|God⟧ and not a man,
 the Holy One in your midst,
 and I will not come in wrath.
 
-[10] They shall go after Yahweh;
+[10] They shall go after ⟦yhwh|Yahweh|the LORD⟧;
 he will roar like a lion;
 when he roars, his children shall come trembling from the west;
 
-[11] they shall come trembling like birds from Egypt,
-and like doves from the land of Assyria,
-and I will return them to their homes, declares Yahweh.
+[11] they shall come trembling like birds from ⟦egypt|Mitzrayim|Egypt⟧,
+and like doves from the land of ⟦assyria|Ashur|Assyria⟧,
+and I will return them to their homes, declares ⟦yhwh|Yahweh|the LORD⟧.
 
-[12] Ephraim has surrounded me with lies,
-and the house of Israel with deceit,
-but Judah still walks with *Elohim*
+[12] ⟦ephraim|Efrayim|Ephraim⟧ has surrounded me with lies,
+and the house of ⟦israel|Yisrael|Israel⟧ with deceit,
+but ⟦judah|Yehudah|Judah⟧ still walks with ⟦el|El|God⟧
 and is faithful to the Holy One.
 
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
+- **"God" → "El"** (v9, 12) — Hebrew אֵל *El*, not *Elohim*.
 - **Poetry formatted with blockquote indentation** (throughout) — KJV prose; Hebrew is among the most tender poetry in the prophets.
 - **"As they called them, so they went from them" → "The more they were called, the more they went away"** (v2) — Hebrew כְּקָרְאָם כֵּן הָלְכוּ מִפְּנֵיהֶם; the Hebrew idiom means the more insistently they were called, the more they departed.
 - **"burned incense to graven images" → "burning offerings to idols"** (v2) — Hebrew יְקַטְּרוּן לַפְּסִלִים; "offerings" more general.

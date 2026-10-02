@@ -1,18 +1,18 @@
 # Micheáš 4
 
 [1] Stane se v posledních dnech,
-že hora domu Yahweh
+že hora domu ⟦yhwh|Jahveho|Hospodina⟧
 bude upevněna jako nejvyšší z hor
 a bude vyvýšena nad pahorky;
 a národy k ní budou proudit,
 
 [2] přijdou mnohé pronárody a řeknou:
-„Pojďte, vystupme na horu Yahweh,
-do domu *Elohim* Jacobova,
+„Pojďte, vystupme na horu ⟦yhwh|Jahveho|Hospodina⟧,
+do domu ⟦elohim|Elohim|Boha⟧ ⟦jacob|Jaakovova|Jákobova⟧,
 aby nás učil svým cestám
 a abychom chodili po jeho stezkách.“
-Neboť ze Zionu vyjde Zákon
-a slovo Yahweh z Jerusalemu.
+Neboť ⟦zion|z Cijonu|ze Sijónu⟧ vyjde ⟦torah|Tóra|zákon⟧
+a slovo ⟦yhwh|Jahveho|Hospodina⟧ z ⟦jerusalem|Jerušalajim|Jeruzaléma⟧.
 
 [3] Bude soudit mezi mnoha národy
 a rozhodovat spory mocných pronárodů v dálce;
@@ -23,58 +23,58 @@ a už se nebudou učit válce;**
 
 [4] ale budou sedět každý pod svou vinnou révou a pod svým fíkovníkem
 a nikdo je nebude děsit,
-neboť ústa Yahweh zástupů promluvila.
+neboť ústa ⟦yhwh|Jahveho|Hospodina⟧ zástupů promluvila.
 
 [5] Neboť všechny národy chodí
 každý ve jménu svého boha,
-ale my budeme chodit ve jménu Yahweh, našeho *Elohim*,
+ale my budeme chodit ve jménu ⟦yhwh|Jahveho|Hospodina⟧, našeho ⟦elohim|Elohim|Boha⟧,
 navěky a navždy.
 
-[6] Onoho dne, praví Yahweh,
+[6] Onoho dne, praví ⟦yhwh|Jahve|Hospodin⟧,
 shromáždím kulhající
 a sesbírám ty, kdo byli rozehnáni,
 i ty, které jsem ztrápil;
 
 [7] z kulhajících učiním pozůstatek
 a ze zapuzených mocný národ;
-a Yahweh bude nad nimi kralovat na hoře Zion
+a ⟦yhwh|Jahve|Hospodin⟧ bude nad nimi kralovat na hoře ⟦zion|Cijon|Sijón⟧
 od nynějška až navěky.
 
 [8] A ty, věži stáda,
-pahorku dcery Zion,
+pahorku dcery ⟦zion|Cijon|Sijón⟧,
 k tobě to přijde,
 přijde dřívější vláda,
-království pro dceru Jerusalem.
+království pro dceru ⟦jerusalem|Jerušalajim|Jeruzalém⟧.
 
 [9] Proč teď tak hlasitě křičíš?
 Což v tobě není král?
 Zahynul tvůj rádce,
 že tě zachvátila bolest jako rodičku?
 
-[10] Svíjej se a sténej, dcero Zion,
+[10] Svíjej se a sténej, dcero ⟦zion|Cijon|Sijón⟧,
 jako rodička,
 neboť nyní vyjdeš z města
 a budeš bydlet v šírém poli;
-půjdeš do Babylonu.
+půjdeš do ⟦babylon|Bavelu|Babylóna⟧.
 Tam budeš vysvobozena;
-tam tě Yahweh vykoupí
+tam tě ⟦yhwh|Jahve|Hospodin⟧ vykoupí
 z ruky tvých nepřátel.
 
 [11] Nyní se proti tobě
 shromáždily mnohé národy
 a říkají: „Ať je poskvrněna
-a ať se naše oči kochají pohledem na Zion.“
+a ať se naše oči kochají pohledem na ⟦zion|Cijon|Sijón⟧.“
 
 [12] Ale neznají
-myšlenky Yahweh;
+myšlenky ⟦yhwh|Jahveho|Hospodina⟧;
 nechápou jeho záměr,
 že je shromáždil jako snopy na mlat.
 
-[13] Vstaň a mlať, dcero Zion,
+[13] Vstaň a mlať, dcero ⟦zion|Cijon|Sijón⟧,
 neboť tvůj roh učiním železným
 a tvá kopyta učiním bronzovými;
 rozdrtíš mnohé národy
-a jejich zisk zasvětím Yahweh,
+a jejich zisk zasvětím ⟦yhwh|Jahvovi|Hospodinu⟧,
 jejich bohatství Pánu celé země.
 
 ## Změny

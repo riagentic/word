@@ -1,20 +1,20 @@
 # Joel 3
 
-[1] "For behold, in those days and at that time, when I restore the fortunes of Judah and Jerusalem,
+[1] "For behold, in those days and at that time, when I restore the fortunes of ⟦judah|Yehudah|Judah⟧ and ⟦jerusalem|Yerushalayim|Jerusalem⟧,
 
-[2] I will gather all the nations and bring them down to the Valley of Jehoshaphat. And I will enter into judgment with them there, on behalf of my people and my heritage Israel, because they have scattered them among the nations and have divided up my land,
+[2] I will gather all the nations and bring them down to the Valley of ⟦jehoshaphat|Yehoshafat|Jehoshaphat⟧. And I will enter into judgment with them there, on behalf of my people and my heritage ⟦israel|Yisrael|Israel⟧, because they have scattered them among the nations and have divided up my land,
 
 [3] and have cast lots for my people, and have traded a boy for a prostitute, and have sold a girl for wine and have drunk it.
 
-[4] "What are you to me, O Tyre and Sidon, and all the regions of Philistia? Are you paying me back for something? If you are paying me back, I will return your payment on your own head swiftly and speedily.
+[4] "What are you to me, O ⟦tyre|Tzor|Tyre⟧ and ⟦sidon|Tzidon|Sidon⟧, and all the regions of ⟦philistia|Peleshet|Philistia⟧? Are you paying me back for something? If you are paying me back, I will return your payment on your own head swiftly and speedily.
 
 [5] For you have taken my silver and my gold, and have carried my rich treasures into your temples.
 
-[6] You have sold the people of Judah and Jerusalem to the Greeks in order to remove them far from their own border.
+[6] You have sold the people of ⟦judah|Yehudah|Judah⟧ and ⟦jerusalem|Yerushalayim|Jerusalem⟧ to the ⟦greeks|Yevanim|Greeks⟧ in order to remove them far from their own border.
 
 [7] Behold, I will stir them up from the place to which you have sold them, and I will return your payment on your own head.
 
-[8] I will sell your sons and your daughters into the hand of the people of Judah, and they will sell them to the Sabeans, to a nation far off, for Yahweh has spoken.
+[8] I will sell your sons and your daughters into the hand of the people of ⟦judah|Yehudah|Judah⟧, and they will sell them to the ⟦sabeans|Shevaim|Sabeans⟧, to a nation far off, for ⟦yhwh|Yahweh|the LORD⟧ has spoken.
 
 [9] Proclaim this among the nations:
 Consecrate for war;
@@ -28,10 +28,10 @@ let the weak say, "I am a warrior."
 
 [11] Hasten and come, all you surrounding nations,
 and assemble there.
-Bring down your warriors, O Yahweh.
+Bring down your warriors, O ⟦yhwh|Yahweh|LORD⟧.
 
 [12] Let the nations stir themselves up
-and come up to the Valley of Jehoshaphat;
+and come up to the Valley of ⟦jehoshaphat|Yehoshafat|Jehoshaphat⟧;
 for there I will sit to judge
 all the surrounding nations.
 
@@ -44,38 +44,38 @@ for their evil is great.
 
 [14] Multitudes, multitudes,
 in the Valley of Decision!
-For the Day of Yahweh is near
+For the Day of ⟦yhwh|Yahweh|the LORD⟧ is near
 in the Valley of Decision.
 
 [15] The sun and the moon are darkened,
 and the stars withdraw their shining.
 
-[16] Yahweh roars from Zion,
-and utters his voice from Jerusalem,
+[16] ⟦yhwh|Yahweh|The LORD⟧ roars from ⟦zion|Tziyon|Zion⟧,
+and utters his voice from ⟦jerusalem|Yerushalayim|Jerusalem⟧,
 and the heavens and the earth quake.
-But Yahweh is a refuge to his people,
-a stronghold to the people of Israel.
+But ⟦yhwh|Yahweh|the LORD⟧ is a refuge to his people,
+a stronghold to the people of ⟦israel|Yisrael|Israel⟧.
 
-[17] "So you shall know that I am Yahweh your *Elohim*, who dwells in Zion, my holy mountain. And Jerusalem shall be holy, and strangers shall never again pass through it.
+[17] "So you shall know that I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, who dwells in ⟦zion|Tziyon|Zion⟧, my holy mountain. And ⟦jerusalem|Yerushalayim|Jerusalem⟧ shall be holy, and strangers shall never again pass through it.
 
 [18] "And in that day
 the mountains shall drip sweet wine,
 and the hills shall flow with milk,
-and all the streambeds of Judah
+and all the streambeds of ⟦judah|Yehudah|Judah⟧
 shall flow with water;
-and a fountain shall come forth from the house of Yahweh
+and a fountain shall come forth from the house of ⟦yhwh|Yahweh|the LORD⟧
 and water the Valley of Shittim.
 
-[19] "Egypt shall become a desolation
+[19] "⟦egypt|Mitzrayim|Egypt⟧ shall become a desolation
 and Edom a desolate wilderness,
-for the violence done to the people of Judah,
+for the violence done to the people of ⟦judah|Yehudah|Judah⟧,
 because they have shed innocent blood in their land.
 
-[20] But Judah shall be inhabited forever,
-and Jerusalem to all generations.
+[20] But ⟦judah|Yehudah|Judah⟧ shall be inhabited forever,
+and ⟦jerusalem|Yerushalayim|Jerusalem⟧ to all generations.
 
 [21] I will avenge their blood, blood I have not avenged,
-for Yahweh dwells in Zion."
+for ⟦yhwh|Yahweh|the LORD⟧ dwells in ⟦zion|Tziyon|Zion⟧."
 
 ## Changes
 

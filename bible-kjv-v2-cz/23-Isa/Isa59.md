@@ -1,10 +1,10 @@
 # Izajáš 59
 
-[1] Hle, ruka Yahweh není tak krátká, aby nemohla zachránit,
+[1] Hle, ruka ⟦yhwh|Jahveho|Hospodina⟧ není tak krátká, aby nemohla zachránit,
 ani jeho ucho tak tupé, aby nemohlo slyšet;
 
 [2] to vaše viny způsobily rozdělení
-mezi vámi a vaším *Elohim*
+mezi vámi a vaším ⟦elohim|Elohim|Bohem⟧
 a vaše hříchy před vámi skryly jeho tvář,
 takže neslyší.
 
@@ -58,8 +58,8 @@ a naše hříchy svědčí proti nám;
 vždyť naše přestoupení jsou s námi
 a své viny známe:
 
-[13] přestupovat a zapírat Yahweh,
-odvracet se od následování našeho *Elohim*,
+[13] přestupovat a zapírat ⟦yhwh|Jahveho|Hospodina⟧,
+odvracet se od následování našeho ⟦elohim|Elohim|Boha⟧,
 mluvit o útisku a vzpouře,
 počínat a ze srdce pronášet lživá slova.
 
@@ -70,7 +70,7 @@ a přímost nemůže vejít.
 
 [15] Pravda chybí
 a kdo se odvrací od zlého, stává se kořistí.
-Yahweh to viděl a nelíbilo se mu,
+⟦yhwh|Jahve|Hospodin⟧ to viděl a nelíbilo se mu,
 že není právo.
 
 [16] Viděl, že tu není nikdo,
@@ -87,16 +87,16 @@ a zahalil se horlivostí jako pláštěm.
 hněv svým protivníkům, odplatu svým nepřátelům;
 ostrovům a pobřežím odplatí odplatou.
 
-[19] Tak se budou bát jména Yahweh od západu
+[19] Tak se budou bát jména ⟦yhwh|Jahveho|Hospodina⟧ od západu
 a jeho slávy od východu slunce;
 neboť přijde jako dravý proud,
-který žene Duch Yahweh.
+který žene Duch ⟦yhwh|Jahveho|Hospodina⟧.
 
-[20] A do Zionu přijde Vykupitel,
-k těm v Jacobovi, kdo se odvracejí od přestoupení,
-je výrok Yahweh.
+[20] A do ⟦zion|Cijonu|Sijónu⟧ přijde Vykupitel,
+k těm v ⟦jacob|Jaakovovi|Jákobovi⟧, kdo se odvracejí od přestoupení,
+je výrok ⟦yhwh|Jahve|Hospodin⟧.
 
-[21] „Co se mne týče, toto je má smlouva s nimi,“ praví Yahweh: „Můj duch, který je na tobě, a má slova, která jsem vložil do tvých úst, se nevzdálí z tvých úst ani z úst tvého potomstva ani z úst potomstva tvých dětí,“ praví Yahweh, „od nynějška až navěky.“
+[21] „Co se mne týče, toto je má smlouva s nimi,“ praví ⟦yhwh|Jahve|Hospodin⟧: „Můj duch, který je na tobě, a má slova, která jsem vložil do tvých úst, se nevzdálí z tvých úst ani z úst tvého potomstva ani z úst potomstva tvých dětí,“ praví ⟦yhwh|Jahve|Hospodin⟧, „od nynějška až navěky.“
 
 ## Změny
 

@@ -1,16 +1,16 @@
 # Izajáš 15
 
-[1] Výnos o Moabu.
+[1] Výnos o ⟦moab|Moavu|Moábu⟧.
 
-Protože Ar Moabský je za noc zpustošen,
-Moab je zničen;
-protože Kir Moabský je za noc zpustošen,
-Moab je zničen.
+Protože Ar ⟦moab|Moavský|Moábský⟧ je za noc zpustošen,
+⟦moab|Moav|Moáb⟧ je zničen;
+protože ⟦kir|Kir|Kír⟧ ⟦moab|Moavský|Moábský⟧ je za noc zpustošen,
+⟦moab|Moav|Moáb⟧ je zničen.
 
-[2] Vystoupil do chrámu a do Dibonu,
+[2] Vystoupil do chrámu a do ⟦dibon|Divonu|Díbonu⟧,
 na posvátná návrší, aby plakal;
-nad Nebem a nad Medebou
-Moab kvílí.
+nad ⟦nebo|Nevem|Nebó⟧ a nad ⟦medeba|Mejdvou|Médebou⟧
+⟦moab|Moav|Moáb⟧ kvílí.
 Na každé hlavě je lysina,
 každý vous je oholen;
 
@@ -18,20 +18,20 @@ každý vous je oholen;
 na střechách a na náměstích
 všichni kvílejí a rozplývají se v slzách.
 
-[4] Heshbon a Elealeh křičí;
-jejich hlas je slyšet až v Jahazu;
-proto ozbrojenci Moabu hlasitě volají;
+[4] ⟦heshbon|Chešbon|Chešbón⟧ a ⟦elealeh|Elale|Eleále⟧ křičí;
+jejich hlas je slyšet až v ⟦jahaz|Jahacu|Jahasu⟧;
+proto ozbrojenci ⟦moab|Moavu|Moábu⟧ hlasitě volají;
 jeho duše se chvěje.
 
-[5] Mé srdce křičí pro Moab;
-jeho uprchlíci prchají do Zoaru,
-do Eglath-Shelishiyah.
-Neboť po svahu Luhithu
+[5] Mé srdce křičí pro ⟦moab|Moav|Moáb⟧;
+jeho uprchlíci prchají do ⟦zoar|Coaru|Sóaru⟧,
+do ⟦eglath-shelishiyah|Eglat Šelišija|Eglat-šelišija⟧.
+Neboť po svahu ⟦luhith|Luchitu|Luchítu⟧
 vystupují s pláčem;
-na cestě do Horonaimu
+na cestě do Choronajimu
 pozvedají křik zkázy;
 
-[6] vody Nimrimu
+[6] vody ⟦nimrim|Nimrimu|Nimrímu⟧
 jsou pustinou;
 tráva uschla, rostlinstvo hyne,
 zeleň už není.
@@ -42,15 +42,16 @@ odnášejí
 přes Potok vrb.
 
 [8] Neboť křik obešel
-celou zemi Moab;
-její kvílení dosahuje až do Eglaimu;
-její kvílení dosahuje až do Beer-elimu.
+celou zemi ⟦moab|Moav|Moáb⟧;
+její kvílení dosahuje až do Eglajimu;
+její kvílení dosahuje až do ⟦beer-elim|Beer-Elimu|Beer-élímu⟧.
 
-[9] Neboť vody Dibonu jsou plné krve;
-ale na Dibon uvedu ještě víc –
-lva na ty z Moabu, kdo uniknou,
+[9] Neboť vody ⟦dimon|Dimonu|Dímónu⟧ jsou plné krve;
+ale na ⟦dimon|Dimon|Dímón⟧ uvedu ještě víc –
+lva na ty z ⟦moab|Moavu|Moábu⟧, kdo uniknou,
 na zbytek země.
 
 ## Změny
 
+- **"Dimon" ponecháno** (v9) – hebrejsky דִּימוֹן *Dimon* (MT); čtení „Dibon“ (svitky od Mrtvého moře, Vulgáta, ESV) nepřevzato.
 - **Básnická struktura** – celá kapitola uspořádána jako verše / nářek; prozaické odstavce KJV nepostihly stavbu žalozpěvu.

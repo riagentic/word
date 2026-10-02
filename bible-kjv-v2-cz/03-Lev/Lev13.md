@@ -1,8 +1,8 @@
 # Leviticus 13
 
-[1] Yahweh promluvil k Mosesovi a Aaronovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a ⟦aaron|Aharonovi|Áronovi⟧:
 
-[2] „Když má někdo na kůži svého těla otok, strup nebo světlou skvrnu a na kůži jeho těla se z toho stane nákaza kožní nemoci, bude přiveden ke knězi Aaronovi nebo k některému z jeho synů, kněží.
+[2] „Když má někdo na kůži svého těla otok, strup nebo světlou skvrnu a na kůži jeho těla se z toho stane nákaza kožní nemoci, bude přiveden ke knězi ⟦aaron|Aharonovi|Áronovi⟧ nebo k některému z jeho synů, kněží.
 
 [3] Kněz prohlédne nákazu na kůži těla: jestliže chlupy v nákaze zbělely a nákaza se jeví hlubší než kůže jeho těla, je to nákaza kožní nemoci. Kněz ho prohlédne a prohlásí ho za nečistého.
 

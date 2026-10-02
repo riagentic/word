@@ -1,6 +1,6 @@
 # Genesis 8
 
-[1] *Elohim* se rozpomenul na Noaha a na všechnu divokou zvěř a všechen dobytek, které byly s ním v arše. *Elohim* nechal přejít nad zemí vítr, a vody opadly.
+[1] ⟦elohim|Elohim|Bůh⟧ se rozpomenul na ⟦noah|Noacha|Noeho⟧ a na všechnu divokou zvěř a všechen dobytek, které byly s ním v arše. ⟦elohim|Elohim|Bůh⟧ nechal přejít nad zemí vítr, a vody opadly.
 
 [2] Prameny hlubiny a okna nebes byla uzavřena a déšť z nebes byl zadržen.
 
@@ -10,7 +10,7 @@
 
 [5] Vody ustupovaly dál až do desátého měsíce; v desátém měsíci, prvního dne měsíce, se ukázaly vrcholky hor.
 
-[6] Po uplynutí čtyřiceti dní otevřel Noah okno archy, které udělal,
+[6] Po uplynutí čtyřiceti dní otevřel ⟦noah|Noach|Noe⟧ okno archy, které udělal,
 
 [7] a vypustil havrana, který létal sem a tam, dokud vody na zemi nevyschly.
 
@@ -20,27 +20,27 @@
 
 [10] Počkal ještě dalších sedm dní a znovu vypustil holubici z archy.
 
-[11] Holubice k němu přilétla k večeru, a hle, v zobáku měla čerstvě utržený olivový lístek; tak Noah poznal, že vody ze země ustoupily.
+[11] Holubice k němu přilétla k večeru, a hle, v zobáku měla čerstvě utržený olivový lístek; tak ⟦noah|Noach|Noe⟧ poznal, že vody ze země ustoupily.
 
 [12] Počkal ještě dalších sedm dní a vypustil holubici, a ta se k němu už nevrátila.
 
-[13] V 601. roce, v prvním měsíci, prvního dne měsíce, vody na zemi vyschly. Noah odstranil přikrývku archy, podíval se, a hle, tvář půdy byla suchá.
+[13] V 601. roce, v prvním měsíci, prvního dne měsíce, vody na zemi vyschly. ⟦noah|Noach|Noe⟧ odstranil přikrývku archy, podíval se, a hle, tvář půdy byla suchá.
 
 [14] Ve druhém měsíci, 27. dne měsíce, byla země suchá.
 
-[15] Tu *Elohim* promluvil k Noahovi:
+[15] Tu ⟦elohim|Elohim|Bůh⟧ promluvil k ⟦noah|Noachovi|Noemu⟧:
 
 [16] „Vyjdi z archy ty a tvá žena, tvoji synové a ženy tvých synů s tebou.
 
 [17] Vyveď s sebou všechno živé, co je s tebou – ze všeho těla, z ptáků, z dobytka, z každého plaza, který se plazí po zemi –, ať se hemží na zemi a ať plodí a množí se na zemi.“
 
-[18] Tak Noah vyšel a s ním jeho synové, jeho žena a ženy jeho synů.
+[18] Tak ⟦noah|Noach|Noe⟧ vyšel a s ním jeho synové, jeho žena a ženy jeho synů.
 
 [19] Všechna divoká zvěř, všichni plazi, všichni ptáci, všechno, co se pohybuje po zemi – vyšli z archy podle svých čeledí.
 
-[20] Potom Noah postavil Yahweh oltář, vzal ze všech čistých zvířat a ze všech čistých ptáků a obětoval na oltáři zápalné oběti.
+[20] Potom ⟦noah|Noach|Noe⟧ postavil ⟦yhwh|Jahvovi|Hospodinu⟧ oltář, vzal ze všech čistých zvířat a ze všech čistých ptáků a obětoval na oltáři zápalné oběti.
 
-[21] Yahweh ucítil uklidňující vůni a Yahweh řekl ve svém srdci: „Už nikdy nebudu proklínat půdu kvůli lidstvu, neboť sklon lidského srdce je zlý od jeho mládí; a už nikdy nezahubím všechno živé, jako jsem to učinil.
+[21] ⟦yhwh|Jahve|Hospodin⟧ ucítil uklidňující vůni a ⟦yhwh|Jahve|Hospodin⟧ řekl ve svém srdci: „Už nikdy nebudu proklínat půdu kvůli lidstvu, neboť sklon lidského srdce je zlý od jeho mládí; a už nikdy nezahubím všechno živé, jako jsem to učinil.
 
 [22] Dokud bude trvat země, nepřestane setba a žeň, chlad a horko, léto a zima, den a noc.“
 

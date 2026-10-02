@@ -1,34 +1,34 @@
 # Joshua 14
 
-[1] These are the inheritances that the children of Israel received in the land of Canaan, which Eleazar the priest, Joshua son of Nun, and the heads of the ancestral houses of the tribes of the children of Israel apportioned to them.
+[1] These are the inheritances that the children of ⟦israel|Yisrael|Israel⟧ received in the land of ⟦canaan|Kenaan|Canaan⟧, which ⟦eleazar|Elazar|Eleazar⟧ the priest, ⟦joshua|Yehoshua|Joshua⟧ son of Nun, and the heads of the ancestral houses of the tribes of the children of ⟦israel|Yisrael|Israel⟧ apportioned to them.
 
-[2] Their inheritance was by lot, as Yahweh had commanded by the hand of Moses, for the nine tribes and the half-tribe.
+[2] Their inheritance was by lot, as ⟦yhwh|Yahweh|the LORD⟧ had commanded by the hand of ⟦moses|Moshe|Moses⟧, for the nine tribes and the half-tribe.
 
-[3] For Moses had given the inheritance of two tribes and the half-tribe beyond the Jordan; but to the Levites he gave no inheritance among them.
+[3] For ⟦moses|Moshe|Moses⟧ had given the inheritance of two tribes and the half-tribe beyond the ⟦jordan|Yarden|Jordan⟧; but to the ⟦levites|Leviyim|Levites⟧ he gave no inheritance among them.
 
-[4] For the children of Joseph were two tribes, Manasseh and Ephraim; and no portion was given to the Levites in the land, only cities to dwell in with their pasturelands for their livestock and their property.
+[4] For the children of ⟦joseph|Yosef|Joseph⟧ were two tribes, ⟦manasseh|Menashe|Manasseh⟧ and ⟦ephraim|Efrayim|Ephraim⟧; and no portion was given to the ⟦levites|Leviyim|Levites⟧ in the land, only cities to dwell in with their pasturelands for their livestock and their property.
 
-[5] As Yahweh had commanded Moses, so the children of Israel did, and they apportioned the land.
+[5] As ⟦yhwh|Yahweh|the LORD⟧ had commanded ⟦moses|Moshe|Moses⟧, so the children of ⟦israel|Yisrael|Israel⟧ did, and they apportioned the land.
 
-[6] Then the children of Judah came to Joshua at Gilgal, and Caleb son of Jephunneh the Kenizzite said to him, "You know what Yahweh said to Moses the man of *Elohim* concerning you and me at Kadesh-barnea.
+[6] Then the children of ⟦judah|Yehudah|Judah⟧ came to ⟦joshua|Yehoshua|Joshua⟧ at Gilgal, and ⟦caleb|Kalev|Caleb⟧ son of ⟦jephunneh|Yefunneh|Jephunneh⟧ the ⟦kenizzites|Qenizzi|Kenizzite⟧ said to him, "You know what ⟦yhwh|Yahweh|the LORD⟧ said to ⟦moses|Moshe|Moses⟧ the man of ⟦elohim|Elohim|God⟧ concerning you and me at ⟦kadesh-barnea|Qadesh Barnea|Kadesh-barnea⟧.
 
-[7] I was forty years old when Moses the servant of Yahweh sent me from Kadesh-barnea to scout out the land, and I brought back word to him as it was in my heart.
+[7] I was forty years old when ⟦moses|Moshe|Moses⟧ the servant of ⟦yhwh|Yahweh|the LORD⟧ sent me from ⟦kadesh-barnea|Qadesh Barnea|Kadesh-barnea⟧ to scout out the land, and I brought back word to him as it was in my heart.
 
-[8] My brothers who went up with me made the heart of the people melt; but I wholly followed Yahweh my *Elohim*.
+[8] My brothers who went up with me made the heart of the people melt; but I wholly followed ⟦yhwh|Yahweh|the LORD⟧ my ⟦elohim|Elohim|God⟧.
 
-[9] And Moses swore on that day, saying, 'Surely the land on which your foot has trodden shall be an inheritance for you and for your children forever, because you have wholly followed Yahweh my *Elohim*.'
+[9] And ⟦moses|Moshe|Moses⟧ swore on that day, saying, 'Surely the land on which your foot has trodden shall be an inheritance for you and for your children forever, because you have wholly followed ⟦yhwh|Yahweh|the LORD⟧ my ⟦elohim|Elohim|God⟧.'
 
-[10] Now behold, Yahweh has kept me alive, as he said, these forty-five years since Yahweh spoke this word to Moses, while Israel walked in the wilderness. And now, behold, I am today eighty-five years old.
+[10] Now behold, ⟦yhwh|Yahweh|the LORD⟧ has kept me alive, as he said, these forty-five years since ⟦yhwh|Yahweh|the LORD⟧ spoke this word to ⟦moses|Moshe|Moses⟧, while ⟦israel|Yisrael|Israel⟧ walked in the wilderness. And now, behold, I am today eighty-five years old.
 
-[11] I am still as strong today as I was on the day Moses sent me; as my strength was then, so is my strength now — for war and for going out and coming in.
+[11] I am still as strong today as I was on the day ⟦moses|Moshe|Moses⟧ sent me; as my strength was then, so is my strength now — for war and for going out and coming in.
 
-[12] So now give me this hill country of which Yahweh spoke on that day, for you heard on that day that the Anakim were there, with great, fortified cities. Perhaps Yahweh will be with me, and I shall drive them out as Yahweh spoke."
+[12] So now give me this hill country of which ⟦yhwh|Yahweh|the LORD⟧ spoke on that day, for you heard on that day that the ⟦anakim|Anaqim|Anakim⟧ were there, with great, fortified cities. Perhaps ⟦yhwh|Yahweh|the LORD⟧ will be with me, and I shall drive them out as ⟦yhwh|Yahweh|the LORD⟧ spoke."
 
-[13] Joshua blessed him and gave Hebron to Caleb son of Jephunneh as an inheritance.
+[13] ⟦joshua|Yehoshua|Joshua⟧ blessed him and gave ⟦hebron|Chevron|Hebron⟧ to ⟦caleb|Kalev|Caleb⟧ son of ⟦jephunneh|Yefunneh|Jephunneh⟧ as an inheritance.
 
-[14] Therefore Hebron became the inheritance of Caleb son of Jephunneh the Kenizzite to this day, because he wholly followed Yahweh the *Elohim* of Israel.
+[14] Therefore ⟦hebron|Chevron|Hebron⟧ became the inheritance of ⟦caleb|Kalev|Caleb⟧ son of ⟦jephunneh|Yefunneh|Jephunneh⟧ the ⟦kenizzites|Qenizzi|Kenizzite⟧ to this day, because he wholly followed ⟦yhwh|Yahweh|the LORD⟧ the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧.
 
-[15] The name of Hebron formerly was Kiriath-arba — Arba was the greatest man among the Anakim. And the land had rest from war.
+[15] The name of ⟦hebron|Chevron|Hebron⟧ formerly was ⟦kiriath-arba|Qiryat Arba|Kiriath-arba⟧ — Arba was the greatest man among the ⟦anakim|Anaqim|Anakim⟧. And the land had rest from war.
 
 ## Changes
 

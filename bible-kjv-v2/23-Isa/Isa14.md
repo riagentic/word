@@ -1,17 +1,17 @@
 # Isaiah 14
 
-[1] For Yahweh will have compassion on Jacob and will again choose Israel, and will set them in their own land, and sojourners will join them and will attach themselves to the house of Jacob.
+[1] For ⟦yhwh|Yahweh|the LORD⟧ will have compassion on ⟦jacob|Yaaqov|Jacob⟧ and will again choose ⟦israel|Yisrael|Israel⟧, and will set them in their own land, and sojourners will join them and will attach themselves to the house of ⟦jacob|Yaaqov|Jacob⟧.
 
-[2] And the peoples will take them and bring them to their place, and the house of Israel will possess them in Yahweh's land as male and female slaves. They will take captive those who were their captors, and rule over those who oppressed them.
+[2] And the peoples will take them and bring them to their place, and the house of ⟦israel|Yisrael|Israel⟧ will possess them in ⟦yhwh|Yahweh's|the LORD's⟧ land as male and female slaves. They will take captive those who were their captors, and rule over those who oppressed them.
 
-[3] When Yahweh has given you rest from your pain and turmoil and the hard service with which you were made to serve,
+[3] When ⟦yhwh|Yahweh|the LORD⟧ has given you rest from your pain and turmoil and the hard service with which you were made to serve,
 
-[4] you will take up this parable against the king of Babylon:
+[4] you will take up this parable against the king of ⟦babylon|Bavel|Babylon⟧:
 
 "How the oppressor has ceased,
 the insolent fury ceased!
 
-[5] Yahweh has broken the staff of the wicked,
+[5] ⟦yhwh|Yahweh|The LORD⟧ has broken the staff of the wicked,
 the scepter of rulers,
 
 [6] that struck the peoples in wrath
@@ -23,7 +23,7 @@ with unrelenting persecution.
 they break forth into singing.
 
 [8] The cypresses rejoice at you,
-the cedars of Lebanon, saying,
+the cedars of ⟦lebanon|Levanon|Lebanon⟧, saying,
 'Since you were laid low,
 no woodcutter comes up against us.'
 
@@ -51,13 +51,13 @@ you who laid the nations low!
 
 [13] You said in your heart,
 'I will ascend to heaven;
-above the stars of *Elohim*
+above the stars of ⟦el|El|God⟧
 I will set my throne on high;
 I will sit on the mount of assembly
 in the far reaches of the north;
 
 [14] I will ascend above the heights of the clouds;
-I will make myself like Most High.'
+I will make myself like ⟦elyon|Elyon|the Most High⟧.'
 
 [15] But you are brought down to Sheol,
 to the far reaches of the pit.
@@ -91,18 +91,18 @@ because of the guilt of their fathers,
 lest they rise and possess the earth,
 and fill the face of the world with cities."
 
-[22] "I will rise up against them," declares Yahweh of Hosts, "and will cut off from Babylon name and remnant, descendants and posterity," declares Yahweh.
+[22] "I will rise up against them," declares ⟦yhwh|Yahweh|the LORD⟧ of Hosts, "and will cut off from ⟦babylon|Bavel|Babylon⟧ name and remnant, descendants and posterity," declares ⟦yhwh|Yahweh|the LORD⟧.
 
-[23] "And I will make it a possession of the hedgehog, and pools of water, and I will sweep it with the broom of destruction," declares Yahweh of Hosts.
+[23] "And I will make it a possession of the hedgehog, and pools of water, and I will sweep it with the broom of destruction," declares ⟦yhwh|Yahweh|the LORD⟧ of Hosts.
 
-[24] Yahweh of Hosts has sworn:
+[24] ⟦yhwh|Yahweh|The LORD⟧ of Hosts has sworn:
 
 "As I have planned,
 so shall it be,
 and as I have purposed,
 so shall it stand,
 
-[25] that I will break the Assyrian in my land,
+[25] that I will break ⟦assyria|Ashur|the Assyrian⟧ in my land,
 and on my mountains trample him underfoot;
 and his yoke shall depart from them,
 and his burden from their shoulder."
@@ -110,14 +110,14 @@ and his burden from their shoulder."
 [26] This is the purpose that is purposed concerning the whole earth,
 and this is the hand that is stretched out over all the nations.
 
-[27] For Yahweh of Hosts has purposed,
+[27] For ⟦yhwh|Yahweh|the LORD⟧ of Hosts has purposed,
 and who will annul it?
 His hand is stretched out,
 and who will turn it back?
 
-[28] In the year that King Ahaz died came this oracle:
+[28] In the year that King ⟦ahaz|Achaz|Ahaz⟧ died came this oracle:
 
-[29] Rejoice not, O Philistia, all of you,
+[29] Rejoice not, O ⟦philistia|Peleshet|Philistia⟧, all of you,
 that the rod that struck you is broken,
 for from the serpent's root will come forth an adder,
 and its fruit will be a flying fiery serpent.
@@ -128,12 +128,12 @@ but I will kill your root with famine,
 and your remnant it will slay.
 
 [31] Wail, O gate; cry out, O city;
-melt in fear, O Philistia, all of you!
+melt in fear, O ⟦philistia|Peleshet|Philistia⟧, all of you!
 For smoke comes out of the north,
 and there is no straggler in his ranks.
 
 [32] What will one answer the messengers of the nation?
-"Yahweh has founded Zion,
+"⟦yhwh|Yahweh|The LORD⟧ has founded ⟦zion|Tziyon|Zion⟧,
 and in her the afflicted of his people find refuge."
 
 ## Changes
@@ -141,6 +141,7 @@ and in her the afflicted of his people find refuge."
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"LORD of hosts" → "Yahweh of Hosts"** (vv22, 23, 24, 27) — divine title preserved.
 - **"O Lucifer, son of the morning" → "O Day Star, son of Dawn"** (v12) — Hebrew הֵילֵל בֶּן־שָׁחַר *Heilel ben Shachar* = "shining one, son of dawn / morning star." KJV "Lucifer" comes from the Latin Vulgate (*lucifer* = "light-bearer"); "Day Star" is the literal Hebrew sense.
+- **"God" → "El"** (v13) — Hebrew אֵל *El*, not *Elohim*.
 
 ### Notes
 - **vv12-15** — in Christian tradition associated with Satan's fall (cf. Luke 10:18); in original context, fall of Babylonian king.

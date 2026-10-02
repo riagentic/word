@@ -20,7 +20,7 @@
 
 [10] And when he was alone, those around him with the twelve asked him about the parables.
 
-[11] And he said to them, "To you has been given the secret of the kingdom of *Elohim*, but for those outside everything is in parables,
+[11] And he said to them, "To you has been given the secret of the kingdom of ⟦elohim|Elohim|God⟧, but for those outside everything is in parables,
 
 [12] so that
 
@@ -54,7 +54,7 @@ lest they should turn and be forgiven.'"
 
 [25] For to the one who has, more will be given, and from the one who has not, even what he has will be taken away."
 
-[26] And he said, "The kingdom of *Elohim* is as if a man should scatter seed on the ground.
+[26] And he said, "The kingdom of ⟦elohim|Elohim|God⟧ is as if a man should scatter seed on the ground.
 
 [27] He sleeps and rises night and day, and the seed sprouts and grows; he knows not how.
 
@@ -62,7 +62,7 @@ lest they should turn and be forgiven.'"
 
 [29] But when the grain is ripe, at once he puts in the sickle, because the harvest has come."
 
-[30] And he said, "With what can we compare the kingdom of *Elohim*, or what parable shall we use for it?
+[30] And he said, "With what can we compare the kingdom of ⟦elohim|Elohim|God⟧, or what parable shall we use for it?
 
 [31] It is like a grain of mustard seed, which, when sown on the ground, is the smallest of all the seeds on earth,
 

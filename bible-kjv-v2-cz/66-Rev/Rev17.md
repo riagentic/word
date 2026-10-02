@@ -8,9 +8,9 @@
 
 [4] Žena byla oděna v purpur a šarlat, ozdobena zlatem, drahými kameny a perlami, a v ruce držela zlatý kalich plný ohavností a nečistot svého smilstva.
 
-[5] A na jejím čele bylo napsáno jméno, tajemství: „**Veliký Babylon, matka nevěstek a ohavností země**.“
+[5] A na jejím čele bylo napsáno jméno, tajemství: „**Veliký ⟦babylon|Bavel|Babylón⟧, matka nevěstek a ohavností země**.“
 
-[6] A viděl jsem tu ženu opilou krví svatých, krví mučedníků *Yeshuy*.
+[6] A viděl jsem tu ženu opilou krví svatých, krví mučedníků ⟦yeshua|Ješuy|Ježíše⟧.
 
 Když jsem ji uviděl, velice jsem užasl.
 
@@ -34,7 +34,7 @@ Když jsem ji uviděl, velice jsem užasl.
 
 [16] A deset rohů, které jsi viděl – ony i šelma budou nevěstku nenávidět. Zpustoší ji a obnaží, budou jíst její maso a spálí ji ohněm,
 
-[17] neboť *Elohim* jim vložil do srdce, aby vykonali jeho záměr tím, že budou jedné mysli a předají svou královskou moc šelmě, dokud se nenaplní slova *Elohim*.
+[17] neboť ⟦elohim|Elohim|Bůh⟧ jim vložil do srdce, aby vykonali jeho záměr tím, že budou jedné mysli a předají svou královskou moc šelmě, dokud se nenaplní slova ⟦elohim|Elohim|Boží⟧.
 
 [18] A žena, kterou jsi viděl, je to veliké město, které vládne nad králi země.“
 

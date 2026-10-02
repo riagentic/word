@@ -1,26 +1,26 @@
 # Luke 19
 
-[1] He entered Jericho and was passing through.
+[1] He entered ⟦jericho|Yericho|Jericho⟧ and was passing through.
 
-[2] And behold, there was a man named Zacchaeus. He was a chief tax collector and was rich.
+[2] And behold, there was a man named ⟦zacchaeus|Zakkai|Zacchaeus⟧. He was a chief tax collector and was rich.
 
-[3] And he was seeking to see who *Yeshua* was, but on account of the crowd he could not, because he was small of stature.
+[3] And he was seeking to see who ⟦yeshua|Yeshua|Jesus⟧ was, but on account of the crowd he could not, because he was small of stature.
 
 [4] So he ran on ahead and climbed up into a sycamore tree to see him, for he was about to pass that way.
 
-[5] And when *Yeshua* came to the place, he looked up and said to him, "Zacchaeus, hurry and come down, for I must stay at your house today."
+[5] And when ⟦yeshua|Yeshua|Jesus⟧ came to the place, he looked up and said to him, "⟦zacchaeus|Zakkai|Zacchaeus⟧, hurry and come down, for I must stay at your house today."
 
 [6] So he hurried and came down and received him joyfully.
 
 [7] And when they saw it, they all grumbled, "He has gone in to be the guest of a man who is a sinner."
 
-[8] And Zacchaeus stood and said to the Lord, "Behold, Lord, the half of my goods I give to the poor. And if I have defrauded anyone of anything, I restore it fourfold."
+[8] And ⟦zacchaeus|Zakkai|Zacchaeus⟧ stood and said to the Lord, "Behold, Lord, the half of my goods I give to the poor. And if I have defrauded anyone of anything, I restore it fourfold."
 
-[9] And *Yeshua* said to him, "Today salvation has come to this house, since he also is a son of Abraham.
+[9] And ⟦yeshua|Yeshua|Jesus⟧ said to him, "Today salvation has come to this house, since he also is a son of ⟦abraham|Avraham|Abraham⟧.
 
 [10] **For the Son of Man came to seek and to save the lost.**"
 
-[11] As they heard these things, he proceeded to tell a parable, because he was near to Jerusalem, and because they supposed that the kingdom of *Elohim* was to appear immediately.
+[11] As they heard these things, he proceeded to tell a parable, because he was near to ⟦jerusalem|Yerushalayim|Jerusalem⟧, and because they supposed that the kingdom of ⟦elohim|Elohim|God⟧ was to appear immediately.
 
 [12] He said therefore, "A nobleman went into a far country to receive for himself a kingdom and then return.
 
@@ -54,9 +54,9 @@
 
 [27] But as for these enemies of mine, who did not want me to reign over them, bring them here and slaughter them before me.'"
 
-[28] And when he had said these things, he went on ahead, going up to Jerusalem.
+[28] And when he had said these things, he went on ahead, going up to ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[29] When he drew near to Bethphage and Bethany, at the mount that is called Olivet, he sent two of the disciples,
+[29] When he drew near to ⟦bethphage|Beit Pagei|Bethphage⟧ and ⟦bethany|Bethania|Bethany⟧, at the mount that is called ⟦mount-of-olives|HaZeitim|Olivet⟧, he sent two of the disciples,
 
 [30] saying, "Go into the village in front of you, where on entering you will find a colt tied, on which no one has ever yet sat. Untie it and bring it here.
 
@@ -68,15 +68,15 @@
 
 [34] And they said, "The Lord has need of it."
 
-[35] And they brought it to *Yeshua*, and throwing their cloaks on the colt, they set *Yeshua* on it.
+[35] And they brought it to ⟦yeshua|Yeshua|Jesus⟧, and throwing their cloaks on the colt, they set ⟦yeshua|Yeshua|Jesus⟧ on it.
 
 [36] And as he rode along, they spread their cloaks on the road.
 
-[37] As he was drawing near — already on the way down the Mount of Olives — the whole multitude of his disciples began to rejoice and praise *Elohim* with a loud voice for all the mighty works that they had seen,
+[37] As he was drawing near — already on the way down ⟦mount-of-olives|Har HaZeitim|the Mount of Olives⟧ — the whole multitude of his disciples began to rejoice and praise ⟦elohim|Elohim|God⟧ with a loud voice for all the mighty works that they had seen,
 
-[38] saying, "**Blessed is the King who comes in the name of the Lord!** Peace in heaven and glory in the highest!"
+[38] saying, "**Blessed is the King who comes in the name of ⟦yhwh|Yahweh|the Lord⟧!** Peace in heaven and glory in the highest!"
 
-[39] And some of the Pharisees in the crowd said to him, "Teacher, rebuke your disciples."
+[39] And some of the ⟦pharisees|Perushim|Pharisees⟧ in the crowd said to him, "Teacher, rebuke your disciples."
 
 [40] He answered, "I tell you, if these were silent, the very stones would cry out."
 

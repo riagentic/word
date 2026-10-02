@@ -1,6 +1,6 @@
 # Revelation 16
 
-[1] Then I heard a loud voice from the temple telling the seven angels, "Go and pour out on the earth the seven bowls of the wrath of *Elohim*."
+[1] Then I heard a loud voice from the temple telling the seven angels, "Go and pour out on the earth the seven bowls of the wrath of ⟦elohim|Elohim|God⟧."
 
 [2] So the first angel went and poured out his bowl on the earth, and harmful and painful sores came upon the people who bore the mark of the beast and worshiped its image.
 
@@ -18,36 +18,36 @@ It is what they deserve!**"
 
 [7] And I heard the altar saying,
 
-"**Yes, Lord *Elohim* the Almighty,
+"**Yes, Lord ⟦elohim|Elohim|God⟧ the Almighty,
 true and just are your judgments!**"
 
 [8] The fourth angel poured out his bowl on the sun, and it was allowed to scorch people with fire.
 
-[9] They were scorched by the fierce heat, and they cursed the name of *Elohim* who had power over these plagues. They did not repent and give him glory.
+[9] They were scorched by the fierce heat, and they cursed the name of ⟦elohim|Elohim|God⟧ who had power over these plagues. They did not repent and give him glory.
 
 [10] The fifth angel poured out his bowl on the throne of the beast, and its kingdom was plunged into darkness. People gnawed their tongues in anguish
 
-[11] and cursed the *Elohim* of heaven for their pain and sores. They did not repent of their deeds.
+[11] and cursed the ⟦elohim|Elohim|God⟧ of heaven for their pain and sores. They did not repent of their deeds.
 
-[12] The sixth angel poured out his bowl on the great river Euphrates, and its water was dried up, to prepare the way for the kings from the east.
+[12] The sixth angel poured out his bowl on the great river ⟦euphrates|Perat|Euphrates⟧, and its water was dried up, to prepare the way for the kings from the east.
 
 [13] And I saw, coming out of the mouth of the dragon and out of the mouth of the beast and out of the mouth of the false prophet, three unclean spirits like frogs.
 
-[14] For they are demonic spirits, performing signs, who go abroad to the kings of the whole world, to assemble them for battle on the great day of *Elohim* the Almighty.
+[14] For they are demonic spirits, performing signs, who go abroad to the kings of the whole world, to assemble them for battle on the great day of ⟦elohim|Elohim|God⟧ the Almighty.
 
 [15] ("Behold, I am coming like a thief! Blessed is the one who stays awake, keeping his garments on, that he may not go about naked and be seen exposed!")
 
-[16] And they assembled them at the place that in Hebrew is called Armageddon.
+[16] And they assembled them at the place that in Hebrew is called ⟦armageddon|Har Megiddo|Armageddon⟧.
 
 [17] The seventh angel poured out his bowl into the air, and a loud voice came out of the temple, from the throne, saying, "**It is done!**"
 
 [18] And there were flashes of lightning, rumblings, peals of thunder, and a great earthquake such as there had never been since man was on the earth, so great was that earthquake.
 
-[19] The great city was split into three parts, and the cities of the nations fell, and *Elohim* remembered Babylon the great, to make her drain the cup of the wine of the fury of his wrath.
+[19] The great city was split into three parts, and the cities of the nations fell, and ⟦elohim|Elohim|God⟧ remembered ⟦babylon|Bavel|Babylon⟧ the great, to make her drain the cup of the wine of the fury of his wrath.
 
 [20] And every island fled away, and no mountains were to be found.
 
-[21] And great hailstones, each weighing about a talent, fell from heaven on people; and they cursed *Elohim* for the plague of the hail, because the plague was so severe.
+[21] And great hailstones, each weighing about a talent, fell from heaven on people; and they cursed ⟦elohim|Elohim|God⟧ for the plague of the hail, because the plague was so severe.
 
 ## Changes
 

@@ -1,12 +1,12 @@
 # Jeremiah 8
 
-[1] "At that time, declares Yahweh, the bones of the kings of Judah, the bones of its officials, the bones of the priests, the bones of the prophets, and the bones of the inhabitants of Jerusalem shall be brought out of their tombs.
+[1] "At that time, declares ⟦yhwh|Yahweh|the LORD⟧, the bones of the kings of ⟦judah|Yehudah|Judah⟧, the bones of its officials, the bones of the priests, the bones of the prophets, and the bones of the inhabitants of ⟦jerusalem|Yerushalayim|Jerusalem⟧ shall be brought out of their tombs.
 
 [2] And they shall be spread before the sun and the moon and all the host of heaven, which they have loved and served, which they have gone after, and which they have sought and worshiped. And they shall not be gathered or buried. They shall be as dung on the surface of the ground.
 
-[3] Death shall be preferred to life by all the remnant that remains of this evil family in all the places where I have driven them, declares Yahweh of Hosts.
+[3] Death shall be preferred to life by all the remnant that remains of this evil family in all the places where I have driven them, declares ⟦yhwh|Yahweh|the LORD⟧ of Hosts.
 
-[4] "You shall say to them, Thus says Yahweh:
+[4] "You shall say to them, Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
 "When men fall, do they not rise again?
 If one turns away, does he not return?
@@ -28,16 +28,16 @@ knows her times,
 and the turtledove, swallow, and crane
 keep the time of their coming,
 but my people know not
-the justice of Yahweh.
+the justice of ⟦yhwh|Yahweh|the LORD⟧.
 
 [8] How can you say, 'We are wise,
-and the Law of Yahweh is with us'?
+and the ⟦torah|Torah|law⟧ of ⟦yhwh|Yahweh|the LORD⟧ is with us'?
 But behold, the lying pen of the scribes
 has made it into a lie.
 
 [9] The wise men shall be put to shame;
 they shall be dismayed and taken;
-behold, they have rejected the word of Yahweh,
+behold, they have rejected the word of ⟦yhwh|Yahweh|the LORD⟧,
 so what wisdom is in them?
 
 [10] Therefore I will give their wives to others
@@ -56,9 +56,9 @@ No, they were not at all ashamed;
 they did not know how to blush.
 Therefore they shall fall among the fallen;
 when I punish them, they shall be overthrown,"
-says Yahweh.
+says ⟦yhwh|Yahweh|the LORD⟧.
 
-[13] "When I would gather them, declares Yahweh,
+[13] "When I would gather them, declares ⟦yhwh|Yahweh|the LORD⟧,
 there are no grapes on the vine,
 nor figs on the fig tree;
 even the leaves are withered,
@@ -67,9 +67,9 @@ and what I gave them has passed away from them."
 [14] Why do we sit still?
 Gather together; let us go into the fortified cities
 and perish there,
-for Yahweh our *Elohim* has doomed us to perish
+for ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧ has doomed us to perish
 and has given us poisoned water to drink,
-because we have sinned against Yahweh.
+because we have sinned against ⟦yhwh|Yahweh|the LORD⟧.
 
 [15] We looked for peace, but no good came;
 for a time of healing, but behold, terror.
@@ -83,14 +83,14 @@ the city and those who dwell in it.
 [17] For behold, I am sending among you serpents,
 adders that cannot be charmed,
 and they shall bite you,
-declares Yahweh.
+declares ⟦yhwh|Yahweh|the LORD⟧.
 
 [18] My joy is gone; grief is upon me;
 my heart is sick within me.
 
 [19] Behold, the cry of the daughter of my people
 from the length and breadth of the land:
-"Is Yahweh not in Zion?
+"Is ⟦yhwh|Yahweh|the LORD⟧ not in ⟦zion|Tziyon|Zion⟧?
 Is her King not in her?"
 "Why have they provoked me to anger with their carved images
 and with their foreign idols?"
@@ -101,7 +101,7 @@ and we are not saved.
 [21] For the wound of the daughter of my people is my heart wounded;
 I mourn, and dismay has taken hold on me.
 
-[22] Is there no balm in Gilead?
+[22] Is there no balm in ⟦gilead|Gilad|Gilead⟧?
 Is there no physician there?
 Why then has the health of the daughter of my people
 not been restored?

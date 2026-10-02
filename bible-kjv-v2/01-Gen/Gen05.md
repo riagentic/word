@@ -1,68 +1,68 @@
 # Genesis 5
 
-[1] This is the scroll of the generations of Adam. On the day *Elohim* created the human, he made him in the likeness of *Elohim*.
+[1] This is the scroll of the generations of Adam. On the day ⟦elohim|Elohim|God⟧ created the human, he made him in the likeness of ⟦elohim|Elohim|God⟧.
 
 [2] Male and female he created them; and he blessed them and called their name "Humankind" on the day they were created.
 
-[3] Adam lived 130 years and fathered a son in his own likeness, according to his image, and he named him Seth.
+[3] Adam lived 130 years and fathered a son in his own likeness, according to his image, and he named him ⟦seth|Shet|Seth⟧.
 
-[4] The days of Adam after he fathered Seth were 800 years; and he fathered sons and daughters.
+[4] The days of Adam after he fathered ⟦seth|Shet|Seth⟧ were 800 years; and he fathered sons and daughters.
 
 [5] All the days that Adam lived were 930 years; and he died.
 
-[6] Seth lived 105 years and fathered Enosh.
+[6] ⟦seth|Shet|Seth⟧ lived 105 years and fathered Enosh.
 
-[7] Seth lived after he fathered Enosh 807 years and fathered sons and daughters.
+[7] ⟦seth|Shet|Seth⟧ lived after he fathered Enosh 807 years and fathered sons and daughters.
 
-[8] All the days of Seth were 912 years; and he died.
+[8] All the days of ⟦seth|Shet|Seth⟧ were 912 years; and he died.
 
-[9] Enosh lived 90 years and fathered Kenan.
+[9] Enosh lived 90 years and fathered ⟦kenan|Qenan|Kenan⟧.
 
-[10] Enosh lived after he fathered Kenan 815 years and fathered sons and daughters.
+[10] Enosh lived after he fathered ⟦kenan|Qenan|Kenan⟧ 815 years and fathered sons and daughters.
 
 [11] All the days of Enosh were 905 years; and he died.
 
-[12] Kenan lived 70 years and fathered Mahalalel.
+[12] ⟦kenan|Qenan|Kenan⟧ lived 70 years and fathered Mahalalel.
 
-[13] Kenan lived after he fathered Mahalalel 840 years and fathered sons and daughters.
+[13] ⟦kenan|Qenan|Kenan⟧ lived after he fathered Mahalalel 840 years and fathered sons and daughters.
 
-[14] All the days of Kenan were 910 years; and he died.
+[14] All the days of ⟦kenan|Qenan|Kenan⟧ were 910 years; and he died.
 
-[15] Mahalalel lived 65 years and fathered Jared.
+[15] Mahalalel lived 65 years and fathered ⟦jared|Yered|Jared⟧.
 
-[16] Mahalalel lived after he fathered Jared 830 years and fathered sons and daughters.
+[16] Mahalalel lived after he fathered ⟦jared|Yered|Jared⟧ 830 years and fathered sons and daughters.
 
 [17] All the days of Mahalalel were 895 years; and he died.
 
-[18] Jared lived 162 years and fathered Enoch.
+[18] ⟦jared|Yered|Jared⟧ lived 162 years and fathered ⟦enoch|Chanoch|Enoch⟧.
 
-[19] Jared lived after he fathered Enoch 800 years and fathered sons and daughters.
+[19] ⟦jared|Yered|Jared⟧ lived after he fathered ⟦enoch|Chanoch|Enoch⟧ 800 years and fathered sons and daughters.
 
-[20] All the days of Jared were 962 years; and he died.
+[20] All the days of ⟦jared|Yered|Jared⟧ were 962 years; and he died.
 
-[21] Enoch lived 65 years and fathered Methuselah.
+[21] ⟦enoch|Chanoch|Enoch⟧ lived 65 years and fathered ⟦methuselah|Metushelach|Methuselah⟧.
 
-[22] Enoch walked with *Elohim* after he fathered Methuselah 300 years and fathered sons and daughters.
+[22] ⟦enoch|Chanoch|Enoch⟧ walked with ⟦elohim|Elohim|God⟧ after he fathered ⟦methuselah|Metushelach|Methuselah⟧ 300 years and fathered sons and daughters.
 
-[23] All the days of Enoch were 365 years.
+[23] All the days of ⟦enoch|Chanoch|Enoch⟧ were 365 years.
 
-[24] Enoch walked with *Elohim* — and he was no more, for *Elohim* took him.
+[24] ⟦enoch|Chanoch|Enoch⟧ walked with ⟦elohim|Elohim|God⟧ — and he was no more, for ⟦elohim|Elohim|God⟧ took him.
 
-[25] Methuselah lived 187 years and fathered Lamech.
+[25] ⟦methuselah|Metushelach|Methuselah⟧ lived 187 years and fathered ⟦lamech|Lemech|Lamech⟧.
 
-[26] Methuselah lived after he fathered Lamech 782 years and fathered sons and daughters.
+[26] ⟦methuselah|Metushelach|Methuselah⟧ lived after he fathered ⟦lamech|Lemech|Lamech⟧ 782 years and fathered sons and daughters.
 
-[27] All the days of Methuselah were 969 years; and he died.
+[27] All the days of ⟦methuselah|Metushelach|Methuselah⟧ were 969 years; and he died.
 
-[28] Lamech lived 182 years and fathered a son.
+[28] ⟦lamech|Lemech|Lamech⟧ lived 182 years and fathered a son.
 
-[29] He named him Noah, saying, "This one will bring us relief from our work and from the toil of our hands, from the ground that Yahweh has cursed."
+[29] He named him ⟦noah|Noach|Noah⟧, saying, "This one will bring us relief from our work and from the toil of our hands, from the ground that ⟦yhwh|Yahweh|the LORD⟧ has cursed."
 
-[30] Lamech lived after he fathered Noah 595 years and fathered sons and daughters.
+[30] ⟦lamech|Lemech|Lamech⟧ lived after he fathered ⟦noah|Noach|Noah⟧ 595 years and fathered sons and daughters.
 
-[31] All the days of Lamech were 777 years; and he died.
+[31] All the days of ⟦lamech|Lemech|Lamech⟧ were 777 years; and he died.
 
-[32] Noah was 500 years old, and Noah fathered Shem, Ham, and Japheth.
+[32] ⟦noah|Noach|Noah⟧ was 500 years old, and ⟦noah|Noach|Noah⟧ fathered Shem, ⟦ham|Cham|Ham⟧, and ⟦japheth|Yefet|Japheth⟧.
 
 ## Changes
 

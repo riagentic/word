@@ -1,6 +1,6 @@
 # Joel 1
 
-[1] The word of Yahweh that came to Joel son of Pethuel:
+[1] The word of ⟦yhwh|Yahweh|the LORD⟧ that came to ⟦joel|Yoel|Joel⟧ son of ⟦pethuel|Petuel|Pethuel⟧:
 
 [2] Hear this, you elders;
 give ear, all inhabitants of the land!
@@ -37,9 +37,9 @@ their branches are made white.
 for the bridegroom of her youth.
 
 [9] The grain offering and the drink offering are cut off
-from the house of Yahweh.
+from the house of ⟦yhwh|Yahweh|the LORD⟧.
 The priests mourn,
-the ministers of Yahweh.
+the ministers of ⟦yhwh|Yahweh|the LORD⟧.
 
 [10] The fields are destroyed,
 the ground mourns,
@@ -62,25 +62,25 @@ from the children of man.
 [13] Put on sackcloth and lament, O priests;
 wail, O ministers of the altar.
 Go in, pass the night in sackcloth,
-O ministers of my *Elohim*!
+O ministers of my ⟦elohim|Elohim|God⟧!
 Because grain offering and drink offering
-are withheld from the house of your *Elohim*.
+are withheld from the house of your ⟦elohim|Elohim|God⟧.
 
 [14] Consecrate a fast;
 call a solemn assembly.
 Gather the elders
 and all the inhabitants of the land
-to the house of Yahweh your *Elohim*,
-and cry out to Yahweh.
+to the house of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧,
+and cry out to ⟦yhwh|Yahweh|the LORD⟧.
 
 [15] Alas for the day!
-For the Day of Yahweh is near,
-and as destruction from Shaddai it comes.
+For the Day of ⟦yhwh|Yahweh|the LORD⟧ is near,
+and as destruction from ⟦shaddai|Shaddai|the Almighty⟧ it comes.
 
 [16] Is not the food cut off
 before our eyes,
 joy and gladness
-from the house of our *Elohim*?
+from the house of our ⟦elohim|Elohim|God⟧?
 
 [17] The seed shrivels under the clods;
 the storehouses are desolate;
@@ -92,7 +92,7 @@ The herds of cattle are perplexed
 because there is no pasture for them;
 even the flocks of sheep suffer.
 
-[19] To you, O Yahweh, I call.
+[19] To you, O ⟦yhwh|Yahweh|LORD⟧, I call.
 For fire has devoured
 the pastures of the wilderness,
 and flame has burned

@@ -1,8 +1,8 @@
 # Daniel 7
 
-[1] V prvním roce Belshazzara, krále Babylonu, viděl Daniel sen a vidění své hlavy, když ležel na svém lůžku. Potom ten sen sepsal a vylíčil podstatu věci.
+[1] V prvním roce ⟦belshazzar|Belšacara|Belšasara⟧, krále ⟦babylon|Bavelu|Babylóna⟧, viděl ⟦daniel|Danijel|Daniel⟧ sen a vidění své hlavy, když ležel na svém lůžku. Potom ten sen sepsal a vylíčil podstatu věci.
 
-[2] Daniel řekl: „Viděl jsem ve svém nočním vidění, a hle, čtyři nebeské větry rozbouřily veliké moře.
+[2] ⟦daniel|Danijel|Daniel⟧ řekl: „Viděl jsem ve svém nočním vidění, a hle, čtyři nebeské větry rozbouřily veliké moře.
 
 [3] A z moře vystoupila čtyři veliká zvířata, odlišná jedno od druhého.
 
@@ -18,7 +18,7 @@
 
 [9] „Zatímco jsem se díval,
 byly postaveny trůny
-a Pradávný dnů usedl;
+a ⟦ancient-of-days|Atik Jomin|Věkovitý⟧ usedl;
 jeho oděv byl bílý jako sníh
 a vlasy jeho hlavy jako čistá vlna;
 jeho trůn byl ohnivé plameny,
@@ -38,7 +38,7 @@ a knihy byly otevřeny.
 [13] „Viděl jsem v nočních viděních,
 a hle, s nebeskými oblaky
 přicházel jeden jako Syn člověka;
-přišel k Pradávnému dnů
+přišel k ⟦ancient-of-days|Atik Jomin|Věkovitému⟧
 a byl před něho přiveden.
 
 [14] Jemu byla dána vláda,
@@ -50,13 +50,13 @@ která nepomine,
 a jeho království takové,
 které nebude zničeno.
 
-[15] „Já, Daniel, jsem byl ve svém duchu zneklidněn a vidění mé hlavy mě poděsila.
+[15] „Já, ⟦daniel|Danijel|Daniel⟧, jsem byl ve svém duchu zneklidněn a vidění mé hlavy mě poděsila.
 
 [16] Přistoupil jsem k jednomu z těch, kteří tam stáli, a ptal jsem se ho na pravdu o tom všem. Pověděl mi to a oznámil mi výklad těch věcí.
 
 [17] ‚Tato čtyři veliká zvířata jsou čtyři králové, kteří povstanou ze země.
 
-[18] Ale svatí Nejvyššího přijmou království a budou vlastnit království navždy, navždy a navěky.‘
+[18] Ale svatí ⟦elyon|Eljonin|Nejvyššího⟧ přijmou království a budou vlastnit království navždy, navždy a navěky.‘
 
 [19] „Tu jsem chtěl znát pravdu o čtvrtém zvířeti, které bylo odlišné ode všech ostatních, nesmírně strašlivé, s železnými zuby a bronzovými drápy, které požíralo a drtilo a to, co zbylo, šlapalo nohama,
 
@@ -64,19 +64,19 @@ které nebude zničeno.
 
 [21] Zatímco jsem se díval, ten roh vedl válku se svatými a přemáhal je,
 
-[22] až přišel Pradávný dnů a byl vynesen soud ve prospěch svatých Nejvyššího a přišel čas, kdy svatí získali království.
+[22] až přišel ⟦ancient-of-days|Atik Jomin|Věkovitý⟧ a byl vynesen soud ve prospěch svatých ⟦elyon|Eljonin|Nejvyššího⟧ a přišel čas, kdy svatí získali království.
 
 [23] „Takto řekl: ‚Pokud jde o čtvrté zvíře, bude na zemi čtvrté království, které bude odlišné ode všech království; pozře celou zemi, pošlape ji a rozdrtí.
 
 [24] Pokud jde o deset rohů, z tohoto království povstane deset králů a po nich povstane další; bude odlišný od předchozích a poníží tři krále.
 
-[25] Bude mluvit slova proti Nejvyššímu, bude sužovat svaté Nejvyššího a bude zamýšlet změnit časy a zákon; a budou vydáni do jeho ruky na **čas, časy a půl času**.
+[25] Bude mluvit slova proti ⟦elyon|Ilaja|Nejvyššímu⟧, bude sužovat svaté ⟦elyon|Eljonin|Nejvyššího⟧ a bude zamýšlet změnit časy a zákon; a budou vydáni do jeho ruky na **čas, časy a půl času**.
 
 [26] Ale soud zasedne a jeho vláda mu bude odňata, aby byla až do konce zničena a vyhlazena.
 
-[27] A království, vláda a velikost království pod celým nebem budou dány lidu svatých Nejvyššího; jeho království bude království věčné a všechny vlády mu budou sloužit a poslouchat ho.‘
+[27] A království, vláda a velikost království pod celým nebem budou dány lidu svatých ⟦elyon|Eljonin|Nejvyššího⟧; jeho království bude království věčné a všechny vlády mu budou sloužit a poslouchat ho.‘
 
-[28] „Zde je konec té věci. Mě, Daniela, mé myšlenky velmi poděsily a změnil jsem barvu v tváři, ale tu věc jsem uchoval ve svém srdci.“
+[28] „Zde je konec té věci. Mě, ⟦daniel|Danijela|Daniela⟧, mé myšlenky velmi poděsily a změnil jsem barvu v tváři, ale tu věc jsem uchoval ve svém srdci.“
 
 ## Změny
 

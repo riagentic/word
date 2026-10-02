@@ -1,40 +1,40 @@
 # Numeri 25
 
-[1] Když Israel pobýval v Shittimu, lid začal smilnit s dcerami Moabu.
+[1] Když ⟦israel|Jisrael|Izrael⟧ pobýval v ⟦shittim|Šittimu|Šitímu⟧, lid začal smilnit s dcerami ⟦moab|Moavu|Moábu⟧.
 
 [2] Ty zvaly lid k obětním hodům svých bohů; lid jedl a klaněl se jejich bohům.
 
-[3] Tak se Israel připřáhl k Baalovi z Peoru a hněv Yahweh proti Israeli vzplanul.
+[3] Tak se ⟦israel|Jisrael|Izrael⟧ připřáhl k ⟦baal-peor|Baalovi z Peoru|Baal-peórovi⟧ a hněv ⟦yhwh|Jahveho|Hospodina⟧ proti ⟦israel|Jisraeli|Izraeli⟧ vzplanul.
 
-[4] Yahweh řekl Mosesovi: „Vezmi všechny předáky lidu a nabodni je před Yahweh na slunci, aby se od Israele odvrátil planoucí hněv Yahweh.“
+[4] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Vezmi všechny předáky lidu a nabodni je před ⟦yhwh|Jahvem|Hospodinem⟧ na slunci, aby se od ⟦israel|Jisraele|Izraele⟧ odvrátil planoucí hněv ⟦yhwh|Jahveho|Hospodina⟧.“
 
-[5] Moses řekl soudcům Israele: „Každý z vás zabijte své muže, kteří se připřáhli k Baalovi z Peoru.“
+[5] ⟦moses|Moše|Mojžíš⟧ řekl soudcům ⟦israel|Jisraele|Izraele⟧: „Každý z vás zabijte své muže, kteří se připřáhli k ⟦baal-peor|Baalovi z Peoru|Baal-peórovi⟧.“
 
-[6] A hle, jeden ze synů Israele přišel a přivedl ke svým bratrům midianskou ženu před očima Mosese a před očima celé pospolitosti synů Israele, zatímco plakali u vchodu do stanu setkávání.
+[6] A hle, jeden ze synů ⟦israel|Jisraele|Izraele⟧ přišel a přivedl ke svým bratrům ⟦midian|midjanskou|midjánskou⟧ ženu před očima ⟦moses|Moše|Mojžíše⟧ a před očima celé pospolitosti synů ⟦israel|Jisraele|Izraele⟧, zatímco plakali u vchodu do stanu setkávání.
 
-[7] Když to uviděl Phinehas, syn Eleazara, syna kněze Aarona, povstal ze středu pospolitosti a vzal do ruky kopí;
+[7] Když to uviděl Pinchas, syn ⟦eleazar|Elazara|Eleazara⟧, syna kněze ⟦aaron|Aharona|Árona⟧, povstal ze středu pospolitosti a vzal do ruky kopí;
 
-[8] šel za tím mužem z Israele do vnitřní komnaty a probodl oba – muže z Israele i ženu skrze její břicho. Tak byla rána od synů Israele zastavena.
+[8] šel za tím mužem z ⟦israel|Jisraele|Izraele⟧ do vnitřní komnaty a probodl oba – muže z ⟦israel|Jisraele|Izraele⟧ i ženu skrze její břicho. Tak byla rána od synů ⟦israel|Jisraele|Izraele⟧ zastavena.
 
 [9] Těch, kdo zemřeli ranou, bylo 24 000.
 
-[10] Yahweh promluvil k Mosesovi a řekl:
+[10] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a řekl:
 
-[11] „Phinehas, syn Eleazara, syna kněze Aarona, odvrátil můj hněv od synů Israele tím, že mezi nimi horlil mou horlivostí, takže jsem syny Israele ve své horlivosti nezahubil.
+[11] „Pinchas, syn ⟦eleazar|Elazara|Eleazara⟧, syna kněze ⟦aaron|Aharona|Árona⟧, odvrátil můj hněv od synů ⟦israel|Jisraele|Izraele⟧ tím, že mezi nimi horlil mou horlivostí, takže jsem syny ⟦israel|Jisraele|Izraele⟧ ve své horlivosti nezahubil.
 
 [12] Proto řekni: ‚Hle, dávám mu svou smlouvu pokoje.
 
-[13] Bude pro něj a pro jeho potomky po něm smlouvou trvalého kněžství, protože horlil pro svého *Elohim* a zjednal smír za syny Israele.‘“
+[13] Bude pro něj a pro jeho potomky po něm smlouvou trvalého kněžství, protože horlil pro svého ⟦elohim|Elohim|Boha⟧ a zjednal smír za syny ⟦israel|Jisraele|Izraele⟧.‘“
 
-[14] Jméno toho muže z Israele, který byl zabit s midianskou ženou, bylo Zimri, syn Salua, předák otcovského domu Simeonitů.
+[14] Jméno toho muže z ⟦israel|Jisraele|Izraele⟧, který byl zabit s ⟦midian|midjanskou|midjánskou⟧ ženou, bylo ⟦zimri|Zimri|Zimrí⟧, syn ⟦salu|Salua|Salúa⟧, předák otcovského domu ⟦simeonites|Šimoni|Šimeónovců⟧.
 
-[15] A jméno midianské ženy, která byla zabita, bylo Cozbi, dcera Zura; on byl hlavou lidu jednoho otcovského domu v Midianu.
+[15] A jméno ⟦midian|midjanské|midjánské⟧ ženy, která byla zabita, bylo ⟦cozbi|Kozbi|Kozbí⟧, dcera ⟦zur|Cura|Súra⟧; on byl hlavou lidu jednoho otcovského domu v ⟦midian|Midjanu|Midjánu⟧.
 
-[16] Yahweh promluvil k Mosesovi a řekl:
+[16] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a řekl:
 
-[17] „Buďte nepřáteli Midianitů a pobijte je,
+[17] „Buďte nepřáteli ⟦midianites|Midjanim|Midjánců⟧ a pobijte je,
 
-[18] neboť oni byli nepřáteli vám svými úklady, jimiž vás oklamali ve věci Peoru a ve věci Cozbi, dcery předáka Midianu, jejich sestry, která byla zabita v den rány kvůli Peoru.“
+[18] neboť oni byli nepřáteli vám svými úklady, jimiž vás oklamali ve věci ⟦peor|Peoru|Peóru⟧ a ve věci ⟦cozbi|Kozbi|Kozbí⟧, dcery předáka ⟦midian|Midjanu|Midjánu⟧, jejich sestry, která byla zabita v den rány kvůli ⟦peor|Peoru|Peóru⟧.“
 
 ## Změny
 

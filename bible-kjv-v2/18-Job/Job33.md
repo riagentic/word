@@ -1,6 +1,6 @@
 # Job 33
 
-[1] "But now, O Job, hear my speech;
+[1] "But now, O ⟦job|Iyov|Job⟧, hear my speech;
 give ear to all my words.
 
 [2] Behold, I open my mouth;
@@ -9,13 +9,13 @@ my tongue speaks in my palate.
 [3] My words come from my upright heart;
 my lips speak knowledge sincerely.
 
-[4] The spirit of *Elohim* has made me,
-the breath of Shaddai gives me life.
+[4] The spirit of ⟦el|El|God⟧ has made me,
+the breath of ⟦shaddai|Shaddai|the Almighty⟧ gives me life.
 
 [5] If you can, answer me;
 set your words in order before me; take your stand.
 
-[6] Behold, I am toward *Elohim* as you are;
+[6] Behold, I am toward ⟦el|El|God⟧ as you are;
 I too was pinched from clay.
 
 [7] Behold, no terror of me need frighten you;
@@ -34,12 +34,12 @@ he counts me as his enemy.
 he watches all my paths.'
 
 [12] Behold, in this you are not right; I answer you:
-Eloah is greater than man.
+⟦eloah|Eloah|God⟧ is greater than man.
 
 [13] Why do you contend with him,
 that he does not answer any of his words?
 
-[14] For *Elohim* speaks once,
+[14] For ⟦el|El|God⟧ speaks once,
 twice, yet man does not perceive it.
 
 [15] In a dream, a vision of the night,
@@ -78,7 +78,7 @@ I have found a ransom' —
 [25] his flesh becomes fresher than a child's;
 he returns to the days of his youthful vigor.
 
-[26] He prays to Eloah, and he accepts him;
+[26] He prays to ⟦eloah|Eloah|God⟧, and he accepts him;
 he sees his face with shouts of joy;
 he restores to man his righteousness.
 
@@ -89,13 +89,13 @@ but it was not repaid to me.
 [28] He has redeemed my soul from going into the pit,
 and my life shall see the light.'
 
-[29] Behold, all these things *Elohim* does —
+[29] Behold, all these things ⟦el|El|God⟧ does —
 twice, three times with a man —
 
 [30] to bring back his soul from the pit,
 that he may be enlightened with the light of the living.
 
-[31] Pay attention, O Job; listen to me;
+[31] Pay attention, O ⟦job|Iyov|Job⟧; listen to me;
 be silent, and I will speak.
 
 [32] If you have anything to say, answer me;
@@ -106,6 +106,7 @@ be silent, and I will teach you wisdom."
 
 ## Changes
 
+- **"God" → "El"** (v4, 6, 14, 29) — Hebrew אֵל *El*, not *Elohim*.
 - **"I am formed out of the clay" → "I too was pinched from clay"** (v6) — Hebrew *qoratzti*; pinched off as from a lump.
 
 ### Notes

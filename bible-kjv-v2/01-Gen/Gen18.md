@@ -1,18 +1,18 @@
 # Genesis 18
 
-[1] Yahweh appeared to him by the oaks of Mamre, as he was sitting at the entrance of his tent in the heat of the day.
+[1] ⟦yhwh|Yahweh|The LORD⟧ appeared to him by the oaks of Mamre, as he was sitting at the entrance of his tent in the heat of the day.
 
 [2] He lifted up his eyes and looked, and behold, three men were standing in front of him. When he saw them, he ran from the tent entrance to meet them, and bowed himself to the ground,
 
-[3] and said, "My lord, if I have found favor in your sight, please do not pass by your servant.
+[3] and said, "⟦adonai|Adonai|My lord⟧, if I have found favor in your sight, please do not pass by your servant.
 
 [4] Let a little water be brought, and wash your feet, and rest under the tree;
 
 [5] and let me bring a morsel of bread, that you may refresh yourselves; after that you may pass on, since you have come to your servant." And they said, "Do as you have said."
 
-[6] Then Abraham hurried into the tent to Sarah and said, "Quickly, three seahs of fine flour! Knead it, and make cakes."
+[6] Then ⟦abraham|Avraham|Abraham⟧ hurried into the tent to Sarah and said, "Quickly, three seahs of fine flour! Knead it, and make cakes."
 
-[7] And Abraham ran to the herd, took a calf, tender and good, and gave it to the servant, who hurried to prepare it.
+[7] And ⟦abraham|Avraham|Abraham⟧ ran to the herd, took a calf, tender and good, and gave it to the servant, who hurried to prepare it.
 
 [8] He took curds and milk and the calf that he had prepared, and set it before them; and he stood by them under the tree while they ate.
 
@@ -20,51 +20,51 @@
 
 [10] He said, "I will surely return to you about this time next year, and Sarah your wife shall have a son." And Sarah was listening at the tent entrance behind him.
 
-[11] Now Abraham and Sarah were old, advanced in age; it had ceased to be with Sarah after the manner of women.
+[11] Now ⟦abraham|Avraham|Abraham⟧ and Sarah were old, advanced in age; it had ceased to be with Sarah after the manner of women.
 
 [12] So Sarah laughed within herself, saying, "After I am worn out, and my lord is old, shall I have pleasure?"
 
-[13] Yahweh said to Abraham, "Why did Sarah laugh, saying, 'Shall I really bear a child, now that I am old?'
+[13] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦abraham|Avraham|Abraham⟧, "Why did Sarah laugh, saying, 'Shall I really bear a child, now that I am old?'
 
-[14] Is anything too wondrous for Yahweh? At the appointed time I will return to you, about this time next year, and Sarah shall have a son."
+[14] Is anything too wondrous for ⟦yhwh|Yahweh|the LORD⟧? At the appointed time I will return to you, about this time next year, and Sarah shall have a son."
 
 [15] But Sarah denied it, saying, "I did not laugh" — for she was afraid. He said, "No, but you did laugh."
 
-[16] Then the men rose up from there and looked down toward Sodom; and Abraham went with them to set them on their way.
+[16] Then the men rose up from there and looked down toward ⟦sodom|Sedom|Sodom⟧; and ⟦abraham|Avraham|Abraham⟧ went with them to set them on their way.
 
-[17] Yahweh said, "Shall I hide from Abraham what I am about to do,
+[17] ⟦yhwh|Yahweh|The LORD⟧ said, "Shall I hide from ⟦abraham|Avraham|Abraham⟧ what I am about to do,
 
-[18] seeing that Abraham shall surely become a great and mighty nation, and all the nations of the earth shall find blessing in him?
+[18] seeing that ⟦abraham|Avraham|Abraham⟧ shall surely become a great and mighty nation, and all the nations of the earth shall find blessing in him?
 
-[19] For I have chosen him, so that he may command his children and his household after him, to keep the way of Yahweh by doing righteousness and justice — so that Yahweh may bring upon Abraham what he has spoken concerning him."
+[19] For I have chosen him, so that he may command his children and his household after him, to keep the way of ⟦yhwh|Yahweh|the LORD⟧ by doing righteousness and justice — so that ⟦yhwh|Yahweh|the LORD⟧ may bring upon ⟦abraham|Avraham|Abraham⟧ what he has spoken concerning him."
 
-[20] Then Yahweh said, "The outcry against Sodom and Gomorrah is great, and their sin is very grave.
+[20] Then ⟦yhwh|Yahweh|the LORD⟧ said, "The outcry against ⟦sodom|Sedom|Sodom⟧ and ⟦gomorrah|Amorah|Gomorrah⟧ is great, and their sin is very grave.
 
 [21] Let me go down now and see whether they have done altogether according to the outcry that has come to me; and if not, I will know."
 
-[22] So the men turned from there and went toward Sodom, but Abraham remained standing before Yahweh.
+[22] So the men turned from there and went toward ⟦sodom|Sedom|Sodom⟧, but ⟦abraham|Avraham|Abraham⟧ remained standing before ⟦yhwh|Yahweh|the LORD⟧.
 
-[23] Then Abraham drew near and said, "Will you indeed sweep away the righteous with the wicked?
+[23] Then ⟦abraham|Avraham|Abraham⟧ drew near and said, "Will you indeed sweep away the righteous with the wicked?
 
 [24] Suppose there are fifty righteous within the city; will you then sweep it away and not spare the place for the sake of the fifty righteous who are in it?
 
 [25] Far be it from you to do such a thing, to kill the righteous with the wicked, so that the righteous fare as the wicked! Far be it from you! Shall not the Judge of all the earth do justice?"
 
-[26] Yahweh said, "If I find fifty righteous in the city of Sodom, I will spare the whole place for their sake."
+[26] ⟦yhwh|Yahweh|The LORD⟧ said, "If I find fifty righteous in the city of ⟦sodom|Sedom|Sodom⟧, I will spare the whole place for their sake."
 
-[27] Abraham answered and said, "Behold now, I have taken it upon myself to speak to the Lord, though I am but dust and ashes.
+[27] ⟦abraham|Avraham|Abraham⟧ answered and said, "Behold now, I have taken it upon myself to speak to ⟦adonai|Adonai|the Lord⟧, though I am but dust and ashes.
 
 [28] Suppose five of the fifty righteous are lacking; will you destroy the whole city for the lack of five?" And he said, "I will not destroy it if I find forty-five there."
 
 [29] And again he spoke to him and said, "Suppose forty are found there." He said, "For the sake of forty I will not do it."
 
-[30] Then he said, "Oh, let the Lord not be angry, and I will speak: suppose thirty are found there." He said, "I will not do it if I find thirty there."
+[30] Then he said, "Oh, let ⟦adonai|Adonai|the Lord⟧ not be angry, and I will speak: suppose thirty are found there." He said, "I will not do it if I find thirty there."
 
-[31] He said, "Behold now, I have taken it upon myself to speak to the Lord: suppose twenty are found there." He said, "For the sake of twenty I will not destroy it."
+[31] He said, "Behold now, I have taken it upon myself to speak to ⟦adonai|Adonai|the Lord⟧: suppose twenty are found there." He said, "For the sake of twenty I will not destroy it."
 
-[32] Then he said, "Oh, let the Lord not be angry, and I will speak only this once more: suppose ten are found there." He said, "For the sake of ten I will not destroy it."
+[32] Then he said, "Oh, let ⟦adonai|Adonai|the Lord⟧ not be angry, and I will speak only this once more: suppose ten are found there." He said, "For the sake of ten I will not destroy it."
 
-[33] And Yahweh went his way, as soon as he had finished speaking to Abraham; and Abraham returned to his place.
+[33] And ⟦yhwh|Yahweh|the LORD⟧ went his way, as soon as he had finished speaking to ⟦abraham|Avraham|Abraham⟧; and ⟦abraham|Avraham|Abraham⟧ returned to his place.
 
 ## Changes
 

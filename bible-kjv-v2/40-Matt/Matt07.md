@@ -22,7 +22,7 @@
 
 [11] If you then, who are evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!
 
-[12] "**So whatever you wish that others would do to you, do also to them, for this is the Law and the Prophets.**
+[12] "**So whatever you wish that others would do to you, do also to them, for this is the ⟦torah|Torah|Law⟧ and the Prophets.**
 
 [13] "Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many.
 
@@ -54,7 +54,7 @@
 
 [27] And the rain fell, and the floods came, and the winds blew and beat against that house, and it fell, and great was the fall of it."
 
-[28] And when *Yeshua* finished these sayings, the crowds were astonished at his teaching,
+[28] And when ⟦yeshua|Yeshua|Jesus⟧ finished these sayings, the crowds were astonished at his teaching,
 
 [29] for he was teaching them as one who had authority, and not as their scribes.
 

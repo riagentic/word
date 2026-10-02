@@ -1,6 +1,6 @@
 # Píseň písní 1
 
-[1] Píseň písní, která je Solomonova.
+[1] Píseň písní, která je ⟦solomon|Šlomova|Šalomounova⟧.
 
 [2] Ať mě políbí polibky svých úst!
 Neboť tvá láska je lepší než víno;
@@ -17,9 +17,9 @@ budeme velebit tvou lásku víc než víno;
 právem tě milují.
 
 [5] Jsem velmi tmavá, ale půvabná,
-dcery Jerusalema,
-jako stany Kedaru,
-jako závěsy Solomona.
+dcery ⟦jerusalem|Jerušalajim|Jeruzaléma⟧,
+jako stany ⟦kedar|Kedaru|Kédaru⟧,
+jako závěsy ⟦solomon|Šloma|Šalomouna⟧.
 
 [6] Nehleďte na mě, že jsem tmavá,
 že mě spálilo slunce.
@@ -39,7 +39,7 @@ a pas svá kůzlata
 u stanů pastýřů.
 
 [9] Přirovnávám tě, má milá,
-ke klisně mezi vozy Pharaoha.
+ke klisně mezi vozy ⟦pharaoh|Paroha|faraóna⟧.
 
 [10] Tvé líce jsou půvabné s ozdobami,
 tvá šíje se šňůrami drahokamů.
@@ -54,7 +54,7 @@ můj nard vydával svou vůni.
 který spočívá mezi mými prsy.
 
 [14] Můj milý je mi hroznem květů henny
-ve vinicích En-gedi.
+ve vinicích ⟦en-gedi|Ejn Gedi|Én-gedí⟧.
 
 [15] Hle, jsi krásná, má milá;
 hle, jsi krásná;

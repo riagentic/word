@@ -1,34 +1,34 @@
 # Deuteronomium 27
 
-[1] Moses spolu se staršími Israele přikázal lidu: „Zachovávejte celé přikázání, které vám dnes přikazuji.
+[1] ⟦moses|Moše|Mojžíš⟧ spolu se staršími ⟦israel|Jisraele|Izraele⟧ přikázal lidu: „Zachovávejte celé přikázání, které vám dnes přikazuji.
 
-[2] V den, kdy přejdete Jordan do země, kterou ti Yahweh, tvůj *Elohim*, dává, postavíš si veliké kameny a obílíš je vápnem.
+[2] V den, kdy přejdete ⟦jordan|Jarden|Jordán⟧ do země, kterou ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, dává, postavíš si veliké kameny a obílíš je vápnem.
 
-[3] Až přejdeš, napíšeš na ně všechna slova této *Torah*, abys vešel do země, kterou ti Yahweh, tvůj *Elohim*, dává – do země oplývající mlékem a medem – jak ti slíbil Yahweh, *Elohim* tvých otců.
+[3] Až přejdeš, napíšeš na ně všechna slova ⟦torah|této Tóry|tohoto zákona⟧, abys vešel do země, kterou ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, dává – do země oplývající mlékem a medem – jak ti slíbil ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ tvých otců.
 
-[4] Až tedy přejdete Jordan, postavíte tyto kameny, o nichž vám dnes přikazuji, na hoře Ebal; a obílíš je vápnem.
+[4] Až tedy přejdete ⟦jordan|Jarden|Jordán⟧, postavíte tyto kameny, o nichž vám dnes přikazuji, na hoře ⟦ebal|Ejval|Ébal⟧; a obílíš je vápnem.
 
-[5] Tam postavíš oltář Yahweh, svému *Elohim* – oltář z kamenů; nebudeš na ně vztahovat žádný železný nástroj.
+[5] Tam postavíš oltář ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧ – oltář z kamenů; nebudeš na ně vztahovat žádný železný nástroj.
 
-[6] Oltář Yahweh, svého *Elohim*, postavíš z neotesaných kamenů. Budeš na něm obětovat zápalné oběti Yahweh, svému *Elohim*,
+[6] Oltář ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, postavíš z neotesaných kamenů. Budeš na něm obětovat zápalné oběti ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧,
 
-[7] budeš obětovat pokojné oběti a jíst tam a radovat se před Yahweh, svým *Elohim*.
+[7] budeš obětovat pokojné oběti a jíst tam a radovat se před ⟦yhwh|Jahvem|Hospodinem⟧, svým ⟦elohim|Elohim|Bohem⟧.
 
-[8] Na kameny napíšeš všechna slova této *Torah* velmi zřetelně.“
+[8] Na kameny napíšeš všechna slova ⟦torah|této Tóry|tohoto zákona⟧ velmi zřetelně.“
 
-[9] Potom Moses a levitští kněží promluvili k celému Israeli: „Buď zticha a poslouchej, Israeli! Právě dnes ses stal lidem Yahweh, svého *Elohim*.
+[9] Potom ⟦moses|Moše|Mojžíš⟧ a ⟦levites|levijští|lévijští⟧ kněží promluvili k celému ⟦israel|Jisraeli|Izraeli⟧: „Buď zticha a poslouchej, ⟦israel|Jisraeli|Izraeli⟧! Právě dnes ses stal lidem ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧.
 
-[10] Budeš tedy poslouchat hlas Yahweh, svého *Elohim*, a plnit jeho přikázání a jeho ustanovení, která ti dnes přikazuji.“
+[10] Budeš tedy poslouchat hlas ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, a plnit jeho přikázání a jeho ustanovení, která ti dnes přikazuji.“
 
-[11] Téhož dne Moses přikázal lidu:
+[11] Téhož dne ⟦moses|Moše|Mojžíš⟧ přikázal lidu:
 
-[12] „Tito budou stát na hoře Gerizim, aby žehnali lidu, až přejdete Jordan: Simeon, Levi, Judah, Issachar, Joseph a Benjamin.
+[12] „Tito budou stát na hoře ⟦gerizim|Gerizim|Gerizím⟧, aby žehnali lidu, až přejdete ⟦jordan|Jarden|Jordán⟧: ⟦simeon|Šimon|Šimeón⟧, ⟦levi|Levi|Lévi⟧, ⟦judah|Jehuda|Juda⟧, ⟦issachar|Jissachar|Isachar⟧, Josef a ⟦benjamin|Binjamin|Benjamín⟧.
 
-[13] A tito budou stát na hoře Ebal ke kletbě: Reuben, Gad, Asher, Zebulun, Dan a Naphtali.
+[13] A tito budou stát na hoře ⟦ebal|Ejval|Ébal⟧ ke kletbě: ⟦reuben|Reuven|Rúben⟧, ⟦gad|Gad|Gád⟧, Ašer, ⟦zebulun|Zevulun|Zabulón⟧, Dan a ⟦naphtali|Naftali|Neftalí⟧.
 
-[14] Levité se ujmou slova a řeknou hlasitě všem mužům Israele:
+[14] ⟦levites|Levijim|Lévijci⟧ se ujmou slova a řeknou hlasitě všem mužům ⟦israel|Jisraele|Izraele⟧:
 
-[15] ‚Proklet buď muž, který udělá tesaný nebo litý obraz, ohavnost pro Yahweh, dílo rukou řemeslníka, a postaví ho v skrytu.‘ A všechen lid odpoví: ‚Amen.‘
+[15] ‚Proklet buď muž, který udělá tesaný nebo litý obraz, ohavnost pro ⟦yhwh|Jahveho|Hospodina⟧, dílo rukou řemeslníka, a postaví ho v skrytu.‘ A všechen lid odpoví: ‚Amen.‘
 
 [16] ‚Proklet buď, kdo zneuctí svého otce nebo svou matku.‘ A všechen lid řekne: ‚Amen.‘
 
@@ -50,7 +50,7 @@
 
 [25] ‚Proklet buď, kdo přijme úplatek, aby ubil nevinného člověka.‘ A všechen lid řekne: ‚Amen.‘
 
-[26] ‚Proklet buď každý, kdo nepotvrdí slova této *Torah* tím, že je bude plnit.‘ A všechen lid řekne: ‚Amen.‘
+[26] ‚Proklet buď každý, kdo nepotvrdí slova ⟦torah|této Tóry|tohoto zákona⟧ tím, že je bude plnit.‘ A všechen lid řekne: ‚Amen.‘
 
 ## Změny
 

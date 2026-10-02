@@ -1,6 +1,6 @@
 # Ámos 3
 
-[1] Slyšte toto slovo, které Yahweh promluvil proti vám, synové Israele, proti celé čeledi, kterou jsem vyvedl ze země Egypt:
+[1] Slyšte toto slovo, které ⟦yhwh|Jahve|Hospodin⟧ promluvil proti vám, synové ⟦israel|Jisraele|Izraele⟧, proti celé čeledi, kterou jsem vyvedl ze země ⟦egypt|Micrajim|Egypt⟧:
 
 [2] „Jen vás jsem znal
 ze všech čeledí země;
@@ -20,48 +20,48 @@ když na něj není nastražena past?
 Vymrští se snad osidlo ze země,
 když nic nechytilo?
 
-[6] Zatroubí se ve městě na trubku,
+[6] Zatroubí se ve městě na ⟦shofar|šofar|polnici⟧,
 a lid se neleká?
 Přijde na město pohroma,
-aniž by ji způsobil Yahweh?
+aniž by ji způsobil ⟦yhwh|Jahve|Hospodin⟧?
 
-[7] Neboť Pán Yahweh nic nečiní,
+[7] Neboť ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ nic nečiní,
 aniž by zjevil své tajemství
 svým služebníkům prorokům.
 
 [8] Lev zařval –
 kdo by se nebál?
-Pán Yahweh promluvil –
+⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ promluvil –
 kdo by neprorokoval?“
 
-[9] Vyhlaste pevnostem v Ashdodu a pevnostem v zemi Egypt a řekněte: „Shromážděte se na horách Samarie a pohleďte na veliké zmatky v ní a na utlačované v jejím středu.“
+[9] Vyhlaste pevnostem v ⟦ashdod|Ašdodu|Ašdódu⟧ a pevnostem v zemi ⟦egypt|Micrajim|Egypt⟧ a řekněte: „Shromážděte se na horách ⟦samaria|Šomronu|Samaří⟧ a pohleďte na veliké zmatky v ní a na utlačované v jejím středu.“
 
-[10] „Nevědí, jak jednat správně,“ je výrok Yahweh, „ti, kdo ve svých pevnostech hromadí násilí a loupež.“
+[10] „Nevědí, jak jednat správně,“ je výrok ⟦yhwh|Jahveho|Hospodina⟧, „ti, kdo ve svých pevnostech hromadí násilí a loupež.“
 
-[11] Proto toto praví Pán Yahweh:
+[11] Proto toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧:
 
 „Protivník obklíčí zemi
 a strhne od tebe tvou obranu
 a tvé pevnosti budou vypleněny.“
 
-[12] Toto praví Yahweh:
+[12] Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
 „Jako pastýř vyrve ze lví tlamy
 dvě nohy nebo kousek ucha,
-tak budou vyrváni synové Israele, kteří bydlí v Samarii,
+tak budou vyrváni synové ⟦israel|Jisraele|Izraele⟧, kteří bydlí v ⟦samaria|Šomronu|Samaří⟧,
 s rohem lehátka a kusem lůžka.
 
-[13] Slyšte a svědčte proti domu Jacoba,“ je výrok Pána Yahweh, *Elohim* zástupů,
+[13] Slyšte a svědčte proti domu ⟦jacob|Jaakova|Jákoba⟧,“ je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧, ⟦elohim|Elohim|Boha⟧ zástupů,
 
-[14] „že v den, kdy potrestám Israele za jeho přestoupení,
-potrestám i oltáře v Bethelu;
+[14] „že v den, kdy potrestám ⟦israel|Jisraele|Izraele⟧ za jeho přestoupení,
+potrestám i oltáře v ⟦bethel|Bejt Elu|Bét-elu⟧;
 rohy oltáře budou uraženy
 a padnou na zem.
 
 [15] Udeřím na zimní dům spolu s letním domem
 a domy ze slonoviny zaniknou
 a veliké domy přijdou ke konci,“
-je výrok Yahweh.
+je výrok ⟦yhwh|Jahveho|Hospodina⟧.
 
 ## Změny
 

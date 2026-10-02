@@ -1,12 +1,12 @@
 # Genesis 19
 
-[1] Ti dva poslové přišli do Sodomu večer a Lot seděl v bráně Sodomu. Když je Lot uviděl, vstal, aby jim vyšel naproti, a poklonil se tváří k zemi
+[1] Ti dva poslové přišli do ⟦sodom|Sedomu|Sodomy⟧ večer a Lot seděl v bráně ⟦sodom|Sedomu|Sodomy⟧. Když je Lot uviděl, vstal, aby jim vyšel naproti, a poklonil se tváří k zemi
 
 [2] a řekl: „Hle, moji páni, zastavte se, prosím, v domě svého služebníka a přenocujte a umyjte si nohy; pak můžete časně ráno vstát a jít svou cestou.“ Oni však řekli: „Ne, přenocujeme na otevřeném náměstí.“
 
 [3] On na ně však velmi naléhal, a tak se k němu uchýlili a vešli do jeho domu. Připravil jim hostinu, napekl nekvašené chleby a jedli.
 
-[4] Než si lehli, muži města, muži Sodomu, obklíčili dům – od mladých po staré, všechen lid do posledního muže.
+[4] Než si lehli, muži města, muži ⟦sodom|Sedomu|Sodomy⟧, obklíčili dům – od mladých po staré, všechen lid do posledního muže.
 
 [5] Volali na Lota a říkali mu: „Kde jsou ti muži, kteří k tobě dnes večer přišli? Vyveď je k nám, ať je poznáme.“
 
@@ -24,17 +24,17 @@
 
 [12] Potom ti muži řekli Lotovi: „Máš tu ještě někoho? Zetě, své syny, své dcery a kohokoli dalšího, koho máš ve městě – vyveď je z tohoto místa.
 
-[13] Neboť se chystáme zničit toto místo, protože křik proti nim se stal velikým před tváří Yahweh, a Yahweh nás poslal, abychom je zničili.“
+[13] Neboť se chystáme zničit toto místo, protože křik proti nim se stal velikým před tváří ⟦yhwh|Jahveho|Hospodina⟧, a ⟦yhwh|Jahve|Hospodin⟧ nás poslal, abychom je zničili.“
 
-[14] Lot vyšel a promluvil ke svým zeťům, kteří si měli vzít jeho dcery, a řekl: „Vstaňte, odejděte z tohoto místa, neboť Yahweh se chystá zničit město.“ Ale svým zeťům připadal jako ten, kdo žertuje.
+[14] Lot vyšel a promluvil ke svým zeťům, kteří si měli vzít jeho dcery, a řekl: „Vstaňte, odejděte z tohoto místa, neboť ⟦yhwh|Jahve|Hospodin⟧ se chystá zničit město.“ Ale svým zeťům připadal jako ten, kdo žertuje.
 
 [15] Když svítalo, poslové naléhali na Lota a říkali: „Vstaň, vezmi svou ženu a své dvě dcery, které jsou zde, abys nebyl smeten v nepravosti města.“
 
-[16] On však otálel, a tak ti muži uchopili jeho ruku, ruku jeho ženy a ruce jeho dvou dcer, neboť Yahweh k němu byl milosrdný; vyvedli ho a postavili ho za město.
+[16] On však otálel, a tak ti muži uchopili jeho ruku, ruku jeho ženy a ruce jeho dvou dcer, neboť ⟦yhwh|Jahve|Hospodin⟧ k němu byl milosrdný; vyvedli ho a postavili ho za město.
 
 [17] Když je vyvedli ven, řekl: „Uteč, jde ti o život! Neohlížej se za sebe a nikde na rovině se nezastavuj. Uteč do hor, abys nebyl smeten.“
 
-[18] Lot jim řekl: „Ach ne, můj pane!
+[18] Lot jim řekl: „Ach ne, ⟦adonai|Adonaji|můj pane⟧!
 
 [19] Hle, tvůj služebník nalezl přízeň v tvých očích a ty jsi zvelebil svou věrnou lásku, kterou jsi mi prokázal, když jsi zachránil můj život; ale já nemohu utéct do hor, aby mě nezastihlo neštěstí a já nezemřel.
 
@@ -42,23 +42,23 @@
 
 [21] Řekl mu: „Hle, vyhovím ti i v této věci: nevyvrátím město, o kterém jsi mluvil.
 
-[22] Pospěš, uteč tam, neboť nemohu nic učinit, dokud tam nedojdeš.“ Proto bylo to město nazváno Zoar.
+[22] Pospěš, uteč tam, neboť nemohu nic učinit, dokud tam nedojdeš.“ Proto bylo to město nazváno ⟦zoar|Coar|Sóar⟧.
 
-[23] Slunce vyšlo nad zemí, když Lot vešel do Zoaru.
+[23] Slunce vyšlo nad zemí, když Lot vešel do ⟦zoar|Coaru|Sóaru⟧.
 
-[24] Tu Yahweh seslal na Sodom a Gomorrah déšť síry a ohně od Yahweh z nebes;
+[24] Tu ⟦yhwh|Jahve|Hospodin⟧ seslal na ⟦sodom|Sedom|Sodomu⟧ a ⟦gomorrah|Amoru|Gomoru⟧ déšť síry a ohně od ⟦yhwh|Jahveho|Hospodina⟧ z nebes;
 
 [25] a vyvrátil ta města i celou rovinu, všechny obyvatele měst i to, co rostlo na zemi.
 
 [26] Ale Lotova žena, která šla za ním, se ohlédla a stala se solným sloupem.
 
-[27] Abraham vstal časně ráno a šel na místo, kde stál před Yahweh.
+[27] ⟦abraham|Avraham|Abraham⟧ vstal časně ráno a šel na místo, kde stál před ⟦yhwh|Jahvem|Hospodinem⟧.
 
-[28] Shlédl směrem k Sodomu a Gomorrah, ke vší zemi roviny, a uviděl, jak dým ze země stoupá jako dým z pece.
+[28] Shlédl směrem k ⟦sodom|Sedomu|Sodomě⟧ a ⟦gomorrah|Amoře|Gomoře⟧, ke vší zemi roviny, a uviděl, jak dým ze země stoupá jako dým z pece.
 
-[29] Tak když *Elohim* ničil města roviny, *Elohim* se rozpomenul na Abrahama a vyslal Lota ze středu té zkázy, když vyvracel města, v nichž Lot bydlel.
+[29] Tak když ⟦elohim|Elohim|Bůh⟧ ničil města roviny, ⟦elohim|Elohim|Bůh⟧ se rozpomenul na ⟦abraham|Avrahama|Abrahama⟧ a vyslal Lota ze středu té zkázy, když vyvracel města, v nichž Lot bydlel.
 
-[30] Lot vystoupil ze Zoaru a usadil se v horách se svými dvěma dcerami, neboť se bál zůstat v Zoaru. Bydlel v jeskyni, on a jeho dvě dcery.
+[30] Lot vystoupil ze ⟦zoar|Coaru|Sóaru⟧ a usadil se v horách se svými dvěma dcerami, neboť se bál zůstat v ⟦zoar|Coaru|Sóaru⟧. Bydlel v jeskyni, on a jeho dvě dcery.
 
 [31] Prvorozená řekla mladší: „Náš otec je starý a v zemi není muž, který by k nám vešel podle zvyku celé země.
 
@@ -72,9 +72,9 @@
 
 [36] Tak obě Lotovy dcery otěhotněly se svým otcem.
 
-[37] Prvorozená porodila syna a dala mu jméno Moab; on je praotcem Moabitů až do dnešního dne.
+[37] Prvorozená porodila syna a dala mu jméno ⟦moab|Moav|Moáb⟧; on je praotcem ⟦moabites|Moavim|Moábců⟧ až do dnešního dne.
 
-[38] Také mladší porodila syna a dala mu jméno Ben-ammi; on je praotcem Ammonitů až do dnešního dne.
+[38] Také mladší porodila syna a dala mu jméno ⟦ben-ammi|Ben-Ami|Ben-amí⟧; on je praotcem ⟦ammonites|Ammonim|Amónovců⟧ až do dnešního dne.
 
 ## Změny
 

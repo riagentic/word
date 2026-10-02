@@ -1,30 +1,30 @@
 # Genesis 32
 
-[1] Jacob šel svou cestou a potkali ho poslové *Elohim*.
+[1] ⟦jacob|Jaakov|Jákob⟧ šel svou cestou a potkali ho poslové ⟦elohim|Elohim|Boží⟧.
 
-[2] Když je Jacob uviděl, řekl: „To je tábor *Elohim*!“ A nazval to místo Mahanaim („dva tábory“).
+[2] Když je ⟦jacob|Jaakov|Jákob⟧ uviděl, řekl: „To je tábor ⟦elohim|Elohim|Boží⟧!“ A nazval to místo Machanajim („dva tábory“).
 
-[3] Jacob poslal před sebou posly ke svému bratru Esauovi do země Seir, do kraje Edom.
+[3] ⟦jacob|Jaakov|Jákob⟧ poslal před sebou posly ke svému bratru ⟦esau|Esavovi|Ezauovi⟧ do země ⟦seir|Seir|Seír⟧, do kraje ⟦edom|Edom|Edóm⟧.
 
-[4] Přikázal jim: „Takto řeknete mému pánu, Esauovi: ‚Takto praví tvůj služebník Jacob: Pobýval jsem jako cizinec u Labana a zdržel jsem se až dosud.
+[4] Přikázal jim: „Takto řeknete mému pánu, ⟦esau|Esavovi|Ezauovi⟧: ‚Takto praví tvůj služebník ⟦jacob|Jaakov|Jákob⟧: Pobýval jsem jako cizinec u ⟦laban|Lavana|Lábana⟧ a zdržel jsem se až dosud.
 
 [5] Mám skot, osly, ovce a otroky i otrokyně. A posílám to oznámit svému pánu, abych nalezl přízeň v tvých očích.‘“
 
-[6] Poslové se vrátili k Jacobovi a řekli: „Přišli jsme k tvému bratru Esauovi; i on ti jde naproti a je s ním 400 mužů.“
+[6] Poslové se vrátili k ⟦jacob|Jaakovovi|Jákobovi⟧ a řekli: „Přišli jsme k tvému bratru ⟦esau|Esavovi|Ezauovi⟧; i on ti jde naproti a je s ním 400 mužů.“
 
-[7] Tu se Jacob velmi bál a byl úzkostí sevřen; rozdělil lid, který byl s ním, i ovce, skot a velbloudy do dvou táborů
+[7] Tu se ⟦jacob|Jaakov|Jákob⟧ velmi bál a byl úzkostí sevřen; rozdělil lid, který byl s ním, i ovce, skot a velbloudy do dvou táborů
 
-[8] a pomyslel si: „Přijde-li Esau k jednomu táboru a pobije ho, pak tábor, který zbude, unikne.“
+[8] a pomyslel si: „Přijde-li ⟦esau|Esav|Ezau⟧ k jednomu táboru a pobije ho, pak tábor, který zbude, unikne.“
 
-[9] A Jacob řekl: „*Elohim* mého otce Abrahama a *Elohim* mého otce Isaaca, Yahweh, který jsi mi řekl: ‚Vrať se do své země a ke svému příbuzenstvu a já ti budu prokazovat dobro‘:
+[9] A ⟦jacob|Jaakov|Jákob⟧ řekl: „⟦elohim|Elohim|Bože⟧ mého otce ⟦abraham|Avrahama|Abrahama⟧ a ⟦elohim|Elohim|Bože⟧ mého otce ⟦isaac|Jicchaka|Izáka⟧, ⟦yhwh|Jahve|Hospodine⟧, který jsi mi řekl: ‚Vrať se do své země a ke svému příbuzenstvu a já ti budu prokazovat dobro‘:
 
-[10] Nejsem hoden ani té nejmenší ze všech projevů věrné lásky a ze vší věrnosti, kterou jsi prokázal svému služebníkovi; neboť jen se svou holí jsem přešel tento Jordan, a nyní jsem se stal dvěma tábory.
+[10] Nejsem hoden ani té nejmenší ze všech projevů věrné lásky a ze vší věrnosti, kterou jsi prokázal svému služebníkovi; neboť jen se svou holí jsem přešel tento ⟦jordan|Jarden|Jordán⟧, a nyní jsem se stal dvěma tábory.
 
-[11] Vysvoboď mě, prosím, z ruky mého bratra, z ruky Esauovy; neboť se ho bojím, aby nepřišel a nepobil mě – matky s dětmi.
+[11] Vysvoboď mě, prosím, z ruky mého bratra, z ruky ⟦esau|Esavovy|Ezauovy⟧; neboť se ho bojím, aby nepřišel a nepobil mě – matky s dětmi.
 
 [12] Ty sám jsi řekl: ‚Jistě ti budu prokazovat dobro a učiním tvé potomstvo jako písek moře, který nelze pro množství spočítat.‘“
 
-[13] Tu noc tam přenocoval. Vzal z toho, co měl s sebou, dar pro svého bratra Esaua:
+[13] Tu noc tam přenocoval. Vzal z toho, co měl s sebou, dar pro svého bratra ⟦esau|Esava|Ezaua⟧:
 
 [14] dvě stě koz a dvacet kozlů, dvě stě ovcí a dvacet beranů,
 
@@ -32,37 +32,37 @@
 
 [16] Předal je svým služebníkům, každé stádo zvlášť, a řekl svým služebníkům: „Jděte přede mnou a nechte odstup mezi stádem a stádem.“
 
-[17] Prvnímu přikázal: „Až tě potká můj bratr Esau a zeptá se tě: ‚Komu patříš? Kam jdeš? A čí jsou tato zvířata před tebou?‘
+[17] Prvnímu přikázal: „Až tě potká můj bratr ⟦esau|Esav|Ezau⟧ a zeptá se tě: ‚Komu patříš? Kam jdeš? A čí jsou tato zvířata před tebou?‘
 
-[18] tehdy řekneš: ‚Patří tvému služebníku Jacobovi; je to dar poslaný mému pánu Esauovi. A hle, on jde hned za námi.‘“
+[18] tehdy řekneš: ‚Patří tvému služebníku ⟦jacob|Jaakovovi|Jákobovi⟧; je to dar poslaný mému pánu ⟦esau|Esavovi|Ezauovi⟧. A hle, on jde hned za námi.‘“
 
-[19] Přikázal i druhému a třetímu a všem, kdo šli za stády: „Tímto způsobem promluvíte k Esauovi, až ho najdete;
+[19] Přikázal i druhému a třetímu a všem, kdo šli za stády: „Tímto způsobem promluvíte k ⟦esau|Esavovi|Ezauovi⟧, až ho najdete;
 
-[20] a řeknete: ‚Hle, tvůj služebník Jacob jde hned za námi.‘“ Řekl si totiž: „Usmířím jeho tvář darem, který jde přede mnou, a potom uvidím jeho tvář; snad pozvedne mou tvář.“
+[20] a řeknete: ‚Hle, tvůj služebník ⟦jacob|Jaakov|Jákob⟧ jde hned za námi.‘“ Řekl si totiž: „Usmířím jeho tvář darem, který jde přede mnou, a potom uvidím jeho tvář; snad pozvedne mou tvář.“
 
 [21] Dar tedy šel před ním, a on sám tu noc přenocoval v táboře.
 
-[22] Tu noc vstal, vzal své dvě ženy, své dvě otrokyně a svých jedenáct dětí a přešel brod Jabboku.
+[22] Tu noc vstal, vzal své dvě ženy, své dvě otrokyně a svých jedenáct dětí a přešel brod ⟦jabbok|Jabboku|Jaboku⟧.
 
 [23] Vzal je a převedl je přes vádí a převedl i všechno, co měl.
 
-[24] A Jacob zůstal sám; a jakýsi muž s ním zápasil až do svítání.
+[24] A ⟦jacob|Jaakov|Jákob⟧ zůstal sám; a jakýsi muž s ním zápasil až do svítání.
 
-[25] Když ten muž viděl, že ho nemůže přemoci, udeřil Jacoba do kyčelní jamky, a Jacobova kyčel se vykloubila, jak s ním zápasil.
+[25] Když ten muž viděl, že ho nemůže přemoci, udeřil ⟦jacob|Jaakova|Jákoba⟧ do kyčelní jamky, a ⟦jacob|Jaakovova|Jákobova⟧ kyčel se vykloubila, jak s ním zápasil.
 
 [26] Potom řekl: „Pusť mě, neboť svítá.“ On však řekl: „Nepustím tě, dokud mi nepožehnáš.“
 
-[27] Řekl mu tedy: „Jak se jmenuješ?“ A on řekl: „Jacob.“
+[27] Řekl mu tedy: „Jak se jmenuješ?“ A on řekl: „⟦jacob|Jaakov|Jákob⟧.“
 
-[28] Řekl: „Tvé jméno už nebude Jacob, nýbrž Israel, neboť jsi zápasil s *Elohim* i s lidmi a zvítězil jsi.“
+[28] Řekl: „Tvé jméno už nebude ⟦jacob|Jaakov|Jákob⟧, nýbrž ⟦israel|Jisrael|Izrael⟧, neboť jsi zápasil s ⟦elohim|Elohim|Bohem⟧ i s lidmi a zvítězil jsi.“
 
-[29] Potom se Jacob zeptal a řekl: „Pověz mi, prosím, své jméno.“ On však řekl: „Proč se ptáš na mé jméno?“ A tam mu požehnal.
+[29] Potom se ⟦jacob|Jaakov|Jákob⟧ zeptal a řekl: „Pověz mi, prosím, své jméno.“ On však řekl: „Proč se ptáš na mé jméno?“ A tam mu požehnal.
 
-[30] Jacob tedy nazval to místo Peniel, „neboť jsem viděl *Elohim* tváří v tvář, a můj život byl zachráněn“.
+[30] ⟦jacob|Jaakov|Jákob⟧ tedy nazval to místo ⟦peniel|Peniel|Peníel⟧, „neboť jsem viděl ⟦elohim|Elohim|Boha⟧ tváří v tvář, a můj život byl zachráněn“.
 
-[31] Slunce mu vyšlo, když míjel Penuel, a kulhal kvůli své kyčli.
+[31] Slunce mu vyšlo, když míjel ⟦penuel|Penuel|Penúel⟧, a kulhal kvůli své kyčli.
 
-[32] Proto až do dnešního dne synové Israele nejedí šlachu kyčelní jamky, která je na kyčli, protože udeřil Jacoba do kyčelní jamky, na šlachu kyčle.
+[32] Proto až do dnešního dne synové ⟦israel|Jisraele|Izraele⟧ nejedí šlachu kyčelní jamky, která je na kyčli, protože udeřil ⟦jacob|Jaakova|Jákoba⟧ do kyčelní jamky, na šlachu kyčle.
 
 ## Změny
 

@@ -1,12 +1,12 @@
 # Genesis 19
 
-[1] The two messengers came to Sodom in the evening, and Lot was sitting in the gate of Sodom. When Lot saw them, he rose to meet them, and bowed himself with his face to the ground
+[1] The two messengers came to ⟦sodom|Sedom|Sodom⟧ in the evening, and Lot was sitting in the gate of ⟦sodom|Sedom|Sodom⟧. When Lot saw them, he rose to meet them, and bowed himself with his face to the ground
 
 [2] and said, "Behold now, my lords, turn aside, please, into your servant's house and spend the night, and wash your feet; then you may rise up early and go on your way." But they said, "No, we will spend the night in the open square."
 
 [3] But he pressed them strongly, so they turned aside to him and entered his house. He made them a feast, baked unleavened bread, and they ate.
 
-[4] Before they lay down, the men of the city, the men of Sodom, surrounded the house — from the young to the old, all the people to the last man.
+[4] Before they lay down, the men of the city, the men of ⟦sodom|Sedom|Sodom⟧, surrounded the house — from the young to the old, all the people to the last man.
 
 [5] And they called to Lot and said to him, "Where are the men who came to you tonight? Bring them out to us, that we may know them."
 
@@ -24,17 +24,17 @@
 
 [12] Then the men said to Lot, "Have you anyone else here? A son-in-law, your sons, your daughters, and anyone else you have in the city — bring them out of the place.
 
-[13] For we are about to destroy this place, because the outcry against them has become great before the face of Yahweh, and Yahweh has sent us to destroy it."
+[13] For we are about to destroy this place, because the outcry against them has become great before the face of ⟦yhwh|Yahweh|the LORD⟧, and ⟦yhwh|Yahweh|the LORD⟧ has sent us to destroy it."
 
-[14] Lot went out and spoke to his sons-in-law, who were to marry his daughters, and said, "Up, leave this place, for Yahweh is about to destroy the city." But he seemed like one joking to his sons-in-law.
+[14] Lot went out and spoke to his sons-in-law, who were to marry his daughters, and said, "Up, leave this place, for ⟦yhwh|Yahweh|the LORD⟧ is about to destroy the city." But he seemed like one joking to his sons-in-law.
 
 [15] As dawn broke, the messengers urged Lot, saying, "Up, take your wife and your two daughters who are here, lest you be swept away in the iniquity of the city."
 
-[16] But he lingered, so the men grasped his hand and the hand of his wife and the hands of his two daughters, Yahweh being merciful to him; and they brought him out and set him outside the city.
+[16] But he lingered, so the men grasped his hand and the hand of his wife and the hands of his two daughters, ⟦yhwh|Yahweh|the LORD⟧ being merciful to him; and they brought him out and set him outside the city.
 
 [17] When they had brought them outside, he said, "Flee for your life! Do not look behind you, and do not stop anywhere in the plain. Flee to the hill country, lest you be swept away."
 
-[18] Lot said to them, "Oh no, my lord!
+[18] Lot said to them, "Oh no, ⟦adonai|Adonai|my lord⟧!
 
 [19] Behold now, your servant has found favor in your sight, and you have magnified your lovingkindness that you have shown me in saving my life; but I cannot flee to the hill country, lest disaster overtake me and I die.
 
@@ -42,23 +42,23 @@
 
 [21] He said to him, "Behold, I grant you this favor also: I will not overthrow the city that you have named.
 
-[22] Hurry, flee there, for I cannot do anything until you arrive there." Therefore the name of the city was called Zoar.
+[22] Hurry, flee there, for I cannot do anything until you arrive there." Therefore the name of the city was called ⟦zoar|Tzoar|Zoar⟧.
 
-[23] The sun had risen on the earth when Lot entered Zoar.
+[23] The sun had risen on the earth when Lot entered ⟦zoar|Tzoar|Zoar⟧.
 
-[24] Then Yahweh rained on Sodom and Gomorrah sulfur and fire from Yahweh out of the heavens;
+[24] Then ⟦yhwh|Yahweh|the LORD⟧ rained on ⟦sodom|Sedom|Sodom⟧ and ⟦gomorrah|Amorah|Gomorrah⟧ sulfur and fire from ⟦yhwh|Yahweh|the LORD⟧ out of the heavens;
 
 [25] and he overthrew those cities, and all the plain, and all the inhabitants of the cities, and what grew on the ground.
 
 [26] But Lot's wife, behind him, looked back, and she became a pillar of salt.
 
-[27] Abraham rose early in the morning and went to the place where he had stood before Yahweh.
+[27] ⟦abraham|Avraham|Abraham⟧ rose early in the morning and went to the place where he had stood before ⟦yhwh|Yahweh|the LORD⟧.
 
-[28] He looked down toward Sodom and Gomorrah, toward all the land of the plain, and saw the smoke of the land going up like the smoke of a kiln.
+[28] He looked down toward ⟦sodom|Sedom|Sodom⟧ and ⟦gomorrah|Amorah|Gomorrah⟧, toward all the land of the plain, and saw the smoke of the land going up like the smoke of a kiln.
 
-[29] So when *Elohim* destroyed the cities of the plain, *Elohim* remembered Abraham, and sent Lot out of the midst of the overthrow when he overthrew the cities in which Lot had lived.
+[29] So when ⟦elohim|Elohim|God⟧ destroyed the cities of the plain, ⟦elohim|Elohim|God⟧ remembered ⟦abraham|Avraham|Abraham⟧, and sent Lot out of the midst of the overthrow when he overthrew the cities in which Lot had lived.
 
-[30] Lot went up from Zoar and settled in the hill country with his two daughters, for he was afraid to stay in Zoar. He dwelt in a cave, he and his two daughters.
+[30] Lot went up from ⟦zoar|Tzoar|Zoar⟧ and settled in the hill country with his two daughters, for he was afraid to stay in ⟦zoar|Tzoar|Zoar⟧. He dwelt in a cave, he and his two daughters.
 
 [31] The firstborn said to the younger, "Our father is old, and there is no man in the land to come in to us according to the custom of all the earth.
 
@@ -72,9 +72,9 @@
 
 [36] So both the daughters of Lot became pregnant by their father.
 
-[37] The firstborn bore a son and called his name Moab; he is the ancestor of the Moabites to this day.
+[37] The firstborn bore a son and called his name ⟦moab|Moav|Moab⟧; he is the ancestor of the ⟦moabites|Moavim|Moabites⟧ to this day.
 
-[38] The younger also bore a son and called his name Ben-ammi; he is the ancestor of the Ammonites to this day.
+[38] The younger also bore a son and called his name ⟦ben-ammi|Ben-Ammi|Ben-ammi⟧; he is the ancestor of the ⟦ammonites|Ammonim|Ammonites⟧ to this day.
 
 ## Changes
 

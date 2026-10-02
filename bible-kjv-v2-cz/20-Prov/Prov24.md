@@ -54,7 +54,7 @@ ale ničemní klopýtnou v časech neštěstí.
 [17] Neraduj se, když padne tvůj nepřítel,
 a ať tvé srdce nejásá, když klopýtne,
 
-[18] aby to Yahweh neviděl a neznelíbilo se mu to
+[18] aby to ⟦yhwh|Jahve|Hospodin⟧ neviděl a neznelíbilo se mu to
 a neodvrátil od něho svůj hněv.
 
 [19] Nerozčiluj se kvůli zlovolníkům
@@ -63,7 +63,7 @@ a nezáviď ničemným,
 [20] neboť zlý člověk nemá budoucnost;
 lampa ničemných bude uhašena.
 
-[21] Můj synu, boj se Yahweh a krále
+[21] Můj synu, boj se ⟦yhwh|Jahveho|Hospodina⟧ a krále
 a nespolčuj se s těmi, kdo jednají jinak,
 
 [22] neboť z nich náhle povstane pohroma,

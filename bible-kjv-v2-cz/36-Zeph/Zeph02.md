@@ -6,25 +6,25 @@ nestoudný národe,
 [2] dříve než vejde výnos v platnost –
 dříve než den pomine jako plevy –
 dříve než na vás přijde
-planoucí hněv Yahweh,
+planoucí hněv ⟦yhwh|Jahveho|Hospodina⟧,
 dříve než na vás přijde
-den hněvu Yahweh.
+den hněvu ⟦yhwh|Jahveho|Hospodina⟧.
 
-[3] Hledejte Yahweh, všichni pokorní země,
+[3] Hledejte ⟦yhwh|Jahveho|Hospodina⟧, všichni pokorní země,
 kteří plníte jeho spravedlivé příkazy;
 hledejte spravedlnost; hledejte pokoru;
 snad budete skryti
-v den hněvu Yahweh.
+v den hněvu ⟦yhwh|Jahveho|Hospodina⟧.
 
-[4] Neboť Gaza bude opuštěna
-a Ashkelon se stane pustinou;
-lid Ashdodu bude vyhnán v poledne
-a Ekron bude vykořeněn.
+[4] Neboť ⟦gaza|Azza|Gaza⟧ bude opuštěna
+a ⟦ashkelon|Aškelon|Aškalón⟧ se stane pustinou;
+lid ⟦ashdod|Ašdodu|Ašdódu⟧ bude vyhnán v poledne
+a ⟦ekron|Ekron|Ekrón⟧ bude vykořeněn.
 
 [5] Běda vám, obyvatelé mořského pobřeží,
-národe Cherethitů!
-Slovo Yahweh je proti vám,
-Canaane, země Philistinců;
+národe ⟦cherethites|Keretim|Kerétejců⟧!
+Slovo ⟦yhwh|Jahveho|Hospodina⟧ je proti vám,
+Kenaane, země ⟦philistines|Pelištim|Pelištejců⟧;
 a zničím tě, až nezůstane žádný obyvatel.
 
 [6] A ty, mořské pobřeží, budeš pastvinami,
@@ -32,21 +32,21 @@ s loukami pro pastýře
 a ohradami pro stáda.
 
 [7] Mořské pobřeží se stane vlastnictvím
-pozůstatku domu Judahu,
+pozůstatku domu ⟦judah|Jehudy|Judy⟧,
 na něm se budou pást
-a v domech Ashkelonu budou večer uléhat.
-Neboť Yahweh, jejich *Elohim*, se na ně rozpomene
+a v domech ⟦ashkelon|Aškelonu|Aškalónu⟧ budou večer uléhat.
+Neboť ⟦yhwh|Jahve|Hospodin⟧, jejich ⟦elohim|Elohim|Bůh⟧, se na ně rozpomene
 a změní jejich úděl.
 
-[8] „Slyšel jsem potupy Moabu
-a hanobení Ammonitů,
+[8] „Slyšel jsem potupy ⟦moab|Moavu|Moábu⟧
+a hanobení ⟦ammonites|Ammonim|Amónovců⟧,
 jak tupili můj lid
 a vychloubali se proti jeho území.
 
-[9] Proto, jakože jsem živ,“ praví Yahweh zástupů,
-*Elohim* Israele,
-„Moab bude jako Sodom
-a Ammonité jako Gomorrah,
+[9] Proto, jakože jsem živ,“ praví ⟦yhwh|Jahve|Hospodin⟧ zástupů,
+⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧,
+„⟦moab|Moav|Moáb⟧ bude jako ⟦sodom|Sedom|Sodoma⟧
+a ⟦ammonites|Ammonim|Amónovci⟧ jako ⟦gomorrah|Amora|Gomora⟧,
 země, kterou ovládne kopřiva a solné jámy,
 a pustina navěky.
 Pozůstatek mého lidu je vyplení
@@ -54,20 +54,20 @@ a přeživší z mého národa je obsadí.“
 
 [10] To bude jejich úděl za jejich pýchu,
 protože tupili a vychloubali se
-proti lidu Yahweh zástupů.
+proti lidu ⟦yhwh|Jahveho|Hospodina⟧ zástupů.
 
-[11] Yahweh bude proti nim hrozný;
+[11] ⟦yhwh|Jahve|Hospodin⟧ bude proti nim hrozný;
 neboť vyhladoví všechny bohy země
 a klanět se mu budou,
 každá na svém místě,
 všechny země národů.
 
-[12] I vy, Cushité,
+[12] I vy, ⟦cushites|Kušim|Kúšijci⟧,
 budete pobiti mým mečem.
 
 [13] A vztáhne svou ruku proti severu
-a zničí Assyrii
-a učiní Nineveh pustinou,
+a zničí ⟦assyria|Aššur|Asýrii⟧
+a učiní ⟦nineveh|Ninve|Ninive⟧ pustinou,
 vyprahlou pustinou jako poušť.
 
 [14] V jeho středu budou uléhat stáda,

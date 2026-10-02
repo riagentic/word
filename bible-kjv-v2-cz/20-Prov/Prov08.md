@@ -36,7 +36,7 @@ a nic, po čem můžete toužit, se jí nevyrovná.
 [12] Já, moudrost, přebývám s prozíravostí
 a nalézám poznání a rozvahu.
 
-[13] Bázeň Yahweh je nenávist ke zlu.
+[13] Bázeň ⟦yhwh|Jahveho|Hospodina⟧ je nenávist ke zlu.
 Pýchu a zpupnost a cestu zla
 a převrácená ústa nenávidím.
 
@@ -64,7 +64,7 @@ po stezkách práva,
 [21] abych dala dědictví těm, kdo mne milují,
 a naplnila jejich pokladnice.
 
-[22] Yahweh mne vlastnil na počátku své cesty,
+[22] ⟦yhwh|Jahve|Hospodin⟧ mne vlastnil na počátku své cesty,
 jako první ze svých dávných děl.
 
 [23] Od věčnosti jsem byla ustanovena,
@@ -107,7 +107,7 @@ kdo denně bdí u mých bran
 a čeká u mých dveří.
 
 [35] Neboť kdo mne nalézá, nalézá život
-a získává přízeň od Yahweh,
+a získává přízeň od ⟦yhwh|Jahveho|Hospodina⟧,
 
 [36] ale kdo mne mine, škodí sám sobě;
 všichni, kdo mne nenávidí, milují smrt.“

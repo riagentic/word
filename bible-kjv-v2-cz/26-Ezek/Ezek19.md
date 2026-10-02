@@ -1,6 +1,6 @@
 # Ezechiel 19
 
-[1] A ty zanoť žalozpěv nad knížaty Israele
+[1] A ty zanoť žalozpěv nad knížaty ⟦israel|Jisraele|Izraele⟧
 
 [2] a řekni:
 
@@ -16,7 +16,7 @@ požíral lidi.
 [4] Národy o něm uslyšely;
 byl chycen v jejich jámě
 a odvedli ho na hácích
-do země Egypt.
+⟦egypt|do země Micrajim|do egyptské země⟧.
 
 [5] Když viděla, že čekala marně,
 že její naděje je ztracena,
@@ -39,10 +39,10 @@ rozprostřely na něj svou síť;
 byl chycen v jejich jámě.
 
 [9] Na hácích ho dali do klece
-a přivedli ho k babylonskému králi;
+a přivedli ho k ⟦babylon|bavelskému|babylónskému⟧ králi;
 dali ho do vazby,
 aby jeho hlas už nebyl slyšet
-na horách Israele.
+na horách ⟦israel|Jisraele|Izraele⟧.
 
 [10] Tvá matka byla jako réva na vinici,
 zasazená u vody,

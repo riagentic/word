@@ -1,26 +1,26 @@
 # Daniel 1
 
-[1] Ve třetím roce vlády Jehoiakima, krále Judahu, přitáhl Nebuchadnezzar, král Babylonu, k Jerusalemu a oblehl ho.
+[1] Ve třetím roce vlády ⟦jehoiakim|Jehojakima|Jójakíma⟧, krále ⟦judah|Jehudy|Judy⟧, přitáhl ⟦nebuchadnezzar|Nevuchadnecar|Nebúkadnesar⟧, král ⟦babylon|Bavelu|Babylóna⟧, k ⟦jerusalem|Jerušalajim|Jeruzalému⟧ a oblehl ho.
 
-[2] Pán vydal Jehoiakima, krále Judahu, do jeho ruky i s některými nádobami z domu *Elohim*. Odvezl je do země Shinar, do domu svého boha, a nádoby uložil do pokladnice svého boha.
+[2] ⟦adonai|Adonaj|Pán⟧ vydal ⟦jehoiakim|Jehojakima|Jójakíma⟧, krále ⟦judah|Jehudy|Judy⟧, do jeho ruky i s některými nádobami z domu ⟦elohim|Elohim|Božího⟧. Odvezl je do země ⟦shinar|Šinar|Šineár⟧, do domu svého boha, a nádoby uložil do pokladnice svého boha.
 
-[3] Potom král přikázal Ashpenazovi, svému vrchnímu eunuchovi, aby přivedl některé ze synů Israele, jak z královského rodu, tak ze šlechty,
+[3] Potom král přikázal Ašpenazovi, svému vrchnímu eunuchovi, aby přivedl některé ze synů ⟦israel|Jisraele|Izraele⟧, jak z královského rodu, tak ze šlechty,
 
-[4] mladíky bez vady, dobrého vzhledu, zběhlé ve veškeré moudrosti, obdařené poznáním, rozumějící učenosti a schopné stát v královském paláci, a aby je vyučil písemnictví a jazyku Chaldejců.
+[4] mladíky bez vady, dobrého vzhledu, zběhlé ve veškeré moudrosti, obdařené poznáním, rozumějící učenosti a schopné stát v královském paláci, a aby je vyučil písemnictví a jazyku ⟦chaldeans|Kasdim|Kaldejců⟧.
 
 [5] Král jim určil denní příděl z jídla, které jedl král, a z vína, které pil. Měli být vzděláváni tři roky a na konci té doby měli stanout před králem.
 
-[6] Mezi nimi byli z kmene Judaha: Daniel, Hananiah, Mishael a Azariah.
+[6] Mezi nimi byli z kmene ⟦judah|Jehudy|Judy⟧: ⟦daniel|Danijel|Daniel⟧, ⟦hananiah|Chananja|Chananjáš⟧, ⟦mishael|Mišael|Míšael⟧ a ⟦azariah|Azarja|Azarjáš⟧.
 
-[7] Vrchní eunuch jim dal jména: Danielovi dal jméno Belteshatzar, Hananiahovi Shadrach, Mishaelovi Meshach a Azariahovi Abednego.
+[7] Vrchní eunuch jim dal jména: ⟦daniel|Danijelovi|Danielovi⟧ dal jméno ⟦belteshazzar|Beltešacar|Beltšasar⟧, ⟦hananiah|Chananjovi|Chananjášovi⟧ ⟦shadrach|Šadrach|Šadrak⟧, ⟦mishael|Mišaelovi|Míšaelovi⟧ ⟦meshach|Mešach|Méšak⟧ a ⟦azariah|Azarjovi|Azarjášovi⟧ ⟦abednego|Aved-nego|Abed-nego⟧.
 
-[8] Daniel si však předsevzal, že se nebude poskvrňovat královým jídlem ani vínem, které král pil. Proto žádal vrchního eunucha, aby mu dovolil, aby se neposkvrnil.
+[8] ⟦daniel|Danijel|Daniel⟧ si však předsevzal, že se nebude poskvrňovat královým jídlem ani vínem, které král pil. Proto žádal vrchního eunucha, aby mu dovolil, aby se neposkvrnil.
 
-[9] *Elohim* dal Danielovi přízeň a soucit u vrchního eunucha
+[9] ⟦elohim|Elohim|Bůh⟧ dal ⟦daniel|Danijelovi|Danielovi⟧ přízeň a soucit u vrchního eunucha
 
-[10] a vrchní eunuch řekl Danielovi: „Bojím se svého pána krále, který vám určil jídlo a pití; neboť proč by měl vidět, že jste na tom hůř než mladíci vašeho věku? Tak byste u krále ohrozili mou hlavu.“
+[10] a vrchní eunuch řekl ⟦daniel|Danijelovi|Danielovi⟧: „Bojím se svého pána krále, který vám určil jídlo a pití; neboť proč by měl vidět, že jste na tom hůř než mladíci vašeho věku? Tak byste u krále ohrozili mou hlavu.“
 
-[11] Tu Daniel řekl správci, kterého vrchní eunuch ustanovil nad Danielem, Hananiahem, Mishaelem a Azariahem:
+[11] Tu ⟦daniel|Danijel|Daniel⟧ řekl správci, kterého vrchní eunuch ustanovil nad ⟦daniel|Danijelem|Danielem⟧, ⟦hananiah|Chananjou|Chananjášem⟧, ⟦mishael|Mišaelem|Míšaelem⟧ a ⟦azariah|Azarjou|Azarjášem⟧:
 
 [12] „Vyzkoušej své služebníky po deset dní; ať nám dávají jíst zeleninu a pít vodu.
 
@@ -32,15 +32,15 @@
 
 [16] Správce tedy odnášel jejich jídlo a víno, které měli pít, a dával jim zeleninu.
 
-[17] Těmto čtyřem mladíkům dal *Elohim* poznání a zručnost ve všem písemnictví a moudrosti a Daniel rozuměl všem viděním a snům.
+[17] Těmto čtyřem mladíkům dal ⟦elohim|Elohim|Bůh⟧ poznání a zručnost ve všem písemnictví a moudrosti a ⟦daniel|Danijel|Daniel⟧ rozuměl všem viděním a snům.
 
-[18] Na konci doby, kdy král nařídil, aby byli přivedeni, je vrchní eunuch přivedl před Nebuchadnezzara.
+[18] Na konci doby, kdy král nařídil, aby byli přivedeni, je vrchní eunuch přivedl před ⟦nebuchadnezzar|Nevuchadnecara|Nebúkadnesara⟧.
 
-[19] Král s nimi mluvil a mezi nimi všemi se nenašel nikdo jako Daniel, Hananiah, Mishael a Azariah. Proto stáli před králem.
+[19] Král s nimi mluvil a mezi nimi všemi se nenašel nikdo jako ⟦daniel|Danijel|Daniel⟧, ⟦hananiah|Chananja|Chananjáš⟧, ⟦mishael|Mišael|Míšael⟧ a ⟦azariah|Azarja|Azarjáš⟧. Proto stáli před králem.
 
 [20] A v každé věci moudrosti a rozumnosti, na kterou se jich král tázal, je shledal desetkrát lepšími než všechny mágy a zaklínače, kteří byli v celém jeho království.
 
-[21] A Daniel tam byl až do prvního roku krále Cyruse.
+[21] A ⟦daniel|Danijel|Daniel⟧ tam byl až do prvního roku krále ⟦cyrus|Koreše|Kýra⟧.
 
 ## Změny
 

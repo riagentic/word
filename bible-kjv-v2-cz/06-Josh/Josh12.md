@@ -1,52 +1,52 @@
 # Jozue 12
 
-[1] Toto jsou králové země, které synové Israele pobili a jejichž zemi zaujali za Jordanem k východu slunce, od vádí Arnon až k hoře Hermon, a celou Arabah na východě:
+[1] Toto jsou králové země, které synové ⟦israel|Jisraele|Izraele⟧ pobili a jejichž zemi zaujali za ⟦jordan|Jardenem|Jordánem⟧ k východu slunce, od vádí ⟦arnon|Arnon|Arnón⟧ až k hoře ⟦hermon|Chermon|Chermón⟧, a celou ⟦arabah|Aravu|pustinu⟧ na východě:
 
-[2] Sihon, král Amoritů, který sídlil v Heshbonu; vládl od Aroeru na okraji vádí Arnon – od středu vádí – a nad polovinou Gileadu až k vádí Jabbok, hranici synů Ammonu;
+[2] ⟦sihon|Sichon|Síchon⟧, král ⟦amorites|Emorim|Emorejců⟧, který sídlil v ⟦heshbon|Chešbonu|Chešbónu⟧; vládl od ⟦aroer|Aroeru|Aroéru⟧ na okraji vádí ⟦arnon|Arnon|Arnón⟧ – od středu vádí – a nad polovinou ⟦gilead|Giladu|Gileádu⟧ až k vádí ⟦jabbok|Jabbok|Jabok⟧, hranici synů ⟦ammon|Ammonu|Amónu⟧;
 
-[3] a nad Arabah až k moři Chinneroth na východě a k moři Arabah – Slanému moři – na východ směrem k Beth-jeshimothu a na jih pod svahy Pisgah;
+[3] a nad ⟦arabah|Aravou|pustinou⟧ až k moři ⟦chinneroth|Kinnerot|Kinerot⟧ na východě a k moři ⟦arabah|Aravy|pustiny⟧ – Slanému moři – na východ směrem k ⟦beth-jeshimoth|Bejt HaJešimotu|Bét-ješimótu⟧ a na jih pod svahy Pisgy;
 
-[4] a území Oga, krále Bashanu, ze zbytku Rephaim, který sídlil v Ashtarothu a v Edrei
+[4] a území ⟦og|Oga|Óga⟧, krále ⟦bashan|Bašanu|Bášanu⟧, ze zbytku ⟦rephaim|Refaim|Refájců⟧, který sídlil v ⟦ashtaroth|Aštarotu|Aštarótu⟧ a v ⟦edrei|Edreji|Edreí⟧
 
-[5] a vládl nad horou Hermon, nad Salcah a nad celým Bashanem až k hranici Geshuritů a Maacathitů, a nad polovinou Gileadu – až k hranici Sihona, krále Heshbonu.
+[5] a vládl nad horou ⟦hermon|Chermon|Chermón⟧, nad ⟦salecah|Salchou|Salkou⟧ a nad celým ⟦bashan|Bašanem|Bášanem⟧ až k hranici ⟦geshurites|Gešuri|Gešúrců⟧ a ⟦maacathites|Maachati|Maakátců⟧, a nad polovinou ⟦gilead|Giladu|Gileádu⟧ – až k hranici ⟦sihon|Sichona|Síchona⟧, krále ⟦heshbon|Chešbonu|Chešbónu⟧.
 
-[6] Moses, služebník Yahweh, a synové Israele je pobili; a Moses, služebník Yahweh, dal tu zemi do vlastnictví Reubenitům, Gaditům a polovině kmene Manasseh.
+[6] ⟦moses|Moše|Mojžíš⟧, služebník ⟦yhwh|Jahveho|Hospodina⟧, a synové ⟦israel|Jisraele|Izraele⟧ je pobili; a ⟦moses|Moše|Mojžíš⟧, služebník ⟦yhwh|Jahveho|Hospodina⟧, dal tu zemi do vlastnictví ⟦reubenites|Reuveni|Rúbenovcům⟧, ⟦gadites|Gadi|Gádovcům⟧ a polovině kmene ⟦manasseh|Menaše|Manasesa⟧.
 
-[7] Toto jsou králové země, které Joshua a synové Israele pobili za Jordanem na západě, od Baal-gadu v údolí Lebanonu až k hoře Halak, která se zvedá k Seiru – území, které Joshua dal kmenům Israele do vlastnictví podle jejich oddílů:
+[7] Toto jsou králové země, které ⟦joshua|Jehošua|Jozue⟧ a synové ⟦israel|Jisraele|Izraele⟧ pobili za ⟦jordan|Jardenem|Jordánem⟧ na západě, od ⟦baal-gad|Baal Gadu|Baal-gadu⟧ v údolí ⟦lebanon|Levanonu|Libanónu⟧ až k hoře Chalak, která se zvedá k ⟦seir|Seiru|Seíru⟧ – území, které ⟦joshua|Jehošua|Jozue⟧ dal kmenům ⟦israel|Jisraele|Izraele⟧ do vlastnictví podle jejich oddílů:
 
-[8] v pahorkatině, v nížině, v Arabah, na svazích, na poušti a v Negevu – Hittité, Amorité, Canaanité, Perizzité, Hivité a Jebusité:
+[8] v pahorkatině, v nížině, v ⟦arabah|Aravě|pustině⟧, na svazích, na poušti a v ⟦negev|Negevu|Negebu⟧ – ⟦hittites|Chittim|Chetejci⟧, ⟦amorites|Emorim|Emorejci⟧, ⟦canaanites|Kenaanim|Kenaanci⟧, ⟦perizzites|Perizzim|Perizejci⟧, ⟦hivites|Chivvim|Chivejci⟧ a ⟦jebusites|Jevusim|Jebúsejci⟧:
 
-[9] král Jericha, jeden; král Ai, které leží vedle Bethelu, jeden;
+[9] král Jericha, jeden; král Aje, které leží vedle ⟦bethel|Bejt Elu|Bét-elu⟧, jeden;
 
-[10] král Jerusalemu, jeden; král Hebronu, jeden;
+[10] král ⟦jerusalem|Jerušalajim|Jeruzaléma⟧, jeden; král ⟦hebron|Chevronu|Chebrónu⟧, jeden;
 
-[11] král Jarmuthu, jeden; král Lachishe, jeden;
+[11] král ⟦jarmuth|Jarmutu|Jarmútu⟧, jeden; král ⟦lachish|Lachiše|Lakíše⟧, jeden;
 
-[12] král Eglonu, jeden; král Gezeru, jeden;
+[12] král ⟦eglon|Eglonu|Eglónu⟧, jeden; král Gezeru, jeden;
 
-[13] král Debiru, jeden; král Gederu, jeden;
+[13] král ⟦debir|Deviru|Debíru⟧, jeden; král Gederu, jeden;
 
-[14] král Hormah, jeden; král Aradu, jeden;
+[14] král Chormy, jeden; král ⟦arad|Aradu|Arádu⟧, jeden;
 
-[15] král Libnah, jeden; král Adullamu, jeden;
+[15] král ⟦libnah|Livny|Libny⟧, jeden; král ⟦adullam|Adullamu|Adulamu⟧, jeden;
 
-[16] král Makkedah, jeden; král Bethelu, jeden;
+[16] král ⟦makkedah|Makkedy|Makedy⟧, jeden; král ⟦bethel|Bejt Elu|Bét-elu⟧, jeden;
 
-[17] král Tappuah, jeden; král Hepheru, jeden;
+[17] král ⟦tappuah|Tappuachu|Tapúachu⟧, jeden; král Cheferu, jeden;
 
-[18] král Apheku, jeden; král Lasharonu, jeden;
+[18] král Afeku, jeden; král ⟦lasharon|Lašaronu|Lašarónu⟧, jeden;
 
-[19] král Madonu, jeden; král Hazoru, jeden;
+[19] král ⟦madon|Madonu|Madónu⟧, jeden; král ⟦hazor|Chacoru|Chasóru⟧, jeden;
 
-[20] král Shimron-meronu, jeden; král Achshaphu, jeden;
+[20] král ⟦shimron-meron|Šimron Meronu|Šimrón-meronu⟧, jeden; král ⟦achshaph|Achšafu|Akšafu⟧, jeden;
 
-[21] král Taanachu, jeden; král Megidda, jeden;
+[21] král ⟦taanach|Taanachu|Taanaku⟧, jeden; král ⟦megiddo|Megidda|Megida⟧, jeden;
 
-[22] král Kedeshe, jeden; král Jokneamu v Carmelu, jeden;
+[22] král Kedeše, jeden; král ⟦jokneam|Jokneamu|Jokneámu⟧ v Karmelu, jeden;
 
-[23] král Doru v Naphath-doru, jeden; král Goiim v Gilgalu, jeden;
+[23] král ⟦dor|Doru|Dóru⟧ v ⟦naphath-dor|Nafat Doru|Nafat-dóru⟧, jeden; král ⟦goiim|Gojim|Gójím⟧ v ⟦gilgal|Gilgalu|Gilgálu⟧, jeden;
 
-[24] král Tirzah, jeden – celkem třicet jedna králů.
+[24] král ⟦tirzah|Tircy|Tirsy⟧, jeden – celkem třicet jedna králů.
 
 ## Změny
 

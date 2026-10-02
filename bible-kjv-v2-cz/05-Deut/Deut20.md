@@ -1,12 +1,12 @@
 # Deuteronomium 20
 
-[1] „Když vytáhneš do boje proti svým nepřátelům a uvidíš koně a vozy a vojsko větší, než je tvé, nebudeš se jich bát; neboť Yahweh, tvůj *Elohim*, je s tebou, ten, který tě vyvedl z egyptské země.
+[1] „Když vytáhneš do boje proti svým nepřátelům a uvidíš koně a vozy a vojsko větší, než je tvé, nebudeš se jich bát; neboť ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, je s tebou, ten, který tě vyvedl z egyptské země.
 
 [2] Až se přiblížíte k boji, přistoupí kněz a promluví k lidu
 
-[3] a řekne jim: ‚Slyš, Israeli: dnes se přibližujete k boji proti svým nepřátelům. Ať vaše srdce neochabuje; nebojte se, netřeste se a neděste se před nimi,
+[3] a řekne jim: ‚Slyš, ⟦israel|Jisraeli|Izraeli⟧: dnes se přibližujete k boji proti svým nepřátelům. Ať vaše srdce neochabuje; nebojte se, netřeste se a neděste se před nimi,
 
-[4] neboť Yahweh, váš *Elohim*, je ten, který jde s vámi, aby za vás bojoval proti vašim nepřátelům a zachránil vás.‘
+[4] neboť ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧, je ten, který jde s vámi, aby za vás bojoval proti vašim nepřátelům a zachránil vás.‘
 
 [5] Úředníci promluví k lidu a řeknou: ‚Je tu někdo, kdo postavil nový dům a ještě ho nezasvětil? Ať se vrátí do svého domu, aby nezemřel v boji a jiný muž ho nezasvětil.
 
@@ -24,17 +24,17 @@
 
 [12] Jestliže však s tebou neuzavře mír, ale povede proti tobě válku, pak je oblehneš.
 
-[13] Až je Yahweh, tvůj *Elohim*, vydá do tvé ruky, pobiješ ostřím meče každého muže v něm,
+[13] Až je ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, vydá do tvé ruky, pobiješ ostřím meče každého muže v něm,
 
-[14] ale ženy a malé děti, dobytek a všechno, co je ve městě – všechnu jeho kořist – si vezmeš jako lup. Budeš užívat kořist svých nepřátel, kterou ti dal Yahweh, tvůj *Elohim*.
+[14] ale ženy a malé děti, dobytek a všechno, co je ve městě – všechnu jeho kořist – si vezmeš jako lup. Budeš užívat kořist svých nepřátel, kterou ti dal ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧.
 
 [15] Tak budeš jednat se všemi městy, která jsou od tebe velmi daleko a nepatří k městům těchto národů.
 
-[16] Ale z měst těchto národů, která ti Yahweh, tvůj *Elohim*, dává do dědictví, nenecháš naživu nic, co dýchá,
+[16] Ale z měst těchto národů, která ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, dává do dědictví, nenecháš naživu nic, co dýchá,
 
-[17] nýbrž je zasvětíš úplné zkáze – Hittitu, Amoritu, Canaanitu, Perizzitu, Hivitu a Jebusitu – jak ti přikázal Yahweh, tvůj *Elohim*,
+[17] nýbrž je zasvětíš úplné zkáze – ⟦hittite|Chitti|Chetejce⟧, ⟦amorite|Emori|Emorejce⟧, ⟦canaanites|Kenaani|Kenaance⟧, ⟦perizzite|Perizzi|Perizejce⟧, ⟦hivite|Chivvi|Chivejce⟧ a ⟦jebusite|Jevusi|Jebúsejce⟧ – jak ti přikázal ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧,
 
-[18] aby vás nenaučili jednat podle všech svých ohavností, které páchali pro své bohy, a abyste tak nezhřešili proti Yahweh, svému *Elohim*.
+[18] aby vás nenaučili jednat podle všech svých ohavností, které páchali pro své bohy, a abyste tak nezhřešili proti ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧.
 
 [19] Když budeš obléhat město po mnoho dní a vést proti němu válku, abys je dobyl, nezničíš jeho stromy tím, že bys proti nim vztáhl sekeru; vždyť z nich můžeš jíst. Nekácej je, neboť je snad strom na poli člověk, aby se dostal do tvého obležení?
 

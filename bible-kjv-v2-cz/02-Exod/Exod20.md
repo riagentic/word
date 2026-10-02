@@ -1,28 +1,28 @@
 # Exodus 20
 
-[1] *Elohim* promluvil všechna tato slova:
+[1] ⟦elohim|Elohim|Bůh⟧ promluvil všechna tato slova:
 
-[2] „Já jsem Yahweh, tvůj *Elohim*, který tě vyvedl z egyptské země, z domu otroctví.
+[2] „Já jsem ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, který tě vyvedl ⟦egypt|ze země Micrajim|z egyptské země⟧, z domu otroctví.
 
 [3] Nebudeš mít jiné bohy před mou tváří.
 
 [4] Neuděláš si tesanou modlu ani žádné zpodobení čehokoli, co je nahoře na nebesích, nebo dole na zemi, nebo ve vodách pod zemí.
 
-[5] Nebudeš se jim klanět ani jim sloužit; neboť já, Yahweh, tvůj *Elohim*, jsem žárlivý El, který stíhá vinu otců na synech do třetího a čtvrtého pokolení těch, kdo mě nenávidí,
+[5] Nebudeš se jim klanět ani jim sloužit; neboť já, ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, jsem žárlivý ⟦el|El|Bůh⟧, který stíhá vinu otců na synech do třetího a čtvrtého pokolení těch, kdo mě nenávidí,
 
 [6] ale prokazuje věrnou lásku tisícům těch, kdo mě milují a zachovávají má přikázání.
 
-[7] Nebudeš pozvedat jméno Yahweh, svého *Elohim*, nadarmo, neboť Yahweh nenechá bez trestu toho, kdo pozvedá jeho jméno nadarmo.
+[7] Nebudeš pozvedat jméno ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, nadarmo, neboť ⟦yhwh|Jahve|Hospodin⟧ nenechá bez trestu toho, kdo pozvedá jeho jméno nadarmo.
 
-[8] Pamatuj na den sabatu, abys ho světil.
+[8] Pamatuj na den ⟦shabbat|šabatu|soboty⟧, abys ho světil.
 
 [9] Šest dní budeš pracovat a konat všechno své dílo,
 
-[10] ale sedmý den je sabat Yahweh, tvého *Elohim*. Nebudeš v něm konat žádnou práci – ty ani tvůj syn, ani tvá dcera, tvůj otrok ani tvá otrokyně, ani tvůj dobytek, ani přistěhovalec, který je v tvých branách.
+[10] ale sedmý den je ⟦shabbat|šabat|sobota⟧ ⟦yhwh|Jahveho|Hospodina⟧, tvého ⟦elohim|Elohim|Boha⟧. Nebudeš v něm konat žádnou práci – ty ani tvůj syn, ani tvá dcera, tvůj otrok ani tvá otrokyně, ani tvůj dobytek, ani přistěhovalec, který je v tvých branách.
 
-[11] Neboť v šesti dnech učinil Yahweh nebesa a zemi, moře a všechno, co je v nich, a sedmého dne odpočinul. Proto Yahweh požehnal den sabatu a posvětil ho.
+[11] Neboť v šesti dnech učinil ⟦yhwh|Jahve|Hospodin⟧ nebesa a zemi, moře a všechno, co je v nich, a sedmého dne odpočinul. Proto ⟦yhwh|Jahve|Hospodin⟧ požehnal den ⟦shabbat|šabatu|soboty⟧ a posvětil ho.
 
-[12] Cti svého otce i svou matku, aby tvé dny byly dlouhé v zemi, kterou ti dává Yahweh, tvůj *Elohim*.
+[12] Cti svého otce i svou matku, aby tvé dny byly dlouhé v zemi, kterou ti dává ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧.
 
 [13] Nezavraždíš.
 
@@ -36,13 +36,13 @@
 
 [18] Všechen lid viděl hromy, blesky, zvuk beranního rohu a kouřící horu; a když to lid viděl, třásl se a zůstal stát v dálce.
 
-[19] Řekli Mosesovi: „Mluv s námi ty a my budeme poslouchat; ale ať s námi nemluví *Elohim*, abychom nezemřeli.“
+[19] Řekli ⟦moses|Mošovi|Mojžíšovi⟧: „Mluv s námi ty a my budeme poslouchat; ale ať s námi nemluví ⟦elohim|Elohim|Bůh⟧, abychom nezemřeli.“
 
-[20] Moses řekl lidu: „Nebojte se, neboť *Elohim* přišel, aby vás vyzkoušel, aby bázeň před ním byla před vámi, abyste nehřešili.“
+[20] ⟦moses|Moše|Mojžíš⟧ řekl lidu: „Nebojte se, neboť ⟦elohim|Elohim|Bůh⟧ přišel, aby vás vyzkoušel, aby bázeň před ním byla před vámi, abyste nehřešili.“
 
-[21] Lid tedy stál v dálce, zatímco Moses přistoupil k temnému mračnu, kde byl *Elohim*.
+[21] Lid tedy stál v dálce, zatímco ⟦moses|Moše|Mojžíš⟧ přistoupil k temnému mračnu, kde byl ⟦elohim|Elohim|Bůh⟧.
 
-[22] Yahweh řekl Mosesovi: „Toto povíš synům Israele: ‚Sami jste viděli, že jsem s vámi mluvil z nebes.
+[22] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Toto povíš synům ⟦israel|Jisraele|Izraele⟧: ‚Sami jste viděli, že jsem s vámi mluvil z nebes.
 
 [23] Neuděláte si vedle mne bohy ze stříbra ani si neuděláte bohy ze zlata.
 

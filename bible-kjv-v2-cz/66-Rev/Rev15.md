@@ -1,13 +1,13 @@
 # Zjevení 15
 
-[1] Potom jsem viděl na nebi jiné znamení, veliké a úžasné: sedm andělů se sedmi ranami, těmi posledními, neboť jimi se dovršuje hněv *Elohim*.
+[1] Potom jsem viděl na nebi jiné znamení, veliké a úžasné: sedm andělů se sedmi ranami, těmi posledními, neboť jimi se dovršuje hněv ⟦elohim|Elohim|Boží⟧.
 
-[2] A viděl jsem cosi jako skleněné moře smíšené s ohněm – a také ty, kdo zvítězili nad šelmou a nad jejím obrazem a nad číslem jejího jména; stáli u skleněného moře a v rukou měli harfy *Elohim*.
+[2] A viděl jsem cosi jako skleněné moře smíšené s ohněm – a také ty, kdo zvítězili nad šelmou a nad jejím obrazem a nad číslem jejího jména; stáli u skleněného moře a v rukou měli harfy ⟦elohim|Elohim|Boží⟧.
 
-[3] A zpívají píseň Mosese, služebníka *Elohim*, a píseň Beránka:
+[3] A zpívají píseň ⟦moses|Moše|Mojžíše⟧, služebníka ⟦elohim|Elohim|Božího⟧, a píseň Beránka:
 
 „**Veliké a úžasné jsou tvé skutky,
-Pane *Elohim* Všemohoucí!
+Pane ⟦elohim|Elohim|Bože⟧ Všemohoucí!
 Spravedlivé a pravé jsou tvé cesty,
 Králi národů!
 [4] Kdo by se nebál, Pane,
@@ -21,9 +21,9 @@ neboť tvé spravedlivé skutky byly zjeveny**.“
 
 [6] a ze svatyně vyšlo sedm andělů se sedmi ranami, oděných v čisté, zářící plátno, se zlatými pásy kolem hrudi.
 
-[7] A jedna ze čtyř živých bytostí dala sedmi andělům sedm zlatých misek plných hněvu *Elohim*, který žije na věky věků,
+[7] A jedna ze čtyř živých bytostí dala sedmi andělům sedm zlatých misek plných hněvu ⟦elohim|Elohim|Boha⟧, který žije na věky věků,
 
-[8] a svatyně se naplnila dýmem ze slávy *Elohim* a z jeho moci, a nikdo nemohl vejít do svatyně, dokud se nedovršilo sedm ran sedmi andělů.
+[8] a svatyně se naplnila dýmem ze slávy ⟦elohim|Elohim|Boží⟧ a z jeho moci, a nikdo nemohl vejít do svatyně, dokud se nedovršilo sedm ran sedmi andělů.
 
 ## Změny
 

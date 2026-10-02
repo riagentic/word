@@ -85,7 +85,7 @@ and to revive the heart of the contrite.
 [16] For I will not contend forever,
 nor will I always be angry;
 for the spirit would grow faint before me,
-and the neshamot — breaths/souls — that I have made.
+and the ⟦neshamah|neshamot — breaths/souls —|breath of life⟧ that I have made.
 
 [17] Because of the iniquity of his unjust gain I was angry,
 I struck him; I hid my face and was angry,
@@ -96,13 +96,13 @@ I will lead him and restore comfort to him and his mourners,
 
 [19] creating the fruit of the lips.
 Peace, peace, to the far and to the near,"
-says Yahweh, "and I will heal him.
+says ⟦yhwh|Yahweh|the LORD⟧, "and I will heal him.
 
 [20] But the wicked are like the tossing sea;
 for it cannot be quiet,
 and its waters toss up mire and dirt.
 
-[21] There is no peace," says my *Elohim*, "for the wicked."
+[21] There is no peace," says my ⟦elohim|Elohim|God⟧, "for the wicked."
 
 ## Changes
 

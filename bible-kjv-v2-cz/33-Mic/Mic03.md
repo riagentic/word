@@ -1,8 +1,8 @@
 # Micheáš 3
 
 [1] I řekl jsem:
-Slyšte, hlavy Jacoba
-a vládci domu Israele!
+Slyšte, hlavy ⟦jacob|Jaakova|Jákoba⟧
+a vládci domu ⟦israel|Jisraele|Izraele⟧!
 Což nemáte vy znát právo? –
 
 [2] vy, kdo nenávidíte dobro a milujete zlo,
@@ -15,12 +15,12 @@ lámete jejich kosti na kusy
 a sekáte je jako maso do hrnce,
 jako maso do kotle.
 
-[4] Tehdy budou volat k Yahweh,
+[4] Tehdy budou volat k ⟦yhwh|Jahvovi|Hospodinu⟧,
 ale on jim neodpoví;
 skryje před nimi v onen čas svou tvář,
 protože jejich skutky učinili zlými.
 
-[5] Toto praví Yahweh o prorocích, kteří svádějí můj lid, kteří volají „Pokoj“, když mají co jíst, ale tomu, kdo jim nic nedá do úst, vyhlašují válku.
+[5] Toto praví ⟦yhwh|Jahve|Hospodin⟧ o prorocích, kteří svádějí můj lid, kteří volají „Pokoj“, když mají co jíst, ale tomu, kdo jim nic nedá do úst, vyhlašují válku.
 
 [6] Proto vám bude noc bez vidění
 a tma vám bude bez věštění.
@@ -30,32 +30,32 @@ a den nad nimi zčerná;
 [7] vidoucí budou zostuzeni
 a věštci zahanbeni;
 všichni si zakryjí rty,
-neboť od *Elohim* není odpověď.
+neboť od ⟦elohim|Elohim|Boha⟧ není odpověď.
 
 [8] Ale já jsem naplněn mocí,
-Duchem Yahweh,
+Duchem ⟦yhwh|Jahveho|Hospodina⟧,
 právem a silou,
-abych oznámil Jacobovi jeho přestoupení
-a Israeli jeho hřích.
+abych oznámil ⟦jacob|Jaakovovi|Jákobovi⟧ jeho přestoupení
+a ⟦israel|Jisraeli|Izraeli⟧ jeho hřích.
 
-[9] Slyšte to, hlavy domu Jacobova
-a vládci domu Israele,
+[9] Slyšte to, hlavy domu ⟦jacob|Jaakovova|Jákobova⟧
+a vládci domu ⟦israel|Jisraele|Izraele⟧,
 kteří si ošklivíte právo
 a křivíte všechno, co je přímé,
 
-[10] kteří budujete Zion krví
-a Jerusalem ničemností.
+[10] kteří budujete ⟦zion|Cijon|Sijón⟧ krví
+a ⟦jerusalem|Jerušalajim|Jeruzalém⟧ ničemností.
 
 [11] Jeho hlavy soudí za úplatek;
 jeho kněží učí za mzdu;
 jeho proroci věští za peníze;
-a přece se opírají o Yahweh a říkají:
-„Což není Yahweh uprostřed nás?
+a přece se opírají o ⟦yhwh|Jahveho|Hospodina⟧ a říkají:
+„Což není ⟦yhwh|Jahve|Hospodin⟧ uprostřed nás?
 Žádné neštěstí na nás nepřijde.“
 
 [12] Proto se kvůli vám
-**Zion bude zorán jako pole;
-Jerusalem se stane hromadou trosek
+**⟦zion|Cijon|Sijón⟧ bude zorán jako pole;
+⟦jerusalem|Jerušalajim|Jeruzalém⟧ se stane hromadou trosek
 a hora domu zalesněnou výšinou.**
 
 ## Změny

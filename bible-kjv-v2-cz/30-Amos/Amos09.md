@@ -1,6 +1,6 @@
 # Ámos 9
 
-[1] Viděl jsem Pána, jak stojí u oltáře, a řekl:
+[1] Viděl jsem ⟦adonai|Adonaje|Pána⟧, jak stojí u oltáře, a řekl:
 
 „Udeř do hlavic, až se zachvějí prahy,
 a roztříští je na hlavy všeho lidu;
@@ -8,12 +8,12 @@ a ty, kdo z nich zbudou, pobiji mečem;
 ani jeden z nich neuteče,
 ani jeden z nich nevyvázne.
 
-[2] Kdyby se prokopali do Sheol,
+[2] Kdyby se prokopali do ⟦sheol|Šeolu|podsvětí⟧,
 odtud je vezme má ruka;
 kdyby vystoupili do nebes,
 odtud je strhnu dolů.
 
-[3] Kdyby se skryli na vrcholu Carmelu,
+[3] Kdyby se skryli na vrcholu Karmelu,
 odtud je vypátrám a vezmu;
 a kdyby se skryli před mým zrakem na dně moře,
 tam přikážu hadu a ten je uštkne.
@@ -23,30 +23,30 @@ tam přikážu meči a ten je zabije;
 a upřu na ně své oči
 ke zlému, a ne k dobrému.“
 
-[5] Pán Yahweh zástupů,
+[5] ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ zástupů,
 on, který se dotkne země, a ona se roztéká,
 a všichni, kdo na ní bydlí, truchlí,
-a celá se zvedá jako Nil
-a zase klesá jako Nil egyptský;
+a celá se zvedá jako ⟦nile|Jeor|Nil⟧
+a zase klesá jako ⟦nile|Jeor|Nil⟧ ⟦egypt|Micrajim|egyptský⟧;
 
 [6] který si staví své horní komnaty v nebesích
 a zakládá svou klenbu na zemi;
 který volá vody moře
 a vylévá je na tvář země –
-Yahweh je jeho jméno.
+⟦yhwh|Jahve|Hospodin⟧ je jeho jméno.
 
-[7] „Nejste mi snad jako Kushim,
-synové Israele?“ praví Yahweh.
-„Nevyvedl jsem snad Israel z egyptské země
-a Philistince z Caphtoru a Syřany z Kiru?
+[7] „Nejste mi snad jako ⟦cushites|Kušim|Kúšijci⟧,
+synové ⟦israel|Jisraele|Izraele⟧?“ praví ⟦yhwh|Jahve|Hospodin⟧.
+„Nevyvedl jsem snad ⟦israel|Jisrael|Izrael⟧ ⟦egypt|ze země Micrajim|z egyptské země⟧
+a ⟦philistines|Pelištim|Pelištejce⟧ z ⟦caphtor|Kaftoru|Kaftóru⟧ a Arama z ⟦kir|Kiru|Kíru⟧?
 
-[8] Hle, oči Pána Yahweh jsou upřeny na hříšné království,
+[8] Hle, oči ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧ jsou upřeny na hříšné království,
 a vyhladím je z povrchu země,
-jenže dům Jacobův zcela nevyhladím,“
-praví Yahweh.
+jenže dům ⟦jacob|Jaakovův|Jákobův⟧ zcela nevyhladím,“
+praví ⟦yhwh|Jahve|Hospodin⟧.
 
 [9] „Neboť hle, já přikážu
-a zatřesu domem Israele mezi všemi národy,
+a zatřesu domem ⟦israel|Jisraele|Izraele⟧ mezi všemi národy,
 jako se třese sítem,
 ale žádný kamínek nepadne na zem.
 
@@ -58,17 +58,17 @@ a zacelím jeho trhliny,
 postavím jeho trosky
 a znovu jej vybuduji jako za dávných dnů,
 
-[12] aby vlastnili pozůstatek Edomu
+[12] aby vlastnili pozůstatek ⟦edom|Edomu|Edómu⟧
 a všechny národy, nad nimiž je vzýváno mé jméno,“
-praví Yahweh, který to činí.
+praví ⟦yhwh|Jahve|Hospodin⟧, který to činí.
 
-[13] „Hle, přicházejí dny,“ praví Yahweh,
+[13] „Hle, přicházejí dny,“ praví ⟦yhwh|Jahve|Hospodin⟧,
 „kdy oráč dostihne žence
 a šlapač hroznů toho, kdo zasévá semeno;
 hory budou kanout sladkým vínem
 a všechny pahorky jím budou oplývat.
 
-[14] Změním úděl svého lidu Israele
+[14] Změním úděl svého lidu ⟦israel|Jisraele|Izraele⟧
 a znovu vystavějí zpustošená města a budou v nich bydlet;
 vysadí vinice a budou pít jejich víno,
 založí zahrady a budou jíst jejich plody.
@@ -76,7 +76,7 @@ založí zahrady a budou jíst jejich plody.
 [15] Zasadím je na jejich zemi
 a už nikdy nebudou vyvráceni
 ze země, kterou jsem jim dal,“
-praví Yahweh, tvůj *Elohim*.
+praví ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧.
 
 ## Změny
 

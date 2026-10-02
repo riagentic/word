@@ -11,7 +11,7 @@
 
 ačkoli jeho díla byla dokončena od založení světa.
 
-[4] Kdesi totiž o sedmém dni řekl takto: „**A *Elohim* odpočinul sedmého dne od všech svých děl**.“
+[4] Kdesi totiž o sedmém dni řekl takto: „**A ⟦elohim|Elohim|Bůh⟧ odpočinul sedmého dne od všech svých děl**.“
 
 [5] A opět na tomto místě řekl:
 
@@ -24,19 +24,19 @@ ačkoli jeho díla byla dokončena od založení světa.
 „**Dnes, uslyšíte-li jeho hlas,
 nezatvrzujte svá srdce**.“
 
-[8] Kdyby jim totiž Joshua dal odpočinutí, *Elohim* by později nemluvil o jiném dni.
+[8] Kdyby jim totiž ⟦joshua|Jehošua|Jozue⟧ dal odpočinutí, ⟦elohim|Elohim|Bůh⟧ by později nemluvil o jiném dni.
 
-[9] Zbývá tedy sabatní odpočinutí pro lid *Elohim*,
+[9] Zbývá tedy ⟦shabbat|šabatní|sobotní⟧ odpočinutí pro lid ⟦elohim|Elohim|Boží⟧,
 
-[10] neboť kdo vešel do odpočinutí *Elohim*, také odpočinul od svých děl, jako *Elohim* od svých.
+[10] neboť kdo vešel do odpočinutí ⟦elohim|Elohim|Božího⟧, také odpočinul od svých děl, jako ⟦elohim|Elohim|Bůh⟧ od svých.
 
 [11] Usilujme tedy vejít do toho odpočinutí, aby nikdo nepadl stejným druhem neposlušnosti.
 
-[12] **Slovo *Elohim* je totiž živé a účinné, ostřejší než jakýkoli dvousečný meč, proniká až na rozhraní duše a ducha, kloubů a morku a rozsuzuje myšlenky a úmysly srdce.**
+[12] **Slovo ⟦elohim|Elohim|Boží⟧ je totiž živé a účinné, ostřejší než jakýkoli dvousečný meč, proniká až na rozhraní duše a ducha, kloubů a morku a rozsuzuje myšlenky a úmysly srdce.**
 
 [13] A žádné stvoření není skryto před jeho zrakem, ale všechno je nahé a obnažené před očima toho, jemuž musíme vydat počet.
 
-[14] Protože tedy máme velikého velekněze, který prošel nebesy, *Yeshuu*, Syna *Elohim*, držme se pevně svého vyznání.
+[14] Protože tedy máme velikého velekněze, který prošel nebesy, ⟦yeshua|Ješuu|Ježíše⟧, Syna ⟦elohim|Elohim|Božího⟧, držme se pevně svého vyznání.
 
 [15] **Nemáme totiž velekněze, který by nemohl mít soucit s našimi slabostmi, ale takového, který byl ve všem pokoušen jako my, avšak bez hříchu.**
 

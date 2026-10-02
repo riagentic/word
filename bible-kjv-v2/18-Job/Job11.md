@@ -1,6 +1,6 @@
 # Job 11
 
-[1] Then Zophar the Naamathite answered and said:
+[1] Then ⟦zophar|Tzofar|Zophar⟧ the ⟦naamathite|Naamati|Naamathite⟧ answered and said:
 
 [2] "Should not this multitude of words be answered?
 Should a man full of talk be justified?
@@ -11,16 +11,16 @@ When you mock, shall no one shame you?
 [4] For you say, 'My doctrine is pure,
 and I am clean in your eyes.'
 
-[5] But oh that Eloah would speak,
+[5] But oh that ⟦eloah|Eloah|God⟧ would speak,
 and open his lips against you,
 
 [6] and tell you the secrets of wisdom,
 for wisdom is many-sided!
-Know then that Eloah extracts from you
+Know then that ⟦eloah|Eloah|God⟧ extracts from you
 less than your iniquity deserves.
 
-[7] Can you fathom the depths of Eloah?
-Can you find the limit of Shaddai?
+[7] Can you fathom the depths of ⟦eloah|Eloah|God⟧?
+Can you find the limit of ⟦shaddai|Shaddai|the Almighty⟧?
 
 [8] It is higher than the heavens — what can you do?
 Deeper than Sheol — what can you know?

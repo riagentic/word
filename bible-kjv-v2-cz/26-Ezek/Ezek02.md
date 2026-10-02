@@ -4,9 +4,9 @@
 
 [2] A když ke mně mluvil, vstoupil do mě duch a postavil mě na nohy, a slyšel jsem ho, jak ke mně mluví.
 
-[3] I řekl mi: „Synu člověka, posílám tě k lidu Israele, k národům vzbouřenců, kteří se proti mně vzbouřili. Oni i jejich otcové se proti mně provinili až do tohoto dne.
+[3] I řekl mi: „Synu člověka, posílám tě k lidu ⟦israel|Jisraele|Izraele⟧, k národům vzbouřenců, kteří se proti mně vzbouřili. Oni i jejich otcové se proti mně provinili až do tohoto dne.
 
-[4] I potomci mají tvrdou tvář a zatvrzelé srdce. Posílám tě k nim a řekneš jim: ‚Toto praví Pán Yahweh.‘
+[4] I potomci mají tvrdou tvář a zatvrzelé srdce. Posílám tě k nim a řekneš jim: ‚Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧.‘
 
 [5] A ať už uslyší, nebo odmítnou slyšet (neboť jsou dům vzpurný), poznají, že byl mezi nimi prorok.
 

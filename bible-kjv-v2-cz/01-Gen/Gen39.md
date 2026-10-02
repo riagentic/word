@@ -1,26 +1,26 @@
 # Genesis 39
 
-[1] Joseph byl odveden dolů do Egypta; a Potiphar, dvořan Pharaoha, velitel stráže, Egypťan, ho koupil z ruky Ishmaelitů, kteří ho tam přivedli.
+[1] Josef byl odveden dolů do ⟦egypt|Micrajim|Egypta⟧; a ⟦potiphar|Potifar|Potífar⟧, dvořan ⟦pharaoh|Paroha|faraóna⟧, velitel stráže, ⟦egyptian|Micri|Egypťan⟧, ho koupil z ruky ⟦ishmaelites|Jišmeelim|Izmaelců⟧, kteří ho tam přivedli.
 
-[2] Yahweh byl s Josephem, a ten se stal úspěšným mužem; byl v domě svého pána Egypťana.
+[2] ⟦yhwh|Jahve|Hospodin⟧ byl s Josefem, a ten se stal úspěšným mužem; byl v domě svého pána ⟦egyptian|Micriho|Egypťana⟧.
 
-[3] Jeho pán viděl, že Yahweh je s ním a že Yahweh dává zdar všemu, co dělá jeho ruka.
+[3] Jeho pán viděl, že ⟦yhwh|Jahve|Hospodin⟧ je s ním a že ⟦yhwh|Jahve|Hospodin⟧ dává zdar všemu, co dělá jeho ruka.
 
-[4] Joseph tedy nalezl přízeň v jeho očích a sloužil mu; a on ho ustanovil správcem nad svým domem a svěřil do jeho ruky všechno, co měl.
+[4] Josef tedy nalezl přízeň v jeho očích a sloužil mu; a on ho ustanovil správcem nad svým domem a svěřil do jeho ruky všechno, co měl.
 
-[5] Od doby, kdy ho ustanovil správcem ve svém domě a nade vším, co měl, žehnal Yahweh domu toho Egypťana kvůli Josephovi; a požehnání Yahweh spočívalo na všem, co měl, v domě i na poli.
+[5] Od doby, kdy ho ustanovil správcem ve svém domě a nade vším, co měl, žehnal ⟦yhwh|Jahve|Hospodin⟧ domu toho ⟦egyptian|Micriho|Egypťana⟧ kvůli Josefovi; a požehnání ⟦yhwh|Jahveho|Hospodina⟧ spočívalo na všem, co měl, v domě i na poli.
 
-[6] Nechal tedy všechno, co měl, v Josephově ruce, a když měl on všechno na starosti, nestaral se o nic kromě jídla, které jedl.
+[6] Nechal tedy všechno, co měl, v Josefově ruce, a když měl on všechno na starosti, nestaral se o nic kromě jídla, které jedl.
 
-Joseph byl krásné postavy a krásného vzhledu.
+Josef byl krásné postavy a krásného vzhledu.
 
-[7] Po těchto událostech upřela manželka jeho pána oči na Josepha a řekla: „Lehni si se mnou.“
+[7] Po těchto událostech upřela manželka jeho pána oči na Josefa a řekla: „Lehni si se mnou.“
 
 [8] Ale on odmítl a řekl manželce svého pána: „Hle, se mnou tady se můj pán nestará o nic v domě a všechno, co má, svěřil do mé ruky.
 
-[9] V tomto domě není větší než já; a nic mi neodepřel kromě tebe, protože jsi jeho manželka. Jak bych tedy mohl spáchat toto veliké zlo a zhřešit proti *Elohim*?“
+[9] V tomto domě není větší než já; a nic mi neodepřel kromě tebe, protože jsi jeho manželka. Jak bych tedy mohl spáchat toto veliké zlo a zhřešit proti ⟦elohim|Elohim|Bohu⟧?“
 
-[10] A ačkoli k Josephovi mluvila den co den, neposlechl ji, aby si lehl vedle ní nebo byl s ní.
+[10] A ačkoli k Josefovi mluvila den co den, neposlechl ji, aby si lehl vedle ní nebo byl s ní.
 
 [11] Jednoho dne, když vešel do domu, aby dělal svou práci, nebyl uvnitř nikdo z mužů domu.
 
@@ -28,7 +28,7 @@ Joseph byl krásné postavy a krásného vzhledu.
 
 [13] Když viděla, že nechal svůj oděv v její ruce a utekl ven,
 
-[14] zavolala muže ze své domácnosti a řekla jim: „Podívejte, přivedl nám Hebrejce, aby si z nás tropil posměch! Přišel ke mně, aby se mnou ležel, a já jsem hlasitě vykřikla.
+[14] zavolala muže ze své domácnosti a řekla jim: „Podívejte, přivedl nám ⟦hebrew|Ivriho|Hebrejce⟧, aby si z nás tropil posměch! Přišel ke mně, aby se mnou ležel, a já jsem hlasitě vykřikla.
 
 [15] Když uslyšel, že jsem zvýšila hlas a vykřikla, nechal svůj oděv vedle mě a utekl ven.“
 
@@ -40,13 +40,13 @@ Joseph byl krásné postavy a krásného vzhledu.
 
 [19] Když jeho pán uslyšel slova, která mu jeho manželka řekla – „Takhle se ke mně tvůj služebník zachoval!“ –, velmi se rozhněval.
 
-[20] Josephův pán ho vzal a dal ho do domu vězení, na místo, kde byli drženi královi vězni; a byl tam v domě vězení.
+[20] Josefův pán ho vzal a dal ho do domu vězení, na místo, kde byli drženi královi vězni; a byl tam v domě vězení.
 
-[21] Ale Yahweh byl s Josephem a projevil mu věrnou lásku a dal mu přízeň v očích správce domu vězení.
+[21] Ale ⟦yhwh|Jahve|Hospodin⟧ byl s Josefem a projevil mu věrnou lásku a dal mu přízeň v očích správce domu vězení.
 
-[22] Správce domu vězení svěřil do Josephovy ruky všechny vězně, kteří byli v domě vězení; a cokoli se tam dělalo, byl to on, kdo to dělal.
+[22] Správce domu vězení svěřil do Josefovy ruky všechny vězně, kteří byli v domě vězení; a cokoli se tam dělalo, byl to on, kdo to dělal.
 
-[23] Správce domu vězení se nestaral o nic, co bylo v Josephově ruce, protože Yahweh byl s ním; a cokoli dělal, Yahweh tomu dával zdar.
+[23] Správce domu vězení se nestaral o nic, co bylo v Josefově ruce, protože ⟦yhwh|Jahve|Hospodin⟧ byl s ním; a cokoli dělal, ⟦yhwh|Jahve|Hospodin⟧ tomu dával zdar.
 
 ## Změny
 

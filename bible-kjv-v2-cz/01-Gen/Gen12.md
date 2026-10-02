@@ -1,6 +1,6 @@
 # Genesis 12
 
-[1] Yahweh řekl Abramovi: „Jdi ze své země, ze svého příbuzenstva a z domu svého otce do země, kterou ti ukážu.
+[1] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦abram|Avramovi|Abramovi⟧: „Jdi ze své země, ze svého příbuzenstva a z domu svého otce do země, kterou ti ukážu.
 
 [2] Učiním z tebe veliký národ,
 požehnám ti
@@ -11,39 +11,39 @@ a budeš požehnáním.
 a toho, kdo tebou pohrdá, prokleji;
 a v tobě naleznou požehnání všechny čeledi země.“
 
-[4] Tak Abram šel, jak mu Yahweh řekl, a Lot šel s ním. Abramovi bylo 75 let, když odešel z Haranu.
+[4] Tak ⟦abram|Avram|Abram⟧ šel, jak mu ⟦yhwh|Jahve|Hospodin⟧ řekl, a Lot šel s ním. ⟦abram|Avramovi|Abramovi⟧ bylo 75 let, když odešel z ⟦haran-city|Charanu|Cháranu⟧.
 
-[5] Abram vzal Sarai, svou ženu, a Lota, syna svého bratra, a všechen majetek, který nashromáždili, i lidi, které získali v Haranu, a vydali se na cestu do země Canaan. Když přišli do země Canaan,
+[5] ⟦abram|Avram|Abram⟧ vzal ⟦sarai|Saraj|Sáraj⟧, svou ženu, a Lota, syna svého bratra, a všechen majetek, který nashromáždili, i lidi, které získali v ⟦haran-city|Charanu|Cháranu⟧, a vydali se na cestu do země Kenaan. Když přišli do země Kenaan,
 
-[6] prošel Abram zemí až k místu Shechem, k dubu Moreh. V zemi tehdy byli Canaanité.
+[6] prošel ⟦abram|Avram|Abram⟧ zemí až k místu ⟦shechem|Šechem|Šekem⟧, k dubu ⟦moreh|More|Móre⟧. V zemi tehdy byli ⟦canaanites|Kenaanim|Kenaanci⟧.
 
-[7] Yahweh se ukázal Abramovi a řekl: „Tvému potomstvu dám tuto zemi.“ Postavil tam tedy oltář Yahweh, který se mu ukázal.
+[7] ⟦yhwh|Jahve|Hospodin⟧ se ukázal ⟦abram|Avramovi|Abramovi⟧ a řekl: „Tvému potomstvu dám tuto zemi.“ Postavil tam tedy oltář ⟦yhwh|Jahvovi|Hospodinu⟧, který se mu ukázal.
 
-[8] Odtud se přesunul do hornaté krajiny na východ od Bethelu a postavil svůj stan tak, že Bethel měl na západě a Ai na východě; a tam postavil oltář Yahweh a vzýval jméno Yahweh.
+[8] Odtud se přesunul do hornaté krajiny na východ od ⟦bethel|Bejt Elu|Bét-elu⟧ a postavil svůj stan tak, že ⟦bethel|Bejt El|Bét-el⟧ měl na západě a Aj na východě; a tam postavil oltář ⟦yhwh|Jahvovi|Hospodinu⟧ a vzýval jméno ⟦yhwh|Jahveho|Hospodina⟧.
 
-[9] A Abram putoval dál, stále vytrhával kolíky a táhl k Negev.
+[9] A ⟦abram|Avram|Abram⟧ putoval dál, stále vytrhával kolíky a táhl k ⟦negev|Negev|Negebu⟧.
 
-[10] V zemi nastal hlad a Abram sestoupil do Egypta, aby tam žil jako přistěhovalec, neboť hlad v zemi byl krutý.
+[10] V zemi nastal hlad a ⟦abram|Avram|Abram⟧ sestoupil do ⟦egypt|Micrajim|Egypta⟧, aby tam žil jako přistěhovalec, neboť hlad v zemi byl krutý.
 
-[11] Když se chystal vstoupit do Egypta, řekl Sarai, své ženě: „Hle, vím, že jsi žena krásného vzhledu.
+[11] Když se chystal vstoupit do ⟦egypt|Micrajim|Egypta⟧, řekl ⟦sarai|Saraj|Sáraj⟧, své ženě: „Hle, vím, že jsi žena krásného vzhledu.
 
-[12] Až tě Egypťané uvidí, řeknou: ‚To je jeho žena,‘ a mne zabijí, a tebe nechají naživu.
+[12] Až tě ⟦egyptians|Micrim|Egypťané⟧ uvidí, řeknou: ‚To je jeho žena,‘ a mne zabijí, a tebe nechají naživu.
 
 [13] Řekni prosím, že jsi má sestra, aby se mi kvůli tobě vedlo dobře a abych díky tobě zůstal naživu.“
 
-[14] Když Abram vstoupil do Egypta, Egypťané viděli, že ta žena je velmi krásná.
+[14] Když ⟦abram|Avram|Abram⟧ vstoupil do ⟦egypt|Micrajim|Egypta⟧, ⟦egyptians|Micrim|Egypťané⟧ viděli, že ta žena je velmi krásná.
 
-[15] A když ji uviděli Pharaohovi hodnostáři, vychvalovali ji před Pharaohem, a žena byla vzata do Pharaohova domu.
+[15] A když ji uviděli ⟦pharaoh|Parohovi|faraónovi⟧ hodnostáři, vychvalovali ji před ⟦pharaoh|Parohem|faraónem⟧, a žena byla vzata do ⟦pharaoh|Parohova|faraónova⟧ domu.
 
-[16] A kvůli ní jednal s Abramem dobře; a Abram získal ovce, skot, osly, otroky a otrokyně, oslice a velbloudy.
+[16] A kvůli ní jednal s ⟦abram|Avramem|Abramem⟧ dobře; a ⟦abram|Avram|Abram⟧ získal ovce, skot, osly, otroky a otrokyně, oslice a velbloudy.
 
-[17] Ale Yahweh kvůli Sarai, Abramově ženě, bil Pharaoha a jeho dům velikými ranami.
+[17] Ale ⟦yhwh|Jahve|Hospodin⟧ kvůli ⟦sarai|Saraj|Sáraj⟧, ⟦abram|Avramově|Abramově⟧ ženě, bil ⟦pharaoh|Paroha|faraóna⟧ a jeho dům velikými ranami.
 
-[18] Tu Pharaoh předvolal Abrama a řekl: „Co jsi mi to udělal? Proč jsi mi nepověděl, že je to tvá žena?
+[18] Tu ⟦pharaoh|Paro|farao⟧ předvolal ⟦abram|Avrama|Abrama⟧ a řekl: „Co jsi mi to udělal? Proč jsi mi nepověděl, že je to tvá žena?
 
 [19] Proč jsi řekl: ‚Je to má sestra,‘ takže jsem si ji vzal za ženu? Nuže, tu je tvá žena; vezmi ji a jdi.“
 
-[20] Pharaoh vydal o něm svým mužům rozkazy a ti ho propustili i s jeho ženou a se vším, co měl.
+[20] ⟦pharaoh|Paro|Farao⟧ vydal o něm svým mužům rozkazy a ti ho propustili i s jeho ženou a se vším, co měl.
 
 ## Změny
 

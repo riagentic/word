@@ -1,23 +1,23 @@
 # Jeremiah 15
 
-[1] Then Yahweh said to me, "Though Moses and Samuel stood before me, yet my heart would not turn toward this people. Send them out of my sight, and let them go!
+[1] Then ⟦yhwh|Yahweh|the LORD⟧ said to me, "Though ⟦moses|Moshe|Moses⟧ and ⟦samuel|Shmuel|Samuel⟧ stood before me, yet my heart would not turn toward this people. Send them out of my sight, and let them go!
 
-[2] And when they ask you, 'Where shall we go?' you shall say to them, 'Thus says Yahweh:
+[2] And when they ask you, 'Where shall we go?' you shall say to them, 'Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
 "'Those who are for pestilence, to pestilence,
 and those who are for the sword, to the sword;
 those who are for famine, to famine,
 and those who are for captivity, to captivity.'"
 
-[3] "I will appoint over them four kinds of destroyers, declares Yahweh: the sword to kill, the dogs to tear, and the birds of the air and the beasts of the earth to devour and destroy.
+[3] "I will appoint over them four kinds of destroyers, declares ⟦yhwh|Yahweh|the LORD⟧: the sword to kill, the dogs to tear, and the birds of the air and the beasts of the earth to devour and destroy.
 
-[4] And I will make them a horror to all the kingdoms of the earth because of what Manasseh son of Hezekiah, king of Judah, did in Jerusalem.
+[4] And I will make them a horror to all the kingdoms of the earth because of what ⟦manasseh|Menashe|Manasseh⟧ son of ⟦hezekiah|Chizqiyahu|Hezekiah⟧, king of ⟦judah|Yehudah|Judah⟧, did in ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[5] Who will have pity on you, O Jerusalem,
+[5] Who will have pity on you, O ⟦jerusalem|Yerushalayim|Jerusalem⟧,
 or who will grieve for you?
 Who will turn aside to ask about your welfare?
 
-[6] You have rejected me, declares Yahweh;
+[6] You have rejected me, declares ⟦yhwh|Yahweh|the LORD⟧;
 you keep going backward,
 so I have stretched out my hand against you and destroyed you —
 I am weary of relenting.
@@ -39,14 +39,14 @@ she has fainted away;
 her sun went down while it was yet day;
 she has been shamed and disgraced.
 And the rest of them I will give to the sword
-before their enemies, declares Yahweh."
+before their enemies, declares ⟦yhwh|Yahweh|the LORD⟧."
 
 [10] Woe is me, my mother, that you bore me,
 a man of strife and contention to the whole land!
 I have not lent, nor have I borrowed,
 yet all of them curse me.
 
-[11] Yahweh said: "Have I not set you free for your good? Have I not pleaded for you before the enemy in the time of trouble and in the time of distress?
+[11] ⟦yhwh|Yahweh|The LORD⟧ said: "Have I not set you free for your good? Have I not pleaded for you before the enemy in the time of trouble and in the time of distress?
 
 [12] Can one break iron, iron from the north, and bronze?
 
@@ -54,7 +54,7 @@ yet all of them curse me.
 
 [14] I will make you serve your enemies in a land that you do not know, for in my anger a fire is kindled that shall burn forever."
 
-[15] O Yahweh, you know;
+[15] O ⟦yhwh|Yahweh|LORD⟧, you know;
 remember me and visit me,
 and take vengeance for me on my persecutors.
 In your forbearance take me not away;
@@ -64,7 +64,7 @@ know that for your sake I bear reproach.
 and your words became to me a joy
 and the delight of my heart,
 for I am called by your name,
-O Yahweh, *Elohim* of Hosts.
+O ⟦yhwh|Yahweh|LORD⟧, ⟦elohim|Elohim|God⟧ of Hosts.
 
 [17] I did not sit in the company of revelers, nor did I rejoice;
 I sat alone, because your hand was upon me,
@@ -75,7 +75,7 @@ my wound incurable, refusing to be healed?
 Will you be to me like a deceitful brook,
 like waters that fail?
 
-[19] Therefore thus says Yahweh:
+[19] Therefore thus says ⟦yhwh|Yahweh|the LORD⟧:
 
 "If you return, I will restore you,
 and you shall stand before me.
@@ -89,7 +89,7 @@ a fortified wall of bronze;
 they will fight against you,
 but they shall not prevail over you,
 for I am with you
-to save you and deliver you, declares Yahweh.
+to save you and deliver you, declares ⟦yhwh|Yahweh|the LORD⟧.
 
 [21] I will deliver you out of the hand of the wicked,
 and redeem you from the grasp of the ruthless."

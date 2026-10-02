@@ -1,68 +1,68 @@
 # Genesis 10
 
-[1] Toto jsou rody Noahových synů – Shema, Hama a Japhetha –; po potopě se jim narodili synové.
+[1] Toto jsou rody ⟦noah|Noachových|Noemových⟧ synů – ⟦shem|Šema|Šéma⟧, Chama a Jefeta –; po potopě se jim narodili synové.
 
-[2] Synové Japhethovi: Gomer, Magog, Madai, Javan, Tubal, Meshech a Tiras.
+[2] Synové Jefetovi: Gomer, ⟦magog|Magog|Magóg⟧, Madaj, ⟦javan|Javan|Jávan⟧, ⟦tubal|Tuval|Túbal⟧, ⟦meshech|Mešech|Mešek⟧ a ⟦tiras|Tiras|Tíras⟧.
 
-[3] Synové Gomerovi: Ashkenaz, Riphath a Togarmah.
+[3] Synové Gomerovi: Aškenaz, ⟦riphath|Rifat|Rífat⟧ a ⟦togarmah|Togarma|Tógarma⟧.
 
-[4] Synové Javanovi: Elishah, Tarshish, Kittim a Rodanim.
+[4] Synové ⟦javan|Javanovi|Jávanovi⟧: ⟦elishah|Eliša|Elíša⟧, ⟦tarshish|Taršiš|Taršíš⟧, ⟦kittim|Kittim|Kitejci⟧ a ⟦rodanim|Rodanim|Dodanci⟧.
 
 [5] Od nich se rozšířily pobřežní národy do svých zemí, každý podle svého jazyka, podle svých čeledí, ve svých národech.
 
-[6] Synové Hamovi: Cush, Mizraim, Put a Canaan.
+[6] Synové Chamovi: ⟦cush|Kuš|Kúš⟧, ⟦egypt|Micrajim|Egypt⟧, ⟦put|Put|Pút⟧ a Kenaan.
 
-[7] Synové Cushovi: Seba, Havilah, Sabtah, Raamah a Sabteca. Synové Raamahovi: Sheba a Dedan.
+[7] Synové ⟦cush|Kušovi|Kúšovi⟧: ⟦seba|Seva|Seba⟧, ⟦havilah|Chavila|Chavíla⟧, ⟦sabtah|Savta|Sabta⟧, ⟦raamah|Raama|Raema⟧ a ⟦sabteca|Savtecha|Sabteka⟧. Synové ⟦raamah|Raamovi|Raemovi⟧: ⟦sheba|Ševa|Šeba⟧ a ⟦dedan|Dedan|Dedán⟧.
 
-[8] Cush zplodil Nimroda; ten byl první, kdo se stal mocným bojovníkem na zemi.
+[8] ⟦cush|Kuš|Kúš⟧ zplodil ⟦nimrod|Nimroda|Nimróda⟧; ten byl první, kdo se stal mocným bojovníkem na zemi.
 
-[9] Byl mocným lovcem před Yahweh; proto se říká: „Jako Nimrod, mocný lovec před Yahweh.“
+[9] Byl mocným lovcem před ⟦yhwh|Jahvem|Hospodinem⟧; proto se říká: „Jako ⟦nimrod|Nimrod|Nimród⟧, mocný lovec před ⟦yhwh|Jahvem|Hospodinem⟧.“
 
-[10] Počátkem jeho království byly Babel, Erech, Accad a Calneh v zemi Shinar.
+[10] Počátkem jeho království byly ⟦babel|Bavel|Bábel⟧, ⟦erech|Erech|Erek⟧, Akad a Kalne v zemi ⟦shinar|Šinar|Šineár⟧.
 
-[11] Z té země vyšel do Asshuru a vystavěl Nineveh, Rehoboth-Ir, Calah
+[11] Z té země vyšel do ⟦assyria|Aššuru|Asýrie⟧ a vystavěl ⟦nineveh|Ninve|Ninive⟧, ⟦rehoboth-ir|Rechovot Ir|Rechobót-ír⟧, Kelach
 
-[12] a Resen mezi Nineveh a Calahem; to je to veliké město.
+[12] a Resen mezi ⟦nineveh|Ninve|Ninive⟧ a Kelachem; to je to veliké město.
 
-[13] Mizraim zplodil Ludim, Anamim, Lehabim, Naphtuhim,
+[13] ⟦egypt|Micrajim|Egypt⟧ zplodil ⟦ludim|Ludim|Lúďany⟧, ⟦anamim|Anamim|Anámce⟧, ⟦lehabim|Lehavim|Lehábany⟧, ⟦naphtuhim|Naftuchim|Naftúchany⟧,
 
-[14] Pathrusim, Casluhim (z nichž vzešli Philistinci) a Caphtorim.
+[14] ⟦pathrusim|Patrusim|Patrúsany⟧, ⟦casluhim|Kasluchim|Kaslúchany⟧ (z nichž vzešli ⟦philistines|Pelištim|Pelištejci⟧) a ⟦caphtorim|Kaftorim|Kaftórce⟧.
 
-[15] Canaan zplodil Sidona, svého prvorozeného, a Hetha,
+[15] Kenaan zplodil ⟦sidon|Cidona|Sidóna⟧, svého prvorozeného, a Cheta,
 
-[16] a Jebusity, Amority, Girgashity,
+[16] a ⟦jebusites|Jevusim|Jebúsejce⟧, ⟦amorites|Emorim|Emorejce⟧, ⟦girgashites|Girgašim|Girgašejce⟧,
 
-[17] Hivity, Arkity, Sinity,
+[17] ⟦hivites|Chivvim|Chivejce⟧, ⟦arkites|Arkim|Arkejce⟧, ⟦sinites|Sinim|Síňana⟧,
 
-[18] Arvadity, Zemarity a Hamathity. Potom se čeledi Canaanitů rozšířily;
+[18] ⟦arvadites|Arvadim|Arvadce⟧, ⟦zemarites|Cemarim|Semárce⟧ a ⟦hamathites|Chamatim|Chamátce⟧. Potom se čeledi ⟦canaanites|Kenaanim|Kenaanců⟧ rozšířily;
 
-[19] a hranice Canaanitů sahala od Sidonu směrem ke Geraru až po Gazu a směrem k Sodomu, Gomorrah, Admah a Zeboiim až po Lashu.
+[19] a hranice ⟦canaanites|Kenaanim|Kenaanců⟧ sahala od ⟦sidon|Cidonu|Sidónu⟧ směrem ke Geraru až po ⟦gaza|Azzu|Gázu⟧ a směrem k ⟦sodom|Sedomu|Sodomě⟧, ⟦gomorrah|Amoře|Gomoře⟧, Admě a ⟦zeboiim|Cevojim|Sebojím⟧ až po Lešu.
 
-[20] To jsou synové Hamovi podle svých čeledí, podle svých jazyků, ve svých zemích, ve svých národech.
+[20] To jsou synové Chamovi podle svých čeledí, podle svých jazyků, ve svých zemích, ve svých národech.
 
-[21] Také Shemovi, otci všech synů Eberových, staršímu bratru Japhethovu, se narodily děti.
+[21] Také ⟦shem|Šemovi|Šémovi⟧, otci všech synů ⟦eber|Everových|Eberových⟧, staršímu bratru Jefetovu, se narodily děti.
 
-[22] Synové Shemovi: Elam, Asshur, Arpachshad, Lud a Aram.
+[22] Synové ⟦shem|Šemovi|Šémovi⟧: ⟦elam|Elam|Élam⟧, ⟦asshur|Aššur|Aššúr⟧, ⟦arpachshad|Arpachšad|Arpakšad⟧, ⟦lud|Lud|Lúd⟧ a Aram.
 
-[23] Synové Aramovi: Uz, Hul, Gether a Mash.
+[23] Synové Aramovi: ⟦uz|Uc|Ús⟧, ⟦hul|Chul|Chúl⟧, Geter a Maš.
 
-[24] Arpachshad zplodil Shelaha a Shelah zplodil Ebera.
+[24] ⟦arpachshad|Arpachšad|Arpakšad⟧ zplodil Šelacha a Šelach zplodil ⟦eber|Evera|Ebera⟧.
 
-[25] Eberovi se narodili dva synové; jeden se jmenoval Peleg, neboť za jeho dnů byla země rozdělena; a jeho bratr se jmenoval Joktan.
+[25] ⟦eber|Everovi|Eberovi⟧ se narodili dva synové; jeden se jmenoval Peleg, neboť za jeho dnů byla země rozdělena; a jeho bratr se jmenoval Joktan.
 
-[26] Joktan zplodil Almodada, Shelepha, Hazarmavetha, Jeraha,
+[26] Joktan zplodil ⟦almodad|Almodada|Almódada⟧, ⟦sheleph|Šalefa|Šelefa⟧, ⟦hazarmaveth|Chacarmaveta|Chasarmáveta⟧, Jeracha,
 
-[27] Hadorama, Uzala, Diklaha,
+[27] ⟦hadoram|Hadorama|Hadórama⟧, ⟦uzal|Uzala|Úzala⟧, Diklu,
 
-[28] Obala, Abimaela, Shebu,
+[28] ⟦obal|Ovala|Obala⟧, ⟦abimael|Avimaela|Abímaela⟧, ⟦sheba|Ševu|Šebu⟧,
 
-[29] Ophira, Havilaha a Jobaba; ti všichni byli synové Joktanovi.
+[29] ⟦ophir|Ofira|Ofíra⟧, ⟦havilah|Chavilu|Chavílu⟧ a ⟦jobab|Jovava|Jobaba⟧; ti všichni byli synové Joktanovi.
 
-[30] Jejich sídla sahala od Meshy směrem k Sepharu, k hoře na východě.
+[30] Jejich sídla sahala od ⟦mesha|Mešy|Méši⟧ směrem k Sefaru, k hoře na východě.
 
-[31] To jsou synové Shemovi podle svých čeledí, podle svých jazyků, ve svých zemích, ve svých národech.
+[31] To jsou synové ⟦shem|Šemovi|Šémovi⟧ podle svých čeledí, podle svých jazyků, ve svých zemích, ve svých národech.
 
-[32] To jsou čeledi Noahových synů podle jejich rodů, v jejich národech; a z nich se po potopě rozšířily národy po zemi.
+[32] To jsou čeledi ⟦noah|Noachových|Noemových⟧ synů podle jejich rodů, v jejich národech; a z nich se po potopě rozšířily národy po zemi.
 
 ## Změny
 

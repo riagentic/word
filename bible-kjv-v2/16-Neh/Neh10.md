@@ -1,82 +1,82 @@
 # Nehemiah 10
 
-[1] Those who set their seals were: Nehemiah the Governor son of Hachaliah, and Zedekiah,
+[1] Those who set their seals were: ⟦nehemiah|Nechemyah|Nehemiah⟧ the Governor son of ⟦hachaliah|Chachalyah|Hacaliah⟧, and ⟦zedekiah|Tzidqiyahu|Zedekiah⟧,
 
-[2] Seraiah, Azariah, Jeremiah,
+[2] ⟦seraiah|Serayah|Seraiah⟧, ⟦azariah|Azaryah|Azariah⟧, ⟦jeremiah|Yirmeyahu|Jeremiah⟧,
 
-[3] Pashhur, Amariah, Malchijah,
+[3] ⟦pashhur|Pashchur|Pashhur⟧, ⟦amariah|Amaryah|Amariah⟧, ⟦malchijah|Malkiyah|Malchijah⟧,
 
-[4] Hattush, Shebaniah, Malluch,
+[4] ⟦hattush|Chattush|Hattush⟧, ⟦shebaniah|Shevanyah|Shebaniah⟧, Malluch,
 
-[5] Harim, Meremoth, Obadiah,
+[5] ⟦harim|Charim|Harim⟧, ⟦meremoth|Meremot|Meremoth⟧, ⟦obadiah|Ovadyahu|Obadiah⟧,
 
-[6] Daniel, Ginnethon, Baruch,
+[6] ⟦daniel|Daniyel|Daniel⟧, ⟦ginnethon|Ginneton|Ginnethon⟧, Baruch,
 
-[7] Meshullam, Abijah, Mijamin,
+[7] Meshullam, ⟦abijah|Aviyah|Abijah⟧, ⟦mijamin|Miyyamin|Mijamin⟧,
 
-[8] Maaziah, Bilgai, Shemaiah — these were the priests.
+[8] ⟦maaziah|Maazyah|Maaziah⟧, Bilgai, ⟦shemaiah|Shemayah|Shemaiah⟧ — these were the priests.
 
-[9] The Levites: Jeshua son of Azaniah, Binnui of the sons of Henadad, Kadmiel,
+[9] The ⟦levites|Leviyim|Levites⟧: ⟦jeshua|Yeshua|Jeshua⟧ son of ⟦azaniah|Azanyah|Azaniah⟧, Binnui of the sons of ⟦henadad|Chenadad|Henadad⟧, ⟦kadmiel|Qadmiel|Kadmiel⟧,
 
-[10] and their brothers Shebaniah, Hodiah, Kelita, Pelaiah, Hanan,
+[10] and their brothers ⟦shebaniah|Shevanyah|Shebaniah⟧, ⟦hodiah|Hodiyah|Hodiah⟧, ⟦kelita|Qelita|Kelita⟧, ⟦pelaiah|Pelayah|Pelaiah⟧, ⟦hanan|Chanan|Hanan⟧,
 
-[11] Mica, Rehob, Hashabiah,
+[11] ⟦mica|Micha|Mica⟧, ⟦rehob|Rechov|Rehob⟧, ⟦hashabiah|Chashavyah|Hashabiah⟧,
 
-[12] Zaccur, Sherebiah, Shebaniah,
+[12] ⟦zaccur|Zakkur|Zaccur⟧, ⟦sherebiah|Sherevyah|Sherebiah⟧, ⟦shebaniah|Shevanyah|Shebaniah⟧,
 
-[13] Hodiah, Bani, Beninu.
+[13] ⟦hodiah|Hodiyah|Hodiah⟧, Bani, Beninu.
 
-[14] The heads of the people: Parosh, Pahath-moab, Elam, Zattu, Bani,
+[14] The heads of the people: Parosh, ⟦pahath-moab|Pachat-Moav|Pahath-moab⟧, Elam, Zattu, Bani,
 
-[15] Bunni, Azgad, Bebai,
+[15] Bunni, Azgad, ⟦bebai|Bevai|Bebai⟧,
 
-[16] Adonijah, Bigvai, Adin,
+[16] ⟦adonijah|Adoniyahu|Adonijah⟧, Bigvai, Adin,
 
-[17] Ater, Hezekiah, Azzur,
+[17] Ater, ⟦hezekiah|Chizqiyahu|Hezekiah⟧, Azzur,
 
-[18] Hodiah, Hashum, Bezai,
+[18] ⟦hodiah|Hodiyah|Hodiah⟧, ⟦hashum|Chashum|Hashum⟧, ⟦bezai|Betzai|Bezai⟧,
 
-[19] Hariph, Anathoth, Nebai,
+[19] ⟦hariph|Charif|Hariph⟧, ⟦anathoth|Anatot|Anathoth⟧, ⟦nebai|Neivai|Nebai⟧,
 
-[20] Magpiash, Meshullam, Hezir,
+[20] Magpiash, Meshullam, ⟦hezir|Chezir|Hezir⟧,
 
-[21] Meshezabel, Zadok, Jaddua,
+[21] ⟦meshezabel|Meshezavel|Meshezabel⟧, ⟦zadok|Tzadoq|Zadok⟧, ⟦jaddua|Yaddua|Jaddua⟧,
 
-[22] Pelatiah, Hanan, Anaiah,
+[22] ⟦pelatiah|Pelatyah|Pelatiah⟧, ⟦hanan|Chanan|Hanan⟧, ⟦anaiah|Anayah|Anaiah⟧,
 
-[23] Hoshea, Hananiah, Hasshub,
+[23] Hoshea, ⟦hananiah|Chananyah|Hananiah⟧, ⟦hasshub|Chashshuv|Hasshub⟧,
 
-[24] Hallohesh, Pilha, Shobek,
+[24] ⟦hallohesh|HaLochesh|Hallohesh⟧, ⟦pilha|Pilcha|Pilha⟧, ⟦shobek|Shovek|Shobek⟧,
 
-[25] Rehum, Hashabnah, Maaseiah,
+[25] ⟦rehum|Rechum|Rehum⟧, ⟦hashabnah|Chashavnah|Hashabnah⟧, ⟦maaseiah|Maaseyah|Maaseiah⟧,
 
-[26] Ahijah, Hanan, Anan,
+[26] ⟦ahijah|Achiyah|Ahiah⟧, ⟦hanan|Chanan|Hanan⟧, Anan,
 
-[27] Malluch, Harim, Baanah.
+[27] Malluch, ⟦harim|Charim|Harim⟧, Baanah.
 
-[28] The rest of the people — the priests, the Levites, the gatekeepers, the singers, the temple servants, and all who had separated themselves from the peoples of the lands to the Law of *Elohim*, along with their wives, sons, and daughters — all who had knowledge and understanding —
+[28] The rest of the people — the priests, the ⟦levites|Leviyim|Levites⟧, the gatekeepers, the singers, the ⟦nethinim|Netinim|temple servants⟧, and all who had separated themselves from the peoples of the lands to the ⟦torah|Torah|Law⟧ of ⟦elohim|Elohim|God⟧, along with their wives, sons, and daughters — all who had knowledge and understanding —
 
-[29] joined their brothers, their nobles, and entered into an imprecation and an oath to walk in the Law of *Elohim*, given through Moses the servant of *Elohim*, and to observe and do all the commandments of Yahweh our Lord, his ordinances and his statutes:
+[29] joined their brothers, their nobles, and entered into an imprecation and an oath to walk in the ⟦torah|Torah|Law⟧ of ⟦elohim|Elohim|God⟧, given through ⟦moses|Moshe|Moses⟧ the servant of ⟦elohim|Elohim|God⟧, and to observe and do all the commandments of ⟦yhwh|Yahweh|the LORD⟧ our Lord, his ordinances and his statutes:
 
 [30] "We will not give our daughters to the peoples of the lands, nor take their daughters for our sons.
 
-[31] If the peoples of the lands bring wares or any grain on the Sabbath day to sell, we will not buy from them on the Sabbath or on a holy day. We will forgo the produce of the seventh year and the exaction of every debt.
+[31] If the peoples of the lands bring wares or any grain on the ⟦shabbat|Shabbat|Sabbath⟧ day to sell, we will not buy from them on the ⟦shabbat|Shabbat|Sabbath⟧ or on a holy day. We will forgo the produce of the seventh year and the exaction of every debt.
 
-[32] We imposed on ourselves an obligation to charge ourselves yearly a third of a shekel for the service of the house of our *Elohim*:
+[32] We imposed on ourselves an obligation to charge ourselves yearly a third of a shekel for the service of the house of our ⟦elohim|Elohim|God⟧:
 
-[33] for the bread of the Presence, for the continual grain offering, the continual burnt offering, for the Sabbaths, the new moons, the appointed feasts, the consecrated things, the sin offerings to make atonement for Israel, and for all the work of the house of our *Elohim*.
+[33] for the bread of the Presence, for the continual grain offering, the continual burnt offering, for the ⟦shabbat|Shabbatot|Sabbaths⟧, the new moons, the appointed feasts, the consecrated things, the sin offerings to make atonement for ⟦israel|Yisrael|Israel⟧, and for all the work of the house of our ⟦elohim|Elohim|God⟧.
 
-[34] We also cast lots — the priests, the Levites, and the people — for the wood offering, to bring it into the house of our *Elohim*, by our fathers' houses, at appointed times year by year, to burn on the altar of Yahweh our *Elohim*, as it is written in the Law.
+[34] We also cast lots — the priests, the ⟦levites|Leviyim|Levites⟧, and the people — for the wood offering, to bring it into the house of our ⟦elohim|Elohim|God⟧, by our fathers' houses, at appointed times year by year, to burn on the altar of ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧, as it is written in the ⟦torah|Torah|Law⟧.
 
-[35] We obligated ourselves to bring the firstfruits of our ground and the firstfruits of all fruit of every tree, year by year, to the house of Yahweh;
+[35] We obligated ourselves to bring the firstfruits of our ground and the firstfruits of all fruit of every tree, year by year, to the house of ⟦yhwh|Yahweh|the LORD⟧;
 
-[36] also the firstborn of our sons and of our cattle, as it is written in the Law, and the firstlings of our herds and our flocks, to the house of our *Elohim*, to the priests who minister in the house of our *Elohim*;
+[36] also the firstborn of our sons and of our cattle, as it is written in the ⟦torah|Torah|Law⟧, and the firstlings of our herds and our flocks, to the house of our ⟦elohim|Elohim|God⟧, to the priests who minister in the house of our ⟦elohim|Elohim|God⟧;
 
-[37] and to bring the firstfruits of our coarse meal, our contributions, the fruit of every tree, the new wine, and the oil, to the priests, to the storerooms of the house of our *Elohim*; and the tithe of our ground to the Levites — for the Levites collect the tithes in all the towns of our tillage.
+[37] and to bring the firstfruits of our coarse meal, our contributions, the fruit of every tree, the new wine, and the oil, to the priests, to the storerooms of the house of our ⟦elohim|Elohim|God⟧; and the tithe of our ground to the ⟦levites|Leviyim|Levites⟧ — for the ⟦levites|Leviyim|Levites⟧ collect the tithes in all the towns of our tillage.
 
-[38] The priest, a son of Aaron, shall be with the Levites when the Levites receive the tithes; the Levites shall bring up a tenth of the tithes to the house of our *Elohim*, to the chambers of the storehouse.
+[38] The priest, a son of ⟦aaron|Aharon|Aaron⟧, shall be with the ⟦levites|Leviyim|Levites⟧ when the ⟦levites|Leviyim|Levites⟧ receive the tithes; the ⟦levites|Leviyim|Levites⟧ shall bring up a tenth of the tithes to the house of our ⟦elohim|Elohim|God⟧, to the chambers of the storehouse.
 
-[39] For the children of Israel and the children of Levi shall bring the contribution of the grain, the new wine, and the oil to the chambers, where the vessels of the sanctuary are, and where the ministering priests, the gatekeepers, and the singers are. We will not forsake the house of our *Elohim*."
+[39] For the children of ⟦israel|Yisrael|Israel⟧ and the children of Levi shall bring the contribution of the grain, the new wine, and the oil to the chambers, where the vessels of the sanctuary are, and where the ministering priests, the gatekeepers, and the singers are. We will not forsake the house of our ⟦elohim|Elohim|God⟧."
 
 ## Changes
 

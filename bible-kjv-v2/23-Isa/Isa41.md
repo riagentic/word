@@ -17,7 +17,7 @@ by paths his feet have not trod.
 
 [4] Who has performed and done this,
 calling the generations from the beginning?
-I, Yahweh, the first,
+I, ⟦yhwh|Yahweh|the LORD⟧, the first,
 and with the last; I am he.
 
 [5] The coastlands have seen and are afraid;
@@ -33,9 +33,9 @@ saying of the soldering, "It is good";
 and they strengthen it with nails
 so that it cannot be moved.
 
-[8] But you, Israel, my servant,
-Jacob, whom I have chosen,
-the offspring of Abraham, my friend;
+[8] But you, ⟦israel|Yisrael|Israel⟧, my servant,
+⟦jacob|Yaaqov|Jacob⟧, whom I have chosen,
+the offspring of ⟦abraham|Avraham|Abraham⟧, my friend;
 
 [9] you whom I took from the ends of the earth,
 and called from its farthest corners,
@@ -43,7 +43,7 @@ saying to you, "You are my servant,
 I have chosen you and not cast you off";
 
 [10] fear not, for I am with you;
-be not dismayed, for I am your *Elohim*;
+be not dismayed, for I am your ⟦elohim|Elohim|God⟧;
 I will strengthen you, I will help you,
 I will uphold you with my righteous right hand.
 
@@ -57,15 +57,15 @@ but you shall not find them;
 those who war against you
 shall be as nothing at all.
 
-[13] For I, Yahweh your *Elohim*,
+[13] For I, ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧,
 hold your right hand;
 it is I who say to you, "Fear not,
 I am the one who helps you."
 
-[14] Fear not, you worm Jacob,
-you men of Israel!
-I am the one who helps you, declares Yahweh;
-your Redeemer — is the Holy One of Israel.
+[14] Fear not, you worm ⟦jacob|Yaaqov|Jacob⟧,
+you men of ⟦israel|Yisrael|Israel⟧!
+I am the one who helps you, declares ⟦yhwh|Yahweh|the LORD⟧;
+your Redeemer — is the Holy One of ⟦israel|Yisrael|Israel⟧.
 
 [15] Behold, I make of you a threshing sledge,
 new, sharp, and having teeth;
@@ -74,14 +74,14 @@ and you shall make the hills like chaff;
 
 [16] you shall winnow them, and the wind shall carry them away,
 and the tempest shall scatter them.
-And you shall rejoice in Yahweh;
-in the Holy One of Israel you shall glory.
+And you shall rejoice in ⟦yhwh|Yahweh|the LORD⟧;
+in the Holy One of ⟦israel|Yisrael|Israel⟧ you shall glory.
 
 [17] When the poor and needy seek water,
 and there is none,
 and their tongue is parched with thirst,
-I, Yahweh, will answer them;
-I the *Elohim* of Israel will not forsake them.
+I, ⟦yhwh|Yahweh|the LORD⟧, will answer them;
+I the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧ will not forsake them.
 
 [18] I will open rivers on the bare heights,
 and fountains in the midst of the valleys.
@@ -95,11 +95,11 @@ the plane and the pine together,
 
 [20] that they may see and know,
 may consider and understand together,
-that the hand of Yahweh has done this,
-the Holy One of Israel has created it.
+that the hand of ⟦yhwh|Yahweh|the LORD⟧ has done this,
+the Holy One of ⟦israel|Yisrael|Israel⟧ has created it.
 
-[21] Set forth your case, says Yahweh;
-bring your proofs, says the King of Jacob.
+[21] Set forth your case, says ⟦yhwh|Yahweh|the LORD⟧;
+bring your proofs, says the King of ⟦jacob|Yaaqov|Jacob⟧.
 
 [22] Let them bring them, and tell us
 what is to happen.
@@ -127,8 +127,8 @@ and beforehand, that we might say, "He is right"?
 There was none who declared it, none who proclaimed,
 none who heard your words.
 
-[27] I was the first to say to Zion, "Behold, here they are!"
-and I give to Jerusalem a herald of good news.
+[27] I was the first to say to ⟦zion|Tziyon|Zion⟧, "Behold, here they are!"
+and I give to ⟦jerusalem|Yerushalayim|Jerusalem⟧ a herald of good news.
 
 [28] But when I look, there is no one;
 among these there is no counselor

@@ -2,7 +2,7 @@
 
 [1] Bratři, je-li někdo přistižen při nějakém přestupku, vy, kteří jste duchovní, ho napravujte v duchu mírnosti. Dávej pozor sám na sebe, abys nebyl pokoušen i ty.
 
-[2] **Neste břemena jeden druhého, a tak naplníte zákon *Mashiacha*.**
+[2] **Neste břemena jeden druhého, a tak naplníte zákon ⟦mashiach|Mašiacha|Krista⟧.**
 
 [3] Myslí-li si totiž někdo, že je něčím, ačkoli není ničím, klame sám sebe.
 
@@ -12,7 +12,7 @@
 
 [6] Kdo je vyučován ve slově, ať se dělí o všechno dobré s tím, kdo ho vyučuje.
 
-[7] **Nemylte se: *Elohim* se nedá posmívat; neboť co člověk zaseje, to také sklidí.**
+[7] **Nemylte se: ⟦elohim|Elohim|Bůh⟧ se nedá posmívat; neboť co člověk zaseje, to také sklidí.**
 
 [8] Kdo seje pro své tělo, sklidí z těla zkázu; kdo však seje pro Ducha, sklidí z Ducha věčný život.
 
@@ -22,19 +22,19 @@
 
 [11] Podívejte se, jak velkými písmeny vám píšu vlastní rukou.
 
-[12] Ti, kdo se chtějí dobře předvést v těle, vás nutí k obřízce, a to jen proto, aby nebyli pronásledováni pro kříž *Mashiacha*.
+[12] Ti, kdo se chtějí dobře předvést v těle, vás nutí k obřízce, a to jen proto, aby nebyli pronásledováni pro kříž ⟦mashiach|Mašiacha|Krista⟧.
 
-[13] Ani ti, kdo jsou obřezáni, totiž sami nedodržují Torah, ale chtějí, abyste se dali obřezat, aby se mohli chlubit vaším tělem.
+[13] Ani ti, kdo jsou obřezáni, totiž sami nedodržují ⟦torah|Tóru|zákon⟧, ale chtějí, abyste se dali obřezat, aby se mohli chlubit vaším tělem.
 
-[14] Mne však chraň, abych se chlubil něčím jiným než křížem našeho Pána *Yeshuy Mashiacha*, skrze nějž je svět ukřižován mně a já světu.
+[14] Mne však chraň, abych se chlubil něčím jiným než křížem našeho Pána ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧, skrze nějž je svět ukřižován mně a já světu.
 
 [15] Neboť nic neznamená ani obřízka, ani neobřízka, nýbrž nové stvoření.
 
-[16] A všem, kdo se budou řídit tímto pravidlem, pokoj a milosrdenství na ně i na Israel *Elohim*.
+[16] A všem, kdo se budou řídit tímto pravidlem, pokoj a milosrdenství na ně i na ⟦israel|Jisrael|Izrael⟧ ⟦elohim|Elohim|Boží⟧.
 
-[17] Ať mi už nikdo nepůsobí potíže, neboť nosím na svém těle znamení *Yeshuy*.
+[17] Ať mi už nikdo nepůsobí potíže, neboť nosím na svém těle znamení ⟦yeshua|Ješuy|Ježíše⟧.
 
-[18] Milost našeho Pána *Yeshuy Mashiacha* buď s vaším duchem, bratři. Amen.
+[18] Milost našeho Pána ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧ buď s vaším duchem, bratři. Amen.
 
 ## Změny
 

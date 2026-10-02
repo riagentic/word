@@ -1,6 +1,6 @@
 # Jeremiah 5
 
-[1] "Run to and fro through the streets of Jerusalem,
+[1] "Run to and fro through the streets of ⟦jerusalem|Yerushalayim|Jerusalem⟧,
 look and take note!
 Search her squares to see
 if you can find a man,
@@ -8,10 +8,10 @@ one who does justice
 and seeks truth,
 that I may pardon her.
 
-[2] Though they say, 'As Yahweh lives,'
+[2] Though they say, 'As ⟦yhwh|Yahweh|the LORD⟧ lives,'
 yet they swear falsely."
 
-[3] O Yahweh, do not your eyes look for truth?
+[3] O ⟦yhwh|Yahweh|LORD⟧, do not your eyes look for truth?
 You have struck them down,
 but they felt no anguish;
 you have consumed them,
@@ -21,13 +21,13 @@ they have refused to repent.
 
 [4] Then I said, "These are only the poor;
 they have no sense;
-for they do not know the way of Yahweh,
-the justice of their *Elohim*.
+for they do not know the way of ⟦yhwh|Yahweh|the LORD⟧,
+the justice of their ⟦elohim|Elohim|God⟧.
 
 [5] I will go to the great
 and will speak to them,
-for they know the way of Yahweh,
-the justice of their *Elohim*."
+for they know the way of ⟦yhwh|Yahweh|the LORD⟧,
+the justice of their ⟦elohim|Elohim|God⟧."
 But they all alike had broken the yoke;
 they had burst the bonds.
 
@@ -49,20 +49,20 @@ and trooped to the houses of whores.
 each neighing for his neighbor's wife.
 
 [9] Shall I not punish them for these things?
-declares Yahweh;
+declares ⟦yhwh|Yahweh|the LORD⟧;
 and shall I not avenge myself
 on a nation such as this?
 
 [10] Go up through her vine rows and destroy,
 but make not a full end;
 strip away her branches,
-for they are not Yahweh's.
+for they are not ⟦yhwh|Yahweh's|the LORD's⟧.
 
-[11] For the house of Israel and the house of Judah
+[11] For the house of ⟦israel|Yisrael|Israel⟧ and the house of ⟦judah|Yehudah|Judah⟧
 have been utterly treacherous to me,
-declares Yahweh.
+declares ⟦yhwh|Yahweh|the LORD⟧.
 
-[12] They have spoken falsely of Yahweh
+[12] They have spoken falsely of ⟦yhwh|Yahweh|the LORD⟧
 and have said, 'He will do nothing;
 no disaster will come upon us,
 nor shall we see sword or famine.
@@ -71,14 +71,14 @@ nor shall we see sword or famine.
 the word is not in them.
 Thus shall it be done to them!'"
 
-[14] Therefore thus says Yahweh, *Elohim* of Hosts:
+[14] Therefore thus says ⟦yhwh|Yahweh|the LORD⟧, ⟦elohim|Elohim|God⟧ of Hosts:
 
 "Because they have spoken this word,
 behold, I am making my words in your mouth a fire,
 and this people wood, and the fire shall consume them.
 
 [15] Behold, I am bringing against you
-a nation from afar, O house of Israel, declares Yahweh.
+a nation from afar, O house of ⟦israel|Yisrael|Israel⟧, declares ⟦yhwh|Yahweh|the LORD⟧.
 It is an enduring nation; it is an ancient nation,
 a nation whose language you do not know,
 nor can you understand what they say.
@@ -93,18 +93,18 @@ they shall eat up your vines and your fig trees;
 your fortified cities in which you trust
 they shall beat down with the sword."
 
-[18] "But even in those days, declares Yahweh, I will not make a full end of you.
+[18] "But even in those days, declares ⟦yhwh|Yahweh|the LORD⟧, I will not make a full end of you.
 
-[19] And when your people say, 'Why has Yahweh our *Elohim* done all these things to us?' you shall say to them, 'As you have forsaken me and served foreign gods in your land, so you shall serve foreigners in a land that is not yours.'
+[19] And when your people say, 'Why has ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧ done all these things to us?' you shall say to them, 'As you have forsaken me and served foreign gods in your land, so you shall serve foreigners in a land that is not yours.'
 
-[20] Declare this in the house of Jacob;
-proclaim it in Judah:
+[20] Declare this in the house of ⟦jacob|Yaaqov|Jacob⟧;
+proclaim it in ⟦judah|Yehudah|Judah⟧:
 
 [21] Hear this, O foolish and senseless people,
 who have eyes, but see not,
 who have ears, but hear not.
 
-[22] Do you not fear me? declares Yahweh.
+[22] Do you not fear me? declares ⟦yhwh|Yahweh|the LORD⟧.
 Do you not tremble before me?
 I placed the sand as the boundary for the sea,
 a perpetual barrier that it cannot pass;
@@ -115,7 +115,7 @@ though they roar, they cannot pass over it.
 they have turned aside and gone away.
 
 [24] They do not say in their hearts,
-'Let us fear Yahweh our *Elohim*,
+'Let us fear ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧,
 who gives the rain in its season,
 the autumn rain and the spring rain,
 and keeps for us the weeks appointed for the harvest.'
@@ -139,7 +139,7 @@ the cause of the fatherless, to make it prosper,
 and they do not defend the rights of the needy.
 
 [29] Shall I not punish them for these things?
-declares Yahweh,
+declares ⟦yhwh|Yahweh|the LORD⟧,
 and shall I not avenge myself
 on a nation such as this?
 

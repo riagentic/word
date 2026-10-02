@@ -8,7 +8,7 @@
 
 [4] You shall not see your brother's donkey or his ox fallen down by the way and hide yourself from them; you shall surely help him to lift them up again.
 
-[5] A woman shall not wear a man's apparel, nor shall a man put on a woman's garment, for whoever does these things is an abomination to Yahweh your *Elohim*.
+[5] A woman shall not wear a man's apparel, nor shall a man put on a woman's garment, for whoever does these things is an abomination to ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
 [6] If you come across a bird's nest in the way — in any tree or on the ground, with young ones or eggs, and the mother sitting on the young or on the eggs — you shall not take the mother with the young.
 
@@ -36,13 +36,13 @@
 
 [18] The elders of that city shall take the man and discipline him,
 
-[19] and they shall fine him a hundred shekels of silver and give them to the father of the young woman, because he has brought an evil name on a virgin of Israel. She shall remain his wife; he may not divorce her all his days.
+[19] and they shall fine him a hundred shekels of silver and give them to the father of the young woman, because he has brought an evil name on a virgin of ⟦israel|Yisrael|Israel⟧. She shall remain his wife; he may not divorce her all his days.
 
 [20] But if this thing is true — no evidence of virginity is found for the young woman —
 
-[21] then they shall bring the young woman to the doorway of her father's house, and the men of her city shall stone her to death with stones, because she has done a shameful thing in Israel, whoring in her father's house. So you shall purge the evil from your midst.
+[21] then they shall bring the young woman to the doorway of her father's house, and the men of her city shall stone her to death with stones, because she has done a shameful thing in ⟦israel|Yisrael|Israel⟧, whoring in her father's house. So you shall purge the evil from your midst.
 
-[22] If a man is found lying with a woman married to a husband, then both of them shall die — the man who lay with the woman, and the woman. So you shall purge the evil from Israel.
+[22] If a man is found lying with a woman married to a husband, then both of them shall die — the man who lay with the woman, and the woman. So you shall purge the evil from ⟦israel|Yisrael|Israel⟧.
 
 [23] If there is a young woman who is a virgin betrothed to a man, and another man finds her in the city and lies with her,
 

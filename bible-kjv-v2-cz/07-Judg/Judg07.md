@@ -1,54 +1,54 @@
 # Soudců 7
 
-[1] Jerubbaal (to je Gideon) a všechen lid, který byl s ním, časně vstali a utábořili se u pramene Harod, takže tábor Midianu byl severně od nich, u pahorku Moreh, v údolí.
+[1] Jerubbaal (to je ⟦gideon|Gidon|Gedeón⟧) a všechen lid, který byl s ním, časně vstali a utábořili se u pramene ⟦harod|Charod|Charód⟧, takže tábor ⟦midian|Midjanu|Midjánu⟧ byl severně od nich, u pahorku ⟦moreh|More|Móre⟧, v údolí.
 
-[2] Yahweh řekl Gideonovi: „Lidu, který je s tebou, je příliš mnoho na to, abych jim vydal Midian do ruky; aby se Israel nevychloubal proti mně: ‚Má vlastní ruka mě vysvobodila.‘
+[2] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦gideon|Gidonovi|Gedeónovi⟧: „Lidu, který je s tebou, je příliš mnoho na to, abych jim vydal ⟦midian|Midjan|Midján⟧ do ruky; aby se ⟦israel|Jisrael|Izrael⟧ nevychloubal proti mně: ‚Má vlastní ruka mě vysvobodila.‘
 
-[3] Nyní tedy vyhlas před lidem: ‚Kdo se bojí a třese, ať se vrátí a odejde z hory Gilead.‘“ I vrátilo se z lidu 22 000 a zůstalo 10 000.
+[3] Nyní tedy vyhlas před lidem: ‚Kdo se bojí a třese, ať se vrátí a odejde z hory ⟦gilead|Gilad|Gileád⟧.‘“ I vrátilo se z lidu 22 000 a zůstalo 10 000.
 
-[4] Yahweh řekl Gideonovi: „Lidu je stále příliš mnoho. Doveď je dolů k vodě a tam ti je vyzkouším. O kom ti řeknu: ‚Tento půjde s tebou,‘ ten s tebou půjde; a o kom ti řeknu: ‚Tento s tebou nepůjde,‘ ten nepůjde.“
+[4] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦gideon|Gidonovi|Gedeónovi⟧: „Lidu je stále příliš mnoho. Doveď je dolů k vodě a tam ti je vyzkouším. O kom ti řeknu: ‚Tento půjde s tebou,‘ ten s tebou půjde; a o kom ti řeknu: ‚Tento s tebou nepůjde,‘ ten nepůjde.“
 
-[5] Dovedl tedy lid dolů k vodě a Yahweh řekl Gideonovi: „Každého, kdo bude chlemtat vodu jazykem, jako chlemtá pes, postav zvlášť; stejně tak každého, kdo si klekne, aby pil.“
+[5] Dovedl tedy lid dolů k vodě a ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦gideon|Gidonovi|Gedeónovi⟧: „Každého, kdo bude chlemtat vodu jazykem, jako chlemtá pes, postav zvlášť; stejně tak každého, kdo si klekne, aby pil.“
 
 [6] Počet těch, kdo chlemtali, když si podávali vodu rukou k ústům, byl tři sta mužů; všechen ostatní lid si klekl, aby pil vodu.
 
-[7] Yahweh řekl Gideonovi: „Těmi třemi sty muži, kteří chlemtali, vás zachráním a vydám Midian do tvé ruky. Všechen ostatní lid ať jde každý na své místo.“
+[7] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦gideon|Gidonovi|Gedeónovi⟧: „Těmi třemi sty muži, kteří chlemtali, vás zachráním a vydám ⟦midian|Midjan|Midján⟧ do tvé ruky. Všechen ostatní lid ať jde každý na své místo.“
 
-[8] Lid si tedy vzal do rukou zásoby a své rohy; a on poslal všechny ostatní muže Israele každého k jeho stanu a ponechal si tři sta mužů. Tábor Midianu byl pod ním v údolí.
+[8] Lid si tedy vzal do rukou zásoby a své rohy; a on poslal všechny ostatní muže ⟦israel|Jisraele|Izraele⟧ každého k jeho stanu a ponechal si tři sta mužů. Tábor ⟦midian|Midjanu|Midjánu⟧ byl pod ním v údolí.
 
-[9] Téže noci mu Yahweh řekl: „Vstaň, sestup proti táboru, neboť jsem ti jej vydal do ruky.
+[9] Téže noci mu ⟦yhwh|Jahve|Hospodin⟧ řekl: „Vstaň, sestup proti táboru, neboť jsem ti jej vydal do ruky.
 
-[10] Bojíš-li se však sestoupit, sestup se svým služebníkem Purahem dolů k táboru;
+[10] Bojíš-li se však sestoupit, sestup se svým služebníkem ⟦purah|Purou|Púrou⟧ dolů k táboru;
 
-[11] uslyšíš, co říkají, a potom se tvé ruce posilní, abys sestoupil proti táboru.“ Sestoupil tedy se svým služebníkem Purahem k předním hlídkám ozbrojenců, kteří byli v táboře.
+[11] uslyšíš, co říkají, a potom se tvé ruce posilní, abys sestoupil proti táboru.“ Sestoupil tedy se svým služebníkem ⟦purah|Purou|Púrou⟧ k předním hlídkám ozbrojenců, kteří byli v táboře.
 
-[12] Midianité, Amalekité a všichni synové východu leželi v údolí početní jako kobylky a jejich velbloudi byli nesčetní – četní jako písek na mořském břehu.
+[12] ⟦midianites|Midjanim|Midjánci⟧, ⟦amalekites|Amalekim|Amalekovci⟧ a všichni synové východu leželi v údolí početní jako kobylky a jejich velbloudi byli nesčetní – četní jako písek na mořském břehu.
 
-[13] Když Gideon přišel, hle, jeden muž vyprávěl svému druhovi sen. Říkal: „Hle, měl jsem sen: bochník ječného chleba se kutálel do tábora Midianu, dostal se ke stanu, narazil do něho, až padl, a převrátil jej vzhůru nohama – a stan se zřítil.“
+[13] Když ⟦gideon|Gidon|Gedeón⟧ přišel, hle, jeden muž vyprávěl svému druhovi sen. Říkal: „Hle, měl jsem sen: bochník ječného chleba se kutálel do tábora ⟦midian|Midjanu|Midjánu⟧, dostal se ke stanu, narazil do něho, až padl, a převrátil jej vzhůru nohama – a stan se zřítil.“
 
-[14] Jeho druh odpověděl: „To není nic jiného než meč Gideona, syna Joashova, muže z Israele; do jeho ruky vydal *Elohim* Midian i celý tábor.“
+[14] Jeho druh odpověděl: „To není nic jiného než meč ⟦gideon|Gidona|Gedeóna⟧, syna ⟦joash|Joašova|Jóašova⟧, muže z ⟦israel|Jisraele|Izraele⟧; do jeho ruky vydal ⟦elohim|Elohim|Bůh⟧ ⟦midian|Midjan|Midján⟧ i celý tábor.“
 
-[15] Když Gideon uslyšel vyprávění snu a jeho výklad, poklonil se v uctívání. Vrátil se do tábora Israele a řekl: „Vstaňte, neboť Yahweh vám vydal tábor Midianu do ruky.“
+[15] Když ⟦gideon|Gidon|Gedeón⟧ uslyšel vyprávění snu a jeho výklad, poklonil se v uctívání. Vrátil se do tábora ⟦israel|Jisraele|Izraele⟧ a řekl: „Vstaňte, neboť ⟦yhwh|Jahve|Hospodin⟧ vám vydal tábor ⟦midian|Midjanu|Midjánu⟧ do ruky.“
 
 [16] Rozdělil tři sta mužů do tří oddílů a dal každému muži do rukou rohy a prázdné džbány a ve džbánech pochodně.
 
 [17] Řekl jim: „Dívejte se na mě a dělejte, co dělám já. Až přijdu na okraj tábora, jak budu dělat já, tak budete dělat vy.
 
-[18] Až zatroubím na roh, já i všichni, kdo jsou se mnou, pak i vy zatrubte na rohy na všech stranách kolem celého tábora a volejte: ‚Za Yahweh a za Gideona!‘“
+[18] Až zatroubím na roh, já i všichni, kdo jsou se mnou, pak i vy zatrubte na rohy na všech stranách kolem celého tábora a volejte: ‚Za ⟦yhwh|Jahveho|Hospodina⟧ a za ⟦gideon|Gidona|Gedeóna⟧!‘“
 
-[19] Gideon a sto mužů, kteří byli s ním, přišli na okraj tábora na začátku prostřední hlídky, hned poté, co vystřídali stráž. Zatroubili na rohy a rozbili džbány, které měli v rukou.
+[19] ⟦gideon|Gidon|Gedeón⟧ a sto mužů, kteří byli s ním, přišli na okraj tábora na začátku prostřední hlídky, hned poté, co vystřídali stráž. Zatroubili na rohy a rozbili džbány, které měli v rukou.
 
-[20] Tři oddíly zatroubily na rohy a rozbily džbány; v levých rukou držely pochodně a v pravých rukou rohy, aby na ně troubily, a volaly: „Meč za Yahweh a za Gideona!“
+[20] Tři oddíly zatroubily na rohy a rozbily džbány; v levých rukou držely pochodně a v pravých rukou rohy, aby na ně troubily, a volaly: „Meč za ⟦yhwh|Jahveho|Hospodina⟧ a za ⟦gideon|Gidona|Gedeóna⟧!“
 
 [21] Každý muž stál na svém místě kolem tábora; a celý tábor se dal do běhu – křičeli a utíkali.
 
-[22] Když zatroubilo tři sta rohů, obrátil Yahweh v celém táboře meč každého muže proti jeho druhovi. Tábor utíkal až k Beth-shittah směrem k Zererah, až k hranici Abel-meholah u Tabbathu.
+[22] Když zatroubilo tři sta rohů, obrátil ⟦yhwh|Jahve|Hospodin⟧ v celém táboře meč každého muže proti jeho druhovi. Tábor utíkal až k ⟦beth-shittah|Bejt HaŠittah|Bét-šitě⟧ směrem k ⟦zererah|Cereře|Sereře⟧, až k hranici ⟦abel-meholah|Avel Mecholy|Ábel-mecholy⟧ u ⟦tabbath|Tabbatu|Tabatu⟧.
 
-[23] Muži Israele byli svoláni z Naphtaliho, z Ashera a z celého Manasseh a pronásledovali Midian.
+[23] Muži ⟦israel|Jisraele|Izraele⟧ byli svoláni z ⟦naphtali|Naftaliho|Neftalího⟧, z Ašera a z celého ⟦manasseh|Menaše|Manasesa⟧ a pronásledovali ⟦midian|Midjan|Midján⟧.
 
-[24] Gideon rozeslal posly po celé pahorkatině Ephraim se vzkazem: „Sestupte proti Midianu a obsaďte před nimi vody až k Beth-barah i Jordan.“ Všichni muži Ephraima tedy byli svoláni a obsadili vody až k Beth-barah i Jordan.
+[24] ⟦gideon|Gidon|Gedeón⟧ rozeslal posly po celé pahorkatině Efrajim se vzkazem: „Sestupte proti ⟦midian|Midjanu|Midjánu⟧ a obsaďte před nimi vody až k ⟦beth-barah|Bejt Bara|Bét-baře⟧ i ⟦jordan|Jarden|Jordán⟧.“ Všichni muži Efrajima tedy byli svoláni a obsadili vody až k ⟦beth-barah|Bejt Bara|Bét-baře⟧ i ⟦jordan|Jarden|Jordán⟧.
 
-[25] Zajali dvě midianská knížata, Oreba a Zeeba; Oreba zabili u Orebovy skály a Zeeba zabili u Zeebova lisu; pronásledovali Midian a hlavy Oreba a Zeeba přinesli Gideonovi za Jordan.
+[25] Zajali dvě ⟦midian|midjanská|midjánská⟧ knížata, ⟦oreb|Oreva|Oréba⟧ a ⟦zeeb|Zeeva|Zeéba⟧; ⟦oreb|Oreva|Oréba⟧ zabili u ⟦oreb|Orevovy|Orébovy⟧ skály a ⟦zeeb|Zeeva|Zeéba⟧ zabili u ⟦zeeb|Zeevova|Zeébova⟧ lisu; pronásledovali ⟦midian|Midjan|Midján⟧ a hlavy ⟦oreb|Oreva|Oréba⟧ a ⟦zeeb|Zeeva|Zeéba⟧ přinesli ⟦gideon|Gidonovi|Gedeónovi⟧ za ⟦jordan|Jarden|Jordán⟧.
 
 ## Změny
 

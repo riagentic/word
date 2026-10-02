@@ -20,7 +20,7 @@ ani o ničemovi nebude řečeno, že je vážený.
 [6] Neboť blázen mluví bláznovství
 a jeho srdce se zabývá nepravostí,
 aby páchal bezbožnost,
-aby pronášel bludy o Yahweh,
+aby pronášel bludy o ⟦yhwh|Jahvovi|Hospodinu⟧,
 aby nechal touhu hladového neukojenou
 a odpíral žíznivému nápoj.
 

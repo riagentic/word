@@ -7,7 +7,7 @@ than one who is crooked in speech and is a fool.
 and whoever makes haste with his feet misses his way.
 
 [3] When a man's folly brings his way to ruin,
-his heart rages against Yahweh.
+his heart rages against ⟦yhwh|Yahweh|the LORD⟧.
 
 [4] Wealth brings many new friends,
 but a poor man is deserted by his friend.
@@ -41,7 +41,7 @@ but his favor is like dew on the grass.
 and a wife's quarreling is a continual dripping of rain.
 
 [14] House and wealth are inherited from fathers,
-but a prudent wife is from Yahweh.
+but a prudent wife is from ⟦yhwh|Yahweh|the LORD⟧.
 
 [15] Slothfulness casts into deep sleep,
 and an idle soul will suffer hunger.
@@ -49,7 +49,7 @@ and an idle soul will suffer hunger.
 [16] Whoever keeps the commandment keeps his soul;
 he who despises his ways will die.
 
-[17] Whoever is generous to the poor lends to Yahweh,
+[17] Whoever is generous to the poor lends to ⟦yhwh|Yahweh|the LORD⟧,
 and he will repay him for his deed.
 
 [18] Discipline your son, for there is hope;
@@ -62,12 +62,12 @@ for if you deliver him, you will only have to do it again.
 that you may gain wisdom in the future.
 
 [21] Many are the plans in the mind of a man,
-but it is the counsel of Yahweh that will stand.
+but it is the counsel of ⟦yhwh|Yahweh|the LORD⟧ that will stand.
 
 [22] What is desired in a man is steadfast love,
 and a poor man is better than a liar.
 
-[23] The fear of Yahweh leads to life,
+[23] The fear of ⟦yhwh|Yahweh|the LORD⟧ leads to life,
 and whoever has it rests satisfied; he will not be visited by harm.
 
 [24] The sluggard buries his hand in the dish

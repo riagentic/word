@@ -1,16 +1,16 @@
 # Revelation 1
 
-[1] The revelation of *Yeshua* the *Mashiach*, which *Elohim* gave him to show to his servants the things that must soon take place. He made it known by sending his angel to his servant John,
+[1] The revelation of ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧, which ⟦elohim|Elohim|God⟧ gave him to show to his servants the things that must soon take place. He made it known by sending his angel to his servant ⟦john|Yochanan|John⟧,
 
-[2] who bore witness to the word of *Elohim* and to the testimony of *Yeshua* the *Mashiach*, even to all that he saw.
+[2] who bore witness to the word of ⟦elohim|Elohim|God⟧ and to the testimony of ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧, even to all that he saw.
 
 [3] Blessed is the one who reads aloud the words of this prophecy, and blessed are those who hear, and who keep what is written in it, for the time is near.
 
-[4] John to the seven churches that are in Asia: Grace to you and peace from him **who is and who was and who is to come**, and from the seven spirits who are before his throne,
+[4] ⟦john|Yochanan|John⟧ to the seven churches that are in Asia: Grace to you and peace from him **who is and who was and who is to come**, and from the seven spirits who are before his throne,
 
-[5] and from *Yeshua* the *Mashiach* the faithful witness, the firstborn of the dead, and the ruler of kings on earth. To him who loves us and has freed us from our sins by his blood
+[5] and from ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧ the faithful witness, the firstborn of the dead, and the ruler of kings on earth. To him who loves us and has freed us from our sins by his blood
 
-[6] and made us a kingdom, priests to his *Elohim* and Father, to him be glory and dominion forever and ever. Amen.
+[6] and made us a kingdom, priests to his ⟦elohim|Elohim|God⟧ and Father, to him be glory and dominion forever and ever. Amen.
 
 [7] Behold, he is coming with the clouds,
 and every eye will see him,
@@ -18,13 +18,13 @@ even those who pierced him,
 and all tribes of the earth will wail on account of him.
 Even so. Amen.
 
-[8] "**I am the Alpha and the Omega,**" says the Lord *Elohim*, "who is and who was and who is to come, the Almighty."
+[8] "**I am the Alpha and the Omega,**" says the Lord ⟦elohim|Elohim|God⟧, "who is and who was and who is to come, the Almighty."
 
-[9] I, John, your brother and partner in the tribulation and the kingdom and the patient endurance that are in *Yeshua*, was on the island called Patmos on account of the word of *Elohim* and the testimony of *Yeshua*.
+[9] I, ⟦john|Yochanan|John⟧, your brother and partner in the tribulation and the kingdom and the patient endurance that are in ⟦yeshua|Yeshua|Jesus⟧, was on the island called Patmos on account of the word of ⟦elohim|Elohim|God⟧ and the testimony of ⟦yeshua|Yeshua|Jesus⟧.
 
 [10] I was in the Spirit on the Lord's day, and I heard behind me a loud voice like a trumpet
 
-[11] saying, "Write what you see in a book and send it to the seven churches, to Ephesus and to Smyrna and to Pergamum and to Thyatira and to Sardis and to Philadelphia and to Laodicea."
+[11] saying, "Write what you see in a book and send it to the seven churches, to ⟦ephesus|Ephesos|Ephesus⟧ and to Smyrna and to ⟦pergamum|Pergamon|Pergamum⟧ and to ⟦thyatira|Thyateira|Thyatira⟧ and to ⟦sardis|Sardeis|Sardis⟧ and to ⟦philadelphia|Philadelpheia|Philadelphia⟧ and to ⟦laodicea|Laodikeia|Laodicea⟧."
 
 [12] Then I turned to see the voice that was speaking to me, and on turning I saw seven golden lampstands,
 

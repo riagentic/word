@@ -52,7 +52,7 @@ a přinutil mě krčit se v popelu;
 zapomněl jsem, co je štěstí;
 
 [18] **ו** proto říkám: „Má vytrvalost zanikla,
-i má naděje od Yahweh.“
+i má naděje od ⟦yhwh|Jahveho|Hospodina⟧.“
 
 [19] **ז** Vzpomeň na mé trápení a mé bloudění,
 na pelyněk a žluč!
@@ -63,20 +63,20 @@ a je ve mně skleslá.
 [21] **ז** Ale toto si připomínám,
 a proto mám naději:
 
-[22] **ח** Věrná láska Yahweh – jistě nejsme zničeni,
+[22] **ח** Věrná láska ⟦yhwh|Jahveho|Hospodina⟧ – jistě nejsme zničeni,
 neboť jeho slitování nikdy nekončí;
 
 [23] **ח** jsou nová každé ráno;
 veliká je tvá věrnost.
 
-[24] **ח** „Yahweh je můj podíl,“ praví má duše,
+[24] **ח** „⟦yhwh|Jahve|Hospodin⟧ je můj podíl,“ praví má duše,
 „proto budu v něho doufat.“
 
-[25] **ט** Yahweh je dobrý k těm, kdo na něj čekají,
+[25] **ט** ⟦yhwh|Jahve|Hospodin⟧ je dobrý k těm, kdo na něj čekají,
 k duši, která ho hledá.
 
 [26] **ט** Je dobré mlčky čekat
-na záchranu Yahweh.
+na záchranu ⟦yhwh|Jahveho|Hospodina⟧.
 
 [27] **ט** Je dobré pro muže, aby nesl
 jho ve svém mládí.
@@ -90,7 +90,7 @@ snad je ještě naděje;
 [30] **י** ať nastaví tvář tomu, kdo bije,
 a ať se nasytí potupou.
 
-[31] **כ** Neboť Pán
+[31] **כ** Neboť ⟦adonai|Adonaj|Pán⟧
 nezavrhuje navěky,
 
 [32] **כ** ale i když působí zármutek, slituje se
@@ -103,25 +103,25 @@ ani nezarmucuje lidské syny.
 všechny vězně země,
 
 [35] **ל** upírat člověku právo
-před tváří Nejvyššího,
+před tváří ⟦elyon|Eljona|Nejvyššího⟧,
 
 [36] **ל** křivdit člověku v jeho při –
-to Pán neschvaluje.
+to ⟦adonai|Adonaj|Pán⟧ neschvaluje.
 
 [37] **מ** Kdo promluvil, a stalo se,
-jestliže to Pán nepřikázal?
+jestliže to ⟦adonai|Adonaj|Pán⟧ nepřikázal?
 
-[38] **מ** Což nevychází z úst Nejvyššího
+[38] **מ** Což nevychází z úst ⟦elyon|Eljona|Nejvyššího⟧
 dobré i zlé?
 
 [39] **מ** Proč by si živý člověk stěžoval,
 muž, na trest za své hříchy?
 
 [40] **נ** Zkoumejme a prověřujme své cesty
-a vraťme se k Yahweh!
+a vraťme se k ⟦yhwh|Jahvovi|Hospodinu⟧!
 
 [41] **נ** Pozvedněme svá srdce i ruce
-k El v nebesích:
+k ⟦el|El|Bohu⟧ v nebesích:
 
 [42] **נ** „My jsme přestoupili a vzbouřili se
 a ty jsi neodpustil.
@@ -147,7 +147,7 @@ pro zkázu dcery mého lidu.
 [49] **ע** Mé oči budou ronit slzy bez přestání,
 bez oddechu,
 
-[50] **ע** dokud Yahweh z nebe
+[50] **ע** dokud ⟦yhwh|Jahve|Hospodin⟧ z nebe
 neshlédne a neuvidí;
 
 [51] **ע** mé oči mi působí bolest
@@ -162,7 +162,7 @@ a házeli na mě kameny;
 [54] **צ** voda se mi zavřela nad hlavou;
 řekl jsem: „Jsem ztracen.“
 
-[55] **ק** Vzýval jsem tvé jméno, Yahweh,
+[55] **ק** Vzýval jsem tvé jméno, ⟦yhwh|Jahve|Hospodine⟧,
 z hlubin jámy;
 
 [56] **ק** slyšel jsi mou prosbu: „Nezavírej
@@ -171,16 +171,16 @@ své ucho před mým voláním o pomoc!“
 [57] **ק** Přiblížil ses, když jsem tě vzýval;
 řekl jsi: „Neboj se!“
 
-[58] **ר** Ujal ses mé pře, Pane;
+[58] **ר** Ujal ses mé pře, ⟦adonai|Adonaji|Pane⟧;
 vykoupil jsi můj život.
 
-[59] **ר** Viděl jsi křivdu, která se mi stala, Yahweh;
+[59] **ר** Viděl jsi křivdu, která se mi stala, ⟦yhwh|Jahve|Hospodine⟧;
 rozsuď mou při.
 
 [60] **ר** Viděl jsi všechnu jejich pomstychtivost,
 všechny jejich úklady proti mně.
 
-[61] **ש** Slyšel jsi jejich posměšky, Yahweh,
+[61] **ש** Slyšel jsi jejich posměšky, ⟦yhwh|Jahve|Hospodine⟧,
 všechny jejich úklady proti mně.
 
 [62] **ש** Rty a myšlenky těch, kdo na mě útočí,
@@ -189,14 +189,14 @@ jsou proti mně po celý den.
 [63] **ש** Pohleď na jejich sedání i vstávání;
 jsem předmětem jejich posměšků.
 
-[64] **ת** Odplatíš jim, Yahweh,
+[64] **ת** Odplatíš jim, ⟦yhwh|Jahve|Hospodine⟧,
 podle díla jejich rukou.
 
 [65] **ת** Dáš jim zatvrzelé srdce;
 tvá kletba bude na nich.
 
 [66] **ת** Budeš je v hněvu pronásledovat a vyhladíš je
-zpod nebes Yahweh.
+zpod nebes ⟦yhwh|Jahveho|Hospodina⟧.
 
 ## Změny
 

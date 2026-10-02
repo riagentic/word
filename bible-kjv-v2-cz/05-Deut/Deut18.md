@@ -1,38 +1,38 @@
 # Deuteronomium 18
 
-[1] „Levitští kněží – celý kmen Levi – nebudou mít podíl ani dědictví s Israelem. Budou jíst ohnivé oběti Yahweh, které jsou jeho dědictvím.
+[1] „⟦levites|Levijští|Lévijští⟧ kněží – celý kmen ⟦levi|Levi|Lévi⟧ – nebudou mít podíl ani dědictví s ⟦israel|Jisraelem|Izraelem⟧. Budou jíst ohnivé oběti ⟦yhwh|Jahveho|Hospodina⟧, které jsou jeho dědictvím.
 
-[2] Nebudou mít dědictví mezi svými bratry; Yahweh je jejich dědictvím, jak jim řekl.
+[2] Nebudou mít dědictví mezi svými bratry; ⟦yhwh|Jahve|Hospodin⟧ je jejich dědictvím, jak jim řekl.
 
 [3] Toto bude kněžský nárok od lidu, od těch, kdo přinášejí obětní hod, ať býka, nebo ovci: dají knězi plec, obě čelisti a žaludek.
 
 [4] Prvotiny svého obilí, svého nového vína a svého oleje a první vlnu ze stříže svých ovcí mu dáš.
 
-[5] Neboť Yahweh, tvůj *Elohim*, si ho vyvolil ze všech tvých kmenů, aby stál a sloužil ve jménu Yahweh – on a jeho synové, navždy.
+[5] Neboť ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, si ho vyvolil ze všech tvých kmenů, aby stál a sloužil ve jménu ⟦yhwh|Jahveho|Hospodina⟧ – on a jeho synové, navždy.
 
-[6] Přijde-li Levita z kterékoli z tvých bran v celém Israeli, kde pobývá jako host, a přijde-li se vší touhou své duše na místo, které Yahweh vyvolí,
+[6] Přijde-li ⟦levites|Levi|lévijec⟧ z kterékoli z tvých bran v celém ⟦israel|Jisraeli|Izraeli⟧, kde pobývá jako host, a přijde-li se vší touhou své duše na místo, které ⟦yhwh|Jahve|Hospodin⟧ vyvolí,
 
-[7] smí sloužit ve jménu Yahweh, svého *Elohim*, jako všichni jeho bratři Levité, kteří tam stojí před Yahweh.
+[7] smí sloužit ve jménu ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, jako všichni jeho bratři ⟦levites|Levijim|lévijci⟧, kteří tam stojí před ⟦yhwh|Jahvem|Hospodinem⟧.
 
 [8] Budou mít k jídlu stejné podíly, kromě toho, co utrží z prodeje svého otcovského dědictví.
 
-[9] Až přijdeš do země, kterou ti Yahweh, tvůj *Elohim*, dává, nenaučíš se jednat podle ohavností oněch národů.
+[9] Až přijdeš do země, kterou ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, dává, nenaučíš se jednat podle ohavností oněch národů.
 
 [10] Nenajde se u tebe nikdo, kdo by nechával svého syna nebo svou dceru projít ohněm, kdo by provozoval věštění, kdo by vykládal znamení, čaroděj ani zaklínač,
 
 [11] ani vyvolávač duchů, ani jasnovidec, ani ten, kdo se dotazuje mrtvých.
 
-[12] Neboť každý, kdo tyto věci dělá, je ohavností pro Yahweh; a kvůli těmto ohavnostem je Yahweh, tvůj *Elohim*, před tebou vyhání.
+[12] Neboť každý, kdo tyto věci dělá, je ohavností pro ⟦yhwh|Jahveho|Hospodina⟧; a kvůli těmto ohavnostem je ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, před tebou vyhání.
 
-[13] Budeš bezúhonný před Yahweh, svým *Elohim*.
+[13] Budeš bezúhonný před ⟦yhwh|Jahvem|Hospodinem⟧, svým ⟦elohim|Elohim|Bohem⟧.
 
-[14] Neboť tyto národy, které vyvlastníš, poslouchají věštce a vykladače znamení; ale tobě to Yahweh, tvůj *Elohim*, nedovolil.
+[14] Neboť tyto národy, které vyvlastníš, poslouchají věštce a vykladače znamení; ale tobě to ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, nedovolil.
 
-[15] Proroka jako jsem já ti Yahweh, tvůj *Elohim*, vzbudí z tvého středu, z tvých bratrů; toho budete poslouchat.
+[15] Proroka jako jsem já ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, vzbudí z tvého středu, z tvých bratrů; toho budete poslouchat.
 
-[16] Je to podle všeho, co jsi žádal od Yahweh, svého *Elohim*, na Horebu v den shromáždění: ‚Ať už neslyším hlas Yahweh, svého *Elohim*, a ať už nevidím tento veliký oheň, abych nezemřel.‘
+[16] Je to podle všeho, co jsi žádal od ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, na ⟦horeb|Chorevu|Chorébu⟧ v den shromáždění: ‚Ať už neslyším hlas ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, a ať už nevidím tento veliký oheň, abych nezemřel.‘
 
-[17] Yahweh mi řekl: ‚V tom, co mluvili, mluvili dobře.
+[17] ⟦yhwh|Jahve|Hospodin⟧ mi řekl: ‚V tom, co mluvili, mluvili dobře.
 
 [18] Vzbudím jim proroka jako jsi ty z jejich bratrů a vložím svá slova do jeho úst, a bude k nim mluvit všechno, co mu přikážu.
 
@@ -40,9 +40,9 @@
 
 [20] Ale prorok, který se opováží mluvit v mém jménu slovo, které jsem mu nepřikázal mluvit, nebo který mluví ve jménu jiných bohů – ten prorok zemře.‘
 
-[21] A řekneš-li ve svém srdci: ‚Jak poznáme slovo, které Yahweh nemluvil?‘ –
+[21] A řekneš-li ve svém srdci: ‚Jak poznáme slovo, které ⟦yhwh|Jahve|Hospodin⟧ nemluvil?‘ –
 
-[22] když prorok mluví ve jménu Yahweh a slovo se nestane ani nesplní, to je slovo, které Yahweh nemluvil; prorok je mluvil opovážlivě. Nebudeš se ho bát.
+[22] když prorok mluví ve jménu ⟦yhwh|Jahveho|Hospodina⟧ a slovo se nestane ani nesplní, to je slovo, které ⟦yhwh|Jahve|Hospodin⟧ nemluvil; prorok je mluvil opovážlivě. Nebudeš se ho bát.
 
 ## Změny
 

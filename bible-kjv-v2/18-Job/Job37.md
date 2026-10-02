@@ -13,7 +13,7 @@ and his lightning to the corners of the earth.
 he thunders with the voice of his majesty,
 and he does not restrain the lightnings when his voice is heard.
 
-[5] *Elohim* thunders wondrously with his voice;
+[5] ⟦el|El|God⟧ thunders wondrously with his voice;
 he does great things that we cannot comprehend.
 
 [6] For he says to the snow, 'Fall on the earth,'
@@ -28,7 +28,7 @@ and stay in their dens.
 [9] From its chamber comes the whirlwind,
 and cold from the scattering winds.
 
-[10] By the breath of *Elohim* ice is given,
+[10] By the breath of ⟦el|El|God⟧ ice is given,
 and the broad waters are frozen.
 
 [11] He loads the thick cloud with moisture;
@@ -42,10 +42,10 @@ on the face of the habitable world.
 or for steadfast love —
 he causes it to happen.
 
-[14] Hear this, O Job;
-stop and consider the wondrous works of *Elohim*.
+[14] Hear this, O ⟦job|Iyov|Job⟧;
+stop and consider the wondrous works of ⟦el|El|God⟧.
 
-[15] Do you know how *Elohim* lays his command upon them,
+[15] Do you know how ⟦eloah|Eloah|God⟧ lays his command upon them,
 and causes the lightning of his cloud to shine?
 
 [16] Do you know the balancing of the clouds,
@@ -68,9 +68,9 @@ when it is bright in the clouds,
 when the wind has passed and cleared them.
 
 [22] Out of the north comes golden splendor;
-around Eloah is awesome majesty.
+around ⟦eloah|Eloah|God⟧ is awesome majesty.
 
-[23] Shaddai — we cannot find him out;
+[23] ⟦shaddai|Shaddai|The Almighty⟧ — we cannot find him out;
 he is excellent in power;
 he will not violate justice and abundant righteousness.
 
@@ -79,6 +79,7 @@ he does not regard any who are wise in their own heart."
 
 ## Changes
 
+- **"God" → "El" / "Eloah"** (v5, 10, 14; v15) — Hebrew אֵל *El* and אֱלוֹהַּ *Eloah*, not *Elohim*.
 - **"molten looking glass" → "cast metal mirror"** (v18) — ancient mirrors of polished bronze.
 - **"he will not afflict" → "he will not violate justice"** (v23) — Hebrew *lo ya'aneh*; connected to *mishpat* — "will not answer/violate judgment."
 

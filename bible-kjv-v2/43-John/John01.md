@@ -1,8 +1,8 @@
 # John 1
 
-[1] **In the beginning was the Word, and the Word was with *Elohim*, and the Word was *Elohim*.**
+[1] **In the beginning was the Word, and the Word was with ⟦elohim|Elohim|God⟧, and the Word was ⟦elohim|Elohim|God⟧.**
 
-[2] He was in the beginning with *Elohim*.
+[2] He was in the beginning with ⟦elohim|Elohim|God⟧.
 
 [3] All things were made through him, and without him was not any thing made that was made.
 
@@ -10,7 +10,7 @@
 
 [5] The light shines in the darkness, and the darkness has not overcome it.
 
-[6] There was a man sent from *Elohim*, whose name was John.
+[6] There was a man sent from ⟦elohim|Elohim|God⟧, whose name was ⟦john|Yochanan|John⟧.
 
 [7] He came as a witness, to bear witness about the light, that all might believe through him.
 
@@ -22,85 +22,85 @@
 
 [11] He came to his own, and his own people did not receive him.
 
-[12] But to all who did receive him, who believed in his name, he gave the right to become children of *Elohim*,
+[12] But to all who did receive him, who believed in his name, he gave the right to become children of ⟦elohim|Elohim|God⟧,
 
-[13] who were born, not of blood nor of the will of the flesh nor of the will of man, but of *Elohim*.
+[13] who were born, not of blood nor of the will of the flesh nor of the will of man, but of ⟦elohim|Elohim|God⟧.
 
 [14] **And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.**
 
-[15] (John bore witness about him, and cried out, "This was he of whom I said, 'He who comes after me ranks before me, because he was before me.'")
+[15] (⟦john|Yochanan|John⟧ bore witness about him, and cried out, "This was he of whom I said, 'He who comes after me ranks before me, because he was before me.'")
 
 [16] For from his fullness we have all received, grace upon grace.
 
-[17] For the Torah was given through Moses; grace and truth came through *Yeshua* the *Mashiach*.
+[17] For the ⟦torah|Torah|law⟧ was given through ⟦moses|Moshe|Moses⟧; grace and truth came through ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧.
 
-[18] **No one has ever seen *Elohim*; the only *Elohim*, who is at the Father's side, he has made him known.**
+[18] **No one has ever seen ⟦elohim|Elohim|God⟧; the only ⟦elohim|Elohim|God⟧, who is at the Father's side, he has made him known.**
 
-[19] And this is the testimony of John, when the Jews sent priests and Levites from Jerusalem to ask him, "Who are you?"
+[19] And this is the testimony of ⟦john|Yochanan|John⟧, when the ⟦jews|Yehudim|Jews⟧ sent priests and ⟦levites|Leviyim|Levites⟧ from ⟦jerusalem|Yerushalayim|Jerusalem⟧ to ask him, "Who are you?"
 
-[20] He confessed, and did not deny, but confessed, "I am not the *Mashiach*."
+[20] He confessed, and did not deny, but confessed, "I am not the ⟦mashiach|Mashiach|Christ⟧."
 
-[21] And they asked him, "What then? Are you Elijah?" He said, "I am not." "Are you the Prophet?" And he answered, "No."
+[21] And they asked him, "What then? Are you ⟦elijah|Eliyahu|Elijah⟧?" He said, "I am not." "Are you the Prophet?" And he answered, "No."
 
 [22] So they said to him, "Who are you? We need to give an answer to those who sent us. What do you say about yourself?"
 
-[23] He said, "I am the voice of one crying out in the wilderness, '**Make straight the way of the Lord**,' as the prophet Isaiah said."
+[23] He said, "I am the voice of one crying out in the wilderness, '**Make straight the way of ⟦yhwh|Yahweh|the Lord⟧**,' as the prophet ⟦isaiah|Yeshayahu|Isaiah⟧ said."
 
-[24] (Now they had been sent from the Pharisees.)
+[24] (Now they had been sent from the ⟦pharisees|Perushim|Pharisees⟧.)
 
-[25] They asked him, "Then why are you immersing, if you are neither the *Mashiach*, nor Elijah, nor the Prophet?"
+[25] They asked him, "Then why are you ⟦immerse|immersing|baptizing⟧, if you are neither the ⟦mashiach|Mashiach|Christ⟧, nor ⟦elijah|Eliyahu|Elijah⟧, nor the Prophet?"
 
-[26] John answered them, "I immerse with water, but among you stands one you do not know,
+[26] ⟦john|Yochanan|John⟧ answered them, "I ⟦immerse|immerse|baptize⟧ with water, but among you stands one you do not know,
 
 [27] even he who comes after me, the strap of whose sandal I am not worthy to untie."
 
-[28] These things took place in Bethany across the Jordan, where John was immersing.
+[28] These things took place in ⟦bethany|Bethania|Bethany⟧ across the ⟦jordan|Yarden|Jordan⟧, where ⟦john|Yochanan|John⟧ was ⟦immerse|immersing|baptizing⟧.
 
-[29] The next day he saw *Yeshua* coming toward him, and said, "**Behold, the Lamb of *Elohim*, who takes away the sin of the world!**
+[29] The next day he saw ⟦yeshua|Yeshua|Jesus⟧ coming toward him, and said, "**Behold, the Lamb of ⟦elohim|Elohim|God⟧, who takes away the sin of the world!**
 
 [30] This is he of whom I said, 'After me comes a man who ranks before me, because he was before me.'
 
-[31] I myself did not know him, but for this purpose I came immersing with water, that he might be revealed to Israel."
+[31] I myself did not know him, but for this purpose I came ⟦immerse|immersing|baptizing⟧ with water, that he might be revealed to ⟦israel|Yisrael|Israel⟧."
 
-[32] And John bore witness: "I saw the Spirit descend from heaven like a dove, and it remained on him.
+[32] And ⟦john|Yochanan|John⟧ bore witness: "I saw the Spirit descend from heaven like a dove, and it remained on him.
 
-[33] I myself did not know him, but he who sent me to immerse with water said to me, 'He on whom you see the Spirit descend and remain, this is he who immerses with the *Ruach HaQodesh*.'
+[33] I myself did not know him, but he who sent me to ⟦immerse|immerse|baptize⟧ with water said to me, 'He on whom you see the Spirit descend and remain, this is he who ⟦immerse|immerses|baptizes⟧ with the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧.'
 
-[34] And I have seen and have borne witness that this is the Son of *Elohim*."
+[34] And I have seen and have borne witness that this is the Son of ⟦elohim|Elohim|God⟧."
 
-[35] The next day again John was standing with two of his disciples,
+[35] The next day again ⟦john|Yochanan|John⟧ was standing with two of his disciples,
 
-[36] and he looked at *Yeshua* as he walked by and said, "Behold, the Lamb of *Elohim*!"
+[36] and he looked at ⟦yeshua|Yeshua|Jesus⟧ as he walked by and said, "Behold, the Lamb of ⟦elohim|Elohim|God⟧!"
 
-[37] The two disciples heard him say this, and they followed *Yeshua*.
+[37] The two disciples heard him say this, and they followed ⟦yeshua|Yeshua|Jesus⟧.
 
-[38] *Yeshua* turned and saw them following and said to them, "What are you seeking?" And they said to him, "Rabbi" (which means Teacher), "where are you staying?"
+[38] ⟦yeshua|Yeshua|Jesus⟧ turned and saw them following and said to them, "What are you seeking?" And they said to him, "Rabbi" (which means Teacher), "where are you staying?"
 
 [39] He said to them, "Come and you will see." So they came and saw where he was staying, and they stayed with him that day, for it was about the tenth hour.
 
-[40] One of the two who heard John speak and followed *Yeshua* was Andrew, Simon *Kefa's* brother.
+[40] One of the two who heard ⟦john|Yochanan|John⟧ speak and followed ⟦yeshua|Yeshua|Jesus⟧ was ⟦andrew|Andreas|Andrew⟧, ⟦simon|Shimon|Simon⟧ ⟦peter|Kefa's|Peter's⟧ brother.
 
-[41] He first found his own brother Simon and said to him, "We have found the *Mashiach*" (which means Anointed).
+[41] He first found his own brother ⟦simon|Shimon|Simon⟧ and said to him, "We have found the ⟦mashiach|Mashiach|Messiah⟧" (which means Anointed).
 
-[42] He brought him to *Yeshua*. *Yeshua* looked at him and said, "You are Simon the son of John. You shall be called *Kefa*" (which means Peter — stone).
+[42] He brought him to ⟦yeshua|Yeshua|Jesus⟧. ⟦yeshua|Yeshua|Jesus⟧ looked at him and said, "You are ⟦simon|Shimon|Simon⟧ the son of ⟦john|Yochanan|John⟧. You shall be called ⟦cephas|Kefa|Cephas⟧" (which means Peter — stone).
 
-[43] The next day *Yeshua* decided to go to Galilee. He found Philip and said to him, "Follow me."
+[43] The next day ⟦yeshua|Yeshua|Jesus⟧ decided to go to ⟦galilee|Galil|Galilee⟧. He found ⟦philip|Philippos|Philip⟧ and said to him, "Follow me."
 
-[44] Now Philip was from Bethsaida, the city of Andrew and *Kefa*.
+[44] Now ⟦philip|Philippos|Philip⟧ was from ⟦bethsaida|Beit Tzaidah|Bethsaida⟧, the city of ⟦andrew|Andreas|Andrew⟧ and ⟦peter|Kefa|Peter⟧.
 
-[45] Philip found Nathanael, and said to him, "We have found him of whom Moses in the Torah and also the prophets wrote, *Yeshua* of Nazareth, the son of Joseph."
+[45] ⟦philip|Philippos|Philip⟧ found ⟦nathanael|Netanel|Nathanael⟧, and said to him, "We have found him of whom ⟦moses|Moshe|Moses⟧ in the ⟦torah|Torah|Law⟧ and also the prophets wrote, ⟦yeshua|Yeshua|Jesus⟧ of ⟦nazareth|Natzrat|Nazareth⟧, the son of ⟦joseph|Yosef|Joseph⟧."
 
-[46] Nathanael said to him, "Can anything good come out of Nazareth?" Philip said to him, "Come and see."
+[46] ⟦nathanael|Netanel|Nathanael⟧ said to him, "Can anything good come out of ⟦nazareth|Natzrat|Nazareth⟧?" ⟦philip|Philippos|Philip⟧ said to him, "Come and see."
 
-[47] *Yeshua* saw Nathanael coming toward him and said of him, "Behold, an Israelite indeed, in whom there is no deceit!"
+[47] ⟦yeshua|Yeshua|Jesus⟧ saw ⟦nathanael|Netanel|Nathanael⟧ coming toward him and said of him, "Behold, an ⟦israelite|Yisraeli|Israelite⟧ indeed, in whom there is no deceit!"
 
-[48] Nathanael said to him, "How do you know me?" *Yeshua* answered him, "Before Philip called you, when you were under the fig tree, I saw you."
+[48] ⟦nathanael|Netanel|Nathanael⟧ said to him, "How do you know me?" ⟦yeshua|Yeshua|Jesus⟧ answered him, "Before ⟦philip|Philippos|Philip⟧ called you, when you were under the fig tree, I saw you."
 
-[49] Nathanael answered him, "Rabbi, you are the Son of *Elohim*! You are the King of Israel!"
+[49] ⟦nathanael|Netanel|Nathanael⟧ answered him, "Rabbi, you are the Son of ⟦elohim|Elohim|God⟧! You are the King of ⟦israel|Yisrael|Israel⟧!"
 
-[50] *Yeshua* answered him, "Because I said to you, 'I saw you under the fig tree,' do you believe? You will see greater things than these."
+[50] ⟦yeshua|Yeshua|Jesus⟧ answered him, "Because I said to you, 'I saw you under the fig tree,' do you believe? You will see greater things than these."
 
-[51] And he said to him, "Truly, truly, I say to you, you will see heaven opened, and the angels of *Elohim* ascending and descending on the Son of Man."
+[51] And he said to him, "Truly, truly, I say to you, you will see heaven opened, and the angels of ⟦elohim|Elohim|God⟧ ascending and descending on the Son of Man."
 
 ## Changes
 

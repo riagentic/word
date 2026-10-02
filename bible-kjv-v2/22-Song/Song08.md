@@ -14,7 +14,7 @@ the juice of my pomegranate.
 [3] His left hand is under my head,
 and his right hand embraces me!
 
-[4] I adjure you, O daughters of Jerusalem,
+[4] I adjure you, O daughters of ⟦jerusalem|Yerushalayim|Jerusalem⟧,
 that you not stir up or awaken love
 until it pleases.
 
@@ -30,7 +30,7 @@ as a seal upon your arm,
 for love is strong as death,
 jealousy is fierce as Sheol.
 Its flashes are flashes of fire,
-the very flame of Yah.
+the very flame of ⟦yah|Yah|the LORD⟧.
 
 [7] Many waters cannot quench love,
 neither can floods drown it.
@@ -53,12 +53,12 @@ and my breasts were like towers;
 then I was in his eyes
 as one who finds peace.
 
-[11] Solomon had a vineyard at Baal-hamon;
+[11] ⟦solomon|Shlomo|Solomon⟧ had a vineyard at ⟦baal-hamon|Baal Hamon|Baal-hamon⟧;
 he let out the vineyard to keepers;
 each one was to bring for its fruit a thousand pieces of silver.
 
 [12] My vineyard, my very own, is before me;
-you, O Solomon, may have the thousand,
+you, O ⟦solomon|Shlomo|Solomon⟧, may have the thousand,
 and the keepers of the fruit two hundred.
 
 [13] O you who dwell in the gardens,

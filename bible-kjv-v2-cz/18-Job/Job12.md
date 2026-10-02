@@ -1,6 +1,6 @@
 # Jób 12
 
-[1] Tu Job odpověděl a řekl:
+[1] Tu ⟦job|Ijov|Jób⟧ odpověděl a řekl:
 
 [2] „Vskutku, vy jste ten lid
 a moudrost zemře s vámi!
@@ -10,14 +10,14 @@ nejsem za vámi pozadu.
 Kdo by takové věci nevěděl?
 
 [4] Jsem pro posměch svému příteli,
-já, který jsem volal k Eloah, a on mi odpovídal –
+já, který jsem volal k ⟦eloah|Eloah|Bohu⟧, a on mi odpovídal –
 spravedlivý, bezúhonný muž pro posměch!
 
 [5] Kdo je v klidu, pohrdá neštěstím,
 pohotovým strčením pro ty, jimž uklouzávají nohy.
 
 [6] Stanům lupičů se daří
-a ti, kdo popouzejí *Elohim*, jsou v bezpečí –
+a ti, kdo popouzejí ⟦el|El|Boha⟧, jsou v bezpečí –
 ti, kdo nosí svého boha v ruce.
 
 [7] Ale zeptej se zvířat, a poučí tě;
@@ -27,7 +27,7 @@ ptáků nebes, a povědí ti;
 ryby moře ti to vypravují.
 
 [9] Kdo by ze všech těchto nevěděl,
-že to učinila ruka Yahweh?
+že to učinila ruka ⟦yhwh|Jahveho|Hospodina⟧?
 
 [10] V jeho ruce je duše všeho živého
 i duch všeho lidstva.
@@ -80,6 +80,7 @@ nechává je potácet se jako opilce.“
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – tetragram zachován.
+- **"God" → „El“** (v6) – hebrejsky אֵל *El*, ne *Elohim*.
 - **"shadow of death" → „hluboké šero“** (v22) – *tzalmaweth*.
 - **"princes" → „kněze“** (v19) – hebrejsky *kohanim*; kněžská vrstva, ne obecně knížata.
 - **"chief of the people" → „vůdcům národů“** (v24) – *rashei am ha-aretz*.

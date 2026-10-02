@@ -1,8 +1,8 @@
 # Rút 3
 
-[1] Tehdy jí Naomi, její tchyně, řekla: „Má dcero, neměla bych ti hledat místo odpočinku, aby ti bylo dobře?
+[1] Tehdy jí ⟦naomi|Noomi|Noemi⟧, její tchyně, řekla: „Má dcero, neměla bych ti hledat místo odpočinku, aby ti bylo dobře?
 
-[2] A nyní, není Boaz, s jehož služebnicemi jsi byla, náš příbuzný? Hle, dnes večer převívá ječmen na mlatě.
+[2] A nyní, není ⟦boaz|Boaz|Bóaz⟧, s jehož služebnicemi jsi byla, náš příbuzný? Hle, dnes večer převívá ječmen na mlatě.
 
 [3] Umyj se tedy, pomaž se, obleč si plášť a sejdi na mlat; ale nedej se tomu muži poznat, dokud nedojí a nedopije.
 
@@ -12,19 +12,19 @@
 
 [6] Sešla tedy na mlat a udělala všechno, co jí tchyně přikázala.
 
-[7] Když Boaz pojedl a popil a jeho srdce bylo veselé, šel si lehnout na kraj hromady obilí. Ona tiše přišla, odkryla mu nohy a lehla si.
+[7] Když ⟦boaz|Boaz|Bóaz⟧ pojedl a popil a jeho srdce bylo veselé, šel si lehnout na kraj hromady obilí. Ona tiše přišla, odkryla mu nohy a lehla si.
 
 [8] O půlnoci se ten muž polekal a obrátil se; a hle, u jeho nohou ležela žena.
 
-[9] Řekl: „Kdo jsi?“ A ona odpověděla: „Jsem Ruth, tvá služebnice. Rozprostři své křídlo nad svou služebnicí, neboť jsi příbuzný-vykupitel.“
+[9] Řekl: „Kdo jsi?“ A ona odpověděla: „Jsem ⟦ruth|Rut|Rút⟧, tvá služebnice. Rozprostři své křídlo nad svou služebnicí, neboť jsi příbuzný-vykupitel.“
 
-[10] Řekl: „Buď požehnána od Yahweh, má dcero. Tuto svou pozdější laskavost jsi učinila lepší než první – tím, že jsi nešla za mladíky, ať chudými, či bohatými.
+[10] Řekl: „Buď požehnána od ⟦yhwh|Jahveho|Hospodina⟧, má dcero. Tuto svou pozdější laskavost jsi učinila lepší než první – tím, že jsi nešla za mladíky, ať chudými, či bohatými.
 
 [11] A nyní, má dcero, neboj se. Udělám pro tebe všechno, oč žádáš, neboť všichni muži mého lidu vědí, že jsi žena ušlechtilého charakteru.
 
 [12] A nyní, je pravda, že jsem příbuzný-vykupitel; ale je tu jiný příbuzný-vykupitel, bližší než já.
 
-[13] Zůstaň tu přes noc; a ráno, bude-li tě chtít vykoupit, dobře, ať vykoupí. Ale nebude-li ochoten vykoupit, vykoupím tě já, jakože Yahweh žije. Lež až do rána.“
+[13] Zůstaň tu přes noc; a ráno, bude-li tě chtít vykoupit, dobře, ať vykoupí. Ale nebude-li ochoten vykoupit, vykoupím tě já, jakože ⟦yhwh|Jahve|Hospodin⟧ žije. Lež až do rána.“
 
 [14] Ležela tedy u jeho nohou až do rána a vstala dříve, než jeden mohl rozeznat druhého. Řekl: „Ať se neví, že ta žena přišla na mlat.“
 

@@ -1,42 +1,42 @@
 # Genesis 41
 
-[1] After two full years, Pharaoh dreamed: and behold, he was standing by the Nile.
+[1] After two full years, ⟦pharaoh|Paroh|Pharaoh⟧ dreamed: and behold, he was standing by the ⟦nile|Yeor|Nile⟧.
 
-[2] And behold, out of the Nile there came up seven cows, beautiful and plump of flesh; and they grazed in the reed grass.
+[2] And behold, out of the ⟦nile|Yeor|Nile⟧ there came up seven cows, beautiful and plump of flesh; and they grazed in the reed grass.
 
-[3] And behold, seven other cows came up after them out of the Nile, ugly and gaunt of flesh; and they stood next to the other cows on the bank of the Nile.
+[3] And behold, seven other cows came up after them out of the ⟦nile|Yeor|Nile⟧, ugly and gaunt of flesh; and they stood next to the other cows on the bank of the ⟦nile|Yeor|Nile⟧.
 
-[4] And the ugly and gaunt cows ate up the seven beautiful and plump cows. And Pharaoh awoke.
+[4] And the ugly and gaunt cows ate up the seven beautiful and plump cows. And ⟦pharaoh|Paroh|Pharaoh⟧ awoke.
 
 [5] He fell asleep and dreamed a second time: and behold, seven ears of grain were coming up on one stalk, plump and good.
 
 [6] And behold, seven ears, thin and scorched by the east wind, sprouted after them.
 
-[7] And the seven thin ears swallowed up the seven plump and full ears. And Pharaoh awoke, and behold, it was a dream.
+[7] And the seven thin ears swallowed up the seven plump and full ears. And ⟦pharaoh|Paroh|Pharaoh⟧ awoke, and behold, it was a dream.
 
-[8] In the morning his spirit was troubled, and he sent and called for all the diviner-priests of Egypt, and all its wise men. Pharaoh told them his dream, but there was no one who could interpret it for Pharaoh.
+[8] In the morning his spirit was troubled, and he sent and called for all the diviner-priests of ⟦egypt|Mitzrayim|Egypt⟧, and all its wise men. ⟦pharaoh|Paroh|Pharaoh⟧ told them his dream, but there was no one who could interpret it for ⟦pharaoh|Paroh|Pharaoh⟧.
 
-[9] Then the chief cupbearer spoke to Pharaoh, saying, "I remember my offenses today.
+[9] Then the chief cupbearer spoke to ⟦pharaoh|Paroh|Pharaoh⟧, saying, "I remember my offenses today.
 
-[10] Pharaoh was angry with his servants and put me in custody in the house of the captain of the guard — both me and the chief baker.
+[10] ⟦pharaoh|Paroh|Pharaoh⟧ was angry with his servants and put me in custody in the house of the captain of the guard — both me and the chief baker.
 
 [11] We dreamed a dream on the same night, he and I; each of us dreamed a dream with its own meaning.
 
-[12] There was with us a young Hebrew, a servant of the captain of the guard; and we told him, and he interpreted our dreams for us, interpreting for each man according to his own dream.
+[12] There was with us a young ⟦hebrew|Ivri|Hebrew⟧, a servant of the captain of the guard; and we told him, and he interpreted our dreams for us, interpreting for each man according to his own dream.
 
 [13] And as he interpreted to us, so it came to pass: I was restored to my office, and he was hanged."
 
-[14] Then Pharaoh sent and called Joseph, and they rushed him out of the dungeon. He shaved, changed his clothes, and came to Pharaoh.
+[14] Then ⟦pharaoh|Paroh|Pharaoh⟧ sent and called ⟦joseph|Yosef|Joseph⟧, and they rushed him out of the dungeon. He shaved, changed his clothes, and came to ⟦pharaoh|Paroh|Pharaoh⟧.
 
-[15] Pharaoh said to Joseph, "I have dreamed a dream, and there is no one to interpret it; and I have heard it said of you that you hear a dream and can interpret it."
+[15] ⟦pharaoh|Paroh|Pharaoh⟧ said to ⟦joseph|Yosef|Joseph⟧, "I have dreamed a dream, and there is no one to interpret it; and I have heard it said of you that you hear a dream and can interpret it."
 
-[16] Joseph answered Pharaoh, saying, "It is not in me; *Elohim* will give Pharaoh a favorable answer."
+[16] ⟦joseph|Yosef|Joseph⟧ answered ⟦pharaoh|Paroh|Pharaoh⟧, saying, "It is not in me; ⟦elohim|Elohim|God⟧ will give ⟦pharaoh|Paroh|Pharaoh⟧ a favorable answer."
 
-[17] Then Pharaoh said to Joseph, "In my dream, behold, I was standing on the bank of the Nile;
+[17] Then ⟦pharaoh|Paroh|Pharaoh⟧ said to ⟦joseph|Yosef|Joseph⟧, "In my dream, behold, I was standing on the bank of the ⟦nile|Yeor|Nile⟧;
 
-[18] and behold, out of the Nile there came up seven cows, plump of flesh and beautiful of form, and they grazed in the reed grass.
+[18] and behold, out of the ⟦nile|Yeor|Nile⟧ there came up seven cows, plump of flesh and beautiful of form, and they grazed in the reed grass.
 
-[19] And behold, seven other cows came up after them, poor and very ugly of form and gaunt of flesh — such as I had never seen in all the land of Egypt for badness.
+[19] And behold, seven other cows came up after them, poor and very ugly of form and gaunt of flesh — such as I had never seen in all the land of ⟦egypt|Mitzrayim|Egypt⟧ for badness.
 
 [20] And the gaunt and ugly cows ate up the first seven plump cows.
 
@@ -48,71 +48,71 @@
 
 [24] And the thin ears swallowed up the seven good ears. I told this to the diviner-priests, but there was no one who could explain it to me."
 
-[25] Then Joseph said to Pharaoh, "Pharaoh's dream is one; *Elohim* has told Pharaoh what he is about to do.
+[25] Then ⟦joseph|Yosef|Joseph⟧ said to ⟦pharaoh|Paroh|Pharaoh⟧, "⟦pharaoh|Paroh|Pharaoh⟧'s dream is one; ⟦elohim|Elohim|God⟧ has told ⟦pharaoh|Paroh|Pharaoh⟧ what he is about to do.
 
 [26] The seven good cows are seven years, and the seven good ears are seven years; the dream is one.
 
 [27] The seven gaunt and ugly cows that came up after them are seven years, and the seven empty ears scorched by the east wind are seven years of famine.
 
-[28] This is what I said to Pharaoh: *Elohim* has shown Pharaoh what he is about to do.
+[28] This is what I said to ⟦pharaoh|Paroh|Pharaoh⟧: ⟦elohim|Elohim|God⟧ has shown ⟦pharaoh|Paroh|Pharaoh⟧ what he is about to do.
 
-[29] Behold, seven years of great abundance are coming throughout all the land of Egypt.
+[29] Behold, seven years of great abundance are coming throughout all the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
-[30] After them will arise seven years of famine, and all the abundance will be forgotten in the land of Egypt; the famine will consume the land.
+[30] After them will arise seven years of famine, and all the abundance will be forgotten in the land of ⟦egypt|Mitzrayim|Egypt⟧; the famine will consume the land.
 
 [31] And the abundance will not be remembered in the land because of the famine that follows it, for it will be very grievous.
 
-[32] The doubling of Pharaoh's dream is because the thing is fixed by *Elohim*, and *Elohim* will shortly bring it to pass.
+[32] The doubling of ⟦pharaoh|Paroh|Pharaoh⟧'s dream is because the thing is fixed by ⟦elohim|Elohim|God⟧, and ⟦elohim|Elohim|God⟧ will shortly bring it to pass.
 
-[33] Now then, let Pharaoh seek out a discerning and wise man, and set him over the land of Egypt.
+[33] Now then, let ⟦pharaoh|Paroh|Pharaoh⟧ seek out a discerning and wise man, and set him over the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
-[34] Let Pharaoh act, and let him appoint overseers over the land, and take one-fifth of the produce of the land of Egypt during the seven years of abundance.
+[34] Let ⟦pharaoh|Paroh|Pharaoh⟧ act, and let him appoint overseers over the land, and take one-fifth of the produce of the land of ⟦egypt|Mitzrayim|Egypt⟧ during the seven years of abundance.
 
-[35] Let them gather all the food of these good years that come, and store up grain under the authority of Pharaoh — food to be kept in the cities.
+[35] Let them gather all the food of these good years that come, and store up grain under the authority of ⟦pharaoh|Paroh|Pharaoh⟧ — food to be kept in the cities.
 
-[36] The food shall be a reserve for the land against the seven years of famine that will be in the land of Egypt, so that the land may not perish through the famine."
+[36] The food shall be a reserve for the land against the seven years of famine that will be in the land of ⟦egypt|Mitzrayim|Egypt⟧, so that the land may not perish through the famine."
 
-[37] The matter was good in the eyes of Pharaoh and in the eyes of all his servants.
+[37] The matter was good in the eyes of ⟦pharaoh|Paroh|Pharaoh⟧ and in the eyes of all his servants.
 
-[38] And Pharaoh said to his servants, "Can we find such a one as this — a man in whom is the Spirit of *Elohim*?"
+[38] And ⟦pharaoh|Paroh|Pharaoh⟧ said to his servants, "Can we find such a one as this — a man in whom is the Spirit of ⟦elohim|Elohim|God⟧?"
 
-[39] Then Pharaoh said to Joseph, "Since *Elohim* has shown you all this, there is no one as discerning and wise as you are.
+[39] Then ⟦pharaoh|Paroh|Pharaoh⟧ said to ⟦joseph|Yosef|Joseph⟧, "Since ⟦elohim|Elohim|God⟧ has shown you all this, there is no one as discerning and wise as you are.
 
 [40] You shall be over my house, and to your command shall all my people submit; only in respect of the throne will I be greater than you."
 
-[41] And Pharaoh said to Joseph, "See, I have set you over all the land of Egypt."
+[41] And ⟦pharaoh|Paroh|Pharaoh⟧ said to ⟦joseph|Yosef|Joseph⟧, "See, I have set you over all the land of ⟦egypt|Mitzrayim|Egypt⟧."
 
-[42] Then Pharaoh took off his signet ring from his hand and put it on Joseph's hand, and clothed him in garments of fine linen, and put a gold chain around his neck.
+[42] Then ⟦pharaoh|Paroh|Pharaoh⟧ took off his signet ring from his hand and put it on ⟦joseph|Yosef|Joseph⟧'s hand, and clothed him in garments of fine linen, and put a gold chain around his neck.
 
-[43] He made him ride in his second chariot; and they called out before him, "Avrekh!" Thus he set him over all the land of Egypt.
+[43] He made him ride in his second chariot; and they called out before him, "⟦avrekh|Avrech|Bow the knee⟧!" Thus he set him over all the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
-[44] And Pharaoh said to Joseph, "I am Pharaoh, and without your consent no one shall lift up his hand or foot in all the land of Egypt."
+[44] And ⟦pharaoh|Paroh|Pharaoh⟧ said to ⟦joseph|Yosef|Joseph⟧, "I am ⟦pharaoh|Paroh|Pharaoh⟧, and without your consent no one shall lift up his hand or foot in all the land of ⟦egypt|Mitzrayim|Egypt⟧."
 
-[45] Pharaoh gave Joseph the name Tsaphenat-Paneach, and gave him as wife Asenath the daughter of Potiphera, priest of On. So Joseph went out over the land of Egypt.
+[45] ⟦pharaoh|Paroh|Pharaoh⟧ gave ⟦joseph|Yosef|Joseph⟧ the name ⟦zaphenath-paneah|Tzofnat Paneach|Zaphenath-paneah⟧, and gave him as wife ⟦asenath|Asnat|Asenath⟧ the daughter of ⟦potiphera|Poti-Fera|Potiphera⟧, priest of On. So ⟦joseph|Yosef|Joseph⟧ went out over the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
-[46] Joseph was 30 years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.
+[46] ⟦joseph|Yosef|Joseph⟧ was 30 years old when he stood before ⟦pharaoh|Paroh|Pharaoh⟧ king of ⟦egypt|Mitzrayim|Egypt⟧. And ⟦joseph|Yosef|Joseph⟧ went out from the presence of ⟦pharaoh|Paroh|Pharaoh⟧, and went throughout all the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
 [47] During the seven years of abundance, the earth brought forth in great handfuls.
 
-[48] He gathered all the food of these seven years, which came in the land of Egypt, and put the food in the cities — in each city, the food from the fields around it.
+[48] He gathered all the food of these seven years, which came in the land of ⟦egypt|Mitzrayim|Egypt⟧, and put the food in the cities — in each city, the food from the fields around it.
 
-[49] And Joseph stored up grain like the sand of the sea, very much, until he stopped measuring, for it was beyond measure.
+[49] And ⟦joseph|Yosef|Joseph⟧ stored up grain like the sand of the sea, very much, until he stopped measuring, for it was beyond measure.
 
-[50] Before the years of famine came, two sons were born to Joseph, whom Asenath the daughter of Potiphera, priest of On, bore to him.
+[50] Before the years of famine came, two sons were born to ⟦joseph|Yosef|Joseph⟧, whom ⟦asenath|Asnat|Asenath⟧ the daughter of ⟦potiphera|Poti-Fera|Potiphera⟧, priest of On, bore to him.
 
-[51] Joseph named the firstborn Manasseh, "for *Elohim* has made me forget all my hardship and all my father's house."
+[51] ⟦joseph|Yosef|Joseph⟧ named the firstborn ⟦manasseh|Menashe|Manasseh⟧, "for ⟦elohim|Elohim|God⟧ has made me forget all my hardship and all my father's house."
 
-[52] And the name of the second he called Ephraim, "for *Elohim* has made me fruitful in the land of my affliction."
+[52] And the name of the second he called ⟦ephraim|Efrayim|Ephraim⟧, "for ⟦elohim|Elohim|God⟧ has made me fruitful in the land of my affliction."
 
-[53] The seven years of abundance that came in the land of Egypt ended,
+[53] The seven years of abundance that came in the land of ⟦egypt|Mitzrayim|Egypt⟧ ended,
 
-[54] and the seven years of famine began to come, just as Joseph had said. There was famine in all the lands, but in all the land of Egypt there was bread.
+[54] and the seven years of famine began to come, just as ⟦joseph|Yosef|Joseph⟧ had said. There was famine in all the lands, but in all the land of ⟦egypt|Mitzrayim|Egypt⟧ there was bread.
 
-[55] When all the land of Egypt was famished, the people cried out to Pharaoh for bread. Pharaoh said to all the Egyptians, "Go to Joseph; do whatever he says to you."
+[55] When all the land of ⟦egypt|Mitzrayim|Egypt⟧ was famished, the people cried out to ⟦pharaoh|Paroh|Pharaoh⟧ for bread. ⟦pharaoh|Paroh|Pharaoh⟧ said to all the ⟦egyptians|Mitzrim|Egyptians⟧, "Go to ⟦joseph|Yosef|Joseph⟧; do whatever he says to you."
 
-[56] When the famine was over all the face of the earth, Joseph opened all the storehouses and sold grain to the Egyptians; and the famine grew severe in the land of Egypt.
+[56] When the famine was over all the face of the earth, ⟦joseph|Yosef|Joseph⟧ opened all the storehouses and sold grain to the ⟦egyptians|Mitzrim|Egyptians⟧; and the famine grew severe in the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
-[57] All the earth came to Egypt to buy grain from Joseph, because the famine was severe over all the earth.
+[57] All the earth came to ⟦egypt|Mitzrayim|Egypt⟧ to buy grain from ⟦joseph|Yosef|Joseph⟧, because the famine was severe over all the earth.
 
 ## Changes
 

@@ -1,60 +1,60 @@
 # Jozue 18
 
-[1] Celé shromáždění synů Israele se sešlo v Shilohu a postavili tam stan setkávání; a země jim byla podrobena.
+[1] Celé shromáždění synů ⟦israel|Jisraele|Izraele⟧ se sešlo v ⟦shiloh|Šilu|Šílu⟧ a postavili tam stan setkávání; a země jim byla podrobena.
 
-[2] Mezi syny Israele však zůstávalo sedm kmenů, jejichž dědictví dosud nebylo rozděleno.
+[2] Mezi syny ⟦israel|Jisraele|Izraele⟧ však zůstávalo sedm kmenů, jejichž dědictví dosud nebylo rozděleno.
 
-[3] Joshua řekl synům Israele: „Jak dlouho budete otálet a nepůjdete zaujmout zemi, kterou vám dal Yahweh, *Elohim* vašich otců?
+[3] ⟦joshua|Jehošua|Jozue⟧ řekl synům ⟦israel|Jisraele|Izraele⟧: „Jak dlouho budete otálet a nepůjdete zaujmout zemi, kterou vám dal ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ vašich otců?
 
 [4] Určete si z každého kmene tři muže a já je vyšlu. Vydají se a projdou zemi a popíší ji podle svých dědictví; potom se vrátí ke mně.
 
-[5] Rozdělí ji na sedm dílů. Judah zůstane na svém území na jihu a dům Josepha zůstane na svém území na severu.
+[5] Rozdělí ji na sedm dílů. ⟦judah|Jehuda|Juda⟧ zůstane na svém území na jihu a dům Josefa zůstane na svém území na severu.
 
-[6] Popíšete zemi v sedmi dílech a ten popis přinesete sem ke mně; a já vám zde budu metat los před Yahweh, naším *Elohim*.
+[6] Popíšete zemi v sedmi dílech a ten popis přinesete sem ke mně; a já vám zde budu metat los před ⟦yhwh|Jahvem|Hospodinem⟧, naším ⟦elohim|Elohim|Bohem⟧.
 
-[7] Levité nemají mezi vámi žádný podíl, neboť jejich dědictvím je kněžství Yahweh; a Gad, Reuben a polovina kmene Manasseh již obdrželi své dědictví za Jordanem na východě, které jim dal Moses, služebník Yahweh.“
+[7] ⟦levites|Levijim|Lévijci⟧ nemají mezi vámi žádný podíl, neboť jejich dědictvím je kněžství ⟦yhwh|Jahveho|Hospodina⟧; a ⟦gad|Gad|Gád⟧, ⟦reuben|Reuven|Rúben⟧ a polovina kmene ⟦manasseh|Menaše|Manases⟧ již obdrželi své dědictví za ⟦jordan|Jardenem|Jordánem⟧ na východě, které jim dal ⟦moses|Moše|Mojžíš⟧, služebník ⟦yhwh|Jahveho|Hospodina⟧.“
 
-[8] Muži se tedy vydali na cestu a Joshua přikázal těm, kdo šli popsat zemi: „Jděte, projděte zemi, popište ji a vraťte se ke mně. Zde v Shilohu vám budu metat los před Yahweh.“
+[8] Muži se tedy vydali na cestu a ⟦joshua|Jehošua|Jozue⟧ přikázal těm, kdo šli popsat zemi: „Jděte, projděte zemi, popište ji a vraťte se ke mně. Zde v ⟦shiloh|Šilu|Šílu⟧ vám budu metat los před ⟦yhwh|Jahvem|Hospodinem⟧.“
 
-[9] Muži tedy šli, prošli zemi, popsali ji podle měst v sedmi dílech ve svitku a vrátili se k Joshuovi do tábora v Shilohu.
+[9] Muži tedy šli, prošli zemi, popsali ji podle měst v sedmi dílech ve svitku a vrátili se k ⟦joshua|Jehošuovi|Jozuovi⟧ do tábora v ⟦shiloh|Šilu|Šílu⟧.
 
-[10] Joshua jim metal los v Shilohu před Yahweh; a tam Joshua rozdělil zemi synům Israele podle jejich oddílů.
+[10] ⟦joshua|Jehošua|Jozue⟧ jim metal los v ⟦shiloh|Šilu|Šílu⟧ před ⟦yhwh|Jahvem|Hospodinem⟧; a tam ⟦joshua|Jehošua|Jozue⟧ rozdělil zemi synům ⟦israel|Jisraele|Izraele⟧ podle jejich oddílů.
 
-[11] Vyšel los pro kmen synů Benjamina podle jejich rodů; území jejich losu leželo mezi syny Judah a syny Josepha.
+[11] Vyšel los pro kmen synů ⟦benjamin|Binjamina|Benjamína⟧ podle jejich rodů; území jejich losu leželo mezi syny ⟦judah|Jehudy|Judy⟧ a syny Josefa.
 
-[12] Jejich hranice na severní straně začínala u Jordanu; hranice stoupala ke svahu severně od Jericha, pak pahorkatinou na západ a končila u pouště Beth-aven.
+[12] Jejich hranice na severní straně začínala u ⟦jordan|Jardenu|Jordánu⟧; hranice stoupala ke svahu severně od Jericha, pak pahorkatinou na západ a končila u pouště ⟦beth-aven|Bejt Aven|Bét-aven⟧.
 
-[13] Odtud hranice přecházela k Luzu, k jižnímu svahu Luzu (to je Bethel); hranice sestupovala k Ataroth-addaru, k pahorku jižně od Dolního Beth-horonu.
+[13] Odtud hranice přecházela k ⟦luz|Luzu|Lúzu⟧, k jižnímu svahu ⟦luz|Luzu|Lúzu⟧ (to je ⟦bethel|Bejt El|Bét-el⟧); hranice sestupovala k ⟦ataroth-addar|Atrot Addaru|Atarót-adaru⟧, k pahorku jižně od Dolního ⟦beth-horon|Bejt Choronu|Bét-chorónu⟧.
 
-[14] Potom se hranice stáčela po západní straně k jihu od pahorku, který leží jižně od Beth-horonu; končila u Kiriath-baalu (to je Kiriath-jearim), města synů Judah. To byla západní strana.
+[14] Potom se hranice stáčela po západní straně k jihu od pahorku, který leží jižně od ⟦beth-horon|Bejt Choronu|Bét-chorónu⟧; končila u ⟦kiriath-baal|Kirjat Baalu|Kirjat-baalu⟧ (to je ⟦kiriath-jearim|Kirjat Jearim|Kirjat-jearím⟧), města synů ⟦judah|Jehudy|Judy⟧. To byla západní strana.
 
-[15] Jižní strana začínala na okraji Kiriath-jearimu a hranice vycházela na západě a vedla k prameni vod Nephtoah.
+[15] Jižní strana začínala na okraji ⟦kiriath-jearim|Kirjat Jearimu|Kirjat-jearímu⟧ a hranice vycházela na západě a vedla k prameni vod ⟦nephtoah|Neftoach|Neftóach⟧.
 
-[16] Hranice sestupovala k okraji hory naproti údolí Ben-hinnom, které je v údolí Rephaim na severu; sestupovala do údolí Hinnom, k jižnímu svahu Jebusity, a sestupovala k En-rogelu.
+[16] Hranice sestupovala k okraji hory naproti údolí ⟦ben-hinnom|Ben Hinnom|Ben-hinóm⟧, které je v údolí ⟦rephaim|Refaim|Refájců⟧ na severu; sestupovala do údolí ⟦hinnom|Hinnom|Hinóm⟧, k jižnímu svahu ⟦jebusite|Jevusiho|Jebúsejce⟧, a sestupovala k ⟦en-rogel|Ejn Rogelu|Én-rogelu⟧.
 
-[17] Stáčela se na sever a pokračovala k En-shemeshi a dále ke Gelilothu, který leží naproti stoupání Adummim; sestupovala ke Kameni Bohana, syna Reubenova.
+[17] Stáčela se na sever a pokračovala k ⟦en-shemesh|Ejn Šemeši|Én-šemeši⟧ a dále ke ⟦geliloth|Gelilotu|Gelilótu⟧, který leží naproti stoupání ⟦adummim|Adummim|Adumím⟧; sestupovala ke Kameni Bohana, syna ⟦reuben|Reuvenova|Rúbenova⟧.
 
-[18] Pokračovala k severnímu svahu Beth-arabah a sestupovala do Arabah;
+[18] Pokračovala k severnímu svahu ⟦beth-arabah|Bejt HaAravy|Bét-araby⟧ a sestupovala do ⟦arabah|Aravy|pustiny⟧;
 
-[19] potom hranice pokračovala k severnímu svahu Beth-hoglah a končila u severního zálivu Slaného moře, na jižním konci Jordanu. To byla jižní hranice.
+[19] potom hranice pokračovala k severnímu svahu ⟦beth-hoglah|Bejt Chogly|Bét-chogly⟧ a končila u severního zálivu Slaného moře, na jižním konci ⟦jordan|Jardenu|Jordánu⟧. To byla jižní hranice.
 
-[20] Jordan byl jeho hranicí na východní straně. To bylo dědictví synů Benjamina podle hranic kolem něho, podle jejich rodů.
+[20] ⟦jordan|Jarden|Jordán⟧ byl jeho hranicí na východní straně. To bylo dědictví synů ⟦benjamin|Binjamina|Benjamína⟧ podle hranic kolem něho, podle jejich rodů.
 
-[21] Města kmene synů Benjamina podle jejich rodů byla: Jericho, Beth-hoglah, Emek-keziz,
+[21] Města kmene synů ⟦benjamin|Binjamina|Benjamína⟧ podle jejich rodů byla: Jericho, ⟦beth-hoglah|Bejt Chogla|Bét-chogla⟧, ⟦emek-keziz|Emek Kecic|Emek-kesís⟧,
 
-[22] Beth-arabah, Zemaraim, Bethel,
+[22] ⟦beth-arabah|Bejt HaArava|Bét-araba⟧, ⟦zemaraim|Cemarajim|Semarajim⟧, ⟦bethel|Bejt El|Bét-el⟧,
 
-[23] Avvim, Parah, Ophrah,
+[23] ⟦avvim-town|Avvim|Avím⟧, ⟦parah|Para|Pára⟧, Ofra,
 
-[24] Chephar-ammoni, Ophni a Geba – dvanáct měst s jejich vesnicemi.
+[24] ⟦chephar-ammoni|Kefar HaAmmoni|Kefar-amonaj⟧, ⟦ophni|Ofni|Ofní⟧ a ⟦geba|Geva|Geba⟧ – dvanáct měst s jejich vesnicemi.
 
-[25] Gibeon, Ramah, Beeroth,
+[25] ⟦gibeon|Givon|Gibeón⟧, ⟦ramah|Rama|Ráma⟧, ⟦beeroth|Beerot|Beerót⟧,
 
-[26] Mizpeh, Chephirah, Mozah,
+[26] ⟦mizpeh|Micpe|Mispe⟧, ⟦chephirah|Kefira|Kefíra⟧, ⟦mozah|Moca|Mosa⟧,
 
-[27] Rekem, Irpeel, Taralah,
+[27] Rekem, Jirpeel, Tarala,
 
-[28] Zela, Eleph, Jebusita (to je Jerusalem), Gibeath a Kiriath – čtrnáct měst s jejich vesnicemi. To je dědictví synů Benjamina podle jejich rodů.
+[28] ⟦zela|Cela|Sela⟧, Elef, ⟦jebusite|Jevusi|Jebúsejec⟧ (to je ⟦jerusalem|Jerušalajim|Jeruzalém⟧), ⟦gibeath|Givat|Gibeat⟧ a Kirjat – čtrnáct měst s jejich vesnicemi. To je dědictví synů ⟦benjamin|Binjamina|Benjamína⟧ podle jejich rodů.
 
 ## Změny
 

@@ -6,7 +6,7 @@ but a harsh word stirs up anger.
 [2] The tongue of the wise commends knowledge,
 but the mouths of fools pour out folly.
 
-[3] The eyes of Yahweh are in every place,
+[3] The eyes of ⟦yhwh|Yahweh|the LORD⟧ are in every place,
 keeping watch on the evil and the good.
 
 [4] A gentle tongue is a tree of life,
@@ -21,16 +21,16 @@ but trouble befalls the income of the wicked.
 [7] The lips of the wise spread knowledge;
 not so the hearts of fools.
 
-[8] The sacrifice of the wicked is an abomination to Yahweh,
+[8] The sacrifice of the wicked is an abomination to ⟦yhwh|Yahweh|the LORD⟧,
 but the prayer of the upright is his delight.
 
-[9] The way of the wicked is an abomination to Yahweh,
+[9] The way of the wicked is an abomination to ⟦yhwh|Yahweh|the LORD⟧,
 but he loves him who pursues righteousness.
 
 [10] There is severe discipline for him who forsakes the way;
 whoever hates reproof will die.
 
-[11] Sheol and Abaddon lie open before Yahweh;
+[11] Sheol and ⟦abaddon|Avaddon|Abaddon⟧ lie open before ⟦yhwh|Yahweh|the LORD⟧;
 how much more the hearts of the children of man!
 
 [12] A scoffer does not like to be reproved;
@@ -45,7 +45,7 @@ but the mouths of fools feed on folly.
 [15] All the days of the afflicted are evil,
 but the cheerful of heart has a continual feast.
 
-[16] Better is a little with the fear of Yahweh
+[16] Better is a little with the fear of ⟦yhwh|Yahweh|the LORD⟧
 than great treasure and trouble with it.
 
 [17] Better is a dinner of herbs where love is
@@ -72,10 +72,10 @@ and a word in season, how good it is!
 [24] The path of life leads upward for the prudent,
 that he may turn away from Sheol beneath.
 
-[25] Yahweh tears down the house of the proud
+[25] ⟦yhwh|Yahweh|The LORD⟧ tears down the house of the proud
 but maintains the widow's boundary stone.
 
-[26] The thoughts of the wicked are an abomination to Yahweh,
+[26] The thoughts of the wicked are an abomination to ⟦yhwh|Yahweh|the LORD⟧,
 but gracious words are pure.
 
 [27] Whoever is greedy for unjust gain troubles his own household,
@@ -84,7 +84,7 @@ but he who hates bribes will live.
 [28] The heart of the righteous ponders how to answer,
 but the mouth of the wicked pours out evil things.
 
-[29] Yahweh is far from the wicked,
+[29] ⟦yhwh|Yahweh|The LORD⟧ is far from the wicked,
 but he hears the prayer of the righteous.
 
 [30] The light of the eyes rejoices the heart,
@@ -96,7 +96,7 @@ will dwell among the wise.
 [32] Whoever ignores instruction despises his own soul,
 but he who listens to reproof gains intelligence.
 
-[33] The fear of Yahweh is instruction in wisdom,
+[33] The fear of ⟦yhwh|Yahweh|the LORD⟧ is instruction in wisdom,
 and humility comes before honor.
 
 ## Changes

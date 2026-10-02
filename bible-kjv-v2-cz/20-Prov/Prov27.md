@@ -58,7 +58,7 @@ a kdo střeží svého pána, bude poctěn.
 [19] Jako ve vodě tvář odráží tvář,
 tak srdce člověka odráží člověka.
 
-[20] Sheol a Abaddon se nikdy nenasytí
+[20] ⟦sheol|Šeol|Podsvětí⟧ a ⟦abaddon|Avaddon|Abadon⟧ se nikdy nenasytí
 a nikdy se nenasytí oči člověka.
 
 [21] Tavicí kelímek je pro stříbro a pec pro zlato

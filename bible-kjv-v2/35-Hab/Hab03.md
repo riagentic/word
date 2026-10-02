@@ -1,14 +1,14 @@
 # Habakkuk 3
 
-[1] A prayer of Habakkuk the prophet, according to Shigyonot.
+[1] A prayer of ⟦habakkuk|Chavaqquq|Habakkuk⟧ the prophet, according to ⟦shigyonot|Shigyonot|Shigionoth⟧.
 
-[2] O Yahweh, I have heard the report of you,
-and your work, O Yahweh, do I fear.
+[2] O ⟦yhwh|Yahweh|LORD⟧, I have heard the report of you,
+and your work, O ⟦yhwh|Yahweh|LORD⟧, do I fear.
 In the midst of the years revive it;
 in the midst of the years make it known;
 in wrath remember mercy.
 
-[3] *Elohim* came from Teman,
+[3] ⟦elohim|Elohim|God⟧ came from Teman,
 and the Holy One from Mount Paran. Selah.
 His splendor covered the heavens,
 and the earth was full of his praise.
@@ -26,10 +26,10 @@ then the eternal mountains were scattered;
 the everlasting hills sank low.
 His were the everlasting ways.
 
-[7] I saw the tents of Cushan in affliction;
-the curtains of the land of Midian did tremble.
+[7] I saw the tents of ⟦cushan|Kushan|Cushan⟧ in affliction;
+the curtains of the land of ⟦midian|Midyan|Midian⟧ did tremble.
 
-[8] Was your wrath against the rivers, O Yahweh?
+[8] Was your wrath against the rivers, O ⟦yhwh|Yahweh|LORD⟧?
 Was your anger against the rivers,
 or your indignation against the sea,
 when you rode on your horses,
@@ -77,10 +77,10 @@ and the fields yield no food,
 the flock be cut off from the fold
 and there be no herd in the stalls,**
 
-**[18] yet I will rejoice in Yahweh;
-I will take joy in the *Elohim* of my salvation.**
+**[18] yet I will rejoice in ⟦yhwh|Yahweh|the LORD⟧;
+I will take joy in the ⟦elohim|Elohim|God⟧ of my salvation.**
 
-[19] Lord Yahweh is my strength;
+[19] ⟦yhwh|Yahweh|GOD,⟧ ⟦adonai|Adonai|the Lord,⟧ is my strength;
 he makes my feet like the deer's;
 he makes me tread on my high places.
 
@@ -90,7 +90,7 @@ To the choirmaster: with stringed instruments.
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
-- **"Lord GOD" → "Lord Yahweh"** (v19) — Hebrew אֲדֹנָי יְהוִה.
+- **"Lord GOD" → "Yahweh Adonai"** (v19) — Hebrew יְהוִה אֲדֹנָי, in the MT order.
 - **Poetry formatted with blockquote indentation** (throughout) — KJV prose; the entire chapter is a theophanic psalm (liturgical poetry).
 - **"O LORD, I have heard thy speech, and was afraid" → "O Yahweh, I have heard the report of you, and your work, O Yahweh, do I fear"** (v2) — Hebrew שָׁמַעְתִּי שִׁמְעֲךָ יָרֵאתִי *shama'ti shim'akha yare'ti*; "report of you" for *shim'akha* = your report/fame; "I fear" more precise than "was afraid."
 - **"His glory covered the heavens" → "His splendor covered the heavens"** (v3) — Hebrew כִּסָּה שָׁמַיִם הוֹדוֹ *kissa shamayim hodo*; *hod* = splendor/majesty; "splendor" more vivid than "glory" here.
@@ -111,6 +111,6 @@ To the choirmaster: with stringed instruments.
 - **"Thou didst walk through the sea with thine horses, through the heap of great waters" → "You trampled the sea with your horses, the surging of mighty waters"** (v15) — Hebrew דָּרַכְתָּ בְיָם סוּסֶיךָ *darakhtá bayam susekha*; "trampled" for *darak* = to tread/trample.
 - **"When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops" → "I hear, and my body trembles; my lips quiver at the sound; rottenness enters into my bones; my legs tremble beneath me. Yet I will quietly wait for the day of trouble to come upon people who invade us"** (v16) — Hebrew וְתַחְתַּי אֶרְגָּז *vetachtay ergazz* = my legs tremble beneath me; the final clause restructured: "come upon people who invade us."
 - **"Yet I will rejoice in the Lord, I will joy in the God of my salvation" → "yet I will rejoice in Yahweh; I will take joy in the *Elohim* of my salvation"** (v18) — Hebrew אָגִילָה בַּיהוָה *aggilah baYahweh*; *Elohim* retained; the famous confession.
-- **"The Lord God is my strength" → "Lord Yahweh is my strength"** (v19) — Hebrew אֲדֹנָי יְהוִה חֵילִי; *Adonai* retained.
+- **"The Lord God is my strength" → "Yahweh Adonai is my strength"** (v19) — Hebrew יְהוִה אֲדֹנָי חֵילִי; *Adonai* retained.
 - **"he will make me to walk upon mine high places" → "he makes me tread on my high places"** (v19) — Hebrew בָּמֹותַי *bamotay* = my high places; "tread on my high places" = victory over enemies on the hills.
 - **"To the chief singer on my stringed instruments" → "To the choirmaster: with stringed instruments"** (v19) — Hebrew לַמְנַצֵּחַ בִּנְגִינוֹתָי *lamnatzzeach bineginotay*; the liturgical subscription; "choirmaster" for *menatze'ach*.

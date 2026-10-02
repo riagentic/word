@@ -1,6 +1,6 @@
 # Jób 16
 
-[1] Tu Job odpověděl a řekl:
+[1] Tu ⟦job|Ijov|Jób⟧ odpověděl a řekl:
 
 [2] „Mnoho takových věcí jsem slyšel;
 bídní utěšitelé jste vy všichni.
@@ -33,7 +33,7 @@ můj protivník na mě brousí zrak.
 potupně mě bijí do tváře;
 srocují se proti mně.
 
-[11] *Elohim* mě vydává bezbožným
+[11] ⟦el|El|Bůh⟧ mě vydává bezbožným
 a vrhá mě do rukou svévolníků.
 
 [12] Byl jsem v klidu, ale on mě roztříštil;
@@ -63,9 +63,9 @@ a ať můj křik nenajde místo odpočinku.
 a ten, kdo za mě svědčí, je na výšinách.
 
 [20] Mí přátelé se mi posmívají;
-mé oko prolévá slzy k Eloah –
+mé oko prolévá slzy k ⟦eloah|Eloah|Bohu⟧ –
 
-[21] aby muž mohl hájit muže před Eloah
+[21] aby muž mohl hájit muže před ⟦eloah|Eloah|Bohem⟧
 jako syn člověka svého bližního.
 
 [22] Neboť až uplyne několik let,
@@ -73,6 +73,7 @@ půjdu cestou, odkud se nevrátím.“
 
 ## Změny
 
+- **"God" → „El“** (v11) – hebrejsky אֵל *El*, ne *Elohim*.
 - **"shadow of death" → „hluboký stín“** (v16) – *tzalmaweth*.
 - **"reins" → „ledviny“** (v13) – *kilyot*.
 - **"giant" → „bojovník“** (v14) – *gibbor*.

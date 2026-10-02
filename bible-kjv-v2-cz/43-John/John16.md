@@ -2,7 +2,7 @@
 
 [1] „To všechno jsem vám řekl, abyste neodpadli.
 
-[2] Vyloučí vás ze synagog. Ano, přichází hodina, kdy každý, kdo vás zabije, bude se domnívat, že tím slouží *Elohim*.
+[2] Vyloučí vás ze synagog. Ano, přichází hodina, kdy každý, kdo vás zabije, bude se domnívat, že tím slouží ⟦elohim|Elohim|Bohu⟧.
 
 [3] A to budou činit, protože nepoznali Otce ani mne.
 
@@ -38,7 +38,7 @@ Od počátku jsem vám to neříkal, protože jsem byl s vámi.
 
 [18] Říkali tedy: „Co znamená to ‚malou chvíli‘? Nevíme, o čem mluví.“
 
-[19] *Yeshua* poznal, že se ho chtějí zeptat, a řekl jim: „Na tohle se mezi sebou ptáte, co jsem myslel tím, že jsem řekl: ‚Ještě malou chvíli, a neuvidíte mě, a opět malou chvíli, a uvidíte mě‘?
+[19] ⟦yeshua|Ješua|Ježíš⟧ poznal, že se ho chtějí zeptat, a řekl jim: „Na tohle se mezi sebou ptáte, co jsem myslel tím, že jsem řekl: ‚Ještě malou chvíli, a neuvidíte mě, a opět malou chvíli, a uvidíte mě‘?
 
 [20] Vpravdě, vpravdě vám říkám, vy budete plakat a naříkat, ale svět se bude radovat. Budete zarmouceni, ale **váš zármutek se promění v radost**.
 
@@ -54,15 +54,15 @@ Od počátku jsem vám to neříkal, protože jsem byl s vámi.
 
 [26] V onen den budete prosit v mém jménu, a neříkám vám, že budu za vás prosit Otce;
 
-[27] neboť sám Otec vás miluje, protože vy jste milovali mne a uvěřili jste, že jsem vyšel od *Elohim*.
+[27] neboť sám Otec vás miluje, protože vy jste milovali mne a uvěřili jste, že jsem vyšel od ⟦elohim|Elohim|Boha⟧.
 
 [28] Vyšel jsem od Otce a přišel jsem na svět; nyní svět opouštím a jdu k Otci.“
 
 [29] Jeho učedníci řekli: „Hle, teď mluvíš otevřeně a nemluvíš v obrazech!
 
-[30] Nyní víme, že víš všechno a nepotřebuješ, aby se tě kdo vyptával; proto věříme, že jsi vyšel od *Elohim*.“
+[30] Nyní víme, že víš všechno a nepotřebuješ, aby se tě kdo vyptával; proto věříme, že jsi vyšel od ⟦elohim|Elohim|Boha⟧.“
 
-[31] *Yeshua* jim odpověděl: „Teď věříte?
+[31] ⟦yeshua|Ješua|Ježíš⟧ jim odpověděl: „Teď věříte?
 
 [32] Hle, přichází hodina, ano, již přišla, kdy se rozprchnete každý ke svému a mne necháte samotného. Ale nejsem sám, protože Otec je se mnou.
 

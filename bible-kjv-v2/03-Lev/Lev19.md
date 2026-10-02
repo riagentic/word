@@ -1,78 +1,78 @@
 # Leviticus 19
 
-[1] Yahweh spoke to Moses, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[2] "Speak to all the congregation of the children of Israel, and say to them: 'You shall be holy, for I Yahweh your *Elohim* am holy.
+[2] "Speak to all the congregation of the children of ⟦israel|Yisrael|Israel⟧, and say to them: 'You shall be holy, for I ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ am holy.
 
-[3] Every one of you shall revere his mother and his father, and keep my sabbaths. I am Yahweh your *Elohim*.
+[3] Every one of you shall revere his mother and his father, and keep my ⟦shabbat|Shabbatot|Sabbaths⟧. I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
-[4] Do not turn to idols or make for yourselves cast gods. I am Yahweh your *Elohim*.
+[4] Do not turn to idols or make for yourselves cast gods. I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
-[5] When you offer a sacrifice of peace offerings to Yahweh, you shall offer it so that you may be accepted.
+[5] When you offer a sacrifice of peace offerings to ⟦yhwh|Yahweh|the LORD⟧, you shall offer it so that you may be accepted.
 
 [6] It shall be eaten on the day you offer it, or on the next day; what is left over until the third day shall be burned with fire.
 
 [7] If any of it is eaten on the third day, it is foul meat; it shall not be accepted.
 
-[8] Everyone who eats it shall bear his iniquity, because he has profaned what is holy to Yahweh; that person shall be cut off from among his people.
+[8] Everyone who eats it shall bear his iniquity, because he has profaned what is holy to ⟦yhwh|Yahweh|the LORD⟧; that person shall be cut off from among his people.
 
 [9] When you reap the harvest of your land, you shall not reap to the very edges of your field, nor shall you gather the gleanings of your harvest.
 
-[10] You shall not strip your vineyard bare, nor gather the fallen grapes of your vineyard; you shall leave them for the poor and the foreigner. I am Yahweh your *Elohim*.
+[10] You shall not strip your vineyard bare, nor gather the fallen grapes of your vineyard; you shall leave them for the poor and the foreigner. I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
 [11] You shall not steal; you shall not deal falsely; you shall not lie to one another.
 
-[12] You shall not swear by my name falsely, so as to profane the name of your *Elohim*. I am Yahweh.
+[12] You shall not swear by my name falsely, so as to profane the name of your ⟦elohim|Elohim|God⟧. I am ⟦yhwh|Yahweh|the LORD⟧.
 
 [13] You shall not oppress your neighbor or rob him. The wages of a hired worker shall not remain with you all night until morning.
 
-[14] You shall not curse the deaf, nor put a stumbling block before the blind, but you shall fear your *Elohim*. I am Yahweh.
+[14] You shall not curse the deaf, nor put a stumbling block before the blind, but you shall fear your ⟦elohim|Elohim|God⟧. I am ⟦yhwh|Yahweh|the LORD⟧.
 
 [15] You shall do no injustice in judgment; you shall not be partial to the poor, nor defer to the great; with righteousness you shall judge your neighbor.
 
-[16] You shall not go about as a slanderer among your people; you shall not stand against the blood of your neighbor. I am Yahweh.
+[16] You shall not go about as a slanderer among your people; you shall not stand against the blood of your neighbor. I am ⟦yhwh|Yahweh|the LORD⟧.
 
 [17] You shall not hate your brother in your heart. You shall surely rebuke your neighbor, so that you do not incur sin because of him.
 
-[18] You shall not take vengeance, nor bear a grudge against the sons of your people, but you shall love your neighbor as yourself. I am Yahweh.
+[18] You shall not take vengeance, nor bear a grudge against the sons of your people, but you shall love your neighbor as yourself. I am ⟦yhwh|Yahweh|the LORD⟧.
 
 [19] You shall keep my statutes. You shall not let your cattle breed with a different kind; you shall not sow your field with two kinds of seed; and a garment of two kinds of material mixed together shall not come upon you.
 
 [20] If a man lies sexually with a woman who is a slave-woman designated for another man, but not yet ransomed or given her freedom, there shall be an investigation; they shall not be put to death, because she was not free.
 
-[21] He shall bring his guilt offering to Yahweh, to the entrance of the Tent of Meeting — a ram for a guilt offering.
+[21] He shall bring his guilt offering to ⟦yhwh|Yahweh|the LORD⟧, to the entrance of the Tent of Meeting — a ram for a guilt offering.
 
-[22] The priest shall make atonement for him with the ram of the guilt offering before Yahweh for the sin that he has committed, and he shall be forgiven for the sin that he has committed.
+[22] The priest shall make atonement for him with the ram of the guilt offering before ⟦yhwh|Yahweh|the LORD⟧ for the sin that he has committed, and he shall be forgiven for the sin that he has committed.
 
 [23] When you come into the land and plant any tree for food, you shall regard its fruit as uncircumcised; for three years it shall be uncircumcised to you — it shall not be eaten.
 
-[24] In the fourth year all its fruit shall be holy — a praise-offering to Yahweh.
+[24] In the fourth year all its fruit shall be holy — a praise-offering to ⟦yhwh|Yahweh|the LORD⟧.
 
-[25] In the fifth year you may eat its fruit, that it may yield more richly for you. I am Yahweh your *Elohim*.
+[25] In the fifth year you may eat its fruit, that it may yield more richly for you. I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
 [26] You shall not eat anything with the blood. You shall not practice divination or soothsaying.
 
 [27] You shall not round off the edge of the hair of your head, nor mar the edges of your beard.
 
-[28] You shall not make any cuts in your body for the dead, nor make any tattoo marks upon yourselves. I am Yahweh.
+[28] You shall not make any cuts in your body for the dead, nor make any tattoo marks upon yourselves. I am ⟦yhwh|Yahweh|the LORD⟧.
 
 [29] Do not profane your daughter by making her a prostitute, lest the land fall into prostitution and the land become full of depravity.
 
-[30] You shall keep my sabbaths and revere my sanctuary. I am Yahweh.
+[30] You shall keep my ⟦shabbat|Shabbatot|Sabbaths⟧ and revere my sanctuary. I am ⟦yhwh|Yahweh|the LORD⟧.
 
-[31] Do not turn to mediums or seek out spiritists, to be defiled by them. I am Yahweh your *Elohim*.
+[31] Do not turn to mediums or seek out spiritists, to be defiled by them. I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
-[32] You shall rise before the gray head and show honor to the face of an elder, and you shall fear your *Elohim*. I am Yahweh.
+[32] You shall rise before the gray head and show honor to the face of an elder, and you shall fear your ⟦elohim|Elohim|God⟧. I am ⟦yhwh|Yahweh|the LORD⟧.
 
 [33] When a foreigner sojourns with you in your land, you shall not do him wrong.
 
-[34] The foreigner who sojourns with you shall be to you as the native among you, and you shall love him as yourself; for you were foreigners in the land of Egypt. I am Yahweh your *Elohim*.
+[34] The foreigner who sojourns with you shall be to you as the native among you, and you shall love him as yourself; for you were foreigners in the land of ⟦egypt|Mitzrayim|Egypt⟧. I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
 [35] You shall do no injustice in judgment, in length, weight, or quantity.
 
-[36] You shall have just balances, just weights, a just ephah, and a just hin. I am Yahweh your *Elohim*, who brought you out of the land of Egypt.
+[36] You shall have just balances, just weights, a just ephah, and a just hin. I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, who brought you out of the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
-[37] You shall observe all my statutes and all my ordinances, and do them. I am Yahweh.'"
+[37] You shall observe all my statutes and all my ordinances, and do them. I am ⟦yhwh|Yahweh|the LORD⟧.'"
 
 ## Changes
 

@@ -1,8 +1,8 @@
 # Leviticus 26
 
-[1] "You shall make for yourselves no idols, nor shall you set up a carved image or a pillar, nor shall you place any figured stone in your land to bow down to it; for I am Yahweh your *Elohim*.
+[1] "You shall make for yourselves no idols, nor shall you set up a carved image or a pillar, nor shall you place any figured stone in your land to bow down to it; for I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
-[2] You shall keep my sabbaths and revere my sanctuary. I am Yahweh.
+[2] You shall keep my ⟦shabbat|Shabbatot|Sabbaths⟧ and revere my sanctuary. I am ⟦yhwh|Yahweh|the LORD⟧.
 
 [3] If you walk in my statutes and keep my commandments and do them,
 
@@ -22,9 +22,9 @@
 
 [11] I will set my dwelling among you, and my soul shall not abhor you.
 
-[12] I will walk among you, and I will be your *Elohim*, and you shall be my people.
+[12] I will walk among you, and I will be your ⟦elohim|Elohim|God⟧, and you shall be my people.
 
-[13] I am Yahweh your *Elohim*, who brought you out of the land of Egypt so that you should not be their slaves; I have broken the bars of your yoke and made you walk upright.
+[13] I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, who brought you out of the land of ⟦egypt|Mitzrayim|Egypt⟧ so that you should not be their slaves; I have broken the bars of your yoke and made you walk upright.
 
 [14] But if you will not listen to me and will not do all these commandments,
 
@@ -66,9 +66,9 @@
 
 [33] I will scatter you among the nations and unsheathe the sword after you; your land shall become a desolation, and your cities a ruin.
 
-[34] Then the land shall make up for its sabbaths, all the days of its desolation, while you are in the land of your enemies; then the land shall rest and enjoy its sabbaths.
+[34] Then the land shall make up for its ⟦shabbat|Shabbatot|Sabbaths⟧, all the days of its desolation, while you are in the land of your enemies; then the land shall rest and enjoy its ⟦shabbat|Shabbatot|Sabbaths⟧.
 
-[35] All the days of its desolation it shall rest — the rest it did not have on your sabbaths when you dwelt on it.
+[35] All the days of its desolation it shall rest — the rest it did not have on your ⟦shabbat|Shabbatot|Sabbaths⟧ when you dwelt on it.
 
 [36] And as for those of you who are left, I will send faintness into their hearts in the lands of their enemies; the sound of a driven leaf shall chase them, and they shall flee as one flees from a sword, and they shall fall when none pursues.
 
@@ -82,15 +82,15 @@
 
 [41] so that I also walked contrary to them and brought them into the land of their enemies — if then their uncircumcised heart is humbled and they accept the punishment of their iniquity,
 
-[42] then I will remember my covenant with Jacob, and also my covenant with Isaac, and also my covenant with Abraham I will remember; and the land I will remember.
+[42] then I will remember my covenant with ⟦jacob|Yaaqov|Jacob⟧, and also my covenant with ⟦isaac|Yitzchaq|Isaac⟧, and also my covenant with ⟦abraham|Avraham|Abraham⟧ I will remember; and the land I will remember.
 
-[43] The land will be forsaken by them and will make up for its sabbaths, lying desolate without them; and they shall accept their punishment, because they rejected my ordinances and their soul abhorred my statutes.
+[43] The land will be forsaken by them and will make up for its ⟦shabbat|Shabbatot|Sabbaths⟧, lying desolate without them; and they shall accept their punishment, because they rejected my ordinances and their soul abhorred my statutes.
 
-[44] Yet for all that, when they are in the land of their enemies, I will not reject them, nor will I abhor them so as to destroy them utterly and break my covenant with them; for I am Yahweh their *Elohim*.
+[44] Yet for all that, when they are in the land of their enemies, I will not reject them, nor will I abhor them so as to destroy them utterly and break my covenant with them; for I am ⟦yhwh|Yahweh|the LORD⟧ their ⟦elohim|Elohim|God⟧.
 
-[45] But I will remember for them the covenant with their ancestors, whom I brought out of the land of Egypt in the sight of the nations, to be their *Elohim*. I am Yahweh."
+[45] But I will remember for them the covenant with their ancestors, whom I brought out of the land of ⟦egypt|Mitzrayim|Egypt⟧ in the sight of the nations, to be their ⟦elohim|Elohim|God⟧. I am ⟦yhwh|Yahweh|the LORD⟧."
 
-[46] These are the statutes, the ordinances, and the laws that Yahweh made between himself and the children of Israel on Mount Sinai by the hand of Moses.
+[46] These are the statutes, the ordinances, and the laws that ⟦yhwh|Yahweh|the LORD⟧ made between himself and the children of ⟦israel|Yisrael|Israel⟧ on Mount Sinai by the hand of ⟦moses|Moshe|Moses⟧.
 
 ## Changes
 

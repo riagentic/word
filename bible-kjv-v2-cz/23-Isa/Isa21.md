@@ -2,15 +2,15 @@
 
 [1] Výnos o poušti moře.
 
-Jako se vichřice v Negev ženou dál,
+Jako se vichřice v ⟦negev|Negevu|Negebu⟧ ženou dál,
 přichází to od pouště,
 z hrozné země.
 
 [2] Krutá vize mi byla oznámena;
 zrádce zrazuje
 a ničitel ničí.
-Vystup, Elame;
-oblehni, Medie;
+Vystup, ⟦elam|Elame|Élame⟧;
+oblehni, ⟦media|Madaj|Médie⟧;
 všemu vzdychání, které způsobila,
 činím konec.
 
@@ -30,7 +30,7 @@ jedí, pijí.
 Vstaňte, knížata,
 namažte štít!
 
-[6] Neboť takto mi řekl Pán:
+[6] Neboť takto mi řekl ⟦adonai|Adonaj|Pán⟧:
 
 „Jdi, postav strážného;
 ať oznamuje, co vidí.
@@ -42,7 +42,7 @@ velmi pozorně.“
 
 [8] Tu ten, který viděl, vykřikl:
 
-„Na strážní věži stojím, Pane,
+„Na strážní věži stojím, ⟦adonai|Adonaji|Pane⟧,
 ustavičně ve dne,
 a na svém stanovišti jsem postaven
 celé noci.
@@ -52,15 +52,15 @@ jezdci na koních ve dvojicích!“
 
 A on odpověděl:
 
-„Padl, padl Babylon;
+„Padl, padl ⟦babylon|Bavel|Babylón⟧;
 a všechny tesané obrazy jeho bohů
 roztříštil na zemi.“
 
-[10] Můj vymlácený a provátý, co jsem slyšel od Yahweh zástupů, *Elohim* Israele, to ti oznamuji.
+[10] Můj vymlácený a provátý, co jsem slyšel od ⟦yhwh|Jahveho|Hospodina⟧ zástupů, ⟦elohim|Elohim|Boha⟧ ⟦israel|Jisraele|Izraele⟧, to ti oznamuji.
 
-[11] Výnos o Dumah.
+[11] Výnos o ⟦dumah|Dumě|Dúmě⟧.
 
-Kdosi na mě volá ze Seiru:
+Kdosi na mě volá ze ⟦seir|Seiru|Seíru⟧:
 „Strážný, kolik je z noci?
 Strážný, kolik je z noci?“
 
@@ -69,23 +69,23 @@ Strážný, kolik je z noci?“
 Chcete-li se ptát, ptejte se;
 vraťte se znovu.“
 
-[13] Výnos o Arabii.
+[13] Výnos o ⟦arabia|Aravu|Arábii⟧.
 
-V houštinách v Arabii budete nocovat,
-karavany Dedanců.
+V houštinách v ⟦arabia|Aravu|Arábii⟧ budete nocovat,
+karavany ⟦dedanites|Dedanim|Dedánců⟧.
 
 [14] Žíznivým přineste vodu;
 uprchlíkovi vyjděte vstříc s chlebem,
-obyvatelé země Tema.
+obyvatelé země ⟦tema|Tema|Téma⟧.
 
 [15] Neboť utekli před meči,
 před taseným mečem,
 před napjatým lukem
 a před tlakem bitvy.
 
-[16] Neboť takto mi řekl Pán: „Do roka, podle let nádeníka, skončí všechna sláva Kedaru.
+[16] Neboť takto mi řekl ⟦adonai|Adonaj|Pán⟧: „Do roka, podle let nádeníka, skončí všechna sláva ⟦kedar|Kedaru|Kédaru⟧.
 
-[17] A zbytek lučištníků z bohatýrů synů Kedaru bude nepatrný, neboť Yahweh, *Elohim* Israele, promluvil.“
+[17] A zbytek lučištníků z bohatýrů synů ⟦kedar|Kedaru|Kédaru⟧ bude nepatrný, neboť ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧, promluvil.“
 
 ## Změny
 

@@ -1,12 +1,12 @@
 # Matouš 14
 
-[1] V ten čas uslyšel tetrarcha Herod pověst o *Yeshuovi*
+[1] V ten čas uslyšel tetrarcha Herodes pověst o ⟦yeshua|Ješuovi|Ježíšovi⟧
 
-[2] a řekl svým služebníkům: „To je John Ponořovatel. Byl vzkříšen z mrtvých, a proto v něm působí tyto zázračné moci.“
+[2] a řekl svým služebníkům: „To je ⟦john|Jochanan|Jan⟧ ⟦immerser|Ponořovatel|Křtitel⟧. Byl vzkříšen z mrtvých, a proto v něm působí tyto zázračné moci.“
 
-[3] Herod totiž dal Johna zatknout, spoutat a vsadit do vězení kvůli Herodias, ženě svého bratra Philipa,
+[3] Herodes totiž dal ⟦john|Jochanana|Jana⟧ zatknout, spoutat a vsadit do vězení kvůli Herodias, ženě svého bratra ⟦philip|Filippa|Filipa⟧,
 
-[4] protože mu John říkal: „Není ti dovoleno ji mít.“
+[4] protože mu ⟦john|Jochanan|Jan⟧ říkal: „Není ti dovoleno ji mít.“
 
 [5] A ačkoli ho chtěl dát zabít, bál se lidu, protože ho pokládali za proroka.
 
@@ -14,23 +14,23 @@
 
 [7] takže jí s přísahou slíbil dát, oč by požádala.
 
-[8] Ona, navedena svou matkou, řekla: „Dej mi sem na míse hlavu Johna Ponořovatele.“
+[8] Ona, navedena svou matkou, řekla: „Dej mi sem na míse hlavu ⟦john|Jochanana|Jana⟧ ⟦immerser|Ponořovatele|Křtitele⟧.“
 
 [9] Král se zarmoutil, ale kvůli svým přísahám a kvůli hostům přikázal, aby jí byla dána.
 
-[10] Poslal a dal Johna ve vězení sťít,
+[10] Poslal a dal ⟦john|Jochanana|Jana⟧ ve vězení sťít,
 
 [11] a jeho hlavu přinesli na míse a dali dívce a ona ji donesla své matce.
 
-[12] Jeho učedníci přišli, vzali tělo a pohřbili je; potom šli a oznámili to *Yeshuovi*.
+[12] Jeho učedníci přišli, vzali tělo a pohřbili je; potom šli a oznámili to ⟦yeshua|Ješuovi|Ježíšovi⟧.
 
-[13] Když to *Yeshua* uslyšel, odplul odtud lodí sám na pusté místo. Když to však uslyšely zástupy, šly za ním pěšky z měst.
+[13] Když to ⟦yeshua|Ješua|Ježíš⟧ uslyšel, odplul odtud lodí sám na pusté místo. Když to však uslyšely zástupy, šly za ním pěšky z měst.
 
 [14] Když vystoupil na břeh, uviděl veliký zástup, byl pohnut soucitem s nimi a uzdravil jejich nemocné.
 
 [15] Když nastal večer, přistoupili k němu učedníci a řekli: „Toto místo je pusté a den už minul; propusť zástupy, ať jdou do vesnic a koupí si jídlo.“
 
-[16] Ale *Yeshua* řekl: „Nemusí odcházet; vy jim dejte jíst.“
+[16] Ale ⟦yeshua|Ješua|Ježíš⟧ řekl: „Nemusí odcházet; vy jim dejte jíst.“
 
 [17] Řekli mu: „Nemáme tu nic než pět chlebů a dvě ryby.“
 
@@ -52,21 +52,21 @@
 
 [26] Když ho učedníci uviděli kráčet po moři, zděsili se a řekli: „Je to přízrak!“ a strachem vykřikli.
 
-[27] Ale *Yeshua* k nim hned promluvil: „Buďte dobré mysli; **já jsem to. Nebojte se**.“
+[27] Ale ⟦yeshua|Ješua|Ježíš⟧ k nim hned promluvil: „Buďte dobré mysli; **já jsem to. Nebojte se**.“
 
-[28] Peter mu odpověděl: „Pane, jsi-li to ty, poruč mi, abych přišel k tobě po vodě.“
+[28] ⟦peter|Kefa|Petr⟧ mu odpověděl: „Pane, jsi-li to ty, poruč mi, abych přišel k tobě po vodě.“
 
-[29] Řekl: „Pojď.“ Peter vystoupil z lodi, kráčel po vodě a šel k *Yeshuovi*.
+[29] Řekl: „Pojď.“ ⟦peter|Kefa|Petr⟧ vystoupil z lodi, kráčel po vodě a šel k ⟦yeshua|Ješuovi|Ježíšovi⟧.
 
 [30] Když však uviděl vítr, dostal strach, a když začal tonout, vykřikl: „Pane, zachraň mě!“
 
-[31] *Yeshua* hned vztáhl ruku, uchopil ho a řekl mu: „Malověrný, proč jsi zapochyboval?“
+[31] ⟦yeshua|Ješua|Ježíš⟧ hned vztáhl ruku, uchopil ho a řekl mu: „Malověrný, proč jsi zapochyboval?“
 
 [32] Když vstoupili do lodi, vítr ustal.
 
-[33] A ti, kdo byli v lodi, se mu poklonili a řekli: „Vpravdě jsi Syn *Elohim*.“
+[33] A ti, kdo byli v lodi, se mu poklonili a řekli: „Vpravdě jsi Syn ⟦elohim|Elohim|Boží⟧.“
 
-[34] Když se přeplavili, přistáli v zemi u Gennesaretu.
+[34] Když se přeplavili, přistáli v zemi u ⟦gennesaret|Ginosaru|Genezaretu⟧.
 
 [35] Když ho muži z toho místa poznali, rozeslali zprávu po celém tom kraji a přinesli k němu všechny nemocné
 

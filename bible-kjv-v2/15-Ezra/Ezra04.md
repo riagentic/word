@@ -1,30 +1,30 @@
 # Ezra 4
 
-[1] When the adversaries of Judah and Benjamin heard that the children of the captivity were building a temple for Yahweh the *Elohim* of Israel,
+[1] When the adversaries of ⟦judah|Yehudah|Judah⟧ and ⟦benjamin|Binyamin|Benjamin⟧ heard that the children of the captivity were building a temple for ⟦yhwh|Yahweh|the LORD⟧ the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧,
 
-[2] they came to Zerubbabel and to the heads of fathers' houses, and said to them, "Let us build with you, for we seek your *Elohim* as you do, and we have been sacrificing to him since the days of Esarhaddon king of Assyria who brought us up here."
+[2] they came to ⟦zerubbabel|Zerubbavel|Zerubbabel⟧ and to the heads of fathers' houses, and said to them, "Let us build with you, for we seek your ⟦elohim|Elohim|God⟧ as you do, and we have been sacrificing to him since the days of ⟦esarhaddon|Esar-Chaddon|Esarhaddon⟧ king of ⟦assyria|Ashur|Assyria⟧ who brought us up here."
 
-[3] But Zerubbabel, Jeshua, and the rest of the heads of fathers' houses of Israel said to them, "You have nothing to do with us in building a house for our *Elohim*; we alone will build for Yahweh the *Elohim* of Israel, as King Cyrus, king of Persia, has commanded us."
+[3] But ⟦zerubbabel|Zerubbavel|Zerubbabel⟧, ⟦jeshua|Yeshua|Jeshua⟧, and the rest of the heads of fathers' houses of ⟦israel|Yisrael|Israel⟧ said to them, "You have nothing to do with us in building a house for our ⟦elohim|Elohim|God⟧; we alone will build for ⟦yhwh|Yahweh|the LORD⟧ the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧, as King ⟦cyrus|Koresh|Cyrus⟧, king of ⟦persia|Paras|Persia⟧, has commanded us."
 
-[4] Then the people of the land weakened the hands of the people of Judah and made them afraid to build;
+[4] Then the people of the land weakened the hands of the people of ⟦judah|Yehudah|Judah⟧ and made them afraid to build;
 
-[5] they hired counselors against them to frustrate their purpose all the days of Cyrus king of Persia until the reign of Darius king of Persia.
+[5] they hired counselors against them to frustrate their purpose all the days of ⟦cyrus|Koresh|Cyrus⟧ king of ⟦persia|Paras|Persia⟧ until the reign of ⟦darius|Daryavesh|Darius⟧ king of ⟦persia|Paras|Persia⟧.
 
-[6] In the reign of Ahasuerus, at the beginning of his reign, they wrote an accusation against the inhabitants of Judah and Jerusalem.
+[6] In the reign of ⟦ahasuerus|Achashverosh|Ahasuerus⟧, at the beginning of his reign, they wrote an accusation against the inhabitants of ⟦judah|Yehudah|Judah⟧ and ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[7] In the days of Artaxerxes, Bishlam, Mithredath, Tabeel, and the rest of his associates wrote to Artaxerxes king of Persia; the letter was written in Aramaic script and translated into Aramaic.
+[7] In the days of ⟦artaxerxes|Artachshasta|Artaxerxes⟧, Bishlam, ⟦mithredath|Mitredat|Mithredath⟧, ⟦tabeel|Taveel|Tabeel⟧, and the rest of his associates wrote to ⟦artaxerxes|Artachshasta|Artaxerxes⟧ king of ⟦persia|Paras|Persia⟧; the letter was written in ⟦aramaic|Aramit|Aramaic⟧ script and translated into ⟦aramaic|Aramit|Aramaic⟧.
 
-[8] Rehum the commander and Shimshai the scribe wrote a letter against Jerusalem to King Artaxerxes, as follows:
+[8] ⟦rehum|Rechum|Rehum⟧ the commander and Shimshai the scribe wrote a letter against ⟦jerusalem|Yerushalayim|Jerusalem⟧ to King ⟦artaxerxes|Artachshasta|Artaxerxes⟧, as follows:
 
-[9] (Rehum the commander and Shimshai the scribe and the rest of their associates — the judges, the officials, the Persian overseers, the men of Erech, the Babylonians, the men of Susa — that is, the Elamites —
+[9] (⟦rehum|Rechum|Rehum⟧ the commander and Shimshai the scribe and the rest of their associates — the judges, the officials, the ⟦persians|Parsi|Persian⟧ overseers, the men of Erech, the ⟦babylonians|Bavlaye|Babylonians⟧, the men of ⟦susa|Shushan|Susa⟧ — that is, the ⟦elamites|Elmaye|Elamites⟧ —
 
-[10] and the rest of the nations whom the great and noble Osnappar deported and settled in the cities of Samaria and in the rest of the province Beyond the River, and now:)
+[10] and the rest of the nations whom the great and noble Osnappar deported and settled in the cities of ⟦samaria|Shomron|Samaria⟧ and in the rest of the province Beyond the River, and now:)
 
 [11] This is a copy of the letter that they sent him:
 
-"To King Artaxerxes, from your servants, the men of the province Beyond the River, and now:
+"To King ⟦artaxerxes|Artachshasta|Artaxerxes⟧, from your servants, the men of the province Beyond the River, and now:
 
-[12] Be it known to the king that the Jews who came up from you to us have gone to Jerusalem; they are rebuilding the rebellious and wicked city; they are finishing the walls and repairing the foundations.
+[12] Be it known to the king that the ⟦jews|Yehudim|Jews⟧ who came up from you to us have gone to ⟦jerusalem|Yerushalayim|Jerusalem⟧; they are rebuilding the rebellious and wicked city; they are finishing the walls and repairing the foundations.
 
 [13] Now be it known to the king that if this city is rebuilt and its walls finished, they will not pay tribute, tax, or toll, and the royal revenue will suffer.
 
@@ -36,21 +36,21 @@
 
 [17] Then the king sent an answer:
 
-"To Rehum the commander, Shimshai the scribe, and the rest of their associates who dwell in Samaria and the rest of the province Beyond the River: peace, and now.
+"To ⟦rehum|Rechum|Rehum⟧ the commander, Shimshai the scribe, and the rest of their associates who dwell in ⟦samaria|Shomron|Samaria⟧ and the rest of the province Beyond the River: peace, and now.
 
 [18] The letter that you sent us has been translated and read before me.
 
 [19] A decree was issued by me, and search has been made; it is found that this city from of old has risen against kings, and that rebellion and sedition have been stirred up in it.
 
-[20] Mighty kings have also been over Jerusalem, ruling over all the province Beyond the River; tribute, tax, and toll were paid to them.
+[20] Mighty kings have also been over ⟦jerusalem|Yerushalayim|Jerusalem⟧, ruling over all the province Beyond the River; tribute, tax, and toll were paid to them.
 
 [21] Therefore issue a decree that these men be made to cease, that this city not be rebuilt until a decree is issued by me.
 
 [22] Take care not to be negligent in this matter. Why should damage grow to the hurt of the kings?"
 
-[23] Then when the copy of King Artaxerxes' letter was read before Rehum, Shimshai the scribe, and their associates, they went in haste to Jerusalem, to the Jews, and by force and power made them cease.
+[23] Then when the copy of King ⟦artaxerxes|Artachshasta|Artaxerxes⟧' letter was read before ⟦rehum|Rechum|Rehum⟧, Shimshai the scribe, and their associates, they went in haste to ⟦jerusalem|Yerushalayim|Jerusalem⟧, to the ⟦jews|Yehudim|Jews⟧, and by force and power made them cease.
 
-[24] So the work on the house of *Elohim* at Jerusalem ceased; it was at a standstill until the second year of the reign of Darius king of Persia.
+[24] So the work on the house of ⟦elohim|Elohim|God⟧ at ⟦jerusalem|Yerushalayim|Jerusalem⟧ ceased; it was at a standstill until the second year of the reign of ⟦darius|Daryavesh|Darius⟧ king of ⟦persia|Paras|Persia⟧.
 
 ## Changes
 

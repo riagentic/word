@@ -1,6 +1,6 @@
 # Izajáš 56
 
-[1] Toto praví Yahweh:
+[1] Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
 „Zachovávejte právo a čiňte spravedlnost,
 neboť brzy přijde má spása
@@ -8,17 +8,17 @@ a zjeví se má spravedlnost.
 
 [2] Blahoslavený muž, který to činí,
 a syn člověka, který se toho pevně drží,
-který zachovává sabat a neznesvěcuje ho
+který zachovává ⟦shabbat|šabat a neznesvěcuje ho|sobotu a neznesvěcuje ji⟧
 a chrání svou ruku, aby nečinila nic zlého.“
 
-[3] Ať neříká cizinec, který se připojil k Yahweh:
-„Yahweh mě jistě oddělí od svého lidu“;
+[3] Ať neříká cizinec, který se připojil k ⟦yhwh|Jahvovi|Hospodinu⟧:
+„⟦yhwh|Jahve|Hospodin⟧ mě jistě oddělí od svého lidu“;
 a ať neříká eunuch:
 „Hle, jsem suchý strom.“
 
-[4] Neboť toto praví Yahweh:
+[4] Neboť toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
-„Eunuchům, kteří zachovávají mé sabaty,
+„Eunuchům, kteří zachovávají mé ⟦shabbat|šabaty|soboty⟧,
 kteří volí to, co se mi líbí,
 a pevně se drží mé smlouvy,
 
@@ -28,10 +28,10 @@ lepší než synové a dcery;
 dám jim věčné jméno,
 které nebude vyťato.
 
-[6] A cizince, kteří se připojují k Yahweh,
-aby mu sloužili, aby milovali jméno Yahweh
+[6] A cizince, kteří se připojují k ⟦yhwh|Jahvovi|Hospodinu⟧,
+aby mu sloužili, aby milovali jméno ⟦yhwh|Jahveho|Hospodina⟧
 a byli jeho služebníky,
-každého, kdo zachovává sabat a neznesvěcuje ho
+každého, kdo zachovává ⟦shabbat|šabat a neznesvěcuje ho|sobotu a neznesvěcuje ji⟧
 a pevně se drží mé smlouvy –
 
 [7] ty přivedu na svou svatou horu
@@ -41,7 +41,7 @@ budou přijaty na mém oltáři;
 neboť můj dům bude nazýván
 domem modlitby pro všechny národy.“
 
-[8] Výrok Pána Yahweh, který shromažďuje vyhnance Israele: „Shromáždím k němu ještě další kromě těch, kteří jsou už shromážděni.“
+[8] Výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧, který shromažďuje vyhnance ⟦israel|Jisraele|Izraele⟧: „Shromáždím k němu ještě další kromě těch, kteří jsou už shromážděni.“
 
 [9] Všechna zvěři polní, pojďte žrát –
 všechna zvěři v lese.

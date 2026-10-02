@@ -1,37 +1,37 @@
 # Jeremjáš 13
 
-[1] Toto mi praví Yahweh: „Jdi a kup si lněnou bederní roušku, opásej si ji kolem beder a nenamáčej ji do vody.“
+[1] Toto mi praví ⟦yhwh|Jahve|Hospodin⟧: „Jdi a kup si lněnou bederní roušku, opásej si ji kolem beder a nenamáčej ji do vody.“
 
-[2] Koupil jsem tedy bederní roušku podle slova Yahweh a opásal jsem si ji kolem beder.
+[2] Koupil jsem tedy bederní roušku podle slova ⟦yhwh|Jahveho|Hospodina⟧ a opásal jsem si ji kolem beder.
 
-[3] A podruhé ke mně přišlo slovo Yahweh:
+[3] A podruhé ke mně přišlo slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[4] „Vezmi bederní roušku, kterou sis koupil a kterou máš kolem beder, vstaň, jdi k Euphratu a ukryj ji tam ve skalní rozsedlině.“
+[4] „Vezmi bederní roušku, kterou sis koupil a kterou máš kolem beder, vstaň, jdi k ⟦euphrates|Peratu|Eufratu⟧ a ukryj ji tam ve skalní rozsedlině.“
 
-[5] Šel jsem tedy a ukryl ji u Euphratu, jak mi Yahweh přikázal.
+[5] Šel jsem tedy a ukryl ji u ⟦euphrates|Peratu|Eufratu⟧, jak mi ⟦yhwh|Jahve|Hospodin⟧ přikázal.
 
-[6] A po mnoha dnech mi Yahweh řekl: „Vstaň, jdi k Euphratu a vezmi odtud bederní roušku, kterou jsem ti přikázal tam ukrýt.“
+[6] A po mnoha dnech mi ⟦yhwh|Jahve|Hospodin⟧ řekl: „Vstaň, jdi k ⟦euphrates|Peratu|Eufratu⟧ a vezmi odtud bederní roušku, kterou jsem ti přikázal tam ukrýt.“
 
-[7] Šel jsem tedy k Euphratu, kopal jsem a vzal jsem bederní roušku z místa, kde jsem ji ukryl. A hle, bederní rouška byla zničená; nebyla k ničemu.
+[7] Šel jsem tedy k ⟦euphrates|Peratu|Eufratu⟧, kopal jsem a vzal jsem bederní roušku z místa, kde jsem ji ukryl. A hle, bederní rouška byla zničená; nebyla k ničemu.
 
-[8] Tu ke mně přišlo slovo Yahweh:
+[8] Tu ke mně přišlo slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[9] „Toto praví Yahweh: Právě tak zničím pýchu Judah a velikou pýchu Jerusalemu.
+[9] „Toto praví ⟦yhwh|Jahve|Hospodin⟧: Právě tak zničím pýchu ⟦judah|Jehudy|Judy⟧ a velikou pýchu ⟦jerusalem|Jerušalajim|Jeruzaléma⟧.
 
 [10] Tento zlý lid, který odmítá slyšet má slova, který tvrdošíjně chodí za svým vlastním srdcem a chodil za jinými bohy, aby jim sloužil a klaněl se jim, bude jako tato bederní rouška, která není k ničemu.
 
-[11] Neboť jako bederní rouška přiléhá k bedrům muže, tak jsem k sobě připoutal celý dům Israele a celý dům Judah, je výrok Yahweh, aby mi byli lidem, jménem, chválou a slávou, ale nechtěli poslouchat.
+[11] Neboť jako bederní rouška přiléhá k bedrům muže, tak jsem k sobě připoutal celý dům ⟦israel|Jisraele|Izraele⟧ a celý dům ⟦judah|Jehudy|Judy⟧, je výrok ⟦yhwh|Jahveho|Hospodina⟧, aby mi byli lidem, jménem, chválou a slávou, ale nechtěli poslouchat.
 
-[12] Řekneš jim toto slovo: ‚Toto praví Yahweh, *Elohim* Israele: Každý džbán bude naplněn vínem.‘ A oni ti řeknou: ‚Což my snad nevíme, že každý džbán bude naplněn vínem?‘
+[12] Řekneš jim toto slovo: ‚Toto praví ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧: Každý džbán bude naplněn vínem.‘ A oni ti řeknou: ‚Což my snad nevíme, že každý džbán bude naplněn vínem?‘
 
-[13] Tu jim řekneš: ‚Toto praví Yahweh: Hle, naplním opilostí všechny obyvatele této země: krále, kteří sedí na Davidově trůnu, kněze, proroky a všechny obyvatele Jerusalemu.
+[13] Tu jim řekneš: ‚Toto praví ⟦yhwh|Jahve|Hospodin⟧: Hle, naplním opilostí všechny obyvatele této země: krále, kteří sedí na Davidově trůnu, kněze, proroky a všechny obyvatele ⟦jerusalem|Jerušalajim|Jeruzaléma⟧.
 
-[14] A roztříštím je jednoho o druhého, otce i syny zároveň, je výrok Yahweh. Nebudu mít soucit, nebudu šetřit ani se slitovávat, abych je nezničil.‘“
+[14] A roztříštím je jednoho o druhého, otce i syny zároveň, je výrok ⟦yhwh|Jahveho|Hospodina⟧. Nebudu mít soucit, nebudu šetřit ani se slitovávat, abych je nezničil.‘“
 
 [15] Slyšte a naslouchejte; nebuďte pyšní,
-neboť Yahweh promluvil.
+neboť ⟦yhwh|Jahve|Hospodin⟧ promluvil.
 
-[16] Vzdejte slávu Yahweh, svému *Elohim*,
+[16] Vzdejte slávu ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧,
 dříve než přivede tmu,
 dříve než vaše nohy klopýtnou
 na horách soumraku,
@@ -42,16 +42,16 @@ a učiní z něho hlubokou temnotu.
 [17] Jestliže však neposlechnete,
 má duše bude v skrytu plakat pro vaši pýchu;
 mé oči budou hořce plakat a slzy z nich poplynou,
-protože stádo Yahweh bylo odvedeno do zajetí.
+protože stádo ⟦yhwh|Jahveho|Hospodina⟧ bylo odvedeno do zajetí.
 
 [18] Řekni králi a královně matce:
 „Posaďte se níže,
 neboť vaše krásná koruna
 spadla z vaší hlavy.“
 
-[19] Města Negev jsou zavřena
+[19] Města ⟦negev|Negev|Negebu⟧ jsou zavřena
 a nikdo je neotevře;
-celý Judah je odveden do vyhnanství,
+celý ⟦judah|Jehuda|Juda⟧ je odveden do vyhnanství,
 zcela odveden do vyhnanství.
 
 [20] Pozdvihni oči a pohleď
@@ -70,7 +70,7 @@ jako ženy při porodu?
 že jsou tvé lemy vyhrnuty
 a trpíš násilí.
 
-[23] Může Cushita změnit svou kůži
+[23] Může ⟦cushite|Kuši|Kúšijec⟧ změnit svou kůži
 nebo levhart své skvrny?
 Pak byste i vy mohli činit dobro,
 kteří jste navyklí činit zlo.
@@ -80,7 +80,7 @@ hnané větrem z pouště.
 
 [25] To je tvůj los,
 podíl, který jsem ti odměřil,
-je výrok Yahweh,
+je výrok ⟦yhwh|Jahveho|Hospodina⟧,
 protože jsi na mě zapomněla
 a doufala ve lež.
 
@@ -91,7 +91,7 @@ a bude vidět tvá hanba.
 tvá cizoložství a tvé řehtání,
 tvé chlípné smilnění
 na pahorcích v poli.
-Běda ti, Jerusaleme!
+Běda ti, ⟦jerusalem|Jerušalajim|Jeruzaléme⟧!
 Jak dlouho ještě, než budeš očištěn?
 
 ## Změny

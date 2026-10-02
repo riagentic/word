@@ -1,58 +1,58 @@
 # Exodus 18
 
-[1] Jethro, midianský kněz, Mosesův tchán, uslyšel o všem, co *Elohim* učinil pro Mosese a pro Israel, svůj lid, a že Yahweh vyvedl Israel z Egypta.
+[1] Jitro, ⟦midian|midjanský|midjánský⟧ kněz, ⟦moses|Mošův|Mojžíšův⟧ tchán, uslyšel o všem, co ⟦elohim|Elohim|Bůh⟧ učinil pro ⟦moses|Moše|Mojžíše⟧ a pro ⟦israel|Jisrael|Izrael⟧, svůj lid, a že ⟦yhwh|Jahve|Hospodin⟧ vyvedl ⟦israel|Jisrael|Izrael⟧ z ⟦egypt|Micrajim|Egypta⟧.
 
-[2] Tu Jethro, Mosesův tchán, vzal Zipporah, Mosesovu ženu, poté co ji Moses poslal zpět,
+[2] Tu Jitro, ⟦moses|Mošův|Mojžíšův⟧ tchán, vzal ⟦zipporah|Cipporu|Siporu⟧, ⟦moses|Mošovu|Mojžíšovu⟧ ženu, poté co ji ⟦moses|Moše|Mojžíš⟧ poslal zpět,
 
-[3] i její dva syny – jeden se jmenoval Gershom, neboť Moses řekl: „Byl jsem přistěhovalcem v cizí zemi“;
+[3] i její dva syny – jeden se jmenoval ⟦gershom|Geršom|Geršóm⟧, neboť ⟦moses|Moše|Mojžíš⟧ řekl: „Byl jsem přistěhovalcem v cizí zemi“;
 
-[4] a druhý se jmenoval Eliezer („*Elohim* je má pomoc“), neboť: „*Elohim* mého otce byl mou pomocí a vysvobodil mě od Pharaohova meče.“
+[4] a druhý se jmenoval ⟦eliezer|Eliezer|Elíezer⟧ („⟦elohim|Elohim|Bůh⟧ je má pomoc“), neboť: „⟦elohim|Elohim|Bůh⟧ mého otce byl mou pomocí a vysvobodil mě od ⟦pharaoh|Parohova|faraónova⟧ meče.“
 
-[5] Jethro, Mosesův tchán, přišel s Mosesovými syny a ženou k němu na poušť, kde tábořil u hory *Elohim*.
+[5] Jitro, ⟦moses|Mošův|Mojžíšův⟧ tchán, přišel s ⟦moses|Mošovými|Mojžíšovými⟧ syny a ženou k němu na poušť, kde tábořil u hory ⟦elohim|Elohim|Boží⟧.
 
-[6] Vzkázal Mosesovi: „Já, tvůj tchán Jethro, jsem k tobě přišel s tvou ženou a s jejími dvěma syny.“
+[6] Vzkázal ⟦moses|Mošovi|Mojžíšovi⟧: „Já, tvůj tchán Jitro, jsem k tobě přišel s tvou ženou a s jejími dvěma syny.“
 
-[7] Moses vyšel svému tchánovi naproti, poklonil se a políbil ho; otázali se jeden druhého, jak se mají, a vešli do stanu.
+[7] ⟦moses|Moše|Mojžíš⟧ vyšel svému tchánovi naproti, poklonil se a políbil ho; otázali se jeden druhého, jak se mají, a vešli do stanu.
 
-[8] Moses vyprávěl svému tchánovi o všem, co Yahweh kvůli Israeli učinil Pharaohovi a Egypťanům, o všech útrapách, které je potkaly na cestě, a jak je Yahweh vysvobodil.
+[8] ⟦moses|Moše|Mojžíš⟧ vyprávěl svému tchánovi o všem, co ⟦yhwh|Jahve|Hospodin⟧ kvůli ⟦israel|Jisraeli|Izraeli⟧ učinil ⟦pharaoh|Parohovi|faraónovi⟧ a ⟦egyptians|Micrim|Egypťanům⟧, o všech útrapách, které je potkaly na cestě, a jak je ⟦yhwh|Jahve|Hospodin⟧ vysvobodil.
 
-[9] Jethro se radoval ze všeho dobrého, co Yahweh učinil pro Israel, když ho vysvobodil z ruky Egypťanů.
+[9] Jitro se radoval ze všeho dobrého, co ⟦yhwh|Jahve|Hospodin⟧ učinil pro ⟦israel|Jisrael|Izrael⟧, když ho vysvobodil z ruky ⟦egyptians|Micrim|Egypťanů⟧.
 
-[10] Jethro řekl: „Požehnaný buď Yahweh, který vás vysvobodil z ruky Egypťanů a z ruky Pharaoha – který vysvobodil lid zpod ruky Egypťanů.
+[10] Jitro řekl: „Požehnaný buď ⟦yhwh|Jahve|Hospodin⟧, který vás vysvobodil z ruky ⟦egyptians|Micrim|Egypťanů⟧ a z ruky ⟦pharaoh|Paroha|faraóna⟧ – který vysvobodil lid zpod ruky ⟦egyptians|Micrim|Egypťanů⟧.
 
-[11] Nyní vím, že Yahweh je větší než všichni bohové; neboť právě v tom, v čem si počínali zpupně, byl nad nimi.“
+[11] Nyní vím, že ⟦yhwh|Jahve|Hospodin⟧ je větší než všichni bohové; neboť právě v tom, v čem si počínali zpupně, byl nad nimi.“
 
-[12] Jethro, Mosesův tchán, přinesl zápalnou oběť a oběti pro *Elohim*; a přišel Aaron se všemi staršími Israele, aby s Mosesovým tchánem jedli chléb před *Elohim*.
+[12] Jitro, ⟦moses|Mošův|Mojžíšův⟧ tchán, přinesl zápalnou oběť a oběti pro ⟦elohim|Elohim|Boha⟧; a přišel ⟦aaron|Aharon|Áron⟧ se všemi staršími ⟦israel|Jisraele|Izraele⟧, aby s ⟦moses|Mošovým|Mojžíšovým⟧ tchánem jedli chléb před ⟦elohim|Elohim|Bohem⟧.
 
-[13] Nazítří se Moses posadil, aby soudil lid; a lid stál kolem Mosese od rána až do večera.
+[13] Nazítří se ⟦moses|Moše|Mojžíš⟧ posadil, aby soudil lid; a lid stál kolem ⟦moses|Moše|Mojžíše⟧ od rána až do večera.
 
-[14] Když Mosesův tchán viděl všechno, co pro lid dělá, řekl: „Co to pro lid děláš? Proč sedíš sám, zatímco všechen lid stojí kolem tebe od rána až do večera?“
+[14] Když ⟦moses|Mošův|Mojžíšův⟧ tchán viděl všechno, co pro lid dělá, řekl: „Co to pro lid děláš? Proč sedíš sám, zatímco všechen lid stojí kolem tebe od rána až do večera?“
 
-[15] Moses řekl svému tchánovi: „Protože lid ke mně přichází dotazovat se *Elohim*.
+[15] ⟦moses|Moše|Mojžíš⟧ řekl svému tchánovi: „Protože lid ke mně přichází dotazovat se ⟦elohim|Elohim|Boha⟧.
 
-[16] Když mají spor, přicházejí ke mně a já rozsuzuji mezi jedním a druhým a oznamuji jim ustanovení *Elohim* a jeho poučení.“
+[16] Když mají spor, přicházejí ke mně a já rozsuzuji mezi jedním a druhým a oznamuji jim ustanovení ⟦elohim|Elohim|Boží⟧ a jeho poučení.“
 
-[17] Mosesův tchán mu řekl: „Není dobré, co děláš.
+[17] ⟦moses|Mošův|Mojžíšův⟧ tchán mu řekl: „Není dobré, co děláš.
 
 [18] Jistě se utrmácíš, ty i tento lid, který je s tebou; neboť ta věc je pro tebe příliš těžká, sám ji nezvládneš.
 
-[19] Nyní poslechni můj hlas; dám ti radu a *Elohim* buď s tebou. Ty buď za lid před *Elohim* a předkládej jednotlivé věci *Elohim*.
+[19] Nyní poslechni můj hlas; dám ti radu a ⟦elohim|Elohim|Bůh⟧ buď s tebou. Ty buď za lid před ⟦elohim|Elohim|Bohem⟧ a předkládej jednotlivé věci ⟦elohim|Elohim|Bohu⟧.
 
 [20] Uč je ustanovením a poučením; ukaž jim cestu, po níž mají chodit, a dílo, které mají konat.
 
-[21] Kromě toho si vyhlédni z celého lidu schopné muže, ty, kdo se bojí *Elohim*, spolehlivé muže, kteří nenávidí nepoctivý zisk; a ustanov je nad nimi jako velitele nad tisíci, velitele nad stovkami, velitele nad padesáti a velitele nad desíti.
+[21] Kromě toho si vyhlédni z celého lidu schopné muže, ty, kdo se bojí ⟦elohim|Elohim|Boha⟧, spolehlivé muže, kteří nenávidí nepoctivý zisk; a ustanov je nad nimi jako velitele nad tisíci, velitele nad stovkami, velitele nad padesáti a velitele nad desíti.
 
 [22] Ať soudí lid v každé době. Každou velkou věc ať předkládají tobě; každou malou věc ať rozsoudí sami. Tak to bude pro tebe lehčí a ponesou to s tebou.
 
-[23] Učiníš-li tuto věc a *Elohim* ti to tak přikáže, pak vydržíš a také všechen tento lid půjde v pokoji na své místo.“
+[23] Učiníš-li tuto věc a ⟦elohim|Elohim|Bůh⟧ ti to tak přikáže, pak vydržíš a také všechen tento lid půjde v pokoji na své místo.“
 
-[24] Moses tedy poslechl hlas svého tchána a učinil všechno, co řekl.
+[24] ⟦moses|Moše|Mojžíš⟧ tedy poslechl hlas svého tchána a učinil všechno, co řekl.
 
-[25] Moses vybral z celého Israele schopné muže a ustanovil je hlavami nad lidem – velitele nad tisíci, velitele nad stovkami, velitele nad padesáti a velitele nad desíti.
+[25] ⟦moses|Moše|Mojžíš⟧ vybral z celého ⟦israel|Jisraele|Izraele⟧ schopné muže a ustanovil je hlavami nad lidem – velitele nad tisíci, velitele nad stovkami, velitele nad padesáti a velitele nad desíti.
 
-[26] Soudili lid v každé době. Těžké věci předkládali Mosesovi, ale každou malou věc rozsoudili sami.
+[26] Soudili lid v každé době. Těžké věci předkládali ⟦moses|Mošovi|Mojžíšovi⟧, ale každou malou věc rozsoudili sami.
 
-[27] Potom Moses se svým tchánem rozloučil a on odešel do své země.
+[27] Potom ⟦moses|Moše|Mojžíš⟧ se svým tchánem rozloučil a on odešel do své země.
 
 ## Změny
 

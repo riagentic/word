@@ -1,14 +1,14 @@
 # Isaiah 11
 
-[1] There shall come forth a shoot from the stump of Jesse,
+[1] There shall come forth a shoot from the stump of ⟦jesse|Yishai|Jesse⟧,
 and a branch from his roots shall bear fruit.
 
-[2] And the Spirit of Yahweh shall rest upon him,
+[2] And the Spirit of ⟦yhwh|Yahweh|the LORD⟧ shall rest upon him,
 the spirit of wisdom and understanding,
 the spirit of counsel and might,
-the spirit of knowledge and the fear of Yahweh.
+the spirit of knowledge and the fear of ⟦yhwh|Yahweh|the LORD⟧.
 
-[3] And his delight shall be in the fear of Yahweh.
+[3] And his delight shall be in the fear of ⟦yhwh|Yahweh|the LORD⟧.
 He shall not judge by what his eyes see,
 or decide disputes by what his ears hear,
 
@@ -34,31 +34,31 @@ and the weaned child shall put his hand on the adder's den.
 
 [9] They shall not hurt or destroy
 in all my holy mountain;
-for the earth shall be full of the knowledge of Yahweh
+for the earth shall be full of the knowledge of ⟦yhwh|Yahweh|the LORD⟧
 as the waters cover the sea.
 
-[10] In that day the root of Jesse, who shall stand as a signal for the peoples — to him shall the nations inquire, and his resting place shall be glorious.
+[10] In that day the root of ⟦jesse|Yishai|Jesse⟧, who shall stand as a signal for the peoples — to him shall the nations inquire, and his resting place shall be glorious.
 
-[11] In that day Lord will extend his hand yet a second time to recover the remnant that remains of his people, from Assyria, from Egypt, from Pathros, from Cush, from Elam, from Shinar, from Hamath, and from the coastlands of the sea.
+[11] In that day ⟦adonai|Adonai|the Lord⟧ will extend his hand yet a second time to recover the remnant that remains of his people, from ⟦assyria|Ashur|Assyria⟧, from ⟦egypt|Mitzrayim|Egypt⟧, from ⟦pathros|Patros|Pathros⟧, from ⟦cush|Kush|Cush⟧, from Elam, from Shinar, from ⟦hamath|Chamat|Hamath⟧, and from the coastlands of the sea.
 
 [12] He will raise a signal for the nations
-and will assemble the banished of Israel,
-and gather the dispersed of Judah
+and will assemble the banished of ⟦israel|Yisrael|Israel⟧,
+and gather the dispersed of ⟦judah|Yehudah|Judah⟧
 from the four corners of the earth.
 
-[13] The jealousy of Ephraim shall depart,
-and those who harass Judah shall be cut off;
-Ephraim shall not be jealous of Judah,
-and Judah shall not harass Ephraim.
+[13] The jealousy of ⟦ephraim|Efrayim|Ephraim⟧ shall depart,
+and those who harass ⟦judah|Yehudah|Judah⟧ shall be cut off;
+⟦ephraim|Efrayim|Ephraim⟧ shall not be jealous of ⟦judah|Yehudah|Judah⟧,
+and ⟦judah|Yehudah|Judah⟧ shall not harass ⟦ephraim|Efrayim|Ephraim⟧.
 
-[14] But they shall swoop down on the shoulder of the Philistines in the west,
+[14] But they shall swoop down on the shoulder of the ⟦philistines|Pelishtim|Philistines⟧ in the west,
 and together they shall plunder the people of the east.
-They shall put out their hand against Edom and Moab,
-and the Ammonites shall obey them.
+They shall put out their hand against Edom and ⟦moab|Moav|Moab⟧,
+and the ⟦ammonites|Ammonim|Ammonites⟧ shall obey them.
 
-[15] And Yahweh will utterly destroy the tongue of the Sea of Egypt, and will wave his hand over the River with his scorching breath, and strike it into seven channels, and he will lead people across in sandals.
+[15] And ⟦yhwh|Yahweh|the LORD⟧ will utterly destroy the tongue of the Sea of ⟦egypt|Mitzrayim|Egypt⟧, and will wave his hand over the River with his scorching breath, and strike it into seven channels, and he will lead people across in sandals.
 
-[16] And there will be a highway from Assyria for the remnant that remains of his people, as there was for Israel when they came up from the land of Egypt.
+[16] And there will be a highway from ⟦assyria|Ashur|Assyria⟧ for the remnant that remains of his people, as there was for ⟦israel|Yisrael|Israel⟧ when they came up from the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
 ## Changes
 

@@ -1,106 +1,106 @@
 # Joshua 19
 
-[1] The second lot fell to Simeon — to the tribe of the children of Simeon by their clans. Their inheritance was in the midst of the inheritance of the children of Judah.
+[1] The second lot fell to ⟦simeon|Shimon|Simeon⟧ — to the tribe of the children of ⟦simeon|Shimon|Simeon⟧ by their clans. Their inheritance was in the midst of the inheritance of the children of ⟦judah|Yehudah|Judah⟧.
 
-[2] Their inheritance included: Beersheba (or Sheba), Moladah,
+[2] Their inheritance included: ⟦beersheba|Beer Sheva|Beersheba⟧ (or ⟦sheba|Sheva|Sheba⟧), Moladah,
 
-[3] Hazar-shual, Balah, Ezem,
+[3] ⟦hazar-shual|Chatzar Shual|Hazar-shual⟧, Balah, ⟦ezem|Etzem|Ezem⟧,
 
-[4] Eltolad, Bethul, Hormah,
+[4] Eltolad, ⟦bethul|Betul|Bethul⟧, ⟦hormah|Chormah|Hormah⟧,
 
-[5] Ziklag, Beth-marcaboth, Hazar-susah,
+[5] ⟦ziklag|Tziqlag|Ziklag⟧, ⟦beth-marcaboth|Beit HaMarkavot|Beth-marcaboth⟧, ⟦hazar-susah|Chatzar Susah|Hazar-susah⟧,
 
-[6] Beth-lebaoth, and Sharuhen — thirteen cities with their villages;
+[6] ⟦beth-lebaoth|Beit Levaot|Beth-lebaoth⟧, and ⟦sharuhen|Sharuchen|Sharuhen⟧ — thirteen cities with their villages;
 
-[7] Ain, Rimmon, Ether, and Ashan — four cities with their villages;
+[7] ⟦ain|Ayin|Ain⟧, Rimmon, ⟦ether|Eter|Ether⟧, and Ashan — four cities with their villages;
 
-[8] and all the villages around these cities as far as Baalath-beer, Ramah of the Negev. This is the inheritance of the tribe of the children of Simeon by their clans.
+[8] and all the villages around these cities as far as ⟦baalath-beer|Baalat Beer|Baalath-beer⟧, Ramah of the ⟦negev|Negev|Negeb⟧. This is the inheritance of the tribe of the children of ⟦simeon|Shimon|Simeon⟧ by their clans.
 
-[9] From the portion of the children of Judah came the inheritance of the children of Simeon, because the portion of the children of Judah was too large for them; so the children of Simeon had their inheritance within their portion.
+[9] From the portion of the children of ⟦judah|Yehudah|Judah⟧ came the inheritance of the children of ⟦simeon|Shimon|Simeon⟧, because the portion of the children of ⟦judah|Yehudah|Judah⟧ was too large for them; so the children of ⟦simeon|Shimon|Simeon⟧ had their inheritance within their portion.
 
-[10] The third lot came up for the children of Zebulun by their clans. The border of their inheritance extended to Sarid;
+[10] The third lot came up for the children of ⟦zebulun|Zevulun|Zebulun⟧ by their clans. The border of their inheritance extended to Sarid;
 
-[11] their border went up westward to Maralah, touching Dabbesheth, reaching to the wadi east of Jokneam.
+[11] their border went up westward to Maralah, touching ⟦dabbesheth|Dabbeshet|Dabbesheth⟧, reaching to the wadi east of ⟦jokneam|Yoqneam|Jokneam⟧.
 
-[12] It turned from Sarid eastward toward the sunrise to the border of Chisloth-tabor, went to Daberath, and went up to Japhia;
+[12] It turned from Sarid eastward toward the sunrise to the border of ⟦chisloth-tabor|Kislot Tavor|Chisloth-tabor⟧, went to ⟦daberath|Daverat|Daberath⟧, and went up to ⟦japhia|Yafia|Japhia⟧;
 
-[13] from there it passed along on the east to Gath-hepher, to Eth-kazin, and went out to Rimmon-methoar toward Neah;
+[13] from there it passed along on the east to ⟦gath-hepher|Gat HaChefer|Gath-hepher⟧, to ⟦eth-kazin|Ittah Qatzin|Eth-kazin⟧, and went out to ⟦rimmon-methoar|Rimmon HaMetoar|Rimmon-methoar⟧ toward Neah;
 
-[14] the border skirted it on the north to Hannathon, ending in the Valley of Iphtah-el —
+[14] the border skirted it on the north to ⟦hannathon|Channaton|Hannathon⟧, ending in the Valley of ⟦iphtah-el|Yiftach El|Iphtah-el⟧ —
 
-[15] including Kattath, Nahalal, Shimron, Idalah, and Bethlehem — twelve cities with their villages.
+[15] including ⟦kattath|Qattat|Kattath⟧, Nahalal, Shimron, ⟦idalah|Yidalah|Idalah⟧, and ⟦bethlehem|Beit Lechem|Bethlehem⟧ — twelve cities with their villages.
 
-[16] This is the inheritance of the children of Zebulun by their clans — these cities with their villages.
+[16] This is the inheritance of the children of ⟦zebulun|Zevulun|Zebulun⟧ by their clans — these cities with their villages.
 
-[17] The fourth lot came out for Issachar, for the children of Issachar by their clans.
+[17] The fourth lot came out for ⟦issachar|Yissachar|Issachar⟧, for the children of ⟦issachar|Yissachar|Issachar⟧ by their clans.
 
-[18] Their territory included Jezreel, Chesulloth, Shunem,
+[18] Their territory included ⟦jezreel|Yizreel|Jezreel⟧, ⟦chesulloth|Kesullot|Chesulloth⟧, Shunem,
 
-[19] Hapharaim, Shion, Anaharath,
+[19] ⟦hapharaim|Chafarayim|Hapharaim⟧, Shion, ⟦anaharath|Anacharat|Anaharath⟧,
 
-[20] Rabbith, Kishion, Ebez,
+[20] ⟦rabbith|Rabbit|Rabbith⟧, ⟦kishion|Qishyon|Kishion⟧, ⟦ebez|Evetz|Ebez⟧,
 
-[21] Remeth, En-gannim, En-haddah, and Beth-pazzez.
+[21] ⟦remeth|Remet|Remeth⟧, ⟦en-gannim|Ein Gannim|En-gannim⟧, ⟦en-haddah|Ein Chaddah|En-haddah⟧, and ⟦beth-pazzez|Beit Patzetz|Beth-pazzez⟧.
 
-[22] The border reached to Tabor, Shahazumah, and Beth-shemesh; and their border ended at the Jordan — sixteen cities with their villages.
+[22] The border reached to ⟦tabor|Tavor|Tabor⟧, ⟦shahazumah|Shachatzumah|Shahazumah⟧, and ⟦beth-shemesh|Beit Shemesh|Beth-shemesh⟧; and their border ended at the ⟦jordan|Yarden|Jordan⟧ — sixteen cities with their villages.
 
-[23] This is the inheritance of the tribe of the children of Issachar by their clans — the cities and their villages.
+[23] This is the inheritance of the tribe of the children of ⟦issachar|Yissachar|Issachar⟧ by their clans — the cities and their villages.
 
 [24] The fifth lot came out for the tribe of the children of Asher by their clans.
 
-[25] Their territory included Helkath, Hali, Beten, Achshaph,
+[25] Their territory included ⟦helkath|Chelqat|Helkath⟧, ⟦hali|Chali|Hali⟧, Beten, ⟦achshaph|Achshaf|Achshaph⟧,
 
-[26] Allammelech, Amad, and Mishal; it reached to Carmel on the west and to Shihor-libnath.
+[26] Allammelech, Amad, and Mishal; it reached to ⟦carmel|Karmel|Carmel⟧ on the west and to ⟦shihor-libnath|Shichor Livnat|Shihor-libnath⟧.
 
-[27] Then it turned eastward to Beth-dagon, reached to Zebulun and to the Valley of Iphtah-el north of Beth-emek and Neiel; it went out to Cabul on the left,
+[27] Then it turned eastward to ⟦beth-dagon|Beit Dagon|Beth-dagon⟧, reached to ⟦zebulun|Zevulun|Zebulun⟧ and to the Valley of ⟦iphtah-el|Yiftach El|Iphtah-el⟧ north of ⟦beth-emek|Beit HaEmeq|Beth-emek⟧ and Neiel; it went out to ⟦cabul|Kavul|Cabul⟧ on the left,
 
-[28] and Ebron, Rehob, Hammon, and Kanah, as far as Great Sidon;
+[28] and ⟦ebron|Evron|Ebron⟧, ⟦rehob|Rechov|Rehob⟧, ⟦hammon|Chammon|Hammon⟧, and ⟦kanah|Qanah|Kanah⟧, as far as Great ⟦sidon|Tzidon|Sidon⟧;
 
-[29] then the border turned to Ramah, to the fortified city of Tyre; then the border turned to Hosah, and it ended at the sea in the region of Achzib —
+[29] then the border turned to Ramah, to the fortified city of ⟦tyre|Tzor|Tyre⟧; then the border turned to ⟦hosah|Chosah|Hosah⟧, and it ended at the sea in the region of ⟦achzib|Achziv|Achzib⟧ —
 
-[30] Ummah, Aphek, and Rehob — twenty-two cities with their villages.
+[30] Ummah, ⟦aphek|Afeq|Aphek⟧, and ⟦rehob|Rechov|Rehob⟧ — twenty-two cities with their villages.
 
 [31] This is the inheritance of the tribe of the children of Asher by their clans — these cities with their villages.
 
-[32] The sixth lot came out for the children of Naphtali, for the children of Naphtali by their clans.
+[32] The sixth lot came out for the children of ⟦naphtali|Naftali|Naphtali⟧, for the children of ⟦naphtali|Naftali|Naphtali⟧ by their clans.
 
-[33] Their border went from Heleph, from the oak at Zaanannim, and Adami-nekeb, and Jabneel to Lakkum; and it ended at the Jordan.
+[33] Their border went from ⟦heleph|Chelef|Heleph⟧, from the oak at ⟦zaanannim|Tzaanannim|Zaanannim⟧, and ⟦adami-nekeb|Adami HaNeqev|Adami-nekeb⟧, and ⟦jabneel|Yavneel|Jabneel⟧ to ⟦lakkum|Laqqum|Lakkum⟧; and it ended at the ⟦jordan|Yarden|Jordan⟧.
 
-[34] Then the border turned westward to Aznoth-tabor, and from there it went to Hukkok, reaching to Zebulun on the south, to Asher on the west, and to Judah at the Jordan toward the sunrise.
+[34] Then the border turned westward to ⟦aznoth-tabor|Aznot Tavor|Aznoth-tabor⟧, and from there it went to ⟦hukkok|Chuqoq|Hukkok⟧, reaching to ⟦zebulun|Zevulun|Zebulun⟧ on the south, to Asher on the west, and to ⟦judah|Yehudah|Judah⟧ at the ⟦jordan|Yarden|Jordan⟧ toward the sunrise.
 
-[35] The fortified cities were Ziddim, Zer, Hammath, Rakkath, Chinnereth,
+[35] The fortified cities were ⟦ziddim|Tziddim|Ziddim⟧, ⟦zer|Tzer|Zer⟧, ⟦hammath|Chammat|Hammath⟧, ⟦rakkath|Raqqat|Rakkath⟧, ⟦chinnereth|Kinneret|Chinnereth⟧,
 
-[36] Adamah, Ramah, Hazor,
+[36] Adamah, Ramah, ⟦hazor|Chatzor|Hazor⟧,
 
-[37] Kedesh, Edrei, En-hazor,
+[37] ⟦kedesh|Qedesh|Kedesh⟧, Edrei, ⟦en-hazor|Ein Chatzor|En-hazor⟧,
 
-[38] Yiron, Migdal-el, Horem, Beth-anath, and Beth-shemesh — nineteen cities with their villages.
+[38] Yiron, ⟦migdal-el|Migdal El|Migdal-el⟧, ⟦horem|Chorem|Horem⟧, ⟦beth-anath|Beit Anat|Beth-anath⟧, and ⟦beth-shemesh|Beit Shemesh|Beth-shemesh⟧ — nineteen cities with their villages.
 
-[39] This is the inheritance of the tribe of the children of Naphtali by their clans — the cities and their villages.
+[39] This is the inheritance of the tribe of the children of ⟦naphtali|Naftali|Naphtali⟧ by their clans — the cities and their villages.
 
 [40] The seventh lot came out for the tribe of the children of Dan by their clans.
 
-[41] The territory of their inheritance included Zorah, Eshtaol, Ir-shemesh,
+[41] The territory of their inheritance included ⟦zorah|Tzorah|Zorah⟧, Eshtaol, ⟦ir-shemesh|Ir Shemesh|Ir-shemesh⟧,
 
-[42] Shaalabbin, Aijalon, Ithlah,
+[42] Shaalabbin, ⟦aijalon|Ayyalon|Aijalon⟧, ⟦ithlah|Yitlah|Ithlah⟧,
 
-[43] Elon, Timnah, Ekron,
+[43] Elon, Timnah, ⟦ekron|Eqron|Ekron⟧,
 
-[44] Eltekeh, Gibbethon, Baalath,
+[44] ⟦elteke|Elteqe|Eltekeh⟧, ⟦gibbethon|Gibbeton|Gibbethon⟧, ⟦baalath|Baalat|Baalath⟧,
 
-[45] Jehud, Bene-berak, Gath-rimmon,
+[45] ⟦jehud|Yehud|Jehud⟧, ⟦bene-berak|Benei Veraq|Bene-berak⟧, ⟦gath-rimmon|Gat Rimmon|Gath-rimmon⟧,
 
-[46] Me-jarkon, and Rakkon, with the territory over against Joppa.
+[46] ⟦me-jarkon|Mei HaYarqon|Me-jarkon⟧, and ⟦rakkon|Raqqon|Rakkon⟧, with the territory over against ⟦joppa|Yafo|Joppa⟧.
 
 [47] When the territory of the children of Dan was too narrow for them, the children of Dan went up and fought against Leshem and captured it. They struck it with the edge of the sword and took possession of it and dwelt in it, calling Leshem "Dan," after the name of Dan their ancestor.
 
 [48] This is the inheritance of the tribe of the children of Dan by their clans — these cities with their villages.
 
-[49] When they had finished apportioning the land as an inheritance according to their territories, the children of Israel gave Joshua son of Nun an inheritance among them.
+[49] When they had finished apportioning the land as an inheritance according to their territories, the children of ⟦israel|Yisrael|Israel⟧ gave ⟦joshua|Yehoshua|Joshua⟧ son of Nun an inheritance among them.
 
-[50] At the commandment of Yahweh they gave him the city that he asked for, Timnath-serah in the hill country of Ephraim; he rebuilt the city and dwelt there.
+[50] At the commandment of ⟦yhwh|Yahweh|the LORD⟧ they gave him the city that he asked for, ⟦timnath-serah|Timnat Serach|Timnath-serah⟧ in the hill country of ⟦ephraim|Efrayim|Ephraim⟧; he rebuilt the city and dwelt there.
 
-[51] These are the inheritances that Eleazar the priest, Joshua son of Nun, and the heads of the ancestral houses of the tribes of the children of Israel apportioned by lot at Shiloh before Yahweh, at the entrance of the Tent of Meeting. So they finished dividing the land.
+[51] These are the inheritances that ⟦eleazar|Elazar|Eleazar⟧ the priest, ⟦joshua|Yehoshua|Joshua⟧ son of Nun, and the heads of the ancestral houses of the tribes of the children of ⟦israel|Yisrael|Israel⟧ apportioned by lot at Shiloh before ⟦yhwh|Yahweh|the LORD⟧, at the entrance of the Tent of Meeting. So they finished dividing the land.
 
 ## Changes
 

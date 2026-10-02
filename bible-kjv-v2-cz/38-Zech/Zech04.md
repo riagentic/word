@@ -10,18 +10,18 @@
 
 [5] Tu mi posel, který se mnou mluvil, odpověděl: „Nevíš, co to je?“ Řekl jsem: „Ne, můj pane.“
 
-[6] Tu mi řekl: „Toto je slovo Yahweh k Zerubbabelovi:
+[6] Tu mi řekl: „Toto je slovo ⟦yhwh|Jahveho|Hospodina⟧ k ⟦zerubbabel|Zerubbavelovi|Zerubábelovi⟧:
 
 **‚Ne silou ani mocí,
-ale mým Duchem,‘ praví Yahweh zástupů.**
+ale mým Duchem,‘ praví ⟦yhwh|Jahve|Hospodin⟧ zástupů.**
 
-[7] Kdo jsi ty, veliká horo? Před Zerubbabelem se staneš rovinou. A on vynese vrcholový kámen za volání: ‚Milost, milost jemu!‘“
+[7] Kdo jsi ty, veliká horo? Před ⟦zerubbabel|Zerubbavelem|Zerubábelem⟧ se staneš rovinou. A on vynese vrcholový kámen za volání: ‚Milost, milost jemu!‘“
 
-[8] Potom ke mně přišlo slovo Yahweh:
+[8] Potom ke mně přišlo slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[9] „Ruce Zerubbabelovy položily základ tohoto domu; jeho ruce ho také dokončí. Tehdy poznáš, že mě k vám poslal Yahweh zástupů.
+[9] „Ruce ⟦zerubbabel|Zerubbavelovy|Zerubábelovy⟧ položily základ tohoto domu; jeho ruce ho také dokončí. Tehdy poznáš, že mě k vám poslal ⟦yhwh|Jahve|Hospodin⟧ zástupů.
 
-[10] Neboť kdokoli pohrdl dnem malých věcí, bude se radovat a uvidí olovnici v ruce Zerubbabelově. Těchto sedm jsou oči Yahweh, které procházejí celou zemi.“
+[10] Neboť kdokoli pohrdl dnem malých věcí, bude se radovat a uvidí olovnici v ruce ⟦zerubbabel|Zerubbavelově|Zerubábelově⟧. Těchto sedm jsou oči ⟦yhwh|Jahveho|Hospodina⟧, které procházejí celou zemi.“
 
 [11] Tu jsem mu řekl: „Co jsou ty dvě olivy po pravici a po levici svícnu?“
 

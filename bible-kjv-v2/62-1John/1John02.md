@@ -1,6 +1,6 @@
 # 1 John 2
 
-[1] My little children, I am writing these things to you so that you may not sin. But if anyone does sin, we have an advocate with the Father, *Yeshua* the *Mashiach* the righteous.
+[1] My little children, I am writing these things to you so that you may not sin. But if anyone does sin, we have an advocate with the Father, ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧ the righteous.
 
 [2] He is the propitiation for our sins, and not for ours only but also for the sins of the whole world.
 
@@ -8,7 +8,7 @@
 
 [4] Whoever says, "I know him" but does not keep his commandments is a liar, and the truth is not in him,
 
-[5] but whoever keeps his word, in him truly the love of *Elohim* is perfected. By this we may know that we are in him:
+[5] but whoever keeps his word, in him truly the love of ⟦elohim|Elohim|God⟧ is perfected. By this we may know that we are in him:
 
 [6] whoever says he abides in him ought to walk in the same way in which he walked.
 
@@ -35,14 +35,14 @@ I write to you, fathers,
 because you know him who is from the beginning.
 I write to you, young men,
 because you are strong,
-and the word of *Elohim* abides in you,
+and the word of ⟦elohim|Elohim|God⟧ abides in you,
 and you have overcome the evil one.
 
 [15] **Do not love the world or the things in the world.** If anyone loves the world, the love of the Father is not in him.
 
 [16] For all that is in the world — the desires of the flesh and the desires of the eyes and pride of life — is not from the Father but is from the world.
 
-[17] And the world is passing away along with its desires, but whoever does the will of *Elohim* abides forever.
+[17] And the world is passing away along with its desires, but whoever does the will of ⟦elohim|Elohim|God⟧ abides forever.
 
 [18] Children, it is the last hour, and as you have heard that antichrist is coming, so now many antichrists have come. Therefore we know that it is the last hour.
 
@@ -52,7 +52,7 @@ and you have overcome the evil one.
 
 [21] I write to you, not because you do not know the truth, but because you know it, and because no lie is of the truth.
 
-[22] Who is the liar but he who denies that *Yeshua* is the *Mashiach*? This is the antichrist, he who denies the Father and the Son.
+[22] Who is the liar but he who denies that ⟦yeshua|Yeshua|Jesus⟧ is the ⟦mashiach|Mashiach|Christ⟧? This is the antichrist, he who denies the Father and the Son.
 
 [23] No one who denies the Son has the Father. Whoever confesses the Son has the Father also.
 

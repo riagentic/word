@@ -2,7 +2,7 @@
 
 [1] Brothers, if anyone is caught in any transgression, you who are spiritual should restore him in a spirit of gentleness. Keep watch on yourself, lest you too be tempted.
 
-[2] **Bear one another's burdens, and so fulfill the law of the *Mashiach*.**
+[2] **Bear one another's burdens, and so fulfill the law of ⟦mashiach|the Mashiach|Christ⟧.**
 
 [3] For if anyone thinks he is something, when he is nothing, he deceives himself.
 
@@ -12,7 +12,7 @@
 
 [6] Let the one who is taught the word share all good things with the one who teaches.
 
-[7] **Do not be deceived: *Elohim* is not mocked, for whatever one sows, that will he also reap.**
+[7] **Do not be deceived: ⟦elohim|Elohim|God⟧ is not mocked, for whatever one sows, that will he also reap.**
 
 [8] For the one who sows to his own flesh will from the flesh reap corruption, but the one who sows to the Spirit will from the Spirit reap eternal life.
 
@@ -22,19 +22,19 @@
 
 [11] See with what large letters I am writing to you with my own hand.
 
-[12] It is those who want to make a good showing in the flesh who would force you to be circumcised, and only in order that they may not be persecuted for the cross of the *Mashiach*.
+[12] It is those who want to make a good showing in the flesh who would force you to be circumcised, and only in order that they may not be persecuted for the cross of ⟦mashiach|the Mashiach|Christ⟧.
 
-[13] For even those who are circumcised do not themselves keep the Torah, but they desire to have you circumcised that they may boast in your flesh.
+[13] For even those who are circumcised do not themselves keep the ⟦torah|Torah|law⟧, but they desire to have you circumcised that they may boast in your flesh.
 
-[14] But far be it from me to boast except in the cross of our Lord *Yeshua* the *Mashiach*, by which the world has been crucified to me, and I to the world.
+[14] But far be it from me to boast except in the cross of our Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧, by which the world has been crucified to me, and I to the world.
 
 [15] For neither circumcision counts for anything, nor uncircumcision, but a new creation.
 
-[16] And as for all who walk by this rule, peace and mercy be upon them, and upon the Israel of *Elohim*.
+[16] And as for all who walk by this rule, peace and mercy be upon them, and upon the ⟦israel|Yisrael|Israel⟧ of ⟦elohim|Elohim|God⟧.
 
-[17] From now on let no one cause me trouble, for I bear on my body the marks of *Yeshua*.
+[17] From now on let no one cause me trouble, for I bear on my body the marks of ⟦yeshua|Yeshua|Jesus⟧.
 
-[18] The grace of our Lord *Yeshua* the *Mashiach* be with your spirit, brothers. Amen.
+[18] The grace of our Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧ be with your spirit, brothers. Amen.
 
 ## Changes
 

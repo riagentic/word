@@ -1,18 +1,18 @@
 # Matouš 15
 
-[1] Tehdy přišli k *Yeshuovi* z Jerusalemu farizeové a zákoníci a řekli:
+[1] Tehdy přišli k ⟦yeshua|Ješuovi|Ježíšovi⟧ z ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ ⟦pharisees|perušim|farizeové⟧ a zákoníci a řekli:
 
 [2] „Proč tvoji učedníci přestupují tradici starších? Nemyjí si totiž ruce, když jedí.“
 
-[3] Odpověděl jim: „A proč vy přestupujete přikázání *Elohim* kvůli své tradici?
+[3] Odpověděl jim: „A proč vy přestupujete přikázání ⟦elohim|Elohim|Boží⟧ kvůli své tradici?
 
-[4] Neboť *Elohim* přikázal: ‚Cti svého otce i svou matku,‘ a: ‚Kdo zlořečí otci nebo matce, ať je jistě usmrcen.‘
+[4] Neboť ⟦elohim|Elohim|Bůh⟧ přikázal: ‚Cti svého otce i svou matku,‘ a: ‚Kdo zlořečí otci nebo matce, ať je jistě usmrcen.‘
 
-[5] Vy však říkáte: ‚Když někdo řekne svému otci nebo své matce: „Co bys ode mě měl získat, je dáno *Elohim*,“‘
+[5] Vy však říkáte: ‚Když někdo řekne svému otci nebo své matce: „Co bys ode mě měl získat, je dáno ⟦elohim|Elohim|Bohu⟧,“‘
 
-[6] nemusí ctít svého otce. Tak jste kvůli své tradici zrušili slovo *Elohim*.
+[6] nemusí ctít svého otce. Tak jste kvůli své tradici zrušili slovo ⟦elohim|Elohim|Boží⟧.
 
-[7] Pokrytci! Dobře o vás prorokoval Isaiah, když řekl:
+[7] Pokrytci! Dobře o vás prorokoval ⟦isaiah|Ješajahu|Izajáš⟧, když řekl:
 
 [8] ‚Tento lid mě ctí rty,
 ale jejich srdce je ode mne daleko;
@@ -24,13 +24,13 @@ když učí naukám, které jsou lidskými příkazy.‘“
 
 [11] člověka neposkvrňuje to, co vchází do úst, ale co z úst vychází; to poskvrňuje člověka.“
 
-[12] Tehdy přistoupili učedníci a řekli mu: „Víš, že se farizeové pohoršili, když uslyšeli to slovo?“
+[12] Tehdy přistoupili učedníci a řekli mu: „Víš, že se ⟦pharisees|perušim|farizeové⟧ pohoršili, když uslyšeli to slovo?“
 
 [13] Odpověděl: „Každá rostlina, kterou nezasadil můj nebeský Otec, bude vykořeněna.
 
 [14] Nechte je; jsou to slepí vůdcové. A vede-li slepý slepého, oba padnou do jámy.“
 
-[15] Tu mu Peter řekl: „Vysvětli nám to podobenství.“
+[15] Tu mu ⟦peter|Kefa|Petr⟧ řekl: „Vysvětli nám to podobenství.“
 
 [16] Řekl: „Ještě i vy jste nechápaví?
 
@@ -42,13 +42,13 @@ když učí naukám, které jsou lidskými příkazy.‘“
 
 [20] To jsou věci, které poskvrňují člověka. Ale jíst neumytýma rukama nikoho neposkvrňuje.“
 
-[21] *Yeshua* odtud odešel a uchýlil se do krajiny Tyru a Sidonu.
+[21] ⟦yeshua|Ješua|Ježíš⟧ odtud odešel a uchýlil se do krajiny ⟦tyre|Coru|Týru⟧ a ⟦sidon|Cidonu|Sidónu⟧.
 
-[22] A hle, canaanská žena z toho kraje vyšla a volala: „Smiluj se nade mnou, Pane, Synu Davidův; má dcera je těžce utlačována démonem.“
+[22] A hle, ⟦canaanites|kenaanská|kananejská⟧ žena z toho kraje vyšla a volala: „Smiluj se nade mnou, Pane, Synu Davidův; má dcera je těžce utlačována démonem.“
 
 [23] On jí však neodpověděl ani slovo. Jeho učedníci přistoupili a prosili ho: „Propusť ji, vždyť za námi křičí.“
 
-[24] Odpověděl: „Jsem poslán jen ke ztraceným ovcím z domu Israele.“
+[24] Odpověděl: „Jsem poslán jen ke ztraceným ovcím z domu ⟦israel|Jisraele|Izraele⟧.“
 
 [25] Ona však přišla, poklekla před ním a řekla: „Pane, pomoz mi.“
 
@@ -56,21 +56,21 @@ když učí naukám, které jsou lidskými příkazy.‘“
 
 [27] Řekla: „Ano, Pane, vždyť i pejsci jedí drobky, které padají ze stolu jejich pánů.“
 
-[28] Tehdy jí *Yeshua* odpověděl: „Ženo, veliká je tvá víra! Staň se ti, jak si přeješ.“ A její dcera byla v tu chvíli uzdravena.
+[28] Tehdy jí ⟦yeshua|Ješua|Ježíš⟧ odpověděl: „Ženo, veliká je tvá víra! Staň se ti, jak si přeješ.“ A její dcera byla v tu chvíli uzdravena.
 
-***Yeshua* uzdravuje mnohé:**
+**⟦yeshua|Ješua|Ježíš⟧ uzdravuje mnohé:**
 
-[29] *Yeshua* odešel odtud a šel podél Galilejského moře. Vystoupil na horu a posadil se tam.
+[29] ⟦yeshua|Ješua|Ježíš⟧ odešel odtud a šel podél Galilejského moře. Vystoupil na horu a posadil se tam.
 
 [30] Přišly k němu velké zástupy a přinesly s sebou chromé, slepé, zmrzačené, němé a mnoho jiných a položily je k jeho nohám a on je uzdravil,
 
-[31] takže zástup žasl, když viděl němé mluvit, zmrzačené zdravé, chromé chodit a slepé vidět. A oslavovali *Elohim* Israele.
+[31] takže zástup žasl, když viděl němé mluvit, zmrzačené zdravé, chromé chodit a slepé vidět. A oslavovali ⟦elohim|Elohim|Boha⟧ ⟦israel|Jisraele|Izraele⟧.
 
-[32] Tehdy *Yeshua* zavolal své učedníky a řekl: „Je mi líto zástupu, protože už jsou se mnou tři dny a nemají co jíst. Nechci je propustit hladové, aby cestou nezemdleli.“
+[32] Tehdy ⟦yeshua|Ješua|Ježíš⟧ zavolal své učedníky a řekl: „Je mi líto zástupu, protože už jsou se mnou tři dny a nemají co jíst. Nechci je propustit hladové, aby cestou nezemdleli.“
 
 [33] Učedníci mu řekli: „Kde vezmeme na tak pustém místě dost chleba, abychom nasytili tak veliký zástup?“
 
-[34] *Yeshua* jim řekl: „Kolik máte chlebů?“ Řekli: „Sedm a několik rybiček.“
+[34] ⟦yeshua|Ješua|Ježíš⟧ jim řekl: „Kolik máte chlebů?“ Řekli: „Sedm a několik rybiček.“
 
 [35] Vyzval zástup, aby se posadil na zem,
 
@@ -80,7 +80,7 @@ když učí naukám, které jsou lidskými příkazy.‘“
 
 [38] Těch, kdo jedli, bylo čtyři tisíce mužů, kromě žen a dětí.
 
-[39] Když propustil zástupy, vstoupil do lodi a přišel do krajiny Magdaly.
+[39] Když propustil zástupy, vstoupil do lodi a přišel do krajiny ⟦magadan|Migdalu|Magadanu⟧.
 
 ## Změny
 

@@ -22,24 +22,24 @@
 
 ‚**Kámen, který stavitelé zavrhli,
 se stal kvádrem úhelným;
-[11] od Pána se to stalo
+[11] od ⟦yhwh|Jahveho|Hospodina⟧ se to stalo
 a je to podivuhodné v našich očích**‘?“
 
 [12] Snažili se ho zatknout, ale báli se lidu, neboť poznali, že to podobenství řekl proti nim. Nechali ho tedy a odešli.
 
-[13] Poslali k němu některé z farizeů a herodiánů, aby ho chytili za slovo.
+[13] Poslali k němu některé z ⟦pharisees|perušim|farizeů⟧ a ⟦herodians|herodianoi|herodiánů⟧, aby ho chytili za slovo.
 
-[14] Přišli a řekli mu: „Učiteli, víme, že jsi pravdivý a nedbáš na ničí mínění. Nehledíš totiž na vnější zdání, ale v pravdě učíš cestě *Elohim*. Je dovoleno platit daně Caesarovi, nebo ne? Máme je platit, nebo nemáme?“
+[14] Přišli a řekli mu: „Učiteli, víme, že jsi pravdivý a nedbáš na ničí mínění. Nehledíš totiž na vnější zdání, ale v pravdě učíš cestě ⟦elohim|Elohim|Boží⟧. Je dovoleno platit daně ⟦caesar|Caesarovi|císaři⟧, nebo ne? Máme je platit, nebo nemáme?“
 
 [15] On však poznal jejich pokrytectví a řekl jim: „Proč mě pokoušíte? Přineste mi denár, ať se na něj podívám.“
 
-[16] Přinesli jej. Řekl jim: „Čí je to podoba a nápis?“ Řekli mu: „Caesarův.“
+[16] Přinesli jej. Řekl jim: „Čí je to podoba a nápis?“ Řekli mu: „⟦caesar|Caesarův|Císařův⟧.“
 
-[17] *Yeshua* jim řekl: „**Odevzdávejte Caesarovi, co je Caesarovo, a *Elohim*, co je *Elohim*.**“ A velmi se mu divili.
+[17] ⟦yeshua|Ješua|Ježíš⟧ jim řekl: „**Odevzdávejte ⟦caesar|Caesarovi|císaři⟧, co je ⟦caesar|Caesarovo|císařovo⟧, a ⟦elohim|Elohim|Bohu⟧, co je ⟦elohim|Elohim|Boží⟧.**“ A velmi se mu divili.
 
-[18] Přišli k němu saduceové, kteří tvrdí, že není vzkříšení, a zeptali se ho:
+[18] Přišli k němu ⟦sadducees|cedukim|saduceové⟧, kteří tvrdí, že není vzkříšení, a zeptali se ho:
 
-[19] „Učiteli, Moses nám napsal, že zemře-li někomu bratr a zanechá manželku, ale nezanechá dítě, má si ten muž vzít vdovu a zplodit svému bratrovi potomstvo.
+[19] „Učiteli, ⟦moses|Moše|Mojžíš⟧ nám napsal, že zemře-li někomu bratr a zanechá manželku, ale nezanechá dítě, má si ten muž vzít vdovu a zplodit svému bratrovi potomstvo.
 
 [20] Bylo sedm bratrů; první si vzal ženu, a když zemřel, nezanechal potomstvo.
 
@@ -49,19 +49,19 @@ a je to podivuhodné v našich očích**‘?“
 
 [23] Čí manželkou bude při vzkříšení, až vstanou? Všech sedm ji přece mělo za manželku.“
 
-[24] *Yeshua* jim řekl: „Nemýlíte se právě proto, že neznáte Písma ani moc *Elohim*?
+[24] ⟦yeshua|Ješua|Ježíš⟧ jim řekl: „Nemýlíte se právě proto, že neznáte Písma ani moc ⟦elohim|Elohim|Boží⟧?
 
 [25] Když totiž vstanou z mrtvých, nežení se ani nevdávají, ale jsou jako andělé v nebi.
 
-[26] A pokud jde o to, že mrtví vstávají, nečetli jste v knize Mosesově, v oddíle o keři, jak mu *Elohim* řekl: ‚**Já jsem *Elohim* Abrahamův, *Elohim* Isaacův a *Elohim* Jacobův**‘?
+[26] A pokud jde o to, že mrtví vstávají, nečetli jste v knize ⟦moses|Mošově|Mojžíšově⟧, v oddíle o keři, jak mu ⟦elohim|Elohim|Bůh⟧ řekl: ‚**Já jsem ⟦elohim|Elohim|Bůh⟧ ⟦abraham|Avrahamův|Abrahamův⟧, ⟦elohim|Elohim|Bůh⟧ ⟦isaac|Jicchakův|Izákův⟧ a ⟦elohim|Elohim|Bůh⟧ ⟦jacob|Jaakovův|Jákobův⟧**‘?
 
-[27] On není *Elohim* mrtvých, ale živých. Velice se mýlíte.“
+[27] On není ⟦elohim|Elohim|Bůh⟧ mrtvých, ale živých. Velice se mýlíte.“
 
 [28] Přistoupil jeden ze zákoníků, který slyšel, jak se přou, a když viděl, že jim dobře odpověděl, zeptal se ho: „Které přikázání je ze všech nejdůležitější?“
 
-[29] *Yeshua* odpověděl: „Nejdůležitější je: ‚**Slyš, Israeli: Pán, náš *Elohim*, Pán je jeden.**
+[29] ⟦yeshua|Ješua|Ježíš⟧ odpověděl: „Nejdůležitější je: ‚**Slyš, ⟦israel|Jisraeli|Izraeli⟧: ⟦yhwh|Jahve|Hospodin⟧, náš ⟦elohim|Elohim|Bůh⟧, ⟦yhwh|Jahve|Hospodin⟧ je jeden.**
 
-**[30] Budeš milovat Pána, svého *Elohim*, celým svým srdcem, celou svou duší, celou svou myslí a celou svou silou**.‘
+**[30] Budeš milovat ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, celým svým srdcem, celou svou duší, celou svou myslí a celou svou silou**.‘
 
 [31] Druhé je toto: ‚**Budeš milovat svého bližního jako sám sebe**.‘ Není jiného přikázání většího než tato.“
 
@@ -69,13 +69,13 @@ a je to podivuhodné v našich očích**‘?“
 
 [33] A milovat ho celým srdcem, celým rozumem a celou silou a milovat bližního jako sám sebe je mnohem víc než všechny zápalné oběti a oběti.“
 
-[34] Když *Yeshua* viděl, že odpověděl moudře, řekl mu: „Nejsi daleko od království *Elohim*.“ A potom už se ho nikdo neodvážil na nic ptát.
+[34] Když ⟦yeshua|Ješua|Ježíš⟧ viděl, že odpověděl moudře, řekl mu: „Nejsi daleko od království ⟦elohim|Elohim|Božího⟧.“ A potom už se ho nikdo neodvážil na nic ptát.
 
-[35] Když *Yeshua* učil v chrámu, řekl: „Jak mohou zákoníci říkat, že *Mashiach* je syn Davidův?
+[35] Když ⟦yeshua|Ješua|Ježíš⟧ učil v chrámu, řekl: „Jak mohou zákoníci říkat, že ⟦mashiach|Mašiach|Mesiáš⟧ je syn Davidův?
 
-[36] Sám David v *Ruach HaQodesh* prohlásil:
+[36] Sám David v ⟦ruach-haqodesh|Ruach HaKodeš|Duchu svatém⟧ prohlásil:
 
-‚**Řekl Pán mému Pánu:
+‚**Řekl ⟦yhwh|Jahve|Hospodin⟧ mému Pánu:
 „Seď po mé pravici,
 dokud nepoložím tvé nepřátele pod tvé nohy.“**‘
 

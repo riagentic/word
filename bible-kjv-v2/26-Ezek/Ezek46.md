@@ -1,12 +1,12 @@
 # Ezekiel 46
 
-[1] "Thus says Lord Yahweh: The gate of the inner court that faces east shall be shut on the six working days, but on the Sabbath day it shall be opened, and on the day of the new moon it shall be opened.
+[1] "Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: The gate of the inner court that faces east shall be shut on the six working days, but on the ⟦shabbat|Shabbat|Sabbath⟧ day it shall be opened, and on the day of the new moon it shall be opened.
 
 [2] The prince shall enter by the vestibule of the gate from outside, and shall take his stand by the post of the gate. The priests shall offer his burnt offering and his peace offerings, and he shall worship at the threshold of the gate. Then he shall go out, but the gate shall not be shut until evening.
 
-[3] The people of the land shall bow down at the entrance of that gate before Yahweh on the Sabbaths and on the new moons.
+[3] The people of the land shall bow down at the entrance of that gate before ⟦yhwh|Yahweh|the LORD⟧ on the ⟦shabbat|Shabbatot|Sabbaths⟧ and on the new moons.
 
-[4] "The burnt offering that the prince offers to Yahweh on the Sabbath day shall be six lambs without blemish and a ram without blemish.
+[4] "The burnt offering that the prince offers to ⟦yhwh|Yahweh|the LORD⟧ on the ⟦shabbat|Shabbat|Sabbath⟧ day shall be six lambs without blemish and a ram without blemish.
 
 [5] And the grain offering with the ram shall be an ephah, and the grain offering with the lambs shall be as much as he is able, together with a hin of oil to each ephah.
 
@@ -16,21 +16,21 @@
 
 [8] When the prince enters, he shall enter by the vestibule of the gate, and he shall go out by the same way.
 
-[9] "When the people of the land come before Yahweh at the appointed feasts, he who enters by the north gate to worship shall go out by the south gate, and he who enters by the south gate shall go out by the north gate. No one shall return by way of the gate by which he entered, but each shall go out straight ahead.
+[9] "When the people of the land come before ⟦yhwh|Yahweh|the LORD⟧ at the appointed feasts, he who enters by the north gate to worship shall go out by the south gate, and he who enters by the south gate shall go out by the north gate. No one shall return by way of the gate by which he entered, but each shall go out straight ahead.
 
 [10] When they enter, the prince shall enter with them, and when they go out, he shall go out.
 
 [11] "At the feasts and the appointed festivals, the grain offering with a young bull shall be an ephah, and with a ram an ephah, and with the lambs as much as one is able to give, together with a hin of oil to an ephah.
 
-[12] When the prince provides a freewill offering, either a burnt offering or peace offerings as a freewill offering to Yahweh, the gate facing east shall be opened for him. And he shall offer his burnt offering or his peace offerings as he does on the Sabbath day. Then he shall go out, and after he has gone out the gate shall be shut.
+[12] When the prince provides a freewill offering, either a burnt offering or peace offerings as a freewill offering to ⟦yhwh|Yahweh|the LORD⟧, the gate facing east shall be opened for him. And he shall offer his burnt offering or his peace offerings as he does on the ⟦shabbat|Shabbat|Sabbath⟧ day. Then he shall go out, and after he has gone out the gate shall be shut.
 
-[13] "You shall provide a lamb a year old without blemish for a burnt offering to Yahweh daily; morning by morning you shall provide it.
+[13] "You shall provide a lamb a year old without blemish for a burnt offering to ⟦yhwh|Yahweh|the LORD⟧ daily; morning by morning you shall provide it.
 
-[14] And you shall provide a grain offering with it morning by morning, one sixth of an ephah, and one third of a hin of oil to moisten the flour, as a grain offering to Yahweh. This is a perpetual statute.
+[14] And you shall provide a grain offering with it morning by morning, one sixth of an ephah, and one third of a hin of oil to moisten the flour, as a grain offering to ⟦yhwh|Yahweh|the LORD⟧. This is a perpetual statute.
 
 [15] Thus the lamb and the grain offering and the oil shall be provided, morning by morning, for a regular burnt offering.
 
-[16] "Thus says Lord Yahweh: If the prince makes a gift to any of his sons as his inheritance, it shall belong to his sons. It is their property by inheritance.
+[16] "Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: If the prince makes a gift to any of his sons as his inheritance, it shall belong to his sons. It is their property by inheritance.
 
 [17] But if he makes a gift out of his inheritance to one of his servants, it shall be his until the year of liberty. Then it shall revert to the prince; surely it is his inheritance — it shall belong to his sons.
 

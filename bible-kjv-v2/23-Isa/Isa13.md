@@ -1,6 +1,6 @@
 # Isaiah 13
 
-[1] The oracle concerning Babylon which Isaiah son of Amoz saw.
+[1] The oracle concerning ⟦babylon|Bavel|Babylon⟧ which ⟦isaiah|Yeshayahu|Isaiah⟧ son of ⟦amoz|Amotz|Amoz⟧ saw.
 
 [2] On a bare hill raise a signal;
 cry aloud to them;
@@ -16,15 +16,15 @@ my proudly exulting ones.
 as of a great multitude!
 The sound of an uproar of kingdoms,
 of nations gathering together!
-Yahweh of Hosts is mustering a host for battle.
+⟦yhwh|Yahweh|The LORD⟧ of Hosts is mustering a host for battle.
 
 [5] They come from a distant land,
 from the end of the heavens,
-Yahweh and the weapons of his indignation,
+⟦yhwh|Yahweh|the LORD⟧ and the weapons of his indignation,
 to destroy the whole land.
 
-[6] Wail, for the Day of Yahweh is near;
-as destruction from Shaddai it will come!
+[6] Wail, for the Day of ⟦yhwh|Yahweh|the LORD⟧ is near;
+as destruction from ⟦shaddai|Shaddai|the Almighty⟧ it will come!
 
 [7] Therefore all hands will be feeble,
 and every human heart will melt.
@@ -35,7 +35,7 @@ they will be in anguish like a woman in labor.
 They will look aghast at one another;
 their faces aflame.
 
-[9] Behold, the Day of Yahweh comes,
+[9] Behold, the Day of ⟦yhwh|Yahweh|the LORD⟧ comes,
 cruel, with wrath and fierce anger,
 to make the land a desolation
 and to destroy its sinners from it.
@@ -51,11 +51,11 @@ I will put an end to the pomp of the arrogant,
 and lay low the pompous pride of the ruthless.
 
 [12] I will make people more rare than fine gold,
-and mankind than the gold of Ophir.
+and mankind than the gold of ⟦ophir|Ofir|Ophir⟧.
 
 [13] Therefore I will make the heavens tremble,
 and the earth will be shaken out of its place,
-at the wrath of Yahweh of Hosts
+at the wrath of ⟦yhwh|Yahweh|the LORD⟧ of Hosts
 in the day of his fierce anger.
 
 [14] And like a hunted gazelle,
@@ -70,7 +70,7 @@ and whoever is caught will fall by the sword.
 their houses will be plundered
 and their wives ravished.
 
-[17] Behold, I am stirring up the Medes against them,
+[17] Behold, I am stirring up the ⟦medes|Madai|Medes⟧ against them,
 who have no regard for silver
 and do not delight in gold.
 
@@ -78,14 +78,14 @@ and do not delight in gold.
 they will have no mercy on the fruit of the womb;
 their eyes will not pity children.
 
-[19] And Babylon, the glory of kingdoms,
-the splendor and pomp of the Chaldeans,
-will be like Sodom and Gomorrah
-when *Elohim* overthrew them.
+[19] And ⟦babylon|Bavel|Babylon⟧, the glory of kingdoms,
+the splendor and pomp of the ⟦chaldeans|Kasdim|Chaldeans⟧,
+will be like ⟦sodom|Sedom|Sodom⟧ and ⟦gomorrah|Amorah|Gomorrah⟧
+when ⟦elohim|Elohim|God⟧ overthrew them.
 
 [20] It will never be inhabited
 or lived in for all generations;
-no Arab will pitch his tent there;
+no ⟦arab|Arav|Arab⟧ will pitch his tent there;
 no shepherds will make their flocks lie down there.
 
 [21] But wild beasts will lie down there,

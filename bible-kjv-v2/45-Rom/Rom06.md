@@ -4,9 +4,9 @@
 
 [2] By no means! How can we who died to sin still live in it?
 
-[3] Do you not know that all of us who have been immersed into *Yeshua* the *Mashiach* were immersed into his death?
+[3] Do you not know that all of us who have been ⟦immerse|immersed|baptized⟧ into ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧ were ⟦immerse|immersed|baptized⟧ into his death?
 
-[4] We were buried therefore with him by immersion into death, in order that, just as the *Mashiach* was raised from the dead by the glory of the Father, we too might walk in newness of life.
+[4] We were buried therefore with him by ⟦immersion|immersion|baptism⟧ into death, in order that, just as ⟦mashiach|the Mashiach|Christ⟧ was raised from the dead by the glory of the Father, we too might walk in newness of life.
 
 [5] For if we have been united with him in a death like his, we shall certainly be united with him in a resurrection like his.
 
@@ -14,25 +14,25 @@
 
 [7] For one who has died has been set free from sin.
 
-[8] Now if we have died with the *Mashiach*, we believe that we will also live with him.
+[8] Now if we have died with ⟦mashiach|the Mashiach|Christ⟧, we believe that we will also live with him.
 
-[9] We know that the *Mashiach*, being raised from the dead, will never die again; death no longer has dominion over him.
+[9] We know that ⟦mashiach|the Mashiach|Christ⟧, being raised from the dead, will never die again; death no longer has dominion over him.
 
-[10] For the death he died he died to sin, once for all, but the life he lives he lives to *Elohim*.
+[10] For the death he died he died to sin, once for all, but the life he lives he lives to ⟦elohim|Elohim|God⟧.
 
-[11] So you also must consider yourselves dead to sin and alive to *Elohim* in the *Mashiach* *Yeshua*.
+[11] So you also must consider yourselves dead to sin and alive to ⟦elohim|Elohim|God⟧ in ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧.
 
 [12] Let not sin therefore reign in your mortal body, to make you obey its passions.
 
-[13] Do not present your members to sin as instruments for unrighteousness, but present yourselves to *Elohim* as those who have been brought from death to life, and your members to *Elohim* as instruments for righteousness.
+[13] Do not present your members to sin as instruments for unrighteousness, but present yourselves to ⟦elohim|Elohim|God⟧ as those who have been brought from death to life, and your members to ⟦elohim|Elohim|God⟧ as instruments for righteousness.
 
-[14] For sin will have no dominion over you, since you are not under the Torah but under grace.
+[14] For sin will have no dominion over you, since you are not under the ⟦torah|Torah|law⟧ but under grace.
 
-[15] What then? Are we to sin because we are not under the Torah but under grace? By no means!
+[15] What then? Are we to sin because we are not under the ⟦torah|Torah|law⟧ but under grace? By no means!
 
 [16] Do you not know that if you present yourselves to anyone as obedient slaves, you are slaves of the one whom you obey, either of sin, which leads to death, or of obedience, which leads to righteousness?
 
-[17] But thanks be to *Elohim*, that you who were once slaves of sin have become obedient from the heart to the standard of teaching to which you were committed,
+[17] But thanks be to ⟦elohim|Elohim|God⟧, that you who were once slaves of sin have become obedient from the heart to the standard of teaching to which you were committed,
 
 [18] and, having been set free from sin, have become slaves of righteousness.
 
@@ -42,9 +42,9 @@
 
 [21] But what fruit were you getting at that time from the things of which you are now ashamed? For the end of those things is death.
 
-[22] But now that you have been set free from sin and have become slaves of *Elohim*, the fruit you get leads to sanctification and its end, eternal life.
+[22] But now that you have been set free from sin and have become slaves of ⟦elohim|Elohim|God⟧, the fruit you get leads to sanctification and its end, eternal life.
 
-[23] For **the wages of sin is death, but the free gift of *Elohim* is eternal life in the *Mashiach* *Yeshua* our Lord**.
+[23] For **the wages of sin is death, but the free gift of ⟦elohim|Elohim|God⟧ is eternal life in ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧ our Lord**.
 
 ## Changes
 

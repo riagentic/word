@@ -1,10 +1,10 @@
 # Deuteronomium 19
 
-[1] „Až Yahweh, tvůj *Elohim*, vyhladí národy, jejichž zemi ti Yahweh, tvůj *Elohim*, dává, a ty je vyvlastníš a budeš bydlet v jejich městech a v jejich domech,
+[1] „Až ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, vyhladí národy, jejichž zemi ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, dává, a ty je vyvlastníš a budeš bydlet v jejich městech a v jejich domech,
 
-[2] vyčleníš si tři města uprostřed své země, kterou ti Yahweh, tvůj *Elohim*, dává do vlastnictví.
+[2] vyčleníš si tři města uprostřed své země, kterou ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, dává do vlastnictví.
 
-[3] Připravíš si cestu a rozdělíš na tři části území své země, kterou ti Yahweh, tvůj *Elohim*, dává do dědictví, aby tam mohl utéci každý, kdo zabil.
+[3] Připravíš si cestu a rozdělíš na tři části území své země, kterou ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, dává do dědictví, aby tam mohl utéci každý, kdo zabil.
 
 [4] Toto je případ toho, kdo zabil a smí tam utéci a zůstat naživu: kdo udeří svého bližního neúmyslně, aniž ho dříve nenáviděl;
 
@@ -14,25 +14,25 @@
 
 [7] Proto ti přikazuji: ‚Vyčleníš si tři města.‘
 
-[8] A jestliže Yahweh, tvůj *Elohim*, rozšíří tvé území, jak přísahal tvým otcům, a dá ti celou zemi, kterou slíbil dát tvým otcům –
+[8] A jestliže ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, rozšíří tvé území, jak přísahal tvým otcům, a dá ti celou zemi, kterou slíbil dát tvým otcům –
 
-[9] budeš-li pečlivě zachovávat celé toto přikázání, které ti dnes přikazuji, milovat Yahweh, svého *Elohim*, a chodit stále po jeho cestách – pak si přidáš ještě tři města k těmto třem,
+[9] budeš-li pečlivě zachovávat celé toto přikázání, které ti dnes přikazuji, milovat ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, a chodit stále po jeho cestách – pak si přidáš ještě tři města k těmto třem,
 
-[10] aby nebyla prolita nevinná krev v tvé zemi, kterou ti Yahweh, tvůj *Elohim*, dává do dědictví, a tak na tobě nebyla krevní vina.
+[10] aby nebyla prolita nevinná krev v tvé zemi, kterou ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, dává do dědictví, a tak na tobě nebyla krevní vina.
 
 [11] Jestliže však někdo nenávidí svého bližního, číhá na něj, povstane proti němu a smrtelně ho udeří, takže zemře, a potom uteče do jednoho z těchto měst –
 
 [12] pak starší jeho města pošlou, vezmou ho odtamtud a vydají ho do ruky krevního mstitele, aby zemřel.
 
-[13] Tvé oko se nad ním neslituje, ale vymýtíš vinu nevinné krve z Israele, aby se ti dobře vedlo.
+[13] Tvé oko se nad ním neslituje, ale vymýtíš vinu nevinné krve z ⟦israel|Jisraele|Izraele⟧, aby se ti dobře vedlo.
 
-[14] Nepřesuneš mezník svého bližního, který stanovili lidé dávných časů v dědictví, jež zdědíš v zemi, kterou ti Yahweh, tvůj *Elohim*, dává do vlastnictví.
+[14] Nepřesuneš mezník svého bližního, který stanovili lidé dávných časů v dědictví, jež zdědíš v zemi, kterou ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, dává do vlastnictví.
 
 [15] Jediný svědek nepovstane proti člověku pro jakoukoli vinu nebo jakýkoli hřích, v jakémkoli hříchu, kterého by se dopustil; jen na svědectví dvou svědků nebo na svědectví tří svědků bude věc potvrzena.
 
 [16] Jestliže proti někomu povstane zlovolný svědek, aby ho obvinil z provinění,
 
-[17] pak oba muži, mezi nimiž je spor, se postaví před Yahweh, před kněze a soudce, kteří budou v oněch dnech;
+[17] pak oba muži, mezi nimiž je spor, se postaví před ⟦yhwh|Jahveho|Hospodina⟧, před kněze a soudce, kteří budou v oněch dnech;
 
 [18] a soudci to pečlivě vyšetří, a je-li ten svědek křivým svědkem, který svědčil křivě proti svému bratru,
 

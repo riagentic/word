@@ -1,11 +1,11 @@
 # Job 22
 
-[1] Then Eliphaz the Temanite answered and said:
+[1] Then ⟦eliphaz|Elifaz|Eliphaz⟧ the ⟦temanite|Temani|Temanite⟧ answered and said:
 
-[2] "Can a man be profitable to *Elohim*,
+[2] "Can a man be profitable to ⟦el|El|God⟧,
 though a wise man is profitable to himself?
 
-[3] Is it any pleasure to Shaddai that you are righteous?
+[3] Is it any pleasure to ⟦shaddai|Shaddai|the Almighty⟧ that you are righteous?
 Is it gain to him that you make your ways blameless?
 
 [4] Is it because of your fear of him that he reproves you
@@ -32,10 +32,10 @@ and sudden terror frightens you;
 [11] darkness, so that you cannot see;
 abundant waters cover you.
 
-[12] Is not Eloah in the heights of heaven?
+[12] Is not ⟦eloah|Eloah|God⟧ in the heights of heaven?
 See the loftiest stars, how high they are!
 
-[13] Yet you say, 'What does *Elohim* know?
+[13] Yet you say, 'What does ⟦el|El|God⟧ know?
 Can he judge through deep darkness?
 
 [14] Thick clouds are a covering for him, so he does not see,
@@ -47,8 +47,8 @@ that wicked men have trodden —
 [16] who were snatched away before their time,
 whose foundation was washed away by a flood?
 
-[17] They said to *Elohim*, 'Depart from us!
-What can Shaddai do to us?'
+[17] They said to ⟦el|El|God⟧, 'Depart from us!
+What can ⟦shaddai|Shaddai|the Almighty⟧ do to us?'
 
 [18] Yet he filled their houses with good things —
 but the counsel of the wicked is far from me.
@@ -62,20 +62,20 @@ and what is left of them the fire consumes.'
 [21] Become acquainted with him now, and be at peace;
 good will come to you thereby.
 
-[22] Receive instruction from his mouth,
+[22] Receive ⟦torah|Torah|instruction⟧ from his mouth,
 and lay up his words in your heart.
 
-[23] If you return to Shaddai, you will be built up;
+[23] If you return to ⟦shaddai|Shaddai|the Almighty⟧, you will be built up;
 if you put away injustice far from your tents,
 
 [24] if you lay gold in the dust,
-and the gold of Ophir among the stones of the brooks,
+and the gold of ⟦ophir|Ofir|Ophir⟧ among the stones of the brooks,
 
-[25] then Shaddai will be your gold,
+[25] then ⟦shaddai|Shaddai|the Almighty⟧ will be your gold,
 and choice silver to you.
 
-[26] Then you will delight yourself in Shaddai
-and lift up your face to Eloah.
+[26] Then you will delight yourself in ⟦shaddai|Shaddai|the Almighty⟧
+and lift up your face to ⟦eloah|Eloah|God⟧.
 
 [27] You will pray to him, and he will hear you;
 you will pay your vows.
@@ -91,6 +91,7 @@ and he will be delivered through the cleanness of your hands."
 
 ## Changes
 
+- **"God" → "El"** (v2, 13, 17) — Hebrew אֵל *El*, not *Elohim*.
 - **"law" → "instruction"** (v22) — *torah*; here personal teaching.
 - **"island of the innocent" → "the guilty"** (v30) — Hebrew *i-naqi*; disputed — MT reads "one who is not innocent" (i.e., guilty), saved by the clean-handed intercessor. KJV translated *i* as "island."
 - **"plenty of silver" → "choice silver"** (v25) — *kesef to'afot*.

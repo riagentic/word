@@ -6,7 +6,7 @@ but a foolish son is a sorrow to his mother.
 [2] Treasures gained by wickedness do not profit,
 but righteousness delivers from death.
 
-[3] Yahweh does not let the soul of the righteous go hungry,
+[3] ⟦yhwh|Yahweh|The LORD⟧ does not let the soul of the righteous go hungry,
 but he thwarts the craving of the wicked.
 
 [4] A slack hand causes poverty,
@@ -63,7 +63,7 @@ the heart of the wicked is of little worth.
 [21] The lips of the righteous feed many,
 but fools die for lack of sense.
 
-[22] The blessing of Yahweh makes rich,
+[22] The blessing of ⟦yhwh|Yahweh|the LORD⟧ makes rich,
 and he adds no sorrow with it.
 
 [23] Doing wickedness is like a joke to a fool,
@@ -78,13 +78,13 @@ but the righteous is established forever.
 [26] Like vinegar to the teeth and smoke to the eyes,
 so is the sluggard to those who send him.
 
-[27] The fear of Yahweh prolongs life,
+[27] The fear of ⟦yhwh|Yahweh|the LORD⟧ prolongs life,
 but the years of the wicked will be cut short.
 
 [28] The hope of the righteous brings joy,
 but the expectation of the wicked will perish.
 
-[29] The way of Yahweh is a stronghold to the blameless,
+[29] The way of ⟦yhwh|Yahweh|the LORD⟧ is a stronghold to the blameless,
 but destruction to evildoers.
 
 [30] The righteous will never be removed,

@@ -1,8 +1,8 @@
 # 1 John 3
 
-[1] See what kind of love the Father has given to us, that we should be called children of *Elohim*; and so we are. The reason why the world does not know us is that it did not know him.
+[1] See what kind of love the Father has given to us, that we should be called children of ⟦elohim|Elohim|God⟧; and so we are. The reason why the world does not know us is that it did not know him.
 
-[2] Beloved, we are *Elohim*'s children now, and what we will be has not yet appeared; but we know that when he appears we shall be like him, because we shall see him as he is.
+[2] Beloved, we are ⟦elohim|Elohim's|God's⟧ children now, and what we will be has not yet appeared; but we know that when he appears we shall be like him, because we shall see him as he is.
 
 [3] And everyone who thus hopes in him purifies himself as he is pure.
 
@@ -14,15 +14,15 @@
 
 [7] Little children, let no one deceive you. Whoever practices righteousness is righteous, as he is righteous.
 
-[8] Whoever makes a practice of sinning is of the devil, for the devil has been sinning from the beginning. The reason the Son of *Elohim* appeared was to destroy the works of the devil.
+[8] Whoever makes a practice of sinning is of the devil, for the devil has been sinning from the beginning. The reason the Son of ⟦elohim|Elohim|God⟧ appeared was to destroy the works of the devil.
 
-[9] No one born of *Elohim* makes a practice of sinning, for *Elohim*'s seed abides in him, and he cannot keep on sinning, because he has been born of *Elohim*.
+[9] No one born of ⟦elohim|Elohim|God⟧ makes a practice of sinning, for ⟦elohim|Elohim's|God's⟧ seed abides in him, and he cannot keep on sinning, because he has been born of ⟦elohim|Elohim|God⟧.
 
-[10] By this it is evident who are the children of *Elohim*, and who are the children of the devil: whoever does not practice righteousness is not of *Elohim*, nor is the one who does not love his brother.
+[10] By this it is evident who are the children of ⟦elohim|Elohim|God⟧, and who are the children of the devil: whoever does not practice righteousness is not of ⟦elohim|Elohim|God⟧, nor is the one who does not love his brother.
 
 [11] For this is the message that you have heard from the beginning, that we should love one another.
 
-[12] We should not be like Cain, who was of the evil one and murdered his brother. And why did he murder him? Because his own deeds were evil and his brother's righteous.
+[12] We should not be like ⟦cain|Qayin|Cain⟧, who was of the evil one and murdered his brother. And why did he murder him? Because his own deeds were evil and his brother's righteous.
 
 [13] Do not be surprised, brothers, that the world hates you.
 
@@ -32,21 +32,21 @@
 
 [16] By this we know love, that he laid down his life for us, and we ought to lay down our lives for the brothers.
 
-[17] But if anyone has the world's goods and sees his brother in need, yet closes his heart against him, how does *Elohim*'s love abide in him?
+[17] But if anyone has the world's goods and sees his brother in need, yet closes his heart against him, how does ⟦elohim|Elohim's|God's⟧ love abide in him?
 
 [18] Little children, let us not love in word or talk but in deed and in truth.
 
 [19] By this we shall know that we are of the truth and reassure our heart before him;
 
-[20] for whenever our heart condemns us, *Elohim* is greater than our heart, and he knows everything.
+[20] for whenever our heart condemns us, ⟦elohim|Elohim|God⟧ is greater than our heart, and he knows everything.
 
-[21] Beloved, if our heart does not condemn us, we have confidence before *Elohim*;
+[21] Beloved, if our heart does not condemn us, we have confidence before ⟦elohim|Elohim|God⟧;
 
 [22] and whatever we ask we receive from him, because we keep his commandments and do what pleases him.
 
-[23] And this is his commandment, that we believe in the name of his Son *Yeshua* the *Mashiach* and love one another, just as he has commanded us.
+[23] And this is his commandment, that we believe in the name of his Son ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧ and love one another, just as he has commanded us.
 
-[24] Whoever keeps his commandments abides in *Elohim*, and *Elohim* in him. And by this we know that he abides in us, by the Spirit whom he has given us.
+[24] Whoever keeps his commandments abides in ⟦elohim|Elohim|God⟧, and ⟦elohim|Elohim|God⟧ in him. And by this we know that he abides in us, by the Spirit whom he has given us.
 
 ## Changes
 

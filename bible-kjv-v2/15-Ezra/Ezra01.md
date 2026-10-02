@@ -1,26 +1,26 @@
 # Ezra 1
 
-[1] In the first year of Cyrus king of Persia, in order that the word of Yahweh by the mouth of Jeremiah might be fulfilled, Yahweh stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and also put it in writing, saying:
+[1] In the first year of ⟦cyrus|Koresh|Cyrus⟧ king of ⟦persia|Paras|Persia⟧, in order that the word of ⟦yhwh|Yahweh|the LORD⟧ by the mouth of ⟦jeremiah|Yirmeyahu|Jeremiah⟧ might be fulfilled, ⟦yhwh|Yahweh|the LORD⟧ stirred up the spirit of ⟦cyrus|Koresh|Cyrus⟧ king of ⟦persia|Paras|Persia⟧, so that he made a proclamation throughout all his kingdom, and also put it in writing, saying:
 
-[2] "Thus says Cyrus king of Persia: Yahweh the *Elohim* of heaven has given me all the kingdoms of the earth; and he has charged me to build him a house at Jerusalem, which is in Judah.
+[2] "Thus says ⟦cyrus|Koresh|Cyrus⟧ king of ⟦persia|Paras|Persia⟧: ⟦yhwh|Yahweh|the LORD⟧ the ⟦elohim|Elohim|God⟧ of heaven has given me all the kingdoms of the earth; and he has charged me to build him a house at ⟦jerusalem|Yerushalayim|Jerusalem⟧, which is in ⟦judah|Yehudah|Judah⟧.
 
-[3] Whoever is among you of all his people, may his *Elohim* be with him. Let him go up to Jerusalem, which is in Judah, and build the house of Yahweh the *Elohim* of Israel — he is the *Elohim* — who is in Jerusalem.
+[3] Whoever is among you of all his people, may his ⟦elohim|Elohim|God⟧ be with him. Let him go up to ⟦jerusalem|Yerushalayim|Jerusalem⟧, which is in ⟦judah|Yehudah|Judah⟧, and build the house of ⟦yhwh|Yahweh|the LORD⟧ the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧ — he is the ⟦elohim|Elohim|God⟧ — who is in ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[4] Whoever remains in any place where he sojourns, let the men of his place assist him with silver, gold, goods, and beasts, besides the freewill offering for the house of *Elohim* that is in Jerusalem."
+[4] Whoever remains in any place where he sojourns, let the men of his place assist him with silver, gold, goods, and beasts, besides the freewill offering for the house of ⟦elohim|Elohim|God⟧ that is in ⟦jerusalem|Yerushalayim|Jerusalem⟧."
 
-[5] Then the heads of the fathers' houses of Judah and Benjamin arose, with the priests and the Levites — everyone whose spirit *Elohim* had stirred — to go up and build the house of Yahweh in Jerusalem.
+[5] Then the heads of the fathers' houses of ⟦judah|Yehudah|Judah⟧ and ⟦benjamin|Binyamin|Benjamin⟧ arose, with the priests and the ⟦levites|Leviyim|Levites⟧ — everyone whose spirit ⟦elohim|Elohim|God⟧ had stirred — to go up and build the house of ⟦yhwh|Yahweh|the LORD⟧ in ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
 [6] All those around them strengthened their hands with vessels of silver, with gold, goods, beasts, and precious things, besides all that was willingly offered.
 
-[7] King Cyrus also brought out the vessels of the house of Yahweh that Nebuchadnezzar had carried away from Jerusalem and placed in the house of his gods.
+[7] King ⟦cyrus|Koresh|Cyrus⟧ also brought out the vessels of the house of ⟦yhwh|Yahweh|the LORD⟧ that ⟦nebuchadnezzar|Nevuchadnetzar|Nebuchadnezzar⟧ had carried away from ⟦jerusalem|Yerushalayim|Jerusalem⟧ and placed in the house of his gods.
 
-[8] Cyrus king of Persia brought them out by the hand of Mithredath the treasurer, and counted them out to Sheshbazzar the leader of Judah.
+[8] ⟦cyrus|Koresh|Cyrus⟧ king of ⟦persia|Paras|Persia⟧ brought them out by the hand of ⟦mithredath|Mitredat|Mithredath⟧ the treasurer, and counted them out to ⟦sheshbazzar|Sheshbatzar|Sheshbazzar⟧ the leader of ⟦judah|Yehudah|Judah⟧.
 
 [9] This is the number of them: thirty gold dishes, a thousand silver dishes, twenty-nine knives,
 
 [10] thirty gold basins, four hundred ten silver basins of another kind, and a thousand other vessels.
 
-[11] All the vessels of gold and silver were five thousand four hundred. All these Sheshbazzar brought up with those of the captivity who were brought up from Babylon to Jerusalem.
+[11] All the vessels of gold and silver were five thousand four hundred. All these ⟦sheshbazzar|Sheshbatzar|Sheshbazzar⟧ brought up with those of the captivity who were brought up from ⟦babylon|Bavel|Babylon⟧ to ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
 ## Changes
 

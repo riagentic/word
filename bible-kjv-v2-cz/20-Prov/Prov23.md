@@ -42,7 +42,7 @@ a své ucho ke slovům poznání.
 udeříš-li ho holí, nezemře.
 
 [14] Udeříš-li ho holí,
-zachráníš jeho duši od Sheol.
+zachráníš jeho duši od ⟦sheol|Šeolu|podsvětí⟧.
 
 [15] Můj synu, bude-li tvé srdce moudré,
 bude se radovat i mé srdce.
@@ -51,7 +51,7 @@ bude se radovat i mé srdce.
 když tvé rty budou mluvit, co je správné.
 
 [17] Ať tvé srdce nezávidí hříšníkům,
-ale setrvávej v bázni Yahweh po celý den.
+ale setrvávej v bázni ⟦yhwh|Jahveho|Hospodina⟧ po celý den.
 
 [18] Jistě je budoucnost
 a tvá naděje nebude zmařena.

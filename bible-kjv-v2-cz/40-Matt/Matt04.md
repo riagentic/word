@@ -1,70 +1,70 @@
 # Matouš 4
 
-[1] Tehdy byl *Yeshua* odveden Duchem na pustinu, aby byl pokoušen ďáblem.
+[1] Tehdy byl ⟦yeshua|Ješua|Ježíš⟧ odveden Duchem na pustinu, aby byl pokoušen ďáblem.
 
 [2] A když se postil čtyřicet dní a čtyřicet nocí, dostal hlad.
 
-[3] Tu přistoupil pokušitel a řekl mu: „Jsi-li Syn *Elohim*, řekni, ať se tyto kameny stanou chleby.“
+[3] Tu přistoupil pokušitel a řekl mu: „Jsi-li Syn ⟦elohim|Elohim|Boží⟧, řekni, ať se tyto kameny stanou chleby.“
 
 [4] On však odpověděl: „Je napsáno:
 
 ‚Nejen chlebem bude člověk živ,
-ale každým slovem, které vychází z úst *Elohim*.‘“
+ale každým slovem, které vychází z úst ⟦elohim|Elohim|Božích⟧.‘“
 
 [5] Tehdy ho ďábel vzal do svatého města, postavil ho na vrchol chrámu
 
-[6] a řekl mu: „Jsi-li Syn *Elohim*, vrhni se dolů, neboť je napsáno:
+[6] a řekl mu: „Jsi-li Syn ⟦elohim|Elohim|Boží⟧, vrhni se dolů, neboť je napsáno:
 
 ‚Svým andělům o tobě dá příkaz,‘
 a
 ‚na rukou tě ponesou,
 abys nenarazil nohou o kámen.‘“
 
-[7] *Yeshua* mu řekl: „Také je napsáno: ‚Nebudeš pokoušet Pána, svého *Elohim*.‘“
+[7] ⟦yeshua|Ješua|Ježíš⟧ mu řekl: „Také je napsáno: ‚Nebudeš pokoušet ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧.‘“
 
 [8] Znovu ho ďábel vzal na velmi vysokou horu a ukázal mu všechna království světa a jejich slávu.
 
 [9] A řekl mu: „To všechno ti dám, jestliže padneš a pokloníš se mi.“
 
-[10] Tehdy mu *Yeshua* řekl: „Odejdi, Satane! Neboť je napsáno:
+[10] Tehdy mu ⟦yeshua|Ješua|Ježíš⟧ řekl: „Odejdi, Satane! Neboť je napsáno:
 
-‚Pánu, svému *Elohim*, se budeš klanět
+‚⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧, se budeš klanět
 a jemu jedinému budeš sloužit.‘“
 
 [11] Tehdy ho ďábel opustil, a hle, přistoupili andělé a sloužili mu.
 
-[12] Když uslyšel, že John byl zatčen, odešel do Galilee.
+[12] Když uslyšel, že ⟦john|Jochanan|Jan⟧ byl zatčen, odešel do ⟦galilee|Galilu|Galileje⟧.
 
-[13] Opustil Nazareth a přišel bydlet do Capernaumu – u moře, v území Zebuluna a Naphtaliho,
+[13] Opustil ⟦nazareth|Nacrat|Nazaret⟧ a přišel bydlet do ⟦capernaum|Kfar Nachumu|Kafarnaum⟧ – u moře, v území ⟦zebulun|Zevuluna|Zabulóna⟧ a ⟦naphtali|Naftaliho|Neftalího⟧,
 
-[14] aby se naplnilo, co bylo řečeno skrze proroka Isaiaha:
+[14] aby se naplnilo, co bylo řečeno skrze proroka ⟦isaiah|Ješajahua|Izajáše⟧:
 
-[15] „Země Zebulun a země Naphtali,
-cesta k moři, za Jordanem,
-Galilee pohanů –
+[15] „Země ⟦zebulun|Zevulun|Zabulón⟧ a země ⟦naphtali|Naftali|Neftalí⟧,
+cesta k moři, za ⟦jordan|Jardenem|Jordánem⟧,
+⟦galilee|Galil|Galilea⟧ pohanů –
 
 [16] lid sedící ve tmě
 uviděl veliké světlo,
 a těm, kdo sedí v krajině a stínu smrti,
 vzešlo světlo.“
 
-[17] Od té doby začal *Yeshua* kázat: „**Čiňte pokání, neboť se přiblížilo království nebes.**“
+[17] Od té doby začal ⟦yeshua|Ješua|Ježíš⟧ kázat: „**Čiňte pokání, neboť se přiblížilo království nebes.**“
 
-[18] Když šel podél Galilejského moře, uviděl dva bratry, Simona (zvaného *Kefa*) a Andrewa, jeho bratra, jak vrhají síť do moře; byli totiž rybáři.
+[18] Když šel podél Galilejského moře, uviděl dva bratry, Šimona (zvaného ⟦peter|Kefa|Petr⟧) a ⟦andrew|Andrease|Ondřeje⟧, jeho bratra, jak vrhají síť do moře; byli totiž rybáři.
 
 [19] Řekl jim: „Pojďte za mnou a učiním z vás rybáře lidí.“
 
 [20] Oni hned opustili sítě a šli za ním.
 
-[21] Když šel odtud dál, uviděl jiné dva bratry, Jacoba, syna Zebedeova, a Johna, jeho bratra, jak v lodi se svým otcem Zebedeem spravují sítě; a povolal je.
+[21] Když šel odtud dál, uviděl jiné dva bratry, ⟦james|Jaakova|Jakuba⟧, syna ⟦zebedee|Zebedaiova|Zebedeova⟧, a ⟦john|Jochanana|Jana⟧, jeho bratra, jak v lodi se svým otcem ⟦zebedee|Zebedaiem|Zebedeem⟧ spravují sítě; a povolal je.
 
 [22] Oni hned opustili loď i svého otce a šli za ním.
 
-[23] Procházel celou Galilee, učil v jejich synagogách, hlásal evangelium království a uzdravoval každou nemoc a každou slabost mezi lidem.
+[23] Procházel ⟦galilee|celý Galil|celou Galileji⟧, učil v jejich synagogách, hlásal evangelium království a uzdravoval každou nemoc a každou slabost mezi lidem.
 
-[24] Pověst o něm se rozšířila po celé Syrii a přinášeli k němu všechny nemocné, stižené rozličnými nemocemi a bolestmi, posedlé démony, epileptiky a ochrnuté, a on je uzdravoval.
+[24] Pověst o něm se rozšířila po celé ⟦syria|Syrii|Sýrii⟧ a přinášeli k němu všechny nemocné, stižené rozličnými nemocemi a bolestmi, posedlé démony, epileptiky a ochrnuté, a on je uzdravoval.
 
-[25] A šly za ním velké zástupy z Galilee a z Decapolis, z Jerusalemu a Judeje a ze Zajordání.
+[25] A šly za ním velké zástupy z ⟦galilee|Galilu|Galileje⟧ a z ⟦decapolis|Dekapole|Desetiměstí⟧, z ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ a ⟦judea|Jehudy|Judska⟧ a ze Zajordání.
 
 ## Změny
 

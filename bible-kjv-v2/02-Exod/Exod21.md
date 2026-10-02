@@ -2,7 +2,7 @@
 
 [1] "Now these are the ordinances that you shall set before them.
 
-[2] When you buy a Hebrew slave, he shall serve six years; and in the seventh he shall go out free, for nothing.
+[2] When you buy ⟦hebrew|an Ivri|a Hebrew⟧ slave, he shall serve six years; and in the seventh he shall go out free, for nothing.
 
 [3] If he came in by himself, he shall go out by himself; if he was married, then his wife shall go out with him.
 
@@ -10,7 +10,7 @@
 
 [5] But if the slave plainly says, 'I love my master, my wife, and my children; I will not go out free,'
 
-[6] then his master shall bring him to the *Elohim*; he shall bring him to the door or to the doorpost, and his master shall pierce his ear through with an awl, and he shall serve him for life.
+[6] then his master shall bring him to ⟦elohim|the Elohim|God⟧; he shall bring him to the door or to the doorpost, and his master shall pierce his ear through with an awl, and he shall serve him for life.
 
 [7] If a man sells his daughter as a female slave, she shall not go out as the male slaves do.
 
@@ -24,7 +24,7 @@
 
 [12] "Whoever strikes a man so that he dies shall surely be put to death.
 
-[13] But if he did not lie in wait, but *Elohim* let him fall into his hand, then I will appoint for you a place to which he may flee.
+[13] But if he did not lie in wait, but ⟦elohim|Elohim|God⟧ let him fall into his hand, then I will appoint for you a place to which he may flee.
 
 [14] But if a man schemes against his neighbor to kill him by treachery, you shall take him even from my altar, that he may die.
 

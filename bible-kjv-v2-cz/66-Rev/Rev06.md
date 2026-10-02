@@ -10,13 +10,13 @@
 
 [5] Když otevřel třetí pečeť, slyšel jsem třetí živou bytost, jak říká: „Pojď!“ Pohleděl jsem, a hle, černý kůň! Jeho jezdec měl v ruce váhy.
 
-[6] A uslyšel jsem cosi jako hlas uprostřed čtyř živých bytostí, jak říká: „Choinix pšenice za denár a tři choinixy ječmene za denár, a olivovému oleji a vínu neškoď!“
+[6] A uslyšel jsem cosi jako hlas uprostřed čtyř živých bytostí, jak říká: „⟦choinix|Choinix|Měřice⟧ pšenice za denár a tři ⟦choinix|choinixy|měřice⟧ ječmene za denár, a olivovému oleji a vínu neškoď!“
 
 [7] Když otevřel čtvrtou pečeť, slyšel jsem hlas čtvrté živé bytosti, jak říká: „Pojď!“
 
-[8] Pohleděl jsem, a hle, sinalý kůň! Jeho jezdec se jmenoval Smrt a Hades šel za ním. A byla jim dána moc nad čtvrtinou země, aby zabíjeli mečem, hladem a morem a divokou zvěří země.
+[8] Pohleděl jsem, a hle, sinalý kůň! Jeho jezdec se jmenoval Smrt a ⟦hades|Hádes šel|podsvětí šlo⟧ za ním. A byla jim dána moc nad čtvrtinou země, aby zabíjeli mečem, hladem a morem a divokou zvěří země.
 
-[9] Když otevřel pátou pečeť, viděl jsem pod oltářem duše těch, kdo byli zabiti pro slovo *Elohim* a pro svědectví, které vydali.
+[9] Když otevřel pátou pečeť, viděl jsem pod oltářem duše těch, kdo byli zabiti pro slovo ⟦elohim|Elohim|Boží⟧ a pro svědectví, které vydali.
 
 [10] Volali silným hlasem: „Svrchovaný Pane, svatý a pravý, jak dlouho ještě, než budeš soudit a pomstíš naši krev na těch, kdo bydlí na zemi?“
 

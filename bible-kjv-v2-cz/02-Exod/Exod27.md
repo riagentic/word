@@ -38,9 +38,9 @@
 
 [19] Všechno náčiní příbytku ke každé službě i všechny jeho kolíky a všechny kolíky nádvoří budou z bronzu.
 
-[20] Přikážeš synům Israele, ať ti přinášejí čistý olivový olej z vytlučených oliv pro světlo, aby lampa hořela ustavičně.
+[20] Přikážeš synům ⟦israel|Jisraele|Izraele⟧, ať ti přinášejí čistý olivový olej z vytlučených oliv pro světlo, aby lampa hořela ustavičně.
 
-[21] Ve stanu setkávání, před oponou, která je před Svědectvím, se o ni budou starat Aaron a jeho synové od večera do rána před Yahweh; to bude věčné ustanovení po všechna jejich pokolení za syny Israele.“
+[21] Ve stanu setkávání, před oponou, která je před Svědectvím, se o ni budou starat ⟦aaron|Aharon|Áron⟧ a jeho synové od večera do rána před ⟦yhwh|Jahvem|Hospodinem⟧; to bude věčné ustanovení po všechna jejich pokolení za syny ⟦israel|Jisraele|Izraele⟧.“
 
 ## Změny
 

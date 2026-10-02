@@ -31,16 +31,16 @@ dcera povstává proti své matce,
 snacha proti své tchyni;
 nepřáteli člověka jsou lidé jeho vlastního domu.
 
-[7] Ale já budu vyhlížet k Yahweh;
-budu čekat na *Elohim* své spásy;
-můj *Elohim* mě uslyší.
+[7] Ale já budu vyhlížet k ⟦yhwh|Jahvovi|Hospodinu⟧;
+budu čekat na ⟦elohim|Elohim|Boha⟧ své spásy;
+můj ⟦elohim|Elohim|Bůh⟧ mě uslyší.
 
 [8] Neraduj se nade mnou, má nepřítelkyně;
 když padnu, zase vstanu;
 když sedím ve tmě,
-Yahweh mi bude světlem.
+⟦yhwh|Jahve|Hospodin⟧ mi bude světlem.
 
-[9] Ponesu rozhořčení Yahweh,
+[9] Ponesu rozhořčení ⟦yhwh|Jahveho|Hospodina⟧,
 protože jsem proti němu zhřešil,
 dokud nepovede mou při
 a nezjedná mi právo.
@@ -49,7 +49,7 @@ budu hledět na jeho spravedlnost.
 
 [10] Tehdy to má nepřítelkyně uvidí
 a hanba přikryje tu, která mi říkala:
-„Kde je Yahweh, tvůj *Elohim*?“
+„Kde je ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧?“
 Mé oči na ni pohlédnou;
 nyní bude pošlapána
 jako bláto na ulicích.
@@ -58,8 +58,8 @@ jako bláto na ulicích.
 Onoho dne se hranice daleko rozšíří.
 
 [12] Onoho dne k tobě přijdou
-z Assyrie a z egyptských měst,
-od Egypta až k Řece,
+z ⟦assyria|Aššuru|Asýrie⟧ a ⟦egypt|z měst Micrajim|z egyptských měst⟧,
+od ⟦egypt|Micrajim|Egypta⟧ až k Řece,
 od moře k moři a od hory k hoře.
 
 [13] Ale země bude zpustošena
@@ -70,10 +70,10 @@ pro plod jejich skutků.
 stádo svého dědictví,
 které přebývá osaměle v lese
 uprostřed úrodné země;
-ať se pasou v Bashanu a v Gileadu
+ať se pasou v ⟦bashan|Bašanu|Bášanu⟧ a v ⟦gilead|Giladu|Gileádu⟧
 jako za dávných dnů.
 
-[15] Jako za dnů, kdy jsi vyšel z egyptské země,
+[15] Jako za dnů, kdy jsi vyšel ⟦egypt|ze země Micrajim|z egyptské země⟧,
 jim ukážu podivuhodné věci.
 
 [16] Národy uvidí a budou zahanbeny
@@ -84,30 +84,30 @@ jejich uši ohluchnou;
 [17] budou lízat prach jako had,
 jako plazi země;
 s třesením vylezou ze svých pevností;
-v hrůze se obrátí k Yahweh, našemu *Elohim*,
+v hrůze se obrátí k ⟦yhwh|Jahvovi|Hospodinu⟧, našemu ⟦elohim|Elohim|Bohu⟧,
 a budou se bát tebe.
 
-[18] **Kdo je *Elohim* jako ty,
+[18] **Kdo je ⟦el|El|Bůh⟧ jako ty,
 který odpouští vinu
 a přechází přestoupení
 pozůstatku svého dědictví?
 Nedrží svůj hněv navěky,
-protože má zalíbení ve věrné lásce.**
+protože má zalíbení ⟦steadfast-love|v chesedu|v milosrdenství⟧.**
 
 [19] Znovu se nad námi slituje;
 pošlape naše viny.
 Vrhneš všechny naše hříchy
 do hlubin moře.
 
-[20] Prokážeš věrnost Jacobovi
-a věrnou lásku Abrahamovi,
+[20] Prokážeš věrnost ⟦jacob|Jaakovovi|Jákobovi⟧
+a ⟦steadfast-love|chesed|milosrdenství⟧ ⟦abraham|Avrahamovi|Abrahamovi⟧,
 jak jsi přísahal našim otcům
 ode dnů dávnověku.
 
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – tetragram יְהוָה převeden přímo.
-- **"God" → „*Elohim*“** (v7, 10, 17) – hebrejsky אֱלֹהִים *Elohim*; „*Elohim* své spásy“, „Kde je Yahweh, tvůj *Elohim*?“, „v hrůze se obrátí k Yahweh, našemu *Elohim*“.
+- **"God" → „*Elohim*“ / „El“** (v7, 10, 17; v18) – hebrejsky אֱלֹהִים *Elohim*, ve v18 אֵל *El* („Kdo je El jako ty“); „*Elohim* své spásy“, „Kde je Yahweh, tvůj *Elohim*?“, „v hrůze se obrátí k Yahweh, našemu *Elohim*“.
 
 ### Poznámky
 - **v18** – ***Mi-cha-El*** – slovní hříčka na prorokovo vlastní jméno („Kdo je jako *El*?“) na závěr knihy.

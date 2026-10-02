@@ -1,16 +1,16 @@
 # Koloským 3
 
-[1] Jestliže jste tedy byli vzkříšeni s *Mashiachem*, hledejte to, co je nahoře, kde je *Mashiach*, sedící po pravici *Elohim*.
+[1] Jestliže jste tedy byli vzkříšeni s ⟦mashiach|Mašiachem|Kristem⟧, hledejte to, co je nahoře, kde je ⟦mashiach|Mašiach|Kristus⟧, sedící po pravici ⟦elohim|Elohim|Boží⟧.
 
 [2] Myslete na to, co je nahoře, ne na to, co je na zemi.
 
-[3] Zemřeli jste totiž a váš život je skryt s *Mashiachem* v *Elohim*.
+[3] Zemřeli jste totiž a váš život je skryt s ⟦mashiach|Mašiachem|Kristem⟧ v ⟦elohim|Elohim|Bohu⟧.
 
-[4] Až se ukáže *Mashiach*, který je vaším životem, tehdy se i vy ukážete s ním ve slávě.
+[4] Až se ukáže ⟦mashiach|Mašiach|Kristus⟧, který je vaším životem, tehdy se i vy ukážete s ním ve slávě.
 
 [5] Usmrťte tedy to, co je ve vás pozemské: sexuální nemravnost, nečistotu, vášeň, zlou žádost a chamtivost, která je modlářstvím.
 
-[6] Kvůli tomu přichází hněv *Elohim*.
+[6] Kvůli tomu přichází hněv ⟦elohim|Elohim|Boží⟧.
 
 [7] V tom jste kdysi chodili i vy, když jste v tom žili.
 
@@ -20,19 +20,19 @@
 
 [10] a oblékli nového, který se obnovuje k poznání podle obrazu svého Stvořitele.
 
-[11] Tu není Řek a Žid, obřezaný a neobřezaný, barbar, Scytha, otrok, svobodný; ale *Mashiach* je všechno a ve všech.
+[11] Tu není ⟦greek|Jevani|Řek⟧ a ⟦jew|Jehudi|Žid⟧, obřezaný a neobřezaný, barbar, ⟦scythian|Skýtha|Skýta⟧, otrok, svobodný; ale ⟦mashiach|Mašiach|Kristus⟧ je všechno a ve všech.
 
-[12] Oblečte se tedy jako vyvolení *Elohim*, svatí a milovaní, v soucitné srdce, laskavost, pokoru, mírnost a trpělivost,
+[12] Oblečte se tedy jako vyvolení ⟦elohim|Elohim|Boží⟧, svatí a milovaní, v soucitné srdce, laskavost, pokoru, mírnost a trpělivost,
 
 [13] snášejte jeden druhého, a má-li někdo proti druhému stížnost, odpouštějte si navzájem; jako vám odpustil Pán, tak i vy musíte odpouštět.
 
 [14] A nad to všechno oblečte **lásku, která všechno spojuje v dokonalé souznění**.
 
-[15] A ve vašich srdcích ať vládne pokoj *Mashiacha*, k němuž jste byli povoláni v jednom těle. A buďte vděční.
+[15] A ve vašich srdcích ať vládne pokoj ⟦mashiach|Mašiacha|Krista⟧, k němuž jste byli povoláni v jednom těle. A buďte vděční.
 
-[16] Slovo *Mashiacha* ať ve vás bohatě přebývá; ve vší moudrosti se navzájem vyučujte a napomínejte, zpívejte žalmy, hymny a duchovní písně a s vděčností ve svých srdcích zpívejte *Elohim*.
+[16] Slovo ⟦mashiach|Mašiacha|Krista⟧ ať ve vás bohatě přebývá; ve vší moudrosti se navzájem vyučujte a napomínejte, zpívejte žalmy, hymny a duchovní písně a s vděčností ve svých srdcích zpívejte ⟦elohim|Elohim|Bohu⟧.
 
-[17] **A cokoli činíte slovem nebo skutkem, všechno čiňte ve jménu Pána *Yeshuy* a skrze něho děkujte *Elohim* Otci.**
+[17] **A cokoli činíte slovem nebo skutkem, všechno čiňte ve jménu Pána ⟦yeshua|Ješuy|Ježíše⟧ a skrze něho děkujte ⟦elohim|Elohim|Bohu⟧ Otci.**
 
 [18] Ženy, podřizujte se svým mužům, jak se sluší v Pánu.
 
@@ -46,7 +46,7 @@
 
 [23] Cokoli děláte, pracujte ze srdce, jako pro Pána, a ne pro lidi,
 
-[24] vědouce, že od Pána dostanete za odměnu dědictví. Sloužíte Pánu *Mashiachovi*.
+[24] vědouce, že od Pána dostanete za odměnu dědictví. Sloužíte Pánu ⟦mashiach|Mašiachovi|Kristu⟧.
 
 [25] Kdo totiž páchá křivdu, dostane odplatu za křivdu, kterou spáchal, a není tu stranictví.
 

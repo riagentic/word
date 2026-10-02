@@ -1,22 +1,22 @@
 # Římanům 11
 
-[1] Ptám se tedy: Zavrhl snad *Elohim* svůj lid? Naprosto ne! Vždyť i já jsem Israelita, potomek Abrahama, z kmene Benjamin.
+[1] Ptám se tedy: Zavrhl snad ⟦elohim|Elohim|Bůh⟧ svůj lid? Naprosto ne! Vždyť i já jsem ⟦israelite|Jisraeli|Izraelec⟧, potomek ⟦abraham|Avrahama|Abrahama⟧, z kmene ⟦benjamin|Binjamin|Benjamín⟧.
 
-[2] *Elohim* nezavrhl svůj lid, který předem poznal. Nevíte snad, co říká Písmo o Elijahovi, jak se u *Elohim* dovolává proti Israeli?
+[2] ⟦elohim|Elohim|Bůh⟧ nezavrhl svůj lid, který předem poznal. Nevíte snad, co říká Písmo o ⟦elijah|Elijahuovi|Eliášovi⟧, jak se u ⟦elohim|Elohim|Boha⟧ dovolává proti ⟦israel|Jisraeli|Izraeli⟧?
 
 [3] „**Pane, zabili tvé proroky, zbořili tvé oltáře, zůstal jsem já sám a ukládají mi o život.**“
 
-[4] Ale co mu *Elohim* odpovídá? „**Zachoval jsem si sedm tisíc mužů, kteří nesklonili koleno před Baalem.**“
+[4] Ale co mu ⟦elohim|Elohim|Bůh⟧ odpovídá? „**Zachoval jsem si sedm tisíc mužů, kteří nesklonili koleno před Baalem.**“
 
 [5] Tak i v nynějším čase je ostatek, vyvolený z milosti.
 
 [6] Je-li však z milosti, pak už ne na základě skutků; jinak by milost už nebyla milostí.
 
-[7] Co tedy? Israel nedosáhl toho, co hledal. Vyvolení toho dosáhli, ale ostatní byli zatvrzeni,
+[7] Co tedy? ⟦israel|Jisrael|Izrael⟧ nedosáhl toho, co hledal. Vyvolení toho dosáhli, ale ostatní byli zatvrzeni,
 
 [8] jak je psáno:
 
-„***Elohim* jim dal ducha otupělosti,
+„**⟦elohim|Elohim|Bůh⟧ jim dal ducha otupělosti,
 oči, které by neviděly,
 a uši, které by neslyšely,
 až do dnešního dne.**“
@@ -28,13 +28,13 @@ kamenem úrazu a odplatou pro ně;
 [10] ať se jejich oči zatemní, aby neviděli,
 a jejich hřbety navždy ohni.**“
 
-[11] Ptám se tedy: Klopýtli snad proto, aby padli? Naprosto ne! Naopak, skrze jejich přestoupení přišlo spasení k pohanům, aby to Israel vyprovokovalo k žárlivosti.
+[11] Ptám se tedy: Klopýtli snad proto, aby padli? Naprosto ne! Naopak, skrze jejich přestoupení přišlo spasení k pohanům, aby to ⟦israel|Jisrael|Izrael⟧ vyprovokovalo k žárlivosti.
 
 [12] Jestliže tedy jejich přestoupení znamená bohatství pro svět a jejich selhání bohatství pro pohany, oč víc bude znamenat jejich plné začlenění!
 
 [13] Mluvím nyní k vám, pohanům. Protože jsem tedy apoštolem pohanů, vážím si své služby,
 
-[14] abych nějak vyprovokoval k žárlivosti své soukmenovce Židy a tak některé z nich zachránil.
+[14] abych nějak vyprovokoval k žárlivosti své soukmenovce ⟦jews|Jehudim|Židy⟧ a tak některé z nich zachránil.
 
 [15] Jestliže totiž jejich zavržení znamená smíření světa, co jiného bude znamenat jejich přijetí než život z mrtvých?
 
@@ -48,37 +48,37 @@ a jejich hřbety navždy ohni.**“
 
 [20] To je pravda. Byly vylomeny kvůli své nevěře, ale ty stojíš pevně vírou. Nepyšni se tedy, ale boj se.
 
-[21] Jestliže totiž *Elohim* neušetřil přirozené větve, neušetří ani tebe.
+[21] Jestliže totiž ⟦elohim|Elohim|Bůh⟧ neušetřil přirozené větve, neušetří ani tebe.
 
-[22] Pohleď tedy na laskavost i přísnost *Elohim*: přísnost vůči těm, kdo padli, ale laskavost *Elohim* vůči tobě, pokud zůstaneš v jeho laskavosti. Jinak budeš i ty odťat.
+[22] Pohleď tedy na laskavost i přísnost ⟦elohim|Elohim|Boží⟧: přísnost vůči těm, kdo padli, ale laskavost ⟦elohim|Elohim|Boží⟧ vůči tobě, pokud zůstaneš v jeho laskavosti. Jinak budeš i ty odťat.
 
-[23] A i oni, nezůstanou-li v nevěře, budou naroubováni, neboť *Elohim* má moc je znovu naroubovat.
+[23] A i oni, nezůstanou-li v nevěře, budou naroubováni, neboť ⟦elohim|Elohim|Bůh⟧ má moc je znovu naroubovat.
 
 [24] Jestliže jsi totiž ty byl odťat z olivy, která je od přírody planá, a proti přírodě naroubován do šlechtěné olivy, oč spíše budou tito, přirozené větve, naroubováni zpět do své vlastní olivy.
 
-[25] Abyste nebyli moudří sami v sobě, nechci, bratři, abyste nevěděli o tomto tajemství: na Israel přišlo částečné zatvrzení, dokud nevejde plnost pohanů.
+[25] Abyste nebyli moudří sami v sobě, nechci, bratři, abyste nevěděli o tomto tajemství: na ⟦israel|Jisrael|Izrael⟧ přišlo částečné zatvrzení, dokud nevejde plnost pohanů.
 
-[26] A tak **celý Israel bude spasen**, jak je psáno:
+[26] A tak **celý ⟦israel|Jisrael|Izrael⟧ bude spasen**, jak je psáno:
 
-„**Ze Zionu přijde Vysvoboditel,
-odvrátí bezbožnost od Jacoba**;
+„**⟦zion|Z Cijonu|Ze Siónu⟧ přijde Vysvoboditel,
+odvrátí bezbožnost od ⟦jacob|Jaakova|Jákoba⟧**;
 [27] a toto bude má smlouva s nimi,
 až sejmu jejich hříchy.“
 
 [28] Pokud jde o evangelium, jsou nepřáteli kvůli vám. Pokud jde však o vyvolení, jsou milovanými kvůli otcům.
 
-[29] Neboť **dary a povolání *Elohim* jsou neodvolatelné**.
+[29] Neboť **dary a povolání ⟦elohim|Elohim|Boží⟧ jsou neodvolatelné**.
 
-[30] Jako jste totiž vy kdysi byli neposlušní vůči *Elohim*, ale nyní jste došli milosrdenství kvůli jejich neposlušnosti,
+[30] Jako jste totiž vy kdysi byli neposlušní vůči ⟦elohim|Elohim|Bohu⟧, ale nyní jste došli milosrdenství kvůli jejich neposlušnosti,
 
 [31] tak i oni nyní byli neposlušní, aby skrze milosrdenství prokázané vám nyní i oni došli milosrdenství.
 
-[32] *Elohim* totiž všechny uzavřel do neposlušnosti, aby se nade všemi smiloval.
+[32] ⟦elohim|Elohim|Bůh⟧ totiž všechny uzavřel do neposlušnosti, aby se nade všemi smiloval.
 
-[33] Ó hlubino bohatství, moudrosti a poznání *Elohim*!
+[33] Ó hlubino bohatství, moudrosti a poznání ⟦elohim|Elohim|Božího⟧!
 Jak nevyzpytatelné jsou jeho soudy
 a jak nevystopovatelné jeho cesty!
-[34] „**Kdo totiž poznal mysl Pána
+[34] „**Kdo totiž poznal mysl ⟦yhwh|Jahveho|Hospodinovu⟧
 nebo kdo byl jeho rádcem?**“
 [35] „**Nebo kdo mu dal dar,
 aby mu to muselo být splaceno?**“

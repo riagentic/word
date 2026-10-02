@@ -1,8 +1,8 @@
 # Jozue 20
 
-[1] Yahweh promluvil k Joshuovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦joshua|Jehošuovi|Jozuovi⟧:
 
-[2] „Mluv k synům Israele a řekni: ‚Určete si útočištná města, o nichž jsem k vám mluvil skrze Mosese,
+[2] „Mluv k synům ⟦israel|Jisraele|Izraele⟧ a řekni: ‚Určete si útočištná města, o nichž jsem k vám mluvil skrze ⟦moses|Moše|Mojžíše⟧,
 
 [3] aby tam mohl utéct zabiják, který by zabil někoho neúmyslně a nevědomky. Budou vám útočištěm před mstitelem krve.
 
@@ -12,11 +12,11 @@
 
 [6] Bude bydlet v tom městě, dokud nestane před shromážděním k soudu, a až do smrti velekněze, který bude v úřadu v oněch dnech. Potom se zabiják smí vrátit do svého města a do svého domu, do města, odkud utekl.‘“
 
-[7] Vyčlenili tedy Kedesh v Galilee v pahorkatině Naphtali, Shechem v pahorkatině Ephraim a Kiriath-arba (to je Hebron) v pahorkatině Judah.
+[7] Vyčlenili tedy Kedeš v ⟦galilee|Galilu|Galileji⟧ v pahorkatině ⟦naphtali|Naftali|Neftalí⟧, ⟦shechem|Šechem|Šekem⟧ v pahorkatině Efrajim a ⟦kiriath-arba|Kirjat Arbu|Kirjat-arbu⟧ (to je ⟦hebron|Chevron|Chebrón⟧) v pahorkatině ⟦judah|Jehuda|Juda⟧.
 
-[8] Za Jordanem, východně od Jericha, určili Bezer na poušti na náhorní rovině z kmene Reuben, Ramoth v Gileadu z kmene Gad a Golan v Bashanu z kmene Manasseh.
+[8] Za ⟦jordan|Jardenem|Jordánem⟧, východně od Jericha, určili ⟦bezer|Becer|Beser⟧ na poušti na náhorní rovině z kmene ⟦reuben|Reuven|Rúben⟧, ⟦ramoth|Ramot|Rámot⟧ v ⟦gilead|Giladu|Gileádu⟧ z kmene ⟦gad|Gad|Gád⟧ a ⟦golan|Golan|Gólan⟧ v ⟦bashan|Bašanu|Bášanu⟧ z kmene ⟦manasseh|Menaše|Manases⟧.
 
-[9] To byla města určená pro všechny syny Israele i pro cizince, který mezi nimi pobývá, aby tam mohl utéct každý, kdo by někoho neúmyslně zabil, a nezemřel rukou mstitele krve, dokud nestane před shromážděním.
+[9] To byla města určená pro všechny syny ⟦israel|Jisraele|Izraele⟧ i pro cizince, který mezi nimi pobývá, aby tam mohl utéct každý, kdo by někoho neúmyslně zabil, a nezemřel rukou mstitele krve, dokud nestane před shromážděním.
 
 ## Změny
 

@@ -2,7 +2,7 @@
 
 [1] "In the seventh month, on the first day of the month, you shall have a holy convocation; you shall do no laborious work. It shall be a day of trumpet-blasts for you.
 
-[2] You shall present a burnt offering, a pleasing aroma to Yahweh: one young bull, one ram, and seven year-old lambs without blemish;
+[2] You shall present a burnt offering, a pleasing aroma to ⟦yhwh|Yahweh|the LORD⟧: one young bull, one ram, and seven year-old lambs without blemish;
 
 [3] and their grain offering of fine flour mixed with oil: three-tenths of an ephah for the bull, two-tenths of an ephah for the ram,
 
@@ -10,11 +10,11 @@
 
 [5] and one male goat for a sin offering, to make atonement for you —
 
-[6] besides the burnt offering of the new moon and its grain offering, and the regular burnt offering and its grain offering, with their drink offerings, according to their ordinance, for a pleasing aroma, an offering made by fire to Yahweh.
+[6] besides the burnt offering of the new moon and its grain offering, and the regular burnt offering and its grain offering, with their drink offerings, according to their ordinance, for a pleasing aroma, an offering made by fire to ⟦yhwh|Yahweh|the LORD⟧.
 
 [7] On the tenth day of this seventh month you shall have a holy convocation, and you shall afflict yourselves; you shall do no work.
 
-[8] You shall present a burnt offering to Yahweh, a pleasing aroma: one young bull, one ram, and seven year-old lambs — they shall be without blemish for you —
+[8] You shall present a burnt offering to ⟦yhwh|Yahweh|the LORD⟧, a pleasing aroma: one young bull, one ram, and seven year-old lambs — they shall be without blemish for you —
 
 [9] and their grain offering of fine flour mixed with oil: three-tenths of an ephah for the bull, two-tenths of an ephah for the one ram,
 
@@ -22,9 +22,9 @@
 
 [11] and one male goat for a sin offering — besides the sin offering of atonement and the regular burnt offering with its grain offering, and their drink offerings.
 
-[12] On the fifteenth day of the seventh month you shall have a holy convocation; you shall do no laborious work, and you shall keep a feast to Yahweh for seven days.
+[12] On the fifteenth day of the seventh month you shall have a holy convocation; you shall do no laborious work, and you shall keep a feast to ⟦yhwh|Yahweh|the LORD⟧ for seven days.
 
-[13] You shall present a burnt offering, an offering made by fire, a pleasing aroma to Yahweh: thirteen young bulls, two rams, fourteen year-old lambs — they shall be without blemish —
+[13] You shall present a burnt offering, an offering made by fire, a pleasing aroma to ⟦yhwh|Yahweh|the LORD⟧: thirteen young bulls, two rams, fourteen year-old lambs — they shall be without blemish —
 
 [14] and their grain offering of fine flour mixed with oil: three-tenths of an ephah for each of the thirteen bulls, two-tenths of an ephah for each of the two rams,
 
@@ -70,15 +70,15 @@
 
 [35] On the eighth day you shall have a solemn assembly; you shall do no laborious work.
 
-[36] You shall present a burnt offering, an offering made by fire, a pleasing aroma to Yahweh: one bull, one ram, seven year-old lambs without blemish;
+[36] You shall present a burnt offering, an offering made by fire, a pleasing aroma to ⟦yhwh|Yahweh|the LORD⟧: one bull, one ram, seven year-old lambs without blemish;
 
 [37] their grain offering and their drink offerings for the bull, for the ram, and for the lambs, by their number, according to the ordinance;
 
 [38] and one goat for a sin offering — besides the regular burnt offering, its grain offering, and its drink offering.
 
-[39] These you shall present to Yahweh at your appointed feasts, in addition to your vows and your freewill offerings, for your burnt offerings, your grain offerings, your drink offerings, and your peace offerings."
+[39] These you shall present to ⟦yhwh|Yahweh|the LORD⟧ at your appointed feasts, in addition to your vows and your freewill offerings, for your burnt offerings, your grain offerings, your drink offerings, and your peace offerings."
 
-[40] Moses told the children of Israel all that Yahweh had commanded Moses.
+[40] ⟦moses|Moshe|Moses⟧ told the children of ⟦israel|Yisrael|Israel⟧ all that ⟦yhwh|Yahweh|the LORD⟧ had commanded ⟦moses|Moshe|Moses⟧.
 
 ## Changes
 

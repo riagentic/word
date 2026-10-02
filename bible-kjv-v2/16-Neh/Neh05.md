@@ -1,6 +1,6 @@
 # Nehemiah 5
 
-[1] There was a great outcry of the people and of their wives against their fellow Jews.
+[1] There was a great outcry of the people and of their wives against their fellow ⟦jews|Yehudim|Jews⟧.
 
 [2] For there were those who said, "We, our sons, and our daughters are many; let us get grain, that we may eat and live."
 
@@ -14,9 +14,9 @@
 
 [7] I took counsel with myself, then confronted the nobles and officials; I said to them, "You are exacting interest, each from his brother." I called a great assembly against them,
 
-[8] and said to them, "We have redeemed, as far as we were able, our fellow Jews who had been sold to the nations; now will you even sell your own brothers, that they may be sold back to us?" Then they were silent and could not find a word.
+[8] and said to them, "We have redeemed, as far as we were able, our fellow ⟦jews|Yehudim|Jews⟧ who had been sold to the nations; now will you even sell your own brothers, that they may be sold back to us?" Then they were silent and could not find a word.
 
-[9] I also said, "What you are doing is not good. Should you not walk in the fear of our *Elohim*, to avoid the reproach of the nations, our enemies?
+[9] I also said, "What you are doing is not good. Should you not walk in the fear of our ⟦elohim|Elohim|God⟧, to avoid the reproach of the nations, our enemies?
 
 [10] I, my brothers, and my men also are lending them silver and grain. Let us, please, abandon this interest-taking.
 
@@ -24,19 +24,19 @@
 
 [12] Then they said, "We will restore these and require nothing from them; we will do as you say." Then I called the priests and made the nobles and officials take an oath to do according to this promise.
 
-[13] I also shook out my lap and said, "So may *Elohim* shake out from his house and his labor every man who does not keep this promise; thus shall he be shaken out and emptied." All the assembly said, "Amen!" and praised Yahweh. The people did according to this promise.
+[13] I also shook out my lap and said, "So may ⟦elohim|Elohim|God⟧ shake out from his house and his labor every man who does not keep this promise; thus shall he be shaken out and emptied." All the assembly said, "Amen!" and praised ⟦yhwh|Yahweh|the LORD⟧. The people did according to this promise.
 
-[14] Moreover, from the time I was appointed to be their governor in the land of Judah, from the twentieth year to the thirty-second year of Artaxerxes the king, twelve years, I and my brothers have not eaten the food allowance of the governor.
+[14] Moreover, from the time I was appointed to be their governor in the land of ⟦judah|Yehudah|Judah⟧, from the twentieth year to the thirty-second year of ⟦artaxerxes|Artachshasta|Artaxerxes⟧ the king, twelve years, I and my brothers have not eaten the food allowance of the governor.
 
-[15] But the former governors who were before me were a burden on the people and took from them bread and wine, and forty shekels of silver; even their servants lorded it over the people. But I did not do so, because of the fear of *Elohim*.
+[15] But the former governors who were before me were a burden on the people and took from them bread and wine, and forty shekels of silver; even their servants lorded it over the people. But I did not do so, because of the fear of ⟦elohim|Elohim|God⟧.
 
 [16] I also continued in the work on this wall; we acquired no land. All my men were gathered there for the work.
 
-[17] Moreover there were at my table one hundred fifty of the Jews and officials, besides those who came to us from among the nations around us.
+[17] Moreover there were at my table one hundred fifty of the ⟦jews|Yehudim|Jews⟧ and officials, besides those who came to us from among the nations around us.
 
 [18] What was prepared daily was one ox, six choice sheep, and fowls; once every ten days wine of all sorts in abundance. Yet for all this I did not demand the food allowance of the governor, because the service was heavy on this people.
 
-[19] Remember for my good, O my *Elohim*, all that I have done for this people.
+[19] Remember for my good, O my ⟦elohim|Elohim|God⟧, all that I have done for this people.
 
 ## Changes
 

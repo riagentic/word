@@ -1,22 +1,22 @@
 # Genesis 42
 
-[1] Když Jacob viděl, že v Egyptě je obilí, řekl Jacob svým synům: „Proč se na sebe díváte?“
+[1] Když ⟦jacob|Jaakov|Jákob⟧ viděl, že v ⟦egypt|Micrajim|Egyptě⟧ je obilí, řekl ⟦jacob|Jaakov|Jákob⟧ svým synům: „Proč se na sebe díváte?“
 
-[2] A řekl: „Hle, slyšel jsem, že v Egyptě je obilí. Sestupte tam a nakupte nám odtamtud, abychom žili a nezemřeli.“
+[2] A řekl: „Hle, slyšel jsem, že v ⟦egypt|Micrajim|Egyptě⟧ je obilí. Sestupte tam a nakupte nám odtamtud, abychom žili a nezemřeli.“
 
-[3] Deset Josephových bratrů tedy sestoupilo, aby nakoupili obilí z Egypta.
+[3] Deset Josefových bratrů tedy sestoupilo, aby nakoupili obilí z ⟦egypt|Micrajim|Egypta⟧.
 
-[4] Ale Benjamina, Josephova bratra, Jacob se svými bratry neposlal, neboť řekl: „Aby ho nepotkalo nějaké neštěstí.“
+[4] Ale ⟦benjamin|Binjamina|Benjamína⟧, Josefova bratra, ⟦jacob|Jaakov|Jákob⟧ se svými bratry neposlal, neboť řekl: „Aby ho nepotkalo nějaké neštěstí.“
 
-[5] Synové Israele tedy přišli nakoupit obilí mezi ostatními, kteří přicházeli, neboť v zemi Canaan byl hlad.
+[5] Synové ⟦israel|Jisraele|Izraele⟧ tedy přišli nakoupit obilí mezi ostatními, kteří přicházeli, neboť v zemi Kenaan byl hlad.
 
-[6] Joseph byl vládcem nad zemí; byl to on, kdo prodával obilí všemu lidu země. A Josephovi bratři přišli a poklonili se mu tváří k zemi.
+[6] Josef byl vládcem nad zemí; byl to on, kdo prodával obilí všemu lidu země. A Josefovi bratři přišli a poklonili se mu tváří k zemi.
 
-[7] Joseph uviděl své bratry a poznal je, ale choval se k nim jako cizinec a mluvil s nimi tvrdě. Řekl jim: „Odkud jste přišli?“ Odpověděli: „Ze země Canaan, abychom nakoupili potraviny.“
+[7] Josef uviděl své bratry a poznal je, ale choval se k nim jako cizinec a mluvil s nimi tvrdě. Řekl jim: „Odkud jste přišli?“ Odpověděli: „Ze země Kenaan, abychom nakoupili potraviny.“
 
-[8] Joseph své bratry poznal, ale oni jeho nepoznali.
+[8] Josef své bratry poznal, ale oni jeho nepoznali.
 
-[9] A Joseph si vzpomněl na sny, které se mu o nich zdály, a řekl jim: „Jste vyzvědači; přišli jste prohlédnout nahotu země.“
+[9] A Josef si vzpomněl na sny, které se mu o nich zdály, a řekl jim: „Jste vyzvědači; přišli jste prohlédnout nahotu země.“
 
 [10] Odpověděli mu: „Ne, můj pane; tvoji služebníci přišli nakoupit potraviny.
 
@@ -24,17 +24,17 @@
 
 [12] Řekl jim: „Ne, přišli jste prohlédnout nahotu země.“
 
-[13] Odpověděli: „Nás, tvých služebníků, je dvanáct bratrů, synů jednoho muže v zemi Canaan; a hle, nejmladší je dnes s naším otcem a jeden už není.“
+[13] Odpověděli: „Nás, tvých služebníků, je dvanáct bratrů, synů jednoho muže v zemi Kenaan; a hle, nejmladší je dnes s naším otcem a jeden už není.“
 
-[14] Joseph jim řekl: „Je to tak, jak jsem vám řekl: ‚Jste vyzvědači.‘
+[14] Josef jim řekl: „Je to tak, jak jsem vám řekl: ‚Jste vyzvědači.‘
 
-[15] Tímto budete prověřeni: jakože Pharaoh žije, neodejdete odsud, dokud sem nepřijde váš nejmladší bratr.
+[15] Tímto budete prověřeni: jakože ⟦pharaoh|Paro|farao⟧ žije, neodejdete odsud, dokud sem nepřijde váš nejmladší bratr.
 
-[16] Pošlete jednoho z vás, aby přivedl vašeho bratra, a vy budete drženi ve vězení, aby byla vaše slova prověřena, zda je ve vás pravda; a pokud ne, jakože Pharaoh žije, jste vyzvědači.“
+[16] Pošlete jednoho z vás, aby přivedl vašeho bratra, a vy budete drženi ve vězení, aby byla vaše slova prověřena, zda je ve vás pravda; a pokud ne, jakože ⟦pharaoh|Paro|farao⟧ žije, jste vyzvědači.“
 
 [17] A dal je všechny společně na tři dny do vazby.
 
-[18] Třetího dne jim Joseph řekl: „Udělejte toto a budete žít – neboť já se bojím *Elohim*.
+[18] Třetího dne jim Josef řekl: „Udělejte toto a budete žít – neboť já se bojím ⟦elohim|Elohim|Boha⟧.
 
 [19] Jste-li poctiví muži, ať jeden z vašich bratrů zůstane držen ve vašem vězení a vy ostatní jděte a odneste obilí proti hladu svých domácností;
 
@@ -42,27 +42,27 @@
 
 [21] Říkali si navzájem: „Opravdu jsme vinni kvůli svému bratrovi, protože jsme viděli úzkost jeho duše, když nás prosil, a my jsme nechtěli slyšet. Proto na nás přišla tato tíseň.“
 
-[22] Reuben jim odpověděl: „Neříkal jsem vám: ‚Nehřešte proti tomu chlapci‘, a vy jste nechtěli slyšet? A nyní, hle, přichází účtování za jeho krev.“
+[22] ⟦reuben|Reuven|Rúben⟧ jim odpověděl: „Neříkal jsem vám: ‚Nehřešte proti tomu chlapci‘, a vy jste nechtěli slyšet? A nyní, hle, přichází účtování za jeho krev.“
 
-[23] Nevěděli, že jim Joseph rozumí, neboť mezi nimi byl tlumočník.
+[23] Nevěděli, že jim Josef rozumí, neboť mezi nimi byl tlumočník.
 
-[24] Odvrátil se od nich a plakal; potom se k nim vrátil a mluvil s nimi, vzal z jejich středu Simeona a před jejich očima ho spoutal.
+[24] Odvrátil se od nich a plakal; potom se k nim vrátil a mluvil s nimi, vzal z jejich středu ⟦simeon|Šimona|Šimeóna⟧ a před jejich očima ho spoutal.
 
-[25] Potom Joseph přikázal, aby naplnili jejich pytle obilím, aby vrátili každému jeho stříbro do jeho žoku a aby jim dali zásoby na cestu; a tak se jim stalo.
+[25] Potom Josef přikázal, aby naplnili jejich pytle obilím, aby vrátili každému jeho stříbro do jeho žoku a aby jim dali zásoby na cestu; a tak se jim stalo.
 
 [26] Naložili obilí na své osly a odešli odtamtud.
 
 [27] Když jeden z nich otevřel v nocležišti svůj žok, aby dal svému oslu píci, uviděl své stříbro; hle, bylo navrchu v jeho žoku.
 
-[28] Řekl svým bratrům: „Mé stříbro mi bylo vráceno! A tady je, v mém žoku.“ Srdce se jim sevřelo a obraceli se jeden k druhému v třesení a říkali: „Co nám to *Elohim* učinil?“
+[28] Řekl svým bratrům: „Mé stříbro mi bylo vráceno! A tady je, v mém žoku.“ Srdce se jim sevřelo a obraceli se jeden k druhému v třesení a říkali: „Co nám to ⟦elohim|Elohim|Bůh⟧ učinil?“
 
-[29] Když přišli ke svému otci Jacobovi do země Canaan, vyprávěli mu všechno, co je potkalo:
+[29] Když přišli ke svému otci ⟦jacob|Jaakovovi|Jákobovi⟧ do země Kenaan, vyprávěli mu všechno, co je potkalo:
 
 [30] „Ten muž, pán té země, s námi mluvil tvrdě a považoval nás za vyzvědače v zemi.
 
 [31] Řekli jsme mu: ‚Jsme poctiví muži; nejsme vyzvědači.
 
-[32] Je nás dvanáct bratrů, synů našeho otce; jeden už není a nejmladší je dnes s naším otcem v zemi Canaan.‘
+[32] Je nás dvanáct bratrů, synů našeho otce; jeden už není a nejmladší je dnes s naším otcem v zemi Kenaan.‘
 
 [33] Tu nám ten muž, pán té země, řekl: ‚Podle toho poznám, že jste poctiví muži: nechte jednoho ze svých bratrů u mne, vezměte potraviny proti hladu svých domácností a jděte;
 
@@ -70,11 +70,11 @@
 
 [35] Když vyprazdňovali své žoky, hle, každý měl ve svém žoku svůj uzlíček stříbra. Když oni i jejich otec uviděli své uzlíčky stříbra, dostali strach.
 
-[36] Jejich otec Jacob jim řekl: „Připravili jste mě o děti: Joseph už není, Simeon už není, a Benjamina mi chcete vzít! To všechno doléhá na mne.“
+[36] Jejich otec ⟦jacob|Jaakov|Jákob⟧ jim řekl: „Připravili jste mě o děti: Josef už není, ⟦simeon|Šimon|Šimeón⟧ už není, a ⟦benjamin|Binjamina|Benjamína⟧ mi chcete vzít! To všechno doléhá na mne.“
 
-[37] Reuben řekl svému otci: „Smíš usmrtit mé dva syny, jestliže ti ho nepřivedu zpět. Svěř ho do mé ruky a já ti ho přivedu zpět.“
+[37] ⟦reuben|Reuven|Rúben⟧ řekl svému otci: „Smíš usmrtit mé dva syny, jestliže ti ho nepřivedu zpět. Svěř ho do mé ruky a já ti ho přivedu zpět.“
 
-[38] Ale on řekl: „Můj syn s vámi nesestoupí, neboť jeho bratr je mrtev a on zůstal sám. Kdyby ho na cestě, kterou půjdete, potkalo neštěstí, přivedli byste mé šediny se zármutkem do Sheol.“
+[38] Ale on řekl: „Můj syn s vámi nesestoupí, neboť jeho bratr je mrtev a on zůstal sám. Kdyby ho na cestě, kterou půjdete, potkalo neštěstí, přivedli byste mé šediny se zármutkem do ⟦sheol|Šeolu|podsvětí⟧.“
 
 ## Změny
 

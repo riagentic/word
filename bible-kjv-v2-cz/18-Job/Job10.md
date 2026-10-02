@@ -4,7 +4,7 @@
 dám volný průchod svému nářku;
 budu mluvit v hořkosti své duše.
 
-[2] Řeknu Eloah: Neodsuzuj mě;
+[2] Řeknu ⟦eloah|Eloah|Bohu⟧: Neodsuzuj mě;
 dej mi poznat, proč se se mnou přeš.
 
 [3] Je ti dobré utlačovat,

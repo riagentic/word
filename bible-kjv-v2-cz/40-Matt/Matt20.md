@@ -32,23 +32,23 @@
 
 [16] Tak poslední budou první a první poslední.“
 
-[17] Když *Yeshua* vystupoval do Jerusalemu, vzal si dvanáct učedníků stranou a cestou jim řekl:
+[17] Když ⟦yeshua|Ješua|Ježíš⟧ vystupoval do ⟦jerusalem|Jerušalajim|Jeruzaléma⟧, vzal si dvanáct učedníků stranou a cestou jim řekl:
 
-[18] „Hle, vystupujeme do Jerusalemu. Syn člověka bude vydán velekněžím a zákoníkům a odsoudí ho k smrti
+[18] „Hle, vystupujeme do ⟦jerusalem|Jerušalajim|Jeruzaléma⟧. Syn člověka bude vydán velekněžím a zákoníkům a odsoudí ho k smrti
 
 [19] a vydají ho pohanům, aby se mu posmívali, zbičovali ho a ukřižovali; a třetího dne bude vzkříšen.“
 
-[20] Tehdy k němu přistoupila matka Zebedeových synů se svými syny, poklekla před ním a o něco ho prosila.
+[20] Tehdy k němu přistoupila matka ⟦zebedee|Zebedaiových|Zebedeových⟧ synů se svými syny, poklekla před ním a o něco ho prosila.
 
 [21] On jí řekl: „Co chceš?“ Řekla mu: „Řekni, ať tito dva moji synové sedí jeden po tvé pravici a jeden po tvé levici ve tvém království.“
 
-[22] *Yeshua* odpověděl: „Nevíte, oč žádáte. Můžete pít kalich, který mám pít já?“ Řekli mu: „Můžeme.“
+[22] ⟦yeshua|Ješua|Ježíš⟧ odpověděl: „Nevíte, oč žádáte. Můžete pít kalich, který mám pít já?“ Řekli mu: „Můžeme.“
 
 [23] Řekl jim: „Můj kalich pít budete, ale sedět po mé pravici a po mé levici není na mně, abych dal; patří to těm, kterým to připravil můj Otec.“
 
 [24] Když to uslyšelo těch deset, rozhořčili se na ty dva bratry.
 
-[25] *Yeshua* je však zavolal k sobě a řekl: „Víte, že vládci pohanů nad nimi panují a jejich velmoži nad nimi uplatňují moc.
+[25] ⟦yeshua|Ješua|Ježíš⟧ je však zavolal k sobě a řekl: „Víte, že vládci pohanů nad nimi panují a jejich velmoži nad nimi uplatňují moc.
 
 [26] Mezi vámi tomu tak nebude. Ale kdo by se mezi vámi chtěl stát velkým, bude vaším služebníkem,
 
@@ -58,15 +58,15 @@
 
 [29] Když vycházeli z Jericha, šel za ním velký zástup.
 
-[30] A hle, u cesty seděli dva slepí, a když uslyšeli, že jde kolem *Yeshua*, vykřikli: „Pane, smiluj se nad námi, Synu Davidův!“
+[30] A hle, u cesty seděli dva slepí, a když uslyšeli, že jde kolem ⟦yeshua|Ješua|Ježíš⟧, vykřikli: „Pane, smiluj se nad námi, Synu Davidův!“
 
 [31] Zástup je okřikoval, aby mlčeli, ale oni křičeli ještě víc: „Pane, smiluj se nad námi, Synu Davidův!“
 
-[32] *Yeshua* se zastavil, zavolal je a řekl: „Co chcete, abych pro vás udělal?“
+[32] ⟦yeshua|Ješua|Ježíš⟧ se zastavil, zavolal je a řekl: „Co chcete, abych pro vás udělal?“
 
 [33] Řekli mu: „Pane, ať se otevřou naše oči.“
 
-[34] *Yeshua* byl pohnut soucitem a dotkl se jejich očí; a hned prohlédli a šli za ním.
+[34] ⟦yeshua|Ješua|Ježíš⟧ byl pohnut soucitem a dotkl se jejich očí; a hned prohlédli a šli za ním.
 
 ## Změny
 

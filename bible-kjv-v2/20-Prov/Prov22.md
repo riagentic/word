@@ -4,12 +4,12 @@
 and favor is better than silver or gold.
 
 [2] The rich and the poor meet together;
-Yahweh is the Maker of them all.
+⟦yhwh|Yahweh|the LORD⟧ is the Maker of them all.
 
 [3] The prudent sees danger and hides himself,
 but the simple go on and suffer for it.
 
-[4] The reward for humility and fear of Yahweh
+[4] The reward for humility and fear of ⟦yhwh|Yahweh|the LORD⟧
 is riches and honor and life.
 
 [5] Thorns and snares are in the way of the crooked;
@@ -33,14 +33,14 @@ and quarreling and abuse will cease.
 [11] He who loves purity of heart, and whose speech is gracious,
 will have the king as his friend.
 
-[12] The eyes of Yahweh keep watch over knowledge,
+[12] The eyes of ⟦yhwh|Yahweh|the LORD⟧ keep watch over knowledge,
 but he overthrows the words of the traitor.
 
 [13] The sluggard says, "There is a lion outside!
 I shall be killed in the streets!"
 
 [14] The mouth of forbidden women is a deep pit;
-he with whom Yahweh is angry will fall into it.
+he with whom ⟦yhwh|Yahweh|the LORD⟧ is angry will fall into it.
 
 [15] Folly is bound up in the heart of a child,
 but the rod of discipline drives it far from him.
@@ -54,7 +54,7 @@ and apply your heart to my knowledge,
 [18] for it will be pleasant if you keep them within you,
 if all of them are ready on your lips.
 
-[19] That your trust may be in Yahweh,
+[19] That your trust may be in ⟦yhwh|Yahweh|the LORD⟧,
 I have made them known to you today, even to you.
 
 [20] Have I not written for you thirty sayings
@@ -66,7 +66,7 @@ that you may give a true answer to those who sent you?
 [22] Do not rob the poor because he is poor,
 or crush the afflicted at the gate,
 
-[23] for Yahweh will plead their cause
+[23] for ⟦yhwh|Yahweh|the LORD⟧ will plead their cause
 and rob of life those who rob them.
 
 [24] Make no friendship with a man given to anger,

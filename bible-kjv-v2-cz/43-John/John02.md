@@ -1,18 +1,18 @@
 # Jan 2
 
-[1] Třetího dne byla svatba v Caně v Galilee a byla tam matka *Yeshuy*.
+[1] Třetího dne byla svatba v ⟦cana|Kaně|Káně⟧ v ⟦galilee|Galilu|Galileji⟧ a byla tam matka ⟦yeshua|Ješuy|Ježíše⟧.
 
-[2] Na svatbu byl pozván také *Yeshua* se svými učedníky.
+[2] Na svatbu byl pozván také ⟦yeshua|Ješua|Ježíš⟧ se svými učedníky.
 
-[3] Když došlo víno, řekla mu matka *Yeshuy*: „Nemají víno.“
+[3] Když došlo víno, řekla mu matka ⟦yeshua|Ješuy|Ježíše⟧: „Nemají víno.“
 
-[4] *Yeshua* jí řekl: „Ženo, co to má společného se mnou? Má hodina ještě nepřišla.“
+[4] ⟦yeshua|Ješua|Ježíš⟧ jí řekl: „Ženo, co to má společného se mnou? Má hodina ještě nepřišla.“
 
 [5] Jeho matka řekla služebníkům: „Udělejte všechno, co vám řekne.“
 
 [6] Stálo tam šest kamenných nádob na vodu pro židovské obřady očišťování, každá o objemu dvaceti až třiceti galonů.
 
-[7] *Yeshua* řekl služebníkům: „Naplňte nádoby vodou.“ A naplnili je až po okraj.
+[7] ⟦yeshua|Ješua|Ježíš⟧ řekl služebníkům: „Naplňte nádoby vodou.“ A naplnili je až po okraj.
 
 [8] Řekl jim: „Teď naberte a doneste správci hostiny.“ Tak mu donesli.
 
@@ -20,11 +20,11 @@
 
 [10] a řekl mu: „Každý podává nejprve dobré víno, a když se lidé hojně napili, pak horší. Ty jsi však dobré víno uchoval až dosud.“
 
-[11] Toto první ze svých znamení učinil *Yeshua* v Caně v Galilee a zjevil svou slávu. A jeho učedníci v něho uvěřili.
+[11] Toto první ze svých znamení učinil ⟦yeshua|Ješua|Ježíš⟧ v ⟦cana|Kaně|Káně⟧ v ⟦galilee|Galilu|Galileji⟧ a zjevil svou slávu. A jeho učedníci v něho uvěřili.
 
-[12] Potom sestoupil do Capernaum se svou matkou, se svými bratry a se svými učedníky a zůstali tam několik dní.
+[12] Potom sestoupil do ⟦capernaum|Kfar Nachumu|Kafarnaum⟧ se svou matkou, se svými bratry a se svými učedníky a zůstali tam několik dní.
 
-[13] Blížila se židovská Pascha a *Yeshua* vystoupil do Jerusalemu.
+[13] ⟦pesach|Blížil se židovský Pesach|Blížily se židovské velikonoce⟧ a ⟦yeshua|Ješua|Ježíš⟧ vystoupil do ⟦jerusalem|Jerušalajim|Jeruzaléma⟧.
 
 [14] V chrámu zastihl ty, kdo prodávali voly, ovce a holuby, a penězoměnce, kteří tam seděli.
 
@@ -34,19 +34,19 @@
 
 [17] Jeho učedníci si vzpomněli, že je napsáno: „**Horlivost pro tvůj dům mě stráví**.“
 
-[18] Židé mu tedy řekli: „Jaké znamení nám ukážeš, že to smíš dělat?“
+[18] ⟦jews|Jehudim|Židé⟧ mu tedy řekli: „Jaké znamení nám ukážeš, že to smíš dělat?“
 
-[19] *Yeshua* jim odpověděl: „**Zbořte tento chrám a ve třech dnech ho postavím**.“
+[19] ⟦yeshua|Ješua|Ježíš⟧ jim odpověděl: „**Zbořte tento chrám a ve třech dnech ho postavím**.“
 
-[20] Židé na to řekli: „Tento chrám se stavěl čtyřicet šest let, a ty ho postavíš ve třech dnech?“
+[20] ⟦jews|Jehudim|Židé⟧ na to řekli: „Tento chrám se stavěl čtyřicet šest let, a ty ho postavíš ve třech dnech?“
 
 [21] On však mluvil o chrámu svého těla.
 
-[22] Když pak byl vzkříšen z mrtvých, jeho učedníci si vzpomněli, že to říkal, a uvěřili Písmu i slovu, které *Yeshua* řekl.
+[22] Když pak byl vzkříšen z mrtvých, jeho učedníci si vzpomněli, že to říkal, a uvěřili Písmu i slovu, které ⟦yeshua|Ješua|Ježíš⟧ řekl.
 
-[23] Když byl v Jerusalemě o svátku Paschy, mnozí uvěřili v jeho jméno, když viděli znamení, která činil.
+[23] Když byl v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧ ⟦pesach|o svátku Pesachu|o velikonočních svátcích⟧, mnozí uvěřili v jeho jméno, když viděli znamení, která činil.
 
-[24] *Yeshua* se jim však sám nesvěřoval, protože znal všechny lidi
+[24] ⟦yeshua|Ješua|Ježíš⟧ se jim však sám nesvěřoval, protože znal všechny lidi
 
 [25] a nepotřeboval, aby mu někdo vydával svědectví o člověku, neboť sám věděl, co je v člověku.
 

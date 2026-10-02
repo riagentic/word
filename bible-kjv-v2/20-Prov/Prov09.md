@@ -27,7 +27,7 @@ reprove a wise man, and he will love you.
 [9] Give instruction to a wise man, and he will be still wiser;
 teach a righteous man, and he will increase in learning.
 
-[10] The fear of Yahweh is the beginning of wisdom,
+[10] The fear of ⟦yhwh|Yahweh|the LORD⟧ is the beginning of wisdom,
 and the knowledge of the Holy One is insight.
 
 [11] For by me your days will be multiplied,

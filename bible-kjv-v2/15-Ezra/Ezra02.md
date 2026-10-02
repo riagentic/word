@@ -1,132 +1,132 @@
 # Ezra 2
 
-[1] These are the children of the province who went up out of the captivity of those who had been exiled, whom Nebuchadnezzar the king of Babylon had carried away to Babylon; they returned to Jerusalem and Judah, each to his city.
+[1] These are the children of the province who went up out of the captivity of those who had been exiled, whom ⟦nebuchadnezzar|Nevuchadnetzar|Nebuchadnezzar⟧ the king of ⟦babylon|Bavel|Babylon⟧ had carried away to ⟦babylon|Bavel|Babylon⟧; they returned to ⟦jerusalem|Yerushalayim|Jerusalem⟧ and ⟦judah|Yehudah|Judah⟧, each to his city.
 
-[2] They came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah.
+[2] They came with ⟦zerubbabel|Zerubbavel|Zerubbabel⟧: ⟦jeshua|Yeshua|Jeshua⟧, ⟦nehemiah|Nechemyah|Nehemiah⟧, ⟦seraiah|Serayah|Seraiah⟧, ⟦reelaiah|Reelayah|Reelaiah⟧, ⟦mordecai|Mordechai|Mordecai⟧, Bilshan, Mispar, Bigvai, ⟦rehum|Rechum|Rehum⟧, and Baanah.
 
-The number of the men of the people of Israel:
+The number of the men of the people of ⟦israel|Yisrael|Israel⟧:
 
 [3] the children of Parosh, 2,172;
 
-[4] the children of Shephatiah, 372;
+[4] the children of ⟦shephatiah|Shefatyah|Shephatiah⟧, 372;
 
-[5] the children of Arah, 775;
+[5] the children of ⟦arah|Arach|Arah⟧, 775;
 
-[6] the children of Pahath-moab, of the children of Jeshua and Joab, 2,812;
+[6] the children of ⟦pahath-moab|Pachat-Moav|Pahath-moab⟧, of the children of ⟦jeshua|Yeshua|Jeshua⟧ and ⟦joab|Yoav|Joab⟧, 2,812;
 
 [7] the children of Elam, 1,254;
 
 [8] the children of Zattu, 945;
 
-[9] the children of Zaccai, 760;
+[9] the children of ⟦zaccai|Zakkai|Zaccai⟧, 760;
 
 [10] the children of Bani, 642;
 
-[11] the children of Bebai, 623;
+[11] the children of ⟦bebai|Bevai|Bebai⟧, 623;
 
 [12] the children of Azgad, 1,222;
 
-[13] the children of Adonikam, 666;
+[13] the children of ⟦adonikam|Adoniqam|Adonikam⟧, 666;
 
 [14] the children of Bigvai, 2,056;
 
 [15] the children of Adin, 454;
 
-[16] the children of Ater, of Hezekiah, 98;
+[16] the children of Ater, of ⟦hezekiah|Chizqiyahu|Hezekiah⟧, 98;
 
-[17] the children of Bezai, 323;
+[17] the children of ⟦bezai|Betzai|Bezai⟧, 323;
 
-[18] the children of Jorah, 112;
+[18] the children of ⟦jorah|Yorah|Jorah⟧, 112;
 
-[19] the children of Hashum, 223;
+[19] the children of ⟦hashum|Chashum|Hashum⟧, 223;
 
 [20] the children of Gibbar, 95;
 
-[21] the children of Bethlehem, 123;
+[21] the children of ⟦bethlehem|Beit Lechem|Bethlehem⟧, 123;
 
-[22] the men of Netophah, 56;
+[22] the men of ⟦netophah|Netofah|Netophah⟧, 56;
 
-[23] the men of Anathoth, 128;
+[23] the men of ⟦anathoth|Anatot|Anathoth⟧, 128;
 
-[24] the children of Azmaveth, 42;
+[24] the children of ⟦azmaveth|Azmavet|Azmaveth⟧, 42;
 
-[25] the children of Kiriath-arim, Chephirah, and Beeroth, 743;
+[25] the children of ⟦kiriath-jearim|Qiryat Arim|Kiriath-arim⟧, ⟦chephirah|Kefirah|Chephirah⟧, and ⟦beeroth|Beerot|Beeroth⟧, 743;
 
-[26] the children of Ramah and Geba, 621;
+[26] the children of Ramah and ⟦geba|Geva|Geba⟧, 621;
 
 [27] the men of Michmas, 122;
 
-[28] the men of Bethel and Ai, 223;
+[28] the men of ⟦bethel|Beit El|Bethel⟧ and Ai, 223;
 
-[29] the children of Nebo, 52;
+[29] the children of ⟦nebo|Nevo|Nebo⟧, 52;
 
 [30] the children of Magbish, 156;
 
 [31] the children of the other Elam, 1,254;
 
-[32] the children of Harim, 320;
+[32] the children of ⟦harim|Charim|Harim⟧, 320;
 
-[33] the children of Lod, Hadid, and Ono, 725;
+[33] the children of Lod, ⟦hadid|Chadid|Hadid⟧, and Ono, 725;
 
-[34] the children of Jericho, 345;
+[34] the children of ⟦jericho|Yericho|Jericho⟧, 345;
 
 [35] the children of Senaah, 3,630.
 
-[36] The priests: the children of Jedaiah, of the house of Jeshua, 973;
+[36] The priests: the children of ⟦jedaiah|Yedayah|Jedaiah⟧, of the house of ⟦jeshua|Yeshua|Jeshua⟧, 973;
 
 [37] the children of Immer, 1,052;
 
-[38] the children of Pashhur, 1,247;
+[38] the children of ⟦pashhur|Pashchur|Pashhur⟧, 1,247;
 
-[39] the children of Harim, 1,017.
+[39] the children of ⟦harim|Charim|Harim⟧, 1,017.
 
-[40] The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, 74.
+[40] The ⟦levites|Leviyim|Levites⟧: the children of ⟦jeshua|Yeshua|Jeshua⟧ and ⟦kadmiel|Qadmiel|Kadmiel⟧, of the children of ⟦hodaviah|Hodavyah|Hodaviah⟧, 74.
 
-[41] The singers: the children of Asaph, 128.
+[41] The singers: the children of ⟦asaph|Asaf|Asaph⟧, 128.
 
-[42] The children of the gatekeepers: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai — in all, 139.
+[42] The children of the gatekeepers: the children of Shallum, the children of Ater, the children of Talmon, the children of ⟦akkub|Aqquv|Akkub⟧, the children of ⟦hatita|Chatita|Hatita⟧, the children of ⟦shobai|Shovai|Shobai⟧ — in all, 139.
 
-[43] The temple servants: the children of Ziha, the children of Hasupha, the children of Tabbaoth,
+[43] The ⟦nethinim|Netinim|temple servants⟧: the children of ⟦ziha|Tzicha|Ziha⟧, the children of ⟦hasupha|Chasufa|Hasupha⟧, the children of ⟦tabbaoth|Tabbaot|Tabbaoth⟧,
 
-[44] the children of Keros, the children of Siaha, the children of Padon,
+[44] the children of ⟦keros|Qeros|Keros⟧, the children of Siaha, the children of ⟦padon|Fadon|Padon⟧,
 
-[45] the children of Lebanah, the children of Hagabah, the children of Akkub,
+[45] the children of ⟦lebanah|Levanah|Lebanah⟧, the children of ⟦hagabah|Chagavah|Hagabah⟧, the children of ⟦akkub|Aqquv|Akkub⟧,
 
-[46] the children of Hagab, the children of Shalmai, the children of Hanan,
+[46] the children of ⟦hagab|Chagav|Hagab⟧, the children of Shalmai, the children of ⟦hanan|Chanan|Hanan⟧,
 
-[47] the children of Giddel, the children of Gahar, the children of Reaiah,
+[47] the children of Giddel, the children of ⟦gahar|Gachar|Gahar⟧, the children of ⟦reaiah|Reayah|Reaiah⟧,
 
-[48] the children of Rezin, the children of Nekoda, the children of Gazzam,
+[48] the children of ⟦rezin|Retzin|Rezin⟧, the children of ⟦nekoda|Neqoda|Nekoda⟧, the children of Gazzam,
 
-[49] the children of Uzza, the children of Paseah, the children of Besai,
+[49] the children of Uzza, the children of ⟦paseah|Paseach|Paseah⟧, the children of Besai,
 
-[50] the children of Asnah, the children of Meunim, the children of Nephusim,
+[50] the children of Asnah, the children of Meunim, the children of ⟦nephisim|Nefisim|Nephisim⟧,
 
-[51] the children of Bakbuk, the children of Hakupha, the children of Harhur,
+[51] the children of ⟦bakbuk|Baqbuq|Bakbuk⟧, the children of ⟦hakupha|Chaqufa|Hakupha⟧, the children of ⟦harhur|Charchur|Harhur⟧,
 
-[52] the children of Bazluth, the children of Mehida, the children of Harsha,
+[52] the children of ⟦bazluth|Batzlut|Bazluth⟧, the children of ⟦mehida|Mechida|Mehida⟧, the children of ⟦harsha|Charsha|Harsha⟧,
 
-[53] the children of Barkos, the children of Sisera, the children of Temah,
+[53] the children of ⟦barkos|Barqos|Barkos⟧, the children of Sisera, the children of ⟦temah|Tamach|Temah⟧,
 
-[54] the children of Neziah, the children of Hatipha.
+[54] the children of ⟦neziah|Netziach|Neziah⟧, the children of ⟦hatipha|Chatifa|Hatipha⟧.
 
-[55] The children of Solomon's servants: the children of Sotai, the children of Hassophereth, the children of Peruda,
+[55] The children of ⟦solomon|Shlomo's|Solomon's⟧ servants: the children of Sotai, the children of ⟦sophereth|Hassoferet|Hassophereth⟧, the children of Peruda,
 
-[56] the children of Jaalah, the children of Darkon, the children of Giddel,
+[56] the children of ⟦jaalah|Yaalah|Jaalah⟧, the children of ⟦darkon|Darqon|Darkon⟧, the children of Giddel,
 
-[57] the children of Shephatiah, the children of Hattil, the children of Pochereth-hazzebaim, the children of Ami.
+[57] the children of ⟦shephatiah|Shefatyah|Shephatiah⟧, the children of ⟦hattil|Chattil|Hattil⟧, the children of ⟦pochereth-hazzebaim|Pocheret HaTzevayim|Pochereth-hazzebaim⟧, the children of Ami.
 
-[58] All the temple servants and the children of Solomon's servants were 392.
+[58] All the ⟦nethinim|Netinim|temple servants⟧ and the children of ⟦solomon|Shlomo's|Solomon's⟧ servants were 392.
 
-[59] These were they who went up from Tel-melah, Tel-harsha, Cherub, Addan, and Immer; but they could not prove their fathers' houses or their descent, whether they were of Israel:
+[59] These were they who went up from ⟦tel-melah|Tel Melach|Tel-melah⟧, ⟦tel-harsha|Tel Charsha|Tel-harsha⟧, ⟦cherub-place|Keruv|Cherub⟧, Addan, and Immer; but they could not prove their fathers' houses or their descent, whether they were of ⟦israel|Yisrael|Israel⟧:
 
-[60] the children of Delaiah, the children of Tobiah, the children of Nekoda — 652.
+[60] the children of ⟦delaiah|Delayah|Delaiah⟧, the children of ⟦tobiah|Toviyah|Tobiah⟧, the children of ⟦nekoda|Neqoda|Nekoda⟧ — 652.
 
-[61] Of the children of the priests: the children of Habaiah, the children of Hakkoz, the children of Barzillai, who took a wife of the daughters of Barzillai the Gileadite and was called by their name.
+[61] Of the children of the priests: the children of ⟦habaiah|Chovayah|Habaiah⟧, the children of ⟦hakkoz|HaQotz|Hakkoz⟧, the children of Barzillai, who took a wife of the daughters of Barzillai the ⟦gileadite|Giladi|Gileadite⟧ and was called by their name.
 
 [62] These sought their registration among those enrolled in the genealogies, but they were not found; so they were excluded from the priesthood as unclean.
 
-[63] The governor said to them that they were not to eat of the most holy things until a priest should arise with Urim and Thummim.
+[63] The governor said to them that they were not to eat of the most holy things until a priest should arise with Urim and ⟦thummim|Tummim|Thummim⟧.
 
 [64] The whole assembly together numbered 42,360,
 
@@ -136,11 +136,11 @@ The number of the men of the people of Israel:
 
 [67] their camels, 435; their donkeys, 6,720.
 
-[68] Some of the heads of fathers' houses, when they came to the house of Yahweh that is at Jerusalem, offered freely for the house of *Elohim*, to set it up on its site.
+[68] Some of the heads of fathers' houses, when they came to the house of ⟦yhwh|Yahweh|the LORD⟧ that is at ⟦jerusalem|Yerushalayim|Jerusalem⟧, offered freely for the house of ⟦elohim|Elohim|God⟧, to set it up on its site.
 
 [69] According to their ability they gave to the treasury of the work 61,000 darics of gold, 5,000 minas of silver, and 100 priests' garments.
 
-[70] So the priests, the Levites, some of the people, the singers, the gatekeepers, and the temple servants lived in their cities, and all Israel in their cities.
+[70] So the priests, the ⟦levites|Leviyim|Levites⟧, some of the people, the singers, the gatekeepers, and the ⟦nethinim|Netinim|temple servants⟧ lived in their cities, and all ⟦israel|Yisrael|Israel⟧ in their cities.
 
 ## Changes
 

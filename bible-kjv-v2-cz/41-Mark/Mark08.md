@@ -18,9 +18,9 @@
 
 [9] Bylo jich asi čtyři tisíce. A rozpustil je.
 
-[10] Hned nato vstoupil se svými učedníky do lodi a přišel do krajiny Dalmanutha.
+[10] Hned nato vstoupil se svými učedníky do lodi a přišel do krajiny Dalmanuta.
 
-[11] Přišli farizeové a začali se s ním přít; žádali od něho znamení z nebe, aby ho zkoušeli.
+[11] Přišli ⟦pharisees|perušim|farizeové⟧ a začali se s ním přít; žádali od něho znamení z nebe, aby ho zkoušeli.
 
 [12] On si ve svém duchu hluboce povzdechl a řekl: „Proč toto pokolení žádá znamení? Vpravdě vám říkám, tomuto pokolení žádné znamení nebude dáno.“
 
@@ -28,11 +28,11 @@
 
 [14] Zapomněli si vzít chleby a v lodi s sebou měli jen jeden chléb.
 
-[15] Varoval je: „Dávejte pozor, varujte se kvasu farizeů a kvasu Herodova.“
+[15] Varoval je: „Dávejte pozor, varujte se kvasu ⟦pharisees|perušim|farizeů⟧ a kvasu Herodova.“
 
 [16] I začali spolu mluvit o tom, že nemají chleby.
 
-[17] *Yeshua* to poznal a řekl jim: „Proč mluvíte o tom, že nemáte chleby? Ještě nechápete ani nerozumíte? Máte zatvrzelá srdce?
+[17] ⟦yeshua|Ješua|Ježíš⟧ to poznal a řekl jim: „Proč mluvíte o tom, že nemáte chleby? Ještě nechápete ani nerozumíte? Máte zatvrzelá srdce?
 
 [18] Máte oči, a nevidíte, máte uši, a neslyšíte? A nepamatujete se?
 
@@ -42,29 +42,29 @@
 
 [21] Řekl jim: „Ještě nerozumíte?“
 
-[22] Přišli do Bethsaidy. Někteří lidé k němu přivedli slepého a prosili ho, aby se ho dotkl.
+[22] Přišli do ⟦bethsaida|Bejt Cajdy|Betsaidy⟧. Někteří lidé k němu přivedli slepého a prosili ho, aby se ho dotkl.
 
 [23] Vzal slepého za ruku a vyvedl ho ven z vesnice; plivl mu na oči, vložil na něho ruce a zeptal se ho: „Vidíš něco?“
 
 [24] On pohlédl vzhůru a řekl: „Vidím lidi; vypadají jako stromy, které chodí.“
 
-[25] Tehdy mu *Yeshua* znovu položil ruce na oči; on prohlédl, zrak se mu navrátil a viděl všechno zřetelně.
+[25] Tehdy mu ⟦yeshua|Ješua|Ježíš⟧ znovu položil ruce na oči; on prohlédl, zrak se mu navrátil a viděl všechno zřetelně.
 
 [26] Poslal ho domů a řekl: „Do vesnice ani nevcházej.“
 
-[27] *Yeshua* se svými učedníky odešel do vesnic v okolí Caesarey Philippi. Cestou se svých učedníků zeptal: „Za koho mě lidé pokládají?“
+[27] ⟦yeshua|Ješua|Ježíš⟧ se svými učedníky odešel do vesnic v okolí ⟦caesarea-philippi|Caesareje Filippi|Cesareje Filipovy⟧. Cestou se svých učedníků zeptal: „Za koho mě lidé pokládají?“
 
-[28] Odpověděli mu: „Za Johna Ponořovatele; jiní za Elijaha a jiní za jednoho z proroků.“
+[28] Odpověděli mu: „Za ⟦john|Jochanana|Jana⟧ ⟦immerser|Ponořovatele|Křtitele⟧; jiní za ⟦elijah|Elijahua|Eliáše⟧ a jiní za jednoho z proroků.“
 
-[29] Zeptal se jich: „A za koho mě pokládáte vy?“ *Kefa* mu odpověděl: „**Ty jsi *Mashiach*.**“
+[29] Zeptal se jich: „A za koho mě pokládáte vy?“ ⟦peter|Kefa|Petr⟧ mu odpověděl: „**Ty jsi ⟦mashiach|Mašiach|Mesiáš⟧.**“
 
 [30] Přísně jim nařídil, aby o něm nikomu neříkali.
 
 [31] A začal je učit, že Syn člověka musí mnoho trpět, být zavržen staršími, velekněžími a zákoníky, být zabit a po třech dnech vstát.
 
-[32] Mluvil o tom otevřeně. *Kefa* si ho vzal stranou a začal ho kárat.
+[32] Mluvil o tom otevřeně. ⟦peter|Kefa|Petr⟧ si ho vzal stranou a začal ho kárat.
 
-[33] On se však obrátil, pohlédl na své učedníky a pokáral *Kefu*: „Jdi za mě, Satane! Nemyslíš na věci *Elohim*, ale na věci lidské.“
+[33] On se však obrátil, pohlédl na své učedníky a pokáral ⟦peter|Kefu|Petra⟧: „Jdi za mě, Satane! Nemyslíš na věci ⟦elohim|Elohim|Boží⟧, ale na věci lidské.“
 
 [34] Zavolal k sobě zástup se svými učedníky a řekl jim: „**Chce-li kdo jít za mnou, ať zapře sám sebe, vezme svůj kříž a následuje mě.**
 

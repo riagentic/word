@@ -1,16 +1,16 @@
 # Leviticus 18
 
-[1] Yahweh spoke to Moses, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[2] "Speak to the children of Israel and say to them: 'I am Yahweh your *Elohim*.
+[2] "Speak to the children of ⟦israel|Yisrael|Israel⟧ and say to them: 'I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
-[3] You shall not do as they do in the land of Egypt, where you lived; and you shall not do as they do in the land of Canaan, where I am bringing you; you shall not walk in their statutes.
+[3] You shall not do as they do in the land of ⟦egypt|Mitzrayim|Egypt⟧, where you lived; and you shall not do as they do in the land of ⟦canaan|Kenaan|Canaan⟧, where I am bringing you; you shall not walk in their statutes.
 
-[4] You shall do my ordinances and keep my statutes, to walk in them. I am Yahweh your *Elohim*.
+[4] You shall do my ordinances and keep my statutes, to walk in them. I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
-[5] You shall therefore keep my statutes and my ordinances; the one who does them shall live by them. I am Yahweh.
+[5] You shall therefore keep my statutes and my ordinances; the one who does them shall live by them. I am ⟦yhwh|Yahweh|the LORD⟧.
 
-[6] None of you shall approach any close relative to uncover nakedness. I am Yahweh.
+[6] None of you shall approach any close relative to uncover nakedness. I am ⟦yhwh|Yahweh|the LORD⟧.
 
 [7] The nakedness of your father — that is, the nakedness of your mother — you shall not uncover; she is your mother, you shall not uncover her nakedness.
 
@@ -40,7 +40,7 @@
 
 [20] You shall not lie sexually with your neighbor's wife, to defile yourself with her.
 
-[21] You shall not give any of your offspring to pass through the fire to Molech, and you shall not profane the name of your *Elohim*. I am Yahweh.
+[21] You shall not give any of your offspring to pass through the fire to Molech, and you shall not profane the name of your ⟦elohim|Elohim|God⟧. I am ⟦yhwh|Yahweh|the LORD⟧.
 
 [22] You shall not lie with a male as with a woman; it is an abomination.
 
@@ -58,7 +58,7 @@
 
 [29] For whoever commits any of these abominations — those who do so shall be cut off from among their people.
 
-[30] So you shall keep my charge, that you do not follow any of these abominable customs that were practiced before you, and that you do not defile yourselves by them. I am Yahweh your *Elohim*.'"
+[30] So you shall keep my charge, that you do not follow any of these abominable customs that were practiced before you, and that you do not defile yourselves by them. I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.'"
 
 ## Changes
 

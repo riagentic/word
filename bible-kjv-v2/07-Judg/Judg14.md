@@ -1,28 +1,28 @@
 # Judges 14
 
-[1] Samson went down to Timnah and saw a woman at Timnah of the daughters of the Philistines.
+[1] ⟦samson|Shimshon|Samson⟧ went down to Timnah and saw a woman at Timnah of the daughters of the ⟦philistines|Pelishtim|Philistines⟧.
 
-[2] When he came back he told his father and his mother, "I have seen a woman in Timnah, of the daughters of the Philistines; now get her for me as a wife."
+[2] When he came back he told his father and his mother, "I have seen a woman in Timnah, of the daughters of the ⟦philistines|Pelishtim|Philistines⟧; now get her for me as a wife."
 
-[3] But his father and his mother said to him, "Is there no woman among the daughters of your kinsmen or among all our people, that you must go to take a wife from the uncircumcised Philistines?" Samson said to his father, "Get her for me, for she is right in my eyes."
+[3] But his father and his mother said to him, "Is there no woman among the daughters of your kinsmen or among all our people, that you must go to take a wife from the uncircumcised ⟦philistines|Pelishtim|Philistines⟧?" ⟦samson|Shimshon|Samson⟧ said to his father, "Get her for me, for she is right in my eyes."
 
-[4] His father and mother did not know that it was from Yahweh — for he was seeking an occasion against the Philistines. At that time the Philistines had dominion over Israel.
+[4] His father and mother did not know that it was from ⟦yhwh|Yahweh|the LORD⟧ — for he was seeking an occasion against the ⟦philistines|Pelishtim|Philistines⟧. At that time the ⟦philistines|Pelishtim|Philistines⟧ had dominion over ⟦israel|Yisrael|Israel⟧.
 
-[5] So Samson went down with his father and mother to Timnah, and as they came to the vineyards of Timnah, behold, a young lion roared against him.
+[5] So ⟦samson|Shimshon|Samson⟧ went down with his father and mother to Timnah, and as they came to the vineyards of Timnah, behold, a young lion roared against him.
 
-[6] The spirit of Yahweh rushed upon him; he tore it apart as one tears apart a young goat, with nothing in his hand. He did not tell his father or mother what he had done.
+[6] The spirit of ⟦yhwh|Yahweh|the LORD⟧ rushed upon him; he tore it apart as one tears apart a young goat, with nothing in his hand. He did not tell his father or mother what he had done.
 
-[7] He went down and talked with the woman, and she was right in Samson's eyes.
+[7] He went down and talked with the woman, and she was right in ⟦samson|Shimshon's|Samson's⟧ eyes.
 
 [8] After a while he returned to take her, and he turned aside to see the carcass of the lion; behold, there was a swarm of bees in the body of the lion, and honey.
 
 [9] He scraped it out into his hands and went on, eating as he went. When he came to his father and mother, he gave them some, and they ate. But he did not tell them that he had scraped the honey out of the carcass of the lion.
 
-[10] His father went down to the woman, and Samson made a feast there, for so the young men customarily did.
+[10] His father went down to the woman, and ⟦samson|Shimshon|Samson⟧ made a feast there, for so the young men customarily did.
 
 [11] When they saw him, they brought thirty companions to be with him.
 
-[12] Samson said to them, "Let me now put a riddle to you. If you can tell me the answer within the seven days of the feast and solve it, I will give you thirty linen garments and thirty changes of clothes.
+[12] ⟦samson|Shimshon|Samson⟧ said to them, "Let me now put a riddle to you. If you can tell me the answer within the seven days of the feast and solve it, I will give you thirty linen garments and thirty changes of clothes.
 
 [13] But if you cannot tell me the answer, then you shall give me thirty linen garments and thirty changes of clothes." They said to him, "Put forth your riddle, that we may hear it."
 
@@ -33,9 +33,9 @@ out of the strong came something sweet."
 
 For three days they could not solve the riddle.
 
-[15] On the fourth day they said to Samson's wife, "Entice your husband to tell us the riddle, lest we burn you and your father's house with fire. Have you invited us here to impoverish us?"
+[15] On the fourth day they said to ⟦samson|Shimshon's|Samson's⟧ wife, "Entice your husband to tell us the riddle, lest we burn you and your father's house with fire. Have you invited us here to impoverish us?"
 
-[16] Samson's wife wept before him and said, "You only hate me; you do not love me. You have put a riddle to the sons of my people and have not told me." He said to her, "Behold, I have not told my father or mother, and should I tell you?"
+[16] ⟦samson|Shimshon's|Samson's⟧ wife wept before him and said, "You only hate me; you do not love me. You have put a riddle to the sons of my people and have not told me." He said to her, "Behold, I have not told my father or mother, and should I tell you?"
 
 [17] She wept before him the seven days that their feast lasted; on the seventh day he told her, because she pressed him hard; and she told the riddle to the sons of her people.
 
@@ -49,9 +49,9 @@ And he said to them:
 "If you had not plowed with my heifer,
 you would not have solved my riddle."
 
-[19] The spirit of Yahweh rushed upon him, and he went down to Ashkelon and struck down thirty of their men; he took their spoil and gave the changes of clothes to those who had told the riddle. In anger he went up to his father's house.
+[19] The spirit of ⟦yhwh|Yahweh|the LORD⟧ rushed upon him, and he went down to ⟦ashkelon|Ashqelon|Ashkelon⟧ and struck down thirty of their men; he took their spoil and gave the changes of clothes to those who had told the riddle. In anger he went up to his father's house.
 
-[20] Samson's wife was given to his companion, who had served as his groomsman.
+[20] ⟦samson|Shimshon's|Samson's⟧ wife was given to his companion, who had served as his groomsman.
 
 ## Changes
 

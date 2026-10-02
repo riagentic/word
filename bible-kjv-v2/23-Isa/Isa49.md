@@ -2,7 +2,7 @@
 
 [1] Listen to me, O coastlands,
 and give attention, you peoples from afar.
-Yahweh called me from the womb,
+⟦yhwh|Yahweh|The LORD⟧ called me from the womb,
 from the body of my mother he named my name.
 
 [2] He made my mouth like a sharp sword;
@@ -11,35 +11,35 @@ he made me a polished arrow;
 in his quiver he hid me away.
 
 [3] And he said to me, "You are my servant,
-Israel, in whom I will be glorified."
+⟦israel|Yisrael|Israel⟧, in whom I will be glorified."
 
 [4] But I said, "I have labored in vain;
 I have spent my strength for nothing and vanity;
-yet surely my right is with Yahweh,
-and my recompense with my *Elohim*."
+yet surely my right is with ⟦yhwh|Yahweh|the LORD⟧,
+and my recompense with my ⟦elohim|Elohim|God⟧."
 
-[5] And now Yahweh says,
+[5] And now ⟦yhwh|Yahweh|the LORD⟧ says,
 he who formed me from the womb to be his servant,
-to bring Jacob back to him;
-and that Israel might be gathered to him —
-for I am honored in the eyes of Yahweh,
-and my *Elohim* has become my strength —
+to bring ⟦jacob|Yaaqov|Jacob⟧ back to him;
+and that ⟦israel|Yisrael|Israel⟧ might be gathered to him —
+for I am honored in the eyes of ⟦yhwh|Yahweh|the LORD⟧,
+and my ⟦elohim|Elohim|God⟧ has become my strength —
 
 [6] he says:
 "It is too light a thing that you should be my servant
-to raise up the tribes of Jacob
-and to bring back the preserved of Israel;
+to raise up the tribes of ⟦jacob|Yaaqov|Jacob⟧
+and to bring back the preserved of ⟦israel|Yisrael|Israel⟧;
 I will make you as a light for the nations,
 that my salvation may reach to the end of the earth."
 
-[7] Thus says Yahweh, the Redeemer of Israel and his Holy One, to one deeply despised, abhorred by the nation, the servant of rulers:
+[7] Thus says ⟦yhwh|Yahweh|the LORD⟧, the Redeemer of ⟦israel|Yisrael|Israel⟧ and his Holy One, to one deeply despised, abhorred by the nation, the servant of rulers:
 
 "Kings shall see and arise;
 princes, and they shall prostrate themselves;
-because of Yahweh, who is faithful,
-the Holy One of Israel, who has chosen you."
+because of ⟦yhwh|Yahweh|the LORD⟧, who is faithful,
+the Holy One of ⟦israel|Yisrael|Israel⟧, who has chosen you."
 
-[8] Thus says Yahweh:
+[8] Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
 "In a time of favor I have answered you;
 in a day of salvation I have helped you;
@@ -63,15 +63,15 @@ and my highways shall be raised up.
 
 [12] Behold, these shall come from afar,
 and behold, these from the north and from the west,
-and these from the land of Sinim."
+and these from the land of ⟦sinim|Sinim|Syene⟧."
 
 [13] Sing for joy, O heavens, and exult, O earth;
 break forth, O mountains, into singing!
-For Yahweh has comforted his people
+For ⟦yhwh|Yahweh|the LORD⟧ has comforted his people
 and will have compassion on his afflicted.
 
-[14] But Zion said, "Yahweh has forsaken me;
-my Lord has forgotten me."
+[14] But ⟦zion|Tziyon|Zion⟧ said, "⟦yhwh|Yahweh|The LORD⟧ has forsaken me;
+⟦adonai|Adonai|the Lord⟧ has forgotten me."
 
 [15] "Can a woman forget her nursing child,
 that she should have no compassion on the son of her womb?
@@ -86,7 +86,7 @@ your destroyers and those who laid you waste go out from you.
 
 [18] Lift up your eyes around and see;
 they all gather, they come to you.
-As I live, declares Yahweh,
+As I live, declares ⟦yhwh|Yahweh|the LORD⟧,
 you shall put them all on as an ornament;
 you shall bind them on as a bride does.
 
@@ -108,7 +108,7 @@ but who has brought up these?
 Behold, I was left alone;
 from where have these come?'"
 
-[22] Thus says Lord Yahweh:
+[22] Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧:
 
 "Behold, I will lift up my hand to the nations,
 and raise my signal to the peoples;
@@ -119,13 +119,13 @@ and your daughters shall be carried on their shoulders.
 and their queens your nursing mothers.
 With their faces to the ground they shall bow down to you,
 and lick the dust of your feet.
-Then you will know that I am Yahweh;
+Then you will know that I am ⟦yhwh|Yahweh|the LORD⟧;
 those who wait for me shall not be put to shame."
 
 [24] Can the prey be taken from the mighty,
 or the captives of a tyrant be rescued?
 
-[25] For thus says Yahweh:
+[25] For thus says ⟦yhwh|Yahweh|the LORD⟧:
 "Even the captives of the mighty shall be taken,
 and the prey of the tyrant be rescued,
 for I will contend with those who contend with you,
@@ -134,8 +134,8 @@ and I will save your children.
 [26] I will make your oppressors eat their own flesh,
 and they shall be drunk with their own blood as with wine.
 Then all flesh shall know
-that I am Yahweh your Savior,
-and your Redeemer, the Mighty One of Jacob."
+that I am ⟦yhwh|Yahweh|the LORD⟧ your Savior,
+and your Redeemer, the Mighty One of ⟦jacob|Yaaqov|Jacob⟧."
 
 ## Changes
 

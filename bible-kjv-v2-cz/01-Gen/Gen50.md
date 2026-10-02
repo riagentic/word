@@ -1,56 +1,56 @@
 # Genesis 50
 
-[1] Tu Joseph padl na tvář svého otce, plakal nad ním a líbal ho.
+[1] Tu Josef padl na tvář svého otce, plakal nad ním a líbal ho.
 
-[2] A Joseph přikázal svým služebníkům, lékařům, aby jeho otce nabalzamovali; a lékaři Israele nabalzamovali.
+[2] A Josef přikázal svým služebníkům, lékařům, aby jeho otce nabalzamovali; a lékaři ⟦israel|Jisraele|Izraele⟧ nabalzamovali.
 
-[3] Uplynulo pro něho čtyřicet dní, neboť tolik trvají dny balzamování; a Egypťané ho oplakávali sedmdesát dní.
+[3] Uplynulo pro něho čtyřicet dní, neboť tolik trvají dny balzamování; a ⟦egyptians|Micrim|Egypťané⟧ ho oplakávali sedmdesát dní.
 
-[4] Když minuly dny jeho oplakávání, promluvil Joseph k Pharaohovu domu: „Jestliže jsem nyní nalezl přízeň ve vašich očích, promluvte, prosím, do uší Pharaoha:
+[4] Když minuly dny jeho oplakávání, promluvil Josef k ⟦pharaoh|Parohovu|faraónovu⟧ domu: „Jestliže jsem nyní nalezl přízeň ve vašich očích, promluvte, prosím, do uší ⟦pharaoh|Paroha|faraóna⟧:
 
-[5] ‚Můj otec mě zavázal přísahou: „Hle, já brzy zemřu. V mém hrobě, který jsem si vytesal v zemi Canaan, tam mě pohřbíš.“ Nyní tedy mi, prosím, dovol jít nahoru a pohřbít svého otce, a potom se vrátím.‘“
+[5] ‚Můj otec mě zavázal přísahou: „Hle, já brzy zemřu. V mém hrobě, který jsem si vytesal v zemi Kenaan, tam mě pohřbíš.“ Nyní tedy mi, prosím, dovol jít nahoru a pohřbít svého otce, a potom se vrátím.‘“
 
-[6] Pharaoh řekl: „Jdi nahoru a pohřbi svého otce, jak tě zavázal přísahou.“
+[6] ⟦pharaoh|Paro|Farao⟧ řekl: „Jdi nahoru a pohřbi svého otce, jak tě zavázal přísahou.“
 
-[7] Joseph tedy šel nahoru, aby pohřbil svého otce; a s ním šli nahoru všichni Pharaohovi služebníci, starší jeho domu a všichni starší egyptské země,
+[7] Josef tedy šel nahoru, aby pohřbil svého otce; a s ním šli nahoru všichni ⟦pharaoh|Parohovi|faraónovi⟧ služebníci, starší jeho domu a všichni starší egyptské země,
 
-[8] a celý Josephův dům, jeho bratři a dům jeho otce; jen své malé děti, svá stáda ovcí a svá stáda skotu nechali v zemi Goshen.
+[8] a celý Josefův dům, jeho bratři a dům jeho otce; jen své malé děti, svá stáda ovcí a svá stáda skotu nechali v zemi Gošen.
 
 [9] S ním šly nahoru i vozy a jezdci; byl to velmi veliký průvod.
 
-[10] Když přišli k humnu Atad, které je za Jordanem, naříkali tam velikým a velmi těžkým nářkem; a on držel smutek za svého otce sedm dní.
+[10] Když přišli k humnu ⟦atad|Atad|Atád⟧, které je za ⟦jordan|Jardenem|Jordánem⟧, naříkali tam velikým a velmi těžkým nářkem; a on držel smutek za svého otce sedm dní.
 
-[11] Když obyvatelé země, Canaanci, viděli ten smutek u humna Atad, řekli: „To je těžký smutek pro Egypťany!“ Proto bylo to místo nazváno Abel-mizraim („smutek Egypta“); je za Jordanem.
+[11] Když obyvatelé země, ⟦canaanites|Kenaanim|Kenaanci⟧, viděli ten smutek u humna ⟦atad|Atad|Atád⟧, řekli: „To je těžký smutek pro ⟦egyptians|Micrim|Egypťany⟧!“ Proto bylo to místo nazváno ⟦abel-mizraim|Avel Micrajim|Ábel-misrajim⟧ („smutek ⟦egypt|Micrajim|Egypta⟧“); je za ⟦jordan|Jardenem|Jordánem⟧.
 
 [12] Jeho synové pro něho udělali, jak jim přikázal;
 
-[13] jeho synové ho totiž přenesli do země Canaan a pohřbili ho v jeskyni na poli Machpelah, na poli, které Abraham koupil do vlastnictví jako hrob od Ephrona Hittity, naproti Mamre.
+[13] jeho synové ho totiž přenesli do země Kenaan a pohřbili ho v jeskyni na poli ⟦machpelah|Machpela|Makpela⟧, na poli, které ⟦abraham|Avraham|Abraham⟧ koupil do vlastnictví jako hrob od ⟦ephron|Efrona|Efróna⟧ ⟦hittite|Chittiho|Chetejce⟧, naproti Mamre.
 
-[14] Když Joseph pohřbil svého otce, vrátil se do Egypta, on i jeho bratři a všichni, kdo s ním šli nahoru pohřbít jeho otce.
+[14] Když Josef pohřbil svého otce, vrátil se do ⟦egypt|Micrajim|Egypta⟧, on i jeho bratři a všichni, kdo s ním šli nahoru pohřbít jeho otce.
 
-[15] Když Josephovi bratři viděli, že jejich otec zemřel, řekli: „Co když na nás Joseph zanevře a plně nám oplatí všechno zlé, co jsme mu udělali?“
+[15] Když Josefovi bratři viděli, že jejich otec zemřel, řekli: „Co když na nás Josef zanevře a plně nám oplatí všechno zlé, co jsme mu udělali?“
 
-[16] Vzkázali tedy Josephovi: „Tvůj otec před svou smrtí přikázal:
+[16] Vzkázali tedy Josefovi: „Tvůj otec před svou smrtí přikázal:
 
-[17] ‚Tak řeknete Josephovi: Odpusť, prosím, provinění svých bratrů a jejich hřích, neboť ti udělali zlé.‘ A nyní, prosím, odpusť provinění služebníkům *Elohim* tvého otce.“ Joseph plakal, když k němu mluvili.
+[17] ‚Tak řeknete Josefovi: Odpusť, prosím, provinění svých bratrů a jejich hřích, neboť ti udělali zlé.‘ A nyní, prosím, odpusť provinění služebníkům ⟦elohim|Elohim|Boha⟧ tvého otce.“ Josef plakal, když k němu mluvili.
 
 [18] Potom přišli i jeho bratři, padli před ním a řekli: „Hle, jsme tvoji otroci.“
 
-[19] Ale Joseph jim řekl: „Nebojte se, jsem snad na místě *Elohim*?
+[19] Ale Josef jim řekl: „Nebojte se, jsem snad na místě ⟦elohim|Elohim|Boha⟧?
 
-[20] Vy jste proti mně zamýšleli zlé, ale *Elohim* to zamýšlel k dobrému, aby uskutečnil to, co se nyní děje – aby zachoval naživu mnoho lidí.
+[20] Vy jste proti mně zamýšleli zlé, ale ⟦elohim|Elohim|Bůh⟧ to zamýšlel k dobrému, aby uskutečnil to, co se nyní děje – aby zachoval naživu mnoho lidí.
 
 [21] Nyní tedy se nebojte; já sám budu živit vás i vaše malé děti.“ Tak je utěšil a mluvil k jejich srdcím.
 
-[22] Joseph tedy bydlel v Egyptě, on i dům jeho otce; a Joseph žil 110 let.
+[22] Josef tedy bydlel v ⟦egypt|Micrajim|Egyptě⟧, on i dům jeho otce; a Josef žil 110 let.
 
-[23] Joseph viděl Ephraimovy děti až do třetího pokolení; také děti Machira, syna Manasseha, se narodily na Josephových kolenou.
+[23] Josef viděl Efrajimovy děti až do třetího pokolení; také děti ⟦machir|Machira|Makíra⟧, syna ⟦manasseh|Menaše|Manasesa⟧, se narodily na Josefových kolenou.
 
-[24] Joseph řekl svým bratrům: „Já brzy zemřu, ale *Elohim* se vás jistě ujme a vyvede vás z této země do země, kterou přísahou slíbil Abrahamovi, Isaacovi a Jacobovi.“
+[24] Josef řekl svým bratrům: „Já brzy zemřu, ale ⟦elohim|Elohim|Bůh⟧ se vás jistě ujme a vyvede vás z této země do země, kterou přísahou slíbil ⟦abraham|Avrahamovi|Abrahamovi⟧, ⟦isaac|Jicchakovi|Izákovi⟧ a ⟦jacob|Jaakovovi|Jákobovi⟧.“
 
-[25] A Joseph zavázal syny Israele přísahou: „*Elohim* se vás jistě ujme, a vy odsud vynesete mé kosti.“
+[25] A Josef zavázal syny ⟦israel|Jisraele|Izraele⟧ přísahou: „⟦elohim|Elohim|Bůh⟧ se vás jistě ujme, a vy odsud vynesete mé kosti.“
 
-[26] Tak Joseph zemřel ve věku 110 let; nabalzamovali ho a byl uložen do rakve v Egyptě.
+[26] Tak Josef zemřel ve věku 110 let; nabalzamovali ho a byl uložen do rakve v ⟦egypt|Micrajim|Egyptě⟧.
 
 ## Změny
 

@@ -1,32 +1,32 @@
 # Deuteronomium 8
 
-[1] „Celé přikázání, které vám dnes přikazuji, budete pečlivě plnit, abyste žili, rozmnožili se, vešli a vzali do vlastnictví zemi, kterou Yahweh přísahal dát vašim otcům.
+[1] „Celé přikázání, které vám dnes přikazuji, budete pečlivě plnit, abyste žili, rozmnožili se, vešli a vzali do vlastnictví zemi, kterou ⟦yhwh|Jahve|Hospodin⟧ přísahal dát vašim otcům.
 
-[2] Budeš pamatovat na celou cestu, kterou tě Yahweh, tvůj *Elohim*, vedl těchto čtyřicet let po poušti, aby tě pokořil, aby tě vyzkoušel, aby poznal, co je v tvém srdci – zda budeš zachovávat jeho přikázání, či nikoli.
+[2] Budeš pamatovat na celou cestu, kterou tě ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, vedl těchto čtyřicet let po poušti, aby tě pokořil, aby tě vyzkoušel, aby poznal, co je v tvém srdci – zda budeš zachovávat jeho přikázání, či nikoli.
 
-[3] Pokořil tě, nechal tě hladovět a sytil tě manou, kterou jsi neznal a kterou neznali tvoji otcové, aby ti dal poznat, že člověk nežije jen z chleba, ale ze všeho, co vychází z úst Yahweh, člověk žije.
+[3] Pokořil tě, nechal tě hladovět a sytil tě manou, kterou jsi neznal a kterou neznali tvoji otcové, aby ti dal poznat, že člověk nežije jen z chleba, ale ze všeho, co vychází z úst ⟦yhwh|Jahveho|Hospodina⟧, člověk žije.
 
 [4] Tvůj oděv se na tobě neobnosil a tvá noha neoteklá těchto čtyřicet let.
 
-[5] Poznej ve svém srdci, že jako muž vychovává kázní svého syna, tak Yahweh, tvůj *Elohim*, vychovává kázní tebe.
+[5] Poznej ve svém srdci, že jako muž vychovává kázní svého syna, tak ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, vychovává kázní tebe.
 
-[6] Budeš zachovávat přikázání Yahweh, svého *Elohim*, chodit po jeho cestách a bát se ho.
+[6] Budeš zachovávat přikázání ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, chodit po jeho cestách a bát se ho.
 
-[7] Neboť Yahweh, tvůj *Elohim*, tě uvádí do dobré země – do země vodních potoků, pramenů a hlubokých zřídel, která vyvěrají v údolích i na horách;
+[7] Neboť ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, tě uvádí do dobré země – do země vodních potoků, pramenů a hlubokých zřídel, která vyvěrají v údolích i na horách;
 
 [8] do země pšenice a ječmene, vinné révy, fíkovníků a granátovníků; do země olivového oleje a medu;
 
 [9] do země, v níž budeš jíst chléb bez nedostatku – nebude ti v ní nic chybět – do země, jejíž kameny jsou železo a z jejíchž hor můžeš dobývat bronz.
 
-[10] Budeš jíst a nasytíš se a budeš dobrořečit Yahweh, svému *Elohim*, za dobrou zemi, kterou ti dal.
+[10] Budeš jíst a nasytíš se a budeš dobrořečit ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧, za dobrou zemi, kterou ti dal.
 
-[11] Měj se na pozoru, abys nezapomněl na Yahweh, svého *Elohim*, tím, že bys nezachovával jeho přikázání, jeho nařízení a jeho ustanovení, která ti dnes přikazuji;
+[11] Měj se na pozoru, abys nezapomněl na ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, tím, že bys nezachovával jeho přikázání, jeho nařízení a jeho ustanovení, která ti dnes přikazuji;
 
 [12] aby ses, až se najíš a nasytíš a vystavíš si dobré domy a budeš v nich bydlet,
 
 [13] a až se rozmnoží tvůj skot a tvé stádo, rozmnoží se tvé stříbro a tvé zlato a rozmnoží se všechno, co máš,
 
-[14] nepovýšil ve svém srdci a nezapomněl na Yahweh, svého *Elohim*, který tě vyvedl ze země Egypt, z domu otroctví,
+[14] nepovýšil ve svém srdci a nezapomněl na ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, který tě vyvedl ze země ⟦egypt|Micrajim|Egypt⟧, z domu otroctví,
 
 [15] který tě vedl velikou a hrozivou pouští – s jejími ohnivými hady a štíry, vyprahlou a žíznivou zemí, kde nebylo vody – který ti vyvedl vodu z křemenné skály,
 
@@ -34,11 +34,11 @@
 
 [17] a neřekl ve svém srdci: ‚Má síla a moc mé ruky mi získaly toto bohatství.‘
 
-[18] Budeš pamatovat na Yahweh, svého *Elohim*, neboť to on ti dává sílu získávat bohatství, aby potvrdil svou smlouvu, kterou přísahal tvým otcům, jak je tomu dnes.
+[18] Budeš pamatovat na ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, neboť to on ti dává sílu získávat bohatství, aby potvrdil svou smlouvu, kterou přísahal tvým otcům, jak je tomu dnes.
 
-[19] Jestliže někdy zapomeneš na Yahweh, svého *Elohim*, půjdeš za jinými bohy, budeš jim sloužit a klanět se jim, dosvědčuji vám dnes, že jistě zahynete.
+[19] Jestliže někdy zapomeneš na ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, půjdeš za jinými bohy, budeš jim sloužit a klanět se jim, dosvědčuji vám dnes, že jistě zahynete.
 
-[20] Jako národy, které Yahweh před vámi hubí, tak zahynete, protože jste nechtěli poslouchat hlas Yahweh, svého *Elohim*.
+[20] Jako národy, které ⟦yhwh|Jahve|Hospodin⟧ před vámi hubí, tak zahynete, protože jste nechtěli poslouchat hlas ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧.
 
 ## Změny
 

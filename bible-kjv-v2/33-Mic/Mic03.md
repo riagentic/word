@@ -1,8 +1,8 @@
 # Micah 3
 
 [1] And I said:
-Hear, you heads of Jacob
-and rulers of the house of Israel!
+Hear, you heads of ⟦jacob|Yaaqov|Jacob⟧
+and rulers of the house of ⟦israel|Yisrael|Israel⟧!
 Is it not for you to know justice? —
 
 [2] you who hate the good and love the evil,
@@ -15,12 +15,12 @@ and break their bones in pieces
 and chop them up like meat in a pot,
 like flesh in a cauldron.
 
-[4] Then they will cry to Yahweh,
+[4] Then they will cry to ⟦yhwh|Yahweh|the LORD⟧,
 but he will not answer them;
 he will hide his face from them at that time,
 because they have made their deeds evil.
 
-[5] Thus says Yahweh concerning the prophets who lead my people astray, who cry "Peace" when they have something to eat, but declare war against him who puts nothing into their mouths.
+[5] Thus says ⟦yhwh|Yahweh|the LORD⟧ concerning the prophets who lead my people astray, who cry "Peace" when they have something to eat, but declare war against him who puts nothing into their mouths.
 
 [6] Therefore it shall be night to you, without vision,
 and darkness to you, without divination.
@@ -30,32 +30,32 @@ and the day shall be black over them;
 [7] the seers shall be disgraced,
 and the diviners put to shame;
 they shall all cover their lips,
-for there is no answer from *Elohim*.
+for there is no answer from ⟦elohim|Elohim|God⟧.
 
 [8] But as for me, I am filled with power,
-with the Spirit of Yahweh,
+with the Spirit of ⟦yhwh|Yahweh|the LORD⟧,
 and with justice and might,
-to declare to Jacob his transgression
-and to Israel his sin.
+to declare to ⟦jacob|Yaaqov|Jacob⟧ his transgression
+and to ⟦israel|Yisrael|Israel⟧ his sin.
 
-[9] Hear this, you heads of the house of Jacob
-and rulers of the house of Israel,
+[9] Hear this, you heads of the house of ⟦jacob|Yaaqov|Jacob⟧
+and rulers of the house of ⟦israel|Yisrael|Israel⟧,
 who detest justice
 and make crooked all that is straight,
 
-[10] who build Zion with blood
-and Jerusalem with iniquity.
+[10] who build ⟦zion|Tziyon|Zion⟧ with blood
+and ⟦jerusalem|Yerushalayim|Jerusalem⟧ with iniquity.
 
 [11] Its heads give judgment for a bribe;
 its priests teach for a price;
 its prophets practice divination for money;
-yet they lean on Yahweh and say,
-"Is not Yahweh in the midst of us?
+yet they lean on ⟦yhwh|Yahweh|the LORD⟧ and say,
+"Is not ⟦yhwh|Yahweh|the LORD⟧ in the midst of us?
 No disaster shall come upon us."
 
 [12] Therefore because of you
-**Zion shall be plowed as a field;
-Jerusalem shall become a heap of ruins,
+**⟦zion|Tziyon|Zion⟧ shall be plowed as a field;
+⟦jerusalem|Yerushalayim|Jerusalem⟧ shall become a heap of ruins,
 and the mountain of the house a wooded height.**
 
 ## Changes

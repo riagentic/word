@@ -1,8 +1,8 @@
 # Leviticus 26
 
-[1] „Nebudete si dělat modly ani si nebudete stavět tesanou sochu nebo posvátný sloup a nebudete ve své zemi klást žádný kámen s obrazy, abyste se mu klaněli; neboť já jsem Yahweh, váš *Elohim*.
+[1] „Nebudete si dělat modly ani si nebudete stavět tesanou sochu nebo posvátný sloup a nebudete ve své zemi klást žádný kámen s obrazy, abyste se mu klaněli; neboť já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧.
 
-[2] Zachovávejte mé sabaty a mějte v úctě mou svatyni. Já jsem Yahweh.
+[2] Zachovávejte mé ⟦shabbat|šabaty|soboty⟧ a mějte v úctě mou svatyni. Já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
 [3] Budete-li žít podle mých ustanovení, zachovávat má přikázání a plnit je,
 
@@ -22,9 +22,9 @@
 
 [11] Postavím svůj příbytek uprostřed vás a má duše se vám nezošklivá.
 
-[12] Budu chodit mezi vámi a budu vaším *Elohim* a vy budete mým lidem.
+[12] Budu chodit mezi vámi a budu vaším ⟦elohim|Elohim|Bohem⟧ a vy budete mým lidem.
 
-[13] Já jsem Yahweh, váš *Elohim*, který vás vyvedl ze země Egypt, abyste nebyli jejich otroky; zlomil jsem příčníky vašeho jha a dal vám kráčet vzpřímeně.
+[13] Já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧, který vás vyvedl ze země ⟦egypt|Micrajim|Egypt⟧, abyste nebyli jejich otroky; zlomil jsem příčníky vašeho jha a dal vám kráčet vzpřímeně.
 
 [14] Jestliže mě však nebudete poslouchat a nebudete plnit všechna tato přikázání,
 
@@ -66,9 +66,9 @@
 
 [33] Rozptýlím vás mezi národy a vytasím za vámi meč; vaše země se stane pustinou a vaše města sutinami.
 
-[34] Tehdy si země vynahradí své sabaty po všechny dny svého zpustošení, zatímco vy budete v zemi svých nepřátel; tehdy si země odpočine a vynahradí si své sabaty.
+[34] Tehdy si země vynahradí své ⟦shabbat|šabaty|soboty⟧ po všechny dny svého zpustošení, zatímco vy budete v zemi svých nepřátel; tehdy si země odpočine a vynahradí si své ⟦shabbat|šabaty|soboty⟧.
 
-[35] Po všechny dny svého zpustošení bude odpočívat – odpočinkem, který neměla o vašich sabatech, když jste na ní bydleli.
+[35] Po všechny dny svého zpustošení bude odpočívat – odpočinkem, který neměla o vašich ⟦shabbat|šabatech|sobotách⟧, když jste na ní bydleli.
 
 [36] A ty z vás, kdo zůstanou, naplním malomyslností v jejich srdcích v zemích jejich nepřátel; zvuk hnaného listu je bude pronásledovat a budou utíkat, jako se utíká před mečem, a budou padat, i když nikdo nepronásleduje.
 
@@ -82,15 +82,15 @@
 
 [41] takže i já jsem odporoval jim a přivedl je do země jejich nepřátel – jestliže se tehdy jejich neobřezané srdce pokoří a přijmou trest za svou vinu,
 
-[42] pak si vzpomenu na svou smlouvu s Jacobem, také na svou smlouvu s Isaacem a také na svou smlouvu s Abrahamem si vzpomenu; a na zemi si vzpomenu.
+[42] pak si vzpomenu na svou smlouvu s ⟦jacob|Jaakovem|Jákobem⟧, také na svou smlouvu s ⟦isaac|Jicchakem|Izákem⟧ a také na svou smlouvu s ⟦abraham|Avrahamem|Abrahamem⟧ si vzpomenu; a na zemi si vzpomenu.
 
-[43] Země bude jimi opuštěna a vynahradí si své sabaty, zatímco bude ležet pustá bez nich; a oni přijmou svůj trest, protože zavrhli má nařízení a jejich duše si zošklivila má ustanovení.
+[43] Země bude jimi opuštěna a vynahradí si své ⟦shabbat|šabaty|soboty⟧, zatímco bude ležet pustá bez nich; a oni přijmou svůj trest, protože zavrhli má nařízení a jejich duše si zošklivila má ustanovení.
 
-[44] A přece přes to všechno, když budou v zemi svých nepřátel, je nezavrhnu ani se jim nezošklivím tak, abych je úplně vyhladil a porušil s nimi svou smlouvu; neboť já jsem Yahweh, jejich *Elohim*.
+[44] A přece přes to všechno, když budou v zemi svých nepřátel, je nezavrhnu ani se jim nezošklivím tak, abych je úplně vyhladil a porušil s nimi svou smlouvu; neboť já jsem ⟦yhwh|Jahve|Hospodin⟧, jejich ⟦elohim|Elohim|Bůh⟧.
 
-[45] Ale vzpomenu si kvůli nim na smlouvu s jejich předky, které jsem vyvedl ze země Egypt před očima národů, abych byl jejich *Elohim*. Já jsem Yahweh.“
+[45] Ale vzpomenu si kvůli nim na smlouvu s jejich předky, které jsem vyvedl ze země ⟦egypt|Micrajim|Egypt⟧ před očima národů, abych byl jejich ⟦elohim|Elohim|Bohem⟧. Já jsem ⟦yhwh|Jahve|Hospodin⟧.“
 
-[46] To jsou ustanovení, nařízení a zákony, které Yahweh ustanovil mezi sebou a syny Israele na hoře Sinai skrze Mosese.
+[46] To jsou ustanovení, nařízení a zákony, které ⟦yhwh|Jahve|Hospodin⟧ ustanovil mezi sebou a syny ⟦israel|Jisraele|Izraele⟧ na hoře ⟦sinai|Sinaj|Sínaj⟧ skrze ⟦moses|Moše|Mojžíše⟧.
 
 ## Změny
 

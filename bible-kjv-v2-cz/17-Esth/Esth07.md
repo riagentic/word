@@ -1,24 +1,24 @@
 # Ester 7
 
-[1] Král a Haman tedy přišli hodovat s královnou Esther.
+[1] Král a Haman tedy přišli hodovat s královnou Ester.
 
-[2] Druhého dne, když pili víno, řekl král znovu Esther: „Jaká je tvá prosba, královno Esther? Bude ti vyhověno. A oč žádáš? Třeba i o polovinu království, stane se to.“
+[2] Druhého dne, když pili víno, řekl král znovu Ester: „Jaká je tvá prosba, královno Ester? Bude ti vyhověno. A oč žádáš? Třeba i o polovinu království, stane se to.“
 
-[3] Královna Esther odpověděla: „Jestliže jsem nalezla v tvých očích přízeň, králi, a líbí-li se to králi, ať je mi na mou prosbu darován můj život a na mou žádost můj lid.
+[3] Královna Ester odpověděla: „Jestliže jsem nalezla v tvých očích přízeň, králi, a líbí-li se to králi, ať je mi na mou prosbu darován můj život a na mou žádost můj lid.
 
 [4] Neboť jsme prodáni, já i můj lid, abychom byli vyhubeni, zabiti a zahynuli. Kdybychom byli prodáni jen jako otroci a otrokyně, mlčela bych; ale naše tíseň by nevyvážila královu ztrátu.“
 
-[5] Tu král Ahasuerus řekl královně Esther: „Kdo je to a kde je ten, kdo se ve svém srdci opovážil něco takového učinit?“
+[5] Tu král ⟦ahasuerus|Achašveroš|Achašveróš⟧ řekl královně Ester: „Kdo je to a kde je ten, kdo se ve svém srdci opovážil něco takového učinit?“
 
-[6] Esther řekla: „Protivník a nepřítel je tento zlý Haman!“ Tu se Haman před králem a královnou zděsil.
+[6] Ester řekla: „Protivník a nepřítel je tento zlý Haman!“ Tu se Haman před králem a královnou zděsil.
 
-[7] Král ve svém hněvu vstal od hostiny s vínem a vyšel do palácové zahrady; Haman zůstal, aby prosil královnu Esther o svůj život, neboť viděl, že král proti němu rozhodl o zlu.
+[7] Král ve svém hněvu vstal od hostiny s vínem a vyšel do palácové zahrady; Haman zůstal, aby prosil královnu Ester o svůj život, neboť viděl, že král proti němu rozhodl o zlu.
 
-[8] Když se král vrátil z palácové zahrady do domu hostiny s vínem, Haman ležel na lehátku, na kterém spočívala Esther. Král řekl: „Chce dokonce znásilnit královnu v mé přítomnosti v mém vlastním domě?“ Jakmile to slovo vyšlo z králových úst, zahalili Hamanovi tvář.
+[8] Když se král vrátil z palácové zahrady do domu hostiny s vínem, Haman ležel na lehátku, na kterém spočívala Ester. Král řekl: „Chce dokonce znásilnit královnu v mé přítomnosti v mém vlastním domě?“ Jakmile to slovo vyšlo z králových úst, zahalili Hamanovi tvář.
 
-[9] Tu řekl Harbonah, jeden z eunuchů, kteří obsluhovali krále: „Hle, také kůl padesát loket vysoký, který Haman připravil pro Mordecaie – který mluvil ve prospěch krále –, stojí v Hamanově domě.“ Král řekl: „Pověste ho na něj.“
+[9] Tu řekl ⟦harbona|Charvona|Charbóna⟧, jeden z eunuchů, kteří obsluhovali krále: „Hle, také kůl padesát loket vysoký, který Haman připravil pro ⟦mordecai|Mordechaje|Mordokaje⟧ – který mluvil ve prospěch krále –, stojí v Hamanově domě.“ Král řekl: „Pověste ho na něj.“
 
-[10] Pověsili tedy Hamana na kůl, který připravil pro Mordecaie. Tu králův hněv opadl.
+[10] Pověsili tedy Hamana na kůl, který připravil pro ⟦mordecai|Mordechaje|Mordokaje⟧. Tu králův hněv opadl.
 
 ## Změny
 

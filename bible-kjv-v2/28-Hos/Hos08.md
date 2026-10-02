@@ -1,14 +1,14 @@
 # Hosea 8
 
-[1] Set the trumpet to your lips!
-One like a vulture is over the house of Yahweh,
+[1] Set the ⟦shofar|shofar|trumpet⟧ to your lips!
+One like a vulture is over the house of ⟦yhwh|Yahweh|the LORD⟧,
 because they have transgressed my covenant
-and rebelled against my Law.
+and rebelled against my ⟦torah|Torah|law⟧.
 
 [2] To me they cry,
-"My *Elohim*, we — Israel — know you."
+"My ⟦elohim|Elohim|God⟧, we — ⟦israel|Yisrael|Israel⟧ — know you."
 
-[3] Israel has spurned the good;
+[3] ⟦israel|Yisrael|Israel⟧ has spurned the good;
 the enemy shall pursue him.
 
 [4] They made kings, but not through me.
@@ -16,13 +16,13 @@ They set up princes, but I knew it not.
 With their silver and gold they made idols
 for their own destruction.
 
-[5] I have spurned your calf, O Samaria.
+[5] I have spurned your calf, O ⟦samaria|Shomron|Samaria⟧.
 My anger burns against them.
 How long will they be incapable of innocence?
 
-[6] For it is from Israel;
-a craftsman made it; it is not *Elohim*.
-The calf of Samaria
+[6] For it is from ⟦israel|Yisrael|Israel⟧;
+a craftsman made it; it is not ⟦elohim|Elohim|God⟧.
+The calf of ⟦samaria|Shomron|Samaria⟧
 shall be broken to pieces.
 
 [7] For they sow the wind,
@@ -32,35 +32,35 @@ it shall yield no flour;
 if it were to yield,
 strangers would devour it.
 
-[8] Israel is swallowed up;
+[8] ⟦israel|Yisrael|Israel⟧ is swallowed up;
 already they are among the nations
 as a useless vessel.
 
-[9] For they have gone up to Assyria,
+[9] For they have gone up to ⟦assyria|Ashur|Assyria⟧,
 a wild donkey wandering alone;
-Ephraim has hired lovers.
+⟦ephraim|Efrayim|Ephraim⟧ has hired lovers.
 
 [10] Though they hire allies among the nations,
 I will soon gather them up.
 And the king and princes shall soon writhe
 because of the tribute.
 
-[11] Because Ephraim has multiplied altars for sinning,
+[11] Because ⟦ephraim|Efrayim|Ephraim⟧ has multiplied altars for sinning,
 they have become to him altars for sinning.
 
-[12] Were I to write for him my laws by the ten thousands,
+[12] Were I to write for him my ⟦torah|Torah|laws⟧ by the ten thousands,
 they would be regarded as a strange thing.
 
 [13] As for my sacrificial offerings,
 they sacrifice meat and eat it,
-but Yahweh does not accept them.
+but ⟦yhwh|Yahweh|the LORD⟧ does not accept them.
 Now he will remember their iniquity
 and punish their sins;
-they shall return to Egypt.
+they shall return to ⟦egypt|Mitzrayim|Egypt⟧.
 
-[14] For Israel has forgotten his Maker
+[14] For ⟦israel|Yisrael|Israel⟧ has forgotten his Maker
 and built palaces,
-and Judah has multiplied fortified cities;
+and ⟦judah|Yehudah|Judah⟧ has multiplied fortified cities;
 so I will send a fire upon his cities,
 and it shall devour her strongholds.
 

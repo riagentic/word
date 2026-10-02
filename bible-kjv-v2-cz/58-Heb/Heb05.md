@@ -1,14 +1,14 @@
 # Židům 5
 
-[1] Každý velekněz vybraný z lidí je totiž ustanovován, aby jednal za lidi ve věcech týkajících se *Elohim*, aby přinášel dary a oběti za hříchy.
+[1] Každý velekněz vybraný z lidí je totiž ustanovován, aby jednal za lidi ve věcech týkajících se ⟦elohim|Elohim|Boha⟧, aby přinášel dary a oběti za hříchy.
 
 [2] Může mírně zacházet s nevědomými a bloudícími, protože sám je obklopen slabostí.
 
 [3] Proto je povinen přinášet oběť za své vlastní hříchy stejně jako za hříchy lidu.
 
-[4] A nikdo si tuto čest nebere sám, ale jen ten, koho povolá *Elohim*, jako byl povolán Aaron.
+[4] A nikdo si tuto čest nebere sám, ale jen ten, koho povolá ⟦elohim|Elohim|Bůh⟧, jako byl povolán ⟦aaron|Aharon|Áron⟧.
 
-[5] Tak ani *Mashiach* sám sebe nevyvýšil, aby se stal veleknězem, ale ustanovil ho ten, který mu řekl:
+[5] Tak ani ⟦mashiach|Mašiach|Kristus⟧ sám sebe nevyvýšil, aby se stal veleknězem, ale ustanovil ho ten, který mu řekl:
 
 „**Ty jsi můj Syn,
 já jsem tě dnes zplodil**“;
@@ -16,19 +16,19 @@ já jsem tě dnes zplodil**“;
 [6] jak také na jiném místě říká:
 
 „**Ty jsi kněz navěky
-podle řádu Melchizedeka**.“
+podle řádu ⟦melchizedek|Malki-Cedeka|Melchisedecha⟧**.“
 
-[7] Ve dnech svého těla *Yeshua* s hlasitým voláním a slzami přinášel modlitby a prosby tomu, který ho mohl zachránit od smrti, a byl vyslyšen pro svou bázeň.
+[7] Ve dnech svého těla ⟦yeshua|Ješua|Ježíš⟧ s hlasitým voláním a slzami přinášel modlitby a prosby tomu, který ho mohl zachránit od smrti, a byl vyslyšen pro svou bázeň.
 
 [8] Ačkoli byl synem, naučil se poslušnosti z toho, co vytrpěl.
 
 [9] A když byl učiněn dokonalým, stal se všem, kdo ho poslouchají, zdrojem věčného spasení,
 
-[10] od *Elohim* označen za velekněze podle řádu Melchizedeka.
+[10] od ⟦elohim|Elohim|Boha⟧ označen za velekněze podle řádu ⟦melchizedek|Malki-Cedeka|Melchisedecha⟧.
 
 [11] O tom máme mnoho co říci, a je těžké to vysvětlit, protože jste otupěli v slyšení.
 
-[12] Ačkoli byste už dávno měli být učiteli, potřebujete, aby vás někdo znovu učil základním principům výroků *Elohim*. Potřebujete mléko, ne pevnou stravu,
+[12] Ačkoli byste už dávno měli být učiteli, potřebujete, aby vás někdo znovu učil základním principům výroků ⟦elohim|Elohim|Božích⟧. Potřebujete mléko, ne pevnou stravu,
 
 [13] neboť každý, kdo žije z mléka, je nezkušený ve slově spravedlnosti, protože je dítě.
 

@@ -24,31 +24,31 @@
 
 [12] And if you have not been faithful in that which is another's, who will give you that which is your own?
 
-[13] **No servant can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve *Elohim* and money.**"
+[13] **No servant can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve ⟦elohim|Elohim|God⟧ and money.**"
 
-[14] The Pharisees, who were lovers of money, heard all these things, and they ridiculed him.
+[14] The ⟦pharisees|Perushim|Pharisees⟧, who were lovers of money, heard all these things, and they ridiculed him.
 
-[15] And he said to them, "You are those who justify yourselves before men, but *Elohim* knows your hearts. For what is exalted among men is an abomination in the sight of *Elohim*.
+[15] And he said to them, "You are those who justify yourselves before men, but ⟦elohim|Elohim|God⟧ knows your hearts. For what is exalted among men is an abomination in the sight of ⟦elohim|Elohim|God⟧.
 
-[16] "The Law and the Prophets were until John; since then the good news of the kingdom of *Elohim* is preached, and everyone forces his way into it.
+[16] "The ⟦torah|Torah|Law⟧ and the Prophets were until ⟦john|Yochanan|John⟧; since then the good news of the kingdom of ⟦elohim|Elohim|God⟧ is preached, and everyone forces his way into it.
 
-[17] But it is easier for heaven and earth to pass away than for one stroke of a letter of the Law to become void.
+[17] But it is easier for heaven and earth to pass away than for one stroke of a letter of the ⟦torah|Torah|Law⟧ to become void.
 
 [18] "Everyone who divorces his wife and marries another commits adultery, and he who marries a woman divorced from her husband commits adultery.
 
 [19] "There was a rich man who was clothed in purple and fine linen and who feasted sumptuously every day.
 
-[20] And at his gate was laid a poor man named Lazarus, covered with sores,
+[20] And at his gate was laid a poor man named ⟦lazarus|Elazar|Lazarus⟧, covered with sores,
 
 [21] who desired to be fed with what fell from the rich man's table. Moreover, even the dogs came and licked his sores.
 
-[22] The poor man died and was carried by the angels to Abraham's side. The rich man also died and was buried,
+[22] The poor man died and was carried by the angels to ⟦abraham|Avraham's|Abraham's⟧ side. The rich man also died and was buried,
 
-[23] and in Hades, being in torment, he lifted up his eyes and saw Abraham far off and Lazarus at his side.
+[23] and in Hades, being in torment, he lifted up his eyes and saw ⟦abraham|Avraham|Abraham⟧ far off and ⟦lazarus|Elazar|Lazarus⟧ at his side.
 
-[24] And he called out, 'Father Abraham, have mercy on me, and send Lazarus to dip the end of his finger in water and cool my tongue, for I am in anguish in this flame.'
+[24] And he called out, 'Father ⟦abraham|Avraham|Abraham⟧, have mercy on me, and send ⟦lazarus|Elazar|Lazarus⟧ to dip the end of his finger in water and cool my tongue, for I am in anguish in this flame.'
 
-[25] But Abraham said, 'Child, remember that you in your lifetime received your good things, and Lazarus in like manner bad things; but now he is comforted here, and you are in anguish.
+[25] But ⟦abraham|Avraham|Abraham⟧ said, 'Child, remember that you in your lifetime received your good things, and ⟦lazarus|Elazar|Lazarus⟧ in like manner bad things; but now he is comforted here, and you are in anguish.
 
 [26] And besides all this, between us and you a great chasm has been fixed, in order that those who would pass from here to you may not be able, and none may cross from there to us.'
 
@@ -56,11 +56,11 @@
 
 [28] for I have five brothers — so that he may warn them, lest they also come into this place of torment.'
 
-[29] But Abraham said, 'They have Moses and the Prophets; let them hear them.'
+[29] But ⟦abraham|Avraham|Abraham⟧ said, 'They have ⟦moses|Moshe|Moses⟧ and the Prophets; let them hear them.'
 
-[30] And he said, 'No, father Abraham, but if someone goes to them from the dead, they will repent.'
+[30] And he said, 'No, father ⟦abraham|Avraham|Abraham⟧, but if someone goes to them from the dead, they will repent.'
 
-[31] He said to him, '**If they do not hear Moses and the Prophets, neither will they be convinced if someone should rise from the dead.**'"
+[31] He said to him, '**If they do not hear ⟦moses|Moshe|Moses⟧ and the Prophets, neither will they be convinced if someone should rise from the dead.**'"
 
 ## Changes
 

@@ -10,9 +10,9 @@
 
 [5] Za cizím nepůjdou, ale utečou od něho, protože hlas cizích neznají.“
 
-[6] Toto podobenství jim *Yeshua* řekl, ale oni nepochopili, co jim tím říká.
+[6] Toto podobenství jim ⟦yeshua|Ješua|Ježíš⟧ řekl, ale oni nepochopili, co jim tím říká.
 
-[7] *Yeshua* jim tedy znovu řekl: „Vpravdě, vpravdě vám říkám, **já jsem dveře pro ovce.**
+[7] ⟦yeshua|Ješua|Ježíš⟧ jim tedy znovu řekl: „Vpravdě, vpravdě vám říkám, **já jsem dveře pro ovce.**
 
 [8] Všichni, kdo přišli přede mnou, jsou zloději a lupiči; ale ovce je neposlouchaly.
 
@@ -36,19 +36,19 @@
 
 [18] Nikdo mi ho nebere, ale já ho pokládám sám od sebe. Mám moc ho položit a mám moc ho opět přijmout. Tento příkaz jsem přijal od svého Otce.“
 
-[19] Kvůli těmto slovům nastal mezi Židy opět rozkol.
+[19] Kvůli těmto slovům nastal mezi ⟦jews|Jehudim|Židy⟧ opět rozkol.
 
 [20] Mnozí z nich říkali: „Má démona a šílí; proč ho posloucháte?“
 
 [21] Jiní říkali: „To nejsou slova člověka posedlého démonem. Může snad démon otevřít oči slepým?“
 
-[22] Tehdy se v Jerusalemě slavil svátek posvěcení chrámu. Byla zima
+[22] Tehdy se v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧ slavil svátek ⟦hanukkah|Chanuka|posvěcení chrámu⟧. Byla zima
 
-[23] a *Yeshua* se procházel v chrámu, v Solomonově sloupořadí.
+[23] a ⟦yeshua|Ješua|Ježíš⟧ se procházel v chrámu, v ⟦solomon|Šlomově|Šalomounově⟧ sloupořadí.
 
-[24] Židé ho tedy obstoupili a říkali mu: „Jak dlouho nás budeš napínat? Jsi-li *Mashiach*, řekni nám to otevřeně.“
+[24] ⟦jews|Jehudim|Židé⟧ ho tedy obstoupili a říkali mu: „Jak dlouho nás budeš napínat? Jsi-li ⟦mashiach|Mašiach|Mesiáš⟧, řekni nám to otevřeně.“
 
-[25] *Yeshua* jim odpověděl: „Řekl jsem vám to, a nevěříte. Skutky, které činím ve jménu svého Otce, o mně vydávají svědectví;
+[25] ⟦yeshua|Ješua|Ježíš⟧ jim odpověděl: „Řekl jsem vám to, a nevěříte. Skutky, které činím ve jménu svého Otce, o mně vydávají svědectví;
 
 [26] vy však nevěříte, protože nepatříte k mým ovcím.
 
@@ -60,17 +60,17 @@
 
 [30] **Já a Otec jsme jedno.**“
 
-[31] Židé opět zvedli kameny, aby ho ukamenovali.
+[31] ⟦jews|Jehudim|Židé⟧ opět zvedli kameny, aby ho ukamenovali.
 
-[32] *Yeshua* jim odpověděl: „Ukázal jsem vám mnoho dobrých skutků od Otce; pro který z nich mě chcete kamenovat?“
+[32] ⟦yeshua|Ješua|Ježíš⟧ jim odpověděl: „Ukázal jsem vám mnoho dobrých skutků od Otce; pro který z nich mě chcete kamenovat?“
 
-[33] Židé mu odpověděli: „Nekamenujeme tě pro dobrý skutek, ale pro rouhání, protože ty, ač jsi člověk, děláš ze sebe *Elohim*.“
+[33] ⟦jews|Jehudim|Židé⟧ mu odpověděli: „Nekamenujeme tě pro dobrý skutek, ale pro rouhání, protože ty, ač jsi člověk, děláš ze sebe ⟦elohim|Elohim|Boha⟧.“
 
-[34] *Yeshua* jim odpověděl: „Není snad napsáno ve vašem Zákoně: ‚**Řekl jsem: Jste bohové**‘?
+[34] ⟦yeshua|Ješua|Ježíš⟧ jim odpověděl: „Není snad napsáno ⟦torah|ve vaší Tóře|ve vašem zákoně⟧: ‚**Řekl jsem: Jste bohové**‘?
 
-[35] Jestliže nazval bohy ty, k nimž přišlo slovo *Elohim* – a Písmo nemůže být zrušeno –
+[35] Jestliže nazval bohy ty, k nimž přišlo slovo ⟦elohim|Elohim|Boží⟧ – a Písmo nemůže být zrušeno –
 
-[36] říkáte o tom, kterého Otec posvětil a poslal na svět: ‚Rouháš se,‘ protože jsem řekl: ‚Jsem Syn *Elohim*‘?
+[36] říkáte o tom, kterého Otec posvětil a poslal na svět: ‚Rouháš se,‘ protože jsem řekl: ‚Jsem Syn ⟦elohim|Elohim|Boží⟧‘?
 
 [37] Nečiním-li skutky svého Otce, nevěřte mi;
 
@@ -78,9 +78,9 @@
 
 [39] Opět ho chtěli zatknout, ale on jim vyklouzl z rukou.
 
-[40] Odešel opět za Jordan na místo, kde John zpočátku ponořoval, a tam zůstal.
+[40] Odešel opět za ⟦jordan|Jarden|Jordán⟧ na místo, kde ⟦john|Jochanan|Jan⟧ zpočátku ⟦immerse|ponořoval|křtil⟧, a tam zůstal.
 
-[41] Mnozí k němu přicházeli a říkali: „John sice neučinil žádné znamení, ale všechno, co John o tomto člověku řekl, byla pravda.“
+[41] Mnozí k němu přicházeli a říkali: „⟦john|Jochanan|Jan⟧ sice neučinil žádné znamení, ale všechno, co ⟦john|Jochanan|Jan⟧ o tomto člověku řekl, byla pravda.“
 
 [42] A mnozí tam v něho uvěřili.
 

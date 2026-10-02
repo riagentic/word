@@ -1,22 +1,22 @@
 # Genesis 3
 
-[1] Had byl chytřejší než všechna divoká zvěř pole, kterou Yahweh *Elohim* učinil. Řekl ženě: „Opravdu *Elohim* řekl: ‚Nesmíte jíst z žádného stromu zahrady‘?“
+[1] Had byl chytřejší než všechna divoká zvěř pole, kterou ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ učinil. Řekl ženě: „Opravdu ⟦elohim|Elohim|Bůh⟧ řekl: ‚Nesmíte jíst z žádného stromu zahrady‘?“
 
 [2] Žena hadovi řekla: „Z ovoce stromů zahrady jíst smíme;
 
-[3] ale o ovoci stromu, který je uprostřed zahrady, *Elohim* řekl: ‚Nebudete z něho jíst a nebudete se ho dotýkat, jinak zemřete.‘“
+[3] ale o ovoci stromu, který je uprostřed zahrady, ⟦elohim|Elohim|Bůh⟧ řekl: ‚Nebudete z něho jíst a nebudete se ho dotýkat, jinak zemřete.‘“
 
 [4] Had ženě řekl: „Jistě nezemřete.
 
-[5] Neboť *Elohim* ví, že v den, kdy z něho pojíte, otevřou se vám oči a budete jako *Elohim*, znající dobré a zlé.“
+[5] Neboť ⟦elohim|Elohim|Bůh⟧ ví, že v den, kdy z něho pojíte, otevřou se vám oči a budete jako ⟦elohim|Elohim|Bůh⟧, znající dobré a zlé.“
 
 [6] Když žena viděla, že strom je dobrý k jídlu a rozkoší pro oči a že ten strom je žádoucí pro získání prozíravosti, vzala z jeho ovoce a jedla; a dala také svému muži, který byl s ní, a on jedl.
 
 [7] Tu se oběma otevřely oči a poznali, že jsou nazí; sešili fíkové listy a udělali si bederní roušky.
 
-[8] Potom uslyšeli zvuk Yahweh *Elohim*, jak se prochází po zahradě ve vánku dne, a člověk a jeho žena se skryli před tváří Yahweh *Elohim* mezi stromy zahrady.
+[8] Potom uslyšeli zvuk ⟦yhwh|Jahveho|Hospodina⟧ ⟦elohim|Elohim|Boha⟧, jak se prochází po zahradě ve vánku dne, a člověk a jeho žena se skryli před tváří ⟦yhwh|Jahveho|Hospodina⟧ ⟦elohim|Elohim|Boha⟧ mezi stromy zahrady.
 
-[9] Yahweh *Elohim* zavolal na člověka a řekl mu: „Kde jsi?“
+[9] ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ zavolal na člověka a řekl mu: „Kde jsi?“
 
 [10] Odpověděl: „Slyšel jsem tvůj zvuk v zahradě a bál jsem se, protože jsem nahý; a skryl jsem se.“
 
@@ -24,9 +24,9 @@
 
 [12] Člověk řekl: „Žena, kterou jsi mi dal, aby byla se mnou – ona mi dala ze stromu, a já jsem jedl.“
 
-[13] Tu Yahweh *Elohim* řekl ženě: „Co jsi to udělala?“ Žena řekla: „Had mě oklamal, a já jsem jedla.“
+[13] Tu ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ řekl ženě: „Co jsi to udělala?“ Žena řekla: „Had mě oklamal, a já jsem jedla.“
 
-[14] Yahweh *Elohim* řekl hadovi:
+[14] ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ řekl hadovi:
 
 „Protože jsi to udělal,
 buď proklet víc než všechen dobytek
@@ -64,15 +64,15 @@ neboť z ní jsi byl vzat;
 vždyť prach jsi
 a v prach se navrátíš.“
 
-[20] Člověk dal své ženě jméno Eve, protože ona byla matkou všech živých.
+[20] Člověk dal své ženě jméno ⟦eve|Chavva|Eva⟧, protože ona byla matkou všech živých.
 
-[21] Yahweh *Elohim* udělal člověku a jeho ženě suknice z kůže a oblékl je.
+[21] ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ udělal člověku a jeho ženě suknice z kůže a oblékl je.
 
-[22] Potom Yahweh *Elohim* řekl: „Hle, člověk se stal jako jeden z nás, znající dobré a zlé. Nyní ať nevztáhne ruku, nevezme také ze stromu života, nejí a nežije navěky“ –
+[22] Potom ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ řekl: „Hle, člověk se stal jako jeden z nás, znající dobré a zlé. Nyní ať nevztáhne ruku, nevezme také ze stromu života, nejí a nežije navěky“ –
 
-[23] a tak ho Yahweh *Elohim* vyslal ze zahrady Eden, aby obdělával půdu, z níž byl vzat.
+[23] a tak ho ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ vyslal ze zahrady ⟦eden|Eden|Éden⟧, aby obdělával půdu, z níž byl vzat.
 
-[24] Vyhnal člověka; a na východ od zahrady Eden postavil cheruby a plamen stále se otáčejícího meče, aby střežili cestu ke stromu života.
+[24] Vyhnal člověka; a na východ od zahrady ⟦eden|Eden|Éden⟧ postavil ⟦cherubim|keruvim|cheruby⟧ a plamen stále se otáčejícího meče, aby střežili cestu ke stromu života.
 
 ## Změny
 

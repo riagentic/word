@@ -1,26 +1,26 @@
 # Exodus 15
 
-[1] Then Moses and the children of Israel sang this song to Yahweh, saying:
+[1] Then ⟦moses|Moshe|Moses⟧ and the children of ⟦israel|Yisrael|Israel⟧ sang this song to ⟦yhwh|Yahweh|the LORD⟧, saying:
 
-"I will sing to Yahweh, for he has triumphed gloriously;
+"I will sing to ⟦yhwh|Yahweh|the LORD⟧, for he has triumphed gloriously;
 the horse and its rider he has hurled into the sea.
 
-[2] Yah is my strength and my song;
+[2] ⟦yah|Yah|The LORD⟧ is my strength and my song;
 he has become my salvation.
-This is my *Elohim*, and I will praise him;
-my father's *Elohim*, and I will exalt him.
+This is my ⟦el|El|God⟧, and I will praise him;
+my father's ⟦elohim|Elohim|God⟧, and I will exalt him.
 
-[3] Yahweh is a warrior;
-Yahweh is his name.
+[3] ⟦yhwh|Yahweh|The LORD⟧ is a warrior;
+⟦yhwh|Yahweh|the LORD⟧ is his name.
 
-[4] Pharaoh's chariots and his army he has cast into the sea,
-and his chosen officers are sunk in the Sea of Reeds.
+[4] ⟦pharaoh|Paroh's|Pharaoh's⟧ chariots and his army he has cast into the sea,
+and his chosen officers are sunk in the ⟦red-sea|Sea of Reeds|Red Sea⟧.
 
 [5] The deeps covered them;
 they went down into the depths like a stone.
 
-[6] Your right hand, O Yahweh, is majestic in power;
-your right hand, O Yahweh, shatters the enemy.
+[6] Your right hand, O ⟦yhwh|Yahweh|LORD⟧, is majestic in power;
+your right hand, O ⟦yhwh|Yahweh|LORD⟧, shatters the enemy.
 
 [7] In the greatness of your majesty you threw down your adversaries;
 you sent forth your burning wrath — it consumed them like stubble.
@@ -39,7 +39,7 @@ my hand shall dispossess them.'
 [10] You blew with your wind — the sea covered them;
 they sank like lead in the mighty waters.
 
-[11] Who is like you among the gods, O Yahweh?
+[11] Who is like you among the gods, O ⟦yhwh|Yahweh|LORD⟧?
 Who is like you — majestic in holiness,
 fearful in praises, doing wonders?
 
@@ -50,44 +50,44 @@ the earth swallowed them.
 in your strength you guided them to your holy dwelling.
 
 [14] Peoples have heard; they tremble;
-anguish has seized the inhabitants of Philistia.
+anguish has seized the inhabitants of ⟦philistia|Peleshet|Philistia⟧.
 
 [15] Then were the chiefs of Edom dismayed;
-trembling seized the leaders of Moab;
-all the inhabitants of Canaan melted away.
+trembling seized the leaders of ⟦moab|Moav|Moab⟧;
+all the inhabitants of ⟦canaan|Kenaan|Canaan⟧ melted away.
 
 [16] Terror and dread fall upon them;
 by the greatness of your arm they are still as a stone —
-until your people pass by, O Yahweh,
+until your people pass by, O ⟦yhwh|Yahweh|LORD⟧,
 until the people whom you have acquired pass by.
 
 [17] You will bring them in and plant them
 on the mountain of your inheritance,
-the place, O Yahweh, which you made for your dwelling,
-the sanctuary, O Lord, which your hands established.
+the place, O ⟦yhwh|Yahweh|LORD⟧, which you made for your dwelling,
+the sanctuary, O ⟦adonai|Adonai|Lord⟧, which your hands established.
 
-[18] Yahweh shall reign forever and ever."
+[18] ⟦yhwh|Yahweh|The LORD⟧ shall reign forever and ever."
 
-[19] For the horse of Pharaoh with his chariots and his cavalry went into the sea, and Yahweh brought back the waters of the sea upon them; but the children of Israel walked on dry ground in the midst of the sea.
+[19] For the horse of ⟦pharaoh|Paroh|Pharaoh⟧ with his chariots and his cavalry went into the sea, and ⟦yhwh|Yahweh|the LORD⟧ brought back the waters of the sea upon them; but the children of ⟦israel|Yisrael|Israel⟧ walked on dry ground in the midst of the sea.
 
-[20] Then Miriam the prophetess, the sister of Aaron, took a timbrel in her hand; and all the women went out after her with timbrels and with dances.
+[20] Then ⟦miriam|Miryam|Miriam⟧ the prophetess, the sister of ⟦aaron|Aharon|Aaron⟧, took a timbrel in her hand; and all the women went out after her with timbrels and with dances.
 
-[21] And Miriam answered them:
+[21] And ⟦miriam|Miryam|Miriam⟧ answered them:
 
-"Sing to Yahweh, for he has triumphed gloriously;
+"Sing to ⟦yhwh|Yahweh|the LORD⟧, for he has triumphed gloriously;
 the horse and its rider he has hurled into the sea."
 
-[22] Moses led Israel onward from the Sea of Reeds, and they went out into the wilderness of Shur; they went three days in the wilderness and found no water.
+[22] ⟦moses|Moshe|Moses⟧ led ⟦israel|Yisrael|Israel⟧ onward from the ⟦red-sea|Sea of Reeds|Red Sea⟧, and they went out into the wilderness of Shur; they went three days in the wilderness and found no water.
 
 [23] When they came to Marah, they could not drink the waters of Marah because they were bitter; therefore its name was called Marah.
 
-[24] The people grumbled against Moses, saying, "What shall we drink?"
+[24] The people grumbled against ⟦moses|Moshe|Moses⟧, saying, "What shall we drink?"
 
-[25] He cried out to Yahweh, and Yahweh showed him a tree, and he threw it into the water, and the water became sweet.
+[25] He cried out to ⟦yhwh|Yahweh|the LORD⟧, and ⟦yhwh|Yahweh|the LORD⟧ showed him a tree, and he threw it into the water, and the water became sweet.
 
 There he made for them a statute and an ordinance, and there he tested them,
 
-[26] and said, "If you will diligently listen to the voice of Yahweh your *Elohim*, and do what is right in his eyes, and give ear to his commandments, and keep all his statutes, then I will put none of the diseases upon you that I put upon the Egyptians; for I am Yahweh, your healer."
+[26] and said, "If you will diligently listen to the voice of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, and do what is right in his eyes, and give ear to his commandments, and keep all his statutes, then I will put none of the diseases upon you that I put upon the ⟦egyptians|Mitzrim|Egyptians⟧; for I am ⟦yhwh|Yahweh|the LORD⟧, your healer."
 
 [27] Then they came to Elim, where there were twelve springs of water and seventy palm trees; and they encamped there beside the waters.
 
@@ -95,6 +95,7 @@ There he made for them a statute and an ordinance, and there he tested them,
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
+- **"my God" → "my El"** (v2) — Hebrew אֵלִי *Eli*; "my father's *Elohim*" in the next line is אֱלֹהֵי אָבִי.
 - **"Red sea" → "Sea of Reeds"** (v4, 22) — Hebrew יַם־סוּף *Yam Suph*, as in 10:19.
 - **"the LORD is my strength and song" → "Yah is my strength and my song"** (v2) — Hebrew עָזִּי וְזִמְרָת יָהּ *ozzi wezimrat Yah*. *Yah* is the short form of YHWH (used in names like Hallelu-Yah "praise Yah"). Preserved as distinct form.
 - **"habitation" → "praise"** (v2) — Hebrew וְאַנְוֵהוּ *we-anwehu*. Debated:

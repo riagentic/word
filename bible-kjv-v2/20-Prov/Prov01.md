@@ -1,6 +1,6 @@
 # Proverbs 1
 
-[1] The proverbs of Solomon, son of David, king of Israel:
+[1] The proverbs of ⟦solomon|Shlomo|Solomon⟧, son of David, king of ⟦israel|Yisrael|Israel⟧:
 
 [2] to know wisdom and instruction,
 to discern the sayings of understanding,
@@ -17,7 +17,7 @@ and the one who understands obtain guidance,
 [6] to understand a parable and a figure,
 the words of the wise and their riddles.
 
-[7] The fear of Yahweh is the beginning of knowledge;
+[7] The fear of ⟦yhwh|Yahweh|the LORD⟧ is the beginning of knowledge;
 fools despise wisdom and discipline.
 
 [8] Hear, my son, your father's instruction,
@@ -87,7 +87,7 @@ when distress and anguish come upon you.
 they will seek me diligently but will not find me.
 
 [29] Because they hated knowledge
-and did not choose the fear of Yahweh,
+and did not choose the fear of ⟦yhwh|Yahweh|the LORD⟧,
 
 [30] would have none of my counsel
 and despised all my reproof,

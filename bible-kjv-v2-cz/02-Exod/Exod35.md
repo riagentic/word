@@ -1,14 +1,14 @@
 # Exodus 35
 
-[1] Moses shromáždil celé společenství synů Israele a řekl jim: „Toto jsou věci, které vám Yahweh přikázal činit:
+[1] ⟦moses|Moše|Mojžíš⟧ shromáždil celé společenství synů ⟦israel|Jisraele|Izraele⟧ a řekl jim: „Toto jsou věci, které vám ⟦yhwh|Jahve|Hospodin⟧ přikázal činit:
 
-[2] Šest dní se bude pracovat; ale sedmý den vám bude svatým dnem, sabatem slavnostního odpočinku pro Yahweh. Kdokoli v něm vykoná nějakou práci, bude usmrcen.
+[2] Šest dní se bude pracovat; ale sedmý den vám bude svatým dnem, ⟦shabbat|šabatem|sobotou⟧ slavnostního odpočinku pro ⟦yhwh|Jahveho|Hospodina⟧. Kdokoli v něm vykoná nějakou práci, bude usmrcen.
 
-[3] V den sabatu nerozděláte oheň v žádném ze svých obydlí.“
+[3] V den ⟦shabbat|šabatu|soboty⟧ nerozděláte oheň v žádném ze svých obydlí.“
 
-[4] Moses promluvil k celému společenství synů Israele: „Toto přikázal Yahweh:
+[4] ⟦moses|Moše|Mojžíš⟧ promluvil k celému společenství synů ⟦israel|Jisraele|Izraele⟧: „Toto přikázal ⟦yhwh|Jahve|Hospodin⟧:
 
-[5] ‚Vezměte ze svého středu příspěvek pro Yahweh; každý, kdo je ochotného srdce, ať přinese příspěvek pro Yahweh: zlato, stříbro a bronz;
+[5] ‚Vezměte ze svého středu příspěvek pro ⟦yhwh|Jahveho|Hospodina⟧; každý, kdo je ochotného srdce, ať přinese příspěvek pro ⟦yhwh|Jahveho|Hospodina⟧: zlato, stříbro a bronz;
 
 [6] modrou, purpurovou a karmínovou přízi, jemné plátno a kozí srst;
 
@@ -16,13 +16,13 @@
 
 [8] olej na svícení a koření pro olej pomazání a pro vonné kadidlo;
 
-[9] onyxové kameny a kameny k zasazení pro efod a pro náprsník.
+[9] onyxové kameny a kameny k zasazení pro ⟦ephod|efod|nárameník⟧ a pro náprsník.
 
-[10] Každý dovedný mezi vámi ať přijde a udělá všechno, co Yahweh přikázal:
+[10] Každý dovedný mezi vámi ať přijde a udělá všechno, co ⟦yhwh|Jahve|Hospodin⟧ přikázal:
 
 [11] příbytek s jeho stanem a jeho přikrývkou, jeho spony, jeho rámy, jeho svlaky, jeho sloupy a jeho podstavce;
 
-[12] truhlu a její tyče, slitovnici a oponu zástěny;
+[12] truhlu a její tyče, ⟦mercy-seat|kapporet|příkrov⟧ a oponu zástěny;
 
 [13] stůl a jeho tyče se všemi jeho nádobami a chléb Přítomnosti;
 
@@ -36,37 +36,37 @@
 
 [18] kolíky příbytku a kolíky nádvoří a jejich provazy;
 
-[19] jemně tkaná roucha pro službu ve svatyni – svatá roucha pro kněze Aarona a roucha jeho synů, aby sloužili jako kněží.‘“
+[19] jemně tkaná roucha pro službu ve svatyni – svatá roucha pro kněze ⟦aaron|Aharona|Árona⟧ a roucha jeho synů, aby sloužili jako kněží.‘“
 
-[20] Potom celé společenství synů Israele odešlo od Mosese.
+[20] Potom celé společenství synů ⟦israel|Jisraele|Izraele⟧ odešlo od ⟦moses|Moše|Mojžíše⟧.
 
-[21] Každý, koho pohnulo srdce, a každý, koho jeho duch učinil ochotným, přišel a přinesl příspěvek pro Yahweh na dílo stanu setkávání, na veškerou jeho službu a na svatá roucha.
+[21] Každý, koho pohnulo srdce, a každý, koho jeho duch učinil ochotným, přišel a přinesl příspěvek pro ⟦yhwh|Jahveho|Hospodina⟧ na dílo stanu setkávání, na veškerou jeho službu a na svatá roucha.
 
-[22] Přicházeli muži i ženy – všichni, kdo byli ochotného srdce – a přinášeli spony, náušnice, prsteny a přívěsky, všelijaké zlaté předměty; každý muž, který přinášel oběť pozdvižení ze zlata pro Yahweh.
+[22] Přicházeli muži i ženy – všichni, kdo byli ochotného srdce – a přinášeli spony, náušnice, prsteny a přívěsky, všelijaké zlaté předměty; každý muž, který přinášel oběť pozdvižení ze zlata pro ⟦yhwh|Jahveho|Hospodina⟧.
 
 [23] Každý muž, který měl u sebe modrou, purpurovou či karmínovou přízi nebo jemné plátno nebo kozí srst nebo vydělané beraní kůže nebo jemnou kůži, je přinesl.
 
-[24] Každý, kdo mohl dát příspěvek ze stříbra nebo bronzu, přinesl příspěvek pro Yahweh; a každý, kdo měl u sebe akáciové dřevo pro jakoukoli práci služby, přinesl je.
+[24] Každý, kdo mohl dát příspěvek ze stříbra nebo bronzu, přinesl příspěvek pro ⟦yhwh|Jahveho|Hospodina⟧; a každý, kdo měl u sebe akáciové dřevo pro jakoukoli práci služby, přinesl je.
 
 [25] Každá dovedná žena předla svýma rukama a přinášely, co napředly: modrou, purpurovou a karmínovou přízi a jemné plátno.
 
 [26] Všechny ženy, jejichž srdce je pohnulo dovedností, předly kozí srst.
 
-[27] Předáci přinesli onyxové kameny a kameny k zasazení pro efod a náprsník,
+[27] Předáci přinesli onyxové kameny a kameny k zasazení pro ⟦ephod|efod|nárameník⟧ a náprsník,
 
 [28] a koření a olej na svícení, pro olej pomazání a pro vonné kadidlo.
 
-[29] Synové Israele přinesli dobrovolný dar pro Yahweh – každý muž i žena, jejichž srdce je pohnulo, aby přinesli něco pro všechno dílo, které Yahweh přikázal skrze Mosese.
+[29] Synové ⟦israel|Jisraele|Izraele⟧ přinesli dobrovolný dar pro ⟦yhwh|Jahveho|Hospodina⟧ – každý muž i žena, jejichž srdce je pohnulo, aby přinesli něco pro všechno dílo, které ⟦yhwh|Jahve|Hospodin⟧ přikázal skrze ⟦moses|Moše|Mojžíše⟧.
 
-[30] Moses řekl synům Israele: „Hleďte, Yahweh povolal jménem Betzalela, syna Uriho, syna Hura, z kmene Judah;
+[30] ⟦moses|Moše|Mojžíš⟧ řekl synům ⟦israel|Jisraele|Izraele⟧: „Hleďte, ⟦yhwh|Jahve|Hospodin⟧ povolal jménem ⟦bezalel|Becalela|Besaleela⟧, syna ⟦uri|Uriho|Urího⟧, syna ⟦hur|Chura|Chúra⟧, z kmene ⟦judah|Jehudy|Judy⟧;
 
-[31] a naplnil ho Duchem *Elohim*, dovedností, porozuměním, poznáním a zručností v každém řemesle –
+[31] a naplnil ho Duchem ⟦elohim|Elohim|Božím⟧, dovedností, porozuměním, poznáním a zručností v každém řemesle –
 
 [32] aby vymýšlel návrhy, aby pracoval ve zlatě, stříbře a bronzu,
 
 [33] v broušení kamenů k zasazení a v řezbě dřeva; aby prováděl každou umnou řemeslnou práci.
 
-[34] Také mu vložil do srdce schopnost vyučovat, jemu i Oholiabovi, synu Ahisamachovu, z kmene Dan.
+[34] Také mu vložil do srdce schopnost vyučovat, jemu i ⟦oholiab|Oholiavovi|Oholíabovi⟧, synu ⟦ahisamach|Achisamachovu|Achísamakovu⟧, z kmene Dan.
 
 [35] Naplnil je dovedností k vykonávání každé práce, ať řemeslníka, návrháře, vyšívače v modré, purpurové a karmínové přízi a v jemném plátně, nebo tkalce – kohokoli, kdo koná jakoukoli práci nebo navrhuje umné dílo.“
 

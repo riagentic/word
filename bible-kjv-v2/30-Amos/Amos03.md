@@ -1,6 +1,6 @@
 # Amos 3
 
-[1] Hear this word that Yahweh has spoken against you, O people of Israel, against the whole family that I brought up out of the land of Egypt:
+[1] Hear this word that ⟦yhwh|Yahweh|the LORD⟧ has spoken against you, O people of ⟦israel|Yisrael|Israel⟧, against the whole family that I brought up out of the land of ⟦egypt|Mitzrayim|Egypt⟧:
 
 [2] "You only have I known
 of all the families of the earth;
@@ -20,48 +20,48 @@ when there is no trap for it?
 Does a snare spring up from the ground,
 when it has taken nothing?
 
-[6] Is a trumpet blown in a city,
+[6] Is a ⟦shofar|shofar|trumpet⟧ blown in a city,
 and the people are not afraid?
 Does disaster come to a city,
-unless Yahweh has done it?
+unless ⟦yhwh|Yahweh|the LORD⟧ has done it?
 
-[7] "For Lord Yahweh does nothing
+[7] "For ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧ does nothing
 without revealing his secret
 to his servants the prophets.
 
 [8] The lion has roared;
 who will not fear?
-Lord Yahweh has spoken;
+⟦adonai-yhwh|Lord Yahweh|The Lord GOD⟧ has spoken;
 who can but prophesy?"
 
-[9] Proclaim to the strongholds in Ashdod and to the strongholds in the land of Egypt, and say, "Assemble yourselves on the mountains of Samaria, and see the great tumults within her, and the oppressed in her midst."
+[9] Proclaim to the strongholds in Ashdod and to the strongholds in the land of ⟦egypt|Mitzrayim|Egypt⟧, and say, "Assemble yourselves on the mountains of ⟦samaria|Shomron|Samaria⟧, and see the great tumults within her, and the oppressed in her midst."
 
-[10] "They do not know how to do right," declares Yahweh, "those who store up violence and robbery in their strongholds."
+[10] "They do not know how to do right," declares ⟦yhwh|Yahweh|the LORD⟧, "those who store up violence and robbery in their strongholds."
 
-[11] Therefore thus says Lord Yahweh:
+[11] Therefore thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧:
 
 "An adversary shall surround the land
 and bring down your defenses from you,
 and your strongholds shall be plundered."
 
-[12] Thus says Yahweh:
+[12] Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
 "As the shepherd rescues from the mouth of the lion
 two legs, or a piece of an ear,
-so shall the people of Israel who dwell in Samaria be rescued,
+so shall the people of ⟦israel|Yisrael|Israel⟧ who dwell in ⟦samaria|Shomron|Samaria⟧ be rescued,
 with the corner of a couch and part of a bed.
 
-[13] "Hear, and testify against the house of Jacob," declares Lord Yahweh, the *Elohim* of Hosts,
+[13] "Hear, and testify against the house of ⟦jacob|Yaaqov|Jacob⟧," declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧, the ⟦elohim|Elohim|God⟧ of Hosts,
 
-[14] "that on the day I punish Israel for his transgressions,
-I will punish the altars of Bethel,
+[14] "that on the day I punish ⟦israel|Yisrael|Israel⟧ for his transgressions,
+I will punish the altars of ⟦bethel|Beit El|Bethel⟧,
 and the horns of the altar shall be cut off
 and fall to the ground.
 
 [15] I will strike the winter house along with the summer house,
 and the houses of ivory shall perish,
 and the great houses shall come to an end,"
-declares Yahweh.
+declares ⟦yhwh|Yahweh|the LORD⟧.
 
 ## Changes
 

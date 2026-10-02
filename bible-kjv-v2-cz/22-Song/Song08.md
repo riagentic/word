@@ -14,7 +14,7 @@ Dala bych ti pít kořeněné víno,
 [3] Jeho levice je pod mou hlavou
 a jeho pravice mě objímá!
 
-[4] Zapřísahám vás, dcery Jerusalema,
+[4] Zapřísahám vás, dcery ⟦jerusalem|Jerušalajim|Jeruzaléma⟧,
 abyste nebudily ani nevyrušovaly lásku,
 dokud se jí nezlíbí.
 
@@ -28,9 +28,9 @@ tam rodila ta, která tě porodila.
 [6] Polož si mě jako pečeť na své srdce,
 jako pečeť na svou paži,
 neboť láska je silná jako smrt,
-žárlivost nelítostná jako Sheol.
+žárlivost nelítostná jako ⟦sheol|Šeol|podsvětí⟧.
 Její záblesky jsou záblesky ohně,
-sám plamen Yah.
+sám plamen ⟦yah|Jah|Hospodinův⟧.
 
 [7] Mnohé vody nemohou uhasit lásku
 ani ji řeky nezaplaví.
@@ -53,12 +53,12 @@ a mé prsy byly jako věže;
 tehdy jsem byla v jeho očích
 jako ta, která nalézá pokoj.
 
-[11] Solomon měl vinici v Baal-hamonu;
+[11] ⟦solomon|Šlomo|Šalomoun⟧ měl vinici v ⟦baal-hamon|Baal Hamonu|Baal-hamónu⟧;
 pronajal vinici strážcům;
 každý měl za její ovoce přinést tisíc stříbrných.
 
 [12] Má vinice, má vlastní, je přede mnou;
-ty, Solomone, si nech tisíc
+ty, ⟦solomon|Šlomo|Šalomoune⟧, si nech tisíc
 a strážci ovoce dvě stě.
 
 [13] Ty, která přebýváš v zahradách,

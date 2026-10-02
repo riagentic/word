@@ -2,9 +2,9 @@
 
 [1] Then I saw **a new heaven and a new earth**, for the first heaven and the first earth had passed away, and the sea was no more.
 
-[2] And I saw the holy city, **new Jerusalem**, coming down out of heaven from *Elohim*, prepared as a bride adorned for her husband.
+[2] And I saw the holy city, **new ⟦jerusalem|Yerushalayim|Jerusalem⟧**, coming down out of heaven from ⟦elohim|Elohim|God⟧, prepared as a bride adorned for her husband.
 
-[3] And I heard a loud voice from the throne saying, "**Behold, the dwelling place of *Elohim* is with man. He will dwell with them, and they will be his people, and *Elohim* himself will be with them as their *Elohim*.**
+[3] And I heard a loud voice from the throne saying, "**Behold, the dwelling place of ⟦elohim|Elohim|God⟧ is with man. He will dwell with them, and they will be his people, and ⟦elohim|Elohim|God⟧ himself will be with them as their ⟦elohim|Elohim|God⟧.**
 
 **[4] He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away.**"
 
@@ -12,17 +12,17 @@
 
 [6] And he said to me, "**It is done! I am the Alpha and the Omega, the beginning and the end. To the thirsty I will give from the spring of the water of life without payment.**
 
-[7] The one who conquers will have this heritage, and **I will be his *Elohim* and he will be my son**.
+[7] The one who conquers will have this heritage, and **I will be his ⟦elohim|Elohim|God⟧ and he will be my son**.
 
 [8] But as for the cowardly, the faithless, the detestable, as for murderers, the sexually immoral, sorcerers, idolaters, and all liars, their portion will be in the lake that burns with fire and sulfur, which is the second death."
 
 [9] Then came one of the seven angels who had the seven bowls full of the seven last plagues and spoke to me, saying, "Come, I will show you the Bride, the wife of the Lamb."
 
-[10] And he carried me away in the Spirit to a great, high mountain, and showed me the holy city Jerusalem coming down out of heaven from *Elohim*,
+[10] And he carried me away in the Spirit to a great, high mountain, and showed me the holy city ⟦jerusalem|Yerushalayim|Jerusalem⟧ coming down out of heaven from ⟦elohim|Elohim|God⟧,
 
-[11] having the glory of *Elohim*, its radiance like a most rare jewel, like a jasper, clear as crystal.
+[11] having the glory of ⟦elohim|Elohim|God⟧, its radiance like a most rare jewel, like a jasper, clear as crystal.
 
-[12] It had a great, high wall, with twelve gates, and at the gates twelve angels, and on the gates the names of the twelve tribes of the sons of Israel were inscribed —
+[12] It had a great, high wall, with twelve gates, and at the gates twelve angels, and on the gates the names of the twelve tribes of the sons of ⟦israel|Yisrael|Israel⟧ were inscribed —
 
 [13] on the east three gates, on the north three gates, on the south three gates, and on the west three gates.
 
@@ -42,9 +42,9 @@
 
 [21] And the twelve gates were twelve pearls, each of the gates made of a single pearl, and the street of the city was pure gold, transparent as glass.
 
-[22] And I saw no temple in the city, for its temple is the Lord *Elohim* the Almighty and the Lamb.
+[22] And I saw no temple in the city, for its temple is the Lord ⟦elohim|Elohim|God⟧ the Almighty and the Lamb.
 
-[23] And the city has no need of sun or moon to shine on it, for the glory of *Elohim* gives it light, and its lamp is the Lamb.
+[23] And the city has no need of sun or moon to shine on it, for the glory of ⟦elohim|Elohim|God⟧ gives it light, and its lamp is the Lamb.
 
 [24] By its light will the nations walk, and the kings of the earth will bring their glory into it,
 

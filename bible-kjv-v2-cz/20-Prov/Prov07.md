@@ -47,7 +47,7 @@ a dnes jsem splnila své sliby;
 dychtivě tě hledat, a našla jsem tě.
 
 [16] Pokryla jsem své lůžko přikrývkami,
-barevnými plátny z egyptské bavlny;
+barevnými plátny ⟦egypt|z bavlny Micrajim|z egyptské bavlny⟧;
 
 [17] navoněla jsem své lože myrhou,
 aloí a skořicí.
@@ -81,7 +81,7 @@ nezabloudi na její stezky,
 [26] neboť mnoho obětí srazila k zemi
 a všichni, které zabila, jsou mocný zástup.
 
-[27] Její dům je cestou do Sheol,
+[27] Její dům je cestou do ⟦sheol|Šeolu|podsvětí⟧,
 sestupuje do komnat smrti.
 
 ## Změny

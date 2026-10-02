@@ -1,6 +1,6 @@
 # Jób 19
 
-[1] Tu Job odpověděl a řekl:
+[1] Tu ⟦job|Ijov|Jób⟧ odpověděl a řekl:
 
 [2] „Jak dlouho budete trýznit mou duši
 a drtit mě slovy na kusy?
@@ -14,7 +14,7 @@ můj omyl zůstává jen se mnou.
 [5] Jestliže se opravdu nade mne vyvyšujete
 a mou potupu obracíte v důkaz proti mně,
 
-[6] vězte tedy, že mi Eloah ukřivdil
+[6] vězte tedy, že mi ⟦eloah|Eloah|Bůh⟧ ukřivdil
 a zatáhl kolem mne svou síť.
 
 [7] Hle, křičím: ‚Násilí!‘, ale nedostávám odpověď;
@@ -62,9 +62,9 @@ ti, které jsem miloval, se obrátili proti mně.
 vyvázl jsem jen s kůží svých zubů.
 
 [21] Smilujte se nade mnou, smilujte se nade mnou, moji přátelé,
-neboť mě zasáhla ruka Eloah!
+neboť mě zasáhla ruka ⟦eloah|Eloah|Boží⟧!
 
-[22] Proč mě pronásledujete jako *Elohim*?
+[22] Proč mě pronásledujete jako ⟦el|El|Bůh⟧?
 Proč se nemůžete nasytit mého masa?
 
 [23] Kéž by byla má slova nyní zapsána!
@@ -77,7 +77,7 @@ do skály navěky!
 a nakonec se postaví na zemi;
 
 [26] a až bude má kůže takto zničena,
-přece ve svém těle uzřím Eloah,
+přece ve svém těle uzřím ⟦eloah|Eloah|Boha⟧,
 
 [27] jehož sám uzřím,
 jehož mé oči spatří, a ne jiný.
@@ -92,6 +92,7 @@ abyste poznali, že je soud.“
 
 ## Změny
 
+- **"God" → „El“** (v22) – hebrejsky אֵל *El*, ne *Elohim*.
 - **"the children of mine own body" → „synům své vlastní matky“** (v17) – hebrejsky *benei vitni*; doslova „synové mého lůna“, obrazně jeho vlastní bratři / domácnost.
 - **"Why... are not satisfied with my flesh?" → „Proč se nemůžete nasytit mého masa?“** (v22) – obraznost pronásledování jako lidožroutství.
 - **"in my flesh shall I see God" → „ve svém těle uzřím Eloah“** (v26) – hebrejština je dvojznačná: *mi-bsari* – „ze svého těla“ / „mimo své tělo“ / „ve svém těle“. Předložka připouští více čtení; tradiční překlad ponechán.

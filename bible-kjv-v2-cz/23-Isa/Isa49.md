@@ -2,7 +2,7 @@
 
 [1] Poslouchejte mě, pobřeží,
 a dávejte pozor, národy zdaleka.
-Yahweh mě povolal od lůna,
+⟦yhwh|Jahve|Hospodin⟧ mě povolal od lůna,
 od těla mé matky vyslovil mé jméno.
 
 [2] Učinil má ústa jako ostrý meč;
@@ -11,35 +11,35 @@ učinil mě uhlazeným šípem;
 ve svém toulci mě ukryl.
 
 [3] A řekl mi: „Ty jsi můj služebník,
-Israel, v němž budu oslaven.“
+⟦israel|Jisrael|Izrael⟧, v němž budu oslaven.“
 
 [4] Ale já jsem řekl: „Nadarmo jsem se namáhal;
 pro nic a pro marnost jsem vyčerpal svou sílu;
-avšak mé právo je jistě u Yahweh
-a má odměna u mého *Elohim*.“
+avšak mé právo je jistě u ⟦yhwh|Jahveho|Hospodina⟧
+a má odměna u mého ⟦elohim|Elohim|Boha⟧.“
 
-[5] A nyní praví Yahweh,
+[5] A nyní praví ⟦yhwh|Jahve|Hospodin⟧,
 ten, který mě utvořil od lůna za svého služebníka,
-abych k němu přivedl zpět Jacoba
-a aby k němu byl shromážděn Israel –
-neboť jsem vážený v očích Yahweh
-a můj *Elohim* se stal mou silou –
+abych k němu přivedl zpět ⟦jacob|Jaakova|Jákoba⟧
+a aby k němu byl shromážděn ⟦israel|Jisrael|Izrael⟧ –
+neboť jsem vážený v očích ⟦yhwh|Jahveho|Hospodina⟧
+a můj ⟦elohim|Elohim|Bůh⟧ se stal mou silou –
 
 [6] praví:
 „Je to příliš málo, abys byl mým služebníkem
-jen k tomu, abys pozvedl kmeny Jacobovy
-a přivedl zpět zachované z Israele;
+jen k tomu, abys pozvedl kmeny ⟦jacob|Jaakovovy|Jákobovy⟧
+a přivedl zpět zachované z ⟦israel|Jisraele|Izraele⟧;
 učiním tě světlem pro národy,
 aby má spása dosáhla až na konec země.“
 
-[7] Takto praví Yahweh, Vykupitel Israele a jeho Svatý, tomu, kdo je hluboce opovrhovaný, národem ošklivený, služebníku vládců:
+[7] Takto praví ⟦yhwh|Jahve|Hospodin⟧, Vykupitel ⟦israel|Jisraele|Izraele⟧ a jeho Svatý, tomu, kdo je hluboce opovrhovaný, národem ošklivený, služebníku vládců:
 
 „Králové uvidí a povstanou,
 knížata, a padnou na tvář
-kvůli Yahweh, který je věrný,
-kvůli Svatému Israele, který si tě vyvolil.“
+kvůli ⟦yhwh|Jahvovi|Hospodinu⟧, který je věrný,
+kvůli Svatému ⟦israel|Jisraele|Izraele⟧, který si tě vyvolil.“
 
-[8] Takto praví Yahweh:
+[8] Takto praví ⟦yhwh|Jahve|Hospodin⟧:
 
 „V čase přízně jsem ti odpověděl,
 v den spásy jsem ti pomohl;
@@ -63,15 +63,15 @@ a mé silnice budou vyvýšeny.
 
 [12] Hle, tito přijdou zdaleka
 a hle, tito od severu a od západu
-a tito ze země Sinim.“
+a tito ze země ⟦sinim|Sinim|Sínim⟧.“
 
 [13] Zpívejte radostí, nebesa, a jásej, země;
 propukněte, hory, v zpěv!
-Neboť Yahweh potěšil svůj lid
+Neboť ⟦yhwh|Jahve|Hospodin⟧ potěšil svůj lid
 a slituje se nad svými utištěnými.
 
-[14] Ale Zion řekl: „Yahweh mě opustil;
-můj Pán na mě zapomněl.“
+[14] Ale ⟦zion|Cijon|Sijón⟧ řekl: „⟦yhwh|Jahve|Hospodin⟧ mě opustil;
+můj ⟦adonai|Adonaj|Pán⟧ na mě zapomněl.“
 
 [15] „Může žena zapomenout na své kojené dítě,
 aby neměla soucit se synem svého lůna?
@@ -86,7 +86,7 @@ tví ničitelé a ti, kdo tě pustošili, od tebe odcházejí.
 
 [18] Pozvedni oči kolem sebe a pohleď;
 všichni se shromažďují, přicházejí k tobě.
-Jakože jsem živ, praví Yahweh,
+Jakože jsem živ, praví ⟦yhwh|Jahve|Hospodin⟧,
 všechny si je oblečeš jako ozdobu;
 připneš si je jako nevěsta.
 
@@ -108,7 +108,7 @@ kdo však tyto vychoval?
 Hle, zůstal jsem sám;
 odkud se tito vzali?‘“
 
-[22] Takto praví Pán Yahweh:
+[22] Takto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧:
 
 „Hle, pozvednu svou ruku k národům
 a vztyčím svou korouhev k lidem;
@@ -119,13 +119,13 @@ a tvé dcery budou neseny na ramenou.
 a jejich královny tvými kojnými.
 Tváří k zemi se ti budou klanět
 a lízat prach tvých nohou.
-Tehdy poznáš, že já jsem Yahweh;
+Tehdy poznáš, že já jsem ⟦yhwh|Jahve|Hospodin⟧;
 ti, kdo na mě čekají, nebudou zahanbeni.“
 
 [24] Může být kořist vyrvána mocnému
 nebo zajatci tyrana vysvobozeni?
 
-[25] Neboť takto praví Yahweh:
+[25] Neboť takto praví ⟦yhwh|Jahve|Hospodin⟧:
 „I zajatci mocného budou vyrváni
 a kořist tyrana bude vysvobozena,
 neboť já povedu spor s těmi, kdo vedou spor s tebou,
@@ -134,8 +134,8 @@ a zachráním tvé děti.
 [26] Tvé utlačovatele přiměji jíst jejich vlastní maso
 a opijí se svou vlastní krví jako vínem.
 Tehdy všechno tělo pozná,
-že já jsem Yahweh, tvůj Spasitel
-a tvůj Vykupitel, Mocný Jacobův.“
+že já jsem ⟦yhwh|Jahve|Hospodin⟧, tvůj Spasitel
+a tvůj Vykupitel, Mocný ⟦jacob|Jaakovův|Jákobův⟧.“
 
 ## Změny
 

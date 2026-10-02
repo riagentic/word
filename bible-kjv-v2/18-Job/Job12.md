@@ -1,6 +1,6 @@
 # Job 12
 
-[1] Then Job answered and said:
+[1] Then ⟦job|Iyov|Job⟧ answered and said:
 
 [2] "Truly you are the people,
 and wisdom will die with you!
@@ -10,14 +10,14 @@ I am not inferior to you.
 Who does not know such things as these?
 
 [4] I am a laughingstock to my friend,
-I who called on Eloah and he answered —
+I who called on ⟦eloah|Eloah|God⟧ and he answered —
 a just, blameless man a laughingstock!
 
 [5] The one at ease has contempt for misfortune,
 a ready thrust for those whose feet slip.
 
 [6] The tents of raiders prosper,
-and those who provoke *Elohim* are secure —
+and those who provoke ⟦el|El|God⟧ are secure —
 those who bring their god in their hand.
 
 [7] But ask the beasts, and they will teach you;
@@ -27,7 +27,7 @@ the birds of the sky, and they will tell you;
 the fish of the sea will declare to you.
 
 [9] Who does not know of all these
-that the hand of Yahweh has done this?
+that the hand of ⟦yhwh|Yahweh|the LORD⟧ has done this?
 
 [10] In his hand is the soul of every living thing,
 and the spirit of all humankind.
@@ -80,6 +80,7 @@ he makes them stagger like a drunkard."
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
+- **"God" → "El"** (v6) — Hebrew אֵל *El*, not *Elohim*.
 - **"shadow of death" → "deep gloom"** (v22) — *tzalmaweth*.
 - **"princes" → "priests"** (v19) — Hebrew *kohanim*; priestly class, not generic princes.
 - **"chief of the people" → "leaders of the peoples"** (v24) — *rashei am ha-aretz*.

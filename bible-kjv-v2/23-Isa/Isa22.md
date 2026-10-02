@@ -21,7 +21,7 @@ let me weep bitter tears;
 do not labor to comfort me
 concerning the destruction of the daughter of my people."
 
-[5] For Lord Yahweh of Hosts has a day
+[5] For ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧ of Hosts has a day
 of tumult and trampling and confusion
 in the valley of vision,
 a battering down of walls
@@ -29,38 +29,38 @@ and a shouting to the mountains.
 
 [6] And Elam bore the quiver
 with chariots and horsemen,
-and Kir uncovered the shield.
+and ⟦kir|Qir|Kir⟧ uncovered the shield.
 
 [7] Your choicest valleys were full of chariots,
 and the horsemen took their stand at the gates.
 
-[8] He has taken away the covering of Judah. In that day you looked to the weapons of the House of the Forest,
+[8] He has taken away the covering of ⟦judah|Yehudah|Judah⟧. In that day you looked to the weapons of the House of the Forest,
 
 [9] and you saw that the breaches of the city of David were many. You collected the waters of the lower pool,
 
-[10] and you counted the houses of Jerusalem, and you broke down the houses to fortify the wall.
+[10] and you counted the houses of ⟦jerusalem|Yerushalayim|Jerusalem⟧, and you broke down the houses to fortify the wall.
 
 [11] You made a reservoir between the two walls for the water of the old pool. But you did not look to him who did it, or see him who planned it long ago.
 
-[12] In that day Lord Yahweh of Hosts called for weeping and mourning, for baldness and wearing sackcloth;
+[12] In that day ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧ of Hosts called for weeping and mourning, for baldness and wearing sackcloth;
 
 [13] and behold, joy and gladness, killing oxen and slaughtering sheep, eating flesh and drinking wine: "Let us eat and drink, for tomorrow we die."
 
-[14] Yahweh of Hosts has revealed himself in my ears: "Surely this iniquity will not be atoned for you until you die," says Lord Yahweh of Hosts.
+[14] ⟦yhwh|Yahweh|The LORD⟧ of Hosts has revealed himself in my ears: "Surely this iniquity will not be atoned for you until you die," says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧ of Hosts.
 
-[15] Thus says Lord Yahweh of Hosts, "Come, go to this steward, to Shevna, who is over the household, and say to him:
+[15] Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧ of Hosts, "Come, go to this steward, to ⟦shebna|Shevna|Shebna⟧, who is over the household, and say to him:
 
 [16] What have you to do here, and whom have you here, that you have cut out here a tomb for yourself, you who cut out a tomb on the height and carve a dwelling for yourself in the rock?
 
-[17] Behold, Yahweh will hurl you away violently, O you strong man. He will seize firm hold on you
+[17] Behold, ⟦yhwh|Yahweh|the LORD⟧ will hurl you away violently, O you strong man. He will seize firm hold on you
 
 [18] and whirl you around and around, and throw you like a ball into a wide land. There you shall die, and there shall be your glorious chariots, you shame of your master's house.
 
 [19] I will thrust you from your office, and you will be pulled down from your station."
 
-[20] "In that day I will call my servant Eliakim son of Hilkiah,
+[20] "In that day I will call my servant ⟦eliakim|Elyaqim|Eliakim⟧ son of ⟦hilkiah|Chilqiyahu|Hilkiah⟧,
 
-[21] and I will clothe him with your robe, and will bind your sash on him, and will commit your authority to his hand. And he shall be a father to the inhabitants of Jerusalem and to the house of Judah.
+[21] and I will clothe him with your robe, and will bind your sash on him, and will commit your authority to his hand. And he shall be a father to the inhabitants of ⟦jerusalem|Yerushalayim|Jerusalem⟧ and to the house of ⟦judah|Yehudah|Judah⟧.
 
 [22] And I will place on his shoulder **the key of the house of David**. He shall open, and none shall shut; and he shall shut, and none shall open.
 
@@ -68,7 +68,7 @@ and the horsemen took their stand at the gates.
 
 [24] And they will hang on him the whole honor of his father's house, the offspring and descendants, every small vessel, from the cups to all the flagons.
 
-[25] In that day," declares Yahweh of Hosts, "the peg that was fastened in a secure place will give way, and it will be cut down and fall, and the load that was on it will be cut off, for Yahweh has spoken."
+[25] In that day," declares ⟦yhwh|Yahweh|the LORD⟧ of Hosts, "the peg that was fastened in a secure place will give way, and it will be cut down and fall, and the load that was on it will be cut off, for ⟦yhwh|Yahweh|the LORD⟧ has spoken."
 
 ## Changes
 

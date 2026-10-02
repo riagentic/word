@@ -1,40 +1,40 @@
 # Genesis 20
 
-[1] Odtud Abraham putoval k zemi Negev a usadil se mezi Kadeshem a Shurem; pobýval jako cizinec v Geraru.
+[1] Odtud ⟦abraham|Avraham|Abraham⟧ putoval k zemi ⟦negev|Negev|Negeb⟧ a usadil se mezi ⟦kadesh|Kadešem|Kádešem⟧ a ⟦shur|Šurem|Šúrem⟧; pobýval jako cizinec v Geraru.
 
-[2] Abraham řekl o Sarah, své ženě: „Je to moje sestra.“ A Abimelech, král Geraru, poslal a vzal Sarah.
+[2] ⟦abraham|Avraham|Abraham⟧ řekl o ⟦sarah|Saře|Sáře⟧, své ženě: „Je to moje sestra.“ A ⟦abimelech|Avimelech|Abímelek⟧, král Geraru, poslal a vzal ⟦sarah|Saru|Sáru⟧.
 
-[3] Ale *Elohim* přišel k Abimelechovi v noci ve snu a řekl mu: „Hle, zemřeš kvůli ženě, kterou jsi vzal, neboť je to vdaná žena.“
+[3] Ale ⟦elohim|Elohim|Bůh⟧ přišel k ⟦abimelech|Avimelechovi|Abímelekovi⟧ v noci ve snu a řekl mu: „Hle, zemřeš kvůli ženě, kterou jsi vzal, neboť je to vdaná žena.“
 
-[4] Abimelech se k ní nepřiblížil; řekl tedy: „Pane, zabiješ i spravedlivý národ?
+[4] ⟦abimelech|Avimelech|Abímelek⟧ se k ní nepřiblížil; řekl tedy: „⟦adonai|Adonaji|Pane⟧, zabiješ i spravedlivý národ?
 
 [5] Což mi on sám neřekl: ‚Je to moje sestra‘? A také ona sama řekla: ‚Je to můj bratr.‘ V bezúhonnosti svého srdce a v nevinnosti svých rukou jsem to učinil.“
 
-[6] *Elohim* mu ve snu řekl: „Ano, vím, že jsi to učinil v bezúhonnosti svého srdce, a také jsem tě zadržel, abys proti mně nezhřešil; proto jsem ti nedovolil, aby ses jí dotkl.
+[6] ⟦elohim|Elohim|Bůh⟧ mu ve snu řekl: „Ano, vím, že jsi to učinil v bezúhonnosti svého srdce, a také jsem tě zadržel, abys proti mně nezhřešil; proto jsem ti nedovolil, aby ses jí dotkl.
 
 [7] Nyní tedy vrať tomu muži jeho ženu, neboť je prorok, pomodlí se za tebe a budeš žít. Jestliže ji však nevrátíš, věz, že jistě zemřeš, ty i všechno, co je tvoje.“
 
-[8] Abimelech tedy vstal časně ráno, zavolal všechny své služebníky a vyprávěl všechny tyto věci před jejich ušima; a ti muži se velmi báli.
+[8] ⟦abimelech|Avimelech|Abímelek⟧ tedy vstal časně ráno, zavolal všechny své služebníky a vyprávěl všechny tyto věci před jejich ušima; a ti muži se velmi báli.
 
-[9] Potom Abimelech zavolal Abrahama a řekl mu: „Co jsi nám to udělal? Čím jsem proti tobě zhřešil, že jsi uvedl na mě a na mé království veliký hřích? Udělal jsi mi věci, které se nedělají.“
+[9] Potom ⟦abimelech|Avimelech|Abímelek⟧ zavolal ⟦abraham|Avrahama|Abrahama⟧ a řekl mu: „Co jsi nám to udělal? Čím jsem proti tobě zhřešil, že jsi uvedl na mě a na mé království veliký hřích? Udělal jsi mi věci, které se nedělají.“
 
-[10] Abimelech řekl Abrahamovi: „Co jsi viděl, že jsi udělal tuto věc?“
+[10] ⟦abimelech|Avimelech|Abímelek⟧ řekl ⟦abraham|Avrahamovi|Abrahamovi⟧: „Co jsi viděl, že jsi udělal tuto věc?“
 
-[11] Abraham řekl: „Myslel jsem si: Jistě na tomto místě není bázeň před *Elohim*, a zabijí mě kvůli mé ženě.
+[11] ⟦abraham|Avraham|Abraham⟧ řekl: „Myslel jsem si: Jistě na tomto místě není bázeň před ⟦elohim|Elohim|Bohem⟧, a zabijí mě kvůli mé ženě.
 
 [12] Kromě toho je opravdu mou sestrou, dcerou mého otce, ale ne dcerou mé matky; a stala se mou ženou.
 
-[13] A když mě *Elohim* nechal putovat pryč z domu mého otce, řekl jsem jí: ‚Toto je věrnost, kterou mi musíš prokázat: na každém místě, kam přijdeme, o mně říkej: Je to můj bratr.‘“
+[13] A když mě ⟦elohim|Elohim|Bůh⟧ nechal putovat pryč z domu mého otce, řekl jsem jí: ‚Toto je věrnost, kterou mi musíš prokázat: na každém místě, kam přijdeme, o mně říkej: Je to můj bratr.‘“
 
-[14] Tu Abimelech vzal ovce a skot, otroky a otrokyně a dal je Abrahamovi; a vrátil mu Sarah, jeho ženu.
+[14] Tu ⟦abimelech|Avimelech|Abímelek⟧ vzal ovce a skot, otroky a otrokyně a dal je ⟦abraham|Avrahamovi|Abrahamovi⟧; a vrátil mu ⟦sarah|Saru|Sáru⟧, jeho ženu.
 
-[15] A Abimelech řekl: „Hle, má země je před tebou; usaď se, kde se ti líbí.“
+[15] A ⟦abimelech|Avimelech|Abímelek⟧ řekl: „Hle, má země je před tebou; usaď se, kde se ti líbí.“
 
-[16] K Sarah řekl: „Hle, dal jsem tvému bratrovi tisíc stříbrných; je to pro tebe zakrytí očí přede všemi, kdo jsou s tebou; a přede všemi jsi očištěna.“
+[16] K ⟦sarah|Saře|Sáře⟧ řekl: „Hle, dal jsem tvému bratrovi tisíc stříbrných; je to pro tebe zakrytí očí přede všemi, kdo jsou s tebou; a přede všemi jsi očištěna.“
 
-[17] Abraham se modlil k *Elohim*; a *Elohim* uzdravil Abimelecha, jeho ženu i jeho otrokyně, takže rodily děti.
+[17] ⟦abraham|Avraham|Abraham⟧ se modlil k ⟦elohim|Elohim|Bohu⟧; a ⟦elohim|Elohim|Bůh⟧ uzdravil ⟦abimelech|Avimelecha|Abímeleka⟧, jeho ženu i jeho otrokyně, takže rodily děti.
 
-[18] Neboť Yahweh pevně uzavřel každé lůno v domě Abimelechově kvůli Sarah, Abrahamově ženě.
+[18] Neboť ⟦yhwh|Jahve|Hospodin⟧ pevně uzavřel každé lůno v domě ⟦abimelech|Avimelechově|Abímelekově⟧ kvůli ⟦sarah|Saře|Sáře⟧, ⟦abraham|Avrahamově|Abrahamově⟧ ženě.
 
 ## Změny
 

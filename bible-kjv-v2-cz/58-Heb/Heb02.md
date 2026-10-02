@@ -6,9 +6,9 @@
 
 [3] jak unikneme, jestliže zanedbáme tak veliké spasení? Nejprve je vyhlásil Pán a potvrdili nám je ti, kdo ho slyšeli,
 
-[4] přičemž *Elohim* spolu s nimi vydával svědectví znameními, divy, rozličnými mocnými činy a dary *Ruach HaQodesh*, rozdělovanými podle jeho vůle.
+[4] přičemž ⟦elohim|Elohim|Bůh⟧ spolu s nimi vydával svědectví znameními, divy, rozličnými mocnými činy a dary ⟦ruach-haqodesh|Ruach HaKodeš|Ducha svatého⟧, rozdělovanými podle jeho vůle.
 
-[5] Nebyl to totiž andělům, komu *Elohim* podřídil budoucí svět, o němž mluvíme.
+[5] Nebyl to totiž andělům, komu ⟦elohim|Elohim|Bůh⟧ podřídil budoucí svět, o němž mluvíme.
 
 [6] Kdosi kdesi dosvědčil:
 
@@ -20,7 +20,7 @@ korunoval jsi ho slávou a ctí,
 
 Když mu podřídil všechno, nenechal nic, co by nebylo pod jeho mocí. Nyní však ještě nevidíme, že by mu bylo všechno podřízeno.
 
-[9] Vidíme však toho, který byl na krátký čas učiněn nižším než andělé, totiž *Yeshuu*, korunovaného slávou a ctí pro utrpení smrti, aby z milosti *Elohim* okusil smrt za každého.
+[9] Vidíme však toho, který byl na krátký čas učiněn nižším než andělé, totiž ⟦yeshua|Ješuu|Ježíše⟧, korunovaného slávou a ctí pro utrpení smrti, aby z milosti ⟦elohim|Elohim|Boží⟧ okusil smrt za každého.
 
 [10] Slušelo se totiž, aby ten, pro něhož a skrze něhož je všechno, když přivádí mnoho synů ke slávě, učinil skrze utrpení dokonalým původce jejich spasení.
 
@@ -37,15 +37,15 @@ uprostřed shromáždění ti budu zpívat chválu**.“
 
 A opět:
 
-„**Hle, já a děti, které mi dal *Elohim***.“
+„**Hle, já a děti, které mi dal ⟦elohim|Elohim|Bůh⟧**.“
 
 [14] Protože tedy děti mají podíl na těle a krvi, i on sám se podobně stal účastným téhož, aby skrze smrt zničil toho, kdo má moc nad smrtí, to jest ďábla,
 
 [15] a vysvobodil všechny, kdo byli ze strachu před smrtí po celý život v otroctví.
 
-[16] Jistě se totiž neujímá andělů, ale ujímá se potomstva Abrahamova.
+[16] Jistě se totiž neujímá andělů, ale ujímá se potomstva ⟦abraham|Avrahamova|Abrahamova⟧.
 
-[17] Proto musel být ve všem připodoben svým bratřím, aby se stal milosrdným a věrným veleknězem ve službě *Elohim* a vykonal smíření za hříchy lidu.
+[17] Proto musel být ve všem připodoben svým bratřím, aby se stal milosrdným a věrným veleknězem ve službě ⟦elohim|Elohim|Bohu⟧ a vykonal smíření za hříchy lidu.
 
 [18] Protože sám trpěl, když byl pokoušen, může pomoci těm, kdo jsou pokoušeni.
 

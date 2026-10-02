@@ -8,7 +8,7 @@
 
 [4] a tak vedou mladé ženy k tomu, aby milovaly své muže a děti,
 
-[5] byly sebeovládané, čisté, pracovité v domácnosti, laskavé a podřízené svým vlastním mužům, aby slovo *Elohim* nebylo tupeno.
+[5] byly sebeovládané, čisté, pracovité v domácnosti, laskavé a podřízené svým vlastním mužům, aby slovo ⟦elohim|Elohim|Boží⟧ nebylo tupeno.
 
 [6] Stejně tak napomínej mladší muže, aby byli sebeovládaní.
 
@@ -18,13 +18,13 @@
 
 [9] Otroci ať jsou ve všem podřízeni svým vlastním pánům; ať se jim snaží zalíbit, ať neodmlouvají,
 
-[10] nekradou, ale projevují veškerou dobrou věrnost, aby ve všem byli ozdobou učení *Elohim*, našeho Zachránce.
+[10] nekradou, ale projevují veškerou dobrou věrnost, aby ve všem byli ozdobou učení ⟦elohim|Elohim|Boha⟧, našeho Zachránce.
 
-[11] **Zjevila se totiž milost *Elohim*, přinášející spasení všem lidem**,
+[11] **Zjevila se totiž milost ⟦elohim|Elohim|Boží⟧, přinášející spasení všem lidem**,
 
 [12] a vychovává nás, abychom se zřekli bezbožnosti a světských vášní a v nynějším věku žili sebeovládaně, spravedlivě a zbožně,
 
-[13] očekávajíce svou blaženou naději, zjevení slávy našeho velikého *Elohim* a Zachránce *Yeshuy Mashiacha*,
+[13] očekávajíce svou blaženou naději, zjevení slávy našeho velikého ⟦elohim|Elohim|Boha⟧ a Zachránce ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧,
 
 [14] který dal sám sebe za nás, aby nás vykoupil z veškeré nezákonnosti a očistil si lid, který mu bude vlastnictvím a bude horlivý v dobrých skutcích.
 

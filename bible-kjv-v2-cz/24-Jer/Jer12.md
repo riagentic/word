@@ -1,6 +1,6 @@
 # Jeremjáš 12
 
-[1] Spravedlivý jsi, Yahweh,
+[1] Spravedlivý jsi, ⟦yhwh|Jahve|Hospodine⟧,
 když si ti stěžuji;
 přesto bych s tebou chtěl vést svou při.
 Proč se daří cestě svévolníků?
@@ -11,7 +11,7 @@ rostou a nesou ovoce;
 jsi blízko v jejich ústech,
 ale daleko od jejich nitra.
 
-[3] Ale ty, Yahweh, mě znáš;
+[3] Ale ty, ⟦yhwh|Jahve|Hospodine⟧, mě znáš;
 vidíš mě a zkoumáš mé srdce vůči sobě.
 Vytrhni je jako ovce k porážce
 a odděl je pro den zabíjení.
@@ -25,7 +25,7 @@ protože říkali: „Neuvidí náš konec.“
 [5] „Jestliže jsi závodil s pěšími a unavili tě,
 jak budeš soupeřit s koňmi?
 A jestliže jsi v bezpečné zemi tak důvěřivý,
-co budeš dělat v houštinách Jordanu?
+co budeš dělat v houštinách ⟦jordan|Jardenu|Jordánu⟧?
 
 [6] Neboť i tvoji bratři a dům tvého otce,
 i oni s tebou jednali věrolomně;
@@ -60,22 +60,22 @@ ale nikdo si to nebere k srdci.
 
 [12] Na všechny holé výšiny v poušti
 přišli ničitelé,
-neboť meč Yahweh požírá
+neboť meč ⟦yhwh|Jahveho|Hospodina⟧ požírá
 od jednoho konce země ke druhému;
 žádné tělo nemá pokoj.
 
 [13] Zaseli pšenici a sklidili trní;
 unavili se, ale nic nezískali.
 Budou se stydět za své sklizně
-pro planoucí hněv Yahweh.“
+pro planoucí hněv ⟦yhwh|Jahveho|Hospodina⟧.“
 
-[14] Toto praví Yahweh o všech mých zlých sousedech, kteří sahají na dědictví, jež jsem dal do dědictví svému lidu Israeli: „Hle, vytrhnu je z jejich země a dům Judah vytrhnu z jejich středu.
+[14] Toto praví ⟦yhwh|Jahve|Hospodin⟧ o všech mých zlých sousedech, kteří sahají na dědictví, jež jsem dal do dědictví svému lidu ⟦israel|Jisraeli|Izraeli⟧: „Hle, vytrhnu je z jejich země a dům ⟦judah|Jehudy|Judy⟧ vytrhnu z jejich středu.
 
 [15] A až je vytrhnu, znovu se nad nimi slituji a přivedu je zpět, každého k jeho dědictví a každého do jeho země.
 
-[16] A stane se, budou-li se pilně učit cestám mého lidu, přísahat při mém jménu: ‚Jakože živ je Yahweh,‘ tak jako oni naučili můj lid přísahat při Baalovi, pak budou vybudováni uprostřed mého lidu.
+[16] A stane se, budou-li se pilně učit cestám mého lidu, přísahat při mém jménu: ‚Jakože živ je ⟦yhwh|Jahve|Hospodin⟧,‘ tak jako oni naučili můj lid přísahat při Baalovi, pak budou vybudováni uprostřed mého lidu.
 
-[17] Jestliže však některý národ nebude poslouchat, pak ho dočista vytrhnu a zničím, je výrok Yahweh.“
+[17] Jestliže však některý národ nebude poslouchat, pak ho dočista vytrhnu a zničím, je výrok ⟦yhwh|Jahveho|Hospodina⟧.“
 
 ## Změny
 

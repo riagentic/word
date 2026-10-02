@@ -1,43 +1,43 @@
 # Ámos 5
 
-[1] Slyšte toto slovo, které nad vámi pozvedám v žalozpěvu, dome Israele:
+[1] Slyšte toto slovo, které nad vámi pozvedám v žalozpěvu, dome ⟦israel|Jisraele|Izraele⟧:
 
 [2] „Padla a už nevstane
-panna Israel;
+panna ⟦israel|Jisrael|Izrael⟧;
 opuštěná leží na své zemi
 a nikdo ji nepozvedne.“
 
-[3] Neboť toto praví Pán Yahweh:
+[3] Neboť toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧:
 
 „Městu, z něhož vycházela tisícovka,
 zůstane sto,
 a tomu, z něhož vycházela stovka,
 zůstane deset
-pro dům Israele.“
+pro dům ⟦israel|Jisraele|Izraele⟧.“
 
-[4] Neboť toto praví Yahweh domu Israele:
+[4] Neboť toto praví ⟦yhwh|Jahve|Hospodin⟧ domu ⟦israel|Jisraele|Izraele⟧:
 
 „Hledejte mne a budete žít;
 
-[5] ale nehledejte Bethel,
-nevcházejte do Gilgalu
-a nepřecházejte do Beersheba;
-neboť Gilgal jistě půjde do vyhnanství
-a Bethel přijde vniveč.“
+[5] ale nehledejte ⟦bethel|Bejt El|Bét-el⟧,
+nevcházejte do ⟦gilgal|Gilgalu|Gilgálu⟧
+a nepřecházejte do ⟦beersheba|Beer Ševy|Beer-šeby⟧;
+neboť ⟦gilgal|Gilgal|Gilgál⟧ jistě půjde do vyhnanství
+a ⟦bethel|Bejt El|Bét-el⟧ přijde vniveč.“
 
-[6] Hledejte Yahweh a budete žít,
-aby nevzplanul jako oheň v domě Josepha
-a nepohltil jej, aniž by jej kdo pro Bethel uhasil,
+[6] Hledejte ⟦yhwh|Jahveho|Hospodina⟧ a budete žít,
+aby nevzplanul jako oheň v domě Josefa
+a nepohltil jej, aniž by jej kdo pro ⟦bethel|Bejt El|Bét-el⟧ uhasil,
 
 [7] vy, kdo obracíte právo v pelyněk
 a spravedlnost srážíte k zemi!
 
-[8] Ten, kdo učinil Plejády a Orion,
+[8] Ten, kdo učinil ⟦pleiades|Kimu|Plejády⟧ a ⟦orion|Kesil|Orion⟧,
 kdo mění hlubokou tmu v jitro
 a zatemňuje den v noc,
 kdo přivolává vody moře
 a vylévá je na tvář země,
-Yahweh je jeho jméno;
+⟦yhwh|Jahve|Hospodin⟧ je jeho jméno;
 
 [9] ten, kdo nechává zkázu zablesknout se proti silnému,
 takže zkáza dopadne na pevnost.
@@ -62,15 +62,15 @@ neboť je to zlá doba.
 
 [14] Hledejte dobro, a ne zlo,
 abyste žili;
-a tak bude Yahweh, *Elohim* zástupů, s vámi,
+a tak bude ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ zástupů, s vámi,
 jak jste říkali.
 
 [15] Nenáviďte zlo a milujte dobro
 a ustanovte v bráně právo;
-snad se Yahweh, *Elohim* zástupů,
-smiluje nad pozůstatkem Josepha.
+snad se ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ zástupů,
+smiluje nad pozůstatkem Josefa.
 
-[16] Proto toto praví Yahweh, *Elohim* zástupů, Pán:
+[16] Proto toto praví ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ zástupů, ⟦adonai|Adonaj|Pán⟧:
 
 „Na všech náměstích bude kvílení
 a ve všech ulicích budou říkat: ‚Běda! Běda!‘
@@ -78,10 +78,10 @@ Povolají rolníky ke smutku
 a k naříkání ty, kdo jsou zběhlí v žalozpěvech,
 
 [17] a ve všech vinicích bude kvílení,
-neboť projdu vaším středem,“ praví Yahweh.
+neboť projdu vaším středem,“ praví ⟦yhwh|Jahve|Hospodin⟧.
 
-[18] **Běda vám, kdo toužíte po Dni Yahweh!**
-Proč byste chtěli Den Yahweh?
+[18] **Běda vám, kdo toužíte po Dni ⟦yhwh|Jahveho|Hospodina⟧!**
+Proč byste chtěli Den ⟦yhwh|Jahveho|Hospodina⟧?
 Je to tma, a ne světlo,
 
 [19] jako když člověk utíká před lvem
@@ -89,7 +89,7 @@ a potká ho medvěd,
 nebo vejde do domu, opře se rukou o zeď
 a uštkne ho had.
 
-[20] Není snad Den Yahweh tmou, a ne světlem,
+[20] Není snad Den ⟦yhwh|Jahveho|Hospodina⟧ tmou, a ne světlem,
 šerem bez jakéhokoli jasu?
 
 [21] „Nenávidím, pohrdám vašimi slavnostmi
@@ -106,11 +106,11 @@ melodii tvých harf nebudu poslouchat.
 [24] **Ale ať se valí právo jako vody
 a spravedlnost jako neustále tekoucí potok.**
 
-[25] Přinášeli jste mi oběti a dary po čtyřicet let na poušti, dome Israele?
+[25] Přinášeli jste mi oběti a dary po čtyřicet let na poušti, dome ⟦israel|Jisraele|Izraele⟧?
 
-[26] Ponesete Sikkutha, svého krále, a Kiyyuna, svého hvězdného boha – své modly, které jste si udělali,
+[26] Ponesete ⟦sikkuth|Sikuta|Sikúta⟧, svého krále, a ⟦kiyyun|Kijuna|Kijúna⟧, svého hvězdného boha – své modly, které jste si udělali,
 
-[27] a pošlu vás do vyhnanství za Damascus,“ praví Yahweh, jehož jméno je *Elohim* zástupů.
+[27] a pošlu vás do vyhnanství za ⟦damascus|Dammesek|Damašek⟧,“ praví ⟦yhwh|Jahve|Hospodin⟧, jehož jméno je ⟦elohim|Elohim|Bůh⟧ zástupů.
 
 ## Změny
 

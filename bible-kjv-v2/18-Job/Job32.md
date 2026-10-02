@@ -1,16 +1,16 @@
 # Job 32
 
-[1] So these three men ceased answering Job, because he was righteous in his own eyes.
+[1] So these three men ceased answering ⟦job|Iyov|Job⟧, because he was righteous in his own eyes.
 
-[2] Then the anger of Elihu son of Barachel the Buzite, of the family of Ram, was kindled. His anger was kindled against Job because he justified himself rather than *Elohim*;
+[2] Then the anger of Elihu son of Barachel the ⟦buzite|Buzi|Buzite⟧, of the family of Ram, was kindled. His anger was kindled against ⟦job|Iyov|Job⟧ because he justified himself rather than ⟦elohim|Elohim|God⟧;
 
-[3] also against his three friends his anger was kindled, because they had found no answer, yet had condemned Job.
+[3] also against his three friends his anger was kindled, because they had found no answer, yet had condemned ⟦job|Iyov|Job⟧.
 
-[4] Now Elihu had waited to speak to Job, because they were older than he.
+[4] Now Elihu had waited to speak to ⟦job|Iyov|Job⟧, because they were older than he.
 
 [5] When Elihu saw that there was no answer in the mouth of these three men, his anger was kindled.
 
-[6] Elihu son of Barachel the Buzite answered and said:
+[6] Elihu son of Barachel the ⟦buzite|Buzi|Buzite⟧ answered and said:
 
 "I am young in years, and you are aged;
 therefore I was timid and afraid
@@ -20,7 +20,7 @@ to declare my opinion to you.
 and many years should teach wisdom.'
 
 [8] But it is a spirit in man,
-the breath of Shaddai, that gives them understanding.
+the breath of ⟦shaddai|Shaddai|the Almighty⟧, that gives them understanding.
 
 [9] It is not the many who are wise,
 nor the aged who understand justice.
@@ -33,11 +33,11 @@ I listened for your wise speeches,
 while you searched out what to say.
 
 [12] I attended closely to you;
-behold, there was none of you who refuted Job,
+behold, there was none of you who refuted ⟦job|Iyov|Job⟧,
 none who answered his words.
 
 [13] Beware lest you say, 'We have found wisdom;
-*Elohim* may vanquish him, not man.'
+⟦el|El|God⟧ may vanquish him, not man.'
 
 [14] He has not arranged his arguments against me,
 and I will not answer him with your speeches.
@@ -69,6 +69,7 @@ or my Maker would soon take me away."
 ## Changes
 
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
+- **"God" → "El"** (v13) — Hebrew אֵל *El*, not *Elohim*.
 - **"inspiration" → "breath"** (v8) — *nishmat*.
 - **"matter" → "words"** (v18) — *millim*.
 - **"bottles" → "wineskins"** (v19).

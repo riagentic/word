@@ -1,26 +1,26 @@
 # Koloským 1
 
-[1] Paul, apoštol *Mashiacha* *Yeshuy* z vůle *Elohim*, a bratr Timothy
+[1] ⟦paul|Paulus|Pavel⟧, apoštol ⟦mashiach|Mašiacha|Krista⟧ ⟦yeshua|Ješuy|Ježíše⟧ z vůle ⟦elohim|Elohim|Boží⟧, a bratr ⟦timothy|Timotheos|Timoteus⟧
 
-[2] svatým a věrným bratřím v *Mashiachovi* v Colossae:
+[2] svatým a věrným bratřím v ⟦mashiach|Mašiachovi|Kristu⟧ v ⟦colossae|Kolossai|Kolosách⟧:
 
-Milost vám a pokoj od *Elohim*, našeho Otce.
+Milost vám a pokoj od ⟦elohim|Elohim|Boha⟧, našeho Otce.
 
-[3] Vždy děkujeme *Elohim*, Otci našeho Pána *Yeshuy Mashiacha*, když se za vás modlíme,
+[3] Vždy děkujeme ⟦elohim|Elohim|Bohu⟧, Otci našeho Pána ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧, když se za vás modlíme,
 
-[4] neboť jsme slyšeli o vaší víře v *Mashiacha* *Yeshuu* a o lásce, kterou máte ke všem svatým,
+[4] neboť jsme slyšeli o vaší víře v ⟦mashiach|Mašiacha|Krista⟧ ⟦yeshua|Ješuu|Ježíše⟧ a o lásce, kterou máte ke všem svatým,
 
 [5] pro naději, která je vám připravena v nebesích. O ní jste už dříve slyšeli ve slově pravdy, v evangeliu,
 
-[6] které k vám přišlo, tak jako v celém světě přináší ovoce a roste – stejně jako i mezi vámi ode dne, kdy jste uslyšeli a v pravdě poznali milost *Elohim*,
+[6] které k vám přišlo, tak jako v celém světě přináší ovoce a roste – stejně jako i mezi vámi ode dne, kdy jste uslyšeli a v pravdě poznali milost ⟦elohim|Elohim|Boží⟧,
 
-[7] jak jste se to naučili od Epaphrase, našeho milovaného spoluslužebníka. On je za vás věrným služebníkem *Mashiacha*
+[7] jak jste se to naučili od Epafry, našeho milovaného spoluslužebníka. On je za vás věrným služebníkem ⟦mashiach|Mašiacha|Krista⟧
 
 [8] a oznámil nám vaši lásku v Duchu.
 
 [9] Proto ani my ode dne, kdy jsme to uslyšeli, nepřestáváme se za vás modlit a prosit, abyste byli naplněni poznáním jeho vůle ve vší duchovní moudrosti a porozumění,
 
-[10] abyste žili způsobem hodným Pána a ve všem se mu líbili: nesli ovoce v každém dobrém díle a rostli v poznání *Elohim*,
+[10] abyste žili způsobem hodným Pána a ve všem se mu líbili: nesli ovoce v každém dobrém díle a rostli v poznání ⟦elohim|Elohim|Boha⟧,
 
 [11] posilováni veškerou mocí podle síly jeho slávy ke vší vytrvalosti a trpělivosti s radostí,
 
@@ -30,7 +30,7 @@ Milost vám a pokoj od *Elohim*, našeho Otce.
 
 [14] v němž máme vykoupení, odpuštění hříchů.
 
-[15] On je obraz neviditelného *Elohim*,
+[15] On je obraz neviditelného ⟦elohim|Elohim|Boha⟧,
 prvorozený všeho stvoření.
 [16] Neboť v něm bylo stvořeno všechno
 na nebi i na zemi, viditelné i neviditelné,
@@ -41,7 +41,7 @@ a všechno v něm drží pohromadě.
 [18] A on je hlava těla, církve.
 On je počátek, prvorozený z mrtvých,
 aby ve všem měl prvenství.
-[19] Neboť v něm si celá plnost *Elohim* zalíbila přebývat
+[19] Neboť v něm si celá plnost ⟦elohim|Elohim|Boží⟧ zalíbila přebývat
 [20] a skrze něho se sebou usmířit všechno,
 ať na zemi, nebo v nebesích,
 když zjednal pokoj krví jeho kříže.
@@ -50,17 +50,17 @@ když zjednal pokoj krví jeho kříže.
 
 [22] nyní usmířil v jeho těle z masa jeho smrtí, aby vás postavil před sebe svaté, bezúhonné a bez výtky,
 
-[23] jestliže ovšem setrváte ve víře, pevní a stálí, a nenecháte se odvrátit od naděje evangelia, které jste slyšeli, které bylo zvěstováno veškerému stvoření pod nebem a jehož služebníkem jsem se stal já, Paul.
+[23] jestliže ovšem setrváte ve víře, pevní a stálí, a nenecháte se odvrátit od naděje evangelia, které jste slyšeli, které bylo zvěstováno veškerému stvoření pod nebem a jehož služebníkem jsem se stal já, ⟦paul|Paulus|Pavel⟧.
 
-[24] Nyní se raduji ze svých utrpení pro vás a ve svém těle doplňuji to, co chybí v souženích *Mashiacha*, pro jeho tělo, to jest církev,
+[24] Nyní se raduji ze svých utrpení pro vás a ve svém těle doplňuji to, co chybí v souženích ⟦mashiach|Mašiacha|Krista⟧, pro jeho tělo, to jest církev,
 
-[25] jejímž služebníkem jsem se stal podle správcovství od *Elohim*, které mi bylo svěřeno pro vás, abych plně zvěstoval slovo *Elohim*,
+[25] jejímž služebníkem jsem se stal podle správcovství od ⟦elohim|Elohim|Boha⟧, které mi bylo svěřeno pro vás, abych plně zvěstoval slovo ⟦elohim|Elohim|Boží⟧,
 
 [26] tajemství skryté po věky a pokolení, nyní však zjevené jeho svatým.
 
-[27] Jim *Elohim* chtěl oznámit, jak veliké je mezi pohany bohatství slávy tohoto tajemství, jímž je ***Mashiach* ve vás, naděje slávy**.
+[27] Jim ⟦elohim|Elohim|Bůh⟧ chtěl oznámit, jak veliké je mezi pohany bohatství slávy tohoto tajemství, jímž je **⟦mashiach|Mašiach|Kristus⟧ ve vás, naděje slávy**.
 
-[28] Jeho zvěstujeme, napomínáme každého člověka a vyučujeme každého člověka ve vší moudrosti, abychom každého člověka představili dospělého v *Mashiachovi*.
+[28] Jeho zvěstujeme, napomínáme každého člověka a vyučujeme každého člověka ve vší moudrosti, abychom každého člověka představili dospělého v ⟦mashiach|Mašiachovi|Kristu⟧.
 
 [29] Proto se namáhám a zápasím se vší jeho silou, která ve mně mocně působí.
 

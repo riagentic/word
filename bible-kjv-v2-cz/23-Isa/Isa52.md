@@ -1,22 +1,22 @@
 # Izajáš 52
 
 [1] Probuď se, probuď se,
-obleč se ve svou sílu, Zione;
+obleč se ve svou sílu, ⟦zion|Cijone|Sijóne⟧;
 obleč si svá krásná roucha,
-Jerusaleme, svaté město;
+⟦jerusalem|Jerušalajim|Jeruzaléme⟧, svaté město;
 neboť do tebe už nevejde
 neobřezaný a nečistý.
 
 [2] Otřes ze sebe prach a vstaň;
-usedni, Jerusaleme;
+usedni, ⟦jerusalem|Jerušalajim|Jeruzaléme⟧;
 rozvaž pouta ze své šíje,
-zajatá dcero Zion.
+zajatá dcero ⟦zion|Cijon|Sijón⟧.
 
-[3] Neboť takto praví Yahweh: „Byli jste prodáni za nic a budete vykoupeni bez peněz.“
+[3] Neboť takto praví ⟦yhwh|Jahve|Hospodin⟧: „Byli jste prodáni za nic a budete vykoupeni bez peněz.“
 
-[4] Neboť takto praví Pán Yahweh: „Můj lid sestoupil nejprve do Egypta, aby tam pobýval jako host, a Assyřan jej utlačoval bez příčiny.
+[4] Neboť takto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: „Můj lid sestoupil nejprve do ⟦egypt|Micrajim|Egypta⟧, aby tam pobýval jako host, a ⟦assyria|Aššur|Asyřan⟧ jej utlačoval bez příčiny.
 
-[5] Co tedy mám nyní tady,“ praví Yahweh, „když je můj lid odvlečen za nic? Jeho vládci kvílejí,“ praví Yahweh, „a ustavičně po celý den je mé jméno potupováno.
+[5] Co tedy mám nyní tady,“ praví ⟦yhwh|Jahve|Hospodin⟧, „když je můj lid odvlečen za nic? Jeho vládci kvílejí,“ praví ⟦yhwh|Jahve|Hospodin⟧, „a ustavičně po celý den je mé jméno potupováno.
 
 [6] Proto můj lid pozná mé jméno. Proto v onen den poznají, že já jsem ten, kdo mluví; zde jsem.“
 
@@ -25,32 +25,32 @@ nohy toho, kdo přináší dobrou zprávu,
 kdo zvěstuje pokoj,
 kdo přináší dobrou zprávu o štěstí,
 kdo zvěstuje spásu,
-kdo říká Zionu: „Tvůj *Elohim* kraluje.“
+kdo říká ⟦zion|Cijonu|Sijónu⟧: „Tvůj ⟦elohim|Elohim|Bůh⟧ kraluje.“
 
 [8] Hlas tvých strážných – pozvedají hlas;
 spolu zpívají radostí;
 neboť z očí do očí vidí
-návrat Yahweh na Zion.
+návrat ⟦yhwh|Jahveho|Hospodina⟧ na ⟦zion|Cijon|Sijón⟧.
 
 [9] Propukněte spolu v zpěv,
-trosky Jerusalema,
-neboť Yahweh potěšil svůj lid;
-vykoupil Jerusalem.
+trosky ⟦jerusalem|Jerušalajim|Jeruzaléma⟧,
+neboť ⟦yhwh|Jahve|Hospodin⟧ potěšil svůj lid;
+vykoupil ⟦jerusalem|Jerušalajim|Jeruzalém⟧.
 
-[10] Yahweh obnažil svou svatou paži
+[10] ⟦yhwh|Jahve|Hospodin⟧ obnažil svou svatou paži
 před očima všech národů
 a všechny končiny země uvidí
-spásu našeho *Elohim*.
+spásu našeho ⟦elohim|Elohim|Boha⟧.
 
 [11] Odejděte, odejděte, vyjděte odtamtud;
 nedotýkejte se ničeho nečistého;
 vyjděte z jejího středu; očisťte se,
-vy, kdo nesete nádoby Yahweh.
+vy, kdo nesete nádoby ⟦yhwh|Jahveho|Hospodina⟧.
 
 [12] Neboť nebudete vycházet ve spěchu
 ani nepůjdete na útěku,
-neboť Yahweh půjde před vámi
-a *Elohim* Israele bude vaším zadním vojem.
+neboť ⟦yhwh|Jahve|Hospodin⟧ půjde před vámi
+a ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧ bude vaším zadním vojem.
 
 [13] Hle, můj služebník bude jednat moudře;
 bude vysoký a vyvýšený

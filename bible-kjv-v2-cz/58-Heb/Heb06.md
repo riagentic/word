@@ -1,44 +1,44 @@
 # Židům 6
 
-[1] Proto opusťme počáteční učení o *Mashiachovi* a postupujme k dospělosti; nekladme znovu základ pokání z mrtvých skutků a víry v *Elohim*,
+[1] Proto opusťme počáteční učení o ⟦mashiach|Mašiachovi|Kristu⟧ a postupujme k dospělosti; nekladme znovu základ pokání z mrtvých skutků a víry v ⟦elohim|Elohim|Boha⟧,
 
 [2] učení o omýváních, vkládání rukou, vzkříšení mrtvých a věčném soudu.
 
-[3] A to učiníme, dovolí-li *Elohim*.
+[3] A to učiníme, dovolí-li ⟦elohim|Elohim|Bůh⟧.
 
-[4] Je totiž nemožné ty, kdo už byli jednou osvíceni, okusili nebeský dar, stali se účastnými *Ruach HaQodesh*,
+[4] Je totiž nemožné ty, kdo už byli jednou osvíceni, okusili nebeský dar, stali se účastnými ⟦ruach-haqodesh|Ruach HaKodeš|Ducha svatého⟧,
 
-[5] okusili dobrotu slova *Elohim* a moci budoucího věku,
+[5] okusili dobrotu slova ⟦elohim|Elohim|Božího⟧ a moci budoucího věku,
 
-[6] a potom odpadli, znovu přivést k pokání, protože znovu křižují Syna *Elohim* ke své vlastní škodě a vystavují ho posměchu.
+[6] a potom odpadli, znovu přivést k pokání, protože znovu křižují Syna ⟦elohim|Elohim|Božího⟧ ke své vlastní škodě a vystavují ho posměchu.
 
-[7] Země, která pije déšť, jenž na ni často padá, a rodí užitečnou úrodu těm, kvůli nimž je obdělávána, dostává požehnání od *Elohim*.
+[7] Země, která pije déšť, jenž na ni často padá, a rodí užitečnou úrodu těm, kvůli nimž je obdělávána, dostává požehnání od ⟦elohim|Elohim|Boha⟧.
 
 [8] Nese-li však trní a bodláčí, je bezcenná a blízko prokletí a jejím koncem je spálení.
 
 [9] Ačkoli takto mluvíme, jsme si ve vašem případě, milovaní, jisti lepšími věcmi, které patří ke spasení.
 
-[10] *Elohim* totiž není nespravedlivý, aby přehlédl vaše dílo a lásku, kterou jste projevili k jeho jménu, když jste sloužili svatým a dosud sloužíte.
+[10] ⟦elohim|Elohim|Bůh⟧ totiž není nespravedlivý, aby přehlédl vaše dílo a lásku, kterou jste projevili k jeho jménu, když jste sloužili svatým a dosud sloužíte.
 
 [11] A toužíme, aby každý z vás projevoval stejnou horlivost k plné jistotě naděje až do konce,
 
 [12] abyste nebyli liknaví, ale napodobovali ty, kdo skrze víru a trpělivost dědí zaslíbení.
 
-[13] Když totiž *Elohim* dával zaslíbení Abrahamovi, přísahal sám při sobě, protože neměl nikoho většího, při kom by přísahal,
+[13] Když totiž ⟦elohim|Elohim|Bůh⟧ dával zaslíbení ⟦abraham|Avrahamovi|Abrahamovi⟧, přísahal sám při sobě, protože neměl nikoho většího, při kom by přísahal,
 
 [14] a řekl: „**Jistě ti požehnám a rozmnožím tě**.“
 
-[15] A tak Abraham, když trpělivě čekal, dosáhl zaslíbení.
+[15] A tak ⟦abraham|Avraham|Abraham⟧, když trpělivě čekal, dosáhl zaslíbení.
 
 [16] Lidé totiž přísahají při někom větším, než jsou sami, a ve všech jejich sporech je přísaha konečným potvrzením.
 
-[17] Když tedy *Elohim* chtěl dědicům zaslíbení tím přesvědčivěji ukázat neměnnost svého záměru, zaručil se přísahou,
+[17] Když tedy ⟦elohim|Elohim|Bůh⟧ chtěl dědicům zaslíbení tím přesvědčivěji ukázat neměnnost svého záměru, zaručil se přísahou,
 
-[18] abychom skrze dvě neměnné věci, v nichž je nemožné, aby *Elohim* lhal, měli silné povzbuzení my, kteří jsme se utekli, abychom se pevně drželi naděje, která je před nás postavena.
+[18] abychom skrze dvě neměnné věci, v nichž je nemožné, aby ⟦elohim|Elohim|Bůh⟧ lhal, měli silné povzbuzení my, kteří jsme se utekli, abychom se pevně drželi naděje, která je před nás postavena.
 
 [19] Tu máme jako bezpečnou a pevnou kotvu duše, naději, která vchází do vnitřního prostoru za oponou,
 
-[20] kam za nás vešel jako předchůdce *Yeshua*, který se stal veleknězem navěky podle řádu Melchizedeka.
+[20] kam za nás vešel jako předchůdce ⟦yeshua|Ješua|Ježíš⟧, který se stal veleknězem navěky podle řádu ⟦melchizedek|Malki-Cedeka|Melchisedecha⟧.
 
 ## Změny
 

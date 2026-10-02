@@ -1,8 +1,8 @@
 # Leviticus 15
 
-[1] Yahweh spoke to Moses and Aaron, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧, saying,
 
-[2] "Speak to the children of Israel and say to them: 'When any man has a discharge from his body, his discharge is unclean.
+[2] "Speak to the children of ⟦israel|Yisrael|Israel⟧ and say to them: 'When any man has a discharge from his body, his discharge is unclean.
 
 [3] This shall be his uncleanness in his discharge: whether his body runs with the discharge or his body is blocked from the discharge, it is his uncleanness.
 
@@ -26,9 +26,9 @@
 
 [13] When the one with the discharge is cleansed of his discharge, then he shall count for himself seven days for his cleansing. He shall wash his clothes and bathe his body in fresh water, and he shall be clean.
 
-[14] On the eighth day he shall take two turtledoves or two young pigeons, and come before Yahweh to the entrance of the Tent of Meeting, and give them to the priest.
+[14] On the eighth day he shall take two turtledoves or two young pigeons, and come before ⟦yhwh|Yahweh|the LORD⟧ to the entrance of the Tent of Meeting, and give them to the priest.
 
-[15] The priest shall offer them — one for a sin offering and the other for a burnt offering — and the priest shall make atonement for him before Yahweh for his discharge.
+[15] The priest shall offer them — one for a sin offering and the other for a burnt offering — and the priest shall make atonement for him before ⟦yhwh|Yahweh|the LORD⟧ for his discharge.
 
 [16] If a man has an emission of semen, he shall bathe his whole body in water, and be unclean until evening.
 
@@ -58,9 +58,9 @@
 
 [29] On the eighth day she shall take two turtledoves or two young pigeons and bring them to the priest, at the entrance of the Tent of Meeting.
 
-[30] The priest shall offer one for a sin offering and the other for a burnt offering; and the priest shall make atonement for her before Yahweh for the discharge of her uncleanness.
+[30] The priest shall offer one for a sin offering and the other for a burnt offering; and the priest shall make atonement for her before ⟦yhwh|Yahweh|the LORD⟧ for the discharge of her uncleanness.
 
-[31] Thus you shall separate the children of Israel from their uncleanness, so that they do not die in their uncleanness by defiling my dwelling that is among them.
+[31] Thus you shall separate the children of ⟦israel|Yisrael|Israel⟧ from their uncleanness, so that they do not die in their uncleanness by defiling my dwelling that is among them.
 
 [32] This is the law of the one who has a discharge; of the one whose semen goes out from him and defiles him;
 

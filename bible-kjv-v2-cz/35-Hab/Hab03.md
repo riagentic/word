@@ -1,15 +1,15 @@
 # Abakuk 3
 
-[1] Modlitba proroka Habakkuka, podle Shigyonot.
+[1] Modlitba proroka ⟦habakkuk|Chavakuka|Abakuka⟧, podle ⟦shigyonot|Šigjonot|šigjónót⟧.
 
-[2] Yahweh, slyšel jsem zprávu o tobě
-a tvého díla, Yahweh, se bojím.
+[2] ⟦yhwh|Jahve|Hospodine⟧, slyšel jsem zprávu o tobě
+a tvého díla, ⟦yhwh|Jahve|Hospodine⟧, se bojím.
 Uprostřed let je oživ;
 uprostřed let je dej poznat;
 v hněvu pamatuj na milosrdenství.
 
-[3] *Elohim* přišel od Temanu
-a Svatý od hory Paran. Selah.
+[3] ⟦elohim|Elohim|Bůh⟧ přišel od ⟦teman|Temanu|Témanu⟧
+a Svatý od hory ⟦paran|Paran|Páran⟧. Sela.
 Jeho nádhera pokryla nebesa
 a země byla plná jeho chvály.
 
@@ -26,17 +26,17 @@ tu se věčné hory rozpadly;
 odvěké pahorky poklesly.
 Jeho byly odvěké cesty.
 
-[7] Viděl jsem stany Cushanu v trápení;
-houně země Midian se chvěly.
+[7] Viděl jsem stany ⟦cushan|Kušanu|Kúšanu⟧ v trápení;
+houně země ⟦midian|Midjan|Midján⟧ se chvěly.
 
-[8] Vzplál tvůj hněv proti řekám, Yahweh?
+[8] Vzplál tvůj hněv proti řekám, ⟦yhwh|Jahve|Hospodine⟧?
 Byl tvůj hněv proti řekám,
 či tvé rozhořčení proti moři,
 když jsi jel na svých koních,
 na svém voze spásy?
 
 [9] Stáhl jsi pouzdro ze svého luku,
-povolávaje mnoho šípů. Selah.
+povolávaje mnoho šípů. Sela.
 Rozťal jsi zemi řekami.
 
 [10] Hory tě spatřily a svíjely se;
@@ -54,7 +54,7 @@ v hněvu jsi mlátil národy.
 [13] Vyšel jsi ke spáse svého lidu,
 ke spáse svého pomazaného.
 Rozdrtil jsi hlavu domu ničemy,
-obnažil jsi ho od stehna až po šíji. Selah.
+obnažil jsi ho od stehna až po šíji. Sela.
 
 [14] Probodl jsi jeho vlastními šípy hlavy jeho bojovníků,
 kteří přišli jako vichřice, aby mě rozprášili,
@@ -77,10 +77,10 @@ a pole nevydala pokrm,
 i kdyby bylo stádo vyrváno z ohrady
 a v chlévech nebyl dobytek,**
 
-**[18] přece se budu radovat v Yahweh;
-budu jásat v *Elohim* své spásy.**
+**[18] přece se budu radovat v ⟦yhwh|Jahvovi|Hospodinu⟧;
+budu jásat v ⟦elohim|Elohim|Bohu⟧ své spásy.**
 
-[19] Pán Yahweh je má síla;
+[19] ⟦yhwh|Jahve|Hospodin,⟧ ⟦adonai|Adonaj|Pán,⟧ je má síla;
 dává mým nohám hbitost laně;
 dává mi kráčet po mých výšinách.
 
@@ -90,7 +90,7 @@ Předníkovi sboru: na strunné nástroje.
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – zachován tetragram.
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
-- **"Lord GOD" → „Pán Yahweh“** (v19) – hebrejsky אֲדֹנָי יְהוִה.
+- **"Lord GOD" → „Yahweh Adonai“** (v19) – hebrejsky יְהוִה אֲדֹנָי, v pořadí MT.
 - **Poezie formátována odsazením jako citát** (v celé kapitole) – KJV má prózu; celá kapitola je teofanický žalm (liturgická poezie).
 - **"O LORD, I have heard thy speech, and was afraid" → „Yahweh, slyšel jsem zprávu o tobě a tvého díla, Yahweh, se bojím“** (v2) – hebrejsky שָׁמַעְתִּי שִׁמְעֲךָ יָרֵאתִי *shama'ti shim'akha yare'ti*; „zpráva o tobě“ za *shim'akha* = zpráva o tobě / tvá pověst; „bojím se“ je přesnější než „dostal jsem strach“.
 - **"His glory covered the heavens" → „Jeho nádhera pokryla nebesa“** (v3) – hebrejsky כִּסָּה שָׁמַיִם הוֹדוֹ *kissa shamayim hodo*; *hod* = nádhera / velebnost; „nádhera“ je zde názornější než „sláva“.
@@ -111,6 +111,6 @@ Předníkovi sboru: na strunné nástroje.
 - **"Thou didst walk through the sea with thine horses, through the heap of great waters" → „Rozšlapal jsi moře svými koňmi, vzdouvání mocných vod“** (v15) – hebrejsky דָּרַכְתָּ בְיָם סוּסֶיךָ *darakhtá bayam susekha*; „rozšlapat“ za *darak* = šlapat / pošlapat.
 - **"When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops" → „Slyším, a mé tělo se třese; mé rty se chvějí při tom zvuku; do mých kostí vniká hniloba; nohy se pode mnou třesou. Přesto budu klidně čekat na den soužení, až přijde na lid, který na nás útočí“** (v16) – hebrejsky וְתַחְתַּי אֶרְגָּז *vetachtay ergazz* = nohy se pode mnou třesou; závěrečná věta přestavěna: „až přijde na lid, který na nás útočí“.
 - **"Yet I will rejoice in the Lord, I will joy in the God of my salvation" → „přece se budu radovat v Yahweh; budu jásat v *Elohim* své spásy“** (v18) – hebrejsky אָגִילָה בַּיהוָה *aggilah baYahweh*; *Elohim* ponecháno; slavné vyznání.
-- **"The Lord God is my strength" → „Pán Yahweh je má síla“** (v19) – hebrejsky אֲדֹנָי יְהוִה חֵילִי; *Adonai* ponecháno.
+- **"The Lord God is my strength" → „Yahweh Adonai je má síla“** (v19) – hebrejsky יְהוִה אֲדֹנָי חֵילִי; *Adonai* ponecháno.
 - **"he will make me to walk upon mine high places" → „dává mi kráčet po mých výšinách“** (v19) – hebrejsky בָּמֹותַי *bamotay* = mé výšiny; „kráčet po mých výšinách“ = vítězství nad nepřáteli na horách.
 - **"To the chief singer on my stringed instruments" → „Předníkovi sboru: na strunné nástroje“** (v19) – hebrejsky לַמְנַצֵּחַ בִּנְגִינוֹתָי *lamnatzzeach bineginotay*; liturgický podpis; „předník sboru“ za *menatze'ach*.

@@ -1,31 +1,31 @@
 # Ozeáš 1
 
-[1] Slovo Yahweh, které přišlo k Hoseovi – synu Beeriho, ve dnech Uzziaha, Jothama, Ahaze a Hezekiaha, králů Judah, a ve dnech Jeroboama, syna Joashe, krále Israele.
+[1] Slovo ⟦yhwh|Jahveho|Hospodina⟧, které přišlo k ⟦hosea|Hošeovi|Ozeášovi⟧ – synu ⟦beeri|Beeriho|Beerího⟧, ve dnech ⟦uzziah|Uzzijahua|Uzijáše⟧, ⟦jotham|Jotama|Jótama⟧, Achaze a ⟦hezekiah|Chizkijahua|Chizkijáše⟧, králů ⟦judah|Jehudy|Judy⟧, a ve dnech ⟦jeroboam|Jarovama|Jarobeáma⟧, syna ⟦joash|Joaše|Jóaše⟧, krále ⟦israel|Jisraele|Izraele⟧.
 
-[2] Když Yahweh poprvé promluvil skrze Hoseu, řekl Yahweh Hoseovi: „Jdi, vezmi si ženu smilstva a měj děti smilstva, neboť země se dopouští velikého smilstva, když opouští Yahweh.“
+[2] Když ⟦yhwh|Jahve|Hospodin⟧ poprvé promluvil skrze ⟦hosea|Hošeu|Ozeáše⟧, řekl ⟦yhwh|Jahve|Hospodin⟧ ⟦hosea|Hošeovi|Ozeášovi⟧: „Jdi, vezmi si ženu smilstva a měj děti smilstva, neboť země se dopouští velikého smilstva, když opouští ⟦yhwh|Jahveho|Hospodina⟧.“
 
-[3] Šel tedy a vzal si Gomer, dceru Diblaimovu; ona počala a porodila mu syna.
+[3] Šel tedy a vzal si Gomer, dceru ⟦diblaim|Divlajimovu|Diblajimovu⟧; ona počala a porodila mu syna.
 
-[4] Yahweh mu řekl: „Dej mu jméno Jezreel, neboť už za malou chvíli potrestám Jehuův dům za krev Jezreelu a učiním konec království domu Israele.
+[4] ⟦yhwh|Jahve|Hospodin⟧ mu řekl: „Dej mu jméno Jizreel, neboť už za malou chvíli potrestám ⟦jehu|Jehuův|Jehúův⟧ dům za krev Jizreelu a učiním konec království domu ⟦israel|Jisraele|Izraele⟧.
 
-[5] V ten den zlomím luk Israele v údolí Jezreel.“
+[5] V ten den zlomím luk ⟦israel|Jisraele|Izraele⟧ v údolí Jizreel.“
 
-[6] Znovu počala a porodila dceru. Yahweh mu řekl: „Dej jí jméno Lo-ruhamah („Bez slitování“), neboť se již nad domem Israele neslituji, abych jim vůbec odpustil.
+[6] Znovu počala a porodila dceru. ⟦yhwh|Jahve|Hospodin⟧ mu řekl: „Dej jí jméno ⟦lo-ruhamah|Lo-ruchama|Lórucháma⟧ („Bez slitování“), neboť se již nad domem ⟦israel|Jisraele|Izraele⟧ neslituji, abych jim vůbec odpustil.
 
-[7] Nad domem Judah se však slituji a zachráním je skrze Yahweh, jejich *Elohim*. Nezachráním je lukem ani mečem ani válkou ani koňmi ani jezdci.“
+[7] Nad domem ⟦judah|Jehudy|Judy⟧ se však slituji a zachráním je skrze ⟦yhwh|Jahveho|Hospodina⟧, jejich ⟦elohim|Elohim|Boha⟧. Nezachráním je lukem ani mečem ani válkou ani koňmi ani jezdci.“
 
-[8] Když odstavila Lo-ruhamah, počala a porodila syna.
+[8] Když odstavila ⟦lo-ruhamah|Lo-ruchamu|Lóruchámu⟧, počala a porodila syna.
 
-[9] Yahweh řekl: „Dej mu jméno Lo-ammi („Ne můj lid“), neboť vy nejste můj lid a já nejsem váš *Elohim*.
+[9] ⟦yhwh|Jahve|Hospodin⟧ řekl: „Dej mu jméno ⟦lo-ammi|Lo-ami|Lóami⟧ („Ne můj lid“), neboť vy nejste můj lid a já nejsem váš ⟦elohim|Elohim|Bůh⟧.
 
-[10] Přesto bude počet synů Israele jako písek moře, který nelze změřit ani spočítat. A na místě, kde jim bylo řečeno: ‚Vy nejste můj lid,‘ jim bude řečeno: ‚Synové živého *Elohim*.‘
+[10] Přesto bude počet synů ⟦israel|Jisraele|Izraele⟧ jako písek moře, který nelze změřit ani spočítat. A na místě, kde jim bylo řečeno: ‚Vy nejste můj lid,‘ jim bude řečeno: ‚Synové živého ⟦el|El|Boha⟧.‘
 
-[11] Synové Judah a synové Israele se shromáždí spolu a ustanoví si jednu hlavu. A vyjdou vzhůru ze země, neboť veliký bude den Jezreelu.“
+[11] Synové ⟦judah|Jehudy|Judy⟧ a synové ⟦israel|Jisraele|Izraele⟧ se shromáždí spolu a ustanoví si jednu hlavu. A vyjdou vzhůru ze země, neboť veliký bude den Jizreelu.“
 
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – tetragram zachován.
-- **"God" → „*Elohim*“** (v7, v10) – hebrejsky אֱלֹהִים *Elohim*; KJV nejednotně užívá „God“ a „the LORD“.
+- **"God" → „*Elohim*“ / „El“** (v7; v10) – hebrejsky אֱלֹהִים *Elohim* (v7) a אֵל *El* (v10, „synové živého El“); KJV nejednotně užívá „God“ a „the LORD“.
 - **"the son of Beeri" → „synu Beeriho“** (v1) – vypuštěn archaický určitý člen před „son of“.
 - **"The beginning of the word of the LORD by Hosea" → „Když Yahweh poprvé promluvil skrze Hoseu“** (v2) – hebrejsky בִּתְחִלַּת דִּבֶּר יְהוָה בְּהוֹשֵׁעַ; KJV „The beginning of the word“ je toporný překlad; „když poprvé promluvil“ vystihuje vyprávěcí úvod.
 - **"children of whoredoms" → „děti smilstva“** (v2) – singulár odpovídá hebrejské vazbě status constructus.

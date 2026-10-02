@@ -1,8 +1,8 @@
 # Leviticus 13
 
-[1] Yahweh spoke to Moses and Aaron, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧, saying,
 
-[2] "When a person has on the skin of his body a swelling, a scab, or a bright spot, and it becomes on the skin of his body an infection of skin disease, then he shall be brought to Aaron the priest, or to one of his sons the priests.
+[2] "When a person has on the skin of his body a swelling, a scab, or a bright spot, and it becomes on the skin of his body an infection of skin disease, then he shall be brought to ⟦aaron|Aharon|Aaron⟧ the priest, or to one of his sons the priests.
 
 [3] The priest shall examine the infection on the skin of the body: if the hair in the infection has turned white and the infection appears deeper than the skin of his body, it is an infection of skin disease. The priest shall examine him and pronounce him unclean.
 

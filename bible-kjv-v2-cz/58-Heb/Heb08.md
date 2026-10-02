@@ -2,35 +2,35 @@
 
 [1] Hlavní bod toho, co říkáme, je tento: máme takového velekněze, který usedl po pravici trůnu Velebnosti v nebesích,
 
-[2] služebníka ve svatyni, ve skutečném stanu, který postavil Pán, a ne člověk.
+[2] služebníka ve svatyni, ve skutečném stanu, který postavil ⟦yhwh|Jahve|Hospodin⟧, a ne člověk.
 
 [3] Každý velekněz je totiž ustanoven k tomu, aby přinášel dary a oběti; proto je nutné, aby i tento kněz měl co obětovat.
 
-[4] Kdyby byl na zemi, vůbec by nebyl knězem, protože tu jsou kněží, kteří přinášejí dary podle Torah.
+[4] Kdyby byl na zemi, vůbec by nebyl knězem, protože tu jsou kněží, kteří přinášejí dary podle ⟦torah|Tóry|zákona⟧.
 
-[5] Slouží napodobenině a stínu nebeských věcí. Když totiž Moses měl postavit stan, dostal od *Elohim* pokyn: „**Hleď, abys všechno udělal podle vzoru, který ti byl ukázán na hoře**.“
+[5] Slouží napodobenině a stínu nebeských věcí. Když totiž ⟦moses|Moše|Mojžíš⟧ měl postavit stan, dostal od ⟦elohim|Elohim|Boha⟧ pokyn: „**Hleď, abys všechno udělal podle vzoru, který ti byl ukázán na hoře**.“
 
-[6] Nyní však *Mashiach* získal službu o to vznešenější než ta stará, oč lepší je smlouva, jejímž je prostředníkem, neboť je zřízena na lepších zaslíbeních.
+[6] Nyní však ⟦mashiach|Mašiach|Kristus⟧ získal službu o to vznešenější než ta stará, oč lepší je smlouva, jejímž je prostředníkem, neboť je zřízena na lepších zaslíbeních.
 
 [7] Kdyby totiž ta první smlouva byla bez vady, nebylo by důvodu hledat druhou.
 
 [8] Vytýká jim totiž vinu, když říká:
 
-„**Hle, přicházejí dny, praví Pán,
-kdy uzavřu novou smlouvu s domem Israele
-a s domem Judahu,
+„**Hle, přicházejí dny, praví ⟦yhwh|Jahve|Hospodin⟧,
+kdy uzavřu novou smlouvu s domem ⟦israel|Jisraele|Izraele⟧
+a s domem ⟦judah|Jehudy|Judy⟧,
 [9] ne jako smlouvu, kterou jsem uzavřel s jejich otci
-v den, kdy jsem je vzal za ruku, abych je vyvedl ze země Egypt.
+v den, kdy jsem je vzal za ruku, abych je vyvedl ⟦egypt|ze země Micrajim|z egyptské země⟧.
 Neboť nezůstali v mé smlouvě,
-a tak jsem o ně přestal pečovat, praví Pán.
-[10] Toto je smlouva, kterou uzavřu s domem Israele
-po oněch dnech, praví Pán:
+a tak jsem o ně přestal pečovat, praví ⟦yhwh|Jahve|Hospodin⟧.
+[10] Toto je smlouva, kterou uzavřu s domem ⟦israel|Jisraele|Izraele⟧
+po oněch dnech, praví ⟦yhwh|Jahve|Hospodin⟧:
 Vložím své zákony do jejich mysli
 a napíšu je na jejich srdce,
-budu jejich *Elohim*
+budu jejich ⟦elohim|Elohim|Bohem⟧
 a oni budou mým lidem.
 [11] A nebudou už učit každý svého bližního
-a každý svého bratra: ‚Poznej Pána,‘
+a každý svého bratra: ‚Poznej ⟦yhwh|Jahveho|Pána⟧,‘
 neboť mě budou znát všichni,
 od nejmenšího z nich až po největšího.
 [12] Budu milosrdný k jejich nepravostem

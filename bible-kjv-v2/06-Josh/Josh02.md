@@ -1,10 +1,10 @@
 # Joshua 2
 
-[1] Joshua son of Nun sent out two men from Shittim as scouts in secret, saying, "Go, view the land, especially Jericho." So they went and came to the house of a prostitute named Rahab, and lodged there.
+[1] ⟦joshua|Yehoshua|Joshua⟧ son of Nun sent out two men from Shittim as scouts in secret, saying, "Go, view the land, especially ⟦jericho|Yericho|Jericho⟧." So they went and came to the house of a prostitute named ⟦rahab|Rachav|Rahab⟧, and lodged there.
 
-[2] It was told to the king of Jericho, "Behold, men from the children of Israel have come here tonight to scout out the land."
+[2] It was told to the king of ⟦jericho|Yericho|Jericho⟧, "Behold, men from the children of ⟦israel|Yisrael|Israel⟧ have come here tonight to scout out the land."
 
-[3] Then the king of Jericho sent to Rahab, saying, "Bring out the men who have come to you, who have entered your house, for they have come to scout out all the land."
+[3] Then the king of ⟦jericho|Yericho|Jericho⟧ sent to ⟦rahab|Rachav|Rahab⟧, saying, "Bring out the men who have come to you, who have entered your house, for they have come to scout out all the land."
 
 [4] But the woman had taken the two men and hidden them. And she said, "Yes, the men came to me, but I did not know where they were from.
 
@@ -12,21 +12,21 @@
 
 [6] But she had brought them up to the roof and hidden them among the stalks of flax that she had laid in order on the roof.
 
-[7] So the men pursued after them on the way to the Jordan, to the fords; and as soon as the pursuers had gone out, they shut the gate.
+[7] So the men pursued after them on the way to the ⟦jordan|Yarden|Jordan⟧, to the fords; and as soon as the pursuers had gone out, they shut the gate.
 
 [8] Before the men lay down, she came up to them on the roof
 
-[9] and said to the men, "I know that Yahweh has given you the land; the dread of you has fallen upon us, and all the inhabitants of the land melt in fear before you.
+[9] and said to the men, "I know that ⟦yhwh|Yahweh|the LORD⟧ has given you the land; the dread of you has fallen upon us, and all the inhabitants of the land melt in fear before you.
 
-[10] For we have heard how Yahweh dried up the water of the Sea of Reeds before you when you came out of Egypt, and what you did to the two kings of the Amorites who were beyond the Jordan — Sihon and Og — whom you devoted to destruction.
+[10] For we have heard how ⟦yhwh|Yahweh|the LORD⟧ dried up the water of the ⟦red-sea|Sea of Reeds|Red Sea⟧ before you when you came out of ⟦egypt|Mitzrayim|Egypt⟧, and what you did to the two kings of the ⟦amorites|Emorim|Amorites⟧ who were beyond the ⟦jordan|Yarden|Jordan⟧ — ⟦sihon|Sichon|Sihon⟧ and Og — whom you devoted to destruction.
 
-[11] When we heard it, our hearts melted, and no spirit remained in any man because of you; for Yahweh your *Elohim* — he is *Elohim* in the heavens above and on the earth beneath.
+[11] When we heard it, our hearts melted, and no spirit remained in any man because of you; for ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ — he is ⟦elohim|Elohim|God⟧ in the heavens above and on the earth beneath.
 
-[12] Now then, please swear to me by Yahweh that, since I have shown you kindness, you also will show kindness to my father's house, and give me a reliable sign
+[12] Now then, please swear to me by ⟦yhwh|Yahweh|the LORD⟧ that, since I have shown you kindness, you also will show kindness to my father's house, and give me a reliable sign
 
 [13] that you will spare the lives of my father and my mother, my brothers and my sisters, and all who belong to them, and that you will deliver our lives from death."
 
-[14] The men said to her, "Our life for yours — if you do not reveal this business of ours! And when Yahweh gives us the land, we will deal kindly and faithfully with you."
+[14] The men said to her, "Our life for yours — if you do not reveal this business of ours! And when ⟦yhwh|Yahweh|the LORD⟧ gives us the land, we will deal kindly and faithfully with you."
 
 [15] Then she let them down by a rope through the window, for her house was built into the city wall, and she lived in the wall.
 
@@ -44,9 +44,9 @@
 
 [22] They went and came to the hill country and remained there three days, until the pursuers had returned. The pursuers sought them all along the way but did not find them.
 
-[23] The two men then returned, came down from the hill country, crossed over, and came to Joshua son of Nun; they told him all that had befallen them.
+[23] The two men then returned, came down from the hill country, crossed over, and came to ⟦joshua|Yehoshua|Joshua⟧ son of Nun; they told him all that had befallen them.
 
-[24] They said to Joshua, "Truly Yahweh has given all the land into our hands; and indeed all the inhabitants of the land melt in fear before us."
+[24] They said to ⟦joshua|Yehoshua|Joshua⟧, "Truly ⟦yhwh|Yahweh|the LORD⟧ has given all the land into our hands; and indeed all the inhabitants of the land melt in fear before us."
 
 ## Changes
 

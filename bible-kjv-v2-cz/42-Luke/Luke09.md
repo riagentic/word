@@ -2,7 +2,7 @@
 
 [1] Svolal těch dvanáct a dal jim sílu a moc nade všemi démony i k uzdravování nemocí
 
-[2] a poslal je hlásat království *Elohim* a uzdravovat.
+[2] a poslal je hlásat království ⟦elohim|Elohim|Boží⟧ a uzdravovat.
 
 [3] Řekl jim: „Neberte si nic na cestu, ani hůl, ani mošnu, ani chléb, ani peníze; a nemějte dvoje spodní roucho.
 
@@ -12,15 +12,15 @@
 
 [6] Vyšli a procházeli vesnicemi, všude zvěstovali evangelium a uzdravovali.
 
-[7] Tetrarcha Herod uslyšel o všem, co se dělo, a byl v rozpacích, protože někteří říkali, že John byl vzkříšen z mrtvých,
+[7] Tetrarcha Herodes uslyšel o všem, co se dělo, a byl v rozpacích, protože někteří říkali, že ⟦john|Jochanan|Jan⟧ byl vzkříšen z mrtvých,
 
-[8] někteří, že se zjevil Elijah, a jiní, že vstal jeden z dávných proroků.
+[8] někteří, že se zjevil ⟦elijah|Elijahu|Eliáš⟧, a jiní, že vstal jeden z dávných proroků.
 
-[9] Herod řekl: „Johna jsem dal sťít, kdo je ale tento, o němž slyším takové věci?“ A snažil se ho spatřit.
+[9] Herodes řekl: „⟦john|Jochanana|Jana⟧ jsem dal sťít, kdo je ale tento, o němž slyším takové věci?“ A snažil se ho spatřit.
 
-[10] Když se apoštolové vrátili, vyprávěli mu všechno, co vykonali. On je vzal s sebou a odešel stranou do města jménem Bethsaida.
+[10] Když se apoštolové vrátili, vyprávěli mu všechno, co vykonali. On je vzal s sebou a odešel stranou do města jménem ⟦bethsaida|Bejt Cajda|Betsaida⟧.
 
-[11] Když se to zástupy dozvěděly, šly za ním; on je přijal, mluvil k nim o království *Elohim* a uzdravoval ty, kdo uzdravení potřebovali.
+[11] Když se to zástupy dozvěděly, šly za ním; on je přijal, mluvil k nim o království ⟦elohim|Elohim|Boží⟧ a uzdravoval ty, kdo uzdravení potřebovali.
 
 [12] Den se začal chýlit ke konci. Přistoupilo k němu těch dvanáct a řekli mu: „Propusť zástup, ať jdou do okolních vesnic a osad, najdou si nocleh a opatří si jídlo, neboť jsme tu na pustém místě.“
 
@@ -36,9 +36,9 @@
 
 [18] Stalo se, že když se o samotě modlil, byli s ním učedníci. Zeptal se jich: „Za koho mě zástupy pokládají?“
 
-[19] Odpověděli: „Za Johna Ponořovatele. Jiní však za Elijaha a jiní říkají, že vstal jeden z dávných proroků.“
+[19] Odpověděli: „Za ⟦john|Jochanana|Jana⟧ ⟦immerser|Ponořovatele|Křtitele⟧. Jiní však za ⟦elijah|Elijahua|Eliáše⟧ a jiní říkají, že vstal jeden z dávných proroků.“
 
-[20] Řekl jim: „A za koho mě pokládáte vy?“ *Kefa* odpověděl: „**Za *Mashiacha* *Elohim*.**“
+[20] Řekl jim: „A za koho mě pokládáte vy?“ ⟦peter|Kefa|Petr⟧ odpověděl: „**Za ⟦mashiach|Mašiacha|Mesiáše⟧ ⟦elohim|Elohim|Božího⟧.**“
 
 [21] On jim však přísně nařídil a přikázal, aby to nikomu neříkali,
 
@@ -52,25 +52,25 @@
 
 [26] Neboť kdo se stydí za mne a za má slova, za toho se bude stydět Syn člověka, až přijde ve své slávě a ve slávě Otce a svatých andělů.
 
-[27] Vpravdě vám však pravím, že někteří z těch, kdo tu stojí, neokusí smrti, dokud neuvidí království *Elohim*.“
+[27] Vpravdě vám však pravím, že někteří z těch, kdo tu stojí, neokusí smrti, dokud neuvidí království ⟦elohim|Elohim|Boží⟧.“
 
-[28] Asi osm dní po těchto slovech vzal s sebou *Kefu*, Johna a Jacoba a vystoupil na horu, aby se modlil.
+[28] Asi osm dní po těchto slovech vzal s sebou ⟦peter|Kefu|Petra⟧, ⟦john|Jochanana|Jana⟧ a ⟦james|Jaakova|Jakuba⟧ a vystoupil na horu, aby se modlil.
 
 [29] Zatímco se modlil, vzhled jeho tváře se změnil a jeho oděv zazářil oslnivou bělostí.
 
-[30] A hle, rozmlouvali s ním dva muži, Moses a Elijah,
+[30] A hle, rozmlouvali s ním dva muži, ⟦moses|Moše|Mojžíš⟧ a ⟦elijah|Elijahu|Eliáš⟧,
 
-[31] kteří se zjevili ve slávě a mluvili o jeho odchodu, který měl naplnit v Jerusalemě.
+[31] kteří se zjevili ve slávě a mluvili o jeho odchodu, který měl naplnit v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧.
 
-[32] *Kefa* a ti, kdo byli s ním, byli obtíženi spánkem, ale když se plně probrali, uviděli jeho slávu a ty dva muže, kteří stáli s ním.
+[32] ⟦peter|Kefa|Petr⟧ a ti, kdo byli s ním, byli obtíženi spánkem, ale když se plně probrali, uviděli jeho slávu a ty dva muže, kteří stáli s ním.
 
-[33] Když se ti muži od něho loučili, řekl *Kefa* *Yeshuovi*: „Mistře, je dobře, že jsme zde. Udělejme tři stany, jeden tobě, jeden Mosesovi a jeden Elijahovi“ – a nevěděl, co říká.
+[33] Když se ti muži od něho loučili, řekl ⟦peter|Kefa|Petr⟧ ⟦yeshua|Ješuovi|Ježíšovi⟧: „Mistře, je dobře, že jsme zde. Udělejme tři stany, jeden tobě, jeden ⟦moses|Mošovi|Mojžíšovi⟧ a jeden ⟦elijah|Elijahuovi|Eliášovi⟧“ – a nevěděl, co říká.
 
 [34] Zatímco to říkal, přišel oblak a zastínil je; a když vstupovali do oblaku, dostali strach.
 
 [35] A z oblaku zazněl hlas: „**To je můj Syn, můj Vyvolený; toho poslouchejte!**“
 
-[36] Když hlas zazněl, byl *Yeshua* nalezen sám. Oni mlčeli a v těch dnech nikomu nic neřekli z toho, co viděli.
+[36] Když hlas zazněl, byl ⟦yeshua|Ješua|Ježíš⟧ nalezen sám. Oni mlčeli a v těch dnech nikomu nic neřekli z toho, co viděli.
 
 [37] Druhého dne, když sestoupili z hory, vyšel mu vstříc veliký zástup.
 
@@ -80,13 +80,13 @@
 
 [40] Prosil jsem tvé učedníky, aby ho vyhnali, ale nemohli.“
 
-[41] *Yeshua* odpověděl: „Ó nevěřící a zvrácené pokolení, jak dlouho ještě budu s vámi a budu vás snášet? Přiveď sem svého syna.“
+[41] ⟦yeshua|Ješua|Ježíš⟧ odpověděl: „Ó nevěřící a zvrácené pokolení, jak dlouho ještě budu s vámi a budu vás snášet? Přiveď sem svého syna.“
 
-[42] Když chlapec přicházel, démon ho povalil na zem a lomcoval jím. *Yeshua* však pokáral nečistého ducha, chlapce uzdravil a vrátil ho jeho otci.
+[42] Když chlapec přicházel, démon ho povalil na zem a lomcoval jím. ⟦yeshua|Ješua|Ježíš⟧ však pokáral nečistého ducha, chlapce uzdravil a vrátil ho jeho otci.
 
-[43] A všichni žasli nad velebností *Elohim*.
+[43] A všichni žasli nad velebností ⟦elohim|Elohim|Boží⟧.
 
-Zatímco se však všichni divili všemu, co činil, řekl *Yeshua* svým učedníkům:
+Zatímco se však všichni divili všemu, co činil, řekl ⟦yeshua|Ješua|Ježíš⟧ svým učedníkům:
 
 [44] „Vložte si tato slova do uší: Syn člověka má být vydán do lidských rukou.“
 
@@ -94,21 +94,21 @@ Zatímco se však všichni divili všemu, co činil, řekl *Yeshua* svým učedn
 
 [46] Mezi nimi vznikl spor o to, kdo z nich je největší.
 
-[47] *Yeshua* však znal úvahy jejich srdce, vzal dítě, postavil je vedle sebe
+[47] ⟦yeshua|Ješua|Ježíš⟧ však znal úvahy jejich srdce, vzal dítě, postavil je vedle sebe
 
 [48] a řekl jim: „Kdo přijme toto dítě v mém jménu, přijímá mne, a kdo přijme mne, přijímá toho, který mě poslal. Neboť kdo je mezi vámi všemi nejmenší, ten je veliký.“
 
-[49] John odpověděl: „Mistře, viděli jsme kohosi, jak v tvém jménu vyhání démony, a snažili jsme se mu v tom zabránit, protože nechodí s námi.“
+[49] ⟦john|Jochanan|Jan⟧ odpověděl: „Mistře, viděli jsme kohosi, jak v tvém jménu vyhání démony, a snažili jsme se mu v tom zabránit, protože nechodí s námi.“
 
-[50] *Yeshua* mu však řekl: „Nebraňte mu, neboť kdo není proti vám, je pro vás.“
+[50] ⟦yeshua|Ješua|Ježíš⟧ mu však řekl: „Nebraňte mu, neboť kdo není proti vám, je pro vás.“
 
-[51] Když se přibližovaly dny, kdy měl být vzat vzhůru, pevně se rozhodl jít do Jerusalemu.
+[51] Když se přibližovaly dny, kdy měl být vzat vzhůru, pevně se rozhodl jít do ⟦jerusalem|Jerušalajim|Jeruzaléma⟧.
 
-[52] Poslal před sebou posly; ti šli a vešli do jedné samaritánské vesnice, aby mu připravili místo.
+[52] Poslal před sebou posly; ti šli a vešli do jedné ⟦samaritans|šomronské|samařské⟧ vesnice, aby mu připravili místo.
 
-[53] Ale tamější lidé ho nepřijali, protože jeho tvář směřovala k Jerusalemu.
+[53] Ale tamější lidé ho nepřijali, protože jeho tvář směřovala k ⟦jerusalem|Jerušalajim|Jeruzalému⟧.
 
-[54] Když to viděli jeho učedníci Jacob a John, řekli: „Pane, chceš, abychom řekli, ať sestoupí oheň z nebe a zničí je?“
+[54] Když to viděli jeho učedníci ⟦james|Jaakov|Jakub⟧ a ⟦john|Jochanan|Jan⟧, řekli: „Pane, chceš, abychom řekli, ať sestoupí oheň z nebe a zničí je?“
 
 [55] On se však obrátil a pokáral je.
 
@@ -116,15 +116,15 @@ Zatímco se však všichni divili všemu, co činil, řekl *Yeshua* svým učedn
 
 [57] Když šli po cestě, řekl mu kdosi: „Budu tě následovat, kamkoli půjdeš.“
 
-[58] *Yeshua* mu řekl: „Lišky mají doupata a nebeští ptáci hnízda, ale Syn člověka nemá, kde by hlavu složil.“
+[58] ⟦yeshua|Ješua|Ježíš⟧ mu řekl: „Lišky mají doupata a nebeští ptáci hnízda, ale Syn člověka nemá, kde by hlavu složil.“
 
 [59] Jinému řekl: „Následuj mě.“ Ten však řekl: „Pane, dovol mi nejprve jít a pohřbít svého otce.“
 
-[60] *Yeshua* mu řekl: „Nech mrtvé, ať pohřbívají své mrtvé. Ty však jdi a hlásej království *Elohim*.“
+[60] ⟦yeshua|Ješua|Ježíš⟧ mu řekl: „Nech mrtvé, ať pohřbívají své mrtvé. Ty však jdi a hlásej království ⟦elohim|Elohim|Boží⟧.“
 
 [61] A ještě jiný řekl: „Budu tě následovat, Pane, ale dovol mi nejprve se rozloučit s těmi, kdo jsou u mne doma.“
 
-[62] *Yeshua* mu řekl: „**Nikdo, kdo položí ruku na pluh a ohlíží se zpět, není způsobilý pro království *Elohim*.**“
+[62] ⟦yeshua|Ješua|Ježíš⟧ mu řekl: „**Nikdo, kdo položí ruku na pluh a ohlíží se zpět, není způsobilý pro království ⟦elohim|Elohim|Boží⟧.**“
 
 ## Změny
 

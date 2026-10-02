@@ -1,28 +1,28 @@
 # Exodus 20
 
-[1] *Elohim* spoke all these words, saying:
+[1] ⟦elohim|Elohim|God⟧ spoke all these words, saying:
 
-[2] "I am Yahweh your *Elohim*, who brought you out of the land of Egypt, out of the house of slavery.
+[2] "I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, who brought you out of the land of ⟦egypt|Mitzrayim|Egypt⟧, out of the house of slavery.
 
 [3] You shall have no other gods before my face.
 
 [4] You shall not make for yourself a carved image, or any likeness of anything that is in the heavens above, or that is in the earth beneath, or that is in the waters under the earth.
 
-[5] You shall not bow down to them or serve them; for I, Yahweh your *Elohim*, am a jealous El, visiting the iniquity of the fathers upon the children to the third and fourth generation of those who hate me,
+[5] You shall not bow down to them or serve them; for I, ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, am a jealous ⟦el|El|God⟧, visiting the iniquity of the fathers upon the children to the third and fourth generation of those who hate me,
 
 [6] but showing lovingkindness to thousands of those who love me and keep my commandments.
 
-[7] You shall not lift up the name of Yahweh your *Elohim* in vain, for Yahweh will not hold guiltless the one who lifts up his name in vain.
+[7] You shall not lift up the name of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ in vain, for ⟦yhwh|Yahweh|the LORD⟧ will not hold guiltless the one who lifts up his name in vain.
 
-[8] Remember the Sabbath day, to keep it holy.
+[8] Remember the ⟦shabbat|Shabbat|Sabbath⟧ day, to keep it holy.
 
 [9] Six days you shall labor and do all your work,
 
-[10] but the seventh day is a Sabbath to Yahweh your *Elohim*. In it you shall not do any work — you, or your son, or your daughter, your male servant or your female servant, or your livestock, or the resident alien within your gates.
+[10] but the seventh day is a ⟦shabbat|Shabbat|Sabbath⟧ to ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧. In it you shall not do any work — you, or your son, or your daughter, your male servant or your female servant, or your livestock, or the resident alien within your gates.
 
-[11] For in six days Yahweh made the heavens and the earth, the sea, and all that is in them, and rested on the seventh day. Therefore Yahweh blessed the Sabbath day and made it holy.
+[11] For in six days ⟦yhwh|Yahweh|the LORD⟧ made the heavens and the earth, the sea, and all that is in them, and rested on the seventh day. Therefore ⟦yhwh|Yahweh|the LORD⟧ blessed the ⟦shabbat|Shabbat|Sabbath⟧ day and made it holy.
 
-[12] Honor your father and your mother, that your days may be long in the land that Yahweh your *Elohim* is giving you.
+[12] Honor your father and your mother, that your days may be long in the land that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is giving you.
 
 [13] You shall not murder.
 
@@ -36,13 +36,13 @@
 
 [18] All the people were seeing the thunders, the lightnings, the sound of the ram's horn, and the mountain smoking; and when the people saw it, they trembled and stood at a distance.
 
-[19] They said to Moses, "You speak with us, and we will listen; but let not *Elohim* speak with us, lest we die."
+[19] They said to ⟦moses|Moshe|Moses⟧, "You speak with us, and we will listen; but let not ⟦elohim|Elohim|God⟧ speak with us, lest we die."
 
-[20] Moses said to the people, "Do not be afraid, for *Elohim* has come to test you, that the fear of him may be before you, so that you do not sin."
+[20] ⟦moses|Moshe|Moses⟧ said to the people, "Do not be afraid, for ⟦elohim|Elohim|God⟧ has come to test you, that the fear of him may be before you, so that you do not sin."
 
-[21] And the people stood at a distance, while Moses drew near to the thick darkness where *Elohim* was.
+[21] And the people stood at a distance, while ⟦moses|Moshe|Moses⟧ drew near to the thick darkness where ⟦elohim|Elohim|God⟧ was.
 
-[22] Yahweh said to Moses, "Thus you shall say to the children of Israel: 'You have seen for yourselves that I have spoken with you from the heavens.
+[22] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Thus you shall say to the children of ⟦israel|Yisrael|Israel⟧: 'You have seen for yourselves that I have spoken with you from the heavens.
 
 [23] You shall not make alongside me gods of silver, nor shall you make for yourselves gods of gold.
 

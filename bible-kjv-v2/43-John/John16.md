@@ -2,7 +2,7 @@
 
 [1] "I have said all these things to you to keep you from falling away.
 
-[2] They will put you out of the synagogues. Indeed, the hour is coming when whoever kills you will think he is offering service to *Elohim*.
+[2] They will put you out of the synagogues. Indeed, the hour is coming when whoever kills you will think he is offering service to ⟦elohim|Elohim|God⟧.
 
 [3] And they will do these things because they have not known the Father, nor me.
 
@@ -38,7 +38,7 @@
 
 [18] So they were saying, "What does he mean by 'a little while'? We do not know what he is talking about."
 
-[19] *Yeshua* knew that they wanted to ask him, so he said to them, "Is this what you are asking yourselves, what I meant by saying, 'A little while and you will not see me, and again a little while and you will see me'?
+[19] ⟦yeshua|Yeshua|Jesus⟧ knew that they wanted to ask him, so he said to them, "Is this what you are asking yourselves, what I meant by saying, 'A little while and you will not see me, and again a little while and you will see me'?
 
 [20] Truly, truly, I say to you, you will weep and lament, but the world will rejoice. You will be sorrowful, but **your sorrow will turn into joy**.
 
@@ -54,15 +54,15 @@
 
 [26] In that day you will ask in my name, and I do not say to you that I will ask the Father on your behalf;
 
-[27] for the Father himself loves you, because you have loved me and have believed that I came from *Elohim*.
+[27] for the Father himself loves you, because you have loved me and have believed that I came from ⟦elohim|Elohim|God⟧.
 
 [28] I came from the Father and have come into the world, and now I am leaving the world and going to the Father."
 
 [29] His disciples said, "Ah, now you are speaking plainly and not using figurative speech!
 
-[30] Now we know that you know all things and do not need anyone to question you; this is why we believe that you came from *Elohim*."
+[30] Now we know that you know all things and do not need anyone to question you; this is why we believe that you came from ⟦elohim|Elohim|God⟧."
 
-[31] *Yeshua* answered them, "Do you now believe?
+[31] ⟦yeshua|Yeshua|Jesus⟧ answered them, "Do you now believe?
 
 [32] Behold, the hour is coming, indeed it has come, when you will be scattered, each to his own home, and will leave me alone. Yet I am not alone, for the Father is with me.
 

@@ -2,47 +2,47 @@
 
 [1] Tak byla dokončena nebesa i země a celý jejich šik.
 
-[2] Sedmého dne *Elohim* dokončil dílo, které konal, a sedmého dne odpočinul od veškerého díla, které konal.
+[2] Sedmého dne ⟦elohim|Elohim|Bůh⟧ dokončil dílo, které konal, a sedmého dne odpočinul od veškerého díla, které konal.
 
-[3] *Elohim* požehnal sedmý den a oddělil ho jako svatý, protože v něm odpočinul od veškerého díla stvoření, které konal.
+[3] ⟦elohim|Elohim|Bůh⟧ požehnal sedmý den a oddělil ho jako svatý, protože v něm odpočinul od veškerého díla stvoření, které konal.
 
-[4] Toto jsou rody nebes a země, když byly stvořeny, v den, kdy Yahweh *Elohim* učinil zemi a nebesa.
+[4] Toto jsou rody nebes a země, když byly stvořeny, v den, kdy ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ učinil zemi a nebesa.
 
-[5] Na zemi se ještě neobjevil žádný keř pole a ještě nevyrašila žádná bylina pole, protože Yahweh *Elohim* nedal na zemi pršet a nebyl tu člověk, aby obdělával půdu.
+[5] Na zemi se ještě neobjevil žádný keř pole a ještě nevyrašila žádná bylina pole, protože ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ nedal na zemi pršet a nebyl tu člověk, aby obdělával půdu.
 
 [6] Ale ze země vystupoval pramen a zavlažoval celou tvář půdy.
 
-[7] Tu Yahweh *Elohim* utvořil člověka z prachu půdy a vdechl do jeho chřípí dech života, a člověk se stal živou bytostí.
+[7] Tu ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ utvořil člověka z prachu půdy a vdechl do jeho chřípí dech života, a člověk se stal živou bytostí.
 
-[8] Yahweh *Elohim* vysadil zahradu v Edenu, na východě, a tam umístil člověka, kterého utvořil.
+[8] ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ vysadil zahradu v ⟦eden|Edenu|Édenu⟧, na východě, a tam umístil člověka, kterého utvořil.
 
-[9] Yahweh *Elohim* dal ze země vyrůst každému stromu, který je lákavý na pohled a dobrý k jídlu – i stromu života uprostřed zahrady a stromu poznání dobrého a zlého.
+[9] ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ dal ze země vyrůst každému stromu, který je lákavý na pohled a dobrý k jídlu – i stromu života uprostřed zahrady a stromu poznání dobrého a zlého.
 
-[10] Z Edenu vycházela řeka, aby zavlažovala zahradu, a odtud se dělila a stávala se čtyřmi prameny.
+[10] Z ⟦eden|Edenu|Édenu⟧ vycházela řeka, aby zavlažovala zahradu, a odtud se dělila a stávala se čtyřmi prameny.
 
-[11] První se jmenuje Pishon; vine se celou zemí Havilah, kde je zlato,
+[11] První se jmenuje ⟦pishon|Pišon|Píšon⟧; vine se celou zemí ⟦havilah|Chavila|Chavíla⟧, kde je zlato,
 
 [12] a zlato té země je dobré. Je tam také bdelium a kámen onyx.
 
-[13] Druhá řeka se jmenuje Gihon; vine se celou zemí Cush.
+[13] Druhá řeka se jmenuje ⟦gihon|Gichon|Gíchon⟧; vine se celou zemí ⟦cush|Kuš|Kúš⟧.
 
-[14] Třetí řeka se jmenuje Tigris; teče na východ od Asshuru. A čtvrtá řeka je Euphrates.
+[14] Třetí řeka se jmenuje Chidekel; teče na východ od ⟦assyria|Aššuru|Asýrie⟧. A čtvrtá řeka je ⟦euphrates|Perat|Eufrat⟧.
 
-[15] Yahweh *Elohim* vzal člověka a umístil ho do zahrady Eden, aby ji obdělával a střežil.
+[15] ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ vzal člověka a umístil ho do zahrady ⟦eden|Eden|Éden⟧, aby ji obdělával a střežil.
 
-[16] A Yahweh *Elohim* přikázal člověku: „Z každého stromu zahrady smíš volně jíst;
+[16] A ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ přikázal člověku: „Z každého stromu zahrady smíš volně jíst;
 
 [17] ale ze stromu poznání dobrého a zlého jíst nebudeš, neboť v den, kdy z něho pojíš, jistě zemřeš.“
 
-[18] Potom Yahweh *Elohim* řekl: „Není dobré, aby člověk byl sám. Učiním mu pomoc, která mu bude odpovídat.“
+[18] Potom ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ řekl: „Není dobré, aby člověk byl sám. Učiním mu pomoc, která mu bude odpovídat.“
 
-[19] Tak Yahweh *Elohim* utvořil ze země všechnu divokou zvěř pole a všechny ptáky nebes a přivedl je k člověku, aby viděl, jak je pojmenuje; a jak člověk nazval každou živou bytost, tak se jmenovala.
+[19] Tak ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ utvořil ze země všechnu divokou zvěř pole a všechny ptáky nebes a přivedl je k člověku, aby viděl, jak je pojmenuje; a jak člověk nazval každou živou bytost, tak se jmenovala.
 
 [20] Člověk dal jména všemu dobytku, ptákům nebes i veškeré divoké zvěři pole; ale pro člověka se nenašla pomoc, která by mu odpovídala.
 
-[21] Tu Yahweh *Elohim* uvedl na člověka hluboký spánek, a on usnul; vzal jeden z jeho boků a místo něj uzavřel tělo.
+[21] Tu ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ uvedl na člověka hluboký spánek, a on usnul; vzal jeden z jeho boků a místo něj uzavřel tělo.
 
-[22] A Yahweh *Elohim* vystavěl z boku, který vzal z člověka, ženu a přivedl ji k člověku.
+[22] A ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ vystavěl z boku, který vzal z člověka, ženu a přivedl ji k člověku.
 
 [23] I řekl člověk:
 

@@ -2,15 +2,15 @@
 
 [1] Zavolal k sobě svých dvanáct učedníků a dal jim autoritu nad nečistými duchy, aby je vyháněli, a aby uzdravovali každou nemoc a každou slabost.
 
-[2] Jména dvanácti apoštolů jsou tato: první Simon, zvaný *Kefa*, a Andrew, jeho bratr; Jacob, syn Zebedeův, a John, jeho bratr;
+[2] Jména dvanácti apoštolů jsou tato: první Šimon, zvaný ⟦peter|Kefa|Petr⟧, a ⟦andrew|Andreas|Ondřej⟧, jeho bratr; ⟦james|Jaakov|Jakub⟧, syn ⟦zebedee|Zebedaiův|Zebedeův⟧, a ⟦john|Jochanan|Jan⟧, jeho bratr;
 
-[3] Philip a Bartholomew; Thomas a Matthew, výběrčí daní; Jacob, syn Alphaeův, a Thaddaeus;
+[3] ⟦philip|Filippos|Filip⟧ a ⟦bartholomew|Bar-Talmaj|Bartoloměj⟧; ⟦thomas|Toma|Tomáš⟧ a ⟦matthew|Mattaj|Matouš⟧, výběrčí daní; ⟦james|Jaakov|Jakub⟧, syn ⟦alphaeus|Alfaiův|Alfeův⟧, a ⟦thaddaeus|Thaddaios|Tadeáš⟧;
 
-[4] Simon Zélóta a Judas Iscariot, který ho zradil.
+[4] Šimon ⟦zealot|Zélóta|Horlivec⟧ a ⟦judas|Jehuda|Jidáš⟧ ⟦iscariot|Iškariot|Iškariotský⟧, který ho zradil.
 
-[5] Těchto dvanáct *Yeshua* vyslal a přikázal jim: „Nechoďte k pohanům a nevcházejte do žádného města Samaritanů,
+[5] Těchto dvanáct ⟦yeshua|Ješua|Ježíš⟧ vyslal a přikázal jim: „Nechoďte k pohanům a nevcházejte do žádného města ⟦samaritans|Šomronim|Samařanů⟧,
 
-[6] ale jděte raději ke ztraceným ovcím z domu Israele.
+[6] ale jděte raději ke ztraceným ovcím z domu ⟦israel|Jisraele|Izraele⟧.
 
 [7] Cestou kažte a říkejte: ‚Přiblížilo se království nebes.‘
 
@@ -28,7 +28,7 @@
 
 [14] A kdo vás nepřijme a nebude poslouchat vaše slova, vytřeste prach ze svých nohou, až budete odcházet z toho domu nebo města.
 
-[15] Vpravdě vám pravím: Zemi Sodomy a Gomorrhy bude v den soudu snesitelněji než tomu městu.
+[15] Vpravdě vám pravím: Zemi ⟦sodom|Sedomu|Sodomy⟧ a ⟦gomorrah|Amory|Gomory⟧ bude v den soudu snesitelněji než tomu městu.
 
 [16] Hle, posílám vás jako ovce mezi vlky; buďte tedy obezřetní jako hadi a bezelstní jako holubice.
 
@@ -44,17 +44,17 @@
 
 [22] a všichni vás budou nenávidět pro mé jméno. Ale kdo vytrvá až do konce, bude zachráněn.
 
-[23] Když vás budou pronásledovat v jednom městě, utečte do dalšího; neboť vpravdě vám pravím: Neprojdete všechna města Israele, než přijde Syn člověka.
+[23] Když vás budou pronásledovat v jednom městě, utečte do dalšího; neboť vpravdě vám pravím: Neprojdete všechna města ⟦israel|Jisraele|Izraele⟧, než přijde Syn člověka.
 
 [24] Učedník není nad svého učitele ani služebník nad svého pána.
 
-[25] Stačí, aby učedník byl jako jeho učitel a služebník jako jeho pán. Jestliže hospodáře nazvali Beelzebul, oč více budou pomlouvat jeho domácí.
+[25] Stačí, aby učedník byl jako jeho učitel a služebník jako jeho pán. Jestliže hospodáře nazvali ⟦beelzebul|Beelzebul|Belzebul⟧, oč více budou pomlouvat jeho domácí.
 
 [26] Nebojte se jich tedy, neboť není nic zakrytého, co nebude odhaleno, ani skrytého, co nebude poznáno.
 
 [27] Co vám říkám ve tmě, mluvte na světle, a co slyšíte šeptem, hlásejte na střechách.
 
-[28] A nebojte se těch, kdo zabíjejí tělo, ale duši zabít nemohou. Bojte se spíše toho, který může v Gehenna zahubit duši i tělo.
+[28] A nebojte se těch, kdo zabíjejí tělo, ale duši zabít nemohou. Bojte se spíše toho, který může v ⟦gehenna|Gehenně|pekle⟧ zahubit duši i tělo.
 
 [29] Neprodávají se dva vrabci za assarion? A ani jeden z nich nepadne na zem bez vašeho Otce.
 

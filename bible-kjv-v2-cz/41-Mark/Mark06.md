@@ -2,11 +2,11 @@
 
 [1] Odešel odtamtud a přišel do svého rodného města a jeho učedníci šli za ním.
 
-[2] V sabat začal učit v synagoze a mnozí, kdo ho slyšeli, žasli a říkali: „Odkud to ten člověk má? Co je to za moudrost, která mu byla dána? A jak se dějí takové mocné činy jeho rukama?
+[2] V ⟦shabbat|šabat|sobotu⟧ začal učit v synagoze a mnozí, kdo ho slyšeli, žasli a říkali: „Odkud to ten člověk má? Co je to za moudrost, která mu byla dána? A jak se dějí takové mocné činy jeho rukama?
 
-[3] Což to není ten tesař, syn Mary a bratr Jacoba, Josepha, Judase a Simona? A nejsou jeho sestry tady u nás?“ A pohoršovali se nad ním.
+[3] Což to není ten tesař, syn ⟦mary|Mirjam|Marie⟧ a bratr ⟦james|Jaakova|Jakuba⟧, ⟦joses|Joseho|Jozesa⟧, ⟦jude|Jehudy|Judy⟧ a Šimona? A nejsou jeho sestry tady u nás?“ A pohoršovali se nad ním.
 
-[4] *Yeshua* jim řekl: „**Prorok není beze cti, leda ve svém rodném městě, mezi svými příbuznými a ve svém domě.**“
+[4] ⟦yeshua|Ješua|Ježíš⟧ jim řekl: „**Prorok není beze cti, leda ve svém rodném městě, mezi svými příbuznými a ve svém domě.**“
 
 [5] A nemohl tam učinit žádný mocný čin, jen na několik nemocných vložil ruce a uzdravil je.
 
@@ -28,39 +28,39 @@ A obcházel okolní vesnice a učil.
 
 [13] Vyháněli mnoho démonů, mnoho nemocných mazali olejem a uzdravovali je.
 
-[14] Uslyšel o tom král Herod, neboť *Yeshuovo* jméno se stalo známým. Někteří říkali: „John Ponořovatel byl vzkříšen z mrtvých. Proto v něm působí tyto zázračné moci.“
+[14] Uslyšel o tom král Herodes, neboť ⟦yeshua|Ješuovo|Ježíšovo⟧ jméno se stalo známým. Někteří říkali: „⟦john|Jochanan|Jan⟧ ⟦immerser|Ponořovatel|Křtitel⟧ byl vzkříšen z mrtvých. Proto v něm působí tyto zázračné moci.“
 
-[15] Jiní však říkali: „Je to Elijah.“ A jiní říkali: „Je to prorok jako jeden z dávných proroků.“
+[15] Jiní však říkali: „Je to ⟦elijah|Elijahu|Eliáš⟧.“ A jiní říkali: „Je to prorok jako jeden z dávných proroků.“
 
-[16] Když to však uslyšel Herod, řekl: „John, kterého jsem dal sťít, byl vzkříšen.“
+[16] Když to však uslyšel Herodes, řekl: „⟦john|Jochanan|Jan⟧, kterého jsem dal sťít, byl vzkříšen.“
 
-[17] Byl to totiž Herod, kdo poslal, dal Johna zatknout a spoutaného vsadit do vězení kvůli Herodias, ženě svého bratra Philipa, protože se s ní oženil.
+[17] Byl to totiž Herodes, kdo poslal, dal ⟦john|Jochanana|Jana⟧ zatknout a spoutaného vsadit do vězení kvůli Herodias, ženě svého bratra ⟦philip|Filippa|Filipa⟧, protože se s ní oženil.
 
-[18] John totiž Herodovi říkal: „Není ti dovoleno mít ženu svého bratra.“
+[18] ⟦john|Jochanan|Jan⟧ totiž Herodovi říkal: „Není ti dovoleno mít ženu svého bratra.“
 
 [19] Herodias na něho zanevřela a chtěla ho zabít. Ale nemohla,
 
-[20] neboť Herod se Johna bál, protože věděl, že je to muž spravedlivý a svatý, a chránil ho. Když ho slyšel, byl velmi bezradný, a přece ho rád poslouchal.
+[20] neboť Herodes se ⟦john|Jochanana|Jana⟧ bál, protože věděl, že je to muž spravedlivý a svatý, a chránil ho. Když ho slyšel, byl velmi bezradný, a přece ho rád poslouchal.
 
-[21] Příležitost však přišla, když Herod ke svým narozeninám vystrojil hostinu svým velmožům, vojenským velitelům a předním mužům Galilee.
+[21] Příležitost však přišla, když Herodes ke svým narozeninám vystrojil hostinu svým velmožům, vojenským velitelům a předním mužům ⟦galilee|Galilu|Galileje⟧.
 
 [22] Když totiž vešla dcera Herodias a tančila, zalíbila se Herodovi i jeho hostům. Král řekl dívce: „Požádej mě, oč chceš, a dám ti to.“
 
 [23] A přísahal jí: „Oč mě požádáš, dám ti, až do poloviny svého království.“
 
-[24] Vyšla a řekla své matce: „Oč mám požádat?“ Ta řekla: „O hlavu Johna Ponořovatele.“
+[24] Vyšla a řekla své matce: „Oč mám požádat?“ Ta řekla: „O hlavu ⟦john|Jochanana|Jana⟧ ⟦immerser|Ponořovatele|Křtitele⟧.“
 
-[25] Hned spěšně vešla ke králi a žádala: „Chci, abys mi hned dal na míse hlavu Johna Ponořovatele.“
+[25] Hned spěšně vešla ke králi a žádala: „Chci, abys mi hned dal na míse hlavu ⟦john|Jochanana|Jana⟧ ⟦immerser|Ponořovatele|Křtitele⟧.“
 
 [26] Král se velmi zarmoutil, ale kvůli svým přísahám a hostům ji nechtěl odmítnout.
 
-[27] Hned poslal král kata s rozkazem přinést Johnovu hlavu. Ten šel a sťal ho ve vězení,
+[27] Hned poslal král kata s rozkazem přinést ⟦john|Jochananovu|Janovu⟧ hlavu. Ten šel a sťal ho ve vězení,
 
 [28] přinesl jeho hlavu na míse a dal ji dívce a dívka ji dala své matce.
 
 [29] Když to uslyšeli jeho učedníci, přišli, vzali jeho tělo a položili je do hrobu.
 
-[30] Apoštolové se vrátili k *Yeshuovi* a vyprávěli mu všechno, co dělali a čemu učili.
+[30] Apoštolové se vrátili k ⟦yeshua|Ješuovi|Ježíšovi⟧ a vyprávěli mu všechno, co dělali a čemu učili.
 
 [31] Řekl jim: „Pojďte vy sami stranou na opuštěné místo a trochu si odpočiňte.“ Mnoho lidí totiž přicházelo a odcházelo, a neměli ani čas se najíst.
 
@@ -90,7 +90,7 @@ A obcházel okolní vesnice a učil.
 
 [44] Těch, kdo jedli chleby, bylo pět tisíc mužů.
 
-[45] Hned nato přiměl své učedníky, aby vstoupili do lodi a jeli napřed na druhý břeh, do Bethsaidy, zatímco on rozpustí zástup.
+[45] Hned nato přiměl své učedníky, aby vstoupili do lodi a jeli napřed na druhý břeh, do ⟦bethsaida|Bejt Cajdy|Betsaidy⟧, zatímco on rozpustí zástup.
 
 [46] Když se s nimi rozloučil, odešel na horu, aby se modlil.
 
@@ -106,7 +106,7 @@ A obcházel okolní vesnice a učil.
 
 [52] neboť neporozuměli tomu s chleby, ale jejich srdce bylo zatvrzelé.
 
-[53] Když se přeplavili, přistáli v Gennesaretu a zakotvili u břehu.
+[53] Když se přeplavili, přistáli v ⟦gennesaret|Ginosaru|Genezaretu⟧ a zakotvili u břehu.
 
 [54] Když vystoupili z lodi, lidé ho hned poznali,
 

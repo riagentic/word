@@ -1,12 +1,12 @@
 # Leviticus 22
 
-[1] Yahweh spoke to Moses, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[2] "Speak to Aaron and his sons, that they keep themselves apart from the holy things of the children of Israel, which they consecrate to me, so that they do not profane my holy name. I am Yahweh.
+[2] "Speak to ⟦aaron|Aharon|Aaron⟧ and his sons, that they keep themselves apart from the holy things of the children of ⟦israel|Yisrael|Israel⟧, which they consecrate to me, so that they do not profane my holy name. I am ⟦yhwh|Yahweh|the LORD⟧.
 
-[3] Say to them: 'Any man throughout your generations among all your offspring who, while he has any uncleanness on him, approaches the holy things that the children of Israel consecrate to Yahweh, that person shall be cut off from my presence. I am Yahweh.
+[3] Say to them: 'Any man throughout your generations among all your offspring who, while he has any uncleanness on him, approaches the holy things that the children of ⟦israel|Yisrael|Israel⟧ consecrate to ⟦yhwh|Yahweh|the LORD⟧, that person shall be cut off from my presence. I am ⟦yhwh|Yahweh|the LORD⟧.
 
-[4] No man of the offspring of Aaron who has skin disease or a discharge shall eat of the holy things until he is clean. Whoever touches anything unclean by contact with a corpse, or a man from whom there is an emission of semen,
+[4] No man of the offspring of ⟦aaron|Aharon|Aaron⟧ who has skin disease or a discharge shall eat of the holy things until he is clean. Whoever touches anything unclean by contact with a corpse, or a man from whom there is an emission of semen,
 
 [5] or whoever touches any swarming creature by which he may become unclean, or a person from whom he may take uncleanness — whatever the uncleanness —
 
@@ -14,9 +14,9 @@
 
 [7] When the sun is down he shall be clean, and afterward he may eat of the holy things, for it is his food.
 
-[8] He shall not eat an animal that dies of itself or is torn by beasts, defiling himself by it. I am Yahweh.
+[8] He shall not eat an animal that dies of itself or is torn by beasts, defiling himself by it. I am ⟦yhwh|Yahweh|the LORD⟧.
 
-[9] They shall therefore keep my charge, lest they bear sin for it and die for profaning it. I am Yahweh who consecrates them.
+[9] They shall therefore keep my charge, lest they bear sin for it and die for profaning it. I am ⟦yhwh|Yahweh|the LORD⟧ who consecrates them.
 
 [10] No outsider shall eat of a holy thing; a resident of the priest's house or a hired worker shall not eat of the holy thing.
 
@@ -28,43 +28,43 @@
 
 [14] If a man eats of a holy thing unintentionally, he shall add a fifth to it and give the holy thing to the priest.
 
-[15] They shall not profane the holy things of the children of Israel, which they present to Yahweh,
+[15] They shall not profane the holy things of the children of ⟦israel|Yisrael|Israel⟧, which they present to ⟦yhwh|Yahweh|the LORD⟧,
 
-[16] by letting them bear the iniquity of guilt when they eat their holy things; for I am Yahweh who consecrates them.'"
+[16] by letting them bear the iniquity of guilt when they eat their holy things; for I am ⟦yhwh|Yahweh|the LORD⟧ who consecrates them.'"
 
-[17] Yahweh spoke to Moses, saying,
+[17] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[18] "Speak to Aaron and his sons, and to all the children of Israel, and say to them: 'Any man of the house of Israel, or of the foreigners in Israel, who presents his offering for any of their vows or for any of their freewill offerings that they present to Yahweh as a burnt offering —
+[18] "Speak to ⟦aaron|Aharon|Aaron⟧ and his sons, and to all the children of ⟦israel|Yisrael|Israel⟧, and say to them: 'Any man of the house of ⟦israel|Yisrael|Israel⟧, or of the foreigners in ⟦israel|Yisrael|Israel⟧, who presents his offering for any of their vows or for any of their freewill offerings that they present to ⟦yhwh|Yahweh|the LORD⟧ as a burnt offering —
 
 [19] to be accepted, you shall offer a male without blemish from the cattle, the sheep, or the goats.
 
 [20] You shall not offer anything that has a blemish, for it will not be acceptable on your behalf.
 
-[21] When any man offers a sacrifice of peace offerings to Yahweh to fulfill a vow, or as a freewill offering, from the herd or the flock, it shall be perfect to be accepted; there shall be no blemish in it.
+[21] When any man offers a sacrifice of peace offerings to ⟦yhwh|Yahweh|the LORD⟧ to fulfill a vow, or as a freewill offering, from the herd or the flock, it shall be perfect to be accepted; there shall be no blemish in it.
 
-[22] Anything blind, or injured, or maimed, or having a discharge, or itch, or scabs — these you shall not offer to Yahweh, nor make from them an offering made by fire upon the altar to Yahweh.
+[22] Anything blind, or injured, or maimed, or having a discharge, or itch, or scabs — these you shall not offer to ⟦yhwh|Yahweh|the LORD⟧, nor make from them an offering made by fire upon the altar to ⟦yhwh|Yahweh|the LORD⟧.
 
 [23] A bull or a lamb that has a limb too long or too short you may offer as a freewill offering, but for a vow it shall not be accepted.
 
-[24] You shall not offer to Yahweh any animal that is bruised or crushed or torn or cut; you shall not make any such offering in your land.
+[24] You shall not offer to ⟦yhwh|Yahweh|the LORD⟧ any animal that is bruised or crushed or torn or cut; you shall not make any such offering in your land.
 
-[25] And from the hand of a foreigner you shall not present the bread of your *Elohim* from any of these; because their corruption is in them, and there is a blemish in them; they shall not be accepted on your behalf.'"
+[25] And from the hand of a foreigner you shall not present the bread of your ⟦elohim|Elohim|God⟧ from any of these; because their corruption is in them, and there is a blemish in them; they shall not be accepted on your behalf.'"
 
-[26] Yahweh spoke to Moses, saying,
+[26] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[27] "When a bull or a lamb or a goat is born, it shall remain seven days with its mother; and from the eighth day on it shall be accepted as an offering made by fire to Yahweh.
+[27] "When a bull or a lamb or a goat is born, it shall remain seven days with its mother; and from the eighth day on it shall be accepted as an offering made by fire to ⟦yhwh|Yahweh|the LORD⟧.
 
 [28] But you shall not kill a cow or a ewe and its young in one day.
 
-[29] When you offer a sacrifice of thanksgiving to Yahweh, you shall offer it so that you may be accepted.
+[29] When you offer a sacrifice of thanksgiving to ⟦yhwh|Yahweh|the LORD⟧, you shall offer it so that you may be accepted.
 
-[30] It shall be eaten on the same day; you shall leave none of it until morning. I am Yahweh.
+[30] It shall be eaten on the same day; you shall leave none of it until morning. I am ⟦yhwh|Yahweh|the LORD⟧.
 
-[31] You shall keep my commandments and do them. I am Yahweh.
+[31] You shall keep my commandments and do them. I am ⟦yhwh|Yahweh|the LORD⟧.
 
-[32] You shall not profane my holy name, but I will be hallowed among the children of Israel. I am Yahweh who consecrates you,
+[32] You shall not profane my holy name, but I will be hallowed among the children of ⟦israel|Yisrael|Israel⟧. I am ⟦yhwh|Yahweh|the LORD⟧ who consecrates you,
 
-[33] who brought you out of the land of Egypt to be your *Elohim*. I am Yahweh."
+[33] who brought you out of the land of ⟦egypt|Mitzrayim|Egypt⟧ to be your ⟦elohim|Elohim|God⟧. I am ⟦yhwh|Yahweh|the LORD⟧."
 
 ## Changes
 

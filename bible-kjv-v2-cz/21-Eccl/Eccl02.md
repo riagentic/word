@@ -12,11 +12,11 @@
 
 [6] Udělal jsem si nádrže, z nichž se měl zavlažovat les rostoucích stromů.
 
-[7] Koupil jsem otroky a otrokyně a měl jsem otroky zrozené v mém domě. Měl jsem také veliké jmění ve skotu a ovcích, větší než kdokoli, kdo byl přede mnou v Jerusalemě.
+[7] Koupil jsem otroky a otrokyně a měl jsem otroky zrozené v mém domě. Měl jsem také veliké jmění ve skotu a ovcích, větší než kdokoli, kdo byl přede mnou v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧.
 
 [8] Nashromáždil jsem si také stříbro a zlato a poklady králů a provincií. Opatřil jsem si zpěváky a zpěvačky a mnoho souložnic, rozkoš synů lidských.
 
-[9] Tak jsem se stal velikým a převýšil všechny, kdo byli přede mnou v Jerusalemě. Také má moudrost mi zůstala.
+[9] Tak jsem se stal velikým a převýšil všechny, kdo byli přede mnou v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧. Také má moudrost mi zůstala.
 
 [10] Cokoli si mé oči žádaly, to jsem jim neodepřel. Neodpíral jsem svému srdci žádnou radost, neboť mé srdce nacházelo radost ve vší mé námaze, a to byla má odměna za všechnu mou námahu.
 
@@ -46,11 +46,11 @@
 
 [23] Neboť všechny jeho dny jsou plné bolesti a jeho práce je trápení. Ani v noci jeho srdce neodpočívá. I to je marnost.
 
-[24] Není nic lepšího pro člověka, než aby jedl a pil a nalézal potěšení ve své námaze. I to, jak jsem viděl, je z ruky *Elohim*,
+[24] Není nic lepšího pro člověka, než aby jedl a pil a nalézal potěšení ve své námaze. I to, jak jsem viděl, je z ruky ⟦elohim|Elohim|Boží⟧,
 
 [25] neboť kdo bez něho může jíst nebo kdo se může radovat?
 
-[26] Neboť tomu, kdo se mu líbí, dal *Elohim* moudrost, poznání a radost, ale hříšníkovi dal zaměstnání sbírat a shromažďovat, jen aby to dal tomu, kdo se líbí *Elohim*. I to je marnost a honba za duchem.
+[26] Neboť tomu, kdo se mu líbí, dal ⟦elohim|Elohim|Bůh⟧ moudrost, poznání a radost, ale hříšníkovi dal zaměstnání sbírat a shromažďovat, jen aby to dal tomu, kdo se líbí ⟦elohim|Elohim|Bohu⟧. I to je marnost a honba za duchem.
 
 ## Změny
 

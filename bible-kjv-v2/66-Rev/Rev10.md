@@ -12,7 +12,7 @@
 
 [6] and swore by him who lives forever and ever, who created heaven and what is in it, the earth and what is in it, and the sea and what is in it, that there would be no more delay,
 
-[7] but that in the days of the trumpet call to be sounded by the seventh angel, the mystery of *Elohim* would be fulfilled, just as he announced to his servants the prophets.
+[7] but that in the days of the trumpet call to be sounded by the seventh angel, the mystery of ⟦elohim|Elohim|God⟧ would be fulfilled, just as he announced to his servants the prophets.
 
 [8] Then the voice that I had heard from heaven spoke to me again, saying, "Go, take the scroll that is open in the hand of the angel who is standing on the sea and on the land."
 

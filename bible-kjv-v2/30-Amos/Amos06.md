@@ -1,13 +1,13 @@
 # Amos 6
 
-[1] "Woe to those who are at ease in Zion,
-and to those who feel secure on the mountain of Samaria,
+[1] "Woe to those who are at ease in ⟦zion|Tziyon|Zion⟧,
+and to those who feel secure on the mountain of ⟦samaria|Shomron|Samaria⟧,
 the notable men of the first of the nations,
-to whom the house of Israel comes!
+to whom the house of ⟦israel|Yisrael|Israel⟧ comes!
 
-[2] Pass over to Calneh, and see,
-and from there go to Hamath the great;
-then go down to Gath of the Philistines.
+[2] Pass over to ⟦calneh|Kalneh|Calneh⟧, and see,
+and from there go to ⟦hamath|Chamat|Hamath⟧ the great;
+then go down to ⟦gath|Gat|Gath⟧ of the ⟦philistines|Pelishtim|Philistines⟧.
 Are you better than these kingdoms?
 Or is their territory greater than your territory,
 
@@ -24,35 +24,35 @@ and like David invent for themselves instruments of music,
 
 [6] who drink wine in bowls
 and anoint themselves with the finest oils,
-but are not grieved over the ruin of Joseph!
+but are not grieved over the ruin of ⟦joseph|Yosef|Joseph⟧!
 
 [7] Therefore they shall now be the first of those who go into exile,
 and the revelry of those who stretch themselves out shall pass away."
 
-[8] Lord Yahweh has sworn by himself, declares Yahweh, the *Elohim* of Hosts:
+[8] ⟦adonai-yhwh|Lord Yahweh|The Lord GOD⟧ has sworn by himself, declares ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of Hosts:
 
-"I abhor the pride of Jacob
+"I abhor the pride of ⟦jacob|Yaaqov|Jacob⟧
 and hate his strongholds,
 and I will deliver up the city and all that is in it."
 
 [9] And if ten men remain in one house, they shall die.
 
-[10] And when one's relative, the one who anoints him for burial, shall take him up to bring the bones out of the house, and shall say to him who is in the innermost parts of the house, "Is there still anyone with you?" he shall say, "No"; and he shall say, "Silence! We must not mention the name of Yahweh."
+[10] And when one's relative, the one who anoints him for burial, shall take him up to bring the bones out of the house, and shall say to him who is in the innermost parts of the house, "Is there still anyone with you?" he shall say, "No"; and he shall say, "Silence! We must not mention the name of ⟦yhwh|Yahweh|the LORD⟧."
 
-[11] For behold, Yahweh commands, and the great house shall be struck down into fragments, and the little house into bits.
+[11] For behold, ⟦yhwh|Yahweh|the LORD⟧ commands, and the great house shall be struck down into fragments, and the little house into bits.
 
 [12] Do horses run on rocks?
 Does one plow there with oxen?
 But you have turned justice into poison
 and the fruit of righteousness into wormwood —
 
-[13] you who rejoice in Lo-debar ("Nothing"),
-who say, "Have we not by our own strength captured Karnaim ("Horns") for ourselves?"
+[13] you who rejoice in ⟦lo-debar|Lo-Devar ("Nothing")|Lo-debar⟧,
+who say, "Have we not by our own strength captured ⟦karnaim|Qarnayim ("Horns")|Karnaim⟧ for ourselves?"
 
 [14] "For behold, I will raise up against you a nation,
-O house of Israel," declares Yahweh, the *Elohim* of Hosts;
+O house of ⟦israel|Yisrael|Israel⟧," declares ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of Hosts;
 "and they shall oppress you
-from Lebo-Hamath to the Brook of the Arabah."
+from ⟦lebo-hamath|Levo Chamat|Lebo-hamath⟧ to the Brook of the ⟦arabah|Aravah|Arabah⟧."
 
 ## Changes
 

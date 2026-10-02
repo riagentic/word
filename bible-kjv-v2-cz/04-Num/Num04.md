@@ -1,14 +1,14 @@
 # Numeri 4
 
-[1] Yahweh promluvil k Mosesovi a Aaronovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a ⟦aaron|Aharonovi|Áronovi⟧:
 
-[2] „Proveďte sčítání synů Kohatha ze synů Leviho podle jejich rodů, podle jejich otcovských domů,
+[2] „Proveďte sčítání synů Kehata ze synů ⟦levi|Leviho|Léviho⟧ podle jejich rodů, podle jejich otcovských domů,
 
 [3] od třiceti let výše až do padesáti let, všech, kdo jsou způsobilí ke službě, aby konali práci ve stanu setkávání.
 
-[4] Toto je služba synů Kohatha ve stanu setkávání, týkající se velesvatých věcí.
+[4] Toto je služba synů Kehata ve stanu setkávání, týkající se velesvatých věcí.
 
-[5] Když se má tábor vydat na cestu, vejde Aaron se svými syny; sejmou zakrývající oponu a přikryjí jí truhlu Svědectví.
+[5] Když se má tábor vydat na cestu, vejde ⟦aaron|Aharon|Áron⟧ se svými syny; sejmou zakrývající oponu a přikryjí jí truhlu Svědectví.
 
 [6] Položí na ni přikrývku z jemné kůže, přes ni prostřou pokrývku celou z modrého purpuru a zasunou její tyče.
 
@@ -28,35 +28,35 @@
 
 [14] Položí na něj všechno náčiní, jímž u něj slouží – kadidelnice, vidlice, lopatky a kropenky, všechno náčiní oltáře – prostřou přes něj přikrývku z jemné kůže a zasunou jeho tyče.
 
-[15] Když Aaron a jeho synové dokončí přikrývání svatyně a všeho náčiní svatyně, když se má tábor vydat na cestu, teprve potom přijdou synové Kohatha, aby to nesli; ale nedotknou se ničeho svatého, aby nezemřeli. To je náklad synů Kohatha ve stanu setkávání.
+[15] Když ⟦aaron|Aharon|Áron⟧ a jeho synové dokončí přikrývání svatyně a všeho náčiní svatyně, když se má tábor vydat na cestu, teprve potom přijdou synové Kehata, aby to nesli; ale nedotknou se ničeho svatého, aby nezemřeli. To je náklad synů Kehata ve stanu setkávání.
 
-[16] Na starosti Eleazara, syna kněze Aarona, bude olej na svícení, vonné kadidlo, pravidelná moučná oběť, olej pomazání a dohled nad celým Příbytkem a nad vším, co je v něm – nad svatyní i jejím náčiním.“
+[16] Na starosti ⟦eleazar|Elazara|Eleazara⟧, syna kněze ⟦aaron|Aharona|Árona⟧, bude olej na svícení, vonné kadidlo, pravidelná moučná oběť, olej pomazání a dohled nad celým Příbytkem a nad vším, co je v něm – nad svatyní i jejím náčiním.“
 
-[17] Yahweh promluvil k Mosesovi a Aaronovi:
+[17] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a ⟦aaron|Aharonovi|Áronovi⟧:
 
-[18] „Nedopusťte, aby kmen rodů Kohathitů byl vyťat z Levitů.
+[18] „Nedopusťte, aby kmen rodů ⟦kohathites|Kehati|Kehatovců⟧ byl vyťat z ⟦levites|Levijim|lévijců⟧.
 
-[19] Ale učiňte pro ně toto, aby žili a nezemřeli, když přistupují k velesvatým věcem: Aaron a jeho synové vejdou a určí každému jeho službu a jeho náklad.
+[19] Ale učiňte pro ně toto, aby žili a nezemřeli, když přistupují k velesvatým věcem: ⟦aaron|Aharon|Áron⟧ a jeho synové vejdou a určí každému jeho službu a jeho náklad.
 
-[20] Kohathité však nevejdou, aby se podívali na svaté věci ani na okamžik, aby nezemřeli.“
+[20] ⟦kohathites|Kehati|Kehatovci⟧ však nevejdou, aby se podívali na svaté věci ani na okamžik, aby nezemřeli.“
 
-[21] Yahweh promluvil k Mosesovi:
+[21] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[22] „Proveď sčítání také synů Gershona podle jejich otcovských domů, podle jejich rodů;
+[22] „Proveď sčítání také synů ⟦gershon|Geršona|Geršóna⟧ podle jejich otcovských domů, podle jejich rodů;
 
 [23] od třiceti let výše až do padesáti let je sečteš – všechny, kdo jsou způsobilí konat službu, aby vykonávali práci ve stanu setkávání.
 
-[24] Toto je služba rodů Gershonitů při službě a při nošení nákladů:
+[24] Toto je služba rodů ⟦gershonites|Geršunni|Geršonovců⟧ při službě a při nošení nákladů:
 
 [25] budou nosit čalouny Příbytku, stan setkávání s jeho přikrývkou a přikrývkou z jemné kůže, která je navrchu, závěs pro vchod do stanu setkávání,
 
 [26] zástěny nádvoří, závěs pro vchod brány nádvoří, které obklopuje Příbytek a oltář, jejich provazy a všechno vybavení pro jejich službu i všechno, co je pro ně zhotoveno; to je jejich služba.
 
-[27] Pod vedením Aarona a jeho synů bude veškerá služba synů Gershonitů ve všech jejich nákladech a ve veškeré jejich službě; a přidělíte jim na starost všechno, co mají nést.
+[27] Pod vedením ⟦aaron|Aharona|Árona⟧ a jeho synů bude veškerá služba synů ⟦gershonites|Geršunni|Geršonovců⟧ ve všech jejich nákladech a ve veškeré jejich službě; a přidělíte jim na starost všechno, co mají nést.
 
-[28] To je služba rodů synů Gershona ve stanu setkávání; jejich služba bude pod rukou Ithamara, syna kněze Aarona.
+[28] To je služba rodů synů ⟦gershon|Geršona|Geršóna⟧ ve stanu setkávání; jejich služba bude pod rukou ⟦ithamar|Itamara|Ítamara⟧, syna kněze ⟦aaron|Aharona|Árona⟧.
 
-[29] Syny Merariho sečteš podle jejich rodů, podle jejich otcovských domů;
+[29] Syny ⟦merari|Merariho|Merarího⟧ sečteš podle jejich rodů, podle jejich otcovských domů;
 
 [30] od třiceti let výše až do padesáti let je sečteš, všechny, kdo jsou způsobilí ke službě, aby vykonávali práci stanu setkávání.
 
@@ -64,39 +64,39 @@
 
 [32] sloupy nádvoří všude kolem s jejich patkami, kolíky a provazy, se vším jejich vybavením a veškerou prací s nimi spojenou; jménem jim přidělíte předměty, které mají na starosti.
 
-[33] To je služba rodů synů Merariho podle veškeré jejich služby ve stanu setkávání pod rukou Ithamara, syna kněze Aarona.“
+[33] To je služba rodů synů ⟦merari|Merariho|Merarího⟧ podle veškeré jejich služby ve stanu setkávání pod rukou ⟦ithamar|Itamara|Ítamara⟧, syna kněze ⟦aaron|Aharona|Árona⟧.“
 
-[34] Moses a Aaron a náčelníci shromáždění sečetli syny Kohathitů podle jejich rodů a podle jejich otcovských domů,
+[34] ⟦moses|Moše|Mojžíš⟧ a ⟦aaron|Aharon|Áron⟧ a náčelníci shromáždění sečetli syny ⟦kohathites|Kehati|Kehatovců⟧ podle jejich rodů a podle jejich otcovských domů,
 
 [35] od třiceti let výše až do padesáti let, všechny, kdo byli způsobilí ke službě, k práci ve stanu setkávání.
 
 [36] Jejich sečtených podle jejich rodů bylo 2 750.
 
-[37] To byli sečtení z rodů Kohathitů, všichni, kdo mohli konat službu ve stanu setkávání, které sečetli Moses a Aaron na rozkaz Yahweh skrze Mosese.
+[37] To byli sečtení z rodů ⟦kohathites|Kehati|Kehatovců⟧, všichni, kdo mohli konat službu ve stanu setkávání, které sečetli ⟦moses|Moše|Mojžíš⟧ a ⟦aaron|Aharon|Áron⟧ na rozkaz ⟦yhwh|Jahveho|Hospodina⟧ skrze ⟦moses|Moše|Mojžíše⟧.
 
-[38] Sečtení ze synů Gershona podle jejich rodů a podle jejich otcovských domů,
+[38] Sečtení ze synů ⟦gershon|Geršona|Geršóna⟧ podle jejich rodů a podle jejich otcovských domů,
 
 [39] od třiceti let výše až do padesáti let, všichni, kdo byli způsobilí ke službě, k práci ve stanu setkávání –
 
 [40] jejich sečtených podle jejich rodů, podle jejich otcovských domů bylo 2 630.
 
-[41] To byli sečtení z rodů synů Gershona, všichni, kdo mohli konat službu ve stanu setkávání, které sečetli Moses a Aaron na rozkaz Yahweh.
+[41] To byli sečtení z rodů synů ⟦gershon|Geršona|Geršóna⟧, všichni, kdo mohli konat službu ve stanu setkávání, které sečetli ⟦moses|Moše|Mojžíš⟧ a ⟦aaron|Aharon|Áron⟧ na rozkaz ⟦yhwh|Jahveho|Hospodina⟧.
 
-[42] Sečtení z rodů synů Merariho podle jejich rodů, podle jejich otcovských domů,
+[42] Sečtení z rodů synů ⟦merari|Merariho|Merarího⟧ podle jejich rodů, podle jejich otcovských domů,
 
 [43] od třiceti let výše až do padesáti let, všichni, kdo byli způsobilí ke službě, k práci ve stanu setkávání –
 
 [44] jejich sečtených podle jejich rodů bylo 3 200.
 
-[45] To byli sečtení z rodů synů Merariho, které sečetli Moses a Aaron podle slova Yahweh skrze Mosese.
+[45] To byli sečtení z rodů synů ⟦merari|Merariho|Merarího⟧, které sečetli ⟦moses|Moše|Mojžíš⟧ a ⟦aaron|Aharon|Áron⟧ podle slova ⟦yhwh|Jahveho|Hospodina⟧ skrze ⟦moses|Moše|Mojžíše⟧.
 
-[46] Všech sečtených Levitů, které sečetli Moses a Aaron a náčelníci Israele podle jejich rodů a podle jejich otcovských domů,
+[46] Všech sečtených ⟦levites|Levijim|lévijců⟧, které sečetli ⟦moses|Moše|Mojžíš⟧ a ⟦aaron|Aharon|Áron⟧ a náčelníci ⟦israel|Jisraele|Izraele⟧ podle jejich rodů a podle jejich otcovských domů,
 
 [47] od třiceti let výše až do padesáti let, všech, kdo přicházeli konat službu obsluhy a službu nošení ve stanu setkávání –
 
 [48] jejich sečtených bylo 8 580.
 
-[49] Na rozkaz Yahweh byli sečteni skrze Mosese, každý podle své služby a svého nákladu. Tak jím byli sečteni, jak Yahweh přikázal Mosesovi.
+[49] Na rozkaz ⟦yhwh|Jahveho|Hospodina⟧ byli sečteni skrze ⟦moses|Moše|Mojžíše⟧, každý podle své služby a svého nákladu. Tak jím byli sečteni, jak ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧.
 
 ## Změny
 

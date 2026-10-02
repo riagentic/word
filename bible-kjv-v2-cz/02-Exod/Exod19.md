@@ -1,54 +1,54 @@
 # Exodus 19
 
-[1] Třetího měsíce poté, co synové Israele vyšli z egyptské země, právě toho dne přišli na poušť Sinai.
+[1] Třetího měsíce poté, co synové ⟦israel|Jisraele|Izraele⟧ vyšli ⟦egypt|ze země Micrajim|z egyptské země⟧, právě toho dne přišli na poušť ⟦sinai|Sinaj|Sínaj⟧.
 
-[2] Vytáhli z Rephidim, přišli na poušť Sinai a utábořili se na poušti; Israel se tam utábořil naproti hoře.
+[2] Vytáhli z ⟦rephidim|Refidim|Refídimu⟧, přišli na poušť ⟦sinai|Sinaj|Sínaj⟧ a utábořili se na poušti; ⟦israel|Jisrael|Izrael⟧ se tam utábořil naproti hoře.
 
-[3] Moses vystoupil k *Elohim* a Yahweh na něj zavolal z hory: „Toto povíš domu Jacoba a oznámíš synům Israele:
+[3] ⟦moses|Moše|Mojžíš⟧ vystoupil k ⟦elohim|Elohim|Bohu⟧ a ⟦yhwh|Jahve|Hospodin⟧ na něj zavolal z hory: „Toto povíš domu ⟦jacob|Jaakova|Jákoba⟧ a oznámíš synům ⟦israel|Jisraele|Izraele⟧:
 
-[4] ‚Viděli jste, co jsem učinil Egypťanům a jak jsem vás nesl na orlích křídlech a přivedl vás k sobě.
+[4] ‚Viděli jste, co jsem učinil ⟦egyptians|Micrim|Egypťanům⟧ a jak jsem vás nesl na orlích křídlech a přivedl vás k sobě.
 
 [5] Nyní tedy, budete-li opravdu poslouchat můj hlas a zachovávat mou smlouvu, budete mým vlastním drahocenným vlastnictvím ze všech národů – neboť celá země je má.
 
-[6] A budete mi královstvím kněží a svatým národem.‘ To jsou slova, která promluvíš k synům Israele.“
+[6] A budete mi královstvím kněží a svatým národem.‘ To jsou slova, která promluvíš k synům ⟦israel|Jisraele|Izraele⟧.“
 
-[7] Moses přišel, svolal starší lidu a předložil jim všechna tato slova, která mu Yahweh přikázal.
+[7] ⟦moses|Moše|Mojžíš⟧ přišel, svolal starší lidu a předložil jim všechna tato slova, která mu ⟦yhwh|Jahve|Hospodin⟧ přikázal.
 
-[8] Všechen lid společně odpověděl: „Všechno, co Yahweh řekl, budeme činit.“ Moses přinesl slova lidu zpět Yahweh.
+[8] Všechen lid společně odpověděl: „Všechno, co ⟦yhwh|Jahve|Hospodin⟧ řekl, budeme činit.“ ⟦moses|Moše|Mojžíš⟧ přinesl slova lidu zpět ⟦yhwh|Jahvovi|Hospodinu⟧.
 
-[9] Yahweh řekl Mosesovi: „Hle, přicházím k tobě v hustém oblaku, aby lid slyšel, když s tebou budu mluvit, a aby ti věřil navždy.“ A Moses oznámil slova lidu Yahweh.
+[9] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Hle, přicházím k tobě v hustém oblaku, aby lid slyšel, když s tebou budu mluvit, a aby ti věřil navždy.“ A ⟦moses|Moše|Mojžíš⟧ oznámil slova lidu ⟦yhwh|Jahvovi|Hospodinu⟧.
 
-[10] Yahweh řekl Mosesovi: „Jdi k lidu a posvěť je dnes i zítra; ať si vyperou své oděvy
+[10] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Jdi k lidu a posvěť je dnes i zítra; ať si vyperou své oděvy
 
-[11] a ať jsou připraveni na třetí den; neboť třetího dne sestoupí Yahweh na horu Sinai před očima všeho lidu.
+[11] a ať jsou připraveni na třetí den; neboť třetího dne sestoupí ⟦yhwh|Jahve|Hospodin⟧ na horu ⟦sinai|Sinaj|Sínaj⟧ před očima všeho lidu.
 
 [12] Stanovíš lidu hranice kolem dokola a řekneš: ‚Dejte si pozor, abyste nevystupovali na horu ani se nedotkli jejího okraje; každý, kdo se dotkne hory, bude jistě usmrcen.
 
 [13] Žádná ruka se ho nedotkne, ale bude jistě ukamenován nebo zastřelen; ať je to zvíře, nebo člověk, nezůstane naživu.‘ Až zazní dlouhý tón beranního rohu, smějí vystoupit na horu.“
 
-[14] Moses sestoupil z hory k lidu a posvětil lid; a vyprali si své oděvy.
+[14] ⟦moses|Moše|Mojžíš⟧ sestoupil z hory k lidu a posvětil lid; a vyprali si své oděvy.
 
 [15] Řekl lidu: „Buďte připraveni na třetí den; nepřibližujte se k ženě.“
 
 [16] Třetího dne ráno nastaly hromy a blesky, na hoře byl hustý oblak a zazněl velmi silný zvuk beranního rohu; a všechen lid v táboře se třásl.
 
-[17] Moses vyvedl lid z tábora vstříc *Elohim* a postavili se na úpatí hory.
+[17] ⟦moses|Moše|Mojžíš⟧ vyvedl lid z tábora vstříc ⟦elohim|Elohim|Bohu⟧ a postavili se na úpatí hory.
 
-[18] Hora Sinai byla celá zahalena kouřem, protože na ni Yahweh sestoupil v ohni; její dým stoupal jako dým z vápenné pece a celá hora se prudce otřásala.
+[18] Hora ⟦sinai|Sinaj|Sínaj⟧ byla celá zahalena kouřem, protože na ni ⟦yhwh|Jahve|Hospodin⟧ sestoupil v ohni; její dým stoupal jako dým z vápenné pece a celá hora se prudce otřásala.
 
-[19] Když zvuk beranního rohu sílil víc a víc, Moses mluvil a *Elohim* mu odpovídal hromem.
+[19] Když zvuk beranního rohu sílil víc a víc, ⟦moses|Moše|Mojžíš⟧ mluvil a ⟦elohim|Elohim|Bůh⟧ mu odpovídal hromem.
 
-[20] Yahweh sestoupil na horu Sinai, na vrchol hory; a Yahweh zavolal Mosese na vrchol hory a Moses vystoupil.
+[20] ⟦yhwh|Jahve|Hospodin⟧ sestoupil na horu ⟦sinai|Sinaj|Sínaj⟧, na vrchol hory; a ⟦yhwh|Jahve|Hospodin⟧ zavolal ⟦moses|Moše|Mojžíše⟧ na vrchol hory a ⟦moses|Moše|Mojžíš⟧ vystoupil.
 
-[21] Yahweh řekl Mosesovi: „Sestup a varuj lid, aby se neprodírali k Yahweh, aby se dívali, a mnoho z nich nezahynulo.
+[21] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Sestup a varuj lid, aby se neprodírali k ⟦yhwh|Jahvovi|Hospodinu⟧, aby se dívali, a mnoho z nich nezahynulo.
 
-[22] I kněží, kteří přistupují k Yahweh, se musí posvětit, aby se na ně Yahweh neobořil.“
+[22] I kněží, kteří přistupují k ⟦yhwh|Jahvovi|Hospodinu⟧, se musí posvětit, aby se na ně ⟦yhwh|Jahve|Hospodin⟧ neobořil.“
 
-[23] Moses řekl Yahweh: „Lid nemůže vystoupit na horu Sinai, neboť ty sám jsi nás varoval: ‚Stanov kolem hory hranice a posvěť ji.‘“
+[23] ⟦moses|Moše|Mojžíš⟧ řekl ⟦yhwh|Jahvovi|Hospodinu⟧: „Lid nemůže vystoupit na horu ⟦sinai|Sinaj|Sínaj⟧, neboť ty sám jsi nás varoval: ‚Stanov kolem hory hranice a posvěť ji.‘“
 
-[24] Yahweh mu řekl: „Jdi, sestup; a pak vystup, ty a s tebou Aaron. Ale kněží a lid ať se neprodírají, aby vystoupili k Yahweh, aby se na ně neobořil.“
+[24] ⟦yhwh|Jahve|Hospodin⟧ mu řekl: „Jdi, sestup; a pak vystup, ty a s tebou ⟦aaron|Aharon|Áron⟧. Ale kněží a lid ať se neprodírají, aby vystoupili k ⟦yhwh|Jahvovi|Hospodinu⟧, aby se na ně neobořil.“
 
-[25] Moses tedy sestoupil k lidu a pověděl jim to.
+[25] ⟦moses|Moše|Mojžíš⟧ tedy sestoupil k lidu a pověděl jim to.
 
 ## Změny
 

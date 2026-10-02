@@ -1,10 +1,10 @@
 # Ezekiel 24
 
-[1] In the ninth year, in the tenth month, on the tenth day of the month, the word of Yahweh came to me:
+[1] In the ninth year, in the tenth month, on the tenth day of the month, the word of ⟦yhwh|Yahweh|the LORD⟧ came to me:
 
-[2] "Son of man, write down the name of this day, this very day. The king of Babylon has laid siege to Jerusalem this very day.
+[2] "Son of man, write down the name of this day, this very day. The king of ⟦babylon|Bavel|Babylon⟧ has laid siege to ⟦jerusalem|Yerushalayim|Jerusalem⟧ this very day.
 
-[3] And utter a parable to the rebellious house and say to them, Thus says Lord Yahweh:
+[3] And utter a parable to the rebellious house and say to them, Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧:
 
 'Set on the pot, set it on;
 pour in water also;
@@ -18,13 +18,13 @@ pile the logs under it;
 boil it well;
 seethe also its bones in it.'
 
-[6] "Therefore thus says Lord Yahweh: Woe to the bloody city, to the pot whose corrosion is in it, and whose corrosion has not gone out of it! Take out of it piece after piece, without making any choice.
+[6] "Therefore thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: Woe to the bloody city, to the pot whose corrosion is in it, and whose corrosion has not gone out of it! Take out of it piece after piece, without making any choice.
 
 [7] For the blood she has shed is in her midst; she put it on the bare rock; she did not pour it out on the ground to cover it with dust.
 
 [8] To rouse my wrath, to take vengeance, I have set on the bare rock the blood she has shed, that it may not be covered.
 
-[9] "Therefore thus says Lord Yahweh: Woe to the bloody city! I also will make the pile great.
+[9] "Therefore thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: Woe to the bloody city! I also will make the pile great.
 
 [10] Heap on the logs, kindle the fire, boil the meat well, mix in the spices, and let the bones be burned up.
 
@@ -34,9 +34,9 @@ seethe also its bones in it.'
 
 [13] On account of your unclean lewdness, because I would have cleansed you and you were not cleansed from your uncleanness, you shall not be cleansed anymore till I have satisfied my fury upon you.
 
-[14] I am Yahweh. I have spoken; it shall come to pass; I will do it. I will not go back; I will not spare; I will not relent; according to your ways and your deeds you will be judged, declares Lord Yahweh."
+[14] I am ⟦yhwh|Yahweh|the LORD⟧. I have spoken; it shall come to pass; I will do it. I will not go back; I will not spare; I will not relent; according to your ways and your deeds you will be judged, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧."
 
-[15] The word of Yahweh came to me:
+[15] The word of ⟦yhwh|Yahweh|the LORD⟧ came to me:
 
 [16] "Son of man, behold, I am about to take the delight of your eyes away from you at a stroke; yet you shall not mourn or weep, nor shall your tears run down.
 
@@ -46,21 +46,21 @@ seethe also its bones in it.'
 
 [19] And the people said to me, "Will you not tell us what these things mean for us, that you are acting thus?"
 
-[20] Then I said to them, "The word of Yahweh came to me:
+[20] Then I said to them, "The word of ⟦yhwh|Yahweh|the LORD⟧ came to me:
 
-[21] 'Say to the house of Israel, Thus says Lord Yahweh: Behold, I will profane my sanctuary, the pride of your power, the delight of your eyes, and the yearning of your soul, and your sons and your daughters whom you left behind shall fall by the sword.
+[21] 'Say to the house of ⟦israel|Yisrael|Israel⟧, Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: Behold, I will profane my sanctuary, the pride of your power, the delight of your eyes, and the yearning of your soul, and your sons and your daughters whom you left behind shall fall by the sword.
 
 [22] And you shall do as I have done; you shall not cover your lips, nor eat the bread of men.
 
 [23] Your turbans shall be on your heads and your shoes on your feet; you shall not mourn or weep, but you shall rot away in your iniquities and groan to one another.
 
-[24] Thus shall Ezekiel be to you a sign; according to all that he has done you shall do. When this comes, then you will know that I am Lord Yahweh.'
+[24] Thus shall ⟦ezekiel|Yechezqel|Ezekiel⟧ be to you a sign; according to all that he has done you shall do. When this comes, then you will know that I am ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.'
 
 [25] "As for you, son of man, surely on the day when I take from them their stronghold, their joy and glory, the delight of their eyes and their soul's desire, and their sons and daughters,
 
 [26] on that day a fugitive will come to you to report to you the news.
 
-[27] On that day your mouth will be opened to the fugitive, and you shall speak and be no longer mute. So you will be a sign to them, and they will know that I am Yahweh."
+[27] On that day your mouth will be opened to the fugitive, and you shall speak and be no longer mute. So you will be a sign to them, and they will know that I am ⟦yhwh|Yahweh|the LORD⟧."
 
 ## Changes
 

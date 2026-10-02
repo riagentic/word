@@ -1,6 +1,6 @@
 # James 1
 
-[1] Jacob, a servant of *Elohim* and of the Lord *Yeshua* the *Mashiach*,
+[1] ⟦james|Yaaqov|James⟧, a servant of ⟦elohim|Elohim|God⟧ and of the Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧,
 
 To the twelve tribes in the Dispersion:
 
@@ -12,7 +12,7 @@ Greetings.
 
 [4] And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing.
 
-[5] If any of you lacks wisdom, let him ask *Elohim*, who gives generously to all without reproach, and it will be given him.
+[5] If any of you lacks wisdom, let him ask ⟦elohim|Elohim|God⟧, who gives generously to all without reproach, and it will be given him.
 
 [6] But let him ask in faith, with no doubting, for the one who doubts is like a wave of the sea that is driven and tossed by the wind.
 
@@ -26,9 +26,9 @@ Greetings.
 
 [11] For the sun rises with its scorching heat and withers the grass; its flower falls, and its beauty perishes. So also will the rich man fade away in the midst of his pursuits.
 
-[12] Blessed is the man who remains steadfast under trial, for when he has stood the test he will receive the crown of life, which *Elohim* has promised to those who love him.
+[12] Blessed is the man who remains steadfast under trial, for when he has stood the test he will receive the crown of life, which ⟦elohim|Elohim|God⟧ has promised to those who love him.
 
-[13] Let no one say when he is tempted, "I am being tempted by *Elohim*," for *Elohim* cannot be tempted with evil, and he himself tempts no one.
+[13] Let no one say when he is tempted, "I am being tempted by ⟦elohim|Elohim|God⟧," for ⟦elohim|Elohim|God⟧ cannot be tempted with evil, and he himself tempts no one.
 
 [14] But each person is tempted when he is lured and enticed by his own desire.
 
@@ -42,7 +42,7 @@ Greetings.
 
 [19] Know this, my beloved brothers: **let every person be quick to hear, slow to speak, slow to anger**;
 
-[20] for the anger of man does not produce the righteousness of *Elohim*.
+[20] for the anger of man does not produce the righteousness of ⟦elohim|Elohim|God⟧.
 
 [21] Therefore put away all filthiness and rampant wickedness and receive with meekness the implanted word, which is able to save your souls.
 
@@ -52,11 +52,11 @@ Greetings.
 
 [24] For he looks at himself and goes away and at once forgets what he was like.
 
-[25] But the one who looks into the perfect law, the law of liberty, and perseveres, being no hearer who forgets but a doer who acts, he will be blessed in his doing.
+[25] But the one who looks into the perfect ⟦torah|Torah|law⟧, the ⟦torah|Torah|law⟧ of liberty, and perseveres, being no hearer who forgets but a doer who acts, he will be blessed in his doing.
 
 [26] If anyone thinks he is religious and does not bridle his tongue but deceives his heart, this person's religion is worthless.
 
-[27] Religion that is pure and undefiled before *Elohim* the Father is this: to visit orphans and widows in their affliction, and to keep oneself unstained from the world.
+[27] Religion that is pure and undefiled before ⟦elohim|Elohim|God⟧ the Father is this: to visit orphans and widows in their affliction, and to keep oneself unstained from the world.
 
 ## Changes
 

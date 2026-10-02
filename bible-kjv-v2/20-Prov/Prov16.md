@@ -1,36 +1,36 @@
 # Proverbs 16
 
 [1] The plans of the heart belong to man,
-but the answer of the tongue is from Yahweh.
+but the answer of the tongue is from ⟦yhwh|Yahweh|the LORD⟧.
 
 [2] All the ways of a man are pure in his own eyes,
-but Yahweh weighs the spirits.
+but ⟦yhwh|Yahweh|the LORD⟧ weighs the spirits.
 
-[3] Commit your work to Yahweh,
+[3] Commit your work to ⟦yhwh|Yahweh|the LORD⟧,
 and your plans will be established.
 
-[4] Yahweh has made everything for its purpose,
+[4] ⟦yhwh|Yahweh|The LORD⟧ has made everything for its purpose,
 even the wicked for the day of trouble.
 
-[5] Everyone who is arrogant in heart is an abomination to Yahweh;
+[5] Everyone who is arrogant in heart is an abomination to ⟦yhwh|Yahweh|the LORD⟧;
 be assured, he will not go unpunished.
 
 [6] By steadfast love and faithfulness iniquity is atoned for,
-and by the fear of Yahweh one turns away from evil.
+and by the fear of ⟦yhwh|Yahweh|the LORD⟧ one turns away from evil.
 
-[7] When a man's ways please Yahweh,
+[7] When a man's ways please ⟦yhwh|Yahweh|the LORD⟧,
 he makes even his enemies to be at peace with him.
 
 [8] Better is a little with righteousness
 than great revenues with injustice.
 
 [9] The heart of man plans his way,
-but Yahweh establishes his steps.
+but ⟦yhwh|Yahweh|the LORD⟧ establishes his steps.
 
 [10] An oracle is on the lips of a king;
 his mouth does not betray judgment.
 
-[11] Just balance and scales are Yahweh's;
+[11] Just balance and scales are ⟦yhwh|Yahweh's|the LORD's⟧;
 all the weights in the bag are his work.
 
 [12] It is an abomination to kings to do evil,
@@ -58,7 +58,7 @@ and a haughty spirit before a fall.
 than to divide the spoil with the proud.
 
 [20] Whoever gives thought to the word will discover good,
-and blessed is he who trusts in Yahweh.
+and blessed is he who trusts in ⟦yhwh|Yahweh|the LORD⟧.
 
 [21] The wise of heart is called discerning,
 and sweetness of speech increases persuasiveness.
@@ -97,7 +97,7 @@ it is gained in a righteous life.
 and he who rules his spirit than he who takes a city.
 
 [33] The lot is cast into the lap,
-but its every decision is from Yahweh.
+but its every decision is from ⟦yhwh|Yahweh|the LORD⟧.
 
 ## Changes
 

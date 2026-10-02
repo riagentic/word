@@ -1,6 +1,6 @@
 # Jób 15
 
-[1] Tu odpověděl Eliphaz Temanský a řekl:
+[1] Tu odpověděl ⟦eliphaz|Elifaz|Elífaz⟧ ⟦temanite|Temani|Témanský⟧ a řekl:
 
 [2] „Má moudrý muž odpovídat vzdušným věděním
 a plnit si břicho východním větrem?
@@ -8,7 +8,7 @@ a plnit si břicho východním větrem?
 [3] Má se přít neužitečným mluvením,
 řečmi, jimiž nic dobrého nezpůsobí?
 
-[4] Ty však rušíš bázeň před *Elohim*
+[4] Ty však rušíš bázeň před ⟦el|El|Bohem⟧
 a umenšuješ rozjímání před ním.
 
 [5] Tvá nepravost učí tvá ústa
@@ -20,7 +20,7 @@ tvé vlastní rty svědčí proti tobě.
 [7] Narodil ses jako první člověk?
 Byl jsi zplozen dříve než pahorky?
 
-[8] Naslouchal jsi v tajné radě Eloah?
+[8] Naslouchal jsi v tajné radě ⟦eloah|Eloah|Boží⟧?
 Hromadíš moudrost jen pro sebe?
 
 [9] Co víš ty, co bychom nevěděli my?
@@ -29,13 +29,13 @@ Hromadíš moudrost jen pro sebe?
 [10] Šedivci i starci jsou s námi,
 starší než tvůj otec.
 
-[11] Jsou ti útěchy *Elohim* málo,
+[11] Jsou ti útěchy ⟦el|El|Boží⟧ málo,
 slovo, které s tebou jedná vlídně?
 
 [12] Proč tě tvé srdce unáší?
 Proč ti blýskají oči –
 
-[13] že obracíš svého ducha proti *Elohim*
+[13] že obracíš svého ducha proti ⟦el|El|Bohu⟧
 a vypouštíš ze svých úst taková slova?
 
 [14] Co je člověk, aby byl čistý,
@@ -71,8 +71,8 @@ Ví, že den tmy je blízko.
 [24] Tíseň a úzkost ho děsí;
 přemáhají ho jako král připravený k boji.
 
-[25] Neboť vztáhl ruku proti *Elohim*
-a vzdoroval Shaddaiovi,
+[25] Neboť vztáhl ruku proti ⟦el|El|Bohu⟧
+a vzdoroval ⟦shaddai|Šaddajovi|Všemohoucímu⟧,
 
 [26] tvrdošíjně proti němu běžel
 se štítem s hustými puklicemi.
@@ -109,6 +109,7 @@ jejich lůno připravuje klam.“
 ## Změny
 
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
+- **"God" → „El“** (v4, 11, 13, 25) – hebrejsky אֵל *El*, ne *Elohim*.
 - **"vain knowledge" → „vzdušným věděním“** (v2) – *da'at ruach*.
 - **"hypocrites" → „bezbožných“** (v34) – *chanef*.
 - **"restrain prayer" → „umenšuješ rozjímání“** (v4) – *gara sichah*.

@@ -1,19 +1,19 @@
 # Hosea 14
 
-[1] Return, O Israel, to Yahweh your *Elohim*,
+[1] Return, O ⟦israel|Yisrael|Israel⟧, to ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧,
 for you have stumbled because of your iniquity.
 
 [2] Take with you words
-and return to Yahweh;
+and return to ⟦yhwh|Yahweh|the LORD⟧;
 say to him,
 "Take away all iniquity;
 accept what is good,
 and we will pay with bulls
 the vows of our lips.
 
-[3] Assyria shall not save us;
+[3] ⟦assyria|Ashur|Assyria⟧ shall not save us;
 we will not ride on horses;
-and we will say no more, 'Our *Elohim*,'
+and we will say no more, 'Our ⟦elohim|Elohim|God⟧,'
 to the work of our hands.
 In you the orphan finds mercy."
 
@@ -21,27 +21,27 @@ In you the orphan finds mercy."
 I will love them freely,
 for my anger has turned from them.
 
-[5] I will be like the dew to Israel;
+[5] I will be like the dew to ⟦israel|Yisrael|Israel⟧;
 he shall blossom like the lily;
-he shall take root like the trees of Lebanon;
+he shall take root like the trees of ⟦lebanon|Levanon|Lebanon⟧;
 
 [6] his shoots shall spread out;
 his beauty shall be like the olive,
-and his fragrance like Lebanon.
+and his fragrance like ⟦lebanon|Levanon|Lebanon⟧.
 
 [7] They shall return and dwell beneath my shadow;
 they shall flourish like the grain;
 they shall blossom like the vine;
-their fame shall be like the wine of Lebanon.
+their fame shall be like the wine of ⟦lebanon|Levanon|Lebanon⟧.
 
-[8] O Ephraim, what have I to do with idols?
+[8] O ⟦ephraim|Efrayim|Ephraim⟧, what have I to do with idols?
 It is I who answer and look after him.
 I am like an evergreen cypress;
 from me comes your fruit."
 
 [9] Whoever is wise, let him understand these things;
 whoever is discerning, let him know them;
-for the ways of Yahweh are right,
+for the ways of ⟦yhwh|Yahweh|the LORD⟧ are right,
 and the upright walk in them,
 but transgressors stumble in them.
 

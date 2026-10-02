@@ -2,67 +2,67 @@
 
 [1] Celá země měla jeden jazyk a stejná slova.
 
-[2] Když lidé táhli od východu, nalezli pláň v zemi Shinar a usadili se tam.
+[2] Když lidé táhli od východu, nalezli pláň v zemi ⟦shinar|Šinar|Šineár⟧ a usadili se tam.
 
 [3] I řekli jeden druhému: „Nuže, nadělejme cihel a důkladně je vypalme.“ Cihla jim sloužila místo kamene a asfalt místo malty.
 
 [4] Potom řekli: „Nuže, vystavme si město a věž s vrcholem v nebesích; udělejme si jméno, abychom se nerozptýlili po tváři celé země.“
 
-[5] Ale Yahweh sestoupil, aby viděl město a věž, které stavěli synové lidstva.
+[5] Ale ⟦yhwh|Jahve|Hospodin⟧ sestoupil, aby viděl město a věž, které stavěli synové lidstva.
 
-[6] I řekl Yahweh: „Hle, jsou jeden lid a všichni mají jeden jazyk; a to je teprve začátek toho, co budou dělat. Teď pro ně nebude nic nemožné, co si umíní udělat.
+[6] I řekl ⟦yhwh|Jahve|Hospodin⟧: „Hle, jsou jeden lid a všichni mají jeden jazyk; a to je teprve začátek toho, co budou dělat. Teď pro ně nebude nic nemožné, co si umíní udělat.
 
 [7] Nuže, sestupme a zmaťme tam jejich jazyk, aby jeden nerozuměl řeči druhého.“
 
-[8] Tak je Yahweh odtud rozptýlil po tváři celé země a přestali stavět město.
+[8] Tak je ⟦yhwh|Jahve|Hospodin⟧ odtud rozptýlil po tváři celé země a přestali stavět město.
 
-[9] Proto bylo nazváno jeho jméno Babel, neboť tam Yahweh zmátl jazyk celé země; a odtud je Yahweh rozptýlil po tváři celé země.
+[9] Proto bylo nazváno jeho jméno ⟦babel|Bavel|Bábel⟧, neboť tam ⟦yhwh|Jahve|Hospodin⟧ zmátl jazyk celé země; a odtud je ⟦yhwh|Jahve|Hospodin⟧ rozptýlil po tváři celé země.
 
-[10] Toto jsou rody Shemovy. Shemovi bylo 100 let, když zplodil Arpachshada, dva roky po potopě.
+[10] Toto jsou rody ⟦shem|Šemovy|Šémovy⟧. ⟦shem|Šemovi|Šémovi⟧ bylo 100 let, když zplodil ⟦arpachshad|Arpachšada|Arpakšada⟧, dva roky po potopě.
 
-[11] Shem žil poté, co zplodil Arpachshada, 500 let a zplodil syny a dcery.
+[11] ⟦shem|Šem|Šém⟧ žil poté, co zplodil ⟦arpachshad|Arpachšada|Arpakšada⟧, 500 let a zplodil syny a dcery.
 
-[12] Arpachshad žil 35 let a zplodil Shelaha.
+[12] ⟦arpachshad|Arpachšad|Arpakšad⟧ žil 35 let a zplodil Šelacha.
 
-[13] Arpachshad žil poté, co zplodil Shelaha, 403 let a zplodil syny a dcery.
+[13] ⟦arpachshad|Arpachšad|Arpakšad⟧ žil poté, co zplodil Šelacha, 403 let a zplodil syny a dcery.
 
-[14] Shelah žil 30 let a zplodil Ebera.
+[14] Šelach žil 30 let a zplodil ⟦eber|Evera|Ebera⟧.
 
-[15] Shelah žil poté, co zplodil Ebera, 403 let a zplodil syny a dcery.
+[15] Šelach žil poté, co zplodil ⟦eber|Evera|Ebera⟧, 403 let a zplodil syny a dcery.
 
-[16] Eber žil 34 let a zplodil Pelega.
+[16] ⟦eber|Ever|Eber⟧ žil 34 let a zplodil Pelega.
 
-[17] Eber žil poté, co zplodil Pelega, 430 let a zplodil syny a dcery.
+[17] ⟦eber|Ever|Eber⟧ žil poté, co zplodil Pelega, 430 let a zplodil syny a dcery.
 
-[18] Peleg žil 30 let a zplodil Reua.
+[18] Peleg žil 30 let a zplodil ⟦reu|Reua|Reúa⟧.
 
-[19] Peleg žil poté, co zplodil Reua, 209 let a zplodil syny a dcery.
+[19] Peleg žil poté, co zplodil ⟦reu|Reua|Reúa⟧, 209 let a zplodil syny a dcery.
 
-[20] Reu žil 32 let a zplodil Seruga.
+[20] ⟦reu|Reu|Reú⟧ žil 32 let a zplodil ⟦serug|Seruga|Serúga⟧.
 
-[21] Reu žil poté, co zplodil Seruga, 207 let a zplodil syny a dcery.
+[21] ⟦reu|Reu|Reú⟧ žil poté, co zplodil ⟦serug|Seruga|Serúga⟧, 207 let a zplodil syny a dcery.
 
-[22] Serug žil 30 let a zplodil Nahora.
+[22] ⟦serug|Serug|Serúg⟧ žil 30 let a zplodil ⟦nahor|Nachora|Náchora⟧.
 
-[23] Serug žil poté, co zplodil Nahora, 200 let a zplodil syny a dcery.
+[23] ⟦serug|Serug|Serúg⟧ žil poté, co zplodil ⟦nahor|Nachora|Náchora⟧, 200 let a zplodil syny a dcery.
 
-[24] Nahor žil 29 let a zplodil Teraha.
+[24] ⟦nahor|Nachor|Náchor⟧ žil 29 let a zplodil Teracha.
 
-[25] Nahor žil poté, co zplodil Teraha, 119 let a zplodil syny a dcery.
+[25] ⟦nahor|Nachor|Náchor⟧ žil poté, co zplodil Teracha, 119 let a zplodil syny a dcery.
 
-[26] Terah žil 70 let a zplodil Abrama, Nahora a Harana.
+[26] Terach žil 70 let a zplodil ⟦abram|Avrama|Abrama⟧, ⟦nahor|Nachora|Náchora⟧ a ⟦haran|Harana|Hárana⟧.
 
-[27] Toto jsou rody Terahovy. Terah zplodil Abrama, Nahora a Harana; a Haran zplodil Lota.
+[27] Toto jsou rody Terachovy. Terach zplodil ⟦abram|Avrama|Abrama⟧, ⟦nahor|Nachora|Náchora⟧ a ⟦haran|Harana|Hárana⟧; a ⟦haran|Haran|Háran⟧ zplodil Lota.
 
-[28] Haran zemřel za života svého otce Teraha v zemi svého narození, v Ur Chaldeanů.
+[28] ⟦haran|Haran|Háran⟧ zemřel za života svého otce Teracha v zemi svého narození, v ⟦ur|Ur|Úru⟧ ⟦chaldeans|Kasdim|Kaldejců⟧.
 
-[29] Abram a Nahor si vzali ženy. Abramova žena se jmenovala Sarai a Nahorova žena se jmenovala Milcah; byla to dcera Harana, otce Milcah a Iscah.
+[29] ⟦abram|Avram|Abram⟧ a ⟦nahor|Nachor|Náchor⟧ si vzali ženy. ⟦abram|Avramova|Abramova⟧ žena se jmenovala ⟦sarai|Saraj|Sáraj⟧ a ⟦nahor|Nachorova|Náchorova⟧ žena se jmenovala Milka; byla to dcera ⟦haran|Harana|Hárana⟧, otce Milky a Jisky.
 
-[30] Ale Sarai byla neplodná; neměla dítě.
+[30] Ale ⟦sarai|Saraj|Sáraj⟧ byla neplodná; neměla dítě.
 
-[31] Terah vzal svého syna Abrama a Lota, syna Haranova, svého vnuka, a Sarai, svou snachu, ženu svého syna Abrama; a společně vyšli z Ur Chaldeanů, aby šli do země Canaan. Ale když přišli do Haranu, usadili se tam.
+[31] Terach vzal svého syna ⟦abram|Avrama|Abrama⟧ a Lota, syna ⟦haran|Haranova|Háranova⟧, svého vnuka, a ⟦sarai|Saraj|Sáraj⟧, svou snachu, ženu svého syna ⟦abram|Avrama|Abrama⟧; a společně vyšli z ⟦ur|Ur|Úru⟧ ⟦chaldeans|Kasdim|Kaldejců⟧, aby šli do země Kenaan. Ale když přišli do ⟦haran-city|Charanu|Cháranu⟧, usadili se tam.
 
-[32] Terahových dnů bylo 205 let; a Terah zemřel v Haranu.
+[32] Terachových dnů bylo 205 let; a Terach zemřel v ⟦haran-city|Charanu|Cháranu⟧.
 
 ## Změny
 

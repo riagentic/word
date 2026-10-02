@@ -1,50 +1,50 @@
 # Numeri 9
 
-[1] Yahweh promluvil k Mosesovi na poušti Sinai, v prvním měsíci druhého roku poté, co vyšli ze země Egypt, a řekl:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ na poušti ⟦sinai|Sinaj|Sínaj⟧, v prvním měsíci druhého roku poté, co vyšli ze země ⟦egypt|Micrajim|Egypt⟧, a řekl:
 
-[2] „Ať synové Israele slaví Paschu v jejím určeném čase.
+[2] „Ať synové ⟦israel|Jisraele|Izraele⟧ slaví Paschu v jejím určeném čase.
 
 [3] Čtrnáctého dne tohoto měsíce, za soumraku, ji budete slavit v jejím určeném čase; podle všech jejích ustanovení a všech jejích řádů ji budete slavit.“
 
-[4] Moses tedy promluvil k synům Israele, aby slavili Paschu.
+[4] ⟦moses|Moše|Mojžíš⟧ tedy promluvil k synům ⟦israel|Jisraele|Izraele⟧, aby slavili Paschu.
 
-[5] I slavili Paschu čtrnáctého dne prvního měsíce za soumraku na poušti Sinai; podle všeho, co Yahweh přikázal Mosesovi, tak synové Israele učinili.
+[5] I slavili Paschu čtrnáctého dne prvního měsíce za soumraku na poušti ⟦sinai|Sinaj|Sínaj⟧; podle všeho, co ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧, tak synové ⟦israel|Jisraele|Izraele⟧ učinili.
 
-[6] Byli však někteří muži, kteří byli nečistí dotykem mrtvého těla, takže toho dne nemohli slavit Paschu; a přišli téhož dne před Mosese a Aarona.
+[6] Byli však někteří muži, kteří byli nečistí dotykem mrtvého těla, takže toho dne nemohli slavit Paschu; a přišli téhož dne před ⟦moses|Moše|Mojžíše⟧ a ⟦aaron|Aharona|Árona⟧.
 
-[7] Ti muži mu řekli: „Jsme nečistí dotykem mrtvého těla; proč nám má být bráněno přinést obětní dar Yahweh v jeho určeném čase mezi syny Israele?“
+[7] Ti muži mu řekli: „Jsme nečistí dotykem mrtvého těla; proč nám má být bráněno přinést obětní dar ⟦yhwh|Jahvovi|Hospodinu⟧ v jeho určeném čase mezi syny ⟦israel|Jisraele|Izraele⟧?“
 
-[8] Moses jim řekl: „Počkejte, uslyším, co Yahweh o vás přikáže.“
+[8] ⟦moses|Moše|Mojžíš⟧ jim řekl: „Počkejte, uslyším, co ⟦yhwh|Jahve|Hospodin⟧ o vás přikáže.“
 
-[9] Yahweh promluvil k Mosesovi a řekl:
+[9] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a řekl:
 
-[10] „Mluv k synům Israele a řekni: ‚Bude-li kdokoli z vás nebo z vašich potomků nečistý kvůli mrtvému tělu nebo bude-li na daleké cestě, může přesto slavit Paschu pro Yahweh.
+[10] „Mluv k synům ⟦israel|Jisraele|Izraele⟧ a řekni: ‚Bude-li kdokoli z vás nebo z vašich potomků nečistý kvůli mrtvému tělu nebo bude-li na daleké cestě, může přesto slavit Paschu pro ⟦yhwh|Jahveho|Hospodina⟧.
 
 [11] Budou ji slavit čtrnáctého dne druhého měsíce za soumraku; budou ji jíst s nekvašenými chleby a hořkými bylinami.
 
 [12] Nenechají z ní nic do rána a nezlomí z ní ani kost; podle všech řádů Paschy ji budou slavit.
 
-[13] Ale člověk, který je čistý a není na cestě, a přesto Paschu neslaví – ten člověk bude vyobcován ze svého lidu, protože nepřinesl obětní dar Yahweh v jeho určeném čase; ten muž ponese svůj hřích.
+[13] Ale člověk, který je čistý a není na cestě, a přesto Paschu neslaví – ten člověk bude vyobcován ze svého lidu, protože nepřinesl obětní dar ⟦yhwh|Jahvovi|Hospodinu⟧ v jeho určeném čase; ten muž ponese svůj hřích.
 
-[14] Bude-li cizinec, který pobývá mezi vámi, chtít slavit Paschu pro Yahweh, bude ji slavit podle ustanovení Paschy a podle jejího řádu. Jedno ustanovení budete mít pro cizince i pro domorodce země.‘“
+[14] Bude-li cizinec, který pobývá mezi vámi, chtít slavit Paschu pro ⟦yhwh|Jahveho|Hospodina⟧, bude ji slavit podle ustanovení Paschy a podle jejího řádu. Jedno ustanovení budete mít pro cizince i pro domorodce země.‘“
 
 [15] V den, kdy byl postaven příbytek, zahalil oblak příbytek, stan svědectví; a večer byl nad příbytkem jako vzhled ohně až do rána.
 
 [16] Tak tomu bylo stále: ve dne jej zahaloval oblak a v noci vzhled ohně.
 
-[17] Kdykoli se oblak zvedl zpoza stanu, synové Israele potom vytáhli; a na místě, kde se oblak usadil, tam synové Israele tábořili.
+[17] Kdykoli se oblak zvedl zpoza stanu, synové ⟦israel|Jisraele|Izraele⟧ potom vytáhli; a na místě, kde se oblak usadil, tam synové ⟦israel|Jisraele|Izraele⟧ tábořili.
 
-[18] Na rozkaz Yahweh synové Israele vytahovali a na rozkaz Yahweh tábořili; dokud oblak spočíval na příbytku, zůstávali utábořeni.
+[18] Na rozkaz ⟦yhwh|Jahveho|Hospodina⟧ synové ⟦israel|Jisraele|Izraele⟧ vytahovali a na rozkaz ⟦yhwh|Jahveho|Hospodina⟧ tábořili; dokud oblak spočíval na příbytku, zůstávali utábořeni.
 
-[19] I když oblak setrval nad příbytkem mnoho dní, synové Israele drželi stráž Yahweh a nevytáhli.
+[19] I když oblak setrval nad příbytkem mnoho dní, synové ⟦israel|Jisraele|Izraele⟧ drželi stráž ⟦yhwh|Jahveho|Hospodina⟧ a nevytáhli.
 
-[20] Někdy byl oblak nad příbytkem jen několik dní; na rozkaz Yahweh zůstávali utábořeni a na rozkaz Yahweh vytahovali.
+[20] Někdy byl oblak nad příbytkem jen několik dní; na rozkaz ⟦yhwh|Jahveho|Hospodina⟧ zůstávali utábořeni a na rozkaz ⟦yhwh|Jahveho|Hospodina⟧ vytahovali.
 
 [21] Někdy oblak zůstal od večera do rána, a když se ráno oblak zvedl, vytáhli; ať ve dne, či v noci, když se oblak zvedl, vytáhli.
 
-[22] Ať dva dny, měsíc, či rok – dokud oblak prodléval nad příbytkem a spočíval na něm – synové Israele zůstávali utábořeni a nevytahovali; ale když se zvedl, vytáhli.
+[22] Ať dva dny, měsíc, či rok – dokud oblak prodléval nad příbytkem a spočíval na něm – synové ⟦israel|Jisraele|Izraele⟧ zůstávali utábořeni a nevytahovali; ale když se zvedl, vytáhli.
 
-[23] Na rozkaz Yahweh tábořili a na rozkaz Yahweh vytahovali; drželi stráž Yahweh podle rozkazu Yahweh skrze Mosese.
+[23] Na rozkaz ⟦yhwh|Jahveho|Hospodina⟧ tábořili a na rozkaz ⟦yhwh|Jahveho|Hospodina⟧ vytahovali; drželi stráž ⟦yhwh|Jahveho|Hospodina⟧ podle rozkazu ⟦yhwh|Jahveho|Hospodina⟧ skrze ⟦moses|Moše|Mojžíše⟧.
 
 ## Změny
 

@@ -1,31 +1,31 @@
 # Romans 3
 
-[1] Then what advantage has the Jew? Or what is the value of circumcision?
+[1] Then what advantage has the ⟦jew|Yehudi|Jew⟧? Or what is the value of circumcision?
 
-[2] Much in every way. To begin with, the Jews were entrusted with the oracles of *Elohim*.
+[2] Much in every way. To begin with, the ⟦jews|Yehudim|Jews⟧ were entrusted with the oracles of ⟦elohim|Elohim|God⟧.
 
-[3] What if some were unfaithful? Does their faithlessness nullify the faithfulness of *Elohim*?
+[3] What if some were unfaithful? Does their faithlessness nullify the faithfulness of ⟦elohim|Elohim|God⟧?
 
-[4] By no means! Let *Elohim* be true though every one were a liar, as it is written,
+[4] By no means! Let ⟦elohim|Elohim|God⟧ be true though every one were a liar, as it is written,
 
 "**That you may be justified in your words,
 and prevail when you are judged**."
 
-[5] But if our unrighteousness serves to show the righteousness of *Elohim*, what shall we say? That *Elohim* is unrighteous to inflict wrath on us? (I speak in a human way.)
+[5] But if our unrighteousness serves to show the righteousness of ⟦elohim|Elohim|God⟧, what shall we say? That ⟦elohim|Elohim|God⟧ is unrighteous to inflict wrath on us? (I speak in a human way.)
 
-[6] By no means! For then how could *Elohim* judge the world?
+[6] By no means! For then how could ⟦elohim|Elohim|God⟧ judge the world?
 
-[7] But if through my lie *Elohim*'s truth abounds to his glory, why am I still being condemned as a sinner?
+[7] But if through my lie ⟦elohim|Elohim's|God's⟧ truth abounds to his glory, why am I still being condemned as a sinner?
 
 [8] And why not do evil that good may come? — as some people slanderously charge us with saying. Their condemnation is just.
 
-[9] What then? Are we Jews any better off? No, not at all. For we have already charged that all, both Jews and Greeks, are under sin,
+[9] What then? Are we ⟦jews|Yehudim|Jews⟧ any better off? No, not at all. For we have already charged that all, both ⟦jews|Yehudim|Jews⟧ and ⟦greeks|Yevanim|Greeks⟧, are under sin,
 
 [10] as it is written:
 
 "**None is righteous, no, not one;
 [11] no one understands;
-no one seeks for *Elohim*.
+no one seeks for ⟦elohim|Elohim|God⟧.
 [12] All have turned aside; together they have become worthless;
 no one does good, not even one.**"
 
@@ -40,33 +40,33 @@ they use their tongues to deceive.**"
 [16] in their paths are ruin and misery,
 [17] and the way of peace they have not known.**"
 
-[18] "**There is no fear of *Elohim* before their eyes.**"
+[18] "**There is no fear of ⟦elohim|Elohim|God⟧ before their eyes.**"
 
-[19] Now we know that whatever the Torah says it speaks to those who are under the Torah, so that every mouth may be stopped, and the whole world may be held accountable to *Elohim*.
+[19] Now we know that whatever the ⟦torah|Torah|law⟧ says it speaks to those who are under the ⟦torah|Torah|law⟧, so that every mouth may be stopped, and the whole world may be held accountable to ⟦elohim|Elohim|God⟧.
 
-[20] For by works of the Torah no human being will be justified in his sight, since through the Torah comes knowledge of sin.
+[20] For by works of the ⟦torah|Torah|law⟧ no human being will be justified in his sight, since through the ⟦torah|Torah|law⟧ comes knowledge of sin.
 
-[21] But now the righteousness of *Elohim* has been manifested apart from the Torah, although the Torah and the Prophets bear witness to it —
+[21] But now the righteousness of ⟦elohim|Elohim|God⟧ has been manifested apart from the ⟦torah|Torah|law⟧, although the ⟦torah|Torah|Law⟧ and the Prophets bear witness to it —
 
-[22] the righteousness of *Elohim* through faith in *Yeshua* the *Mashiach* for all who believe. For there is no distinction:
+[22] the righteousness of ⟦elohim|Elohim|God⟧ through faith in ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧ for all who believe. For there is no distinction:
 
-[23] for **all have sinned and fall short of the glory of *Elohim*,**
+[23] for **all have sinned and fall short of the glory of ⟦elohim|Elohim|God⟧,**
 
-**[24] and are justified by his grace as a gift, through the redemption that is in *Yeshua* the *Mashiach***,
+**[24] and are justified by his grace as a gift, through the redemption that is in ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧**,
 
-[25] whom *Elohim* put forward as a propitiation by his blood, to be received by faith. This was to show *Elohim*'s righteousness, because in his divine forbearance he had passed over former sins.
+[25] whom ⟦elohim|Elohim|God⟧ put forward as a propitiation by his blood, to be received by faith. This was to show ⟦elohim|Elohim's|God's⟧ righteousness, because in his divine forbearance he had passed over former sins.
 
-[26] It was to show his righteousness at the present time, so that he might be just and the justifier of the one who has faith in *Yeshua*.
+[26] It was to show his righteousness at the present time, so that he might be just and the justifier of the one who has faith in ⟦yeshua|Yeshua|Jesus⟧.
 
 [27] Then what becomes of our boasting? It is excluded. By what kind of law? By a law of works? No, but by the law of faith.
 
-[28] For we hold that one is justified by faith apart from works of the Torah.
+[28] For we hold that one is justified by faith apart from works of the ⟦torah|Torah|law⟧.
 
-[29] Or is *Elohim* the *Elohim* of Jews only? Is he not the *Elohim* of Gentiles also? Yes, of Gentiles also,
+[29] Or is ⟦elohim|Elohim|God⟧ the ⟦elohim|Elohim|God⟧ of ⟦jews|Yehudim|Jews⟧ only? Is he not the ⟦elohim|Elohim|God⟧ of Gentiles also? Yes, of Gentiles also,
 
-[30] since *Elohim* is one — who will justify the circumcised by faith and the uncircumcised through faith.
+[30] since ⟦elohim|Elohim|God⟧ is one — who will justify the circumcised by faith and the uncircumcised through faith.
 
-[31] Do we then overthrow the Torah by this faith? By no means! On the contrary, we uphold the Torah.
+[31] Do we then overthrow the ⟦torah|Torah|law⟧ by this faith? By no means! On the contrary, we uphold the ⟦torah|Torah|law⟧.
 
 ## Changes
 

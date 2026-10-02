@@ -5,8 +5,8 @@ the oppressing city!
 
 [2] She listens to no voice;
 she accepts no correction.
-She does not trust in Yahweh;
-she does not draw near to her *Elohim*.
+She does not trust in ⟦yhwh|Yahweh|the LORD⟧;
+she does not draw near to her ⟦elohim|Elohim|God⟧.
 
 [3] Her officials within her
 are roaring lions;
@@ -15,9 +15,9 @@ that leave nothing till the morning.
 
 [4] Her prophets are fickle, treacherous men;
 her priests profane what is holy;
-they do violence to the Law.
+they do violence to the ⟦torah|Torah|law⟧.
 
-[5] Yahweh within her is righteous;
+[5] ⟦yhwh|Yahweh|The LORD⟧ within her is righteous;
 he does no injustice;
 every morning he shows forth his justice;
 each dawn he does not fail;
@@ -37,7 +37,7 @@ according to all that I have appointed against you.'
 But all the more they were eager
 to make all their deeds corrupt."
 
-[8] "Therefore wait for me," declares Yahweh,
+[8] "Therefore wait for me," declares ⟦yhwh|Yahweh|the LORD⟧,
 "for the day when I rise up to seize the prey.
 For my decision is to gather nations,
 to assemble kingdoms,
@@ -48,10 +48,10 @@ all the earth shall be consumed.
 
 [9] "For at that time I will change the speech of the peoples
 to a pure speech,
-that all of them may call upon the name of Yahweh
+that all of them may call upon the name of ⟦yhwh|Yahweh|the LORD⟧
 and serve him with one shoulder.
 
-[10] From beyond the rivers of Cush
+[10] From beyond the rivers of ⟦cush|Kush|Cush⟧
 my worshipers, the daughter of my dispersed ones,
 shall bring my offering.
 
@@ -64,9 +64,9 @@ in my holy mountain.
 
 [12] But I will leave in your midst
 a people humble and lowly.
-They shall seek refuge in the name of Yahweh,
+They shall seek refuge in the name of ⟦yhwh|Yahweh|the LORD⟧,
 
-[13] those who are left in Israel;
+[13] those who are left in ⟦israel|Yisrael|Israel⟧;
 they shall do no injustice
 and speak no lies,
 nor shall there be found in their mouth
@@ -74,21 +74,21 @@ a deceitful tongue.
 For they shall graze and lie down,
 and none shall make them afraid."
 
-[14] Sing aloud, O daughter of Zion;
-shout, O Israel!
+[14] Sing aloud, O daughter of ⟦zion|Tziyon|Zion⟧;
+shout, O ⟦israel|Yisrael|Israel⟧!
 Rejoice and exult with all your heart,
-O daughter of Jerusalem!
+O daughter of ⟦jerusalem|Yerushalayim|Jerusalem⟧!
 
-[15] Yahweh has taken away the judgments against you;
+[15] ⟦yhwh|Yahweh|The LORD⟧ has taken away the judgments against you;
 he has cleared away your enemies.
-The King of Israel, Yahweh, is in your midst;
+The King of ⟦israel|Yisrael|Israel⟧, ⟦yhwh|Yahweh|the LORD⟧, is in your midst;
 you shall never again fear evil.
 
-[16] On that day it shall be said to Jerusalem:
-"Fear not, O Zion;
+[16] On that day it shall be said to ⟦jerusalem|Yerushalayim|Jerusalem⟧:
+"Fear not, O ⟦zion|Tziyon|Zion⟧;
 let not your hands grow weak.
 
-[17] **Yahweh your *Elohim* is in your midst,
+[17] **⟦yhwh|Yahweh|The LORD⟧ your ⟦elohim|Elohim|God⟧ is in your midst,
 a mighty one who will save;
 he will rejoice over you with gladness;
 he will quiet you by his love;
@@ -109,7 +109,7 @@ at the time when I gather you together;
 for I will make you renowned and praised
 among all the peoples of the earth,
 when I restore your fortunes
-before your eyes," says Yahweh.
+before your eyes," says ⟦yhwh|Yahweh|the LORD⟧.
 
 ## Changes
 

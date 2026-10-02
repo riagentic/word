@@ -39,7 +39,7 @@ a řeka se ztrácí a vysychá,
 dokud nebudou nebesa, neprocitnou
 ani nebudou vyburcováni ze svého spánku.
 
-[13] Kéž bys mě ukryl v Sheolu,
+[13] Kéž bys mě ukryl v ⟦sheol|Šeolu|podsvětí⟧,
 kéž bys mě skrýval, dokud tvůj hněv nepřejde,
 kéž bys mi určil lhůtu a vzpomněl si na mě!
 

@@ -1,56 +1,56 @@
 # Skutky 24
 
-[1] Po pěti dnech sestoupil velekněz Ananias s několika staršími a s řečníkem, jistým Tertullem. Ti přednesli místodržiteli žalobu proti Paulovi.
+[1] Po pěti dnech sestoupil velekněz ⟦ananias|Chananja|Ananiáš⟧ s několika staršími a s řečníkem, jistým Tertullem. Ti přednesli místodržiteli žalobu proti ⟦paul|Paulovi|Pavlovi⟧.
 
-[2] Když byl Paul předvolán, začal ho Tertullus obviňovat: „Protože díky tobě užíváme hojného pokoje a protože se tvou prozíravostí, převznešený Felixi, pro tento národ zavádějí zlepšení,
+[2] Když byl ⟦paul|Paulus|Pavel⟧ předvolán, začal ho Tertullus obviňovat: „Protože díky tobě užíváme hojného pokoje a protože se tvou prozíravostí, převznešený Felixi, pro tento národ zavádějí zlepšení,
 
 [3] přijímáme to ve všem a všude se vší vděčností.
 
 [4] Abych tě však dále nezdržoval, prosím tě, vyslechni nás laskavě krátce.
 
-[5] Zjistili jsme, že tento muž je morová rána; vyvolává nepokoje mezi všemi Židy po celém světě a je předákem sekty nazarejců.
+[5] Zjistili jsme, že tento muž je morová rána; vyvolává nepokoje mezi všemi ⟦jews|Jehudim|Židy⟧ po celém světě a je předákem sekty ⟦nazarenes|Nocrim|nazorejců⟧.
 
 [6] Dokonce se pokusil znesvětit chrám, ale my jsme ho zadrželi.
 
 [8] Až ho sám vyslechneš, budeš se od něho moci dozvědět o všem, z čeho ho obviňujeme.“
 
-[9] K žalobě se připojili i Židé a tvrdili, že se to tak má.
+[9] K žalobě se připojili i ⟦jews|Jehudim|Židé⟧ a tvrdili, že se to tak má.
 
-[10] Když mu místodržitel pokynul, aby mluvil, Paul odpověděl: „Protože vím, že jsi už mnoho let soudcem nad tímto národem, s dobrou myslí vedu svou obhajobu.
+[10] Když mu místodržitel pokynul, aby mluvil, ⟦paul|Paulus|Pavel⟧ odpověděl: „Protože vím, že jsi už mnoho let soudcem nad tímto národem, s dobrou myslí vedu svou obhajobu.
 
-[11] Můžeš si ověřit, že to není víc než dvanáct dní, co jsem vystoupil do Jerusalemu, abych se poklonil,
+[11] Můžeš si ověřit, že to není víc než dvanáct dní, co jsem vystoupil do ⟦jerusalem|Jerušalajim|Jeruzaléma⟧, abych se poklonil,
 
 [12] a nenašli mě, že bych se s někým přel nebo pobuřoval zástup, ani v chrámu, ani v synagogách, ani ve městě.
 
 [13] Ani ti nemohou dokázat to, z čeho mě nyní obviňují.
 
-[14] Toto ti však vyznávám, že podle Cesty, kterou oni nazývají sektou, sloužím *Elohim* našich otců a věřím všemu, co je stanoveno v Torah a napsáno v Prorocích,
+[14] Toto ti však vyznávám, že podle Cesty, kterou oni nazývají sektou, sloužím ⟦elohim|Elohim|Bohu⟧ našich otců a věřím všemu, co je stanoveno v ⟦torah|Tóře|zákoně⟧ a napsáno v Prorocích,
 
-[15] a mám naději v *Elohim*, kterou i oni sami přijímají, že bude vzkříšení spravedlivých i nespravedlivých.
+[15] a mám naději v ⟦elohim|Elohim|Boha⟧, kterou i oni sami přijímají, že bude vzkříšení spravedlivých i nespravedlivých.
 
-[16] Proto se vždy snažím mít čisté svědomí před *Elohim* i před lidmi.
+[16] Proto se vždy snažím mít čisté svědomí před ⟦elohim|Elohim|Bohem⟧ i před lidmi.
 
 [17] Po několika letech jsem přišel, abych přinesl svému národu almužny a obětní dary.
 
-[18] Když jsem to konal, našli mě očištěného v chrámu, bez zástupu a bez hluku. Ale někteří Židé z Asie –
+[18] Když jsem to konal, našli mě očištěného v chrámu, bez zástupu a bez hluku. Ale někteří ⟦jews|Jehudim|Židé⟧ z Asie –
 
 [19] ti by tu měli být před tebou a vznést žalobu, mají-li něco proti mně.
 
-[20] Anebo ať tito zde sami řeknou, jakou vinu na mně našli, když jsem stál před radou,
+[20] Anebo ať tito zde sami řeknou, jakou vinu na mně našli, když jsem stál před ⟦sanhedrin|Sanhedrinem|veleradou⟧,
 
 [21] leda tu jedinou věc, kterou jsem zvolal, když jsem stál mezi nimi: ‚Kvůli vzkříšení mrtvých jsem dnes před vámi souzen.‘“
 
 [22] Felix, který měl o Cestě dosti přesné znalosti, je však odkázal na později: „Až sestoupí tribun Lysias, rozhodnu vaši věc.“
 
-[23] Potom setníkovi rozkázal, aby Paul byl střežen, ale měl jistou volnost a aby nikomu z jeho přátel nebylo bráněno postarat se o jeho potřeby.
+[23] Potom setníkovi rozkázal, aby ⟦paul|Paulus|Pavel⟧ byl střežen, ale měl jistou volnost a aby nikomu z jeho přátel nebylo bráněno postarat se o jeho potřeby.
 
-[24] Po několika dnech přišel Felix se svou ženou Drusillou, která byla Židovka, poslal pro Paula a vyslechl ho mluvit o víře v *Mashiacha* *Yeshuu*.
+[24] Po několika dnech přišel Felix se svou ženou Drusillou, která byla ⟦jew|Jehudija|Židovka⟧, poslal pro ⟦paul|Paula|Pavla⟧ a vyslechl ho mluvit o víře v ⟦mashiach|Mašiacha|Krista⟧ ⟦yeshua|Ješuu|Ježíše⟧.
 
-[25] Když však Paul mluvil o spravedlnosti, o sebeovládání a o budoucím soudu, Felix se polekal a řekl: „Pro tentokrát jdi. Až budu mít příležitost, zavolám si tě.“
+[25] Když však ⟦paul|Paulus|Pavel⟧ mluvil o spravedlnosti, o sebeovládání a o budoucím soudu, Felix se polekal a řekl: „Pro tentokrát jdi. Až budu mít příležitost, zavolám si tě.“
 
-[26] Zároveň doufal, že mu Paul dá peníze. Proto si ho také často zval a rozmlouval s ním.
+[26] Zároveň doufal, že mu ⟦paul|Paulus|Pavel⟧ dá peníze. Proto si ho také často zval a rozmlouval s ním.
 
-[27] Když uplynula dvě léta, nastoupil po Felixovi Porcius Festus. A protože se Felix chtěl zalíbit Židům, nechal Paula ve vězení.
+[27] Když uplynula dvě léta, nastoupil po Felixovi Porcius Festus. A protože se Felix chtěl zalíbit ⟦jews|Jehudim|Židům⟧, nechal ⟦paul|Paula|Pavla⟧ ve vězení.
 
 ## Změny
 

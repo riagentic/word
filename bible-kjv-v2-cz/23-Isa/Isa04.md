@@ -2,20 +2,20 @@
 
 [1] A sedm žen se v onen den chopí jednoho muže a řeknou: „Budeme jíst vlastní chléb a nosit vlastní šaty, jen ať se nazýváme tvým jménem; odejmi naši potupu.“
 
-[2] V onen den bude Výhonek – Yahweh krásný a slavný
+[2] V onen den bude Výhonek – ⟦yhwh|Jahveho|Hospodina⟧ krásný a slavný
 a plod země bude pýchou a ozdobou
-pro ty, kdo z Israele přežili.
+pro ty, kdo z ⟦israel|Jisraele|Izraele⟧ přežili.
 
-[3] A kdo zůstane na Zionu a kdo zbude v Jerusalemě,
+[3] A kdo zůstane na ⟦zion|Cijonu|Sijónu⟧ a kdo zbude v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧,
 bude nazván svatým,
-každý, kdo byl zapsán k životu v Jerusalemě,
+každý, kdo byl zapsán k životu v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧,
 
-[4] až Pán smyje
-špínu dcer Zionu
-a očistí krvavé skvrny Jerusalema z jeho středu
+[4] až ⟦adonai|Adonaj|Pán⟧ smyje
+špínu dcer ⟦zion|Cijonu|Sijónu⟧
+a očistí krvavé skvrny ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ z jeho středu
 duchem soudu a duchem spalování.
 
-[5] Tehdy Yahweh stvoří nad celým místem hory Zion
+[5] Tehdy ⟦yhwh|Jahve|Hospodin⟧ stvoří nad celým místem hory ⟦zion|Cijon|Sijón⟧
 a nad jejími shromážděními
 oblak ve dne a dým a záři plápolajícího ohně v noci;
 neboť nad veškerou slávou bude baldachýn.

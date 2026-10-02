@@ -1,30 +1,30 @@
 # Zechariah 12
 
-[1] The oracle of the word of Yahweh concerning Israel: thus declares Yahweh, who stretched out the heavens and founded the earth and formed the spirit of man within him:
+[1] The oracle of the word of ⟦yhwh|Yahweh|the LORD⟧ concerning ⟦israel|Yisrael|Israel⟧: thus declares ⟦yhwh|Yahweh|the LORD⟧, who stretched out the heavens and founded the earth and formed the spirit of man within him:
 
-[2] "Behold, I am about to make Jerusalem a cup of staggering to all the surrounding peoples. The siege of Jerusalem will also be against Judah.
+[2] "Behold, I am about to make ⟦jerusalem|Yerushalayim|Jerusalem⟧ a cup of staggering to all the surrounding peoples. The siege of ⟦jerusalem|Yerushalayim|Jerusalem⟧ will also be against ⟦judah|Yehudah|Judah⟧.
 
-[3] On that day I will make Jerusalem a heavy stone for all the peoples. All who lift it will surely hurt themselves. And all the nations of the earth will gather against it.
+[3] On that day I will make ⟦jerusalem|Yerushalayim|Jerusalem⟧ a heavy stone for all the peoples. All who lift it will surely hurt themselves. And all the nations of the earth will gather against it.
 
-[4] On that day, declares Yahweh, I will strike every horse with panic, and its rider with madness. But for the sake of the house of Judah I will keep my eyes open, when I strike every horse of the peoples with blindness.
+[4] On that day, declares ⟦yhwh|Yahweh|the LORD⟧, I will strike every horse with panic, and its rider with madness. But for the sake of the house of ⟦judah|Yehudah|Judah⟧ I will keep my eyes open, when I strike every horse of the peoples with blindness.
 
-[5] Then the clans of Judah shall say to themselves, 'The inhabitants of Jerusalem have strength through Yahweh of Hosts, their *Elohim*.'
+[5] Then the clans of ⟦judah|Yehudah|Judah⟧ shall say to themselves, 'The inhabitants of ⟦jerusalem|Yerushalayim|Jerusalem⟧ have strength through ⟦yhwh|Yahweh|the LORD⟧ of Hosts, their ⟦elohim|Elohim|God⟧.'
 
-[6] "On that day I will make the clans of Judah like a blazing pot in the midst of wood, like a flaming torch among sheaves. And they shall devour to the right and to the left all the surrounding peoples, while Jerusalem shall again be inhabited in its place, in Jerusalem.
+[6] "On that day I will make the clans of ⟦judah|Yehudah|Judah⟧ like a blazing pot in the midst of wood, like a flaming torch among sheaves. And they shall devour to the right and to the left all the surrounding peoples, while ⟦jerusalem|Yerushalayim|Jerusalem⟧ shall again be inhabited in its place, in ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[7] "And Yahweh will give salvation to the tents of Judah first, that the glory of the house of David and the glory of the inhabitants of Jerusalem may not surpass that of Judah.
+[7] "And ⟦yhwh|Yahweh|the LORD⟧ will give salvation to the tents of ⟦judah|Yehudah|Judah⟧ first, that the glory of the house of David and the glory of the inhabitants of ⟦jerusalem|Yerushalayim|Jerusalem⟧ may not surpass that of ⟦judah|Yehudah|Judah⟧.
 
-[8] On that day Yahweh will protect the inhabitants of Jerusalem, so that the feeblest among them on that day shall be like David, and the house of David shall be like *Elohim*, like the messenger of Yahweh going before them.
+[8] On that day ⟦yhwh|Yahweh|the LORD⟧ will protect the inhabitants of ⟦jerusalem|Yerushalayim|Jerusalem⟧, so that the feeblest among them on that day shall be like David, and the house of David shall be like ⟦elohim|Elohim|God⟧, like the messenger of ⟦yhwh|Yahweh|the LORD⟧ going before them.
 
-[9] And on that day I will seek to destroy all the nations that come against Jerusalem.
+[9] And on that day I will seek to destroy all the nations that come against ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[10] "And I will pour out on the house of David and the inhabitants of Jerusalem a spirit of grace and pleas for mercy, **so that, when they look on me, on him whom they have pierced, they shall mourn for him, as one mourns for an only child, and weep bitterly over him, as one weeps over a firstborn**.
+[10] "And I will pour out on the house of David and the inhabitants of ⟦jerusalem|Yerushalayim|Jerusalem⟧ a spirit of grace and pleas for mercy, **so that, when they look on me, on him whom they have pierced, they shall mourn for him, as one mourns for an only child, and weep bitterly over him, as one weeps over a firstborn**.
 
-[11] On that day the mourning in Jerusalem will be as great as the mourning for Hadad-Rimmon in the plain of Megiddo.
+[11] On that day the mourning in ⟦jerusalem|Yerushalayim|Jerusalem⟧ will be as great as the mourning for ⟦hadad-rimmon|Hadad-Rimmon|Hadad-rimmon⟧ in the plain of Megiddo.
 
-[12] The land shall mourn, each family by itself: the family of the house of David by itself, and their wives by themselves; the family of the house of Nathan by itself, and their wives by themselves;
+[12] The land shall mourn, each family by itself: the family of the house of David by itself, and their wives by themselves; the family of the house of ⟦nathan|Natan|Nathan⟧ by itself, and their wives by themselves;
 
-[13] the family of the house of Levi by itself, and their wives by themselves; the family of the Shimeites by itself, and their wives by themselves;
+[13] the family of the house of Levi by itself, and their wives by themselves; the family of ⟦shimeites|Shimi|the Shimeites⟧ by itself, and their wives by themselves;
 
 [14] and all the families that are left, each by itself, and their wives by themselves."
 

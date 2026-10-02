@@ -14,9 +14,9 @@
 
 [7] Blahoslavení milosrdní, neboť oni dojdou milosrdenství.
 
-[8] Blahoslavení čistého srdce, neboť oni uvidí *Elohim*.
+[8] Blahoslavení čistého srdce, neboť oni uvidí ⟦elohim|Elohim|Boha⟧.
 
-[9] Blahoslavení, kdo působí pokoj, neboť oni budou nazváni syny *Elohim*.
+[9] Blahoslavení, kdo působí pokoj, neboť oni budou nazváni syny ⟦elohim|Elohim|Božími⟧.
 
 [10] Blahoslavení pronásledovaní pro spravedlnost, neboť jejich je království nebes.
 
@@ -32,17 +32,17 @@
 
 [16] Tak ať vaše světlo svítí před druhými, aby viděli vaše dobré skutky a vzdávali slávu vašemu Otci, který je v nebesích.
 
-[17] Nemyslete si, že jsem přišel zrušit Zákon nebo Proroky; nepřišel jsem je zrušit, ale naplnit.
+[17] Nemyslete si, že jsem přišel zrušit ⟦torah|Tóru|Zákon⟧ nebo Proroky; nepřišel jsem je zrušit, ale naplnit.
 
-[18] Vpravdě vám pravím: Dokud nepomine nebe a země, nepomine ze Zákona ani jediné iota, ani jediná čárka, dokud se všechno nestane.
+[18] Vpravdě vám pravím: Dokud nepomine nebe a země, nepomine ⟦torah|z Tóry|ze Zákona⟧ ani jediné iota, ani jediná čárka, dokud se všechno nestane.
 
 [19] Kdo by tedy zrušil jedno z těchto nejmenších přikázání a učil tak i druhé, bude nazván nejmenším v království nebes; kdo je však bude činit a učit, bude nazván velkým v království nebes.
 
-[20] Neboť vám pravím: Nebude-li vaše spravedlnost větší než spravedlnost zákoníků a farizeů, jistě nevejdete do království nebes.
+[20] Neboť vám pravím: Nebude-li vaše spravedlnost větší než spravedlnost zákoníků a ⟦pharisees|perušim|farizeů⟧, jistě nevejdete do království nebes.
 
 [21] Slyšeli jste, že bylo řečeno předkům: ‚Nezavraždíš; a kdo zavraždí, propadne soudu.‘
 
-[22] Ale já vám pravím, že každý, kdo se hněvá na svého bratra, propadne soudu; kdo řekne svému bratru: ‚*Raqa*!‘, propadne Sanhedrinu; a kdo řekne: ‚Ty blázne!‘ propadne ohnivé Gehenna.
+[22] Ale já vám pravím, že každý, kdo se hněvá na svého bratra, propadne soudu; kdo řekne svému bratru: ‚*Raka*!‘, propadne ⟦sanhedrin|Sanhedrinu|veleradě⟧; a kdo řekne: ‚Ty blázne!‘ propadne ⟦gehenna|ohnivé Gehenně|ohnivému peklu⟧.
 
 [23] Přinášíš-li tedy svůj dar k oltáři a tam si vzpomeneš, že tvůj bratr má něco proti tobě,
 
@@ -56,19 +56,19 @@
 
 [28] Ale já vám pravím, že každý, kdo hledí na ženu s chtivým úmyslem, již s ní zcizoložil ve svém srdci.
 
-[29] Svádí-li tě tvé pravé oko k hříchu, vyrvi je a odhoď od sebe. Je pro tebe lepší, abys ztratil jeden ze svých údů, než aby celé tvé tělo bylo uvrženo do Gehenna.
+[29] Svádí-li tě tvé pravé oko k hříchu, vyrvi je a odhoď od sebe. Je pro tebe lepší, abys ztratil jeden ze svých údů, než aby celé tvé tělo bylo uvrženo do ⟦gehenna|Gehenny|pekla⟧.
 
-[30] A svádí-li tě tvá pravá ruka k hříchu, utni ji a odhoď od sebe. Je pro tebe lepší, abys ztratil jeden ze svých údů, než aby celé tvé tělo odešlo do Gehenna.
+[30] A svádí-li tě tvá pravá ruka k hříchu, utni ji a odhoď od sebe. Je pro tebe lepší, abys ztratil jeden ze svých údů, než aby celé tvé tělo odešlo do ⟦gehenna|Gehenny|pekla⟧.
 
 [31] Také bylo řečeno: ‚Kdo propouští svou ženu, ať jí dá rozlukový list.‘
 
 [32] Ale já vám pravím, že každý, kdo propouští svou ženu, vyjma pro sexuální nemravnost, přivádí ji k cizoložství, a kdo se ožení s propuštěnou, cizoloží.
 
-[33] Dále jste slyšeli, že bylo řečeno předkům: ‚Nebudeš křivě přísahat, ale splníš Pánu, co jsi odpřisáhl.‘
+[33] Dále jste slyšeli, že bylo řečeno předkům: ‚Nebudeš křivě přísahat, ale splníš ⟦yhwh|Jahvovi|Hospodinu⟧, co jsi odpřisáhl.‘
 
-[34] Ale já vám pravím: Vůbec nepřísahejte, ani při nebi, neboť je to trůn *Elohim*,
+[34] Ale já vám pravím: Vůbec nepřísahejte, ani při nebi, neboť je to trůn ⟦elohim|Elohim|Boží⟧,
 
-[35] ani při zemi, neboť je to podnož jeho nohou, ani při Jerusalemu, neboť je to město velikého Krále.
+[35] ani při zemi, neboť je to podnož jeho nohou, ani při ⟦jerusalem|Jerušalajim|Jeruzalému⟧, neboť je to město velikého Krále.
 
 [36] Ani při své hlavě nepřísahej, neboť nedokážeš jediný vlas učinit bílým nebo černým.
 

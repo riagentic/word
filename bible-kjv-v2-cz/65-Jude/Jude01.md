@@ -1,48 +1,48 @@
 # Judův 1
 
-[1] Jude, služebník *Yeshuy* *Mashiacha* a bratr Jacoba,
+[1] ⟦jude|Jehuda|Juda⟧, služebník ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧ a bratr ⟦james|Jaakova|Jakuba⟧,
 
-povolaným, milovaným v *Elohim* Otci a zachovávaným pro *Yeshuu* *Mashiacha*:
+povolaným, milovaným v ⟦elohim|Elohim|Bohu⟧ Otci a zachovávaným pro ⟦yeshua|Ješuu|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧:
 
 [2] Milosrdenství, pokoj a láska ať se vám rozhojní.
 
 [3] Milovaní, ačkoli jsem velmi toužil napsat vám o našem společném spasení, uznal jsem za nutné napsat vám a vybídnout vás, abyste bojovali za víru, která byla jednou provždy předána svatým.
 
-[4] Vloudili se totiž nepozorovaně někteří lidé, kteří byli k tomuto odsouzení určeni už dávno, bezbožníci, kteří převracejí milost našeho *Elohim* v prostopášnost a zapírají našeho jediného Vládce a Pána, *Yeshuu* *Mashiacha*.
+[4] Vloudili se totiž nepozorovaně někteří lidé, kteří byli k tomuto odsouzení určeni už dávno, bezbožníci, kteří převracejí milost našeho ⟦elohim|Elohim|Boha⟧ v prostopášnost a zapírají našeho jediného Vládce a Pána, ⟦yeshua|Ješuu|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧.
 
-[5] Chci vám však připomenout, ačkoli jste to kdysi dobře věděli, že Pán, který zachránil lid ze země Egypt, potom zahubil ty, kdo nevěřili.
+[5] Chci vám však připomenout, ačkoli jste to kdysi dobře věděli, že Pán, který zachránil lid ⟦egypt|ze země Micrajim|z egyptské země⟧, potom zahubil ty, kdo nevěřili.
 
 [6] A anděly, kteří nezachovali své vlastní postavení moci, ale opustili svůj příbytek, drží ve věčných okovech pod temnou tmou až k soudu velikého dne –
 
-[7] stejně jako Sodoma a Gomorrah a okolní města, která se podobně oddávala smilstvu a šla za nepřirozenou žádostí, slouží za příklad tím, že podstupují trest věčného ohně.
+[7] stejně jako ⟦sodom|Sedom|Sodoma⟧ a ⟦gomorrah|Amora|Gomora⟧ a okolní města, která se podobně oddávala smilstvu a šla za nepřirozenou žádostí, slouží za příklad tím, že podstupují trest věčného ohně.
 
 [8] Stejně tak i tito lidé, spoléhajíce na své sny, poskvrňují tělo, odmítají autoritu a rouhají se slavným bytostem.
 
-[9] Ale když archanděl Michael, v zápase s ďáblem, se přel o tělo Mosese, neodvážil se vynést rouhavý soud, ale řekl: „**Pán tě potresci**.“
+[9] Ale když archanděl Michael, v zápase s ďáblem, se přel o tělo ⟦moses|Moše|Mojžíše⟧, neodvážil se vynést rouhavý soud, ale řekl: „**⟦yhwh|Jahve|Hospodin⟧ tě potresci**.“
 
 [10] Tito lidé však se rouhají všemu, čemu nerozumějí, a hynou tím, co jako nerozumná zvířata chápou pudově.
 
-[11] Běda jim! Šli cestou Caina, pro zisk se vrhli do Balaamova bludu a zahynuli v Korachově vzpouře.
+[11] Běda jim! Šli cestou ⟦cain|Kajina|Kaina⟧, pro zisk se vrhli do ⟦balaam|Bilamova|Balaámova⟧ bludu a zahynuli v ⟦korah|Korachově|Koreově⟧ vzpouře.
 
 [12] To jsou skryté útesy při vašich hostinách lásky, když s vámi bez bázně hodují, pastýři, kteří pasou sami sebe; mraky bez vody, hnané větry; neplodné stromy v pozdním podzimu, dvakrát mrtvé, vykořeněné;
 
 [13] divoké mořské vlny, vyvrhující pěnu vlastní hanby; bludné hvězdy, jimž je navěky uchována mrákota naprosté tmy.
 
-[14] I o nich prorokoval Enoch, sedmý od Adama, když řekl: „**Hle, Pán přichází se svými desetitisíci svatých,**
+[14] I o nich prorokoval ⟦enoch|Chanoch|Henoch⟧, sedmý od Adama, když řekl: „**Hle, Pán přichází se svými desetitisíci svatých,**
 
 **[15] aby vykonal soud nade všemi a usvědčil všechny bezbožníky ze všech jejich bezbožných skutků, které tak bezbožně spáchali, i ze všech tvrdých slov, která proti němu mluvili bezbožní hříšníci**.“
 
 [16] To jsou reptalové, nespokojenci, kteří jdou za svými hříšnými žádostmi; jejich ústa mluví nadutá slova a kvůli výhodě se lidem lichotí.
 
-[17] Vy však, milovaní, pamatujte na slova předpověděná apoštoly našeho Pána *Yeshuy* *Mashiacha*.
+[17] Vy však, milovaní, pamatujte na slova předpověděná apoštoly našeho Pána ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧.
 
 [18] Říkali vám: „V posledním čase budou posměvači, kteří půjdou za svými bezbožnými vášněmi.“
 
 [19] To jsou ti, kdo působí rozdělení, světští lidé, kteří nemají Ducha.
 
-[20] Vy však, milovaní, budujte se ve své nejsvatější víře, modlete se v *Ruach HaQodesh*,
+[20] Vy však, milovaní, budujte se ve své nejsvatější víře, modlete se v ⟦ruach-haqodesh|Ruach HaKodeš|Duchu svatém⟧,
 
-[21] zachovejte se v lásce *Elohim* a očekávejte milosrdenství našeho Pána *Yeshuy* *Mashiacha*, které vede k věčnému životu.
+[21] zachovejte se v lásce ⟦elohim|Elohim|Boží⟧ a očekávejte milosrdenství našeho Pána ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧, které vede k věčnému životu.
 
 [22] A smilujte se nad těmi, kdo pochybují;
 
@@ -50,7 +50,7 @@ povolaným, milovaným v *Elohim* Otci a zachovávaným pro *Yeshuu* *Mashiacha*
 
 [24] Tomu, který vás může uchránit před klopýtnutím a postavit vás bez vady před tvář své slávy ve veliké radosti,
 
-[25] jedinému *Elohim*, našemu Spasiteli, skrze *Yeshuu* *Mashiacha*, našeho Pána, buď sláva, velebnost, moc a vláda přede všemi věky, nyní i navěky. Amen.
+[25] jedinému ⟦elohim|Elohim|Bohu⟧, našemu Spasiteli, skrze ⟦yeshua|Ješuu|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧, našeho Pána, buď sláva, velebnost, moc a vláda přede všemi věky, nyní i navěky. Amen.
 
 ## Změny
 

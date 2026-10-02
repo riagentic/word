@@ -1,42 +1,42 @@
 # Nehemjáš 6
 
-[1] Když Sanballat, Tobiah, Geshem Arab a ostatní naši nepřátelé uslyšeli, že jsem znovu postavil hradbu a že v ní nezůstala žádná trhlina (ačkoli jsem v té době ještě neosadil vrata do bran),
+[1] Když ⟦sanballat|Sanvallat|Sanbalat⟧, ⟦tobiah|Tovija|Tóbijáš⟧, Gešem ⟦arabs|Arvi|Arabský⟧ a ostatní naši nepřátelé uslyšeli, že jsem znovu postavil hradbu a že v ní nezůstala žádná trhlina (ačkoli jsem v té době ještě neosadil vrata do bran),
 
-[2] Sanballat a Geshem ke mně poslali se vzkazem: „Pojď, sejděme se spolu v některé z vesnic v rovině Ono.“ Chystali se mi však ublížit.
+[2] ⟦sanballat|Sanvallat|Sanbalat⟧ a Gešem ke mně poslali se vzkazem: „Pojď, sejděme se spolu v některé z vesnic v rovině ⟦ono|Ono|Ónó⟧.“ Chystali se mi však ublížit.
 
 [3] Poslal jsem k nim posly se vzkazem: „Konám veliké dílo a nemohu sestoupit. Proč by se mělo dílo zastavit, zatímco je opustím a sestoupím k vám?“
 
 [4] Posílali ke mně tímto způsobem čtyřikrát a já jsem jim odpověděl stejně.
 
-[5] Tu ke mně Sanballat poslal stejným způsobem popáté svého služebníka s otevřeným dopisem v ruce.
+[5] Tu ke mně ⟦sanballat|Sanvallat|Sanbalat⟧ poslal stejným způsobem popáté svého služebníka s otevřeným dopisem v ruce.
 
-[6] Bylo v něm napsáno: „Mezi národy se povídá – a Gashmu to říká –, že ty a Židé zamýšlíte vzbouřit se; proto stavíš znovu hradbu; a ty máš být podle těchto zpráv jejich králem.
+[6] Bylo v něm napsáno: „Mezi národy se povídá – a ⟦gashmu|Gašmu|Gešem⟧ to říká –, že ty a ⟦jews|Jehudim|Židé⟧ zamýšlíte vzbouřit se; proto stavíš znovu hradbu; a ty máš být podle těchto zpráv jejich králem.
 
-[7] Také jsi ustanovil proroky, aby o tobě v Jerusalemě provolávali: ‚V Judahu je král!‘ To teď bude podle těchto slov oznámeno králi. Proto přijď a poraďme se spolu.“
+[7] Také jsi ustanovil proroky, aby o tobě v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧ provolávali: ‚V ⟦judah|Jehudě|Judsku⟧ je král!‘ To teď bude podle těchto slov oznámeno králi. Proto přijď a poraďme se spolu.“
 
 [8] Tehdy jsem k němu poslal se vzkazem: „Nic takového, co říkáš, se neděje; vymýšlíš si to ve svém vlastním srdci.“
 
-[9] Všichni se nás totiž snažili zastrašit a říkali: „Jejich ruce od díla ochabnou a nebude dokončeno.“ Ale nyní, *Elohim*, posilni mé ruce.
+[9] Všichni se nás totiž snažili zastrašit a říkali: „Jejich ruce od díla ochabnou a nebude dokončeno.“ Ale nyní, ⟦elohim|Elohim|Bože⟧, posilni mé ruce.
 
-[10] Šel jsem do domu Shemaiaha, syna Delaiaha, syna Mehetabela, který tam byl zavřený; řekl: „Sejděme se v domě *Elohim*, uvnitř chrámu; zavřeme chrámové dveře, neboť přijdou, aby tě zabili – v noci přijdou, aby tě zabili.“
+[10] Šel jsem do domu ⟦shemaiah|Šemaji|Šemajáše⟧, syna ⟦delaiah|Delaji|Delajáše⟧, syna ⟦mehetabel|Mehetavela|Mehétabela⟧, který tam byl zavřený; řekl: „Sejděme se v domě ⟦elohim|Elohim|Božím⟧, uvnitř chrámu; zavřeme chrámové dveře, neboť přijdou, aby tě zabili – v noci přijdou, aby tě zabili.“
 
 [11] Ale já jsem řekl: „Má snad takový muž jako já utíkat? Kdo takový jako já by vešel do chrámu, aby si zachránil život? Nevejdu.“
 
-[12] Poznal jsem, že ho *Elohim* neposlal, ale že vyslovil toto proroctví proti mně, protože si ho najali Tobiah a Sanballat.
+[12] Poznal jsem, že ho ⟦elohim|Elohim|Bůh⟧ neposlal, ale že vyslovil toto proroctví proti mně, protože si ho najali ⟦tobiah|Tovija|Tóbijáš⟧ a ⟦sanballat|Sanvallat|Sanbalat⟧.
 
 [13] Byl najat k tomuto účelu – aby mě zastrašil, abych tak jednal a zhřešil, a oni by mi tak mohli udělat špatné jméno a zdiskreditovat mě.
 
-[14] Můj *Elohim*, rozpomeň se na Tobiaha a Sanballata podle těchto jejich skutků, a také na prorokyni Noadiah a ostatní proroky, kteří se mě snažili zastrašit.
+[14] Můj ⟦elohim|Elohim|Bože⟧, rozpomeň se na ⟦tobiah|Toviji|Tóbijáše⟧ a ⟦sanballat|Sanvallata|Sanbalata⟧ podle těchto jejich skutků, a také na prorokyni ⟦noadiah-prophetess|Noadju|Nóadju⟧ a ostatní proroky, kteří se mě snažili zastrašit.
 
 [15] Hradba tedy byla dokončena dvacátého pátého dne měsíce Elul, za padesát dva dní.
 
-[16] Když to všichni naši nepřátelé uslyšeli a všechny národy kolem nás ty věci viděly, velice poklesly ve vlastních očích, neboť poznaly, že toto dílo vykonal náš *Elohim*.
+[16] Když to všichni naši nepřátelé uslyšeli a všechny národy kolem nás ty věci viděly, velice poklesly ve vlastních očích, neboť poznaly, že toto dílo vykonal náš ⟦elohim|Elohim|Bůh⟧.
 
-[17] Navíc v těch dnech šlechtici Judahu posílali Tobiahovi mnoho dopisů a dopisy od Tobiaha přicházely k nim.
+[17] Navíc v těch dnech šlechtici ⟦judah|Jehudy|Judy⟧ posílali ⟦tobiah|Tovijovi|Tóbijášovi⟧ mnoho dopisů a dopisy od ⟦tobiah|Toviji|Tóbijáše⟧ přicházely k nim.
 
-[18] Mnozí v Judahu k němu byli totiž vázáni přísahou, protože byl zetěm Shecaniaha, syna Araha, a jeho syn Jehohanan si vzal dceru Meshullama, syna Berechiaha.
+[18] Mnozí v ⟦judah|Jehudě|Judsku⟧ k němu byli totiž vázáni přísahou, protože byl zetěm ⟦shecaniah|Šechanji|Šekanjáše⟧, syna Aracha, a jeho syn ⟦jehohanan|Jehochanan|Jóchanan⟧ si vzal dceru ⟦meshullam|Mešullama|Mešulama⟧, syna ⟦berechiah|Berechji|Berekjáše⟧.
 
-[19] Také přede mnou stále mluvili o jeho dobrých skutcích a donášeli mu má slova. Tobiah posílal dopisy, aby mě zastrašil.
+[19] Také přede mnou stále mluvili o jeho dobrých skutcích a donášeli mu má slova. ⟦tobiah|Tovija|Tóbijáš⟧ posílal dopisy, aby mě zastrašil.
 
 ## Změny
 

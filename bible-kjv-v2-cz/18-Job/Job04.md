@@ -1,6 +1,6 @@
 # Jób 4
 
-[1] Tu odpověděl Eliphaz Temanský a řekl:
+[1] Tu odpověděl ⟦eliphaz|Elifaz|Elífaz⟧ ⟦temanite|Temani|Témanský⟧ a řekl:
 
 [2] „Když se k tobě někdo odváží promluvit, budeš unaven?
 Ale kdo se dokáže zdržet slov?
@@ -14,7 +14,7 @@ podlomená kolena jsi upevňoval.
 [5] Ale teď to přišlo na tebe, a jsi unaven;
 dotklo se to tebe, a jsi zděšen.
 
-[6] Není tvá bázeň před *Elohim* tvou důvěrou
+[6] Není tvá bázeň před ⟦elohim|Elohim|Bohem⟧ tvou důvěrou
 a ryzost tvých cest tvou nadějí?
 
 [7] Vzpomeň si: kdo kdy zahynul nevinný?
@@ -23,7 +23,7 @@ Kde byli přímí vyhlazeni?
 [8] Jak jsem viděl, ti, kdo orají nepravost
 a sejí trápení, to také sklízejí.
 
-[9] Dechem Eloah hynou;
+[9] Dechem ⟦eloah|Eloah|Božím⟧ hynou;
 závanem jeho chřípí jsou stráveni.
 
 [10] Řev lva, hlas divokého lva
@@ -48,7 +48,7 @@ chlupy na mém těle se zježily.
 před mýma očima byla postava;
 bylo ticho, pak jsem uslyšel hlas:
 
-[17] ‚Může být člověk – smrtelný člověk – spravedlivější než Eloah?
+[17] ‚Může být člověk – smrtelný člověk – spravedlivější než ⟦eloah|Eloah|Bůh⟧?
 Může být muž čistší než jeho Stvořitel?
 
 [18] Hle, ani svým služebníkům nedůvěřuje;

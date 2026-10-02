@@ -1,18 +1,18 @@
 # Jeremjáš 20
 
-[1] Kněz Pashhur, syn Immera, který byl vrchním správcem v domě Yahweh, slyšel Jeremiaha prorokovat tyto věci.
+[1] Kněz ⟦pashhur|Pašchur|Pašchúr⟧, syn ⟦immer|Immera|Iméra⟧, který byl vrchním správcem v domě ⟦yhwh|Jahveho|Hospodina⟧, slyšel ⟦jeremiah|Jirmejahua|Jeremjáše⟧ prorokovat tyto věci.
 
-[2] Tu Pashhur zbil proroka Jeremiaha a dal ho do klády, která byla v horní Benjaminově bráně domu Yahweh.
+[2] Tu ⟦pashhur|Pašchur|Pašchúr⟧ zbil proroka ⟦jeremiah|Jirmejahua|Jeremjáše⟧ a dal ho do klády, která byla v horní ⟦benjamin|Binjaminově|Benjamínově⟧ bráně domu ⟦yhwh|Jahveho|Hospodina⟧.
 
-[3] Druhého dne, když Pashhur propustil Jeremiaha z klády, řekl mu Jeremiah: „Yahweh tě nenazývá jménem Pashhur, ale Hrůza všude kolem.
+[3] Druhého dne, když ⟦pashhur|Pašchur|Pašchúr⟧ propustil ⟦jeremiah|Jirmejahua|Jeremjáše⟧ z klády, řekl mu ⟦jeremiah|Jirmejahu|Jeremjáš⟧: „⟦yhwh|Jahve|Hospodin⟧ tě nenazývá jménem ⟦pashhur|Pašchur|Pašchúr⟧, ale ⟦magor-missabib|Magor Missaviv – Hrůza všude kolem|Magór mi-sábíb⟧.
 
-[4] Neboť toto praví Yahweh: Hle, učiním tě hrůzou pro tebe samého i pro všechny tvé přátele. Padnou mečem svých nepřátel a ty se budeš dívat. A celý Judah vydám do ruky krále Babylonu. Odvede je do zajetí do Babylonu a pobije je mečem.
+[4] Neboť toto praví ⟦yhwh|Jahve|Hospodin⟧: Hle, učiním tě hrůzou pro tebe samého i pro všechny tvé přátele. Padnou mečem svých nepřátel a ty se budeš dívat. A celý ⟦judah|Jehudu|Judu⟧ vydám do ruky krále ⟦babylon|Bavelu|Babylóna⟧. Odvede je do zajetí do ⟦babylon|Bavelu|Babylóna⟧ a pobije je mečem.
 
-[5] Navíc vydám všechno bohatství města, všechen jeho výdělek, všechny jeho cennosti a všechny poklady králů Judah do ruky jejich nepřátel, kteří je vyplení, uchvátí a odvezou do Babylonu.
+[5] Navíc vydám všechno bohatství města, všechen jeho výdělek, všechny jeho cennosti a všechny poklady králů ⟦judah|Jehudy|Judy⟧ do ruky jejich nepřátel, kteří je vyplení, uchvátí a odvezou do ⟦babylon|Bavelu|Babylóna⟧.
 
-[6] A ty, Pashhure, a všichni, kdo bydlí v tvém domě, půjdete do zajetí. Do Babylonu půjdeš a tam zemřeš a tam budeš pohřben, ty i všichni tvoji přátelé, jimž jsi lživě prorokoval.“
+[6] A ty, ⟦pashhur|Pašchure|Pašchúre⟧, a všichni, kdo bydlí v tvém domě, půjdete do zajetí. Do ⟦babylon|Bavelu|Babylóna⟧ půjdeš a tam zemřeš a tam budeš pohřben, ty i všichni tvoji přátelé, jimž jsi lživě prorokoval.“
 
-[7] Yahweh, oklamal jsi mě
+[7] ⟦yhwh|Jahve|Hospodine⟧, oklamal jsi mě
 a dal jsem se oklamat;
 jsi silnější než já
 a přemohl jsi mě.
@@ -21,7 +21,7 @@ každý se mi vysmívá.
 
 [8] Neboť kdykoli mluvím, křičím,
 volám: „Násilí a zkáza!“
-Neboť slovo Yahweh se mi stalo
+Neboť slovo ⟦yhwh|Jahveho|Hospodina⟧ se mi stalo
 potupou a posměchem po celý den.
 
 [9] Když si řeknu: „Nebudu se o něm zmiňovat
@@ -40,7 +40,7 @@ kteří číhají na můj pád.
 pak ho přemůžeme
 a pomstíme se mu.“
 
-[11] Ale Yahweh je se mnou jako hrozný bojovník;
+[11] Ale ⟦yhwh|Jahve|Hospodin⟧ je se mnou jako hrozný bojovník;
 proto moji pronásledovatelé klopýtnou;
 nepřemohou mě.
 Budou velmi zahanbeni,
@@ -48,13 +48,13 @@ neboť neuspějí.
 Jejich věčná potupa
 nebude nikdy zapomenuta.
 
-[12] Yahweh zástupů, který zkoušíš spravedlivého,
+[12] ⟦yhwh|Jahve|Hospodine⟧ zástupů, který zkoušíš spravedlivého,
 který vidíš nejhlubší nitro i srdce,
 nech mě vidět tvou pomstu na nich,
 neboť tobě jsem svěřil svou při.
 
-[13] Zpívejte Yahweh;
-chvalte Yahweh!
+[13] Zpívejte ⟦yhwh|Jahvovi|Hospodinu⟧;
+chvalte ⟦yhwh|Jahveho|Hospodina⟧!
 Neboť vysvobodil život chudého
 z ruky zločinců.
 
@@ -68,7 +68,7 @@ ať není požehnaný!
 a velice ho tím potěšil.
 
 [16] Ať je ten muž jako města,
-která Yahweh bez slitování vyvrátil;
+která ⟦yhwh|Jahve|Hospodin⟧ bez slitování vyvrátil;
 ať slyší křik ráno
 a poplach v poledne,
 

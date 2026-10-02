@@ -1,42 +1,42 @@
 # Numeri 28
 
-[1] Yahweh promluvil k Mosesovi a řekl:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a řekl:
 
-[2] „Přikaž synům Israele a řekni jim: ‚Můj obětní dar, můj pokrm pro mé ohnivé oběti, libou vůni pro mě, budete dbát přinášet mi v jejich určeném čase.‘
+[2] „Přikaž synům ⟦israel|Jisraele|Izraele⟧ a řekni jim: ‚Můj obětní dar, můj pokrm pro mé ohnivé oběti, libou vůni pro mě, budete dbát přinášet mi v jejich určeném čase.‘
 
-[3] Řekni jim: ‚Toto je ohnivá oběť, kterou budete přinášet Yahweh: dvě roční jehňata bez vady den co den jako pravidelnou zápalnou oběť.
+[3] Řekni jim: ‚Toto je ohnivá oběť, kterou budete přinášet ⟦yhwh|Jahvovi|Hospodinu⟧: dvě roční jehňata bez vady den co den jako pravidelnou zápalnou oběť.
 
 [4] Jedno jehně přineseš ráno a druhé jehně přineseš za soumraku,
 
 [5] s desetinou éfy bílé mouky jako moučnou obětí, smíšené se čtvrtinou hinu oleje z tlučených oliv.
 
-[6] Je to pravidelná zápalná oběť, která byla ustanovena na hoře Sinai jako libá vůně, ohnivá oběť pro Yahweh.
+[6] Je to pravidelná zápalná oběť, která byla ustanovena na hoře ⟦sinai|Sinaj|Sínaj⟧ jako libá vůně, ohnivá oběť pro ⟦yhwh|Jahveho|Hospodina⟧.
 
-[7] Její úlitbou bude čtvrtina hinu na každé jehně; ve svatyni vyliješ úlitbu opojného nápoje pro Yahweh.
+[7] Její úlitbou bude čtvrtina hinu na každé jehně; ve svatyni vyliješ úlitbu opojného nápoje pro ⟦yhwh|Jahveho|Hospodina⟧.
 
-[8] Druhé jehně přineseš za soumraku; přineseš je s moučnou obětí jako ráno a s její úlitbou, jako ohnivou oběť, libou vůni pro Yahweh.
+[8] Druhé jehně přineseš za soumraku; přineseš je s moučnou obětí jako ráno a s její úlitbou, jako ohnivou oběť, libou vůni pro ⟦yhwh|Jahveho|Hospodina⟧.
 
-[9] V den sabatu: dvě roční jehňata bez vady a dvě desetiny éfy bílé mouky smíšené s olejem jako moučnou oběť a její úlitbu.
+[9] V den ⟦shabbat|šabatu|soboty⟧: dvě roční jehňata bez vady a dvě desetiny éfy bílé mouky smíšené s olejem jako moučnou oběť a její úlitbu.
 
-[10] To je zápalná oběť každého sabatu, kromě pravidelné zápalné oběti a její úlitby.
+[10] To je zápalná oběť ⟦shabbat|každého šabatu|každé soboty⟧, kromě pravidelné zápalné oběti a její úlitby.
 
-[11] Na počátcích svých měsíců budete přinášet zápalnou oběť Yahweh: dva mladé býčky, jednoho berana a sedm ročních jehňat bez vady;
+[11] Na počátcích svých měsíců budete přinášet zápalnou oběť ⟦yhwh|Jahvovi|Hospodinu⟧: dva mladé býčky, jednoho berana a sedm ročních jehňat bez vady;
 
 [12] a tři desetiny éfy bílé mouky smíšené s olejem jako moučnou oběť na každého býčka; a dvě desetiny éfy bílé mouky smíšené s olejem jako moučnou oběť na každého berana;
 
-[13] a jednu desetinu éfy bílé mouky smíšené s olejem jako moučnou oběť na každé jehně; zápalná oběť libé vůně, ohnivá oběť pro Yahweh.
+[13] a jednu desetinu éfy bílé mouky smíšené s olejem jako moučnou oběť na každé jehně; zápalná oběť libé vůně, ohnivá oběť pro ⟦yhwh|Jahveho|Hospodina⟧.
 
 [14] Jejich úlitbami bude polovina hinu vína na býčka, třetina hinu na berana a čtvrtina hinu na jehně; to je zápalná oběť na každý měsíc po všechny měsíce roku.
 
-[15] A jeden kozel jako oběť za hřích pro Yahweh; bude přinesen kromě pravidelné zápalné oběti a její úlitby.
+[15] A jeden kozel jako oběť za hřích pro ⟦yhwh|Jahveho|Hospodina⟧; bude přinesen kromě pravidelné zápalné oběti a její úlitby.
 
-[16] Čtrnáctého dne prvního měsíce je Pascha Yahweh.
+[16] Čtrnáctého dne prvního měsíce je ⟦pesach|Pesach|velikonoční hod⟧ ⟦yhwh|Jahveho|Hospodina⟧.
 
-[17] Patnáctého dne tohoto měsíce je svátek; sedm dní se budou jíst nekvašené chleby.
+[17] Patnáctého dne tohoto měsíce je svátek; sedm dní se budou jíst ⟦unleavened-bread|macot|nekvašené chleby⟧.
 
 [18] První den bude svaté shromáždění; nebudete dělat žádnou těžkou práci.
 
-[19] Přinesete ohnivou oběť, zápalnou oběť Yahweh: dva mladé býčky, jednoho berana a sedm ročních jehňat – budou vám bez vady.
+[19] Přinesete ohnivou oběť, zápalnou oběť ⟦yhwh|Jahvovi|Hospodinu⟧: dva mladé býčky, jednoho berana a sedm ročních jehňat – budou vám bez vady.
 
 [20] Jejich moučná oběť z bílé mouky smíšené s olejem: přinesete tři desetiny éfy na býčka a dvě desetiny éfy na berana;
 
@@ -46,13 +46,13 @@
 
 [23] To přinesete navíc k ranní zápalné oběti, která je pravidelnou zápalnou obětí.
 
-[24] Tímto způsobem budete přinášet denně po sedm dní pokrm ohnivé oběti, libou vůni pro Yahweh; bude přinášen kromě pravidelné zápalné oběti a její úlitby.
+[24] Tímto způsobem budete přinášet denně po sedm dní pokrm ohnivé oběti, libou vůni pro ⟦yhwh|Jahveho|Hospodina⟧; bude přinášen kromě pravidelné zápalné oběti a její úlitby.
 
 [25] Sedmého dne budete mít svaté shromáždění; nebudete dělat žádnou těžkou práci.
 
-[26] V den prvotin, když budete přinášet Yahweh novou moučnou oběť o svém svátku týdnů, budete mít svaté shromáždění; nebudete dělat žádnou těžkou práci.
+[26] V den prvotin, když budete přinášet ⟦yhwh|Jahvovi|Hospodinu⟧ novou moučnou oběť o svém svátku ⟦weeks|Šavuot|týdnů⟧, budete mít svaté shromáždění; nebudete dělat žádnou těžkou práci.
 
-[27] Přinesete zápalnou oběť, libou vůni pro Yahweh: dva mladé býčky, jednoho berana, sedm ročních jehňat;
+[27] Přinesete zápalnou oběť, libou vůni pro ⟦yhwh|Jahveho|Hospodina⟧: dva mladé býčky, jednoho berana, sedm ročních jehňat;
 
 [28] a jejich moučnou oběť z bílé mouky smíšené s olejem: tři desetiny éfy na každého býčka, dvě desetiny éfy na toho jednoho berana,
 

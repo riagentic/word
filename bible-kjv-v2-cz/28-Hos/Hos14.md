@@ -1,19 +1,19 @@
 # Ozeáš 14
 
-[1] Vrať se, Israeli, k Yahweh, svému *Elohim*,
+[1] Vrať se, ⟦israel|Jisraeli|Izraeli⟧, k ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧,
 neboť jsi klopýtl pro svou nepravost.
 
 [2] Vezměte s sebou slova
-a vraťte se k Yahweh;
+a vraťte se k ⟦yhwh|Jahvovi|Hospodinu⟧;
 řekněte mu:
 „Odejmi všechnu nepravost;
 přijmi, co je dobré,
 a my splatíme býky
 sliby svých rtů.
 
-[3] Assyrie nás nezachrání;
+[3] ⟦assyria|Aššur|Asýrie⟧ nás nezachrání;
 nebudeme jezdit na koních
-a už nebudeme říkat ‚Náš *Elohim*‘
+a už nebudeme říkat ‚Náš ⟦elohim|Elohim|Bůh⟧‘
 dílu svých rukou.
 U tebe sirotek nalézá slitování.“
 
@@ -21,27 +21,27 @@ U tebe sirotek nalézá slitování.“
 budu je dobrovolně milovat,
 neboť můj hněv se od nich odvrátil.
 
-[5] Budu pro Israele jako rosa;
+[5] Budu pro ⟦israel|Jisraele|Izraele⟧ jako rosa;
 rozkvete jako lilie;
-zapustí kořeny jako stromy Lebanonu;
+zapustí kořeny jako stromy ⟦lebanon|Levanonu|Libanónu⟧;
 
 [6] jeho výhonky se rozrostou;
 jeho krása bude jako olivovník
-a jeho vůně jako Lebanon.
+a jeho vůně jako ⟦lebanon|Levanon|Libanón⟧.
 
 [7] Vrátí se a budou bydlet v mém stínu;
 budou se vzmáhat jako obilí;
 rozkvetou jako vinná réva;
-jejich pověst bude jako víno Lebanonu.
+jejich pověst bude jako víno ⟦lebanon|Levanonu|Libanónu⟧.
 
-[8] Ephraime, co mám já společného s modlami?
+[8] Efrajime, co mám já společného s modlami?
 Já jsem ten, kdo mu odpovídá a pečuje o něj.
 Jsem jako stále zelený cypřiš;
 ode mne pochází tvé ovoce.“
 
 [9] Kdo je moudrý, ať tomu porozumí;
 kdo je rozvážný, ať to pozná;
-neboť cesty Yahweh jsou přímé
+neboť cesty ⟦yhwh|Jahveho|Hospodina⟧ jsou přímé
 a spravedliví po nich chodí,
 ale přestupníci na nich klopýtají.
 

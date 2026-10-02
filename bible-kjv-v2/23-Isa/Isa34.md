@@ -5,7 +5,7 @@ and give attention, O peoples!
 Let the earth hear, and all that fills it;
 the world, and all that comes from it.
 
-[2] For Yahweh is enraged against all the nations,
+[2] For ⟦yhwh|Yahweh|the LORD⟧ is enraged against all the nations,
 and furious against all their host;
 he has devoted them to destruction,
 has given them over for slaughter.
@@ -24,11 +24,11 @@ like leaves falling from the fig tree.
 behold, it descends for judgment upon Edom,
 upon the people I have devoted to destruction.
 
-[6] Yahweh has a sword; it is sated with blood;
+[6] ⟦yhwh|Yahweh|The LORD⟧ has a sword; it is sated with blood;
 it is gorged with fat,
 with the blood of lambs and goats,
 with the fat of the kidneys of rams.
-For Yahweh has a sacrifice in Bozrah,
+For ⟦yhwh|Yahweh|the LORD⟧ has a sacrifice in ⟦bozrah|Botzrah|Bozrah⟧,
 a great slaughter in the land of Edom.
 
 [7] Wild oxen shall fall with them,
@@ -36,8 +36,8 @@ and young steers with the mighty bulls.
 Their land shall drink its fill of blood,
 and their soil shall be gorged with fat.
 
-[8] For Yahweh has a day of vengeance,
-a year of recompense for the cause of Zion.
+[8] For ⟦yhwh|Yahweh|the LORD⟧ has a day of vengeance,
+a year of recompense for the cause of ⟦zion|Tziyon|Zion⟧.
 
 [9] And the streams of Edom shall be turned into pitch,
 and her soil into sulfur;
@@ -62,8 +62,8 @@ It shall be the haunt of jackals,
 an abode for ostriches.
 
 [14] And wild animals shall meet with hyenas;
-the sa'ir — goat-demon — shall cry to his fellow;
-indeed, there Lilith — night creature — settles
+the ⟦sair|sa'ir — goat-demon —|wild goat⟧ shall cry to his fellow;
+indeed, there ⟦lilith|Lilith — night creature —|the night bird⟧ settles
 and finds for herself a resting place.
 
 [15] There the owl nests and lays
@@ -71,10 +71,10 @@ and hatches and gathers her young in her shadow;
 indeed, there the hawks are gathered,
 each one with her mate.
 
-[16] Seek and read from the book of Yahweh:
+[16] Seek and read from the book of ⟦yhwh|Yahweh|the LORD⟧:
 Not one of these shall be missing;
 none shall be without her mate.
-For the mouth of Yahweh has commanded,
+For the mouth of ⟦yhwh|Yahweh|the LORD⟧ has commanded,
 and his spirit has gathered them.
 
 [17] He has cast the lot for them;

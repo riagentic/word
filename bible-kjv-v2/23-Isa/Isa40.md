@@ -1,28 +1,28 @@
 # Isaiah 40
 
-[1] Nachamu, nachamu ami —
-"Comfort, comfort my people,"
-says your *Elohim*.
+[1] ⟦nachamu|Nachamu, nachamu ami —|"Comfort,⟧
+⟦nachamu|"Comfort, comfort my people,"|comfort my people,"⟧
+says your ⟦elohim|Elohim|God⟧.
 
-[2] "Speak tenderly to Jerusalem,
+[2] "Speak tenderly to ⟦jerusalem|Yerushalayim|Jerusalem⟧,
 and cry to her
 that her warfare is ended,
 that her iniquity is pardoned,
-that she has received from Yahweh's hand
+that she has received from ⟦yhwh|Yahweh's|the LORD's⟧ hand
 double for all her sins."
 
 [3] A voice cries:
-"In the wilderness prepare the way of Yahweh;
-make straight in the desert a highway for our *Elohim*.
+"In the wilderness prepare the way of ⟦yhwh|Yahweh|the LORD⟧;
+make straight in the desert a highway for our ⟦elohim|Elohim|God⟧.
 
 [4] Every valley shall be lifted up,
 and every mountain and hill be made low;
 the uneven ground shall become level,
 and the rough places a plain.
 
-[5] And the glory of Yahweh shall be revealed,
+[5] And the glory of ⟦yhwh|Yahweh|the LORD⟧ shall be revealed,
 and all flesh shall see it together,
-for the mouth of Yahweh has spoken."
+for the mouth of ⟦yhwh|Yahweh|the LORD⟧ has spoken."
 
 [6] A voice says, "Cry!"
 And I said, "What shall I cry?"
@@ -30,21 +30,21 @@ And I said, "What shall I cry?"
 and all its loyalty is like the flower of the field.
 
 [7] The grass withers, the flower fades
-when the breath of Yahweh blows on it;
+when the breath of ⟦yhwh|Yahweh|the LORD⟧ blows on it;
 surely the people are grass.
 
 [8] The grass withers, the flower fades,
-but the word of our *Elohim* will stand forever."
+but the word of our ⟦elohim|Elohim|God⟧ will stand forever."
 
 [9] Get you up to a high mountain,
-O herald Zion — herald of good news to Zion;
+O herald ⟦zion|Tziyon|Zion⟧ — herald of good news to ⟦zion|Tziyon|Zion⟧;
 lift up your voice with strength,
-O herald Jerusalem — herald of good news to Jerusalem;
+O herald ⟦jerusalem|Yerushalayim|Jerusalem⟧ — herald of good news to ⟦jerusalem|Yerushalayim|Jerusalem⟧;
 lift it up, fear not;
-say to the cities of Judah,
-"Behold your *Elohim*!"
+say to the cities of ⟦judah|Yehudah|Judah⟧,
+"Behold your ⟦elohim|Elohim|God⟧!"
 
-[10] Behold, Lord Yahweh comes with might,
+[10] Behold, ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧ comes with might,
 and his arm rules for him;
 behold, his reward is with him,
 and his recompense before him.
@@ -60,7 +60,7 @@ enclosed the dust of the earth in a measure
 and weighed the mountains in scales
 and the hills in a balance?
 
-[13] Who has directed the Spirit of Yahweh,
+[13] Who has directed the Spirit of ⟦yhwh|Yahweh|the LORD⟧,
 or what man shows him his counsel?
 
 [14] Whom did he consult,
@@ -73,13 +73,13 @@ and showed him the way of understanding?
 and are accounted as the dust on the scales;
 behold, he takes up the coastlands like fine dust.
 
-[16] Lebanon would not suffice for fuel,
+[16] ⟦lebanon|Levanon|Lebanon⟧ would not suffice for fuel,
 nor are its beasts enough for a burnt offering.
 
 [17] All the nations are as nothing before him,
 they are accounted by him as less than nothing and emptiness.
 
-[18] To whom then will you liken *Elohim*,
+[18] To whom then will you liken ⟦el|El|God⟧,
 or what likeness compare with him?
 
 [19] An idol! A craftsman casts it,
@@ -119,13 +119,13 @@ by the greatness of his might
 and because he is strong in power,
 not one is missing.
 
-[27] Why do you say, O Jacob,
-and speak, O Israel,
-"My way is hidden from Yahweh,
-and my right is disregarded by my *Elohim*"?
+[27] Why do you say, O ⟦jacob|Yaaqov|Jacob⟧,
+and speak, O ⟦israel|Yisrael|Israel⟧,
+"My way is hidden from ⟦yhwh|Yahweh|the LORD⟧,
+and my right is disregarded by my ⟦elohim|Elohim|God⟧"?
 
 [28] Have you not known? Have you not heard?
-Yahweh is the everlasting *Elohim*,
+⟦yhwh|Yahweh|The LORD⟧ is the everlasting ⟦elohim|Elohim|God⟧,
 the Creator of the ends of the earth.
 He does not faint or grow weary;
 his understanding is unsearchable.
@@ -136,7 +136,7 @@ and to him who has no might he increases strength.
 [30] Even youths shall faint and be weary,
 and young men shall fall exhausted;
 
-[31] but they who wait for Yahweh shall renew their strength;
+[31] but they who wait for ⟦yhwh|Yahweh|the LORD⟧ shall renew their strength;
 they shall mount up with wings like eagles;
 they shall run and not be weary;
 they shall walk and not faint.
@@ -148,6 +148,7 @@ they shall walk and not faint.
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim* preserved consistently.
 - **"Spirit of the LORD" → "Spirit of Yahweh"** (v13) — Hebrew divine spirit term preserved.
 - **"Comfort ye" / "Nachamu" — opening** — Hebrew נַחֲמוּ נַחֲמוּ *Nachamu, nachamu ami* preserved as opening invocation.
+- **"God" → "El"** (v18) — Hebrew אֵל *El*, not *Elohim*.
 - **Poetic structure** — entire chapter formatted as verse; Second Isaiah is almost entirely poetry with brief prose connectors.
 
 ### Notes

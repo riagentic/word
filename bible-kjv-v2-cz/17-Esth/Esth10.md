@@ -1,10 +1,10 @@
 # Ester 10
 
-[1] Král Ahasuerus uložil daň zemi i pobřežím moře.
+[1] Král ⟦ahasuerus|Achašveroš|Achašveróš⟧ uložil daň zemi i pobřežím moře.
 
-[2] Všechny činy jeho moci a síly a úplná zpráva o Mordecaiově velikosti, k níž ho král povýšil – nejsou snad zapsány v Knize letopisů králů Médie a Persie?
+[2] Všechny činy jeho moci a síly a úplná zpráva o ⟦mordecai|Mordechajově|Mordokajově⟧ velikosti, k níž ho král povýšil – nejsou snad zapsány v Knize letopisů králů ⟦media|Madaj|Médie⟧ a ⟦persia|Parasu|Persie⟧?
 
-[3] Neboť Žid Mordecai byl druhý po králi Ahasuerovi, byl veliký mezi Židy a oblíbený u množství svých bratří; hledal dobro svého lidu a mluvil o pokoji pro celé své potomstvo.
+[3] Neboť ⟦jew|Jehudi|Žid⟧ ⟦mordecai|Mordechaj|Mordokaj⟧ byl druhý po králi ⟦ahasuerus|Achašverošovi|Achašveróšovi⟧, byl veliký mezi ⟦jews|Jehudim|Židy⟧ a oblíbený u množství svých bratří; hledal dobro svého lidu a mluvil o pokoji pro celé své potomstvo.
 
 ## Změny
 

@@ -1,10 +1,10 @@
 # Jan 17
 
-[1] Když *Yeshua* domluvil tato slova, pozvedl oči k nebi a řekl: „Otče, přišla ta hodina; oslav svého Syna, aby Syn oslavil tebe,
+[1] Když ⟦yeshua|Ješua|Ježíš⟧ domluvil tato slova, pozvedl oči k nebi a řekl: „Otče, přišla ta hodina; oslav svého Syna, aby Syn oslavil tebe,
 
 [2] neboť jsi mu dal moc nade vším tělem, aby dal věčný život všem, které jsi mu dal.
 
-[3] **A toto je věčný život: aby znali tebe, jediného pravého *Elohim*, a toho, kterého jsi poslal, *Yeshuu* *Mashiacha*.**
+[3] **A toto je věčný život: aby znali tebe, jediného pravého ⟦elohim|Elohim|Boha⟧, a toho, kterého jsi poslal, ⟦yeshua|Ješuu|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧.**
 
 [4] Oslavil jsem tě na zemi tím, že jsem dokonal dílo, které jsi mi dal vykonat.
 

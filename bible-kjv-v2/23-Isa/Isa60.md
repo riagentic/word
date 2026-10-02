@@ -1,11 +1,11 @@
 # Isaiah 60
 
 [1] Arise, shine, for your light has come,
-and the glory of Yahweh has risen upon you.
+and the glory of ⟦yhwh|Yahweh|the LORD⟧ has risen upon you.
 
 [2] For behold, darkness shall cover the earth,
 and thick darkness the peoples;
-but Yahweh will arise upon you,
+but ⟦yhwh|Yahweh|the LORD⟧ will arise upon you,
 and his glory will be seen upon you.
 
 [3] And nations shall come to your light,
@@ -22,13 +22,13 @@ because the abundance of the sea shall be turned to you,
 the wealth of the nations shall come to you.
 
 [6] A multitude of camels shall cover you,
-the young camels of Midian and Ephah;
-all those from Sheba shall come.
+the young camels of ⟦midian|Midyan|Midian⟧ and ⟦ephah|Efah|Ephah⟧;
+all those from ⟦sheba|Sheva|Sheba⟧ shall come.
 They shall bring gold and frankincense,
-and shall bring good news, the praises of Yahweh.
+and shall bring good news, the praises of ⟦yhwh|Yahweh|the LORD⟧.
 
-[7] All the flocks of Kedar shall be gathered to you;
-the rams of Nebaioth shall minister to you;
+[7] All the flocks of ⟦kedar|Qedar|Kedar⟧ shall be gathered to you;
+the rams of ⟦nebaioth|Nevayot|Nebaioth⟧ shall minister to you;
 they shall come up with acceptance on my altar,
 and I will beautify my beautiful house.
 
@@ -39,8 +39,8 @@ and like doves to their windows?
 the ships of Tarshish first,
 to bring your children from afar,
 their silver and gold with them,
-for the name of Yahweh your *Elohim*,
-and for the Holy One of Israel,
+for the name of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧,
+and for the Holy One of ⟦israel|Yisrael|Israel⟧,
 because he has made you beautiful.
 
 [10] Foreigners shall build up your walls,
@@ -56,7 +56,7 @@ with their kings led in procession.
 [12] For the nation and kingdom that will not serve you shall perish;
 those nations shall be utterly laid waste.
 
-[13] The glory of Lebanon shall come to you,
+[13] The glory of ⟦lebanon|Levanon|Lebanon⟧ shall come to you,
 the cypress, the plane, and the pine,
 to beautify the place of my sanctuary,
 and I will make the place of my feet glorious.
@@ -64,8 +64,8 @@ and I will make the place of my feet glorious.
 [14] The sons of those who afflicted you
 shall come bending low to you,
 and all who despised you shall bow down at your feet;
-they shall call you the City of Yahweh,
-the Zion of the Holy One of Israel.
+they shall call you the City of ⟦yhwh|Yahweh|the LORD⟧,
+the ⟦zion|Tziyon|Zion⟧ of the Holy One of ⟦israel|Yisrael|Israel⟧.
 
 [15] Whereas you have been forsaken and hated,
 with no one passing through,
@@ -74,8 +74,8 @@ a joy from age to age.
 
 [16] You shall suck the milk of nations;
 you shall nurse at the breast of kings;
-and you shall know that I, Yahweh, am your Savior
-and your Redeemer, the Mighty One of Jacob.
+and you shall know that I, ⟦yhwh|Yahweh|the LORD⟧, am your Savior
+and your Redeemer, the Mighty One of ⟦jacob|Yaaqov|Jacob⟧.
 
 [17] Instead of bronze I will bring gold,
 and instead of iron I will bring silver;
@@ -86,18 +86,18 @@ and your taskmasters righteousness.
 
 [18] Violence shall no more be heard in your land,
 devastation or destruction within your borders;
-you shall call your walls Salvation,
-and your gates Tehillah — Praise.
+you shall call your walls ⟦yeshuah|Yeshuah|Salvation⟧,
+and your gates ⟦tehillah|Tehillah — Praise|Praise⟧.
 
 [19] The sun shall be no more
 your light by day,
 nor for brightness shall the moon give you light;
-but Yahweh will be your everlasting light,
-and your *Elohim* will be your glory.
+but ⟦yhwh|Yahweh|the LORD⟧ will be your everlasting light,
+and your ⟦elohim|Elohim|God⟧ will be your glory.
 
 [20] Your sun shall no more go down,
 nor your moon withdraw itself;
-for Yahweh will be your everlasting light,
+for ⟦yhwh|Yahweh|the LORD⟧ will be your everlasting light,
 and your days of mourning shall be ended.
 
 [21] Your people shall all be righteous;
@@ -108,7 +108,7 @@ that I might be glorified.
 
 [22] The least one shall become a clan,
 and the smallest one a mighty nation;
-I am Yahweh; in its time I will hasten it.
+I am ⟦yhwh|Yahweh|the LORD⟧; in its time I will hasten it.
 
 ## Changes
 

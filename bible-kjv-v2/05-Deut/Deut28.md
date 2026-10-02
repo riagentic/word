@@ -1,8 +1,8 @@
 # Deuteronomy 28
 
-[1] "If you will indeed listen to the voice of Yahweh your *Elohim*, being careful to do all his commandments that I am commanding you today, Yahweh your *Elohim* will set you high above all the nations of the earth.
+[1] "If you will indeed listen to the voice of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, being careful to do all his commandments that I am commanding you today, ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ will set you high above all the nations of the earth.
 
-[2] All these blessings shall come upon you and overtake you, if you listen to the voice of Yahweh your *Elohim*:
+[2] All these blessings shall come upon you and overtake you, if you listen to the voice of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧:
 
 [3] Blessed shall you be in the city, and blessed shall you be in the field.
 
@@ -12,23 +12,23 @@
 
 [6] Blessed shall you be when you come in, and blessed shall you be when you go out.
 
-[7] Yahweh shall cause your enemies who rise against you to be struck down before you; they shall come out against you one way and flee before you seven ways.
+[7] ⟦yhwh|Yahweh|The LORD⟧ shall cause your enemies who rise against you to be struck down before you; they shall come out against you one way and flee before you seven ways.
 
-[8] Yahweh shall command the blessing upon you in your barns and in all the undertaking of your hand; and he shall bless you in the land that Yahweh your *Elohim* is giving you.
+[8] ⟦yhwh|Yahweh|The LORD⟧ shall command the blessing upon you in your barns and in all the undertaking of your hand; and he shall bless you in the land that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is giving you.
 
-[9] Yahweh shall establish you as a holy people for himself, as he has sworn to you, if you keep the commandments of Yahweh your *Elohim* and walk in his ways.
+[9] ⟦yhwh|Yahweh|The LORD⟧ shall establish you as a holy people for himself, as he has sworn to you, if you keep the commandments of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ and walk in his ways.
 
-[10] All the peoples of the earth shall see that the name of Yahweh is called over you, and they shall be afraid of you.
+[10] All the peoples of the earth shall see that the name of ⟦yhwh|Yahweh|the LORD⟧ is called over you, and they shall be afraid of you.
 
-[11] Yahweh shall give you abundant prosperity — in the fruit of your womb, in the fruit of your livestock, and in the fruit of your ground — in the land that Yahweh swore to your fathers to give you.
+[11] ⟦yhwh|Yahweh|The LORD⟧ shall give you abundant prosperity — in the fruit of your womb, in the fruit of your livestock, and in the fruit of your ground — in the land that ⟦yhwh|Yahweh|the LORD⟧ swore to your fathers to give you.
 
-[12] Yahweh shall open for you his good treasury, the heavens, to give rain to your land in its season and to bless all the work of your hands. You shall lend to many nations, but you shall not borrow.
+[12] ⟦yhwh|Yahweh|The LORD⟧ shall open for you his good treasury, the heavens, to give rain to your land in its season and to bless all the work of your hands. You shall lend to many nations, but you shall not borrow.
 
-[13] Yahweh shall make you the head and not the tail, and you shall only go up and not come down — if you listen to the commandments of Yahweh your *Elohim* that I am commanding you today, being careful to do them,
+[13] ⟦yhwh|Yahweh|The LORD⟧ shall make you the head and not the tail, and you shall only go up and not come down — if you listen to the commandments of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ that I am commanding you today, being careful to do them,
 
 [14] and do not turn aside from any of the words that I am commanding you today, to the right hand or to the left, to go after other gods to serve them.
 
-[15] But if you will not listen to the voice of Yahweh your *Elohim*, being careful to do all his commandments and his statutes that I am commanding you today, all these curses shall come upon you and overtake you:
+[15] But if you will not listen to the voice of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, being careful to do all his commandments and his statutes that I am commanding you today, all these curses shall come upon you and overtake you:
 
 [16] Cursed shall you be in the city, and cursed shall you be in the field.
 
@@ -38,23 +38,23 @@
 
 [19] Cursed shall you be when you come in, and cursed shall you be when you go out.
 
-[20] Yahweh shall send on you curses, confusion, and rebuke in all that you undertake, until you are destroyed and until you perish quickly, because of the evil of your doings, in that you have forsaken me.
+[20] ⟦yhwh|Yahweh|The LORD⟧ shall send on you curses, confusion, and rebuke in all that you undertake, until you are destroyed and until you perish quickly, because of the evil of your doings, in that you have forsaken me.
 
-[21] Yahweh shall make pestilence cling to you until he has consumed you from the land that you are entering to possess.
+[21] ⟦yhwh|Yahweh|The LORD⟧ shall make pestilence cling to you until he has consumed you from the land that you are entering to possess.
 
-[22] Yahweh shall strike you with wasting disease, with fever, with inflammation, with fiery heat, with drought, with blight, and with mildew; they shall pursue you until you perish.
+[22] ⟦yhwh|Yahweh|The LORD⟧ shall strike you with wasting disease, with fever, with inflammation, with fiery heat, with drought, with blight, and with mildew; they shall pursue you until you perish.
 
 [23] The heavens over your head shall be bronze, and the earth under you iron.
 
-[24] Yahweh shall make the rain of your land powder and dust; from the heavens it shall come down upon you, until you are destroyed.
+[24] ⟦yhwh|Yahweh|The LORD⟧ shall make the rain of your land powder and dust; from the heavens it shall come down upon you, until you are destroyed.
 
-[25] Yahweh shall cause you to be struck down before your enemies. You shall go out against them one way and flee seven ways before them, and you shall become a horror to all the kingdoms of the earth.
+[25] ⟦yhwh|Yahweh|The LORD⟧ shall cause you to be struck down before your enemies. You shall go out against them one way and flee seven ways before them, and you shall become a horror to all the kingdoms of the earth.
 
 [26] Your corpse shall be food for all the birds of the sky and the animals of the earth, with no one to frighten them away.
 
-[27] Yahweh shall strike you with the boils of Egypt, with tumors, with scabs, and with itch, from which you cannot be healed.
+[27] ⟦yhwh|Yahweh|The LORD⟧ shall strike you with the boils of ⟦egypt|Mitzrayim|Egypt⟧, with tumors, with scabs, and with itch, from which you cannot be healed.
 
-[28] Yahweh shall strike you with madness, with blindness, and with confusion of mind;
+[28] ⟦yhwh|Yahweh|The LORD⟧ shall strike you with madness, with blindness, and with confusion of mind;
 
 [29] you shall grope at noonday as the blind grope in darkness, and you shall not succeed in your ways; you shall be only oppressed and robbed continually, and no one shall save you.
 
@@ -68,11 +68,11 @@
 
 [34] until you are driven mad by the sight that your eyes shall see.
 
-[35] Yahweh shall strike you on the knees and on the legs with grievous boils from which you cannot be healed, from the sole of your foot to the top of your head.
+[35] ⟦yhwh|Yahweh|The LORD⟧ shall strike you on the knees and on the legs with grievous boils from which you cannot be healed, from the sole of your foot to the top of your head.
 
-[36] Yahweh shall bring you and your king whom you set over yourself to a nation that neither you nor your fathers have known; and there you shall serve other gods of wood and stone.
+[36] ⟦yhwh|Yahweh|The LORD⟧ shall bring you and your king whom you set over yourself to a nation that neither you nor your fathers have known; and there you shall serve other gods of wood and stone.
 
-[37] You shall become a horror, a proverb, and a byword among all the peoples where Yahweh shall drive you.
+[37] You shall become a horror, a proverb, and a byword among all the peoples where ⟦yhwh|Yahweh|the LORD⟧ shall drive you.
 
 [38] You shall carry much seed out to the field, but you shall gather little in, for the locust shall consume it.
 
@@ -88,23 +88,23 @@
 
 [44] He shall lend to you, and you shall not lend to him; he shall be the head, and you shall be the tail.
 
-[45] All these curses shall come upon you and pursue you and overtake you until you are destroyed, because you did not obey the voice of Yahweh your *Elohim*, to keep his commandments and his statutes that he commanded you.
+[45] All these curses shall come upon you and pursue you and overtake you until you are destroyed, because you did not obey the voice of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, to keep his commandments and his statutes that he commanded you.
 
 [46] They shall be upon you and your offspring as a sign and a wonder forever.
 
-[47] Because you did not serve Yahweh your *Elohim* with joy and a glad heart, out of the abundance of all things,
+[47] Because you did not serve ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ with joy and a glad heart, out of the abundance of all things,
 
-[48] therefore you shall serve your enemies whom Yahweh shall send against you — in hunger and in thirst, in nakedness and in lack of everything; and he shall put an iron yoke upon your neck until he has destroyed you.
+[48] therefore you shall serve your enemies whom ⟦yhwh|Yahweh|the LORD⟧ shall send against you — in hunger and in thirst, in nakedness and in lack of everything; and he shall put an iron yoke upon your neck until he has destroyed you.
 
-[49] Yahweh shall bring a nation against you from far away, from the end of the earth, swift as the eagle flies — a nation whose tongue you do not understand,
+[49] ⟦yhwh|Yahweh|The LORD⟧ shall bring a nation against you from far away, from the end of the earth, swift as the eagle flies — a nation whose tongue you do not understand,
 
 [50] a nation of stern countenance, that shall not respect the old or show favor to the young.
 
 [51] It shall eat the offspring of your livestock and the fruit of your ground until you are destroyed; it shall not leave you grain, new wine, or oil, or the increase of your herd or the young of your flock, until it has caused you to perish.
 
-[52] It shall besiege you in all your gates until your high and fortified walls, in which you trusted, come down throughout all your land; and it shall besiege you in all your gates throughout all your land that Yahweh your *Elohim* has given you.
+[52] It shall besiege you in all your gates until your high and fortified walls, in which you trusted, come down throughout all your land; and it shall besiege you in all your gates throughout all your land that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ has given you.
 
-[53] You shall eat the fruit of your own body, the flesh of your sons and daughters whom Yahweh your *Elohim* has given you, in the siege and in the distress with which your enemies shall distress you.
+[53] You shall eat the fruit of your own body, the flesh of your sons and daughters whom ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ has given you, in the siege and in the distress with which your enemies shall distress you.
 
 [54] The most tender and delicate man among you will begrudge his brother, his beloved wife, and the remnant of his children whom he has left,
 
@@ -114,27 +114,27 @@
 
 [57] and even the afterbirth that comes out from between her feet, and her children whom she bears — she shall eat them secretly for lack of everything, in the siege and the distress with which your enemy shall distress you in your gates.
 
-[58] If you do not carefully do all the words of this Torah that are written in this book, that you may fear this glorious and fearsome name, Yahweh your *Elohim*,
+[58] If you do not carefully do all the words of this ⟦torah|Torah|law⟧ that are written in this book, that you may fear this glorious and fearsome name, ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧,
 
-[59] then Yahweh shall bring extraordinary plagues on you and on your offspring — severe and lasting plagues, and grievous and lasting sicknesses.
+[59] then ⟦yhwh|Yahweh|the LORD⟧ shall bring extraordinary plagues on you and on your offspring — severe and lasting plagues, and grievous and lasting sicknesses.
 
-[60] He shall bring upon you all the diseases of Egypt, of which you were afraid, and they shall cling to you.
+[60] He shall bring upon you all the diseases of ⟦egypt|Mitzrayim|Egypt⟧, of which you were afraid, and they shall cling to you.
 
-[61] Also every sickness and every plague not written in this book of the Torah, Yahweh shall bring upon you, until you are destroyed.
+[61] Also every sickness and every plague not written in this book of the ⟦torah|Torah|law⟧, ⟦yhwh|Yahweh|the LORD⟧ shall bring upon you, until you are destroyed.
 
-[62] You shall be left few in number, whereas you were as numerous as the stars of the heavens, because you did not obey the voice of Yahweh your *Elohim*.
+[62] You shall be left few in number, whereas you were as numerous as the stars of the heavens, because you did not obey the voice of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
-[63] Just as Yahweh rejoiced over you to do you good and to multiply you, so Yahweh shall rejoice over you to ruin you and to destroy you; you shall be plucked from the land that you are entering to possess.
+[63] Just as ⟦yhwh|Yahweh|the LORD⟧ rejoiced over you to do you good and to multiply you, so ⟦yhwh|Yahweh|the LORD⟧ shall rejoice over you to ruin you and to destroy you; you shall be plucked from the land that you are entering to possess.
 
-[64] Yahweh shall scatter you among all peoples, from one end of the earth to the other; and there you shall serve other gods, of wood and stone, whom neither you nor your fathers have known.
+[64] ⟦yhwh|Yahweh|The LORD⟧ shall scatter you among all peoples, from one end of the earth to the other; and there you shall serve other gods, of wood and stone, whom neither you nor your fathers have known.
 
-[65] Among these nations you shall find no ease, and no rest for the sole of your foot; but Yahweh shall give you there a trembling heart, failing eyes, and a despairing soul.
+[65] Among these nations you shall find no ease, and no rest for the sole of your foot; but ⟦yhwh|Yahweh|the LORD⟧ shall give you there a trembling heart, failing eyes, and a despairing soul.
 
 [66] Your life shall hang in doubt before you; you shall be in dread night and day and shall have no assurance of your life.
 
 [67] In the morning you shall say, 'If only it were evening!' And in the evening you shall say, 'If only it were morning!' because of the dread that your heart shall fear, and the sight that your eyes shall see.
 
-[68] Yahweh shall bring you back to Egypt in ships, by the way that I promised you, 'You shall never see it again'; and there you shall sell yourselves to your enemies as male and female slaves, but no one shall buy you.
+[68] ⟦yhwh|Yahweh|The LORD⟧ shall bring you back to ⟦egypt|Mitzrayim|Egypt⟧ in ships, by the way that I promised you, 'You shall never see it again'; and there you shall sell yourselves to your enemies as male and female slaves, but no one shall buy you.
 
 ## Changes
 

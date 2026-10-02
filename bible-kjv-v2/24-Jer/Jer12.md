@@ -1,6 +1,6 @@
 # Jeremiah 12
 
-[1] Righteous are you, O Yahweh,
+[1] Righteous are you, O ⟦yhwh|Yahweh|LORD⟧,
 when I complain to you;
 yet I would plead my case before you.
 Why does the way of the wicked prosper?
@@ -11,7 +11,7 @@ they grow and produce fruit;
 you are near in their mouth
 and far from their inmost being.
 
-[3] But you, O Yahweh, know me;
+[3] But you, O ⟦yhwh|Yahweh|LORD⟧, know me;
 you see me, and test my heart toward you.
 Pull them out like sheep for the slaughter,
 and set them apart for the day of slaughter.
@@ -25,7 +25,7 @@ because they said, "He will not see our latter end."
 [5] "If you have raced with men on foot, and they have wearied you,
 how will you compete with horses?
 And if in a safe land you are so trusting,
-what will you do in the jungle of the Jordan?
+what will you do in the jungle of the ⟦jordan|Yarden|Jordan⟧?
 
 [6] For even your brothers and the house of your father,
 even they have dealt treacherously with you;
@@ -60,22 +60,22 @@ but no man lays it to heart.
 
 [12] Upon all the bare heights in the desert
 destroyers have come,
-for the sword of Yahweh devours
+for the sword of ⟦yhwh|Yahweh|the LORD⟧ devours
 from one end of the land to the other;
 no flesh has peace.
 
 [13] They have sown wheat and have reaped thorns;
 they have tired themselves out but profit nothing.
 They shall be ashamed of their harvests
-because of the fierce anger of Yahweh."
+because of the fierce anger of ⟦yhwh|Yahweh|the LORD⟧."
 
-[14] Thus says Yahweh concerning all my evil neighbors who touch the heritage that I have given my people Israel to inherit: "Behold, I will pluck them up from their land, and I will pluck up the house of Judah from among them.
+[14] Thus says ⟦yhwh|Yahweh|the LORD⟧ concerning all my evil neighbors who touch the heritage that I have given my people ⟦israel|Yisrael|Israel⟧ to inherit: "Behold, I will pluck them up from their land, and I will pluck up the house of ⟦judah|Yehudah|Judah⟧ from among them.
 
 [15] And after I have plucked them up, I will again have compassion on them, and I will bring them again each to his heritage and each to his land.
 
-[16] And it shall come to pass, if they will diligently learn the ways of my people, to swear by my name, 'As Yahweh lives,' even as they taught my people to swear by Baal, then they shall be built up in the midst of my people.
+[16] And it shall come to pass, if they will diligently learn the ways of my people, to swear by my name, 'As ⟦yhwh|Yahweh|the LORD⟧ lives,' even as they taught my people to swear by Baal, then they shall be built up in the midst of my people.
 
-[17] But if any nation will not listen, then I will utterly pluck it up and destroy it, declares Yahweh."
+[17] But if any nation will not listen, then I will utterly pluck it up and destroy it, declares ⟦yhwh|Yahweh|the LORD⟧."
 
 ## Changes
 

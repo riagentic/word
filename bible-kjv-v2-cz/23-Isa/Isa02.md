@@ -1,20 +1,20 @@
 # Izajáš 2
 
-[1] Slovo, které viděl Isaiah, syn Amoze, o Judahu a Jerusalemu.
+[1] Slovo, které viděl ⟦isaiah|Ješajahu|Izajáš⟧, syn ⟦amoz|Amoce|Amóse⟧, o ⟦judah|Jehudě|Judě⟧ a ⟦jerusalem|Jerušalajim|Jeruzalému⟧.
 
 [2] Stane se v posledních dnech,
-že hora domu Yahweh
+že hora domu ⟦yhwh|Jahveho|Hospodina⟧
 bude upevněna jako nejvyšší z hor
 a bude vyvýšena nad pahorky;
 a všechny národy k ní budou proudit
 
 [3] a mnohé lidy půjdou a řeknou:
-„Pojďte, vystupme na horu Yahweh,
-do domu *Elohim* Jacoba,
+„Pojďte, vystupme na horu ⟦yhwh|Jahveho|Hospodina⟧,
+do domu ⟦elohim|Elohim|Boha⟧ ⟦jacob|Jaakova|Jákoba⟧,
 aby nás učil svým cestám
 a abychom chodili po jeho stezkách.“
-Neboť ze Zionu vyjde Zákon
-a slovo Yahweh z Jerusalema.
+Neboť ze ⟦zion|Cijonu|Sijónu⟧ vyjde ⟦torah|Tóra|zákon⟧
+a slovo ⟦yhwh|Jahveho|Hospodina⟧ z ⟦jerusalem|Jerušalajim|Jeruzaléma⟧.
 
 [4] Bude soudit mezi národy
 a rozhodovat spory mnoha lidů;
@@ -23,10 +23,10 @@ a svá kopí na vinařské nože;
 národ nepozdvihne meč proti národu
 a už se nebudou učit válce.
 
-[5] Dome Jacobův,
-pojďte, choďme ve světle Yahweh.
+[5] Dome ⟦jacob|Jaakovův|Jákobův⟧,
+pojďte, choďme ve světle ⟦yhwh|Jahveho|Hospodina⟧.
 
-[6] Neboť jsi zavrhl svůj lid, dům Jacobův, protože jsou plni věcí z východu a věštců jako Philistinci a plácají si rukou se syny cizinců.
+[6] Neboť jsi zavrhl svůj lid, dům ⟦jacob|Jaakovův|Jákobův⟧, protože jsou plni věcí z východu a věštců jako ⟦philistines|Pelištim|Pelištejci⟧ a plácají si rukou se syny cizinců.
 
 [7] Jejich země je plná stříbra a zlata a jejich pokladům není konce; jejich země je plná koní a jejich vozům není konce.
 
@@ -36,19 +36,19 @@ pojďte, choďme ve světle Yahweh.
 
 [10] Vejdi do skály
 a skryj se v prachu
-před hrůzou Yahweh
+před hrůzou ⟦yhwh|Jahveho|Hospodina⟧
 a před leskem jeho velebnosti.
 
 [11] Povýšené pohledy člověka budou sraženy
 a vznešená pýcha lidí bude pokořena
-a jen Yahweh bude vyvýšen v onen den.
+a jen ⟦yhwh|Jahve|Hospodin⟧ bude vyvýšen v onen den.
 
-[12] Neboť Yahweh zástupů má den
+[12] Neboť ⟦yhwh|Jahve|Hospodin⟧ zástupů má den
 proti všemu pyšnému a vznešenému,
 proti všemu, co je vyvýšené – a bude to sraženo –,
 
-[13] proti všem cedrům Lebanonu, vznešeným a vyvýšeným,
-a proti všem dubům Bashanu;
+[13] proti všem cedrům ⟦lebanon|Levanonu|Libanónu⟧, vznešeným a vyvýšeným,
+a proti všem dubům ⟦bashan|Bašanu|Bášanu⟧;
 
 [14] proti všem vznešeným horám
 a proti všem vyvýšeným pahorkům;
@@ -56,18 +56,18 @@ a proti všem vyvýšeným pahorkům;
 [15] proti každé vysoké věži
 a proti každé opevněné hradbě;
 
-[16] proti všem lodím Tarshishe
+[16] proti všem lodím ⟦tarshish|Taršiše|Taršíše⟧
 a proti všem krásným plavidlům.
 
 [17] A povýšenost člověka bude pokořena
 a vznešená pýcha lidí bude sražena
-a jen Yahweh bude vyvýšen v onen den.
+a jen ⟦yhwh|Jahve|Hospodin⟧ bude vyvýšen v onen den.
 
 [18] A modly úplně pominou.
 
 [19] A lidé vejdou do skalních jeskyní
 a do děr v zemi
-před hrůzou Yahweh
+před hrůzou ⟦yhwh|Jahveho|Hospodina⟧
 a před leskem jeho velebnosti,
 až povstane, aby zděsil zemi.
 
@@ -78,7 +78,7 @@ krtkům a netopýrům,
 
 [21] aby vešli do skalních slují
 a do rozsedlin útesů
-před hrůzou Yahweh
+před hrůzou ⟦yhwh|Jahveho|Hospodina⟧
 a před leskem jeho velebnosti,
 až povstane, aby zděsil zemi.
 

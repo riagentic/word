@@ -9,7 +9,7 @@ you will be destroyed;
 and when you have finished betraying,
 they will betray you.
 
-[2] O Yahweh, be gracious to us; we wait for you.
+[2] O ⟦yhwh|Yahweh|LORD⟧, be gracious to us; we wait for you.
 Be our arm every morning,
 our salvation in the time of trouble.
 
@@ -19,12 +19,12 @@ when you lift yourself up, nations are scattered,
 [4] and your spoil is gathered as the caterpillar gathers;
 as locusts leap, it is leaped upon.
 
-[5] Yahweh is exalted, for he dwells on high;
-he fills Zion with justice and righteousness,
+[5] ⟦yhwh|Yahweh|The LORD⟧ is exalted, for he dwells on high;
+he fills ⟦zion|Tziyon|Zion⟧ with justice and righteousness,
 
 [6] and he will be the stability of your times,
 abundance of salvation, wisdom, and knowledge;
-the fear of Yahweh is Zion's treasure.
+the fear of ⟦yhwh|Yahweh|the LORD⟧ is ⟦zion|Tziyon's|Zion's⟧ treasure.
 
 [7] Behold, their heroes cry in the streets;
 the envoys of peace weep bitterly.
@@ -36,11 +36,11 @@ cities are despised;
 there is no regard for man.
 
 [9] The land mourns and languishes;
-Lebanon is confounded and withers away;
+⟦lebanon|Levanon|Lebanon⟧ is confounded and withers away;
 Sharon is like a desert,
-and Bashan and Carmel shake off their leaves.
+and Bashan and ⟦carmel|Karmel|Carmel⟧ shake off their leaves.
 
-[10] "Now I will arise," says Yahweh,
+[10] "Now I will arise," says ⟦yhwh|Yahweh|the LORD⟧,
 "now I will lift myself up;
 now I will be exalted.
 
@@ -53,7 +53,7 @@ like thorns cut down, that are burned in the fire.
 [13] Hear, you who are far off, what I have done;
 and you who are near, acknowledge my might."
 
-[14] The sinners in Zion are afraid;
+[14] The sinners in ⟦zion|Tziyon|Zion⟧ are afraid;
 trembling has seized the godless:
 "Who among us can dwell with the consuming fire?
 Who among us can dwell with everlasting burnings?"
@@ -80,21 +80,21 @@ Where is he who counted the towers?"
 the people of an obscure speech that you cannot comprehend,
 stammering in a tongue that you cannot understand.
 
-[20] Behold Zion, the city of our appointed feasts!
-Your eyes will see Jerusalem,
+[20] Behold ⟦zion|Tziyon|Zion⟧, the city of our appointed feasts!
+Your eyes will see ⟦jerusalem|Yerushalayim|Jerusalem⟧,
 an untroubled habitation,
 an immovable tent,
 whose stakes will never be plucked up,
 nor will any of its cords be broken.
 
-[21] But there Yahweh in majesty will be for us
+[21] But there ⟦yhwh|Yahweh|the LORD⟧ in majesty will be for us
 a place of broad rivers and streams,
 where no galley with oars can go,
 nor majestic ship can pass.
 
-[22] For Yahweh is our judge;
-Yahweh is our lawgiver;
-Yahweh is our king;
+[22] For ⟦yhwh|Yahweh|the LORD⟧ is our judge;
+⟦yhwh|Yahweh|the LORD⟧ is our lawgiver;
+⟦yhwh|Yahweh|the LORD⟧ is our king;
 he will save us.
 
 [23] Your cords hang loose;

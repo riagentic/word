@@ -1,36 +1,36 @@
 # Exodus 17
 
-[1] Celá pospolitost synů Israele táhla z pouště Sin dál po etapách, na rozkaz Yahweh, a utábořila se v Rephidim; ale nebyla tam voda, kterou by lid mohl pít.
+[1] Celá pospolitost synů ⟦israel|Jisraele|Izraele⟧ táhla z pouště ⟦sin|Sin|Sín⟧ dál po etapách, na rozkaz ⟦yhwh|Jahveho|Hospodina⟧, a utábořila se v ⟦rephidim|Refidim|Refídimu⟧; ale nebyla tam voda, kterou by lid mohl pít.
 
-[2] Lid se tedy přel s Mosesem a řekl: „Dej nám vodu k pití.“ Moses jim řekl: „Proč se se mnou přete? Proč zkoušíte Yahweh?“
+[2] Lid se tedy přel s ⟦moses|Mošem|Mojžíšem⟧ a řekl: „Dej nám vodu k pití.“ ⟦moses|Moše|Mojžíš⟧ jim řekl: „Proč se se mnou přete? Proč zkoušíte ⟦yhwh|Jahveho|Hospodina⟧?“
 
-[3] Ale lid tam žíznil po vodě a lid reptal proti Mosesovi a říkal: „Proč jsi nás vlastně vyvedl z Egypta – abys nás, naše děti i náš dobytek umořil žízní?“
+[3] Ale lid tam žíznil po vodě a lid reptal proti ⟦moses|Mošovi|Mojžíšovi⟧ a říkal: „Proč jsi nás vlastně vyvedl z ⟦egypt|Micrajim|Egypta⟧ – abys nás, naše děti i náš dobytek umořil žízní?“
 
-[4] Moses volal k Yahweh: „Co si mám s tímto lidem počít? Už už mě ukamenují.“
+[4] ⟦moses|Moše|Mojžíš⟧ volal k ⟦yhwh|Jahvovi|Hospodinu⟧: „Co si mám s tímto lidem počít? Už už mě ukamenují.“
 
-[5] Yahweh řekl Mosesovi: „Jdi před lidem a vezmi s sebou některé ze starších Israele; a svou hůl, kterou jsi udeřil do Nilu, vezmi do ruky a jdi.
+[5] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Jdi před lidem a vezmi s sebou některé ze starších ⟦israel|Jisraele|Izraele⟧; a svou hůl, kterou jsi udeřil do ⟦nile|Jeoru|Nilu⟧, vezmi do ruky a jdi.
 
-[6] Hle, já budu stát tam před tebou na skále na Horebu; udeříš do skály a vyteče z ní voda a lid se napije.“ Moses tak učinil před očima starších Israele.
+[6] Hle, já budu stát tam před tebou na skále na ⟦horeb|Chorevu|Chorébu⟧; udeříš do skály a vyteče z ní voda a lid se napije.“ ⟦moses|Moše|Mojžíš⟧ tak učinil před očima starších ⟦israel|Jisraele|Izraele⟧.
 
-[7] Nazval to místo Massah (zkouška) a Meribah (svár) kvůli sváru synů Israele a proto, že zkoušeli Yahweh, když říkali: „Je Yahweh uprostřed nás, či ne?“
+[7] Nazval to místo ⟦massah|Massa|Masa⟧ (zkouška) a ⟦meribah|Meriva|Meriba⟧ (svár) kvůli sváru synů ⟦israel|Jisraele|Izraele⟧ a proto, že zkoušeli ⟦yhwh|Jahveho|Hospodina⟧, když říkali: „Je ⟦yhwh|Jahve|Hospodin⟧ uprostřed nás, či ne?“
 
-[8] Tu přišel Amalek a bojoval s Israelem v Rephidim.
+[8] Tu přišel ⟦amalek|Amalek|Amálek⟧ a bojoval s ⟦israel|Jisraelem|Izraelem⟧ v ⟦rephidim|Refidim|Refídimu⟧.
 
-[9] Moses řekl Joshuovi: „Vyber nám muže a vytáhni, bojuj s Amalekem. Zítra budu stát na vrcholu pahorku s holí *Elohim* v ruce.“
+[9] ⟦moses|Moše|Mojžíš⟧ řekl ⟦joshua|Jehošuovi|Jozuovi⟧: „Vyber nám muže a vytáhni, bojuj s ⟦amalek|Amalekem|Amálekem⟧. Zítra budu stát na vrcholu pahorku s holí ⟦elohim|Elohim|Boží⟧ v ruce.“
 
-[10] Joshua učinil, jak mu Moses řekl, a bojoval s Amalekem; a Moses, Aaron a Hur vystoupili na vrchol pahorku.
+[10] ⟦joshua|Jehošua|Jozue⟧ učinil, jak mu ⟦moses|Moše|Mojžíš⟧ řekl, a bojoval s ⟦amalek|Amalekem|Amálekem⟧; a ⟦moses|Moše|Mojžíš⟧, ⟦aaron|Aharon|Áron⟧ a ⟦hur|Chur|Chúr⟧ vystoupili na vrchol pahorku.
 
-[11] Kdykoli Moses držel ruku vzhůru, vítězil Israel; a kdykoli ruku spustil, vítězil Amalek.
+[11] Kdykoli ⟦moses|Moše|Mojžíš⟧ držel ruku vzhůru, vítězil ⟦israel|Jisrael|Izrael⟧; a kdykoli ruku spustil, vítězil ⟦amalek|Amalek|Amálek⟧.
 
-[12] Ale Mosesovi ztěžkly ruce, vzali tedy kámen a podložili mu ho a on se na něj posadil; a Aaron a Hur mu podpírali ruce, jeden z jedné strany a druhý z druhé. Tak jeho ruce vydržely pevné až do západu slunce.
+[12] Ale ⟦moses|Mošovi|Mojžíšovi⟧ ztěžkly ruce, vzali tedy kámen a podložili mu ho a on se na něj posadil; a ⟦aaron|Aharon|Áron⟧ a ⟦hur|Chur|Chúr⟧ mu podpírali ruce, jeden z jedné strany a druhý z druhé. Tak jeho ruce vydržely pevné až do západu slunce.
 
-[13] A Joshua porazil Amaleka i jeho lid ostřím meče.
+[13] A ⟦joshua|Jehošua|Jozue⟧ porazil ⟦amalek|Amaleka|Amáleka⟧ i jeho lid ostřím meče.
 
-[14] Yahweh řekl Mosesovi: „Zapiš to na památku do svitku a přednes to do uší Joshuy: Naprosto vyhladím památku Amaleka zpod nebes.“
+[14] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Zapiš to na památku do svitku a přednes to do uší ⟦joshua|Jehošuy|Jozua⟧: Naprosto vyhladím památku ⟦amalek|Amaleka|Amáleka⟧ zpod nebes.“
 
-[15] A Moses postavil oltář a nazval ho Yahweh-Nissi (Yahweh je můj prapor);
+[15] A ⟦moses|Moše|Mojžíš⟧ postavil oltář a nazval ho ⟦yhwh-nissi|Jahve-Nissi (Jahve je můj prapor)|Hospodin je má korouhev⟧;
 
-[16] neboť řekl: „Protože se zvedla ruka proti trůnu Yah, bude Yahweh válčit s Amalekem od pokolení do pokolení.“
+[16] neboť řekl: „Protože se zvedla ruka proti trůnu ⟦yah|Jah|Hospodina⟧, bude ⟦yhwh|Jahve|Hospodin⟧ válčit s ⟦amalek|Amalekem|Amálekem⟧ od pokolení do pokolení.“
 
 ## Změny
 

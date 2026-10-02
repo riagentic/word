@@ -1,72 +1,72 @@
 # Genesis 21
 
-[1] Yahweh visited Sarah as he had said, and Yahweh did for Sarah as he had spoken.
+[1] ⟦yhwh|Yahweh|The LORD⟧ visited Sarah as he had said, and ⟦yhwh|Yahweh|the LORD⟧ did for Sarah as he had spoken.
 
-[2] Sarah conceived and bore Abraham a son in his old age, at the appointed time of which *Elohim* had spoken to him.
+[2] Sarah conceived and bore ⟦abraham|Avraham|Abraham⟧ a son in his old age, at the appointed time of which ⟦elohim|Elohim|God⟧ had spoken to him.
 
-[3] Abraham called the name of the son who was born to him, whom Sarah bore to him, Isaac.
+[3] ⟦abraham|Avraham|Abraham⟧ called the name of the son who was born to him, whom Sarah bore to him, ⟦isaac|Yitzchaq|Isaac⟧.
 
-[4] And Abraham circumcised his son Isaac when he was eight days old, as *Elohim* had commanded him.
+[4] And ⟦abraham|Avraham|Abraham⟧ circumcised his son ⟦isaac|Yitzchaq|Isaac⟧ when he was eight days old, as ⟦elohim|Elohim|God⟧ had commanded him.
 
-[5] Abraham was 100 years old when his son Isaac was born to him.
+[5] ⟦abraham|Avraham|Abraham⟧ was 100 years old when his son ⟦isaac|Yitzchaq|Isaac⟧ was born to him.
 
-[6] Sarah said, "*Elohim* has made laughter for me; everyone who hears will laugh with me."
+[6] Sarah said, "⟦elohim|Elohim|God⟧ has made laughter for me; everyone who hears will laugh with me."
 
-[7] And she said, "Who would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age."
+[7] And she said, "Who would have said to ⟦abraham|Avraham|Abraham⟧ that Sarah would nurse children? Yet I have borne him a son in his old age."
 
-[8] The child grew and was weaned; and Abraham made a great feast on the day that Isaac was weaned.
+[8] The child grew and was weaned; and ⟦abraham|Avraham|Abraham⟧ made a great feast on the day that ⟦isaac|Yitzchaq|Isaac⟧ was weaned.
 
-[9] But Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham, laughing.
+[9] But Sarah saw the son of Hagar the ⟦egyptian|Mitzri|Egyptian⟧, whom she had borne to ⟦abraham|Avraham|Abraham⟧, laughing.
 
-[10] So she said to Abraham, "Drive out this slave-girl and her son, for the son of this slave-girl shall not inherit with my son, with Isaac."
+[10] So she said to ⟦abraham|Avraham|Abraham⟧, "Drive out this slave-girl and her son, for the son of this slave-girl shall not inherit with my son, with ⟦isaac|Yitzchaq|Isaac⟧."
 
-[11] The matter was very grievous in Abraham's sight on account of his son.
+[11] The matter was very grievous in ⟦abraham|Avraham's|Abraham's⟧ sight on account of his son.
 
-[12] But *Elohim* said to Abraham, "Let it not be grievous in your sight because of the boy and your slave-girl. In all that Sarah says to you, listen to her voice, for through Isaac shall your offspring be named.
+[12] But ⟦elohim|Elohim|God⟧ said to ⟦abraham|Avraham|Abraham⟧, "Let it not be grievous in your sight because of the boy and your slave-girl. In all that Sarah says to you, listen to her voice, for through ⟦isaac|Yitzchaq|Isaac⟧ shall your offspring be named.
 
 [13] And of the son of the slave-girl also I will make a nation, for he is your offspring."
 
-[14] So Abraham rose early in the morning, took bread and a skin of water and gave them to Hagar, putting them on her shoulder, along with the boy, and sent her away. She went and wandered in the wilderness of Beersheba.
+[14] So ⟦abraham|Avraham|Abraham⟧ rose early in the morning, took bread and a skin of water and gave them to Hagar, putting them on her shoulder, along with the boy, and sent her away. She went and wandered in the wilderness of ⟦beersheba|Beer Sheva|Beersheba⟧.
 
 [15] When the water in the skin was used up, she cast the child under one of the shrubs.
 
 [16] Then she went and sat down over against him, about a bowshot away, for she said, "Let me not look on the death of the child." And as she sat over against him, she lifted up her voice and wept.
 
-[17] *Elohim* heard the voice of the boy, and the messenger of *Elohim* called to Hagar from the heavens and said to her, "What ails you, Hagar? Do not be afraid, for *Elohim* has heard the voice of the boy where he is.
+[17] ⟦elohim|Elohim|God⟧ heard the voice of the boy, and the messenger of ⟦elohim|Elohim|God⟧ called to Hagar from the heavens and said to her, "What ails you, Hagar? Do not be afraid, for ⟦elohim|Elohim|God⟧ has heard the voice of the boy where he is.
 
 [18] Arise, lift up the boy and hold him fast with your hand, for I will make him a great nation."
 
-[19] Then *Elohim* opened her eyes, and she saw a well of water. She went and filled the skin with water and gave the boy a drink.
+[19] Then ⟦elohim|Elohim|God⟧ opened her eyes, and she saw a well of water. She went and filled the skin with water and gave the boy a drink.
 
-[20] *Elohim* was with the boy, and he grew up. He lived in the wilderness and became an archer.
+[20] ⟦elohim|Elohim|God⟧ was with the boy, and he grew up. He lived in the wilderness and became an archer.
 
-[21] He lived in the wilderness of Paran; and his mother took a wife for him from the land of Egypt.
+[21] He lived in the wilderness of Paran; and his mother took a wife for him from the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
-[22] At that time Abimelech and Phicol the commander of his army spoke to Abraham, saying, "*Elohim* is with you in all that you do.
+[22] At that time ⟦abimelech|Avimelech|Abimelech⟧ and ⟦phicol|Pichol|Phicol⟧ the commander of his army spoke to ⟦abraham|Avraham|Abraham⟧, saying, "⟦elohim|Elohim|God⟧ is with you in all that you do.
 
-[23] Now therefore swear to me here by *Elohim* that you will not deal falsely with me or with my posterity or with my descendants, but that according to the loyalty I have shown you, you will show to me and to the land in which you have sojourned."
+[23] Now therefore swear to me here by ⟦elohim|Elohim|God⟧ that you will not deal falsely with me or with my posterity or with my descendants, but that according to the loyalty I have shown you, you will show to me and to the land in which you have sojourned."
 
-[24] Abraham said, "I will swear."
+[24] ⟦abraham|Avraham|Abraham⟧ said, "I will swear."
 
-[25] But Abraham complained to Abimelech about a well of water that Abimelech's servants had seized.
+[25] But ⟦abraham|Avraham|Abraham⟧ complained to ⟦abimelech|Avimelech|Abimelech⟧ about a well of water that ⟦abimelech|Avimelech's|Abimelech's⟧ servants had seized.
 
-[26] Abimelech said, "I do not know who has done this thing; you did not tell me, and I have not heard of it until today."
+[26] ⟦abimelech|Avimelech|Abimelech⟧ said, "I do not know who has done this thing; you did not tell me, and I have not heard of it until today."
 
-[27] Abraham took sheep and cattle and gave them to Abimelech, and the two of them made a covenant.
+[27] ⟦abraham|Avraham|Abraham⟧ took sheep and cattle and gave them to ⟦abimelech|Avimelech|Abimelech⟧, and the two of them made a covenant.
 
-[28] Abraham set seven ewe lambs of the flock apart by themselves.
+[28] ⟦abraham|Avraham|Abraham⟧ set seven ewe lambs of the flock apart by themselves.
 
-[29] Abimelech said to Abraham, "What is the meaning of these seven ewe lambs that you have set apart?"
+[29] ⟦abimelech|Avimelech|Abimelech⟧ said to ⟦abraham|Avraham|Abraham⟧, "What is the meaning of these seven ewe lambs that you have set apart?"
 
 [30] He said, "These seven ewe lambs you shall take from my hand, so that they may be a witness for me that I dug this well."
 
-[31] Therefore that place was called Beersheba ("well of the oath" / "well of seven"), because there the two of them swore an oath.
+[31] Therefore that place was called ⟦beersheba|Beer Sheva|Beersheba⟧ ("well of the oath" / "well of seven"), because there the two of them swore an oath.
 
-[32] Thus they made a covenant at Beersheba. Abimelech and Phicol the commander of his army rose up and returned to the land of the Philistines.
+[32] Thus they made a covenant at ⟦beersheba|Beer Sheva|Beersheba⟧. ⟦abimelech|Avimelech|Abimelech⟧ and ⟦phicol|Pichol|Phicol⟧ the commander of his army rose up and returned to the land of the ⟦philistines|Pelishtim|Philistines⟧.
 
-[33] Abraham planted a tamarisk tree in Beersheba, and there he called on the name of Yahweh, the everlasting *Elohim*.
+[33] ⟦abraham|Avraham|Abraham⟧ planted a tamarisk tree in ⟦beersheba|Beer Sheva|Beersheba⟧, and there he called on the name of ⟦yhwh|Yahweh|the LORD⟧, the everlasting ⟦el|El|God⟧.
 
-[34] And Abraham sojourned in the land of the Philistines many days.
+[34] And ⟦abraham|Avraham|Abraham⟧ sojourned in the land of the ⟦philistines|Pelishtim|Philistines⟧ many days.
 
 ## Changes
 
@@ -84,7 +84,7 @@
 - **"angel of God" → "messenger of *Elohim*"** (v17) — as elsewhere.
 - **"What aileth thee" → "What ails you"** (v17) — modernized spelling.
 - **"grove" → "tamarisk tree"** (v33) — Hebrew אֵשֶׁל *eshel*. Specific tree species (*Tamarix*), a low-water desert tree. KJV "grove" via LXX and Vulgate misses the specific botany and confuses with Asherah-pole groves (which would be pagan cult). Corrected.
-- **"the everlasting God" → "the everlasting *Elohim*"** (v33) — Hebrew אֵל עוֹלָם *El Olam*. Another El-compound divine name, like El Elyon (14), El Shaddai (17), El Roi (16). Rendered as English per standard *Elohim* convention.
+- **"the everlasting God" → "the everlasting El"** (v33) — Hebrew אֵל עוֹלָם *El Olam*. Another El-compound divine name, like El Elyon (14), El Shaddai (17), El Roi (16). *El* kept as Hebrew, the epithet translated.
 - **"kindness" → "loyalty"** (v23) — Hebrew חֶסֶד *chesed*, as elsewhere.
 - **"son, nor with my son's son" → "posterity or descendants"** (v23) — Hebrew וּלְנִינִי וּלְנֶכְדִּי *u-le-nini u-le-nekhdi* = my offspring and my grandchildren. Modernized into abstract equivalent.
 - **"the Philistines" (v32, 34)** — anachronism: Philistines as an organized people in this region are attested only from the 12th century BCE onwards (Iron Age), centuries after Abraham. Likely a later editorial update for readers familiar with the current regional politics, or a broader use of "Philistine" for coastal Aegean-origin peoples of the 2nd millennium.

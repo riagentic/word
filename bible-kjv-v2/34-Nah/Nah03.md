@@ -19,7 +19,7 @@ graceful and of deadly charms,
 who betrays nations with her whorings,
 and peoples with her charms.
 
-[5] Behold, I am against you, declares Yahweh of Hosts,
+[5] Behold, I am against you, declares ⟦yhwh|Yahweh|the LORD⟧ of Hosts,
 and will lift up your skirts over your face;
 and I will make nations look at your nakedness
 and kingdoms at your shame.
@@ -29,17 +29,17 @@ and treat you with contempt
 and make you a spectacle.
 
 [7] And all who look at you will shrink from you and say,
-"Wasted is Nineveh; who will grieve for her?"
+"Wasted is ⟦nineveh|Ninveh|Nineveh⟧; who will grieve for her?"
 Where shall I seek comforters for you?
 
-[8] Are you better than Thebes
-that sat by the Nile,
+[8] Are you better than ⟦thebes|No-Amon|Thebes⟧
+that sat by the ⟦nile|Yeor|Nile⟧,
 with water around her,
 her rampart a sea,
 and water her wall?
 
-[9] Cush was her strength; Egypt too, and that without limit;
-Put and the Libyans were her helpers.
+[9] ⟦cush|Kush|Cush⟧ was her strength; ⟦egypt|Mitzrayim|Egypt⟧ too, and that without limit;
+Put and the ⟦libyans|Luvim|Libyans⟧ were her helpers.
 
 [10] Yet she became an exile;
 she went into captivity;
@@ -85,7 +85,7 @@ when the sun rises, they fly away;
 no one knows where they are.
 
 [18] Your shepherds are asleep,
-O king of Assyria;
+O king of ⟦assyria|Ashur|Assyria⟧;
 your nobles slumber.
 Your people are scattered on the mountains
 with none to gather them.

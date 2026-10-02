@@ -1,8 +1,8 @@
 # Deuteronomium 14
 
-[1] „Jste synové Yahweh, svého *Elohim*. Nebudete se pořezávat ani si kvůli mrtvému vyholovat lysinu mezi očima.
+[1] „Jste synové ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧. Nebudete se pořezávat ani si kvůli mrtvému vyholovat lysinu mezi očima.
 
-[2] Neboť ty jsi lid svatý Yahweh, svému *Elohim*, a Yahweh si tě vyvolil, abys mu byl drahocenným lidem, nade všechny národy, které jsou na povrchu země.
+[2] Neboť ty jsi lid svatý ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧, a ⟦yhwh|Jahve|Hospodin⟧ si tě vyvolil, abys mu byl drahocenným lidem, nade všechny národy, které jsou na povrchu země.
 
 [3] Nebudeš jíst nic ohavného.
 
@@ -40,23 +40,23 @@
 
 [20] Všechny čisté okřídlence smíte jíst.
 
-[21] Nebudete jíst nic, co pošlo samo. Můžeš to dát cizinci, který je ve tvých branách, aby to jedl; nebo to můžeš prodat cizinci; neboť ty jsi lid svatý Yahweh, svému *Elohim*. Nebudeš vařit kůzle v mléce jeho matky.
+[21] Nebudete jíst nic, co pošlo samo. Můžeš to dát cizinci, který je ve tvých branách, aby to jedl; nebo to můžeš prodat cizinci; neboť ty jsi lid svatý ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧. Nebudeš vařit kůzle v mléce jeho matky.
 
 [22] Budeš odvádět desátek z veškeré úrody svého semene, která vzejde z pole rok co rok.
 
-[23] Budeš jíst před Yahweh, svým *Elohim*, na místě, které vyvolí, aby tam dal přebývat svému jménu, desátek ze svého obilí, svého nového vína a svého oleje a prvorozené ze svého skotu a svého stáda, aby ses naučil bát se Yahweh, svého *Elohim*, po všechny dny.
+[23] Budeš jíst před ⟦yhwh|Jahvem|Hospodinem⟧, svým ⟦elohim|Elohim|Bohem⟧, na místě, které vyvolí, aby tam dal přebývat svému jménu, desátek ze svého obilí, svého nového vína a svého oleje a prvorozené ze svého skotu a svého stáda, aby ses naučil bát se ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, po všechny dny.
 
-[24] Je-li pro tebe cesta příliš dlouhá, takže to nemůžeš donést, je-li od tebe příliš daleko místo, které Yahweh, tvůj *Elohim*, vyvolí, aby tam umístil své jméno, až ti Yahweh, tvůj *Elohim*, požehná,
+[24] Je-li pro tebe cesta příliš dlouhá, takže to nemůžeš donést, je-li od tebe příliš daleko místo, které ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, vyvolí, aby tam umístil své jméno, až ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, požehná,
 
-[25] pak to proměníš v peníze, peníze si svážeš do ruky a půjdeš na místo, které Yahweh, tvůj *Elohim*, vyvolí;
+[25] pak to proměníš v peníze, peníze si svážeš do ruky a půjdeš na místo, které ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, vyvolí;
 
-[26] a peníze vydáš za cokoli, po čem tvá duše touží – za skot, za ovce, za víno, za opojný nápoj, za cokoli, po čem tvá duše touží; a budeš tam jíst před Yahweh, svým *Elohim*, a budeš se radovat – ty i tvá domácnost,
+[26] a peníze vydáš za cokoli, po čem tvá duše touží – za skot, za ovce, za víno, za opojný nápoj, za cokoli, po čem tvá duše touží; a budeš tam jíst před ⟦yhwh|Jahvem|Hospodinem⟧, svým ⟦elohim|Elohim|Bohem⟧, a budeš se radovat – ty i tvá domácnost,
 
-[27] i Levita, který je ve tvých branách; neopustíš ho, neboť nemá podíl ani dědictví s tebou.
+[27] i ⟦levites|Levi|lévijec⟧, který je ve tvých branách; neopustíš ho, neboť nemá podíl ani dědictví s tebou.
 
 [28] Na konci každých tří let vyneseš všechen desátek ze své úrody toho roku a uložíš jej ve svých branách;
 
-[29] a přijde Levita, protože nemá podíl ani dědictví s tebou, i cizinec, sirotek a vdova, kteří jsou ve tvých branách, a budou jíst a nasytí se, aby ti Yahweh, tvůj *Elohim*, požehnal v každém díle tvé ruky, které konáš.
+[29] a přijde ⟦levites|Levi|lévijec⟧, protože nemá podíl ani dědictví s tebou, i cizinec, sirotek a vdova, kteří jsou ve tvých branách, a budou jíst a nasytí se, aby ti ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, požehnal v každém díle tvé ruky, které konáš.
 
 ## Změny
 

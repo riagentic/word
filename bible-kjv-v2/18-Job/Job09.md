@@ -1,9 +1,9 @@
 # Job 9
 
-[1] Then Job answered and said:
+[1] Then ⟦job|Iyov|Job⟧ answered and said:
 
 [2] "Truly I know that it is so;
-but how can man be righteous before *Elohim*?
+but how can man be righteous before ⟦el|El|God⟧?
 
 [3] If one wanted to dispute with him,
 he could not answer him one in a thousand.
@@ -23,7 +23,7 @@ he seals up the stars.
 [8] He alone stretches out the heavens
 and treads upon the waves of the sea.
 
-[9] He made the Ash, Orion, and Kimah — the Bear, Orion, and the Pleiades —
+[9] He made ⟦bear|the Ash|the Bear⟧, ⟦orion|Kesil|Orion⟧, and ⟦pleiades|Kimah — the Bear, Orion, and the Pleiades —|the Pleiades⟧
 and the chambers of the south.
 
 [10] He does great things beyond searching,
@@ -35,8 +35,8 @@ he moves on, but I do not perceive him.
 [12] Behold, he snatches away; who can turn him back?
 Who will say to him, 'What are you doing?'
 
-[13] Eloah does not turn back his anger;
-beneath him the helpers of Rahab — the sea-monster — stoop.
+[13] ⟦eloah|Eloah|God⟧ does not turn back his anger;
+beneath him the helpers of ⟦rahab-monster|Rahav — the sea-monster —|Rahab⟧ stoop.
 
 [14] How then can I answer him,
 choose my words to argue with him?
@@ -107,6 +107,7 @@ for it is not so with me in myself."
 
 ## Changes
 
+- **"God" → "El"** (v2) — Hebrew אֵל *El*, not *Elohim*.
 - **"post" → "courier"** (v25) — *ratz*.
 - **"swift ships" → "reed boats"** (v26) — *oniyyot evek*; papyrus skiffs.
 

@@ -1,22 +1,22 @@
 # Genesis 4
 
-[1] The human knew Eve his wife, and she conceived and bore Cain. She said, "I have acquired a man with Yahweh."
+[1] The human knew ⟦eve|Chavvah|Eve⟧ his wife, and she conceived and bore ⟦cain|Qayin|Cain⟧. She said, "I have acquired a man with ⟦yhwh|Yahweh|the LORD⟧."
 
-[2] She bore again — his brother Abel. Abel was a shepherd of flocks, and Cain was a worker of the ground.
+[2] She bore again — his brother ⟦abel|Hevel|Abel⟧. ⟦abel|Hevel|Abel⟧ was a shepherd of flocks, and ⟦cain|Qayin|Cain⟧ was a worker of the ground.
 
-[3] In the course of time, Cain brought some of the fruit of the ground as an offering to Yahweh.
+[3] In the course of time, ⟦cain|Qayin|Cain⟧ brought some of the fruit of the ground as an offering to ⟦yhwh|Yahweh|the LORD⟧.
 
-[4] Abel, for his part, brought some of the firstborn of his flock and of their fat portions. And Yahweh looked with favor on Abel and his offering,
+[4] ⟦abel|Hevel|Abel⟧, for his part, brought some of the firstborn of his flock and of their fat portions. And ⟦yhwh|Yahweh|the LORD⟧ looked with favor on ⟦abel|Hevel|Abel⟧ and his offering,
 
-[5] but on Cain and his offering he did not look with favor. Cain became very angry, and his face fell.
+[5] but on ⟦cain|Qayin|Cain⟧ and his offering he did not look with favor. ⟦cain|Qayin|Cain⟧ became very angry, and his face fell.
 
-[6] Yahweh said to Cain, "Why are you angry, and why has your face fallen?
+[6] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦cain|Qayin|Cain⟧, "Why are you angry, and why has your face fallen?
 
 [7] If you do well, is there not lifting up? But if you do not do well, sin crouches at the door; its desire is for you, but you must rule over it."
 
-[8] Cain said to his brother Abel, "Let us go out to the field." And when they were in the field, Cain rose up against his brother Abel and killed him.
+[8] ⟦cain|Qayin|Cain⟧ said to his brother ⟦abel|Hevel|Abel⟧, "Let us go out to the field." And when they were in the field, ⟦cain|Qayin|Cain⟧ rose up against his brother ⟦abel|Hevel|Abel⟧ and killed him.
 
-[9] Then Yahweh said to Cain, "Where is Abel your brother?" He said, "I do not know. Am I my brother's keeper?"
+[9] Then ⟦yhwh|Yahweh|the LORD⟧ said to ⟦cain|Qayin|Cain⟧, "Where is ⟦abel|Hevel|Abel⟧ your brother?" He said, "I do not know. Am I my brother's keeper?"
 
 [10] He said, "What have you done? The voice of your brother's blood is crying out to me from the ground.
 
@@ -24,39 +24,39 @@
 
 [12] When you work the ground, it shall no longer yield its strength to you. A ceaseless wanderer you shall be on the earth."
 
-[13] Cain said to Yahweh, "My punishment is greater than I can bear.
+[13] ⟦cain|Qayin|Cain⟧ said to ⟦yhwh|Yahweh|the LORD⟧, "My punishment is greater than I can bear.
 
 [14] Look, today you have driven me off the face of the ground, and from your face I shall be hidden; I shall be a ceaseless wanderer on the earth, and whoever finds me will kill me."
 
-[15] Yahweh said to him, "Not so — whoever kills Cain, vengeance shall be taken on him sevenfold." And Yahweh put a sign on Cain, so that no one finding him would strike him down.
+[15] ⟦yhwh|Yahweh|The LORD⟧ said to him, "Not so — whoever kills ⟦cain|Qayin|Cain⟧, vengeance shall be taken on him sevenfold." And ⟦yhwh|Yahweh|the LORD⟧ put a sign on ⟦cain|Qayin|Cain⟧, so that no one finding him would strike him down.
 
-[16] Cain went out from the face of Yahweh and settled in the land of Nod, east of Eden.
+[16] ⟦cain|Qayin|Cain⟧ went out from the face of ⟦yhwh|Yahweh|the LORD⟧ and settled in the land of Nod, east of Eden.
 
-[17] Cain knew his wife, and she conceived and bore Enoch. He was building a city, and he named the city after his son, Enoch.
+[17] ⟦cain|Qayin|Cain⟧ knew his wife, and she conceived and bore ⟦enoch|Chanoch|Enoch⟧. He was building a city, and he named the city after his son, ⟦enoch|Chanoch|Enoch⟧.
 
-[18] To Enoch was born Irad; Irad fathered Mehujael; Mehujael fathered Methushael; and Methushael fathered Lamech.
+[18] To ⟦enoch|Chanoch|Enoch⟧ was born Irad; Irad fathered ⟦mehujael|Mechuyael|Mehujael⟧; ⟦mehujael|Mechuyael|Mehujael⟧ fathered ⟦methushael|Metushael|Methushael⟧; and ⟦methushael|Metushael|Methushael⟧ fathered ⟦lamech|Lemech|Lamech⟧.
 
-[19] Lamech took two wives; the name of the one was Adah, and the name of the other Zillah.
+[19] ⟦lamech|Lemech|Lamech⟧ took two wives; the name of the one was Adah, and the name of the other ⟦zillah|Tzillah|Zillah⟧.
 
-[20] Adah bore Jabal; he was the ancestor of those who live in tents and keep livestock.
+[20] Adah bore ⟦jabal|Yaval|Jabal⟧; he was the ancestor of those who live in tents and keep livestock.
 
-[21] His brother's name was Jubal; he was the ancestor of all who play the lyre and pipe.
+[21] His brother's name was ⟦jubal|Yuval|Jubal⟧; he was the ancestor of all who play the lyre and pipe.
 
-[22] Zillah also bore Tubal-cain, who forged all kinds of tools of bronze and iron. And the sister of Tubal-cain was Naamah.
+[22] ⟦zillah|Tzillah|Zillah⟧ also bore ⟦tubal-cain|Tuval-Qayin|Tubal-cain⟧, who forged all kinds of tools of bronze and iron. And the sister of ⟦tubal-cain|Tuval-Qayin|Tubal-cain⟧ was Naamah.
 
-[23] Lamech said to his wives,
+[23] ⟦lamech|Lemech|Lamech⟧ said to his wives,
 
-"Adah and Zillah, hear my voice;
-wives of Lamech, listen to what I say.
+"Adah and ⟦zillah|Tzillah|Zillah⟧, hear my voice;
+wives of ⟦lamech|Lemech|Lamech⟧, listen to what I say.
 For I have killed a man for wounding me,
 a boy for striking me.
 
-[24] If Cain is avenged sevenfold,
-then Lamech seventy-sevenfold."
+[24] If ⟦cain|Qayin|Cain⟧ is avenged sevenfold,
+then ⟦lamech|Lemech|Lamech⟧ seventy-sevenfold."
 
-[25] The human knew his wife again, and she bore a son and called his name Seth, "for *Elohim* has granted me another offspring in place of Abel, whom Cain killed."
+[25] The human knew his wife again, and she bore a son and called his name ⟦seth|Shet|Seth⟧, "for ⟦elohim|Elohim|God⟧ has granted me another offspring in place of ⟦abel|Hevel|Abel⟧, whom ⟦cain|Qayin|Cain⟧ killed."
 
-[26] To Seth also a son was born, and he called his name Enosh. Then people began to call on the name of Yahweh.
+[26] To ⟦seth|Shet|Seth⟧ also a son was born, and he called his name Enosh. Then people began to call on the name of ⟦yhwh|Yahweh|the LORD⟧.
 
 ## Changes
 

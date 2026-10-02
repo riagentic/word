@@ -19,7 +19,7 @@ I held him, and would not let him go
 until I had brought him into my mother's house,
 and into the chamber of her who conceived me.
 
-[5] I adjure you, O daughters of Jerusalem,
+[5] I adjure you, O daughters of ⟦jerusalem|Yerushalayim|Jerusalem⟧,
 by the gazelles or the does of the field,
 that you not stir up or awaken love
 until it pleases.
@@ -29,26 +29,26 @@ like columns of smoke,
 perfumed with myrrh and frankincense,
 with all the fragrant powders of a merchant?
 
-[7] Behold, it is the litter of Solomon!
+[7] Behold, it is the litter of ⟦solomon|Shlomo|Solomon⟧!
 Around it are sixty warriors,
-of the warriors of Israel,
+of the warriors of ⟦israel|Yisrael|Israel⟧,
 
 [8] all of them armed with swords,
 expert in war,
 each with his sword at his thigh,
 against terrors of the night.
 
-[9] King Solomon made himself a carriage
-from the wood of Lebanon.
+[9] King ⟦solomon|Shlomo|Solomon⟧ made himself a carriage
+from the wood of ⟦lebanon|Levanon|Lebanon⟧.
 
 [10] He made its posts of silver,
 its back of gold,
 its seat of purple;
 its interior was inlaid with love
-by the daughters of Jerusalem.
+by the daughters of ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[11] Go out, O daughters of Zion,
-and look upon King Solomon,
+[11] Go out, O daughters of ⟦zion|Tziyon|Zion⟧,
+and look upon King ⟦solomon|Shlomo|Solomon⟧,
 with the crown with which his mother crowned him
 on the day of his wedding,
 on the day of the gladness of his heart.

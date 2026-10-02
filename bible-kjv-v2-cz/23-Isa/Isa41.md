@@ -17,7 +17,7 @@ stezkami, po nichž jeho nohy nešly.
 
 [4] Kdo to vykonal a učinil,
 kdo volá pokolení od počátku?
-Já, Yahweh, první,
+Já, ⟦yhwh|Jahve|Hospodin⟧, první,
 a s posledními; já jsem to.
 
 [5] Pobřeží to uviděla a bojí se;
@@ -33,9 +33,9 @@ a říká o spájení: „Je to dobré“;
 a upevní to hřeby,
 aby se to nepohnulo.
 
-[8] Ale ty, Israeli, můj služebníku,
-Jacobe, kterého jsem vyvolil,
-potomstvo Abrahama, mého přítele;
+[8] Ale ty, ⟦israel|Jisraeli|Izraeli⟧, můj služebníku,
+⟦jacob|Jaakove|Jákobe⟧, kterého jsem vyvolil,
+potomstvo ⟦abraham|Avrahama|Abrahama⟧, mého přítele;
 
 [9] ty, kterého jsem vzal z končin země
 a povolal z jejích nejzazších koutů
@@ -43,7 +43,7 @@ a řekl jsem ti: „Ty jsi můj služebník,
 vyvolil jsem tě a nezavrhl jsem tě“;
 
 [10] neboj se, neboť já jsem s tebou;
-neděs se, neboť já jsem tvůj *Elohim*;
+neděs se, neboť já jsem tvůj ⟦elohim|Elohim|Bůh⟧;
 posílím tě, pomohu ti,
 podepřu tě svou spravedlivou pravicí.
 
@@ -57,15 +57,15 @@ ale nenajdeš je;
 ti, kdo proti tobě válčí,
 budou naprosto ničím.
 
-[13] Neboť já, Yahweh, tvůj *Elohim*,
+[13] Neboť já, ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧,
 držím tvou pravici;
 já ti říkám: „Neboj se,
 já jsem ten, kdo ti pomáhá.“
 
-[14] Neboj se, ty červe Jacobe,
-vy muži Israele!
-Já jsem ten, kdo ti pomáhá, praví Yahweh;
-tvůj Vykupitel – je Svatý Israele.
+[14] Neboj se, ty červe ⟦jacob|Jaakove|Jákobe⟧,
+vy muži ⟦israel|Jisraele|Izraele⟧!
+Já jsem ten, kdo ti pomáhá, praví ⟦yhwh|Jahve|Hospodin⟧;
+tvůj Vykupitel – je Svatý ⟦israel|Jisraele|Izraele⟧.
 
 [15] Hle, činím z tebe mlátící saně,
 nové, ostré a zubaté;
@@ -74,14 +74,14 @@ a pahorky obrátíš v plevy;
 
 [16] budeš je převívat a vítr je odnese
 a vichřice je rozpráší.
-A ty se budeš radovat v Yahweh;
-ve Svatém Israele se budeš chlubit.
+A ty se budeš radovat v ⟦yhwh|Jahvovi|Hospodinu⟧;
+ve Svatém ⟦israel|Jisraele|Izraele⟧ se budeš chlubit.
 
 [17] Když chudí a nuzní hledají vodu
 a žádná není
 a jejich jazyk je vyprahlý žízní,
-já, Yahweh, jim odpovím;
-já, *Elohim* Israele, je neopustím.
+já, ⟦yhwh|Jahve|Hospodin⟧, jim odpovím;
+já, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧, je neopustím.
 
 [18] Otevřu řeky na holých výšinách
 a prameny uprostřed údolí.
@@ -95,11 +95,11 @@ platan a borovici spolu,
 
 [20] aby viděli a poznali,
 uvážili a spolu pochopili,
-že to učinila ruka Yahweh,
-že to stvořil Svatý Israele.
+že to učinila ruka ⟦yhwh|Jahveho|Hospodina⟧,
+že to stvořil Svatý ⟦israel|Jisraele|Izraele⟧.
 
-[21] Předložte svou při, praví Yahweh;
-přineste své důkazy, praví Král Jacobův.
+[21] Předložte svou při, praví ⟦yhwh|Jahve|Hospodin⟧;
+přineste své důkazy, praví Král ⟦jacob|Jaakovův|Jákobův⟧.
 
 [22] Ať je přinesou a oznámí nám,
 co se má stát.
@@ -127,8 +127,8 @@ a předem, abychom řekli: „Má pravdu“?
 Nebyl nikdo, kdo by to oznámil, nikdo, kdo by to ohlásil,
 nikdo, kdo by slyšel vaše slova.
 
-[27] Já jsem první řekl Zionu: „Hle, tady jsou!“
-a dávám Jerusalemu zvěstovatele dobré zprávy.
+[27] Já jsem první řekl ⟦zion|Cijonu|Sijónu⟧: „Hle, tady jsou!“
+a dávám ⟦jerusalem|Jerušalajim|Jeruzalému⟧ zvěstovatele dobré zprávy.
 
 [28] Ale když se dívám, není nikdo;
 mezi nimi není rádce,

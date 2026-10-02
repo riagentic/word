@@ -1,6 +1,6 @@
 # Matthew 18
 
-[1] At that time the disciples came to *Yeshua*, saying, "Who is the greatest in the kingdom of heaven?"
+[1] At that time the disciples came to ⟦yeshua|Yeshua|Jesus⟧, saying, "Who is the greatest in the kingdom of heaven?"
 
 [2] And calling to him a child, he put him in the midst of them
 
@@ -16,7 +16,7 @@
 
 [8] And if your hand or your foot causes you to sin, cut it off and throw it away. It is better for you to enter life crippled or lame than with two hands or two feet to be thrown into the eternal fire.
 
-[9] And if your eye causes you to sin, tear it out and throw it away. It is better for you to enter life with one eye than with two eyes to be thrown into the fiery Gehenna.
+[9] And if your eye causes you to sin, tear it out and throw it away. It is better for you to enter life with one eye than with two eyes to be thrown into the fiery ⟦gehenna|Gehenna|hell⟧.
 
 [10] "See that you do not despise one of these little ones. For I tell you that in heaven their angels always see the face of my Father who is in heaven.
 
@@ -38,9 +38,9 @@
 
 [20] **For where two or three are gathered in my name, there am I among them.**"
 
-[21] Then Peter came up and said to him, "Lord, how often will my brother sin against me, and I forgive him? As many as seven times?"
+[21] Then ⟦peter|Kefa|Peter⟧ came up and said to him, "Lord, how often will my brother sin against me, and I forgive him? As many as seven times?"
 
-[22] *Yeshua* said to him, "I do not say to you seven times, but **seventy-seven times** — or seventy times seven.
+[22] ⟦yeshua|Yeshua|Jesus⟧ said to him, "I do not say to you seven times, but **seventy-seven times** — or seventy times seven.
 
 [23] "Therefore the kingdom of heaven may be compared to a king who wished to settle accounts with his servants.
 

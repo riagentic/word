@@ -38,9 +38,9 @@ an advantage to those who see the sun.
 [12] For the protection of wisdom is like the protection of money,
 and the advantage of knowledge is that wisdom preserves the life of him who has it.
 
-[13] Consider the work of *Elohim*: who can make straight what he has made crooked?
+[13] Consider the work of ⟦elohim|Elohim|God⟧: who can make straight what he has made crooked?
 
-[14] In the day of prosperity be joyful, and in the day of adversity consider: *Elohim* has made the one as well as the other, so that man may not find out anything that will be after him.
+[14] In the day of prosperity be joyful, and in the day of adversity consider: ⟦elohim|Elohim|God⟧ has made the one as well as the other, so that man may not find out anything that will be after him.
 
 [15] In my vanity life I have seen everything. There is a righteous man who perishes in his righteousness, and there is a wicked man who prolongs his life in his evildoing.
 
@@ -48,7 +48,7 @@ and the advantage of knowledge is that wisdom preserves the life of him who has 
 
 [17] Be not overly wicked, neither be a fool. Why should you die before your time?
 
-[18] It is good that you should take hold of this, and from that withhold not your hand, for the one who fears *Elohim* shall come out from both of them.
+[18] It is good that you should take hold of this, and from that withhold not your hand, for the one who fears ⟦elohim|Elohim|God⟧ shall come out from both of them.
 
 [19] Wisdom gives strength to the wise man
 more than ten rulers who are in a city.
@@ -66,13 +66,13 @@ who does good and never sins.
 
 [25] I turned my heart to know and to search out and to seek wisdom and the scheme of things, and to know the wickedness of folly and the foolishness that is madness.
 
-[26] And I find something more bitter than death: the woman whose heart is snares and nets, and whose hands are fetters. He who pleases *Elohim* escapes her, but the sinner is taken by her.
+[26] And I find something more bitter than death: the woman whose heart is snares and nets, and whose hands are fetters. He who pleases ⟦elohim|Elohim|God⟧ escapes her, but the sinner is taken by her.
 
-[27] Behold, this is what I found, says Preacher, while adding one thing to another to find the scheme of things —
+[27] Behold, this is what I found, says ⟦qohelet|Qohelet|the Preacher⟧, while adding one thing to another to find the scheme of things —
 
 [28] which my soul has sought repeatedly, but I have not found: one man among a thousand I found, but a woman among all these I have not found.
 
-[29] See, this alone I found, that *Elohim* made man upright, but they have sought out many schemes.
+[29] See, this alone I found, that ⟦elohim|Elohim|God⟧ made man upright, but they have sought out many schemes.
 
 ## Changes
 

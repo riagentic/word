@@ -5,7 +5,7 @@ a dávejte pozor, pronárody!
 Ať slyší země a všechno, co ji naplňuje,
 svět a všechno, co z něho vzchází.
 
-[2] Neboť Yahweh se rozhněval na všechny národy
+[2] Neboť ⟦yhwh|Jahve|Hospodin⟧ se rozhněval na všechny národy
 a zuří proti všemu jejich vojsku;
 zasvětil je zkáze,
 vydal je na porážku.
@@ -21,25 +21,25 @@ jako opadává listí z vinné révy,
 jako listí padající z fíkovníku.
 
 [5] Neboť můj meč se na nebesích napil do sytosti;
-hle, sestupuje k soudu na Edom,
+hle, sestupuje k soudu na ⟦edom|Edom|Edóm⟧,
 na lid, který jsem zasvětil zkáze.
 
-[6] Yahweh má meč; je nasycen krví,
+[6] ⟦yhwh|Jahve|Hospodin⟧ má meč; je nasycen krví,
 je přecpán tukem,
 krví beránků a kozlů,
 tukem z ledvin beranů.
-Neboť Yahweh má oběť v Bozrah,
-veliké zabíjení v zemi Edom.
+Neboť ⟦yhwh|Jahve|Hospodin⟧ má oběť v ⟦bozrah|Bocře|Bosře⟧,
+veliké zabíjení v zemi ⟦edom|Edom|Edóm⟧.
 
 [7] S nimi padnou divocí buvoli
 i mladí býčci s mocnými býky.
 Jejich země se napije krve do sytosti
 a jejich půda bude přecpána tukem.
 
-[8] Neboť Yahweh má den pomsty,
-rok odplaty za při Zionu.
+[8] Neboť ⟦yhwh|Jahve|Hospodin⟧ má den pomsty,
+rok odplaty za při ⟦zion|Cijonu|Sijónu⟧.
 
-[9] A potoky Edomu se obrátí ve smůlu
+[9] A potoky ⟦edom|Edomu|Edómu⟧ se obrátí ve smůlu
 a jeho půda v síru;
 jeho země se stane hořící smůlou.
 
@@ -62,8 +62,8 @@ Bude doupětem šakalů,
 příbytkem pštrosů.
 
 [14] A divoká zvířata se tam setkají s hyenami;
-sa'ir – kozlí démon – bude volat na svého druha;
-ano, tam se usadí Lilith – noční tvor –
+⟦sair|sa'ir – kozlí démon –|kozel⟧ bude volat na svého druha;
+ano, tam se usadí ⟦lilith|Lilit – noční tvor –|Lílit⟧
 a nalezne si místo odpočinku.
 
 [15] Tam sova hnízdí a snáší vejce,
@@ -71,10 +71,10 @@ vysedí je a shromažďuje svá mláďata ve svém stínu;
 ano, tam se shromažďují jestřábi,
 každý se svou družkou.
 
-[16] Hledejte a čtěte v knize Yahweh:
+[16] Hledejte a čtěte v knize ⟦yhwh|Jahveho|Hospodina⟧:
 Ani jeden z nich nebude chybět;
 žádný nebude bez své družky.
-Neboť ústa Yahweh to přikázala
+Neboť ústa ⟦yhwh|Jahveho|Hospodina⟧ to přikázala
 a jeho duch je shromáždil.
 
 [17] Vrhl pro ně los;

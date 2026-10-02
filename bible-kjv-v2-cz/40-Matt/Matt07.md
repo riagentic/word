@@ -22,7 +22,7 @@
 
 [11] Jestliže tedy vy, ačkoli jste zlí, umíte dávat svým dětem dobré dary, oč spíše váš Otec, který je v nebesích, dá dobré věci těm, kdo ho prosí!
 
-[12] **Všechno tedy, co chcete, aby druzí činili vám, čiňte i vy jim, neboť to je Zákon i Proroci.**
+[12] **Všechno tedy, co chcete, aby druzí činili vám, čiňte i vy jim, neboť to je ⟦torah|Tóra|Zákon⟧ i Proroci.**
 
 [13] Vejděte těsnou branou. Neboť široká je brána a pohodlná cesta, která vede do záhuby, a mnoho je těch, kdo jí vcházejí.
 
@@ -54,7 +54,7 @@
 
 [27] Spadl déšť, přišly povodně, zavanuly větry a udeřily do toho domu, a padl, a jeho pád byl veliký.“
 
-[28] Když *Yeshua* dokončil tyto řeči, zástupy žasly nad jeho učením,
+[28] Když ⟦yeshua|Ješua|Ježíš⟧ dokončil tyto řeči, zástupy žasly nad jeho učením,
 
 [29] neboť je učil jako ten, kdo má autoritu, a ne jako jejich zákoníci.
 

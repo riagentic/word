@@ -1,78 +1,78 @@
 # Ezechiel 27
 
-[1] Přišlo ke mně slovo Yahweh:
+[1] Přišlo ke mně slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[2] „A ty, synu člověka, zanoť žalozpěv nad Tyrem
+[2] „A ty, synu člověka, zanoť žalozpěv nad ⟦tyre|Corem|Týrem⟧
 
-[3] a řekni Tyru, jež bydlí u vjezdů do moře, obchodnici národů pro mnohé ostrovy: Toto praví Pán Yahweh:
+[3] a řekni ⟦tyre|Coru|Týru⟧, jež bydlí u vjezdů do moře, obchodnici národů pro mnohé ostrovy: Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧:
 
-‚Tyre, řekla jsi:
+‚⟦tyre|Core|Týre⟧, řekla jsi:
 „Jsem dokonalá v kráse.“
 
 [4] Tvé hranice jsou v srdci moří;
 tví stavitelé zdokonalili tvou krásu.
 
-[5] Všechna tvá prkna udělali z jedlí ze Seniru;
-vzali cedr z Lebanonu,
+[5] Všechna tvá prkna udělali z jedlí ze ⟦senir|Seniru|Seníru⟧;
+vzali cedr z ⟦lebanon|Levanonu|Libanónu⟧,
 aby ti udělali stěžeň.
 
-[6] Z dubů z Bashanu udělali tvá vesla;
-tvou palubu udělali z borovic z pobřeží Kittim,
+[6] Z dubů z ⟦bashan|Bašanu|Bášanu⟧ udělali tvá vesla;
+tvou palubu udělali z borovic z pobřeží ⟦kittim|Kittim|Kitejců⟧,
 vykládanou slonovinou.
 
-[7] Z jemného vyšívaného lnu z Egypta
+[7] Z jemného vyšívaného lnu z ⟦egypt|Micrajim|Egypta⟧
 byla tvá plachta, jež ti sloužila jako korouhev;
-modrá a purpurová látka z pobřeží Elishah
+modrá a purpurová látka z pobřeží ⟦elishah|Elišy|Elíšy⟧
 byla tvým přístřeškem.
 
-[8] Obyvatelé Sidonu a Arvadu
+[8] Obyvatelé ⟦sidon|Cidonu|Sidónu⟧ a ⟦arvad|Arvadu|Arvádu⟧
 byli tvými veslaři;
-tví zruční muži, Tyre, byli v tobě;
+tví zruční muži, ⟦tyre|Core|Týre⟧, byli v tobě;
 byli tvými kormidelníky.
 
-[9] Starší z Gevalu a jeho zruční muži byli v tobě,
+[9] Starší z ⟦gebal|Gevalu|Gebalu⟧ a jeho zruční muži byli v tobě,
 utěsňovali tvé spáry;
 všechny lodě moře se svými námořníky byly v tobě,
 aby směňovaly tvé zboží.
 
-[10] Persie, Lud a Put byli ve tvém vojsku
+[10] ⟦persia|Paras|Persie⟧, ⟦lud|Lud|Lúd⟧ a ⟦put|Put|Pút⟧ byli ve tvém vojsku
 jako tví bojovníci.
 Věšeli v tobě štít a přilbu;
 dodávali ti nádheru.
 
-[11] Muži z Arvadu a Helechu
+[11] Muži z ⟦arvad|Arvadu|Arvádu⟧ a ⟦helech|Chelechu|Cheleku⟧
 byli všude kolem na tvých hradbách
-a muži z Gammadu byli ve tvých věžích.
+a muži z ⟦gamad|Gamadu|Gamádců⟧ byli ve tvých věžích.
 Věšeli své štíty všude kolem na tvé hradby;
 zdokonalili tvou krásu.
 
-[12] Tarshish s tebou obchodoval pro tvé veliké bohatství všeho druhu; stříbro, železo, cín a olovo směňovali za tvé zboží.
+[12] ⟦tarshish|Taršiš|Taršíš⟧ s tebou obchodoval pro tvé veliké bohatství všeho druhu; stříbro, železo, cín a olovo směňovali za tvé zboží.
 
-[13] Javan, Tubal a Meshech s tebou obchodovali; směňovali lidské bytosti a bronzové nádoby za tvé zboží.
+[13] ⟦javan|Javan|Jávan⟧, ⟦tubal|Tuval|Túbal⟧ a ⟦meshech|Mešech|Mešek⟧ s tebou obchodovali; směňovali lidské bytosti a bronzové nádoby za tvé zboží.
 
-[14] Z Beth-togarmah směňovali koně, válečné oře a mezky za tvé zboží.
+[14] Z ⟦beth-togarmah|Bejt Togarmy|Bét-togarmy⟧ směňovali koně, válečné oře a mezky za tvé zboží.
 
-[15] Muži z Dedanu s tebou obchodovali. Mnohé ostrovy byly tvými vlastními trhy; přinášeli ti jako platbu sloní kly a eben.
+[15] Muži z ⟦dedan|Dedanu|Dedánu⟧ s tebou obchodovali. Mnohé ostrovy byly tvými vlastními trhy; přinášeli ti jako platbu sloní kly a eben.
 
-[16] Syrie s tebou obchodovala pro hojnost tvých výrobků; za tvé zboží směňovali smaragdy, purpur, vyšívanou práci, jemný len, korály a rubíny.
+[16] Aram s tebou obchodoval pro hojnost tvých výrobků; za tvé zboží směňovali smaragdy, purpur, vyšívanou práci, jemný len, korály a rubíny.
 
-[17] Judah a země Israele s tebou obchodovali; za tvé zboží směňovali pšenici z Minnith, mouku, med, olej a balzám.
+[17] ⟦judah|Jehuda|Juda⟧ a země ⟦israel|Jisraele|Izraele⟧ s tebou obchodovali; za tvé zboží směňovali pšenici z ⟦minnith|Minnitu|Minítu⟧, mouku, med, olej a balzám.
 
-[18] Damascus s tebou obchodoval pro hojnost tvých výrobků, pro tvé veliké bohatství všeho druhu; víno z Helbonu a vlnu ze Zaharu
+[18] ⟦damascus|Dammesek|Damašek⟧ s tebou obchodoval pro hojnost tvých výrobků, pro tvé veliké bohatství všeho druhu; víno z ⟦helbon|Chelbonu|Chelbónu⟧ a vlnu ze ⟦zahar|Cacharu|Sacharu⟧
 
-[19] a sudy vína z Uzalu směňovali za tvé zboží; kované železo, kasie a puškvorec se směňovaly za tvé zboží.
+[19] a sudy vína z ⟦uzal|Uzalu|Úzalu⟧ směňovali za tvé zboží; kované železo, kasie a puškvorec se směňovaly za tvé zboží.
 
-[20] Dedan s tebou obchodoval s podsedlovými pokrývkami k jízdě.
+[20] ⟦dedan|Dedan|Dedán⟧ s tebou obchodoval s podsedlovými pokrývkami k jízdě.
 
-[21] Arabie a všechna knížata Kedaru byli tvými oblíbenými obchodníky s jehňaty, berany a kozly; v tom s tebou obchodovali.
+[21] ⟦arabia|Arav|Arábie⟧ a všechna knížata ⟦kedar|Kedaru|Kédaru⟧ byli tvými oblíbenými obchodníky s jehňaty, berany a kozly; v tom s tebou obchodovali.
 
-[22] Obchodníci ze Sheby a Raamah s tebou obchodovali; za tvé zboží směňovali to nejlepší ze všech druhů koření, všechny drahé kameny a zlato.
+[22] Obchodníci ze ⟦sheba|Ševy|Šeby⟧ a ⟦raamah|Raamy|Raemy⟧ s tebou obchodovali; za tvé zboží směňovali to nejlepší ze všech druhů koření, všechny drahé kameny a zlato.
 
-[23] Haran, Canneh, Eden, obchodníci ze Sheby, Asshur a Chilmad s tebou obchodovali.
+[23] ⟦haran-city|Charan|Cháran⟧, Kane, ⟦eden|Eden|Éden⟧, obchodníci ze ⟦sheba|Ševy|Šeby⟧, ⟦asshur|Aššur|Aššúr⟧ a Kilmad s tebou obchodovali.
 
 [24] Na tvém trhu s tebou tito obchodovali vybranými oděvy, pláštěnkami z modré látky a vyšívanou prací a koberci z barevné látky, převázanými šňůrami a pevně zajištěnými.
 
-[25] Lodě z Tarshishe pro tebe plavily tvé zboží.
+[25] Lodě z ⟦tarshish|Taršiše|Taršíše⟧ pro tebe plavily tvé zboží.
 
 Tak jsi byla naplněna a těžce naložena
 v srdci moří.
@@ -109,7 +109,7 @@ hořkým truchlením.
 
 [32] Ve svém kvílení nad tebou zanotují žalozpěv
 a budou nad tebou naříkat:
-„Kdo je jako Tyre,
+„Kdo je jako ⟦tyre|Cor|Týr⟧,
 jako ta, jež byla zničena uprostřed moře?
 
 [33] Když tvé zboží přicházelo z moří,

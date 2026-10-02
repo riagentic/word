@@ -1,90 +1,90 @@
 # Genesis 36
 
-[1] Toto jsou rody Esaua (to je Edom).
+[1] Toto jsou rody ⟦esau|Esava|Ezaua⟧ (to je ⟦edom|Edom|Edóm⟧).
 
-[2] Esau si vzal ženy z dcer Canaanu: Adah, dceru Elona Hittity, a Oholibamah, dceru Anaha, syna Zibeona Hivity,
+[2] ⟦esau|Esav|Ezau⟧ si vzal ženy z dcer Kenaanu: ⟦adah|Adu|Ádu⟧, dceru ⟦elon|Elona|Elóna⟧ ⟦hittite|Chittiho|Chetejce⟧, a ⟦oholibamah|Oholivamu|Oholíbamu⟧, dceru Any, syna ⟦zibeon|Civona|Sibeóna⟧ ⟦hivite|Chivviho|Chivejce⟧,
 
-[3] a Basemath, dceru Ishmaelovu, sestru Nebaiothovu.
+[3] a ⟦basemath|Basmat|Basemat⟧, dceru ⟦ishmael|Jišmaelovu|Izmaelovu⟧, sestru ⟦nebaioth|Nevajotovu|Nebajótovu⟧.
 
-[4] Adah porodila Esauovi Eliphaze; a Basemath porodila Reuela;
+[4] ⟦adah|Ada|Áda⟧ porodila ⟦esau|Esavovi|Ezauovi⟧ ⟦eliphaz|Elifaze|Elífaze⟧; a ⟦basemath|Basmat|Basemat⟧ porodila ⟦reuel|Reuela|Reúela⟧;
 
-[5] a Oholibamah porodila Jeushe, Jalama a Koraha. To jsou synové Esauovi, kteří se mu narodili v zemi Canaan.
+[5] a ⟦oholibamah|Oholivama|Oholíbama⟧ porodila ⟦jeush|Jeuše|Jeúše⟧, ⟦jalam|Jalama|Jaláma⟧ a ⟦korah|Koracha|Kóracha⟧. To jsou synové ⟦esau|Esavovi|Ezauovi⟧, kteří se mu narodili v zemi Kenaan.
 
-[6] Potom Esau vzal své ženy, své syny, své dcery a všechny členy svého domu, svůj dobytek, všechna svá zvířata a všechen svůj majetek, který získal v zemi Canaan, a odešel do země daleko od svého bratra Jacoba.
+[6] Potom ⟦esau|Esav|Ezau⟧ vzal své ženy, své syny, své dcery a všechny členy svého domu, svůj dobytek, všechna svá zvířata a všechen svůj majetek, který získal v zemi Kenaan, a odešel do země daleko od svého bratra ⟦jacob|Jaakova|Jákoba⟧.
 
 [7] Jejich majetek byl totiž příliš veliký, než aby mohli bydlet spolu; země jejich pobývání je nemohla uživit kvůli jejich dobytku.
 
-[8] Esau se tedy usadil v pohoří Seir (Esau je Edom).
+[8] ⟦esau|Esav|Ezau⟧ se tedy usadil v pohoří ⟦seir|Seir|Seír⟧ (⟦esau|Esav|Ezau⟧ je ⟦edom|Edom|Edóm⟧).
 
-[9] Toto jsou rody Esaua, otce Edomitů, v pohoří Seir.
+[9] Toto jsou rody ⟦esau|Esava|Ezaua⟧, otce ⟦edomites|Edomu|Edómců⟧, v pohoří ⟦seir|Seir|Seír⟧.
 
-[10] Toto jsou jména Esauových synů: Eliphaz, syn Adah, ženy Esauovy; Reuel, syn Basemath, ženy Esauovy.
+[10] Toto jsou jména ⟦esau|Esavových|Ezauových⟧ synů: ⟦eliphaz|Elifaz|Elífaz⟧, syn ⟦adah|Ady|Ády⟧, ženy ⟦esau|Esavovy|Ezauovy⟧; ⟦reuel|Reuel|Reúel⟧, syn ⟦basemath|Basmat|Basemat⟧, ženy ⟦esau|Esavovy|Ezauovy⟧.
 
-[11] Synové Eliphazovi byli Teman, Omar, Zepho, Gatam a Kenaz.
+[11] Synové ⟦eliphaz|Elifazovi|Elífazovi⟧ byli ⟦teman|Teman|Téman⟧, ⟦omar|Omar|Ómar⟧, ⟦zepho|Cefo|Sefó⟧, Gatam a Kenaz.
 
-[12] Timna byla vedlejší ženou Eliphaze, syna Esauova, a porodila Eliphazovi Amaleka. To byli synové Adah, Esauovy ženy.
+[12] Timna byla vedlejší ženou ⟦eliphaz|Elifaze|Elífaze⟧, syna ⟦esau|Esavova|Ezauova⟧, a porodila ⟦eliphaz|Elifazovi|Elífazovi⟧ ⟦amalek|Amaleka|Amáleka⟧. To byli synové ⟦adah|Ady|Ády⟧, ⟦esau|Esavovy|Ezauovy⟧ ženy.
 
-[13] Toto jsou synové Reuelovi: Nahath, Zerah, Shammah a Mizzah. To byli synové Basemath, Esauovy ženy.
+[13] Toto jsou synové ⟦reuel|Reuelovi|Reúelovi⟧: Nachat, Zerach, ⟦shammah|Šamma|Šama⟧ a Miza. To byli synové ⟦basemath|Basmat|Basemat⟧, ⟦esau|Esavovy|Ezauovy⟧ ženy.
 
-[14] Toto byli synové Oholibamah, dcery Anaha, syna Zibeonova, ženy Esauovy: porodila Esauovi Jeushe, Jalama a Koraha.
+[14] Toto byli synové ⟦oholibamah|Oholivamy|Oholíbamy⟧, dcery Any, syna ⟦zibeon|Civonova|Sibeónova⟧, ženy ⟦esau|Esavovy|Ezauovy⟧: porodila ⟦esau|Esavovi|Ezauovi⟧ ⟦jeush|Jeuše|Jeúše⟧, ⟦jalam|Jalama|Jaláma⟧ a ⟦korah|Koracha|Kóracha⟧.
 
-[15] Toto jsou náčelníci synů Esauových. Synové Eliphaze, Esauova prvorozeného: náčelník Teman, náčelník Omar, náčelník Zepho, náčelník Kenaz,
+[15] Toto jsou náčelníci synů ⟦esau|Esavových|Ezauových⟧. Synové ⟦eliphaz|Elifaze|Elífaze⟧, ⟦esau|Esavova|Ezauova⟧ prvorozeného: náčelník ⟦teman|Teman|Téman⟧, náčelník ⟦omar|Omar|Ómar⟧, náčelník ⟦zepho|Cefo|Sefó⟧, náčelník Kenaz,
 
-[16] náčelník Korah, náčelník Gatam, náčelník Amalek – to jsou náčelníci Eliphazovi v zemi Edom; to byli synové Adah.
+[16] náčelník ⟦korah|Korach|Kórach⟧, náčelník Gatam, náčelník ⟦amalek|Amalek|Amálek⟧ – to jsou náčelníci ⟦eliphaz|Elifazovi|Elífazovi⟧ v zemi ⟦edom|Edom|Edóm⟧; to byli synové ⟦adah|Ady|Ády⟧.
 
-[17] Toto jsou synové Reuela, Esauova syna: náčelník Nahath, náčelník Zerah, náčelník Shammah, náčelník Mizzah – to jsou náčelníci Reuelovi v zemi Edom; to jsou synové Basemath, Esauovy ženy.
+[17] Toto jsou synové ⟦reuel|Reuela|Reúela⟧, ⟦esau|Esavova|Ezauova⟧ syna: náčelník Nachat, náčelník Zerach, náčelník ⟦shammah|Šamma|Šama⟧, náčelník Miza – to jsou náčelníci ⟦reuel|Reuelovi|Reúelovi⟧ v zemi ⟦edom|Edom|Edóm⟧; to jsou synové ⟦basemath|Basmat|Basemat⟧, ⟦esau|Esavovy|Ezauovy⟧ ženy.
 
-[18] Toto jsou synové Oholibamah, Esauovy ženy: náčelník Jeush, náčelník Jalam, náčelník Korah – to jsou náčelníci Oholibamah, dcery Anahovy, Esauovy ženy.
+[18] Toto jsou synové ⟦oholibamah|Oholivamy|Oholíbamy⟧, ⟦esau|Esavovy|Ezauovy⟧ ženy: náčelník ⟦jeush|Jeuš|Jeúš⟧, náčelník ⟦jalam|Jalam|Jalám⟧, náčelník ⟦korah|Korach|Kórach⟧ – to jsou náčelníci ⟦oholibamah|Oholivamy|Oholíbamy⟧, dcery Anovy, ⟦esau|Esavovy|Ezauovy⟧ ženy.
 
-[19] To jsou synové Esaua (to je Edom) a to jsou jejich náčelníci.
+[19] To jsou synové ⟦esau|Esava|Ezaua⟧ (to je ⟦edom|Edom|Edóm⟧) a to jsou jejich náčelníci.
 
-[20] Toto jsou synové Seira Hority, obyvatelé země: Lotan, Shobal, Zibeon, Anah,
+[20] Toto jsou synové ⟦seir|Seira|Seíra⟧ ⟦horites|Choriho|Chorejce⟧, obyvatelé země: ⟦lotan|Lotan|Lótan⟧, ⟦shobal|Šoval|Šobal⟧, ⟦zibeon|Civon|Sibeón⟧, Ana,
 
-[21] Dishon, Ezer a Dishan. To jsou náčelníci Horitů, synové Seirovi, v zemi Edom.
+[21] Dišon, ⟦ezer-horite|Ecer|Eser⟧ a ⟦dishan|Dišan|Díšan⟧. To jsou náčelníci ⟦horites|Chorim|Chorejců⟧, synové ⟦seir|Seirovi|Seírovi⟧, v zemi ⟦edom|Edom|Edóm⟧.
 
-[22] Synové Lotanovi byli Hori a Hemam; a Lotanova sestra byla Timna.
+[22] Synové ⟦lotan|Lotanovi|Lótanovi⟧ byli ⟦hori|Chori|Chorí⟧ a ⟦hemam|Hejmam|Hémam⟧; a ⟦lotan|Lotanova|Lótanova⟧ sestra byla Timna.
 
-[23] Toto byli synové Shobalovi: Alvan, Manahath, Ebal, Shepho a Onam.
+[23] Toto byli synové ⟦shobal|Šovalovi|Šobalovi⟧: ⟦alvan|Alvan|Alván⟧, Manachat, ⟦ebal|Ejval|Ébal⟧, ⟦shepho|Šefo|Šefó⟧ a ⟦onam|Onam|Ónam⟧.
 
-[24] Toto jsou synové Zibeonovi: Aiah a Anah. To je ten Anah, který nalezl horké prameny v pustině, když pásl osly svého otce Zibeona.
+[24] Toto jsou synové ⟦zibeon|Civonovi|Sibeónovi⟧: ⟦aiah|Ajja|Aja⟧ a Ana. To je ten Ana, který nalezl horké prameny v pustině, když pásl osly svého otce ⟦zibeon|Civona|Sibeóna⟧.
 
-[25] Toto jsou děti Anahovy: Dishon a Oholibamah, dcera Anahova.
+[25] Toto jsou děti Anovy: Dišon a ⟦oholibamah|Oholivama|Oholíbama⟧, dcera Anova.
 
-[26] Toto jsou synové Dishonovi: Hemdan, Eshban, Ithran a Cheran.
+[26] Toto jsou synové Dišonovi: ⟦hemdan|Chemdan|Chemdán⟧, ⟦eshban|Ešban|Ešbán⟧, ⟦ithran|Jitran|Jitrán⟧ a Keran.
 
-[27] Toto jsou synové Ezerovi: Bilhan, Zaavan a Akan.
+[27] Toto jsou synové ⟦ezer-horite|Ecerovi|Eserovi⟧: ⟦bilhan|Bilhan|Bilhán⟧, Zaavan a Akan.
 
-[28] Toto jsou synové Dishanovi: Uz a Aran.
+[28] Toto jsou synové ⟦dishan|Dišanovi|Díšanovi⟧: ⟦uz|Uc|Ús⟧ a Aran.
 
-[29] Toto jsou náčelníci Horitů: náčelník Lotan, náčelník Shobal, náčelník Zibeon, náčelník Anah,
+[29] Toto jsou náčelníci ⟦horites|Chorim|Chorejců⟧: náčelník ⟦lotan|Lotan|Lótan⟧, náčelník ⟦shobal|Šoval|Šobal⟧, náčelník ⟦zibeon|Civon|Sibeón⟧, náčelník Ana,
 
-[30] náčelník Dishon, náčelník Ezer, náčelník Dishan – to jsou náčelníci Horitů podle jejich rodů v zemi Seir.
+[30] náčelník Dišon, náčelník ⟦ezer-horite|Ecer|Eser⟧, náčelník ⟦dishan|Dišan|Díšan⟧ – to jsou náčelníci ⟦horites|Chorim|Chorejců⟧ podle jejich rodů v zemi ⟦seir|Seir|Seír⟧.
 
-[31] Toto jsou králové, kteří kralovali v zemi Edom dříve, než nad syny Israele kraloval nějaký král.
+[31] Toto jsou králové, kteří kralovali v zemi ⟦edom|Edom|Edóm⟧ dříve, než nad syny ⟦israel|Jisraele|Izraele⟧ kraloval nějaký král.
 
-[32] V Edomu kraloval Bela, syn Beorův, a jeho město se jmenovalo Dinhabah.
+[32] V ⟦edom|Edomu|Edómu⟧ kraloval Bela, syn ⟦beor|Beorův|Beórův⟧, a jeho město se jmenovalo ⟦dinhabah|Dinhava|Dinhaba⟧.
 
-[33] Bela zemřel a místo něho kraloval Jobab, syn Zerahův, z Bozrah.
+[33] Bela zemřel a místo něho kraloval ⟦jobab|Jovav|Jobab⟧, syn Zerachův, z ⟦bozrah|Bocry|Bosry⟧.
 
-[34] Jobab zemřel a místo něho kraloval Husham ze země Temanitů.
+[34] ⟦jobab|Jovav|Jobab⟧ zemřel a místo něho kraloval Chušam ze země ⟦temanites|Tejmanim|Témanců⟧.
 
-[35] Husham zemřel a místo něho kraloval Hadad, syn Bedadův, který pobil Midian v kraji Moabu; a jeho město se jmenovalo Avith.
+[35] Chušam zemřel a místo něho kraloval Hadad, syn Bedadův, který pobil ⟦midian|Midjan|Midján⟧ v kraji ⟦moab|Moavu|Moábu⟧; a jeho město se jmenovalo ⟦avith|Avit|Avít⟧.
 
-[36] Hadad zemřel a místo něho kraloval Samlah z Masrekah.
+[36] Hadad zemřel a místo něho kraloval Samla z Masreky.
 
-[37] Samlah zemřel a místo něho kraloval Shaul z Rehoboth-na-Řece.
+[37] Samla zemřel a místo něho kraloval Šaul z ⟦rehoboth|Rechovot-na-Řece|Rechobót-na-Řece⟧.
 
-[38] Shaul zemřel a místo něho kraloval Baal-Hanan, syn Achborův.
+[38] Šaul zemřel a místo něho kraloval ⟦baal-hanan|Baal Chanan|Baal-chanan⟧, syn ⟦achbor|Achborův|Akbórův⟧.
 
-[39] Baal-Hanan, syn Achborův, zemřel a místo něho kraloval Hadar; jeho město se jmenovalo Pau a jeho žena se jmenovala Mehetabel, dcera Matred, dcery Me-Zahab.
+[39] ⟦baal-hanan|Baal Chanan|Baal-chanan⟧, syn ⟦achbor|Achborův|Akbórův⟧, zemřel a místo něho kraloval Hadar; jeho město se jmenovalo Pau a jeho žena se jmenovala ⟦mehetabel|Mehetavel|Mehétabel⟧, dcera Matred, dcery ⟦me-zahab|Mej Zahav|Mé-zahab⟧.
 
-[40] Toto jsou jména náčelníků Esauových podle jejich rodů a jejich míst, podle jejich jmen: náčelník Timna, náčelník Alvah, náčelník Jetheth,
+[40] Toto jsou jména náčelníků ⟦esau|Esavových|Ezauových⟧ podle jejich rodů a jejich míst, podle jejich jmen: náčelník Timna, náčelník Alva, náčelník Jetet,
 
-[41] náčelník Oholibamah, náčelník Elah, náčelník Pinon,
+[41] náčelník ⟦oholibamah|Oholivama|Oholíbama⟧, náčelník ⟦elah|Ela|Éla⟧, náčelník ⟦pinon|Pinon|Pínon⟧,
 
-[42] náčelník Kenaz, náčelník Teman, náčelník Mibzar,
+[42] náčelník Kenaz, náčelník ⟦teman|Teman|Téman⟧, náčelník ⟦mibzar|Mivcar|Mibsar⟧,
 
-[43] náčelník Magdiel, náčelník Iram. To jsou náčelníci Edomu podle jejich sídel v zemi jejich vlastnictví. To je Esau, otec Edomitů.
+[43] náčelník ⟦magdiel|Magdiel|Magdíel⟧, náčelník ⟦iram|Iram|Íram⟧. To jsou náčelníci ⟦edom|Edomu|Edómu⟧ podle jejich sídel v zemi jejich vlastnictví. To je ⟦esau|Esav|Ezau⟧, otec ⟦edomites|Edomu|Edómců⟧.
 
 ## Změny
 

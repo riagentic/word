@@ -24,7 +24,7 @@
 
 [12] A odpovídající dveřím síní na jihu byly dveře v čele chodby, chodby před odpovídající zdí na východě, kudy se do nich vchází.
 
-[13] Tu mi řekl: „Severní síně a jižní síně naproti dvoru jsou svaté síně, kde budou kněží, kteří přistupují k Yahweh, jíst nejsvětější obětní dary. Tam budou ukládat nejsvětější obětní dary – obětní dar z obilí, oběť za hřích a oběť za vinu –, neboť to místo je svaté.
+[13] Tu mi řekl: „Severní síně a jižní síně naproti dvoru jsou svaté síně, kde budou kněží, kteří přistupují k ⟦yhwh|Jahvovi|Hospodinu⟧, jíst nejsvětější obětní dary. Tam budou ukládat nejsvětější obětní dary – obětní dar z obilí, oběť za hřích a oběť za vinu –, neboť to místo je svaté.
 
 [14] Když kněží vejdou do Svatyně, nevyjdou z ní na vnější nádvoří, aniž by tam odložili roucha, v nichž slouží, neboť ta jsou svatá. Než přistoupí k tomu, co je pro lid, obléknou si jiná roucha.“
 

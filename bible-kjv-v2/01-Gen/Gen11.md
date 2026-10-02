@@ -8,15 +8,15 @@
 
 [4] Then they said, "Come, let us build ourselves a city, and a tower with its top in the heavens; let us make a name for ourselves, lest we be scattered over the face of the whole earth."
 
-[5] But Yahweh came down to see the city and the tower that the children of humankind had built.
+[5] But ⟦yhwh|Yahweh|the LORD⟧ came down to see the city and the tower that the children of humankind had built.
 
-[6] And Yahweh said, "Look, they are one people, and they all have one language; and this is only the beginning of what they will do. Now nothing they plan to do will be impossible for them.
+[6] And ⟦yhwh|Yahweh|the LORD⟧ said, "Look, they are one people, and they all have one language; and this is only the beginning of what they will do. Now nothing they plan to do will be impossible for them.
 
 [7] Come, let us go down and there confuse their language, so that they may not understand one another's speech."
 
-[8] So Yahweh scattered them from there over the face of all the earth, and they left off building the city.
+[8] So ⟦yhwh|Yahweh|the LORD⟧ scattered them from there over the face of all the earth, and they left off building the city.
 
-[9] Therefore its name was called Babel, because there Yahweh confused the language of all the earth; and from there Yahweh scattered them over the face of all the earth.
+[9] Therefore its name was called ⟦babel|Bavel|Babel⟧, because there ⟦yhwh|Yahweh|the LORD⟧ confused the language of all the earth; and from there ⟦yhwh|Yahweh|the LORD⟧ scattered them over the face of all the earth.
 
 [10] These are the generations of Shem. Shem was 100 years old when he fathered Arpachshad, two years after the flood.
 
@@ -26,13 +26,13 @@
 
 [13] Arpachshad lived after he fathered Shelah 403 years, and fathered sons and daughters.
 
-[14] Shelah lived 30 years and fathered Eber.
+[14] Shelah lived 30 years and fathered ⟦eber|Ever|Eber⟧.
 
-[15] Shelah lived after he fathered Eber 403 years, and fathered sons and daughters.
+[15] Shelah lived after he fathered ⟦eber|Ever|Eber⟧ 403 years, and fathered sons and daughters.
 
-[16] Eber lived 34 years and fathered Peleg.
+[16] ⟦eber|Ever|Eber⟧ lived 34 years and fathered Peleg.
 
-[17] Eber lived after he fathered Peleg 430 years, and fathered sons and daughters.
+[17] ⟦eber|Ever|Eber⟧ lived after he fathered Peleg 430 years, and fathered sons and daughters.
 
 [18] Peleg lived 30 years and fathered Reu.
 
@@ -42,27 +42,27 @@
 
 [21] Reu lived after he fathered Serug 207 years, and fathered sons and daughters.
 
-[22] Serug lived 30 years and fathered Nahor.
+[22] Serug lived 30 years and fathered ⟦nahor|Nachor|Nahor⟧.
 
-[23] Serug lived after he fathered Nahor 200 years, and fathered sons and daughters.
+[23] Serug lived after he fathered ⟦nahor|Nachor|Nahor⟧ 200 years, and fathered sons and daughters.
 
-[24] Nahor lived 29 years and fathered Terah.
+[24] ⟦nahor|Nachor|Nahor⟧ lived 29 years and fathered ⟦terah|Terach|Terah⟧.
 
-[25] Nahor lived after he fathered Terah 119 years, and fathered sons and daughters.
+[25] ⟦nahor|Nachor|Nahor⟧ lived after he fathered ⟦terah|Terach|Terah⟧ 119 years, and fathered sons and daughters.
 
-[26] Terah lived 70 years and fathered Abram, Nahor, and Haran.
+[26] ⟦terah|Terach|Terah⟧ lived 70 years and fathered ⟦abram|Avram|Abram⟧, ⟦nahor|Nachor|Nahor⟧, and Haran.
 
-[27] These are the generations of Terah. Terah fathered Abram, Nahor, and Haran; and Haran fathered Lot.
+[27] These are the generations of ⟦terah|Terach|Terah⟧. ⟦terah|Terach|Terah⟧ fathered ⟦abram|Avram|Abram⟧, ⟦nahor|Nachor|Nahor⟧, and Haran; and Haran fathered Lot.
 
-[28] Haran died in the lifetime of his father Terah, in the land of his birth, in Ur of the Chaldeans.
+[28] Haran died in the lifetime of his father ⟦terah|Terach|Terah⟧, in the land of his birth, in Ur of the ⟦chaldeans|Kasdim|Chaldeans⟧.
 
-[29] Abram and Nahor took wives for themselves. The name of Abram's wife was Sarai, and the name of Nahor's wife was Milcah, the daughter of Haran, the father of Milcah and Iscah.
+[29] ⟦abram|Avram|Abram⟧ and ⟦nahor|Nachor|Nahor⟧ took wives for themselves. The name of ⟦abram|Avram's|Abram's⟧ wife was Sarai, and the name of ⟦nahor|Nachor's|Nahor's⟧ wife was ⟦milcah|Milkah|Milcah⟧, the daughter of Haran, the father of ⟦milcah|Milkah|Milcah⟧ and ⟦iscah|Yiskah|Iscah⟧.
 
 [30] But Sarai was barren; she had no child.
 
-[31] Terah took Abram his son and Lot son of Haran, his grandson, and Sarai his daughter-in-law, his son Abram's wife; and they set out together from Ur of the Chaldeans to go to the land of Canaan. But when they came to Haran, they settled there.
+[31] ⟦terah|Terach|Terah⟧ took ⟦abram|Avram|Abram⟧ his son and Lot son of Haran, his grandson, and Sarai his daughter-in-law, his son ⟦abram|Avram's|Abram's⟧ wife; and they set out together from Ur of the ⟦chaldeans|Kasdim|Chaldeans⟧ to go to the land of ⟦canaan|Kenaan|Canaan⟧. But when they came to ⟦haran-city|Charan|Haran⟧, they settled there.
 
-[32] The days of Terah were 205 years; and Terah died in Haran.
+[32] The days of ⟦terah|Terach|Terah⟧ were 205 years; and ⟦terah|Terach|Terah⟧ died in ⟦haran-city|Charan|Haran⟧.
 
 ## Changes
 

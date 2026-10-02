@@ -1,38 +1,38 @@
 # Leviticus 1
 
-[1] Yahweh called to Moses and spoke to him from the Tent of Meeting, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ called to ⟦moses|Moshe|Moses⟧ and spoke to him from the Tent of Meeting, saying,
 
-[2] "Speak to the children of Israel and say to them, 'When any of you brings an offering to Yahweh, you shall bring your offering from the livestock — from the herd or from the flock.
+[2] "Speak to the children of ⟦israel|Yisrael|Israel⟧ and say to them, 'When any of you brings an offering to ⟦yhwh|Yahweh|the LORD⟧, you shall bring your offering from the livestock — from the herd or from the flock.
 
-[3] If his offering is a burnt offering from the herd, he shall offer a male without blemish; he shall offer it of his own free will at the entrance of the Tent of Meeting before Yahweh.
+[3] If his offering is a burnt offering from the herd, he shall offer a male without blemish; he shall offer it of his own free will at the entrance of the Tent of Meeting before ⟦yhwh|Yahweh|the LORD⟧.
 
 [4] He shall lay his hand on the head of the burnt offering, and it shall be accepted for him, to make atonement for him.
 
-[5] He shall slaughter the bull before Yahweh; and the priests, Aaron's sons, shall present the blood and throw the blood against the altar all around, at the entrance of the Tent of Meeting.
+[5] He shall slaughter the bull before ⟦yhwh|Yahweh|the LORD⟧; and the priests, ⟦aaron|Aharon's|Aaron's⟧ sons, shall present the blood and throw the blood against the altar all around, at the entrance of the Tent of Meeting.
 
 [6] He shall flay the burnt offering and cut it into its pieces.
 
-[7] And the sons of Aaron the priest shall put fire on the altar, and arrange wood on the fire;
+[7] And the sons of ⟦aaron|Aharon|Aaron⟧ the priest shall put fire on the altar, and arrange wood on the fire;
 
-[8] and the priests, Aaron's sons, shall arrange the pieces — the head and the fat — on the wood that is on the fire that is on the altar.
+[8] and the priests, ⟦aaron|Aharon's|Aaron's⟧ sons, shall arrange the pieces — the head and the fat — on the wood that is on the fire that is on the altar.
 
-[9] Its entrails and its legs he shall wash with water; and the priest shall turn all of it into smoke on the altar, as a burnt offering, an offering made by fire, a pleasing aroma to Yahweh.
+[9] Its entrails and its legs he shall wash with water; and the priest shall turn all of it into smoke on the altar, as a burnt offering, an offering made by fire, a pleasing aroma to ⟦yhwh|Yahweh|the LORD⟧.
 
 [10] If his offering for a burnt offering is from the flock — from the sheep or from the goats — he shall bring a male without blemish.
 
-[11] He shall slaughter it on the north side of the altar before Yahweh; and the priests, Aaron's sons, shall throw its blood against the altar all around.
+[11] He shall slaughter it on the north side of the altar before ⟦yhwh|Yahweh|the LORD⟧; and the priests, ⟦aaron|Aharon's|Aaron's⟧ sons, shall throw its blood against the altar all around.
 
 [12] He shall cut it into its pieces, with its head and its fat; and the priest shall arrange them on the wood that is on the fire that is on the altar.
 
-[13] The entrails and the legs he shall wash with water; and the priest shall bring all of it and turn it into smoke on the altar. It is a burnt offering, an offering made by fire, a pleasing aroma to Yahweh.
+[13] The entrails and the legs he shall wash with water; and the priest shall bring all of it and turn it into smoke on the altar. It is a burnt offering, an offering made by fire, a pleasing aroma to ⟦yhwh|Yahweh|the LORD⟧.
 
-[14] If his offering to Yahweh is a burnt offering of birds, he shall bring his offering from turtledoves or from young pigeons.
+[14] If his offering to ⟦yhwh|Yahweh|the LORD⟧ is a burnt offering of birds, he shall bring his offering from turtledoves or from young pigeons.
 
 [15] The priest shall bring it to the altar, wring off its head, and turn it into smoke on the altar; and its blood shall be drained against the side of the altar.
 
 [16] He shall remove its crop with its feathers, and cast it beside the altar on the east side, at the place of the ashes.
 
-[17] He shall tear it open by its wings, but not sever it; and the priest shall turn it into smoke on the altar, on the wood that is on the fire. It is a burnt offering, an offering made by fire, a pleasing aroma to Yahweh.'"
+[17] He shall tear it open by its wings, but not sever it; and the priest shall turn it into smoke on the altar, on the wood that is on the fire. It is a burnt offering, an offering made by fire, a pleasing aroma to ⟦yhwh|Yahweh|the LORD⟧.'"
 
 ## Changes
 

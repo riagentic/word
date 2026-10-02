@@ -1,6 +1,6 @@
 # Leviticus 21
 
-[1] Yahweh řekl Mosesovi: „Mluv ke kněžím, Aaronovým synům, a řekni jim: ‚Nikdo z vás se nebude poskvrňovat kvůli mrtvému mezi svými příbuznými,
+[1] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Mluv ke kněžím, ⟦aaron|Aharonovým|Áronovým⟧ synům, a řekni jim: ‚Nikdo z vás se nebude poskvrňovat kvůli mrtvému mezi svými příbuznými,
 
 [2] leda kvůli blízkým příbuzným, kteří jsou mu nejbližší – kvůli své matce, svému otci, svému synovi, své dceři, svému bratrovi
 
@@ -10,11 +10,11 @@
 
 [5] Nebudou si dělat lysiny na hlavě, nebudou si holit okraj vousů a nebudou si dělat zářezy na těle.
 
-[6] Budou svatí svému *Elohim* a nebudou znesvěcovat jméno svého *Elohim*; neboť přinášejí ohnivé oběti Yahweh, chléb svého *Elohim*; proto budou svatí.
+[6] Budou svatí svému ⟦elohim|Elohim|Bohu⟧ a nebudou znesvěcovat jméno svého ⟦elohim|Elohim|Boha⟧; neboť přinášejí ohnivé oběti ⟦yhwh|Jahveho|Hospodina⟧, chléb svého ⟦elohim|Elohim|Boha⟧; proto budou svatí.
 
-[7] Nevezmou si ženu, která je prostitutkou nebo je znesvěcená, ani si nevezmou ženu zapuzenou jejím mužem; neboť kněz je svatý svému *Elohim*.
+[7] Nevezmou si ženu, která je prostitutkou nebo je znesvěcená, ani si nevezmou ženu zapuzenou jejím mužem; neboť kněz je svatý svému ⟦elohim|Elohim|Bohu⟧.
 
-[8] Proto ho budeš mít za svatého, neboť přináší chléb tvého *Elohim*; bude ti svatý, neboť já, Yahweh, který vás posvěcuji, jsem svatý.
+[8] Proto ho budeš mít za svatého, neboť přináší chléb tvého ⟦elohim|Elohim|Boha⟧; bude ti svatý, neboť já, ⟦yhwh|Jahve|Hospodin⟧, který vás posvěcuji, jsem svatý.
 
 [9] Jestliže se dcera kteréhokoli kněze znesvětí prostitucí, znesvěcuje svého otce; bude spálena ohněm.
 
@@ -22,17 +22,17 @@
 
 [11] Nepřiblíží se k žádnému mrtvému tělu a nebude se poskvrňovat ani kvůli svému otci nebo své matce;
 
-[12] nevyjde ze svatyně a neznesvětí svatyni svého *Elohim*; neboť je na něm zasvěcení olejem pomazání jeho *Elohim*. Já jsem Yahweh.
+[12] nevyjde ze svatyně a neznesvětí svatyni svého ⟦elohim|Elohim|Boha⟧; neboť je na něm zasvěcení olejem pomazání jeho ⟦elohim|Elohim|Boha⟧. Já jsem ⟦yhwh|Jahve|Hospodin⟧.
 
 [13] Vezme si za ženu pannu.
 
 [14] Vdovu, zapuzenou ženu, znesvěcenou ženu ani prostitutku – ty si nevezme; ale za ženu si vezme pannu ze svého lidu.
 
-[15] Nebude znesvěcovat své potomstvo mezi svým lidem; neboť já jsem Yahweh, který ho posvěcuje.‘“
+[15] Nebude znesvěcovat své potomstvo mezi svým lidem; neboť já jsem ⟦yhwh|Jahve|Hospodin⟧, který ho posvěcuje.‘“
 
-[16] Yahweh promluvil k Mosesovi:
+[16] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[17] „Mluv k Aaronovi a řekni: ‚Kdokoli z tvého potomstva po všechna jejich pokolení, kdo má vadu, nepřistoupí, aby přinášel chléb svého *Elohim*.
+[17] „Mluv k ⟦aaron|Aharonovi|Áronovi⟧ a řekni: ‚Kdokoli z tvého potomstva po všechna jejich pokolení, kdo má vadu, nepřistoupí, aby přinášel chléb svého ⟦elohim|Elohim|Boha⟧.
 
 [18] Nepřistoupí totiž nikdo, kdo má vadu: slepý nebo chromý nebo ten, kdo má znetvořený obličej, nebo příliš dlouhou končetinu;
 
@@ -40,13 +40,13 @@
 
 [20] ani hrbatý nebo trpaslík nebo ten, kdo má vadu na oku, svědivou vyrážku nebo strupy, nebo rozdrcená varlata.
 
-[21] Žádný muž z potomstva kněze Aarona, který má vadu, nepřistoupí, aby přinášel ohnivé oběti Yahweh; má vadu; nepřistoupí, aby přinášel chléb svého *Elohim*.
+[21] Žádný muž z potomstva kněze ⟦aaron|Aharona|Árona⟧, který má vadu, nepřistoupí, aby přinášel ohnivé oběti ⟦yhwh|Jahveho|Hospodina⟧; má vadu; nepřistoupí, aby přinášel chléb svého ⟦elohim|Elohim|Boha⟧.
 
-[22] Smí jíst chléb svého *Elohim* – z velesvatých i ze svatých věcí.
+[22] Smí jíst chléb svého ⟦elohim|Elohim|Boha⟧ – z velesvatých i ze svatých věcí.
 
-[23] K oponě však nepřijde a k oltáři nepřistoupí, protože má vadu, aby neznesvětil mé svatyně; neboť já jsem Yahweh, který je posvěcuje.‘“
+[23] K oponě však nepřijde a k oltáři nepřistoupí, protože má vadu, aby neznesvětil mé svatyně; neboť já jsem ⟦yhwh|Jahve|Hospodin⟧, který je posvěcuje.‘“
 
-[24] A Moses to řekl Aaronovi, jeho synům a všem synům Israele.
+[24] A ⟦moses|Moše|Mojžíš⟧ to řekl ⟦aaron|Aharonovi|Áronovi⟧, jeho synům a všem synům ⟦israel|Jisraele|Izraele⟧.
 
 ## Změny
 

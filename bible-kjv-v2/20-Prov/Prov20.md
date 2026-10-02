@@ -28,13 +28,13 @@ winnows all evil with his eyes.
 I am clean from my sin"?
 
 [10] Unequal weights and unequal measures
-are both alike an abomination to Yahweh.
+are both alike an abomination to ⟦yhwh|Yahweh|the LORD⟧.
 
 [11] Even a child makes himself known by his acts,
 by whether his conduct is pure and upright.
 
 [12] The hearing ear and the seeing eye,
-Yahweh has made them both.
+⟦yhwh|Yahweh|the LORD⟧ has made them both.
 
 [13] Love not sleep, lest you come to poverty;
 open your eyes, and you will have plenty of bread.
@@ -64,12 +64,12 @@ his lamp will be put out in utter darkness.
 will not be blessed in the end.
 
 [22] Do not say, "I will repay evil";
-wait for Yahweh, and he will deliver you.
+wait for ⟦yhwh|Yahweh|the LORD⟧, and he will deliver you.
 
-[23] Unequal weights are an abomination to Yahweh,
+[23] Unequal weights are an abomination to ⟦yhwh|Yahweh|the LORD⟧,
 and false scales are not good.
 
-[24] A man's steps are from Yahweh;
+[24] A man's steps are from ⟦yhwh|Yahweh|the LORD⟧;
 how then can man understand his way?
 
 [25] It is a snare to say rashly, "It is holy,"
@@ -78,7 +78,7 @@ and to reflect only after making vows.
 [26] A wise king winnows the wicked
 and drives the wheel over them.
 
-[27] The nishmat adam — breath of man — is the lamp of Yahweh,
+[27] The ⟦nishmat-adam|nishmat adam — breath of man —|spirit of man⟧ is the lamp of ⟦yhwh|Yahweh|the LORD⟧,
 searching all his innermost parts.
 
 [28] Steadfast love and faithfulness preserve the king,

@@ -1,74 +1,74 @@
 # Genesis 29
 
-[1] Jacob zvedl nohy a šel svou cestou do země synů východu.
+[1] ⟦jacob|Jaakov|Jákob⟧ zvedl nohy a šel svou cestou do země synů východu.
 
 [2] Rozhlédl se, a hle, na poli byla studna, a hle, u ní ležela tři stáda ovcí, neboť z té studny napájeli stáda. A na otvoru studny ležel veliký kámen.
 
 [3] Když se tam shromáždila všechna stáda, odvalovali kámen z otvoru studny a napájeli ovce, a pak kámen vraceli na jeho místo na otvor studny.
 
-[4] Jacob jim řekl: „Moji bratři, odkud jste?“ Řekli: „Jsme z Haranu.“
+[4] ⟦jacob|Jaakov|Jákob⟧ jim řekl: „Moji bratři, odkud jste?“ Řekli: „Jsme z ⟦haran-city|Charanu|Cháranu⟧.“
 
-[5] Řekl jim: „Znáte Labana, syna Nahorova?“ Řekli: „Známe ho.“
+[5] Řekl jim: „Znáte ⟦laban|Lavana|Lábana⟧, syna ⟦nahor|Nachorova|Náchorova⟧?“ Řekli: „Známe ho.“
 
-[6] Řekl jim: „Daří se mu dobře?“ Řekli: „Dobře; a hle, jeho dcera Rachel přichází s ovcemi.“
+[6] Řekl jim: „Daří se mu dobře?“ Řekli: „Dobře; a hle, jeho dcera ⟦rachel|Rachel|Ráchel⟧ přichází s ovcemi.“
 
 [7] Řekl: „Podívejte, den je ještě vysoko; není čas shánět dobytek dohromady. Napojte ovce a jděte, paste je.“
 
 [8] Řekli: „Nemůžeme, dokud se neshromáždí všechna stáda a neodvalí kámen z otvoru studny; pak napojíme ovce.“
 
-[9] Ještě s nimi mluvil, když přišla Rachel s ovcemi svého otce, neboť byla pastýřka.
+[9] Ještě s nimi mluvil, když přišla ⟦rachel|Rachel|Ráchel⟧ s ovcemi svého otce, neboť byla pastýřka.
 
-[10] Když Jacob uviděl Rachel, dceru Labana, bratra své matky, a ovce Labana, bratra své matky, přistoupil Jacob, odvalil kámen z otvoru studny a napojil stádo Labana, bratra své matky.
+[10] Když ⟦jacob|Jaakov|Jákob⟧ uviděl ⟦rachel|Rachel|Ráchel⟧, dceru ⟦laban|Lavana|Lábana⟧, bratra své matky, a ovce ⟦laban|Lavana|Lábana⟧, bratra své matky, přistoupil ⟦jacob|Jaakov|Jákob⟧, odvalil kámen z otvoru studny a napojil stádo ⟦laban|Lavana|Lábana⟧, bratra své matky.
 
-[11] Potom Jacob políbil Rachel, pozvedl hlas a plakal.
+[11] Potom ⟦jacob|Jaakov|Jákob⟧ políbil ⟦rachel|Rachel|Ráchel⟧, pozvedl hlas a plakal.
 
-[12] Jacob řekl Rachel, že je příbuzný jejího otce a že je synem Rebekah; a ona běžela a řekla to svému otci.
+[12] ⟦jacob|Jaakov|Jákob⟧ řekl ⟦rachel|Rachel|Ráchel⟧, že je příbuzný jejího otce a že je synem ⟦rebekah|Rivky|Rebeky⟧; a ona běžela a řekla to svému otci.
 
-[13] Když Laban uslyšel zprávu o Jacobovi, synu své sestry, běžel mu naproti, objal ho, políbil ho a přivedl ho do svého domu. A Jacob vyprávěl Labanovi všechny tyto věci.
+[13] Když ⟦laban|Lavan|Lában⟧ uslyšel zprávu o ⟦jacob|Jaakovovi|Jákobovi⟧, synu své sestry, běžel mu naproti, objal ho, políbil ho a přivedl ho do svého domu. A ⟦jacob|Jaakov|Jákob⟧ vyprávěl ⟦laban|Lavanovi|Lábanovi⟧ všechny tyto věci.
 
-[14] Laban mu řekl: „Jistě jsi má kost a mé tělo.“ A zůstal u něho celý měsíc.
+[14] ⟦laban|Lavan|Lában⟧ mu řekl: „Jistě jsi má kost a mé tělo.“ A zůstal u něho celý měsíc.
 
-[15] Potom Laban řekl Jacobovi: „Máš mi snad sloužit zadarmo, protože jsi můj příbuzný? Pověz mi, jaká má být tvá mzda?“
+[15] Potom ⟦laban|Lavan|Lában⟧ řekl ⟦jacob|Jaakovovi|Jákobovi⟧: „Máš mi snad sloužit zadarmo, protože jsi můj příbuzný? Pověz mi, jaká má být tvá mzda?“
 
-[16] Laban měl dvě dcery; starší se jmenovala Leah a mladší se jmenovala Rachel.
+[16] ⟦laban|Lavan|Lában⟧ měl dvě dcery; starší se jmenovala Lea a mladší se jmenovala ⟦rachel|Rachel|Ráchel⟧.
 
-[17] Leah měla slabé oči; ale Rachel byla urostlá a krásná.
+[17] Lea měla slabé oči; ale ⟦rachel|Rachel|Ráchel⟧ byla urostlá a krásná.
 
-[18] Jacob miloval Rachel a řekl: „Budu ti sloužit sedm let za Rachel, tvou mladší dceru.“
+[18] ⟦jacob|Jaakov|Jákob⟧ miloval ⟦rachel|Rachel|Ráchel⟧ a řekl: „Budu ti sloužit sedm let za ⟦rachel|Rachel|Ráchel⟧, tvou mladší dceru.“
 
-[19] Laban řekl: „Je lepší, abych ji dal tobě, než abych ji dal jinému muži; zůstaň u mne.“
+[19] ⟦laban|Lavan|Lában⟧ řekl: „Je lepší, abych ji dal tobě, než abych ji dal jinému muži; zůstaň u mne.“
 
-[20] Jacob tedy sloužil za Rachel sedm let, a zdálo se mu to jen jako několik dní pro jeho lásku k ní.
+[20] ⟦jacob|Jaakov|Jákob⟧ tedy sloužil za ⟦rachel|Rachel|Ráchel⟧ sedm let, a zdálo se mu to jen jako několik dní pro jeho lásku k ní.
 
-[21] Potom Jacob řekl Labanovi: „Dej mi mou ženu, neboť mé dny se naplnily, ať k ní vejdu.“
+[21] Potom ⟦jacob|Jaakov|Jákob⟧ řekl ⟦laban|Lavanovi|Lábanovi⟧: „Dej mi mou ženu, neboť mé dny se naplnily, ať k ní vejdu.“
 
-[22] Laban tedy shromáždil všechny muže toho místa a připravil hostinu.
+[22] ⟦laban|Lavan|Lában⟧ tedy shromáždil všechny muže toho místa a připravil hostinu.
 
-[23] A večer vzal svou dceru Leah a přivedl ji k němu; a on k ní vešel.
+[23] A večer vzal svou dceru Leu a přivedl ji k němu; a on k ní vešel.
 
-[24] (A Laban dal svou otrokyni Zilpah své dceři Leah za otrokyni.)
+[24] (A ⟦laban|Lavan|Lában⟧ dal svou otrokyni Zilpu své dceři Lee za otrokyni.)
 
-[25] Když nastalo ráno, hle, byla to Leah! Řekl Labanovi: „Co jsi mi to udělal? Což jsem u tebe nesloužil za Rachel? Proč jsi mě tedy oklamal?“
+[25] Když nastalo ráno, hle, byla to Lea! Řekl ⟦laban|Lavanovi|Lábanovi⟧: „Co jsi mi to udělal? Což jsem u tebe nesloužil za ⟦rachel|Rachel|Ráchel⟧? Proč jsi mě tedy oklamal?“
 
-[26] Laban řekl: „U nás se to tak nedělá, dávat mladší před prvorozenou.
+[26] ⟦laban|Lavan|Lában⟧ řekl: „U nás se to tak nedělá, dávat mladší před prvorozenou.
 
 [27] Dokonči svatební týden s touto a dáme ti i tu druhou za službu, kterou u mne budeš sloužit ještě dalších sedm let.“
 
-[28] Jacob tak učinil a dokončil její týden; a on mu dal svou dceru Rachel za ženu.
+[28] ⟦jacob|Jaakov|Jákob⟧ tak učinil a dokončil její týden; a on mu dal svou dceru ⟦rachel|Rachel|Ráchel⟧ za ženu.
 
-[29] (A Laban dal svou otrokyni Bilhah své dceři Rachel, aby byla její otrokyní.)
+[29] (A ⟦laban|Lavan|Lában⟧ dal svou otrokyni Bilhu své dceři ⟦rachel|Rachel|Ráchel⟧, aby byla její otrokyní.)
 
-[30] Vešel tedy i k Rachel a miloval Rachel víc než Leah, a sloužil u něho dalších sedm let.
+[30] Vešel tedy i k ⟦rachel|Rachel|Ráchel⟧ a miloval ⟦rachel|Rachel|Ráchel⟧ víc než Leu, a sloužil u něho dalších sedm let.
 
-[31] Když Yahweh viděl, že Leah je nemilovaná, otevřel její lůno; ale Rachel byla neplodná.
+[31] Když ⟦yhwh|Jahve|Hospodin⟧ viděl, že Lea je nemilovaná, otevřel její lůno; ale ⟦rachel|Rachel|Ráchel⟧ byla neplodná.
 
-[32] Leah počala a porodila syna a dala mu jméno Reuben, neboť řekla: „Yahweh viděl mé trápení; nyní mě můj muž bude milovat.“
+[32] Lea počala a porodila syna a dala mu jméno ⟦reuben|Reuven|Rúben⟧, neboť řekla: „⟦yhwh|Jahve|Hospodin⟧ viděl mé trápení; nyní mě můj muž bude milovat.“
 
-[33] Znovu počala a porodila syna a řekla: „Protože Yahweh slyšel, že jsem nemilovaná, dal mi i tohoto.“ Dala mu tedy jméno Simeon.
+[33] Znovu počala a porodila syna a řekla: „Protože ⟦yhwh|Jahve|Hospodin⟧ slyšel, že jsem nemilovaná, dal mi i tohoto.“ Dala mu tedy jméno ⟦simeon|Šimon|Šimeón⟧.
 
-[34] Znovu počala a porodila syna a řekla: „Nyní se ke mně tentokrát můj muž připojí, protože jsem mu porodila tři syny.“ Proto dostal jméno Levi.
+[34] Znovu počala a porodila syna a řekla: „Nyní se ke mně tentokrát můj muž připojí, protože jsem mu porodila tři syny.“ Proto dostal jméno ⟦levi|Levi|Lévi⟧.
 
-[35] Znovu počala a porodila syna a řekla: „Tentokrát budu chválit Yahweh.“ Proto mu dala jméno Judah. Potom přestala rodit.
+[35] Znovu počala a porodila syna a řekla: „Tentokrát budu chválit ⟦yhwh|Jahveho|Hospodina⟧.“ Proto mu dala jméno ⟦judah|Jehuda|Juda⟧. Potom přestala rodit.
 
 ## Změny
 

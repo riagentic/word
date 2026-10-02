@@ -10,7 +10,7 @@
 
 [5] A šelmě byla dána ústa, která mluvila povýšená a rouhavá slova, a bylo jí dovoleno vykonávat vládu čtyřicet dva měsíce.
 
-[6] Otevřela svá ústa k rouhání proti *Elohim* a rouhala se jeho jménu a jeho příbytku, totiž těm, kdo přebývají v nebi.
+[6] Otevřela svá ústa k rouhání proti ⟦elohim|Elohim|Bohu⟧ a rouhala se jeho jménu a jeho příbytku, totiž těm, kdo přebývají v nebi.
 
 [7] Bylo jí také dovoleno vést válku se svatými a přemoci je. A byla jí dána vláda nad každým kmenem a lidem a jazykem a národem,
 

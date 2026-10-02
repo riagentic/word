@@ -1,29 +1,29 @@
 # Jeremiah 2
 
-[1] The word of Yahweh came to me, saying,
+[1] The word of ⟦yhwh|Yahweh|the LORD⟧ came to me, saying,
 
-[2] "Go and proclaim in the hearing of Jerusalem, Thus says Yahweh:
+[2] "Go and proclaim in the hearing of ⟦jerusalem|Yerushalayim|Jerusalem⟧, Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
 "I remember the steadfast love of your youth,
 your love as a bride,
 how you followed me in the wilderness,
 in a land not sown.
 
-[3] Israel was holy to Yahweh,
+[3] ⟦israel|Yisrael|Israel⟧ was holy to ⟦yhwh|Yahweh|the LORD⟧,
 the firstfruits of his harvest.
 All who ate of it incurred guilt;
 disaster came upon them,
-declares Yahweh."
+declares ⟦yhwh|Yahweh|the LORD⟧."
 
-[4] Hear the word of Yahweh, O house of Jacob, and all the clans of the house of Israel.
+[4] Hear the word of ⟦yhwh|Yahweh|the LORD⟧, O house of ⟦jacob|Yaaqov|Jacob⟧, and all the clans of the house of ⟦israel|Yisrael|Israel⟧.
 
-[5] Thus says Yahweh:
+[5] Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
 "What wrong did your fathers find in me
 that they went far from me,
 and went after worthlessness and became worthless?
 
-[6] They did not say, 'Where is Yahweh who brought us up from the land of Egypt,
+[6] They did not say, 'Where is ⟦yhwh|Yahweh|the LORD⟧ who brought us up from the land of ⟦egypt|Mitzrayim|Egypt⟧,
 who led us in the wilderness,
 in a land of deserts and pits,
 in a land of drought and deep darkness,
@@ -35,17 +35,17 @@ to enjoy its fruits and its good things.
 But when you came in, you defiled my land
 and made my heritage an abomination.
 
-[8] The priests did not say, 'Where is Yahweh?'
-Those who handle the Law did not know me;
+[8] The priests did not say, 'Where is ⟦yhwh|Yahweh|the LORD⟧?'
+Those who handle the ⟦torah|Torah|law⟧ did not know me;
 the shepherds transgressed against me;
 the prophets prophesied by Baal
 and went after things that do not profit.
 
-[9] Therefore I still contend with you, declares Yahweh,
+[9] Therefore I still contend with you, declares ⟦yhwh|Yahweh|the LORD⟧,
 and with your children's children I will contend.
 
 [10] For cross to the coasts of Kittim and see,
-or send to Qedar and examine with care;
+or send to ⟦kedar|Qedar|Kedar⟧ and examine with care;
 see if there has been such a thing.
 
 [11] Has a nation changed its gods,
@@ -54,7 +54,7 @@ But my people have changed their glory
 for that which does not profit.
 
 [12] Be appalled, O heavens, at this;
-be shocked, be utterly desolate, declares Yahweh,
+be shocked, be utterly desolate, declares ⟦yhwh|Yahweh|the LORD⟧,
 
 [13] for my people have committed two evils:
 they have forsaken me,
@@ -62,7 +62,7 @@ the fountain of living waters,
 and hewed out cisterns for themselves,
 broken cisterns that can hold no water.
 
-[14] Is Israel a slave? Is he a homeborn servant?
+[14] Is ⟦israel|Yisrael|Israel⟧ a slave? Is he a homeborn servant?
 Why then has he become a prey?
 
 [15] The young lions have roared against him;
@@ -70,24 +70,24 @@ they have roared loudly.
 They have made his land a waste;
 his cities are in ruins, without inhabitant.
 
-[16] Moreover, the men of Memphis and Tahpanhes
+[16] Moreover, the men of ⟦memphis|Nof|Memphis⟧ and ⟦tahpanhes|Tachpanches|Tahpanhes⟧
 have shaved the crown of your head.
 
 [17] Have you not brought this upon yourself
-by forsaking Yahweh your *Elohim*,
+by forsaking ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧,
 when he led you in the way?
 
-[18] And now what do you gain by going to Egypt
-to drink the waters of the Nile?
-Or what do you gain by going to Assyria
-to drink the waters of the Euphrates?
+[18] And now what do you gain by going to ⟦egypt|Mitzrayim|Egypt⟧
+to drink the waters of the ⟦shihor-nile|Shichor|Nile⟧?
+Or what do you gain by going to ⟦assyria|Ashur|Assyria⟧
+to drink the waters of the ⟦euphrates|Perat|Euphrates⟧?
 
 [19] Your evil will chastise you,
 and your apostasy will reprove you.
 Know and see that it is evil and bitter
-for you to forsake Yahweh your *Elohim*;
+for you to forsake ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧;
 the fear of me is not in you,
-declares Lord Yahweh of Hosts.
+declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧ of Hosts.
 
 [20] For long ago I broke your yoke
 and burst your bonds;
@@ -104,7 +104,7 @@ and become a wild vine?
 [22] Though you wash yourself with lye
 and use much soap,
 the stain of your guilt is still before me,
-declares Lord Yahweh.
+declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.
 
 [23] How can you say, 'I am not defiled,
 I have not gone after the Baals'?
@@ -125,7 +125,7 @@ for I have loved foreigners,
 and after them I will go.'
 
 [26] As a thief is shamed when caught,
-so the house of Israel shall be shamed:
+so the house of ⟦israel|Yisrael|Israel⟧ shall be shamed:
 they, their kings, their officials,
 their priests, and their prophets,
 
@@ -140,19 +140,19 @@ But in the time of their trouble they say,
 Let them arise, if they can save you,
 in your time of trouble;
 for as many as your cities
-are your gods, O Judah.
+are your gods, O ⟦judah|Yehudah|Judah⟧.
 
 [29] Why do you contend with me?
 You have all transgressed against me,
-declares Yahweh.
+declares ⟦yhwh|Yahweh|the LORD⟧.
 
 [30] In vain have I struck your children;
 they took no correction;
 your own sword devoured your prophets
 like a ravening lion.
 
-[31] And you, O generation, behold the word of Yahweh.
-Have I been a wilderness to Israel,
+[31] And you, O generation, behold the word of ⟦yhwh|Yahweh|the LORD⟧.
+Have I been a wilderness to ⟦israel|Yisrael|Israel⟧,
 or a land of thick darkness?
 Why then do my people say, 'We are free,
 we will come no more to you'?
@@ -179,12 +179,12 @@ for saying, 'I have not sinned.'
 
 [36] How much you go about,
 changing your way!
-You shall be put to shame by Egypt
-as you were put to shame by Assyria.
+You shall be put to shame by ⟦egypt|Mitzrayim|Egypt⟧
+as you were put to shame by ⟦assyria|Ashur|Assyria⟧.
 
 [37] From it too you will come away
 with your hands on your head,
-for Yahweh has rejected those in whom you trust,
+for ⟦yhwh|Yahweh|the LORD⟧ has rejected those in whom you trust,
 and you will not prosper by them."
 
 ## Changes

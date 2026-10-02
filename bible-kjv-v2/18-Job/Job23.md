@@ -1,6 +1,6 @@
 # Job 23
 
-[1] Then Job answered and said:
+[1] Then ⟦job|Iyov|Job⟧ answered and said:
 
 [2] "Even today my complaint is bitter;
 his hand is heavy despite my groaning.
@@ -44,14 +44,15 @@ and many such things are with him.
 [15] Therefore I am terrified before his face;
 when I consider, I am afraid of him.
 
-[16] For *Elohim* has made my heart faint;
-Shaddai has terrified me —
+[16] For ⟦el|El|God⟧ has made my heart faint;
+⟦shaddai|Shaddai|The Almighty⟧ has terrified me —
 
 [17] yet I am not silenced by the darkness,
 nor by the thick gloom that covers my face."
 
 ## Changes
 
+- **"God" → "El"** (v16) — Hebrew אֵל *El*, not *Elohim*.
 - **"my necessary food" → "my portion"** (v12) — Hebrew *mei-chuqqi*; "from my allotted portion."
 - **"in one mind" → "stands alone"** (v13) — *hu be-echad*; singular, unparalleled.
 - **"I was not cut off before the darkness" → "I am not silenced by the darkness"** (v17) — Hebrew ambiguous; modern reading: Job persists in speech despite terror.

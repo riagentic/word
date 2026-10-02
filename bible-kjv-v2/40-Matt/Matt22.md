@@ -1,6 +1,6 @@
 # Matthew 22
 
-[1] And again *Yeshua* spoke to them in parables, saying,
+[1] And again ⟦yeshua|Yeshua|Jesus⟧ spoke to them in parables, saying,
 
 [2] "The kingdom of heaven may be compared to a king who gave a wedding feast for his son,
 
@@ -28,25 +28,25 @@
 
 [14] For many are called, but few are chosen."
 
-[15] Then the Pharisees went and plotted how to entangle him in his words.
+[15] Then the ⟦pharisees|Perushim|Pharisees⟧ went and plotted how to entangle him in his words.
 
-[16] And they sent their disciples to him, along with the Herodians, saying, "Teacher, we know that you are true and teach the way of *Elohim* truthfully, and you do not care about anyone's opinion, for you are not swayed by appearances.
+[16] And they sent their disciples to him, along with the ⟦herodians|Herodianoi|Herodians⟧, saying, "Teacher, we know that you are true and teach the way of ⟦elohim|Elohim|God⟧ truthfully, and you do not care about anyone's opinion, for you are not swayed by appearances.
 
 [17] Tell us, then, what you think. Is it lawful to pay taxes to Caesar, or not?"
 
-[18] But *Yeshua*, aware of their malice, said, "Why put me to the test, you hypocrites?
+[18] But ⟦yeshua|Yeshua|Jesus⟧, aware of their malice, said, "Why put me to the test, you hypocrites?
 
 [19] Show me the coin for the tax." And they brought him a denarius.
 
-[20] And *Yeshua* said to them, "Whose likeness and inscription is this?"
+[20] And ⟦yeshua|Yeshua|Jesus⟧ said to them, "Whose likeness and inscription is this?"
 
-[21] They said, "Caesar's." Then he said to them, "**Therefore render to Caesar the things that are Caesar's, and to *Elohim* the things that are *Elohim*'s.**"
+[21] They said, "Caesar's." Then he said to them, "**Therefore render to Caesar the things that are Caesar's, and to ⟦elohim|Elohim|God⟧ the things that are ⟦elohim|Elohim|God⟧'s.**"
 
 [22] When they heard it, they marveled. And they left him and went away.
 
-[23] The same day Sadducees came to him, who say that there is no resurrection, and they asked him a question,
+[23] The same day ⟦sadducees|Tzedukim|Sadducees⟧ came to him, who say that there is no resurrection, and they asked him a question,
 
-[24] saying, "Teacher, Moses said, 'If a man dies having no children, his brother must marry the widow and raise up offspring for his brother.'
+[24] saying, "Teacher, ⟦moses|Moshe|Moses⟧ said, 'If a man dies having no children, his brother must marry the widow and raise up offspring for his brother.'
 
 [25] Now there were seven brothers among us. The first married and died, and having no offspring left his wife to his brother.
 
@@ -56,37 +56,37 @@
 
 [28] In the resurrection, therefore, of the seven, whose wife will she be? For they all had her."
 
-[29] But *Yeshua* answered them, "You are wrong, because you know neither the Scriptures nor the power of *Elohim*.
+[29] But ⟦yeshua|Yeshua|Jesus⟧ answered them, "You are wrong, because you know neither the Scriptures nor the power of ⟦elohim|Elohim|God⟧.
 
 [30] For in the resurrection they neither marry nor are given in marriage, but are like angels in heaven.
 
-[31] And as for the resurrection of the dead, have you not read what was said to you by *Elohim*:
+[31] And as for the resurrection of the dead, have you not read what was said to you by ⟦elohim|Elohim|God⟧:
 
-[32] '**I am the *Elohim* of Abraham, and the *Elohim* of Isaac, and the *Elohim* of Jacob**'? He is not *Elohim* of the dead, but of the living."
+[32] '**I am the ⟦elohim|Elohim|God⟧ of ⟦abraham|Avraham|Abraham⟧, and the ⟦elohim|Elohim|God⟧ of ⟦isaac|Yitzchaq|Isaac⟧, and the ⟦elohim|Elohim|God⟧ of ⟦jacob|Yaaqov|Jacob⟧**'? He is not ⟦elohim|Elohim|God⟧ of the dead, but of the living."
 
 [33] And when the crowd heard it, they were astonished at his teaching.
 
-[34] But when the Pharisees heard that he had silenced the Sadducees, they gathered together.
+[34] But when the ⟦pharisees|Perushim|Pharisees⟧ heard that he had silenced the ⟦sadducees|Tzedukim|Sadducees⟧, they gathered together.
 
 [35] And one of them, a lawyer, asked him a question to test him.
 
-[36] "Teacher, which is the great commandment in the Law?"
+[36] "Teacher, which is the great commandment in the ⟦torah|Torah|Law⟧?"
 
-[37] And he said to him, "**You shall love the Lord your *Elohim* with all your heart and with all your soul and with all your mind.**
+[37] And he said to him, "**You shall love ⟦yhwh|Yahweh|the Lord⟧ your ⟦elohim|Elohim|God⟧ with all your heart and with all your soul and with all your mind.**
 
 [38] This is the great and first commandment.
 
 [39] And a second is like it: **You shall love your neighbor as yourself.**
 
-[40] On these two commandments depend all the Law and the Prophets."
+[40] On these two commandments depend all the ⟦torah|Torah|Law⟧ and the Prophets."
 
-[41] Now while the Pharisees were gathered together, *Yeshua* asked them a question,
+[41] Now while the ⟦pharisees|Perushim|Pharisees⟧ were gathered together, ⟦yeshua|Yeshua|Jesus⟧ asked them a question,
 
-[42] saying, "What do you think about the *Mashiach*? Whose son is he?" They said to him, "The son of David."
+[42] saying, "What do you think about the ⟦mashiach|Mashiach|Christ⟧? Whose son is he?" They said to him, "The son of David."
 
 [43] He said to them, "How is it then that David, in the Spirit, calls him Lord, saying,
 
-[44] "'The Lord said to my Lord,
+[44] "'⟦yhwh|Yahweh|The Lord⟧ said to my Lord,
 Sit at my right hand,
 until I put your enemies under your feet'?
 

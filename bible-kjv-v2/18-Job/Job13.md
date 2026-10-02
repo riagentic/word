@@ -6,8 +6,8 @@ my ear has heard and understood.
 [2] What you know, I also know;
 I am not inferior to you.
 
-[3] But I would speak to Shaddai;
-I desire to argue my case with El.
+[3] But I would speak to ⟦shaddai|Shaddai|the Almighty⟧;
+I desire to argue my case with ⟦el|El|God⟧.
 
 [4] But you plaster lies;
 you are all worthless physicians.
@@ -18,11 +18,11 @@ That would be your wisdom.
 [6] Hear now my argument;
 listen to the pleadings of my lips.
 
-[7] Will you speak falsely for El?
+[7] Will you speak falsely for ⟦el|El|God⟧?
 Will you speak deceitfully for him?
 
 [8] Will you show partiality toward him?
-Will you plead the case for El?
+Will you plead the case for ⟦el|El|God⟧?
 
 [9] Will it be good when he examines you?
 Can you deceive him as one deceives a man?

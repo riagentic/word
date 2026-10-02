@@ -6,7 +6,7 @@
 
 [3] Z toho dýmu vyšly na zemi kobylky a byla jim dána moc, jakou mají pozemští štíři.
 
-[4] Bylo jim řečeno, aby neškodily trávě země ani žádné zelené rostlině ani žádnému stromu, ale jen těm lidem, kteří nemají na čelech pečeť *Elohim*.
+[4] Bylo jim řečeno, aby neškodily trávě země ani žádné zelené rostlině ani žádnému stromu, ale jen těm lidem, kteří nemají na čelech pečeť ⟦elohim|Elohim|Boží⟧.
 
 [5] Bylo jim dovoleno trýznit je po pět měsíců, ale nezabíjet, a jejich trýzeň byla jako trýzeň od štíra, když bodne člověka.
 
@@ -20,13 +20,13 @@
 
 [10] Mají ocasy a žihadla jako štíři a v jejich ocasech je jejich moc škodit lidem po pět měsíců.
 
-[11] Mají nad sebou za krále anděla propasti. Jeho jméno hebrejsky je **Abaddon** a řecky se jmenuje **Apollyon** (Zhoubce).
+[11] Mají nad sebou za krále anděla propasti. Jeho jméno hebrejsky je **⟦abaddon|Avaddon|Abaddon⟧** a řecky se jmenuje **⟦apollyon|Apollyon|Apollyón⟧** (Zhoubce).
 
 [12] První běda pominulo; hle, ještě přicházejí dvě běda.
 
-[13] Potom šestý anděl zatroubil, a slyšel jsem hlas ze čtyř rohů zlatého oltáře před *Elohim*,
+[13] Potom šestý anděl zatroubil, a slyšel jsem hlas ze čtyř rohů zlatého oltáře před ⟦elohim|Elohim|Bohem⟧,
 
-[14] jak říká šestému andělu, který měl polnici: „Rozvaž ty čtyři anděly, kteří jsou svázáni u veliké řeky Euphrates.“
+[14] jak říká šestému andělu, který měl polnici: „Rozvaž ty čtyři anděly, kteří jsou svázáni u veliké řeky ⟦euphrates|Perat|Eufrat⟧.“
 
 [15] Tak byli rozvázáni ti čtyři andělé, připravení na tu hodinu, den, měsíc a rok, aby zabili třetinu lidstva.
 

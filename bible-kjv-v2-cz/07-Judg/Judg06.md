@@ -1,84 +1,84 @@
 # Soudců 6
 
-[1] Synové Israele činili to, co je zlé v očích Yahweh, a Yahweh je vydal na sedm let do ruky Midianu.
+[1] Synové ⟦israel|Jisraele|Izraele⟧ činili to, co je zlé v očích ⟦yhwh|Jahveho|Hospodina⟧, a ⟦yhwh|Jahve|Hospodin⟧ je vydal na sedm let do ruky ⟦midian|Midjanu|Midjánu⟧.
 
-[2] Ruka Midianu dolehla na Israel; kvůli Midianitům si synové Israele udělali úkryty, které jsou v horách, jeskyně a pevnosti.
+[2] Ruka ⟦midian|Midjanu|Midjánu⟧ dolehla na ⟦israel|Jisrael|Izrael⟧; kvůli ⟦midianites|Midjanim|Midjáncům⟧ si synové ⟦israel|Jisraele|Izraele⟧ udělali úkryty, které jsou v horách, jeskyně a pevnosti.
 
-[3] Kdykoli Israel zasel, přitáhli proti nim Midianité, Amalekité a synové východu;
+[3] Kdykoli ⟦israel|Jisrael|Izrael⟧ zasel, přitáhli proti nim ⟦midianites|Midjanim|Midjánci⟧, ⟦amalekites|Amalekim|Amalekovci⟧ a synové východu;
 
-[4] utábořili se proti nim a ničili úrodu země až ke Gaze a nenechávali v Israeli nic k obživě – ani ovci, ani býka, ani osla.
+[4] utábořili se proti nim a ničili úrodu země až ke ⟦gaza|Azze|Gaze⟧ a nenechávali v ⟦israel|Jisraeli|Izraeli⟧ nic k obživě – ani ovci, ani býka, ani osla.
 
 [5] Přitahovali se svými stády a svými stany; přicházeli početní jako kobylky – oni i jejich velbloudi byli nesčetní – a vtrhli do země, aby ji pustošili.
 
-[6] Israel byl kvůli Midianu velmi ponížen a synové Israele volali k Yahweh.
+[6] ⟦israel|Jisrael|Izrael⟧ byl kvůli ⟦midian|Midjanu|Midjánu⟧ velmi ponížen a synové ⟦israel|Jisraele|Izraele⟧ volali k ⟦yhwh|Jahvovi|Hospodinu⟧.
 
-[7] Když synové Israele volali k Yahweh kvůli Midianu,
+[7] Když synové ⟦israel|Jisraele|Izraele⟧ volali k ⟦yhwh|Jahvovi|Hospodinu⟧ kvůli ⟦midian|Midjanu|Midjánu⟧,
 
-[8] poslal Yahweh k synům Israele proroka, který jim řekl: „Tak praví Yahweh, *Elohim* Israele: ‚Vyvedl jsem vás z Egypta a vyvedl jsem vás z domu otroctví.
+[8] poslal ⟦yhwh|Jahve|Hospodin⟧ k synům ⟦israel|Jisraele|Izraele⟧ proroka, který jim řekl: „Tak praví ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧: ‚Vyvedl jsem vás z ⟦egypt|Micrajim|Egypta⟧ a vyvedl jsem vás z domu otroctví.
 
-[9] Vysvobodil jsem vás z ruky Egypťanů a z ruky všech, kdo vás utlačovali; vyhnal jsem je před vámi a dal jsem vám jejich zemi.
+[9] Vysvobodil jsem vás z ruky ⟦egyptians|Micrim|Egypťanů⟧ a z ruky všech, kdo vás utlačovali; vyhnal jsem je před vámi a dal jsem vám jejich zemi.
 
-[10] Řekl jsem vám: „Já jsem Yahweh, váš *Elohim*. Nebojte se bohů Amoritů, v jejichž zemi bydlíte.“ Ale neposlechli jste mého hlasu.‘“
+[10] Řekl jsem vám: „Já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧. Nebojte se bohů ⟦amorites|Emorim|Emorejců⟧, v jejichž zemi bydlíte.“ Ale neposlechli jste mého hlasu.‘“
 
-[11] Posel Yahweh přišel a posadil se pod dubem v Ophrah, který patřil Abiezritovi Joashovi, zatímco jeho syn Gideon vytloukal pšenici v lisu na víno, aby ji ukryl před Midianity.
+[11] Posel ⟦yhwh|Jahveho|Hospodina⟧ přišel a posadil se pod dubem v Ofra, který patřil ⟦abiezrites|Aviezri|Abíezerovci⟧ ⟦joash|Joašovi|Jóašovi⟧, zatímco jeho syn ⟦gideon|Gidon|Gedeón⟧ vytloukal pšenici v lisu na víno, aby ji ukryl před ⟦midianites|Midjanim|Midjánci⟧.
 
-[12] Posel Yahweh se mu ukázal a řekl: „Yahweh je s tebou, udatný hrdino.“
+[12] Posel ⟦yhwh|Jahveho|Hospodina⟧ se mu ukázal a řekl: „⟦yhwh|Jahve|Hospodin⟧ je s tebou, udatný hrdino.“
 
-[13] Gideon mu řekl: „Prosím, můj pane, je-li Yahweh s námi, proč nás tohle všechno potkalo? Kde jsou všechny jeho divy, o nichž nám vyprávěli naši otcové: ‚Což nás Yahweh nevyvedl z Egypta?‘ Ale nyní nás Yahweh opustil a vydal nás do ruky Midianu.“
+[13] ⟦gideon|Gidon|Gedeón⟧ mu řekl: „Prosím, můj pane, je-li ⟦yhwh|Jahve|Hospodin⟧ s námi, proč nás tohle všechno potkalo? Kde jsou všechny jeho divy, o nichž nám vyprávěli naši otcové: ‚Což nás ⟦yhwh|Jahve|Hospodin⟧ nevyvedl z ⟦egypt|Micrajim|Egypta⟧?‘ Ale nyní nás ⟦yhwh|Jahve|Hospodin⟧ opustil a vydal nás do ruky ⟦midian|Midjanu|Midjánu⟧.“
 
-[14] Yahweh se k němu obrátil a řekl: „Jdi v této své síle a zachraň Israel z ruky Midianu. Cožpak jsem tě neposlal?“
+[14] ⟦yhwh|Jahve|Hospodin⟧ se k němu obrátil a řekl: „Jdi v této své síle a zachraň ⟦israel|Jisrael|Izrael⟧ z ruky ⟦midian|Midjanu|Midjánu⟧. Cožpak jsem tě neposlal?“
 
-[15] Řekl mu: „Prosím, můj pane, čím mám Israel zachránit? Hle, můj rod je nejslabší v Manasseh a já jsem nejmladší v domě svého otce.“
+[15] Řekl mu: „Prosím, ⟦adonai|Adonaji|Pane⟧, čím mám ⟦israel|Jisrael|Izrael⟧ zachránit? Hle, můj rod je nejslabší v ⟦manasseh|Menašovi|Manasesovi⟧ a já jsem nejmladší v domě svého otce.“
 
-[16] Yahweh mu řekl: „Protože já budu s tebou, pobiješ Midian jako jednoho muže.“
+[16] ⟦yhwh|Jahve|Hospodin⟧ mu řekl: „Protože já budu s tebou, pobiješ ⟦midian|Midjan|Midján⟧ jako jednoho muže.“
 
 [17] Řekl mu: „Jestliže jsem nyní nalezl přízeň v tvých očích, dej mi znamení, že jsi to ty, kdo se mnou mluví.
 
 [18] Prosím, neodcházej odtud, dokud k tobě nepřijdu a nepřinesu svůj dar a nepoložím jej před tebe.“ A řekl: „Zůstanu, dokud se nevrátíš.“
 
-[19] Gideon vešel a připravil kůzle a nekvašené chleby z éfy mouky. Maso dal do koše a vývar dal do hrnce, vynesl mu to pod dub a předložil.
+[19] ⟦gideon|Gidon|Gedeón⟧ vešel a připravil kůzle a nekvašené chleby z éfy mouky. Maso dal do koše a vývar dal do hrnce, vynesl mu to pod dub a předložil.
 
-[20] Posel *Elohim* mu řekl: „Vezmi maso a nekvašené chleby, polož je na tuto skálu a vývar vylij.“ A učinil tak.
+[20] Posel ⟦elohim|Elohim|Boží⟧ mu řekl: „Vezmi maso a nekvašené chleby, polož je na tuto skálu a vývar vylij.“ A učinil tak.
 
-[21] Tehdy Posel Yahweh vztáhl konec hole, kterou měl v ruce, a dotkl se masa a nekvašených chlebů; ze skály vyšlehl oheň a pohltil maso i nekvašené chleby. Potom Posel Yahweh zmizel z jeho očí.
+[21] Tehdy Posel ⟦yhwh|Jahveho|Hospodina⟧ vztáhl konec hole, kterou měl v ruce, a dotkl se masa a nekvašených chlebů; ze skály vyšlehl oheň a pohltil maso i nekvašené chleby. Potom Posel ⟦yhwh|Jahveho|Hospodina⟧ zmizel z jeho očí.
 
-[22] Gideon poznal, že to byl Posel Yahweh; a Gideon řekl: „Běda, Pane Yahweh! Vždyť jsem viděl Posla Yahweh tváří v tvář.“
+[22] ⟦gideon|Gidon|Gedeón⟧ poznal, že to byl Posel ⟦yhwh|Jahveho|Hospodina⟧; a ⟦gideon|Gidon|Gedeón⟧ řekl: „Běda, ⟦adonai-yhwh|Pane Jahve|Panovníku Hospodine⟧! Vždyť jsem viděl Posla ⟦yhwh|Jahveho|Hospodina⟧ tváří v tvář.“
 
-[23] Yahweh mu řekl: „Pokoj tobě; neboj se. Nezemřeš.“
+[23] ⟦yhwh|Jahve|Hospodin⟧ mu řekl: „Pokoj tobě; neboj se. Nezemřeš.“
 
-[24] Gideon tam tedy postavil Yahweh oltář a nazval jej *Yahweh-shalom* („Yahweh je pokoj“). Až do tohoto dne stojí v Ophrah Abiezritů.
+[24] ⟦gideon|Gidon|Gedeón⟧ tam tedy postavil ⟦yhwh|Jahvovi|Hospodinu⟧ oltář a nazval jej ⟦yhwh-shalom|Jahve šalom („Jahve je pokoj“)|Hospodin je pokoj⟧. Až do tohoto dne stojí v Ofra ⟦abiezrites|Aviezrim|Abíezerovců⟧.
 
-[25] Téže noci mu Yahweh řekl: „Vezmi mladého býka svého otce – druhého býka, sedmiletého – strhni Baalův oltář, který má tvůj otec, a pokácej posvátný kůl Asherah, který je vedle něho.
+[25] Téže noci mu ⟦yhwh|Jahve|Hospodin⟧ řekl: „Vezmi mladého býka svého otce – druhého býka, sedmiletého – strhni Baalův oltář, který má tvůj otec, a pokácej ⟦asherah|posvátný kůl Ašera|posvátný kůl⟧, který je vedle něho.
 
-[26] Postav Yahweh, svému *Elohim*, na vrcholu této pevnosti oltář, řádně uspořádaný; vezmi druhého býka a obětuj ho jako zápalnou oběť na dříví z posvátného kůlu Asherah, který pokácíš.“
+[26] Postav ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧, na vrcholu této pevnosti oltář, řádně uspořádaný; vezmi druhého býka a obětuj ho jako zápalnou oběť na dříví z ⟦asherah|posvátného kůlu Ašera|posvátného kůlu⟧, který pokácíš.“
 
-[27] Gideon tedy vzal deset mužů ze svých služebníků a učinil, jak mu Yahweh řekl. Protože se však příliš bál domu svého otce a mužů města, než aby to udělal ve dne, udělal to v noci.
+[27] ⟦gideon|Gidon|Gedeón⟧ tedy vzal deset mužů ze svých služebníků a učinil, jak mu ⟦yhwh|Jahve|Hospodin⟧ řekl. Protože se však příliš bál domu svého otce a mužů města, než aby to udělal ve dne, udělal to v noci.
 
-[28] Když muži města časně ráno vstali, hle, Baalův oltář byl stržen, posvátný kůl Asherah vedle něho pokácen a druhý býk byl obětován na oltáři, který byl postaven.
+[28] Když muži města časně ráno vstali, hle, Baalův oltář byl stržen, ⟦asherah|posvátný kůl Ašera|posvátný kůl⟧ vedle něho pokácen a druhý býk byl obětován na oltáři, který byl postaven.
 
-[29] Říkali jeden druhému: „Kdo to udělal?“ Když se vyptávali a pátrali, řekli: „Udělal to Gideon, syn Joashův.“
+[29] Říkali jeden druhému: „Kdo to udělal?“ Když se vyptávali a pátrali, řekli: „Udělal to ⟦gideon|Gidon|Gedeón⟧, syn ⟦joash|Joašův|Jóašův⟧.“
 
-[30] Muži města řekli Joashovi: „Vyveď svého syna, ať zemře, protože strhl Baalův oltář a protože pokácel posvátný kůl Asherah, který byl vedle něho.“
+[30] Muži města řekli ⟦joash|Joašovi|Jóašovi⟧: „Vyveď svého syna, ať zemře, protože strhl Baalův oltář a protože pokácel ⟦asherah|posvátný kůl Ašera|posvátný kůl⟧, který byl vedle něho.“
 
-[31] Joash řekl všem, kdo proti němu stáli: „Chcete se vy přít za Baala? Chcete ho vy zachraňovat? Kdo se za něho bude přít, bude do rána usmrcen. Je-li bohem, ať se přesvědčí sám za sebe, protože jeho oltář byl stržen.“
+[31] ⟦joash|Joaš|Jóaš⟧ řekl všem, kdo proti němu stáli: „Chcete se vy přít za Baala? Chcete ho vy zachraňovat? Kdo se za něho bude přít, bude do rána usmrcen. Je-li bohem, ať se přesvědčí sám za sebe, protože jeho oltář byl stržen.“
 
-[32] Toho dne byl tedy Gideon nazván Jerubbaal („Ať se Baal přít“), neboť se říkalo: „Ať se s ním Baal přít, protože strhl jeho oltář.“
+[32] Toho dne byl tedy ⟦gideon|Gidon|Gedeón⟧ nazván Jerubbaal („Ať se Baal přít“), neboť se říkalo: „Ať se s ním Baal přít, protože strhl jeho oltář.“
 
-[33] Tehdy se všichni Midianité, Amalekité a synové východu shromáždili, přešli řeku a utábořili se v údolí Jezreel.
+[33] Tehdy se všichni ⟦midianites|Midjanim|Midjánci⟧, ⟦amalekites|Amalekim|Amalekovci⟧ a synové východu shromáždili, přešli řeku a utábořili se v údolí Jizreel.
 
-[34] Ale duch Yahweh oděl Gideona; zatroubil na roh a Abiezrité byli svoláni, aby šli za ním.
+[34] Ale duch ⟦yhwh|Jahveho|Hospodina⟧ oděl ⟦gideon|Gidona|Gedeóna⟧; zatroubil na roh a ⟦abiezrites|Aviezrim|Abíezerovci⟧ byli svoláni, aby šli za ním.
 
-[35] Rozeslal posly po celém Manasseh a i ti byli svoláni, aby šli za ním; a poslal posly k Asherovi, Zebulunovi a Naphtalimu, a ti vytáhli jim naproti.
+[35] Rozeslal posly po celém ⟦manasseh|Menašovi|Manasesovi⟧ a i ti byli svoláni, aby šli za ním; a poslal posly k Ašerovi, ⟦zebulun|Zevulunovi|Zabulónovi⟧ a ⟦naphtali|Naftalimu|Neftalímu⟧, a ti vytáhli jim naproti.
 
-[36] Gideon řekl *Elohim*: „Chceš-li mou rukou zachránit Israel, jak jsi řekl –
+[36] ⟦gideon|Gidon|Gedeón⟧ řekl ⟦elohim|Elohim|Bohu⟧: „Chceš-li mou rukou zachránit ⟦israel|Jisrael|Izrael⟧, jak jsi řekl –
 
-[37] hle, kladu na humno ovčí rouno. Bude-li rosa jen na rounu a na celé zemi bude sucho, poznám, že mou rukou zachráníš Israel, jak jsi řekl.“
+[37] hle, kladu na humno ovčí rouno. Bude-li rosa jen na rounu a na celé zemi bude sucho, poznám, že mou rukou zachráníš ⟦israel|Jisrael|Izrael⟧, jak jsi řekl.“
 
 [38] A stalo se tak; příštího rána časně vstal, vymačkal rouno a vyždímal z rouna rosu – plnou misku vody.
 
-[39] Gideon řekl *Elohim*: „Ať proti mně nevzplane tvůj hněv, a dovol mi promluvit ještě jednou. Dovol mi prosím zkoušet ještě jednou rounem. Ať je sucho jen na rounu a na celé zemi ať je rosa.“
+[39] ⟦gideon|Gidon|Gedeón⟧ řekl ⟦elohim|Elohim|Bohu⟧: „Ať proti mně nevzplane tvůj hněv, a dovol mi promluvit ještě jednou. Dovol mi prosím zkoušet ještě jednou rounem. Ať je sucho jen na rounu a na celé zemi ať je rosa.“
 
-[40] *Elohim* to té noci učinil; sucho bylo jen na rounu a na celé zemi byla rosa.
+[40] ⟦elohim|Elohim|Bůh⟧ to té noci učinil; sucho bylo jen na rounu a na celé zemi byla rosa.
 
 ## Změny
 
@@ -90,6 +90,7 @@
 - **"bullock" → „býk“** (v25, 26, 28).
 - **"Jehovah-shalom" → „*Yahweh-shalom*“** (v24) – modernizované božské jméno.
 - **"came upon Gideon" → „oděl Gideona“** (v34) – hebrejsky לָבְשָׁה *lavshah*. Osobitý idiom pro radikální božské zmocnění (též 1 Chr 12:18, 2 Chr 24:20). Duch člověka „odívá“ / obléká si ho.
+- **"my Lord" → „*Adonai*“** (v15) – hebrejsky אֲדֹנָי *Adonai* (božský titul), kdežto ve v13 je אֲדֹנִי *adoni*, „můj pane“.
 
 ### Poznámky
 - **Midianský útlak** – sedmileté cykly nájezdů jako kobylky. Israel zchudl a byl zahnán do jeskyní.

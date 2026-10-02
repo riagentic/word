@@ -6,7 +6,7 @@
 
 [3] Your gold and silver have corroded, and their corrosion will be evidence against you and will eat your flesh like fire. You have laid up treasure in the last days.
 
-[4] Behold, the wages of the laborers who mowed your fields, which you kept back by fraud, are crying out against you, and the cries of the harvesters have reached the ears of the Lord of Hosts.
+[4] Behold, the wages of the laborers who mowed your fields, which you kept back by fraud, are crying out against you, and the cries of the harvesters have reached the ears of ⟦yhwh|Yahweh|the Lord⟧ of ⟦tzevaot|Sabaoth|Hosts⟧.
 
 [5] You have lived on the earth in luxury and in self-indulgence. You have fattened your hearts in a day of slaughter.
 
@@ -20,7 +20,7 @@
 
 [10] As an example of suffering and patience, brothers, take the prophets who spoke in the name of the Lord.
 
-[11] Behold, we consider those blessed who remained steadfast. You have heard of the steadfastness of Job, and you have seen the end of the Lord, how the Lord is compassionate and merciful.
+[11] Behold, we consider those blessed who remained steadfast. You have heard of the steadfastness of ⟦job|Iyov|Job⟧, and you have seen the end of ⟦yhwh|Yahweh|the Lord⟧, how ⟦yhwh|Yahweh|the Lord⟧ is compassionate and merciful.
 
 [12] But above all, my brothers, do not swear, either by heaven or by earth or by any other oath, but let your "yes" be yes and your "no" be no, so that you may not fall under condemnation.
 
@@ -32,7 +32,7 @@
 
 [16] **Therefore, confess your sins to one another and pray for one another, that you may be healed. The prayer of a righteous person has great power as it is working.**
 
-[17] Elijah was a man with a nature like ours, and he prayed fervently that it might not rain, and for three years and six months it did not rain on the earth.
+[17] ⟦elijah|Eliyahu|Elijah⟧ was a man with a nature like ours, and he prayed fervently that it might not rain, and for three years and six months it did not rain on the earth.
 
 [18] Then he prayed again, and heaven gave rain, and the earth bore its fruit.
 

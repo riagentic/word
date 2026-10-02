@@ -1,10 +1,10 @@
 # Esther 10
 
-[1] King Ahasuerus imposed tribute on the land and on the coasts of the sea.
+[1] King ⟦ahasuerus|Achashverosh|Ahasuerus⟧ imposed tribute on the land and on the coasts of the sea.
 
-[2] All the acts of his power and might, and the full account of the greatness of Mordecai to which the king advanced him — are they not written in the Book of the Chronicles of the Kings of Media and Persia?
+[2] All the acts of his power and might, and the full account of the greatness of ⟦mordecai|Mordechai|Mordecai⟧ to which the king advanced him — are they not written in the Book of the Chronicles of the Kings of ⟦media|Madai|Media⟧ and ⟦persia|Paras|Persia⟧?
 
-[3] For Mordecai the Jew was second to King Ahasuerus, and was great among the Jews and popular with the multitude of his brothers; he sought the welfare of his people and spoke peace for all his seed.
+[3] For ⟦mordecai|Mordechai|Mordecai⟧ the ⟦jew|Yehudi|Jew⟧ was second to King ⟦ahasuerus|Achashverosh|Ahasuerus⟧, and was great among the ⟦jews|Yehudim|Jews⟧ and popular with the multitude of his brothers; he sought the welfare of his people and spoke peace for all his seed.
 
 ## Changes
 

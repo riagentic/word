@@ -36,21 +36,21 @@ Vnitřek hlavní síně a předsíně nádvoří,
 
 [17] až k prostoru nad dveřmi, až k vnitřní místnosti i zvenčí. A na všech stěnách všude kolem, uvnitř i zvenčí, byl odměřený vzor.
 
-[18] Byl vyřezán z cherubů a palem, palma mezi cherubem a cherubem. Každý cherub měl dvě tváře:
+[18] Byl vyřezán z ⟦cherubim|keruvim|cherubů⟧ a palem, palma mezi ⟦cherub|keruvem|cherubem⟧ a ⟦cherub|keruvem|cherubem⟧. Každý ⟦cherub|keruv|cherub⟧ měl dvě tváře:
 
 [19] lidskou tvář obrácenou k palmě na jedné straně a tvář mladého lva obrácenou k palmě na druhé straně. Byly vyřezány na celém chrámu všude kolem.
 
-[20] Od podlahy až nad dveře byli vyřezáni cherubové a palmy; stejně tak na zdi hlavní síně.
+[20] Od podlahy až nad dveře byli vyřezáni ⟦cherubim|keruvim|cherubové⟧ a palmy; stejně tak na zdi hlavní síně.
 
 [21] Veřeje hlavní síně byly čtyřhranné a před Svatyní bylo cosi podobného
 
-[22] oltáři ze dřeva, tři lokty vysokému, dva lokty dlouhému a dva lokty širokému. Jeho rohy, jeho podstavec a jeho stěny byly ze dřeva. Řekl mi: „To je stůl, který stojí před Yahweh.“
+[22] oltáři ze dřeva, tři lokty vysokému, dva lokty dlouhému a dva lokty širokému. Jeho rohy, jeho podstavec a jeho stěny byly ze dřeva. Řekl mi: „To je stůl, který stojí před ⟦yhwh|Jahvem|Hospodinem⟧.“
 
 [23] Hlavní síň i Svatyně měly každá dvoukřídlé dveře.
 
 [24] Dvoukřídlé dveře měly každé dvě křídla, dvě otočná křídla pro každé dveře.
 
-[25] Na dveřích hlavní síně byli vyřezáni cherubové a palmy, jako byli vyřezáni na stěnách. A před předsíní venku byla dřevěná stříška.
+[25] Na dveřích hlavní síně byli vyřezáni ⟦cherubim|keruvim|cherubové⟧ a palmy, jako byli vyřezáni na stěnách. A před předsíní venku byla dřevěná stříška.
 
 [26] Na obou stranách, na bočních stěnách předsíně, na bočních komorách chrámu a na stříškách byla úzká okna a palmy.
 

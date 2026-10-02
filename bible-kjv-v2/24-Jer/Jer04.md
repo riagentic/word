@@ -1,35 +1,35 @@
 # Jeremiah 4
 
-[1] "If you return, O Israel,
-declares Yahweh,
+[1] "If you return, O ⟦israel|Yisrael|Israel⟧,
+declares ⟦yhwh|Yahweh|the LORD⟧,
 to me you should return.
 If you remove your detestable things from my presence,
 and do not waver,
 
-[2] and if you swear, 'As Yahweh lives,'
+[2] and if you swear, 'As ⟦yhwh|Yahweh|the LORD⟧ lives,'
 in truth, in justice, and in righteousness,
 then nations shall bless themselves in him,
 and in him shall they glory."
 
-[3] For thus says Yahweh to the men of Judah and Jerusalem:
+[3] For thus says ⟦yhwh|Yahweh|the LORD⟧ to the men of ⟦judah|Yehudah|Judah⟧ and ⟦jerusalem|Yerushalayim|Jerusalem⟧:
 
 "Break up your fallow ground,
 and sow not among thorns.
 
-[4] Circumcise yourselves to Yahweh;
+[4] Circumcise yourselves to ⟦yhwh|Yahweh|the LORD⟧;
 remove the foreskin of your hearts,
-O men of Judah and inhabitants of Jerusalem;
+O men of ⟦judah|Yehudah|Judah⟧ and inhabitants of ⟦jerusalem|Yerushalayim|Jerusalem⟧;
 lest my wrath go forth like fire,
 and burn with none to quench it,
 because of the evil of your deeds."
 
-[5] Declare in Judah, and proclaim in Jerusalem,
-and say, "Blow the trumpet through the land;
+[5] Declare in ⟦judah|Yehudah|Judah⟧, and proclaim in ⟦jerusalem|Yerushalayim|Jerusalem⟧,
+and say, "Blow the ⟦shofar|shofar|trumpet⟧ through the land;
 cry aloud and say,
 'Assemble, and let us go
 into the fortified cities!'
 
-[6] Raise a standard toward Zion,
+[6] Raise a standard toward ⟦zion|Tziyon|Zion⟧,
 flee for safety, stay not,
 for I bring disaster from the north,
 and great destruction.
@@ -43,14 +43,14 @@ without inhabitant.
 
 [8] For this put on sackcloth,
 lament and wail,
-for the fierce anger of Yahweh
+for the fierce anger of ⟦yhwh|Yahweh|the LORD⟧
 has not turned back from us."
 
-[9] "In that day, declares Yahweh, courage shall fail both king and officials. The priests shall be appalled and the prophets astounded."
+[9] "In that day, declares ⟦yhwh|Yahweh|the LORD⟧, courage shall fail both king and officials. The priests shall be appalled and the prophets astounded."
 
-[10] Then I said, "Ah, Lord Yahweh, surely you have utterly deceived this people and Jerusalem, saying, 'It shall be well with you,' whereas the sword has reached their very life."
+[10] Then I said, "Ah, ⟦adonai-yhwh|Lord Yahweh|Lord GOD⟧, surely you have utterly deceived this people and ⟦jerusalem|Yerushalayim|Jerusalem⟧, saying, 'It shall be well with you,' whereas the sword has reached their very life."
 
-[11] At that time it will be said to this people and to Jerusalem,
+[11] At that time it will be said to this people and to ⟦jerusalem|Yerushalayim|Jerusalem⟧,
 "A hot wind from the bare heights in the desert
 toward the daughter of my people —
 not to winnow or cleanse,
@@ -63,22 +63,22 @@ his chariots like the whirlwind;
 his horses are swifter than eagles —
 woe to us, for we are ruined!
 
-[14] O Jerusalem, wash your heart from evil,
+[14] O ⟦jerusalem|Yerushalayim|Jerusalem⟧, wash your heart from evil,
 that you may be saved.
 How long shall your wicked thoughts
 lodge within you?
 
 [15] For a voice declares from Dan
-and proclaims trouble from Mount Ephraim.
+and proclaims trouble from Mount ⟦ephraim|Efrayim|Ephraim⟧.
 
 [16] Warn the nations that he is coming;
-announce to Jerusalem,
+announce to ⟦jerusalem|Yerushalayim|Jerusalem⟧,
 "Besiegers come from a distant land;
-they shout against the cities of Judah.
+they shout against the cities of ⟦judah|Yehudah|Judah⟧.
 
 [17] Like keepers of a field are they against her all around,
 because she has rebelled against me,
-declares Yahweh.
+declares ⟦yhwh|Yahweh|the LORD⟧.
 
 [18] Your ways and your deeds
 have brought this upon you.
@@ -89,7 +89,7 @@ it has reached your very heart."
 Oh the walls of my heart!
 My heart is beating wildly;
 I cannot keep silent,
-for I hear the sound of the trumpet,
+for I hear the sound of the ⟦shofar|shofar|trumpet⟧,
 the alarm of war.
 
 [20] Crash follows crash,
@@ -98,7 +98,7 @@ Suddenly my tents are laid waste,
 my curtains in a moment.
 
 [21] How long must I see the standard
-and hear the sound of the trumpet?
+and hear the sound of the ⟦shofar|shofar|trumpet⟧?
 
 [22] "For my people are foolish;
 they know me not;
@@ -107,7 +107,7 @@ they have no understanding.
 They are wise in doing evil,
 but how to do good they know not."
 
-[23] I looked on the earth, and behold, tohu va-vohu — formless and empty;
+[23] I looked on the earth, and behold, ⟦tohu-va-vohu|tohu va-vohu — formless and empty|without form and void⟧;
 and to the heavens, and they had no light.
 
 [24] I looked on the mountains, and behold, they were quaking,
@@ -118,9 +118,9 @@ and all the birds of the air had fled.
 
 [26] I looked, and behold, the fruitful land was a desert,
 and all its cities were laid in ruins
-before Yahweh, before his fierce anger.
+before ⟦yhwh|Yahweh|the LORD⟧, before his fierce anger.
 
-[27] For thus says Yahweh,
+[27] For thus says ⟦yhwh|Yahweh|the LORD⟧,
 "The whole land shall be a desolation;
 yet I will not make a full end.
 
@@ -145,7 +145,7 @@ they seek your life.
 
 [31] For I heard a cry as of a woman in labor,
 anguish as of one giving birth to her first child,
-the cry of the daughter of Zion gasping for breath,
+the cry of the daughter of ⟦zion|Tziyon|Zion⟧ gasping for breath,
 stretching out her hands,
 "Woe is me! I am fainting before murderers."
 

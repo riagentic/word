@@ -1,23 +1,23 @@
 # Zacharjáš 11
 
-[1] Otevři své brány, Lebanone,
+[1] Otevři své brány, ⟦lebanon|Levanone|Libanóne⟧,
 ať oheň pohltí tvé cedry!
 
 [2] Kvílej, cypřiši, neboť cedr padl,
 neboť nádherné stromy jsou zničeny!
-Kvílejte, duby Bashanu,
+Kvílejte, duby ⟦bashan|Bašanu|Bášanu⟧,
 neboť hustý les byl vykácen!
 
 [3] Slyš kvílení pastýřů,
 neboť jejich sláva je zničena!
 Slyš řev lvů,
-neboť houštiny Jordanu jsou zničeny!
+neboť houštiny ⟦jordan|Jardenu|Jordánu⟧ jsou zničeny!
 
-[4] Tak řekl Yahweh, můj *Elohim*: „Pas stádo určené na porážku.
+[4] Tak řekl ⟦yhwh|Jahve|Hospodin⟧, můj ⟦elohim|Elohim|Bůh⟧: „Pas stádo určené na porážku.
 
-[5] Ti, kdo je kupují, je zabíjejí a zůstávají bez trestu, a ti, kdo je prodávají, říkají: ‚Požehnán buď Yahweh, zbohatl jsem,‘ a jejich vlastní pastýři nad nimi nemají soucit.
+[5] Ti, kdo je kupují, je zabíjejí a zůstávají bez trestu, a ti, kdo je prodávají, říkají: ‚Požehnán buď ⟦yhwh|Jahve|Hospodin⟧, zbohatl jsem,‘ a jejich vlastní pastýři nad nimi nemají soucit.
 
-[6] Neboť už nebudu mít soucit s obyvateli této země, je výrok Yahweh. Hle, vydám každého do ruky jeho bližního a každého do ruky jeho krále; rozdrtí zemi a z jejich ruky nevysvobodím nikoho.“
+[6] Neboť už nebudu mít soucit s obyvateli této země, je výrok ⟦yhwh|Jahveho|Hospodina⟧. Hle, vydám každého do ruky jeho bližního a každého do ruky jeho krále; rozdrtí zemi a z jejich ruky nevysvobodím nikoho.“
 
 [7] Stal jsem se tedy pastýřem stáda určeného k porážce obchodníky s ovcemi. Vzal jsem si dvě hole: jednu jsem nazval Přízeň a druhou jsem nazval Jednota. A pásl jsem ovce.
 
@@ -27,15 +27,15 @@ neboť houštiny Jordanu jsou zničeny!
 
 [10] Vzal jsem svou hůl Přízeň a zlomil jsem ji, čímž jsem zrušil smlouvu, kterou jsem uzavřel se všemi národy.
 
-[11] Tak byla toho dne zrušena a obchodníci s ovcemi, kteří mě pozorovali, poznali, že to bylo slovo Yahweh.
+[11] Tak byla toho dne zrušena a obchodníci s ovcemi, kteří mě pozorovali, poznali, že to bylo slovo ⟦yhwh|Jahveho|Hospodina⟧.
 
 [12] Tu jsem jim řekl: „Zdá-li se vám to dobré, dejte mi mou mzdu; pokud ne, nechte si ji.“ A odvážili mi jako mzdu **třicet stříbrných**.
 
-[13] Tu mi Yahweh řekl: „Hoď to hrnčíři“ – tu skvělou cenu, na kterou mě ocenili. Vzal jsem tedy těch třicet stříbrných a hodil je v domě Yahweh hrnčíři.
+[13] Tu mi ⟦yhwh|Jahve|Hospodin⟧ řekl: „Hoď to hrnčíři“ – tu skvělou cenu, na kterou mě ocenili. Vzal jsem tedy těch třicet stříbrných a hodil je v domě ⟦yhwh|Jahveho|Hospodina⟧ hrnčíři.
 
-[14] Potom jsem zlomil svou druhou hůl Jednotu, čímž jsem zrušil bratrství mezi Judahem a Israelem.
+[14] Potom jsem zlomil svou druhou hůl Jednotu, čímž jsem zrušil bratrství mezi ⟦judah|Jehudou|Judou⟧ a ⟦israel|Jisraelem|Izraelem⟧.
 
-[15] Tu mi Yahweh řekl: „Vezmi si ještě jednou výstroj pošetilého pastýře.
+[15] Tu mi ⟦yhwh|Jahve|Hospodin⟧ řekl: „Vezmi si ještě jednou výstroj pošetilého pastýře.
 
 [16] Neboť hle, povolám v zemi pastýře, který nebude dbát o hynoucí, nebude hledat mladé, nebude léčit zmrzačené ani živit zdravé, ale bude požírat maso tučných a odtrhávat jim i kopyta.
 

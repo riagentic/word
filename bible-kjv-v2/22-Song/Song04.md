@@ -4,7 +4,7 @@
 behold, you are beautiful!
 Your eyes are doves behind your veil.
 Your hair is like a flock of goats
-leaping down the slopes of Gilead.
+leaping down the slopes of ⟦gilead|Gilad|Gilead⟧.
 
 [2] Your teeth are like a flock of shorn ewes
 that have come up from the washing,
@@ -33,10 +33,10 @@ and the hill of frankincense.
 [7] You are altogether beautiful, my love;
 there is no flaw in you.
 
-[8] Come with me from Lebanon, my bride;
-come with me from Lebanon.
-Depart from the peak of Amana,
-from the peak of Senir and Hermon,
+[8] Come with me from ⟦lebanon|Levanon|Lebanon⟧, my bride;
+come with me from ⟦lebanon|Levanon|Lebanon⟧.
+Depart from the peak of ⟦amana|Amanah|Amana⟧,
+from the peak of Senir and ⟦hermon|Chermon|Hermon⟧,
 from the dens of lions,
 from the mountains of leopards.
 
@@ -50,7 +50,7 @@ and the fragrance of your oils than any spice!
 
 [11] Your lips drip nectar, my bride;
 honey and milk are under your tongue;
-the fragrance of your garments is like the fragrance of Lebanon.
+the fragrance of your garments is like the fragrance of ⟦lebanon|Levanon|Lebanon⟧.
 
 [12] A garden locked is my sister, my bride,
 a spring locked, a fountain sealed.
@@ -65,7 +65,7 @@ myrrh and aloes,
 with all choice spices —
 
 [15] a garden fountain, a well of living water,
-and flowing streams from Lebanon.
+and flowing streams from ⟦lebanon|Levanon|Lebanon⟧.
 
 [16] Awake, O north wind,
 and come, O south wind!

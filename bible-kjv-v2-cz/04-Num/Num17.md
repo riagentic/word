@@ -1,30 +1,30 @@
 # Numeri 17
 
-[1] Yahweh promluvil k Mosesovi a řekl:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a řekl:
 
-[2] „Promluv k synům Israele a vezmi od nich po holi – jednu za každý otcovský dům, od všech jejich předáků, dvanáct holí. Na hůl každého napiš jeho jméno.
+[2] „Promluv k synům ⟦israel|Jisraele|Izraele⟧ a vezmi od nich po holi – jednu za každý otcovský dům, od všech jejich předáků, dvanáct holí. Na hůl každého napiš jeho jméno.
 
-[3] Na hůl Leviho napiš Aaronovo jméno, neboť pro hlavu každého otcovského domu bude jedna hůl.
+[3] Na hůl ⟦levi|Leviho|Léviho⟧ napiš ⟦aaron|Aharonovo|Áronovo⟧ jméno, neboť pro hlavu každého otcovského domu bude jedna hůl.
 
 [4] Uložíš je ve stanu setkávání před Svědectvím, kde se s vámi setkávám.
 
-[5] Hůl muže, kterého vyvolím, vypučí; tak od sebe utiším reptání synů Israele, kterým reptají proti vám.“
+[5] Hůl muže, kterého vyvolím, vypučí; tak od sebe utiším reptání synů ⟦israel|Jisraele|Izraele⟧, kterým reptají proti vám.“
 
-[6] Moses promluvil k synům Israele a každý z jejich předáků mu dal hůl – za každého předáka jednu – podle jejich otcovských domů, dvanáct holí; a Aaronova hůl byla mezi jejich holemi.
+[6] ⟦moses|Moše|Mojžíš⟧ promluvil k synům ⟦israel|Jisraele|Izraele⟧ a každý z jejich předáků mu dal hůl – za každého předáka jednu – podle jejich otcovských domů, dvanáct holí; a ⟦aaron|Aharonova|Áronova⟧ hůl byla mezi jejich holemi.
 
-[7] Moses uložil hole před Yahweh ve stanu Svědectví.
+[7] ⟦moses|Moše|Mojžíš⟧ uložil hole před ⟦yhwh|Jahvem|Hospodinem⟧ ve stanu Svědectví.
 
-[8] Nazítří Moses vešel do stanu Svědectví, a hle, hůl Aarona z domu Leviho vypučela – vyhnala pupeny, vydala květy a nesla mandle.
+[8] Nazítří ⟦moses|Moše|Mojžíš⟧ vešel do stanu Svědectví, a hle, hůl ⟦aaron|Aharona|Árona⟧ z domu ⟦levi|Leviho|Léviho⟧ vypučela – vyhnala pupeny, vydala květy a nesla mandle.
 
-[9] Moses vynesl všechny hole zpředu od Yahweh ke všem synům Israele; ti se podívali a každý si vzal svou hůl.
+[9] ⟦moses|Moše|Mojžíš⟧ vynesl všechny hole zpředu od ⟦yhwh|Jahveho|Hospodina⟧ ke všem synům ⟦israel|Jisraele|Izraele⟧; ti se podívali a každý si vzal svou hůl.
 
-[10] Yahweh řekl Mosesovi: „Vrať Aaronovu hůl před Svědectví, ať je uchována jako znamení pro vzbouřence, abys učinil konec jejich reptání proti mně, aby nezemřeli.“
+[10] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Vrať ⟦aaron|Aharonovu|Áronovu⟧ hůl před Svědectví, ať je uchována jako znamení pro vzbouřence, abys učinil konec jejich reptání proti mně, aby nezemřeli.“
 
-[11] Moses tak učinil; jak mu Yahweh přikázal, tak učinil.
+[11] ⟦moses|Moše|Mojžíš⟧ tak učinil; jak mu ⟦yhwh|Jahve|Hospodin⟧ přikázal, tak učinil.
 
-[12] Synové Israele promluvili k Mosesovi: „Hle, hyneme, jsme ztraceni, všichni jsme ztraceni!
+[12] Synové ⟦israel|Jisraele|Izraele⟧ promluvili k ⟦moses|Mošovi|Mojžíšovi⟧: „Hle, hyneme, jsme ztraceni, všichni jsme ztraceni!
 
-[13] Každý, kdo se jen trochu přiblíží k příbytku Yahweh – zemře. Máme tedy všichni do jednoho zahynout?“
+[13] Každý, kdo se jen trochu přiblíží k příbytku ⟦yhwh|Jahveho|Hospodina⟧ – zemře. Máme tedy všichni do jednoho zahynout?“
 
 ## Změny
 

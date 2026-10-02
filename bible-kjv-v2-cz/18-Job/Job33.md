@@ -1,6 +1,6 @@
 # Jób 33
 
-[1] „Nyní tedy, Jobe, slyš mou řeč;
+[1] „Nyní tedy, ⟦job|Ijove|Jóbe⟧, slyš mou řeč;
 naslouchej všem mým slovům.
 
 [2] Hle, otevírám ústa;
@@ -9,13 +9,13 @@ můj jazyk mluví v mém patře.
 [3] Má slova vycházejí z mého přímého srdce;
 mé rty upřímně pronášejí poznání.
 
-[4] Duch *Elohim* mě učinil,
-dech Shaddaie mi dává život.
+[4] Duch ⟦el|El|Boží⟧ mě učinil,
+dech ⟦shaddai|Šaddaje|Všemohoucího⟧ mi dává život.
 
 [5] Můžeš-li, odpověz mi;
 seřaď přede mnou svá slova; postav se.
 
-[6] Hle, vůči *Elohim* jsem jako ty;
+[6] Hle, vůči ⟦el|El|Bohu⟧ jsem jako ty;
 i já jsem byl uštípnut z hlíny.
 
 [7] Hle, strach ze mne tě nemusí děsit;
@@ -34,12 +34,12 @@ počítá mě za svého nepřítele.
 hlídá všechny mé stezky.‘
 
 [12] Hle, v tom nemáš pravdu; odpovídám ti:
-Eloah je větší než člověk.
+⟦eloah|Eloah|Bůh⟧ je větší než člověk.
 
 [13] Proč se s ním přeš,
 že neodpovídá na žádné z jeho slov?
 
-[14] Vždyť *Elohim* mluví jednou,
+[14] Vždyť ⟦el|El|Bůh⟧ mluví jednou,
 dvakrát, ale člověk to nepostřehne.
 
 [15] Ve snu, v nočním vidění,
@@ -78,7 +78,7 @@ našel jsem výkupné‘ –
 [25] jeho tělo bude svěžejší než dítěti;
 vrátí se do dnů své mladické síly.
 
-[26] Modlí se k Eloah, a ten ho přijme;
+[26] Modlí se k ⟦eloah|Eloah|Bohu⟧, a ten ho přijme;
 s jásotem spatří jeho tvář;
 on vrací člověku jeho spravedlnost.
 
@@ -89,13 +89,13 @@ ale nebylo mi to odplaceno.
 [28] Vykoupil mou duši, abych nesestoupil do jámy,
 a můj život uzří světlo.‘
 
-[29] Hle, to všechno *Elohim* činí –
+[29] Hle, to všechno ⟦el|El|Bůh⟧ činí –
 dvakrát, třikrát s člověkem –
 
 [30] aby přivedl zpět jeho duši od jámy,
 aby byl osvícen světlem živých.
 
-[31] Dávej pozor, Jobe; poslouchej mě;
+[31] Dávej pozor, ⟦job|Ijove|Jóbe⟧; poslouchej mě;
 mlč, a já budu mluvit.
 
 [32] Máš-li co říci, odpověz mi;
@@ -106,6 +106,7 @@ mlč, a budu tě učit moudrosti.“
 
 ## Změny
 
+- **"God" → „El“** (v4, 6, 14, 29) – hebrejsky אֵל *El*, ne *Elohim*.
 - **"I am formed out of the clay" → „i já jsem byl uštípnut z hlíny“** (v6) – hebrejsky *qoratzti*; uštípnut jako z hroudy.
 
 ### Poznámky

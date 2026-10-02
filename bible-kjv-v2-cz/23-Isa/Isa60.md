@@ -1,11 +1,11 @@
 # Izajáš 60
 
 [1] Vstaň, zazař, neboť přišlo tvé světlo
-a sláva Yahweh nad tebou vzešla.
+a sláva ⟦yhwh|Jahveho|Hospodina⟧ nad tebou vzešla.
 
 [2] Neboť hle, tma přikryje zemi
 a temnota národy;
-ale nad tebou vzejde Yahweh
+ale nad tebou vzejde ⟦yhwh|Jahve|Hospodin⟧
 a jeho sláva bude nad tebou vidět.
 
 [3] A národy přijdou k tvému světlu
@@ -22,13 +22,13 @@ protože se k tobě obrátí hojnost moře,
 bohatství národů přijde k tobě.
 
 [6] Zástup velbloudů tě pokryje,
-mladí velbloudi z Midianu a Ephy;
-všichni ze Sheby přijdou.
+mladí velbloudi z ⟦midian|Midjanu|Midjánu⟧ a ⟦ephah|Efy|Éfy⟧;
+všichni ze ⟦sheba|Ševy|Sáby⟧ přijdou.
 Přinesou zlato a kadidlo
-a budou zvěstovat dobrou zprávu, chvály Yahweh.
+a budou zvěstovat dobrou zprávu, chvály ⟦yhwh|Jahveho|Hospodina⟧.
 
-[7] Všechna stáda Kedaru budou shromážděna k tobě;
-berani Nebaiothu ti budou sloužit;
+[7] Všechna stáda ⟦kedar|Kedaru|Kédaru⟧ budou shromážděna k tobě;
+berani ⟦nebaioth|Nevajotu|Nebajótu⟧ ti budou sloužit;
 vystoupí s přijetím na můj oltář
 a zkrášlím svůj krásný dům.
 
@@ -36,11 +36,11 @@ a zkrášlím svůj krásný dům.
 a jako holubice ke svým oknům?
 
 [9] Neboť ostrovy a pobřeží budou doufat ve mne,
-v čele lodě z Tarshishe,
+v čele lodě z ⟦tarshish|Taršiše|Taršíše⟧,
 aby přivezly tvé děti zdaleka,
 a jejich stříbro a zlato s nimi,
-pro jméno Yahweh, tvého *Elohim*,
-a pro Svatého Israele,
+pro jméno ⟦yhwh|Jahveho|Hospodina⟧, tvého ⟦elohim|Elohim|Boha⟧,
+a pro Svatého ⟦israel|Jisraele|Izraele⟧,
 protože tě učinil krásnou.
 
 [10] Cizinci vystavějí tvé hradby
@@ -56,7 +56,7 @@ a jejich králové byli vedeni v průvodu.
 [12] Neboť národ a království, které ti nebude sloužit, zahyne;
 ty národy budou dočista zpustošeny.
 
-[13] Sláva Lebanonu přijde k tobě,
+[13] Sláva ⟦lebanon|Levanonu|Libanónu⟧ přijde k tobě,
 cypřiš, platan i borovice,
 aby zkrášlily místo mé svatyně,
 a oslavím místo svých nohou.
@@ -64,8 +64,8 @@ a oslavím místo svých nohou.
 [14] Synové těch, kdo tě utiskovali,
 přijdou k tobě shrbeni
 a všichni, kdo tebou pohrdali, se skloní k tvým nohám;
-budou tě nazývat Město Yahweh,
-Zion Svatého Israele.
+budou tě nazývat Město ⟦yhwh|Jahveho|Hospodina⟧,
+⟦zion|Cijon|Sijón⟧ Svatého ⟦israel|Jisraele|Izraele⟧.
 
 [15] Místo toho, že jsi byla opuštěná a nenáviděná,
 takže tudy nikdo neprocházel,
@@ -74,8 +74,8 @@ radostí z pokolení na pokolení.
 
 [16] Budeš sát mléko národů,
 budeš sát z prsu králů;
-a poznáš, že já, Yahweh, jsem tvůj Spasitel
-a tvůj Vykupitel, Mocný Jacobův.
+a poznáš, že já, ⟦yhwh|Jahve|Hospodin⟧, jsem tvůj Spasitel
+a tvůj Vykupitel, Mocný ⟦jacob|Jaakovův|Jákobův⟧.
 
 [17] Místo bronzu přinesu zlato
 a místo železa přinesu stříbro;
@@ -86,18 +86,18 @@ a spravedlnost tvými poháněči.
 
 [18] O násilí už nebude slyšet v tvé zemi,
 o spoušti ani zkáze v tvých hranicích;
-své hradby nazveš Spása
-a své brány Tehillah – Chvála.
+své hradby nazveš ⟦yeshuah|Ješua|Spása⟧
+a své brány ⟦tehillah|Tehila – Chvála|Chvála⟧.
 
 [19] Slunce už nebude
 tvým světlem ve dne
 a měsíc ti nebude svítit k jasu;
-ale Yahweh bude tvým věčným světlem
-a tvůj *Elohim* bude tvou slávou.
+ale ⟦yhwh|Jahve|Hospodin⟧ bude tvým věčným světlem
+a tvůj ⟦elohim|Elohim|Bůh⟧ bude tvou slávou.
 
 [20] Tvé slunce už nezapadne
 a tvůj měsíc se neztratí;
-neboť Yahweh bude tvým věčným světlem
+neboť ⟦yhwh|Jahve|Hospodin⟧ bude tvým věčným světlem
 a dny tvého truchlení skončí.
 
 [21] Tvůj lid bude celý spravedlivý;
@@ -108,7 +108,7 @@ abych byl oslaven.
 
 [22] Nejmenší se stane rodem
 a nejnepatrnější mocným národem;
-já jsem Yahweh; ve svůj čas to uspíším.
+já jsem ⟦yhwh|Jahve|Hospodin⟧; ve svůj čas to uspíším.
 
 ## Změny
 

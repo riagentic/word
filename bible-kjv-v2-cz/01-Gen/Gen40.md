@@ -2,49 +2,49 @@
 
 [1] Po těchto událostech se číšník egyptského krále a jeho pekař provinili proti svému pánu, egyptskému králi.
 
-[2] Pharaoh se rozhněval na své dva dvořany, na vrchního číšníka a na vrchního pekaře,
+[2] ⟦pharaoh|Paro|Farao⟧ se rozhněval na své dva dvořany, na vrchního číšníka a na vrchního pekaře,
 
-[3] a dal je do vazby v domě velitele stráže, do domu vězení, na totéž místo, kde byl uvězněn Joseph.
+[3] a dal je do vazby v domě velitele stráže, do domu vězení, na totéž místo, kde byl uvězněn Josef.
 
-[4] Velitel stráže jim přidělil Josepha a on jim posluhoval; a byli ve vazbě nějaký čas.
+[4] Velitel stráže jim přidělil Josefa a on jim posluhoval; a byli ve vazbě nějaký čas.
 
 [5] Oběma se zdál sen, každému jeho vlastní sen, téže noci, a každý sen měl svůj vlastní význam – číšníkovi i pekaři egyptského krále, kteří byli uvězněni v domě vězení.
 
-[6] Když k nim Joseph ráno přišel, viděl, že jsou zneklidnění.
+[6] Když k nim Josef ráno přišel, viděl, že jsou zneklidnění.
 
-[7] Zeptal se tedy Pharaohových dvořanů, kteří byli s ním ve vazbě v domě jeho pána: „Proč máte dnes tak zachmuřené tváře?“
+[7] Zeptal se tedy ⟦pharaoh|Parohových|faraónových⟧ dvořanů, kteří byli s ním ve vazbě v domě jeho pána: „Proč máte dnes tak zachmuřené tváře?“
 
-[8] Odpověděli mu: „Zdály se nám sny, a není nikdo, kdo by je vyložil.“ Joseph jim řekl: „Nepatří výklady *Elohim*? Vyprávějte mi je, prosím.“
+[8] Odpověděli mu: „Zdály se nám sny, a není nikdo, kdo by je vyložil.“ Josef jim řekl: „Nepatří výklady ⟦elohim|Elohim|Bohu⟧? Vyprávějte mi je, prosím.“
 
-[9] Vrchní číšník tedy vyprávěl Josephovi svůj sen a řekl mu: „Ve svém snu jsem viděl, hle, přede mnou byla vinná réva;
+[9] Vrchní číšník tedy vyprávěl Josefovi svůj sen a řekl mu: „Ve svém snu jsem viděl, hle, přede mnou byla vinná réva;
 
 [10] a na révě byly tři ratolesti. Jakmile vypučela, vyrazily její květy a její hrozny dozrály v bobule.
 
-[11] V ruce jsem měl Pharaohův pohár; vzal jsem ty bobule, vymačkal je do Pharaohova poháru a podal pohár Pharaohovi do ruky.“
+[11] V ruce jsem měl ⟦pharaoh|Parohův|faraónův⟧ pohár; vzal jsem ty bobule, vymačkal je do ⟦pharaoh|Parohova|faraónova⟧ poháru a podal pohár ⟦pharaoh|Parohovi|faraónovi⟧ do ruky.“
 
-[12] Joseph mu řekl: „Toto je jeho výklad: ty tři ratolesti jsou tři dny.
+[12] Josef mu řekl: „Toto je jeho výklad: ty tři ratolesti jsou tři dny.
 
-[13] Ještě do tří dnů Pharaoh pozvedne tvou hlavu a navrátí tě na tvé místo a budeš podávat Pharaohovi pohár do ruky, jako jsi to dělával dříve, když jsi byl jeho číšníkem.
+[13] Ještě do tří dnů ⟦pharaoh|Paro|farao⟧ pozvedne tvou hlavu a navrátí tě na tvé místo a budeš podávat ⟦pharaoh|Parohovi|faraónovi⟧ pohár do ruky, jako jsi to dělával dříve, když jsi byl jeho číšníkem.
 
-[14] Ale vzpomeň si na mě, až se ti bude dařit dobře, a prokaž mi, prosím, věrnou lásku tím, že se o mně zmíníš Pharaohovi, aby mě vyvedl z tohoto domu.
+[14] Ale vzpomeň si na mě, až se ti bude dařit dobře, a prokaž mi, prosím, věrnou lásku tím, že se o mně zmíníš ⟦pharaoh|Parohovi|faraónovi⟧, aby mě vyvedl z tohoto domu.
 
-[15] Vždyť jsem byl opravdu unesen ze země Hebrejců; a ani tady jsem neudělal nic, proč by mě měli dát do žaláře.“
+[15] Vždyť jsem byl opravdu unesen ze země ⟦hebrews|Ivrim|Hebrejců⟧; a ani tady jsem neudělal nic, proč by mě měli dát do žaláře.“
 
-[16] Když vrchní pekař viděl, že výklad byl dobrý, řekl Josephovi: „I já jsem byl ve svém snu; hle, na hlavě jsem měl tři koše bílého chleba,
+[16] Když vrchní pekař viděl, že výklad byl dobrý, řekl Josefovi: „I já jsem byl ve svém snu; hle, na hlavě jsem měl tři koše bílého chleba,
 
-[17] a v nejhořejším koši bylo všelijaké pečivo pro Pharaoha; a ptáci je vyjídali z koše na mé hlavě.“
+[17] a v nejhořejším koši bylo všelijaké pečivo pro ⟦pharaoh|Paroha|faraóna⟧; a ptáci je vyjídali z koše na mé hlavě.“
 
-[18] Joseph odpověděl: „Toto je jeho výklad: ty tři koše jsou tři dny.
+[18] Josef odpověděl: „Toto je jeho výklad: ty tři koše jsou tři dny.
 
-[19] Ještě do tří dnů Pharaoh pozvedne tvou hlavu z tebe a pověsí tě na strom; a ptáci budou z tebe jíst tvé maso.“
+[19] Ještě do tří dnů ⟦pharaoh|Paro|farao⟧ pozvedne tvou hlavu z tebe a pověsí tě na strom; a ptáci budou z tebe jíst tvé maso.“
 
-[20] Třetího dne, v den Pharaohových narozenin, vystrojil hostinu pro všechny své služebníky a pozvedl hlavu vrchního číšníka i hlavu vrchního pekaře uprostřed svých služebníků.
+[20] Třetího dne, v den ⟦pharaoh|Parohových|faraónových⟧ narozenin, vystrojil hostinu pro všechny své služebníky a pozvedl hlavu vrchního číšníka i hlavu vrchního pekaře uprostřed svých služebníků.
 
-[21] Vrchního číšníka navrátil do jeho číšnické služby a ten podával Pharaohovi pohár do ruky.
+[21] Vrchního číšníka navrátil do jeho číšnické služby a ten podával ⟦pharaoh|Parohovi|faraónovi⟧ pohár do ruky.
 
-[22] Ale vrchního pekaře pověsil, jak jim to Joseph vyložil.
+[22] Ale vrchního pekaře pověsil, jak jim to Josef vyložil.
 
-[23] Vrchní číšník si však na Josepha nevzpomněl, ale zapomněl na něho.
+[23] Vrchní číšník si však na Josefa nevzpomněl, ale zapomněl na něho.
 
 ## Změny
 

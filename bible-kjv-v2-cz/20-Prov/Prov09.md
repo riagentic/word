@@ -27,7 +27,7 @@ kárej moudrého a bude tě milovat.
 [9] Poučuj moudrého a bude ještě moudřejší;
 vyučuj spravedlivého a rozmnoží své vědění.
 
-[10] Bázeň Yahweh je počátek moudrosti
+[10] Bázeň ⟦yhwh|Jahveho|Hospodina⟧ je počátek moudrosti
 a poznání Svatého je porozumění.
 
 [11] Neboť skrze mne se rozmnoží tvé dny
@@ -52,7 +52,7 @@ A tomu, komu se nedostává rozumu, říká:
 a chléb jedený potají je příjemný.“
 
 [18] On však neví, že jsou tam mrtví,
-že její hosté jsou v hlubinách Sheol.
+že její hosté jsou v hlubinách ⟦sheol|Šeolu|podsvětí⟧.
 
 ## Změny
 

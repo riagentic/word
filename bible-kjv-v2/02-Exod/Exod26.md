@@ -1,6 +1,6 @@
 # Exodus 26
 
-[1] "Moreover, you shall make the dwelling of ten curtains of fine twined linen, and blue, purple, and scarlet yarns; with cherubim skillfully worked into them you shall make them.
+[1] "Moreover, you shall make the dwelling of ten curtains of fine twined linen, and blue, purple, and scarlet yarns; with ⟦cherubim|keruvim|cherubim⟧ skillfully worked into them you shall make them.
 
 [2] The length of each curtain shall be 28 cubits, and the width of each curtain 4 cubits; all the curtains shall be of the same size.
 
@@ -60,13 +60,13 @@
 
 [30] You shall erect the dwelling according to the plan for it, which has been shown to you on the mountain.
 
-[31] You shall make a veil of blue, purple, and scarlet yarns, and of fine twined linen; it shall be made with cherubim skillfully worked into it.
+[31] You shall make a veil of blue, purple, and scarlet yarns, and of fine twined linen; it shall be made with ⟦cherubim|keruvim|cherubim⟧ skillfully worked into it.
 
 [32] You shall hang it on four pillars of acacia overlaid with gold, with hooks of gold, upon four sockets of silver.
 
 [33] You shall hang the veil from the clasps, and shall bring the ark of the Testimony in there within the veil; the veil shall separate for you the Holy Place from the Most Holy.
 
-[34] You shall put the mercy seat upon the ark of the Testimony in the Most Holy Place.
+[34] You shall put the ⟦mercy-seat|kapporet|mercy seat⟧ upon the ark of the Testimony in the Most Holy Place.
 
 [35] You shall set the table outside the veil, and the lampstand opposite the table on the south side of the dwelling; and you shall put the table on the north side.
 

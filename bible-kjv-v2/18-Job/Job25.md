@@ -1,6 +1,6 @@
 # Job 25
 
-[1] Then Bildad the Shuhite answered and said:
+[1] Then Bildad the ⟦shuhite|Shuchi|Shuhite⟧ answered and said:
 
 [2] "Dominion and dread are with him;
 he makes peace in his high places.
@@ -8,7 +8,7 @@ he makes peace in his high places.
 [3] Is there any number to his armies?
 Upon whom does his light not arise?
 
-[4] How then can man be just before *Elohim*?
+[4] How then can man be just before ⟦el|El|God⟧?
 How can one born of woman be clean?
 
 [5] Behold, even the moon is not bright,
@@ -19,6 +19,7 @@ and the son of man — a worm!"
 
 ## Changes
 
+- **"God" → "El"** (v4) — Hebrew אֵל *El*, not *Elohim*.
 - **"worm" (first) → "maggot"** (v6) — Hebrew *rimmah*.
 
 ### Notes

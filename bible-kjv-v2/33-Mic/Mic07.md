@@ -31,16 +31,16 @@ the daughter rises up against her mother,
 the daughter-in-law against her mother-in-law;
 a man's enemies are the men of his own house.
 
-[7] But as for me, I will look to Yahweh;
-I will wait for the *Elohim* of my salvation;
-my *Elohim* will hear me.
+[7] But as for me, I will look to ⟦yhwh|Yahweh|the LORD⟧;
+I will wait for the ⟦elohim|Elohim|God⟧ of my salvation;
+my ⟦elohim|Elohim|God⟧ will hear me.
 
 [8] Rejoice not over me, O my enemy;
 when I fall, I shall rise;
 when I sit in darkness,
-Yahweh will be a light to me.
+⟦yhwh|Yahweh|the LORD⟧ will be a light to me.
 
-[9] I will bear the indignation of Yahweh
+[9] I will bear the indignation of ⟦yhwh|Yahweh|the LORD⟧
 because I have sinned against him,
 until he pleads my cause
 and executes judgment for me.
@@ -49,7 +49,7 @@ I shall look upon his righteousness.
 
 [10] Then my enemy will see,
 and shame will cover her who said to me,
-"Where is Yahweh your *Elohim*?"
+"Where is ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧?"
 My eyes will look upon her;
 now she will be trampled down
 like the mire of the streets.
@@ -58,8 +58,8 @@ like the mire of the streets.
 In that day the boundary shall be far extended.
 
 [12] In that day they will come to you,
-from Assyria and the cities of Egypt,
-and from Egypt to the River,
+from ⟦assyria|Ashur|Assyria⟧ and the cities of ⟦egypt|Mitzrayim|Egypt⟧,
+and from ⟦egypt|Mitzrayim|Egypt⟧ to the River,
 from sea to sea and from mountain to mountain.
 
 [13] But the earth will be desolate
@@ -70,10 +70,10 @@ for the fruit of their deeds.
 the flock of your inheritance,
 who dwell alone in a forest
 in the midst of a garden land;
-let them graze in Bashan and Gilead
+let them graze in Bashan and ⟦gilead|Gilad|Gilead⟧
 as in the days of old.
 
-[15] As in the days when you came out of the land of Egypt,
+[15] As in the days when you came out of the land of ⟦egypt|Mitzrayim|Egypt⟧,
 I will show them marvelous things.
 
 [16] The nations shall see and be ashamed
@@ -84,30 +84,30 @@ their ears shall be deaf;
 [17] they shall lick the dust like a serpent,
 like the crawling things of the earth;
 they shall come trembling out of their strongholds;
-they shall turn in dread to Yahweh our *Elohim*,
+they shall turn in dread to ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧,
 and they shall be in fear of you.
 
-[18] **Who is an *Elohim* like you,
+[18] **Who is ⟦el|an El|a God⟧ like you,
 pardoning iniquity
 and passing over transgression
 for the remnant of his inheritance?
 He does not retain his anger forever,
-because he delights in steadfast love.**
+because he delights in ⟦steadfast-love|chesed|steadfast love⟧.**
 
 [19] He will again have compassion on us;
 he will tread our iniquities underfoot.
 You will cast all our sins
 into the depths of the sea.
 
-[20] You will show faithfulness to Jacob
-and steadfast love to Abraham,
+[20] You will show faithfulness to ⟦jacob|Yaaqov|Jacob⟧
+and ⟦steadfast-love|chesed|steadfast love⟧ to ⟦abraham|Avraham|Abraham⟧,
 as you have sworn to our fathers
 from the days of old.
 
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton יְהוָה rendered directly.
-- **"God" → "*Elohim*"** (vv7, 10, 17) — Hebrew אֱלֹהִים *Elohim*; "the *Elohim* of my salvation," "Where is Yahweh your *Elohim*?", "they shall turn in dread to Yahweh our *Elohim*."
+- **"God" → "*Elohim*" / "El"** (vv7, 10, 17; v18) — Hebrew אֱלֹהִים *Elohim*, and אֵל *El* in v18 ("Who is an El like you"); "the *Elohim* of my salvation," "Where is Yahweh your *Elohim*?", "they shall turn in dread to Yahweh our *Elohim*."
 
 ### Notes
 - **v18** — ***Mi-cha-El*** — pun on the prophet's own name ("Who is like *El*?") at book's close.

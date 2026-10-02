@@ -1,49 +1,49 @@
 # Leviticus 10
 
-[1] Nadab a Abihu, Aaronovi synové, vzali každý svou kadidelnici, dali do ní oheň, položili na něj kadidlo a přinesli před Yahweh cizí oheň – který jim nepřikázal.
+[1] ⟦nadab|Nadav|Nádab⟧ a ⟦abihu|Avihu|Abíhú⟧, ⟦aaron|Aharonovi|Áronovi⟧ synové, vzali každý svou kadidelnici, dali do ní oheň, položili na něj kadidlo a přinesli před ⟦yhwh|Jahveho|Hospodina⟧ cizí oheň – který jim nepřikázal.
 
-[2] I vyšel od Yahweh oheň a strávil je, a zemřeli před Yahweh.
+[2] I vyšel od ⟦yhwh|Jahveho|Hospodina⟧ oheň a strávil je, a zemřeli před ⟦yhwh|Jahvem|Hospodinem⟧.
 
-[3] Tehdy Moses řekl Aaronovi: „To je to, co Yahweh promluvil:
+[3] Tehdy ⟦moses|Moše|Mojžíš⟧ řekl ⟦aaron|Aharonovi|Áronovi⟧: „To je to, co ⟦yhwh|Jahve|Hospodin⟧ promluvil:
 
 ‚Na těch, kdo se ke mně přibližují, se prokážu svatým
 a přede vším lidem budu oslaven.‘“
 
-A Aaron mlčel.
+A ⟦aaron|Aharon|Áron⟧ mlčel.
 
-[4] Moses zavolal Mishaela a Elzaphana, syny Uzziela, Aaronova strýce, a řekl jim: „Přistupte a vyneste své bratry od svatyně ven za tábor.“
+[4] ⟦moses|Moše|Mojžíš⟧ zavolal ⟦mishael|Mišaela|Míšaela⟧ a ⟦elizaphan|Elcafana|Elsáfana⟧, syny ⟦uzziel|Uzziela|Uzíela⟧, ⟦aaron|Aharonova|Áronova⟧ strýce, a řekl jim: „Přistupte a vyneste své bratry od svatyně ven za tábor.“
 
-[5] Přistoupili tedy a vynesli je v jejich suknicích ven za tábor, jak Moses řekl.
+[5] Přistoupili tedy a vynesli je v jejich suknicích ven za tábor, jak ⟦moses|Moše|Mojžíš⟧ řekl.
 
-[6] Moses řekl Aaronovi a jeho synům Eleazarovi a Ithamarovi: „Nenechávejte své vlasy rozpuštěné a netrhejte svá roucha – abyste nezemřeli a hněv nepadl na celé společenství; ale vaši bratři, celý dům Israele, ať oplakávají spálení, které Yahweh zažehl.
+[6] ⟦moses|Moše|Mojžíš⟧ řekl ⟦aaron|Aharonovi|Áronovi⟧ a jeho synům ⟦eleazar|Elazarovi|Eleazarovi⟧ a ⟦ithamar|Itamarovi|Ítamarovi⟧: „Nenechávejte své vlasy rozpuštěné a netrhejte svá roucha – abyste nezemřeli a hněv nepadl na celé společenství; ale vaši bratři, celý dům ⟦israel|Jisraele|Izraele⟧, ať oplakávají spálení, které ⟦yhwh|Jahve|Hospodin⟧ zažehl.
 
-[7] Nevycházejte od vchodu do stanu setkávání, abyste nezemřeli; neboť olej pomazání Yahweh je na vás.“ A učinili podle Mosesova slova.
+[7] Nevycházejte od vchodu do stanu setkávání, abyste nezemřeli; neboť olej pomazání ⟦yhwh|Jahveho|Hospodina⟧ je na vás.“ A učinili podle ⟦moses|Mošova|Mojžíšova⟧ slova.
 
-[8] Yahweh promluvil k Aaronovi:
+[8] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦aaron|Aharonovi|Áronovi⟧:
 
 [9] „Nepij víno ani opojný nápoj – ty ani tvoji synové s tebou – když budete vcházet do stanu setkávání, abyste nezemřeli. Bude to věčné ustanovení po všechna vaše pokolení,
 
 [10] abyste rozlišovali mezi svatým a obyčejným a mezi nečistým a čistým
 
-[11] a abyste vyučovali syny Israele všem ustanovením, která jim Yahweh promluvil skrze Mosese.“
+[11] a abyste vyučovali syny ⟦israel|Jisraele|Izraele⟧ všem ustanovením, která jim ⟦yhwh|Jahve|Hospodin⟧ promluvil skrze ⟦moses|Moše|Mojžíše⟧.“
 
-[12] Moses řekl Aaronovi a Eleazarovi a Ithamarovi, jeho zbývajícím synům: „Vezměte obilnou oběť, která zbyla z ohnivých obětí Yahweh, a jezte ji nekvašenou vedle oltáře, neboť je nejsvětější.
+[12] ⟦moses|Moše|Mojžíš⟧ řekl ⟦aaron|Aharonovi|Áronovi⟧ a ⟦eleazar|Elazarovi|Eleazarovi⟧ a ⟦ithamar|Itamarovi|Ítamarovi⟧, jeho zbývajícím synům: „Vezměte obilnou oběť, která zbyla z ohnivých obětí ⟦yhwh|Jahveho|Hospodina⟧, a jezte ji nekvašenou vedle oltáře, neboť je nejsvětější.
 
-[13] Budete ji jíst na svatém místě, protože je to tvůj nárok a nárok tvých synů z ohnivých obětí Yahweh – neboť tak mi bylo přikázáno.
+[13] Budete ji jíst na svatém místě, protože je to tvůj nárok a nárok tvých synů z ohnivých obětí ⟦yhwh|Jahveho|Hospodina⟧ – neboť tak mi bylo přikázáno.
 
-[14] Ale hruď oběti pozdvižení a kýtu příspěvku budete jíst na čistém místě – ty a tvoji synové a tvé dcery s tebou – neboť jsou dány jako tvůj nárok a nárok tvých synů z pokojných obětí synů Israele.
+[14] Ale hruď oběti pozdvižení a kýtu příspěvku budete jíst na čistém místě – ty a tvoji synové a tvé dcery s tebou – neboť jsou dány jako tvůj nárok a nárok tvých synů z pokojných obětí synů ⟦israel|Jisraele|Izraele⟧.
 
-[15] Kýtu příspěvku a hruď oběti pozdvižení přinesou spolu s ohnivými oběťmi z tuku, aby je pozdvihli jako oběť pozdvižení před Yahweh; a budou patřit tobě a tvým synům s tebou jako věčný nárok, jak Yahweh přikázal.“
+[15] Kýtu příspěvku a hruď oběti pozdvižení přinesou spolu s ohnivými oběťmi z tuku, aby je pozdvihli jako oběť pozdvižení před ⟦yhwh|Jahvem|Hospodinem⟧; a budou patřit tobě a tvým synům s tebou jako věčný nárok, jak ⟦yhwh|Jahve|Hospodin⟧ přikázal.“
 
-[16] Moses horlivě pátral po kozlu oběti za hřích, a hle, byl spálen; i rozhněval se na Eleazara a Ithamara, zbývající Aaronovy syny, a řekl:
+[16] ⟦moses|Moše|Mojžíš⟧ horlivě pátral po kozlu oběti za hřích, a hle, byl spálen; i rozhněval se na ⟦eleazar|Elazara|Eleazara⟧ a ⟦ithamar|Itamara|Ítamara⟧, zbývající ⟦aaron|Aharonovy|Áronovy⟧ syny, a řekl:
 
-[17] „Proč jste nejedli oběť za hřích na svatém místě? Vždyť je nejsvětější, a on vám ji dal, abyste nesli vinu společenství a vykonali za ně smíření před Yahweh.
+[17] „Proč jste nejedli oběť za hřích na svatém místě? Vždyť je nejsvětější, a on vám ji dal, abyste nesli vinu společenství a vykonali za ně smíření před ⟦yhwh|Jahvem|Hospodinem⟧.
 
 [18] Hle, její krev nebyla vnesena dovnitř do svatyně; jistě jste ji měli jíst ve svatyni, jak jsem přikázal.“
 
-[19] Aaron řekl Mosesovi: „Hle, dnes přinesli svou oběť za hřích a svou zápalnou oběť před Yahweh, a přece mě potkaly takové věci. Kdybych dnes jedl oběť za hřích, bylo by to dobré v očích Yahweh?“
+[19] ⟦aaron|Aharon|Áron⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Hle, dnes přinesli svou oběť za hřích a svou zápalnou oběť před ⟦yhwh|Jahveho|Hospodina⟧, a přece mě potkaly takové věci. Kdybych dnes jedl oběť za hřích, bylo by to dobré v očích ⟦yhwh|Jahveho|Hospodina⟧?“
 
-[20] Když to Moses uslyšel, byl spokojen.
+[20] Když to ⟦moses|Moše|Mojžíš⟧ uslyšel, byl spokojen.
 
 ## Změny
 

@@ -1,23 +1,23 @@
 # Izajáš 6
 
-[1] V roce, kdy zemřel král Uzziah, viděl jsem Pána sedět na trůnu vysokém a vyvýšeném; a lem jeho roucha naplňoval chrám.
+[1] V roce, kdy zemřel král ⟦uzziah|Uzzijahu|Uzijáš⟧, viděl jsem ⟦adonai|Adonaje|Pána⟧ sedět na trůnu vysokém a vyvýšeném; a lem jeho roucha naplňoval chrám.
 
-[2] Nad ním stáli serafové. Každý měl šest křídel: dvěma si zakrýval tvář, dvěma si zakrýval nohy a dvěma létal.
+[2] Nad ním stáli ⟦seraphim|serafim|serafové⟧. Každý měl šest křídel: dvěma si zakrýval tvář, dvěma si zakrýval nohy a dvěma létal.
 
 [3] A volal jeden na druhého a říkal:
 
-„Svatý, svatý, svatý je Yahweh zástupů;
+„Svatý, svatý, svatý je ⟦yhwh|Jahve|Hospodin⟧ zástupů;
 celá země je plná jeho slávy!“
 
 [4] A základy prahů se otřásly hlasem toho, kdo volal, a dům se naplnil dýmem.
 
-[5] I řekl jsem: „Běda mi! Jsem ztracen, neboť jsem muž nečistých rtů a přebývám uprostřed lidu nečistých rtů; a mé oči viděly Krále, Yahweh zástupů!“
+[5] I řekl jsem: „Běda mi! Jsem ztracen, neboť jsem muž nečistých rtů a přebývám uprostřed lidu nečistých rtů; a mé oči viděly Krále, ⟦yhwh|Jahveho|Hospodina⟧ zástupů!“
 
-[6] Tu ke mně přiletěl jeden ze serafů a v ruce měl žhavý uhlík, který vzal kleštěmi z oltáře.
+[6] Tu ke mně přiletěl jeden ze ⟦seraphim|serafim|serafů⟧ a v ruce měl žhavý uhlík, který vzal kleštěmi z oltáře.
 
 [7] Dotkl se mých úst a řekl: „Hle, toto se dotklo tvých rtů; tvá vina je odňata a tvůj hřích usmířen.“
 
-[8] Tu jsem uslyšel hlas Pána, který říkal: „Koho pošlu a kdo pro nás půjde?“ I řekl jsem: „Hle, zde jsem! Pošli mě.“
+[8] Tu jsem uslyšel hlas ⟦adonai|Adonaje|Pána⟧, který říkal: „Koho pošlu a kdo pro nás půjde?“ I řekl jsem: „Hle, zde jsem! Pošli mě.“
 
 [9] On řekl: „Jdi a řekni tomuto lidu:
 
@@ -32,13 +32,13 @@ a neslyšel svýma ušima
 a nepochopil svým srdcem
 a neobrátil se a nebyl uzdraven.“
 
-[11] Tu jsem řekl: „Dokud, Pane?“ A on řekl:
+[11] Tu jsem řekl: „Dokud, ⟦adonai|Adonaji|Pane⟧?“ A on řekl:
 
 „Dokud města nebudou ležet pustá bez obyvatel
 a domy bez lidí
 a země nebude zpustošenou pustinou
 
-[12] a Yahweh neodvede lidi daleko
+[12] a ⟦yhwh|Jahve|Hospodin⟧ neodvede lidi daleko
 a opuštěných míst nebude mnoho uprostřed země.
 
 [13] A i když v ní zůstane desetina,

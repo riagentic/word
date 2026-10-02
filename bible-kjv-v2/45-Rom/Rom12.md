@@ -1,14 +1,14 @@
 # Romans 12
 
-[1] I appeal to you therefore, brothers, by the mercies of *Elohim*, to present your bodies as a living sacrifice, holy and acceptable to *Elohim*, which is your spiritual worship.
+[1] I appeal to you therefore, brothers, by the mercies of ⟦elohim|Elohim|God⟧, to present your bodies as a living sacrifice, holy and acceptable to ⟦elohim|Elohim|God⟧, which is your spiritual worship.
 
-[2] Do not be conformed to this age, but be transformed by the renewal of your mind, that by testing you may discern what is the will of *Elohim*, what is good and acceptable and perfect.
+[2] Do not be conformed to this age, but be transformed by the renewal of your mind, that by testing you may discern what is the will of ⟦elohim|Elohim|God⟧, what is good and acceptable and perfect.
 
-[3] For by the grace given to me I say to everyone among you not to think of himself more highly than he ought to think, but to think with sober judgment, each according to the measure of faith that *Elohim* has assigned.
+[3] For by the grace given to me I say to everyone among you not to think of himself more highly than he ought to think, but to think with sober judgment, each according to the measure of faith that ⟦elohim|Elohim|God⟧ has assigned.
 
 [4] For as in one body we have many members, and the members do not all have the same function,
 
-[5] so we, though many, are one body in the *Mashiach*, and individually members one of another.
+[5] so we, though many, are one body in ⟦mashiach|the Mashiach|Christ⟧, and individually members one of another.
 
 [6] Having gifts that differ according to the grace given to us, let us use them: if prophecy, in proportion to our faith;
 
@@ -36,7 +36,7 @@
 
 [18] If possible, so far as it depends on you, live peaceably with all.
 
-[19] Beloved, never avenge yourselves, but leave it to the wrath of *Elohim*, for it is written, "**Vengeance is mine, I will repay**, says the Lord."
+[19] Beloved, never avenge yourselves, but leave it to the wrath of ⟦elohim|Elohim|God⟧, for it is written, "**Vengeance is mine, I will repay**, says the Lord."
 
 [20] To the contrary, "**if your enemy is hungry, feed him; if he is thirsty, give him something to drink; for by so doing you will heap burning coals on his head**."
 

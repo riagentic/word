@@ -1,44 +1,44 @@
 # Genesis 33
 
-[1] Jacob lifted up his eyes and looked, and behold, Esau was coming, and with him 400 men. So he divided the children between Leah, Rachel, and the two slave-girls.
+[1] ⟦jacob|Yaaqov|Jacob⟧ lifted up his eyes and looked, and behold, ⟦esau|Esav|Esau⟧ was coming, and with him 400 men. So he divided the children between Leah, Rachel, and the two slave-girls.
 
-[2] He put the slave-girls and their children in front, Leah and her children after them, and Rachel and Joseph last.
+[2] He put the slave-girls and their children in front, Leah and her children after them, and Rachel and ⟦joseph|Yosef|Joseph⟧ last.
 
 [3] He himself passed on before them and bowed to the ground seven times until he drew near to his brother.
 
-[4] But Esau ran to meet him, and embraced him, and fell on his neck and kissed him; and they wept.
+[4] But ⟦esau|Esav|Esau⟧ ran to meet him, and embraced him, and fell on his neck and kissed him; and they wept.
 
-[5] Then he lifted up his eyes and saw the women and the children, and said, "Who are these with you?" He said, "The children whom *Elohim* has graciously given your servant."
+[5] Then he lifted up his eyes and saw the women and the children, and said, "Who are these with you?" He said, "The children whom ⟦elohim|Elohim|God⟧ has graciously given your servant."
 
 [6] Then the slave-girls drew near, they and their children, and they bowed themselves.
 
-[7] Leah too with her children drew near and bowed; and after them Joseph and Rachel drew near and bowed.
+[7] Leah too with her children drew near and bowed; and after them ⟦joseph|Yosef|Joseph⟧ and Rachel drew near and bowed.
 
 [8] He said, "What do you mean by all this camp that I met?" He said, "To find favor in the sight of my lord."
 
-[9] But Esau said, "I have plenty, my brother; keep what you have for yourself."
+[9] But ⟦esau|Esav|Esau⟧ said, "I have plenty, my brother; keep what you have for yourself."
 
-[10] Jacob said, "No, please, if I have found favor in your sight, then accept my present from my hand — because truly to see your face is like seeing the face of *Elohim*, since you have received me favorably.
+[10] ⟦jacob|Yaaqov|Jacob⟧ said, "No, please, if I have found favor in your sight, then accept my present from my hand — because truly to see your face is like seeing the face of ⟦elohim|Elohim|God⟧, since you have received me favorably.
 
-[11] Please accept my blessing-gift which was brought to you, because *Elohim* has dealt graciously with me and because I have all I need." So he urged him, and he took it.
+[11] Please accept my blessing-gift which was brought to you, because ⟦elohim|Elohim|God⟧ has dealt graciously with me and because I have all I need." So he urged him, and he took it.
 
-[12] Then Esau said, "Let us start our journey, and let us go; and I will go alongside you."
+[12] Then ⟦esau|Esav|Esau⟧ said, "Let us start our journey, and let us go; and I will go alongside you."
 
-[13] But Jacob said to him, "My lord knows that the children are delicate, and that the flocks and herds with young are with me; if I drive them hard for one day, all the flocks will die.
+[13] But ⟦jacob|Yaaqov|Jacob⟧ said to him, "My lord knows that the children are delicate, and that the flocks and herds with young are with me; if I drive them hard for one day, all the flocks will die.
 
 [14] Please let my lord pass on ahead of his servant, and I will travel slowly, at the pace of the herds before me and of the children, until I come to my lord at Seir."
 
-[15] Esau said, "Let me then leave with you some of the people who are with me." But Jacob said, "Why? Let me just find favor in the sight of my lord."
+[15] ⟦esau|Esav|Esau⟧ said, "Let me then leave with you some of the people who are with me." But ⟦jacob|Yaaqov|Jacob⟧ said, "Why? Let me just find favor in the sight of my lord."
 
-[16] So Esau returned that day on his way to Seir.
+[16] So ⟦esau|Esav|Esau⟧ returned that day on his way to Seir.
 
-[17] But Jacob journeyed to Succoth, and built himself a house, and made booths for his livestock; therefore the place is called Succoth.
+[17] But ⟦jacob|Yaaqov|Jacob⟧ journeyed to ⟦succoth|Sukkot|Succoth⟧, and built himself a house, and made booths for his livestock; therefore the place is called ⟦succoth|Sukkot|Succoth⟧.
 
-[18] Jacob came safely to the city of Shechem, which is in the land of Canaan, when he came from Paddan-Aram; and he camped in front of the city.
+[18] ⟦jacob|Yaaqov|Jacob⟧ came safely to the city of Shechem, which is in the land of ⟦canaan|Kenaan|Canaan⟧, when he came from ⟦paddan-aram|Paddan Aram|Paddan-Aram⟧; and he camped in front of the city.
 
-[19] He bought the parcel of land on which he had pitched his tent from the sons of Hamor, Shechem's father, for 100 qesitahs.
+[19] He bought the parcel of land on which he had pitched his tent from the sons of ⟦hamor|Chamor|Hamor⟧, Shechem's father, for 100 ⟦qesitah|qesitahs|pieces of money⟧.
 
-[20] And he erected there an altar and called it El-Elohe-Israel.
+[20] And he erected there an altar and called it ⟦el-elohe-israel|El Elohei Yisrael|El-Elohe-Israel⟧.
 
 ## Changes
 

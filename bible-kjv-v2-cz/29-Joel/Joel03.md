@@ -1,20 +1,20 @@
 # Jóel 3
 
-[1] „Neboť hle, v těch dnech a v tom čase, až změním úděl Judah a Jerusalemu,
+[1] „Neboť hle, v těch dnech a v tom čase, až změním úděl ⟦judah|Jehudy|Judy⟧ a ⟦jerusalem|Jerušalajim|Jeruzaléma⟧,
 
-[2] shromáždím všechny národy a přivedu je dolů do údolí Jehoshaphat. Tam s nimi vejdu v soud kvůli svému lidu a svému dědictví Israeli, protože je rozptýlili mezi národy a rozdělili si mou zemi,
+[2] shromáždím všechny národy a přivedu je dolů do údolí ⟦jehoshaphat|Jehošafat|Jóšafatu⟧. Tam s nimi vejdu v soud kvůli svému lidu a svému dědictví ⟦israel|Jisraeli|Izraeli⟧, protože je rozptýlili mezi národy a rozdělili si mou zemi,
 
 [3] metali los o můj lid, směnili chlapce za nevěstku, prodali děvče za víno a vypili je.
 
-[4] Co jste mi, Tyre a Sidone a všechny krajiny Philistie? Oplácíte mi snad něco? Jestliže mi oplácíte, rychle a spěšně vám vaši odplatu obrátím na vaši vlastní hlavu.
+[4] Co jste mi, ⟦tyre|Core|Týre⟧ a ⟦sidon|Cidone|Sidóne⟧ a všechny krajiny ⟦philistia|Pelešet|Pelištejska⟧? Oplácíte mi snad něco? Jestliže mi oplácíte, rychle a spěšně vám vaši odplatu obrátím na vaši vlastní hlavu.
 
 [5] Vzali jste totiž mé stříbro a mé zlato a mé vzácné poklady jste odnesli do svých chrámů.
 
-[6] Syny Judah a Jerusalemu jste prodali Řekům, abyste je vzdálili od jejich vlastního území.
+[6] Syny ⟦judah|Jehudy|Judy⟧ a ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ jste prodali ⟦greeks|Jevanim|Řekům⟧, abyste je vzdálili od jejich vlastního území.
 
 [7] Hle, vyburcuji je z místa, kam jste je prodali, a vaši odplatu obrátím na vaši vlastní hlavu.
 
-[8] Prodám vaše syny a vaše dcery do rukou synů Judah a ti je prodají Sabejcům, dalekému národu, neboť Yahweh promluvil.
+[8] Prodám vaše syny a vaše dcery do rukou synů ⟦judah|Jehudy|Judy⟧ a ti je prodají ⟦sabeans|Ševaim|Šebajcům⟧, dalekému národu, neboť ⟦yhwh|Jahve|Hospodin⟧ promluvil.
 
 [9] Vyhlaste to mezi národy:
 Posvěťte se k boji,
@@ -28,10 +28,10 @@ slabý ať říká: „Jsem bojovník.“
 
 [11] Pospěšte a přijďte, všechny okolní národy,
 a shromážděte se tam.
-Přiveď dolů své bojovníky, Yahweh.
+Přiveď dolů své bojovníky, ⟦yhwh|Jahve|Hospodine⟧.
 
 [12] Ať se národy vyburcují
-a vytáhnou do údolí Jehoshaphat;
+a vytáhnou do údolí ⟦jehoshaphat|Jehošafat|Jóšafatu⟧;
 neboť tam zasednu, abych soudil
 všechny okolní národy.
 
@@ -44,38 +44,38 @@ neboť jejich zlo je veliké.
 
 [14] Zástupy, zástupy
 v údolí Rozhodnutí!
-Neboť Den Yahweh je blízko
+Neboť Den ⟦yhwh|Jahveho|Hospodina⟧ je blízko
 v údolí Rozhodnutí.
 
 [15] Slunce i měsíc se zatmívají
 a hvězdy odnímají svůj svit.
 
-[16] Yahweh řve ze Zionu
-a vydává svůj hlas z Jerusalemu
+[16] ⟦yhwh|Jahve|Hospodin⟧ řve ze ⟦zion|Cijonu|Sijónu⟧
+a vydává svůj hlas z ⟦jerusalem|Jerušalajim|Jeruzaléma⟧
 a nebesa i země se otřásají.
-Ale Yahweh je útočištěm svému lidu,
-pevností synům Israele.
+Ale ⟦yhwh|Jahve|Hospodin⟧ je útočištěm svému lidu,
+pevností synům ⟦israel|Jisraele|Izraele⟧.
 
-[17] Tak poznáte, že já jsem Yahweh, váš *Elohim*, který přebývá na Zionu, své svaté hoře. Jerusalem bude svatý a cizinci jím už nikdy neprojdou.
+[17] Tak poznáte, že já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧, který přebývá na ⟦zion|Cijonu|Sijónu⟧, své svaté hoře. ⟦jerusalem|Jerušalajim|Jeruzalém⟧ bude svatý a cizinci jím už nikdy neprojdou.
 
 [18] V ten den
 budou hory kanout sladkým vínem,
 pahorky budou oplývat mlékem
-a všechna koryta potoků Judah
+a všechna koryta potoků ⟦judah|Jehudy|Judy⟧
 budou plná tekoucí vody;
-z domu Yahweh vytryskne pramen
-a zavlaží údolí Shittim.
+z domu ⟦yhwh|Jahveho|Hospodina⟧ vytryskne pramen
+a zavlaží údolí ⟦shittim|Šittim|Šitím⟧.
 
-[19] Egypt se stane pustinou
-a Edom zpustošenou pouští
-pro násilí spáchané na synech Judah,
+[19] ⟦egypt|Micrajim|Egypt⟧ se stane pustinou
+a ⟦edom|Edom|Edóm⟧ zpustošenou pouští
+pro násilí spáchané na synech ⟦judah|Jehudy|Judy⟧,
 protože v jejich zemi prolévali nevinnou krev.
 
-[20] Ale Judah bude obýván navěky
-a Jerusalem po všechna pokolení.
+[20] Ale ⟦judah|Jehuda|Juda⟧ bude obýván navěky
+a ⟦jerusalem|Jerušalajim|Jeruzalém⟧ po všechna pokolení.
 
 [21] Pomstím jejich krev, krev, kterou jsem dosud nepomstil,
-neboť Yahweh přebývá na Zionu.“
+neboť ⟦yhwh|Jahve|Hospodin⟧ přebývá na ⟦zion|Cijonu|Sijónu⟧.“
 
 ## Změny
 

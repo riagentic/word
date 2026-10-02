@@ -28,13 +28,13 @@ svýma očima přesívá všechno zlo.
 jsem čistý od svého hříchu“?
 
 [10] Dvojí závaží a dvojí míra
-jsou obojí stejně Yahweh ohavností.
+jsou obojí stejně ⟦yhwh|Jahvovi|Hospodinu⟧ ohavností.
 
 [11] I dítě se dává poznat svými činy,
 podle toho, zda je jeho jednání čisté a přímé.
 
 [12] Ucho, které slyší, a oko, které vidí –
-obojí učinil Yahweh.
+obojí učinil ⟦yhwh|Jahve|Hospodin⟧.
 
 [13] Nemiluj spánek, abys nepřišel k chudobě;
 otevři oči a budeš mít chleba dost.
@@ -64,12 +64,12 @@ jeho lampa zhasne v hluboké tmě.
 nebude na konci požehnáno.
 
 [22] Neříkej: „Odplatím zlo“;
-čekej na Yahweh a on tě vysvobodí.
+čekej na ⟦yhwh|Jahveho|Hospodina⟧ a on tě vysvobodí.
 
-[23] Dvojí závaží jsou Yahweh ohavností
+[23] Dvojí závaží jsou ⟦yhwh|Jahvovi|Hospodinu⟧ ohavností
 a falešné váhy nejsou dobré.
 
-[24] Kroky člověka jsou od Yahweh;
+[24] Kroky člověka jsou od ⟦yhwh|Jahveho|Hospodina⟧;
 jak tedy může člověk porozumět své cestě?
 
 [25] Je osidlem ukvapeně říci: „Je to svaté,“
@@ -78,7 +78,7 @@ a uvažovat teprve po složení slibů.
 [26] Moudrý král přesívá ničemné
 a přejíždí je kolem.
 
-[27] Nishmat adam – dech člověka – je lampou Yahweh,
+[27] ⟦nishmat-adam|Nišmat adam – dech člověka –|Lidský duch⟧ je lampou ⟦yhwh|Jahveho|Hospodina⟧,
 která prohledává všechny jeho nejvnitřnější útroby.
 
 [28] Věrná láska a věrnost chrání krále

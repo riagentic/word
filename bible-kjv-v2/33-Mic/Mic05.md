@@ -2,46 +2,46 @@
 
 [1] Now muster your troops, O daughter of troops;
 siege is laid against us;
-with a rod they strike the judge of Israel
+with a rod they strike the judge of ⟦israel|Yisrael|Israel⟧
 on the cheek.
 
-[2] **But you, O Bethlehem Ephratah,
-who are too little to be among the clans of Judah,
+[2] **But you, O ⟦bethlehem|Beit Lechem|Bethlehem⟧ ⟦ephrathah|Efratah|Ephrathah⟧,
+who are too little to be among the clans of ⟦judah|Yehudah|Judah⟧,
 from you shall come forth for me
-one who is to be ruler in Israel,
-whose motza'ot — goings forth — are from of old,
+one who is to be ruler in ⟦israel|Yisrael|Israel⟧,
+whose ⟦motzaot|motza'ot — goings forth — are|coming forth is⟧ from of old,
 from ancient days.**
 
 [3] Therefore he shall give them up until the time
 when she who is in labor has given birth;
 then the rest of his brothers shall return
-to the people of Israel.
+to the people of ⟦israel|Yisrael|Israel⟧.
 
-[4] And he shall stand and shepherd his flock in the strength of Yahweh,
-in the majesty of the name of Yahweh his *Elohim*.
+[4] And he shall stand and shepherd his flock in the strength of ⟦yhwh|Yahweh|the LORD⟧,
+in the majesty of the name of ⟦yhwh|Yahweh|the LORD⟧ his ⟦elohim|Elohim|God⟧.
 And they shall dwell secure, for now he shall be great
 to the ends of the earth.
 
 [5] And he shall be their peace.
-When the Assyrian comes into our land
+When ⟦assyria|Ashur|the Assyrian⟧ comes into our land
 and treads in our palaces,
 then we will raise against him seven shepherds
 and eight princes of men;
 
-[6] they shall shepherd the land of Assyria with the sword,
+[6] they shall shepherd the land of ⟦assyria|Ashur|Assyria⟧ with the sword,
 and the land of Nimrod at its entrances;
-and he shall deliver us from the Assyrian
+and he shall deliver us from ⟦assyria|Ashur|the Assyrian⟧
 when he comes into our land
 and treads within our border.
 
-[7] Then the remnant of Jacob shall be
+[7] Then the remnant of ⟦jacob|Yaaqov|Jacob⟧ shall be
 in the midst of many peoples
-like dew from Yahweh,
+like dew from ⟦yhwh|Yahweh|the LORD⟧,
 like showers on the grass,
 which delay not for a man
 nor wait for the children of man.
 
-[8] And the remnant of Jacob shall be among the nations,
+[8] And the remnant of ⟦jacob|Yaaqov|Jacob⟧ shall be among the nations,
 in the midst of many peoples,
 like a lion among the beasts of the forest,
 like a young lion among the flocks of sheep,
@@ -51,7 +51,7 @@ and tears in pieces, and there is none to deliver.
 [9] Your hand shall be lifted up over your adversaries,
 and all your enemies shall be cut off.
 
-[10] "And in that day," declares Yahweh,
+[10] "And in that day," declares ⟦yhwh|Yahweh|the LORD⟧,
 "I will cut off your horses from among you
 and will destroy your chariots;
 

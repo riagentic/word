@@ -1,66 +1,66 @@
 # Genesis 1
 
-[1] Na počátku stvořil *Elohim* nebesa a zemi.
+[1] Na počátku stvořil ⟦elohim|Elohim|Bůh⟧ nebesa a zemi.
 
-[2] Země byla divá a pustá a nad tváří hlubiny byla tma; a Duch *Elohim* se vznášel nad tváří vod.
+[2] Země byla divá a pustá a nad tváří hlubiny byla tma; a Duch ⟦elohim|Elohim|Boží⟧ se vznášel nad tváří vod.
 
-[3] I řekl *Elohim*: „Buď světlo!“ A bylo světlo.
+[3] I řekl ⟦elohim|Elohim|Bůh⟧: „Buď světlo!“ A bylo světlo.
 
-[4] *Elohim* viděl, že světlo je dobré, a *Elohim* oddělil světlo od tmy.
+[4] ⟦elohim|Elohim|Bůh⟧ viděl, že světlo je dobré, a ⟦elohim|Elohim|Bůh⟧ oddělil světlo od tmy.
 
-[5] *Elohim* nazval světlo „Den“ a tmu nazval „Noc“. A byl večer a bylo jitro – den jeden.
+[5] ⟦elohim|Elohim|Bůh⟧ nazval světlo „Den“ a tmu nazval „Noc“. A byl večer a bylo jitro – den jeden.
 
-[6] I řekl *Elohim*: „Buď klenba uprostřed vod a ať odděluje vody od vod.“
+[6] I řekl ⟦elohim|Elohim|Bůh⟧: „Buď klenba uprostřed vod a ať odděluje vody od vod.“
 
-[7] Tak *Elohim* učinil klenbu a oddělil vody pod klenbou od vod nad klenbou. A stalo se tak.
+[7] Tak ⟦elohim|Elohim|Bůh⟧ učinil klenbu a oddělil vody pod klenbou od vod nad klenbou. A stalo se tak.
 
-[8] *Elohim* nazval klenbu „Nebesa“. A byl večer a bylo jitro – den druhý.
+[8] ⟦elohim|Elohim|Bůh⟧ nazval klenbu „Nebesa“. A byl večer a bylo jitro – den druhý.
 
-[9] I řekl *Elohim*: „Ať se vody pod nebesy shromáždí na jedno místo a ať se ukáže souš.“ A stalo se tak.
+[9] I řekl ⟦elohim|Elohim|Bůh⟧: „Ať se vody pod nebesy shromáždí na jedno místo a ať se ukáže souš.“ A stalo se tak.
 
-[10] *Elohim* nazval souš „Země“ a shromážděné vody nazval „Moře“. A *Elohim* viděl, že je to dobré.
+[10] ⟦elohim|Elohim|Bůh⟧ nazval souš „Země“ a shromážděné vody nazval „Moře“. A ⟦elohim|Elohim|Bůh⟧ viděl, že je to dobré.
 
-[11] I řekl *Elohim*: „Ať země vyrazí zeleň: byliny nesoucí semeno a ovocné stromy nesoucí plody se semenem v nich, každý podle svého druhu, na zemi.“ A stalo se tak.
+[11] I řekl ⟦elohim|Elohim|Bůh⟧: „Ať země vyrazí zeleň: byliny nesoucí semeno a ovocné stromy nesoucí plody se semenem v nich, každý podle svého druhu, na zemi.“ A stalo se tak.
 
-[12] Země vydala zeleň: byliny nesoucí semeno podle svých druhů a stromy nesoucí plody se semenem v nich podle svých druhů. A *Elohim* viděl, že je to dobré.
+[12] Země vydala zeleň: byliny nesoucí semeno podle svých druhů a stromy nesoucí plody se semenem v nich podle svých druhů. A ⟦elohim|Elohim|Bůh⟧ viděl, že je to dobré.
 
 [13] A byl večer a bylo jitro – den třetí.
 
-[14] I řekl *Elohim*: „Buďte světla na klenbě nebes, aby oddělovala den od noci, a ať jsou na znamení, na určené časy, na dny a na roky,
+[14] I řekl ⟦elohim|Elohim|Bůh⟧: „Buďte světla na klenbě nebes, aby oddělovala den od noci, a ať jsou na znamení, na určené časy, na dny a na roky,
 
 [15] a ať jsou světly na klenbě nebes, aby svítila na zemi.“ A stalo se tak.
 
-[16] *Elohim* učinil ta dvě veliká světla – větší světlo, aby vládlo dni, a menší světlo, aby vládlo noci – a hvězdy.
+[16] ⟦elohim|Elohim|Bůh⟧ učinil ta dvě veliká světla – větší světlo, aby vládlo dni, a menší světlo, aby vládlo noci – a hvězdy.
 
-[17] *Elohim* je umístil na klenbu nebes, aby svítila na zemi,
+[17] ⟦elohim|Elohim|Bůh⟧ je umístil na klenbu nebes, aby svítila na zemi,
 
-[18] aby vládla dni i noci a aby oddělovala světlo od tmy. A *Elohim* viděl, že je to dobré.
+[18] aby vládla dni i noci a aby oddělovala světlo od tmy. A ⟦elohim|Elohim|Bůh⟧ viděl, že je to dobré.
 
 [19] A byl večer a bylo jitro – den čtvrtý.
 
-[20] I řekl *Elohim*: „Ať se vody zahemží hemžením živých bytostí a ať ptáci létají nad zemí po tváři klenby nebes.“
+[20] I řekl ⟦elohim|Elohim|Bůh⟧: „Ať se vody zahemží hemžením živých bytostí a ať ptáci létají nad zemí po tváři klenby nebes.“
 
-[21] Tak *Elohim* stvořil veliké mořské tvory a každou živou bytost, která se pohybuje, jíž se vody hemží, podle jejich druhů, a každého okřídleného ptáka podle jeho druhu. A *Elohim* viděl, že je to dobré.
+[21] Tak ⟦elohim|Elohim|Bůh⟧ stvořil veliké mořské tvory a každou živou bytost, která se pohybuje, jíž se vody hemží, podle jejich druhů, a každého okřídleného ptáka podle jeho druhu. A ⟦elohim|Elohim|Bůh⟧ viděl, že je to dobré.
 
-[22] *Elohim* jim požehnal a řekl: „Ploďte a množte se a naplňte vody v mořích a ptáci ať se množí na zemi.“
+[22] ⟦elohim|Elohim|Bůh⟧ jim požehnal a řekl: „Ploďte a množte se a naplňte vody v mořích a ptáci ať se množí na zemi.“
 
 [23] A byl večer a bylo jitro – den pátý.
 
-[24] I řekl *Elohim*: „Ať země vydá živé bytosti podle jejich druhů: dobytek, plazy a divokou zvěř země podle jejich druhů.“ A stalo se tak.
+[24] I řekl ⟦elohim|Elohim|Bůh⟧: „Ať země vydá živé bytosti podle jejich druhů: dobytek, plazy a divokou zvěř země podle jejich druhů.“ A stalo se tak.
 
-[25] *Elohim* učinil divokou zvěř země podle jejích druhů, dobytek podle jeho druhů a každého plaza země podle jeho druhu. A *Elohim* viděl, že je to dobré.
+[25] ⟦elohim|Elohim|Bůh⟧ učinil divokou zvěř země podle jejích druhů, dobytek podle jeho druhů a každého plaza země podle jeho druhu. A ⟦elohim|Elohim|Bůh⟧ viděl, že je to dobré.
 
-[26] Potom *Elohim* řekl: „Učiňme lidstvo ke svému obrazu, podle své podoby, a ať vládnou nad rybami moře, nad ptáky nebes, nad dobytkem, nad celou zemí a nad každým plazem, který se plazí po zemi.“
+[26] Potom ⟦elohim|Elohim|Bůh⟧ řekl: „Učiňme lidstvo ke svému obrazu, podle své podoby, a ať vládnou nad rybami moře, nad ptáky nebes, nad dobytkem, nad celou zemí a nad každým plazem, který se plazí po zemi.“
 
-[27] Tak *Elohim* stvořil člověka ke svému obrazu; k obrazu *Elohim* ho stvořil; muže a ženu je stvořil.
+[27] Tak ⟦elohim|Elohim|Bůh⟧ stvořil člověka ke svému obrazu; k obrazu ⟦elohim|Elohim|Božímu⟧ ho stvořil; muže a ženu je stvořil.
 
-[28] *Elohim* jim požehnal a *Elohim* jim řekl: „Ploďte a množte se, naplňte zemi a podmaňte si ji. Vládněte nad rybami moře, nad ptáky nebes a nad každým živým tvorem, který se pohybuje po zemi.“
+[28] ⟦elohim|Elohim|Bůh⟧ jim požehnal a ⟦elohim|Elohim|Bůh⟧ jim řekl: „Ploďte a množte se, naplňte zemi a podmaňte si ji. Vládněte nad rybami moře, nad ptáky nebes a nad každým živým tvorem, který se pohybuje po zemi.“
 
-[29] I řekl *Elohim*: „Hle, dal jsem vám každou bylinu nesoucí semeno na tváři celé země a každý strom, jenž má plod nesoucí semeno. Budou vám za pokrm.
+[29] I řekl ⟦elohim|Elohim|Bůh⟧: „Hle, dal jsem vám každou bylinu nesoucí semeno na tváři celé země a každý strom, jenž má plod nesoucí semeno. Budou vám za pokrm.
 
 [30] A všem divokým zvířatům země, všem ptákům nebes a každému tvoru, který se plazí po zemi – všemu, co má v sobě dech života – jsem dal za pokrm každou zelenou bylinu.“ A stalo se tak.
 
-[31] *Elohim* viděl všechno, co učinil, a hle, bylo to velmi dobré. A byl večer a bylo jitro – den šestý.
+[31] ⟦elohim|Elohim|Bůh⟧ viděl všechno, co učinil, a hle, bylo to velmi dobré. A byl večer a bylo jitro – den šestý.
 
 ## Změny
 

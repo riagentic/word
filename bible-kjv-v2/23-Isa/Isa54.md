@@ -4,7 +4,7 @@
 break forth into singing and cry aloud,
 you who have not been in labor!
 For the children of the desolate one will be more
-than the children of her who is married," says Yahweh.
+than the children of her who is married," says ⟦yhwh|Yahweh|the LORD⟧.
 
 [2] "Enlarge the place of your tent,
 and let the curtains of your habitations be stretched out;
@@ -21,14 +21,14 @@ for you will forget the shame of your youth,
 and the reproach of your widowhood you will remember no more.
 
 [5] For your Maker is your husband,
-Yahweh of Hosts is his name;
-and the Holy One of Israel is your Redeemer,
-the *Elohim* of the whole earth he is called.
+⟦yhwh|Yahweh|the LORD⟧ of Hosts is his name;
+and the Holy One of ⟦israel|Yisrael|Israel⟧ is your Redeemer,
+the ⟦elohim|Elohim|God⟧ of the whole earth he is called.
 
-[6] For Yahweh has called you
+[6] For ⟦yhwh|Yahweh|the LORD⟧ has called you
 like a wife deserted and grieved in spirit,
 like a wife of youth when she is cast off,
-says your *Elohim*.
+says your ⟦elohim|Elohim|God⟧.
 
 [7] For a brief moment I deserted you,
 but with great compassion I will gather you.
@@ -37,10 +37,10 @@ but with great compassion I will gather you.
 I hid my face from you,
 but with everlasting steadfast love
 I will have compassion on you,"
-says Yahweh, your Redeemer.
+says ⟦yhwh|Yahweh|the LORD⟧, your Redeemer.
 
-[9] "This is like the days of Noah to me:
-as I swore that the waters of Noah
+[9] "This is like the days of ⟦noah|Noach|Noah⟧ to me:
+as I swore that the waters of ⟦noah|Noach|Noah⟧
 should no more go over the earth,
 so I have sworn that I will not be angry with you,
 and will not rebuke you.
@@ -49,7 +49,7 @@ and will not rebuke you.
 and the hills be removed,
 but my steadfast love shall not depart from you,
 and my covenant of peace shall not be removed,"
-says Yahweh, who has compassion on you.
+says ⟦yhwh|Yahweh|the LORD⟧, who has compassion on you.
 
 [11] "O afflicted one, storm-tossed and not comforted,
 behold, I will set your stones in antimony,
@@ -59,7 +59,7 @@ and lay your foundations with sapphires.
 your gates of carbuncles,
 and all your wall of precious stones.
 
-[13] All your children shall be taught by Yahweh,
+[13] All your children shall be taught by ⟦yhwh|Yahweh|the LORD⟧,
 and great shall be the peace of your children.
 
 [14] In righteousness you shall be established;
@@ -79,8 +79,8 @@ I have also created the ravager to destroy;
 
 [17] no weapon that is fashioned against you shall succeed,
 and you shall refute every tongue that rises against you in judgment.
-This is the heritage of the servants of Yahweh
-and their righteousness from me, declares Yahweh."
+This is the heritage of the servants of ⟦yhwh|Yahweh|the LORD⟧
+and their righteousness from me, declares ⟦yhwh|Yahweh|the LORD⟧."
 
 ## Changes
 

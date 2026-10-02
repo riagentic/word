@@ -1,18 +1,18 @@
 # Job 8
 
-[1] Then Bildad the Shuhite answered and said:
+[1] Then Bildad the ⟦shuhite|Shuchi|Shuhite⟧ answered and said:
 
 [2] "How long will you say these things?
 How long shall the words of your mouth be a great wind?
 
-[3] Does *Elohim* pervert justice?
-Does Shaddai pervert righteousness?
+[3] Does ⟦el|El|God⟧ pervert justice?
+Does ⟦shaddai|Shaddai|the Almighty⟧ pervert righteousness?
 
 [4] If your children have sinned against him,
 he has sent them away for their transgression.
 
-[5] If you would earnestly seek *Elohim*,
-and make supplication to Shaddai,
+[5] If you would earnestly seek ⟦el|El|God⟧,
+and make supplication to ⟦shaddai|Shaddai|the Almighty⟧,
 
 [6] if you are pure and upright,
 surely then he will rouse himself for you
@@ -36,7 +36,7 @@ Can the reed flourish without water?
 [12] While still in its greenness, not cut down,
 it withers before any other plant.
 
-[13] Such are the paths of all who forget *Elohim*;
+[13] Such are the paths of all who forget ⟦el|El|God⟧;
 the hope of the godless shall perish.
 
 [14] His confidence is gossamer;
@@ -57,7 +57,7 @@ it will deny him: 'I have never seen you.'
 [19] Behold, this is the joy of his way;
 from the dust others will sprout.
 
-[20] Behold, *Elohim* will not reject a blameless man,
+[20] Behold, ⟦el|El|God⟧ will not reject a blameless man,
 nor will he take the hand of evildoers.
 
 [21] He will yet fill your mouth with laughter
@@ -68,6 +68,7 @@ the tent of the wicked shall be no more."
 
 ## Changes
 
+- **"God" → "El"** (v3, 5, 13, 20) — Hebrew אֵל *El*, not *Elohim*.
 - **"hypocrite" → "godless"** (v13) — *chanef*; profane, not a hypocrite per se.
 - **"spider's web" — retained** (v14) — *bet-akavish*.
 - **"rush... flag" → "papyrus... reed"** (v11) — *gome... achu*.

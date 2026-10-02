@@ -1,6 +1,6 @@
 # Ruth 3
 
-[1] Then Naomi her mother-in-law said to her, "My daughter, should I not seek a resting place for you, that it may be well with you?
+[1] Then ⟦naomi|Noomi|Naomi⟧ her mother-in-law said to her, "My daughter, should I not seek a resting place for you, that it may be well with you?
 
 [2] And now, is not Boaz our kinsman, with whose young women you were? Behold, he is winnowing barley tonight at the threshing floor.
 
@@ -16,15 +16,15 @@
 
 [8] At midnight the man was startled and turned himself; and behold, a woman was lying at his feet.
 
-[9] He said, "Who are you?" And she answered, "I am Ruth your maidservant. Spread your wing over your maidservant, for you are a kinsman-redeemer."
+[9] He said, "Who are you?" And she answered, "I am ⟦ruth|Rut|Ruth⟧ your maidservant. Spread your wing over your maidservant, for you are a kinsman-redeemer."
 
-[10] He said, "May you be blessed by Yahweh, my daughter. You have made this latter kindness better than the first — in that you did not go after young men, whether poor or rich.
+[10] He said, "May you be blessed by ⟦yhwh|Yahweh|the LORD⟧, my daughter. You have made this latter kindness better than the first — in that you did not go after young men, whether poor or rich.
 
 [11] And now, my daughter, do not fear. I will do for you all that you ask, for all the men of my people know that you are a woman of noble character.
 
 [12] And now, it is true that I am a kinsman-redeemer; but there is another kinsman-redeemer nearer than I.
 
-[13] Stay tonight; and in the morning, if he will redeem you, very well, let him redeem. But if he is not willing to redeem, I will redeem you, as Yahweh lives. Lie down until the morning."
+[13] Stay tonight; and in the morning, if he will redeem you, very well, let him redeem. But if he is not willing to redeem, I will redeem you, as ⟦yhwh|Yahweh|the LORD⟧ lives. Lie down until the morning."
 
 [14] So she lay at his feet until the morning, and she rose up before one could recognize another. He said, "Let it not be known that the woman came to the threshing floor."
 

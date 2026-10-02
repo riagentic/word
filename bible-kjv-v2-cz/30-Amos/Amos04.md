@@ -1,33 +1,33 @@
 # Ámos 4
 
-[1] „Slyšte toto slovo, krávy z Bashanu,
-které jste na hoře Samarie,
+[1] „Slyšte toto slovo, krávy z ⟦bashan|Bašanu|Bášanu⟧,
+které jste na hoře ⟦samaria|Šomronu|Samaří⟧,
 které utlačujete chudé, které drtíte ubohé,
 které říkáte svým mužům: ‚Přines, ať se napijeme!‘
 
-[2] Pán Yahweh přísahal při své svatosti,
+[2] ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ přísahal při své svatosti,
 že hle, přicházejí na vás dny,
 kdy vás odvlečou háky,
 i poslední z vás rybářskými háčky.
 
 [3] Vyjdete průlomy,
 každá rovnou před sebe,
-a budete vyvrženy do Harmon,“
-je výrok Yahweh.
+a budete vyvrženy do ⟦harmon|Harmonu|Harmónu⟧,“
+je výrok ⟦yhwh|Jahveho|Hospodina⟧.
 
-[4] „Přijďte do Bethelu a přestupujte,
-do Gilgalu a rozmnožujte přestoupení;
+[4] „Přijďte do ⟦bethel|Bejt Elu|Bét-elu⟧ a přestupujte,
+do ⟦gilgal|Gilgalu|Gilgálu⟧ a rozmnožujte přestoupení;
 přinášejte své oběti každé ráno,
 své desátky každé tři dny;
 
 [5] obětujte děkovnou oběť z kvašeného
 a vyhlašujte dobrovolné dary, rozhlašujte je;
-neboť to tak rádi děláte, synové Israele!“
-je výrok Pána Yahweh.
+neboť to tak rádi děláte, synové ⟦israel|Jisraele|Izraele⟧!“
+je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.
 
 [6] „Dal jsem vám čistotu zubů ve všech vašich městech
 a nedostatek chleba ve všech vašich místech,
-a přece jste se ke mně nevrátili,“ je výrok Yahweh.
+a přece jste se ke mně nevrátili,“ je výrok ⟦yhwh|Jahveho|Hospodina⟧.
 
 [7] „Také jsem vám odepřel déšť,
 když ještě zbývaly tři měsíce do žně;
@@ -38,33 +38,33 @@ a pole, na které nepršelo, usychalo;
 
 [8] a tak se dvě nebo tři města potácela do jiného města,
 aby se napila vody, ale nenasytila se;
-a přece jste se ke mně nevrátili,“ je výrok Yahweh.
+a přece jste se ke mně nevrátili,“ je výrok ⟦yhwh|Jahveho|Hospodina⟧.
 
 [9] „Bil jsem vás snětí a rzí;
 vaše četné zahrady a vaše vinice, vaše fíkovníky a vaše olivovníky
 sežrala saranče;
-a přece jste se ke mně nevrátili,“ je výrok Yahweh.
+a přece jste se ke mně nevrátili,“ je výrok ⟦yhwh|Jahveho|Hospodina⟧.
 
-[10] „Poslal jsem mezi vás mor po způsobu Egypta;
+[10] „Poslal jsem mezi vás mor po způsobu ⟦egypt|Micrajim|Egypta⟧;
 vaše mladíky jsem pobil mečem
 a vaše koně jsem odvedl
 a nechal jsem zápach vašeho tábora vystoupit do vašeho chřípí;
-a přece jste se ke mně nevrátili,“ je výrok Yahweh.
+a přece jste se ke mně nevrátili,“ je výrok ⟦yhwh|Jahveho|Hospodina⟧.
 
 [11] „Některé z vás jsem vyvrátil,
-jako *Elohim* vyvrátil Sodom a Gomorrah,
+jako ⟦elohim|Elohim|Bůh⟧ vyvrátil ⟦sodom|Sedom|Sodomu⟧ a ⟦gomorrah|Amoru|Gomoru⟧,
 a byli jste jako oharek vytržený z ohně;
-a přece jste se ke mně nevrátili,“ je výrok Yahweh.
+a přece jste se ke mně nevrátili,“ je výrok ⟦yhwh|Jahveho|Hospodina⟧.
 
-[12] „Proto ti tak učiním, Israeli;
+[12] „Proto ti tak učiním, ⟦israel|Jisraeli|Izraeli⟧;
 protože ti toto učiním,
-**připrav se na setkání se svým *Elohim*, Israeli!**“
+**připrav se na setkání se svým ⟦elohim|Elohim|Bohem⟧, ⟦israel|Jisraeli|Izraeli⟧!**“
 
 [13] Neboť hle, ten, kdo tvoří hory a stvořil vítr
 a oznamuje člověku, co je jeho myšlenka,
 kdo mění jitro v temnotu
 a kráčí po výšinách země –
-Yahweh, *Elohim* zástupů, je jeho jméno!
+⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ zástupů, je jeho jméno!
 
 ## Změny
 

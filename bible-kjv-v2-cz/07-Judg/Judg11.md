@@ -1,84 +1,84 @@
 # Soudců 11
 
-[1] Jephthah Gileadita byl udatný bojovník. Byl synem prostitutky; Jephthaha zplodil Gilead.
+[1] ⟦jephthah|Jiftach|Jiftách⟧ ⟦gileadite|Giladi|Gileádský⟧ byl udatný bojovník. Byl synem prostitutky; ⟦jephthah|Jiftacha|Jiftácha⟧ zplodil ⟦gilead|Gilad|Gileád⟧.
 
-[2] Také Gileadova žena mu porodila syny; když synové té ženy dospěli, vyhnali Jephthaha a řekli mu: „Nebudeš mít dědictví v domě našeho otce, neboť jsi syn jiné ženy.“
+[2] Také ⟦gilead|Giladova|Gileádova⟧ žena mu porodila syny; když synové té ženy dospěli, vyhnali ⟦jephthah|Jiftacha|Jiftácha⟧ a řekli mu: „Nebudeš mít dědictví v domě našeho otce, neboť jsi syn jiné ženy.“
 
-[3] Jephthah tedy utekl před svými bratry a usadil se v zemi Tob; kolem Jephthaha se shromáždili ničemní muži a vycházeli s ním.
+[3] ⟦jephthah|Jiftach|Jiftách⟧ tedy utekl před svými bratry a usadil se v zemi ⟦tob|Tov|Tób⟧; kolem ⟦jephthah|Jiftacha|Jiftácha⟧ se shromáždili ničemní muži a vycházeli s ním.
 
-[4] Po nějakém čase vedli synové Ammonovi válku proti Israelovi.
+[4] Po nějakém čase vedli synové ⟦ammon|Ammonovi|Amónovi⟧ válku proti ⟦israel|Jisraelovi|Izraelovi⟧.
 
-[5] Když synové Ammonovi vedli válku proti Israelovi, šli starší Gileadu přivést Jephthaha ze země Tob.
+[5] Když synové ⟦ammon|Ammonovi|Amónovi⟧ vedli válku proti ⟦israel|Jisraelovi|Izraelovi⟧, šli starší ⟦gilead|Giladu|Gileádu⟧ přivést ⟦jephthah|Jiftacha|Jiftácha⟧ ze země ⟦tob|Tov|Tób⟧.
 
-[6] Řekli Jephthahovi: „Pojď, buď naším velitelem, abychom mohli bojovat se syny Ammonovými.“
+[6] Řekli ⟦jephthah|Jiftachovi|Jiftáchovi⟧: „Pojď, buď naším velitelem, abychom mohli bojovat se syny ⟦ammon|Ammonovými|Amónovými⟧.“
 
-[7] Jephthah řekl starším Gileadu: „Nejste to vy, kdo mě nenáviděli a vyhnali z domu mého otce? Proč jste ke mně přišli teď, když jste v tísni?“
+[7] ⟦jephthah|Jiftach|Jiftách⟧ řekl starším ⟦gilead|Giladu|Gileádu⟧: „Nejste to vy, kdo mě nenáviděli a vyhnali z domu mého otce? Proč jste ke mně přišli teď, když jste v tísni?“
 
-[8] Starší Gileadu řekli Jephthahovi: „Přesto se k tobě teď obracíme, abys šel s námi, bojoval se syny Ammonovými a byl naší hlavou nad všemi obyvateli Gileadu.“
+[8] Starší ⟦gilead|Giladu|Gileádu⟧ řekli ⟦jephthah|Jiftachovi|Jiftáchovi⟧: „Přesto se k tobě teď obracíme, abys šel s námi, bojoval se syny ⟦ammon|Ammonovými|Amónovými⟧ a byl naší hlavou nad všemi obyvateli ⟦gilead|Giladu|Gileádu⟧.“
 
-[9] Jephthah řekl starším Gileadu: „Jestliže mě přivedete zpět domů, abych bojoval proti synům Ammonovým, a Yahweh mi je vydá, budu vaší hlavou?“
+[9] ⟦jephthah|Jiftach|Jiftách⟧ řekl starším ⟦gilead|Giladu|Gileádu⟧: „Jestliže mě přivedete zpět domů, abych bojoval proti synům ⟦ammon|Ammonovým|Amónovým⟧, a ⟦yhwh|Jahve|Hospodin⟧ mi je vydá, budu vaší hlavou?“
 
-[10] Starší Gileadu řekli Jephthahovi: „Yahweh je svědkem mezi námi; jistě učiníme podle tvého slova.“
+[10] Starší ⟦gilead|Giladu|Gileádu⟧ řekli ⟦jephthah|Jiftachovi|Jiftáchovi⟧: „⟦yhwh|Jahve|Hospodin⟧ je svědkem mezi námi; jistě učiníme podle tvého slova.“
 
-[11] Jephthah tedy šel se staršími Gileadu a lid ho ustanovil hlavou a velitelem nad sebou; a Jephthah pronesl všechna svá slova před Yahweh v Mizpě.
+[11] ⟦jephthah|Jiftach|Jiftách⟧ tedy šel se staršími ⟦gilead|Giladu|Gileádu⟧ a lid ho ustanovil hlavou a velitelem nad sebou; a ⟦jephthah|Jiftach|Jiftách⟧ pronesl všechna svá slova před ⟦yhwh|Jahvem|Hospodinem⟧ v ⟦mizpah|Micpě|Mispě⟧.
 
-[12] Jephthah poslal posly ke králi synů Ammonových se vzkazem: „Co je mezi mnou a tebou, že jsi ke mně přitáhl bojovat v mé zemi?“
+[12] ⟦jephthah|Jiftach|Jiftách⟧ poslal posly ke králi synů ⟦ammon|Ammonových|Amónových⟧ se vzkazem: „Co je mezi mnou a tebou, že jsi ke mně přitáhl bojovat v mé zemi?“
 
-[13] Král synů Ammonových odpověděl Jephthahovým poslům: „Protože Israel mi vzal mou zemi, když vycházel z Egypta, od Arnonu až k Jabboku a k Jordanu; nyní mi tedy ta území vrať pokojně.“
+[13] Král synů ⟦ammon|Ammonových|Amónových⟧ odpověděl ⟦jephthah|Jiftachovým|Jiftáchovým⟧ poslům: „Protože ⟦israel|Jisrael|Izrael⟧ mi vzal mou zemi, když vycházel z ⟦egypt|Micrajim|Egypta⟧, od ⟦arnon|Arnonu|Arnónu⟧ až k ⟦jabbok|Jabboku|Jaboku⟧ a k ⟦jordan|Jardenu|Jordánu⟧; nyní mi tedy ta území vrať pokojně.“
 
-[14] Jephthah znovu poslal posly ke králi synů Ammonových
+[14] ⟦jephthah|Jiftach|Jiftách⟧ znovu poslal posly ke králi synů ⟦ammon|Ammonových|Amónových⟧
 
-[15] a vzkázal mu: „Takto praví Jephthah: ‚Israel nevzal zemi Moabu ani zemi synů Ammonových.
+[15] a vzkázal mu: „Takto praví ⟦jephthah|Jiftach|Jiftách⟧: ‚⟦israel|Jisrael|Izrael⟧ nevzal zemi ⟦moab|Moavu|Moábu⟧ ani zemi synů ⟦ammon|Ammonových|Amónových⟧.
 
-[16] Když vycházeli z Egypta, šel Israel pouští k Rákosovému moři a přišel do Kadeshe.
+[16] Když vycházeli z ⟦egypt|Micrajim|Egypta⟧, šel ⟦israel|Jisrael|Izrael⟧ pouští k Rákosovému moři a přišel do ⟦kadesh|Kadeše|Kádeše⟧.
 
-[17] Tehdy Israel poslal posly ke králi Edomu se vzkazem: „Prosím, nech mě projít tvou zemí,“ ale král Edomu nechtěl poslechnout. Stejně tak poslali ke králi Moabu, ale ani on nesvolil. Israel tedy zůstal v Kadeshi.
+[17] Tehdy ⟦israel|Jisrael|Izrael⟧ poslal posly ke králi ⟦edom|Edomu|Edómu⟧ se vzkazem: „Prosím, nech mě projít tvou zemí,“ ale král ⟦edom|Edomu|Edómu⟧ nechtěl poslechnout. Stejně tak poslali ke králi ⟦moab|Moavu|Moábu⟧, ale ani on nesvolil. ⟦israel|Jisrael|Izrael⟧ tedy zůstal v ⟦kadesh|Kadeši|Kádeši⟧.
 
-[18] Šli pouští, obešli zemi Edomu a zemi Moabu, táhli po východní straně země Moabu; utábořili se na druhé straně Arnonu, ale nevstoupili do území Moabu – neboť Arnon byl hranicí Moabu.
+[18] Šli pouští, obešli zemi ⟦edom|Edomu|Edómu⟧ a zemi ⟦moab|Moavu|Moábu⟧, táhli po východní straně země ⟦moab|Moavu|Moábu⟧; utábořili se na druhé straně ⟦arnon|Arnonu|Arnónu⟧, ale nevstoupili do území ⟦moab|Moavu|Moábu⟧ – neboť ⟦arnon|Arnon|Arnón⟧ byl hranicí ⟦moab|Moavu|Moábu⟧.
 
-[19] Israel poslal posly k Sihonovi, králi Amoritů, králi Heshbonu; Israel mu řekl: „Prosím, nech nás projít tvou zemí na naše místo.“
+[19] ⟦israel|Jisrael|Izrael⟧ poslal posly k ⟦sihon|Sichonovi|Síchonovi⟧, králi ⟦amorites|Emorim|Emorejců⟧, králi ⟦heshbon|Chešbonu|Chešbónu⟧; ⟦israel|Jisrael|Izrael⟧ mu řekl: „Prosím, nech nás projít tvou zemí na naše místo.“
 
-[20] Sihon však Israelovi nedůvěřoval, že jen projde jeho územím; Sihon shromáždil všechen svůj lid, utábořil se v Jahazu a bojoval s Israelem.
+[20] ⟦sihon|Sichon|Síchon⟧ však ⟦israel|Jisraelovi|Izraelovi⟧ nedůvěřoval, že jen projde jeho územím; ⟦sihon|Sichon|Síchon⟧ shromáždil všechen svůj lid, utábořil se v ⟦jahaz|Jahce|Jahasu⟧ a bojoval s ⟦israel|Jisraelem|Izraelem⟧.
 
-[21] Yahweh, *Elohim* Israele, vydal Sihona a všechen jeho lid do ruky Israele a ti je pobili; tak Israel obsadil celou zemi Amoritů, obyvatel té krajiny.
+[21] ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧, vydal ⟦sihon|Sichona|Síchona⟧ a všechen jeho lid do ruky ⟦israel|Jisraele|Izraele⟧ a ti je pobili; tak ⟦israel|Jisrael|Izrael⟧ obsadil celou zemi ⟦amorites|Emorim|Emorejců⟧, obyvatel té krajiny.
 
-[22] Obsadili celé území Amoritů od Arnonu až k Jabboku a od pouště až k Jordanu.
+[22] Obsadili celé území ⟦amorites|Emorim|Emorejců⟧ od ⟦arnon|Arnonu|Arnónu⟧ až k ⟦jabbok|Jabboku|Jaboku⟧ a od pouště až k ⟦jordan|Jardenu|Jordánu⟧.
 
-[23] Nuže tedy, Yahweh, *Elohim* Israele, vyhnal Amority před svým lidem Israelem – a ty ji chceš obsadit?
+[23] Nuže tedy, ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧, vyhnal ⟦amorites|Emorim|Emorejce⟧ před svým lidem ⟦israel|Jisraelem|Izraelem⟧ – a ty ji chceš obsadit?
 
-[24] Nevlastníš snad to, co ti dává do vlastnictví Chemosh, tvůj bůh? Tak i všechny, které Yahweh, náš *Elohim*, vyhnal před námi, jejich zemi budeme vlastnit my.
+[24] Nevlastníš snad to, co ti dává do vlastnictví ⟦chemosh|Kemoš|Kemóš⟧, tvůj bůh? Tak i všechny, které ⟦yhwh|Jahve|Hospodin⟧, náš ⟦elohim|Elohim|Bůh⟧, vyhnal před námi, jejich zemi budeme vlastnit my.
 
-[25] Jsi snad o něco lepší než Balak, syn Zipporův, král Moabu? Přel se on kdy s Israelem nebo proti nim kdy bojoval?
+[25] Jsi snad o něco lepší než ⟦balak|Balak|Balák⟧, syn ⟦zippor|Cipporův|Sipórův⟧, král ⟦moab|Moavu|Moábu⟧? Přel se on kdy s ⟦israel|Jisraelem|Izraelem⟧ nebo proti nim kdy bojoval?
 
-[26] Zatímco Israel bydlel v Heshbonu a jeho vesnicích, v Aroeru a jeho vesnicích a ve všech městech podél Arnonu – tři sta let – proč jste je za celou tu dobu nezískali zpět?
+[26] Zatímco ⟦israel|Jisrael|Izrael⟧ bydlel v ⟦heshbon|Chešbonu|Chešbónu⟧ a jeho vesnicích, v ⟦aroer|Aroeru|Aroéru⟧ a jeho vesnicích a ve všech městech podél ⟦arnon|Arnonu|Arnónu⟧ – tři sta let – proč jste je za celou tu dobu nezískali zpět?
 
-[27] Já jsem se proti tobě neprovinil, ale ty mi křivdíš, když proti mně vedeš válku. Ať Yahweh, Soudce, rozsoudí dnes mezi syny Israele a syny Ammonovými.‘“
+[27] Já jsem se proti tobě neprovinil, ale ty mi křivdíš, když proti mně vedeš válku. Ať ⟦yhwh|Jahve|Hospodin⟧, Soudce, rozsoudí dnes mezi syny ⟦israel|Jisraele|Izraele⟧ a syny ⟦ammon|Ammonovými|Amónovými⟧.‘“
 
-[28] Král synů Ammonových však neposlechl slova, která mu Jephthah vzkázal.
+[28] Král synů ⟦ammon|Ammonových|Amónových⟧ však neposlechl slova, která mu ⟦jephthah|Jiftach|Jiftách⟧ vzkázal.
 
-[29] Tehdy na Jephthaha sestoupil duch Yahweh a on prošel Gileadem a Manassehem; táhl dál do Mizpeh Gileadské a z Mizpeh Gileadské táhl dál proti synům Ammonovým.
+[29] Tehdy na ⟦jephthah|Jiftacha|Jiftácha⟧ sestoupil duch ⟦yhwh|Jahveho|Hospodina⟧ a on prošel ⟦gilead|Giladem|Gileádem⟧ a ⟦manasseh|Menašem|Manasesem⟧; táhl dál do ⟦mizpeh|Micpe Giladské|Mispe gileádské⟧ a z ⟦mizpeh|Micpe Giladské|Mispe gileádské⟧ táhl dál proti synům ⟦ammon|Ammonovým|Amónovým⟧.
 
-[30] Jephthah složil Yahweh slib a řekl: „Jestliže mi opravdu vydáš syny Ammonovy do ruky,
+[30] ⟦jephthah|Jiftach|Jiftách⟧ složil ⟦yhwh|Jahvovi|Hospodinu⟧ slib a řekl: „Jestliže mi opravdu vydáš syny ⟦ammon|Ammonovy|Amónovy⟧ do ruky,
 
-[31] pak cokoli vyjde ze dveří mého domu mně naproti, až se budu v pokoji vracet od synů Ammonových, bude patřit Yahweh a obětuji to jako zápalnou oběť.“
+[31] pak cokoli vyjde ze dveří mého domu mně naproti, až se budu v pokoji vracet od synů ⟦ammon|Ammonových|Amónových⟧, bude patřit ⟦yhwh|Jahvovi|Hospodinu⟧ a obětuji to jako zápalnou oběť.“
 
-[32] Jephthah tedy přitáhl k synům Ammonovým, aby proti nim bojoval; a Yahweh mu je vydal do ruky.
+[32] ⟦jephthah|Jiftach|Jiftách⟧ tedy přitáhl k synům ⟦ammon|Ammonovým|Amónovým⟧, aby proti nim bojoval; a ⟦yhwh|Jahve|Hospodin⟧ mu je vydal do ruky.
 
-[33] Pobil je od Aroeru až do okolí Minnithu – dvacet měst – a až k Abel-keramimu, velmi velikou porážkou. Tak byli synové Ammonovi pokořeni před syny Israele.
+[33] Pobil je od ⟦aroer|Aroeru|Aroéru⟧ až do okolí ⟦minnith|Minnitu|Minítu⟧ – dvacet měst – a až k ⟦abel-keramim|Avel Keramimu|Ábel-keramímu⟧, velmi velikou porážkou. Tak byli synové ⟦ammon|Ammonovi|Amónovi⟧ pokořeni před syny ⟦israel|Jisraele|Izraele⟧.
 
-[34] Jephthah přišel do Mizpy, ke svému domu; a hle, jeho dcera mu vyšla naproti s bubínky a s tanci. Byla jeho jediným dítětem; kromě ní neměl syna ani dceru.
+[34] ⟦jephthah|Jiftach|Jiftách⟧ přišel do ⟦mizpah|Micpy|Mispy⟧, ke svému domu; a hle, jeho dcera mu vyšla naproti s bubínky a s tanci. Byla jeho jediným dítětem; kromě ní neměl syna ani dceru.
 
-[35] Když ji uviděl, roztrhl své šaty a řekl: „Běda, má dcero! Hluboko jsi mě srazila; stala ses příčinou mého neštěstí. Otevřel jsem totiž ústa před Yahweh a nemohu to vzít zpět.“
+[35] Když ji uviděl, roztrhl své šaty a řekl: „Běda, má dcero! Hluboko jsi mě srazila; stala ses příčinou mého neštěstí. Otevřel jsem totiž ústa před ⟦yhwh|Jahvem|Hospodinem⟧ a nemohu to vzít zpět.“
 
-[36] Řekla mu: „Můj otče, otevřel jsi ústa před Yahweh; učiň se mnou podle toho, co vyšlo z tvých úst, když Yahweh vykonal pomstu za tebe na tvých nepřátelích, na synech Ammonových.“
+[36] Řekla mu: „Můj otče, otevřel jsi ústa před ⟦yhwh|Jahvem|Hospodinem⟧; učiň se mnou podle toho, co vyšlo z tvých úst, když ⟦yhwh|Jahve|Hospodin⟧ vykonal pomstu za tebe na tvých nepřátelích, na synech ⟦ammon|Ammonových|Amónových⟧.“
 
 [37] A řekla svému otci: „Ať je mi dopřáno toto: nech mě dva měsíce, abych mohla sejít na hory a oplakávat své panenství, já a mé družky.“
 
 [38] Řekl: „Jdi.“ Propustil ji tedy na dva měsíce; odešla, ona i její družky, a oplakávala na horách své panenství.
 
-[39] Po uplynutí dvou měsíců se vrátila ke svému otci a on s ní naložil podle slibu, který složil; nepoznala muže. A stalo se v Israeli zvykem,
+[39] Po uplynutí dvou měsíců se vrátila ke svému otci a on s ní naložil podle slibu, který složil; nepoznala muže. A stalo se v ⟦israel|Jisraeli|Izraeli⟧ zvykem,
 
-[40] že dcery Israele chodily rok co rok připomínat si dceru Jephthaha Gileadity, čtyři dny v roce.
+[40] že dcery ⟦israel|Jisraele|Izraele⟧ chodily rok co rok připomínat si dceru ⟦jephthah|Jiftacha|Jiftácha⟧ ⟦gileadite|Giladi|Gileádského⟧, čtyři dny v roce.
 
 ## Změny
 

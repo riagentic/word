@@ -2,29 +2,29 @@
 
 [1] Když se lidstvo začalo množit na tváři půdy a narodily se jim dcery,
 
-[2] synové *Elohim* viděli, že lidské dcery jsou dobré, a brali si za ženy všechny, které si vybrali.
+[2] synové ⟦elohim|Elohim|Boží⟧ viděli, že lidské dcery jsou dobré, a brali si za ženy všechny, které si vybrali.
 
-[3] Tu Yahweh řekl: „Můj Duch se nebude s lidstvem přít navěky, neboť je to vskutku tělo; jeho dnů bude 120 let.“
+[3] Tu ⟦yhwh|Jahve|Hospodin⟧ řekl: „Můj Duch se nebude s lidstvem přít navěky, neboť je to vskutku tělo; jeho dnů bude 120 let.“
 
-[4] Nephilim byli na zemi v oněch dnech – a také potom –, když synové *Elohim* vcházeli k lidským dcerám a ty jim rodily děti. To byli mocní bojovníci dávnověku, muži slavného jména.
+[4] ⟦nephilim|Nefilim byli|Zrůdy byly⟧ na zemi v oněch dnech – a také potom –, když synové ⟦elohim|Elohim|Boží⟧ vcházeli k lidským dcerám a ty jim rodily děti. To byli mocní bojovníci dávnověku, muži slavného jména.
 
-[5] Yahweh viděl, že zlovolnost lidstva na zemi je veliká a že každý sklon myšlenek jeho srdce je ustavičně jen zlý.
+[5] ⟦yhwh|Jahve|Hospodin⟧ viděl, že zlovolnost lidstva na zemi je veliká a že každý sklon myšlenek jeho srdce je ustavičně jen zlý.
 
-[6] I litoval Yahweh, že učinil lidstvo na zemi, a zabolelo ho to až do srdce.
+[6] I litoval ⟦yhwh|Jahve|Hospodin⟧, že učinil lidstvo na zemi, a zabolelo ho to až do srdce.
 
-[7] Tak Yahweh řekl: „Smetu lidstvo, které jsem stvořil, z tváře půdy – lidi, dobytek, plazy i ptáky nebes –, neboť lituji, že jsem je učinil.“
+[7] Tak ⟦yhwh|Jahve|Hospodin⟧ řekl: „Smetu lidstvo, které jsem stvořil, z tváře půdy – lidi, dobytek, plazy i ptáky nebes –, neboť lituji, že jsem je učinil.“
 
-[8] Ale Noah nalezl přízeň v očích Yahweh.
+[8] Ale ⟦noah|Noach|Noe⟧ nalezl přízeň v očích ⟦yhwh|Jahveho|Hospodina⟧.
 
-[9] Toto jsou rody Noahovy. Noah byl spravedlivý muž, bezúhonný ve svých pokoleních; Noah chodil s *Elohim*.
+[9] Toto jsou rody ⟦noah|Noachovy|Noemovy⟧. ⟦noah|Noach|Noe⟧ byl spravedlivý muž, bezúhonný ve svých pokoleních; ⟦noah|Noach|Noe⟧ chodil s ⟦elohim|Elohim|Bohem⟧.
 
-[10] Noah zplodil tři syny: Shema, Hama a Japhetha.
+[10] ⟦noah|Noach|Noe⟧ zplodil tři syny: ⟦shem|Šema|Šéma⟧, Chama a Jefeta.
 
-[11] Země byla před *Elohim* zkažená a země byla plná násilí.
+[11] Země byla před ⟦elohim|Elohim|Bohem⟧ zkažená a země byla plná násilí.
 
-[12] *Elohim* pohlédl na zemi, a hle, byla zkažená, neboť všechno tělo zkazilo svou cestu na zemi.
+[12] ⟦elohim|Elohim|Bůh⟧ pohlédl na zemi, a hle, byla zkažená, neboť všechno tělo zkazilo svou cestu na zemi.
 
-[13] I řekl *Elohim* Noahovi: „Konec všeho těla přišel přede mne, neboť země je kvůli nim plná násilí. Hle, zničím je i se zemí.
+[13] I řekl ⟦elohim|Elohim|Bůh⟧ ⟦noah|Noachovi|Noemu⟧: „Konec všeho těla přišel přede mne, neboť země je kvůli nim plná násilí. Hle, zničím je i se zemí.
 
 [14] Udělej si archu z goferového dřeva. Udělej v arše oddíly a pokryj ji uvnitř i zvenku smolou.
 
@@ -42,7 +42,7 @@
 
 [21] A vezmi si každý druh pokrmu, který se jí, a nashromáždi si ho; bude za pokrm tobě i jim.“
 
-[22] Noah tak učinil; učinil vše, co mu *Elohim* přikázal.
+[22] ⟦noah|Noach|Noe⟧ tak učinil; učinil vše, co mu ⟦elohim|Elohim|Bůh⟧ přikázal.
 
 ## Změny
 

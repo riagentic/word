@@ -1,18 +1,18 @@
 # Hebrews 3
 
-[1] Therefore, holy brothers, you who share in a heavenly calling, consider *Yeshua*, the apostle and high priest of our confession,
+[1] Therefore, holy brothers, you who share in a heavenly calling, consider ⟦yeshua|Yeshua|Jesus⟧, the apostle and high priest of our confession,
 
-[2] who was faithful to him who appointed him, just as Moses also was faithful in all *Elohim*'s house.
+[2] who was faithful to him who appointed him, just as ⟦moses|Moshe|Moses⟧ also was faithful in all ⟦elohim|Elohim's|God's⟧ house.
 
-[3] For *Yeshua* has been counted worthy of more glory than Moses — as much more glory as the builder of a house has more honor than the house itself.
+[3] For ⟦yeshua|Yeshua|Jesus⟧ has been counted worthy of more glory than ⟦moses|Moshe|Moses⟧ — as much more glory as the builder of a house has more honor than the house itself.
 
-[4] (For every house is built by someone, but the builder of all things is *Elohim*.)
+[4] (For every house is built by someone, but the builder of all things is ⟦elohim|Elohim|God⟧.)
 
-[5] Now Moses was faithful in all *Elohim*'s house as a servant, to testify to the things that were to be spoken later,
+[5] Now ⟦moses|Moshe|Moses⟧ was faithful in all ⟦elohim|Elohim's|God's⟧ house as a servant, to testify to the things that were to be spoken later,
 
-[6] but the *Mashiach* is faithful over *Elohim*'s house as a son. And we are his house, if indeed we hold fast our confidence and our boasting in our hope.
+[6] but ⟦mashiach|the Mashiach|Christ⟧ is faithful over ⟦elohim|Elohim's|God's⟧ house as a son. And we are his house, if indeed we hold fast our confidence and our boasting in our hope.
 
-[7] Therefore, as the *Ruach HaQodesh* says,
+[7] Therefore, as the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧ says,
 
 "**Today, if you hear his voice,**
 
@@ -30,18 +30,18 @@ they have not known my ways.'**
 **[11] As I swore in my wrath,
 'They shall not enter my rest.'**"
 
-[12] Take care, brothers, lest there be in any of you an evil, unbelieving heart, leading you to fall away from the living *Elohim*.
+[12] Take care, brothers, lest there be in any of you an evil, unbelieving heart, leading you to fall away from the living ⟦elohim|Elohim|God⟧.
 
 [13] But exhort one another every day, as long as it is called "today," that none of you may be hardened by the deceitfulness of sin.
 
-[14] For we have come to share in the *Mashiach*, if indeed we hold our original confidence firm to the end.
+[14] For we have come to share in ⟦mashiach|the Mashiach|Christ⟧, if indeed we hold our original confidence firm to the end.
 
 [15] As it is said,
 
 "**Today, if you hear his voice,
 do not harden your hearts as in the rebellion**."
 
-[16] For who were those who heard and yet rebelled? Was it not all those who left Egypt led by Moses?
+[16] For who were those who heard and yet rebelled? Was it not all those who left ⟦egypt|Mitzrayim|Egypt⟧ led by ⟦moses|Moshe|Moses⟧?
 
 [17] And with whom was he provoked for forty years? Was it not with those who sinned, whose bodies fell in the wilderness?
 

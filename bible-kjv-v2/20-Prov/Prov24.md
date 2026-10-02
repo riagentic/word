@@ -54,7 +54,7 @@ but the wicked stumble in times of calamity.
 [17] Do not rejoice when your enemy falls,
 and let not your heart be glad when he stumbles,
 
-[18] lest Yahweh see it and be displeased,
+[18] lest ⟦yhwh|Yahweh|the LORD⟧ see it and be displeased,
 and turn away his anger from him.
 
 [19] Fret not yourself because of evildoers,
@@ -63,7 +63,7 @@ and be not envious of the wicked,
 [20] for the evil man has no future;
 the lamp of the wicked will be put out.
 
-[21] My son, fear Yahweh and the king,
+[21] My son, fear ⟦yhwh|Yahweh|the LORD⟧ and the king,
 and do not join with those who do otherwise,
 
 [22] for disaster will arise suddenly from them,

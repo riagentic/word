@@ -1,18 +1,18 @@
 # Leviticus 4
 
-[1] Yahweh promluvil k Mosesovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[2] „Mluv k synům Israele: ‚Když někdo zhřeší neúmyslně proti kterémukoli z přikázání Yahweh týkajících se věcí, které se nemají dělat, a udělá něco z toho –
+[2] „Mluv k synům ⟦israel|Jisraele|Izraele⟧: ‚Když někdo zhřeší neúmyslně proti kterémukoli z přikázání ⟦yhwh|Jahveho|Hospodina⟧ týkajících se věcí, které se nemají dělat, a udělá něco z toho –
 
-[3] je-li to pomazaný kněz, kdo zhřeší, takže uvede vinu na lid, přinese za svůj hřích, kterého se dopustil, mladého býčka bez vady Yahweh jako oběť za hřích.
+[3] je-li to pomazaný kněz, kdo zhřeší, takže uvede vinu na lid, přinese za svůj hřích, kterého se dopustil, mladého býčka bez vady ⟦yhwh|Jahvovi|Hospodinu⟧ jako oběť za hřích.
 
-[4] Přivede býčka ke vchodu do stanu setkávání před Yahweh, položí ruku na hlavu býčka a porazí býčka před Yahweh.
+[4] Přivede býčka ke vchodu do stanu setkávání před ⟦yhwh|Jahveho|Hospodina⟧, položí ruku na hlavu býčka a porazí býčka před ⟦yhwh|Jahvem|Hospodinem⟧.
 
 [5] Pomazaný kněz vezme trochu krve býčka a vnese ji do stanu setkávání.
 
-[6] Kněz omočí prst v krvi a sedmkrát pokropí trochou krve před Yahweh, před oponou svatyně.
+[6] Kněz omočí prst v krvi a sedmkrát pokropí trochou krve před ⟦yhwh|Jahvem|Hospodinem⟧, před oponou svatyně.
 
-[7] Kněz dá trochu krve na rohy oltáře vonného kadidla, který je před Yahweh ve stanu setkávání; a všechnu ostatní krev býčka vyleje u podstavce oltáře zápalné oběti, který je u vchodu do stanu setkávání.
+[7] Kněz dá trochu krve na rohy oltáře vonného kadidla, který je před ⟦yhwh|Jahvem|Hospodinem⟧ ve stanu setkávání; a všechnu ostatní krev býčka vyleje u podstavce oltáře zápalné oběti, který je u vchodu do stanu setkávání.
 
 [8] Všechen tuk býčka oběti za hřích z něj oddělí: tuk, který pokrývá vnitřnosti, a všechen tuk, který je na vnitřnostech,
 
@@ -24,17 +24,17 @@
 
 [12] celého býčka – vynese ven za tábor na čisté místo, kam se vysypává popel, a spálí ho ohněm na dřevě. Tam, kde se vysypává popel, bude spálen.
 
-[13] Jestliže celé společenství Israele zhřeší neúmyslně a věc je skryta před očima shromáždění, a udělali něco z toho, co Yahweh přikázal nedělat, a jsou vinni;
+[13] Jestliže celé společenství ⟦israel|Jisraele|Izraele⟧ zhřeší neúmyslně a věc je skryta před očima shromáždění, a udělali něco z toho, co ⟦yhwh|Jahve|Hospodin⟧ přikázal nedělat, a jsou vinni;
 
 [14] když vyjde najevo hřích, kterého se dopustili, přivede společenství mladého býčka jako oběť za hřích a přivedou ho před stan setkávání.
 
-[15] Starší společenství položí ruce na hlavu býčka před Yahweh a býček bude poražen před Yahweh.
+[15] Starší společenství položí ruce na hlavu býčka před ⟦yhwh|Jahvem|Hospodinem⟧ a býček bude poražen před ⟦yhwh|Jahvem|Hospodinem⟧.
 
 [16] Pomazaný kněz vnese trochu krve býčka do stanu setkávání
 
-[17] a kněz omočí prst v krvi a sedmkrát jí pokropí před Yahweh, před oponou.
+[17] a kněz omočí prst v krvi a sedmkrát jí pokropí před ⟦yhwh|Jahvem|Hospodinem⟧, před oponou.
 
-[18] Dá trochu krve na rohy oltáře, který je před Yahweh ve stanu setkávání, a všechnu ostatní krev vyleje u podstavce oltáře zápalné oběti, který je u vchodu do stanu setkávání.
+[18] Dá trochu krve na rohy oltáře, který je před ⟦yhwh|Jahvem|Hospodinem⟧ ve stanu setkávání, a všechnu ostatní krev vyleje u podstavce oltáře zápalné oběti, který je u vchodu do stanu setkávání.
 
 [19] A všechen jeho tuk z něj oddělí a obrátí v dým na oltáři.
 
@@ -42,17 +42,17 @@
 
 [21] Býčka vynese ven za tábor a spálí ho, jako spálil prvního býčka; je to oběť za hřích za shromáždění.
 
-[22] Když zhřeší předák neúmyslně a udělá něco z toho, co Yahweh, jeho *Elohim*, přikázal nedělat, a je vinen;
+[22] Když zhřeší předák neúmyslně a udělá něco z toho, co ⟦yhwh|Jahve|Hospodin⟧, jeho ⟦elohim|Elohim|Bůh⟧, přikázal nedělat, a je vinen;
 
 [23] anebo když je mu dán poznat jeho hřích, kterého se dopustil, přivede jako svůj obětní dar kozla bez vady.
 
-[24] Položí ruku na hlavu kozla a porazí ho na místě, kde se poráží zápalná oběť před Yahweh. Je to oběť za hřích.
+[24] Položí ruku na hlavu kozla a porazí ho na místě, kde se poráží zápalná oběť před ⟦yhwh|Jahvem|Hospodinem⟧. Je to oběť za hřích.
 
 [25] Kněz vezme prstem trochu krve oběti za hřích a dá ji na rohy oltáře zápalné oběti, a jeho krev vyleje u podstavce oltáře zápalné oběti.
 
 [26] Všechen jeho tuk obrátí v dým na oltáři jako tuk pokojné oběti. Tak za něj kněz vykoná smíření kvůli jeho hříchu a bude mu odpuštěno.
 
-[27] Jestliže někdo z prostého lidu zhřeší neúmyslně tím, že udělá něco z toho, co Yahweh přikázal nedělat, a je vinen;
+[27] Jestliže někdo z prostého lidu zhřeší neúmyslně tím, že udělá něco z toho, co ⟦yhwh|Jahve|Hospodin⟧ přikázal nedělat, a je vinen;
 
 [28] anebo když je mu dán poznat jeho hřích, kterého se dopustil, přivede jako svůj obětní dar kozu bez vady za svůj hřích, kterého se dopustil.
 
@@ -60,7 +60,7 @@
 
 [30] Kněz vezme prstem trochu její krve a dá ji na rohy oltáře zápalné oběti, a ostatní její krev vyleje u podstavce oltáře.
 
-[31] Všechen její tuk oddělí, jako se odděluje tuk z pokojné oběti; a kněz ho obrátí v dým na oltáři jako libou vůni pro Yahweh. Tak za něj kněz vykoná smíření a bude mu odpuštěno.
+[31] Všechen její tuk oddělí, jako se odděluje tuk z pokojné oběti; a kněz ho obrátí v dým na oltáři jako libou vůni pro ⟦yhwh|Jahveho|Hospodina⟧. Tak za něj kněz vykoná smíření a bude mu odpuštěno.
 
 [32] Přivádí-li jako svůj obětní dar k oběti za hřích beránka, přivede samici bez vady.
 
@@ -68,7 +68,7 @@
 
 [34] Kněz vezme prstem trochu krve oběti za hřích a dá ji na rohy oltáře zápalné oběti, a ostatní její krev vyleje u podstavce oltáře.
 
-[35] Všechen její tuk oddělí, jako se odděluje tuk beránka z pokojné oběti; a kněz je obrátí v dým na oltáři navrch ohnivých obětí pro Yahweh. Tak za něj kněz vykoná smíření za jeho hřích, kterého se dopustil, a bude mu odpuštěno.‘“
+[35] Všechen její tuk oddělí, jako se odděluje tuk beránka z pokojné oběti; a kněz je obrátí v dým na oltáři navrch ohnivých obětí pro ⟦yhwh|Jahveho|Hospodina⟧. Tak za něj kněz vykoná smíření za jeho hřích, kterého se dopustil, a bude mu odpuštěno.‘“
 
 ## Změny
 

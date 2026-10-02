@@ -1,18 +1,18 @@
 # Malachi 4
 
-[1] "For behold, the day is coming, burning like an oven, when all the arrogant and all evildoers will be stubble. The day that is coming shall set them ablaze, says Yahweh of Hosts, so that it will leave them neither root nor branch.
+[1] "For behold, the day is coming, burning like an oven, when all the arrogant and all evildoers will be stubble. The day that is coming shall set them ablaze, says ⟦yhwh|Yahweh|the LORD⟧ of Hosts, so that it will leave them neither root nor branch.
 
 [2] "But for you who fear my name,
 the Sun of Righteousness
 shall rise with healing in its wings.
 You shall go out leaping like calves from the stall.
 
-[3] "And you shall tread down the wicked, for they will be ashes under the soles of your feet, on the day when I act, says Yahweh of Hosts.
+[3] "And you shall tread down the wicked, for they will be ashes under the soles of your feet, on the day when I act, says ⟦yhwh|Yahweh|the LORD⟧ of Hosts.
 
-[4] "Remember the Law of my servant Moses, the statutes and rules that I commanded him at Horeb for all Israel.
+[4] "Remember the ⟦torah|Torah|law⟧ of my servant ⟦moses|Moshe|Moses⟧, the statutes and rules that I commanded him at ⟦horeb|Chorev|Horeb⟧ for all ⟦israel|Yisrael|Israel⟧.
 
-[5] **"Behold, I will send you Elijah the prophet
-before the great and awesome day of Yahweh comes.**
+[5] **"Behold, I will send you ⟦elijah|Eliyahu|Elijah⟧ the prophet
+before the great and awesome day of ⟦yhwh|Yahweh|the LORD⟧ comes.**
 
 **[6] And he will turn the hearts of fathers to their children
 and the hearts of children to their fathers,

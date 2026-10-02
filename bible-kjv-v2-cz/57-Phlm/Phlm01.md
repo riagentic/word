@@ -1,24 +1,24 @@
 # Filemonovi 1
 
-[1] Paul, vězeň *Mashiacha* *Yeshuy*, a bratr Timothy Philemonovi, našemu milovanému spolupracovníkovi,
+[1] ⟦paul|Paulus|Pavel⟧, vězeň ⟦mashiach|Mašiacha|Krista⟧ ⟦yeshua|Ješuy|Ježíše⟧, a bratr ⟦timothy|Timotheos|Timoteus⟧ ⟦philemon|Filémonovi|Filemonovi⟧, našemu milovanému spolupracovníkovi,
 
-[2] a sestře Apphii a Archippovi, našemu spolubojovníkovi, a církvi ve tvém domě:
+[2] a sestře Apfii a Archippovi, našemu spolubojovníkovi, a církvi ve tvém domě:
 
-[3] Milost vám a pokoj od *Elohim*, našeho Otce, a Pána *Yeshuy Mashiacha*.
+[3] Milost vám a pokoj od ⟦elohim|Elohim|Boha⟧, našeho Otce, a Pána ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧.
 
-[4] Vždy děkuji svému *Elohim*, když na tebe vzpomínám ve svých modlitbách,
+[4] Vždy děkuji svému ⟦elohim|Elohim|Bohu⟧, když na tebe vzpomínám ve svých modlitbách,
 
-[5] protože slyším o tvé lásce a o víře, kterou máš k Pánu *Yeshuovi* a ke všem svatým,
+[5] protože slyším o tvé lásce a o víře, kterou máš k Pánu ⟦yeshua|Ješuovi|Ježíši⟧ a ke všem svatým,
 
-[6] a modlím se, aby se sdílení tvé víry stalo účinným k plnému poznání všeho dobrého, co je v nás pro *Mashiacha*.
+[6] a modlím se, aby se sdílení tvé víry stalo účinným k plnému poznání všeho dobrého, co je v nás pro ⟦mashiach|Mašiacha|Krista⟧.
 
 [7] Z tvé lásky jsem totiž měl mnoho radosti a útěchy, můj bratře, protože skrze tebe byla občerstvena srdce svatých.
 
-[8] Proto, ačkoli mám v *Mashiachovi* dost smělosti, abych ti přikázal, co je třeba,
+[8] Proto, ačkoli mám v ⟦mashiach|Mašiachovi|Kristu⟧ dost smělosti, abych ti přikázal, co je třeba,
 
-[9] přece tě pro lásku raději prosím – já, Paul, starý muž a nyní také vězeň *Mashiacha* *Yeshuy* –
+[9] přece tě pro lásku raději prosím – já, ⟦paul|Paulus|Pavel⟧, starý muž a nyní také vězeň ⟦mashiach|Mašiacha|Krista⟧ ⟦yeshua|Ješuy|Ježíše⟧ –
 
-[10] prosím tě za své dítě, Onesima, jemuž jsem se stal otcem ve svém uvěznění.
+[10] prosím tě za své dítě, Onésima, jemuž jsem se stal otcem ve svém uvěznění.
 
 [11] (Kdysi ti byl neužitečný, ale nyní je opravdu užitečný tobě i mně.)
 
@@ -36,19 +36,19 @@
 
 [18] Jestliže ti v něčem ukřivdil nebo ti něco dluží, připiš to na můj účet.
 
-[19] Já, Paul, to píšu vlastní rukou: já to splatím – abych se nezmiňoval o tom, že mi dlužíš i sám sebe.
+[19] Já, ⟦paul|Paulus|Pavel⟧, to píšu vlastní rukou: já to splatím – abych se nezmiňoval o tom, že mi dlužíš i sám sebe.
 
-[20] Ano, bratře, chci od tebe mít v Pánu nějaký užitek. Občerstvi mé srdce v *Mashiachovi*.
+[20] Ano, bratře, chci od tebe mít v Pánu nějaký užitek. Občerstvi mé srdce v ⟦mashiach|Mašiachovi|Kristu⟧.
 
 [21] Píšu ti v důvěře ve tvou poslušnost, neboť vím, že učiníš ještě víc, než říkám.
 
 [22] Zároveň mi připrav pokoj pro hosty, neboť doufám, že vám budu díky vašim modlitbám z milosti darován.
 
-[23] Pozdravuje tě Epaphras, můj spoluvězeň v *Mashiachovi* *Yeshuovi*,
+[23] Pozdravuje tě Epafras, můj spoluvězeň v ⟦mashiach|Mašiachovi|Kristu⟧ ⟦yeshua|Ješuovi|Ježíši⟧,
 
-[24] a také Mark, Aristarchus, Demas a Luke, moji spolupracovníci.
+[24] a také ⟦mark|Marcus|Marek⟧, Aristarchos, DÃ©mas a ⟦luke|Lukas|Lukáš⟧, moji spolupracovníci.
 
-[25] Milost Pána *Yeshuy Mashiacha* buď s vaším duchem.
+[25] Milost Pána ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧ buď s vaším duchem.
 
 ## Změny
 

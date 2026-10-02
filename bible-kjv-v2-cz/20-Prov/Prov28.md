@@ -9,22 +9,22 @@ ale s mužem rozumným a znalým bude její stálost dlouho trvat.
 [3] Chudý, který utiskuje chudé,
 je bičující déšť, který nenechá žádný pokrm.
 
-[4] Ti, kdo opouštějí Zákon, chválí ničemné,
-ale ti, kdo Zákon zachovávají, proti nim bojují.
+[4] Ti, kdo opouštějí ⟦torah|Tóru|Zákon⟧, chválí ničemné,
+ale ti, kdo ⟦torah|Tóru|Zákon⟧ zachovávají, proti nim bojují.
 
 [5] Zlí lidé nerozumějí právu,
-ale ti, kdo hledají Yahweh, mu rozumějí dokonale.
+ale ti, kdo hledají ⟦yhwh|Jahveho|Hospodina⟧, mu rozumějí dokonale.
 
 [6] Lepší je chudý, který chodí ve své bezúhonnosti,
 než boháč, který je pokřivený na svých cestách.
 
-[7] Kdo zachovává Zákon, je rozumný syn,
+[7] Kdo zachovává ⟦torah|Tóru|Zákon⟧, je rozumný syn,
 ale společník žroutů dělá hanbu svému otci.
 
 [8] Kdo rozmnožuje své jmění úrokem a lichvou,
 shromažďuje je pro toho, kdo je štědrý k chudým.
 
-[9] Kdo odvrací ucho, aby neslyšel Zákon,
+[9] Kdo odvrací ucho, aby neslyšel ⟦torah|Tóru|Zákon⟧,
 i jeho modlitba je ohavností.
 
 [10] Kdo svádí přímé na zlou cestu,
@@ -76,7 +76,7 @@ a říká: „To není přestoupení,“
 je druhem toho, kdo ničí.
 
 [25] Chamtivec podněcuje svár,
-ale kdo spoléhá na Yahweh, bude obohacen.
+ale kdo spoléhá na ⟦yhwh|Jahveho|Hospodina⟧, bude obohacen.
 
 [26] Kdo spoléhá na vlastní rozum, je hlupák,
 ale kdo chodí v moudrosti, bude vysvobozen.

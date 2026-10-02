@@ -1,52 +1,52 @@
 # Genesis 22
 
-[1] Po těchto věcech *Elohim* zkoušel Abrahama. Řekl mu: „Abrahame!“ A on řekl: „Tady jsem.“
+[1] Po těchto věcech ⟦elohim|Elohim|Bůh⟧ zkoušel ⟦abraham|Avrahama|Abrahama⟧. Řekl mu: „⟦abraham|Avrahame|Abrahame⟧!“ A on řekl: „Tady jsem.“
 
-[2] Řekl: „Vezmi, prosím, svého syna – svého jediného, kterého miluješ, Isaaca – a jdi do země Moriah a obětuj ho tam jako zápalnou oběť na jedné z hor, o které ti povím.“
+[2] Řekl: „Vezmi, prosím, svého syna – svého jediného, kterého miluješ, ⟦isaac|Jicchaka|Izáka⟧ – a jdi do země ⟦moriah|Morija|Mórija⟧ a obětuj ho tam jako zápalnou oběť na jedné z hor, o které ti povím.“
 
-[3] Abraham vstal časně ráno, osedlal svého osla, vzal s sebou dva ze svých mládenců a svého syna Isaaca; naštípal dříví pro zápalnou oběť a vydal se na místo, o kterém mu *Elohim* řekl.
+[3] ⟦abraham|Avraham|Abraham⟧ vstal časně ráno, osedlal svého osla, vzal s sebou dva ze svých mládenců a svého syna ⟦isaac|Jicchaka|Izáka⟧; naštípal dříví pro zápalnou oběť a vydal se na místo, o kterém mu ⟦elohim|Elohim|Bůh⟧ řekl.
 
-[4] Třetího dne Abraham pozvedl oči a uviděl to místo zdaleka.
+[4] Třetího dne ⟦abraham|Avraham|Abraham⟧ pozvedl oči a uviděl to místo zdaleka.
 
-[5] Abraham řekl svým mládencům: „Zůstaňte zde s oslem; já a chlapec půjdeme tamhle, budeme se klanět a vrátíme se k vám.“
+[5] ⟦abraham|Avraham|Abraham⟧ řekl svým mládencům: „Zůstaňte zde s oslem; já a chlapec půjdeme tamhle, budeme se klanět a vrátíme se k vám.“
 
-[6] Abraham vzal dříví pro zápalnou oběť a vložil je na svého syna Isaaca; sám vzal do ruky oheň a nůž. A šli oba spolu.
+[6] ⟦abraham|Avraham|Abraham⟧ vzal dříví pro zápalnou oběť a vložil je na svého syna ⟦isaac|Jicchaka|Izáka⟧; sám vzal do ruky oheň a nůž. A šli oba spolu.
 
-[7] Isaac promluvil ke svému otci Abrahamovi a řekl: „Můj otče!“ A on řekl: „Tady jsem, můj synu.“ Řekl: „Podívej, oheň a dříví – ale kde je jehně k zápalné oběti?“
+[7] ⟦isaac|Jicchak|Izák⟧ promluvil ke svému otci ⟦abraham|Avrahamovi|Abrahamovi⟧ a řekl: „Můj otče!“ A on řekl: „Tady jsem, můj synu.“ Řekl: „Podívej, oheň a dříví – ale kde je jehně k zápalné oběti?“
 
-[8] Abraham řekl: „*Elohim* si sám obstará jehně k zápalné oběti, můj synu.“ A šli oba spolu.
+[8] ⟦abraham|Avraham|Abraham⟧ řekl: „⟦elohim|Elohim|Bůh⟧ si sám obstará jehně k zápalné oběti, můj synu.“ A šli oba spolu.
 
-[9] Přišli na místo, o kterém mu *Elohim* řekl, a Abraham tam postavil oltář, narovnal dříví, svázal svého syna Isaaca a položil ho na oltář, navrch na dříví.
+[9] Přišli na místo, o kterém mu ⟦elohim|Elohim|Bůh⟧ řekl, a ⟦abraham|Avraham|Abraham⟧ tam postavil oltář, narovnal dříví, svázal svého syna ⟦isaac|Jicchaka|Izáka⟧ a položil ho na oltář, navrch na dříví.
 
-[10] Potom Abraham vztáhl ruku a vzal nůž, aby zabil svého syna.
+[10] Potom ⟦abraham|Avraham|Abraham⟧ vztáhl ruku a vzal nůž, aby zabil svého syna.
 
-[11] Ale posel Yahweh na něj zavolal z nebes a řekl: „Abrahame, Abrahame!“ Řekl: „Tady jsem.“
+[11] Ale posel ⟦yhwh|Jahveho|Hospodina⟧ na něj zavolal z nebes a řekl: „⟦abraham|Avrahame|Abrahame⟧, ⟦abraham|Avrahame|Abrahame⟧!“ Řekl: „Tady jsem.“
 
-[12] Řekl: „Nevztahuj ruku na chlapce a nic mu nedělej, neboť nyní vím, že se bojíš *Elohim*, když jsi mi neodepřel svého syna, svého jediného.“
+[12] Řekl: „Nevztahuj ruku na chlapce a nic mu nedělej, neboť nyní vím, že se bojíš ⟦elohim|Elohim|Boha⟧, když jsi mi neodepřel svého syna, svého jediného.“
 
-[13] Abraham pozvedl oči a podíval se, a hle, za ním byl beran, zachycený rohy v houštině. Abraham šel, vzal berana a obětoval ho jako zápalnou oběť místo svého syna.
+[13] ⟦abraham|Avraham|Abraham⟧ pozvedl oči a podíval se, a hle, za ním byl beran, zachycený rohy v houštině. ⟦abraham|Avraham|Abraham⟧ šel, vzal berana a obětoval ho jako zápalnou oběť místo svého syna.
 
-[14] Abraham nazval to místo „Yahweh Yireh“ („Yahweh uvidí / obstará“); jak se dodnes říká: „Na hoře Yahweh bude viděno / obstaráno.“
+[14] ⟦abraham|Avraham|Abraham⟧ nazval to místo ⟦yhwh-yireh|„Jahve jire“ („Jahve uvidí / obstará“)|„Hospodin vidí“⟧; jak se dodnes říká: „Na hoře ⟦yhwh|Jahveho|Hospodinově⟧ bude viděno / obstaráno.“
 
-[15] Posel Yahweh zavolal na Abrahama podruhé z nebes
+[15] Posel ⟦yhwh|Jahveho|Hospodina⟧ zavolal na ⟦abraham|Avrahama|Abrahama⟧ podruhé z nebes
 
-[16] a řekl: „Sám při sobě jsem přísahal, praví Yahweh: protože jsi učinil tuto věc a neodepřel jsi svého syna, svého jediného,
+[16] a řekl: „Sám při sobě jsem přísahal, praví ⟦yhwh|Jahve|Hospodin⟧: protože jsi učinil tuto věc a neodepřel jsi svého syna, svého jediného,
 
 [17] jistě ti požehnám a jistě rozmnožím tvé potomstvo jako hvězdy nebes a jako písek na mořském břehu; a tvé potomstvo obsadí bránu svých nepřátel.
 
 [18] A ve tvém potomstvu naleznou požehnání všechny národy země – protože jsi poslechl můj hlas.“
 
-[19] Abraham se tedy vrátil ke svým mládencům; vstali a šli spolu do Beersheby; a Abraham bydlel v Beershebě.
+[19] ⟦abraham|Avraham|Abraham⟧ se tedy vrátil ke svým mládencům; vstali a šli spolu do ⟦beersheba|Beer Ševy|Beer-šeby⟧; a ⟦abraham|Avraham|Abraham⟧ bydlel v ⟦beersheba|Beer Ševě|Beer-šebě⟧.
 
-[20] Po těchto věcech bylo Abrahamovi oznámeno: „Hle, také Milcah porodila synů tvému bratru Nahorovi:
+[20] Po těchto věcech bylo ⟦abraham|Avrahamovi|Abrahamovi⟧ oznámeno: „Hle, také Milka porodila synů tvému bratru ⟦nahor|Nachorovi|Náchorovi⟧:
 
-[21] Uze, jeho prvorozeného, Buze, jeho bratra, Kemuela, otce Arama,
+[21] ⟦uz|Uce|Úsa⟧, jeho prvorozeného, ⟦buz|Buze|Búza⟧, jeho bratra, ⟦kemuel|Kemuela|Kemúela⟧, otce Arama,
 
-[22] Cheseda, Haza, Pildashe, Jidlapha a Bethuela.“
+[22] Keseda, Chaza, Pildaše, Jidlafa a ⟦bethuel|Betuela|Betúela⟧.“
 
-[23] Bethuel zplodil Rebekah. Těchto osm porodila Milcah Nahorovi, Abrahamovu bratru.
+[23] ⟦bethuel|Betuel|Betúel⟧ zplodil ⟦rebekah|Rivku|Rebeku⟧. Těchto osm porodila Milka ⟦nahor|Nachorovi|Náchorovi⟧, ⟦abraham|Avrahamovu|Abrahamovu⟧ bratru.
 
-[24] Také jeho vedlejší žena, jménem Reumah, porodila Tebaha, Gahama, Tahashe a Maacah.
+[24] Také jeho vedlejší žena, jménem ⟦reumah|Reuma|Reúma⟧, porodila ⟦tebah|Tevacha|Tebacha⟧, Gachama, Tachaše a ⟦maacah|Maachu|Maaku⟧.
 
 ## Změny
 

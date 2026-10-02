@@ -1,15 +1,15 @@
 # Izajáš 48
 
-[1] Slyšte toto, dome Jacobův,
-kteří jste nazýváni jménem Israel
-a vyšli jste z vod Judahu,
-kteří přísaháte při jménu Yahweh
-a vyznáváte *Elohim* Israele,
+[1] Slyšte toto, dome ⟦jacob|Jaakovův|Jákobův⟧,
+kteří jste nazýváni jménem ⟦israel|Jisrael|Izrael⟧
+a vyšli jste z vod ⟦judah|Jehudy|Judy⟧,
+kteří přísaháte při jménu ⟦yhwh|Jahveho|Hospodina⟧
+a vyznáváte ⟦elohim|Elohim|Boha⟧ ⟦israel|Jisraele|Izraele⟧,
 ale ne v pravdě ani v spravedlnosti.
 
 [2] Neboť se nazývají podle svatého města
-a opírají se o *Elohim* Israele;
-Yahweh zástupů je jeho jméno.
+a opírají se o ⟦elohim|Elohim|Boha⟧ ⟦israel|Jisraele|Izraele⟧;
+⟦yhwh|Jahve|Hospodin⟧ zástupů je jeho jméno.
 
 [3] „Dřívější věci jsem odedávna oznámil;
 vyšly z mých úst a ohlásil jsem je;
@@ -49,8 +49,8 @@ vyzkoušel jsem tě v peci soužení.
 neboť jak by mé jméno mohlo být znesvěceno?
 Svou slávu nedám jinému.
 
-[12] Poslouchej mě, Jacobe,
-a Israeli, kterého jsem povolal!
+[12] Poslouchej mě, ⟦jacob|Jaakove|Jákobe⟧,
+a ⟦israel|Jisraeli|Izraeli⟧, kterého jsem povolal!
 Já jsem to; já jsem první
 a já jsem poslední.
 
@@ -61,9 +61,9 @@ předstoupí spolu.
 
 [14] Shromážděte se všichni a slyšte!
 Kdo z nich oznámil tyto věci?
-Yahweh ho miluje;
-vykoná svůj záměr na Babylonu
-a jeho paže bude proti Chaldejcům.
+⟦yhwh|Jahve|Hospodin⟧ ho miluje;
+vykoná svůj záměr na ⟦babylon|Bavelu|Babylóně⟧
+a jeho paže bude proti ⟦chaldeans|Kasdim|Kaldejcům⟧.
 
 [15] Já, já jsem promluvil a povolal ho;
 přivedl jsem ho a jeho cesta se mu zdaří.
@@ -72,11 +72,11 @@ přivedl jsem ho a jeho cesta se mu zdaří.
 od počátku jsem nemluvil v skrytu,
 od doby, kdy se to dělo, jsem byl při tom.“
 
-A nyní mě poslal Pán Yahweh a jeho duch.
+A nyní mě poslal ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ a jeho duch.
 
-[17] Takto praví Yahweh, tvůj Vykupitel, Svatý Israele:
+[17] Takto praví ⟦yhwh|Jahve|Hospodin⟧, tvůj Vykupitel, Svatý ⟦israel|Jisraele|Izraele⟧:
 
-„Já jsem Yahweh, tvůj *Elohim*,
+„Já jsem ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧,
 který tě učí ku prospěchu,
 který tě vede cestou, kterou máš jít.
 
@@ -89,16 +89,16 @@ a tvoji potomci jako jeho zrnka;
 jejich jméno by nikdy nebylo vyhlazeno
 ani zničeno přede mnou.“
 
-[20] Vyjděte z Babylonu, uprchněte z Chaldey,
+[20] Vyjděte z ⟦babylon|Bavelu|Babylóna⟧, uprchněte z ⟦chaldea|Kasdim|Kaldejska⟧,
 oznamte to s jásotem, ohlaste to,
 rozneste to až na konec země;
-řekněte: „Yahweh vykoupil svého služebníka Jacoba!“
+řekněte: „⟦yhwh|Jahve|Hospodin⟧ vykoupil svého služebníka ⟦jacob|Jaakova|Jákoba⟧!“
 
 [21] Nežíznili, když je vedl pouštěmi;
 dal jim vytéct vodě ze skály;
 rozťal skálu a voda vytryskla.
 
-[22] „Není pokoje,“ praví Yahweh, „pro svévolníky.“
+[22] „Není pokoje,“ praví ⟦yhwh|Jahve|Hospodin⟧, „pro svévolníky.“
 
 ## Změny
 

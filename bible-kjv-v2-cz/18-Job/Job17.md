@@ -36,7 +36,7 @@ touhy mého srdce.
 [12] Tihle mění noc v den;
 ‚Světlo,‘ říkají, ‚je blízko, tváří v tvář tmě.‘
 
-[13] Hledím-li k Sheolu jako ke svému domu,
+[13] Hledím-li k ⟦sheol|Šeolu|podsvětí⟧ jako ke svému domu,
 stelu-li si lože ve tmě,
 
 [14] říkám-li jámě: ‚Ty jsi můj otec,‘
@@ -45,7 +45,7 @@ a červu: ‚Má matka a má sestra,‘
 [15] kde je tedy má naděje?
 Kdo uvidí mou naději?
 
-[16] Sestoupí se mnou do Sheolu?
+[16] Sestoupí se mnou do ⟦sheol|Šeolu|podsvětí⟧?
 Sestoupíme spolu do prachu?“
 
 ## Změny

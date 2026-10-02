@@ -1,8 +1,8 @@
 # Jeremjáš 46
 
-[1] Slovo Yahweh, které přišlo k proroku Jeremiahovi o národech.
+[1] Slovo ⟦yhwh|Jahveho|Hospodina⟧, které přišlo k proroku ⟦jeremiah|Jirmejahuovi|Jeremjášovi⟧ o národech.
 
-[2] O Egyptě. O vojsku Pharaoha Neca, krále Egypta, které bylo u řeky Euphratu v Carchemishi a které Nebuchadrezzar, král Babylonu, porazil ve čtvrtém roce Jehoiakima, syna Josiahova, krále Judahu:
+[2] O ⟦egypt|Micrajim|Egyptě⟧. O vojsku ⟦pharaoh|Paroha|faraóna⟧ ⟦neco|Necha|Néka⟧, krále ⟦egypt|Micrajim|Egypta⟧, které bylo u řeky ⟦euphrates|Peratu|Eufratu⟧ v Karkemiši a které ⟦nebuchadnezzar|Nevuchadrecar|Nebúkadnesar⟧, král ⟦babylon|Bavelu|Babylónu⟧, porazil ve čtvrtém roce ⟦jehoiakim|Jehojakima|Jójakíma⟧, syna ⟦josiah|Jošijahuova|Jóšijášova⟧, krále ⟦judah|Jehudy|Judy⟧:
 
 [3] „Připravte malý štít i velký štít
 a vytáhněte do boje!
@@ -19,17 +19,17 @@ a obrátili se nazpět.
 Jejich bojovníci jsou poraženi
 a ve spěchu utekli;
 neohlížejí se –
-hrůza ze všech stran! praví Yahweh.
+hrůza ze všech stran! praví ⟦yhwh|Jahve|Hospodin⟧.
 
 [6] Rychlý neuteče
 a bojovník neunikne;
-na severu u řeky Euphratu
+na severu u řeky ⟦euphrates|Peratu|Eufratu⟧
 klopýtli a padli.
 
-[7] Kdo je to, kdo stoupá jako Nil,
+[7] Kdo je to, kdo stoupá jako ⟦nile|Jeor|Nil⟧,
 jako řeky, jejichž vody se vzdouvají?
 
-[8] Egypt stoupá jako Nil,
+[8] ⟦egypt|Micrajim|Egypt⟧ stoupá jako ⟦nile|Jeor|Nil⟧,
 jako řeky, jejichž vody se vzdouvají.
 Řekl: ‚Vystoupím, přikryji zemi,
 zničím města i jejich obyvatele.‘
@@ -37,19 +37,19 @@ zničím města i jejich obyvatele.‘
 [9] Vyražte, koně,
 a zuřte, vozy!
 Ať vyjdou bojovníci:
-muži z Cush a Put, kteří třímají štít,
-muži z Lud, zběhlí v napínání luku.
+muži z ⟦cush|Kuše|Kúše⟧ a ⟦put|Putu|Pútu⟧, kteří třímají štít,
+muži z ⟦lud|Ludu|Lúdu⟧, zběhlí v napínání luku.
 
-[10] Ten den je dnem Pána Yahweh zástupů,
+[10] Ten den je dnem ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧ zástupů,
 dnem pomsty,
 aby se pomstil na svých protivnících.
 Meč bude požírat a nasytí se
 a napije se dosyta jejich krve.
-Neboť Pán Yahweh zástupů koná oběť
-v severní zemi u řeky Euphratu.
+Neboť ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ zástupů koná oběť
+v severní zemi u řeky ⟦euphrates|Peratu|Eufratu⟧.
 
-[11] Vystup do Gileadu a vezmi balzám,
-panenská dcero Egypta!
+[11] Vystup do ⟦gilead|Giladu|Gileádu⟧ a vezmi balzám,
+panenská dcero ⟦egypt|Micrajim|Egypta⟧!
 Nadarmo jsi rozmnožila léky;
 pro tebe není uzdravení.
 
@@ -58,16 +58,16 @@ a země je plná tvého křiku;
 neboť bojovník klopýtl o bojovníka;
 oba spolu padli.“
 
-[13] Slovo, které Yahweh promluvil k proroku Jeremiahovi o příchodu Nebuchadrezzara, krále Babylonu, aby udeřil na egyptskou zemi:
+[13] Slovo, které ⟦yhwh|Jahve|Hospodin⟧ promluvil k proroku ⟦jeremiah|Jirmejahuovi|Jeremjášovi⟧ o příchodu ⟦nebuchadnezzar|Nevuchadrecara|Nebúkadnesara⟧, krále ⟦babylon|Bavelu|Babylónu⟧, aby udeřil na egyptskou zemi:
 
-[14] „Oznamte v Egyptě a ohlaste v Migdolu;
-ohlaste v Memphisu a v Tachpanches;
+[14] „Oznamte v ⟦egypt|Micrajim|Egyptě⟧ a ohlaste v ⟦migdol|Migdolu|Migdólu⟧;
+ohlaste v ⟦memphis|Nofu|Memfidě⟧ a v Tachpanches;
 říkejte: ‚Postav se a buď připraven,
 neboť meč požírá všude kolem tebe.‘
 
 [15] Proč je smeten tvůj mocný?
 Neobstál,
-protože ho Yahweh srazil.
+protože ho ⟦yhwh|Jahve|Hospodin⟧ srazil.
 
 [16] Mnohé přivedl ke klopýtnutí a padli
 a říkali jeden druhému:
@@ -75,21 +75,21 @@ a říkali jeden druhému:
 a do své rodné země
 před mečem utlačovatele.‘
 
-[17] Dejte Pharaohovi, králi Egypta, jméno
+[17] Dejte ⟦pharaoh|Parohovi|faraónovi⟧, králi ⟦egypt|Micrajim|Egypta⟧, jméno
 ‚Hlučný, který promeškal svou chvíli‘.
 
 [18] Jakože žiji, praví Král,
-jehož jméno je Yahweh zástupů,
-jako Tabor mezi horami
-a jako Carmel u moře
+jehož jméno je ⟦yhwh|Jahve|Hospodin⟧ zástupů,
+jako ⟦tabor|Tavor|Tábor⟧ mezi horami
+a jako Karmel u moře
 tak kdosi přijde.
 
 [19] Připravte si zavazadla do exilu,
-obyvatelé Egypta!
-Neboť Memphis se stane pustinou,
+obyvatelé ⟦egypt|Micrajim|Egypta⟧!
+Neboť ⟦memphis|Nof|Memfis⟧ se stane pustinou,
 troskami bez obyvatel.
 
-[20] Egypt je krásná jalovice,
+[20] ⟦egypt|Micrajim|Egypt⟧ je krásná jalovice,
 ale od severu na ni přiletěla štípavá moucha.
 
 [21] I její najatí vojáci v jejím středu
@@ -104,26 +104,26 @@ neboť její nepřátelé táhnou v síle
 a přicházejí na ni se sekerami
 jako ti, kdo kácejí stromy.
 
-[23] Vykácejí její les, praví Yahweh,
+[23] Vykácejí její les, praví ⟦yhwh|Jahve|Hospodin⟧,
 ač je neprostupný,
 protože je jich víc než kobylek;
 jsou bez počtu.
 
-[24] Dcera Egypta bude zahanbena;
+[24] Dcera ⟦egypt|Micrajim|Egypta⟧ bude zahanbena;
 bude vydána do ruky lidu ze severu.“
 
-[25] Yahweh zástupů, *Elohim* Israele, řekl: „Hle, uvádím trest na Amona z No – Amona z Théb – na Pharaoha a na Egypt, na jeho bohy a na jeho krále, na Pharaoha i na ty, kdo v něho doufají.
+[25] ⟦yhwh|Jahve|Hospodin⟧ zástupů, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧, řekl: „Hle, uvádím trest na ⟦amon|Amona|Amóna⟧ z ⟦thebes|No – Amona z Théb –|Théb⟧ na ⟦pharaoh|Paroha|faraóna⟧ a na ⟦egypt|Micrajim|Egypt⟧, na jeho bohy a na jeho krále, na ⟦pharaoh|Paroha|faraóna⟧ i na ty, kdo v něho doufají.
 
-[26] Vydám je do ruky těch, kdo jim ukládají o život, do ruky Nebuchadrezzara, krále Babylonu, a jeho služebníků. Potom bude Egypt obydlen jako za dávných dnů, praví Yahweh.
+[26] Vydám je do ruky těch, kdo jim ukládají o život, do ruky ⟦nebuchadnezzar|Nevuchadrecara|Nebúkadnesara⟧, krále ⟦babylon|Bavelu|Babylónu⟧, a jeho služebníků. Potom bude ⟦egypt|Micrajim|Egypt⟧ obydlen jako za dávných dnů, praví ⟦yhwh|Jahve|Hospodin⟧.
 
-[27] Ty však se neboj, Jacobe, můj služebníku,
-a neděs se, Israeli,
+[27] Ty však se neboj, ⟦jacob|Jaakove|Jákobe⟧, můj služebníku,
+a neděs se, ⟦israel|Jisraeli|Izraeli⟧,
 neboť hle, zachráním tě zdaleka
 a tvé potomstvo ze země jejich zajetí.
-Jacob se vrátí a bude mít klid a pokoj
+⟦jacob|Jaakov|Jákob⟧ se vrátí a bude mít klid a pokoj
 a nikdo ho nebude strašit.
 
-[28] Neboj se, Jacobe, můj služebníku, praví Yahweh,
+[28] Neboj se, ⟦jacob|Jaakove|Jákobe⟧, můj služebníku, praví ⟦yhwh|Jahve|Hospodin⟧,
 neboť já jsem s tebou.
 Učiním úplný konec všem národům,
 kam jsem tě vyhnal,

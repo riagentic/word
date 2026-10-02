@@ -1,6 +1,6 @@
 # Genesis 7
 
-[1] Tu Yahweh řekl Noahovi: „Vejdi ty i celý tvůj dům do archy, neboť jsem viděl, že jsi přede mnou v tomto pokolení spravedlivý.
+[1] Tu ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦noah|Noachovi|Noemu⟧: „Vejdi ty i celý tvůj dům do archy, neboť jsem viděl, že jsi přede mnou v tomto pokolení spravedlivý.
 
 [2] Ze všech čistých zvířat si vezmi sedm párů, samce a jeho samici; a ze zvířat, která nejsou čistá, jeden pár, samce a jeho samici;
 
@@ -8,29 +8,29 @@
 
 [4] Neboť ještě za sedm dní sešlu na zemi déšť na čtyřicet dní a čtyřicet nocí a smetu z tváře půdy všechno živé, co jsem učinil.“
 
-[5] A Noah učinil vše, co mu Yahweh přikázal.
+[5] A ⟦noah|Noach|Noe⟧ učinil vše, co mu ⟦yhwh|Jahve|Hospodin⟧ přikázal.
 
-[6] Noahovi bylo 600 let, když přišla na zemi potopa vod.
+[6] ⟦noah|Noachovi|Noemu⟧ bylo 600 let, když přišla na zemi potopa vod.
 
-[7] Noah vešel do archy a s ním jeho synové, jeho žena a ženy jeho synů, kvůli vodám potopy.
+[7] ⟦noah|Noach|Noe⟧ vešel do archy a s ním jeho synové, jeho žena a ženy jeho synů, kvůli vodám potopy.
 
 [8] Z čistých zvířat i ze zvířat, která nejsou čistá, z ptáků i ze všeho, co se plazí po půdě,
 
-[9] po dvou vcházeli k Noahovi do archy, samec a samice, jak *Elohim* Noahovi přikázal.
+[9] po dvou vcházeli k ⟦noah|Noachovi|Noemu⟧ do archy, samec a samice, jak ⟦elohim|Elohim|Bůh⟧ ⟦noah|Noachovi|Noemu⟧ přikázal.
 
 [10] A po sedmi dnech přišly na zemi vody potopy.
 
-[11] V 600. roce Noahova života, ve druhém měsíci, 17. dne měsíce – právě toho dne se provalily všechny prameny veliké hlubiny a otevřela se okna nebes.
+[11] V 600. roce ⟦noah|Noachova|Noemova⟧ života, ve druhém měsíci, 17. dne měsíce – právě toho dne se provalily všechny prameny veliké hlubiny a otevřela se okna nebes.
 
 [12] Déšť padal na zemi čtyřicet dní a čtyřicet nocí.
 
-[13] Právě toho dne vešel Noah do archy se Shemem, Hamem a Japhethem, Noahovými syny, a s nimi Noahova žena a tři ženy jeho synů,
+[13] Právě toho dne vešel ⟦noah|Noach|Noe⟧ do archy se ⟦shem|Šemem|Šémem⟧, Chamem a Jefetem, ⟦noah|Noachovými|Noemovými⟧ syny, a s nimi ⟦noah|Noachova|Noemova⟧ žena a tři ženy jeho synů,
 
 [14] oni a všechna divoká zvěř podle svého druhu, všechen dobytek podle svých druhů, každý plaz, který se plazí po zemi, podle svého druhu, a každý pták podle svého druhu – každý okřídlený tvor.
 
-[15] Vcházeli k Noahovi do archy po dvou ze všeho těla, v němž byl dech života.
+[15] Vcházeli k ⟦noah|Noachovi|Noemu⟧ do archy po dvou ze všeho těla, v němž byl dech života.
 
-[16] Ti, kteří vešli, samec a samice ze všeho těla, vešli, jak mu *Elohim* přikázal; a Yahweh za ním zavřel.
+[16] Ti, kteří vešli, samec a samice ze všeho těla, vešli, jak mu ⟦elohim|Elohim|Bůh⟧ přikázal; a ⟦yhwh|Jahve|Hospodin⟧ za ním zavřel.
 
 [17] Potopa přicházela na zemi čtyřicet dní; vody stoupaly a nadzvedly archu, a ta se vznesla nad zem.
 
@@ -44,7 +44,7 @@
 
 [22] Všechno, v jehož chřípí byl dech ducha života, ze všeho, co bylo na souši, zemřelo.
 
-[23] Smetl všechno živé, co bylo na tváři půdy – od lidí po dobytek, po plazy a po ptáky nebes –, byli smeteni ze země. Zůstal jen Noah a ti, kdo byli s ním v arše.
+[23] Smetl všechno živé, co bylo na tváři půdy – od lidí po dobytek, po plazy a po ptáky nebes –, byli smeteni ze země. Zůstal jen ⟦noah|Noach|Noe⟧ a ti, kdo byli s ním v arše.
 
 [24] A vody zmohutněly na zemi 150 dní.
 

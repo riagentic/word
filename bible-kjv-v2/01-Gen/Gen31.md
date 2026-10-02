@@ -1,76 +1,76 @@
 # Genesis 31
 
-[1] Jacob heard the words of Laban's sons, saying, "Jacob has taken all that belonged to our father, and from what was our father's he has made all this wealth."
+[1] ⟦jacob|Yaaqov|Jacob⟧ heard the words of ⟦laban|Lavan|Laban⟧'s sons, saying, "⟦jacob|Yaaqov|Jacob⟧ has taken all that belonged to our father, and from what was our father's he has made all this wealth."
 
-[2] Jacob saw the face of Laban, and behold, it was not with him as before.
+[2] ⟦jacob|Yaaqov|Jacob⟧ saw the face of ⟦laban|Lavan|Laban⟧, and behold, it was not with him as before.
 
-[3] Yahweh said to Jacob, "Return to the land of your fathers and to your kindred, and I will be with you."
+[3] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦jacob|Yaaqov|Jacob⟧, "Return to the land of your fathers and to your kindred, and I will be with you."
 
-[4] So Jacob sent and called Rachel and Leah to the field, to his flock,
+[4] So ⟦jacob|Yaaqov|Jacob⟧ sent and called Rachel and Leah to the field, to his flock,
 
-[5] and said to them, "I see your father's face — it is not toward me as before; but the *Elohim* of my father has been with me.
+[5] and said to them, "I see your father's face — it is not toward me as before; but the ⟦elohim|Elohim|God⟧ of my father has been with me.
 
 [6] You yourselves know that with all my strength I have served your father.
 
-[7] Yet your father has cheated me and changed my wages ten times; but *Elohim* did not let him harm me.
+[7] Yet your father has cheated me and changed my wages ten times; but ⟦elohim|Elohim|God⟧ did not let him harm me.
 
 [8] If he said, 'The speckled shall be your wages,' then all the flock bore speckled; and if he said, 'The striped shall be your wages,' then all the flock bore striped.
 
-[9] Thus *Elohim* has taken away the livestock of your father and given it to me.
+[9] Thus ⟦elohim|Elohim|God⟧ has taken away the livestock of your father and given it to me.
 
 [10] At the time the flock was mating, I lifted up my eyes and saw in a dream, and behold, the he-goats that leaped upon the flock were striped, speckled, and mottled.
 
-[11] Then the messenger of *Elohim* said to me in the dream, 'Jacob.' I said, 'Here I am.'
+[11] Then the messenger of ⟦elohim|Elohim|God⟧ said to me in the dream, '⟦jacob|Yaaqov|Jacob⟧.' I said, 'Here I am.'
 
-[12] And he said, 'Lift up your eyes and see: all the he-goats leaping on the flock are striped, speckled, and mottled; for I have seen all that Laban has been doing to you.
+[12] And he said, 'Lift up your eyes and see: all the he-goats leaping on the flock are striped, speckled, and mottled; for I have seen all that ⟦laban|Lavan|Laban⟧ has been doing to you.
 
-[13] I am the El of Bethel, where you anointed the pillar and where you made a vow to me. Now arise, go out of this land and return to the land of your kindred.'"
+[13] I am the ⟦el|El|God⟧ of ⟦bethel|Beit El|Bethel⟧, where you anointed the pillar and where you made a vow to me. Now arise, go out of this land and return to the land of your kindred.'"
 
 [14] Then Rachel and Leah answered and said to him, "Is there still any portion or inheritance for us in our father's house?
 
 [15] Are we not regarded by him as foreigners? For he has sold us and has consumed our price.
 
-[16] All the wealth that *Elohim* has taken from our father belongs to us and to our children. Now then, whatever *Elohim* has said to you, do."
+[16] All the wealth that ⟦elohim|Elohim|God⟧ has taken from our father belongs to us and to our children. Now then, whatever ⟦elohim|Elohim|God⟧ has said to you, do."
 
-[17] So Jacob arose, and set his sons and his wives on camels;
+[17] So ⟦jacob|Yaaqov|Jacob⟧ arose, and set his sons and his wives on camels;
 
-[18] and he drove away all his livestock and all the property he had acquired, the livestock of his acquisition that he had gathered in Paddan-Aram, to go to Isaac his father in the land of Canaan.
+[18] and he drove away all his livestock and all the property he had acquired, the livestock of his acquisition that he had gathered in ⟦paddan-aram|Paddan Aram|Paddan-Aram⟧, to go to ⟦isaac|Yitzchaq|Isaac⟧ his father in the land of ⟦canaan|Kenaan|Canaan⟧.
 
-[19] Laban had gone to shear his sheep, and Rachel stole the household gods (*teraphim*) that were her father's.
+[19] ⟦laban|Lavan|Laban⟧ had gone to shear his sheep, and Rachel stole the ⟦teraphim|household gods (teraphim)|household gods⟧ that were her father's.
 
-[20] And Jacob deceived the mind of Laban the Aramean by not telling him that he was fleeing.
+[20] And ⟦jacob|Yaaqov|Jacob⟧ deceived the mind of ⟦laban|Lavan|Laban⟧ the ⟦aramean|Arammi|Aramean⟧ by not telling him that he was fleeing.
 
-[21] So he fled with all that he had, and he arose and crossed the River, and set his face toward the hill country of Gilead.
+[21] So he fled with all that he had, and he arose and crossed the River, and set his face toward the hill country of ⟦gilead|Gilad|Gilead⟧.
 
-[22] On the third day Laban was told that Jacob had fled.
+[22] On the third day ⟦laban|Lavan|Laban⟧ was told that ⟦jacob|Yaaqov|Jacob⟧ had fled.
 
-[23] So he took his kinsmen with him and pursued him for seven days' journey, and overtook him in the hill country of Gilead.
+[23] So he took his kinsmen with him and pursued him for seven days' journey, and overtook him in the hill country of ⟦gilead|Gilad|Gilead⟧.
 
-[24] But *Elohim* came to Laban the Aramean in a dream by night, and said to him, "Be careful that you speak to Jacob neither good nor bad."
+[24] But ⟦elohim|Elohim|God⟧ came to ⟦laban|Lavan|Laban⟧ the ⟦aramean|Arammi|Aramean⟧ in a dream by night, and said to him, "Be careful that you speak to ⟦jacob|Yaaqov|Jacob⟧ neither good nor bad."
 
-[25] And Laban overtook Jacob. Now Jacob had pitched his tent in the hill country, and Laban with his kinsmen pitched in the hill country of Gilead.
+[25] And ⟦laban|Lavan|Laban⟧ overtook ⟦jacob|Yaaqov|Jacob⟧. Now ⟦jacob|Yaaqov|Jacob⟧ had pitched his tent in the hill country, and ⟦laban|Lavan|Laban⟧ with his kinsmen pitched in the hill country of ⟦gilead|Gilad|Gilead⟧.
 
-[26] Laban said to Jacob, "What have you done, that you have deceived me and carried away my daughters like captives of the sword?
+[26] ⟦laban|Lavan|Laban⟧ said to ⟦jacob|Yaaqov|Jacob⟧, "What have you done, that you have deceived me and carried away my daughters like captives of the sword?
 
 [27] Why did you flee secretly and deceive me, and not tell me, so that I might have sent you away with joy and with songs, with timbrel and with lyre?
 
 [28] And you did not even allow me to kiss my sons and my daughters. You have acted foolishly in this.
 
-[29] It is in the power of my hand to do you harm, but the *Elohim* of your father spoke to me last night, saying, 'Be careful that you speak to Jacob neither good nor bad.'
+[29] It is in the power of my hand to do you harm, but the ⟦elohim|Elohim|God⟧ of your father spoke to me last night, saying, 'Be careful that you speak to ⟦jacob|Yaaqov|Jacob⟧ neither good nor bad.'
 
 [30] And now, you have gone off because you longed greatly for your father's house — but why did you steal my gods?"
 
-[31] Then Jacob answered and said to Laban, "Because I was afraid; I thought you would take your daughters from me by force.
+[31] Then ⟦jacob|Yaaqov|Jacob⟧ answered and said to ⟦laban|Lavan|Laban⟧, "Because I was afraid; I thought you would take your daughters from me by force.
 
-[32] With whomever you find your gods — that one shall not live. In the presence of our kinsmen, point out what is yours among my things and take it." For Jacob did not know that Rachel had stolen them.
+[32] With whomever you find your gods — that one shall not live. In the presence of our kinsmen, point out what is yours among my things and take it." For ⟦jacob|Yaaqov|Jacob⟧ did not know that Rachel had stolen them.
 
-[33] So Laban went into Jacob's tent, and into Leah's tent, and into the tent of the two slave-girls, but did not find them. Then he went out of Leah's tent and entered Rachel's tent.
+[33] So ⟦laban|Lavan|Laban⟧ went into ⟦jacob|Yaaqov|Jacob⟧'s tent, and into Leah's tent, and into the tent of the two slave-girls, but did not find them. Then he went out of Leah's tent and entered Rachel's tent.
 
-[34] Rachel had taken the household gods and put them in the camel's saddle-basket, and was sitting on them. Laban felt all about the tent but did not find them.
+[34] Rachel had taken the household gods and put them in the camel's saddle-basket, and was sitting on them. ⟦laban|Lavan|Laban⟧ felt all about the tent but did not find them.
 
 [35] She said to her father, "Let not my lord be angry that I cannot rise before you, for the way of women is upon me." So he searched but did not find the household gods.
 
-[36] Then Jacob was angry and argued with Laban; Jacob spoke up and said to Laban, "What is my offense? What is my sin, that you have pursued me so hotly?
+[36] Then ⟦jacob|Yaaqov|Jacob⟧ was angry and argued with ⟦laban|Lavan|Laban⟧; ⟦jacob|Yaaqov|Jacob⟧ spoke up and said to ⟦laban|Lavan|Laban⟧, "What is my offense? What is my sin, that you have pursued me so hotly?
 
 [37] Now that you have felt all my goods, what have you found of all your household goods? Set it here before my kinsmen and your kinsmen, and let them decide between the two of us.
 
@@ -82,33 +82,33 @@
 
 [41] These twenty years I have been in your household. I served you fourteen years for your two daughters, and six years for your flock, and you changed my wages ten times.
 
-[42] If the *Elohim* of my father, the *Elohim* of Abraham and the Fear of Isaac, had not been with me, surely you would have sent me away empty. *Elohim* has seen my affliction and the labor of my hands, and he rebuked you last night."
+[42] If the ⟦elohim|Elohim|God⟧ of my father, the ⟦elohim|Elohim|God⟧ of ⟦abraham|Avraham|Abraham⟧ and the Fear of ⟦isaac|Yitzchaq|Isaac⟧, had not been with me, surely you would have sent me away empty. ⟦elohim|Elohim|God⟧ has seen my affliction and the labor of my hands, and he rebuked you last night."
 
-[43] Then Laban answered and said to Jacob, "The daughters are my daughters, the children are my children, the flocks are my flocks, and all that you see is mine. But what can I do this day for these my daughters or for their children whom they have borne?
+[43] Then ⟦laban|Lavan|Laban⟧ answered and said to ⟦jacob|Yaaqov|Jacob⟧, "The daughters are my daughters, the children are my children, the flocks are my flocks, and all that you see is mine. But what can I do this day for these my daughters or for their children whom they have borne?
 
 [44] Now then, come, let us make a covenant, you and I, and let it be a witness between me and you."
 
-[45] So Jacob took a stone and set it up as a pillar.
+[45] So ⟦jacob|Yaaqov|Jacob⟧ took a stone and set it up as a pillar.
 
-[46] And Jacob said to his kinsmen, "Gather stones," and they took stones and made a heap; and they ate there by the heap.
+[46] And ⟦jacob|Yaaqov|Jacob⟧ said to his kinsmen, "Gather stones," and they took stones and made a heap; and they ate there by the heap.
 
-[47] Laban called it Jegar-sahadutha, but Jacob called it Galeed.
+[47] ⟦laban|Lavan|Laban⟧ called it ⟦jegar-sahadutha|Yegar Sahaduta|Jegar-sahadutha⟧, but ⟦jacob|Yaaqov|Jacob⟧ called it ⟦galeed|Galed|Galeed⟧.
 
-[48] And Laban said, "This heap is a witness between me and you today." Therefore its name was called Galeed,
+[48] And ⟦laban|Lavan|Laban⟧ said, "This heap is a witness between me and you today." Therefore its name was called ⟦galeed|Galed|Galeed⟧,
 
-[49] and also Mizpah ("watchtower"), for he said, "May Yahweh watch between me and you when we are absent one from another.
+[49] and also ⟦mizpah|Mitzpah|Mizpah⟧ ("watchtower"), for he said, "May ⟦yhwh|Yahweh|the LORD⟧ watch between me and you when we are absent one from another.
 
-[50] If you afflict my daughters, or if you take other wives besides my daughters, though no one is with us, see, *Elohim* is witness between me and you."
+[50] If you afflict my daughters, or if you take other wives besides my daughters, though no one is with us, see, ⟦elohim|Elohim|God⟧ is witness between me and you."
 
-[51] And Laban said to Jacob, "Behold this heap and behold the pillar, which I have set up between me and you.
+[51] And ⟦laban|Lavan|Laban⟧ said to ⟦jacob|Yaaqov|Jacob⟧, "Behold this heap and behold the pillar, which I have set up between me and you.
 
 [52] This heap is a witness, and the pillar is a witness, that I will not pass over this heap to you, and that you will not pass over this heap and this pillar to me, for harm.
 
-[53] The *Elohim* of Abraham and the *Elohim* of Nahor — the *Elohim* of their father — judge between us." So Jacob swore by the Fear of his father Isaac.
+[53] The ⟦elohim|Elohim|God⟧ of ⟦abraham|Avraham|Abraham⟧ and the ⟦elohim|Elohim|God⟧ of ⟦nahor|Nachor|Nahor⟧ — the ⟦elohim|Elohim|God⟧ of their father — judge between us." So ⟦jacob|Yaaqov|Jacob⟧ swore by the Fear of his father ⟦isaac|Yitzchaq|Isaac⟧.
 
-[54] Then Jacob offered a sacrifice in the hill country and called his kinsmen to eat bread; they ate bread and spent the night in the hill country.
+[54] Then ⟦jacob|Yaaqov|Jacob⟧ offered a sacrifice in the hill country and called his kinsmen to eat bread; they ate bread and spent the night in the hill country.
 
-[55] Early in the morning Laban rose up, kissed his grandsons and his daughters, and blessed them; then Laban departed and returned to his place.
+[55] Early in the morning ⟦laban|Lavan|Laban⟧ rose up, kissed his grandsons and his daughters, and blessed them; then ⟦laban|Lavan|Laban⟧ departed and returned to his place.
 
 ## Changes
 

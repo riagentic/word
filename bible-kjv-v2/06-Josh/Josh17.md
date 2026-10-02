@@ -1,40 +1,40 @@
 # Joshua 17
 
-[1] The lot for the tribe of Manasseh — for he was the firstborn of Joseph: Machir the firstborn of Manasseh, the father of Gilead — he received Gilead and Bashan, because he was a man of war.
+[1] The lot for the tribe of ⟦manasseh|Menashe|Manasseh⟧ — for he was the firstborn of ⟦joseph|Yosef|Joseph⟧: Machir the firstborn of ⟦manasseh|Menashe|Manasseh⟧, the father of ⟦gilead|Gilad|Gilead⟧ — he received ⟦gilead|Gilad|Gilead⟧ and Bashan, because he was a man of war.
 
-[2] The rest of the children of Manasseh received their portion by clans: the children of Abiezer, the children of Helek, the children of Asriel, the children of Shechem, the children of Hepher, and the children of Shemida — these were the male descendants of Manasseh son of Joseph by their clans.
+[2] The rest of the children of ⟦manasseh|Menashe|Manasseh⟧ received their portion by clans: the children of ⟦abiezer|Aviezer|Abiezer⟧, the children of ⟦helek|Cheleq|Helek⟧, the children of Asriel, the children of Shechem, the children of ⟦hepher|Chefer|Hepher⟧, and the children of Shemida — these were the male descendants of ⟦manasseh|Menashe|Manasseh⟧ son of ⟦joseph|Yosef|Joseph⟧ by their clans.
 
-[3] Now Zelophehad son of Hepher son of Gilead son of Machir son of Manasseh had no sons, but daughters. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah.
+[3] Now ⟦zelophehad|Tzelofchad|Zelophehad⟧ son of ⟦hepher|Chefer|Hepher⟧ son of ⟦gilead|Gilad|Gilead⟧ son of Machir son of ⟦manasseh|Menashe|Manasseh⟧ had no sons, but daughters. These are the names of his daughters: ⟦mahlah|Machlah|Mahlah⟧, Noah, ⟦hoglah|Choglah|Hoglah⟧, ⟦milcah|Milkah|Milcah⟧, and ⟦tirzah|Tirtzah|Tirzah⟧.
 
-[4] They came near before Eleazar the priest, before Joshua son of Nun, and before the chiefs, saying, "Yahweh commanded Moses to give us an inheritance among our brothers." So in accordance with the commandment of Yahweh, he gave them an inheritance among their father's brothers.
+[4] They came near before ⟦eleazar|Elazar|Eleazar⟧ the priest, before ⟦joshua|Yehoshua|Joshua⟧ son of Nun, and before the chiefs, saying, "⟦yhwh|Yahweh|The LORD⟧ commanded ⟦moses|Moshe|Moses⟧ to give us an inheritance among our brothers." So in accordance with the commandment of ⟦yhwh|Yahweh|the LORD⟧, he gave them an inheritance among their father's brothers.
 
-[5] Thus ten portions fell to Manasseh, besides the land of Gilead and Bashan, which is beyond the Jordan;
+[5] Thus ten portions fell to ⟦manasseh|Menashe|Manasseh⟧, besides the land of ⟦gilead|Gilad|Gilead⟧ and Bashan, which is beyond the ⟦jordan|Yarden|Jordan⟧;
 
-[6] because the daughters of Manasseh received an inheritance among his sons. The land of Gilead was allotted to the rest of Manasseh's sons.
+[6] because the daughters of ⟦manasseh|Menashe|Manasseh⟧ received an inheritance among his sons. The land of ⟦gilead|Gilad|Gilead⟧ was allotted to the rest of ⟦manasseh|Menashe|Manasseh⟧'s sons.
 
-[7] The territory of Manasseh reached from Asher to Michmethath, which is east of Shechem; and the border went southward to the inhabitants of En-tappuah.
+[7] The territory of ⟦manasseh|Menashe|Manasseh⟧ reached from Asher to ⟦michmethath|Michmetat|Michmethath⟧, which is east of Shechem; and the border went southward to the inhabitants of ⟦en-tappuah|Ein Tappuach|En-tappuah⟧.
 
-[8] The land of Tappuah belonged to Manasseh, but the town of Tappuah on the border of Manasseh belonged to the children of Ephraim.
+[8] The land of ⟦tappuah|Tappuach|Tappuah⟧ belonged to ⟦manasseh|Menashe|Manasseh⟧, but the town of ⟦tappuah|Tappuach|Tappuah⟧ on the border of ⟦manasseh|Menashe|Manasseh⟧ belonged to the children of ⟦ephraim|Efrayim|Ephraim⟧.
 
-[9] The border went down to the wadi Kanah, south of the wadi; these cities of Ephraim lay among the cities of Manasseh. The border of Manasseh was on the north side of the wadi; and it ended at the sea.
+[9] The border went down to the wadi ⟦kanah|Qanah|Kanah⟧, south of the wadi; these cities of ⟦ephraim|Efrayim|Ephraim⟧ lay among the cities of ⟦manasseh|Menashe|Manasseh⟧. The border of ⟦manasseh|Menashe|Manasseh⟧ was on the north side of the wadi; and it ended at the sea.
 
-[10] The southern side was Ephraim's, and the northern side was Manasseh's, with the sea as its border; they touched Asher on the north and Issachar on the east.
+[10] The southern side was ⟦ephraim|Efrayim|Ephraim⟧'s, and the northern side was ⟦manasseh|Menashe|Manasseh⟧'s, with the sea as its border; they touched Asher on the north and ⟦issachar|Yissachar|Issachar⟧ on the east.
 
-[11] In Issachar and in Asher, Manasseh had Beth-shean and its villages, Ibleam and its villages, the inhabitants of Dor and its villages, the inhabitants of En-dor and its villages, the inhabitants of Taanach and its villages, and the inhabitants of Megiddo and its villages — the third being Naphath-dor.
+[11] In ⟦issachar|Yissachar|Issachar⟧ and in Asher, ⟦manasseh|Menashe|Manasseh⟧ had ⟦beth-shean|Beit Shean|Beth-shean⟧ and its villages, ⟦ibleam|Yivleam|Ibleam⟧ and its villages, the inhabitants of Dor and its villages, the inhabitants of ⟦en-dor|Ein Dor|En-dor⟧ and its villages, the inhabitants of Taanach and its villages, and the inhabitants of Megiddo and its villages — the third being ⟦naphath-dor|Nafat Dor|Naphath-dor⟧.
 
-[12] Yet the children of Manasseh could not take possession of those cities; the Canaanites persisted in dwelling in that land.
+[12] Yet the children of ⟦manasseh|Menashe|Manasseh⟧ could not take possession of those cities; the ⟦canaanites|Kenaanim|Canaanites⟧ persisted in dwelling in that land.
 
-[13] But when the children of Israel grew stronger, they put the Canaanites to forced labor; they did not utterly drive them out.
+[13] But when the children of ⟦israel|Yisrael|Israel⟧ grew stronger, they put the ⟦canaanites|Kenaanim|Canaanites⟧ to forced labor; they did not utterly drive them out.
 
-[14] The children of Joseph spoke to Joshua, saying, "Why have you given me only one lot and one portion for an inheritance, when I am a great people, and Yahweh has blessed me up to now?"
+[14] The children of ⟦joseph|Yosef|Joseph⟧ spoke to ⟦joshua|Yehoshua|Joshua⟧, saying, "Why have you given me only one lot and one portion for an inheritance, when I am a great people, and ⟦yhwh|Yahweh|the LORD⟧ has blessed me up to now?"
 
-[15] Joshua said to them, "If you are a great people, go up to the forest and clear ground for yourself there in the land of the Perizzites and the Rephaim, since the hill country of Ephraim is too narrow for you."
+[15] ⟦joshua|Yehoshua|Joshua⟧ said to them, "If you are a great people, go up to the forest and clear ground for yourself there in the land of the ⟦perizzites|Perizzim|Perizzites⟧ and the ⟦rephaim|Refaim|Rephaim⟧, since the hill country of ⟦ephraim|Efrayim|Ephraim⟧ is too narrow for you."
 
-[16] The children of Joseph said, "The hill country is not enough for us; and all the Canaanites who dwell in the land of the valley have iron chariots — both those in Beth-shean and its villages and those in the Valley of Jezreel."
+[16] The children of ⟦joseph|Yosef|Joseph⟧ said, "The hill country is not enough for us; and all the ⟦canaanites|Kenaanim|Canaanites⟧ who dwell in the land of the valley have iron chariots — both those in ⟦beth-shean|Beit Shean|Beth-shean⟧ and its villages and those in the Valley of ⟦jezreel|Yizreel|Jezreel⟧."
 
-[17] Joshua said to the house of Joseph — to Ephraim and to Manasseh — "You are a great people, and you have great power. You shall not have only one lot;
+[17] ⟦joshua|Yehoshua|Joshua⟧ said to the house of ⟦joseph|Yosef|Joseph⟧ — to ⟦ephraim|Efrayim|Ephraim⟧ and to ⟦manasseh|Menashe|Manasseh⟧ — "You are a great people, and you have great power. You shall not have only one lot;
 
-[18] the hill country shall be yours, for it is a forest, and you shall clear it, and its farthest boundaries shall be yours. You shall drive out the Canaanites, though they have iron chariots and though they are strong."
+[18] the hill country shall be yours, for it is a forest, and you shall clear it, and its farthest boundaries shall be yours. You shall drive out the ⟦canaanites|Kenaanim|Canaanites⟧, though they have iron chariots and though they are strong."
 
 ## Changes
 

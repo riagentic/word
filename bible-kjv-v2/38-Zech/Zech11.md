@@ -1,6 +1,6 @@
 # Zechariah 11
 
-[1] Open your doors, O Lebanon,
+[1] Open your doors, O ⟦lebanon|Levanon|Lebanon⟧,
 that the fire may devour your cedars!
 
 [2] Wail, O cypress, for the cedar has fallen,
@@ -11,13 +11,13 @@ for the thick forest has been felled!
 [3] The sound of the wail of the shepherds,
 for their glory is ruined!
 The sound of the roar of the lions,
-for the thicket of the Jordan is ruined!
+for the thicket of the ⟦jordan|Yarden|Jordan⟧ is ruined!
 
-[4] Thus said Yahweh my *Elohim*: "Feed the flock of slaughter.
+[4] Thus said ⟦yhwh|Yahweh|the LORD⟧ my ⟦elohim|Elohim|God⟧: "Feed the flock of slaughter.
 
-[5] Those who buy them slaughter them and go unpunished, and those who sell them say, 'Blessed be Yahweh, I have become rich,' and their own shepherds have no pity on them.
+[5] Those who buy them slaughter them and go unpunished, and those who sell them say, 'Blessed be ⟦yhwh|Yahweh|the LORD⟧, I have become rich,' and their own shepherds have no pity on them.
 
-[6] For I will no longer have pity on the inhabitants of this land, declares Yahweh. Behold, I will cause each man to fall into the hand of his neighbor, and each into the hand of his king, and they shall crush the land, and I will deliver none from their hand."
+[6] For I will no longer have pity on the inhabitants of this land, declares ⟦yhwh|Yahweh|the LORD⟧. Behold, I will cause each man to fall into the hand of his neighbor, and each into the hand of his king, and they shall crush the land, and I will deliver none from their hand."
 
 [7] So I became the shepherd of the flock doomed to be slaughtered by the sheep traders. And I took two staffs, one I named Favor, and the other I named Union. And I tended the sheep.
 
@@ -27,15 +27,15 @@ for the thicket of the Jordan is ruined!
 
 [10] And I took my staff Favor, and I broke it, annulling the covenant that I had made with all the peoples.
 
-[11] So it was annulled on that day, and the sheep traders, who were watching me, knew that it was the word of Yahweh.
+[11] So it was annulled on that day, and the sheep traders, who were watching me, knew that it was the word of ⟦yhwh|Yahweh|the LORD⟧.
 
 [12] Then I said to them, "If it seems good to you, give me my wages; but if not, keep them." And they weighed out as my wages **thirty pieces of silver**.
 
-[13] Then Yahweh said to me, "Throw it to the potter" — the lordly price at which I was priced by them. So I took the thirty pieces of silver and threw them into the house of Yahweh, to the potter.
+[13] Then ⟦yhwh|Yahweh|the LORD⟧ said to me, "Throw it to the potter" — the lordly price at which I was priced by them. So I took the thirty pieces of silver and threw them into the house of ⟦yhwh|Yahweh|the LORD⟧, to the potter.
 
-[14] Then I broke my second staff Union, annulling the brotherhood between Judah and Israel.
+[14] Then I broke my second staff Union, annulling the brotherhood between ⟦judah|Yehudah|Judah⟧ and ⟦israel|Yisrael|Israel⟧.
 
-[15] Then Yahweh said to me, "Take once more the equipment of a foolish shepherd.
+[15] Then ⟦yhwh|Yahweh|the LORD⟧ said to me, "Take once more the equipment of a foolish shepherd.
 
 [16] For behold, I am raising up in the land a shepherd who does not care for those being destroyed, or seek the young or heal the maimed or nourish the healthy, but devours the flesh of the fat ones, tearing off even their hoofs.
 

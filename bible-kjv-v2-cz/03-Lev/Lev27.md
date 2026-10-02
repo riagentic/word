@@ -1,8 +1,8 @@
 # Leviticus 27
 
-[1] Yahweh promluvil k Mosesovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[2] „Mluv k synům Israele a řekni jim: ‚Když někdo učiní Yahweh zvláštní slib a zasvětí osoby, budou osoby oceněny podle tvého ocenění.
+[2] „Mluv k synům ⟦israel|Jisraele|Izraele⟧ a řekni jim: ‚Když někdo učiní ⟦yhwh|Jahvovi|Hospodinu⟧ zvláštní slib a zasvětí osoby, budou osoby oceněny podle tvého ocenění.
 
 [3] Tvé ocenění pro muže od dvaceti do šedesáti let bude padesát šekelů stříbra podle šekelu svatyně.
 
@@ -16,21 +16,21 @@
 
 [8] Je-li však chudší, než je tvé ocenění, postaví se před kněze a kněz ho ocení; podle možností toho, kdo slib učinil, ho kněz ocení.
 
-[9] Je-li to zvíře, jaké se smí přinést jako obětní dar Yahweh, všechno, co z něj kdo dá Yahweh, bude svaté.
+[9] Je-li to zvíře, jaké se smí přinést jako obětní dar ⟦yhwh|Jahvovi|Hospodinu⟧, všechno, co z něj kdo dá ⟦yhwh|Jahvovi|Hospodinu⟧, bude svaté.
 
 [10] Nenahradí je ani nevymění, dobré za špatné nebo špatné za dobré; a vymění-li přece zvíře za zvíře, bude svaté ono i jeho náhrada.
 
-[11] Je-li to jakékoli nečisté zvíře, z něhož se Yahweh oběť nepřináší, postaví zvíře před kněze
+[11] Je-li to jakékoli nečisté zvíře, z něhož se ⟦yhwh|Jahvovi|Hospodinu⟧ oběť nepřináší, postaví zvíře před kněze
 
 [12] a kněz je ocení, ať je dobré, nebo špatné; jak je ty, kněže, oceníš, tak to bude.
 
 [13] Chce-li je však vykoupit, přidá k tvému ocenění pětinu.
 
-[14] Když někdo zasvětí svůj dům jako svatý Yahweh, kněz jej ocení, ať je dobrý, nebo špatný; jak jej kněz ocení, tak to platí.
+[14] Když někdo zasvětí svůj dům jako svatý ⟦yhwh|Jahvovi|Hospodinu⟧, kněz jej ocení, ať je dobrý, nebo špatný; jak jej kněz ocení, tak to platí.
 
 [15] Chce-li ten, kdo jej zasvětil, svůj dům vykoupit, přidá k němu pětinu peněz tvého ocenění a bude jeho.
 
-[16] Zasvětí-li někdo Yahweh část pole svého vlastnictví, tvé ocenění bude podle jeho osiva: chomer ječného osiva za padesát šekelů stříbra.
+[16] Zasvětí-li někdo ⟦yhwh|Jahvovi|Hospodinu⟧ část pole svého vlastnictví, tvé ocenění bude podle jeho osiva: chomer ječného osiva za padesát šekelů stříbra.
 
 [17] Zasvětí-li své pole od jubilejního roku, platí tvé ocenění.
 
@@ -40,33 +40,33 @@
 
 [20] Nevykoupí-li však pole nebo prodal-li pole jinému muži, nebude už možné je vykoupit.
 
-[21] A pole, až bude v jubileu uvolněno, bude svaté Yahweh jako pole jemu zasvěcené; stane se majetkem kněze.
+[21] A pole, až bude v jubileu uvolněno, bude svaté ⟦yhwh|Jahvovi|Hospodinu⟧ jako pole jemu zasvěcené; stane se majetkem kněze.
 
-[22] Zasvětí-li někdo Yahweh pole, které koupil a které není polem jeho vlastnictví,
+[22] Zasvětí-li někdo ⟦yhwh|Jahvovi|Hospodinu⟧ pole, které koupil a které není polem jeho vlastnictví,
 
-[23] kněz mu vypočítá výši tvého ocenění až do jubilejního roku a on zaplatí tvé ocenění téhož dne jako svatou věc Yahweh.
+[23] kněz mu vypočítá výši tvého ocenění až do jubilejního roku a on zaplatí tvé ocenění téhož dne jako svatou věc ⟦yhwh|Jahvovi|Hospodinu⟧.
 
 [24] V jubilejním roce se pole vrátí tomu, od koho bylo koupeno – tomu, komu země patří jako vlastnictví.
 
 [25] Všechna tvá ocenění budou podle šekelu svatyně: dvacet ger na šekel.
 
-[26] Prvorozené ze zvířat, které Yahweh patří právem prvorozenství, však nikdo nezasvětí; ať je to býk, nebo ovce, patří Yahweh.
+[26] Prvorozené ze zvířat, které ⟦yhwh|Jahvovi|Hospodinu⟧ patří právem prvorozenství, však nikdo nezasvětí; ať je to býk, nebo ovce, patří ⟦yhwh|Jahvovi|Hospodinu⟧.
 
 [27] Je-li z nečistého zvířete, vykoupí je podle tvého ocenění a přidá k němu pětinu; a nebude-li vykoupeno, bude prodáno podle tvého ocenění.
 
-[28] Nic, co někdo ze všeho, co má, zasvětil Yahweh klatbou – ať člověk, zvíře, nebo pole jeho vlastnictví – nebude prodáno ani vykoupeno; všechno zasvěcené klatbou je velesvaté Yahweh.
+[28] Nic, co někdo ze všeho, co má, zasvětil ⟦yhwh|Jahvovi|Hospodinu⟧ klatbou – ať člověk, zvíře, nebo pole jeho vlastnictví – nebude prodáno ani vykoupeno; všechno zasvěcené klatbou je velesvaté ⟦yhwh|Jahvovi|Hospodinu⟧.
 
 [29] Žádný člověk pod klatbou – který byl zasvěcen – nebude vyplacen; musí zemřít.
 
-[30] Všechen desátek země, ať ze semene země, nebo z ovoce stromů, patří Yahweh; je svatý Yahweh.
+[30] Všechen desátek země, ať ze semene země, nebo z ovoce stromů, patří ⟦yhwh|Jahvovi|Hospodinu⟧; je svatý ⟦yhwh|Jahvovi|Hospodinu⟧.
 
 [31] Chce-li někdo vykoupit něco ze svého desátku, přidá k tomu pětinu.
 
-[32] A všechen desátek ze skotu nebo z bravu – všechno, co prochází pod pastýřskou holí – každé desáté bude svaté Yahweh.
+[32] A všechen desátek ze skotu nebo z bravu – všechno, co prochází pod pastýřskou holí – každé desáté bude svaté ⟦yhwh|Jahvovi|Hospodinu⟧.
 
 [33] Nebude zkoumat, zda je dobré, nebo špatné, ani je nevymění; a vymění-li je přece, bude svaté ono i jeho náhrada; nebude vykoupeno.‘“
 
-[34] To jsou přikázání, která Yahweh přikázal Mosesovi pro syny Israele na hoře Sinai.
+[34] To jsou přikázání, která ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧ pro syny ⟦israel|Jisraele|Izraele⟧ na hoře ⟦sinai|Sinaj|Sínaj⟧.
 
 ## Změny
 

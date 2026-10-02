@@ -1,6 +1,6 @@
 # Leviticus 14
 
-[1] Yahweh promluvil k Mosesovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
 [2] „Toto bude zákon pro člověka s kožní nemocí v den jeho očišťování. Bude přiveden ke knězi
 
@@ -20,9 +20,9 @@
 
 [10] Osmého dne vezme dva beránky bez vady, jednu roční ovečku bez vady a tři desetiny éfy bílé mouky smíšené s olejem jako moučnou oběť a jeden log oleje.
 
-[11] Kněz, který ho očišťuje, postaví toho, kdo se očišťuje, i s těmito věcmi před Yahweh ke vchodu do stanu setkávání.
+[11] Kněz, který ho očišťuje, postaví toho, kdo se očišťuje, i s těmito věcmi před ⟦yhwh|Jahveho|Hospodina⟧ ke vchodu do stanu setkávání.
 
-[12] Kněz vezme jednoho z beránků a obětuje ho jako oběť za vinu spolu s logem oleje a bude je pozdvihovat jako pozdvihovanou oběť před Yahweh.
+[12] Kněz vezme jednoho z beránků a obětuje ho jako oběť za vinu spolu s logem oleje a bude je pozdvihovat jako pozdvihovanou oběť před ⟦yhwh|Jahvem|Hospodinem⟧.
 
 [13] Beránka zabije na místě, kde se zabíjí oběť za hřích a zápalná oběť, na svatém místě; neboť jako oběť za hřích patří knězi, tak i oběť za vinu – je to velesvaté.
 
@@ -30,11 +30,11 @@
 
 [15] Kněz vezme trochu z logu oleje a nalije si ho do dlaně své levé ruky.
 
-[16] Kněz omočí svůj pravý prst v oleji, který má v levé dlani, a prstem pokropí trochou oleje sedmkrát před Yahweh.
+[16] Kněz omočí svůj pravý prst v oleji, který má v levé dlani, a prstem pokropí trochou oleje sedmkrát před ⟦yhwh|Jahvem|Hospodinem⟧.
 
 [17] Ze zbytku oleje, který má v dlani, dá kněz trochu na lalůček pravého ucha toho, kdo se očišťuje, na palec jeho pravé ruky a na palec jeho pravé nohy – na krev oběti za vinu.
 
-[18] Co zbude z oleje v knězově dlani, dá na hlavu toho, kdo se očišťuje; a kněz za něj vykoná smíření před Yahweh.
+[18] Co zbude z oleje v knězově dlani, dá na hlavu toho, kdo se očišťuje; a kněz za něj vykoná smíření před ⟦yhwh|Jahvem|Hospodinem⟧.
 
 [19] Potom kněz obětuje oběť za hřích a vykoná smíření za toho, kdo se očišťuje od své nečistoty; poté zabije zápalnou oběť.
 
@@ -44,29 +44,29 @@
 
 [22] a dvě hrdličky nebo dvě holoubata, na co mu stačí prostředky – jedno jako oběť za hřích a druhé jako zápalnou oběť.
 
-[23] Osmého dne je přinese ke svému očištění knězi ke vchodu do stanu setkávání před Yahweh.
+[23] Osmého dne je přinese ke svému očištění knězi ke vchodu do stanu setkávání před ⟦yhwh|Jahveho|Hospodina⟧.
 
-[24] Kněz vezme beránka oběti za vinu a log oleje a kněz je bude pozdvihovat jako pozdvihovanou oběť před Yahweh.
+[24] Kněz vezme beránka oběti za vinu a log oleje a kněz je bude pozdvihovat jako pozdvihovanou oběť před ⟦yhwh|Jahvem|Hospodinem⟧.
 
 [25] Zabije beránka oběti za vinu; kněz vezme trochu krve oběti za vinu a dá ji na lalůček pravého ucha toho, kdo se očišťuje, na palec jeho pravé ruky a na palec jeho pravé nohy.
 
 [26] Kněz si nalije trochu oleje do dlaně své levé ruky
 
-[27] a kněz pravým prstem pokropí trochou oleje, který má v levé dlani, sedmkrát před Yahweh.
+[27] a kněz pravým prstem pokropí trochou oleje, který má v levé dlani, sedmkrát před ⟦yhwh|Jahvem|Hospodinem⟧.
 
 [28] Kněz dá trochu oleje, který má v dlani, na lalůček pravého ucha toho, kdo se očišťuje, na palec jeho pravé ruky a na palec jeho pravé nohy – na místo krve oběti za vinu.
 
-[29] Co zbude z oleje v knězově dlani, dá na hlavu toho, kdo se očišťuje, aby za něj vykonal smíření před Yahweh.
+[29] Co zbude z oleje v knězově dlani, dá na hlavu toho, kdo se očišťuje, aby za něj vykonal smíření před ⟦yhwh|Jahvem|Hospodinem⟧.
 
 [30] Potom obětuje jednu z hrdliček nebo z holoubat, na co mu stačí prostředky –
 
-[31] na co mu stačí prostředky: jedno jako oběť za hřích a druhé jako zápalnou oběť spolu s moučnou obětí. Tak kněz vykoná před Yahweh smíření za toho, kdo se očišťuje.
+[31] na co mu stačí prostředky: jedno jako oběť za hřích a druhé jako zápalnou oběť spolu s moučnou obětí. Tak kněz vykoná před ⟦yhwh|Jahvem|Hospodinem⟧ smíření za toho, kdo se očišťuje.
 
 [32] To je zákon pro člověka, na kterém je nákaza kožní nemoci a který nemá prostředky na své očištění.“
 
-[33] Yahweh promluvil k Mosesovi a Aaronovi:
+[33] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a ⟦aaron|Aharonovi|Áronovi⟧:
 
-[34] „Až přijdete do země Canaan, kterou vám dávám do vlastnictví, a já dopustím nákazu kožní nemoci na některý dům v zemi vašeho vlastnictví,
+[34] „Až přijdete do země Kenaan, kterou vám dávám do vlastnictví, a já dopustím nákazu kožní nemoci na některý dům v zemi vašeho vlastnictví,
 
 [35] majitel domu přijde a oznámí knězi: ‚Zdá se mi, že se v mém domě objevilo něco jako nákaza.‘
 

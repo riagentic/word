@@ -1,106 +1,106 @@
 # Numeri 33
 
-[1] Toto jsou etapy synů Israele, když vycházeli ze země Egypt po svých oddílech pod rukou Mosese a Aarona.
+[1] Toto jsou etapy synů ⟦israel|Jisraele|Izraele⟧, když vycházeli ze země ⟦egypt|Micrajim|Egypt⟧ po svých oddílech pod rukou ⟦moses|Moše|Mojžíše⟧ a ⟦aaron|Aharona|Árona⟧.
 
-[2] Moses zapsal jejich výchozí místa, etapu za etapou, na příkaz Yahweh; a toto jsou jejich etapy podle jejich výchozích míst.
+[2] ⟦moses|Moše|Mojžíš⟧ zapsal jejich výchozí místa, etapu za etapou, na příkaz ⟦yhwh|Jahveho|Hospodina⟧; a toto jsou jejich etapy podle jejich výchozích míst.
 
-[3] Vytáhli z Ramesesu v prvním měsíci, patnáctého dne prvního měsíce; den po Pasše vyšli synové Israele se vztyčenou rukou před očima všech Egypťanů,
+[3] Vytáhli z ⟦rameses|Raamsesu|Ramesesu⟧ v prvním měsíci, patnáctého dne prvního měsíce; den po ⟦pesach|Pesachu|velikonočním hodu⟧ vyšli synové ⟦israel|Jisraele|Izraele⟧ se vztyčenou rukou před očima všech ⟦egyptians|Micrim|Egypťanů⟧,
 
-[4] zatímco Egypťané pohřbívali všechny své prvorozené, které mezi nimi Yahweh pobil; i nad jejich bohy vykonal Yahweh soudy.
+[4] zatímco ⟦egyptians|Micrim|Egypťané⟧ pohřbívali všechny své prvorozené, které mezi nimi ⟦yhwh|Jahve|Hospodin⟧ pobil; i nad jejich bohy vykonal ⟦yhwh|Jahve|Hospodin⟧ soudy.
 
-[5] Synové Israele vytáhli z Ramesesu a utábořili se v Succoth.
+[5] Synové ⟦israel|Jisraele|Izraele⟧ vytáhli z ⟦rameses|Raamsesu|Ramesesu⟧ a utábořili se v ⟦succoth|Sukkot|Sukót⟧.
 
-[6] Vytáhli ze Succoth a utábořili se v Etham, které leží na okraji pouště.
+[6] Vytáhli ze ⟦succoth|Sukkot|Sukót⟧ a utábořili se v ⟦etham|Etam|Étam⟧, které leží na okraji pouště.
 
-[7] Vytáhli z Etham a obrátili se zpět k Pi-hahiroth, které je naproti Baal-zephon; a utábořili se před Migdolem.
+[7] Vytáhli z ⟦etham|Etam|Étam⟧ a obrátili se zpět k ⟦pi-hahiroth|Pi HaChirot|Pí-chírot⟧, které je naproti ⟦baal-zephon|Baal Cefon|Baal-sefón⟧; a utábořili se před ⟦migdol|Migdolem|Migdólem⟧.
 
-[8] Vytáhli od Hahiroth, prošli středem moře do pouště, šli tři dny cesty po poušti Etham a utábořili se v Marah.
+[8] Vytáhli od ⟦hahiroth|HaChirot|Chírot⟧, prošli středem moře do pouště, šli tři dny cesty po poušti ⟦etham|Etam|Étam⟧ a utábořili se v Mara.
 
-[9] Vytáhli z Marah a přišli do Elim; v Elim bylo dvanáct vodních pramenů a sedmdesát palem, a tam se utábořili.
+[9] Vytáhli z Mara a přišli do ⟦elim|Elim|Élim⟧; v ⟦elim|Elim|Élim⟧ bylo dvanáct vodních pramenů a sedmdesát palem, a tam se utábořili.
 
-[10] Vytáhli z Elim a utábořili se u Rákosového moře.
+[10] Vytáhli z ⟦elim|Elim|Élim⟧ a utábořili se u Rákosového moře.
 
-[11] Vytáhli od Rákosového moře a utábořili se na poušti Sin.
+[11] Vytáhli od Rákosového moře a utábořili se na poušti ⟦sin|Sin|Sín⟧.
 
-[12] Vytáhli z pouště Sin a utábořili se v Dophkah.
+[12] Vytáhli z pouště ⟦sin|Sin|Sín⟧ a utábořili se v Dofka.
 
-[13] Vytáhli z Dophkah a utábořili se v Alush.
+[13] Vytáhli z Dofka a utábořili se v ⟦alush|Aluš|Alúš⟧.
 
-[14] Vytáhli z Alush a utábořili se v Rephidim, kde nebyla voda, aby lid mohl pít.
+[14] Vytáhli z ⟦alush|Aluš|Alúš⟧ a utábořili se v ⟦rephidim|Refidim|Refídim⟧, kde nebyla voda, aby lid mohl pít.
 
-[15] Vytáhli z Rephidim a utábořili se na poušti Sinai.
+[15] Vytáhli z ⟦rephidim|Refidim|Refídim⟧ a utábořili se na poušti ⟦sinai|Sinaj|Sínaj⟧.
 
-[16] Vytáhli z pouště Sinai a utábořili se v Kibroth-hattaavah.
+[16] Vytáhli z pouště ⟦sinai|Sinaj|Sínaj⟧ a utábořili se v ⟦kibroth-hattaavah|Kivrot HaTaava|Kibrót-taava⟧.
 
-[17] Vytáhli z Kibroth-hattaavah a utábořili se v Hazeroth.
+[17] Vytáhli z ⟦kibroth-hattaavah|Kivrot HaTaava|Kibrót-taava⟧ a utábořili se v ⟦hazeroth|Chacerot|Chaserót⟧.
 
-[18] Vytáhli z Hazeroth a utábořili se v Rithmah.
+[18] Vytáhli z ⟦hazeroth|Chacerot|Chaserót⟧ a utábořili se v Ritma.
 
-[19] Vytáhli z Rithmah a utábořili se v Rimmon-perez.
+[19] Vytáhli z Ritma a utábořili se v ⟦rimmon-perez|Rimmon Perec|Rimón-peres⟧.
 
-[20] Vytáhli z Rimmon-perez a utábořili se v Libnah.
+[20] Vytáhli z ⟦rimmon-perez|Rimmon Perec|Rimón-peres⟧ a utábořili se v ⟦libnah|Livna|Libna⟧.
 
-[21] Vytáhli z Libnah a utábořili se v Rissah.
+[21] Vytáhli z ⟦libnah|Livna|Libna⟧ a utábořili se v ⟦rissah|Rissa|Risa⟧.
 
-[22] Vytáhli z Rissah a utábořili se v Kehelathah.
+[22] Vytáhli z ⟦rissah|Rissa|Risa⟧ a utábořili se v Kehelata.
 
-[23] Vytáhli z Kehelathah a utábořili se u hory Shepher.
+[23] Vytáhli z Kehelata a utábořili se u hory Šefer.
 
-[24] Vytáhli od hory Shepher a utábořili se v Haradah.
+[24] Vytáhli od hory Šefer a utábořili se v Charada.
 
-[25] Vytáhli z Haradah a utábořili se v Makheloth.
+[25] Vytáhli z Charada a utábořili se v ⟦makheloth|Makhelot|Makhelót⟧.
 
-[26] Vytáhli z Makheloth a utábořili se v Tahath.
+[26] Vytáhli z ⟦makheloth|Makhelot|Makhelót⟧ a utábořili se v Tachat.
 
-[27] Vytáhli z Tahath a utábořili se v Terah.
+[27] Vytáhli z Tachat a utábořili se v Terach.
 
-[28] Vytáhli z Terah a utábořili se v Mithkah.
+[28] Vytáhli z Terach a utábořili se v Mitka.
 
-[29] Vytáhli z Mithkah a utábořili se v Hashmonah.
+[29] Vytáhli z Mitka a utábořili se v Chašmona.
 
-[30] Vytáhli z Hashmonah a utábořili se v Moseroth.
+[30] Vytáhli z Chašmona a utábořili se v ⟦moseroth|Moserot|Moserót⟧.
 
-[31] Vytáhli z Moseroth a utábořili se v Bene-jaakan.
+[31] Vytáhli z ⟦moseroth|Moserot|Moserót⟧ a utábořili se v ⟦bene-jaakan|Benej Jaakan|Bené-jaakan⟧.
 
-[32] Vytáhli z Bene-jaakan a utábořili se v Hor-haggidgad.
+[32] Vytáhli z ⟦bene-jaakan|Benej Jaakan|Bené-jaakan⟧ a utábořili se v ⟦hor-haggidgad|Chor HaGidgad|Chór-gidgád⟧.
 
-[33] Vytáhli z Hor-haggidgad a utábořili se v Jotbathah.
+[33] Vytáhli z ⟦hor-haggidgad|Chor HaGidgad|Chór-gidgád⟧ a utábořili se v ⟦jotbathah|Jotvata|Jotbata⟧.
 
-[34] Vytáhli z Jotbathah a utábořili se v Abronah.
+[34] Vytáhli z ⟦jotbathah|Jotvata|Jotbata⟧ a utábořili se v ⟦abronah|Avrona|Abróna⟧.
 
-[35] Vytáhli z Abronah a utábořili se v Ezion-geber.
+[35] Vytáhli z ⟦abronah|Avrona|Abróna⟧ a utábořili se v ⟦ezion-geber|Ecjon Gever|Esjón-geber⟧.
 
-[36] Vytáhli z Ezion-geber a utábořili se na poušti Zin (to je Kadesh).
+[36] Vytáhli z ⟦ezion-geber|Ecjon Gever|Esjón-geber⟧ a utábořili se na poušti ⟦zin|Cin|Sin⟧ (to je ⟦kadesh|Kadeš|Kádeš⟧).
 
-[37] Vytáhli z Kadeshe a utábořili se u hory Hor, na hranici země Edom.
+[37] Vytáhli z ⟦kadesh|Kadeše|Kádeše⟧ a utábořili se u hory ⟦hor|Hor|Hór⟧, na hranici země ⟦edom|Edom|Edóm⟧.
 
-[38] Kněz Aaron vystoupil na příkaz Yahweh na horu Hor a tam zemřel, ve čtyřicátém roce poté, co synové Israele vyšli ze země Egypt, v pátém měsíci, prvního dne toho měsíce.
+[38] Kněz ⟦aaron|Aharon|Áron⟧ vystoupil na příkaz ⟦yhwh|Jahveho|Hospodina⟧ na horu ⟦hor|Hor|Hór⟧ a tam zemřel, ve čtyřicátém roce poté, co synové ⟦israel|Jisraele|Izraele⟧ vyšli ze země ⟦egypt|Micrajim|Egypt⟧, v pátém měsíci, prvního dne toho měsíce.
 
-[39] Aaronovi bylo 123 let, když zemřel na hoře Hor.
+[39] ⟦aaron|Aharonovi|Áronovi⟧ bylo 123 let, když zemřel na hoře ⟦hor|Hor|Hór⟧.
 
-[40] Canaanita, král Aradu, který bydlel v Negev v zemi Canaan, uslyšel o příchodu synů Israele.
+[40] ⟦canaanites|Kenaani|Kenaanec⟧, král ⟦arad|Aradu|Arádu⟧, který bydlel v ⟦negev|Negev|Negeb⟧ v zemi Kenaan, uslyšel o příchodu synů ⟦israel|Jisraele|Izraele⟧.
 
-[41] Vytáhli od hory Hor a utábořili se v Zalmonah.
+[41] Vytáhli od hory ⟦hor|Hor|Hór⟧ a utábořili se v ⟦zalmonah|Calmona|Salmona⟧.
 
-[42] Vytáhli ze Zalmonah a utábořili se v Punon.
+[42] Vytáhli ze ⟦zalmonah|Calmona|Salmona⟧ a utábořili se v ⟦punon|Punon|Púnon⟧.
 
-[43] Vytáhli z Punon a utábořili se v Oboth.
+[43] Vytáhli z ⟦punon|Punon|Púnon⟧ a utábořili se v ⟦oboth|Ovot|Obót⟧.
 
-[44] Vytáhli z Oboth a utábořili se v Iye-abarim, na hranici Moabu.
+[44] Vytáhli z ⟦oboth|Ovot|Obót⟧ a utábořili se v ⟦iye-abarim|Ijej HaAvarim|Íje-abarím⟧, na hranici ⟦moab|Moavu|Moábu⟧.
 
-[45] Vytáhli z Iyim a utábořili se v Dibon-gad.
+[45] Vytáhli z ⟦iyim|Ijim|Íjím⟧ a utábořili se v ⟦dibon-gad|Divon Gad|Díbon-gád⟧.
 
-[46] Vytáhli z Dibon-gad a utábořili se v Almon-diblathaim.
+[46] Vytáhli z ⟦dibon-gad|Divon Gad|Díbon-gád⟧ a utábořili se v ⟦almon-diblathaim|Almon Divlatajim|Almón-diblatajim⟧.
 
-[47] Vytáhli z Almon-diblathaim a utábořili se v pohoří Abarim, naproti Nebu.
+[47] Vytáhli z ⟦almon-diblathaim|Almon Divlatajim|Almón-diblatajim⟧ a utábořili se v pohoří ⟦abarim|Avarim|Abarím⟧, naproti ⟦nebo|Nevo|Nebó⟧.
 
-[48] Vytáhli z pohoří Abarim a utábořili se na moabských pláních u Jordanu naproti Jerichu.
+[48] Vytáhli z pohoří ⟦abarim|Avarim|Abarím⟧ a utábořili se na ⟦moab|moavských|moábských⟧ pláních u ⟦jordan|Jardenu|Jordánu⟧ naproti Jerichu.
 
-[49] Tábořili u Jordanu od Beth-jeshimoth až po Abel-shittim, na moabských pláních.
+[49] Tábořili u ⟦jordan|Jardenu|Jordánu⟧ od ⟦beth-jeshimoth|Bejt HaJešimot|Bét-ješimót⟧ až po ⟦abel-shittim|Avel HaŠittim|Ábel-šitím⟧, na ⟦moab|moavských|moábských⟧ pláních.
 
-[50] Yahweh promluvil k Mosesovi na moabských pláních u Jordanu naproti Jerichu a řekl:
+[50] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ na ⟦moab|moavských|moábských⟧ pláních u ⟦jordan|Jardenu|Jordánu⟧ naproti Jerichu a řekl:
 
-[51] „Mluv k synům Israele a řekni jim: ‚Až přejdete Jordan do země Canaan,
+[51] „Mluv k synům ⟦israel|Jisraele|Izraele⟧ a řekni jim: ‚Až přejdete ⟦jordan|Jarden|Jordán⟧ do země Kenaan,
 
 [52] vyženete před sebou všechny obyvatele země, zničíte všechny jejich tesané kameny, zničíte všechny jejich lité modly a strhnete všechna jejich posvátná návrší.
 

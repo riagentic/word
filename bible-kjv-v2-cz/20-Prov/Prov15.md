@@ -6,7 +6,7 @@ ale příkré slovo podněcuje zlobu.
 [2] Jazyk moudrých podává poznání pěkně,
 ale ústa hlupáků chrlí pošetilost.
 
-[3] Oči Yahweh jsou na každém místě,
+[3] Oči ⟦yhwh|Jahveho|Hospodina⟧ jsou na každém místě,
 bdí nad zlými i dobrými.
 
 [4] Vlídný jazyk je strom života,
@@ -21,16 +21,16 @@ ale výnos ničemného stíhá trápení.
 [7] Rty moudrých rozsévají poznání,
 srdce hlupáků nikoli.
 
-[8] Oběť ničemných je Yahweh ohavností,
+[8] Oběť ničemných je ⟦yhwh|Jahvovi|Hospodinu⟧ ohavností,
 ale modlitba přímých je jeho potěšením.
 
-[9] Cesta ničemného je Yahweh ohavností,
+[9] Cesta ničemného je ⟦yhwh|Jahvovi|Hospodinu⟧ ohavností,
 ale miluje toho, kdo se žene za spravedlností.
 
 [10] Tvrdá kázeň čeká na toho, kdo opouští cestu;
 kdo nenávidí pokárání, zemře.
 
-[11] Sheol a Abaddon leží otevřeny před Yahweh;
+[11] ⟦sheol|Šeol|Podsvětí⟧ a ⟦abaddon|Avaddon|Abadon⟧ leží otevřeny před ⟦yhwh|Jahvem|Hospodinem⟧;
 čím spíše srdce synů lidských!
 
 [12] Posměvač nerad slyší pokárání;
@@ -45,7 +45,7 @@ ale ústa hlupáků se živí pošetilostí.
 [15] Všechny dny ztrápeného jsou zlé,
 ale kdo je veselého srdce, má ustavičnou hostinu.
 
-[16] Lepší je málo s bázní Yahweh
+[16] Lepší je málo s bázní ⟦yhwh|Jahveho|Hospodina⟧
 než veliký poklad a s ním trápení.
 
 [17] Lepší je pokrm ze zeleniny tam, kde je láska,
@@ -70,12 +70,12 @@ ale s mnoha rádci se zdaří.
 a slovo v pravý čas – jak je dobré!
 
 [24] Stezka života vede prozíravého vzhůru,
-aby se vyhnul Sheol dole.
+aby se vyhnul ⟦sheol|Šeolu|podsvětí⟧ dole.
 
-[25] Yahweh strhává dům pyšných,
+[25] ⟦yhwh|Jahve|Hospodin⟧ strhává dům pyšných,
 ale udržuje hraniční kámen vdovy.
 
-[26] Myšlenky ničemného jsou Yahweh ohavností,
+[26] Myšlenky ničemného jsou ⟦yhwh|Jahvovi|Hospodinu⟧ ohavností,
 ale laskavá slova jsou čistá.
 
 [27] Kdo je chamtivý po nepoctivém zisku, trápí vlastní dům,
@@ -84,7 +84,7 @@ ale kdo nenávidí úplatky, bude žít.
 [28] Srdce spravedlivého uvažuje, jak odpovědět,
 ale ústa ničemných chrlí zlé věci.
 
-[29] Yahweh je daleko od ničemných,
+[29] ⟦yhwh|Jahve|Hospodin⟧ je daleko od ničemných,
 ale slyší modlitbu spravedlivých.
 
 [30] Světlo očí obveseluje srdce
@@ -96,7 +96,7 @@ bude přebývat mezi moudrými.
 [32] Kdo nedbá poučení, pohrdá vlastní duší,
 ale kdo naslouchá pokárání, získává rozum.
 
-[33] Bázeň Yahweh je výchovou k moudrosti
+[33] Bázeň ⟦yhwh|Jahveho|Hospodina⟧ je výchovou k moudrosti
 a pokora předchází čest.
 
 ## Změny

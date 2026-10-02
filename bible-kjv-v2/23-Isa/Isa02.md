@@ -1,20 +1,20 @@
 # Isaiah 2
 
-[1] The word that Isaiah son of Amoz saw concerning Judah and Jerusalem.
+[1] The word that ⟦isaiah|Yeshayahu|Isaiah⟧ son of ⟦amoz|Amotz|Amoz⟧ saw concerning ⟦judah|Yehudah|Judah⟧ and ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
 [2] It shall come to pass in the latter days
-that the mountain of the house of Yahweh
+that the mountain of the house of ⟦yhwh|Yahweh|the LORD⟧
 shall be established as the highest of the mountains,
 and shall be lifted up above the hills;
 and all the nations shall flow to it,
 
 [3] and many peoples shall come, and say:
-"Come, let us go up to the mountain of Yahweh,
-to the house of the *Elohim* of Jacob,
+"Come, let us go up to the mountain of ⟦yhwh|Yahweh|the LORD⟧,
+to the house of the ⟦elohim|Elohim|God⟧ of ⟦jacob|Yaaqov|Jacob⟧,
 that he may teach us his ways
 and that we may walk in his paths."
-For out of Zion shall go the Law,
-and the word of Yahweh from Jerusalem.
+For out of ⟦zion|Tziyon|Zion⟧ shall go the ⟦torah|Torah|law⟧,
+and the word of ⟦yhwh|Yahweh|the LORD⟧ from ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
 [4] He shall judge between the nations,
 and shall decide disputes for many peoples;
@@ -23,10 +23,10 @@ and their spears into pruning hooks;
 nation shall not lift up sword against nation,
 neither shall they learn war anymore.
 
-[5] O house of Jacob,
-come, let us walk in the light of Yahweh.
+[5] O house of ⟦jacob|Yaaqov|Jacob⟧,
+come, let us walk in the light of ⟦yhwh|Yahweh|the LORD⟧.
 
-[6] For you have rejected your people, the house of Jacob, because they are full of things from the east and of fortune-tellers like the Philistines, and they strike hands with the children of foreigners.
+[6] For you have rejected your people, the house of ⟦jacob|Yaaqov|Jacob⟧, because they are full of things from the east and of fortune-tellers like the ⟦philistines|Pelishtim|Philistines⟧, and they strike hands with the children of foreigners.
 
 [7] Their land is filled with silver and gold, and there is no end to their treasures; their land is filled with horses, and there is no end to their chariots.
 
@@ -36,18 +36,18 @@ come, let us walk in the light of Yahweh.
 
 [10] Enter into the rock
 and hide in the dust
-from before the terror of Yahweh,
+from before the terror of ⟦yhwh|Yahweh|the LORD⟧,
 and from the splendor of his majesty.
 
 [11] The haughty looks of man shall be brought low,
 and the lofty pride of men shall be humbled,
-and Yahweh alone will be exalted in that day.
+and ⟦yhwh|Yahweh|the LORD⟧ alone will be exalted in that day.
 
-[12] For Yahweh of Hosts has a day
+[12] For ⟦yhwh|Yahweh|the LORD⟧ of Hosts has a day
 against all that is proud and lofty,
 against all that is lifted up — and it shall be brought low —
 
-[13] against all the cedars of Lebanon, lofty and lifted up,
+[13] against all the cedars of ⟦lebanon|Levanon|Lebanon⟧, lofty and lifted up,
 and against all the oaks of Bashan;
 
 [14] against all the lofty mountains,
@@ -61,13 +61,13 @@ and against all the beautiful craft.
 
 [17] And the haughtiness of man shall be humbled,
 and the lofty pride of men shall be brought low,
-and Yahweh alone will be exalted in that day.
+and ⟦yhwh|Yahweh|the LORD⟧ alone will be exalted in that day.
 
 [18] And the idols shall utterly pass away.
 
 [19] And people shall enter the caves of the rocks
 and the holes of the ground,
-from before the terror of Yahweh,
+from before the terror of ⟦yhwh|Yahweh|the LORD⟧,
 and from the splendor of his majesty,
 when he rises to terrify the earth.
 
@@ -78,7 +78,7 @@ to the moles and to the bats,
 
 [21] to enter the caverns of the rocks
 and the clefts of the cliffs,
-from before the terror of Yahweh,
+from before the terror of ⟦yhwh|Yahweh|the LORD⟧,
 and from the splendor of his majesty,
 when he rises to terrify the earth.
 

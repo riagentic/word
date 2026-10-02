@@ -1,29 +1,29 @@
 # Jeremjáš 2
 
-[1] Přišlo ke mně slovo Yahweh:
+[1] Přišlo ke mně slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
-[2] „Jdi a volej do uší Jerusalemu: Toto praví Yahweh:
+[2] „Jdi a volej do uší ⟦jerusalem|Jerušalajim|Jeruzaléma⟧: Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
 „Pamatuji na věrnou lásku tvého mládí,
 na tvou lásku nevěsty,
 jak jsi šla za mnou pouští,
 zemí neosetou.
 
-[3] Israel byl svatý pro Yahweh,
+[3] ⟦israel|Jisrael|Izrael⟧ byl svatý pro ⟦yhwh|Jahveho|Hospodina⟧,
 prvotina jeho úrody.
 Všichni, kdo z něho jedli, se provinili;
 přišla na ně pohroma,
-je výrok Yahweh.“
+je výrok ⟦yhwh|Jahveho|Hospodina⟧.“
 
-[4] Slyšte slovo Yahweh, dome Jacobův, a všechny rody domu Israele.
+[4] Slyšte slovo ⟦yhwh|Jahveho|Hospodina⟧, dome ⟦jacob|Jaakovův|Jákobův⟧, a všechny rody domu ⟦israel|Jisraele|Izraele⟧.
 
-[5] Toto praví Yahweh:
+[5] Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
 „Jakou křivdu na mně nalezli vaši otcové,
 že se ode mne vzdálili
 a šli za nicotou a stali se nicotnými?
 
-[6] Neříkali: ‚Kde je Yahweh, který nás vyvedl z egyptské země,
+[6] Neříkali: ‚Kde je ⟦yhwh|Jahve|Hospodin⟧, který nás vyvedl z egyptské země,
 který nás vedl pouští,
 zemí pustin a jam,
 zemí sucha a hluboké temnoty,
@@ -35,17 +35,17 @@ abyste užívali jejích plodů a jejích dobrých věcí.
 Ale když jste vešli, poskvrnili jste mou zemi
 a z mého dědictví jste udělali ohavnost.
 
-[8] Kněží neříkali: ‚Kde je Yahweh?‘
-Ti, kdo zacházejí se Zákonem, mě neznali;
+[8] Kněží neříkali: ‚Kde je ⟦yhwh|Jahve|Hospodin⟧?‘
+Ti, kdo zacházejí ⟦torah|s Tórou|se zákonem⟧, mě neznali;
 pastýři se proti mně vzbouřili;
 proroci prorokovali skrze Baala
 a chodili za věcmi, které neprospívají.
 
-[9] Proto se s vámi budu ještě přít, je výrok Yahweh,
+[9] Proto se s vámi budu ještě přít, je výrok ⟦yhwh|Jahveho|Hospodina⟧,
 i s dětmi vašich dětí se budu přít.
 
-[10] Přeplujte tedy k pobřežím Kittim a pohleďte,
-nebo pošlete do Qedaru a pečlivě zkoumejte;
+[10] Přeplujte tedy k pobřežím ⟦kittim|Kittim|Kitejců⟧ a pohleďte,
+nebo pošlete do ⟦kedar|Kedaru|Kédaru⟧ a pečlivě zkoumejte;
 pohleďte, zda se stalo něco takového.
 
 [11] Vyměnil nějaký národ své bohy,
@@ -54,7 +54,7 @@ Ale můj lid vyměnil svou slávu
 za to, co neprospívá.
 
 [12] Užasněte nad tím, nebesa;
-zhrozte se, zcela zpustněte, je výrok Yahweh,
+zhrozte se, zcela zpustněte, je výrok ⟦yhwh|Jahveho|Hospodina⟧,
 
 [13] neboť můj lid spáchal dvojí zlo:
 opustili mne,
@@ -62,7 +62,7 @@ pramen živých vod,
 a vytesali si cisterny,
 rozpukané cisterny, které neudrží vodu.
 
-[14] Je Israel otrok? Je to otrok zrozený v domě?
+[14] Je ⟦israel|Jisrael|Izrael⟧ otrok? Je to otrok zrozený v domě?
 Proč se tedy stal kořistí?
 
 [15] Mladí lvi proti němu řvali;
@@ -70,24 +70,24 @@ Proč se tedy stal kořistí?
 Obrátili jeho zemi v pustinu;
 jeho města jsou v troskách, bez obyvatel.
 
-[16] Navíc muži z Memphisu a Tahpanhesu
+[16] Navíc muži z ⟦memphis|Nofu|Memfidy⟧ a Tachpanchesu
 ti oholili temeno hlavy.
 
 [17] Nezpůsobila sis to sama,
-když jsi opustila Yahweh, svého *Elohim*,
+když jsi opustila ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧,
 když tě vedl po cestě?
 
-[18] A co nyní získáš tím, že půjdeš do Egypta
-pít vody Nilu?
-Nebo co získáš tím, že půjdeš do Assyrie
-pít vody Euphratu?
+[18] A co nyní získáš tím, že půjdeš do ⟦egypt|Micrajim|Egypta⟧
+pít vody ⟦shihor-nile|Šichoru|Nilu⟧?
+Nebo co získáš tím, že půjdeš do ⟦assyria|Aššuru|Asýrie⟧
+pít vody ⟦euphrates|Peratu|Eufratu⟧?
 
 [19] Tvá zloba tě bude trestat
 a tvé odpadlictví tě bude kárat.
 Poznej a pohleď, jak zlé a hořké je
-pro tebe opustit Yahweh, svého *Elohim*;
+pro tebe opustit ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧;
 bázeň přede mnou v tobě není,
-je výrok Pána Yahweh zástupů.
+je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧ zástupů.
 
 [20] Neboť dávno jsem zlomil tvé jho
 a roztrhal tvá pouta;
@@ -104,10 +104,10 @@ a stala se planou révou?
 [22] I kdyby ses umyla louhem
 a použila mnoho mýdla,
 skvrna tvé viny je stále přede mnou,
-je výrok Pána Yahweh.
+je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.
 
 [23] Jak můžeš říkat: ‚Nejsem poskvrněná,
-nechodila jsem za Baaly‘?
+nechodila jsem za ⟦baal|Baaly|baaly⟧‘?
 Pohleď na svou cestu v údolí;
 poznej, co jsi učinila –
 neklidná mladá velbloudice pobíhající sem a tam,
@@ -125,7 +125,7 @@ neboť jsem si zamilovala cizince
 a za nimi půjdu.‘
 
 [26] Jako je zahanben zloděj, když je přistižen,
-tak bude zahanben dům Israele:
+tak bude zahanben dům ⟦israel|Jisraele|Izraele⟧:
 oni, jejich králové, jejich hodnostáři,
 jejich kněží a jejich proroci,
 
@@ -140,19 +140,19 @@ Ale v čase svého soužení říkají:
 Ať vstanou, mohou-li tě zachránit
 v čase tvého soužení;
 neboť kolik je tvých měst,
-tolik je tvých bohů, Judah.
+tolik je tvých bohů, ⟦judah|Jehudo|Judo⟧.
 
 [29] Proč se se mnou přete?
 Všichni jste se proti mně vzbouřili,
-je výrok Yahweh.
+je výrok ⟦yhwh|Jahveho|Hospodina⟧.
 
 [30] Nadarmo jsem bil vaše děti;
 nepřijaly kázeň;
 váš vlastní meč pohltil vaše proroky
 jako dravý lev.
 
-[31] A vy, pokolení, hleďte na slovo Yahweh.
-Byl jsem pro Israel pouští
+[31] A vy, pokolení, hleďte na slovo ⟦yhwh|Jahveho|Hospodina⟧.
+Byl jsem pro ⟦israel|Jisrael|Izrael⟧ pouští
 nebo zemí husté temnoty?
 Proč tedy můj lid říká: ‚Jsme volní,
 už k tobě nepřijdeme‘?
@@ -179,12 +179,12 @@ protože říkáš: ‚Nezhřešila jsem.‘
 
 [36] Jak moc pobíháš
 a měníš svou cestu!
-Egypt tě zahanbí,
-jako tě zahanbila Assyria.
+⟦egypt|Micrajim|Egypt⟧ tě zahanbí,
+jako tě ⟦assyria|zahanbil Aššur|zahanbila Asýrie⟧.
 
 [37] I odtud odejdeš
 s rukama na hlavě,
-neboť Yahweh zavrhl ty, v něž doufáš,
+neboť ⟦yhwh|Jahve|Hospodin⟧ zavrhl ty, v něž doufáš,
 a s nimi neuspěješ.“
 
 ## Změny

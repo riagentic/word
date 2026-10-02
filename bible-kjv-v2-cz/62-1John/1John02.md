@@ -1,6 +1,6 @@
 # 1. Janův 2
 
-[1] Moje dítky, píšu vám to, abyste nehřešili. Jestliže však někdo zhřeší, máme u Otce přímluvce, *Yeshuu* *Mashiacha*, spravedlivého.
+[1] Moje dítky, píšu vám to, abyste nehřešili. Jestliže však někdo zhřeší, máme u Otce přímluvce, ⟦yeshua|Ješuu|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧, spravedlivého.
 
 [2] On je smírnou obětí za naše hříchy, a nejen za naše, ale i za hříchy celého světa.
 
@@ -8,7 +8,7 @@
 
 [4] Kdo říká: „Znám ho,“ ale jeho přikázání nezachovává, je lhář a pravda v něm není,
 
-[5] kdo však zachovává jeho slovo, v tom je láska *Elohim* opravdu dokonalá. Podle toho můžeme poznat, že jsme v něm:
+[5] kdo však zachovává jeho slovo, v tom je láska ⟦elohim|Elohim|Boží⟧ opravdu dokonalá. Podle toho můžeme poznat, že jsme v něm:
 
 [6] kdo říká, že v něm zůstává, má také žít tak, jak žil on.
 
@@ -35,14 +35,14 @@ Napsal jsem vám, otcové,
 protože znáte toho, který je od počátku.
 Napsal jsem vám, mladí muži,
 protože jste silní
-a slovo *Elohim* ve vás zůstává
+a slovo ⟦elohim|Elohim|Boží⟧ ve vás zůstává
 a přemohli jste toho Zlého.
 
 [15] **Nemilujte svět ani to, co je ve světě.** Miluje-li někdo svět, není v něm láska Otce.
 
 [16] Neboť všechno, co je ve světě – žádost těla, žádost očí a pýcha života –, není z Otce, ale ze světa.
 
-[17] A svět pomíjí i se svými žádostmi, ale kdo činí vůli *Elohim*, zůstává navěky.
+[17] A svět pomíjí i se svými žádostmi, ale kdo činí vůli ⟦elohim|Elohim|Boží⟧, zůstává navěky.
 
 [18] Dítky, je poslední hodina, a jak jste slyšeli, že přichází antikrist, tak nyní povstalo mnoho antikristů. Podle toho víme, že je poslední hodina.
 
@@ -52,7 +52,7 @@ a přemohli jste toho Zlého.
 
 [21] Nepíšu vám proto, že byste neznali pravdu, ale proto, že ji znáte a že žádná lež není z pravdy.
 
-[22] Kdo je lhář, ne-li ten, kdo popírá, že *Yeshua* je *Mashiach*? To je ten antikrist, kdo popírá Otce i Syna.
+[22] Kdo je lhář, ne-li ten, kdo popírá, že ⟦yeshua|Ješua|Ježíš⟧ je ⟦mashiach|Mašiach|Kristus⟧? To je ten antikrist, kdo popírá Otce i Syna.
 
 [23] Nikdo, kdo popírá Syna, nemá ani Otce. Kdo vyznává Syna, má i Otce.
 

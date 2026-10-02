@@ -1,54 +1,54 @@
 # Exodus 7
 
-[1] Yahweh řekl Mosesovi: „Hleď, učinil jsem tě *Elohim* pro Pharaoha a Aaron, tvůj bratr, bude tvým prorokem.
+[1] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Hleď, učinil jsem tě ⟦elohim|Elohim|Bohem⟧ pro ⟦pharaoh|Paroha|faraóna⟧ a ⟦aaron|Aharon|Áron⟧, tvůj bratr, bude tvým prorokem.
 
-[2] Ty budeš mluvit všechno, co ti přikážu, a Aaron, tvůj bratr, bude mluvit k Pharaohovi, aby propustil syny Israele ze své země.
+[2] Ty budeš mluvit všechno, co ti přikážu, a ⟦aaron|Aharon|Áron⟧, tvůj bratr, bude mluvit k ⟦pharaoh|Parohovi|faraónovi⟧, aby propustil syny ⟦israel|Jisraele|Izraele⟧ ze své země.
 
-[3] Já však zatvrdím Pharaohovo srdce a rozmnožím svá znamení a své divy v egyptské zemi.
+[3] Já však zatvrdím ⟦pharaoh|Parohovo|faraónovo⟧ srdce a rozmnožím svá znamení a své divy v egyptské zemi.
 
-[4] Pharaoh vás neuposlechne, abych vložil svou ruku na Egypt a vyvedl své zástupy – svůj lid, syny Israele – z egyptské země skrze veliké soudy.
+[4] ⟦pharaoh|Paro|Farao⟧ vás neuposlechne, abych vložil svou ruku na ⟦egypt|Micrajim|Egypt⟧ a vyvedl své zástupy – svůj lid, syny ⟦israel|Jisraele|Izraele⟧ – z egyptské země skrze veliké soudy.
 
-[5] Egypťané poznají, že já jsem Yahweh, až vztáhnu svou ruku proti Egyptu a vyvedu syny Israele z jejich středu.“
+[5] ⟦egyptians|Micrim|Egypťané⟧ poznají, že já jsem ⟦yhwh|Jahve|Hospodin⟧, až vztáhnu svou ruku proti ⟦egypt|Micrajim|Egyptu⟧ a vyvedu syny ⟦israel|Jisraele|Izraele⟧ z jejich středu.“
 
-[6] Moses a Aaron tak učinili; jak jim Yahweh přikázal, tak učinili.
+[6] ⟦moses|Moše|Mojžíš⟧ a ⟦aaron|Aharon|Áron⟧ tak učinili; jak jim ⟦yhwh|Jahve|Hospodin⟧ přikázal, tak učinili.
 
-[7] Mosesovi bylo 80 let a Aaronovi 83 let, když mluvili k Pharaohovi.
+[7] ⟦moses|Mošovi|Mojžíšovi⟧ bylo 80 let a ⟦aaron|Aharonovi|Áronovi⟧ 83 let, když mluvili k ⟦pharaoh|Parohovi|faraónovi⟧.
 
-[8] Yahweh řekl Mosesovi a Aaronovi:
+[8] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧ a ⟦aaron|Aharonovi|Áronovi⟧:
 
-[9] „Až vám Pharaoh řekne: ‚Prokažte se zázrakem,‘ řekneš Aaronovi: ‚Vezmi svou hůl a hoď ji před Pharaoha; stane se hadem.‘“
+[9] „Až vám ⟦pharaoh|Paro|farao⟧ řekne: ‚Prokažte se zázrakem,‘ řekneš ⟦aaron|Aharonovi|Áronovi⟧: ‚Vezmi svou hůl a hoď ji před ⟦pharaoh|Paroha|faraóna⟧; stane se hadem.‘“
 
-[10] Moses a Aaron tedy vešli k Pharaohovi a učinili, jak Yahweh přikázal; Aaron hodil svou hůl před Pharaoha a před jeho služebníky a stala se hadem.
+[10] ⟦moses|Moše|Mojžíš⟧ a ⟦aaron|Aharon|Áron⟧ tedy vešli k ⟦pharaoh|Parohovi|faraónovi⟧ a učinili, jak ⟦yhwh|Jahve|Hospodin⟧ přikázal; ⟦aaron|Aharon|Áron⟧ hodil svou hůl před ⟦pharaoh|Paroha|faraóna⟧ a před jeho služebníky a stala se hadem.
 
-[11] Tu si i Pharaoh zavolal mudrce a čaroděje; a věštečtí kněží Egypta učinili totéž svými tajnými uměními.
+[11] Tu si i ⟦pharaoh|Paro|farao⟧ zavolal mudrce a čaroděje; a věštečtí kněží ⟦egypt|Micrajim|Egypta⟧ učinili totéž svými tajnými uměními.
 
-[12] Každý hodil svou hůl a staly se z nich hadi; ale Aaronova hůl pohltila jejich hole.
+[12] Každý hodil svou hůl a staly se z nich hadi; ale ⟦aaron|Aharonova|Áronova⟧ hůl pohltila jejich hole.
 
-[13] Pharaohovo srdce však bylo zatvrzeno a neuposlechl je, jak Yahweh řekl.
+[13] ⟦pharaoh|Parohovo|Faraónovo⟧ srdce však bylo zatvrzeno a neuposlechl je, jak ⟦yhwh|Jahve|Hospodin⟧ řekl.
 
-[14] Yahweh řekl Mosesovi: „Pharaohovo srdce je těžké; odmítá lid propustit.
+[14] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „⟦pharaoh|Parohovo|Faraónovo⟧ srdce je těžké; odmítá lid propustit.
 
-[15] Jdi ráno k Pharaohovi, až bude vycházet k vodě. Postav se na břehu Nilu, abys ho potkal, a hůl, která se proměnila v hada, vezmeš do ruky.
+[15] Jdi ráno k ⟦pharaoh|Parohovi|faraónovi⟧, až bude vycházet k vodě. Postav se na břehu ⟦nile|Jeoru|Nilu⟧, abys ho potkal, a hůl, která se proměnila v hada, vezmeš do ruky.
 
-[16] A řekneš mu: ‚Yahweh, *Elohim* Hebrejů, mě k tobě poslal se vzkazem: „Propusť můj lid, aby mi sloužil na poušti“; ale až dosud jsi neposlechl.
+[16] A řekneš mu: ‚⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦hebrews|Ivrim|Hebrejů⟧, mě k tobě poslal se vzkazem: „Propusť můj lid, aby mi sloužil na poušti“; ale až dosud jsi neposlechl.
 
-[17] Toto praví Yahweh: Podle toho poznáš, že já jsem Yahweh. Hle, udeřím holí, kterou mám v ruce, do vod, které jsou v Nilu, a promění se v krev.
+[17] Toto praví ⟦yhwh|Jahve|Hospodin⟧: Podle toho poznáš, že já jsem ⟦yhwh|Jahve|Hospodin⟧. Hle, udeřím holí, kterou mám v ruce, do vod, které jsou v ⟦nile|Jeoru|Nilu⟧, a promění se v krev.
 
-[18] Ryby v Nilu pojdou, Nile bude páchnout a Egypťanům se zošklivé pít vodu z Nilu.‘“
+[18] Ryby v ⟦nile|Jeoru|Nilu⟧ pojdou, ⟦nile|Jeor|Nil⟧ bude páchnout a ⟦egyptians|Micrim|Egypťanům⟧ se zošklivé pít vodu z ⟦nile|Jeoru|Nilu⟧.‘“
 
-[19] Yahweh řekl Mosesovi: „Řekni Aaronovi: ‚Vezmi svou hůl a vztáhni ruku nad vody Egypta – nad jejich kanály, nad jejich Nily, nad jejich rybníky a nad všechny jejich nádrže vody –, ať se stanou krví; a krev bude po celé egyptské zemi, v nádobách dřevěných i v nádobách kamenných.‘“
+[19] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Řekni ⟦aaron|Aharonovi|Áronovi⟧: ‚Vezmi svou hůl a vztáhni ruku nad vody ⟦egypt|Micrajim|Egypta⟧ – nad jejich kanály, nad jejich ⟦nile|Jeory|Nily⟧, nad jejich rybníky a nad všechny jejich nádrže vody –, ať se stanou krví; a krev bude po celé egyptské zemi, v nádobách dřevěných i v nádobách kamenných.‘“
 
-[20] Moses a Aaron tak učinili, jak Yahweh přikázal. Zvedl hůl a udeřil do vod, které byly v Nilu, před očima Pharaoha a před očima jeho služebníků; a všechny vody, které byly v Nilu, se proměnily v krev.
+[20] ⟦moses|Moše|Mojžíš⟧ a ⟦aaron|Aharon|Áron⟧ tak učinili, jak ⟦yhwh|Jahve|Hospodin⟧ přikázal. Zvedl hůl a udeřil do vod, které byly v ⟦nile|Jeoru|Nilu⟧, před očima ⟦pharaoh|Paroha|faraóna⟧ a před očima jeho služebníků; a všechny vody, které byly v ⟦nile|Jeoru|Nilu⟧, se proměnily v krev.
 
-[21] Ryby, které byly v Nilu, pošly, Nile páchl a Egypťané nemohli pít vodu z Nilu; a krev byla po celé egyptské zemi.
+[21] Ryby, které byly v ⟦nile|Jeoru|Nilu⟧, pošly, ⟦nile|Jeor|Nil⟧ páchl a ⟦egyptians|Micrim|Egypťané⟧ nemohli pít vodu z ⟦nile|Jeoru|Nilu⟧; a krev byla po celé egyptské zemi.
 
-[22] Ale věštečtí kněží Egypta učinili totéž svými tajnými uměními; a Pharaohovo srdce bylo zatvrzeno a neuposlechl je, jak Yahweh řekl.
+[22] Ale věštečtí kněží ⟦egypt|Micrajim|Egypta⟧ učinili totéž svými tajnými uměními; a ⟦pharaoh|Parohovo|faraónovo⟧ srdce bylo zatvrzeno a neuposlechl je, jak ⟦yhwh|Jahve|Hospodin⟧ řekl.
 
-[23] Pharaoh se obrátil a odešel do svého domu a nevzal si k srdci ani tohle.
+[23] ⟦pharaoh|Paro|Farao⟧ se obrátil a odešel do svého domu a nevzal si k srdci ani tohle.
 
-[24] Všichni Egypťané kopali kolem Nilu, aby našli vodu k pití, protože nemohli pít vodu z Nilu.
+[24] Všichni ⟦egyptians|Micrim|Egypťané⟧ kopali kolem ⟦nile|Jeoru|Nilu⟧, aby našli vodu k pití, protože nemohli pít vodu z ⟦nile|Jeoru|Nilu⟧.
 
-[25] Uplynulo celých sedm dní poté, co Yahweh udeřil Nile.
+[25] Uplynulo celých sedm dní poté, co ⟦yhwh|Jahve|Hospodin⟧ udeřil ⟦nile|Jeor|Nil⟧.
 
 ## Změny
 

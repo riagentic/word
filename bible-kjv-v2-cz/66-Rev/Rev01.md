@@ -1,16 +1,16 @@
 # Zjevení 1
 
-[1] Zjevení *Yeshuy* *Mashiacha*, které mu dal *Elohim*, aby ukázal svým služebníkům, co se musí brzy stát. Oznámil to tím, že poslal svého anděla ke svému služebníku Johnovi,
+[1] Zjevení ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧, které mu dal ⟦elohim|Elohim|Bůh⟧, aby ukázal svým služebníkům, co se musí brzy stát. Oznámil to tím, že poslal svého anděla ke svému služebníku ⟦john|Jochananovi|Janovi⟧,
 
-[2] který vydal svědectví o slovu *Elohim* a o svědectví *Yeshuy* *Mashiacha*, o všem, co viděl.
+[2] který vydal svědectví o slovu ⟦elohim|Elohim|Božím⟧ a o svědectví ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧, o všem, co viděl.
 
 [3] Blahoslavený ten, kdo nahlas předčítá slova tohoto proroctví, a blahoslavení ti, kdo je slyší a zachovávají, co je v něm napsáno, neboť čas je blízko.
 
-[4] John sedmi církvím, které jsou v Asii: Milost vám a pokoj od toho, **který jest, který byl a který přichází**, a od sedmi duchů, kteří jsou před jeho trůnem,
+[4] ⟦john|Jochanan|Jan⟧ sedmi církvím, které jsou v Asii: Milost vám a pokoj od toho, **který jest, který byl a který přichází**, a od sedmi duchů, kteří jsou před jeho trůnem,
 
-[5] a od *Yeshuy* *Mashiacha*, věrného svědka, prvorozeného z mrtvých a vládce králů země. Tomu, který nás miluje a svou krví nás osvobodil od našich hříchů
+[5] a od ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧, věrného svědka, prvorozeného z mrtvých a vládce králů země. Tomu, který nás miluje a svou krví nás osvobodil od našich hříchů
 
-[6] a učinil nás královstvím, kněžími svému *Elohim* a Otci, jemu buď sláva a moc na věky věků. Amen.
+[6] a učinil nás královstvím, kněžími svému ⟦elohim|Elohim|Bohu⟧ a Otci, jemu buď sláva a moc na věky věků. Amen.
 
 [7] Hle, přichází s oblaky,
 a uzří ho každé oko,
@@ -18,13 +18,13 @@ i ti, kdo ho probodli,
 a budou nad ním naříkat všechny kmeny země.
 Ano, amen.
 
-[8] „**Já jsem Alfa i Omega,**“ praví Pán *Elohim*, „který jest, který byl a který přichází, Všemohoucí.“
+[8] „**Já jsem Alfa i Omega,**“ praví Pán ⟦elohim|Elohim|Bůh⟧, „který jest, který byl a který přichází, Všemohoucí.“
 
-[9] Já, John, váš bratr a spoluúčastník v soužení, v království a v trpělivé vytrvalosti v *Yeshuovi*, jsem byl na ostrově zvaném Patmos kvůli slovu *Elohim* a svědectví *Yeshuy*.
+[9] Já, ⟦john|Jochanan|Jan⟧, váš bratr a spoluúčastník v soužení, v království a v trpělivé vytrvalosti v ⟦yeshua|Ješuovi|Ježíši⟧, jsem byl na ostrově zvaném Patmos kvůli slovu ⟦elohim|Elohim|Božímu⟧ a svědectví ⟦yeshua|Ješuy|Ježíše⟧.
 
 [10] V den Páně jsem byl v Duchu a uslyšel jsem za sebou mocný hlas jako zvuk polnice,
 
-[11] který říkal: „Co vidíš, napiš do knihy a pošli sedmi církvím: do Ephesu, do Smyrny, do Pergama, do Thyatiry, do Sardis, do Philadelphie a do Laodiceje.“
+[11] který říkal: „Co vidíš, napiš do knihy a pošli sedmi církvím: do ⟦ephesus|Efesu|Efezu⟧, do Smyrny, do Pergama, do ⟦thyatira|Thyateiry|Thyatir⟧, do ⟦sardis|Sardeis|Sard⟧, do ⟦philadelphia|Filadelfeje|Filadelfie⟧ a do Laodikeje.“
 
 [12] Obrátil jsem se, abych viděl, čí hlas ke mně mluví, a když jsem se obrátil, uviděl jsem sedm zlatých svícnů
 
@@ -38,7 +38,7 @@ Ano, amen.
 
 [17] Když jsem ho uviděl, padl jsem k jeho nohám jako mrtvý. On však na mě položil svou pravici a řekl: „**Neboj se, já jsem první i poslední**
 
-**[18] a ten živý. Byl jsem mrtev, a hle, jsem živ na věky věků a mám klíče od Smrti a od Hades.**
+**[18] a ten živý. Byl jsem mrtev, a hle, jsem živ na věky věků a mám klíče od Smrti a od ⟦hades|Hádes|podsvětí⟧.**
 
 [19] Napiš tedy, co jsi viděl, co jest i co se má stát potom.
 

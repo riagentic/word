@@ -1,6 +1,6 @@
 # Job 15
 
-[1] Then Eliphaz the Temanite answered and said:
+[1] Then ⟦eliphaz|Elifaz|Eliphaz⟧ the ⟦temanite|Temani|Temanite⟧ answered and said:
 
 [2] "Should a wise man answer with airy knowledge,
 and fill his belly with the east wind?
@@ -8,7 +8,7 @@ and fill his belly with the east wind?
 [3] Should he argue in unprofitable talk,
 with speeches by which he can do no good?
 
-[4] But you do away with the fear of *Elohim*
+[4] But you do away with the fear of ⟦el|El|God⟧
 and diminish meditation before him.
 
 [5] Your iniquity teaches your mouth,
@@ -20,7 +20,7 @@ your own lips testify against you.
 [7] Were you the first human born?
 Were you brought forth before the hills?
 
-[8] Have you listened in the secret council of Eloah?
+[8] Have you listened in the secret council of ⟦eloah|Eloah|God⟧?
 Do you hoard wisdom to yourself?
 
 [9] What do you know that we do not know?
@@ -29,13 +29,13 @@ What do you understand that is not also ours?
 [10] Both the gray-haired and the aged are with us,
 older than your father.
 
-[11] Are the consolations of *Elohim* too small for you,
+[11] Are the consolations of ⟦el|El|God⟧ too small for you,
 the word that deals gently with you?
 
 [12] Why does your heart carry you away?
 Why do your eyes flash —
 
-[13] that you turn your spirit against *Elohim*
+[13] that you turn your spirit against ⟦el|El|God⟧
 and let such words go out of your mouth?
 
 [14] What is man, that he should be clean,
@@ -71,8 +71,8 @@ He knows the day of darkness is at hand.
 [24] Distress and anguish terrify him;
 they overpower him, like a king ready for battle.
 
-[25] For he stretched out his hand against *Elohim*
-and bid defiance to Shaddai,
+[25] For he stretched out his hand against ⟦el|El|God⟧
+and bid defiance to ⟦shaddai|Shaddai|the Almighty⟧,
 
 [26] running stubbornly against him
 with thick-bossed shield.
@@ -109,6 +109,7 @@ their belly prepares deceit."
 ## Changes
 
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
+- **"God" → "El"** (v4, 11, 13, 25) — Hebrew אֵל *El*, not *Elohim*.
 - **"vain knowledge" → "airy knowledge"** (v2) — *da'at ruach*.
 - **"hypocrites" → "godless"** (v34) — *chanef*.
 - **"restrain prayer" → "diminish meditation"** (v4) — *gara sichah*.

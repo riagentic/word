@@ -4,7 +4,7 @@
 I will give free course to my complaint;
 I will speak in the bitterness of my soul.
 
-[2] I will say to Eloah: Do not condemn me;
+[2] I will say to ⟦eloah|Eloah|God⟧: Do not condemn me;
 let me know why you contend with me.
 
 [3] Is it good to you to oppress,

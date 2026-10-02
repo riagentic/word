@@ -1,14 +1,14 @@
 # Luke 14
 
-[1] One Sabbath, when he went to dine at the house of a ruler of the Pharisees, they were watching him carefully.
+[1] One ⟦shabbat|Shabbat|Sabbath⟧, when he went to dine at the house of a ruler of the ⟦pharisees|Perushim|Pharisees⟧, they were watching him carefully.
 
 [2] And behold, there was a man before him who had dropsy.
 
-[3] And *Yeshua* responded to the lawyers and Pharisees, saying, "Is it lawful to heal on the Sabbath, or not?"
+[3] And ⟦yeshua|Yeshua|Jesus⟧ responded to the lawyers and ⟦pharisees|Perushim|Pharisees⟧, saying, "Is it lawful to heal on the ⟦shabbat|Shabbat|Sabbath⟧, or not?"
 
 [4] But they remained silent. Then he took him and healed him and sent him away.
 
-[5] And he said to them, "Which of you, having a son or an ox that has fallen into a well on a Sabbath day, will not immediately pull him out?"
+[5] And he said to them, "Which of you, having a son or an ox that has fallen into a well on a ⟦shabbat|Shabbat|Sabbath⟧ day, will not immediately pull him out?"
 
 [6] And they could not reply to these things.
 
@@ -28,7 +28,7 @@
 
 [14] and you will be blessed, because they cannot repay you. For you will be repaid at the resurrection of the just."
 
-[15] When one of those who reclined at table with him heard these things, he said to him, "Blessed is everyone who will eat bread in the kingdom of *Elohim*!"
+[15] When one of those who reclined at table with him heard these things, he said to him, "Blessed is everyone who will eat bread in the kingdom of ⟦elohim|Elohim|God⟧!"
 
 [16] But he said to him, "A man once gave a great banquet and invited many.
 

@@ -1,6 +1,6 @@
 # Amos 9
 
-[1] I saw the Lord standing beside the altar, and he said:
+[1] I saw ⟦adonai|Adonai|the Lord⟧ standing beside the altar, and he said:
 
 "Strike the capitals until the thresholds shake,
 and shatter them on the heads of all the people;
@@ -13,7 +13,7 @@ from there shall my hand take them;
 if they climb up to heaven,
 from there I will bring them down.
 
-[3] If they hide themselves on the top of Carmel,
+[3] If they hide themselves on the top of ⟦carmel|Karmel|Carmel⟧,
 from there I will search them out and take them;
 and if they hide from my sight at the bottom of the sea,
 there I will command the serpent, and it shall bite them.
@@ -23,30 +23,30 @@ there I will command the sword, and it shall kill them;
 and I will fix my eyes upon them
 for evil and not for good."
 
-[5] Lord Yahweh of Hosts,
+[5] ⟦adonai-yhwh|Lord Yahweh|The Lord GOD⟧ of Hosts,
 he who touches the earth and it melts,
 and all who dwell in it mourn,
-and all of it rises like the Nile,
-and sinks again, like the Nile of Egypt;
+and all of it rises like the ⟦nile|Yeor|Nile⟧,
+and sinks again, like the ⟦nile|Yeor|Nile⟧ of ⟦egypt|Mitzrayim|Egypt⟧;
 
 [6] who builds his upper chambers in the heavens
 and founds his vault upon the earth;
 who calls for the waters of the sea
 and pours them out upon the surface of the earth —
-Yahweh is his name.
+⟦yhwh|Yahweh|the LORD⟧ is his name.
 
-[7] "Are you not like the Kushim to me,
-O people of Israel?" declares Yahweh.
-"Did I not bring up Israel from the land of Egypt,
-and the Philistines from Caphtor and the Syrians from Kir?
+[7] "Are you not like the ⟦cushites|Kushim|Cushites⟧ to me,
+O people of ⟦israel|Yisrael|Israel⟧?" declares ⟦yhwh|Yahweh|the LORD⟧.
+"Did I not bring up ⟦israel|Yisrael|Israel⟧ from the land of ⟦egypt|Mitzrayim|Egypt⟧,
+and the ⟦philistines|Pelishtim|Philistines⟧ from ⟦caphtor|Kaftor|Caphtor⟧ and ⟦aram|Aram|the Syrians⟧ from ⟦kir|Qir|Kir⟧?
 
-[8] Behold, the eyes of the Lord Yahweh are upon the sinful kingdom,
+[8] Behold, the eyes of ⟦adonai-yhwh|the Lord Yahweh|the Lord GOD⟧ are upon the sinful kingdom,
 and I will destroy it from the surface of the ground,
-except that I will not utterly destroy the house of Jacob,"
-declares Yahweh.
+except that I will not utterly destroy the house of ⟦jacob|Yaaqov|Jacob⟧,"
+declares ⟦yhwh|Yahweh|the LORD⟧.
 
 [9] "For behold, I will command,
-and shake the house of Israel among all the nations
+and shake the house of ⟦israel|Yisrael|Israel⟧ among all the nations
 as one shakes with a sieve,
 but no pebble shall fall to the earth.
 
@@ -60,15 +60,15 @@ and rebuild it as in the days of old,
 
 [12] that they may possess the remnant of Edom
 and all the nations who are called by my name,"
-declares Yahweh who does this.
+declares ⟦yhwh|Yahweh|the LORD⟧ who does this.
 
-[13] "Behold, the days are coming," declares Yahweh,
+[13] "Behold, the days are coming," declares ⟦yhwh|Yahweh|the LORD⟧,
 "when the plowman shall overtake the reaper
 and the treader of grapes him who sows the seed;
 the mountains shall drip sweet wine,
 and all the hills shall flow with it.
 
-[14] I will restore the fortunes of my people Israel,
+[14] I will restore the fortunes of my people ⟦israel|Yisrael|Israel⟧,
 and they shall rebuild the ruined cities and inhabit them;
 they shall plant vineyards and drink their wine,
 and they shall make gardens and eat their fruit.
@@ -76,7 +76,7 @@ and they shall make gardens and eat their fruit.
 [15] I will plant them on their land,
 and they shall never again be uprooted
 out of the land that I have given them,"
-says Yahweh your *Elohim*.
+says ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
 ## Changes
 

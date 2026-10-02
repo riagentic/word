@@ -1,8 +1,8 @@
 # Leviticus 6
 
-[1] Yahweh promluvil k Mosesovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[2] „Když někdo zhřeší a dopustí se zpronevěry proti Yahweh tím, že oklame svého bližního ohledně svěřeného majetku nebo zástavy, nebo loupeží, nebo vydíráním svého bližního,
+[2] „Když někdo zhřeší a dopustí se zpronevěry proti ⟦yhwh|Jahvovi|Hospodinu⟧ tím, že oklame svého bližního ohledně svěřeného majetku nebo zástavy, nebo loupeží, nebo vydíráním svého bližního,
 
 [3] nebo tím, že najde něco ztraceného a zapře to a křivě přísahá – v kterékoli ze všech těchto věcí, jimiž člověk může zhřešit –
 
@@ -10,13 +10,13 @@
 
 [5] nebo cokoli, o čem křivě přísahal. Nahradí to v plné výši, přidá k tomu pětinu a dá to jeho vlastníkovi v den své oběti za vinu.
 
-[6] A přivede knězi jako svou oběť za vinu pro Yahweh berana bez vady z bravu podle tvého ocenění jako oběť za vinu.
+[6] A přivede knězi jako svou oběť za vinu pro ⟦yhwh|Jahveho|Hospodina⟧ berana bez vady z bravu podle tvého ocenění jako oběť za vinu.
 
-[7] Kněz za něj vykoná smíření před Yahweh a bude mu odpuštěno cokoli z toho, čím se provinil.“
+[7] Kněz za něj vykoná smíření před ⟦yhwh|Jahvem|Hospodinem⟧ a bude mu odpuštěno cokoli z toho, čím se provinil.“
 
-[8] Yahweh promluvil k Mosesovi:
+[8] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[9] „Přikaž Aaronovi a jeho synům: ‚Toto je zákon o zápalné oběti. Zápalná oběť zůstane na ohništi na oltáři celou noc až do rána a oheň oltáře na něm bude udržován v hoření.
+[9] „Přikaž ⟦aaron|Aharonovi|Áronovi⟧ a jeho synům: ‚Toto je zákon o zápalné oběti. Zápalná oběť zůstane na ohništi na oltáři celou noc až do rána a oheň oltáře na něm bude udržován v hoření.
 
 [10] Kněz si obleče své lněné roucho a na tělo si obleče lněné spodky a vybere popel, na který oheň strávil zápalnou oběť na oltáři, a položí ho vedle oltáře.
 
@@ -26,29 +26,29 @@
 
 [13] Na oltáři bude udržován v hoření ustavičný oheň; nevyhasne.
 
-[14] Toto je zákon o obilné oběti: Aaronovi synové ji budou přinášet před Yahweh před oltář.
+[14] Toto je zákon o obilné oběti: ⟦aaron|Aharonovi|Áronovi⟧ synové ji budou přinášet před ⟦yhwh|Jahveho|Hospodina⟧ před oltář.
 
-[15] Vezme se z ní hrst jemné mouky obilné oběti a jejího oleje a všechno kadidlo, které je na obilné oběti; a obrátí to v dým na oltáři – její připomínkovou část – jako libou vůni pro Yahweh.
+[15] Vezme se z ní hrst jemné mouky obilné oběti a jejího oleje a všechno kadidlo, které je na obilné oběti; a obrátí to v dým na oltáři – její připomínkovou část – jako libou vůni pro ⟦yhwh|Jahveho|Hospodina⟧.
 
-[16] Co z ní zbude, budou jíst Aaron a jeho synové; bude se jíst jako nekvašené chleby na svatém místě. Budou ji jíst na nádvoří stanu setkávání.
+[16] Co z ní zbude, budou jíst ⟦aaron|Aharon|Áron⟧ a jeho synové; bude se jíst jako nekvašené chleby na svatém místě. Budou ji jíst na nádvoří stanu setkávání.
 
 [17] Nebude pečena s kvasem. Dal jsem ji jako jejich podíl ze svých ohnivých obětí; je nejsvětější, jako oběť za hřích a oběť za vinu.
 
-[18] Každý muž z Aaronových potomků z ní smí jíst. Je to věčné ustanovení po všechna vaše pokolení z ohnivých obětí pro Yahweh. Cokoli se jich dotkne, stane se svatým.‘“
+[18] Každý muž z ⟦aaron|Aharonových|Áronových⟧ potomků z ní smí jíst. Je to věčné ustanovení po všechna vaše pokolení z ohnivých obětí pro ⟦yhwh|Jahveho|Hospodina⟧. Cokoli se jich dotkne, stane se svatým.‘“
 
-[19] Yahweh promluvil k Mosesovi:
+[19] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[20] „Toto je obětní dar Aarona a jeho synů, který budou přinášet Yahweh v den, kdy bude pomazán: desetina éfy jemné mouky jako pravidelná obilná oběť, polovina ráno a polovina večer.
+[20] „Toto je obětní dar ⟦aaron|Aharona|Árona⟧ a jeho synů, který budou přinášet ⟦yhwh|Jahvovi|Hospodinu⟧ v den, kdy bude pomazán: desetina éfy jemné mouky jako pravidelná obilná oběť, polovina ráno a polovina večer.
 
-[21] Bude připravena s olejem na plotně; přineseš ji dobře prosycenou. Obilnou oběť upečenou na kousky přineseš jako libou vůni pro Yahweh.
+[21] Bude připravena s olejem na plotně; přineseš ji dobře prosycenou. Obilnou oběť upečenou na kousky přineseš jako libou vůni pro ⟦yhwh|Jahveho|Hospodina⟧.
 
-[22] Bude ji přinášet kněz, který bude z jeho synů pomazán jako jeho nástupce. Je to věčné ustanovení pro Yahweh; bude zcela spálena.
+[22] Bude ji přinášet kněz, který bude z jeho synů pomazán jako jeho nástupce. Je to věčné ustanovení pro ⟦yhwh|Jahveho|Hospodina⟧; bude zcela spálena.
 
 [23] Každá obilná oběť kněze bude zcela spálena; nebude se jíst.“
 
-[24] Yahweh promluvil k Mosesovi:
+[24] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[25] „Mluv k Aaronovi a k jeho synům: ‚Toto je zákon o oběti za hřích. Na místě, kde se poráží zápalná oběť, bude poražena oběť za hřích před Yahweh; je nejsvětější.
+[25] „Mluv k ⟦aaron|Aharonovi|Áronovi⟧ a k jeho synům: ‚Toto je zákon o oběti za hřích. Na místě, kde se poráží zápalná oběť, bude poražena oběť za hřích před ⟦yhwh|Jahvem|Hospodinem⟧; je nejsvětější.
 
 [26] Kněz, který ji obětuje za hřích, ji bude jíst; bude se jíst na svatém místě, na nádvoří stanu setkávání.
 

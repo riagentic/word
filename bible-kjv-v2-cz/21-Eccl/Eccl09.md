@@ -1,6 +1,6 @@
 # Kazatel 9
 
-[1] Neboť to všechno jsem si vzal k srdci a všechno to zkoumal: že spravedliví a moudří i jejich skutky jsou v ruce *Elohim*. Zda láska, či nenávist, člověk neví; obojí je před ním.
+[1] Neboť to všechno jsem si vzal k srdci a všechno to zkoumal: že spravedliví a moudří i jejich skutky jsou v ruce ⟦elohim|Elohim|Boží⟧. Zda láska, či nenávist, člověk neví; obojí je před ním.
 
 [2] Pro všechny je to stejné, protože tentýž úděl potkává spravedlivého i ničemného, dobrého i zlého, čistého i nečistého, toho, kdo obětuje, i toho, kdo neobětuje. Jak je na tom dobrý, tak i hříšník, a ten, kdo přísahá, jako ten, kdo se přísahy bojí.
 
@@ -12,13 +12,13 @@
 
 [6] Jejich láska i jejich nenávist i jejich závist už zanikly a navěky už nemají podíl na ničem, co se děje pod sluncem.
 
-[7] Jdi, jez svůj chléb s radostí a pij své víno s veselým srdcem, neboť *Elohim* už schválil, co děláš.
+[7] Jdi, jez svůj chléb s radostí a pij své víno s veselým srdcem, neboť ⟦elohim|Elohim|Bůh⟧ už schválil, co děláš.
 
 [8] Ať jsou tvé šaty vždy bílé. Ať na tvé hlavě nechybí olej.
 
 [9] Užívej života se ženou, kterou miluješ, po všechny dny svého marného života, které ti dal pod sluncem, neboť to je tvůj podíl v životě a ve tvé námaze, kterou se lopotíš pod sluncem.
 
-[10] Cokoli tvá ruka najde k vykonání, vykonej ze všech sil, neboť v Sheol, kam jdeš, není ani dílo, ani úvaha, ani poznání, ani moudrost.
+[10] Cokoli tvá ruka najde k vykonání, vykonej ze všech sil, neboť v ⟦sheol|Šeolu|podsvětí⟧, kam jdeš, není ani dílo, ani úvaha, ani poznání, ani moudrost.
 
 [11] Znovu jsem viděl pod sluncem, že závod nepatří rychlým
 ani boj silným

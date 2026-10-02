@@ -40,17 +40,17 @@
 
 [20] All the pegs of the dwelling and of the court round about were of bronze.
 
-[21] This is the inventory of the dwelling of the Testimony — as they were counted at the command of Moses, for the service of the Levites, by the hand of Ithamar son of Aaron the priest.
+[21] This is the inventory of the dwelling of the Testimony — as they were counted at the command of ⟦moses|Moshe|Moses⟧, for the service of the ⟦levites|Leviyim|Levites⟧, by the hand of ⟦ithamar|Itamar|Ithamar⟧ son of ⟦aaron|Aharon|Aaron⟧ the priest.
 
-[22] Betzalel son of Uri son of Hur, of the tribe of Judah, made all that Yahweh commanded Moses;
+[22] ⟦bezalel|Betzalel|Bezalel⟧ son of Uri son of ⟦hur|Chur|Hur⟧, of the tribe of ⟦judah|Yehudah|Judah⟧, made all that ⟦yhwh|Yahweh|the LORD⟧ commanded ⟦moses|Moshe|Moses⟧;
 
-[23] and with him was Oholiab son of Ahisamach, of the tribe of Dan, a craftsman and designer, and an embroiderer in blue, purple, and scarlet yarns and fine linen.
+[23] and with him was ⟦oholiab|Oholiav|Oholiab⟧ son of ⟦ahisamach|Achisamach|Ahisamach⟧, of the tribe of Dan, a craftsman and designer, and an embroiderer in blue, purple, and scarlet yarns and fine linen.
 
 [24] All the gold that was used for the work, in all the work of the Holy Place — the gold of the elevation offering — was 29 talents and 730 shekels, according to the shekel of the sanctuary.
 
 [25] The silver from those of the congregation who were numbered was 100 talents and 1,775 shekels, according to the shekel of the sanctuary:
 
-[26] a bekah per head (that is, half a shekel, according to the shekel of the sanctuary), for every one who passed over to the numbered, from twenty years old and upward — for 603,550 men.
+[26] ⟦beka|a beqa|a beka⟧ per head (that is, half a shekel, according to the shekel of the sanctuary), for every one who passed over to the numbered, from twenty years old and upward — for 603,550 men.
 
 [27] The 100 talents of silver were used for casting the sockets of the sanctuary and the sockets of the veil — 100 sockets for the 100 talents, a talent for a socket.
 

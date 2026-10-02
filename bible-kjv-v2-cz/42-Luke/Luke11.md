@@ -1,6 +1,6 @@
 # Lukáš 11
 
-[1] *Yeshua* se na jednom místě modlil, a když skončil, řekl mu jeden z jeho učedníků: „Pane, nauč nás modlit se, jako John naučil své učedníky.“
+[1] ⟦yeshua|Ješua|Ježíš⟧ se na jednom místě modlil, a když skončil, řekl mu jeden z jeho učedníků: „Pane, nauč nás modlit se, jako ⟦john|Jochanan|Jan⟧ naučil své učedníky.“
 
 [2] Řekl jim: „Když se modlíte, říkejte:
 
@@ -27,21 +27,21 @@ A neuveď nás do pokušení.**“
 
 [12] nebo když prosí o vejce, dá mu štíra?
 
-[13] Jestliže tedy vy, ač jste zlí, umíte svým dětem dávat dobré dary, čím spíše nebeský Otec dá *Ruach HaQodesh* těm, kdo ho prosí!“
+[13] Jestliže tedy vy, ač jste zlí, umíte svým dětem dávat dobré dary, čím spíše nebeský Otec dá ⟦ruach-haqodesh|Ruach HaKodeš|Ducha svatého⟧ těm, kdo ho prosí!“
 
 [14] Jednou vyháněl démona, který byl němý. Když démon vyšel, němý promluvil a zástupy se divily.
 
-[15] Někteří z nich však řekli: „Vyhání démony skrze Beelzebula, knížete démonů,“
+[15] Někteří z nich však řekli: „Vyhání démony skrze ⟦beelzebul|Beelzebula|Belzebula⟧, knížete démonů,“
 
 [16] a jiní, aby ho zkoušeli, od něho žádali znamení z nebe.
 
 [17] On však znal jejich myšlenky a řekl jim: „Každé království rozdělené samo proti sobě pustne a rozdělená domácnost padá.
 
-[18] Je-li i Satan rozdělen sám proti sobě, jak obstojí jeho království? Říkáte totiž, že vyháním démony skrze Beelzebula.
+[18] Je-li i Satan rozdělen sám proti sobě, jak obstojí jeho království? Říkáte totiž, že vyháním démony skrze ⟦beelzebul|Beelzebula|Belzebula⟧.
 
-[19] Jestliže já vyháním démony skrze Beelzebula, skrze koho je vyhánějí vaši synové? Proto oni budou vašimi soudci.
+[19] Jestliže já vyháním démony skrze ⟦beelzebul|Beelzebula|Belzebula⟧, skrze koho je vyhánějí vaši synové? Proto oni budou vašimi soudci.
 
-[20] Jestliže však prstem *Elohim* vyháním démony, pak k vám přišlo království *Elohim*.
+[20] Jestliže však prstem ⟦elohim|Elohim|Božím⟧ vyháním démony, pak k vám přišlo království ⟦elohim|Elohim|Boží⟧.
 
 [21] Když silák v plné zbroji střeží svůj palác, jeho majetek je v bezpečí;
 
@@ -57,15 +57,15 @@ A neuveď nás do pokušení.**“
 
 [27] Když to říkal, pozvedla jedna žena v zástupu hlas a řekla mu: „Blahoslavené lůno, které tě nosilo, a prsy, které jsi sál!“
 
-[28] On však řekl: „**Spíše blahoslavení ti, kdo slyší slovo *Elohim* a zachovávají je!**“
+[28] On však řekl: „**Spíše blahoslavení ti, kdo slyší slovo ⟦elohim|Elohim|Boží⟧ a zachovávají je!**“
 
-[29] Když se zástupy množily, začal říkat: „Toto pokolení je zlé pokolení. Hledá znamení, ale žádné znamení mu nebude dáno kromě znamení Jonahova.
+[29] Když se zástupy množily, začal říkat: „Toto pokolení je zlé pokolení. Hledá znamení, ale žádné znamení mu nebude dáno kromě znamení ⟦jonah|Jonova|Jonášova⟧.
 
-[30] Neboť jako se Jonah stal znamením pro obyvatele Ninevehu, tak jím bude i Syn člověka pro toto pokolení.
+[30] Neboť jako se ⟦jonah|Jona|Jonáš⟧ stal znamením pro obyvatele ⟦nineveh|Ninve|Ninive⟧, tak jím bude i Syn člověka pro toto pokolení.
 
-[31] Královna Jihu povstane na soudu s muži tohoto pokolení a odsoudí je, neboť přišla z končin země, aby slyšela Solomonovu moudrost, a hle, zde je něco většího než Solomon.
+[31] Královna Jihu povstane na soudu s muži tohoto pokolení a odsoudí je, neboť přišla z končin země, aby slyšela ⟦solomon|Šlomovu|Šalomounovu⟧ moudrost, a hle, zde je něco většího než ⟦solomon|Šlomo|Šalomoun⟧.
 
-[32] Muži z Ninevehu povstanou na soudu s tímto pokolením a odsoudí je, neboť činili pokání na Jonahovo kázání, a hle, zde je něco většího než Jonah.
+[32] Muži z ⟦nineveh|Ninve|Ninive⟧ povstanou na soudu s tímto pokolením a odsoudí je, neboť činili pokání na ⟦jonah|Jonovo|Jonášovo⟧ kázání, a hle, zde je něco většího než ⟦jonah|Jona|Jonáš⟧.
 
 [33] „Nikdo nerozsvítí lampu, aby ji dal do sklepa nebo pod koš, ale postaví ji na podstavec, aby ti, kdo vcházejí, viděli světlo.
 
@@ -75,19 +75,19 @@ A neuveď nás do pokušení.**“
 
 [36] Je-li tedy celé tvé tělo plné světla a nemá žádnou temnou část, bude celé zářit, jako když ti lampa svítí svými paprsky.“
 
-[37] Zatímco *Yeshua* mluvil, pozval ho jeden farizeus k obědu; vešel tedy a usadil se ke stolu.
+[37] Zatímco ⟦yeshua|Ješua|Ježíš⟧ mluvil, pozval ho jeden ⟦pharisee|paruš|farizeus⟧ k obědu; vešel tedy a usadil se ke stolu.
 
-[38] Farizeus se podivil, když viděl, že se před jídlem nejprve neumyl.
+[38] ⟦pharisee|Paruš|Farizeus⟧ se podivil, když viděl, že se před jídlem nejprve neumyl.
 
-[39] Pán mu však řekl: „Vy farizeové čistíte vnějšek číše a mísy, ale vaše nitro je plné chamtivosti a zloby.
+[39] Pán mu však řekl: „Vy ⟦pharisees|perušim|farizeové⟧ čistíte vnějšek číše a mísy, ale vaše nitro je plné chamtivosti a zloby.
 
 [40] Blázni! Což ten, kdo učinil vnějšek, neučinil i vnitřek?
 
 [41] Dejte však jako almužnu to, co je uvnitř, a hle, všechno je vám čisté.
 
-[42] „Ale běda vám, farizeové! Dáváte desátky z máty, routy a každé byliny, a opomíjíte spravedlnost a lásku k *Elohim*. Toto jste měli činit a ono neopomíjet.
+[42] „Ale běda vám, ⟦pharisees|perušim|farizeové⟧! Dáváte desátky z máty, routy a každé byliny, a opomíjíte spravedlnost a lásku k ⟦elohim|Elohim|Bohu⟧. Toto jste měli činit a ono neopomíjet.
 
-[43] Běda vám, farizeové! Milujete přední místa v synagogách a pozdravy na tržištích.
+[43] Běda vám, ⟦pharisees|perušim|farizeové⟧! Milujete přední místa v synagogách a pozdravy na tržištích.
 
 [44] Běda vám! Jste jako neoznačené hroby, po nichž lidé chodí, aniž o tom vědí.“
 
@@ -99,15 +99,15 @@ A neuveď nás do pokušení.**“
 
 [48] Tak jste svědky a souhlasíte se skutky svých otců, neboť oni je zabili a vy jim stavíte hroby.
 
-[49] Proto také řekla Moudrost *Elohim*: ‚Pošlu k nim proroky a apoštoly a některé z nich zabijí a budou pronásledovat,‘
+[49] Proto také řekla Moudrost ⟦elohim|Elohim|Boží⟧: ‚Pošlu k nim proroky a apoštoly a některé z nich zabijí a budou pronásledovat,‘
 
 [50] aby tomuto pokolení byla připsána krev všech proroků prolitá od založení světa,
 
-[51] od krve Abelovy až po krev Zechariahovu, který zahynul mezi oltářem a svatyní. Ano, pravím vám, bude vyžádána od tohoto pokolení.
+[51] od krve ⟦abel|Hevelovy|Ábelovy⟧ až po krev ⟦zechariah-nt|Zecharjovu|Zachariášovu⟧, který zahynul mezi oltářem a svatyní. Ano, pravím vám, bude vyžádána od tohoto pokolení.
 
 [52] Běda vám, znalci zákona! Vzali jste klíč poznání. Sami jste nevešli a těm, kdo chtěli vejít, jste zabránili.“
 
-[53] Když odtud odcházel, začali na něj zákoníci a farizeové zle doléhat a vyzývat ho, aby mluvil o mnoha věcech,
+[53] Když odtud odcházel, začali na něj zákoníci a ⟦pharisees|perušim|farizeové⟧ zle doléhat a vyzývat ho, aby mluvil o mnoha věcech,
 
 [54] a číhali na něj, aby ho chytili v nějakém jeho slově.
 

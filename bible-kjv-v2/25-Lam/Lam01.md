@@ -14,14 +14,14 @@ she has none to comfort her;
 all her friends have dealt treacherously with her;
 they have become her enemies.
 
-[3] **ג** Judah has gone into exile because of affliction
+[3] **ג** ⟦judah|Yehudah|Judah⟧ has gone into exile because of affliction
 and hard servitude;
 she dwells now among the nations,
 but finds no resting place;
 her pursuers have all overtaken her
 in the midst of her distress.
 
-[4] **ד** The roads to Zion mourn,
+[4] **ד** The roads to ⟦zion|Tziyon|Zion⟧ mourn,
 for none come to the appointed feasts;
 all her gates are desolate;
 her priests groan;
@@ -30,19 +30,19 @@ and she herself suffers bitterly.
 
 [5] **ה** Her foes have become the head;
 her enemies prosper,
-because Yahweh has afflicted her
+because ⟦yhwh|Yahweh|the LORD⟧ has afflicted her
 for the multitude of her transgressions;
 her children have gone away,
 captives before the foe.
 
-[6] **ו** From the daughter of Zion
+[6] **ו** From the daughter of ⟦zion|Tziyon|Zion⟧
 all her majesty has departed.
 Her princes have become like deer
 that find no pasture;
 they fled without strength
 before the pursuer.
 
-[7] **ז** Jerusalem remembers
+[7] **ז** ⟦jerusalem|Yerushalayim|Jerusalem⟧ remembers
 in the days of her affliction and wandering
 all the precious things
 that were hers from days of old.
@@ -51,7 +51,7 @@ and there was none to help her,
 her foes gloated over her;
 they mocked at her downfall.
 
-[8] **ח** Jerusalem sinned grievously;
+[8] **ח** ⟦jerusalem|Yerushalayim|Jerusalem⟧ sinned grievously;
 therefore she became filthy;
 all who honored her despise her,
 for they have seen her nakedness;
@@ -62,7 +62,7 @@ and turns her face away.
 she took no thought of her future;
 therefore her fall is terrible;
 she has no comforter.
-"O Yahweh, behold my affliction,
+"O ⟦yhwh|Yahweh|LORD⟧, behold my affliction,
 for the enemy has triumphed!"
 
 [10] **י** The enemy has stretched out his hands
@@ -76,14 +76,14 @@ to enter your assembly.
 as they search for bread;
 they trade their treasures for food
 to revive their soul.
-"Look, O Yahweh, and see,
+"Look, O ⟦yhwh|Yahweh|LORD⟧, and see,
 for I am despised."
 
 [12] **ל** Is it nothing to you, all you who pass by?
 Look and see
 if there is any sorrow like my sorrow,
 which was brought upon me,
-which Yahweh inflicted
+which ⟦yhwh|Yahweh|the LORD⟧ inflicted
 on the day of his fierce anger.
 
 [13] **מ** From on high he sent fire;
@@ -97,15 +97,15 @@ faint all the day long.
 by his hand they were fastened together;
 they were set upon my neck;
 he caused my strength to fail;
-Lord gave me into the hands
+⟦adonai|Adonai|the Lord⟧ gave me into the hands
 of those whom I cannot withstand.
 
-[15] **ס** Lord rejected
+[15] **ס** ⟦adonai|Adonai|The Lord⟧ rejected
 all my mighty men in my midst;
 he summoned an assembly against me
 to crush my young men;
-Lord has trodden as in a winepress
-the virgin daughter of Judah.
+⟦adonai|Adonai|the Lord⟧ has trodden as in a winepress
+the virgin daughter of ⟦judah|Yehudah|Judah⟧.
 
 [16] **ע** For these things I weep;
 my eyes flow with tears;
@@ -114,14 +114,14 @@ one to revive my soul;
 my children are desolate,
 for the enemy has prevailed.
 
-[17] **פ** Zion stretches out her hands,
+[17] **פ** ⟦zion|Tziyon|Zion⟧ stretches out her hands,
 but there is none to comfort her;
-Yahweh has commanded against Jacob
+⟦yhwh|Yahweh|the LORD⟧ has commanded against ⟦jacob|Yaaqov|Jacob⟧
 that his neighbors should be his foes;
-Jerusalem has become
+⟦jerusalem|Yerushalayim|Jerusalem⟧ has become
 a filthy thing among them.
 
-[18] **צ** Yahweh is in the right,
+[18] **צ** ⟦yhwh|Yahweh|The LORD⟧ is in the right,
 for I have rebelled against his word;
 but hear, all you peoples,
 and see my suffering;
@@ -135,7 +135,7 @@ perished in the city,
 while they sought food
 to revive their strength.
 
-[20] **ר** Look, O Yahweh, for I am in distress;
+[20] **ר** Look, O ⟦yhwh|Yahweh|LORD⟧, for I am in distress;
 my inmost parts are in turmoil;
 my heart is wrung within me,
 because I have been very rebellious.

@@ -9,7 +9,7 @@ budeš zničen;
 a až dokončíš zrazování,
 zradí tebe.
 
-[2] Yahweh, buď k nám milostivý; čekáme na tebe.
+[2] ⟦yhwh|Jahve|Hospodine⟧, buď k nám milostivý; čekáme na tebe.
 Buď naší paží každé jitro,
 naším spasením v čase soužení.
 
@@ -19,12 +19,12 @@ když se pozvedáš, rozprchnou se pronárody,
 [4] a vaše kořist se sbírá, jako sbírá housenka;
 jako skáčou kobylky, tak se na ni skáče.
 
-[5] Yahweh je vyvýšen, neboť přebývá na výšinách;
-naplňuje Zion právem a spravedlností,
+[5] ⟦yhwh|Jahve|Hospodin⟧ je vyvýšen, neboť přebývá na výšinách;
+naplňuje ⟦zion|Cijon|Sijón⟧ právem a spravedlností,
 
 [6] a bude stálostí tvých časů,
 hojností spasení, moudrosti a poznání;
-bázeň před Yahweh je poklad Zionu.
+bázeň před ⟦yhwh|Jahvem|Hospodinem⟧ je poklad ⟦zion|Cijonu|Sijónu⟧.
 
 [7] Hle, jejich hrdinové křičí na ulicích;
 poslové pokoje hořce pláčou.
@@ -36,11 +36,11 @@ města jsou v opovržení;
 nikdo nedbá na člověka.
 
 [9] Země truchlí a chřadne;
-Lebanon je zahanben a usychá;
-Sharon je jako poušť
-a Bashan a Carmel shazují své listí.
+⟦lebanon|Levanon|Libanón⟧ je zahanben a usychá;
+⟦sharon|Šaron|Šarón⟧ je jako poušť
+a ⟦bashan|Bašan|Bášan⟧ a Karmel shazují své listí.
 
-[10] „Nyní povstanu,“ praví Yahweh,
+[10] „Nyní povstanu,“ praví ⟦yhwh|Jahve|Hospodin⟧,
 „nyní se pozvednu;
 nyní budu vyvýšen.
 
@@ -53,7 +53,7 @@ jako posekané trní, které se pálí v ohni.
 [13] Slyšte, vy, kdo jste daleko, co jsem učinil;
 a vy, kdo jste blízko, uznejte mou moc.“
 
-[14] Hříšníci na Zionu se bojí;
+[14] Hříšníci na ⟦zion|Cijonu|Sijónu⟧ se bojí;
 bezbožné zachvátilo chvění:
 „Kdo z nás může přebývat se stravujícím ohněm?
 Kdo z nás může přebývat s věčnými žáry?“
@@ -80,21 +80,21 @@ Kde je ten, kdo počítal věže?“
 lid temné řeči, kterou nemůžeš pochopit,
 koktající jazykem, kterému nerozumíš.
 
-[20] Pohleď na Zion, město našich ustanovených svátků!
-Tvé oči uvidí Jerusalem,
+[20] Pohleď na ⟦zion|Cijon|Sijón⟧, město našich ustanovených svátků!
+Tvé oči uvidí ⟦jerusalem|Jerušalajim|Jeruzalém⟧,
 nerušený příbytek,
 nepohnutelný stan,
 jehož kolíky nebudou nikdy vytrženy
 a žádné z jeho lan nebude přetrženo.
 
-[21] Ale tam bude Yahweh ve velebnosti pro nás
+[21] Ale tam bude ⟦yhwh|Jahve|Hospodin⟧ ve velebnosti pro nás
 místem širokých řek a proudů,
 kam nepopluje žádná galéra s vesly
 ani neprojede vznešená loď.
 
-[22] Neboť Yahweh je náš soudce;
-Yahweh je náš zákonodárce;
-Yahweh je náš král;
+[22] Neboť ⟦yhwh|Jahve|Hospodin⟧ je náš soudce;
+⟦yhwh|Jahve|Hospodin⟧ je náš zákonodárce;
+⟦yhwh|Jahve|Hospodin⟧ je náš král;
 on nás zachrání.
 
 [23] Tvá lana visí volně;

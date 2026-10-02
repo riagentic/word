@@ -2,29 +2,29 @@
 
 [1] When humankind began to multiply on the face of the ground, and daughters were born to them,
 
-[2] the sons of *Elohim* saw that the daughters of humankind were good, and they took for themselves wives of all that they chose.
+[2] the sons of ⟦elohim|Elohim|God⟧ saw that the daughters of humankind were good, and they took for themselves wives of all that they chose.
 
-[3] Then Yahweh said, "My Spirit shall not contend with humankind forever, since he is indeed flesh; his days shall be 120 years."
+[3] Then ⟦yhwh|Yahweh|the LORD⟧ said, "My Spirit shall not contend with humankind forever, since he is indeed flesh; his days shall be 120 years."
 
-[4] The Nephilim were on the earth in those days — and also afterward — when the sons of *Elohim* came in to the daughters of humankind, and they bore children to them. These were the mighty warriors of old, the men of renown.
+[4] The ⟦nephilim|Nefilim|Nephilim⟧ were on the earth in those days — and also afterward — when the sons of ⟦elohim|Elohim|God⟧ came in to the daughters of humankind, and they bore children to them. These were the mighty warriors of old, the men of renown.
 
-[5] Yahweh saw that the wickedness of humankind was great on the earth, and that every inclination of the thoughts of his heart was only evil continually.
+[5] ⟦yhwh|Yahweh|The LORD⟧ saw that the wickedness of humankind was great on the earth, and that every inclination of the thoughts of his heart was only evil continually.
 
-[6] And Yahweh was sorry that he had made humankind on the earth, and it grieved him to his heart.
+[6] And ⟦yhwh|Yahweh|the LORD⟧ was sorry that he had made humankind on the earth, and it grieved him to his heart.
 
-[7] So Yahweh said, "I will wipe humankind, whom I created, from the face of the ground — humans, livestock, creeping things, and birds of the heavens — for I am sorry that I made them."
+[7] So ⟦yhwh|Yahweh|the LORD⟧ said, "I will wipe humankind, whom I created, from the face of the ground — humans, livestock, creeping things, and birds of the heavens — for I am sorry that I made them."
 
-[8] But Noah found favor in the eyes of Yahweh.
+[8] But ⟦noah|Noach|Noah⟧ found favor in the eyes of ⟦yhwh|Yahweh|the LORD⟧.
 
-[9] These are the generations of Noah. Noah was a righteous man, blameless in his generations; Noah walked with *Elohim*.
+[9] These are the generations of ⟦noah|Noach|Noah⟧. ⟦noah|Noach|Noah⟧ was a righteous man, blameless in his generations; ⟦noah|Noach|Noah⟧ walked with ⟦elohim|Elohim|God⟧.
 
-[10] Noah fathered three sons, Shem, Ham, and Japheth.
+[10] ⟦noah|Noach|Noah⟧ fathered three sons, Shem, ⟦ham|Cham|Ham⟧, and ⟦japheth|Yefet|Japheth⟧.
 
-[11] The earth was corrupt before *Elohim*, and the earth was filled with violence.
+[11] The earth was corrupt before ⟦elohim|Elohim|God⟧, and the earth was filled with violence.
 
-[12] *Elohim* saw the earth, and behold, it was corrupt, for all flesh had corrupted its way on the earth.
+[12] ⟦elohim|Elohim|God⟧ saw the earth, and behold, it was corrupt, for all flesh had corrupted its way on the earth.
 
-[13] And *Elohim* said to Noah, "The end of all flesh has come before me, for the earth is filled with violence because of them. Look, I am going to destroy them, along with the earth.
+[13] And ⟦elohim|Elohim|God⟧ said to ⟦noah|Noach|Noah⟧, "The end of all flesh has come before me, for the earth is filled with violence because of them. Look, I am going to destroy them, along with the earth.
 
 [14] Make yourself an ark of gopher wood. Make compartments in the ark, and cover it inside and out with pitch.
 
@@ -42,7 +42,7 @@
 
 [21] And take for yourself every kind of food that is eaten, and gather it to yourself; it shall be food for you and for them."
 
-[22] So Noah did this; he did all that *Elohim* commanded him.
+[22] So ⟦noah|Noach|Noah⟧ did this; he did all that ⟦elohim|Elohim|God⟧ commanded him.
 
 ## Changes
 

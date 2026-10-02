@@ -1,20 +1,20 @@
 # Exodus 36
 
-[1] „Betzalel a Oholiab a každý dovedný muž, do něhož Yahweh vložil dovednost a porozumění, aby věděl, jak vykonat každou práci pro službu svatyně, budou pracovat podle všeho, co Yahweh přikázal.“
+[1] „⟦bezalel|Becalel|Besaleel⟧ a ⟦oholiab|Oholiav|Oholíab⟧ a každý dovedný muž, do něhož ⟦yhwh|Jahve|Hospodin⟧ vložil dovednost a porozumění, aby věděl, jak vykonat každou práci pro službu svatyně, budou pracovat podle všeho, co ⟦yhwh|Jahve|Hospodin⟧ přikázal.“
 
-[2] Moses zavolal Betzalela a Oholiaba a každého dovedného muže, do jehož srdce Yahweh vložil dovednost – každého, koho srdce pohnulo, aby přistoupil k dílu a vykonal je.
+[2] ⟦moses|Moše|Mojžíš⟧ zavolal ⟦bezalel|Becalela|Besaleela⟧ a ⟦oholiab|Oholiava|Oholíaba⟧ a každého dovedného muže, do jehož srdce ⟦yhwh|Jahve|Hospodin⟧ vložil dovednost – každého, koho srdce pohnulo, aby přistoupil k dílu a vykonal je.
 
-[3] Převzali od Mosese všechen příspěvek, který synové Israele přinesli na dílo služby svatyně, aby je vykonali. A oni mu stále každé ráno přinášeli dobrovolné dary,
+[3] Převzali od ⟦moses|Moše|Mojžíše⟧ všechen příspěvek, který synové ⟦israel|Jisraele|Izraele⟧ přinesli na dílo služby svatyně, aby je vykonali. A oni mu stále každé ráno přinášeli dobrovolné dary,
 
 [4] takže všichni zruční řemeslníci, kteří konali veškeré dílo svatyně, přišli, každý od práce, kterou dělal,
 
-[5] a řekli Mosesovi: „Lid přináší víc, než je třeba pro dílo, které Yahweh přikázal vykonat.“
+[5] a řekli ⟦moses|Mošovi|Mojžíšovi⟧: „Lid přináší víc, než je třeba pro dílo, které ⟦yhwh|Jahve|Hospodin⟧ přikázal vykonat.“
 
-[6] Moses tedy vydal příkaz a táborem se neslo provolání: „Ať už žádný muž ani žena nedělá nic dalšího pro příspěvek svatyně.“ Tak byl lid zadržen od přinášení,
+[6] ⟦moses|Moše|Mojžíš⟧ tedy vydal příkaz a táborem se neslo provolání: „Ať už žádný muž ani žena nedělá nic dalšího pro příspěvek svatyně.“ Tak byl lid zadržen od přinášení,
 
 [7] neboť materiálu, který měli, bylo dost na veškeré dílo, jež se mělo vykonat, a ještě nazbyt.
 
-[8] Každý dovedný muž mezi těmi, kdo konali dílo, udělal příbytek z deseti pokrývek ze jemného soukaného plátna, z modré, purpurové a karmínové příze; byly zhotoveny s umně vetkanými cheruby.
+[8] Každý dovedný muž mezi těmi, kdo konali dílo, udělal příbytek z deseti pokrývek ze jemného soukaného plátna, z modré, purpurové a karmínové příze; byly zhotoveny s umně vetkanými ⟦cherubim|keruvim|cheruby⟧.
 
 [9] Délka každé pokrývky byla 28 loket a šířka každé pokrývky 4 lokty; všechny pokrývky měly stejnou míru.
 
@@ -68,7 +68,7 @@
 
 [34] Rámy obložil zlatem a udělal jejich zlaté kruhy jako pouzdra pro svlaky; a svlaky obložil zlatem.
 
-[35] Udělal oponu z modré, purpurové a karmínové příze a z jemného soukaného plátna; udělal ji s umně vetkanými cheruby.
+[35] Udělal oponu z modré, purpurové a karmínové příze a z jemného soukaného plátna; udělal ji s umně vetkanými ⟦cherubim|keruvim|cheruby⟧.
 
 [36] Udělal pro ni čtyři akáciové sloupy a obložil je zlatem; jejich háčky byly zlaté a odlil pro ně čtyři stříbrné podstavce.
 

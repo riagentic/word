@@ -1,62 +1,62 @@
 # Numbers 20
 
-[1] The children of Israel, the whole congregation, came into the wilderness of Zin in the first month; and the people stayed at Kadesh. Miriam died there and was buried there.
+[1] The children of ⟦israel|Yisrael|Israel⟧, the whole congregation, came into the wilderness of ⟦zin|Tzin|Zin⟧ in the first month; and the people stayed at ⟦kadesh|Qadesh|Kadesh⟧. ⟦miriam|Miryam|Miriam⟧ died there and was buried there.
 
-[2] Now there was no water for the congregation, and they assembled together against Moses and Aaron.
+[2] Now there was no water for the congregation, and they assembled together against ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧.
 
-[3] The people quarreled with Moses and said, "If only we had perished when our brothers perished before Yahweh!
+[3] The people quarreled with ⟦moses|Moshe|Moses⟧ and said, "If only we had perished when our brothers perished before ⟦yhwh|Yahweh|the LORD⟧!
 
-[4] Why have you brought the assembly of Yahweh into this wilderness, that we and our livestock should die here?
+[4] Why have you brought the assembly of ⟦yhwh|Yahweh|the LORD⟧ into this wilderness, that we and our livestock should die here?
 
-[5] Why did you make us come up out of Egypt, to bring us to this evil place? It is no place of grain, or figs, or vines, or pomegranates; and there is no water to drink."
+[5] Why did you make us come up out of ⟦egypt|Mitzrayim|Egypt⟧, to bring us to this evil place? It is no place of grain, or figs, or vines, or pomegranates; and there is no water to drink."
 
-[6] Moses and Aaron went from the presence of the assembly to the entrance of the Tent of Meeting, and fell on their faces. And the glory of Yahweh appeared to them.
+[6] ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧ went from the presence of the assembly to the entrance of the Tent of Meeting, and fell on their faces. And the glory of ⟦yhwh|Yahweh|the LORD⟧ appeared to them.
 
-[7] Yahweh spoke to Moses, saying,
+[7] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[8] "Take the staff, and you and Aaron your brother gather the assembly, and speak to the rock before their eyes, that it may yield its water. You shall bring water out of the rock for them, and you shall give drink to the congregation and their livestock."
+[8] "Take the staff, and you and ⟦aaron|Aharon|Aaron⟧ your brother gather the assembly, and speak to the rock before their eyes, that it may yield its water. You shall bring water out of the rock for them, and you shall give drink to the congregation and their livestock."
 
-[9] So Moses took the staff from before Yahweh, as he had commanded him.
+[9] So ⟦moses|Moshe|Moses⟧ took the staff from before ⟦yhwh|Yahweh|the LORD⟧, as he had commanded him.
 
-[10] Moses and Aaron gathered the assembly before the rock, and he said to them, "Listen now, you rebels! Shall we bring forth water for you out of this rock?"
+[10] ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧ gathered the assembly before the rock, and he said to them, "Listen now, you rebels! Shall we bring forth water for you out of this rock?"
 
-[11] And Moses raised his hand and struck the rock with his staff twice; and water came out abundantly, and the congregation drank, and their livestock as well.
+[11] And ⟦moses|Moshe|Moses⟧ raised his hand and struck the rock with his staff twice; and water came out abundantly, and the congregation drank, and their livestock as well.
 
-[12] Yahweh said to Moses and Aaron, "Because you did not trust in me, to treat me as holy in the eyes of the children of Israel, therefore you shall not bring this assembly into the land that I have given them."
+[12] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧, "Because you did not trust in me, to treat me as holy in the eyes of the children of ⟦israel|Yisrael|Israel⟧, therefore you shall not bring this assembly into the land that I have given them."
 
-[13] These are the waters of Meribah, where the children of Israel quarreled with Yahweh, and he was shown holy among them.
+[13] These are the waters of ⟦meribah|Merivah|Meribah⟧, where the children of ⟦israel|Yisrael|Israel⟧ quarreled with ⟦yhwh|Yahweh|the LORD⟧, and he was shown holy among them.
 
-[14] Moses sent messengers from Kadesh to the king of Edom: "Thus says your brother Israel: You know all the hardship that has come upon us —
+[14] ⟦moses|Moshe|Moses⟧ sent messengers from ⟦kadesh|Qadesh|Kadesh⟧ to the king of Edom: "Thus says your brother ⟦israel|Yisrael|Israel⟧: You know all the hardship that has come upon us —
 
-[15] how our fathers went down into Egypt, and we lived in Egypt a long time; and the Egyptians oppressed us and our fathers.
+[15] how our fathers went down into ⟦egypt|Mitzrayim|Egypt⟧, and we lived in ⟦egypt|Mitzrayim|Egypt⟧ a long time; and the ⟦egyptians|Mitzrim|Egyptians⟧ oppressed us and our fathers.
 
-[16] When we cried to Yahweh, he heard our voice and sent a messenger and brought us out of Egypt; and behold, we are in Kadesh, a city on the edge of your border.
+[16] When we cried to ⟦yhwh|Yahweh|the LORD⟧, he heard our voice and sent a messenger and brought us out of ⟦egypt|Mitzrayim|Egypt⟧; and behold, we are in ⟦kadesh|Qadesh|Kadesh⟧, a city on the edge of your border.
 
 [17] Let us pass, please, through your country. We will not pass through field or vineyard, nor will we drink water from any well. We will go along the King's Highway; we will not turn aside to the right hand or to the left until we have passed through your territory."
 
 [18] But Edom said to him, "You shall not pass through me, lest I come out against you with the sword."
 
-[19] And the children of Israel said to him, "We will go up by the highway; and if we drink any of your water, my livestock and I, then I will pay for it. Only let me pass through on foot — nothing more."
+[19] And the children of ⟦israel|Yisrael|Israel⟧ said to him, "We will go up by the highway; and if we drink any of your water, my livestock and I, then I will pay for it. Only let me pass through on foot — nothing more."
 
 [20] But he said, "You shall not pass through." And Edom came out against him with a great force and a strong hand.
 
-[21] So Edom refused to give Israel passage through his territory; and Israel turned away from him.
+[21] So Edom refused to give ⟦israel|Yisrael|Israel⟧ passage through his territory; and ⟦israel|Yisrael|Israel⟧ turned away from him.
 
-[22] The children of Israel, the whole congregation, set out from Kadesh and came to Mount Hor.
+[22] The children of ⟦israel|Yisrael|Israel⟧, the whole congregation, set out from ⟦kadesh|Qadesh|Kadesh⟧ and came to Mount Hor.
 
-[23] Yahweh spoke to Moses and Aaron at Mount Hor, on the border of the land of Edom, saying,
+[23] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧ at Mount Hor, on the border of the land of Edom, saying,
 
-[24] "Aaron shall be gathered to his people, for he shall not enter the land that I have given to the children of Israel, because you rebelled against my word at the waters of Meribah.
+[24] "⟦aaron|Aharon|Aaron⟧ shall be gathered to his people, for he shall not enter the land that I have given to the children of ⟦israel|Yisrael|Israel⟧, because you rebelled against my word at the waters of ⟦meribah|Merivah|Meribah⟧.
 
-[25] Take Aaron and Eleazar his son, and bring them up to Mount Hor.
+[25] Take ⟦aaron|Aharon|Aaron⟧ and ⟦eleazar|Elazar|Eleazar⟧ his son, and bring them up to Mount Hor.
 
-[26] Strip Aaron of his garments and put them on Eleazar his son; Aaron shall be gathered to his people, and shall die there."
+[26] Strip ⟦aaron|Aharon|Aaron⟧ of his garments and put them on ⟦eleazar|Elazar|Eleazar⟧ his son; ⟦aaron|Aharon|Aaron⟧ shall be gathered to his people, and shall die there."
 
-[27] Moses did as Yahweh commanded, and they went up to Mount Hor in the sight of all the congregation.
+[27] ⟦moses|Moshe|Moses⟧ did as ⟦yhwh|Yahweh|the LORD⟧ commanded, and they went up to Mount Hor in the sight of all the congregation.
 
-[28] Moses stripped Aaron of his garments and put them on Eleazar his son. And Aaron died there on the top of the mountain. Moses and Eleazar came down from the mountain.
+[28] ⟦moses|Moshe|Moses⟧ stripped ⟦aaron|Aharon|Aaron⟧ of his garments and put them on ⟦eleazar|Elazar|Eleazar⟧ his son. And ⟦aaron|Aharon|Aaron⟧ died there on the top of the mountain. ⟦moses|Moshe|Moses⟧ and ⟦eleazar|Elazar|Eleazar⟧ came down from the mountain.
 
-[29] When all the congregation saw that Aaron had died, the whole house of Israel mourned for Aaron thirty days.
+[29] When all the congregation saw that ⟦aaron|Aharon|Aaron⟧ had died, the whole house of ⟦israel|Yisrael|Israel⟧ mourned for ⟦aaron|Aharon|Aaron⟧ thirty days.
 
 ## Changes
 

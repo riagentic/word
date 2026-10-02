@@ -1,40 +1,40 @@
 # Soudců 10
 
-[1] Po Abimelechovi povstal, aby vysvobodil Israel, Tola, syn Puah, syna Dodova, muž z Issachara; bydlel v Shamiru v pahorkatině Ephraim.
+[1] Po ⟦abimelech|Avimelechovi|Abímelekovi⟧ povstal, aby vysvobodil ⟦israel|Jisrael|Izrael⟧, ⟦tola|Tola|Tóla⟧, syn ⟦puah|Pua|Púa⟧, syna ⟦dodo|Dodova|Dódova⟧, muž z ⟦issachar|Jissachara|Isachara⟧; bydlel v ⟦shamir|Šamiru|Šamíru⟧ v pahorkatině Efrajim.
 
-[2] Soudil Israel dvacet tři let; potom zemřel a byl pohřben v Shamiru.
+[2] Soudil ⟦israel|Jisrael|Izrael⟧ dvacet tři let; potom zemřel a byl pohřben v ⟦shamir|Šamiru|Šamíru⟧.
 
-[3] Po něm povstal Jair, Gileadita; soudil Israel dvacet dva let.
+[3] Po něm povstal ⟦jair|Jair|Jaír⟧, ⟦gileadite|Giladi|Gileádský⟧; soudil ⟦israel|Jisrael|Izrael⟧ dvacet dva let.
 
-[4] Měl třicet synů, kteří jezdili na třiceti oslech; měli třicet měst, která se až do tohoto dne nazývají Havvoth-Jair a jsou v zemi Gilead.
+[4] Měl třicet synů, kteří jezdili na třiceti oslech; měli třicet měst, která se až do tohoto dne nazývají ⟦havvoth-jair|Chavvot Jair|Chavót-jaír⟧ a jsou v zemi ⟦gilead|Gilad|Gileád⟧.
 
-[5] Jair zemřel a byl pohřben v Kamonu.
+[5] ⟦jair|Jair|Jaír⟧ zemřel a byl pohřben v ⟦kamon|Kamonu|Kamónu⟧.
 
-[6] Synové Israele opět činili to, co je zlé v očích Yahweh. Sloužili Baalům a Ashtaroth, bohům Aramu, bohům Sidonu, bohům Moabu, bohům synů Ammonu a bohům Philistinů. Opustili Yahweh a nesloužili mu.
+[6] Synové ⟦israel|Jisraele|Izraele⟧ opět činili to, co je zlé v očích ⟦yhwh|Jahveho|Hospodina⟧. Sloužili ⟦baal|Baalům|baalům⟧ a ⟦ashtaroth-goddesses|Aštarot|aštoretám⟧, bohům Aramu, bohům ⟦sidon|Cidonu|Sidónu⟧, bohům ⟦moab|Moavu|Moábu⟧, bohům synů ⟦ammon|Ammonu|Amónu⟧ a bohům ⟦philistines|Pelištim|Pelištejců⟧. Opustili ⟦yhwh|Jahveho|Hospodina⟧ a nesloužili mu.
 
-[7] Hněv Yahweh vzplanul proti Israeli a prodal je do ruky Philistinů a do ruky synů Ammonu.
+[7] Hněv ⟦yhwh|Jahveho|Hospodina⟧ vzplanul proti ⟦israel|Jisraeli|Izraeli⟧ a prodal je do ruky ⟦philistines|Pelištim|Pelištejců⟧ a do ruky synů ⟦ammon|Ammonu|Amónu⟧.
 
-[8] Toho roku drtili a utlačovali syny Israele; osmnáct let utlačovali všechny syny Israele, kteří byli za Jordanem v zemi Amoritů, která je v Gileadu.
+[8] Toho roku drtili a utlačovali syny ⟦israel|Jisraele|Izraele⟧; osmnáct let utlačovali všechny syny ⟦israel|Jisraele|Izraele⟧, kteří byli za ⟦jordan|Jardenem|Jordánem⟧ v zemi ⟦amorites|Emorim|Emorejců⟧, která je v ⟦gilead|Giladu|Gileádu⟧.
 
-[9] Synové Ammonu přešli Jordan, aby bojovali také proti Judah, proti Benjaminovi a proti domu Ephraima; a tak byl Israel ve veliké tísni.
+[9] Synové ⟦ammon|Ammonu|Amónu⟧ přešli ⟦jordan|Jarden|Jordán⟧, aby bojovali také proti ⟦judah|Jehudovi|Judovi⟧, proti ⟦benjamin|Binjaminovi|Benjamínovi⟧ a proti domu Efrajima; a tak byl ⟦israel|Jisrael|Izrael⟧ ve veliké tísni.
 
-[10] Synové Israele volali k Yahweh: „Zhřešili jsme proti tobě – opustili jsme svého *Elohim* a sloužili jsme Baalům.“
+[10] Synové ⟦israel|Jisraele|Izraele⟧ volali k ⟦yhwh|Jahvovi|Hospodinu⟧: „Zhřešili jsme proti tobě – opustili jsme svého ⟦elohim|Elohim|Boha⟧ a sloužili jsme ⟦baal|Baalům|baalům⟧.“
 
-[11] Yahweh řekl synům Israele: „Cožpak jsem vás nevysvobodil od Egypťanů, od Amoritů, od synů Ammonu a od Philistinů?
+[11] ⟦yhwh|Jahve|Hospodin⟧ řekl synům ⟦israel|Jisraele|Izraele⟧: „Cožpak jsem vás nevysvobodil od ⟦egyptians|Micrim|Egypťanů⟧, od ⟦amorites|Emorim|Emorejců⟧, od synů ⟦ammon|Ammonu|Amónu⟧ a od ⟦philistines|Pelištim|Pelištejců⟧?
 
-[12] Sidonští, Amalekité a Maonité vás utlačovali; volali jste ke mně a já jsem vás vysvobodil z jejich ruky.
+[12] ⟦sidonians|Cidonim|Sidóňané⟧, ⟦amalek|Amalek|Amálek⟧ a ⟦maonites|Maon|Maónci⟧ vás utlačovali; volali jste ke mně a já jsem vás vysvobodil z jejich ruky.
 
 [13] Vy jste mě však opustili a sloužili jste jiným bohům; proto vás už nevysvobodím.
 
 [14] Jděte a volejte k bohům, které jste si vyvolili; ať vás vysvobodí oni v čase vaší tísně.“
 
-[15] Synové Israele řekli Yahweh: „Zhřešili jsme. Učiň s námi, cokoli je dobré v tvých očích; jen nás prosím dnes vysvoboď.“
+[15] Synové ⟦israel|Jisraele|Izraele⟧ řekli ⟦yhwh|Jahvovi|Hospodinu⟧: „Zhřešili jsme. Učiň s námi, cokoli je dobré v tvých očích; jen nás prosím dnes vysvoboď.“
 
-[16] Odstranili tedy ze svého středu cizí bohy a sloužili Yahweh; a jeho duše už nemohla snést trápení Israele.
+[16] Odstranili tedy ze svého středu cizí bohy a sloužili ⟦yhwh|Jahvovi|Hospodinu⟧; a jeho duše už nemohla snést trápení ⟦israel|Jisraele|Izraele⟧.
 
-[17] Synové Ammonu byli svoláni a utábořili se v Gileadu; a synové Israele se shromáždili a utábořili se v Mizpah.
+[17] Synové ⟦ammon|Ammonu|Amónu⟧ byli svoláni a utábořili se v ⟦gilead|Giladu|Gileádu⟧; a synové ⟦israel|Jisraele|Izraele⟧ se shromáždili a utábořili se v ⟦mizpah|Micpě|Mispě⟧.
 
-[18] Lid – náčelníci Gileadu – si řekli jeden druhému: „Kdo je ten muž, který začne bojovat proti synům Ammonu? Ten bude hlavou nad všemi obyvateli Gileadu.“
+[18] Lid – náčelníci ⟦gilead|Giladu|Gileádu⟧ – si řekli jeden druhému: „Kdo je ten muž, který začne bojovat proti synům ⟦ammon|Ammonu|Amónu⟧? Ten bude hlavou nad všemi obyvateli ⟦gilead|Giladu|Gileádu⟧.“
 
 ## Změny
 

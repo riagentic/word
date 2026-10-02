@@ -1,68 +1,68 @@
 # Exodus 8
 
-[1] Yahweh řekl Mosesovi: „Jdi k Pharaohovi a řekni mu: ‚Toto praví Yahweh: Propusť můj lid, aby mi sloužil.
+[1] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Jdi k ⟦pharaoh|Parohovi|faraónovi⟧ a řekni mu: ‚Toto praví ⟦yhwh|Jahve|Hospodin⟧: Propusť můj lid, aby mi sloužil.
 
 [2] Jestliže je odmítneš propustit, hle, postihnu celé tvé území žábami.
 
-[3] Nile se bude hemžit žábami, které vylezou a vniknou do tvého domu, do tvé ložnice a na tvé lůžko, do domů tvých služebníků a na tvůj lid, i do tvých pecí a do tvých díží.
+[3] ⟦nile|Jeor|Nil⟧ se bude hemžit žábami, které vylezou a vniknou do tvého domu, do tvé ložnice a na tvé lůžko, do domů tvých služebníků a na tvůj lid, i do tvých pecí a do tvých díží.
 
 [4] Žáby vylezou na tebe, na tvůj lid i na všechny tvé služebníky.‘“
 
-[5] Yahweh řekl Mosesovi: „Řekni Aaronovi: ‚Vztáhni ruku se svou holí nad kanály, nad Nily a nad rybníky a nech vylézt žáby na egyptskou zemi.‘“
+[5] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Řekni ⟦aaron|Aharonovi|Áronovi⟧: ‚Vztáhni ruku se svou holí nad kanály, nad ⟦nile|Jeory|Nily⟧ a nad rybníky a nech vylézt žáby na egyptskou zemi.‘“
 
-[6] Aaron tedy vztáhl ruku nad vody Egypta; a žáby vylezly a pokryly egyptskou zemi.
+[6] ⟦aaron|Aharon|Áron⟧ tedy vztáhl ruku nad vody ⟦egypt|Micrajim|Egypta⟧; a žáby vylezly a pokryly egyptskou zemi.
 
 [7] Ale věštečtí kněží učinili totéž svými tajnými uměními a vyvedli žáby na egyptskou zemi.
 
-[8] Tu Pharaoh zavolal Mosese a Aarona a řekl: „Proste Yahweh, ať odstraní žáby ode mne a od mého lidu, a já propustím lid, aby obětoval Yahweh.“
+[8] Tu ⟦pharaoh|Paro|farao⟧ zavolal ⟦moses|Moše|Mojžíše⟧ a ⟦aaron|Aharona|Árona⟧ a řekl: „Proste ⟦yhwh|Jahveho|Hospodina⟧, ať odstraní žáby ode mne a od mého lidu, a já propustím lid, aby obětoval ⟦yhwh|Jahvovi|Hospodinu⟧.“
 
-[9] Moses řekl Pharaohovi: „Nechám ti tu čest nade mnou: kdy mám prosit za tebe, za tvé služebníky a za tvůj lid, aby žáby zmizely od tebe a z tvých domů a zůstaly jen v Nilu?“
+[9] ⟦moses|Moše|Mojžíš⟧ řekl ⟦pharaoh|Parohovi|faraónovi⟧: „Nechám ti tu čest nade mnou: kdy mám prosit za tebe, za tvé služebníky a za tvůj lid, aby žáby zmizely od tebe a z tvých domů a zůstaly jen v ⟦nile|Jeoru|Nilu⟧?“
 
-[10] Odpověděl: „Zítra.“ Moses řekl: „Staň se podle tvého slova, abys poznal, že nikdo není jako Yahweh, náš *Elohim*.
+[10] Odpověděl: „Zítra.“ ⟦moses|Moše|Mojžíš⟧ řekl: „Staň se podle tvého slova, abys poznal, že nikdo není jako ⟦yhwh|Jahve|Hospodin⟧, náš ⟦elohim|Elohim|Bůh⟧.
 
-[11] Žáby odejdou od tebe, z tvých domů, od tvých služebníků a od tvého lidu; zůstanou jen v Nilu.“
+[11] Žáby odejdou od tebe, z tvých domů, od tvých služebníků a od tvého lidu; zůstanou jen v ⟦nile|Jeoru|Nilu⟧.“
 
-[12] Moses a Aaron tedy vyšli od Pharaoha; a Moses volal k Yahweh kvůli žábám, které uvedl na Pharaoha.
+[12] ⟦moses|Moše|Mojžíš⟧ a ⟦aaron|Aharon|Áron⟧ tedy vyšli od ⟦pharaoh|Paroha|faraóna⟧; a ⟦moses|Moše|Mojžíš⟧ volal k ⟦yhwh|Jahvovi|Hospodinu⟧ kvůli žábám, které uvedl na ⟦pharaoh|Paroha|faraóna⟧.
 
-[13] Yahweh učinil podle Mosesova slova; žáby vymřely v domech, na dvorech i na polích.
+[13] ⟦yhwh|Jahve|Hospodin⟧ učinil podle ⟦moses|Mošova|Mojžíšova⟧ slova; žáby vymřely v domech, na dvorech i na polích.
 
 [14] Shrnuli je na hromady a země páchla.
 
-[15] Když však Pharaoh viděl, že nastala úleva, zatvrdil své srdce a neuposlechl je, jak Yahweh řekl.
+[15] Když však ⟦pharaoh|Paro|farao⟧ viděl, že nastala úleva, zatvrdil své srdce a neuposlechl je, jak ⟦yhwh|Jahve|Hospodin⟧ řekl.
 
-[16] Tu Yahweh řekl Mosesovi: „Řekni Aaronovi: ‚Vztáhni svou hůl a udeř do prachu země, ať se z něj stanou komáři po celé egyptské zemi.‘“
+[16] Tu ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Řekni ⟦aaron|Aharonovi|Áronovi⟧: ‚Vztáhni svou hůl a udeř do prachu země, ať se z něj stanou komáři po celé egyptské zemi.‘“
 
-[17] A tak učinili: Aaron vztáhl ruku se svou holí a udeřil do prachu země a komáři byli na lidech i na dobytku; všechen prach země se stal komáry po celé egyptské zemi.
+[17] A tak učinili: ⟦aaron|Aharon|Áron⟧ vztáhl ruku se svou holí a udeřil do prachu země a komáři byli na lidech i na dobytku; všechen prach země se stal komáry po celé egyptské zemi.
 
 [18] Věštečtí kněží se svými tajnými uměními pokusili učinit totéž, aby vyvedli komáry, ale nedokázali to. A komáři byli na lidech i na dobytku.
 
-[19] Tu věštečtí kněží řekli Pharaohovi: „Toto je prst *Elohim*.“ Ale Pharaohovo srdce bylo zatvrzeno a neuposlechl je, jak Yahweh řekl.
+[19] Tu věštečtí kněží řekli ⟦pharaoh|Parohovi|faraónovi⟧: „Toto je prst ⟦elohim|Elohim|Boží⟧.“ Ale ⟦pharaoh|Parohovo|faraónovo⟧ srdce bylo zatvrzeno a neuposlechl je, jak ⟦yhwh|Jahve|Hospodin⟧ řekl.
 
-[20] Yahweh řekl Mosesovi: „Vstaň časně ráno, postav se před Pharaoha, až bude vycházet k vodě, a řekni mu: ‚Toto praví Yahweh: Propusť můj lid, aby mi sloužil.
+[20] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Vstaň časně ráno, postav se před ⟦pharaoh|Paroha|faraóna⟧, až bude vycházet k vodě, a řekni mu: ‚Toto praví ⟦yhwh|Jahve|Hospodin⟧: Propusť můj lid, aby mi sloužil.
 
-[21] Jinak, jestliže můj lid nepropustíš, hle, pošlu roje na tebe, na tvé služebníky, na tvůj lid i do tvých domů; a domy Egypťanů budou plné rojů, i sama půda, na které stojí.
+[21] Jinak, jestliže můj lid nepropustíš, hle, pošlu roje na tebe, na tvé služebníky, na tvůj lid i do tvých domů; a domy ⟦egyptians|Micrim|Egypťanů⟧ budou plné rojů, i sama půda, na které stojí.
 
-[22] Ale v ten den oddělím zemi Goshen, kde bydlí můj lid, takže tam žádné roje nebudou – abys poznal, že já jsem Yahweh uprostřed země.
+[22] Ale v ten den oddělím zemi Gošen, kde bydlí můj lid, takže tam žádné roje nebudou – abys poznal, že já jsem ⟦yhwh|Jahve|Hospodin⟧ uprostřed země.
 
 [23] Učiním rozdíl mezi svým lidem a tvým lidem. Zítra se stane toto znamení.‘“
 
-[24] A Yahweh tak učinil: těžké roje vnikly do Pharaohova domu, do domů jeho služebníků a po celé egyptské zemi. Země byla roji zničena.
+[24] A ⟦yhwh|Jahve|Hospodin⟧ tak učinil: těžké roje vnikly do ⟦pharaoh|Parohova|faraónova⟧ domu, do domů jeho služebníků a po celé egyptské zemi. Země byla roji zničena.
 
-[25] Pharaoh zavolal Mosese a Aarona a řekl: „Jděte, obětujte svému *Elohim* v této zemi.“
+[25] ⟦pharaoh|Paro|Farao⟧ zavolal ⟦moses|Moše|Mojžíše⟧ a ⟦aaron|Aharona|Árona⟧ a řekl: „Jděte, obětujte svému ⟦elohim|Elohim|Bohu⟧ v této zemi.“
 
-[26] Moses řekl: „Nesluší se tak učinit; vždyť bychom Yahweh, svému *Elohim*, obětovali to, co je Egypťanům ohavností. Budeme-li před jejich očima obětovat to, co je Egypťanům ohavností, cožpak nás neukamenují?
+[26] ⟦moses|Moše|Mojžíš⟧ řekl: „Nesluší se tak učinit; vždyť bychom ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧, obětovali to, co je ⟦egyptians|Micrim|Egypťanům⟧ ohavností. Budeme-li před jejich očima obětovat to, co je ⟦egyptians|Micrim|Egypťanům⟧ ohavností, cožpak nás neukamenují?
 
-[27] Musíme jít tři dny cesty na poušť a obětovat Yahweh, svému *Elohim*, jak nám přikazuje.“
+[27] Musíme jít tři dny cesty na poušť a obětovat ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧, jak nám přikazuje.“
 
-[28] Pharaoh řekl: „Propustím vás, abyste obětovali Yahweh, svému *Elohim*, na poušti, jenom nechoďte příliš daleko. Proste za mě.“
+[28] ⟦pharaoh|Paro|Farao⟧ řekl: „Propustím vás, abyste obětovali ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧, na poušti, jenom nechoďte příliš daleko. Proste za mě.“
 
-[29] Moses řekl: „Hle, odcházím od tebe a budu prosit Yahweh, aby zítra roje odešly od Pharaoha, od jeho služebníků a od jeho lidu. Jen ať Pharaoh znovu nejedná lstivě tím, že lid nepropustí, aby obětoval Yahweh.“
+[29] ⟦moses|Moše|Mojžíš⟧ řekl: „Hle, odcházím od tebe a budu prosit ⟦yhwh|Jahveho|Hospodina⟧, aby zítra roje odešly od ⟦pharaoh|Paroha|faraóna⟧, od jeho služebníků a od jeho lidu. Jen ať ⟦pharaoh|Paro|farao⟧ znovu nejedná lstivě tím, že lid nepropustí, aby obětoval ⟦yhwh|Jahvovi|Hospodinu⟧.“
 
-[30] Moses tedy vyšel od Pharaoha a prosil Yahweh.
+[30] ⟦moses|Moše|Mojžíš⟧ tedy vyšel od ⟦pharaoh|Paroha|faraóna⟧ a prosil ⟦yhwh|Jahveho|Hospodina⟧.
 
-[31] A Yahweh učinil podle Mosesova slova: odstranil roje od Pharaoha, od jeho služebníků a od jeho lidu; nezůstal ani jeden.
+[31] A ⟦yhwh|Jahve|Hospodin⟧ učinil podle ⟦moses|Mošova|Mojžíšova⟧ slova: odstranil roje od ⟦pharaoh|Paroha|faraóna⟧, od jeho služebníků a od jeho lidu; nezůstal ani jeden.
 
-[32] Ale Pharaoh zatvrdil své srdce i tentokrát a lid nepropustil.
+[32] Ale ⟦pharaoh|Paro|farao⟧ zatvrdil své srdce i tentokrát a lid nepropustil.
 
 ## Změny
 

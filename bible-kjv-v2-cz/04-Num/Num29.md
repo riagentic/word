@@ -2,7 +2,7 @@
 
 [1] „Sedmého měsíce, prvního dne toho měsíce, budete mít svaté shromáždění; nebudete dělat žádnou těžkou práci. Bude to pro vás den troubení.
 
-[2] Přinesete zápalnou oběť, libou vůni pro Yahweh: jednoho mladého býčka, jednoho berana a sedm ročních jehňat bez vady;
+[2] Přinesete zápalnou oběť, libou vůni pro ⟦yhwh|Jahveho|Hospodina⟧: jednoho mladého býčka, jednoho berana a sedm ročních jehňat bez vady;
 
 [3] a jejich moučnou oběť z bílé mouky smíšené s olejem: tři desetiny éfy na býčka, dvě desetiny éfy na berana
 
@@ -10,11 +10,11 @@
 
 [5] a jednoho kozla jako oběť za hřích, aby za vás byl zjednán smír –
 
-[6] kromě zápalné oběti novoluní a její moučné oběti a pravidelné zápalné oběti a její moučné oběti s jejich úlitbami podle jejich řádu, jako libou vůni, ohnivou oběť pro Yahweh.
+[6] kromě zápalné oběti novoluní a její moučné oběti a pravidelné zápalné oběti a její moučné oběti s jejich úlitbami podle jejich řádu, jako libou vůni, ohnivou oběť pro ⟦yhwh|Jahveho|Hospodina⟧.
 
 [7] Desátého dne tohoto sedmého měsíce budete mít svaté shromáždění a budete se pokořovat; nebudete dělat žádnou práci.
 
-[8] Přinesete zápalnou oběť Yahweh, libou vůni: jednoho mladého býčka, jednoho berana a sedm ročních jehňat – budou vám bez vady –
+[8] Přinesete zápalnou oběť ⟦yhwh|Jahvovi|Hospodinu⟧, libou vůni: jednoho mladého býčka, jednoho berana a sedm ročních jehňat – budou vám bez vady –
 
 [9] a jejich moučnou oběť z bílé mouky smíšené s olejem: tři desetiny éfy na býčka, dvě desetiny éfy na toho jednoho berana,
 
@@ -22,9 +22,9 @@
 
 [11] a jednoho kozla jako oběť za hřích – kromě smírčí oběti za hřích a pravidelné zápalné oběti s její moučnou obětí a jejich úliteb.
 
-[12] Patnáctého dne sedmého měsíce budete mít svaté shromáždění; nebudete dělat žádnou těžkou práci a sedm dní budete slavit svátek pro Yahweh.
+[12] Patnáctého dne sedmého měsíce budete mít svaté shromáždění; nebudete dělat žádnou těžkou práci a sedm dní budete slavit svátek pro ⟦yhwh|Jahveho|Hospodina⟧.
 
-[13] Přinesete zápalnou oběť, ohnivou oběť, libou vůni pro Yahweh: třináct mladých býčků, dva berany, čtrnáct ročních jehňat – budou bez vady –
+[13] Přinesete zápalnou oběť, ohnivou oběť, libou vůni pro ⟦yhwh|Jahveho|Hospodina⟧: třináct mladých býčků, dva berany, čtrnáct ročních jehňat – budou bez vady –
 
 [14] a jejich moučnou oběť z bílé mouky smíšené s olejem: tři desetiny éfy na každého ze třinácti býčků, dvě desetiny éfy na každého z obou beranů
 
@@ -70,15 +70,15 @@
 
 [35] Osmého dne budete mít slavnostní shromáždění; nebudete dělat žádnou těžkou práci.
 
-[36] Přinesete zápalnou oběť, ohnivou oběť, libou vůni pro Yahweh: jednoho býčka, jednoho berana, sedm ročních jehňat bez vady;
+[36] Přinesete zápalnou oběť, ohnivou oběť, libou vůni pro ⟦yhwh|Jahveho|Hospodina⟧: jednoho býčka, jednoho berana, sedm ročních jehňat bez vady;
 
 [37] jejich moučnou oběť a jejich úlitby na býčka, na berana a na jehňata podle jejich počtu, podle řádu;
 
 [38] a jednoho kozla jako oběť za hřích – kromě pravidelné zápalné oběti, její moučné oběti a její úlitby.
 
-[39] Toto budete přinášet Yahweh o svých ustanovených svátcích, navíc ke svým slibům a svým dobrovolným darům, jako své zápalné oběti, své moučné oběti, své úlitby a své pokojné oběti.“
+[39] Toto budete přinášet ⟦yhwh|Jahvovi|Hospodinu⟧ o svých ustanovených svátcích, navíc ke svým slibům a svým dobrovolným darům, jako své zápalné oběti, své moučné oběti, své úlitby a své pokojné oběti.“
 
-[40] Moses pověděl synům Israele všechno, co Yahweh Mosesovi přikázal.
+[40] ⟦moses|Moše|Mojžíš⟧ pověděl synům ⟦israel|Jisraele|Izraele⟧ všechno, co ⟦yhwh|Jahve|Hospodin⟧ ⟦moses|Mošovi|Mojžíšovi⟧ přikázal.
 
 ## Změny
 

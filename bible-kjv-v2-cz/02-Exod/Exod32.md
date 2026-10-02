@@ -1,74 +1,74 @@
 # Exodus 32
 
-[1] Když lid viděl, že Moses dlouho nesestupuje z hory, shromáždil se lid kolem Aarona a řekli mu: „Vstaň! Udělej nám bohy, kteří půjdou před námi; neboť co se týče toho Mosese, muže, který nás vyvedl z egyptské země, nevíme, co se s ním stalo.“
+[1] Když lid viděl, že ⟦moses|Moše|Mojžíš⟧ dlouho nesestupuje z hory, shromáždil se lid kolem ⟦aaron|Aharona|Árona⟧ a řekli mu: „Vstaň! Udělej nám bohy, kteří půjdou před námi; neboť co se týče toho ⟦moses|Moše|Mojžíše⟧, muže, který nás vyvedl z egyptské země, nevíme, co se s ním stalo.“
 
-[2] Aaron jim řekl: „Strhněte zlaté kruhy, které jsou v uších vašich žen, vašich synů a vašich dcer, a přineste mi je.“
+[2] ⟦aaron|Aharon|Áron⟧ jim řekl: „Strhněte zlaté kruhy, které jsou v uších vašich žen, vašich synů a vašich dcer, a přineste mi je.“
 
-[3] I strhl si všechen lid zlaté kruhy, které měli v uších, a přinesli je Aaronovi.
+[3] I strhl si všechen lid zlaté kruhy, které měli v uších, a přinesli je ⟦aaron|Aharonovi|Áronovi⟧.
 
-[4] Vzal je z jejich ruky, vytvaroval to rydlem a udělal z toho slité tele; a řekli: „Toto jsou tví bohové, Israeli, kteří tě vyvedli z egyptské země!“
+[4] Vzal je z jejich ruky, vytvaroval to rydlem a udělal z toho slité tele; a řekli: „Toto jsou tví bohové, ⟦israel|Jisraeli|Izraeli⟧, kteří tě vyvedli z egyptské země!“
 
-[5] Když to Aaron uviděl, postavil před ním oltář; a Aaron dal provolat: „Zítra je slavnost pro Yahweh.“
+[5] Když to ⟦aaron|Aharon|Áron⟧ uviděl, postavil před ním oltář; a ⟦aaron|Aharon|Áron⟧ dal provolat: „Zítra je slavnost pro ⟦yhwh|Jahveho|Hospodina⟧.“
 
 [6] Nazítří časně ráno vstali, přinesli zápalné oběti a přivedli pokojné oběti; a lid se posadil, aby jedl a pil, a vstali, aby hýřili.
 
-[7] Tehdy Yahweh řekl Mosesovi: „Hned sestup, neboť tvůj lid, který jsi vyvedl z egyptské země, se zkazil.
+[7] Tehdy ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Hned sestup, neboť tvůj lid, který jsi vyvedl z egyptské země, se zkazil.
 
-[8] Rychle odbočili z cesty, kterou jsem jim přikázal; udělali si slité tele, klaněli se mu, obětovali mu a řekli: ‚Toto jsou tví bohové, Israeli, kteří tě vyvedli z egyptské země.‘“
+[8] Rychle odbočili z cesty, kterou jsem jim přikázal; udělali si slité tele, klaněli se mu, obětovali mu a řekli: ‚Toto jsou tví bohové, ⟦israel|Jisraeli|Izraeli⟧, kteří tě vyvedli z egyptské země.‘“
 
-[9] Yahweh řekl Mosesovi: „Viděl jsem tento lid, a hle, je to lid tvrdé šíje.
+[9] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Viděl jsem tento lid, a hle, je to lid tvrdé šíje.
 
 [10] Nyní mě tedy nech, ať proti nim vzplane můj hněv a ať je zničím; a z tebe udělám veliký národ.“
 
-[11] Ale Moses se snažil obměkčit Yahweh, svého *Elohim*, a řekl: „Yahweh, proč by měl tvůj hněv vzplanout proti tvému lidu, který jsi vyvedl z egyptské země velikou mocí a silnou rukou?
+[11] Ale ⟦moses|Moše|Mojžíš⟧ se snažil obměkčit ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, a řekl: „⟦yhwh|Jahve|Hospodine⟧, proč by měl tvůj hněv vzplanout proti tvému lidu, který jsi vyvedl z egyptské země velikou mocí a silnou rukou?
 
-[12] Proč by měli Egypťané říkat: ‚Ke zlému je vyvedl, aby je pobil v horách a vyhladil je z tváře země‘? Odvrať se od svého planoucího hněvu a upusť od této pohromy na svůj lid.
+[12] Proč by měli ⟦egyptians|Micrim|Egypťané⟧ říkat: ‚Ke zlému je vyvedl, aby je pobil v horách a vyhladil je z tváře země‘? Odvrať se od svého planoucího hněvu a upusť od této pohromy na svůj lid.
 
-[13] Rozpomeň se na Abrahama, Isaaca a Israele, své služebníky, jimž jsi přísahal sám při sobě a řekl jsi jim: ‚Rozmnožím vaše potomstvo jako hvězdy nebes a celou tuto zemi, o níž jsem mluvil, dám vašemu potomstvu, a budou ji dědit navěky.‘“
+[13] Rozpomeň se na ⟦abraham|Avrahama|Abrahama⟧, ⟦isaac|Jicchaka|Izáka⟧ a ⟦israel|Jisraele|Izraele⟧, své služebníky, jimž jsi přísahal sám při sobě a řekl jsi jim: ‚Rozmnožím vaše potomstvo jako hvězdy nebes a celou tuto zemi, o níž jsem mluvil, dám vašemu potomstvu, a budou ji dědit navěky.‘“
 
-[14] I upustil Yahweh od pohromy, o níž řekl, že ji způsobí svému lidu.
+[14] I upustil ⟦yhwh|Jahve|Hospodin⟧ od pohromy, o níž řekl, že ji způsobí svému lidu.
 
-[15] Moses se obrátil a sestupoval z hory se dvěma deskami svědectví v ruce; desky byly popsané po obou stranách – po jedné i po druhé straně byly popsané.
+[15] ⟦moses|Moše|Mojžíš⟧ se obrátil a sestupoval z hory se dvěma deskami svědectví v ruce; desky byly popsané po obou stranách – po jedné i po druhé straně byly popsané.
 
-[16] Desky byly dílem *Elohim* a písmo bylo písmem *Elohim*, vyrytým na deskách.
+[16] Desky byly dílem ⟦elohim|Elohim|Božím⟧ a písmo bylo písmem ⟦elohim|Elohim|Božím⟧, vyrytým na deskách.
 
-[17] Když Joshua uslyšel hluk lidu, jak křičeli, řekl Mosesovi: „V táboře je válečný hluk.“
+[17] Když ⟦joshua|Jehošua|Jozue⟧ uslyšel hluk lidu, jak křičeli, řekl ⟦moses|Mošovi|Mojžíšovi⟧: „V táboře je válečný hluk.“
 
 [18] Ale on řekl: „To není zvuk pokřiku vítězství ani zvuk nářku porážky; slyším zvuk zpěvu.“
 
-[19] Jakmile se přiblížil k táboru, uviděl tele a tance; Mosesův hněv vzplanul a hodil desky ze svých rukou a roztříštil je pod horou.
+[19] Jakmile se přiblížil k táboru, uviděl tele a tance; ⟦moses|Mošův|Mojžíšův⟧ hněv vzplanul a hodil desky ze svých rukou a roztříštil je pod horou.
 
-[20] Vzal tele, které udělali, a spálil je v ohni; rozdrtil je na prach, rozprášil po vodě a dal to pít synům Israele.
+[20] Vzal tele, které udělali, a spálil je v ohni; rozdrtil je na prach, rozprášil po vodě a dal to pít synům ⟦israel|Jisraele|Izraele⟧.
 
-[21] Moses řekl Aaronovi: „Co ti tento lid udělal, že jsi na něj uvedl tak veliký hřích?“
+[21] ⟦moses|Moše|Mojžíš⟧ řekl ⟦aaron|Aharonovi|Áronovi⟧: „Co ti tento lid udělal, že jsi na něj uvedl tak veliký hřích?“
 
-[22] Aaron řekl: „Ať nevzplane hněv mého pána. Ty znáš lid, že je zaměřen na zlo.
+[22] ⟦aaron|Aharon|Áron⟧ řekl: „Ať nevzplane hněv mého pána. Ty znáš lid, že je zaměřen na zlo.
 
-[23] Řekli mi totiž: ‚Udělej nám bohy, kteří půjdou před námi; neboť co se týče toho Mosese, muže, který nás vyvedl z egyptské země, nevíme, co se s ním stalo.‘
+[23] Řekli mi totiž: ‚Udělej nám bohy, kteří půjdou před námi; neboť co se týče toho ⟦moses|Moše|Mojžíše⟧, muže, který nás vyvedl z egyptské země, nevíme, co se s ním stalo.‘
 
 [24] Řekl jsem jim: ‚Kdo má nějaké zlato, ať je strhne.‘ Dali mi je, já jsem je hodil do ohně, a vyšlo z toho toto tele.“
 
-[25] Když Moses viděl, že lid se vymkl uzdě – neboť Aaron jim povolil uzdu, k jejich hanbě před jejich nepřáteli –
+[25] Když ⟦moses|Moše|Mojžíš⟧ viděl, že lid se vymkl uzdě – neboť ⟦aaron|Aharon|Áron⟧ jim povolil uzdu, k jejich hanbě před jejich nepřáteli –
 
-[26] postavil se Moses do brány tábora a řekl: „Kdo je pro Yahweh? Ke mně!“ A shromáždili se k němu všichni synové Leviho.
+[26] postavil se ⟦moses|Moše|Mojžíš⟧ do brány tábora a řekl: „Kdo je pro ⟦yhwh|Jahveho|Hospodina⟧? Ke mně!“ A shromáždili se k němu všichni synové ⟦levi|Leviho|Léviho⟧.
 
-[27] Řekl jim: „Toto praví Yahweh, *Elohim* Israele: ‚Každý si připaš meč k boku; projděte táborem sem a tam, od brány k bráně, a zabijte každý svého bratra, svého druha a svého bližního.‘“
+[27] Řekl jim: „Toto praví ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧: ‚Každý si připaš meč k boku; projděte táborem sem a tam, od brány k bráně, a zabijte každý svého bratra, svého druha a svého bližního.‘“
 
-[28] Synové Leviho učinili, jak Moses přikázal; a toho dne padlo z lidu asi tři tisíce mužů.
+[28] Synové ⟦levi|Leviho|Léviho⟧ učinili, jak ⟦moses|Moše|Mojžíš⟧ přikázal; a toho dne padlo z lidu asi tři tisíce mužů.
 
-[29] Moses řekl: „Dnes jste byli uvedeni do úřadu pro službu Yahweh – každý za cenu svého syna a bratra – aby na vás dnes vložil požehnání.“
+[29] ⟦moses|Moše|Mojžíš⟧ řekl: „Dnes jste byli uvedeni do úřadu pro službu ⟦yhwh|Jahveho|Hospodina⟧ – každý za cenu svého syna a bratra – aby na vás dnes vložil požehnání.“
 
-[30] Nazítří Moses řekl lidu: „Zhřešili jste velikým hříchem. Nyní vystoupím k Yahweh; snad budu moci vykonat smíření za váš hřích.“
+[30] Nazítří ⟦moses|Moše|Mojžíš⟧ řekl lidu: „Zhřešili jste velikým hříchem. Nyní vystoupím k ⟦yhwh|Jahvovi|Hospodinu⟧; snad budu moci vykonat smíření za váš hřích.“
 
-[31] Moses se tedy vrátil k Yahweh a řekl: „Ach, tento lid zhřešil velikým hříchem; udělali si bohy ze zlata.
+[31] ⟦moses|Moše|Mojžíš⟧ se tedy vrátil k ⟦yhwh|Jahvovi|Hospodinu⟧ a řekl: „Ach, tento lid zhřešil velikým hříchem; udělali si bohy ze zlata.
 
 [32] Ale nyní, jestliže jim odpustíš jejich hřích – a jestliže ne, vymaž mě, prosím, ze svého svitku, který jsi napsal.“
 
-[33] Yahweh řekl Mosesovi: „Kdo zhřešil proti mně, toho vymažu ze svého svitku.
+[33] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Kdo zhřešil proti mně, toho vymažu ze svého svitku.
 
 [34] Nyní však jdi, veď lid na místo, o kterém jsem ti mluvil. Hle, můj posel půjde před tebou. Avšak v den, kdy budu trestat, potrestám je za jejich hřích.“
 
-[35] A Yahweh ranil lid ranou, protože udělali tele – to, které udělal Aaron.
+[35] A ⟦yhwh|Jahve|Hospodin⟧ ranil lid ranou, protože udělali tele – to, které udělal ⟦aaron|Aharon|Áron⟧.
 
 ## Změny
 

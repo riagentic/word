@@ -1,80 +1,80 @@
 # Skutky 4
 
-[1] Zatímco mluvili k lidu, přistoupili k nim kněží, velitel chrámové stráže a saduceové,
+[1] Zatímco mluvili k lidu, přistoupili k nim kněží, velitel chrámové stráže a ⟦sadducees|cedukim|saduceové⟧,
 
-[2] velice rozhořčeni, že učí lid a v *Yeshuovi* zvěstují vzkříšení z mrtvých.
+[2] velice rozhořčeni, že učí lid a v ⟦yeshua|Ješuovi|Ježíši⟧ zvěstují vzkříšení z mrtvých.
 
 [3] Zatkli je a dali je do vazby až do druhého dne, neboť byl už večer.
 
 [4] Mnozí z těch, kdo slyšeli slovo, však uvěřili, a počet mužů dosáhl asi pěti tisíc.
 
-[5] Druhého dne se v Jerusalemě shromáždili jejich vůdcové, starší a učitelé Písma,
+[5] Druhého dne se v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧ shromáždili jejich vůdcové, starší a učitelé Písma,
 
-[6] s veleknězem Annasem, Caiaphasem, Johnem, Alexandrem a všemi, kdo byli z veleknězovského rodu.
+[6] s veleknězem ⟦annas|Chananem|Annášem⟧, ⟦caiaphas|Kajafou|Kaifášem⟧, ⟦john|Jochananem|Janem⟧, Alexandrem a všemi, kdo byli z veleknězovského rodu.
 
 [7] Postavili je doprostřed a vyptávali se: „Jakou mocí nebo v jakém jménu jste to učinili vy?“
 
-[8] Tehdy jim *Kefa*, naplněn *Ruach HaQodesh*, řekl: „Vůdcové lidu a starší,
+[8] Tehdy jim ⟦peter|Kefa|Petr⟧, naplněn ⟦ruach-haqodesh|Ruach HaKodeš|Duchem svatým⟧, řekl: „Vůdcové lidu a starší,
 
 [9] jsme-li dnes vyslýcháni kvůli dobrému skutku prokázanému nemocnému člověku, čím byl tento člověk uzdraven,
 
-[10] ať je známo vám všem i všemu lidu Israele, že **jménem *Yeshuy* *Mashiacha* z Nazarethu, kterého jste vy ukřižovali a kterého *Elohim* vzkřísil z mrtvých – skrze něho stojí tento člověk před vámi zdravý**.
+[10] ať je známo vám všem i všemu lidu ⟦israel|Jisraele|Izraele⟧, že **jménem ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧ z ⟦nazareth|Nacratu|Nazareta⟧, kterého jste vy ukřižovali a kterého ⟦elohim|Elohim|Bůh⟧ vzkřísil z mrtvých – skrze něho stojí tento člověk před vámi zdravý**.
 
-[11] Tento *Yeshua* je ‚**kámen, který jste vy, stavitelé, zavrhli, a který se stal kamenem úhelným**‘.
+[11] Tento ⟦yeshua|Ješua|Ježíš⟧ je ‚**kámen, který jste vy, stavitelé, zavrhli, a který se stal kamenem úhelným**‘.
 
 [12] A **v nikom jiném není spása, neboť pod nebem není lidem dáno jiné jméno, jímž bychom měli být spaseni**.“
 
-[13] Když viděli smělost *Kefy* a Johna a pochopili, že jsou to nevzdělaní, prostí lidé, žasli. A poznávali je, že byli s *Yeshuou*.
+[13] Když viděli smělost ⟦peter|Kefy|Petra⟧ a ⟦john|Jochanana|Jana⟧ a pochopili, že jsou to nevzdělaní, prostí lidé, žasli. A poznávali je, že byli s ⟦yeshua|Ješuou|Ježíšem⟧.
 
 [14] Protože však viděli, že uzdravený člověk stojí vedle nich, neměli co namítnout.
 
-[15] Přikázali jim tedy, aby odešli z rady, a radili se spolu
+[15] Přikázali jim tedy, aby odešli ⟦sanhedrin|ze Sanhedrinu|z rady⟧, a radili se spolu
 
-[16] a říkali: „Co s těmi lidmi uděláme? Že se skrze ně stalo zjevné znamení, je známo všem obyvatelům Jerusalemu, a nemůžeme to popřít.
+[16] a říkali: „Co s těmi lidmi uděláme? Že se skrze ně stalo zjevné znamení, je známo všem obyvatelům ⟦jerusalem|Jerušalajim|Jeruzaléma⟧, a nemůžeme to popřít.
 
 [17] Ale aby se to mezi lidem dále nešířilo, pohrozme jim, aby už v tomto jménu k nikomu nemluvili.“
 
-[18] Zavolali je tedy a nařídili jim, aby vůbec nemluvili ani neučili ve jménu *Yeshuy*.
+[18] Zavolali je tedy a nařídili jim, aby vůbec nemluvili ani neučili ve jménu ⟦yeshua|Ješuy|Ježíše⟧.
 
-[19] *Kefa* a John jim však odpověděli: „**Zda je před *Elohim* správné poslouchat více vás než *Elohim*, posuďte sami,**
+[19] ⟦peter|Kefa|Petr⟧ a ⟦john|Jochanan|Jan⟧ jim však odpověděli: „**Zda je před ⟦elohim|Elohim|Bohem⟧ správné poslouchat více vás než ⟦elohim|Elohim|Boha⟧, posuďte sami,**
 
 **[20] neboť my nemůžeme nemluvit o tom, co jsme viděli a slyšeli.**“
 
-[21] Oni jim ještě pohrozili a propustili je, protože nenašli způsob, jak je potrestat, kvůli lidu; všichni totiž oslavovali *Elohim* za to, co se stalo.
+[21] Oni jim ještě pohrozili a propustili je, protože nenašli způsob, jak je potrestat, kvůli lidu; všichni totiž oslavovali ⟦elohim|Elohim|Boha⟧ za to, co se stalo.
 
 [22] Člověku, na němž se stalo toto znamení uzdravení, bylo totiž přes čtyřicet let.
 
 [23] Když byli propuštěni, přišli ke svým a oznámili, co jim řekli velekněží a starší.
 
-[24] Když to uslyšeli, jednomyslně pozvedli hlas k *Elohim* a řekli: „Panovníku, ty, který jsi učinil nebe i zemi i moře a všechno, co je v nich,
+[24] Když to uslyšeli, jednomyslně pozvedli hlas k ⟦elohim|Elohim|Bohu⟧ a řekli: „Panovníku, ty, který jsi učinil nebe i zemi i moře a všechno, co je v nich,
 
-[25] který jsi skrze *Ruach HaQodesh* ústy našeho otce Davida, svého služebníka, řekl:
+[25] který jsi skrze ⟦ruach-haqodesh|Ruach HaKodeš|Ducha svatého⟧ ústy našeho otce Davida, svého služebníka, řekl:
 
 „‚**Proč se bouřily národy
 a lidé marně osnovali plány?
 [26] Postavili se králové země
 a vládcové se spolu shromáždili
-proti Pánu a proti jeho *Mashiachovi***‘ –
+proti ⟦yhwh|Jahvovi|Hospodinu⟧ a proti jeho ⟦mashiach|Mašiachovi|Kristu⟧**‘ –
 
-[27] vskutku se v tomto městě proti tvému svatému služebníku *Yeshuovi*, kterého jsi pomazal, shromáždili Herod i Pontius Pilate s národy i s lidem Israele,
+[27] vskutku se v tomto městě proti tvému svatému služebníku ⟦yeshua|Ješuovi|Ježíši⟧, kterého jsi pomazal, shromáždili Herodes i Pontius ⟦pilate|Pilatus|Pilát⟧ s národy i s lidem ⟦israel|Jisraele|Izraele⟧,
 
 [28] aby učinili, cokoli tvá ruka a tvůj záměr předem určily, že se má stát.
 
 [29] A nyní, Pane, pohleď na jejich hrozby a dej svým služebníkům, aby dále mluvili tvé slovo se vší smělostí,
 
-[30] zatímco ty vztahuješ svou ruku k uzdravování a skrze jméno tvého svatého služebníka *Yeshuy* se dějí znamení a divy.“
+[30] zatímco ty vztahuješ svou ruku k uzdravování a skrze jméno tvého svatého služebníka ⟦yeshua|Ješuy|Ježíše⟧ se dějí znamení a divy.“
 
-[31] Když se pomodlili, zachvělo se místo, kde byli shromážděni, a všichni byli naplněni *Ruach HaQodesh* a dále mluvili slovo *Elohim* se smělostí.
+[31] Když se pomodlili, zachvělo se místo, kde byli shromážděni, a všichni byli naplněni ⟦ruach-haqodesh|Ruach HaKodeš|Duchem svatým⟧ a dále mluvili slovo ⟦elohim|Elohim|Boží⟧ se smělostí.
 
 [32] Celé množství těch, kdo uvěřili, bylo jednoho srdce a jedné duše a nikdo neříkal o ničem z toho, co mu patřilo, že je to jeho vlastní, ale měli všechno společné.
 
-[33] Apoštolové s velkou mocí vydávali svědectví o vzkříšení Pána *Yeshuy* a na nich všech spočívala veliká milost.
+[33] Apoštolové s velkou mocí vydávali svědectví o vzkříšení Pána ⟦yeshua|Ješuy|Ježíše⟧ a na nich všech spočívala veliká milost.
 
 [34] Nebyl mezi nimi nikdo v nouzi, neboť ti, kdo vlastnili pole nebo domy, je prodávali, přinášeli výtěžek z prodaného
 
 [35] a kladli ho k nohám apoštolů; a rozdělovalo se každému, jak kdo potřeboval.
 
-[36] Tak Joseph, kterého apoštolové nazývali také Barnabas (což znamená syn povzbuzení), levita rodem z Cypru,
+[36] Tak Josef, kterého apoštolové nazývali také ⟦barnabas|Bar-Nabba|Barnabáš⟧ (což znamená syn povzbuzení), ⟦levites|Levi|levita⟧ rodem z Kypru,
 
 [37] prodal pole, které mu patřilo, přinesl peníze a položil je k nohám apoštolů.
 

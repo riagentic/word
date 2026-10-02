@@ -1,38 +1,38 @@
 # Numeri 13
 
-[1] Yahweh promluvil k Mosesovi a řekl:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a řekl:
 
-[2] „Pošli muže, aby prozkoumali zemi Canaan, kterou dávám synům Israele; z každého kmene jejich otců pošlete jednoho muže, každý z nich ať je předákem.“
+[2] „Pošli muže, aby prozkoumali zemi Kenaan, kterou dávám synům ⟦israel|Jisraele|Izraele⟧; z každého kmene jejich otců pošlete jednoho muže, každý z nich ať je předákem.“
 
-[3] Moses je tedy poslal z pouště Paran na rozkaz Yahweh; všichni to byli muži, kteří byli hlavami synů Israele.
+[3] ⟦moses|Moše|Mojžíš⟧ je tedy poslal z pouště ⟦paran|Paran|Páran⟧ na rozkaz ⟦yhwh|Jahveho|Hospodina⟧; všichni to byli muži, kteří byli hlavami synů ⟦israel|Jisraele|Izraele⟧.
 
-[4] Toto jsou jejich jména: z kmene Reubena Shammua, syn Zaccura;
+[4] Toto jsou jejich jména: z kmene ⟦reuben|Reuvena|Rúbena⟧ ⟦shammua|Šammua|Šamúa⟧, syn ⟦zaccur|Zakkura|Zakúra⟧;
 
-[5] z kmene Simeona Shaphat, syn Horiho;
+[5] z kmene ⟦simeon|Šimona|Šimeóna⟧ ⟦shaphat|Šafat|Šáfat⟧, syn ⟦hori|Choriho|Chorího⟧;
 
-[6] z kmene Judaha Caleb, syn Jephunneha;
+[6] z kmene ⟦judah|Jehudy|Judy⟧ ⟦caleb|Kalev|Káleb⟧, syn ⟦jephunneh|Jefunneho|Jefunův⟧;
 
-[7] z kmene Issachara Igal, syn Josepha;
+[7] z kmene ⟦issachar|Jissachara|Isachara⟧ ⟦igal|Jigal|Jigál⟧, syn Josefa;
 
-[8] z kmene Ephraima Hoshea, syn Nuna;
+[8] z kmene Efrajima ⟦hoshea|Hošea|Hóšea⟧, syn ⟦nun|Nuna|Núna⟧;
 
-[9] z kmene Benjamina Palti, syn Raphua;
+[9] z kmene ⟦benjamin|Binjamina|Benjamína⟧ ⟦palti|Palti|Paltí⟧, syn ⟦raphu|Rafua|Rafúa⟧;
 
-[10] z kmene Zebuluna Gaddiel, syn Sodiho;
+[10] z kmene ⟦zebulun|Zevuluna|Zabulóna⟧ ⟦gaddiel|Gaddiel|Gadíel⟧, syn ⟦sodi|Sodiho|Sódího⟧;
 
-[11] z kmene Josepha, totiž z kmene Manasseha, Gaddi, syn Susiho;
+[11] z kmene Josefa, totiž z kmene ⟦manasseh|Menaše|Manasesa⟧, ⟦gaddi|Gaddi|Gadí⟧, syn ⟦susi|Susiho|Súsího⟧;
 
-[12] z kmene Dana Ammiel, syn Gemalliho;
+[12] z kmene Dana ⟦ammiel|Ammiel|Amíel⟧, syn ⟦gemalli|Gemalliho|Gemalího⟧;
 
-[13] z kmene Ashera Sethur, syn Michaela;
+[13] z kmene Ašera ⟦sethur|Setur|Setúr⟧, syn ⟦michael|Michaela|Míkaela⟧;
 
-[14] z kmene Naphtaliho Nahbi, syn Vophsiho;
+[14] z kmene ⟦naphtali|Naftaliho|Neftalího⟧ ⟦nahbi|Nachbi|Nachbí⟧, syn ⟦vophsi|Vofsiho|Vofsího⟧;
 
-[15] z kmene Gada Geuel, syn Machiho.
+[15] z kmene ⟦gad|Gada|Gáda⟧ ⟦geuel|Geuel|Geúel⟧, syn ⟦machi|Machiho|Makího⟧.
 
-[16] To jsou jména mužů, které Moses poslal prozkoumat zemi. A Moses nazval Hosheu, syna Nuna, Joshua.
+[16] To jsou jména mužů, které ⟦moses|Moše|Mojžíš⟧ poslal prozkoumat zemi. A ⟦moses|Moše|Mojžíš⟧ nazval ⟦hoshea|Hošeu|Hóšeu⟧, syna ⟦nun|Nuna|Núna⟧, ⟦joshua|Jehošua|Jozue⟧.
 
-[17] Moses je poslal prozkoumat zemi Canaan a řekl jim: „Vystupte tudy přes Negev a vystupte do hornaté krajiny
+[17] ⟦moses|Moše|Mojžíš⟧ je poslal prozkoumat zemi Kenaan a řekl jim: „Vystupte tudy přes ⟦negev|Negev|Negeb⟧ a vystupte do hornaté krajiny
 
 [18] a podívejte se, jaká ta země je; a lid, který v ní bydlí, zda je silný, či slabý, zda je ho málo, či mnoho;
 
@@ -40,31 +40,31 @@
 
 [20] a jaká je ta země, zda tučná, či hubená, zda jsou v ní stromy, či ne. Buďte odvážní a přineste něco z ovoce země.“ Byla to totiž doba prvních zralých hroznů.
 
-[21] Vystoupili tedy a prozkoumali zemi od pouště Zin až po Rehob u Lebo-hamathu.
+[21] Vystoupili tedy a prozkoumali zemi od pouště ⟦zin|Cin|Sin⟧ až po ⟦rehob|Rechov|Rechób⟧ u ⟦lebo-hamath|Levo Chamatu|Lebó-chamátu⟧.
 
-[22] Vystoupili přes Negev a přišli do Hebronu; byli tam Ahiman, Sheshai a Talmai, potomci Anaka. (Hebron byl vystavěn sedm let před Zoanem v Egyptě.)
+[22] Vystoupili přes ⟦negev|Negev|Negeb⟧ a přišli do ⟦hebron|Chevronu|Chebrónu⟧; byli tam ⟦ahiman|Achiman|Achíman⟧, Šešaj a Talmaj, potomci ⟦anak|Anaka|Anáka⟧. (⟦hebron|Chevron|Chebrón⟧ byl vystavěn sedm let před ⟦zoan|Coanem|Sóanem⟧ v ⟦egypt|Micrajim|Egyptě⟧.)
 
-[23] Přišli k vádí Eshkol a tam uřízli ratolest s jediným hroznem vína a nesli ji na tyči ve dvou; přinesli také nějaká granátová jablka a fíky.
+[23] Přišli k vádí ⟦eshcol|Eškol|Eškól⟧ a tam uřízli ratolest s jediným hroznem vína a nesli ji na tyči ve dvou; přinesli také nějaká granátová jablka a fíky.
 
-[24] To místo bylo nazváno vádí Eshkol kvůli hroznu, který tam synové Israele uřízli.
+[24] To místo bylo nazváno vádí ⟦eshcol|Eškol|Eškól⟧ kvůli hroznu, který tam synové ⟦israel|Jisraele|Izraele⟧ uřízli.
 
 [25] Po čtyřiceti dnech se vrátili z průzkumu země.
 
-[26] Šli a přišli k Mosesovi a Aaronovi a k celé pospolitosti synů Israele na poušť Paran, do Kadeshe; podali zprávu jim i celé pospolitosti a ukázali jim ovoce země.
+[26] Šli a přišli k ⟦moses|Mošovi|Mojžíšovi⟧ a ⟦aaron|Aharonovi|Áronovi⟧ a k celé pospolitosti synů ⟦israel|Jisraele|Izraele⟧ na poušť ⟦paran|Paran|Páran⟧, do ⟦kadesh|Kadeše|Kádeše⟧; podali zprávu jim i celé pospolitosti a ukázali jim ovoce země.
 
 [27] Vyprávěli mu a řekli: „Přišli jsme do země, kam jsi nás poslal; opravdu oplývá mlékem a medem a toto je její ovoce.
 
-[28] Avšak lid, který v té zemi bydlí, je silný a města jsou opevněná a velmi veliká; a navíc jsme tam viděli potomky Anaka.
+[28] Avšak lid, který v té zemi bydlí, je silný a města jsou opevněná a velmi veliká; a navíc jsme tam viděli potomky ⟦anak|Anaka|Anáka⟧.
 
-[29] Amalek bydlí v zemi Negev; Hittité, Jebusité a Amorité bydlí v hornaté krajině; a Canaanité bydlí u moře a podél Jordanu.“
+[29] ⟦amalek|Amalek|Amálek⟧ bydlí v zemi ⟦negev|Negev|Negeb⟧; ⟦hittites|Chittim|Chetejci⟧, ⟦jebusites|Jevusim|Jebúsejci⟧ a ⟦amorites|Emorim|Emorejci⟧ bydlí v hornaté krajině; a ⟦canaanites|Kenaanim|Kenaanci⟧ bydlí u moře a podél ⟦jordan|Jardenu|Jordánu⟧.“
 
-[30] Tu Caleb utišil lid před Mosesem a řekl: „Vystupme hned a obsaďme ji, vždyť ji jistě dokážeme přemoci.“
+[30] Tu ⟦caleb|Kalev|Káleb⟧ utišil lid před ⟦moses|Mošem|Mojžíšem⟧ a řekl: „Vystupme hned a obsaďme ji, vždyť ji jistě dokážeme přemoci.“
 
 [31] Ale muži, kteří s ním vystoupili, řekli: „Nedokážeme vystoupit proti tomu lidu, protože je silnější než my.“
 
-[32] A šířili mezi syny Israele zlou pověst o zemi, kterou prozkoumali, a říkali: „Země, kterou jsme prošli, abychom ji prozkoumali, je země, která požírá své obyvatele; a všechen lid, který jsme v ní viděli, jsou muži vysoké postavy.
+[32] A šířili mezi syny ⟦israel|Jisraele|Izraele⟧ zlou pověst o zemi, kterou prozkoumali, a říkali: „Země, kterou jsme prošli, abychom ji prozkoumali, je země, která požírá své obyvatele; a všechen lid, který jsme v ní viděli, jsou muži vysoké postavy.
 
-[33] Viděli jsme tam Nephilim – syny Anaka, kteří pocházejí z Nephilim – a ve vlastních očích jsme byli jako kobylky, a takoví jsme byli i v jejich očích.“
+[33] Viděli jsme tam ⟦nephilim|Nefilim|zrůdy⟧ – syny ⟦anak|Anaka|Anáka⟧, kteří pocházejí z ⟦nephilim|Nefilim|zrůd⟧ – a ve vlastních očích jsme byli jako kobylky, a takoví jsme byli i v jejich očích.“
 
 ## Změny
 

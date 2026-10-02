@@ -7,7 +7,7 @@ než ten, kdo je pokřivený v řeči a je hlupák.
 a kdo spěchá nohama, mine se s cestou.
 
 [3] Když pošetilost člověka přivede jeho cestu ke zkáze,
-jeho srdce se zlobí na Yahweh.
+jeho srdce se zlobí na ⟦yhwh|Jahveho|Hospodina⟧.
 
 [4] Bohatství přivádí mnoho nových přátel,
 ale chudého opouští i jeho přítel.
@@ -41,7 +41,7 @@ ale jeho přízeň jako rosa na trávě.
 a hašteření manželky je ustavičné kapání deště.
 
 [14] Dům a bohatství se dědí po otcích,
-ale prozíravá manželka je od Yahweh.
+ale prozíravá manželka je od ⟦yhwh|Jahveho|Hospodina⟧.
 
 [15] Lenost uvrhá do hlubokého spánku
 a zahálčivá duše bude trpět hladem.
@@ -49,7 +49,7 @@ a zahálčivá duše bude trpět hladem.
 [16] Kdo zachovává přikázání, chrání svou duši;
 kdo pohrdá svými cestami, zemře.
 
-[17] Kdo je štědrý k chudému, půjčuje Yahweh,
+[17] Kdo je štědrý k chudému, půjčuje ⟦yhwh|Jahvovi|Hospodinu⟧,
 a on mu jeho skutek odplatí.
 
 [18] Kázni svého syna, dokud je naděje;
@@ -62,12 +62,12 @@ neboť vysvobodíš-li ho, budeš to muset udělat znovu.
 abys v budoucnu nabyl moudrosti.
 
 [21] Mnoho je záměrů v mysli člověka,
-ale obstojí rada Yahweh.
+ale obstojí rada ⟦yhwh|Jahveho|Hospodina⟧.
 
 [22] Co se na člověku žádá, je věrná láska,
 a chudý je lepší než lhář.
 
-[23] Bázeň Yahweh vede k životu;
+[23] Bázeň ⟦yhwh|Jahveho|Hospodina⟧ vede k životu;
 kdo ji má, odpočívá nasycen; nenavštíví ho žádná škoda.
 
 [24] Lenoch zaboří ruku do mísy

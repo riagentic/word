@@ -1,34 +1,34 @@
 # Esther 3
 
-[1] After these things, King Ahasuerus promoted Haman son of Hammedatha the Agagite, advanced him, and set his seat above all the officials who were with him.
+[1] After these things, King ⟦ahasuerus|Achashverosh|Ahasuerus⟧ promoted Haman son of ⟦hammedatha|Hammedata|Hammedatha⟧ the ⟦agagite|Agagi|Agagite⟧, advanced him, and set his seat above all the officials who were with him.
 
-[2] All the king's servants who were at the king's gate bowed down and paid homage to Haman, for the king had so commanded concerning him. But Mordecai did not bow down or pay him homage.
+[2] All the king's servants who were at the king's gate bowed down and paid homage to Haman, for the king had so commanded concerning him. But ⟦mordecai|Mordechai|Mordecai⟧ did not bow down or pay him homage.
 
-[3] Then the king's servants who were at the king's gate said to Mordecai, "Why do you disobey the king's command?"
+[3] Then the king's servants who were at the king's gate said to ⟦mordecai|Mordechai|Mordecai⟧, "Why do you disobey the king's command?"
 
-[4] When they spoke to him day after day and he did not listen to them, they told Haman, to see whether Mordecai's words would stand; for he had told them that he was a Jew.
+[4] When they spoke to him day after day and he did not listen to them, they told Haman, to see whether ⟦mordecai|Mordechai|Mordecai⟧'s words would stand; for he had told them that he was a ⟦jew|Yehudi|Jew⟧.
 
-[5] When Haman saw that Mordecai did not bow down or pay him homage, Haman was filled with rage.
+[5] When Haman saw that ⟦mordecai|Mordechai|Mordecai⟧ did not bow down or pay him homage, Haman was filled with rage.
 
-[6] But he thought it beneath him to lay hands on Mordecai alone; for they had told him the people of Mordecai. So Haman sought to destroy all the Jews, the people of Mordecai, throughout the whole kingdom of Ahasuerus.
+[6] But he thought it beneath him to lay hands on ⟦mordecai|Mordechai|Mordecai⟧ alone; for they had told him the people of ⟦mordecai|Mordechai|Mordecai⟧. So Haman sought to destroy all the ⟦jews|Yehudim|Jews⟧, the people of ⟦mordecai|Mordechai|Mordecai⟧, throughout the whole kingdom of ⟦ahasuerus|Achashverosh|Ahasuerus⟧.
 
-[7] In the first month, the month of Nisan, in the twelfth year of King Ahasuerus, they cast Pur, that is, the lot, before Haman day by day and month by month; and the lot fell on the twelfth month, the month of Adar.
+[7] In the first month, the month of Nisan, in the twelfth year of King ⟦ahasuerus|Achashverosh|Ahasuerus⟧, they cast Pur, that is, the lot, before Haman day by day and month by month; and the lot fell on the twelfth month, the month of Adar.
 
-[8] Haman said to King Ahasuerus, "There is a certain people scattered and dispersed among the peoples in all the provinces of your kingdom; their laws are different from those of every other people, and they do not keep the king's laws; so it is not in the king's interest to tolerate them.
+[8] Haman said to King ⟦ahasuerus|Achashverosh|Ahasuerus⟧, "There is a certain people scattered and dispersed among the peoples in all the provinces of your kingdom; their laws are different from those of every other people, and they do not keep the king's laws; so it is not in the king's interest to tolerate them.
 
 [9] If it pleases the king, let it be written that they be destroyed; I will pay ten thousand talents of silver into the hands of those who have charge of the work, to bring it into the king's treasuries."
 
-[10] The king took his signet ring from his hand and gave it to Haman son of Hammedatha the Agagite, the enemy of the Jews.
+[10] The king took his signet ring from his hand and gave it to Haman son of ⟦hammedatha|Hammedata|Hammedatha⟧ the ⟦agagite|Agagi|Agagite⟧, the enemy of the ⟦jews|Yehudim|Jews⟧.
 
 [11] The king said to Haman, "The silver is given to you, the people also, to do with them as seems good to you."
 
-[12] Then the king's scribes were summoned on the thirteenth day of the first month; there was written, according to all that Haman had commanded, to the king's satraps and to the governors over every province, and to the officials of every people — each province in its own script and each people in its own language. It was written in the name of King Ahasuerus and sealed with the king's signet ring.
+[12] Then the king's scribes were summoned on the thirteenth day of the first month; there was written, according to all that Haman had commanded, to the king's satraps and to the governors over every province, and to the officials of every people — each province in its own script and each people in its own language. It was written in the name of King ⟦ahasuerus|Achashverosh|Ahasuerus⟧ and sealed with the king's signet ring.
 
-[13] Letters were sent by couriers into all the king's provinces to destroy, to kill, and to annihilate all the Jews, young and old, children and women, in one day — the thirteenth day of the twelfth month, which is the month of Adar — and to plunder their goods.
+[13] Letters were sent by couriers into all the king's provinces to destroy, to kill, and to annihilate all the ⟦jews|Yehudim|Jews⟧, young and old, children and women, in one day — the thirteenth day of the twelfth month, which is the month of Adar — and to plunder their goods.
 
 [14] A copy of the decree to be issued as law in every province was published to all peoples, so that they would be ready for that day.
 
-[15] The couriers went out in haste at the king's command, and the decree was issued in Susa the citadel. The king and Haman sat down to drink; but the city of Susa was in confusion.
+[15] The couriers went out in haste at the king's command, and the decree was issued in ⟦susa|Shushan|Susa⟧ the citadel. The king and Haman sat down to drink; but the city of ⟦susa|Shushan|Susa⟧ was in confusion.
 
 ## Changes
 

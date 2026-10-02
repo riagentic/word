@@ -1,12 +1,12 @@
 # Numeri 10
 
-[1] Yahweh promluvil k Mosesovi a řekl:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a řekl:
 
 [2] „Zhotov si dvě stříbrné trubky; z tepané práce je zhotovíš a budeš je používat ke svolávání pospolitosti a k vytahování táborů.
 
 [3] Když se zatroubí na obě, shromáždí se k tobě celá pospolitost u vchodu do stanu setkávání.
 
-[4] Zatroubí-li se jen na jednu, shromáždí se k tobě předáci, hlavy rodů Israele.
+[4] Zatroubí-li se jen na jednu, shromáždí se k tobě předáci, hlavy rodů ⟦israel|Jisraele|Izraele⟧.
 
 [5] Když zatroubíte troubení – poplašné troubení – vytáhnou tábory na východní straně.
 
@@ -14,70 +14,70 @@
 
 [7] Ale když se má shromáždit shromáždění, budete troubit, ale ne poplašným troubením.
 
-[8] Na trubky budou troubit synové Aarona, kněží; budou vám trvalým ustanovením po všechna vaše pokolení.
+[8] Na trubky budou troubit synové ⟦aaron|Aharona|Árona⟧, kněží; budou vám trvalým ustanovením po všechna vaše pokolení.
 
-[9] Když ve své zemi vytáhnete do války proti protivníkovi, který vás utiskuje, zatroubíte na trubky poplašné troubení a budete připomenuti před Yahweh, svým *Elohim*, a budete zachráněni před svými nepřáteli.
+[9] Když ve své zemi vytáhnete do války proti protivníkovi, který vás utiskuje, zatroubíte na trubky poplašné troubení a budete připomenuti před ⟦yhwh|Jahvem|Hospodinem⟧, svým ⟦elohim|Elohim|Bohem⟧, a budete zachráněni před svými nepřáteli.
 
-[10] Také ve dnech své radosti, o svých ustanovených svátcích a na počátcích svých měsíců budete troubit na trubky nad svými zápalnými oběťmi a nad svými pokojnými oběťmi; budou vám připomínkou před vaším *Elohim*. Já jsem Yahweh, váš *Elohim*.“
+[10] Také ve dnech své radosti, o svých ustanovených svátcích a na počátcích svých měsíců budete troubit na trubky nad svými zápalnými oběťmi a nad svými pokojnými oběťmi; budou vám připomínkou před vaším ⟦elohim|Elohim|Bohem⟧. Já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧.“
 
 [11] Druhého roku, dvacátého dne druhého měsíce, se oblak zvedl zpoza příbytku svědectví.
 
-[12] Synové Israele vytáhli po etapách z pouště Sinai a oblak se usadil na poušti Paran.
+[12] Synové ⟦israel|Jisraele|Izraele⟧ vytáhli po etapách z pouště ⟦sinai|Sinaj|Sínaj⟧ a oblak se usadil na poušti ⟦paran|Paran|Páran⟧.
 
-[13] Tak vytáhli poprvé na rozkaz Yahweh skrze Mosese.
+[13] Tak vytáhli poprvé na rozkaz ⟦yhwh|Jahveho|Hospodina⟧ skrze ⟦moses|Moše|Mojžíše⟧.
 
-[14] V čele šla korouhev tábora synů Judaha podle jejich oddílů; nad jejich oddílem byl Nahshon, syn Amminadaba.
+[14] V čele šla korouhev tábora synů ⟦judah|Jehudy|Judy⟧ podle jejich oddílů; nad jejich oddílem byl ⟦nahshon|Nachšon|Nachšón⟧, syn ⟦amminadab|Amminadava|Amínadaba⟧.
 
-[15] Nad oddílem kmene synů Issachara byl Nethanel, syn Zuara.
+[15] Nad oddílem kmene synů ⟦issachar|Jissachara|Isachara⟧ byl ⟦nethanel|Netanel|Netaneel⟧, syn ⟦zuar|Cuara|Súara⟧.
 
-[16] Nad oddílem kmene synů Zebuluna byl Eliab, syn Helona.
+[16] Nad oddílem kmene synů ⟦zebulun|Zevuluna|Zabulóna⟧ byl ⟦eliab|Eliav|Elíab⟧, syn ⟦helon|Chelona|Chelóna⟧.
 
-[17] Příbytek byl rozebrán a synové Gershona a synové Merariho vytáhli a nesli příbytek.
+[17] Příbytek byl rozebrán a synové ⟦gershon|Geršona|Geršóna⟧ a synové ⟦merari|Merariho|Merarího⟧ vytáhli a nesli příbytek.
 
-[18] Vytáhla korouhev tábora Reubena podle jejich oddílů; nad jejich oddílem byl Elizur, syn Shedeura.
+[18] Vytáhla korouhev tábora ⟦reuben|Reuvena|Rúbena⟧ podle jejich oddílů; nad jejich oddílem byl ⟦elizur|Elicur|Elísur⟧, syn ⟦shedeur|Šedeura|Šedeúra⟧.
 
-[19] Nad oddílem kmene synů Simeona byl Shelumiel, syn Zurishaddaiho.
+[19] Nad oddílem kmene synů ⟦simeon|Šimona|Šimeóna⟧ byl ⟦shelumiel|Šelumiel|Šelumíel⟧, syn ⟦zurishaddai|Curišaddaje|Surišadaje⟧.
 
-[20] Nad oddílem kmene synů Gada byl Eliasaph, syn Deuela.
+[20] Nad oddílem kmene synů ⟦gad|Gada|Gáda⟧ byl Eljasaf, syn ⟦deuel|Deuela|Deúela⟧.
 
-[21] Potom vytáhli Kohathité a nesli svatyni; příbytek byl postaven dříve, než přišli.
+[21] Potom vytáhli ⟦kohathites|Kehati|Kehatovci⟧ a nesli svatyni; příbytek byl postaven dříve, než přišli.
 
-[22] Vytáhla korouhev tábora synů Ephraima podle jejich oddílů; nad jejich oddílem byl Elishama, syn Ammihuda.
+[22] Vytáhla korouhev tábora synů Efrajima podle jejich oddílů; nad jejich oddílem byl ⟦elishama|Elišama|Elíšama⟧, syn ⟦ammihud|Ammihuda|Amíhuda⟧.
 
-[23] Nad oddílem kmene synů Manasseha byl Gamaliel, syn Pedahzura.
+[23] Nad oddílem kmene synů ⟦manasseh|Menaše|Manasesa⟧ byl Gamliel, syn ⟦pedahzur|Pedahcura|Pedasúra⟧.
 
-[24] Nad oddílem kmene synů Benjamina byl Abidan, syn Gideoniho.
+[24] Nad oddílem kmene synů ⟦benjamin|Binjamina|Benjamína⟧ byl ⟦abidan|Avidan|Abídan⟧, syn ⟦gideoni|Gidoniho|Gideóního⟧.
 
-[25] Vytáhla korouhev tábora synů Dana – jako zadní voj všech táborů – podle jejich oddílů; nad jejich oddílem byl Ahiezer, syn Ammishaddaiho.
+[25] Vytáhla korouhev tábora synů Dana – jako zadní voj všech táborů – podle jejich oddílů; nad jejich oddílem byl ⟦ahiezer|Achiezer|Achíezer⟧, syn ⟦ammishaddai|Ammišaddaje|Amíšadaje⟧.
 
-[26] Nad oddílem kmene synů Ashera byl Pagiel, syn Ochrana.
+[26] Nad oddílem kmene synů Ašera byl ⟦pagiel|Pagiel|Pagíel⟧, syn Ochrana.
 
-[27] Nad oddílem kmene synů Naphtaliho byl Ahira, syn Enana.
+[27] Nad oddílem kmene synů ⟦naphtali|Naftaliho|Neftalího⟧ byl ⟦ahira|Achira|Achíra⟧, syn ⟦enan|Ejnana|Énana⟧.
 
-[28] Takový byl pochodový pořádek synů Israele podle jejich oddílů, když vytahovali.
+[28] Takový byl pochodový pořádek synů ⟦israel|Jisraele|Izraele⟧ podle jejich oddílů, když vytahovali.
 
-[29] Moses řekl Hobabovi, synu Midianity Reuela, Mosesova tchána: „Vytahujeme k místu, o kterém Yahweh řekl: ‚Dám vám je.‘ Pojď s námi a dobře ti to oplatíme; neboť Yahweh slíbil Israeli dobro.“
+[29] ⟦moses|Moše|Mojžíš⟧ řekl ⟦hobab|Chovavovi|Chobabovi⟧, synu ⟦midianites|Midjaniho|Midjánce⟧ ⟦reuel|Reuela|Reúela⟧, ⟦moses|Mošova|Mojžíšova⟧ tchána: „Vytahujeme k místu, o kterém ⟦yhwh|Jahve|Hospodin⟧ řekl: ‚Dám vám je.‘ Pojď s námi a dobře ti to oplatíme; neboť ⟦yhwh|Jahve|Hospodin⟧ slíbil ⟦israel|Jisraeli|Izraeli⟧ dobro.“
 
 [30] On mu však řekl: „Nepůjdu; vrátím se do své vlastní země a ke svému příbuzenstvu.“
 
-[31] Moses řekl: „Prosím, neopouštěj nás, vždyť ty víš, kde máme na poušti tábořit, a můžeš nám být očima.
+[31] ⟦moses|Moše|Mojžíš⟧ řekl: „Prosím, neopouštěj nás, vždyť ty víš, kde máme na poušti tábořit, a můžeš nám být očima.
 
-[32] Půjdeš-li s námi, jakékoli dobro nám Yahweh prokáže, totéž prokážeme i tobě.“
+[32] Půjdeš-li s námi, jakékoli dobro nám ⟦yhwh|Jahve|Hospodin⟧ prokáže, totéž prokážeme i tobě.“
 
-[33] Tak vytáhli od hory Yahweh na tři dny cesty; a truhla smlouvy Yahweh šla před nimi po ty tři dny cesty, aby jim vyhledala místo odpočinku.
+[33] Tak vytáhli od hory ⟦yhwh|Jahveho|Hospodina⟧ na tři dny cesty; a truhla smlouvy ⟦yhwh|Jahveho|Hospodina⟧ šla před nimi po ty tři dny cesty, aby jim vyhledala místo odpočinku.
 
-[34] Oblak Yahweh byl nad nimi ve dne, když vytahovali z tábora.
+[34] Oblak ⟦yhwh|Jahveho|Hospodina⟧ byl nad nimi ve dne, když vytahovali z tábora.
 
-[35] Kdykoli truhla vytahovala, Moses říkal:
+[35] Kdykoli truhla vytahovala, ⟦moses|Moše|Mojžíš⟧ říkal:
 
-„Povstaň, Yahweh,
+„Povstaň, ⟦yhwh|Jahve|Hospodine⟧,
 ať se rozprchnou tvoji nepřátelé;
 ať před tebou utečou ti, kdo tě nenávidí.“
 
 [36] A když spočinula, říkal:
 
-„Vrať se, Yahweh,
-k desetitisícům rodů Israele.“
+„Vrať se, ⟦yhwh|Jahve|Hospodine⟧,
+k desetitisícům rodů ⟦israel|Jisraele|Izraele⟧.“
 
 ## Změny
 

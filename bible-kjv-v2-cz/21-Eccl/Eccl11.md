@@ -15,7 +15,7 @@ na místě, kam strom padne, tam zůstane ležet.
 a kdo hledí na oblaka, nebude žnout.
 
 [5] Jako nevíš, jakou cestou přichází duch do kostí v lůně těhotné ženy,
-tak neznáš dílo *Elohim*, který činí všechno.
+tak neznáš dílo ⟦elohim|Elohim|Boha⟧, který činí všechno.
 
 [6] Ráno rozsévej své semeno
 a večer nedávej odpočinout své ruce,
@@ -34,7 +34,7 @@ a ať tě tvé srdce obveseluje ve dnech tvého mládí.
 Choď po cestách svého srdce
 a za tím, co vidí tvé oči.
 Ale věz, že za to všechno
-tě *Elohim* povolá na soud.
+tě ⟦elohim|Elohim|Bůh⟧ povolá na soud.
 
 [10] Odvrať trápení ze svého srdce
 a odlož bolest ze svého těla,

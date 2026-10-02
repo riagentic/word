@@ -1,6 +1,6 @@
 # Deuteronomy 21
 
-[1] "If someone is found slain in the land that Yahweh your *Elohim* is giving you to possess, lying in the open field, and it is not known who has struck him down,
+[1] "If someone is found slain in the land that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is giving you to possess, lying in the open field, and it is not known who has struck him down,
 
 [2] then your elders and your judges shall come out and measure the distance to the cities around the slain one.
 
@@ -8,17 +8,17 @@
 
 [4] and the elders of that city shall bring the heifer down to a valley with running water, which is neither plowed nor sown, and shall break the heifer's neck there in the valley.
 
-[5] The priests, the sons of Levi, shall come near, for Yahweh your *Elohim* has chosen them to minister to him and to bless in the name of Yahweh, and by their word every dispute and every assault shall be decided.
+[5] The priests, the sons of Levi, shall come near, for ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ has chosen them to minister to him and to bless in the name of ⟦yhwh|Yahweh|the LORD⟧, and by their word every dispute and every assault shall be decided.
 
 [6] All the elders of that city who are nearest to the slain man shall wash their hands over the heifer whose neck was broken in the valley;
 
 [7] and they shall declare, 'Our hands did not shed this blood, nor did our eyes see it.
 
-[8] Atone, O Yahweh, for your people Israel whom you have redeemed, and do not impute innocent blood to your people Israel.' And the bloodguilt shall be atoned for them.
+[8] Atone, O ⟦yhwh|Yahweh|LORD⟧, for your people ⟦israel|Yisrael|Israel⟧ whom you have redeemed, and do not impute innocent blood to your people ⟦israel|Yisrael|Israel⟧.' And the bloodguilt shall be atoned for them.
 
-[9] So you shall purge the guilt of innocent blood from your midst, when you do what is right in the eyes of Yahweh.
+[9] So you shall purge the guilt of innocent blood from your midst, when you do what is right in the eyes of ⟦yhwh|Yahweh|the LORD⟧.
 
-[10] When you go out to war against your enemies, and Yahweh your *Elohim* gives them into your hand and you take them captive,
+[10] When you go out to war against your enemies, and ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ gives them into your hand and you take them captive,
 
 [11] and you see among the captives a beautiful woman, and you desire her and would take her as your wife,
 
@@ -40,11 +40,11 @@
 
 [20] and they shall say to the elders of his city, 'This son of ours is stubborn and rebellious; he will not obey our voice; he is a glutton and a drunkard.'
 
-[21] Then all the men of his city shall stone him to death with stones. So you shall purge the evil from your midst; all Israel shall hear, and be afraid.
+[21] Then all the men of his city shall stone him to death with stones. So you shall purge the evil from your midst; all ⟦israel|Yisrael|Israel⟧ shall hear, and be afraid.
 
 [22] If a man has committed a crime punishable by death, and he is put to death, and you hang him on a tree,
 
-[23] his corpse shall not remain on the tree overnight; you shall bury him the same day — for a hanged man is under the curse of *Elohim* — so that you do not defile your land that Yahweh your *Elohim* is giving you for an inheritance.
+[23] his corpse shall not remain on the tree overnight; you shall bury him the same day — for a hanged man is under the curse of ⟦elohim|Elohim|God⟧ — so that you do not defile your land that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is giving you for an inheritance.
 
 ## Changes
 

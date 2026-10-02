@@ -1,54 +1,54 @@
 # Exodus 7
 
-[1] Yahweh said to Moses, "See, I have made you as *Elohim* to Pharaoh, and Aaron your brother shall be your prophet.
+[1] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "See, I have made you as ⟦elohim|Elohim|God⟧ to ⟦pharaoh|Paroh|Pharaoh⟧, and ⟦aaron|Aharon|Aaron⟧ your brother shall be your prophet.
 
-[2] You shall speak all that I command you, and Aaron your brother shall speak to Pharaoh, that he let the children of Israel go out of his land.
+[2] You shall speak all that I command you, and ⟦aaron|Aharon|Aaron⟧ your brother shall speak to ⟦pharaoh|Paroh|Pharaoh⟧, that he let the children of ⟦israel|Yisrael|Israel⟧ go out of his land.
 
-[3] But I will harden Pharaoh's heart, and I will multiply my signs and my wonders in the land of Egypt.
+[3] But I will harden ⟦pharaoh|Paroh|Pharaoh⟧'s heart, and I will multiply my signs and my wonders in the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
-[4] Pharaoh will not listen to you, so that I may lay my hand on Egypt and bring out my hosts — my people, the children of Israel — from the land of Egypt by great judgments.
+[4] ⟦pharaoh|Paroh|Pharaoh⟧ will not listen to you, so that I may lay my hand on ⟦egypt|Mitzrayim|Egypt⟧ and bring out my hosts — my people, the children of ⟦israel|Yisrael|Israel⟧ — from the land of ⟦egypt|Mitzrayim|Egypt⟧ by great judgments.
 
-[5] The Egyptians shall know that I am Yahweh, when I stretch out my hand against Egypt and bring out the children of Israel from among them."
+[5] The ⟦egyptians|Mitzrim|Egyptians⟧ shall know that I am ⟦yhwh|Yahweh|the LORD⟧, when I stretch out my hand against ⟦egypt|Mitzrayim|Egypt⟧ and bring out the children of ⟦israel|Yisrael|Israel⟧ from among them."
 
-[6] Moses and Aaron did so; as Yahweh commanded them, so they did.
+[6] ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧ did so; as ⟦yhwh|Yahweh|the LORD⟧ commanded them, so they did.
 
-[7] Moses was 80 years old, and Aaron 83 years old, when they spoke to Pharaoh.
+[7] ⟦moses|Moshe|Moses⟧ was 80 years old, and ⟦aaron|Aharon|Aaron⟧ 83 years old, when they spoke to ⟦pharaoh|Paroh|Pharaoh⟧.
 
-[8] Yahweh said to Moses and Aaron,
+[8] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧,
 
-[9] "When Pharaoh says to you, 'Show a miracle for yourselves,' then you shall say to Aaron, 'Take your staff and throw it down before Pharaoh; it shall become a serpent.'"
+[9] "When ⟦pharaoh|Paroh|Pharaoh⟧ says to you, 'Show a miracle for yourselves,' then you shall say to ⟦aaron|Aharon|Aaron⟧, 'Take your staff and throw it down before ⟦pharaoh|Paroh|Pharaoh⟧; it shall become a serpent.'"
 
-[10] So Moses and Aaron went in to Pharaoh and did as Yahweh had commanded; Aaron threw down his staff before Pharaoh and before his servants, and it became a serpent.
+[10] So ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧ went in to ⟦pharaoh|Paroh|Pharaoh⟧ and did as ⟦yhwh|Yahweh|the LORD⟧ had commanded; ⟦aaron|Aharon|Aaron⟧ threw down his staff before ⟦pharaoh|Paroh|Pharaoh⟧ and before his servants, and it became a serpent.
 
-[11] Then Pharaoh also called the wise men and the sorcerers; and the diviner-priests of Egypt, they also did the same by their secret arts.
+[11] Then ⟦pharaoh|Paroh|Pharaoh⟧ also called the wise men and the sorcerers; and the diviner-priests of ⟦egypt|Mitzrayim|Egypt⟧, they also did the same by their secret arts.
 
-[12] Each man threw down his staff, and they became serpents; but Aaron's staff swallowed up their staffs.
+[12] Each man threw down his staff, and they became serpents; but ⟦aaron|Aharon|Aaron⟧'s staff swallowed up their staffs.
 
-[13] Yet Pharaoh's heart was hardened, and he did not listen to them, as Yahweh had said.
+[13] Yet ⟦pharaoh|Paroh|Pharaoh⟧'s heart was hardened, and he did not listen to them, as ⟦yhwh|Yahweh|the LORD⟧ had said.
 
-[14] Yahweh said to Moses, "Pharaoh's heart is heavy; he refuses to let the people go.
+[14] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "⟦pharaoh|Paroh|Pharaoh⟧'s heart is heavy; he refuses to let the people go.
 
-[15] Go to Pharaoh in the morning, as he is going out to the water. Stand on the bank of the Nile to meet him, and the staff that was turned into a serpent you shall take in your hand.
+[15] Go to ⟦pharaoh|Paroh|Pharaoh⟧ in the morning, as he is going out to the water. Stand on the bank of the ⟦nile|Yeor|Nile⟧ to meet him, and the staff that was turned into a serpent you shall take in your hand.
 
-[16] And you shall say to him, 'Yahweh, the *Elohim* of the Hebrews, sent me to you, saying: "Let my people go, that they may serve me in the wilderness"; but until now, you have not listened.
+[16] And you shall say to him, '⟦yhwh|Yahweh|The LORD⟧, the ⟦elohim|Elohim|God⟧ of the ⟦hebrews|Ivrim|Hebrews⟧, sent me to you, saying: "Let my people go, that they may serve me in the wilderness"; but until now, you have not listened.
 
-[17] Thus says Yahweh: By this you shall know that I am Yahweh. Behold, I will strike the waters that are in the Nile with the staff in my hand, and they shall be turned to blood.
+[17] Thus says ⟦yhwh|Yahweh|the LORD⟧: By this you shall know that I am ⟦yhwh|Yahweh|the LORD⟧. Behold, I will strike the waters that are in the ⟦nile|Yeor|Nile⟧ with the staff in my hand, and they shall be turned to blood.
 
-[18] The fish in the Nile shall die, and the Nile shall stink, and the Egyptians shall loathe to drink the water of the Nile.'"
+[18] The fish in the ⟦nile|Yeor|Nile⟧ shall die, and the ⟦nile|Yeor|Nile⟧ shall stink, and the ⟦egyptians|Mitzrim|Egyptians⟧ shall loathe to drink the water of the ⟦nile|Yeor|Nile⟧.'"
 
-[19] Yahweh said to Moses, "Say to Aaron, 'Take your staff, and stretch out your hand over the waters of Egypt — over their canals, over their Niles, over their ponds, and over all their reservoirs of water — that they may become blood; and there shall be blood throughout all the land of Egypt, both in vessels of wood and in vessels of stone.'"
+[19] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Say to ⟦aaron|Aharon|Aaron⟧, 'Take your staff, and stretch out your hand over the waters of ⟦egypt|Mitzrayim|Egypt⟧ — over their canals, over their ⟦nile|Yeorim|Niles⟧, over their ponds, and over all their reservoirs of water — that they may become blood; and there shall be blood throughout all the land of ⟦egypt|Mitzrayim|Egypt⟧, both in vessels of wood and in vessels of stone.'"
 
-[20] Moses and Aaron did so, as Yahweh commanded. He lifted up the staff and struck the waters that were in the Nile, in the sight of Pharaoh and in the sight of his servants; and all the waters that were in the Nile were turned to blood.
+[20] ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧ did so, as ⟦yhwh|Yahweh|the LORD⟧ commanded. He lifted up the staff and struck the waters that were in the ⟦nile|Yeor|Nile⟧, in the sight of ⟦pharaoh|Paroh|Pharaoh⟧ and in the sight of his servants; and all the waters that were in the ⟦nile|Yeor|Nile⟧ were turned to blood.
 
-[21] The fish that were in the Nile died, and the Nile stank, and the Egyptians could not drink water from the Nile; and there was blood throughout all the land of Egypt.
+[21] The fish that were in the ⟦nile|Yeor|Nile⟧ died, and the ⟦nile|Yeor|Nile⟧ stank, and the ⟦egyptians|Mitzrim|Egyptians⟧ could not drink water from the ⟦nile|Yeor|Nile⟧; and there was blood throughout all the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
-[22] But the diviner-priests of Egypt did the same by their secret arts; and Pharaoh's heart was hardened, and he did not listen to them, as Yahweh had said.
+[22] But the diviner-priests of ⟦egypt|Mitzrayim|Egypt⟧ did the same by their secret arts; and ⟦pharaoh|Paroh|Pharaoh⟧'s heart was hardened, and he did not listen to them, as ⟦yhwh|Yahweh|the LORD⟧ had said.
 
-[23] Pharaoh turned and went into his house, and he did not take even this to heart.
+[23] ⟦pharaoh|Paroh|Pharaoh⟧ turned and went into his house, and he did not take even this to heart.
 
-[24] All the Egyptians dug around the Nile for water to drink, because they could not drink the water of the Nile.
+[24] All the ⟦egyptians|Mitzrim|Egyptians⟧ dug around the ⟦nile|Yeor|Nile⟧ for water to drink, because they could not drink the water of the ⟦nile|Yeor|Nile⟧.
 
-[25] Seven full days passed after Yahweh had struck the Nile.
+[25] Seven full days passed after ⟦yhwh|Yahweh|the LORD⟧ had struck the ⟦nile|Yeor|Nile⟧.
 
 ## Changes
 

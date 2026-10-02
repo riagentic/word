@@ -1,68 +1,68 @@
 # Genesis 10
 
-[1] These are the generations of the sons of Noah — Shem, Ham, and Japheth — and sons were born to them after the flood.
+[1] These are the generations of the sons of ⟦noah|Noach|Noah⟧ — Shem, ⟦ham|Cham|Ham⟧, and ⟦japheth|Yefet|Japheth⟧ — and sons were born to them after the flood.
 
-[2] The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
+[2] The sons of ⟦japheth|Yefet|Japheth⟧: Gomer, Magog, Madai, ⟦javan|Yavan|Javan⟧, ⟦tubal|Tuval|Tubal⟧, Meshech, and Tiras.
 
-[3] The sons of Gomer: Ashkenaz, Riphath, and Togarmah.
+[3] The sons of Gomer: Ashkenaz, ⟦riphath|Rifat|Riphath⟧, and Togarmah.
 
-[4] The sons of Javan: Elishah, Tarshish, Kittim, and Rodanim.
+[4] The sons of ⟦javan|Yavan|Javan⟧: Elishah, Tarshish, Kittim, and ⟦rodanim|Rodanim|Dodanim⟧.
 
 [5] From these the coastland peoples spread out into their lands, each according to its language, by their clans, in their nations.
 
-[6] The sons of Ham: Cush, Mizraim, Put, and Canaan.
+[6] The sons of ⟦ham|Cham|Ham⟧: ⟦cush|Kush|Cush⟧, ⟦egypt|Mitzrayim|Egypt⟧, Put, and ⟦canaan|Kenaan|Canaan⟧.
 
-[7] The sons of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. The sons of Raamah: Sheba and Dedan.
+[7] The sons of ⟦cush|Kush|Cush⟧: ⟦seba|Seva|Seba⟧, ⟦havilah|Chavilah|Havilah⟧, ⟦sabtah|Savtah|Sabtah⟧, Raamah, and ⟦sabteca|Savtecha|Sabteca⟧. The sons of Raamah: ⟦sheba|Sheva|Sheba⟧ and Dedan.
 
-[8] Cush fathered Nimrod; he was the first to be a mighty warrior on the earth.
+[8] ⟦cush|Kush|Cush⟧ fathered Nimrod; he was the first to be a mighty warrior on the earth.
 
-[9] He was a mighty hunter before Yahweh; therefore it is said, "Like Nimrod, a mighty hunter before Yahweh."
+[9] He was a mighty hunter before ⟦yhwh|Yahweh|the LORD⟧; therefore it is said, "Like Nimrod, a mighty hunter before ⟦yhwh|Yahweh|the LORD⟧."
 
-[10] The beginning of his kingdom was Babel, Erech, Accad, and Calneh, in the land of Shinar.
+[10] The beginning of his kingdom was ⟦babel|Bavel|Babel⟧, Erech, ⟦accad|Akkad|Accad⟧, and ⟦calneh|Kalneh|Calneh⟧, in the land of Shinar.
 
-[11] From that land he went out to Asshur, and he built Nineveh, Rehoboth-Ir, Calah,
+[11] From that land he went out to ⟦assyria|Ashur|Assyria⟧, and he built ⟦nineveh|Ninveh|Nineveh⟧, ⟦rehoboth-ir|Rechovot Ir|Rehoboth-Ir⟧, ⟦calah|Kelach|Calah⟧,
 
-[12] and Resen between Nineveh and Calah; that is the great city.
+[12] and Resen between ⟦nineveh|Ninveh|Nineveh⟧ and ⟦calah|Kelach|Calah⟧; that is the great city.
 
-[13] Mizraim fathered the Ludim, Anamim, Lehabim, Naphtuhim,
+[13] ⟦egypt|Mitzrayim|Egypt⟧ fathered the Ludim, Anamim, ⟦lehabim|Lehavim|Lehabim⟧, ⟦naphtuhim|Naftuchim|Naphtuhim⟧,
 
-[14] Pathrusim, Casluhim (from whom the Philistines came), and Caphtorim.
+[14] ⟦pathrusim|Patrusim|Pathrusim⟧, ⟦casluhim|Kasluchim|Casluhim⟧ (from whom the ⟦philistines|Pelishtim|Philistines⟧ came), and ⟦caphtorim|Kaftorim|Caphtorim⟧.
 
-[15] Canaan fathered Sidon his firstborn, and Heth,
+[15] ⟦canaan|Kenaan|Canaan⟧ fathered ⟦sidon|Tzidon|Sidon⟧ his firstborn, and ⟦heth|Chet|Heth⟧,
 
-[16] and the Jebusites, the Amorites, the Girgashites,
+[16] and the ⟦jebusites|Yevusim|Jebusites⟧, the ⟦amorites|Emorim|Amorites⟧, the ⟦girgashites|Girgashim|Girgashites⟧,
 
-[17] the Hivites, the Arkites, the Sinites,
+[17] the ⟦hivites|Chivvim|Hivites⟧, the ⟦arkites|Arqim|Arkites⟧, the ⟦sinites|Sinim|Sinites⟧,
 
-[18] the Arvadites, the Zemarites, and the Hamathites. Afterward the clans of the Canaanites spread out;
+[18] the ⟦arvadites|Arvadim|Arvadites⟧, the ⟦zemarites|Tzemarim|Zemarites⟧, and the ⟦hamathites|Chamatim|Hamathites⟧. Afterward the clans of the ⟦canaanites|Kenaanim|Canaanites⟧ spread out;
 
-[19] and the border of the Canaanites extended from Sidon in the direction of Gerar as far as Gaza, and in the direction of Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha.
+[19] and the border of the ⟦canaanites|Kenaanim|Canaanites⟧ extended from ⟦sidon|Tzidon|Sidon⟧ in the direction of Gerar as far as ⟦gaza|Azzah|Gaza⟧, and in the direction of ⟦sodom|Sedom|Sodom⟧, ⟦gomorrah|Amorah|Gomorrah⟧, Admah, and ⟦zeboiim|Tzevoyim|Zeboiim⟧, as far as ⟦lasha|Lesha|Lasha⟧.
 
-[20] These are the sons of Ham, by their clans, by their languages, in their lands, in their nations.
+[20] These are the sons of ⟦ham|Cham|Ham⟧, by their clans, by their languages, in their lands, in their nations.
 
-[21] To Shem also, the father of all the children of Eber, the older brother of Japheth, children were born.
+[21] To Shem also, the father of all the children of ⟦eber|Ever|Eber⟧, the older brother of ⟦japheth|Yefet|Japheth⟧, children were born.
 
-[22] The sons of Shem: Elam, Asshur, Arpachshad, Lud, and Aram.
+[22] The sons of Shem: Elam, ⟦asshur|Ashur|Asshur⟧, Arpachshad, Lud, and Aram.
 
-[23] The sons of Aram: Uz, Hul, Gether, and Mash.
+[23] The sons of Aram: ⟦uz|Utz|Uz⟧, ⟦hul|Chul|Hul⟧, ⟦gether|Geter|Gether⟧, and Mash.
 
-[24] Arpachshad fathered Shelah, and Shelah fathered Eber.
+[24] Arpachshad fathered Shelah, and Shelah fathered ⟦eber|Ever|Eber⟧.
 
-[25] To Eber were born two sons; the name of the one was Peleg, for in his days the earth was divided; and his brother's name was Joktan.
+[25] To ⟦eber|Ever|Eber⟧ were born two sons; the name of the one was Peleg, for in his days the earth was divided; and his brother's name was ⟦joktan|Yoqtan|Joktan⟧.
 
-[26] Joktan fathered Almodad, Sheleph, Hazarmaveth, Jerah,
+[26] ⟦joktan|Yoqtan|Joktan⟧ fathered Almodad, ⟦sheleph|Shalef|Sheleph⟧, ⟦hazarmaveth|Chatzarmavet|Hazarmaveth⟧, ⟦jerah|Yerach|Jerah⟧,
 
-[27] Hadoram, Uzal, Diklah,
+[27] Hadoram, Uzal, ⟦diklah|Diqlah|Diklah⟧,
 
-[28] Obal, Abimael, Sheba,
+[28] ⟦obal|Oval|Obal⟧, ⟦abimael|Avimael|Abimael⟧, ⟦sheba|Sheva|Sheba⟧,
 
-[29] Ophir, Havilah, and Jobab; all these were the sons of Joktan.
+[29] ⟦ophir|Ofir|Ophir⟧, ⟦havilah|Chavilah|Havilah⟧, and ⟦jobab|Yovav|Jobab⟧; all these were the sons of ⟦joktan|Yoqtan|Joktan⟧.
 
-[30] Their settlement extended from Mesha in the direction of Sephar, the mountain of the east.
+[30] Their settlement extended from Mesha in the direction of ⟦sephar|Sefar|Sephar⟧, the mountain of the east.
 
 [31] These are the sons of Shem, by their clans, by their languages, in their lands, in their nations.
 
-[32] These are the clans of the sons of Noah, by their generations, in their nations; and from these the nations spread out on the earth after the flood.
+[32] These are the clans of the sons of ⟦noah|Noach|Noah⟧, by their generations, in their nations; and from these the nations spread out on the earth after the flood.
 
 ## Changes
 

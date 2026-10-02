@@ -6,7 +6,7 @@
 
 [3] Vaše zlato a stříbro zrezivělo a jeho rez bude svědčit proti vám a bude žrát vaše tělo jako oheň. Nahromadili jste poklady v posledních dnech.
 
-[4] Hle, mzda dělníků, kteří sklízeli vaše pole a kterou jste podvodně zadrželi, křičí proti vám, a volání ženců doléhá k uším Pána zástupů.
+[4] Hle, mzda dělníků, kteří sklízeli vaše pole a kterou jste podvodně zadrželi, křičí proti vám, a volání ženců doléhá k uším ⟦yhwh|Jahveho|Hospodina⟧ ⟦tzevaot|Sabaot|zástupů⟧.
 
 [5] Žili jste na zemi v přepychu a v rozmařilosti. Vykrmili jste svá srdce v den porážky.
 
@@ -20,7 +20,7 @@
 
 [10] Za příklad utrpení a trpělivosti si, bratři, vezměte proroky, kteří mluvili ve jménu Pána.
 
-[11] Hle, blahoslavíme ty, kdo vytrvali. Slyšeli jste o vytrvalosti Joba a viděli jste Pánův konec, neboť Pán je plný soucitu a milosrdný.
+[11] Hle, blahoslavíme ty, kdo vytrvali. Slyšeli jste o vytrvalosti ⟦job|Ijova|Jóba⟧ a viděli jste ⟦yhwh|konec Jahveho|Pánův konec⟧, neboť ⟦yhwh|Jahve|Pán⟧ je plný soucitu a milosrdný.
 
 [12] Především však, moji bratři, nepřísahejte ani při nebi, ani při zemi, ani žádnou jinou přísahou, ale vaše „ano“ ať je ano a vaše „ne“ ať je ne, abyste nepropadli odsouzení.
 
@@ -32,7 +32,7 @@
 
 [16] **Vyznávejte si proto navzájem hříchy a modlete se jeden za druhého, abyste byli uzdraveni. Modlitba spravedlivého má velikou moc, když působí.**
 
-[17] Elijah byl člověk stejné povahy jako my, a vroucně se modlil, aby nepršelo, a nepršelo na zemi tři roky a šest měsíců.
+[17] ⟦elijah|Elijahu|Eliáš⟧ byl člověk stejné povahy jako my, a vroucně se modlil, aby nepršelo, a nepršelo na zemi tři roky a šest měsíců.
 
 [18] Potom se znovu modlil, a nebe dalo déšť a země vydala svou úrodu.
 

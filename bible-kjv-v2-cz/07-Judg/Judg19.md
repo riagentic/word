@@ -1,8 +1,8 @@
 # Soudců 19
 
-[1] V těch dnech, kdy nebyl v Israeli král, pobýval jako host v odlehlých končinách pohoří Ephraim jeden Levita; vzal si ženinu z Bethlehemu v Judahu.
+[1] V těch dnech, kdy nebyl v ⟦israel|Jisraeli|Izraeli⟧ král, pobýval jako host v odlehlých končinách pohoří Efrajim jeden ⟦levites|Levi|lévijec⟧; vzal si ženinu z ⟦bethlehem|Bejt Lechemu|Betléma⟧ v ⟦judah|Jehudě|Judě⟧.
 
-[2] Jeho ženina mu byla nevěrná a odešla od něj do domu svého otce v Bethlehemu v Judahu a zůstala tam čtyři měsíce.
+[2] Jeho ženina mu byla nevěrná a odešla od něj do domu svého otce v ⟦bethlehem|Bejt Lechemu|Betlémě⟧ v ⟦judah|Jehudě|Judě⟧ a zůstala tam čtyři měsíce.
 
 [3] Její muž vstal a šel za ní, aby k ní mluvil něžně a přivedl ji zpět; měl s sebou svého služebníka a pár oslů. Uvedla ho do domu svého otce; a když ho otec mladé ženy uviděl, s radostí ho přivítal.
 
@@ -18,23 +18,23 @@
 
 [9] Když se ten muž chystal odejít, on, jeho ženina a jeho služebník, řekl mu jeho tchán, otec mladé ženy: „Hle, den se chýlí k večeru. Prosím, přenocujte. Hle, den se krátí; zůstaň tu přes noc a ať je tvé srdce veselé. Zítra můžete časně vstát na cestu a jít domů.“
 
-[10] Ale ten muž nechtěl přenocovat; vstal, odešel a přišel naproti Jebusu (to je Jerusalem) se dvěma osedlanými osly a se svou ženinou.
+[10] Ale ten muž nechtěl přenocovat; vstal, odešel a přišel naproti ⟦jebus|Jevusu|Jebúsu⟧ (to je ⟦jerusalem|Jerušalajim|Jeruzalém⟧) se dvěma osedlanými osly a se svou ženinou.
 
-[11] Když byli u Jebusu, den už značně pokročil; a služebník řekl svému pánu: „Pojď, prosím, zajděme do tohoto města Jebusitů a přenocujme v něm.“
+[11] Když byli u ⟦jebus|Jevusu|Jebúsu⟧, den už značně pokročil; a služebník řekl svému pánu: „Pojď, prosím, zajděme do tohoto města ⟦jebusites|Jevusim|Jebúsejců⟧ a přenocujme v něm.“
 
-[12] Jeho pán mu řekl: „Nezajdeme do města cizinců, kteří nejsou ze synů Israele; půjdeme dál do Gibeah.“
+[12] Jeho pán mu řekl: „Nezajdeme do města cizinců, kteří nejsou ze synů ⟦israel|Jisraele|Izraele⟧; půjdeme dál do ⟦gibeah|Givy|Gibeje⟧.“
 
-[13] Řekl svému služebníku: „Pojď, přiblížíme se k některému z těch míst a přenocujeme v Gibeah nebo v Ramah.“
+[13] Řekl svému služebníku: „Pojď, přiblížíme se k některému z těch míst a přenocujeme v ⟦gibeah|Givě|Gibeji⟧ nebo v ⟦ramah|Ramě|Rámě⟧.“
 
-[14] Šli tedy dál svou cestou; slunce jim zapadlo u Gibeah, které patří Benjaminovi.
+[14] Šli tedy dál svou cestou; slunce jim zapadlo u ⟦gibeah|Givy, která patří|Gibeje, která patří⟧ ⟦benjamin|Binjaminovi|Benjamínovi⟧.
 
-[15] Zašli tam, aby vešli a přenocovali v Gibeah. Vešel a posadil se na náměstí města, neboť nikdo je nevzal k sobě domů na noc.
+[15] Zašli tam, aby vešli a přenocovali v ⟦gibeah|Givě|Gibeji⟧. Vešel a posadil se na náměstí města, neboť nikdo je nevzal k sobě domů na noc.
 
-[16] A hle, večer přicházel z práce na poli jeden stařec. Ten muž byl z pohoří Ephraim a pobýval v Gibeah jako host; muži toho místa byli Benjaminité.
+[16] A hle, večer přicházel z práce na poli jeden stařec. Ten muž byl z pohoří Efrajim a pobýval v ⟦gibeah|Givě|Gibeji⟧ jako host; muži toho místa byli ⟦benjaminite|Bnej Jemini|Benjamínovci⟧.
 
 [17] Pozvedl oči a uviděl pocestného na náměstí města; a stařec řekl: „Kam jdeš? Odkud přicházíš?“
 
-[18] Řekl mu: „Jsme na cestě z Bethlehemu v Judahu do odlehlých končin pohoří Ephraim – odkud jsem. Šel jsem do Bethlehemu v Judahu a teď jdu k domu Yahweh; ale nikdo mě nevezme k sobě domů.
+[18] Řekl mu: „Jsme na cestě z ⟦bethlehem|Bejt Lechemu|Betléma⟧ v ⟦judah|Jehudě|Judě⟧ do odlehlých končin pohoří Efrajim – odkud jsem. Šel jsem do ⟦bethlehem|Bejt Lechemu|Betléma⟧ v ⟦judah|Jehudě|Judě⟧ a teď jdu k domu ⟦yhwh|Jahveho|Hospodina⟧; ale nikdo mě nevezme k sobě domů.
 
 [19] Máme slámu i píci pro své osly a také chléb a víno pro sebe, pro tvou služebnici a pro mladíka, který je s tvými služebníky. Nemáme nedostatek ničeho.“
 
@@ -42,7 +42,7 @@
 
 [21] Uvedl ho tedy do svého domu a dal oslům píci; umyli si nohy, jedli a pili.
 
-[22] Když se veselili, hle, muži města – synové Belialovi – obklíčili dům a bušili do dveří. Mluvili k pánu domu, starci: „Vyveď toho muže, který vešel do tvého domu, abychom ho poznali.“
+[22] Když se veselili, hle, muži města – ⟦belial|synové Belijjaalovi|ničemníci⟧ – obklíčili dům a bušili do dveří. Mluvili k pánu domu, starci: „Vyveď toho muže, který vešel do tvého domu, abychom ho poznali.“
 
 [23] Ten muž, pán domu, k nim vyšel a řekl jim: „Ne, moji bratři, prosím, nejednejte tak zle. Když tento muž vešel do mého domu, nedopouštějte se této hanebnosti.
 
@@ -56,9 +56,9 @@
 
 [28] Řekl jí: „Vstaň, pojďme.“ Ale nebylo odpovědi. Tu ji ten muž naložil na osla, vstal a šel do svého místa.
 
-[29] Když vešel do svého domu, vzal nůž, uchopil svou ženinu a rozsekal ji, úd po údu, na dvanáct kusů a rozeslal ji po celém území Israele.
+[29] Když vešel do svého domu, vzal nůž, uchopil svou ženinu a rozsekal ji, úd po údu, na dvanáct kusů a rozeslal ji po celém území ⟦israel|Jisraele|Izraele⟧.
 
-[30] Všichni, kdo to viděli, říkali: „Nic takového se nestalo ani nebylo vidět ode dne, kdy synové Israele vyšli ze země Egypt, až do tohoto dne. Uvažte to, poraďte se a promluvte!“
+[30] Všichni, kdo to viděli, říkali: „Nic takového se nestalo ani nebylo vidět ode dne, kdy synové ⟦israel|Jisraele|Izraele⟧ vyšli ze země ⟦egypt|Micrajim|Egypt⟧, až do tohoto dne. Uvažte to, poraďte se a promluvte!“
 
 ## Změny
 

@@ -1,7 +1,7 @@
 # Izajáš 53
 
 [1] Kdo uvěřil tomu, co od nás slyšeli?
-A komu byla zjevena paže Yahweh?
+A komu byla zjevena paže ⟦yhwh|Jahveho|Hospodina⟧?
 
 [2] Vyrostl totiž před ním jako mladý výhonek,
 jako kořen z vyprahlé země;
@@ -16,7 +16,7 @@ byl opovržený a nevážili jsme si ho.
 [4] Jistě on nesl naše trápení
 a vzal na sebe naše bolesti;
 my jsme ho však měli za raněného,
-zbitého od *Elohim* a pokořeného.
+zbitého od ⟦elohim|Elohim|Boha⟧ a pokořeného.
 
 [5] Byl však probodený pro naše přestoupení,
 zdrcený pro naše viny;
@@ -25,7 +25,7 @@ a jeho ranami jsme uzdraveni.
 
 [6] Všichni jsme jako ovce bloudili,
 obrátili jsme se – každý – na svou vlastní cestu;
-a Yahweh na něj vložil
+a ⟦yhwh|Jahve|Hospodin⟧ na něj vložil
 vinu nás všech.
 
 [7] Byl utlačován a pokořován,
@@ -44,11 +44,11 @@ a s boháčem ve smrti,
 ačkoli se nedopustil žádného násilí
 a v jeho ústech nebyla lest.
 
-[10] A přece bylo vůlí Yahweh ho zdrtit;
+[10] A přece bylo vůlí ⟦yhwh|Jahveho|Hospodina⟧ ho zdrtit;
 uvrhl ho do trápení;
 když jeho duše přinese oběť za vinu,
 uzří své potomstvo, prodlouží své dny;
-vůle Yahweh se v jeho ruce zdaří.
+vůle ⟦yhwh|Jahveho|Hospodina⟧ se v jeho ruce zdaří.
 
 [11] Z trýzně své duše uzří a nasytí se;
 svým poznáním spravedlivý, můj služebník,

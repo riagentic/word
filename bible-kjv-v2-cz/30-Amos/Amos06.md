@@ -1,13 +1,13 @@
 # Ámos 6
 
-[1] „Běda bezstarostným na Zionu
-a těm, kdo se cítí bezpečni na hoře Samarie,
+[1] „Běda bezstarostným na ⟦zion|Cijonu|Sijónu⟧
+a těm, kdo se cítí bezpečni na hoře ⟦samaria|Šomronu|Samaří⟧,
 vznešeným mužům prvního z národů,
-k nimž přichází dům Israele!
+k nimž přichází dům ⟦israel|Jisraele|Izraele⟧!
 
-[2] Přejděte do Calneh a pohleďte,
-odtud jděte do Hamath velikého;
-pak sestupte do Gath Philistinců.
+[2] Přejděte do Kalne a pohleďte,
+odtud jděte do ⟦hamath|Chamatu|Chamátu⟧ velikého;
+pak sestupte do Gatu ⟦philistines|Pelištim|Pelištejců⟧.
 Jste snad lepší než tato království?
 Nebo je jejich území větší než vaše území,
 
@@ -24,35 +24,35 @@ a jako David si vymýšlejí hudební nástroje,
 
 [6] kdo pijí víno z mís
 a mažou se nejlepšími oleji,
-ale netrápí se nad zkázou Josepha!
+ale netrápí se nad zkázou Josefa!
 
 [7] Proto nyní půjdou do vyhnanství jako první
 a hodokvas rozvalujících se pomine.“
 
-[8] Pán Yahweh přísahal sám při sobě, je výrok Yahweh, *Elohim* zástupů:
+[8] ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ přísahal sám při sobě, je výrok ⟦yhwh|Jahveho|Hospodina⟧, ⟦elohim|Elohim|Boha⟧ zástupů:
 
-„Hnusí se mi pýcha Jacoba
+„Hnusí se mi pýcha ⟦jacob|Jaakova|Jákoba⟧
 a nenávidím jeho pevnosti;
 vydám město i všechno, co je v něm.“
 
 [9] A zůstane-li v jednom domě deset mužů, zemřou.
 
-[10] A když někoho vyzvedne jeho příbuzný, ten, kdo ho pomaže k pohřbu, aby vynesl kosti z domu, a řekne tomu, kdo je v nejzazší části domu: „Je s tebou ještě někdo?“ odpoví: „Ne.“ A on řekne: „Ticho! Nesmíme zmínit jméno Yahweh.“
+[10] A když někoho vyzvedne jeho příbuzný, ten, kdo ho pomaže k pohřbu, aby vynesl kosti z domu, a řekne tomu, kdo je v nejzazší části domu: „Je s tebou ještě někdo?“ odpoví: „Ne.“ A on řekne: „Ticho! Nesmíme zmínit jméno ⟦yhwh|Jahveho|Hospodina⟧.“
 
-[11] Neboť hle, Yahweh přikazuje a veliký dům bude rozbit na trosky a malý dům na kousky.
+[11] Neboť hle, ⟦yhwh|Jahve|Hospodin⟧ přikazuje a veliký dům bude rozbit na trosky a malý dům na kousky.
 
 [12] Běhají snad koně po skalách?
 Orá se tam snad s voly?
 Vy jste však obrátili právo v jed
 a ovoce spravedlnosti v pelyněk –
 
-[13] vy, kdo se radujete z Lo-debar („Nic“),
-kdo říkáte: „Což jsme si vlastní silou nedobyli Karnaim („Rohy“)?“
+[13] vy, kdo se radujete z ⟦lo-debar|Lo-devaru|Lódebaru⟧ („Nic“),
+kdo říkáte: „Což jsme si vlastní silou nedobyli Karnajim („Rohy“)?“
 
 [14] „Neboť hle, vzbudím proti vám národ,
-dome Israele,“ je výrok Yahweh, *Elohim* zástupů,
+dome ⟦israel|Jisraele|Izraele⟧,“ je výrok ⟦yhwh|Jahveho|Hospodina⟧, ⟦elohim|Elohim|Boha⟧ zástupů,
 „a budou vás utlačovat
-od Lebo-Hamath až k potoku Arabah.“
+od ⟦lebo-hamath|Levo Chamatu|Lebó-chamátu⟧ až k potoku ⟦arabah|Aravy|pustiny⟧.“
 
 ## Změny
 

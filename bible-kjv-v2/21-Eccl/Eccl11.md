@@ -15,7 +15,7 @@ in the place where the tree falls, there it will lie.
 and he who regards the clouds will not reap.
 
 [5] As you do not know the way the spirit comes to the bones in the womb of a woman with child,
-so you do not know the work of *Elohim* who makes everything.
+so you do not know the work of ⟦elohim|Elohim|God⟧ who makes everything.
 
 [6] In the morning sow your seed,
 and at evening withhold not your hand,
@@ -34,7 +34,7 @@ and let your heart cheer you in the days of your youth.
 Walk in the ways of your heart
 and the sight of your eyes.
 But know that for all these things
-*Elohim* will bring you into judgment.
+⟦elohim|Elohim|God⟧ will bring you into judgment.
 
 [10] Remove vexation from your heart,
 and put away pain from your body,

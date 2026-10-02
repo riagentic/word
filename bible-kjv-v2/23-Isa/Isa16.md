@@ -2,11 +2,11 @@
 
 [1] Send the lamb to the ruler of the land,
 from Sela, by way of the desert,
-to the mount of the daughter of Zion.
+to the mount of the daughter of ⟦zion|Tziyon|Zion⟧.
 
 [2] Like fleeing birds,
 like a scattered nest,
-so are the daughters of Moab
+so are the daughters of ⟦moab|Moav|Moab⟧
 at the fords of the Arnon.
 
 [3] "Give counsel;
@@ -16,7 +16,7 @@ at the height of noon;
 shelter the outcasts;
 do not reveal the fugitive;
 
-[4] let the outcasts of Moab
+[4] let the outcasts of ⟦moab|Moav|Moab⟧
 sojourn among you;
 be a shelter to them
 from the destroyer."
@@ -30,29 +30,29 @@ in the tent of David
 one who judges and seeks justice
 and is swift to do righteousness.
 
-[6] We have heard of the pride of Moab —
+[6] We have heard of the pride of ⟦moab|Moav|Moab⟧ —
 how proud he is! —
 of his arrogance, his pride, and his insolence;
 in his idle boasting he is not right.
 
-[7] Therefore let Moab wail for Moab,
+[7] Therefore let ⟦moab|Moav|Moab⟧ wail for ⟦moab|Moav|Moab⟧,
 let everyone wail.
 Mourn, utterly stricken,
-for the raisin cakes of Kir-hareseth.
+for the raisin cakes of ⟦kir-hareseth|Qir Chareset|Kir-hareseth⟧.
 
-[8] For the fields of Heshbon languish,
-and the vine of Sibmah;
+[8] For the fields of ⟦heshbon|Cheshbon|Heshbon⟧ languish,
+and the vine of ⟦sibmah|Sivmah|Sibmah⟧;
 the lords of the nations
 have struck down its branches,
-which reached to Jazer
+which reached to ⟦jazer|Yazer|Jazer⟧
 and strayed to the desert;
 its shoots spread abroad
 and passed over the sea.
 
-[9] Therefore I weep with the weeping of Jazer
-for the vine of Sibmah;
+[9] Therefore I weep with the weeping of ⟦jazer|Yazer|Jazer⟧
+for the vine of ⟦sibmah|Sivmah|Sibmah⟧;
 I drench you with my tears,
-O Heshbon and Elealeh;
+O ⟦heshbon|Cheshbon|Heshbon⟧ and ⟦elealeh|Elaleh|Elealeh⟧;
 for over your summer fruit and your harvest
 the shout has ceased.
 
@@ -61,16 +61,16 @@ and in the vineyards no songs are sung, no cheers raised;
 no treader treads out wine in the presses;
 I have put an end to the shouting.
 
-[11] Therefore my inner parts moan like a lyre for Moab,
-and my inmost self for Kir-hareseth.
+[11] Therefore my inner parts moan like a lyre for ⟦moab|Moav|Moab⟧,
+and my inmost self for ⟦kir-heres|Qir Cheres|Kir-hareseth⟧.
 
-[12] And when Moab presents himself, when he wearies himself on the high place,
+[12] And when ⟦moab|Moav|Moab⟧ presents himself, when he wearies himself on the high place,
 when he comes to his sanctuary to pray,
 he will not prevail.
 
-[13] This is the word that Yahweh spoke concerning Moab in the past.
+[13] This is the word that ⟦yhwh|Yahweh|the LORD⟧ spoke concerning ⟦moab|Moav|Moab⟧ in the past.
 
-[14] But now Yahweh has spoken, saying, "In three years, like the years of a hired worker, the glory of Moab will be brought into contempt, in spite of all his great multitude, and those who remain will be very few and feeble."
+[14] But now ⟦yhwh|Yahweh|the LORD⟧ has spoken, saying, "In three years, like the years of a hired worker, the glory of ⟦moab|Moav|Moab⟧ will be brought into contempt, in spite of all his great multitude, and those who remain will be very few and feeble."
 
 ## Changes
 

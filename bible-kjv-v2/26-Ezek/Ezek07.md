@@ -1,8 +1,8 @@
 # Ezekiel 7
 
-[1] The word of Yahweh came to me:
+[1] The word of ⟦yhwh|Yahweh|the LORD⟧ came to me:
 
-[2] "And you, O son of man, thus says Lord Yahweh to the land of Israel:
+[2] "And you, O son of man, thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧ to the land of ⟦israel|Yisrael|Israel⟧:
 
 'An end! The end has come
 upon the four corners of the land.
@@ -15,9 +15,9 @@ and I will punish you for all your abominations.
 [4] My eye will not spare you, nor will I have pity,
 but I will punish you for your ways,
 while your abominations are in your midst.
-Then you will know that I am Yahweh.'"
+Then you will know that I am ⟦yhwh|Yahweh|the LORD⟧.'"
 
-[5] Thus says Lord Yahweh:
+[5] Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧:
 
 "Disaster after disaster! Behold, it comes.
 
@@ -38,7 +38,7 @@ and I will punish you for all your abominations.
 [9] And my eye will not spare, nor will I have pity.
 I will punish you according to your ways,
 while your abominations are in your midst.
-Then you will know that I am Yahweh, who strikes.
+Then you will know that I am ⟦yhwh|Yahweh|the LORD⟧, who strikes.
 
 [10] Behold, the day!
 Behold, it comes!
@@ -84,7 +84,7 @@ and baldness on all their heads.
 [19] They cast their silver into the streets,
 and their gold is like an unclean thing.
 Their silver and gold are not able to deliver them
-in the day of the wrath of Yahweh.
+in the day of the wrath of ⟦yhwh|Yahweh|the LORD⟧.
 They cannot satisfy their hunger
 or fill their stomachs with it.
 For it was the stumbling block of their iniquity.
@@ -116,14 +116,14 @@ but there shall be none.
 [26] Disaster comes upon disaster;
 rumor follows rumor.
 They seek a vision from the prophet,
-while the Law perishes from the priest
+while the ⟦torah|Torah|law⟧ perishes from the priest
 and counsel from the elders.
 
 [27] The king mourns, the prince is wrapped in despair,
 and the hands of the people of the land are paralyzed by terror.
 According to their way I will do to them,
 and according to their judgments I will judge them,
-and they shall know that I am Yahweh."
+and they shall know that I am ⟦yhwh|Yahweh|the LORD⟧."
 
 ## Changes
 

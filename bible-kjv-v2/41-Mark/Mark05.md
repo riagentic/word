@@ -2,7 +2,7 @@
 
 [1] They came to the other side of the sea, to the country of the Gerasenes.
 
-[2] And when *Yeshua* had stepped out of the boat, immediately there met him out of the tombs a man with an unclean spirit.
+[2] And when ⟦yeshua|Yeshua|Jesus⟧ had stepped out of the boat, immediately there met him out of the tombs a man with an unclean spirit.
 
 [3] He lived among the tombs. And no one could bind him anymore, not even with a chain,
 
@@ -10,13 +10,13 @@
 
 [5] Night and day among the tombs and on the mountains he was always crying out and cutting himself with stones.
 
-[6] And when he saw *Yeshua* from afar, he ran and fell down before him.
+[6] And when he saw ⟦yeshua|Yeshua|Jesus⟧ from afar, he ran and fell down before him.
 
-[7] And crying out with a loud voice, he said, "What have you to do with me, *Yeshua*, Son of the Most High *Elohim*? I adjure you by *Elohim*, do not torment me."
+[7] And crying out with a loud voice, he said, "What have you to do with me, ⟦yeshua|Yeshua|Jesus⟧, Son of the Most High ⟦elohim|Elohim|God⟧? I adjure you by ⟦elohim|Elohim|God⟧, do not torment me."
 
 [8] For he was saying to him, "Come out of the man, you unclean spirit!"
 
-[9] And *Yeshua* asked him, "What is your name?" He replied, "My name is Legion, for we are many."
+[9] And ⟦yeshua|Yeshua|Jesus⟧ asked him, "What is your name?" He replied, "My name is Legion, for we are many."
 
 [10] And he begged him earnestly not to send them out of the country.
 
@@ -28,21 +28,21 @@
 
 [14] The herdsmen fled and told it in the city and in the country. And people came to see what it was that had happened.
 
-[15] And they came to *Yeshua* and saw the demon-possessed man, the one who had had the legion, sitting there, clothed and in his right mind, and they were afraid.
+[15] And they came to ⟦yeshua|Yeshua|Jesus⟧ and saw the demon-possessed man, the one who had had the legion, sitting there, clothed and in his right mind, and they were afraid.
 
 [16] And those who had seen it described to them what had happened to the demon-possessed man and to the pigs.
 
-[17] And they began to beg *Yeshua* to depart from their region.
+[17] And they began to beg ⟦yeshua|Yeshua|Jesus⟧ to depart from their region.
 
 [18] As he was getting into the boat, the man who had been possessed with demons begged him that he might be with him.
 
 [19] And he did not permit him but said to him, "Go home to your friends and tell them how much the Lord has done for you, and how he has had mercy on you."
 
-[20] And he went away and began to proclaim in the Decapolis — how much *Yeshua* had done for him, and everyone marveled.
+[20] And he went away and began to proclaim in the Decapolis — how much ⟦yeshua|Yeshua|Jesus⟧ had done for him, and everyone marveled.
 
-[21] And when *Yeshua* had crossed again in the boat to the other side, a great crowd gathered about him, and he was beside the sea.
+[21] And when ⟦yeshua|Yeshua|Jesus⟧ had crossed again in the boat to the other side, a great crowd gathered about him, and he was beside the sea.
 
-[22] Then came one of the rulers of the synagogue, Jairus by name, and seeing him, he fell at his feet
+[22] Then came one of the rulers of the synagogue, ⟦jairus|Yair|Jairus⟧ by name, and seeing him, he fell at his feet
 
 [23] and implored him earnestly, saying, "My little daughter is at the point of death. Come and lay your hands on her, so that she may be made well and live."
 
@@ -52,13 +52,13 @@
 
 [26] and who had suffered much under many physicians, and had spent all that she had, and was no better but rather grew worse.
 
-[27] She had heard the reports about *Yeshua* and came up behind him in the crowd and touched his garment.
+[27] She had heard the reports about ⟦yeshua|Yeshua|Jesus⟧ and came up behind him in the crowd and touched his garment.
 
 [28] For she said, "If I touch even his garments, I will be made well."
 
 [29] And immediately the flow of blood dried up, and she felt in her body that she was healed of her disease.
 
-[30] And *Yeshua*, perceiving in himself that power had gone out from him, immediately turned about in the crowd and said, "Who touched my garments?"
+[30] And ⟦yeshua|Yeshua|Jesus⟧, perceiving in himself that power had gone out from him, immediately turned about in the crowd and said, "Who touched my garments?"
 
 [31] And his disciples said to him, "You see the crowd pressing around you, and yet you say, 'Who touched me?'"
 
@@ -70,17 +70,17 @@
 
 [35] While he was still speaking, there came from the ruler's house some who said, "Your daughter is dead. Why trouble the Teacher any further?"
 
-[36] But overhearing what they said, *Yeshua* said to the ruler of the synagogue, "**Do not fear, only believe.**"
+[36] But overhearing what they said, ⟦yeshua|Yeshua|Jesus⟧ said to the ruler of the synagogue, "**Do not fear, only believe.**"
 
-[37] And he allowed no one to follow him except *Kefa* and Jacob and John the brother of Jacob.
+[37] And he allowed no one to follow him except ⟦peter|Kefa|Peter⟧ and ⟦james|Yaaqov|James⟧ and ⟦john|Yochanan|John⟧ the brother of ⟦james|Yaaqov|James⟧.
 
-[38] They came to the house of the ruler of the synagogue, and *Yeshua* saw a commotion, people weeping and wailing loudly.
+[38] They came to the house of the ruler of the synagogue, and ⟦yeshua|Yeshua|Jesus⟧ saw a commotion, people weeping and wailing loudly.
 
 [39] And when he had entered, he said to them, "Why are you making a commotion and weeping? The child is not dead but sleeping."
 
 [40] And they laughed at him. But he put them all outside and took the child's father and mother and those who were with him and went in where the child was.
 
-[41] Taking her by the hand he said to her, "***Talitha kumi***," which means, "Little girl, I say to you, arise."
+[41] Taking her by the hand he said to her, "**⟦talitha-kumi|Talitha kumi|Talitha cumi⟧**," which means, "Little girl, I say to you, arise."
 
 [42] And immediately the girl got up and began walking (for she was twelve years of age), and they were immediately overcome with amazement.
 

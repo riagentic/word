@@ -1,76 +1,77 @@
 # Genesis 46
 
-[1] Israel se tedy vydal na cestu se vším, co měl, přišel do Beersheby a přinesl oběti *Elohim* svého otce Isaaca.
+[1] ⟦israel|Jisrael|Izrael⟧ se tedy vydal na cestu se vším, co měl, přišel do ⟦beersheba|Beer Ševy|Beer-šeby⟧ a přinesl oběti ⟦elohim|Elohim|Bohu⟧ svého otce ⟦isaac|Jicchaka|Izáka⟧.
 
-[2] *Elohim* promluvil k Israelovi v nočních viděních a řekl: „Jacobe, Jacobe!“ On odpověděl: „Tady jsem.“
+[2] ⟦elohim|Elohim|Bůh⟧ promluvil k ⟦israel|Jisraelovi|Izraelovi⟧ v nočních viděních a řekl: „⟦jacob|Jaakove|Jákobe⟧, ⟦jacob|Jaakove|Jákobe⟧!“ On odpověděl: „Tady jsem.“
 
-[3] Řekl: „Já jsem *Elohim*, *Elohim* tvého otce. Neboj se sestoupit do Egypta, neboť tam z tebe učiním veliký národ.
+[3] Řekl: „Já jsem ⟦el|El|Bůh⟧, ⟦elohim|Elohim|Bůh⟧ tvého otce. Neboj se sestoupit do ⟦egypt|Micrajim|Egypta⟧, neboť tam z tebe učiním veliký národ.
 
-[4] Já sám sestoupím s tebou do Egypta a já sám tě také jistě zase vyvedu nahoru; a Joseph ti svou rukou zatlačí oči.“
+[4] Já sám sestoupím s tebou do ⟦egypt|Micrajim|Egypta⟧ a já sám tě také jistě zase vyvedu nahoru; a Josef ti svou rukou zatlačí oči.“
 
-[5] Potom Jacob vstal a odešel z Beersheby; a synové Israele vezli svého otce Jacoba, své malé děti a své manželky na vozech, které Pharaoh poslal, aby ho převezly.
+[5] Potom ⟦jacob|Jaakov|Jákob⟧ vstal a odešel z ⟦beersheba|Beer Ševy|Beer-šeby⟧; a synové ⟦israel|Jisraele|Izraele⟧ vezli svého otce ⟦jacob|Jaakova|Jákoba⟧, své malé děti a své manželky na vozech, které ⟦pharaoh|Paro|farao⟧ poslal, aby ho převezly.
 
-[6] Vzali svůj dobytek a svůj majetek, který získali v zemi Canaan, a přišli do Egypta – Jacob a všechno jeho potomstvo s ním,
+[6] Vzali svůj dobytek a svůj majetek, který získali v zemi Kenaan, a přišli do ⟦egypt|Micrajim|Egypta⟧ – ⟦jacob|Jaakov|Jákob⟧ a všechno jeho potomstvo s ním,
 
-[7] jeho synové a synové jeho synů s ním, jeho dcery a dcery jeho synů; všechno své potomstvo přivedl s sebou do Egypta.
+[7] jeho synové a synové jeho synů s ním, jeho dcery a dcery jeho synů; všechno své potomstvo přivedl s sebou do ⟦egypt|Micrajim|Egypta⟧.
 
-[8] Toto jsou jména synů Israele, kteří přišli do Egypta: Jacob a jeho synové. Reuben, Jacobův prvorozený.
+[8] Toto jsou jména synů ⟦israel|Jisraele|Izraele⟧, kteří přišli do ⟦egypt|Micrajim|Egypta⟧: ⟦jacob|Jaakov|Jákob⟧ a jeho synové. ⟦reuben|Reuven|Rúben⟧, ⟦jacob|Jaakovův|Jákobův⟧ prvorozený.
 
-[9] Synové Reubena: Hanoch, Pallu, Hezron a Carmi.
+[9] Synové ⟦reuben|Reuvena|Rúbena⟧: ⟦hanoch|Chanoch|Chanók⟧, ⟦pallu|Pallu|Palú⟧, ⟦hezron|Checron|Chesrón⟧ a ⟦carmi|Karmi|Karmí⟧.
 
-[10] Synové Simeona: Jemuel, Jamin, Ohad, Jachin, Zohar a Shaul, syn Canaanky.
+[10] Synové ⟦simeon|Šimona|Šimeóna⟧: ⟦jemuel|Jemuel|Jemúel⟧, ⟦jamin|Jamin|Jamín⟧, Ohad, ⟦jachin|Jachin|Jakín⟧, ⟦zohar|Cochar|Sóchar⟧ a Šaul, syn ⟦canaanites|Kenaanit|Kenaanky⟧.
 
-[11] Synové Leviho: Gershon, Kohath a Merari.
+[11] Synové ⟦levi|Leviho|Léviho⟧: ⟦gershon|Geršon|Geršón⟧, Kehat a ⟦merari|Merari|Merarí⟧.
 
-[12] Synové Judaha: Er, Onan, Shelah, Perez a Zerah; ale Er a Onan zemřeli v zemi Canaan. Synové Pereze byli Hezron a Hamul.
+[12] Synové ⟦judah|Jehudy|Judy⟧: Er, ⟦onan|Onan|Ónan⟧, Šela, ⟦perez|Perec|Peres⟧ a Zerach; ale Er a ⟦onan|Onan|Ónan⟧ zemřeli v zemi Kenaan. Synové ⟦perez|Perece|Perese⟧ byli ⟦hezron|Checron|Chesrón⟧ a ⟦hamul|Chamul|Chamúl⟧.
 
-[13] Synové Issachara: Tola, Puvah, Iob a Shimron.
+[13] Synové ⟦issachar|Jissachara|Isachara⟧: ⟦tola|Tola|Tóla⟧, ⟦puvah|Puvva|Púva⟧, ⟦iob|Jov|Jób⟧ a ⟦shimron|Šimron|Šimrón⟧.
 
-[14] Synové Zebuluna: Sered, Elon a Jahleel.
+[14] Synové ⟦zebulun|Zevuluna|Zabulóna⟧: Sered, ⟦elon|Elon|Elón⟧ a Jachleel.
 
-[15] To jsou synové Leah, které porodila Jacobovi v Paddan-Aramu, spolu s jeho dcerou Dinah; všech jeho synů a dcer bylo třicet tři osoby.
+[15] To jsou synové Ley, které porodila ⟦jacob|Jaakovovi|Jákobovi⟧ v ⟦paddan-aram|Padan Aramu|Rovinách aramských⟧, spolu s jeho dcerou ⟦dinah|Dinou|Dínou⟧; všech jeho synů a dcer bylo třicet tři osoby.
 
-[16] Synové Gada: Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi a Areli.
+[16] Synové ⟦gad|Gada|Gáda⟧: ⟦ziphion|Cifjon|Sifjón⟧, ⟦haggi|Chaggi|Chagí⟧, ⟦shuni|Šuni|Šúni⟧, ⟦ezbon|Ecbon|Esbón⟧, ⟦eri|Eri|Érí⟧, ⟦arodi|Arodi|Aródi⟧ a ⟦areli|Areli|Arelí⟧.
 
-[17] Synové Ashera: Imnah, Ishvah, Ishvi, Beriah a jejich sestra Serah. Synové Beriaha: Heber a Malchiel.
+[17] Synové Ašera: Jimna, Jišva, ⟦ishvi|Jišvi|Jišví⟧, ⟦beriah|Beria|Bería⟧ a jejich sestra Serach. Synové ⟦beriah|Berii|Beríi⟧: ⟦heber|Chever|Cheber⟧ a ⟦malchiel|Malkiel|Malkíel⟧.
 
-[18] To jsou synové Zilpah, kterou dal Laban své dceři Leah; ta je porodila Jacobovi – šestnáct osob.
+[18] To jsou synové Zilpy, kterou dal ⟦laban|Lavan|Lában⟧ své dceři Lee; ta je porodila ⟦jacob|Jaakovovi|Jákobovi⟧ – šestnáct osob.
 
-[19] Synové Rachel, Jacobovy manželky: Joseph a Benjamin.
+[19] Synové ⟦rachel|Rachel|Ráchel⟧, ⟦jacob|Jaakovovy|Jákobovy⟧ manželky: Josef a ⟦benjamin|Binjamin|Benjamín⟧.
 
-[20] Josephovi se v egyptské zemi narodili Manasseh a Ephraim, které mu porodila Asenath, dcera Potiphery, kněze v On.
+[20] Josefovi se v egyptské zemi narodili ⟦manasseh|Menaše|Manases⟧ a Efrajim, které mu porodila ⟦asenath|Asnat|Asenat⟧, dcera ⟦potiphera|Poti-Fery|Potífery⟧, kněze v ⟦on|Onu|Ónu⟧.
 
-[21] Synové Benjamina: Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim a Ard.
+[21] Synové ⟦benjamin|Binjamina|Benjamína⟧: Bela, ⟦becher|Becher|Beker⟧, Ašbel, ⟦gera|Gera|Géra⟧, ⟦naaman|Naaman|Naamán⟧, ⟦ehi|Echi|Echí⟧, Roš, Mupim, Chupim a Ard.
 
-[22] To jsou synové Rachel, kteří se narodili Jacobovi – celkem čtrnáct osob.
+[22] To jsou synové ⟦rachel|Rachel|Ráchel⟧, kteří se narodili ⟦jacob|Jaakovovi|Jákobovi⟧ – celkem čtrnáct osob.
 
-[23] Synové Dana: Hushim.
+[23] Synové Dana: Chušim.
 
-[24] Synové Naphtaliho: Jahzeel, Guni, Jezer a Shillem.
+[24] Synové ⟦naphtali|Naftaliho|Neftalího⟧: ⟦jahzeel|Jachceel|Jachseel⟧, ⟦guni|Guni|Guní⟧, ⟦jezer|Jecer|Jeser⟧ a ⟦shillem|Šillem|Šilém⟧.
 
-[25] To jsou synové Bilhah, kterou dal Laban své dceři Rachel; a ta je porodila Jacobovi – celkem sedm osob.
+[25] To jsou synové Bilhy, kterou dal ⟦laban|Lavan|Lában⟧ své dceři ⟦rachel|Rachel|Ráchel⟧; a ta je porodila ⟦jacob|Jaakovovi|Jákobovi⟧ – celkem sedm osob.
 
-[26] Všech osob, které přišly s Jacobem do Egypta a byly jeho přímými potomky, kromě manželek Jacobových synů, bylo celkem šedesát šest.
+[26] Všech osob, které přišly s ⟦jacob|Jaakovem|Jákobem⟧ do ⟦egypt|Micrajim|Egypta⟧ a byly jeho přímými potomky, kromě manželek ⟦jacob|Jaakovových|Jákobových⟧ synů, bylo celkem šedesát šest.
 
-[27] Josephovi synové, kteří se mu narodili v Egyptě, byli dvě osoby. Všech osob z domu Jacoba, které přišly do Egypta, bylo sedmdesát.
+[27] Josefovi synové, kteří se mu narodili v ⟦egypt|Micrajim|Egyptě⟧, byli dvě osoby. Všech osob z domu ⟦jacob|Jaakova|Jákoba⟧, které přišly do ⟦egypt|Micrajim|Egypta⟧, bylo sedmdesát.
 
-[28] Poslal před sebou Judaha k Josephovi, aby mu ukázal cestu do Goshen; a přišli do země Goshen.
+[28] Poslal před sebou ⟦judah|Jehudu|Judu⟧ k Josefovi, aby mu ukázal cestu do Gošenu; a přišli do země Gošen.
 
-[29] Joseph zapřáhl svůj vůz a vyjel naproti svému otci Israelovi do Goshen; ukázal se mu, padl mu kolem krku a dlouho plakal na jeho krku.
+[29] Josef zapřáhl svůj vůz a vyjel naproti svému otci ⟦israel|Jisraelovi|Izraelovi⟧ do Gošenu; ukázal se mu, padl mu kolem krku a dlouho plakal na jeho krku.
 
-[30] Tu Israel řekl Josephovi: „Teď ať zemřu, když jsem viděl tvou tvář a vím, že ještě žiješ.“
+[30] Tu ⟦israel|Jisrael|Izrael⟧ řekl Josefovi: „Teď ať zemřu, když jsem viděl tvou tvář a vím, že ještě žiješ.“
 
-[31] Joseph řekl svým bratrům a domu svého otce: „Půjdu nahoru a oznámím to Pharaohovi a řeknu mu: ‚Moji bratři a dům mého otce, kteří byli v zemi Canaan, přišli ke mně;
+[31] Josef řekl svým bratrům a domu svého otce: „Půjdu nahoru a oznámím to ⟦pharaoh|Parohovi|faraónovi⟧ a řeknu mu: ‚Moji bratři a dům mého otce, kteří byli v zemi Kenaan, přišli ke mně;
 
 [32] a ti muži jsou pastýři ovcí, neboť chovají dobytek; a přivedli svá stáda ovcí, svá stáda skotu a všechno, co mají.‘
 
-[33] Až vás Pharaoh zavolá a řekne: ‚Jaké je vaše zaměstnání?‘,
+[33] Až vás ⟦pharaoh|Paro|farao⟧ zavolá a řekne: ‚Jaké je vaše zaměstnání?‘,
 
-[34] řeknete: ‚Tvoji služebníci chovali dobytek od svého mládí až dosud, my i naši otcové‘ – abyste mohli bydlet v zemi Goshen, neboť každý pastýř ovcí je pro Egypťany ohavností.“
+[34] řeknete: ‚Tvoji služebníci chovali dobytek od svého mládí až dosud, my i naši otcové‘ – abyste mohli bydlet v zemi Gošen, neboť každý pastýř ovcí je pro ⟦egyptians|Micrim|Egypťany⟧ ohavností.“
 
 ## Změny
 
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
+- **"I am God" → „Já jsem El“** (v3) – hebrejsky הָאֵל *ha-El*, následuje אֱלֹהֵי אָבִיךָ „*Elohim* tvého otce“.
 - **"visions of the night" → „noční vidění“ (v2)** – hebrejsky בְּמַרְאֹת הַלַּיְלָה *be-mar'ot ha-laylah*. Noční vidění / zjevení ve snu.
 - **"Joseph shall put his hand upon thine eyes" → „Joseph ti svou rukou zatlačí oči“** (v4) – hebrejsky וְיוֹסֵף יָשִׁית יָדוֹ עַל־עֵינֶיךָ. Starověký idiom: zatlačit oči umírajícímu – rituální synovská povinnost. Joseph, kterého Jacob považoval za mrtvého, naopak Jacobovi při jeho vlastní smrti zatlačí oči.
 - **"souls" → „osoby“** (v15, 18, 22, 25, 26, 27) – hebrejsky נֶפֶשׁ *nephesh*. Zde metonymicky = osoby (jako ve 12:5).

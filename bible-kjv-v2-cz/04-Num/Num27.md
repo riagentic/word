@@ -1,50 +1,50 @@
 # Numeri 27
 
-[1] Tu předstoupily dcery Zelophehada, syna Hephera, syna Gileada, syna Machira, syna Manasseha, z rodů Manasseha, syna Josepha. Jména jeho dcer byla Mahlah, Noah, Hoglah, Milcah a Tirzah.
+[1] Tu předstoupily dcery ⟦zelophehad|Celofchada|Selofchada⟧, syna Chefera, syna ⟦gilead|Gilada|Gileáda⟧, syna ⟦machir|Machira|Makíra⟧, syna ⟦manasseh|Menaše|Manasesa⟧, z rodů ⟦manasseh|Menaše|Manasesa⟧, syna Josefa. Jména jeho dcer byla Machla, ⟦noa|Noa|Nóa⟧, Chogla, Milka a ⟦tirzah|Tirca|Tirsa⟧.
 
-[2] Postavily se před Mosese, před kněze Eleazara, před předáky a celou pospolitost u vchodu do stanu setkávání a řekly:
+[2] Postavily se před ⟦moses|Moše|Mojžíše⟧, před kněze ⟦eleazar|Elazara|Eleazara⟧, před předáky a celou pospolitost u vchodu do stanu setkávání a řekly:
 
-[3] „Náš otec zemřel na poušti; nebyl v tlupě těch, kdo se shromáždili proti Yahweh – v Korahově tlupě – ale zemřel pro svůj vlastní hřích a neměl syny.
+[3] „Náš otec zemřel na poušti; nebyl v tlupě těch, kdo se shromáždili proti ⟦yhwh|Jahvovi|Hospodinu⟧ – v ⟦korah|Korachově|Kórachově⟧ tlupě – ale zemřel pro svůj vlastní hřích a neměl syny.
 
 [4] Proč by mělo být jméno našeho otce odňato z jeho rodu, jen proto, že neměl syna? Dejte nám vlastnictví mezi bratry našeho otce.“
 
-[5] Moses předložil jejich při před Yahweh.
+[5] ⟦moses|Moše|Mojžíš⟧ předložil jejich při před ⟦yhwh|Jahvem|Hospodinem⟧.
 
-[6] Yahweh promluvil k Mosesovi a řekl:
+[6] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a řekl:
 
-[7] „Dcery Zelophehada mluví správně. Jistě jim dáš vlastnictví do dědictví mezi bratry jejich otce a převedeš na ně dědictví jejich otce.
+[7] „Dcery ⟦zelophehad|Celofchada|Selofchada⟧ mluví správně. Jistě jim dáš vlastnictví do dědictví mezi bratry jejich otce a převedeš na ně dědictví jejich otce.
 
-[8] Synům Israele řekni: ‚Jestliže muž zemře a nemá syna, převedete jeho dědictví na jeho dceru.
+[8] Synům ⟦israel|Jisraele|Izraele⟧ řekni: ‚Jestliže muž zemře a nemá syna, převedete jeho dědictví na jeho dceru.
 
 [9] Nemá-li dceru, dáte jeho dědictví jeho bratrům.
 
 [10] Nemá-li bratry, dáte jeho dědictví bratrům jeho otce.
 
-[11] Nemá-li jeho otec bratry, dáte jeho dědictví nejbližšímu příbuznému z jeho rodu a ten je bude vlastnit.‘ To bude pro syny Israele zákonným ustanovením, jak Yahweh přikázal Mosesovi.“
+[11] Nemá-li jeho otec bratry, dáte jeho dědictví nejbližšímu příbuznému z jeho rodu a ten je bude vlastnit.‘ To bude pro syny ⟦israel|Jisraele|Izraele⟧ zákonným ustanovením, jak ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧.“
 
-[12] Yahweh řekl Mosesovi: „Vystup na toto pohoří Abarim a podívej se na zemi, kterou jsem dal synům Israele.
+[12] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Vystup na toto pohoří ⟦abarim|Avarim|Abarím⟧ a podívej se na zemi, kterou jsem dal synům ⟦israel|Jisraele|Izraele⟧.
 
-[13] Až ji uvidíš, budeš také ty připojen ke svému lidu, jako byl připojen tvůj bratr Aaron;
+[13] Až ji uvidíš, budeš také ty připojen ke svému lidu, jako byl připojen tvůj bratr ⟦aaron|Aharon|Áron⟧;
 
-[14] protože jste se na poušti Zin při sváru pospolitosti vzepřeli mému rozkazu, abyste mě u vody před jejich očima ctili jako svatého.“ (To jsou vody Meribah u Kadeshe na poušti Zin.)
+[14] protože jste se na poušti ⟦zin|Cin|Sin⟧ při sváru pospolitosti vzepřeli mému rozkazu, abyste mě u vody před jejich očima ctili jako svatého.“ (To jsou vody ⟦meribah|Meriva|Meriba⟧ u ⟦kadesh|Kadeše|Kádeše⟧ na poušti ⟦zin|Cin|Sin⟧.)
 
-[15] Moses promluvil k Yahweh a řekl:
+[15] ⟦moses|Moše|Mojžíš⟧ promluvil k ⟦yhwh|Jahvovi|Hospodinu⟧ a řekl:
 
-[16] „Ať Yahweh, *Elohim* duchů všeho těla, ustanoví nad pospolitostí muže,
+[16] „Ať ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ duchů všeho těla, ustanoví nad pospolitostí muže,
 
-[17] který bude před nimi vycházet a před nimi vcházet, který je bude vyvádět a přivádět, aby pospolitost Yahweh nebyla jako ovce bez pastýře.“
+[17] který bude před nimi vycházet a před nimi vcházet, který je bude vyvádět a přivádět, aby pospolitost ⟦yhwh|Jahveho|Hospodina⟧ nebyla jako ovce bez pastýře.“
 
-[18] Yahweh řekl Mosesovi: „Vezmi Joshuu, syna Nuna, muže, v němž je duch, a vlož na něj svou ruku.
+[18] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Vezmi ⟦joshua|Jehošuu|Jozua⟧, syna ⟦nun|Nuna|Núna⟧, muže, v němž je duch, a vlož na něj svou ruku.
 
-[19] Postav ho před kněze Eleazara a celou pospolitost a před jejich očima ho pověř.
+[19] Postav ho před kněze ⟦eleazar|Elazara|Eleazara⟧ a celou pospolitost a před jejich očima ho pověř.
 
-[20] Dáš mu část své autority, aby ho poslouchala celá pospolitost synů Israele.
+[20] Dáš mu část své autority, aby ho poslouchala celá pospolitost synů ⟦israel|Jisraele|Izraele⟧.
 
-[21] Bude stát před knězem Eleazarem, který se za něj bude dotazovat rozhodnutím Urim před Yahweh. Na jeho slovo budou vycházet a na jeho slovo budou vcházet – on i všichni synové Israele s ním, celá pospolitost.“
+[21] Bude stát před knězem ⟦eleazar|Elazarem|Eleazarem⟧, který se za něj bude dotazovat rozhodnutím ⟦urim|Urim|urím⟧ před ⟦yhwh|Jahvem|Hospodinem⟧. Na jeho slovo budou vycházet a na jeho slovo budou vcházet – on i všichni synové ⟦israel|Jisraele|Izraele⟧ s ním, celá pospolitost.“
 
-[22] Moses učinil, jak mu Yahweh přikázal; vzal Joshuu a postavil ho před kněze Eleazara a celou pospolitost.
+[22] ⟦moses|Moše|Mojžíš⟧ učinil, jak mu ⟦yhwh|Jahve|Hospodin⟧ přikázal; vzal ⟦joshua|Jehošuu|Jozua⟧ a postavil ho před kněze ⟦eleazar|Elazara|Eleazara⟧ a celou pospolitost.
 
-[23] Vložil na něj ruce a pověřil ho, jak Yahweh promluvil skrze Mosese.
+[23] Vložil na něj ruce a pověřil ho, jak ⟦yhwh|Jahve|Hospodin⟧ promluvil skrze ⟦moses|Moše|Mojžíše⟧.
 
 ## Změny
 

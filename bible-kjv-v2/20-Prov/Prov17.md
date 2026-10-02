@@ -7,7 +7,7 @@ than a house full of feasting with strife.
 and will share the inheritance as one of the brothers.
 
 [3] The crucible is for silver, and the furnace is for gold,
-and Yahweh tests hearts.
+and ⟦yhwh|Yahweh|the LORD⟧ tests hearts.
 
 [4] An evildoer listens to wicked lips,
 and a liar gives ear to a mischievous tongue.
@@ -43,7 +43,7 @@ evil will not depart from his house.
 so quit before the quarrel breaks out.
 
 [15] He who justifies the wicked and he who condemns the righteous
-are both alike an abomination to Yahweh.
+are both alike an abomination to ⟦yhwh|Yahweh|the LORD⟧.
 
 [16] Why should a fool have money in his hand to buy wisdom
 when he has no sense?

@@ -1,12 +1,12 @@
 # Ezechiel 46
 
-[1] „Tak praví Pán Yahweh: Brána vnitřního nádvoří, která je obrácena k východu, bude zavřená po šest pracovních dní, ale v den sabatu bude otevřena a v den novoluní bude otevřena.
+[1] „Tak praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Brána vnitřního nádvoří, která je obrácena k východu, bude zavřená po šest pracovních dní, ale v den ⟦shabbat|šabatu|soboty⟧ bude otevřena a v den novoluní bude otevřena.
 
 [2] Kníže vejde předsíní brány zvenčí a postaví se u veřeje brány. Kněží přinesou jeho zápalnou oběť a jeho pokojné oběti a on se pokloní na prahu brány. Potom vyjde, ale brána nebude zavřena až do večera.
 
-[3] Lid země se bude klanět u vchodu té brány před Yahweh o sabatech a novoluních.
+[3] Lid země se bude klanět u vchodu té brány před ⟦yhwh|Jahvem|Hospodinem⟧ o ⟦shabbat|šabatech|sobotách⟧ a novoluních.
 
-[4] „Zápalná oběť, kterou kníže přinese Yahweh v den sabatu, bude šest jehňat bez vady a beran bez vady.
+[4] „Zápalná oběť, kterou kníže přinese ⟦yhwh|Jahvovi|Hospodinu⟧ v den ⟦shabbat|šabatu|soboty⟧, bude šest jehňat bez vady a beran bez vady.
 
 [5] Obětní dar z obilí k beranovi bude éfa a obětní dar z obilí k jehňatům tolik, kolik bude moci dát, spolu s hínem oleje na každou éfu.
 
@@ -16,21 +16,21 @@
 
 [8] Když kníže vchází, vejde předsíní brány a toutéž cestou vyjde.
 
-[9] „Když lid země přichází před Yahweh o určených svátcích, ten, kdo vejde severní branou, aby se klaněl, vyjde jižní branou, a ten, kdo vejde jižní branou, vyjde severní branou. Nikdo se nevrátí cestou brány, kterou vešel, ale každý vyjde přímo před sebe.
+[9] „Když lid země přichází před ⟦yhwh|Jahvem|Hospodinem⟧ o určených svátcích, ten, kdo vejde severní branou, aby se klaněl, vyjde jižní branou, a ten, kdo vejde jižní branou, vyjde severní branou. Nikdo se nevrátí cestou brány, kterou vešel, ale každý vyjde přímo před sebe.
 
 [10] Když vcházejí, kníže vejde s nimi, a když vycházejí, vyjde i on.
 
 [11] „O svátcích a určených slavnostech bude obětní dar z obilí k mladému býčkovi éfa, k beranovi éfa a k jehňatům tolik, kolik kdo může dát, spolu s hínem oleje na éfu.
 
-[12] Když kníže opatří dobrovolnou oběť, ať zápalnou oběť, nebo pokojné oběti jako dobrovolnou oběť pro Yahweh, otevře se mu brána obrácená k východu. Přinese svou zápalnou oběť nebo své pokojné oběti, jako to činí v den sabatu. Potom vyjde, a až vyjde, brána se zavře.
+[12] Když kníže opatří dobrovolnou oběť, ať zápalnou oběť, nebo pokojné oběti jako dobrovolnou oběť pro ⟦yhwh|Jahveho|Hospodina⟧, otevře se mu brána obrácená k východu. Přinese svou zápalnou oběť nebo své pokojné oběti, jako to činí v den ⟦shabbat|šabatu|soboty⟧. Potom vyjde, a až vyjde, brána se zavře.
 
-[13] „Denně budeš opatřovat roční jehně bez vady jako zápalnou oběť pro Yahweh; každé ráno je budeš opatřovat.
+[13] „Denně budeš opatřovat roční jehně bez vady jako zápalnou oběť pro ⟦yhwh|Jahveho|Hospodina⟧; každé ráno je budeš opatřovat.
 
-[14] K němu budeš každé ráno opatřovat obětní dar z obilí, šestinu éfy, a třetinu hínu oleje ke zvlhčení mouky, jako obětní dar z obilí pro Yahweh. To je trvalé ustanovení.
+[14] K němu budeš každé ráno opatřovat obětní dar z obilí, šestinu éfy, a třetinu hínu oleje ke zvlhčení mouky, jako obětní dar z obilí pro ⟦yhwh|Jahveho|Hospodina⟧. To je trvalé ustanovení.
 
 [15] Tak se bude každé ráno opatřovat jehně, obětní dar z obilí a olej jako pravidelná zápalná oběť.
 
-[16] „Tak praví Pán Yahweh: Dá-li kníže dar některému ze svých synů jako jeho dědictví, bude patřit jeho synům. Je to jejich dědičný majetek.
+[16] „Tak praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Dá-li kníže dar některému ze svých synů jako jeho dědictví, bude patřit jeho synům. Je to jejich dědičný majetek.
 
 [17] Dá-li však dar ze svého dědictví některému ze svých služebníků, bude jeho až do roku propuštění. Potom se vrátí knížeti; vždyť je to jeho dědictví – bude patřit jeho synům.
 

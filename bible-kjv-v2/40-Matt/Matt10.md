@@ -2,15 +2,15 @@
 
 [1] And he called to him his twelve disciples and gave them authority over unclean spirits, to cast them out, and to heal every disease and every affliction.
 
-[2] The names of the twelve apostles are these: first, Simon, who is called *Kefa*, and Andrew his brother; Jacob son of Zebedee, and John his brother;
+[2] The names of the twelve apostles are these: first, ⟦simon|Shimon|Simon⟧, who is called ⟦peter|Kefa|Peter⟧, and ⟦andrew|Andreas|Andrew⟧ his brother; ⟦james|Yaaqov|James⟧ son of ⟦zebedee|Zebedaios|Zebedee⟧, and ⟦john|Yochanan|John⟧ his brother;
 
-[3] Philip and Bartholomew; Thomas and Matthew the tax collector; Jacob son of Alphaeus, and Thaddaeus;
+[3] ⟦philip|Philippos|Philip⟧ and ⟦bartholomew|Bar-Talmai|Bartholomew⟧; ⟦thomas|Toma|Thomas⟧ and ⟦matthew|Mattai|Matthew⟧ the tax collector; ⟦james|Yaaqov|James⟧ son of ⟦alphaeus|Alphaios|Alphaeus⟧, and ⟦thaddaeus|Thaddaios|Thaddaeus⟧;
 
-[4] Simon the Zealot, and Judas Iscariot, who betrayed him.
+[4] ⟦simon|Shimon|Simon⟧ the Zealot, and ⟦judas|Yehudah|Judas⟧ Iscariot, who betrayed him.
 
-[5] These twelve *Yeshua* sent out, instructing them, "Go nowhere among the Gentiles and enter no town of the Samaritans,
+[5] These twelve ⟦yeshua|Yeshua|Jesus⟧ sent out, instructing them, "Go nowhere among the Gentiles and enter no town of the ⟦samaritans|Shomronim|Samaritans⟧,
 
-[6] but go rather to the lost sheep of the house of Israel.
+[6] but go rather to the lost sheep of the house of ⟦israel|Yisrael|Israel⟧.
 
 [7] And proclaim as you go, saying, 'The kingdom of heaven is at hand.'
 
@@ -28,7 +28,7 @@
 
 [14] And if anyone will not receive you or listen to your words, shake off the dust from your feet when you leave that house or town.
 
-[15] Truly, I say to you, it will be more bearable on the day of judgment for the land of Sodom and Gomorrah than for that town.
+[15] Truly, I say to you, it will be more bearable on the day of judgment for the land of ⟦sodom|Sedom|Sodom⟧ and ⟦gomorrah|Amorah|Gomorrah⟧ than for that town.
 
 [16] "Behold, I am sending you out as sheep in the midst of wolves, so be wise as serpents and innocent as doves.
 
@@ -44,7 +44,7 @@
 
 [22] and you will be hated by all for my name's sake. But the one who endures to the end will be saved.
 
-[23] When they persecute you in one town, flee to the next, for truly, I say to you, you will not have gone through all the towns of Israel before the Son of Man comes.
+[23] When they persecute you in one town, flee to the next, for truly, I say to you, you will not have gone through all the towns of ⟦israel|Yisrael|Israel⟧ before the Son of Man comes.
 
 [24] "A disciple is not above his teacher, nor a servant above his master.
 
@@ -54,7 +54,7 @@
 
 [27] What I tell you in the dark, say in the light, and what you hear whispered, proclaim on the housetops.
 
-[28] And do not fear those who kill the body but cannot kill the soul. Rather fear him who can destroy both soul and body in Gehenna.
+[28] And do not fear those who kill the body but cannot kill the soul. Rather fear him who can destroy both soul and body in ⟦gehenna|Gehenna|hell⟧.
 
 [29] Are not two sparrows sold for an assarion? And not one of them will fall to the ground apart from your Father.
 

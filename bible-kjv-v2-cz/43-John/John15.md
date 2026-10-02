@@ -48,7 +48,7 @@
 
 [24] Kdybych mezi nimi nebyl vykonal skutky, jaké nevykonal nikdo jiný, neměli by hřích; ale nyní viděli, a přece nenávidí mne i mého Otce.
 
-[25] Ale musí se naplnit slovo, které je napsáno v jejich Zákoně: ‚**Nenáviděli mě bez příčiny**.‘
+[25] Ale musí se naplnit slovo, které je napsáno v jejich ⟦torah|Tóře|zákoně⟧: ‚**Nenáviděli mě bez příčiny**.‘
 
 [26] Až však přijde Pomocník, kterého vám pošlu od Otce, Duch pravdy, který vychází od Otce, on o mně vydá svědectví.
 

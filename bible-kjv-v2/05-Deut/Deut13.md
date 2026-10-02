@@ -4,11 +4,11 @@
 
 [2] and the sign or the wonder that he spoke of comes to pass, and he says, 'Let us go after other gods,' which you have not known, 'and let us serve them,'
 
-[3] you shall not listen to the words of that prophet or that dreamer of dreams; for Yahweh your *Elohim* is testing you, to know whether you love Yahweh your *Elohim* with all your heart and with all your soul.
+[3] you shall not listen to the words of that prophet or that dreamer of dreams; for ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is testing you, to know whether you love ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ with all your heart and with all your soul.
 
-[4] You shall walk after Yahweh your *Elohim*, and him you shall fear, and his commandments you shall keep; his voice you shall obey, him you shall serve, and to him you shall hold fast.
+[4] You shall walk after ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, and him you shall fear, and his commandments you shall keep; his voice you shall obey, him you shall serve, and to him you shall hold fast.
 
-[5] That prophet or that dreamer of dreams shall be put to death, because he has counseled rebellion against Yahweh your *Elohim* — who brought you out of the land of Egypt and redeemed you out of the house of slavery — to thrust you from the way in which Yahweh your *Elohim* commanded you to walk. So you shall purge the evil from your midst.
+[5] That prophet or that dreamer of dreams shall be put to death, because he has counseled rebellion against ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ — who brought you out of the land of ⟦egypt|Mitzrayim|Egypt⟧ and redeemed you out of the house of slavery — to thrust you from the way in which ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ commanded you to walk. So you shall purge the evil from your midst.
 
 [6] If your brother, the son of your mother, or your son or your daughter, or the wife whom you embrace, or your friend who is as your own soul, entices you secretly, saying, 'Let us go and serve other gods,' which neither you nor your fathers have known —
 
@@ -18,23 +18,23 @@
 
 [9] But you shall surely kill him; your hand shall be first against him to put him to death, and afterward the hand of all the people.
 
-[10] You shall stone him to death with stones, because he has sought to lead you away from Yahweh your *Elohim*, who brought you out of the land of Egypt, out of the house of slavery.
+[10] You shall stone him to death with stones, because he has sought to lead you away from ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, who brought you out of the land of ⟦egypt|Mitzrayim|Egypt⟧, out of the house of slavery.
 
-[11] All Israel shall hear and be afraid, and shall never again do any such wicked thing among you.
+[11] All ⟦israel|Yisrael|Israel⟧ shall hear and be afraid, and shall never again do any such wicked thing among you.
 
-[12] If you hear, in one of your cities that Yahweh your *Elohim* is giving you to dwell in, that
+[12] If you hear, in one of your cities that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is giving you to dwell in, that
 
-[13] wicked men — sons of Belial — have gone out from among you and have led astray the inhabitants of their city, saying, 'Let us go and serve other gods,' which you have not known,
+[13] ⟦belial|wicked men — sons of Beliyyaal —|worthless fellows⟧ have gone out from among you and have led astray the inhabitants of their city, saying, 'Let us go and serve other gods,' which you have not known,
 
 [14] then you shall inquire and search and ask thoroughly; and behold, if it is true and confirmed — that such an abomination has been done in your midst —
 
 [15] you shall surely strike the inhabitants of that city with the edge of the sword, devoting it and all that is in it, including its livestock, to the sword.
 
-[16] You shall gather all its spoil into the middle of its open square and burn the city and all its spoil with fire, as a whole burnt offering to Yahweh your *Elohim*. It shall be a mound of ruins forever; it shall not be rebuilt.
+[16] You shall gather all its spoil into the middle of its open square and burn the city and all its spoil with fire, as a whole burnt offering to ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧. It shall be a mound of ruins forever; it shall not be rebuilt.
 
-[17] Nothing of the devoted thing shall cling to your hand, that Yahweh may turn from the fierceness of his anger and show you mercy, and have compassion on you, and multiply you, as he swore to your fathers —
+[17] Nothing of the devoted thing shall cling to your hand, that ⟦yhwh|Yahweh|the LORD⟧ may turn from the fierceness of his anger and show you mercy, and have compassion on you, and multiply you, as he swore to your fathers —
 
-[18] if you obey the voice of Yahweh your *Elohim*, keeping all his commandments that I am commanding you today, doing what is right in the eyes of Yahweh your *Elohim*.
+[18] if you obey the voice of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, keeping all his commandments that I am commanding you today, doing what is right in the eyes of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
 ## Changes
 

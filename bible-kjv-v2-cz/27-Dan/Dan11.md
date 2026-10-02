@@ -1,8 +1,8 @@
 # Daniel 11
 
-[1] „Pokud jde o mne, v prvním roce Dareia Méda jsem povstal, abych ho utvrdil a posílil.
+[1] „Pokud jde o mne, v prvním roce Darjaveše ⟦medes|Madiho|Méda⟧ jsem povstal, abych ho utvrdil a posílil.
 
-[2] A nyní ti oznámím pravdu. Hle, v Persii povstanou ještě tři králové a čtvrtý bude mnohem bohatší než všichni ostatní. A když zesílí svým bohatstvím, pobouří všechny proti království Greece.
+[2] A nyní ti oznámím pravdu. Hle, v ⟦persia|Parasu|Persii⟧ povstanou ještě tři králové a čtvrtý bude mnohem bohatší než všichni ostatní. A když zesílí svým bohatstvím, pobouří všechny proti království ⟦greece|Javanu|Řecka⟧.
 
 [3] Potom povstane mocný král, který bude vládnout s velikou mocí a bude jednat, jak se mu zlíbí.
 
@@ -14,7 +14,7 @@
 
 [7] A z výhonku jejích kořenů povstane jeden na jeho místo. Vytáhne proti vojsku a vnikne do pevnosti krále severu, naloží s nimi po svém a zvítězí.
 
-[8] Odveze také do Egypta jejich bohy s jejich litými sochami a jejich drahocenné nádoby ze stříbra a zlata a po několik let nechá krále severu na pokoji.
+[8] Odveze také do ⟦egypt|Micrajim|Egypta⟧ jejich bohy s jejich litými sochami a jejich drahocenné nádoby ze stříbra a zlata a po několik let nechá krále severu na pokoji.
 
 [9] Potom onen vtrhne do říše krále jihu, ale vrátí se do své vlastní země.
 
@@ -58,11 +58,11 @@
 
 [29] V určený čas se vrátí a vtrhne na jih, ale tentokrát to nebude jako předtím.
 
-[30] Neboť proti němu připlují lodě z Kittim; zalekne se a stáhne se, obrátí se zpět, rozzuří se a zakročí proti svaté smlouvě. Obrátí se zpět a bude dbát na ty, kdo opouštějí svatou smlouvu.
+[30] Neboť proti němu připlují lodě z ⟦kittim|Kittim|Kitejců⟧; zalekne se a stáhne se, obrátí se zpět, rozzuří se a zakročí proti svaté smlouvě. Obrátí se zpět a bude dbát na ty, kdo opouštějí svatou smlouvu.
 
 [31] Vojska od něho se objeví a znesvětí chrám i pevnost a odstraní pravidelnou zápalnou oběť. A postaví **ohavnost, která pustoší**.
 
-[32] Úlisností svede ty, kdo porušují smlouvu, ale lid, který zná svého *Elohim*, bude stát pevně a jednat.
+[32] Úlisností svede ty, kdo porušují smlouvu, ale lid, který zná svého ⟦elohim|Elohim|Boha⟧, bude stát pevně a jednat.
 
 [33] Moudří v lidu přivedou mnohé k porozumění, ačkoli po nějaké dny budou klopýtat mečem a plamenem, zajetím a loupeží.
 
@@ -70,7 +70,7 @@
 
 [35] a někteří z moudrých klopýtnou, aby byli přetaveni, očištěni a vybíleni až do času konce, neboť ten ještě čeká na určený čas.
 
-[36] Král bude jednat, jak se mu zlíbí. Bude se vyvyšovat a zvelebovat nad každého boha a bude mluvit neslýchané věci proti El bohů. Bude mít úspěch, dokud se nenaplní rozhořčení; neboť co je rozhodnuto, stane se.
+[36] Král bude jednat, jak se mu zlíbí. Bude se vyvyšovat a zvelebovat nad každého boha a bude mluvit neslýchané věci proti ⟦el|El|Bohu⟧ bohů. Bude mít úspěch, dokud se nenaplní rozhořčení; neboť co je rozhodnuto, stane se.
 
 [37] Nebude dbát na bohy svých otců ani na toho, jejž milují ženy. Nebude dbát na žádného jiného boha, neboť se bude zvelebovat nade všechny.
 
@@ -80,11 +80,11 @@
 
 [40] V čase konce se s ním srazí král jihu, ale král severu se na něj vrhne jako vichřice, s vozy a jezdci a s mnoha loděmi. Vtrhne do zemí, zaplaví je a projde.
 
-[41] Vtrhne do nádherné země. Desetitisíce padnou, ale tito budou vysvobozeni z jeho ruky: Edom a Moab a přední část Ammonitů.
+[41] Vtrhne do nádherné země. Desetitisíce padnou, ale tito budou vysvobozeni z jeho ruky: ⟦edom|Edom|Edóm⟧ a ⟦moab|Moav|Moáb⟧ a přední část ⟦ammonites|Ammonim|Amónovců⟧.
 
-[42] Vztáhne svou ruku na země a země Egypt neunikne.
+[42] Vztáhne svou ruku na země a ⟦egypt|země Micrajim|egyptská země⟧ neunikne.
 
-[43] Zmocní se pokladů zlata a stříbra a všech vzácností Egypta a Libyjci a Kushité půjdou v jeho průvodu.
+[43] Zmocní se pokladů zlata a stříbra a všech vzácností ⟦egypt|Micrajim|Egypta⟧ a ⟦libyans|Luvim|Lúbijci⟧ a ⟦cushites|Kušim|Kúšijci⟧ půjdou v jeho průvodu.
 
 [44] Ale zprávy z východu a ze severu ho vyděsí a vytáhne s velikou zuřivostí, aby hubil a mnohé propadl zkáze.
 

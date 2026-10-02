@@ -1,34 +1,34 @@
 # Soudců 12
 
-[1] Muži Ephraimu byli svoláni; přešli do Zaphonu a řekli Jephthahovi: „Proč jsi táhl bojovat proti synům Ammonovým, aniž jsi nás zavolal, abychom šli s tebou? Spálíme ti dům nad hlavou ohněm.“
+[1] Muži Efrajimu byli svoláni; přešli do ⟦zaphon|Cafonu|Safónu⟧ a řekli ⟦jephthah|Jiftachovi|Jiftáchovi⟧: „Proč jsi táhl bojovat proti synům ⟦ammon|Ammonovým|Amónovým⟧, aniž jsi nás zavolal, abychom šli s tebou? Spálíme ti dům nad hlavou ohněm.“
 
-[2] Jephthah jim řekl: „Já a můj lid jsme vedli velký spor se syny Ammonovými; když jsem vás volal, nevysvobodili jste mě z jejich ruky.
+[2] ⟦jephthah|Jiftach|Jiftách⟧ jim řekl: „Já a můj lid jsme vedli velký spor se syny ⟦ammon|Ammonovými|Amónovými⟧; když jsem vás volal, nevysvobodili jste mě z jejich ruky.
 
-[3] Když jsem viděl, že mě nevysvobodíte, vzal jsem svůj život do vlastních rukou a táhl jsem proti synům Ammonovým, a Yahweh mi je vydal do ruky. Proč jste tedy dnes proti mně přitáhli, abyste se mnou bojovali?“
+[3] Když jsem viděl, že mě nevysvobodíte, vzal jsem svůj život do vlastních rukou a táhl jsem proti synům ⟦ammon|Ammonovým|Amónovým⟧, a ⟦yhwh|Jahve|Hospodin⟧ mi je vydal do ruky. Proč jste tedy dnes proti mně přitáhli, abyste se mnou bojovali?“
 
-[4] Tehdy Jephthah shromáždil všechny muže Gileadu a bojoval s Ephraimem; muži Gileadu porazili Ephraim, protože říkali: „Vy Gileadité jste uprchlíci z Ephraimu – jste uprostřed Ephraimu a Manasseha.“
+[4] Tehdy ⟦jephthah|Jiftach|Jiftách⟧ shromáždil všechny muže ⟦gilead|Giladu|Gileádu⟧ a bojoval s Efrajimem; muži ⟦gilead|Giladu|Gileádu⟧ porazili Efrajim, protože říkali: „⟦gilead|Vy z Giladu|Vy Gileádští⟧ jste uprchlíci z Efrajimu – jste uprostřed Efrajimu a ⟦manasseh|Menaše|Manasesa⟧.“
 
-[5] Gileadité obsadili brody Jordanu před Ephraimity; a když některý z uprchlíků z Ephraimu řekl: „Nechte mě přejít,“ muži Gileadu se ho zeptali: „Jsi Ephraimita?“ Jestliže řekl: „Ne,“
+[5] ⟦gilead|Gilad obsadil|Gileádští obsadili⟧ brody ⟦jordan|Jardenu|Jordánu⟧ před ⟦ephraimites|Efrajimem|Efrajimci⟧; a když některý z uprchlíků z Efrajimu řekl: „Nechte mě přejít,“ muži ⟦gilead|Giladu|Gileádu⟧ se ho zeptali: „Jsi ⟦ephraimite|Efrati|Efrajimovec⟧?“ Jestliže řekl: „Ne,“
 
-[6] řekli mu: „Řekni tedy: ‚Shibboleth.‘“ A on řekl: „Sibboleth,“ neboť to nedokázal správně vyslovit. Tu ho chytili a zabili u brodů Jordanu. V té době padlo 42 000 Ephraimitů.
+[6] řekli mu: „Řekni tedy: ‚⟦shibboleth|Šibbolet|Šibbólet⟧.‘“ A on řekl: „⟦sibboleth|Sibbolet|Sibbólet⟧,“ neboť to nedokázal správně vyslovit. Tu ho chytili a zabili u brodů ⟦jordan|Jardenu|Jordánu⟧. V té době padlo 42 000 ⟦ephraimites|z Efrajimu|Efrajimců⟧.
 
-[7] Jephthah soudil Israel šest let. Potom Jephthah Gileadita zemřel a byl pohřben v jednom z měst Gileadu.
+[7] ⟦jephthah|Jiftach|Jiftách⟧ soudil ⟦israel|Jisrael|Izrael⟧ šest let. Potom ⟦jephthah|Jiftach|Jiftách⟧ ⟦gileadite|Giladi|Gileádský⟧ zemřel a byl pohřben v jednom z měst ⟦gilead|Giladu|Gileádu⟧.
 
-[8] Po něm soudil Israel Ibzan z Bethlehemu.
+[8] Po něm soudil ⟦israel|Jisrael|Izrael⟧ ⟦ibzan|Ivcan|Ibsán⟧ z ⟦bethlehem|Bejt Lechemu|Betléma⟧.
 
-[9] Měl třicet synů; třicet dcer provdal mimo svůj rod a třicet dcer zvenčí přivedl pro své syny. Soudil Israel sedm let.
+[9] Měl třicet synů; třicet dcer provdal mimo svůj rod a třicet dcer zvenčí přivedl pro své syny. Soudil ⟦israel|Jisrael|Izrael⟧ sedm let.
 
-[10] Potom Ibzan zemřel a byl pohřben v Bethlehemu.
+[10] Potom ⟦ibzan|Ivcan|Ibsán⟧ zemřel a byl pohřben v ⟦bethlehem|Bejt Lechemu|Betlémě⟧.
 
-[11] Po něm soudil Israel Elon Zebulunita; soudil Israel deset let.
+[11] Po něm soudil ⟦israel|Jisrael|Izrael⟧ ⟦elon|Elon|Elón⟧ ⟦zebulunite|Zevuloni|Zabulónovec⟧; soudil ⟦israel|Jisrael|Izrael⟧ deset let.
 
-[12] Potom Elon Zebulunita zemřel a byl pohřben v Aijalonu v zemi Zebulun.
+[12] Potom ⟦elon|Elon|Elón⟧ ⟦zebulunite|Zevuloni|Zabulónovec⟧ zemřel a byl pohřben v ⟦aijalon|Ajjalonu|Ajalónu⟧ v zemi ⟦zebulun|Zevulun|Zabulón⟧.
 
-[13] Po něm soudil Israel Abdon, syn Hillelův, Pirathonita.
+[13] Po něm soudil ⟦israel|Jisrael|Izrael⟧ ⟦abdon|Avdon|Abdón⟧, syn ⟦hillel|Hillelův|Hilelův⟧, ⟦pirathonite|Piratoni|Pireatónský⟧.
 
-[14] Měl čtyřicet synů a třicet vnuků, kteří jezdili na sedmdesáti oslech. Soudil Israel osm let.
+[14] Měl čtyřicet synů a třicet vnuků, kteří jezdili na sedmdesáti oslech. Soudil ⟦israel|Jisrael|Izrael⟧ osm let.
 
-[15] Potom Abdon, syn Hillelův, Pirathonita, zemřel a byl pohřben v Pirathonu v zemi Ephraim, v pohoří Amalekitů.
+[15] Potom ⟦abdon|Avdon|Abdón⟧, syn ⟦hillel|Hillelův|Hilelův⟧, ⟦pirathonite|Piratoni|Pireatónský⟧, zemřel a byl pohřben v ⟦pirathon|Piratonu|Piratónu⟧ v zemi Efrajim, v pohoří ⟦amalekites|Amalekim|Amalekovců⟧.
 
 ## Změny
 

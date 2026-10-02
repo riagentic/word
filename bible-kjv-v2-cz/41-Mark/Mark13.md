@@ -2,13 +2,13 @@
 
 [1] Když vycházel z chrámu, řekl mu jeden z jeho učedníků: „Podívej, Učiteli, jaké nádherné kameny a jaké nádherné stavby!“
 
-[2] *Yeshua* mu řekl: „Vidíš tyto veliké stavby? Nezůstane zde kámen na kameni, který by nebyl stržen.“
+[2] ⟦yeshua|Ješua|Ježíš⟧ mu řekl: „Vidíš tyto veliké stavby? Nezůstane zde kámen na kameni, který by nebyl stržen.“
 
-[3] Když seděl na Olivové hoře naproti chrámu, ptali se ho v soukromí *Kefa*, Jacob, John a Andrew:
+[3] Když seděl na ⟦mount-of-olives|Har HaZejtim|Olivové hoře⟧ naproti chrámu, ptali se ho v soukromí ⟦peter|Kefa|Petr⟧, ⟦james|Jaakov|Jakub⟧, ⟦john|Jochanan|Jan⟧ a ⟦andrew|Andreas|Ondřej⟧:
 
 [4] „Pověz nám, kdy se to stane a jaké bude znamení, až se to všechno bude chýlit k naplnění?“
 
-[5] *Yeshua* jim začal říkat: „Dejte si pozor, aby vás nikdo nesvedl.
+[5] ⟦yeshua|Ješua|Ježíš⟧ jim začal říkat: „Dejte si pozor, aby vás nikdo nesvedl.
 
 [6] Mnozí přijdou v mém jménu a budou říkat: ‚Já jsem to!‘ a svedou mnohé.
 
@@ -20,13 +20,13 @@
 
 [10] A nejprve musí být evangelium hlásáno všem národům.
 
-[11] Když vás povedou k soudu a vydají vás, nestarejte se předem, co máte říci, ale mluvte, co vám bude dáno v tu hodinu, neboť to nejste vy, kdo mluví, ale *Ruach HaQodesh*.
+[11] Když vás povedou k soudu a vydají vás, nestarejte se předem, co máte říci, ale mluvte, co vám bude dáno v tu hodinu, neboť to nejste vy, kdo mluví, ale ⟦ruach-haqodesh|Ruach HaKodeš|Duch svatý⟧.
 
 [12] Bratr vydá bratra na smrt a otec své dítě, děti povstanou proti rodičům a připraví je o život.
 
 [13] Budete nenáviděni ode všech pro mé jméno. Ale kdo vytrvá do konce, bude spasen.
 
-[14] Když však uvidíte ohavnost zpustošení stát tam, kde nemá (kdo čte, ať rozumí), tehdy ti, kdo budou v Judeji, ať utečou do hor.
+[14] Když však uvidíte ohavnost zpustošení stát tam, kde nemá (kdo čte, ať rozumí), tehdy ti, kdo budou v ⟦judea|Jehudě|Judsku⟧, ať utečou do hor.
 
 [15] Kdo bude na střeše, ať nesestupuje ani nevchází do svého domu, aby si něco vynesl,
 
@@ -36,11 +36,11 @@
 
 [18] Modlete se, aby to nepřišlo v zimě.
 
-[19] V těch dnech totiž bude takové soužení, jaké nebylo od počátku stvoření, které *Elohim* stvořil, až dosud, a už nikdy nebude.
+[19] V těch dnech totiž bude takové soužení, jaké nebylo od počátku stvoření, které ⟦elohim|Elohim|Bůh⟧ stvořil, až dosud, a už nikdy nebude.
 
 [20] A kdyby Pán ty dny nezkrátil, nebyl by zachráněn žádný člověk. Ale kvůli vyvoleným, které si vyvolil, ty dny zkrátil.
 
-[21] Jestliže vám tehdy někdo řekne: ‚Hle, tady je *Mashiach*!‘ nebo ‚Hle, tamhle je!‘, nevěřte tomu.
+[21] Jestliže vám tehdy někdo řekne: ‚Hle, tady je ⟦mashiach|Mašiach|Mesiáš⟧!‘ nebo ‚Hle, tamhle je!‘, nevěřte tomu.
 
 [22] Povstanou totiž falešní mesiášové a falešní proroci a budou činit znamení a divy, aby svedli, bude-li to možné, vyvolené.
 

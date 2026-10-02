@@ -1,60 +1,60 @@
 # Genesis 45
 
-[1] Then Joseph could not control himself before all those who stood by him, and he cried, "Have everyone go out from me!" So no one stood with him while Joseph made himself known to his brothers.
+[1] Then ⟦joseph|Yosef|Joseph⟧ could not control himself before all those who stood by him, and he cried, "Have everyone go out from me!" So no one stood with him while ⟦joseph|Yosef|Joseph⟧ made himself known to his brothers.
 
-[2] And he wept aloud, and the Egyptians heard it, and the household of Pharaoh heard.
+[2] And he wept aloud, and the ⟦egyptians|Mitzrim|Egyptians⟧ heard it, and the household of ⟦pharaoh|Paroh|Pharaoh⟧ heard.
 
-[3] Then Joseph said to his brothers, "I am Joseph! Is my father still alive?" But his brothers could not answer him, for they were dismayed at his presence.
+[3] Then ⟦joseph|Yosef|Joseph⟧ said to his brothers, "I am ⟦joseph|Yosef|Joseph⟧! Is my father still alive?" But his brothers could not answer him, for they were dismayed at his presence.
 
-[4] Joseph said to his brothers, "Come near to me, please." So they came near. And he said, "I am Joseph your brother, whom you sold into Egypt.
+[4] ⟦joseph|Yosef|Joseph⟧ said to his brothers, "Come near to me, please." So they came near. And he said, "I am ⟦joseph|Yosef|Joseph⟧ your brother, whom you sold into ⟦egypt|Mitzrayim|Egypt⟧.
 
-[5] And now, do not be grieved or angry with yourselves because you sold me here; for *Elohim* sent me before you to preserve life.
+[5] And now, do not be grieved or angry with yourselves because you sold me here; for ⟦elohim|Elohim|God⟧ sent me before you to preserve life.
 
 [6] For the famine has been in the land these two years, and there are still five years in which there shall be no plowing nor harvest.
 
-[7] *Elohim* sent me before you to preserve for you a remnant on the earth, and to save your lives by a great deliverance.
+[7] ⟦elohim|Elohim|God⟧ sent me before you to preserve for you a remnant on the earth, and to save your lives by a great deliverance.
 
-[8] So now, it was not you who sent me here, but *Elohim*; and he has made me a father to Pharaoh, and lord of all his household, and ruler over all the land of Egypt.
+[8] So now, it was not you who sent me here, but ⟦elohim|Elohim|God⟧; and he has made me a father to ⟦pharaoh|Paroh|Pharaoh⟧, and lord of all his household, and ruler over all the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
-[9] Hurry and go up to my father, and say to him, 'Thus says your son Joseph: *Elohim* has made me lord of all Egypt. Come down to me; do not delay.
+[9] Hurry and go up to my father, and say to him, 'Thus says your son ⟦joseph|Yosef|Joseph⟧: ⟦elohim|Elohim|God⟧ has made me lord of all ⟦egypt|Mitzrayim|Egypt⟧. Come down to me; do not delay.
 
 [10] You shall dwell in the land of Goshen, and you shall be near me — you, your children, your grandchildren, your flocks, your herds, and all that you have.
 
 [11] I will provide for you there, for there are still five years of famine — lest you and your household and all that you have come to poverty.'
 
-[12] Behold, your own eyes see, and the eyes of my brother Benjamin, that it is my mouth that speaks to you.
+[12] Behold, your own eyes see, and the eyes of my brother ⟦benjamin|Binyamin|Benjamin⟧, that it is my mouth that speaks to you.
 
-[13] Tell my father of all my glory in Egypt and of all that you have seen; and hurry and bring my father down here."
+[13] Tell my father of all my glory in ⟦egypt|Mitzrayim|Egypt⟧ and of all that you have seen; and hurry and bring my father down here."
 
-[14] Then he fell on his brother Benjamin's neck and wept, and Benjamin wept on his neck.
+[14] Then he fell on his brother ⟦benjamin|Binyamin|Benjamin⟧'s neck and wept, and ⟦benjamin|Binyamin|Benjamin⟧ wept on his neck.
 
 [15] He kissed all his brothers and wept upon them; and after that his brothers talked with him.
 
-[16] The report was heard in Pharaoh's house: "Joseph's brothers have come." It pleased Pharaoh and his servants.
+[16] The report was heard in ⟦pharaoh|Paroh|Pharaoh⟧'s house: "⟦joseph|Yosef|Joseph⟧'s brothers have come." It pleased ⟦pharaoh|Paroh|Pharaoh⟧ and his servants.
 
-[17] Pharaoh said to Joseph, "Say to your brothers, 'Do this: load your animals, and go, enter the land of Canaan;
+[17] ⟦pharaoh|Paroh|Pharaoh⟧ said to ⟦joseph|Yosef|Joseph⟧, "Say to your brothers, 'Do this: load your animals, and go, enter the land of ⟦canaan|Kenaan|Canaan⟧;
 
-[18] and take your father and your households, and come to me. I will give you the best of the land of Egypt, and you shall eat the fat of the land.'
+[18] and take your father and your households, and come to me. I will give you the best of the land of ⟦egypt|Mitzrayim|Egypt⟧, and you shall eat the fat of the land.'
 
-[19] Now you are commanded: 'Do this: take wagons from the land of Egypt for your little ones and for your wives, and bring your father, and come.
+[19] Now you are commanded: 'Do this: take wagons from the land of ⟦egypt|Mitzrayim|Egypt⟧ for your little ones and for your wives, and bring your father, and come.
 
-[20] Have no regret for your belongings, for the best of all the land of Egypt is yours.'"
+[20] Have no regret for your belongings, for the best of all the land of ⟦egypt|Mitzrayim|Egypt⟧ is yours.'"
 
-[21] And the sons of Israel did so; Joseph gave them wagons, according to Pharaoh's command, and he gave them provisions for the journey.
+[21] And the sons of ⟦israel|Yisrael|Israel⟧ did so; ⟦joseph|Yosef|Joseph⟧ gave them wagons, according to ⟦pharaoh|Paroh|Pharaoh⟧'s command, and he gave them provisions for the journey.
 
-[22] To each of them he gave changes of garments, but to Benjamin he gave 300 pieces of silver and five changes of garments.
+[22] To each of them he gave changes of garments, but to ⟦benjamin|Binyamin|Benjamin⟧ he gave 300 pieces of silver and five changes of garments.
 
-[23] And to his father he sent as follows: ten donkeys loaded with the good things of Egypt, and ten female donkeys loaded with grain, bread, and sustenance for his father on the way.
+[23] And to his father he sent as follows: ten donkeys loaded with the good things of ⟦egypt|Mitzrayim|Egypt⟧, and ten female donkeys loaded with grain, bread, and sustenance for his father on the way.
 
 [24] So he sent his brothers off, and they departed; and he said to them, "Do not quarrel on the way."
 
-[25] So they went up out of Egypt and came to the land of Canaan to Jacob their father.
+[25] So they went up out of ⟦egypt|Mitzrayim|Egypt⟧ and came to the land of ⟦canaan|Kenaan|Canaan⟧ to ⟦jacob|Yaaqov|Jacob⟧ their father.
 
-[26] They told him, "Joseph is still alive, and moreover, he is ruler over all the land of Egypt." But his heart became faint, for he did not believe them.
+[26] They told him, "⟦joseph|Yosef|Joseph⟧ is still alive, and moreover, he is ruler over all the land of ⟦egypt|Mitzrayim|Egypt⟧." But his heart became faint, for he did not believe them.
 
-[27] When they told him all the words of Joseph that he had said to them, and when he saw the wagons that Joseph had sent to carry him, the spirit of Jacob their father revived.
+[27] When they told him all the words of ⟦joseph|Yosef|Joseph⟧ that he had said to them, and when he saw the wagons that ⟦joseph|Yosef|Joseph⟧ had sent to carry him, the spirit of ⟦jacob|Yaaqov|Jacob⟧ their father revived.
 
-[28] Israel said, "It is enough; Joseph my son is still alive. I will go and see him before I die."
+[28] ⟦israel|Yisrael|Israel⟧ said, "It is enough; ⟦joseph|Yosef|Joseph⟧ my son is still alive. I will go and see him before I die."
 
 ## Changes
 

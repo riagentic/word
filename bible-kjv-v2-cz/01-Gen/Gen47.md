@@ -1,66 +1,66 @@
 # Genesis 47
 
-[1] Potom Joseph přišel a oznámil Pharaohovi: „Můj otec a moji bratři přišli ze země Canaan se svými stády ovcí a skotu a se vším, co mají; a hle, jsou v zemi Goshen.“
+[1] Potom Josef přišel a oznámil ⟦pharaoh|Parohovi|faraónovi⟧: „Můj otec a moji bratři přišli ze země Kenaan se svými stády ovcí a skotu a se vším, co mají; a hle, jsou v zemi Gošen.“
 
-[2] Ze svých bratrů vzal pět mužů a představil je Pharaohovi.
+[2] Ze svých bratrů vzal pět mužů a představil je ⟦pharaoh|Parohovi|faraónovi⟧.
 
-[3] Pharaoh řekl jeho bratrům: „Jaké je vaše zaměstnání?“ Odpověděli Pharaohovi: „Tvoji služebníci jsou pastýři ovcí, my i naši otcové.“
+[3] ⟦pharaoh|Paro|Farao⟧ řekl jeho bratrům: „Jaké je vaše zaměstnání?“ Odpověděli ⟦pharaoh|Parohovi|faraónovi⟧: „Tvoji služebníci jsou pastýři ovcí, my i naši otcové.“
 
-[4] Řekli Pharaohovi: „Přišli jsme, abychom v zemi pobývali jako hosté, neboť pro stáda tvých služebníků není pastva, protože v zemi Canaan je krutý hlad. Nyní tedy, prosím, ať tvoji služebníci smějí bydlet v zemi Goshen.“
+[4] Řekli ⟦pharaoh|Parohovi|faraónovi⟧: „Přišli jsme, abychom v zemi pobývali jako hosté, neboť pro stáda tvých služebníků není pastva, protože v zemi Kenaan je krutý hlad. Nyní tedy, prosím, ať tvoji služebníci smějí bydlet v zemi Gošen.“
 
-[5] Pharaoh řekl Josephovi: „Tvůj otec a tvoji bratři přišli k tobě.
+[5] ⟦pharaoh|Paro|Farao⟧ řekl Josefovi: „Tvůj otec a tvoji bratři přišli k tobě.
 
-[6] Egyptská země je před tebou; usaď svého otce a své bratry v nejlepší části země. Ať bydlí v zemi Goshen, a znáš-li mezi nimi schopné muže, ustanov je nad mým dobytkem.“
+[6] Egyptská země je před tebou; usaď svého otce a své bratry v nejlepší části země. Ať bydlí v zemi Gošen, a znáš-li mezi nimi schopné muže, ustanov je nad mým dobytkem.“
 
-[7] Potom Joseph přivedl svého otce Jacoba a postavil ho před Pharaoha; a Jacob Pharaohovi požehnal.
+[7] Potom Josef přivedl svého otce ⟦jacob|Jaakova|Jákoba⟧ a postavil ho před ⟦pharaoh|Paroha|faraóna⟧; a ⟦jacob|Jaakov|Jákob⟧ ⟦pharaoh|Parohovi|faraónovi⟧ požehnal.
 
-[8] Pharaoh se zeptal Jacoba: „Kolik je dnů let tvého života?“
+[8] ⟦pharaoh|Paro|Farao⟧ se zeptal ⟦jacob|Jaakova|Jákoba⟧: „Kolik je dnů let tvého života?“
 
-[9] Jacob Pharaohovi odpověděl: „Dnů let mého pobývání v cizině je 130 let. Málo a zlé byly dny let mého života a nedosáhly dnů let života mých otců za dnů jejich pobývání v cizině.“
+[9] ⟦jacob|Jaakov|Jákob⟧ ⟦pharaoh|Parohovi|faraónovi⟧ odpověděl: „Dnů let mého pobývání v cizině je 130 let. Málo a zlé byly dny let mého života a nedosáhly dnů let života mých otců za dnů jejich pobývání v cizině.“
 
-[10] Potom Jacob Pharaohovi požehnal a odešel od Pharaoha.
+[10] Potom ⟦jacob|Jaakov|Jákob⟧ ⟦pharaoh|Parohovi|faraónovi⟧ požehnal a odešel od ⟦pharaoh|Paroha|faraóna⟧.
 
-[11] Joseph tedy usadil svého otce a své bratry a dal jim vlastnictví v egyptské zemi, v nejlepší části země, v kraji Rameses, jak Pharaoh přikázal.
+[11] Josef tedy usadil svého otce a své bratry a dal jim vlastnictví v egyptské zemi, v nejlepší části země, v kraji ⟦rameses|Raamses|Rameses⟧, jak ⟦pharaoh|Paro|farao⟧ přikázal.
 
-[12] A Joseph zaopatřoval svého otce, své bratry a celý dům svého otce chlebem podle počtu těch, kdo byli na nich závislí.
+[12] A Josef zaopatřoval svého otce, své bratry a celý dům svého otce chlebem podle počtu těch, kdo byli na nich závislí.
 
-[13] V celé zemi nebyl chléb, neboť hlad byl velmi krutý, takže egyptská země i země Canaan hladem chřadly.
+[13] V celé zemi nebyl chléb, neboť hlad byl velmi krutý, takže egyptská země i země Kenaan hladem chřadly.
 
-[14] Joseph shromáždil všechno stříbro, které se našlo v egyptské zemi a v zemi Canaan, za obilí, které kupovali, a Joseph přinesl to stříbro do Pharaohova domu.
+[14] Josef shromáždil všechno stříbro, které se našlo v egyptské zemi a v zemi Kenaan, za obilí, které kupovali, a Josef přinesl to stříbro do ⟦pharaoh|Parohova|faraónova⟧ domu.
 
-[15] Když stříbro egyptské země i země Canaan došlo, přišli všichni Egypťané k Josephovi a říkali: „Dej nám chléb! Proč bychom měli zemřít před tvou tváří? Stříbro totiž došlo.“
+[15] Když stříbro egyptské země i země Kenaan došlo, přišli všichni ⟦egyptians|Micrim|Egypťané⟧ k Josefovi a říkali: „Dej nám chléb! Proč bychom měli zemřít před tvou tváří? Stříbro totiž došlo.“
 
-[16] Joseph řekl: „Dejte svůj dobytek a já vám dám chléb výměnou za váš dobytek, jestliže stříbro došlo.“
+[16] Josef řekl: „Dejte svůj dobytek a já vám dám chléb výměnou za váš dobytek, jestliže stříbro došlo.“
 
-[17] Přiváděli tedy svůj dobytek k Josephovi a Joseph jim dával chléb výměnou za koně, za stáda ovcí, za stáda skotu a za osly. Tak je toho roku zaopatřil chlebem výměnou za všechen jejich dobytek.
+[17] Přiváděli tedy svůj dobytek k Josefovi a Josef jim dával chléb výměnou za koně, za stáda ovcí, za stáda skotu a za osly. Tak je toho roku zaopatřil chlebem výměnou za všechen jejich dobytek.
 
 [18] Když ten rok skončil, přišli k němu druhého roku a řekli mu: „Nebudeme před mým pánem tajit, že naše stříbro došlo a stáda dobytka patří mému pánu; před mým pánem nezbylo nic kromě našich těl a naší půdy.
 
-[19] Proč bychom měli zemřít před tvýma očima, my i naše půda? Kup nás a naši půdu za chléb a my i naše půda budeme otroky Pharaoha; a dej nám osivo, abychom žili a nezemřeli a aby půda nezpustla.“
+[19] Proč bychom měli zemřít před tvýma očima, my i naše půda? Kup nás a naši půdu za chléb a my i naše půda budeme otroky ⟦pharaoh|Paroha|faraóna⟧; a dej nám osivo, abychom žili a nezemřeli a aby půda nezpustla.“
 
-[20] Tak Joseph koupil všechnu egyptskou půdu pro Pharaoha, neboť každý Egypťan prodal své pole, protože na ně krutě doléhal hlad. A země připadla Pharaohovi.
+[20] Tak Josef koupil všechnu egyptskou půdu pro ⟦pharaoh|Paroha|faraóna⟧, neboť každý ⟦egyptian|Micri|Egypťan⟧ prodal své pole, protože na ně krutě doléhal hlad. A země připadla ⟦pharaoh|Parohovi|faraónovi⟧.
 
 [21] A co se týče lidu, přestěhoval ho do měst, od jednoho konce egyptského území až k druhému.
 
-[22] Jen půdu kněží nekoupil, neboť kněží měli příděl od Pharaoha a jedli ze svého přídělu, který jim Pharaoh dával; proto svou půdu neprodali.
+[22] Jen půdu kněží nekoupil, neboť kněží měli příděl od ⟦pharaoh|Paroha|faraóna⟧ a jedli ze svého přídělu, který jim ⟦pharaoh|Paro|farao⟧ dával; proto svou půdu neprodali.
 
-[23] Potom Joseph řekl lidu: „Hle, dnes jsem koupil vás i vaši půdu pro Pharaoha. Tady máte osivo; osejte půdu.
+[23] Potom Josef řekl lidu: „Hle, dnes jsem koupil vás i vaši půdu pro ⟦pharaoh|Paroha|faraóna⟧. Tady máte osivo; osejte půdu.
 
-[24] A ze sklizní budete odvádět pětinu Pharaohovi a čtyři díly budou vaše, na osivo pro pole a k jídlu pro vás a pro ty, kdo jsou ve vašich domácnostech, a k jídlu pro vaše malé děti.“
+[24] A ze sklizní budete odvádět pětinu ⟦pharaoh|Parohovi|faraónovi⟧ a čtyři díly budou vaše, na osivo pro pole a k jídlu pro vás a pro ty, kdo jsou ve vašich domácnostech, a k jídlu pro vaše malé děti.“
 
-[25] Řekli: „Zachránil jsi nám život. Kéž najdeme přízeň v očích mého pána, a budeme Pharaohovými otroky.“
+[25] Řekli: „Zachránil jsi nám život. Kéž najdeme přízeň v očích mého pána, a budeme ⟦pharaoh|Parohovými|faraónovými⟧ otroky.“
 
-[26] Joseph to tedy ustanovil jako nařízení pro egyptskou zemi až do dnešního dne, že Pharaohovi patří pětina; jedině půda kněží nepřipadla Pharaohovi.
+[26] Josef to tedy ustanovil jako nařízení pro egyptskou zemi až do dnešního dne, že ⟦pharaoh|Parohovi|faraónovi⟧ patří pětina; jedině půda kněží nepřipadla ⟦pharaoh|Parohovi|faraónovi⟧.
 
-[27] Tak Israel bydlel v egyptské zemi, v kraji Goshen; získali v něm majetek, byli plodní a nesmírně se rozmnožili.
+[27] Tak ⟦israel|Jisrael|Izrael⟧ bydlel v egyptské zemi, v kraji Gošen; získali v něm majetek, byli plodní a nesmírně se rozmnožili.
 
-[28] Jacob žil v egyptské zemi sedmnáct let, takže dnů let Jacobova života bylo 147 let.
+[28] ⟦jacob|Jaakov|Jákob⟧ žil v egyptské zemi sedmnáct let, takže dnů let ⟦jacob|Jaakovova|Jákobova⟧ života bylo 147 let.
 
-[29] Když se přiblížil čas, kdy měl Israel zemřít, zavolal svého syna Josepha a řekl mu: „Jestliže jsem nyní nalezl přízeň v tvých očích, vlož, prosím, svou ruku pod mé stehno a prokaž mi věrnou lásku a věrnost. Nepohřbívej mě, prosím, v Egyptě,
+[29] Když se přiblížil čas, kdy měl ⟦israel|Jisrael|Izrael⟧ zemřít, zavolal svého syna Josefa a řekl mu: „Jestliže jsem nyní nalezl přízeň v tvých očích, vlož, prosím, svou ruku pod mé stehno a prokaž mi věrnou lásku a věrnost. Nepohřbívej mě, prosím, v ⟦egypt|Micrajim|Egyptě⟧,
 
-[30] ale ať uléhám se svými otci; vynes mě z Egypta a pohřbi mě v jejich hrobě.“ On řekl: „Udělám, jak jsi řekl.“
+[30] ale ať uléhám se svými otci; vynes mě z ⟦egypt|Micrajim|Egypta⟧ a pohřbi mě v jejich hrobě.“ On řekl: „Udělám, jak jsi řekl.“
 
-[31] Řekl: „Přísahej mi.“ I přísahal mu. Potom se Israel poklonil u hlavy lůžka.
+[31] Řekl: „Přísahej mi.“ I přísahal mu. Potom se ⟦israel|Jisrael|Izrael⟧ poklonil u hlavy lůžka.
 
 ## Změny
 

@@ -1,14 +1,14 @@
 # Ester 1
 
-[1] Ve dnech Ahasuera – totiž toho Ahasuera, který vládl od Indie až po Cush nad 127 provinciemi –
+[1] Ve dnech ⟦ahasuerus|Achašveroše|Achašveróše⟧ – totiž toho ⟦ahasuerus|Achašveroše|Achašveróše⟧, který vládl od ⟦india|Hodu|Indie⟧ až po ⟦cush|Kuš|Kúš⟧ nad 127 provinciemi –
 
-[2] v těch dnech, když král Ahasuerus seděl na svém královském trůnu v Suse, v citadele,
+[2] v těch dnech, když král ⟦ahasuerus|Achašveroš|Achašveróš⟧ seděl na svém královském trůnu v ⟦susa|Šušanu|Šúšanu⟧, v citadele,
 
-[3] ve třetím roce své vlády uspořádal hostinu pro všechny své úředníky a služebníky. Vojsko Persie a Medie, šlechtici a úředníci provincií byli před ním,
+[3] ve třetím roce své vlády uspořádal hostinu pro všechny své úředníky a služebníky. Vojsko ⟦persia|Parasu|Persie⟧ a ⟦media|Madaj|Médie⟧, šlechtici a úředníci provincií byli před ním,
 
 [4] zatímco po mnoho dní – 180 dní – předváděl bohatství svého slavného království a nádheru a slávu své velikosti.
 
-[5] Když ty dny uplynuly, uspořádal král pro všechen lid, který byl v Suse, v citadele, velký i malý, sedmidenní hostinu na nádvoří zahrady královského paláce.
+[5] Když ty dny uplynuly, uspořádal král pro všechen lid, který byl v ⟦susa|Šušanu|Šúšanu⟧, v citadele, velký i malý, sedmidenní hostinu na nádvoří zahrady královského paláce.
 
 [6] Byly tam závěsy z bílé bavlny a modré, upevněné šňůrami z jemného plátna a purpuru na stříbrných kruzích a alabastrových sloupech; lehátka zlatá a stříbrná na dlažbě z porfyru, alabastru, perleti a tmavého mramoru.
 
@@ -16,31 +16,31 @@
 
 [8] Pilo se podle nařízení: „Nikdo nesmí nutit.“ Král totiž nařídil všem správcům svého paláce, aby jednali podle libosti každého muže.
 
-[9] Také královna Vashti uspořádala hostinu pro ženy v královském domě krále Ahasuera.
+[9] Také královna Vašti uspořádala hostinu pro ženy v královském domě krále ⟦ahasuerus|Achašveroše|Achašveróše⟧.
 
-[10] Sedmého dne, když bylo králi po víně veselo u srdce, přikázal Mehumanovi, Bizthovi, Harbonovi, Bigthovi, Abagthovi, Zetharovi a Carcasovi – sedmi eunuchům, kteří sloužili před králem Ahasuerem –
+[10] Sedmého dne, když bylo králi po víně veselo u srdce, přikázal ⟦mehuman|Mehumanovi|Mehúmanovi⟧, ⟦biztha|Bizzetovi|Biztovi⟧, ⟦harbona|Charvonovi|Charbónovi⟧, Bigtovi, ⟦abagtha|Avagtovi|Abagtovi⟧, Zetarovi a Karkasovi – sedmi eunuchům, kteří sloužili před králem ⟦ahasuerus|Achašverošem|Achašveróšem⟧ –
 
-[11] aby přivedli královnu Vashti před krále s královskou korunou, aby ukázal národům a úředníkům její krásu; byla totiž krásná na pohled.
+[11] aby přivedli královnu Vašti před krále s královskou korunou, aby ukázal národům a úředníkům její krásu; byla totiž krásná na pohled.
 
-[12] Ale královna Vashti odmítla přijít na králův příkaz, daný skrze eunuchy; král se tedy velice rozhněval a jeho hněv v něm vzplanul.
+[12] Ale královna Vašti odmítla přijít na králův příkaz, daný skrze eunuchy; král se tedy velice rozhněval a jeho hněv v něm vzplanul.
 
 [13] Tu řekl král mudrcům, kteří znali časy (byl totiž králův postup radit se se všemi, kdo znali zákon a právo,
 
-[14] a jeho nejbližší byli Carshena, Shethar, Admatha, Tarshish, Meres, Marsena a Memucan – sedm úředníků Persie a Medie, kteří hleděli na králův obličej a zaujímali první místa v království):
+[14] a jeho nejbližší byli Karšena, Šetar, ⟦admatha|Admata|Admáta⟧, ⟦tarshish|Taršiš|Taršíš⟧, Meres, Marsena a ⟦memucan|Memuchan|Memukan⟧ – sedm úředníků ⟦persia|Parasu|Persie⟧ a ⟦media|Madaj|Médie⟧, kteří hleděli na králův obličej a zaujímali první místa v království):
 
-[15] „Co se má podle zákona učinit s královnou Vashti, protože nesplnila příkaz krále Ahasuera, předaný skrze eunuchy?“
+[15] „Co se má podle zákona učinit s královnou Vašti, protože nesplnila příkaz krále ⟦ahasuerus|Achašveroše|Achašveróše⟧, předaný skrze eunuchy?“
 
-[16] Memucan řekl před králem a úředníky: „Královna Vashti se neprovinila jen proti králi, ale proti všem úředníkům a všem národům ve všech provinciích krále Ahasuera.
+[16] ⟦memucan|Memuchan|Memukan⟧ řekl před králem a úředníky: „Královna Vašti se neprovinila jen proti králi, ale proti všem úředníkům a všem národům ve všech provinciích krále ⟦ahasuerus|Achašveroše|Achašveróše⟧.
 
-[17] Královnino jednání se totiž roznese ke všem ženám, takže budou ve svých očích pohrdat svými manžely, až se bude vyprávět: ‚Král Ahasuerus přikázal přivést před sebe královnu Vashti, ale ona nepřišla.‘
+[17] Královnino jednání se totiž roznese ke všem ženám, takže budou ve svých očích pohrdat svými manžely, až se bude vyprávět: ‚Král ⟦ahasuerus|Achašveroš|Achašveróš⟧ přikázal přivést před sebe královnu Vašti, ale ona nepřišla.‘
 
-[18] Ještě dnes budou šlechtičny Persie a Medie, které uslyšely o královnině jednání, mluvit stejně ke všem královým úředníkům. A pohrdání a hněvu nebude konce.
+[18] Ještě dnes budou šlechtičny ⟦persia|Parasu|Persie⟧ a ⟦media|Madaj|Médie⟧, které uslyšely o královnině jednání, mluvit stejně ke všem královým úředníkům. A pohrdání a hněvu nebude konce.
 
-[19] Líbí-li se to králi, ať od něho vyjde královské nařízení a ať je zapsáno mezi zákony Peršanů a Médů – neodvolatelně: že Vashti už nepřijde před krále Ahasuera; a ať král dá její královské postavení jiné, která je lepší než ona.
+[19] Líbí-li se to králi, ať od něho vyjde královské nařízení a ať je zapsáno mezi zákony ⟦persia|Parasu|Peršanů⟧ a ⟦media|Madaj|Médů⟧ – neodvolatelně: že Vašti už nepřijde před krále ⟦ahasuerus|Achašveroše|Achašveróše⟧; a ať král dá její královské postavení jiné, která je lepší než ona.
 
 [20] Až bude královo nařízení, které vydá, vyhlášeno v celém jeho království, jakkoli je rozlehlé, všechny ženy budou prokazovat čest svým manželům, velkým i malým.“
 
-[21] To slovo se líbilo králi i úředníkům; a král učinil podle slova Memucanova.
+[21] To slovo se líbilo králi i úředníkům; a král učinil podle slova ⟦memucan|Memuchanova|Memukanova⟧.
 
 [22] Rozeslal dopisy do všech královských provincií, do každé provincie jejím vlastním písmem a každému národu v jeho vlastním jazyce, aby každý muž byl pánem ve svém vlastním domě – a vyhlášení bylo učiněno v jazyce každého národa.
 

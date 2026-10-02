@@ -1,10 +1,10 @@
 # Jozue 2
 
-[1] Joshua, syn Nunův, vyslal ze Shittimu tajně dva muže jako zvědy se slovy: „Jděte, prohlédněte zemi, zvláště Jericho.“ Šli tedy a přišli do domu prostitutky jménem Rahab a přenocovali tam.
+[1] ⟦joshua|Jehošua|Jozue⟧, syn ⟦nun|Nunův|Núnův⟧, vyslal ze ⟦shittim|Šittimu|Šitímu⟧ tajně dva muže jako zvědy se slovy: „Jděte, prohlédněte zemi, zvláště Jericho.“ Šli tedy a přišli do domu prostitutky jménem ⟦rahab|Rachav|Rachab⟧ a přenocovali tam.
 
-[2] Králi Jericha bylo oznámeno: „Hle, dnes v noci sem přišli muži ze synů Israele, aby vyzvěděli zemi.“
+[2] Králi Jericha bylo oznámeno: „Hle, dnes v noci sem přišli muži ze synů ⟦israel|Jisraele|Izraele⟧, aby vyzvěděli zemi.“
 
-[3] Tu král Jericha poslal k Rahab se vzkazem: „Vyveď ty muže, kteří k tobě přišli, kteří vešli do tvého domu, neboť přišli vyzvědět celou zemi.“
+[3] Tu král Jericha poslal k ⟦rahab|Rachav|Rachab⟧ se vzkazem: „Vyveď ty muže, kteří k tobě přišli, kteří vešli do tvého domu, neboť přišli vyzvědět celou zemi.“
 
 [4] Žena však ty dva muže vzala a ukryla je. A řekla: „Ano, ti muži ke mně přišli, ale nevěděla jsem, odkud jsou.
 
@@ -12,21 +12,21 @@
 
 [6] Ona je však vyvedla na střechu a ukryla je mezi stébly lnu, která měla na střeše narovnaná.
 
-[7] Muži je tedy pronásledovali cestou k Jordanu, k brodům; a jakmile pronásledovatelé vyšli, zavřeli bránu.
+[7] Muži je tedy pronásledovali cestou k ⟦jordan|Jardenu|Jordánu⟧, k brodům; a jakmile pronásledovatelé vyšli, zavřeli bránu.
 
 [8] Dříve než si ti muži lehli, vystoupila k nim na střechu
 
-[9] a řekla mužům: „Vím, že vám Yahweh dal tuto zemi; padla na nás hrůza z vás a všichni obyvatelé země se před vámi rozplývají strachem.
+[9] a řekla mužům: „Vím, že vám ⟦yhwh|Jahve|Hospodin⟧ dal tuto zemi; padla na nás hrůza z vás a všichni obyvatelé země se před vámi rozplývají strachem.
 
-[10] Neboť jsme slyšeli, jak Yahweh před vámi vysušil vodu Rákosového moře, když jste vycházeli z Egypta, a co jste udělali dvěma králům Amoritů za Jordanem – Sihonovi a Ogovi – které jste zasvětili zkáze.
+[10] Neboť jsme slyšeli, jak ⟦yhwh|Jahve|Hospodin⟧ před vámi vysušil vodu Rákosového moře, když jste vycházeli z ⟦egypt|Micrajim|Egypta⟧, a co jste udělali dvěma králům ⟦amorites|Emorim|Emorejců⟧ za ⟦jordan|Jardenem|Jordánem⟧ – ⟦sihon|Sichonovi|Síchonovi⟧ a ⟦og|Ogovi|Ógovi⟧ – které jste zasvětili zkáze.
 
-[11] Když jsme to uslyšeli, rozplynula se naše srdce a kvůli vám už v nikom nezůstal duch; neboť Yahweh, váš *Elohim* – on je *Elohim* nahoře v nebesích i dole na zemi.
+[11] Když jsme to uslyšeli, rozplynula se naše srdce a kvůli vám už v nikom nezůstal duch; neboť ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧ – on je ⟦elohim|Elohim|Bůh⟧ nahoře v nebesích i dole na zemi.
 
-[12] Nyní mi tedy, prosím, přísahejte při Yahweh, že protože jsem vám prokázala laskavost, i vy prokážete laskavost domu mého otce, a dejte mi spolehlivé znamení,
+[12] Nyní mi tedy, prosím, přísahejte při ⟦yhwh|Jahvovi|Hospodinu⟧, že protože jsem vám prokázala laskavost, i vy prokážete laskavost domu mého otce, a dejte mi spolehlivé znamení,
 
 [13] že ušetříte život mého otce a mé matky, mých bratrů a mých sester a všech, kdo k nim patří, a že vysvobodíte naše životy od smrti.“
 
-[14] Muži jí řekli: „Náš život za váš – jestliže nevyzradíš tuto naši věc! A až nám Yahweh dá tuto zemi, prokážeme ti laskavost a věrnost.“
+[14] Muži jí řekli: „Náš život za váš – jestliže nevyzradíš tuto naši věc! A až nám ⟦yhwh|Jahve|Hospodin⟧ dá tuto zemi, prokážeme ti laskavost a věrnost.“
 
 [15] Potom je spustila po provaze oknem, neboť její dům byl zabudován do městské hradby a bydlela v hradbě.
 
@@ -44,9 +44,9 @@
 
 [22] Šli, přišli do pohoří a zůstali tam tři dny, dokud se pronásledovatelé nevrátili. Pronásledovatelé je hledali po celé cestě, ale nenašli je.
 
-[23] Ti dva muži se pak vrátili, sestoupili z pohoří, přešli řeku a přišli k Joshuovi, synu Nunovu; vyprávěli mu všechno, co je potkalo.
+[23] Ti dva muži se pak vrátili, sestoupili z pohoří, přešli řeku a přišli k ⟦joshua|Jehošuovi|Jozuovi⟧, synu ⟦nun|Nunovu|Núnovu⟧; vyprávěli mu všechno, co je potkalo.
 
-[24] Řekli Joshuovi: „Yahweh opravdu vydal celou zemi do našich rukou; a všichni obyvatelé země se před námi skutečně rozplývají strachem.“
+[24] Řekli ⟦joshua|Jehošuovi|Jozuovi⟧: „⟦yhwh|Jahve|Hospodin⟧ opravdu vydal celou zemi do našich rukou; a všichni obyvatelé země se před námi skutečně rozplývají strachem.“
 
 ## Změny
 

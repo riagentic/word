@@ -13,14 +13,14 @@ and to gather lilies.
 [3] I am my beloved's and my beloved is mine;
 he grazes among the lilies.
 
-[4] You are beautiful as Tirzah, my love,
-lovely as Jerusalem,
+[4] You are beautiful as ⟦tirzah|Tirtzah|Tirzah⟧, my love,
+lovely as ⟦jerusalem|Yerushalayim|Jerusalem⟧,
 awesome as an army with banners.
 
 [5] Turn away your eyes from me,
 for they overwhelm me —
 your hair is like a flock of goats
-leaping down the slopes of Gilead.
+leaping down the slopes of ⟦gilead|Gilad|Gilead⟧.
 
 [6] Your teeth are like a flock of ewes
 that have come up from the washing;
@@ -51,10 +51,10 @@ whether the pomegranates were in bloom.
 [12] Before I was aware, my soul set me
 among the chariots of my noble people.
 
-[13] Return, return, O Shulammit!
+[13] Return, return, O ⟦shulammite|Shulammit|Shulammite⟧!
 Return, return, that we may look upon you.
 
-Why should you look upon the Shulammit,
+Why should you look upon the ⟦shulammite|Shulammit|Shulammite⟧,
 as upon a dance before two armies?
 
 ## Changes

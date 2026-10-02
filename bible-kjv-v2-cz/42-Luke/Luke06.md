@@ -1,38 +1,38 @@
 # Lukáš 6
 
-[1] Jednoho sabatu šel přes obilná pole a jeho učedníci trhali klasy, mnuli je v rukou a jedli.
+[1] ⟦shabbat|Jednoho šabatu|Jedné soboty⟧ šel přes obilná pole a jeho učedníci trhali klasy, mnuli je v rukou a jedli.
 
-[2] Někteří z farizeů však řekli: „Proč děláte, co se v sabat dělat nesmí?“
+[2] Někteří z ⟦pharisees|perušim|farizeů⟧ však řekli: „Proč děláte, co se v ⟦shabbat|šabat|sobotu⟧ dělat nesmí?“
 
-[3] *Yeshua* jim odpověděl: „Copak jste nečetli, co udělal David, když vyhladověl on a ti, kdo byli s ním:
+[3] ⟦yeshua|Ješua|Ježíš⟧ jim odpověděl: „Copak jste nečetli, co udělal David, když vyhladověl on a ti, kdo byli s ním:
 
-[4] jak vešel do domu *Elohim*, vzal chleby předložení, které nesmí jíst nikdo kromě kněží, jedl je a dal i těm, kdo byli s ním?“
+[4] jak vešel do domu ⟦elohim|Elohim|Božího⟧, vzal chleby předložení, které nesmí jíst nikdo kromě kněží, jedl je a dal i těm, kdo byli s ním?“
 
-[5] A řekl jim: „**Syn člověka je pánem sabatu.**“
+[5] A řekl jim: „**Syn člověka je pánem ⟦shabbat|šabatu|soboty⟧.**“
 
-[6] Jiného sabatu vešel do synagogy a učil. Byl tam člověk, jehož pravá ruka byla odumřelá.
+[6] ⟦shabbat|Jiného šabatu|Jiné soboty⟧ vešel do synagogy a učil. Byl tam člověk, jehož pravá ruka byla odumřelá.
 
-[7] Zákoníci a farizeové ho pozorovali, zda bude v sabat uzdravovat, aby našli důvod ho obvinit.
+[7] Zákoníci a ⟦pharisees|perušim|farizeové⟧ ho pozorovali, zda bude v ⟦shabbat|šabat|sobotu⟧ uzdravovat, aby našli důvod ho obvinit.
 
 [8] On však znal jejich myšlenky a řekl muži s odumřelou rukou: „Vstaň a postav se sem doprostřed.“ On vstal a postavil se tam.
 
-[9] *Yeshua* jim řekl: „Ptám se vás: je v sabat dovoleno činit dobře, nebo činit zle, život zachránit, nebo zahubit?“
+[9] ⟦yeshua|Ješua|Ježíš⟧ jim řekl: „Ptám se vás: je v ⟦shabbat|šabat|sobotu⟧ dovoleno činit dobře, nebo činit zle, život zachránit, nebo zahubit?“
 
 [10] Rozhlédl se po všech a řekl mu: „Vztáhni ruku.“ On tak učinil a jeho ruka byla uzdravena.
 
-[11] Oni však byli naplněni zuřivostí a rozmlouvali mezi sebou, co by *Yeshuovi* udělali.
+[11] Oni však byli naplněni zuřivostí a rozmlouvali mezi sebou, co by ⟦yeshua|Ješuovi|Ježíšovi⟧ udělali.
 
-[12] V těch dnech vyšel na horu, aby se modlil, a celou noc setrval v modlitbě k *Elohim*.
+[12] V těch dnech vyšel na horu, aby se modlil, a celou noc setrval v modlitbě k ⟦elohim|Elohim|Bohu⟧.
 
 [13] Když nastal den, zavolal své učedníky a vyvolil z nich dvanáct, které nazval apoštoly:
 
-[14] Simona, kterého pojmenoval *Kefa*, a jeho bratra Andrewa, Jacoba a Johna, Philipa a Bartholomewa,
+[14] Šimona, kterého pojmenoval ⟦peter|Kefa|Petr⟧, a jeho bratra ⟦andrew|Andrease|Ondřeje⟧, ⟦james|Jaakova|Jakuba⟧ a ⟦john|Jochanana|Jana⟧, ⟦philip|Filippa|Filipa⟧ a ⟦bartholomew|Bar-Talmaje|Bartoloměje⟧,
 
-[15] Matthewa a Thomase, Jacoba, syna Alphaeova, a Simona, zvaného Zélóta,
+[15] ⟦matthew|Mattaje|Matouše⟧ a ⟦thomas|Tomu|Tomáše⟧, ⟦james|Jaakova|Jakuba⟧, syna ⟦alphaeus|Alfaiova|Alfeova⟧, a Šimona, zvaného ⟦zealot|Zélóta|Horlivec⟧,
 
-[16] Judase, syna Jacobova, a Judase Iscariota, který se stal zrádcem.
+[16] ⟦jude|Jehudu|Judu⟧, syna ⟦james|Jaakovova|Jakubova⟧, a ⟦judas|Jehudu|Jidáše⟧ ⟦iscariot|Iškariota|Iškariotského⟧, který se stal zrádcem.
 
-[17] Sestoupil s nimi a zastavil se na rovném místě s velkým zástupem svých učedníků a velikým množstvím lidu z celé Judeje a Jerusalemu a z přímořské oblasti Tyru a Sidonu, kteří přišli, aby ho slyšeli a byli uzdraveni ze svých nemocí.
+[17] Sestoupil s nimi a zastavil se na rovném místě s velkým zástupem svých učedníků a velikým množstvím lidu z ⟦judea|celé Jehudy|celého Judska⟧ a ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ a z přímořské oblasti ⟦tyre|Coru|Týru⟧ a ⟦sidon|Cidonu|Sidónu⟧, kteří přišli, aby ho slyšeli a byli uzdraveni ze svých nemocí.
 
 [18] A ti, které trápili nečistí duchové, byli uzdravováni.
 
@@ -40,7 +40,7 @@
 
 [20] Pozvedl oči ke svým učedníkům a řekl:
 
-„Blahoslavení vy chudí, neboť vaše je království *Elohim*.
+„Blahoslavení vy chudí, neboť vaše je království ⟦elohim|Elohim|Boží⟧.
 [21] Blahoslavení vy, kdo nyní hladovíte, neboť budete nasyceni.
 Blahoslavení vy, kdo nyní pláčete, neboť se budete smát.
 [22] Blahoslavení jste, když vás lidé nenávidí, když vás vylučují, tupí a zavrhují vaše jméno jako zlé kvůli Synu člověka!

@@ -1,43 +1,43 @@
 # Amos 5
 
-[1] Hear this word that I take up over you in lamentation, O house of Israel:
+[1] Hear this word that I take up over you in lamentation, O house of ⟦israel|Yisrael|Israel⟧:
 
 [2] "Fallen, no more to rise,
-is the virgin Israel;
+is the virgin ⟦israel|Yisrael|Israel⟧;
 forsaken on her land,
 with none to raise her up."
 
-[3] For thus says Lord Yahweh:
+[3] For thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧:
 
 "The city that went out a thousand
 shall have a hundred left,
 and that which went out a hundred
 shall have ten left
-to the house of Israel."
+to the house of ⟦israel|Yisrael|Israel⟧."
 
-[4] For thus says Yahweh to the house of Israel:
+[4] For thus says ⟦yhwh|Yahweh|the LORD⟧ to the house of ⟦israel|Yisrael|Israel⟧:
 
 "Seek me and live;
 
-[5] but do not seek Bethel,
+[5] but do not seek ⟦bethel|Beit El|Bethel⟧,
 and do not enter into Gilgal
-or cross over to Beersheba;
+or cross over to ⟦beersheba|Beer Sheva|Beersheba⟧;
 for Gilgal shall surely go into exile,
-and Bethel shall come to nothing."
+and ⟦bethel|Beit El|Bethel⟧ shall come to nothing."
 
-[6] Seek Yahweh and live,
-lest he break out like fire in the house of Joseph,
-and it devour, with none to quench it for Bethel,
+[6] Seek ⟦yhwh|Yahweh|the LORD⟧ and live,
+lest he break out like fire in the house of ⟦joseph|Yosef|Joseph⟧,
+and it devour, with none to quench it for ⟦bethel|Beit El|Bethel⟧,
 
 [7] O you who turn justice to wormwood
 and cast down righteousness to the earth!
 
-[8] He who made the Pleiades and Orion,
+[8] He who made ⟦pleiades|Kimah|the Pleiades⟧ and ⟦orion|Kesil|Orion⟧,
 and turns deep darkness into the morning
 and darkens the day into night,
 who calls for the waters of the sea
 and pours them out on the surface of the earth,
-Yahweh is his name;
+⟦yhwh|Yahweh|the LORD⟧ is his name;
 
 [9] who makes destruction flash forth against the strong,
 so that destruction comes upon the fortress.
@@ -62,15 +62,15 @@ for it is an evil time.
 
 [14] Seek good, and not evil,
 that you may live;
-and so Yahweh, the *Elohim* of Hosts, will be with you,
+and so ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of Hosts, will be with you,
 as you have said.
 
 [15] Hate evil, and love good,
 and establish justice in the gate;
-it may be that Yahweh, the *Elohim* of Hosts,
-will be gracious to the remnant of Joseph.
+it may be that ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of Hosts,
+will be gracious to the remnant of ⟦joseph|Yosef|Joseph⟧.
 
-[16] Therefore thus says Yahweh, the *Elohim* of Hosts, Lord:
+[16] Therefore thus says ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of Hosts, ⟦adonai|Adonai|the Lord⟧:
 
 "In all the squares there shall be wailing,
 and in all the streets they shall say, 'Alas! Alas!'
@@ -78,10 +78,10 @@ They shall call the farmers to mourning
 and to wailing those who are skilled in lamentation,
 
 [17] and in all vineyards there shall be wailing,
-for I will pass through your midst," says Yahweh.
+for I will pass through your midst," says ⟦yhwh|Yahweh|the LORD⟧.
 
-[18] **Woe to you who desire the Day of Yahweh!**
-Why would you have the Day of Yahweh?
+[18] **Woe to you who desire the Day of ⟦yhwh|Yahweh|the LORD⟧!**
+Why would you have the Day of ⟦yhwh|Yahweh|the LORD⟧?
 It is darkness, and not light,
 
 [19] as if a man fled from a lion,
@@ -89,7 +89,7 @@ and a bear met him,
 or went into the house and leaned his hand against the wall,
 and a serpent bit him.
 
-[20] Is not the Day of Yahweh darkness, and not light,
+[20] Is not the Day of ⟦yhwh|Yahweh|the LORD⟧ darkness, and not light,
 and gloom with no brightness in it?
 
 [21] "I hate, I despise your feasts,
@@ -106,11 +106,11 @@ to the melody of your harps I will not listen.
 [24] **But let justice roll down like waters,
 and righteousness like an ever-flowing stream.**
 
-[25] "Did you bring to me sacrifices and offerings during the forty years in the wilderness, O house of Israel?
+[25] "Did you bring to me sacrifices and offerings during the forty years in the wilderness, O house of ⟦israel|Yisrael|Israel⟧?
 
-[26] You shall take up Sikkuth your king, and Kiyyun your star-god — your images that you made for yourselves,
+[26] You shall take up ⟦sikkuth|Sikkut|Sikkuth⟧ your king, and Kiyyun your star-god — your images that you made for yourselves,
 
-[27] and I will send you into exile beyond Damascus," says Yahweh, whose name is *Elohim* of Hosts.
+[27] and I will send you into exile beyond ⟦damascus|Dammeseq|Damascus⟧," says ⟦yhwh|Yahweh|the LORD⟧, whose name is ⟦elohim|Elohim|God⟧ of Hosts.
 
 ## Changes
 

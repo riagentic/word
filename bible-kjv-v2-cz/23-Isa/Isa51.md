@@ -1,25 +1,25 @@
 # Izajáš 51
 
 [1] „Poslouchejte mě, vy, kdo se honíte za spravedlností,
-vy, kdo hledáte Yahweh:
+vy, kdo hledáte ⟦yhwh|Jahveho|Hospodina⟧:
 pohleďte na skálu, z níž jste byli vytesáni,
 a na lom, z něhož jste byli vykopáni.
 
-[2] Pohleďte na Abrahama, svého otce,
-a na Sarah, která vás porodila;
+[2] Pohleďte na ⟦abraham|Avrahama|Abrahama⟧, svého otce,
+a na ⟦sarah|Saru|Sáru⟧, která vás porodila;
 neboť byl jen jeden, když jsem ho povolal,
 abych mu požehnal a rozmnožil ho.
 
-[3] Neboť Yahweh těší Zion;
+[3] Neboť ⟦yhwh|Jahve|Hospodin⟧ těší ⟦zion|Cijon|Sijón⟧;
 těší všechna jeho zpustošená místa
-a činí jeho poušť jako Eden,
-jeho step jako zahradu Yahweh;
+a činí jeho poušť jako ⟦eden|Eden|Éden⟧,
+jeho step jako zahradu ⟦yhwh|Jahveho|Hospodina⟧;
 bude se v něm nacházet radost a veselí,
 díkůvzdání a zvuk písně.
 
 [4] Věnujte mi pozornost, můj lide,
 a naslouchej mi, můj národe;
-neboť ode mne vyjde zákon
+neboť ode mne vyjde ⟦torah|Tóra|zákon⟧
 a své právo ustanovím za světlo národům.
 
 [5] Má spravedlnost se blíží,
@@ -37,7 +37,7 @@ ale má spása bude navěky
 a má spravedlnost nikdy neochabne.
 
 [7] Poslouchejte mě, vy, kdo znáte spravedlnost,
-lide, v jehož srdci je můj zákon;
+lide, v jehož srdci je ⟦torah|má Tóra|můj zákon⟧;
 nebojte se potupy člověka
 ani se neděste jejich hanobení.
 
@@ -47,10 +47,10 @@ ale má spravedlnost bude navěky
 a má spása po všechna pokolení.“
 
 [9] Probuď se, probuď se, obleč se v sílu,
-paže Yahweh;
+paže ⟦yhwh|Jahveho|Hospodina⟧;
 probuď se jako za dávných dnů,
 za pokolení dávnověku.
-Nebyla jsi to ty, kdo rozsekal Rahab na kusy,
+Nebyla jsi to ty, kdo rozsekal ⟦rahab-monster|Rahava|Rahaba⟧ na kusy,
 kdo probodl mořskou nestvůru?
 
 [10] Nebyla jsi to ty, kdo vysušil moře,
@@ -58,8 +58,8 @@ vody veliké hlubiny,
 kdo učinil hlubiny moře cestou,
 aby jí přešli vykoupení?
 
-[11] A vyplacení Yahweh se navrátí
-a přijdou na Zion se zpěvem;
+[11] A vyplacení ⟦yhwh|Jahveho|Hospodina⟧ se navrátí
+a přijdou na ⟦zion|Cijon|Sijón⟧ se zpěvem;
 věčná radost bude na jejich hlavách;
 dosáhnou veselí a radosti
 a zármutek a vzdychání uprchnou.
@@ -68,7 +68,7 @@ a zármutek a vzdychání uprchnou.
 kdo jsi ty, že se bojíš člověka, který umírá,
 syna člověka, který je učiněn jako tráva,
 
-[13] a zapomněl jsi na Yahweh, svého Tvůrce,
+[13] a zapomněl jsi na ⟦yhwh|Jahveho|Hospodina⟧, svého Tvůrce,
 který roztáhl nebesa
 a založil základy země,
 a ustavičně po celý den se bojíš
@@ -80,19 +80,19 @@ A kde je hněv utlačovatele?
 nezemře a nesestoupí do jámy
 a nebude mu chybět chléb.
 
-[15] Já jsem Yahweh, tvůj *Elohim*,
+[15] Já jsem ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧,
 který rozbouřuje moře, že jeho vlny hučí –
-Yahweh zástupů je jeho jméno.
+⟦yhwh|Jahve|Hospodin⟧ zástupů je jeho jméno.
 
 [16] A vložil jsem svá slova do tvých úst
 a přikryl jsem tě ve stínu své ruky,
 když upevňuji nebesa
 a zakládám základy země
-a říkám Zionu: ‚Ty jsi můj lid.‘“
+a říkám ⟦zion|Cijonu|Sijónu⟧: ‚Ty jsi můj lid.‘“
 
 [17] Probuď se, probuď se,
-vstaň, Jerusaleme,
-ty, která jsi pila z ruky Yahweh
+vstaň, ⟦jerusalem|Jerušalajim|Jeruzaléme⟧,
+ty, která jsi pila z ruky ⟦yhwh|Jahveho|Hospodina⟧
 kalich jeho hněvu,
 která jsi vypila až do dna
 číši, kalich potácení.
@@ -110,13 +110,13 @@ kdo tě potěší?
 [20] Tví synové omdleli;
 leží na rohu každé ulice
 jako antilopa v síti;
-jsou plní hněvu Yahweh,
-kárání tvého *Elohim*.
+jsou plní hněvu ⟦yhwh|Jahveho|Hospodina⟧,
+kárání tvého ⟦elohim|Elohim|Boha⟧.
 
 [21] Proto slyš toto, ty ubohá,
 která jsi opilá, ale ne vínem:
 
-[22] Takto praví Pán, Yahweh, tvůj *Elohim*, který vede při svého lidu:
+[22] Takto praví Pán, ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, který vede při svého lidu:
 
 „Hle, vzal jsem z tvé ruky kalich potácení;
 číši mého hněvu už nebudeš pít;

@@ -1,7 +1,7 @@
 # Ozeáš 13
 
-[1] Když Ephraim promluvil, nastalo chvění;
-byl vyvýšen v Israeli,
+[1] Když Efrajim promluvil, nastalo chvění;
+byl vyvýšen v ⟦israel|Jisraeli|Izraeli⟧,
 ale provinil se skrze Baala a zemřel.
 
 [2] A nyní hřeší čím dál víc
@@ -16,9 +16,9 @@ nebo jako rosa, která brzy mizí,
 jako plevy, které se zvíří z mlatu,
 nebo jako dým z okna.
 
-[4] Já jsem však Yahweh, tvůj *Elohim*,
-od země Egypt;
-neznáš žádného *Elohim* kromě mne
+[4] Já jsem však ⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧,
+od země ⟦egypt|Micrajim|Egypt⟧;
+neznáš žádného ⟦elohim|Elohim|Boha⟧ kromě mne
 a kromě mne není zachránce.
 
 [5] Já jsem tě znal na poušti,
@@ -36,7 +36,7 @@ rozervu jim hruď
 a tam je sežeru jako lev,
 jako by je roztrhala divoká zvěř.
 
-[9] On tě hubí, Israeli,
+[9] On tě hubí, ⟦israel|Jisraeli|Izraeli⟧,
 neboť jsi proti mně, proti svému pomocníkovi.
 
 [10] Kde je teď tvůj král, aby tě zachránil ve všech tvých městech?
@@ -47,7 +47,7 @@ ti, o nichž jsi říkal:
 [11] Dal jsem ti krále ve svém hněvu
 a vzal jsem ho ve své prchlivosti.
 
-[12] Nepravost Ephraima je svázána;
+[12] Nepravost Efrajima je svázána;
 jeho hřích je uschován.
 
 [13] Přicházejí na něj porodní bolesti,
@@ -55,22 +55,22 @@ ale je to nemoudrý syn,
 neboť v pravou chvíli se nedostaví
 k otvoru lůna.
 
-[14] **Vykoupím je z moci Sheol;
+[14] **Vykoupím je z moci ⟦sheol|Šeolu|podsvětí⟧;
 vyplatím je ze smrti.
 Smrti, kde jsou tvé morové rány?
-Sheol, kde je tvé žihadlo?**
+⟦sheol|Šeole|podsvětí⟧, kde je tvé žihadlo?**
 Slitování je skryto před mýma očima.
 
 [15] I když se mu daří mezi jeho bratry,
-přijde východní vítr, vítr Yahweh,
+přijde východní vítr, vítr ⟦yhwh|Jahveho|Hospodina⟧,
 vystupující z pouště,
 a jeho pramen vyschne;
 jeho zřídlo vyprahne;
 oloupí jeho pokladnici
 o každou vzácnou věc.
 
-[16] Samarie ponese svou vinu,
-protože se vzbouřila proti svému *Elohim*;
+[16] ⟦samaria|Šomron|Samaří⟧ ponese svou vinu,
+protože se vzbouřila proti svému ⟦elohim|Elohim|Bohu⟧;
 padnou mečem;
 jejich maličcí budou roztříštěni
 a jejich těhotné ženy rozpárány.

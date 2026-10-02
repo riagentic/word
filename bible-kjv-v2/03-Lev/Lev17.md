@@ -1,32 +1,32 @@
 # Leviticus 17
 
-[1] Yahweh spoke to Moses, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[2] "Speak to Aaron and his sons and all the children of Israel, and say to them: 'This is the thing that Yahweh has commanded:
+[2] "Speak to ⟦aaron|Aharon|Aaron⟧ and his sons and all the children of ⟦israel|Yisrael|Israel⟧, and say to them: 'This is the thing that ⟦yhwh|Yahweh|the LORD⟧ has commanded:
 
-[3] Any man of the house of Israel who slaughters an ox, or a lamb, or a goat in the camp, or who slaughters it outside the camp,
+[3] Any man of the house of ⟦israel|Yisrael|Israel⟧ who slaughters an ox, or a lamb, or a goat in the camp, or who slaughters it outside the camp,
 
-[4] and does not bring it to the entrance of the Tent of Meeting to offer it as an offering to Yahweh before the dwelling of Yahweh — blood shall be imputed to that man; he has shed blood, and that man shall be cut off from among his people.
+[4] and does not bring it to the entrance of the Tent of Meeting to offer it as an offering to ⟦yhwh|Yahweh|the LORD⟧ before the dwelling of ⟦yhwh|Yahweh|the LORD⟧ — blood shall be imputed to that man; he has shed blood, and that man shall be cut off from among his people.
 
-[5] This is so that the children of Israel may bring their sacrifices, which they have been offering in the open field, and bring them to Yahweh, to the entrance of the Tent of Meeting, to the priest, and offer them as peace offerings to Yahweh.
+[5] This is so that the children of ⟦israel|Yisrael|Israel⟧ may bring their sacrifices, which they have been offering in the open field, and bring them to ⟦yhwh|Yahweh|the LORD⟧, to the entrance of the Tent of Meeting, to the priest, and offer them as peace offerings to ⟦yhwh|Yahweh|the LORD⟧.
 
-[6] The priest shall throw the blood against the altar of Yahweh at the entrance of the Tent of Meeting, and shall turn the fat into smoke as a pleasing aroma to Yahweh.
+[6] The priest shall throw the blood against the altar of ⟦yhwh|Yahweh|the LORD⟧ at the entrance of the Tent of Meeting, and shall turn the fat into smoke as a pleasing aroma to ⟦yhwh|Yahweh|the LORD⟧.
 
 [7] They shall no longer offer their sacrifices to goat-demons — after whom they have whored. This shall be a perpetual statute for them throughout their generations.'
 
-[8] Say to them: 'Any man of the house of Israel, or of the foreigners who sojourn among them, who offers a burnt offering or sacrifice,
+[8] Say to them: 'Any man of the house of ⟦israel|Yisrael|Israel⟧, or of the foreigners who sojourn among them, who offers a burnt offering or sacrifice,
 
-[9] and does not bring it to the entrance of the Tent of Meeting to offer it to Yahweh — that man shall be cut off from his people.
+[9] and does not bring it to the entrance of the Tent of Meeting to offer it to ⟦yhwh|Yahweh|the LORD⟧ — that man shall be cut off from his people.
 
-[10] Any man of the house of Israel, or of the foreigners who sojourn among them, who eats any blood — I will set my face against the person who eats blood and will cut him off from among his people.
+[10] Any man of the house of ⟦israel|Yisrael|Israel⟧, or of the foreigners who sojourn among them, who eats any blood — I will set my face against the person who eats blood and will cut him off from among his people.
 
 [11] For the life of the flesh is in the blood, and I have given it to you upon the altar to make atonement for your lives; for it is the blood that makes atonement by the life.
 
-[12] Therefore I have said to the children of Israel: No person among you shall eat blood, nor shall any foreigner who sojourns among you eat blood.
+[12] Therefore I have said to the children of ⟦israel|Yisrael|Israel⟧: No person among you shall eat blood, nor shall any foreigner who sojourns among you eat blood.
 
-[13] Any man of the children of Israel, or of the foreigners who sojourn among them, who hunts and catches any beast or bird that may be eaten, shall pour out its blood and cover it with dust.
+[13] Any man of the children of ⟦israel|Yisrael|Israel⟧, or of the foreigners who sojourn among them, who hunts and catches any beast or bird that may be eaten, shall pour out its blood and cover it with dust.
 
-[14] For the life of all flesh is its blood. Therefore I have said to the children of Israel: You shall not eat the blood of any flesh, for the life of all flesh is its blood; whoever eats it shall be cut off.
+[14] For the life of all flesh is its blood. Therefore I have said to the children of ⟦israel|Yisrael|Israel⟧: You shall not eat the blood of any flesh, for the life of all flesh is its blood; whoever eats it shall be cut off.
 
 [15] Every person who eats an animal that dies of itself or is torn by beasts, whether he is a native or a foreigner, shall wash his clothes and bathe himself in water, and be unclean until evening; then he shall be clean.
 

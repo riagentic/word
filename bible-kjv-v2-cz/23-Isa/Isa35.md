@@ -5,19 +5,19 @@ step bude jásat a rozkvete jako šafrán;
 
 [2] bohatě rozkvete
 a bude jásat radostí a zpěvem.
-Bude jí dána sláva Lebanonu,
-velebnost Carmelu a Sharonu.
-Uvidí slávu Yahweh,
-velebnost našeho *Elohim*.
+Bude jí dána sláva ⟦lebanon|Levanonu|Libanónu⟧,
+velebnost Karmelu a ⟦sharon|Šaronu|Šarónu⟧.
+Uvidí slávu ⟦yhwh|Jahveho|Hospodina⟧,
+velebnost našeho ⟦elohim|Elohim|Boha⟧.
 
 [3] Posilněte ochablé ruce
 a upevněte klesající kolena.
 
 [4] Řekněte těm, kdo mají ustrašené srdce:
 „Buďte silní; nebojte se!
-Hle, váš *Elohim*
+Hle, váš ⟦elohim|Elohim|Bůh⟧
 přijde s pomstou,
-s odplatou *Elohim*.
+s odplatou ⟦elohim|Elohim|Boží⟧.
 Přijde a zachrání vás.“
 
 [5] Tehdy se otevřou oči slepých
@@ -44,8 +44,8 @@ ani na ni nevystoupí žádná dravá šelma;
 nebudou tam nalezeny,
 ale budou tam chodit vykoupení.
 
-[10] A vyplacení Yahweh se navrátí
-a přijdou na Zion se zpěvem;
+[10] A vyplacení ⟦yhwh|Jahveho|Hospodina⟧ se navrátí
+a přijdou na ⟦zion|Cijon|Sijón⟧ se zpěvem;
 věčná radost bude na jejich hlavách;
 dosáhnou veselí a radosti
 a zármutek a vzdychání uprchnou.

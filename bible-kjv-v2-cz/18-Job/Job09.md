@@ -1,9 +1,9 @@
 # Jób 9
 
-[1] Tu Job odpověděl a řekl:
+[1] Tu ⟦job|Ijov|Jób⟧ odpověděl a řekl:
 
 [2] „Vskutku vím, že je tomu tak;
-ale jak může být člověk spravedlivý před *Elohim*?
+ale jak může být člověk spravedlivý před ⟦el|El|Bohem⟧?
 
 [3] Kdyby se s ním chtěl někdo přít,
 nedokázal by mu odpovědět ani na jednu věc z tisíce.
@@ -23,7 +23,7 @@ zapečeťuje hvězdy.
 [8] Sám rozpíná nebesa
 a kráčí po vlnách moře.
 
-[9] Učinil Ash, Oriona a Kimah – Velkou medvědici, Oriona a Plejády –
+[9] Učinil ⟦bear|Aš|souhvězdí Lva⟧, ⟦orion|Kesil|Oriona⟧ a ⟦pleiades|Kimu – Velkou medvědici, Oriona a Plejády –|Plejády⟧
 i komory jihu.
 
 [10] Koná veliké věci nevyzpytatelné,
@@ -35,8 +35,8 @@ pokračuje dál, ale nevnímám ho.
 [12] Hle, uchvátí; kdo ho zadrží?
 Kdo mu řekne: ‚Co to děláš?‘
 
-[13] Eloah neodvrací svůj hněv;
-pod ním se sklánějí pomocníci Rahab – mořské nestvůry.
+[13] ⟦eloah|Eloah|Bůh⟧ neodvrací svůj hněv;
+pod ním se sklánějí pomocníci ⟦rahab-monster|Rahav – mořské nestvůry|Rahab⟧.
 
 [14] Jak bych mu tedy mohl odpovídat,
 volit svá slova, abych se s ním přel?
@@ -107,6 +107,7 @@ neboť sám v sobě takový nejsem.“
 
 ## Změny
 
+- **"God" → „El“** (v2) – hebrejsky אֵל *El*, ne *Elohim*.
 - **"post" → „běžec“** (v25) – *ratz*.
 - **"swift ships" → „rákosové čluny“** (v26) – *oniyyot evek*; papyrusové loďky.
 

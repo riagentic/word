@@ -1,12 +1,12 @@
 # Izajáš 44
 
-[1] Ale nyní slyš, Jacobe, můj služebníku,
-Israeli, kterého jsem vyvolil!
+[1] Ale nyní slyš, ⟦jacob|Jaakove|Jákobe⟧, můj služebníku,
+⟦israel|Jisraeli|Izraeli⟧, kterého jsem vyvolil!
 
-[2] Takto praví Yahweh, který tě učinil, který tě utvořil od lůna a pomůže ti:
+[2] Takto praví ⟦yhwh|Jahve|Hospodin⟧, který tě učinil, který tě utvořil od lůna a pomůže ti:
 
-„Neboj se, Jacobe, můj služebníku,
-Jeshurune, kterého jsem vyvolil.
+„Neboj se, ⟦jacob|Jaakove|Jákobe⟧, můj služebníku,
+⟦jeshurun|Ješurune|Ješurúne⟧, kterého jsem vyvolil.
 
 [3] Neboť vyleji vodu na žíznivou zemi
 a potoky na vyprahlou půdu;
@@ -16,15 +16,15 @@ a své požehnání na tvé potomky.
 [4] Vyrostou mezi trávou
 jako vrby u tekoucích potoků.
 
-[5] Jeden řekne: ‚Patřím Yahweh,‘
-jiný bude vzývat jméno Jacobovo
-a další si napíše na ruku: ‚Náležím Yahweh,‘
-a bude se nazývat jménem Israel.“
+[5] Jeden řekne: ‚Patřím ⟦yhwh|Jahvovi|Hospodinu⟧,‘
+jiný bude vzývat jméno ⟦jacob|Jaakovovo|Jákobovo⟧
+a další si napíše na ruku: ‚Náležím ⟦yhwh|Jahvovi|Hospodinu⟧,‘
+a bude se nazývat jménem ⟦israel|Jisrael|Izrael⟧.“
 
-[6] Takto praví Yahweh, Král Israele a jeho Vykupitel, Yahweh zástupů:
+[6] Takto praví ⟦yhwh|Jahve|Hospodin⟧, Král ⟦israel|Jisraele|Izraele⟧ a jeho Vykupitel, ⟦yhwh|Jahve|Hospodin⟧ zástupů:
 
 „Já jsem první a já jsem poslední;
-kromě mě není žádný *Elohim*.
+kromě mě není žádný ⟦elohim|Elohim|Bůh⟧.
 
 [7] Kdo je jako já? Ať to ohlásí.
 Ať to oznámí a předloží mi to,
@@ -34,7 +34,7 @@ Ať oznámí, co přijde a co se stane.
 [8] Nebojte se ani se neděste;
 což jsem vám to dávno neřekl a neoznámil?
 A vy jste moji svědkové!
-Je snad kromě mě nějaký *Elohim*?
+Je snad kromě mě nějaký ⟦eloah|Eloah|Bůh⟧?
 Není žádná Skála; žádnou neznám.“
 
 [9] Všichni, kdo vyrábějí modly, jsou nic
@@ -68,25 +68,25 @@ Budou vyděšeni; budou spolu zahanbeni.
 
 [20] Živí se popelem; oklamané srdce ho svedlo a nemůže vysvobodit svou duši ani říci: „Není v mé pravici lež?“
 
-[21] Pamatuj na tyto věci, Jacobe,
-a Israeli, neboť jsi můj služebník;
+[21] Pamatuj na tyto věci, ⟦jacob|Jaakove|Jákobe⟧,
+a ⟦israel|Jisraeli|Izraeli⟧, neboť jsi můj služebník;
 utvořil jsem tě; jsi můj služebník;
-Israeli, nezapomenu na tebe.
+⟦israel|Jisraeli|Izraeli⟧, nezapomenu na tebe.
 
 [22] Smazal jsem tvá přestoupení jako oblak
 a tvé hříchy jako mlhu;
 vrať se ke mně, neboť jsem tě vykoupil.
 
-[23] Zpívejte, nebesa, neboť Yahweh to učinil;
+[23] Zpívejte, nebesa, neboť ⟦yhwh|Jahve|Hospodin⟧ to učinil;
 jásejte, hlubiny země;
 propukněte v zpěv, hory,
 lese i každý strom v něm!
-Neboť Yahweh vykoupil Jacoba
-a bude oslaven v Israeli.
+Neboť ⟦yhwh|Jahve|Hospodin⟧ vykoupil ⟦jacob|Jaakova|Jákoba⟧
+a bude oslaven v ⟦israel|Jisraeli|Izraeli⟧.
 
-[24] Takto praví Yahweh, tvůj Vykupitel, který tě utvořil od lůna:
+[24] Takto praví ⟦yhwh|Jahve|Hospodin⟧, tvůj Vykupitel, který tě utvořil od lůna:
 
-„Já jsem Yahweh, který učinil všechno,
+„Já jsem ⟦yhwh|Jahve|Hospodin⟧, který učinil všechno,
 který sám roztáhl nebesa,
 který sám od sebe rozprostřel zemi,
 
@@ -97,16 +97,16 @@ a jejich poznání činí pošetilým,
 
 [26] který potvrzuje slovo svého služebníka
 a naplňuje radu svých poslů,
-který říká o Jerusalemu: ‚Bude obydlen,‘
-a o městech Judahu: ‚Budou vystavěna
+který říká o ⟦jerusalem|Jerušalajim|Jeruzalému⟧: ‚Bude obydlen,‘
+a o městech ⟦judah|Jehudy|Judy⟧: ‚Budou vystavěna
 a jejich trosky obnovím‘;
 
 [27] který říká hlubině: ‚Vyschni;
 vysuším tvé řeky‘;
 
-[28] který říká o **Cyrusovi**: ‚Je můj pastýř
+[28] který říká o *⟦cyrus|Korešovi|Kýrovi⟧*: ‚Je můj pastýř
 a naplní celý můj záměr‘;
-a říká o Jerusalemu: ‚Bude vystavěn,‘
+a říká o ⟦jerusalem|Jerušalajim|Jeruzalému⟧: ‚Bude vystavěn,‘
 a o chrámu: ‚Tvůj základ bude položen.‘“
 
 ## Změny
@@ -115,6 +115,7 @@ a o chrámu: ‚Tvůj základ bude položen.‘“
 - **"LORD of hosts" → „Yahweh zástupů“** (v6) – zachován božský titul.
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejské *Elohim* zachováno.
 - **"Cyrus" – poprvé výslovně jmenován** (v28) – v textu vyznačen tučně, aby vynikla mimořádná prorocká konkrétnost.
+- **"God" → „Eloah“** (v8) – hebrejsky אֱלוֹהַּ *Eloah*, ne *Elohim*.
 - **Prozaická polemika proti modlám (v12–20)** – zachována jako próza; okolní poezie uspořádána jako verše.
 
 ### Poznámky

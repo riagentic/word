@@ -1,12 +1,12 @@
 # Ezechiel 40
 
-[1] V dvacátém pátém roce našeho vyhnanství, na počátku roku, desátého dne měsíce, ve čtrnáctém roce po dobytí města, právě toho dne na mně byla ruka Yahweh a přivedl mě do města.
+[1] V dvacátém pátém roce našeho vyhnanství, na počátku roku, desátého dne měsíce, ve čtrnáctém roce po dobytí města, právě toho dne na mně byla ruka ⟦yhwh|Jahveho|Hospodina⟧ a přivedl mě do města.
 
-[2] Ve viděních *Elohim* mě přivedl do země Israele a postavil mě na velmi vysokou horu, na níž byla na jihu stavba podobná městu.
+[2] Ve viděních ⟦elohim|Elohim|Božích⟧ mě přivedl do země ⟦israel|Jisraele|Izraele⟧ a postavil mě na velmi vysokou horu, na níž byla na jihu stavba podobná městu.
 
 [3] Když mě tam přivedl, hle, byl tam muž, jehož vzhled byl jako bronz, se lněnou šňůrou a měřicím prutem v ruce. Stál v bráně.
 
-[4] Ten muž mi řekl: „Synu člověka, dívej se svýma očima, poslouchej svýma ušima a upři své srdce na všechno, co ti ukážu, neboť jsi sem byl přiveden, abych ti to ukázal. Oznam domu Israele všechno, co uvidíš.“
+[4] Ten muž mi řekl: „Synu člověka, dívej se svýma očima, poslouchej svýma ušima a upři své srdce na všechno, co ti ukážu, neboť jsi sem byl přiveden, abych ti to ukázal. Oznam domu ⟦israel|Jisraele|Izraele⟧ všechno, co uvidíš.“
 
 [5] A hle, zvenčí kolem celého chrámového okrsku byla zeď a délka měřicího prutu v ruce toho muže byla šest dlouhých loktů (každý o délce lokte a dlaně). Změřil tedy tloušťku zdi, jeden prut, a výšku, jeden prut.
 
@@ -90,7 +90,7 @@
 
 [45] Řekl mi: „Tato síň, která je obrácena k jihu, je pro kněze, kteří mají na starosti chrám,
 
-[46] a síň, která je obrácena k severu, je pro kněze, kteří mají na starosti oltář. To jsou **synové Zadoka**, kteří jediní ze synů Leviho smějí přistupovat k Yahweh, aby mu sloužili.“
+[46] a síň, která je obrácena k severu, je pro kněze, kteří mají na starosti oltář. To jsou **synové ⟦zadok|Cadoka|Sádoka⟧**, kteří jediní ze synů ⟦levi|Leviho|Léviho⟧ smějí přistupovat k ⟦yhwh|Jahvovi|Hospodinu⟧, aby mu sloužili.“
 
 [47] Změřil nádvoří, sto loktů na délku a sto loktů na šířku, čtverec. A oltář byl před chrámem.
 

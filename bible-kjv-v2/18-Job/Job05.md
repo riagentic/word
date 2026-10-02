@@ -23,8 +23,8 @@ nor does trouble sprout from the ground;
 [7] but man is born to trouble,
 as the sparks fly upward.
 
-[8] But as for me, I would seek *Elohim*,
-and to *Elohim* I would commit my cause —
+[8] But as for me, I would seek ⟦el|El|God⟧,
+and to ⟦elohim|Elohim|God⟧ I would commit my cause —
 
 [9] who does great things beyond searching,
 wondrous things beyond number,
@@ -50,8 +50,8 @@ and from the hand of the mighty.
 [16] So the poor have hope,
 and injustice shuts its mouth.
 
-[17] Behold, blessed is the man whom Eloah reproves.
-Therefore do not despise the discipline — of Shaddai;
+[17] Behold, blessed is the man whom ⟦eloah|Eloah|God⟧ reproves.
+Therefore do not despise the discipline — of ⟦shaddai|Shaddai|the Almighty⟧;
 
 [18] for he wounds, but he binds up;
 he strikes, but his hands heal.
@@ -86,6 +86,7 @@ hear it, and know it for yourself."
 ## Changes
 
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
+- **"God" → "El"** (v8) — Hebrew אֵל *El*, not *Elohim*.
 - **"tabernacle" → "tent"** (v24).
 - **"shock of corn" → "stack of sheaves"** (v26).
 

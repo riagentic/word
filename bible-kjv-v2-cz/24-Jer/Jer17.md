@@ -1,12 +1,12 @@
 # Jeremjáš 17
 
-[1] „Hřích Judah je zapsán železným rydlem;
+[1] „Hřích ⟦judah|Jehudy|Judy⟧ je zapsán železným rydlem;
 diamantovým hrotem je vyryt
 na desce jejich srdce
 a na rozích jejich oltářů,
 
 [2] zatímco jejich děti vzpomínají na své oltáře
-a na své kůly Asherah
+a na své ⟦asherah|kůly Ašera|posvátné kůly⟧
 u každého zeleného stromu
 a na vysokých pahorcích,
 
@@ -22,19 +22,19 @@ v zemi, kterou neznáš,
 neboť v mém hněvu se vznítil oheň,
 který bude hořet navěky.“
 
-[5] Toto praví Yahweh:
+[5] Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
 „Proklet je muž, který doufá v člověka
 a z těla si dělá svou sílu,
-jehož srdce se odvrací od Yahweh.
+jehož srdce se odvrací od ⟦yhwh|Jahveho|Hospodina⟧.
 
 [6] Je jako keř v pustině
 a neuvidí přicházet nic dobrého.
 Bude bydlet na vyprahlých místech pouště,
 v neobydlené slané zemi.
 
-[7] Blahoslavený muž, který doufá v Yahweh,
-jehož důvěrou je Yahweh.
+[7] Blahoslavený muž, který doufá v ⟦yhwh|Jahveho|Hospodina⟧,
+jehož důvěrou je ⟦yhwh|Jahve|Hospodin⟧.
 
 [8] Je jako strom zasazený u vody,
 který vysílá své kořeny k potoku
@@ -47,7 +47,7 @@ neboť nepřestává nést ovoce.
 a beznadějně nemocné;
 kdo je může pochopit?
 
-[10] Já, Yahweh, zkoumám srdce
+[10] Já, ⟦yhwh|Jahve|Hospodine⟧, zkoumám srdce
 a zkouším nejhlubší nitro,
 abych dal každému podle jeho cest,
 podle ovoce jeho skutků.“
@@ -60,17 +60,17 @@ a na svém konci bude bláznem.
 [12] Slavný trůn vyvýšený od počátku
 je místo naší svatyně.
 
-[13] Yahweh, naděje Israele,
+[13] ⟦yhwh|Jahve|Hospodine⟧, naděje ⟦israel|Jisraele|Izraele⟧,
 všichni, kdo tě opouštějí, budou zahanbeni;
 ti, kdo se od tebe odvracejí, budou zapsáni do země,
-neboť opustili Yahweh, pramen živých vod.
+neboť opustili ⟦yhwh|Jahveho|Hospodina⟧, pramen živých vod.
 
-[14] Uzdrav mě, Yahweh, a budu uzdraven;
+[14] Uzdrav mě, ⟦yhwh|Jahve|Hospodine⟧, a budu uzdraven;
 zachraň mě, a budu zachráněn,
 neboť ty jsi má chvála.
 
 [15] Hle, říkají mi:
-„Kde je slovo Yahweh?
+„Kde je slovo ⟦yhwh|Jahveho|Hospodina⟧?
 Ať přijde!“
 
 [16] Neutíkal jsem od toho, abych byl tvým pastýřem,
@@ -88,23 +88,23 @@ ale ať nejsem zděšen já;
 přiveď na ně den pohromy;
 znič je dvojnásobnou zkázou!
 
-[19] Toto mi řekl Yahweh: „Jdi a postav se v Bráně lidu, kterou vcházejí a kterou vycházejí králové Judah, a ve všech branách Jerusalemu
+[19] Toto mi řekl ⟦yhwh|Jahve|Hospodin⟧: „Jdi a postav se v Bráně lidu, kterou vcházejí a kterou vycházejí králové ⟦judah|Jehudy|Judy⟧, a ve všech branách ⟦jerusalem|Jerušalajim|Jeruzaléma⟧
 
-[20] a řekni: ‚Slyšte slovo Yahweh, králové Judah, celý Judah a všichni obyvatelé Jerusalemu, kteří vcházíte těmito branami.
+[20] a řekni: ‚Slyšte slovo ⟦yhwh|Jahveho|Hospodina⟧, králové ⟦judah|Jehudy|Judy⟧, celý ⟦judah|Jehuda|Juda⟧ a všichni obyvatelé ⟦jerusalem|Jerušalajim|Jeruzaléma⟧, kteří vcházíte těmito branami.
 
-[21] Toto praví Yahweh: Mějte se na pozoru kvůli svým duším a nenoste břemeno v den sabatu ani je nevnášejte branami Jerusalemu.
+[21] Toto praví ⟦yhwh|Jahve|Hospodin⟧: Mějte se na pozoru kvůli svým duším a nenoste břemeno v den ⟦shabbat|šabatu|soboty⟧ ani je nevnášejte branami ⟦jerusalem|Jerušalajim|Jeruzaléma⟧.
 
-[22] A nevynášejte břemeno ze svých domů v sabat a nekonejte žádnou práci, ale světěte den sabatu, jak jsem přikázal vašim otcům.
+[22] A nevynášejte břemeno ze svých domů v ⟦shabbat|šabat|sobotu⟧ a nekonejte žádnou práci, ale světěte den ⟦shabbat|šabatu|soboty⟧, jak jsem přikázal vašim otcům.
 
 [23] Oni však neposlouchali ani nenaklonili ucho, ale zatvrdili šíji, aby neslyšeli a nepřijali poučení.
 
-[24] Jestliže mě však budete poslouchat, je výrok Yahweh, a nebudete v den sabatu vnášet branami tohoto města žádné břemeno, ale budete světit den sabatu a nebudete v něm konat žádnou práci,
+[24] Jestliže mě však budete poslouchat, je výrok ⟦yhwh|Jahveho|Hospodina⟧, a nebudete v den ⟦shabbat|šabatu|soboty⟧ vnášet branami tohoto města žádné břemeno, ale budete světit den ⟦shabbat|šabatu|soboty⟧ a nebudete v něm konat žádnou práci,
 
-[25] pak budou branami tohoto města vcházet králové a knížata, kteří sedí na Davidově trůnu, jedoucí na vozech a na koních, oni i jejich hodnostáři, muži Judah a obyvatelé Jerusalemu. A toto město bude obýváno navěky.
+[25] pak budou branami tohoto města vcházet králové a knížata, kteří sedí na Davidově trůnu, jedoucí na vozech a na koních, oni i jejich hodnostáři, muži ⟦judah|Jehudy|Judy⟧ a obyvatelé ⟦jerusalem|Jerušalajim|Jeruzaléma⟧. A toto město bude obýváno navěky.
 
-[26] A lidé budou přicházet z měst Judah a z okolí Jerusalemu, ze země Benjamina, ze Shephelah, z pohoří a z Negev a budou přinášet zápalné oběti a oběti, obětní dary a kadidlo a budou přinášet oběti díků do domu Yahweh.
+[26] A lidé budou přicházet z měst ⟦judah|Jehudy|Judy⟧ a z okolí ⟦jerusalem|Jerušalajim|Jeruzaléma⟧, ze země ⟦benjamin|Binjamina|Benjamína⟧, ze Šefela, z pohoří a z ⟦negev|Negev|Negebu⟧ a budou přinášet zápalné oběti a oběti, obětní dary a kadidlo a budou přinášet oběti díků do domu ⟦yhwh|Jahveho|Hospodina⟧.
 
-[27] Jestliže mě však nebudete poslouchat, abyste světili den sabatu a nenosili břemeno a nevcházeli s ním branami Jerusalemu v den sabatu, pak zapálím oheň v jeho branách a ten pohltí paláce Jerusalemu a nevyhasne.‘“
+[27] Jestliže mě však nebudete poslouchat, abyste světili den ⟦shabbat|šabatu|soboty⟧ a nenosili břemeno a nevcházeli s ním branami ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ v den ⟦shabbat|šabatu|soboty⟧, pak zapálím oheň v jeho branách a ten pohltí paláce ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ a nevyhasne.‘“
 
 ## Změny
 

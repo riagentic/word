@@ -1,56 +1,56 @@
 # Amos 1
 
-[1] The words of Amos, who was among the shepherds of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah and in the days of Jeroboam son of Joash, king of Israel, two years before the earthquake.
+[1] The words of Amos, who was among the shepherds of ⟦tekoa|Teqoa|Tekoa⟧, which he saw concerning ⟦israel|Yisrael|Israel⟧ in the days of ⟦uzziah|Uzziyahu|Uzziah⟧ king of ⟦judah|Yehudah|Judah⟧ and in the days of ⟦jeroboam|Yarovam|Jeroboam⟧ son of ⟦joash|Yoash|Joash⟧, king of ⟦israel|Yisrael|Israel⟧, two years before the earthquake.
 
 [2] And he said:
-"Yahweh roars from Zion
-and utters his voice from Jerusalem;
+"⟦yhwh|Yahweh|The LORD⟧ roars from ⟦zion|Tziyon|Zion⟧
+and utters his voice from ⟦jerusalem|Yerushalayim|Jerusalem⟧;
 the pastures of the shepherds mourn,
-and the top of Carmel withers."
+and the top of ⟦carmel|Karmel|Carmel⟧ withers."
 
-[3] Thus says Yahweh:
+[3] Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
-"For three transgressions of Damascus,
+"For three transgressions of ⟦damascus|Dammeseq|Damascus⟧,
 and for four, I will not revoke the punishment,
-because they have threshed Gilead
+because they have threshed ⟦gilead|Gilad|Gilead⟧
 with threshing sledges of iron.
 
-[4] So I will send a fire upon the house of Hazael,
-and it shall devour the strongholds of Ben-Hadad.
+[4] So I will send a fire upon the house of ⟦hazael|Chazael|Hazael⟧,
+and it shall devour the strongholds of ⟦ben-hadad|Ben Hadad|Ben-hadad⟧.
 
-[5] I will break the gate-bar of Damascus,
+[5] I will break the gate-bar of ⟦damascus|Dammeseq|Damascus⟧,
 and cut off the inhabitants from the Valley of Aven,
-and him who holds the scepter from Beth-Eden;
-and the people of Syria shall go into exile to Kir,
-says Yahweh."
+and him who holds the scepter from ⟦beth-eden|Beit Eden|Beth-eden⟧;
+and the people of ⟦aram|Aram|Syria⟧ shall go into exile to ⟦kir|Qir|Kir⟧,
+says ⟦yhwh|Yahweh|the LORD⟧."
 
-[6] Thus says Yahweh:
+[6] Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
-"For three transgressions of Gaza,
+"For three transgressions of ⟦gaza|Azzah|Gaza⟧,
 and for four, I will not revoke the punishment,
 because they carried into exile a whole people
 to deliver them up to Edom.
 
-[7] So I will send a fire upon the wall of Gaza,
+[7] So I will send a fire upon the wall of ⟦gaza|Azzah|Gaza⟧,
 and it shall devour her strongholds.
 
 [8] I will cut off the inhabitants from Ashdod,
-and him who holds the scepter from Ashkelon;
-I will turn my hand against Ekron,
-and the remnant of the Philistines shall perish,"
-says Lord Yahweh.
+and him who holds the scepter from ⟦ashkelon|Ashqelon|Ashkelon⟧;
+I will turn my hand against ⟦ekron|Eqron|Ekron⟧,
+and the remnant of the ⟦philistines|Pelishtim|Philistines⟧ shall perish,"
+says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.
 
-[9] Thus says Yahweh:
+[9] Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
-"For three transgressions of Tyre,
+"For three transgressions of ⟦tyre|Tzor|Tyre⟧,
 and for four, I will not revoke the punishment,
 because they delivered up a whole people to Edom,
 and did not remember the covenant of brotherhood.
 
-[10] So I will send a fire upon the wall of Tyre,
+[10] So I will send a fire upon the wall of ⟦tyre|Tzor|Tyre⟧,
 and it shall devour her strongholds."
 
-[11] Thus says Yahweh:
+[11] Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
 "For three transgressions of Edom,
 and for four, I will not revoke the punishment,
@@ -60,13 +60,13 @@ and his anger tore perpetually,
 and he kept his wrath forever.
 
 [12] So I will send a fire upon Teman,
-and it shall devour the strongholds of Bozrah."
+and it shall devour the strongholds of ⟦bozrah|Botzrah|Bozrah⟧."
 
-[13] Thus says Yahweh:
+[13] Thus says ⟦yhwh|Yahweh|the LORD⟧:
 
-"For three transgressions of the Ammonites,
+"For three transgressions of the ⟦ammonites|Ammonim|Ammonites⟧,
 and for four, I will not revoke the punishment,
-because they have ripped open pregnant women in Gilead,
+because they have ripped open pregnant women in ⟦gilead|Gilad|Gilead⟧,
 that they might enlarge their border.
 
 [14] So I will kindle a fire in the wall of Rabbah,
@@ -76,7 +76,7 @@ with a tempest in the day of the whirlwind;
 
 [15] and their king shall go into exile,
 he and his princes together,"
-says Yahweh.
+says ⟦yhwh|Yahweh|the LORD⟧.
 
 ## Changes
 

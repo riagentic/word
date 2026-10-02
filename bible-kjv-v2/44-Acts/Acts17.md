@@ -1,58 +1,58 @@
 # Acts 17
 
-[1] Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a synagogue of the Jews.
+[1] Now when they had passed through Amphipolis and Apollonia, they came to ⟦thessalonica|Thessalonike|Thessalonica⟧, where there was a synagogue of the ⟦jews|Yehudim|Jews⟧.
 
-[2] And Paul went in, as was his custom, and on three Sabbath days he reasoned with them from the Scriptures,
+[2] And ⟦paul|Paulus|Paul⟧ went in, as was his custom, and on three ⟦shabbat|Shabbat|Sabbath⟧ days he reasoned with them from the Scriptures,
 
-[3] explaining and proving that it was necessary for the *Mashiach* to suffer and to rise from the dead, and saying, "This *Yeshua*, whom I proclaim to you, is the *Mashiach*."
+[3] explaining and proving that it was necessary for the ⟦mashiach|Mashiach|Christ⟧ to suffer and to rise from the dead, and saying, "This ⟦yeshua|Yeshua|Jesus⟧, whom I proclaim to you, is the ⟦mashiach|Mashiach|Christ⟧."
 
-[4] And some of them were persuaded and joined Paul and Silas, as did a great many of the devout Greeks and not a few of the leading women.
+[4] And some of them were persuaded and joined ⟦paul|Paulus|Paul⟧ and ⟦silas|Sila|Silas⟧, as did a great many of the devout ⟦greeks|Yevanim|Greeks⟧ and not a few of the leading women.
 
-[5] But the Jews were jealous, and taking some wicked men of the rabble, they formed a mob, set the city in an uproar, and attacked the house of Jason, seeking to bring them out to the crowd.
+[5] But the ⟦jews|Yehudim|Jews⟧ were jealous, and taking some wicked men of the rabble, they formed a mob, set the city in an uproar, and attacked the house of ⟦jason|Iason|Jason⟧, seeking to bring them out to the crowd.
 
-[6] And when they could not find them, they dragged Jason and some of the brothers before the city authorities, shouting, "These men who have turned the world upside down have come here also,
+[6] And when they could not find them, they dragged ⟦jason|Iason|Jason⟧ and some of the brothers before the city authorities, shouting, "These men who have turned the world upside down have come here also,
 
-[7] and Jason has received them, and they are all acting against the decrees of Caesar, saying that there is another king, *Yeshua*."
+[7] and ⟦jason|Iason|Jason⟧ has received them, and they are all acting against the decrees of Caesar, saying that there is another king, ⟦yeshua|Yeshua|Jesus⟧."
 
 [8] And the people and the city authorities were disturbed when they heard these things.
 
-[9] And when they had taken money as security from Jason and the rest, they let them go.
+[9] And when they had taken money as security from ⟦jason|Iason|Jason⟧ and the rest, they let them go.
 
-[10] The brothers immediately sent Paul and Silas away by night to Berea, and when they arrived they went into the Jewish synagogue.
+[10] The brothers immediately sent ⟦paul|Paulus|Paul⟧ and ⟦silas|Sila|Silas⟧ away by night to ⟦berea|Beroia|Berea⟧, and when they arrived they went into the Jewish synagogue.
 
-[11] Now these Jews were more noble than those in Thessalonica; they received the word with all eagerness, examining the Scriptures daily to see if these things were so.
+[11] Now these ⟦jews|Yehudim|Jews⟧ were more noble than those in ⟦thessalonica|Thessalonike|Thessalonica⟧; they received the word with all eagerness, examining the Scriptures daily to see if these things were so.
 
 [12] Many of them therefore believed, with not a few Greek women of high standing as well as men.
 
-[13] But when the Jews from Thessalonica learned that the word of *Elohim* was proclaimed by Paul at Berea also, they came there too, agitating and stirring up the crowds.
+[13] But when the ⟦jews|Yehudim|Jews⟧ from ⟦thessalonica|Thessalonike|Thessalonica⟧ learned that the word of ⟦elohim|Elohim|God⟧ was proclaimed by ⟦paul|Paulus|Paul⟧ at ⟦berea|Beroia|Berea⟧ also, they came there too, agitating and stirring up the crowds.
 
-[14] Then the brothers immediately sent Paul off on his way to the sea, but Silas and Timothy remained there.
+[14] Then the brothers immediately sent ⟦paul|Paulus|Paul⟧ off on his way to the sea, but ⟦silas|Sila|Silas⟧ and ⟦timothy|Timotheos|Timothy⟧ remained there.
 
-[15] Those who conducted Paul brought him as far as Athens, and after receiving a command for Silas and Timothy to come to him as soon as possible, they departed.
+[15] Those who conducted ⟦paul|Paulus|Paul⟧ brought him as far as ⟦athens|Athenai|Athens⟧, and after receiving a command for ⟦silas|Sila|Silas⟧ and ⟦timothy|Timotheos|Timothy⟧ to come to him as soon as possible, they departed.
 
-[16] Now while Paul was waiting for them at Athens, his spirit was provoked within him as he saw that the city was full of idols.
+[16] Now while ⟦paul|Paulus|Paul⟧ was waiting for them at ⟦athens|Athenai|Athens⟧, his spirit was provoked within him as he saw that the city was full of idols.
 
-[17] So he reasoned in the synagogue with the Jews and the devout persons, and in the marketplace every day with those who happened to be there.
+[17] So he reasoned in the synagogue with the ⟦jews|Yehudim|Jews⟧ and the devout persons, and in the marketplace every day with those who happened to be there.
 
-[18] Some of the Epicurean and Stoic philosophers also conversed with him. And some said, "What does this babbler wish to say?" Others said, "He seems to be a preacher of foreign divinities" — because he was preaching *Yeshua* and the resurrection.
+[18] Some of the Epicurean and Stoic philosophers also conversed with him. And some said, "What does this babbler wish to say?" Others said, "He seems to be a preacher of foreign divinities" — because he was preaching ⟦yeshua|Yeshua|Jesus⟧ and the resurrection.
 
-[19] And they took him and brought him to the Areopagus, saying, "May we know what this new teaching is that you are presenting?
+[19] And they took him and brought him to the ⟦areopagus|Areios Pagos|Areopagus⟧, saying, "May we know what this new teaching is that you are presenting?
 
 [20] For you bring some strange things to our ears. We wish to know therefore what these things mean."
 
-[21] Now all the Athenians and the foreigners who lived there would spend their time in nothing except telling or hearing something new.
+[21] Now all the ⟦athenians|Athenaioi|Athenians⟧ and the foreigners who lived there would spend their time in nothing except telling or hearing something new.
 
-[22] So Paul, standing in the midst of the Areopagus, said: "Men of Athens, I perceive that in every way you are very religious.
+[22] So ⟦paul|Paulus|Paul⟧, standing in the midst of the ⟦areopagus|Areios Pagos|Areopagus⟧, said: "Men of ⟦athens|Athenai|Athens⟧, I perceive that in every way you are very religious.
 
 [23] For as I passed along and observed the objects of your worship, I found also an altar with this inscription, '**To the unknown god**.' What therefore you worship as unknown, this I proclaim to you.
 
-[24] The *Elohim* who made the world and everything in it, being Lord of heaven and earth, does not live in temples made by man,
+[24] The ⟦elohim|Elohim|God⟧ who made the world and everything in it, being Lord of heaven and earth, does not live in temples made by man,
 
 [25] nor is he served by human hands, as though he needed anything, since he himself gives to all mankind life and breath and everything.
 
 [26] And he made from one man every nation of mankind to live on all the face of the earth, having determined allotted periods and the boundaries of their dwelling place,
 
-[27] that they should seek *Elohim*, and perhaps feel their way toward him and find him. Yet he is actually not far from each one of us,
+[27] that they should seek ⟦elohim|Elohim|God⟧, and perhaps feel their way toward him and find him. Yet he is actually not far from each one of us,
 
 [28] for
 
@@ -62,17 +62,17 @@ as even some of your own poets have said,
 
 "'**For we are indeed his offspring.**'
 
-[29] Being then *Elohim*'s offspring, we ought not to think that the divine being is like gold or silver or stone, an image formed by the art and imagination of man.
+[29] Being then ⟦elohim|Elohim's|God's⟧ offspring, we ought not to think that the divine being is like gold or silver or stone, an image formed by the art and imagination of man.
 
-[30] The times of ignorance *Elohim* overlooked, but now he commands all people everywhere to repent,
+[30] The times of ignorance ⟦elohim|Elohim|God⟧ overlooked, but now he commands all people everywhere to repent,
 
 [31] because he has fixed a day on which he will judge the world in righteousness by a man whom he has appointed; and of this he has given assurance to all by raising him from the dead."
 
 [32] Now when they heard of the resurrection of the dead, some mocked. But others said, "We will hear you again about this."
 
-[33] So Paul went out from their midst.
+[33] So ⟦paul|Paulus|Paul⟧ went out from their midst.
 
-[34] But some men joined him and believed, among whom also were Dionysios the Areopagite and a woman named Damaris and others with them.
+[34] But some men joined him and believed, among whom also were ⟦dionysius|Dionysios|Dionysius⟧ the ⟦areopagite|Areopagites|Areopagite⟧ and a woman named Damaris and others with them.
 
 ## Changes
 

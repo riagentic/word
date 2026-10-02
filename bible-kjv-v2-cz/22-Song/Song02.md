@@ -1,6 +1,6 @@
 # Píseň písní 2
 
-[1] Jsem krokus ze Sharonu,
+[1] Jsem krokus ze ⟦sharon|Šaronu|Šarónu⟧,
 lilie z údolí.
 
 [2] Jako lilie mezi trním,
@@ -21,7 +21,7 @@ neboť jsem nemocná láskou.
 [6] Jeho levice je pod mou hlavou
 a jeho pravice mě objímá!
 
-[7] Zapřísahám vás, dcery Jerusalema,
+[7] Zapřísahám vás, dcery ⟦jerusalem|Jerušalajim|Jeruzaléma⟧,
 při gazelách nebo laních v poli,
 abyste nebudily ani nevyrušovaly lásku,
 dokud se jí nezlíbí.

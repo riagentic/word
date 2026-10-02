@@ -1,6 +1,6 @@
 # Jób 23
 
-[1] Tu Job odpověděl a řekl:
+[1] Tu ⟦job|Ijov|Jób⟧ odpověděl a řekl:
 
 [2] „I dnes je můj nářek hořký;
 jeho ruka je těžká navzdory mému sténání.
@@ -44,14 +44,15 @@ a mnoho takových věcí je u něho.
 [15] Proto jsem před jeho tváří zděšen;
 když o tom uvažuji, bojím se ho.
 
-[16] Vždyť *Elohim* mi oslabil srdce;
-Shaddai mě vyděsil –
+[16] Vždyť ⟦el|El|Bůh⟧ mi oslabil srdce;
+⟦shaddai|Šaddaj|Všemohoucí⟧ mě vyděsil –
 
 [17] a přece mě tma neumlčela
 ani hustý šer, který zakrývá mou tvář.“
 
 ## Změny
 
+- **"God" → „El“** (v16) – hebrejsky אֵל *El*, ne *Elohim*.
 - **"my necessary food" → „svůj podíl“** (v12) – hebrejsky *mei-chuqqi*; „víc než můj vyměřený podíl“.
 - **"in one mind" → „stojí sám“** (v13) – *hu be-echad*; jedinečný, bez obdoby.
 - **"I was not cut off before the darkness" → „tma mě neumlčela“** (v17) – hebrejština je dvojznačná; moderní čtení: Job i přes hrůzu vytrvává v řeči.

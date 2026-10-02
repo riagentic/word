@@ -1,14 +1,14 @@
 # Židům 1
 
-[1] Kdysi mluvil *Elohim* k našim otcům skrze proroky mnohokrát a mnoha způsoby,
+[1] Kdysi mluvil ⟦elohim|Elohim|Bůh⟧ k našim otcům skrze proroky mnohokrát a mnoha způsoby,
 
 [2] ale v těchto posledních dnech k nám promluvil skrze Syna, kterého ustanovil dědicem všeho a skrze něhož také stvořil svět.
 
-[3] On je zářením slávy *Elohim* a přesným otiskem jeho podstaty a nese vesmír slovem své moci. Když vykonal očištění od hříchů, usedl po pravici Majestátu na výsostech
+[3] On je zářením slávy ⟦elohim|Elohim|Boží⟧ a přesným otiskem jeho podstaty a nese vesmír slovem své moci. Když vykonal očištění od hříchů, usedl po pravici Majestátu na výsostech
 
 [4] a stal se o tolik vyšším než andělé, oč vznešenější je jméno, které zdědil, než jejich.
 
-[5] Komu z andělů kdy *Elohim* řekl:
+[5] Komu z andělů kdy ⟦elohim|Elohim|Bůh⟧ řekl:
 
 „**Ty jsi můj Syn,
 já jsem tě dnes zplodil**“?
@@ -20,7 +20,7 @@ a on mi bude synem**“?
 
 [6] A opět, když uvádí prvorozeného do světa, říká:
 
-„**Ať se mu klanějí všichni andělé *Elohim***.“
+„**Ať se mu klanějí všichni andělé ⟦elohim|Elohim|Boží⟧**.“
 
 [7] O andělích říká:
 
@@ -29,10 +29,10 @@ a své služebníky plamenem ohně**.“
 
 [8] O Synovi však:
 
-„**Tvůj trůn, *Elohim*, trvá na věky věků,
+„**Tvůj trůn, ⟦elohim|Elohim|Bože⟧, trvá na věky věků,
 žezlo přímosti je žezlem tvého království.
 [9] Miloval jsi spravedlnost a nenáviděl ničemnost;
-proto tě *Elohim*, tvůj *Elohim*, pomazal
+proto tě ⟦elohim|Elohim|Bůh⟧, tvůj ⟦elohim|Elohim|Bůh⟧, pomazal
 olejem radosti nad tvé druhy**.“
 
 [10] A:

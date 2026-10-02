@@ -1,8 +1,8 @@
 # Isaiah 43
 
-[1] But now thus says Yahweh,
-he who created you, O Jacob,
-he who formed you, O Israel:
+[1] But now thus says ⟦yhwh|Yahweh|the LORD⟧,
+he who created you, O ⟦jacob|Yaaqov|Jacob⟧,
+he who formed you, O ⟦israel|Yisrael|Israel⟧:
 "Fear not, for I have redeemed you;
 I have called you by name, you are mine.
 
@@ -11,10 +11,10 @@ and through the rivers, they shall not overwhelm you;
 when you walk through fire you shall not be burned,
 and the flame shall not consume you.
 
-[3] For I am Yahweh your *Elohim*,
-the Holy One of Israel, your Savior.
-I give Egypt as your ransom,
-Cush and Seva in exchange for you.
+[3] For I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧,
+the Holy One of ⟦israel|Yisrael|Israel⟧, your Savior.
+I give ⟦egypt|Mitzrayim|Egypt⟧ as your ransom,
+⟦cush|Kush|Cush⟧ and ⟦seba|Seva|Seba⟧ in exchange for you.
 
 [4] Because you are precious in my eyes,
 and honored, and I love you,
@@ -44,34 +44,34 @@ and show us the former things?
 Let them bring their witnesses to prove them right,
 and let them hear and say, "It is true."
 
-[10] "You are my witnesses," declares Yahweh,
+[10] "You are my witnesses," declares ⟦yhwh|Yahweh|the LORD⟧,
 "and my servant whom I have chosen,
 that you may know and believe me
 and understand that I am he.
-Before me no *Elohim* was formed,
+Before me no ⟦el|El|god⟧ was formed,
 nor shall there be any after me.
 
-[11] I, I am Yahweh,
+[11] I, I am ⟦yhwh|Yahweh|the LORD⟧,
 and besides me there is no savior.
 
 [12] I declared and saved and proclaimed,
 when there was no strange god among you;
-and you are my witnesses," declares Yahweh, "and I am *Elohim*.
+and you are my witnesses," declares ⟦yhwh|Yahweh|the LORD⟧, "and I am ⟦el|El|God⟧.
 
 [13] Also henceforth I am he;
 there is none who can deliver from my hand;
 I work, and who can turn it back?"
 
-[14] Thus says Yahweh, your Redeemer, the Holy One of Israel:
+[14] Thus says ⟦yhwh|Yahweh|the LORD⟧, your Redeemer, the Holy One of ⟦israel|Yisrael|Israel⟧:
 
-"For your sake I send to Babylon
+"For your sake I send to ⟦babylon|Bavel|Babylon⟧
 and bring them all down as fugitives,
-even the Chaldeans, in the ships in which they rejoice.
+even the ⟦chaldeans|Kasdim|Chaldeans⟧, in the ships in which they rejoice.
 
-[15] I am Yahweh, your Holy One,
-the Creator of Israel, your King."
+[15] I am ⟦yhwh|Yahweh|the LORD⟧, your Holy One,
+the Creator of ⟦israel|Yisrael|Israel⟧, your King."
 
-[16] Thus says Yahweh,
+[16] Thus says ⟦yhwh|Yahweh|the LORD⟧,
 who makes a way in the sea,
 a path in the mighty waters,
 
@@ -97,8 +97,8 @@ to give drink to my chosen people,
 [21] the people whom I formed for myself
 that they might declare my praise.
 
-[22] Yet you did not call upon me, O Jacob;
-but you have been weary of me, O Israel!
+[22] Yet you did not call upon me, O ⟦jacob|Yaaqov|Jacob⟧;
+but you have been weary of me, O ⟦israel|Yisrael|Israel⟧!
 
 [23] You have not brought me your sheep for burnt offerings,
 or honored me with your sacrifices.
@@ -121,11 +121,12 @@ set forth your case, that you may be proved right.
 and your mediators transgressed against me.
 
 [28] Therefore I will profane the princes of the sanctuary,
-and deliver Jacob to destruction
-and Israel to reviling."
+and deliver ⟦jacob|Yaaqov|Jacob⟧ to destruction
+and ⟦israel|Yisrael|Israel⟧ to reviling."
 
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim* preserved.
+- **"God" → "El"** (v10, 12) — Hebrew אֵל *El*, not *Elohim*.
 - **Poetic structure** — entire chapter formatted as verse; divine commissioning and restoration poetry.

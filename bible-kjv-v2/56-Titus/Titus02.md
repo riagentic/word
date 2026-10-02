@@ -8,7 +8,7 @@
 
 [4] and so train the young women to love their husbands and children,
 
-[5] to be self-controlled, pure, working at home, kind, and submissive to their own husbands, that the word of *Elohim* may not be reviled.
+[5] to be self-controlled, pure, working at home, kind, and submissive to their own husbands, that the word of ⟦elohim|Elohim|God⟧ may not be reviled.
 
 [6] Likewise, urge the younger men to be self-controlled.
 
@@ -18,13 +18,13 @@
 
 [9] Bondservants are to be submissive to their own masters in everything; they are to be well-pleasing, not argumentative,
 
-[10] not pilfering, but showing all good faith, so that in everything they may adorn the doctrine of *Elohim* our Savior.
+[10] not pilfering, but showing all good faith, so that in everything they may adorn the doctrine of ⟦elohim|Elohim|God⟧ our Savior.
 
-[11] **For the grace of *Elohim* has appeared, bringing salvation for all people**,
+[11] **For the grace of ⟦elohim|Elohim|God⟧ has appeared, bringing salvation for all people**,
 
 [12] training us to renounce ungodliness and worldly passions, and to live self-controlled, upright, and godly lives in the present age,
 
-[13] waiting for our blessed hope, the appearing of the glory of our great *Elohim* and Savior *Yeshua* the *Mashiach*,
+[13] waiting for our blessed hope, the appearing of the glory of our great ⟦elohim|Elohim|God⟧ and Savior ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧,
 
 [14] who gave himself for us to redeem us from all lawlessness and to purify for himself a people for his own possession who are zealous for good works.
 

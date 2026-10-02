@@ -1,36 +1,36 @@
 # Přísloví 16
 
 [1] Záměry srdce patří člověku,
-ale odpověď jazyka je od Yahweh.
+ale odpověď jazyka je od ⟦yhwh|Jahveho|Hospodina⟧.
 
 [2] Všechny cesty člověka jsou čisté v jeho vlastních očích,
-ale Yahweh váží duchy.
+ale ⟦yhwh|Jahve|Hospodin⟧ váží duchy.
 
-[3] Svěř své dílo Yahweh
+[3] Svěř své dílo ⟦yhwh|Jahvovi|Hospodinu⟧
 a tvé plány budou upevněny.
 
-[4] Yahweh učinil všechno k jeho účelu,
+[4] ⟦yhwh|Jahve|Hospodin⟧ učinil všechno k jeho účelu,
 i ničemného pro den neštěstí.
 
-[5] Každý, kdo je pyšného srdce, je Yahweh ohavností;
+[5] Každý, kdo je pyšného srdce, je ⟦yhwh|Jahvovi|Hospodinu⟧ ohavností;
 buď si jist, že nezůstane bez trestu.
 
 [6] Věrnou láskou a věrností se smiřuje nepravost
-a bázní Yahweh se člověk odvrací od zla.
+a bázní ⟦yhwh|Jahveho|Hospodina⟧ se člověk odvrací od zla.
 
-[7] Když se cesty člověka líbí Yahweh,
+[7] Když se cesty člověka líbí ⟦yhwh|Jahvovi|Hospodinu⟧,
 usmíří s ním i jeho nepřátele.
 
 [8] Lepší je málo se spravedlností
 než velké příjmy s bezprávím.
 
 [9] Srdce člověka plánuje jeho cestu,
-ale Yahweh upevňuje jeho kroky.
+ale ⟦yhwh|Jahve|Hospodin⟧ upevňuje jeho kroky.
 
 [10] Věštba je na rtech krále;
 jeho ústa se při soudu nezpronevěří.
 
-[11] Správná váha a misky jsou Yahweh;
+[11] Správná váha a misky jsou ⟦yhwh|Jahveho|Hospodinovy⟧;
 všechna závaží v měšci jsou jeho dílem.
 
 [12] Pro krále je ohavností páchat zlo,
@@ -58,7 +58,7 @@ a povýšený duch pád.
 než dělit kořist s pyšnými.
 
 [20] Kdo dbá slova, nalezne dobro,
-a blaze tomu, kdo spoléhá na Yahweh.
+a blaze tomu, kdo spoléhá na ⟦yhwh|Jahveho|Hospodina⟧.
 
 [21] Kdo je moudrého srdce, bude nazván rozvážným,
 a sladkost řeči zvyšuje přesvědčivost.
@@ -97,7 +97,7 @@ získávají se spravedlivým životem.
 a kdo vládne svému duchu, lepší než ten, kdo dobývá město.
 
 [33] Los se vrhá do klína,
-ale každé jeho rozhodnutí je od Yahweh.
+ale každé jeho rozhodnutí je od ⟦yhwh|Jahveho|Hospodina⟧.
 
 ## Změny
 

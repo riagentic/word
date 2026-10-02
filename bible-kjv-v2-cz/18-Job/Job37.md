@@ -13,7 +13,7 @@ a svůj blesk až na kraje země.
 hřmí hlasem své velebnosti
 a nezadržuje blesky, když je slyšet jeho hlas.
 
-[5] *Elohim* podivuhodně hřmí svým hlasem;
+[5] ⟦el|El|Bůh⟧ podivuhodně hřmí svým hlasem;
 koná veliké věci, které nedokážeme pochopit.
 
 [6] Vždyť říká sněhu: ‚Padej na zem,‘
@@ -28,7 +28,7 @@ a zůstává ve svých brlozích.
 [9] Ze své komory přichází vichřice
 a chlad od rozhánějících větrů.
 
-[10] Dechem *Elohim* je dán led
+[10] Dechem ⟦el|El|Božím⟧ je dán led
 a široké vody zamrzají.
 
 [11] Obtěžkává hustý mrak vlhkostí;
@@ -42,10 +42,10 @@ na tváři obydlené země.
 nebo z věrné lásky –
 on dává, aby se to stalo.
 
-[14] Slyš to, Jobe;
-zastav se a uvažuj o podivuhodných dílech *Elohim*.
+[14] Slyš to, ⟦job|Ijove|Jóbe⟧;
+zastav se a uvažuj o podivuhodných dílech ⟦el|El|Božích⟧.
 
-[15] Víš, jak *Elohim* na ně vkládá svůj příkaz
+[15] Víš, jak ⟦eloah|Eloah|Bůh⟧ na ně vkládá svůj příkaz
 a dává zazářit blesku svého oblaku?
 
 [16] Znáš vyvažování oblaků,
@@ -68,9 +68,9 @@ když jasně září v oblacích,
 když vítr přešel a pročistil je.
 
 [22] Od severu přichází zlatý jas;
-kolem Eloah je hrozivá velebnost.
+kolem ⟦eloah|Eloah|Boha⟧ je hrozivá velebnost.
 
-[23] Shaddai – nemůžeme ho vystihnout;
+[23] ⟦shaddai|Šaddaj|Všemohoucí⟧ – nemůžeme ho vystihnout;
 je vznešený v moci;
 neporuší právo a hojnou spravedlnost.
 
@@ -79,6 +79,7 @@ nehledí na nikoho, kdo je moudrý ve vlastním srdci.“
 
 ## Změny
 
+- **"God" → „El“ / „Eloah“** (v5, 10, 14; v15) – hebrejsky אֵל *El* a אֱלוֹהַּ *Eloah*, ne *Elohim*.
 - **"molten looking glass" → „zrcadlo z litého kovu“** (v18) – starověká zrcadla z leštěného bronzu.
 - **"he will not afflict" → „neporuší právo“** (v23) – hebrejsky *lo ya'aneh*; spojeno s *mishpat* – „neodpoví/neporuší soud“.
 

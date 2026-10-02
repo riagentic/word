@@ -4,19 +4,19 @@
 
 [2] I entreat Euodia and I entreat Syntyche to agree in the Lord.
 
-[3] Yes, I ask you also, true companion, help these women, who have labored side by side with me in the gospel together with Clement and the rest of my fellow workers, whose names are in the book of life.
+[3] Yes, I ask you also, true companion, help these women, who have labored side by side with me in the gospel together with ⟦clement|Clemens|Clement⟧ and the rest of my fellow workers, whose names are in the book of life.
 
 [4] **Rejoice in the Lord always; again I will say, Rejoice.**
 
 [5] Let your reasonableness be known to everyone. The Lord is at hand;
 
-[6] **do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to *Elohim*.**
+[6] **do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to ⟦elohim|Elohim|God⟧.**
 
-[7] **And the peace of *Elohim*, which surpasses all understanding, will guard your hearts and your minds in the *Mashiach* *Yeshua*.**
+[7] **And the peace of ⟦elohim|Elohim|God⟧, which surpasses all understanding, will guard your hearts and your minds in ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧.**
 
 [8] Finally, brothers, **whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence, if there is anything worthy of praise, think about these things**.
 
-[9] What you have learned and received and heard and seen in me — practice these things, and the *Elohim* of peace will be with you.
+[9] What you have learned and received and heard and seen in me — practice these things, and the ⟦elohim|Elohim|God⟧ of peace will be with you.
 
 [10] I rejoiced in the Lord greatly that now at length you have revived your concern for me. You were indeed concerned for me, but you had no opportunity.
 
@@ -28,23 +28,23 @@
 
 [14] Yet it was kind of you to share my trouble.
 
-[15] And you Philippians yourselves know that in the beginning of the gospel, when I left Macedonia, no church entered into partnership with me in giving and receiving, except you only.
+[15] And you Philippians yourselves know that in the beginning of the gospel, when I left ⟦macedonia|Makedonia|Macedonia⟧, no church entered into partnership with me in giving and receiving, except you only.
 
-[16] Even in Thessalonica you sent me help for my needs once and again.
+[16] Even in ⟦thessalonica|Thessalonike|Thessalonica⟧ you sent me help for my needs once and again.
 
 [17] Not that I seek the gift, but I seek the fruit that increases to your credit.
 
-[18] I have received full payment, and more. I am well supplied, having received from Epaphroditos the gifts you sent, a fragrant offering, a sacrifice acceptable and pleasing to *Elohim*.
+[18] I have received full payment, and more. I am well supplied, having received from ⟦epaphroditus|Epaphroditos|Epaphroditus⟧ the gifts you sent, a fragrant offering, a sacrifice acceptable and pleasing to ⟦elohim|Elohim|God⟧.
 
-[19] And my *Elohim* will supply every need of yours according to his riches in glory in the *Mashiach* *Yeshua*.
+[19] And my ⟦elohim|Elohim|God⟧ will supply every need of yours according to his riches in glory in ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧.
 
-[20] To our *Elohim* and Father be glory forever and ever. Amen.
+[20] To our ⟦elohim|Elohim|God⟧ and Father be glory forever and ever. Amen.
 
-[21] Greet every saint in the *Mashiach* *Yeshua*. The brothers who are with me greet you.
+[21] Greet every saint in ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧. The brothers who are with me greet you.
 
 [22] All the saints greet you, especially those of Caesar's household.
 
-[23] The grace of the Lord *Yeshua* the *Mashiach* be with your spirit.
+[23] The grace of the Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧ be with your spirit.
 
 ## Changes
 

@@ -1,42 +1,42 @@
 # Lukáš 23
 
-[1] Tu povstalo celé jejich shromáždění a přivedli ho před Pilata.
+[1] Tu povstalo celé jejich shromáždění a přivedli ho před ⟦pilate|Pilata|Piláta⟧.
 
-[2] Začali ho obviňovat: „Zjistili jsme, že tento člověk svádí náš národ, zakazuje nám dávat daň Caesarovi a říká o sobě, že je *Mashiach*, král.“
+[2] Začali ho obviňovat: „Zjistili jsme, že tento člověk svádí náš národ, zakazuje nám dávat daň ⟦caesar|Caesarovi|císaři⟧ a říká o sobě, že je ⟦mashiach|Mašiach|Mesiáš⟧, král.“
 
-[3] Pilate se ho zeptal: „Ty jsi král Židů?“ On mu odpověděl: „Ty to říkáš.“
+[3] ⟦pilate|Pilatus|Pilát⟧ se ho zeptal: „Ty jsi král ⟦jews|Jehudim|Židů⟧?“ On mu odpověděl: „Ty to říkáš.“
 
-[4] Pilate řekl velekněžím a zástupům: „Neshledávám na tomto člověku žádnou vinu.“
+[4] ⟦pilate|Pilatus|Pilát⟧ řekl velekněžím a zástupům: „Neshledávám na tomto člověku žádnou vinu.“
 
-[5] Oni však naléhali: „Pobuřuje lid, učí po celé Judeji, počínaje od Galilee až sem.“
+[5] Oni však naléhali: „Pobuřuje lid, učí po ⟦judea|celé Jehudě|celém Judsku⟧, počínaje od ⟦galilee|Galilu|Galileje⟧ až sem.“
 
-[6] Když to Pilate uslyšel, zeptal se, zda je ten člověk Galilejec.
+[6] Když to ⟦pilate|Pilatus|Pilát⟧ uslyšel, zeptal se, zda je ten člověk Galilejec.
 
-[7] A když se dozvěděl, že patří pod Herodovu pravomoc, poslal ho k Herodovi, který byl v těch dnech sám v Jerusalemě.
+[7] A když se dozvěděl, že patří pod Herodovu pravomoc, poslal ho k Herodovi, který byl v těch dnech sám v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧.
 
-[8] Když Herod uviděl *Yeshuu*, velmi se zaradoval, neboť ho už dlouho toužil vidět, protože o něm slyšel, a doufal, že uvidí nějaké znamení, které vykoná.
+[8] Když Herodes uviděl ⟦yeshua|Ješuu|Ježíše⟧, velmi se zaradoval, neboť ho už dlouho toužil vidět, protože o něm slyšel, a doufal, že uvidí nějaké znamení, které vykoná.
 
 [9] Kladl mu tedy mnoho otázek, ale on mu nic neodpověděl.
 
 [10] Velekněží a zákoníci tam stáli a prudce ho obviňovali.
 
-[11] Herod se svými vojáky se k němu choval s pohrdáním a posmíval se mu. Pak ho oblékl do nádherného roucha a poslal zpět k Pilatovi.
+[11] Herodes se svými vojáky se k němu choval s pohrdáním a posmíval se mu. Pak ho oblékl do nádherného roucha a poslal zpět k ⟦pilate|Pilatovi|Pilátovi⟧.
 
-[12] V ten den se Herod a Pilate stali přáteli, předtím totiž byli spolu v nepřátelství.
+[12] V ten den se Herodes a ⟦pilate|Pilatus|Pilát⟧ stali přáteli, předtím totiž byli spolu v nepřátelství.
 
-[13] Pilate svolal velekněze, přední muže a lid
+[13] ⟦pilate|Pilatus|Pilát⟧ svolal velekněze, přední muže a lid
 
 [14] a řekl jim: „Přivedli jste mi tohoto člověka jako toho, kdo svádí lid. A hle, vyslýchal jsem ho před vámi a neshledal jsem na tomto člověku vinu v ničem, z čeho ho obviňujete.
 
-[15] Ani Herod ne, neboť ho poslal zpět k nám. Hle, nespáchal nic, co by zasluhovalo smrt.
+[15] Ani Herodes ne, neboť ho poslal zpět k nám. Hle, nespáchal nic, co by zasluhovalo smrt.
 
 [16] Potrestám ho tedy a propustím.“
 
-[18] Oni však všichni spolu vykřikli: „Pryč s tímto, a propusť nám Barabbase!“ –
+[18] Oni však všichni spolu vykřikli: „Pryč s tímto, a propusť nám ⟦barabbas|Bar-Abbu|Barabáše⟧!“ –
 
 [19] člověka, který byl uvržen do vězení pro povstání, k němuž došlo ve městě, a pro vraždu.
 
-[20] Pilate k nim znovu promluvil, protože chtěl *Yeshuu* propustit,
+[20] ⟦pilate|Pilatus|Pilát⟧ k nim znovu promluvil, protože chtěl ⟦yeshua|Ješuu|Ježíše⟧ propustit,
 
 [21] ale oni křičeli: „Ukřižuj, ukřižuj ho!“
 
@@ -44,15 +44,15 @@
 
 [23] Oni však naléhali a velkým křikem žádali, aby byl ukřižován. A jejich křik zvítězil.
 
-[24] Pilate tedy rozhodl, že se jejich žádosti vyhoví.
+[24] ⟦pilate|Pilatus|Pilát⟧ tedy rozhodl, že se jejich žádosti vyhoví.
 
-[25] Propustil toho, který byl uvržen do vězení pro povstání a vraždu a o kterého žádali, ale *Yeshuu* vydal jejich vůli.
+[25] Propustil toho, který byl uvržen do vězení pro povstání a vraždu a o kterého žádali, ale ⟦yeshua|Ješuu|Ježíše⟧ vydal jejich vůli.
 
-[26] Když ho odváděli, chytili jakéhosi Simona z Cyrene, který přicházel z pole, a vložili na něj kříž, aby ho nesl za *Yeshuou*.
+[26] Když ho odváděli, chytili jakéhosi Šimona z ⟦cyrene|Kyréné|Kyrény⟧, který přicházel z pole, a vložili na něj kříž, aby ho nesl za ⟦yeshua|Ješuou|Ježíšem⟧.
 
 [27] Šlo za ním veliké množství lidu i žen, které nad ním naříkaly a bědovaly.
 
-[28] *Yeshua* se k nim obrátil a řekl: „Dcery jerusalemské, neplačte nade mnou, ale plačte samy nad sebou a nad svými dětmi.
+[28] ⟦yeshua|Ješua|Ježíš⟧ se k nim obrátil a řekl: „Dcery ⟦jerusalem|jerušalajimské|jeruzalémské⟧, neplačte nade mnou, ale plačte samy nad sebou a nad svými dětmi.
 
 [29] Neboť hle, přicházejí dny, kdy se bude říkat: ‚Blahoslavené neplodné a lůna, která nerodila, a prsy, které nekojily!‘
 
@@ -64,23 +64,23 @@
 
 [33] Když přišli na místo, které se nazývá Lebka, ukřižovali tam jeho i ty zločince, jednoho po pravici a druhého po levici.
 
-[34] *Yeshua* řekl: „**Otče, odpusť jim, neboť nevědí, co činí.**“ A rozdělili si jeho šaty losem.
+[34] ⟦yeshua|Ješua|Ježíš⟧ řekl: „**Otče, odpusť jim, neboť nevědí, co činí.**“ A rozdělili si jeho šaty losem.
 
-[35] Lid stál a díval se, ale přední muži se mu posmívali: „Jiné zachránil; ať zachrání sám sebe, je-li *Mashiach* *Elohim*, jeho Vyvolený!“
+[35] Lid stál a díval se, ale přední muži se mu posmívali: „Jiné zachránil; ať zachrání sám sebe, je-li ⟦mashiach|Mašiach|Mesiáš⟧ ⟦elohim|Elohim|Boží⟧, jeho Vyvolený!“
 
 [36] Posmívali se mu i vojáci; přistupovali k němu, podávali mu kyselé víno
 
-[37] a říkali: „Jsi-li král Židů, zachraň sám sebe!“
+[37] a říkali: „Jsi-li král ⟦jews|Jehudim|Židů⟧, zachraň sám sebe!“
 
-[38] Nad ním byl také nápis: „Toto je král Židů.“
+[38] Nad ním byl také nápis: „Toto je král ⟦jews|Jehudim|Židů⟧.“
 
-[39] Jeden z pověšených zločinců ho tupil: „Nejsi ty *Mashiach*? Zachraň sebe i nás!“
+[39] Jeden z pověšených zločinců ho tupil: „Nejsi ty ⟦mashiach|Mašiach|Mesiáš⟧? Zachraň sebe i nás!“
 
-[40] Druhý ho však pokáral: „Ty se nebojíš ani *Elohim*, když jsi pod stejným odsouzením?
+[40] Druhý ho však pokáral: „Ty se nebojíš ani ⟦elohim|Elohim|Boha⟧, když jsi pod stejným odsouzením?
 
 [41] My ovšem spravedlivě, neboť dostáváme zaslouženou odplatu za své činy; ale tento neudělal nic zlého.“
 
-[42] A řekl: „*Yeshuo*, pamatuj na mne, až přijdeš do svého království.“
+[42] A řekl: „⟦yeshua|Ješuo|Ježíši⟧, pamatuj na mne, až přijdeš do svého království.“
 
 [43] Řekl mu: „Vpravdě ti pravím, dnes budeš se mnou v ráji.“
 
@@ -88,29 +88,29 @@
 
 [45] neboť sluneční světlo pohaslo. A opona chrámu se roztrhla vprostřed.
 
-[46] Tu *Yeshua* zvolal velikým hlasem: „**Otče, do tvých rukou svěřuji svého ducha!**“ A když to řekl, vydechl naposledy.
+[46] Tu ⟦yeshua|Ješua|Ježíš⟧ zvolal velikým hlasem: „**Otče, do tvých rukou svěřuji svého ducha!**“ A když to řekl, vydechl naposledy.
 
-[47] Když setník viděl, co se stalo, chválil *Elohim* a řekl: „Tento člověk byl opravdu spravedlivý!“
+[47] Když setník viděl, co se stalo, chválil ⟦elohim|Elohim|Boha⟧ a řekl: „Tento člověk byl opravdu spravedlivý!“
 
 [48] A všechny zástupy, které se sešly na tu podívanou, když viděly, co se stalo, vracely se a bily se v prsa.
 
-[49] Všichni jeho známí a ženy, které ho doprovázely z Galilee, stáli opodál a dívali se na to.
+[49] Všichni jeho známí a ženy, které ho doprovázely z ⟦galilee|Galilu|Galileje⟧, stáli opodál a dívali se na to.
 
-[50] Byl tam muž jménem Joseph z Arimathey, města Židů. Byl členem rady, muž dobrý a spravedlivý,
+[50] Byl tam muž jménem Josef z ⟦arimathea|Arimathaie|Arimatie⟧, města ⟦jews|Jehudim|Židů⟧. Byl členem ⟦sanhedrin|Sanhedrinu|rady⟧, muž dobrý a spravedlivý,
 
-[51] který nesouhlasil s jejich rozhodnutím a jednáním; očekával království *Elohim*.
+[51] který nesouhlasil s jejich rozhodnutím a jednáním; očekával království ⟦elohim|Elohim|Boží⟧.
 
-[52] Ten přišel k Pilatovi a vyžádal si *Yeshuovo* tělo.
+[52] Ten přišel k ⟦pilate|Pilatovi|Pilátovi⟧ a vyžádal si ⟦yeshua|Ješuovo|Ježíšovo⟧ tělo.
 
 [53] Sňal ho, zavinul do lněného plátna a položil ho do hrobu vytesaného ve skále, kde ještě nikdo nebyl pochován.
 
-[54] Byl den přípravy a začínal sabat.
+[54] Byl den přípravy a ⟦shabbat|začínal šabat|začínala sobota⟧.
 
-[55] Ženy, které s ním přišly z Galilee, šly za ním a viděly hrob i to, jak bylo jeho tělo uloženo.
+[55] Ženy, které s ním přišly z ⟦galilee|Galilu|Galileje⟧, šly za ním a viděly hrob i to, jak bylo jeho tělo uloženo.
 
 [56] Pak se vrátily a připravily vonné masti a oleje.
 
-O sabatu podle přikázání odpočívaly.
+⟦shabbat|O šabatu|V sobotu⟧ podle přikázání odpočívaly.
 
 ## Změny
 

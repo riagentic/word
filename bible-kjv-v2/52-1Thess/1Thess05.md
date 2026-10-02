@@ -16,7 +16,7 @@
 
 [8] But since we belong to the day, let us be sober, having put on the breastplate of faith and love, and for a helmet the hope of salvation.
 
-[9] For *Elohim* has not destined us for wrath, but to obtain salvation through our Lord *Yeshua* the *Mashiach*,
+[9] For ⟦elohim|Elohim|God⟧ has not destined us for wrath, but to obtain salvation through our Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧,
 
 [10] who died for us so that whether we are awake or asleep we might live with him.
 
@@ -34,7 +34,7 @@
 
 [17] pray without ceasing,
 
-**[18] give thanks in all circumstances; for this is the will of *Elohim* in the *Mashiach* *Yeshua* for you.**
+**[18] give thanks in all circumstances; for this is the will of ⟦elohim|Elohim|God⟧ in ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧ for you.**
 
 [19] Do not quench the Spirit.
 
@@ -44,7 +44,7 @@
 
 [22] Abstain from every form of evil.
 
-[23] Now may the *Elohim* of peace himself sanctify you completely, and may your whole spirit and soul and body be kept blameless at the coming of our Lord *Yeshua* the *Mashiach*.
+[23] Now may the ⟦elohim|Elohim|God⟧ of peace himself sanctify you completely, and may your whole spirit and soul and body be kept blameless at the coming of our Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧.
 
 [24] He who calls you is faithful; he will surely do it.
 
@@ -54,7 +54,7 @@
 
 [27] I put you under oath before the Lord to have this letter read to all the brothers.
 
-[28] The grace of our Lord *Yeshua* the *Mashiach* be with you.
+[28] The grace of our Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧ be with you.
 
 ## Changes
 

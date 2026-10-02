@@ -1,8 +1,8 @@
 # Abakuk 1
 
-[1] Výrok, který viděl prorok Habakkuk.
+[1] Výrok, který viděl prorok ⟦habakkuk|Chavakuk|Abakuk⟧.
 
-[2] Yahweh, jak dlouho mám volat o pomoc,
+[2] ⟦yhwh|Jahve|Hospodine⟧, jak dlouho mám volat o pomoc,
 a ty neslyšíš?
 Křičet k tobě „Násilí!“,
 a ty nezachraňuješ?
@@ -12,7 +12,7 @@ a proč nečinně hledíš na bezpráví?
 Zkáza a násilí jsou přede mnou;
 povstávají svár a spory.
 
-[4] Proto je Zákon ochromen
+[4] Proto je ⟦torah|Tóra ochromena|zákon ochromen⟧
 a právo nikdy nevychází.
 Neboť ničemník obkličuje spravedlivého;
 proto právo vychází převrácené.
@@ -22,7 +22,7 @@ proto právo vychází převrácené.
 Neboť za vašich dnů konám dílo,
 kterému byste nevěřili, kdyby vám o něm někdo vyprávěl.
 
-[6] Neboť hle, já pozvedám Chaldejce,
+[6] Neboť hle, já pozvedám ⟦chaldeans|Kasdim|Kaldejce⟧,
 ten krutý a prudký národ,
 který táhne šíří země,
 aby se zmocnil příbytků, jež mu nepatří.
@@ -49,9 +49,9 @@ neboť navrší zeminu a dobudou ji.
 provinilí muži, jejichž vlastní síla je jejich bohem!“
 
 [12] Což nejsi od věčnosti,
-Yahweh, můj *Elohim*, můj Svatý?
+⟦yhwh|Jahve|Hospodine⟧, můj ⟦elohim|Elohim|Bože⟧, můj Svatý?
 Nezemřeme.
-Yahweh, ustanovil jsi je k soudu,
+⟦yhwh|Jahve|Hospodine⟧, ustanovil jsi je k soudu,
 a ty, Skálo, jsi je určil k pokárání.
 
 [13] Ty, jehož oči jsou příliš čisté, než aby hleděly na zlo,

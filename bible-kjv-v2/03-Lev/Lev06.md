@@ -1,8 +1,8 @@
 # Leviticus 6
 
-[1] Yahweh spoke to Moses, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[2] "If any person sins and commits a breach of faith against Yahweh by deceiving his neighbor concerning a deposit or a pledge, or by robbery, or by extortion of his neighbor,
+[2] "If any person sins and commits a breach of faith against ⟦yhwh|Yahweh|the LORD⟧ by deceiving his neighbor concerning a deposit or a pledge, or by robbery, or by extortion of his neighbor,
 
 [3] or by finding something lost and lying about it, swearing falsely — in any one of all these things that a person may do and sin —
 
@@ -10,13 +10,13 @@
 
 [5] or anything about which he swore falsely. He shall make full restitution of it, adding a fifth to it, and give it to its owner on the day of his guilt offering.
 
-[6] And he shall bring to the priest as his guilt offering to Yahweh a ram without blemish from the flock, by your valuation, as a guilt offering.
+[6] And he shall bring to the priest as his guilt offering to ⟦yhwh|Yahweh|the LORD⟧ a ram without blemish from the flock, by your valuation, as a guilt offering.
 
-[7] The priest shall make atonement for him before Yahweh, and he shall be forgiven for any of the things he did to incur guilt."
+[7] The priest shall make atonement for him before ⟦yhwh|Yahweh|the LORD⟧, and he shall be forgiven for any of the things he did to incur guilt."
 
-[8] Yahweh spoke to Moses, saying,
+[8] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[9] "Command Aaron and his sons, saying: 'This is the law of the burnt offering. The burnt offering shall remain on the hearth upon the altar all night until morning, and the fire of the altar shall be kept burning on it.
+[9] "Command ⟦aaron|Aharon|Aaron⟧ and his sons, saying: 'This is the law of the burnt offering. The burnt offering shall remain on the hearth upon the altar all night until morning, and the fire of the altar shall be kept burning on it.
 
 [10] The priest shall put on his linen garment and put his linen undergarments on his body, and he shall take up the ashes to which the fire has reduced the burnt offering on the altar, and place them beside the altar.
 
@@ -26,29 +26,29 @@
 
 [13] A perpetual fire shall be kept burning on the altar; it shall not go out.
 
-[14] This is the law of the grain offering: Aaron's sons shall offer it before Yahweh in front of the altar.
+[14] This is the law of the grain offering: ⟦aaron|Aharon's|Aaron's⟧ sons shall offer it before ⟦yhwh|Yahweh|the LORD⟧ in front of the altar.
 
-[15] One shall take from it a handful of the fine flour of the grain offering, and of its oil, and all the frankincense that is on the grain offering; and he shall turn it into smoke on the altar — its memorial portion — a pleasing aroma to Yahweh.
+[15] One shall take from it a handful of the fine flour of the grain offering, and of its oil, and all the frankincense that is on the grain offering; and he shall turn it into smoke on the altar — its memorial portion — a pleasing aroma to ⟦yhwh|Yahweh|the LORD⟧.
 
-[16] What is left of it Aaron and his sons shall eat; it shall be eaten as unleavened bread in a holy place. They shall eat it in the court of the Tent of Meeting.
+[16] What is left of it ⟦aaron|Aharon|Aaron⟧ and his sons shall eat; it shall be eaten as unleavened bread in a holy place. They shall eat it in the court of the Tent of Meeting.
 
 [17] It shall not be baked with leaven. I have given it as their portion from my offerings made by fire; it is most holy, like the sin offering and the guilt offering.
 
-[18] Every male among the children of Aaron may eat of it. It is a perpetual statute throughout your generations from the offerings made by fire to Yahweh. Whatever touches them shall become holy.'"
+[18] Every male among the children of ⟦aaron|Aharon|Aaron⟧ may eat of it. It is a perpetual statute throughout your generations from the offerings made by fire to ⟦yhwh|Yahweh|the LORD⟧. Whatever touches them shall become holy.'"
 
-[19] Yahweh spoke to Moses, saying,
+[19] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[20] "This is the offering of Aaron and his sons that they shall offer to Yahweh on the day when he is anointed: a tenth of an ephah of fine flour as a regular grain offering, half of it in the morning and half in the evening.
+[20] "This is the offering of ⟦aaron|Aharon|Aaron⟧ and his sons that they shall offer to ⟦yhwh|Yahweh|the LORD⟧ on the day when he is anointed: a tenth of an ephah of fine flour as a regular grain offering, half of it in the morning and half in the evening.
 
-[21] It shall be prepared with oil on a griddle; you shall bring it well-mixed. You shall offer the grain offering baked in pieces as a pleasing aroma to Yahweh.
+[21] It shall be prepared with oil on a griddle; you shall bring it well-mixed. You shall offer the grain offering baked in pieces as a pleasing aroma to ⟦yhwh|Yahweh|the LORD⟧.
 
-[22] The priest anointed from among his sons to succeed him shall offer it. It is a perpetual statute to Yahweh; it shall be wholly burned.
+[22] The priest anointed from among his sons to succeed him shall offer it. It is a perpetual statute to ⟦yhwh|Yahweh|the LORD⟧; it shall be wholly burned.
 
 [23] Every grain offering of a priest shall be wholly burned; it shall not be eaten."
 
-[24] Yahweh spoke to Moses, saying,
+[24] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[25] "Speak to Aaron and to his sons, saying: 'This is the law of the sin offering. In the place where the burnt offering is slaughtered, the sin offering shall be slaughtered before Yahweh; it is most holy.
+[25] "Speak to ⟦aaron|Aharon|Aaron⟧ and to his sons, saying: 'This is the law of the sin offering. In the place where the burnt offering is slaughtered, the sin offering shall be slaughtered before ⟦yhwh|Yahweh|the LORD⟧; it is most holy.
 
 [26] The priest who offers it for sin shall eat it; it shall be eaten in a holy place, in the court of the Tent of Meeting.
 

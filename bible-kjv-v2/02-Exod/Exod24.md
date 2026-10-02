@@ -1,40 +1,40 @@
 # Exodus 24
 
-[1] He said to Moses, "Come up to Yahweh, you and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship from afar.
+[1] He said to ⟦moses|Moshe|Moses⟧, "Come up to ⟦yhwh|Yahweh|the LORD⟧, you and ⟦aaron|Aharon|Aaron⟧, ⟦nadab|Nadav|Nadab⟧, and ⟦abihu|Avihu|Abihu⟧, and seventy of the elders of ⟦israel|Yisrael|Israel⟧; and worship from afar.
 
-[2] Moses alone shall come near to Yahweh, but they shall not come near; and the people shall not go up with him."
+[2] ⟦moses|Moshe|Moses⟧ alone shall come near to ⟦yhwh|Yahweh|the LORD⟧, but they shall not come near; and the people shall not go up with him."
 
-[3] Moses came and told the people all the words of Yahweh and all the ordinances, and all the people answered with one voice and said, "All the words that Yahweh has spoken we will do."
+[3] ⟦moses|Moshe|Moses⟧ came and told the people all the words of ⟦yhwh|Yahweh|the LORD⟧ and all the ordinances, and all the people answered with one voice and said, "All the words that ⟦yhwh|Yahweh|the LORD⟧ has spoken we will do."
 
-[4] Moses wrote all the words of Yahweh. He rose early in the morning and built an altar at the foot of the mountain, with twelve pillars, according to the twelve tribes of Israel.
+[4] ⟦moses|Moshe|Moses⟧ wrote all the words of ⟦yhwh|Yahweh|the LORD⟧. He rose early in the morning and built an altar at the foot of the mountain, with twelve pillars, according to the twelve tribes of ⟦israel|Yisrael|Israel⟧.
 
-[5] And he sent young men of the children of Israel, who offered burnt offerings and sacrificed oxen as peace offerings to Yahweh.
+[5] And he sent young men of the children of ⟦israel|Yisrael|Israel⟧, who offered burnt offerings and sacrificed oxen as peace offerings to ⟦yhwh|Yahweh|the LORD⟧.
 
-[6] Moses took half of the blood and put it in basins, and half of the blood he dashed against the altar.
+[6] ⟦moses|Moshe|Moses⟧ took half of the blood and put it in basins, and half of the blood he dashed against the altar.
 
-[7] Then he took the Book of the Covenant and read it in the hearing of the people. And they said, "All that Yahweh has spoken we will do, and we will listen."
+[7] Then he took the Book of the Covenant and read it in the hearing of the people. And they said, "All that ⟦yhwh|Yahweh|the LORD⟧ has spoken we will do, and we will listen."
 
-[8] Moses took the blood and dashed it on the people, saying, "Behold the blood of the covenant that Yahweh has made with you concerning all these words."
+[8] ⟦moses|Moshe|Moses⟧ took the blood and dashed it on the people, saying, "Behold the blood of the covenant that ⟦yhwh|Yahweh|the LORD⟧ has made with you concerning all these words."
 
-[9] Then Moses went up, with Aaron, Nadab, and Abihu, and seventy of the elders of Israel.
+[9] Then ⟦moses|Moshe|Moses⟧ went up, with ⟦aaron|Aharon|Aaron⟧, ⟦nadab|Nadav|Nadab⟧, and ⟦abihu|Avihu|Abihu⟧, and seventy of the elders of ⟦israel|Yisrael|Israel⟧.
 
-[10] They saw the *Elohim* of Israel; and under his feet was something like a pavement of sapphire stone, like the very heavens for clearness.
+[10] They saw the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧; and under his feet was something like a pavement of sapphire stone, like the very heavens for clearness.
 
-[11] He did not lay his hand on the chosen ones of the children of Israel; they beheld *Elohim*, and they ate and drank.
+[11] He did not lay his hand on the chosen ones of the children of ⟦israel|Yisrael|Israel⟧; they beheld ⟦elohim|Elohim|God⟧, and they ate and drank.
 
-[12] Yahweh said to Moses, "Come up to me on the mountain and remain there, and I will give you the tablets of stone, with the instruction and the commandment, which I have written for their instruction."
+[12] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Come up to me on the mountain and remain there, and I will give you the tablets of stone, with the instruction and the commandment, which I have written for their instruction."
 
-[13] So Moses rose with Joshua his attendant, and Moses went up to the mountain of *Elohim*.
+[13] So ⟦moses|Moshe|Moses⟧ rose with ⟦joshua|Yehoshua|Joshua⟧ his attendant, and ⟦moses|Moshe|Moses⟧ went up to the mountain of ⟦elohim|Elohim|God⟧.
 
-[14] To the elders he said, "Wait here for us until we return to you. And behold, Aaron and Hur are with you; whoever has any dispute, let him go to them."
+[14] To the elders he said, "Wait here for us until we return to you. And behold, ⟦aaron|Aharon|Aaron⟧ and ⟦hur|Chur|Hur⟧ are with you; whoever has any dispute, let him go to them."
 
-[15] Moses went up on the mountain, and the cloud covered the mountain.
+[15] ⟦moses|Moshe|Moses⟧ went up on the mountain, and the cloud covered the mountain.
 
-[16] The glory of Yahweh dwelt on Mount Sinai, and the cloud covered it for six days; on the seventh day he called to Moses from the midst of the cloud.
+[16] The glory of ⟦yhwh|Yahweh|the LORD⟧ dwelt on Mount Sinai, and the cloud covered it for six days; on the seventh day he called to ⟦moses|Moshe|Moses⟧ from the midst of the cloud.
 
-[17] The appearance of the glory of Yahweh was like a consuming fire on the top of the mountain, in the sight of the children of Israel.
+[17] The appearance of the glory of ⟦yhwh|Yahweh|the LORD⟧ was like a consuming fire on the top of the mountain, in the sight of the children of ⟦israel|Yisrael|Israel⟧.
 
-[18] Moses entered into the midst of the cloud and went up to the mountain; and Moses was on the mountain forty days and forty nights.
+[18] ⟦moses|Moshe|Moses⟧ entered into the midst of the cloud and went up to the mountain; and ⟦moses|Moshe|Moses⟧ was on the mountain forty days and forty nights.
 
 ## Changes
 

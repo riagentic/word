@@ -1,6 +1,6 @@
 # Job 6
 
-[1] Then Job answered and said:
+[1] Then ⟦job|Iyov|Job⟧ answered and said:
 
 [2] "Oh that my grief were truly weighed,
 and my calamity laid on the scales together!
@@ -8,9 +8,9 @@ and my calamity laid on the scales together!
 [3] For now it would be heavier than the sand of the seas —
 therefore my words have been wild.
 
-[4] For the arrows of Shaddai are in me;
+[4] For the arrows of ⟦shaddai|Shaddai|the Almighty⟧ are in me;
 my spirit drinks their poison;
-the terrors of Eloah are arrayed against me.
+the terrors of ⟦eloah|Eloah|God⟧ are arrayed against me.
 
 [5] Does the wild ass bray when it has grass?
 Does the ox low over its fodder?
@@ -22,9 +22,9 @@ Is there flavor in the slime of the mallow?
 they are like loathsome food to me.
 
 [8] Oh that I might have my request,
-that Eloah would grant what I long for —
+that ⟦eloah|Eloah|God⟧ would grant what I long for —
 
-[9] that it would please Eloah to crush me,
+[9] that it would please ⟦eloah|Eloah|God⟧ to crush me,
 that he would loose his hand and cut me off!
 
 [10] This would still be my comfort —
@@ -41,7 +41,7 @@ Is my flesh bronze?
 Has resourcefulness been driven from me?
 
 [14] To the despairing, steadfast love should be shown by his friend —
-or he forsakes the fear of Shaddai.
+or he forsakes the fear of ⟦shaddai|Shaddai|the Almighty⟧.
 
 [15] My brothers have dealt deceitfully as a wadi,
 as the course of wadis that run dry —
@@ -56,7 +56,7 @@ when hot, they disappear from their place.
 they go into the wasteland and perish.
 
 [19] The caravans of Tema looked;
-the travelers of Sheba hoped for them.
+the travelers of ⟦sheba|Sheva|Sheba⟧ hoped for them.
 
 [20] They were confounded because they had trusted;
 they came there and were disappointed.

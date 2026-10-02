@@ -27,7 +27,7 @@ they go down into the inner parts of the body.
 [9] Whoever is slack in his work
 is a brother to him who destroys.
 
-[10] The name of Yahweh is a strong tower;
+[10] The name of ⟦yhwh|Yahweh|the LORD⟧ is a strong tower;
 the righteous runs into it and is safe.
 
 [11] A rich man's wealth is his strong city,
@@ -64,7 +64,7 @@ he is satisfied by the yield of his lips.
 and those who love it will eat its fruit.
 
 [22] He who finds a wife finds a good thing
-and obtains favor from Yahweh.
+and obtains favor from ⟦yhwh|Yahweh|the LORD⟧.
 
 [23] The poor use entreaties,
 but the rich answer roughly.

@@ -6,8 +6,8 @@ mé ucho slyšelo a porozumělo.
 [2] Co víte vy, vím i já;
 nejsem za vámi pozadu.
 
-[3] Já bych však mluvil k Shaddaiovi;
-toužím obhájit svou při před El.
+[3] Já bych však mluvil k ⟦shaddai|Šaddajovi|Všemohoucímu⟧;
+toužím obhájit svou při před ⟦el|El|Bohem⟧.
 
 [4] Vy však zamazáváte lžemi;
 všichni jste bezcenní lékaři.
@@ -18,11 +18,11 @@ To by byla vaše moudrost.
 [6] Slyšte teď můj důkaz;
 naslouchejte obhajobě mých rtů.
 
-[7] Budete za El mluvit nepravdivě?
+[7] Budete za ⟦el|El|Boha⟧ mluvit nepravdivě?
 Budete za něho mluvit lstivě?
 
 [8] Budete mu nadržovat?
-Budete vést při za El?
+Budete vést při za ⟦el|El|Boha⟧?
 
 [9] Bude to dobré, až vás prozkoumá?
 Můžete ho oklamat, jako se klame člověk?

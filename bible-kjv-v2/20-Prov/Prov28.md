@@ -9,22 +9,22 @@ but with a man of understanding and knowledge, its stability will long continue.
 [3] A poor man who oppresses the poor
 is a beating rain that leaves no food.
 
-[4] Those who forsake the Law praise the wicked,
-but those who keep the Law strive against them.
+[4] Those who forsake the ⟦torah|Torah|law⟧ praise the wicked,
+but those who keep the ⟦torah|Torah|law⟧ strive against them.
 
 [5] Evil men do not understand justice,
-but those who seek Yahweh understand it completely.
+but those who seek ⟦yhwh|Yahweh|the LORD⟧ understand it completely.
 
 [6] Better is a poor man who walks in his integrity
 than a rich man who is crooked in his ways.
 
-[7] The one who keeps the Law is a son with understanding,
+[7] The one who keeps the ⟦torah|Torah|law⟧ is a son with understanding,
 but a companion of gluttons shames his father.
 
 [8] Whoever multiplies his wealth by interest and profit
 gathers it for him who is generous to the poor.
 
-[9] If one turns away his ear from hearing the Law,
+[9] If one turns away his ear from hearing the ⟦torah|Torah|law⟧,
 even his prayer is an abomination.
 
 [10] Whoever misleads the upright into an evil way
@@ -76,7 +76,7 @@ and says, "It is no transgression,"
 is a companion to a man who destroys.
 
 [25] A greedy man stirs up strife,
-but the one who trusts in Yahweh will be enriched.
+but the one who trusts in ⟦yhwh|Yahweh|the LORD⟧ will be enriched.
 
 [26] Whoever trusts in his own mind is a fool,
 but he who walks in wisdom will be delivered.

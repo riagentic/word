@@ -48,7 +48,7 @@
 
 [24] If I had not done among them the works that no one else did, they would not be guilty of sin, but now they have seen and hated both me and my Father.
 
-[25] But the word that is written in their Law must be fulfilled: '**They hated me without a cause**.'
+[25] But the word that is written in their ⟦torah|Torah|Law⟧ must be fulfilled: '**They hated me without a cause**.'
 
 [26] "But when the Helper comes, whom I will send to you from the Father, the Spirit of truth, who proceeds from the Father, he will bear witness about me.
 

@@ -1,26 +1,26 @@
 # Exodus 15
 
-[1] Tehdy Moses a synové Israele zpívali Yahweh tuto píseň:
+[1] Tehdy ⟦moses|Moše|Mojžíš⟧ a synové ⟦israel|Jisraele|Izraele⟧ zpívali ⟦yhwh|Jahvovi|Hospodinu⟧ tuto píseň:
 
-„Budu zpívat Yahweh, neboť slavně zvítězil;
+„Budu zpívat ⟦yhwh|Jahvovi|Hospodinu⟧, neboť slavně zvítězil;
 koně i s jezdcem vrhl do moře.
 
-[2] Yah je má síla a má píseň;
+[2] ⟦yah|Jah|Hospodin⟧ je má síla a má píseň;
 stal se mou záchranou.
-To je můj *Elohim*, budu ho chválit;
-*Elohim* mého otce, budu ho vyvyšovat.
+To je můj ⟦el|El|Bůh⟧, budu ho chválit;
+⟦elohim|Elohim|Bůh⟧ mého otce, budu ho vyvyšovat.
 
-[3] Yahweh je bojovník;
-Yahweh je jeho jméno.
+[3] ⟦yhwh|Jahve|Hospodin⟧ je bojovník;
+⟦yhwh|Jahve|Hospodin⟧ je jeho jméno.
 
-[4] Pharaohovy vozy i jeho vojsko svrhl do moře
+[4] ⟦pharaoh|Parohovy|faraónovy⟧ vozy i jeho vojsko svrhl do moře
 a jeho vybraní velitelé utonuli v Rákosovém moři.
 
 [5] Hlubiny je přikryly;
 klesli do hloubek jako kámen.
 
-[6] Tvá pravice, Yahweh, je vznešená v moci;
-tvá pravice, Yahweh, drtí nepřítele.
+[6] Tvá pravice, ⟦yhwh|Jahve|Hospodine⟧, je vznešená v moci;
+tvá pravice, ⟦yhwh|Jahve|Hospodine⟧, drtí nepřítele.
 
 [7] Ve velikosti své vznešenosti jsi porazil své protivníky;
 vyslal jsi svůj planoucí hněv – strávil je jako strniště.
@@ -39,7 +39,7 @@ má ruka je vyžene.‘
 [10] Zadul jsi svým větrem – moře je přikrylo;
 klesli jako olovo v mohutných vodách.
 
-[11] Kdo je jako ty mezi bohy, Yahweh?
+[11] Kdo je jako ty mezi bohy, ⟦yhwh|Jahve|Hospodine⟧?
 Kdo je jako ty – vznešený ve svatosti,
 hrozný v chvalách, konající divy?
 
@@ -50,51 +50,52 @@ země je pohltila.
 ve své síle jsi ho provedl k svému svatému příbytku.
 
 [14] Národy to uslyšely a chvějí se;
-úzkost zachvátila obyvatele Philistie.
+úzkost zachvátila obyvatele ⟦philistia|Pelešet|Pelištejska⟧.
 
-[15] Tehdy se zděsili náčelníci Edomu;
-moabské vůdce zachvátilo chvění;
-všichni obyvatelé Canaanu se rozplynuli.
+[15] Tehdy se zděsili náčelníci ⟦edom|Edomu|Edómu⟧;
+⟦moab|moavské|moábské⟧ vůdce zachvátilo chvění;
+všichni obyvatelé Kenaanu se rozplynuli.
 
 [16] Padá na ně hrůza a děs;
 velikostí tvé paže ztuhnou jako kámen –
-dokud tvůj lid nepřejde, Yahweh,
+dokud tvůj lid nepřejde, ⟦yhwh|Jahve|Hospodine⟧,
 dokud nepřejde lid, který sis získal.
 
 [17] Přivedeš je a zasadíš
 na horu svého dědictví,
-na místo, Yahweh, které jsi učinil svým příbytkem,
-do svatyně, Pane, kterou založily tvé ruce.
+na místo, ⟦yhwh|Jahve|Hospodine⟧, které jsi učinil svým příbytkem,
+do svatyně, ⟦adonai|Adonaji|Pane⟧, kterou založily tvé ruce.
 
-[18] Yahweh bude kralovat na věky věků.“
+[18] ⟦yhwh|Jahve|Hospodin⟧ bude kralovat na věky věků.“
 
-[19] Neboť Pharaohovi koně s jeho vozy a jeho jízdou vešli do moře a Yahweh na ně obrátil zpět mořské vody; ale synové Israele šli po suchu uprostřed moře.
+[19] Neboť ⟦pharaoh|Parohovi|faraónovi⟧ koně s jeho vozy a jeho jízdou vešli do moře a ⟦yhwh|Jahve|Hospodin⟧ na ně obrátil zpět mořské vody; ale synové ⟦israel|Jisraele|Izraele⟧ šli po suchu uprostřed moře.
 
-[20] Tu vzala prorokyně Miriam, sestra Aaronova, do ruky bubínek; a všechny ženy vyšly za ní s bubínky a v tancích.
+[20] Tu vzala prorokyně Mirjam, sestra ⟦aaron|Aharonova|Áronova⟧, do ruky bubínek; a všechny ženy vyšly za ní s bubínky a v tancích.
 
-[21] A Miriam jim odpovídala:
+[21] A Mirjam jim odpovídala:
 
-„Zpívejte Yahweh, neboť slavně zvítězil;
+„Zpívejte ⟦yhwh|Jahvovi|Hospodinu⟧, neboť slavně zvítězil;
 koně i s jezdcem vrhl do moře.“
 
-[22] Moses vedl Israel dál od Rákosového moře a vyšli na poušť Shur; šli tři dny pouští a nenašli vodu.
+[22] ⟦moses|Moše|Mojžíš⟧ vedl ⟦israel|Jisrael|Izrael⟧ dál od Rákosového moře a vyšli na poušť ⟦shur|Šur|Šúr⟧; šli tři dny pouští a nenašli vodu.
 
-[23] Když přišli do Marah, nemohli pít vody z Marah, protože byly hořké; proto se to místo nazývá Marah.
+[23] Když přišli do Mary, nemohli pít vody z Mary, protože byly hořké; proto se to místo nazývá Mara.
 
-[24] Lid reptal proti Mosesovi: „Co budeme pít?“
+[24] Lid reptal proti ⟦moses|Mošovi|Mojžíšovi⟧: „Co budeme pít?“
 
-[25] Volal k Yahweh a Yahweh mu ukázal strom; hodil ho do vody a voda zesládla.
+[25] Volal k ⟦yhwh|Jahvovi|Hospodinu⟧ a ⟦yhwh|Jahve|Hospodin⟧ mu ukázal strom; hodil ho do vody a voda zesládla.
 
 Tam jim dal ustanovení a řád a tam je zkoušel
 
-[26] a řekl: „Budeš-li bedlivě poslouchat hlas Yahweh, svého *Elohim*, a činit, co je správné v jeho očích, naslouchat jeho přikázáním a zachovávat všechna jeho ustanovení, nepošlu na tebe žádnou z nemocí, které jsem poslal na Egypťany; neboť já jsem Yahweh, tvůj lékař.“
+[26] a řekl: „Budeš-li bedlivě poslouchat hlas ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧, a činit, co je správné v jeho očích, naslouchat jeho přikázáním a zachovávat všechna jeho ustanovení, nepošlu na tebe žádnou z nemocí, které jsem poslal na ⟦egyptians|Micrim|Egypťany⟧; neboť já jsem ⟦yhwh|Jahve|Hospodin⟧, tvůj lékař.“
 
-[27] Potom přišli do Elim, kde bylo dvanáct pramenů vody a sedmdesát palem; a utábořili se tam u vod.
+[27] Potom přišli do ⟦elim|Elim|Élimu⟧, kde bylo dvanáct pramenů vody a sedmdesát palem; a utábořili se tam u vod.
 
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – zachován Tetragrammaton.
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
+- **"my God" → „můj El“** (v2) – hebrejsky אֵלִי *Eli*; „*Elohim* mého otce“ na dalším řádku je אֱלֹהֵי אָבִי.
 - **"Red sea" → „Rákosové moře“** (v4, 22) – hebrejsky יַם־סוּף *Yam Suph*, jako v 10:19.
 - **"the LORD is my strength and song" → „Yah je má síla a má píseň“** (v2) – hebrejsky עָזִּי וְזִמְרָת יָהּ *ozzi wezimrat Yah*. *Yah* je krátká podoba YHWH (užívaná ve slovech jako Hallelu-Yah „chvalte Yah“). Zachováno jako samostatná podoba.
 - **"habitation" → „chválit“** (v2) – hebrejsky וְאַנְוֵהוּ *we-anwehu*. Sporné:

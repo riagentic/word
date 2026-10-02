@@ -36,21 +36,21 @@ The inside of the nave and the vestibules of the court,
 
 [17] to the space above the door, even to the inner room, and on the outside. And on all the walls all around, inside and outside, was a measured pattern.
 
-[18] It was carved of cherubim and palm trees, a palm tree between cherub and cherub. Every cherub had two faces:
+[18] It was carved of ⟦cherubim|keruvim|cherubim⟧ and palm trees, a palm tree between ⟦cherub|keruv|cherub⟧ and ⟦cherub|keruv|cherub⟧. Every ⟦cherub|keruv|cherub⟧ had two faces:
 
 [19] a human face toward the palm tree on the one side, and the face of a young lion toward the palm tree on the other side. They were carved on the whole temple all around.
 
-[20] From the floor to above the door, cherubim and palm trees were carved; similarly the wall of the nave.
+[20] From the floor to above the door, ⟦cherubim|keruvim|cherubim⟧ and palm trees were carved; similarly the wall of the nave.
 
 [21] The doorposts of the nave were squared, and in front of the Holy Place was something resembling
 
-[22] an altar of wood, three cubits high, two cubits long, and two cubits broad. Its corners, its base, and its walls were of wood. He said to me, "This is the table that is before Yahweh."
+[22] an altar of wood, three cubits high, two cubits long, and two cubits broad. Its corners, its base, and its walls were of wood. He said to me, "This is the table that is before ⟦yhwh|Yahweh|the LORD⟧."
 
 [23] The nave and the Holy Place had each a double door.
 
 [24] The double doors had two leaves apiece, two swinging leaves for each door.
 
-[25] And on the doors of the nave were carved cherubim and palm trees, such as were carved on the walls. And there was a canopy of wood in front of the vestibule outside.
+[25] And on the doors of the nave were carved ⟦cherubim|keruvim|cherubim⟧ and palm trees, such as were carved on the walls. And there was a canopy of wood in front of the vestibule outside.
 
 [26] And there were narrow windows and palm trees on either side, on the sidewalls of the vestibule, the side chambers of the temple, and the canopies.
 

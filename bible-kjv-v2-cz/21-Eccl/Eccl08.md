@@ -5,7 +5,7 @@ A kdo zná výklad věci?
 Moudrost člověka rozjasňuje jeho tvář
 a tvrdost jeho tváře se mění.
 
-[2] Pravím: Zachovávej králův příkaz, kvůli přísaze *Elohim*.
+[2] Pravím: Zachovávej králův příkaz, kvůli přísaze ⟦elohim|Elohim|Boží⟧.
 
 [3] Nespěchej odejít od jeho tváře. Nezastávej se zlé věci, neboť on činí, cokoli se mu zlíbí.
 
@@ -25,17 +25,17 @@ a tvrdost jeho tváře se mění.
 
 [11] Protože rozsudek nad zlým skutkem se nevykonává rychle, srdce synů lidských je zcela odhodláno páchat zlo.
 
-[12] I když hříšník páchá zlo stokrát a prodlužuje svůj život, přece vím, že dobře bude těm, kdo se bojí *Elohim*, protože se před ním bojí.
+[12] I když hříšník páchá zlo stokrát a prodlužuje svůj život, přece vím, že dobře bude těm, kdo se bojí ⟦elohim|Elohim|Boha⟧, protože se před ním bojí.
 
-[13] Ale ničemnému dobře nebude a neprodlouží své dny jako stín, protože se nebojí před *Elohim*.
+[13] Ale ničemnému dobře nebude a neprodlouží své dny jako stín, protože se nebojí před ⟦elohim|Elohim|Bohem⟧.
 
 [14] Je marnost, která se děje na zemi: že jsou spravedliví, jimž se děje podle skutků ničemných, a jsou ničemní, jimž se děje podle skutků spravedlivých. Řekl jsem, že i to je marnost.
 
-[15] A tak chválím radost, neboť člověk nemá pod sluncem nic lepšího, než jíst a pít a radovat se, neboť to ho bude provázet v jeho námaze po dny jeho života, které mu *Elohim* dal pod sluncem.
+[15] A tak chválím radost, neboť člověk nemá pod sluncem nic lepšího, než jíst a pít a radovat se, neboť to ho bude provázet v jeho námaze po dny jeho života, které mu ⟦elohim|Elohim|Bůh⟧ dal pod sluncem.
 
 [16] Když jsem upnul své srdce k tomu, abych poznal moudrost a viděl zaměstnání, které se koná na zemi – jak oči člověka nevidí spánek ve dne ani v noci –,
 
-[17] tu jsem viděl všechno dílo *Elohim*, že člověk nemůže vystihnout dílo, které se děje pod sluncem. Ať se člověk sebevíc namáhá hledáním, nevystihne je. I když moudrý tvrdí, že to ví, nemůže to vystihnout.
+[17] tu jsem viděl všechno dílo ⟦elohim|Elohim|Boží⟧, že člověk nemůže vystihnout dílo, které se děje pod sluncem. Ať se člověk sebevíc namáhá hledáním, nevystihne je. I když moudrý tvrdí, že to ví, nemůže to vystihnout.
 
 ## Změny
 

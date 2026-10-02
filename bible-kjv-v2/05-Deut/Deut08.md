@@ -1,32 +1,32 @@
 # Deuteronomy 8
 
-[1] "The whole commandment that I am commanding you today you shall be careful to do, that you may live and multiply, and go in and possess the land that Yahweh swore to give your fathers.
+[1] "The whole commandment that I am commanding you today you shall be careful to do, that you may live and multiply, and go in and possess the land that ⟦yhwh|Yahweh|the LORD⟧ swore to give your fathers.
 
-[2] You shall remember all the way that Yahweh your *Elohim* has led you these forty years in the wilderness, to humble you, to test you, to know what was in your heart — whether you would keep his commandments or not.
+[2] You shall remember all the way that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ has led you these forty years in the wilderness, to humble you, to test you, to know what was in your heart — whether you would keep his commandments or not.
 
-[3] He humbled you and let you hunger and fed you with manna, which you did not know and which your fathers did not know, that he might make you know that man does not live by bread alone, but by everything that comes from the mouth of Yahweh man lives.
+[3] He humbled you and let you hunger and fed you with manna, which you did not know and which your fathers did not know, that he might make you know that man does not live by bread alone, but by everything that comes from the mouth of ⟦yhwh|Yahweh|the LORD⟧ man lives.
 
 [4] Your clothing did not wear out on you, and your foot did not swell, these forty years.
 
-[5] Know in your heart that, as a man disciplines his son, so Yahweh your *Elohim* disciplines you.
+[5] Know in your heart that, as a man disciplines his son, so ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ disciplines you.
 
-[6] You shall keep the commandments of Yahweh your *Elohim*, walking in his ways and fearing him.
+[6] You shall keep the commandments of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, walking in his ways and fearing him.
 
-[7] For Yahweh your *Elohim* is bringing you into a good land — a land of brooks of water, of springs and deep founts welling up in valleys and hills;
+[7] For ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is bringing you into a good land — a land of brooks of water, of springs and deep founts welling up in valleys and hills;
 
 [8] a land of wheat and barley, vines and fig trees and pomegranates; a land of olive oil and honey;
 
 [9] a land in which you shall eat bread without scarcity — you shall not lack anything in it — a land whose stones are iron, and out of whose hills you may mine bronze.
 
-[10] You shall eat and be full, and you shall bless Yahweh your *Elohim* for the good land he has given you.
+[10] You shall eat and be full, and you shall bless ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ for the good land he has given you.
 
-[11] Take care, lest you forget Yahweh your *Elohim* by failing to keep his commandments, his ordinances, and his statutes, which I am commanding you today;
+[11] Take care, lest you forget ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ by failing to keep his commandments, his ordinances, and his statutes, which I am commanding you today;
 
 [12] lest, when you have eaten and are full, and have built good houses and lived in them,
 
 [13] and when your herds and your flocks have multiplied, and your silver and your gold have multiplied, and all that you have has multiplied,
 
-[14] then your heart become lifted up and you forget Yahweh your *Elohim*, who brought you out of the land of Egypt, out of the house of slavery,
+[14] then your heart become lifted up and you forget ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, who brought you out of the land of ⟦egypt|Mitzrayim|Egypt⟧, out of the house of slavery,
 
 [15] who led you through the great and fearsome wilderness — with its fiery serpents and scorpions, dry and thirsty ground where there was no water — who brought water for you out of the flinty rock,
 
@@ -34,11 +34,11 @@
 
 [17] and you say in your heart, 'My power and the might of my hand have gained me this wealth.'
 
-[18] You shall remember Yahweh your *Elohim*, for it is he who gives you power to get wealth, that he may establish his covenant that he swore to your fathers, as it is today.
+[18] You shall remember ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, for it is he who gives you power to get wealth, that he may establish his covenant that he swore to your fathers, as it is today.
 
-[19] If you ever forget Yahweh your *Elohim* and go after other gods, and serve them and bow down to them, I testify against you today that you shall surely perish.
+[19] If you ever forget ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ and go after other gods, and serve them and bow down to them, I testify against you today that you shall surely perish.
 
-[20] Like the nations that Yahweh is destroying before you, so shall you perish, because you would not listen to the voice of Yahweh your *Elohim*.
+[20] Like the nations that ⟦yhwh|Yahweh|the LORD⟧ is destroying before you, so shall you perish, because you would not listen to the voice of ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
 ## Changes
 

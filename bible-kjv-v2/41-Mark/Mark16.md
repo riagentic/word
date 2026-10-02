@@ -1,6 +1,6 @@
 # Mark 16
 
-[1] When the Sabbath was past, Mary Magdalene and Mary the mother of Jacob and Salome bought spices, so that they might go and anoint him.
+[1] When the ⟦shabbat|Shabbat|Sabbath⟧ was past, ⟦mary|Miryam|Mary⟧ Magdalene and ⟦mary|Miryam|Mary⟧ the mother of ⟦james|Yaaqov|James⟧ and Salome bought spices, so that they might go and anoint him.
 
 [2] And very early on the first day of the week, when the sun had risen, they went to the tomb.
 
@@ -10,13 +10,13 @@
 
 [5] And entering the tomb, they saw a young man sitting on the right side, dressed in a white robe, and they were alarmed.
 
-[6] And he said to them, "Do not be alarmed. You seek *Yeshua* of Nazareth, who was crucified. **He has risen; he is not here.** See the place where they laid him.
+[6] And he said to them, "Do not be alarmed. You seek ⟦yeshua|Yeshua|Jesus⟧ of ⟦nazareth|Natzrat|Nazareth⟧, who was crucified. **He has risen; he is not here.** See the place where they laid him.
 
-[7] But go, tell his disciples and *Kefa* that he is going before you to Galilee. There you will see him, just as he told you."
+[7] But go, tell his disciples and ⟦peter|Kefa|Peter⟧ that he is going before you to ⟦galilee|Galil|Galilee⟧. There you will see him, just as he told you."
 
 [8] And they went out and fled from the tomb, for trembling and astonishment had seized them, and they said nothing to anyone, for they were afraid.
 
-[9] [[Now when he rose early on the first day of the week, he appeared first to Mary Magdalene, from whom he had cast out seven demons.
+[9] [[Now when he rose early on the first day of the week, he appeared first to ⟦mary|Miryam|Mary⟧ Magdalene, from whom he had cast out seven demons.
 
 [10] She went and told those who had been with him, as they mourned and wept.
 
@@ -30,13 +30,13 @@
 
 [15] And he said to them, "**Go into all the world and proclaim the gospel to the whole creation.**
 
-**[16] Whoever believes and is immersed will be saved, but whoever does not believe will be condemned.**
+**[16] Whoever believes and is ⟦immerse|immersed|baptized⟧ will be saved, but whoever does not believe will be condemned.**
 
 [17] And these signs will accompany those who believe: in my name they will cast out demons; they will speak in new tongues;
 
 [18] they will pick up serpents with their hands; and if they drink any deadly poison, it will not hurt them; they will lay their hands on the sick, and they will recover."
 
-[19] So then the Lord *Yeshua*, after he had spoken to them, was taken up into heaven and sat down at the right hand of *Elohim*.
+[19] So then the Lord ⟦yeshua|Yeshua|Jesus⟧, after he had spoken to them, was taken up into heaven and sat down at the right hand of ⟦elohim|Elohim|God⟧.
 
 [20] And they went out and preached everywhere, while the Lord worked with them and confirmed the message by accompanying signs.]]
 

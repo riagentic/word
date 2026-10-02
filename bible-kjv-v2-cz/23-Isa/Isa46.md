@@ -1,6 +1,6 @@
 # Izajáš 46
 
-[1] Bel se hrbí; Nebo se sklání;
+[1] ⟦bel|Bel|Bél⟧ se hrbí; ⟦nebo|Nevo|Nébo⟧ se sklání;
 jejich modly jsou na zvířatech a dobytku;
 ty věci, které nosíte, jsou neseny jako břemena
 na unavených zvířatech.
@@ -9,8 +9,8 @@ na unavených zvířatech.
 nemohou zachránit břemeno,
 ale samy odcházejí do zajetí.
 
-[3] „Poslouchejte mě, dome Jacobův,
-celý zbytku domu Israele,
+[3] „Poslouchejte mě, dome ⟦jacob|Jaakovův|Jákobův⟧,
+celý zbytku domu ⟦israel|Jisraele|Izraele⟧,
 kteří jste byli mnou neseni od doby před narozením,
 nošeni od lůna;
 
@@ -37,8 +37,8 @@ ani ho nezachrání z jeho soužení.
 připomeňte si to, vy přestupníci,
 
 [9] pamatujte na dřívější věci odedávna;
-neboť já jsem *Elohim* a není jiného;
-já jsem *Elohim* a není nikdo jako já,
+neboť já jsem ⟦el|El|Bůh⟧ a není jiného;
+já jsem ⟦elohim|Elohim|Bůh⟧ a není nikdo jako já,
 
 [10] který oznamuji konec od počátku
 a od dávných časů věci, které ještě nebyly učiněny,
@@ -55,13 +55,14 @@ vy, kdo jste daleko od spravedlnosti:
 
 [13] přibližuji svou spravedlnost; není daleko,
 a má spása nebude otálet;
-dám spásu na Zionu
-pro Israel, svou slávu.“
+dám spásu na ⟦zion|Cijonu|Sijónu⟧
+pro ⟦israel|Jisrael|Izrael⟧, svou slávu.“
 
 ## Změny
 
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejské *Elohim*; Boží polemika této kapitoly užívá především *El* / *Elohim*.
 - **"Bel" / "Nebo" zachováno** (v1–2) – babylonská božská jména ponechána jako vlastní jména; bez výkladu, protože jsou z kontextu zřejmá.
+- **"God" → „El“** (v9) – hebrejsky אֵל *El*, ne *Elohim*.
 - **Básnická struktura** – celá kapitola uspořádána jako verše; Boží polemika proti babylonským bohům.
 
 ### Poznámky

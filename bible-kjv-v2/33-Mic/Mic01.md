@@ -1,13 +1,13 @@
 # Micah 1
 
-[1] The word of Yahweh that came to Micah of Moresheth in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
+[1] The word of ⟦yhwh|Yahweh|the LORD⟧ that came to ⟦micah-prophet|Michah|Micah⟧ of ⟦moresheth|Moreshet|Moresheth⟧ in the days of ⟦jotham|Yotam|Jotham⟧, ⟦ahaz|Achaz|Ahaz⟧, and ⟦hezekiah|Chizqiyahu|Hezekiah⟧, kings of ⟦judah|Yehudah|Judah⟧, which he saw concerning ⟦samaria|Shomron|Samaria⟧ and ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
 [2] Hear, you peoples, all of you;
 pay attention, O earth, and all that is in it,
-and let Lord Yahweh be a witness against you,
-Lord from his holy temple.
+and let ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧ be a witness against you,
+⟦adonai|Adonai|the Lord⟧ from his holy temple.
 
-[3] For behold, Yahweh is coming out of his place,
+[3] For behold, ⟦yhwh|Yahweh|the LORD⟧ is coming out of his place,
 and will come down and tread upon the high places of the earth.
 
 [4] And the mountains will melt under him,
@@ -15,12 +15,12 @@ and the valleys will split open,
 like wax before the fire,
 like waters poured down a steep place.
 
-[5] All this is for the transgression of Jacob
-and for the sins of the house of Israel.
-What is the transgression of Jacob? Is it not Samaria?
-And what is the high place of Judah? Is it not Jerusalem?
+[5] All this is for the transgression of ⟦jacob|Yaaqov|Jacob⟧
+and for the sins of the house of ⟦israel|Yisrael|Israel⟧.
+What is the transgression of ⟦jacob|Yaaqov|Jacob⟧? Is it not ⟦samaria|Shomron|Samaria⟧?
+And what is the high place of ⟦judah|Yehudah|Judah⟧? Is it not ⟦jerusalem|Yerushalayim|Jerusalem⟧?
 
-[6] Therefore I will make Samaria a heap in the open country,
+[6] Therefore I will make ⟦samaria|Shomron|Samaria⟧ a heap in the open country,
 a place for planting vineyards,
 and I will pour down her stones into the valley
 and uncover her foundations.
@@ -37,42 +37,42 @@ I will make lamentation like the jackals,
 and mourning like the ostriches.
 
 [9] For her wound is incurable,
-and it has come to Judah;
+and it has come to ⟦judah|Yehudah|Judah⟧;
 it has reached to the gate of my people,
-to Jerusalem.
+to ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[10] Tell it not in Gath;
+[10] Tell it not in ⟦gath|Gat|Gath⟧;
 weep not at all;
-in Beth-le-aphrah
+in ⟦beth-le-aphrah|Beit LeAfrah|Beth-le-aphrah⟧
 roll yourself in the dust.
 
 [11] Pass on your way,
-inhabitant of Shaphir,
+inhabitant of ⟦shaphir|Shafir|Shaphir⟧,
 in nakedness and shame;
-the inhabitant of Zaanan does not come out;
-the lamentation of Beth-ezel
+the inhabitant of ⟦zaanan|Tzaanan|Zaanan⟧ does not come out;
+the lamentation of ⟦beth-ezel|Beit HaEtzel|Beth-ezel⟧
 shall take from you its standing place.
 
-[12] For the inhabitant of Maroth waits anxiously for good,
-because disaster has come down from Yahweh
-to the gate of Jerusalem.
+[12] For the inhabitant of ⟦maroth|Marot|Maroth⟧ waits anxiously for good,
+because disaster has come down from ⟦yhwh|Yahweh|the LORD⟧
+to the gate of ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
 [13] Harness the steeds to the chariots,
 inhabitant of Lachish;
 it was the beginning of sin
-to the daughter of Zion,
+to the daughter of ⟦zion|Tziyon|Zion⟧,
 for in you were found
-the transgressions of Israel.
+the transgressions of ⟦israel|Yisrael|Israel⟧.
 
 [14] Therefore you shall give parting gifts
-to Moresheth-gath;
-the houses of Achzib
+to ⟦moresheth-gath|Moreshet Gat|Moresheth-gath⟧;
+the houses of ⟦achzib|Achziv|Achzib⟧
 shall be a deceitful thing
-to the kings of Israel.
+to the kings of ⟦israel|Yisrael|Israel⟧.
 
 [15] I will again bring a conqueror to you,
 inhabitant of Mareshah;
-the glory of Israel
+the glory of ⟦israel|Yisrael|Israel⟧
 shall come to Adullam.
 
 [16] Make yourself bald and cut off your hair,

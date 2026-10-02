@@ -8,11 +8,11 @@
 
 [4] Je **jedno tělo a jeden Duch – tak jako jste byli povoláni k jedné naději, která patří k vašemu povolání –**
 
-[5] jeden Pán, jedna víra, jedno ponoření,
+[5] jeden Pán, jedna víra, ⟦immersion|jedno ponoření|jeden křest⟧,
 
-**[6] jeden *Elohim* a Otec všech, který je nade všemi, skrze všechny a ve všech**.
+**[6] jeden ⟦elohim|Elohim|Bůh⟧ a Otec všech, který je nade všemi, skrze všechny a ve všech**.
 
-[7] Každému z nás však byla dána milost podle míry daru *Mashiacha*.
+[7] Každému z nás však byla dána milost podle míry daru ⟦mashiach|Mašiacha|Krista⟧.
 
 [8] Proto se říká:
 
@@ -25,31 +25,31 @@ a dal lidem dary**.“
 
 [11] A on dal apoštoly, proroky, evangelisty, pastýře a učitele,
 
-[12] aby vystrojili svaté k dílu služby, k budování těla *Mashiacha*,
+[12] aby vystrojili svaté k dílu služby, k budování těla ⟦mashiach|Mašiacha|Krista⟧,
 
-[13] dokud všichni nedospějeme k jednotě víry a poznání Syna *Elohim*, ke zralému mužství, k míře vzrůstu plnosti *Mashiacha*,
+[13] dokud všichni nedospějeme k jednotě víry a poznání Syna ⟦elohim|Elohim|Božího⟧, ke zralému mužství, k míře vzrůstu plnosti ⟦mashiach|Mašiacha|Krista⟧,
 
 [14] abychom už nebyli dětmi, zmítanými vlnami a unášenými každým větrem učení, lidskou prohnaností, lstivostí v klamných úkladech.
 
-[15] Naopak, mluvíce pravdu v lásce, máme ve všem dorůstat v toho, který je hlava, v *Mashiacha*,
+[15] Naopak, mluvíce pravdu v lásce, máme ve všem dorůstat v toho, který je hlava, v ⟦mashiach|Mašiacha|Krista⟧,
 
 [16] z něhož celé tělo, spojené a držené pohromadě každým kloubem, jímž je vybaveno, působí, když každá část náležitě pracuje, růst těla, takže se buduje v lásce.
 
 [17] Toto tedy říkám a dosvědčuji v Pánu: nežijte už tak, jak žijí pohané, v marnosti své mysli.
 
-[18] Jsou zatemnělí v chápání, odcizení životu *Elohim* pro nevědomost, která je v nich, kvůli zatvrzelosti svého srdce.
+[18] Jsou zatemnělí v chápání, odcizení životu ⟦elohim|Elohim|Božímu⟧ pro nevědomost, která je v nich, kvůli zatvrzelosti svého srdce.
 
 [19] Otupěli a oddali se bezuzdnosti, chtiví páchat každou nečistotu.
 
-[20] Vy jste se však *Mashiacha* takto nenaučili! –
+[20] Vy jste se však ⟦mashiach|Mašiacha|Krista⟧ takto nenaučili! –
 
-[21] jestliže jste ovšem o něm slyšeli a byli v něm vyučeni, jak je pravda v *Yeshuovi*,
+[21] jestliže jste ovšem o něm slyšeli a byli v něm vyučeni, jak je pravda v ⟦yeshua|Ješuovi|Ježíši⟧,
 
 [22] abyste odložili svého starého člověka, který patří k vašemu dřívějšímu způsobu života a hyne klamnými touhami,
 
 [23] a obnovovali se v duchu své mysli
 
-[24] a oblékli nového člověka, stvořeného k podobě *Elohim* v pravé spravedlnosti a svatosti.
+[24] a oblékli nového člověka, stvořeného k podobě ⟦elohim|Elohim|Boží⟧ v pravé spravedlnosti a svatosti.
 
 [25] Proto odložte lež a mluvte každý se svým bližním pravdu, neboť jsme údy jeden druhého.
 
@@ -61,11 +61,11 @@ a dal lidem dary**.“
 
 [29] Ať z vašich úst nevychází žádná zkažená řeč, ale jen taková, která je dobrá k budování, jak je třeba, aby přinesla milost těm, kdo ji slyší.
 
-[30] A nezarmucujte *Ruach HaQodesh* *Elohim*, jímž jste byli zapečetěni ke dni vykoupení.
+[30] A nezarmucujte ⟦ruach-haqodesh|Ruach HaKodeš|Ducha svatého⟧ ⟦elohim|Elohim|Božího⟧, jímž jste byli zapečetěni ke dni vykoupení.
 
 [31] Ať je od vás odstraněna všechna hořkost, prchlivost, hněv, křik a pomluva spolu se vší zlobou.
 
-[32] Buďte k sobě navzájem laskaví, milosrdní a odpouštějte si navzájem, jako i *Elohim* v *Mashiachovi* odpustil vám.
+[32] Buďte k sobě navzájem laskaví, milosrdní a odpouštějte si navzájem, jako i ⟦elohim|Elohim|Bůh⟧ v ⟦mashiach|Mašiachovi|Kristu⟧ odpustil vám.
 
 ## Změny
 

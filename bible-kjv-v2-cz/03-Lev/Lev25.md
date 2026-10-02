@@ -1,20 +1,20 @@
 # Leviticus 25
 
-[1] Yahweh promluvil k Mosesovi na hoře Sinai:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ na hoře ⟦sinai|Sinaj|Sínaj⟧:
 
-[2] „Mluv k synům Israele a řekni jim: ‚Až přijdete do země, kterou vám dávám, bude země zachovávat sabat Yahweh.
+[2] „Mluv k synům ⟦israel|Jisraele|Izraele⟧ a řekni jim: ‚Až přijdete do země, kterou vám dávám, bude země zachovávat ⟦shabbat|šabat|sobotu⟧ ⟦yhwh|Jahvovi|Hospodinu⟧.
 
 [3] Šest let budeš osévat své pole a šest let budeš prořezávat svou vinici a sklízet její výnos;
 
-[4] ale v sedmém roce bude pro zemi sabat slavnostního odpočinku, sabat Yahweh. Své pole neoseješ a svou vinici neprořežeš.
+[4] ale v sedmém roce bude pro zemi ⟦shabbat|šabat|sobota⟧ slavnostního odpočinku, ⟦shabbat|šabat|sobota⟧ ⟦yhwh|Jahvovi|Hospodinu⟧. Své pole neoseješ a svou vinici neprořežeš.
 
 [5] Co samo vyroste z tvé sklizně, nebudeš sklízet, a hrozny své neošetřované révy nebudeš sbírat; bude to rok slavnostního odpočinku pro zemi.
 
-[6] Sabat země vám bude pokrmem – tobě, tvému otroku a tvé otrokyni, tvému nádeníkovi a cizinci, který u tebe pobývá;
+[6] ⟦shabbat|Šabat|Sobota⟧ země vám bude pokrmem – tobě, tvému otroku a tvé otrokyni, tvému nádeníkovi a cizinci, který u tebe pobývá;
 
 [7] tvému dobytku i divoké zvěři ve tvé zemi – všechen její výnos bude pokrmem.
 
-[8] Odpočítáš si sedm sabatů let, sedmkrát sedm let, a doba sedmi sabatů let ti bude čtyřicet devět let.
+[8] Odpočítáš si sedm ⟦shabbat|šabatů|sobot⟧ let, sedmkrát sedm let, a doba sedmi ⟦shabbat|šabatů|sobot⟧ let ti bude čtyřicet devět let.
 
 [9] Potom desátého dne sedmého měsíce zazníš troubením beraního rohu; v Den smíření zatroubíte na roh po celé své zemi.
 
@@ -32,7 +32,7 @@
 
 [16] Čím více let zbývá, tím vyšší cena; a čím méně let zbývá, tím nižší cena; neboť co ti prodává, je počet sklizní.
 
-[17] Nebudete jeden druhého utiskovat, ale budete se bát svého *Elohim*; neboť já jsem Yahweh, váš *Elohim*.
+[17] Nebudete jeden druhého utiskovat, ale budete se bát svého ⟦elohim|Elohim|Boha⟧; neboť já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧.
 
 [18] Budete plnit má ustanovení, zachovávat má nařízení a jednat podle nich; a budete v zemi bydlet v bezpečí.
 
@@ -62,19 +62,19 @@
 
 [31] Domy ve vesnicích, které nemají kolem sebe hradbu, však budou počítány jako otevřená pole; smějí být vykoupeny a v jubileu budou uvolněny.
 
-[32] Pokud jde o města Levitů a domy ve městech jejich vlastnictví – Levité budou mít věčné právo výkupu.
+[32] Pokud jde o města ⟦levites|Levijim|lévijců⟧ a domy ve městech jejich vlastnictví – ⟦levites|Levijim|lévijci⟧ budou mít věčné právo výkupu.
 
-[33] Nevykoupí-li některý z Levitů, dům, který byl prodán ve městě jeho vlastnictví, bude uvolněn v jubilejním roce; neboť domy ve městech Levitů jsou jejich vlastnictvím mezi syny Israele.
+[33] Nevykoupí-li některý z ⟦levites|Levijim|lévijců⟧, dům, který byl prodán ve městě jeho vlastnictví, bude uvolněn v jubilejním roce; neboť domy ve městech ⟦levites|Levijim|lévijců⟧ jsou jejich vlastnictvím mezi syny ⟦israel|Jisraele|Izraele⟧.
 
 [34] Pastviny jejich měst však nebudou prodávány, neboť jsou jejich věčným vlastnictvím.
 
 [35] Zchudne-li tvůj bratr a nemůže se u tebe uživit, podepřeš ho jako cizince a přistěhovalce; bude žít s tebou.
 
-[36] Nebuď od něj úrok ani zisk, ale boj se svého *Elohim*, aby tvůj bratr mohl žít s tebou.
+[36] Nebuď od něj úrok ani zisk, ale boj se svého ⟦elohim|Elohim|Boha⟧, aby tvůj bratr mohl žít s tebou.
 
 [37] Nebudeš mu půjčovat své peníze na úrok ani mu dávat svůj pokrm pro zisk.
 
-[38] Já jsem Yahweh, váš *Elohim*, který vás vyvedl ze země Egypt, aby vám dal zemi Canaan a byl vaším *Elohim*.
+[38] Já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧, který vás vyvedl ze země ⟦egypt|Micrajim|Egypt⟧, aby vám dal zemi Kenaan a byl vaším ⟦elohim|Elohim|Bohem⟧.
 
 [39] Zchudne-li tvůj bratr u tebe a prodá se ti, nebudeš ho zotročovat otrockou prací.
 
@@ -82,15 +82,15 @@
 
 [41] Potom od tebe odejde – on i jeho děti s ním – a vrátí se ke své vlastní rodině a vrátí se k vlastnictví svých předků.
 
-[42] Neboť jsou to moji služebníci, které jsem vyvedl ze země Egypt; nebudou prodáváni, jako se prodávají otroci.
+[42] Neboť jsou to moji služebníci, které jsem vyvedl ze země ⟦egypt|Micrajim|Egypt⟧; nebudou prodáváni, jako se prodávají otroci.
 
-[43] Nebudeš nad ním vládnout tvrdě, ale budeš se bát svého *Elohim*.
+[43] Nebudeš nad ním vládnout tvrdě, ale budeš se bát svého ⟦elohim|Elohim|Boha⟧.
 
 [44] Pokud jde o tvé otroky a otrokyně, které smíš mít – z národů kolem vás, od nich smíte kupovat otroky a otrokyně.
 
 [45] Také z dětí přistěhovalců, kteří u vás bydlí, a z jejich rodů, které jsou u vás a které zplodili ve vaší zemi, od těch smíte kupovat; a budou vaším vlastnictvím.
 
-[46] Zanecháte je jako dědictví svým dětem po sobě, aby je zdědily jako vlastnictví; z nich si smíte brát otroky natrvalo. Ale nad svými bratry, syny Israele, nebude nikdo vládnout nad druhým tvrdě.
+[46] Zanecháte je jako dědictví svým dětem po sobě, aby je zdědily jako vlastnictví; z nich si smíte brát otroky natrvalo. Ale nad svými bratry, syny ⟦israel|Jisraele|Izraele⟧, nebude nikdo vládnout nad druhým tvrdě.
 
 [47] Zbohatne-li přistěhovalec nebo cizinec u tebe a tvůj bratr u něj zchudne a prodá se přistěhovalci nebo cizinci u tebe nebo příslušníkovi rodu přistěhovalce,
 
@@ -108,7 +108,7 @@
 
 [54] Nebude-li vykoupen těmito způsoby, bude uvolněn v jubilejním roce, on i jeho děti s ním.
 
-[55] Neboť synové Israele jsou mými služebníky; jsou to moji služebníci, které jsem vyvedl ze země Egypt. Já jsem Yahweh, váš *Elohim*.‘“
+[55] Neboť synové ⟦israel|Jisraele|Izraele⟧ jsou mými služebníky; jsou to moji služebníci, které jsem vyvedl ze země ⟦egypt|Micrajim|Egypt⟧. Já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧.‘“
 
 ## Změny
 

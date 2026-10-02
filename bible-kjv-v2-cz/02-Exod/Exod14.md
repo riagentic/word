@@ -1,66 +1,66 @@
 # Exodus 14
 
-[1] Yahweh promluvil k Mosesovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[2] „Řekni synům Israele, ať se obrátí a utáboří se před Pi-hahiroth, mezi Migdolem a mořem, naproti Baal-Zephonu; utáboříte se u moře, naproti němu.
+[2] „Řekni synům ⟦israel|Jisraele|Izraele⟧, ať se obrátí a utáboří se před ⟦pi-hahiroth|Pi HaChirot|Pí-chírot⟧, mezi ⟦migdol|Migdolem|Migdólem⟧ a mořem, naproti ⟦baal-zephon|Baal Cefonu|Baal-sefónu⟧; utáboříte se u moře, naproti němu.
 
-[3] Neboť Pharaoh si o synech Israele řekne: ‚Bloudí zmateně po zemi; poušť je sevřela.‘
+[3] Neboť ⟦pharaoh|Paro|farao⟧ si o synech ⟦israel|Jisraele|Izraele⟧ řekne: ‚Bloudí zmateně po zemi; poušť je sevřela.‘
 
-[4] A já zatvrdím Pharaohovo srdce a on je bude pronásledovat; a dosáhnu slávy nad Pharaohem i nad celým jeho vojskem a Egypťané poznají, že já jsem Yahweh.“ A tak učinili.
+[4] A já zatvrdím ⟦pharaoh|Parohovo|faraónovo⟧ srdce a on je bude pronásledovat; a dosáhnu slávy nad ⟦pharaoh|Parohem|faraónem⟧ i nad celým jeho vojskem a ⟦egyptians|Micrim|Egypťané⟧ poznají, že já jsem ⟦yhwh|Jahve|Hospodin⟧.“ A tak učinili.
 
-[5] Když bylo egyptskému králi oznámeno, že lid uprchl, srdce Pharaoha a jeho služebníků se obrátilo proti lidu a řekli: „Co jsme to udělali, že jsme Israel propustili z naší služby?“
+[5] Když bylo egyptskému králi oznámeno, že lid uprchl, srdce ⟦pharaoh|Paroha|faraóna⟧ a jeho služebníků se obrátilo proti lidu a řekli: „Co jsme to udělali, že jsme ⟦israel|Jisrael|Izrael⟧ propustili z naší služby?“
 
 [6] Připravil tedy svůj vůz a vzal s sebou svůj lid.
 
-[7] Vzal šest set vybraných vozů a všechny vozy Egypta s veliteli nad všemi.
+[7] Vzal šest set vybraných vozů a všechny vozy ⟦egypt|Micrajim|Egypta⟧ s veliteli nad všemi.
 
-[8] Yahweh zatvrdil srdce Pharaoha, krále Egypta, a on pronásledoval syny Israele; a synové Israele vycházeli se zdviženou rukou.
+[8] ⟦yhwh|Jahve|Hospodin⟧ zatvrdil srdce ⟦pharaoh|Paroha|faraóna⟧, krále ⟦egypt|Micrajim|Egypta⟧, a on pronásledoval syny ⟦israel|Jisraele|Izraele⟧; a synové ⟦israel|Jisraele|Izraele⟧ vycházeli se zdviženou rukou.
 
-[9] Egypťané je pronásledovali se všemi Pharaohovými koňmi a vozy, s jeho jízdou a jeho vojskem, a dostihli je, když tábořili u moře, poblíž Pi-hahiroth, naproti Baal-Zephonu.
+[9] ⟦egyptians|Micrim|Egypťané⟧ je pronásledovali se všemi ⟦pharaoh|Parohovými|faraónovými⟧ koňmi a vozy, s jeho jízdou a jeho vojskem, a dostihli je, když tábořili u moře, poblíž ⟦pi-hahiroth|Pi HaChirot|Pí-chírot⟧, naproti ⟦baal-zephon|Baal Cefonu|Baal-sefónu⟧.
 
-[10] Když se Pharaoh přiblížil, synové Israele pozvedli oči, a hle, Egypťané táhli za nimi. Velmi se báli a synové Israele volali k Yahweh.
+[10] Když se ⟦pharaoh|Paro|farao⟧ přiblížil, synové ⟦israel|Jisraele|Izraele⟧ pozvedli oči, a hle, ⟦egyptians|Micrim|Egypťané⟧ táhli za nimi. Velmi se báli a synové ⟦israel|Jisraele|Izraele⟧ volali k ⟦yhwh|Jahvovi|Hospodinu⟧.
 
-[11] Řekli Mosesovi: „Copak v Egyptě nebyly hroby, žes nás odvedl zemřít na poušti? Co jsi nám to udělal, že jsi nás vyvedl z Egypta?
+[11] Řekli ⟦moses|Mošovi|Mojžíšovi⟧: „Copak v ⟦egypt|Micrajim|Egyptě⟧ nebyly hroby, žes nás odvedl zemřít na poušti? Co jsi nám to udělal, že jsi nás vyvedl z ⟦egypt|Micrajim|Egypta⟧?
 
-[12] Neříkali jsme ti to snad už v Egyptě: ‚Nech nás být, ať sloužíme Egypťanům‘? Vždyť by pro nás bylo lepší sloužit Egypťanům než zemřít na poušti.“
+[12] Neříkali jsme ti to snad už v ⟦egypt|Micrajim|Egyptě⟧: ‚Nech nás být, ať sloužíme ⟦egyptians|Micrim|Egypťanům⟧‘? Vždyť by pro nás bylo lepší sloužit ⟦egyptians|Micrim|Egypťanům⟧ než zemřít na poušti.“
 
-[13] Moses řekl lidu: „Nebojte se. Stůjte pevně a hleďte na záchranu Yahweh, kterou pro vás dnes vykoná; neboť Egypťany, které dnes vidíte, už nikdy neuvidíte.
+[13] ⟦moses|Moše|Mojžíš⟧ řekl lidu: „Nebojte se. Stůjte pevně a hleďte na záchranu ⟦yhwh|Jahveho|Hospodina⟧, kterou pro vás dnes vykoná; neboť ⟦egyptians|Micrim|Egypťany⟧, které dnes vidíte, už nikdy neuvidíte.
 
-[14] Yahweh bude bojovat za vás a vy jen buďte zticha.“
+[14] ⟦yhwh|Jahve|Hospodin⟧ bude bojovat za vás a vy jen buďte zticha.“
 
-[15] Yahweh řekl Mosesovi: „Proč ke mně voláš? Řekni synům Israele, ať vyrazí.
+[15] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Proč ke mně voláš? Řekni synům ⟦israel|Jisraele|Izraele⟧, ať vyrazí.
 
-[16] A ty – pozvedni svou hůl, vztáhni ruku nad moře a rozděl je, ať synové Israele vejdou doprostřed moře po suchu.
+[16] A ty – pozvedni svou hůl, vztáhni ruku nad moře a rozděl je, ať synové ⟦israel|Jisraele|Izraele⟧ vejdou doprostřed moře po suchu.
 
-[17] A já, hle, zatvrzuji srdce Egypťanů a vejdou za nimi. A dosáhnu slávy nad Pharaohem a nad celým jeho vojskem, nad jeho vozy i nad jeho jízdou.
+[17] A já, hle, zatvrzuji srdce ⟦egyptians|Micrim|Egypťanů⟧ a vejdou za nimi. A dosáhnu slávy nad ⟦pharaoh|Parohem|faraónem⟧ a nad celým jeho vojskem, nad jeho vozy i nad jeho jízdou.
 
-[18] Egypťané poznají, že já jsem Yahweh, až dosáhnu slávy nad Pharaohem, nad jeho vozy i nad jeho jízdou.“
+[18] ⟦egyptians|Micrim|Egypťané⟧ poznají, že já jsem ⟦yhwh|Jahve|Hospodin⟧, až dosáhnu slávy nad ⟦pharaoh|Parohem|faraónem⟧, nad jeho vozy i nad jeho jízdou.“
 
-[19] Posel *Elohim*, který šel před táborem Israele, se přesunul a šel za nimi; i oblakový sloup se přesunul zpředu a postavil se za ně.
+[19] Posel ⟦elohim|Elohim|Boží⟧, který šel před táborem ⟦israel|Jisraele|Izraele⟧, se přesunul a šel za nimi; i oblakový sloup se přesunul zpředu a postavil se za ně.
 
-[20] Vstoupil mezi tábor Egypta a tábor Israele; a byl tu oblak i tma, a ozařoval noc. Jeden se k druhému celou noc nepřiblížil.
+[20] Vstoupil mezi tábor ⟦egypt|Micrajim|Egypta⟧ a tábor ⟦israel|Jisraele|Izraele⟧; a byl tu oblak i tma, a ozařoval noc. Jeden se k druhému celou noc nepřiblížil.
 
-[21] Moses vztáhl ruku nad moře a Yahweh celou tu noc silným východním větrem hnal moře zpět a proměnil moře v souš; a vody se rozdělily.
+[21] ⟦moses|Moše|Mojžíš⟧ vztáhl ruku nad moře a ⟦yhwh|Jahve|Hospodin⟧ celou tu noc silným východním větrem hnal moře zpět a proměnil moře v souš; a vody se rozdělily.
 
-[22] Synové Israele vešli doprostřed moře po suchu; a vody jim byly hradbou po pravici i po levici.
+[22] Synové ⟦israel|Jisraele|Izraele⟧ vešli doprostřed moře po suchu; a vody jim byly hradbou po pravici i po levici.
 
-[23] Egypťané je pronásledovali a vešli za nimi – všichni Pharaohovi koně, jeho vozy i jeho jízda – doprostřed moře.
+[23] ⟦egyptians|Micrim|Egypťané⟧ je pronásledovali a vešli za nimi – všichni ⟦pharaoh|Parohovi|faraónovi⟧ koně, jeho vozy i jeho jízda – doprostřed moře.
 
-[24] Za jitřní hlídky shlédl Yahweh z ohnivého a oblakového sloupu na vojsko Egypťanů a uvrhl vojsko Egypťanů do zmatku.
+[24] Za jitřní hlídky shlédl ⟦yhwh|Jahve|Hospodin⟧ z ohnivého a oblakového sloupu na vojsko ⟦egyptians|Micrim|Egypťanů⟧ a uvrhl vojsko ⟦egyptians|Micrim|Egypťanů⟧ do zmatku.
 
-[25] Zablokoval kola jejich vozů, takže jeli jen s obtížemi; a Egypťané řekli: „Utečme před Israelem, neboť Yahweh bojuje za ně proti Egypťanům!“
+[25] Zablokoval kola jejich vozů, takže jeli jen s obtížemi; a ⟦egyptians|Micrim|Egypťané⟧ řekli: „Utečme před ⟦israel|Jisraelem|Izraelem⟧, neboť ⟦yhwh|Jahve|Hospodin⟧ bojuje za ně proti ⟦egyptians|Micrim|Egypťanům⟧!“
 
-[26] Tu Yahweh řekl Mosesovi: „Vztáhni ruku nad moře, ať se vody vrátí na Egypťany, na jejich vozy i na jejich jízdu.“
+[26] Tu ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Vztáhni ruku nad moře, ať se vody vrátí na ⟦egyptians|Micrim|Egypťany⟧, na jejich vozy i na jejich jízdu.“
 
-[27] Moses tedy vztáhl ruku nad moře a moře se k ránu vrátilo do svého obvyklého toku; a Egypťané utíkali proti němu, a Yahweh setřásl Egypťany doprostřed moře.
+[27] ⟦moses|Moše|Mojžíš⟧ tedy vztáhl ruku nad moře a moře se k ránu vrátilo do svého obvyklého toku; a ⟦egyptians|Micrim|Egypťané⟧ utíkali proti němu, a ⟦yhwh|Jahve|Hospodin⟧ setřásl ⟦egyptians|Micrim|Egypťany⟧ doprostřed moře.
 
-[28] Vody se vrátily a přikryly vozy i jízdu – celé Pharaohovo vojsko, které za nimi vešlo do moře. Nezůstal z nich ani jeden.
+[28] Vody se vrátily a přikryly vozy i jízdu – celé ⟦pharaoh|Parohovo|faraónovo⟧ vojsko, které za nimi vešlo do moře. Nezůstal z nich ani jeden.
 
-[29] Ale synové Israele šli po suchu uprostřed moře; a vody jim byly hradbou po pravici i po levici.
+[29] Ale synové ⟦israel|Jisraele|Izraele⟧ šli po suchu uprostřed moře; a vody jim byly hradbou po pravici i po levici.
 
-[30] Tak Yahweh v ten den zachránil Israel z ruky Egypťanů; a Israel viděl Egypťany mrtvé na mořském břehu.
+[30] Tak ⟦yhwh|Jahve|Hospodin⟧ v ten den zachránil ⟦israel|Jisrael|Izrael⟧ z ruky ⟦egyptians|Micrim|Egypťanů⟧; a ⟦israel|Jisrael|Izrael⟧ viděl ⟦egyptians|Micrim|Egypťany⟧ mrtvé na mořském břehu.
 
-[31] Israel viděl mocnou ruku, kterou Yahweh projevil proti Egypťanům; a lid se bál Yahweh a uvěřil Yahweh i Mosesovi, jeho služebníku.
+[31] ⟦israel|Jisrael|Izrael⟧ viděl mocnou ruku, kterou ⟦yhwh|Jahve|Hospodin⟧ projevil proti ⟦egyptians|Micrim|Egypťanům⟧; a lid se bál ⟦yhwh|Jahveho|Hospodina⟧ a uvěřil ⟦yhwh|Jahvovi|Hospodinu⟧ i ⟦moses|Mošovi|Mojžíšovi⟧, jeho služebníku.
 
 ## Změny
 

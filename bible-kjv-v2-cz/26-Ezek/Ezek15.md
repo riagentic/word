@@ -1,6 +1,6 @@
 # Ezechiel 15
 
-[1] Přišlo ke mně slovo Yahweh:
+[1] Přišlo ke mně slovo ⟦yhwh|Jahveho|Hospodina⟧:
 
 [2] „Synu člověka, čím předčí dřevo vinné révy jakékoli jiné dřevo, révová ratolest, která je mezi stromy lesa?
 
@@ -10,11 +10,11 @@
 
 [5] Hle, když byla celá, nepoužívala se k ničemu. Oč méně, když ji pohltil oheň a je ohořelá, může být vůbec k něčemu použita!
 
-[6] Proto toto praví Pán Yahweh: Jako dřevo vinné révy mezi stromy lesa, které jsem dal ohni za palivo, tak jsem vydal obyvatele Jerusalemu.
+[6] Proto toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Jako dřevo vinné révy mezi stromy lesa, které jsem dal ohni za palivo, tak jsem vydal obyvatele ⟦jerusalem|Jerušalajim|Jeruzaléma⟧.
 
-[7] Obrátím proti nim svou tvář. I když uniknou z ohně, oheň je přesto pohltí, a poznáte, že já jsem Yahweh, až proti nim obrátím svou tvář.
+[7] Obrátím proti nim svou tvář. I když uniknou z ohně, oheň je přesto pohltí, a poznáte, že já jsem ⟦yhwh|Jahve|Hospodin⟧, až proti nim obrátím svou tvář.
 
-[8] A učiním zemi pustinou, protože jednali nevěrně, je výrok Pána Yahweh.“
+[8] A učiním zemi pustinou, protože jednali nevěrně, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.“
 
 ## Změny
 

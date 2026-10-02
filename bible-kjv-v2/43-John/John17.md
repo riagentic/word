@@ -1,10 +1,10 @@
 # John 17
 
-[1] When *Yeshua* had spoken these words, he lifted up his eyes to heaven, and said, "Father, the hour has come; glorify your Son that the Son may glorify you,
+[1] When ⟦yeshua|Yeshua|Jesus⟧ had spoken these words, he lifted up his eyes to heaven, and said, "Father, the hour has come; glorify your Son that the Son may glorify you,
 
 [2] since you have given him authority over all flesh, to give eternal life to all whom you have given him.
 
-[3] **And this is eternal life, that they know you, the only true *Elohim*, and *Yeshua* the *Mashiach* whom you have sent.**
+[3] **And this is eternal life, that they know you, the only true ⟦elohim|Elohim|God⟧, and ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧ whom you have sent.**
 
 [4] I glorified you on earth, having accomplished the work that you gave me to do.
 

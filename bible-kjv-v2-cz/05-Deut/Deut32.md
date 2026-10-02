@@ -8,19 +8,19 @@ má řeč ať se snese jako rosa,
 jako jemný déšť na útlou trávu,
 jako přeháňky na zeleň.
 
-[3] Neboť budu vyhlašovat jméno Yahweh;
-vzdejte velikost našemu *Elohim*!
+[3] Neboť budu vyhlašovat jméno ⟦yhwh|Jahveho|Hospodina⟧;
+vzdejte velikost našemu ⟦elohim|Elohim|Bohu⟧!
 
 [4] Skála – jeho dílo je dokonalé,
 neboť všechny jeho cesty jsou spravedlivé;
-*Elohim* věrnosti a bez nepravosti,
+⟦el|El|Bůh⟧ věrnosti a bez nepravosti,
 spravedlivý a přímý je on.
 
 [5] Jednali s ním zkaženě;
 jejich poskvrna není poskvrnou jeho dětí –
 pokolení křivé a zvrácené.
 
-[6] Takto se odplácíš Yahweh,
+[6] Takto se odplácíš ⟦yhwh|Jahvovi|Hospodinu⟧,
 ty pošetilý a nerozumný lide?
 Což není on tvůj otec, který tě stvořil,
 který tě učinil a upevnil?
@@ -30,13 +30,13 @@ uvažuj o letech mnoha pokolení;
 zeptej se svého otce, a ukáže ti to,
 svých starších, a řeknou ti to.
 
-[8] Když Nejvyšší – ten Nejvyšší – dával národům jejich dědictví,
+[8] Když ⟦elyon|Eljon|Nejvyšší⟧ dával národům jejich dědictví,
 když rozděloval syny Adama,
 stanovil hranice národů
-podle počtu synů *Elohim*.
+podle počtu synů ⟦elohim|Elohim|Božích⟧.
 
-[9] Neboť podílem Yahweh je jeho lid;
-Jacob jeho odměřené dědictví.
+[9] Neboť podílem ⟦yhwh|Jahveho|Hospodina⟧ je jeho lid;
+⟦jacob|Jaakov|Jákob⟧ jeho odměřené dědictví.
 
 [10] Našel ho v pouštní zemi,
 v kvílící pustině divočiny;
@@ -48,7 +48,7 @@ vznáší se nad svými mláďaty,
 rozprostírá křídla, aby je zachytil,
 nese je na svých perutích –
 
-[12] tak ho vedl Yahweh sám
+[12] tak ho vedl ⟦yhwh|Jahve|Hospodin⟧ sám
 a žádný cizí bůh nebyl s ním.
 
 [13] Dal mu jezdit po výšinách země
@@ -58,27 +58,27 @@ a olejem z křemenného útesu,
 
 [14] smetanou od skotu, mlékem od bravu,
 s tukem jehňat;
-berany z Bashanu a kozly,
+berany z ⟦bashan|Bašanu|Bášanu⟧ a kozly,
 s nejlepší pšenicí;
 a pil jsi pěnivou krev hroznů.
 
-[15] Ale Jeshurun – ten přímý – ztloustl a vyhazoval;
+[15] Ale ⟦jeshurun|Ješurun|Ješurún⟧ – ten přímý – ztloustl a vyhazoval;
 ztloustl jsi, ztěžkl, přecpal ses.
-Opustil *Elohim*, který ho učinil,
+Opustil ⟦eloah|Eloah|Boha⟧, který ho učinil,
 a posmíval se Skále své spásy.
 
 [16] Popouzeli jeho žárlivost cizími bohy;
 ohavnostmi ho dráždili k hněvu.
 
-[17] Obětovali démonům – ne *Elohim*,
+[17] Obětovali démonům – ne ⟦eloah|Eloah|Bohu⟧,
 bohům, které neznali –
 novým bohům, nedávno příchozím,
 kterých se vaši otcové nebáli.
 
 [18] Na Skálu, která tě zplodila, jsi nedbal;
-zapomněl jsi na *Elohim*, který tě porodil.
+zapomněl jsi na ⟦el|El|Boha⟧, který tě porodil.
 
-[19] Yahweh to viděl a zavrhl je –
+[19] ⟦yhwh|Jahve|Hospodin⟧ to viděl a zavrhl je –
 pro popouzení od svých synů a dcer.
 
 [20] Řekl: „Skryji před nimi svou tvář;
@@ -92,7 +92,7 @@ I já je popudím k žárlivosti těmi, kdo nejsou lidem;
 popudím je k hněvu pošetilým národem.
 
 [22] Neboť můj hněv zažehl oheň,
-a hoří až do hlubin Sheol;
+a hoří až do hlubin ⟦sheol|Šeolu|podsvětí⟧;
 pohlcuje zemi i její úrodu
 a zapaluje základy hor.
 
@@ -114,7 +114,7 @@ vymazal bych jejich památku z lidstva‘ –
 [27] kdybych se nebál popouzení od nepřítele,
 aby si to jejich protivníci nevyložili mylně,
 aby neřekli: ‚Naše ruka vítězí;
-to všechno neučinil Yahweh.‘“
+to všechno neučinil ⟦yhwh|Jahve|Hospodin⟧.‘“
 
 [28] Neboť je to národ bez rozvahy
 a není v nich rozumnost.
@@ -125,13 +125,13 @@ rozpoznali by svůj konec.
 [30] Jak by mohl jeden honit tisíc
 a dva zahnat na útěk deset tisíc –
 kdyby je jejich Skála neprodala
-a Yahweh je nevydal?
+a ⟦yhwh|Jahve|Hospodin⟧ je nevydal?
 
 [31] Neboť jejich skála není jako naše Skála;
 sami naši nepřátelé to uznávají.
 
-[32] Jejich réva je z révy Sodomu,
-z polí Gomorrah;
+[32] Jejich réva je z révy ⟦sodom|Sedomu|Sodomy⟧,
+z polí ⟦gomorrah|Amory|Gomory⟧;
 jejich hrozny jsou hrozny jedu,
 jejich hrozny jsou hořké.
 
@@ -146,7 +146,7 @@ v čase, kdy jim uklouzne noha;
 neboť den jejich pohromy je blízko
 a co je pro ně připraveno, spěchá.
 
-[36] Neboť Yahweh zjedná právo svému lidu
+[36] Neboť ⟦yhwh|Jahve|Hospodin⟧ zjedná právo svému lidu
 a slituje se nad svými služebníky,
 až uvidí, že jejich síla je pryč
 a nezůstal nikdo – otrok ani svobodný.
@@ -183,28 +183,30 @@ neboť pomstí krev svých služebníků;
 vykoná pomstu na svých protivnících
 a vykoná smíření za svou zemi, svůj lid.
 
-[44] Moses přišel a přednesl všechna slova této písně do uší lidu, on a Hoshea, syn Nunův.
+[44] ⟦moses|Moše|Mojžíš⟧ přišel a přednesl všechna slova této písně do uší lidu, on a ⟦hoshea|Hošea|Hóšea⟧, syn ⟦nun|Nunův|Núnův⟧.
 
-[45] Když Moses domluvil všechna tato slova k celému Israeli,
+[45] Když ⟦moses|Moše|Mojžíš⟧ domluvil všechna tato slova k celému ⟦israel|Jisraeli|Izraeli⟧,
 
-[46] řekl jim: „Vezměte si k srdci všechna slova, která proti vám dnes dosvědčuji, a přikažte svým synům, aby dbali, aby plnili všechna slova této *Torah*.
+[46] řekl jim: „Vezměte si k srdci všechna slova, která proti vám dnes dosvědčuji, a přikažte svým synům, aby dbali, aby plnili všechna slova ⟦torah|této Tóry|tohoto zákona⟧.
 
-[47] Neboť to pro vás není prázdné slovo; je to váš život a tímto slovem prodloužíte své dny v zemi, do které přecházíte přes Jordan, abyste ji vlastnili.“
+[47] Neboť to pro vás není prázdné slovo; je to váš život a tímto slovem prodloužíte své dny v zemi, do které přecházíte přes ⟦jordan|Jarden|Jordán⟧, abyste ji vlastnili.“
 
-[48] Yahweh promluvil k Mosesovi právě toho dne:
+[48] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ právě toho dne:
 
-[49] „Vystup na toto pohoří Abarim, na horu Nebo, která je v zemi Moab naproti Jerichu, a pohleď na zemi Canaan, kterou dávám synům Israele do vlastnictví.
+[49] „Vystup na toto pohoří ⟦abarim|Avarim|Abarím⟧, na horu ⟦nebo|Nevo|Nebó⟧, která je v zemi ⟦moab|Moav|Moáb⟧ naproti Jerichu, a pohleď na zemi Kenaan, kterou dávám synům ⟦israel|Jisraele|Izraele⟧ do vlastnictví.
 
-[50] Zemři na hoře, na kterou vystupuješ, a buď připojen ke svému lidu – jako zemřel tvůj bratr Aaron na hoře Hor a byl připojen ke svému lidu –
+[50] Zemři na hoře, na kterou vystupuješ, a buď připojen ke svému lidu – jako zemřel tvůj bratr ⟦aaron|Aharon|Áron⟧ na hoře ⟦hor|Hor|Hór⟧ a byl připojen ke svému lidu –
 
-[51] protože jste mi zpronevěřili věrnost mezi syny Israele u vod Meribath-kadesh na poušti Zin a protože jste mě neposvětili uprostřed synů Israele.
+[51] protože jste mi zpronevěřili věrnost mezi syny ⟦israel|Jisraele|Izraele⟧ u vod ⟦meribath-kadesh|Merivat Kadeš|Meribat-kádeš⟧ na poušti ⟦zin|Cin|Sin⟧ a protože jste mě neposvětili uprostřed synů ⟦israel|Jisraele|Izraele⟧.
 
-[52] Zdálky zemi uvidíš, ale nevejdeš tam – do země, kterou dávám synům Israele.“
+[52] Zdálky zemi uvidíš, ale nevejdeš tam – do země, kterou dávám synům ⟦israel|Jisraele|Izraele⟧.“
 
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – zachován tetragram.
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
+- **"God" → „El“ / „Eloah“** (v4, 18; v15, 17) – hebrejsky אֵל *El* a אֱלוֹהַּ *Eloah*, ne *Elohim*.
+- **"the most High" → „Elyon“** (v8) – hebrejsky עֶלְיוֹן *Elyon*; zdvojené „Nejvyšší – ten Nejvyšší“ odstraněno.
 - **"doctrine" → „učení“** (v2) – hebrejsky לֶקַח *leqach*. Přijaté poučení.
 - **"Rock" (v4, 15, 18, 30, 31)** – hebrejsky צוּר *Tzur* („Skála“). Metafora pro Yahweh jako neměnné útočiště; soustavná metafora v celé písni.
 - **"hell" → „Sheol“** (v22) – říše mrtvých.

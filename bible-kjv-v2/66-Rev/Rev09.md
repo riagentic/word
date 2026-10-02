@@ -6,7 +6,7 @@
 
 [3] Then from the smoke came locusts on the earth, and they were given power like the power of scorpions of the earth.
 
-[4] They were told not to harm the grass of the earth or any green plant or any tree, but only those people who do not have the seal of *Elohim* on their foreheads.
+[4] They were told not to harm the grass of the earth or any green plant or any tree, but only those people who do not have the seal of ⟦elohim|Elohim|God⟧ on their foreheads.
 
 [5] They were allowed to torment them for five months, but not to kill them, and their torment was like the torment of a scorpion when it stings someone.
 
@@ -20,13 +20,13 @@
 
 [10] They have tails and stings like scorpions, and their power to hurt people for five months is in their tails.
 
-[11] They have as king over them the angel of the abyss. His name in Hebrew is **Abaddon**, and in Greek he is called **Apollyon** (the Destroyer).
+[11] They have as king over them the angel of the abyss. His name in Hebrew is **⟦abaddon|Avaddon|Abaddon⟧**, and in Greek he is called **Apollyon** (the Destroyer).
 
 [12] The first woe has passed; behold, two woes are still to come.
 
-[13] Then the sixth angel blew his trumpet, and I heard a voice from the four horns of the golden altar before *Elohim*,
+[13] Then the sixth angel blew his trumpet, and I heard a voice from the four horns of the golden altar before ⟦elohim|Elohim|God⟧,
 
-[14] saying to the sixth angel who had the trumpet, "Release the four angels who are bound at the great river Euphrates."
+[14] saying to the sixth angel who had the trumpet, "Release the four angels who are bound at the great river ⟦euphrates|Perat|Euphrates⟧."
 
 [15] So the four angels, who had been prepared for the hour, the day, the month, and the year, were released to kill a third of mankind.
 

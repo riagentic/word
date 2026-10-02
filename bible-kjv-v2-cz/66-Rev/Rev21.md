@@ -2,9 +2,9 @@
 
 [1] Potom jsem viděl **nové nebe a novou zemi**, neboť první nebe a první země pominuly a moře už nebylo.
 
-[2] A viděl jsem svaté město, **nový Jerusalem**, jak sestupuje z nebe od *Elohim*, připravené jako nevěsta ozdobená pro svého muže.
+[2] A viděl jsem svaté město, **nový ⟦jerusalem|Jerušalajim|Jeruzalém⟧**, jak sestupuje z nebe od ⟦elohim|Elohim|Boha⟧, připravené jako nevěsta ozdobená pro svého muže.
 
-[3] A slyšel jsem silný hlas od trůnu, jak říká: „**Hle, příbytek *Elohim* je s lidmi. Bude přebývat s nimi a oni budou jeho lidem a sám *Elohim* bude s nimi jako jejich *Elohim*.**
+[3] A slyšel jsem silný hlas od trůnu, jak říká: „**Hle, příbytek ⟦elohim|Elohim|Boží⟧ je s lidmi. Bude přebývat s nimi a oni budou jeho lidem a sám ⟦elohim|Elohim|Bůh⟧ bude s nimi jako jejich ⟦elohim|Elohim|Bůh⟧.**
 
 **[4] Setře každou slzu z jejich očí a smrt už nebude, ani žal, ani křik, ani bolest už nebude, neboť to dřívější pominulo.**“
 
@@ -12,17 +12,17 @@
 
 [6] A řekl mi: „**Stalo se! Já jsem Alfa i Omega, počátek i konec. Žíznivému dám zdarma z pramene vody života.**
 
-[7] Kdo zvítězí, dostane toto dědictví, a **já budu jeho *Elohim* a on bude mým synem**.
+[7] Kdo zvítězí, dostane toto dědictví, a **já budu jeho ⟦elohim|Elohim|Bohem⟧ a on bude mým synem**.
 
 [8] Ale zbabělci, nevěrní, ohavníci, vrazi, smilníci, čarodějové, modloslužebníci a všichni lháři – jejich podíl bude v jezeře, které hoří ohněm a sírou; to je druhá smrt.“
 
 [9] Potom přišel jeden ze sedmi andělů, kteří měli sedm misek plných sedmi posledních ran, a promluvil ke mně: „Pojď, ukážu ti Nevěstu, ženu Beránka.“
 
-[10] A odnesl mě v Duchu na velikou, vysokou horu a ukázal mi svaté město Jerusalem, jak sestupuje z nebe od *Elohim*,
+[10] A odnesl mě v Duchu na velikou, vysokou horu a ukázal mi svaté město ⟦jerusalem|Jerušalajim|Jeruzalém⟧, jak sestupuje z nebe od ⟦elohim|Elohim|Boha⟧,
 
-[11] a má slávu *Elohim*; jeho záře je jako nejvzácnější drahokam, jako jaspis průzračný jako křišťál.
+[11] a má slávu ⟦elohim|Elohim|Boží⟧; jeho záře je jako nejvzácnější drahokam, jako jaspis průzračný jako křišťál.
 
-[12] Mělo velikou, vysokou hradbu s dvanácti branami a u bran dvanáct andělů a na branách byla vepsána jména dvanácti kmenů synů Israele –
+[12] Mělo velikou, vysokou hradbu s dvanácti branami a u bran dvanáct andělů a na branách byla vepsána jména dvanácti kmenů synů ⟦israel|Jisraele|Izraele⟧ –
 
 [13] na východ tři brány, na sever tři brány, na jih tři brány a na západ tři brány.
 
@@ -42,9 +42,9 @@
 
 [21] A dvanáct bran bylo dvanáct perel, každá z bran z jediné perly, a ulice města byla z čistého zlata, průhledného jako sklo.
 
-[22] Chrám jsem v městě neviděl, neboť jeho chrámem je Pán *Elohim* Všemohoucí a Beránek.
+[22] Chrám jsem v městě neviděl, neboť jeho chrámem je Pán ⟦elohim|Elohim|Bůh⟧ Všemohoucí a Beránek.
 
-[23] A město nepotřebuje slunce ani měsíc, aby mu svítily, neboť sláva *Elohim* mu dává světlo a jeho lampou je Beránek.
+[23] A město nepotřebuje slunce ani měsíc, aby mu svítily, neboť sláva ⟦elohim|Elohim|Boží⟧ mu dává světlo a jeho lampou je Beránek.
 
 [24] V jeho světle budou chodit národy a králové země do něho přinesou svou slávu,
 

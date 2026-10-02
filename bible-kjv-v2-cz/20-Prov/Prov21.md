@@ -1,13 +1,13 @@
 # Přísloví 21
 
-[1] Králové srdce je proud vody v ruce Yahweh;
+[1] Králové srdce je proud vody v ruce ⟦yhwh|Jahveho|Hospodina⟧;
 obrací je, kamkoli chce.
 
 [2] Každá cesta člověka je správná v jeho vlastních očích,
-ale Yahweh váží srdce.
+ale ⟦yhwh|Jahve|Hospodin⟧ váží srdce.
 
 [3] Konat spravedlnost a právo
-je Yahweh milejší než oběť.
+je ⟦yhwh|Jahvovi|Hospodinu⟧ milejší než oběť.
 
 [4] Povýšené oči a pyšné srdce –
 lampa ničemných – jsou hřích.
@@ -88,10 +88,10 @@ ale slovo muže, který naslouchá, obstojí.
 ale přímý dbá na své cesty.
 
 [30] Žádná moudrost, žádná rozumnost, žádná rada
-nic nezmůže proti Yahweh.
+nic nezmůže proti ⟦yhwh|Jahvovi|Hospodinu⟧.
 
 [31] Kůň se chystá na den bitvy,
-ale vítězství patří Yahweh.
+ale vítězství patří ⟦yhwh|Jahvovi|Hospodinu⟧.
 
 ## Změny
 

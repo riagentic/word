@@ -46,7 +46,7 @@ ustavičně rozsévá svár;
 [15] proto na něj náhle přijde pohroma;
 v okamžiku bude rozdrcen bez možnosti uzdravení.
 
-[16] Šest věcí Yahweh nenávidí,
+[16] Šest věcí ⟦yhwh|Jahve|Hospodin⟧ nenávidí,
 sedm je mu ohavností:
 
 [17] povýšené oči, lživý jazyk

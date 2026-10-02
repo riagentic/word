@@ -2,63 +2,63 @@
 
 [1] Then all the congregation lifted up their voices and cried out, and the people wept that night.
 
-[2] All the children of Israel grumbled against Moses and Aaron; the whole congregation said to them, "If only we had died in the land of Egypt! Or if only we had died in this wilderness!
+[2] All the children of ⟦israel|Yisrael|Israel⟧ grumbled against ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧; the whole congregation said to them, "If only we had died in the land of ⟦egypt|Mitzrayim|Egypt⟧! Or if only we had died in this wilderness!
 
-[3] Why is Yahweh bringing us into this land to fall by the sword, that our wives and our children should be plunder? Would it not be better for us to return to Egypt?"
+[3] Why is ⟦yhwh|Yahweh|the LORD⟧ bringing us into this land to fall by the sword, that our wives and our children should be plunder? Would it not be better for us to return to ⟦egypt|Mitzrayim|Egypt⟧?"
 
-[4] And they said to one another, "Let us appoint a leader and return to Egypt."
+[4] And they said to one another, "Let us appoint a leader and return to ⟦egypt|Mitzrayim|Egypt⟧."
 
-[5] Then Moses and Aaron fell on their faces before all the assembly of the congregation of the children of Israel.
+[5] Then ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧ fell on their faces before all the assembly of the congregation of the children of ⟦israel|Yisrael|Israel⟧.
 
-[6] Joshua son of Nun and Caleb son of Jephunneh, who were among those who had scouted the land, tore their clothes;
+[6] ⟦joshua|Yehoshua|Joshua⟧ son of Nun and ⟦caleb|Kalev|Caleb⟧ son of ⟦jephunneh|Yefunneh|Jephunneh⟧, who were among those who had scouted the land, tore their clothes;
 
-[7] and they spoke to all the congregation of the children of Israel, saying, "The land we passed through to scout it out is an exceedingly good land.
+[7] and they spoke to all the congregation of the children of ⟦israel|Yisrael|Israel⟧, saying, "The land we passed through to scout it out is an exceedingly good land.
 
-[8] If Yahweh delights in us, he will bring us into this land and give it to us — a land flowing with milk and honey.
+[8] If ⟦yhwh|Yahweh|the LORD⟧ delights in us, he will bring us into this land and give it to us — a land flowing with milk and honey.
 
-[9] Only do not rebel against Yahweh, and do not fear the people of the land, for they are bread for us; their protection has departed from them, and Yahweh is with us; do not fear them."
+[9] Only do not rebel against ⟦yhwh|Yahweh|the LORD⟧, and do not fear the people of the land, for they are bread for us; their protection has departed from them, and ⟦yhwh|Yahweh|the LORD⟧ is with us; do not fear them."
 
-[10] But all the congregation threatened to stone them with stones. Then the glory of Yahweh appeared at the Tent of Meeting to all the children of Israel.
+[10] But all the congregation threatened to stone them with stones. Then the glory of ⟦yhwh|Yahweh|the LORD⟧ appeared at the Tent of Meeting to all the children of ⟦israel|Yisrael|Israel⟧.
 
-[11] Yahweh said to Moses, "How long will this people spurn me? And how long will they not believe in me, despite all the signs that I have done among them?
+[11] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "How long will this people spurn me? And how long will they not believe in me, despite all the signs that I have done among them?
 
 [12] I will strike them with pestilence and disinherit them, and I will make of you a nation greater and mightier than they."
 
-[13] Moses said to Yahweh, "But the Egyptians will hear of it, for you brought up this people in your might from among them;
+[13] ⟦moses|Moshe|Moses⟧ said to ⟦yhwh|Yahweh|the LORD⟧, "But the ⟦egyptians|Mitzrim|Egyptians⟧ will hear of it, for you brought up this people in your might from among them;
 
-[14] and they will tell the inhabitants of this land. They have heard that you, Yahweh, are among this people — that you, Yahweh, are seen eye to eye, and that your cloud stands over them, and that you go before them, in a pillar of cloud by day and in a pillar of fire by night.
+[14] and they will tell the inhabitants of this land. They have heard that you, ⟦yhwh|Yahweh|LORD⟧, are among this people — that you, ⟦yhwh|Yahweh|LORD⟧, are seen eye to eye, and that your cloud stands over them, and that you go before them, in a pillar of cloud by day and in a pillar of fire by night.
 
 [15] Now if you kill this people as one man, then the nations that have heard your fame will say,
 
-[16] 'Because Yahweh was not able to bring this people into the land he swore to give them, he slaughtered them in the wilderness.'
+[16] 'Because ⟦yhwh|Yahweh|the LORD⟧ was not able to bring this people into the land he swore to give them, he slaughtered them in the wilderness.'
 
-[17] Now, I beg you, let the power of my Lord be great, as you have spoken, saying,
+[17] Now, I beg you, let the power of ⟦adonai|Adonai|the Lord⟧ be great, as you have spoken, saying,
 
-[18] 'Yahweh is slow to anger and abundant in lovingkindness, forgiving iniquity and transgression; but he will by no means clear the guilty, visiting the iniquity of the fathers upon the children to the third and fourth generation.'
+[18] '⟦yhwh|Yahweh|The LORD⟧ is slow to anger and abundant in lovingkindness, forgiving iniquity and transgression; but he will by no means clear the guilty, visiting the iniquity of the fathers upon the children to the third and fourth generation.'
 
-[19] Pardon, I pray, the iniquity of this people according to the greatness of your lovingkindness, and as you have borne with this people from Egypt even until now."
+[19] Pardon, I pray, the iniquity of this people according to the greatness of your lovingkindness, and as you have borne with this people from ⟦egypt|Mitzrayim|Egypt⟧ even until now."
 
-[20] Yahweh said, "I have pardoned according to your word.
+[20] ⟦yhwh|Yahweh|The LORD⟧ said, "I have pardoned according to your word.
 
-[21] But as I live, and as all the earth shall be filled with the glory of Yahweh —
+[21] But as I live, and as all the earth shall be filled with the glory of ⟦yhwh|Yahweh|the LORD⟧ —
 
-[22] all the men who have seen my glory and the signs that I did in Egypt and in the wilderness, and yet have tested me now these ten times and have not listened to my voice,
+[22] all the men who have seen my glory and the signs that I did in ⟦egypt|Mitzrayim|Egypt⟧ and in the wilderness, and yet have tested me now these ten times and have not listened to my voice,
 
 [23] surely they shall not see the land I swore to their fathers; none of those who spurned me shall see it.
 
-[24] But my servant Caleb — because he had another spirit with him and has followed me wholeheartedly — him I will bring into the land into which he went, and his descendants shall possess it.
+[24] But my servant ⟦caleb|Kalev|Caleb⟧ — because he had another spirit with him and has followed me wholeheartedly — him I will bring into the land into which he went, and his descendants shall possess it.
 
-[25] Now the Amalekites and Canaanites are dwelling in the valley. Tomorrow turn back and set out into the wilderness by way of the Sea of Reeds."
+[25] Now the ⟦amalekites|Amaleqim|Amalekites⟧ and ⟦canaanites|Kenaanim|Canaanites⟧ are dwelling in the valley. Tomorrow turn back and set out into the wilderness by way of the ⟦red-sea|Sea of Reeds|Red Sea⟧."
 
-[26] Yahweh spoke to Moses and Aaron, saying,
+[26] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧, saying,
 
-[27] "How long shall I bear with this evil congregation, who keep grumbling against me? I have heard the grumblings of the children of Israel, which they keep grumbling against me.
+[27] "How long shall I bear with this evil congregation, who keep grumbling against me? I have heard the grumblings of the children of ⟦israel|Yisrael|Israel⟧, which they keep grumbling against me.
 
-[28] Say to them: 'As I live, declares Yahweh, as you have spoken in my ears, so I will do to you:
+[28] Say to them: 'As I live, declares ⟦yhwh|Yahweh|the LORD⟧, as you have spoken in my ears, so I will do to you:
 
 [29] Your carcasses shall fall in this wilderness — all of you who were numbered, according to your whole number, from twenty years old and upward, who have grumbled against me;
 
-[30] none of you shall come into the land in which I swore by lifted hand to make you dwell — except Caleb son of Jephunneh and Joshua son of Nun.
+[30] none of you shall come into the land in which I swore by lifted hand to make you dwell — except ⟦caleb|Kalev|Caleb⟧ son of ⟦jephunneh|Yefunneh|Jephunneh⟧ and ⟦joshua|Yehoshua|Joshua⟧ son of Nun.
 
 [31] But your little ones, whom you said would become plunder, them I will bring in, and they shall know the land you have rejected.
 
@@ -68,27 +68,27 @@
 
 [34] According to the number of the days in which you scouted the land — forty days — a day for a year, a day for a year, you shall bear your iniquities — forty years — and you shall know my opposition.
 
-[35] I Yahweh have spoken; surely I will do this to all this evil congregation who have gathered together against me. In this wilderness they shall be consumed, and there they shall die.'"
+[35] I ⟦yhwh|Yahweh|the LORD⟧ have spoken; surely I will do this to all this evil congregation who have gathered together against me. In this wilderness they shall be consumed, and there they shall die.'"
 
-[36] The men whom Moses had sent to scout the land, who returned and made all the congregation grumble against him by spreading a slanderous report of the land —
+[36] The men whom ⟦moses|Moshe|Moses⟧ had sent to scout the land, who returned and made all the congregation grumble against him by spreading a slanderous report of the land —
 
-[37] those men who brought up the evil report of the land died by the plague before Yahweh.
+[37] those men who brought up the evil report of the land died by the plague before ⟦yhwh|Yahweh|the LORD⟧.
 
-[38] But Joshua son of Nun and Caleb son of Jephunneh, from among those men who had gone to scout the land, remained alive.
+[38] But ⟦joshua|Yehoshua|Joshua⟧ son of Nun and ⟦caleb|Kalev|Caleb⟧ son of ⟦jephunneh|Yefunneh|Jephunneh⟧, from among those men who had gone to scout the land, remained alive.
 
-[39] Moses spoke these words to all the children of Israel, and the people mourned greatly.
+[39] ⟦moses|Moshe|Moses⟧ spoke these words to all the children of ⟦israel|Yisrael|Israel⟧, and the people mourned greatly.
 
-[40] They rose early in the morning and went up to the top of the hill country, saying, "Here we are; we will go up to the place that Yahweh has promised, for we have sinned."
+[40] They rose early in the morning and went up to the top of the hill country, saying, "Here we are; we will go up to the place that ⟦yhwh|Yahweh|the LORD⟧ has promised, for we have sinned."
 
-[41] But Moses said, "Why are you transgressing the command of Yahweh? It will not succeed.
+[41] But ⟦moses|Moshe|Moses⟧ said, "Why are you transgressing the command of ⟦yhwh|Yahweh|the LORD⟧? It will not succeed.
 
-[42] Do not go up, for Yahweh is not among you, lest you be struck down before your enemies.
+[42] Do not go up, for ⟦yhwh|Yahweh|the LORD⟧ is not among you, lest you be struck down before your enemies.
 
-[43] For the Amalekites and the Canaanites are there before you, and you shall fall by the sword — because you have turned away from Yahweh, Yahweh will not be with you."
+[43] For the ⟦amalekites|Amaleqim|Amalekites⟧ and the ⟦canaanites|Kenaanim|Canaanites⟧ are there before you, and you shall fall by the sword — because you have turned away from ⟦yhwh|Yahweh|the LORD⟧, ⟦yhwh|Yahweh|the LORD⟧ will not be with you."
 
-[44] But they presumed to go up to the heights of the hill country; yet the ark of the covenant of Yahweh and Moses did not leave the camp.
+[44] But they presumed to go up to the heights of the hill country; yet the ark of the covenant of ⟦yhwh|Yahweh|the LORD⟧ and ⟦moses|Moshe|Moses⟧ did not leave the camp.
 
-[45] Then the Amalekites and the Canaanites who dwelt in that hill country came down and struck them and beat them down as far as Hormah.
+[45] Then the ⟦amalekites|Amaleqim|Amalekites⟧ and the ⟦canaanites|Kenaanim|Canaanites⟧ who dwelt in that hill country came down and struck them and beat them down as far as ⟦hormah|Chormah|Hormah⟧.
 
 ## Changes
 

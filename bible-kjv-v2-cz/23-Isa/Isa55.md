@@ -22,19 +22,19 @@ vůdcem a velitelem národů.
 
 [5] Hle, zavoláš národ, který neznáš,
 a národ, který neznal tebe, k tobě poběží
-kvůli Yahweh, tvému *Elohim*, a kvůli Svatému Israele,
+kvůli ⟦yhwh|Jahvovi|Hospodinu⟧, tvému ⟦elohim|Elohim|Bohu⟧, a kvůli Svatému ⟦israel|Jisraele|Izraele⟧,
 neboť on tě oslavil.
 
-[6] Hledejte Yahweh, dokud se dá nalézt;
+[6] Hledejte ⟦yhwh|Jahveho|Hospodina⟧, dokud se dá nalézt;
 volejte k němu, dokud je blízko;
 
 [7] ať svévolník opustí svou cestu
 a nespravedlivý člověk své myšlenky;
-ať se vrátí k Yahweh, aby se nad ním slitoval,
-a k našemu *Elohim*, neboť hojně odpouští.
+ať se vrátí k ⟦yhwh|Jahvovi|Hospodinu⟧, aby se nad ním slitoval,
+a k našemu ⟦elohim|Elohim|Bohu⟧, neboť hojně odpouští.
 
 [8] Neboť mé myšlenky nejsou vašimi myšlenkami
-a vaše cesty nejsou mými cestami, je výrok Yahweh.
+a vaše cesty nejsou mými cestami, je výrok ⟦yhwh|Jahve|Hospodin⟧.
 
 [9] Neboť jako jsou nebesa vyšší než země,
 tak jsou mé cesty vyšší než vaše cesty
@@ -58,7 +58,7 @@ a všechny stromy pole budou tleskat rukama.
 
 [13] Místo trní vzejde cypřiš;
 místo bodláčí vzejde myrta;
-a bude to Yahweh ke jménu,
+a bude to ⟦yhwh|Jahvovi|Hospodinu⟧ ke jménu,
 věčným znamením, které nebude vyťato.“
 
 ## Změny

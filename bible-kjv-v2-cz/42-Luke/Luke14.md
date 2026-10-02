@@ -1,14 +1,14 @@
 # Lukáš 14
 
-[1] Když jednoho sabatu přišel k jídlu do domu jednoho z předních farizeů, bedlivě ho pozorovali.
+[1] Když ⟦shabbat|jednoho šabatu|jedné soboty⟧ přišel k jídlu do domu jednoho z předních ⟦pharisees|perušim|farizeů⟧, bedlivě ho pozorovali.
 
 [2] A hle, byl před ním člověk, který trpěl vodnatelností.
 
-[3] *Yeshua* se obrátil ke znalcům zákona a farizeům a řekl: „Je dovoleno v sabat uzdravovat, nebo ne?“
+[3] ⟦yeshua|Ješua|Ježíš⟧ se obrátil ke znalcům zákona a ⟦pharisees|perušim|farizeům⟧ a řekl: „Je dovoleno v ⟦shabbat|šabat|sobotu⟧ uzdravovat, nebo ne?“
 
 [4] Oni však mlčeli. Tu se ho ujal, uzdravil ho a propustil.
 
-[5] A řekl jim: „Kdo z vás, když mu v sabatní den spadne syn nebo vůl do studny, ho ihned nevytáhne?“
+[5] A řekl jim: „Kdo z vás, když mu v ⟦shabbat|šabatní|sobotní⟧ den spadne syn nebo vůl do studny, ho ihned nevytáhne?“
 
 [6] A nemohli mu na to odpovědět.
 
@@ -28,7 +28,7 @@
 
 [14] a budeš blahoslavený, protože ti nemají čím odplatit. Bude ti totiž odplaceno při vzkříšení spravedlivých.“
 
-[15] Když to uslyšel jeden z těch, kdo s ním byli u stolu, řekl mu: „Blahoslavený každý, kdo bude jíst chléb v království *Elohim*!“
+[15] Když to uslyšel jeden z těch, kdo s ním byli u stolu, řekl mu: „Blahoslavený každý, kdo bude jíst chléb v království ⟦elohim|Elohim|Božím⟧!“
 
 [16] On mu však řekl: „Jeden člověk pořádal velikou večeři a pozval mnoho lidí.
 

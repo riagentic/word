@@ -1,8 +1,8 @@
 # Daniel 8
 
-[1] Ve třetím roce vlády krále Belshazzara se mně, Danielovi, ukázalo vidění, po tom, které se mi ukázalo na počátku.
+[1] Ve třetím roce vlády krále ⟦belshazzar|Belšacara|Belšasara⟧ se mně, ⟦daniel|Danijelovi|Danielovi⟧, ukázalo vidění, po tom, které se mi ukázalo na počátku.
 
-[2] Viděl jsem ve vidění; a když jsem viděl, byl jsem v pevnosti Shushan, která je v provincii Elam. Viděl jsem ve vidění a byl jsem u průplavu Ulai.
+[2] Viděl jsem ve vidění; a když jsem viděl, byl jsem v pevnosti ⟦susa|Šušan|Šúšan⟧, která je v provincii ⟦elam|Elam|Élam⟧. Viděl jsem ve vidění a byl jsem u průplavu Ulaj.
 
 [3] Pozvedl jsem oči a viděl, a hle, na břehu průplavu stál beran. Měl dva rohy a oba rohy byly vysoké, ale jeden byl vyšší než druhý a ten vyšší vyrostl až jako poslední.
 
@@ -28,9 +28,9 @@
 
 [14] Řekl mi: „Po 2 300 večerů a jiter. Potom bude svatyně uvedena do náležitého stavu.“
 
-[15] Když jsem já, Daniel, viděl to vidění, snažil jsem se mu porozumět. A hle, přede mnou stál někdo, kdo vypadal jako muž.
+[15] Když jsem já, ⟦daniel|Danijel|Daniel⟧, viděl to vidění, snažil jsem se mu porozumět. A hle, přede mnou stál někdo, kdo vypadal jako muž.
 
-[16] A uslyšel jsem lidský hlas mezi břehy Ulai, který volal: „Gabrieli – vysvětli tomuto muži to vidění.“
+[16] A uslyšel jsem lidský hlas mezi břehy Ulaj, který volal: „⟦gabriel|Gavrieli|Gabrieli⟧ – vysvětli tomuto muži to vidění.“
 
 [17] Přišel tedy blízko k místu, kde jsem stál. A když přišel, vyděsil jsem se a padl na tvář. Ale řekl mi: „Pochop, synu člověka, že to vidění se týká času konce.“
 
@@ -38,9 +38,9 @@
 
 [19] Řekl: „Hle, oznámím ti, co bude na sklonku hněvu, neboť se to týká určeného času konce.
 
-[20] Beran se dvěma rohy, kterého jsi viděl, to jsou králové Medie a Persie.
+[20] Beran se dvěma rohy, kterého jsi viděl, to jsou králové ⟦media|Madaj|Médie⟧ a ⟦persia|Parasu|Persie⟧.
 
-[21] Kozel je král Greece. A veliký roh mezi jeho očima je první král.
+[21] Kozel je král ⟦greece|Javanu|Řecka⟧. A veliký roh mezi jeho očima je první král.
 
 [22] Pokud jde o zlomený roh, místo něhož vyrostly čtyři jiné, z jeho národa povstanou čtyři království, ale ne s jeho mocí.
 
@@ -52,7 +52,7 @@
 
 [26] Vidění o večerech a jitrech, které bylo vypověděno, je pravdivé, ty však vidění zapečeť, neboť se týká mnoha dnů, jež teprve přijdou.“
 
-[27] Já, Daniel, jsem byl zdrcen a několik dní jsem ležel nemocen. Potom jsem vstal a věnoval se královým záležitostem, ale byl jsem z toho vidění zděšen a nerozuměl jsem mu.
+[27] Já, ⟦daniel|Danijel|Daniel⟧, jsem byl zdrcen a několik dní jsem ležel nemocen. Potom jsem vstal a věnoval se královým záležitostem, ale byl jsem z toho vidění zděšen a nerozuměl jsem mu.
 
 ## Změny
 

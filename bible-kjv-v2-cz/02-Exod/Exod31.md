@@ -1,40 +1,40 @@
 # Exodus 31
 
-[1] Yahweh promluvil k Mosesovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[2] „Hleď, povolal jsem jménem Betzalela, syna Uriho, syna Hura, z kmene Judah;
+[2] „Hleď, povolal jsem jménem ⟦bezalel|Becalela|Besaleela⟧, syna ⟦uri|Uriho|Urího⟧, syna ⟦hur|Chura|Chúra⟧, z kmene ⟦judah|Jehudy|Judy⟧;
 
-[3] a naplnil jsem ho Duchem *Elohim*, dovedností, porozuměním, poznáním a zručností v každém řemesle,
+[3] a naplnil jsem ho Duchem ⟦elohim|Elohim|Božím⟧, dovedností, porozuměním, poznáním a zručností v každém řemesle,
 
 [4] aby vymýšlel návrhy pro práci ve zlatě, stříbře a bronzu,
 
 [5] v broušení kamenů k zasazování a v řezbě dřeva – aby pracoval v každém řemesle.
 
-[6] A ustanovil jsem s ním Oholiaba, syna Ahisamachova, z kmene Dan; a do srdcí všech, kdo jsou dovedného srdce, jsem vložil dovednost, aby udělali všechno, co jsem ti přikázal –
+[6] A ustanovil jsem s ním ⟦oholiab|Oholiava|Oholíaba⟧, syna ⟦ahisamach|Achisamachova|Achísamakova⟧, z kmene Dan; a do srdcí všech, kdo jsou dovedného srdce, jsem vložil dovednost, aby udělali všechno, co jsem ti přikázal –
 
-[7] stan setkávání, truhlu svědectví, slitovnici, která je na ní, a veškeré vybavení stanu;
+[7] stan setkávání, truhlu svědectví, ⟦mercy-seat|kapporet, která|příkrov, který⟧ je na ní, a veškeré vybavení stanu;
 
 [8] stůl a jeho nádoby, čistý svícen se všemi jeho nádobami a kadidlový oltář,
 
 [9] oltář zápalné oběti se všemi jeho nádobami a umyvadlo s jeho podstavcem;
 
-[10] jemně tkaná roucha, svatá roucha pro kněze Aarona a roucha jeho synů, aby sloužili jako kněží;
+[10] jemně tkaná roucha, svatá roucha pro kněze ⟦aaron|Aharona|Árona⟧ a roucha jeho synů, aby sloužili jako kněží;
 
 [11] olej pomazání a vonné kadidlo pro svatyni – podle všeho, co jsem ti přikázal, to udělají.“
 
-[12] Yahweh řekl Mosesovi:
+[12] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[13] „Promluv k synům Israele: ‚Především budete zachovávat mé sabaty, neboť je to znamení mezi mnou a vámi po všechna vaše pokolení, abyste poznali, že já, Yahweh, vás posvěcuji.
+[13] „Promluv k synům ⟦israel|Jisraele|Izraele⟧: ‚Především budete zachovávat ⟦shabbat|mé šabaty|mé soboty⟧, neboť je to znamení mezi mnou a vámi po všechna vaše pokolení, abyste poznali, že já, ⟦yhwh|Jahve|Hospodin⟧, vás posvěcuji.
 
-[14] Zachovávejte tedy sabat, protože je vám svatý. Každý, kdo ho znesvětí, bude jistě usmrcen; neboť kdokoli v něm vykoná nějakou práci, ten člověk bude vyobcován ze svého lidu.
+[14] Zachovávejte tedy ⟦shabbat|šabat|sobotní den⟧, protože je vám svatý. Každý, kdo ho znesvětí, bude jistě usmrcen; neboť kdokoli v něm vykoná nějakou práci, ten člověk bude vyobcován ze svého lidu.
 
-[15] Šest dní se bude pracovat, ale sedmý den je sabat slavnostního odpočinku, svatý pro Yahweh. Kdokoli bude v den sabatu vykonávat nějakou práci, bude jistě usmrcen.
+[15] Šest dní se bude pracovat, ale sedmý den je ⟦shabbat|šabat|sobota⟧ slavnostního odpočinku, svatý pro ⟦yhwh|Jahveho|Hospodina⟧. Kdokoli bude v den ⟦shabbat|šabatu|soboty⟧ vykonávat nějakou práci, bude jistě usmrcen.
 
-[16] Proto budou synové Israele zachovávat sabat a dodržovat sabat po všechna svá pokolení jako věčnou smlouvu.
+[16] Proto budou synové ⟦israel|Jisraele|Izraele⟧ zachovávat ⟦shabbat|šabat|sobotu⟧ a dodržovat ⟦shabbat|šabat|sobotu⟧ po všechna svá pokolení jako věčnou smlouvu.
 
-[17] Je to navždy znamení mezi mnou a syny Israele; neboť za šest dní učinil Yahweh nebesa a zemi a sedmého dne odpočinul a nabral dech.‘“
+[17] Je to navždy znamení mezi mnou a syny ⟦israel|Jisraele|Izraele⟧; neboť za šest dní učinil ⟦yhwh|Jahve|Hospodin⟧ nebesa a zemi a sedmého dne odpočinul a nabral dech.‘“
 
-[18] Když s ním na hoře Sinai domluvil, dal Mosesovi dvě desky svědectví – kamenné desky popsané prstem *Elohim*.
+[18] Když s ním na hoře ⟦sinai|Sinaj|Sínaj⟧ domluvil, dal ⟦moses|Mošovi|Mojžíšovi⟧ dvě desky svědectví – kamenné desky popsané prstem ⟦elohim|Elohim|Božím⟧.
 
 ## Změny
 

@@ -1,7 +1,7 @@
 # Isaiah 18
 
 [1] Ah, land of whirring wings
-that is beyond the rivers of Cush,
+that is beyond the rivers of ⟦cush|Kush|Cush⟧,
 
 [2] which sends ambassadors by the sea,
 in vessels of papyrus on the waters!
@@ -14,9 +14,9 @@ whose land the rivers divide.
 [3] All you inhabitants of the world,
 you who dwell on the earth,
 when a signal is raised on the mountains, look!
-When a trumpet is blown, hear!
+When a ⟦shofar|shofar|trumpet⟧ is blown, hear!
 
-[4] For thus Yahweh said to me:
+[4] For thus ⟦yhwh|Yahweh|the LORD⟧ said to me:
 
 "I will quietly look from my dwelling
 like clear heat in sunshine,
@@ -33,7 +33,7 @@ and to the beasts of the earth.
 And the birds of prey will summer on them,
 and all the beasts of the earth will winter on them.
 
-[7] At that time tribute will be brought to Yahweh of Hosts from a people tall and smooth, from a people feared near and far, a nation mighty and conquering, whose land the rivers divide, to the place of the name of Yahweh of Hosts, Mount Zion.
+[7] At that time tribute will be brought to ⟦yhwh|Yahweh|the LORD⟧ of Hosts from a people tall and smooth, from a people feared near and far, a nation mighty and conquering, whose land the rivers divide, to the place of the name of ⟦yhwh|Yahweh|the LORD⟧ of Hosts, Mount ⟦zion|Tziyon|Zion⟧.
 
 ## Changes
 

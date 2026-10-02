@@ -1,6 +1,6 @@
 # Jób 25
 
-[1] Tu odpověděl Bildad Shuachský a řekl:
+[1] Tu odpověděl Bildad ⟦shuhite|Šuchi|Šúchský⟧ a řekl:
 
 [2] „Vláda a hrůza jsou u něho;
 zjednává pokoj na svých výšinách.
@@ -8,7 +8,7 @@ zjednává pokoj na svých výšinách.
 [3] Je vůbec nějaký počet jeho vojsk?
 Nad kým nevzchází jeho světlo?
 
-[4] Jak tedy může být člověk spravedlivý před *Elohim*?
+[4] Jak tedy může být člověk spravedlivý před ⟦el|El|Bohem⟧?
 Jak může být čistý zrozený z ženy?
 
 [5] Hle, ani měsíc není jasný
@@ -19,6 +19,7 @@ a syn člověka – červ!“
 
 ## Změny
 
+- **"God" → „El“** (v4) – hebrejsky אֵל *El*, ne *Elohim*.
 - **"worm" (first) → „larva“** (v6) – hebrejsky *rimmah*.
 
 ### Poznámky

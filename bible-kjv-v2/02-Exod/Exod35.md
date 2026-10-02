@@ -1,14 +1,14 @@
 # Exodus 35
 
-[1] Moses assembled all the congregation of the children of Israel and said to them, "These are the things that Yahweh has commanded you to do:
+[1] ⟦moses|Moshe|Moses⟧ assembled all the congregation of the children of ⟦israel|Yisrael|Israel⟧ and said to them, "These are the things that ⟦yhwh|Yahweh|the LORD⟧ has commanded you to do:
 
-[2] Six days work shall be done; but the seventh day shall be a holy day for you, a Sabbath of solemn rest to Yahweh. Whoever does any work on it shall be put to death.
+[2] Six days work shall be done; but the seventh day shall be a holy day for you, a ⟦shabbat|Shabbat|Sabbath⟧ of solemn rest to ⟦yhwh|Yahweh|the LORD⟧. Whoever does any work on it shall be put to death.
 
-[3] You shall kindle no fire in any of your dwellings on the Sabbath day."
+[3] You shall kindle no fire in any of your dwellings on the ⟦shabbat|Shabbat|Sabbath⟧ day."
 
-[4] Moses spoke to all the congregation of the children of Israel, saying, "This is what Yahweh has commanded:
+[4] ⟦moses|Moshe|Moses⟧ spoke to all the congregation of the children of ⟦israel|Yisrael|Israel⟧, saying, "This is what ⟦yhwh|Yahweh|the LORD⟧ has commanded:
 
-[5] 'Take from among you a contribution to Yahweh; whoever is of a willing heart, let him bring it — Yahweh's contribution: gold, silver, and bronze;
+[5] 'Take from among you a contribution to ⟦yhwh|Yahweh|the LORD⟧; whoever is of a willing heart, let him bring it — ⟦yhwh|Yahweh's|the LORD's⟧ contribution: gold, silver, and bronze;
 
 [6] blue, purple, and scarlet yarns, and fine linen, and goats' hair;
 
@@ -18,11 +18,11 @@
 
 [9] onyx stones and stones for setting, for the ephod and for the breastpiece.
 
-[10] Every skillful one among you shall come and make all that Yahweh has commanded:
+[10] Every skillful one among you shall come and make all that ⟦yhwh|Yahweh|the LORD⟧ has commanded:
 
 [11] the dwelling, with its tent and its covering, its clasps, its frames, its bars, its pillars, and its sockets;
 
-[12] the ark and its poles, the mercy seat, and the curtain of the screen;
+[12] the ark and its poles, the ⟦mercy-seat|kapporet|mercy seat⟧, and the curtain of the screen;
 
 [13] the table and its poles, and all its utensils, and the bread of the Presence;
 
@@ -36,17 +36,17 @@
 
 [18] the pegs of the dwelling and the pegs of the court, and their cords;
 
-[19] the finely-woven garments, for serving in the Holy Place — the holy garments for Aaron the priest, and the garments of his sons, to serve as priests.'"
+[19] the finely-woven garments, for serving in the Holy Place — the holy garments for ⟦aaron|Aharon|Aaron⟧ the priest, and the garments of his sons, to serve as priests.'"
 
-[20] Then all the congregation of the children of Israel departed from the presence of Moses.
+[20] Then all the congregation of the children of ⟦israel|Yisrael|Israel⟧ departed from the presence of ⟦moses|Moshe|Moses⟧.
 
-[21] Everyone whose heart stirred him, and everyone whose spirit made him willing, came and brought Yahweh's contribution for the work of the Tent of Meeting, for all its service, and for the holy garments.
+[21] Everyone whose heart stirred him, and everyone whose spirit made him willing, came and brought ⟦yhwh|Yahweh's|the LORD's⟧ contribution for the work of the Tent of Meeting, for all its service, and for the holy garments.
 
-[22] They came, both men and women — all who were of a willing heart — and brought brooches, earrings, rings, and pendants, all kinds of gold objects; every man who made an elevation offering of gold to Yahweh.
+[22] They came, both men and women — all who were of a willing heart — and brought brooches, earrings, rings, and pendants, all kinds of gold objects; every man who made an elevation offering of gold to ⟦yhwh|Yahweh|the LORD⟧.
 
 [23] Every man who had in his possession blue, purple, or scarlet yarns, or fine linen, or goats' hair, or tanned ram skins, or fine leather, brought them.
 
-[24] Everyone who could make a contribution of silver or bronze brought Yahweh's contribution; and everyone who had in his possession acacia wood for any work of the service brought it.
+[24] Everyone who could make a contribution of silver or bronze brought ⟦yhwh|Yahweh's|the LORD's⟧ contribution; and everyone who had in his possession acacia wood for any work of the service brought it.
 
 [25] Every skillful woman spun with her hands, and they brought what they had spun: blue, purple, and scarlet yarns, and fine linen.
 
@@ -56,17 +56,17 @@
 
 [28] and the spices and oil for the light, for the anointing oil, and for the fragrant incense.
 
-[29] The children of Israel brought a freewill offering to Yahweh — every man and woman whose heart moved them to bring anything for all the work that Yahweh had commanded by the hand of Moses.
+[29] The children of ⟦israel|Yisrael|Israel⟧ brought a freewill offering to ⟦yhwh|Yahweh|the LORD⟧ — every man and woman whose heart moved them to bring anything for all the work that ⟦yhwh|Yahweh|the LORD⟧ had commanded by the hand of ⟦moses|Moshe|Moses⟧.
 
-[30] Moses said to the children of Israel, "See, Yahweh has called by name Betzalel son of Uri son of Hur, of the tribe of Judah;
+[30] ⟦moses|Moshe|Moses⟧ said to the children of ⟦israel|Yisrael|Israel⟧, "See, ⟦yhwh|Yahweh|the LORD⟧ has called by name ⟦bezalel|Betzalel|Bezalel⟧ son of Uri son of ⟦hur|Chur|Hur⟧, of the tribe of ⟦judah|Yehudah|Judah⟧;
 
-[31] and he has filled him with the Spirit of *Elohim*, with skill, with understanding, with knowledge, and with all kinds of craftsmanship —
+[31] and he has filled him with the Spirit of ⟦elohim|Elohim|God⟧, with skill, with understanding, with knowledge, and with all kinds of craftsmanship —
 
 [32] to devise designs, to work in gold, silver, and bronze,
 
 [33] in the cutting of stones for setting, and in the carving of wood; to do every sort of skilled craftsmanship.
 
-[34] He has also put into his heart the ability to teach, both he and Oholiab son of Ahisamach, of the tribe of Dan.
+[34] He has also put into his heart the ability to teach, both he and ⟦oholiab|Oholiav|Oholiab⟧ son of ⟦ahisamach|Achisamach|Ahisamach⟧, of the tribe of Dan.
 
 [35] He has filled them with skill to do every kind of work, whether of a craftsman, a designer, an embroiderer in blue, purple, and scarlet yarns, and fine linen, or a weaver — anyone doing any work or designing skilled work."
 

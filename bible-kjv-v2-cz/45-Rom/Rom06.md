@@ -4,9 +4,9 @@
 
 [2] Naprosto ne! Jak můžeme my, kteří jsme zemřeli hříchu, ještě v něm žít?
 
-[3] Nevíte snad, že všichni, kdo jsme byli ponořeni do *Yeshuy* *Mashiacha*, byli jsme ponořeni do jeho smrti?
+[3] Nevíte snad, že všichni, kdo jsme byli ⟦immerse|ponořeni|pokřtěni⟧ do ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧, byli jsme ⟦immerse|ponořeni|pokřtěni⟧ do jeho smrti?
 
-[4] Byli jsme tedy s ním pohřbeni ponořením do smrti, abychom tak, jako byl *Mashiach* vzkříšen z mrtvých slávou Otce, i my chodili v novotě života.
+[4] Byli jsme tedy s ním pohřbeni ⟦immersion|ponořením|křtem⟧ do smrti, abychom tak, jako byl ⟦mashiach|Mašiach|Kristus⟧ vzkříšen z mrtvých slávou Otce, i my chodili v novotě života.
 
 [5] Jestliže jsme totiž s ním byli spojeni smrtí podobnou jeho smrti, jistě s ním budeme spojeni i vzkříšením podobným jeho vzkříšení.
 
@@ -14,25 +14,25 @@
 
 [7] Kdo totiž zemřel, je osvobozen od hříchu.
 
-[8] Jestliže jsme však s *Mashiachem* zemřeli, věříme, že s ním také budeme žít.
+[8] Jestliže jsme však s ⟦mashiach|Mašiachem|Kristem⟧ zemřeli, věříme, že s ním také budeme žít.
 
-[9] Víme, že *Mashiach*, vzkříšený z mrtvých, už nikdy nezemře; smrt nad ním už nepanuje.
+[9] Víme, že ⟦mashiach|Mašiach|Kristus⟧, vzkříšený z mrtvých, už nikdy nezemře; smrt nad ním už nepanuje.
 
-[10] Tou smrtí, kterou zemřel, zemřel hříchu jednou provždy, ale životem, kterým žije, žije pro *Elohim*.
+[10] Tou smrtí, kterou zemřel, zemřel hříchu jednou provždy, ale životem, kterým žije, žije pro ⟦elohim|Elohim|Boha⟧.
 
-[11] Tak i vy se pokládejte za mrtvé hříchu, ale živé pro *Elohim* v *Mashiachu* *Yeshuovi*.
+[11] Tak i vy se pokládejte za mrtvé hříchu, ale živé pro ⟦elohim|Elohim|Boha⟧ v ⟦mashiach|Mašiachu|Kristu⟧ ⟦yeshua|Ješuovi|Ježíši⟧.
 
 [12] Ať tedy hřích nevládne ve vašem smrtelném těle, abyste se poddávali jeho vášním.
 
-[13] Nevydávejte své údy hříchu jako nástroje nespravedlnosti, ale vydejte sami sebe *Elohim* jako ti, kdo byli přivedeni ze smrti do života, a své údy *Elohim* jako nástroje spravedlnosti.
+[13] Nevydávejte své údy hříchu jako nástroje nespravedlnosti, ale vydejte sami sebe ⟦elohim|Elohim|Bohu⟧ jako ti, kdo byli přivedeni ze smrti do života, a své údy ⟦elohim|Elohim|Bohu⟧ jako nástroje spravedlnosti.
 
-[14] Hřích nad vámi nebude panovat, protože nejste pod Torah, ale pod milostí.
+[14] Hřích nad vámi nebude panovat, protože nejste pod ⟦torah|Tórou|zákonem⟧, ale pod milostí.
 
-[15] Co tedy? Máme hřešit, protože nejsme pod Torah, ale pod milostí? Naprosto ne!
+[15] Co tedy? Máme hřešit, protože nejsme pod ⟦torah|Tórou|zákonem⟧, ale pod milostí? Naprosto ne!
 
 [16] Nevíte snad, že komu se vydáváte jako poslušní otroci, toho jste otroky, koho posloucháte – buď hříchu, který vede ke smrti, nebo poslušnosti, která vede ke spravedlnosti?
 
-[17] Ale díky *Elohim*, že vy, kteří jste kdysi byli otroky hříchu, jste se ze srdce stali poslušnými vzoru učení, kterému jste byli svěřeni,
+[17] Ale díky ⟦elohim|Elohim|Bohu⟧, že vy, kteří jste kdysi byli otroky hříchu, jste se ze srdce stali poslušnými vzoru učení, kterému jste byli svěřeni,
 
 [18] a osvobozeni od hříchu jste se stali otroky spravedlnosti.
 
@@ -42,9 +42,9 @@
 
 [21] Jaké ovoce jste tehdy měli z věcí, za které se nyní stydíte? Vždyť konec těch věcí je smrt.
 
-[22] Ale nyní, když jste byli osvobozeni od hříchu a stali jste se otroky *Elohim*, ovoce, které máte, vede k posvěcení a jeho koncem je věčný život.
+[22] Ale nyní, když jste byli osvobozeni od hříchu a stali jste se otroky ⟦elohim|Elohim|Božími⟧, ovoce, které máte, vede k posvěcení a jeho koncem je věčný život.
 
-[23] Neboť **mzdou hříchu je smrt, ale darem milosti *Elohim* je věčný život v *Mashiachu* *Yeshuovi*, našem Pánu**.
+[23] Neboť **mzdou hříchu je smrt, ale darem milosti ⟦elohim|Elohim|Boží⟧ je věčný život v ⟦mashiach|Mašiachu|Kristu⟧ ⟦yeshua|Ješuovi|Ježíši⟧, našem Pánu**.
 
 ## Změny
 

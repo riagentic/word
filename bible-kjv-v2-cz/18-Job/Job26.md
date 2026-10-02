@@ -1,6 +1,6 @@
 # Jób 26
 
-[1] Tu Job odpověděl a řekl:
+[1] Tu ⟦job|Ijov|Jób⟧ odpověděl a řekl:
 
 [2] „Jak jsi pomohl tomu, kdo nemá moc!
 Jak jsi zachránil paži, která nemá sílu!
@@ -14,8 +14,8 @@ a hojně zjevil pravdu!
 [5] Stíny zemřelých se chvějí
 pod vodami i jejich obyvateli.
 
-[6] Sheol je před ním nahý;
-Abaddon nemá přikrývku.
+[6] ⟦sheol|Šeol je před ním nahý|Podsvětí je před ním nahé⟧;
+⟦abaddon|Avaddon|Abadon⟧ nemá přikrývku.
 
 [7] Rozpíná tzaphon – sever – nad prázdnotou;
 zavěšuje zemi na nic.
@@ -33,7 +33,7 @@ na hranici mezi světlem a tmou.
 užaslé nad jeho pohrůžkou.
 
 [12] Svou mocí utišil moře;
-svým rozumem roztříštil Rahab.
+svým rozumem roztříštil ⟦rahab-monster|Rahav|Rahab⟧.
 
 [13] Jeho duchem se nebesa vyjasnila;
 jeho ruka probodla prchajícího hada.

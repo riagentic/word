@@ -1,56 +1,56 @@
 # Numbers 8
 
-[1] Yahweh spoke to Moses, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[2] "Speak to Aaron and say to him: 'When you set up the lamps, the seven lamps shall give light in front of the lampstand.'"
+[2] "Speak to ⟦aaron|Aharon|Aaron⟧ and say to him: 'When you set up the lamps, the seven lamps shall give light in front of the lampstand.'"
 
-[3] Aaron did so; he set up the lamps to give light in front of the lampstand, as Yahweh commanded Moses.
+[3] ⟦aaron|Aharon|Aaron⟧ did so; he set up the lamps to give light in front of the lampstand, as ⟦yhwh|Yahweh|the LORD⟧ commanded ⟦moses|Moshe|Moses⟧.
 
-[4] This was the workmanship of the lampstand: hammered gold; from its shaft to its flowers it was hammered work. According to the pattern that Yahweh had shown Moses, so he made the lampstand.
+[4] This was the workmanship of the lampstand: hammered gold; from its shaft to its flowers it was hammered work. According to the pattern that ⟦yhwh|Yahweh|the LORD⟧ had shown ⟦moses|Moshe|Moses⟧, so he made the lampstand.
 
-[5] Yahweh spoke to Moses, saying,
+[5] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[6] "Take the Levites from among the children of Israel and cleanse them.
+[6] "Take the ⟦levites|Leviyim|Levites⟧ from among the children of ⟦israel|Yisrael|Israel⟧ and cleanse them.
 
 [7] This is what you shall do to them to cleanse them: sprinkle water of purification on them; have them shave their whole body with a razor and wash their clothes, and so purify themselves.
 
 [8] Then let them take a young bull with its grain offering — fine flour mixed with oil — and you shall take a second young bull as a sin offering.
 
-[9] You shall bring the Levites before the Tent of Meeting, and gather the whole assembly of the children of Israel.
+[9] You shall bring the ⟦levites|Leviyim|Levites⟧ before the Tent of Meeting, and gather the whole assembly of the children of ⟦israel|Yisrael|Israel⟧.
 
-[10] You shall bring the Levites before Yahweh, and the children of Israel shall lay their hands on the Levites.
+[10] You shall bring the ⟦levites|Leviyim|Levites⟧ before ⟦yhwh|Yahweh|the LORD⟧, and the children of ⟦israel|Yisrael|Israel⟧ shall lay their hands on the ⟦levites|Leviyim|Levites⟧.
 
-[11] Aaron shall elevate the Levites as an elevation offering before Yahweh from the children of Israel, that they may carry out the service of Yahweh.
+[11] ⟦aaron|Aharon|Aaron⟧ shall elevate the ⟦levites|Leviyim|Levites⟧ as an elevation offering before ⟦yhwh|Yahweh|the LORD⟧ from the children of ⟦israel|Yisrael|Israel⟧, that they may carry out the service of ⟦yhwh|Yahweh|the LORD⟧.
 
-[12] The Levites shall lay their hands on the heads of the bulls; and you shall offer the one as a sin offering and the other as a burnt offering to Yahweh, to make atonement for the Levites.
+[12] The ⟦levites|Leviyim|Levites⟧ shall lay their hands on the heads of the bulls; and you shall offer the one as a sin offering and the other as a burnt offering to ⟦yhwh|Yahweh|the LORD⟧, to make atonement for the ⟦levites|Leviyim|Levites⟧.
 
-[13] You shall set the Levites before Aaron and before his sons, and offer them as an elevation offering to Yahweh.
+[13] You shall set the ⟦levites|Leviyim|Levites⟧ before ⟦aaron|Aharon|Aaron⟧ and before his sons, and offer them as an elevation offering to ⟦yhwh|Yahweh|the LORD⟧.
 
-[14] Thus you shall separate the Levites from among the children of Israel, and the Levites shall be mine.
+[14] Thus you shall separate the ⟦levites|Leviyim|Levites⟧ from among the children of ⟦israel|Yisrael|Israel⟧, and the ⟦levites|Leviyim|Levites⟧ shall be mine.
 
-[15] After that the Levites shall go in to do the service of the Tent of Meeting, when you have cleansed them and offered them as an elevation offering.
+[15] After that the ⟦levites|Leviyim|Levites⟧ shall go in to do the service of the Tent of Meeting, when you have cleansed them and offered them as an elevation offering.
 
-[16] For they are wholly given to me from among the children of Israel; in place of all who open the womb — the firstborn of every one of the children of Israel — I have taken them for myself.
+[16] For they are wholly given to me from among the children of ⟦israel|Yisrael|Israel⟧; in place of all who open the womb — the firstborn of every one of the children of ⟦israel|Yisrael|Israel⟧ — I have taken them for myself.
 
-[17] For all the firstborn of the children of Israel are mine, both human and animal; on the day I struck every firstborn in the land of Egypt I consecrated them for myself.
+[17] For all the firstborn of the children of ⟦israel|Yisrael|Israel⟧ are mine, both human and animal; on the day I struck every firstborn in the land of ⟦egypt|Mitzrayim|Egypt⟧ I consecrated them for myself.
 
-[18] And I have taken the Levites in place of all the firstborn of the children of Israel.
+[18] And I have taken the ⟦levites|Leviyim|Levites⟧ in place of all the firstborn of the children of ⟦israel|Yisrael|Israel⟧.
 
-[19] I have given the Levites as a gift to Aaron and to his sons, from among the children of Israel, to do the service of the children of Israel in the Tent of Meeting and to make atonement for the children of Israel, that there may be no plague among the children of Israel when they come near the sanctuary."
+[19] I have given the ⟦levites|Leviyim|Levites⟧ as a gift to ⟦aaron|Aharon|Aaron⟧ and to his sons, from among the children of ⟦israel|Yisrael|Israel⟧, to do the service of the children of ⟦israel|Yisrael|Israel⟧ in the Tent of Meeting and to make atonement for the children of ⟦israel|Yisrael|Israel⟧, that there may be no plague among the children of ⟦israel|Yisrael|Israel⟧ when they come near the sanctuary."
 
-[20] Moses, Aaron, and all the congregation of the children of Israel did to the Levites according to all that Yahweh had commanded Moses concerning the Levites; so the children of Israel did to them.
+[20] ⟦moses|Moshe|Moses⟧, ⟦aaron|Aharon|Aaron⟧, and all the congregation of the children of ⟦israel|Yisrael|Israel⟧ did to the ⟦levites|Leviyim|Levites⟧ according to all that ⟦yhwh|Yahweh|the LORD⟧ had commanded ⟦moses|Moshe|Moses⟧ concerning the ⟦levites|Leviyim|Levites⟧; so the children of ⟦israel|Yisrael|Israel⟧ did to them.
 
-[21] The Levites purified themselves and washed their clothes; and Aaron elevated them as an elevation offering before Yahweh, and Aaron made atonement for them to cleanse them.
+[21] The ⟦levites|Leviyim|Levites⟧ purified themselves and washed their clothes; and ⟦aaron|Aharon|Aaron⟧ elevated them as an elevation offering before ⟦yhwh|Yahweh|the LORD⟧, and ⟦aaron|Aharon|Aaron⟧ made atonement for them to cleanse them.
 
-[22] After that the Levites went in to do their service in the Tent of Meeting before Aaron and his sons; as Yahweh had commanded Moses concerning the Levites, so they did to them.
+[22] After that the ⟦levites|Leviyim|Levites⟧ went in to do their service in the Tent of Meeting before ⟦aaron|Aharon|Aaron⟧ and his sons; as ⟦yhwh|Yahweh|the LORD⟧ had commanded ⟦moses|Moshe|Moses⟧ concerning the ⟦levites|Leviyim|Levites⟧, so they did to them.
 
-[23] Yahweh spoke to Moses, saying,
+[23] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[24] "This is the rule for the Levites: from twenty-five years old and upward they shall enter to perform the service in the work of the Tent of Meeting,
+[24] "This is the rule for the ⟦levites|Leviyim|Levites⟧: from twenty-five years old and upward they shall enter to perform the service in the work of the Tent of Meeting,
 
 [25] and from the age of fifty years they shall withdraw from the service of the work and serve no more.
 
-[26] They may assist their brothers in the Tent of Meeting, to keep the charge, but they shall do no service. Thus you shall do with the Levites concerning their charge."
+[26] They may assist their brothers in the Tent of Meeting, to keep the charge, but they shall do no service. Thus you shall do with the ⟦levites|Leviyim|Levites⟧ concerning their charge."
 
 ## Changes
 

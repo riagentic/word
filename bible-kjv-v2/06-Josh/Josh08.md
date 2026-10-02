@@ -1,10 +1,10 @@
 # Joshua 8
 
-[1] Yahweh said to Joshua, "Do not be afraid or dismayed. Take all the warriors with you and arise, go up to Ai. See, I have given into your hand the king of Ai, his people, his city, and his land.
+[1] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦joshua|Yehoshua|Joshua⟧, "Do not be afraid or dismayed. Take all the warriors with you and arise, go up to Ai. See, I have given into your hand the king of Ai, his people, his city, and his land.
 
-[2] You shall do to Ai and its king as you did to Jericho and its king. Only the spoil and the livestock you shall take as plunder for yourselves. Set an ambush against the city behind it."
+[2] You shall do to Ai and its king as you did to ⟦jericho|Yericho|Jericho⟧ and its king. Only the spoil and the livestock you shall take as plunder for yourselves. Set an ambush against the city behind it."
 
-[3] So Joshua arose with all the warriors to go up to Ai. Joshua chose thirty thousand mighty warriors and sent them out by night.
+[3] So ⟦joshua|Yehoshua|Joshua⟧ arose with all the warriors to go up to Ai. ⟦joshua|Yehoshua|Joshua⟧ chose thirty thousand mighty warriors and sent them out by night.
 
 [4] He commanded them, "Behold, you shall lie in ambush against the city, behind the city. Do not go very far from the city; all of you be ready.
 
@@ -12,63 +12,63 @@
 
 [6] They will come out after us, until we have drawn them away from the city; for they will say, 'They are fleeing before us, as at first.' So we shall flee before them.
 
-[7] Then you shall rise up from the ambush and seize the city; Yahweh your *Elohim* will give it into your hand.
+[7] Then you shall rise up from the ambush and seize the city; ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ will give it into your hand.
 
-[8] When you have taken the city, you shall set the city on fire. According to the command of Yahweh shall you do. See, I have commanded you."
+[8] When you have taken the city, you shall set the city on fire. According to the command of ⟦yhwh|Yahweh|the LORD⟧ shall you do. See, I have commanded you."
 
-[9] So Joshua sent them out, and they went to the place of ambush and remained between Bethel and Ai, to the west of Ai. But Joshua lodged that night among the people.
+[9] So ⟦joshua|Yehoshua|Joshua⟧ sent them out, and they went to the place of ambush and remained between ⟦bethel|Beit El|Bethel⟧ and Ai, to the west of Ai. But ⟦joshua|Yehoshua|Joshua⟧ lodged that night among the people.
 
-[10] Joshua rose early in the morning, mustered the people, and went up with the elders of Israel at the head of the people to Ai.
+[10] ⟦joshua|Yehoshua|Joshua⟧ rose early in the morning, mustered the people, and went up with the elders of ⟦israel|Yisrael|Israel⟧ at the head of the people to Ai.
 
 [11] All the warriors with him went up and drew near, and came before the city and encamped on the north side of Ai, with a valley between them and Ai.
 
-[12] He took about five thousand men and set them as an ambush between Bethel and Ai, to the west of the city.
+[12] He took about five thousand men and set them as an ambush between ⟦bethel|Beit El|Bethel⟧ and Ai, to the west of the city.
 
-[13] So they stationed the people — all the army that was on the north of the city, and their rearguard on the west of the city. That night Joshua went into the midst of the valley.
+[13] So they stationed the people — all the army that was on the north of the city, and their rearguard on the west of the city. That night ⟦joshua|Yehoshua|Joshua⟧ went into the midst of the valley.
 
-[14] When the king of Ai saw this, he and the men of the city hurried and went out early to meet Israel in battle, he and all his people, at the appointed place facing the Arabah; but he did not know that there was an ambush against him behind the city.
+[14] When the king of Ai saw this, he and the men of the city hurried and went out early to meet ⟦israel|Yisrael|Israel⟧ in battle, he and all his people, at the appointed place facing the ⟦arabah|Aravah|Arabah⟧; but he did not know that there was an ambush against him behind the city.
 
-[15] Joshua and all Israel let themselves be beaten before them and fled by the way of the wilderness.
+[15] ⟦joshua|Yehoshua|Joshua⟧ and all ⟦israel|Yisrael|Israel⟧ let themselves be beaten before them and fled by the way of the wilderness.
 
-[16] All the people who were in the city were called together to pursue them; they pursued Joshua and were drawn away from the city.
+[16] All the people who were in the city were called together to pursue them; they pursued ⟦joshua|Yehoshua|Joshua⟧ and were drawn away from the city.
 
-[17] Not a man was left in Ai or Bethel who did not go out after Israel; they left the city open and pursued Israel.
+[17] Not a man was left in Ai or ⟦bethel|Beit El|Bethel⟧ who did not go out after ⟦israel|Yisrael|Israel⟧; they left the city open and pursued ⟦israel|Yisrael|Israel⟧.
 
-[18] Yahweh said to Joshua, "Stretch out the javelin that is in your hand toward Ai, for I will give it into your hand." And Joshua stretched out the javelin that was in his hand toward the city.
+[18] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦joshua|Yehoshua|Joshua⟧, "Stretch out the javelin that is in your hand toward Ai, for I will give it into your hand." And ⟦joshua|Yehoshua|Joshua⟧ stretched out the javelin that was in his hand toward the city.
 
 [19] The ambush rose quickly out of their place; as soon as he stretched out his hand, they ran and entered the city and captured it, and quickly set the city on fire.
 
 [20] When the men of Ai looked behind them, they saw the smoke of the city going up to the heavens, and they had no power to flee this way or that; the people who had fled to the wilderness turned back upon the pursuers.
 
-[21] When Joshua and all Israel saw that the ambush had taken the city and that the smoke of the city was going up, they turned back and struck down the men of Ai.
+[21] When ⟦joshua|Yehoshua|Joshua⟧ and all ⟦israel|Yisrael|Israel⟧ saw that the ambush had taken the city and that the smoke of the city was going up, they turned back and struck down the men of Ai.
 
-[22] The others came out of the city against them, so that they were in the middle, with Israel on both sides. They struck them down until no survivor or fugitive was left.
+[22] The others came out of the city against them, so that they were in the middle, with ⟦israel|Yisrael|Israel⟧ on both sides. They struck them down until no survivor or fugitive was left.
 
-[23] But the king of Ai they took alive, and brought him to Joshua.
+[23] But the king of Ai they took alive, and brought him to ⟦joshua|Yehoshua|Joshua⟧.
 
-[24] When Israel had finished killing all the inhabitants of Ai in the open field, in the wilderness where they pursued them, and when they had all fallen by the edge of the sword until they were finished, all Israel returned to Ai and struck it with the edge of the sword.
+[24] When ⟦israel|Yisrael|Israel⟧ had finished killing all the inhabitants of Ai in the open field, in the wilderness where they pursued them, and when they had all fallen by the edge of the sword until they were finished, all ⟦israel|Yisrael|Israel⟧ returned to Ai and struck it with the edge of the sword.
 
 [25] All who fell that day, men and women together, were twelve thousand — all the people of Ai.
 
-[26] For Joshua did not draw back his hand with which he had stretched out the javelin, until he had devoted to destruction all the inhabitants of Ai.
+[26] For ⟦joshua|Yehoshua|Joshua⟧ did not draw back his hand with which he had stretched out the javelin, until he had devoted to destruction all the inhabitants of Ai.
 
-[27] Only the livestock and the spoil of that city Israel took as plunder for themselves, according to the word of Yahweh that he had commanded Joshua.
+[27] Only the livestock and the spoil of that city ⟦israel|Yisrael|Israel⟧ took as plunder for themselves, according to the word of ⟦yhwh|Yahweh|the LORD⟧ that he had commanded ⟦joshua|Yehoshua|Joshua⟧.
 
-[28] So Joshua burned Ai and made it a mound of ruins forever, a desolation to this day.
+[28] So ⟦joshua|Yehoshua|Joshua⟧ burned Ai and made it a mound of ruins forever, a desolation to this day.
 
-[29] He hanged the king of Ai on a tree until evening; and at sunset Joshua commanded, and they took his body down from the tree and threw it at the entrance of the gate of the city, and raised over it a great heap of stones, which stands to this day.
+[29] He hanged the king of Ai on a tree until evening; and at sunset ⟦joshua|Yehoshua|Joshua⟧ commanded, and they took his body down from the tree and threw it at the entrance of the gate of the city, and raised over it a great heap of stones, which stands to this day.
 
-[30] Then Joshua built an altar to Yahweh the *Elohim* of Israel on Mount Ebal,
+[30] Then ⟦joshua|Yehoshua|Joshua⟧ built an altar to ⟦yhwh|Yahweh|the LORD⟧ the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧ on Mount ⟦ebal|Eival|Ebal⟧,
 
-[31] as Moses the servant of Yahweh had commanded the children of Israel, as it is written in the book of the Torah of Moses — an altar of uncut stones, on which no iron tool had been lifted. They offered on it burnt offerings to Yahweh, and sacrificed peace offerings.
+[31] as ⟦moses|Moshe|Moses⟧ the servant of ⟦yhwh|Yahweh|the LORD⟧ had commanded the children of ⟦israel|Yisrael|Israel⟧, as it is written in the book of the ⟦torah|Torah|Law⟧ of ⟦moses|Moshe|Moses⟧ — an altar of uncut stones, on which no iron tool had been lifted. They offered on it burnt offerings to ⟦yhwh|Yahweh|the LORD⟧, and sacrificed peace offerings.
 
-[32] There he wrote upon the stones a copy of the Torah of Moses, which he had written in the presence of the children of Israel.
+[32] There he wrote upon the stones a copy of the ⟦torah|Torah|law⟧ of ⟦moses|Moshe|Moses⟧, which he had written in the presence of the children of ⟦israel|Yisrael|Israel⟧.
 
-[33] All Israel — their elders, officers, and judges — stood on both sides of the ark, before the levitical priests who carried the ark of the covenant of Yahweh, the foreigner as well as the native-born. Half of them stood in front of Mount Gerizim, and half in front of Mount Ebal, as Moses the servant of Yahweh had commanded at first, to bless the people of Israel.
+[33] All ⟦israel|Yisrael|Israel⟧ — their elders, officers, and judges — stood on both sides of the ark, before the levitical priests who carried the ark of the covenant of ⟦yhwh|Yahweh|the LORD⟧, the foreigner as well as the native-born. Half of them stood in front of Mount Gerizim, and half in front of Mount ⟦ebal|Eival|Ebal⟧, as ⟦moses|Moshe|Moses⟧ the servant of ⟦yhwh|Yahweh|the LORD⟧ had commanded at first, to bless the people of ⟦israel|Yisrael|Israel⟧.
 
-[34] Afterward he read all the words of the Torah — the blessing and the curse — according to all that is written in the book of the Torah.
+[34] Afterward he read all the words of the ⟦torah|Torah|law⟧ — the blessing and the curse — according to all that is written in the book of the ⟦torah|Torah|Law⟧.
 
-[35] There was not a word of all that Moses had commanded that Joshua did not read before all the assembly of Israel, with the women, the little ones, and the foreigners who sojourned among them.
+[35] There was not a word of all that ⟦moses|Moshe|Moses⟧ had commanded that ⟦joshua|Yehoshua|Joshua⟧ did not read before all the assembly of ⟦israel|Yisrael|Israel⟧, with the women, the little ones, and the foreigners who sojourned among them.
 
 ## Changes
 

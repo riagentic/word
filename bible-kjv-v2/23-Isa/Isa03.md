@@ -1,7 +1,7 @@
 # Isaiah 3
 
-[1] For behold, Lord, Yahweh of Hosts,
-is taking away from Jerusalem and from Judah
+[1] For behold, Lord, ⟦yhwh|Yahweh|the LORD⟧ of Hosts,
+is taking away from ⟦jerusalem|Yerushalayim|Jerusalem⟧ and from ⟦judah|Yehudah|Judah⟧
 support and supply,
 all support of bread,
 and all support of water;
@@ -28,9 +28,9 @@ and the despised to the honorable.
 
 [7] in that day he will speak out, saying: "I will not be a healer; in my house there is neither bread nor cloak; you shall not make me leader of the people."
 
-[8] For Jerusalem has stumbled, and Judah has fallen, because their speech and their deeds are against Yahweh, defying the eyes of his glory.
+[8] For ⟦jerusalem|Yerushalayim|Jerusalem⟧ has stumbled, and ⟦judah|Yehudah|Judah⟧ has fallen, because their speech and their deeds are against ⟦yhwh|Yahweh|the LORD⟧, defying the eyes of his glory.
 
-[9] For the look on their faces bears witness against them; they proclaim their sin like Sodom; they do not hide it. Woe to them! For they have brought evil on themselves.
+[9] For the look on their faces bears witness against them; they proclaim their sin like ⟦sodom|Sedom|Sodom⟧; they do not hide it. Woe to them! For they have brought evil on themselves.
 
 [10] Tell the righteous that it shall be well with them,
 for they shall eat the fruit of their deeds.
@@ -43,30 +43,30 @@ and women rule over them.
 O my people, your guides mislead you
 and they swallow up the course of your paths.
 
-[13] Yahweh has taken his place to contend; he stands to judge peoples.
+[13] ⟦yhwh|Yahweh|The LORD⟧ has taken his place to contend; he stands to judge peoples.
 
-[14] Yahweh will enter into judgment with the elders and princes of his people:
+[14] ⟦yhwh|Yahweh|The LORD⟧ will enter into judgment with the elders and princes of his people:
 
 "It is you who have devoured the vineyard,
 the spoil of the poor is in your houses.
 
 [15] What do you mean by crushing my people,
 by grinding the face of the poor?"
-declares Lord, Yahweh of Hosts.
+declares ⟦adonai-yhwh|Lord, Yahweh|the Lord GOD⟧ of Hosts.
 
-[16] Yahweh said:
+[16] ⟦yhwh|Yahweh|The LORD⟧ said:
 
-"Because the daughters of Zion are haughty
+"Because the daughters of ⟦zion|Tziyon|Zion⟧ are haughty
 and walk with outstretched necks,
 glancing wantonly with their eyes,
 mincing along as they go,
 tinkling with their feet,
 
-[17] therefore Lord will strike with a scab
-the heads of the daughters of Zion,
-and Yahweh will lay bare their secret parts."
+[17] therefore ⟦adonai|Adonai|the Lord⟧ will strike with a scab
+the heads of the daughters of ⟦zion|Tziyon|Zion⟧,
+and ⟦yhwh|Yahweh|the LORD⟧ will lay bare their secret parts."
 
-[18] In that day Yahweh will take away the finery of the anklets, the headbands, and the crescents;
+[18] In that day ⟦adonai|Adonai|the Lord⟧ will take away the finery of the anklets, the headbands, and the crescents;
 
 [19] the pendants, the bracelets, and the veils;
 
@@ -96,3 +96,4 @@ empty, she shall sit on the ground.
 - **"LORD of hosts" / "Lord GOD" → "Lord, Yahweh of Hosts"** (v1, v15) — Hebrew אֲדֹנָי יְהוָה צְבָאוֹת; both divine titles preserved.
 - **Poetic structure** — vv1-5, 10-12, 14-15, 24-26 set as verse; KJV prose mixed poetry and prose throughout.
 - **Archaic vocabulary modernized** — "tablet" style accessories in vv18-23 list given modern equivalents matching Hebrew terms for jewelry/clothing.
+- **"the Lord" → "Adonai"** (v18) — Hebrew אֲדֹנָי *Adonai* (MT), not the Tetragrammaton.

@@ -2,11 +2,11 @@
 
 [1] On that night the king could not sleep; so he ordered the Book of Records, the Chronicles, to be brought, and they were read before the king.
 
-[2] It was found written that Mordecai had reported concerning Bigthana and Teresh, two of the king's eunuchs, keepers of the threshold, who had sought to lay hands on King Ahasuerus.
+[2] It was found written that ⟦mordecai|Mordechai|Mordecai⟧ had reported concerning ⟦bigthan|Bigtana|Bigthana⟧ and Teresh, two of the king's eunuchs, keepers of the threshold, who had sought to lay hands on King ⟦ahasuerus|Achashverosh|Ahasuerus⟧.
 
-[3] The king said, "What honor and distinction has been conferred on Mordecai for this?" The king's young men who attended him said, "Nothing has been done for him."
+[3] The king said, "What honor and distinction has been conferred on ⟦mordecai|Mordechai|Mordecai⟧ for this?" The king's young men who attended him said, "Nothing has been done for him."
 
-[4] The king said, "Who is in the court?" Now Haman had just entered the outer court of the king's palace to speak to the king about having Mordecai hanged on the pole that he had prepared for him.
+[4] The king said, "Who is in the court?" Now Haman had just entered the outer court of the king's palace to speak to the king about having ⟦mordecai|Mordechai|Mordecai⟧ hanged on the pole that he had prepared for him.
 
 [5] The king's young men said to him, "Behold, Haman is standing in the court." The king said, "Let him come in."
 
@@ -18,15 +18,15 @@
 
 [9] Let the apparel and horse be given into the hand of one of the king's most noble officials; let them array the man whom the king delights to honor, bring him on horseback through the open square of the city, and proclaim before him, 'Thus shall it be done to the man whom the king delights to honor!'"
 
-[10] Then the king said to Haman, "Hurry; take the apparel and the horse, as you have said, and do just so to Mordecai the Jew who sits at the king's gate. Let nothing fail of all you have spoken."
+[10] Then the king said to Haman, "Hurry; take the apparel and the horse, as you have said, and do just so to ⟦mordecai|Mordechai|Mordecai⟧ the ⟦jew|Yehudi|Jew⟧ who sits at the king's gate. Let nothing fail of all you have spoken."
 
-[11] So Haman took the apparel and the horse; he arrayed Mordecai and brought him on horseback through the open square of the city, proclaiming before him, "Thus shall it be done to the man whom the king delights to honor!"
+[11] So Haman took the apparel and the horse; he arrayed ⟦mordecai|Mordechai|Mordecai⟧ and brought him on horseback through the open square of the city, proclaiming before him, "Thus shall it be done to the man whom the king delights to honor!"
 
-[12] Mordecai returned to the king's gate; but Haman hurried to his house, mourning, with his head covered.
+[12] ⟦mordecai|Mordechai|Mordecai⟧ returned to the king's gate; but Haman hurried to his house, mourning, with his head covered.
 
-[13] Haman told Zeresh his wife and all his friends everything that had befallen him. Then his wise men and Zeresh his wife said to him, "If Mordecai, before whom you have begun to fall, is of the seed of the Jews, you will not prevail against him but will surely fall before him."
+[13] Haman told Zeresh his wife and all his friends everything that had befallen him. Then his wise men and Zeresh his wife said to him, "If ⟦mordecai|Mordechai|Mordecai⟧, before whom you have begun to fall, is of the seed of the ⟦jews|Yehudim|Jews⟧, you will not prevail against him but will surely fall before him."
 
-[14] While they were still talking with him, the king's eunuchs arrived and hurried to bring Haman to the banquet that Esther had prepared.
+[14] While they were still talking with him, the king's eunuchs arrived and hurried to bring Haman to the banquet that ⟦esther|Ester|Esther⟧ had prepared.
 
 ## Changes
 

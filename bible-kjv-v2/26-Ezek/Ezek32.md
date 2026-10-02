@@ -1,8 +1,8 @@
 # Ezekiel 32
 
-[1] In the twelfth year, in the twelfth month, on the first day of the month, the word of Yahweh came to me:
+[1] In the twelfth year, in the twelfth month, on the first day of the month, the word of ⟦yhwh|Yahweh|the LORD⟧ came to me:
 
-[2] "Son of man, raise a lamentation over Pharaoh king of Egypt and say to him:
+[2] "Son of man, raise a lamentation over ⟦pharaoh|Paroh|Pharaoh⟧ king of ⟦egypt|Mitzrayim|Egypt⟧ and say to him:
 
 "You consider yourself a lion of the nations,
 but you are like a dragon in the seas;
@@ -10,7 +10,7 @@ you burst forth in your rivers,
 trouble the waters with your feet,
 and foul their rivers.
 
-[3] "Thus says Lord Yahweh:
+[3] "Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧:
 
 "I will throw my net over you
 with a host of many peoples,
@@ -36,7 +36,7 @@ and the moon shall not give its light.
 [8] All the bright lights of heaven
 will I make dark over you,
 and put darkness on your land,
-declares Lord Yahweh.
+declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.
 
 [9] I will trouble the hearts of many peoples,
 when I bring your destruction among the nations,
@@ -49,30 +49,30 @@ They shall tremble every moment,
 every one for his own life,
 on the day of your downfall."
 
-[11] For thus says Lord Yahweh: "The sword of the king of Babylon shall come upon you.
+[11] For thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: "The sword of the king of ⟦babylon|Bavel|Babylon⟧ shall come upon you.
 
-[12] I will cause your multitude to fall by the swords of mighty ones, all of them most ruthless of nations. They shall bring to ruin the pride of Egypt, and all its multitude shall perish.
+[12] I will cause your multitude to fall by the swords of mighty ones, all of them most ruthless of nations. They shall bring to ruin the pride of ⟦egypt|Mitzrayim|Egypt⟧, and all its multitude shall perish.
 
 [13] I will destroy all its beasts from beside many waters; and no foot of man shall trouble them anymore, nor shall the hoofs of beasts trouble them.
 
-[14] Then I will make their waters clear, and cause their rivers to run like oil, declares Lord Yahweh.
+[14] Then I will make their waters clear, and cause their rivers to run like oil, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.
 
-[15] When I make the land of Egypt desolate, and when the land is desolate of all that fills it, when I strike down all who dwell in it, then they will know that I am Yahweh.
+[15] When I make the land of ⟦egypt|Mitzrayim|Egypt⟧ desolate, and when the land is desolate of all that fills it, when I strike down all who dwell in it, then they will know that I am ⟦yhwh|Yahweh|the LORD⟧.
 
-[16] "This is a lamentation that shall be chanted; the daughters of the nations shall chant it; over Egypt, and over all her multitude, shall they chant it, declares Lord Yahweh."
+[16] "This is a lamentation that shall be chanted; the daughters of the nations shall chant it; over ⟦egypt|Mitzrayim|Egypt⟧, and over all her multitude, shall they chant it, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧."
 
-[17] In the twelfth year, in the first month, on the fifteenth day of the month, the word of Yahweh came to me:
+[17] In the twelfth year, in the first month, on the fifteenth day of the month, the word of ⟦yhwh|Yahweh|the LORD⟧ came to me:
 
-[18] "Son of man, wail over the multitude of Egypt, and send them down, her and the daughters of majestic nations, to the world below, to those who have gone down to the pit:
+[18] "Son of man, wail over the multitude of ⟦egypt|Mitzrayim|Egypt⟧, and send them down, her and the daughters of majestic nations, to the world below, to those who have gone down to the pit:
 
 [19] 'Whom do you surpass in beauty?
 Go down and be laid with the uncircumcised.'
 
-[20] "They shall fall amid those who are slain by the sword. Egypt is delivered to the sword; drag her away, and all her multitudes.
+[20] "They shall fall amid those who are slain by the sword. ⟦egypt|Mitzrayim|Egypt⟧ is delivered to the sword; drag her away, and all her multitudes.
 
 [21] The mighty chiefs shall speak of them, with their helpers, out of the midst of Sheol: 'They have come down, they lie still, the uncircumcised, slain by the sword.'
 
-[22] "Assyria is there, and all her company, its graves all around it, all of them slain, fallen by the sword,
+[22] "⟦assyria|Ashur|Assyria⟧ is there, and all her company, its graves all around it, all of them slain, fallen by the sword,
 
 [23] whose graves are set in the uttermost parts of the pit; and her company is all around her grave, all of them slain, fallen by the sword, who spread terror in the land of the living.
 
@@ -80,7 +80,7 @@ Go down and be laid with the uncircumcised.'
 
 [25] They have made her a bed among the slain with all her multitude, her graves all around it, all of them uncircumcised, slain by the sword; for terror of them was spread in the land of the living; and they bear their shame with those who go down to the pit; they are placed among the slain.
 
-[26] "Meshech-Tubal is there, and all her multitude, her graves all around it, all of them uncircumcised, slain by the sword; for they spread their terror in the land of the living.
+[26] "⟦tubal|Meshech-Tuval|Meshech-Tubal⟧ is there, and all her multitude, her graves all around it, all of them uncircumcised, slain by the sword; for they spread their terror in the land of the living.
 
 [27] And they do not lie with the mighty, the fallen from among the uncircumcised, who went down to Sheol with their weapons of war, whose swords were laid under their heads, and whose iniquities were upon their bones; for the terror of the mighty men was in the land of the living.
 
@@ -88,11 +88,11 @@ Go down and be laid with the uncircumcised.'
 
 [29] "Edom is there, her kings and all her princes, who for all their might are laid with those who are killed by the sword; they lie with the uncircumcised, with those who go down to the pit.
 
-[30] "The princes of the north are there, all of them, and all the Sidonians, who have gone down in shame with the slain, for all the terror that they caused by their might; they lie uncircumcised with those who are slain by the sword, and bear their shame with those who go down to the pit.
+[30] "The princes of the north are there, all of them, and all the ⟦sidonians|Tzidonim|Sidonians⟧, who have gone down in shame with the slain, for all the terror that they caused by their might; they lie uncircumcised with those who are slain by the sword, and bear their shame with those who go down to the pit.
 
-[31] "When Pharaoh sees them, he will be comforted for all his multitude, Pharaoh and all his army, slain by the sword, declares Lord Yahweh.
+[31] "When ⟦pharaoh|Paroh|Pharaoh⟧ sees them, he will be comforted for all his multitude, ⟦pharaoh|Paroh|Pharaoh⟧ and all his army, slain by the sword, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.
 
-[32] For I spread terror in the land of the living; and he shall be laid to rest among the uncircumcised, with those who are slain by the sword, Pharaoh and all his multitude, declares Lord Yahweh."
+[32] For I spread terror in the land of the living; and he shall be laid to rest among the uncircumcised, with those who are slain by the sword, ⟦pharaoh|Paroh|Pharaoh⟧ and all his multitude, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧."
 
 ## Changes
 

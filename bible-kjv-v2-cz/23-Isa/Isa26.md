@@ -1,6 +1,6 @@
 # Izajáš 26
 
-[1] V onen den se bude v zemi Judah zpívat tato píseň:
+[1] V onen den se bude v zemi ⟦judah|Jehuda|Juda⟧ zpívat tato píseň:
 
 „Máme silné město;
 spásu staví jako hradby a náspy.
@@ -8,12 +8,12 @@ spásu staví jako hradby a náspy.
 [2] Otevřete brány,
 ať vejde spravedlivý národ, který zachovává věrnost.
 
-[3] Chráníš ho v shalom shalom – dokonalém pokoji –
+[3] Chráníš ho v ⟦shalom|šalom šalom – dokonalém pokoji –|dokonalém pokoji⟧
 toho, jehož mysl spočívá na tobě,
 protože v tebe doufá.
 
-[4] Doufejte v Yahweh navěky,
-neboť Yah Yahweh je věčná Skála.
+[4] Doufejte v ⟦yhwh|Jahveho|Hospodina⟧ navěky,
+neboť ⟦yah|Jah|Hospodin⟧ ⟦yhwh|Jahve|Hospodin⟧ je věčná Skála.
 
 [5] Neboť ponížil obyvatele výšiny,
 vyvýšené město.
@@ -28,7 +28,7 @@ kroky nuzných.“
 Přímý, ty urovnáváš cestu spravedlivého.
 
 [8] Na stezce tvých soudů,
-Yahweh, čekáme na tebe;
+⟦yhwh|Jahve|Hospodine⟧, čekáme na tebe;
 tvé jméno a připomínka tebe
 jsou touhou naší duše.
 
@@ -40,17 +40,17 @@ obyvatelé světa se učí spravedlnosti.
 [10] Prokáže-li se přízeň svévolníkovi,
 nenaučí se spravedlnosti;
 v zemi přímosti jedná zvráceně
-a nevidí velebnost Yahweh.
+a nevidí velebnost ⟦yhwh|Jahveho|Hospodina⟧.
 
-[11] Yahweh, tvá ruka je pozdvižena,
+[11] ⟦yhwh|Jahve|Hospodine⟧, tvá ruka je pozdvižena,
 ale oni ji nevidí.
 Ať uvidí tvou horlivost pro tvůj lid a zastydí se.
 Ať je stráví oheň připravený pro tvé protivníky.
 
-[12] Yahweh, ty nám ustanovíš pokoj,
+[12] ⟦yhwh|Jahve|Hospodine⟧, ty nám ustanovíš pokoj,
 neboť všechna naše díla jsi pro nás vskutku vykonal ty.
 
-[13] Yahweh, náš *Elohim*,
+[13] ⟦yhwh|Jahve|Hospodine⟧, náš ⟦elohim|Elohim|Bože⟧,
 jiní páni kromě tebe nad námi vládli,
 ale jen tvé jméno připomínáme.
 
@@ -59,18 +59,18 @@ jsou stíny, nepovstanou;
 proto jsi je navštívil zkázou
 a vymazal všechnu vzpomínku na ně.
 
-[15] Ale ty jsi rozmnožil národ, Yahweh,
+[15] Ale ty jsi rozmnožil národ, ⟦yhwh|Jahve|Hospodine⟧,
 rozmnožil jsi národ; jsi oslaven;
 rozšířil jsi všechny hranice země.
 
-[16] Yahweh, v tísni tě hledali;
+[16] ⟦yhwh|Jahve|Hospodine⟧, v tísni tě hledali;
 vylévali šeptanou modlitbu,
 když na nich bylo tvé kárání.
 
 [17] Jako těhotná žena,
 která se svíjí a křičí ve svých bolestech,
 když se blíží porod,
-tak jsme byli my kvůli tobě, Yahweh;
+tak jsme byli my kvůli tobě, ⟦yhwh|Jahve|Hospodine⟧;
 
 [18] byli jsme těhotní, svíjeli jsme se,
 ale porodili jsme vítr.
@@ -88,7 +88,7 @@ a zavři za sebou své dveře;
 skryj se na malou chvíli,
 dokud nepřejde rozhořčení.
 
-[21] Neboť hle, Yahweh vychází ze svého místa,
+[21] Neboť hle, ⟦yhwh|Jahve|Hospodin⟧ vychází ze svého místa,
 aby potrestal obyvatele země za jejich nepravost,
 a země odkryje krev na ní prolitou
 a už nebude přikrývat své zabité.

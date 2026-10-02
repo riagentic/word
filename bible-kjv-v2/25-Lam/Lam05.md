@@ -1,6 +1,6 @@
 # Lamentations 5
 
-[1] Remember, O Yahweh, what has befallen us;
+[1] Remember, O ⟦yhwh|Yahweh|LORD⟧, what has befallen us;
 look, and see our disgrace!
 
 [2] Our inheritance has been turned over to strangers,
@@ -15,7 +15,7 @@ the wood we get must be bought.
 [5] Our pursuers are at our necks;
 we are weary; we are given no rest.
 
-[6] We have given the hand to Egypt, and to Assyria,
+[6] We have given the hand to ⟦egypt|Mitzrayim|Egypt⟧, and to ⟦assyria|Ashur|Assyria⟧,
 to get bread enough.
 
 [7] Our fathers sinned, and are no more;
@@ -30,8 +30,8 @@ because of the sword in the wilderness.
 [10] Our skin is hot as an oven
 with the burning heat of famine.
 
-[11] Women are raped in Zion,
-young women in the towns of Judah.
+[11] Women are raped in ⟦zion|Tziyon|Zion⟧,
+young women in the towns of ⟦judah|Yehudah|Judah⟧.
 
 [12] Princes are hung up by their hands;
 no respect is shown to the elders.
@@ -51,16 +51,16 @@ woe to us, for we have sinned!
 [17] For this our heart has become sick,
 for these things our eyes have grown dim,
 
-[18] for Mount Zion which lies desolate;
+[18] for Mount ⟦zion|Tziyon|Zion⟧ which lies desolate;
 jackals prowl over it.
 
-[19] But you, O Yahweh, reign forever;
+[19] But you, O ⟦yhwh|Yahweh|LORD⟧, reign forever;
 your throne endures from generation to generation.
 
 [20] Why do you forget us forever,
 why do you forsake us for so many days?
 
-[21] Restore us to yourself, O Yahweh, that we may be restored!
+[21] Restore us to yourself, O ⟦yhwh|Yahweh|LORD⟧, that we may be restored!
 Renew our days as of old —
 
 [22] unless you have utterly rejected us,

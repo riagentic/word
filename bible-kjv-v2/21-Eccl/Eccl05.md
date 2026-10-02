@@ -1,18 +1,18 @@
 # Ecclesiastes 5
 
-[1] Guard your steps when you go to the house of *Elohim*. To draw near to listen is better than to offer the sacrifice of fools, for they do not know that they are doing evil.
+[1] Guard your steps when you go to the house of ⟦elohim|Elohim|God⟧. To draw near to listen is better than to offer the sacrifice of fools, for they do not know that they are doing evil.
 
-[2] Be not rash with your mouth, nor let your heart be hasty to utter a word before *Elohim*, for *Elohim* is in heaven and you are on earth; therefore let your words be few.
+[2] Be not rash with your mouth, nor let your heart be hasty to utter a word before ⟦elohim|Elohim|God⟧, for ⟦elohim|Elohim|God⟧ is in heaven and you are on earth; therefore let your words be few.
 
 [3] For a dream comes with much business, and a fool's voice with many words.
 
-[4] When you vow a vow to *Elohim*, do not delay paying it, for he has no pleasure in fools. Pay what you vow.
+[4] When you vow a vow to ⟦elohim|Elohim|God⟧, do not delay paying it, for he has no pleasure in fools. Pay what you vow.
 
 [5] It is better that you should not vow than that you should vow and not pay.
 
-[6] Let not your mouth lead your flesh into sin, and do not say before the messenger that it was a mistake. Why should *Elohim* be angry at your voice and destroy the work of your hands?
+[6] Let not your mouth lead your flesh into sin, and do not say before the messenger that it was a mistake. Why should ⟦elohim|Elohim|God⟧ be angry at your voice and destroy the work of your hands?
 
-[7] For when dreams increase and words grow many, there is vanity; but fear *Elohim*.
+[7] For when dreams increase and words grow many, there is vanity; but fear ⟦elohim|Elohim|God⟧.
 
 [8] If you see in a province the oppression of the poor and the violation of justice and righteousness, do not be amazed at the matter, for the high official is watched by a higher, and there are yet higher ones over them.
 
@@ -40,11 +40,11 @@ but the full stomach of the rich will not let him sleep.
 
 [17] Moreover, all his days he eats in darkness in much vexation and sickness and anger.
 
-[18] Behold, what I have seen to be good and fitting is to eat and drink and find enjoyment in all the toil with which one toils under the sun the few days of his life that *Elohim* has given him, for this is his lot.
+[18] Behold, what I have seen to be good and fitting is to eat and drink and find enjoyment in all the toil with which one toils under the sun the few days of his life that ⟦elohim|Elohim|God⟧ has given him, for this is his lot.
 
-[19] Everyone also to whom *Elohim* has given wealth and possessions and power to enjoy them, and to accept his lot and rejoice in his toil — this is the gift of *Elohim*.
+[19] Everyone also to whom ⟦elohim|Elohim|God⟧ has given wealth and possessions and power to enjoy them, and to accept his lot and rejoice in his toil — this is the gift of ⟦elohim|Elohim|God⟧.
 
-[20] For he will not much remember the days of his life because *Elohim* keeps him occupied with joy in his heart.
+[20] For he will not much remember the days of his life because ⟦elohim|Elohim|God⟧ keeps him occupied with joy in his heart.
 
 ## Changes
 

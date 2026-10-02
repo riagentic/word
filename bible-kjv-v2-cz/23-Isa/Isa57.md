@@ -47,7 +47,7 @@ hleděla jsi na nahotu.
 [9] Putovala jsi ke králi s olejem
 a rozhojnila jsi své voňavky;
 posílala jsi své posly daleko
-a sestoupila jsi až do Sheol.
+a sestoupila jsi až do ⟦sheol|Šeolu|podsvětí⟧.
 
 [10] Unavila ses délkou své cesty,
 ale neřekla jsi: „Je to beznadějné“;
@@ -85,7 +85,7 @@ a oživil srdce zkroušených.
 [16] Neboť nebudu se přít navěky
 ani se stále hněvat;
 vždyť by přede mnou ochabl duch
-i neshamot – dechy/duše –, které jsem učinil.
+i ⟦neshamah|nešamot – dechy/duše –|dechy života⟧, které jsem učinil.
 
 [17] Pro vinu jeho nepoctivého zisku jsem se rozhněval,
 bil jsem ho; skryl jsem tvář a hněval jsem se,
@@ -96,13 +96,13 @@ povedu ho a navrátím útěchu jemu i jeho truchlícím,
 
 [19] tvoře ovoce rtů.
 Pokoj, pokoj vzdálenému i blízkému,“
-praví Yahweh, „a uzdravím ho.
+praví ⟦yhwh|Jahve|Hospodin⟧, „a uzdravím ho.
 
 [20] Svévolníci však jsou jako zmítané moře;
 neboť se nemůže utišit
 a jeho vody vyvrhují bahno a kal.
 
-[21] Není pokoje,“ praví můj *Elohim*, „pro svévolníky.“
+[21] Není pokoje,“ praví můj ⟦elohim|Elohim|Bůh⟧, „pro svévolníky.“
 
 ## Změny
 

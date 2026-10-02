@@ -1,28 +1,28 @@
 # Exodus 33
 
-[1] Yahweh said to Moses, "Depart, go up from here, you and the people whom you have brought up out of the land of Egypt, to the land of which I swore to Abraham, Isaac, and Jacob, saying, 'To your offspring I will give it.'
+[1] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Depart, go up from here, you and the people whom you have brought up out of the land of ⟦egypt|Mitzrayim|Egypt⟧, to the land of which I swore to ⟦abraham|Avraham|Abraham⟧, ⟦isaac|Yitzchaq|Isaac⟧, and ⟦jacob|Yaaqov|Jacob⟧, saying, 'To your offspring I will give it.'
 
-[2] I will send a messenger before you, and I will drive out the Canaanite, the Amorite, the Hittite, the Perizzite, the Hivite, and the Jebusite.
+[2] I will send a messenger before you, and I will drive out the ⟦canaanites|Kenaani|Canaanite⟧, the ⟦amorite|Emori|Amorite⟧, the ⟦hittite|Chitti|Hittite⟧, the ⟦perizzite|Perizzi|Perizzite⟧, the ⟦hivite|Chivvi|Hivite⟧, and the ⟦jebusite|Yevusi|Jebusite⟧.
 
 [3] Go up to a land flowing with milk and honey; but I will not go up in your midst, because you are a stiff-necked people, lest I consume you on the way."
 
 [4] When the people heard these evil tidings, they mourned, and no one put on his ornaments.
 
-[5] For Yahweh had said to Moses, "Say to the children of Israel, 'You are a stiff-necked people; if I should go up in your midst for a single moment, I would consume you. So now take off your ornaments from you, that I may know what to do with you.'"
+[5] For ⟦yhwh|Yahweh|the LORD⟧ had said to ⟦moses|Moshe|Moses⟧, "Say to the children of ⟦israel|Yisrael|Israel⟧, 'You are a stiff-necked people; if I should go up in your midst for a single moment, I would consume you. So now take off your ornaments from you, that I may know what to do with you.'"
 
-[6] So the children of Israel stripped themselves of their ornaments, from Mount Horeb onward.
+[6] So the children of ⟦israel|Yisrael|Israel⟧ stripped themselves of their ornaments, from Mount ⟦horeb|Chorev|Horeb⟧ onward.
 
-[7] Moses used to take the tent and pitch it outside the camp, far off from the camp, and he called it the Tent of Meeting. Everyone who sought Yahweh would go out to the Tent of Meeting that was outside the camp.
+[7] ⟦moses|Moshe|Moses⟧ used to take the tent and pitch it outside the camp, far off from the camp, and he called it the Tent of Meeting. Everyone who sought ⟦yhwh|Yahweh|the LORD⟧ would go out to the Tent of Meeting that was outside the camp.
 
-[8] Whenever Moses went out to the tent, all the people would rise and stand, each at the entrance of his tent, and look at Moses until he had gone into the tent.
+[8] Whenever ⟦moses|Moshe|Moses⟧ went out to the tent, all the people would rise and stand, each at the entrance of his tent, and look at ⟦moses|Moshe|Moses⟧ until he had gone into the tent.
 
-[9] When Moses entered the tent, the pillar of cloud would descend and stand at the entrance of the tent, and Yahweh would speak with Moses.
+[9] When ⟦moses|Moshe|Moses⟧ entered the tent, the pillar of cloud would descend and stand at the entrance of the tent, and ⟦yhwh|Yahweh|the LORD⟧ would speak with ⟦moses|Moshe|Moses⟧.
 
 [10] When all the people saw the pillar of cloud standing at the entrance of the tent, all the people would rise and worship, each at the entrance of his tent.
 
-[11] Yahweh would speak with Moses face to face, as a man speaks with his friend. Then Moses would return to the camp; but his attendant Joshua son of Nun, a young man, would not depart from the tent.
+[11] ⟦yhwh|Yahweh|The LORD⟧ would speak with ⟦moses|Moshe|Moses⟧ face to face, as a man speaks with his friend. Then ⟦moses|Moshe|Moses⟧ would return to the camp; but his attendant ⟦joshua|Yehoshua|Joshua⟧ son of Nun, a young man, would not depart from the tent.
 
-[12] Moses said to Yahweh, "See, you say to me, 'Bring up this people'; but you have not let me know whom you will send with me. Yet you have said, 'I know you by name, and you have also found favor in my sight.'
+[12] ⟦moses|Moshe|Moses⟧ said to ⟦yhwh|Yahweh|the LORD⟧, "See, you say to me, 'Bring up this people'; but you have not let me know whom you will send with me. Yet you have said, 'I know you by name, and you have also found favor in my sight.'
 
 [13] Now therefore, if I have found favor in your sight, please show me your ways, that I may know you and continue to find favor in your sight. And consider that this nation is your people."
 
@@ -32,15 +32,15 @@
 
 [16] For how then shall it be known that I have found favor in your sight, I and your people? Is it not in your going with us, so that we are distinct — I and your people — from all the peoples on the face of the earth?"
 
-[17] Yahweh said to Moses, "This very thing that you have spoken, I will do; for you have found favor in my sight, and I know you by name."
+[17] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "This very thing that you have spoken, I will do; for you have found favor in my sight, and I know you by name."
 
 [18] Then he said, "Please show me your glory."
 
-[19] He said, "I will make all my goodness pass before you, and I will proclaim before you the name of Yahweh; I will be gracious to whom I will be gracious, and I will show compassion on whom I will show compassion."
+[19] He said, "I will make all my goodness pass before you, and I will proclaim before you the name of ⟦yhwh|Yahweh|the LORD⟧; I will be gracious to whom I will be gracious, and I will show compassion on whom I will show compassion."
 
 [20] But he said, "You cannot see my face; for no human can see me and live."
 
-[21] Yahweh said, "Behold, there is a place by me; you shall stand on the rock,
+[21] ⟦yhwh|Yahweh|The LORD⟧ said, "Behold, there is a place by me; you shall stand on the rock,
 
 [22] and while my glory passes by, I will put you in the cleft of the rock, and I will cover you with my hand until I have passed by.
 

@@ -1,6 +1,6 @@
 # Jób 11
 
-[1] Tu odpověděl Zophar Naamatský a řekl:
+[1] Tu odpověděl ⟦zophar|Cofar|Sófar⟧ ⟦naamathite|Naamati|Naamatský⟧ a řekl:
 
 [2] „Nemá snad být tomuto množství slov odpovězeno?
 Má mít upovídaný muž pravdu?
@@ -11,19 +11,19 @@ Když se posmíváš, nikdo tě nezahanbí?
 [4] Vždyť říkáš: ‚Mé učení je ryzí
 a v tvých očích jsem čistý.‘
 
-[5] Ale kéž by Eloah promluvil
+[5] Ale kéž by ⟦eloah|Eloah|Bůh⟧ promluvil
 a otevřel proti tobě své rty
 
 [6] a pověděl ti tajemství moudrosti,
 neboť moudrost je mnohostranná!
-Věz tedy, že Eloah od tebe vymáhá
+Věz tedy, že ⟦eloah|Eloah|Bůh⟧ od tebe vymáhá
 méně, než zaslouží tvá nepravost.
 
-[7] Dokážeš vyzpytovat hlubiny Eloah?
-Dokážeš dosáhnout hranice Shaddaie?
+[7] Dokážeš vyzpytovat hlubiny ⟦eloah|Eloah|Boží⟧?
+Dokážeš dosáhnout hranice ⟦shaddai|Šaddaje|Všemohoucího⟧?
 
 [8] Je to vyšší než nebesa – co zmůžeš?
-Hlubší než Sheol – co můžeš vědět?
+Hlubší než ⟦sheol|Šeol|podsvětí⟧ – co můžeš vědět?
 
 [9] Jeho míra je delší než země
 a širší než moře.

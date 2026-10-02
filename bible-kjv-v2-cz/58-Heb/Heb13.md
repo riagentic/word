@@ -6,19 +6,19 @@
 
 [3] Pamatujte na vězně, jako byste byli uvězněni s nimi, a na ty, s nimiž se zle zachází, protože i vy jste v těle.
 
-[4] Manželství ať mají všichni v úctě a manželské lože ať je neposkvrněné, neboť smilníky a cizoložníky bude soudit *Elohim*.
+[4] Manželství ať mají všichni v úctě a manželské lože ať je neposkvrněné, neboť smilníky a cizoložníky bude soudit ⟦elohim|Elohim|Bůh⟧.
 
 [5] Váš život ať je prostý lásky k penězům a buďte spokojeni s tím, co máte, neboť on sám řekl: „**Nikdy tě neopustím ani tě nezanechám**.“
 
 [6] Proto můžeme s důvěrou říkat:
 
-„**Pán je můj pomocník;
+„**⟦yhwh|Jahve|Pán⟧ je můj pomocník;
 nebudu se bát;
 co mi může udělat člověk?**“
 
-[7] Pamatujte na své vedoucí, kteří vám mluvili slovo *Elohim*. Hleďte na výsledek jejich způsobu života a napodobujte jejich víru.
+[7] Pamatujte na své vedoucí, kteří vám mluvili slovo ⟦elohim|Elohim|Boží⟧. Hleďte na výsledek jejich způsobu života a napodobujte jejich víru.
 
-[8] ***Yeshua* *Mashiach* je tentýž včera i dnes i navěky.**
+[8] **⟦yeshua|Ješua|Ježíš⟧ ⟦mashiach|Mašiach|Kristus⟧ je tentýž včera i dnes i navěky.**
 
 [9] Nedejte se strhnout rozmanitými a cizími učeními, neboť je dobré, aby srdce bylo posilováno milostí, a ne pokrmy, které neprospěly těm, kdo se jim oddávali.
 
@@ -26,15 +26,15 @@ co mi může udělat člověk?**“
 
 [11] Těla zvířat, jejichž krev vnáší velekněz do svatyně jako oběť za hřích, se totiž spalují venku za táborem.
 
-[12] Proto i *Yeshua* trpěl venku za branou, aby svou vlastní krví posvětil lid.
+[12] Proto i ⟦yeshua|Ješua|Ježíš⟧ trpěl venku za branou, aby svou vlastní krví posvětil lid.
 
 [13] Vyjděme tedy k němu ven za tábor a nesme potupu, kterou snášel on.
 
 [14] Nemáme zde totiž trvalé město, ale hledáme to budoucí.
 
-[15] Skrze něho tedy ustavičně přinášejme *Elohim* oběť chvály, to jest ovoce rtů, které vyznávají jeho jméno.
+[15] Skrze něho tedy ustavičně přinášejme ⟦elohim|Elohim|Bohu⟧ oběť chvály, to jest ovoce rtů, které vyznávají jeho jméno.
 
-[16] Nezanedbávejte dobročinnost a sdílení toho, co máte, neboť takové oběti se *Elohim* líbí.
+[16] Nezanedbávejte dobročinnost a sdílení toho, co máte, neboť takové oběti se ⟦elohim|Elohim|Bohu⟧ líbí.
 
 [17] Poslouchejte své vedoucí a podřizujte se jim, neboť bdí nad vašimi dušemi jako ti, kdo budou skládat účty. Ať to mohou konat s radostí, a ne s nářkem, neboť to by vám nebylo k užitku.
 
@@ -42,15 +42,15 @@ co mi může udělat člověk?**“
 
 [19] O to naléhavěji vás prosím, abyste to činili, abych vám byl co nejdříve navrácen.
 
-[20] *Elohim* pokoje, který vyvedl z mrtvých našeho Pána *Yeshuu*, velikého pastýře ovcí, krví věčné smlouvy,
+[20] ⟦elohim|Elohim|Bůh⟧ pokoje, který vyvedl z mrtvých našeho Pána ⟦yeshua|Ješuu|Ježíše⟧, velikého pastýře ovcí, krví věčné smlouvy,
 
-[21] ať vás vystrojí vším dobrým, abyste činili jeho vůli, a ať v nás působí to, co je milé před ním, skrze *Yeshuu* *Mashiacha*, jemuž buď sláva na věky věků. Amen.
+[21] ať vás vystrojí vším dobrým, abyste činili jeho vůli, a ať v nás působí to, co je milé před ním, skrze ⟦yeshua|Ješuu|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧, jemuž buď sláva na věky věků. Amen.
 
 [22] Prosím vás, bratři, snášejte toto slovo povzbuzení, neboť jsem vám napsal jen krátce.
 
-[23] Vězte, že náš bratr Timothy byl propuštěn; přijde-li brzy, uvidím se s vámi spolu s ním.
+[23] Vězte, že náš bratr ⟦timothy|Timotheos|Timoteus⟧ byl propuštěn; přijde-li brzy, uvidím se s vámi spolu s ním.
 
-[24] Pozdravujte všechny své vedoucí a všechny svaté. Pozdravují vás ti, kdo jsou z Italy.
+[24] Pozdravujte všechny své vedoucí a všechny svaté. Pozdravují vás ti, kdo jsou z ⟦italy|Italie|Itálie⟧.
 
 [25] Milost se všemi vámi.
 

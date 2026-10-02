@@ -1,43 +1,43 @@
 # Micheáš 6
 
-[1] Slyšte, co praví Yahweh:
+[1] Slyšte, co praví ⟦yhwh|Jahve|Hospodin⟧:
 Vstaň, veď svůj spor před horami
 a ať pahorky slyší tvůj hlas.
 
-[2] Slyšte, hory, spor Yahweh,
+[2] Slyšte, hory, spor ⟦yhwh|Jahveho|Hospodina⟧,
 i vy, trvalé základy země,
-neboť Yahweh má při se svým lidem
-a bude se přít s Israelem.
+neboť ⟦yhwh|Jahve|Hospodin⟧ má při se svým lidem
+a bude se přít s ⟦israel|Jisraelem|Izraelem⟧.
 
 [3] „Můj lide, co jsem ti udělal?
 Čím jsem tě unavil? Odpověz mi!
 
-[4] Vždyť jsem tě vyvedl z egyptské země
+[4] Vždyť jsem tě vyvedl ⟦egypt|ze země Micrajim|z egyptské země⟧
 a vykoupil jsem tě z domu otroctví
-a poslal jsem před tebou Mosese, Aarona a Miriam.
+a poslal jsem před tebou ⟦moses|Moše|Mojžíše⟧, ⟦aaron|Aharona|Árona⟧ a Mirjam.
 
-[5] Můj lide, vzpomeň si, co zamýšlel Balak, král Moabu,
-a co mu odpověděl Balaam, syn Beorův,
-a co se stalo od Shittimu až do Gilgalu,
-abys poznal spravedlivé činy Yahweh.“
+[5] Můj lide, vzpomeň si, co zamýšlel ⟦balak|Balak|Balák⟧, král ⟦moab|Moavu|Moábu⟧,
+a co mu odpověděl ⟦balaam|Bilam|Bileám⟧, syn ⟦beor|Beorův|Beórův⟧,
+a co se stalo od ⟦shittim|Šittimu|Šitímu⟧ až do ⟦gilgal|Gilgalu|Gilgálu⟧,
+abys poznal spravedlivé činy ⟦yhwh|Jahveho|Hospodina⟧.“
 
-[6] „S čím mám předstoupit před Yahweh
-a poklonit se *Elohim* na výsostech?
+[6] „S čím mám předstoupit před ⟦yhwh|Jahveho|Hospodina⟧
+a poklonit se ⟦elohim|Elohim|Bohu⟧ na výsostech?
 Mám před něho předstoupit se zápalnými oběťmi,
 s ročními telaty?
 
-[7] Zalíbí se Yahweh tisíce beranů,
+[7] Zalíbí se ⟦yhwh|Jahvovi|Hospodinu⟧ tisíce beranů,
 desetitisíce řek oleje?
 Mám dát svého prvorozeného za své přestoupení,
 plod svého těla za hřích své duše?“
 
 [8] **Oznámil ti, člověče, co je dobré;
-a co od tebe Yahweh žádá,
+a co od tebe ⟦yhwh|Jahve|Hospodin⟧ žádá,
 než abys konal právo
-a miloval věrnou lásku
-a pokorně chodil se svým *Elohim*?**
+a miloval ⟦steadfast-love|chesed|milosrdenství⟧
+a pokorně chodil se svým ⟦elohim|Elohim|Bohem⟧?**
 
-[9] Hlas Yahweh volá k městu –
+[9] Hlas ⟦yhwh|Jahveho|Hospodina⟧ volá k městu –
 a je to pravá moudrost bát se tvého jména:
 „Slyšte o holi a o tom, kdo ji ustanovil!
 
@@ -63,8 +63,8 @@ a co zachráníš, vydám meči.
 budeš šlapat olivy, ale olejem se nepomažeš;
 budeš šlapat hrozny, ale víno pít nebudeš.
 
-[16] Neboť jsi zachovával ustanovení Omriho
-a všechny skutky domu Ahabova;
+[16] Neboť jsi zachovával ustanovení ⟦omri|Omriho|Omrího⟧
+a všechny skutky domu ⟦ahab|Achavova|Achabova⟧;
 a chodil jsi podle jejich rad,
 abych tě učinil pustinou a tvé obyvatele předmětem posměšného syčení;
 tak ponesete potupu mého lidu.“

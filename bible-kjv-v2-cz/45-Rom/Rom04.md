@@ -1,52 +1,52 @@
 # Římanům 4
 
-[1] Co tedy řekneme, že získal Abraham, náš praotec podle těla?
+[1] Co tedy řekneme, že získal ⟦abraham|Avraham|Abraham⟧, náš praotec podle těla?
 
-[2] Byl-li totiž Abraham ospravedlněn ze skutků, má se čím chlubit, ale ne před *Elohim*.
+[2] Byl-li totiž ⟦abraham|Avraham|Abraham⟧ ospravedlněn ze skutků, má se čím chlubit, ale ne před ⟦elohim|Elohim|Bohem⟧.
 
-[3] Co totiž říká Písmo? „**Abraham uvěřil *Elohim*, a bylo mu to počítáno za spravedlnost**.“
+[3] Co totiž říká Písmo? „**⟦abraham|Avraham|Abraham⟧ uvěřil ⟦elohim|Elohim|Bohu⟧, a bylo mu to počítáno za spravedlnost**.“
 
 [4] Tomu, kdo pracuje, se mzda nepočítá jako dar, ale jako to, co mu náleží.
 
 [5] Tomu však, kdo nepracuje, ale věří v toho, který ospravedlňuje bezbožného, se jeho víra počítá za spravedlnost,
 
-[6] jak také David mluví o blahoslavenství člověka, jemuž *Elohim* počítá spravedlnost bez skutků:
+[6] jak také David mluví o blahoslavenství člověka, jemuž ⟦elohim|Elohim|Bůh⟧ počítá spravedlnost bez skutků:
 
 [7] „**Blahoslavení ti, jejichž bezzákonné činy jsou odpuštěny
 a jejichž hříchy jsou přikryty;
-[8] blahoslavený muž, jemuž Pán nebude počítat jeho hřích**.“
+[8] blahoslavený muž, jemuž ⟦yhwh|Jahve|Hospodin⟧ nebude počítat jeho hřích**.“
 
-[9] Týká se tedy toto blahoslavenství jen obřezaných, nebo i neobřezaných? Říkáme přece, že Abrahamovi byla víra počítána za spravedlnost.
+[9] Týká se tedy toto blahoslavenství jen obřezaných, nebo i neobřezaných? Říkáme přece, že ⟦abraham|Avrahamovi|Abrahamovi⟧ byla víra počítána za spravedlnost.
 
 [10] Jak mu tedy byla počítána? Když už byl obřezaný, nebo ještě před obřízkou? Ne až po obřízce, ale před ní.
 
 [11] Znamení obřízky přijal jako pečeť spravedlnosti z víry, kterou měl, ještě když byl neobřezaný. Účelem bylo, aby se stal otcem všech, kdo věří, aniž jsou obřezáni, aby i jim byla počítána spravedlnost,
 
-[12] a aby se stal otcem obřezaných, kteří nejsou jen obřezaní, ale kteří také kráčejí ve stopách víry, kterou měl náš otec Abraham ještě před obřízkou.
+[12] a aby se stal otcem obřezaných, kteří nejsou jen obřezaní, ale kteří také kráčejí ve stopách víry, kterou měl náš otec ⟦abraham|Avraham|Abraham⟧ ještě před obřízkou.
 
-[13] Zaslíbení Abrahamovi a jeho potomstvu, že bude dědicem světa, totiž nepřišlo skrze Torah, ale skrze spravedlnost víry.
+[13] Zaslíbení ⟦abraham|Avrahamovi|Abrahamovi⟧ a jeho potomstvu, že bude dědicem světa, totiž nepřišlo skrze ⟦torah|Tóru|zákon⟧, ale skrze spravedlnost víry.
 
-[14] Jestliže totiž dědici mají být stoupenci Torah, je víra vyprázdněna a zaslíbení zrušeno.
+[14] Jestliže totiž dědici mají být stoupenci ⟦torah|Tóry|zákona⟧, je víra vyprázdněna a zaslíbení zrušeno.
 
-[15] Torah totiž působí hněv; kde však není zákon, není ani přestoupení.
+[15] ⟦torah|Tóra|Zákon⟧ totiž působí hněv; kde však není zákon, není ani přestoupení.
 
-[16] Proto to závisí na víře, aby zaslíbení spočívalo na milosti a bylo zaručeno celému jeho potomstvu – nejen stoupenci Torah, ale i tomu, kdo sdílí víru Abrahamovu, který je otcem nás všech,
+[16] Proto to závisí na víře, aby zaslíbení spočívalo na milosti a bylo zaručeno celému jeho potomstvu – nejen stoupenci ⟦torah|Tóry|zákona⟧, ale i tomu, kdo sdílí víru ⟦abraham|Avrahamovu|Abrahamovu⟧, který je otcem nás všech,
 
-[17] jak je napsáno: „**Ustanovil jsem tě otcem mnoha národů**“ – před *Elohim*, jemuž uvěřil, který oživuje mrtvé a povolává v bytí to, co není.
+[17] jak je napsáno: „**Ustanovil jsem tě otcem mnoha národů**“ – před ⟦elohim|Elohim|Bohem⟧, jemuž uvěřil, který oživuje mrtvé a povolává v bytí to, co není.
 
 [18] V naději proti naději uvěřil, že se stane otcem mnoha národů, jak mu bylo řečeno: „**Tak bude tvé potomstvo**.“
 
-[19] Neochabl ve víře, když uvážil své vlastní tělo, které bylo jako mrtvé (bylo mu asi sto let), ani když uvážil neplodnost Sarahina lůna.
+[19] Neochabl ve víře, když uvážil své vlastní tělo, které bylo jako mrtvé (bylo mu asi sto let), ani když uvážil neplodnost ⟦sarah|Sařina|Sářina⟧ lůna.
 
-[20] Žádná nevěra ho nepřiměla kolísat ohledně zaslíbení *Elohim*, ale posílil se ve víře a vzdal slávu *Elohim*,
+[20] Žádná nevěra ho nepřiměla kolísat ohledně zaslíbení ⟦elohim|Elohim|Božího⟧, ale posílil se ve víře a vzdal slávu ⟦elohim|Elohim|Bohu⟧,
 
-[21] plně přesvědčen, že *Elohim* má moc učinit, co zaslíbil.
+[21] plně přesvědčen, že ⟦elohim|Elohim|Bůh⟧ má moc učinit, co zaslíbil.
 
 [22] Proto mu jeho víra „byla počítána za spravedlnost“.
 
 [23] Slova „bylo mu počítáno“ však nebyla napsána jen kvůli němu,
 
-[24] ale i kvůli nám. Bude počítáno i nám, kdo věříme v toho, který vzkřísil z mrtvých *Yeshuu*, našeho Pána,
+[24] ale i kvůli nám. Bude počítáno i nám, kdo věříme v toho, který vzkřísil z mrtvých ⟦yeshua|Ješuu|Ježíše⟧, našeho Pána,
 
 [25] jenž byl vydán za naše provinění a vzkříšen k našemu ospravedlnění.
 

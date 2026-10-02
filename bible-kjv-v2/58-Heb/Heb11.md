@@ -4,21 +4,21 @@
 
 [2] For by it the people of old received their commendation.
 
-[3] By faith we understand that the universe was created by the word of *Elohim*, so that what is seen was not made out of things that are visible.
+[3] By faith we understand that the universe was created by the word of ⟦elohim|Elohim|God⟧, so that what is seen was not made out of things that are visible.
 
-[4] By faith Abel offered to *Elohim* a more acceptable sacrifice than Cain, through which he was commended as righteous, *Elohim* commending him by accepting his gifts. And through his faith, though he died, he still speaks.
+[4] By faith ⟦abel|Hevel|Abel⟧ offered to ⟦elohim|Elohim|God⟧ a more acceptable sacrifice than ⟦cain|Qayin|Cain⟧, through which he was commended as righteous, ⟦elohim|Elohim|God⟧ commending him by accepting his gifts. And through his faith, though he died, he still speaks.
 
-[5] By faith Enoch was taken up so that he should not see death, and he was not found, because *Elohim* had taken him. Now before he was taken he was commended as having pleased *Elohim*.
+[5] By faith ⟦enoch|Chanoch|Enoch⟧ was taken up so that he should not see death, and he was not found, because ⟦elohim|Elohim|God⟧ had taken him. Now before he was taken he was commended as having pleased ⟦elohim|Elohim|God⟧.
 
-[6] And without faith it is impossible to please him, for whoever would draw near to *Elohim* must believe that he exists and that he rewards those who seek him.
+[6] And without faith it is impossible to please him, for whoever would draw near to ⟦elohim|Elohim|God⟧ must believe that he exists and that he rewards those who seek him.
 
-[7] By faith Noah, being warned by *Elohim* concerning events as yet unseen, in reverent fear constructed an ark for the saving of his household. By this he condemned the world and became an heir of the righteousness that comes by faith.
+[7] By faith ⟦noah|Noach|Noah⟧, being warned by ⟦elohim|Elohim|God⟧ concerning events as yet unseen, in reverent fear constructed an ark for the saving of his household. By this he condemned the world and became an heir of the righteousness that comes by faith.
 
-[8] By faith Abraham obeyed when he was called to go out to a place that he was to receive as an inheritance. And he went out, not knowing where he was going.
+[8] By faith ⟦abraham|Avraham|Abraham⟧ obeyed when he was called to go out to a place that he was to receive as an inheritance. And he went out, not knowing where he was going.
 
-[9] By faith he went to live in the land of promise, as in a foreign land, living in tents with Isaac and Jacob, heirs with him of the same promise.
+[9] By faith he went to live in the land of promise, as in a foreign land, living in tents with ⟦isaac|Yitzchaq|Isaac⟧ and ⟦jacob|Yaaqov|Jacob⟧, heirs with him of the same promise.
 
-[10] For he was looking forward to the city that has foundations, whose designer and builder is *Elohim*.
+[10] For he was looking forward to the city that has foundations, whose designer and builder is ⟦elohim|Elohim|God⟧.
 
 [11] By faith Sarah herself received power to conceive, even when she was past the age, since she considered him faithful who had promised.
 
@@ -30,39 +30,39 @@
 
 [15] If they had been thinking of that land from which they had gone out, they would have had opportunity to return.
 
-[16] But as it is, they desire a better country, that is, a heavenly one. Therefore *Elohim* is not ashamed to be called their *Elohim*, for he has prepared for them a city.
+[16] But as it is, they desire a better country, that is, a heavenly one. Therefore ⟦elohim|Elohim|God⟧ is not ashamed to be called their ⟦elohim|Elohim|God⟧, for he has prepared for them a city.
 
-[17] By faith Abraham, when he was tested, offered up Isaac, and he who had received the promises was in the act of offering up his only son,
+[17] By faith ⟦abraham|Avraham|Abraham⟧, when he was tested, offered up ⟦isaac|Yitzchaq|Isaac⟧, and he who had received the promises was in the act of offering up his only son,
 
-[18] of whom it was said, "**Through Isaac shall your offspring be named**."
+[18] of whom it was said, "**Through ⟦isaac|Yitzchaq|Isaac⟧ shall your offspring be named**."
 
-[19] He considered that *Elohim* was able even to raise him from the dead, from which, figuratively speaking, he did receive him back.
+[19] He considered that ⟦elohim|Elohim|God⟧ was able even to raise him from the dead, from which, figuratively speaking, he did receive him back.
 
-[20] By faith Isaac invoked future blessings on Jacob and Esau.
+[20] By faith ⟦isaac|Yitzchaq|Isaac⟧ invoked future blessings on ⟦jacob|Yaaqov|Jacob⟧ and ⟦esau|Esav|Esau⟧.
 
-[21] By faith Jacob, when dying, blessed each of the sons of Joseph, bowing in worship over the head of his staff.
+[21] By faith ⟦jacob|Yaaqov|Jacob⟧, when dying, blessed each of the sons of ⟦joseph|Yosef|Joseph⟧, bowing in worship over the head of his staff.
 
-[22] By faith Joseph, at the end of his life, made mention of the exodus of the Israelites and gave directions concerning his bones.
+[22] By faith ⟦joseph|Yosef|Joseph⟧, at the end of his life, made mention of the exodus of the ⟦israelite|Yisraelim|Israelites⟧ and gave directions concerning his bones.
 
-[23] By faith Moses, when he was born, was hidden for three months by his parents, because they saw that the child was beautiful, and they were not afraid of the king's edict.
+[23] By faith ⟦moses|Moshe|Moses⟧, when he was born, was hidden for three months by his parents, because they saw that the child was beautiful, and they were not afraid of the king's edict.
 
-[24] By faith Moses, when he was grown up, refused to be called the son of Pharaoh's daughter,
+[24] By faith ⟦moses|Moshe|Moses⟧, when he was grown up, refused to be called the son of ⟦pharaoh|Paroh's|Pharaoh's⟧ daughter,
 
-[25] choosing rather to be mistreated with the people of *Elohim* than to enjoy the fleeting pleasures of sin.
+[25] choosing rather to be mistreated with the people of ⟦elohim|Elohim|God⟧ than to enjoy the fleeting pleasures of sin.
 
-[26] He considered the reproach of the *Mashiach* greater wealth than the treasures of Egypt, for he was looking to the reward.
+[26] He considered the reproach of ⟦mashiach|the Mashiach|Christ⟧ greater wealth than the treasures of ⟦egypt|Mitzrayim|Egypt⟧, for he was looking to the reward.
 
-[27] By faith he left Egypt, not being afraid of the anger of the king, for he endured as seeing him who is invisible.
+[27] By faith he left ⟦egypt|Mitzrayim|Egypt⟧, not being afraid of the anger of the king, for he endured as seeing him who is invisible.
 
-[28] By faith he kept the Passover and sprinkled the blood, so that the Destroyer of the firstborn might not touch them.
+[28] By faith he kept the ⟦pesach|Pesach|Passover⟧ and sprinkled the blood, so that the Destroyer of the firstborn might not touch them.
 
-[29] By faith the people crossed the Red Sea as on dry land, but the Egyptians, when they attempted to do the same, were drowned.
+[29] By faith the people crossed the ⟦red-sea|Sea of Reeds|Red Sea⟧ as on dry land, but the ⟦egyptians|Mitzrim|Egyptians⟧, when they attempted to do the same, were drowned.
 
-[30] By faith the walls of Jericho fell down after they had been encircled for seven days.
+[30] By faith the walls of ⟦jericho|Yericho|Jericho⟧ fell down after they had been encircled for seven days.
 
-[31] By faith Rahab the prostitute did not perish with those who were disobedient, because she had given a friendly welcome to the spies.
+[31] By faith ⟦rahab|Rachav|Rahab⟧ the prostitute did not perish with those who were disobedient, because she had given a friendly welcome to the spies.
 
-[32] And what more shall I say? For time would fail me to tell of Gideon, Barak, Samson, Jephthah, of David and Samuel and the prophets —
+[32] And what more shall I say? For time would fail me to tell of ⟦gideon|Gidon|Gideon⟧, ⟦barak|Baraq|Barak⟧, ⟦samson|Shimshon|Samson⟧, ⟦jephthah|Yiftach|Jephthah⟧, of David and ⟦samuel|Shmuel|Samuel⟧ and the prophets —
 
 [33] who through faith conquered kingdoms, enforced justice, obtained promises, stopped the mouths of lions,
 
@@ -78,7 +78,7 @@
 
 [39] And all these, though commended through their faith, did not receive what was promised,
 
-[40] since *Elohim* had provided something better for us, that apart from us they should not be made perfect.
+[40] since ⟦elohim|Elohim|God⟧ had provided something better for us, that apart from us they should not be made perfect.
 
 ## Changes
 

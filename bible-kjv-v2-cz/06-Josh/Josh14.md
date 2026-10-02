@@ -1,34 +1,34 @@
 # Jozue 14
 
-[1] Toto jsou dědictví, která synové Israele obdrželi v zemi Canaan a která jim rozdělili kněz Eleazar, Joshua, syn Nunův, a představení otcovských domů kmenů synů Israele.
+[1] Toto jsou dědictví, která synové ⟦israel|Jisraele|Izraele⟧ obdrželi v zemi Kenaan a která jim rozdělili kněz ⟦eleazar|Elazar|Eleazar⟧, ⟦joshua|Jehošua|Jozue⟧, syn ⟦nun|Nunův|Núnův⟧, a představení otcovských domů kmenů synů ⟦israel|Jisraele|Izraele⟧.
 
-[2] Jejich dědictví bylo určeno losem, jak Yahweh přikázal skrze Mosese, pro devět kmenů a polovinu kmene.
+[2] Jejich dědictví bylo určeno losem, jak ⟦yhwh|Jahve|Hospodin⟧ přikázal skrze ⟦moses|Moše|Mojžíše⟧, pro devět kmenů a polovinu kmene.
 
-[3] Moses totiž dal dědictví dvěma kmenům a polovině kmene za Jordanem; ale Levitům mezi nimi žádné dědictví nedal.
+[3] ⟦moses|Moše|Mojžíš⟧ totiž dal dědictví dvěma kmenům a polovině kmene za ⟦jordan|Jardenem|Jordánem⟧; ale ⟦levites|Levijim|lévijcům⟧ mezi nimi žádné dědictví nedal.
 
-[4] Synové Josepha totiž tvořili dva kmeny, Manasseh a Ephraim; a Levitům nebyl v zemi dán žádný podíl, jen města k bydlení s pastvinami pro jejich dobytek a jejich majetek.
+[4] Synové Josefa totiž tvořili dva kmeny, ⟦manasseh|Menaše|Manases⟧ a Efrajim; a ⟦levites|Levijim|lévijcům⟧ nebyl v zemi dán žádný podíl, jen města k bydlení s pastvinami pro jejich dobytek a jejich majetek.
 
-[5] Jak Yahweh přikázal Mosesovi, tak synové Israele učinili a rozdělili zemi.
+[5] Jak ⟦yhwh|Jahve|Hospodin⟧ přikázal ⟦moses|Mošovi|Mojžíšovi⟧, tak synové ⟦israel|Jisraele|Izraele⟧ učinili a rozdělili zemi.
 
-[6] Tehdy přišli synové Judah k Joshuovi do Gilgalu a Caleb, syn Jephunnehův, Kenizzita, mu řekl: „Ty víš, co Yahweh řekl Mosesovi, muži *Elohim*, o mně a o tobě v Kadesh-barnea.
+[6] Tehdy přišli synové ⟦judah|Jehudy|Judy⟧ k ⟦joshua|Jehošuovi|Jozuovi⟧ do ⟦gilgal|Gilgalu|Gilgálu⟧ a ⟦caleb|Kalev|Káleb⟧, syn ⟦jephunneh|Jefunnův|Jefunův⟧, ⟦kenizzites|Kenizzi|Kenizejec⟧, mu řekl: „Ty víš, co ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧, muži ⟦elohim|Elohim|Božímu⟧, o mně a o tobě v ⟦kadesh-barnea|Kadeš Barneji|Kádeš-barneji⟧.
 
-[7] Bylo mi čtyřicet let, když mě Moses, služebník Yahweh, poslal z Kadesh-barnea, abych vyzvěděl zemi, a přinesl jsem mu zprávu, jak jsem to měl v srdci.
+[7] Bylo mi čtyřicet let, když mě ⟦moses|Moše|Mojžíš⟧, služebník ⟦yhwh|Jahveho|Hospodina⟧, poslal z ⟦kadesh-barnea|Kadeš Barneje|Kádeš-barneje⟧, abych vyzvěděl zemi, a přinesl jsem mu zprávu, jak jsem to měl v srdci.
 
-[8] Moji bratři, kteří šli nahoru se mnou, způsobili, že srdce lidu zmalomyslnělo; já jsem však cele následoval Yahweh, svého *Elohim*.
+[8] Moji bratři, kteří šli nahoru se mnou, způsobili, že srdce lidu zmalomyslnělo; já jsem však cele následoval ⟦yhwh|Jahveho|Hospodina⟧, svého ⟦elohim|Elohim|Boha⟧.
 
-[9] A Moses toho dne přísahal: ‚Jistě země, na kterou vkročila tvá noha, bude dědictvím tobě a tvým dětem navěky, protože jsi cele následoval Yahweh, mého *Elohim*.‘
+[9] A ⟦moses|Moše|Mojžíš⟧ toho dne přísahal: ‚Jistě země, na kterou vkročila tvá noha, bude dědictvím tobě a tvým dětem navěky, protože jsi cele následoval ⟦yhwh|Jahveho|Hospodina⟧, mého ⟦elohim|Elohim|Boha⟧.‘
 
-[10] Nyní hle, Yahweh mě zachoval naživu, jak řekl, těchto čtyřicet pět let od chvíle, kdy Yahweh promluvil toto slovo k Mosesovi, když Israel putoval pouští. A nyní hle, je mi dnes osmdesát pět let.
+[10] Nyní hle, ⟦yhwh|Jahve|Hospodin⟧ mě zachoval naživu, jak řekl, těchto čtyřicet pět let od chvíle, kdy ⟦yhwh|Jahve|Hospodin⟧ promluvil toto slovo k ⟦moses|Mošovi|Mojžíšovi⟧, když ⟦israel|Jisrael|Izrael⟧ putoval pouští. A nyní hle, je mi dnes osmdesát pět let.
 
-[11] Jsem dnes stále tak silný, jako jsem byl v den, kdy mě Moses poslal; jaká byla tehdy má síla, taková je má síla i nyní – k boji i k vycházení a vcházení.
+[11] Jsem dnes stále tak silný, jako jsem byl v den, kdy mě ⟦moses|Moše|Mojžíš⟧ poslal; jaká byla tehdy má síla, taková je má síla i nyní – k boji i k vycházení a vcházení.
 
-[12] Dej mi tedy nyní tuto pahorkatinu, o níž Yahweh toho dne mluvil, neboť jsi toho dne slyšel, že tam jsou Anakim s velikými opevněnými městy. Snad bude Yahweh se mnou a vypudím je, jak Yahweh řekl.“
+[12] Dej mi tedy nyní tuto pahorkatinu, o níž ⟦yhwh|Jahve|Hospodin⟧ toho dne mluvil, neboť jsi toho dne slyšel, že tam jsou ⟦anakim|Anakim|Anákovci⟧ s velikými opevněnými městy. Snad bude ⟦yhwh|Jahve|Hospodin⟧ se mnou a vypudím je, jak ⟦yhwh|Jahve|Hospodin⟧ řekl.“
 
-[13] Joshua mu požehnal a dal Hebron Calebovi, synu Jephunnehovu, do dědictví.
+[13] ⟦joshua|Jehošua|Jozue⟧ mu požehnal a dal ⟦hebron|Chevron|Chebrón⟧ ⟦caleb|Kalevovi|Kálebovi⟧, synu ⟦jephunneh|Jefunnovu|Jefunovu⟧, do dědictví.
 
-[14] Proto se Hebron stal dědictvím Caleba, syna Jephunnehova, Kenizzity, až do tohoto dne, protože cele následoval Yahweh, *Elohim* Israele.
+[14] Proto se ⟦hebron|Chevron|Chebrón⟧ stal dědictvím ⟦caleb|Kaleva|Káleba⟧, syna ⟦jephunneh|Jefunnova|Jefunova⟧, ⟦kenizzites|Kenizziho|Kenizejce⟧, až do tohoto dne, protože cele následoval ⟦yhwh|Jahveho|Hospodina⟧, ⟦elohim|Elohim|Boha⟧ ⟦israel|Jisraele|Izraele⟧.
 
-[15] Hebron se dříve jmenoval Kiriath-arba – Arba byl největší muž mezi Anakim. A země měla pokoj od války.
+[15] ⟦hebron|Chevron|Chebrón⟧ se dříve jmenoval ⟦kiriath-arba|Kirjat Arba|Kirjat-arba⟧ – Arba byl největší muž mezi ⟦anakim|Anakim|Anákovci⟧. A země měla pokoj od války.
 
 ## Změny
 

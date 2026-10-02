@@ -8,7 +8,7 @@
 
 [4] the two kidneys with the fat that is on them at the flanks, and the lobe above the liver, which he shall remove with the kidneys;
 
-[5] and the priest shall turn them into smoke on the altar as an offering made by fire to Yahweh. It is a guilt offering.
+[5] and the priest shall turn them into smoke on the altar as an offering made by fire to ⟦yhwh|Yahweh|the LORD⟧. It is a guilt offering.
 
 [6] Every male among the priests may eat of it; it shall be eaten in a holy place. It is most holy.
 
@@ -18,15 +18,15 @@
 
 [9] Every grain offering that is baked in an oven, and all that is prepared in a pan or on a griddle, shall belong to the priest who offers it.
 
-[10] Every grain offering mixed with oil, or dry, shall belong to all the sons of Aaron, each alike.
+[10] Every grain offering mixed with oil, or dry, shall belong to all the sons of ⟦aaron|Aharon|Aaron⟧, each alike.
 
-[11] This is the law of the sacrifice of peace offerings that one shall offer to Yahweh:
+[11] This is the law of the sacrifice of peace offerings that one shall offer to ⟦yhwh|Yahweh|the LORD⟧:
 
 [12] If he offers it as a thanksgiving, then he shall offer along with the thanksgiving sacrifice unleavened cakes mixed with oil, unleavened wafers anointed with oil, and cakes of fine flour well-soaked, mixed with oil.
 
 [13] With cakes of leavened bread he shall offer his offering with the thanksgiving sacrifice of his peace offerings.
 
-[14] Of each offering he shall present one cake as a contribution to Yahweh; it shall belong to the priest who throws the blood of the peace offerings against the altar.
+[14] Of each offering he shall present one cake as a contribution to ⟦yhwh|Yahweh|the LORD⟧; it shall belong to the priest who throws the blood of the peace offerings against the altar.
 
 [15] The flesh of the thanksgiving sacrifice of his peace offerings shall be eaten on the day it is offered; none of it shall be left until morning.
 
@@ -38,43 +38,43 @@
 
 [19] Flesh that touches any unclean thing shall not be eaten; it shall be burned with fire. As for the flesh, anyone who is clean may eat of it.
 
-[20] But the person who eats the flesh of the peace offering sacrifice that belongs to Yahweh while his uncleanness is on him — that person shall be cut off from his people.
+[20] But the person who eats the flesh of the peace offering sacrifice that belongs to ⟦yhwh|Yahweh|the LORD⟧ while his uncleanness is on him — that person shall be cut off from his people.
 
-[21] And if any person touches anything unclean — whether human uncleanness, or an unclean animal, or any unclean detestable thing — and then eats of the flesh of the peace offering sacrifice that belongs to Yahweh, that person shall be cut off from his people."
+[21] And if any person touches anything unclean — whether human uncleanness, or an unclean animal, or any unclean detestable thing — and then eats of the flesh of the peace offering sacrifice that belongs to ⟦yhwh|Yahweh|the LORD⟧, that person shall be cut off from his people."
 
-[22] Yahweh spoke to Moses, saying,
+[22] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[23] "Speak to the children of Israel, saying: 'You shall eat no fat of ox or sheep or goat.
+[23] "Speak to the children of ⟦israel|Yisrael|Israel⟧, saying: 'You shall eat no fat of ox or sheep or goat.
 
 [24] The fat of an animal that dies of itself and the fat of one torn by beasts may be used for any other purpose, but you shall not eat it.
 
-[25] For whoever eats the fat of an animal of which an offering by fire is made to Yahweh — the person who eats it shall be cut off from his people.
+[25] For whoever eats the fat of an animal of which an offering by fire is made to ⟦yhwh|Yahweh|the LORD⟧ — the person who eats it shall be cut off from his people.
 
 [26] You shall eat no blood whatever, whether of bird or of animal, in any of your dwellings.
 
 [27] Whoever eats any blood — that person shall be cut off from his people.'"
 
-[28] Yahweh spoke to Moses, saying,
+[28] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[29] "Speak to the children of Israel, saying: 'Whoever offers the sacrifice of his peace offering to Yahweh shall bring his offering to Yahweh from the sacrifice of his peace offering.
+[29] "Speak to the children of ⟦israel|Yisrael|Israel⟧, saying: 'Whoever offers the sacrifice of his peace offering to ⟦yhwh|Yahweh|the LORD⟧ shall bring his offering to ⟦yhwh|Yahweh|the LORD⟧ from the sacrifice of his peace offering.
 
-[30] With his own hands he shall bring the offerings made by fire to Yahweh. He shall bring the fat along with the breast, that the breast may be elevated as an elevation offering before Yahweh.
+[30] With his own hands he shall bring the offerings made by fire to ⟦yhwh|Yahweh|the LORD⟧. He shall bring the fat along with the breast, that the breast may be elevated as an elevation offering before ⟦yhwh|Yahweh|the LORD⟧.
 
-[31] The priest shall turn the fat into smoke on the altar, but the breast shall belong to Aaron and his sons.
+[31] The priest shall turn the fat into smoke on the altar, but the breast shall belong to ⟦aaron|Aharon|Aaron⟧ and his sons.
 
 [32] The right thigh you shall give to the priest as a contribution from the sacrifices of your peace offerings.
 
-[33] Whoever among the sons of Aaron offers the blood of the peace offerings and the fat shall have the right thigh as his portion.
+[33] Whoever among the sons of ⟦aaron|Aharon|Aaron⟧ offers the blood of the peace offerings and the fat shall have the right thigh as his portion.
 
-[34] For the breast of the elevation offering and the thigh of the contribution I have taken from the children of Israel, from their peace offering sacrifices, and have given them to Aaron the priest and to his sons as a perpetual due from the children of Israel.'"
+[34] For the breast of the elevation offering and the thigh of the contribution I have taken from the children of ⟦israel|Yisrael|Israel⟧, from their peace offering sacrifices, and have given them to ⟦aaron|Aharon|Aaron⟧ the priest and to his sons as a perpetual due from the children of ⟦israel|Yisrael|Israel⟧.'"
 
-[35] This is the priestly portion of Aaron and of his sons from the offerings made by fire to Yahweh, on the day they were presented to serve as priests to Yahweh;
+[35] This is the priestly portion of ⟦aaron|Aharon|Aaron⟧ and of his sons from the offerings made by fire to ⟦yhwh|Yahweh|the LORD⟧, on the day they were presented to serve as priests to ⟦yhwh|Yahweh|the LORD⟧;
 
-[36] which Yahweh commanded to be given them by the children of Israel on the day they were anointed. It is a perpetual statute throughout their generations.
+[36] which ⟦yhwh|Yahweh|the LORD⟧ commanded to be given them by the children of ⟦israel|Yisrael|Israel⟧ on the day they were anointed. It is a perpetual statute throughout their generations.
 
 [37] This is the law of the burnt offering, the grain offering, the sin offering, the guilt offering, the ordination offering, and the sacrifice of peace offerings,
 
-[38] which Yahweh commanded Moses on Mount Sinai, on the day when he commanded the children of Israel to bring their offerings to Yahweh in the wilderness of Sinai.
+[38] which ⟦yhwh|Yahweh|the LORD⟧ commanded ⟦moses|Moshe|Moses⟧ on Mount Sinai, on the day when he commanded the children of ⟦israel|Yisrael|Israel⟧ to bring their offerings to ⟦yhwh|Yahweh|the LORD⟧ in the wilderness of Sinai.
 
 ## Changes
 

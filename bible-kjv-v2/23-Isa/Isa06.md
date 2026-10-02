@@ -1,23 +1,23 @@
 # Isaiah 6
 
-[1] In the year that King Uzziah died I saw Lord sitting upon a throne, high and lifted up; and the train of his robe filled the temple.
+[1] In the year that King ⟦uzziah|Uzziyahu|Uzziah⟧ died I saw ⟦adonai|Adonai|the Lord⟧ sitting upon a throne, high and lifted up; and the train of his robe filled the temple.
 
-[2] Above him stood the seraphim. Each had six wings: with two he covered his face, and with two he covered his feet, and with two he flew.
+[2] Above him stood the ⟦seraphim|serafim|seraphim⟧. Each had six wings: with two he covered his face, and with two he covered his feet, and with two he flew.
 
 [3] And one called to another and said:
 
-"Holy, holy, holy is Yahweh of Hosts;
+"Holy, holy, holy is ⟦yhwh|Yahweh|the LORD⟧ of Hosts;
 the whole earth is full of his glory!"
 
 [4] And the foundations of the thresholds shook at the voice of him who called, and the house was filled with smoke.
 
-[5] And I said: "Woe is me! For I am lost; for I am a man of unclean lips, and I dwell in the midst of a people of unclean lips; for my eyes have seen the King, Yahweh of Hosts!"
+[5] And I said: "Woe is me! For I am lost; for I am a man of unclean lips, and I dwell in the midst of a people of unclean lips; for my eyes have seen the King, ⟦yhwh|Yahweh|the LORD⟧ of Hosts!"
 
-[6] Then one of the seraphim flew to me, having in his hand a burning coal that he had taken with tongs from the altar.
+[6] Then one of the ⟦seraphim|serafim|seraphim⟧ flew to me, having in his hand a burning coal that he had taken with tongs from the altar.
 
 [7] And he touched my mouth and said: "Behold, this has touched your lips; your guilt is taken away, and your sin atoned for."
 
-[8] And I heard the voice of the Lord saying, "Whom shall I send, and who will go for us?" Then I said, "Here I am! Send me."
+[8] And I heard the voice of ⟦adonai|Adonai|the Lord⟧ saying, "Whom shall I send, and who will go for us?" Then I said, "Here I am! Send me."
 
 [9] And he said, "Go, and say to this people:
 
@@ -32,13 +32,13 @@ and hear with their ears,
 and understand with their hearts,
 and turn and be healed."
 
-[11] Then I said, "How long, Lord?" And he said:
+[11] Then I said, "How long, ⟦adonai|Adonai|Lord⟧?" And he said:
 
 "Until cities lie waste without inhabitant,
 and houses without people,
 and the land is a desolate waste,
 
-[12] and Yahweh removes people far away,
+[12] and ⟦yhwh|Yahweh|the LORD⟧ removes people far away,
 and the forsaken places are many in the midst of the land.
 
 [13] And though a tenth remain in it,

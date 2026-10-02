@@ -1,82 +1,82 @@
 # Ámos 1
 
-[1] Slova Amose, který byl mezi pastýři z Tekoa, která viděl o Israeli ve dnech Uzziaha, krále Judah, a ve dnech Jeroboama, syna Joashe, krále Israele, dva roky před zemětřesením.
+[1] Slova ⟦amos|Amose|Ámose⟧, který byl mezi pastýři z ⟦tekoa|Tekoy|Tekóy⟧, která viděl o ⟦israel|Jisraeli|Izraeli⟧ ve dnech ⟦uzziah|Uzzijahua|Uzijáše⟧, krále ⟦judah|Jehudy|Judy⟧, a ve dnech ⟦jeroboam|Jarovama|Jarobeáma⟧, syna ⟦joash|Joaše|Jóaše⟧, krále ⟦israel|Jisraele|Izraele⟧, dva roky před zemětřesením.
 
 [2] Řekl:
-„Yahweh řve ze Zionu
-a vydává svůj hlas z Jerusalemu;
+„⟦yhwh|Jahve|Hospodin⟧ řve ⟦zion|z Cijonu|ze Sijónu⟧
+a vydává svůj hlas z ⟦jerusalem|Jerušalajim|Jeruzaléma⟧;
 pastviny pastýřů truchlí
-a vrchol Carmelu usychá.“
+a vrchol Karmelu usychá.“
 
-[3] Toto praví Yahweh:
+[3] Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
-„Pro tři přestoupení Damascu,
+„Pro tři přestoupení ⟦damascus|Dammeseku|Damašku⟧,
 ba pro čtyři, neodvolám trest,
-protože mlátili Gilead
+protože mlátili ⟦gilead|Gilad|Gileád⟧
 železnými mláticími smyky.
 
-[4] Proto pošlu oheň na dům Hazaelův
-a ten pohltí pevnosti Ben-Hadada.
+[4] Proto pošlu oheň na dům Chazaelův
+a ten pohltí pevnosti ⟦ben-hadad|Ben Hadada|Ben-hadada⟧.
 
-[5] Zlomím závoru brány Damascu,
-vyhladím obyvatele z údolí Aven
-a toho, kdo drží žezlo, z Beth-Eden;
-a lid Syrie půjde do vyhnanství do Kiru,
-praví Yahweh.“
+[5] Zlomím závoru brány ⟦damascus|Dammeseku|Damašku⟧,
+vyhladím obyvatele z údolí ⟦aven|Aven|Áven⟧
+a toho, kdo drží žezlo, z ⟦beth-eden|Bejt Edenu|Bét-edenu⟧;
+a lid Aramu půjde do vyhnanství do ⟦kir|Kiru|Kíru⟧,
+praví ⟦yhwh|Jahve|Hospodin⟧.“
 
-[6] Toto praví Yahweh:
+[6] Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
-„Pro tři přestoupení Gazy,
+„Pro tři přestoupení ⟦gaza|Azzy|Gazy⟧,
 ba pro čtyři, neodvolám trest,
 protože odvlekli do vyhnanství celý lid,
-aby ho vydali Edomu.
+aby ho vydali ⟦edom|Edomu|Edómu⟧.
 
-[7] Proto pošlu oheň na hradby Gazy
+[7] Proto pošlu oheň na hradby ⟦gaza|Azzy|Gazy⟧
 a ten pohltí její pevnosti.
 
-[8] Vyhladím obyvatele z Ashdodu
-a toho, kdo drží žezlo, z Ashkelonu;
-obrátím svou ruku proti Ekronu
-a zbytek Philistinců zahyne,“
-praví Pán Yahweh.
+[8] Vyhladím obyvatele z ⟦ashdod|Ašdodu|Ašdódu⟧
+a toho, kdo drží žezlo, z ⟦ashkelon|Aškelonu|Aškalónu⟧;
+obrátím svou ruku proti ⟦ekron|Ekronu|Ekrónu⟧
+a zbytek ⟦philistines|Pelištim|Pelištejců⟧ zahyne,“
+praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧.
 
-[9] Toto praví Yahweh:
+[9] Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
-„Pro tři přestoupení Tyru,
+„Pro tři přestoupení ⟦tyre|Coru|Týru⟧,
 ba pro čtyři, neodvolám trest,
-protože vydali celý lid Edomu
+protože vydali celý lid ⟦edom|Edomu|Edómu⟧
 a nepamatovali na smlouvu bratrství.
 
-[10] Proto pošlu oheň na hradby Tyru
+[10] Proto pošlu oheň na hradby ⟦tyre|Coru|Týru⟧
 a ten pohltí jeho pevnosti.“
 
-[11] Toto praví Yahweh:
+[11] Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
-„Pro tři přestoupení Edomu,
+„Pro tři přestoupení ⟦edom|Edomu|Edómu⟧,
 ba pro čtyři, neodvolám trest,
 protože pronásledoval svého bratra mečem
 a zahodil veškerý soucit,
 jeho hněv neustále rval
 a svou zlobu choval navždy.
 
-[12] Proto pošlu oheň na Teman
-a ten pohltí pevnosti Bozrah.“
+[12] Proto pošlu oheň na ⟦teman|Teman|Téman⟧
+a ten pohltí pevnosti ⟦bozrah|Bocry|Bosry⟧.“
 
-[13] Toto praví Yahweh:
+[13] Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
-„Pro tři přestoupení Ammonitů,
+„Pro tři přestoupení ⟦ammonites|Ammonim|Amónovců⟧,
 ba pro čtyři, neodvolám trest,
-protože rozpárali těhotné ženy v Gileadu,
+protože rozpárali těhotné ženy v ⟦gilead|Giladu|Gileádu⟧,
 aby rozšířili své území.
 
-[14] Proto zapálím oheň na hradbách Rabbah
+[14] Proto zapálím oheň na hradbách ⟦rabbah|Rabby|Raby⟧
 a ten pohltí její pevnosti
 za válečného křiku v den bitvy,
 za bouře v den vichřice;
 
 [15] a jejich král půjde do vyhnanství,
 on i jeho knížata spolu,“
-praví Yahweh.
+praví ⟦yhwh|Jahve|Hospodin⟧.
 
 ## Změny
 

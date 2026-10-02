@@ -1,12 +1,12 @@
 # Deuteronomy 20
 
-[1] "When you go out to battle against your enemies and see horses and chariots and an army larger than your own, you shall not be afraid of them; for Yahweh your *Elohim* is with you, who brought you up out of the land of Egypt.
+[1] "When you go out to battle against your enemies and see horses and chariots and an army larger than your own, you shall not be afraid of them; for ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is with you, who brought you up out of the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
 [2] When you come near to the battle, the priest shall approach and speak to the people,
 
-[3] and shall say to them, 'Hear, O Israel: today you are drawing near to battle against your enemies. Do not let your heart grow faint; do not be afraid, do not tremble, and do not be in dread of them,
+[3] and shall say to them, 'Hear, O ⟦israel|Yisrael|Israel⟧: today you are drawing near to battle against your enemies. Do not let your heart grow faint; do not be afraid, do not tremble, and do not be in dread of them,
 
-[4] for Yahweh your *Elohim* is he who goes with you, to fight for you against your enemies, to save you.'
+[4] for ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is he who goes with you, to fight for you against your enemies, to save you.'
 
 [5] The officers shall speak to the people, saying, 'Is there any man who has built a new house and has not dedicated it? Let him go back to his house, lest he die in the battle and another man dedicate it.
 
@@ -24,17 +24,17 @@
 
 [12] But if it does not make peace with you but makes war against you, then you shall besiege it.
 
-[13] When Yahweh your *Elohim* gives it into your hand, you shall strike every male in it with the edge of the sword,
+[13] When ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ gives it into your hand, you shall strike every male in it with the edge of the sword,
 
-[14] but the women and the little ones, the livestock, and everything in the city — all its spoil — you shall take as plunder for yourselves. You shall enjoy the spoil of your enemies, which Yahweh your *Elohim* has given you.
+[14] but the women and the little ones, the livestock, and everything in the city — all its spoil — you shall take as plunder for yourselves. You shall enjoy the spoil of your enemies, which ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ has given you.
 
 [15] Thus you shall do to all the cities that are very far from you, which are not of the cities of these nations.
 
-[16] But of the cities of these peoples that Yahweh your *Elohim* is giving you as an inheritance, you shall leave alive nothing that breathes,
+[16] But of the cities of these peoples that ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ is giving you as an inheritance, you shall leave alive nothing that breathes,
 
-[17] but you shall devote them to utter destruction — the Hittite, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite — as Yahweh your *Elohim* has commanded you,
+[17] but you shall devote them to utter destruction — the ⟦hittite|Chitti|Hittite⟧, the ⟦amorite|Emori|Amorite⟧, the ⟦canaanites|Kenaani|Canaanite⟧, the ⟦perizzite|Perizzi|Perizzite⟧, the ⟦hivite|Chivvi|Hivite⟧, and the ⟦jebusite|Yevusi|Jebusite⟧ — as ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ has commanded you,
 
-[18] so that they may not teach you to do according to all their abominations which they have done for their gods, and so you sin against Yahweh your *Elohim*.
+[18] so that they may not teach you to do according to all their abominations which they have done for their gods, and so you sin against ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
 [19] When you besiege a city for many days in making war against it to take it, you shall not destroy its trees by wielding an axe against them; for you may eat from them. You shall not cut them down, for is the tree of the field a man, that it should come under siege from you?
 

@@ -1,6 +1,6 @@
 # Job 24
 
-[1] "Why are times of judgment not kept by Shaddai?
+[1] "Why are times of judgment not kept by ⟦shaddai|Shaddai|the Almighty⟧?
 Why do those who know him not see his days?
 
 [2] Men remove landmarks;
@@ -37,7 +37,7 @@ they tread the winepresses, yet thirst.
 
 [12] From the city the dying groan,
 and the soul of the wounded cries out —
-yet Eloah charges no one with wrong.
+yet ⟦eloah|Eloah|God⟧ charges no one with wrong.
 
 [13] They are among those who rebel against the light;
 they do not know its ways
@@ -76,7 +76,7 @@ he does no good to the widow.
 [22] Yet he drags off the mighty by his power;
 he rises, and no one is sure of life.
 
-[23] Eloah gives him security on which he relies,
+[23] ⟦eloah|Eloah|God⟧ gives him security on which he relies,
 and his eyes are upon their ways.
 
 [24] They are exalted a little while, then gone;

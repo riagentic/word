@@ -5,8 +5,8 @@ městu utiskovatelů!
 
 [2] Neposlouchá žádný hlas;
 nepřijímá žádné pokárání.
-Nedůvěřuje Yahweh;
-nepřibližuje se ke svému *Elohim*.
+Nedůvěřuje ⟦yhwh|Jahvovi|Hospodinu⟧;
+nepřibližuje se ke svému ⟦elohim|Elohim|Bohu⟧.
 
 [3] Její úředníci uprostřed ní
 jsou řvoucí lvi;
@@ -15,9 +15,9 @@ kteří do rána nic nenechají.
 
 [4] Její proroci jsou nestálí, zrádní muži;
 její kněží znesvěcují, co je svaté;
-páchají násilí na Zákoně.
+páchají násilí na ⟦torah|Tóře|zákoně⟧.
 
-[5] Yahweh uprostřed ní je spravedlivý;
+[5] ⟦yhwh|Jahve|Hospodin⟧ uprostřed ní je spravedlivý;
 nečiní bezpráví;
 každé ráno vynáší na světlo své právo;
 s každým úsvitem neselže;
@@ -37,7 +37,7 @@ podle všeho, co jsem proti tobě ustanovil.‘
 Ale oni tím horlivěji
 kazili všechny své skutky.“
 
-[8] „Proto na mě čekejte,“ praví Yahweh,
+[8] „Proto na mě čekejte,“ praví ⟦yhwh|Jahve|Hospodin⟧,
 „na den, kdy povstanu, abych uchvátil kořist.
 Neboť mým rozhodnutím je shromáždit národy,
 sebrat království,
@@ -48,10 +48,10 @@ bude strávena celá země.
 
 [9] „Neboť v onen čas změním řeč národů
 v řeč čistou,
-aby všichni vzývali jméno Yahweh
+aby všichni vzývali jméno ⟦yhwh|Jahveho|Hospodina⟧
 a sloužili mu jedním ramenem.
 
-[10] Zpoza řek Cushe
+[10] Zpoza řek ⟦cush|Kuše|Kúše⟧
 mí ctitelé, dcera mých rozptýlených,
 přinesou mou obětní dávku.
 
@@ -64,9 +64,9 @@ na mé svaté hoře.
 
 [12] Ale ponechám v tvém středu
 lid pokorný a ponížený.
-Budou hledat útočiště ve jménu Yahweh,
+Budou hledat útočiště ve jménu ⟦yhwh|Jahveho|Hospodina⟧,
 
-[13] ti, kdo zůstanou v Israeli;
+[13] ti, kdo zůstanou v ⟦israel|Jisraeli|Izraeli⟧;
 nebudou páchat bezpráví
 a nebudou mluvit lži,
 ani se v jejich ústech nenajde
@@ -74,21 +74,21 @@ lstivý jazyk.
 Neboť se budou pást a uléhat
 a nikdo je nebude děsit.“
 
-[14] Zpívej nahlas, dcero Zion;
-jásej, Israeli!
+[14] Zpívej nahlas, dcero ⟦zion|Cijon|Sijón⟧;
+jásej, ⟦israel|Jisraeli|Izraeli⟧!
 Raduj se a plesej celým srdcem,
-dcero Jerusalem!
+dcero ⟦jerusalem|Jerušalajim|Jeruzaléme⟧!
 
-[15] Yahweh odňal rozsudky proti tobě;
+[15] ⟦yhwh|Jahve|Hospodin⟧ odňal rozsudky proti tobě;
 odklidil tvé nepřátele.
-Král Israele, Yahweh, je uprostřed tebe;
+Král ⟦israel|Jisraele|Izraele⟧, ⟦yhwh|Jahve|Hospodin⟧, je uprostřed tebe;
 už nikdy se nebudeš bát zlého.
 
-[16] Onoho dne se bude říkat Jerusalemu:
-„Neboj se, Zione;
+[16] Onoho dne se bude říkat ⟦jerusalem|Jerušalajim|Jeruzalému⟧:
+„Neboj se, ⟦zion|Cijone|Sijóne⟧;
 ať ti neochabují ruce.
 
-[17] **Yahweh, tvůj *Elohim*, je uprostřed tebe,
+[17] **⟦yhwh|Jahve|Hospodin⟧, tvůj ⟦elohim|Elohim|Bůh⟧, je uprostřed tebe,
 hrdina, který zachrání;
 bude se nad tebou radovat s veselím;
 utiší tě svou láskou;
@@ -109,7 +109,7 @@ v čase, kdy vás shromáždím;
 neboť vám zjednám věhlas a chválu
 mezi všemi národy země,
 až změním váš úděl
-před vašima očima,“ praví Yahweh.
+před vašima očima,“ praví ⟦yhwh|Jahve|Hospodin⟧.
 
 ## Změny
 

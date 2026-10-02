@@ -1,7 +1,7 @@
 # Izajáš 63
 
-[1] Kdo je ten, který přichází z Edomu,
-v šarlatových rouchách z Bozrah,
+[1] Kdo je ten, který přichází z ⟦edom|Edomu|Edómu⟧,
+v šarlatových rouchách z ⟦bozrah|Bocry|Bosry⟧,
 ten nádherný ve svém oděvu,
 kráčející ve velikosti své síly?
 „To jsem já, který mluvím ve spravedlnosti,
@@ -29,19 +29,19 @@ a můj hněv mě podepřel.
 opojil jsem je ve svém rozhořčení
 a vylil jsem jejich životní krev na zem.“
 
-[7] Budu vyprávět o milosrdenstvích Yahweh – o skutcích věrné lásky Yahweh,
-o chválách Yahweh,
-podle všeho, co nám Yahweh prokázal,
-a o veliké dobrotě vůči domu Israele,
+[7] Budu vyprávět o milosrdenstvích ⟦yhwh|Jahveho|Hospodina⟧ – o skutcích věrné lásky ⟦yhwh|Jahveho|Hospodina⟧,
+o chválách ⟦yhwh|Jahveho|Hospodina⟧,
+podle všeho, co nám ⟦yhwh|Jahve|Hospodin⟧ prokázal,
+a o veliké dobrotě vůči domu ⟦israel|Jisraele|Izraele⟧,
 kterou jim prokázal podle svého slitování,
-podle hojnosti svých chasadim.
+podle hojnosti svých ⟦steadfast-love|chasadim|milosrdenství⟧.
 
 [8] Neboť řekl: „Jistě jsou to můj lid,
 synové, kteří nebudou jednat lstivě.“
 A stal se jejich Spasitelem.
 
 [9] Ve všem jejich soužení byl soužen
-a mal'akh panav – posel jeho tváře – je zachránil;
+a ⟦malakh|mal'ach panav – posel jeho tváře –|anděl jeho tváře⟧ je zachránil;
 ve své lásce a ve svém soucitu je vykoupil;
 zvedl je a nosil je po všechny dny dávnověku.
 
@@ -51,14 +51,14 @@ proto se obrátil a stal se jejich nepřítelem
 a sám bojoval proti nim.
 
 [11] Tu si vzpomněl na dny dávnověku,
-na Mosese a jeho lid.
+na ⟦moses|Moše|Mojžíše⟧ a jeho lid.
 Kde je ten, který je vyvedl z moře
 s pastýři svého stáda?
 Kde je ten, který vložil doprostřed nich
 svého Svatého Ducha,
 
 [12] který dal své slavné paži
-kráčet po pravici Mosese,
+kráčet po pravici ⟦moses|Moše|Mojžíše⟧,
 který před nimi rozdělil vody,
 aby si učinil věčné jméno,
 
@@ -66,7 +66,7 @@ aby si učinil věčné jméno,
 Jako kůň v poušti neklopýtali.
 
 [14] Jako dobytek, který sestupuje do údolí,
-Duch Yahweh jim dal odpočinek.
+Duch ⟦yhwh|Jahveho|Hospodina⟧ jim dal odpočinek.
 Tak jsi vedl svůj lid,
 abys sobě učinil slavné jméno.
 
@@ -77,12 +77,12 @@ Chvění tvého nitra a tvé slitování
 jsou mi odepřeny.
 
 [16] Vždyť ty jsi náš Otec,
-i když nás Abraham nezná
-a Israel nás neuznává;
-ty, Yahweh, jsi náš Otec,
+i když nás ⟦abraham|Avraham|Abraham⟧ nezná
+a ⟦israel|Jisrael|Izrael⟧ nás neuznává;
+ty, ⟦yhwh|Jahve|Hospodine⟧, jsi náš Otec,
 náš Vykupitel od pradávna je tvé jméno.
 
-[17] Yahweh, proč nás necháváš bloudit ze svých cest
+[17] ⟦yhwh|Jahve|Hospodine⟧, proč nás necháváš bloudit ze svých cest
 a zatvrzuješ naše srdce, takže se tě nebojíme?
 Navrať se kvůli svým služebníkům,
 kmenům svého dědictví.

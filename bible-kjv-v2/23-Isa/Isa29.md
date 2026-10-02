@@ -22,7 +22,7 @@ and from the dust your speech shall whisper.
 and the multitude of the ruthless like passing chaff.
 And in an instant, suddenly,
 
-[6] you will be visited by Yahweh of Hosts
+[6] you will be visited by ⟦yhwh|Yahweh|the LORD⟧ of Hosts
 with thunder and with earthquake and great noise,
 with whirlwind and tempest,
 and the flame of a devouring fire.
@@ -36,14 +36,14 @@ and awakes with his hunger not satisfied,
 or as when a thirsty man dreams he is drinking
 and awakes faint, with his thirst not quenched,
 so shall the multitude of all the nations be
-that fight against Mount Zion.
+that fight against Mount ⟦zion|Tziyon|Zion⟧.
 
 [9] Astonish yourselves and be astonished;
 blind yourselves and be blind!
 Be drunk, but not with wine;
 stagger, but not with strong drink!
 
-[10] For Yahweh has poured out upon you
+[10] For ⟦yhwh|Yahweh|the LORD⟧ has poured out upon you
 a spirit of deep sleep,
 and has closed your eyes — the prophets —
 and covered your heads — the seers.
@@ -52,7 +52,7 @@ and covered your heads — the seers.
 
 [12] And when they give the book to one who cannot read, saying, "Read this," he says, "I cannot read."
 
-[13] And Lord said:
+[13] And ⟦adonai|Adonai|the Lord⟧ said:
 
 "Because this people draw near with their mouth
 and honor me with their lips,
@@ -65,7 +65,7 @@ with wonder upon wonder;
 and the wisdom of their wise men shall perish,
 and the discernment of their discerning men shall be hidden."
 
-[15] Ah, you who hide deep from Yahweh your counsel,
+[15] Ah, you who hide deep from ⟦yhwh|Yahweh|the LORD⟧ your counsel,
 whose deeds are in the dark,
 and who say, "Who sees us? Who knows us?"
 
@@ -77,7 +77,7 @@ or the thing formed say of him who formed it,
 "He has no understanding"?
 
 [17] Is it not yet a very little while
-until Lebanon shall be turned into a fruitful field,
+until ⟦lebanon|Levanon|Lebanon⟧ shall be turned into a fruitful field,
 and the fruitful field shall be regarded as a forest?
 
 [18] In that day the deaf shall hear
@@ -85,8 +85,8 @@ the words of a book,
 and out of their gloom and darkness
 the eyes of the blind shall see.
 
-[19] The meek shall obtain fresh joy in Yahweh,
-and the poor among mankind shall exult in the Holy One of Israel.
+[19] The meek shall obtain fresh joy in ⟦yhwh|Yahweh|the LORD⟧,
+and the poor among mankind shall exult in the Holy One of ⟦israel|Yisrael|Israel⟧.
 
 [20] For the ruthless shall come to nothing
 and the scoffer cease,
@@ -96,16 +96,16 @@ and all who watch to do evil shall be cut off,
 and lay a snare for him who reproves in the gate,
 and with an empty plea turn aside him who is in the right.
 
-[22] Therefore thus says Yahweh, who redeemed Abraham, concerning the house of Jacob:
+[22] Therefore thus says ⟦yhwh|Yahweh|the LORD⟧, who redeemed ⟦abraham|Avraham|Abraham⟧, concerning the house of ⟦jacob|Yaaqov|Jacob⟧:
 
-"Jacob shall no more be ashamed,
+"⟦jacob|Yaaqov|Jacob⟧ shall no more be ashamed,
 no more shall his face grow pale.
 
 [23] For when he sees his children,
 the work of my hands, in his midst,
 they will sanctify my name;
-they will sanctify the Holy One of Jacob
-and will stand in awe of the *Elohim* of Israel.
+they will sanctify the Holy One of ⟦jacob|Yaaqov|Jacob⟧
+and will stand in awe of the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧.
 
 [24] And those who go astray in spirit will come to understanding,
 and those who grumble will accept instruction."

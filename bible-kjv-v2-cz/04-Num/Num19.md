@@ -1,12 +1,12 @@
 # Numeri 19
 
-[1] Yahweh promluvil k Mosesovi a Aaronovi a řekl:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a ⟦aaron|Aharonovi|Áronovi⟧ a řekl:
 
-[2] „Toto je ustanovení zákona, které Yahweh přikázal: Mluv k synům Israele, ať ti přivedou červenou jalovici bez vady, na níž není žádná poskvrna a na kterou nikdy nebylo vloženo jho.
+[2] „Toto je ustanovení zákona, které ⟦yhwh|Jahve|Hospodin⟧ přikázal: Mluv k synům ⟦israel|Jisraele|Izraele⟧, ať ti přivedou červenou jalovici bez vady, na níž není žádná poskvrna a na kterou nikdy nebylo vloženo jho.
 
-[3] Dáte ji knězi Eleazarovi; on ji vyvede mimo tábor a v jeho přítomnosti bude poražena.
+[3] Dáte ji knězi ⟦eleazar|Elazarovi|Eleazarovi⟧; on ji vyvede mimo tábor a v jeho přítomnosti bude poražena.
 
-[4] Kněz Eleazar vezme prstem trochu její krve a sedmkrát pokropí směrem k přední straně stanu setkávání.
+[4] Kněz ⟦eleazar|Elazar|Eleazar⟧ vezme prstem trochu její krve a sedmkrát pokropí směrem k přední straně stanu setkávání.
 
 [5] Jalovice bude spálena před jeho očima – její kůže, její maso, její krev i s jejím trusem – bude spálena.
 
@@ -16,15 +16,15 @@
 
 [8] Ten, kdo ji spálí, vypere své šaty ve vodě a omyje své tělo vodou a bude nečistý až do večera.
 
-[9] Muž, který je čistý, sesbírá popel z jalovice a uloží jej mimo tábor na čisté místo; bude uchováván pro pospolitost synů Israele pro vodu k očištění od nečistoty; slouží k očištění od hříchu.
+[9] Muž, který je čistý, sesbírá popel z jalovice a uloží jej mimo tábor na čisté místo; bude uchováván pro pospolitost synů ⟦israel|Jisraele|Izraele⟧ pro vodu k očištění od nečistoty; slouží k očištění od hříchu.
 
-[10] Ten, kdo sesbírá popel z jalovice, vypere své šaty a bude nečistý až do večera. Pro syny Israele i pro cizince, který mezi nimi pobývá, to bude trvalé ustanovení.
+[10] Ten, kdo sesbírá popel z jalovice, vypere své šaty a bude nečistý až do večera. Pro syny ⟦israel|Jisraele|Izraele⟧ i pro cizince, který mezi nimi pobývá, to bude trvalé ustanovení.
 
 [11] Kdo se dotkne mrtvého těla kteréhokoli člověka, bude nečistý sedm dní.
 
 [12] Očistí se tou vodou třetího dne a sedmého dne, a pak bude čistý; ale jestliže se neočistí třetího dne, nebude čistý ani sedmého dne.
 
-[13] Kdo se dotkne mrtvého – těla člověka, který zemřel – a neočistí se, poskvrňuje příbytek Yahweh; ten člověk bude vyobcován z Israele. Protože na něj nebyla pokropena voda k očištění od nečistoty, bude nečistý; jeho nečistota je ještě na něm.
+[13] Kdo se dotkne mrtvého – těla člověka, který zemřel – a neočistí se, poskvrňuje příbytek ⟦yhwh|Jahveho|Hospodina⟧; ten člověk bude vyobcován z ⟦israel|Jisraele|Izraele⟧. Protože na něj nebyla pokropena voda k očištění od nečistoty, bude nečistý; jeho nečistota je ještě na něm.
 
 [14] Toto je zákon, když člověk zemře ve stanu: každý, kdo vejde do stanu, a všechno, co je ve stanu, bude nečisté sedm dní.
 
@@ -38,7 +38,7 @@
 
 [19] Čistý pokropí nečistého třetího dne a sedmého dne; a sedmého dne ho očistí a on vypere své šaty, omyje se vodou a večer bude čistý.
 
-[20] Ale člověk, který se stal nečistým a neočistí se – ten člověk bude vyobcován ze středu shromáždění, protože poskvrnil svatyni Yahweh. Voda k očištění od nečistoty na něj nebyla pokropena; je nečistý.
+[20] Ale člověk, který se stal nečistým a neočistí se – ten člověk bude vyobcován ze středu shromáždění, protože poskvrnil svatyni ⟦yhwh|Jahveho|Hospodina⟧. Voda k očištění od nečistoty na něj nebyla pokropena; je nečistý.
 
 [21] Bude jim to trvalým ustanovením. Ten, kdo kropí vodou k očištění od nečistoty, vypere své šaty, a ten, kdo se dotkne vody k očištění od nečistoty, bude nečistý až do večera.
 

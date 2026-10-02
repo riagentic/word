@@ -1,24 +1,24 @@
 # Římanům 13
 
-[1] Každý člověk ať se podřizuje vládnoucím autoritám. Není totiž autority, která by nebyla od *Elohim*, a ty, které existují, byly ustanoveny *Elohim*.
+[1] Každý člověk ať se podřizuje vládnoucím autoritám. Není totiž autority, která by nebyla od ⟦elohim|Elohim|Boha⟧, a ty, které existují, byly ustanoveny ⟦elohim|Elohim|Bohem⟧.
 
-[2] Kdo se tedy staví proti autoritám, staví se proti tomu, co ustanovil *Elohim*, a ti, kdo se stavějí proti, si přivodí soud.
+[2] Kdo se tedy staví proti autoritám, staví se proti tomu, co ustanovil ⟦elohim|Elohim|Bůh⟧, a ti, kdo se stavějí proti, si přivodí soud.
 
 [3] Vládci totiž nejsou postrachem pro dobré jednání, ale pro zlé. Chceš se nebát toho, kdo má autoritu? Konej tedy dobro a dostane se ti od něho uznání,
 
-[4] neboť je služebníkem *Elohim* pro tvé dobro. Jestliže však činíš zlo, boj se, neboť nenosí meč nadarmo. Je totiž služebníkem *Elohim*, mstitelem, který vykonává hněv *Elohim* na tom, kdo páchá zlo.
+[4] neboť je služebníkem ⟦elohim|Elohim|Božím⟧ pro tvé dobro. Jestliže však činíš zlo, boj se, neboť nenosí meč nadarmo. Je totiž služebníkem ⟦elohim|Elohim|Božím⟧, mstitelem, který vykonává hněv ⟦elohim|Elohim|Boží⟧ na tom, kdo páchá zlo.
 
-[5] Proto je nutné se podřizovat, nejen abychom se vyhnuli hněvu *Elohim*, ale i kvůli svědomí.
+[5] Proto je nutné se podřizovat, nejen abychom se vyhnuli hněvu ⟦elohim|Elohim|Božímu⟧, ale i kvůli svědomí.
 
-[6] Proto také platíte daně, neboť autority jsou služebníky *Elohim*, kteří se právě tomu věnují.
+[6] Proto také platíte daně, neboť autority jsou služebníky ⟦elohim|Elohim|Božími⟧, kteří se právě tomu věnují.
 
 [7] Odvádějte všem, co jim náleží: daň, komu náleží daň, clo, komu náleží clo, respekt, komu náleží respekt, čest, komu náleží čest.
 
-[8] Nikomu nebuďte nic dlužni kromě vzájemné lásky, neboť kdo miluje druhého, naplnil Torah.
+[8] Nikomu nebuďte nic dlužni kromě vzájemné lásky, neboť kdo miluje druhého, naplnil ⟦torah|Tóru|zákon⟧.
 
 [9] Přikázání „**Nezcizoložíš, nezavraždíš, nepokradeš, nebudeš žádostivý**“ a každé jiné přikázání jsou shrnuta v tomto slově: „**Budeš milovat svého bližního jako sám sebe.**“
 
-[10] Láska nečiní bližnímu zlo; proto **láska je naplněním Torah**.
+[10] Láska nečiní bližnímu zlo; proto **láska je naplněním ⟦torah|Tóry|zákona⟧**.
 
 [11] A to tím spíše, že znáte čas: přišla hodina, abyste se probudili ze spánku. Spasení je nám nyní blíže, než když jsme uvěřili.
 
@@ -26,7 +26,7 @@
 
 [13] Choďme slušně jako za dne, ne v hýřeních a opilství, ne ve smilstvu a bezuzdnosti, ne ve sváru a závisti.
 
-[14] Ale oblečte se do Pána *Yeshuy* *Mashiacha* a nepečujte o tělo tak, abyste ukájeli jeho touhy.
+[14] Ale oblečte se do Pána ⟦yeshua|Ješuy|Ježíše⟧ ⟦mashiach|Mašiacha|Krista⟧ a nepečujte o tělo tak, abyste ukájeli jeho touhy.
 
 ## Změny
 

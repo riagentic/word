@@ -1,28 +1,28 @@
 # Numbers 5
 
-[1] Yahweh spoke to Moses, saying,
+[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[2] "Command the children of Israel to put out of the camp every person with skin disease, and every person who has a discharge, and every person defiled by a corpse.
+[2] "Command the children of ⟦israel|Yisrael|Israel⟧ to put out of the camp every person with skin disease, and every person who has a discharge, and every person defiled by a corpse.
 
 [3] Both male and female you shall put out, outside the camp you shall put them; that they may not defile their camps, in the midst of which I dwell."
 
-[4] The children of Israel did so, and put them out outside the camp; as Yahweh had spoken to Moses, so the children of Israel did.
+[4] The children of ⟦israel|Yisrael|Israel⟧ did so, and put them out outside the camp; as ⟦yhwh|Yahweh|the LORD⟧ had spoken to ⟦moses|Moshe|Moses⟧, so the children of ⟦israel|Yisrael|Israel⟧ did.
 
-[5] Yahweh spoke to Moses, saying,
+[5] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[6] "Speak to the children of Israel: 'When a man or a woman commits any of the sins that people commit — breaking faith with Yahweh — and that person is guilty,
+[6] "Speak to the children of ⟦israel|Yisrael|Israel⟧: 'When a man or a woman commits any of the sins that people commit — breaking faith with ⟦yhwh|Yahweh|the LORD⟧ — and that person is guilty,
 
 [7] they shall confess the sin they have committed. He shall make full restitution for his wrong, adding a fifth to it, and give it to the one he has wronged.
 
-[8] But if the wronged man has no next of kin to whom restitution can be made, the restitution for the wrong made to Yahweh shall go to the priest — besides the ram of atonement with which atonement is made for him.
+[8] But if the wronged man has no next of kin to whom restitution can be made, the restitution for the wrong made to ⟦yhwh|Yahweh|the LORD⟧ shall go to the priest — besides the ram of atonement with which atonement is made for him.
 
-[9] Every contribution from all the holy things of the children of Israel, which they bring to the priest, shall be his.
+[9] Every contribution from all the holy things of the children of ⟦israel|Yisrael|Israel⟧, which they bring to the priest, shall be his.
 
 [10] Each man's holy things shall be his own; whatever anyone gives to the priest shall be his.'"
 
-[11] Yahweh spoke to Moses, saying,
+[11] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[12] "Speak to the children of Israel and say to them: 'If any man's wife goes astray and breaks faith with him,
+[12] "Speak to the children of ⟦israel|Yisrael|Israel⟧ and say to them: 'If any man's wife goes astray and breaks faith with him,
 
 [13] and a man lies with her sexually, and it is hidden from her husband's eyes and she is secretly defiled, and there is no witness against her, and she was not caught in the act;
 
@@ -30,17 +30,17 @@
 
 [15] then the man shall bring his wife to the priest and shall bring her offering for her: one-tenth of an ephah of barley flour. He shall pour no oil on it and put no frankincense on it, for it is a grain offering of jealousy, a grain offering of memorial, calling iniquity to remembrance.
 
-[16] The priest shall bring her forward and set her before Yahweh.
+[16] The priest shall bring her forward and set her before ⟦yhwh|Yahweh|the LORD⟧.
 
 [17] The priest shall take holy water in an earthenware vessel, and of the dust that is on the floor of the Dwelling the priest shall take and put into the water.
 
-[18] The priest shall set the woman before Yahweh, unbind the hair of the woman's head, and put the grain offering of memorial in her hands, which is the grain offering of jealousy; and in the priest's hand shall be the water of bitterness that brings the curse.
+[18] The priest shall set the woman before ⟦yhwh|Yahweh|the LORD⟧, unbind the hair of the woman's head, and put the grain offering of memorial in her hands, which is the grain offering of jealousy; and in the priest's hand shall be the water of bitterness that brings the curse.
 
 [19] The priest shall charge her by an oath and say to the woman, "If no man has lain with you, and if you have not gone astray into uncleanness while under your husband's authority, be free from this water of bitterness that brings the curse.
 
 [20] But if you have gone astray while under your husband's authority, and have become defiled, and a man other than your husband has lain with you" —
 
-[21] then the priest shall make the woman swear an oath of cursing, and the priest shall say to the woman, "Yahweh make you a curse and an oath among your people, when Yahweh makes your thigh fall away and your belly swell;
+[21] then the priest shall make the woman swear an oath of cursing, and the priest shall say to the woman, "⟦yhwh|Yahweh|The LORD⟧ make you a curse and an oath among your people, when ⟦yhwh|Yahweh|the LORD⟧ makes your thigh fall away and your belly swell;
 
 [22] and may this water that brings the curse enter your bowels, to make your belly swell and your thigh fall away." And the woman shall say, "Amen. Amen."
 
@@ -48,7 +48,7 @@
 
 [24] He shall make the woman drink the water of bitterness that brings the curse, and the water that brings the curse shall enter her and cause bitterness.
 
-[25] The priest shall take the grain offering of jealousy out of the woman's hand, elevate the grain offering before Yahweh, and bring it to the altar.
+[25] The priest shall take the grain offering of jealousy out of the woman's hand, elevate the grain offering before ⟦yhwh|Yahweh|the LORD⟧, and bring it to the altar.
 
 [26] The priest shall take a handful of the grain offering as its memorial portion, and turn it into smoke on the altar; and afterward he shall make the woman drink the water.
 
@@ -58,7 +58,7 @@
 
 [29] This is the law of jealousy, when a wife goes astray while under her husband's authority and becomes defiled,
 
-[30] or when a spirit of jealousy comes upon a man and he is jealous of his wife; then he shall set the woman before Yahweh, and the priest shall apply to her all this law.
+[30] or when a spirit of jealousy comes upon a man and he is jealous of his wife; then he shall set the woman before ⟦yhwh|Yahweh|the LORD⟧, and the priest shall apply to her all this law.
 
 [31] The man shall be free from iniquity, but that woman shall bear her iniquity.'"
 

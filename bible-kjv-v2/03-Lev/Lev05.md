@@ -10,9 +10,9 @@
 
 [5] When he is guilty in any of these, he shall confess the sin he has committed.
 
-[6] And he shall bring to Yahweh as his penalty for the sin he has committed a female from the flock, a lamb or a young goat, as a sin offering; and the priest shall make atonement for him on account of his sin.
+[6] And he shall bring to ⟦yhwh|Yahweh|the LORD⟧ as his penalty for the sin he has committed a female from the flock, a lamb or a young goat, as a sin offering; and the priest shall make atonement for him on account of his sin.
 
-[7] If he cannot afford a lamb, he shall bring to Yahweh as his penalty for the sin he has committed two turtledoves or two young pigeons — one for a sin offering and the other for a burnt offering.
+[7] If he cannot afford a lamb, he shall bring to ⟦yhwh|Yahweh|the LORD⟧ as his penalty for the sin he has committed two turtledoves or two young pigeons — one for a sin offering and the other for a burnt offering.
 
 [8] He shall bring them to the priest, who shall offer first the one for the sin offering; he shall wring off its head from its neck, but shall not sever it.
 
@@ -22,21 +22,21 @@
 
 [11] If he cannot afford two turtledoves or two young pigeons, then he shall bring as his offering for the sin he has committed a tenth of an ephah of fine flour for a sin offering. He shall put no oil on it and lay no frankincense on it, for it is a sin offering.
 
-[12] He shall bring it to the priest, and the priest shall take from it a handful as its memorial portion and turn it into smoke on the altar, upon the offerings by fire to Yahweh. It is a sin offering.
+[12] He shall bring it to the priest, and the priest shall take from it a handful as its memorial portion and turn it into smoke on the altar, upon the offerings by fire to ⟦yhwh|Yahweh|the LORD⟧. It is a sin offering.
 
 [13] Thus the priest shall make atonement for him for the sin he has committed in any of these matters, and he shall be forgiven. The rest shall belong to the priest, as in the grain offering."
 
-[14] Yahweh spoke to Moses, saying,
+[14] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧, saying,
 
-[15] "If any person commits a breach of faith and sins unintentionally in any of the holy things of Yahweh, he shall bring to Yahweh as his guilt offering a ram without blemish from the flock, valued in silver shekels according to the shekel of the sanctuary, as a guilt offering.
+[15] "If any person commits a breach of faith and sins unintentionally in any of the holy things of ⟦yhwh|Yahweh|the LORD⟧, he shall bring to ⟦yhwh|Yahweh|the LORD⟧ as his guilt offering a ram without blemish from the flock, valued in silver shekels according to the shekel of the sanctuary, as a guilt offering.
 
 [16] He shall make restitution for the sin he has committed in the holy thing, and shall add a fifth to it, and give it to the priest. And the priest shall make atonement for him with the ram of the guilt offering, and he shall be forgiven.
 
-[17] If any person sins by doing any one of the things that Yahweh has commanded not to be done, though he did not know it, yet he is guilty and shall bear his iniquity.
+[17] If any person sins by doing any one of the things that ⟦yhwh|Yahweh|the LORD⟧ has commanded not to be done, though he did not know it, yet he is guilty and shall bear his iniquity.
 
 [18] He shall bring to the priest a ram without blemish from the flock, by your valuation, as a guilt offering. And the priest shall make atonement for him on account of the inadvertent error he committed without knowing, and he shall be forgiven.
 
-[19] It is a guilt offering; he has indeed incurred guilt before Yahweh."
+[19] It is a guilt offering; he has indeed incurred guilt before ⟦yhwh|Yahweh|the LORD⟧."
 
 ## Changes
 

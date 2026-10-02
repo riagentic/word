@@ -1,6 +1,6 @@
 # Jób 21
 
-[1] Tu Job odpověděl a řekl:
+[1] Tu ⟦job|Ijov|Jób⟧ odpověděl a řekl:
 
 [2] „Pozorně poslouchejte mou řeč
 a ať je vám to útěchou.
@@ -24,7 +24,7 @@ stárnou a rostou v moci?
 jejich potomci před jejich očima.
 
 [9] Jejich domy jsou bezpečné před strachem;
-nedopadá na ně hůl Eloah.
+nedopadá na ně hůl ⟦eloah|Eloah|Boží⟧.
 
 [10] Jejich býk se páří a neselže;
 jejich kráva se otelí a nepotratí.
@@ -36,12 +36,12 @@ jejich děti tančí.
 radují se při zvuku flétny.
 
 [13] Tráví své dny v blahobytu
-a v pokoji sestupují do Sheolu.
+a v pokoji sestupují do ⟦sheol|Šeolu|podsvětí⟧.
 
-[14] Říkají *Elohim*: ‚Odejdi od nás;
+[14] Říkají ⟦el|El|Bohu⟧: ‚Odejdi od nás;
 netoužíme poznat tvé cesty.
 
-[15] Co je Shaddai, abychom mu sloužili?
+[15] Co je ⟦shaddai|Šaddaj|Všemohoucí⟧, abychom mu sloužili?
 Jaký bychom měli užitek, kdybychom se k němu modlili?‘
 
 [16] Hle, jejich dobro není v jejich ruce;
@@ -49,21 +49,21 @@ rada svévolníků je daleko ode mne.
 
 [17] Jak často zhasíná lampa svévolníků?
 Jak často na ně přichází jejich pohroma?
-Rozděluje Eloah ve svém hněvu bolesti?
+Rozděluje ⟦eloah|Eloah|Bůh⟧ ve svém hněvu bolesti?
 
 [18] Jsou jako strniště před větrem,
 jako pleva, kterou odnáší bouře.
 
-[19] ‚Eloah ukládá nepravost pro jeho děti‘ –
+[19] ‚⟦eloah|Eloah|Bůh⟧ ukládá nepravost pro jeho děti‘ –
 ať ji odplatí přímo tomu muži, aby to poznal.
 
 [20] Ať jeho vlastní oči vidí jeho zkázu;
-ať pije z hněvu Shaddaiova.
+ať pije z hněvu ⟦shaddai|Šaddajova|Všemohoucího⟧.
 
 [21] Vždyť jakou má radost ze svého domu po sobě,
 když je počet jeho měsíců odťat?
 
-[22] Může někdo učit *Elohim* poznání,
+[22] Může někdo učit ⟦el|El|Boha⟧ poznání,
 když právě on soudí ty na výšinách?
 
 [23] Jeden umírá v plné síle,
@@ -105,6 +105,7 @@ Vaše odpovědi zůstávají klamem.“
 
 ## Změny
 
+- **"God" → „El“** (v14, 22) – hebrejsky אֵל *El*, ne *Elohim*.
 - **"grave" → „Sheol“** (v13).
 - **"timbrel... organ" → „bubínku… flétny“** (v12) – *toph… ugav*.
 - **"prince" → „urozeného“** (v28) – *nadiv*.

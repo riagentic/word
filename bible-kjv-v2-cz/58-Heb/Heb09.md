@@ -6,27 +6,27 @@
 
 [3] Za druhou oponou byl druhý oddíl, nazývaný Svatyně svatých,
 
-[4] v němž byl zlatý kadidlový oltář a truhla smlouvy, ze všech stran pokrytá zlatem, v níž byla zlatá nádoba s manou, Aaronova hůl, která vypučela, a desky smlouvy.
+[4] v němž byl zlatý kadidlový oltář a truhla smlouvy, ze všech stran pokrytá zlatem, v níž byla zlatá nádoba s manou, ⟦aaron|Aharonova|Áronova⟧ hůl, která vypučela, a desky smlouvy.
 
-[5] Nad ní byli cherubové slávy, zastiňující slitovnici. O tom všem nyní nemůžeme mluvit podrobně.
+[5] Nad ní byli ⟦cherubim|keruvim|cherubové⟧ slávy, zastiňující ⟦mercy-seat|kapporet|slitovnici⟧. O tom všem nyní nemůžeme mluvit podrobně.
 
 [6] Když to bylo takto připraveno, vcházejí kněží pravidelně do prvního oddílu a konají své bohoslužebné povinnosti,
 
 [7] ale do druhého vchází jen velekněz, a to jen jednou za rok, a ne bez krve, kterou obětuje za sebe a za neúmyslné hříchy lidu.
 
-[8] Tím *Ruach HaQodesh* naznačuje, že cesta do svatyně ještě není otevřena, dokud stojí první oddíl
+[8] Tím ⟦ruach-haqodesh|Ruach HaKodeš|Duch svatý⟧ naznačuje, že cesta do svatyně ještě není otevřena, dokud stojí první oddíl
 
 [9] (což je obrazem pro nynější věk). Podle tohoto uspořádání se přinášejí dary a oběti, které nemohou přivést k dokonalosti svědomí toho, kdo se klaní,
 
 [10] ale týkají se jen pokrmů, nápojů a různých omývání – tělesných předpisů uložených až do času nápravy.
 
-[11] Když však *Mashiach* přišel jako velekněz dobrých věcí, které již nastaly, pak skrze větší a dokonalejší stan (ne rukama udělaný, to jest ne z tohoto stvoření)
+[11] Když však ⟦mashiach|Mašiach|Kristus⟧ přišel jako velekněz dobrých věcí, které již nastaly, pak skrze větší a dokonalejší stan (ne rukama udělaný, to jest ne z tohoto stvoření)
 
 [12] vstoupil jednou provždy do svatyně, ne s krví kozlů a telat, ale se svou vlastní krví, a tak získal věčné vykoupení.
 
 [13] Jestliže totiž krev kozlů a býků a pokropení poskvrněných popelem jalovice posvěcuje k očištění těla,
 
-[14] čím spíše krev *Mashiacha*, který skrze věčného Ducha obětoval sám sebe bez vady *Elohim*, očistí naše svědomí od mrtvých skutků, abychom sloužili živému *Elohim*.
+[14] čím spíše krev ⟦mashiach|Mašiacha|Krista⟧, který skrze věčného Ducha obětoval sám sebe bez vady ⟦elohim|Elohim|Bohu⟧, očistí naše svědomí od mrtvých skutků, abychom sloužili živému ⟦elohim|Elohim|Bohu⟧.
 
 [15] Proto je prostředníkem nové smlouvy, aby ti, kdo jsou povoláni, obdrželi zaslíbené věčné dědictví, neboť nastala smrt, která je vykupuje z přestoupení spáchaných za první smlouvy.
 
@@ -36,17 +36,17 @@
 
 [18] Proto ani první smlouva nebyla uvedena v platnost bez krve.
 
-[19] Když totiž Moses oznámil celému lidu každé přikázání Torah, vzal krev telat a kozlů s vodou, šarlatovou vlnou a yzopem a pokropil jak samu knihu, tak všechen lid
+[19] Když totiž ⟦moses|Moše|Mojžíš⟧ oznámil celému lidu každé přikázání ⟦torah|Tóry|zákona⟧, vzal krev telat a kozlů s vodou, šarlatovou vlnou a yzopem a pokropil jak samu knihu, tak všechen lid
 
-[20] se slovy: „**Toto je krev smlouvy, kterou vám *Elohim* přikázal**.“
+[20] se slovy: „**Toto je krev smlouvy, kterou vám ⟦elohim|Elohim|Bůh⟧ přikázal**.“
 
 [21] A stejně tak pokropil krví i stan a všechny nádoby užívané při bohoslužbě.
 
-[22] Podle Torah se vskutku **téměř všechno očišťuje krví a bez prolití krve není odpuštění hříchů**.
+[22] Podle ⟦torah|Tóry|zákona⟧ se vskutku **téměř všechno očišťuje krví a bez prolití krve není odpuštění hříchů**.
 
 [23] Bylo tedy nutné, aby napodobeniny nebeských věcí byly očišťovány těmito obřady, ale samy nebeské věci lepšími oběťmi, než jsou tyto.
 
-[24] *Mashiach* totiž nevstoupil do svatyně udělané rukama, která je jen napodobeninou té pravé, ale do samého nebe, aby se nyní za nás ukázal před tváří *Elohim*.
+[24] ⟦mashiach|Mašiach|Kristus⟧ totiž nevstoupil do svatyně udělané rukama, která je jen napodobeninou té pravé, ale do samého nebe, aby se nyní za nás ukázal před tváří ⟦elohim|Elohim|Boží⟧.
 
 [25] A nevstoupil tam proto, aby obětoval sám sebe opakovaně, jako velekněz vchází do svatyně každý rok s cizí krví,
 
@@ -54,7 +54,7 @@
 
 [27] A jako je člověku určeno jednou zemřít a potom přichází soud,
 
-[28] tak i *Mashiach*, jednou obětovaný, aby nesl hříchy mnohých, se podruhé ukáže, ne kvůli hříchu, ale aby spasil ty, kdo ho dychtivě očekávají.
+[28] tak i ⟦mashiach|Mašiach|Kristus⟧, jednou obětovaný, aby nesl hříchy mnohých, se podruhé ukáže, ne kvůli hříchu, ale aby spasil ty, kdo ho dychtivě očekávají.
 
 ## Změny
 

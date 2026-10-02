@@ -1,20 +1,20 @@
 # Leviticus 20
 
-[1] Yahweh promluvil k Mosesovi:
+[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧:
 
-[2] „Řekni opět synům Israele: ‚Kdokoli ze synů Israele nebo z cizinců, kteří pobývají v Israeli, kdo dá někoho ze svého potomstva Molechovi, musí zemřít; lid země ho ukamenuje kameny.
+[2] „Řekni opět synům ⟦israel|Jisraele|Izraele⟧: ‚Kdokoli ze synů ⟦israel|Jisraele|Izraele⟧ nebo z cizinců, kteří pobývají v ⟦israel|Jisraeli|Izraeli⟧, kdo dá někoho ze svého potomstva ⟦molech|Molechovi|Molekovi⟧, musí zemřít; lid země ho ukamenuje kameny.
 
-[3] Já sám obrátím svou tvář proti tomu muži a vytnu ho z jeho lidu, protože dal někoho ze svého potomstva Molechovi, a tak poskvrnil mou svatyni a znesvětil mé svaté jméno.
+[3] Já sám obrátím svou tvář proti tomu muži a vytnu ho z jeho lidu, protože dal někoho ze svého potomstva ⟦molech|Molechovi|Molekovi⟧, a tak poskvrnil mou svatyni a znesvětil mé svaté jméno.
 
-[4] Jestliže lid země nad tím mužem nějak zavře oči, když dává ze svého potomstva Molechovi, a neusmrtí ho,
+[4] Jestliže lid země nad tím mužem nějak zavře oči, když dává ze svého potomstva ⟦molech|Molechovi|Molekovi⟧, a neusmrtí ho,
 
-[5] pak já sám obrátím svou tvář proti tomu muži a jeho rodině; a vytnu ho z jeho lidu – jeho i všechny, kdo s ním smilní, aby smilnili s Molechem.
+[5] pak já sám obrátím svou tvář proti tomu muži a jeho rodině; a vytnu ho z jeho lidu – jeho i všechny, kdo s ním smilní, aby smilnili s ⟦molech|Molechem|Molekem⟧.
 
 [6] Člověka, který se obrací k vyvolávačům duchů nebo ke spiritistům, aby s nimi smilnil, proti tomu člověku obrátím svou tvář a vytnu ho z jeho lidu.
 
-[7] Posvěťte se tedy a buďte svatí; neboť já jsem Yahweh, váš *Elohim*.
+[7] Posvěťte se tedy a buďte svatí; neboť já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧.
 
-[8] Zachovávejte má ustanovení a plňte je; já jsem Yahweh, který vás posvěcuje.
+[8] Zachovávejte má ustanovení a plňte je; já jsem ⟦yhwh|Jahve|Hospodin⟧, který vás posvěcuje.
 
 [9] Kdokoli zlořečí svému otci nebo své matce, musí zemřít; zlořečil svému otci nebo své matce – jeho krev je na něm.
 
@@ -46,11 +46,11 @@
 
 [23] Nebudete žít podle zvyků národa, který před vámi vyháním; neboť to všechno páchali, a proto jsem si je zošklivil.
 
-[24] Vám jsem však řekl: „Vy zdědíte jejich zemi a já vám ji dám do vlastnictví – zemi oplývající mlékem a medem.“ Já jsem Yahweh, váš *Elohim*, který vás oddělil od národů.
+[24] Vám jsem však řekl: „Vy zdědíte jejich zemi a já vám ji dám do vlastnictví – zemi oplývající mlékem a medem.“ Já jsem ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧, který vás oddělil od národů.
 
 [25] Rozlišujte tedy mezi čistým a nečistým zvířetem a mezi nečistým a čistým ptákem; nečiňte se ohavnými skrze zvíře, ptáka ani nic, co se plazí po zemi, co jsem vám oddělil jako nečisté.
 
-[26] Budete mi svatí, neboť já, Yahweh, jsem svatý a oddělil jsem vás od národů, abyste byli moji.
+[26] Budete mi svatí, neboť já, ⟦yhwh|Jahve|Hospodin⟧, jsem svatý a oddělil jsem vás od národů, abyste byli moji.
 
 [27] Muž nebo žena, kteří jsou vyvolávači duchů nebo spiritisty, musí zemřít; budou ukamenováni kameny; jejich krev je na nich.‘“
 
