@@ -1,59 +1,78 @@
 # Revelation 3
 
-[1] "And to the angel of the church in ⟦sardis|Sardeis|Sardis⟧ write: 'The words of him who has the seven spirits of ⟦elohim|Elohim|God⟧ and the seven stars.
+[1] "And to the angel of the church in ⟦sardis|Sardeis|Sardis⟧ write: 'These things says the one who has the seven spirits of ⟦elohim|Elohim|God⟧ and the seven stars:
 
-"'I know your works. You have the reputation of being alive, but you are dead.
+"'I know your works, that you have a name that you live, and you are dead.
 
-[2] Wake up, and strengthen what remains and is about to die, for I have not found your works complete in the sight of my ⟦elohim|Elohim|God⟧.
+[2] Be awake, and make stable the remaining things that were about to die, for I have not found your works fulfilled before my ⟦elohim|Elohim|God⟧.
 
-[3] Remember, then, what you received and heard. Keep it, and repent. If you will not wake up, **I will come like a thief**, and you will not know at what hour I will come against you.
+[3] Remember therefore how you have received and heard, and keep, and repent. If therefore you are not awake, **I will come as a thief**, and you will by no means come to know at what hour I will come upon you.
 
-[4] Yet you have still a few names in ⟦sardis|Sardeis|Sardis⟧, people who have not soiled their garments, and they will walk with me in white, for they are worthy.
+[4] But you have a few names in ⟦sardis|Sardeis|Sardis⟧ that did not defile their garments, and they will walk with me in white, for they are worthy.
 
-[5] The one who conquers will be clothed thus in white garments, and I will never blot his name out of the book of life. I will confess his name before my Father and before his angels.
+[5] The one who overcomes will thus be clothed in white garments, and I will by no means blot out his name from the book of life, and I will confess his name before my Father and before his angels.
 
-[6] "'He who has an ear, let him hear what the Spirit says to the churches.'
+[6] "'The one who has an ear, let him hear what the Spirit says to the churches.'
 
-[7] "And to the angel of the church in ⟦philadelphia|Philadelpheia|Philadelphia⟧ write: 'The words of the holy one, the true one, who has the key of David, who opens and no one will shut, who shuts and no one opens.
+[7] "And to the angel of the church in ⟦philadelphia|Philadelpheia|Philadelphia⟧ write: 'These things says the holy one, the true one, the one who has the key of David, the one who opens and no one will shut, and shuts and no one opens:
 
-[8] "'I know your works. Behold, I have set before you an open door, which no one is able to shut. I know that you have but little power, and yet you have kept my word and have not denied my name.
+[8] "'I know your works — behold, I have given before you an opened door, which no one is able to shut — that you have little power, and you kept my word and did not deny my name.
 
-[9] Behold, I will make those of the synagogue of Satan who say that they are ⟦jews|Yehudim|Jews⟧ and are not, but lie — behold, I will make them come and bow down before your feet and they will learn that I have loved you.
+[9] Behold, I give of the synagogue of Satan, of those who say that they themselves are ⟦jews|Yehudim|Jews⟧, and are not, but lie — behold, I will make them come and bow down before your feet, and know that I loved you.
 
-[10] Because you have kept my word about patient endurance, I will keep you from the hour of trial that is coming on the whole world, to try those who dwell on the earth.
+[10] Because you kept the word of my endurance, I also will keep you from the hour of trial that is about to come upon the whole inhabited earth, to test those who dwell on the earth.
 
-[11] I am coming soon. Hold fast what you have, so that no one may seize your crown.
+[11] I am coming quickly; hold what you have, that no one may take your crown.
 
-[12] The one who conquers, I will make him a pillar in the temple of my ⟦elohim|Elohim|God⟧. Never shall he go out of it, and I will write on him the name of my ⟦elohim|Elohim|God⟧, and the name of the city of my ⟦elohim|Elohim|God⟧, the new ⟦jerusalem|Yerushalayim|Jerusalem⟧, which comes down from my ⟦elohim|Elohim|God⟧ out of heaven, and my own new name.
+[12] The one who overcomes, I will make him a pillar in the sanctuary of my ⟦elohim|Elohim|God⟧, and he will by no means go outside any more, and I will write upon him the name of my ⟦elohim|Elohim|God⟧, and the name of the city of my ⟦elohim|Elohim|God⟧, the new ⟦jerusalem|Yerushalayim|Jerusalem⟧, which comes down out of heaven from my ⟦elohim|Elohim|God⟧, and my new name.
 
-[13] "'He who has an ear, let him hear what the Spirit says to the churches.'
+[13] "'The one who has an ear, let him hear what the Spirit says to the churches.'
 
-[14] "And to the angel of the church in ⟦laodicea|Laodikeia|Laodicea⟧ write: 'The words of the Amen, the faithful and true witness, the beginning of ⟦elohim|Elohim|God⟧'s creation.
+[14] "And to the angel of the church in ⟦laodicea|Laodikeia|Laodicea⟧ write: 'These things says the Amen, the faithful and true witness, the beginning of the creation of ⟦elohim|Elohim|God⟧:
 
-[15] "'I know your works: you are neither cold nor hot. Would that you were either cold or hot!
+[15] "'I know your works, that you are neither cold nor hot. Would that you were cold or hot!
 
-[16] So, because you are lukewarm, and neither hot nor cold, I will spit you out of my mouth.
+[16] So, because you are lukewarm, and neither hot nor cold, I am about to vomit you out of my mouth.
 
-[17] For you say, I am rich, I have prospered, and I need nothing, not realizing that you are wretched, pitiable, poor, blind, and naked.
+[17] Because you say, I am rich, and I have become rich, and I have need of nothing, and you do not know that you are the wretched one and pitiable and poor and blind and naked,
 
-[18] I counsel you to buy from me gold refined by fire, so that you may be rich, and white garments so that you may clothe yourself and the shame of your nakedness may not be seen, and salve to anoint your eyes, so that you may see.
+[18] I counsel you to buy from me gold refined by fire, that you may become rich, and white garments, that you may clothe yourself and the shame of your nakedness may not be manifested, and eye salve to anoint your eyes, that you may see.
 
-[19] Those whom I love, I reprove and discipline, so be zealous and repent.
+[19] As many as I have affection for, I reprove and train; be zealous therefore and repent.
 
-[20] **Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and eat with him, and he with me.**
+[20] **Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and have supper with him, and he with me.**
 
-[21] The one who conquers, I will grant him to sit with me on my throne, as I also conquered and sat down with my Father on his throne.
+[21] The one who overcomes, I will give to him to sit with me on my throne, as I also overcame and sat down with my Father on his throne.
 
-[22] "'He who has an ear, let him hear what the Spirit says to the churches.'"
+[22] "'The one who has an ear, let him hear what the Spirit says to the churches.'"
 
 ## Changes
 
-- **"God" → "*Elohim*"** (v2, 12) — systematic.
-- **"church"** (v1, 7, 14) — systematic.
-- **"churches"** (v6, 13, 22) — systematic.
-- **"I will come on thee as a thief" → "I will come like a thief"** (v3) — modernized; "on thee" → omitted; "like" for "as" with the comparative.
-- **"I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem" → "I will write on him the name of my *Elohim*, and the name of the city of my *Elohim*, the new Jerusalem"** (v12) — "God" → "*Elohim*" (×2).
-- **"because thou art lukewarm" → "because you are lukewarm"** (v16) — modernized throughout.
-- **"I counsel thee to buy of me gold tried in the fire" → "I counsel you to buy from me gold refined by fire"** (v18) — "tried" → "refined"; modernized.
-- **"As many as I love, I rebuke and chasten" → "Those whom I love, I reprove and discipline"** (v19) — "chasten" → "discipline"; modernized.
-- **"Behold, I stand at the door, and knock" → "Behold, I stand at the door and knock"** (v20) — echoes Song 5:2; no change needed beyond modernizing.
+- **"God" → "*Elohim*"** (v1, 2, 12, 14) — systematic.
+- **"These things saith he that hath" kept** (v1, 7, 14) — Greek Τάδε λέγει, as in ch. 2.
+- **"thou hast a name that thou livest, and art dead" kept** (v1) — Greek ὄνομα ἔχεις ὅτι ζῇς, καὶ νεκρὸς εἶ; "reputation" is "name" (ὄνομα), the word of v4, 5, 8, 12.
+- **"Be watchful, and strengthen the things which remain, that are ready to die" → "Be awake, and make stable the remaining things that were about to die"** (v2) — Greek γίνου γρηγορῶν, "be (become) one who is awake"; στήρισον; ἔμελλον ἀποθανεῖν, imperfect (WH Treg NA28; RP "which you were about to throw away").
+- **"I have not found thy works perfect before God" → "I have not found your works fulfilled before my *Elohim*"** (v2) — Greek πεπληρωμένα, "filled full, fulfilled"; τοῦ θεοῦ μου.
+- **"how thou hast received and heard, and hold fast" → "how you have received and heard, and keep"** (v3) — Greek πῶς "how", not "what"; τήρει "keep", with no object.
+- **"I will come on thee as a thief" → "I will come as a thief"** (v3) — the first "upon you" is RP only; the second (ἐπὶ σέ) stands at the end of the verse. "Know" is γνῷς, "come to know" (WH NA28 RP; Treg γνώσῃ), with οὐ μή "by no means".
+- **"a few names … which have not defiled their garments" kept** (v4) — Greek ὀλίγα ὀνόματα, "names" for persons; ἐμόλυναν, aorist.
+- **"the same shall be clothed" → "will thus be clothed"** (v5) — οὕτως "thus" WH Treg NA28; οὗτος "this one" RP. "Blot out" with οὐ μή, "by no means".
+- **"he that is holy, he that is true" → "the holy one, the true one"** (v7) — Greek ὁ ἅγιος, ὁ ἀληθινός. "Will shut" is future (κλείσει), "opens" present (ἀνοίγει WH Treg NA28; RP future).
+- **"I have set before thee an open door, and no man can shut it" → "I have given before you an opened door, which no one is able to shut"** (v8) — Greek δέδωκα, "I have given"; ἠνεῳγμένην, "having been opened"; the Greek repeats the pronoun, "which no one is able to shut it". The clause is an aside; "that you have little power" continues "I know your works" (ὅτι may also be "because").
+- **"a little strength" → "little power"** (v8) — Greek μικρὰν δύναμιν.
+- **"I will make them of the synagogue of Satan" → "I give of the synagogue of Satan"** (v9) — Greek διδῶ ἐκ τῆς συναγωγῆς, present, "I give (some) out of"; the sentence breaks off and starts again with "behold, I will make them".
+- **"to come and worship before thy feet" → "come and bow down before your feet"** (v9) — Greek προσκυνήσουσιν, "bow down, do homage"; the Greek is ἵνα with the future (WH Treg NA28). "I loved you": ἐγὼ ἠγάπησά σε, with a stressed "I" (WH Treg NA28).
+- **"the word of my patience" → "the word of my endurance"** (v10) — Greek τὸν λόγον τῆς ὑπομονῆς μου; "my" can go with "endurance" or with the whole phrase ("my word of endurance"). Not "my word about patient endurance".
+- **"the hour of temptation, which shall come upon all the world, to try them" → "the hour of trial that is about to come upon the whole inhabited earth, to test those"** (v10) — Greek πειρασμός … πειράσαι, one root ("trial … test", as 2:2, 10); οἰκουμένη "inhabited earth"; τηρήσω ἐκ, "keep out of / from".
+- **"Behold, I come quickly: hold that fast" → "I am coming quickly; hold what you have"** (v11) — Greek ἔρχομαι ταχύ ("quickly" or "soon"); "behold" is not in the editions; κράτει "hold".
+- **"a pillar in the temple of my God, and he shall go no more out" → "a pillar in the sanctuary of my *Elohim*, and he will by no means go outside any more"** (v12) — Greek ναός, the temple building itself; οὐ μή. "The one who overcomes" stands in the nominative and is taken up by "him".
+- **"which is new Jerusalem, which cometh down" → "the new Jerusalem, which comes down"** (v12) — Greek ἡ καταβαίνουσα is nominative after the genitive "of the new Jerusalem": the grammar is broken as in 1:5 (WH Treg NA28; RP "which comes down", a finite verb). "My new name": τὸ ὄνομά μου τὸ καινόν.
+- **"the beginning of the creation of God" kept** (v14) — Greek ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ; ἀρχή is "beginning", also "origin" and "rule, ruler".
+- **"I will spue thee out of my mouth" → "I am about to vomit you out of my mouth"** (v16) — Greek μέλλω σε ἐμέσαι.
+- **"I am rich, and increased with goods" → "I am rich, and I have become rich"** (v17) — Greek πλούσιός εἰμι καὶ πεπλούτηκα, the same root twice. "Because you say" (ὅτι λέγεις) is taken up by "I counsel you" in v18.
+- **"thou art wretched" → "you are the wretched one"** (v17) — Greek σὺ εἶ ὁ ταλαίπωρος, with a stressed "you" and the article.
+- **"gold tried in the fire" → "gold refined by fire"** (v18) — Greek πεπυρωμένον ἐκ πυρός, "fired out of fire", the participle of 1:15.
+- **"that the shame of thy nakedness do not appear" → "may not be manifested"** (v18) — Greek φανερωθῇ. "Eyesalve": κολλούριον.
+- **"As many as I love, I rebuke and chasten" → "As many as I have affection for, I reprove and train"** (v19) — Greek φιλῶ, not ἀγαπῶ (v9); ἐλέγχω "reprove, convict"; παιδεύω "train as a child", which includes chastening (Heb 12:6). The Greek begins with a stressed "I" (ἐγώ).
+- **"Behold, I stand at the door, and knock" kept** (v20) — Greek ἕστηκα, perfect, "I have taken my stand". After "opens the door" NA28 RP read καί ("then I will come in"); WH Treg lack it; no difference in English. "Sup" → "have supper" (δειπνήσω).
+- **"To him that overcometh will I grant to sit with me in my throne" → "The one who overcomes, I will give to him to sit with me on my throne"** (v21) — Greek ὁ νικῶν δώσω αὐτῷ; ἐνίκησα "I overcame", the same verb; ἐν τῷ θρόνῳ, literally "in my throne".

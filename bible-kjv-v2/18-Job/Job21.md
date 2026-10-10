@@ -49,7 +49,7 @@ the counsel of the wicked is far from me.
 
 [17] How often is the lamp of the wicked put out?
 How often does their calamity come upon them?
-Does ⟦eloah|Eloah|God⟧ apportion pains in his anger?
+Does he apportion pains in his anger?
 
 [18] They are as stubble before the wind,
 as chaff that the storm carries away.
@@ -109,6 +109,7 @@ Your answers remain falsehoods."
 - **"grave" → "Sheol"** (v13).
 - **"timbrel... organ" → "tambourine... flute"** (v12) — *toph... ugav*.
 - **"prince" → "noble"** (v28) — *nadiv*.
+- **"God distributeth sorrows" → "does he apportion pains"** (v17) — Hebrew חֲבָלִים יְחַלֵּק בְּאַפּוֹ *chavalim yechalleq be-appo*; MT names no subject ("God" in KJV and ESV is supplied).
 
 ### Notes
 - **Job's counter-evidence** — observation shows wicked prosper, die in peace.

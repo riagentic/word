@@ -76,7 +76,7 @@ he does no good to the widow.
 [22] Yet he drags off the mighty by his power;
 he rises, and no one is sure of life.
 
-[23] ⟦eloah|Eloah|God⟧ gives him security on which he relies,
+[23] He gives him security on which he relies,
 and his eyes are upon their ways.
 
 [24] They are exalted a little while, then gone;
@@ -93,6 +93,7 @@ and reduce my words to nothing?"
 - **"corn / fodder" → "fodder / sheaves"** (v6, 10) — *belilo... omer*.
 - **"the tops of the ears of corn" → "the heads of grain"** (v24).
 - **"God layeth not folly to them" → "Eloah charges no one with wrong"** (v12).
+- **"it be given him to be in safety" → "he gives him security"** (v23) — Hebrew יִתֶּן־לוֹ לָבֶטַח *yitten-lo la-vetach*, "he gives him security"; MT names no subject ("God" in ESV is supplied).
 
 ### Notes
 - **Job describes systemic evil** — the wicked flourish, poor suffer. Yahweh does not intervene.

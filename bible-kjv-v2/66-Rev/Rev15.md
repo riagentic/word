@@ -1,35 +1,46 @@
 # Revelation 15
 
-[1] Then I saw another sign in heaven, great and amazing, seven angels with seven plagues, which are the last, for with them the wrath of ⟦elohim|Elohim|God⟧ is finished.
+[1] And I saw another sign in heaven, great and marvelous: seven angels having seven plagues, the last ones, because in them the rage of ⟦elohim|Elohim|God⟧ was finished.
 
-[2] And I saw what appeared to be a sea of glass mingled with fire — and also those who had conquered the beast and its image and the number of its name, standing beside the sea of glass with harps of ⟦elohim|Elohim|God⟧ in their hands.
+[2] And I saw as it were a sea of glass mixed with fire, and those overcoming out of the beast and out of its image and out of the number of its name, standing on the sea of glass, having harps of ⟦elohim|Elohim|God⟧.
 
-[3] And they sing the song of ⟦moses|Moshe|Moses⟧, the servant of ⟦elohim|Elohim|God⟧, and the song of the Lamb, saying,
+[3] And they sing the song of ⟦moses|Moshe|Moses⟧, the slave of ⟦elohim|Elohim|God⟧, and the song of the Lamb, saying,
 
-"**Great and amazing are your deeds,
-O Lord ⟦elohim|Elohim|God⟧ the Almighty!
-Just and true are your ways,
-O King of the nations!
-[4] Who will not fear, O Lord,
+"**Great and marvelous are your works,
+Lord, ⟦elohim|Elohim|God⟧, the Almighty;
+righteous and true are your ways,
+King of the nations.
+[4] Who will not fear, Lord,
 and glorify your name?
-For you alone are holy.
-All nations will come
-and worship you,
-for your righteous acts have been revealed**."
+Because you alone are holy;
+because all the nations will come
+and bow down before you,
+because your righteous deeds were manifested**."
 
-[5] After this I looked, and the sanctuary of the tent of witness in heaven was opened,
+[5] And after these things I saw, and the sanctuary of the tent of the testimony in heaven was opened,
 
-[6] and out of the sanctuary came the seven angels with the seven plagues, clothed in pure, bright linen, with golden sashes around their chests.
+[6] and the seven angels having the seven plagues came out of the sanctuary, clothed in clean, bright linen and girded around the breasts with golden belts.
 
-[7] And one of the four living creatures gave to the seven angels seven golden bowls full of the wrath of ⟦elohim|Elohim|God⟧ who lives forever and ever,
+[7] And one of the four living creatures gave to the seven angels seven golden bowls full of the rage of ⟦elohim|Elohim|God⟧, who lives unto the ages of the ages.
 
-[8] and the sanctuary was filled with smoke from the glory of ⟦elohim|Elohim|God⟧ and from his power, and no one could enter the sanctuary until the seven plagues of the seven angels were finished.
+[8] And the sanctuary was filled with smoke from the glory of ⟦elohim|Elohim|God⟧ and from his power, and no one was able to enter into the sanctuary until the seven plagues of the seven angels should be finished.
 
 ## Changes
 
 - **"God" → "*Elohim*"** (throughout) — systematic.
-- **"Lord God Almighty" → "Lord *Elohim* the Almighty"** (v3) — Greek Κύριε ὁ Θεὸς ὁ Παντοκράτωρ; "God" → "*Elohim*"; "Almighty" = *Pantokrator*.
-- **"Just and true are thy ways, thou King of saints" → "Just and true are your ways, O King of the nations"** (v3) — Greek βασιλεῦ τῶν ἐθνῶν *basileu tōn ethnōn* = "King of the nations" (the better-attested reading, supported by NA28); KJV reads "King of saints" following a minority text (*hagiōn* vs. *ethnōn*).
-- **"the tabernacle of the testimony" → "the sanctuary of the tent of witness"** (v5) — Greek τοῦ ναοῦ τῆς σκηνῆς τοῦ μαρτυρίου *tou naou tēs skēnēs tou martyriou* = "the temple of the tent of testimony/witness"; "tabernacle" → "tent"; "testimony" → "witness" (*martyrion*).
-- **"the seven golden vials full of the wrath of God" → "seven golden bowls full of the wrath of *Elohim*"** (v7) — "vials" → "bowls" (Greek φιάλας *phialas* = "shallow bowls / libation dishes"); "vials" are narrow containers; "bowls" is more accurate and consistent with how these are used (poured out).
-- **"the temple was filled with smoke" → "the sanctuary was filled with smoke"** (v8) — Greek ναός *naos* = "inner sanctuary / temple shrine"; "sanctuary" is more specific than "temple."
+- **"And" kept at the head of the sentences** (v1, 5) — Greek καί; not turned into "then".
+- **"great and marvellous" kept** (v1, 3) — Greek μέγα καὶ θαυμαστόν, of one root with θαυμάζω "marvel".
+- **"seven angels having the seven last plagues; for in them is filled up the wrath of God" → "seven angels having seven plagues, the last ones, because in them the rage of *Elohim* was finished"** (v1) — Greek πληγὰς ἑπτὰ τὰς ἐσχάτας; ἐτελέσθη, an aorist passive of τελέω "finish" (also v8); θυμός "rage" (also v7), not ὀργή "wrath".
+- **"them that had gotten the victory over the beast" → "those overcoming out of the beast"** (v2) — Greek τοὺς νικῶντας ἐκ τοῦ θηρίου, a present participle with ἐκ "out of", three times; an unusual construction, kept. "And over his mark" (KJV) is not in the Greek.
+- **"stand on the sea of glass" → "standing on the sea of glass"** (v2) — Greek ἐπὶ τὴν θάλασσαν, "on" or "at, beside".
+- **"the servant of God" → "the slave of *Elohim*"** (v3) — Greek δούλου.
+- **"Lord God Almighty" → "Lord, *Elohim*, the Almighty"** (v3) — Greek κύριε, ὁ θεός, ὁ παντοκράτωρ: a vocative followed by two nominatives with the article.
+- **"just and true are thy ways, thou King of saints" → "righteous and true are your ways, King of the nations"** (v3) — Greek δίκαιαι "righteous"; ἀληθιναί "true" (ἀληθινός). Reading: ἐθνῶν "of the nations" Treg RP NA28; αἰώνων "of the ages" WH and the SBLGNT. The KJV "of saints" follows neither.
+- **"Who shall not fear thee, O Lord" → "Who will not fear, Lord"** (v4) — Greek τίς οὐ μὴ φοβηθῇ, the strong negative (elsewhere "by no means"), which English cannot carry in a question; no "thee" (WH Treg NA28; σε RP).
+- **"for thou only art holy" → "Because you alone are holy"** (v4) — Greek ὅσιος, not ἅγιος. Elsewhere in this translation ὅσιος is "devout" (of men, and of the Mashiach in Heb 7:26); said of God the word means holy, pure, and "devout" would be wrong, so "holy" stands here and in 16:5. ὅσιος WH Treg NA28 ] ἅγιος RP. The three clauses each begin with ὅτι "because"; all three are kept.
+- **"worship before thee" → "bow down before you"** (v4) — Greek προσκυνήσουσιν ἐνώπιόν σου.
+- **"thy judgments are made manifest" → "your righteous deeds were manifested"** (v4) — Greek τὰ δικαιώματά σου ἐφανερώθησαν: δικαίωμα is a righteous deed or a righteous ordinance; both are possible here. Not κρίσις "judgment".
+- **"And after that I looked, and, behold, the temple of the tabernacle of the testimony" → "And after these things I saw, and the sanctuary of the tent of the testimony"** (v5) — Greek εἶδον "I saw"; no "behold"; ναός "sanctuary"; σκηνή "tent"; μαρτύριον "testimony" (Acts 7:44).
+- **"clothed in pure and white linen, and having their breasts girded with golden girdles" → "clothed in clean, bright linen and girded around the breasts with golden belts"** (v6) — Greek καθαρὸν λαμπρόν. Reading: λίνον "linen" NA28 RP; λίθον "stone" WH Treg ("clothed in clean, bright stone").
+- **"seven golden vials full of the wrath of God, who liveth for ever and ever" → "seven golden bowls full of the rage of *Elohim*, who lives unto the ages of the ages"** (v7) — Greek φιάλη, a shallow bowl; θυμός; εἰς τοὺς αἰῶνας τῶν αἰώνων.
+- **"temple" → "sanctuary"** (v6, 8) — Greek ναός.

@@ -14,7 +14,7 @@ you have made firm the feeble knees.
 [5] But now it has come upon you, and you are weary;
 it touches you, and you are dismayed.
 
-[6] Is not your fear of ⟦elohim|Elohim|God⟧ your confidence,
+[6] Is not your fear your confidence,
 and the integrity of your ways your hope?
 
 [7] Remember: who, being innocent, ever perished?
@@ -66,11 +66,12 @@ They die, yet without wisdom.'"
 
 ## Changes
 
-- **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
+- **"God" → "Eloah"** (v9, 17) — Hebrew אֱלוֹהַּ *Eloah*.
 - **"assay to commune with thee" → "ventures a word with you"** (v2).
 - **"angels" → "Messengers"** (v18).
 - **"charged with folly" → "charges with error"** (v18) — *tohŏlah*; rare word; possibly "folly" or "error."
 - **"excellency which is in them" → "tent-cord"** (v21) — Hebrew *yitram*; debated — either "their excellence" or "their tent-cord"; the latter matches the mortal-impermanence imagery.
+- **"thy fear" → "your fear"** (v6) — Hebrew יִרְאָתְךָ *yir'atekha*, "your fear"; MT names no object ("of God" in ESV and others is supplied).
 
 ### Notes
 - **Eliphaz first** — opens the cycles of speeches. Tactful opening; moves to theological challenge.

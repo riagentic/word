@@ -76,7 +76,7 @@ vdově nečiní dobro.
 [22] A přece strhává mocné svou silou;
 povstane, a nikdo si není jist životem.
 
-[23] ⟦eloah|Eloah|Bůh⟧ mu dává bezpečí, na něž se spoléhá,
+[23] Dává mu bezpečí, na něž se spoléhá,
 a jeho oči jsou na jejich cestách.
 
 [24] Na chvíli jsou vyvýšeni, pak jsou pryč;
@@ -93,6 +93,7 @@ a obrátí má slova v nic?“
 - **"corn / fodder" → „píci / snopy“** (v6, 10) – *belilo… omer*.
 - **"the tops of the ears of corn" → „klasy obilí“** (v24).
 - **"God layeth not folly to them" → „Eloah nikomu nepřipisuje křivdu“** (v12).
+- **"it be given him to be in safety" → „dává mu bezpečí“** (v23) – hebrejsky יִתֶּן־לוֹ לָבֶטַח *yitten-lo la-vetach*, „dává mu bezpečí“; MT neuvádí podmět („Bůh“ v ESV je doplněk).
 
 ### Poznámky
 - **Job popisuje systémové zlo** – svévolníkům se daří, chudí trpí. Yahweh nezasahuje.

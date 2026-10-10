@@ -49,7 +49,7 @@ rada svévolníků je daleko ode mne.
 
 [17] Jak často zhasíná lampa svévolníků?
 Jak často na ně přichází jejich pohroma?
-Rozděluje ⟦eloah|Eloah|Bůh⟧ ve svém hněvu bolesti?
+Rozděluje ve svém hněvu bolesti?
 
 [18] Jsou jako strniště před větrem,
 jako pleva, kterou odnáší bouře.
@@ -109,6 +109,7 @@ Vaše odpovědi zůstávají klamem.“
 - **"grave" → „Sheol“** (v13).
 - **"timbrel... organ" → „bubínku… flétny“** (v12) – *toph… ugav*.
 - **"prince" → „urozeného“** (v28) – *nadiv*.
+- **"God distributeth sorrows" → „rozděluje bolesti“** (v17) – hebrejsky חֲבָלִים יְחַלֵּק בְּאַפּוֹ *chavalim yechalleq be-appo*; MT neuvádí podmět („Bůh“ v KJV a ESV je doplněk).
 
 ### Poznámky
 - **Jobovy protidůkazy** – pozorování ukazuje, že svévolníkům se daří a umírají v pokoji.

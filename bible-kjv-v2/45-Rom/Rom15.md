@@ -1,93 +1,126 @@
 # Romans 15
 
-[1] We who are strong have an obligation to bear with the failings of the weak, and not to please ourselves.
+[1] But we, the powerful, ought to bear the weaknesses of the powerless, and not to please ourselves.
 
-[2] Let each of us please his neighbor for his good, to build him up.
+[2] Let each of us please the neighbor unto the good, for building up;
 
-[3] For ⟦mashiach|the Mashiach|Christ⟧ did not please himself, but as it is written, "**The reproaches of those who reproached you fell on me**."
+[3] for ⟦mashiach|the Mashiach|Christ⟧ also did not please himself; but, as it is written, "**The reproaches of those who reproach you fell upon me**."
 
-[4] For whatever was written in former days was written for our instruction, that through endurance and through the encouragement of the Scriptures we might have hope.
+[4] For as many things as were written beforehand were written for our doctrine, that through the endurance and through the encouragement of the Scriptures we might have the hope.
 
-[5] May the ⟦elohim|Elohim|God⟧ of endurance and encouragement grant you to live in such harmony with one another, in accord with ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧,
+[5] And may the ⟦elohim|Elohim|God⟧ of the endurance and of the encouragement give you to think the same thing among one another, according to ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧,
 
-[6] that together you may with one voice glorify the ⟦elohim|Elohim|God⟧ and Father of our Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧.
+[6] that with one accord, in one mouth, you may glorify the ⟦elohim|Elohim|God⟧ and Father of our Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧.
 
-[7] Therefore welcome one another as ⟦mashiach|the Mashiach|Christ⟧ has welcomed you, for the glory of ⟦elohim|Elohim|God⟧.
+[7] Therefore welcome one another, just as ⟦mashiach|the Mashiach|Christ⟧ also welcomed you, unto the glory of ⟦elohim|Elohim|God⟧.
 
-[8] For I tell you that ⟦mashiach|the Mashiach|Christ⟧ became a servant to the circumcised to show ⟦elohim|Elohim's|God's⟧ truthfulness, in order to confirm the promises given to the patriarchs,
+[8] For I say that ⟦mashiach|the Mashiach|Christ⟧ has become a servant of circumcision on behalf of the truth of ⟦elohim|Elohim|God⟧, to confirm the promises of the fathers,
 
-[9] and in order that the Gentiles might glorify ⟦elohim|Elohim|God⟧ for his mercy. As it is written,
+[9] and that the nations glorify ⟦elohim|Elohim|God⟧ on behalf of mercy; as it is written,
 
-"**Therefore I will praise you among the Gentiles,
-and sing to your name**."
+"**Because of this I will confess to you among nations,
+and to your name I will sing psalms**."
 
-[10] And again it is said,
+[10] And again it says,
 
-"**Rejoice, O Gentiles, with his people**."
+"**Rejoice, nations, with his people**."
 
 [11] And again,
 
-"**Praise ⟦yhwh|Yahweh|the Lord⟧, all you Gentiles,
-and let all the peoples extol him**."
+"**Praise ⟦yhwh|Yahweh|the Lord⟧, all the nations,
+and let all the peoples praise him**."
 
 [12] And again ⟦isaiah|Yeshayahu|Isaiah⟧ says,
 
-"**The root of ⟦jesse|Yishai|Jesse⟧ will come,
-even he who arises to rule the Gentiles;
-in him will the Gentiles hope**."
+"**There shall be the root of ⟦jesse|Yishai|Jesse⟧,
+and the one who rises to rule nations;
+upon him nations shall hope**."
 
-[13] May the ⟦elohim|Elohim|God⟧ of hope fill you with all joy and peace in believing, so that by the power of the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧ you may abound in hope.
+[13] And may the ⟦elohim|Elohim|God⟧ of the hope fill you with all joy and peace in believing, that you may abound in the hope, in the power of the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧.
 
-[14] I myself am satisfied about you, my brothers, that you yourselves are full of goodness, filled with all knowledge and able to instruct one another.
+[14] And I myself also am persuaded concerning you, my brothers, that you yourselves also are full of goodness, filled with all the knowledge, able also to admonish one another.
 
-[15] But on some points I have written to you very boldly by way of reminder, because of the grace given me by ⟦elohim|Elohim|God⟧
+[15] But I have written to you more boldly in part, as reminding you again, because of the grace given to me by ⟦elohim|Elohim|God⟧
 
-[16] to be a minister of ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧ to the Gentiles in the priestly service of the gospel of ⟦elohim|Elohim|God⟧, so that the offering of the Gentiles may be acceptable, sanctified by the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧.
+[16] that I should be a minister of ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧ unto the nations, serving as a priest the gospel of ⟦elohim|Elohim|God⟧, that the offering of the nations might become well-acceptable, sanctified in the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧.
 
-[17] In ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧, then, I have reason to be proud of my work for ⟦elohim|Elohim|God⟧.
+[17] I have therefore the boasting in ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧ in the things pertaining to ⟦elohim|Elohim|God⟧;
 
-[18] For I will not venture to speak of anything except what ⟦mashiach|the Mashiach|Christ⟧ has accomplished through me to bring the Gentiles to obedience — by word and deed,
+[18] for I will not dare to speak anything of the things which ⟦mashiach|the Mashiach|Christ⟧ did not work out through me unto obedience of nations, by word and work,
 
-[19] by the power of signs and wonders, by the power of the Spirit of ⟦elohim|Elohim|God⟧ — so that from ⟦jerusalem|Yerushalayim|Jerusalem⟧ and all the way around to Illyricum I have fulfilled the ministry of the gospel of ⟦mashiach|the Mashiach|Christ⟧;
+[19] in the power of signs and wonders, in the power of the ⟦ruach-haqodesh|Ruach HaQodesh|Holy Spirit⟧; so that from ⟦jerusalem|Yerushalayim|Jerusalem⟧ and round about as far as Illyricum I have fulfilled the gospel of ⟦mashiach|the Mashiach|Christ⟧,
 
-[20] and thus I make it my ambition to preach the gospel, not where ⟦mashiach|the Mashiach|Christ⟧ has already been named, lest I build on someone else's foundation,
+[20] and thus making it my ambition to preach the gospel not where ⟦mashiach|the Mashiach|Christ⟧ was named, that I might not build upon another's foundation,
 
 [21] but as it is written,
 
-"**Those who have never been told of him will see,
-and those who have never heard will understand**."
+"**Those to whom it was not announced concerning him shall see,
+and those who have not heard shall understand**."
 
-[22] This is the reason why I have so often been hindered from coming to you.
+[22] Therefore also I was being hindered many times from coming to you;
 
-[23] But now, since I no longer have any room for work in these regions, and since I have longed for many years to come to you,
+[23] but now, no longer having place in these regions, and having a longing to come to you for a good many years,
 
-[24] I hope to see you in passing as I go to ⟦spain|Spania|Spain⟧, and to be helped on my journey there by you, once I have enjoyed your company for a while.
+[24] whenever I go to ⟦spain|Spania|Spain⟧ — for I hope, passing through, to behold you and to be sent forward there by you, if first I am filled with you in part —
 
-[25] At present, however, I am going to ⟦jerusalem|Yerushalayim|Jerusalem⟧ bringing aid to the saints.
+[25] but now I am going to ⟦jerusalem|Yerushalayim|Jerusalem⟧, serving the saints.
 
-[26] For ⟦macedonia|Makedonia|Macedonia⟧ and Achaia have been pleased to make some contribution for the poor among the saints at ⟦jerusalem|Yerushalayim|Jerusalem⟧.
+[26] For ⟦macedonia|Makedonia|Macedonia⟧ and Achaia took pleasure in making some fellowship unto the poor of the saints who are in ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[27] For they were pleased to do it, and indeed they owe it to them. For if the Gentiles have come to share in their spiritual blessings, they ought also to be of service to them in material blessings.
+[27] For they took pleasure in it, and they are their debtors; for if the nations shared in their spiritual things, they ought also to minister to them in the fleshly things.
 
-[28] When therefore I have completed this and have delivered to them what has been collected, I will leave for ⟦spain|Spania|Spain⟧ by way of you.
+[28] Having therefore completed this, and having sealed to them this fruit, I will go away through you to ⟦spain|Spania|Spain⟧;
 
-[29] I know that when I come to you I will come in the fullness of the blessing of ⟦mashiach|the Mashiach|Christ⟧.
+[29] and I know that, coming to you, I will come in the fullness of the blessing of ⟦mashiach|the Mashiach|Christ⟧.
 
-[30] I appeal to you, brothers, by our Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧ and by the love of the Spirit, to strive together with me in your prayers to ⟦elohim|Elohim|God⟧ on my behalf,
+[30] Now I appeal to you, brothers, through our Lord ⟦yeshua|Yeshua|Jesus⟧ ⟦mashiach|the Mashiach|Christ⟧ and through the love of the Spirit, to struggle together with me in the prayers on my behalf to ⟦elohim|Elohim|God⟧,
 
-[31] that I may be delivered from the unbelievers in ⟦judea|Yehudah|Judea⟧, and that my service for ⟦jerusalem|Yerushalayim|Jerusalem⟧ may be acceptable to the saints,
+[31] that I may be rescued from those who disobey in ⟦judea|Yehudah|Judea⟧, and that my service which is for ⟦jerusalem|Yerushalayim|Jerusalem⟧ may become well-acceptable to the saints,
 
-[32] so that by ⟦elohim|Elohim's|God's⟧ will I may come to you with joy and be refreshed in your company.
+[32] that, coming to you in joy through the will of ⟦elohim|Elohim|God⟧, I may be refreshed together with you.
 
-[33] May the ⟦elohim|Elohim|God⟧ of peace be with you all. Amen.
+[33] And the ⟦elohim|Elohim|God⟧ of peace be with you all. Amen.
 
 ## Changes
 
-- **"Jesus Christ" / "Christ Jesus" / "Christ" → "*Yeshua* the *Mashiach*" / "*Mashiach* *Yeshua*" / "*Mashiach*"** (v5, 6, 7, 8, 16, 17, 18, 19, 20, 29, 30) — systematic.
+- **"Jesus Christ" / "Christ Jesus" / "Christ" → "*Yeshua* the *Mashiach*" / "*Mashiach* *Yeshua*" / "*Mashiach*"** (v3, 5, 6, 7, 8, 16, 17, 18, 19, 20, 29, 30) — systematic. In v8, 18, 20, 29 Χριστός has no article.
 - **"God" → "*Elohim*"** (throughout) — systematic.
-- **"Holy Ghost" → "*Ruach HaQodesh*"** (v13, 16) — systematic.
-- **"minister of Jesus Christ to the Gentiles, ministering the gospel of God" → "a minister of the *Mashiach* *Yeshua* to the Gentiles in the priestly service of the gospel of *Elohim*"** (v16) — λειτουργόν *leitourgon* = public/priestly servant; ἱερουργοῦντα *hierourgounts* = performing priestly service; Paul uses temple/cultic language; "priestly service" captures this.
-- **OT quotations** (v3 from Ps 69:9; v9 from 2 Sam 22:50 / Ps 18:49; v10 from Deut 32:43; v11 from Ps 117:1; v12 from Isa 11:10; v21 from Isa 52:15) — all noted; all formatted as poetry.
+- **"Holy Ghost" → "*Ruach HaQodesh*"** (v13, 16, 19) — systematic; in all three places the Greek has no article.
+- **"Gentiles" → "nations"** (v9–12, 16, 18, 27) — Greek ἔθνη; "peoples" in v11 is λαοί, "his people" in v10 λαός.
+- **"We then that are strong … the infirmities of the weak" → "we, the powerful … the weaknesses of the powerless"** (v1) — Greek δυνατοί, ἀδύνατοι; ἀσθενήματα (a different noun from ἀσθένεια, the same root). "Ought" is ὀφείλομεν, "owe", as in 13:8 and v27.
+- **"for his good to edification" → "unto the good, for building up"** (v2) — Greek εἰς τὸ ἀγαθὸν πρὸς οἰκοδομήν; no "his" and no "him" in the Greek.
+- **"for our learning" → "for our doctrine"** (v4) — Greek διδασκαλία, here the act of teaching. "Written beforehand … written": προεγράφη … ἐγράφη (SBLGNT, WH, Treg, NA28). "The encouragement of the Scriptures" is a plain genitive.
+- **"consolation" → "encouragement"** (v4, 5) — Greek παράκλησις.
+- **"grant you to be likeminded" → "give you to think the same thing"** (v5) — Greek τὸ αὐτὸ φρονεῖν, as Phil 2:2; δῴη is a wish. "According to" is κατά.
+- **"with one mind and one mouth" → "with one accord, in one mouth"** (v6) — Greek ὁμοθυμαδὸν ἐν ἑνὶ στόματι.
+- **"received us" → "welcomed you"** (v7) — προσελάβετο, as 14:1, 3; ὑμᾶς "you" (SBLGNT, Treg, NA28, RP); WH reads ἡμᾶς, "us".
+- **"a minister of the circumcision for the truth of God" → "a servant of circumcision on behalf of the truth of *Elohim*"** (v8) — Greek διάκονον περιτομῆς (no article) ὑπὲρ ἀληθείας θεοῦ; "to show" and "given to" are not in the Greek. "Promises of the fathers" is a plain genitive.
+- **"that the Gentiles might glorify God for his mercy" → "that the nations glorify *Elohim* on behalf of mercy"** (v9) — Greek τὰ δὲ ἔθνη ὑπὲρ ἐλέους δοξάσαι τὸν θεόν, an infinitive like "has become" in v8: either a second thing that Paul says, or a second purpose beside "to confirm". No "his" in the Greek; ὑπέρ as in v8.
+- **"I will confess to thee … and sing" → "I will confess to you … I will sing psalms"** (v9) — Greek ἐξομολογήσομαί σοι ("confess to" or "give praise to", as 14:11) and ψαλῶ.
+- **"Praise … laud" → "Praise … praise"** (v11) — two Greek verbs of one root, αἰνεῖτε and ἐπαινεσάτωσαν (SBLGNT, WH, Treg, NA28: "let them praise"; RP "praise him, all you peoples").
+- **"There shall be a root of Jesse, and he that shall rise to reign over the Gentiles; in him shall the Gentiles trust" → "There shall be the root of *Yishai*, and the one who rises to rule nations; upon him nations shall hope"** (v12) — translated from Paul's Greek (Isa 11:10 in the Greek version): ἔσται, ὁ ἀνιστάμενος ἄρχειν ἐθνῶν, ἐπ' αὐτῷ … ἐλπιοῦσιν; "hope" is the verb of "the hope" in v13.
+- **"through the power" → "in the power"** (v13, 19) — Greek ἐν δυνάμει.
+- **"filled with all knowledge" → "filled with all the knowledge"** (v14) — the verse follows πάσης τῆς γνώσεως (WH, NA28); SBLGNT, Treg and RP have no article. "Persuaded" is πέπεισμαι, as in 14:14.
+- **"the more boldly … in some sort, as putting you in mind" → "more boldly in part, as reminding you again"** (v15) — Greek τολμηρότερον (a comparative), ἀπὸ μέρους, ἐπαναμιμνῄσκων. "By *Elohim*" follows ὑπό (SBLGNT, NA28, RP); WH and Treg read ἀπό, "from".
+- **"minister of Jesus Christ to the Gentiles, ministering the gospel of God" → "a minister of the *Mashiach* *Yeshua* unto the nations, serving as a priest the gospel of *Elohim*"** (v16) — λειτουργόν *leitourgon*; ἱερουργοῦντα *hierourgounta*, "doing a priest's work", with "the gospel" as its direct object. Paul uses temple language. "Offering" is προσφορά; "well-acceptable" εὐπρόσδεκτος (also v31); "sanctified in", ἐν.
+- **"whereof I may glory … in those things which pertain to God" → "the boasting … in the things pertaining to *Elohim*"** (v17) — Greek τὴν καύχησιν … τὰ πρὸς τὸν θεόν; "my work" is not in the Greek.
+- **"to make the Gentiles obedient, by word and deed" → "unto obedience of nations, by word and work"** (v18) — Greek εἰς ὑπακοὴν ἐθνῶν, λόγῳ καὶ ἔργῳ; "did not work out", οὐ κατειργάσατο: the Greek says it with the negative.
+- **"the Spirit of God" → "the *Ruach HaQodesh*"** (v19) — the verse follows πνεύματος ἁγίου, "of the Holy Spirit" (WH, Treg); NA28 and RP read πνεύματος θεοῦ, "of the Spirit of God"; the printed SBLGNT has πνεύματος alone.
+- **"fully preached the gospel" → "fulfilled the gospel"** (v19) — Greek πεπληρωκέναι τὸ εὐαγγέλιον; "the ministry of" is not in the Greek.
+- **"so have I strived" → "thus making it my ambition"** (v20) — Greek φιλοτιμούμενον, a participle (SBLGNT, WH, NA28, RP), as 1 Thess 4:11. "Already" is not in the Greek.
+- **"To whom he was not spoken of" → "Those to whom it was not announced concerning him"** (v21) — Greek οἷς οὐκ ἀνηγγέλη περὶ αὐτοῦ.
+- **"much hindered" → "was being hindered many times"** (v22) — Greek ἐνεκοπτόμην (imperfect) τὰ πολλά, "many times" or "for the most part".
+- **"no more place … a great desire these many years" → "no longer having place … a longing … for a good many years"** (v23) — Greek τόπον, ἐπιποθίαν; ἱκανῶν ἐτῶν, "a considerable number of years" (SBLGNT, WH, Treg); NA28 and RP read πολλῶν, "many". "For work" is not in the Greek.
+- **"Whensoever I take my journey into Spain, I will come to you" → "whenever I go to *Spania* —"** (v24) — the Greek sentence of v23–24 is never finished; v25 begins anew. KJV's "I will come to you" (RP ἐλεύσομαι πρὸς ὑμᾶς) is not in SBLGNT, WH, Treg, NA28. "Behold" is θεάσασθαι; "sent forward", προπεμφθῆναι; "filled", ἐμπλησθῶ.
+- **"to minister unto the saints" → "serving the saints"** (v25) — Greek διακονῶν, the root of "service" in v31.
+- **"it hath pleased them … to make a certain contribution for the poor saints" → "took pleasure in making some fellowship unto the poor of the saints"** (v26, 27) — Greek εὐδόκησαν; κοινωνίαν τινά, the word "fellowship", here shown in a gift; "shared" in v27 is the verb ἐκοινώνησαν.
+- **"their duty is also to minister unto them in carnal things" → "they ought also to minister to them in the fleshly things"** (v27) — Greek ὀφείλουσιν (the root of "debtors"), λειτουργῆσαι (the root of "minister", v16), σαρκικοῖς.
+- **"performed … sealed to them this fruit" → "completed … sealed to them this fruit"** (v28) — Greek ἐπιτελέσας, σφραγισάμενος αὐτοῖς τὸν καρπὸν τοῦτον.
+- **"the blessing of the gospel of Christ" → "the blessing of the *Mashiach*"** (v29) — Greek εὐλογίας Χριστοῦ (SBLGNT, WH, Treg, NA28); RP adds "of the gospel".
+- **"I beseech you … for the Lord Jesus Christ's sake … strive together" → "I appeal to you … through our Lord … struggle together"** (v30) — Greek παρακαλῶ (of a request), διά twice, συναγωνίσασθαι.
+- **"them that do not believe" → "those who disobey"** (v31) — Greek τῶν ἀπειθούντων. "Rescued" is ῥυσθῶ.
+- **"be refreshed"** (v32) — Greek συναναπαύσωμαι ὑμῖν, "rest, be refreshed together with you". "Coming" follows ἐλθών (SBLGNT, WH, NA28); Treg and RP read ἔλθω … καί, "that I may come … and".
+- **OT quotations** (v3 from Ps 69:9; v9 from 2 Sam 22:50 / Ps 18:49; v10 from Deut 32:43; v11 from Ps 117:1; v12 from Isa 11:10; v21 from Isa 52:15) — all noted; translated from the Greek as Paul gives them.
 
 ### Notes
 - **v3** quotes Ps 69:9.

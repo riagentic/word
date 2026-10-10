@@ -1,43 +1,59 @@
 # Revelation 4
 
-[1] After this I looked, and behold, a door standing open in heaven! And the first voice, which I had heard speaking to me like a trumpet, said, "Come up here, and I will show you what must take place after this."
+[1] After these things I saw, and behold, a door opened in heaven, and the first voice that I heard, as of a trumpet speaking with me, saying, "Come up here, and I will show you the things that must come to pass." After these things
 
-[2] At once I was in the Spirit, and behold, a throne stood in heaven, with one seated on the throne.
+[2] at once I came to be in the Spirit; and behold, a throne was set in heaven, and on the throne one sitting,
 
-[3] And he who sat there had the appearance of jasper and carnelian, and around the throne was a rainbow that had the appearance of an emerald.
+[3] and the one sitting was like in appearance to a jasper stone and a sardius, and a rainbow was around the throne, like in appearance to an emerald.
 
-[4] Around the throne were twenty-four thrones, and seated on the thrones were twenty-four elders, clothed in white garments, with golden crowns on their heads.
+[4] And around the throne were twenty-four thrones, and on the thrones twenty-four elders sitting, clothed in white garments, and on their heads golden crowns.
 
-[5] From the throne came flashes of lightning, and rumblings and peals of thunder, and before the throne were burning seven torches of fire, which are the seven spirits of ⟦elohim|Elohim|God⟧,
+[5] And out of the throne go forth lightnings and voices and thunders; and seven torches of fire are burning before the throne, which are the seven spirits of ⟦elohim|Elohim|God⟧,
 
-[6] and before the throne there was as it were a sea of glass, like crystal.
+[6] and before the throne as it were a sea of glass, like crystal.
 
-And around the throne, on each side of the throne, are four living creatures, full of eyes in front and behind:
+And in the midst of the throne and around the throne four living creatures full of eyes in front and behind;
 
-[7] the first living creature like a lion, the second living creature like an ox, the third living creature with the face of a man, and the fourth living creature like an eagle in flight.
+[7] and the first living creature like a lion, and the second living creature like a calf, and the third living creature having the face as of a man, and the fourth living creature like a flying eagle.
 
-[8] And the four living creatures, each of them with six wings, are full of eyes all around and within, and day and night they never cease to say,
+[8] And the four living creatures, each one of them having six wings apiece, are full of eyes around and within; and they have no rest day and night, saying,
 
-"**Holy, holy, holy, is ⟦yhwh|Yahweh|the Lord⟧ ⟦elohim|Elohim|God⟧ Almighty,
-who was and is and is to come!**"
+"**Holy, holy, holy is ⟦yhwh|Yahweh|the Lord⟧ ⟦elohim|Elohim|God⟧, the Almighty,
+the one who was and the one who is and the one who is coming.**"
 
-[9] And whenever the living creatures give glory and honor and thanks to him who is seated on the throne, who lives forever and ever,
+[9] And whenever the living creatures shall give glory and honor and thanksgiving to the one sitting on the throne, the one living unto the ages of the ages,
 
-[10] the twenty-four elders fall down before him who is seated on the throne and worship him who lives forever and ever. They cast their crowns before the throne, saying,
+[10] the twenty-four elders will fall before the one sitting on the throne, and will bow down to the one living unto the ages of the ages, and will cast their crowns before the throne, saying,
 
 [11] "**Worthy are you, our Lord and ⟦elohim|Elohim|God⟧,
-to receive glory and honor and power,
+to receive the glory and the honor and the power,
 for you created all things,
-and by your will they existed and were created**."
+and because of your will they were and were created**."
 
 ## Changes
 
 - **"God" → "*Elohim*"** (throughout) — systematic.
-- **"Lord God Almighty" → "Lord *Elohim* Almighty"** (v8) — Greek Κύριος ὁ Θεὸς ὁ Παντοκράτωρ *Kyrios ho Theos ho Pantokrator*; "God" → "*Elohim*"; "Almighty" renders *Pantokrator*. Note: the Greek *Pantokrator* = "All-ruler / Almighty / Omnipotent One"; this is one of Revelation's key divine titles; "Almighty" is used throughout as the conventional English rendering.
-- **"who was, and is, and is to come" → "who was and is and is to come"** (v8) — Greek ὁ ἦν καὶ ὁ ὢν καὶ ὁ ἐρχόμενος *ho ēn kai ho ōn kai ho erchomenos*; a divine title throughout Revelation; grammatically a relative clause in the nominative, deliberately ungrammatical in Greek to mark the divine name's transcendence (echoing Exodus 3:14).
-- **"four beasts" → "four living creatures"** (v6-9) — Greek τέσσαρα ζῷα *tessara zōa* = "four living beings / creatures"; "beasts" in modern English implies wild animals or monsters; "living creatures" follows Ezekiel's terminology (*chayyot*, Ezek 1).
+- **"After this I looked" → "After these things I saw"** (v1) — Greek μετὰ ταῦτα εἶδον.
+- **"a door was opened in heaven" → "a door opened in heaven"** (v1) — Greek ἠνεῳγμένη, a perfect participle: a door standing opened.
+- **"the first voice which I heard was as it were of a trumpet talking with me; which said" → "the first voice that I heard, as of a trumpet speaking with me, saying"** (v1) — the Greek has no finite verb; λαλούσης "speaking" agrees with "trumpet", and λέγων "saying" is masculine although "voice" is feminine: the grammar is broken.
+- **"things which must be hereafter. And immediately" → "the things that must come to pass." After these things at once"** (v1–2) — Greek ἃ δεῖ γενέσθαι. μετὰ ταῦτα εὐθέως; the punctuation is the editors'. The printed text (also WH) begins the new sentence with "After these things"; NA28 puts the stop after it: "the things that must come to pass after these things. At once I came to be …" (as 1:19). RP reads "And at once".
+- **"I was in the spirit" → "I came to be in the Spirit"** (v2) — Greek ἐγενόμην ἐν πνεύματι, as 1:10; no article.
+- **"a throne was set in heaven, and one sat on the throne" → "a throne was set in heaven, and on the throne one sitting"** (v2) — Greek ἔκειτο, "lay, stood"; καθήμενος, a participle.
+- **"he that sat was to look upon like a jasper and a sardine stone" → "the one sitting was like in appearance to a jasper stone and a sardius"** (v3) — Greek ὅμοιος ὁράσει λίθῳ ἰάσπιδι καὶ σαρδίῳ; σάρδιον is a red stone (carnelian). "And the one sitting" is lacking in RP.
+- **"four and twenty seats" → "twenty-four thrones"** (v4) — Greek θρόνοι, the same word as the throne. The elders and the crowns are in the accusative, as after "I saw". στέφανος is the wreath-crown.
+- **"proceeded lightnings and thunderings and voices" → "go forth lightnings and voices and thunders"** (v5) — Greek ἐκπορεύονται, present; φωναί "voices, sounds". "Lamps" → "torches" (λαμπάδες).
+- **"a sea of glass like unto crystal" → "as it were a sea of glass, like crystal"** (v6) — Greek ὡς θάλασσα ὑαλίνη ὁμοία κρυστάλλῳ.
+- **"in the midst of the throne, and round about the throne" kept** (v6) — Greek ἐν μέσῳ τοῦ θρόνου καὶ κύκλῳ τοῦ θρόνου; not "on each side".
+- **"four beasts" → "four living creatures"** (v6–9) — Greek τέσσαρα ζῷα *tessara zōa* = "four living beings / creatures"; "beasts" in modern English implies wild animals or monsters; "living creatures" follows Ezekiel's terminology (*chayyot*, Ezek 1).
+- **"like a calf" kept** (v7) — Greek μόσχῳ, a calf or young bull. "Had a face as a man" → "having the face as of a man": ἔχων is masculine although "living creature" is neuter (WH Treg NA28; RP neuter).
+- **"they rest not day and night" → "they have no rest day and night"** (v8) — Greek ἀνάπαυσιν οὐκ ἔχουσιν. "Each one of them having six wings apiece": ἓν καθʼ ἓν αὐτῶν ἔχων ἀνὰ πτέρυγας ἕξ.
+- **"Lord God Almighty" → "the Lord *Elohim*, the Almighty"** (v8) — Greek κύριος, ὁ θεός, ὁ παντοκράτωρ; "is" is supplied. Κύριος here stands for the divine name (Isa 6:3). *Pantokratōr* = "ruler of all, Almighty".
+- **"which was, and is, and is to come" → "the one who was and the one who is and the one who is coming"** (v8) — Greek ὁ ἦν καὶ ὁ ὢν καὶ ὁ ἐρχόμενος; the title of 1:4, 8, here with "was" first.
+- **"when those beasts give" → "whenever the living creatures shall give"**, **"fall down … worship … cast" → "will fall … will bow down … will cast"** (v9–10) — Greek ὅταν δώσουσιν, πεσοῦνται, προσκυνήσουσιν, βαλοῦσιν: all future. προσκυνέω is "bow down, do homage". "Thanks" → "thanksgiving" (εὐχαριστία).
+- **"to him that sat on the throne, who liveth for ever and ever" → "to the one sitting on the throne, the one living unto the ages of the ages"** (v9, 10) — Greek τῷ καθημένῳ … τῷ ζῶντι εἰς τοὺς αἰῶνας τῶν αἰώνων.
 - **"twenty and four elders" → "twenty-four elders"** (v4, 10) — modernized numeral.
-- **"Thou art worthy, O Lord, to receive glory and honour and power" → "Worthy are you, our Lord and *Elohim*, to receive glory and honor and power"** (v11) — thee/thou modernized; "God" → "*Elohim*"; note: the Greek has "our Lord and God" (Κύριος καὶ ὁ Θεὸς ἡμῶν), a deliberate counter to the Roman emperor's title *Dominus et Deus* ("Lord and God" — Domitian's claim); "*Elohim*" preserves this counter-imperial proclamation.
+- **"Thou art worthy, O Lord, to receive glory and honour and power" → "Worthy are you, our Lord and *Elohim*, to receive the glory and the honor and the power"** (v11) — Greek ὁ κύριος καὶ ὁ θεὸς ἡμῶν, "our Lord and God" (RP adds "the holy one"); each of the three nouns has the article.
+- **"for thy pleasure they are and were created" → "because of your will they were and were created"** (v11) — Greek διὰ τὸ θέλημά σου ἦσαν καὶ ἐκτίσθησαν; διά with the accusative is "because of"; ἦσαν is "they were".
 
 ### Notes
 - **v7-8** echoes Isa 6; Ezek 1, 10.

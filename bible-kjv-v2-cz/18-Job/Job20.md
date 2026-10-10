@@ -67,7 +67,7 @@ proto jeho blahobyt nevydrží.
 dolehne na něj všechna síla bídy.
 
 [23] Aby si naplnil břicho do syta,
-sešle na něj ⟦elohim|Elohim|Bůh⟧ svůj planoucí hněv
+sešle na něj svůj planoucí hněv
 a nechá ho na něj pršet jako jeho pokrm.
 
 [24] Bude prchat před železnou zbraní;
@@ -99,6 +99,7 @@ dědictví, které mu ⟦el|El|Bůh⟧ vyměřil.“
 - **"bow of steel" → „bronzový šíp“** (v24) – *qeshet nechushah*; bronzový luk (ocel v době vzniku neznámá).
 - **"secret places" → „poklady“** (v26) – *tzafun*.
 - **"gall" → „játra“** (v25) – *merorah*.
+- **"God shall cast" → „sešle“** (v23) – hebrejsky יְשַׁלַּח־בּוֹ *yeshallach-bo*, „sešle na něj“; MT neuvádí podmět („Bůh“ v KJV a ESV je doplněk).
 
 ### Poznámky
 - **Zopharova druhá řeč** – plná tradičních kleteb na svévolníky.

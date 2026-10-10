@@ -16,7 +16,7 @@
 
 [8] Then I sent to him, saying, "No such things as you say are being done; you are inventing them out of your own heart."
 
-[9] For they were all trying to make us afraid, saying, "Their hands will be weakened from the work, and it will not be done." But now, O ⟦elohim|Elohim|God⟧, strengthen my hands.
+[9] For they were all trying to make us afraid, saying, "Their hands will be weakened from the work, and it will not be done." But now, strengthen my hands.
 
 [10] I went to the house of ⟦shemaiah|Shemayah|Shemaiah⟧ son of ⟦delaiah|Delayah|Delaiah⟧ son of ⟦mehetabel|Mehetavel|Mehetabel⟧, who was confined there; he said, "Let us meet together in the house of ⟦elohim|Elohim|God⟧, within the temple; let us close the temple doors, for they will come to kill you — by night they will come to kill you."
 
@@ -46,6 +46,7 @@
 - **"Gashmu saith it" — retained** (v6) — dialectal form of Geshem (Arabian-style ending); preserves the rhetorical naming.
 - **"mischief" → "harm"** (v2).
 - **"feignest them out of thine own heart" → "inventing them out of your own heart"** (v8).
+- **"O God, strengthen my hands" → "strengthen my hands"** (v9) — Hebrew וְעַתָּה חַזֵּק אֶת־יָדָי *ve-attah chazzeq et-yadai*, "but now, strengthen my hands"; MT has no address ("O God" in KJV and ESV is supplied).
 
 ### Notes
 - **Four diplomatic traps** then a fifth open-letter threat. Psychological warfare.

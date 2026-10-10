@@ -14,7 +14,7 @@ podlomená kolena jsi upevňoval.
 [5] Ale teď to přišlo na tebe, a jsi unaven;
 dotklo se to tebe, a jsi zděšen.
 
-[6] Není tvá bázeň před ⟦elohim|Elohim|Bohem⟧ tvou důvěrou
+[6] Není tvá bázeň tvou důvěrou
 a ryzost tvých cest tvou nadějí?
 
 [7] Vzpomeň si: kdo kdy zahynul nevinný?
@@ -66,11 +66,12 @@ Umírají, a to bez moudrosti.‘“
 
 ## Změny
 
-- **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
+- **"God" → „Eloah“** (v9, 17) – hebrejsky אֱלוֹהַּ *Eloah*.
 - **"assay to commune with thee" → „odváží se k tobě promluvit“** (v2).
 - **"angels" → „posly“** (v18).
 - **"charged with folly" → „obviňuje z omylu“** (v18) – *tohŏlah*; vzácné slovo; snad „pošetilost“ nebo „omyl“.
 - **"excellency which is in them" → „stanový provaz“** (v21) – hebrejsky *yitram*; sporné – buď „jejich vznešenost“, nebo „jejich stanový provaz“; druhé odpovídá obraznosti smrtelné pomíjivosti.
+- **"thy fear" → „tvá bázeň“** (v6) – hebrejsky יִרְאָתְךָ *yir'atekha*, „tvá bázeň“; MT neuvádí předmět („před Bohem“ v ESV a jinde je doplněk).
 
 ### Poznámky
 - **Eliphaz jako první** – otevírá cykly řečí. Taktní začátek; přechází k teologické výzvě.

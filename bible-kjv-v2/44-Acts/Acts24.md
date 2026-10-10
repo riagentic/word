@@ -1,56 +1,56 @@
 # Acts 24
 
-[1] And after five days the high priest ⟦ananias|Chananyah|Ananias⟧ came down with some elders and a spokesman, one Tertullus. They laid before the governor their case against ⟦paul|Paulus|Paul⟧.
+[1] And after five days the high priest ⟦ananias|Chananyah|Ananias⟧ came down with some elders and an orator, a certain Tertullus, who made disclosure to the governor against ⟦paul|Paulus|Paul⟧.
 
-[2] And when he had been summoned, Tertullus began to accuse him, saying: "Since through you we enjoy much peace, and since by your foresight, most excellent Felix, reforms are being made for this nation,
+[2] And when he had been called, Tertullus began to accuse, saying, "Attaining much peace through you, and reforms coming to be for this nation through your forethought,
 
-[3] in every way and everywhere we accept this with all gratitude.
+[3] both in every way and everywhere we accept it, most excellent Felix, with all thanksgiving.
 
-[4] But, to detain you no further, I beg you in your kindness to hear us briefly.
+[4] But that I may not hinder you any further, I appeal to you to hear us briefly in your gentleness.
 
-[5] For we have found this man a plague, one who stirs up riots among all the ⟦jews|Yehudim|Jews⟧ throughout the world and is a ringleader of the sect of the ⟦nazarenes|Notzrim|Nazarenes⟧.
+[5] For having found this man a pestilence, and one setting insurrections in motion among all the ⟦jews|Yehudim|Jews⟧ throughout the inhabited earth, and a ringleader of the sect of the ⟦nazarenes|Notzrim|Nazoreans⟧,
 
-[6] He even tried to profane the temple, but we seized him.
+[6] who also tried to profane the temple, whom we also took hold of —
 
-[8] By examining him yourself you will be able to find out from him about everything of which we accuse him."
+[8] from whom you yourself, having examined him, will be able to come to know about all these things of which we accuse him."
 
-[9] The ⟦jews|Yehudim|Jews⟧ also joined in the charge, affirming that all these things were so.
+[9] And the ⟦jews|Yehudim|Jews⟧ also joined in the attack, asserting that these things were so.
 
-[10] And when the governor had nodded to him to speak, ⟦paul|Paulus|Paul⟧ replied: "Knowing that for many years you have been a judge over this nation, I cheerfully make my defense.
+[10] And ⟦paul|Paulus|Paul⟧ answered, when the governor had nodded to him to speak, "Knowing that for many years you have been a judge for this nation, I defend myself with good cheer in the things concerning myself,
 
-[11] You can verify that it is not more than twelve days since I went up to worship in ⟦jerusalem|Yerushalayim|Jerusalem⟧,
+[11] you being able to come to know that it is not more than twelve days for me since I went up to ⟦jerusalem|Yerushalayim|Jerusalem⟧ to bow down,
 
-[12] and they did not find me disputing with anyone or stirring up a crowd, either in the temple or in the synagogues or in the city.
+[12] and neither in the temple did they find me discussing with anyone or causing an onset of a crowd, nor in the synagogues, nor throughout the city,
 
-[13] Neither can they prove to you what they now bring up against me.
+[13] nor can they prove to you the things of which they now accuse me.
 
-[14] But this I confess to you, that according to the Way, which they call a sect, I worship the ⟦elohim|Elohim|God⟧ of our fathers, believing everything laid down by the ⟦torah|Torah|Law⟧ and written in the Prophets,
+[14] But this I confess to you, that according to the Way, which they call a sect, so I worship the ancestral ⟦elohim|Elohim|God⟧, believing all the things that are according to the ⟦torah|Torah|law⟧ and the things written in the prophets,
 
-[15] having a hope in ⟦elohim|Elohim|God⟧, which these men themselves accept, that there will be a resurrection of both the just and the unjust.
+[15] having hope toward ⟦elohim|Elohim|God⟧, which these themselves also await, that there is about to be a resurrection of both righteous and unrighteous;
 
-[16] So I always take pains to have a clear conscience toward both ⟦elohim|Elohim|God⟧ and man.
+[16] in this I myself also exercise myself to have a conscience without offense toward ⟦elohim|Elohim|God⟧ and men continually.
 
-[17] Now after several years I came to bring alms to my nation and to present offerings.
+[17] Now after several years I arrived to do alms unto my nation, and offerings,
 
-[18] While I was doing this, they found me purified in the temple, without any crowd or tumult. But some ⟦jews|Yehudim|Jews⟧ from Asia —
+[18] in which they found me purified in the temple, not with a crowd nor with commotion;
 
-[19] they ought to be here before you and to make an accusation, should they have anything against me.
+[19] but some ⟦jews|Yehudim|Jews⟧ from Asia — who ought to have been present before you and to accuse, if they should have anything against me.
 
-[20] Or else let these men themselves say what wrongdoing they found when I stood before the ⟦sanhedrin|Sanhedrin|council⟧,
+[20] Or let these themselves say what wrongdoing they found when I stood before the ⟦sanhedrin|Sanhedrin|council⟧,
 
-[21] other than this one thing that I cried out while standing among them: 'It is with respect to the resurrection of the dead that I am on trial before you this day.'"
+[21] other than concerning this one voice which I cried out standing among them: 'Concerning the resurrection of the dead I am judged today before you.'"
 
-[22] But Felix, having a rather accurate knowledge of the Way, put them off, saying, "When Lysias the tribune comes down, I will decide your case."
+[22] But Felix put them off, knowing the things concerning the Way more accurately, saying, "When Lysias the chiliarch comes down, I will determine the things concerning you,"
 
-[23] Then he gave orders to the centurion that he should be kept in custody but have some liberty, and that none of his friends should be prevented from attending to his needs.
+[23] having given orders to the centurion that he be kept and have relief, and to hinder none of his own from serving him.
 
-[24] After some days Felix came with his wife Drusilla, who was Jewish, and he sent for ⟦paul|Paulus|Paul⟧ and heard him speak about faith in ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧.
+[24] And after some days Felix, having arrived with Drusilla, his own wife, who was ⟦jew|a Yehudiyah|a Jewess⟧, sent for ⟦paul|Paulus|Paul⟧ and heard him concerning the faith in ⟦mashiach|the Mashiach|Christ⟧ ⟦yeshua|Yeshua|Jesus⟧.
 
-[25] And as he reasoned about righteousness and self-control and the coming judgment, Felix was alarmed and said, "Go away for the present. When I get an opportunity I will summon you."
+[25] And as he discussed concerning righteousness and self-control and the sentence to come, Felix, becoming afraid, answered, "For the present, go; and when I get a time, I will call you to myself,"
 
-[26] At the same time he hoped that money would be given him by ⟦paul|Paulus|Paul⟧. So he sent for him often and conversed with him.
+[26] at the same time also hoping that money would be given him by ⟦paul|Paulus|Paul⟧; therefore also, sending for him more often, he conversed with him.
 
-[27] When two years had elapsed, Felix was succeeded by Porcius Festus. And desiring to do the ⟦jews|Yehudim|Jews⟧ a favor, Felix left ⟦paul|Paulus|Paul⟧ in prison.
+[27] But when two years had been fulfilled, Felix received a successor, Porcius Festus; and wanting to lay up a favor with the ⟦jews|Yehudim|Jews⟧, Felix left ⟦paul|Paulus|Paul⟧ behind bound.
 
 ## Changes
 
@@ -58,13 +58,44 @@
 - **"Jesus" → "*Yeshua*"** (v24) — systematic name transliteration.
 - **"Christ" → "*Mashiach*"** (v24) — Hebrew messianic title.
 - **"Holy Ghost" / Spirit** — no explicit *Ruach HaQodesh* occurrence in this chapter.
-- **"the Way"** (v14, 22) — Greek ἡ ὁδός; Paul identifies himself as a follower of "the Way" (v14); Felix has "rather accurate knowledge of the Way" (v22). This is the most theologically explicit use of the term in Acts, making "the Way" a self-identification.
-- **"law" → "Torah"** (v14) — "believing everything laid down by the Torah and written in the Prophets"; consistent rendering.
-- **v7 absent** — KJV v7 ("But the chief captain Lysias came upon us, and with great violence took him away out of our hands") is absent from the earliest MSS; omitted with note.
+- **"the Way"** (v14, 22) — Greek ἡ ὁδός; Paul speaks of "the Way, which they call a sect" (v14); Felix knows "the things concerning the Way more accurately" (v22).
+- **"law" → "Torah"** (v14) — Greek κατὰ τὸν νόμον; consistent rendering.
+- **v7 absent** — KJV v6b–8a ("and would have judged according to our law. But the chief captain Lysias came upon us, and with great violence took him away out of our hands, commanding his accusers to come unto thee") is in none of the four editions nor in RP (only the TR); omitted.
 - **Archaic pronouns and verb forms** modernized throughout.
+- **"descended with the elders, and with a certain orator named Tertullus, who informed the governor" → "came down with some elders and an orator, a certain Tertullus, who made disclosure to the governor"** (v1) — Greek μετὰ πρεσβυτέρων τινῶν (WH, Treg, NA28; RP "the elders"); ῥήτορος Τερτύλλου τινός, no "named"; ἐνεφάνισαν, ἐμφανίζω "disclose" (John 14:21), here of laying information before a judge.
+- **"when he was called forth … to accuse him" → "when he had been called … to accuse"** (v2) — Greek κληθέντος; κατηγορεῖν has no object.
+- **"we enjoy great quietness, and that very worthy deeds are done … by thy providence" → "Attaining much peace through you, and reforms coming to be … through your forethought"** (v2) — Greek Πολλῆς εἰρήνης τυγχάνοντες (τυγχάνω "attain", Heb 8:6); διορθωμάτων (WH, Treg, NA28), "things set right"; RP κατορθωμάτων, "successes"; προνοίας, "forethought" (Rom 13:14). Both clauses are participles depending on "we accept".
+- **"We accept it always, and in all places, most noble Felix, with all thankfulness" → "both in every way and everywhere we accept it, most excellent Felix, with all thanksgiving"** (v3) — Greek πάντῃ τε καὶ πανταχοῦ; πάντῃ is "in every way", not "always". The words can also be joined to v2 ("reforms coming to be … in every way and everywhere"). "It" is supplied: ἀποδεχόμεθα has no object. κράτιστε as 23:26; 26:25; εὐχαριστίας, "thanksgiving".
+- **"that I be not further tedious unto thee, I pray thee … of thy clemency a few words" → "that I may not hinder you any further, I appeal to you … briefly in your gentleness"** (v4) — Greek ἐγκόπτω, "hinder" (Gal 5:7); παρακαλῶ, of a request; συντόμως; ἐπιεικείᾳ as 2 Cor 10:1.
+- **"we have found this man a pestilent fellow, and a mover of sedition" → "having found this man a pestilence, and one setting insurrections in motion"** (v5) — Greek εὑρόντες, a participle: the sentence of v5–6 has no main verb and breaks off (dash at the end of v6). λοιμόν is the noun "pestilence"; κινοῦντα στάσεις (WH, Treg, NA28 plural; RP singular), κινέω "move", στάσις "insurrection" as Mark 15:7 ("discord" in 15:2: one word). πᾶσι τοῖς Ἰουδαίοις is a plain dative, "for all the Jews"; "among" as KJV.
+- **"throughout the world" → "throughout the inhabited earth"; "ringleader" kept** (v5) — Greek οἰκουμένην, as 11:28; πρωτοστάτην, "one who stands in the first rank". "Nazarenes" → "Nazoreans": Greek Ναζωραίων, the word of 2:22.
+- **"hath gone about to profane … whom we took" → "tried to profane … whom we also took hold of"** (v6) — Greek ἐπείρασεν, the verb "tempt" (15:10), with an infinitive "try" as 9:26; ἐκρατήσαμεν; καί stands in both clauses.
+- **"by examining of whom thyself mayest take knowledge" → "from whom you yourself, having examined him, will be able to come to know"** (v8) — Greek παρʼ οὗ … ἀνακρίνας … ἐπιγνῶναι (as 9:30). Without v7, "whom" is Paul; in the TR it could be Lysias.
+- **"assented, saying" → "joined in the attack, asserting"** (v9) — Greek συνεπέθεντο (WH, Treg, NA28), "set upon together"; φάσκοντες.
+- **"I do the more cheerfully answer for myself" → "I defend myself with good cheer in the things concerning myself"** (v10) — Greek εὐθύμως (WH, Treg, NA28; RP the comparative), the root of εὐθυμέω "be of good cheer" (27:22); τὰ περὶ ἐμαυτοῦ ἀπολογοῦμαι. "A judge for this nation": κριτὴν τῷ ἔθνει τούτῳ, dative.
+- **"Because that thou mayest understand, that there are yet but twelve days" → "you being able to come to know that it is not more than twelve days for me"** (v11) — Greek δυναμένου σου ἐπιγνῶναι; οὐ πλείους εἰσίν μοι ἡμέραι δώδεκα. "For to worship" → "to bow down": προσκυνήσων, as 8:27 ("worship" in the sense of bowing down); εἰς Ἰερουσαλήμ stands after it.
+- **"disputing with any man, neither raising up the people" → "discussing with anyone or causing an onset of a crowd"** (v12) — Greek διαλεγόμενον (Mark 9:34); ἐπίστασιν ποιοῦντα ὄχλου (WH, Treg, NA28): ἐπίστασις is a coming upon, a pressing together ("pressure", 2 Cor 11:28); RP ἐπισύστασιν, "a gathering against". "In the city" → "throughout the city": κατὰ τὴν πόλιν.
+- **"Neither can they prove the things" → "nor can they prove to you the things"** (v13) — Greek παραστῆσαι … σοι (WH, Treg, NA28). The verb is παρίστημι, elsewhere "present": here "set before as shown", so "prove".
+- **"after the way which they call heresy, so worship I the God of my fathers" → "according to the Way, which they call a sect, so I worship the ancestral God"** (v14) — Greek αἵρεσιν, "sect" as v5; λατρεύω, "worship" in the sense of serving God; τῷ πατρῴῳ θεῷ, an adjective, "ancestral, of the fathers" (22:3; 28:17); no "my".
+- **"all things which are written in the law and in the prophets" → "all the things that are according to the law and the things written in the prophets"** (v14) — Greek πᾶσι τοῖς κατὰ τὸν νόμον καὶ τοῖς ἐν τοῖς προφήταις γεγραμμένοις (WH, Treg, NA28 repeat τοῖς ἐν); "written" may be taken with both.
+- **"which they themselves also allow, that there shall be a resurrection of the dead, both of the just and unjust" → "which these themselves also await, that there is about to be a resurrection of both righteous and unrighteous"** (v15) — Greek προσδέχονται, "await" (Titus 2:13); μέλλειν ἔσεσθαι; "of the dead" is Byzantine; δικαίων τε καὶ ἀδίκων, without articles.
+- **"herein do I exercise myself, to have always a conscience void of offence" → "in this I myself also exercise myself to have a conscience without offense … continually"** (v16) — Greek ἐν τούτῳ καὶ αὐτὸς ἀσκῶ ("I practise, train"; "myself" as object is supplied); ἀπρόσκοπον as Phil 1:10; διὰ παντός as 10:2. ἐν τούτῳ can also mean "because of this".
+- **"after many years I came to bring alms to my nation, and offerings" → "after several years I arrived to do alms unto my nation, and offerings"** (v17) — Greek διʼ ἐτῶν πλειόνων, a comparative, "more, a number of"; ἐλεημοσύνας ποιήσων, "to do alms" as 9:36; 10:2; παρεγενόμην. "And offerings" stands at the end, after the verb.
+- **"Whereupon certain Jews from Asia found me … neither with multitude, nor with tumult" → "in which they found me … not with a crowd nor with commotion; but some Jews from Asia —"** (v18–19) — Greek ἐν αἷς (WH, Treg, NA28), feminine: "in the offerings"; RP ἐν οἷς. εὗρον has no named subject; τινὲς δὲ ἀπὸ τῆς Ἀσίας Ἰουδαῖοι begins a new sentence that has no verb and breaks off (dash). The verse division follows the printed text. θορύβου as Mark 5:38.
+- **"Who ought to have been here before thee, and object" → "who ought to have been present before you and to accuse"** (v19) — Greek ἔδει (WH, Treg, NA28) … παρεῖναι καὶ κατηγορεῖν; εἴ τι ἔχοιεν, an optative.
+- **"if they have found any evil doing in me" → "what wrongdoing they found"** (v20) — Greek τί εὗρον ἀδίκημα (WH, NA28); Treg, RP add "in me". ἀδίκημα is the deed of ἀδικέω "wrong".
+- **"Except it be for this one voice … I am called in question by you" → "other than concerning this one voice … I am judged today before you"** (v21) — Greek ἢ περὶ μιᾶς ταύτης φωνῆς; κρίνομαι; ἐφʼ ὑμῶν (WH, Treg, NA28), RP ὑφʼ "by".
+- **"when Felix heard these things, having more perfect knowledge of that way, he deferred them … I will know the uttermost of your matter" → "Felix put them off, knowing the things concerning the Way more accurately … I will determine the things concerning you"** (v22) — Greek Ἀνεβάλετο δὲ αὐτοὺς ὁ Φῆλιξ (WH, Treg, NA28; "heard these things" is Byzantine); ἀκριβέστερον εἰδώς, a comparative ("more accurately" than they supposed, or "rather accurately"); διαγνώσομαι τὰ καθʼ ὑμᾶς.
+- **"the chief captain" → "the chiliarch"** (v22) — Greek χιλίαρχος, as John 18:12.
+- **"he commanded a centurion to keep Paul, and to let him have liberty, and that he should forbid none of his acquaintance to minister or come unto him" → "having given orders to the centurion that he be kept and have relief, and to hinder none of his own from serving him"** (v23) — Greek διαταξάμενος, a participle continuing v22, διατάσσω of an everyday order, "give orders" (as 20:13; 23:31); τηρεῖσθαι αὐτόν (WH, Treg, NA28; RP "Paul"); ἄνεσιν as 2 Cor 2:13; κωλύειν; τῶν ἰδίων; ὑπηρετεῖν as 13:36; "or come unto him" is Byzantine.
+- **"with his wife Drusilla, which was a Jewess … the faith in Christ" → "with Drusilla, his own wife, who was a Jewess … the faith in the Mashiach Yeshua"** (v24) — Greek τῇ ἰδίᾳ γυναικί (WH, Treg, NA28); Χριστὸν Ἰησοῦν (WH, NA28; 2–2, NA28 decides; Treg, RP omit "Jesus"). "Came" → "having arrived": παραγενόμενος.
+- **"as he reasoned of righteousness, temperance, and judgment to come, Felix trembled" → "as he discussed concerning righteousness and self-control and the sentence to come, Felix, becoming afraid"** (v25) — Greek διαλεγομένου; ἐγκρατείας as Gal 5:23; τοῦ κρίματος τοῦ μέλλοντος, κρίμα "sentence, the judgment passed" as Heb 6:2; ἔμφοβος γενόμενος as 10:4.
+- **"Go thy way for this time; when I have a convenient season, I will call for thee" → "For the present, go; and when I get a time, I will call you to myself"** (v25) — Greek Τὸ νῦν ἔχον πορεύου, καιρὸν δὲ μεταλαβών ("having got a share of time") μετακαλέσομαί σε.
+- **"He hoped also that money should have been given him of Paul, that he might loose him … the oftener, and communed" → "at the same time also hoping that money would be given him by Paul … more often, he conversed"** (v26) — Greek ἅμα καὶ ἐλπίζων, a participle continuing v25; "that he might loose him" is Byzantine; πυκνότερον; ὡμίλει.
+- **"after two years Porcius Festus came into Felix' room … willing to shew the Jews a pleasure, left Paul bound" → "when two years had been fulfilled, Felix received a successor, Porcius Festus … wanting to lay up a favor with the Jews, Felix left Paul behind bound"** (v27) — Greek Διετίας δὲ πληρωθείσης ἔλαβεν διάδοχον; χάριτα καταθέσθαι, "to deposit a favor" (χάρις, "grace"); κατέλιπε; δεδεμένον.
 
 ### Notes
-- **v7** absent from earliest MSS ("But the chief captain Lysias came upon us, and with great violence took him away out of our hands" — Western text addition).
+- **v7** (with the end of v6 and the beginning of v8) is absent from the earliest MSS ("and would have judged according to our law. But the chief captain Lysias came upon us, and with great violence took him away out of our hands, commanding his accusers to come unto thee" — Western text addition).
 - **Tertullus** — professional advocate (*rhetor*) hired to present case in proper Roman legal form.
 - **Felix** — Marcus Antonius Felix, freedman brother of Pallas; governor of Judea c. 52–60 AD. Notoriously corrupt (Tacitus, *Annals* 12.54).
 - **Drusilla** — youngest daughter of Herod Agrippa I; Jewish, married Felix c. 54 AD.

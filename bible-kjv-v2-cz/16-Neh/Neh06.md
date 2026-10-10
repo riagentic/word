@@ -16,7 +16,7 @@
 
 [8] Tehdy jsem k němu poslal se vzkazem: „Nic takového, co říkáš, se neděje; vymýšlíš si to ve svém vlastním srdci.“
 
-[9] Všichni se nás totiž snažili zastrašit a říkali: „Jejich ruce od díla ochabnou a nebude dokončeno.“ Ale nyní, ⟦elohim|Elohim|Bože⟧, posilni mé ruce.
+[9] Všichni se nás totiž snažili zastrašit a říkali: „Jejich ruce od díla ochabnou a nebude dokončeno.“ Ale nyní posilni mé ruce.
 
 [10] Šel jsem do domu ⟦shemaiah|Šemaji|Šemajáše⟧, syna ⟦delaiah|Delaji|Delajáše⟧, syna ⟦mehetabel|Mehetavela|Mehétabela⟧, který tam byl zavřený; řekl: „Sejděme se v domě ⟦elohim|Elohim|Božím⟧, uvnitř chrámu; zavřeme chrámové dveře, neboť přijdou, aby tě zabili – v noci přijdou, aby tě zabili.“
 
@@ -46,6 +46,7 @@
 - **"Gashmu saith it" – ponecháno („Gashmu to říká“)** (v6) – nářeční tvar jména Geshem (arabská koncovka); zachovává rétorické pojmenování.
 - **"mischief" → „ublížit“** (v2).
 - **"feignest them out of thine own heart" → „vymýšlíš si to ve svém vlastním srdci“** (v8).
+- **"O God, strengthen my hands" → „posilni mé ruce“** (v9) – hebrejsky וְעַתָּה חַזֵּק אֶת־יָדָי *ve-attah chazzeq et-yadai*, „ale nyní posilni mé ruce“; MT nemá oslovení („Bože“ v KJV a ESV je doplněk).
 
 ### Poznámky
 - **Čtyři diplomatické pasti**, pak páté výhrůžné otevřené psaní. Psychologická válka.

@@ -67,7 +67,7 @@ therefore his prosperity will not last.
 all the force of misery will come on him.
 
 [23] To fill his belly to the full,
-⟦elohim|Elohim|God⟧ will send his burning wrath upon him
+he will send his burning wrath upon him
 and rain it down on him as his food.
 
 [24] He will flee from an iron weapon;
@@ -99,6 +99,7 @@ the heritage decreed for him by ⟦el|El|God⟧."
 - **"bow of steel" → "bronze arrow"** (v24) — *qeshet nechushah*; bronze bow (steel unknown at composition date).
 - **"secret places" → "treasures"** (v26) — *tzafun*.
 - **"gall" → "liver"** (v25) — *merorah*.
+- **"God shall cast" → "he will send"** (v23) — Hebrew יְשַׁלַּח־בּוֹ *yeshallach-bo*, "he will send upon him"; MT names no subject ("God" in KJV and ESV is supplied).
 
 ### Notes
 - **Zophar's second speech** — full of traditional imprecations on the wicked.
