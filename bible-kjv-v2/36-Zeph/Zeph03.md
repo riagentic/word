@@ -1,137 +1,139 @@
 # Zephaniah 3
 
-[1] Woe to her who is rebellious and defiled,
+[1] Woe, rebellious and defiled,
 the oppressing city!
 
-[2] She listens to no voice;
-she accepts no correction.
-She does not trust in ⟦yhwh|Yahweh|the LORD⟧;
-she does not draw near to her ⟦elohim|Elohim|God⟧.
+[2] She has not listened to the voice;
+she has not taken discipline;
+in ⟦yhwh|Yahweh|the LORD⟧ she has not trusted;
+to her ⟦elohim|Elohim|God⟧ she has not come near.
 
-[3] Her officials within her
+[3] Her princes in her midst
 are roaring lions;
-her judges are evening wolves
-that leave nothing till the morning.
+her judges are wolves of the evening;
+they gnaw nothing for the morning.
 
-[4] Her prophets are fickle, treacherous men;
-her priests profane what is holy;
-they do violence to the ⟦torah|Torah|law⟧.
+[4] Her prophets are reckless,
+men of treacheries;
+her priests have profaned holiness;
+they have done violence to ⟦torah|torah|law⟧.
 
-[5] ⟦yhwh|Yahweh|The LORD⟧ within her is righteous;
-he does no injustice;
-every morning he shows forth his justice;
-each dawn he does not fail;
-but the unjust knows no shame.
+[5] ⟦yhwh|Yahweh|The LORD⟧ is righteous in her midst;
+he does not do injustice;
+morning by morning he gives his judgment to the light;
+it is not missing;
+but the unjust one knows no shame.
 
-[6] "I have cut off nations;
-their battlements are in ruins;
-I have laid waste their streets
-so that no one walks in them;
-their cities have been made desolate,
+[6] I have cut off nations;
+their corners are desolate;
+I have laid waste their streets,
+so that none passes by;
+their cities are laid waste,
 without a man, without an inhabitant.
 
-[7] I said, 'Surely you will fear me;
-you will accept correction.
-Then your dwelling would not be cut off
-according to all that I have appointed against you.'
-But all the more they were eager
-to make all their deeds corrupt."
+[7] I said, Surely you will fear me;
+you will take discipline;
+and her abode shall not be cut off,
+all that I have visited upon her.
+But surely they rose early;
+they ruined all their doings.
 
-[8] "Therefore wait for me," declares ⟦yhwh|Yahweh|the LORD⟧,
-"for the day when I rise up to seize the prey.
-For my decision is to gather nations,
-to assemble kingdoms,
+[8] Therefore wait for me, declares ⟦yhwh|Yahweh|the LORD⟧,
+for the day when I rise up for prey;
+for my judgment is to gather nations,
+to collect kingdoms,
 to pour out upon them my indignation,
-all my burning anger;
+all the burning of my anger;
 for in the fire of my jealousy
 all the earth shall be consumed.
 
-[9] "For at that time I will change the speech of the peoples
-to a pure speech,
-that all of them may call upon the name of ⟦yhwh|Yahweh|the LORD⟧
-and serve him with one shoulder.
+[9] For then I will turn to the peoples
+a purified lip,
+that all of them may call on the name of ⟦yhwh|Yahweh|the LORD⟧,
+to serve him with one shoulder.
 
 [10] From beyond the rivers of ⟦cush|Kush|Cush⟧
-my worshipers, the daughter of my dispersed ones,
+my suppliants, the daughter of my scattered ones,
 shall bring my offering.
 
-[11] "On that day you shall not be put to shame
-because of the deeds by which you have rebelled against me;
+[11] In that day you shall not be ashamed
+of all your doings
+by which you have transgressed against me;
 for then I will remove from your midst
-your proudly exultant ones,
-and you shall no longer be haughty
+those who are jubilant in your pride,
+and you shall no more again be haughty
 in my holy mountain.
 
-[12] But I will leave in your midst
-a people humble and lowly.
-They shall seek refuge in the name of ⟦yhwh|Yahweh|the LORD⟧,
+[12] And I will leave in your midst
+a people afflicted and poor,
+and they shall take refuge in the name of ⟦yhwh|Yahweh|the LORD⟧.
 
-[13] those who are left in ⟦israel|Yisrael|Israel⟧;
-they shall do no injustice
-and speak no lies,
-nor shall there be found in their mouth
-a deceitful tongue.
-For they shall graze and lie down,
-and none shall make them afraid."
+[13] The remnant of ⟦israel|Yisrael|Israel⟧
+shall not do injustice and shall not speak a lie,
+and a tongue of deceit shall not be found in their mouth;
+for they shall graze and lie down,
+and none shall make them tremble.
 
-[14] Sing aloud, O daughter of ⟦zion|Tziyon|Zion⟧;
-shout, O ⟦israel|Yisrael|Israel⟧!
-Rejoice and exult with all your heart,
-O daughter of ⟦jerusalem|Yerushalayim|Jerusalem⟧!
+[14] Shout for joy, daughter of ⟦zion|Tziyon|Zion⟧;
+shout, ⟦israel|Yisrael|Israel⟧!
+Rejoice and be jubilant with all the heart,
+daughter of ⟦jerusalem|Yerushalayim|Jerusalem⟧!
 
-[15] ⟦yhwh|Yahweh|The LORD⟧ has taken away the judgments against you;
-he has cleared away your enemies.
-The King of ⟦israel|Yisrael|Israel⟧, ⟦yhwh|Yahweh|the LORD⟧, is in your midst;
-you shall never again fear evil.
+[15] ⟦yhwh|Yahweh|The LORD⟧ has taken away your judgments;
+he has cleared away your enemy.
+The king of ⟦israel|Yisrael|Israel⟧, ⟦yhwh|Yahweh|the LORD⟧, is in your midst;
+you shall not fear evil any more.
 
-[16] On that day it shall be said to ⟦jerusalem|Yerushalayim|Jerusalem⟧:
-"Fear not, O ⟦zion|Tziyon|Zion⟧;
-let not your hands grow weak.
+[16] In that day it shall be said to ⟦jerusalem|Yerushalayim|Jerusalem⟧,
+Do not fear;
+⟦zion|Tziyon|Zion⟧, let your hands not be slack.
 
 [17] **⟦yhwh|Yahweh|The LORD⟧ your ⟦elohim|Elohim|God⟧ is in your midst,
-a mighty one who will save;
-he will rejoice over you with gladness;
-he will quiet you by his love;
-he will exult over you with loud singing.**
+a mighty one who saves;
+he will exult over you with gladness;
+he will be silent in his love;
+he will be glad over you with a ringing cry.**
 
-[18] I will gather those who mourn for the appointed feasts;
-they are of you, for whom the shame of it is a burden.
+[18] Those grieving far from the appointed feast I have gathered;
+from you they were —
+a burden upon her, a reproach.
 
-[19] Behold, at that time I will deal
-with all your oppressors.
-And I will save the lame
-and gather the outcast,
-and I will change their shame into praise and renown
-in all the earth.
+[19] Behold, I am dealing
+with all who afflict you at that time;
+and I will save the lame one,
+and the driven-away one I will gather,
+and I will set them for a praise and for a name
+in all the earth of their shame.
 
-[20] At that time I will bring you in,
-at the time when I gather you together;
-for I will make you renowned and praised
+[20] At that time I will bring you,
+and at the time of my gathering you;
+for I will give you for a name and for a praise
 among all the peoples of the earth,
 when I restore your fortunes
-before your eyes," says ⟦yhwh|Yahweh|the LORD⟧.
+before your eyes, says ⟦yhwh|Yahweh|the LORD⟧.
 
 ## Changes
 
-- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton יְהוָה rendered directly.
-- **"God" → "*Elohim*"** (vv2, 17) — Hebrew אֱלֹהִים *Elohim*; "she does not draw near to her *Elohim*" and "Yahweh your *Elohim* is in your midst."
-- **Poetry formatted with blockquote indentation** (throughout) — KJV prose; the woe-oracle, eschatological promise, and hymn of joy are structured poetry.
-- **"she that is filthy and polluted" → "she who is rebellious and defiled"** (v1) — Hebrew מֹרְאָה וְנִגְאָלָה *mor'ah venig'alah*; *moré* = rebellious/stubborn; *nig'al* = defiled/polluted; "rebellious" captures the moral dimension.
-- **"her princes within her are roaring lions; her judges are evening wolves; they gnaw not the bones till the morrow" → "Her officials within her are roaring lions; her judges are evening wolves that leave nothing till the morning"** (v3) — Hebrew שָׂרֶיהָ *sareha* = her officials/princes; "leave nothing" for "gnaw not the bones" — *lo gammú le'eqer labbóqer* = they leave nothing for the morning.
-- **"Her prophets are light and treacherous persons" → "Her prophets are fickle, treacherous men"** (v4) — Hebrew נְבִיאֶיהָ פֹּחֲזִים *neviyeha pochazim* = her prophets are reckless/fickle; *pachaz* = frivolous/reckless; "fickle" more precise than "light."
-- **"her priests have polluted the sanctuary" → "her priests profane what is holy"** (v4) — Hebrew כֹּהֲנֶיהָ חִלְּלוּ קֹדֶשׁ *kohaneha chillu qodesh*; "profane what is holy" = desecrate the sacred; broader than just the sanctuary.
-- **"The just Lord is in the midst thereof" → "Yahweh within her is righteous"** (v5) — Hebrew יְהוָה צַדִּיק בְּקִרְבָּהּ *Yahweh tzaddiq beqirbah*; "righteous" for *tzaddiq* = just/righteous; divine character contrasts sharply with the city's corruption.
-- **"every morning doth he bring his judgment to light, he faileth not" → "every morning he shows forth his justice; each dawn he does not fail"** (v5) — Hebrew בַּבֹּקֶר בַּבֹּקֶר מִשְׁפָּטוֹ יִתֵּן לָאוֹר לֹא נֶעְדָּר *babboqer babboqer mishpato yitten la'or lo ne'dar*; "each dawn" emphasizes daily divine faithfulness.
-- **"howsoever I punished them: but they rose early, and corrupted all their doings" → "But all the more they were eager to make all their deeds corrupt"** (v7) — Hebrew הִשְׁכִּימוּ הִשְׁחִיתוּ כָּל עֲלִילוֹתָם *hishkimu hishchitu kol alilotam*; "were eager" for *hishkimu* = rose early/were diligent; "all their deeds" for *alilotam*.
-- **"until the day that I rise up to the prey" → "for the day when I rise up to seize the prey"** (v8) — Hebrew לְעַד קוּמִי לְעַד *le'ad qumi le'ad*; "seize the prey" captures the predatory image of divine judgment.
-- **"for my determination is to gather the nations" → "For my decision is to gather nations"** (v8) — Hebrew כִּי מִשְׁפָּטִי לֶאֱסֹף גּוֹיִם *ki mishpati le'esof goyim*; "decision" for *mishpat* = judgment/decision; "nations" for *goyim*.
-- **"I turn to the people a pure language" → "I will change the speech of the peoples to a pure speech"** (v9) — Hebrew אָהְפֹּךְ אֶל עַמִּים שָׂפָה בְרוּרָה *'ahpokh el ammim safa berurah*; *safa* = lip/speech/language; *berurah* = pure/clear; "pure speech" = reversal of Babel's confusion.
-- **"to serve him with one consent" → "and serve him with one shoulder"** (v9) — Hebrew לְעָבְדוֹ שְׁכֶם אֶחָד *le'ovdo shekhem echad*; *shekhem* = shoulder; idiom for united effort/common purpose; "one shoulder" is the literal Hebrew idiom.
-- **"my suppliants, even the daughter of my dispersed" → "my worshipers, the daughter of my dispersed ones"** (v10) — Hebrew עֲתָרַי בַּת פוּצַי *ataray bat putzay*; *atar* = worshiper/suppliant; "daughter of my dispersed ones" = the exiled community.
-- **"them that rejoice in thy pride" → "your proudly exultant ones"** (v11) — Hebrew עַלִּיזֵי גַּאֲוָתֵךְ *allizey ga'avatekh* = those who exult in your pride; "proudly exultant ones" more vivid.
-- **"an afflicted and poor people" → "a people humble and lowly"** (v12) — Hebrew עַם עָנִי וָדָל *am ani vadal*; *ani* = humble/afflicted; *dal* = weak/lowly; "humble and lowly" consistent with the remnant theology.
-- **"I will gather them that are sorrowful for the solemn assembly" → "I will gather those who mourn for the appointed feasts"** (v18) — Hebrew נוּגֵי מִמּוֹעֵד אָסַפְתִּי *nugey mimmo'ed asafti*; *mo'ed* = appointed feast/assembly; "mourn for the appointed feasts" = those grieving that they cannot observe the feasts in exile.
-- **"I will save her that halteth" → "I will save the lame"** (v19) — Hebrew אֶת הַצֹּלֵעָה אוֹשִׁיעַ *et hatzolea'h oshia'*; *tzola'ah* = the limping one; "lame" more natural.
-- **"her that was driven out" → "the outcast"** (v19) — Hebrew הַנִּדָּחָה *hanniddachah* = the driven-out/scattered one; "outcast" captures the exile context.
-- **"The Lord thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing" → "Yahweh your *Elohim* is in your midst, a mighty one who will save; he will rejoice over you with gladness; he will quiet you by his love; he will exult over you with loud singing"** (v17) — Hebrew יְהוָה אֱלֹהַיִךְ בְּקִרְבֵּךְ גִּבּוֹר יוֹשִׁיעַ *Yahweh Elohayikh beqirbekh gibbor yoshia'*; "quiet you by his love" for *yacharish be'ahavato* = he will be silent/still in his love (divine tender silence); *yagil* = exult; the verse is central to messianic hope; bold formatting marks the key text.
-- **"when I turn back your captivity" → "when I restore your fortunes"** (v20) — Hebrew בְּשׁוּבִי אֶת שְׁבוּתֵיכֶם *beshuvi et shevutekhem*; "restore your fortunes" for *shuv shevut* (consistent formula throughout); not literal captivity only.
+- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
+- **"God" → "*Elohim*"** (v2, 17) — Hebrew *Elohim*.
+- **Layout** (throughout) — one Hebrew line (colon) per printed line, in the Hebrew order; the quotation marks are dropped (the Hebrew has none). v17 keeps its bold.
+- **"Woe to her that is filthy and polluted, to the oppressing city!" → "Woe, rebellious and defiled, the oppressing city!"** (v1) — Hebrew הוֹי "Woe" with the bare words (no "to her"); מֹרְאָה, from מָרָה "rebel" (KJV "filthy" takes it from רְאִי "filth"; uncertain); נִגְאָלָה "defiled"; הַיּוֹנָה "the oppressing" (participle of יָנָה, as Jer 46:16).
+- **"She obeyed not the voice; she received not correction; she trusted not in the LORD; she drew not near to her God" → "She has not listened to the voice; she has not taken discipline; in Yahweh she has not trusted; to her Elohim she has not come near"** (v2) — Hebrew perfects; שָׁמְעָה בְּקוֹל "listened to the voice" ("obey" is not the Hebrew word); לָקְחָה מוּסָר "taken discipline" (also v7); the Hebrew order of the last two lines kept.
+- **"Her princes within her are roaring lions; her judges are evening wolves; they gnaw not the bones till the morrow" → "Her princes in her midst are roaring lions; her judges are wolves of the evening; they gnaw nothing for the morning"** (v3) — Hebrew שָׂרֶיהָ "her princes" (not "officials"); זְאֵבֵי עֶרֶב "wolves of the evening" (as Hab 1:8); לֹא גָרְמוּ לַבֹּקֶר "they have not gnawed for the morning" (they leave nothing over; "bones" is not in the Hebrew; uncertain).
+- **"Her prophets are light and treacherous persons: her priests have polluted the sanctuary, they have done violence to the law" → "Her prophets are reckless, men of treacheries; her priests have profaned holiness; they have done violence to torah"** (v4) — Hebrew פֹּחֲזִים "reckless" (uncertain); אַנְשֵׁי בֹּגְדוֹת "men of treacheries"; חִלְּלוּ־קֹדֶשׁ "profaned holiness" (or "a holy thing"); חָמְסוּ "did violence to" (the verb of חָמָס); תּוֹרָה without the article (token, lower case).
+- **"The just LORD is in the midst thereof; he will not do iniquity: every morning doth he bring his judgment to light, he faileth not; but the unjust knoweth no shame" → "Yahweh is righteous in her midst; he does not do injustice; morning by morning he gives his judgment to the light; it is not missing; but the unjust one knows no shame"** (v5) — Hebrew צַדִּיק "righteous"; עַוְלָה "injustice"; בַּבֹּקֶר בַּבֹּקֶר "morning by morning"; יִתֵּן לָאוֹר "gives to the light"; לֹא נֶעְדָּר "it is not missing"; עַוָּל "unjust one"; בֹּשֶׁת "shame".
+- **"I have cut off the nations: their towers are desolate; I made their streets waste, that none passeth by: their cities are destroyed, so that there is no man, that there is none inhabitant" → "I have cut off nations; their corners are desolate; I have laid waste their streets, so that none passes by; their cities are laid waste, without a man, without an inhabitant"** (v6) — Hebrew גוֹיִם without the article; פִּנּוֹתָם "their corners" (the corner towers, as 1:16); נָשַׁמּוּ "are desolate"; הֶחֱרַבְתִּי "I have laid waste"; נִצְדּוּ, found only here, "are laid waste" (uncertain); מִבְּלִי … מֵאֵין "without … without".
+- **"I said, Surely thou wilt fear me, thou wilt receive instruction; so their dwelling should not be cut off, howsoever I punished them: but they rose early, and corrupted all their doings" → "I said, Surely you will fear me; you will take discipline; and her abode shall not be cut off, all that I have visited upon her. But surely they rose early; they ruined all their doings"** (v7) — Hebrew אַךְ "surely"; "you" feminine, then "her" (the city), as printed; מְעוֹנָהּ "her abode"; כֹּל אֲשֶׁר־פָּקַדְתִּי עָלֶיהָ "all that I have visited upon her" (the link to the line before is not stated; uncertain); אָכֵן "but surely"; הִשְׁכִּימוּ הִשְׁחִיתוּ "they rose early, they ruined" (two verbs side by side: they were eager to ruin); עֲלִילוֹת "doings" (also v11).
+- **"Therefore wait ye upon me, saith the LORD, until the day that I rise up to the prey: for my determination is to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation, even all my fierce anger: for all the earth shall be devoured with the fire of my jealousy" → "Therefore wait for me, declares Yahweh, for the day when I rise up for prey; for my judgment is to gather nations, to collect kingdoms, to pour out upon them my indignation, all the burning of my anger; for in the fire of my jealousy all the earth shall be consumed"** (v8) — Hebrew חַכּוּ־לִי "wait for me" (plural); נְאֻם "declares"; לְעַד "for prey" as pointed (the Septuagint and Syriac, from memory, read לְעֵד "as witness"; the MT is kept); מִשְׁפָּטִי "my judgment" (KJV "determination"); לֶאֱסֹף … לְקָבְצִי "to gather … to collect" (two verbs, as Hab 2:5); זַעְמִי "my indignation"; חֲרוֹן אַפִּי "the burning of my anger"; the last line as 1:18.
+- **"For then will I turn to the people a pure language, that they may all call upon the name of the LORD, to serve him with one consent" → "For then I will turn to the peoples a purified lip, that all of them may call on the name of Yahweh, to serve him with one shoulder"** (v9) — Hebrew אֶהְפֹּךְ "I will turn"; עַמִּים "peoples"; שָׂפָה בְרוּרָה "a purified lip" (שָׂפָה "lip", of speech as Gen 11:1); קָרָא בְשֵׁם "call on the name"; שְׁכֶם אֶחָד "one shoulder" (= together, as one bearing the load; KJV "one consent"; the image kept).
+- **"From beyond the rivers of Ethiopia my suppliants, even the daughter of my dispersed, shall bring mine offering"** (v10) — Hebrew עֲתָרַי "my suppliants" (עָתַר "plead"; the former "worshipers" widened it); בַּת־פוּצַי "the daughter of my scattered ones" (פּוּץ "scatter"); מִנְחָתִי "my offering" (the word of the grain offering).
+- **"In that day shalt thou not be ashamed for all thy doings, wherein thou hast transgressed against me: for then I will take away out of the midst of thee them that rejoice in thy pride, and thou shalt no more be haughty because of my holy mountain" → "In that day you shall not be ashamed of all your doings by which you have transgressed against me; for then I will remove from your midst those who are jubilant in your pride, and you shall no more again be haughty in my holy mountain"** (v11) — Hebrew פָּשַׁעַתְּ בִּי "you have transgressed against me" (פֶּשַׁע "transgression"); עַלִּיזֵי גַּאֲוָתֵךְ "the jubilant ones of your pride"; לֹא־תוֹסִפִי … עוֹד "no more again"; לְגָבְהָה "to be high" (haughty); בְּהַר קָדְשִׁי "in my holy mountain" (literally "the mountain of my holiness").
+- **"I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the LORD" → "And I will leave in your midst a people afflicted and poor, and they shall take refuge in the name of Yahweh"** (v12) — Hebrew עָנִי "afflicted" (the former "humble" belongs to עָנָו, 2:3), דַּל "poor"; וְחָסוּ "and they shall take refuge" (חָסָה, not "trust").
+- **"The remnant of Israel shall not do iniquity, nor speak lies; neither shall a deceitful tongue be found in their mouth: for they shall feed and lie down, and none shall make them afraid" → "The remnant of Israel shall not do injustice and shall not speak a lie, and a tongue of deceit shall not be found in their mouth; for they shall graze and lie down, and none shall make them tremble"** (v13) — Hebrew שְׁאֵרִית "remnant" (a new sentence; the former joined it to v12); עַוְלָה "injustice"; כָזָב "a lie"; לְשׁוֹן תַּרְמִית "a tongue of deceit"; יִרְעוּ "graze"; מַחֲרִיד "one who makes tremble".
+- **"Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem" → "Shout for joy, daughter of Zion; shout, Israel! Rejoice and be jubilant with all the heart, daughter of Jerusalem!"** (v14) — Hebrew רָנִּי "shout for joy"; הָרִיעוּ "shout"; שִׂמְחִי וְעָלְזִי "rejoice and be jubilant"; בְּכָל־לֵב "with all the heart" (no "your"); no "O": the Hebrew has none.
+- **"The LORD hath taken away thy judgments, he hath cast out thine enemy: the king of Israel, even the LORD, is in the midst of thee: thou shalt not see evil any more" → "Yahweh has taken away your judgments; he has cleared away your enemy. The king of Israel, Yahweh, is in your midst; you shall not fear evil any more"** (v15) — Hebrew מִשְׁפָּטַיִךְ "your judgments" (the sentences against you); פִּנָּה "cleared away"; אֹיְבֵךְ singular; מֶלֶךְ "king" (no capital: no title in the Hebrew); לֹא־תִירְאִי "you shall not fear" as pointed (KJV "see" reads תִרְאִי); עוֹד "any more".
+- **"In that day it shall be said to Jerusalem, Fear thou not: and to Zion, Let not thine hands be slack" → "In that day it shall be said to Jerusalem, Do not fear; Zion, let your hands not be slack"** (v16) — Hebrew אַל־תִּירָאִי "do not fear"; צִיּוֹן addressed, no "to" and no "O"; יִרְפּוּ, רָפָה "be slack".
+- **"The LORD thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing" → "Yahweh your Elohim is in your midst, a mighty one who saves; he will exult over you with gladness; he will be silent in his love; he will be glad over you with a ringing cry"** (v17) — Hebrew גִּבּוֹר יוֹשִׁיעַ "a mighty one (who) saves"; יָשִׂישׂ "he will exult" (שׂוּשׂ); בְּשִׂמְחָה "with gladness"; יַחֲרִישׁ בְּאַהֲבָתוֹ "he will be silent in his love", as printed (הֶחֱרִישׁ "be silent"; KJV "rest"; the former "he will quiet you" made it causative and added "you"); the Septuagint, from memory, reads "he will renew you" (יְחַדֵּשׁ), and many follow it; the MT is kept, and why the love is silent is not said; יָגִיל "he will be glad"; בְּרִנָּה "with a ringing cry".
+- **"I will gather them that are sorrowful for the solemn assembly, who are of thee, to whom the reproach of it was a burden" → "Those grieving far from the appointed feast I have gathered; from you they were — a burden upon her, a reproach"** (v18) — Hebrew נוּגֵי מִמּוֹעֵד "those grieving from the appointed feast" (מִן "from": kept away from it; uncertain); אָסַפְתִּי, a perfect, "I have gathered"; מִמֵּךְ הָיוּ "from you they were"; מַשְׂאֵת עָלֶיהָ חֶרְפָּה "a lifting (burden) upon her, a reproach" (one of the hardest lines of the book; the words are kept).
+- **"Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame" → "Behold, I am dealing with all who afflict you at that time; and I will save the lame one, and the driven-away one I will gather, and I will set them for a praise and for a name in all the earth of their shame"** (v19) — Hebrew הִנְנִי עֹשֶׂה אֶת "behold me dealing with"; מְעַנַּיִךְ "who afflict you" (עִנָּה "afflict"); הַצֹּלֵעָה "the lame one", הַנִּדָּחָה "the driven-away one" (feminine singular collectives, as Mic 4:6–7); לִתְהִלָּה וּלְשֵׁם "for a praise and for a name"; בְּכָל־הָאָרֶץ בָּשְׁתָּם "in all the earth (of) their shame" (where they were put to shame; the former "change their shame into praise" was paraphrase).
+- **"At that time will I bring you again, even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, saith the LORD" → "At that time I will bring you, and at the time of my gathering you; for I will give you for a name and for a praise among all the peoples of the earth, when I restore your fortunes before your eyes, says Yahweh"** (v20) — Hebrew אָבִיא "I will bring" (no "in", no "again"); וּבָעֵת קַבְּצִי "and at the time of my gathering"; אֶתֵּן … לְשֵׁם וְלִתְהִלָּה "give … for a name and for a praise"; בְּשׁוּבִי אֶת־שְׁבוּתֵיכֶם, שׁוּב שְׁבוּת "restore the fortunes", literally "turn back your captivities / your turnings" (plural; traditional "turn the captivity"); לְעֵינֵיכֶם "before your eyes"; אָמַר יְהוָה "says Yahweh" (אָמַר, not נְאֻם).

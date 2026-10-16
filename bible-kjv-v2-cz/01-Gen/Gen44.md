@@ -1,86 +1,112 @@
 # Genesis 44
 
-[1] Potom přikázal správci svého domu: „Naplň žoky těch mužů potravinami, kolik jen unesou, a každému dej jeho stříbro navrch do jeho žoku.
+[1] A přikázal tomu, který byl nad jeho domem, se slovy: „Naplň vaky těch mužů potravou, kolik jen unesou, a stříbro každého polož do ústí jeho vaku.
 
-[2] A můj pohár, ten stříbrný pohár, dej navrch do žoku nejmladšího spolu s jeho stříbrem za obilí.“ A on udělal, jak mu Josef řekl.
+[2] A mou číši, tu stříbrnou číši, položíš do ústí vaku nejmladšího, i stříbro za jeho obilí.“ A učinil podle slova, které Josef promluvil.
 
-[3] Jakmile se rozednilo, muži byli propuštěni, oni i jejich osli.
+[3] Ráno se rozednilo a ti muži byli propuštěni, oni i jejich osli.
 
-[4] Když vyšli z města a nebyli ještě daleko, řekl Josef svému správci: „Vstaň, pronásleduj ty muže; a až je dostihneš, řekni jim: ‚Proč jste oplatili zlým za dobré?
+[4] Vyšli z města, nebyli daleko, a Josef řekl tomu, který byl nad jeho domem: „Vstaň, pronásleduj ty muže, a až je dostihneš, řekneš jim: ‚Proč jste odplatili zlem za dobro?
 
-[5] Není to snad ten, z něhož můj pán pije a z něhož opravdu věští? Zle jste udělali tím, co jste učinili.‘“
+[5] Není to ta, z níž pije můj pán? A on z ní jistě věští. Zle jste učinili, co jste udělali.‘“
 
-[6] Když je dostihl, promluvil k nim právě tato slova.
+[6] A dostihl je a promluvil k nim tato slova.
 
-[7] Řekli mu: „Proč můj pán mluví taková slova? Ať je to daleko od tvých služebníků, aby udělali něco takového!
+[7] A řekli mu: „Proč můj pán mluví taková slova? Daleko buď od tvých služebníků, aby učinili takovou věc.
 
-[8] Hle, stříbro, které jsme našli navrchu ve svých žocích, jsme ti přinesli zpět ze země Kenaan. Jak bychom tedy kradli stříbro nebo zlato z domu tvého pána?
+[8] Hle, stříbro, které jsme našli v ústí svých vaků, jsme ti vrátili ze země Kenaan; a jak bychom kradli z domu tvého pána stříbro nebo zlato?
 
-[9] U kohokoli z tvých služebníků se najde, ať zemře; a my ostatní budeme otroky mého pána.“
+[9] U koho z tvých služebníků se najde, ten zemře, a také my budeme mému pánu otroky.“
 
-[10] Řekl: „Nuže, ať je to podle vašich slov: ten, u něhož se najde, bude mým otrokem, a vy ostatní budete bez viny.“
+[10] A řekl: „I nyní, podle vašich slov, tak to je: u koho se najde, bude mým otrokem, a vy budete nevinní.“
 
-[11] Tu každý rychle složil svůj žok na zem a každý otevřel svůj žok.
+[11] A pospíšili si a složili každý svůj vak na zem a otevřeli každý svůj vak.
 
-[12] Prohledával, počínaje nejstarším a konče nejmladším; a pohár se našel v ⟦benjamin|Binjaminově|Benjamínově⟧ žoku.
+[12] A prohledával; u nejstaršího začal a u nejmladšího skončil. A číše se našla v ⟦benjamin|Binjaminově|Benjamínově⟧ vaku.
 
-[13] Tu roztrhli svá roucha, každý naložil svého osla a vrátili se do města.
+[13] A roztrhli své pláště a každý naložil svého osla a vrátili se do města.
 
-[14] Když ⟦judah|Jehuda|Juda⟧ a jeho bratři přišli do Josefova domu, byl tam ještě; a padli před ním na zem.
+[14] A ⟦judah|Jehuda|Juda⟧ a jeho bratři přišli do Josefova domu, a on tam ještě byl, a padli před ním na zem.
 
-[15] Josef jim řekl: „Co je to za čin, který jste spáchali? Nevíte, že muž jako já dovede jistě věštit?“
+[15] A Josef jim řekl: „Co je to za čin, který jste učinili? Nevíte, že muž, jako jsem já, jistě věští?“
 
-[16] ⟦judah|Jehuda|Juda⟧ řekl: „Co máme říci mému pánu? Co máme mluvit? Jak se ospravedlníme? ⟦elohim|Elohim|Bůh⟧ odhalil nepravost tvých služebníků. Hle, jsme otroky mého pána, my i ten, v jehož ruce se pohár našel.“
+[16] A ⟦judah|Jehuda|Juda⟧ řekl: „Co řekneme mému pánu? Co promluvíme? A jak se ospravedlníme? ⟦elohim|Elohim|Bůh⟧ nalezl nepravost tvých služebníků. Hle, jsme otroky mého pána, my i ten, v jehož ruce se číše našla.“
 
-[17] Ale on řekl: „Ať je to ode mne daleko, abych tak učinil! Muž, v jehož ruce se pohár našel, ten bude mým otrokem; a vy jděte v pokoji nahoru ke svému otci.“
+[17] A řekl: „Daleko buď ode mne, abych to učinil. Muž, v jehož ruce se číše našla, ten bude mým otrokem; a vy vystupte ⟦shalom|v šalom|v pokoji⟧ ke svému otci.“
 
-[18] Tu k němu ⟦judah|Jehuda|Juda⟧ přistoupil a řekl: „Ach, můj pane, dovol, prosím, svému služebníku promluvit slovo do uší mého pána a ať se tvůj hněv nerozpálí proti tvému služebníku, neboť jsi zrovna jako ⟦pharaoh|Paro|farao⟧.
+[18] A ⟦judah|Jehuda|Juda⟧ k němu přistoupil a řekl: „Ach, můj pane, ať prosím tvůj služebník promluví slovo před ušima mého pána, a ať nevzplane tvůj hněv proti tvému služebníku, neboť ty jsi jako ⟦pharaoh|Paro|farao⟧.
 
-[19] Můj pán se ptal svých služebníků: ‚Máte otce nebo bratra?‘
+[19] Můj pán se ptal svých služebníků se slovy: ‚Máte otce nebo bratra?‘
 
-[20] A my jsme mému pánu odpověděli: ‚Máme starého otce a mladého syna, kterého zplodil ve stáří; jeho bratr je mrtev a on sám zůstal po své matce, a jeho otec ho miluje.‘
+[20] A řekli jsme mému pánu: ‚Máme otce, starce, a dítě jeho stáří, maličké; a jeho bratr je mrtev a on sám zbyl po své matce a jeho otec ho miluje.‘
 
-[21] Tu jsi řekl svým služebníkům: ‚Přiveďte ho ke mně, abych na něho mohl pohlédnout.‘
+[21] A řekl jsi svým služebníkům: ‚Přiveďte ho ke mně dolů, ať na něho upřu své oko.‘
 
-[22] A my jsme mému pánu řekli: ‚Chlapec nemůže opustit svého otce; kdyby opustil svého otce, jeho otec by zemřel.‘
+[22] A řekli jsme mému pánu: ‚Chlapec nemůže opustit svého otce; a opustí-li svého otce, zemře.‘
 
-[23] Ale ty jsi svým služebníkům řekl: ‚Nesestoupí-li s vámi váš nejmladší bratr, už neuvidíte mou tvář.‘
+[23] A řekl jsi svým služebníkům: ‚Nesestoupí-li s vámi váš nejmladší bratr, už neuvidíte mou tvář.‘
 
-[24] Když jsme vystoupili k tvému služebníku, mému otci, oznámili jsme mu slova mého pána.
+[24] I stalo se, když jsme vystoupili k tvému služebníku, mému otci, že jsme mu oznámili slova mého pána.
 
-[25] A náš otec řekl: ‚Jděte znovu, nakupte nám trochu potravin.‘
+[25] A náš otec řekl: ‚Vraťte se, nakupte nám trochu potravy.‘
 
-[26] Ale my jsme řekli: ‚Nemůžeme sestoupit. Bude-li s námi náš nejmladší bratr, sestoupíme; neboť nesmíme spatřit tvář toho muže, nebude-li s námi náš nejmladší bratr.‘
+[26] A řekli jsme: ‚Nemůžeme sestoupit. Bude-li s námi náš nejmladší bratr, sestoupíme; neboť nemůžeme vidět tvář toho muže, když s námi náš nejmladší bratr není.‘
 
-[27] Tu nám tvůj služebník, můj otec, řekl: ‚Víte, že mi má manželka porodila dva syny;
+[27] A tvůj služebník, můj otec, nám řekl: ‚Vy víte, že mi má žena porodila dva.
 
-[28] jeden ode mne odešel a já jsem řekl: „Jistě byl roztrhán na kusy,“ a od té doby jsem ho neviděl.
+[28] A ten jeden ode mne vyšel a řekl jsem: „Jistě byl roztrhán,“ a až dosud jsem ho neviděl.
 
-[29] Vezmete-li mi i tohoto a potká-li ho neštěstí, přivedete mé šediny ve zlém do ⟦sheol|Šeolu|podsvětí⟧.‘
+[29] A vezmete-li i tohoto od mé tváře a potká-li ho neštěstí, přivedete mé šediny ve zlu do ⟦sheol|Šeolu|podsvětí⟧.‘
 
-[30] Nyní tedy, až přijdu k tvému služebníku, mému otci, a chlapec nebude s námi – vždyť jeho život je spjat s chlapcovým životem –,
+[30] A nyní, až přijdu k tvému služebníku, mému otci, a chlapec s námi nebude – a jeho duše je svázána s jeho duší –,
 
-[31] stane se, že až uvidí, že chlapec s námi není, zemře; a tvoji služebníci přivedou šediny tvého služebníka, našeho otce, se zármutkem do ⟦sheol|Šeolu|podsvětí⟧.
+[31] stane se, až uvidí, že chlapec není, že zemře; a tvoji služebníci přivedou šediny tvého služebníka, našeho otce, se zármutkem do ⟦sheol|Šeolu|podsvětí⟧.
 
-[32] Tvůj služebník se totiž svému otci za chlapce zaručil: ‚Jestliže ti ho nepřivedu zpět, ponesu vinu před svým otcem navždy.‘
+[32] Neboť tvůj služebník se za chlapce zaručil u mého otce se slovy: ‚Jestliže ti ho nepřivedu, zhřešil jsem proti svému otci po všechny dny.‘
 
-[33] Nyní tedy, prosím, ať tvůj služebník zůstane místo chlapce jako otrok mého pána a chlapec ať jde nahoru se svými bratry.
+[33] A nyní ať prosím tvůj služebník zůstane místo chlapce jako otrok mého pána, a chlapec ať vystoupí se svými bratry.
 
-[34] Jak bych mohl jít nahoru ke svému otci, když chlapec nebude se mnou? Nemohl bych snést pohled na zlo, které by na mého otce dolehlo.“
+[34] Neboť jak bych vystoupil ke svému otci, kdyby chlapec nebyl se mnou? Abych neviděl zlo, které nalezne mého otce.“
 
 ## Změny
 
-- **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
-- **"divineth" → „věští“** (v5, 15) – hebrejsky יְנַחֵשׁ *yenachesh*. Od *nachash* = provozovat věštění, týž kořen jako *nachash* (had). Joseph tvrdí (jako součást přetvářky), že věští z poháru (hydromantie – čtení obrazců v tekutině), což je známá egyptská praxe. KJV překládá přímo; ponecháno jako standardní překlad.
-- **"God forbid" → „Ať je to daleko“** (v7, 17) – hebrejsky חָלִילָה *chalilah*. Idiomatický zápor / protest, nikoli teologické zvolání. „God forbid“ přidává „Bůh“, který v hebrejštině není; „Ať je to daleko“ je standardní moderní překlad (srov. 18:25).
-- **"bondmen / bondman" → „otroci / otrok“** (v9, 10, 16, 17, 33) – hebrejsky עֲבָדִים / עָבֶד *avadim / eved*. Otroci prostými slovy. KJV „bondmen“ zjemňuje.
-- **"wot ye not" → „Nevíte“** (v15) – archaické → moderní.
-- **"*Elohim* has found out the iniquity of your servants" → „*Elohim* odhalil nepravost tvých služebníků“ (v16)** – Judahův pozoruhodný výrok: přijímá skrytý pohár jako božský soud za skryté, dávné provinění (prodej Josepha). Bere na sebe společnou vinu. To je mravní zlom Josephova cyklu.
-- **"grey hairs with sorrow to the grave" → „šediny se zármutkem do Sheol“** (v29, 31) – jako v 37:35, 42:38. Sheol zachován.
-- **"life is bound up in the lad's life" → „jeho život je spjat s chlapcovým životem“** (v30) – hebrejsky נַפְשׁוֹ קְשׁוּרָה בְנַפְשׁוֹ *naphsho qeshurah be-naphsho*. *Nephesh* = život / duše / já. Samo otcovo bytí je svázáno s chlapcovým – něžné, důvěrné slovní spojení.
+- **"God" → „*Elohim*“** (v16) – hebrejsky הָאֱלֹהִים, se členem.
+- **"the steward of his house" → „ten, který byl nad jeho domem“** (v1, 4) – hebrejsky אֲשֶׁר עַל־בֵּיתוֹ, jako 43:16.
+- **"sacks" → „vaky“** (v1, 2, 8, 11, 12) – hebrejsky všude אַמְתַּחַת, jako v kap. 43.
+- **"cup" → „číše“** (v2, 12, 16, 17) – hebrejsky גָּבִיעַ, jiné slovo než „pohár“ (כּוֹס, 40:11).
+- **"his corn money" → „stříbro za jeho obilí“** (v2) – hebrejsky כֶּסֶף שִׁבְרוֹ, doslova „stříbro jeho obilí“; כֶּסֶף je stříbro na váhu, zde cena (také v1, 8).
+- **"As soon as the morning was light" → „Ráno se rozednilo“** (v3) – hebrejsky הַבֹּקֶר אוֹר, dvě slova: „ráno bylo světlo“. Ve v4 klade hebrejština vedle sebe dvě krátké věty: „vyšli z města, nebyli daleko“.
+- **"Up, follow" → „Vstaň, pronásleduj“** (v4) – hebrejsky קוּם רְדֹף.
+- **"whereby indeed he divineth" → „z ní jistě věští“** (v5), **"can certainly divine" → „jistě věští“** (v15) – hebrejsky נַחֵשׁ יְנַחֵשׁ, infinitiv absolutní se svým slovesem, doslova „věště věští“; נִחֵשׁ znamená provozovat věštění, hledat znamení. Sloveso je ponecháno, jak stojí; „dovede“ v hebrejštině není. Septuaginta má na začátku v5 delší text (zpaměti: otázku na ukradený pohár); ponechán je masoretský text.
+- **"God forbid" → „Daleko buď“** (v7, 17) – hebrejsky חָלִילָה לְ; „Bůh“ v hebrejštině není.
+- **"thy servants" / "bondmen" → „tvoji služebníci“ / „otroci“** (v celé kapitole) – jedno hebrejské slovo, עֶבֶד: „tvůj služebník / tvoji služebníci“, kde bratři mluví před vládcem o sobě nebo o svém otci, „otrok / otroci“, kde jde o otroctví (v9, 10, 16, 17, 33). Ve v16 stojí obojí vedle sebe: „nepravost tvých služebníků … jsme otroky mého pána“.
+- **"let him die" → „ten zemře“** (v9) – hebrejsky וָמֵת.
+- **"blameless" → „nevinní“** (v10) – hebrejsky נְקִיִּם.
+- **"began at the eldest, and left at the youngest" → „u nejstaršího začal a u nejmladšího skončil“** (v12) – hebrejsky בַּגָּדוֹל … וּבַקָּטֹן, doslova „u velkého … u malého“.
+- **"clothes" → „pláště“** (v13) – hebrejsky שִׂמְלֹתָם, jako 41:14.
+- **"wot ye not" → „Nevíte“** (v15) – hebrejsky הֲלוֹא יְדַעְתֶּם.
+- **"clear ourselves" → „se ospravedlníme“** (v16) – hebrejsky נִצְטַדָּק, od kořene „být spravedlivý“.
+- **"found out" → „nalezl“** (v16) – hebrejsky מָצָא, totéž sloveso jako „najít“ o stříbru a číši (v8, 9, 10, 12, 16, 17) a jako „zlo, které nalezne mého otce“ (v34).
+- **"in peace" → „v *šalom*“** (v17) – hebrejsky לְשָׁלוֹם.
+- **"Oh my lord" → „Ach, můj pane“** (v18) – hebrejsky בִּי אֲדֹנִי, doslova „na mne, můj pane“. „Prosím“ je נָא (také v33). „Ať nevzplane tvůj hněv“ je doslova „ať nevzplane tvůj nos“ (אַף). „Ty jsi jako Paroh“ je doslova „jako ty je jako Paroh“.
+- **"a child of his old age, a little one" → „dítě jeho stáří, maličké“** (v20) – hebrejsky יֶלֶד זְקֻנִים קָטָן; יֶלֶד „dítě“, vedle נַעַר „chlapec“ (v22, 30–34; KJV „lad“).
+- **"is left" → „zbyl“** (v20) – hebrejsky וַיִּוָּתֵר, jiné slovo než „zůstal“ ve 42:38.
+- **"that I may set mine eyes upon him" → „ať na něho upřu své oko“** (v21) – hebrejsky עֵינִי, jednotné číslo.
+- **"his father would die" → „zemře“** (v22) – hebrejsky וְעָזַב אֶת־אָבִיו וָמֵת, „a opustí svého otce a zemře“: hebrejština neříká, zda by zemřel otec, nebo chlapec.
+- **"ye shall see my face no more" → „už neuvidíte mou tvář“** (v23) – hebrejsky לֹא תֹסִפוּן לִרְאוֹת, doslova „nepřidáte vidět“.
+- **"Go again" → „Vraťte se“** (v25) – hebrejsky שֻׁבוּ, jako 43:2.
+- **"my wife bare me two sons" → „má žena mi porodila dva“** (v27) – „syny“ v hebrejštině není.
+- **"Surely he is torn in pieces" → „Jistě byl roztrhán“** (v28) – hebrejsky אַךְ טָרֹף טֹרָף, infinitiv absolutní se svým slovesem, jako 37:33.
+- **"if ye take … and mischief befall him" → „vezmete-li … a potká-li ho neštěstí“** (v29) – hebrejština nemá „jestliže“; אָסוֹן „neštěstí“, jako 42:4, 38. „Od mé tváře“ je מֵעִם פָּנַי.
+- **"with sorrow to the grave" → „ve zlu do Šeolu“ / „se zármutkem do Šeolu“** (v29, 31) – hebrejsky בְּרָעָה „ve zlu“ (v29) a בְּיָגוֹן „se zármutkem“ (v31, jako 42:38); שְׁאֹלָה „do Šeolu“; שֵׂיבָה „šediny“.
+- **"his life is bound up in the lad's life" → „jeho duše je svázána s jeho duší“** (v30) – hebrejsky וְנַפְשׁוֹ קְשׁוּרָה בְנַפְשׁוֹ, doslova tak; hebrejština neříká, čí duše je která (otcova s chlapcovou).
+- **"that the lad is not with us" → „že chlapec není“** (v31) – hebrejsky כִּי־אֵין הַנַּעַר; „s námi“ v masoretském textu není.
+- **"then I shall bear the blame to my father for ever" → „zhřešil jsem proti svému otci po všechny dny“** (v32) – hebrejsky וְחָטָאתִי לְאָבִי כָּל־הַיָּמִים, jako 43:9. „U mého otce“ je מֵעִם אָבִי, „od (toho, kdo je) u mého otce“.
+- **"abide" → „zůstane“** (v33) – hebrejsky יֵשֶׁב, jinde „bydlet“ nebo „sedět“; zde o tom, kdo zůstává, když ostatní vystupují.
+- **"lest peradventure I see the evil that shall come on my father" → „Abych neviděl zlo, které nalezne mého otce“** (v34) – hebrejsky פֶּן אֶרְאֶה בָרָע אֲשֶׁר יִמְצָא אֶת־אָבִי; věta končí nedořečena slovem „aby ne“.
 
 ### Poznámky
 
-- **Judahova řeč (v18–34)** – nejdelší souvislá řeč v Genesis a mravní vrchol Josephova cyklu. Judah, který kdysi navrhl Josepha prodat (37:26–27), nyní nabízí sám sebe jako náhradu za Benjamina. Bratra, jehož ztráta by Jacoba zarmoutila nejvíc, nahradil v Judahově srdci sám otcův zármutek. Tato proměna – od lehkomyslného bratrovraždění prodejem k zástupnému sebeobětování – připravuje Josephovo sebeodhalení v kap. 45.
-- **Josephova zkouška** – záměrně nastražil past, aby viděl, zda bratři opustí Benjamina (Jacobova nového oblíbence), jako kdysi opustili Josepha. Jejich odmítnutí, vrcholící Judahovou nabídkou, dokazuje změnu.
-- **„Jsi zrovna jako Pharaoh“ (v18)** – Judahův způsob, jak se obrátit na nejvyšší autoritu. V ironii vyprávění: Judah neví, že tento egyptský pán je ve skutečnosti víc než „zrovna jako Pharaoh“; je zároveň egyptským vezírem i ukřivděným bratrem.
+- **Judahova řeč (v18–34)** – nejdelší řeč v Genesis. Judah, který kdysi navrhl Josepha prodat (37:26–27), nyní nabízí sám sebe jako otroka místo Benjamina.
+- **„*Elohim* nalezl nepravost tvých služebníků“ (v16)** – Judah neříká, kterou nepravost; co do číše jsou bratři nevinní.
+- **„Ty jsi jako Pharaoh“ (v18)** – Judahův způsob, jak se obrátit na nejvyšší autoritu.

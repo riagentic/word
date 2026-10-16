@@ -1,81 +1,101 @@
 # Deuteronomium 3
 
-[1] „Potom jsme se obrátili a vystoupili cestou k ⟦bashan|Bašanu|Bášanu⟧, a ⟦og|Og|Óg⟧, král ⟦bashan|Bašanu|Bášanu⟧, vytáhl proti nám – on i všechen jeho lid – do boje u ⟦edrei|Edreje|Edreí⟧.
+[1] „A obrátili jsme se a vystoupili cestou k ⟦bashan|Bašanu|Bášanu⟧; a ⟦og|Og|Óg⟧, král ⟦bashan|Bašanu|Bášanu⟧, nám vyšel vstříc, on i všechen jeho lid, do boje u ⟦edrei|Edreje|Edreí⟧.
 
-[2] ⟦yhwh|Jahve|Hospodin⟧ mi řekl: ‚Neboj se ho, neboť jsem vydal do tvé ruky jeho i všechen jeho lid i jeho zemi, a naložíš s ním, jako jsi naložil se ⟦sihon|Sichonem|Síchonem⟧, králem ⟦amorites|Emorim|Emorejců⟧, který sídlil v ⟦heshbon|Chešbonu|Chešbónu⟧.‘
+[2] A ⟦yhwh|Jahve|Hospodin⟧ mi řekl: ‚Neboj se ho, neboť do tvé ruky jsem dal jeho i všechen jeho lid i jeho zemi; a učiníš mu, jak jsi učinil ⟦sihon|Sichonovi|Síchonovi⟧, králi ⟦amorites|Emoriho|Emorejce⟧, který bydlel v ⟦heshbon|Chešbonu|Chešbónu⟧.‘
 
-[3] ⟦yhwh|Jahve|Hospodin⟧, náš ⟦elohim|Elohim|Bůh⟧, tedy vydal do naší ruky i ⟦og|Oga|Óga⟧, krále ⟦bashan|Bašanu|Bášanu⟧, a všechen jeho lid; a pobíjeli jsme ho, až mu nezůstal nikdo, kdo by přežil.
+[3] A ⟦yhwh|Jahve|Hospodin⟧, náš ⟦elohim|Elohim|Bůh⟧, dal do naší ruky také ⟦og|Oga|Óga⟧, krále ⟦bashan|Bašanu|Bášanu⟧, i všechen jeho lid, a pobili jsme ho, až mu nezůstal nikdo, kdo by přežil.
 
-[4] Tehdy jsme dobyli všechna jeho města; nebylo města, které bychom jim nevzali – šedesát měst, celou oblast ⟦argob|Argov|Argób⟧, království ⟦og|Oga|Óga⟧ v ⟦bashan|Bašanu|Bášanu⟧.
+[4] A dobyli jsme v onen čas všechna jeho města; nebylo hradiště, které bychom jim nevzali: šedesát měst, celý kraj ⟦argob|Argov|Argób⟧, království ⟦og|Ogovo|Ógovo⟧ v ⟦bashan|Bašanu|Bášanu⟧.
 
-[5] Všechna tato města byla opevněna vysokými hradbami, branami a závorami, kromě velmi velikého počtu neohrazených vesnic.
+[5] To vše byla opevněná města: vysoká hradba, vrata a závora; mimo města otevřeného kraje, velmi mnohá.
 
-[6] Zasvětili jsme je zkáze, jak jsme učinili ⟦sihon|Sichonovi|Síchonovi⟧, králi ⟦heshbon|Chešbonu|Chešbónu⟧; každé město jsme zasvětili zkáze – muže, ženy i děti.
+[6] A zasvětili jsme je klatbě, jak jsme učinili ⟦sihon|Sichonovi|Síchonovi⟧, králi ⟦heshbon|Chešbonu|Chešbónu⟧, zasvěcujíce klatbě každé město mužů, ženy i malé děti.
 
-[7] Ale všechen dobytek a lup z měst jsme si vzali jako kořist.
+[7] A všechna zvířata a kořist měst jsme si naplenili.
 
-[8] Tehdy jsme vzali dvěma králům ⟦amorites|Emorim|Emorejců⟧ zemi, která byla za ⟦jordan|Jardenem|Jordánem⟧, od vádí ⟦arnon|Arnon|Arnón⟧ až k hoře ⟦hermon|Chermon|Chermón⟧ –
+[8] A vzali jsme v onen čas tu zemi z ruky dvou králů ⟦amorites|Emoriho|Emorejce⟧, kteří byli za ⟦jordan|Jardenem|Jordánem⟧, od vádí ⟦arnon|Arnon|Arnón⟧ až po horu ⟦hermon|Chermon|Chermón⟧
 
-[9] (⟦sidonians|Cidonim|Sidóňané⟧ nazývají ⟦hermon|Chermon|Chermón⟧ ⟦sirion|Sirjon|Sirjón⟧ a ⟦amorites|Emorim|Emorejci⟧ ho nazývají ⟦senir|Senir|Senír⟧) –
+[9] – ⟦sidonians|Cidonim|Sidóňané⟧ nazývají ⟦hermon|Chermon|Chermón⟧ ⟦sirion|Sirjon|Sirjón⟧ a ⟦amorites|Emori|Emorejec⟧, ti ho nazývají ⟦senir|Senir|Senír⟧ –
 
-[10] všechna města náhorní roviny, celý ⟦gilead|Gilad|Gileád⟧ a celý ⟦bashan|Bašan|Bášan⟧ až po ⟦salecah|Salchu|Salku⟧ a ⟦edrei|Edrej|Edreí⟧, města ⟦og|Ogova|Ógova⟧ království v ⟦bashan|Bašanu|Bášanu⟧.
+[10] všechna města náhorní roviny a celý ⟦gilead|Gilad|Gileád⟧ a celý ⟦bashan|Bašan|Bášan⟧ až po ⟦salecah|Salchu|Salku⟧ a ⟦edrei|Edrej|Edreí⟧, města království ⟦og|Ogova|Ógova⟧ v ⟦bashan|Bašanu|Bášanu⟧.
 
-[11] (Neboť ze zbytku ⟦rephaim|Refaim|Refájců⟧ zůstal jen ⟦og|Og|Óg⟧, král ⟦bashan|Bašanu|Bášanu⟧. Hle, jeho lože bylo železné lože – není snad v ⟦rabbah|Rabbě|Rabě⟧ synů ⟦ammon|Ammonových|Amónových⟧? Devět loket bylo jeho délky a čtyři lokty jeho šířky, podle obyčejného lokte.)
+[11] Neboť ze zbytku ⟦rephaim|Refaim|Refájců⟧ zůstal jen ⟦og|Og|Óg⟧, král ⟦bashan|Bašanu|Bášanu⟧. Hle, jeho lože je lože ze železa; což není v ⟦rabbah|Rabbě|Rabě⟧ synů ⟦ammon|Ammonových|Amónových⟧? Devět loket je jeho délka a čtyři lokte jeho šířka, podle lokte muže.
 
-[12] Tuto zemi jsme tehdy vzali do vlastnictví: od ⟦aroer|Aroeru|Aroéru⟧, který je u vádí ⟦arnon|Arnon|Arnón⟧, a polovinu ⟦gilead|giladského|gileádského⟧ pohoří s jeho městy jsem dal ⟦reubenites|Reuveni|Rúbenovcům⟧ a ⟦gadites|Gadi|Gádovcům⟧;
+[12] A tuto zemi jsme v onen čas obsadili. Od ⟦aroer|Aroeru|Aroéru⟧, který je u vádí ⟦arnon|Arnon|Arnón⟧, i polovinu ⟦gilead|giladského|gileádského⟧ pohoří a jeho města jsem dal ⟦reubenites|Reuveni|Rúbenovci⟧ a ⟦gadites|Gadi|Gádovci⟧;
 
-[13] zbytek ⟦gilead|Giladu|Gileádu⟧ a celý ⟦bashan|Bašan|Bášan⟧ – ⟦og|Ogovo|Ógovo⟧ království – jsem dal polovině kmene ⟦manasseh|Menaše|Manasesa⟧, celou oblast ⟦argob|Argov|Argób⟧, celý ⟦bashan|Bašan|Bášan⟧, který se nazýval zemí ⟦rephaim|Refaim|Refájců⟧.
+[13] a zbytek ⟦gilead|Giladu|Gileádu⟧ a celý ⟦bashan|Bašan|Bášan⟧, království ⟦og|Ogovo|Ógovo⟧, jsem dal polovině kmene ⟦manasseh|Menaše|Manasesa⟧: celý kraj ⟦argob|Argov|Argób⟧ s celým ⟦bashan|Bašanem|Bášanem⟧; ten se nazývá zemí ⟦rephaim|Refaim|Refájců⟧.
 
-[14] ⟦jair|Jair|Jaír⟧, syn ⟦manasseh|Menašův|Manasesův⟧, zabral celou oblast ⟦argob|Argov|Argób⟧ až po hranici ⟦geshurites|Gešuri|Gešúrců⟧ a ⟦maacathites|Maachati|Maakátců⟧ a nazval ⟦bashan|Bašan|Bášan⟧ podle svého jména ⟦havvoth-jair|Chavvot Jair|Chavót-jaír⟧ až do dnešního dne.
+[14] ⟦jair|Jair|Jaír⟧, syn ⟦manasseh|Menašův|Manasesův⟧, vzal celý kraj ⟦argob|Argov|Argób⟧ až po hranici ⟦geshurites|Gešuriho|Gešúrce⟧ a ⟦maacathites|Maachatiho|Maakátce⟧ a nazval je svým jménem, ⟦bashan|Bašan|Bášan⟧, ⟦havvoth-jair|Chavvot Jair|Chavót-jaír⟧, až do tohoto dne.
 
-[15] ⟦machir|Machirovi|Makírovi⟧ jsem dal ⟦gilead|Gilad|Gileád⟧.
+[15] A ⟦machir|Machirovi|Makírovi⟧ jsem dal ⟦gilead|Gilad|Gileád⟧.
 
-[16] ⟦reubenites|Reuveni|Rúbenovcům⟧ a ⟦gadites|Gadi|Gádovcům⟧ jsem dal území od ⟦gilead|Giladu|Gileádu⟧ až k vádí ⟦arnon|Arnon|Arnón⟧, přičemž hranicí byl střed vádí, a až k vádí ⟦jabbok|Jabbok|Jabok⟧, které je hranicí synů ⟦ammon|Ammonových|Amónových⟧,
+[16] A ⟦reubenites|Reuveni|Rúbenovci⟧ a ⟦gadites|Gadi|Gádovci⟧ jsem dal od ⟦gilead|Giladu|Gileádu⟧ až po vádí ⟦arnon|Arnon|Arnón⟧, střed vádí a hranici, a až po ⟦jabbok|Jabbok|Jabok⟧, vádí, hranici synů ⟦ammon|Ammonových|Amónových⟧;
 
-[17] také ⟦arabah|Aravu|pustinu⟧ s ⟦jordan|Jardenem|Jordánem⟧ jako hranicí, od ⟦chinnereth|Kinneretu|Kineretu⟧ dolů k moři ⟦arabah|Aravy|pustiny⟧ – Slanému moři – pod svahy Pisgy na východě.
+[17] a ⟦arabah|Aravu|pustinu⟧ a ⟦jordan|Jarden|Jordán⟧ a hranici, od ⟦chinnereth|Kinneretu|Kineretu⟧ až po moře ⟦arabah|Aravy|pustiny⟧, Slané moře, pod svahy Pisgy na východ.
 
-[18] Tehdy jsem vám přikázal: ‚⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧, vám dal tuto zemi, abyste ji vlastnili; všichni vaši bojovníci přejdou ozbrojeni před svými bratry, syny ⟦israel|Jisraele|Izraele⟧.
+[18] A přikázal jsem vám v onen čas se slovy: ‚⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧, vám dal tuto zemi, abyste ji obsadili. Ozbrojeni přejdete před svými bratry, syny ⟦israel|Jisraele|Izraele⟧, všichni synové zdatnosti.
 
-[19] Jen vaše ženy, vaše děti a váš dobytek (vím, že máte mnoho dobytka) zůstanou v městech, která jsem vám dal,
+[19] Jen vaše ženy a vaše malé děti a váš dobytek – vím, že máte mnoho dobytka – budou bydlet ve vašich městech, která jsem vám dal,
 
-[20] dokud ⟦yhwh|Jahve|Hospodin⟧ nedá odpočinutí vašim bratrům jako vám a dokud i oni nevezmou do vlastnictví zemi, kterou jim ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧, dává za ⟦jordan|Jardenem|Jordánem⟧. Potom se každý z vás smí vrátit ke svému vlastnictví, které jsem vám dal.‘
+[20] dokud ⟦yhwh|Jahve|Hospodin⟧ nedá spočinout vašim bratrům jako vám a dokud i oni neobsadí zemi, kterou jim dává ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧, za ⟦jordan|Jardenem|Jordánem⟧; a vrátíte se každý ke své državě, kterou jsem vám dal.‘
 
-[21] Tehdy jsem přikázal ⟦joshua|Jehošuovi|Jozuovi⟧: ‚Tvé oči viděly všechno, co ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧, učinil těmto dvěma králům; tak ⟦yhwh|Jahve|Hospodin⟧ učiní všem královstvím, do nichž přecházíš.
+[21] A ⟦joshua|Jehošuovi|Jozuovi⟧ jsem v onen čas přikázal se slovy: ‚Tvé oči jsou ty, které viděly všechno, co ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧, učinil těmto dvěma králům; tak učiní ⟦yhwh|Jahve|Hospodin⟧ všem královstvím, do nichž přecházíš.
 
-[22] Nebudete se jich bát, neboť ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧ – on sám bojuje za vás.‘
+[22] Nebudete se jich bát, neboť ⟦yhwh|Jahve|Hospodin⟧, váš ⟦elohim|Elohim|Bůh⟧, on je ten, kdo bojuje za vás.‘
 
-[23] Tehdy jsem také úpěnlivě prosil ⟦yhwh|Jahveho|Hospodina⟧:
+[23] A úpěnlivě jsem v onen čas prosil ⟦yhwh|Jahveho|Hospodina⟧ se slovy:
 
-[24] ‚⟦adonai-yhwh|Pane Jahve|Panovníku Hospodine⟧, teprve jsi začal ukazovat svému služebníku svou velikost a svou mocnou ruku; neboť který bůh na nebi či na zemi dokáže činit skutky a mocné činy jako ty?
+[24] ‚⟦adonai-yhwh|Pane Jahve|Panovníku Hospodine⟧, ty sám jsi začal ukazovat svému služebníku svou velikost a svou silnou ruku; neboť který ⟦el|el|bůh⟧ je na nebesích a na zemi, jenž by činil podle tvých skutků a podle tvých udatných činů?
 
-[25] Prosím, dovol mi přejít a spatřit tu dobrou zemi za ⟦jordan|Jardenem|Jordánem⟧ – to dobré pohoří a ⟦lebanon|Levanon|Libanón⟧.‘
+[25] Nechť, prosím, přejdu a uvidím tu dobrou zemi, která je za ⟦jordan|Jardenem|Jordánem⟧, toto dobré pohoří a ⟦lebanon|Levanon|Libanón⟧.‘
 
-[26] Ale ⟦yhwh|Jahve|Hospodin⟧ se na mne kvůli vám rozhněval a nevyslyšel mě. ⟦yhwh|Jahve|Hospodin⟧ mi řekl: ‚Dost! Už se mnou o té věci nemluv.
+[26] A ⟦yhwh|Jahve|Hospodin⟧ proti mně vzkypěl pro vás a nevyslyšel mě. A ⟦yhwh|Jahve|Hospodin⟧ mi řekl: ‚Dost máš! Už ke mně o této věci dál nemluv.
 
-[27] Vystup na vrchol Pisgy a pozdvihni oči na západ, na sever, na jih a na východ a pohleď na ni svýma očima; neboť tento ⟦jordan|Jarden|Jordán⟧ nepřejdeš.
+[27] Vystup na vrchol Pisgy a pozvedni své oči na západ a na sever a na jih a na východ a pohleď svýma očima; neboť tento ⟦jordan|Jarden|Jordán⟧ nepřejdeš.
 
-[28] Ale pověř ⟦joshua|Jehošuu|Jozua⟧, povzbuď ho a posilni ho, neboť on přejde před tímto lidem a uvede ho v dědictví země, kterou uvidíš.‘
+[28] A přikaž ⟦joshua|Jehošuovi|Jozuovi⟧ a posilni ho a upevni ho; neboť on přejde před tímto lidem a on je uvede do dědictví země, kterou uvidíš.‘
 
-[29] Zůstali jsme tedy v údolí naproti ⟦beth-peor|Bejt Peoru|Bét-peóru⟧.
+[29] A bydleli jsme v údolí naproti ⟦beth-peor|Bejt Peoru|Bét-peóru⟧.
 
 ## Změny
 
-- **"LORD" → „Yahweh“** (v celé kapitole) – zachován Tetragram.
+- **"LORD" → „Jahve“** (v celé kapitole) – tetragram zachován.
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
-- **"giants" → „Rephaim“** (v11, 13) – jako v kap. 2.
-- **"utterly destroyed" → „zasvětili zkáze“** (v6) – *cherem*.
-- **"cubit of a man" → „obyčejný loket“** (v11) – hebrejsky בְּאַמַּת אִישׁ *be'ammat ish*. Běžný, nikoli královský loket.
-- **"fenced" → „opevněná“** (v5).
-- **"Sirion" (v9)** – fénické jméno hory Hermon; doloženo v ugaritských textech.
-- **"Senir" (v9)** – amoritské / asyrské jméno Hermonu.
-- **"Havvoth-Jair"** (v14) – hebrejsky חַוֹּת יָאִיר *Chavvot Ya'ir* = „Jairova sídliště“; jako v Num 32.
-- **"besought" → „úpěnlivě prosil“** (v23) – modernizováno.
-- **"Lord God" → „Pane Yahweh“** (v24) – hebrejsky אֲדֹנָי יְהוִה *Adonai YHWH*. Zvláštní složený titul.
-- **"goodly mountain" → „dobré pohoří“** (v25) – hebrejsky *ha-har ha-tov*.
+- **„A“** (v celé kapitole) – hebrejština spojuje věty spojkou וַ / וְ „a“; řetěz je zachován.
+- **"Then we turned, and went up the way to Bashan: and Og the king of Bashan came out against us" → „A obrátili jsme se a vystoupili cestou k Bašanu; a Og, král Bašanu, nám vyšel vstříc“** (v1) – slova z Num 21:33 ve stejném znění, s „my“ místo „oni“. הַבָּשָׁן má člen (tak v celé kapitole); לִקְרָאתֵנוּ „nám vstříc“.
+- **"Fear him not: for I will deliver him, and all his people, and his land, into thy hand … which dwelt at Heshbon" → „Neboj se ho, neboť do tvé ruky jsem dal jeho i všechen jeho lid i jeho zemi … který bydlel v Chešbonu“** (v2) – slova z Num 21:34. Hebrejsky נָתַתִּי, perfektum, „dal jsem“; הָאֱמֹרִי „Emori“, jednotné číslo se členem pro celý lid (tak v8, 9).
+- **"delivered into our hands Og also … and we smote him until none was left to him remaining" → „dal do naší ruky také Oga … a pobili jsme ho, až mu nezůstal nikdo, kdo by přežil“** (v3) – hebrejsky וַיִּתֵּן „dal“; בְּיָדֵנוּ „do naší ruky“; שָׂרִיד „přeživší“ (Num 21:35).
+- **"we took all his cities … there was not a city which we took not from them, threescore cities" → „dobyli jsme … všechna jeho města; nebylo hradiště, které bychom jim nevzali: šedesát měst“** (v4) – hebrejsky לָכַד „dobýt“ a לָקַח „vzít“; קִרְיָה „hradiště“ vedle עִיר „město“. **"all the region of Argob" → „celý kraj Argov“** – hebrejsky חֶבֶל, doslova „provaz, měřicí šňůra“: vyměřený kus země.
+- **"All these cities were fenced with high walls, gates, and bars; beside unwalled towns a great many" → „To vše byla opevněná města: vysoká hradba, vrata a závora; mimo města otevřeného kraje, velmi mnohá“** (v5) – hebrejština klade slova vedle sebe bez „s“; חוֹמָה גְבֹהָה je jednotné číslo; דְּלָתַיִם, dvojice dveří (dvoukřídlá vrata); בְּרִיחַ „závora“, jednotné číslo. עָרֵי הַפְּרָזִי, doslova „města obyvatele otevřeného kraje“: města bez hradby.
+- **"we utterly destroyed them … utterly destroying the men, women, and children, of every city" → „zasvětili jsme je klatbě … zasvěcujíce klatbě každé město mužů, ženy i malé děti“** (v6) – hebrejsky הֶחֱרִים (*cherem*, 2:34); עִיר מְתִם „město mužů“, muže každého města; טַף „malé děti“.
+- **"all the cattle … we took for a prey to ourselves" → „všechna zvířata … jsme si naplenili“** (v7) – hebrejsky בְּהֵמָה; בָּזַז.
+- **"out of the hand of the two kings of the Amorites the land that was on this side Jordan, from the river of Arnon" → „tu zemi z ruky dvou králů Emoriho, kteří byli za Jardenem, od vádí Arnon“** (v8) – hebrejsky בְּעֵבֶר הַיַּרְדֵּן „za Jardenem“: zde východní strana, ačkoli Moše na té straně mluví; ve v20, 25 jsou tatáž slova o straně západní. אֲשֶׁר se může vztahovat ke králům i k zemi. נַחַל „vádí“.
+- **"(Which Hermon the Sidonians call Sirion; and the Amorites call it Shenir;)" → „– Cidonim nazývají Chermon Sirjon a Emori, ti ho nazývají Senir –“** (v9) – závorky v hebrejštině nejsou; „Cidonim“ nemá člen; שְׂנִיר *Senir*.
+- **"All the cities of the plain" → „všechna města náhorní roviny“** (v10) – hebrejsky הַמִּישֹׁר, „rovná země“: náhorní planina východně od Mrtvého moře; jiné slovo než עֲרָבָה ve v17.
+- **"remained of the remnant of giants; behold, his bedstead was a bedstead of iron … after the cubit of a man" → „ze zbytku Refaim zůstal … Hle, jeho lože je lože ze železa … podle lokte muže“** (v11) – hebrejsky הָרְפָאִים, jméno lidu (2:11); יֶתֶר „zbytek“, slovo z v13. עֶרֶשׂ je lehátko nebo lože; že je míněna kamenná rakev, je dohad. Hebrejština nemá sloveso: o loži se mluví jako o věci, kterou lze dosud vidět. בְּאַמַּת־אִישׁ, „podle lokte muže“: obyčejný loket, předloktí muže.
+- **"this land, which we possessed at that time … and half mount Gilead, and the cities thereof, gave I unto the Reubenites and to the Gadites" → „tuto zemi jsme v onen čas obsadili. Od Aroeru … i polovinu giladského pohoří a jeho města jsem dal Reuveni a Gadi“** (v12, 16) – hebrejsky יָרַשְׁנוּ, hlavní věta; הַר־הַגִּלְעָד (הַר o kraji, 1:2); kmeny jsou jmenovány v jednotném čísle se členem.
+- **"being the kingdom of Og, gave I unto the half tribe of Manasseh; all the region of Argob, with all Bashan, which was called the land of giants" → „království Ogovo, jsem dal polovině kmene Menaše: celý kraj Argov s celým Bašanem; ten se nazývá zemí Refaim“** (v13) – hebrejsky לְכָל־הַבָּשָׁן, doslova „k celému Bašanu / co do celého Bašanu“; „Argov“ má zde člen. Hebrejské přízvuky dělají předěl za „Bašanem“, takže הַהוּא „ten“ začíná poslední větu; bez předělu slova zní „celý ten Bašan se nazývá zemí Refaim“. יִקָּרֵא „nazývá se“, imperfektum.
+- **"all the country of Argob unto the coasts of Geshuri and Maachathi; and called them after his own name, Bashan-havoth-jair" → „celý kraj Argov až po hranici Gešuriho a Maachatiho a nazval je svým jménem, Bašan, Chavvot Jair“** (v14) – hebrejsky חֶבֶל jako v4; גְּבוּל „hranice“. „Je“ nemá v tomto verši před sebou podstatné jméno v množném čísle (Num 32:41 má „jejich stanové vsi“); „Bašan“ stojí vedle, jak to má hebrejština. חַוֺּת יָאִיר *Chavvot Jair* jsou „Jairovy stanové vsi“.
+- **"half the valley, and the border even unto the river Jabbok" → „střed vádí a hranici, a až po Jabbok, vádí“** (v16) – hebrejsky תּוֹךְ הַנַּחַל וּגְבֻל, doslova „střed vádí a hranice“: hranicí je střed koryta (tak „a Jarden a hranici“, v17; Num 34:6).
+- **"The plain also, and Jordan, and the coast thereof, from Chinnereth even unto the sea of the plain, even the salt sea, under Ashdoth-pisgah eastward" → „a Aravu a Jarden a hranici, od Kinneretu až po moře Aravy, Slané moře, pod svahy Pisgy na východ“** (v17) – hebrejsky הָעֲרָבָה, jméno (1:1); אַשְׁדֹּת הַפִּסְגָּה: אַשְׁדֹּת jsou „svahy“ (Num 21:15; smysl není jistý) a „Pisga“ má člen.
+- **"ye shall pass over armed before your brethren the children of Israel, all that are meet for the war" → „Ozbrojeni přejdete před svými bratry, syny Jisraele, všichni synové zdatnosti“** (v18) – hebrejsky חֲלוּצִים „ozbrojení“ (Num 32:21), na začátku věty; כָּל־בְּנֵי־חָיִל, doslova „všichni synové zdatnosti“: חַיִל je zdatnost, síla, vojsko; zde muži schopní boje. „Válka“ v hebrejštině není. „Vy“ ve v18–20 jsou Reuveni, Gadi a polovina Menaše.
+- **"(for I know that ye have much cattle,) shall abide in your cities" → „– vím, že máte mnoho dobytka – budou bydlet ve vašich městech“** (v19) – hebrejsky מִקְנֶה „dobytek“; יָשַׁב „bydlet“.
+- **"Until the LORD have given rest unto your brethren, as well as unto you, and until they also possess the land which the LORD your God hath given them beyond Jordan" → „dokud Jahve nedá spočinout vašim bratrům jako vám a dokud i oni neobsadí zemi, kterou jim dává Jahve, váš Elohim, za Jardenem“** (v20) – hebrejsky נֹתֵן, příčestí, „dává“; בְּעֵבֶר הַיַּרְדֵּן, zde západní strana (v8). יְרֻשָּׁה „država“ (2:5).
+- **"Thine eyes have seen" → „Tvé oči jsou ty, které viděly“** (v21) – hebrejsky עֵינֶיךָ הָרֹאֹת, doslova „tvé oči jsou ty vidoucí“ (tak 4:3; 11:7). „Tvé oči“, „přecházíš“ jsou v jednotném čísle, k Jehošuovi; „váš Elohim“ v tomto verši a celý v22 jsou v množném.
+- **"for the LORD your God he shall fight for you" → „neboť Jahve, váš Elohim, on je ten, kdo bojuje za vás“** (v22) – hebrejsky הוּא הַנִּלְחָם, příčestí se členem.
+- **"I besought the LORD" → „úpěnlivě jsem … prosil Jahveho“** (v23) – hebrejsky וָאֶתְחַנַּן, od חָנַן „projevit přízeň“: hledat pro sebe přízeň (Gen 42:21).
+- **"O Lord God, thou hast begun to shew thy servant thy greatness, and thy mighty hand: for what God is there in heaven or in earth, that can do according to thy works, and according to thy might?" → „Pane Jahve, ty sám jsi začal ukazovat svému služebníku svou velikost a svou silnou ruku; neboť který *el* je na nebesích a na zemi, jenž by činil podle tvých skutků a podle tvých udatných činů?“** (v24) – hebrejsky אֲדֹנָי יְהוִה *Adonai JHVH*, obě slova; אַתָּה „ty“ je vypsáno; חֲזָקָה „silná“; אֵל *el*, „bůh“; יַעֲשֶׂה „činí“ („moci“ v hebrejštině není); גְּבוּרֹת, množné číslo, „udatné činy“. עֶבֶד je „otrok“; o tom, kdo slouží Jahvovi, „služebník“.
+- **"I pray thee, let me go over, and see the good land that is beyond Jordan, that goodly mountain, and Lebanon" → „Nechť, prosím, přejdu a uvidím tu dobrou zemi, která je za Jardenem, toto dobré pohoří a Levanon“** (v25) – hebrejsky נָא „prosím“; הָהָר הַטּוֹב הַזֶּה, „tato dobrá hora“, pohoří západně od Jardenu; „Levanon“ má člen.
+- **"the LORD was wroth with me for your sakes, and would not hear me … Let it suffice thee; speak no more unto me of this matter" → „Jahve proti mně vzkypěl pro vás a nevyslyšel mě … Dost máš! Už ke mně o této věci dál nemluv“** (v26) – hebrejsky וַיִּתְעַבֵּר, sloveso od עֶבְרָה „překypující hněv“; zní jako עָבַר „přejít“, slovo Mošovy prosby (v25) i odmítnutí (v27). לְמַעַנְכֶם „pro vás, kvůli vám“ (1:37 má בִּגְלַלְכֶם). רַב־לָךְ „mnoho pro tebe“ (1:6); אַל־תּוֹסֶף דַּבֵּר … עוֹד, doslova „nepřidávej mluvit … znovu“.
+- **"Get thee up into the top of Pisgah, and lift up thine eyes westward … and behold it with thine eyes" → „Vystup na vrchol Pisgy a pozvedni své oči na západ … a pohleď svýma očima“** (v27) – „na ni“ v hebrejštině není. Čtyři strany jsou doslova „k moři, k severu, k Temanu, k východu slunce“.
+- **"But charge Joshua, and encourage him, and strengthen him … and he shall cause them to inherit" → „A přikaž Jehošuovi a posilni ho a upevni ho … a on je uvede do dědictví“** (v28) – hebrejsky צִוָּה „přikázat“ (Num 27:19); חִזֵּק „posilnit“ a אִמֵּץ „upevnit“, dvě slovesa pro sílu; הִנְחִיל (1:38).
+- **"So we abode in the valley over against Beth-peor" → „A bydleli jsme v údolí naproti Bejt Peoru“** (v29) – hebrejsky יָשַׁב; גַּיְא, úzké údolí; מוּל „naproti“.
 
 ### Poznámky
-- **Ogovo železné lože** (v11) – relikvie je uváděna jako historický doklad jeho velikosti. „Lože“ (*eres*) je možná sarkofág. 9 × 4 lokte = asi 13 × 6 stop / 4 × 1,8 m. V době, kdy bylo Deut sepsáno / redigováno, bylo stále k vidění v Rabbath-ammon. Archeologie: dolmenové hroby v oblasti tomuto popisu odpovídají.
-- **Přidělení Zajordání** – Reuben a Gad dostávají jižní polovinu (od Arnonu po Jabbok); polovina kmene Manasseh dostává Bashan (severně od Jabboku).
-- **Mosesova prosba** (v23–25) – dojemná. Prosí jednou, je odmítnut a přijímá to. *Jediný* záznam Mosesovy osobní prosby k Yahweh, která byla zamítnuta. Teologický motiv: ani služebník Yahweh není vyňat z důsledků; vedení a spravedlnost vyžadují trpělivé přijetí.
-- **Pohled z Pisgah** (v27) – Moses uvidí, ale nevejde. Naplněno v kap. 34. Panorama do čtyř stran připomíná Abrahamův pohled (Gen 13:14–15).
-- **„Yahweh bojuje za vás“** (v22) – opakující se válečná teologie Deuteronomia. Srov. Deut 20:4, Josh 10:42.
+- **Ogovo železné lože** (v11) – uvádí se jako věc, kterou lze vidět v Rabbah synů Ammonových. Devět loket na čtyři je asi 4 × 1,8 m (13 × 6 stop).
+- **Přidělení Zajordání** – Reuben a Gad dostávají jih (od Arnonu po Jabbok a polovinu gileadského pohoří); polovina kmene Manasseh dostává zbytek Gileadu a Bashan (Num 32).
+- **Mosesova prosba** (v23–25) – prosí jednou, je odmítnut a je mu řečeno, aby o tom už nemluvil.
+- **Pohled z Pisgah** (v27) – Moses uvidí, ale nepřejde (kap. 34). Čtyři strany jsou tytéž jako v Gen 13:14.
+- **„Yahweh … bojuje za vás“** (v22) – srov. 1:30; 20:4; Exod 14:14.
+- **„Pro vás“** (v26) – jako 1:37 a 4:21; Num 20:12 uvádí jako důvod nevěru Mosese a Aarona.

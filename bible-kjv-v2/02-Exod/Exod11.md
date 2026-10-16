@@ -1,32 +1,46 @@
 # Exodus 11
 
-[1] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "One more plague I will bring upon ⟦pharaoh|Paroh|Pharaoh⟧ and upon ⟦egypt|Mitzrayim|Egypt⟧; afterward he will let you go from here. When he lets you go, he will drive you out from here altogether.
+[1] And ⟦yhwh|Yahweh|the LORD⟧ said to ⟦moses|Moshe|Moses⟧, "One plague more I will bring upon ⟦pharaoh|Paroh|Pharaoh⟧ and upon ⟦egypt|Mitzrayim|Egypt⟧; after that he will let you go from here. When he lets you go, he will surely drive you out from here altogether.
 
-[2] Speak now in the ears of the people, and let every man ask from his neighbor, and every woman from her neighbor, articles of silver and articles of gold."
+[2] Speak, please, in the ears of the people, and let them ask, each man from his neighbor and each woman from her neighbor, vessels of silver and vessels of gold."
 
-[3] And ⟦yhwh|Yahweh|the LORD⟧ gave the people favor in the sight of the ⟦egyptians|Mitzrim|Egyptians⟧. Moreover, the man ⟦moses|Moshe|Moses⟧ was very great in the land of ⟦egypt|Mitzrayim|Egypt⟧, in the sight of ⟦pharaoh|Paroh|Pharaoh⟧'s servants and in the sight of the people.
+[3] And ⟦yhwh|Yahweh|the LORD⟧ gave the people favor in the eyes of the ⟦egyptians|Mitzrim|Egyptians⟧. Also the man ⟦moses|Moshe|Moses⟧ was very great in the land of ⟦egypt|Mitzrayim|Egypt⟧, in the eyes of the servants of ⟦pharaoh|Paroh|Pharaoh⟧ and in the eyes of the people.
 
-[4] ⟦moses|Moshe|Moses⟧ said, "Thus says ⟦yhwh|Yahweh|the LORD⟧: 'About midnight I will go out into the midst of ⟦egypt|Mitzrayim|Egypt⟧,
+[4] And ⟦moses|Moshe|Moses⟧ said, "Thus says ⟦yhwh|Yahweh|the LORD⟧: 'About midnight I am going out into the midst of ⟦egypt|Mitzrayim|Egypt⟧,
 
-[5] and every firstborn in the land of ⟦egypt|Mitzrayim|Egypt⟧ shall die — from the firstborn of ⟦pharaoh|Paroh|Pharaoh⟧ who sits on his throne, to the firstborn of the slave-girl who is behind the handmill, and every firstborn of the animals.
+[5] and every firstborn in the land of ⟦egypt|Mitzrayim|Egypt⟧ shall die, from the firstborn of ⟦pharaoh|Paroh|Pharaoh⟧ who sits on his throne to the firstborn of the maidservant who is behind the millstones, and every firstborn of beast.
 
-[6] There shall be a great cry throughout all the land of ⟦egypt|Mitzrayim|Egypt⟧, such as there never has been and never shall be again.
+[6] And there shall be a great outcry in all the land of ⟦egypt|Mitzrayim|Egypt⟧, such as there has not been and such as there shall not be again.
 
-[7] But against any of the children of ⟦israel|Yisrael|Israel⟧ no dog shall so much as snarl, against man or beast, so that you may know that ⟦yhwh|Yahweh|the LORD⟧ distinguishes between ⟦egypt|Mitzrayim|Egypt⟧ and ⟦israel|Yisrael|Israel⟧.'
+[7] But against all the sons of ⟦israel|Yisrael|Israel⟧ a dog shall not sharpen its tongue, from man to beast, so that you may know that ⟦yhwh|Yahweh|the LORD⟧ distinguishes between ⟦egypt|Mitzrayim|Egypt⟧ and ⟦israel|Yisrael|Israel⟧.'
 
-[8] And all these your servants shall come down to me and bow themselves before me, saying, 'Go out, you and all the people who follow you!' And after that I will go out." And he went out from ⟦pharaoh|Paroh|Pharaoh⟧ in burning anger.
+[8] And all these your servants shall come down to me and bow down to me, saying, 'Go out, you and all the people who are at your feet.' And after that I will go out." And he went out from ⟦pharaoh|Paroh|Pharaoh⟧ in burning anger.
 
-[9] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "⟦pharaoh|Paroh|Pharaoh⟧ will not listen to you, so that my wonders may be multiplied in the land of ⟦egypt|Mitzrayim|Egypt⟧."
+[9] And ⟦yhwh|Yahweh|the LORD⟧ said to ⟦moses|Moshe|Moses⟧, "⟦pharaoh|Paroh|Pharaoh⟧ will not listen to you, so that my wonders may be multiplied in the land of ⟦egypt|Mitzrayim|Egypt⟧."
 
-[10] ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧ did all these wonders before ⟦pharaoh|Paroh|Pharaoh⟧; but ⟦yhwh|Yahweh|the LORD⟧ hardened ⟦pharaoh|Paroh|Pharaoh⟧'s heart, and he would not let the children of ⟦israel|Yisrael|Israel⟧ go out of his land.
+[10] And ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧ did all these wonders before ⟦pharaoh|Paroh|Pharaoh⟧; and ⟦yhwh|Yahweh|the LORD⟧ made strong the heart of ⟦pharaoh|Paroh|Pharaoh⟧, and he did not let the sons of ⟦israel|Yisrael|Israel⟧ go from his land.
 
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"borrow" → "ask from"** (v2) — as in 3:22. *Sha'al* = ask / request.
-- **"maidservant that is behind the mill" → "slave-girl who is behind the handmill"** (v5) — Hebrew הַשִּׁפְחָה אֲשֶׁר אַחַר הָרֵחָיִם *ha-shiphchah asher achar ha-rechayim*. The lowest-ranking female household worker — kneeling at the grinding mill. Rhetorical merism: firstborn of the king to firstborn of the lowest slave — none spared.
-- **"dog move his tongue" → "dog shall so much as snarl"** (v7) — Hebrew לֹא יֶחֱרַץ־כֶּלֶב לְשֹׁנוֹ *lo yecherats-kelev leshono*. *Charats* = sharpen / bare (teeth); with "tongue," idiom for a dog's warning growl / snarl. Absolute peace in Goshen while Egypt cries out.
-- **"great anger" → "burning anger"** (v8) — Hebrew בָּחֳרִי־אָף *ba-chori-aph*. *Chori* = heat; *aph* = nose (the seat of anger in Hebrew physiology). Literally "heat of nose." Moses, normally measured, departs in fury.
+- **"And"** (throughout) — the Hebrew joins its clauses with וַ / וְ "and"; the chain is kept.
+- **"Yet will I bring one plague more" → "One plague more I will bring"** (v1) — Hebrew עוֹד נֶגַע אֶחָד; נֶגַע is literally "a touch, a stroke". This is the only place where the word is used of the ten blows on Egypt.
+- **"when he shall let you go, he shall surely thrust you out hence altogether" → "When he lets you go, he will surely drive you out from here altogether"** (v1) — Hebrew כְּשַׁלְּחוֹ כָּלָה גָּרֵשׁ יְגָרֵשׁ אֶתְכֶם מִזֶּה, literally "at his letting go — completely — driving out he will drive you out from here". "You" after "lets" is supplied. The accents set כָּלָה "completely" by itself, so it can go with either verb: "when he lets you go altogether" or "he will drive you out altogether". "Surely" stands for the infinitive absolute with its verb. שִׁלַּח "let go" and גֵּרֵשׁ "drive out" are the two verbs of 6:1.
+- **"Speak now" → "Speak, please"** (v2) — Hebrew דַּבֶּר־נָא; the particle נָא is kept.
+- **"borrow" → "ask"** (v2) — Hebrew שָׁאַל = ask / request, as in 3:22. The word does not say "borrow".
+- **"jewels of silver" → "vessels of silver"** (v2) — Hebrew כְּלִי, any made article: a vessel, a tool, an ornament.
+- **"in the sight of" → "in the eyes of"** (v3) — Hebrew בְּעֵינֵי. "The Egyptians" is מִצְרַיִם "Egypt", the same word as the land: here the people.
+- **"About midnight will I go out" → "About midnight I am going out"** (v4) — Hebrew כַּחֲצֹת הַלַּיְלָה "about the halving of the night"; אֲנִי יוֹצֵא is a participle: what is about to happen.
+- **"maidservant that is behind the mill" → "maidservant who is behind the millstones"** (v5) — Hebrew הַשִּׁפְחָה אֲשֶׁר אַחַר הָרֵחָיִם. שִׁפְחָה is "maidservant"; רֵחַיִם is a dual, "the two millstones" of a handmill. From the king's firstborn to the firstborn of the lowest woman of the household: none is left out.
+- **"all the firstborn of beasts" → "every firstborn of beast"** (v5) — Hebrew בְּהֵמָה, a collective singular.
+- **"a great cry" → "a great outcry"** (v6) — Hebrew צְעָקָה, the word of 3:7, 9 for the cry of Israel under its taskmasters. "Shall not be again" is literally "shall not add".
+- **"shall not a dog move his tongue" → "a dog shall not sharpen its tongue"** (v7) — Hebrew לֹא יֶחֱרַץ־כֶּלֶב לְשֹׁנוֹ, literally so (חָרַץ "cut, sharpen"). What the saying means exactly is not certain: no dog will so much as growl or bark at them (cf. Josh 10:21). "From man to beast" is literal (לְמֵאִישׁ וְעַד־בְּהֵמָה).
+- **"doth put a difference between" → "distinguishes between"** (v7) — Hebrew יַפְלֶה, "sets apart, treats as distinct", as in 8:22; 9:4.
+- **"bow down themselves unto me" → "bow down to me"** (v8) — Hebrew הִשְׁתַּחֲוָה, to bow to the ground. **"that follow thee" → "who are at your feet"** — Hebrew אֲשֶׁר־בְּרַגְלֶיךָ, literally so.
+- **"in a great anger" → "in burning anger"** (v8) — Hebrew בָּחֳרִי־אָף, literally "in heat of nose"; אַף is "nose" and "anger".
+- **"shall not hearken unto you" → "will not listen to you"** (v9) — Hebrew שָׁמַע אֶל. "You" is plural: Moses and Aaron. "So that my wonders may be multiplied" is literally "for the sake of the multiplying of my wonders".
+- **"the LORD hardened Pharaoh's heart" → "Yahweh made strong the heart of Pharaoh"** (v10) — Hebrew וַיְחַזֵּק, the piel of חָזַק "be strong": he made it firm, unyielding. The book uses three verbs of Pharaoh's heart, "be strong" (חָזַק), "be heavy" (כָּבֵד) and "make hard" (קָשָׁה); KJV has "harden" for all three. The subject is kept as each verse has it: here Yahweh.
+- **"so that he would not let … go" → "and he did not let … go"** (v10) — Hebrew וְלֹא־שִׁלַּח "and he did not let go".
 
 ### Notes
 

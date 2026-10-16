@@ -1,87 +1,99 @@
 # Genesis 38
 
-[1] At that time ⟦judah|Yehudah|Judah⟧ went down from his brothers and turned aside to a certain ⟦adullamite|Adullami|Adullamite⟧ whose name was ⟦hirah|Chirah|Hirah⟧.
+[1] And it came to pass at that time that ⟦judah|Yehudah|Judah⟧ went down from his brothers and turned in to a man, an ⟦adullamite|Adullami|Adullamite⟧, and his name was ⟦hirah|Chirah|Hirah⟧.
 
-[2] There ⟦judah|Yehudah|Judah⟧ saw the daughter of a certain ⟦canaanites|Kenaani|Canaanite⟧ whose name was Shua; he took her and went in to her,
+[2] And ⟦judah|Yehudah|Judah⟧ saw there the daughter of a man, a ⟦canaanites|Kenaani|Canaanite⟧, and his name was Shua; and he took her and went in to her.
 
-[3] and she conceived and bore a son, whom he named Er.
+[3] And she conceived and bore a son, and he called his name Er.
 
-[4] She conceived again and bore a son, and she named him Onan.
+[4] And she conceived again and bore a son, and she called his name Onan.
 
-[5] Yet again she bore a son and named him Shelah. It was at ⟦chezib|Keziv|Chezib⟧ that she bore him.
+[5] And she yet again bore a son, and she called his name Shelah; and he was at ⟦chezib|Keziv|Chezib⟧ when she bore him.
 
-[6] ⟦judah|Yehudah|Judah⟧ took a wife for Er his firstborn, whose name was Tamar.
+[6] And ⟦judah|Yehudah|Judah⟧ took a wife for Er his firstborn, and her name was Tamar.
 
-[7] But Er, ⟦judah|Yehudah|Judah⟧'s firstborn, was evil in the eyes of ⟦yhwh|Yahweh|the LORD⟧; and ⟦yhwh|Yahweh|the LORD⟧ put him to death.
+[7] And Er, the firstborn of ⟦judah|Yehudah|Judah⟧, was evil in the eyes of ⟦yhwh|Yahweh|the LORD⟧, and ⟦yhwh|Yahweh|the LORD⟧ put him to death.
 
-[8] Then ⟦judah|Yehudah|Judah⟧ said to Onan, "Go in to your brother's wife, and perform the duty of a levir-husband to her, and raise up offspring for your brother."
+[8] And ⟦judah|Yehudah|Judah⟧ said to Onan, "Go in to the wife of your brother and do the brother-in-law's duty to her, and raise up seed for your brother."
 
-[9] But Onan knew that the offspring would not be his; so whenever he went in to his brother's wife, he spilled it on the ground, so as not to give offspring to his brother.
+[9] And Onan knew that the seed would not be his; and it was so, whenever he went in to the wife of his brother, that he ruined it to the earth, so as not to give seed to his brother.
 
-[10] What he did was evil in the eyes of ⟦yhwh|Yahweh|the LORD⟧, and he put him to death also.
+[10] And what he did was evil in the eyes of ⟦yhwh|Yahweh|the LORD⟧, and he put him to death also.
 
-[11] Then ⟦judah|Yehudah|Judah⟧ said to Tamar his daughter-in-law, "Remain a widow in your father's house until Shelah my son grows up." For he thought, "Lest he die, like his brothers." So Tamar went and dwelt in her father's house.
+[11] And ⟦judah|Yehudah|Judah⟧ said to Tamar his daughter-in-law, "Dwell as a widow in the house of your father until Shelah my son grows up"; for he said, "Lest he also die, like his brothers." And Tamar went and dwelt in the house of her father.
 
-[12] In the course of time Shua's daughter, ⟦judah|Yehudah|Judah⟧'s wife, died; and after ⟦judah|Yehudah|Judah⟧ was comforted, he went up to his sheepshearers at Timnah, he and his friend ⟦hirah|Chirah|Hirah⟧ the ⟦adullamite|Adullami|Adullamite⟧.
+[12] And the days became many, and the daughter of Shua, the wife of ⟦judah|Yehudah|Judah⟧, died. And ⟦judah|Yehudah|Judah⟧ was comforted, and he went up to the shearers of his flock, he and ⟦hirah|Chirah|Hirah⟧ his friend the ⟦adullamite|Adullami|Adullamite⟧, to Timnah.
 
-[13] Tamar was told, "Behold, your father-in-law is going up to Timnah to shear his sheep."
+[13] And it was told to Tamar, saying, "Behold, your father-in-law is going up to Timnah to shear his flock."
 
-[14] She took off her widow's garments, covered herself with a veil and wrapped herself up, and sat at the entrance to ⟦enaim|Einayim|Enaim⟧, which is on the road to Timnah — for she saw that Shelah had grown up, and she had not been given to him as a wife.
+[14] And she put off the garments of her widowhood from upon her, and she covered herself with the veil and wrapped herself, and she sat at the entrance of ⟦enaim|Einayim|Enaim⟧, which is on the way to Timnah; for she saw that Shelah had grown up, and she had not been given to him as a wife.
 
-[15] When ⟦judah|Yehudah|Judah⟧ saw her he thought she was a prostitute, because she had covered her face.
+[15] And ⟦judah|Yehudah|Judah⟧ saw her and reckoned her a prostitute, for she had covered her face.
 
-[16] He turned to her by the way and said, "Come, please, let me come in to you" — for he did not know that she was his daughter-in-law. She said, "What will you give me, that you may come in to me?"
+[16] And he turned to her by the way and said, "Come, please, let me go in to you"; for he did not know that she was his daughter-in-law. And she said, "What will you give me, that you may come in to me?"
 
-[17] He said, "I will send you a young goat from the flock." She said, "Will you give me a pledge until you send it?"
+[17] And he said, "I will send a kid of the goats from the flock." And she said, "If you give a pledge until you send it."
 
-[18] He said, "What pledge shall I give you?" She said, "Your seal and cord, and your staff that is in your hand." So he gave them to her and went in to her, and she conceived by him.
+[18] And he said, "What is the pledge that I shall give you?" And she said, "Your seal and your cord and your staff that is in your hand." And he gave them to her and went in to her, and she conceived by him.
 
-[19] Then she rose and went away, and put off her veil and put on the garments of her widowhood.
+[19] And she rose and went, and she put off her veil from upon her and put on the garments of her widowhood.
 
-[20] When ⟦judah|Yehudah|Judah⟧ sent the young goat by the hand of his friend the ⟦adullamite|Adullami|Adullamite⟧, to receive the pledge from the woman's hand, he did not find her.
+[20] And ⟦judah|Yehudah|Judah⟧ sent the kid of the goats by the hand of his friend the ⟦adullamite|Adullami|Adullamite⟧, to take the pledge from the hand of the woman, and he did not find her.
 
-[21] He asked the men of the place, saying, "Where is the cult-prostitute who was at ⟦enaim|Einayim|Enaim⟧ by the wayside?" And they said, "There has been no cult-prostitute here."
+[21] And he asked the men of her place, saying, "Where is the cult prostitute, she who was at ⟦enaim|Einayim|Enaim⟧ by the way?" And they said, "There has been no cult prostitute here."
 
-[22] So he returned to ⟦judah|Yehudah|Judah⟧ and said, "I have not found her; and also the men of the place said, 'There has been no cult-prostitute here.'"
+[22] And he returned to ⟦judah|Yehudah|Judah⟧ and said, "I did not find her; and also the men of the place said, 'There has been no cult prostitute here.'"
 
-[23] ⟦judah|Yehudah|Judah⟧ said, "Let her take them for herself, lest we become a laughingstock. Behold, I sent this young goat, and you did not find her."
+[23] And ⟦judah|Yehudah|Judah⟧ said, "Let her take them for herself, lest we become an object of contempt. Behold, I sent this kid, and you did not find her."
 
-[24] About three months later ⟦judah|Yehudah|Judah⟧ was told, "Your daughter-in-law Tamar has played the prostitute; moreover, behold, she is with child by prostitution." ⟦judah|Yehudah|Judah⟧ said, "Bring her out, and let her be burned."
+[24] And it came to pass, about three months after, that it was told to ⟦judah|Yehudah|Judah⟧, saying, "Tamar your daughter-in-law has played the prostitute, and also, behold, she is with child by prostitution." And ⟦judah|Yehudah|Judah⟧ said, "Bring her out, and let her be burned."
 
-[25] As she was being brought out, she sent to her father-in-law, saying, "By the man to whom these belong, I am with child." And she said, "Please examine: whose are these, the seal and cord, and the staff?"
+[25] She was being brought out, and she sent to her father-in-law, saying, "By the man to whom these belong I am with child." And she said, "Recognize, please, whose these are, the seal and the cords and the staff."
 
-[26] ⟦judah|Yehudah|Judah⟧ recognized them and said, "She is more righteous than I, since I did not give her to my son Shelah." And he did not know her again.
+[26] And ⟦judah|Yehudah|Judah⟧ recognized them and said, "She is righteous, more than I, because I did not give her to Shelah my son." And he knew her again no more.
 
-[27] When the time of her delivery came, behold, there were twins in her womb.
+[27] And it came to pass at the time of her bearing, that behold, twins were in her belly.
 
-[28] While she was giving birth, one put out a hand, and the midwife took and bound on his hand a scarlet thread, saying, "This one came out first."
+[28] And it came to pass, as she was bearing, that one put out a hand; and the midwife took and bound scarlet on his hand, saying, "This one came out first."
 
-[29] But as he drew back his hand, behold, his brother came out. And she said, "What a breach you have made for yourself!" Therefore his name was called ⟦perez|Peretz|Perez⟧.
+[29] And it came to pass, as he drew back his hand, that behold, his brother came out; and she said, "What a breach you have breached for yourself!" And he called his name ⟦perez|Peretz|Perez⟧.
 
-[30] Afterward his brother came out, with the scarlet thread on his hand, and he was named ⟦zerah|Zerach|Zerah⟧.
+[30] And afterward his brother came out, on whose hand was the scarlet; and he called his name ⟦zerah|Zerach|Zerah⟧.
 
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"marry her, and raise up seed to thy brother" → "perform the duty of a levir-husband to her, and raise up offspring for your brother"** (v8) — Hebrew וְיַבֵּם אֹתָהּ *we-yabbem otah* (denominative verb from *yavam* = brother-in-law). Technical term for levirate marriage: when a man dies childless, his brother is obliged to marry the widow to produce a son who would legally count as the dead brother's heir (cf. Deut 25:5–10). The key social institution behind Tamar's story.
-- **"the thing which he did displeased the LORD" → "what he did was evil in the eyes of Yahweh"** (v10) — the same phrase as v7 about Er. The parallel is deliberate: both brothers die for specific evil. Onan's evil is named: refusal to fulfill levirate obligation. The widespread reading of this verse as condemnation of masturbation ("onanism") misses the point: the sin is refusing the brother's lineage-continuation duty (a major social-ethical failing), not the sexual act per se.
-- **"in an open place" → "at the entrance to Enaim"** (v14) — Hebrew בְּפֶתַח עֵינַיִם *be-phetach Enayim*. *Enayim* could be:
-  1. "Eyes" / "place of two springs" (a town name, Josh 15:34).
-  2. "The entrance of Enaim" (a village near Timnah).
-  3. "In an open place" (KJV, reading *enayim* as "eyes" = open/visible).
-  The town-name reading is more likely ("the entrance to Enaim" — a town on the Timnah road). Joshua 15:34 lists Enaim in the Shephelah region.
-- **"harlot" → "prostitute" / "cult-prostitute"** (v15, 21, 22) — Hebrew uses two different words: זוֹנָה *zonah* in v15 (general prostitute, what Judah thought she was); קְדֵשָׁה *qedeshah* in v21, 22 (literally "set-apart one" = sacred / cult prostitute associated with Canaanite fertility rites). Hirah's more polite euphemism — "cult prostitute" — suggests Hirah is upgrading the category to avoid shaming his friend. The distinction in Hebrew is lost by KJV's uniform "harlot." Preserved here.
-- **"signet, and bracelets, and staff" → "seal and cord, and staff"** (v18, 25) — Hebrew חֹתָם וּפְתִיל וּמַטֶּה *chotam u-phtil u-matteh*. *Chotam* = personal seal (cylinder or scarab, used for authenticating documents). *Pethil* = cord (likely the cord on which the seal was worn around the neck). *Matteh* = staff. These are identity-documents — the seal is the ancient equivalent of a passport.
-- **"kid" → "young goat"** (v17, 20, 23) — Hebrew גְּדִי־עִזִּים *gedi-izzim*. Ironic echo: Judah, who earlier used a young goat's blood to deceive his father (37:31), is now deceived in a transaction involving a young goat.
-- **"be shamed" → "become a laughingstock"** (v23) — Hebrew פֶּן נִהְיֶה לָבוּז *pen nihyeh la-vuz*. *Buz* = contempt / scorn. Judah is more worried about ridicule than about the moral breach.
-- **"she hath been more righteous than I" → "She is more righteous than I"** (v26) — Hebrew צָדְקָה מִמֶּנִּי *tsadeqah mimmenni*. Could be comparative ("more righteous than me") or privative ("she is innocent [righteous]; it is from me [the fault]"). Either reading ends with Judah's confession of his own wrongdoing: he withheld Shelah from her, breaking the levirate contract; she acted to enforce what he failed to provide.
-- **"Pharez" / "Zarah" → "Perez" / "Zerah" — etymologies preserved** (v29–30) — Hebrew פֶּרֶץ *Perets* (from *parats* "breach / break through") and זֶרַח *Zerach* (from *zarach* "rise up / shine out"). The midwife's pun made explicit.
+- **"a certain Adullamite" → "a man, an Adullamite"** (v1, 2) — Hebrew אִישׁ עֲדֻלָּמִי, אִישׁ כְּנַעֲנִי; "and his name was" is וּשְׁמוֹ. "Turned in to" (v1) and "turned to" (v16) are וַיֵּט, the verb "stretch out, turn". "And it came to pass" (v1, 24, 27, 28, 29) is וַיְהִי.
+- **"he called his name" / "she called his name"** (v3, 4, 5, 29, 30) — the Hebrew has "he called" in v3, 29, 30 (וַיִּקְרָא) and "she called" in v4, 5 (וַתִּקְרָא). In v29, 30 the subject is not named; some manuscripts and versions have "she called" there (from memory).
+- **"she yet again bore"** (v5) — Hebrew וַתֹּסֶף עוֹד וַתֵּלֶד, literally "and she added again and bore".
+- **"he was at Chezib"** (v5) — Hebrew וְהָיָה בִכְזִיב בְּלִדְתָּהּ אֹתוֹ, "and he was at Chezib at her bearing him"; the verb is masculine, so the one who was at Chezib is Judah (or "it was"). The Septuagint has "she was" (from memory); the Masoretic Text is kept.
+- **"wicked in the sight of the LORD" → "evil in the eyes of Yahweh"** (v7, 10) — Hebrew רַע בְּעֵינֵי יְהוָה (v7) and וַיֵּרַע בְּעֵינֵי יְהוָה, the verb of the same root (v10): one rendering for both. "Slew him" is וַיְמִתֵהוּ, "put him to death".
+- **"marry her, and raise up seed to thy brother" → "do the brother-in-law's duty to her, and raise up seed for your brother"** (v8) — Hebrew וְיַבֵּם אֹתָהּ *we-yabbem otah*, a verb made from יָבָם "husband's brother": when a man dies without a son, his brother takes the widow, and the son counts as the dead man's (Deut 25:5–10). "Seed" is זֶרַע (v8, 9).
+- **"he spilled it on the ground" → "he ruined it to the earth"** (v9) — Hebrew וְשִׁחֵת אַרְצָה, literally "and he ruined earthward"; "it" is supplied. שִׁחֵת is "ruin, destroy": he let the seed go to waste on the ground. The verbs say that he did so each time ("whenever he went in").
+- **"Remain a widow" → "Dwell as a widow"** (v11) — Hebrew שְׁבִי, the verb of "and dwelt" at the end of the verse. "For he said" is כִּי אָמַר: said, to himself.
+- **"in process of time" → "the days became many"** (v12) — Hebrew וַיִּרְבּוּ הַיָּמִים.
+- **"his sheepshearers" → "the shearers of his flock"** (v12, 13) — Hebrew צֹאן, flock (sheep and goats). "His friend" is רֵעֵהוּ; the Septuagint reads the same letters as "his shepherd" (from memory).
+- **"in an open place" → "at the entrance of Enaim"** (v14) — Hebrew בְּפֶתַח עֵינַיִם *be-phetach Enayim*, literally "at the opening of Enaim"; עֵינַיִם also means "two eyes" or "two springs". It is taken as the name of a place on the way to Timnah (v21 "at Enaim"; compare Enam, Josh 15:34).
+- **"thought her to be an harlot" → "reckoned her a prostitute"** (v15) — Hebrew וַיַּחְשְׁבֶהָ לְזוֹנָה.
+- **"harlot" → "prostitute" / "cult prostitute"** (v15, 21, 22) — two Hebrew words: זוֹנָה *zonah* in v15, the ordinary word for a prostitute (the verb זָנָה and the noun זְנוּנִים in v24); קְדֵשָׁה *qedeshah* in v21, 22, literally "consecrated woman", from the root of "holy". It is used of a prostitute (beside *zonah* in Deut 23:17–18; Hos 4:14); that such women served at a shrine is inferred from the word itself. The two words are kept apart.
+- **"Come, please"** (v16) — Hebrew הָבָה־נָּא. "Go in to" and "come in to" are one Hebrew verb (בּוֹא אֶל).
+- **"a kid from the flock" → "a kid of the goats from the flock"** (v17, 20) — Hebrew גְּדִי־עִזִּים; in v23 הַגְּדִי "the kid". A different word from the "male goat" of Gen 37:31.
+- **"Wilt thou give me a pledge" → "If you give a pledge"** (v17) — Hebrew אִם־תִּתֵּן עֵרָבוֹן עַד שָׁלְחֶךָ: an "if" clause without its conclusion, not a question; "me" is not in the Hebrew.
+- **"signet, and bracelets, and staff" → "seal and cord and staff"** (v18, 25) — Hebrew חֹתָם, פָּתִיל, מַטֶּה. The seal was worn on a cord. In v25 the forms are הַחֹתֶמֶת "the seal" and הַפְּתִילִים "the cords", plural.
+- **"the men of that place" → "the men of her place"** (v21) — Hebrew אַנְשֵׁי מְקֹמָהּ, "her place"; in v22 אַנְשֵׁי הַמָּקוֹם "the men of the place". Some versions read "the place" in both (from memory); the Masoretic Text is kept.
+- **"lest we be shamed" → "lest we become an object of contempt"** (v23) — Hebrew פֶּן נִהְיֶה לָבוּז, literally "lest we become for contempt". "Let her take them" has no object in Hebrew (תִּקַּח־לָהּ, "let her take for herself").
+- **"played the harlot … with child by whoredom" → "played the prostitute … with child by prostitution"** (v24) — Hebrew זָנְתָה … הָרָה לִזְנוּנִים; the noun is plural.
+- **"When she was brought forth" → "She was being brought out, and she sent"** (v25) — Hebrew הִוא מוּצֵאת וְהִיא שָׁלְחָה, two clauses side by side.
+- **"Discern, I pray thee" → "Recognize, please"** (v25, 26) — Hebrew הַכֶּר־נָא, the very words spoken to Jacob over Joseph's tunic (Gen 37:32); v26 וַיַּכֵּר "and he recognized", as 37:33.
+- **"She hath been more righteous than I" → "She is righteous, more than I"** (v26) — Hebrew צָדְקָה מִמֶּנִּי *tsadeqah mimmenni*: the verb "she is (has been) righteous" with מִן "from / than" and "me". It is commonly read as a comparison, "more righteous than I"; it can also be divided "She is righteous; it is from me". The wording keeps the Hebrew order.
+- **"he knew her again no more"** (v26) — Hebrew וְלֹא־יָסַף עוֹד לְדַעְתָּהּ, literally "and he did not add again to know her".
+- **"in her womb" → "in her belly"** (v27) — Hebrew בְּבִטְנָהּ; בֶּטֶן is "belly".
+- **"a scarlet thread" → "scarlet"** (v28, 30) — Hebrew שָׁנִי, "scarlet"; "thread" is not in the Hebrew. "One put out a hand" is וַיִּתֶּן־יָד, literally "and he gave a hand".
+- **"How hast thou broken forth? this breach be upon thee" → "What a breach you have breached for yourself!"** (v29) — Hebrew מַה־פָּרַצְתָּ עָלֶיךָ פָּרֶץ, literally "how you have breached upon you a breach". The name פֶּרֶץ *Perets* is the word "breach"; זֶרַח *Zerach* (v30) is of the root זָרַח "rise, shine".
 
 ### Notes
 
-- **Why is this chapter here?** Gen 38 breaks the Joseph narrative awkwardly. Reasons:
-  1. Contrast: Judah's moral failure here (his multiple wrongs — refusing levirate, sleeping with a prostitute, condemning Tamar for what he himself did) vs. Joseph's moral uprightness in ch 39. Two brothers set against each other by their handling of sexual temptation.
-  2. Genealogy: Tamar's son Perez is the ancestor of David (Ruth 4:18–22, Matt 1:3). Matthew's genealogy of Jesus names Tamar (Matt 1:3). The Davidic / messianic line runs through this scandalous episode.
-  3. Narrative time: "at that time" (v1) implies the events of ch 38 occur during the years Joseph is in Egypt.
-- **Tamar's agency** — she is one of the few women in Genesis who initiates major action. She uses the social system's own mechanisms (levirate, patriarchal property, bridal veil) against the men who have failed her. Judah's verdict ("she is more righteous than I") is unique praise from a patriarch to a daughter-in-law.
-- **"Daughter of Shua, Canaanite" (v2)** — the Canaanite match Judah chose, contrary to the patriarchal caution (cf. 24:3, 28:1). Yet the covenant line continues through Tamar (also likely a Canaanite) — the narrative complicates any strict ethnic-purity reading.
+- **Why is this chapter here?** Gen 38 stands between Joseph's sale (ch 37) and his time in Potiphar's house (ch 39). "At that time" (v1) sets it in the years Joseph is in Egypt. Tamar's son Perez is the ancestor of David (Ruth 4:18–22); Matthew's genealogy names Tamar (Matt 1:3).
+- **Onan (v9–10)** — what is called evil is what he did: he went in to his brother's wife and each time ruined the seed so as not to give seed to his brother.
+- **"Daughter of Shua, a Canaanite" (v2)** — compare Gen 24:3; 28:1. Whether Tamar was a Canaanite the text does not say.
+- **Links with ch 37** — "Recognize, please" (37:32; 38:25) and the goat (37:31 a male goat; 38:17 a kid of the goats).

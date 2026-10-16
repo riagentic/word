@@ -1,99 +1,111 @@
 # Genesis 29
 
-[1] ⟦jacob|Yaaqov|Jacob⟧ lifted up his feet and went on his way to the land of the people of the east.
+[1] And ⟦jacob|Yaaqov|Jacob⟧ lifted up his feet and went to the land of the sons of the east.
 
-[2] He looked, and behold, there was a well in the field, and behold, three flocks of sheep were lying there beside it, for from that well they watered the flocks. And a great stone was on the mouth of the well.
+[2] And he saw, and behold, a well in the field, and behold, three droves of the flock lying there beside it, for from that well they watered the droves; and the stone on the mouth of the well was great.
 
-[3] When all the flocks were gathered there, they would roll the stone from the mouth of the well and water the sheep, and then put the stone back in its place on the mouth of the well.
+[3] And all the droves would be gathered there, and they would roll the stone from the mouth of the well and water the flock, and return the stone upon the mouth of the well to its place.
 
-[4] ⟦jacob|Yaaqov|Jacob⟧ said to them, "My brothers, where are you from?" And they said, "We are from ⟦haran-city|Charan|Haran⟧."
+[4] And ⟦jacob|Yaaqov|Jacob⟧ said to them, "My brothers, where are you from?" And they said, "We are from ⟦haran-city|Charan|Haran⟧."
 
-[5] He said to them, "Do you know ⟦laban|Lavan|Laban⟧ son of ⟦nahor|Nachor|Nahor⟧?" And they said, "We know him."
+[5] And he said to them, "Do you know ⟦laban|Lavan|Laban⟧ the son of ⟦nahor|Nachor|Nahor⟧?" And they said, "We know."
 
-[6] He said to them, "Is it well with him?" And they said, "It is well; and behold, Rachel his daughter is coming with the sheep."
+[6] And he said to them, "Is it ⟦shalom|shalom|peace⟧ with him?" And they said, "⟦shalom|Shalom|Peace⟧; and behold, Rachel his daughter is coming with the flock."
 
-[7] He said, "Look, the day is still high; it is not time for the livestock to be gathered. Water the sheep and go, pasture them."
+[7] And he said, "Behold, the day is still high; it is not time for the livestock to be gathered. Water the flock and go, pasture them."
 
-[8] They said, "We cannot, until all the flocks are gathered and they roll the stone from the mouth of the well; then we water the sheep."
+[8] And they said, "We cannot, until all the droves are gathered and they roll the stone from the mouth of the well; then we water the flock."
 
-[9] While he was still speaking with them, Rachel came with her father's sheep, for she was a shepherdess.
+[9] While he was still speaking with them, Rachel came with the flock that was her father's, for she was a shepherdess.
 
-[10] When ⟦jacob|Yaaqov|Jacob⟧ saw Rachel the daughter of ⟦laban|Lavan|Laban⟧ his mother's brother, and the sheep of ⟦laban|Lavan|Laban⟧ his mother's brother, ⟦jacob|Yaaqov|Jacob⟧ came near and rolled the stone from the mouth of the well, and watered the flock of ⟦laban|Lavan|Laban⟧ his mother's brother.
+[10] And it came to pass, when ⟦jacob|Yaaqov|Jacob⟧ saw Rachel the daughter of ⟦laban|Lavan|Laban⟧ his mother's brother, and the flock of ⟦laban|Lavan|Laban⟧ his mother's brother, that ⟦jacob|Yaaqov|Jacob⟧ came near and rolled the stone from the mouth of the well and watered the flock of ⟦laban|Lavan|Laban⟧ his mother's brother.
 
-[11] Then ⟦jacob|Yaaqov|Jacob⟧ kissed Rachel, and lifted up his voice and wept.
+[11] And ⟦jacob|Yaaqov|Jacob⟧ kissed Rachel and lifted up his voice and wept.
 
-[12] ⟦jacob|Yaaqov|Jacob⟧ told Rachel that he was her father's kinsman and that he was ⟦rebekah|Rivqah|Rebekah⟧'s son; and she ran and told her father.
+[12] And ⟦jacob|Yaaqov|Jacob⟧ told Rachel that he was her father's brother and that he was the son of ⟦rebekah|Rivqah|Rebekah⟧; and she ran and told her father.
 
-[13] When ⟦laban|Lavan|Laban⟧ heard the news of ⟦jacob|Yaaqov|Jacob⟧, his sister's son, he ran to meet him, embraced him, kissed him, and brought him to his house. And ⟦jacob|Yaaqov|Jacob⟧ told ⟦laban|Lavan|Laban⟧ all these things.
+[13] And it came to pass, when ⟦laban|Lavan|Laban⟧ heard the report of ⟦jacob|Yaaqov|Jacob⟧ his sister's son, that he ran to meet him and embraced him and kissed him and brought him to his house; and he recounted to ⟦laban|Lavan|Laban⟧ all these things.
 
-[14] ⟦laban|Lavan|Laban⟧ said to him, "Surely you are my bone and my flesh." And he stayed with him the full month.
+[14] And ⟦laban|Lavan|Laban⟧ said to him, "Surely you are my bone and my flesh." And he dwelt with him a month of days.
 
-[15] Then ⟦laban|Lavan|Laban⟧ said to ⟦jacob|Yaaqov|Jacob⟧, "Because you are my kinsman, should you serve me for nothing? Tell me, what shall your wages be?"
+[15] And ⟦laban|Lavan|Laban⟧ said to ⟦jacob|Yaaqov|Jacob⟧, "Is it because you are my brother that you should serve me for nothing? Tell me, what shall your wages be?"
 
-[16] Now ⟦laban|Lavan|Laban⟧ had two daughters; the name of the older was Leah, and the name of the younger was Rachel.
+[16] And ⟦laban|Lavan|Laban⟧ had two daughters; the name of the elder was Leah, and the name of the younger was Rachel.
 
-[17] Leah's eyes were weak; but Rachel was shapely and beautiful.
+[17] And the eyes of Leah were tender, but Rachel was beautiful in form and beautiful in appearance.
 
-[18] ⟦jacob|Yaaqov|Jacob⟧ loved Rachel, and said, "I will serve you seven years for Rachel, your younger daughter."
+[18] And ⟦jacob|Yaaqov|Jacob⟧ loved Rachel, and he said, "I will serve you seven years for Rachel your younger daughter."
 
-[19] ⟦laban|Lavan|Laban⟧ said, "It is better that I give her to you than that I should give her to another man; stay with me."
+[19] And ⟦laban|Lavan|Laban⟧ said, "Better that I give her to you than that I give her to another man; dwell with me."
 
-[20] So ⟦jacob|Yaaqov|Jacob⟧ served seven years for Rachel, and they seemed to him but a few days because of his love for her.
+[20] And ⟦jacob|Yaaqov|Jacob⟧ served for Rachel seven years, and they were in his eyes as a few days, in his love for her.
 
-[21] Then ⟦jacob|Yaaqov|Jacob⟧ said to ⟦laban|Lavan|Laban⟧, "Give me my wife, for my days are fulfilled, that I may go in to her."
+[21] And ⟦jacob|Yaaqov|Jacob⟧ said to ⟦laban|Lavan|Laban⟧, "Give my wife, for my days are full, that I may go in to her."
 
-[22] So ⟦laban|Lavan|Laban⟧ gathered together all the men of the place and made a feast.
+[22] And ⟦laban|Lavan|Laban⟧ gathered all the men of the place and made a feast.
 
-[23] And in the evening he took Leah his daughter and brought her to him; and he went in to her.
+[23] And it came to pass in the evening that he took Leah his daughter and brought her to him, and he went in to her.
 
-[24] (And ⟦laban|Lavan|Laban⟧ gave his slave-girl Zilpah to his daughter Leah as a slave-girl.)
+[24] And ⟦laban|Lavan|Laban⟧ gave to her Zilpah his maidservant, to Leah his daughter as a maidservant.
 
-[25] When morning came, behold, it was Leah! And he said to ⟦laban|Lavan|Laban⟧, "What is this you have done to me? Was it not for Rachel that I served with you? Why then have you deceived me?"
+[25] And it came to pass in the morning, and behold, it was Leah! And he said to ⟦laban|Lavan|Laban⟧, "What is this you have done to me? Was it not for Rachel that I served with you? And why have you deceived me?"
 
-[26] ⟦laban|Lavan|Laban⟧ said, "It is not done so in our place, to give the younger before the firstborn.
+[26] And ⟦laban|Lavan|Laban⟧ said, "It is not done so in our place, to give the younger before the firstborn.
 
-[27] Complete the bridal week of this one, and we will give you this other also, for the service that you shall serve with me still seven more years."
+[27] Fill the week of this one, and we will give you this one also, for the service that you shall serve with me yet seven other years."
 
-[28] ⟦jacob|Yaaqov|Jacob⟧ did so, and completed her week; and he gave him Rachel his daughter as a wife.
+[28] And ⟦jacob|Yaaqov|Jacob⟧ did so and filled the week of this one, and he gave him Rachel his daughter, to him as wife.
 
-[29] (And ⟦laban|Lavan|Laban⟧ gave his slave-girl Bilhah to his daughter Rachel to be her slave-girl.)
+[29] And ⟦laban|Lavan|Laban⟧ gave to Rachel his daughter Bilhah his maidservant, to her as a maidservant.
 
-[30] So he went in to Rachel also, and he loved Rachel more than Leah, and served with him seven more years.
+[30] And he went in also to Rachel, and he also loved Rachel, more than Leah, and he served with him yet seven other years.
 
-[31] When ⟦yhwh|Yahweh|the LORD⟧ saw that Leah was unloved, he opened her womb; but Rachel was barren.
+[31] And ⟦yhwh|Yahweh|the LORD⟧ saw that Leah was hated, and he opened her womb; but Rachel was barren.
 
-[32] Leah conceived and bore a son, and she named him ⟦reuben|Reuven|Reuben⟧, for she said, "⟦yhwh|Yahweh|The LORD⟧ has seen my affliction; now my husband will love me."
+[32] And Leah conceived and bore a son, and she called his name ⟦reuben|Reuven|Reuben⟧, for she said, "Because ⟦yhwh|Yahweh|the LORD⟧ has looked upon my affliction; for now my husband will love me."
 
-[33] She conceived again and bore a son, and said, "Because ⟦yhwh|Yahweh|the LORD⟧ has heard that I am unloved, he has given me this one also." So she named him ⟦simeon|Shimon|Simeon⟧.
+[33] And she conceived again and bore a son and said, "Because ⟦yhwh|Yahweh|the LORD⟧ heard that I am hated, he gave me this one also." And she called his name ⟦simeon|Shimon|Simeon⟧.
 
-[34] Again she conceived and bore a son, and said, "Now this time my husband will be joined to me, because I have borne him three sons." Therefore he was named Levi.
+[34] And she conceived again and bore a son and said, "Now this time my husband will be joined to me, for I have borne him three sons." Therefore his name was called Levi.
 
-[35] She conceived again and bore a son, and said, "This time I will praise ⟦yhwh|Yahweh|the LORD⟧." Therefore she named him ⟦judah|Yehudah|Judah⟧. Then she ceased bearing.
+[35] And she conceived again and bore a son and said, "This time I will give thanks to ⟦yhwh|Yahweh|the LORD⟧." Therefore she called his name ⟦judah|Yehudah|Judah⟧. And she stopped bearing.
 
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"went on his journey" → "lifted up his feet and went on his way"** (v1) — Hebrew וַיִּשָּׂא יַעֲקֹב רַגְלָיו *wa-yissa Ya'aqov raglav* = "Jacob lifted his feet." Distinctive Hebrew idiom (unique to this verse), conveying renewed purpose — preserved.
-- **"tender eyed" → "eyes were weak"** (v17) — Hebrew עֵינֵי לֵאָה רַכּוֹת *eyney Leah rakkot*. *Rak* = soft / tender / weak. Traditional readings:
-  1. Leah's eyes were weak / dull / unimpressive (the contrast with Rachel's beauty).
-  2. Leah's eyes were delicate / tender (positive).
-  Most lexicographers and ancient versions favor #1 (weak-eyed, perhaps nearsighted, making her less attractive). The narrator sets her in contrast with Rachel, so the less-appealing sense fits.
-- **"well favoured" → "shapely and beautiful"** (v17) — Hebrew יְפַת־תֹּאַר וִיפַת מַרְאֶה *yephat-to'ar wi-yphat mar'eh* = "beautiful of form and beautiful of appearance." Doubled praise; figure and face both.
-- **"brother" → "kinsman"** (v12, 15) — Hebrew אָח *ach*. Jacob is Laban's sister's son (nephew); *ach* covers extended kin.
-- **"beguiled" → "deceived"** (v25) — Hebrew רִמִּיתָנִי *rimmitani* = deceived / betrayed. Same root as *mirmah* used of Jacob's own deception of Isaac (27:35). Cosmic irony: the deceiver is deceived.
-- **"Fulfil her week" → "Complete the bridal week of this one"** (v27) — Hebrew מַלֵּא שְׁבֻעַ זֹאת *malle shevu'a zot*. *Shavua* = week. The seven-day marriage celebration of Leah is not shortened; Laban waits until after that week to give Jacob Rachel, with another seven years of service to follow.
-- **"handmaid" → "slave-girl"** (v24, 29) — Hebrew שִׁפְחָה *shiphchah*. As elsewhere.
-- **"Leah was hated" → "Leah was unloved"** (v31) — Hebrew שְׂנוּאָה *senu'ah*. *Sane* = hate; in marital context often means "loved less / unloved" (not actively despised). Cf. Deut 21:15–17 (which presupposes this use: the "hated" wife and her firstborn).
-- **"my affliction" (v32)** — Hebrew עָנְיִי *onyi* from *anah* (afflict — same root as Hagar's affliction, 16:6, 11). Leah experiences her unloved status as affliction parallel to Hagar's.
-- **"Reuben / Simeon / Levi / Judah — Hebrew etymologies preserved** (v32–35):
-  - Reuben (*Re'uven*) = "See, a son!" / pun on *ra'ah oni* ("he has seen my affliction").
-  - Simeon (*Shim'on*) ← *shama* ("hear").
-  - Levi (*Levi*) ← *lavah* ("to be joined / attach").
-  - Judah (*Yehudah*) ← *yadah* ("to praise / thank").
-  All made visible in translation.
+- **"And" kept** (throughout) — Hebrew וַ / וְ at the head of each clause.
+- **"went on his journey" → "lifted up his feet"** (v1) — Hebrew וַיִּשָּׂא יַעֲקֹב רַגְלָיו, word for word; the phrase stands only here. "The sons of the east" is בְנֵי־קֶדֶם; the Hebrew has no "on his way".
+- **"flocks of sheep … flocks … sheep" → "droves of the flock … droves … flock"** (v2, 3, 6–10) — two Hebrew words: עֵדֶר "drove", one herd or flock by itself, and צֹאן "flock", the collective word for sheep and goats together; "sheep" would leave the goats out (30:32).
+- **"a great stone was upon the well's mouth" → "the stone on the mouth of the well was great"** (v2) — Hebrew וְהָאֶבֶן גְּדֹלָה עַל־פִּי הַבְּאֵר: "the stone", with the article, and "great" as what is said of it.
+- **"We know him" → "We know"** (v5) — the Hebrew has no "him".
+- **"Is he well? … He is well" → "Is it peace with him? … Peace"** (v6) — Hebrew הֲשָׁלוֹם לוֹ … שָׁלוֹם, "is there *shalom* to him? … *Shalom*".
+- **"it is yet high day"** (v7) — Hebrew עוֹד הַיּוֹם גָּדוֹל, literally "the day is still great".
+- **"told Rachel that he was her father's brother"** (v12, 15) — Hebrew אָח "brother", used of a kinsman; Jacob is the son of Laban's sister (v13).
+- **"tidings" → "report"; "he told Laban" → "he recounted to Laban"** (v13) — Hebrew שֵׁמַע, "what is heard"; וַיְסַפֵּר, another verb than "told" (הִגִּיד) in v12; the Hebrew does not name the subject.
+- **"abode with him the space of a month" → "dwelt with him a month of days"** (v14) — Hebrew חֹדֶשׁ יָמִים, word for word: a full month. "Dwelt", "dwell" (v19) are יָשַׁב.
+- **"Because thou art my brother, shouldest thou therefore serve me for nought?" → "Is it because you are my brother that you should serve me for nothing?"** (v15) — Hebrew הֲכִי, as in 27:36.
+- **"elder … younger"** (v16, 18) — literally "the great one" (הַגְּדֹלָה) and "the small one" (הַקְּטַנָּה); v26 has other words, "the younger" (הַצְּעִירָה) and "the firstborn" (הַבְּכִירָה).
+- **"Leah was tender eyed" → "the eyes of Leah were tender"** (v17) — Hebrew רַכּוֹת, "soft, tender" (the word used of a calf in 18:7 and of children in 33:13). Whether it is said in praise (gentle, lovely eyes) or as a lack (weak, dull eyes, against Rachel's beauty) is not certain; the word itself is "tender".
+- **"beautiful and well favoured" → "beautiful in form and beautiful in appearance"** (v17) — Hebrew יְפַת־תֹּאַר וִיפַת מַרְאֶה, word for word.
+- **"they seemed unto him but a few days" → "they were in his eyes as a few days"** (v20) — Hebrew וַיִּהְיוּ בְעֵינָיו כְּיָמִים אֲחָדִים; "a few days" as in 27:44.
+- **"Give me my wife" → "Give my wife"; "fulfilled" → "full"** (v21) — the Hebrew has no "me"; מָלְאוּ יָמָי, "my days are full".
+- **"handmaid" → "maidservant"** (v24, 29) — Hebrew שִׁפְחָה. The two verses are plain narrative; they are not in brackets.
+- **"in the morning, behold, it was Leah"** (v25) — Hebrew וַיְהִי בַבֹּקֶר וְהִנֵּה־הִוא לֵאָה, "and it came to pass in the morning, and behold, she was Leah".
+- **"beguiled" → "deceived"** (v25) — Hebrew רִמִּיתָנִי, of one root with "deceit" (מִרְמָה), the word said of Jacob in 27:35.
+- **"in our country" → "in our place"** (v26) — Hebrew בִּמְקוֹמֵנוּ.
+- **"Fulfil her week" → "Fill the week of this one"; "we will give thee this also"** (v27, 28) — Hebrew מַלֵּא שְׁבֻעַ זֹאת, "fill the week of this (woman)": the seven days of the wedding feast (Judg 14:12). The Hebrew has no word "bridal". "This one also" is Rachel; Hebrew says זֹאת, "this one", of both. וְנִתְּנָה can be "and we will give" or "and she shall be given".
+- **"to wife also" → "to him as wife"; "to her as a maidservant"** (v24, 28, 29) — the Hebrew repeats the person (לוֹ … לוֹ, לָהּ … לָהּ); kept.
+- **"he loved also Rachel more than Leah"** (v30) — Hebrew וַיֶּאֱהַב גַּם־אֶת־רָחֵל מִלֵּאָה, with "also" (גַּם) as in the clause before; מִן is "more than".
+- **"Leah was hated"** (v31, 33) — Hebrew שְׂנוּאָה *senuah*, the passive participle of "hate", as it stands. Beside "he loved Rachel more than Leah" (v30) it names the wife who is set behind the other, as in Deut 21:15, "the one loved and the other hated"; the word is not softened to "unloved".
+- **"called his name"** (v32–35) — Hebrew קָרָא שֵׁם. In v34 the verb is masculine, "he / one called his name Levi"; in v35 feminine, "she called".
+- **"Reuben"** (v32) — Hebrew רְאוּבֵן *Reuven*, which sounds like "See, a son!" (רְאוּ בֵן). Leah's words play on it twice: "has looked upon my affliction" (רָאָה … בְּעָנְיִי *raah … be-onyi*) and "will love me" (יֶאֱהָבַנִי *ye'ehavani*). "Because … for": the Hebrew has כִּי three times ("for she said: for Yahweh has looked … for now …").
+- **"Simeon"** (v33) — Hebrew שִׁמְעוֹן *Shimon*, from "heard" (שָׁמַע *shama*).
+- **"Levi"** (v34) — Hebrew לֵוִי *Levi*, from "will be joined" (יִלָּוֶה *yillaveh*).
+- **"Now will I praise the LORD" → "This time I will give thanks to Yahweh"; "Judah"** (v35) — Hebrew אוֹדֶה *odeh*, "I will give thanks to, praise"; from it the name יְהוּדָה *Yehudah*.
+- **"left bearing" → "stopped bearing"** (v35) — Hebrew וַתַּעֲמֹד מִלֶּדֶת, literally "she stood from bearing".
 
 ### Notes
 
-- **Jacob's irony** — the deceiver (27) becomes the deceived (29:25). The younger-ousting-the-elder pattern Jacob benefited from (birthright, blessing) is turned against him (Laban invokes "first the firstborn, then the younger" at v26 — perhaps a pointed jab at Jacob's own history).
-- **Leah and Rachel as rival matriarchs** — the co-wife tension (fertile / unloved vs. beloved / barren) structures chs 29–30. Ten of the twelve tribes descend from this rivalry.
-- **Each name reflects the mother's pain or hope** — Leah's first three sons' names cry out for her husband's love; only with Judah (v35) does she turn from hope-in-husband to praise of Yahweh. A subtle arc of maturation.
+- **Jacob's irony** — the deceiver (27) becomes the deceived (29:25). The younger-ousting-the-elder pattern Jacob benefited from (birthright, blessing) is turned against him (Laban invokes "the younger before the firstborn" at v26 — perhaps a pointed jab at Jacob's own history).
+- **Leah and Rachel as rival matriarchs** — the co-wife tension (fertile / hated vs. beloved / barren) structures chs 29–30. Ten of the twelve tribes descend from this rivalry.
+- **Each name reflects the mother's pain or hope** — Leah's first three sons' names cry out for her husband's love; only with Judah (v35) does she turn from hope-in-husband to thanks to Yahweh.

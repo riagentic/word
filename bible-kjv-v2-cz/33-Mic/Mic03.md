@@ -1,86 +1,79 @@
 # Micheáš 3
 
-[1] I řekl jsem:
-Slyšte, hlavy ⟦jacob|Jaakova|Jákoba⟧
-a vládci domu ⟦israel|Jisraele|Izraele⟧!
-Což nemáte vy znát právo? –
+[1] A řekl jsem:
+Slyšte, prosím, hlavy ⟦jacob|Jaakova|Jákoba⟧
+a vůdcové domu ⟦israel|Jisraele|Izraele⟧:
+Není na vás znát soud? –
 
-[2] vy, kdo nenávidíte dobro a milujete zlo,
-kdo strháváte kůži z mého lidu
-a maso z jejich kostí,
+[2] nenávidějící dobro a milující zlo,
+kteří z nich strhávají jejich kůži
+a jejich maso z jejich kostí;
 
-[3] kdo jíte maso mého lidu,
-stahujete z nich kůži,
-lámete jejich kosti na kusy
-a sekáte je jako maso do hrnce,
-jako maso do kotle.
+[3] a kteří jedli maso mého lidu,
+a jejich kůži z nich stáhli,
+a jejich kosti polámali,
+a rozprostřeli je jako v hrnci,
+a jako tělo uprostřed kotle.
 
 [4] Tehdy budou volat k ⟦yhwh|Jahvovi|Hospodinu⟧,
-ale on jim neodpoví;
-skryje před nimi v onen čas svou tvář,
-protože jejich skutky učinili zlými.
+a on jim neodpoví;
+a skryje před nimi svou tvář v onen čas,
+jak učinili své činy zlými.
 
-[5] Toto praví ⟦yhwh|Jahve|Hospodin⟧ o prorocích, kteří svádějí můj lid, kteří volají „Pokoj“, když mají co jíst, ale tomu, kdo jim nic nedá do úst, vyhlašují válku.
+[5] Toto praví ⟦yhwh|Jahve|Hospodin⟧ o prorocích, kteří nechávají můj lid bloudit, kteří koušou svými zuby a volají: „⟦shalom|Šalom|Pokoj⟧“; a kdo jim nic nedá na ústa, proti tomu posvěcují válku.
 
-[6] Proto vám bude noc bez vidění
-a tma vám bude bez věštění.
-Nad proroky zapadne slunce
-a den nad nimi zčerná;
+[6] Proto vám bude noc, bez vidění,
+a bude vám tma, bez věštby;
+a slunce zapadne nad proroky
+a den nad nimi zčerná.
 
-[7] vidoucí budou zostuzeni
-a věštci zahanbeni;
-všichni si zakryjí rty,
-neboť od ⟦elohim|Elohim|Boha⟧ není odpověď.
+[7] A vidoucí budou zahanbeni
+a věštci zostuzeni;
+a zahalí si ret, všichni,
+neboť není odpovědi ⟦elohim|Elohim|Boha⟧.
 
-[8] Ale já jsem naplněn mocí,
-Duchem ⟦yhwh|Jahveho|Hospodina⟧,
-právem a silou,
+[8] Ale já, já jsem plný síly,
+s duchem ⟦yhwh|Jahveho|Hospodina⟧,
+a soudu a moci,
 abych oznámil ⟦jacob|Jaakovovi|Jákobovi⟧ jeho přestoupení
 a ⟦israel|Jisraeli|Izraeli⟧ jeho hřích.
 
-[9] Slyšte to, hlavy domu ⟦jacob|Jaakovova|Jákobova⟧
-a vládci domu ⟦israel|Jisraele|Izraele⟧,
-kteří si ošklivíte právo
-a křivíte všechno, co je přímé,
+[9] Slyšte toto, prosím, hlavy domu ⟦jacob|Jaakovova|Jákobova⟧
+a vůdcové domu ⟦israel|Jisraele|Izraele⟧,
+kteří máte v ohavnosti soud
+a křivíte vše, co je přímé,
 
-[10] kteří budujete ⟦zion|Cijon|Sijón⟧ krví
-a ⟦jerusalem|Jerušalajim|Jeruzalém⟧ ničemností.
+[10] budující ⟦zion|Cijon|Sijón⟧ krví
+a ⟦jerusalem|Jerušalajim|Jeruzalém⟧ bezprávím.
 
-[11] Jeho hlavy soudí za úplatek;
-jeho kněží učí za mzdu;
-jeho proroci věští za peníze;
-a přece se opírají o ⟦yhwh|Jahveho|Hospodina⟧ a říkají:
-„Což není ⟦yhwh|Jahve|Hospodin⟧ uprostřed nás?
-Žádné neštěstí na nás nepřijde.“
+[11] Její hlavy soudí za úplatek
+a její kněží učí za cenu
+a její proroci věští za peníze;
+a o ⟦yhwh|Jahveho|Hospodina⟧ se opírají se slovy:
+Není ⟦yhwh|Jahve|Hospodin⟧ uprostřed nás?
+Nepřijde na nás zlo.
 
-[12] Proto se kvůli vám
-**⟦zion|Cijon|Sijón⟧ bude zorán jako pole;
-⟦jerusalem|Jerušalajim|Jeruzalém⟧ se stane hromadou trosek
-a hora domu zalesněnou výšinou.**
+[12] Proto kvůli vám
+**⟦zion|Cijon|Sijón⟧ bude zorán jako pole
+a ⟦jerusalem|Jerušalajim|Jeruzalém⟧ se stane hromadami sutin
+a hora domu výšinami lesa.**
 
 ## Změny
 
-- **"LORD" → „Yahweh“** (v celé kapitole) – zachován tetragram.
-- **"God" → „*Elohim*“** (v7) – hebrejsky אֱלֹהִים.
-- **"the spirit of the LORD" → „Duchem Yahweh“** (v8) – hebrejsky רוּחַ יְהוָה *ruach Yahweh*; *Ruach* = duch / dech / vítr; ponecháno.
-- **Poezie formátována odsazením jako citát** (v celé kapitole) – KJV má prózu; celá kapitola je poezie.
-- **"I pray you, O heads of Jacob, and ye princes of the house of Israel" → „Slyšte, hlavy Jacoba a vládci domu Israele“** (v1) – hebrejsky שִׁמְעוּ נָא רָאשֵׁי יַעֲקֹב וּקְצִינֵי בֵּית יִשְׂרָאֵל; „vládci“ za *qetziney* = náčelníci / vládci; přesnější než „knížata“.
-- **"Is it not for you to know judgment?" → „Což nemáte vy znát právo?“** (v1) – hebrejsky הֲלוֹא לָכֶם לָדַעַת אֶת הַמִּשְׁפָּט; *mishpat* = právo / spravedlnost; „právo“ jednotně.
-- **"who pluck off their skin from off them" → „kdo strháváte kůži z mého lidu“** (v2) – hebrejsky גֹּזְלֵי עוֹר מֵעַל *gozley or me'al*; „strhávat“ je názornější než „škubat“.
-- **"Who also eat the flesh of my people, and flay their skin from off them; and they break their bones, and chop them in pieces, as for the pot, and as flesh within the caldron" → „kdo jíte maso mého lidu, stahujete z nich kůži, lámete jejich kosti na kusy a sekáte je jako maso do hrnce, jako maso do kotle“** (v3) – modernizováno; „kotel“ za *qalachat*.
-- **"but he will not hear them" → „ale on jim neodpoví“** (v4) – hebrejsky לֹא יַעֲנֶה *lo ya'aneh* = neodpoví; přesnější než „neuslyší“.
-- **"as they have behaved themselves ill in their doings" → „protože jejich skutky učinili zlými“** (v4) – modernizováno.
-- **"the prophets that make my people err" → „prorocích, kteří svádějí můj lid“** (v5) – hebrejsky הַמַּתְעִים אֶת עַמִּי; „svádět“ je názornější.
-- **"he that putteth not into their mouths, they even prepare war against him" → „tomu, kdo jim nic nedá do úst, vyhlašují válku“** (v5) – modernizováno.
-- **"Therefore night shall be unto you, that ye shall not have a vision; and it shall be dark unto you, that ye shall not divine" → „Proto vám bude noc bez vidění a tma vám bude bez věštění“** (v6) – přestavěno; „bez vidění … bez věštění“ je úspornější.
-- **"Then shall the seers be ashamed, and the diviners confounded" → „vidoucí budou zostuzeni a věštci zahanbeni“** (v7) – hebrejsky יֵבֹשׁוּ הַחֹזִים *yevoshu hachozim* = zahanbeni / zostuzeni; „zostuzeni“ je názornější.
-- **"for there is no answer of God" → „neboť od *Elohim* není odpověď“** (v7) – hebrejsky אֵין מַעֲנֵה אֱלֹהִים *eyn ma'aneh Elohim*; *Elohim* ponecháno.
-- **"But truly I am full of power by the spirit of the LORD, and of judgment, and of might" → „Ale já jsem naplněn mocí, Duchem Yahweh, právem a silou“** (v8) – hebrejsky כִּי אָנֹכִי מָלֵאתִי כֹחַ אֶת רוּחַ יְהוָה; *Ruach Yahweh* ponecháno; „právo“ za *mishpat*.
-- **"ye princes of the house of Israel, that abhor judgment, and pervert all equity" → „vládci domu Israele, kteří si ošklivíte právo a křivíte všechno, co je přímé“** (v9) – hebrejsky הַמְתַעֲבִים מִשְׁפָּט *hamte'avim mishpat* = kteří si hnusí právo; „ošklivit si“ je názornější; „křivíte všechno, co je přímé“ za *kol hayyesharah yeaqqeshu*.
-- **"The heads thereof judge for reward, and the priests thereof teach for hire, and the prophets thereof divine for money" → „Jeho hlavy soudí za úplatek; jeho kněží učí za mzdu; jeho proroci věští za peníze“** (v11) – modernizováno; „úplatek“ za *shochad*; „mzda“ za *mekhir*; „věštit“ za *yiqsamu*.
-- **"yet will they lean upon the LORD" → „a přece se opírají o Yahweh“** (v11) – modernizováno.
-- **"none evil can come upon us" → „Žádné neštěstí na nás nepřijde“** (v11) – hebrejsky לֹא תָבוֹא עָלֵינוּ רָעָה; „neštěstí“ za *ra'ah*.
-- **"Therefore shall Zion for your sake be plowed as a field; and Jerusalem shall become heaps, and the mountain of the house as the high places of the forest" → „Zion bude zorán jako pole; Jerusalem se stane hromadou trosek a hora domu zalesněnou výšinou“** (v12) – hebrejsky יַעַר *ya'ar* = les / zalesněné místo; „zalesněná výšina“ je přesnější než „lesní výšiny“; verš zdůrazněn tučně jako vrcholný výrok.
+- **"LORD" → „Jahve“** (v celé kapitole) – tetragram.
+- **Uspořádání a uvozovky** – poezie, jeden hebrejský řádek (kólon) na tištěný řádek podle akcentů; v5 próza jako dříve. Uvozovky ve v11 jsou vypuštěny (hebrejština má לֵאמֹר „se slovy“); „Šalom“ ve v5 je jediné slovo, které volají.
+- **"Hear, I pray you, O heads of Jacob, and ye princes of the house of Israel; Is it not for you to know judgment?" → „Slyšte, prosím, hlavy Jaakova a vůdcové domu Jisraele: Není na vás znát soud?“** (v1, jako v9) – וָאֹמַר „a řekl jsem“; נָא „prosím“; bez „ó“; קָצִין „vůdce“ (jeho řádek; vedle רֹאשׁ „hlava“); מִשְׁפָּט „soud“ (ne „spravedlnost“).
+- **"Who hate the good, and love the evil; who pluck off their skin from off them, and their flesh from off their bones" → „nenávidějící dobro a milující zlo, kteří z nich strhávají jejich kůži a jejich maso z jejich kostí“** (v2) – čte se qere רָע „zlo“ (psané רעה, týž smysl); příčestí „nenávidějící … milující“; עוֹרָם „jejich kůže“ (ve v2 není „můj lid“); שְׁאֵר „maso“ (v2, 3), vedle בָּשָׂר „tělo“ (v3): dvě slova.
+- **"Who also eat the flesh of my people … and they break their bones, and chop them in pieces, as for the pot, and as flesh within the caldron" → „a kteří jedli maso mého lidu, a jejich kůži z nich stáhli, a jejich kosti polámali, a rozprostřeli je jako v hrnci, a jako tělo uprostřed kotle“** (v3) – perfekta („jedli … stáhli … polámali“); předměty napřed, jako v hebrejštině; פָּרְשׂוּ „rozprostřeli“ (jak je vytištěno; „nasekali“ čte פָּרְסוּ: nejisté); כַּאֲשֶׁר בַּסִּיר „jako v hrnci“.
+- **"Then shall they cry unto the LORD, but he will not hear them: he will even hide his face from them at that time, as they have behaved themselves ill in their doings" → „Tehdy budou volat k Jahvovi, a on jim neodpoví; a skryje před nimi svou tvář v onen čas, jak učinili své činy zlými“** (v4) – עָנָה „odpovědět“; וְ „a“ (dvakrát); הֵרֵעוּ מַעַלְלֵיהֶם „učinili své činy zlými“.
+- **"the prophets that make my people err, that bite with their teeth, and cry, Peace; and he that putteth not into their mouths, they even prepare war against him" → „o prorocích, kteří nechávají můj lid bloudit, kteří koušou svými zuby a volají: Šalom; a kdo jim nic nedá na ústa, proti tomu posvěcují válku“** (v5) – הִתְעָה „nechat bloudit“ (jeho řádek); נֹשְׁכִים בְּשִׁנֵּיהֶם „koušou svými zuby“ (= mají co žvýkat; slova zachována); שָׁלוֹם token; לֹא־יִתֵּן עַל־פִּיהֶם „nedá na jejich ústa“ („nic“ doplněno); קִדְּשׁוּ מִלְחָמָה „posvěcují válku“ (vyhlašují válku jako svatou; „chystají“ je smysl, ne slovo).
+- **"Therefore night shall be unto you, that ye shall not have a vision; and it shall be dark unto you, that ye shall not divine" → „Proto vám bude noc, bez vidění, a bude vám tma, bez věštby“** (v6) – מֵחָזוֹן, מִקְּסֹם „od vidění, od věštby“ (= bez); חָשְׁכָה sloveso, „bude tma“; קָדַר „zčernat“.
+- **"Then shall the seers be ashamed, and the diviners confounded: yea, they shall all cover their lips; for there is no answer of God" → „A vidoucí budou zahanbeni a věštci zostuzeni; a zahalí si ret, všichni, neboť není odpovědi Elohim“** (v7) – חֹזִים „vidoucí“ (řádek חֹזֶה); בּוֹשׁ „být zahanben“, חָפֵר „být zostuzen“; עָטָה עַל־שָׂפָם „zahalit ret“ (horní ret s vousem, znamení truchlícího nebo malomocného, Lev 13:45; jednotné číslo); מַעֲנֵה אֱלֹהִים „odpověď Elohim“.
+- **"But truly I am full of power by the spirit of the LORD, and of judgment, and of might" → „Ale já, já jsem plný síly, s duchem Jahveho, a soudu a moci“** (v8) – וְאוּלָם אָנֹכִי „ale já“; אֶת־רוּחַ יְהוָה „s duchem Jahveho“ (אֵת zde „s“; může také označovat „ducha“ jako druhou věc, jíž je naplněn: otevřené); מִשְׁפָּט „soud“; גְּבוּרָה „moc“.
+- **"that abhor judgment, and pervert all equity" → „kteří máte v ohavnosti soud a křivíte vše, co je přímé“** (v9) – תִּעֵב „mít v ohavnosti“ (jeho řádek); עִקֵּשׁ „křivit“; הַיְשָׁרָה „co je přímé“.
+- **"They build up Zion with blood, and Jerusalem with iniquity" → „budující Cijon krví a Jerušalajim bezprávím“** (v10) – בֹּנֶה příčestí jednotného čísla navazující na v9 („budující“); עַוְלָה „bezpráví“ (ne עָוֹן „nepravost“).
+- **"The heads thereof judge for reward … and the prophets thereof divine for money: yet will they lean upon the LORD, and say, Is not the LORD among us? none evil can come upon us" → „Její hlavy soudí za úplatek … a její proroci věští za peníze; a o Jahveho se opírají se slovy: Není Jahve uprostřed nás? Nepřijde na nás zlo“** (v11) – „její“ (Cijon / Jerušalajim, ženský rod); שֹׁחַד „úplatek“; מְחִיר „cena“; כֶּסֶף „peníze“ (dosl. „stříbro“, o platbě: jeho řádek); וְעַל־יְהוָה יִשָּׁעֵנוּ „a o Jahveho se opírají“ (hebrejský slovosled); לֵאמֹר „se slovy“; בְּקִרְבֵּנוּ „uprostřed nás“; רָעָה „zlo“ (ne „neštěstí“).
+- **"Therefore shall Zion for your sake be plowed as a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of the forest" → „Proto kvůli vám Cijon bude zorán jako pole a Jerušalajim se stane hromadami sutin a hora domu výšinami lesa“** (v12) – znění Jer 26:18, kde starší tato slova citují: táž hebrejština, táž čeština; Micheáš přidává לָכֵן בִּגְלַלְכֶם „proto kvůli vám“ a píše עִיִּין (aramejská koncovka množného čísla) za Jeremjášovo עִיִּים „hromady“ (sutin); שָׂדֶה „jako pole“ („jako“ doplněno); לְבָמוֹת יָעַר „výšinami lesa“ (sloveso platí dál).
 
 ### Poznámky
-- **v12** – citováno staršími, kteří hájili Jeremiaha, v Jer 26:18.
+- **v12** – citováno staršími, kteří hájili Jeremjáše, v Jer 26:18; Chizkijahuova odpověď tam (Jer 26:19) je, že Jahve litoval.

@@ -1,47 +1,67 @@
 # Ezekiel 8
 
-[1] In the sixth year, in the sixth month, on the fifth day of the month, as I sat in my house, with the elders of ⟦judah|Yehudah|Judah⟧ sitting before me, the hand of the ⟦adonai-yhwh|Lord Yahweh|Lord GOD⟧ fell upon me there.
+[1] And it came to pass in the sixth year, in the sixth, on the fifth of the month, I was sitting in my house, and the elders of ⟦judah|Yehudah|Judah⟧ were sitting before me, and the hand of ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧ fell upon me there.
 
-[2] Then I looked, and behold, a likeness with the appearance of fire: below what appeared to be his waist was fire, and above his waist was something like the appearance of brightness, like gleaming metal.
+[2] And I looked, and behold, a likeness like the appearance of fire: from the appearance of his loins and downward, fire; and from his loins and upward, like the appearance of shining, like the look of the amber.
 
-[3] He put out the form of a hand and took me by a lock of my head, and the Spirit lifted me up between earth and heaven and brought me in visions of ⟦elohim|Elohim|God⟧ to ⟦jerusalem|Yerushalayim|Jerusalem⟧, to the entrance of the gateway of the inner court that faces north, where was the seat of the image of jealousy, which provokes to jealousy.
+[3] And he stretched out the pattern of a hand and took me by a lock of my head; and a spirit lifted me up between the earth and the heavens and brought me to ⟦jerusalem|Yerushalayim|Jerusalem⟧ in visions of ⟦elohim|Elohim|God⟧, to the entrance of the gate of the inner court that faces north, where was the seat of the figure of jealousy, which provokes jealousy.
 
-[4] And behold, the glory of the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧ was there, like the vision that I saw in the valley.
+[4] And behold, there was the glory of the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧, like the appearance that I saw in the plain.
 
-[5] Then he said to me, "Son of man, lift up your eyes now toward the north." So I lifted up my eyes toward the north, and behold, north of the altar gate, in the entrance, was this image of jealousy.
+[5] And he said to me, "Son of man, lift up now your eyes toward the way of the north." And I lifted up my eyes toward the way of the north, and behold, north of the gate of the altar, this figure of jealousy, in the entrance.
 
-[6] And he said to me, "Son of man, do you see what they are doing, the great abominations that the house of ⟦israel|Yisrael|Israel⟧ are committing here, to drive me far from my sanctuary? But you will see still greater abominations."
+[6] And he said to me, "Son of man, do you see what they are doing — great abominations that the house of ⟦israel|Yisrael|Israel⟧ is doing here, to be far from my sanctuary? And yet you shall turn again and see great abominations."
 
-[7] And he brought me to the entrance of the court, and when I looked, behold, there was a hole in the wall.
+[7] And he brought me to the entrance of the court, and I looked, and behold, a hole in the wall.
 
-[8] Then he said to me, "Son of man, dig in the wall." So I dug in the wall, and behold, there was an entrance.
+[8] And he said to me, "Son of man, dig through now in the wall." And I dug through in the wall, and behold, an entrance.
 
-[9] And he said to me, "Go in, and see the vile abominations that they are committing here."
+[9] And he said to me, "Go in, and see the evil abominations that they are doing here."
 
-[10] So I went in and saw. And there, engraved on the wall all around, was every form of creeping things and loathsome beasts, and all the idols of the house of ⟦israel|Yisrael|Israel⟧.
+[10] And I went in and looked, and behold, every pattern of creeping thing and beast, a detestable thing, and all the idols of the house of ⟦israel|Yisrael|Israel⟧, carved on the wall around, all around.
 
-[11] And before them stood seventy men of the elders of the house of ⟦israel|Yisrael|Israel⟧, with ⟦jaazaniah|Yaazanyahu|Jaazaniah⟧ son of ⟦shaphan|Shafan|Shaphan⟧ standing among them. Each had his censer in his hand, and the smoke of the cloud of incense went up.
+[11] And seventy men of the elders of the house of ⟦israel|Yisrael|Israel⟧ — and ⟦jaazaniah|Yaazanyahu|Jaazaniah⟧ son of ⟦shaphan|Shafan|Shaphan⟧ standing in their midst — were standing before them, and each his censer in his hand, and the fragrance of the cloud of the incense going up.
 
-[12] Then he said to me, "Son of man, have you seen what the elders of the house of ⟦israel|Yisrael|Israel⟧ are doing in the dark, each in his room of pictures? For they say, '⟦yhwh|Yahweh|the LORD⟧ does not see us; ⟦yhwh|Yahweh|the LORD⟧ has forsaken the land.'"
+[12] And he said to me, "Have you seen, son of man, what the elders of the house of ⟦israel|Yisrael|Israel⟧ are doing in the darkness, each in the rooms of his figures? For they are saying, '⟦yhwh|Yahweh|the LORD⟧ does not see us; ⟦yhwh|Yahweh|the LORD⟧ has forsaken the land.'"
 
-[13] He said also to me, "You will see still greater abominations that they commit."
+[13] And he said to me, "Yet you shall turn again and see great abominations that they are doing."
 
-[14] Then he brought me to the entrance of the north gate of the house of ⟦yhwh|Yahweh|the LORD⟧, and behold, there sat women weeping for Tammuz.
+[14] And he brought me to the entrance of the gate of the house of ⟦yhwh|Yahweh|the LORD⟧ which is toward the north, and behold, there the women were sitting, bewailing the Tammuz.
 
-[15] Then he said to me, "Have you seen this, O son of man? You will see still greater abominations than these."
+[15] And he said to me, "Have you seen, son of man? Yet you shall turn again and see abominations greater than these."
 
-[16] And he brought me into the inner court of the house of ⟦yhwh|Yahweh|the LORD⟧. And behold, at the entrance of the temple of ⟦yhwh|Yahweh|the LORD⟧, between the porch and the altar, were about twenty-five men, with their backs to the temple of ⟦yhwh|Yahweh|the LORD⟧, and their faces toward the east, worshiping the sun toward the east.
+[16] And he brought me into the inner court of the house of ⟦yhwh|Yahweh|the LORD⟧, and behold, at the entrance of the temple of ⟦yhwh|Yahweh|the LORD⟧, between the porch and the altar, about twenty-five men, their backs toward the temple of ⟦yhwh|Yahweh|the LORD⟧ and their faces eastward; and they were bowing down eastward to the sun.
 
-[17] Then he said to me, "Have you seen this, O son of man? Is it too light a thing for the house of ⟦judah|Yehudah|Judah⟧ to commit the abominations that they commit here, that they should fill the land with violence and provoke me still further to anger? Behold, they put the branch to their nose.
+[17] And he said to me, "Have you seen, son of man? Is it a light thing to the house of ⟦judah|Yehudah|Judah⟧ to do the abominations that they have done here? For they have filled the land with violence, and they have turned back to vex me; and behold, they are putting the branch to their nose.
 
-[18] Therefore I will act in wrath. My eye will not spare, nor will I have pity. And though they cry in my ears with a loud voice, I will not hear them."
+[18] And I too will act in fury; my eye shall not pity, and I will not have pity; and they shall call in my ears with a loud voice, and I will not hear them."
 
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton יְהוָה rendered directly.
-- **"Lord GOD" → "Lord Yahweh"** (v1) — Hebrew אֲדֹנָי יְהוִה *Adonai Yahweh*; Ezekiel's distinctive doubled divine title.
-- **"God" → "*Elohim*"** (vv3, 4) — Hebrew אֱלֹהִים *Elohim*; "visions of *Elohim*" and "the *Elohim* of Israel."
+- **"Lord GOD" → "Lord Yahweh"** (v1) — Hebrew אֲדֹנָי יְהוִה *Adonai Yahweh*, both words; Ezekiel's distinctive doubled divine title.
+- **"God" → "*Elohim*"** (v3, 4) — Hebrew אֱלֹהִים *Elohim*; "visions of *Elohim*" and "the *Elohim* of Israel".
+- **"And"** (throughout) — the Hebrew joins its clauses with וַ / וְ "and"; the chain is kept.
+- **"And it came to pass in the sixth year, in the sixth month, in the fifth day of the month" → "And it came to pass in the sixth year, in the sixth, on the fifth of the month"** (v1) — בַּשִּׁשִּׁי "in the sixth": "month" and "day" are not written (as 1:1). **"as I sat in mine house, and the elders of Judah sat before me" → "I was sitting in my house, and the elders of Judah were sitting before me"** — two participles (יוֹשֵׁב, יוֹשְׁבִים), a clause of its own, not "as". **"that the hand of the Lord GOD fell there upon me" → "and the hand of Lord Yahweh fell upon me there"** — וַתִּפֹּל.
+- **"a likeness as the appearance of fire" → "a likeness like the appearance of fire"** (v2) — MT אֵשׁ "fire"; the Septuagint has "of a man" (אִישׁ, from memory), as 1:26–27: the MT is kept. **"from the appearance of his loins even downward, fire"** — מִמַּרְאֵה מָתְנָיו וּלְמַטָּה אֵשׁ, no verb. **"as the appearance of brightness, as the colour of amber" → "like the appearance of shining, like the look of the amber"** — זֹהַר "shining" (beside נֹגַהּ "brightness", 1:4, 27); כְּעֵין הַחַשְׁמַלָה, עַיִן "look" (its row). חַשְׁמַל (1:4, 27; here with the ending ־ָה) is found only in Ezekiel: its meaning is not known; "amber" as in 1:4, 27 (the Septuagint ἤλεκτρον, amber or electrum, from memory; "gleaming metal" is a guess).
+- **"he put forth the form of an hand" → "he stretched out the pattern of a hand"** (v3) — תַּבְנִית "pattern" (the תַּבְנִית row: a thing made after a shape). **"took me by a lock of mine head" → "took me by a lock of my head"** — צִיצִת of hair "lock" (reviewer row 2026-10-16); the same word is the "tassel" of a garment (Num 15:38). **"the spirit lifted me up" → "a spirit lifted me up"** — רוּחַ without the article (as 3:12, 14); "spirit" or "wind" (the רוּחַ row). **"between the earth and the heaven" → "between the earth and the heavens"** — שָׁמַיִם (plural). **"to the door of the inner gate that looketh toward the north" → "to the entrance of the gate of the inner court that faces north"** — שַׁעַר הַפְּנִימִית, "the gate of the inner (one)", feminine: "court" (חָצֵר, feminine) is supplied. פֶּתַח "entrance" (also v5–8, 14, 16). **"where was the seat of the image of jealousy, which provoketh to jealousy" → "where was the seat of the figure of jealousy, which provokes jealousy"** — מוֹשַׁב "seat"; סֶמֶל "figure" (the סֶמֶל row: a statue; also v5); הַקִּנְאָה הַמַּקְנֶה, noun and hifil participle of one root (the קִנֵּא row: "jealousy"; "zeal" is the other sense).
+- **"according to the vision that I saw in the plain" → "like the appearance that I saw in the plain"** (v4) — כַּמַּרְאֶה, מַרְאֶה "appearance" (not מַרְאָה "vision"); בִּקְעָה "plain" (the בִּקְעָה row; 3:22–23).
+- **"lift up thine eyes now the way toward the north" → "lift up now your eyes toward the way of the north"** (v5) — שָׂא־נָא, נָא "now"; דֶּרֶךְ צָפוֹנָה "the way northward". **"northward at the gate of the altar this image of jealousy in the entry" → "north of the gate of the altar, this figure of jealousy, in the entrance"** — no verb; בַּבִּאָה "in the entering" (only here; root בּוֹא).
+- **"seest thou what they do? even the great abominations" → "do you see what they are doing — great abominations"** (v6) — written מהם "from them", read (qere) מָה הֵם "what they": the qere is translated; תּוֹעֵבוֹת גְּדֹלוֹת without the article. **"that I should go far off from my sanctuary" → "to be far from my sanctuary"** — לְרָחֳקָה מֵעַל מִקְדָּשִׁי, an infinitive without a subject: whether Yahweh is driven far or the people keep themselves far the Hebrew does not say. **"but turn thee yet again, and thou shalt see greater abominations" → "And yet you shall turn again and see great abominations"** — וְעוֹד תָּשׁוּב תִּרְאֶה, literally "and yet you shall turn back, you shall see" (שׁוּב with a second verb: = see again; also v13, 15); גְּדֹלוֹת "great", not "greater" (in v15 מֵאֵלֶּה "than these" makes it "greater").
+- **"behold a hole in the wall"** (v7) — חֹר־אֶחָד, literally "one hole" (= a hole); also v8 פֶּתַח אֶחָד "one entrance".
+- **"dig now in the wall" → "dig through now in the wall"** (v8) — חֲתָר־נָא, חָתַר "dig through, break through" (beside חָפַר "dig"); נָא "now".
+- **"the wicked abominations" → "the evil abominations"** (v9) — הָרָעוֹת "the evil" (the רַע row).
+- **"every form of creeping things, and abominable beasts" → "every pattern of creeping thing and beast, a detestable thing"** (v10) — כָל־תַּבְנִית רֶמֶשׂ וּבְהֵמָה שֶׁקֶץ: תַּבְנִית "pattern" (the תַּבְנִית row names this verse); רֶמֶשׂ "creeping thing", בְּהֵמָה "beast", both singular; שֶׁקֶץ "detestable thing" (the שֶׁקֶץ row; of creatures unclean to eat, Lev 11) stands beside them. **"pourtrayed upon the wall round about" → "carved on the wall around, all around"** — מְחֻקֶּה, pual of חָקָה "carve, engrave"; סָבִיב סָבִיב, the word twice.
+- **"And there stood before them seventy men … with every man his censer in his hand" → "And seventy men … were standing before them, and each his censer in his hand"** (v11) — the clause about Jaazaniah stands inside, as in the Hebrew; עֹמֵד … עֹמְדִים, participles; מִקְטֶרֶת "censer" (from קָטַר, as מִקְטָר; the קְטֹרֶת row). **"a thick cloud of incense went up" → "the fragrance of the cloud of the incense going up"** — עֲתַר (only here as a noun): taken as "fragrance" or "thickness, abundance": uncertain; עֹלֶה a participle.
+- **"every man in the chambers of his imagery" → "each in the rooms of his figures"** (v12) — חַדְרֵי מַשְׂכִּיתוֹ: חֶדֶר "room"; מַשְׂכִּית (the מַשְׂכִּית row, "figures"), a collective singular: carved or painted figures. **"The LORD seeth us not" → "Yahweh does not see us"** — אֵין יְהוָה רֹאֶה, a participle; עָזַב "forsake" (the עָזַב row). The order "Have you seen, son of man" is kept (also v15, 17).
+- **"Turn thee yet again, and thou shalt see greater abominations" → "Yet you shall turn again and see great abominations"** (v13) — as v6.
+- **"to the door of the gate of the LORD's house which was toward the north" → "to the entrance of the gate of the house of Yahweh which is toward the north"** (v14). **"there sat women weeping for Tammuz" → "there the women were sitting, bewailing the Tammuz"** — הַנָּשִׁים "the women" and הַתַּמּוּז "the Tammuz" each with the article; מְבַכּוֹת, piel participle of בָּכָה, "bewailing" (with אֶת, no "for"). Tammuz is the Mesopotamian god Dumuzi (the article treats the name as a title, or the rite as "the Tammuz-wailing"); the name is the Hebrew form and needs no switch in English.
+- **"Hast thou seen this, O son of man?" → "Have you seen, son of man?"** (v15, 17) — הֲרָאִיתָ בֶן־אָדָם: no "this", no "O". **"greater abominations than these" → "abominations greater than these"** — גְּדֹלוֹת מֵאֵלֶּה.
+- **"about five and twenty men" → "about twenty-five men"** (v16) — כְּעֶשְׂרִים וַחֲמִשָּׁה אִישׁ (Numbers row). **"with their backs toward the temple of the LORD" → "their backs toward the temple of Yahweh"** — אֲחֹרֵיהֶם (as the אֲחֹרַי row); הֵיכָל "temple", אוּלָם "porch" (the rooms row). **"and they worshipped the sun toward the east" → "and they were bowing down eastward to the sun"** — מִשְׁתַּחֲוִיתֶם, a form found only here, made like a participle with the ending of "you have …" (a scribe's mixing, or a mark of scorn: uncertain); הִשְׁתַּחֲוָה "bow down" (the row: not "worship"); קֵדְמָה "eastward" twice (the Directions row).
+- **"Is it a light thing to the house of Judah that they commit the abominations which they commit here?" → "Is it a light thing to the house of Judah to do the abominations that they have done here?"** (v17) — הֲנָקֵל … מֵעֲשׂוֹת, literally "is it light … from doing" (= too light a thing to do); עָשׂוּ, a perfect. **"for they have filled the land with violence, and have returned to provoke me to anger" → "For they have filled the land with violence, and they have turned back to vex me"** — וַיָּשֻׁבוּ לְהַכְעִיסֵנִי, שׁוּב with an infinitive (= vex me again); הִכְעִיס "vex" (the הִכְעִיס row: "anger" is not a second word). **"and, lo, they put the branch to their nose" → "and behold, they are putting the branch to their nose"** — שֹׁלְחִים, participle of שָׁלַח "send, stretch out"; זְמוֹרָה "branch" (a cut shoot of the vine); אַפָּם "their nose". As printed: the sense is not known. It is taken as a rite of the sun-worship (a bundle of twigs held before the face, from memory), or as a coarse idiom of insult, a stench sent "to the nose" of Yahweh; Jewish tradition counts אַפָּם among the "corrections of the scribes" for an original אַפִּי "my nose" (from memory): the MT "their nose" is kept.
+- **"Therefore will I also deal in fury" → "And I too will act in fury"** (v18) — וְגַם־אֲנִי, "and I too"; חֵמָה "fury". **"neither will I have pity"** — חוּס with עֵינִי; חָמַל, as 5:11. **"and though they cry in mine ears with a loud voice, yet will I not hear them" → "and they shall call in my ears with a loud voice, and I will not hear them"** — וְקָרְאוּ, "and they shall call" (no "though"); קוֹל גָּדוֹל "loud voice" (literally "great voice").
 
 ### Notes
-- **Tammuz** (v14) — Mesopotamian dying-rising vegetation god; ritual weeping in summer solstice month (Tammuz).
-- **Sun worship** (v16) — toward the east; temple oriented east-west, so backs to YHWH's house.
+- **v1** — the sixth year of the exile of Jehoiachin (1:2); the vision runs through 8–11.
+- **v14** — Tammuz (Sumerian Dumuzi): the shepherd-god whose death was wept over in the month later named after him (the fourth month of the later Jewish calendar).
+- **v16** — the temple faced east: to bow to the rising sun the men turned their backs on the house of Yahweh.

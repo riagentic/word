@@ -1,27 +1,36 @@
 # Jeremiah 24
 
-[1] ⟦yhwh|Yahweh|The LORD⟧ showed me this vision: behold, two baskets of figs placed before the temple of ⟦yhwh|Yahweh|the LORD⟧. It was after ⟦nebuchadnezzar|Nevuchadretzar|Nebuchadnezzar⟧ king of ⟦babylon|Bavel|Babylon⟧ had taken into exile from ⟦jerusalem|Yerushalayim|Jerusalem⟧ ⟦jeconiah|Yechonyah|Jeconiah⟧ son of ⟦jehoiakim|Yehoyaqim|Jehoiakim⟧, king of ⟦judah|Yehudah|Judah⟧, together with the officials of ⟦judah|Yehudah|Judah⟧, the craftsmen, and the metal workers, and had brought them to ⟦babylon|Bavel|Babylon⟧.
+[1] ⟦yhwh|Yahweh|The LORD⟧ showed me, and behold, two baskets of figs set before the temple of ⟦yhwh|Yahweh|the LORD⟧, after ⟦nebuchadnezzar|Nevuchadretzar|Nebuchadnezzar⟧ king of ⟦babylon|Bavel|Babylon⟧ had carried into exile ⟦jeconiah|Yechonyah|Jeconiah⟧ son of ⟦jehoiakim|Yehoyaqim|Jehoiakim⟧, king of ⟦judah|Yehudah|Judah⟧, and the princes of ⟦judah|Yehudah|Judah⟧, and the craftsmen and the smiths, from ⟦jerusalem|Yerushalayim|Jerusalem⟧, and had brought them to ⟦babylon|Bavel|Babylon⟧.
 
-[2] One basket had very good figs, like first-ripe figs, but the other basket had very bad figs, so bad that they could not be eaten.
+[2] The one basket had very good figs, like the figs of the first ripening; and the other basket had very bad figs, which could not be eaten for badness.
 
-[3] And ⟦yhwh|Yahweh|the LORD⟧ said to me, "What do you see, ⟦jeremiah|Yirmeyahu|Jeremiah⟧?" I said, "Figs, the good figs very good, and the bad figs very bad, so bad that they cannot be eaten."
+[3] And ⟦yhwh|Yahweh|the LORD⟧ said to me, "What do you see, ⟦jeremiah|Yirmeyahu|Jeremiah⟧?" And I said, "Figs: the good figs, very good; and the bad, very bad, which cannot be eaten for badness."
 
-[4] Then the word of ⟦yhwh|Yahweh|the LORD⟧ came to me:
+[4] And the word of ⟦yhwh|Yahweh|the LORD⟧ came to me, saying,
 
-[5] "Thus says ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧: Like these good figs, so I will regard as good the exiles from ⟦judah|Yehudah|Judah⟧, whom I have sent away from this place to the land of the ⟦chaldeans|Kasdim|Chaldeans⟧.
+[5] Thus says ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧: Like these good figs, so I will recognize the exiles of ⟦judah|Yehudah|Judah⟧, whom I have sent away from this place to the land of the ⟦chaldeans|Kasdim|Chaldeans⟧, for good.
 
-[6] I will set my eyes on them for good, and I will bring them back to this land. I will build them up, and not tear them down; I will plant them, and not pluck them up.
+[6] And I will set my eye upon them for good, and I will bring them back to this land; and I will build them and not tear down, and I will plant them and not pluck up.
 
-[7] I will give them a heart to know that I am ⟦yhwh|Yahweh|the LORD⟧, and they shall be my people and I will be their ⟦elohim|Elohim|God⟧, for they shall return to me with their whole heart.
+[7] And I will give them a heart to know me, that I am ⟦yhwh|Yahweh|the LORD⟧; and they shall be my people, and I will be their ⟦elohim|Elohim|God⟧; for they shall return to me with all their heart.
 
-[8] "But thus says ⟦yhwh|Yahweh|the LORD⟧: Like the bad figs that are so bad they cannot be eaten, so will I treat ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ — the king of ⟦judah|Yehudah|Judah⟧, his officials, the remnant of ⟦jerusalem|Yerushalayim|Jerusalem⟧ who remain in this land, and those who dwell in the land of ⟦egypt|Mitzrayim|Egypt⟧.
+[8] And like the bad figs, which cannot be eaten for badness — for thus says ⟦yhwh|Yahweh|the LORD⟧ — so I will give ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ king of ⟦judah|Yehudah|Judah⟧ and his princes and the remnant of ⟦jerusalem|Yerushalayim|Jerusalem⟧ who are left in this land, and those who dwell in the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
-[9] I will make them a horror to all the kingdoms of the earth, to be a reproach, a byword, a taunt, and a curse in all the places where I shall drive them.
+[9] And I will give them for a horror, for evil, to all the kingdoms of the earth, for a reproach and for a proverb, for a taunt and for a curse, in all the places where I shall drive them.
 
-[10] And I will send sword, famine, and pestilence upon them, until they shall be utterly destroyed from the land that I gave to them and their fathers."
+[10] And I will send among them the sword, the famine and the pestilence, until they come to an end from upon the ground that I gave to them and to their fathers.
 
 ## Changes
 
-- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"God" → "*Elohim*"** (vv5, 7) — Hebrew *Elohim* preserved; "the *Elohim* of Israel."
-- **Poetic structure** — entirely prose; vision narrative and divine interpretation.
+- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved. **"God" → "*Elohim*"** (v5, 7).
+- **Layout** — prose, as printed.
+- **"The LORD shewed me, and, behold, two baskets of figs were set before the temple of the LORD" → "Yahweh showed me, and behold, two baskets of figs set before the temple of Yahweh"** (v1) — Hebrew הִרְאַנִי, "this vision" was supplied; the vision is a verbless clause after וְהִנֵּה "and behold". דּוּדָאֵי "baskets" (דּוּד, also a pot, 2 Kgs 10:7); מוּעָדִים "set", literally "appointed" (a hofal of יָעַד "designate"). הֵיכָל "temple" (its row). **"after that Nebuchadrezzar … had carried away captive Jeconiah … with the carpenters and smiths, from Jerusalem" → "after Nebuchadrezzar … had carried into exile Jeconiah … and the princes of Judah, and the craftsmen and the smiths, from Jerusalem"** — הַגְלוֹת (the הִגְלָה row); the name is written יְכָנְיָהוּ (the token's form; Coniah of 22:24); שָׂרֵי "princes" (the שַׂר row); הֶחָרָשׁ וְהַמַּסְגֵּר "the craftsmen and the smiths", the second uncertain (the wording of 2 Kgs 24:14, 16; collective singulars). "From Jerusalem" stands where the Hebrew puts it.
+- **"One basket had very good figs, even like the figs that are first ripe: and the other basket had very naughty figs, which could not be eaten, they were so bad" → "The one basket had very good figs, like the figs of the first ripening; and the other basket had very bad figs, which could not be eaten for badness"** (v2) — Hebrew הַדּוּד אֶחָד … וְהַדּוּד אֶחָד, "the one basket … and the one basket", verbless ("had" supplied); תְּאֵנֵי הַבַּכֻּרוֹת "the figs of the first ripening"; רָעוֹת "bad" (the רַע row: of quality); מֵרֹעַ "for badness" (also v3, 8).
+- **"Then said the LORD unto me … And I said, Figs; the good figs, very good; and the evil, very evil, that cannot be eaten, they are so evil" → "And Yahweh said to me … And I said, 'Figs: the good figs, very good; and the bad, very bad, which cannot be eaten for badness'"** (v3) — וַיֹּאמֶר … וָאֹמַר, "And … And"; הָרָעוֹת "the bad" (no "figs" repeated in the Hebrew).
+- **"Again the word of the LORD came unto me, saying" → "And the word of Yahweh came to me, saying"** (v4) — וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר, the prophets' formula row.
+- **"Like these good figs, so will I acknowledge them that are carried away captive of Judah … for their good" → "Like these good figs, so I will recognize the exiles of Judah … for good"** (v5) — הִכִּיר "recognize" (its row: here, to acknowledge them as his own); גָּלוּת "exiles" (literally "the exile of Judah", a collective: the exile row); שִׁלַּחְתִּי "I have sent away" (the שִׁלַּח row); לְטוֹבָה "for good", at the end of the verse as in the Hebrew.
+- **"For I will set mine eyes upon them for good" → "And I will set my eye upon them for good"** (v6) — עֵינִי singular; the verse opens with וְ. **"I will build them, and not pull them down; and I will plant them, and not pluck them up" → "I will build them and not tear down, and I will plant them and not pluck up"** — הָרַס "tear down", נָתַשׁ "pluck up" (their rows), with no object written (Jer 1:10).
+- **"to know me, that I am the LORD" → "to know me, that I am Yahweh"** (v7) — kept: לָדַעַת אֹתִי כִּי אֲנִי יְהוָה. **"with their whole heart" → "with all their heart"** — בְּכָל־לִבָּם.
+- **"And as the evil figs, which cannot be eaten, they are so evil; surely thus saith the LORD, So will I give Zedekiah" → "And like the bad figs, which cannot be eaten for badness — for thus says Yahweh — so I will give Zedekiah"** (v8) — the Hebrew breaks the comparison with כִּי־כֹה אָמַר יְהוָה "for thus says Yahweh" and goes on with כֵּן "so". נָתַן "give" (also v9, 10). **"the residue of Jerusalem, that remain in this land" → "the remnant of Jerusalem who are left in this land"** — שְׁאֵרִית "remnant", הַנִּשְׁאָרִים "who are left" (שָׁאַר).
+- **"And I will deliver them to be removed into all the kingdoms of the earth for their hurt" → "And I will give them for a horror, for evil, to all the kingdoms of the earth"** (v9) — the reading (qere) לְזַעֲוָה "for a horror" (the זַעֲוָה row; KJV took the ketiv לזועה from זוּעַ "tremble, be removed"); לְרָעָה "for evil" stands in the MT (the Greek has it not: from memory); אֶרֶץ "earth". **"to be a reproach and a proverb, a taunt and a curse" → "for a reproach and for a proverb, for a taunt and for a curse"** — each with לְ "for"; חֶרְפָּה "reproach", מָשָׁל "proverb", שְׁנִינָה "taunt", קְלָלָה "curse" (the Deut 28:37 row; also Jer 25:9, 18). **"whither I shall drive them"** — אַדִּיחֵם (הִדִּיחַ).
+- **"And I will send the sword, the famine, and the pestilence, among them, till they be consumed from off the land" → "And I will send among them the sword, the famine and the pestilence, until they come to an end from upon the ground"** (v10) — שִׁלַּח בְּ "send among"; עַד־תֻּמָּם "until they come to an end" (the תַּם row); מֵעַל הָאֲדָמָה "from upon the ground" (אֲדָמָה). **"to them and to their fathers"** — kept: לָהֶם וְלַאֲבוֹתֵיהֶם.

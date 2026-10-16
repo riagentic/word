@@ -1,74 +1,86 @@
 # Jeremjáš 33
 
-[1] Slovo ⟦yhwh|Jahveho|Hospodina⟧ přišlo k ⟦jeremiah|Jirmejahuovi|Jeremjášovi⟧ podruhé, když byl ještě zavřen na nádvoří stráže:
+[1] A stalo se slovo ⟦yhwh|Jahveho|Hospodina⟧ k ⟦jeremiah|Jirmejahuovi|Jeremjášovi⟧ podruhé, když byl ještě zavřen na nádvoří stráže, se slovy:
 
-[2] „Toto praví ⟦yhwh|Jahve|Hospodin⟧, který učinil zemi, ⟦yhwh|Jahve|Hospodin⟧, který ji utvořil, aby ji upevnil – ⟦yhwh|Jahve|Hospodin⟧ je jeho jméno:
+[2] Toto praví ⟦yhwh|Jahve|Hospodin⟧, který ji činí, ⟦yhwh|Jahve|Hospodin⟧, který ji tvoří, aby ji upevnil, ⟦yhwh|Jahve|Hospodin⟧ je jeho jméno:
 
-[3] **Volej ke mně a odpovím ti a oznámím ti veliké a skryté věci, které jsi neznal.**
+[3] **Volej ke mně, a odpovím ti a oznámím ti veliké věci a opevněné věci, které jsi nepoznal.**
 
-[4] Neboť toto praví ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧, o domech tohoto města a o domech králů ⟦judah|Jehudy|Judy⟧, které byly strženy, aby posloužily k obraně proti obléhacím valům a proti meči:
+[4] Neboť toto praví ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧, o domech tohoto města a o domech králů ⟦judah|Jehudy|Judy⟧, které jsou zbořeny směrem k náspům a směrem k meči:
 
-[5] Přicházejí bojovat s ⟦chaldeans|Kasdim|Kaldejci⟧ a naplnit je mrtvými těly lidí, které pobiji ve svém hněvu a ve své prchlivosti, neboť jsem skryl svou tvář před tímto městem pro všechnu jejich zlobu.
+[5] Přicházejí bojovat s ⟦chaldeans|Kasdim|Kaldejci⟧ a naplnit je mrtvými těly lidí, které jsem pobil ve svém hněvu a ve své zuřivosti, a pro jejichž veškeré zlo jsem skryl svou tvář před tímto městem.
 
-[6] Hle, přinesu mu zdraví a uzdravení, uzdravím je a zjevím jim hojnost blaha a bezpečí.
+[6] Hle, přivádím mu zacelení a uzdravení a uzdravím je a zjevím jim hojnost ⟦shalom|šalomu|pokoje⟧ a pravdy.
 
-[7] Změním úděl ⟦judah|Jehudy|Judy⟧ i úděl ⟦israel|Jisraele|Izraele⟧ a vybuduji je, jak byli na počátku.
+[7] A obnovím úděl ⟦judah|Jehudy|Judy⟧ a úděl ⟦israel|Jisraele|Izraele⟧ a vystavím je jako na počátku.
 
-[8] Očistím je ode vší viny jejich hříchu proti mně a odpustím všechnu vinu jejich hříchu a vzpoury proti mně.
+[8] A očistím je ode vší jejich nepravosti, kterou proti mně zhřešili, a prominu všechny jejich nepravosti, kterými proti mně zhřešili a kterými se proti mně dopustili přestoupení.
 
-[9] A toto město mi bude jménem radosti, chválou a slávou přede všemi národy země, které uslyší o všem dobru, které jim činím. Budou se bát a třást pro všechno dobro a všechno blaho, které mu poskytuji.
+[9] A bude mi jménem veselí, chválou a krásou pro všechny národy země, které uslyší o všem dobru, které jim činím; a budou se děsit a budou rozrušeny pro všechno dobro a pro všechen ⟦shalom|šalom|pokoj⟧, který mu činím.
 
-[10] Toto praví ⟦yhwh|Jahve|Hospodin⟧: Na tomto místě, o němž říkáte: ‚Je to pustina bez lidí i zvířat,‘ v městech ⟦judah|Jehudy|Judy⟧ a v ulicích ⟦jerusalem|Jerušalajim|Jeruzaléma⟧, které jsou zpustošené, bez lidí, bez obyvatel a bez zvířat, bude opět slyšet
+[10] Toto praví ⟦yhwh|Jahve|Hospodin⟧: Znovu bude slyšet na tomto místě, o němž říkáte: „Je pusté, bez člověka a bez zvířete,“ v městech ⟦judah|Jehudy|Judy⟧ a v ulicích ⟦jerusalem|Jerušalajim|Jeruzaléma⟧, které jsou zpustošeny, bez člověka a bez obyvatele a bez zvířete,
 
-[11] hlas veselí a hlas radosti, hlas ženicha a hlas nevěsty, hlasy těch, kdo zpívají, když přinášejí děkovné oběti do domu ⟦yhwh|Jahveho|Hospodina⟧:
+[11] hlas veselí a hlas radosti, hlas ženicha a hlas nevěsty, hlas těch, kdo říkají: „Děkujte ⟦yhwh|Jahvovi|Hospodinu⟧ zástupů, neboť ⟦yhwh|Jahve|Hospodin⟧ je dobrý, neboť jeho ⟦steadfast-love|chesed|milosrdenství⟧ je navěky,“ a přinášejí díkůvzdání do domu ⟦yhwh|Jahveho|Hospodina⟧. Neboť obnovím úděl země jako na počátku, praví ⟦yhwh|Jahve|Hospodin⟧.
 
-„‚Vzdejte díky ⟦yhwh|Jahvovi|Hospodinu⟧ zástupů,
-neboť ⟦yhwh|Jahve|Hospodin⟧ je dobrý,
-neboť jeho věrná láska trvá navěky!‘
+[12] Toto praví ⟦yhwh|Jahve|Hospodin⟧ zástupů: Znovu bude na tomto místě, které je pusté, bez člověka až po zvíře, a ve všech jeho městech sídlo pastýřů, kteří nechávají brav ulehat.
 
-Neboť změním úděl země, aby byla jako na počátku, praví ⟦yhwh|Jahve|Hospodin⟧.
+[13] V městech pohoří, v městech Šefely a v městech ⟦negev|Negevu|Negebu⟧ a v zemi ⟦benjamin|Binjamina|Benjamína⟧ a v okolí ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ a v městech ⟦judah|Jehudy|Judy⟧ bude brav znovu procházet pod rukama toho, kdo počítá, praví ⟦yhwh|Jahve|Hospodin⟧.
 
-[12] Toto praví ⟦yhwh|Jahve|Hospodin⟧ zástupů: Na tomto místě, které je pusté, bez lidí i zvířat, a ve všech jeho městech budou opět příbytky pastýřů, kteří nechávají odpočívat svá stáda.
+[14] Hle, přicházejí dny, je výrok ⟦yhwh|Jahveho|Hospodina⟧, a ustavím to dobré slovo, které jsem promluvil k domu ⟦israel|Jisraele|Izraele⟧ a o domě ⟦judah|Jehudy|Judy⟧.
 
-[13] V městech pahorkatiny, v městech Šefely a v městech ⟦negev|Negev|Negebu⟧, v zemi ⟦benjamin|Binjamin|Benjamín⟧, v okolí ⟦jerusalem|Jerušalajim|Jeruzaléma⟧ a v městech ⟦judah|Jehudy|Judy⟧ budou stáda opět procházet pod rukama toho, kdo je počítá, praví ⟦yhwh|Jahve|Hospodin⟧.
+[15] V oněch dnech a v onen čas dám Davidovi vzejít výhonku spravedlnosti a on bude činit soud a spravedlnost v zemi.
 
-[14] Hle, přicházejí dny, praví ⟦yhwh|Jahve|Hospodin⟧,
-kdy splním to dobré slovo,
-které jsem promluvil o domě ⟦israel|Jisraele|Izraele⟧
-a o domě ⟦judah|Jehudy|Judy⟧.
+[16] V oněch dnech bude ⟦judah|Jehuda|Juda⟧ zachráněn a ⟦jerusalem|Jerušalajim|Jeruzalém⟧ bude přebývat v bezpečí; a toto je, jak ji budou nazývat: ⟦yhwh|Jahve|Hospodin⟧ naše spravedlnost.
 
-[15] V oněch dnech a v onen čas dám
-spravedlivému Výhonku vzejít Davidovi
-a on bude konat právo a spravedlnost v zemi.
+[17] Neboť toto praví ⟦yhwh|Jahve|Hospodin⟧: Nebude Davidovi vyťat muž, který sedí na trůnu domu ⟦israel|Jisraele|Izraele⟧,
 
-[16] V oněch dnech bude ⟦judah|Jehuda|Juda⟧ zachráněn
-a ⟦jerusalem|Jerušalajim|Jeruzalém⟧ bude bydlet v bezpečí.
-A toto je jméno, kterým bude nazýván:
-‚⟦yhwh|Jahve|Hospodin⟧ je naše spravedlnost.‘“
+[18] a kněžím, ⟦levites|Levijim|lévijcům⟧, nebude vyťat muž zpřede mne, který obětuje zápalnou oběť a obrací v dým přídavnou oběť a připravuje oběť, po všechny dny.
 
-[17] „Neboť toto praví ⟦yhwh|Jahve|Hospodin⟧: Davidovi nikdy nebude chybět muž, který by seděl na trůnu domu ⟦israel|Jisraele|Izraele⟧,
+[19] A stalo se slovo ⟦yhwh|Jahveho|Hospodina⟧ k ⟦jeremiah|Jirmejahuovi|Jeremjášovi⟧ se slovy:
 
-[18] a ⟦levites|levijským|lévijským⟧ kněžím nikdy nebude chybět muž přede mnou, který by přinášel zápalné oběti, pálil obětní dary a konal oběti po všechny dny.“
+[20] Toto praví ⟦yhwh|Jahve|Hospodin⟧: Jestliže porušíte mou smlouvu se dnem a mou smlouvu s nocí, takže nebude den a noc ve svůj čas,
 
-[19] Slovo ⟦yhwh|Jahveho|Hospodina⟧ přišlo k ⟦jeremiah|Jirmejahuovi|Jeremjášovi⟧:
+[21] i má smlouva bude porušena s Davidem, mým služebníkem, takže nebude mít syna, který by kraloval na jeho trůnu, i s ⟦levites|Levijim|lévijci⟧, kněžími, mými posluhujícími.
 
-[20] „Toto praví ⟦yhwh|Jahve|Hospodin⟧: Jestliže můžete zrušit mou smlouvu se dnem a mou smlouvu s nocí, takže den a noc nepřijdou ve svůj určený čas,
+[22] Jako nelze sečíst zástup nebes a nelze změřit písek moře, tak rozmnožím símě Davida, mého služebníka, i ⟦levites|Levijim|lévijce⟧, kteří mi posluhují.
 
-[21] pak může být zrušena i má smlouva s mým služebníkem Davidem, takže nebude mít syna, který by kraloval na jeho trůnu, i má smlouva s ⟦levites|levijskými|lévijskými⟧ kněžími, mými služebníky.
+[23] A stalo se slovo ⟦yhwh|Jahveho|Hospodina⟧ k ⟦jeremiah|Jirmejahuovi|Jeremjášovi⟧ se slovy:
 
-[22] Jako nelze spočítat nebeský zástup a změřit písek moře, tak rozmnožím potomstvo mého služebníka Davida i ⟦levites|levijské|lévijské⟧ kněze, kteří mi slouží.“
+[24] Což jsi neviděl, co mluvil tento lid se slovy: „Dvě čeledi, které ⟦yhwh|Jahve|Hospodin⟧ vyvolil, a zavrhl je“? A mým lidem opovrhují, takže už není národem před nimi.
 
-[23] Slovo ⟦yhwh|Jahveho|Hospodina⟧ přišlo k ⟦jeremiah|Jirmejahuovi|Jeremjášovi⟧:
+[25] Toto praví ⟦yhwh|Jahve|Hospodin⟧: Jestliže jsem nepoložil svou smlouvu se dnem a nocí, ustanovení nebes a země,
 
-[24] „Což jsi nepostřehl, co tento lid říká: ‚⟦yhwh|Jahve|Hospodin⟧ zavrhl dvě čeledi, které si vyvolil‘? Tak pohrdají mým lidem, že v jejich očích už není národem.
-
-[25] Toto praví ⟦yhwh|Jahve|Hospodin⟧: Jestliže jsem neustanovil svou smlouvu se dnem a s nocí a pevný řád nebes a země,
-
-[26] pak zavrhnu potomstvo ⟦jacob|Jaakova|Jákoba⟧ a mého služebníka Davida a nevyvolím z jeho potomstva nikoho, kdo by vládl nad potomstvem ⟦abraham|Avrahama|Abrahama⟧, ⟦isaac|Jicchaka|Izáka⟧ a ⟦jacob|Jaakova|Jákoba⟧. Neboť změním jejich úděl a smiluji se nad nimi.“
+[26] i símě ⟦jacob|Jaakova|Jákoba⟧ a Davida, mého služebníka, zavrhnu, abych nebral z jeho semene vládce nad semenem ⟦abraham|Avrahama|Abrahama⟧, ⟦isaac|Jicchaka|Izáka⟧ a ⟦jacob|Jaakova|Jákoba⟧. Neboť obnovím jejich úděl a budu mít s nimi soucit.
 
 ## Změny
 
-- **"LORD of hosts" → „Yahweh zástupů“** (v11–12) – zachováno hebrejské יְהוָה צְבָאוֹת.
-- **"LORD" → „Yahweh“** (v celé kapitole) – zachován tetragram.
-- **"God" → „*Elohim*“** (v4) – zachováno hebrejské *Elohim*.
-- **Básnická struktura** – v14–16 upraveny jako veršovaný mesiánský výrok; okolní próza zachována.
+- **"LORD" → „Jahve“** (v celé kapitole) – zachován tetragram. **"God" → „*Elohim*“** (v4). **"LORD of hosts" → „Jahve zástupů“** (v11, 12) – יְהוָה צְבָאוֹת. נְאֻם יְהוָה „je výrok Jahveho“ (v14); אָמַר יְהוָה „praví Jahve“ (v11, 13).
+- **Úprava textu** – celá kapitola je v hebrejštině próza; dřívější rozdělení do řádků ve v11 a v14–16 je odstraněno. 33:14–26 není v Septuagintě (zpaměti); překládá se MT. **Uvozovky** – hebrejština je nemá; vyznačena jsou jen slova citovaná uvnitř výroku (v10, 11, 24).
+- **"Moreover the word of the LORD came unto Jeremiah the second time, while he was yet shut up" → „A stalo se slovo Jahveho k Jirmejahuovi podruhé, když byl ještě zavřen … se slovy“** (v1) – וַיְהִי … לֵאמֹר; עָצוּר „zavřen“; חֲצַר הַמַּטָּרָה „nádvoří stráže“. Také v19, 23.
+- **"the LORD the maker thereof, the LORD that formed it, to establish it" → „Jahve, který ji činí, Jahve, který ji tvoří, aby ji upevnil“** (v2) – עֹשָׂהּ, יוֹצֵר אוֹתָהּ, příčestí se ženským „ji“, které hebrejština nepojmenovává (země, město, nebo věc, kterou Jahve zamýšlí); „zemi“ dřívějšího textu je čtení Septuaginty (zpaměti) a nedoplňuje se. עָשָׂה „činit / učinit“. Hebrejština nemá pomlčku: „Jahve je jeho jméno“ je věta.
+- **"great and mighty things, which thou knowest not" → „veliké věci a opevněné věci, které jsi nepoznal“** (v3) – בְּצֻרוֹת, slovo „opevněných“ měst (řádek בָּצוּר): věci obehnané hradbou, nedosažitelné; „skryté věci“ čte נְצֻרוֹת, jak má několik rukopisů (zpaměti). לֹא יְדַעְתָּם perfektum „jsi nepoznal“. Tučné písmo verše je zachováno.
+- **"which are thrown down by the mounts, and by the sword" → „které jsou zbořeny směrem k náspům a směrem k meči“** (v4) – הַנְּתֻצִים, pasivum נָתַץ „zbořit“ (řádek recenzenta); סֹלְלוֹת „náspy“ (obléhací, jako 2 Sam 20:15); אֶל … וְאֶל „směrem k … a směrem k“: zda byly domy strženy k obraně proti náspům a meči, nebo jim padly, hebrejština neříká.
+- **"They come to fight with the Chaldeans, but it is to fill them with the dead bodies of men … and for all whose wickedness I have hid my face from this city" → „Přicházejí bojovat s Kasdim a naplnit je mrtvými těly lidí, které jsem pobil … a pro jejichž veškeré zlo jsem skryl svou tvář před tímto městem“** (v5) – בָּאִים příčestí, podmět nepojmenován; וּלְמַלְאָם „a naplnit je“ (domy), žádné „ale“; פִּגְרֵי הָאָדָם „mrtvá těla člověka“ (פֶּגֶר; אָדָם hromadně); הִכֵּיתִי „pobil jsem“ (jde o zabití: řádek הִכָּה); אַף „hněv“, חֵמָה „zuřivost“; וַאֲשֶׁר … עַל כָּל־רָעָתָם je vztažná věta.
+- **"I will bring it health and cure … and will reveal unto them the abundance of peace and truth" → „Hle, přivádím mu zacelení a uzdravení a uzdravím je a zjevím jim hojnost šalomu a pravdy“** (v6) – הִנְנִי מַעֲלֶה, „hle“ a příčestí (dosl. „přivádím nahoru“); אֲרֻכָה je nové maso, které zarůstá ránu (Jer 8:22; 30:17); מַרְפֵּא „uzdravení“ (řádek 2 Chr 36:16); עֲתֶרֶת je jen zde: „hojnost“ je pravděpodobný smysl, ne jistý. שָׁלוֹם má svůj token (také v9).
+- **"I will cause the captivity of Judah and the captivity of Israel to return" → „obnovím úděl Jehudy a úděl Jisraele“** (v7, 11, 26) – שׁוּב / הֵשִׁיב שְׁבוּת, řádek recenzenta: doslova „obrátit zajetí“ nebo „obrátit obrat“ (שְׁבוּת od שָׁבָה „zajmout“ nebo od שׁוּב), tradičně „obrátit zajetí“. **"and will build them, as at the first" → „a vystavím je jako na počátku“** – בָּנָה „stavět“; כְּבָרִאשֹׁנָה „jako na počátku“ (také v11).
+- **"I will cleanse them from all their iniquity … and I will pardon all their iniquities, whereby they have sinned, and whereby they have transgressed against me" → „očistím je ode vší jejich nepravosti … a prominu všechny jejich nepravosti, kterými proti mně zhřešili a kterými se proti mně dopustili přestoupení“** (v8) – עָוֹן „nepravost“, חָטָא לְ „zhřešit proti“, סָלַח „prominout“ (dřívější řádek סָלַח), פָּשַׁע בְּ „přestoupit“ (פֶּשַׁע „přestoupení“). Sleduje se čtení (qere) לְכָל „všechny“; psaný text (ketiv) píše לכול, totéž slovo.
+- **"And it shall be to me a name of joy, a praise and an honour before all the nations of the earth … and they shall fear and tremble for all the goodness and for all the prosperity that I procure unto it" → „A bude mi jménem veselí, chválou a krásou pro všechny národy země … a budou se děsit a budou rozrušeny pro všechno dobro a pro všechen šalom, který mu činím“** (v9) – וְהָיְתָה „a bude (ženský rod)“: „toto město“ v hebrejštině není; tři jména, každé s לְ; לְכֹל „pro všechny“; שָׂשׂוֹן „veselí“ (řádek recenzenta), תְּהִלָּה „chvála“, תִּפְאֶרֶת „krása“ (její řádek); אָנֹכִי עֹשֶׂה אֹתָם „činím jim“ (příčestí; אֹתָם, doslova „je“); פָּחַד „děsit se“, רָגַז „rozrušit se“ (jeho řádek); שָׁלוֹם je podstatné jméno „šalom“, ne „blaho“.
+- **"which ye say shall be desolate without man and without beast … that are desolate, without man, and without inhabitant, and without beast" → „o němž říkáte: ‚Je pusté, bez člověka a bez zvířete‘ … které jsou zpustošeny, bez člověka a bez obyvatele a bez zvířete“** (v10) – אַתֶּם אֹמְרִים příčestí; חָרֵב הוּא „je pusté“ (výrok, ne „bude“); מֵאֵין, doslova „z toho, že není“; חוּצוֹת „ulice“; הַנְשַׁמּוֹת, nifal שָׁמֵם „zpustnout“. Verš 10 pokračuje do v11: „znovu bude slyšet … hlas …“.
+- **"The voice of joy, and the voice of gladness … the voice of them that shall say, Praise the LORD of hosts: for the LORD is good; for his mercy endureth for ever: and of them that shall bring the sacrifice of praise into the house of the LORD" → „hlas veselí a hlas radosti … hlas těch, kdo říkají: ‚Děkujte Jahvovi zástupů, neboť Jahve je dobrý, neboť jeho chesed je navěky,‘ a přinášejí díkůvzdání do domu Jahveho“** (v11) – refrén podle jeho řádku (1 Chr 16:34; Ž 136): הוֹדוּ „děkujte“, v כִּי־לְעוֹלָם חַסְדּוֹ není sloveso („je“, ne „trvá“), חֶסֶד se svým tokenem; zde hebrejština má הוֹדוּ אֶת־ a „Jahve je dobrý“ (jméno opakováno). מְבִאִים תּוֹדָה příčestí: ti, kdo přinášejí, patří k témuž hlasu; תּוֹדָה „díkůvzdání“ (jeho řádek; míněna je oběť). בֵּית יְהוָה nemá předložku („do“ doplněno).
+- **"which is desolate without man and without beast … an habitation of shepherds causing their flocks to lie down" → „které je pusté, bez člověka až po zvíře … sídlo pastýřů, kteří nechávají brav ulehat“** (v12) – הֶחָרֵב „pusté“; מֵאֵין־אָדָם וְעַד־בְּהֵמָה, doslova „z toho, že není člověka, až po zvíře“: ani člověk, ani zvíře; נְוֵה „sídlo“ (řádek נָוֶה), jednotné číslo; מַרְבִּצִים צֹאן „nechávají brav ulehat“ (צֹאן „brav“, žádné „svá“).
+- **"in the cities of the mountains, in the cities of the vale, and in the cities of the south … shall the flocks pass again under the hands of him that telleth them" → „V městech pohoří, v městech Šefely a v městech Negevu … bude brav znovu procházet pod rukama toho, kdo počítá“** (v13) – הָהָר „pohoří“ (řádek הַר); jména krajů mají své tokeny; וּבִסְבִיבֵי „a v okolí“; עַל־יְדֵי, doslova „na rukou“; מוֹנֶה příčestí מָנָה „počítat“; עָבַר „procházet“.
+- **"Behold, the days come, saith the LORD, that I will perform that good thing which I have promised unto the house of Israel and to the house of Judah" → „Hle, přicházejí dny, je výrok Jahveho, a ustavím to dobré slovo, které jsem promluvil k domu Jisraele a o domě Jehudy“** (v14) – יָמִים בָּאִים bez členu; וַהֲקִמֹתִי „a ustavím“ (הֵקִים דָּבָר „ustavit slovo“, řádek 1 Kgs 2:4); הַדָּבָר הַטּוֹב „to dobré slovo“ (řádek דָּבָר); דִּבַּרְתִּי „promluvil jsem“, ne „slíbil“; אֶל … וְעַל „k … a o“. Týž začátek jako Jer 23:5.
+- **"will I cause the Branch of righteousness to grow up unto David; and he shall execute judgment and righteousness in the land" → „dám Davidovi vzejít výhonku spravedlnosti a on bude činit soud a spravedlnost v zemi“** (v15) – אַצְמִיחַ „dám vzejít“ (řádek צָמַח), צֶמַח „výhonek“ (řádek Isa 1–4; tradičně „Výhonek“ / „Ratolest“), bez členu; צֶמַח צְדָקָה „výhonek spravedlnosti“, kde Jer 23:5 má צֶמַח צַדִּיק „spravedlivý výhonek“; עָשָׂה מִשְׁפָּט וּצְדָקָה „činit soud a spravedlnost“, jako Jer 23:5. Jer 23:5 má „vzbudím“ (הֵקִים) a „král bude kralovat a jednat prozíravě“, co zde není.
+- **"In those days shall Judah be saved, and Jerusalem shall dwell safely: and this is the name wherewith she shall be called, The LORD our righteousness" → „V oněch dnech bude Jehuda zachráněn a Jerušalajim bude přebývat v bezpečí; a toto je, jak ji budou nazývat: Jahve naše spravedlnost“** (v16) – לָבֶטַח „v bezpečí“ (řádek בֶּטַח); וְזֶה אֲשֶׁר־יִקְרָא־לָהּ, doslova „a toto je, co jí bude volat“: „jméno“ není napsáno (Jer 23:6 má וְזֶה־שְּׁמוֹ „a toto je jeho jméno“); יִקְרָא činný rod, podmět nepojmenován (česky neosobní „budou“); לָהּ „ji“ je Jerušalajim, kde Jer 23:6 má „ho“, výhonek. יְהוָה צִדְקֵנוּ, tatáž dvě slova jako Jer 23:6, ponechána jako jméno bez slovesa („Jahve je naše spravedlnost“ je věta, kterou jméno tvoří; jméno Cidkijahu, צִדְקִיָּהוּ, je mu blízké). Paseq za יְהוָה je čtenářské znaménko.
+- **"David shall never want a man to sit upon the throne of the house of Israel" → „Nebude Davidovi vyťat muž, který sedí na trůnu domu Jisraele“** (v17) – לֹא־יִכָּרֵת לְ … אִישׁ, podle řádku z Královských (1 Kgs 2:4; 8:25); יֹשֵׁב příčestí.
+- **"Neither shall the priests the Levites want a man before me to offer burnt offerings, and to kindle meat offerings, and to do sacrifice continually" → „a kněžím, Levijim, nebude vyťat muž zpřede mne, který obětuje zápalnou oběť a obrací v dým přídavnou oběť a připravuje oběť, po všechny dny“** (v18) – הַכֹּהֲנִים הַלְוִיִּם „kněží, Levijim“ (jeho řádek); מִלְּפָנַי „zpřede mne“; מַעֲלֶה עוֹלָה „obětuje zápalnou oběť“ (řádek הֶעֱלָה עֹלָה: doslova „dává vystoupit“); מַקְטִיר „obrací v dým“ (řádek recenzenta הִקְטִיר); עֹשֶׂה זֶבַח „připravuje oběť“ (עָשָׂה „činit“, podle jeho řádku); tři příčestí, jednotné číslo; כָּל־הַיָּמִים „po všechny dny“, ne „ustavičně“.
+- **"If ye can break my covenant of the day, and my covenant of the night, and that there should not be day and night in their season" → „Jestliže porušíte mou smlouvu se dnem a mou smlouvu s nocí, takže nebude den a noc ve svůj čas“** (v20) – תָּפֵרוּ „porušíte“ (imperfektum; „můžete“ není slovo textu); הֵפֵר בְּרִית „porušit smlouvu“; בְּרִיתִי הַיּוֹם, doslova „má smlouva, den“: „se“ je doplněno (také v25); יוֹמָם־וָלַיְלָה „den a noc“; בְּעִתָּם „ve svůj čas“.
+- **"Then may also my covenant be broken with David my servant … and with the Levites the priests, my ministers" → „i má smlouva bude porušena s Davidem, mým služebníkem … i s Levijim, kněžími, mými posluhujícími“** (v21) – גַּם „i“, žádné „pak“; מִהְיוֹת־לוֹ בֵן מֹלֵךְ „takže nebude mít syna, který by kraloval“ (doslova „od toho, aby mu byl syn“); zde je pořadí הַלְוִיִּם הַכֹּהֲנִים „Levijim, kněží“ (v18 má „kněží, Levijim“); מְשָׁרְתַי „moji posluhující“ (řádek מְשָׁרֵת; také v22).
+- **"As the host of heaven cannot be numbered … so will I multiply the seed of David my servant, and the Levites that minister unto me" → „Jako nelze sečíst zástup nebes … tak rozmnožím símě Davida, mého služebníka, i Levijim, kteří mi posluhují“** (v22) – אֲשֶׁר „jako“; סָפַר nifal „být sečten“; חוֹל הַיָּם „písek moře“, jednotné číslo; זֶרַע „símě“ (jeho řádek, také v26).
+- **"Considerest thou not what this people have spoken, saying, The two families which the LORD hath chosen, he hath even cast them off? thus they have despised my people" → „Což jsi neviděl, co mluvil tento lid se slovy: ‚Dvě čeledi, které Jahve vyvolil, a zavrhl je‘? A mým lidem opovrhují, takže už není národem před nimi“** (v24) – רָאִיתָ „viděl jsi“; מִשְׁפָּחוֹת „čeledi“ (jeho řádek); וַיִּמְאָסֵם „a zavrhl je“ (מָאַס „zavrhnout“); נִאֵץ „opovrhovat“ (jeho řádek), předmět napřed jako v hebrejštině; מִהְיוֹת עוֹד „aby už nebyl“; לִפְנֵיהֶם „před nimi“.
+- **"If my covenant be not with day and night, and if I have not appointed the ordinances of heaven and earth" → „Jestliže jsem nepoložil svou smlouvu se dnem a nocí, ustanovení nebes a země“** (v25) – hebrejsky אִם־לֹא בְרִיתִי יוֹמָם וָלָיְלָה חֻקּוֹת שָׁמַיִם וָאָרֶץ לֹא־שָׂמְתִּי, doslova „jestliže ne má smlouva den a noc – ustanovení nebes a země jsem nepoložil“: jedno sloveso, שִׂים „položit“, s oběma předměty; חֻקּוֹת „ustanovení“ (řádek חֻקָּה).
+- **"Then will I cast away the seed of Jacob, and David my servant, so that I will not take any of his seed to be rulers over the seed of Abraham, Isaac, and Jacob: for I will cause their captivity to return, and have mercy on them" → „i símě Jaakova a Davida, mého služebníka, zavrhnu, abych nebral z jeho semene vládce nad semenem Avrahama, Jicchaka a Jaakova. Neboť obnovím jejich úděl a budu mít s nimi soucit“** (v26) – גַּם „i“, předmět napřed; זֶרַע יַעֲקוֹב וְדָוִד může být „símě Jaakova a (símě) Davida“ i „símě Jaakova, a Davida“: ponecháno otevřené; מִקַּחַת „abych nebral“ (doslova „od brání“); מֹשְׁלִים „vládce“; אֶל „nad“ (doslova „k“); רִחַם „mít soucit“. Sleduje se čtení (qere) אָשִׁיב „obnovím“; psaný text (ketiv) אשוב „obrátím“ má týž smysl.
+
+### Poznámky
+
+- **v14–16 vedle Jer 23:5–6** – kde je hebrejština táž, je táž i formulace („Hle, přicházejí dny, je výrok Jahveho“, „činit soud a spravedlnost v zemi“, „Jehuda bude zachráněn“, „přebývat v bezpečí“ (řádek שָׁכַן), „Jahve naše spravedlnost“); rozdíly jsou rozdíly hebrejštiny (viz v15, 16). Jer 23:5–6 odpovídá tomuto znění.

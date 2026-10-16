@@ -1,64 +1,76 @@
 # Ezekiel 14
 
-[1] Then certain of the elders of ⟦israel|Yisrael|Israel⟧ came to me and sat before me.
+[1] And men of the elders of ⟦israel|Yisrael|Israel⟧ came to me, and they sat before me.
 
-[2] And the word of ⟦yhwh|Yahweh|the LORD⟧ came to me:
+[2] And the word of ⟦yhwh|Yahweh|the LORD⟧ came to me, saying,
 
-[3] "Son of man, these men have taken their idols into their hearts, and set the stumbling block of their iniquity before their faces. Should I indeed let myself be consulted by them?
+[3] "Son of man, these men have brought up their idols upon their heart, and the stumbling block of their iniquity they have put opposite their face. Shall I surely let myself be sought by them?
 
-[4] Therefore speak to them and say to them, 'Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: Any one of the house of ⟦israel|Yisrael|Israel⟧ who takes his idols into his heart and sets the stumbling block of his iniquity before his face, and yet comes to the prophet, I ⟦yhwh|Yahweh|the LORD⟧ will answer him as he comes with the multitude of his idols,
+[4] Therefore speak with them, and say to them, Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: Any man of the house of ⟦israel|Yisrael|Israel⟧ who brings up his idols upon his heart, and sets the stumbling block of his iniquity opposite his face, and comes to the prophet, I, ⟦yhwh|Yahweh|the LORD⟧, will answer him, as he comes, according to the multitude of his idols,
 
-[5] that I may lay hold of the hearts of the house of ⟦israel|Yisrael|Israel⟧, who are all estranged from me through their idols.'
+[5] in order to seize the house of ⟦israel|Yisrael|Israel⟧ by their heart, who have been estranged from me through their idols, all of them.
 
-[6] "Therefore say to the house of ⟦israel|Yisrael|Israel⟧, 'Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: Repent and turn away from your idols, and turn away your faces from all your abominations.
+[6] Therefore say to the house of ⟦israel|Yisrael|Israel⟧, Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: Turn back, and turn away from your idols, and from all your abominations turn away your faces.
 
-[7] For any one of the house of ⟦israel|Yisrael|Israel⟧, or of the strangers who sojourn in ⟦israel|Yisrael|Israel⟧, who separates himself from me, taking his idols into his heart and putting the stumbling block of his iniquity before his face, and yet comes to a prophet to consult me through him, I ⟦yhwh|Yahweh|the LORD⟧ will answer him myself.
+[7] For any man of the house of ⟦israel|Yisrael|Israel⟧, and of the sojourner who sojourns in ⟦israel|Yisrael|Israel⟧, who keeps himself apart from following me, and brings up his idols upon his heart, and sets the stumbling block of his iniquity opposite his face, and comes to the prophet to seek for himself by me, I, ⟦yhwh|Yahweh|the LORD⟧, will answer him by myself.
 
-[8] And I will set my face against that man; I will make him a sign and a byword and cut him off from the midst of my people, and you shall know that I am ⟦yhwh|Yahweh|the LORD⟧.
+[8] And I will set my face against that man, and I will make him a sign and proverbs, and I will cut him off from the midst of my people; and you shall know that I am ⟦yhwh|Yahweh|the LORD⟧.
 
-[9] "'And if the prophet is deceived and speaks a word, I, ⟦yhwh|Yahweh|the LORD⟧, have deceived that prophet, and I will stretch out my hand against him and will destroy him from the midst of my people ⟦israel|Yisrael|Israel⟧.
+[9] And the prophet, if he is enticed and speaks a word, I, ⟦yhwh|Yahweh|the LORD⟧, have enticed that prophet; and I will stretch out my hand against him, and destroy him from the midst of my people ⟦israel|Yisrael|Israel⟧.
 
-[10] And they shall bear their punishment — the punishment of the prophet and the punishment of the inquirer shall be alike —
+[10] And they shall bear their iniquity: as the iniquity of the one who seeks, so the iniquity of the prophet shall be,
 
-[11] that the house of ⟦israel|Yisrael|Israel⟧ may no more go astray from me, nor defile themselves anymore with all their transgressions, but that they may be my people and I may be their ⟦elohim|Elohim|God⟧, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.'"
+[11] in order that the house of ⟦israel|Yisrael|Israel⟧ may no more wander from following me, and no more defile themselves with all their transgressions; and they shall be to me a people, and I will be to them ⟦elohim|Elohim|God⟧, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧."
 
-[12] And the word of ⟦yhwh|Yahweh|the LORD⟧ came to me:
+[12] And the word of ⟦yhwh|Yahweh|the LORD⟧ came to me, saying,
 
-[13] "Son of man, when a land sins against me by acting faithlessly, and I stretch out my hand against it and break its supply of bread and send famine upon it, and cut off from it man and beast,
+[13] "Son of man, a land, when it sins against me by committing an unfaithfulness, and I stretch out my hand against it, and break for it the staff of bread, and send famine into it, and cut off from it man and beast,
 
-[14] even if these three men, **⟦noah|Noach|Noah⟧, ⟦daniel|Daniyel|Daniel⟧, and ⟦job|Iyov|Job⟧**, were in it, they would deliver but their own lives by their righteousness, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.
+[14] and these three men were in its midst, **⟦noah|Noach|Noah⟧, ⟦daniel|Daniyel|Daniel⟧, and ⟦job|Iyov|Job⟧**, they by their righteousness would deliver their soul, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.
 
-[15] "If I cause wild beasts to pass through the land, and they ravage it, and it be made desolate, so that no one may pass through because of the beasts,
+[15] If I make evil living things pass through the land, and they bereave it, and it becomes a desolation, so that no one passes through because of the living things,
 
-[16] even if these three men were in it, as I live, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧, they would deliver neither sons nor daughters. They alone would be delivered, but the land would be desolate.
+[16] these three men in its midst — as I live, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧, they shall deliver neither sons nor daughters; they alone shall be delivered, and the land shall be a desolation.
 
-[17] "Or if I bring a sword upon that land and say, Let a sword pass through the land, and I cut off from it man and beast,
+[17] Or if I bring a sword upon that land, and say, Let a sword pass through the land, and I cut off from it man and beast,
 
-[18] though these three men were in it, as I live, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧, they would deliver neither sons nor daughters, but they alone would be delivered.
+[18] and these three men were in its midst, as I live, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧, they shall not deliver sons and daughters, but they alone shall be delivered.
 
-[19] "Or if I send a pestilence into that land and pour out my wrath upon it with blood, to cut off from it man and beast,
+[19] Or if I send pestilence into that land, and pour out my fury upon it in blood, to cut off from it man and beast,
 
-[20] even if ⟦noah|Noach|Noah⟧, ⟦daniel|Daniyel|Daniel⟧, and ⟦job|Iyov|Job⟧ were in it, as I live, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧, they would deliver neither son nor daughter. They would deliver but their own lives by their righteousness.
+[20] and ⟦noah|Noach|Noah⟧, ⟦daniel|Daniyel|Daniel⟧, and ⟦job|Iyov|Job⟧ were in its midst, as I live, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧, they shall deliver neither son nor daughter; they by their righteousness would deliver their soul.
 
-[21] "For thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: How much more when I send upon ⟦jerusalem|Yerushalayim|Jerusalem⟧ my four disastrous judgments — sword, famine, wild beasts, and pestilence — to cut off from it man and beast!
+[21] For thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: How much more when my four evil judgments, sword and famine and evil living things and pestilence, I have sent upon ⟦jerusalem|Yerushalayim|Jerusalem⟧, to cut off from it man and beast!
 
-[22] But behold, some survivors will be left in it, sons and daughters who will be brought out. They will come out to you, and when you see their ways and their deeds, you will be consoled for the disaster that I have brought upon ⟦jerusalem|Yerushalayim|Jerusalem⟧, for all that I have brought upon it.
+[22] And behold, there shall be left in it an escape, those who are brought out, sons and daughters; behold, they are coming out to you, and you shall see their way and their doings, and you shall be comforted concerning the evil that I have brought upon ⟦jerusalem|Yerushalayim|Jerusalem⟧, all that I have brought upon it.
 
-[23] They will console you, when you see their ways and their deeds, and you shall know that not without cause have I done all that I have done in it, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧."
+[23] And they shall comfort you, when you see their way and their doings; and you shall know that not for nothing have I done all that I have done in it, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧."
 
 ## Changes
 
-- **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
-- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton יְהוָה rendered directly.
-- **"Lord GOD" → "Lord Yahweh"** (vv4, 6, 11, 14, 16, 18, 20, 21, 23) — Hebrew אֲדֹנָי יְהוִה *Adonai Yahweh*.
-- **"their God" → "their *Elohim*"** (v11) — Hebrew אֱלֹהִים *Elohim*.
-- **"set up their idols in their heart" → "taken their idols into their hearts"** (v3) — Hebrew הֶעֱלוּ גִלּוּלֵיהֶם עַל לִבָּם *he'elu gilluleyhem al libbam*; *gillulim* = idols (derogatory term, possibly "dung-idols"); "taken … into their hearts" = internalized idolatry.
-- **"the stumblingblock of their iniquity" → "the stumbling block of their iniquity"** (vv3, 4, 7) — spelling modernized; Hebrew מִכְשׁוֹל עֲוֹנָם *mikhshol avonam* = stumbling block of their guilt.
-- **"trespassing grievously" → "acting faithlessly"** (v13) — Hebrew מָעֹל מַעַל *ma'ol ma'al* = act with treachery/unfaithfulness; "faithlessly" more precise than KJV "trespassing grievously."
-- **"break the staff of the bread thereof" → "break its supply of bread"** (v13) — Hebrew שָׁבַרְתִּי מַטֵּה לַחְמוֹ *shavarti matteh lachmo* = I break the staff of its bread = I cut off its food supply; modernized.
-- **"noisome beasts" → "wild beasts"** (vv15, 21) — Hebrew חַיָּה רָעָה *chayyah ra'ah* = evil/wild beast; "wild beasts" more natural than "noisome beasts."
-- **"my four sore judgments" → "my four disastrous judgments"** (v21) — Hebrew אַרְבָּעָה שְׁפָטַי הָרָעִים *arba'ah shefatay hara'im* = my four evil/severe acts of judgment; "disastrous" more precise than "sore."
-- **"be comforted / comfort" → "be consoled / console"** (vv22-23) — Hebrew נִחַמְתֶּם *nichhamtem* = you will be comforted/consoled; "consoled" more natural.
+- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved. **"Lord GOD" → "Lord Yahweh"** (v4, 6, 11, 14, 16, 18, 20, 21, 23) — Hebrew אֲדֹנָי יְהוִה, both names. **"God" → "*Elohim*"** (v11).
+- **"Then came certain of the elders of Israel unto me, and sat before me" → "And men of the elders of Israel came to me, and they sat before me"** (v1) — Hebrew וַיָּבוֹא אֵלַי אֲנָשִׁים מִזִּקְנֵי יִשְׂרָאֵל וַיֵּשְׁבוּ, "and" twice; אֲנָשִׁים "men"; זָקֵן "elder".
+- **"The word of the LORD came again to me, saying" → "And the word of Yahweh came to me, saying"** (v2, 12) — Hebrew וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר, the prophets' formula; "again" is not in the Hebrew.
+- **"these men have set up their idols in their heart" → "these men have brought up their idols upon their heart"** (v3, 4, 7) — Hebrew הֶעֱלוּ גִלּוּלֵיהֶם עַל־לִבָּם, הֶעֱלָה "bring up, make go up"; עַל "upon"; גִּלּוּלִים "idols" (a term of contempt). **"and put the stumblingblock of their iniquity before their face" → "and the stumbling block of their iniquity they have put opposite their face"** — וּמִכְשׁוֹל עֲוֹנָם נָתְנוּ נֹכַח פְּנֵיהֶם, the object first; נֹכַח "opposite"; מִכְשׁוֹל "stumbling block" (the thing one stumbles on). **"should I be enquired of at all by them?" → "Shall I surely let myself be sought by them?"** — הַאִדָּרֹשׁ אִדָּרֵשׁ, infinitive absolute with the nifal of דָּרַשׁ "seek" (literally "being sought, shall I be sought"); "inquire" is the sense, "seek" the word (also v7, 10).
+- **"Every man of the house of Israel" → "Any man of the house of Israel"** (v4, 7) — Hebrew אִישׁ אִישׁ, literally "a man, a man". **"I the LORD will answer him that cometh according to the multitude of his idols" → "I, Yahweh, will answer him, as he comes, according to the multitude of his idols"** — נַעֲנֵיתִי לוֹ, nifal of עָנָה "answer" (literally "I am brought to answer him", "I let myself answer him"; also v7 נַעֲנֶה), a perfect of what is settled; בָא is the qere ("coming"), the written text has בה "by it": the qere kept; בְּרֹב "according to / in the multitude".
+- **"That I may take the house of Israel in their own heart" → "in order to seize the house of Israel by their heart"** (v5) — Hebrew לְמַעַן תְּפֹשׂ אֶת־בֵּית־יִשְׂרָאֵל בְּלִבָּם, תָּפַשׂ "seize"; "own" is not in the Hebrew. **"because they are all estranged from me through their idols" → "who have been estranged from me through their idols, all of them"** — אֲשֶׁר נָזֹרוּ מֵעָלַי … כֻּלָּם, nifal of זוּר "be estranged"; כֻּלָּם last, as in the Hebrew.
+- **"Repent, and turn yourselves from your idols; and turn away your faces from all your abominations" → "Turn back, and turn away from your idols, and from all your abominations turn away your faces"** (v6) — Hebrew שׁוּבוּ וְהָשִׁיבוּ מֵעַל גִּלּוּלֵיכֶם: שׁוּב qal "turn back" ("repent" is not the word), then the hifil הָשִׁיבוּ with no object written ("turn yourselves / others away"); the second clause has the object "your faces", the Hebrew order kept; מֵעַל "from upon"; תּוֹעֵבָה "abomination".
+- **"or of the stranger that sojourneth in Israel" → "and of the sojourner who sojourns in Israel"** (v7) — Hebrew וּמֵהַגֵּר אֲשֶׁר־יָגוּר, גֵּר "sojourner", גּוּר "sojourn"; "and". **"which separateth himself from me" → "who keeps himself apart from following me"** — וְיִנָּזֵר מֵאַחֲרַי, nifal of נָזַר "keep oneself apart"; מֵאַחֲרַי, literally "from after me" (from walking behind me; also v11). **"to enquire of him concerning me" → "to seek for himself by me"** — לִדְרָשׁ־לוֹ בִי, literally "to seek for himself in me". **"I the LORD will answer him by myself" → "I, Yahweh, will answer him by myself"** — נַעֲנֶה־לּוֹ בִּי, "by me".
+- **"and will make him a sign and a proverb" → "and I will make him a sign and proverbs"** (v8) — Hebrew וַהֲשִׂמֹתִיהוּ לְאוֹת וְלִמְשָׁלִים: the verb as pointed is from שִׂים "put, make" (by a change of one dot, from שָׁמֵם, "I will make him appalling", from memory: the MT kept); מְשָׁלִים "proverbs" plural. נָתַן פָּנִים בְּ "set my face against"; הִכְרִית "cut off".
+- **"And if the prophet be deceived when he hath spoken a thing" → "And the prophet, if he is enticed and speaks a word"** (v9) — Hebrew וְהַנָּבִיא כִּי־יְפֻתֶּה וְדִבֶּר דָּבָר, the subject first; פָּתָה pual / piel "be enticed / entice" (as 1 Kgs 22:20–22; "deceive" in KJV); דָּבָר "word". **"I will stretch out my hand upon him" → "against him"** — עָלָיו.
+- **"And they shall bear the punishment of their iniquity: the punishment of the prophet shall be even as the punishment of him that seeketh unto him" → "And they shall bear their iniquity: as the iniquity of the one who seeks, so the iniquity of the prophet shall be"** (v10) — Hebrew וְנָשְׂאוּ עֲוֹנָם כַּעֲוֹן הַדֹּרֵשׁ כַּעֲוֹן הַנָּבִיא יִהְיֶה: עָוֹן "iniquity" with נָשָׂא "bear" (the guilt and what it brings; "punishment" is not a second word); the order "the one who seeks … the prophet" kept.
+- **"That the house of Israel may go no more astray from me, neither be polluted any more" → "in order that the house of Israel may no more wander from following me, and no more defile themselves"** (v11) — Hebrew לְמַעַן לֹא־יִתְעוּ עוֹד … מֵאַחֲרַי וְלֹא־יִטַּמְּאוּ עוֹד, תָּעָה "wander"; hitpael of טָמֵא "defile oneself"; פֶּשַׁע "transgression". **"but that they may be my people, and I may be their God" → "and they shall be to me a people, and I will be to them Elohim"** — וְהָיוּ לִי לְעָם וַאֲנִי אֶהְיֶה לָהֶם לֵאלֹהִים, the covenant formula, word for word (as Jer 11:4).
+- **"when the land sinneth against me by trespassing grievously" → "a land, when it sins against me by committing an unfaithfulness"** (v13) — Hebrew אֶרֶץ כִּי תֶחֱטָא־לִי לִמְעָל־מַעַל, "a land" first, without the article; מָעַל מַעַל "commit an unfaithfulness" (verb and noun of one root). **"then will I stretch out mine hand upon it" → "and I stretch out my hand against it"** — וְנָטִיתִי, still part of the condition; the conditions run on through v13, the outcome follows in v14. **"and will break the staff of the bread thereof" → "and break for it the staff of bread"** — וְשָׁבַרְתִּי לָהּ מַטֵּה־לָחֶם, word for word (as Lev 26:26). **"and will send famine upon it" → "and send famine into it"** — בָהּ. **"man and beast"** — אָדָם וּבְהֵמָה (also v17, 19, 21).
+- **"Though these three men, Noah, Daniel, and Job, were in it, they should deliver but their own souls by their righteousness" → "and these three men were in its midst, Noah, Daniel, and Job, they by their righteousness would deliver their soul"** (v14) — Hebrew וְהָיוּ … בְּתוֹכָהּ … הֵמָּה בְצִדְקָתָם יְנַצְּלוּ נַפְשָׁם: וְהָיוּ "and (they) were", no "though"; בְּתוֹכָהּ "in its midst"; נַפְשָׁם "their soul" (singular; "own" and "but" are not in the Hebrew). **"Daniel"** — the qere is דָּנִיֵּאל *Daniyel*, the written text דנאל *Dan'el* (also v20; and 28:3): the qere kept. A *Dan'el* is also named as a just man in a Ugaritic poem (from memory): who is meant is not decided here.
+- **"If I cause noisome beasts to pass through the land" → "If I make evil living things pass through the land"** (v15) — Hebrew לוּ חַיָּה רָעָה אַעֲבִיר, לוּ "if" (a rare use); חַיָּה רָעָה "an evil living thing", a collective singular (as Lev 26:6; Gen 37:20). **"and they spoil it, so that it be desolate" → "and they bereave it, and it becomes a desolation"** — וְשִׁכְּלָתָּה, שִׁכֵּל "bereave" (of children; as Lev 26:22); שְׁמָמָה "desolation" (also v16). **"that no man may pass through because of the beasts" → "so that no one passes through because of the living things"** — מִבְּלִי עוֹבֵר מִפְּנֵי הַחַיָּה.
+- **"Though these three men were in it, as I live, saith the Lord GOD, they shall deliver neither sons nor daughters" → "these three men in its midst — as I live, declares Lord Yahweh, they shall deliver neither sons nor daughters"** (v16) — Hebrew שְׁלֹשֶׁת הָאֲנָשִׁים הָאֵלֶּה בְּתוֹכָהּ, no verb; חַי־אָנִי "as I live" (literally "living am I"); אִם־בָּנִים וְאִם־בָּנוֹת יַצִּילוּ, the oath, literally "if sons and if daughters they deliver": a sworn "they shall not" (also v18 has plain לֹא, v20 אִם). **"but the land shall be desolate" → "and the land shall be a desolation"** — וְהָאָרֶץ, "and".
+- **"Or if I bring a sword upon that land"** (v17) — Hebrew אוֹ חֶרֶב אָבִיא, literally "or a sword I bring"; "if" carried on from v15. **"Sword, go through the land" → "Let a sword pass through the land"** — חֶרֶב תַּעֲבֹר, a third-person form ("a sword shall / let it pass"), not an address; עָבַר "pass through". **"so that I cut off" → "and I cut off"** — וְהִכְרַתִּי.
+- **"they shall deliver neither sons nor daughters, but they only shall be delivered themselves" → "they shall not deliver sons and daughters, but they alone shall be delivered"** (v18) — Hebrew לֹא יַצִּילוּ בָּנִים וּבָנוֹת כִּי הֵם לְבַדָּם יִנָּצֵלוּ, plain "not"; כִּי after the negative "but".
+- **"Or if I send a pestilence into that land" → "Or if I send pestilence into that land"** (v19) — Hebrew אוֹ דֶּבֶר אֲשַׁלַּח, no article; חֵמָה "fury".
+- **"they shall but deliver their own souls by their righteousness" → "they by their righteousness would deliver their soul"** (v20) — as v14, here with יַצִּילוּ (hifil; v14 has the piel יְנַצְּלוּ: one English). **"neither son nor daughter"** — אִם־בֵּן אִם־בַּת, the oath form.
+- **"How much more when I send my four sore judgments upon Jerusalem, the sword, and the famine, and the noisome beast, and the pestilence" → "How much more when my four evil judgments, sword and famine and evil living things and pestilence, I have sent upon Jerusalem"** (v21) — Hebrew אַף כִּי־אַרְבַּעַת שְׁפָטַי הָרָעִים … שִׁלַּחְתִּי, the Hebrew order; שְׁפָטִים "judgments" (acts of judgment); רָעִים "evil"; שִׁלַּחְתִּי a perfect; the four nouns without the article, joined by "and". The sentence ends with "!" (no question word).
+- **"Yet, behold, therein shall be left a remnant that shall be brought forth" → "And behold, there shall be left in it an escape, those who are brought out"** (v22) — Hebrew וְהִנֵּה נוֹתְרָה־בָּהּ פְּלֵטָה הַמּוּצָאִים: פְּלֵיטָה "escape" (those who have escaped; not "remnant", which is שְׁאֵרִית); הַמּוּצָאִים, hofal participle. **"behold, they shall come forth unto you" → "behold, they are coming out to you"** — הִנָּם יוֹצְאִים, participle. **"their way and their doings"** — דַּרְכָּם וַעֲלִילוֹתָם (also v23: "way" singular). **"and ye shall be comforted concerning the evil"** — נִחַם nifal with עַל "be comforted" (the piel "comfort", v23); רָעָה "evil". **"even concerning all that I have brought upon it" → "all that I have brought upon it"** — אֵת כָּל־אֲשֶׁר, no "concerning".
+- **"that I have not done without cause all that I have done in it" → "that not for nothing have I done all that I have done in it"** (v23) — Hebrew כִּי לֹא חִנָּם עָשִׂיתִי, the Hebrew order; חִנָּם "for nothing" (here = without cause).
 
 ### Notes
-- **v14, 20** — **Noah, Daniel, Job**: three legendary righteous men. "Daniel" here (Hebrew *Dan'el*) may refer to the Ugaritic/Canaanite figure rather than the biblical Daniel (active too late).
+- **v14, 20** — **Noah, Daniel, Job**: three men named for righteousness. The written form *Dan'el* matches a righteous king of a Ugaritic poem (from memory); the reading tradition gives *Daniyel*, the name of the book of Daniel. The text does not say which is meant.

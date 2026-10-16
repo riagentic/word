@@ -1,32 +1,46 @@
 # Exodus 11
 
-[1] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Ještě jednu ránu uvedu na ⟦pharaoh|Paroha|faraóna⟧ a na ⟦egypt|Micrajim|Egypt⟧; potom vás odtud propustí. Až vás propustí, úplně vás odsud vyžene.
+[1] A ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Ještě jednu ránu uvedu na ⟦pharaoh|Paroha|faraóna⟧ a na ⟦egypt|Micrajim|Egypt⟧; potom vás odtud propustí. Až vás propustí, jistě vás odtud nadobro vyžene.
 
-[2] Mluv nyní do uší lidu, ať si každý muž vyžádá od svého souseda a každá žena od své sousedky stříbrné a zlaté předměty.“
+[2] Mluv, prosím, do uší lidu, ať si vyžádají, každý muž od svého bližního a každá žena od své bližní, stříbrné nádoby a zlaté nádoby.“
 
-[3] A ⟦yhwh|Jahve|Hospodin⟧ dal lidu přízeň v očích ⟦egyptians|Micrim|Egypťanů⟧. Také ten muž ⟦moses|Moše|Mojžíš⟧ byl v egyptské zemi velmi veliký v očích ⟦pharaoh|Parohových|faraónových⟧ služebníků i v očích lidu.
+[3] A ⟦yhwh|Jahve|Hospodin⟧ dal lidu přízeň v očích ⟦egyptians|Micrim|Egypťanů⟧. Také muž ⟦moses|Moše|Mojžíš⟧ byl velmi veliký v egyptské zemi, v očích ⟦pharaoh|Parohových|faraónových⟧ služebníků i v očích lidu.
 
-[4] ⟦moses|Moše|Mojžíš⟧ řekl: „Toto praví ⟦yhwh|Jahve|Hospodin⟧: ‚Kolem půlnoci vyjdu doprostřed ⟦egypt|Micrajim|Egypta⟧
+[4] A ⟦moses|Moše|Mojžíš⟧ řekl: „Toto praví ⟦yhwh|Jahve|Hospodin⟧: ‚Kolem půlnoci vyjdu doprostřed ⟦egypt|Micrajim|Egypta⟧
 
-[5] a zemře každý prvorozený v egyptské zemi – od prvorozeného ⟦pharaoh|Paroha|faraóna⟧, který sedí na svém trůnu, až po prvorozeného otrokyně, která je za ručním mlýnkem, i každé prvorozené z dobytka.
+[5] a zemře každý prvorozený v egyptské zemi, od prvorozeného ⟦pharaoh|Paroha|faraóna⟧, který sedí na svém trůnu, až po prvorozeného služebnice, která je za mlýnskými kameny, i každé prvorozené ze zvířat.
 
-[6] Po celé egyptské zemi bude veliký křik, jaký nikdy nebyl a už nikdy nebude.
+[6] A v celé egyptské zemi bude veliký křik, jaký nebyl a jaký už nebude.
 
-[7] Ale na nikoho ze synů ⟦israel|Jisraele|Izraele⟧ ani pes nezavrčí, ani na člověka, ani na dobytek, abyste poznali, že ⟦yhwh|Jahve|Hospodin⟧ činí rozdíl mezi ⟦egypt|Micrajim|Egyptem⟧ a ⟦israel|Jisraelem|Izraelem⟧.‘
+[7] Ale proti všem synům ⟦israel|Jisraele|Izraele⟧ ani pes nenaostří jazyk, od člověka až po zvíře, abyste poznali, že ⟦yhwh|Jahve|Hospodin⟧ odlišuje ⟦egypt|Micrajim|Egypt⟧ od ⟦israel|Jisraele|Izraele⟧.‘
 
-[8] A všichni tito tvoji služebníci sestoupí ke mně a budou se mi klanět a říkat: ‚Vyjdi, ty i všechen lid, který jde za tebou!‘ A potom vyjdu.“ A vyšel od ⟦pharaoh|Paroha|faraóna⟧ v planoucím hněvu.
+[8] A všichni tito tvoji služebníci sestoupí ke mně a pokloní se mi se slovy: ‚Vyjdi, ty i všechen lid, který je u tvých nohou.‘ A potom vyjdu.“ A vyšel od ⟦pharaoh|Paroha|faraóna⟧ v planoucím hněvu.
 
-[9] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „⟦pharaoh|Paro|Farao⟧ vás neuposlechne, aby se mé divy v egyptské zemi rozmnožily.“
+[9] A ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „⟦pharaoh|Paro|Farao⟧ vám nebude naslouchat, aby se rozmnožily mé divy v egyptské zemi.“
 
-[10] ⟦moses|Moše|Mojžíš⟧ a ⟦aaron|Aharon|Áron⟧ vykonali všechny tyto divy před ⟦pharaoh|Parohem|faraónem⟧; ale ⟦yhwh|Jahve|Hospodin⟧ zatvrdil ⟦pharaoh|Parohovo|faraónovo⟧ srdce a nechtěl propustit syny ⟦israel|Jisraele|Izraele⟧ ze své země.
+[10] A ⟦moses|Moše|Mojžíš⟧ a ⟦aaron|Aharon|Áron⟧ učinili všechny tyto divy před ⟦pharaoh|Parohem|faraónem⟧; a ⟦yhwh|Jahve|Hospodin⟧ posilnil ⟦pharaoh|Parohovo|faraónovo⟧ srdce a on nepropustil syny ⟦israel|Jisraele|Izraele⟧ ze své země.
 
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – zachován Tetragrammaton.
-- **"borrow" → „vyžádá“** (v2) – jako v 3:22. *Sha'al* = žádat / prosit.
-- **"maidservant that is behind the mill" → „otrokyně, která je za ručním mlýnkem“** (v5) – hebrejsky הַשִּׁפְחָה אֲשֶׁר אַחַר הָרֵחָיִם *ha-shiphchah asher achar ha-rechayim*. Nejníže postavená služebná v domácnosti – klečí u mlecího kamene. Řečnický merismus: od prvorozeného krále po prvorozeného nejposlednější otrokyně – nikdo nebude ušetřen.
-- **"dog move his tongue" → „ani pes nezavrčí“** (v7) – hebrejsky לֹא יֶחֱרַץ־כֶּלֶב לְשֹׁנוֹ *lo yecherats-kelev leshono*. *Charats* = naostřit / vycenit (zuby); spolu s „jazykem“ idiom pro výstražné psí vrčení. Naprostý pokoj v Goshenu, zatímco Egypt křičí.
-- **"great anger" → „planoucí hněv“** (v8) – hebrejsky בָּחֳרִי־אָף *ba-chori-aph*. *Chori* = žár; *aph* = nos (v hebrejském pojetí těla sídlo hněvu). Doslova „žárem nosu“. Moses, obvykle rozvážný, odchází v zuřivosti.
+- **„A“** (v celé kapitole) – hebrejština spojuje věty spojkou וַ / וְ „a“; řetěz je zachován.
+- **"Yet will I bring one plague more" → „Ještě jednu ránu uvedu“** (v1) – hebrejsky עוֹד נֶגַע אֶחָד; נֶגַע je doslova „dotek, úder“. Je to jediné místo, kde je toto slovo užito o deseti ranách na Egypt.
+- **"when he shall let you go, he shall surely thrust you out hence altogether" → „Až vás propustí, jistě vás odtud nadobro vyžene“** (v1) – hebrejsky כְּשַׁלְּחוֹ כָּלָה גָּרֵשׁ יְגָרֵשׁ אֶתְכֶם מִזֶּה, doslova „při jeho propouštění – úplně – vyháněje vyžene vás odtud“. „Vás“ za „propustí“ je doplněno. Přízvuky kladou כָּלָה „úplně“ samostatně, takže může patřit ke kterémukoli slovesu: „až vás nadobro propustí“, nebo „nadobro vás vyžene“. „Jistě“ stojí za absolutní infinitiv s jeho slovesem. שִׁלַּח „propustit“ a גֵּרֵשׁ „vyhnat“ jsou dvě slovesa z 6:1.
+- **"Speak now" → „Mluv, prosím“** (v2) – hebrejsky דַּבֶּר־נָא; částice נָא je zachována.
+- **"borrow" → „vyžádají“** (v2) – hebrejsky שָׁאַל = žádat / prosit, jako ve 3:22. Slovo neříká „vypůjčit si“.
+- **"jewels of silver" → „stříbrné nádoby“** (v2) – hebrejsky כְּלִי, jakýkoli zhotovený předmět: nádoba, nástroj, ozdoba.
+- **"in the sight of" → „v očích“** (v3) – hebrejsky בְּעֵינֵי. „Egypťané“ je מִצְרַיִם „Egypt“, totéž slovo jako země: zde lid.
+- **"About midnight will I go out" → „Kolem půlnoci vyjdu“** (v4) – hebrejsky כַּחֲצֹת הַלַּיְלָה „kolem rozpůlení noci“; אֲנִי יוֹצֵא je příčestí („já vycházím“): to, co má právě nastat.
+- **"maidservant that is behind the mill" → „služebnice, která je za mlýnskými kameny“** (v5) – hebrejsky הַשִּׁפְחָה אֲשֶׁר אַחַר הָרֵחָיִם. שִׁפְחָה je „služebnice“; רֵחַיִם je duál, „dva mlýnské kameny“ ručního mlýnku. Od králova prvorozeného po prvorozeného nejnižší ženy v domě: nikdo není vynechán.
+- **"all the firstborn of beasts" → „každé prvorozené ze zvířat“** (v5) – hebrejsky בְּהֵמָה, hromadné jednotné číslo.
+- **"a great cry" → „veliký křik“** (v6) – hebrejsky צְעָקָה, slovo z 3:7, 9 pro křik Israele pod jeho poháněči. „Už nebude“ je doslova „nepřidá“.
+- **"shall not a dog move his tongue" → „ani pes nenaostří jazyk“** (v7) – hebrejsky לֹא יֶחֱרַץ־כֶּלֶב לְשֹׁנוֹ, doslova tak (חָרַץ „řezat, ostřit“; „ani“ je doplněno). Co přesně rčení znamená, není jisté: žádný pes na ně ani nezavrčí, ani nezaštěká (srov. Josh 10:21). „Od člověka až po zvíře“ je doslovné (לְמֵאִישׁ וְעַד־בְּהֵמָה).
+- **"doth put a difference between" → „odlišuje … od“** (v7) – hebrejsky יַפְלֶה … בֵּין … וּבֵין, „odděluje, odlišuje“, doslova „mezi Egyptem a mezi Israelem“; jako v 8:22; 9:4.
+- **"bow down themselves unto me" → „pokloní se mi“** (v8) – hebrejsky הִשְׁתַּחֲוָה, poklonit se až k zemi. **"that follow thee" → „který je u tvých nohou“** – hebrejsky אֲשֶׁר־בְּרַגְלֶיךָ, doslova tak.
+- **"in a great anger" → „v planoucím hněvu“** (v8) – hebrejsky בָּחֳרִי־אָף, doslova „v žáru nosu“; אַף je „nos“ i „hněv“.
+- **"shall not hearken unto you" → „vám nebude naslouchat“** (v9) – hebrejsky שָׁמַע אֶל. „Vám“ je množné číslo: Moses a Aaron. „Aby se rozmnožily mé divy“ je doslova „kvůli rozmnožení mých divů“.
+- **"the LORD hardened Pharaoh's heart" → „Jahve posilnil Parohovo srdce“** (v10) – hebrejsky וַיְחַזֵּק, piel od חָזַק „být silný“: učinil je pevným, neústupným. Kniha užívá o Pharaohově srdci tři slovesa, „být silný“ (חָזַק), „být těžký“ (כָּבֵד) a „zatvrdit“ (קָשָׁה); KJV má pro všechna tři „harden“. Podmět je zachován, jak jej má každý verš: zde Yahweh.
+- **"so that he would not let … go" → „a on nepropustil“** (v10) – hebrejsky וְלֹא־שִׁלַּח „a nepropustil“.
 
 ### Poznámky
 

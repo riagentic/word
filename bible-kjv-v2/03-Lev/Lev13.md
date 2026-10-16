@@ -1,136 +1,165 @@
 # Leviticus 13
 
-[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧, saying,
+[1] And ⟦yhwh|Yahweh|the LORD⟧ spoke to ⟦moses|Moshe|Moses⟧ and to ⟦aaron|Aharon|Aaron⟧, saying,
 
-[2] "When a person has on the skin of his body a swelling, a scab, or a bright spot, and it becomes on the skin of his body an infection of skin disease, then he shall be brought to ⟦aaron|Aharon|Aaron⟧ the priest, or to one of his sons the priests.
+[2] "A man, when there is in the skin of his flesh a swelling or a scab or a bright spot, and it becomes in the skin of his flesh a plague of leprosy, then he shall be brought to ⟦aaron|Aharon|Aaron⟧ the priest or to one of his sons the priests.
 
-[3] The priest shall examine the infection on the skin of the body: if the hair in the infection has turned white and the infection appears deeper than the skin of his body, it is an infection of skin disease. The priest shall examine him and pronounce him unclean.
+[3] And the priest shall see the plague in the skin of the flesh, and the hair in the plague has turned white, and the appearance of the plague is deeper than the skin of his flesh — it is a plague of leprosy; and the priest shall see him and pronounce him unclean.
 
-[4] But if the bright spot on the skin of his body is white, and does not appear deeper than the skin, and its hair has not turned white, then the priest shall quarantine the one with the infection for seven days.
+[4] But if it is a white bright spot in the skin of his flesh, and its appearance is not deeper than the skin, and its hair has not turned white, then the priest shall shut up the plague seven days.
 
-[5] On the seventh day the priest shall examine him; and if, in his sight, the infection is unchanged and the infection has not spread in the skin, the priest shall quarantine him seven days more.
+[5] And the priest shall see him on the seventh day, and behold, the plague has stood still in his eyes; the plague has not spread in the skin; then the priest shall shut him up seven days a second time.
 
-[6] The priest shall examine him again on the seventh day; and if the infection has faded and has not spread in the skin, the priest shall pronounce him clean — it is only a scab. He shall wash his clothes and be clean.
+[6] And the priest shall see him on the seventh day a second time, and behold, the plague has grown dim, and the plague has not spread in the skin; then the priest shall pronounce him clean; it is a scab; and he shall wash his garments and be clean.
 
-[7] But if the scab does indeed spread on the skin, after he has shown himself to the priest for cleansing, he shall show himself to the priest again.
+[7] But if the scab surely spreads in the skin after his appearing to the priest for his cleansing, then he shall appear a second time to the priest.
 
-[8] If the priest sees that the scab has spread on the skin, the priest shall pronounce him unclean; it is skin disease.
+[8] And the priest shall see, and behold, the scab has spread in the skin; then the priest shall pronounce him unclean; it is leprosy.
 
-[9] When the infection of skin disease is on a person, he shall be brought to the priest.
+[9] A plague of leprosy, when it is in a man, then he shall be brought to the priest.
 
-[10] The priest shall examine him, and if there is a white swelling in the skin that has turned the hair white, and raw flesh is in the swelling,
+[10] And the priest shall see, and behold, a white swelling is in the skin, and it has turned the hair white, and a patch of raw flesh is in the swelling:
 
-[11] it is a chronic skin disease in the skin of his body, and the priest shall pronounce him unclean. He shall not quarantine him, for he is unclean.
+[11] it is an old leprosy in the skin of his flesh; and the priest shall pronounce him unclean; he shall not shut him up, for he is unclean.
 
-[12] But if the skin disease breaks out widely on the skin, and the skin disease covers all the skin of the one with the infection from his head to his foot, everywhere the priest looks,
+[12] And if the leprosy surely breaks out in the skin, and the leprosy covers all the skin of the plague, from his head and to his feet, as far as the eyes of the priest see,
 
-[13] then the priest shall look; and if the skin disease has covered all his flesh, he shall pronounce the one with the infection clean — it has all turned white; he is clean.
+[13] and the priest sees, and behold, the leprosy has covered all his flesh, then he shall pronounce the plague clean; all of it has turned white; he is clean.
 
-[14] But when raw flesh appears on him, he shall be unclean.
+[14] But on the day that raw flesh appears in him, he shall be unclean.
 
-[15] The priest shall see the raw flesh and pronounce him unclean; raw flesh is unclean — it is skin disease.
+[15] And the priest shall see the raw flesh and pronounce him unclean; the raw flesh is unclean; it is leprosy.
 
-[16] Or if the raw flesh turns again and changes to white, he shall come to the priest.
+[16] Or when the raw flesh turns back and is turned to white, then he shall come to the priest.
 
-[17] The priest shall examine him; and if the infection has turned white, the priest shall pronounce the one with the infection clean; he is clean.
+[17] And the priest shall see him, and behold, the plague is turned to white; then the priest shall pronounce the plague clean; he is clean.
 
-[18] When the skin of a body has had a boil on it, and it has healed,
+[18] And flesh, when there is in it, in its skin, a boil, and it is healed,
 
-[19] and in the place of the boil there is a white swelling or a reddish-white bright spot, he shall be shown to the priest.
+[19] and in the place of the boil there is a white swelling or a bright spot, reddish-white, then he shall appear to the priest.
 
-[20] The priest shall look at it; and if it appears deeper than the skin and its hair has turned white, the priest shall pronounce him unclean — it is an infection of skin disease that has broken out in the boil.
+[20] And the priest shall see, and behold, its appearance is lower than the skin, and its hair has turned white; then the priest shall pronounce him unclean; it is a plague of leprosy; it has broken out in the boil.
 
-[21] But if the priest examines it and there are no white hairs in it, and it is not deeper than the skin, but has faded, then the priest shall quarantine him seven days.
+[21] But if the priest sees it, and behold, there is no white hair in it, and it is not lower than the skin, and it is dim, then the priest shall shut him up seven days.
 
-[22] If it spreads widely in the skin, the priest shall pronounce him unclean — it is an infection.
+[22] And if it surely spreads in the skin, then the priest shall pronounce him unclean; it is a plague.
 
-[23] But if the bright spot stays in its place and does not spread, it is the scar of the boil, and the priest shall pronounce him clean.
+[23] But if the bright spot stands in its place and has not spread, it is the scar of the boil; and the priest shall pronounce him clean.
 
-[24] Or when the skin of the body has a burn from fire, and the raw flesh of the burn becomes a reddish-white or white bright spot,
+[24] Or flesh, when there is in its skin a burn of fire, and the raw patch of the burn becomes a bright spot, reddish-white or white,
 
-[25] the priest shall look at it; and if the hair in the bright spot has turned white and it appears deeper than the skin, it is skin disease that has broken out in the burn. The priest shall pronounce him unclean; it is an infection of skin disease.
+[25] and the priest sees it, and behold, the hair in the bright spot is turned white, and its appearance is deeper than the skin — it is leprosy; it has broken out in the burn; and the priest shall pronounce him unclean; it is a plague of leprosy.
 
-[26] But if the priest examines it and there is no white hair in the bright spot, and it is no deeper than the other skin but has faded, then the priest shall quarantine him seven days.
+[26] But if the priest sees it, and behold, there is no white hair in the bright spot, and it is not lower than the skin, and it is dim, then the priest shall shut him up seven days.
 
-[27] The priest shall examine him on the seventh day; and if it has spread widely in the skin, the priest shall pronounce him unclean — it is an infection of skin disease.
+[27] And the priest shall see him on the seventh day; if it surely spreads in the skin, then the priest shall pronounce him unclean; it is a plague of leprosy.
 
-[28] If the bright spot stays in its place and has not spread in the skin, but has faded, it is the swelling from the burn, and the priest shall pronounce him clean; for it is the scar of the burn.
+[28] But if the bright spot stands in its place and has not spread in the skin, and it is dim, it is the swelling of the burn; and the priest shall pronounce him clean, for it is the scar of the burn.
 
-[29] When a man or a woman has an infection on the head or on the beard,
+[29] And a man or a woman, when there is a plague in him, on the head or in the beard,
 
-[30] the priest shall examine the infection; and if it appears deeper than the skin and there is thin yellow hair in it, the priest shall pronounce him unclean — it is a scall, a skin disease of the head or beard.
+[30] and the priest sees the plague, and behold, its appearance is deeper than the skin, and in it is thin yellow hair, then the priest shall pronounce him unclean; it is a scall; it is leprosy of the head or of the beard.
 
-[31] But if the priest examines the infection of the scall, and it does not appear deeper than the skin, and there is no black hair in it, then the priest shall quarantine the one with the scall for seven days.
+[31] And when the priest sees the plague of the scall, and behold, its appearance is not deeper than the skin, and there is no black hair in it, then the priest shall shut up the plague of the scall seven days.
 
-[32] On the seventh day the priest shall examine the infection; and if the scall has not spread and there is no yellow hair in it, and the scall does not appear deeper than the skin,
+[32] And the priest shall see the plague on the seventh day, and behold, the scall has not spread, and there has been no yellow hair in it, and the appearance of the scall is not deeper than the skin;
 
-[33] he shall be shaved — but the scall he shall not shave — and the priest shall quarantine the one with the scall seven days more.
+[33] then he shall shave himself, but the scall he shall not shave; and the priest shall shut up the scall seven days a second time.
 
-[34] On the seventh day the priest shall examine the scall; and if the scall has not spread in the skin and does not appear deeper than the skin, the priest shall pronounce him clean. He shall wash his clothes and be clean.
+[34] And the priest shall see the scall on the seventh day, and behold, the scall has not spread in the skin, and its appearance is not deeper than the skin; then the priest shall pronounce him clean; and he shall wash his garments and be clean.
 
-[35] But if the scall does indeed spread in the skin after his cleansing,
+[35] But if the scall surely spreads in the skin after his cleansing,
 
-[36] the priest shall examine him; and if the scall has spread in the skin, the priest shall not search for yellow hair — he is unclean.
+[36] and the priest sees him, and behold, the scall has spread in the skin, the priest shall not search for the yellow hair; he is unclean.
 
-[37] But if, in his sight, the scall has remained unchanged and black hair has grown up in it, the scall is healed; he is clean, and the priest shall pronounce him clean.
+[37] But if in his eyes the scall has stood still, and black hair has sprung up in it, the scall is healed; he is clean; and the priest shall pronounce him clean.
 
-[38] When a man or a woman has bright spots in the skin of the body — even white bright spots —
+[38] And a man or a woman, when there are in the skin of their flesh bright spots, white bright spots,
 
-[39] the priest shall examine them; and if the bright spots in the skin of the body are a dull white, it is a harmless rash that has broken out in the skin; he is clean.
+[39] and the priest sees, and behold, in the skin of their flesh are bright spots, dim white — it is a rash; it has broken out in the skin; he is clean.
 
-[40] If a man's hair falls out from his head, he is bald; he is clean.
+[40] And a man, when his head is plucked bare, he is bald; he is clean.
 
-[41] If his hair falls out from the front of his head, he is bald on the forehead; he is clean.
+[41] And if from the side of his face his head is plucked bare, he is bald in front; he is clean.
 
-[42] But if on the bald head or the bald forehead there is a reddish-white infection, it is skin disease breaking out on his bald head or his bald forehead.
+[42] But when there is on the bald head or on the bald forehead a reddish-white plague, it is leprosy breaking out on his bald head or on his bald forehead.
 
-[43] The priest shall examine him; and if the swelling of the infection is reddish-white on his bald head or on his bald forehead, like the appearance of skin disease in the skin of the body,
+[43] And the priest shall see him, and behold, the swelling of the plague is reddish-white on his bald head or on his bald forehead, like the appearance of leprosy of the skin of the flesh:
 
-[44] he is a man with skin disease; he is unclean. The priest shall pronounce him utterly unclean; his infection is on his head.
+[44] he is a leprous man; he is unclean; the priest shall surely pronounce him unclean; his plague is on his head.
 
-[45] The one with skin disease in whom the infection is — his clothes shall be torn, his hair shall hang loose, he shall cover his upper lip, and he shall cry, 'Unclean, unclean!'
+[45] And the leper in whom the plague is — his garments shall be ripped, and his head shall be let loose, and he shall cover over his moustache, and 'Unclean, unclean!' he shall call out.
 
-[46] All the days that the infection is on him he shall be unclean. He is unclean; he shall live alone; his dwelling shall be outside the camp.
+[46] All the days that the plague is in him he shall be unclean; he is unclean; alone he shall dwell; outside the camp is his dwelling place.
 
-[47] When a garment has an infection of skin disease on it, whether a woolen garment or a linen garment,
+[47] And the garment, when there is in it a plague of leprosy, in a garment of wool or in a garment of linen,
 
-[48] whether in the warp or the weft of linen or wool, or in a skin or in anything made of skin;
+[48] or in the warp or in the woof, of the linen or of the wool, or in a skin or in any work of skin,
 
-[49] if the infection is greenish or reddish in the garment, or in the skin, or in the warp, or in the weft, or in anything of skin, it is an infection of skin disease and shall be shown to the priest.
+[49] and the plague is greenish or reddish in the garment or in the skin or in the warp or in the woof or in any article of skin — it is a plague of leprosy, and it shall be shown to the priest.
 
-[50] The priest shall examine the infection and quarantine the infected thing for seven days.
+[50] And the priest shall see the plague and shut up the plague seven days.
 
-[51] He shall examine the infection on the seventh day; and if the infection has spread in the garment, or in the warp or weft, or in a skin, or in any work made of skin, the infection is a malignant skin disease — it is unclean.
+[51] And he shall see the plague on the seventh day; if the plague has spread in the garment or in the warp or in the woof or in the skin, whatever work the skin is made into, the plague is a malignant leprosy; it is unclean.
 
-[52] He shall burn the garment, whether warp or weft, in wool or in linen, or anything of skin in which the infection is; for it is a malignant skin disease; it shall be burned with fire.
+[52] And he shall burn the garment, or the warp or the woof, in wool or in linen, or any article of skin in which the plague is; for it is a malignant leprosy; with fire it shall be burned.
 
-[53] But if the priest examines it, and the infection has not spread in the garment, or in the warp, or in the weft, or in anything of skin,
+[53] But if the priest sees, and behold, the plague has not spread in the garment or in the warp or in the woof or in any article of skin,
 
-[54] then the priest shall command that they wash the thing in which the infection is, and he shall quarantine it seven days more.
+[54] then the priest shall command, and they shall wash that in which the plague is; and he shall shut it up seven days a second time.
 
-[55] The priest shall examine the infection after it has been washed; and if the infection has not changed its appearance, even though the infection has not spread, it is unclean — you shall burn it with fire, whether the rot is on the inside or the outside.
+[55] And the priest shall see, after the plague has been washed, and behold, the plague has not changed its appearance, and the plague has not spread — it is unclean; with fire you shall burn it; it is a hollow, on its back or on its front.
 
-[56] If the priest examines it and the infection has faded after being washed, he shall tear it out of the garment, or out of the skin, or out of the warp or out of the weft.
+[56] But if the priest has seen, and behold, the plague has grown dim after it has been washed, then he shall tear it from the garment or from the skin or from the warp or from the woof.
 
-[57] But if it appears again in the garment, whether in the warp or in the weft, or in anything of skin, it is spreading — you shall burn with fire that in which the infection is.
+[57] And if it appears again in the garment or in the warp or in the woof or in any article of skin, it is breaking out; with fire you shall burn that in which the plague is.
 
-[58] And the garment, whether warp or weft, or anything of skin that you have washed, if the infection has departed from it, then it shall be washed a second time, and it shall be clean.
+[58] And the garment, or the warp or the woof, or any article of skin, that you wash, and the plague departs from them — it shall be washed a second time and be clean.
 
-[59] This is the law of the infection of skin disease in a garment of wool or linen, in the warp or the weft, or anything of skin, for pronouncing it clean or unclean.
+[59] This is ⟦torah|the torah|the law⟧ of the plague of leprosy of the garment of wool or of linen, or of the warp or of the woof, or of any article of skin, to pronounce it clean or to pronounce it unclean."
 
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"plague" → "infection"** (throughout) — Hebrew נֶגַע *nega* = a stroke / blow / affliction. General ritual-medical term for the skin eruption; "plague" too narrow in modern English.
-- **"shut up" → "quarantine"** (v4, 5, 11, 21, 26, 31, 33, 50, 54) — Hebrew הִסְגִּיר *hisgir* = isolate / shut away. Translation clarifies the quarantine function.
-- **"quick raw flesh / quick flesh" → "raw flesh"** (v10, 14, 15, 16, 24) — archaic *quick* = living. Hebrew בָּשָׂר חַי *basar chay* = living / raw flesh.
-- **"warp / woof" → "warp / weft"** (v48–59) — modernized weaving terminology. *Woof* now obscure.
-- **"freckled spot" → "harmless rash"** (v39) — Hebrew בֹּהַק *bohaq*. Non-infectious skin blotching.
-- **"head bare" → "hair shall hang loose"** (v45) — as in ch 10:6. Hebrew פָּרוּעַ *parua* = disheveled, untied.
+- **"And"** (throughout) — the Hebrew joins its clauses with וְ "and"; the chain is kept. The cases are built as the Hebrew builds them: the thing named first, then "when …", then "and behold".
+- **"leprosy" kept** (throughout) — Hebrew צָרַעַת. One word in this chapter and the next for a mark on human skin (v2–46), on cloth and leather (v47–59) and on the walls of a house (14:34–53): a scaly, spreading or mouldy outbreak that makes unclean. It is not the leprosy of modern medicine (Hansen's disease), and the verse names no disease; "leprosy" is the traditional English word for the Hebrew one and is kept as one word for all three. "Leper", "leprous" (v44, 45) are צָרוּעַ, of the same root.
+- **"plague" kept** (throughout) — Hebrew נֶגַע, literally "a touch, a stroke" (Gen 12:17). It also stands for the affected place or person: "shut up the plague" (v4, 31, 50), "the skin of the plague" (v12), "pronounce the plague clean" (v13, 17). Kept as the Hebrew has it.
+- **"When a man shall have" → "A man, when there is"** (v2) — Hebrew אָדָם, a human being, man or woman (v29, 38). **"the skin of his flesh"** — Hebrew עוֹר בְּשָׂרוֹ.
+- **"a rising, a scab, or bright spot" → "a swelling or a scab or a bright spot"** (v2) — Hebrew שְׂאֵת (literally "a rising"), סַפַּחַת, בַּהֶרֶת. What the first two looked like is uncertain. In v6–8 "scab" is מִסְפַּחַת, a form of the same root.
+- **"look on" → "see"** (throughout) — Hebrew רָאָה, one verb; "appear", "be shown" (v7, 14, 19, 49, 57) are its other stems.
+- **"in sight be deeper" → "the appearance … is deeper"** (v3, 4, 25, 30–34) — Hebrew מַרְאֶה "appearance" and עָמֹק "deep". **"lower than the skin"** (v20, 21, 26) is another word, שָׁפָל "low".
+- **"pronounce him unclean" / "pronounce him clean"** (throughout) — Hebrew טִמֵּא, טִהַר, literally "make unclean", "make clean": the priest's ruling.
+- **"shut up"** (v4, 5, 11, 21, 26, 31, 33, 50, 54) — Hebrew הִסְגִּיר, of סָגַר "shut".
+- **"the plague in his sight be at a stay" → "the plague has stood still in his eyes"** (v5, 37) — Hebrew עָמַד בְּעֵינָיו, "has stood in his eyes": the priest's eyes; it can also be read "in its appearance" (as v55). "Still" is supplied.
+- **"seven days more" → "seven days a second time"** (v5, 33, 54) — Hebrew שֵׁנִית.
+- **"be somewhat dark" → "has grown dim"; "be somewhat dark" → "is dim"** (v6, 21, 26, 28, 39, 56) — Hebrew כֵּהָה, the word used of dim eyes (Gen 27:1).
+- **"spread much abroad" → "surely spreads"; "break out abroad" → "surely breaks out"** (v7, 12, 22, 27, 35) — the infinitive absolute with its verb: literally "spreading it spreads", "breaking out it breaks out". So also "shall surely pronounce him unclean" (v44). "Break out" is פָּרַח "blossom".
+- **"after that he hath been seen of the priest" → "after his appearing to the priest"** (v7) — Hebrew הֵרָאֹתוֹ אֶל, as "appear to" in Gen 12:7.
+- **"quick raw flesh" → "a patch of raw flesh"** (v10); **"the quick flesh that burneth" → "the raw patch of the burn"** (v24) — Hebrew מִחְיַת בָּשָׂר חַי, מִחְיַת הַמִּכְוָה; מִחְיָה is of the root "live". **"raw flesh"** (v14–16) — Hebrew בָּשָׂר חַי, literally "living flesh".
+- **"wheresoever the priest looketh" → "as far as the eyes of the priest see"** (v12) — Hebrew לְכָל־מַרְאֵה עֵינֵי הַכֹּהֵן, "to all the sight of the eyes of the priest".
+- **"be changed unto white" → "is turned to white"** (v16, 17, 25) — Hebrew נֶהְפַּךְ, the passive of "turn" (v3, 4, 10, 13, 20).
+- **"The flesh also, in which, even in the skin thereof, was a boil" → "And flesh, when there is in it, in its skin, a boil"** (v18) — Hebrew שְׁחִין, as Exod 9:9.
+- **"white, and somewhat reddish" → "reddish-white"** (v19, 24, 42, 43) — Hebrew לְבָנָה אֲדַמְדָּמֶת, "white, reddish".
+- **"a burning boil" → "the scar of the boil"; "an inflammation of the burning" → "the scar of the burn"** (v23, 28) — Hebrew צָרֶבֶת, literally "a scorching": the mark left behind.
+- **"a hot burning" → "a burn of fire"** (v24) — Hebrew מִכְוַת־אֵשׁ.
+- **"a dry scall" → "a scall"** (v30–37) — Hebrew נֶתֶק, literally "a tearing off": a mark of the scalp or the beard. What it was is uncertain. "Dry" is not in the Hebrew. **"a yellow thin hair" → "thin yellow hair"** — Hebrew צָהֹב, a colour word found only in this chapter.
+- **"he shall be shaven" → "he shall shave himself"** (v33) — Hebrew וְהִתְגַּלָּח, reflexive.
+- **"shall not seek" → "shall not search"** (v36) — Hebrew לֹא־יְבַקֵּר, "look closely for".
+- **"black hair grown up therein" → "black hair has sprung up in it"** (v37) — Hebrew צָמַח.
+- **"a freckled spot" → "a rash"** (v39) — Hebrew בֹּהַק, found only here; the sense is uncertain: a pale outbreak that does not make unclean.
+- **"whose hair is fallen off his head" → "when his head is plucked bare"** (v40, 41) — Hebrew יִמָּרֵט רֹאשׁוֹ. **"forehead bald" → "bald in front"** (v41) — Hebrew גִּבֵּחַ; "from the side of his face" is מִפְּאַת פָּנָיו.
+- **"his clothes shall be rent, and his head bare" → "his garments shall be ripped, and his head shall be let loose"** (v45) — Hebrew פְרֻמִים and פָרוּעַ, as 10:6. Whether the hair is let hang loose and untended or the head is bared is not decided by the word. **"put a covering upon his upper lip" → "cover over his moustache"** — Hebrew עַל־שָׂפָם יַעְטֶה; שָׂפָם is the hair of the upper lip.
+- **"without the camp shall his habitation be" → "outside the camp is his dwelling place"** (v46) — Hebrew מוֹשָׁבוֹ, of יָשַׁב "dwell".
+- **"woollen … linen"** (v47, 48, 52, 59) — Hebrew צֶמֶר "wool" and פִּשְׁתִּים "flax". **"warp, or woof"** (v48–59) — Hebrew שְׁתִי, עֵרֶב: the two sets of threads in woven cloth.
+- **"any thing made of skin" → "any work of skin"** (v48); **"any thing of skin" → "any article of skin"** (v49, 52, 53, 57–59) — Hebrew מְלֶאכֶת עוֹר and כְּלִי־עוֹר; כְּלִי is any made thing.
+- **"a fretting leprosy" → "a malignant leprosy"** (v51, 52) — Hebrew מַמְאֶרֶת; the sense is uncertain (in Ezek 28:24 the same form is said of a pricking brier).
+- **"it is fret inward, whether it be bare within or without" → "it is a hollow, on its back or on its front"** (v55) — Hebrew פְּחֶתֶת הִוא בְּקָרַחְתּוֹ אוֹ בְגַבַּחְתּוֹ. פְּחֶתֶת is found only here (from פַּחַת "pit": a place eaten in). The last words are literally "on its bald head or on its bald forehead", the words of v42, 43, used of cloth; they are taken to mean its back and its front side, but this is uncertain. **"changed his colour" → "changed its appearance"** — Hebrew עֵינוֹ, literally "its eye".
+- **"it is a spreading plague" → "it is breaking out"** (v57) — Hebrew פֹּרַחַת הִוא, as v42.
+- **"the law" → "the torah"** (v59) — Hebrew תּוֹרַת, the instruction for one matter.
 
 ### Notes
-- **Not modern leprosy** — Hansen's disease (*Mycobacterium leprae*) is described differently and probably entered the Levant only in the Hellenistic period. *Tsara'at* is a ritual category for abnormal skin/fabric/wall surfaces; LXX translated it *lepra*, which gave us "leprosy" — but this is an ancient mistranslation carried forward.
-- **Priest as diagnostician** — not a physician, but a ritual inspector. His pronouncement (clean/unclean) has juridical-ritual force, not medical.
-- **"Unclean, unclean!"** (v45) — public self-announcement. The afflicted person must warn others of approach. Mirrored in NT Jesus' encounters (Mk 1:40–45, Lk 17:11–19).
-- **Paradox of total coverage** (v13) — if *tsara'at* covers the entire body, person is clean. Perhaps the disease has run its course, reached terminus; perhaps the rule distinguishes active eruption (with raw flesh) from a fully white / arrested condition.
-- **Infected garments/buildings** — *tsara'at* of fabric and walls (cf. ch 14:33–57) likely corresponds to mildew, fungal growth, dry rot. Same ritual language applied to non-human entities.
+- **Not modern leprosy** — Hansen's disease (*Mycobacterium leprae*) is described differently. *Tsara'at* is a ritual category for abnormal surfaces of skin, cloth and walls; the Greek *lepra* (Mark 1:42) gave us "leprosy".
+- **Priest as examiner** — not a physician, but a ritual inspector. His pronouncement (clean/unclean) has juridical-ritual force, not medical.
+- **"Unclean, unclean!"** (v45) — public self-announcement. Mirrored in the NT encounters (Mk 1:40–45, Lk 17:11–19).
+- **Paradox of total coverage** (v13) — if *tsara'at* covers the entire body and all has turned white, the person is clean; raw flesh makes unclean (v14).
+- **Garments** — *tsara'at* of cloth and leather (cf. ch 14:33–57 of houses) is commonly taken for mildew or mould. The same ritual language is applied to things.

@@ -1,134 +1,173 @@
 # Leviticus 25
 
-[1] ⟦yhwh|Yahweh|The LORD⟧ spoke to ⟦moses|Moshe|Moses⟧ on Mount Sinai, saying,
+[1] And ⟦yhwh|Yahweh|the LORD⟧ spoke to ⟦moses|Moshe|Moses⟧ on Mount Sinai, saying,
 
-[2] "Speak to the children of ⟦israel|Yisrael|Israel⟧ and say to them: 'When you come into the land which I give you, then the land shall keep a ⟦shabbat|Shabbat|Sabbath⟧ to ⟦yhwh|Yahweh|the LORD⟧.
+[2] "Speak to the sons of ⟦israel|Yisrael|Israel⟧ and say to them: 'When you come into the land that I am giving you, then the land shall cease, a ⟦shabbat|Shabbat|Sabbath⟧ to ⟦yhwh|Yahweh|the LORD⟧.
 
-[3] Six years you shall sow your field, and six years you shall prune your vineyard and gather its produce;
+[3] Six years you shall sow your field, and six years you shall prune your vineyard, and you shall gather its yield.
 
-[4] but in the seventh year there shall be a ⟦shabbat|Shabbat|Sabbath⟧ of solemn rest for the land, a ⟦shabbat|Shabbat|Sabbath⟧ to ⟦yhwh|Yahweh|the LORD⟧. You shall not sow your field or prune your vineyard.
+[4] And in the seventh year there shall be a ⟦shabbat|Shabbat|Sabbath⟧ of ⟦shabbat|shabbaton|Sabbath rest⟧ for the land, a ⟦shabbat|Shabbat|Sabbath⟧ to ⟦yhwh|Yahweh|the LORD⟧; your field you shall not sow, and your vineyard you shall not prune.
 
-[5] What grows of itself from your harvest you shall not reap, and the grapes of your untended vine you shall not gather; it shall be a year of solemn rest for the land.
+[5] The aftergrowth of your harvest you shall not reap, and the grapes of your untrimmed vine you shall not pick; a year of ⟦shabbat|shabbaton|Sabbath rest⟧ it shall be for the land.
 
-[6] The ⟦shabbat|Shabbat|Sabbath⟧ of the land shall be food for you, for your male and female slaves, for your hired worker, and for the foreigner who sojourns with you;
+[6] And the ⟦shabbat|Shabbat|Sabbath⟧ of the land shall be for you for food: for you and for your slave and for your slave woman, and for your hired man and for your settler who sojourn with you,
 
-[7] for your cattle and for the wild animals in your land — all its produce shall be food.
+[7] and for your beasts and for the living things that are in your land shall all its yield be, to eat.
 
-[8] You shall count for yourself seven ⟦shabbat|Shabbatot|Sabbaths⟧ of years, seven times seven years, and the period of the seven ⟦shabbat|Shabbatot|Sabbaths⟧ of years shall be forty-nine years for you.
+[8] And you shall number for yourself seven ⟦shabbat|Shabbatot|Sabbaths⟧ of years, seven years seven times; and the days of the seven ⟦shabbat|Shabbatot|Sabbaths⟧ of years shall be for you forty-nine years.
 
-[9] Then you shall sound the ram's horn blast on the tenth day of the seventh month; on the Day of Atonement you shall sound the horn throughout all your land.
+[9] And you shall make ⟦shofar|a shofar|a trumpet⟧ of a blast pass through in the seventh month, on the tenth of the month; on the day of atonement you shall make ⟦shofar|a shofar|a trumpet⟧ pass through in all your land.
 
-[10] You shall consecrate the fiftieth year and proclaim liberty throughout the land to all its inhabitants; it shall be a jubilee for you. Each of you shall return to his possession, and each of you shall return to his family.
+[10] And you shall sanctify the fiftieth year, and you shall proclaim liberty in the land to all who dwell in it. A jubilee it is; it shall be for you; and you shall return, each man to his possession, and each man to his clan you shall return.
 
-[11] The fiftieth year shall be a jubilee for you; you shall not sow, nor reap what grows of itself, nor gather from the untended vines.
+[11] A jubilee it is, the fiftieth year; it shall be for you. You shall not sow, and you shall not reap its aftergrowth, and you shall not pick its untrimmed vines.
 
-[12] For it is the jubilee; it shall be holy to you. You shall eat its produce directly from the field.
+[12] For it is a jubilee; holy it shall be for you; from the field you shall eat its yield.
 
-[13] In this year of jubilee each of you shall return to his possession.
+[13] In this year of the jubilee you shall return, each man to his possession.
 
-[14] If you sell something to your neighbor, or buy from your neighbor's hand, you shall not oppress one another.
+[14] And when you sell a sale to your fellow, or buy from the hand of your fellow, do not wrong, each man his brother.
 
-[15] According to the number of years after the jubilee you shall buy from your neighbor, and according to the number of years of harvests he shall sell to you.
+[15] By the number of years after the jubilee you shall buy from your fellow; by the number of years of yields he shall sell to you.
 
-[16] The more years remaining, the higher the price; and the fewer years remaining, the lower the price; for what he is selling you is a number of harvests.
+[16] According to the multitude of the years you shall increase its purchase price, and according to the fewness of the years you shall lessen its purchase price; for a number of yields is what he is selling to you.
 
-[17] You shall not oppress one another, but you shall fear your ⟦elohim|Elohim|God⟧; for I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
+[17] And you shall not wrong, each man his fellow, and you shall fear your ⟦elohim|Elohim|God⟧; for I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.
 
-[18] You shall do my statutes, keep my ordinances, and perform them; and you shall dwell in the land in safety.
+[18] And you shall do my statutes, and my ordinances you shall keep and do them; and you shall dwell on the land in security.
 
-[19] The land will yield its fruit, and you shall eat your fill and dwell in it in safety.
+[19] And the land shall give its fruit, and you shall eat to the full, and you shall dwell in security on it.
 
-[20] If you say, "What shall we eat in the seventh year, since we shall not sow or gather in our produce?" —
+[20] And when you say, "What shall we eat in the seventh year? Behold, we shall not sow, and we shall not gather our yield,"
 
-[21] I will command my blessing upon you in the sixth year, and it shall bring forth enough produce for three years.
+[21] then I will command my blessing for you in the sixth year, and it shall make the yield for the three years.
 
-[22] You shall sow in the eighth year, and eat from the old produce until the ninth year; until its produce comes in, you shall eat the old.
+[22] And you shall sow the eighth year, and you shall eat from the yield, the old; until the ninth year, until its yield comes in, you shall eat the old.
 
-[23] The land shall not be sold in perpetuity, for the land is mine; for you are foreigners and sojourners with me.
+[23] And the land shall not be sold in perpetuity, for the land is mine; for you are sojourners and settlers with me.
 
-[24] In all the land of your possession you shall grant a right of redemption for the land.
+[24] And in all the land of your possession you shall give redemption for the land.
 
-[25] If your brother becomes poor and sells part of his possession, then his nearest kinsman-redeemer shall come and redeem what his brother has sold.
+[25] When your brother becomes poor and sells from his possession, then his redeemer who is nearest to him shall come and redeem the sale of his brother.
 
-[26] If a man has no one to redeem it, but prospers and finds enough to redeem it himself,
+[26] And a man, when he has no redeemer, and his hand attains and he finds enough for his redemption,
 
-[27] then let him count the years since its sale and refund the balance to the man to whom he sold it, and return to his possession.
+[27] then he shall reckon the years of his sale and return the surplus to the man to whom he sold, and he shall return to his possession.
 
-[28] But if he is unable to repay, then what he has sold shall remain in the hand of the buyer until the year of jubilee; in the jubilee it shall be released, and he shall return to his possession.
+[28] And if his hand has not found enough to return to him, then his sale shall be in the hand of him who bought it until the year of the jubilee; and it shall go out in the jubilee, and he shall return to his possession.
 
-[29] If a man sells a dwelling house in a walled city, he may redeem it within a whole year after it is sold; for a full year he shall have the right of redemption.
+[29] And a man, when he sells a dwelling house of a walled city, then its redemption shall be until the end of the year of its sale; for a year shall its redemption be.
 
-[30] If it is not redeemed within the space of a full year, then the house in the walled city shall belong permanently to the buyer throughout his generations; it shall not be released in the jubilee.
+[30] And if it is not redeemed until a whole year is full for it, then the house that is in the city that has a wall shall be made sure in perpetuity to him who bought it, for his generations; it shall not go out in the jubilee.
 
-[31] But the houses of villages that have no wall around them shall be counted as the open fields; they may be redeemed, and they shall be released in the jubilee.
+[31] And the houses of the villages that have no wall around them shall be reckoned with the field of the land; there shall be redemption for it, and in the jubilee it shall go out.
 
-[32] As for the cities of the ⟦levites|Leviyim|Levites⟧ and the houses in the cities of their possession — the ⟦levites|Leviyim|Levites⟧ shall have a perpetual right of redemption.
+[32] And the cities of the ⟦levites|Leviyim|Levites⟧, the houses of the cities of their possession: an everlasting redemption shall there be for the ⟦levites|Leviyim|Levites⟧.
 
-[33] If one of the ⟦levites|Leviyim|Levites⟧ does not redeem, then the house that was sold in a city of his possession shall be released in the year of jubilee; for the houses of the cities of the ⟦levites|Leviyim|Levites⟧ are their possession among the children of ⟦israel|Yisrael|Israel⟧.
+[33] And whoever redeems from among the ⟦levites|Leviyim|Levites⟧, the sale of a house and the city of his possession shall go out in the jubilee; for the houses of the cities of the ⟦levites|Leviyim|Levites⟧, that is their possession in the midst of the sons of ⟦israel|Yisrael|Israel⟧.
 
-[34] But the pasture fields of their cities shall not be sold, for they are their perpetual possession.
+[34] And the field of the pasture land of their cities shall not be sold, for it is an everlasting possession for them.
 
-[35] If your brother becomes poor and cannot support himself with you, then you shall uphold him, as a foreigner and sojourner; he shall live with you.
+[35] And when your brother becomes poor and his hand wavers with you, then you shall hold him fast — sojourner and settler — and he shall live with you.
 
-[36] Take no interest or profit from him, but fear your ⟦elohim|Elohim|God⟧, that your brother may live with you.
+[36] Do not take from him interest or increase, and you shall fear your ⟦elohim|Elohim|God⟧; and your brother shall live with you.
 
-[37] You shall not lend him your money at interest, nor give him your food for profit.
+[37] Your silver you shall not give him at interest, and for increase you shall not give your food.
 
-[38] I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ who brought you out of the land of ⟦egypt|Mitzrayim|Egypt⟧ to give you the land of ⟦canaan|Kenaan|Canaan⟧, to be your ⟦elohim|Elohim|God⟧.
+[38] I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧, who brought you out from the land of ⟦egypt|Mitzrayim|Egypt⟧, to give you the land of ⟦canaan|Kenaan|Canaan⟧, to be ⟦elohim|Elohim|God⟧ to you.
 
-[39] If your brother with you becomes poor and sells himself to you, you shall not make him serve as a slave.
+[39] And when your brother becomes poor with you and is sold to you, you shall not make him serve the service of a slave.
 
-[40] As a hired worker and as a sojourner he shall be with you, and shall serve with you until the year of jubilee.
+[40] As a hired man, as a settler he shall be with you; until the year of the jubilee he shall serve with you.
 
-[41] Then he shall depart from you — he and his children with him — and return to his own family, and to the possession of his ancestors he shall return.
+[41] And he shall go out from you, he and his sons with him, and he shall return to his clan, and to the possession of his fathers he shall return.
 
-[42] For they are my servants, whom I brought out of the land of ⟦egypt|Mitzrayim|Egypt⟧; they shall not be sold as slaves are sold.
+[42] For they are my slaves, whom I brought out from the land of ⟦egypt|Mitzrayim|Egypt⟧; they shall not be sold with the sale of a slave.
 
-[43] You shall not rule over him with harshness, but shall fear your ⟦elohim|Elohim|God⟧.
+[43] You shall not have dominion over him with harshness, and you shall fear your ⟦elohim|Elohim|God⟧.
 
-[44] As for your male and female slaves whom you may have — from the nations around you, from them you may buy male and female slaves.
+[44] And your slave and your slave woman whom you shall have: from the nations that are around you, from them you shall buy slave and slave woman.
 
-[45] Moreover, from among the children of the sojourners who dwell with you, and from their clans that are with you, whom they have fathered in your land, from these you may buy; and they shall be your possession.
+[45] And also from the sons of the settlers who sojourn with you, from them you shall buy, and from their clan that is with you, whom they have begotten in your land; and they shall be yours for a possession.
 
-[46] You shall leave them as an inheritance to your children after you, to inherit them as a possession; from them you may take your slaves permanently. But as for your brothers, the children of ⟦israel|Yisrael|Israel⟧, no one shall rule over another with harshness.
+[46] And you shall make them an inheritance for your sons after you, to possess as a possession; forever you shall make them serve. And over your brothers, the sons of ⟦israel|Yisrael|Israel⟧, each man over his brother, you shall not have dominion over him with harshness.
 
-[47] If a sojourner or foreigner with you prospers, and your brother with him becomes poor, and sells himself to the sojourner or foreigner with you, or to a member of the sojourner's clan,
+[47] And when the hand of a sojourner and settler with you attains, and your brother becomes poor with him and is sold to a sojourner, a settler with you, or to an offshoot of the clan of a sojourner,
 
-[48] after he is sold he may be redeemed; one of his brothers may redeem him,
+[48] after he is sold there shall be redemption for him; one of his brothers shall redeem him,
 
-[49] or his uncle or his uncle's son may redeem him, or any close relative of his family may redeem him; or if he prospers he may redeem himself.
+[49] or his uncle or the son of his uncle shall redeem him, or one of the near kin of his flesh, of his clan, shall redeem him; or his hand has attained, and he shall be redeemed.
 
-[50] He shall reckon with his buyer from the year he sold himself to him until the year of jubilee; and the price of his sale shall be according to the number of years, as the time of a hired worker shall it be with him.
+[50] And he shall reckon with him who bought him, from the year he was sold to him until the year of the jubilee; and the silver of his sale shall be by the number of years; as the days of a hired man he shall be with him.
 
-[51] If there are many years remaining, in proportion to them he shall refund the price of his redemption from the money for which he was bought;
+[51] If there are still many in years, according to them he shall return his redemption out of the silver of his purchase.
 
-[52] if only a few years remain until the year of jubilee, then he shall reckon with him; according to those years he shall refund his redemption price.
+[52] And if few remain in years until the year of the jubilee, then he shall reckon for him; according to his years he shall return his redemption.
 
-[53] He shall be with him as a hired worker year by year; the other shall not rule over him with harshness in your sight.
+[53] As a hired man year by year he shall be with him; he shall not have dominion over him with harshness before your eyes.
 
-[54] If he is not redeemed by these means, then he shall be released in the year of jubilee, he and his children with him.
+[54] And if he is not redeemed by these, then he shall go out in the year of the jubilee, he and his sons with him.
 
-[55] For the children of ⟦israel|Yisrael|Israel⟧ are servants to me; they are my servants, whom I brought out of the land of ⟦egypt|Mitzrayim|Egypt⟧. I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.'"
+[55] For to me the sons of ⟦israel|Yisrael|Israel⟧ are slaves; they are my slaves, whom I brought out from the land of ⟦egypt|Mitzrayim|Egypt⟧. I am ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧.'"
 
 ## Changes
 
-- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
-- **"usury" → "interest"** (v36, 37) — Hebrew נֶשֶׁךְ *neshekh* / תַּרְבִּית *tarbit*. Interest-taking from fellow Israelites prohibited.
-- **"waxen poor" → "becomes poor"** (v25, 35, 39, 47) — archaic *wax* = grow.
-- **"overplus" → "balance"** (v27) — archaic.
-- **"bondmen / bondmaids / bondservant" → "slaves / male and female slaves"** (v39–46) — modernized.
-- **"rigour" → "harshness"** (v43, 46, 53) — Hebrew פֶּרֶךְ *perekh* — same word used for Egyptian oppression in Ex 1:13.
-- **"kin / kinsman" → "kinsman-redeemer"** (v25, 49) — Hebrew גֹּאֵל *go'el*. Legally defined family-redeemer; key institution.
-- **"stranger" (v35, 44–45, 47) → "foreigner / sojourner"** — Hebrew *ger* / *toshav*.
-- **"heathen" → "nations"** (v44) — Hebrew גּוֹיִם *goyim*.
+- **"LORD" → "Yahweh"**, **"God" → "*Elohim*"** (throughout) — the Hebrew names kept.
+- **"And"** (throughout) — the Hebrew joins its clauses with וְ "and"; the chain is kept. **"children of Israel" → "sons of Israel"** (v2, 33, 46, 55) — Hebrew בְּנֵי. So "his sons" (v41, 54), "your sons" (v46).
+- **"then shall the land keep a sabbath" → "then the land shall cease, a Shabbat"** (v2) — Hebrew וְשָׁבְתָה הָאָרֶץ שַׁבָּת: the verb שָׁבַת "cease" with its own noun as object, literally "the land shall cease a ceasing". "Rest" is another root.
+- **"fruit" → "yield"** (v3, 7, 12, 15, 16, 20, 21, 22) — Hebrew תְּבוּאָה "what comes in"; "fruit" (v19) is פְּרִי.
+- **"a sabbath of rest" → "a Shabbat of shabbaton"** (v4, 5) — Hebrew שַׁבַּת שַׁבָּתוֹן, as Exod 31:15: שַׁבָּתוֹן is a second noun from שָׁבַת "cease", a Shabbat-keeping.
+- **"That which groweth of its own accord" → "The aftergrowth"** (v5, 11) — Hebrew סָפִיחַ, what springs up from spilled seed. **"thy vine undressed" → "your untrimmed vine"** — Hebrew נְזִירֶךָ, literally "your Nazirite": the vine left uncut like the hair of one set apart (Num 6:5). **"gather" → "pick"** — Hebrew בָּצַר "cut off grapes"; "gather" (v3, 20) is אָסַף.
+- **"for thy servant, and for thy maid, and for thy hired servant, and for thy stranger" → "for your slave and for your slave woman, and for your hired man and for your settler"** (v6) — Hebrew עֶבֶד, אָמָה, שָׂכִיר, תּוֹשָׁב, one English word each in the whole chapter; גֵּר is "sojourner" (v23, 35, 47), and "who sojourn" is its verb גּוּר, plural here. "For you" changes from plural to singular in the Hebrew.
+- **"cattle … the beast" → "your beasts … the living things"** (v7) — Hebrew בְּהֵמָה and חַיָּה, both collective singulars.
+- **"seven sabbaths of years … the space of" → "seven Shabbats of years … the days of"** (v8) — Hebrew יְמֵי "the days of". "Number" is סָפַר.
+- **"cause the trumpet of the jubile to sound" → "make a shofar of a blast pass through"** (v9) — Hebrew וְהַעֲבַרְתָּ שׁוֹפַר תְּרוּעָה: the hifil of עָבַר "pass over, pass through", and תְּרוּעָה, literally "a shouting" (the cry of a people, Josh 6:5), here said of the horn: its loud blast, as Num 10:5–9. The word "jubilee" is not in this verse. **"the day of atonement"** — Hebrew יוֹם הַכִּפֻּרִים, a plural noun, "the day of the atonements".
+- **"hallow the fiftieth year" → "sanctify the fiftieth year"** (v10, 11) — Hebrew שְׁנַת הַחֲמִשִּׁים שָׁנָה, literally "the year of the fifty years".
+- **"proclaim liberty throughout all the land unto all the inhabitants thereof" → "proclaim liberty in the land to all who dwell in it"** (v10) — Hebrew בָּאָרֶץ "in the land". דְּרוֹר is "a flowing free, release" (Isa 61:1; Jer 34:8; the "flowing" myrrh of Exod 30:23); another word than חָפְשִׁי "free" (Exod 21:2).
+- **"jubile" → "jubilee"** (v10–54) — Hebrew יוֹבֵל *yovel*, the word rendered "ram's horn" in Exod 19:13 and Josh 6:5: the year is named after the horn that announces it (v9, though the horn is there called שׁוֹפָר). The English word comes from the Hebrew through the Latin; the Septuagint renders it "release" (from memory). That the name means "ram" is the usual view, not certain.
+- **"every man unto his family" → "each man to his clan"** (v10, 41) — Hebrew מִשְׁפָּחָה, the kin group between the tribe and the father's house.
+- **"it shall be holy unto you"** (v12) — Hebrew קֹדֶשׁ, the noun "holiness". "Its" (v11, 12) is feminine: the year, or the land.
+- **"if thou sell ought unto thy neighbour" → "when you sell a sale to your fellow"** (v14, 15, 17) — Hebrew תִמְכְּרוּ מִמְכָּר, verb and noun of one root; "you" is plural, "your fellow" singular. עָמִית is not רֵעַ "neighbor": a fellow member of one's people. So מִמְכָּר is "sale" throughout (v25, 27, 28, 29, 33, 50): the thing sold or the selling.
+- **"ye shall not oppress one another" → "do not wrong, each man his brother"** (v14, 17) — Hebrew הוֹנָה "wrong, overreach" (Exod 22:21), not "oppress"; אִישׁ אֶת־אָחִיו "a man his brother", v17 "his fellow".
+- **"the price thereof" → "its purchase price"** (v16) — Hebrew מִקְנָתוֹ "its purchase"; "price" is supplied. So v51 "the silver of his purchase".
+- **"fear thy God"** (v17, 36, 43) — Hebrew יָרֵאתָ מֵאֱלֹהֶיךָ, literally "be afraid from your Elohim".
+- **"judgments" → "ordinances"** (v18) — Hebrew מִשְׁפָּטִים, the "judgment" word, here of rulings to be kept. **"in safety" → "in security"** (v18, 19) — Hebrew לָבֶטַח.
+- **"it shall bring forth fruit for three years" → "it shall make the yield for the three years"** (v21) — Hebrew וְעָשָׂת "make", with the article on "three years".
+- **"eat yet of old fruit" → "eat from the yield, the old"** (v22) — Hebrew יָשָׁן "old" stands alone, twice.
+- **"for ever" → "in perpetuity"** (v23, 30) — Hebrew לִצְמִתֻת, a word found only here, literally "to a putting to silence, to finality": a sale with no way back. לְעֹלָם "forever" is in v46.
+- **"strangers and sojourners" → "sojourners and settlers"** (v23, 35, 47) — Hebrew גֵּרִים וְתוֹשָׁבִים.
+- **"grant a redemption"** (v24) — Hebrew גְּאֻלָּה תִּתְּנוּ "give redemption". גָּאַל "redeem", גֹּאֵל "redeemer", גְּאֻלָּה "redemption" are one root through the chapter (v24–33, 48–54): the right and the act of buying back, and the price (v26, 51, 52).
+- **"be waxen poor" → "becomes poor"** (v25, 35, 39, 47) — Hebrew מוּךְ, "sink, be brought low", a verb found only in this chapter and 27:8.
+- **"if any of his kin come to redeem it" → "his redeemer who is nearest to him shall come and redeem"** (v25) — Hebrew גֹּאֲלוֹ הַקָּרֹב אֵלָיו. "Kinsman" is not in the word.
+- **"himself be able to redeem it" → "his hand attains and he finds enough for his redemption"** (v26, 47, 49) — Hebrew הִשִּׂיגָה יָדוֹ, "his hand reaches, overtakes" (= he gains the means); v28 "his hand has not found". "His redemption" may also be "its redemption".
+- **"count … restore the overplus" → "reckon … return the surplus"** (v27, 50, 52) — Hebrew חִשַּׁב, הֵשִׁיב.
+- **"it shall go out"** (v28, 30, 31, 33; of a man v41, 54) — Hebrew יָצָא "go out": the sold thing leaves the buyer's hand. "Released" is not in the Hebrew.
+- **"within a whole year after it is sold; within a full year may he redeem it" → "until the end of the year of its sale; for a year shall its redemption be"** (v29) — the second clause is literally "days shall its redemption be": יָמִים "days" is used for a year (Judg 17:10; 1 Sam 27:7), as v30 shows.
+- **"the house that is in the walled city shall be established for ever" → "the house that is in the city that has a wall shall be made sure in perpetuity"** (v30) — the written text has לא "not" ("the city that has no wall"); the reading tradition has לוֹ "to it", which the context requires. קָם לְ is literally "rise, stand for" (Gen 23:17, 20). "A whole year" is שָׁנָה תְמִימָה.
+- **"they may be redeemed, and they shall go out" → "there shall be redemption for it, and … it shall go out"** (v31) — the Hebrew is singular. "Villages" is חֲצֵרִים, unwalled settlements.
+- **"may the Levites redeem at any time" → "an everlasting redemption shall there be for the Levites"** (v32) — Hebrew גְּאֻלַּת עוֹלָם, literally "a redemption of the age".
+- **"And if a man purchase of the Levites" → "And whoever redeems from among the Levites"** (v33) — Hebrew וַאֲשֶׁר יִגְאַל מִן־הַלְוִיִּם: either "whoever of the Levites redeems" or "whoever redeems (buys) from the Levites". The verse before this revision said "does not redeem": the "not" is the Vulgate's (from memory), not the Hebrew's. "The sale of a house and the city of his possession" is word for word; the sense is probably "the sold house in the city of his possession".
+- **"the field of the suburbs" → "the field of the pasture land"** (v34) — Hebrew מִגְרָשׁ, the open land round a city.
+- **"fallen in decay with thee; then thou shalt relieve him: yea, though he be a stranger, or a sojourner; that he may live with thee" → "his hand wavers with you, then you shall hold him fast — sojourner and settler — and he shall live with you"** (v35) — Hebrew וּמָטָה יָדוֹ "his hand totters"; וְהֶחֱזַקְתָּ בּוֹ "take a strong hold of him". גֵּר וְתוֹשָׁב stands with no joining word: "as a sojourner and settler he shall live with you", or "(even) a sojourner and settler"; the verse leaves it open.
+- **"usury … increase" → "interest … increase"** (v36, 37) — Hebrew נֶשֶׁךְ, literally "a bite"; תַּרְבִּית / מַרְבִּית from רָבָה "become many". **"money" → "silver"** (v37, 50, 51) — Hebrew כֶּסֶף.
+- **"to be your God" → "to be Elohim to you"** (v38) — Hebrew לִהְיוֹת לָכֶם לֵאלֹהִים.
+- **"be sold unto thee; thou shalt not compel him to serve as a bondservant" → "is sold to you, you shall not make him serve the service of a slave"** (v39) — Hebrew נִמְכַּר, a nifal: "is sold" or "sells himself" (so v42, 47, 48, 50). לֹא־תַעֲבֹד בּוֹ עֲבֹדַת עָבֶד is literally "you shall not serve through him the service of a slave"; so v46.
+- **"my servants … as bondmen" → "my slaves … with the sale of a slave"** (v42, 55) — Hebrew עֲבָדַי and עָבֶד: one word. Elsewhere עֶבֶד of Yahweh's men is "servant"; here the reason given is that they are his slaves and so cannot be another's, and the one word has to stay one.
+- **"rule over him with rigour" → "have dominion over him with harshness"** (v43, 46, 53) — Hebrew רָדָה (Gen 1:26) and פֶּרֶךְ, the word of Exod 1:13, 14.
+- **"the heathen" → "the nations"** (v44) — Hebrew גּוֹיִם. **"bondmen and bondmaids" → "slave and slave woman"** — singular in the Hebrew.
+- **"the children of the strangers that do sojourn among you … their families … which they begat" → "the sons of the settlers who sojourn with you … their clan … whom they have begotten"** (v45) — word for word.
+- **"take them as an inheritance for your children after you, to inherit them for a possession; they shall be your bondmen for ever" → "make them an inheritance for your sons after you, to possess as a possession; forever you shall make them serve"** (v46) — Hebrew הִתְנַחֵל, לָרֶשֶׁת אֲחֻזָּה, לְעֹלָם בָּהֶם תַּעֲבֹדוּ. The last clause of the verse changes from plural to singular, and "over him" repeats the object.
+- **"the stock of the stranger's family" → "an offshoot of the clan of a sojourner"** (v47) — Hebrew עֵקֶר, found only here; the meaning is uncertain (from a root "root": a descendant, or one transplanted). "A sojourner, a settler" is גֵּר תּוֹשָׁב without "and".
+- **"any that is nigh of kin unto him of his family" → "one of the near kin of his flesh, of his clan"** (v49) — Hebrew מִשְּׁאֵר בְּשָׂרוֹ: שְׁאֵר is "flesh", then "blood relation" (18:6); בָּשָׂר "flesh". **"if he be able, he may redeem himself" → "his hand has attained, and he shall be redeemed"** — a nifal, with no "himself".
+- **"according to the time of an hired servant" → "as the days of a hired man"** (v50) — Hebrew כִּימֵי שָׂכִיר.
+- **"in thy sight" → "before your eyes"** (v53) — Hebrew לְעֵינֶיךָ.
 
 ### Notes
-- **Sabbatical year** (v1–7) — every seventh year, the land rests; food grown without cultivation is shared by all (owner, workers, sojourners, animals). Agricultural rest and anti-accumulation measure.
-- **Jubilee year** (v8–55) — every fiftieth year, universal release: land reverts to original families, debt-slaves go free, houses return. Economic reset keyed to Yom Kippur. Combats concentration of land-wealth over generations.
-- **Theological rationale** — "the land is mine" (v23). Israelites are tenants; ownership ultimately belongs to Yahweh. Human "ownership" is leasehold, bounded by the jubilee release.
-- **Kinsman-redeemer institution** (v25–49) — basis for Ruth (Boaz redeems Naomi's land and marries Ruth), and typologically Christ's role as redeemer.
-- **Walled city vs. village houses** (v29–31) — urban houses are treated as property (permanent sale allowed after a year); village/rural houses, tied to agricultural land, return at jubilee.
-- **Israelite vs. foreign slaves** — harsh asymmetry: Israelites go free every seven years and at jubilee; foreigners may be perpetual slaves (v44–46). The text reflects ancient Near Eastern slavery conventions; the abolitionist reading emphasizes the rhetorical "you were slaves in Egypt" principle extended in later revelation (cf. Philemon).
-- **Jesus and Isa 61** — Lk 4:18–19 opens his ministry quoting Isa 61, which itself echoes Leviticus 25's "proclaim liberty." The jubilee becomes eschatological.
-- **Liberty Bell inscription** — "Proclaim liberty throughout the land" (v10) is inscribed on the Liberty Bell.
+
+- **The seventh year** (v1–7) — the land ceases; what grows of itself is food for all alike (Exod 23:10–11).
+- **The fiftieth year** (v8–55) — land returns to the clan that held it and the sold Israelite goes out. It begins on the day of atonement (16:29–34).
+- **"The land is mine"** (v23) — the ground of the whole law: Israel are sojourners and settlers with Yahweh, and what is sold is a number of yields (v16).
+- **The redeemer** (v25–26, 48–49) — the nearest of kin, who buys back what was sold; the law behind Ruth 3–4 and Jer 32:6–12.
+- **Houses** (v29–34) — a house in a walled city can be sold in perpetuity after a year; village houses and the houses of the Levites cannot.
+- **Israelite and foreign slaves** (v39–46) — the Israelite is not to serve as a slave, because he is Yahweh's slave (v42, 55); slaves bought from the nations and the settlers are held forever. Exod 21:2 and Deut 15:12 set the Hebrew slave free in the seventh year.
+- **"Proclaim liberty"** (v10) — taken up in Isa 61:1 (read by Jesus, Luke 4:18–19) and Jer 34:8–17.

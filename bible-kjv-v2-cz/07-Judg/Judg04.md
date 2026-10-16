@@ -1,68 +1,87 @@
 # Soudců 4
 
-[1] Po ⟦ehud|Ehudově|Ehúdově⟧ smrti synové ⟦israel|Jisraele|Izraele⟧ opět činili to, co je zlé v očích ⟦yhwh|Jahveho|Hospodina⟧.
+[1] A synové ⟦israel|Jisraele|Izraele⟧ znovu činili to, co je zlé v očích ⟦yhwh|Jahveho|Hospodina⟧; a ⟦ehud|Ehud|Ehúd⟧ byl mrtev.
 
-[2] ⟦yhwh|Jahve|Hospodin⟧ je tedy prodal do ruky ⟦jabin|Javina|Jabína⟧, krále Kenaanu, který kraloval v ⟦hazor|Chacoru|Chasóru⟧; velitelem jeho vojska byl ⟦sisera|Sisera|Sísera⟧, který sídlil v ⟦harosheth-hagoyim|Charošet HaGojim|Charóšet-gójim⟧.
+[2] A ⟦yhwh|Jahve|Hospodin⟧ je prodal do ruky ⟦jabin|Javina|Jabína⟧, krále Kenaanu, který kraloval v ⟦hazor|Chacoru|Chasóru⟧; a velitelem jeho vojska byl ⟦sisera|Sisera|Sísera⟧ a ten bydlel v ⟦harosheth-hagoyim|Charošet HaGojim|Charóšet-gójim⟧.
 
-[3] Synové ⟦israel|Jisraele|Izraele⟧ volali k ⟦yhwh|Jahvovi|Hospodinu⟧, neboť ⟦sisera|Sisera|Sísera⟧ měl devět set železných vozů a dvacet let tvrdě utlačoval syny ⟦israel|Jisraele|Izraele⟧.
+[3] A synové ⟦israel|Jisraele|Izraele⟧ křičeli k ⟦yhwh|Jahvovi|Hospodinu⟧, neboť měl devět set železných vozů a on utlačoval syny ⟦israel|Jisraele|Izraele⟧ silou dvacet let.
 
-[4] V té době soudila ⟦israel|Jisrael|Izrael⟧ ⟦deborah|Devora|Debora⟧, prorokyně, žena ⟦lappidoth|Lappidotova|Lapidótova⟧.
+[4] A ⟦deborah|Devora|Debora⟧, žena, prorokyně, žena ⟦lappidoth|Lappidotova|Lapidótova⟧, ta soudila ⟦israel|Jisrael|Izrael⟧ v onen čas.
 
-[5] Sedávala pod ⟦deborah|Devořinou|Debořinou⟧ palmou mezi ⟦ramah|Ramou|Rámou⟧ a ⟦bethel|Bejt Elem|Bét-elem⟧ v pahorkatině Efrajim a synové ⟦israel|Jisraele|Izraele⟧ k ní přicházeli pro rozsudek.
+[5] A seděla pod ⟦deborah|Devořinou|Debořinou⟧ palmou mezi ⟦ramah|Ramou|Rámou⟧ a ⟦bethel|Bejt Elem|Bét-elem⟧ v pohoří Efrajim; a synové ⟦israel|Jisraele|Izraele⟧ k ní vystupovali k soudu.
 
-[6] Poslala a povolala ⟦barak|Baraka|Báraka⟧, syna ⟦abinoam|Avinoamova|Abínoamova⟧, z ⟦kedesh-naphtali|Kedeš Naftali|Kedeše v Neftalím⟧ a řekla mu: „Což ti ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧, nepřikázal: ‚Jdi, shromáždi vojsko na hoře ⟦tabor|Tavor|Tábor⟧ a vezmi s sebou deset tisíc mužů ze synů ⟦naphtali|Naftaliho|Neftalího⟧ a ze synů ⟦zebulun|Zevuluna|Zabulóna⟧?
+[6] A poslala a zavolala ⟦barak|Baraka|Báraka⟧, syna ⟦abinoam|Avinoamova|Abínoamova⟧, z ⟦kedesh-naphtali|Kedeš Naftali|Kedeše v Neftalím⟧ a řekla mu: „Což nepřikázal ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧: ‚Jdi a táhni na hoře ⟦tabor|Tavor|Tábor⟧ a vezmi s sebou deset tisíc mužů ze synů ⟦naphtali|Naftaliho|Neftalího⟧ a ze synů ⟦zebulun|Zevuluna|Zabulóna⟧;
 
-[7] Vylákám k tobě k vádí ⟦kishon|Kišon|Kíšon⟧ ⟦sisera|Siseru|Síseru⟧, velitele ⟦jabin|Javinova|Jabínova⟧ vojska, s jeho vozy a jeho množstvím, a vydám ho do tvé ruky.‘“
+[7] a přitáhnu k tobě, k vádí ⟦kishon|Kišon|Kíšon⟧, ⟦sisera|Siseru|Síseru⟧, velitele vojska ⟦jabin|Javinova|Jabínova⟧, a jeho vozy a jeho množství a dám ho do tvé ruky‘?“
 
-[8] ⟦barak|Barak|Bárak⟧ jí řekl: „Půjdeš-li se mnou, půjdu; nepůjdeš-li však se mnou, nepůjdu.“
+[8] A ⟦barak|Barak|Bárak⟧ jí řekl: „Půjdeš-li se mnou, půjdu; a nepůjdeš-li se mnou, nepůjdu.“
 
-[9] Řekla: „Jistě s tebou půjdu; na cestě, na kterou se vydáváš, však pro tebe nebude sláva, neboť ⟦yhwh|Jahve|Hospodin⟧ prodá ⟦sisera|Siseru|Síseru⟧ do ruky ženy.“ ⟦deborah|Devora|Debora⟧ vstala a šla s ⟦barak|Barakem|Bárakem⟧ do Kedeše.
+[9] A řekla: „Jistě s tebou půjdu; jenže sláva nebude tvá na cestě, kterou jdeš, neboť do ruky ženy prodá ⟦yhwh|Jahve|Hospodin⟧ ⟦sisera|Siseru|Síseru⟧.“ A ⟦deborah|Devora|Debora⟧ vstala a šla s ⟦barak|Barakem|Bárakem⟧ do Kedeše.
 
-[10] ⟦barak|Barak|Bárak⟧ svolal ⟦zebulun|Zevuluna|Zabulóna⟧ a ⟦naphtali|Naftaliho|Neftalího⟧ do Kedeše a v jeho stopách vytáhlo deset tisíc mužů; ⟦deborah|Devora|Debora⟧ vytáhla s ním.
+[10] A ⟦barak|Barak|Bárak⟧ svolal ⟦zebulun|Zevuluna|Zabulóna⟧ a ⟦naphtali|Naftaliho|Neftalího⟧ do Kedeše a v jeho stopách vystoupilo deset tisíc mužů; a ⟦deborah|Devora|Debora⟧ vystoupila s ním.
 
-[11] ⟦heber|Chever|Cheber⟧, ⟦kenites|Keni|Kenijec⟧, se oddělil od ⟦kenites|Kenim|Kenijců⟧ – od synů ⟦hobab|Chovava|Chobaba⟧, ⟦moses|Mošova|Mojžíšova⟧ tchána – a rozbil svůj stan až u dubu v ⟦zaanannim|Caanannim|Saananím⟧, který je poblíž Kedeše.
+[11] A ⟦heber|Chever|Cheber⟧, ⟦kenites|Keni|Kenijec⟧, se odloučil od ⟦kain|Kajina|Kaina⟧, od synů ⟦hobab|Chovava|Chobaba⟧, ⟦moses|Mošova|Mojžíšova⟧ tchána; a rozbil svůj stan až u dubu v ⟦zaanannim|Caanannim|Saananím⟧, který je u Kedeše.
 
-[12] Oznámili ⟦sisera|Siserovi|Síserovi⟧, že ⟦barak|Barak|Bárak⟧, syn ⟦abinoam|Avinoamův|Abínoamův⟧, vystoupil na horu ⟦tabor|Tavor|Tábor⟧.
+[12] A oznámili ⟦sisera|Siserovi|Síserovi⟧, že ⟦barak|Barak|Bárak⟧, syn ⟦abinoam|Avinoamův|Abínoamův⟧, vystoupil na horu ⟦tabor|Tavor|Tábor⟧.
 
-[13] ⟦sisera|Sisera|Sísera⟧ tedy svolal všechny své vozy – devět set železných vozů – a všechno vojsko, které bylo s ním, z ⟦harosheth-hagoyim|Charošet HaGojim|Charóšet-gójim⟧ k vádí ⟦kishon|Kišon|Kíšon⟧.
+[13] A ⟦sisera|Sisera|Sísera⟧ svolal všechny své vozy, devět set železných vozů, a všechen lid, který byl s ním, z ⟦harosheth-hagoyim|Charošet HaGojim|Charóšet-gójim⟧ k vádí ⟦kishon|Kišon|Kíšon⟧.
 
-[14] ⟦deborah|Devora|Debora⟧ řekla ⟦barak|Barakovi|Bárakovi⟧: „Vzhůru! Neboť toto je den, kdy ti ⟦yhwh|Jahve|Hospodin⟧ vydal ⟦sisera|Siseru|Síseru⟧ do ruky. Což ⟦yhwh|Jahve|Hospodin⟧ nevyšel před tebou?“ ⟦barak|Barak|Bárak⟧ tedy sestoupil z hory ⟦tabor|Tavor|Tábor⟧ a za ním deset tisíc mužů.
+[14] A ⟦deborah|Devora|Debora⟧ řekla ⟦barak|Barakovi|Bárakovi⟧: „Vstaň, neboť toto je den, kdy ⟦yhwh|Jahve|Hospodin⟧ dal ⟦sisera|Siseru|Síseru⟧ do tvé ruky. Což ⟦yhwh|Jahve|Hospodin⟧ nevyšel před tebou?“ A ⟦barak|Barak|Bárak⟧ sestoupil z hory ⟦tabor|Tavor|Tábor⟧ a deset tisíc mužů za ním.
 
-[15] ⟦yhwh|Jahve|Hospodin⟧ uvrhl ⟦sisera|Siseru|Síseru⟧ a všechny jeho vozy i celé jeho vojsko ostřím meče do zmatku před ⟦barak|Barakem|Bárakem⟧; a ⟦sisera|Sisera|Sísera⟧ sestoupil ze svého vozu a utekl pěšky.
+[15] A ⟦yhwh|Jahve|Hospodin⟧ uvedl ve zmatek ⟦sisera|Siseru|Síseru⟧ a všechny vozy a celý tábor ostřím meče před ⟦barak|Barakem|Bárakem⟧; a ⟦sisera|Sisera|Sísera⟧ sestoupil z vozu a utekl po svých.
 
-[16] ⟦barak|Barak|Bárak⟧ pronásledoval vozy a vojsko až k ⟦harosheth-hagoyim|Charošet HaGojim|Charóšet-gójim⟧ a celé ⟦sisera|Siserovo|Síserovo⟧ vojsko padlo ostřím meče; nezůstal ani jeden muž.
+[16] A ⟦barak|Barak|Bárak⟧ pronásledoval vozy a tábor až po ⟦harosheth-hagoyim|Charošet HaGojim|Charóšet-gójim⟧; a celý tábor ⟦sisera|Siserův|Síserův⟧ padl ostřím meče; nezůstal ani jeden.
 
-[17] ⟦sisera|Sisera|Sísera⟧ utekl pěšky ke stanu ⟦jael|Jael|Jáel⟧, ženy ⟦kenites|Keni|Kenijce⟧ ⟦heber|Chevera|Chebera⟧, neboť mezi ⟦jabin|Javinem|Jabínem⟧, králem ⟦hazor|Chacoru|Chasóru⟧, a domem ⟦kenites|Keni|Kenijce⟧ ⟦heber|Chevera|Chebera⟧ byl mír.
+[17] A ⟦sisera|Sisera|Sísera⟧ utekl po svých ke stanu ⟦jael|Jael|Jáel⟧, ženy ⟦heber|Chevera|Chebera⟧, ⟦kenites|Keniho|Kenijce⟧; neboť byl ⟦shalom|šalom|pokoj⟧ mezi ⟦jabin|Javinem|Jabínem⟧, králem ⟦hazor|Chacoru|Chasóru⟧, a domem ⟦heber|Chevera|Chebera⟧, ⟦kenites|Keniho|Kenijce⟧.
 
-[18] ⟦jael|Jael|Jáel⟧ vyšla ⟦sisera|Siserovi|Síserovi⟧ naproti a řekla mu: „Uchyl se, můj pane, uchyl se ke mně; neboj se.“ Uchýlil se tedy k ní do stanu a ona ho přikryla houní.
+[18] A ⟦jael|Jael|Jáel⟧ vyšla ⟦sisera|Siserovi|Síserovi⟧ vstříc a řekla mu: „Uchyl se, můj pane, uchyl se ke mně; neboj se.“ A uchýlil se k ní do stanu a přikryla ho houní.
 
-[19] Řekl jí: „Dej mi prosím trochu vody napít, mám žízeň.“ Otevřela tedy měch s mlékem, dala mu napít a znovu ho přikryla.
+[19] A řekl jí: „Dej mi, prosím, napít trochu vody, neboť žízním.“ A otevřela měch mléka a dala mu napít a přikryla ho.
 
-[20] Řekl jí: „Postav se ke vchodu do stanu, a kdyby někdo přišel a zeptal se tě: ‚Je tu někdo?‘, řekni: ‚Není.‘“
+[20] A řekl jí: „Stůj u vchodu stanu; a stane se, přijde-li nějaký muž a zeptá se tě a řekne: ‚Je tu nějaký muž?‘, že řekneš: ‚Není.‘“
 
-[21] Ale ⟦jael|Jael|Jáel⟧, ⟦heber|Cheverova|Cheberova⟧ žena, vzala stanový kolík a vzala do ruky kladivo; potichu k němu přistoupila a vrazila mu kolík do spánku, až pronikl do země. Spal tvrdě vyčerpáním. Tak zemřel.
+[21] A ⟦jael|Jael|Jáel⟧, žena ⟦heber|Cheverova|Cheberova⟧, vzala stanový kolík a vložila si do ruky kladivo a vešla k němu potichu a vrazila mu kolík do spánku a ten vnikl do země; a on byl v hlubokém spánku a byl znavený a zemřel.
 
-[22] A hle, když ⟦barak|Barak|Bárak⟧ pronásledoval ⟦sisera|Siseru|Síseru⟧, vyšla mu ⟦jael|Jael|Jáel⟧ naproti a řekla mu: „Pojď, ukážu ti muže, kterého hledáš.“ Vešel do jejího stanu, a hle, ⟦sisera|Sisera|Sísera⟧ ležel mrtvý s kolíkem ve spánku.
+[22] A hle, ⟦barak|Barak|Bárak⟧ pronásledoval ⟦sisera|Siseru|Síseru⟧ a ⟦jael|Jael|Jáel⟧ mu vyšla vstříc a řekla mu: „Pojď a ukážu ti muže, kterého hledáš.“ A vešel k ní, a hle, ⟦sisera|Sisera|Sísera⟧ ležel padlý, mrtvý, a kolík v jeho spánku.
 
-[23] Tak onoho dne ⟦elohim|Elohim|Bůh⟧ pokořil ⟦jabin|Javina|Jabína⟧, krále Kenaanu, před syny ⟦israel|Jisraele|Izraele⟧.
+[23] A ⟦elohim|Elohim|Bůh⟧ pokořil onoho dne ⟦jabin|Javina|Jabína⟧, krále Kenaanu, před syny ⟦israel|Jisraele|Izraele⟧.
 
-[24] Ruka synů ⟦israel|Jisraele|Izraele⟧ doléhala na ⟦jabin|Javina|Jabína⟧, krále Kenaanu, stále tvrději, až ⟦jabin|Javina|Jabína⟧, krále Kenaanu, zničili.
+[24] A ruka synů ⟦israel|Jisraele|Izraele⟧ doléhala stále tvrději na ⟦jabin|Javina|Jabína⟧, krále Kenaanu, až vyťali ⟦jabin|Javina|Jabína⟧, krále Kenaanu.
 
 ## Změny
 
-- **"LORD" → „Yahweh“** (v celé kapitole) – zachován tetragram.
-- **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
-- **"Harosheth of the Gentiles" → „Harosheth-hagoyim“** (v2, 13, 16) – hebrejsky חֲרֹשֶׁת הַגּוֹיִם *Charoshet ha-goyim*. Vlastní jméno; *goyim* = „národy“.
-- **"captain of whose host" → „velitel jeho vojska“** (v2).
-- **"discomfited" → „uvrhl do zmatku“** (v15).
-- **"nail" → „kolík“ / „stanový kolík“** (v21, 22) – hebrejsky יָתֵד *yated* = stanový kolík.
-- **"bottle of milk" → „měch s mlékem“** (v19).
-- **"mantle" → „houně“** (v18) – hebrejsky שְׂמִיכָה *semikhah*. Silná přikrývka / houně.
+- **"LORD" → „Jahve“** (v celé kapitole) – zachován tetragram.
+- **"God" → „*Elohim*“** (v6, 23) – hebrejsky *Elohim*.
+- **„A“** (v celé kapitole) – hebrejština spojuje věty spojkou וַ / וְ „a“; řetěz je zachován. **"children of" → „synové“** – hebrejsky בְּנֵי.
+- **"again did evil in the sight of the LORD, when Ehud was dead" → „znovu činili to, co je zlé v očích Jahveho; a Ehud byl mrtev“** (v1) – stálá věta knihy (2:11; 3:12); „znovu“ je doslova „přidali činit“. וְאֵהוּד מֵת je samostatná věta, „a Ehud byl mrtev / zemřel“.
+- **"the captain of whose host was Sisera, which dwelt in Harosheth of the Gentiles" → „velitelem jeho vojska byl Sisera a ten bydlel v Charošet HaGojim“** (v2, 7) – hebrejsky שַׂר־צְבָאוֹ; שַׂר je „kníže“, u vojska „velitel“; צָבָא „vojsko, zástup“. חֲרֹשֶׁת הַגּוֹיִם je „Charošet národů“.
+- **"he mightily oppressed" → „utlačoval … silou“** (v3) – hebrejsky בְּחָזְקָה, „silou, násilím“. „On“ není jmenován: Sisera, nebo Javin. **„železné vozy“** – רֶכֶב בַּרְזֶל, jako 1:19. Křik je zde וַיִּצְעֲקוּ, ve 3:9, 15 וַיִּזְעֲקוּ: dvojí pravopis jednoho slovesa.
+- **"Deborah, a prophetess" → „Devora, žena, prorokyně“** (v4) – hebrejsky אִשָּׁה נְבִיאָה, slovo za slovem; hebrejština vrší ženská slova: „žena, prorokyně, žena Lappidotova, ona“. אֵשֶׁת לַפִּידוֹת je „žena Lappidotova“; táž slova lze slyšet jako „žena pochodní“ (לַפִּיד „pochodeň“). Jméno Devora znamená „včela“.
+- **"she dwelt under the palm tree of Deborah" → „seděla pod Devořinou palmou“** (v5) – hebrejsky יוֹשֶׁבֶת, „sedící“ (jak sedí soudce), nebo „bydlící“. „Rama“ má člen. **"came up to her for judgment" → „vystupovali k ní k soudu“** – hebrejsky לַמִּשְׁפָּט, se členem.
+- **"Go and draw toward mount Tabor" → „Jdi a táhni na hoře Tavor“** (v6) – hebrejsky וּמָשַׁכְתָּ בְּהַר תָּבוֹר: מָשַׁךְ je „táhnout“; zde bez předmětu: táhnout (muže) za sebou, nebo vytáhnout do pole; בְּ je „na / u“. Totéž sloveso má Jahve ve v7, „přitáhnu k tobě … Siseru“. „Což nepřikázal Jahve“ je v hebrejštině otázka; „ti“ v ní není.
+- **"with his chariots and his multitude" → „a jeho vozy a jeho množství“** (v7) – hebrejsky וְאֶת … וְאֶת.
+- **"notwithstanding the journey that thou takest shall not be for thine honour" → „jenže sláva nebude tvá na cestě, kterou jdeš“** (v9) – hebrejsky אֶפֶס כִּי לֹא תִהְיֶה תִּפְאַרְתְּךָ עַל־הַדֶּרֶךְ, doslova „jenže tvá sláva nebude na cestě“. תִּפְאֶרֶת je „krása, ozdoba, sláva“: to, čím se muž může chlubit. „Jistě půjdu“ je absolutní infinitiv se svým slovesem (הָלֹךְ אֵלֵךְ, „jdouc půjdu“). Předmět stojí na prvním místě: „do ruky ženy“.
+- **"called Zebulun and Naphtali" → „svolal Zevuluna a Naftaliho“** (v10, 13) – hebrejsky וַיַּזְעֵק, kauzativ od „křičet“: svolat muže k válce. **"he went up with ten thousand men at his feet" → „v jeho stopách vystoupilo deset tisíc mužů“** – hebrejsky וַיַּעַל בְּרַגְלָיו עֲשֶׂרֶת אַלְפֵי אִישׁ, doslova „u jeho nohou“; sloveso je v jednotném čísle: „vystoupil, u jeho nohou deset tisíc mužů“, nebo „deset tisíc mužů vystoupilo u jeho nohou“ (za ním).
+- **"Heber the Kenite, which was of the children of Hobab the father in law of Moses, had severed himself from the Kenites" → „Chever, Keni, se odloučil od Kajina, od synů Chovava, Mošova tchána“** (v11) – hebrejsky נִפְרָד מִקַּיִן: קַיִן „Kajin“ je jméno lidu Kenijců (Num 24:22). חֹתֵן je otec manželky; v Num 10:29 je Chovav syn Reuela, tchána Mošeho, a souhlásky lze zde číst i „švagr“ (חָתָן, příbuzný sňatkem). Přeloženo je masoretské znění. **"unto the plain of Zaanaim" → „až u dubu v Caanannim“** – hebrejsky אֵלוֹן, veliký strom. Psaný text má בצענים; přeložena je čtená tradice, בְּצַעֲנַנִּים.
+- **"they shewed Sisera" → „oznámili Siserovi“** (v12) – hebrejsky וַיַּגִּדוּ.
+- **„všechen lid, který byl s ním“** (v13) – hebrejsky הָעָם, „lid“: jeho bojovníci.
+- **"Up; for this is the day" → „Vstaň, neboť toto je den“** (v14) – hebrejsky קוּם.
+- **"the LORD discomfited Sisera, and all his chariots, and all his host" → „Jahve uvedl ve zmatek Siseru a všechny vozy a celý tábor“** (v15, 16) – hebrejsky וַיָּהָם, jako Exod 14:24; Josh 10:10. מַחֲנֶה je „tábor“, i o vojsku v něm; „vojsko“ (v2, 7) je jiné slovo. „Ostřím meče“ je doslova „k ústům meče“. **"lighted down off his chariot, and fled away on his feet" → „sestoupil z vozu a utekl po svých“** – hebrejsky בְּרַגְלָיו, „po svých nohou“.
+- **"there was not a man left" → „nezůstal ani jeden“** (v16) – hebrejsky לֹא נִשְׁאַר עַד־אֶחָד.
+- **"there was peace" → „byl *šalom*“** (v17) – hebrejsky שָׁלוֹם.
+- **"fear not" → „neboj se“; "she covered him with a mantle" → „přikryla ho houní“** (v18) – hebrejsky בַּשְּׂמִיכָה, se členem; slovo je jen zde a jeho význam není jistý: silná pokrývka, houně nebo závěs.
+- **"a bottle of milk" → „měch mléka“** (v19) – hebrejsky נֹאד, měch na tekutiny; חָלָב „mléko“. Žádá vodu; ona dává mléko (5:25). „Dej mi, prosím, napít“ má נָא.
+- **"Stand in the door of the tent … Is there any man here? … No" → „Stůj u vchodu stanu … Je tu nějaký muž? … Není“** (v20) – hebrejsky פֶּתַח „vchod“; אִישׁ „muž“ dvakrát; אָיִן „není“. Rozkaz „Stůj“ (עֲמֹד) je mužský tvar, ačkoli je oslovena žena.
+- **"took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground" → „vzala stanový kolík a vložila si do ruky kladivo a vešla k němu potichu a vrazila mu kolík do spánku a ten vnikl do země“** (v21) – hebrejsky יְתַד הָאֹהֶל, stanový kolík; וַתָּשֶׂם „vložila“; וַתִּתְקַע „vrazila“, sloveso z 3:21; רַקָּה je spánek hlavy. וַתִּצְנַח je vzácné sloveso z 1:14 („sesedla“): jeho podmětem je zde kolík, nebo ona sama („zarazila jej dolů“); „vnikl“ je smysl, který dává souvislost. Nejisté.
+- **"for he was fast asleep and weary. So he died" → „a on byl v hlubokém spánku a byl znavený a zemřel“** (v21) – hebrejsky וְהוּא־נִרְדָּם וַיָּעַף וַיָּמֹת, tři věty spojené „a“. נִרְדָּם je hluboký spánek slova תַּרְדֵּמָה (Gen 2:21). וַיָּעַף je vokalizováno jako tvar slovesa „být znavený, umdlít“: „a byl znavený“ (důvod jeho spánku), nebo, po ráně, „a umdlel a zemřel“. Obojí je možné; pořadí hebrejského textu je zachováno.
+- **"as Barak pursued Sisera" → „Barak pronásledoval Siseru“** (v22) – hlavní věta. **"when he came into her tent" → „vešel k ní“** – hebrejsky וַיָּבֹא אֵלֶיהָ; „stan“ v hebrejštině není. **"Sisera lay dead, and the nail was in his temples" → „Sisera ležel padlý, mrtvý, a kolík v jeho spánku“** – hebrejsky נֹפֵל מֵת, jako 3:25; „ležel“ je doplněno.
+- **"So God subdued on that day Jabin" → „A *Elohim* pokořil onoho dne Javina“** (v23) – hebrejsky וַיַּכְנַע, sloveso z 3:30 („byl pokořen“). Vypravěč zde říká *Elohim*, ne Jahve.
+- **"the hand of the children of Israel prospered, and prevailed against Jabin" → „ruka synů Jisraele doléhala stále tvrději na Javina“** (v24) – hebrejsky וַתֵּלֶךְ … הָלוֹךְ וְקָשָׁה, doslova „šla, jdouc a tvrdnouc“. **"until they had destroyed Jabin" → „až vyťali Javina“** – hebrejsky הִכְרִיתוּ.
 
 ### Poznámky
-- **Deborah** – jediná soudkyně. Zároveň prorokyně i občansko-soudní postava. Ve staroorientálních pramenech ojedinělé.
-- **Barakovo váhání** (v8) – jeho podmínka vyvolá Deborahino proroctví: vítězství přijde „rukou ženy“. Barakova ztráta cti (v9). Heb 11:32 přesto řadí Baraka mezi věrné.
-- **Jael** (v17–22) – ta žena. Manželka Hebera, který měl mír s Jabinem. Její šokující čin porušuje zákon pohostinnosti, ale slouží Yahweh. Oslavena v písni v kap. 5.
-- **„Železné vozy“** (v3, 13) – obvyklá technologická převaha Canaanitů. Siserovo vojsko je silné na rovné pláni u Megidda; zázrak Yahweh (srov. 5:20–21) tuto výhodu ruší.
-- **Vádí Kishon** (v7, 13) – protéká údolím Jezreel kolem hory Tabor. Déšť a povodeň je obrátí proti vozům.
-- **Převrácení pohostinnosti** – Sisera čeká úkryt; dostává smrt. Stejné převrácení kulturních očekávání jako u Rahab (kde zvěd v nouzi dostal pomoc).
+- **Devora** – jediná žena mezi soudci. Prorokyně i soudkyně.
+- **Barakova podmínka** (v8) – odpovídá na ni Devořino slovo: Jahve prodá Siseru „do ruky ženy“ (v9). Heb 11:32 jmenuje Baraka mezi těmi, kdo jednali vírou.
+- **Jael** (v17–22) – ta žena. Žena Chevera, jehož dům měl s Javinem *šalom*. Oslavena v písni kap. 5.
+- **„Železné vozy“** (v3, 13) – kenaanská převaha na rovině. Siserovo vojsko je silné na rovné zemi; píseň vypráví, jak je smetlo vádí Kišon (5:20–21).
+- **Vádí Kišon** (v7, 13) – protéká údolím Jizreel kolem hory Tavor.
+- **Převrácení pohostinnosti** – Sisera čeká úkryt; dostává smrt.

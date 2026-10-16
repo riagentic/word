@@ -1,71 +1,87 @@
 # Genesis 48
 
-[1] Po těchto událostech někdo Josefovi oznámil: „Hle, tvůj otec je nemocen.“ Vzal tedy s sebou své dva syny, ⟦manasseh|Menaše|Manasesa⟧ a Efrajima.
+[1] A stalo se po těchto věcech, že kdosi řekl Josefovi: „Hle, tvůj otec je nemocen.“ A vzal s sebou své dva syny, ⟦manasseh|Menaše|Manasesa⟧ a Efrajima.
 
-[2] Když bylo ⟦jacob|Jaakovovi|Jákobovi⟧ oznámeno: „Hle, tvůj syn Josef k tobě přišel,“ ⟦israel|Jisrael|Izrael⟧ sebral síly a posadil se na lůžku.
+[2] A kdosi to oznámil ⟦jacob|Jaakovovi|Jákobovi⟧ a řekl: „Hle, tvůj syn Josef k tobě přišel.“ A ⟦israel|Jisrael|Izrael⟧ sebral sílu a posadil se na lůžku.
 
-[3] ⟦jacob|Jaakov|Jákob⟧ řekl Josefovi: „⟦el-shaddai|El Šaddaj|Bůh všemohoucí⟧ se mi zjevil v ⟦luz|Luzu|Lúzu⟧ v zemi Kenaan a požehnal mi
+[3] A ⟦jacob|Jaakov|Jákob⟧ řekl Josefovi: „⟦el-shaddai|El Šaddaj|Bůh všemohoucí⟧ se mi ukázal v ⟦luz|Luzu|Lúzu⟧ v zemi Kenaan a požehnal mi
 
-[4] a řekl mi: ‚Hle, učiním tě plodným a rozmnožím tě, učiním z tebe shromáždění národů a tuto zemi dám tvému potomstvu po tobě do věčného vlastnictví.‘
+[4] a řekl mi: ‚Hle, činím tě plodným a rozmnožím tě a učiním tě shromážděním lidů; a tuto zemi dám tvému semeni po tobě jako věčné vlastnictví.‘
 
-[5] Nyní tvoji dva synové, kteří se ti narodili v egyptské zemi dříve, než jsem k tobě přišel do ⟦egypt|Micrajim|Egypta⟧, jsou moji: Efrajim a ⟦manasseh|Menaše|Manases⟧ budou moji, stejně jako ⟦reuben|Reuven|Rúben⟧ a ⟦simeon|Šimon|Šimeón⟧.
+[5] A nyní, tvoji dva synové, kteří se ti narodili ⟦egypt|v zemi Micrajim|v egyptské zemi⟧, než jsem k tobě přišel do ⟦egypt|Micrajim|Egypta⟧, jsou moji; Efrajim a ⟦manasseh|Menaše|Manases⟧ budou moji jako ⟦reuben|Reuven|Rúben⟧ a ⟦simeon|Šimon|Šimeón⟧.
 
-[6] Děti, které se ti narodí po nich, budou tvoje; ve svém dědictví se budou nazývat jménem svých bratrů.
+[6] A tvé potomstvo, které jsi zplodil po nich, bude tvé; jménem svých bratrů budou nazýváni ve svém dědictví.
 
-[7] Když jsem se já vracel z ⟦paddan-aram|Padanu|Rovin aramských⟧, zemřela mi ⟦rachel|Rachel|Ráchel⟧ v zemi Kenaan na cestě, když ještě zbýval kus cesty do ⟦ephrath|Efratu|Efraty⟧; a pohřbil jsem ji tam u cesty do ⟦ephrath|Efratu|Efraty⟧ (to je ⟦bethlehem|Bejt Lechem|Betlém⟧).“
+[7] A já, když jsem přicházel z ⟦paddan-aram|Padanu|Rovin aramských⟧, zemřela při mně ⟦rachel|Rachel|Ráchel⟧ v zemi Kenaan, na cestě, když ještě zbýval kus země, než se přijde do ⟦ephrath|Efratu|Efraty⟧; a pohřbil jsem ji tam na cestě do ⟦ephrath|Efratu|Efraty⟧, to je ⟦bethlehem|Bejt Lechem|Betlém⟧.“
 
-[8] Když ⟦israel|Jisrael|Izrael⟧ uviděl Josefovy syny, řekl: „Kdo jsou tito?“
+[8] A ⟦israel|Jisrael|Izrael⟧ uviděl Josefovy syny a řekl: „Kdo jsou tito?“
 
-[9] Josef řekl svému otci: „To jsou moji synové, které mi tu dal ⟦elohim|Elohim|Bůh⟧.“ A on řekl: „Přiveď mi je, prosím, ať jim požehnám.“
+[9] A Josef řekl svému otci: „To jsou moji synové, které mi tu dal ⟦elohim|Elohim|Bůh⟧.“ A on řekl: „Vezmi je, prosím, ke mně, ať jim požehnám.“
 
-[10] ⟦israel|Jisraelovy|Izraelovy⟧ oči byly stářím zemdlené; neviděl. Přivedl je tedy k němu a on je políbil a objal.
+[10] A ⟦israel|Jisraelovy|Izraelovy⟧ oči byly těžké stářím; nemohl vidět. A přivedl je blíž k němu a on je políbil a objal.
 
-[11] A ⟦israel|Jisrael|Izrael⟧ řekl Josefovi: „Nemyslel jsem, že ještě uvidím tvou tvář, a hle, ⟦elohim|Elohim|Bůh⟧ mi dal spatřit i tvé potomstvo.“
+[11] A ⟦israel|Jisrael|Izrael⟧ řekl Josefovi: „Nepomyslel jsem, že uvidím tvou tvář; a hle, ⟦elohim|Elohim|Bůh⟧ mi dal vidět i tvé símě.“
 
-[12] Potom je Josef odvedl od jeho kolen a poklonil se tváří k zemi.
+[12] A Josef je odvedl od jeho kolen a poklonil se tváří k zemi.
 
-[13] A Josef vzal oba, Efrajima svou pravicí k ⟦israel|Jisraelově|Izraelově⟧ levici a ⟦manasseh|Menaše|Manasesa⟧ svou levicí k ⟦israel|Jisraelově|Izraelově⟧ pravici, a přivedl je k němu.
+[13] A Josef vzal je oba, Efrajima svou pravicí po ⟦israel|Jisraelově|Izraelově⟧ levici a ⟦manasseh|Menaše|Manasesa⟧ svou levicí po ⟦israel|Jisraelově|Izraelově⟧ pravici, a přivedl je blíž k němu.
 
-[14] Ale ⟦israel|Jisrael|Izrael⟧ vztáhl pravici a položil ji na hlavu Efrajima, který byl mladší, a levici na hlavu ⟦manasseh|Menaše|Manasesa⟧; záměrně zkřížil ruce – ⟦manasseh|Menaše|Manases⟧ byl totiž prvorozený.
+[14] A ⟦israel|Jisrael|Izrael⟧ vztáhl svou pravici a položil ji na hlavu Efrajima, a ten byl mladší, a svou levici na hlavu ⟦manasseh|Menaše|Manasesa⟧; zkřížil své ruce, neboť ⟦manasseh|Menaše|Manases⟧ byl prvorozený.
 
-[15] Požehnal Josefovi a řekl:
+[15] A požehnal Josefovi a řekl:
 
 „⟦elohim|Elohim|Bůh⟧, před nímž chodili moji otcové ⟦abraham|Avraham|Abraham⟧ a ⟦isaac|Jicchak|Izák⟧,
-⟦elohim|Elohim|Bůh⟧, který mě pásl po celý můj život až do dnešního dne,
+⟦elohim|Elohim|Bůh⟧, který mě pásl, co jsem živ, až do tohoto dne,
 
-[16] Posel, který mě vykoupil ze všeho zlého –
-ať požehná chlapcům.
-Ať je na nich vzýváno mé jméno
+[16] anděl, který mě vykoupil ze všeho zlého,
+ať požehná chlapcům;
+a ať je v nich jmenováno mé jméno
 a jméno mých otců ⟦abraham|Avrahama|Abrahama⟧ a ⟦isaac|Jicchaka|Izáka⟧;
-a ať se rozrostou v množství uprostřed země.“
+a ať se rojí v množství uprostřed země.“
 
-[17] Když Josef viděl, že jeho otec položil pravici na hlavu Efrajima, nelíbilo se mu to; uchopil otcovu ruku, aby ji přesunul z Efrajimovy hlavy na ⟦manasseh|Menašovu|Manasesovu⟧ hlavu.
+[17] A Josef uviděl, že jeho otec klade svou pravici na hlavu Efrajima, a bylo to zlé v jeho očích; a uchopil ruku svého otce, aby ji přenesl z Efrajimovy hlavy na ⟦manasseh|Menašovu|Manasesovu⟧ hlavu.
 
-[18] Josef řekl svému otci: „Ne tak, můj otče; tento je prvorozený. Polož svou pravici na jeho hlavu.“
+[18] A Josef řekl svému otci: „Ne tak, můj otče, neboť tento je prvorozený; polož svou pravici na jeho hlavu.“
 
-[19] Ale jeho otec odmítl a řekl: „Vím, můj synu, vím. I on se stane lidem a i on bude veliký. Avšak jeho mladší bratr bude opravdu větší než on a jeho potomstvo se stane množstvím národů.“
+[19] A jeho otec odmítl a řekl: „Vím, můj synu, vím. I on se stane lidem a i on bude veliký; avšak jeho mladší bratr bude větší než on a jeho símě bude plností národů.“
 
-[20] Tak jim toho dne požehnal a řekl: „Tebou bude ⟦israel|Jisrael|Izrael⟧ vyslovovat požehnání: ‚Kéž tě ⟦elohim|Elohim|Bůh⟧ učiní jako Efrajima a jako ⟦manasseh|Menaše|Manasesa⟧.‘“ Tak postavil Efrajima před ⟦manasseh|Menaše|Manasesa⟧.
+[20] A požehnal jim toho dne se slovy: „Tebou bude ⟦israel|Jisrael|Izrael⟧ žehnat se slovy: ‚Kéž tě ⟦elohim|Elohim|Bůh⟧ učiní jako Efrajima a jako ⟦manasseh|Menaše|Manasesa⟧.‘“ A postavil Efrajima před ⟦manasseh|Menaše|Manasesa⟧.
 
-[21] Potom ⟦israel|Jisrael|Izrael⟧ řekl Josefovi: „Hle, já brzy zemřu, ale ⟦elohim|Elohim|Bůh⟧ bude s vámi a přivede vás zpět do země vašich otců.
+[21] A ⟦israel|Jisrael|Izrael⟧ řekl Josefovi: „Hle, já umírám; a ⟦elohim|Elohim|Bůh⟧ bude s vámi a navrátí vás do země vašich otců.
 
-[22] Nadto jsem dal tobě o jeden díl víc než tvým bratrům, který jsem vzal z ruky ⟦amorite|Emoriho|Emorejce⟧ svým mečem a svým lukem.“
+[22] A já jsem ti dal jedno rameno nad tvé bratry, které jsem vzal z ruky ⟦amorite|Emoriho|Emorejce⟧ svým mečem a svým lukem.“
 
 ## Změny
 
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
-- **"God Almighty" → „El Shaddai“** (v3) – jako v 17:1.
-- **"a multitude of people" → „shromáždění národů“** (v4) – jako v 28:3.
-- **"thy issue" → „Děti, které se ti narodí“** (v6) – hebrejsky מוֹלַדְתְּךָ *moladtekha* = tvé potomstvo / potomci. Modernizováno.
-- **"guiding his hands wittingly" → „záměrně zkřížil ruce“** (v14) – hebrejsky שִׂכֵּל אֶת־יָדָיו *sikkel et-yadav*. *Sakhal* (piel) = jednat moudře / uváženě – anebo podle homonyma „zkřížit“ (ve smyslu *shikkul*, prohodit). Jacob záměrně prohodí ruce, aby položil pravici na mladšího. „Wittingly“ v moderní angličtině = vědomě; hebrejština míní konkrétněji „jednal s uváženým záměrem“ – a (ve slovní hříčce se *sakhol* „být zbaven dětí“) jeho ruce byly „zkřížené / ruce osiřelého“ (žehná mladšímu tam, kam by normálně patřil starší, a obrací tak prvorozenství, jako on sám z takového obratu kdysi získal).
-- **"The God which fed me" → „*Elohim*, který mě pásl“** (v15) – hebrejsky הָאֱלֹהִים הָרֹעֶה אֹתִי *ha-Elohim ha-ro'eh oti*. *Ra'ah* = pást / vést na pastvu. Ne obecně „živil“; v pozadí je obraz pastýře. První výslovná biblická zmínka o Yahweh jako pastýři (plně rozvinutá v Ps 23).
-- **"Angel" → „Posel“** (v16) – hebrejsky הַמַּלְאָךְ *ha-mal'akh*. Viz 16:7. *Mal'akh*, který „mě vykoupil ze všeho zlého“, označuje Jacobova ochránce (snad toho, kdo s ním zápasil v Penielu, kap. 32).
-- **"redeemed" → „vykoupil“ (v16)** – hebrejsky הַגֹּאֵל *ha-go'el*. *Go'el* = příbuzný-vykupitel (příbuzný, který vysvobodí člena rodiny z otroctví nebo nebezpečí). První užití tohoto slova ve spojení s božským jednáním.
-- **"In thee shall Israel bless" → „Tebou bude Israel vyslovovat požehnání“** (v20) – hebrejsky בְּךָ יְבָרֵךְ יִשְׂרָאֵל. Ephraim a Manasseh se stávají vzorem požehnání – rodiče vzývají jejich jména nad dětmi. Tradiční židovské páteční večerní požehnání chlapcům zní dodnes: „Kéž tě *Elohim* učiní jako Ephraima a Manasseha.“
-- **"one portion above thy brethren" → „o jeden díl víc než tvým bratrům“ (v22)** – hebrejsky שְׁכֶם אַחַד עַל־אַחֶיךָ *shekhem achad al-achekha*. *Shekhem* znamená „rameno“ / „díl“, ale také místní jméno Shechem. Slovní hříčka: „o jeden Shechem víc než tvým bratrům“. To se stane místem Josephova pohřbu (Josh 24:32). Zmínka o tom, že to Jacob dobyl „mečem a lukem“, je nejasná – jinde v Genesis se o tom nepíše (dobytí Shechemu v kap. 34 provedli jeho synové Simeon a Levi, ne Jacob osobně). Může jít o nezaznamenanou událost nebo o zpětné převzetí odpovědnosti.
+- **"one told Joseph" → „kdosi řekl Josefovi“** (v1) a **„kdosi to oznámil Jaakovovi“** (v2) – hebrejsky וַיֹּאמֶר, וַיַּגֵּד, „a řekl“, „a oznámil“, bez jmenovaného podmětu: někdo. „Nemocen“: חֹלֶה.
+- **"sat upon the bed" → „posadil se na lůžku“** (v2) – hebrejsky וַיֵּשֶׁב עַל־הַמִּטָּה; הַמִּטָּה „lůžko“, jako ve 47:31.
+- **"God Almighty" → „El Šaddaj“** (v3) – hebrejsky אֵל שַׁדַּי; význam slova שַׁדַּי není jistý. „Ukázal se“: נִרְאָה, jako ve 12:7.
+- **"I will make thee fruitful" → „činím tě plodným“** (v4) – hebrejsky הִנְנִי מַפְרְךָ, „hle, já tě činící plodným“, příčestí, po němž následuje „a rozmnožím tě“.
+- **"a multitude of people" → „shromážděním lidů“** (v4) – hebrejsky קְהַל עַמִּים; קָהָל „shromáždění“, עַמִּים množné číslo od „lid“.
+- **"an everlasting possession" → „věčné vlastnictví“** (v4) – hebrejsky אֲחֻזַּת עוֹלָם, doslova „vlastnictví věku“.
+- **"before I came" → „než jsem k tobě přišel“** (v5) – hebrejsky עַד־בֹּאִי, doslova „až do mého příchodu“.
+- **"thy issue, which thou begettest" → „tvé potomstvo, které jsi zplodil“** (v6) – hebrejsky וּמוֹלַדְתְּךָ אֲשֶׁר־הוֹלַדְתָּ, podstatné jméno a sloveso jednoho kořene „zplodit“; sloveso je perfektum. מוֹלֶדֶת je jinde „příbuzenstvo“; zde jsou to ti, kdo byli zplozeni.
+- **"Rachel died by me" → „zemřela při mně Rachel“** (v7) – hebrejsky מֵתָה עָלַי רָחֵל, doslova „zemřela na mně“: vedle něho, nebo k jeho žalu.
+- **"a little way" → „kus země“** (v7) – hebrejsky כִּבְרַת־אֶרֶץ, míra vzdálenosti (také 35:16; 2 Kgs 5:19); jak velká, není známo.
+- **"Bring them, I pray thee, unto me" → „Vezmi je, prosím, ke mně“** (v9) – hebrejsky קָחֶם־נָא אֵלַי, לָקַח „vzít“; „ať jim požehnám“: וַאֲבָרֲכֵם.
+- **"dim" → „těžké“** (v10) – hebrejsky כָּבְדוּ, „byly těžké“.
+- **"shewed me" → „dal mi vidět“** (v11) – hebrejsky הֶרְאָה אֹתִי, kauzativ slovesa „vidět“, slovesa z první poloviny verše.
+- **"bowed himself with his face to the earth" → „poklonil se tváří k zemi“** (v12) – hebrejsky וַיִּשְׁתַּחוּ לְאַפָּיו אָרְצָה, doslova „ke svým nozdrám, k zemi“. „Od jeho kolen“: מֵעִם בִּרְכָּיו, od kolen Israelových.
+- **"guiding his hands wittingly" → „zkřížil své ruce“** (v14) – hebrejsky שִׂכֵּל אֶת־יָדָיו. Význam je nejistý: sloveso v tomto tvaru stojí jen zde; rozumí se mu buď „položil křížem“, nebo, od שָׂכַל „být rozumný“, „položil své ruce s rozmyslem“. „Neboť Menaše byl prvorozený“: כִּי, „neboť“, lze chápat i „ačkoli“.
+- **"The God which fed me all my life long" → „*Elohim*, který mě pásl, co jsem živ“** (v15) – hebrejsky הָרֹעֶה אֹתִי מֵעוֹדִי, příčestí slovesa רָעָה „pást“, a doslova „od mého trvání“.
+- **"The Angel which redeemed me" → „anděl, který mě vykoupil“** (v16) – hebrejsky הַמַּלְאָךְ הַגֹּאֵל אֹתִי. מַלְאָךְ je „posel“; גֹּאֵל je příčestí slovesa גָּאַל „vykoupit“ (ten, kdo mě vykupuje), souběžné s „*Elohim*, který mě pase“.
+- **"bless the lads" → „ať požehná chlapcům“** (v15–16) – hebrejsky יְבָרֵךְ, přání v jednotném čísle: po „*Elohim* … *Elohim* … anděl …“ následuje jedno sloveso, „ať požehná“.
+- **"let my name be named on them" → „ať je v nich jmenováno mé jméno“** (v16) – hebrejsky וְיִקָּרֵא בָהֶם שְׁמִי.
+- **"let them grow into a multitude" → „ať se rojí v množství“** (v16) – hebrejsky וְיִדְגּוּ לָרֹב, sloveso doložené jen zde, jednoho kořene s דָּג „ryba“: ať se množí jako ryby. „Uprostřed země“: הָאָרֶץ, země (kraj) nebo země (svět).
+- **"it displeased him" → „bylo to zlé v jeho očích“** (v17) – hebrejsky וַיֵּרַע בְּעֵינָיו.
+- **"a multitude of nations" → „plností národů“** (v19) – hebrejsky מְלֹא־הַגּוֹיִם; מְלֹא je „plnost, to, co naplňuje“; jiné slovo než „množství“ ve v16.
+- **"In thee shall Israel bless" → „Tebou bude Jisrael žehnat“** (v20) – hebrejsky בְּךָ יְבָרֵךְ יִשְׂרָאֵל; „ty“ je zde i ve slovech „kéž tě učiní“ v jednotném čísle.
+- **"Behold, I die" → „Hle, já umírám“** (v21) – hebrejsky הִנֵּה אָנֹכִי מֵת, příčestí. „S vámi … navrátí vás … vašich otců“ je množné číslo.
+- **"one portion above thy brethren" → „jedno rameno nad tvé bratry“** (v22) – hebrejsky שְׁכֶם אַחַד עַל־אַחֶיךָ. שְׁכֶם je „rameno, plec“ a také jméno města Shechem; co se míní (horský hřbet, díl, sám Shechem), je nejisté. „Dal jsem“: נָתַתִּי, perfektum.
 
 ### Poznámky
 
-- **Obrácení prvorozenství** – opakující se vzorec v celé Genesis: Isaac před Ishmaelem, Jacob před Esauem, Ephraim před Manassehem. Boží volby se neřídí pořadím narození. Předjímá Israelovo vlastní vyvolení „ne proto, že byste byli početnější než kterýkoli jiný národ“ (Deut 7:7).
-- **Adopce vnuků (v5–6)** – Jacob povyšuje Ephraima a Manasseha na plnoprávné kmeny, rovnocenné jeho vlastním synům. Tím Joseph fakticky dostává dvojí díl (jako dva kmeny). Později Leviho postavení bez půdy (jako kněžského kmene) ponechává v systému dvanácti kmenů místo pro Ephraima a Manasseha, zatímco Levi se počítá zvlášť.
-- **Josephovo požehnání a požehnání synů** – ve v15 Jacob „požehnal Josephovi“, ale požehnání je dáno na hlavy chlapců. Joseph je požehnán skrze své syny – jeho linie se počítá dvakrát.
+- **v5–6** – Ephraim a Manasseh se počítají mezi syny Jacobovy, jako Reuben a Simeon.
+- **v15** – „požehnal Josephovi“, a slova požehnání jsou o chlapcích.
+- **v22** – Genesis jinde nevypráví, že by Jacob vzal zemi Amoritovi mečem a lukem; Josephovy kosti jsou pohřbeny v Shechemu (Josh 24:32).

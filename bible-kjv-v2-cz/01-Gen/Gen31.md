@@ -1,141 +1,183 @@
 # Genesis 31
 
-[1] ⟦jacob|Jaakov|Jákob⟧ slyšel slova ⟦laban|Lavanových|Lábanových⟧ synů, kteří říkali: „⟦jacob|Jaakov|Jákob⟧ vzal všechno, co patřilo našemu otci, a z toho, co bylo našeho otce, nabyl všeho toho bohatství.“
+[1] A uslyšel slova ⟦laban|Lavanových|Lábanových⟧ synů, kteří říkali: „⟦jacob|Jaakov|Jákob⟧ vzal všechno, co patřilo našemu otci, a z toho, co patřilo našemu otci, si udělal všechnu tuto zámožnost.“
 
-[2] ⟦jacob|Jaakov|Jákob⟧ viděl ⟦laban|Lavanovu|Lábanovu⟧ tvář, a hle, nebyla k němu jako dříve.
+[2] A ⟦jacob|Jaakov|Jákob⟧ viděl ⟦laban|Lavanovu|Lábanovu⟧ tvář, a hle, nebyl s ním jako včera a předevčírem.
 
-[3] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦jacob|Jaakovovi|Jákobovi⟧: „Vrať se do země svých otců a ke svému příbuzenstvu, a já budu s tebou.“
+[3] A ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦jacob|Jaakovovi|Jákobovi⟧: „Navrať se do země svých otců a ke svému příbuzenstvu, a budu s tebou.“
 
-[4] ⟦jacob|Jaakov|Jákob⟧ tedy poslal a zavolal ⟦rachel|Rachel|Ráchel⟧ a Leu na pole ke svému stádu
+[4] A ⟦jacob|Jaakov|Jákob⟧ poslal a zavolal ⟦rachel|Rachel|Ráchel⟧ a Leu na pole ke svému bravu
 
-[5] a řekl jim: „Vidím tvář vašeho otce – není ke mně jako dříve; ale ⟦elohim|Elohim|Bůh⟧ mého otce byl se mnou.
+[5] a řekl jim: „Vidím tvář vašeho otce, že ke mně není jako včera a předevčírem; ale ⟦elohim|Elohim|Bůh⟧ mého otce byl se mnou.
 
-[6] Vy samy víte, že jsem vašemu otci sloužil ze všech sil.
+[6] A vy samy víte, že jsem vašemu otci sloužil vší svou silou.
 
-[7] Váš otec mě však podváděl a desetkrát změnil mou mzdu; ale ⟦elohim|Elohim|Bůh⟧ mu nedovolil, aby mi ublížil.
+[7] A váš otec mě šidil a desetkrát změnil mou mzdu; ale ⟦elohim|Elohim|Bůh⟧ mu nedovolil učinit mi zlo.
 
-[8] Když řekl: ‚Kropenatá budou tvou mzdou,‘ celé stádo rodilo kropenatá; a když řekl: ‚Pruhovaná budou tvou mzdou,‘ celé stádo rodilo pruhovaná.
+[8] Řekl-li takto: ‚Kropenatá budou tvou mzdou,‘ rodil všechen brav kropenatá; a řekl-li takto: ‚Pruhovaná budou tvou mzdou,‘ rodil všechen brav pruhovaná.
 
-[9] Tak ⟦elohim|Elohim|Bůh⟧ odňal dobytek vašemu otci a dal ho mně.
+[9] A ⟦elohim|Elohim|Bůh⟧ odňal dobytek vašeho otce a dal ho mně.
 
-[10] V době, kdy se stádo pářilo, pozvedl jsem oči a viděl jsem ve snu, a hle, kozli, kteří skákali na stádo, byli pruhovaní, kropenatí a skvrnití.
+[10] I stalo se v čase, kdy byl brav v říji, že jsem pozvedl oči a uviděl ve snu, a hle, kozli, kteří vystupovali na brav, byli pruhovaní, kropenatí a skvrnití.
 
-[11] Tu mi posel ⟦elohim|Elohim|Boží⟧ řekl ve snu: ‚⟦jacob|Jaakove|Jákobe⟧.‘ Řekl jsem: ‚Tady jsem.‘
+[11] A anděl ⟦elohim|Elohim|Boží⟧ mi řekl ve snu: ‚⟦jacob|Jaakove|Jákobe⟧.‘ A řekl jsem: ‚Zde jsem.‘
 
-[12] A řekl: ‚Pozvedni oči a podívej se: všichni kozli skákající na stádo jsou pruhovaní, kropenatí a skvrnití; neboť jsem viděl všechno, co ti ⟦laban|Lavan|Lában⟧ dělá.
+[12] A řekl: ‚Pozvedni, prosím, oči a viz: všichni kozli, kteří vystupují na brav, jsou pruhovaní, kropenatí a skvrnití; neboť jsem viděl všechno, co ti ⟦laban|Lavan|Lában⟧ činí.
 
-[13] Já jsem ⟦el|El|Bůh⟧ ⟦bethel|Bejt Elu|Bét-elu⟧, kde jsi pomazal posvátný sloup a kde jsi mi složil slib. Nyní vstaň, vyjdi z této země a vrať se do země svého příbuzenstva.‘“
+[13] Já jsem ⟦el|El|Bůh⟧ ⟦bethel|Bejt Elu|Bét-elu⟧, kde jsi pomazal sloup, kde jsi mi složil slib. Nyní vstaň, vyjdi z této země a navrať se do země svého příbuzenstva.‘“
 
-[14] Tu mu ⟦rachel|Rachel|Ráchel⟧ a Lea odpověděly: „Máme ještě nějaký podíl nebo dědictví v domě našeho otce?
+[14] A ⟦rachel|Rachel|Ráchel⟧ a Lea odpověděly a řekly mu: „Máme ještě podíl a dědictví v domě svého otce?
 
-[15] Nepovažuje nás za cizinky? Vždyť nás prodal a naši cenu projedl.
+[15] Nejsme mu počítány za cizinky? Vždyť nás prodal a také jistě projedl naše peníze.
 
-[16] Všechno bohatství, které ⟦elohim|Elohim|Bůh⟧ odňal našemu otci, patří nám a našim dětem. Nyní tedy udělej všechno, co ti ⟦elohim|Elohim|Bůh⟧ řekl.“
+[16] Neboť všechno bohatství, které ⟦elohim|Elohim|Bůh⟧ odňal našemu otci, je naše a našich synů. A nyní učiň všechno, co ti ⟦elohim|Elohim|Bůh⟧ řekl.“
 
-[17] ⟦jacob|Jaakov|Jákob⟧ tedy vstal a posadil své syny a své ženy na velbloudy;
+[17] A ⟦jacob|Jaakov|Jákob⟧ vstal a vysadil své syny a své ženy na velbloudy.
 
-[18] a odvedl všechen svůj dobytek a všechen majetek, který získal, dobytek svého nabytí, který shromáždil v ⟦paddan-aram|Padan Aramu|Rovinách aramských⟧, aby šel ke svému otci ⟦isaac|Jicchakovi|Izákovi⟧ do země Kenaan.
+[18] A hnal všechen svůj dobytek a všechno své jmění, kterého nabyl, dobytek svého majetku, kterého nabyl v ⟦paddan-aram|Padan Aramu|Rovinách aramských⟧, aby přišel ke svému otci ⟦isaac|Jicchakovi|Izákovi⟧ do země Kenaan.
 
-[19] ⟦laban|Lavan|Lában⟧ odešel stříhat své ovce, a ⟦rachel|Rachel|Ráchel⟧ ukradla ⟦teraphim|domácí bohy (terafim)|domácí bůžky⟧, kteří patřili jejímu otci.
+[19] A ⟦laban|Lavan|Lában⟧ odešel stříhat svůj brav a ⟦rachel|Rachel|Ráchel⟧ ukradla ⟦teraphim|terafim|domácí bůžky⟧ svého otce.
 
-[20] A ⟦jacob|Jaakov|Jákob⟧ oklamal mysl ⟦laban|Lavana|Lábana⟧ ⟦aramean|Arammiho|Aramejce⟧ tím, že mu neřekl, že utíká.
+[20] A ⟦jacob|Jaakov|Jákob⟧ ukradl srdce ⟦laban|Lavana|Lábana⟧ ⟦aramean|Arammiho|Aramejce⟧ tím, že mu neoznámil, že prchá.
 
-[21] Utekl tedy se vším, co měl; vstal, přešel Řeku a zamířil k pohoří ⟦gilead|Gilad|Gileád⟧.
+[21] A uprchl, on i všechno, co měl; vstal, přešel Řeku a obrátil svou tvář k pohoří ⟦gilead|Gilad|Gileád⟧.
 
-[22] Třetího dne bylo ⟦laban|Lavanovi|Lábanovi⟧ oznámeno, že ⟦jacob|Jaakov|Jákob⟧ utekl.
+[22] A třetího dne bylo ⟦laban|Lavanovi|Lábanovi⟧ oznámeno, že ⟦jacob|Jaakov|Jákob⟧ uprchl.
 
-[23] Vzal tedy s sebou své příbuzné a pronásledoval ho sedm dní cesty a dostihl ho v pohoří ⟦gilead|Gilad|Gileád⟧.
+[23] A vzal s sebou své bratry a pronásledoval ho sedm dní cesty a dohonil ho v pohoří ⟦gilead|Gilad|Gileád⟧.
 
-[24] Ale ⟦elohim|Elohim|Bůh⟧ přišel k ⟦laban|Lavanovi|Lábanovi⟧ ⟦aramean|Arammimu|Aramejci⟧ v noci ve snu a řekl mu: „Dej si pozor, abys s ⟦jacob|Jaakovem|Jákobem⟧ nemluvil ani dobře, ani zle.“
+[24] A ⟦elohim|Elohim|Bůh⟧ přišel k ⟦laban|Lavanovi|Lábanovi⟧ ⟦aramean|Arammimu|Aramejci⟧ v nočním snu a řekl mu: „Měj se na pozoru, abys s ⟦jacob|Jaakovem|Jákobem⟧ nemluvil ani dobré, ani zlé.“
 
-[25] A ⟦laban|Lavan|Lában⟧ dostihl ⟦jacob|Jaakova|Jákoba⟧. ⟦jacob|Jaakov|Jákob⟧ si postavil stan v horách a ⟦laban|Lavan|Lában⟧ se svými příbuznými se utábořil v pohoří ⟦gilead|Gilad|Gileád⟧.
+[25] A ⟦laban|Lavan|Lában⟧ dostihl ⟦jacob|Jaakova|Jákoba⟧. A ⟦jacob|Jaakov|Jákob⟧ postavil svůj stan v pohoří a ⟦laban|Lavan|Lában⟧ se se svými bratry utábořil v pohoří ⟦gilead|Gilad|Gileád⟧.
 
-[26] ⟦laban|Lavan|Lában⟧ řekl ⟦jacob|Jaakovovi|Jákobovi⟧: „Co jsi to udělal, že jsi mě oklamal a odvlekl mé dcery jako zajatkyně meče?
+[26] A ⟦laban|Lavan|Lában⟧ řekl ⟦jacob|Jaakovovi|Jákobovi⟧: „Co jsi to učinil, že jsi ukradl mé srdce a odehnal mé dcery jako zajatkyně meče?
 
-[27] Proč jsi tajně utekl a oklamal mě a neřekl mi to, abych tě byl propustil s radostí a s písněmi, s bubínkem a s lyrou?
+[27] Proč ses skryl, abys uprchl, a oklamal jsi mě a neoznámil mi to? Byl bych tě propustil s radostí a s písněmi, s bubínkem a s lyrou.
 
-[28] A ani jsi mi nedovolil políbit mé syny a mé dcery. Jednal jsi v tom pošetile.
+[28] A nedopřál jsi mi políbit mé syny a mé dcery. Teď jsi jednal pošetile, žes to učinil.
 
-[29] Je v moci mé ruky ti ublížit, ale ⟦elohim|Elohim|Bůh⟧ tvého otce ke mně včera v noci promluvil: ‚Dej si pozor, abys s ⟦jacob|Jaakovem|Jákobem⟧ nemluvil ani dobře, ani zle.‘
+[29] Je v moci mé ruky učinit vám zlo; ale ⟦elohim|Elohim|Bůh⟧ vašeho otce mi včera v noci řekl těmito slovy: ‚Měj se na pozoru, abys s ⟦jacob|Jaakovem|Jákobem⟧ nemluvil ani dobré, ani zlé.‘
 
-[30] A teď jsi odešel, protože jsi velice toužil po domě svého otce – ale proč jsi ukradl mé bohy?“
+[30] A nyní jsi jistě odešel, protože jsi jistě toužil po domě svého otce. Proč jsi ukradl mé bohy?“
 
-[31] Tu ⟦jacob|Jaakov|Jákob⟧ odpověděl ⟦laban|Lavanovi|Lábanovi⟧: „Protože jsem se bál; myslel jsem, že mi své dcery vezmeš násilím.
+[31] A ⟦jacob|Jaakov|Jákob⟧ odpověděl a řekl ⟦laban|Lavanovi|Lábanovi⟧: „Protože jsem se bál, neboť jsem řekl: ‚Abys mi snad nevyrval své dcery.‘
 
-[32] U koho své bohy najdeš – ten nebude žít. Před našimi příbuznými ukaž, co je tvého mezi mými věcmi, a vezmi si to.“ ⟦jacob|Jaakov|Jákob⟧ totiž nevěděl, že je ⟦rachel|Rachel|Ráchel⟧ ukradla.
+[32] U koho najdeš své bohy, ten nebude žít. Před našimi bratry si poznej, co je u mne, a vezmi si to.“ A ⟦jacob|Jaakov|Jákob⟧ nevěděl, že je ⟦rachel|Rachel|Ráchel⟧ ukradla.
 
-[33] ⟦laban|Lavan|Lában⟧ tedy vešel do ⟦jacob|Jaakovova|Jákobova⟧ stanu, do stanu Ley a do stanu obou otrokyň, ale nenašel je. Pak vyšel ze stanu Ley a vešel do stanu ⟦rachel|Rachel|Ráchel⟧.
+[33] A ⟦laban|Lavan|Lában⟧ vešel do ⟦jacob|Jaakovova|Jákobova⟧ stanu a do stanu Ley a do stanu obou otrokyň, a nenašel je. A vyšel ze stanu Ley a vešel do stanu ⟦rachel|Rachel|Ráchel⟧.
 
-[34] ⟦rachel|Rachel|Ráchel⟧ vzala domácí bohy, vložila je do velbloudího sedlového koše a seděla na nich. ⟦laban|Lavan|Lában⟧ prohmatal celý stan, ale nenašel je.
+[34] A ⟦rachel|Rachel|Ráchel⟧ vzala ⟦teraphim|terafim|domácí bůžky⟧, vložila je do velbloudího sedla a seděla na nich. A ⟦laban|Lavan|Lában⟧ ohmatal celý stan, a nenašel je.
 
-[35] Řekla svému otci: „Ať se můj pán nehněvá, že před tebou nemohu vstát, neboť mám, co mívají ženy.“ Hledal tedy, ale domácí bohy nenašel.
+[35] A řekla svému otci: „Ať v očích mého pána nevzplane hněv, že před tebou nemohu vstát, neboť je na mně cesta žen.“ A hledal, a ⟦teraphim|terafim|domácí bůžky⟧ nenašel.
 
-[36] Tu se ⟦jacob|Jaakov|Jákob⟧ rozhněval a přel se s ⟦laban|Lavanem|Lábanem⟧; ⟦jacob|Jaakov|Jákob⟧ promluvil a řekl ⟦laban|Lavanovi|Lábanovi⟧: „Jaký je můj přestupek? Jaký je můj hřích, že jsi mě tak zuřivě pronásledoval?
+[36] A ⟦jacob|Jaakov|Jákob⟧ vzplanul hněvem a přel se s ⟦laban|Lavanem|Lábanem⟧. A ⟦jacob|Jaakov|Jákob⟧ odpověděl a řekl ⟦laban|Lavanovi|Lábanovi⟧: „Jaké je mé přestoupení? Jaký je můj hřích, že ses za mnou tak prudce hnal?
 
-[37] Když jsi teď prohmatal všechny mé věci, co jsi našel ze všech věcí svého domu? Polož to sem před mé příbuzné a své příbuzné a ať rozhodnou mezi námi dvěma.
+[37] Vždyť jsi ohmatal všechny mé věci: co jsi našel ze všech věcí svého domu? Polož to sem před mé bratry a své bratry, ať rozhodnou mezi námi dvěma.
 
-[38] Těchto dvacet let jsem byl u tebe. Tvé ovce a tvé kozy nepotratily a berany tvého stáda jsem nejedl.
+[38] Těchto dvacet let jsem byl u tebe. Tvé ovce a tvé kozy nepotratily a berany tvého bravu jsem nejedl.
 
-[39] Co roztrhala divoká zvěř, jsem ti nepřinášel; ztrátu jsem nesl sám. Z mé ruky jsi to vymáhal, ať bylo ukradeno ve dne, nebo ukradeno v noci.
+[39] Roztrhané jsem ti nepřinášel; sám jsem to nahrazoval. Z mé ruky jsi to vyžadoval, ukradené ve dne i ukradené v noci.
 
-[40] Tak jsem žil: ve dne mě stravovalo horko a v noci mráz; a spánek prchal od mých očí.
+[40] Byl jsem – ve dne mě stravoval žár a v noci mráz; a spánek prchal od mých očí.
 
-[41] Těchto dvacet let jsem byl ve tvém domě. Sloužil jsem ti čtrnáct let za tvé dvě dcery a šest let za tvé stádo, a desetkrát jsi změnil mou mzdu.
+[41] Těchto dvacet let jsem byl ve tvém domě. Sloužil jsem ti čtrnáct let za tvé dvě dcery a šest let za tvůj brav, a desetkrát jsi změnil mou mzdu.
 
-[42] Kdyby se mnou nebyl ⟦elohim|Elohim|Bůh⟧ mého otce, ⟦elohim|Elohim|Bůh⟧ ⟦abraham|Avrahamův|Abrahamův⟧ a Bázeň ⟦isaac|Jicchakova|Izákova⟧, jistě bys mě propustil s prázdnou. ⟦elohim|Elohim|Bůh⟧ viděl mé trápení a námahu mých rukou a včera v noci tě pokáral.“
+[42] Kdyby ⟦elohim|Elohim|Bůh⟧ mého otce, ⟦elohim|Elohim|Bůh⟧ ⟦abraham|Avrahamův|Abrahamův⟧ a Strach ⟦isaac|Jicchakův|Izákův⟧, nebyl při mně, jistě bys mě teď propustil s prázdnou. Mé soužení a námahu mých dlaní ⟦elohim|Elohim|Bůh⟧ viděl a včera v noci rozhodl.“
 
-[43] Tu ⟦laban|Lavan|Lában⟧ odpověděl ⟦jacob|Jaakovovi|Jákobovi⟧: „Ty dcery jsou mé dcery, ty děti jsou mé děti, to stádo je mé stádo a všechno, co vidíš, je moje. Ale co mohu dnes udělat pro tyto své dcery nebo pro jejich děti, které porodily?
+[43] A ⟦laban|Lavan|Lában⟧ odpověděl a řekl ⟦jacob|Jaakovovi|Jákobovi⟧: „Ty dcery jsou mé dcery a ti synové jsou moji synové a ten brav je můj brav a všechno, co vidíš, je moje. A pro své dcery – co pro ně dnes mohu učinit, nebo pro jejich syny, které porodily?
 
-[44] Nyní tedy pojď, uzavřeme smlouvu, ty a já, a ať je svědkem mezi mnou a tebou.“
+[44] A nyní pojď, uzavřeme smlouvu, já a ty, a ať je svědkem mezi mnou a tebou.“
 
-[45] ⟦jacob|Jaakov|Jákob⟧ tedy vzal kámen a postavil ho jako posvátný sloup.
+[45] A ⟦jacob|Jaakov|Jákob⟧ vzal kámen a vztyčil ho jako sloup.
 
-[46] A ⟦jacob|Jaakov|Jákob⟧ řekl svým příbuzným: „Nasbírejte kameny,“ a oni vzali kameny a udělali hromadu; a jedli tam u hromady.
+[46] A ⟦jacob|Jaakov|Jákob⟧ řekl svým bratrům: „Nasbírejte kameny.“ A vzali kameny a udělali hromadu a jedli tam na té hromadě.
 
-[47] ⟦laban|Lavan|Lában⟧ ji nazval ⟦jegar-sahadutha|Jegar Sahaduta|Jegar-sahaduta⟧, ale ⟦jacob|Jaakov|Jákob⟧ ji nazval ⟦galeed|Galed|Gal-ed⟧.
+[47] A ⟦laban|Lavan|Lában⟧ ji nazval ⟦jegar-sahadutha|Jegar Sahaduta|Jegar-sahaduta⟧ a ⟦jacob|Jaakov|Jákob⟧ ji nazval ⟦galeed|Galed|Gal-ed⟧.
 
-[48] A ⟦laban|Lavan|Lában⟧ řekl: „Tato hromada je dnes svědkem mezi mnou a tebou.“ Proto dostala jméno ⟦galeed|Galed|Gal-ed⟧,
+[48] A ⟦laban|Lavan|Lában⟧ řekl: „Tato hromada je dnes svědkem mezi mnou a tebou.“ Proto ji nazval jménem ⟦galeed|Galed|Gal-ed⟧
 
-[49] a také ⟦mizpah|Micpa|Mispa⟧ („strážná věž“), neboť řekl: „Ať ⟦yhwh|Jahve|Hospodin⟧ bdí mezi mnou a tebou, až budeme jeden druhému z očí.
+[49] a ⟦mizpah|Micpa|Mispa⟧, protože řekl: „Ať ⟦yhwh|Jahve|Hospodin⟧ bdí mezi mnou a tebou, až budeme skryti každý před svým bližním.
 
-[50] Budeš-li trápit mé dcery nebo vezmeš-li si další ženy kromě mých dcer, i když s námi nikdo není, hleď, ⟦elohim|Elohim|Bůh⟧ je svědkem mezi mnou a tebou.“
+[50] Budeš-li sužovat mé dcery a vezmeš-li si ženy k mým dcerám – není s námi žádný muž; hleď, ⟦elohim|Elohim|Bůh⟧ je svědkem mezi mnou a tebou.“
 
-[51] A ⟦laban|Lavan|Lában⟧ řekl ⟦jacob|Jaakovovi|Jákobovi⟧: „Hle, tato hromada a hle, posvátný sloup, který jsem postavil mezi sebou a tebou.
+[51] A ⟦laban|Lavan|Lában⟧ řekl ⟦jacob|Jaakovovi|Jákobovi⟧: „Hle, tato hromada, a hle, sloup, který jsem postavil mezi sebou a tebou.
 
-[52] Tato hromada je svědkem a posvátný sloup je svědkem, že já nepřejdu přes tuto hromadu k tobě a že ty nepřejdeš přes tuto hromadu a tento sloup ke mně ve zlém úmyslu.
+[52] Svědkem je tato hromada a svědkem je sloup, že já nepřejdu přes tuto hromadu k tobě a že ty nepřejdeš přes tuto hromadu a tento sloup ke mně ke zlému.
 
-[53] ⟦elohim|Elohim|Bůh⟧ ⟦abraham|Avrahamův|Abrahamův⟧ a ⟦elohim|Elohim|Bůh⟧ ⟦nahor|Nachorův|Náchorův⟧ – ⟦elohim|Elohim|Bůh⟧ jejich otce – ať soudí mezi námi.“ ⟦jacob|Jaakov|Jákob⟧ tedy přísahal při Bázni svého otce ⟦isaac|Jicchaka|Izáka⟧.
+[53] ⟦elohim|Elohim|Bůh⟧ ⟦abraham|Avrahamův|Abrahamův⟧ a ⟦elohim|Elohim|Bůh⟧ ⟦nahor|Nachorův|Náchorův⟧ ať soudí mezi námi – ⟦elohim|Elohim|Bůh⟧ jejich otce.“ A ⟦jacob|Jaakov|Jákob⟧ přísahal při Strachu svého otce ⟦isaac|Jicchaka|Izáka⟧.
 
-[54] Potom ⟦jacob|Jaakov|Jákob⟧ obětoval oběť v horách a pozval své příbuzné, aby jedli chléb; jedli chléb a přenocovali v horách.
+[54] A ⟦jacob|Jaakov|Jákob⟧ obětoval v pohoří oběť a pozval své bratry, aby jedli chléb; a jedli chléb a přenocovali v pohoří.
 
-[55] Časně ráno ⟦laban|Lavan|Lában⟧ vstal, políbil své vnuky a své dcery a požehnal jim; potom ⟦laban|Lavan|Lában⟧ odešel a vrátil se na své místo.
+[55] A ⟦laban|Lavan|Lában⟧ vstal časně ráno, políbil své syny a své dcery a požehnal jim; a ⟦laban|Lavan|Lában⟧ odešel a navrátil se na své místo.
 
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – Tetragram zachován.
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
-- **"glory" → „bohatství“** (v1) – hebrejsky כָּבוֹד *kavod* = váha / sláva / bohatství. Zde ve smyslu bohatství; *kavod* v jednom ze základních významů znamená „podstata / tíha“, odtud majetek.
-- **"countenance" → „tvář“** (v2, 5) – hebrejsky פָּנִים *panim*. Modernizováno.
-- **"deceived me, and changed my wages ten times" → „podváděl mě a desetkrát změnil mou mzdu“** (v7, 41) – hebrejsky הֵתֵל בִּי *hetel bi*. *Hatal* = hrát si (hifil: posmívat se / klamat). „Desetkrát“ = mnohokrát (zaokrouhlené číslo).
-- **"grisled" → „skvrnití“** (v10, 12) – hebrejsky בְּרֻדִּים *berudim* = grošovaný / skvrnitý / strakatý. Anglické „grisled“ je archaické.
-- **"angel of God" → „posel *Elohim*“** (v11) – jako jinde.
-- **"God of Beth-el" → „El Bethelu“** (v13) – hebrejsky הָאֵל בֵּית־אֵל *ha-El Beit-El*. Další složené božské označení s *El* (doslova „El Beth-Elu“); zachováno.
-- **"strangers" → „cizinky“** (v15) – hebrejsky נָכְרִיּוֹת *nokhriyyot*. *Nekhar* = cizí / cizácký (odlišné od *ger* = usedlý cizinec). Rachel a Leah si stěžují, že s nimi jejich vlastní otec zachází jako s cizími.
-- **"sold us" → „prodal nás“** (v15) – hebrejsky כִּי מְכָרָנוּ *ki mekharanu*. Laban si vzal cenu za nevěsty (čtrnáct let Jacobovy práce, v41) jako vlastní zisk, místo aby ji uložil pro své dcery (jak by vyžadoval zvyk). Stěžují si, že s nimi bylo obchodováno, místo aby byly obdařeny věnem.
-- **"stole away unawares to Laban" → „oklamal mysl Labana“** (v20) – hebrejsky וַיִּגְנֹב יַעֲקֹב אֶת־לֵב לָבָן *wa-yignov Ya'aqov et-lev Lavan* – „Jacob ukradl Labanovo srdce (mysl)“. Idiom: oklamal lstí.
+- **„A“ na začátku vět ponecháno** (v celé kapitole) – hebrejsky וַ / וְ; řetěz vět se nemění na „tedy“, „potom“, „ale“ ani na věty vedlejší.
+- **„A uslyšel“** (v1) – hebrejské וַיִּשְׁמַע nemá jmenovaný podmět; „Jacob“ ve verši není.
+- **"glory" → „zámožnost“** (v1) – hebrejsky כָּבוֹד *kavod*, jinde „sláva“; základní význam je „tíha“ a zde jde o to, co si Jacob „udělal“ z Labanova majetku: bohatství. Jiný význam téhož slova. („Bohatství“ ve v16 je עֹשֶׁר.)
+- **"countenance" → „tvář“; "it was not toward him" → „nebyl s ním“** (v2, 5) – hebrejské פָּנִים *panim* „tvář“ má tvar množného čísla, kdežto אֵינֶנּוּ „není“ je v jednotném: ukazuje na samého Labana. Ve v2 עִמּוֹ „s ním“, ve v5 אֵלַי „ke mně“.
+- **"as before" → „jako včera a předevčírem“** (v2, 5) – hebrejsky כִּתְמוֹל שִׁלְשׁוֹם, doslova „jako včera, třetí den“: hebrejský způsob, jak říci „jako dříve“.
+- **"deceived me" → „šidil mě“** (v7) – hebrejsky הֵתֶל בִּי *hetel bi*, „posmívat se, zahrávat si, šidit“; jiné slovo než „oklamat“ (רִמָּה, 29:25) a než „ukrást srdce“ (v20). „Desetkrát“ (v7, 41) je hebrejské číslo, עֲשֶׂרֶת מֹנִים.
+- **"suffered him not to hurt me" → „nedovolil mu učinit mi zlo“** (v7) – hebrejsky לֹא־נְתָנוֹ … לְהָרַע עִמָּדִי, doslova „nedal mu činit se mnou zlo“; tak i v29 „učinit vám zlo“, v52 „ke zlému“ (רַע / רָעָה).
+- **„řekl-li takto“** (v8) – hebrejské כֹּה „takto“ vráceno, dvakrát.
+- **„odňal“** (v9, 16) – hebrejsky הִצִּיל, jinde „vysvobodit“ (32:11); základní význam je „vytrhnout“, a ten je zde.
+- **"the cattle conceived" → „brav byl v říji“** (v10) – hebrejsky יַחֵם הַצֹּאן, „být horký“; צֹאן je brav, ovce a kozy. „Vystupovali na“ je doslovné הָעֹלִים עַל (KJV "leaped upon").
+- **"grisled" → „skvrnití“** (v10, 12) – hebrejsky בְּרֻדִּים *berudim* = grošovaný / skvrnitý. Anglické „grisled“ je archaické.
+- **"angel of God" → „anděl *Elohim*“** (v11) – hebrejsky מַלְאַךְ הָאֱלֹהִים; slovo מַלְאָךְ znamená „posel“ (tak 32:3, 6 o Jacobových mužích); pro posla *Elohim* / Yahweh se v celém Starém zákoně drží jedno slovo, „anděl“.
+- **"Here am I" → „Zde jsem“** (v11) – hebrejsky הִנֵּנִי, doslova „hle, já“.
+- **"Lift up now" → „Pozvedni, prosím“** (v12) – hebrejsky נָא.
+- **"God of Beth-el" → „El Bét-elu“** (v13) – hebrejsky הָאֵל בֵּית־אֵל *ha-El Beit-El*, doslova „ten El Bét-el“; hebrejština nemá mezi oběma slovy ani předložku, ani sloveso. Obvykle se zde uvádí delší čtení Septuaginty („který se ti ukázal v …“, zpaměti); masoretský text je zachován.
+- **„složil slib“** (v13) – hebrejsky נָדַרְתָּ … נֶדֶר, sloveso i podstatné jméno téhož kořene. „Sloup“: מַצֵּבָה bez členu, vztyčený kámen.
+- **"strangers" → „cizinky“** (v15) – hebrejsky נָכְרִיּוֹת *nokhriyyot*, cizí ženy (jiné slovo než *ger*, příchozí).
+- **"hath quite devoured also our money" → „také jistě projedl naše peníze“** (v15) – hebrejsky וַיֹּאכַל גַּם־אָכוֹל אֶת־כַּסְפֵּנוּ, doslova „a snědl, také jedením, naše stříbro“: infinitiv absolutní („jistě“) a כֶּסֶף „stříbro“, zde cena, která za ně byla zaplacena (čtrnáct Jacobových let, v41). „Prodal nás“: מְכָרָנוּ.
+- **"children" → „synové“** (v16, 43) – hebrejsky בָּנֵינוּ, בָּנִים, בְּנֵיהֶן.
+- **„všechno své jmění … dobytek svého majetku“** (v18) – hebrejsky רְכוּשׁ „jmění“, רָכַשׁ „nabýt“ (dvakrát), מִקְנֵה קִנְיָנוֹ „dobytek svého majetku (toho, co získal)“.
+- **"images" → „terafim“** (v19, 34, 35) – hebrejsky תְּרָפִים, ve všech třech verších ponecháno hebrejské slovo; co přesně to bylo, není známo (domácí sošky; Laban je nazývá „mé bohy“, v30).
+- **"stole away unawares to Laban" → „ukradl srdce Labana“** (v20, 26) – hebrejsky וַיִּגְנֹב … אֶת־לֵב לָבָן, doslova tak; význam je „oklamal, přelstil“, ne „získal si jeho lásku“. Je to sloveso užité o Rachel (v19, 32), o bozích (v30) a o ukradených zvířatech (v39).
+- **"steal away from me" → „oklamal jsi mě“** (v27) – hebrejsky וַתִּגְנֹב אֹתִי, doslova „a ukradl jsi mě“, zkráceně za „ukradl mé srdce“ (v26); doslovná slova by česky říkala něco jiného, proto je podán význam.
 - **"Syrian" → „Aramejce“** (v20, 24) – jako ve 25:20.
-- **"passed over the river" → „přešel Řeku“** (v21) – hebrejsky הַנָּהָר *ha-nahar* = ta (Řeka) = Euphrates. Velké písmeno jako vlastní označení.
-- **"brethren" → „příbuzní“** (v23, 25, 32, 37, 46, 54) – hebrejsky אֶחָיו *echav* = širší rodina / členové rodu cestující spolu. Ne doslovní bratři.
-- **"tabret and harp" → „bubínkem a lyrou“** (v27) – hebrejsky תֹף וּבְכִנּוֹר *toph u-vkhinnor*. *Toph* = ruční bubínek / tamburína; *kinnor* = lyra (jako ve 4:21). „Tabret“ a „harp“ jsou archaické.
-- **"sore longedst" → „velice toužil“** (v30) – modernizováno.
-- **"camel's furniture" → „velbloudího sedlového koše“** (v34) – hebrejsky כַּר הַגָּמָל *kar ha-gamal* = velbloudí sedlový polštář / sedlový koš (proutěné košovité sedlo pro jezdce na velbloudech).
-- **"custom of women" → „mám, co mívají ženy“** (v35) – hebrejsky דֶּרֶךְ נָשִׁים *derekh nashim* = „cesta žen“ = menstruace. Rachelina záminka, proč nevstává – obřadně nečistý stav by navíc Labana odradil od toho, aby se dotýkal *teraphim* pod ní.
-- **"chode with" → „přel se s“** (v36) – archaické → moderní.
-- **"Fear of Isaac" → „Bázeň Isaacova“ (v42, 53)** – hebrejsky פַּחַד יִצְחָק *Pachad Yitschaq*. Jedinečné božské označení pro *Elohim* Isaacova – „Bázeň (předmět bázně / hrůzy) Isaacova“. Někteří badatelé čtou *pachid* (aramejsky: příbuzný) – „Příbuzný Isaacův“. Tradiční „Bázeň Isaacova“ odpovídá kontextu skládání přísahy.
-- **„Jegar-sahadutha… Galeed“ – jazykový detail zachován** (v47) – první aramejská slova v Bibli. *Yegar-Sahadutha* (aramejsky) i *Gal-ed* (hebrejsky) znamenají „hromada svědectví“ – pojmenovávají týž pomník v obou jazycích, což odráží dvojkulturní rodinu.
-- **"sons and daughters" → „své vnuky a své dcery“** (v55) – hebrejsky לְבָנָיו וְלִבְנוֹתָיו *le-vanav we-livnotav* = „svým synům a svým dcerám“. *Synové* zde = Jacobovi synové = Labanovi vnuci. Zpřesněno.
+- **"passed over the river" → „přešel Řeku“** (v21) – hebrejsky הַנָּהָר *ha-nahar* = ta Řeka, Euphrates; velké písmeno. „Přejít“ je עָבַר, jako ve v52.
+- **"mount Gilead" → „pohoří Gilad“** (v21, 23, 25, 54) – hebrejsky הַר „hora“, zde o kraji; totéž slovo je i „v pohoří“ (בָּהָר, v25, 54).
+- **"brethren" → „bratři“** (v23, 25, 32, 37, 46, 54) – hebrejsky אַחִים *achim*, zde příbuzní, muži rodu; hebrejské slovo je ponecháno.
+- **„sedm dní cesty“** (v23) – hebrejsky דֶּרֶךְ „cesta“ sedmi dní; totéž slovo jako „cesta žen“ (v35).
+- **"overtook" → „dohonil“** (v23) – hebrejsky וַיַּדְבֵּק „přilnul, dotáhl se“; „dostihl“ ve v25 je jiné sloveso, וַיַּשֵּׂג.
+- **"either good or bad" → „ani dobré, ani zlé“** (v24, 29) – hebrejsky מִטּוֹב עַד־רָע, doslova „od dobrého po zlé“: vůbec nic.
+- **"carried away" → „odehnal“** (v26) – hebrejsky וַתְּנַהֵג, sloveso z v18 („hnal všechen svůj dobytek“).
+- **"tabret and harp" → „s bubínkem a s lyrou“** (v27) – hebrejsky תֹף *toph*, ruční bubínek; כִּנּוֹר *kinnor*, lyra (jako ve 4:21).
+- **„jednal pošetile, žes to učinil“** (v28) – hebrejsky הִסְכַּלְתָּ עֲשׂוֹ, „byl jsi pošetilý, když jsi (to) udělal“.
+- **"to do you hurt" → „učinit vám zlo“; „vašeho otce“** (v29) – „vy“ a „váš“ jsou zde v množném čísle (עִמָּכֶם, אֲבִיכֶם): Jacob a jeho dům. יֶשׁ־לְאֵל יָדִי je doslova „je to k moci mé ruky“; אֵל zde znamená „moc“. „Těmito slovy“ je hebrejské לֵאמֹר.
+- **"thou wouldest needs be gone … thou sore longedst" → „jistě jsi odešel … jistě jsi toužil“** (v30) – dva infinitivy absolutní, הָלֹךְ הָלַכְתָּ, נִכְסֹף נִכְסַפְתָּה, doslova „odcházením jsi odešel“, „toužením jsi toužil“.
+- **"take by force" → „vyrval“** (v31) – hebrejsky תִּגְזֹל, „uchvátit, uloupit“. Hebrejština podává Jacobovu myšlenku přímou řečí: „neboť jsem řekl: Abys snad …“.
+- **"discern thou what is thine with me" → „poznej si, co je u mne“** (v32) – hebrejsky הַכֶּר־לְךָ מָה עִמָּדִי; „co je tvého“ v hebrejštině není.
+- **„nenašel je“** (v33, 34) – hebrejsky וְלֹא מָצָא, „a nenašel“, bez předmětu; „je“ je doplněno.
+- **"maidservants" → „otrokyně“** (v33) – hebrejsky אֲמָהֹת.
+- **"camel's furniture" → „velbloudí sedlo“** (v34) – hebrejsky כַּר הַגָּמָל; כַּר se v tomto významu vyskytuje jen zde, nejspíš sedlo s košem nebo poduškou; přesný význam je nejistý.
+- **"Let it not displease my lord" → „Ať v očích mého pána nevzplane hněv“** (v35) – hebrejsky אַל־יִחַר בְּעֵינֵי אֲדֹנִי, doslova „ať to nehoří v očích mého pána“.
+- **"custom of women" → „cesta žen“** (v35) – hebrejsky דֶּרֶךְ נָשִׁים *derekh nashim*, měsíční krvácení.
+- **"was wroth, and chode with" → „vzplanul hněvem a přel se s“** (v36) – hebrejsky וַיִּחַר לְיַעֲקֹב, doslova „vzplálo to Jacobovi“; וַיָּרֶב, „přít se“ (רִיב). „Prudce hnal“: דָּלַקְתָּ, doslova „hořel jsi za mnou“.
+- **"trespass" → „přestoupení“** (v36) – hebrejsky פֶּשַׁע.
+- **"judge betwixt us both" → „ať rozhodnou mezi námi dvěma“; "rebuked thee yesternight" → „včera v noci rozhodl“** (v37, 42) – hebrejsky pokaždé הוֹכִיחַ: Jacob žádá bratry, aby rozhodli, a říká, že Elohim už rozhodl. Ve v42 není předmět („tebe“ v hebrejštině není).
+- **„sám jsem to nahrazoval“** (v39) – hebrejsky אֲחַטֶּנָּה, od חטא „minout, hřešit“: „nahrazoval jsem to, co chybělo“. Slovesa v39 říkají, co se dělo opakovaně. „Zvěří“ (KJV "of beasts") v hebrejštině není: טְרֵפָה je „roztrhaný kus“.
+- **"Thus I was" → „Byl jsem –“** (v40) – hebrejsky samotné הָיִיתִי. „Stravoval“ je אָכַל „jíst“, sloveso z v15 a v38. חֹרֶב je suchý žár.
+- **"Except … had been with me" → „Kdyby … nebyl při mně“** (v42) – hebrejsky הָיָה לִי, „byl můj / pro mne“.
+- **"Fear of Isaac" → „Strach Isaacův“** (v42, 53) – hebrejsky פַּחַד יִצְחָק *Pachad Yitzchaq*, jméno pro *Elohim* Isaacova, které je jen zde: ten, před nímž se Isaac děsí. פַּחַד je „děs, strach“, silnější slovo než obvyklá „bázeň“ (יִרְאָה). Někteří čtou *pachad* jako „příbuzný“ („Příbuzný Isaacův“); ponechán je prostý význam slova.
+- **"labour of my hands" → „námahu mých dlaní“** (v42) – hebrejsky יְגִיעַ כַּפַּי: כַּף „dlaň“, ne יָד „ruka“.
+- **"make a covenant" → „uzavřeme smlouvu“** (v44) – hebrejsky נִכְרְתָה בְרִית, doslova „rozetněme smlouvu“. Hebrejské pořadí „já a ty“ je zachováno.
+- **„na té hromadě“** (v46) – hebrejsky עַל־הַגָּל, „na“ nebo „u“ hromady.
+- **„Jegar-sahadutha … Galeed“** (v47) – Labanovo jméno je aramejské, יְגַר שָׂהֲדוּתָא, první dvě aramejská slova v Bibli; Jacobovo je hebrejské, גַּלְעֵד. Obě znamenají „hromada svědectví“. Obě slova jsou ponechána, jak jsou.
+- **"was the name of it called" → „nazval ji jménem“** (v48) – hebrejsky קָרָא־שְׁמוֹ, činný rod bez jmenovaného podmětu, doslova „nazval její jméno“.
+- **"and Mizpah" → „a Micpa“** (v49) – hebrejsky וְהַמִּצְפָּה, se členem: „ta hlídka“, od slovesa následující věty, יִצֶף „ať bdí, hledí“. Hebrejština ve verši jméno nevysvětluje.
+- **"when we are absent one from another" → „až budeme skryti každý před svým bližním“** (v49) – hebrejsky נִסָּתֵר אִישׁ מֵרֵעֵהוּ.
+- **"other wives beside" → „ženy k mým dcerám“** (v50) – hebrejsky נָשִׁים עַל־בְּנֹתַי; „další“ v hebrejštině není. אֵין אִישׁ עִמָּנוּ, „není s námi žádný muž“, stojí samostatně, bez „i když“. „Sužovat“: עִנָּה.
+- **"I have cast" → „jsem postavil“** (v51) – hebrejsky יָרִיתִי, „hodil, navršil jsem“; Laban to říká o sobě, ačkoli sloup vztyčil Jacob (v45).
+- **„že já nepřejdu“** (v52) – hebrejsky אִם־אָנִי לֹא־אֶעֱבֹר … וְאִם־אַתָּה לֹא־תַעֲבֹר, přísežný tvar „jestliže já … / jestliže ty …“; podán je význam.
+- **"judge betwixt us" → „ať soudí mezi námi“** (v53) – hebrejské יִשְׁפְּטוּ je sloveso v **množném čísle**, přání: „ať soudí (oni)“. Laban jmenuje *Elohim* Abrahamova a *Elohim* Nahorova jako dva a Jacob nepřísahá při žádném z těch jmen, ale při Strachu Isaacově. „*Elohim* jejich otce“ stojí v hebrejštině až za slovesem, jako zde; obvykle se uvádí, že v Septuagintě chybí (zpaměti). Masoretský text je zachován.
+- **"offered sacrifice" → „obětoval oběť“; "tarried all night" → „přenocovali“** (v54) – hebrejsky וַיִּזְבַּח … זֶבַח; וַיָּלִינוּ.
+- **"sons and daughters" → „své syny a své dcery“** (v55) – hebrejsky לְבָנָיו וְלִבְנוֹתָיו; ti synové jsou synové jeho dcer (v43 „ti synové jsou moji synové“). Hebrejské slovo je ponecháno.
 
 ### Poznámky
 
-- **Poznámka k dělení kapitol** – v hebrejském textu je v55 (KJV 31:55) v hebrejských Biblích veršem 1 kap. 32. Křesťanské dělení kapitol (Stephen Langton, 13. stol.) se na několika místech mírně liší od masoretského systému; Genesis 31–32 je jedním z nich.
-- **Rachel a *teraphim*** – její pohnutky nejsou uvedeny. Paralely ze starověkého Předního východu z Nuzi naznačují, že držení domácích model znamenalo dědické právo – Rachel si možná činí nárok na otcovo jmění pro sebe a své děti (což odpovídá její stížnosti ve v14–16). Nebo: může si zachovávat osobní oddanost těmto domácím bohům. Text nechává otevřená obě čtení.
+- **Čísla veršů** – v55 je v hebrejské Bibli 32:1, takže v kapitole 32 jsou hebrejská čísla o jedno vyšší než naše.
+- **Rachel a *teraphim*** – její pohnutky nejsou uvedeny. Paralely ze starověkého Předního východu z Nuzi naznačují, že držení domácích bohů znamenalo dědické právo – Rachel si možná činí nárok na otcovo jmění pro sebe a své děti (což odpovídá její stížnosti ve v14–16). Nebo: může si zachovávat osobní oddanost těmto domácím bohům. Text nechává otevřená obě čtení.

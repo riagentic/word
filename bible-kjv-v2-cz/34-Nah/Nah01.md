@@ -1,99 +1,96 @@
 # Nahum 1
 
-[1] Výrok o ⟦nineveh|Ninve|Ninive⟧. Kniha vidění ⟦nahum|Nachuma|Nahuma⟧ z ⟦elkosh|Elkoše|Elkóše⟧.
+[1] Břímě ⟦nineveh|Ninve|Ninive⟧. Kniha vidění ⟦nahum|Nachuma|Nahuma⟧ ⟦elkosh|Elkošského|Elkóšského⟧.
 
-[2] ⟦yhwh|Jahve|Hospodin⟧ je žárlivý a mstící ⟦el|El|Bůh⟧;
-⟦yhwh|Jahve|Hospodin⟧ se mstí a je plný hněvu;
-⟦yhwh|Jahve|Hospodin⟧ se mstí na svých protivnících
+[2] Žárlivý a mstící ⟦el|El|Bůh⟧ je ⟦yhwh|Jahve|Hospodin⟧;
+mstící je ⟦yhwh|Jahve|Hospodin⟧, a plný zuřivosti;
+mstící je ⟦yhwh|Jahve|Hospodin⟧ na svých protivnících
 a chová hněv pro své nepřátele.
 
-[3] ⟦yhwh|Jahve|Hospodin⟧ je pomalý k hněvu a veliký v moci
-a ⟦yhwh|Jahve|Hospodin⟧ viníka nikterak neosvobodí.
-Jeho cesta je ve vichřici a bouři
-a oblaka jsou prachem jeho nohou.
+[3] ⟦yhwh|Jahve|Hospodin⟧ je pomalý k hněvu a veliký v síle
+a jistě nezprostí viny.
+⟦yhwh|Jahve|Hospodin⟧ – ve vichřici a v bouři je jeho cesta
+a oblak je jemný prach jeho nohou.
 
-[4] Okřikne moře a vysuší je;
-vysušuje všechny řeky;
-⟦bashan|Bašan|Bášan⟧ i Karmel vadnou;
-květ ⟦lebanon|Levanonu|Libanónu⟧ vadne.
+[4] Kárá moře a vysušil je
+a všechny řeky vysušil;
+zchřadl ⟦bashan|Bašan|Bášan⟧ i Karmel
+a květ ⟦lebanon|Levanonu|Libanónu⟧ zchřadl.
 
-[5] Hory se před ním třesou;
-pahorky se rozplývají;
-země se před ním zvedá,
-svět i všichni, kdo na něm bydlí.
+[5] Hory se zatřásly kvůli němu
+a pahorky se rozplynuly;
+a země se zvedla před jeho tváří,
+i svět a všichni, kdo na něm bydlí.
 
-[6] Kdo obstojí před jeho rozhořčením?
-Kdo vydrží žár jeho hněvu?
-Jeho rozhořčení se vylévá jako oheň
-a skály se před ním tříští na kusy.
+[6] Před jeho rozhořčením kdo obstojí?
+A kdo povstane v planutí jeho hněvu?
+Jeho zuřivost se vylila jako oheň
+a skály jsou od něho zbořeny.
 
-[7] ⟦yhwh|Jahve|Hospodin⟧ je dobrý,
-pevnost v den soužení;
-zná ty, kdo se k němu utíkají.
+[7] Dobrý je ⟦yhwh|Jahve|Hospodin⟧,
+pevným místem v den tísně;
+a zná ty, kdo se utíkají k němu.
 
-[8] Ale rozvodněnou povodní
-učiní úplný konec protivníkům
-a své nepřátele bude pronásledovat do tmy.
+[8] A povodní, která přechází,
+učiní úplný konec jejímu místu
+a tma bude pronásledovat jeho nepřátele.
 
-[9] Co kujete proti ⟦yhwh|Jahvovi|Hospodinu⟧?
-On učiní úplný konec;
-soužení nepovstane podruhé.
+[9] Co vymýšlíte proti ⟦yhwh|Jahvovi|Hospodinu⟧?
+Úplný konec on činí;
+tíseň nepovstane dvakrát.
 
-[10] Neboť jsou jako spletené trní,
-jako opilci při pití;
-jsou stráveni jako docela vyschlé strniště.
+[10] Neboť i jako spletené trní
+a jako opilí svým pitím
+jsou stráveni jako suché strniště, docela.
 
-[11] Z tebe vyšel ten,
-kdo proti ⟦yhwh|Jahvovi|Hospodinu⟧ vymýšlel zlo,
-ničemný rádce.
+[11] Z tebe vyšel ten, kdo vymýšlí zlo proti ⟦yhwh|Jahvovi|Hospodinu⟧,
+kdo radí ⟦belial|Belijjaal|ničemnost⟧.
 
 [12] Toto praví ⟦yhwh|Jahve|Hospodin⟧:
 
-„Ač jsou plni síly a je jich mnoho,
-budou posekáni a pominou.
-Ač jsem tě ponížil,
-už tě ponižovat nebudu.
+I když jsou celí, a tak mnozí,
+i tak budou ostříháni, a on přejde.
+A sužoval jsem tě;
+už tě nebudu sužovat.
 
-[13] A nyní zlomím jeho jho, které je na tobě,
-a roztrhám tvá pouta.“
+[13] A nyní zlomím jeho břevno jha, které je na tobě,
+a tvá pouta přetrhnu.
 
-[14] ⟦yhwh|Jahve|Hospodin⟧ o tobě vydal příkaz:
+[14] A ⟦yhwh|Jahve|Hospodin⟧ o tobě přikázal:
 
-„Tvé jméno se už nebude šířit;
-z domu tvých bohů vyhladím
-tesanou modlu i kovovou modlu.
-Připravím ti hrob, neboť jsi opovrženíhodný.“
+Už nebude zaseto nic z tvého jména;
+z domu tvých bohů vytnu
+tesaný obraz a litý obraz;
+zřídím tvůj hrob, neboť jsi pozbyl vážnosti.
 
-[15] Hle, na horách nohy toho, kdo nese dobrou zprávu,
-kdo zvěstuje pokoj!
+[15] Hle, na horách nohy toho, kdo přináší zprávu,
+kdo dává slyšet ⟦shalom|šalom|pokoj⟧!
 Slav své svátky, ⟦judah|Jehudo|Judo⟧,
-plň své sliby,
-neboť už nikdy tebou neprojde ničemník;
-je naprosto vyhlazen.
+splň své sliby;
+neboť už nikdy znovu tebou neprojde ⟦belial|Belijjaal|ničemnost⟧;
+celý je vyťat.
 
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – zachován tetragram.
-- **"The burden of Nineveh" → „Výrok o Ninevehu“** (v1) – hebrejsky מַשָּׂא נִינְוֵה *massa' Nineveh*; *massa'* = výrok / břemeno; „výrok“ je přesnější než „břemeno“.
-- **Poezie formátována odsazením jako citát** (v celé kapitole) – KJV má prózu; kapitola je akrostická báseň a pak výrok.
-- **"God is jealous, and the Lord revengeth; the Lord revengeth, and is furious" → „Yahweh je žárlivý a mstící El; Yahweh se mstí a je plný hněvu“** (v2) – hebrejsky אֵל קַנּוֹא וְנֹקֵם יְהוָה *El qanno venokhem Yahweh*; *El qanno* = žárlivý Bůh; tři výskyty „the LORD“ obnoveny na Yahweh; „mstící“ za *noqem* = vykonávající pomstu.
-- **"will not at all acquit the wicked" → „viníka nikterak neosvobodí“** (v3) – hebrejsky נַקֵּה לֹא יְנַקֶּה *naqqeh lo yenaqqeh* = jistě neosvobodí; „neosvobodí viníka“ je přesnější.
-- **"Bashan languisheth, and Carmel, and the flower of Lebanon languisheth" → „Bashan i Carmel vadnou; květ Lebanonu vadne“** (v4) – hebrejsky וּפֶרַח לְבָנוֹן *uforah Levanon* = květ Lebanonu; „bloom“ je názornější než „flower“; zhuštěno.
-- **"the earth is burned at his presence" → „země se před ním zvedá“** (v5) – hebrejsky וַתִּשָּׂא הָאָרֶץ *vatissa' ha'aretz* = země se zvedá / vzdouvá; „zvedá“ vystihuje obraz zemětřesení lépe než „je spálena“.
-- **"his fury is poured out like fire, and the rocks are thrown down by him" → „Jeho rozhořčení se vylévá jako oheň a skály se před ním tříští na kusy“** (v6) – modernizováno.
-- **"a strong hold in the day of trouble" → „pevnost v den soužení“** (v7) – hebrejsky מָעֹז *ma'oz* = pevnost; jedním slovem.
-- **"he knoweth them that trust in him" → „zná ty, kdo se k němu utíkají“** (v7) – hebrejsky יֹדֵעַ חֹסֵי בוֹ *yodea' chosay vo*; *chasah* = utéct se (do úkrytu); „utíkat se“ je názornější.
-- **"with an overrunning flood he will make an utter end of the place thereof" → „rozvodněnou povodní učiní úplný konec protivníkům“** (v8) – hebrejsky מְקוֹמָהּ *meqomah* = její místo; „protivníkům“ podle kontextu (vztahuje se k Ninevehu / Assyrii).
-- **"and darkness shall pursue his enemies" → „své nepřátele bude pronásledovat do tmy“** (v8) – modernizováno.
-- **"he will make an utter end" → „On učiní úplný konec“** (v9) – modernizováno.
-- **"affliction shall not rise up the second time" → „soužení nepovstane podruhé“** (v9) – hebrejsky לֹא תָקוּם פַּעֲמַיִם צָרָה *lo taqum pa'amayim tzarah*; „soužení“ za *tzarah*.
-- **"while they be folden together as thorns, and while they are drunken as drunkards" → „jsou jako spletené trní, jako opilci při pití“** (v10) – modernizováno.
-- **"they shall be devoured as stubble fully dry" → „jsou stráveni jako docela vyschlé strniště“** (v10) – modernizováno.
-- **"There is one come out of thee, that imagineth evil against the LORD, a wicked counsellor" → „Z tebe vyšel ten, kdo proti Yahweh vymýšlel zlo, ničemný rádce“** (v11) – hebrejsky יֹצֵא מִמֵּךְ חֹשֵׁב עַל יְהוָה רָעָה *yotze mimekh choshev al Yahweh ra'ah*; „ničemný rádce“ za *beliyya'al*.
-- **"Though they be quiet, and likewise many, yet thus shall they be cut down, when he shall pass through" → „Ač jsou plni síly a je jich mnoho, budou posekáni a pominou“** (v12) – hebrejsky שְׁלֵמִים *shelemim* = plní / v pokoji; „plni síly“ je přesnější.
-- **"And the LORD hath given a commandment concerning thee" → „Yahweh o tobě vydal příkaz“** (v14) – modernizováno.
-- **"that no more of thy name be sown" → „Tvé jméno se už nebude šířit“** (v14) – hebrejsky לֹא יִזָּרַע מִשִּׁמְךָ עוֹד = tvé jméno už nebude zaseto / zasazeno.
-- **"the graven image and the molten image" → „tesanou modlu i kovovou modlu“** (v14) – hebrejsky פֶּסֶל *pesel* = tesaná modla; מַסֵּכָה *massekah* = kovová / litá modla; „kovová modla“ je přesnější.
-- **"for thou art vile" → „neboť jsi opovrženíhodný“** (v14) – modernizováno.
-- **"keep thy solemn feasts, perform thy vows" → „Slav své svátky, Judo, plň své sliby“** (v15) – modernizováno; „svátky“ za *chaggayikh*.
-- **"for the wicked shall no more pass through thee" → „neboť už nikdy tebou neprojde ničemník“** (v15) – hebrejsky בְּלִיַּעַל *beliyya'al* = ničemník / Belial (jako ve v11); „ničemný“ jednotně.
+- **Úprava** (v celé kapitole) – jeden hebrejský řádek (kolon) na tištěný řádek, v hebrejském pořadí. Uvozovky kolem slov Yahweh (v12–14) jsou vypuštěny: hebrejština je nemá.
+- **"The burden of Nineveh" → „Břímě Ninve“** (v1) – hebrejsky מַשָּׂא, ponecháno „břímě“ (slovo znamená „co se pozvedá“; „výnos“ je druhý běžný překlad). **„Nachuma Elkošského“** – הָאֶלְקֹשִׁי, přídavné jméno původu („muž z Elkoše“).
+- **"God is jealous, and the LORD revengeth; the LORD revengeth, and is furious" → „Žárlivý a mstící El je Yahweh; mstící je Yahweh, a plný zuřivosti“** (v2) – hebrejsky אֵל קַנּוֹא (pravopis Joz 24:19 za קַנָּא) „žárlivý El“ („horlivý“ je druhý smysl kořene); נֹקֵם, příčestí, třikrát „mstící“; וּבַעַל חֵמָה, doslova „a pán zuřivosti“ (בַּעַל + podstatné jméno označuje toho, kdo je onou věcí poznamenán, jako בַּעַל שֵׂעָר „chlupatý muž“). **"and he reserveth wrath for his enemies" → „a chová hněv pro své nepřátele“** – וְנוֹטֵר הוּא, נָטַר „chovat, střežit“ bez předmětu: „hněv“ je doplněn (jako Lev 19:18; Ž 103:9).
+- **"and will not at all acquit the wicked" → „a jistě nezprostí viny“** (v3) – hebrejsky וְנַקֵּה לֹא יְנַקֶּה, znění Exod 34:7 (doslova „a zprošťovat nezprostí“); hebrejština nemá předmět, proto „viníka“ není doplněno. **„veliký v síle“** – qere גְּדָל־כֹּחַ „veliký silou“ (psaný tvar וגדול „a veliký“ má týž smysl). אֶרֶךְ אַפַּיִם „pomalý k hněvu“, doslova „dlouhý nozder“, jako Exod 34:6. **"the LORD hath his way in the whirlwind and in the storm, and the clouds are the dust of his feet" → „Yahweh – ve vichřici a v bouři je jeho cesta a oblak je jemný prach jeho nohou“** – hebrejské pořadí; סוּפָה „vichřice“, שְׂעָרָה (pravopis za סְעָרָה) „bouře“; עָנָן v jednotném čísle; אָבָק „jemný prach“.
+- **"He rebuketh the sea, and maketh it dry, and drieth up all the rivers" → „Kárá moře a vysušil je a všechny řeky vysušil“** (v4) – hebrejsky גּוֹעֵר, příčestí, pak וַיַּבְּשֵׁהוּ (minulý tvar) a הֶחֱרִיב (perfektum): hymnus mluví o tom, co učinil. **"Bashan languisheth, and Carmel, and the flower of Lebanon languisheth" → „zchřadl Bašan i Karmel a květ Levanonu zchřadl“** – אֻמְלַל dvakrát, perfektum; פֶּרַח „květ“.
+- **"The mountains quake at him, and the hills melt, and the earth is burned at his presence" → „Hory se zatřásly kvůli němu a pahorky se rozplynuly; a země se zvedla před jeho tváří“** (v5) – hebrejsky רָעֲשׁוּ, הִתְמֹגָגוּ (perfekta; מוּג „rozplynout se“); וַתִּשָּׂא, od נָשָׂא „pozvednout“: země „se pozvedla“, vzedmula (KJV „je spálena“ bere slovo z jiného kořene; nejisté); מִפָּנָיו, doslova „od jeho tváře“. **"yea, the world" → „i svět“** – וְתֵבֵל.
+- **"Who can stand before his indignation? and who can abide in the fierceness of his anger?" → „Před jeho rozhořčením kdo obstojí? A kdo povstane v planutí jeho hněvu?“** (v6) – hebrejské pořadí; יָקוּם „povstat“; חֲרוֹן אַפּוֹ „planutí jeho hněvu“ (אַף „hněv“, doslova „nos“). **"his fury is poured out like fire, and the rocks are thrown down by him" → „Jeho zuřivost se vylila jako oheň a skály jsou od něho zbořeny“** – perfekta; חֵמָה „zuřivost“; נִתְּצוּ, נָתַץ „zbořit“.
+- **"The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him" → „Dobrý je Yahweh, pevným místem v den tísně; a zná ty, kdo se utíkají k němu“** (v7) – hebrejsky לְמָעוֹז „za pevné místo“; צָרָה „tíseň“; חֹסֵי בוֹ „utíkající se k němu“ (חָסָה, ne „důvěřovat“: to je בָּטַח).
+- **"with an overrunning flood he will make an utter end of the place thereof" → „povodní, která přechází, učiní úplný konec jejímu místu“** (v8) – hebrejsky וּבְשֶׁטֶף עֹבֵר „a povodní přecházející“; כָּלָה יַעֲשֶׂה „učiní úplný konec“; מְקוֹמָהּ „její místo“ (ženský rod: Ninve; dřívější „protivníkům“ v hebrejštině nebylo). **"and darkness shall pursue his enemies" → „a tma bude pronásledovat jeho nepřátele“** – וְאֹיְבָיו יְרַדֶּף־חֹשֶׁךְ: „tma“ může být podmětem (tak verš) nebo místem: „bude pronásledovat své nepřátele do tmy“ („do“ doplněno); hebrejština dovoluje obojí.
+- **"What do ye imagine against the LORD? he will make an utter end: affliction shall not rise up the second time" → „Co vymýšlíte proti Yahweh? Úplný konec on činí; tíseň nepovstane dvakrát“** (v9) – hebrejsky תְּחַשְּׁבוּן, חִשֵּׁב „vymýšlet“; עֹשֶׂה příčestí; פַּעֲמַיִם „dvakrát“; צָרָה „tíseň“ jako ve v7.
+- **"For while they be folden together as thorns, and while they are drunken as drunkards, they shall be devoured as stubble fully dry" → „Neboť i jako spletené trní a jako opilí svým pitím jsou stráveni jako suché strniště, docela“** (v10) – hebrejsky כִּי עַד־סִירִים סְבֻכִים וּכְסָבְאָם סְבוּאִים, těžký řádek: עַד („až k“, „i jako“, „zatímco“) a slovní hra סָבְאָם … סְבוּאִים („jejich pití … opilí“) jsou nejisté; slova jsou zachována, jak jen čeština dovolí. אֻכְּלוּ, perfektum od אָכַל „strávit“; מָלֵא „plný“, jako příslovce „docela“.
+- **"There is one come out of thee, that imagineth evil against the LORD, a wicked counsellor" → „Z tebe vyšel ten, kdo vymýšlí zlo proti Yahweh, kdo radí ničemnost“** (v11) – hebrejsky מִמֵּךְ יָצָא (perfektum; „ty“ v ženském rodě, město); יֹעֵץ בְּלִיָּעַל „radící *belijjaal*“ (obecné podstatné jméno, „ničemnost“, ne jméno: token).
+- **"Though they be quiet, and likewise many, yet thus shall they be cut down, when he shall pass through" → „I když jsou celí, a tak mnozí, i tak budou ostříháni, a on přejde“** (v12) – hebrejsky אִם־שְׁלֵמִים „jestliže (i když) celí“ (v plné síle); וְכֵן … וְכֵן „a tak … a tak“; נָגֹזּוּ, nifal od גָּזַז „stříhat“; וְעָבָר, jednotné číslo: „on“ (nebo „to“) „přejde“ (kdo je míněn, není řečeno). **"Though I have afflicted thee, I will afflict thee no more" → „A sužoval jsem tě; už tě nebudu sužovat“** – וְעִנִּתִךְ, עִנָּה „sužovat“; „ty“ je zde v ženském rodě (Juda / Cijon), ve v14 v mužském (král Ninve).
+- **"For now will I break his yoke from off thee, and will burst thy bonds in sunder" → „A nyní zlomím jeho břevno jha, které je na tobě, a tvá pouta přetrhnu“** (v13) – hebrejsky וְעַתָּה „a nyní“; מֹטֵהוּ, מוֹט „břevno jha“; מֵעָלָיִךְ „z tebe“ (doslova „ze svrchu tebe“); מוֹסְרֹתַיִךְ „pouta“; נִתֵּק „přetrhnout“.
+- **"And the LORD hath given a commandment concerning thee, that no more of thy name be sown" → „A Yahweh o tobě přikázal: Už nebude zaseto nic z tvého jména“** (v14) – hebrejsky וְצִוָּה; מִשִּׁמְךָ „z tvého jména“ (nebude z něho zaseto símě). **"the graven image and the molten image" → „tesaný obraz a litý obraz“** – פֶּסֶל וּמַסֵּכָה, bez členu; אַכְרִית „vytnu“. **"I will make thy grave; for thou art vile" → „zřídím tvůj hrob, neboť jsi pozbyl vážnosti“** – קַלּוֹתָ, קָלַל „být lehký“ (bez váhy).
+- **"Behold upon the mountains the feet of him that bringeth good tidings, that publisheth peace!" → „Hle, na horách nohy toho, kdo přináší zprávu, kdo dává slyšet šalom!“** (v15) – hebrejština Iz 52:7 a jeho znění: מְבַשֵּׂר „přinášející zprávu“ (že je dobrá, slovo neříká), מַשְׁמִיעַ שָׁלוֹם „dávající slyšet *šalom*“. **"O Judah, keep thy solemn feasts, perform thy vows" → „Slav své svátky, Jehudo, splň své sliby“** – חָגִּי … חַגַּיִךְ, doslova „svátkuj své svátky“; שַׁלְּמִי נְדָרָיִךְ, שִׁלֵּם „splnit“ slib; bez „ó“: hebrejština je nemá. **"for the wicked shall no more pass through thee; he is utterly cut off" → „neboť už nikdy znovu tebou neprojde ničemnost; celý je vyťat“** – לֹא יוֹסִיף עוֹד „už znovu nebude“; qere לַעֲבָר „projít“ (psáno לעבור, týž smysl); בְּלִיַּעַל jako ve v11 (token); כֻּלֹּה „celý on“.
+
+### Poznámky
+
+- **v2–8** – částečný abecední akrostich: řádky začínají písmeny א (v2), ב (v3b), ג (v4), ה (v5), ו (v5b), ז (v6), ח (v6b), ט (v7), י (v7b), כ (v8); ד chybí ve v4b (אֻמְלַל) a řada končí u כ. Překlad ji nenapodobuje.
+- **v15** – hebrejsky 2:1; naše 2:1–13 jsou hebrejsky 2:2–14.

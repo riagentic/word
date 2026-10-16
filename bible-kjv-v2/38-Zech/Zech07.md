@@ -1,39 +1,51 @@
 # Zechariah 7
 
-[1] In the fourth year of King ⟦darius|Daryavesh|Darius⟧, the word of ⟦yhwh|Yahweh|the LORD⟧ came to ⟦zechariah|Zecharyah|Zechariah⟧ on the fourth day of the ninth month, which is ⟦kislev|Kislev|Chislev⟧.
+[1] And it came to pass in the fourth year of ⟦darius|Daryavesh|Darius⟧ the king, the word of ⟦yhwh|Yahweh|the LORD⟧ came to ⟦zechariah|Zecharyah|Zechariah⟧ on the fourth of the ninth month, in ⟦kislev|Kislev|Chislev⟧.
 
-[2] Now the people of ⟦bethel|Beit El|Bethel⟧ had sent ⟦sharezer|Saretzer|Sharezer⟧ and ⟦regem-melech|Regem Melech|Regem-melech⟧ and their men to entreat the favor of ⟦yhwh|Yahweh|the LORD⟧,
+[2] And ⟦bethel|Beit El|Bethel⟧ sent ⟦sharezer|Saretzer|Sharezer⟧ and ⟦regem-melech|Regem Melech|Regem-melech⟧ and his men to beseech the face of ⟦yhwh|Yahweh|the LORD⟧,
 
-[3] saying to the priests of the house of ⟦yhwh|Yahweh|the LORD⟧ of Hosts and the prophets, "Should I weep and abstain in the fifth month, as I have done for so many years?"
+[3] saying to the priests who belong to the house of ⟦yhwh|Yahweh|the LORD⟧ of Hosts and to the prophets, saying, "Shall I weep in the fifth month, keeping myself apart, as I have done these how many years?"
 
-[4] Then the word of ⟦yhwh|Yahweh|the LORD⟧ of Hosts came to me:
+[4] And the word of ⟦yhwh|Yahweh|the LORD⟧ of Hosts came to me, saying,
 
-[5] "Say to all the people of the land and the priests, When you fasted and mourned in the fifth month and in the seventh, for these seventy years, was it for me that you fasted?
+[5] Say to all the people of the land and to the priests, saying, When you fasted and lamented in the fifth and in the seventh, and these seventy years, did you surely fast for me, for me?
 
-[6] And when you eat and when you drink, do you not eat for yourselves and drink for yourselves?
+[6] And when you eat and when you drink, is it not you who eat and you who drink?
 
-[7] Were not these the words that ⟦yhwh|Yahweh|the LORD⟧ proclaimed by the former prophets, when ⟦jerusalem|Yerushalayim|Jerusalem⟧ was inhabited and prosperous, with her cities around her, and the ⟦negev|Negev|Negeb⟧ and the ⟦shephelah|Shefelah|Shephelah⟧ were inhabited?"
+[7] Are not these the words that ⟦yhwh|Yahweh|the LORD⟧ called out by the hand of the former prophets, when ⟦jerusalem|Yerushalayim|Jerusalem⟧ was dwelling and untroubled, and her cities around her, and the ⟦negev|Negev|Negeb⟧ and the ⟦shephelah|Shefelah|Shephelah⟧ were dwelling?
 
 [8] And the word of ⟦yhwh|Yahweh|the LORD⟧ came to ⟦zechariah|Zecharyah|Zechariah⟧, saying,
 
-[9] "Thus says ⟦yhwh|Yahweh|the LORD⟧ of Hosts:
+[9] Thus says ⟦yhwh|Yahweh|the LORD⟧ of Hosts, saying:
 
-"Render true judgments,
-show ⟦steadfast-love|chesed|kindness⟧ and mercy to one another,
+Judge judgment of truth,
+and do ⟦steadfast-love|chesed|steadfast love⟧ and compassion, each man with his brother;
 
-[10] do not oppress the widow, the fatherless,
-the sojourner, or the poor,
-and let none of you devise evil against another in your heart."
+[10] and widow and fatherless, sojourner and afflicted, do not extort from;
+and evil, each man against his brother, do not devise in your heart.
 
-[11] But they refused to pay attention and turned a stubborn shoulder and stopped their ears that they might not hear.
+[11] And they refused to give heed, and they gave a stubborn shoulder, and their ears they made heavy from hearing.
 
-[12] They made their hearts diamond-hard lest they should hear the ⟦torah|Torah|law⟧ and the words that ⟦yhwh|Yahweh|the LORD⟧ of Hosts had sent by his Spirit through the former prophets. Therefore great anger came from ⟦yhwh|Yahweh|the LORD⟧ of Hosts.
+[12] And their heart they made diamond, from hearing the ⟦torah|Torah|law⟧ and the words that ⟦yhwh|Yahweh|the LORD⟧ of Hosts sent by his spirit by the hand of the former prophets; and there was great wrath from ⟦yhwh|Yahweh|the LORD⟧ of Hosts.
 
-[13] "As I called, and they would not hear, so they called, and I would not hear," says ⟦yhwh|Yahweh|the LORD⟧ of Hosts,
+[13] And it came to pass: as he called and they did not hear, so they shall call and I will not hear, says ⟦yhwh|Yahweh|the LORD⟧ of Hosts.
 
-[14] "and I scattered them with a whirlwind among all the nations that they had not known. Thus the land they left was desolate, so that no one went to and fro, and the pleasant land was made desolate."
+[14] And I stormed them away over all the nations whom they had not known, and the land was desolate behind them, with none passing over and none returning; and they made the land of desire a thing that appalls.
 
 ## Changes
 
-- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton יְהוָה rendered directly.
-- **"LORD of hosts" → "Yahweh of Hosts"** (throughout) — Hebrew יְהוָה צְבָאוֹת *Yahweh Tzeva'ot*; the military-covenantal divine title preserved.
+- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton יְהוָה preserved. **"LORD of hosts" → "Yahweh of Hosts"** (v3, 4, 9, 12, 13) — the prophets' formula row; כֹּה אָמַר "Thus says" (v9), אָמַר "says" (v13).
+- **Layout and quotation marks** — prose, v9b–10 lines as before. Double quotation marks only for the question of Bethel (v3); the word of Yahweh (v5–14) stands without them.
+- **"And it came to pass in the fourth year of king Darius, that the word of the LORD came unto Zechariah" → "And it came to pass in the fourth year of Darius the king, the word of Yahweh came to Zechariah"** (v1) — וַיְהִי "And it came to pass" (its row), then the perfect הָיָה as 1:1; "Darius the king" in the Hebrew order. **"in the fourth day of the ninth month, even in Chisleu" → "on the fourth of the ninth month, in Kislev"** — בְּאַרְבָּעָה לַחֹדֶשׁ, "day" is not written; כִּסְלֵו (the month token, as Neh 1:1).
+- **"When they had sent unto the house of God Sherezer and Regemmelech, and their men, to pray before the LORD" → "And Bethel sent Sharezer and Regem-melech and his men to beseech the face of Yahweh"** (v2) — וַיִּשְׁלַח בֵּית־אֵל: Bethel (the town: its people) is the subject; "the house of God" of KJV is not meant (that is בֵּית יְהוָה, v3); another reading takes "Bethel-sharezer" as one man's name ("And Bethel-sharezer sent Regem-melech and his men"): named, not followed. וַאֲנָשָׁיו "and his men" (singular: Regem-melech's, or Sharezer's). חִלָּה אֶת־פְּנֵי "beseech the face of" (its row, which names this verse; also 8:21, 22).
+- **"And to speak unto the priests which were in the house of the LORD of hosts" → "saying to the priests who belong to the house of Yahweh of Hosts … saying"** (v3) — לֵאמֹר twice; אֲשֶׁר לְבֵית "who belong to the house". **"Should I weep in the fifth month, separating myself, as I have done these so many years?" → "Shall I weep in the fifth month, keeping myself apart, as I have done these how many years?"** — הִנָּזֵר, nifal infinitive of נָזַר (the נָזַר nifal row "keep oneself apart": here from food, a fast); זֶה כַּמֶּה שָׁנִים, literally "this how many years".
+- **"Then came the word of the LORD of hosts unto me, saying" → "And the word of Yahweh of Hosts came to me, saying"** (v4) — the formula row (here with "of Hosts").
+- **"When ye fasted and mourned in the fifth and seventh month, even those seventy years, did ye at all fast unto me, even to me?" → "When you fasted and lamented in the fifth and in the seventh, and these seventy years, did you surely fast for me, for me?"** (v5) — צַמְתֶּם וְסָפוֹד, a perfect and an infinitive absolute; סָפַד "lament" (its row); "month" is not written; וְזֶה שִׁבְעִים שָׁנָה, literally "and this seventy years" (as 1:12 "these seventy years"); הֲצוֹם צַמְתֻּנִי אָנִי, the infinitive absolute with its verb (standing decision "surely"; literally "fasting did you fast me"), and the stressed pronoun אָנִי "me" at the end.
+- **"And when ye did eat, and when ye did drink, did not ye eat for yourselves, and drink for yourselves?" → "And when you eat and when you drink, is it not you who eat and you who drink?"** (v6) — imperfects; הָאֹכְלִים · הַשֹּׁתִים, participles with the article: "you are the eaters and you the drinkers" (for yourselves, not for me).
+- **"Should ye not hear the words which the LORD hath cried by the former prophets" → "Are not these the words that Yahweh called out by the hand of the former prophets"** (v7) — הֲלוֹא אֶת־הַדְּבָרִים, the object marker with no verb: "(Is it) not the words": "these" and "are" are supplied (KJV supplies "should ye not hear"); קָרָא "call out" (as 1:4); בְּיַד "by the hand of" (also v12). **"when Jerusalem was inhabited and in prosperity" → "when Jerusalem was dwelling and untroubled"** — יֹשֶׁבֶת, יָשַׁב "dwell" of the city (as 2:4); שְׁלֵוָה "untroubled" (the שָׁלָה row). **"when men inhabited the south and the plain" → "and the Negev and the Shephelah were dwelling"** — יֹשֵׁב, singular, with the two regions as subject ("men" is not in the Hebrew); place tokens.
+- **"Thus speaketh the LORD of hosts, saying" → "Thus says Yahweh of Hosts, saying"** (v9). **"Execute true judgment, and shew mercy and compassions every man to his brother" → "Judge judgment of truth, and do chesed and compassion, each man with his brother"** — מִשְׁפַּט אֱמֶת שְׁפֹטוּ, the verb with its own noun (as Ezek 18:8 "judgment of truth"; the שָׁפַט and מִשְׁפָּט rows); חֶסֶד token (reviewer row; the earlier form "kindness" is replaced); רַחֲמִים "compassion" (its row); עָשָׂה חֶסֶד אֶת "do chesed with" (the עָשָׂה חֶסֶד עִם row); אִישׁ אֶת־אָחִיו "each man … his brother" (its row; also v10).
+- **"And oppress not the widow, nor the fatherless, the stranger, nor the poor" → "and widow and fatherless, sojourner and afflicted, do not extort from"** (v10) — the Hebrew order, objects first; אַלְמָנָה "widow", יָתוֹם "fatherless", גֵּר "sojourner", עָנִי "afflicted" (their rows); עָשַׁק "extort from" (its row; as Jer 7:6). **"and let none of you imagine evil against his brother in your heart" → "and evil, each man against his brother, do not devise in your heart"** — רָעַת אִישׁ אָחִיו, "the evil of a man (against) his brother"; חָשַׁב "devise" (the חָשַׁב row: of the mind "think / devise"); לֵבָב "heart".
+- **"But they refused to hearken, and pulled away the shoulder, and stopped their ears, that they should not hear" → "And they refused to give heed, and they gave a stubborn shoulder, and their ears they made heavy from hearing"** (v11) — מֵאֵן "refuse" (its row); הִקְשִׁיב "give heed" (as 1:4); כָתֵף סֹרָרֶת "a stubborn shoulder" (סָרַר "be stubborn, rebellious"; the ox that will not take the yoke, Hos 4:16); הִכְבִּיד "make heavy" (its row: of ears as of the heart); מִשְּׁמוֹעַ "from hearing".
+- **"Yea, they made their hearts as an adamant stone, lest they should hear the law" → "And their heart they made diamond, from hearing the Torah"** (v12) — לִבָּם singular; שָׁמִיר "diamond" (as Ezek 3:9; Jer 17:1: a hard stone; the Isa 5–8 row's שָׁמִיר "briers" is another word); "as" is not in the Hebrew; מִשְּׁמוֹעַ "from hearing" (as v11). **"which the LORD of hosts hath sent in his spirit by the former prophets" → "that Yahweh of Hosts sent by his spirit by the hand of the former prophets"** — בְּרוּחוֹ "by his spirit", lower case as the finished books (the רוּחַ row). **"therefore came a great wrath from the LORD of hosts" → "and there was great wrath from Yahweh of Hosts"** — וַיְהִי קֶצֶף גָּדוֹל, וַ "and" (not "therefore"); קֶצֶף "wrath" (as 1:2, 15).
+- **"Therefore it is come to pass, that as he cried, and they would not hear; so they cried, and I would not hear" → "And it came to pass: as he called and they did not hear, so they shall call and I will not hear"** (v13) — וַיְהִי "And it came to pass"; קָרָא "called" (he: Yahweh, through the prophets) beside the first person "I will not hear" in the same verse, as printed; יִקְרְאוּ … וְלֹא אֶשְׁמָע, imperfects: "they shall call … I will not hear" (or "would call … would not hear").
+- **"But I scattered them with a whirlwind among all the nations whom they knew not" → "And I stormed them away over all the nations whom they had not known"** (v14) — וְאֵסָעֲרֵם, piel of סָעַר "storm" (the root of סְעָרָה "storm"), with the simple וְ, not the narrative form: read as past in its context (a future "and I will storm them away" is possible); עַל "over". **"Thus the land was desolate after them, that no man passed through nor returned" → "and the land was desolate behind them, with none passing over and none returning"** — נָשַׁמָּה, nifal of שָׁמֵם "be desolate"; מֵעֹבֵר וּמִשָּׁב, "from one passing over and from one returning" (the עָבַר "pass over" row). **"for they laid the pleasant land desolate" → "and they made the land of desire a thing that appalls"** — וַיָּשִׂימוּ, wayyiqtol "and they made"; אֶרֶץ־חֶמְדָּה "the land of desire" (the חֶמְדָּה row "desire"); שַׁמָּה "a thing that appalls" (its row; one root with נָשַׁמָּה).

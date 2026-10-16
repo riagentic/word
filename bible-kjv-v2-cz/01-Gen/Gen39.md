@@ -1,68 +1,88 @@
 # Genesis 39
 
-[1] Josef byl odveden dolů do ⟦egypt|Micrajim|Egypta⟧; a ⟦potiphar|Potifar|Potífar⟧, dvořan ⟦pharaoh|Paroha|faraóna⟧, velitel stráže, ⟦egyptian|Micri|Egypťan⟧, ho koupil z ruky ⟦ishmaelites|Jišmeelim|Izmaelců⟧, kteří ho tam přivedli.
+[1] A Josef byl odveden dolů do ⟦egypt|Micrajim|Egypta⟧; a ⟦potiphar|Potifar|Potífar⟧, eunuch ⟦pharaoh|Parohův|faraónův⟧, velitel stráží, muž ⟦egyptian|Micri|Egypťan⟧, ho koupil z ruky ⟦ishmaelites|Jišmeelim|Izmaelců⟧, kteří ho tam dolů odvedli.
 
-[2] ⟦yhwh|Jahve|Hospodin⟧ byl s Josefem, a ten se stal úspěšným mužem; byl v domě svého pána ⟦egyptian|Micriho|Egypťana⟧.
+[2] A ⟦yhwh|Jahve|Hospodin⟧ byl s Josefem a byl to muž, který má zdar; a byl v domě svého pána ⟦egyptian|Micriho|Egypťana⟧.
 
-[3] Jeho pán viděl, že ⟦yhwh|Jahve|Hospodin⟧ je s ním a že ⟦yhwh|Jahve|Hospodin⟧ dává zdar všemu, co dělá jeho ruka.
+[3] A jeho pán viděl, že ⟦yhwh|Jahve|Hospodin⟧ je s ním a že všemu, co on činí, dává ⟦yhwh|Jahve|Hospodin⟧ zdar v jeho ruce.
 
-[4] Josef tedy nalezl přízeň v jeho očích a sloužil mu; a on ho ustanovil správcem nad svým domem a svěřil do jeho ruky všechno, co měl.
+[4] A Josef nalezl přízeň v jeho očích a posluhoval mu; a ustanovil ho nad svým domem a všechno, co měl, dal do jeho ruky.
 
-[5] Od doby, kdy ho ustanovil správcem ve svém domě a nade vším, co měl, žehnal ⟦yhwh|Jahve|Hospodin⟧ domu toho ⟦egyptian|Micriho|Egypťana⟧ kvůli Josefovi; a požehnání ⟦yhwh|Jahveho|Hospodina⟧ spočívalo na všem, co měl, v domě i na poli.
+[5] I stalo se od chvíle, kdy ho ustanovil ve svém domě a nade vším, co měl, že ⟦yhwh|Jahve|Hospodin⟧ požehnal domu toho ⟦egyptian|Micriho|Egypťana⟧ pro Josefa; a požehnání ⟦yhwh|Jahveho|Hospodinovo⟧ bylo na všem, co měl, v domě i na poli.
 
-[6] Nechal tedy všechno, co měl, v Josefově ruce, a když měl on všechno na starosti, nestaral se o nic kromě jídla, které jedl.
+[6] A zanechal všechno, co měl, v ruce Josefově a při něm nevěděl o ničem, leda o chlebu, který jedl.
 
-Josef byl krásné postavy a krásného vzhledu.
+A Josef byl krásné postavy a krásného vzhledu.
 
-[7] Po těchto událostech upřela manželka jeho pána oči na Josefa a řekla: „Lehni si se mnou.“
+[7] I stalo se po těchto věcech, že žena jeho pána pozvedla oči k Josefovi a řekla: „Lež se mnou.“
 
-[8] Ale on odmítl a řekl manželce svého pána: „Hle, se mnou tady se můj pán nestará o nic v domě a všechno, co má, svěřil do mé ruky.
+[8] A on odmítl a řekl ženě svého pána: „Hle, můj pán při mně neví, co je v domě, a všechno, co má, dal do mé ruky.
 
-[9] V tomto domě není větší než já; a nic mi neodepřel kromě tebe, protože jsi jeho manželka. Jak bych tedy mohl spáchat toto veliké zlo a zhřešit proti ⟦elohim|Elohim|Bohu⟧?“
+[9] Není v tomto domě větší než já a neodepřel mi nic, leda tebe, protože jsi jeho žena. A jak bych učinil toto veliké zlo a zhřešil proti ⟦elohim|Elohim|Bohu⟧?“
 
-[10] A ačkoli k Josefovi mluvila den co den, neposlechl ji, aby si lehl vedle ní nebo byl s ní.
+[10] I stalo se, když mluvila k Josefovi den co den, že jí nenaslouchal, aby ležel vedle ní, aby byl s ní.
 
-[11] Jednoho dne, když vešel do domu, aby dělal svou práci, nebyl uvnitř nikdo z mužů domu.
+[11] I stalo se jednoho takového dne, že vešel do domu, aby konal své dílo, a nikdo z mužů domu tam v domě nebyl.
 
-[12] Chytila ho za oděv a řekla: „Lehni si se mnou!“ Ale on nechal svůj oděv v její ruce a utekl ven.
+[12] A chytila ho za roucho se slovy: „Lež se mnou.“ A zanechal své roucho v její ruce a utekl a vyšel ven.
 
-[13] Když viděla, že nechal svůj oděv v její ruce a utekl ven,
+[13] I stalo se, když viděla, že zanechal své roucho v její ruce a utekl ven,
 
-[14] zavolala muže ze své domácnosti a řekla jim: „Podívejte, přivedl nám ⟦hebrew|Ivriho|Hebrejce⟧, aby si z nás tropil posměch! Přišel ke mně, aby se mnou ležel, a já jsem hlasitě vykřikla.
+[14] že zavolala na muže svého domu a řekla jim takto: „Pohleďte, přivedl nám muže, ⟦hebrew|Ivriho|Hebrejce⟧, aby si z nás tropil posměch. Vešel ke mně, aby se mnou ležel, a já jsem zavolala velikým hlasem.
 
-[15] Když uslyšel, že jsem zvýšila hlas a vykřikla, nechal svůj oděv vedle mě a utekl ven.“
+[15] I stalo se, když uslyšel, že jsem pozvedla hlas a zavolala, že zanechal své roucho vedle mne a utekl a vyšel ven.“
 
-[16] Nechala si jeho oděv u sebe, dokud jeho pán nepřišel domů.
+[16] A položila jeho roucho vedle sebe, dokud jeho pán nepřišel do svého domu.
 
-[17] Potom k němu promluvila právě těmito slovy: „Ten hebrejský služebník, kterého jsi k nám přivedl, ke mně přišel, aby si ze mě tropil posměch;
+[17] A promluvila k němu podle těchto slov: „Vešel ke mně ten hebrejský otrok, kterého jsi nám přivedl, aby si ze mne tropil posměch.
 
-[18] a když jsem zvýšila hlas a vykřikla, nechal svůj oděv vedle mě a utekl ven.“
+[18] I stalo se, když jsem pozvedla hlas a zavolala, že zanechal své roucho vedle mne a utekl ven.“
 
-[19] Když jeho pán uslyšel slova, která mu jeho manželka řekla – „Takhle se ke mně tvůj služebník zachoval!“ –, velmi se rozhněval.
+[19] I stalo se, když jeho pán uslyšel slova své ženy, která k němu promluvila: „Takové věci mi učinil tvůj otrok,“ že vzplanul jeho hněv.
 
-[20] Josefův pán ho vzal a dal ho do domu vězení, na místo, kde byli drženi královi vězni; a byl tam v domě vězení.
+[20] A Josefův pán ho vzal a dal ho do žaláře, na místo, kde byli spoutáni královi vězni; a byl tam v žaláři.
 
-[21] Ale ⟦yhwh|Jahve|Hospodin⟧ byl s Josefem a projevil mu věrnou lásku a dal mu přízeň v očích správce domu vězení.
+[21] A ⟦yhwh|Jahve|Hospodin⟧ byl s Josefem a vztáhl k němu ⟦steadfast-love|chesed|milosrdenství⟧ a dal mu přízeň v očích velitele žaláře.
 
-[22] Správce domu vězení svěřil do Josefovy ruky všechny vězně, kteří byli v domě vězení; a cokoli se tam dělalo, byl to on, kdo to dělal.
+[22] A velitel žaláře dal do ruky Josefovy všechny vězně, kteří byli v žaláři; a všechno, co tam činili, činil on.
 
-[23] Správce domu vězení se nestaral o nic, co bylo v Josefově ruce, protože ⟦yhwh|Jahve|Hospodin⟧ byl s ním; a cokoli dělal, ⟦yhwh|Jahve|Hospodin⟧ tomu dával zdar.
+[23] Velitel žaláře nehleděl na nic z toho, co bylo v jeho ruce, protože ⟦yhwh|Jahve|Hospodin⟧ byl s ním; a co on činil, tomu dával ⟦yhwh|Jahve|Hospodin⟧ zdar.
 
 ## Změny
 
-- **"LORD" → „Yahweh“** (v celé kapitole) – tetragram zachován.
-- **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
-- **"a prosperous man" → „úspěšným mužem“** (v2) – hebrejsky אִישׁ מַצְלִיחַ *ish matsliach*. Od *tsalach* = mít zdar / uspět ve svém úsilí. „Prosperous“ v moderní angličtině naznačuje bohatství; hebrejština míní úspěch v širším smyslu.
-- **"a goodly person, and well favoured" → „krásné postavy a krásného vzhledu“** (v6) – hebrejsky יְפֵה־תֹאַר וִיפֵה מַרְאֶה *yephe-to'ar wi-yphe mar'eh*. Táž fráze je užita o Rachel (29:17). Záměrná ozvěna: syn zdědil nápadnou krásu své matky.
-- **"wotteth not" → „nestará se“** (v8) – hebrejsky לֹא־יָדַע *lo-yada*. Archaické „wotteth“ v KJV pochází ze staroanglického „vědět“ = hebrejské *yada*. Zde podle kontextu: „nezajímá se o“.
-- **"how then can I do this great wickedness, and sin against God?" → „Jak bych tedy mohl spáchat toto veliké zlo a zhřešit proti *Elohim*?“ (v9)** – hebrejsky וְאֵיךְ אֶעֱשֶׂה הָרָעָה הַגְּדֹלָה הַזֹּאת וְחָטָאתִי לֵאלֹהִים. Joseph výslovně chápe cizoložství jako hřích proti *Elohim* – pozoruhodné, protože žena je Egypťanka a muž je zotročený; Joseph přenáší mravní rozměr z oblasti domácnosti / společnosti do oblasti božské.
-- **"lie by her, or to be with her" → „aby si lehl vedle ní nebo byl s ní“** (v10) – doslovná hebrejština: Joseph se vyhýbá dokonce i její tělesné blízkosti.
-- **"prison" → „dům vězení“** (v20–23) – hebrejsky בֵּית הַסֹּהַר *beit ha-sohar*. Ojedinělý výraz v hebrejské Bibli; pravděpodobně odborný termín přejatý z egyptštiny – odtud překladatelova poznámka. Moderní „vězení“ by bylo v pořádku; ponecháno doslovné „dům vězení“ kvůli zvláštnosti biblického termínu.
-- **"keeper of the prison" → „správce domu vězení“** (v21, 22, 23) – hebrejsky שַׂר בֵּית־הַסֹּהַר *sar beit ha-sohar* = „náčelník / kníže domu vězení“.
-- **"shewed him mercy" → „projevil mu věrnou lásku“** (v21) – hebrejsky וַיֵּט אֵלָיו חָסֶד *wa-yet elav chased*. *Chesed* jako jinde. Vyjádřeno jako záměrný čin.
+- **"LORD" → „Yahweh“** (v celé kapitole) – Tetragrammaton zachován.
+- **"God" → „*Elohim*“** (v9) – hebrejsky *Elohim*.
+- **"an officer of Pharaoh" → „eunuch Parohův“** (v1) – hebrejsky סְרִיס *saris*: „eunuch“, také titul dvorského úředníka, ať už je vykleštěn, nebo ne (eunuch / dvořan); Potiphar má ženu (v7). Pro slovo je ponechán jeden překlad (Gen 37:36; 40:2, 7).
+- **"captain of the guard" → „velitel stráží“** (v1) – hebrejsky שַׂר הַטַּבָּחִים, doslova „velitel řezníků“: řezníci nebo kuchaři, a odtud kati nebo královská tělesná stráž; co se míní, není jisté. Totéž slovo שַׂר je „velitel“ ve „velitel žaláře“ (v21–23; KJV „keeper“).
+- **"an Egyptian" → „muž Micri“** (v1) – hebrejsky אִישׁ מִצְרִי, „egyptský muž“; tak i אִישׁ עִבְרִי „hebrejský muž“ (v14).
+- **„z ruky Jišmeelim“** (v1) – hebrejština zde má „Ishmaelity“; Gen 37:36 má „Medance“. Neharmonizováno.
+- **"a prosperous man" → „muž, který má zdar“** (v2, 3, 23) – hebrejsky אִישׁ מַצְלִיחַ *ish matsliach*, příčestí slovesa הִצְלִיחַ „mít zdar / dát zdar“, téhož slovesa jako „Yahweh dává zdar“ ve v3, 23: ten, komu se daří, co dělá, ne boháč.
+- **„pán“** (v2, 3, 7, 8, 16, 19, 20) – hebrejsky אָדוֹן *adon*, všude jeden překlad.
+- **"served him" → „posluhoval mu“** (v4) – hebrejsky וַיְשָׁרֶת אֹתוֹ: שֵׁרֵת, být k ruce osobě, ne slovo „sloužit“ (עָבַד).
+- **"made him overseer over his house" → „ustanovil ho nad svým domem“** (v4, 5) – hebrejsky וַיַּפְקִדֵהוּ עַל־בֵּיתוֹ; „správce“ v hebrejštině není. „Dal do jeho ruky“ je נָתַן בְּיָדוֹ (v4, 8, 22).
+- **"for Joseph's sake" → „pro Josefa“** (v5) – hebrejsky בִּגְלַל יוֹסֵף.
+- **"he knew not ought he had" → „při něm nevěděl o ničem“** (v6, 8) – hebrejsky וְלֹא־יָדַע אִתּוֹ מְאוּמָה, doslova „a nevěděl s ním nic“: maje Josepha, o nic se nezajímal. Sloveso je יָדַע „vědět, znát“; „nestaral se“ je výklad. „Chléb“ je לֶחֶם.
+- **"a goodly person, and well favoured" → „krásné postavy a krásného vzhledu“** (v6) – hebrejsky יְפֵה־תֹאַר וִיפֵה מַרְאֶה, slova užitá o Rachel (Gen 29:17).
+- **"cast her eyes upon" → „pozvedla oči k“** (v7) – hebrejsky וַתִּשָּׂא … אֶת־עֵינֶיהָ אֶל.
+- **"There is none greater" → „Není … větší než já“** (v9) – hebrejsky אֵינֶנּוּ גָדוֹל … מִמֶּנִּי, „on není v tomto domě veliký víc než já“: podmětem je pán.
+- **"this great wickedness" → „toto veliké zlo“** (v9) – hebrejsky הָרָעָה הַגְּדֹלָה הַזֹּאת. „Zhřešit proti Elohim“ je וְחָטָאתִי לֵאלֹהִים.
+- **"to lie by her, or to be with her" → „aby ležel vedle ní, aby byl s ní“** (v10) – hebrejština nemá „nebo“.
+- **"about this time" → „jednoho takového dne“** (v11) – hebrejsky כְּהַיּוֹם הַזֶּה, doslova „jako tento den“; přesný smysl není jistý.
+- **"fled, and got him out" → „utekl a vyšel ven“** (v12, 15) – dvě hebrejská slovesa, וַיָּנָס וַיֵּצֵא; ve v13, 18 jen „utekl ven“.
+- **"to mock us" → „aby si z nás tropil posměch“** (v14, 17) – hebrejsky לְצַחֶק בָּנוּ / בִּי, piel slovesa צָחַק „smát se“ (kořen jména Isaac) s בְּ: tropit si posměch, pohrávat si; slovo může nést pohlavní smysl (Gen 26:8).
+- **"I cried with a loud voice" → „zavolala jsem velikým hlasem“** (v14, 15, 18) – hebrejsky וָאֶקְרָא, sloveso „volat“ z v14 („zavolala“).
+- **„položila jeho roucho vedle sebe“** (v16) – hebrejsky וַתַּנַּח, „položila (nechala spočinout)“.
+- **"The Hebrew servant" → „ten hebrejský otrok“** (v17, 19) – hebrejsky עֶבֶד. Hebrejský pořádek slov ve v17 je zachován: „aby si ze mne tropil posměch“ může patřit k „vešel ke mně“ i ke „kterého jsi nám přivedl“.
+- **"After this manner did thy servant to me" → „Takové věci mi učinil tvůj otrok“** (v19) – hebrejsky כַּדְּבָרִים הָאֵלֶּה, táž vazba jako „podle těchto slov“ ve v17; דָּבָר je „slovo“ i „věc“.
+- **"his wrath was kindled" → „vzplanul jeho hněv“** (v19) – hebrejsky וַיִּחַר אַפּוֹ, doslova „vzplanul jeho nos“. Hebrejština neříká proti komu.
+- **"prison" → „žalář“** (v20–23) – hebrejsky בֵּית הַסֹּהַר *beit ha-sohar*, „dům *soharu*“. Slovo סֹהַר je doloženo jen v Gen 39–40; jeho smysl je nejistý (snad „kulatý dům“ nebo „ohrada“).
+- **„byli spoutáni královi vězni“** (v20) – tradice čtení (qere) má אֲסִירֵי „vězni“; psaný text (ketiv) má אסורי „spoutaní“. Obojí je od kořene אָסַר „spoutat“, stejně jako „byli spoutáni“.
+- **"shewed him mercy" → „vztáhl k němu *chesed*“** (v21) – hebrejsky וַיֵּט אֵלָיו חָסֶד: נָטָה „vztáhnout“, חֶסֶד *chesed*.
+- **"gave him favour" → „dal mu přízeň“** (v21) – hebrejsky וַיִּתֵּן חִנּוֹ, doslova „dal jeho přízeň“: přízeň prokázanou jemu.
+- **"he was the doer of it" → „činil on“** (v22) – hebrejsky הוּא הָיָה עֹשֶׂה; „všechno, co tam činili“ je כָּל־אֲשֶׁר עֹשִׂים שָׁם.
+- **"looked not to any thing that was under his hand" → „nehleděl na nic z toho, co bylo v jeho ruce“** (v23) – hebrejsky אֵין … רֹאֶה אֶת־כָּל־מְאוּמָה בְּיָדוֹ; „jeho ruka“ je Josephova, kterého zde hebrejština nejmenuje.
 
 ### Poznámky
 
-- **Vzorec: Yahweh s Josephem** – kapitola čtyřikrát zdůrazňuje, že „Yahweh byl s Josephem“ (v2, 3, 21, 23). Zotročením, křivým obviněním i uvězněním – přítomnost a přízeň Yahweh jde s ním. Teologická pointa kapitoly: božské požehnání není nepřítomnost potíží, ale přítomnost uprostřed potíží.
-- **Paralela s příběhem Tamar a Judaha (kap. 38)** – Joseph odolává nedovolenému pohlavnímu styku; Judah ho vyhledává. Joseph zachovává věrnost svému pánovi; Judah porušuje věrnost vůči Tamar. Umístění kapitol 38 a 39 vedle sebe tento kontrast zdůrazňuje.
-- **Motiv oděvu** – bratři z Josepha strhnou jeho zdobenou suknici (37:23); zde mu oděv strhne Potipharova manželka. Dvakrát je Joseph zrazen tím, co ostatní udělají s jeho šaty, dvakrát je zbaven své identity a sestupuje níž.
+- **„Yahweh byl s Josephem“** – řečeno ve v2, 3, 21, 23, v domě jeho pána i v žaláři.
+- **Roucho** – Josephovu suknici z něho svléknou bratři (37:23) a ukážou ji jako důkaz (37:32); zde jeho roucho (בֶּגֶד, jiné slovo) zůstane v ruce ženy a je ukázáno jako důkaz.

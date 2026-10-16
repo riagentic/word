@@ -1,95 +1,107 @@
 # Genesis 10
 
-[1] Toto jsou rody ⟦noah|Noachových|Noemových⟧ synů – ⟦shem|Šema|Šéma⟧, Chama a Jefeta –; po potopě se jim narodili synové.
+[1] A toto jsou rody synů ⟦noah|Noachových|Noemových⟧, ⟦shem|Šema|Šéma⟧, Chama a Jefeta; a narodili se jim synové po potopě.
 
-[2] Synové Jefetovi: Gomer, ⟦magog|Magog|Magóg⟧, Madaj, ⟦javan|Javan|Jávan⟧, ⟦tubal|Tuval|Túbal⟧, ⟦meshech|Mešech|Mešek⟧ a ⟦tiras|Tiras|Tíras⟧.
+[2] Synové Jefetovi: Gomer a ⟦magog|Magog|Magóg⟧ a Madaj a ⟦javan|Javan|Jávan⟧ a ⟦tubal|Tuval|Túbal⟧ a ⟦meshech|Mešech|Mešek⟧ a ⟦tiras|Tiras|Tíras⟧.
 
-[3] Synové Gomerovi: Aškenaz, ⟦riphath|Rifat|Rífat⟧ a ⟦togarmah|Togarma|Tógarma⟧.
+[3] A synové Gomerovi: Aškenaz a ⟦riphath|Rifat|Rífat⟧ a ⟦togarmah|Togarma|Tógarma⟧.
 
-[4] Synové ⟦javan|Javanovi|Jávanovi⟧: ⟦elishah|Eliša|Elíša⟧, ⟦tarshish|Taršiš|Taršíš⟧, ⟦kittim|Kittim|Kitejci⟧ a ⟦rodanim|Rodanim|Dodanci⟧.
+[4] A synové ⟦javan|Javanovi|Jávanovi⟧: ⟦elishah|Eliša|Elíša⟧ a ⟦tarshish|Taršiš|Taršíš⟧, ⟦kittim|Kittim|Kitejci⟧ a ⟦rodanim|Rodanim|Dodanci⟧.
 
-[5] Od nich se rozšířily pobřežní národy do svých zemí, každý podle svého jazyka, podle svých čeledí, ve svých národech.
+[5] Z těch se odloučila přímoří národů ve svých zemích, každý podle svého jazyka, podle svých čeledí, ve svých národech.
 
-[6] Synové Chamovi: ⟦cush|Kuš|Kúš⟧, ⟦egypt|Micrajim|Egypt⟧, ⟦put|Put|Pút⟧ a Kenaan.
+[6] A synové Chamovi: ⟦cush|Kuš|Kúš⟧ a ⟦egypt|Micrajim|Egypt⟧ a ⟦put|Put|Pút⟧ a Kenaan.
 
-[7] Synové ⟦cush|Kušovi|Kúšovi⟧: ⟦seba|Seva|Seba⟧, ⟦havilah|Chavila|Chavíla⟧, ⟦sabtah|Savta|Sabta⟧, ⟦raamah|Raama|Raema⟧ a ⟦sabteca|Savtecha|Sabteka⟧. Synové ⟦raamah|Raamovi|Raemovi⟧: ⟦sheba|Ševa|Šeba⟧ a ⟦dedan|Dedan|Dedán⟧.
+[7] A synové ⟦cush|Kušovi|Kúšovi⟧: ⟦seba|Seva|Seba⟧ a ⟦havilah|Chavila|Chavíla⟧ a ⟦sabtah|Savta|Sabta⟧ a ⟦raamah|Raama|Raema⟧ a ⟦sabteca|Savtecha|Sabteka⟧. A synové ⟦raamah|Raamovi|Raemovi⟧: ⟦sheba|Ševa|Šeba⟧ a ⟦dedan|Dedan|Dedán⟧.
 
-[8] ⟦cush|Kuš|Kúš⟧ zplodil ⟦nimrod|Nimroda|Nimróda⟧; ten byl první, kdo se stal mocným bojovníkem na zemi.
+[8] A ⟦cush|Kuš|Kúš⟧ zplodil ⟦nimrod|Nimroda|Nimróda⟧; ten začal být hrdinou na zemi.
 
-[9] Byl mocným lovcem před ⟦yhwh|Jahvem|Hospodinem⟧; proto se říká: „Jako ⟦nimrod|Nimrod|Nimród⟧, mocný lovec před ⟦yhwh|Jahvem|Hospodinem⟧.“
+[9] Ten byl hrdinou lovu před ⟦yhwh|Jahvem|Hospodinem⟧; proto se říká: „Jako ⟦nimrod|Nimrod|Nimród⟧, hrdina lovu před ⟦yhwh|Jahvem|Hospodinem⟧.“
 
-[10] Počátkem jeho království byly ⟦babel|Bavel|Bábel⟧, ⟦erech|Erech|Erek⟧, Akad a Kalne v zemi ⟦shinar|Šinar|Šineár⟧.
+[10] A počátkem jeho království byl ⟦babel|Bavel|Bábel⟧ a ⟦erech|Erech|Erek⟧ a Akad a Kalne v zemi ⟦shinar|Šinar|Šineár⟧.
 
-[11] Z té země vyšel do ⟦assyria|Aššuru|Asýrie⟧ a vystavěl ⟦nineveh|Ninve|Ninive⟧, ⟦rehoboth-ir|Rechovot Ir|Rechobót-ír⟧, Kelach
+[11] Z té země vyšel do ⟦assyria|Aššuru|Asýrie⟧ a vystavěl ⟦nineveh|Ninve|Ninive⟧ a ⟦rehoboth-ir|Rechovot Ir|Rechobót-ír⟧ a Kelach
 
 [12] a Resen mezi ⟦nineveh|Ninve|Ninive⟧ a Kelachem; to je to veliké město.
 
-[13] ⟦egypt|Micrajim|Egypt⟧ zplodil ⟦ludim|Ludim|Lúďany⟧, ⟦anamim|Anamim|Anámce⟧, ⟦lehabim|Lehavim|Lehábany⟧, ⟦naphtuhim|Naftuchim|Naftúchany⟧,
+[13] A ⟦egypt|Micrajim|Egypt⟧ zplodil ⟦ludim|Ludim|Lúďany⟧ a ⟦anamim|Anamim|Anámce⟧ a ⟦lehabim|Lehavim|Lehábany⟧ a ⟦naphtuhim|Naftuchim|Naftúchany⟧
 
-[14] ⟦pathrusim|Patrusim|Patrúsany⟧, ⟦casluhim|Kasluchim|Kaslúchany⟧ (z nichž vzešli ⟦philistines|Pelištim|Pelištejci⟧) a ⟦caphtorim|Kaftorim|Kaftórce⟧.
+[14] a ⟦pathrusim|Patrusim|Patrúsany⟧ a ⟦casluhim|Kasluchim|Kaslúchany⟧, odkud vyšli ⟦philistines|Pelištim|Pelištejci⟧, a ⟦caphtorim|Kaftorim|Kaftórce⟧.
 
-[15] Kenaan zplodil ⟦sidon|Cidona|Sidóna⟧, svého prvorozeného, a Cheta,
+[15] A Kenaan zplodil ⟦sidon|Cidona|Sidóna⟧, svého prvorozeného, a Cheta
 
-[16] a ⟦jebusites|Jevusim|Jebúsejce⟧, ⟦amorites|Emorim|Emorejce⟧, ⟦girgashites|Girgašim|Girgašejce⟧,
+[16] a ⟦jebusites|Jevusim|Jebúsejce⟧ a ⟦amorites|Emorim|Emorejce⟧ a ⟦girgashites|Girgašim|Girgašejce⟧
 
-[17] ⟦hivites|Chivvim|Chivejce⟧, ⟦arkites|Arkim|Arkejce⟧, ⟦sinites|Sinim|Síňana⟧,
+[17] a ⟦hivites|Chivvim|Chivejce⟧ a ⟦arkites|Arkim|Arkejce⟧ a ⟦sinites|Sinim|Síňana⟧
 
-[18] ⟦arvadites|Arvadim|Arvadce⟧, ⟦zemarites|Cemarim|Semárce⟧ a ⟦hamathites|Chamatim|Chamátce⟧. Potom se čeledi ⟦canaanites|Kenaanim|Kenaanců⟧ rozšířily;
+[18] a ⟦arvadites|Arvadim|Arvadce⟧ a ⟦zemarites|Cemarim|Semárce⟧ a ⟦hamathites|Chamatim|Chamátce⟧; a potom se čeledi ⟦canaanites|Kenaanim|Kenaanců⟧ rozptýlily.
 
-[19] a hranice ⟦canaanites|Kenaanim|Kenaanců⟧ sahala od ⟦sidon|Cidonu|Sidónu⟧ směrem ke Geraru až po ⟦gaza|Azzu|Gázu⟧ a směrem k ⟦sodom|Sedomu|Sodomě⟧, ⟦gomorrah|Amoře|Gomoře⟧, Admě a ⟦zeboiim|Cevojim|Sebojím⟧ až po Lešu.
+[19] I byla hranice ⟦canaanites|Kenaanim|Kenaanců⟧ od ⟦sidon|Cidonu|Sidónu⟧, jak jdeš ke Geraru, až po ⟦gaza|Azzu|Gázu⟧; jak jdeš k ⟦sodom|Sedomu|Sodomě⟧ a ⟦gomorrah|Amoře|Gomoře⟧ a Admě a ⟦zeboiim|Cevojim|Sebojím⟧, až po Lešu.
 
 [20] To jsou synové Chamovi podle svých čeledí, podle svých jazyků, ve svých zemích, ve svých národech.
 
-[21] Také ⟦shem|Šemovi|Šémovi⟧, otci všech synů ⟦eber|Everových|Eberových⟧, staršímu bratru Jefetovu, se narodily děti.
+[21] A ⟦shem|Šemovi|Šémovi⟧, i jemu se narodili synové, otci všech synů ⟦eber|Everových|Eberových⟧, bratru Jefetovu, tomu staršímu.
 
-[22] Synové ⟦shem|Šemovi|Šémovi⟧: ⟦elam|Elam|Élam⟧, ⟦asshur|Aššur|Aššúr⟧, ⟦arpachshad|Arpachšad|Arpakšad⟧, ⟦lud|Lud|Lúd⟧ a Aram.
+[22] Synové ⟦shem|Šemovi|Šémovi⟧: ⟦elam|Elam|Élam⟧ a ⟦asshur|Aššur|Aššúr⟧ a ⟦arpachshad|Arpachšad|Arpakšad⟧ a ⟦lud|Lud|Lúd⟧ a Aram.
 
-[23] Synové Aramovi: ⟦uz|Uc|Ús⟧, ⟦hul|Chul|Chúl⟧, Geter a Maš.
+[23] A synové Aramovi: ⟦uz|Uc|Ús⟧ a ⟦hul|Chul|Chúl⟧ a Geter a Maš.
 
-[24] ⟦arpachshad|Arpachšad|Arpakšad⟧ zplodil Šelacha a Šelach zplodil ⟦eber|Evera|Ebera⟧.
+[24] A ⟦arpachshad|Arpachšad|Arpakšad⟧ zplodil Šelacha a Šelach zplodil ⟦eber|Evera|Ebera⟧.
 
-[25] ⟦eber|Everovi|Eberovi⟧ se narodili dva synové; jeden se jmenoval Peleg, neboť za jeho dnů byla země rozdělena; a jeho bratr se jmenoval Joktan.
+[25] A ⟦eber|Everovi|Eberovi⟧ se narodili dva synové: jméno jednoho bylo Peleg, neboť za jeho dnů byla země rozdělena; a jméno jeho bratra bylo Joktan.
 
-[26] Joktan zplodil ⟦almodad|Almodada|Almódada⟧, ⟦sheleph|Šalefa|Šelefa⟧, ⟦hazarmaveth|Chacarmaveta|Chasarmáveta⟧, Jeracha,
+[26] A Joktan zplodil ⟦almodad|Almodada|Almódada⟧ a ⟦sheleph|Šalefa|Šelefa⟧ a ⟦hazarmaveth|Chacarmaveta|Chasarmáveta⟧ a Jeracha
 
-[27] ⟦hadoram|Hadorama|Hadórama⟧, ⟦uzal|Uzala|Úzala⟧, Diklu,
+[27] a ⟦hadoram|Hadorama|Hadórama⟧ a ⟦uzal|Uzala|Úzala⟧ a Diklu
 
-[28] ⟦obal|Ovala|Obala⟧, ⟦abimael|Avimaela|Abímaela⟧, ⟦sheba|Ševu|Šebu⟧,
+[28] a ⟦obal|Ovala|Obala⟧ a ⟦abimael|Avimaela|Abímaela⟧ a ⟦sheba|Ševu|Šebu⟧
 
-[29] ⟦ophir|Ofira|Ofíra⟧, ⟦havilah|Chavilu|Chavílu⟧ a ⟦jobab|Jovava|Jobaba⟧; ti všichni byli synové Joktanovi.
+[29] a ⟦ophir|Ofira|Ofíra⟧ a ⟦havilah|Chavilu|Chavílu⟧ a ⟦jobab|Jovava|Jobaba⟧; ti všichni byli synové Joktanovi.
 
-[30] Jejich sídla sahala od ⟦mesha|Mešy|Méši⟧ směrem k Sefaru, k hoře na východě.
+[30] I bylo jejich bydliště od ⟦mesha|Mešy|Méši⟧, jak jdeš k Sefaru, hoře východu.
 
-[31] To jsou synové ⟦shem|Šemovi|Šémovi⟧ podle svých čeledí, podle svých jazyků, ve svých zemích, ve svých národech.
+[31] To jsou synové ⟦shem|Šemovi|Šémovi⟧ podle svých čeledí, podle svých jazyků, ve svých zemích, podle svých národů.
 
-[32] To jsou čeledi ⟦noah|Noachových|Noemových⟧ synů podle jejich rodů, v jejich národech; a z nich se po potopě rozšířily národy po zemi.
+[32] To jsou čeledi synů ⟦noah|Noachových|Noemových⟧ podle jejich rodů, v jejich národech; a z těch se odloučily národy na zemi po potopě.
 
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – tetragram zachován.
-- **"Dodanim" → „Rodanim“** (v4) – hebrejský MT má דֹּדָנִים *Dodanim*; souběžný seznam v 1 Chr 1:7, Samaritánský Pentateuch, LXX a několik rukopisů MT čtou רֹדָנִים *Rodanim* (Rhoďané, obyvatelé Rhodu). *Rodanim* odpovídá zeměpisné logice (Javan = Iónie, Kittim = Kypr, Rodanim = Rhodos – vše egejské). Písařská záměna dalet/reš (v hebrejštině graficky téměř totožné: ד vs. ר). *Rodanim* je téměř jistě původní.
-- **"isles of the Gentiles" → „pobřežní národy“** (v5) – hebrejsky אִיֵּי הַגּוֹיִם *iye ha-goyim*. *Iyim* = ostrovy / pobřeží (středomořské pobřežní oblasti, nejen ostrovy). *Goyim* = národy / lidé. „Gentiles“ (pohané) je křesťansko-teologická glosa; hebrejština znamená prostě „národy“.
-- **"tongue" → „jazyk“** (v5, 20, 31) – modernizováno.
-- **"families" → „čeledi“** (v5, 18, 20, 31, 32) – hebrejsky מִשְׁפָּחָה *mishpachah* = rozvětvená rodina / klan / kmenová jednotka. Větší než nukleární rodina; „čeleď“ (klan) vystihuje tuto společenskou jednotku.
-- **"Mizraim" → „Mizraim“** (v6, 13) – hebrejsky מִצְרַיִם *Mizraim* = Egypt (hebrejské jméno). Duálový tvar, snad označující Horní a Dolní Egypt. KJV přepisuje, ale míjí hlásku cade. „Egypt“ by byl přesný překlad; „Mizraim“ zachovává hebrejské jméno, protože kapitola katalogizuje národy pod jejich původními jmény.
-- **"Phut" → „Put“** (v6) – hebrejsky פּוּט *Put* (oblast poblíž Egypta, snad Libye nebo východní Libye / Kyrenaika). KJV přepisuje „Phut“ podle LXX; moderní bádání ustaluje „Put“.
-- **"he began to be a mighty one" → „byl první, kdo se stal mocným bojovníkem“** (v8) – hebrejsky הוּא הֵחֵל לִהְיוֹת גִּבֹּר בָּאָרֶץ. *Hechel* = začal / byl první. *Gibbor* = mocný bojovník / hrdina (totéž slovo jako dávní „mocní“ v 6:4). Nimrod = první velký dobyvatel popotopní doby.
-- **"mighty hunter before the LORD" – dvojznačné** (v9) – hebrejsky לִפְנֵי יְהוָה *liphne Yahweh* = „před Yahweh“ nebo „ve tváři Yahweh“. Může znamenat:
-  1. „Se souhlasem Yahweh“ (běžné / KJV).
-  2. „Navzdory Yahweh“ (proti němu – rabínské čtení vzhledem k pozdějším negativním spojením Nimroda s Babelem).
-  V hebrejštině dvojznačné; překlad dvojznačnost zachovává.
-- **"went forth Asshur, and builded" → „vyšel do Asshuru a vystavěl“** (v11) – hebrejsky מִן־הָאָרֶץ הַהִוא יָצָא אַשּׁוּר. Dvě čtení:
-  1. „Z té země vyšel Asshur“ (Asshur jako osoba / podmět – KJV).
-  2. „Z té země vyšel (Nimrod) do Asshuru“ (Asshur jako cíl).
-  Čtení 2 odpovídá vyprávění (Nimrodova říše se rozšiřuje ze Shinaru do Asýrie) a má starou oporu. Překlad sleduje čtení 2.
-- **"the city Rehoboth" → „Rehoboth-Ir“** (v11) – hebrejsky וְאֶת־רְחֹבֹת עִיר *we-et Rechovot Ir*. *Rechovot-Ir* = „Široká prostranství města“, pravděpodobně složené vlastní jméno (jako Kiryath-Arba), nikoli „město Rehoboth“ + samostatně. Přeloženo jako složenina.
-- **"Arphaxad" → „Arpachshad“** (v22, 24) – hebrejsky אַרְפַּכְשַׁד *Arpakhshad*. Přepis KJV ztrácí skupinu *ksh*.
-- **"Salah" → „Shelah“** (v24) – hebrejsky שֶׁלַח *Shelach*. KJV nahrazuje šin prostým „s“ – „Shelah“ je moderní standard.
-- **„Peleg“ – hebrejská etymologie zachována** (v25) – hebrejsky פֶּלֶג *Peleg*, od kořene פלג „dělit / štěpit“. Slovní hříčka: „za jeho dnů byla země rozdělena“ (*niphlegah*). Často chápáno jako vzpomínka na rozptýlení u Babelu (kap. 11) nebo na jiné rozdělení obyvatelstva. Glosa jména zachována.
+- **„rody“** (v1, 32) – hebrejsky תּוֹלְדֹת *toledot*, nadpisová formule Genesis (6:9).
+- **Výčty** (v celé kapitole) – jména jsou spojena spojkou „a“ jako v hebrejštině (ve v4 ve dvou dvojicích).
+- **„Dodanim“** (v4) – zde tištěný hebrejský text (masoretský) má דֹדָנִים *Dodanim*. Souběžný seznam v 1 Chr 1:7 má רוֹדָנִים *Rodanim* (ד a ר se snadno zaměňují). Tradiční tvar jména v tomto verši je masoretský; druhý uváděný tvar je z 1 Chr 1:7.
+- **"isles of the Gentiles" → „přímoří národů“** (v5) – hebrejsky אִיֵּי הַגּוֹיִם. אִי = pobřeží nebo ostrov, země dosažitelná po moři; גּוֹיִם = národy.
+- **"divided" → „odloučila se“** (v5, 32) – hebrejsky נִפְרְדוּ, nifal od פָּרַד „odloučit, oddělit“; jiné slovo než „rozdělena“ ve v25. „Ve svých zemích“ je בְּאַרְצֹתָם.
+- **"every one after his tongue" → „každý podle svého jazyka“** (v5) – hebrejsky אִישׁ לִלְשֹׁנוֹ, doslova „muž podle svého jazyka“. לָשׁוֹן je „jazyk“ (v20, 31).
+- **"families" → „čeledi“** (v5, 18, 20, 31, 32) – hebrejsky מִשְׁפָּחָה *mishpachah*, příbuzenská skupina větší než domácnost.
+- **„Mizraim“** (v6, 13) – hebrejsky מִצְרַיִם *Mitsrayim*, hebrejské jméno Egypta, zde jako Hamův syn.
+- **"Phut" → „Put“** (v6) – hebrejsky פּוּט.
+- **"begat" → „zplodil“** (v8, 13, 15, 24, 26) – hebrejsky יָלַד.
+- **"he began to be a mighty one in the earth" → „ten začal být hrdinou na zemi“** (v8) – hebrejsky הוּא הֵחֵל לִהְיוֹת גִּבֹּר בָּאָרֶץ. גִּבֹּר je slovo z 6:4. הֵחֵל je „začal“ (jako 6:1; 9:20).
+- **"a mighty hunter" → „hrdina lovu“** (v9) – hebrejsky גִּבֹּר־צַיִד, doslova „hrdina lovu“ (nebo „úlovku“), dvakrát.
+- **"before the LORD" → „před Yahweh“** (v9) – hebrejsky לִפְנֵי יְהוָה, „před tváří Yahweh“. Hebrejština neříká, zda je to chvála, nebo výtka.
+- **"went forth Asshur, and builded" → „vyšel do Asshuru a vystavěl“** (v11) – hebrejsky מִן־הָאָרֶץ הַהִוא יָצָא אַשּׁוּר. Dvě čtení a hebrejština připouští obě:
+  1. „Z té země vyšel Asshur“ (Asshur jako podmět, Shemův syn z v22; tak KJV). To je prostší pořádek slov; slovo „do“ v hebrejštině nestojí.
+  2. „Z té země vyšel (Nimrod) do Asshuru“ (Asshur jako země, Asýrie; srov. Mic 5:6, kde „země Nimrodova“ stojí vedle Asýrie).
+  Verš sleduje čtení 2, které navazuje na „počátek jeho království“ ve v10.
+- **"the city Rehoboth" → „Rehoboth-Ir“** (v11) – hebrejsky רְחֹבֹת עִיר, doslova „široká prostranství města“; chápáno jako jméno. Lze číst i „široká prostranství toho města“ (Ninive).
+- **"the same is a great city" → „to je to veliké město“** (v12) – hebrejsky הִוא הָעִיר הַגְּדֹלָה; které město je míněno, se neříká.
+- **"out of whom came Philistim" → „odkud vyšli Philistinci“** (v14) – hebrejsky אֲשֶׁר יָצְאוּ מִשָּׁם פְּלִשְׁתִּים, doslova „odtamtud“. Věta stojí v hebrejštině za Casluhim a je tam ponechána (Amos 9:7 a Jer 47:4 spojují Philistince s Caphtorem). Jména ve v13–14 jsou v hebrejštině bez členu.
+- **"the Jebusite, and the Amorite …" → „Jebusejce a Amorejce …“** (v16–19) – hebrejština má pokaždé jednotné číslo se členem (הַיְבוּסִי, „ten Jebusejec“), jméno pro celý lid.
+- **"were … spread abroad" → „rozptýlily se“** (v18) – hebrejsky נָפֹצוּ, sloveso z 9:19 a 11:4, 8, 9.
+- **"as thou comest to" → „jak jdeš k“** (v19, 30) – hebrejsky בֹּאֲכָה, doslova „tvé přicházení“: směrem k.
+- **„jazyků“** (v20, 31) – hebrejsky לְשֹׁנֹת.
+- **"Unto Shem also … even to him were children born" → „A Šemovi, i jemu se narodili synové“** (v21) – hebrejsky וּלְשֵׁם יֻלַּד גַּם־הוּא, doslova „a Shemovi se narodilo, také jemu“; hebrejština nejmenuje, kdo se narodil, a „synové“ je doplněno (jako v1, 25).
+- **"the children of Eber" → „synů Everových“** (v21) – hebrejsky בְּנֵי־עֵבֶר.
+- **"the brother of Japheth the elder" → „bratru Jefetovu, tomu staršímu“** (v21) – hebrejsky אֲחִי יֶפֶת הַגָּדוֹל, doslova „bratr Japhetha, ten veliký“. „Starší“ může být Shem („starší bratr Japhethův“, obvyklá vazba), nebo Japheth; čeština musí volit pád a verš se drží obvyklé vazby.
+- **"Arphaxad" → „Arpachshad“** (v22, 24) – hebrejsky אַרְפַּכְשַׁד.
+- **"Salah" → „Shelah“** (v24) – hebrejsky שֶׁלַח.
+- **„Peleg … byla země rozdělena“** (v25) – hebrejsky פֶּלֶג *Peleg*, od פלג „dělit“: „za jeho dnů byla země rozdělena“ (נִפְלְגָה). O jaké rozdělení jde, se neříká.
+- **„jejich bydliště“** (v30) – hebrejsky מוֹשָׁבָם, od יָשַׁב „bydlet“. „Hora východu“: הַר הַקֶּדֶם, hora nebo pohoří.
+- **„podle svých národů“** (v31) – hebrejsky לְגוֹיֵהֶם; v5, 20, 32 mají בְּגוֹיֵהֶם „ve svých národech“.
 
 ### Poznámky
 
-- **Tabulka národů (Gen 10)** – stylizovaná etnografie známého světa z pohledu starověkého Izraele. Sedmdesát národů (podle tradičního počítání) pocházejících od tří Noahových synů. Nejde o moderní rodokmen – národy jsou seskupeny podle jazyka, zeměpisu a politické příslušnosti, takže dochází k překryvům (např. Sheba se objevuje pod Cushem ve v7 i pod Joktanem ve v28).
-- **Vztah ke kap. 11 (Babel)** – zde popsané rozptýlení v kanonickém pořadí Babelu *předchází*, ale Babel vyprávěcně *způsobuje* jazykové rozdělení, které je předpokládáno už v 10:5, 20, 31. Obě kapitoly je nejlépe číst jako překrývající se zprávy, ne jako přísnou chronologii.
-- **Nimrod (v8–12)** – mlhavá postava; v pozdější židovské tradici archetyp tyrana (zakladatel Babelu, protivník Abrahamův). Hebrejské נִמְרֹד *Nimrod* se někdy spojuje s *marad* („vzbouřit se“). Samotný text je neutrální až kladný („mocný lovec / před Yahweh“), ale představuje ho jako prvního budovatele říše, jehož království začíná v Babelu.
-- **Philistinci z Caphtoru (v14)** – Caphtor = Kréta (nebo šířeji Egejská oblast). Potvrzuje mimobiblické doklady, že Philistinci byli Mořské národy egejského původu, nikoli domácí Semité.
+- **Tabulka národů (Gen 10)** – národy a země světa známého starověkému Izraeli, podané jako synové tří Noahových synů. Některá jména stojí ve dvou liniích (Sheba a Havilah pod Cushem ve v7 a pod Joktanem ve v28–29; Asshur ve v11 a v22).
+- **Vztah ke kap. 11 (Babel)** – jazyky z v5, 20, 31 tu stojí před vyprávěním 11:1–9, kde má celá země „jeden ret“. Text neříká, jak jsou obě místa časově uspořádána.
+- **Nimrod (v8–12)** – hebrejsky נִמְרֹד; jméno se někdy spojuje s מָרַד *marad* („vzbouřit se“). Sám text říká jen to, co stojí ve v8–12.

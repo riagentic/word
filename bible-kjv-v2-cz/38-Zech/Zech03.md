@@ -1,32 +1,39 @@
 # Zacharjáš 3
 
-[1] Potom mi ukázal velekněze ⟦joshua-priest|Jehošuu|Jóšuu⟧, jak stojí před poslem ⟦yhwh|Jahveho|Hospodina⟧, a Satana, jak stojí po jeho pravici, aby na něj žaloval.
+[1] A ukázal mi ⟦joshua-priest|Jehošuu|Jóšuu⟧, velekněze, jak stojí před andělem ⟦yhwh|Jahveho|Hospodina⟧, a protivníka, jak stojí po jeho pravici, aby mu byl protivníkem.
 
-[2] I řekl ⟦yhwh|Jahve|Hospodin⟧ Satanovi: „Ať tě ⟦yhwh|Jahve|Hospodin⟧ pokárá, Satane! Ať tě pokárá ⟦yhwh|Jahve|Hospodin⟧, který si vyvolil ⟦jerusalem|Jerušalajim|Jeruzalém⟧! Což to není oharek vytržený z ohně?“
+[2] A ⟦yhwh|Jahve|Hospodin⟧ řekl protivníkovi: „Ať tě ⟦yhwh|Jahve|Hospodin⟧ pokárá, protivníku! A ať tě pokárá ⟦yhwh|Jahve|Hospodin⟧, který vyvoluje ⟦jerusalem|Jerušalajim|Jeruzalém⟧! Což to není oharek vytržený z ohně?“
 
-[3] ⟦joshua-priest|Jehošua|Jóšua⟧ stál před poslem, oblečený do špinavých šatů.
+[3] A ⟦joshua-priest|Jehošua|Jóšua⟧ byl oblečen do špinavých šatů a stál před andělem.
 
-[4] Posel řekl těm, kdo stáli před ním: „Svlékněte z něho ty špinavé šaty.“ A jemu řekl: „Hle, sňal jsem z tebe tvou nepravost a obléknu tě do čistých rouch.“
+[4] A on odpověděl a řekl těm, kteří stáli před ním, se slovy: „Odstraňte z něho ty špinavé šaty.“ A jemu řekl: „Pohleď, dal jsem přejít tvou nepravost z tebe a obléknu tě do svátečních rouch.“
 
-[5] Tu jsem řekl: „Ať mu vloží na hlavu čistý turban.“ I vložili mu na hlavu čistý turban a oblékli ho do šatů. A posel ⟦yhwh|Jahveho|Hospodina⟧ stál opodál.
+[5] I řekl jsem: „Ať mu položí na hlavu čistý turban.“ A položili mu ten čistý turban na hlavu a oblékli ho do šatů; a anděl ⟦yhwh|Jahveho|Hospodina⟧ stál.
 
-[6] A posel ⟦yhwh|Jahveho|Hospodina⟧ slavnostně ujistil ⟦joshua-priest|Jehošuu|Jóšuu⟧:
+[6] A anděl ⟦yhwh|Jahveho|Hospodina⟧ varoval ⟦joshua-priest|Jehošuu|Jóšuu⟧ se slovy:
 
-[7] „Tak praví ⟦yhwh|Jahve|Hospodin⟧ zástupů: Budeš-li chodit po mých cestách a zachovávat mou službu, pak budeš spravovat můj dům a mít na starosti má nádvoří a dám ti právo přístupu mezi těmi, kdo zde stojí.
+[7] „Toto praví ⟦yhwh|Jahve|Hospodin⟧ zástupů: Budeš-li chodit po mých cestách a budeš-li zachovávat mou stráž, pak ty také budeš soudit můj dům a ty také budeš střežit má nádvoří a dám ti průchody mezi těmito, kteří stojí.
 
-[8] Slyš nyní, ⟦joshua-priest|Jehošuo|Jóšuo⟧, veleknězi, ty i tvoji druzi, kteří sedí před tebou, neboť jsou to muži, kteří jsou znamením: hle, přivedu svého služebníka **Výhonek**.
+[8] Slyš prosím, ⟦joshua-priest|Jehošuo|Jóšuo⟧, veleknězi, ty i tvoji druhové, kteří sedí před tebou, neboť jsou to muži divu: neboť hle, já přivádím svého služebníka **Výhonka**.
 
-[9] Neboť hle, na kámen, který jsem položil před ⟦joshua-priest|Jehošuu|Jóšuu⟧, na jediný kámen se sedmi očima, vyryji jeho nápis, je výrok ⟦yhwh|Jahveho|Hospodina⟧ zástupů, a odstraním nepravost této země v jediném dni.
+[9] Neboť hle, kámen, který jsem položil před ⟦joshua-priest|Jehošuu|Jóšuu⟧: na jednom kameni sedm očí. Hle, já vyrývám jeho rytinu, je výrok ⟦yhwh|Jahveho|Hospodina⟧ zástupů, a odstraním nepravost té země v jednom dni.
 
-[10] V ten den, je výrok ⟦yhwh|Jahveho|Hospodina⟧ zástupů, pozve každý z vás svého bližního pod svou révu a pod svůj fíkovník.“
+[10] V onen den, je výrok ⟦yhwh|Jahveho|Hospodina⟧ zástupů, budete volat každý svého bližního, aby přišel pod révu a pod fíkovník.“
 
 ## Změny
 
-- **"LORD" → „Yahweh“** (v celé kapitole) – tetragram יְהוָה podán přímo.
-- **"LORD of hosts" → „Yahweh zástupů“** (v7, 9, 10) – hebrejsky יְהוָה צְבָאוֹת *Yahweh Tzeva'ot*; zachován vojensko-smluvní božský titul.
-- **"angel of the LORD" → „posel Yahweh“** (v1, 5, 6) – hebrejsky מַלְאַךְ יְהוָה *Malakh Yahweh*, „posel Yahweh“.
+- **"LORD" → „Jahve“** (v celé kapitole) – zachován tetragram יְהוָה. **"LORD of hosts" → „Jahve zástupů“** (v7, 9, 10) – řádek formulí proroků. נְאֻם יְהוָה „je výrok Jahveho“ (v9, 10); כֹּה אָמַר „Toto praví“ (v7); בַּיּוֹם הַהוּא „v onen den“ (v10).
+- **"And he shewed me" → „A ukázal mi“** (v1) – וַיַּרְאֵנִי; kdo ukazuje, není jmenováno. **"the angel of the LORD" → „anděl Jahveho“** (v1, 5, 6; v3, 4 „anděl“) – מַלְאַךְ יְהוָה, jedno slovo „anděl“ jako v kapitolách 1–2 (řádek WORDS-HE: viz 1:11). **"and Satan standing at his right hand to resist him" → „a protivníka, jak stojí po jeho pravici, aby mu byl protivníkem“** – hebrejsky וְהַשָּׂטָן, *ha-satan*, se členem: „protivník“, obecné podstatné jméno jako v Jób 1–2 (řádek recenzenta; tradičně „Satan“; hebrejština z něho nedělá jméno; čeština člen nemá); לְשִׂטְנוֹ je sloveso téhož kořene, „být mu protivníkem“ (obviňovat ho, stavět se proti němu), proto je hra podstatného jména a slovesa zachována.
+- **"The LORD rebuke thee, O Satan; even the LORD that hath chosen Jerusalem rebuke thee" → „Ať tě Jahve pokárá, protivníku! A ať tě pokárá Jahve, který vyvoluje Jerušalajim!“** (v2) – dvakrát יִגְעַר, jusiv (přání), podruhé s וְ „A“; גָּעַר „pokárat“ (jeho řádek); הַשָּׂטָן je oslovován (bez „ó“); הַבֹּחֵר, příčestí „který vyvoluje“ (řádek בָּחַר; jako 1:17; 2:12). **"is not this a brand plucked out of the fire?" → „Což to není oharek vytržený z ohně?“** – אוּד מֻצָּל מֵאֵשׁ, hofal od נצל (kořen הִצִּיל „vysvobodit“); אֵשׁ bez členu.
+- **"Now Joshua was clothed with filthy garments, and stood before the angel" → „A Jehošua byl oblečen do špinavých šatů a stál před andělem“** (v3) – וִיהוֹשֻׁעַ הָיָה לָבֻשׁ … וְעֹמֵד, příčestí „stál“; צוֹאִים „špinavé“, doslova potřísněné výkaly (צֵאָה, řádek Deut 23:13 „co vyšlo“).
+- **"And he answered and spake unto those that stood before him, saying" → „A on odpověděl a řekl těm, kteří stáli před ním, se slovy“** (v4) – mluvčí není jmenován (anděl). **"Take away the filthy garments from him" → „Odstraňte z něho ty špinavé šaty“** – הָסִירוּ (řádek הֵסִיר „odstranit“); מֵעָלָיו „z něho“ (doslova „shora z něho“; také „z tebe“). **"Behold, I have caused thine iniquity to pass from thee, and I will clothe thee with change of raiment" → „Pohleď, dal jsem přejít tvou nepravost z tebe a obléknu tě do svátečních rouch“** – רְאֵה „pohleď“ (ne הִנֵּה); הֶעֱבַרְתִּי „převést, dát přejít“ (řádek הֶעֱבִיר); עָוֹן „nepravost“ (jeho řádek; také v9); וְהַלְבֵּשׁ, infinitiv absolutní místo určitého slovesa („a oblékání tě“: „obléknu tě“); מַחֲלָצוֹת „sváteční roucha“ (šaty svlékané a oblékané ke svátkům; jen zde a Iz 3:22).
+- **"And I said, Let them set a fair mitre upon his head" → „I řekl jsem: Ať mu položí na hlavu čistý turban“** (v5) – וָאֹמַר, první osoba podle MT (mluví prorok; řecký a latinský text mají „řekl“: zpaměti); יָשִׂימוּ, jusiv; צָנִיף „turban“ (jiné slovo než velekněžské מִצְנֶפֶת, Exod 28:4); טָהוֹר „čistý“ (jeho řádek). **"So they set" → „A položili“** – wayyiqtol „A“; podruhé se členem הַצָּנִיף הַטָּהוֹר („ten čistý turban“). **"And the angel of the LORD stood by" → „a anděl Jahveho stál“** – עֹמֵד, příčestí; „opodál“ v hebrejštině není.
+- **"And the angel of the LORD protested unto Joshua, saying" → „A anděl Jahveho varoval Jehošuu se slovy“** (v6) – וַיָּעַד בִּיהוֹשֻׁעַ, řádek הֵעִיד בְּ „varovat“ (doslova „svědčit k“: slavnostní výzva před svědky).
+- **"If thou wilt walk in my ways, and if thou wilt keep my charge" → „Budeš-li chodit po mých cestách a budeš-li zachovávat mou stráž“** (v7) – v hebrejštině předmět pokaždé napřed; dvakrát אִם; מִשְׁמֶרֶת „stráž“ (jeho řádek). **"then thou shalt also judge my house, and shalt also keep my courts" → „pak ty také budeš soudit můj dům a ty také budeš střežit má nádvoří“** – וְגַם־אַתָּה … וְגַם, dvakrát „také“; תָּדִין, řádek דִּין „soudit“ („spravovat“ v jiných překladech zužuje); שָׁמַר „zachovávat / střežit“ (jeho řádek); חֲצֵרָי „má nádvoří“ (řádek חָצֵר). Kde končí „jestliže“ a začíná „pak“, hebrejština nevyznačuje: všechny čtyři věty mohou být podmínkou a jediným slibem je „dám ti“ (akcenty kladou předěl za „má nádvoří“); členění dřívějšího textu je zachováno, druhé je v této poznámce. **"and I will give thee places to walk among these that stand by" → „a dám ti průchody mezi těmito, kteří stojí“** – מַהְלְכִים, množné číslo od מַהֲלָךְ „chodba, průchod“ (jako Ez 42:4): právo procházet mezi těmi, kdo stojí před Jahvem; „přístup“ v jiných překladech; הָעֹמְדִים הָאֵלֶּה „těmito, kteří stojí“ (v4, 5).
+- **"Hear now, O Joshua the high priest" → „Slyš prosím, Jehošuo, veleknězi“** (v8) – שְׁמַע־נָא, נָא „prosím“; bez „ó“ (řádek oslovení). **"thy fellows that sit before thee" → „tvoji druhové, kteří sedí před tebou“** – רֵעֶיךָ (řádek רֵעַ „přítel“, zde o těch, kdo sdílejí jeho úřad); יָשַׁב „sedět“ (jeho řádek). **"for they are men wondered at" → „neboť jsou to muži divu“** – אַנְשֵׁי מוֹפֵת, מוֹפֵת „div“ (jeho řádek: předzvěst, znamení toho, co přijde, jako Iz 8:18). **"I will bring forth my servant the BRANCH" → „já přivádím svého služebníka Výhonka“** – הִנְנִי מֵבִיא, příčestí; צֶמַח „výhonek“ (řádek Iz 4:2; Jer 23:5; 33:15 malým písmenem). Zde je bez členu a stojí vedle „svého služebníka“, jak stojí jméno („můj služebník David“, Ez 34:23), a 6:12 říká „Výhonek je jeho jméno“: proto na obou místech velké písmeno, skloňováno jako jméno. „Ratolest“ (dřívější text a KJV „Branch“) je část stromu; צֶמַח je to, co vzchází (sloveso צָמַח, 6:12 „a ze svého místa vzejde“). Tučné písmo dřívějšího textu je zachováno.
+- **"For behold the stone that I have laid before Joshua; upon one stone shall be seven eyes" → „Neboť hle, kámen, který jsem položil před Jehošuu: na jednom kameni sedm očí“** (v9) – נָתַתִּי „položil jsem“ (řádek נָתַן: doslova „dal jsem“); „na jednom kameni sedm očí“ je v hebrejštině bez slovesa; עֵינַיִם „oči“ (také „prameny“, „plochy“: smysl obrazu není řečen; 4:10). **"behold, I will engrave the graving thereof" → „Hle, já vyrývám jeho rytinu“** – הִנְנִי מְפַתֵּחַ פִּתֻּחָהּ, příčestí s vlastním podstatným jménem (řádek פִּתַּח · פִּתּוּחֵי). **"and I will remove the iniquity of that land in one day" → „a odstraním nepravost té země v jednom dni“** – וּמַשְׁתִּי, od מוּשׁ „odejít, odstranit“ (ne řádek מָשַׁשׁ / מוּשׁ „ohmatat“); הָאָרֶץ הַהִיא „ta země“; בְּיוֹם אֶחָד „v jednom dni“.
+- **"shall ye call every man his neighbour under the vine and under the fig tree" → „budete volat každý svého bližního, aby přišel pod révu a pod fíkovník“** (v10) – תִּקְרְאוּ אִישׁ לְרֵעֵהוּ (řádek אִישׁ … רֵעֵהוּ); אֶל־תַּחַת „k pod“: „aby přišel“ je doplněno, protože věta jinak nestojí; גֶּפֶן · תְּאֵנָה bez členu a bez „svou“ (Mic 4:4 má „svou révu“: zpaměti).
 
 ### Poznámky
-- **v2 „oharek vytržený z ohně“** – zachráněný pozůstatek.
-- **v8 Výhonek (*Tzemach*)**: mesiánský titul; srov. Isa 4:2; Jer 23:5; 33:15.
-- **v1-2** – scéna Satanovy obžaloby; ozvěna v NZ (1 Pet 5:8; Jude 9).
+- **v1–2** – *ha-satan*, „protivník“, stojí se členem jako v Jób 1–2; 1 Chr 21:1 má שָׂטָן bez něho. Tradiční čtení „Satan“ a novozákonní scény (Jud 9; Zj 12:10) jsou recepce, ne znění tohoto verše.
+- **v8** – צֶמַח se čte o přicházejícím králi z Davidova rodu (Jer 23:5; 33:15); zde a v 6:12 je dán jako jméno. Zerubbavel a Mesiáš jsou dvě čtení toho, kdo je míněn; verš nejmenuje žádného.

@@ -1,73 +1,104 @@
 # Jeremjáš 44
 
-[1] Slovo, které přišlo k ⟦jeremiah|Jirmejahuovi|Jeremjášovi⟧ o všech ⟦judeans|Jehudim|Judejcích⟧, kteří bydleli v egyptské zemi, v ⟦migdol|Migdolu|Migdólu⟧, v Tachpanches, v ⟦memphis|Nofu|Memfidě⟧ a v zemi Patros:
+[1] Slovo, které se stalo k ⟦jeremiah|Jirmejahuovi|Jeremjášovi⟧ pro všechny ⟦judeans|Jehudim|Judejce⟧, kteří bydleli v egyptské zemi, kteří bydleli v ⟦migdol|Migdolu|Migdólu⟧ a v Tachpanches a v ⟦memphis|Nofu|Memfidě⟧ a v zemi Patros, se slovy:
 
-[2] „Toto praví ⟦yhwh|Jahve|Hospodin⟧ zástupů, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧: Viděli jste všechnu pohromu, kterou jsem uvedl na ⟦jerusalem|Jerušalajim|Jeruzalém⟧ a na všechna ⟦judah|jehudská|judská⟧ města. Hle, dnes jsou pustinou a nikdo v nich nebydlí,
+[2] „Toto praví ⟦yhwh|Jahve|Hospodin⟧ zástupů, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧: Vy jste viděli všechno zlo, které jsem uvedl na ⟦jerusalem|Jerušalajim|Jeruzalém⟧ a na všechna ⟦judah|jehudská|judská⟧ města; a hle, jsou tohoto dne zříceninou a nikdo v nich nebydlí,
 
-[3] pro zlo, kterého se dopustili, když mě popouzeli k hněvu tím, že chodili pálit oběti a sloužit jiným bohům, které neznali ani oni, ani vy, ani vaši otcové.
+[3] pro jejich zlo, které páchali, aby mě popouzeli, když chodili dávat stoupat dýmu, sloužit jiným bohům, které neznali, oni, vy a vaši otcové.
 
-[4] A přece jsem k vám vytrvale posílal všechny své služebníky proroky se slovy: ‚Ach, nepáchejte tuto ohavnost, kterou nenávidím!‘
+[4] A posílal jsem k vám všechny své služebníky proroky, časně vstávaje a posílaje, se slovy: ‚Nedělejte prosím tuto věc ohavnosti, kterou nenávidím.‘
 
-[5] Ale neposlouchali ani nenaklonili své ucho, aby se odvrátili od svého zla a nepálili oběti jiným bohům.
+[5] A neslyšeli a nenaklonili své ucho, aby se odvrátili od svého zla, aby nedávali stoupat dýmu jiným bohům.
 
-[6] Proto se má prchlivost a můj hněv vylily a vzplanuly v městech ⟦judah|Jehudy|Judy⟧ a v ulicích ⟦jerusalem|Jerušalajim|Jeruzaléma⟧, a staly se troskami a pustinou, jak je tomu dnes.
+[6] A vylila se má zuřivost a můj hněv a vzplanuly v městech ⟦judah|Jehudy|Judy⟧ a v ulicích ⟦jerusalem|Jerušalajim|Jeruzaléma⟧, a staly se zříceninou, pustinou, jako je tomu tohoto dne.
 
-[7] A nyní toto praví ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ zástupů, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧: Proč pácháte toto veliké zlo proti svým duším, abyste si vyhladili muže i ženu, nemluvně i dítě ze středu ⟦judah|Jehudy|Judy⟧ a nezůstal vám žádný ostatek?
+[7] A nyní toto praví ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ zástupů, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧: Proč pácháte veliké zlo proti svým duším, abyste si vytnuli muže i ženu, dítě i kojence ze středu ⟦judah|Jehudy|Judy⟧, abyste si neponechali ostatek,
 
-[8] Proč mě popouzíte k hněvu díly svých rukou, když pálíte oběti jiným bohům v egyptské zemi, kam jste přišli bydlet, abyste byli vyhlazeni a stali se kletbou a posměchem mezi všemi národy země?
+[8] když mě popouzíte díly svých rukou, když dáváte stoupat dýmu jiným bohům v egyptské zemi, kam vcházíte, abyste tam pobývali jako příchozí, abyste se vytnuli a abyste se stali zlořečením a potupou mezi všemi národy země?
 
-[9] Zapomněli jste na zlo svých otců, na zlo králů ⟦judah|Jehudy|Judy⟧, na zlo jejich žen, na své vlastní zlo a na zlo svých žen, kterého se dopouštěli v ⟦judah|jehudské|judské⟧ zemi a v ulicích ⟦jerusalem|Jerušalajim|Jeruzaléma⟧?
+[9] Zapomněli jste na zla svých otců a na zla králů ⟦judah|Jehudy|Judy⟧ a na zla jeho žen a na svá zla a na zla svých žen, která páchali v ⟦judah|jehudské|judské⟧ zemi a v ulicích ⟦jerusalem|Jerušalajim|Jeruzaléma⟧?
 
-[10] Až do tohoto dne se nepokořili, nebáli se a nechodili v ⟦torah|mé Tóře|mém zákoně⟧ a v mých ustanoveních, která jsem předložil vám i vašim otcům.
+[10] Nebyli zdrceni až do tohoto dne a nebáli se a nechodili v ⟦torah|mé Tóře|mém zákoně⟧ a v mých ustanoveních, která jsem položil před vás a před vaše otce.
 
-[11] Proto toto praví ⟦yhwh|Jahve|Hospodin⟧ zástupů, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧: Hle, obracím svou tvář proti vám ke zlému, abych vyhladil celého ⟦judah|Jehudu|Judu⟧.
+[11] Proto toto praví ⟦yhwh|Jahve|Hospodin⟧ zástupů, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧: Hle, stavím svou tvář proti vám ke zlu a k vytnutí celého ⟦judah|Jehudy|Judy⟧.
 
-[12] Vezmu ostatek ⟦judah|Jehudy|Judy⟧, který upřel své tváře k tomu, aby přišel do egyptské země a bydlel tam, a všichni budou zničeni. V egyptské zemi padnou; mečem a hladem budou zničeni. Od nejmenšího až po největšího zemřou mečem a hladem a stanou se zaklínadlem, postrachem, kletbou a posměchem.
+[12] A vezmu ostatek ⟦judah|Jehudy|Judy⟧, který upřel své tváře k tomu, aby vešel do egyptské země pobývat tam jako příchozí, a všichni skončí; v egyptské zemi padnou; mečem, hladem skončí; od malého až po velkého mečem a hladem zemřou; a stanou se kletbou, úděsem a zlořečením a potupou.
 
-[13] Potrestám ty, kdo bydlí v egyptské zemi, jako jsem potrestal ⟦jerusalem|Jerušalajim|Jeruzalém⟧, mečem, hladem a morem,
+[13] A navštívím ty, kdo bydlí v egyptské zemi, jako jsem navštívil ⟦jerusalem|Jerušalajim|Jeruzalém⟧, mečem, hladem a morem.
 
-[14] takže nikdo z ostatku ⟦judah|Jehudy|Judy⟧, který přišel bydlet do egyptské země, neunikne ani nepřežije, ani se nevrátí do ⟦judah|jehudské|judské⟧ země, kam se touží vrátit, aby tam bydleli. Neboť se nevrátí, kromě několika uprchlíků.“
+[14] A nebude uprchlíka ani přeživšího pro ostatek ⟦judah|Jehudy|Judy⟧, který vchází pobývat tam, v egyptské zemi, ani aby se vrátil do ⟦judah|jehudské|judské⟧ země, k níž pozvedají svou duši, aby se tam vrátili bydlet; neboť se nevrátí, leda uprchlíci.“
 
-[15] Tehdy všichni muži, kteří věděli, že jejich ženy pálí oběti jiným bohům, a všechny ženy, které stály při tom, veliké shromáždění, všechen lid, který bydlel v Patros v egyptské zemi, odpověděli ⟦jeremiah|Jirmejahuovi|Jeremjášovi⟧:
+[15] A všichni muži, kteří věděli, že jejich ženy dávají stoupat dýmu jiným bohům, a všechny ženy, které tam stály, veliké shromáždění, a všechen lid, který bydlel v egyptské zemi, v Patros, odpověděli ⟦jeremiah|Jirmejahuovi|Jeremjášovi⟧ se slovy:
 
-[16] „Pokud jde o slovo, které jsi k nám mluvil ve jménu ⟦yhwh|Jahveho|Hospodina⟧, nebudeme tě poslouchat.
+[16] „Slovo, které jsi k nám mluvil ve jménu ⟦yhwh|Jahveho|Hospodina⟧ – neposloucháme tě.
 
-[17] Ale budeme dělat všechno, co jsme slíbili: pálit oběti Královně nebes a vylévat jí úlitby, jak jsme to dělali my i naši otcové, naši králové i naši hodnostáři v městech ⟦judah|Jehudy|Judy⟧ a v ulicích ⟦jerusalem|Jerušalajim|Jeruzaléma⟧. Tehdy jsme měli dostatek chleba, dařilo se nám dobře a žádnou pohromu jsme nezažili.
+[17] Ale jistě budeme dělat každé slovo, které vyšlo z našich úst: dávat stoupat dýmu královně nebes a vylévat jí úlitby, jak jsme dělali my a naši otcové, naši králové a naše knížata v městech ⟦judah|Jehudy|Judy⟧ a v ulicích ⟦jerusalem|Jerušalajim|Jeruzaléma⟧; a nasytili jsme se chlebem a bylo nám dobře a zlo jsme neviděli.
 
-[18] Ale od té doby, co jsme přestali pálit oběti Královně nebes a vylévat jí úlitby, máme nedostatek všeho a hyneme mečem a hladem.“
+[18] A od té doby, co jsme přestali dávat stoupat dýmu královně nebes a vylévat jí úlitby, postrádáme všechno a mečem a hladem jsme skončili.
 
-[19] A ženy řekly: „Když jsme pálily oběti Královně nebes a vylévaly jí úlitby, což jsme bez souhlasu svých mužů pekly pro ni koláče s její podobou a vylévaly jí úlitby?“
+[19] A když dáváme stoupat dýmu královně nebes a vyléváme jí úlitby, což jsme mimo své muže dělaly pro ni koláče, abychom ji zpodobnily, a vylévaly jí úlitby?“
 
-[20] Tehdy ⟦jeremiah|Jirmejahu|Jeremjáš⟧ řekl všemu lidu, mužům i ženám, všemu lidu, který mu dal tuto odpověď:
+[20] A ⟦jeremiah|Jirmejahu|Jeremjáš⟧ řekl všemu lidu, dospělým mužům a ženám a všemu lidu, který mu odpovídal slovem, se slovy:
 
-[21] „Což oběti, které jste pálili v městech ⟦judah|Jehudy|Judy⟧ a v ulicích ⟦jerusalem|Jerušalajim|Jeruzaléma⟧, vy i vaši otcové, vaši králové a vaši hodnostáři i lid země, ⟦yhwh|Jahve|Hospodin⟧ nepamatoval? Což mu to nepřišlo na mysl?
+[21] „Což ne ten dým, který jste dávali stoupat v městech ⟦judah|Jehudy|Judy⟧ a v ulicích ⟦jerusalem|Jerušalajim|Jeruzaléma⟧, vy a vaši otcové, vaši králové a vaše knížata a lid země – na ty si ⟦yhwh|Jahve|Hospodin⟧ vzpomněl a vstoupilo mu to na srdce?
 
-[22] ⟦yhwh|Jahve|Hospodin⟧ už nemohl snášet vaše zlé skutky a ohavnosti, kterých jste se dopouštěli. Proto se vaše země stala pustinou, troskami a kletbou, bez obyvatel, jak je tomu dnes.
+[22] A ⟦yhwh|Jahve|Hospodin⟧ už nemohl snášet kvůli zlu vašich činů, kvůli ohavnostem, které jste páchali; a vaše země se stala zříceninou a úděsem a zlořečením, bez obyvatele, jako je tomu tohoto dne.
 
-[23] Protože jste pálili oběti a hřešili proti ⟦yhwh|Jahvovi|Hospodinu⟧ a neposlouchali jste hlas ⟦yhwh|Jahveho|Hospodina⟧ a nechodili v ⟦torah|jeho Tóře|jeho zákoně⟧, v jeho ustanoveních a v jeho svědectvích, proto vás potkala tato pohroma, jak je tomu dnes.“
+[23] Protože jste dávali stoupat dýmu a protože jste hřešili proti ⟦yhwh|Jahvovi|Hospodinu⟧ a neposlouchali jste hlas ⟦yhwh|Jahveho|Hospodina⟧, a v ⟦torah|jeho Tóře|jeho zákoně⟧ a v jeho ustanoveních a v jeho svědectvích jste nechodili, proto vás potkalo toto zlo, jako je tomu tohoto dne.“
 
-[24] ⟦jeremiah|Jirmejahu|Jeremjáš⟧ řekl všemu lidu a všem ženám: „Slyšte slovo ⟦yhwh|Jahveho|Hospodina⟧, všichni z ⟦judah|Jehudy|Judy⟧, kteří jste v egyptské zemi.
+[24] A ⟦jeremiah|Jirmejahu|Jeremjáš⟧ řekl všemu lidu a všem ženám: „Slyšte slovo ⟦yhwh|Jahveho|Hospodina⟧, všechen ⟦judah|Jehudo|Judo⟧, který jsi v egyptské zemi.
 
-[25] Toto praví ⟦yhwh|Jahve|Hospodin⟧ zástupů, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧: Vy i vaše ženy jste svými ústy prohlásili a svýma rukama to splnili: ‚Jistě splníme své sliby, které jsme složili, že budeme pálit oběti Královně nebes a vylévat jí úlitby.‘ Jen tedy potvrďte své sliby a plňte své sliby!
+[25] Toto praví ⟦yhwh|Jahve|Hospodin⟧ zástupů, ⟦elohim|Elohim|Bůh⟧ ⟦israel|Jisraele|Izraele⟧, řka: Vy a vaše ženy – mluvily jste svými ústy a svýma rukama jste to naplnili, se slovy: ‚Jistě splníme své sliby, které jsme slíbili: dávat stoupat dýmu královně nebes a vylévat jí úlitby.‘ Jistě dáte obstát svým slibům a jistě splníte své sliby!
 
-[26] Proto slyšte slovo ⟦yhwh|Jahveho|Hospodina⟧, všichni z ⟦judah|Jehudy|Judy⟧, kteří bydlíte v egyptské zemi: Hle, přísahal jsem při svém velikém jménu, praví ⟦yhwh|Jahve|Hospodin⟧, že v celé egyptské zemi už mé jméno nebude vzýváno ústy žádného ⟦judah|jehudského|judského⟧ muže slovy: ‚Jakože žije ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧.‘
+[26] Proto slyšte slovo ⟦yhwh|Jahveho|Hospodina⟧, všechen ⟦judah|Jehudo|Judo⟧, který bydlíš v egyptské zemi: Hle, přísahal jsem při svém velikém jménu, praví ⟦yhwh|Jahve|Hospodin⟧, že už mé jméno nebude vzýváno ústy žádného ⟦judah|jehudského|judského⟧ muže slovy: ‚Jakože žije ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧‘, v celé egyptské zemi.
 
-[27] Hle, bdím nad nimi ke zlému, a ne k dobrému. Všichni ⟦judah|jehudští|judští⟧ muži, kteří jsou v egyptské zemi, budou hynout mečem a hladem, dokud s nimi nebude konec.
+[27] Hle, bdím nad nimi ke zlu, a ne k dobru; a každý ⟦judah|jehudský|judský⟧ muž, který je v egyptské zemi, skončí mečem a hladem, dokud nebudou dokonáni.
 
-[28] A ti, kdo uniknou meči, se vrátí z egyptské země do ⟦judah|jehudské|judské⟧ země, nepatrný počet; a celý ostatek ⟦judah|Jehudy|Judy⟧, který přišel bydlet do egyptské země, pozná, čí slovo obstojí, zda moje, nebo jejich.
+[28] A uprchlíci před mečem se vrátí z egyptské země do ⟦judah|jehudské|judské⟧ země, hrstka mužů; a celý ostatek ⟦judah|Jehudy|Judy⟧, který vešel do egyptské země pobývat tam jako příchozí, pozná, čí slovo obstojí, zda moje, nebo jejich.
 
-[29] A toto vám bude znamením, praví ⟦yhwh|Jahve|Hospodin⟧, že vás potrestám na tomto místě, abyste poznali, že má slova proti vám ke zlému jistě obstojí:
+[29] A toto je pro vás to znamení, je výrok ⟦yhwh|Jahveho|Hospodinův⟧, že vás navštěvuji na tomto místě, abyste poznali, že má slova proti vám jistě obstojí ke zlu:
 
-[30] Toto praví ⟦yhwh|Jahve|Hospodin⟧: Hle, vydám ⟦pharaoh|Paroha|faraóna⟧ Chofru, krále ⟦egypt|Micrajim|Egypta⟧, do ruky jeho nepřátel a do ruky těch, kdo mu ukládají o život, jako jsem vydal ⟦zedekiah|Cidkijahua|Sidkijáše⟧, krále ⟦judah|Jehudy|Judy⟧, do ruky ⟦nebuchadnezzar|Nevuchadrecara|Nebúkadnesara⟧, krále ⟦babylon|Bavelu|Babylónu⟧, který byl jeho nepřítelem a ukládal mu o život.“
+[30] Toto praví ⟦yhwh|Jahve|Hospodin⟧: Hle, vydávám ⟦pharaoh|Paroha|faraóna⟧ Chofru, krále ⟦egypt|Micrajim|Egypta⟧, do ruky jeho nepřátel a do ruky těch, kdo hledají jeho duši, jako jsem vydal ⟦zedekiah|Cidkijahua|Sidkijáše⟧, krále ⟦judah|Jehudy|Judy⟧, do ruky ⟦nebuchadnezzar|Nevuchadrecara|Nebúkadnesara⟧, krále ⟦babylon|Bavelu|Babylónu⟧, jeho nepřítele a toho, kdo hledal jeho duši.“
 
 ## Změny
 
-- **"LORD of hosts" → „Yahweh zástupů“** (v2, 7, 11, 25) – zachováno hebrejské יְהוָה צְבָאוֹת.
+- **"LORD of hosts" → „Yahweh zástupů“** (v2, 11, 25) – zachováno hebrejské יְהוָה צְבָאוֹת; ve v7 stojí יְהוָה אֱלֹהֵי צְבָאוֹת „Jahve, Elohim zástupů“.
 - **"LORD" → „Yahweh“** (v celé kapitole) – zachován tetragram.
-- **"Lord GOD" → „Pán Yahweh“** (v26) – zachováno hebrejské אֲדֹנָי יְהוָה; slavnostní přísežná formule.
-- **"God" → „*Elohim*“** (v7, 11) – zachováno hebrejské *Elohim*.
-- **Básnická struktura** – celá kapitola je próza; Jeremiahův výrok k obci v Egyptě.
+- **"Lord GOD" → „Pán Yahweh“** (v26) – zachováno hebrejské אֲדֹנָי יְהוִה; slavnostní přísežná formule.
+- **"God" → „*Elohim*“** (v2, 7, 11, 25) – zachováno hebrejské *Elohim*.
+- **Básnická struktura** – celá kapitola je próza; Jeremjášovo slovo k lidu v Egyptě.
+- **"concerning all the Jews which dwell in the land of Egypt, which dwell at Migdol" → „pro všechny Jehudim, kteří bydleli v egyptské zemi, kteří bydleli v Migdolu“** (v1) – hebrejsky אֶל „k, pro“ (slovo je určeno jim); הַיֹּשְׁבִים dvakrát, zachováno; נֹף „Nof“ (Memfis); „v zemi Patros“ (Horní Egypt). הַדָּבָר אֲשֶׁר הָיָה „slovo, které se stalo“.
+- **"all the evil … this day they are a desolation, and no man dwelleth therein" → „všechno zlo … jsou tohoto dne zříceninou a nikdo v nich nebydlí“** (v2) – hebrejsky רָעָה „zlo“ (také v11, 17, 23, 27, 29: ne „pohroma“); חָרְבָּה „zřícenina“ (také v6, 22); וְהִנָּם „a hle, jsou“.
+- **"Because of their wickedness which they have committed to provoke me to anger, in that they went to burn incense, and to serve other gods … neither they, ye, nor your fathers" → „pro jejich zlo, které páchali, aby mě popouzeli, když chodili dávat stoupat dýmu, sloužit jiným bohům, které neznali, oni, vy a vaši otcové“** (v3) – hebrejsky הִכְעִיס „popouzet“ (také v8; „hněv“ není druhé slovo); קִטֵּר bez předmětu „dávat stoupat dýmu“ (řádek recenzenta; „pálit kadidlo“ by rozhodovalo pro kadidlo; také v5, 8, 15, 17–19, 21, 23, 25); לָלֶכֶת לְקַטֵּר לַעֲבֹד, tři infinitivy bez „a“; הֵמָּה אַתֶּם וַאֲבֹתֵיכֶם „oni, vy a vaši otcové“, podměty slovesa „neznali“ („ani … ani“ KJV je smysl, zápor stojí jednou).
+- **"Howbeit I sent unto you all my servants the prophets, rising early and sending them, saying, Oh, do not this abominable thing" → „A posílal jsem k vám všechny své služebníky proroky, časně vstávaje a posílaje, se slovy: Nedělejte prosím tuto věc ohavnosti“** (v4) – hebrejsky הַשְׁכֵּים וְשָׁלֹחַ, dva infinitivy absolutní bez předmětu (jako Jer 25:4); אַל־נָא „nedělejte prosím“; דְּבַר־הַתֹּעֵבָה „věc ohavnosti“ (דָּבָר „věc“); עֶבֶד o Jahveho prorocích „služebník“.
+- **"But they hearkened not, nor inclined their ear to turn from their wickedness, to burn no incense" → „A neslyšeli a nenaklonili své ucho, aby se odvrátili od svého zla, aby nedávali stoupat dýmu“** (v5) – שָׁמַע „slyšet“; שׁוּב „odvrátit se“; לְבִלְתִּי „aby ne“.
+- **"Wherefore my fury and mine anger was poured forth, and was kindled … and they are wasted and desolate" → „A vylila se má zuřivost a můj hněv a vzplanuly … a staly se zříceninou, pustinou“** (v6) – hebrejsky וַתִּתַּךְ … וַתִּבְעַר, vyprávěcí „a“; slovesa jsou v jednotném čísle u dvou podstatných jmen; חֵמָה „zuřivost“, אַף „hněv“; לְחָרְבָּה לִשְׁמָמָה, bez „a“.
+- **"Wherefore commit ye this great evil against your souls, to cut off from you … to leave you none to remain" → „Proč pácháte veliké zlo proti svým duším, abyste si vytnuli … abyste si neponechali ostatek“** (v7) – hebrejsky רָעָה גְדוֹלָה, bez „toto“; עֹשִׂים, participium; לְהַכְרִית לָכֶם, doslova „vytnout pro vás“; עוֹלֵל וְיוֹנֵק „dítě i kojence“; הוֹתִיר „ponechat“; שְׁאֵרִית „ostatek“.
+- **"In that ye provoke me unto wrath … whither ye be gone to dwell, that ye might cut yourselves off" → „když mě popouzíte … kam vcházíte, abyste tam pobývali jako příchozí, abyste se vytnuli“** (v8) – hebrejsky לְהַכְעִסֵנִי, infinitiv navazující na v7; בָּאִים „vcházíte“ (בּוֹא „vejít“, jako 42:14–22; také v12, 14, 28), לָגוּר „pobývat jako příchozí“; לְמַעַן הַכְרִית לָכֶם, doslova „abyste vytnuli pro sebe“; קְלָלָה „zlořečení“, חֶרְפָּה „potupa“.
+- **"the wickedness of your fathers … and the wickedness of their wives" → „zla svých otců … a zla jeho žen“** (v9) – hebrejsky רָעוֹת, množné číslo, pětkrát; נָשָׁיו „jeho žen“ (každého krále: MT; Septuaginta má „vašich knížat“, zpaměti); עָשׂוּ „páchali“.
+- **"They are not humbled even unto this day" → „Nebyli zdrceni až do tohoto dne“** (v10) – hebrejsky דֻּכְּאוּ, pual od דָּכָא „rozdrtit“ („pokořeni“ je smysl: zlomeni v duchu); נָתַן לִפְנֵי „položit před“ (řádek recenzenta); חֻקֹּת „ustanovení“.
+- **"Behold, I will set my face against you for evil, and to cut off all Judah" → „Hle, stavím svou tvář proti vám ke zlu a k vytnutí celého Jehudy“** (v11) – hebrejsky הִנְנִי שָׂם, participium; שִׂים פָּנִים בְּ „postavit svou tvář proti“ (řádek; נָתַן je „obrátit“); לְרָעָה „ke zlu“. שִׂים פָּנִים לְ o záměru (v12; 42:15, 17) zůstává „upřít své tváře k tomu“.
+- **"and they shall all be consumed, and fall in the land of Egypt; they shall even be consumed by the sword and by the famine: they shall die, from the least even unto the greatest … and they shall be an execration, and an astonishment, and a curse, and a reproach" → „a všichni skončí; v egyptské zemi padnou; mečem, hladem skončí; od malého až po velkého mečem a hladem zemřou; a stanou se kletbou, úděsem a zlořečením a potupou“** (v12, 18, 27) – hebrejsky תַּם „skončit“ (třikrát; ne „být stráven“: to je אָכַל); věty, jak je dělí akcenty; אָלָה „kletba“ a קְלָלָה „zlořečení“ vedle sebe, jako 42:18; שַׁמָּה „úděs“ (také v22).
+- **"For I will punish them that dwell in the land of Egypt, as I have punished Jerusalem" → „A navštívím ty, kdo bydlí v egyptské zemi, jako jsem navštívil Jerušalajim“** (v13, 29) – hebrejsky פָּקַד עַל „navštívit“ (řádek פָּקַד: ujmout se, zde k trestu).
+- **"So that none of the remnant of Judah … shall escape or remain, that they should return into the land of Judah, to the which they have a desire to return … for none shall return but such as shall escape" → „A nebude uprchlíka ani přeživšího pro ostatek Jehudy … ani aby se vrátil do jehudské země, k níž pozvedají svou duši … neboť se nevrátí, leda uprchlíci“** (v14) – hebrejsky פָּלִיט „uprchlík“, שָׂרִיד „přeživší“; וְלָשׁוּב „a vrátit se“ navazuje na „nebude uprchlíka ani přeživšího“; מְנַשְּׂאִים אֶת־נַפְשָׁם „pozvedají svou duši“ (= touží, řádek נָשָׂא נֶפֶשׁ); כִּי אִם „leda“; פְּלֵטִים „uprchlíci“.
+- **"and all the women that stood by, a great multitude, even all the people that dwelt in the land of Egypt, in Pathros, answered Jeremiah" → „a všechny ženy, které tam stály, veliké shromáždění, a všechen lid, který bydlel v egyptské zemi, v Patros, odpověděli Jirmejahuovi se slovy“** (v15) – hebrejsky מְקַטְּרוֹת „dávají stoupat dýmu“, participium; קָהָל „shromáždění“; וְכָל־הָעָם „a všechen lid“. Hebrejština začíná slovesem („A odpověděli Jirmejahuovi všichni muži …“).
+- **"As for the word … we will not hearken unto thee" → „Slovo … – neposloucháme tě“** (v16) – hebrejsky אֵינֶנּוּ שֹׁמְעִים, participium.
+- **"But we will certainly do whatsoever thing goeth forth out of our own mouth, to burn incense unto the queen of heaven … for then had we plenty of victuals, and were well, and saw no evil" → „Ale jistě budeme dělat každé slovo, které vyšlo z našich úst: dávat stoupat dýmu královně nebes … a nasytili jsme se chlebem a bylo nám dobře a zlo jsme neviděli“** (v17) – hebrejsky עָשֹׂה נַעֲשֶׂה, infinitiv absolutní („jistě budeme dělat“; doslova „děláním budeme dělat“; také v25); כָּל־הַדָּבָר „každé slovo“; יָצָא „vyšlo“; הִסִּיךְ נְסָכִים „vylévat úlitby“ (také v18, 19, 25); שָׂרִים „knížata“ (také v21); וַנִּשְׂבַּע־לֶחֶם „a nasytili jsme se chlebem“ (bez „tehdy“); וַנִּהְיֶה טוֹבִים „a bylo nám dobře“ (doslova „byli jsme dobří“).
+- **"the queen of heaven" → „královna nebes“** (v17, 18, 19, 25; jako 7:18) – hebrejsky מְלֶכֶת הַשָּׁמַיִם; שָׁמַיִם je množné číslo („nebesa“). Vokalizovaný tvar מְלֶכֶת se čte jako tvar od מַלְכָּה „královna“ (מַלְכַּת „královna …“) a v17–19, 25 mluví o „ní“ (לָהּ): verš tak překládá. Jiné čtení bere samohlásky jako samohlásky slova מְלֶאכֶת „dílo, služba“: „dílo (služba) nebes“, tj. nebeský zástup, čtení, které by se vyhnulo jménu bohyně; mnohé rukopisy píší מלאכת (zpaměti). Bez velkého písmene: hebrejština podává titul, ne jméno.
+- **"But since we left off to burn incense … we have wanted all things, and have been consumed by the sword" → „A od té doby, co jsme přestali dávat stoupat dýmu … postrádáme všechno a mečem a hladem jsme skončili“** (v18) – hebrejsky וּמִן־אָז „a od té doby“; חָדַל „přestat“; חָסֵר „postrádat“; תַּמְנוּ „skončili jsme“.
+- **"And when we burned incense to the queen of heaven … did we make her cakes to worship her … without our men?" → „A když dáváme stoupat dýmu královně nebes … což jsme mimo své muže dělaly pro ni koláče, abychom ji zpodobnily …?“** (v19) – hebrejština nemá „A ženy řekly“ (Septuaginta a jiní je doplňují, zpaměti; v15 a v20 ukazují, že ženy mluví spolu s muži); מְקַטְּרִים, v MT participium mužského rodu (česky ženský rod podle „mimo své muže“); הֲמִבַּלְעֲדֵי אֲנָשֵׁינוּ „což mimo své muže“ (אִישׁ „muž / manžel“); כַּוָּנִים „koláče“ (jen zde a 7:18; přejaté slovo, nejisté); לְהַעֲצִבָה „abychom ji zpodobnily“ (hifil od עָצַב „tvarovat, utvářet“, Job 10:8: koláče v její podobě; nejisté; jiní „abychom ji zarmoutily“ nebo „abychom ji uctívaly“).
+- **"to the men, and to the women, and to all the people which had given him that answer" → „dospělým mužům a ženám a všemu lidu, který mu odpovídal slovem“** (v20) – hebrejsky עַל „k“ (místo אֶל); הַגְּבָרִים, dospělí muži vedle žen (řádek גֶּבֶר); הָעֹנִים אֹתוֹ דָּבָר, participium, doslova „odpovídající mu slovo“.
+- **"The incense that ye burned … did not the LORD remember them, and came it not into his mind?" → „Což ne ten dým, který jste dávali stoupat … – na ty si Jahve vzpomněl a vstoupilo mu to na srdce?“** (v21) – hebrejsky הֲלוֹא אֶת־הַקִּטֵּר … אֹתָם זָכַר יְהוָה וַתַּעֲלֶה עַל־לִבּוֹ, doslova „Což ne ten dým, který jste dávali stoupat … – na ně si Jahve vzpomněl a vstoupilo mu to na srdce?“: tázací slovo stojí jednou, na začátku, a věta navazuje na „dým“ slovem „ty“; KJV klade dvě otázky. הַקִּטֵּר, podstatné jméno od קִטֵּר, jen zde: „dým“ (oběti). עָלָה עַל לֵב „vstoupit na srdce“ (= přijít na mysl).
+- **"So that the LORD could no longer bear, because of the evil of your doings … therefore is your land a desolation, and an astonishment, and a curse" → „A Jahve už nemohl snášet kvůli zlu vašich činů, kvůli ohavnostem … a vaše země se stala zříceninou a úděsem a zlořečením“** (v22) – hebrejsky לָשֵׂאת „snášet“ bez předmětu; מִפְּנֵי „kvůli“ (dvakrát, podruhé bez „a“); רֹעַ מַעַלְלֵיכֶם „zlo vašich činů“; וַתְּהִי „a stala se“ (bez „proto“); מֵאֵין יוֹשֵׁב „bez obyvatele“ (doslova „z toho, že není bydlícího“).
+- **"Because ye have burned incense … therefore this evil is happened unto you" → „Protože jste dávali stoupat dýmu … proto vás potkalo toto zlo“** (v23) – hebrejsky מִפְּנֵי אֲשֶׁר „protože“; חָטָא לַיהוָה „hřešit proti Jahvovi“; hebrejština klade „v jeho Tóře a v jeho ustanoveních a v jeho svědectvích“ před „jste nechodili“; עֵדְוֹת „svědectví“; קָרָאת, sloveso קָרָה „potkat“ psané s א.
+- **"Hear the word of the LORD, all Judah that are in the land of Egypt" → „Slyšte slovo Jahveho, všechen Jehudo, který jsi v egyptské zemi“** (v24, 26) – כָּל־יְהוּדָה „všechen Jehuda“ (ne „všichni z“); česky oslovení v 5. pádě.
+- **"Ye and your wives have both spoken with your mouths, and fulfilled with your hand … ye will surely accomplish your vows, and surely perform your vows" → „Vy a vaše ženy – mluvily jste svými ústy a svýma rukama jste to naplnili … Jistě dáte obstát svým slibům a jistě splníte své sliby!“** (v25) – hebrejsky לֵאמֹר po „Toto praví“ zachováno („řka“); וַתְּדַבֵּרְנָה, sloveso v ženském rodě množného čísla („vy ženy jste mluvily“; Septuaginta má „vy ženy“, zpaměti), potom מִלֵּאתֶם, mužský rod; בְּפִיכֶם „svými ústy“, בִידֵיכֶם „svýma rukama“; „to“ doplněno za „naplnili“; נָדַר נֶדֶר „slíbit slib“; הָקֵים תָּקִימְנָה … וְעָשֹׂה תַעֲשֶׂינָה, infinitivy absolutní s imperfekty ženského rodu: „jistě dáte obstát … jistě splníte“ (הֵקִים o slibu „dát obstát“, jeho řádek) – hořké svolení: jděte a plňte je.
+- **"that my name shall no more be named in the mouth of any man of Judah in all the land of Egypt, saying, The Lord GOD liveth" → „že už mé jméno nebude vzýváno ústy žádného jehudského muže slovy: Jakože žije Pán Jahve, v celé egyptské zemi“** (v26) – hebrejsky אָמַר יְהוָה „praví Jahve“ (ne נְאֻם); přísežná formule אִם־יִהְיֶה עוֹד שְׁמִי נִקְרָא, doslova „jestliže bude ještě mé jméno vzýváno“: podle smyslu „už nebude vzýváno“; hebrejský pořádek zachován („v celé egyptské zemi“ na konci); חַי־אֲדֹנָי יְהוִה „Jakože žije Pán Jahve“ (slova přísahy).
+- **"Behold, I will watch over them for evil … and all the men of Judah … shall be consumed … until there be an end of them" → „Hle, bdím nad nimi ke zlu … a každý jehudský muž … skončí … dokud nebudou dokonáni“** (v27) – hebrejsky שֹׁקֵד, participium od שָׁקַד „bdít“ (jako 1:12; 31:28); כָל־אִישׁ יְהוּדָה „každý muž Jehudy“ se slovesem v množném čísle; עַד־כְּלוֹתָם „dokud nebudou dokonáni“.
+- **"Yet a small number that escape the sword shall return … whose words shall stand, mine, or theirs" → „A uprchlíci před mečem se vrátí … hrstka mužů … čí slovo obstojí, zda moje, nebo jejich“** (v28) – hebrejsky פְלִיטֵי חֶרֶב „uprchlíci meče“; מְתֵי מִסְפָּר „hrstka mužů“ (doslova „muži počtu“: jeho řádek); דְּבַר־מִי יָקוּם מִמֶּנִּי וּמֵהֶם „čí slovo obstojí, ode mne, nebo od nich“, „slovo“ v jednotném čísle.
+- **"And this shall be a sign unto you, saith the LORD, that I will punish you in this place, that ye may know that my words shall surely stand against you for evil" → „A toto je pro vás to znamení, je výrok Jahveho, že vás navštěvuji na tomto místě, abyste poznali, že má slova proti vám jistě obstojí ke zlu“** (v29) – hebrejsky וְזֹאת־לָכֶם הָאוֹת, bez slovesa, se členem „to znamení“; נְאֻם־יְהוָה „je výrok Jahveho“; פֹקֵד, participium; קוֹם יָקוּמוּ, infinitiv absolutní („jistě obstojí“).
+- **"Behold, I will give Pharaohhophra king of Egypt into the hand of his enemies, and into the hand of them that seek his life" → „Hle, vydávám Paroha Chofru … do ruky těch, kdo hledají jeho duši … jeho nepřítele a toho, kdo hledal jeho duši“** (v30) – hebrejsky נֹתֵן, participium; מְבַקְשֵׁי נַפְשׁוֹ „ti, kdo hledají jeho duši“ (נֶפֶשׁ „duše“, život, o který usilují); אֹיְבוֹ וּמְבַקֵּשׁ נַפְשׁוֹ „jeho nepřítele a hledajícího jeho duši“ (bez „který byl“).
 
 ### Poznámky
-- **Královna nebes** – pravděpodobně Ishtar/Astarte.
-- **Pharaoh Chofra** (hebrejsky חָפְרַע; KJV Hophra, řecky Apries) – zavražděn roku 570 př. Kr.
+- **Královna nebes** – pravděpodobně Ištar / Astarte (zpaměti).
+- **Paroh Chofra** (hebrejsky חָפְרַע; řecky Apries) – zabit kolem roku 570 př. Kr. (zpaměti).

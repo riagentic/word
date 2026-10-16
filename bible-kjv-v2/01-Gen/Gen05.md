@@ -1,86 +1,89 @@
 # Genesis 5
 
-[1] This is the scroll of the generations of Adam. On the day ⟦elohim|Elohim|God⟧ created the human, he made him in the likeness of ⟦elohim|Elohim|God⟧.
+[1] This is the book of the generations of Adam. In the day that ⟦elohim|Elohim|God⟧ created man, in the likeness of ⟦elohim|Elohim|God⟧ he made him;
 
-[2] Male and female he created them; and he blessed them and called their name "Humankind" on the day they were created.
+[2] male and female he created them, and he blessed them and called their name ⟦adam|Adam|Man⟧ in the day they were created.
 
-[3] Adam lived 130 years and fathered a son in his own likeness, according to his image, and he named him ⟦seth|Shet|Seth⟧.
+[3] And Adam lived a hundred and thirty years and begot in his likeness, according to his image, and called his name ⟦seth|Shet|Seth⟧.
 
-[4] The days of Adam after he fathered ⟦seth|Shet|Seth⟧ were 800 years; and he fathered sons and daughters.
+[4] And the days of Adam after he begot ⟦seth|Shet|Seth⟧ were eight hundred years, and he begot sons and daughters.
 
-[5] All the days that Adam lived were 930 years; and he died.
+[5] And all the days of Adam that he lived were nine hundred and thirty years, and he died.
 
-[6] ⟦seth|Shet|Seth⟧ lived 105 years and fathered Enosh.
+[6] And ⟦seth|Shet|Seth⟧ lived a hundred and five years and begot Enosh.
 
-[7] ⟦seth|Shet|Seth⟧ lived after he fathered Enosh 807 years and fathered sons and daughters.
+[7] And ⟦seth|Shet|Seth⟧ lived after he begot Enosh eight hundred and seven years, and begot sons and daughters.
 
-[8] All the days of ⟦seth|Shet|Seth⟧ were 912 years; and he died.
+[8] And all the days of ⟦seth|Shet|Seth⟧ were nine hundred and twelve years, and he died.
 
-[9] Enosh lived 90 years and fathered ⟦kenan|Qenan|Kenan⟧.
+[9] And Enosh lived ninety years and begot ⟦kenan|Qenan|Kenan⟧.
 
-[10] Enosh lived after he fathered ⟦kenan|Qenan|Kenan⟧ 815 years and fathered sons and daughters.
+[10] And Enosh lived after he begot ⟦kenan|Qenan|Kenan⟧ eight hundred and fifteen years, and begot sons and daughters.
 
-[11] All the days of Enosh were 905 years; and he died.
+[11] And all the days of Enosh were nine hundred and five years, and he died.
 
-[12] ⟦kenan|Qenan|Kenan⟧ lived 70 years and fathered Mahalalel.
+[12] And ⟦kenan|Qenan|Kenan⟧ lived seventy years and begot Mahalalel.
 
-[13] ⟦kenan|Qenan|Kenan⟧ lived after he fathered Mahalalel 840 years and fathered sons and daughters.
+[13] And ⟦kenan|Qenan|Kenan⟧ lived after he begot Mahalalel eight hundred and forty years, and begot sons and daughters.
 
-[14] All the days of ⟦kenan|Qenan|Kenan⟧ were 910 years; and he died.
+[14] And all the days of ⟦kenan|Qenan|Kenan⟧ were nine hundred and ten years, and he died.
 
-[15] Mahalalel lived 65 years and fathered ⟦jared|Yered|Jared⟧.
+[15] And Mahalalel lived sixty-five years and begot ⟦jared|Yered|Jared⟧.
 
-[16] Mahalalel lived after he fathered ⟦jared|Yered|Jared⟧ 830 years and fathered sons and daughters.
+[16] And Mahalalel lived after he begot ⟦jared|Yered|Jared⟧ eight hundred and thirty years, and begot sons and daughters.
 
-[17] All the days of Mahalalel were 895 years; and he died.
+[17] And all the days of Mahalalel were eight hundred and ninety-five years, and he died.
 
-[18] ⟦jared|Yered|Jared⟧ lived 162 years and fathered ⟦enoch|Chanoch|Enoch⟧.
+[18] And ⟦jared|Yered|Jared⟧ lived a hundred and sixty-two years and begot ⟦enoch|Chanoch|Enoch⟧.
 
-[19] ⟦jared|Yered|Jared⟧ lived after he fathered ⟦enoch|Chanoch|Enoch⟧ 800 years and fathered sons and daughters.
+[19] And ⟦jared|Yered|Jared⟧ lived after he begot ⟦enoch|Chanoch|Enoch⟧ eight hundred years, and begot sons and daughters.
 
-[20] All the days of ⟦jared|Yered|Jared⟧ were 962 years; and he died.
+[20] And all the days of ⟦jared|Yered|Jared⟧ were nine hundred and sixty-two years, and he died.
 
-[21] ⟦enoch|Chanoch|Enoch⟧ lived 65 years and fathered ⟦methuselah|Metushelach|Methuselah⟧.
+[21] And ⟦enoch|Chanoch|Enoch⟧ lived sixty-five years and begot ⟦methuselah|Metushelach|Methuselah⟧.
 
-[22] ⟦enoch|Chanoch|Enoch⟧ walked with ⟦elohim|Elohim|God⟧ after he fathered ⟦methuselah|Metushelach|Methuselah⟧ 300 years and fathered sons and daughters.
+[22] And ⟦enoch|Chanoch|Enoch⟧ walked with ⟦elohim|Elohim|God⟧ after he begot ⟦methuselah|Metushelach|Methuselah⟧ three hundred years, and begot sons and daughters.
 
-[23] All the days of ⟦enoch|Chanoch|Enoch⟧ were 365 years.
+[23] And all the days of ⟦enoch|Chanoch|Enoch⟧ were three hundred and sixty-five years.
 
-[24] ⟦enoch|Chanoch|Enoch⟧ walked with ⟦elohim|Elohim|God⟧ — and he was no more, for ⟦elohim|Elohim|God⟧ took him.
+[24] And ⟦enoch|Chanoch|Enoch⟧ walked with ⟦elohim|Elohim|God⟧, and he was not, for ⟦elohim|Elohim|God⟧ took him.
 
-[25] ⟦methuselah|Metushelach|Methuselah⟧ lived 187 years and fathered ⟦lamech|Lemech|Lamech⟧.
+[25] And ⟦methuselah|Metushelach|Methuselah⟧ lived a hundred and eighty-seven years and begot ⟦lamech|Lemech|Lamech⟧.
 
-[26] ⟦methuselah|Metushelach|Methuselah⟧ lived after he fathered ⟦lamech|Lemech|Lamech⟧ 782 years and fathered sons and daughters.
+[26] And ⟦methuselah|Metushelach|Methuselah⟧ lived after he begot ⟦lamech|Lemech|Lamech⟧ seven hundred and eighty-two years, and begot sons and daughters.
 
-[27] All the days of ⟦methuselah|Metushelach|Methuselah⟧ were 969 years; and he died.
+[27] And all the days of ⟦methuselah|Metushelach|Methuselah⟧ were nine hundred and sixty-nine years, and he died.
 
-[28] ⟦lamech|Lemech|Lamech⟧ lived 182 years and fathered a son.
+[28] And ⟦lamech|Lemech|Lamech⟧ lived a hundred and eighty-two years and begot a son.
 
-[29] He named him ⟦noah|Noach|Noah⟧, saying, "This one will bring us relief from our work and from the toil of our hands, from the ground that ⟦yhwh|Yahweh|the LORD⟧ has cursed."
+[29] And he called his name ⟦noah|Noach|Noah⟧, saying, "This one shall comfort us from our work and from the pain of our hands, from the ground which ⟦yhwh|Yahweh|the LORD⟧ has cursed."
 
-[30] ⟦lamech|Lemech|Lamech⟧ lived after he fathered ⟦noah|Noach|Noah⟧ 595 years and fathered sons and daughters.
+[30] And ⟦lamech|Lemech|Lamech⟧ lived after he begot ⟦noah|Noach|Noah⟧ five hundred and ninety-five years, and begot sons and daughters.
 
-[31] All the days of ⟦lamech|Lemech|Lamech⟧ were 777 years; and he died.
+[31] And all the days of ⟦lamech|Lemech|Lamech⟧ were seven hundred and seventy-seven years, and he died.
 
-[32] ⟦noah|Noach|Noah⟧ was 500 years old, and ⟦noah|Noach|Noah⟧ fathered Shem, ⟦ham|Cham|Ham⟧, and ⟦japheth|Yefet|Japheth⟧.
+[32] And ⟦noah|Noach|Noah⟧ was five hundred years old, and ⟦noah|Noach|Noah⟧ begot Shem, ⟦ham|Cham|Ham⟧ and ⟦japheth|Yefet|Japheth⟧.
 
 ## Changes
 
-- **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
-- **"book" → "scroll"** (v1) — Hebrew סֵפֶר *sefer*. "Book" is anachronistic (codex form comes much later); "scroll" is accurate.
-- **"Adam" (v1, 3, 4, 5) and "Humankind" (v2)** — Hebrew אָדָם *adam* appears throughout. v1 is titled "the generations of *Adam*" — treated as proper name. v2 pointedly describes the naming of the human pair: "he called *their* name *adam*" (plural referent; Adam here is still the collective "humankind") — preserved in translation by rendering this instance as "Humankind." From v3 on, personal-name use is stable. KJV obscures the word-identity by using "man" in v1 and "Adam" in v2–3; corrected.
-- **"an hundred and thirty years" → "130 years"** etc. (throughout) — archaic number-compounds modernized to digits. No content change.
-- **"Enos" → "Enosh"** (v6, 7, 9, 10, 11) — corrected transliteration (see 4:26).
-- **"Cainan" → "Kenan"** (v9–14) — Hebrew קֵינָן *Qenan*. KJV transliteration via LXX/Vulgate; "Kenan" closer to Hebrew consonants and standard in modern critical texts (not to be confused with *Qayin* / Cain).
-- **"Mahalaleel" → "Mahalalel"** (v12–17) — Hebrew מַהֲלַלְאֵל *Mahalal'el* = "praise of El." KJV doubles the final -e; modernized.
-- **"Enoch walked with God…" (v22, 24)** — Hebrew הִתְהַלֵּךְ … אֶת־הָאֱלֹהִים *hithalekh … et ha-Elohim*. The hithpael of *halakh* denotes continual, habitual walking — ongoing fellowship. The phrase "walked with *Elohim*" (used of Enoch and Noah, and later in related forms of Abraham) indicates close covenantal communion. Retained; phrasing modernized. (Note: MT v22 uses *ha-Elohim*, "the God" with article — a slight formality.)
-- **"he was not; for God took him" → "he was no more, for *Elohim* took him"** (v24) — Hebrew וְאֵינֶנּוּ כִּי־לָקַח אֹתוֹ אֱלֹהִים. The terse "he was not" is rendered more naturally "he was no more." The meaning: Enoch did not die in the usual sense; *Elohim* "took" him. Grounds for the extensive later Enoch traditions (1 Enoch, Jude 14, Heb 11:5).
-- **"Noah" — Hebrew etymology made explicit** (v29) — Hebrew נֹחַ *Noach* from the root נ-ח-ם / נ-ו-ח. Lamech's saying uses *yenachamenu* (from *nacham* = comfort / give relief). The wordplay is visible in Hebrew but lost in English; included parenthetically. "This one will bring us relief" captures *nacham* accurately; "comfort" in modern English connotes emotional soothing, but the Hebrew points to concrete relief from agricultural toil.
-- **"LORD" → "Yahweh"** (v29) — as throughout.
+- **"God" → "*Elohim*"; "the LORD" → "Yahweh"** (v1, 22, 24; v29) — the names as the Hebrew has them.
+- **"the book of the generations of Adam" kept** (v1) — Hebrew סֵפֶר, any written document (in that time a scroll; "scroll" itself is another word, מְגִלָּה). תּוֹלְדֹת "generations" as in 2:4.
+- **"Adam" / "man" / "*Adam*"** (v1–5) — one Hebrew word, אָדָם, without the article in all these verses. In v1a and v3–5 it is the name of the one man, "Adam". In v1b and v2 it is mankind, as in 1:26–27: "male and female he created *them* … and called *their* name אָדָם". So v1b has "man", and in v2 the word itself stands as the name given ("*Adam*", that is, "Man"). KJV has "man" in v1b and "Adam" in v2.
+- **"in the likeness of God made he him" → "in the likeness of *Elohim* he made him"** (v1) — Hebrew בִּדְמוּת אֱלֹהִים: דְּמוּת "likeness" with בְּ "in"; 1:26–27 has "in our image (צֶלֶם), according to our likeness". "Created" (בָּרָא) and "made" (עָשָׂה) stand side by side as in 2:3.
+- **"male and female"** (v2) — Hebrew זָכָר וּנְקֵבָה, as 1:27.
+- **"begat a son in his own likeness, after his image" → "begot in his likeness, according to his image"** (v3) — Hebrew וַיּוֹלֶד בִּדְמוּתוֹ כְּצַלְמוֹ. The verb has no object: "a son" is not in the Hebrew, nor "own". The two nouns of 1:26 return with their prepositions exchanged.
+- **"begat" → "begot"** (throughout) — Hebrew וַיּוֹלֶד, הוֹלִידוֹ, the causative of יָלַד, said of the father; the same rendering every time.
+- **"an hundred and thirty years" → "a hundred and thirty years"** etc. (throughout) — the numbers are written out in words in the ordinary English order. The Hebrew order varies and repeats the word "year": "thirty and a hundred year" (v3), "nine hundred year and thirty year" (v5), "five years and a hundred year" (v6). The numbers are those of the Masoretic Text; the Samaritan text and the Septuagint have other numbers in many of these verses (from memory).
+- **"all the days that Adam lived" → "all the days of Adam that he lived"** (v5) — Hebrew כָּל־יְמֵי אָדָם אֲשֶׁר־חַי.
+- **"Enos" → "Enosh"; "Cainan" → "*Qenan*"; "Mahalaleel" → "Mahalalel"** (v6–17) — Hebrew אֱנוֹשׁ, קֵינָן, מַהֲלַלְאֵל.
+- **"Enoch walked with God" → "*Chanoch* walked with *Elohim*"** (v22, 24) — Hebrew וַיִּתְהַלֵּךְ … אֶת־הָאֱלֹהִים. The verb form is "walk about, walk continually" (as 3:8; said of Noach in 6:9). In both verses *Elohim* has the article here, הָאֱלֹהִים ("the *Elohim*"); at the end of v24 it has none. In v22 "walked with *Elohim*" stands where the other entries have "lived".
+- **"and he was not; for God took him" → "and he was not, for *Elohim* took him"** (v24) — Hebrew וְאֵינֶנּוּ, literally "and he is not": he was no longer there. The verse does not say "he died", as the other entries do. לָקַח is "take".
+- **"begat a son" kept** (v28) — here the Hebrew has בֵּן "a son".
+- **"This same shall comfort us concerning our work and toil of our hands, because of the ground" → "This one shall comfort us from our work and from the pain of our hands, from the ground"** (v29) — Hebrew זֶה יְנַחֲמֵנוּ מִמַּעֲשֵׂנוּ וּמֵעִצְּבוֹן יָדֵינוּ מִן־הָאֲדָמָה: three times מִן "from". נִחַם is "comfort"; it sounds like the name נֹחַ *Noach* (which itself belongs with נוּחַ "rest"). עִצָּבוֹן "pain" is the word of 3:16, 17, and "the ground which Yahweh has cursed" looks back to 3:17.
+- **"Noah was five hundred years old" kept** (v32) — Hebrew בֶּן־חֲמֵשׁ מֵאוֹת שָׁנָה, literally "a son of five hundred years".
 
 ### Notes
 
-- **Lifespans** — the extreme ages in this genealogy have been variously explained: literal (traditional), symbolic / numerological, reflecting pre-flood conditions, or following ancient Near Eastern patterns (Sumerian King List has pre-flood kings with reigns of tens of thousands of years). Text does not explain; translated as written.
-- **Numbers differ by textual tradition** — MT, LXX, and Samaritan Pentateuch give different lifespans and begetting-ages throughout this chapter (LXX generally higher). MT is followed here. The variants are a real textual issue; for most precise reading, all three should be consulted, but discussion would overwhelm the translation notes. Flagging once and moving on.
-- **Enoch as seventh from Adam** (v21–24) — Enoch is the seventh generation in the line. In the Cainite line of ch 4, the seventh is Lamech, the boaster-killer. The parallel is deliberate: the Sethite line climaxes in Enoch walking with *Elohim*, the Cainite line in Lamech glorifying vengeance.
-- **Methuselah's death and the flood** — Methuselah's 969 years (v27) calculated against Lamech (182 at Noah's birth) and Noah (600 at the flood, Gen 7:6) puts Methuselah's death at the year of the flood. Many commentators have taken this as Methuselah's death marking the onset of judgment. Text does not state this; a calculated inference.
+- **v1–2** — the verses take up 1:26–28 (created, likeness, male and female, blessed).
+- **v22–24** — *Chanoch* is the seventh from Adam in this line (Jude 14); Heb 11:5 speaks of v24.
+- **v32** — the entry of *Noach* is not closed here; it is continued in 9:28–29.

@@ -1,105 +1,100 @@
 # Habakkuk 1
 
-[1] The oracle that ⟦habakkuk|Chavaqquq|Habakkuk⟧ the prophet saw.
+[1] The burden that ⟦habakkuk|Chavaqquq|Habakkuk⟧ the prophet beheld.
 
-[2] O ⟦yhwh|Yahweh|LORD⟧, how long shall I cry for help,
-and you will not hear?
-Or cry to you "Violence!"
-and you will not save?
+[2] How long, ⟦yhwh|Yahweh|LORD⟧, have I cried for help,
+and you do not hear?
+I cry out to you, Violence!
+and you do not save.
 
-[3] Why do you make me see iniquity,
-and why do you idly look at wrong?
-Destruction and violence are before me;
-strife and contention arise.
+[3] Why do you make me see wickedness,
+and you look at toil?
+And havoc and violence are before me;
+and there is strife, and contention lifts itself up.
 
-[4] So the ⟦torah|Torah|law⟧ is paralyzed,
-and justice never goes forth.
-For the wicked surround the righteous;
-so justice goes forth perverted.
+[4] Therefore ⟦torah|Torah|law⟧ grows numb,
+and judgment never goes out;
+for the wicked surrounds the righteous;
+therefore judgment goes out crooked.
 
-[5] "Look among the nations, and see;
-wonder and be astounded.
-For I am doing a work in your days
-that you would not believe if told.
+[5] See among the nations, and look,
+and be astounded — be astounded!
+For one is working a work in your days:
+you will not believe when it is told.
 
 [6] For behold, I am raising up the ⟦chaldeans|Kasdim|Chaldeans⟧,
-that bitter and hasty nation,
-who march through the breadth of the earth,
-to seize dwellings not their own.
+the nation bitter and hasty,
+that walks to the broad places of the earth
+to possess dwellings not its own.
 
-[7] They are dreaded and fearsome;
-their justice and dignity go forth from themselves.
+[7] Terrible and fearsome is it;
+from itself go out its judgment and its lifting up.
 
-[8] Their horses are swifter than leopards,
-more fierce than the evening wolves;
-their horsemen press proudly on.
-Their horsemen come from afar;
-they fly like an eagle swift to devour.
+[8] And his horses are swifter than leopards,
+and keener than wolves of the evening,
+and his horsemen spring about;
+and his horsemen come from afar;
+they fly like an eagle hastening to eat.
 
-[9] They all come for violence,
-all their faces forward.
-They gather captives like sand.
+[9] All of it comes for violence;
+the eagerness of their faces is eastward;
+and it gathers captives like sand.
 
-[10] At kings they scoff,
-and at rulers they laugh.
-They laugh at every fortress,
-for they pile up earth and take it.
+[10] And it scoffs at kings,
+and dignitaries are a laughingstock to it;
+it laughs at every fortress,
+and heaps up dust and captures it.
 
-[11] Then they sweep by like the wind and go on,
-guilty men, whose own might is their god!"
+[11] Then the wind has swept on, and he passes over and is guilty,
+he whose power is his god.
 
-[12] Are you not from everlasting,
-O ⟦yhwh|Yahweh|LORD⟧ my ⟦elohim|Elohim|God⟧, my Holy One?
-We shall not die.
-O ⟦yhwh|Yahweh|LORD⟧, you have ordained them as a judgment,
-and you, O Rock, have established them for reproof.
+[12] Are you not from of old, ⟦yhwh|Yahweh|LORD⟧, my ⟦elohim|Elohim|God⟧, my Holy One? We shall not die.
+⟦yhwh|Yahweh|LORD⟧, for judgment you have set him;
+and, Rock, for reproving you have founded him.
 
-[13] You who are of purer eyes than to see evil
-and cannot look at wrong,
-why do you idly look at traitors
-and remain silent when the wicked swallows up
-the man more righteous than he?
+[13] Purer of eyes than to see evil,
+and to look at toil you are not able;
+why do you look at those who deal treacherously,
+are you silent when the wicked swallows up one more righteous than he?
 
-[14] You make mankind like the fish of the sea,
-like crawling things that have no ruler.
+[14] And you make man like the fish of the sea,
+like the creeping thing that has no ruler over it.
 
-[15] He brings all of them up with a hook;
-he drags them out with his net;
-he gathers them in his dragnet;
-so he rejoices and is glad.
+[15] All of it he brings up with a hook;
+he drags it away in his net and gathers it in his dragnet;
+therefore he rejoices and is glad.
 
 [16] Therefore he sacrifices to his net
-and makes offerings to his dragnet;
-for by them he lives in luxury,
-and his food is rich.
+and makes smoke to his dragnet;
+for by them his portion is fat,
+and his food is fat.
 
-[17] Is he then to keep on emptying his net
-and mercilessly killing nations forever?
+[17] Shall he therefore empty his net,
+and continually kill nations, not sparing?
 
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"God" → "*Elohim*"** (v12) — Hebrew אֱלֹהִים.
-- **Poetry formatted with blockquote indentation** (throughout) — KJV prose; Habakkuk's complaint and Yahweh's response are structured poetry.
-- **"O Lord, how long shall I cry, and thou wilt not hear!" → "O Yahweh, how long shall I cry for help, and you will not hear?"** (v2) — modernized.
-- **"even cry out unto thee of violence, and thou wilt not save" → "Or cry to you 'Violence!' and you will not save?"** (v2) — Hebrew וְאֶזְעַק אֵלֶיךָ חָמָס *ve'etz'aq elekhah chamas*; "cry 'Violence!'" captures the prophet's specific accusation.
-- **"Why dost thou shew me iniquity, and cause me to behold grievance?" → "Why do you make me see iniquity, and why do you idly look at wrong?"** (v3) — Hebrew תַּבִּיט עָמָל *tabbit amal* = you gaze at trouble; "idly look at" for the second verb.
-- **"for spoiling and violence are before me" → "Destruction and violence are before me"** (v3) — Hebrew שֹׁד וְחָמָס לְנֶגְדִּי *shod vechamac lenegdi*; "Destruction" for *shod*; "violence" for *chamas*.
-- **"and there are that raise up strife and contention" → "strife and contention arise"** (v3) — Hebrew וַיְהִי רִיב וּמָדוֹן יִשָּׂא *vayehi riv umaddon yissa'*; modernized.
-- **"judgment doth never go forth" → "justice never goes forth"** (v4) — Hebrew מִשְׁפָּט *mishpat* = justice; "justice" consistent.
-- **"so wrong judgment proceedeth" → "so justice goes forth perverted"** (v4) — Hebrew יֵצֵא מְעֻקָּל *yetze me'uqqal* = goes out distorted/perverted; "perverted" more vivid.
-- **"Behold ye among the heathen" → "'Look among the nations, and see"** (v5) — Hebrew הַבִּיטוּ בַגּוֹיִם וּרְאוּ; "nations" for *goyim*; quotation marks added for Yahweh's reply.
-- **"wonder marvellously" → "wonder and be astounded"** (v5) — Hebrew וְהִתַּמְּהוּ תְּמָהוּ *vehittammehu temmahu* = be utterly astonished; two verbs preserved.
-- **"which ye will not believe, though it be told you" → "that you would not believe if told"** (v5) — modernized; quoted Acts 13:41.
-- **"that bitter and hasty nation, which shall march through the breadth of the land" → "that bitter and hasty nation, who march through the breadth of the earth"** (v6) — Hebrew הַמַּר וְהַנִּמְהָר *hammar vehanmimhar*; "earth" for *ha'aretz*.
-- **"to possess the dwellingplaces that are not theirs" → "to seize dwellings not their own"** (v6) — modernized.
-- **"They are terrible and dreadful: their judgment and their dignity shall proceed of themselves" → "They are dreaded and fearsome; their justice and dignity go forth from themselves"** (v7) — Hebrew אָיֹם וְנוֹרָא *ayom venora'* = dreadful and awe-inspiring; "go forth from themselves" = they are a law to themselves.
-- **"their horsemen shall spread themselves" → "their horsemen press proudly on"** (v8) — Hebrew וּפָרָשָׁיו מֵרָחוֹק יָבֹאוּ *ufarashav merachóq yavo'u*; "press proudly" for *paru* = spread out/speed on.
-- **"they shall fly as the eagle that hasteth to eat" → "they fly like an eagle swift to devour"** (v8) — Hebrew כְּנֶשֶׁר חָשׁ לֶאֱכֹל *kennesher chash le'ekhol* = like an eagle hastening to eat; "swift to devour" more vivid.
-- **"Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god" → "Then they sweep by like the wind and go on, guilty men, whose own might is their god"** (v11) — Hebrew אָז חָלַף רוּחַ וַיַּעֲבֹר *az chalaf ruach vayyavor* = then the wind sweeps past and passes on; "guilty men, whose own might is their god" captures the hubris.
-- **"Art thou not from everlasting, O LORD my God, mine Holy One?" → "Are you not from everlasting, O Yahweh my *Elohim*, my Holy One?"** (v12) — Hebrew הֲלוֹא אַתָּה מִקֶּדֶם יְהוָה אֱלֹהַי קְדֹשִׁי; *Elohim* and *Qadosh* both retained.
-- **"O LORD, thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction" → "O Yahweh, you have ordained them as a judgment, and you, O Rock, have established them for reproof"** (v12) — Hebrew צוּר *tzur* = Rock (divine title); KJV "mighty God" is mistranslation.
-- **"canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, and holdest thy tongue when the wicked devoureth the man that is more righteous than he?" → "and cannot look at wrong, why do you idly look at traitors and remain silent when the wicked swallows up the man more righteous than he?"** (v13) — modernized.
-- **"They take up all of them with the angle, they catch them in their net, and gather them in their drag" → "He brings all of them up with a hook; he drags them out with his net; he gathers them in his dragnet"** (v15) — Hebrew חַכָּה *chakkah* = hook; חֵרֶם *cherem* = dragnet; "dragnet" retained.
-- **"therefore they sacrifice unto their net, and burn incense unto their drag; because by them their portion is fat, and their meat plenteous" → "Therefore he sacrifices to his net and makes offerings to his dragnet; for by them he lives in luxury, and his food is rich"** (v16) — Hebrew יְזַבֵּחַ לְחֶרְמוֹ *yezabbéach lechermo*; "lives in luxury" for *shamên chelqo* = his portion is fat.
-- **"Shall they therefore empty their net, and not spare continually to slay the nations?" → "Is he then to keep on emptying his net and mercilessly killing nations forever?"** (v17) — modernized; Habakkuk's urgent complaint.
+- **"God" → "*Elohim*"** (v12) — Hebrew אֱלֹהַי "my Elohim".
+- **Layout** (throughout) — one Hebrew line (colon) per printed line, in the Hebrew order; the quotation marks of v5–11 (Yahweh's answer) are dropped: the Hebrew has none.
+- **"The burden which Habakkuk the prophet did see" → "The burden that Habakkuk the prophet beheld"** (v1) — Hebrew הַמַּשָּׂא "the burden" (the word is "what is lifted up"; "oracle" is the other common rendering); חָזָה "behold" (of a seer's sight).
+- **"O LORD, how long shall I cry, and thou wilt not hear!" → "How long, Yahweh, have I cried for help, and you do not hear?"** (v2) — Hebrew עַד־אָנָה יְהוָה שִׁוַּעְתִּי, a perfect ("have I cried"); שִׁוַּע "cry for help"; no "O": the Hebrew has none. **"even cry out unto thee of violence" → "I cry out to you, Violence!"** — אֶזְעַק, זָעַק "cry out"; חָמָס the cry itself.
+- **"Why dost thou shew me iniquity, and cause me to behold grievance?" → "Why do you make me see wickedness, and you look at toil?"** (v3) — Hebrew תַרְאֵנִי "make me see"; אָוֶן "wickedness"; עָמָל "toil" (as v13); תַּבִּיט "you look at" (KJV "cause me to behold" makes it causative; the form is the plain hifil "look"). **"for spoiling and violence are before me" → "And havoc and violence are before me"** — שֹׁד "havoc". **"and there are that raise up strife and contention" → "and there is strife, and contention lifts itself up"** — וַיְהִי רִיב "and there is strife"; מָדוֹן יִשָּׂא "contention lifts (itself) up".
+- **"Therefore the law is slacked, and judgment doth never go forth" → "Therefore torah grows numb, and judgment never goes out"** (v4) — Hebrew תָּפוּג "grows numb" (KJV "slacked"); תּוֹרָה token; מִשְׁפָּט "judgment"; לָנֶצַח "forever" (with the negative: "never"). **"for the wicked doth compass about the righteous; therefore wrong judgment proceedeth" → "for the wicked surrounds the righteous; therefore judgment goes out crooked"** — רָשָׁע, צַדִּיק singular; מַכְתִּיר "surrounds"; מְעֻקָּל "crooked".
+- **"Behold ye among the heathen, and regard, and wonder marvellously: for I will work a work in your days, which ye will not believe, though it be told you" → "See among the nations, and look, and be astounded — be astounded! For one is working a work in your days: you will not believe when it is told"** (v5) — Hebrew רְאוּ … וְהַבִּיטוּ "see … and look"; וְהִתַּמְּהוּ תְּמָהוּ, two forms of one verb; פֹעַל פֹּעֵל, a participle with no subject named ("one is working"; "I" is not in the Hebrew); לֹא תַאֲמִינוּ "you will not believe"; כִּי יְסֻפָּר "when it is told". Acts 13:41 quotes the verse in the Greek of the Septuagint, which reads "you scoffers" for "among the nations" (from memory); the Hebrew is translated as it stands.
+- **"that bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces that are not theirs" → "the nation bitter and hasty, that walks to the broad places of the earth to possess dwellings not its own"** (v6) — Hebrew הַגּוֹי הַמַּר וְהַנִּמְהָר; הַהוֹלֵךְ לְמֶרְחֲבֵי־אֶרֶץ "that walks to the broad places of the earth"; לָרֶשֶׁת "to possess"; מִשְׁכָּנוֹת "dwellings"; לֹּא־לוֹ "not its own" (singular: the nation).
+- **"They are terrible and dreadful: their judgment and their dignity shall proceed of themselves" → "Terrible and fearsome is it; from itself go out its judgment and its lifting up"** (v7) — Hebrew singular throughout; נוֹרָא "fearsome"; שְׂאֵתוֹ "its lifting up" (its dignity).
+- **"Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle that hasteth to eat" → "And his horses are swifter than leopards, and keener than wolves of the evening, and his horsemen spring about; and his horsemen come from afar; they fly like an eagle hastening to eat"** (v8) — Hebrew singular "his"; קַלּוּ "are swift" (literally "light"); חַדּוּ "are keen" (literally "sharp"); זְאֵבֵי עֶרֶב "wolves of the evening"; וּפָשׁוּ, פּוּשׁ "spring about" (the verb of Nah 3:18; uncertain); "his horsemen" twice, as printed; נֶשֶׁר "eagle"; חָשׁ "hastening"; לֶאֱכוֹל "to eat".
+- **"They shall come all for violence: their faces shall sup up as the east wind, and they shall gather the captivity as the sand" → "All of it comes for violence; the eagerness of their faces is eastward; and it gathers captives like sand"** (v9) — Hebrew כֻּלֹּה "all of it"; מְגַמַּת, found only here, "eagerness" (or "the striving"; uncertain); קָדִימָה "eastward" (or "forward"); שֶׁבִי "captives".
+- **"And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it" → "And it scoffs at kings, and dignitaries are a laughingstock to it; it laughs at every fortress, and heaps up dust and captures it"** (v10) — Hebrew וְהוּא singular; רֹזְנִים "dignitaries"; מִשְׂחָק "a laughingstock"; צָבַר "heap up"; עָפָר "dust"; לָכַד "capture".
+- **"Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god" → "Then the wind has swept on, and he passes over and is guilty, he whose power is his god"** (v11) — Hebrew אָז חָלַף רוּחַ וַיַּעֲבֹר וְאָשֵׁם: רוּחַ "wind" (or "spirit"; KJV "mind"); חָלַף "sweep on"; אָשֵׁם "be guilty"; זוּ כֹחוֹ לֵאלֹהוֹ "this one — his power is for his god" (אֱלוֹהַּ, here of a foreign god: plain "god"). The verse is hard; the words are kept.
+- **"Art thou not from everlasting, O LORD my God, mine Holy One? we shall not die" → "Are you not from of old, Yahweh, my Elohim, my Holy One? We shall not die"** (v12) — Hebrew מִקֶּדֶם "from of old"; no "O"; לֹא נָמוּת "we shall not die" is the MT (Jewish tradition counts it among the "corrections of the scribes" for "you shall not die"); the MT is kept. **"O LORD, thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction" → "Yahweh, for judgment you have set him; and, Rock, for reproving you have founded him"** — שַׂמְתּוֹ "you have set him" (singular: the nation); צוּר "Rock" (a name of Yahweh, as Deut 32:4); לְהוֹכִיחַ "for reproving"; יְסַדְתּוֹ "you have founded him".
+- **"Thou art of purer eyes than to behold evil, and canst not look on iniquity" → "Purer of eyes than to see evil, and to look at toil you are not able"** (v13) — Hebrew טְהוֹר עֵינַיִם "pure of eyes"; עָמָל "toil" as v3. **"wherefore lookest thou upon them that deal treacherously, and holdest thy tongue when the wicked devoureth the man that is more righteous than he?" → "why do you look at those who deal treacherously, are you silent when the wicked swallows up one more righteous than he?"** — בּוֹגְדִים "those who deal treacherously"; תַּחֲרִישׁ "are you silent"; בְּבַלַּע "when … swallows up"; "the man" is not in the Hebrew.
+- **"And makest men as the fishes of the sea, as the creeping things, that have no ruler over them?" → "And you make man like the fish of the sea, like the creeping thing that has no ruler over it"** (v14) — Hebrew וַתַּעֲשֶׂה, a past form continuing the question; אָדָם "man" (mankind); רֶמֶשׂ "creeping thing", singular.
+- **"They take up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad" → "All of it he brings up with a hook; he drags it away in his net and gathers it in his dragnet; therefore he rejoices and is glad"** (v15) — Hebrew singular; כֻּלֹּה "all of it" (mankind of v14); חַכָּה "hook"; יְגֹרֵהוּ "drags it away"; חֶרְמוֹ "his net" (חֵרֶם II, another word than חֵרֶם "devoted thing"); מִכְמַרְתּוֹ "his dragnet"; יִשְׂמַח וְיָגִיל "rejoices and is glad".
+- **"Therefore they sacrifice unto their net, and burn incense unto their drag; because by them their portion is fat, and their meat plenteous" → "Therefore he sacrifices to his net and makes smoke to his dragnet; for by them his portion is fat, and his food is fat"** (v16) — Hebrew יְזַבֵּחַ "sacrifices"; יְקַטֵּר, with no object, "makes smoke" (KJV "burn incense"; no incense is named); שָׁמֵן … בְּרִאָה, two words for "fat"; מַאֲכָל "food". The former "lives in luxury" was paraphrase.
+- **"Shall they therefore empty their net, and not spare continually to slay the nations?" → "Shall he therefore empty his net, and continually kill nations, not sparing?"** (v17) — Hebrew הַעַל כֵּן "shall … therefore"; יָרִיק "empty"; תָּמִיד "continually"; הָרַג "kill"; לֹא יַחְמוֹל "not sparing" (חָמַל "have pity, spare").
+
+### Notes
+
+- **v5** — quoted Acts 13:41 (see Changes).

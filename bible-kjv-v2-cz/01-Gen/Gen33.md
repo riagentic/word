@@ -1,65 +1,80 @@
 # Genesis 33
 
-[1] ⟦jacob|Jaakov|Jákob⟧ pozvedl oči a podíval se, a hle, přicházel ⟦esau|Esav|Ezau⟧ a s ním 400 mužů. Rozdělil tedy děti mezi Leou, ⟦rachel|Rachel|Ráchel⟧ a obě otrokyně.
+[1] A ⟦jacob|Jaakov|Jákob⟧ pozvedl oči a uviděl, a hle, přichází ⟦esau|Esav|Ezau⟧ a s ním čtyři sta mužů. A rozdělil děti k Lee a k ⟦rachel|Rachel|Ráchel⟧ a k oběma služebnicím.
 
-[2] Otrokyně a jejich děti postavil vpředu, Leu a její děti za ně a ⟦rachel|Rachel|Ráchel⟧ a Josefa nakonec.
+[2] A postavil služebnice a jejich děti jako první a Leu a její děti za ně a ⟦rachel|Rachel|Ráchel⟧ a Josefa poslední.
 
-[3] On sám šel před nimi a poklonil se sedmkrát až k zemi, dokud se nepřiblížil ke svému bratrovi.
+[3] A on sám přešel před ně a sedmkrát se poklonil k zemi, než přistoupil ke svému bratrovi.
 
-[4] Ale ⟦esau|Esav|Ezau⟧ mu běžel naproti, objal ho, padl mu kolem krku a políbil ho; a plakali.
+[4] A ⟦esau|Esav|Ezau⟧ mu běžel vstříc a objal ho a padl mu kolem krku a políbil ho; a plakali.
 
-[5] Potom pozvedl oči, uviděl ženy a děti a řekl: „Kdo jsou tito s tebou?“ Řekl: „Děti, které ⟦elohim|Elohim|Bůh⟧ milostivě dal tvému služebníkovi.“
+[5] A pozvedl oči a uviděl ženy a děti a řekl: „Kdo jsou ti u tebe?“ A řekl: „Děti, jimiž ⟦elohim|Elohim|Bůh⟧ z přízně obdařil tvého služebníka.“
 
-[6] Tu přistoupily otrokyně, ony i jejich děti, a poklonily se.
+[6] A přistoupily služebnice, ony i jejich děti, a poklonily se.
 
-[7] Přistoupila i Lea se svými dětmi a poklonili se; a po nich přistoupili Josef a ⟦rachel|Rachel|Ráchel⟧ a poklonili se.
+[7] A přistoupila také Lea a její děti a poklonili se; a potom přistoupil Josef a ⟦rachel|Rachel|Ráchel⟧ a poklonili se.
 
-[8] Řekl: „Co tím celým táborem, který jsem potkal, myslíš?“ Řekl: „Chtěl jsem nalézt přízeň v očích svého pána.“
+[8] A řekl: „Čím je ti celý tento tábor, který jsem potkal?“ A řekl: „Abych nalezl přízeň v očích svého pána.“
 
-[9] Ale ⟦esau|Esav|Ezau⟧ řekl: „Mám dost, můj bratře; ponech si, co máš.“
+[9] A ⟦esau|Esav|Ezau⟧ řekl: „Mám mnoho, můj bratře; ať je tvé, co je tvé.“
 
-[10] ⟦jacob|Jaakov|Jákob⟧ řekl: „Ne, prosím, jestliže jsem nalezl přízeň v tvých očích, přijmi můj dar z mé ruky – neboť vidět tvou tvář je opravdu jako vidět tvář ⟦elohim|Elohim|Boží⟧, protože jsi mě laskavě přijal.
+[10] A ⟦jacob|Jaakov|Jákob⟧ řekl: „Ne, prosím; jestliže jsem, prosím, nalezl přízeň ve tvých očích, vezmi můj dar z mé ruky; neboť proto jsem viděl tvou tvář, jako se vidí tvář ⟦elohim|Elohim|Boží⟧, a našel jsi ve mně zalíbení.
 
-[11] Přijmi, prosím, můj dar požehnání, který ti byl přinesen, protože ⟦elohim|Elohim|Bůh⟧ se mnou jednal milostivě a protože mám všechno, co potřebuji.“ Naléhal tedy na něho a on ho přijal.
+[11] Vezmi, prosím, mé požehnání, které ti bylo přineseno, neboť mi ⟦elohim|Elohim|Bůh⟧ projevil přízeň a neboť mám všechno.“ A naléhal na něho, a vzal.
 
-[12] Potom ⟦esau|Esav|Ezau⟧ řekl: „Vydejme se na cestu a pojďme; a já půjdu vedle tebe.“
+[12] A řekl: „Táhněme a pojďme, a půjdu před tebou.“
 
-[13] Ale ⟦jacob|Jaakov|Jákob⟧ mu řekl: „Můj pán ví, že děti jsou útlé a že mám u sebe březí ovce a krávy; kdybych je jeden den hnal příliš, všechno stádo zajde.
+[13] A řekl mu: „Můj pán ví, že děti jsou útlé a že kojící brav a skot jsou na mně; a budou-li je jeden den hnát příliš, zemře všechen brav.
 
-[14] Ať, prosím, můj pán jde napřed před svým služebníkem, a já půjdu pomalu, tempem stád, která jsou přede mnou, a tempem dětí, dokud nepřijdu ke svému pánu do ⟦seir|Seiru|Seíru⟧.“
+[14] Ať, prosím, můj pán přejde před svým služebníkem, a já se povedu zvolna, podle kroku dobytka, který je přede mnou, a podle kroku dětí, dokud nepřijdu ke svému pánu do ⟦seir|Seiru|Seíru⟧.“
 
-[15] ⟦esau|Esav|Ezau⟧ řekl: „Dovol tedy, ať ti tu nechám někoho z lidí, kteří jsou se mnou.“ Ale ⟦jacob|Jaakov|Jákob⟧ řekl: „Proč? Jen ať naleznu přízeň v očích svého pána.“
+[15] A ⟦esau|Esav|Ezau⟧ řekl: „Postavím, prosím, k tobě některé z lidu, který je se mnou.“ A řekl: „Proč to? Kéž naleznu přízeň v očích svého pána.“
 
-[16] ⟦esau|Esav|Ezau⟧ se tedy toho dne vrátil svou cestou do ⟦seir|Seiru|Seíru⟧.
+[16] A ⟦esau|Esav|Ezau⟧ se toho dne navrátil svou cestou do ⟦seir|Seiru|Seíru⟧.
 
-[17] Ale ⟦jacob|Jaakov|Jákob⟧ putoval do ⟦succoth|Sukkotu|Sukótu⟧, postavil si dům a pro svůj dobytek udělal přístřešky; proto se to místo jmenuje ⟦succoth|Sukkot|Sukót⟧.
+[17] A ⟦jacob|Jaakov|Jákob⟧ táhl do ⟦succoth|Sukkotu|Sukótu⟧ a vystavěl si dům a pro svůj dobytek udělal stánky; proto dal tomu místu jméno ⟦succoth|Sukkot|Sukót⟧.
 
-[18] ⟦jacob|Jaakov|Jákob⟧ přišel v pořádku do města ⟦shechem|Šechem|Šekem⟧, které je v zemi Kenaan, když přišel z ⟦paddan-aram|Padan Aramu|Rovin aramských⟧; a utábořil se před městem.
+[18] A ⟦jacob|Jaakov|Jákob⟧ přišel bez úhony do města ⟦shechem|Šechem|Šekem⟧, které je v zemi Kenaan, když přišel z ⟦paddan-aram|Padan Aramu|Rovin aramských⟧; a utábořil se před městem.
 
-[19] Kus pole, na kterém postavil svůj stan, koupil od synů ⟦hamor|Chamora|Chamóra⟧, otce ⟦shechem|Šechemova|Šekemova⟧, za 100 ⟦qesitah|kesit|kesít⟧.
+[19] A koupil díl pole, kde rozbil svůj stan, z ruky synů ⟦hamor|Chamora|Chamóra⟧, otce ⟦shechem|Šechemova|Šekemova⟧, za sto ⟦qesitah|kesit|kesít⟧.
 
 [20] A postavil tam oltář a nazval ho ⟦el-elohe-israel|El Elohej Jisrael|El-elohe-Izrael⟧.
 
 ## Změny
 
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
-- **"handmaids" → „otrokyně“** (v1, 2, 6) – jako jinde.
-- **"drove" → „táborem“** (v8) – hebrejsky מַחֲנֶה *machaneh* = tábor / skupina. Totéž slovo jako v Mahanaim ve 32:2. Ne „stádo“; Esau už prošel všemi stády darů a ptá se na skupinu lidí, kteří s nimi putují.
-- **"therefore I have seen thy face, as though I had seen the face of God" → „vidět tvou tvář je opravdu jako vidět tvář *Elohim*“** (v10) – hebrejsky עַל־כֵּן רָאִיתִי פָנֶיךָ כִּרְאֹת פְּנֵי אֱלֹהִים. Jacobova slova záměrně spojují pohled na Esauovu tvář s pohledem na Boží tvář v Penielu (32:30) – jeho smíření s Esauem završuje setkání s Bohem.
-- **"my blessing" → „můj dar požehnání“** (v11) – hebrejsky בִּרְכָתִי *birkhati*. „Můj dar požehnání“ (totéž slovo pokrývá požehnání i hmatatelný dar, který ho vyjadřuje). Jemná ozvěna požehnání, které Jacob ukradl (kap. 27): nyní vrací dar svému poškozenému bratrovi, jakési odškodnění.
-- **"I have enough" → „mám všechno, co potřebuji“** (v11) – hebrejsky יֶשׁ־לִי־כֹל *yesh-li-khol* = „mám všechno“. Jacobova odpověď na Esauovo „mám dost“ (v9, *yesh li rav*): Jacob si nárokuje úplnost, ne pouhou dostatečnost.
-- **"I will go before thee" → „půjdu vedle tebe“** (v12) – hebrejsky אֵלְכָה לְנֶגְדֶּךָ *elkhah le-negdekha* = „půjdu před tebou / vedle tebe / naproti tobě“ (doprovázet / cestovat ve společnosti).
-- **"overdrive them" → „hnal příliš“** (v13) – hebrejsky וּדְפָקוּם *u-defaqum* od *daphaq* = tlouct / hnát tvrdě. Modernizováno.
-- **"what needeth it" → „Proč?“** (v15) – archaické → moderní.
-- **„Succoth“ – hebrejská etymologie zachována** (v17) – hebrejsky סֻכּוֹת *Sukkot* = „přístřešky / stánky“ – totéž slovo jako pozdější Svátek stánků. Pojmenováno podle Jacobových přístřešků pro dobytek.
-- **"Shalem, a city of Shechem" → „v pořádku do města Shechem“** (v18) – hebrejsky שָׁלֵם עִיר שְׁכֶם. *Shalem* může být:
-  1. Příslovce: „bezpečně / v pokoji“ → „Jacob přišel v pořádku do Shechemu“.
-  2. Místní jméno: „Salem, město Shechemu“ (KJV; snad okrsek).
-  Většina moderních badatelů dává přednost č. 1 (příslovečnému čtení), které lépe odpovídá hebrejské syntaxi i kontextu (Jacob přežil nebezpečí od Labana i od Esaua).
-- **"pieces of money" → „qesitah“** (v19) – hebrejsky קְשִׂיטָה *qesitah*. Starověká peněžní jednotka neznámé hodnoty (v Bibli jen tři výskyty, všechny v archaických kontextech). Zachováno.
-- **"El-elohe-Israel" → „El-Elohe-Israel“ s vysvětlením** (v20) – hebrejsky אֵל אֱלֹהֵי יִשְׂרָאֵל. „El, *Elohim* Israele“ – jméno oltáře. Zachováno.
+- **„A“ na začátku vět ponecháno** (v celé kapitole) – hebrejsky וַ / וְ; nenahrazuje se slovy „tedy“, „ale“, „potom“.
+- **"looked" → „uviděl“** (v1, 5) – hebrejsky וַיִּשָּׂא … עֵינָיו וַיַּרְא, „pozvedl oči a uviděl“.
+- **„rozdělil děti k“** (v1) – hebrejsky וַיַּחַץ … עַל, sloveso z 32:7 („rozdělil lid“).
+- **"handmaids" → „služebnice“** (v1, 2, 6) – hebrejsky שְׁפָחוֹת.
+- **„za ně … poslední“** (v2) – hebrejsky obakrát אַחֲרֹנִים, „vzadu, poslední“.
+- **„přešel před ně“** (v3) – hebrejsky עָבַר, sloveso z 32:10, 16, 21–23, 31; tak i v14.
+- **"bowed himself to the ground" → „poklonil se k zemi“** (v3, 6, 7) – hebrejsky וַיִּשְׁתַּחוּ אַרְצָה; הִשְׁתַּחֲוָה je „poklonit se“, lidem i Bohu stejně.
+- **„políbil ho“** (v4) – v masoretském textu má slovo וַיִּשָּׁקֵהוּ nad každým písmenem tečku (tištěný text je ukazuje); tyto písařské značky jsou staré a jejich účel není znám. Slovo je přeloženo, jak stojí.
+- **"Who are those with thee?" → „Kdo jsou ti u tebe?“** (v5) – hebrejsky מִי־אֵלֶּה לָּךְ, doslova „kdo jsou ti tobě“.
+- **"which God hath graciously given thy servant" → „jimiž *Elohim* z přízně obdařil tvého služebníka“; „projevil přízeň“** (v5, 11) – hebrejsky חָנַן, sloveso od חֵן „přízeň“ (v8, 10, 15), ve v5 se dvěma předměty; „dal“ v hebrejštině není. „Tvého otroka“, „svým otrokem“ (v5, 14): עֶבֶד, jako ve 32:4, 18, 20.
+- **"What meanest thou by all this drove" → „Čím je ti celý tento tábor“** (v8) – hebrejsky מִי לְךָ כָּל־הַמַּחֲנֶה הַזֶּה, doslova „kdo je ti celý tento tábor“; מַחֲנֶה je „tábor“, slovo z 32:2, 7, 8, 10, 21, ne „stádo“ (עֵדֶר).
+- **"find grace in the sight of" → „nalézt přízeň v očích“** (v8, 10, 15) – hebrejsky מָצָא חֵן בְּעֵינֵי.
+- **"I have enough … keep that thou hast unto thyself" → „Mám mnoho … ať je tvé, co je tvé“** (v9) – hebrejsky יֶשׁ־לִי רָב; יְהִי לְךָ אֲשֶׁר־לָךְ. Jacob odpovídá (v11) יֶשׁ־לִי־כֹל, „mám všechno“; KJV má obakrát „enough“.
+- **"receive my present" → „vezmi můj dar“; „Vezmi … mé požehnání“** (v10, 11) – hebrejsky obakrát לָקַח „vzít“, a znovu „a vzal“ (bez předmětu); מִנְחָה „dar“ (32:13, 18, 20, 21); בְּרָכָה „požehnání“ (v11), slovo z kap. 27, kde Jacob vzal požehnání Esauovo.
+- **„neboť proto jsem viděl tvou tvář, jako se vidí tvář *Elohim*, a našel jsi ve mně zalíbení“** (v10) – hebrejsky כִּי עַל־כֵּן רָאִיתִי פָנֶיךָ כִּרְאֹת פְּנֵי אֱלֹהִים וַתִּרְצֵנִי, přeloženo větu po větě; „opravdu“, „vidět … je jako“, „protože“ v hebrejštině nejsou. פְּנֵי אֱלֹהִים, „tvář *Elohim*“, se ohlíží k Penielu (32:30); slova lze číst i „tvář božské bytosti“. „Našel jsi ve mně zalíbení“: רָצָה.
+- **„naléhal“** (v11) – hebrejsky וַיִּפְצַר־בּוֹ.
+- **„A řekl“** (v12, 13, 15) – hebrejština mluvčího nejmenuje; „Esau“ (v12) a „Jacob“ (v13, 15) nejsou doplněni.
+- **"I will go before thee" → „půjdu před tebou“** (v12) – hebrejsky וְאֵלְכָה לְנֶגְדֶּךָ, přání („ať jdu“); לְנֶגֶד je „před, naproti“, což může znamenat i „vedle“. „Táhněme“: נָסַע.
+- **"the flocks and herds with young are with me" → „kojící brav a skot jsou na mně“** (v13) – hebrejsky עָלוֹת עָלָי: עָלוֹת, zvířata, která kojí; עָלַי, „na mně“ = v mé péči.
+- **"if men should overdrive them" → „budou-li je hnát příliš“** (v13) – hebrejsky וּדְפָקוּם, „a budou do nich tlouci“, třetí osoba množného čísla bez jmenovaného podmětu. „Kdybych je hnal“ je čtení Septuaginty a samaritánského textu (zpaměti); masoretský text je zachován.
+- **"according as the cattle … be able to endure" → „podle kroku dobytka“** (v14) – hebrejsky לְרֶגֶל הַמְּלָאכָה … וּלְרֶגֶל הַיְלָדִים, doslova „podle nohy díla … a podle nohy dětí“. מְלָאכָה je „dílo“, zde to, co člověku jeho dílo přineslo: jeho zvířata (není to slovo מִקְנֶה „dobytek“ z v17). „Povedu se zvolna“: אֶתְנָהֲלָה לְאִטִּי.
+- **"leave with thee" → „postavím k tobě“** (v15) – hebrejsky אַצִּיגָה, „ať postavím“.
+- **"What needeth it?" → „Proč to?“** (v15) – hebrejsky לָמָּה זֶּה. אֶמְצָא־חֵן je „ať naleznu / naleznu přízeň“.
+- **„Succoth“; „stánky“** (v17) – hebrejsky סֻכֹּת *sukkot*, „stánky“, přístřešky z větví; místo má jméno po nich. „Dal jméno“: קָרָא שֵׁם, doslova „nazval jméno“.
+- **"Shalem, a city of Shechem" → „bez úhony do města Shechem“** (v18) – hebrejsky שָׁלֵם עִיר שְׁכֶם. שָׁלֵם je buď přídavné jméno „celý, bez úhony“, nebo místní jméno („do Salemu, města Shechemova“, KJV; tak i Septuaginta, zpaměti). Zvoleno je přídavné jméno (viz 28:21, „a navrátím se v pokoji do domu svého otce“); druhé čtení je možné. Není to samo slovo *shalom*, ale jeho přídavné jméno.
+- **"pitched his tent before the city" → „utábořil se před městem“** (v18) – hebrejsky וַיִּחַן, sloveso od מַחֲנֶה „tábor“; אֶת־פְּנֵי הָעִיר, doslova „u tváře města“.
+- **"a parcel of a field" → „díl pole“; "at the hand of" → „z ruky“** (v19) – hebrejsky חֶלְקַת הַשָּׂדֶה; מִיַּד. „Rozbil“: נָטָה, doslova „roztáhl“.
+- **"pieces of money" → „kesit“** (v19) – hebrejsky קְשִׂיטָה *qesitah*, váha stříbra neznámé hodnoty (také Josh 24:32; Job 42:11). Slovo je ponecháno.
+- **"erected there an altar" → „postavil tam oltář“** (v20) – hebrejsky וַיַּצֶּב, sloveso užívané o vztyčení sloupu (35:14, 20), jen zde o oltáři.
+- **„El-elohe-Israel“** (v20) – hebrejsky אֵל אֱלֹהֵי יִשְׂרָאֵל, jméno, které Jacob dává oltáři: „El, *Elohim* Israelův“, nebo jako věta „El je *Elohim* Israelův“. „Israel“ je zde sám Jacob (32:28). Tři hebrejská slova jsou ponechána jako jméno.
 
 ### Poznámky
 
-- **Smíření** – Esauova reakce (běží, objímá, padá kolem krku, líbá, pláče) je po úzkosti z kap. 32 nečekaně vřelá. Jacob se obával ozbrojeného střetu a vynaložil velké úsilí; Esau prostě odpouští.
-- **Jacobův jemný úhyb (v14–17)** – Jacob slibuje, že půjde za Esauem do Seiru, ale pak se místo toho odchýlí do Succothu. Ať je to strategická lež, nebo změna úmyslu, bratři už spolu znovu neputují; příští setkání bude až při smrti jejich otce (35:29).
+- **Smíření** – Esauova reakce (běží, objímá, padá kolem krku, líbá, pláče) je po úzkosti z kap. 32 nečekaně vřelá. Jacob se obával ozbrojeného střetu a vynaložil velké úsilí; Esau mu jde vstříc jako bratr.
+- **Seir a Succoth (v14–17)** – Jacob říká „dokud nepřijdu ke svému pánu do Seiru“, a pak táhne do Succothu. Text neříká, zda chtěl klamat, nebo změnil úmysl; bratři jsou znovu jmenováni spolu až při pohřbu svého otce (35:29).

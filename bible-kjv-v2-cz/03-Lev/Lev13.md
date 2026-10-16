@@ -1,136 +1,165 @@
 # Leviticus 13
 
-[1] ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a ⟦aaron|Aharonovi|Áronovi⟧:
+[1] A ⟦yhwh|Jahve|Hospodin⟧ promluvil k ⟦moses|Mošovi|Mojžíšovi⟧ a k ⟦aaron|Aharonovi|Áronovi⟧ se slovy:
 
-[2] „Když má někdo na kůži svého těla otok, strup nebo světlou skvrnu a na kůži jeho těla se z toho stane nákaza kožní nemoci, bude přiveden ke knězi ⟦aaron|Aharonovi|Áronovi⟧ nebo k některému z jeho synů, kněží.
+[2] „Člověk, když bude mít na kůži svého těla otok nebo strup nebo světlou skvrnu a stane se to na kůži jeho těla ranou malomocenství, bude přiveden ke knězi ⟦aaron|Aharonovi|Áronovi⟧ nebo k jednomu z jeho synů, kněží.
 
-[3] Kněz prohlédne nákazu na kůži těla: jestliže chlupy v nákaze zbělely a nákaza se jeví hlubší než kůže jeho těla, je to nákaza kožní nemoci. Kněz ho prohlédne a prohlásí ho za nečistého.
+[3] A kněz pohlédne na ránu na kůži těla, a chlupy v ráně zbělely a vzhled rány je hlubší než kůže jeho těla – je to rána malomocenství; a kněz na něho pohlédne a prohlásí ho za nečistého.
 
-[4] Je-li však světlá skvrna na kůži jeho těla bílá a nejeví se hlubší než kůže a její chlupy nezbělely, kněz izoluje toho, kdo má nákazu, na sedm dní.
+[4] Je-li to však bílá světlá skvrna na kůži jeho těla a její vzhled není hlubší než kůže a její chlupy nezbělely, kněz ránu uzavře na sedm dní.
 
-[5] Sedmého dne ho kněz prohlédne; a jestliže nákaza v jeho očích zůstala beze změny a nákaza se na kůži nerozšířila, kněz ho izoluje na dalších sedm dní.
+[5] A sedmého dne na něho kněz pohlédne, a hle, rána v jeho očích zůstala stát; rána se na kůži nerozšířila; pak ho kněz uzavře na sedm dní podruhé.
 
-[6] Sedmého dne ho kněz prohlédne znovu; a jestliže nákaza vybledla a na kůži se nerozšířila, kněz ho prohlásí za čistého – je to jen strup. Vypere si šaty a bude čistý.
+[6] A sedmého dne na něho kněz pohlédne podruhé, a hle, rána vybledla a rána se na kůži nerozšířila; pak ho kněz prohlásí za čistého; je to strup; a vypere svá roucha a bude čistý.
 
-[7] Jestliže se však strup na kůži skutečně rozšíří poté, co se ukázal knězi k očištění, ukáže se knězi znovu.
+[7] Jestliže se však strup na kůži jistě rozšíří poté, co se ukázal knězi ke svému očištění, ukáže se knězi podruhé.
 
-[8] Když kněz uvidí, že se strup na kůži rozšířil, kněz ho prohlásí za nečistého; je to kožní nemoc.
+[8] A kněz pohlédne, a hle, strup se na kůži rozšířil; pak ho kněz prohlásí za nečistého; je to malomocenství.
 
-[9] Když je na někom nákaza kožní nemoci, bude přiveden ke knězi.
+[9] Rána malomocenství, když bude na člověku, bude přiveden ke knězi.
 
-[10] Kněz ho prohlédne, a je-li na kůži bílý otok, který zbarvil chlupy do běla, a v otoku je syrové maso,
+[10] A kněz pohlédne, a hle, na kůži je bílý otok a ten způsobil, že chlupy zbělely, a v otoku je místo živého masa:
 
-[11] je to chronická kožní nemoc na kůži jeho těla a kněz ho prohlásí za nečistého. Nebude ho izolovat, neboť je nečistý.
+[11] je to zastaralé malomocenství na kůži jeho těla; a kněz ho prohlásí za nečistého; neuzavře ho, neboť je nečistý.
 
-[12] Jestliže však kožní nemoc široce vyrazí na kůži a kožní nemoc pokryje celou kůži toho, kdo má nákazu, od hlavy až k noze, kamkoli se kněz podívá,
+[12] A jestliže malomocenství na kůži jistě vyrazí a malomocenství pokryje celou kůži rány, od jeho hlavy až k jeho nohám, kam jen oči kněze dohlédnou,
 
-[13] kněz se podívá; a jestliže kožní nemoc pokryla celé jeho tělo, prohlásí toho, kdo má nákazu, za čistého – všechno to zbělelo; je čistý.
+[13] a kněz pohlédne, a hle, malomocenství pokrylo celé jeho tělo, pak prohlásí ránu za čistou; celý zbělel; je čistý.
 
-[14] Jakmile se však na něm objeví syrové maso, bude nečistý.
+[14] Ale v den, kdy se na něm ukáže živé maso, bude nečistý.
 
-[15] Kněz uvidí syrové maso a prohlásí ho za nečistého; syrové maso je nečisté – je to kožní nemoc.
+[15] A kněz pohlédne na živé maso a prohlásí ho za nečistého; živé maso je nečisté; je to malomocenství.
 
-[16] Anebo jestliže se syrové maso opět obrátí a změní se v bílé, přijde ke knězi.
+[16] Nebo když se živé maso zase změní a obrátí se v bílé, přijde ke knězi.
 
-[17] Kněz ho prohlédne; a jestliže nákaza zbělela, kněz prohlásí toho, kdo má nákazu, za čistého; je čistý.
+[17] A kněz na něho pohlédne, a hle, rána se obrátila v bílou; pak kněz prohlásí ránu za čistou; je čistý.
 
-[18] Když na kůži těla byl vřed a zahojil se,
+[18] A tělo, když bude mít na sobě, na své kůži, vřed a ten se zahojí,
 
-[19] a na místě vředu je bílý otok nebo narůžovělá světlá skvrna, bude ukázán knězi.
+[19] a na místě vředu bude bílý otok nebo světlá skvrna, bíle načervenalá, ukáže se knězi.
 
-[20] Kněz se na to podívá; a jestliže se to jeví hlubší než kůže a chlupy v tom zbělely, kněz ho prohlásí za nečistého – je to nákaza kožní nemoci, která vyrazila ve vředu.
+[20] A kněz pohlédne, a hle, její vzhled je nižší než kůže a její chlupy zbělely; pak ho kněz prohlásí za nečistého; je to rána malomocenství; vyrazila ve vředu.
 
-[21] Jestliže to však kněz prohlédne a nejsou v tom bílé chlupy a není to hlubší než kůže, ale vybledlo to, kněz ho izoluje na sedm dní.
+[21] Jestliže však na ni kněz pohlédne, a hle, nejsou v ní bílé chlupy a není nižší než kůže a je vybledlá, kněz ho uzavře na sedm dní.
 
-[22] Jestliže se to na kůži široce rozšíří, kněz ho prohlásí za nečistého – je to nákaza.
+[22] A jestliže se na kůži jistě rozšíří, kněz ho prohlásí za nečistého; je to rána.
 
-[23] Jestliže však světlá skvrna zůstane na svém místě a nerozšíří se, je to jizva po vředu, a kněz ho prohlásí za čistého.
+[23] Jestliže však světlá skvrna zůstane stát na svém místě a nerozšíří se, je to jizva po vředu; a kněz ho prohlásí za čistého.
 
-[24] Anebo když má kůže těla popáleninu od ohně a syrové maso popáleniny se stane narůžovělou nebo bílou světlou skvrnou,
+[24] Nebo tělo, když bude mít na své kůži spáleninu od ohně a živé místo spáleniny se stane světlou skvrnou, bíle načervenalou nebo bílou,
 
-[25] kněz se na to podívá; a jestliže chlupy ve světlé skvrně zbělely a jeví se to hlubší než kůže, je to kožní nemoc, která vyrazila v popálenině. Kněz ho prohlásí za nečistého; je to nákaza kožní nemoci.
+[25] a kněz na ni pohlédne, a hle, chlupy ve světlé skvrně zbělely a její vzhled je hlubší než kůže – je to malomocenství; vyrazilo ve spálenině; a kněz ho prohlásí za nečistého; je to rána malomocenství.
 
-[26] Jestliže to však kněz prohlédne a ve světlé skvrně nejsou bílé chlupy a není hlubší než ostatní kůže, ale vybledla, kněz ho izoluje na sedm dní.
+[26] Jestliže však na ni kněz pohlédne, a hle, ve světlé skvrně nejsou bílé chlupy a není nižší než kůže a je vybledlá, kněz ho uzavře na sedm dní.
 
-[27] Sedmého dne ho kněz prohlédne; a jestliže se to na kůži široce rozšířilo, kněz ho prohlásí za nečistého – je to nákaza kožní nemoci.
+[27] A sedmého dne na něho kněz pohlédne; jestliže se na kůži jistě rozšíří, kněz ho prohlásí za nečistého; je to rána malomocenství.
 
-[28] Jestliže světlá skvrna zůstala na svém místě a na kůži se nerozšířila, ale vybledla, je to otok po popálenině, a kněz ho prohlásí za čistého; neboť je to jizva po popálenině.
+[28] Jestliže však světlá skvrna zůstane stát na svém místě a na kůži se nerozšířila a je vybledlá, je to otok po spálenině; a kněz ho prohlásí za čistého, neboť je to jizva po spálenině.
 
-[29] Když má muž nebo žena nákazu na hlavě nebo na bradě,
+[29] A muž nebo žena, když bude mít ránu na hlavě nebo v bradě,
 
-[30] kněz prohlédne nákazu; a jestliže se jeví hlubší než kůže a jsou v ní řídké žluté chlupy, kněz ho prohlásí za nečistého – je to lišej, kožní nemoc hlavy nebo brady.
+[30] a kněz pohlédne na ránu, a hle, její vzhled je hlubší než kůže a jsou v ní tenké žluté vlasy, pak ho kněz prohlásí za nečistého; je to prašivina; je to malomocenství hlavy nebo brady.
 
-[31] Jestliže však kněz prohlédne nákazu lišeje a nejeví se hlubší než kůže a nejsou v ní černé chlupy, kněz izoluje toho, kdo má lišej, na sedm dní.
+[31] A když kněz pohlédne na ránu prašiviny, a hle, její vzhled není hlubší než kůže a nejsou v ní černé vlasy, kněz ránu prašiviny uzavře na sedm dní.
 
-[32] Sedmého dne kněz prohlédne nákazu; a jestliže se lišej nerozšířil a nejsou v něm žluté chlupy a lišej se nejeví hlubší než kůže,
+[32] A sedmého dne kněz pohlédne na ránu, a hle, prašivina se nerozšířila a nebyly v ní žluté vlasy a vzhled prašiviny není hlubší než kůže;
 
-[33] bude oholen – ale lišej neoholí – a kněz izoluje toho, kdo má lišej, na dalších sedm dní.
+[33] pak se oholí, ale prašivinu neoholí; a kněz prašivinu uzavře na sedm dní podruhé.
 
-[34] Sedmého dne kněz prohlédne lišej; a jestliže se lišej na kůži nerozšířil a nejeví se hlubší než kůže, kněz ho prohlásí za čistého. Vypere si šaty a bude čistý.
+[34] A sedmého dne kněz pohlédne na prašivinu, a hle, prašivina se na kůži nerozšířila a její vzhled není hlubší než kůže; pak ho kněz prohlásí za čistého; a vypere svá roucha a bude čistý.
 
-[35] Jestliže se však lišej po jeho očištění na kůži skutečně rozšíří,
+[35] Jestliže se však prašivina na kůži jistě rozšíří po jeho očištění
 
-[36] kněz ho prohlédne; a jestliže se lišej na kůži rozšířil, kněz nebude hledat žluté chlupy – je nečistý.
+[36] a kněz na něho pohlédne, a hle, prašivina se na kůži rozšířila, nebude kněz pátrat po žlutých vlasech; je nečistý.
 
-[37] Jestliže však lišej v jeho očích zůstal beze změny a vyrostly v něm černé chlupy, lišej je zhojen; je čistý a kněz ho prohlásí za čistého.
+[37] Jestliže však prašivina v jeho očích zůstala stát a vzešly v ní černé vlasy, prašivina je zhojena; je čistý; a kněz ho prohlásí za čistého.
 
-[38] Když má muž nebo žena na kůži těla světlé skvrny – bílé světlé skvrny –
+[38] A muž nebo žena, když budou mít na kůži svého těla světlé skvrny, bílé světlé skvrny,
 
-[39] kněz je prohlédne; a jestliže jsou světlé skvrny na kůži těla matně bílé, je to neškodná vyrážka, která vyrazila na kůži; je čistý.
+[39] a kněz pohlédne, a hle, na kůži jejich těla jsou světlé skvrny, vybledle bílé – je to vyrážka; vyrazila na kůži; je čistý.
 
-[40] Když muži vypadají vlasy z hlavy, je plešatý; je čistý.
+[40] A muž, když mu olysá hlava, je plešatý; je čistý.
 
-[41] Vypadají-li mu vlasy z přední části hlavy, má pleš na čele; je čistý.
+[41] A jestliže mu hlava olysá od strany tváře, je lysý na čele; je čistý.
 
-[42] Je-li však na lysé hlavě nebo na lysém čele narůžovělá nákaza, je to kožní nemoc, která vyráží na jeho lysé hlavě nebo na jeho lysém čele.
+[42] Když však bude na pleši nebo na lysině na čele bíle načervenalá rána, je to malomocenství, které vyráží na jeho pleši nebo na jeho lysině na čele.
 
-[43] Kněz ho prohlédne; a jestliže je otok nákazy na jeho lysé hlavě nebo na jeho lysém čele narůžovělý, podobný vzhledem kožní nemoci na kůži těla,
+[43] A kněz na něho pohlédne, a hle, otok rány je bíle načervenalý na jeho pleši nebo na jeho lysině na čele, jako vzhled malomocenství kůže těla:
 
-[44] je to muž s kožní nemocí; je nečistý. Kněz ho prohlásí za zcela nečistého; jeho nákaza je na jeho hlavě.
+[44] je to malomocný muž; je nečistý; kněz ho jistě prohlásí za nečistého; jeho rána je na jeho hlavě.
 
-[45] Ten, kdo má kožní nemoc a na kom je nákaza – jeho šaty budou roztržené, jeho vlasy rozpuštěné, zakryje si horní ret a bude volat: ‚Nečistý, nečistý!‘
+[45] A malomocný, na němž je rána – jeho roucha budou rozedraná a jeho hlava bude neupravená a zahalí si knír a bude volat: ‚Nečistý, nečistý!‘
 
-[46] Po všechny dny, kdy je na něm nákaza, bude nečistý. Je nečistý; bude bydlet sám; jeho obydlí bude venku za táborem.
+[46] Po všechny dny, kdy na něm bude rána, bude nečistý; je nečistý; sám bude bydlet; vně tábora je jeho sídlo.
 
-[47] Když je na oděvu nákaza kožní nemoci, ať na vlněném oděvu, nebo na lněném oděvu,
+[47] A roucho, když na něm bude rána malomocenství, na vlněném rouchu nebo na lněném rouchu,
 
-[48] ať v osnově, nebo v útku lnu či vlny, nebo na kůži či na čemkoli zhotoveném z kůže;
+[48] nebo v osnově nebo v útku, lnu nebo vlny, nebo na kůži nebo na jakémkoli koženém díle,
 
-[49] je-li nákaza na oděvu nebo na kůži nebo v osnově nebo v útku nebo na čemkoli z kůže nazelenalá nebo načervenalá, je to nákaza kožní nemoci a bude ukázána knězi.
+[49] a rána bude nazelenalá nebo načervenalá na rouchu nebo na kůži nebo v osnově nebo v útku nebo na jakémkoli koženém předmětu – je to rána malomocenství a bude ukázána knězi.
 
-[50] Kněz prohlédne nákazu a izoluje nakaženou věc na sedm dní.
+[50] A kněz pohlédne na ránu a ránu uzavře na sedm dní.
 
-[51] Sedmého dne prohlédne nákazu; a jestliže se nákaza rozšířila na oděvu nebo v osnově či útku nebo na kůži nebo na jakémkoli výrobku z kůže, nákaza je zhoubná kožní nemoc – je nečistá.
+[51] A sedmého dne pohlédne na ránu; jestliže se rána rozšířila na rouchu nebo v osnově nebo v útku nebo na kůži, ať je kůže zpracována v jakékoli dílo, rána je zhoubné malomocenství; je nečistá.
 
-[52] Spálí oděv, ať osnovu, nebo útek, z vlny nebo ze lnu, nebo cokoli z kůže, na čem je nákaza; neboť je to zhoubná kožní nemoc; bude spálena ohněm.
+[52] A spálí roucho nebo osnovu nebo útek, z vlny nebo ze lnu, nebo jakýkoli kožený předmět, na kterém je rána; neboť je to zhoubné malomocenství; ohněm bude spáleno.
 
-[53] Jestliže to však kněz prohlédne a nákaza se nerozšířila na oděvu ani v osnově ani v útku ani na ničem z kůže,
+[53] Jestliže však kněz pohlédne, a hle, rána se nerozšířila na rouchu nebo v osnově nebo v útku nebo na jakémkoli koženém předmětu,
 
-[54] kněz přikáže, aby vyprali věc, na níž je nákaza, a izoluje ji na dalších sedm dní.
+[54] kněz přikáže a vyperou to, na čem je rána; a uzavře to na sedm dní podruhé.
 
-[55] Kněz prohlédne nákazu poté, co byla vyprána; a jestliže nákaza nezměnila svůj vzhled, i když se nákaza nerozšířila, je nečistá – spálíš ji ohněm, ať je rozklad na vnitřní, nebo na vnější straně.
+[55] A kněz pohlédne poté, co byla rána vyprána, a hle, rána nezměnila svůj vzhled a rána se nerozšířila – je to nečisté; ohněm to spálíš; je to jamka, na rubu nebo na líci.
 
-[56] Jestliže ji kněz prohlédne a nákaza po vyprání vybledla, vytrhne ji z oděvu nebo z kůže nebo z osnovy nebo z útku.
+[56] Jestliže však kněz pohlédl, a hle, rána po vyprání vybledla, vytrhne ji z roucha nebo z kůže nebo z osnovy nebo z útku.
 
-[57] Objeví-li se však znovu na oděvu, ať v osnově, nebo v útku, nebo na čemkoli z kůže, šíří se to – spálíš ohněm to, na čem je nákaza.
+[57] A ukáže-li se znovu na rouchu nebo v osnově nebo v útku nebo na jakémkoli koženém předmětu, vyráží to; ohněm spálíš to, na čem je rána.
 
-[58] A oděv, ať osnova, nebo útek, nebo cokoli z kůže, co jsi vypral, jestliže z toho nákaza zmizela, bude vyprán podruhé a bude čistý.
+[58] A roucho nebo osnova nebo útek nebo jakýkoli kožený předmět, který vypereš, a rána od nich odejde – bude vyprán podruhé a bude čistý.
 
-[59] To je zákon o nákaze kožní nemoci na oděvu z vlny nebo lnu, v osnově nebo v útku, nebo na čemkoli z kůže, podle něhož se to prohlašuje za čisté nebo nečisté.
+[59] Toto je ⟦torah|tóra|zákon⟧ o ráně malomocenství na rouchu z vlny nebo ze lnu nebo na osnově nebo na útku nebo na jakémkoli koženém předmětu, aby byl prohlášen za čistý nebo prohlášen za nečistý.“
 
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – zachován tetragram.
-- **"plague" → „nákaza“** (v celé kapitole) – hebrejsky נֶגַע *nega* = úder / rána / postižení. Obecný rituálně-lékařský termín pro kožní výsev; „plague“ (mor) je v moderní angličtině příliš úzké.
-- **"shut up" → „izolovat“** (v4, 5, 11, 21, 26, 31, 33, 50, 54) – hebrejsky הִסְגִּיר *hisgir* = izolovat / uzavřít. Překlad vyjasňuje funkci karantény.
-- **"quick raw flesh / quick flesh" → „syrové maso“** (v10, 14, 15, 16, 24) – archaické *quick* = živý. Hebrejsky בָּשָׂר חַי *basar chay* = živé / syrové maso.
-- **"warp / woof" → „osnova / útek“** (v48–59) – modernizovaná tkalcovská terminologie. *Woof* je dnes nesrozumitelné.
-- **"freckled spot" → „neškodná vyrážka“** (v39) – hebrejsky בֹּהַק *bohaq*. Nenakažlivé skvrny na kůži.
-- **"head bare" → „vlasy rozpuštěné“** (v45) – jako v 10:6. Hebrejsky פָּרוּעַ *parua* = rozcuchaný, nesvázaný.
+- **„A“** (v celé kapitole) – hebrejština spojuje věty spojkou וְ „a“; řetěz je zachován. Případy jsou stavěny, jak je staví hebrejština: nejprve jmenovaná věc, potom „když …“, potom „a hle“.
+- **"leprosy" → „malomocenství“** (v celé kapitole) – hebrejsky צָרַעַת. Jedno slovo v této i v následující kapitole pro skvrnu na lidské kůži (v2–46), na látce a kůži (v47–59) a na stěnách domu (14:34–53): šupinatý, šířící se nebo plesnivý výsev, který činí nečistým. Není to malomocenství dnešní medicíny (Hansenova nemoc) a verš žádnou nemoc nejmenuje; „malomocenství“ je tradiční slovo za to hebrejské a je ponecháno jako jedno slovo pro všechny tři případy. „Malomocný“ (v44, 45) je צָרוּעַ, od téhož kořene.
+- **"plague" → „rána“** (v celé kapitole) – hebrejsky נֶגַע, doslova „dotek, úder“ (Gen 12:17). Stojí také za postižené místo nebo člověka: „uzavře ránu“ (v4, 31, 50), „kůže rány“ (v12), „prohlásí ránu za čistou“ (v13, 17). Ponecháno, jak to má hebrejština.
+- **"When a man shall have" → „Člověk, když bude mít“** (v2) – hebrejsky אָדָם, člověk, muž nebo žena (v29, 38). **"the skin of his flesh" → „kůže jeho těla“** – hebrejsky עוֹר בְּשָׂרוֹ.
+- **"a rising, a scab, or bright spot" → „otok nebo strup nebo světlá skvrna“** (v2) – hebrejsky שְׂאֵת (doslova „zdvižení“), סַפַּחַת, בַּהֶרֶת. Jak první dvě vypadaly, je nejisté. Ve v6–8 je „strup“ מִסְפַּחַת, tvar téhož kořene.
+- **"look on" → „pohlédnout“** (v celé kapitole) – hebrejsky רָאָה „vidět“, jedno sloveso; „ukázat se“, „být ukázán“ (v7, 14, 19, 49, 57) jsou jeho další kmeny.
+- **"in sight be deeper" → „vzhled … je hlubší“** (v3, 4, 25, 30–34) – hebrejsky מַרְאֶה „vzhled“ a עָמֹק „hluboký“. **„nižší než kůže“** (v20, 21, 26) je jiné slovo, שָׁפָל „nízký“.
+- **"pronounce him unclean" → „prohlásí ho za nečistého“; "pronounce him clean" → „prohlásí ho za čistého“** (v celé kapitole) – hebrejsky טִמֵּא, טִהַר, doslova „učinit nečistým“, „učinit čistým“: výrok kněze.
+- **"shut up" → „uzavřít“** (v4, 5, 11, 21, 26, 31, 33, 50, 54) – hebrejsky הִסְגִּיר, od סָגַר „zavřít“.
+- **"the plague in his sight be at a stay" → „rána v jeho očích zůstala stát“** (v5, 37) – hebrejsky עָמַד בְּעֵינָיו, „stála v jeho očích“: v očích kněze; lze číst také „ve svém vzhledu“ (jako v55).
+- **"seven days more" → „na sedm dní podruhé“** (v5, 33, 54) – hebrejsky שֵׁנִית.
+- **"be somewhat dark" → „vybledla“ / „je vybledlá“** (v6, 21, 26, 28, 39, 56) – hebrejsky כֵּהָה, slovo užívané o pohaslých očích (Gen 27:1).
+- **"spread much abroad" → „jistě rozšíří“; "break out abroad" → „jistě vyrazí“** (v7, 12, 22, 27, 35) – infinitiv absolutní se svým slovesem: doslova „šířením se šíří“, „vyrážením vyrazí“. Tak i „jistě prohlásí za nečistého“ (v44). „Vyrazit“ je פָּרַח „rozkvést“.
+- **"after that he hath been seen of the priest" → „poté, co se ukázal knězi“** (v7) – hebrejsky הֵרָאֹתוֹ אֶל, jako „ukázat se“ v Gen 12:7.
+- **"quick raw flesh" → „místo živého masa“** (v10); **"the quick flesh that burneth" → „živé místo spáleniny“** (v24) – hebrejsky מִחְיַת בָּשָׂר חַי, מִחְיַת הַמִּכְוָה; מִחְיָה je od kořene „žít“. **"raw flesh" → „živé maso“** (v14–16) – hebrejsky בָּשָׂר חַי, doslova tak.
+- **"wheresoever the priest looketh" → „kam jen oči kněze dohlédnou“** (v12) – hebrejsky לְכָל־מַרְאֵה עֵינֵי הַכֹּהֵן, „ke všemu vidění očí kněze“.
+- **"be changed unto white" → „obrátí se v bílé“** (v16, 17, 25) – hebrejsky נֶהְפַּךְ, trpný tvar slovesa „obrátit“ (v3, 4, 10, 13, 20: „zbělet“).
+- **"The flesh also, in which, even in the skin thereof, was a boil" → „A tělo, když bude mít na sobě, na své kůži, vřed“** (v18) – hebrejsky שְׁחִין, jako Exod 9:9.
+- **"white, and somewhat reddish" → „bíle načervenalá“** (v19, 24, 42, 43) – hebrejsky לְבָנָה אֲדַמְדָּמֶת, „bílá, načervenalá“.
+- **"a burning boil" → „jizva po vředu“; "an inflammation of the burning" → „jizva po spálenině“** (v23, 28) – hebrejsky צָרֶבֶת, doslova „sežehnutí“: stopa, která zůstala.
+- **"a hot burning" → „spálenina od ohně“** (v24) – hebrejsky מִכְוַת־אֵשׁ.
+- **"a dry scall" → „prašivina“** (v30–37) – hebrejsky נֶתֶק, doslova „odtržení“: skvrna na hlavě nebo v bradě. Co to bylo, je nejisté. „Suchá“ v hebrejštině není. **"a yellow thin hair" → „tenké žluté vlasy“** – hebrejsky צָהֹב, slovo pro barvu doložené jen v této kapitole.
+- **"he shall be shaven" → „oholí se“** (v33) – hebrejsky וְהִתְגַּלָּח, zvratný tvar.
+- **"shall not seek" → „nebude pátrat“** (v36) – hebrejsky לֹא־יְבַקֵּר, „bedlivě hledat“.
+- **"black hair grown up therein" → „vzešly v ní černé vlasy“** (v37) – hebrejsky צָמַח.
+- **"a freckled spot" → „vyrážka“** (v39) – hebrejsky בֹּהַק, doloženo jen zde; smysl je nejistý: bledý výsev, který nečiní nečistým.
+- **"whose hair is fallen off his head" → „když mu olysá hlava“** (v40, 41) – hebrejsky יִמָּרֵט רֹאשׁוֹ, „je-li jeho hlava oškubána“. **"forehead bald" → „lysý na čele“** (v41) – hebrejsky גִּבֵּחַ; „od strany tváře“ je מִפְּאַת פָּנָיו.
+- **"his clothes shall be rent, and his head bare" → „jeho roucha budou rozedraná a jeho hlava bude neupravená“** (v45) – hebrejsky פְרֻמִים a פָרוּעַ, jako 10:6. Zda jsou vlasy rozpuštěné a neupravené, nebo je hlava obnažená, slovo nerozhoduje. **"put a covering upon his upper lip" → „zahalí si knír“** – hebrejsky עַל־שָׂפָם יַעְטֶה; שָׂפָם jsou vousy na horním rtu.
+- **"without the camp shall his habitation be" → „vně tábora je jeho sídlo“** (v46) – hebrejsky מוֹשָׁבוֹ, od יָשַׁב „bydlet“.
+- **"woollen … linen" → „vlněný … lněný“** (v47, 48, 52, 59) – hebrejsky צֶמֶר „vlna“ a פִּשְׁתִּים „len“. **"warp, or woof" → „osnova nebo útek“** (v48–59) – hebrejsky שְׁתִי, עֵרֶב: dvě soustavy nití v tkanině.
+- **"any thing made of skin" → „jakékoli kožené dílo“** (v48); **"any thing of skin" → „jakýkoli kožený předmět“** (v49, 52, 53, 57–59) – hebrejsky מְלֶאכֶת עוֹר a כְּלִי־עוֹר; כְּלִי je jakákoli zhotovená věc.
+- **"a fretting leprosy" → „zhoubné malomocenství“** (v51, 52) – hebrejsky מַמְאֶרֶת; smysl je nejistý (v Ezek 28:24 se týž tvar říká o píchavém trní).
+- **"it is fret inward, whether it be bare within or without" → „je to jamka, na rubu nebo na líci“** (v55) – hebrejsky פְּחֶתֶת הִוא בְּקָרַחְתּוֹ אוֹ בְגַבַּחְתּוֹ. פְּחֶתֶת je doloženo jen zde (od פַּחַת „jáma“: vyžrané místo). Poslední slova jsou doslova „na jeho pleši nebo na jeho lysině na čele“, slova z v42, 43, užitá o látce; rozumí se jimi rub a líc, ale je to nejisté. **"changed his colour" → „změnila svůj vzhled“** – hebrejsky עֵינוֹ, doslova „své oko“.
+- **"it is a spreading plague" → „vyráží to“** (v57) – hebrejsky פֹּרַחַת הִוא, jako v42.
+- **"the law" → „tóra“** (v59) – hebrejsky תּוֹרַת, poučení pro jednu věc.
 
 ### Poznámky
-- **Nejde o moderní lepru** – Hansenova nemoc (*Mycobacterium leprae*) se projevuje jinak a do Levanty pravděpodobně pronikla až v helénistickém období. *Tsara'at* je rituální kategorie pro abnormální povrchy kůže / látky / zdí; LXX ji přeložila *lepra*, z čehož vzniklo „malomocenství“ – jde však o starověký chybný překlad, který se přenáší dál.
-- **Kněz jako diagnostik** – není lékař, ale rituální inspektor. Jeho prohlášení (čistý / nečistý) má právně-rituální, ne lékařskou platnost.
-- **„Nečistý, nečistý!“** (v45) – veřejné ohlašování sebe sama. Postižený musí ostatní varovat, že se blíží. Odráží se v Jesusových setkáních v NZ (Mk 1:40–45, Lk 17:11–19).
-- **Paradox úplného pokrytí** (v13) – pokryje-li *tsara'at* celé tělo, je člověk čistý. Snad nemoc proběhla a dospěla ke konci; snad pravidlo odlišuje aktivní výsev (se syrovým masem) od zcela bílého / zastaveného stavu.
-- **Nakažené oděvy / stavby** – *tsara'at* látek a zdí (srov. 14:33–57) pravděpodobně odpovídá plísni, houbovému porostu, dřevomorce. Týž rituální jazyk je použit na nelidské entity.
+- **Nejde o moderní lepru** – Hansenova nemoc (*Mycobacterium leprae*) se projevuje jinak. *Tsara'at* je rituální kategorie pro abnormální povrchy kůže, látky a zdí; z řeckého *lepra* (Mark 1:42) vzniklo „malomocenství“.
+- **Kněz jako ten, kdo prohlíží** – není lékař, ale rituální inspektor. Jeho výrok (čistý / nečistý) má právně-rituální, ne lékařskou platnost.
+- **„Nečistý, nečistý!“** (v45) – veřejné ohlašování sebe sama. Odráží se v setkáních v NZ (Mk 1:40–45, Lk 17:11–19).
+- **Paradox úplného pokrytí** (v13) – pokryje-li *tsara'at* celé tělo a všechno zbělelo, je člověk čistý; živé maso činí nečistým (v14).
+- **Roucha** – *tsara'at* látky a kůže (srov. 14:33–57 o domech) se obvykle pokládá za plíseň. Týž rituální jazyk je použit na věci.

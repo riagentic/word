@@ -1,74 +1,86 @@
 # Jeremiah 33
 
-[1] The word of ⟦yhwh|Yahweh|the LORD⟧ came to ⟦jeremiah|Yirmeyahu|Jeremiah⟧ a second time, while he was still shut up in the court of the guard:
+[1] And the word of ⟦yhwh|Yahweh|the LORD⟧ came to ⟦jeremiah|Yirmeyahu|Jeremiah⟧ a second time, while he was still shut up in the court of the guard, saying,
 
-[2] "Thus says ⟦yhwh|Yahweh|the LORD⟧ who made the earth, ⟦yhwh|Yahweh|the LORD⟧ who formed it to establish it — ⟦yhwh|Yahweh|the LORD⟧ is his name:
+[2] Thus says ⟦yhwh|Yahweh|the LORD⟧ who makes it, ⟦yhwh|Yahweh|the LORD⟧ who forms it to establish it, ⟦yhwh|Yahweh|the LORD⟧ is his name:
 
-[3] **Call to me and I will answer you, and will tell you great and hidden things that you have not known.**
+[3] **Call to me, and I will answer you, and I will tell you great things and fortified things that you have not known.**
 
-[4] "For thus says ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧, concerning the houses of this city and the houses of the kings of ⟦judah|Yehudah|Judah⟧ that were torn down to make a defense against the siege mounds and against the sword:
+[4] For thus says ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧, concerning the houses of this city and concerning the houses of the kings of ⟦judah|Yehudah|Judah⟧ that are broken down toward the mounds and toward the sword:
 
-[5] They are coming in to fight against the ⟦chaldeans|Kasdim|Chaldeans⟧ and to fill them with the dead bodies of men whom I shall strike down in my anger and my wrath, for I have hidden my face from this city because of all their evil.
+[5] They are coming to fight the ⟦chaldeans|Kasdim|Chaldeans⟧, and to fill them with the carcasses of men whom I have struck down in my anger and in my fury, and because of all whose evil I have hidden my face from this city.
 
-[6] Behold, I will bring to it health and healing, and I will heal them and reveal to them abundance of prosperity and security.
+[6] Behold, I am bringing up for it new flesh and healing, and I will heal them, and I will reveal to them an abundance of ⟦shalom|shalom|peace⟧ and truth.
 
-[7] I will restore the fortunes of ⟦judah|Yehudah|Judah⟧ and the fortunes of ⟦israel|Yisrael|Israel⟧, and rebuild them as they were at first.
+[7] And I will restore the fortunes of ⟦judah|Yehudah|Judah⟧ and the fortunes of ⟦israel|Yisrael|Israel⟧, and I will build them as at the first.
 
-[8] I will cleanse them from all the guilt of their sin against me, and I will forgive all the guilt of their sin and rebellion against me.
+[8] And I will cleanse them from all their iniquity by which they have sinned against me, and I will pardon all their iniquities by which they have sinned against me and by which they have transgressed against me.
 
-[9] And this city shall be to me a name of joy, a praise and a glory before all the nations of the earth who shall hear of all the good that I do for them. They shall fear and tremble because of all the good and all the prosperity I provide for it.
+[9] And it shall be to me for a name of joy, for a praise and for a beauty to all the nations of the earth, who shall hear all the good that I am doing to them; and they shall be in dread and be agitated because of all the good and because of all the ⟦shalom|shalom|peace⟧ that I am doing for it.
 
-[10] "Thus says ⟦yhwh|Yahweh|the LORD⟧: In this place of which you say, 'It is a waste without man or beast,' in the cities of ⟦judah|Yehudah|Judah⟧ and the streets of ⟦jerusalem|Yerushalayim|Jerusalem⟧ that are desolate, without man or inhabitant or beast, there shall be heard again
+[10] Thus says ⟦yhwh|Yahweh|the LORD⟧: Again there shall be heard in this place, of which you are saying, "It is waste, without man and without beast," in the cities of ⟦judah|Yehudah|Judah⟧ and in the streets of ⟦jerusalem|Yerushalayim|Jerusalem⟧ that are desolate, without man and without inhabitant and without beast,
 
-[11] the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride, the voices of those who sing, as they bring thank offerings to the house of ⟦yhwh|Yahweh|the LORD⟧:
+[11] the voice of joy and the voice of gladness, the voice of the bridegroom and the voice of the bride, the voice of those who say, "Give thanks to ⟦yhwh|Yahweh|the LORD⟧ of Hosts, for ⟦yhwh|Yahweh|the LORD⟧ is good, for his ⟦steadfast-love|chesed|steadfast love⟧ is forever," bringing thanksgiving to the house of ⟦yhwh|Yahweh|the LORD⟧. For I will restore the fortunes of the land as at the first, says ⟦yhwh|Yahweh|the LORD⟧.
 
-"'Give thanks to ⟦yhwh|Yahweh|the LORD⟧ of Hosts,
-for ⟦yhwh|Yahweh|the LORD⟧ is good,
-for his steadfast love endures forever!'
+[12] Thus says ⟦yhwh|Yahweh|the LORD⟧ of Hosts: Again there shall be in this place, which is waste, without man, even to beast, and in all its cities, a habitation of shepherds making the flock lie down.
 
-For I will restore the fortunes of the land as at first, says ⟦yhwh|Yahweh|the LORD⟧.
+[13] In the cities of the hill country, in the cities of the ⟦shephelah|Shefelah|Shephelah⟧, and in the cities of the ⟦negev|Negev|Negeb⟧, and in the land of ⟦benjamin|Binyamin|Benjamin⟧, and in the places around ⟦jerusalem|Yerushalayim|Jerusalem⟧, and in the cities of ⟦judah|Yehudah|Judah⟧, again the flock shall pass under the hands of one who counts, says ⟦yhwh|Yahweh|the LORD⟧.
 
-[12] "Thus says ⟦yhwh|Yahweh|the LORD⟧ of Hosts: In this place that is waste, without man or beast, and in all of its cities, there shall again be habitations of shepherds resting their flocks.
+[14] Behold, days are coming, declares ⟦yhwh|Yahweh|the LORD⟧, and I will establish the good word that I have spoken to the house of ⟦israel|Yisrael|Israel⟧ and concerning the house of ⟦judah|Yehudah|Judah⟧.
 
-[13] In the cities of the hill country, in the cities of the ⟦shephelah|Shefelah|Shephelah⟧, and in the cities of the ⟦negev|Negev|Negeb⟧, in the land of ⟦benjamin|Binyamin|Benjamin⟧, the places about ⟦jerusalem|Yerushalayim|Jerusalem⟧, and in the cities of ⟦judah|Yehudah|Judah⟧, flocks shall again pass under the hands of the one who counts them, says ⟦yhwh|Yahweh|the LORD⟧.
+[15] In those days and at that time I will cause to spring up for David a sprout of righteousness, and he shall do judgment and righteousness in the land.
 
-[14] "Behold, the days are coming, declares ⟦yhwh|Yahweh|the LORD⟧,
-when I will fulfill the good word
-that I have spoken concerning the house of ⟦israel|Yisrael|Israel⟧
-and the house of ⟦judah|Yehudah|Judah⟧.
+[16] In those days ⟦judah|Yehudah|Judah⟧ shall be saved, and ⟦jerusalem|Yerushalayim|Jerusalem⟧ shall abide in security; and this is what one shall call her: ⟦yhwh|Yahweh|the LORD⟧ our righteousness.
 
-[15] In those days and at that time I will cause
-a righteous Branch to spring up for David,
-and he shall execute justice and righteousness in the land.
+[17] For thus says ⟦yhwh|Yahweh|the LORD⟧: There shall not be cut off for David a man sitting on the throne of the house of ⟦israel|Yisrael|Israel⟧,
 
-[16] In those days ⟦judah|Yehudah|Judah⟧ will be saved,
-and ⟦jerusalem|Yerushalayim|Jerusalem⟧ will dwell securely.
-And this is the name by which it will be called:
-'⟦yhwh|Yahweh|The LORD⟧ is our righteousness.'"
+[18] and for the priests, the ⟦levites|Leviyim|Levites⟧, there shall not be cut off a man from before me offering up a burnt offering, and turning a grain offering into smoke, and offering a sacrifice, all the days.
 
-[17] "For thus says ⟦yhwh|Yahweh|the LORD⟧: David shall never lack a man to sit on the throne of the house of ⟦israel|Yisrael|Israel⟧,
+[19] And the word of ⟦yhwh|Yahweh|the LORD⟧ came to ⟦jeremiah|Yirmeyahu|Jeremiah⟧, saying,
 
-[18] and the Levitical priests shall never lack a man in my presence to offer burnt offerings, to burn grain offerings, and to make sacrifices forever."
+[20] Thus says ⟦yhwh|Yahweh|the LORD⟧: If you break my covenant with the day and my covenant with the night, so that there are not day and night in their time,
 
-[19] The word of ⟦yhwh|Yahweh|the LORD⟧ came to ⟦jeremiah|Yirmeyahu|Jeremiah⟧:
+[21] also my covenant shall be broken with David my servant, so that he shall not have a son reigning on his throne, and with the ⟦levites|Leviyim|Levites⟧, the priests, my ministers.
 
-[20] "Thus says ⟦yhwh|Yahweh|the LORD⟧: If you can break my covenant with the day and my covenant with the night, so that day and night will not come at their appointed time,
+[22] As the host of the heavens cannot be numbered and the sand of the sea cannot be measured, so I will multiply the seed of David my servant and the ⟦levites|Leviyim|Levites⟧ who minister to me.
 
-[21] then also my covenant with David my servant may be broken, so that he shall not have a son to reign on his throne, and my covenant with the Levitical priests my ministers.
+[23] And the word of ⟦yhwh|Yahweh|the LORD⟧ came to ⟦jeremiah|Yirmeyahu|Jeremiah⟧, saying,
 
-[22] As the host of heaven cannot be numbered and the sands of the sea cannot be measured, so I will multiply the offspring of David my servant, and the Levitical priests who minister to me."
+[24] Have you not seen what this people have spoken, saying, "The two clans that ⟦yhwh|Yahweh|the LORD⟧ chose, and he has rejected them"? And my people they spurn, so that it is no more a nation before them.
 
-[23] The word of ⟦yhwh|Yahweh|the LORD⟧ came to ⟦jeremiah|Yirmeyahu|Jeremiah⟧:
+[25] Thus says ⟦yhwh|Yahweh|the LORD⟧: If I have not set my covenant with day and night, the statutes of the heavens and the earth,
 
-[24] "Have you not observed that these people are saying, '⟦yhwh|Yahweh|The LORD⟧ has rejected the two clans that he chose'? Thus they have despised my people so that they are no longer a nation in their sight.
-
-[25] Thus says ⟦yhwh|Yahweh|the LORD⟧: If I have not established my covenant with day and night and the fixed order of heaven and earth,
-
-[26] then I will reject the offspring of ⟦jacob|Yaaqov|Jacob⟧ and David my servant and will not choose one of his offspring to rule over the offspring of ⟦abraham|Avraham|Abraham⟧, ⟦isaac|Yitzchaq|Isaac⟧, and ⟦jacob|Yaaqov|Jacob⟧. For I will restore their fortunes and will have mercy on them."
+[26] also the seed of ⟦jacob|Yaaqov|Jacob⟧ and David my servant I will reject, so as not to take from his seed rulers over the seed of ⟦abraham|Avraham|Abraham⟧, ⟦isaac|Yitzchaq|Isaac⟧ and ⟦jacob|Yaaqov|Jacob⟧. For I will restore their fortunes, and I will have compassion on them.
 
 ## Changes
 
-- **"LORD of hosts" → "Yahweh of Hosts"** (vv11-12) — Hebrew יְהוָה צְבָאוֹת preserved.
-- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"God" → "*Elohim*"** (v4) — Hebrew *Elohim* preserved.
-- **Poetic structure** — vv14-16 formatted as verse messianic oracle; surrounding prose preserved.
+- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved. **"God" → "*Elohim*"** (v4). **"LORD of hosts" → "Yahweh of Hosts"** (v11, 12) — יְהוָה צְבָאוֹת. נְאֻם יְהוָה "declares Yahweh" (v14), literally "the declaration of Yahweh"; אָמַר יְהוָה "says Yahweh" (v11, 13).
+- **Layout** — the whole chapter is prose in the Hebrew; the earlier line layout of v11 and v14–16 is removed. 33:14–26 is not in the Septuagint (from memory); the MT is translated. **Quotation marks** — the Hebrew has none; only the words quoted inside the oracle (v10, 11, 24) are marked.
+- **"Moreover the word of the LORD came unto Jeremiah the second time, while he was yet shut up" → "And the word of Yahweh came to Jeremiah a second time, while he was still shut up … saying"** (v1) — וַיְהִי … לֵאמֹר; עָצוּר "shut up"; חֲצַר הַמַּטָּרָה "the court of the guard". Also v19, 23 ("And the word … came … saying").
+- **"the LORD the maker thereof, the LORD that formed it, to establish it" → "Yahweh who makes it, Yahweh who forms it to establish it"** (v2) — עֹשָׂהּ, יוֹצֵר אוֹתָהּ, participles with a feminine "it" that the Hebrew does not name (the earth, the city, or the thing Yahweh purposes); "the earth" of the earlier text is the Septuagint's reading (from memory) and is not supplied. עָשָׂה "make" may also be "do". The Hebrew has no dash: "Yahweh is his name" is a clause.
+- **"great and mighty things, which thou knowest not" → "great things and fortified things that you have not known"** (v3) — בְּצֻרוֹת, the word of "fortified" cities (the בָּצוּר row): things walled off, out of reach; "hidden things" reads נְצֻרוֹת, found in some manuscripts (from memory). לֹא יְדַעְתָּם perfect "you have not known". The bold of the verse is kept.
+- **"which are thrown down by the mounts, and by the sword" → "that are broken down toward the mounds and toward the sword"** (v4) — הַנְּתֻצִים, passive of נָתַץ "break down" (the reviewer's row); סֹלְלוֹת "mounds" (siege ramps, as 2 Sam 20:15); אֶל … וְאֶל "toward … and toward": whether the houses were pulled down to make a defence against the mounds and the sword, or fell to them, the Hebrew does not say.
+- **"They come to fight with the Chaldeans, but it is to fill them with the dead bodies of men, whom I have slain in mine anger and in my fury, and for all whose wickedness I have hid my face from this city" → "They are coming to fight the Chaldeans, and to fill them with the carcasses of men whom I have struck down … and because of all whose evil I have hidden my face from this city"** (v5) — בָּאִים participle, subject not named; וּלְמַלְאָם "and to fill them" (the houses), no "but"; פִּגְרֵי הָאָדָם "the carcasses of man" (פֶּגֶר "carcass"; אָדָם collective); הִכֵּיתִי "I have struck down" (killing is meant: the הִכָּה row); אַף "anger", חֵמָה "fury"; וַאֲשֶׁר … עַל כָּל־רָעָתָם is a relative clause, "and because of all whose evil".
+- **"I will bring it health and cure, and I will cure them, and will reveal unto them the abundance of peace and truth" → "Behold, I am bringing up for it new flesh and healing, and I will heal them, and I will reveal to them an abundance of shalom and truth"** (v6) — הִנְנִי מַעֲלֶה, "behold" and a participle; אֲרֻכָה is the new flesh that grows over a wound (restoration; Jer 8:22; 30:17); מַרְפֵּא "healing" (the 2 Chr 36:16 row); עֲתֶרֶת is found only here: "abundance" is the likely sense, not certain. שָׁלוֹם has its token (also v9).
+- **"I will cause the captivity of Judah and the captivity of Israel to return" → "I will restore the fortunes of Judah and the fortunes of Israel"** (v7, 11, 26) — שׁוּב / הֵשִׁיב שְׁבוּת, the reviewer's row: literally "turn back the captivity" or "turn the turning" (שְׁבוּת from שָׁבָה "take captive" or from שׁוּב), traditionally "turn the captivity". **"and will build them, as at the first" → "and I will build them as at the first"** — בָּנָה "build"; כְּבָרִאשֹׁנָה "as at the first" (also v11).
+- **"I will cleanse them from all their iniquity, whereby they have sinned against me; and I will pardon all their iniquities, whereby they have sinned, and whereby they have transgressed against me"** (v8) — kept: עָוֹן "iniquity", חָטָא לְ "sin against", סָלַח "pardon" (the earlier סָלַח row), פָּשַׁע בְּ "transgress against". The reading (qere) לְכָל "all" is followed; the written text (ketiv) spells לכול, the same word.
+- **"And it shall be to me a name of joy, a praise and an honour before all the nations of the earth … and they shall fear and tremble for all the goodness and for all the prosperity that I procure unto it" → "And it shall be to me for a name of joy, for a praise and for a beauty to all the nations of the earth … and they shall be in dread and be agitated because of all the good and because of all the shalom that I am doing for it"** (v9) — וְהָיְתָה "and it (fem.) shall be": "this city" is not in the Hebrew; the three nouns each with לְ "for"; לְכֹל "to all"; שָׂשׂוֹן "joy" (the reviewer's ruling: as Jer 7:34; 16:9; 25:10; only מָשׂוֹשׂ is "exultation"), תְּהִלָּה "praise", תִּפְאֶרֶת "beauty" (its row); אָנֹכִי עֹשֶׂה אֹתָם "I am doing to them" (participle; אֹתָם, literally "them"); פָּחַד "be in dread", רָגַז "be agitated" (its row); שָׁלוֹם is the noun "shalom", not "prosperity".
+- **"which ye say shall be desolate without man and without beast, even in the cities of Judah … that are desolate, without man, and without inhabitant, and without beast" → "of which you are saying, 'It is waste, without man and without beast' … that are desolate, without man and without inhabitant and without beast"** (v10) — אַתֶּם אֹמְרִים participle; חָרֵב הוּא "it is waste" (a statement, not "shall be"); מֵאֵין, literally "from there being no"; חוּצוֹת "streets"; הַנְשַׁמּוֹת, nifal of שָׁמֵם "be desolate". Verse 10 runs on into v11: "again there shall be heard … the voice of …".
+- **"The voice of joy, and the voice of gladness … the voice of them that shall say, Praise the LORD of hosts: for the LORD is good; for his mercy endureth for ever: and of them that shall bring the sacrifice of praise into the house of the LORD" → "the voice of joy and the voice of gladness … the voice of those who say, 'Give thanks to Yahweh of Hosts, for Yahweh is good, for his chesed is forever,' bringing thanksgiving to the house of Yahweh"** (v11) — the refrain as its row (1 Chr 16:34; Ps 136): הוֹדוּ "give thanks", no verb in כִּי־לְעוֹלָם חַסְדּוֹ ("is", not "endures"), חֶסֶד with its token; here the Hebrew has הוֹדוּ אֶת־ and "Yahweh is good" (the name repeated). מְבִאִים תּוֹדָה, a participle: "those who bring" belong to the same voice; תּוֹדָה "thanksgiving" (its row; the offering is meant). בֵּית יְהוָה has no preposition ("to" supplied).
+- **"which is desolate without man and without beast … an habitation of shepherds causing their flocks to lie down" → "which is waste, without man, even to beast … a habitation of shepherds making the flock lie down"** (v12) — הֶחָרֵב "the waste"; מֵאֵין־אָדָם וְעַד־בְּהֵמָה, literally "from there being no man and up to beast": neither man nor beast; נְוֵה "habitation" (the נָוֶה row), singular; מַרְבִּצִים צֹאן "making the flock lie down" (צֹאן "flock", no "their").
+- **"in the cities of the mountains, in the cities of the vale, and in the cities of the south … shall the flocks pass again under the hands of him that telleth them" → "In the cities of the hill country, in the cities of the Shephelah, and in the cities of the Negev … again the flock shall pass under the hands of one who counts"** (v13) — הָהָר "the hill country" (the הַר row); the region names keep their tokens; וּבִסְבִיבֵי "and in the places around"; עַל־יְדֵי, literally "upon the hands of"; מוֹנֶה participle of מָנָה "count"; עָבַר "pass".
+- **"Behold, the days come, saith the LORD, that I will perform that good thing which I have promised unto the house of Israel and to the house of Judah" → "Behold, days are coming, declares Yahweh, and I will establish the good word that I have spoken to the house of Israel and concerning the house of Judah"** (v14) — יָמִים בָּאִים without the article; וַהֲקִמֹתִי "and I will establish" (הֵקִים דָּבָר "establish a word", the 1 Kgs 2:4 row); הַדָּבָר הַטּוֹב "the good word" (the דָּבָר row); דִּבַּרְתִּי "I have spoken", not "promised"; אֶל … וְעַל "to … and concerning". The same opening as Jer 23:5.
+- **"will I cause the Branch of righteousness to grow up unto David; and he shall execute judgment and righteousness in the land" → "I will cause to spring up for David a sprout of righteousness, and he shall do judgment and righteousness in the land"** (v15) — אַצְמִיחַ "I will cause to spring up" (the צָמַח row), צֶמַח "sprout" (the Isa 1–4 row; traditional "Branch"), no article; צֶמַח צְדָקָה "a sprout of righteousness" where Jer 23:5 has צֶמַח צַדִּיק "a righteous sprout"; עָשָׂה מִשְׁפָּט וּצְדָקָה "do judgment and righteousness", as Jer 23:5. Jer 23:5 has "raise up" (הֵקִים) and "a king shall reign and act with insight", which are not here.
+- **"In those days shall Judah be saved, and Jerusalem shall dwell safely: and this is the name wherewith she shall be called, The LORD our righteousness" → "In those days Judah shall be saved, and Jerusalem shall abide in security; and this is what one shall call her: Yahweh our righteousness"** (v16) — לָבֶטַח "in security" (the בֶּטַח row); וְזֶה אֲשֶׁר־יִקְרָא־לָהּ, literally "and this is what one shall call to her": "the name" is not written (Jer 23:6 has וְזֶה־שְּׁמוֹ "and this is his name"); יִקְרָא active, subject not named; לָהּ "her" is Jerusalem, where Jer 23:6 has "him", the sprout. יְהוָה צִדְקֵנוּ, the same two words as Jer 23:6, kept as a name without a verb ("Yahweh is our righteousness" is the sentence the name makes; the name of Zedekiah, צִדְקִיָּהוּ, is close to it). The paseq after יְהוָה is a reading mark.
+- **"David shall never want a man to sit upon the throne of the house of Israel" → "There shall not be cut off for David a man sitting on the throne of the house of Israel"** (v17) — לֹא־יִכָּרֵת לְ … אִישׁ, as the Kings row (1 Kgs 2:4; 8:25); יֹשֵׁב participle.
+- **"Neither shall the priests the Levites want a man before me to offer burnt offerings, and to kindle meat offerings, and to do sacrifice continually" → "and for the priests, the Levites, there shall not be cut off a man from before me offering up a burnt offering, and turning a grain offering into smoke, and offering a sacrifice, all the days"** (v18) — הַכֹּהֲנִים הַלְוִיִּם "the priests, the Levites" (its row); מִלְּפָנַי "from before me"; מַעֲלֶה עוֹלָה "offering up a burnt offering" (the הֶעֱלָה עֹלָה row: literally "making a going-up go up"); מַקְטִיר "turning into smoke" (the reviewer's הִקְטִיר row); עֹשֶׂה זֶבַח "offering a sacrifice" (עָשָׂה "do / make", as its row); three participles, singular nouns; כָּל־הַיָּמִים "all the days", not "continually".
+- **"If ye can break my covenant of the day, and my covenant of the night, and that there should not be day and night in their season" → "If you break my covenant with the day and my covenant with the night, so that there are not day and night in their time"** (v20) — תָּפֵרוּ "you break" (the imperfect; "can" is the sense in English, not a word); הֵפֵר בְּרִית "break a covenant"; בְּרִיתִי הַיּוֹם, literally "my covenant, the day": "with" is supplied (also v25); יוֹמָם־וָלַיְלָה "day and night" (יוֹמָם "by day"); בְּעִתָּם "in their time".
+- **"Then may also my covenant be broken with David my servant … and with the Levites the priests, my ministers" → "also my covenant shall be broken with David my servant … and with the Levites, the priests, my ministers"** (v21) — גַּם "also", no "then"; מִהְיוֹת־לוֹ בֵן מֹלֵךְ "so that he shall not have a son reigning" (literally "from there being to him a son"); here the order is הַלְוִיִּם הַכֹּהֲנִים "the Levites, the priests" (v18 has "the priests, the Levites"); מְשָׁרְתַי "my ministers" (the מְשָׁרֵת row; also v22).
+- **"As the host of heaven cannot be numbered … so will I multiply the seed of David my servant, and the Levites that minister unto me"** (v22) — kept: אֲשֶׁר "as"; סָפַר nifal "be numbered"; חוֹל הַיָּם "the sand of the sea", singular; זֶרַע "seed" (its row, also v26).
+- **"Considerest thou not what this people have spoken, saying, The two families which the LORD hath chosen, he hath even cast them off? thus they have despised my people, that they should be no more a nation before them" → "Have you not seen what this people have spoken, saying, 'The two clans that Yahweh chose, and he has rejected them'? And my people they spurn, so that it is no more a nation before them"** (v24) — רָאִיתָ "you have seen"; מִשְׁפָּחוֹת "clans" (its row); וַיִּמְאָסֵם "and he has rejected them" (מָאַס "reject"); נִאֵץ "spurn" (its row), the object first as in the Hebrew; מִהְיוֹת עוֹד "from being any more"; לִפְנֵיהֶם "before them".
+- **"If my covenant be not with day and night, and if I have not appointed the ordinances of heaven and earth" → "If I have not set my covenant with day and night, the statutes of the heavens and the earth"** (v25) — the Hebrew runs אִם־לֹא בְרִיתִי יוֹמָם וָלָיְלָה חֻקּוֹת שָׁמַיִם וָאָרֶץ לֹא־שָׂמְתִּי, literally "if not my covenant day and night — the statutes of heavens and earth I have not set": one verb, שִׂים "set", with both objects; חֻקּוֹת "statutes" (the חֻקָּה row).
+- **"Then will I cast away the seed of Jacob, and David my servant, so that I will not take any of his seed to be rulers over the seed of Abraham, Isaac, and Jacob: for I will cause their captivity to return, and have mercy on them" → "also the seed of Jacob and David my servant I will reject, so as not to take from his seed rulers over the seed of Abraham, Isaac and Jacob. For I will restore their fortunes, and I will have compassion on them"** (v26) — גַּם "also", the object first; זֶרַע יַעֲקוֹב וְדָוִד may be "the seed of Jacob and (of) David" or "the seed of Jacob, and David": kept open; מִקַּחַת "so as not to take" (literally "from taking"); מֹשְׁלִים "rulers"; אֶל "over" (literally "to"); רִחַם "have compassion". The reading (qere) אָשִׁיב "I will restore" is followed; the written text (ketiv) אשוב "I will turn back" has the same sense.
+
+### Notes
+
+- **v14–16 beside Jer 23:5–6** — the wording is the same where the Hebrew is the same ("Behold, days are coming, declares Yahweh", "do judgment and righteousness in the land", "Judah shall be saved", "abide in security" (the שָׁכַן row), "Yahweh our righteousness"); the differences are the Hebrew's own (see v15, 16). Jer 23:5–6 matches this wording.

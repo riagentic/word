@@ -1,96 +1,118 @@
 # Genesis 32
 
-[1] ⟦jacob|Jaakov|Jákob⟧ šel svou cestou a potkali ho poslové ⟦elohim|Elohim|Boží⟧.
+[1] A ⟦jacob|Jaakov|Jákob⟧ šel svou cestou a setkali se s ním andělé ⟦elohim|Elohim|Boží⟧.
 
-[2] Když je ⟦jacob|Jaakov|Jákob⟧ uviděl, řekl: „To je tábor ⟦elohim|Elohim|Boží⟧!“ A nazval to místo Machanajim („dva tábory“).
+[2] A ⟦jacob|Jaakov|Jákob⟧ řekl, když je uviděl: „Toto je tábor ⟦elohim|Elohim|Boží⟧.“ A nazval to místo jménem Machanajim.
 
-[3] ⟦jacob|Jaakov|Jákob⟧ poslal před sebou posly ke svému bratru ⟦esau|Esavovi|Ezauovi⟧ do země ⟦seir|Seir|Seír⟧, do kraje ⟦edom|Edom|Edóm⟧.
+[3] A ⟦jacob|Jaakov|Jákob⟧ poslal před sebou posly ke svému bratru ⟦esau|Esavovi|Ezauovi⟧ do země ⟦seir|Seir|Seír⟧, na pole ⟦edom|Edom|Edóm⟧.
 
-[4] Přikázal jim: „Takto řeknete mému pánu, ⟦esau|Esavovi|Ezauovi⟧: ‚Takto praví tvůj služebník ⟦jacob|Jaakov|Jákob⟧: Pobýval jsem jako cizinec u ⟦laban|Lavana|Lábana⟧ a zdržel jsem se až dosud.
+[4] A přikázal jim se slovy: „Takto řeknete mému pánu ⟦esau|Esavovi|Ezauovi⟧: ‚Takto praví tvůj služebník ⟦jacob|Jaakov|Jákob⟧: Pobýval jsem jako příchozí u ⟦laban|Lavana|Lábana⟧ a zdržel jsem se až dosud.
 
-[5] Mám skot, osly, ovce a otroky i otrokyně. A posílám to oznámit svému pánu, abych nalezl přízeň v tvých očích.‘“
+[5] A mám voly a osly, brav a otroky a služebnice; a poslal jsem to oznámit svému pánu, abych nalezl přízeň ve tvých očích.‘“
 
-[6] Poslové se vrátili k ⟦jacob|Jaakovovi|Jákobovi⟧ a řekli: „Přišli jsme k tvému bratru ⟦esau|Esavovi|Ezauovi⟧; i on ti jde naproti a je s ním 400 mužů.“
+[6] A poslové se navrátili k ⟦jacob|Jaakovovi|Jákobovi⟧ se slovy: „Přišli jsme k tvému bratru, k ⟦esau|Esavovi|Ezauovi⟧, a také ti jde vstříc a s ním čtyři sta mužů.“
 
-[7] Tu se ⟦jacob|Jaakov|Jákob⟧ velmi bál a byl úzkostí sevřen; rozdělil lid, který byl s ním, i ovce, skot a velbloudy do dvou táborů
+[7] A ⟦jacob|Jaakov|Jákob⟧ se velmi bál a bylo mu úzko; a rozdělil lid, který byl s ním, i brav a skot a velbloudy do dvou táborů.
 
-[8] a pomyslel si: „Přijde-li ⟦esau|Esav|Ezau⟧ k jednomu táboru a pobije ho, pak tábor, který zbude, unikne.“
+[8] A řekl: „Přijde-li ⟦esau|Esav|Ezau⟧ k jednomu táboru a udeří na něj, pak tábor, který zbude, unikne.“
 
-[9] A ⟦jacob|Jaakov|Jákob⟧ řekl: „⟦elohim|Elohim|Bože⟧ mého otce ⟦abraham|Avrahama|Abrahama⟧ a ⟦elohim|Elohim|Bože⟧ mého otce ⟦isaac|Jicchaka|Izáka⟧, ⟦yhwh|Jahve|Hospodine⟧, který jsi mi řekl: ‚Vrať se do své země a ke svému příbuzenstvu a já ti budu prokazovat dobro‘:
+[9] A ⟦jacob|Jaakov|Jákob⟧ řekl: „⟦elohim|Elohim|Bože⟧ mého otce ⟦abraham|Avrahama|Abrahama⟧ a ⟦elohim|Elohim|Bože⟧ mého otce ⟦isaac|Jicchaka|Izáka⟧, ⟦yhwh|Jahve|Hospodine⟧, který jsi mi řekl: ‚Navrať se do své země a ke svému příbuzenstvu a prokážu ti dobro‘:
 
-[10] Nejsem hoden ani té nejmenší ze všech projevů věrné lásky a ze vší věrnosti, kterou jsi prokázal svému služebníkovi; neboť jen se svou holí jsem přešel tento ⟦jordan|Jarden|Jordán⟧, a nyní jsem se stal dvěma tábory.
+[10] Jsem příliš malý na ⟦steadfast-love|všechny chasadim|všechna milosrdenství⟧ a na všechnu pravdu, které jsi učinil svému služebníku; neboť se svou holí jsem přešel tento ⟦jordan|Jarden|Jordán⟧, a nyní jsem se stal dvěma tábory.
 
-[11] Vysvoboď mě, prosím, z ruky mého bratra, z ruky ⟦esau|Esavovy|Ezauovy⟧; neboť se ho bojím, aby nepřišel a nepobil mě – matky s dětmi.
+[11] Vysvoboď mě, prosím, z ruky mého bratra, z ruky ⟦esau|Esavovy|Ezauovy⟧; neboť se ho bojím, aby nepřišel a neudeřil mě, matku i se syny.
 
-[12] Ty sám jsi řekl: ‚Jistě ti budu prokazovat dobro a učiním tvé potomstvo jako písek moře, který nelze pro množství spočítat.‘“
+[12] A ty sám jsi řekl: ‚Jistě ti prokážu dobro a učiním tvé símě jako písek moře, který nelze pro množství spočítat.‘“
 
-[13] Tu noc tam přenocoval. Vzal z toho, co měl s sebou, dar pro svého bratra ⟦esau|Esava|Ezaua⟧:
+[13] A přenocoval tam tu noc; a vzal z toho, co mu přišlo do ruky, dar pro svého bratra ⟦esau|Esava|Ezaua⟧:
 
 [14] dvě stě koz a dvacet kozlů, dvě stě ovcí a dvacet beranů,
 
-[15] třicet kojících velbloudic s jejich mláďaty, čtyřicet krav a deset býků, dvacet oslic a deset oslů.
+[15] třicet kojících velbloudic a jejich mláďata, čtyřicet krav a deset býků, dvacet oslic a deset oslích hříbat.
 
-[16] Předal je svým služebníkům, každé stádo zvlášť, a řekl svým služebníkům: „Jděte přede mnou a nechte odstup mezi stádem a stádem.“
+[16] A dal je do ruky svých otroků, každé stádo zvlášť; a řekl svým otrokům: „Přejděte přede mnou a udělejte mezeru mezi stádem a stádem.“
 
-[17] Prvnímu přikázal: „Až tě potká můj bratr ⟦esau|Esav|Ezau⟧ a zeptá se tě: ‚Komu patříš? Kam jdeš? A čí jsou tato zvířata před tebou?‘
+[17] A přikázal prvnímu se slovy: „Až tě potká můj bratr ⟦esau|Esav|Ezau⟧ a zeptá se tě slovy: ‚Čí jsi a kam jdeš a čí je toto před tebou?‘,
 
-[18] tehdy řekneš: ‚Patří tvému služebníku ⟦jacob|Jaakovovi|Jákobovi⟧; je to dar poslaný mému pánu ⟦esau|Esavovi|Ezauovi⟧. A hle, on jde hned za námi.‘“
+[18] řekneš: ‚Tvého služebníka ⟦jacob|Jaakova|Jákoba⟧; je to dar poslaný mému pánu ⟦esau|Esavovi|Ezauovi⟧. A hle, i on je za námi.‘“
 
-[19] Přikázal i druhému a třetímu a všem, kdo šli za stády: „Tímto způsobem promluvíte k ⟦esau|Esavovi|Ezauovi⟧, až ho najdete;
+[19] A přikázal také druhému, také třetímu, také všem, kdo šli za stády, se slovy: „Podle tohoto slova promluvíte k ⟦esau|Esavovi|Ezauovi⟧, až ho najdete;
 
-[20] a řeknete: ‚Hle, tvůj služebník ⟦jacob|Jaakov|Jákob⟧ jde hned za námi.‘“ Řekl si totiž: „Usmířím jeho tvář darem, který jde přede mnou, a potom uvidím jeho tvář; snad pozvedne mou tvář.“
+[20] a řeknete: ‚Také, hle, tvůj služebník ⟦jacob|Jaakov|Jákob⟧ je za námi.‘“ Neboť řekl: „Usmířím jeho tvář darem, který jde před mou tváří, a potom uvidím jeho tvář; snad pozvedne mou tvář.“
 
-[21] Dar tedy šel před ním, a on sám tu noc přenocoval v táboře.
+[21] A dar přešel před jeho tváří a on sám přenocoval tu noc v táboře.
 
-[22] Tu noc vstal, vzal své dvě ženy, své dvě otrokyně a svých jedenáct dětí a přešel brod ⟦jabbok|Jabboku|Jaboku⟧.
+[22] A vstal té noci a vzal své dvě ženy a své dvě služebnice a svých jedenáct dětí a přešel brod ⟦jabbok|Jabboku|Jaboku⟧.
 
-[23] Vzal je a převedl je přes vádí a převedl i všechno, co měl.
+[23] A vzal je a převedl je přes vádí a převedl, co měl.
 
-[24] A ⟦jacob|Jaakov|Jákob⟧ zůstal sám; a jakýsi muž s ním zápasil až do svítání.
+[24] A ⟦jacob|Jaakov|Jákob⟧ zůstal sám; a zápasil s ním muž až do vzejití úsvitu.
 
-[25] Když ten muž viděl, že ho nemůže přemoci, udeřil ⟦jacob|Jaakova|Jákoba⟧ do kyčelní jamky, a ⟦jacob|Jaakovova|Jákobova⟧ kyčel se vykloubila, jak s ním zápasil.
+[25] A viděl, že ho nemůže přemoci, a dotkl se jamky jeho stehna; a jamka ⟦jacob|Jaakovova|Jákobova⟧ stehna se vykloubila, když s ním zápasil.
 
-[26] Potom řekl: „Pusť mě, neboť svítá.“ On však řekl: „Nepustím tě, dokud mi nepožehnáš.“
+[26] A řekl: „Pusť mě, neboť úsvit vzešel.“ A řekl: „Nepustím tě, dokud mi nepožehnáš.“
 
-[27] Řekl mu tedy: „Jak se jmenuješ?“ A on řekl: „⟦jacob|Jaakov|Jákob⟧.“
+[27] A řekl mu: „Jaké je tvé jméno?“ A řekl: „⟦jacob|Jaakov|Jákob⟧.“
 
-[28] Řekl: „Tvé jméno už nebude ⟦jacob|Jaakov|Jákob⟧, nýbrž ⟦israel|Jisrael|Izrael⟧, neboť jsi zápasil s ⟦elohim|Elohim|Bohem⟧ i s lidmi a zvítězil jsi.“
+[28] A řekl: „Tvé jméno se už nebude nazývat ⟦jacob|Jaakov|Jákob⟧, nýbrž ⟦israel|Jisrael|Izrael⟧; neboť jsi zápolil s ⟦elohim|Elohim|Bohem⟧ i s muži a přemohl jsi.“
 
-[29] Potom se ⟦jacob|Jaakov|Jákob⟧ zeptal a řekl: „Pověz mi, prosím, své jméno.“ On však řekl: „Proč se ptáš na mé jméno?“ A tam mu požehnal.
+[29] A ⟦jacob|Jaakov|Jákob⟧ se zeptal a řekl: „Oznam, prosím, své jméno.“ A řekl: „Proč se to ptáš na mé jméno?“ A požehnal mu tam.
 
-[30] ⟦jacob|Jaakov|Jákob⟧ tedy nazval to místo ⟦peniel|Peniel|Peníel⟧, „neboť jsem viděl ⟦elohim|Elohim|Boha⟧ tváří v tvář, a můj život byl zachráněn“.
+[30] A ⟦jacob|Jaakov|Jákob⟧ nazval to místo jménem ⟦peniel|Peniel|Peníel⟧: „Neboť jsem viděl ⟦elohim|Elohim|Boha⟧ tváří v tvář, a má duše byla vysvobozena.“
 
-[31] Slunce mu vyšlo, když míjel ⟦penuel|Penuel|Penúel⟧, a kulhal kvůli své kyčli.
+[31] A vyšlo nad ním slunce, když míjel ⟦penuel|Penuel|Penúel⟧, a kulhal na své stehno.
 
-[32] Proto až do dnešního dne synové ⟦israel|Jisraele|Izraele⟧ nejedí šlachu kyčelní jamky, která je na kyčli, protože udeřil ⟦jacob|Jaakova|Jákoba⟧ do kyčelní jamky, na šlachu kyčle.
+[32] Proto synové ⟦israel|Jisraele|Izraele⟧ až do tohoto dne nejedí kyčelní šlachu, která je na jamce stehna; neboť se dotkl jamky ⟦jacob|Jaakovova|Jákobova⟧ stehna na kyčelní šlaše.
 
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – Tetragram zachován.
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
-- **"angels of God" → „poslové *Elohim*“** (v1) – jako jinde.
-- **"God's host" → „tábor *Elohim*“** (v2) – hebrejsky מַחֲנֵה אֱלֹהִים *machaneh Elohim*. *Machaneh* = vojsko / tábor / ležení. Jacob potkává druhý tábor vedle svého vlastního – odtud místní jméno Mahanaim („dva tábory“).
-- **"sent messengers" → „poslal posly“ (v3)** – hebrejsky מַלְאָכִים *mal'akhim* – totéž slovo jako ve v1 „poslové *Elohim*“. Záměrná ozvěna: Jacob je obklopen Božími *mal'akhim* a Jacob posílá lidské *mal'akhim*.
-- **"mercies and truth" → „projevů věrné lásky a … věrnosti“** (v10) – hebrejsky חֲסָדִים … אֱמֶת *chasadim … emet*, jako ve 24:27.
-- **"the mother with the children" → „matky s dětmi“** (v11) – hebrejsky אֵם עַל־בָּנִים *em al-banim*. Odborný výraz z válečnictví starověkého Předního východu označující úplné vyhlazení nepřátelského rodu (matek i jejich dětí). „Matky“ vyjasňuje hromadné užití.
-- **"I will appease him with the present" / "lift up my face" → „Usmířím jeho tvář darem“ / „pozvedne mou tvář“ (v20)** – hebrejsky אֲכַפְּרָה פָנָיו … יִשָּׂא פָנָי. Záměrný čtyřnásobný jazyk tváře: „zakryji jeho tvář… uvidím jeho tvář… pozvedne mou tvář“. *Kaphar* („zakrýt / usmířit / smířit“) je pozdější kořen obětního smíření. Jacob užívá pro setkání s Esauem jazyk smíření – hutné předznamenání.
-- **„Jabbok“ – etymologie** (v22) – hebrejsky יַבֹּק *Yabboq* – přítok Jordanu. Zvukově připomíná Jacobovo jméno (*Ya'aqov*) i sloveso zápasu (*ya'aveq*, v24, od *avaq*). Jméno místa, Jacob i zápas sdílejí tři souhlásky kořene – v angličtině se to ztrácí, ale v hebrejském textu je to ústřední.
-- **"eleven sons" → „jedenáct dětí“** (v22) – hebrejsky יְלָדָיו *yeladav* = jeho děti. Zahrnuje Dinah (viz 30:21), i když je ženského rodu; většina anglických překladů má „synů“. „Děti“ je přesnější.
-- **"there wrestled a man with him" → „jakýsi muž s ním zápasil“** (v24) – hebrejsky וַיֵּאָבֵק אִישׁ עִמּוֹ *wa-ye'aveq ish immo*. Sloveso *avaq* = zápasit / potýkat se (od „prachu“, který zvedají). Hapax legomenon zde a ve v25. Muž není identifikován až do v30 (Jacobovo vlastní rozpoznání, že jde o božskou bytost).
-- **"hollow of his thigh" → „kyčelní jamky“** (v25, 32) – hebrejsky כַּף־יֶרֶכוֹ *kaph-yerekho*. *Kaph* = prohlubeň / dlaň / jamka; *yarekh* = kyčel / stehno / bedra. Konkrétně kyčelní jamka.
-- **"out of joint" → „se vykloubila“** (v25) – hebrejsky וַתֵּקַע *wa-teqa*. Modernizovaný lékařský výraz.
-- **"as a prince hast thou power" → „zápasil jsi“** (v28) – hebrejsky שָׂרִיתָ *sarita* od שָׂרָה *sarah* = „zápasit / bojovat / vytrvat“. Jméno *Yisra'el* = „El zápasí / ten, kdo zápasí s El / El vládne“. Etymologie zachována. KJV „as a prince“ vychází z hebrejského שָׂר *sar* (kníže / vládce) jako alternativního odvození kořene; čtení založené na slovese je spolehlivější.
-- **„Peniel / Penuel“ – vysvětlení** (v30, 31) – dva pravopisy téhož jména, פְּנִיאֵל / פְּנוּאֵל *Peni-El / Penu-El* = „tvář El“. Jacob dává místu jméno na památku toho, že viděl tvář *Elohim*.
-- **"halted upon his thigh" → „kulhal kvůli své kyčli“** (v31) – hebrejsky וְהוּא צֹלֵעַ עַל־יְרֵכוֹ. Zranění je trvalé; Jacob od setkání odchází kulhaje.
-- **"the sinew which shrank" → „šlachu kyčelní jamky / kyčle“** (v32) – hebrejsky גִּיד הַנָּשֶׁה *gid ha-nasheh*. Význam *nasheh* je sporný: „která se scvrkla“ (tradičně); nebo „která byla vysunuta / zasažena“; nebo nerv (sedací) či šlacha. Ohlas v podobě pokrmového tabu – zbožní Židé dodnes odstraňují z košer masa sedací nerv (tradice *nikur*). Anatomické podrobnosti: pravděpodobně sedací nerv nebo přilehlá šlacha u kyčle.
+- **„A“ na začátku vět ponecháno** (v celé kapitole) – hebrejsky וַ / וְ; nenahrazuje se slovy „když“, „tedy“, „potom“, „však“.
+- **"angels of God" → „andělé *Elohim*“; „poslové“** (v1, 3, 6) – jedno hebrejské slovo: מַלְאֲכֵי אֱלֹהִים (v1) a מַלְאָכִים (v3, 6), „poslové“. Ti, kdo jsou *Elohim*, jsou přeloženi „andělé“ (jako „anděl *Elohim*“, 31:11), ti, které posílá Jacob, „poslové“; hebrejština mezi nimi nerozlišuje a ozvěna je záměrná: s Jacobem se setkají poslové *Elohim* a Jacob posílá posly k Esauovi. „Setkali se s ním“ je וַיִּפְגְּעוּ־בוֹ (פָּגַע בְּ); „potká“ ve v17 je jiné sloveso, פָּגַשׁ.
+- **"God's host" → „tábor *Elohim*“** (v2) – hebrejsky מַחֲנֵה אֱלֹהִים *machaneh Elohim*; מַחֲנֶה je „tábor“ v celé kapitole (v7, 8, 10, 21). Jméno מַחֲנָיִם *Machanayim* je jeho duál, „dva tábory“; hebrejský verš jméno nevysvětluje.
+- **"the country of Edom" → „pole Edom“** (v3) – hebrejsky שְׂדֵה אֱדוֹם.
+- **"thy servant Jacob" → „tvůj služebník“** (v4, 18, 20; zdvořilostní tvar před nadřízeným, jako Gen 18:3; 42:10) – hebrejsky עַבְדְּךָ, slovo עֶבֶד „otrok“, totéž jako „otroky“ (v5) a „svých otroků“ (v16), řečené „mému pánu“ (אֲדֹנִי); ve 25:23 a 27:29, 37, 40 je to Esau, kdo má Jacobovi sloužit (עָבַד). Vůči *Elohim* (v10) je totéž slovo „tvůj služebník“, jako všude o služebnících Yahweh.
+- **„voly a osly, brav a otroky a služebnice“** (v5) – hebrejština má vše v jednotném čísle, jako druh: „vola a osla, brav a otroka a služebnici“ (שׁוֹר, חֲמוֹר, צֹאן, עֶבֶד, שִׁפְחָה).
+- **"find grace in thy sight" → „nalezl přízeň ve tvých očích“** (v5) – hebrejsky לִמְצֹא־חֵן בְּעֵינֶיךָ.
+- **„bylo mu úzko“** (v7) – hebrejsky וַיֵּצֶר לוֹ, doslova „bylo mu těsno“.
+- **„A řekl“ ponecháno** (v8) – hebrejsky וַיֹּאמֶר „a řekl“; „pomyslel si“ v hebrejštině není. „Unikne“: וְהָיָה … לִפְלֵיטָה, doslova „bude k úniku“. „Udeří na něj“: הִכָּה.
+- **"O God" → „*Elohim*“** (v9) – oslovení bez citoslovce. „Který jsi řekl“ je příčestí, הָאֹמֵר, „ten, který říká“. „Prokážu ti dobro“ (v9, 12) je doslova „učiním dobro s tebou“ (עִמָּךְ); ve v12 s infinitivem absolutním, הֵיטֵב אֵיטִיב, „dobře činěním učiním dobro“ = „jistě“.
+- **"I am not worthy of the least of all the mercies" → „Jsem příliš malý na všechny *chasadim*“** (v10) – hebrejsky קָטֹנְתִּי מִכֹּל הַחֲסָדִים, doslova „jsem menší než všechny *chasadim*“; „hoden“ a „nejmenší“ v hebrejštině nejsou. חֲסָדִים je množné číslo slova *chesed*; אֱמֶת je „pravda“. „Učinil“ je עָשָׂה אֶת.
+- **„přešel tento Jordan“** (v10) – hebrejsky עָבַר, sloveso, které prochází celým oddílem: v16, 21, 22, 23 (dvakrát, „převedl“), 31; 33:3, 14. „Jen“ v hebrejštině není: „se svou holí“.
+- **"the mother with the children" → „matku i se syny“** (v11) – hebrejsky אֵם עַל־בָּנִים, doslova „matku na synech“, bez členů: ustálené rčení o pobití, které nikoho neušetří (Hos 10:14). בָּנִים jsou „synové“.
+- **„símě“** (v12) – hebrejsky זֶרַע.
+- **„z toho, co mu přišlo do ruky“; "present" → „dar“** (v13, 18, 20, 21) – hebrejsky מִן־הַבָּא בְיָדוֹ; מִנְחָה, slovo pro dar přinášený výše postavenému, později slovo pro přídavnou oběť.
+- **„jejich mláďata“; „oslích hříbat“** (v15) – hebrejsky בְּנֵיהֶם, doslova „jejich syny“; עְיָרִם, mladí oslí samci. Číslovky stojí v hebrejštině za jmény („koz dvě stě“).
+- **„každé stádo zvlášť“** (v16) – hebrejsky עֵדֶר עֵדֶר לְבַדּוֹ, „stádo, stádo, samo“.
+- **"They be thy servant Jacob's" → „Tvého služebníka“** (v18) – hebrejské לְעַבְדְּךָ לְיַעֲקֹב odpovídá na otázku „Čí?“; „patří“ v hebrejštině není.
+- **"On this manner" → „Podle tohoto slova“** (v19) – hebrejsky כַּדָּבָר הַזֶּה.
+- **"I will appease him with the present … peradventure he will accept of me" → „Usmířím jeho tvář … pozvedne mou tvář“** (v20) – hebrejsky אֲכַפְּרָה פָנָיו … לְפָנָי … אֶרְאֶה פָנָיו … יִשָּׂא פָנָי a ve v21 עַל־פָּנָיו: pětkrát „tvář“, všude ponecháno. אֲכַפְּרָה je sloveso כִּפֶּר, jinde „vykonat smíření“ (jako základní význam se uvádí „přikrýt“ nebo „setřít“); s tváří člověka jako předmětem znamená „usmířit“. „Pozvednout tvář“ = vlídně přijmout.
+- **"eleven sons" → „jedenáct dětí“** (v22) – hebrejsky יְלָדָיו *yeladav*, „jeho děti“ (ne בָּנִים „synové“).
+- **"womenservants" → „služebnice“** (v22) – hebrejsky שִׁפְחֹת.
+- **"brook" → „vádí“** (v23) – hebrejsky נַחַל. Jabbok (יַבֹּק *Yabboq*) zvukově připomíná jméno Jacob (*Yaaqov*) i sloveso „zápasil“ (*ye'aveq*, v24).
+- **"there wrestled a man with him" → „zápasil s ním muž“** (v24, 25) – hebrejsky וַיֵּאָבֵק אִישׁ עִמּוֹ: אִישׁ, „muž“, nic víc; sloveso נֶאֱבַק je jen v těchto dvou verších (nejspíš od אָבָק „prach“). „Vzejití úsvitu“ je עֲלוֹת הַשָּׁחַר, doslova „vystoupení“; ve v26 „úsvit vzešel“.
+- **"when he saw" → „A viděl“** (v25) – hebrejština nejmenuje podmět sloves „viděl“, „nemůže“ ani „dotkl se“; „ten muž“ není doplněn.
+- **"prevailed not against him" → „nemůže ho přemoci“; "hast prevailed" → „přemohl jsi“** (v25, 28) – hebrejsky לֹא יָכֹל לוֹ, וַתּוּכָל: יָכֹל „moci“, s לְ „zmoci, přemoci“.
+- **„dotkl se jamky jeho stehna“** (v25, 32) – hebrejsky וַיִּגַּע בְּכַף־יְרֵכוֹ: נָגַע je „dotknout se“ (může to být dotyk, který zraní); כַּף je „dlaň, prohlubeň“, יָרֵךְ „stehno“: jamka kyčelního kloubu. „Udeřil“ říká víc než hebrejské slovo.
+- **„se vykloubila“** (v25) – hebrejsky וַתֵּקַע, „vymkla se“.
+- **"except thou bless me" → „dokud mi nepožehnáš“** (v26) – hebrejsky כִּי אִם־בֵּרַכְתָּנִי, perfektum: „leda že jsi mi požehnal“. „Pusť“ a „nepustím“ je שִׁלַּח, „propustit“.
+- **"as a prince hast thou power with God" → „zápolil jsi s *Elohim*“** (v28) – hebrejsky שָׂרִיתָ עִם־אֱלֹהִים וְעִם־אֲנָשִׁים וַתּוּכָל. שָׂרָה, „zápolit, přít se“, je jen zde a v Hos 12:3–4; vykládá se jím jméno יִשְׂרָאֵל *Yisrael*. KJV „as a prince“ je odvozuje od שַׂר „kníže“. אֱלֹהִים stojí vedle אֲנָשִׁים „muži“ bez členu; je to slovo všude překládané *Elohim* a lze je číst i „božské bytosti“.
+- **„Proč se to ptáš na mé jméno?“** (v29) – hebrejsky לָמָּה זֶּה תִּשְׁאַל לִשְׁמִי.
+- **„Peniel … Penuel“** (v30, 31) – dva tvary jednoho jména, פְּנִיאֵל / פְּנוּאֵל, „tvář El“. Slova za jménem jsou Jacobova vlastní, bez „řka“.
+- **"my life is preserved" → „má duše byla vysvobozena“** (v30) – hebrejsky וַתִּנָּצֵל נַפְשִׁי: נֶפֶשׁ „duše“ a trpný rod slovesa הִצִּיל „vysvobodit“ (v11).
+- **"halted upon his thigh" → „kulhal na své stehno“** (v31) – hebrejsky צֹלֵעַ עַל־יְרֵכוֹ. „Míjel“ je עָבַר, sloveso „přejít“.
+- **"children of Israel" → „synové Israele“** (v32) – hebrejsky בְנֵי־יִשְׂרָאֵל.
+- **"the sinew which shrank" → „kyčelní šlachu“** (v32) – hebrejsky גִּיד הַנָּשֶׁה *gid ha-nasheh*. Význam slova נָשֶׁה je nejistý; slovo je jen v tomto verši. Nejlépe doloženo: kyčelní nerv nebo šlacha (sedací nerv); „která se scvrkla“ je stará domněnka podle jednoho slovesa. Zvyk trvá dodnes: sedací nerv se z košer masa odstraňuje (*nikkur*).
 
 ### Poznámky
 
-- **S kým Jacob zápasil?** Text to nazývá „muž“ (v24), pak Jacob říká „viděl jsem *Elohim* tváří v tvář“ (v30); Hos 12:4 říká „zápasil s andělem“. Výklady:
+- **Čísla veršů** – v hebrejské Bibli tato kapitola začíná o verš dříve (naše 31:55 je hebrejsky 32:1), takže každé hebrejské číslo verše je zde o jedno vyšší než naše (naše 32:1 = hebrejsky 32:2 … naše 32:32 = hebrejsky 32:33).
+- **S kým Jacob zápasil?** Text ho nazývá „muž“ (v24), pak Jacob říká „viděl jsem *Elohim* tváří v tvář“ (v30); Hos 12:4 mluví o מַלְאָךְ, andělu. Výklady:
   1. Sám Yahweh v podobě teofanie.
   2. Boží posel (anděl).
   3. Esauův ochranný duch (rabínská tradice, podaný jako Esauův anděl).
   4. Jacobovo vlastní svědomí / strach z Esaua navenek zpředmětněný.
   Text totožnost skrývá – když se Jacob ptá na jméno (v29), odpověď je odepřena.
-- **Přejmenování** – Jacob („ten, kdo chytá za patu / vytlačuje“) se stává Israelem („zápasící s Bohem“). Staré jméno nepoctivé lsti je nahrazeno čestným jménem zápasníka. Požehnání, které zde získává, je přímo od Boha, ne ukradené (srov. 27). A přece Jacob kulhá – požehnání ho stojí něco trvalého.
+- **Přejmenování** – Jacob („ten, kdo chytá za patu / vytlačuje“) se stává Israelem (ve v28 vyloženo slovy „zápolil jsi s *Elohim*“). Požehnání, které zde získává, je dané, ne ukradené (srov. kap. 27). A přece Jacob kulhá – požehnání ho stojí něco trvalého.
 - **Vrchol Jacobova cyklu** – Jacob stráví následující den setkáním s Esauem (kap. 33) a smíření se zdaří. Zápas předznamenává shledání: jestliže Jacob přežije setkání s Bohem, přežije i Esaua.

@@ -1,98 +1,121 @@
 # Exodus 21
 
-[1] "Now these are the ordinances that you shall set before them.
+[1] "And these are the ordinances that you shall set before them.
 
-[2] When you buy ⟦hebrew|an Ivri|a Hebrew⟧ slave, he shall serve six years; and in the seventh he shall go out free, for nothing.
+[2] When you buy ⟦hebrew|an Ivri|a Hebrew⟧ slave, six years he shall serve, and in the seventh he shall go out free, for nothing.
 
-[3] If he came in by himself, he shall go out by himself; if he was married, then his wife shall go out with him.
+[3] If he comes in by himself, he shall go out by himself; if he is the husband of a wife, then his wife shall go out with him.
 
-[4] If his master gives him a wife, and she bears him sons or daughters, the wife and her children shall belong to her master, and he shall go out by himself.
+[4] If his lord gives him a wife and she bears him sons or daughters, the wife and her children shall be her lord's, and he shall go out by himself.
 
-[5] But if the slave plainly says, 'I love my master, my wife, and my children; I will not go out free,'
+[5] But if the slave surely says, 'I love my lord, my wife and my sons; I will not go out free,'
 
-[6] then his master shall bring him to ⟦elohim|the Elohim|God⟧; he shall bring him to the door or to the doorpost, and his master shall pierce his ear through with an awl, and he shall serve him for life.
+[6] then his lord shall bring him near to ⟦elohim|Elohim|God⟧, and he shall bring him near to the door or to the doorpost, and his lord shall pierce his ear with the awl, and he shall serve him forever.
 
-[7] If a man sells his daughter as a female slave, she shall not go out as the male slaves do.
+[7] And when a man sells his daughter as a slave woman, she shall not go out as the slaves go out.
 
-[8] If she does not please her master, who has designated her for himself, then he shall let her be redeemed. He shall have no authority to sell her to a foreign people, because he has broken faith with her.
+[8] If she is bad in the eyes of her lord, who has designated her for himself, then he shall let her be ransomed; to a foreign people he shall have no power to sell her, since he has dealt treacherously with her.
 
-[9] If he designates her for his son, he shall deal with her according to the rights of daughters.
+[9] And if he designates her for his son, he shall do to her according to the ordinance of the daughters.
 
-[10] If he takes another wife for himself, he shall not diminish her food, her clothing, or her conjugal rights.
+[10] If he takes another for himself, her food, her covering and her marital right he shall not diminish.
 
-[11] If he does not do these three things for her, then she shall go out free, without payment of silver.
+[11] And if he does not do these three for her, then she shall go out for nothing, without money.
 
-[12] "Whoever strikes a man so that he dies shall surely be put to death.
+[12] He who strikes a man so that he dies shall surely be put to death.
 
-[13] But if he did not lie in wait, but ⟦elohim|Elohim|God⟧ let him fall into his hand, then I will appoint for you a place to which he may flee.
+[13] But he who did not lie in wait, and ⟦elohim|Elohim|God⟧ brought it to his hand: I will set for you a place to which he shall flee.
 
-[14] But if a man schemes against his neighbor to kill him by treachery, you shall take him even from my altar, that he may die.
+[14] And when a man acts presumptuously against his neighbor, to kill him with cunning, from my altar you shall take him to die.
 
-[15] Whoever strikes his father or his mother shall surely be put to death.
+[15] And he who strikes his father or his mother shall surely be put to death.
 
-[16] Whoever kidnaps a man — whether he sells him or he is found in his hand — shall surely be put to death.
+[16] And he who steals a man and sells him, or he is found in his hand, shall surely be put to death.
 
-[17] Whoever curses his father or his mother shall surely be put to death.
+[17] And he who curses his father or his mother shall surely be put to death.
 
-[18] If men quarrel, and one strikes the other with a stone or with his fist, and he does not die but takes to his bed,
+[18] And when men contend, and a man strikes his neighbor with a stone or with a fist, and he does not die but falls to his bed,
 
-[19] if he rises again and walks about outside on his staff, then the one who struck him shall be acquitted; only he shall pay for his time lost and have him thoroughly healed.
+[19] if he rises and walks about outside on his staff, then he who struck shall be clear; only he shall give for his sitting still, and he shall surely heal him.
 
-[20] If a man strikes his slave, male or female, with a rod, and the slave dies under his hand, he shall surely be avenged.
+[20] And when a man strikes his slave or his slave woman with the rod, and he dies under his hand, he shall surely be avenged.
 
-[21] But if the slave survives a day or two, he shall not be avenged, for the slave is his property.
+[21] But if he stands a day or two days, he shall not be avenged, for he is his money.
 
-[22] If men struggle and strike a pregnant woman so that her child comes out, yet without serious injury, he shall surely be fined as the woman's husband imposes on him, and he shall pay as the judges determine.
+[22] And when men struggle and smite a woman with child, and her children come out, and there is no harm, he shall surely be fined, as the husband of the woman lays upon him, and he shall give by arbiters.
 
-[23] But if there is serious injury, then you shall give life for life,
+[23] But if there is harm, then you shall give soul for soul,
 
 [24] eye for eye, tooth for tooth, hand for hand, foot for foot,
 
 [25] burn for burn, wound for wound, stripe for stripe.
 
-[26] If a man strikes the eye of his slave, male or female, and destroys it, he shall let him go free for the sake of his eye.
+[26] And when a man strikes the eye of his slave or the eye of his slave woman and ruins it, he shall let him go free for his eye.
 
-[27] And if he knocks out his male or female slave's tooth, he shall let him go free for the sake of his tooth.
+[27] And if he knocks out the tooth of his slave or the tooth of his slave woman, he shall let him go free for his tooth.
 
-[28] If an ox gores a man or a woman to death, the ox shall surely be stoned, and its flesh shall not be eaten; but the owner of the ox shall be acquitted.
+[28] And when an ox gores a man or a woman and he dies, the ox shall surely be stoned, and its flesh shall not be eaten, and the owner of the ox is clear.
 
-[29] But if the ox was wont to gore in the past, and it was testified to its owner, but he did not keep it in, and it has killed a man or a woman, the ox shall be stoned, and its owner also shall be put to death.
+[29] But if it was an ox given to goring yesterday and the day before, and its owner has been warned and does not keep it, and it puts to death a man or a woman, the ox shall be stoned, and its owner also shall be put to death.
 
-[30] If a ransom is laid on him, then he shall give for the redemption of his life whatever is imposed on him.
+[30] If a ransom is laid upon him, then he shall give the ransoming of his soul, according to all that is laid upon him.
 
-[31] Whether it has gored a son or has gored a daughter, it shall be done to him according to this ordinance.
+[31] Or if it gores a son or gores a daughter, according to this ordinance it shall be done to him.
 
-[32] If the ox gores a male or female slave, he shall give their master thirty shekels of silver, and the ox shall be stoned.
+[32] If the ox gores a slave or a slave woman, he shall give thirty shekels of silver to his lord, and the ox shall be stoned.
 
-[33] If a man opens a pit, or if a man digs a pit and does not cover it, and an ox or a donkey falls into it,
+[33] And when a man opens a pit, or when a man digs a pit and does not cover it, and an ox or a donkey falls there,
 
-[34] the owner of the pit shall make restitution; he shall give money to its owner, and the dead animal shall be his.
+[34] the owner of the pit shall repay; he shall return money to its owner, and the dead one shall be his.
 
-[35] If one man's ox injures another's, and it dies, they shall sell the live ox and divide its price; and they shall also divide the dead animal.
+[35] And when a man's ox smites the ox of his neighbor and it dies, then they shall sell the living ox and divide its money, and the dead one also they shall divide.
 
-[36] But if it was known that the ox was wont to gore in the past, and its owner did not keep it in, he shall surely pay ox for ox, and the dead animal shall be his."
+[36] Or if it was known that it was an ox given to goring yesterday and the day before, and its owner does not keep it, he shall surely repay ox for the ox, and the dead one shall be his."
 
 ## Changes
 
-- **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
-- **"servant" → "slave"** (v2–6, 7, 20–21, 26–27, 32) — Hebrew עֶבֶד / אָמָה *eved / amah*. These are chattel slaves, not modern employees. Modern translations differ; "slave" is more accurate in sociological/economic terms but carries modern transatlantic slavery connotations that mislead. The institution described is ancient Near Eastern debt-slavery with legal limits (six-year maximum for Hebrews, release laws, protection against permanent injury, sabbath rest).
-- **"judges" → "*Elohim*"** (v6) — Hebrew הָאֱלֹהִים *ha-Elohim*. Could mean "God" (divine / sanctuary ceremony), "the gods," or "the judges" (as a rendering of *Elohim* as authority-figures). Jewish tradition interprets as judicial court. Ambiguous; kept as "*Elohim*."
-- **"betrothed her to himself" → "designated her for himself"** (v8) — Hebrew יְעָדָהּ *ye'adah*. *Ya'ad* = appoint / designate. The master has assigned her for himself (concubine-status).
-- **"no power" → "no authority"** (v8) — modernized.
-- **"duty of marriage" → "conjugal rights"** (v10) — Hebrew עֹנָתָהּ *onatah*. Rare word; likely conjugal-relations-right (bodily intimacy). Ancient Near East concern with minimum rights for secondary wives.
-- **"surely be put to death" / "surely be punished" / "surely be stoned"** — Hebrew infinitive-absolute constructions (מוֹת יוּמָת *mot yumat*, etc.) intensify "absolutely, without fail." Preserved.
-- **"eye for eye, tooth for tooth" (v23–25)** — Hebrew עַיִן תַּחַת עַיִן *ayin tachat ayin*. *Lex talionis* — the law of proportionate retaliation. Ancient reading debates:
-  1. Literal bodily mutilation.
-  2. Monetary equivalent / damages (later rabbinic standard interpretation).
-  Context here (vv 22, 26, 27) suggests monetary compensation is in view for most cases. Jesus' critique in Matt 5:38 addresses the principle's later abuse in private revenge.
-- **"her fruit depart from her, and yet no mischief follow" → "her child comes out, yet without serious injury"** (v22) — the phrase has been read variously:
-  1. Miscarriage with maternal survival (the woman's injury is light) — miscarriage is "serious injury" so the full *lex talionis* applies if the *woman* dies.
-  2. Premature live birth (the child survives, *ason* = "harm" refers to the child's death).
-  Either reading frames differently the fetus/mother status. Translation preserves the ambiguity: "child comes out… without serious injury" — *ason* applies to whatever harm followed.
-- **"a ransom" (v30)** — Hebrew כֹּפֶר *kopher*. Ransom / redemption-payment. Same root as *kaphar* (atone / cover), the sacrificial ransom of Lev 17:11. In cases of bull-homicide (v29), the owner can pay ransom instead of execution — unless the victim is a slave (v32), where 30 shekels is the fixed price. Note: Judas betrays Jesus for 30 pieces of silver — the price of a slave's life in this law.
+- **"God" → "*Elohim*"** (v6, 13) — Hebrew הָאֱלֹהִים, both times with the article: "the Elohim". The name Yahweh does not occur in the chapter; the speaker is Yahweh (20:22), who says "I" and "my altar" in v13, 14.
+- **"Now these are" → "And these are"; "And" / "when" / "if"** (throughout) — the Hebrew begins with וְ "and", joining the ordinances to 20:22–26. A main case is opened by כִּי "when" (v2, 7, 14, 18, 20, 22, 26, 28, 33, 35), a case under it by אִם "if"; the two are kept apart. In v12, 15, 16, 17 the law is a participle: "the striker of a man".
+- **"judgments" → "ordinances"** (v1, 9, 31) — Hebrew מִשְׁפָּטִים, מִשְׁפָּט: the one word is "judgment" (23:6); of a ruling laid down for cases it is "ordinance". In v9 כְּמִשְׁפַּט הַבָּנוֹת "according to the ordinance of the daughters" is what is due to daughters by rule (KJV "after the manner of daughters").
+- **"servant" → "slave"; "maidservant" → "slave woman"** (v2, 5, 7, 20, 26, 27, 32) — Hebrew עֶבֶד *eved* and אָמָה *amah*. The verb "serve" (v2, 6) is of the same root (עָבַד). The law limits the bondage: six years, release for bodily harm, vengeance for a slave killed.
+- **"an Hebrew servant" → "a Hebrew slave"** (v2) — Hebrew עֶבֶד עִבְרִי. Whether עִבְרִי names here only an Israelite or a wider class of people is debated; the word is kept.
+- **"go out free for nothing" kept** (v2, 5, 11) — Hebrew יֵצֵא לַחָפְשִׁי חִנָּם: חָפְשִׁי "free", חִנָּם "for nothing, without payment". In v11 the woman goes out חִנָּם אֵין כָּסֶף, literally "for nothing, there is no silver".
+- **"by himself"** (v3, 4) — Hebrew בְּגַפּוֹ, literally "with his body" (גַּף in this sense only here; the sense is not certain): alone, without a wife.
+- **"if he were married" → "if he is the husband of a wife"** (v3) — Hebrew בַּעַל אִשָּׁה, literally "the owner of a wife". בַּעַל is the same word as "the husband of the woman" (v22) and "the owner" of the ox and of the pit (v28, 29, 34, 36).
+- **"master" → "lord"** (v4, 5, 6, 8, 32) — Hebrew אָדוֹן, here in the plural form used of one lord (אֲדֹנָיו).
+- **"her children" / "my children" → "her children" / "my sons"** (v4, 5) — Hebrew יְלָדֶיהָ "her children" (יֶלֶד), but בָּנָי "my sons"; so also "sons or daughters" in v4.
+- **"shall plainly say" → "surely says"** (v5) — Hebrew infinitive absolute with its verb, אָמֹר יֹאמַר, literally "saying he says". The same form stands in v12, 15, 16, 17 (מוֹת יוּמָת, literally "dying he shall be made to die": "shall surely be put to death"), v19 (רַפֹּא יְרַפֵּא "healing he shall heal"), v20 (נָקֹם יִנָּקֵם), v22 (עָנוֹשׁ יֵעָנֵשׁ), v28 (סָקוֹל יִסָּקֵל), v36 (שַׁלֵּם יְשַׁלֵּם); each is "surely" with the verb.
+- **"unto the judges" → "to *Elohim*"** (v6) — Hebrew אֶל־הָאֱלֹהִים, "to the Elohim". Readings: (1) to God, that is, to the sanctuary, or to the door of the house as before God; (2) "to the judges" (the Targum and KJV: cited from memory), who act in God's name; elsewhere the word is not clearly used of human judges; (3) "to the gods", the household gods at the door. The Septuagint has "to the judgment seat of God" (cited from memory). The verse keeps the word as it stands; so also in 22:8, 9. **"bring"** is twice הִגִּישׁ "make draw near" (נָגַשׁ, 24:2).
+- **"bore his ear through with an aul" → "pierce his ear with the awl"**; **"for ever" kept** (v6) — Hebrew לְעֹלָם "for the age", here for his lifetime.
+- **"as the menservants do" → "as the slaves go out"** (v7) — Hebrew כְּצֵאת הָעֲבָדִים.
+- **"If she please not her master" → "If she is bad in the eyes of her lord"** (v8) — Hebrew רָעָה בְּעֵינֵי, literally "evil in the eyes of". **"who hath betrothed her to himself" → "who has designated her for himself"** — Hebrew יָעַד "appoint, designate" (root of מוֹעֵד "appointed time"). The text as written (ketiv) has לֹא "not": "who has not designated her"; the reading tradition (qere) has לוֹ "for himself", and the verse follows it. **"let her be redeemed" → "let her be ransomed"** — Hebrew הֶפְדָּהּ, from פָּדָה "ransom". **"no power" kept** — Hebrew לֹא־יִמְשֹׁל, literally "he shall not rule to sell her" (מָשַׁל "rule"). **"dealt deceitfully" → "dealt treacherously"** — Hebrew בְּבִגְדוֹ־בָהּ, literally "in his dealing treacherously with her".
+- **"another wife" → "another"** (v10) — Hebrew אַחֶרֶת; "wife" is not there. **"her food, her raiment, and her duty of marriage" → "her food, her covering and her marital right"** — Hebrew שְׁאֵרָהּ, literally "her flesh" (meat, so food); כְּסוּתָהּ "her covering"; עֹנָתָהּ, a word found only here, of uncertain meaning: by old tradition her right to her husband's bed; others take it as "her dwelling" or "her oil".
+- **"He that smiteth a man" → "He who strikes a man"** (v12, 15, 18, 20, 26) — Hebrew הִכָּה "strike". In v22, 35 another verb, נָגַף, is "smite".
+- **"if a man lie not in wait, but God deliver him into his hand" → "he who did not lie in wait, and *Elohim* brought it to his hand"** (v13) — Hebrew צָדָה "lie in wait" (to hunt); אִנָּה לְיָדוֹ, literally "made [it] meet his hand": the verb has no object. The sentence breaks off and begins again with "I will set", as in the Hebrew.
+- **"come presumptuously … with guile" → "acts presumptuously … with cunning"** (v14) — Hebrew יָזִד, from a root "boil up" (Gen 25:29): to act with insolent will; עָרְמָה is the noun of עָרוּם "shrewd" (Gen 3:1), here in the bad sense.
+- **"his father, or his mother" kept** (v15, 17) — the Hebrew has וְ "and": "his father and his mother"; either of the two is meant.
+- **"he that stealeth a man, and selleth him, or if he be found in his hand" → "he who steals a man and sells him, or he is found in his hand"** (v16) — Hebrew גֹּנֵב "one who steals" (not a special word for kidnapping); both clauses are joined by וְ, literally "and sells him and he is found in his hand". The second is usually taken as "or": the stolen man is found still in the thief's hand.
+- **"curseth" → "curses"** (v17) — Hebrew מְקַלֵּל, piel of קלל "be light": to treat as worthless, to call down evil on. In 22:28, where it stands beside אָרַר "curse", it is "make light of". Cited in Matt 15:4; Mark 7:10.
+- **"strive together" → "contend" / "struggle"** (v18, 22) — two Hebrew verbs: רִיב "contend" (with words, then with blows) and נָצָה "struggle, fight". **"one smite another" → "a man strikes his neighbor"** — Hebrew אִישׁ אֶת־רֵעֵהוּ. **"with his fist" → "with a fist"** — Hebrew אֶגְרֹף, found only here and Isa 58:4; "fist" is the old understanding, some take it as a clod or a tool. **"keepeth his bed" → "falls to his bed"** — Hebrew נָפַל לְמִשְׁכָּב, literally "falls to lying".
+- **"be quit" → "be clear"** (v19, 28) — Hebrew נִקָּה, נָקִי: free of guilt and of claim. **"pay for the loss of his time" → "give for his sitting still"** (v19) — Hebrew שִׁבְתּוֹ יִתֵּן, literally "his sitting he shall give": שֶׁבֶת is "sitting" (from יָשַׁב) or "ceasing" (from שָׁבַת), the time he could not work. "For" and "still" are supplied. **"cause him to be thoroughly healed" → "surely heal him"** — Hebrew piel רִפֵּא: see to his healing; "him" is supplied.
+- **"punished" → "avenged"** (v20, 21) — Hebrew נָקַם "avenge". Who avenges, and how, the verse does not say. **"with a rod" → "with the rod"** — the Hebrew has the article: the rod of correction (שֵׁבֶט).
+- **"if he continue a day or two" → "if he stands a day or two days"** (v21) — Hebrew יַעֲמֹד "stands", that is, stays alive. **"he is his money" kept** — Hebrew כַסְפּוֹ, literally "his silver": the loss falls on the owner himself.
+- **"strive, and hurt a woman with child, so that her fruit depart from her" → "struggle and smite a woman with child, and her children come out"** (v22) — word for word: וְנָגְפוּ "and they smite" (plural), וְיָצְאוּ יְלָדֶיהָ "and her children come out". יְלָדֶיהָ is the plural of יֶלֶד "child", the ordinary word for a born child; why it is plural is not known (a general plural, or twins as a possibility). יָצָא "come out" is used of birth (Gen 25:25, 26); the usual word for miscarrying is another (שִׁכֵּל, 23:26).
+- **"and yet no mischief follow" → "and there is no harm"** (v22, 23) — Hebrew אָסוֹן *ason*, found only here and of Benjamin in Gen 42:4, 38; 44:29: a deadly or grave harm. The verse does not say to whom: (1) to the woman: the children are lost, and the fine is for them, while "soul for soul" is for the woman's death; (2) to the woman or the children: they are born early and live, and "harm" is the death or hurt of either. The Hebrew leaves it open, and so does the verse. The Septuagint (cited from memory) turns it into a difference between a child "not fully formed" and "fully formed".
+- **"he shall be surely punished" → "he shall surely be fined"** (v22) — Hebrew עָנַשׁ "fine"; singular, though the men were plural. **"lay upon him"** — Hebrew שִׁית "set". **"he shall pay as the judges determine" → "he shall give by arbiters"** — Hebrew וְנָתַן בִּפְלִלִים. The meaning is uncertain: פְּלִילִים (Deut 32:31; Job 31:11) are usually taken as "judges, arbiters" ("with / through arbiters"); others take the word as "assessment, reckoning". It is not the usual word for judges (שֹׁפְטִים).
+- **"life for life" → "soul for soul"** (v23) — Hebrew נֶפֶשׁ תַּחַת נָפֶשׁ; תַּחַת is "in the place of", so in every pair of v24–27 and in v36. "You shall give" is singular.
+- **"burning for burning, wound for wound, stripe for stripe" → "burn for burn …"** (v25) — Hebrew כְּוִיָּה, פֶּצַע, חַבּוּרָה (the last two as Gen 4:23). **"eye for eye"** (v24) — the rule of like for like. Whether it was carried out on the body or paid in value is an old debate; the text itself gives only the measure. Cited in Matt 5:38.
+- **"that it perish" → "ruins it"** (v26) — Hebrew שִׁחֵת. **"let him go free"** (v26, 27) — Hebrew לַחָפְשִׁי יְשַׁלְּחֶנּוּ "send him away free"; "him" stands for the man or the woman. **"smite out" → "knocks out"** (v27) — Hebrew יַפִּיל "makes fall".
+- **"ox"** (v28–36) — Hebrew שׁוֹר, one head of cattle of either sex. **"that they die" → "and he dies"** (v28) — Hebrew וָמֵת, singular.
+- **"wont to push with his horn in time past" → "given to goring yesterday and the day before"** (v29, 36) — Hebrew נַגָּח "a gorer"; מִתְּמֹל שִׁלְשֹׁם "from yesterday, the third day" = before now. **"it hath been testified to his owner" → "its owner has been warned"** — Hebrew הוּעַד בִּבְעָלָיו, literally "it has been testified against its owner". **"hath not kept him in" → "does not keep it"** — Hebrew שָׁמַר "keep, guard". **"killed" → "puts to death"** — Hebrew הֵמִית.
+- **"a sum of money" → "a ransom"; "the ransom of his life" → "the ransoming of his soul"** (v30) — two Hebrew words: כֹּפֶר *kofer*, the price that covers a life (one root with כִּפֶּר "make atonement"), and פִּדְיֹן נַפְשׁוֹ, from פָּדָה "ransom". "Money" is not in the verse.
+- **"thirty shekels of silver"** (v32) — the shekel is a weight, not a coin. The price set for a slave (cf. Zech 11:12; Matt 26:15).
+- **"dig"** (v33) — Hebrew כָּרָה. **"an ass" → "a donkey"** — Hebrew חֲמוֹר.
+- **"make it good" → "repay"** (v34, 36) — Hebrew שִׁלֵּם, from the root of שָׁלוֹם: make whole. **"give money unto the owner" → "return money to its owner"** (v34) — Hebrew כֶּסֶף יָשִׁיב, literally "silver he shall return". **"the dead beast" → "the dead one"** (v34, 35, 36) — Hebrew הַמֵּת; "beast" is not there.
+- **"hurt" → "smites"** (v35) — Hebrew נָגַף, the verb of v22. **"divide the money of it" → "divide its money"** — Hebrew חָצָה "halve"; כַּסְפּוֹ "its silver".
 
 ### Notes
 
-- **The "Covenant Code" (chs 21–23)** — the first comprehensive legal corpus in the Torah, structured around civic / criminal / property laws. Bears close structural parallels to ancient Near Eastern codes (Hammurabi, Eshnunna, Hittite Laws), with distinctive Israelite features: more humane slave laws, maternal-fetal protection, stricter homicide law, sabbath regulation.
-- **Six-year slave limit** — the Hebrew slave law is uniquely humanitarian in ANE context. The seventh-year release (v2) with provisions for the slave to remain voluntarily (v5–6) preserves slave agency and dignity.
-- **Ear-piercing ritual (v6)** — voluntary perpetual servitude marked by a visible sign at the doorway. The symbolism: the slave chooses household attachment, marking his ear at the threshold.
+- **The "Covenant Code" (chs 21–23)** — the first collection of laws in the Torah, called "the book of the covenant" in 24:7. It has close likenesses in form to other ancient Near Eastern law collections (Hammurabi, Eshnunna, the Hittite laws) and its own features: limits on the bondage of slaves, release for a slave who is maimed, the death of a slave avenged.
+- **Six-year limit** — the release in the seventh year (v2) with the provision for the slave to stay of his own will (v5–6); cf. Deut 15:12–18; Jer 34:14.
+- **The ear at the door (v6)** — lasting service is marked by a visible sign made at the door; of which door (the house, or the sanctuary) the verse does not say more than "to the Elohim … to the door or to the doorpost".

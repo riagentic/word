@@ -1,58 +1,77 @@
 # Genesis 13
 
-[1] Tak ⟦abram|Avram|Abram⟧ vystoupil z ⟦egypt|Micrajim|Egypta⟧, on, jeho žena a všechno, co měl, a s ním Lot, do ⟦negev|Negev|Negebu⟧.
+[1] A ⟦abram|Avram|Abram⟧ vystoupil z ⟦egypt|Micrajim|Egypta⟧, on a jeho žena a všechno, co měl, a Lot s ním, do ⟦negev|Negevu|Negebu⟧.
 
-[2] ⟦abram|Avram|Abram⟧ byl velmi bohatý na dobytek, na stříbro a na zlato.
+[2] A ⟦abram|Avram|Abram⟧ byl velmi bohatý na dobytek, na stříbro a na zlato.
 
-[3] Putoval po etapách z ⟦negev|Negev|Negebu⟧ až k ⟦bethel|Bejt Elu|Bét-elu⟧, k místu, kde byl na počátku jeho stan, mezi ⟦bethel|Bejt Elem|Bét-elem⟧ a Aj,
+[3] A šel po svých taženích z ⟦negev|Negevu|Negebu⟧ až k ⟦bethel|Bejt Elu|Bét-elu⟧, až k místu, kde byl na počátku jeho stan, mezi ⟦bethel|Bejt Elem|Bét-elem⟧ a Aj,
 
-[4] k místu oltáře, který tam kdysi udělal; a tam ⟦abram|Avram|Abram⟧ vzýval jméno ⟦yhwh|Jahveho|Hospodina⟧.
+[4] k místu oltáře, který tam poprvé učinil; a ⟦abram|Avram|Abram⟧ tam vzýval jméno ⟦yhwh|Jahveho|Hospodina⟧.
 
-[5] Také Lot, který šel s ⟦abram|Avramem|Abramem⟧, měl brav, skot a stany.
+[5] A také Lot, který šel s ⟦abram|Avramem|Abramem⟧, měl brav a skot a stany.
 
-[6] Země je neuživila, aby bydleli spolu, neboť jejich majetek byl tak veliký, že nemohli bydlet pospolu,
+[6] A země je neunesla, aby bydleli spolu, neboť jejich jmění bylo veliké, a nemohli bydlet spolu.
 
-[7] a došlo ke sváru mezi pastevci ⟦abram|Avramova|Abramova⟧ dobytka a pastevci Lotova dobytka. V té době bydleli v zemi ⟦canaanites|Kenaanim|Kenaanci⟧ a ⟦perizzites|Perizzim|Perizejci⟧.
+[7] A nastal spor mezi pastýři ⟦abram|Avramova|Abramova⟧ dobytka a pastýři Lotova dobytka. A v zemi tehdy bydlel ⟦canaanites|Kenaani|Kenaanec⟧ a ⟦perizzites|Perizzi|Perizejec⟧.
 
-[8] Tu ⟦abram|Avram|Abram⟧ řekl Lotovi: „Prosím, ať není svár mezi mnou a tebou a mezi mými pastevci a tvými pastevci, neboť jsme bratři.
+[8] A ⟦abram|Avram|Abram⟧ řekl Lotovi: „Ať, prosím, není svár mezi mnou a tebou a mezi mými pastýři a tvými pastýři, neboť jsme muži bratři.
 
-[9] Což není celá země před tebou? Prosím, odděl se ode mne. Půjdeš-li vlevo, půjdu vpravo; půjdeš-li vpravo, půjdu vlevo.“
+[9] Což není celá země před tebou? Odluč se, prosím, ode mne: jestliže nalevo, půjdu napravo, a jestliže napravo, půjdu nalevo.“
 
-[10] Lot pozvedl oči a spatřil celou rovinu ⟦jordan|Jardenu|Jordánu⟧, že je všude dobře zavlažený – bylo to předtím, než ⟦yhwh|Jahve|Hospodin⟧ zničil ⟦sodom|Sedom|Sodomu⟧ a ⟦gomorrah|Amoru|Gomoru⟧ –, jako zahrada ⟦yhwh|Jahveho|Hospodina⟧, jako egyptská země, směrem k ⟦zoar|Coaru|Sóaru⟧.
+[10] A Lot pozvedl oči a uviděl celý okrsek ⟦jordan|Jardenu|Jordánu⟧, že je celý zavlažovaný – předtím, než ⟦yhwh|Jahve|Hospodin⟧ zkazil ⟦sodom|Sedom|Sodomu⟧ a ⟦gomorrah|Amoru|Gomoru⟧ – jako zahrada ⟦yhwh|Jahveho|Hospodinova⟧, jako země ⟦egypt|Micrajim|Egypt⟧, když přicházíš k ⟦zoar|Coaru|Sóaru⟧.
 
-[11] Lot si tedy vybral celou rovinu ⟦jordan|Jardenu|Jordánu⟧ a Lot táhl na východ; tak se od sebe oddělili.
+[11] A Lot si vybral celý okrsek ⟦jordan|Jardenu|Jordánu⟧, a Lot táhl na východ; a odloučili se každý od svého bratra.
 
-[12] ⟦abram|Avram|Abram⟧ bydlel v zemi Kenaan a Lot bydlel mezi městy roviny a stanoval až k ⟦sodom|Sedomu|Sodomě⟧.
+[12] ⟦abram|Avram|Abram⟧ bydlel v zemi Kenaan a Lot bydlel v městech okrsku a přenesl stan až k ⟦sodom|Sedomu|Sodomě⟧.
 
-[13] Muži ⟦sodom|Sedomu|Sodomy⟧ však byli zlí a velcí hříšníci proti ⟦yhwh|Jahvovi|Hospodinu⟧.
+[13] A muži ⟦sodom|Sedomu|Sodomy⟧ byli zlí a hříšníci proti ⟦yhwh|Jahvovi|Hospodinu⟧, velice.
 
-[14] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦abram|Avramovi|Abramovi⟧, když se od něho Lot oddělil: „Pozvedni nyní oči a rozhlédni se z místa, kde jsi – na sever, na jih, na východ i na západ;
+[14] A ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦abram|Avramovi|Abramovi⟧ poté, co se od něho Lot odloučil: „Pozvedni, prosím, oči a pohleď z místa, kde jsi, na sever a na jih a na východ a na západ;
 
-[15] neboť celou zemi, kterou vidíš, dám tobě a tvému potomstvu navěky.
+[15] neboť celou zemi, kterou vidíš, dám tobě a tvému semeni navěky.
 
-[16] Učiním tvé potomstvo jako prach země, takže kdyby někdo dokázal spočítat prach země, dalo by se spočítat i tvé potomstvo.
+[16] A učiním tvé símě jako prach země, takže dokáže-li kdo spočítat prach země, bude spočítáno i tvé símě.
 
-[17] Vstaň, projdi zemi v její délce i šířce, neboť tobě ji dám.“
+[17] Vstaň, procházej zemí po její délce a po její šířce, neboť tobě ji dám.“
 
-[18] ⟦abram|Avram|Abram⟧ tedy přesunul svůj stan, přišel a usadil se u dubů Mamre, které jsou v ⟦hebron|Chevronu|Chebrónu⟧; a tam postavil oltář ⟦yhwh|Jahvovi|Hospodinu⟧.
+[18] A ⟦abram|Avram|Abram⟧ přenesl stan a přišel a usadil se u dubů Mamre, které jsou v ⟦hebron|Chevronu|Chebrónu⟧; a postavil tam oltář ⟦yhwh|Jahvovi|Hospodinu⟧.
 
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – tetragram zachován.
+- **„A“ na začátku vět ponecháno** (v celé kapitole) – hebrejsky וַ / וְ.
 - **"south" → „Negev“** (v1, 3) – jako ve 12:9.
-- **"cattle" → „dobytek“** (v2, 5, 7) – hebrejsky מִקְנֶה *miqneh* = dobytek / získaná stádní zvířata; širší než „cattle“ (skot).
-- **"went on his journeys" → „putoval po etapách“** (v3) – hebrejsky וַיֵּלֶךְ לְמַסָּעָיו *wa-yelekh le-massa'av* = „šel po svých etapách / zastávkách“. Kočovný způsob cestování – pohyb, tábořiště, znovu pohyb.
+- **"very rich" → „velmi bohatý“** (v2) – hebrejsky כָּבֵד מְאֹד, doslova „velmi těžký“; totéž slovo jako „těžký“ hlad ve 12:10, zde ve smyslu „obtěžkaný majetkem“.
+- **"cattle" → „dobytek“** (v2, 7) – hebrejsky מִקְנֶה *miqneh*, vlastněná zvířata.
+- **"went on his journeys" → „šel po svých taženích“** (v3) – hebrejsky וַיֵּלֶךְ לְמַסָּעָיו; מַסָּע je od נָסַע „táhnout“: po úsecích svého pochodu.
+- **„jeho stan“** (v3) – psáno אהלה, čteno (qere) אָהֳלוֹ; obojí znamená „jeho stan“.
 - **"Hai" → „Ai“** (v3) – jako ve 12:8.
-- **"the land was not able to bear them" → „země je neuživila“** (v6) – hebrejsky לֹא־נָשָׂא אֹתָם הָאָרֶץ *lo-nasa otam ha-aretz* = „země je nenesla / neunesla“. Jde o hospodářskou únosnost, ne o tělesné břemeno; „support“ (uživit) modernizuje.
-- **"herdmen" → „pastevci“** (v7, 8) – modernizováno.
-- **"we be brethren" → „jsme bratři“** (v8) – modernizováno. (Pozn.: Lot je Abramův synovec, ne bratr; hebrejské *ach* zahrnuje širší příbuzenství – „příbuzný“.)
-- **"plain of Jordan" → „rovina Jordanu“** (v10, 11, 12) – hebrejsky כִּכַּר הַיַּרְדֵּן *kikkar ha-Yarden*. *Kikkar* = okrouhlý / tvar kotouče – „kruh“ / oválná proláklina dolního Jordanského údolí kolem Sodomu. „Rovina“ je tradiční.
-- **"even as the garden of the LORD" → „jako zahrada Yahweh“** (v10) – hebrejsky כְּגַן־יְהוָה *ke-gan Yahweh*. „Zahrada Yahweh“ = Eden (Gen 2–3; srov. Isa 51:3). Lot vidí Jordanskou rovinu jako ráj; vypravěč zlověstně dodává „předtím, než Yahweh zničil Sodom a Gomorrah“.
-- **"before the LORD" → „proti Yahweh“** (v13) – hebrejsky לַיהוָה *la-Yahweh*. Předložka *le* zde nese smysl provinění proti / před tváří. Jejich hříšnost byla před tváří Yahweh.
-- **"plain of Mamre" → „duby Mamre“** (v18) – hebrejsky אֵלֹנֵי מַמְרֵא *eloney Mamre*. Týž problém s *elon* jako ve 12:6. Zde plurál: duby Mamre. Místo posvátného háje.
-- **„prach země“ jako nespočetné množství** (v16) – první z několika srovnání „tolik jako“ ve smlouvě s Abrahamem (zde prach; hvězdy v 15:5; písek ve 22:17). Obraz *prachu* zvlášť: člověk byl utvořen z prachu (2:7, 3:19); nyní zaslíbení nespočetného potomstva užívá téže látky a mění pozemský tvorský původ ve zdroj rozmnožení.
+- **„na počátku“ / „poprvé“** (v3, 4) – dvě hebrejská slova, בַּתְּחִלָּה a בָּרִאשֹׁנָה.
+- **"the land was not able to bear them" → „země je neunesla“** (v6) – hebrejsky וְלֹא־נָשָׂא אֹתָם הָאָרֶץ, „země je nenesla“; „moci“ stojí až ve druhé větě (וְלֹא יָכְלוּ).
+- **"their substance was great" → „jejich jmění bylo veliké“** (v6) – hebrejsky רְכוּשָׁם רָב; רְכוּשׁ jako 12:5.
+- **"strife" → „spor“** (v7), **"strife" → „svár“** (v8) – dvě hebrejská podstatná jména jednoho kořene: רִיב (v7) a מְרִיבָה (v8).
+- **"herdmen" → „pastýři“** (v7, 8) – hebrejsky רֹעֵי, příčestí od רָעָה „pást“.
+- **"the Canaanite and the Perizzite dwelled" → „bydlel Kenaanec a Perizejec“** (v7) – hebrejsky jednotné číslo pro celé národy, s příčestím v jednotném čísle יֹשֵׁב.
+- **"we be brethren" → „jsme muži bratři“** (v8) – hebrejsky אֲנָשִׁים אַחִים אֲנָחְנוּ, doslova „muži, bratři jsme my“. Lot je syn Abramova bratra; אָח „bratr“ se užívá i o příbuzném.
+- **"separate thyself" → „odluč se“** (v9, 11, 14) – hebrejsky פָּרַד nifal, jako 10:5, 32.
+- **"if thou wilt take the left hand" → „jestliže nalevo“** (v9) – hebrejsky אִם־הַשְּׂמֹאל וְאֵימִנָה, doslova „jestliže levice, půjdu napravo“; hebrejština nemá sloveso „vzít“.
+- **"plain of Jordan" → „okrsek Jardenu“** (v10, 11, 12) – hebrejsky כִּכַּר הַיַּרְדֵּן *kikkar ha-Yarden*. כִּכָּר je „něco okrouhlého“ (také okrouhlý bochník, talent kovu): okrouhlý kraj dolního údolí Jordanu. „Pláň“ je jiné hebrejské slovo (בִּקְעָה, 11:2).
+- **"well watered every where" → „je celý zavlažovaný“** (v10) – hebrejsky כֻלָּהּ מַשְׁקֶה, „celý je zavlažované místo“; „dobře“ v hebrejštině není.
+- **"destroyed" → „zkazil“** (v10) – hebrejsky שַׁחֵת, piel od שָׁחַת, sloveso z 6:11–13, 17 a 19:13.
+- **"as thou comest unto Zoar" → „když přicházíš k Coaru“** (v10) – hebrejsky בֹּאֲכָה צֹעַר, doslova „tvé přicházení k Coaru“: směrem k Coaru.
+- **"journeyed east" → „táhl na východ“** (v11) – hebrejsky מִקֶּדֶם, doslova „od východu“, totéž slovo jako v 11:2; zde ve smyslu „na východ“ (nebo „na východní straně“).
+- **"one from the other" → „každý od svého bratra“** (v11) – hebrejsky אִישׁ מֵעַל אָחִיו.
+- **"pitched his tent toward Sodom" → „přenesl stan až k Sedomu“** (v12), **"removed his tent" → „přenesl stan“** (v18) – hebrejsky וַיֶּאֱהַל, sloveso utvořené od אֹהֶל „stan“, doslova „stanoval“; עַד־סְדֹם je „až k Sedomu“.
+- **"wicked and sinners before the LORD exceedingly" → „zlí a hříšníci proti Yahweh, velice“** (v13) – hebrejsky רָעִים וְחַטָּאִים לַיהוָה מְאֹד; רַע je „zlý“, לַיהוָה je doslova „Yahweh“ ve 3. pádě (proti němu, nebo: v jeho očích).
+- **"Lift up now thine eyes" → „Pozvedni, prosím, oči“** (v14) – hebrejsky שָׂא נָא. „Na jih“ je doslova „k Negevu“ (נֶגְבָּה), „na západ“ je „k moři“ (יָמָּה).
+- **"seed" → „símě“** (v15, 16) – hebrejsky זֶרַע, jednotné číslo, jako 12:7.
+- **"for ever" → „navěky“** (v15) – hebrejsky עַד־עוֹלָם, doslova „až do věku“.
+- **"number… be numbered" → „spočítat… bude spočítáno“** (v16) – hebrejsky dvakrát מָנָה; „kdo“ je אִישׁ, „muž“.
+- **"walk through the land" → „procházej zemí“** (v17) – hebrejsky הִתְהַלֵּךְ, hitpael: chodit sem a tam.
+- **"plain of Mamre" → „duby Mamre“** (v18) – hebrejsky אֵלֹנֵי מַמְרֵא, množné číslo od אֵלוֹן, jako 12:6 (velký strom; druh není jistý).
 
 ### Poznámky
 
-- **Abramova velkorysost** – dává Lotovi první volbu země, ačkoli jako starší / ten, s nímž je uzavřena smlouva, si mohl nárokovat přednost. Kontrast s Lotem (který volí podle zraku – „pozvedl oči a spatřil“) vystoupí ostřeji, když Yahweh vzápětí vyzve Abrama: „pozvedni oči a rozhlédni se“ (v14) – týž úkon, ale nyní řízený smlouvou, ne chtíčem.
-- **Předznamenání Sodomu a Gomorrah** – vypravěčova vsuvka („předtím, než Yahweh zničil Sodom a Gomorrah“) hledí dopředu ke kap. 19. Lot tím, že si zvolil směr k Sodomu, si zvolil své pozdější potíže.
+- **Lot a Abram** – Lot „pozvedl oči a uviděl“ (v10); Yahweh pak říká Abramovi: „Pozvedni oči a pohleď“ (v14): tatáž dvě slovesa.
+- **Předznamenání Sodomu a Gomorrah** – věta „předtím, než Yahweh zkazil Sodom a Gomorrah“ (v10) hledí dopředu ke kap. 19.
+- **„Prach země“ (v16)** – první ze srovnání v zaslíbeních Abramovi (zde prach; hvězdy v 15:5; písek ve 22:17).

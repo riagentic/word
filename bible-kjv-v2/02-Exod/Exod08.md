@@ -1,89 +1,107 @@
 # Exodus 8
 
-[1] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Go to ⟦pharaoh|Paroh|Pharaoh⟧ and say to him, 'Thus says ⟦yhwh|Yahweh|the LORD⟧: Let my people go, that they may serve me.
+[1] And ⟦yhwh|Yahweh|the LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Go in to ⟦pharaoh|Paroh|Pharaoh⟧, and you shall say to him, 'Thus says ⟦yhwh|Yahweh|the LORD⟧: Let my people go, that they may serve me.
 
-[2] And if you refuse to let them go, behold, I will strike all your territory with frogs.
+[2] And if you refuse to let them go, behold, I am smiting all your territory with frogs.
 
-[3] The ⟦nile|Yeor|Nile⟧ shall swarm with frogs, which shall come up and come into your house, into your bedroom, and onto your bed; into the houses of your servants and onto your people; and into your ovens and into your kneading troughs.
+[3] And the ⟦nile|Yeor|Nile⟧ shall swarm with frogs, and they shall come up and come into your house and into your bedroom and onto your bed, and into the house of your servants and among your people, and into your ovens and into your kneading bowls.
 
-[4] The frogs shall come up on you, on your people, and on all your servants.'"
+[4] And on you and on your people and on all your servants the frogs shall come up.'"
 
-[5] And ⟦yhwh|Yahweh|the LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Say to ⟦aaron|Aharon|Aaron⟧, 'Stretch out your hand with your staff over the canals, over the ⟦nile|Yeorim|Niles⟧, and over the ponds, and make frogs come up over the land of ⟦egypt|Mitzrayim|Egypt⟧.'"
+[5] And ⟦yhwh|Yahweh|the LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Say to ⟦aaron|Aharon|Aaron⟧, 'Stretch out your hand with your staff over the rivers, over the ⟦nile|Yeorim|Niles⟧ and over the pools, and make the frogs come up on the land of ⟦egypt|Mitzrayim|Egypt⟧.'"
 
-[6] So ⟦aaron|Aharon|Aaron⟧ stretched out his hand over the waters of ⟦egypt|Mitzrayim|Egypt⟧; and the frogs came up and covered the land of ⟦egypt|Mitzrayim|Egypt⟧.
+[6] And ⟦aaron|Aharon|Aaron⟧ stretched out his hand over the waters of ⟦egypt|Mitzrayim|Egypt⟧, and the frogs came up and covered the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
-[7] But the diviner-priests did the same by their secret arts, and brought up frogs upon the land of ⟦egypt|Mitzrayim|Egypt⟧.
+[7] And the magicians did so with their secret arts, and they made the frogs come up on the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
-[8] Then ⟦pharaoh|Paroh|Pharaoh⟧ called for ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧ and said, "Entreat ⟦yhwh|Yahweh|the LORD⟧ to take the frogs away from me and from my people, and I will let the people go to sacrifice to ⟦yhwh|Yahweh|the LORD⟧."
+[8] And ⟦pharaoh|Paroh|Pharaoh⟧ called for ⟦moses|Moshe|Moses⟧ and for ⟦aaron|Aharon|Aaron⟧ and said, "Plead with ⟦yhwh|Yahweh|the LORD⟧, that he remove the frogs from me and from my people, and I will let the people go, that they may sacrifice to ⟦yhwh|Yahweh|the LORD⟧."
 
-[9] ⟦moses|Moshe|Moses⟧ said to ⟦pharaoh|Paroh|Pharaoh⟧, "You may have the honor over me: when shall I entreat for you and for your servants and for your people, to get rid of the frogs from you and your houses, that they remain only in the ⟦nile|Yeor|Nile⟧?"
+[9] And ⟦moses|Moshe|Moses⟧ said to ⟦pharaoh|Paroh|Pharaoh⟧, "Glorify yourself over me: for when shall I plead for you and for your servants and for your people, to cut off the frogs from you and from your houses? Only in the ⟦nile|Yeor|Nile⟧ shall they be left."
 
-[10] He said, "Tomorrow." And he said, "Be it according to your word, so that you may know that there is no one like ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧.
+[10] And he said, "For tomorrow." And he said, "According to your word, so that you may know that there is none like ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧.
 
-[11] The frogs shall depart from you and from your houses and from your servants and from your people; they shall remain only in the ⟦nile|Yeor|Nile⟧."
+[11] And the frogs shall depart from you and from your houses and from your servants and from your people; only in the ⟦nile|Yeor|Nile⟧ shall they be left."
 
-[12] So ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧ went out from ⟦pharaoh|Paroh|Pharaoh⟧; and ⟦moses|Moshe|Moses⟧ cried out to ⟦yhwh|Yahweh|the LORD⟧ concerning the frogs that he had brought against ⟦pharaoh|Paroh|Pharaoh⟧.
+[12] And ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧ went out from ⟦pharaoh|Paroh|Pharaoh⟧, and ⟦moses|Moshe|Moses⟧ cried out to ⟦yhwh|Yahweh|the LORD⟧ about the matter of the frogs that he had set for ⟦pharaoh|Paroh|Pharaoh⟧.
 
-[13] ⟦yhwh|Yahweh|The LORD⟧ did according to the word of ⟦moses|Moshe|Moses⟧; the frogs died out of the houses, out of the courtyards, and out of the fields.
+[13] And ⟦yhwh|Yahweh|the LORD⟧ did according to the word of ⟦moses|Moshe|Moses⟧, and the frogs died out of the houses, out of the courts and out of the fields.
 
-[14] They gathered them into heaps, and the land stank.
+[14] And they heaped them up, heaps upon heaps, and the land stank.
 
-[15] But when ⟦pharaoh|Paroh|Pharaoh⟧ saw that there was relief, he hardened his heart and did not listen to them, as ⟦yhwh|Yahweh|the LORD⟧ had said.
+[15] And ⟦pharaoh|Paroh|Pharaoh⟧ saw that there was relief, and he made his heart heavy and did not listen to them, as ⟦yhwh|Yahweh|the LORD⟧ had spoken.
 
-[16] Then ⟦yhwh|Yahweh|the LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Say to ⟦aaron|Aharon|Aaron⟧, 'Stretch out your staff and strike the dust of the ground, that it may become gnats throughout all the land of ⟦egypt|Mitzrayim|Egypt⟧.'"
+[16] And ⟦yhwh|Yahweh|the LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Say to ⟦aaron|Aharon|Aaron⟧, 'Stretch out your staff and strike the dust of the earth, and it shall become gnats in all the land of ⟦egypt|Mitzrayim|Egypt⟧.'"
 
-[17] And they did so: ⟦aaron|Aharon|Aaron⟧ stretched out his hand with his staff and struck the dust of the ground, and there were gnats on man and beast; all the dust of the ground became gnats throughout all the land of ⟦egypt|Mitzrayim|Egypt⟧.
+[17] And they did so, and ⟦aaron|Aharon|Aaron⟧ stretched out his hand with his staff and struck the dust of the earth, and the gnats were on man and on beast. All the dust of the earth became gnats in all the land of ⟦egypt|Mitzrayim|Egypt⟧.
 
-[18] The diviner-priests did the same by their secret arts to produce gnats, but they could not. So there were gnats on man and beast.
+[18] And the magicians did so with their secret arts, to bring out the gnats, and they could not. And the gnats were on man and on beast.
 
-[19] Then the diviner-priests said to ⟦pharaoh|Paroh|Pharaoh⟧, "This is the finger of ⟦elohim|Elohim|God⟧." But ⟦pharaoh|Paroh|Pharaoh⟧'s heart was hardened, and he did not listen to them, as ⟦yhwh|Yahweh|the LORD⟧ had said.
+[19] And the magicians said to ⟦pharaoh|Paroh|Pharaoh⟧, "It is the finger of ⟦elohim|Elohim|God⟧." And the heart of ⟦pharaoh|Paroh|Pharaoh⟧ was strong, and he did not listen to them, as ⟦yhwh|Yahweh|the LORD⟧ had spoken.
 
-[20] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Rise early in the morning and stand before ⟦pharaoh|Paroh|Pharaoh⟧ as he goes out to the water, and say to him, 'Thus says ⟦yhwh|Yahweh|the LORD⟧: Let my people go, that they may serve me.
+[20] And ⟦yhwh|Yahweh|the LORD⟧ said to ⟦moses|Moshe|Moses⟧, "Rise early in the morning and take your stand before ⟦pharaoh|Paroh|Pharaoh⟧; behold, he is going out to the water. And you shall say to him, 'Thus says ⟦yhwh|Yahweh|the LORD⟧: Let my people go, that they may serve me.
 
-[21] Or else, if you will not let my people go, behold, I will send swarms against you and against your servants and against your people and into your houses; and the houses of the ⟦egyptians|Mitzrim|Egyptians⟧ shall be full of swarms, and also the ground where they stand.
+[21] For if you do not let my people go, behold, I am sending on you and on your servants and on your people and on your houses the swarm, and the houses of the ⟦egyptians|Mitzrim|Egyptians⟧ shall be full of the swarm, and also the ground on which they are.
 
-[22] But on that day I will set apart the land of Goshen, where my people dwell, so that no swarms shall be there — that you may know that I am ⟦yhwh|Yahweh|the LORD⟧ in the midst of the land.
+[22] And I will distinguish on that day the land of Goshen, on which my people stand, so that no swarm shall be there, so that you may know that I am ⟦yhwh|Yahweh|the LORD⟧ in the midst of the land.
 
-[23] I will put a distinction between my people and your people. Tomorrow this sign shall be.'"
+[23] And I will put a ransoming between my people and your people. Tomorrow this sign shall be.'"
 
-[24] And ⟦yhwh|Yahweh|the LORD⟧ did so: heavy swarms came into the house of ⟦pharaoh|Paroh|Pharaoh⟧ and into his servants' houses, and throughout all the land of ⟦egypt|Mitzrayim|Egypt⟧. The land was ruined by the swarms.
+[24] And ⟦yhwh|Yahweh|the LORD⟧ did so, and a heavy swarm came into the house of ⟦pharaoh|Paroh|Pharaoh⟧ and the house of his servants, and in all the land of ⟦egypt|Mitzrayim|Egypt⟧ the land was being ruined because of the swarm.
 
-[25] ⟦pharaoh|Paroh|Pharaoh⟧ called for ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧ and said, "Go, sacrifice to your ⟦elohim|Elohim|God⟧ within the land."
+[25] And ⟦pharaoh|Paroh|Pharaoh⟧ called to ⟦moses|Moshe|Moses⟧ and for ⟦aaron|Aharon|Aaron⟧ and said, "Go, sacrifice to your ⟦elohim|Elohim|God⟧ in the land."
 
-[26] ⟦moses|Moshe|Moses⟧ said, "It is not fitting to do so; for we would sacrifice the abomination of the ⟦egyptians|Mitzrim|Egyptians⟧ to ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧. If we sacrifice the abomination of the ⟦egyptians|Mitzrim|Egyptians⟧ before their eyes, will they not stone us?
+[26] And ⟦moses|Moshe|Moses⟧ said, "It is not right to do so, for it is the abomination of the ⟦egyptians|Mitzrim|Egyptians⟧ that we would sacrifice to ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧. Behold, should we sacrifice the abomination of the ⟦egyptians|Mitzrim|Egyptians⟧ before their eyes, and they not stone us?
 
-[27] We must go a three-days' journey into the wilderness and sacrifice to ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧, as he commands us."
+[27] A journey of three days we will go into the wilderness, and we will sacrifice to ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧, as he shall say to us."
 
-[28] ⟦pharaoh|Paroh|Pharaoh⟧ said, "I will let you go to sacrifice to ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ in the wilderness, only you shall not go very far away. Entreat for me."
+[28] And ⟦pharaoh|Paroh|Pharaoh⟧ said, "I myself will let you go, and you shall sacrifice to ⟦yhwh|Yahweh|the LORD⟧ your ⟦elohim|Elohim|God⟧ in the wilderness; only you shall surely not go far. Plead for me."
 
-[29] ⟦moses|Moshe|Moses⟧ said, "Behold, I am going out from you, and I will entreat ⟦yhwh|Yahweh|the LORD⟧ that tomorrow the swarms may depart from ⟦pharaoh|Paroh|Pharaoh⟧, from his servants, and from his people. Only let ⟦pharaoh|Paroh|Pharaoh⟧ not again deal deceitfully, by not letting the people go to sacrifice to ⟦yhwh|Yahweh|the LORD⟧."
+[29] And ⟦moses|Moshe|Moses⟧ said, "Behold, I am going out from you, and I will plead with ⟦yhwh|Yahweh|the LORD⟧, and the swarm shall depart from ⟦pharaoh|Paroh|Pharaoh⟧, from his servants and from his people tomorrow. Only let ⟦pharaoh|Paroh|Pharaoh⟧ not cheat again, in not letting the people go to sacrifice to ⟦yhwh|Yahweh|the LORD⟧."
 
-[30] So ⟦moses|Moshe|Moses⟧ went out from ⟦pharaoh|Paroh|Pharaoh⟧ and entreated ⟦yhwh|Yahweh|the LORD⟧.
+[30] And ⟦moses|Moshe|Moses⟧ went out from ⟦pharaoh|Paroh|Pharaoh⟧ and pleaded with ⟦yhwh|Yahweh|the LORD⟧.
 
-[31] And ⟦yhwh|Yahweh|the LORD⟧ did according to the word of ⟦moses|Moshe|Moses⟧: he removed the swarms from ⟦pharaoh|Paroh|Pharaoh⟧, from his servants, and from his people; not one was left.
+[31] And ⟦yhwh|Yahweh|the LORD⟧ did according to the word of ⟦moses|Moshe|Moses⟧, and the swarm departed from ⟦pharaoh|Paroh|Pharaoh⟧, from his servants and from his people; not one was left.
 
-[32] But ⟦pharaoh|Paroh|Pharaoh⟧ hardened his heart this time also, and he did not let the people go.
+[32] And ⟦pharaoh|Paroh|Pharaoh⟧ made his heart heavy this time also, and he did not let the people go.
 
 ## Changes
 
-- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
-- **"lice" → "gnats"** (v16, 17, 18) — Hebrew כִּנִּים *kinnim*. Disputed identification:
-  - Lice (KJV, traditional Jewish reading).
-  - Gnats / mosquitoes (LXX σκνῖφες; many modern scholars, given dust-origin and ubiquity).
-  - Tiny flies.
-  The dust-born origin points to dust-mites / sand flies / gnats. "Gnats" more natural for the narrative progression.
-- **"swarms of flies" → "swarms"** (v21, 22, 24, 29, 31) — Hebrew עָרֹב *arov*. Obscure term; traditionally "swarms of flies" (via LXX κυνόμυια "dog-fly"), but the Hebrew just means "a mixture / swarm" without specifying what. Could be mixed insects, or mixed wild animals. "Swarms" preserves the ambiguity; "of flies" was a KJV interpretive addition.
-- **"finger of *Elohim*" (v19)** — Hebrew אֶצְבַּע אֱלֹהִים *etsba Elohim*. Idiom for direct divine action (cf. Ex 31:18 — tablets written with "the finger of *Elohim*"). The Egyptian priests acknowledge what Pharaoh refuses to see.
-- **"Intreat" → "Entreat"** (v8, 9, 28, 29, 30) — spelling modernized.
-- **"Glory over me" → "You may have the honor over me"** (v9) — Hebrew הִתְפָּאֵר עָלַי *hitpa'er alay*. *Pa'ar* (hithpael) = vaunt / have the glory / take the honor. Moses concedes Pharaoh the privilege of naming the time — rhetorical humility to heighten the impending demonstration.
-- **"villages" → "courtyards"** (v13) — Hebrew הַחֲצֵרֹת *ha-chatserot* = enclosed yards / compounds. Not villages.
-- **"grievous swarm" → "heavy swarms"** (v24) — Hebrew עָרֹב כָּבֵד *arov kaved*. Modernized.
-- **"corrupted" → "ruined"** (v24) — Hebrew תִּשָּׁחֵת *tishachet* from *shachat* = destroy / ruin.
-- **"abomination of the Egyptians" (v26)** — Hebrew תּוֹעֲבַת מִצְרַיִם *to'evat Mitzrayim*. Probably refers to sacrificing of animals the Egyptians considered sacred (e.g., bull or ram of the Apis / Khnum cult). Egyptian religious sensibility would take offense; Israel's desert sacrifice avoids the conflict.
+- **"LORD" → "Yahweh"** (throughout) — the Tetragrammaton. **"God" → "*Elohim*"** (v10, 19, 25–28) — Hebrew אֱלֹהִים.
+- **"And"** (throughout) — the Hebrew joins its clauses with וַ / וְ "and"; the chain is kept.
+- **"Go unto Pharaoh" → "Go in to Pharaoh"** (v1) — Hebrew בֹּא אֶל "go in to". **"that they may serve me"** (v1, 20) — Hebrew וְיַעַבְדֻנִי, literally "and let them serve me".
+- **"I will smite all thy borders" → "I am smiting all your territory"** (v2) — Hebrew אָנֹכִי נֹגֵף, a participle: what is about to happen. נָגַף "smite" is another verb than הִכָּה "strike" (v16, 17). גְּבוּל is "border", and so the land within it. **"refuse"** — Hebrew מָאֵן; "them" is supplied after "let go".
+- **"frogs"** (v2–13) — Hebrew צְפַרְדְּעִים; in v6 the singular הַצְּפַרְדֵּעַ stands for all of them ("the frog came up and covered the land").
+- **"the river shall bring forth frogs abundantly" → "the Nile shall swarm with frogs"** (v3) — Hebrew וְשָׁרַץ, the verb of Gen 1:20. **"bedchamber" → "bedroom"** — Hebrew חֲדַר מִשְׁכָּבְךָ, "the room of your lying down". **"upon thy people" → "among your people"** — Hebrew וּבְעַמֶּךָ, "and in / on your people". **"kneadingtroughs" → "kneading bowls"** — Hebrew מִשְׁאֶרֶת (12:34).
+- **"over the streams, over the rivers, and over the ponds" → "over the rivers, over the Niles and over the pools"** (v5) — the three words of 7:19.
+- **"magicians" kept; "with their enchantments" → "with their secret arts"** (v7, 18, 19) — Hebrew חַרְטֻמִּים and לָטִים, as in 7:11, 22.
+- **"Intreat the LORD" → "Plead with Yahweh"** (v8, 9, 28, 29, 30) — Hebrew הֶעְתִּיר / עָתַר, one verb in all five places; with אֶל "plead with", with לְ / בְּעַד "plead for". **"that he may take away" → "that he remove"** (v8) — Hebrew וְיָסֵר, "and let him remove", the causative of סוּר "depart" (v11, 29, 31). **"that they may do sacrifice" → "that they may sacrifice"** — Hebrew וְיִזְבְּחוּ.
+- **"Glory over me" → "Glorify yourself over me"** (v9) — Hebrew הִתְפָּאֵר עָלַי, the reflexive of פָּאַר "glorify": Pharaoh is given the honour of naming the time. The phrase is found only here and its exact force is not certain. **"to destroy the frogs" → "to cut off the frogs"** — Hebrew לְהַכְרִית, from כָּרַת "cut". **"that they may remain in the river only" → "Only in the Nile shall they be left"** (v9, 11) — a main clause in the Hebrew; a statement here, though it may be heard as part of the question in v9.
+- **"To morrow" → "For tomorrow"** (v10) — Hebrew לְמָחָר, answering לְמָתַי "for when" (v9). **"Be it according to thy word" → "According to your word"** — Hebrew כִּדְבָרְךָ only.
+- **"because of the frogs which he had brought against Pharaoh" → "about the matter of the frogs that he had set for Pharaoh"** (v12) — Hebrew עַל־דְּבַר הַצְפַרְדְּעִים אֲשֶׁר־שָׂם לְפַרְעֹה. שִׂים is "put, set". Either the frogs that Yahweh had put upon Pharaoh, or the matter (the time for the frogs) that Moses had set for Pharaoh (v9–10); the Hebrew allows both.
+- **"villages" → "courts"** (v13) — Hebrew חֲצֵרֹת, here the enclosed yards of the houses.
+- **"they gathered them together upon heaps" → "they heaped them up, heaps upon heaps"** (v14) — Hebrew וַיִּצְבְּרוּ … חֳמָרִם חֳמָרִם, literally "heaps, heaps"; the verb is that of Gen 41:35.
+- **"he hardened his heart" → "he made his heart heavy"** (v15, 32) — Hebrew וְהַכְבֵּד אֶת־לִבּוֹ (v15, an infinitive: "and making heavy his heart"), וַיַּכְבֵּד פַּרְעֹה אֶת־לִבּוֹ (v32): the causative of כָּבֵד "be heavy", with Pharaoh as the one who does it. See 7:3, 14. **"respite" → "relief"** (v15) — Hebrew הָרְוָחָה, "the breathing space" (root of רוּחַ).
+- **"the dust of the land" → "the dust of the earth"** (v16, 17) — Hebrew עֲפַר הָאָרֶץ; אֶרֶץ is "earth" and "land" ("the land of Egypt" in the same verse).
+- **"lice" → "gnats"** (v16, 17, 18) — Hebrew כִּנִּם / כִּנִּים, and in v17, 18 the form הַכִּנָּם. The meaning is uncertain: a small biting insect — gnats or mosquitoes (so the Septuagint, cited from memory), or lice (so the Jewish tradition and KJV). One rendering is kept.
+- **"man … beast"** (v17, 18) — Hebrew אָדָם, בְּהֵמָה, collective singulars.
+- **"to bring forth lice" → "to bring out the gnats"** (v18) — Hebrew לְהוֹצִיא.
+- **"This is the finger of God" → "It is the finger of *Elohim*"** (v19) — Hebrew אֶצְבַּע אֱלֹהִים הִוא. In the mouth of the Egyptian magicians אֱלֹהִים may be "a god" ("it is the finger of a god"); they do not say "Yahweh". The same phrase is used of the writing on the tablets (31:18); cf. Luke 11:20.
+- **"Pharaoh's heart was hardened" → "the heart of Pharaoh was strong"** (v19) — Hebrew וַיֶּחֱזַק, as in 7:13, 22.
+- **"stand before Pharaoh" → "take your stand before Pharaoh"** (v20) — Hebrew הִתְיַצֵּב.
+- **"Else, if thou wilt not let my people go, behold, I will send" → "For if you do not let my people go, behold, I am sending"** (v21) — Hebrew כִּי אִם־אֵינְךָ מְשַׁלֵּחַ … הִנְנִי מַשְׁלִיחַ: one root twice, "if you are not letting go (piel) … I am sending (hiphil)".
+- **"swarms of flies" → "the swarm"** (v21, 22, 24, 29, 31) — Hebrew הֶעָרֹב *he-arov*, a singular noun with the article. The meaning is uncertain: probably "a mixture, a swarm" (from עָרַב "mix"); of what, the word does not say. "Flies" comes from the Septuagint ("dog-fly", cited from memory); Jewish tradition thinks of a mixture of wild beasts. The verse keeps the bare word.
+- **"I will sever" → "I will distinguish"** (v22) — Hebrew וְהִפְלֵיתִי, "treat as distinct, set apart" (9:4; 11:7). **"in which my people dwell" → "on which my people stand"** — Hebrew עֹמֵד עָלֶיהָ. **"in the midst of the earth" → "in the midst of the land"** — Hebrew הָאָרֶץ.
+- **"I will put a division" → "I will put a ransoming"** (v23) — the Masoretic Text has פְדֻת *pedut*, the noun of פָּדָה "ransom": a ransoming, a setting free (Ps 111:9; 130:7; Isa 50:2, where KJV has "redemption"; "redeem" is kept for another verb, גָּאַל, 6:6). The Septuagint and the Vulgate have "a distinction / division" (cited from memory), and many read פְּלֻת, a noun of the verb "distinguish" in v22, which differs by one letter. The Masoretic Text is kept: a ransoming set between the two peoples, which frees the one and not the other.
+- **"a grievous swarm" → "a heavy swarm"** (v24) — Hebrew עָרֹב כָּבֵד, the word "heavy" that is used of Pharaoh's heart. **"the land was corrupted by reason of" → "in all the land of Egypt the land was being ruined because of"** — Hebrew תִּשָּׁחֵת, the verb of Gen 6:11; by the Hebrew accents "in all the land of Egypt" belongs to this clause.
+- **"It is not meet" → "It is not right"** (v26) — Hebrew לֹא נָכוֹן, "not established, not proper". **"the abomination of the Egyptians"** — Hebrew תּוֹעֲבַת מִצְרַיִם, "the abomination of Egypt": what Egypt holds in abhorrence (Gen 43:32; 46:34), or, in Israel's mouth, what Egypt holds sacred. The second sentence begins with הֵן "behold" (or "if") and may be read as a question, as here, or as a statement: "we would sacrifice … and they would not stone us?"
+- **"We will go three days' journey" → "A journey of three days we will go"** (v27) — the Hebrew order. **"as he shall command us" → "as he shall say to us"** — Hebrew יֹאמַר.
+- **"only ye shall not go very far away" → "only you shall surely not go far"** (v28) — Hebrew הַרְחֵק לֹא־תַרְחִיקוּ לָלֶכֶת, the infinitive absolute with its verb: literally "going far you shall not go far in going". **"I will let you go" → "I myself will let you go"** — the pronoun אָנֹכִי is written out.
+- **"let not Pharaoh deal deceitfully any more" → "let Pharaoh not cheat again"** (v29) — Hebrew אַל־יֹסֵף פַּרְעֹה הָתֵל, literally "let Pharaoh not add to cheat"; הֵתֵל is "mock, trifle with, cheat" (Gen 31:7).
+- **"he removed the swarms" → "the swarm departed"** (v31) — Hebrew וַיָּסַר הֶעָרֹב. The form can be "it departed" or "he removed"; the noun has no object marker, and v29 says "the swarm shall depart" (וְסָר הֶעָרֹב), so the swarm is taken as the subject.
 
 ### Notes
 
-- **"Finger of *Elohim*" (v19)** — Jesus echoes this phrase (Luke 11:20: "if I by the finger of God cast out demons") — positioning his exorcisms as a new exodus-event.
-- **Distinction between Israel and Egypt** (v22–23) — from the fourth plague onward, the narrative emphasizes geographic separation of the plagues: Goshen spared. Deliberate theological statement: Yahweh's judgment is precise, Yahweh's people are distinct.
-- **Pharaoh's progressive concessions** — the plagues force stages of concession: sacrifice in Egypt (v25), sacrifice nearby (v28), go but leave livestock (10:24), all the way to complete release (12:31). Each plague wears down Pharaoh a bit more.
+- **Verse numbers** — in the Hebrew Bible our 8:1–4 is 7:26–29, and our 8:5–32 is 8:1–28.
+- **"Finger of *Elohim*" (v19)** — the phrase returns in Luke 11:20 ("if I by the finger of God cast out demons").
+- **Distinction between Israel and Egypt** (v22–23) — from the fourth plague onward the narrative marks the separation: Goshen is spared.
+- **Pharaoh's concessions** — sacrifice in the land (v25), sacrifice in the wilderness but not far (v28), the men only (10:11), all but the flocks and herds (10:24), complete release (12:31).

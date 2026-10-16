@@ -1,80 +1,97 @@
 # Exodus 2
 
-[1] Jeden muž z domu ⟦levi|Levi|Lévi⟧ šel a oženil se s dcerou ⟦levi|Leviho|Léviho⟧.
+[1] A muž z domu ⟦levi|Leviho|Léviho⟧ šel a vzal dceru ⟦levi|Leviho|Léviho⟧.
 
-[2] Žena otěhotněla a porodila syna; a když viděla, že je to krásné dítě, skrývala ho tři měsíce.
+[2] A ta žena otěhotněla a porodila syna a viděla ho, že je dobrý, a skrývala ho tři měsíce.
 
-[3] Když ho už déle nemohla skrývat, vzala pro něho košík z papyrového rákosí, vymazala ho asfaltem a smolou, vložila do něj dítě a položila ho mezi rákos na břehu ⟦nile|Jeoru|Nilu⟧.
+[3] A nemohla ho už déle skrývat, a vzala pro něho archu z papyru a vymazala ji asfaltem a smolou a vložila do ní dítě a položila ji do rákosí na břehu ⟦nile|Jeoru|Nilu⟧.
 
-[4] Jeho sestra se postavila opodál, aby viděla, co se s ním stane.
+[4] A jeho sestra se postavila opodál, aby věděla, co se s ním stane.
 
-[5] ⟦pharaoh|Parohova|Faraónova⟧ dcera sestoupila, aby se vykoupala v ⟦nile|Jeoru|Nilu⟧, a její služebné se procházely podél ⟦nile|Jeoru|Nilu⟧. Uviděla košík mezi rákosím a poslala svou služku, aby ho přinesla.
+[5] A dcera ⟦pharaoh|Parohova|faraónova⟧ sestoupila, aby se umyla u ⟦nile|Jeoru|Nilu⟧, a její dívky chodily podél ⟦nile|Jeoru|Nilu⟧. A uviděla archu uprostřed rákosí a poslala svou otrokyni a vzala ji.
 
-[6] Když ho otevřela, uviděla dítě – a hle, chlapec plakal. Slitovala se nad ním a řekla: „To je jedno z dětí ⟦hebrews|Ivrim|Hebrejů⟧.“
+[6] A otevřela a uviděla ho, to dítě, a hle, chlapec pláče. A slitovala se nad ním a řekla: „Tento je z dětí ⟦hebrews|Ivrim|Hebrejů⟧.“
 
-[7] Tu jeho sestra řekla ⟦pharaoh|Parohově|faraónově⟧ dceři: „Mám jít a zavolat ti kojnou z hebrejských žen, aby ti dítě kojila?“
+[7] A jeho sestra řekla dceři ⟦pharaoh|Parohově|faraónově⟧: „Mám jít a zavolat ti kojící ženu z hebrejských žen, aby ti to dítě kojila?“
 
-[8] ⟦pharaoh|Parohova|Faraónova⟧ dcera jí řekla: „Jdi.“ Dívka tedy šla a zavolala matku dítěte.
+[8] A dcera ⟦pharaoh|Parohova|faraónova⟧ jí řekla: „Jdi.“ A ta mladá žena šla a zavolala matku dítěte.
 
-[9] ⟦pharaoh|Parohova|Faraónova⟧ dcera jí řekla: „Vezmi toto dítě a koj mi ho, a já ti dám tvou mzdu.“ Žena tedy vzala dítě a kojila ho.
+[9] A dcera ⟦pharaoh|Parohova|faraónova⟧ jí řekla: „Odnes toto dítě a koj mi ho, a já dám tvou mzdu.“ A ta žena vzala dítě a kojila ho.
 
-[10] Když dítě vyrostlo, přivedla ho k ⟦pharaoh|Parohově|faraónově⟧ dceři a on se stal jejím synem. Dala mu jméno ⟦moses|Moše|Mojžíš⟧ a řekla: „Protože jsem ho vytáhla z vody.“
+[10] A dítě vyrostlo a přivedla ho k dceři ⟦pharaoh|Parohově|faraónově⟧ a stal se jí synem. A dala mu jméno ⟦moses|Moše|Mojžíš⟧ a řekla: „Protože z vody jsem ho vytáhla.“
 
-[11] V těch dnech, když ⟦moses|Moše|Mojžíš⟧ vyrostl, vyšel ke svým bratrům a díval se na jejich nucenou práci. Uviděl, jak jeden ⟦egyptian|Micri|Egypťan⟧ bije ⟦hebrew|Ivriho|Hebreje⟧, jednoho z jeho bratrů.
+[11] I stalo se v oněch dnech, že ⟦moses|Moše|Mojžíš⟧ vyrostl a vyšel ke svým bratřím a hleděl na jejich břemena. A uviděl muže, ⟦egyptian|Micriho|Egypťana⟧, jak bije muže, ⟦hebrew|Ivriho|Hebreje⟧, jednoho z jeho bratří.
 
-[12] Rozhlédl se sem a tam, a když viděl, že tu nikdo není, ubil toho ⟦egyptian|Micriho|Egypťana⟧ a ukryl ho v písku.
+[12] A obrátil se sem a tam a viděl, že tam není žádný muž, a ubil ⟦egyptian|Micriho|Egypťana⟧ a ukryl ho v písku.
 
-[13] Když vyšel druhého dne, hle, dva ⟦hebrews|Ivrim|Hebrejové⟧ se spolu prali. Řekl tomu, kdo byl v neprávu: „Proč biješ svého druha?“
+[13] A vyšel druhého dne, a hle, dva hebrejští muži se rvali. A řekl tomu bezbožnému: „Proč biješ svého bližního?“
 
-[14] Ten řekl: „Kdo tě ustanovil vládcem a soudcem nad námi? Chceš mě zabít, jako jsi zabil toho ⟦egyptian|Micriho|Egypťana⟧?“ Tu ⟦moses|Moše|Mojžíš⟧ dostal strach a řekl: „Ta věc se jistě ví.“
+[14] A on řekl: „Kdo tě ustanovil mužem, knížetem a soudcem nad námi? Míníš mě zabít, jako jsi zabil ⟦egyptian|Micriho|Egypťana⟧?“ A ⟦moses|Moše|Mojžíš⟧ se bál a řekl: „Jistě ta věc vešla ve známost.“
 
-[15] Když se ⟦pharaoh|Paro|farao⟧ o té věci doslechl, snažil se ⟦moses|Moše|Mojžíše⟧ zabít; ale ⟦moses|Moše|Mojžíš⟧ uprchl před ⟦pharaoh|Parohovou|faraónovou⟧ tváří a usadil se v zemi ⟦midian|Midjan|Midján⟧. Posadil se u studny.
+[15] A ⟦pharaoh|Paro|farao⟧ uslyšel tu věc a hledal, jak ⟦moses|Moše|Mojžíše⟧ zabít. A ⟦moses|Moše|Mojžíš⟧ uprchl od tváře ⟦pharaoh|Parohovy|faraónovy⟧ a usadil se v zemi ⟦midian|Midjan|Midján⟧, a posadil se u studny.
 
-[16] ⟦midian|Midjanský|Midjánský⟧ kněz měl sedm dcer; přišly, navážily vodu a naplnily žlaby, aby napojily stádo svého otce.
+[16] A kněz ⟦midian|Midjanu|Midjánu⟧ měl sedm dcer, a přišly a vážily vodu a naplnily koryta, aby napojily brav svého otce.
 
-[17] Ale přišli pastýři a odehnali je; tu ⟦moses|Moše|Mojžíš⟧ vstal, zachránil je a napojil jejich stádo.
+[17] A přišli pastýři a vyhnali je, a ⟦moses|Moše|Mojžíš⟧ vstal a zachránil je a napojil jejich brav.
 
-[18] Když přišly ke svému otci ⟦reuel|Reuelovi|Reúelovi⟧, řekl: „Jak to, že jste se dnes vrátily tak brzy?“
+[18] A přišly k ⟦reuel|Reuelovi|Reúelovi⟧, svému otci, a on řekl: „Proč jste si dnes pospíšily přijít?“
 
-[19] Odpověděly: „Jeden ⟦egyptian|Micri|Egypťan⟧ nás vysvobodil z ruky pastýřů, a dokonce nám navážil dost vody a napojil stádo.“
+[19] A řekly: „Muž, ⟦egyptian|Micri|Egypťan⟧, nás vysvobodil z ruky pastýřů, a také nám jistě navážil vody a napojil brav.“
 
-[20] Řekl svým dcerám: „Kde je? Proč jste toho muže nechaly odejít? Zavolejte ho, ať jí chléb.“
+[20] A řekl svým dcerám: „A kde je? Pročpak jste toho muže opustily? Zavolejte ho, ať pojí chléb.“
 
-[21] A ⟦moses|Moše|Mojžíš⟧ byl ochoten bydlet u toho muže; a on dal ⟦moses|Mošovi|Mojžíšovi⟧ za manželku svou dceru ⟦zipporah|Cipporu|Siporu⟧.
+[21] A ⟦moses|Moše|Mojžíš⟧ se uvolil bydlet s tím mužem, a on dal ⟦moses|Mošovi|Mojžíšovi⟧ svou dceru ⟦zipporah|Cipporu|Siporu⟧.
 
-[22] Porodila syna a on mu dal jméno ⟦gershom|Geršom|Geršóm⟧, neboť řekl: „Stal jsem se hostem v cizí zemi.“
+[22] A porodila syna a dal mu jméno ⟦gershom|Geršom|Geršóm⟧, neboť řekl: „Příchozím jsem byl v cizí zemi.“
 
-[23] Během těch mnoha dnů egyptský král zemřel. Synové ⟦israel|Jisraele|Izraele⟧ sténali pod nucenou prací a úpěli; a jejich volání pro nucenou práci vystoupilo k ⟦elohim|Elohim|Bohu⟧.
+[23] I stalo se v oněch mnohých dnech, že zemřel král ⟦egypt|Micrajim|Egypta⟧, a synové ⟦israel|Jisraele|Izraele⟧ vzdychali kvůli té službě a křičeli, a jejich volání o pomoc vystoupilo k ⟦elohim|Elohim|Bohu⟧ kvůli té službě.
 
-[24] ⟦elohim|Elohim|Bůh⟧ uslyšel jejich sténání a ⟦elohim|Elohim|Bůh⟧ se rozpomenul na svou smlouvu s ⟦abraham|Avrahamem|Abrahamem⟧, s ⟦isaac|Jicchakem|Izákem⟧ a s ⟦jacob|Jaakovem|Jákobem⟧.
+[24] A ⟦elohim|Elohim|Bůh⟧ uslyšel jejich sténání a ⟦elohim|Elohim|Bůh⟧ si vzpomněl na svou smlouvu s ⟦abraham|Avrahamem|Abrahamem⟧, s ⟦isaac|Jicchakem|Izákem⟧ a s ⟦jacob|Jaakovem|Jákobem⟧.
 
-[25] ⟦elohim|Elohim|Bůh⟧ viděl syny ⟦israel|Jisraele|Izraele⟧ a ⟦elohim|Elohim|Bůh⟧ si jich všiml.
+[25] A ⟦elohim|Elohim|Bůh⟧ viděl syny ⟦israel|Jisraele|Izraele⟧ a ⟦elohim|Elohim|Bůh⟧ věděl.
 
 ## Změny
 
-- **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
-- **"goodly child" → „krásné dítě“** (v2) – hebrejsky טוֹב *tov*. Často se čte jako „dobrý / krásný“. Totéž slovo stojí v refrénu Gen 1: „*Elohim* viděl, že je to dobré.“ Dítě nese „dobro“ stvoření.
-- **"ark of bulrushes" → „košík z papyrového rákosí“** (v3) – hebrejsky תֵּבָה גֹּמֶא *tevat gome*. *Tevah* je totéž slovo jako Noahův koráb (Gen 6:14) – záměrná ozvěna: Mosesův košík je stejně jako Noahův koráb malou nádobou záchrany skrze vodu. *Gome* = papyrus. Zachováno s modernizovanými názvy materiálů.
-- **"slime and pitch" → „asfaltem a smolou“** (v3) – hebrejsky בַּחֵמָר וּבַזָּפֶת *ba-chemar u-va-zafet*. Jako v Gen 11:3. Utěsnění proti vodě.
-- **"flags" → „rákos“** (v3, 5) – hebrejsky בַּסּוּף *ba-suph*. *Suph* = rákos Nile. Totéž slovo jako „Rákosové moře“ (*Yam Suph*), které Israel později přejde. Jemné předznamenání: Moses je zachráněn skrze *suph*; národ bude zachráněn skrze *Yam Suph*.
-- **"to wit" → „aby viděla“** (v4) – archaické → moderní.
-- **„Moses“ – hebrejská etymologie zachována** (v10) – hebrejsky מֹשֶׁה *Mosheh*, od *mashah* „vytáhnout“. Pharaohova dcera říká „protože *meshithihu* (vytáhla jsem ho)“. Pozoruhodné: egyptská princezna dává hebrejskému dítěti jméno s hebrejskou etymologií (egyptologové však upozorňují, že *Mose* se vyskytuje i v egyptských královských jménech – „zrozený z“ –, což naznačuje dvojjazyčnou slovní hříčku). Hebrejská etymologie vyjádřena výslovně.
-- **"burdens" → „nucená práce“** (v11) – hebrejsky סִבְלֹתָם *sivlotam* = těžká břemena / robota. Týž kořen jako v 1:11.
-- **"smiting" → „bije“** (v11) – hebrejsky מַכֶּה *makkeh*. Fyzické napadení, snad až k smrti.
-- **"slew" → „ubil“** (v12) – totéž sloveso *hikkah* (hifil od *nakah*). Mosesův čin odpovídá činu Egypťana.
-- **"him that did the wrong" → „tomu, kdo byl v neprávu“** (v13) – hebrejsky לָרָשָׁע *la-rasha* = tomu zlému. Moses určuje útočníka.
-- **"Wherefore smitest thou" → „Proč biješ“** (v13) – modernizováno.
-- **"a prince and a judge" → „vládcem a soudcem“** (v14) – hebrejsky לְשַׂר וְשֹׁפֵט *le-sar we-shofet*. *Sar* = kníže / vládce / hodnostář; *shofet* = soudce / správce. Řečnické odmítnutí Mosesovy samozvané autority.
-- **"Reuel" / "Jethro"** (v18) – midianský kněz má v Exodu dvě jména: zde Reuel (2:18), později Jethro (3:1). Pramenná kritika to chápe jako různé tradice; při kanonickém čtení možná dvě jména téže osoby (na starověkém Předním východě běžné). V 18:1 stojí také „Jethro“.
-- **„Gershom“ – etymologie zachována** (v22) – hebrejsky גֵּרְשֹׁם *Gershom* z *ger* (usedlý cizinec) + *sham* (tam). Mosesovo sebeoznačení za trvalého hosta odráží jeho identitu na pomezí: vychován jako Egypťan, prchající z Egypta, nyní *ger* v Midianu.
-- **"process of time" → „během těch mnoha dnů“** (v23) – hebrejsky בַּיָּמִים הָרַבִּים הָהֵם *ba-yamim ha-rabbim hahem* = v těch mnoha dnech. Moses tráví v Midianu dlouhou dobu (podle pozdější tradice 40 let, Acts 7:30).
-- **"bondage" → „nucená práce“** (v23) – hebrejsky עֲבֹדָה *avodah*. Pokračování motivu.
-- **"groaning" → „sténání“ (v24)** – hebrejsky נַאֲקָתָם *na'aqatam*. Sténání pod útlakem.
-- **"remembered his covenant" → „rozpomenul se na svou smlouvu“ (v24)** – hebrejsky וַיִּזְכֹּר אֱלֹהִים אֶת־בְּרִיתוֹ *wa-yizkor Elohim et berito*. Smluvní „rozpomenutí“ – božský čin, jako v Gen 8:1, 19:29, 30:22.
-- **"had respect unto them" → „všiml si jich“** (v25) – hebrejsky וַיֵּדַע אֱלֹהִים *wa-yeda Elohim*. *Yada* zde = „poznal“ v angažovaném smyslu – rozpoznal / uznal / poznal s následným jednáním. Nejen pozorování; vztahové poznání, které předznamenává zásah.
+- **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*. Ve v23 má hebrejština člen, הָאֱלֹהִים „ten Elohim“; ve v24, 25 člen nemá.
+- **„A“** (v celé kapitole) – hebrejština spojuje věty spojkou וַ / וְ „a“; řetěz je zachován.
+- **"took to wife a daughter of Levi" → „vzal dceru Leviho“** (v1) – hebrejsky וַיִּקַּח אֶת־בַּת־לֵוִי: samotné „vzal“ (vzít ženu znamená oženit se s ní) a „dceru Leviho“ se znakem určitého předmětu. Jméno spojené s vlastním jménem je tvarem určité („tu dceru Leviho“); smysl může být i „jednu z dcer Leviho“, ženu z toho kmene. Žádný z rodičů zde není jmenován (viz 6:20).
+- **"when she saw him that he was a goodly child" → „viděla ho, že je dobrý“** (v2) – hebrejsky וַתֵּרֶא אֹתוֹ כִּי־טוֹב הוּא, slova z Gen 1:4 („*Elohim* viděl světlo, že je dobré“). טוֹב je „dobrý“; slovo „dítě“ zde hebrejština nemá. **„měsíce“** – hebrejsky יְרָחִים, „luny“.
+- **"an ark of bulrushes" → „archu z papyru“** (v3, 5) – hebrejsky תֵּבַת גֹּמֶא. תֵּבָה se vyskytuje jen zde a o Noahově arše (Gen 6–9): truhla. גֹּמֶא je papyrus.
+- **"daubed it with slime and with pitch" → „vymazala ji asfaltem a smolou“** (v3) – hebrejsky וַתַּחְמְרָה בַחֵמָר וּבַזָּפֶת: sloveso je utvořeno od podstatného jména חֵמָר „asfalt“ (Gen 11:3), doslova „vyasfaltovala ji asfaltem“.
+- **"in the flags by the river's brink" → „do rákosí na břehu Jeoru“** (v3, 5) – hebrejsky בַּסּוּף עַל־שְׂפַת הַיְאֹר; סוּף je rákosí, slovo z „Rákosového moře“ (יַם־סוּף, 13:18); שָׂפָה je doslova „ret“. הַיְאֹר je Nil.
+- **"stood afar off, to wit" → „se postavila opodál, aby věděla“** (v4) – hebrejsky וַתֵּתַצַּב … לְדֵעָה: „postavit se“ a יָדַע „vědět, znát“, sloveso z v25. „Co se s ním stane“ je doslova „co mu bude učiněno“.
+- **"to wash herself" → „aby se umyla“** (v5) – hebrejsky לִרְחֹץ. **"her maidens" → „její dívky“; "her maid" → „svou otrokyni“** – hebrejsky נַעֲרֹתֶיהָ (נַעֲרָה „dívka“, o služebných) a אֲמָתָהּ (אָמָה „otrokyně“): dvě slova. **"by the river's side" → „podél Jeoru“** – hebrejsky עַל־יַד, doslova „při ruce“. **"to fetch it" → „a vzala ji“** – hebrejsky וַתִּקָּחֶהָ, „a vzala ji“ (archu); hebrejština neříká, která z obou žen.
+- **"she saw the child" → „uviděla ho, to dítě“** (v6) – hebrejsky וַתִּרְאֵהוּ אֶת־הַיֶּלֶד, se zájmenem a potom s podstatným jménem. **"the babe wept" → „chlapec pláče“** – hebrejsky נַעַר בֹּכֶה; נַעַר „chlapec“ vedle יֶלֶד „dítě“ v jednom verši.
+- **"had compassion on" → „slitovala se nad“** (v6) – hebrejsky חָמַל; „soucit“ je jiné slovo (רַחֲמִים).
+- **"a nurse of the Hebrew women" → „kojící ženu z hebrejských žen“** (v7) – hebrejsky אִשָּׁה מֵינֶקֶת, „ženu, kojící“; týž kořen dává „kojit“ třikrát ve v7, 9.
+- **"the maid" → „ta mladá žena“** (v8) – hebrejsky הָעַלְמָה, dívka na vdávání (Gen 24:43; Isa 7:14).
+- **"Take this child away" → „Odnes toto dítě“; "thy wages" → „tvou mzdu“** (v9) – hebrejsky הֵילִיכִי, „dej jít, odnes“ (tvar je neobvyklý); וַאֲנִי אֶתֵּן אֶת־שְׂכָרֵךְ, s důrazným „já“.
+- **"he became her son" → „stal se jí synem“** (v10) – hebrejsky וַיְהִי־לָהּ לְבֵן.
+- **"Moses … Because I drew him out of the water" → „Protože z vody jsem ho vytáhla“** (v10) – hebrejsky מֹשֶׁה … כִּי מִן־הַמַּיִם מְשִׁיתִהוּ. Jméno *Mosheh* je spojeno se slovesem מָשָׁה *mashah* „vytáhnout“ (vyskytuje se už jen ve 2 Sam 22:17 = Ps 18:16). Tvarem je *Mosheh* činné příčestí, „ten, kdo vytahuje“, ne „vytažený“; slovní hříčka je zvuková a v češtině ji ukázat nelze. Jméno se také běžně vykládá z egyptského *ms* „zrozený, dítě“, jako ve jménech typu Thutmose (z obecné znalosti, ne z textu).
+- **"when Moses was grown" → „že Moše vyrostl“** (v11) – hebrejsky וַיִּגְדַּל, totéž sloveso jako ve v10 („dítě vyrostlo“).
+- **"looked on their burdens" → „hleděl na jejich břemena“** (v11) – hebrejsky וַיַּרְא בְּסִבְלֹתָם: „vidět“ s בְּ, dívat se s účastí; hned následuje totéž sloveso („a uviděl“). סְבָלוֹת jako v 1:11.
+- **"an Egyptian smiting an Hebrew" → „muže, Micriho, jak bije muže, Ivriho“** (v11) – hebrejsky אִישׁ מִצְרִי מַכֶּה אִישׁ־עִבְרִי, dvakrát se slovem „muž“. **"slew" → „ubil“** (v12) – totéž sloveso, הִכָּה „udeřit, bít“ (v11, 12, 13); ve v12 rána zabíjí (v14 „zabil“).
+- **"looked this way and that way" → „obrátil se sem a tam“** (v12) – hebrejsky וַיִּפֶן כֹּה וָכֹה, doslova „obrátil se tak a tak“. **„žádný muž“** – hebrejsky אֵין אִישׁ.
+- **"strove together" → „se rvali“** (v13) – hebrejsky נִצִּים, o mužích, kteří se dostanou do rvačky (21:22; Deut 25:11). **"him that did the wrong" → „tomu bezbožnému“** – hebrejsky לָרָשָׁע, obvyklé slovo „bezbožný, svévolný“: zde ten, kdo je v neprávu. **"thy fellow" → „svého bližního“** – hebrejsky רֵעֶךָ.
+- **"Who made thee a prince and a judge" → „Kdo tě ustanovil mužem, knížetem a soudcem“** (v14) – hebrejsky מִי שָׂמְךָ לְאִישׁ שַׂר וְשֹׁפֵט, se slovem „muž“ před oběma tituly.
+- **"intendest thou to kill me" → „Míníš mě zabít“** (v14) – hebrejsky הַלְהָרְגֵנִי אַתָּה אֹמֵר, doslova „Zdali mě zabít říkáš?“: „říkat“ o tom, co si člověk říká v srdci.
+- **"this thing" → „ta věc“, „tu věc“** (v14, 15) – hebrejsky הַדָּבָר, „slovo / věc“.
+- **"fled from the face of Pharaoh" → „uprchl od tváře Parohovy“; "dwelt … and he sat down" → „usadil se … a posadil se“** (v15) – hebrejsky dvakrát וַיֵּשֶׁב: jedno sloveso, יָשַׁב, je „bydlet“ i „sedět“. **"a well" → „u studny“** – hebrejština má člen: „u té studny“.
+- **"troughs" → „koryta“** (v16) – hebrejsky רְהָטִים, žlábky na vodu (Gen 30:38). **„vážily vodu“** – hebrejsky וַתִּדְלֶנָה, „a vážily“; „vodu“ ve verši není a je doplněna, protože české „vážit“ bez předmětu znamená něco jiného (tak i ve v19). דָּלָה „vážit“ je jiné slovo než שָׁאַב „čerpat“ (Gen 24).
+- **"drove them away" → „vyhnali je“** (v17) – hebrejsky וַיְגָרְשׁוּם, od גֵּרֵשׁ; zvuk jména Gershom (v22) je mu blízký. **"helped them" → „zachránil je“** – hebrejsky וַיּוֹשִׁעָן, od יָשַׁע „zachránit“.
+- **"How is it that ye are come so soon" → „Proč jste si dnes pospíšily přijít“** (v18) – hebrejsky מַדּוּעַ מִהַרְתֶּן בֹּא.
+- **„Reuel“** (v18) – otec se zde jmenuje Reuel, ve 3:1 a 18:1 Jethro, ve 4:18 Jether; text jména nevysvětluje.
+- **"drew water enough for us" → „jistě nám navážil vody“** (v19) – hebrejsky דָּלֹה דָלָה, absolutní infinitiv se svým slovesem, doslova „váže vážil“.
+- **"that he may eat bread" → „ať pojí chléb“** (v20) – hebrejsky וְיֹאכַל, přání. Otázka začíná slovem „A“ (וְאַיּוֹ).
+- **"was content to dwell" → „se uvolil bydlet“** (v21) – hebrejsky וַיּוֹאֶל, od הוֹאִיל: rozhodnout se, odhodlat se k něčemu, být ochoten (Gen 18:27).
+- **"I have been a stranger in a strange land" → „Příchozím jsem byl v cizí zemi“** (v22) – hebrejsky גֵּר הָיִיתִי בְּאֶרֶץ נָכְרִיָּה, s „příchozím“ na začátku. Jméno Gershom (גֵּרְשֹׁם) je zvukem spojeno s גֵּר *ger* „příchozí“; často bylo slyšeno jako „příchozí tam“ (שָׁם *sham*), což sám verš neříká.
+- **"in process of time" → „v oněch mnohých dnech“** (v23) – hebrejsky בַיָּמִים הָרַבִּים הָהֵם.
+- **"sighed by reason of the bondage, and they cried, and their cry came up" → „vzdychali kvůli té službě a křičeli, a jejich volání o pomoc vystoupilo“** (v23) – tři různá slova: וַיֵּאָנְחוּ „vzdychali“, וַיִּזְעָקוּ „křičeli“, שַׁוְעָתָם „jejich volání o pomoc“; čtvrté následuje ve v24, נַאֲקָתָם „jejich sténání“. עֲבֹדָה je „služba“, jako v 1:14. Hebrejština neříká, ke komu křičeli.
+- **„s Avrahamem, s Jicchakem a s Jaakovem“** (v24) – hebrejsky třikrát אֶת: „s“ (nebo znak předmětu).
+- **"looked upon … and God had respect unto them" → „viděl … a *Elohim* věděl“** (v24–25) – čtyři slovesa s podmětem *Elohim*, jmenovaným čtyřikrát: וַיִּשְׁמַע „uslyšel“, וַיִּזְכֹּר „vzpomněl si“, וַיַּרְא „viděl“, וַיֵּדַע „věděl“ (nebo „poznal“). Poslední nemá v hebrejštině předmět: וַיֵּדַע אֱלֹהִים „a Elohim věděl“. Septuaginta čte „a dal se jim poznat“ (uvedeno zpaměti); masoretský text je zachován.
 
 ### Poznámky
 
-- **Mosesova tři čtyřicetiletá období** – pozdější židovská tradice dělí Mosesových 120 let na tři části: 40 v Egyptě, 40 v Midianu, 40 v čele Israele. Vyprávění Exodu potvrzuje 40 let v Midianu (7:7 uvádí jeho věk při pověření).
+- **Mosesova tři čtyřicetiletá období** – pozdější židovská tradice dělí Mosesových 120 let na tři části: 40 v Egyptě, 40 v Midianu, 40 v čele Israele (Acts 7:23, 30). Sám Exodus uvádí jen jeho věk, když mluvil k Pharaohovi, osmdesát let (7:7).
 - **„Čtyřicet let na poušti“ jako formování** – léta v Midianu formují Mosese z vykořeněného egyptského prince v pastýře-vůdce. Pastýřská hůl, kterou ponese na Pharaohův dvůr, má původ zde.
-- **Čtyři božská slovesa uzavírají kapitolu** – „uslyšel… rozpomenul se… viděl… poznal“ (v24–25). Kaskáda božské pozornosti po dlouhém mlčení připravuje teofanii v kap. 3.
+- **Čtyři božská slovesa uzavírají kapitolu** – „uslyšel… vzpomněl si… viděl… věděl“ (v24–25). Kaskáda božské pozornosti po dlouhém mlčení připravuje teofanii v kap. 3.

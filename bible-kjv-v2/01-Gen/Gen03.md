@@ -1,112 +1,117 @@
 # Genesis 3
 
-[1] Now the serpent was more shrewd than any wild animal of the field that ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ had made. He said to the woman, "Did ⟦elohim|Elohim|God⟧ really say, 'You shall not eat from any tree of the garden'?"
+[1] And the serpent was more shrewd than any living thing of the field that ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ had made. And he said to the woman, "Has ⟦elohim|Elohim|God⟧ indeed said, 'You shall not eat of any tree of the garden'?"
 
-[2] The woman said to the serpent, "We may eat from the fruit of the trees of the garden;
+[2] And the woman said to the serpent, "Of the fruit of the trees of the garden we may eat,
 
-[3] but of the fruit of the tree that is in the middle of the garden, ⟦elohim|Elohim|God⟧ has said, 'You shall not eat of it, and you shall not touch it, or you will die.'"
+[3] but of the fruit of the tree that is in the midst of the garden ⟦elohim|Elohim|God⟧ has said, 'You shall not eat of it, and you shall not touch it, lest you die.'"
 
-[4] The serpent said to the woman, "You will not surely die.
+[4] And the serpent said to the woman, "You shall not surely die,
 
-[5] For ⟦elohim|Elohim|God⟧ knows that on the day you eat of it your eyes will be opened, and you will be like ⟦elohim|Elohim|God⟧, knowing good and bad."
+[5] for ⟦elohim|Elohim|God⟧ knows that in the day you eat of it your eyes shall be opened, and you shall be like ⟦elohim|Elohim|God⟧, knowing good and evil."
 
-[6] When the woman saw that the tree was good for food and a delight to the eyes, and that the tree was desirable for gaining insight, she took of its fruit and ate; and she gave some also to her husband with her, and he ate.
+[6] And the woman saw that the tree was good for food, and that it was a craving to the eyes, and the tree was desirable to make wise, and she took of its fruit and ate, and she gave also to her husband with her, and he ate.
 
-[7] Then the eyes of both were opened, and they knew that they were naked; and they sewed fig leaves together and made themselves loincloths.
+[7] And the eyes of the two of them were opened, and they knew that they were naked; and they sewed fig leaves together and made themselves loincloths.
 
-[8] Then they heard the sound of ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ walking about in the garden at the breeze of the day, and the human and his wife hid themselves from the face of ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ among the trees of the garden.
+[8] And they heard the sound of ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ walking about in the garden at the wind of the day, and the man and his wife hid themselves from the face of ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ in the midst of the trees of the garden.
 
-[9] ⟦yhwh|Yahweh|The LORD⟧ ⟦elohim|Elohim|God⟧ called to the human and said to him, "Where are you?"
+[9] And ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ called to the man and said to him, "Where are you?"
 
-[10] He said, "I heard your sound in the garden, and I was afraid because I was naked; and I hid myself."
+[10] And he said, "I heard your sound in the garden, and I was afraid, because I am naked, and I hid myself."
 
-[11] He said, "Who told you that you were naked? Have you eaten from the tree from which I commanded you not to eat?"
+[11] And he said, "Who told you that you are naked? Have you eaten of the tree of which I commanded you not to eat?"
 
-[12] The human said, "The woman whom you gave to be with me — she gave me from the tree, and I ate."
+[12] And the man said, "The woman whom you gave to be with me, she gave me of the tree, and I ate."
 
-[13] Then ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ said to the woman, "What is this that you have done?" The woman said, "The serpent deceived me, and I ate."
+[13] And ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ said to the woman, "What is this you have done?" And the woman said, "The serpent deceived me, and I ate."
 
-[14] ⟦yhwh|Yahweh|The LORD⟧ ⟦elohim|Elohim|God⟧ said to the serpent,
+[14] And ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ said to the serpent,
 
 "Because you have done this,
-cursed are you more than all livestock
-and more than every wild animal of the field.
-On your belly you shall go,
+cursed are you more than all beasts
+and more than every living thing of the field;
+on your belly you shall go,
 and dust you shall eat all the days of your life.
 
-[15] And I will put enmity
+[15] And I will set enmity
 between you and the woman,
-and between your seed and her seed.
-He shall strike your head,
-and you shall strike his heel."
+and between your seed and her seed;
+it shall bruise you on the head,
+and you shall bruise it on the heel."
 
 [16] To the woman he said,
 
-"I will greatly increase your pain in childbearing;
-in pain you shall bring forth children.
-Your desire shall be for your husband,
+"I will surely multiply your pain and your conception;
+in pain you shall bear sons;
+and toward your husband shall be your desire,
 and he shall rule over you."
 
-[17] And to the human he said,
+[17] And to Adam he said,
 
-"Because you listened to the voice of your wife
-and ate from the tree of which I commanded you, saying,
+"Because you have listened to the voice of your wife
+and have eaten of the tree of which I commanded you, saying,
 'You shall not eat of it,'
-cursed is the ground because of you;
-in toil you shall eat of it all the days of your life.
+cursed is the ground for your sake;
+in pain you shall eat of it all the days of your life.
 
-[18] Thorns and thistles it shall bring forth for you,
+[18] And thorn and thistle it shall cause to spring up for you,
 and you shall eat the plants of the field.
 
-[19] By the sweat of your face you shall eat bread,
+[19] In the sweat of your face you shall eat bread,
 until you return to the ground,
 for from it you were taken;
 for dust you are,
 and to dust you shall return."
 
-[20] The human named his wife ⟦eve|Chavvah|Eve⟧, because she was the mother of all the living.
+[20] And the man called the name of his wife ⟦eve|Chavvah|Eve⟧, because she was the mother of all living.
 
-[21] ⟦yhwh|Yahweh|The LORD⟧ ⟦elohim|Elohim|God⟧ made tunics of skin for the human and his wife, and clothed them.
+[21] And ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ made for Adam and for his wife tunics of skin, and clothed them.
 
-[22] Then ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ said, "Look, the human has become like one of us, knowing good and bad. Now, let him not put out his hand and also take from the tree of life, and eat, and live forever" —
+[22] And ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ said, "Behold, the man has become like one of us, to know good and evil; and now, lest he stretch out his hand and take also of the tree of life and eat and live forever —"
 
-[23] so ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ sent him out from the garden of Eden, to work the ground from which he was taken.
+[23] And ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ sent him away from the garden of Eden to work the ground from which he was taken.
 
-[24] He drove the human out; and east of the garden of Eden he stationed the ⟦cherubim|keruvim|cherubim⟧, and the flame of the ever-turning sword, to guard the way to the tree of life.
+[24] And he drove out the man, and east of the garden of Eden he made the ⟦cherubim|keruvim|cherubim⟧ abide, and the flame of the turning sword, to keep the way to the tree of life.
 
 ## Changes
 
-- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
-- **"subtil" → "shrewd"** (v1) — Hebrew עָרוּם *arum* = clever / shrewd / crafty. KJV "subtil" is archaic. Important: a deliberate sound-play with עֲרוּמִּים *arummim* ("naked") in 2:25 just before — "the human and his wife were *arummim*, and the serpent was *arum*." Lost in English but preserved here by using "shrewd" (closest single-word match).
-- **"beast of the field" → "wild animal of the field"** (v1, 14) — Hebrew חַיַּת הַשָּׂדֶה *chayyat ha-sadeh*. Same phrase noted in Gen 1.
-- **"Yea, hath God said…" → "Did *Elohim* really say…"** (v1) — Hebrew אַף כִּי־אָמַר אֱלֹהִים *aph ki-amar Elohim*. The serpent's opening is a distorting exaggeration of *Elohim*'s command ("from *every* tree?" — *Elohim* had forbidden only *one*). KJV is literal but archaic; modern idiom preserves the serpent's rhetorical trick.
-- **"as gods" → "like *Elohim*"** (v5) — Hebrew כֵּאלֹהִים *k'Elohim*. *Elohim* grammatically plural but takes singular verb throughout this chapter ("*Elohim* knows…" v5). Two defended readings: "like God" (the pattern of the chapter) or "like divine beings" (plural reference, echoing the "us" of 1:26 and 3:22). Rendered "like *Elohim*" to preserve the ambiguity of the Hebrew.
-- **"evil" → "bad"** (v5, 22) — Hebrew רָע *ra*. Broader than English "evil." See note in ch 2.
-- **"a tree to be desired to make one wise" → "desirable for gaining insight"** (v6) — Hebrew לְהַשְׂכִּיל *le-haskil* = to make wise / give insight. Modernized.
-- **"aprons" → "loincloths"** (v7) — Hebrew חֲגֹרוֹת *chagorot* = belts / wraps / loin coverings. In 1611 "apron" meant a loincloth-like covering; in modern English an apron is a kitchen garment.
-- **"voice of the LORD God" → "sound of Yahweh *Elohim*"** (v8) — Hebrew קוֹל *qol* = sound / voice. In context — the sound of walking, not a spoken voice. KJV "voice" misleads (*Elohim* is not speaking yet; the human hears footsteps / movement).
-- **"in the cool of the day" → "at the breeze of the day"** (v8) — Hebrew לְרוּחַ הַיּוֹם *le-ruach ha-yom* = "at the wind / breeze of the day." Same word *ruach* as in 1:2 ("Spirit / wind / breath"). The conventional "cool of the day" = evening breeze; the Hebrew simply names the windy time of day. Some scholars have proposed "at the wind of the day" refers to a theophanic storm wind (a day of judgment), but the traditional evening-breeze reading fits the setting.
-- **"the presence" → "the face"** (v8) — Hebrew מִפְּנֵי *mi-pene* = "from the face of." Retained literal "face" (standard biblical idiom; "presence" is the standard but slightly abstracting gloss).
-- **"Adam" → "the human"** (v8, 9, 12, 17, 20, 22, 24) — still הָאָדָם *ha-adam*. Proper name "Adam" (without article) stabilizes by ch 4.
-- **"beguiled" → "deceived"** (v13) — Hebrew הִשִּׁיאַנִי *hishi'ani* (from נָשָׁא *nasha*, hiphil: to deceive / mislead). "Beguile" is archaic.
-- **"above all cattle, and above every beast of the field" → "more than all livestock and more than every wild animal of the field"** (v14) — Hebrew מִכֹּל *mi-kol* is comparative here: "cursed *more than* all." (Not "cursed along with / above in rank over" — the serpent is uniquely cursed, more so than any animal.) Some read as privative: "cursed *out of / away from* all" (marked off, banished from the company of the animals). Either reading makes the serpent bear a special curse.
-- **"bruise… bruise" → "strike… strike"** (v15) — Hebrew יְשׁוּפְךָ *yeshuphkha* / תְּשׁוּפֶנּוּ *teshuphennu*, both from שׁוּף *shuph*. The same verb is used both times (a deliberate mirror: serpent and seed strike at each other). KJV "bruise" reflects one possible gloss (some lexicographers link to "crush"); "strike" better preserves the parallelism. Historic Christian reading treats v15 as proto-evangelium (foreshadowing messianic victory); LXX has "he (αὐτός) shall guard your head, and you shall guard his heel" — different verb but same symmetric structure.
-- **"thy seed… her seed"** (v15) — Hebrew זֶרַע *zera* = seed, offspring (collective singular). Can refer to a single descendant or a lineage. Retained "seed" as both senses are theologically operative; "offspring" is an equally valid modern rendering.
-- **"sorrow and thy conception" → "pain in childbearing"** (v16) — Hebrew עִצְבוֹנֵךְ וְהֵרֹנֵךְ *itstsavonekh we-heronekh* = "your pain and your pregnancy." Likely hendiadys: "the pain of your childbearing." *Itstsavon* = hard toil / pain; same word used in v17 of the human's toil.
-- **"in sorrow thou shalt bring forth children" → "in pain you shall bring forth children"** (v16) — same Hebrew noun *itstsavon*. "Sorrow" in modern English = grief; the Hebrew means physical pain / toil.
-- **"thy desire shall be to thy husband, and he shall rule over thee"** (v16) — Hebrew תְּשׁוּקָה *teshuqah* = desire / longing. Word appears in only two other places: Song 7:11 (erotic desire) and **Gen 4:7**, where sin "desires" Cain — "its *teshuqah* is for you, but you must rule over it" — using identical syntax to this verse. On this parallel (which most modern scholars consider decisive), the woman's *teshuqah* here is not romantic longing but a drive to control/master — and the husband's "rule" (מָשַׁל *mashal*) is the husband responding with domination. The verse describes the post-Eden distortion of the 2:24 partnership into a power struggle, not a divine prescription. Translation kept close to the Hebrew; the interpretive battle is real.
-- **"sorrow" → "toil"** (v17) — Hebrew עִצָּבוֹן *itstsavon* (same word as v16). "Sorrow" in modern English = grief; "toil" captures the painful-labor sense for agricultural work.
-- **"herb of the field" → "plants of the field"** (v18) — Hebrew עֵשֶׂב הַשָּׂדֶה *esev ha-sadeh*. Modernized.
-- **"Eve"** (v20) — Hebrew חַוָּה *Chavvah*. Likely derived from חָיָה *chayah* ("to live"). Wordplay: "Eve, because she was the mother of all חַי *chay* (living)." KJV "Eve" retained.
-- **"coats of skins" → "tunics of skin"** (v21) — Hebrew כָּתְנוֹת עוֹר *kotnot 'or*. *Kuttonet* = tunic (long shirt-like garment), not a heavy coat.
-- **"as one of us" → "like one of us"** (v22) — same "us" as 1:26; see note there.
-- **"till the ground" → "work the ground"** (v23) — Hebrew לַעֲבֹד אֶת־הָאֲדָמָה *la'avod et ha-adamah*. Same verb עָבַד *avad* as 2:15 "work it." "Till" is accurate but narrower.
-- **"Cherubims" → "cherubim"** (v24) — Hebrew כְּרוּבִים *keruvim* is already plural (Hebrew masculine plural *-im*); KJV redundantly adds English plural "-s." Corrected.
-- **"flaming sword which turned every way" → "the flame of the ever-turning sword"** (v24) — Hebrew לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת *lahat ha-cherev ha-mit-happekhet* = "the flame of the whirling / ever-turning sword." *Lahat* is "flame," and the participle *mit-happekhet* is a reflexive/rotating form — the flame rotates / flashes back and forth. KJV's word order obscures that the flame (not the sword) is the subject of "turning."
+- **"the LORD God" → "Yahweh *Elohim*"; "God" → "*Elohim*"** (throughout) — Hebrew יְהוָה אֱלֹהִים, both words every time. The serpent and the woman say only *Elohim* (v1, 3, 5).
+- **"more subtil than any beast of the field" → "more shrewd than any living thing of the field"** (v1) — Hebrew עָרוּם, "shrewd, prudent": a good quality in Proverbs (Prov 12:16), a bad one in Job 5:12; the word itself does not say which. It sounds like עֲרוּמִּים "naked" in 2:25. חַיַּת הַשָּׂדֶה is "living thing of the field", as in ch 1–2.
+- **"Yea, hath God said" → "Has *Elohim* indeed said"** (v1) — Hebrew אַף כִּי־אָמַר אֱלֹהִים, literally "Indeed, that *Elohim* said …". There is no question word: it may be a question or an exclamation ("So *Elohim* has even said …!"). לֹא … מִכֹּל is "not … of any" (so the verse) or "not … of every".
+- **"lest ye die" → "lest you die"** (v3) — Hebrew פֶּן. "You" is plural in v1–5.
+- **"Ye shall not surely die" → "You shall not surely die"** (v4) — Hebrew לֹא־מוֹת תְּמֻתוּן: the "not" stands before the very words of 2:17, "you shall surely die" (literally "dying you shall die"). It denies that sentence; it may also be read "you shall surely not die".
+- **"as gods" → "like *Elohim*"** (v5) — Hebrew כֵּאלֹהִים. The participle "knowing" is plural (יֹדְעֵי); it may go with "you" (plural) or with אֱלֹהִים taken as a plural, "like gods / divine beings who know". The verse keeps the word.
+- **"evil" kept** (v5, 22) — Hebrew רַע, as 2:9.
+- **"pleasant to the eyes, and a tree to be desired to make one wise" → "a craving to the eyes, and the tree was desirable to make wise"** (v6) — Hebrew תַאֲוָה־הוּא לָעֵינַיִם, "it was a craving (a thing longed for) to the eyes", and נֶחְמָד … לְהַשְׂכִּיל: נֶחְמָד "desirable" as in 2:9; הִשְׂכִּיל is "make wise, give insight" or "have insight", also "look at". Three different words of desire stand in this chapter: תַּאֲוָה (v6), נֶחְמָד (v6) and תְּשׁוּקָה (v16).
+- **"her husband with her" kept** (v6) — Hebrew לְאִישָׁהּ עִמָּהּ; אִישׁ is "man" and "husband", אִשָּׁה "woman" and "wife".
+- **"aprons" → "loincloths"** (v7) — Hebrew חֲגֹרֹת, things girded on.
+- **"the voice of the LORD God walking in the garden in the cool of the day" → "the sound of Yahweh *Elohim* walking about in the garden at the wind of the day"** (v8, 10) — Hebrew קוֹל is "voice" and "sound"; here it is the sound of his walking. מִתְהַלֵּךְ is "walking about" (the form used in 5:22, 24). לְרוּחַ הַיּוֹם is literally "at the wind of the day": רוּחַ is the word of 1:2. It is commonly taken as the time when the wind rises, toward evening; "cool" is not in the Hebrew.
+- **"from the presence of" → "from the face of"; "amongst the trees" → "in the midst of the trees"** (v8) — Hebrew מִפְּנֵי, בְּתוֹךְ עֵץ הַגָּן ("tree" as a collective).
+- **"Adam" → "the man"** (v8, 9, 12, 20, 22, 24) — Hebrew הָאָדָם with the article. In v17 and 21 the Masoretic pointing has no article (לְאָדָם), and the verse has "Adam"; the consonants would allow "the man" there too.
+- **"because I was naked" → "because I am naked"; "that thou wast naked" → "that you are naked"** (v10, 11) — Hebrew sentences without a verb, spoken in the present.
+- **"whom thou gavest to be with me" kept** (v12) — Hebrew אֲשֶׁר נָתַתָּה עִמָּדִי, literally "whom you gave with me"; "to be" is supplied. The same verb follows: "she gave me".
+- **"beguiled" → "deceived"** (v13) — Hebrew הִשִּׁיאַנִי.
+- **"cursed above all cattle, and above every beast of the field" → "cursed are you more than all beasts and more than every living thing of the field"** (v14) — Hebrew אָרוּר אַתָּה מִכָּל־, the same מִן as in v1, "shrewd more than all" (and אָרוּר echoes עָרוּם). It may also mean "cursed away from all", set apart from them; so the same words in 4:11, "cursed from the ground".
+- **"I will put enmity" → "I will set enmity"** (v15) — Hebrew אָשִׁית, the verb of the name Seth in 4:25.
+- **"thy seed and her seed" kept** (v15) — Hebrew זֶרַע "seed": one word for one descendant (4:25) and for all descendants together (13:16).
+- **"it shall bruise thy head, and thou shalt bruise his heel" → "it shall bruise you on the head, and you shall bruise it on the heel"** (v15) — Hebrew הוּא יְשׁוּפְךָ רֹאשׁ וְאַתָּה תְּשׁוּפֶנּוּ עָקֵב. הוּא is a masculine singular pronoun because זֶרַע "seed" is a masculine noun: "it" (the seed), which may be one ("he … him") or many ("they … them"); Hebrew does not say which. KJV has "it … his". The verb שׁוּף stands twice and has one rendering; it is found again only in Job 9:17 and Ps 139:11, and its meaning is uncertain: "bruise", "crush", or "strike at / snap at". "Head" and "heel" are added without a preposition: "bruise you as to the head".
+- **"I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children" → "I will surely multiply your pain and your conception; in pain you shall bear sons"** (v16) — Hebrew הַרְבָּה אַרְבֶּה, literally "multiplying I will multiply", the infinitive before its verb, "surely" as in 2:16–17. עִצְּבוֹנֵךְ וְהֵרֹנֵךְ is two nouns joined by "and", often taken as one thought ("your pain in conception"). עִצָּבוֹן "pain" (toil that hurts) is the word of v17 and 5:29; "in pain" in the second line is the shorter noun עֶצֶב of the same root. בָנִים is "sons".
+- **"thy desire shall be to thy husband" → "toward your husband shall be your desire"** (v16) — Hebrew וְאֶל־אִישֵׁךְ תְּשׁוּקָתֵךְ, a clause without a verb ("shall be" is supplied). תְּשׁוּקָה is found three times: here, in 4:7 (with the same words, "toward you is its desire, and you shall rule over it") and in Song 7:10. Its sense is "desire, longing"; what kind of desire is meant here (for him, or to master him, as some read from 4:7) the word does not say. מָשַׁל "rule" as in 1:18.
+- **"cursed is the ground for thy sake; in sorrow shalt thou eat of it" → "cursed is the ground for your sake; in pain you shall eat of it"** (v17) — Hebrew בַּעֲבוּרֶךָ, "on your account"; בְּעִצָּבוֹן, the word of v16.
+- **"Thorns also and thistles shall it bring forth to thee" → "And thorn and thistle it shall cause to spring up for you"** (v18) — Hebrew תַּצְמִיחַ, the verb of 2:9; the nouns are singular. "The herb of the field" is עֵשֶׂב "plants", as 1:11.
+- **"In the sweat of thy face" kept** (v19) — Hebrew בְּזֵעַת אַפֶּיךָ; אַפַּיִם is literally "nostrils" (2:7), here for the face.
+- **"called his wife's name Eve" → "called the name of his wife *Chavvah*"** (v20) — Hebrew חַוָּה, which sounds like חַי "living": "the mother of all living" (כָּל־חָי).
+- **"coats of skins" → "tunics of skin"** (v21) — Hebrew כָּתְנוֹת עוֹר; "skin" is singular.
+- **"Behold, the man is become as one of us, to know good and evil" kept** (v22) — Hebrew הֵן "behold"; "one of us" is plural as in 1:26. לָדַעַת is an infinitive: "to know", "in knowing".
+- **"and now, lest he put forth his hand" → "and now, lest he stretch out his hand … —"** (v22) — the Hebrew sentence breaks off after "live forever"; what Yahweh *Elohim* does follows in v23. It is not a command ("let him not").
+- **"sent him forth" → "sent him away"** (v23) — Hebrew וַיְשַׁלְּחֵהוּ, the same verb as "stretch out (his hand)" in v22 in another form. "From which he was taken" is literally "which he was taken from there".
+- **"he placed at the east of the garden of Eden Cherubims" → "east of the garden of Eden he made the *keruvim* abide"** (v24) — Hebrew וַיַּשְׁכֵּן, "caused to abide", the verb of מִשְׁכָּן "dwelling". מִקֶּדֶם is literally "in front of", on the east. כְּרֻבִים is already a plural; KJV adds an English "-s".
+- **"a flaming sword which turned every way" → "the flame of the turning sword"** (v24) — Hebrew לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת, "the flame of the sword that turns itself". The participle is feminine and belongs to "sword" (feminine), not to "flame" (masculine).
+- **"to keep the way of the tree of life" → "to keep the way to the tree of life"** (v24) — Hebrew לִשְׁמֹר, the verb of 2:15 ("to keep it"); דֶּרֶךְ עֵץ הַחַיִּים is literally "the way of the tree of life".
 
 ### Notes (context, not changes)
 
-- **Serpent identity** — Hebrew נָחָשׁ *nachash* simply means "serpent." The text does not identify this serpent with Satan; that equation develops in Second Temple Jewish literature (Wisdom of Solomon 2:24) and is standard in Christian readings (Rev 12:9, 20:2). In the narrative itself, the serpent is one of the animals *Elohim* made.
-- **"us" in v22** — same translational and interpretive options as 1:26 ("Let us make humanity"); see there.
-- **Traditional "Fall" language** — the chapter never uses the word "fall" or "sin" explicitly. Theological terminology added later.
+- **The serpent** — Hebrew נָחָשׁ is the ordinary word for a snake, here one of the living things of the field that Yahweh *Elohim* had made (v1). The chapter does not name it otherwise; Rev 12:9 and 20:2 speak of "the ancient serpent".
+- **v14–19** — the sayings are verse; the lines follow the Hebrew accents.
+- **v16–17** — "pain" (עִצָּבוֹן) is said to the woman and to Adam alike; in 5:29 Lamech takes up the word.

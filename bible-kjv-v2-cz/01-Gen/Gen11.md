@@ -1,90 +1,110 @@
 # Genesis 11
 
-[1] Celá země měla jeden jazyk a stejná slova.
+[1] A celá země byla jednoho rtu a stejných slov.
 
-[2] Když lidé táhli od východu, nalezli pláň v zemi ⟦shinar|Šinar|Šineár⟧ a usadili se tam.
+[2] I stalo se, když táhli od východu, že nalezli pláň v zemi ⟦shinar|Šinar|Šineár⟧ a usadili se tam.
 
-[3] I řekli jeden druhému: „Nuže, nadělejme cihel a důkladně je vypalme.“ Cihla jim sloužila místo kamene a asfalt místo malty.
+[3] A řekli každý svému bližnímu: „Nuže, nadělejme cihel a důkladně je vypalme.“ A cihlu měli místo kamene a asfalt měli místo malty.
 
-[4] Potom řekli: „Nuže, vystavme si město a věž s vrcholem v nebesích; udělejme si jméno, abychom se nerozptýlili po tváři celé země.“
+[4] A řekli: „Nuže, vystavme si město a věž s vrcholem v nebesích a učiňme si jméno, abychom se nerozptýlili po tváři celé země.“
 
-[5] Ale ⟦yhwh|Jahve|Hospodin⟧ sestoupil, aby viděl město a věž, které stavěli synové lidstva.
+[5] A ⟦yhwh|Jahve|Hospodin⟧ sestoupil, aby viděl město a věž, které vystavěli synové člověka.
 
-[6] I řekl ⟦yhwh|Jahve|Hospodin⟧: „Hle, jsou jeden lid a všichni mají jeden jazyk; a to je teprve začátek toho, co budou dělat. Teď pro ně nebude nic nemožné, co si umíní udělat.
+[6] A ⟦yhwh|Jahve|Hospodin⟧ řekl: „Hle, jeden lid a jeden ret mají všichni, a toto začínají činit; a nyní jim nebude odepřeno nic z toho, co si umíní učinit.
 
-[7] Nuže, sestupme a zmaťme tam jejich jazyk, aby jeden nerozuměl řeči druhého.“
+[7] Nuže, sestupme a zmaťme tam jejich ret, aby neslyšeli každý ret svého bližního.“
 
-[8] Tak je ⟦yhwh|Jahve|Hospodin⟧ odtud rozptýlil po tváři celé země a přestali stavět město.
+[8] A ⟦yhwh|Jahve|Hospodin⟧ je odtud rozptýlil po tváři celé země, a přestali stavět město.
 
-[9] Proto bylo nazváno jeho jméno ⟦babel|Bavel|Bábel⟧, neboť tam ⟦yhwh|Jahve|Hospodin⟧ zmátl jazyk celé země; a odtud je ⟦yhwh|Jahve|Hospodin⟧ rozptýlil po tváři celé země.
+[9] Proto bylo jeho jméno nazváno ⟦babel|Bavel|Bábel⟧, neboť tam ⟦yhwh|Jahve|Hospodin⟧ zmátl ret celé země a odtud je ⟦yhwh|Jahve|Hospodin⟧ rozptýlil po tváři celé země.
 
-[10] Toto jsou rody ⟦shem|Šemovy|Šémovy⟧. ⟦shem|Šemovi|Šémovi⟧ bylo 100 let, když zplodil ⟦arpachshad|Arpachšada|Arpakšada⟧, dva roky po potopě.
+[10] Toto jsou rody ⟦shem|Šemovy|Šémovy⟧. ⟦shem|Šemovi|Šémovi⟧ bylo sto let a zplodil ⟦arpachshad|Arpachšada|Arpakšada⟧, dva roky po potopě.
 
-[11] ⟦shem|Šem|Šém⟧ žil poté, co zplodil ⟦arpachshad|Arpachšada|Arpakšada⟧, 500 let a zplodil syny a dcery.
+[11] A ⟦shem|Šem|Šém⟧ žil poté, co zplodil ⟦arpachshad|Arpachšada|Arpakšada⟧, pět set let a zplodil syny a dcery.
 
-[12] ⟦arpachshad|Arpachšad|Arpakšad⟧ žil 35 let a zplodil Šelacha.
+[12] A ⟦arpachshad|Arpachšad|Arpakšad⟧ žil třicet pět let a zplodil Šelacha.
 
-[13] ⟦arpachshad|Arpachšad|Arpakšad⟧ žil poté, co zplodil Šelacha, 403 let a zplodil syny a dcery.
+[13] A ⟦arpachshad|Arpachšad|Arpakšad⟧ žil poté, co zplodil Šelacha, čtyři sta tři roky a zplodil syny a dcery.
 
-[14] Šelach žil 30 let a zplodil ⟦eber|Evera|Ebera⟧.
+[14] A Šelach žil třicet let a zplodil ⟦eber|Evera|Ebera⟧.
 
-[15] Šelach žil poté, co zplodil ⟦eber|Evera|Ebera⟧, 403 let a zplodil syny a dcery.
+[15] A Šelach žil poté, co zplodil ⟦eber|Evera|Ebera⟧, čtyři sta tři roky a zplodil syny a dcery.
 
-[16] ⟦eber|Ever|Eber⟧ žil 34 let a zplodil Pelega.
+[16] A ⟦eber|Ever|Eber⟧ žil třicet čtyři roky a zplodil Pelega.
 
-[17] ⟦eber|Ever|Eber⟧ žil poté, co zplodil Pelega, 430 let a zplodil syny a dcery.
+[17] A ⟦eber|Ever|Eber⟧ žil poté, co zplodil Pelega, čtyři sta třicet let a zplodil syny a dcery.
 
-[18] Peleg žil 30 let a zplodil ⟦reu|Reua|Reúa⟧.
+[18] A Peleg žil třicet let a zplodil ⟦reu|Reua|Reúa⟧.
 
-[19] Peleg žil poté, co zplodil ⟦reu|Reua|Reúa⟧, 209 let a zplodil syny a dcery.
+[19] A Peleg žil poté, co zplodil ⟦reu|Reua|Reúa⟧, dvě stě devět let a zplodil syny a dcery.
 
-[20] ⟦reu|Reu|Reú⟧ žil 32 let a zplodil ⟦serug|Seruga|Serúga⟧.
+[20] A ⟦reu|Reu|Reú⟧ žil třicet dva roky a zplodil ⟦serug|Seruga|Serúga⟧.
 
-[21] ⟦reu|Reu|Reú⟧ žil poté, co zplodil ⟦serug|Seruga|Serúga⟧, 207 let a zplodil syny a dcery.
+[21] A ⟦reu|Reu|Reú⟧ žil poté, co zplodil ⟦serug|Seruga|Serúga⟧, dvě stě sedm let a zplodil syny a dcery.
 
-[22] ⟦serug|Serug|Serúg⟧ žil 30 let a zplodil ⟦nahor|Nachora|Náchora⟧.
+[22] A ⟦serug|Serug|Serúg⟧ žil třicet let a zplodil ⟦nahor|Nachora|Náchora⟧.
 
-[23] ⟦serug|Serug|Serúg⟧ žil poté, co zplodil ⟦nahor|Nachora|Náchora⟧, 200 let a zplodil syny a dcery.
+[23] A ⟦serug|Serug|Serúg⟧ žil poté, co zplodil ⟦nahor|Nachora|Náchora⟧, dvě stě let a zplodil syny a dcery.
 
-[24] ⟦nahor|Nachor|Náchor⟧ žil 29 let a zplodil Teracha.
+[24] A ⟦nahor|Nachor|Náchor⟧ žil dvacet devět let a zplodil Teracha.
 
-[25] ⟦nahor|Nachor|Náchor⟧ žil poté, co zplodil Teracha, 119 let a zplodil syny a dcery.
+[25] A ⟦nahor|Nachor|Náchor⟧ žil poté, co zplodil Teracha, sto devatenáct let a zplodil syny a dcery.
 
-[26] Terach žil 70 let a zplodil ⟦abram|Avrama|Abrama⟧, ⟦nahor|Nachora|Náchora⟧ a ⟦haran|Harana|Hárana⟧.
+[26] A Terach žil sedmdesát let a zplodil ⟦abram|Avrama|Abrama⟧, ⟦nahor|Nachora|Náchora⟧ a ⟦haran|Harana|Hárana⟧.
 
-[27] Toto jsou rody Terachovy. Terach zplodil ⟦abram|Avrama|Abrama⟧, ⟦nahor|Nachora|Náchora⟧ a ⟦haran|Harana|Hárana⟧; a ⟦haran|Haran|Háran⟧ zplodil Lota.
+[27] A toto jsou rody Terachovy. Terach zplodil ⟦abram|Avrama|Abrama⟧, ⟦nahor|Nachora|Náchora⟧ a ⟦haran|Harana|Hárana⟧; a ⟦haran|Haran|Háran⟧ zplodil Lota.
 
-[28] ⟦haran|Haran|Háran⟧ zemřel za života svého otce Teracha v zemi svého narození, v ⟦ur|Ur|Úru⟧ ⟦chaldeans|Kasdim|Kaldejců⟧.
+[28] A ⟦haran|Haran|Háran⟧ zemřel před tváří svého otce Teracha v zemi svého příbuzenstva, v ⟦ur|Ur|Úru⟧ ⟦chaldeans|Kasdim|Kaldejců⟧.
 
-[29] ⟦abram|Avram|Abram⟧ a ⟦nahor|Nachor|Náchor⟧ si vzali ženy. ⟦abram|Avramova|Abramova⟧ žena se jmenovala ⟦sarai|Saraj|Sáraj⟧ a ⟦nahor|Nachorova|Náchorova⟧ žena se jmenovala Milka; byla to dcera ⟦haran|Harana|Hárana⟧, otce Milky a Jisky.
+[29] A ⟦abram|Avram|Abram⟧ a ⟦nahor|Nachor|Náchor⟧ si vzali ženy; jméno ⟦abram|Avramovy|Abramovy⟧ ženy bylo ⟦sarai|Saraj|Sáraj⟧ a jméno ⟦nahor|Nachorovy|Náchorovy⟧ ženy Milka, dcera ⟦haran|Harana|Hárana⟧, otce Milky a otce Jisky.
 
-[30] Ale ⟦sarai|Saraj|Sáraj⟧ byla neplodná; neměla dítě.
+[30] A ⟦sarai|Saraj|Sáraj⟧ byla neplodná; neměla dítě.
 
-[31] Terach vzal svého syna ⟦abram|Avrama|Abrama⟧ a Lota, syna ⟦haran|Haranova|Háranova⟧, svého vnuka, a ⟦sarai|Saraj|Sáraj⟧, svou snachu, ženu svého syna ⟦abram|Avrama|Abrama⟧; a společně vyšli z ⟦ur|Ur|Úru⟧ ⟦chaldeans|Kasdim|Kaldejců⟧, aby šli do země Kenaan. Ale když přišli do ⟦haran-city|Charanu|Cháranu⟧, usadili se tam.
+[31] A Terach vzal svého syna ⟦abram|Avrama|Abrama⟧ a Lota, syna ⟦haran|Haranova|Háranova⟧, syna svého syna, a ⟦sarai|Saraj|Sáraj⟧, svou snachu, ženu svého syna ⟦abram|Avrama|Abrama⟧, a vyšli s nimi z ⟦ur|Ur|Úru⟧ ⟦chaldeans|Kasdim|Kaldejců⟧, aby šli do země Kenaan; a přišli až do ⟦haran-city|Charanu|Cháranu⟧ a usadili se tam.
 
-[32] Terachových dnů bylo 205 let; a Terach zemřel v ⟦haran-city|Charanu|Cháranu⟧.
+[32] A Terachových dnů bylo dvě stě pět let, a Terach zemřel v ⟦haran-city|Charanu|Cháranu⟧.
 
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – tetragram zachován.
-- **"one language, and of one speech" → „jeden jazyk a stejná slova“** (v1) – hebrejsky שָׂפָה אֶחָת וּדְבָרִים אֲחָדִים *sapha echat u-devarim achadim*. *Sapha* = ret / jazyk; *devarim achadim* = „stejná slova / jednotná slovní zásoba“. Hendiadys pro „jednu společnou řeč“. KJV „speech“ pro *devarim* je slabé; „stejná slova“ vystihuje hebrejštinu přesně.
-- **"Go to" → „Nuže“** (v3, 4, 7) – hebrejsky הָבָה *havah* = „dej / nuže!“ – pobídková částice. „Go to“ bylo v angličtině roku 1611 běžnou pobídkou; dnes je nesrozumitelné.
-- **"burn them throughly" → „důkladně je vypalme“** (v3) – pravopis modernizován.
-- **"slime… morter" → „asfalt… malta“** (v3) – hebrejsky חֵמָר *chemar* = asfalt / živice (v Mezopotámii se vyskytuje přirozeně, užíván k izolaci a spojování). „Slime“ (sliz) zavádí; hebrejština je konkrétní.
-- **"whose top may reach unto heaven" → „s vrcholem v nebesích“** (v4) – hebrejsky וְרֹאשׁוֹ בַשָּׁמַיִם *we-rosho va-shamayim*. Nejde o ctižádost doslova se dotknout oblohy, ale o architektonickou skutečnost zikkuratu, jehož horní stupeň sahá do nebes (mezopotámské zikkuraty byly chápány jako spojnice země a nebe). Zachováno.
-- **"make us a name" → „udělejme si jméno“** (v4) – hebrejsky וְנַעֲשֶׂה־לָּנוּ שֵׁם. Modernizováno. (Ironický kontrast později: Abraham, který se nijak nesnaží o sebepropagaci, je ten, jemuž Yahweh slibuje udělat veliké jméno – 12:2.)
-- **"children of men" → „synové lidstva“** (v5) – hebrejsky בְּנֵי הָאָדָם *bene ha-adam*. Lidstvo obecně.
-- **"this they begin to do" → „to je teprve začátek toho, co budou dělat“** (v6) – hebrejsky וְזֶה הַחִלָּם לַעֲשׂוֹת *we-zeh hachillam la'asot*. „Toto je jejich začátek konání“ – víc než plochý překlad KJV.
-- **"nothing will be restrained" → „nebude nic nemožné“** (v6) – hebrejsky לֹא־יִבָּצֵר מֵהֶם *lo-yibbatser mehem*. Nifal od *batsar* = odříznout / nedosažitelné / nemožné. „Nic, co si umíní, pro ně nebude mimo dosah.“
-- **"imagined" → „umíní si“** (v6) – hebrejsky זָמָם *zamam* = vymyslet / osnovat / plánovat. *Nikoli* *yetser* z 6:5 / 8:21. „Imagined“ v moderní angličtině naznačuje fantazii; *zamam* je záměrné plánování.
-- **"confound" → „zmást“** (v7, 9) – hebrejsky בָּלַל *balal* = smísit / zmást. KJV „confound“ je přesné, ale archaické; slovní hříčka s *Bavel* (v9) výslovně zachována.
-- **„Babel“ – hebrejská etymologie zachována** (v9) – hebrejsky בָּבֶל *Bavel*. Slovní hříčka: *Bavel* ← *balal* („zmást“). Akkadské jméno města je *Babili* = „brána boha“ (*bab-ili*); hebrejský text tuto prestižní etymologii podvrací posměšnou hříčkou. Původní babylonská teologie: nebeská brána. Izraelská protiteologie: zmatení. Uvedeno zde.
+- **„A“ na začátku vět ponecháno** (v celé kapitole) – hebrejsky וַ / וְ; řetěz vět se nemění v podřadná souvětí.
+- **"of one language, and of one speech" → „jednoho rtu a stejných slov“** (v1) – hebrejsky שָׂפָה אֶחָת וּדְבָרִים אֲחָדִים *sapha echat u-devarim achadim*, doslova „byla jeden ret a jedna slova“: שָׂפָה je „ret“ (orgán, zde o řeči; také v6, 7, 9), דְּבָרִים jsou „slova“ a אֲחָדִים je množné číslo od „jeden“ („stejná“, nebo „nemnohá“). „Jazyk“ by byl výklad slova „ret“.
+- **"people" nedoplněno** (v2) – hebrejština má jen „když táhli“; podmět není jmenován.
+- **"from the east" → „od východu“** (v2) – hebrejsky מִקֶּדֶם *miqqedem*; totéž slovo znamená ve 13:11 „na východ“, takže je možné i „když táhli na východ“.
+- **"it came to pass" → „I stalo se“** (v2) – hebrejsky וַיְהִי.
+- **"one to another" → „každý svému bližnímu“** (v3, 7) – hebrejsky אִישׁ אֶל־רֵעֵהוּ, doslova „muž svému bližnímu“.
+- **"Go to" → „Nuže“** (v3, 4, 7) – hebrejsky הָבָה *havah*, doslova „dej!“, pobídka.
+- **"burn them throughly" → „důkladně je vypalme“** (v3) – hebrejsky וְנִשְׂרְפָה לִשְׂרֵפָה, doslova „palme k pálení“; „je“ je doplněno, hebrejština předmět nemá. Také „nadělejme cihel“ je dvakrát týž kořen: נִלְבְּנָה לְבֵנִים „cihlujme cihly“.
+- **"slime… morter" → „asfalt… malta“** (v3) – hebrejsky חֵמָר *chemar* = asfalt / živice; חֹמֶר *chomer* = hlína, malta. Obě slova znějí podobně.
+- **"whose top may reach unto heaven" → „s vrcholem v nebesích“** (v4) – hebrejsky וְרֹאשׁוֹ בַשָּׁמַיִם, doslova „a její hlava v nebesích“; sloveso „sahat“ tu není.
+- **"let us make us a name" → „učiňme si jméno“** (v4) – hebrejsky וְנַעֲשֶׂה־לָּנוּ שֵׁם.
+- **"children of men" → „synové člověka“** (v5) – hebrejsky בְּנֵי הָאָדָם *bene ha-adam*, „synové člověka / lidstva“.
+- **"Behold, the people is one" → „Hle, jeden lid a jeden ret mají všichni“** (v6) – hebrejsky הֵן עַם אֶחָד וְשָׂפָה אַחַת לְכֻלָּם, věta bez slovesa.
+- **"this they begin to do" → „toto začínají činit“** (v6) – hebrejsky וְזֶה הַחִלָּם לַעֲשׂוֹת, doslova „a toto je jejich začátek činění“. Hebrejština nemá „teprve“.
+- **"nothing will be restrained from them" → „nebude jim odepřeno nic“** (v6) – hebrejsky לֹא־יִבָּצֵר מֵהֶם, nifal od בָּצַר „odříznout, učinit nepřístupným“ (jako Job 42:2); doslova „všechno, co si umíní učinit, jim nebude odepřeno“.
+- **"imagined" → „umíní si“** (v6) – hebrejsky זָמַם *zamam* = zamýšlet, umínit si. Nikoli *yetser* z 6:5 / 8:21.
+- **"confound their language" → „zmaťme jejich ret“** (v7, 9) – hebrejsky בָּלַל *balal*, doslova „smísit“.
+- **"understand" → „slyšet“** (v7) – hebrejsky שָׁמַע *shama*, „slyšet“; zde ve smyslu „rozumět“.
+- **"left off to build" → „přestali stavět“** (v8) – hebrejsky וַיַּחְדְּלוּ.
+- **"is the name of it called" → „bylo jeho jméno nazváno“** (v9) – hebrejsky קָרָא שְׁמָהּ, doslova „nazval (někdo) jeho jméno“.
+- **„Babel“ – slovní hříčka** (v9) – hebrejsky בָּבֶל *Bavel* se vysvětluje slovesem בָּלַל *balal* („smísit, zmást“): „bylo jeho jméno nazváno *Bavel*, neboť tam Yahweh *balal* ret celé země“. Akkadské jméno města je *Babili* = „brána boha“ (*bab-ili*).
+- **"begat" → „zplodil“** (v10–27) – hebrejsky וַיּוֹלֶד / הוֹלִיד, hifil od יָלַד, „zplodit“; תּוֹלְדֹת „rody“ (v10, 27) je od téhož kořene.
+- **"an hundred years old" → „bylo sto let a zplodil“** (v10) – hebrejsky בֶּן־מְאַת שָׁנָה וַיּוֹלֶד, doslova „syn sta let, a zplodil“; ne „když zplodil“.
+- **Čísla v běžném českém pořadí** (v12–32) – hebrejština klade menší číslo napřed a „let“ opakuje: v13 je doslova „tři roky a čtyři sta let“ (403), v12 „pět a třicet let“ (35). Pořadí nenese žádný význam.
+- **"before his father Terah" → „před tváří svého otce Teracha“** (v28) – hebrejsky עַל־פְּנֵי תֶּרַח אָבִיו, doslova „na tváři Teracha, svého otce“: ještě za života svého otce (nebo: časově před ním).
+- **"land of his nativity" → „země jeho příbuzenstva“** (v28) – hebrejsky מוֹלֶדֶת *moledet*, totéž slovo jako „tvé příbuzenstvo“ ve 12:1.
+- **"the father of Milcah, and the father of Iscah" → „otce Milky a otce Jisky“** (v29) – hebrejština אֲבִי opakuje.
+- **"his son's son" → „syn jeho syna“** (v31) – hebrejsky בֶּן־בְּנוֹ.
+- **"they went forth with them" → „vyšli s nimi“** (v31) – hebrejsky וַיֵּצְאוּ אִתָּם, tak masoretský text; kdo jsou „oni“ a „s nimi“, se neříká. Pro čtení „vyvedl je“ se běžně uvádí samaritánský text a Septuaginta (z paměti); MT ponechán.
+- **"they came unto Haran" → „přišli až do Charanu“** (v31) – hebrejsky עַד־חָרָן. Hebrejština má prosté „a přišli … a usadili se“, ne „ale když přišli“.
 - **Tvary jmen modernizovány**: „Arphaxad“ → „Arpachshad“, „Salah“ → „Shelah“. Viz poznámky ke Gen 10.
 
 ### Poznámky
 
-- **Stavba příběhu o Babelu** – sevřená chiastická kompozice (A. jeden jazyk / A'. rozptýleni / B. postavme město / B'. přestali stavět / C. Yahweh sestupuje / C'. Yahweh mate). Architektura zrcadlí to, co vypráví: vybudovaný monument, zásah Yahweh, rozptýlení.
-- **„Sestupme“ (v7)** – plurál, obdoba „učiňme lidstvo“ (1:26) a „jako jeden z nás“ (3:22). Platí tytéž překladové možnosti.
-- **Délka života dál klesá** – od kap. 5 (900 a více) ke kap. 11 (200 / 400) – vyprávěcí vzorec zkracování lidského života až k Abrahamovi (175) a dále k Mosesovi (120). Text snad naznačuje popotopní mravní / tělesné slábnutí.
-- **„Ur Chaldeanů“ (v28, 31)** – „Chaldeané“ (*Kasdim*) jako národ jsou v Mezopotámii doloženi teprve od 9. stol. př. n. l., staletí poté, kdy by žil Abraham. Často se chápe jako anachronická aktualizace pro pozdější publikum (Chaldeané byli v Mezopotámii rozhodující mocí v době, kdy text dostal svou konečnou podobu za novobabylonské říše). Poloha Uru je sporná: tradiční ztotožnění se sumerským Urem v jižní Mezopotámii; alternativa (Gordon, Cyrus) s Urem v oblasti Urfy / Haranu v severní Mezopotámii, blíže Haranu.
-- **Abram / Sarai / Haran** – tvary ponechány podle MT; změna jmen na Abraham / Sarah přichází v kap. 17.
+- **Stavba příběhu o Babelu** – sevřená chiastická kompozice (A. jeden ret / A'. rozptýleni / B. vystavme město / B'. přestali stavět / C. Yahweh sestupuje / C'. Yahweh mate). Architektura zrcadlí to, co vypráví: vybudovaný monument, zásah Yahweh, rozptýlení.
+- **„Sestupme“ (v7)** – plurál, obdoba „učiňme“ (1:26) a „jako jeden z nás“ (3:22). Platí tytéž překladové možnosti.
+- **Délka života dál klesá** – od kap. 5 (900 a více) ke kap. 11 (200 / 400) – vyprávěcí vzorec zkracování lidského života až k Abrahamovi (175) a dále k Mosesovi (120).
+- **Čísla** – údaje jsou údaje masoretského textu.
+- **„Ur Chaldeanů“ (v28, 31)** – „Chaldeané“ (*Kasdim*) jako národ jsou v Mezopotámii doloženi teprve od 9. stol. př. n. l., staletí poté, kdy by žil Abraham. Často se chápe jako anachronická aktualizace pro pozdější publikum. Poloha Uru je sporná: tradiční ztotožnění se sumerským Urem v jižní Mezopotámii; alternativa (Gordon, Cyrus) s Urem v oblasti Urfy / Haranu v severní Mezopotámii, blíže Haranu.
+- **Haran** (v26–31) – muž je הָרָן *Haran*, město (v31, 32) je חָרָן *Charan*: v hebrejštině dvě různá jména.
+- **Abram / Sarai** – tvary ponechány podle MT; změna jmen na Abraham / Sarah přichází v kap. 17.

@@ -1,102 +1,124 @@
 # Genesis 18
 
-[1] ⟦yhwh|Yahweh|The LORD⟧ appeared to him by the oaks of Mamre, as he was sitting at the entrance of his tent in the heat of the day.
+[1] And ⟦yhwh|Yahweh|the LORD⟧ appeared to him by the oaks of Mamre, and he was sitting at the entrance of the tent in the heat of the day.
 
-[2] He lifted up his eyes and looked, and behold, three men were standing in front of him. When he saw them, he ran from the tent entrance to meet them, and bowed himself to the ground,
+[2] And he lifted up his eyes and saw, and behold, three men standing by him; and he saw, and ran to meet them from the entrance of the tent, and bowed down to the earth,
 
-[3] and said, "⟦adonai|Adonai|My lord⟧, if I have found favor in your sight, please do not pass by your servant.
+[3] and said, "⟦adonai|Adonai|Lord⟧, if now I have found favor in your eyes, please do not pass on from your servant.
 
-[4] Let a little water be brought, and wash your feet, and rest under the tree;
+[4] Let a little water, please, be taken, and wash your feet, and recline under the tree;
 
-[5] and let me bring a morsel of bread, that you may refresh yourselves; after that you may pass on, since you have come to your servant." And they said, "Do as you have said."
+[5] and let me take a morsel of bread, and sustain your heart; afterward you may pass on — for therefore you have passed by your servant." And they said, "So do, as you have spoken."
 
-[6] Then ⟦abraham|Avraham|Abraham⟧ hurried into the tent to Sarah and said, "Quickly, three seahs of fine flour! Knead it, and make cakes."
+[6] And ⟦abraham|Avraham|Abraham⟧ hastened to the tent, to Sarah, and said, "Hasten three seahs of flour, fine flour; knead, and make cakes."
 
-[7] And ⟦abraham|Avraham|Abraham⟧ ran to the herd, took a calf, tender and good, and gave it to the servant, who hurried to prepare it.
+[7] And to the herd ⟦abraham|Avraham|Abraham⟧ ran, and he took a calf, tender and good, and gave it to the young man, and he hastened to prepare it.
 
-[8] He took curds and milk and the calf that he had prepared, and set it before them; and he stood by them under the tree while they ate.
+[8] And he took curds and milk and the calf that he had prepared, and set them before them; and he was standing by them under the tree, and they ate.
 
-[9] They said to him, "Where is Sarah your wife?" And he said, "Here, in the tent."
+[9] And they said to him, "Where is Sarah your wife?" And he said, "Behold, in the tent."
 
-[10] He said, "I will surely return to you about this time next year, and Sarah your wife shall have a son." And Sarah was listening at the tent entrance behind him.
+[10] And he said, "I will surely return to you about this time next year, and behold, a son for Sarah your wife." And Sarah was hearing at the entrance of the tent, and it was behind him.
 
-[11] Now ⟦abraham|Avraham|Abraham⟧ and Sarah were old, advanced in age; it had ceased to be with Sarah after the manner of women.
+[11] And ⟦abraham|Avraham|Abraham⟧ and Sarah were old, advanced in days; the way of women had ceased to be with Sarah.
 
-[12] So Sarah laughed within herself, saying, "After I am worn out, and my lord is old, shall I have pleasure?"
+[12] And Sarah laughed within herself, saying, "After I am worn out, has pleasure come to me? And my lord is old."
 
-[13] ⟦yhwh|Yahweh|The LORD⟧ said to ⟦abraham|Avraham|Abraham⟧, "Why did Sarah laugh, saying, 'Shall I really bear a child, now that I am old?'
+[13] And ⟦yhwh|Yahweh|the LORD⟧ said to ⟦abraham|Avraham|Abraham⟧, "Why is this, that Sarah laughed, saying, 'Shall I indeed truly bear, and I have grown old?'
 
-[14] Is anything too wondrous for ⟦yhwh|Yahweh|the LORD⟧? At the appointed time I will return to you, about this time next year, and Sarah shall have a son."
+[14] Is any thing too wonderful for ⟦yhwh|Yahweh|the LORD⟧? At the appointed time I will return to you, about this time next year, and for Sarah a son."
 
-[15] But Sarah denied it, saying, "I did not laugh" — for she was afraid. He said, "No, but you did laugh."
+[15] And Sarah denied, saying, "I did not laugh," for she feared. And he said, "No, but you did laugh."
 
-[16] Then the men rose up from there and looked down toward ⟦sodom|Sedom|Sodom⟧; and ⟦abraham|Avraham|Abraham⟧ went with them to set them on their way.
+[16] And the men rose up from there and looked down over the face of ⟦sodom|Sedom|Sodom⟧; and ⟦abraham|Avraham|Abraham⟧ was going with them to send them off.
 
-[17] ⟦yhwh|Yahweh|The LORD⟧ said, "Shall I hide from ⟦abraham|Avraham|Abraham⟧ what I am about to do,
+[17] And ⟦yhwh|Yahweh|the LORD⟧ said, "Am I hiding from ⟦abraham|Avraham|Abraham⟧ what I am doing?
 
-[18] seeing that ⟦abraham|Avraham|Abraham⟧ shall surely become a great and mighty nation, and all the nations of the earth shall find blessing in him?
+[18] And ⟦abraham|Avraham|Abraham⟧ shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him.
 
-[19] For I have chosen him, so that he may command his children and his household after him, to keep the way of ⟦yhwh|Yahweh|the LORD⟧ by doing righteousness and justice — so that ⟦yhwh|Yahweh|the LORD⟧ may bring upon ⟦abraham|Avraham|Abraham⟧ what he has spoken concerning him."
+[19] For I have known him, so that he may command his sons and his house after him, and they shall keep the way of ⟦yhwh|Yahweh|the LORD⟧, to do righteousness and judgment — so that ⟦yhwh|Yahweh|the LORD⟧ may bring upon ⟦abraham|Avraham|Abraham⟧ what he has spoken concerning him."
 
-[20] Then ⟦yhwh|Yahweh|the LORD⟧ said, "The outcry against ⟦sodom|Sedom|Sodom⟧ and ⟦gomorrah|Amorah|Gomorrah⟧ is great, and their sin is very grave.
+[20] And ⟦yhwh|Yahweh|the LORD⟧ said, "The outcry of ⟦sodom|Sedom|Sodom⟧ and ⟦gomorrah|Amorah|Gomorrah⟧ is indeed great, and their sin is indeed very heavy.
 
-[21] Let me go down now and see whether they have done altogether according to the outcry that has come to me; and if not, I will know."
+[21] Let me go down, please, and see whether they have done altogether according to its outcry that has come to me; and if not, I will know."
 
-[22] So the men turned from there and went toward ⟦sodom|Sedom|Sodom⟧, but ⟦abraham|Avraham|Abraham⟧ remained standing before ⟦yhwh|Yahweh|the LORD⟧.
+[22] And the men turned from there and went toward ⟦sodom|Sedom|Sodom⟧, and ⟦abraham|Avraham|Abraham⟧ was still standing before ⟦yhwh|Yahweh|the LORD⟧.
 
-[23] Then ⟦abraham|Avraham|Abraham⟧ drew near and said, "Will you indeed sweep away the righteous with the wicked?
+[23] And ⟦abraham|Avraham|Abraham⟧ drew near and said, "Will you indeed sweep away the righteous with the wicked?
 
-[24] Suppose there are fifty righteous within the city; will you then sweep it away and not spare the place for the sake of the fifty righteous who are in it?
+[24] Perhaps there are fifty righteous in the midst of the city; will you indeed sweep away and not forgive the place on account of the fifty righteous who are within it?
 
-[25] Far be it from you to do such a thing, to kill the righteous with the wicked, so that the righteous fare as the wicked! Far be it from you! Shall not the Judge of all the earth do justice?"
+[25] Far be it from you to do such a thing as this, to put to death the righteous with the wicked, so that the righteous should be as the wicked! Far be it from you! Shall the Judge of all the earth not do judgment?"
 
-[26] ⟦yhwh|Yahweh|The LORD⟧ said, "If I find fifty righteous in the city of ⟦sodom|Sedom|Sodom⟧, I will spare the whole place for their sake."
+[26] And ⟦yhwh|Yahweh|the LORD⟧ said, "If I find in ⟦sodom|Sedom|Sodom⟧ fifty righteous in the midst of the city, then I will forgive the whole place for their sake."
 
-[27] ⟦abraham|Avraham|Abraham⟧ answered and said, "Behold now, I have taken it upon myself to speak to ⟦adonai|Adonai|the Lord⟧, though I am but dust and ashes.
+[27] And ⟦abraham|Avraham|Abraham⟧ answered and said, "Behold now, I have undertaken to speak to ⟦adonai|Adonai|the Lord⟧, and I am dust and ashes.
 
-[28] Suppose five of the fifty righteous are lacking; will you destroy the whole city for the lack of five?" And he said, "I will not destroy it if I find forty-five there."
+[28] Perhaps the fifty righteous will lack five; will you ruin the whole city for the five?" And he said, "I will not ruin it, if I find there forty-five."
 
-[29] And again he spoke to him and said, "Suppose forty are found there." He said, "For the sake of forty I will not do it."
+[29] And he added yet again to speak to him, and said, "Perhaps forty will be found there." And he said, "I will not do it, for the sake of the forty."
 
-[30] Then he said, "Oh, let ⟦adonai|Adonai|the Lord⟧ not be angry, and I will speak: suppose thirty are found there." He said, "I will not do it if I find thirty there."
+[30] And he said, "Please let ⟦adonai|Adonai|the Lord⟧ not burn with anger, and let me speak: perhaps thirty will be found there." And he said, "I will not do it, if I find thirty there."
 
-[31] He said, "Behold now, I have taken it upon myself to speak to ⟦adonai|Adonai|the Lord⟧: suppose twenty are found there." He said, "For the sake of twenty I will not destroy it."
+[31] And he said, "Behold now, I have undertaken to speak to ⟦adonai|Adonai|the Lord⟧: perhaps twenty will be found there." And he said, "I will not ruin it, for the sake of the twenty."
 
-[32] Then he said, "Oh, let ⟦adonai|Adonai|the Lord⟧ not be angry, and I will speak only this once more: suppose ten are found there." He said, "For the sake of ten I will not destroy it."
+[32] And he said, "Please let ⟦adonai|Adonai|the Lord⟧ not burn with anger, and let me speak only this once: perhaps ten will be found there." And he said, "I will not ruin it, for the sake of the ten."
 
-[33] And ⟦yhwh|Yahweh|the LORD⟧ went his way, as soon as he had finished speaking to ⟦abraham|Avraham|Abraham⟧; and ⟦abraham|Avraham|Abraham⟧ returned to his place.
+[33] And ⟦yhwh|Yahweh|the LORD⟧ went, when he had finished speaking to ⟦abraham|Avraham|Abraham⟧; and ⟦abraham|Avraham|Abraham⟧ returned to his place.
 
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"plains of Mamre" → "oaks of Mamre"** (v1) — as in 13:18. Hebrew אֵלֹנֵי *eloney*.
-- **"tent door" → "tent entrance"** (v1, 2, 10) — Hebrew פֶּתַח הָאֹהֶל *petach ha-ohel*. Tent flap / doorway, not a "door" in the architectural sense.
-- **"three men" (v2)** — Hebrew שְׁלֹשָׁה אֲנָשִׁים *sheloshah anashim*. Identity: Yahweh with two *mal'akhim* (messengers) — the narrator blurs the two groups; v13 has "Yahweh said to Abraham"; 19:1 shifts to "the two messengers came to Sodom"; Yahweh speaks in v33.
-- **"My Lord" → "my lord"** (v3) — Hebrew אֲדֹנָי *Adonai*. Here the MT is pointed as the divine address, though grammatically ambiguous. Read as honorific address to the senior visitor, commonly interpreted as Abraham addressing Yahweh among the three. Preserved with lowercase to reflect the ambiguity at the narrative moment (Abraham does not yet know who the visitors are).
-- **"comfort ye your hearts" → "refresh yourselves"** (v5) — Hebrew וְסַעֲדוּ לִבְּכֶם *we-sa'adu libbekhem*. *Sa'ad* = sustain / support; combined with "heart" = fortify / take refreshment. "Comfort" misleads modern readers toward emotional comfort.
-- **"three measures" → "three seahs"** (v6) — Hebrew שְׁלֹשׁ סְאִים *shelosh se'im*. *Se'ah* = specific volume measure (roughly 7–14 liters, depending on dating). Preserved as the technical measure rather than the generic "measure."
-- **"cakes upon the hearth" → "cakes"** (v6) — Hebrew עֻגוֹת *ugot* = round flat cakes / bread-cakes. KJV adds "upon the hearth" to clarify; unnecessary in modern usage.
-- **"butter" → "curds"** (v8) — Hebrew חֶמְאָה *chem'ah*. Likely curdled milk / yogurt-like fermented dairy, not churned butter in the modern sense.
-- **"according to the time of life" → "about this time next year"** (v10, 14) — Hebrew כָּעֵת חַיָּה *ka'et chayyah*. Idiom: "at the time of life / living time" = at this season next year, when life (the child) shall be. KJV literalism opaque; idiom clarified.
-- **"well stricken in age" → "advanced in age"** (v11) — Hebrew בָּאִים בַּיָּמִים *ba'im ba-yamim* = "entering into the days" (advanced in years). Modernized idiom.
-- **"after the manner of women" (v11)** — Hebrew אֹרַח כַּנָּשִׁים *orach ka-nashim* = "the way of women" = menstrual cycle. Preserved literally.
-- **"laughed within herself" (v12)** — Hebrew וַתִּצְחַק שָׂרָה בְּקִרְבָּהּ — Sarah laughs; *tsachaq* = same root as Isaac (יִצְחָק). Explicit foreshadowing of 21:6.
-- **"waxed old" → "worn out"** (v12) — Hebrew בְלֹתִי *veloti* = worn out / decayed (body). Stronger than "old"; points to sexual impossibility.
-- **"have pleasure" — Sarah's candor** (v12) — Hebrew עֶדְנָה *ednah* (hapax legomenon) from root עדן, same as Eden — "pleasure / luxuriance." Likely sexual pleasure / fertility-pleasure. Abraham's "old" (*zaqen*) in same sentence underscores the impossibility.
-- **"too hard" → "too wondrous"** (v14) — Hebrew הֲיִפָּלֵא *ha-yippale* from *pele* = wonder / marvel / impossible for mortals. Divine miracle-register, not merely "difficult."
-- **"nay; but thou didst laugh" → "No, but you did laugh"** (v15) — modernized.
-- **"bring them on the way" → "set them on their way"** (v16) — Hebrew לְשַׁלְּחָם *le-shallecham* = to send them off / escort a guest on departure. Ancient hospitality custom.
-- **"blessed in him" → "find blessing in him"** (v18) — as in 12:3. Niphal ambiguity between passive and reflexive preserved.
-- **"I know him" → "I have chosen him"** (v19) — Hebrew יְדַעְתִּיו *yeda'tiv*. *Yada* (know) in covenant contexts carries the sense of "acknowledge / choose / elect" (cf. Amos 3:2 "you only have I *known* of all the families of the earth"). KJV "I know him" underreads this covenantal election.
-- **"justice and judgment" → "righteousness and justice"** (v19) — Hebrew צְדָקָה וּמִשְׁפָּט *tsedaqah u-mishpat*. The paradigmatic ethical pair in the Hebrew Bible (cf. Ps 33:5, Isa 1:27). *Tsedaqah* = right-relatedness / justice as faithfulness; *mishpat* = judgment / legal process. KJV's order reverses the Hebrew and confuses the two terms. Corrected.
-- **"grievous" → "grave"** (v20) — Hebrew כָבְדָה *kavedah* = heavy. Modernized.
-- **"the cry" → "the outcry"** (v20, 21) — Hebrew זַעֲקָה *za'aqah* = cry of distress / protest / anguish. Likely: the cry of the victims of Sodom's violence, rising to Yahweh. Not Sodom's own cry of sin, but the wronged's protest.
-- **"that be far from thee" → "Far be it from you"** (v25) — Hebrew חָלִלָה לְּךָ *chalilah lekha* = an emphatic negation / protestation. Idiom modernized.
-- **"Judge of all the earth" (v25)** — Hebrew שֹׁפֵט כָּל־הָאָרֶץ *shofet kol-ha-aretz*. *Shofet* = judge / governor / ruler-dispenser of justice. Abraham's legal-theological question: shall the universal Judge himself fail at justice?
-- **"Peradventure" → "Suppose"** (v24, 28, 29, 30, 31, 32) — Hebrew אוּלַי *ulai* = perhaps / suppose. "Peradventure" archaic.
-- **"communing with" → "speaking to"** (v33) — Hebrew לְדַבֵּר *le-daber* = simply "to speak." "Communing" romanticizes.
+- **"And" kept** (throughout) — Hebrew וַ / וְ at the head of each clause; the clauses are not joined into "when", "then", "so".
+- **"plains of Mamre" → "oaks of Mamre"** (v1) — as in 13:18. Hebrew אֵלֹנֵי *eloney*, a great tree; the kind is not certain.
+- **"tent door" → "entrance of the tent"** (v1, 2, 10) — Hebrew פֶּתַח הָאֹהֶל *petach ha-ohel*, the opening; "the tent", not "his tent".
+- **"three men" (v2)** — Hebrew שְׁלֹשָׁה אֲנָשִׁים *sheloshah anashim*. The chapter says "Yahweh appeared" (v1), "three men" (v2), "they said" (v5, 9), "he said" (v10), "Yahweh said" (v13); "the men" go on to Sodom while Abraham stands before Yahweh (v22), and "the two angels" come to Sodom (19:1). The text does not explain how the three and Yahweh belong together; it is left as written. "Standing by him": נִצָּבִים עָלָיו, literally "over him".
+- **"My Lord" → "Adonai"** (v3) — Hebrew אֲדֹנָי *Adonai*, translated exactly as the Masoretic Text points it: with the long vowel (qamets) that is used when the word names God. "My lords", said to men, would be pointed אֲדֹנַי (so 19:2), and "my lord", said to one man, אֲדֹנִי (so v12). The consonants are the same in all three; the vowel points were written down long after the consonants and give the reading tradition.
+- **Singular and plural** (v3–5) — in v3 "your eyes", "do not pass on" and "your servant" are singular: one is addressed. In v4–5 "wash", "your feet", "recline", "sustain your heart", "you may pass on", "you have passed by", "your servant" are all plural: the three are addressed. The Hebrew shift is kept; English "you" does not show it.
+- **"bowed himself toward the ground" → "bowed down to the earth"** (v2) — Hebrew וַיִּשְׁתַּחוּ אָרְצָה; the same verb is used of bowing to men and to God.
+- **"thy servant"** (v3, 5) — Hebrew עֶבֶד *eved*, "slave / servant", here the polite word of a speaker for himself.
+- **"be fetched" → "be taken"; "fetch" → "take"** (v4, 5) — Hebrew לָקַח "take", one verb (also v7, 8).
+- **"rest yourselves" → "recline"** (v4) — Hebrew וְהִשָּׁעֲנוּ, literally "lean yourselves".
+- **"comfort ye your hearts" → "sustain your heart"** (v5) — Hebrew וְסַעֲדוּ לִבְּכֶם *we-sa'adu libbekhem*, a command. *Sa'ad* = sustain / support; "heart" is singular.
+- **"for therefore are ye come to your servant" → "for therefore you have passed by your servant"** (v5) — Hebrew כִּי־עַל־כֵּן עֲבַרְתֶּם עַל־עַבְדְּכֶם; the verb עָבַר "pass" is the same as in v3 and "pass on" in v5.
+- **"Make ready quickly" → "Hasten"** (v6, 7) — Hebrew מִהַר "hasten", three times in v6–7. "Three seahs of flour, fine flour": קֶמַח סֹלֶת, two nouns. *Se'ah* = a measure of volume (its size is not certain, roughly 7–14 liters). "Knead" has no object.
+- **"cakes upon the hearth" → "cakes"** (v6) — Hebrew עֻגוֹת *ugot* = round flat cakes of bread. "Upon the hearth" is not in the Hebrew.
+- **"a young man"** (v7) — Hebrew הַנַּעַר *ha-na'ar*, "the boy", here an attendant. "Calf": בֶּן־בָּקָר, literally "a son of the herd". "Prepare": עָשָׂה "make / do".
+- **"butter" → "curds"** (v8) — Hebrew חֶמְאָה *chem'ah*. Likely curdled milk, not churned butter.
+- **"according to the time of life" → "about this time next year"** (v10, 14) — Hebrew כָּעֵת חַיָּה *ka'et chayyah*, literally "at the living time". The expression is found only here and in 2 Kgs 4:16–17; it is commonly understood as "when this time lives again" = a year from now (cf. 17:21 "in the next year"). The sense is not certain.
+- **"Sarah thy wife shall have a son" → "behold, a son for Sarah your wife"** (v10, 14) — Hebrew וְהִנֵּה־בֵן לְשָׂרָה אִשְׁתֶּךָ, no verb; v14 וּלְשָׂרָה בֵן "and for Sarah a son".
+- **"which was behind him" → "and it was behind him"** (v10) — Hebrew וְהוּא אַחֲרָיו: "it" (the entrance) was behind him (the speaker).
+- **"well stricken in age" → "advanced in days"** (v11) — Hebrew בָּאִים בַּיָּמִים *ba'im ba-yamim* = "gone into the days".
+- **"after the manner of women" → "the way of women"** (v11) — Hebrew אֹרַח כַּנָּשִׁים *orach ka-nashim*, literally "a way as of women" = the monthly cycle.
+- **"laughed within herself" (v12)** — Hebrew וַתִּצְחַק שָׂרָה בְּקִרְבָּהּ; *tsachaq* = same root as Isaac (יִצְחָק), as 17:17 and 21:6.
+- **"waxed old" → "worn out"** (v12) — Hebrew בְלֹתִי *veloti* = worn out, as of a garment. A different word from "old" (זָקֵן) at the end of the verse.
+- **"shall I have pleasure" → "has pleasure come to me?"** (v12) — Hebrew הָיְתָה־לִּי עֶדְנָה, a perfect: "there has been pleasure to me". The Hebrew has no question word; it can be read as a question or as an astonished statement. עֶדְנָה *ednah* is found only here; it is from the root עדן "delight" (as the name Eden) and means pleasure / delight. Whether the pleasure of the marriage bed or the delight of having a child is meant, the word does not say.
+- **"Wherefore did Sarah laugh" → "Why is this, that Sarah laughed"** (v13) — Hebrew לָמָּה זֶּה. Yahweh's report of her words is not word for word: "and I have grown old" (וַאֲנִי זָקַנְתִּי) stands for "and my lord is old". "Bear" has no object.
+- **"too hard" → "too wonderful"** (v14) — Hebrew הֲיִפָּלֵא *ha-yippale* from *pele* = wonder. דָּבָר *davar* is "word" or "thing".
+- **"for she was afraid" → "for she feared"** (v15) — Hebrew יָרֵאָה.
+- **"looked toward Sodom" → "looked down over the face of Sodom"** (v16) — Hebrew וַיַּשְׁקִפוּ עַל־פְּנֵי סְדֹם.
+- **"bring them on the way" → "send them off"** (v16) — Hebrew לְשַׁלְּחָם *le-shallecham*, literally "to send them away": to see a guest off.
+- **"Shall I hide … that thing which I do" → "Am I hiding … what I am doing?"** (v17) — Hebrew participles: הַמְכַסֶּה אֲנִי … אֲשֶׁר אֲנִי עֹשֶׂה. "Hide": literally "cover".
+- **"seeing that Abraham shall surely become" → "And Abraham shall surely become"** (v18) — Hebrew וְאַבְרָהָם הָיוֹ יִהְיֶה, "and"; the infinitive absolute with its verb, literally "being he shall be".
+- **"blessed in him" kept** (v18) — Hebrew וְנִבְרְכוּ בוֹ, a niphal, as in 12:3: "shall be blessed" (it may also be read "shall bless themselves").
+- **"I know him" → "I have known him"** (v19) — Hebrew יְדַעְתִּיו *yeda'tiv*, a perfect of יָדַע "know". "Know" here is more than knowing about: to know a person, to have regard for him (cf. Amos 3:2 "you only have I *known* of all the families of the earth"). It is often translated "I have chosen him"; the Hebrew word is "know" and is kept.
+- **"his children and his household" → "his sons and his house"** (v19) — Hebrew בָּנָיו … בֵּיתוֹ.
+- **"justice and judgment" → "righteousness and judgment"** (v19) — Hebrew צְדָקָה וּמִשְׁפָּט *tsedaqah u-mishpat*, in the Hebrew order. מִשְׁפָּט *mishpat* is "judgment" also in v25, where it stands beside "Judge" (שֹׁפֵט), the same root.
+- **"Because the cry of Sodom and Gomorrah is great" → "The outcry of Sodom and Gomorrah is indeed great"** (v20) — Hebrew זַעֲקַת סְדֹם וַעֲמֹרָה כִּי־רָבָּה. כִּי is "because" or "indeed". "Outcry of" is a genitive: the cry about them, or the cry that comes from them (of those wronged in them). "Heavy": כָבְדָה.
+- **"I will go down now" → "Let me go down, please"** (v21) — Hebrew אֵרֲדָה־נָּא, a cohortative with נָא; so also "I will know" (אֵדָעָה). "Its outcry": the suffix is feminine singular (of the city). "Done altogether": עָשׂוּ כָּלָה, literally "made a full end".
+- **"Abraham stood yet before the LORD"** (v22) — the Masoretic Text as it stands. An old scribal tradition (the "corrections of the scribes") says that the verse first read "Yahweh was still standing before Abraham" (from memory; the tools here do not show it). The Masoretic Text is kept.
+- **"destroy" → "sweep away"** (v23, 24) — Hebrew סָפָה. A different verb from "ruin" (v28, 31, 32).
+- **"Peradventure" → "Perhaps"** (v24, 28, 29, 30, 31, 32) — Hebrew אוּלַי *ulai*.
+- **"spare the place" → "forgive the place"** (v24, 26) — Hebrew תִשָּׂא לַמָּקוֹם, literally "lift up for the place": נָשָׂא, the verb of lifting away guilt. "On account of" (v24) is לְמַעַן; "for the sake of" (v26, 29, 31, 32) is בַּעֲבוּר.
+- **"that be far from thee" → "Far be it from you"** (v25) — Hebrew חָלִלָה לְּךָ *chalilah lekha*. "Such a thing as this": כַּדָּבָר הַזֶּה. "Slay" → "put to death" (לְהָמִית).
+- **"do right" → "do judgment"** (v25) — Hebrew הֲשֹׁפֵט כָּל־הָאָרֶץ לֹא יַעֲשֶׂה מִשְׁפָּט. *Shofet* (judge) and *mishpat* (judgment) are one root.
+- **"I have taken upon me" → "I have undertaken"** (v27, 31) — Hebrew הוֹאַלְתִּי. "Which am but dust and ashes" → "and I am dust and ashes": וְאָנֹכִי עָפָר וָאֵפֶר; "but" is not in the Hebrew.
+- **"the Lord" → "Adonai"** (v27, 30, 31, 32) — Hebrew אֲדֹנָי, pointed as in v3.
+- **"destroy" → "ruin"** (v28, 31, 32) — Hebrew הִשְׁחִית, the verb of 6:13 and 19:13. "For lack of five" → "for the five": בַּחֲמִשָּׁה. "It" after "ruin" and "do" is supplied; the Hebrew has no object. "Forty-five": in Hebrew "forty and five".
+- **"Oh let not the Lord be angry" → "Please let Adonai not burn with anger"** (v30, 32) — Hebrew אַל־נָא יִחַר לַאדֹנָי, literally "let it not, please, burn to Adonai". "And let me speak": a cohortative.
+- **"communing with" → "speaking to"** (v33) — Hebrew לְדַבֵּר *le-dabber* = simply "to speak."
 
 ### Notes
 
-- **Abraham's intercession (v22–33)** — the first instance in the Bible of a human arguing with God for mercy over justice. Abraham does not question Yahweh's right to judge but appeals to Yahweh's own character ("shall not the Judge of all the earth do justice?"). Note that Abraham descends from 50 to 10 but stops before reaching 1 — a narrative choice whose meaning has been much debated (mercy could not be contingent on a single righteous individual? Abraham's imagination limited?). Note also: Yahweh initiates the dialogue by not hiding the plan (v17–19); Abraham's standing is a covenantal access, not human presumption.
-- **Genre mixing** — the chapter moves from patriarchal hospitality tale (v1–15) to prophetic revelation (v16–21) to theological dialogue (v22–33). The same theophanic guest is host-guest, messenger, and judge in different registers.
+- **Abraham's intercession (v22–33)** — Abraham does not question Yahweh's right to judge but appeals to judgment itself ("Shall the Judge of all the earth not do judgment?"). Abraham goes down from 50 to 10 and stops there; the text does not say why. Yahweh opens the matter by not hiding what he is doing (v17–19).
+- **Three parts** — the chapter moves from the meal under the tree (v1–15) to Yahweh's word about Sodom (v16–21) to the dialogue (v22–33).

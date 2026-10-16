@@ -1,39 +1,50 @@
 # Zechariah 12
 
-[1] The oracle of the word of ⟦yhwh|Yahweh|the LORD⟧ concerning ⟦israel|Yisrael|Israel⟧: thus declares ⟦yhwh|Yahweh|the LORD⟧, who stretched out the heavens and founded the earth and formed the spirit of man within him:
+[1] The burden of the word of ⟦yhwh|Yahweh|the LORD⟧ upon ⟦israel|Yisrael|Israel⟧. Declares ⟦yhwh|Yahweh|the LORD⟧, who stretches out the heavens and founds the earth and forms the spirit of man within him:
 
-[2] "Behold, I am about to make ⟦jerusalem|Yerushalayim|Jerusalem⟧ a cup of staggering to all the surrounding peoples. The siege of ⟦jerusalem|Yerushalayim|Jerusalem⟧ will also be against ⟦judah|Yehudah|Judah⟧.
+[2] Behold, I am making ⟦jerusalem|Yerushalayim|Jerusalem⟧ a basin of reeling to all the peoples round about; and also upon ⟦judah|Yehudah|Judah⟧ it shall be, in the siege against ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[3] On that day I will make ⟦jerusalem|Yerushalayim|Jerusalem⟧ a heavy stone for all the peoples. All who lift it will surely hurt themselves. And all the nations of the earth will gather against it.
+[3] And it shall be in that day, I will make ⟦jerusalem|Yerushalayim|Jerusalem⟧ a stone of loading for all the peoples; all who load it shall surely be cut; and all the nations of the earth shall be gathered against her.
 
-[4] On that day, declares ⟦yhwh|Yahweh|the LORD⟧, I will strike every horse with panic, and its rider with madness. But for the sake of the house of ⟦judah|Yehudah|Judah⟧ I will keep my eyes open, when I strike every horse of the peoples with blindness.
+[4] In that day, declares ⟦yhwh|Yahweh|the LORD⟧, I will strike every horse with bewilderment and its rider with madness; and upon the house of ⟦judah|Yehudah|Judah⟧ I will open my eyes, and every horse of the peoples I will strike with blindness.
 
-[5] Then the clans of ⟦judah|Yehudah|Judah⟧ shall say to themselves, 'The inhabitants of ⟦jerusalem|Yerushalayim|Jerusalem⟧ have strength through ⟦yhwh|Yahweh|the LORD⟧ of Hosts, their ⟦elohim|Elohim|God⟧.'
+[5] And the chiefs of ⟦judah|Yehudah|Judah⟧ shall say in their heart, A strength to me are the inhabitants of ⟦jerusalem|Yerushalayim|Jerusalem⟧, in ⟦yhwh|Yahweh|the LORD⟧ of Hosts, their ⟦elohim|Elohim|God⟧.
 
-[6] "On that day I will make the clans of ⟦judah|Yehudah|Judah⟧ like a blazing pot in the midst of wood, like a flaming torch among sheaves. And they shall devour to the right and to the left all the surrounding peoples, while ⟦jerusalem|Yerushalayim|Jerusalem⟧ shall again be inhabited in its place, in ⟦jerusalem|Yerushalayim|Jerusalem⟧.
+[6] In that day I will make the chiefs of ⟦judah|Yehudah|Judah⟧ like a basin of fire among wood and like a torch of fire among sheaves; and they shall devour on the right and on the left all the peoples round about; and ⟦jerusalem|Yerushalayim|Jerusalem⟧ shall dwell again in her place, in ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[7] "And ⟦yhwh|Yahweh|the LORD⟧ will give salvation to the tents of ⟦judah|Yehudah|Judah⟧ first, that the glory of the house of David and the glory of the inhabitants of ⟦jerusalem|Yerushalayim|Jerusalem⟧ may not surpass that of ⟦judah|Yehudah|Judah⟧.
+[7] And ⟦yhwh|Yahweh|the LORD⟧ shall save the tents of ⟦judah|Yehudah|Judah⟧ at the first, so that the beauty of the house of David and the beauty of the inhabitant of ⟦jerusalem|Yerushalayim|Jerusalem⟧ may not grow great over ⟦judah|Yehudah|Judah⟧.
 
-[8] On that day ⟦yhwh|Yahweh|the LORD⟧ will protect the inhabitants of ⟦jerusalem|Yerushalayim|Jerusalem⟧, so that the feeblest among them on that day shall be like David, and the house of David shall be like ⟦elohim|Elohim|God⟧, like the messenger of ⟦yhwh|Yahweh|the LORD⟧ going before them.
+[8] In that day ⟦yhwh|Yahweh|the LORD⟧ shall shield the inhabitant of ⟦jerusalem|Yerushalayim|Jerusalem⟧; and the one who stumbles among them in that day shall be like David, and the house of David like ⟦elohim|Elohim|God⟧, like the angel of ⟦yhwh|Yahweh|the LORD⟧ before them.
 
-[9] And on that day I will seek to destroy all the nations that come against ⟦jerusalem|Yerushalayim|Jerusalem⟧.
+[9] And it shall be in that day, I will seek to destroy all the nations that come against ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[10] "And I will pour out on the house of David and the inhabitants of ⟦jerusalem|Yerushalayim|Jerusalem⟧ a spirit of grace and pleas for mercy, **so that, when they look on me, on him whom they have pierced, they shall mourn for him, as one mourns for an only child, and weep bitterly over him, as one weeps over a firstborn**.
+[10] And I will pour out upon the house of David and upon the inhabitant of ⟦jerusalem|Yerushalayim|Jerusalem⟧ a spirit of favor and pleas for favor; **and they shall look to me whom they pierced; and they shall lament over him as the lamenting over the only one, and there shall be bitterness over him as the bitterness over the firstborn**.
 
-[11] On that day the mourning in ⟦jerusalem|Yerushalayim|Jerusalem⟧ will be as great as the mourning for ⟦hadad-rimmon|Hadad-Rimmon|Hadad-rimmon⟧ in the plain of Megiddo.
+[11] In that day the lamenting in ⟦jerusalem|Yerushalayim|Jerusalem⟧ shall be great, as the lamenting of ⟦hadad-rimmon|Hadad-Rimmon|Hadad-rimmon⟧ in the plain of Megiddon.
 
-[12] The land shall mourn, each family by itself: the family of the house of David by itself, and their wives by themselves; the family of the house of ⟦nathan|Natan|Nathan⟧ by itself, and their wives by themselves;
+[12] And the land shall lament, clan by clan apart: the clan of the house of David apart, and their wives apart; the clan of the house of ⟦nathan|Natan|Nathan⟧ apart, and their wives apart;
 
-[13] the family of the house of Levi by itself, and their wives by themselves; the family of ⟦shimeites|Shimi|the Shimeites⟧ by itself, and their wives by themselves;
+[13] the clan of the house of Levi apart, and their wives apart; the clan of ⟦shimeites|Shimi|the Shimeites⟧ apart, and their wives apart;
 
-[14] and all the families that are left, each by itself, and their wives by themselves."
+[14] all the clans that are left, clan by clan apart, and their wives apart.
 
 ## Changes
 
-- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton יְהוָה rendered directly.
-- **"LORD of hosts" → "Yahweh of Hosts"** (v5) — Hebrew יְהוָה צְבָאוֹת *Yahweh Tzeva'ot*; the military-covenantal divine title preserved.
-- **"God" → "*Elohim*"** (vv5, 8) — Hebrew אֱלֹהִים *Elohim*; "Yahweh *Tzeva'ot*, their *Elohim*" and "the house of David shall be like *Elohim*."
-- **"angel of the LORD" → "messenger of Yahweh"** (v8) — Hebrew מַלְאַךְ יְהוָה *Malakh Yahweh*.
+- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
+- **"God" → "*Elohim*"** (v5, 8) — Hebrew *Elohim* preserved.
+- **Layout** — prose, as the Hebrew; the quotation marks are dropped: the Hebrew does not mark where the speech begins and ends.
+- **"The burden of the word of the LORD for Israel, saith the LORD, which stretcheth forth" → "The burden of the word of Yahweh upon Israel. Declares Yahweh, who stretches out … founds … forms"** (v1) — מַשָּׂא "burden" (the prophets' formula row; "oracle" is the usual modern rendering; the word is "what is lifted up"); עַל "upon, concerning"; נְאֻם "declares" (its row); נֹטֶה, יֹסֵד, יֹצֵר are participles: "who stretches out … founds … forms" (present, not past); יָצַר "form" (its row); רוּחַ "spirit" (its row); אָדָם "man".
+- **"a cup of trembling unto all the people round about, when they shall be in the siege both against Judah and against Jerusalem" → "a basin of reeling to all the peoples round about; and also upon Judah it shall be, in the siege against Jerusalem"** (v2) — סַף is "basin" or "threshold" (two words of one form, as its row; "basin, bowl" fits a drink); רַעַל "reeling" (only here as a noun; the sense, staggering from drink, is likely but not certain); עַמִּים plural "peoples". וְגַם עַל־יְהוּדָה יִהְיֶה בַמָּצוֹר עַל־יְרוּשָׁלִַם word for word: the subject of יִהְיֶה "it shall be" is not named (the cup, or the siege), and whether Judah is besieged with Jerusalem or takes part against it is open; nothing supplied.
+- **"On that day I will make … a burdensome stone … all that burden themselves with it shall be cut in pieces, though all the people of the earth be gathered together against it" → "And it shall be in that day, I will make … a stone of loading … all who load it shall surely be cut; and all the nations … shall be gathered against her"** (v3) — וְהָיָה בַּיּוֹם הַהוּא "And it shall be in that day" (the formula; וְהָיָה kept); אֶבֶן מַעֲמָסָה "a stone of loading" (מַעֲמָסָה only here, from עָמַס "load", its row), כָּל־עֹמְסֶיהָ "all who load it"; שָׂרוֹט יִשָּׂרֵטוּ infinitive absolute, lit. "cutting they shall be cut": "shall surely be cut" (שָׂרַט "cut", as Lev 21:5); וְנֶאֶסְפוּ "and they shall be gathered" (a statement, not "though"); גּוֹיֵי "nations".
+- **"with astonishment … I will open mine eyes upon the house of Judah" → "with bewilderment … upon the house of Judah I will open my eyes"** (v4) — תִּמָּהוֹן "bewilderment", שִׁגָּעוֹן "madness", עִוָּרוֹן "blindness": the three words of Deut 28:28, rendered as there; the Hebrew order (object first) kept; "for the sake of" is not in the Hebrew (עַל "upon").
+- **"the governors of Judah … The inhabitants of Jerusalem shall be my strength in the LORD of hosts their God" → "the chiefs of Judah … A strength to me are the inhabitants of Jerusalem, in Yahweh of Hosts, their Elohim"** (v5, 6) — אַלֻּפֵי "chiefs" (the אַלּוּף row, as of Edom; the pointing אַלְפֵי "clans, thousands" is also proposed: Changes only); בְּלִבָּם "in their heart"; אַמְצָה לִי, only here, a noun of אָמֵץ "be strong": "a strength to me" (verbless; whether the chiefs draw strength from the inhabitants, or the inhabitants have it in Yahweh, is open).
+- **"like an hearth of fire among the wood, and like a torch of fire in a sheaf … and Jerusalem shall be inhabited again in her own place" → "like a basin of fire among wood and like a torch of fire among sheaves … and Jerusalem shall dwell again in her place"** (v6) — כִּיּוֹר "basin" (its row; a pan holding fire); עָמִיר "sheaves" (collective); יָמִין / שְׂמֹאול "right / left" (here sides, not directions); וְיָשְׁבָה "shall dwell" (יָשַׁב row; the city stands for its people); תַּחְתֶּיהָ "in her place".
+- **"the glory of the house of David and the glory of the inhabitants of Jerusalem do not magnify themselves against Judah" → "the beauty … and the beauty of the inhabitant of Jerusalem may not grow great over Judah"** (v7) — תִּפְאֶרֶת "beauty" (reviewer row); בָּרִאשֹׁנָה "at the first" (its row); יֹשֵׁב singular "the inhabitant" (collective, as v8, 10); תִגְדַּל "grow great" (qal).
+- **"defend … he that is feeble among them … as God, as the angel of the LORD before them" → "shield … the one who stumbles among them … like Elohim, like the angel of Yahweh before them"** (v8) — יָגֵן "shield" (verb of מָגֵן "shield"); הַנִּכְשָׁל "the one who stumbles" (nifal participle of כָּשַׁל; "feeble" is the sense); כֵּאלֹהִים "like *Elohim*" (or "like divine beings": the plural form, as the אֱלֹהִים rows); מַלְאַךְ יְהוָה "the angel of Yahweh" (its row; the word is "messenger").
+- **"I will seek to destroy" → "And it shall be in that day, I will seek to destroy"** (v9) — וְהָיָה kept; הִשְׁמִיד "destroy" (its row).
+- **"the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his firstborn" → "a spirit of favor and pleas for favor; and they shall look to me whom they pierced; and they shall lament over him as the lamenting over the only one, and there shall be bitterness over him as the bitterness over the firstborn"** (v10) — חֵן "favor" (its row) and תַּחֲנוּנִים "pleas for favor" (its row; one root, so the pair keeps it); וְהִבִּיטוּ אֵלַי "they shall look to me" (הִבִּיט row; אֶל "to"); אֵת אֲשֶׁר־דָּקָרוּ "whom they pierced", as printed (דָּקַר "pierce", its row): the speaker is Yahweh, and the next clause goes on with "over him"; some Hebrew manuscripts read אֵלָיו "to him" (from memory), and John 19:37 quotes "they shall look on him whom they pierced" — the verse keeps the Masoretic "to me". סָפַד "lament" (its row), מִסְפֵּד "the lamenting" (noun); הַיָּחִיד "the only one" (its row: "son" is not in the word); וְהָמֵר … כְּהָמֵר infinitives of מָרַר hifil, "a making bitter": "there shall be bitterness … as the bitterness" ("there shall be" supplied for English); הַבְּכוֹר "the firstborn"; "his" is not in the Hebrew.
+- **"as the mourning of Hadadrimmon in the valley of Megiddon" → "as the lamenting of Hadad-rimmon in the plain of Megiddon"** (v11) — מִסְפַּד הֲדַד־רִמּוֹן "the lamenting of Hadad-rimmon": whether for a god of that name or at a place is not said; בִּקְעָה "plain" (its row); מְגִדּוֹן "Megiddon", the form printed (elsewhere מְגִדּוֹ).
+- **"every family apart" → "clan by clan apart"** (v12–14) — מִשְׁפָּחוֹת מִשְׁפָּחוֹת, lit. "clans, clans": "clan by clan"; מִשְׁפָּחָה "clan" (its row; not "family"); לְבָד "apart" each time; נְשֵׁיהֶם "their wives" (אִשָּׁה row); מִשְׁפַּחַת הַשִּׁמְעִי (v13) is the singular "the Shimite" with the article (the clan named from Shimei, Num 3:18, 21); v14 has no "and" at its head.
 
 ### Notes
-- **v10** — "him whom they have pierced": applied to Yeshua (John 19:37; Rev 1:7).
+- **v10** — John 19:37 quotes "they shall look on him whom they pierced" of Jesus' side pierced at the cross; Rev 1:7 also uses the verse. The Hebrew has "to me", with "over him" in the next clause.

@@ -1,102 +1,124 @@
 # Genesis 18
 
-[1] ⟦yhwh|Jahve|Hospodin⟧ se mu ukázal u dubů Mamre, když seděl ve vchodu svého stanu v denním horku.
+[1] A ⟦yhwh|Jahve|Hospodin⟧ se mu ukázal u dubů Mamre, a on seděl ve vchodu stanu za denního horka.
 
-[2] Pozvedl oči a podíval se, a hle, naproti němu stáli tři muži. Když je uviděl, vyběhl jim naproti ze vchodu stanu, poklonil se k zemi
+[2] A pozvedl oči a uviděl, a hle, tři muži stojí u něho; a uviděl a běžel jim vstříc od vchodu stanu a poklonil se k zemi
 
-[3] a řekl: „⟦adonai|Adonaji|Můj pane⟧, jestliže jsem nalezl přízeň v tvých očích, prosím, nepřecházej svého služebníka.
+[3] a řekl: „⟦adonai|Adonaji|Pane⟧, jestliže jsem, prosím, nalezl přízeň ve tvých očích, nepřejdi, prosím, kolem svého služebníka.
 
-[4] Ať se přinese trochu vody, umyjte si nohy a odpočiňte si pod stromem;
+[4] Ať se, prosím, vezme trochu vody, a umyjte si nohy a opřete se pod stromem;
 
-[5] a dovolte, ať přinesu sousto chleba, abyste se posilnili; potom můžete jít dál, když jste už k svému služebníkovi přišli.“ Odpověděli: „Udělej, jak jsi řekl.“
+[5] a ať vezmu sousto chleba, a posilněte své srdce; potom přejdete dál – vždyť proto jste přešli kolem svého služebníka.“ A řekli: „Učiň tak, jak jsi mluvil.“
 
-[6] Tu ⟦abraham|Avraham|Abraham⟧ spěchal do stanu k ⟦sarah|Saře|Sáře⟧ a řekl: „Rychle tři seahy jemné mouky! Uhněť ji a udělej placky.“
+[6] A ⟦abraham|Avraham|Abraham⟧ pospíšil do stanu k ⟦sarah|Saře|Sáře⟧ a řekl: „Pospěš, tři seahy mouky, jemné mouky; zadělej a udělej placky.“
 
-[7] A ⟦abraham|Avraham|Abraham⟧ běžel ke stádu, vzal tele, mladé a dobré, a dal je sluhovi, který spěchal, aby je připravil.
+[7] A ke skotu běžel ⟦abraham|Avraham|Abraham⟧ a vzal tele, křehké a dobré, a dal je mládenci, a ten pospíšil, aby je připravil.
 
-[8] Vzal tvaroh, mléko a tele, které připravil, a předložil jim to; a zatímco jedli, stál u nich pod stromem.
+[8] A vzal tvaroh a mléko a tele, které připravil, a položil to před ně; a on stál u nich pod stromem, a jedli.
 
-[9] Řekli mu: „Kde je ⟦sarah|Sara|Sára⟧, tvá žena?“ Odpověděl: „Tady, ve stanu.“
+[9] A řekli mu: „Kde je ⟦sarah|Sara|Sára⟧, tvá žena?“ A řekl: „Hle, ve stanu.“
 
-[10] Řekl: „Jistě se k tobě vrátím příštího roku touto dobou, a ⟦sarah|Sara|Sára⟧, tvá žena, bude mít syna.“ A ⟦sarah|Sara|Sára⟧ naslouchala ve vchodu stanu za ním.
+[10] A řekl: „Jistě se k tobě vrátím příštího roku touto dobou, a hle, syn pro ⟦sarah|Saru|Sáru⟧, tvou ženu.“ A ⟦sarah|Sara|Sára⟧ poslouchala ve vchodu stanu, a ten byl za ním.
 
-[11] ⟦abraham|Avraham|Abraham⟧ a ⟦sarah|Sara|Sára⟧ byli staří, pokročilého věku; ⟦sarah|Saře|Sáře⟧ už ustalo to, co bývá u žen.
+[11] A ⟦abraham|Avraham|Abraham⟧ a ⟦sarah|Sara|Sára⟧ byli staří, pokročilí ve dnech; ⟦sarah|Saře|Sáře⟧ přestal být běh, jaký mají ženy.
 
-[12] ⟦sarah|Sara|Sára⟧ se tedy v duchu zasmála: „Když už jsem opotřebovaná a můj pán je starý, mám mít rozkoš?“
+[12] A ⟦sarah|Sara|Sára⟧ se v nitru zasmála se slovy: „Poté, co jsem zchátrala, dostalo se mi rozkoše? A můj pán je starý.“
 
-[13] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦abraham|Avrahamovi|Abrahamovi⟧: „Proč se ⟦sarah|Sara|Sára⟧ zasmála a řekla: ‚Opravdu porodím dítě, když jsem stará?‘
+[13] A ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦abraham|Avrahamovi|Abrahamovi⟧: „Proč se to ⟦sarah|Sara|Sára⟧ zasmála se slovy: ‚Což opravdu vskutku porodím, a já jsem zestárla?‘
 
-[14] Je snad pro ⟦yhwh|Jahveho|Hospodina⟧ něco příliš podivuhodné? V určený čas se k tobě vrátím, příštího roku touto dobou, a ⟦sarah|Sara|Sára⟧ bude mít syna.“
+[14] Je pro ⟦yhwh|Jahveho|Hospodina⟧ nějaká věc příliš podivuhodná? V určeném čase se k tobě vrátím, příštího roku touto dobou, a pro ⟦sarah|Saru|Sáru⟧ syn.“
 
-[15] Ale ⟦sarah|Sara|Sára⟧ zapírala: „Nesmála jsem se“ – neboť se bála. Řekl: „Ne, ty ses smála.“
+[15] A ⟦sarah|Sara|Sára⟧ zapřela se slovy: „Nesmála jsem se,“ neboť se bála. A řekl: „Ne, ale smála ses.“
 
-[16] Potom muži odtud vstali a shlédli dolů k ⟦sodom|Sedomu|Sodomě⟧; a ⟦abraham|Avraham|Abraham⟧ šel s nimi, aby je vyprovodil.
+[16] A muži odtamtud vstali a shlédli na tvář ⟦sodom|Sedomu|Sodomy⟧; a ⟦abraham|Avraham|Abraham⟧ šel s nimi, aby je vyprovodil.
 
-[17] ⟦yhwh|Jahve|Hospodin⟧ řekl: „Mám skrýt před ⟦abraham|Avrahamem|Abrahamem⟧, co se chystám učinit,
+[17] A ⟦yhwh|Jahve|Hospodin⟧ řekl: „Skrývám snad před ⟦abraham|Avrahamem|Abrahamem⟧, co činím?
 
-[18] když se ⟦abraham|Avraham|Abraham⟧ jistě stane velikým a mocným národem a všechny národy země v něm naleznou požehnání?
+[18] A ⟦abraham|Avraham|Abraham⟧ se jistě stane velikým a mocným národem a budou v něm požehnány všechny národy země.
 
-[19] Neboť jsem si ho vyvolil, aby přikázal svým synům a svému domu po sobě zachovávat cestu ⟦yhwh|Jahveho|Hospodina⟧ konáním spravedlnosti a práva – aby ⟦yhwh|Jahve|Hospodin⟧ uvedl na ⟦abraham|Avrahama|Abrahama⟧ to, co o něm řekl.“
+[19] Neboť jsem ho poznal, aby přikázal svým synům a svému domu po sobě, a budou zachovávat cestu ⟦yhwh|Jahveho|Hospodina⟧, aby konali spravedlnost a soud – aby ⟦yhwh|Jahve|Hospodin⟧ uvedl na ⟦abraham|Avrahama|Abrahama⟧ to, co o něm mluvil.“
 
-[20] Potom ⟦yhwh|Jahve|Hospodin⟧ řekl: „Křik proti ⟦sodom|Sedomu|Sodomě⟧ a ⟦gomorrah|Amoře|Gomoře⟧ je veliký a jejich hřích je velmi těžký.
+[20] A ⟦yhwh|Jahve|Hospodin⟧ řekl: „Křik ⟦sodom|Sedomu|Sodomy⟧ a ⟦gomorrah|Amory|Gomory⟧ je vskutku veliký a jejich hřích je vskutku velmi těžký.
 
-[21] Sestoupím nyní a podívám se, zda jednali úplně podle křiku, který ke mně přišel; a jestliže ne, poznám to.“
+[21] Ať, prosím, sestoupím a uvidím, zda učinili zcela podle jeho křiku, který ke mně přišel; a jestliže ne, poznám to.“
 
-[22] Muži se tedy odtud obrátili a šli k ⟦sodom|Sedomu|Sodomě⟧, ale ⟦abraham|Avraham|Abraham⟧ zůstal stát před ⟦yhwh|Jahvem|Hospodinem⟧.
+[22] A muži se odtamtud obrátili a šli k ⟦sodom|Sedomu|Sodomě⟧, a ⟦abraham|Avraham|Abraham⟧ ještě stál před ⟦yhwh|Jahvem|Hospodinem⟧.
 
-[23] Tu ⟦abraham|Avraham|Abraham⟧ přistoupil a řekl: „Opravdu smeteš spravedlivého se zlovolným?
+[23] A ⟦abraham|Avraham|Abraham⟧ přistoupil a řekl: „Což opravdu smeteš spravedlivého s bezbožným?
 
-[24] Co když je ve městě padesát spravedlivých; smeteš je pak a neušetříš to místo kvůli padesáti spravedlivým, kteří jsou v něm?
+[24] Snad je uprostřed města padesát spravedlivých; což opravdu smeteš a neodpustíš tomu místu pro padesát spravedlivých, kteří jsou v něm?
 
-[25] Daleko od tebe, abys učinil něco takového, abys zabil spravedlivého se zlovolným, takže by se spravedlivému vedlo jako zlovolnému! Daleko od tebe! Což Soudce celé země nebude jednat spravedlivě?“
+[25] Daleko buď od tebe učinit takovou věc, usmrtit spravedlivého s bezbožným, takže by spravedlivý byl jako bezbožný! Daleko buď od tebe! Což Soudce celé země neučiní soud?“
 
-[26] ⟦yhwh|Jahve|Hospodin⟧ řekl: „Jestliže najdu v městě ⟦sodom|Sedomu|Sodomy⟧ padesát spravedlivých, ušetřím kvůli nim celé to místo.“
+[26] A ⟦yhwh|Jahve|Hospodin⟧ řekl: „Najdu-li v ⟦sodom|Sedomu|Sodomě⟧ padesát spravedlivých uprostřed města, odpustím kvůli nim celému tomu místu.“
 
-[27] ⟦abraham|Avraham|Abraham⟧ odpověděl: „Hle, odvážil jsem se mluvit k ⟦adonai|Adonaji|Pánu⟧, ačkoli jsem jen prach a popel.
+[27] A ⟦abraham|Avraham|Abraham⟧ odpověděl a řekl: „Hle, prosím, odvážil jsem se mluvit k ⟦adonai|Adonaji|Pánu⟧, a já jsem prach a popel.
 
-[28] Co když se z padesáti spravedlivých nedostává pěti; zničíš celé město kvůli chybějícím pěti?“ Řekl: „Nezničím ho, najdu-li jich tam čtyřicet pět.“
+[28] Snad bude padesáti spravedlivým chybět pět; zkazíš kvůli těm pěti celé město?“ A řekl: „Nezkazím je, najdu-li jich tam čtyřicet pět.“
 
-[29] A znovu k němu promluvil: „Co když se jich tam najde čtyřicet?“ Řekl: „Kvůli čtyřiceti to neučiním.“
+[29] A ještě dále k němu mluvil a řekl: „Snad se jich tam najde čtyřicet.“ A řekl: „Neučiním to kvůli těm čtyřiceti.“
 
-[30] Tu řekl: „Ať se prosím ⟦adonai|Adonaj|Pán⟧ nehněvá, a budu mluvit: co když se jich tam najde třicet?“ Řekl: „Neučiním to, najdu-li jich tam třicet.“
+[30] A řekl: „Ať, prosím, ⟦adonai|Adonaj|Pán⟧ nevzplane hněvem, a ať promluvím: snad se jich tam najde třicet.“ A řekl: „Neučiním to, najdu-li jich tam třicet.“
 
-[31] Řekl: „Hle, odvážil jsem se mluvit k ⟦adonai|Adonaji|Pánu⟧: co když se jich tam najde dvacet?“ Řekl: „Kvůli dvaceti ho nezničím.“
+[31] A řekl: „Hle, prosím, odvážil jsem se mluvit k ⟦adonai|Adonaji|Pánu⟧: snad se jich tam najde dvacet.“ A řekl: „Nezkazím je kvůli těm dvaceti.“
 
-[32] Tu řekl: „Ať se prosím ⟦adonai|Adonaj|Pán⟧ nehněvá, a promluvím už jen tentokrát: co když se jich tam najde deset?“ Řekl: „Kvůli deseti ho nezničím.“
+[32] A řekl: „Ať, prosím, ⟦adonai|Adonaj|Pán⟧ nevzplane hněvem, a ať promluvím už jen tentokrát: snad se jich tam najde deset.“ A řekl: „Nezkazím je kvůli těm deseti.“
 
-[33] A ⟦yhwh|Jahve|Hospodin⟧ odešel, jakmile domluvil s ⟦abraham|Avrahamem|Abrahamem⟧; a ⟦abraham|Avraham|Abraham⟧ se vrátil na své místo.
+[33] A ⟦yhwh|Jahve|Hospodin⟧ odešel, když domluvil k ⟦abraham|Avrahamovi|Abrahamovi⟧; a ⟦abraham|Avraham|Abraham⟧ se vrátil na své místo.
 
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – tetragram zachován.
-- **"plains of Mamre" → „duby Mamre“** (v1) – jako ve 13:18. Hebrejsky אֵלֹנֵי *eloney*.
-- **"tent door" → „vchod stanu“** (v1, 2, 10) – hebrejsky פֶּתַח הָאֹהֶל *petach ha-ohel*. Stanová chlopeň / vstup, ne „dveře“ v architektonickém smyslu.
-- **„tři muži“ (v2)** – hebrejsky שְׁלֹשָׁה אֲנָשִׁים *sheloshah anashim*. Totožnost: Yahweh se dvěma *mal'akhim* (posly) – vypravěč obě skupiny prolíná; ve v13 stojí „Yahweh řekl Abrahamovi“; v 19:1 přechod k „dva poslové přišli do Sodomu“; Yahweh mluví ve v33.
-- **"My Lord" → „můj pane“** (v3) – hebrejsky אֲדֹנָי *Adonai*. MT je zde vokalizován jako Boží oslovení, ačkoli gramaticky dvojznačně. Čteno jako uctivé oslovení nejstaršího návštěvníka, běžně vykládané jako Abrahamovo oslovení Yahweh mezi třemi. Zachováno s malým písmenem, aby se odrazila dvojznačnost ve vyprávěcím okamžiku (Abraham ještě neví, kdo návštěvníci jsou).
-- **"comfort ye your hearts" → „abyste se posilnili“** (v5) – hebrejsky וְסַעֲדוּ לִבְּכֶם *we-sa'adu libbekhem*. *Sa'ad* = podpírat / posilovat; ve spojení se „srdcem“ = posilnit se / občerstvit se. „Comfort“ svádí moderního čtenáře k citové útěše.
-- **"three measures" → „tři seahy“** (v6) – hebrejsky שְׁלֹשׁ סְאִים *shelosh se'im*. *Se'ah* = určitá objemová míra (zhruba 7–14 litrů podle datování). Zachováno jako odborná míra místo obecného „míra“.
-- **"cakes upon the hearth" → „placky“** (v6) – hebrejsky עֻגוֹת *ugot* = kulaté ploché placky / chlebové placky. KJV pro vyjasnění přidává „upon the hearth“ (na ohništi); v moderním užití zbytečné.
-- **"butter" → „tvaroh“** (v8) – hebrejsky חֶמְאָה *chem'ah*. Pravděpodobně sražené mléko / kvašený mléčný výrobek podobný jogurtu, ne stloukané máslo v moderním smyslu.
-- **"according to the time of life" → „příštího roku touto dobou“** (v10, 14) – hebrejsky כָּעֵת חַיָּה *ka'et chayyah*. Idiom: „v čase života / v živém čase“ = příštího roku v tuto dobu, kdy bude život (dítě). Doslovnost KJV je nesrozumitelná; idiom vyjasněn.
-- **"well stricken in age" → „pokročilého věku“** (v11) – hebrejsky בָּאִים בַּיָּמִים *ba'im ba-yamim* = „vcházející do dnů“ (pokročilí v letech). Idiom modernizován.
-- **„to, co bývá u žen“ (v11)** – hebrejsky אֹרַח כַּנָּשִׁים *orach ka-nashim* = „cesta žen“ = menstruační cyklus. Zachováno doslovně.
-- **„v duchu se zasmála“ (v12)** – hebrejsky וַתִּצְחַק שָׂרָה בְּקִרְבָּהּ – Sarah se směje; *tsachaq* = týž kořen jako Isaac (יִצְחָק). Výslovná předzvěst 21:6.
-- **"waxed old" → „opotřebovaná“** (v12) – hebrejsky בְלֹתִי *veloti* = opotřebovaná / zchátralá (tělo). Silnější než „stará“; ukazuje na pohlavní nemožnost.
-- **„mám mít rozkoš“ – Sarahina upřímnost** (v12) – hebrejsky עֶדְנָה *ednah* (hapax legomenon) od kořene עדן, téhož jako Eden – „rozkoš / hojnost“. Pravděpodobně pohlavní rozkoš / rozkoš plodnosti. Abrahamovo „starý“ (*zaqen*) v téže větě zdůrazňuje nemožnost.
-- **"too hard" → „příliš podivuhodné“** (v14) – hebrejsky הֲיִפָּלֵא *ha-yippale* od *pele* = div / zázrak / nemožné pro smrtelníky. Rejstřík Božího zázraku, ne pouze „obtížné“.
-- **"nay; but thou didst laugh" → „Ne, ty ses smála“** (v15) – modernizováno.
-- **"bring them on the way" → „vyprovodit je“** (v16) – hebrejsky לְשַׁלְּחָם *le-shallecham* = vypravit je / doprovodit hosta při odchodu. Starobylý zvyk pohostinnosti.
-- **"blessed in him" → „v něm naleznou požehnání“** (v18) – jako ve 12:3. Dvojznačnost nifalu mezi pasivem a zvratností zachována.
-- **"I know him" → „vyvolil jsem si ho“** (v19) – hebrejsky יְדַעְתִּיו *yeda'tiv*. *Yada* (znát) nese ve smluvních souvislostech smysl „uznat / vyvolit“ (srov. Amos 3:2 „jen vás jsem *poznal* ze všech čeledí země“). KJV „I know him“ tuto smluvní volbu nedoceňuje.
-- **"justice and judgment" → „spravedlnosti a práva“** (v19) – hebrejsky צְדָקָה וּמִשְׁפָּט *tsedaqah u-mishpat*. Vzorová etická dvojice hebrejské Bible (srov. Ps 33:5, Isa 1:27). *Tsedaqah* = správný vztah / spravedlnost jako věrnost; *mishpat* = soud / právní řízení. KJV převrací hebrejské pořadí a oba pojmy zaměňuje. Opraveno.
-- **"grievous" → „těžký“** (v20) – hebrejsky כָבְדָה *kavedah* = těžká. Modernizováno.
-- **"the cry" → „křik“** (v20, 21) – hebrejsky זַעֲקָה *za'aqah* = křik tísně / protestu / úzkosti. Pravděpodobně: křik obětí sodomského násilí stoupající k Yahweh. Nikoli sodomský křik hříchu, ale protest ukřivděných.
-- **"that be far from thee" → „Daleko od tebe“** (v25) – hebrejsky חָלִלָה לְּךָ *chalilah lekha* = důrazný zápor / ohrazení. Idiom modernizován.
-- **„Soudce celé země“ (v25)** – hebrejsky שֹׁפֵט כָּל־הָאָרֶץ *shofet kol-ha-aretz*. *Shofet* = soudce / vladař / vládce vykonávající spravedlnost. Abrahamova právně-teologická otázka: selže snad sám všeobecný Soudce ve spravedlnosti?
-- **"Peradventure" → „Co když“** (v24, 28, 29, 30, 31, 32) – hebrejsky אוּלַי *ulai* = snad / co když. „Peradventure“ je archaické.
-- **"communing with" → „domluvil s“** (v33) – hebrejsky לְדַבֵּר *le-daber* = prostě „mluvit“. „Communing“ romantizuje.
+- **„A“ zachováno** (v celé kapitole) – hebrejské וַ / וְ na začátku každé věty; věty se nespojují pomocí „když“, „tu“, „tedy“.
+- **"plains of Mamre" → „duby Mamre“** (v1) – jako ve 13:18. Hebrejsky אֵלֹנֵי *eloney*, veliký strom; druh není jistý.
+- **"tent door" → „vchod stanu“** (v1, 2, 10) – hebrejsky פֶּתַח הָאֹהֶל *petach ha-ohel*, otvor; „stanu“, ne „svého stanu“.
+- **„tři muži“ (v2)** – hebrejsky שְׁלֹשָׁה אֲנָשִׁים *sheloshah anashim*. Kapitola říká „Yahweh se ukázal“ (v1), „tři muži“ (v2), „řekli“ (v5, 9), „řekl“ (v10), „Yahweh řekl“ (v13); „muži“ jdou dál k Sodomu, zatímco Abraham stojí před Yahweh (v22), a do Sodomu přicházejí „dva andělé“ (19:1). Text nevysvětluje, jak ti tři a Yahweh patří k sobě; je ponechán, jak je napsán. „Stojí u něho“: נִצָּבִים עָלָיו, doslova „nad ním“.
+- **"My Lord" → „Adonai“** (v3) – hebrejsky אֲדֹנָי *Adonai*, přeloženo přesně tak, jak to masoretský text vokalizuje: s dlouhou samohláskou (kamec), která se užívá, když slovo označuje Boha. „Moji páni“, řečeno lidem, by bylo vokalizováno אֲדֹנַי (tak 19:2), a „můj pane“, řečeno jednomu muži, אֲדֹנִי (tak v12). Souhlásky jsou ve všech třech stejné; samohlásková znaménka byla zapsána dlouho po souhláskách a podávají tradici čtení.
+- **Jednotné a množné číslo** (v3–5) – ve v3 jsou „ve tvých očích“, „nepřejdi“ a „svého služebníka“ v jednotném čísle: osloven je jeden. Ve v4–5 jsou „umyjte si“, „opřete se“, „posilněte své srdce“, „přejdete“, „přešli jste“ v množném čísle: osloveni jsou tři. Hebrejský přechod je zachován.
+- **"bowed himself toward the ground" → „poklonil se k zemi“** (v2) – hebrejsky וַיִּשְׁתַּחוּ אָרְצָה; totéž sloveso se užívá o klanění lidem i Bohu.
+- **"thy servant" → „svého služebníka“** (v3, 5) – hebrejsky עֶבֶד *eved*, „otrok / služebník“, zde zdvořilé slovo mluvčího o sobě.
+- **"be fetched" → „ať se vezme“; "fetch" → „ať vezmu“** (v4, 5) – hebrejsky לָקַח „vzít“, jedno sloveso (také v7, 8).
+- **"rest yourselves" → „opřete se“** (v4) – hebrejsky וְהִשָּׁעֲנוּ, doslova „opřete se“.
+- **"comfort ye your hearts" → „posilněte své srdce“** (v5) – hebrejsky וְסַעֲדוּ לִבְּכֶם *we-sa'adu libbekhem*, rozkaz. *Sa'ad* = podpírat / posilovat; „srdce“ je v jednotném čísle.
+- **"for therefore are ye come to your servant" → „vždyť proto jste přešli kolem svého služebníka“** (v5) – hebrejsky כִּי־עַל־כֵּן עֲבַרְתֶּם עַל־עַבְדְּכֶם; sloveso עָבַר „přejít“ je totéž jako ve v3 a „přejdete dál“ ve v5.
+- **"Make ready quickly" → „Pospěš“** (v6, 7) – hebrejsky מִהַר „pospíšit“, třikrát ve v6–7. „Tři seahy mouky, jemné mouky“: קֶמַח סֹלֶת, dvě podstatná jména. *Se'ah* = objemová míra (její velikost není jistá, zhruba 7–14 litrů). „Zadělej“ nemá předmět.
+- **"cakes upon the hearth" → „placky“** (v6) – hebrejsky עֻגוֹת *ugot* = kulaté ploché chlebové placky. „Upon the hearth“ (na ohništi) v hebrejštině není.
+- **"a young man" → „mládenci“** (v7) – hebrejsky הַנַּעַר *ha-na'ar*, „chlapec“, zde sluha. „Tele“: בֶּן־בָּקָר, doslova „syn skotu“. „Připravit“: עָשָׂה „učinit“.
+- **"butter" → „tvaroh“** (v8) – hebrejsky חֶמְאָה *chem'ah*. Pravděpodobně sražené mléko, ne stloukané máslo.
+- **"according to the time of life" → „příštího roku touto dobou“** (v10, 14) – hebrejsky כָּעֵת חַיָּה *ka'et chayyah*, doslova „v živém čase“. Výraz se nachází jen zde a ve 2 Kgs 4:16–17; běžně se chápe jako „až tento čas znovu ožije“ = za rok (srov. 17:21 „v příštím roce“). Smysl není jistý.
+- **"Sarah thy wife shall have a son" → „hle, syn pro Saru, tvou ženu“** (v10, 14) – hebrejsky וְהִנֵּה־בֵן לְשָׂרָה אִשְׁתֶּךָ, bez slovesa; v14 וּלְשָׂרָה בֵן „a pro Saru syn“.
+- **"which was behind him" → „a ten byl za ním“** (v10) – hebrejsky וְהוּא אַחֲרָיו: „on“ (vchod) byl za ním (za mluvčím).
+- **"well stricken in age" → „pokročilí ve dnech“** (v11) – hebrejsky בָּאִים בַּיָּמִים *ba'im ba-yamim* = „vešlí do dnů“.
+- **"after the manner of women" → „běh, jaký mají ženy“** (v11) – hebrejsky אֹרַח כַּנָּשִׁים *orach ka-nashim*, doslova „stezka jako u žen“ = měsíční cyklus.
+- **„v nitru se zasmála“ (v12)** – hebrejsky וַתִּצְחַק שָׂרָה בְּקִרְבָּהּ; *tsachaq* = týž kořen jako Isaac (יִצְחָק), jako 17:17 a 21:6.
+- **"waxed old" → „zchátrala“** (v12) – hebrejsky בְלֹתִי *veloti* = opotřebovat se, jako oděv. Jiné slovo než „starý“ (זָקֵן) na konci verše.
+- **"shall I have pleasure" → „dostalo se mi rozkoše?“** (v12) – hebrejsky הָיְתָה־לִּי עֶדְנָה, perfektum: „byla mi rozkoš“. Hebrejština nemá tázací slovo; lze číst jako otázku i jako užaslý výrok. עֶדְנָה *ednah* se nachází jen zde; je od kořene עדן „potěšení“ (jako jméno Eden) a znamená rozkoš / potěšení. Zda je míněna rozkoš manželského lože, nebo potěšení z dítěte, slovo neříká.
+- **"Wherefore did Sarah laugh" → „Proč se to Sara zasmála“** (v13) – hebrejsky לָמָּה זֶּה. Yahweh nepodává její slova doslova: „a já jsem zestárla“ (וַאֲנִי זָקַנְתִּי) stojí místo „a můj pán je starý“. „Porodím“ nemá předmět.
+- **"too hard" → „příliš podivuhodná“** (v14) – hebrejsky הֲיִפָּלֵא *ha-yippale* od *pele* = div. דָּבָר *davar* je „slovo“ nebo „věc“.
+- **"for she was afraid" → „neboť se bála“** (v15) – hebrejsky יָרֵאָה.
+- **"looked toward Sodom" → „shlédli na tvář Sodomu“** (v16) – hebrejsky וַיַּשְׁקִפוּ עַל־פְּנֵי סְדֹם.
+- **"bring them on the way" → „vyprovodit je“** (v16) – hebrejsky לְשַׁלְּחָם *le-shallecham*, doslova „aby je poslal pryč“: vyprovodit hosta.
+- **"Shall I hide … that thing which I do" → „Skrývám snad …, co činím?“** (v17) – hebrejská příčestí: הַמְכַסֶּה אֲנִי … אֲשֶׁר אֲנִי עֹשֶׂה. „Skrývat“: doslova „přikrývat“.
+- **"seeing that Abraham shall surely become" → „A Abraham se jistě stane“** (v18) – hebrejsky וְאַבְרָהָם הָיוֹ יִהְיֶה, „a“; infinitiv absolutní se svým slovesem, doslova „bytím bude“.
+- **"blessed in him" → „budou v něm požehnány“** (v18) – hebrejsky וְנִבְרְכוּ בוֹ, nifal, jako ve 12:3: „budou požehnány“ (lze číst i „budou si žehnat“).
+- **"I know him" → „poznal jsem ho“** (v19) – hebrejsky יְדַעְתִּיו *yeda'tiv*, perfektum od יָדַע „znát“. „Znát“ je zde víc než vědět o někom: znát osobu, mít na ni zřetel (srov. Amos 3:2 „jen vás jsem *poznal* ze všech čeledí země“). Často se překládá „vyvolil jsem si ho“; hebrejské slovo je „znát“ a je zachováno.
+- **"his children and his household" → „svým synům a svému domu“** (v19) – hebrejsky בָּנָיו … בֵּיתוֹ.
+- **"justice and judgment" → „spravedlnost a soud“** (v19) – hebrejsky צְדָקָה וּמִשְׁפָּט *tsedaqah u-mishpat*, v hebrejském pořadí. מִשְׁפָּט *mishpat* je „soud“ i ve v25, kde stojí vedle „Soudce“ (שֹׁפֵט), téhož kořene.
+- **"Because the cry of Sodom and Gomorrah is great" → „Křik Sodomu a Gomorrah je vskutku veliký“** (v20) – hebrejsky זַעֲקַת סְדֹם וַעֲמֹרָה כִּי־רָבָּה. כִּי je „protože“ nebo „vskutku“. „Křik Sodomu“ je druhý pád: křik o nich, nebo křik, který z nich vychází (těch, jimž se v nich křivdí). „Těžký“: כָבְדָה.
+- **"I will go down now" → „Ať, prosím, sestoupím“** (v21) – hebrejsky אֵרֲדָה־נָּא, kohortativ s נָא; tak i „poznám“ (אֵדָעָה). „Jeho křiku“: přípona je v hebrejštině ženského rodu v jednotném čísle (města). „Učinili zcela“: עָשׂוּ כָּלָה, doslova „učinili úplný konec“.
+- **„Abraham ještě stál před Yahweh“** (v22) – masoretský text, jak stojí. Stará písařská tradice („opravy písařů“) říká, že verš původně zněl „Yahweh ještě stál před Abrahamem“ (zpaměti; zdejší nástroje to neukazují). Masoretský text je zachován.
+- **"destroy" → „smést“** (v23, 24) – hebrejsky סָפָה. Jiné sloveso než „zkazit“ (v28, 31, 32).
+- **"Peradventure" → „Snad“** (v24, 28, 29, 30, 31, 32) – hebrejsky אוּלַי *ulai*.
+- **"spare the place" → „odpustit tomu místu“** (v24, 26) – hebrejsky תִשָּׂא לַמָּקוֹם, doslova „pozvednout pro to místo“: נָשָׂא, sloveso snímání viny. „Pro“ (v24) je לְמַעַן; „kvůli“ (v26, 29, 31, 32) je בַּעֲבוּר.
+- **"that be far from thee" → „Daleko buď od tebe“** (v25) – hebrejsky חָלִלָה לְּךָ *chalilah lekha*. „Takovou věc“: כַּדָּבָר הַזֶּה. "Slay" → „usmrtit“ (לְהָמִית).
+- **"do right" → „učiní soud“** (v25) – hebrejsky הֲשֹׁפֵט כָּל־הָאָרֶץ לֹא יַעֲשֶׂה מִשְׁפָּט. *Shofet* (soudce) a *mishpat* (soud) jsou jeden kořen.
+- **"I have taken upon me" → „odvážil jsem se“** (v27, 31) – hebrejsky הוֹאַלְתִּי, „uvolil jsem se / dal jsem se do toho“. "Which am but dust and ashes" → „a já jsem prach a popel“: וְאָנֹכִי עָפָר וָאֵפֶר; „jen“ v hebrejštině není.
+- **"the Lord" → „Adonai“** (v27, 30, 31, 32) – hebrejsky אֲדֹנָי, vokalizováno jako ve v3.
+- **"destroy" → „zkazit“** (v28, 31, 32) – hebrejsky הִשְׁחִית, sloveso z 6:13 a 19:13. "For lack of five" → „kvůli těm pěti“: בַּחֲמִשָּׁה. „Je“ po „nezkazím“ a „to“ po „neučiním“ jsou doplněna; hebrejština nemá předmět. „Čtyřicet pět“: hebrejsky „čtyřicet a pět“.
+- **"Oh let not the Lord be angry" → „Ať, prosím, Adonai nevzplane hněvem“** (v30, 32) – hebrejsky אַל־נָא יִחַר לַאדֹנָי, doslova „ať to, prosím, nevzplane Adonai“. „A ať promluvím“: kohortativ.
+- **"communing with" → „domluvil k“** (v33) – hebrejsky לְדַבֵּר *le-dabber* = prostě „mluvit“.
 
 ### Poznámky
 
-- **Abrahamova přímluva (v22–33)** – první případ v Bibli, kdy člověk přesvědčuje Boha, aby dal přednost milosrdenství před spravedlností. Abraham nezpochybňuje právo Yahweh soudit, ale odvolává se na vlastní povahu Yahweh („Což Soudce celé země nebude jednat spravedlivě?“). Všimněme si, že Abraham sestupuje od 50 k 10, ale zastaví se dřív, než dojde k 1 – vyprávěcí volba, o jejímž významu se hodně diskutovalo (milosrdenství nemohlo záviset na jediném spravedlivém jednotlivci? Abrahamova představivost byla omezená?). Všimněme si také: dialog zahajuje Yahweh tím, že svůj záměr neskrývá (v17–19); Abrahamovo postavení je smluvním přístupem, ne lidskou troufalostí.
-- **Prolínání žánrů** – kapitola přechází od příběhu o pohostinnosti praotce (v1–15) přes prorocké zjevení (v16–21) k teologickému dialogu (v22–33). Týž teofanický host je v různých rejstřících hostem, poslem i soudcem.
+- **Abrahamova přímluva (v22–33)** – Abraham nezpochybňuje právo Yahweh soudit, ale odvolává se na soud sám („Což Soudce celé země neučiní soud?“). Abraham sestupuje od 50 k 10 a tam se zastaví; text neříká proč. Yahweh věc otevírá tím, že neskrývá, co činí (v17–19).
+- **Tři části** – kapitola přechází od jídla pod stromem (v1–15) přes slovo Yahweh o Sodomu (v16–21) k rozhovoru (v22–33).

@@ -1,160 +1,185 @@
 # Genesis 49
 
-[1] Then ⟦jacob|Yaaqov|Jacob⟧ called his sons and said, "Gather together, that I may tell you what shall befall you in the days to come.
+[1] And ⟦jacob|Yaaqov|Jacob⟧ called to his sons and said, "Gather yourselves, and I will tell you what will befall you in the latter days.
 
-[2] Assemble and hear, O sons of ⟦jacob|Yaaqov|Jacob⟧;
-listen to ⟦israel|Yisrael|Israel⟧ your father.
+[2] Assemble and hear, sons of ⟦jacob|Yaaqov|Jacob⟧,
+and listen to ⟦israel|Yisrael|Israel⟧ your father.
 
 [3] ⟦reuben|Reuven|Reuben⟧, you are my firstborn,
-my might, and the firstfruits of my strength,
-pre-eminent in dignity and pre-eminent in power.
+my power and the beginning of my vigor,
+the excellence of dignity and the excellence of strength.
 
-[4] Unstable as water — you shall not excel;
-for you went up onto your father's bed;
-then you defiled it — he went up on my couch.
+[4] Reckless as water, may you not excel,
+for you went up to the beds of your father;
+then you profaned — my couch he went up!
 
 [5] ⟦simeon|Shimon|Simeon⟧ and Levi are brothers;
 weapons of violence are their swords.
 
-[6] O my soul, do not enter their council;
-O my glory, do not be joined to their assembly.
-For in their anger they killed men,
-and in their self-will they hamstrung oxen.
+[6] Into their council let my soul not come;
+in their assembly let my glory not be united;
+for in their anger they killed a man,
+and at their pleasure they hamstrung an ox.
 
-[7] Cursed be their anger, for it is fierce,
-and their wrath, for it is cruel.
+[7] Cursed be their anger, for it is strong,
+and their wrath, for it is hard;
 I will divide them in ⟦jacob|Yaaqov|Jacob⟧,
 and scatter them in ⟦israel|Yisrael|Israel⟧.
 
-[8] ⟦judah|Yehudah|Judah⟧, you are he whom your brothers shall praise;
+[8] ⟦judah|Yehudah|Judah⟧, you — your brothers shall praise you;
 your hand shall be on the neck of your enemies;
-your father's sons shall bow down before you.
+the sons of your father shall bow down to you.
 
-[9] ⟦judah|Yehudah|Judah⟧ is a lion's cub;
+[9] A lion's cub is ⟦judah|Yehudah|Judah⟧;
 from the prey, my son, you have gone up.
-He crouches down, he lies as a lion,
-and as a lioness — who shall rouse him up?
+He stooped, he lay down like a lion,
+and like a lioness — who will rouse him?
 
-[10] The scepter shall not depart from ⟦judah|Yehudah|Judah⟧,
-nor the ruler's staff from between his feet,
+[10] A scepter shall not depart from ⟦judah|Yehudah|Judah⟧,
+nor a ruler's staff from between his feet,
 until Shiloh comes,
-and to him shall be the obedience of the peoples.
+and to him shall be the obedience of peoples.
 
 [11] Binding his foal to the vine,
-and his donkey's colt to the choice vine,
-he washes his garment in wine,
+and the son of his she-donkey to the choice vine,
+he has washed his clothing in wine,
 and his robe in the blood of grapes.
 
-[12] His eyes are darker than wine,
-and his teeth whiter than milk.
+[12] Darker of eyes than wine,
+and whiter of teeth than milk.
 
-[13] ⟦zebulun|Zevulun|Zebulun⟧ shall dwell at the shore of the sea;
-he shall be a shore for ships,
-and his flank shall be toward ⟦sidon|Tzidon|Sidon⟧.
+[13] ⟦zebulun|Zevulun|Zebulun⟧ shall abide at the shore of the seas,
+and he shall be at the shore of ships,
+and his flank upon ⟦sidon|Tzidon|Sidon⟧.
 
-[14] ⟦issachar|Yissachar|Issachar⟧ is a strong donkey,
-lying down between the sheepfolds.
+[14] ⟦issachar|Yissachar|Issachar⟧ is a strong-boned donkey,
+lying between the sheepfolds.
 
-[15] He saw that rest was good,
+[15] And he saw a resting place, that it was good,
 and the land, that it was pleasant;
-so he bowed his shoulder to bear,
-and became a slave to forced labor.
+and he bent his shoulder to bear,
+and became a slave at forced labor.
 
 [16] Dan shall judge his people,
 as one of the tribes of ⟦israel|Yisrael|Israel⟧.
 
-[17] Dan shall be a serpent on the way,
-a horned viper on the path,
-that bites the horse's heels,
-so that its rider falls backward.
+[17] Let Dan be a serpent on the way,
+a viper on the path,
+that bites the heels of the horse,
+and its rider falls backward.
 
 [18] For your salvation I wait, ⟦yhwh|Yahweh|LORD⟧.
 
 [19] Gad — a raiding band shall raid him,
-but he shall raid at their heel.
+and he shall raid the heel.
 
-[20] Asher — his bread shall be rich,
-and he shall yield royal delicacies.
+[20] From Asher — his bread is fat,
+and he shall give the delicacies of a king.
 
-[21] ⟦naphtali|Naftali|Naphtali⟧ is a doe let loose;
-he gives beautiful words.
+[21] ⟦naphtali|Naftali|Naphtali⟧ is a doe let loose,
+he who gives words of beauty.
 
-[22] ⟦joseph|Yosef|Joseph⟧ is a fruitful bough,
+[22] A fruitful bough is ⟦joseph|Yosef|Joseph⟧,
 a fruitful bough by a spring;
-his branches run over a wall.
+his branches have stepped over a wall.
 
-[23] The archers bitterly attacked him;
-they shot at him and harassed him.
+[23] And they embittered him and shot,
+and the masters of arrows bore a grudge against him.
 
-[24] But his bow remained steady,
-and the arms of his hands were made agile
-by the hands of the Mighty One of ⟦jacob|Yaaqov|Jacob⟧ —
-from there, the Shepherd, the Stone of ⟦israel|Yisrael|Israel⟧ —
+[24] And his bow remained in firmness,
+and the arms of his hands were agile,
+from the hands of the Mighty One of ⟦jacob|Yaaqov|Jacob⟧,
+from there, the Shepherd, the Stone of ⟦israel|Yisrael|Israel⟧,
 
-[25] by the ⟦el|El|God⟧ of your father, who will help you,
-by ⟦shaddai|Shaddai|the Almighty⟧, who will bless you
+[25] from the ⟦el|El|God⟧ of your father, and he will help you,
+and with ⟦shaddai|Shaddai|the Almighty⟧, and he will bless you
 with blessings of the heavens above,
-blessings of the deep lying below,
-blessings of the breasts and of the womb.
+blessings of the deep lying beneath,
+blessings of breasts and womb.
 
 [26] The blessings of your father
-are mightier than the blessings of the eternal mountains,
-the bounties of the everlasting hills.
-May they be on the head of ⟦joseph|Yosef|Joseph⟧,
-on the brow of the prince among his brothers.
+have prevailed over the blessings of my progenitors,
+unto the desire of the everlasting hills;
+they shall be on the head of ⟦joseph|Yosef|Joseph⟧,
+and on the crown of the head of the one set apart from his brothers.
 
-[27] ⟦benjamin|Binyamin|Benjamin⟧ is a wolf that tears;
-in the morning he devours the prey,
-and in the evening he divides the spoil."
+[27] ⟦benjamin|Binyamin|Benjamin⟧ is a wolf that tears to pieces;
+in the morning he eats the prey,
+and at evening he divides the spoil."
 
-[28] All these are the twelve tribes of ⟦israel|Yisrael|Israel⟧; this is what their father spoke to them and blessed them; each one with the blessing appropriate to him, he blessed them.
+[28] All these are the tribes of ⟦israel|Yisrael|Israel⟧, twelve; and this is what their father spoke to them. And he blessed them; each according to his blessing he blessed them.
 
-[29] Then he commanded them and said to them, "I am about to be gathered to my people; bury me with my fathers in the cave that is in the field of ⟦ephron|Efron|Ephron⟧ the ⟦hittite|Chitti|Hittite⟧,
+[29] And he commanded them and said to them, "I am being gathered to my people; bury me with my fathers, in the cave that is in the field of ⟦ephron|Efron|Ephron⟧ the ⟦hittite|Chitti|Hittite⟧,
 
-[30] in the cave that is in the field of Machpelah, which is before Mamre in the land of ⟦canaan|Kenaan|Canaan⟧, which ⟦abraham|Avraham|Abraham⟧ bought along with the field from ⟦ephron|Efron|Ephron⟧ the ⟦hittite|Chitti|Hittite⟧ for a burial holding.
+[30] in the cave that is in the field of Machpelah, which faces Mamre, in the land of ⟦canaan|Kenaan|Canaan⟧, the field that ⟦abraham|Avraham|Abraham⟧ bought from ⟦ephron|Efron|Ephron⟧ the ⟦hittite|Chitti|Hittite⟧ for a possession of a grave.
 
 [31] There they buried ⟦abraham|Avraham|Abraham⟧ and Sarah his wife; there they buried ⟦isaac|Yitzchaq|Isaac⟧ and ⟦rebekah|Rivqah|Rebekah⟧ his wife; and there I buried Leah —
 
-[32] the field and the cave in it were purchased from the sons of ⟦heth|Chet|Heth⟧."
+[32] the purchase of the field and of the cave that is in it, from the sons of ⟦heth|Chet|Heth⟧."
 
-[33] When ⟦jacob|Yaaqov|Jacob⟧ had finished commanding his sons, he drew up his feet into the bed, breathed his last, and was gathered to his people.
+[33] And ⟦jacob|Yaaqov|Jacob⟧ finished commanding his sons, and he gathered his feet into the bed, and expired, and was gathered to his peoples.
 
 ## Changes
 
-- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"in the last days" → "in the days to come"** (v1) — Hebrew בְּאַחֲרִית הַיָּמִים *be-acharit ha-yamim*. Later this phrase becomes eschatological ("latter days"); here it means simply "in the future" / "in days yet to come" — Jacob's prophetic overview of tribal destinies.
-- **"the beginning of my strength" → "the firstfruits of my strength"** (v3) — Hebrew רֵאשִׁית אוֹנִי *reshit oni*. Reuben as firstborn carries the prime of his father's vigor.
-- **"the excellency of dignity, and the excellency of power" → "pre-eminent in dignity and pre-eminent in power"** (v3) — Hebrew יֶתֶר שְׂאֵת וְיֶתֶר עָז *yeter s'et we-yeter az*. Doubled praise; then devastating reversal in v4.
-- **"Unstable as water" (v4)** — Hebrew פַּחַז כַּמַּיִם *pachaz ka-mayim*. *Pachaz* = reckless / unstable / boiling over. Reuben loses primacy because he slept with Bilhah (35:22).
-- **"instruments of cruelty are in their habitations" → "weapons of violence are their swords"** (v5) — Hebrew כְּלֵי חָמָס מְכֵרֹתֵיהֶם. *Makherot* obscure (hapax legomenon); possibly "swords / agreements / cut things." Often emended or read as "their wedding-covenants" (they corrupted even the betrothal / circumcision agreement, ref. ch 34). Translation chooses "swords" as most probable.
-- **"digged down a wall" → "hamstrung oxen"** (v6) — Hebrew עִקְּרוּ־שׁוֹר *iqqeru-shor*. *Aqar* = uproot / hamstring (tendon-cut). *Shor* = ox / bull. Describes their vandalism during the Shechem massacre (ch 34).
-- **"lion's whelp" → "lion's cub"** (v9) — modernized.
-- **"old lion" → "lioness"** (v9) — Hebrew לָבִיא *lavi* = lioness (feminine counterpart of the male *aryeh*).
-- **"until Shiloh come" (v10)** — Hebrew עַד כִּי־יָבֹא שִׁילֹה *ad ki-yavo Shiloh*. Famously obscure:
-  1. "Until Shiloh comes" (Shiloh as messianic proper name — traditional Christian reading).
-  2. "Until he comes to whom it (sh-lo = 'that which is his') belongs" — reading as שֶׁלּוֹ *shello* "that which is his" (standard Jewish / Rashi reading, supported by LXX / Targum).
-  3. "Until tribute comes to him" (reading שַׁי־לוֹ *shay-lo* "gift to him").
-  Either (1) or (2) treats this as messianic / eschatological; ambiguity preserved.
-- **"His eyes shall be red with wine" → "His eyes are darker than wine"** (v12) — Hebrew חַכְלִילִי עֵינַיִם מִיָּיִן *chakhlili eynayim mi-yayin*. *Chakhlili* = dark / sparkling / red-dark. Comparative מִן *min* likely means "than" (darker than wine), not "with / from" (red with wine).
-- **"burdens" → "sheepfolds"** (v14) — Hebrew הַמִּשְׁפְּתָיִם *ha-mishpetayim*. Dual form — "two sheepfolds" (or "two saddlebags"). Animal imagery.
-- **"servant unto tribute" → "slave to forced labor"** (v15) — Hebrew לְמַס־עֹבֵד *le-mas-oved*. *Mas* = corvée / forced labor. Issachar trades freedom for security.
-- **"Dan shall judge" (v16)** — Hebrew יָדִין דָּן *yadin Dan*. Wordplay on Dan's name (from *din/dan* = judge).
-- **"adder" → "horned viper"** (v17) — Hebrew שְׁפִיפֹן *shephiphon*. Specific viper species (probably Cerastes cerastes, horned viper) — ambush-hunter native to desert, whose head-horns protrude just above sand.
-- **"I have waited for thy salvation" → "For your salvation I wait"** (v18) — Hebrew לִישׁוּעָתְךָ קִוִּיתִי יְהוָה *li-shu'atkha qivviti Yahweh*. Sudden interjection mid-blessing — Jacob pauses for a prayer. *Shu'ah* = salvation / deliverance. Also puns on Dan-passage.
-- **"a troop shall overcome him" → "a raiding band shall raid him"** (v19) — Hebrew גָּד גְּדוּד יְגוּדֶנּוּ *Gad gedud yegudennu*. Triple wordplay on Gad's name (*gad / gedud*). Gad's Transjordan territory was exposed to raiders.
-- **"royal dainties" → "royal delicacies"** (v20) — Hebrew מַעֲדַנֵּי־מֶלֶךְ *ma'adanne-melekh*.
-- **"a hind let loose; he giveth goodly words" → "a doe let loose; he gives beautiful words"** (v21) — Hebrew אַיָּלָה שְׁלֻחָה הַנֹּתֵן אִמְרֵי־שָׁפֶר. MT's imagery is peaceful / poetic; an alternate reading (emendation based on LXX) has Naphtali as "a spreading terebinth that produces beautiful branches." Translation follows MT (doe / beautiful words).
-- **"arms were made strong" → "arms were made agile"** (v24) — Hebrew וַיָּפֹזּוּ זְרֹעֵי יָדָיו *wa-yaphozzu zero'e yadav*. *Pazaz* = be agile / supple / nimble (also "pure gold" by homonym). Joseph's hands made supple for archery.
-- **"the mighty God of Jacob" → "the Mighty One of Jacob"** (v24) — Hebrew אֲבִיר יַעֲקֹב *Abir Ya'aqov*. *Abir* = Mighty One / Stallion. Divine title unique to Jacob's story.
-- **"the Almighty" → "Shaddai"** (v25) — Hebrew שַׁדַּי *Shaddai*. See 17:1. "Blessings of the breasts" (*shaddayim*) plays on *Shaddai* — the nurturing / fertile sense of the name.
-- **"the God of thy father" → "the El of your father"** (v25) — Hebrew אֵל אָבִיךָ *El avikha*.
-- **"separate from" → "prince among"** (v26) — Hebrew נָזִיר אֶחָיו *nezir echav*. *Nazir* = one set apart / consecrated / crowned (from *nezer* "diadem"). Joseph as crown-prince among his brothers, not merely "separated."
-- **"ravin as a wolf" → "a wolf that tears"** (v27) — Hebrew זְאֵב יִטְרָף *ze'ev yitraph*. *Taraph* = rend / tear in pieces.
-- **"yielded up the ghost" → "breathed his last"** (v33) — as in 25:8.
+- **"LORD" → "Yahweh"** (v18) — the Hebrew name יהוה.
+- **The poem (v2–27)** — one Hebrew line per printed line. Many words in it stand only here or are of uncertain meaning; each is named below. Nothing has been taken from the Greek, the Samaritan text or a conjecture.
+- **"Gather yourselves together" → "Gather yourselves"** (v1) and **"Assemble"** (v2) — two Hebrew verbs, הֵאָסְפוּ (אָסַף, the verb of v29, 33) and הִקָּבְצוּ.
+- **"in the last days" → "in the latter days"** (v1) — Hebrew בְּאַחֲרִית הַיָּמִים, literally "in the after-part of the days".
+- **"hearken unto" → "listen to"** (v2) — Hebrew שִׁמְעוּ אֶל; in the first line the same verb is "hear".
+- **"my might, and the beginning of my strength" → "my power and the beginning of my vigor"** (v3) — Hebrew כֹּחִי וְרֵאשִׁית אוֹנִי; רֵאשִׁית "beginning", as in 1:1; אוֹן is the vigor of a man who begets.
+- **"the excellency of dignity, and the excellency of power" → "the excellence of dignity and the excellence of strength"** (v3) — Hebrew יֶתֶר שְׂאֵת וְיֶתֶר עָז; יֶתֶר is "what exceeds, the surplus"; שְׂאֵת "a lifting up".
+- **"Unstable as water, thou shalt not excel" → "Reckless as water, may you not excel"** (v4) — Hebrew פַּחַז כַּמַּיִם אַל־תּוֹתַר. פַּחַז is a noun found only here; its root is used of reckless, wanton men (Judg 9:4; Zeph 3:4; from memory). The meaning ("recklessness", "a boiling over") is uncertain. אַל־תּוֹתַר is a negative wish or command, of the root of יֶתֶר "excellence" in v3.
+- **"then defiledst thou it: he went up to my couch" → "then you profaned — my couch he went up!"** (v4) — Hebrew אָז חִלַּלְתָּ יְצוּעִי עָלָה. The verb "profaned" has no object written, and the last words pass to the third person, "my couch he went up"; kept so. "The beds of your father": מִשְׁכְּבֵי, plural.
+- **"instruments of cruelty are in their habitations" → "weapons of violence are their swords"** (v5) — Hebrew כְּלֵי חָמָס מְכֵרֹתֵיהֶם. מְכֵרֹת stands only here and its meaning is not known: "swords", "plans", "dwelling places" (KJV) and "wares" have all been proposed. כְּלִי is "instrument, vessel, weapon"; חָמָס "violence".
+- **"O my soul, come not thou into their secret" → "Into their council let my soul not come"** (v6) — Hebrew בְּסֹדָם אַל־תָּבֹא נַפְשִׁי; "my soul" and, in the next line, "my glory" (כְּבֹדִי) are the subjects of the verbs. "Be united": תֵּחַד.
+- **"they slew a man" kept; "in their selfwill they digged down a wall" → "at their pleasure they hamstrung an ox"** (v6) — Hebrew הָרְגוּ אִישׁ, עִקְּרוּ־שׁוֹר, both nouns singular. The Masoretic vowels read שׁוֹר "ox"; KJV follows the reading שׁוּר "wall". "Anger": אַף. רָצוֹן is "pleasure, will".
+- **"fierce" / "cruel" → "strong" / "hard"** (v7) — Hebrew עָז (the root of "strength" in v3) and קָשָׁתָה.
+- **"thou art he whom thy brethren shall praise" → "you — your brothers shall praise you"** (v8) — Hebrew יְהוּדָה אַתָּה יוֹדוּךָ אַחֶיךָ; the verb יוֹדוּךָ sounds like the name Yehudah.
+- **"he stooped down, he couched as a lion, and as an old lion" → "He stooped, he lay down like a lion, and like a lioness"** (v9) — Hebrew כָּרַע רָבַץ, two perfects; רָבַץ "lie", as in v14, 25. לָבִיא is another word for a lion, usually taken as the lioness; uncertain. "From the prey": טֶרֶף, what is torn (v27).
+- **"The sceptre shall not depart" → "A scepter shall not depart"** (v10) — Hebrew לֹא־יָסוּר שֵׁבֶט מִיהוּדָה, without the article. שֵׁבֶט is "rod", the rod of one who rules; the same word is "tribe" in v16, 28.
+- **"nor a lawgiver from between his feet" → "nor a ruler's staff from between his feet"** (v10) — Hebrew וּמְחֹקֵק מִבֵּין רַגְלָיו, literally "and a מְחֹקֵק from between his feet". מְחֹקֵק is a participle of חָקַק "inscribe, decree" (the root of חֹק "statute"): either the one who decrees, a "lawgiver, commander" (KJV), or his staff (as Num 21:18; from memory). Beside "scepter" the staff is the better supported; uncertain.
+- **"until Shiloh come" kept** (v10) — Hebrew עַד כִּי־יָבֹא שִׁילֹה. The written text (ketiv) has שילה, the reading tradition (qere) שִׁילוֹ; the two differ in spelling only. The main ways of taking the words:
+  1. "until Shiloh comes" — Shiloh as the subject, a name (so KJV, and the verse);
+  2. "until he comes to Shiloh" — the town Shiloh; the Hebrew allows it equally;
+  3. "until he comes whose it is" — reading the letters as שֶׁלּוֹ "that which is his" (compare Ezek 21:27, Heb 21:32); the ancient translations are commonly cited for this (from memory);
+  4. "until tribute comes to him" — dividing the letters as שַׁי לוֹ.
+  The verse gives the words as the Hebrew text has them and does not decide.
+- **"unto him shall the gathering of the people be" → "to him shall be the obedience of peoples"** (v10) — Hebrew וְלוֹ יִקְּהַת עַמִּים. יִקְּהָה stands only here and in Prov 30:17 (from memory); "obedience" is the best-supported sense, uncertain. עַמִּים is plural, without the article.
+- **"his ass's colt" → "the son of his she-donkey"** (v11) — Hebrew בְּנִי אֲתֹנוֹ. The ketiv עירה and סותה and the qere עִירוֹ, סוּתוֹ ("his foal", "his robe") differ in spelling only. שֹׂרֵקָה "choice vine" and סוּת "robe" stand only here. "He has washed": כִּבֵּס, a perfect.
+- **"His eyes shall be red with wine, and his teeth white with milk" → "Darker of eyes than wine, and whiter of teeth than milk"** (v12) — Hebrew חַכְלִילִי עֵינַיִם מִיָּיִן וּלְבֶן־שִׁנַּיִם מֵחָלָב. חַכְלִילִי (only here; a related word in Prov 23:29, from memory) is "dark" or "dull red"; uncertain. מִן can be "than" (so the verse) or "from": "dark of eyes from wine, white of teeth from milk". The Hebrew has no verb.
+- **"shall dwell at the haven of the sea" → "shall abide at the shore of the seas"** (v13) — Hebrew לְחוֹף יַמִּים יִשְׁכֹּן; שָׁכַן "abide", יַמִּים plural. The second line has no verb: "and he, at a shore of ships". "His flank upon Sidon": יַרְכָתוֹ, his far side; עַל "upon, toward".
+- **"a strong ass couching down between two burdens" → "a strong-boned donkey, lying between the sheepfolds"** (v14) — Hebrew חֲמֹר גָּרֶם, literally "a donkey of bone". מִשְׁפְּתַיִם (a dual; also Judg 5:16, from memory) is of uncertain meaning: "sheepfolds", "saddlebags" or "burdens" (KJV).
+- **"he saw that rest was good" → "he saw a resting place, that it was good"** (v15) — Hebrew וַיַּרְא מְנֻחָה כִּי טוֹב, the Hebrew order; the verbs of the verse are past (narrative) forms.
+- **"became a servant unto tribute" → "became a slave at forced labor"** (v15) — Hebrew וַיְהִי לְמַס־עֹבֵד, literally "became forced labor that serves"; מַס is labor exacted by a ruler.
+- **"Dan shall judge"** (v16) — Hebrew דָּן יָדִין; the verb דִּין "judge" sounds like the name Dan.
+- **"Dan shall be a serpent" → "Let Dan be a serpent"** (v17) — Hebrew יְהִי, a wish. **"an adder" → "a viper"**: שְׁפִיפֹן stands only here, a kind of snake; which kind is not known (often said to be the horned viper).
+- **"I have waited for thy salvation, O LORD" → "For your salvation I wait, Yahweh"** (v18) — Hebrew לִישׁוּעָתְךָ קִוִּיתִי יְהוָה, the Hebrew order; קִוִּיתִי is a perfect, "I have waited" and still wait. The verse has no "O".
+- **"a troop shall overcome him: but he shall overcome at the last" → "a raiding band shall raid him, and he shall raid the heel"** (v19) — Hebrew גָּד גְּדוּד יְגוּדֶנּוּ וְהוּא יָגֻד עָקֵב, four words sounding like the name Gad. עָקֵב is "heel" (the heel of the raiders as they go); the Hebrew has no "their".
+- **"Out of Asher his bread shall be fat" → "From Asher — his bread is fat"** (v20) — Hebrew מֵאָשֵׁר שְׁמֵנָה לַחְמוֹ, with "from" before the name; it is often joined as "their" to the last word of v19 ("their heel"); the verse keeps the Hebrew as it is divided. "The delicacies of a king": מַעֲדַנֵּי־מֶלֶךְ.
+- **"he giveth goodly words" → "he who gives words of beauty"** (v21) — Hebrew הַנֹּתֵן אִמְרֵי־שָׁפֶר; the participle is masculine, though "doe" is feminine. The line is uncertain: with other vowels the words are read "fawns of beauty", or the first line "a spreading terebinth". The verse follows the Masoretic vowels.
+- **v22–26 (Joseph)** — the most difficult lines of the poem; the Hebrew text is kept throughout and the renderings below are uncertain.
+- **"a fruitful bough … whose branches run over the wall" → "A fruitful bough … his branches have stepped over a wall"** (v22) — Hebrew בֵּן פֹּרָת יוֹסֵף בֵּן פֹּרָת עֲלֵי־עָיִן בָּנוֹת צָעֲדָה עֲלֵי־שׁוּר, literally "a son of a fruit-bearing one is Joseph, a son of a fruit-bearing one by a spring; daughters — she stepped — over a wall". "Son" and "daughters" are taken of the shoot and branches of a fruitful tree or vine. Others read "a wild donkey's colt … wild donkeys by a wall". Very uncertain.
+- **"The archers have sorely grieved him, and shot at him, and hated him" → "And they embittered him and shot, and the masters of arrows bore a grudge against him"** (v23) — Hebrew וַיְמָרֲרֻהוּ וָרֹבּוּ וַיִּשְׂטְמֻהוּ בַּעֲלֵי חִצִּים. וָרֹבּוּ is taken from a rare verb "shoot"; others read "and they contended". שָׂטַם "bear a grudge", as 27:41; 50:15. "Masters of arrows" = archers.
+- **"his bow abode in strength" → "his bow remained in firmness"** (v24) — Hebrew וַתֵּשֶׁב בְּאֵיתָן קַשְׁתּוֹ; יָשַׁב "sit, dwell", here of a bow that stays; אֵיתָן "enduring, firm".
+- **"the arms of his hands were made strong" → "the arms of his hands were agile"** (v24) — Hebrew וַיָּפֹזּוּ זְרֹעֵי יָדָיו; the verb stands only here and in 2 Sam 6:16 (of leaping; from memory). Uncertain.
+- **"by the hands of the mighty God of Jacob" → "from the hands of the Mighty One of Jacob"** (v24) — Hebrew מִידֵי אֲבִיר יַעֲקֹב. אָבִיר is "mighty one"; there is no word for "God" in the phrase.
+- **"from thence is the shepherd, the stone of Israel" → "from there, the Shepherd, the Stone of Israel"** (v24) — Hebrew מִשָּׁם רֹעֶה אֶבֶן יִשְׂרָאֵל, word for word; the Hebrew has no verb. With other vowels מִשָּׁם "from there" is read "by the name of" (מִשֵּׁם). רֹעֶה "shepherd" as in 48:15; אֶבֶן "stone".
+- **"by the God of thy father, who shall help thee" → "from the El of your father, and he will help you"** (v25) — Hebrew מֵאֵל אָבִיךָ וְיַעְזְרֶךָּ; "and he will help", "and he will bless" can also be wishes ("and may he help you").
+- **"by the Almighty" → "and with Shaddai"** (v25) — Hebrew וְאֵת שַׁדַּי; אֵת is taken as "with". Many read וְאֵל שַׁדַּי "and El Shaddai" (said to be in some Hebrew manuscripts and old translations; from memory); the verse keeps the Masoretic Text. The meaning of שַׁדַּי is not certain. In the last line שָׁדַיִם "breasts" sounds like it.
+- **"the deep that lieth under" → "the deep lying beneath"** (v25) — Hebrew תְּהוֹם רֹבֶצֶת תָּחַת; רָבַץ "lie", the verb of v9, 14.
+- **"have prevailed above the blessings of my progenitors" kept as "have prevailed over the blessings of my progenitors"** (v26) — Hebrew גָּבְרוּ עַל־בִּרְכֹת הוֹרַי עַד; הוֹרַי "those who conceived me", and עַד "unto" begins the next line. Many follow another division and other vowels (הַרְרֵי עַד "the eternal mountains", as in the Greek translation; from memory); the verse keeps the Masoretic Text.
+- **"unto the utmost bound of the everlasting hills" → "unto the desire of the everlasting hills"** (v26) — Hebrew עַד־תַּאֲוַת גִּבְעֹת עוֹלָם. תַּאֲוָה is elsewhere "desire" (3:6): the desirable things of the hills; "bound" (KJV) derives it from another root. Uncertain. "Everlasting": literally "of the age".
+- **"of him that was separate from his brethren" → "of the one set apart from his brothers"** (v26) — Hebrew נְזִיר אֶחָיו, literally "the *nazir* of his brothers": one set apart, consecrated (the word for a Nazirite). "Crown of the head": קָדְקֹד. "They shall be": תִּהְיֶין.
+- **"shall ravin as a wolf" → "is a wolf that tears to pieces"** (v27) — Hebrew זְאֵב יִטְרָף. "The prey": עַד, a rare word for booty.
+- **"every one according to his blessing he blessed them"** (v28) — Hebrew אִישׁ אֲשֶׁר כְּבִרְכָתוֹ בֵּרַךְ אֹתָם, literally "each man, what was according to his blessing, he blessed them". "The tribes of Israel, twelve": the Hebrew order.
+- **"I am to be gathered unto my people" → "I am being gathered to my people"** (v29) — Hebrew אֲנִי נֶאֱסָף אֶל־עַמִּי, a participle. In v33 the same verb, with the plural: "was gathered to his peoples" (עַמָּיו, his kinsfolk). "With my fathers": אֶל־אֲבֹתָי, literally "to my fathers".
+- **"which is before Mamre" → "which faces Mamre"** (v30) — Hebrew עַל־פְּנֵי־מַמְרֵא, literally "upon the face of Mamre".
+- **"which Abraham bought with the field" → "the field that Abraham bought"** (v30) — Hebrew אֲשֶׁר קָנָה אַבְרָהָם אֶת־הַשָּׂדֶה, literally "which Abraham bought — the field —"; the Hebrew has no "with".
+- **"for a possession of a buryingplace" → "for a possession of a grave"** (v30) — Hebrew לַאֲחֻזַּת־קָבֶר.
+- **"The purchase of the field and of the cave" kept** (v32) — Hebrew מִקְנֵה הַשָּׂדֶה; the verse has no verb.
+- **"he gathered up his feet into the bed, and yielded up the ghost" → "he gathered his feet into the bed, and expired"** (v33) — Hebrew וַיֶּאֱסֹף, the verb of "was gathered" in the same verse; וַיִּגְוַע "expired".
 
 ### Notes
 
-- **Genre** — the "blessings" are a tribal-destiny poem of the classic ANE genre ("Testament of the Patriarch"). Not pure blessing; judgment and prophecy mix. Ancient Hebrew poetry with many hapax legomena and obscure images.
-- **Reversal of hierarchy** — the three eldest (Reuben, Simeon, Levi) are demoted for their sins. Judah (fourth) receives the royal promise (Davidic line). Joseph (eleventh) receives the richest material blessing. Primogeniture overturned throughout.
-- **Joseph's double portion through Ephraim and Manasseh** — explains how the twelve tribes remain twelve despite Levi becoming priestly (landless). Joseph counts for two.
-- **Historical fulfillment** — the poem reads as prophecy-historicized: tribal fortunes described (coastal Zebulun, forced-labor Issachar, raider-Gad, serpent-Dan) fit settlement-era realities. Scholarly debate on whether the poem is pre-settlement prophecy or retrospective ethnography in poetic form.
+- **v4** — see 35:22 (Reuben and Bilhah). **v5–7** — see ch 34 (Simeon and Levi at Shechem).
+- **v18** — a single line addressed to Yahweh between the words about Dan and Gad.

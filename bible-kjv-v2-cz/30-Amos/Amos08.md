@@ -1,88 +1,87 @@
 # Ámos 8
 
-[1] Toto mi ukázal ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: hle, koš letního ovoce.
+[1] Toto mi ukázal ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: a hle, koš letního ovoce.
 
-[2] Řekl: „⟦amos|Amosi|Ámosi⟧, co vidíš?“ Odpověděl jsem: „Koš letního ovoce.“ Tu mi ⟦yhwh|Jahve|Hospodin⟧ řekl:
+[2] A řekl: „Co vidíš, ⟦amos|Amosi|Ámosi⟧?“ A řekl jsem: „Koš letního ovoce.“ A ⟦yhwh|Jahve|Hospodin⟧ mi řekl:
 
 „Přišel konec na můj lid ⟦israel|Jisrael|Izrael⟧;
-už nikdy je nepřejdu bez trestu.
+už znovu ho nepominu.
 
-[3] Písně chrámu se v ten den změní v kvílení,“
-je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.
-„Tolik mrtvých těl! Všude jsou pohozena!
+[3] A písně chrámu budou kvílet v onen den,“
+je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧;
+„mnoho je mrtvých těl; na každém místě je vyhodil.
 Ticho!“
 
-[4] Slyšte to, vy, kdo šlapete po ubohých
-a skoncováváte s chudými země,
+[4] Slyšte toto, vy, kdo dychtíte po nuzném
+a abyste dali přestat ubohým země,
 
-[5] a říkáte: „Kdy skončí novoluní,
-abychom mohli prodávat obilí?
+[5] se slovy: „Kdy pomine novoluní,
+abychom prodávali obilí?
 A ⟦shabbat|šabat|sobota⟧,
-abychom mohli nabízet pšenici na prodej,
-zmenšovat éfu a zvětšovat šekel
-a podvádět falešnými váhami,
+abychom otevřeli obilí?
+Zmenšit éfu a zvětšit šekel
+a pokřivit váhy lsti,
 
-[6] abychom kupovali chudé za stříbro
-a ubohé za pár sandálů
-a prodávali plevy z pšenice?“
+[6] kupovat chudé za peníze
+a nuzného za pár sandálů;
+a odpad obilí budeme prodávat.“
 
 [7] ⟦yhwh|Jahve|Hospodin⟧ přísahal při pýše ⟦jacob|Jaakova|Jákoba⟧:
-„Jistě nikdy nezapomenu na žádný z jejich skutků.“
+„Nikdy nezapomenu žádný z jejich skutků.“
 
 [8] Což se kvůli tomu nezachvěje země
-a nebude truchlit každý, kdo v ní bydlí,
-a celá se nevzedme jako ⟦nile|Jeor|Nil⟧,
-nerozbouří se a zase neklesne jako ⟦nile|Jeor|Nil⟧ v ⟦egypt|Micrajim|Egyptě⟧?
+a nebude truchlit každý, kdo v ní bydlí?
+A vystoupí jako ⟦nile|Jeor|Nil⟧, celá,
+a bude zmítána a klesne jako ⟦nile|Jeor|Nil⟧ ⟦egypt|Micrajim|Egypta⟧.
 
-[9] „V ten den,“ je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧,
-„dám slunci zapadnout v poledne
-a zatemním zemi za bílého dne.
+[9] „A stane se v onen den,“ je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧,
+„že dám slunci zapadnout v poledne
+a zatemním zemi v den světla.
 
-[10] Obrátím vaše slavnosti ve smutek
+[10] A obrátím vaše svátky v truchlení
 a všechny vaše písně v žalozpěv;
-dám žíněné roucho na každá bedra
-a lysinu na každou hlavu;
-učiním to jako smutek za jediného syna
+a vložím žíněné roucho na všechna bedra
+a na každou hlavu pleš;
+a učiním to jako truchlení pro jediného
 a jeho konec jako hořký den.
 
 [11] Hle, přicházejí dny,“ je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧,
-„kdy pošlu na zemi hlad –
-ne hlad po chlebu ani žízeň po vodě,
+„a pošlu na zemi hlad;
+ne hlad po chlebu a ne žízeň po vodě,
 ale po slyšení slov ⟦yhwh|Jahveho|Hospodina⟧.
 
-[12] Budou bloudit od moře k moři
-a od severu k východu;
-budou pobíhat sem a tam, aby hledali slovo ⟦yhwh|Jahveho|Hospodina⟧,
-ale nenajdou je.
+[12] A budou se potácet od moře k moři
+a od severu až k východu;
+budou se toulat, aby hledali slovo ⟦yhwh|Jahveho|Hospodina⟧,
+a nenaleznou ho.
 
-[13] V ten den půvabné panny i mladíci
-budou omdlévat žízní.
+[13] V onen den budou omdlévat krásné panny i mladíci
+žízní;
 
-[14] Ti, kdo přísahají při vině ⟦samaria|Šomronu|Samaří⟧
-a říkají: ‚Jakože živ je tvůj bůh, Dane,‘
-a: ‚Jakože živa je Cesta do ⟦beersheba|Beer Ševy|Beer-šeby⟧,‘
-padnou a už nikdy nevstanou.“
+[14] ti, kdo přísahají při vině ⟦samaria|Šomronu|Samaří⟧
+a říkají: ‚Jakože žije tvůj bůh, Dane,‘
+a: ‚Jakože žije cesta ⟦beersheba|Beer Ševy|Beer-šeby⟧,‘
+a padnou a už nevstanou.“
 
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – tetragram zachován.
-- **"Lord GOD" → „Pán Yahweh“** (v1, 3, 9, 11) – hebrejsky אֲדֹנָי יְהוָה.
-- **Poezie zformátována s odsazením blokové citace** (v4–14) – KJV má prózu; v4–14 jsou prorocká poezie.
-- **"Thus hath the Lord God shewed unto me" → „Toto mi ukázal Pán Yahweh“** (v1) – modernizovaná formule vidění; v souladu s kap. 7.
-- **"the songs of the temple shall be howlings in that day" → „Písně chrámu se v ten den změní v kvílení“** (v3) – hebrejsky שִׁירוֹת הֵיכָל יְיֵלִילוּ *shirot heikhal yeylelilu*; „kvílení“ je přesnější než „vytí“.
-- **"there shall be many dead bodies in every place; they shall cast them forth with silence" → „Tolik mrtvých těl! Všude jsou pohozena! Ticho!“** (v3) – hebrejsky הַרְבֵּה הַגְּוִיָּה בְּכָל מָקוֹם הִשְׁלִיךְ הָס; dramatická zvolání přeložena jako zvolání; „Ticho!“ = *has* = příkaz k mlčení.
-- **"ye that swallow up the needy" → „vy, kdo šlapete po ubohých“** (v4) – hebrejsky הַשֹּׁאֲפִים אֶבְיוֹן *hasha'afim evyon* = ti, kdo dychtí po chudém / šlapou po něm; „šlapat“ je živější.
-- **"sell corn" → „prodávat obilí“** (v5) – hebrejsky שֶׁבֶר *shever* = obilí; „obilí“, ne „kukuřice“ (americká angličtina: corn = kukuřice).
-- **"falsifying the balances by deceit" → „podvádět falešnými váhami“** (v5) – hebrejsky לְעַוֵּת מֹאזְנֵי מִרְמָה; modernizováno.
-- **"and sell the refuse of the wheat" → „prodávali plevy z pšenice“** (v6) – hebrejsky מַפַּל בַּר *mappal bar* = spadlé zrní / plevy; „plevy“ vystihuje bezcennost toho, co prodávají.
-- **"The LORD hath sworn by the excellency of Jacob" → „Yahweh přísahal při pýše Jacoba“** (v7) – hebrejsky גְּאוֹן יַעֲקֹב *ge'on Ya'aqov*; v souladu s Amos 6:8.
-- **"it shall rise up wholly as a flood; and it shall be cast out and drowned, as by the flood of Egypt" → „celá se nevzedme jako Nil, nerozbouří se a zase neklesne jako Nil v Egyptě“** (v8) – hebrejsky כִּיאֹר *ke'or* = jako Nil; „Nil“ výslovně; „rozbouří se a klesne“ vystihuje stoupání a klesání záplavy.
-- **"I will darken the earth in the clear day" → „zatemním zemi za bílého dne“** (v9) – modernizováno.
-- **"I will bring up sackcloth upon all loins" → „dám žíněné roucho na každá bedra“** (v10) – hebrejsky שַׂק עַל כָּל מָתְנַיִם *saq al kol matnayim*; *matnayim* = bedra / boky; EN „waist“ je přirozenější, česky „bedra“.
-- **"as the mourning of an only son" → „jako smutek za jediného syna“** (v10) – modernizováno.
-- **"Behold, the days come" → „Hle, přicházejí dny“** (v11) – hebrejsky הִנֵּה יָמִים בָּאִים; modernizováno.
-- **"a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the LORD" → „hlad – ne hlad po chlebu ani žízeň po vodě, ale po slyšení slov Yahweh“** (v11) – pomlčka vyznačuje rozvedené vysvětlení.
-- **"they shall run to and fro to seek the word of the LORD, and shall not find it" → „budou pobíhat sem a tam, aby hledali slovo Yahweh, ale nenajdou je“** (v12) – modernizováno.
-- **"the fair virgins and young men shall faint for thirst" → „půvabné panny i mladíci budou omdlévat žízní“** (v13) – hebrejsky הַבְּתוּלֹת הַיָּפוֹת *habbetulot hayafot* = půvabné panny; „půvabné“ je přesnější.
-- **"The manner of Beer–sheba liveth" → „Jakože živa je Cesta do Beersheba“** (v14) – hebrejsky דֶּרֶךְ בְּאֵר שֶׁבַע *derekh Be'er Sheva* = Cesta do Beersheba; poutní cesta; „Cesta“ je přesnější než „způsob“.
-- **"they shall fall, and never rise up again" → „padnou a už nikdy nevstanou“** (v14) – modernizováno.
+- **"Lord GOD" → „Pán Yahweh“** (v1, 3, 9, 11) – hebrejsky אֲדֹנָי יְהוִה, obě slova.
+- **Básnická struktura** – v2b–14 upraveny jako poezie; v1 a v2a zůstávají prózou.
+- **Oslovení bez „ó“** (v14) – hebrejština pro ně nemá slovo (řádek revizora).
+- **"Thus hath the Lord GOD shewed unto me: and behold a basket of summer fruit" → „Toto mi ukázal Pán Yahweh: a hle, koš letního ovoce“** (v1) – hebrejsky כֹּה הִרְאַנִי (jako 7:1); כְּלוּב „koš“; קַיִץ „letní (ovoce)“.
+- **"The end is come upon my people of Israel; I will not again pass by them any more" → „Přišel konec na můj lid Jisrael; už znovu ho nepominu“** (v2) – hebrejsky בָּא הַקֵּץ אֶל; קֵץ „konec“ (řádek). Vidění stojí na zvuku: קַיִץ *kajic* „letní ovoce“ – קֵץ *kec* „konec“; česky to zachovat nelze. לֹא־אוֹסִיף עוֹד עֲבוֹר לוֹ jako 7:8 (לוֹ jednotné číslo).
+- **"And the songs of the temple shall be howlings in that day" → „A písně chrámu budou kvílet v onen den“** (v3) – hebrejsky וְהֵילִילוּ שִׁירוֹת הֵיכָל, písně jsou podmětem slovesa (הֵילִיל „kvílet“, řádek); jiná vokalizace שָׁרוֹת „zpěvačky“ je konjektura, nepřevzata; הֵיכָל „chrám“ (řádek; možné i „palác“).
+- **"there shall be many dead bodies in every place; they shall cast them forth with silence" → „mnoho je mrtvých těl; na každém místě je vyhodil. Ticho!“** (v3) – hebrejsky רַב הַפֶּגֶר „mnoho je mrtvého těla“ (hromadné jednotné číslo; פֶּגֶר „mrtvé tělo“, řádek); בְּכָל־מָקוֹם הִשְׁלִיךְ, perfektum bez jmenovaného podmětu a bez předmětu („je“ doplněno; čte se i jako infinitiv „vyhazování“); הָס „Ticho!“ (jako 6:10). Řádek je strohý a jeho smysl nejistý.
+- **"O ye that swallow up the needy, even to make the poor of the land to fail" → „vy, kdo dychtíte po nuzném a abyste dali přestat ubohým země“** (v4) – hebrejsky הַשֹּׁאֲפִים „kdo dychtí po“ (שָׁאַף, řádek; jako 2:7; „šlapat“ z jiného kořene jen ve Změnách); וְלַשְׁבִּית, infinitiv (הִשְׁבִּית „dát přestat“, řádek); qere עֲנִיֵּי „ubozí“ (עָנִי, řádek), ketiv ענוי „pokorní“ (עָנָו): smysl je blízký.
+- **"When will the new moon be gone, that we may sell corn? and the sabbath, that we may set forth wheat" → „Kdy pomine novoluní, abychom prodávali obilí? A šabat, abychom otevřeli obilí?“** (v5) – hebrejsky הַחֹדֶשׁ, zde den novoluní vedle šabatu (řádek „měsíc“ je pro oběť měsíce; tento smysl žádá „novoluní“); וְנַשְׁבִּירָה שֶּׁבֶר „abychom prodávali obilí“ (הִשְׁבִּיר s vlastním podstatným jménem שֶׁבֶר, řádek); וְנִפְתְּחָה־בָּר „abychom otevřeli obilí“ (zásoby; בָּר, jiné slovo pro obilí, řádek); עָבַר „pominout“.
+- **"making the ephah small, and the shekel great, and falsifying the balances by deceit" → „Zmenšit éfu a zvětšit šekel a pokřivit váhy lsti“** (v5) – hebrejsky tři infinitivy s לְ; מֹאזְנֵי מִרְמָה „váhy lsti“ (מִרְמָה, řádek); שֶׁקֶל „šekel“, váha (řádek).
+- **"That we may buy the poor for silver, and the needy for a pair of shoes; yea, and sell the refuse of the wheat" → „kupovat chudé za peníze a nuzného za pár sandálů; a odpad obilí budeme prodávat“** (v6) – hebrejsky בַּכֶּסֶף (כֶּסֶף „peníze“ o ceně, řádek; slovo znamená „stříbro“); בַּעֲבוּר נַעֲלָיִם „kvůli sandálům“ (duál: pár); מַפַּל בַּר „co spadne z obilí“ (odpad; „plevy“ jsou מֹץ); נַשְׁבִּיר „budeme prodávat (obilí)“.
+- **"The LORD hath sworn by the excellency of Jacob, Surely I will never forget any of their works" → „Yahweh přísahal při pýše Jaakova: ‚Nikdy nezapomenu žádný z jejich skutků‘“** (v7) – hebrejsky גְּאוֹן יַעֲקֹב „pýcha Jaakova“ (jako 6:8, kde ji Yahweh má v ohavnosti; zda je to zde Boží jméno, jako „Sláva Jisraele“, je sporné); přísaha אִם־אֶשְׁכַּח לָנֶצַח „jestliže zapomenu navždy“ = „nikdy nezapomenu“ (Standing decisions); כָּל־מַעֲשֵׂיהֶם „všechny jejich skutky“.
+- **"Shall not the land tremble for this … as by the flood of Egypt" → „Což se kvůli tomu nezachvěje země a nebude truchlit každý, kdo v ní bydlí? A vystoupí jako Jeor, celá, a bude zmítána a klesne jako Jeor Micrajim“** (v8) – hebrejsky תִרְגַּז (רָגַז „rozrušit se, třást se“, řádek); כָאֹר je psáno bez jod slova יְאֹר (9:5 má ve stejném řádku כַּיְאֹר): čteno „jako Nil“ (token; písmena by šla číst „jako světlo“, což nedává smysl; qere není tištěno); וְנִגְרְשָׁה „a bude zmítána“; qere וְנִשְׁקְעָה „a klesne“ (ketiv ונשקה „a bude napojena“); כֻּלָּהּ „celá“ stojí na konci, jak je tištěno.
+- **"And it shall come to pass in that day … that I will cause the sun to go down at noon, and I will darken the earth in the clear day" → „A stane se v onen den … že dám slunci zapadnout v poledne a zatemním zemi v den světla“** (v9) – hebrejsky וְהָיָה בַּיּוֹם הַהוּא (řádek formulí proroků); וְהֵבֵאתִי הַשֶּׁמֶשׁ, dosl. „uvedu slunce dovnitř“ (slunce „vchází“, když zapadá); בְּיוֹם אוֹר „v den světla“.
+- **"I will bring up sackcloth upon all loins, and baldness upon every head; and I will make it as the mourning of an only son" → „vložím žíněné roucho na všechna bedra a na každou hlavu pleš; a učiním to jako truchlení pro jediného“** (v10) – hebrejsky וְהַעֲלֵיתִי „a vznesu (vložím)“; מָתְנַיִם „bedra“; שַׂק „žíněné roucho“ (řádek); קָרְחָה „pleš“ (řádek); אֵבֶל יָחִיד „truchlení pro jediného“ (יָחִיד, řádek: „syn“ ve slově není); קִינָה „žalozpěv“ (řádek); אַחֲרִיתָהּ „jeho konec“.
+- **"Behold, the days come … that I will send a famine in the land … but of hearing the words of the LORD" → „Hle, přicházejí dny … a pošlu na zemi hlad; ne hlad po chlebu a ne žízeň po vodě, ale po slyšení slov Yahweh“** (v11) – hebrejsky הִנֵּה יָמִים בָּאִים, bez členu (jako 4:2); וְהִשְׁלַחְתִּי, weqatal „a pošlu“; כִּי אִם po záporu, jedno postavené na místo druhého: „ale“ (řádek revizora); לִשְׁמֹעַ „slyšet“ (שָׁמַע, řádek).
+- **"And they shall wander from sea to sea … and shall not find it" → „A budou se potácet od moře k moři a od severu až k východu; budou se toulat, aby hledali slovo Yahweh, a nenaleznou ho“** (v12) – hebrejsky וְנָעוּ (נוּעַ „potácet se“, řádek; jako 4:8); מִיָּם עַד־יָם „od moře k moři“ (moře sama, ne „západ“); יְשׁוֹטְטוּ „budou se toulat“ (שׁוּט); בִּקֵּשׁ „hledat“ (řádek); „ho“ doplněno pro češtinu.
+- **"In that day shall the fair virgins and young men faint for thirst" → „V onen den budou omdlévat krásné panny i mladíci žízní“** (v13) – hebrejsky הַבְּתוּלֹת הַיָּפוֹת „krásné panny“ (בְּתוּלָה „panna“, řádek); תִּתְעַלַּפְנָה „budou omdlévat“ (ženský rod, řečeno o obou); בַּצָּמָא „žízní“ (צָמָא, řádek).
+- **"They that swear by the sin of Samaria, and say, Thy god, O Dan, liveth; and, The manner of Beer-sheba liveth; even they shall fall, and never rise up again" → „ti, kdo přísahají při vině Šomronu a říkají: ‚Jakože žije tvůj bůh, Dane,‘ a: ‚Jakože žije cesta Beer Ševy,‘ a padnou a už nevstanou“** (v14) – hebrejsky אַשְׁמַת „vina“ (אַשְׁמָה, řádek; „Ašima“, bůh přesídlenců Šomronu, 2 Kgs 17:30, je jiná vokalizace, nepřevzata); חֵי „jakože žije“ (přísaha); אֱלֹהֶיךָ o modle Danu: prosté „bůh“; דֶּרֶךְ „cesta“ (řádek; poutní cesta, či jméno; דֹּדְךָ „tvůj milý“ je konjektura); וְנָפְלוּ „a padnou“ (וְ zachováno); לֹא־יָקוּמוּ עוֹד „už nevstanou“ („nikdy“ říká víc než עוֹד).

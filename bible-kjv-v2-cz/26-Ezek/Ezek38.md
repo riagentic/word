@@ -1,59 +1,81 @@
 # Ezechiel 38
 
-[1] Ke mně přišlo slovo ⟦yhwh|Jahveho|Hospodina⟧:
+[1] A stalo se ke mně slovo ⟦yhwh|Jahveho|Hospodinovo⟧ se slovy:
 
-[2] „Synu člověka, obrať svou tvář ke ⟦gog|Gogovi|Gógovi⟧ ze země ⟦magog|Magog|Magóg⟧, nejvyššímu knížeti ⟦meshech|Mešechu|Mešeku⟧ a ⟦tubal|Tuvalu|Túbalu⟧, a prorokuj proti němu
+[2] „Synu člověka, postav svou tvář ke ⟦gog|Gogovi|Gógovi⟧ ze země ⟦magog|Magog|Magóg⟧, předákovi, hlavě ⟦meshech|Mešechu|Mešeku⟧ a ⟦tubal|Tuvalu|Túbalu⟧, a prorokuj proti němu
 
-[3] a řekni: Tak praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Hle, jsem proti tobě, ⟦gog|Gogu|Gógu⟧, nejvyšší kníže ⟦meshech|Mešechu|Mešeku⟧ a ⟦tubal|Tuvalu|Túbalu⟧.
+[3] a řekni: Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Hle, já jsem proti tobě, ⟦gog|Gogu|Gógu⟧, předáku, hlavo ⟦meshech|Mešechu|Mešeku⟧ a ⟦tubal|Tuvalu|Túbalu⟧.
 
-[4] Obrátím tě, dám ti háky do čelistí a vyvedu tě i celé tvé vojsko, koně a jezdce, všechny oděné v plné zbroji, veliký zástup, všechny s pavézou a štítem, třímající meče.
+[4] A obrátím tě a dám háky do tvých čelistí a vyvedu tebe i celé tvé vojsko, koně a jezdce, všechny oděné v plné výstroji, veliké shromáždění, s pavézou a štítem, všechny třímající meče;
 
-[5] ⟦persia|Paras|Persie⟧, ⟦cush|Kuš|Kúš⟧ a ⟦put|Put|Pút⟧ jsou s nimi, všichni se štítem a přilbou;
+[5] ⟦persia|Paras|Persie⟧, ⟦cush|Kuš|Kúš⟧ a ⟦put|Put|Pút⟧ s nimi, všichni se štítem a přilbou;
 
-[6] Gomer a všechny jeho hordy; ⟦beth-togarmah|Bejt Togarma|Bét-togarma⟧ z nejzazších končin severu se všemi svými hordami – mnohé národy jsou s tebou.
+[6] Gomer a všechny jeho voje; ⟦beth-togarmah|Bejt Togarma|Bét-togarma⟧, odlehlé končiny severu, a všechny jeho voje – mnohé národy s tebou.
 
-[7] „Buď připraven a zůstaň připraven, ty i všechny tvé zástupy, které se kolem tebe shromáždily, a buď jim strážcem.
+[7] Buď připraven a připrav se, ty i celé tvé shromáždění, které se k tobě shromáždilo, a budeš jim strážcem.
 
-[8] Po mnoha dnech budeš povolán. V posledních letech vytáhneš proti zemi, která se zotavila z války, proti zemi, jejíž lid byl shromážděn z mnoha národů na hory ⟦israel|Jisraele|Izraele⟧, jež byly ustavičnou pustinou. Její lid byl vyveden z národů a nyní všichni bydlí v bezpečí.
+[8] Po mnoha dnech budeš navštíven; v pozdějších letech přijdeš do země navrácené od meče, shromážděné z mnoha národů, na hory ⟦israel|Jisraele|Izraele⟧, které byly ustavičně zříceninou; a ta byla vyvedena z národů a bydlí v bezpečí, všichni.
 
-[9] Vytáhneš, přiženeš se jako bouře. Budeš jako mračno, které přikrývá zemi, ty i všechny tvé hordy a mnohé národy s tebou.
+[9] A vystoupíš; jako zpustošení přijdeš; jako oblak, který přikryje zemi, budeš, ty i všechny tvé voje a mnohé národy s tebou.
 
-[10] „Tak praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: V ten den ti přijdou na mysl myšlenky a vymyslíš zlý úklad
+[10] Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: A stane se v onen den, že ti vystoupí na srdce věci a vymyslíš zlý návrh;
 
-[11] a řekneš: ‚Vytáhnu proti zemi neohrazených vesnic. Přepadnu klidný lid, který bydlí v bezpečí, všichni bydlí bez hradeb a nemají závory ani brány,‘
+[11] a řekneš: Vystoupím proti zemi otevřených vesnic; přijdu na klidné, kteří bydlí v bezpečí, všichni bydlí bez hradby a závoru ani vrata nemají;
 
-[12] abys uchvátil kořist a odnesl lup, abys obrátil svou ruku proti troskám, jež jsou nyní obydlené, a proti lidu shromážděnému z národů, který získal dobytek a statky a bydlí uprostřed země.
+[12] abys bral kořist a plenil plen, abys obrátil svou ruku proti zříceninám, které jsou obydleny, a proti lidu shromážděnému z národů, který si udělal dobytek a majetek, kteří bydlí na pupku země.
 
-[13] ⟦sheba|Ševa|Šeba⟧ a ⟦dedan|Dedan|Dedán⟧ a obchodníci z ⟦tarshish|Taršiše|Taršíše⟧ a všichni jeho vůdcové ti řeknou: ‚Přišel jsi uchvátit kořist? Shromáždil jsi své zástupy, abys odnesl lup, abys odvezl stříbro a zlato, abys vzal dobytek a statky, abys uchvátil velikou kořist?‘
+[13] ⟦sheba|Ševa|Šeba⟧ a ⟦dedan|Dedan|Dedán⟧ a kupci z ⟦tarshish|Taršiše|Taršíše⟧ a všichni jeho mladí lvi ti řeknou: Abys bral kořist, přicházíš? Abys plenil plen, shromáždil jsi své shromáždění, abys odnesl stříbro a zlato, abys vzal dobytek a majetek, abys bral velikou kořist?
 
-[14] „Proto, synu člověka, prorokuj a řekni ⟦gog|Gogovi|Gógovi⟧: Tak praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: V ten den, kdy můj lid ⟦israel|Jisrael|Izrael⟧ bude bydlet v bezpečí, což se to nedozvíš?
+[14] Proto prorokuj, synu člověka, a řekni ⟦gog|Gogovi|Gógovi⟧: Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Což v onen den, až můj lid ⟦israel|Jisrael|Izrael⟧ bude bydlet v bezpečí, nepoznáš?
 
-[15] Přijdeš ze svého místa z nejzazších končin severu, ty a mnohé národy s tebou, všichni na koních, veliký zástup, mocné vojsko.
+[15] A přijdeš ze svého místa, z odlehlých končin severu, ty a mnohé národy s tebou, jezdci na koních všichni, veliké shromáždění a početné vojsko.
 
-[16] Vytáhneš proti mému lidu ⟦israel|Jisraeli|Izraeli⟧ jako mračno, které přikrývá zemi. V posledních dnech tě přivedu proti své zemi, aby mě národy poznaly, až skrze tebe, ⟦gog|Gogu|Gógu⟧, před jejich očima prokážu svou svatost.
+[16] A vystoupíš proti mému lidu ⟦israel|Jisraeli|Izraeli⟧ jako oblak, který přikryje zemi; v pozdějších dnech to bude; a přivedu tě proti své zemi, aby mě národy poznaly, až budu posvěcen skrze tebe před jejich očima, ⟦gog|Gogu|Gógu⟧.
 
-[17] „Tak praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Nejsi ty ten, o němž jsem mluvil v dřívějších dnech skrze své služebníky, proroky ⟦israel|Jisraele|Izraele⟧, kteří v oněch dnech po léta prorokovali, že tě přivedu proti nim?
+[17] Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Jsi ty ten, o němž jsem mluvil v dřívějších dnech rukou svých služebníků, proroků ⟦israel|Jisraele|Izraele⟧, kteří v oněch dnech prorokovali, léta, že tě přivedu proti nim?
 
-[18] Ale v ten den, v den, kdy ⟦gog|Gog|Góg⟧ přitáhne proti zemi ⟦israel|Jisraele|Izraele⟧, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧, vzplane v mém hněvu má zloba.
+[18] A stane se v onen den, v den, kdy ⟦gog|Gog|Góg⟧ přijde proti půdě ⟦israel|Jisraele|Izraele⟧, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧, má zuřivost vystoupí v mém hněvu.
 
-[19] Neboť ve své žárlivosti a ve své planoucí zlobě prohlašuji: V ten den nastane v zemi ⟦israel|Jisraele|Izraele⟧ veliké zemětřesení.
+[19] A ve své žárlivosti, v ohni své prchlivosti jsem promluvil: jistě v onen den nastane veliký otřes na půdě ⟦israel|Jisraele|Izraele⟧;
 
-[20] Ryby moře, ptáci nebes, zvěř pole a všichni plazi, kteří se plazí po zemi, i všichni lidé, kteří jsou na tváři země, se budou třást před mou tváří. Hory budou svrženy, útesy se zřítí a každá zeď se skácí k zemi.
+[20] a před mou tváří se zachvějí ryby moře a ptactvo nebes a živočichové pole a každý plaz, který se plazí po půdě, a všichni lidé, kteří jsou na tváři půdy; a hory budou strženy a strmé stráně padnou a každá hradba padne k zemi.
 
-[21] Povolám proti ⟦gog|Gogovi|Gógovi⟧ meč na všech svých horách, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧. Meč každého bude proti jeho bratru.
+[21] A povolám proti němu meč na všech svých horách, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧; meč každého bude proti jeho bratru.
 
-[22] Morem a krveprolitím se s ním budu soudit a sešlu na něj, na jeho hordy a na mnohé národy, které jsou s ním, přívalové deště a krupobití, oheň a síru.
+[22] A budu se s ním soudit morem a krví; a přívalový déšť a kameny krupobití, oheň a síru dám pršet na něho a na jeho voje a na mnohé národy, které jsou s ním.
 
-[23] Tak projevím svou velikost a svou svatost a dám se poznat před očima mnoha národů. Tehdy poznají, že já jsem ⟦yhwh|Jahve|Hospodin⟧.“
+[23] A ukážu se velikým a ukážu se svatým a dám se poznat před očima mnoha národů; a poznají, že já jsem ⟦yhwh|Jahve|Hospodin⟧.“
 
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – tetragram יְהוָה přeložen přímo.
-- **"Lord GOD" → „Pán Yahweh“** (v celé kapitole) – hebrejsky אֲדֹנָי יְהוִה *Adonai Yahweh*; Ezechielův charakteristický zdvojený božský titul.
-- **"Gog / Magog" ponecháno** (v2) – hebrejsky גּוֹג *Gog* a מָגוֹג *Magog*; eschatologická nepřátelská postava a země; vlastní jména ponechána; *Gog* = kníže z *Magog*, nejvyšší kníže *Meshechu* a *Tubalu*.
-- **"Put" ponecháno** (v5) – hebrejsky פּוּט *Put*; africký vojenský národ; vlastní jméno ponecháno.
-- **"Gomer" / "Beth-togarmah" ponecháno** (v6) – hebrejsky גֹּמֶר *Gomer* a בֵּית תּוֹגַרְמָה *Beth-togarmah*; národy z Malé Asie / Kavkazu; vlastní jména ponechána.
-- **"Sheba / Dedan / Tarshish" ponecháno** (v13) – hebrejská místní a národní jména ponechána jako vlastní jména.
+- **"Lord GOD" → „Pán Yahweh“** (v celé kapitole) – hebrejsky אֲדֹנָי יְהוִה *Adonai Yahweh*, obě slova; Ezechielův charakteristický zdvojený božský titul.
+- **"And"** (v celé kapitole) – hebrejština spojuje věty pomocí וְ „a“; řetěz je zachován. Uvozovky, které uvnitř jedné řeči otvíraly nové odstavce (v7, 10, 14, 17), jsou vypuštěny: řeč běží od v2 do v23.
+- **"And the word of the LORD came unto me, saying" → „A stalo se ke mně slovo Yahweh se slovy“** (v1) – prorocká formule, jedno znění; לֵאמֹר „se slovy“ zachováno.
+- **"set thy face against Gog" → „postav svou tvář ke Gogovi“** (v2) – שִׂים פָּנֶיךָ אֶל (řádek שִׂים פָּנִים: „postavit“; jako 6:2). **"the land of Magog" → „ze země Magog“** – אֶרֶץ הַמָּגוֹג stojí vedle „Gog“ bez předložky („Gog, země toho Magog“); „ze“ je doplněno, protože „Gog, země“ by z Goga udělalo zemi; před Magog je napsán člen הַ (v Gen 10:2 je Magog syn Jefeta, tam bez členu). **"the chief prince of Meshech and Tubal" → „předákovi, hlavě Mešechu a Tuvalu“** (v2, 3) – נְשִׂיא רֹאשׁ מֶשֶׁךְ וְתֻבָל. Rozhodují akcenty: נְשִׂיא nese oddělující akcent (zakef), a tak רֹאשׁ není s ním spojeno jako „kníže Roše“; רֹאשׁ „hlava“ patří k „Mešechu a Tuvalu“. Druhé čtení, „předák Roše, Mešechu a Tuvalu“, bere רֹאשׁ jako třetí národ (tak Septuaginta, Ῥως, zpaměti); národ Roš se jinde v hebrejské Bibli nejmenuje. נָשִׂיא „předák“ (podle svého řádku; KJV „prince“; jako 37:25); KJV „chief prince“ slučuje obě slova v jeden titul.
+- **"prophesy against him" → „prorokuj proti němu“** (v2) – עָלָיו „proti němu / o něm“.
+- **"O Gog" → „Gogu“** (v3, 16) – vokativ, bez „ó“. **"Behold, I am against thee" → „Hle, já jsem proti tobě“** – הִנְנִי אֵלֶיךָ, doslova „hle, já k tobě“.
+- **"I will turn thee back" → „obrátím tě“** (v4) – שׁוֹבַבְתִּיךָ, polel od שׁוּב. **"and put hooks into thy jaws" → „a dám háky do tvých čelistí“** – חַחִים „háky“ (jako 19:4; 29:4); לְחָיַיִם „čelisti“. **"all thine army" → „celé tvé vojsko“** – חַיִל „vojsko“ (řádek חַיִל). **"all of them clothed with all sorts of armour" → „všechny oděné v plné výstroji“** – לְבֻשֵׁי מִכְלוֹל, doslova „oděné v úplnosti“ (jako 23:12: plně a skvěle oblečené; „zbroj“ je odhad). **"a great company" → „veliké shromáždění“** – קָהָל „shromáždění“ (podle svého řádku; také v7, 13, 15). **"with bucklers and shields" → „s pavézou a štítem“** – צִנָּה, velký štít (podle svého řádku), vedle מָגֵן „štít“; česky „pavéza“ je právě velký štít. **"handling swords" → „třímající meče“** – תֹּפְשֵׂי (תָּפַשׂ „uchopit, třímat“).
+- **"Persia, Ethiopia, and Libya with them" → „Paras, Kuš a Put s nimi“** (v5) – כּוּשׁ a פּוּט jsou jména (jako Gen 10:6), ne „Etiopie“, „Libye“. **"all of them with shield and helmet" → „všichni se štítem a přilbou“** – doslova „všichni štít a přilba“: „se“ doplněno; כּוֹבַע „přilba“ (podle svého řádku).
+- **"Gomer, and all his bands" → „Gomer a všechny jeho voje“** (v6) – אֲגַפִּים „voje“ (doslova „křídla“ vojska, jako 12:14; 17:21; také v9, 22); první „jeho“ je v hebrejštině ženského rodu (Gomer), druhé mužského (Bejt Togarma). **"of the north quarters" → „odlehlé končiny severu“** – יַרְכְּתֵי צָפוֹן (řádek „odlehlé končiny“; také v15), bez „z“: hebrejština to klade vedle jména. **"and many people with thee" → „mnohé národy s tebou“** – עַמִּים množné číslo.
+- **"Be thou prepared, and prepare for thyself" → „Buď připraven a připrav se“** (v7) – הִכֹּן וְהָכֵן לְךָ, nifal a hifil jednoho kořene. **"thy company that are assembled unto thee" → „celé tvé shromáždění, které se k tobě shromáždilo“** – קָהָל … נִקְהָלִים, jeden kořen. **"and be thou a guard unto them" → „a budeš jim strážcem“** – וְהָיִיתָ, weqatal; לְמִשְׁמָר „za stráž“ (řádek מִשְׁמָר „vazba“: „střežení“; zde ten, kdo nad nimi drží stráž, nebo jejich shromaždiště: nejisté).
+- **"After many days thou shalt be visited" → „Po mnoha dnech budeš navštíven“** (v8) – תִּפָּקֵד, nifal od פָּקַד (řádek „navštívit“): „být navštíven“ (k trestu), nebo „být sečten / povolán“ (řádek „sečíst“); obojí sedí. **"in the latter years" → „v pozdějších letech“** – בְּאַחֲרִית הַשָּׁנִים, jako řádek בְּאַחֲרִית הַיָּמִים. **"into the land that is brought back from the sword, and is gathered out of many people" → „do země navrácené od meče, shromážděné z mnoha národů“** – מְשׁוֹבֶבֶת (polal od שׁוּב) a מְקֻבֶּצֶת jsou participia; חֶרֶב „meč“ (ne „válka“). **"which have been always waste" → „které byly ustavičně zříceninou“** – חָרְבָּה „zřícenina“ (podle svého řádku); תָּמִיד „ustavičně“. **"but it is brought forth out of the nations" → „a ta byla vyvedena z národů“** – עַמִּים. **"and they shall dwell safely all of them" → „a bydlí v bezpečí, všichni“** – לָבֶטַח „v bezpečí“ (řádek בֶּטַח; také v11, 14).
+- **"Thou shalt ascend and come like a storm, thou shalt be like a cloud to cover the land" → „A vystoupíš; jako zpustošení přijdeš; jako oblak, který přikryje zemi, budeš“** (v9) – hebrejský pořádek; שׁוֹאָה „zpustošení“ (podle svého řádku; KJV „storm“); כֶּעָנָן „jako oblak“ (také v16).
+- **"It shall also come to pass, that at the same time shall things come into thy mind" → „A stane se v onen den, že ti vystoupí na srdce věci“** (v10) – וְהָיָה בַּיּוֹם הַהוּא (řádek formule); יַעֲלוּ „vystoupí“; דְּבָרִים „věci“ (řádek דָּבָר); עַל־לְבָבֶךָ „na tvé srdce“. **"and thou shalt think an evil thought" → „a vymyslíš zlý návrh“** – חָשַׁבְתָּ מַחֲשֶׁבֶת (řádek חָשַׁב מַחֲשָׁבֹת: doslova „myslet myšlenku“).
+- **"to the land of unwalled villages" → „proti zemi otevřených vesnic“** (v11) – עַל; פְּרָזוֹת „otevřené vesnice“ (bez hradeb; jako Zech 2:4). **"I will go to them that are at rest" → „přijdu na klidné“** – אָבוֹא הַשֹּׁקְטִים. **"and having neither bars nor gates" → „a závoru ani vrata nemají“** – בְּרִיחַ „závora“ (podle svého řádku), דְּלָתַיִם „vrata“ (dvě křídla brány).
+- **"To take a spoil, and to take a prey" → „abys bral kořist a plenil plen“** (v12) – לִשְׁלֹל שָׁלָל, doslova „kořistit kořist“ (שָׁלָל „kořist“), a לָבֹז בַּז „plenit plen“ (řádek בָּזַז): sloveso a jméno jednoho kořene (také v13). **"to turn thine hand upon the desolate places that are now inhabited" → „abys obrátil svou ruku proti zříceninám, které jsou obydleny“** – לְהָשִׁיב יָדְךָ עַל; חֳרָבוֹת „zříceniny“; נוֹשָׁבֹת „obydlené“ („nyní“ není napsáno). **"which have gotten cattle and goods" → „který si udělal dobytek a majetek“** – עֹשֶׂה, participium jednotného čísla od עָשָׂה „dělat“ (jako Gen 12:5; 31:1: „udělat“ jmění = nabýt ho); מִקְנֶה „dobytek“, קִנְיָן „majetek“ (podle svých řádků). **"that dwell in the midst of the land" → „kteří bydlí na pupku země“** – עַל־טַבּוּר הָאָרֶץ: טַבּוּר „pupek“ (podle svého řádku; nejisté, jako Judg 9:37: vyvýšený střed); אֶרֶץ „země“ jako svět i jako krajina.
+- **"the merchants of Tarshish, with all the young lions thereof" → „kupci z Taršiše a všichni jeho mladí lvi“** (v13) – סֹחֲרִים „kupci“ (řádek סֹחֵר); כְּפִרֶיהָ „jeho mladí lvi“ (masoretské punktování; obraz jeho silných mužů, jako 19:2–6; 32:2); „jeho vesnice“ (כְּפָרִים) a „jeho obchodníci“ jsou jiná čtení (zpaměti). **"Art thou come to take a spoil?" → „Abys bral kořist, přicházíš?“** – הֲלִשְׁלֹל שָׁלָל אַתָּה בָא, otázka míří na účel. **"hast thou gathered thy company" → „shromáždil jsi své shromáždění“** – הִקְהַלְתָּ קְהָלֶךָ. **"to carry away" → „abys odnesl“** – לָשֵׂאת (נָשָׂא „zvednout, nést“).
+- **"In that day when my people of Israel dwelleth safely, shalt thou not know it?" → „Což v onen den, až můj lid Jisrael bude bydlet v bezpečí, nepoznáš?“** (v14) – הֲלוֹא … תֵּדָע, bez předmětu („to“ bylo doplněno); Septuaginta má „nevzchopíš se“ (čte תֵּעוֹר, zpaměti): MT je zachován.
+- **"out of the north parts" → „z odlehlých končin severu“** (v15). **"all of them riding upon horses" → „jezdci na koních všichni“** – רֹכְבֵי סוּסִים (řádek רֹכֵב „jezdec“). **"a great company, and a mighty army" → „veliké shromáždění a početné vojsko“** – קָהָל גָּדוֹל וְחַיִל רָב; רַב „mnohý, početný“ (ve v4 קָהָל רָב „veliké“: čeština potřebuje pro jedno רַב dvě slova).
+- **"it shall be in the latter days" → „v pozdějších dnech to bude“** (v16) – בְּאַחֲרִית הַיָּמִים תִּהְיֶה (řádek: „v pozdějších dnech“); תִּהְיֶה může být „to bude“ i „budeš“ (jako v9). **"that the heathen may know me" → „aby mě národy poznaly“** – לְמַעַן + infinitiv. **"when I shall be sanctified in thee, O Gog, before their eyes" → „až budu posvěcen skrze tebe před jejich očima, Gogu“** – בְּהִקָּדְשִׁי בְךָ (řádek נִקְדַּשׁ nifal: „být posvěcen“, nebo „prokázat se svatým“); vokativ stojí na konci jako v hebrejštině; bez „ó“.
+- **"Art thou he of whom I have spoken in old time by my servants the prophets of Israel" → „Jsi ty ten, o němž jsem mluvil v dřívějších dnech rukou svých služebníků, proroků Jisraele“** (v17) – בְּיָמִים קַדְמוֹנִים „v dřívějších dnech“; בְּיַד „rukou“ (zachováno). **"which prophesied in those days many years" → „kteří v oněch dnech prorokovali, léta“** – שָׁנִים „léta“, bez „mnohá“: stojí samo za „v oněch dnech“ (= po léta). **"that I would bring thee against them" → „že tě přivedu proti nim“**.
+- **"And it shall come to pass at the same time when Gog shall come against the land of Israel" → „A stane se v onen den, v den, kdy Gog přijde proti půdě Jisraele“** (v18) – řádek formule; אַדְמַת יִשְׂרָאֵל „půda Jisraele“ (Ezechielovo spojení; jako 37:12; také v19). **"that my fury shall come up in my face" → „má zuřivost vystoupí v mém hněvu“** – חֵמָה „zuřivost“ (podle svého řádku); בְּאַפִּי, אַף „hněv“ (stálé rozhodnutí; doslova „v mém nose“, sídle hněvu).
+- **"For in my jealousy and in the fire of my wrath have I spoken" → „A ve své žárlivosti, v ohni své prchlivosti jsem promluvil“** (v19) – וּ „a“; קִנְאָה „žárlivost“ (podle svého řádku); עֶבְרָה „prchlivost“ (vedle חֵמָה „zuřivost“). **"Surely in that day there shall be a great shaking in the land of Israel" → „jistě v onen den nastane veliký otřes na půdě Jisraele“** – אִם־לֹא, přísežná forma, doslova „jestliže ne …“ (stálé rozhodnutí: podle smyslu „jistě“); רַעַשׁ „otřes“ (řádek pro Ezechiele; o půdě zemětřesení: v20 říká, co způsobí).
+- **"So that the fishes … shall shake at my presence" → „a před mou tváří se zachvějí ryby …“** (v20) – וְרָעֲשׁוּ, sloveso od רַעַשׁ; מִפָּנַי, doslova „od mé tváře“ (řádek פָּנִים o Yahwehovi: „tvář“, nikdy „přítomnost“). **"the fowls of the heaven" → „ptactvo nebes“** – עוֹף הַשָּׁמַיִם. **"the beasts of the field" → „živočichové pole“** – חַיַּת הַשָּׂדֶה (řádek חַיָּה). **"all the men" → „všichni lidé“** – כֹּל הָאָדָם. **"the steep places shall fall" → „strmé stráně padnou“** – מַדְרֵגוֹת (jen zde a Song 2:14: stupňovité skály). **"to the ground" → „k zemi“** – לָאָרֶץ; חוֹמָה „hradba“.
+- **"And I will call for a sword against him throughout all my mountains" → „A povolám proti němu meč na všech svých horách“** (v21) – וְקָרָאתִי עָלָיו לְכָל־הָרַי חֶרֶב: „proti němu“ (dřívější znění doplnilo jméno Gog); לְ „k, pro, na“. **"every man's sword shall be against his brother" → „meč každého bude proti jeho bratru“** – חֶרֶב אִישׁ בְּאָחִיו (řádek אִישׁ … אָחִיו).
+- **"And I will plead against him with pestilence and with blood" → „A budu se s ním soudit morem a krví“** (v22) – וְנִשְׁפַּטְתִּי אִתּוֹ (řádek נִשְׁפַּט עִם; jako 17:20; 20:35–36); דֶּבֶר „mor“, דָּם „krev“. **"an overflowing rain, and great hailstones" → „přívalový déšť a kameny krupobití“** – גֶּשֶׁם שׁוֹטֵף (שָׁטַף „zaplavit, oplachovat“; jako 13:11, 13); אַבְנֵי אֶלְגָּבִישׁ „kameny krupobití“ (řádek pro Ezek 13–16; „veliké“ není napsáno). **"fire, and brimstone" → „oheň a síru“** – גָּפְרִית (podle svého řádku). **"I will rain upon him" → „dám pršet na něho“** – אַמְטִיר (řádek הִמְטִיר).
+- **"Thus will I magnify myself, and sanctify myself" → „A ukážu se velikým a ukážu se svatým“** (v23) – הִתְגַּדִּלְתִּי וְהִתְקַדִּשְׁתִּי, hitpael (řádek הִתְקַדֵּשׁ: „posvětit se“; zde o Yahwehovi „ukázat se svatým“); „tak“ nebylo napsáno. **"and I will be known in the eyes of many nations" → „a dám se poznat před očima mnoha národů“** – וְנוֹדַעְתִּי, nifal; לְעֵינֵי „před očima“ (řádek). **"and they shall know that I am the LORD" → „a poznají, že já jsem Yahweh“** – formule, jedno znění.
 
 ### Poznámky
-- **Gog / Magog** – eschatologičtí nepřátelé; ozvěna v Rev 20:8.
+- **Gog / Magog** – Gog je jmenován jen zde a v kap. 39 (a 1 Chr 5:4, jiný muž); Magog, Mešech, Tuval, Gomer a Togarma jsou synové a vnuci Jefeta v Gen 10:2–3; Mešech a Tuval stojí spolu i ve 27:13; 32:26. Převzato v Rev 20:8 („Gog a Magog“).
+- **v17** – žádné dřívější proroctví Goga nejmenuje; otázka ukazuje na slova proroků o nepříteli ze severu (jako Jer 1:14–15; 4–6).

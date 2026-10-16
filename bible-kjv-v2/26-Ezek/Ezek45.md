@@ -1,62 +1,81 @@
 # Ezekiel 45
 
-[1] "When you allot the land as an inheritance, you shall set apart for ⟦yhwh|Yahweh|the LORD⟧ a portion of the land as a holy district, 25,000 cubits long and 10,000 cubits broad. It shall be holy throughout its whole extent.
+[1] "And when you make the land fall as an inheritance, you shall lift up a contribution to ⟦yhwh|Yahweh|the LORD⟧, a holy thing from the land: the length twenty-five thousand in length, and the breadth ten thousand. It is holy in all its border all around.
 
-[2] Of this, a square plot of 500 by 500 cubits shall be for the sanctuary, with fifty cubits for an open space around it.
+[2] Of this there shall be for the Holy five hundred by five hundred, squared all around, and fifty cubits of pasture land for it all around.
 
-[3] And from this measured district you shall measure off a section 25,000 cubits long and 10,000 broad, in which shall be the sanctuary, the Most Holy Place.
+[3] And from this measure you shall measure a length of twenty-five thousand and a breadth of ten thousand; and in it shall be the sanctuary, most holy.
 
-[4] It shall be the holy portion of the land. It shall be for the priests, who minister in the sanctuary and approach ⟦yhwh|Yahweh|the LORD⟧ to minister to him, and it shall be a place for their houses and a holy place for the sanctuary.
+[4] It is a holy thing from the land; it shall be for the priests, the ministers of the sanctuary, who come near to minister to ⟦yhwh|Yahweh|the LORD⟧; and it shall be for them a place for houses, and a sanctuary for the sanctuary.
 
-[5] Another section, 25,000 cubits long and 10,000 cubits broad, shall be for the ⟦levites|Leviyim|Levites⟧ who minister at the temple, as their possession for cities to live in.
+[5] And twenty-five thousand in length and ten thousand in breadth shall be for the ⟦levites|Leviyim|Levites⟧, the ministers of the house, for them as a possession: twenty chambers.
 
-[6] "Alongside the portion set apart as the holy district you shall assign for the property of the city an area 5,000 cubits broad and 25,000 cubits long. It shall belong to the whole house of ⟦israel|Yisrael|Israel⟧.
+[6] And as the possession of the city you shall give five thousand in breadth and twenty-five thousand in length, alongside the holy contribution; for all the house of ⟦israel|Yisrael|Israel⟧ it shall be.
 
-[7] "And to the prince shall belong the land on both sides of the holy district and the property of the city, alongside the holy district and the property of the city, on the west and on the east, corresponding in length to one of the tribal portions, and extending from the western to the eastern boundary
+[7] And for the chieftain: on this side and on that side of the holy contribution and of the possession of the city, facing the holy contribution and facing the possession of the city, from the west side westward and from the east side eastward, and in length alongside one of the shares, from the west border to the east border.
 
-[8] of the land. It is to be his property in ⟦israel|Yisrael|Israel⟧. And my princes shall no more oppress my people, but they shall let the house of ⟦israel|Yisrael|Israel⟧ have the land according to their tribes.
+[8] Of the land it shall be his as a possession in ⟦israel|Yisrael|Israel⟧; and my chieftains shall no more wrong my people, and the land they shall give to the house of ⟦israel|Yisrael|Israel⟧ by their tribes.
 
-[9] "Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: Enough, O princes of ⟦israel|Yisrael|Israel⟧! Put away violence and oppression, and execute justice and righteousness. Cease your evictions of my people, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.
+[9] Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: Enough for you, chieftains of ⟦israel|Yisrael|Israel⟧! Violence and havoc remove, and judgment and righteousness do; lift your evictions off from upon my people, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.
 
-[10] "You shall have just balances, a just ephah, and a just bath.
+[10] Righteous balances, and a righteous ephah, and a righteous bath you shall have.
 
-[11] The ephah and the bath shall be of the same measure, the bath containing one tenth of a homer, and the ephah one tenth of a homer; the homer shall be the standard measure.
+[11] The ephah and the bath shall be one measure, so that the bath carries a tenth of the homer, and the ephah a tenth of the homer; by the homer shall be its amount.
 
-[12] The shekel shall be twenty gerahs. Five shekels shall be five shekels, and ten shekels shall be ten shekels, and your mina shall be fifty shekels.
+[12] And the shekel is twenty gerahs; twenty shekels, twenty-five shekels, fifteen shekels shall be your mina.
 
-[13] "This is the offering that you shall make: one sixth of an ephah from each homer of wheat, and one sixth of an ephah from each homer of barley,
+[13] This is the contribution that you shall lift up: a sixth of the ephah from the homer of wheat, and you shall make a sixth of the ephah from the homer of barley;
 
-[14] and as the fixed portion of oil, measured in the bath, one tenth of a bath from each kor (the kor, like the homer, contains ten baths).
+[14] and the statute of the oil, the bath of oil: a tenth of the bath from the kor; ten baths are a homer, for ten baths are a homer;
 
-[15] And one sheep from every flock of two hundred, from the watering places of ⟦israel|Yisrael|Israel⟧ for grain offering, burnt offering, and peace offerings, to make atonement for them, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.
+[15] and one sheep from the flock, out of the two hundred, from the watering places of ⟦israel|Yisrael|Israel⟧, for a grain offering and for a burnt offering and for peace offerings, to make atonement for them, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.
 
-[16] All the people of the land shall be obliged to give this offering to the prince in ⟦israel|Yisrael|Israel⟧.
+[16] All the people of the land shall be for this contribution, for the chieftain in ⟦israel|Yisrael|Israel⟧.
 
-[17] It shall be the prince's duty to furnish the burnt offerings, grain offerings, and drink offerings, at the feasts, the new moons, and the ⟦shabbat|Shabbatot|Sabbaths⟧, all the appointed feasts of the house of ⟦israel|Yisrael|Israel⟧: he shall provide the sin offerings, grain offerings, burnt offerings, and peace offerings, to make atonement on behalf of the house of ⟦israel|Yisrael|Israel⟧.
+[17] And upon the chieftain shall be the burnt offerings and the grain offering and the drink offering, at the feasts and at the months and at the ⟦shabbat|Shabbatot|Sabbaths⟧, at all the appointed times of the house of ⟦israel|Yisrael|Israel⟧. He shall offer the sin offering and the grain offering and the burnt offering and the peace offerings, to make atonement on behalf of the house of ⟦israel|Yisrael|Israel⟧.
 
-[18] "Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: In the first month, on the first day of the month, you shall take a bull from the herd without blemish, and purify the sanctuary.
+[18] Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: In the first, on the first of the month, you shall take a bull of the herd without blemish, and you shall purge the sanctuary of sin.
 
-[19] The priest shall take some of the blood of the sin offering and put it on the doorposts of the temple, the four corners of the ledge of the altar, and the posts of the gate of the inner court.
+[19] And the priest shall take of the blood of the sin offering and put on the doorpost of the house, and on the four corners of the ledge of the altar, and on the doorpost of the gate of the inner court.
 
-[20] You shall do the same on the seventh day of the month for anyone who has sinned through error or ignorance; so you shall make atonement for the temple.
+[20] And so you shall do on the seventh in the month, for a man who errs and for the simple; and you shall make atonement for the house.
 
-[21] "In the first month, on the fourteenth day of the month, you shall celebrate the ⟦pesach|Pesach|Passover⟧, and for seven days unleavened bread shall be eaten.
+[21] In the first, on the fourteenth day of the month, the ⟦pesach|Pesach|Passover⟧ shall be yours, a feast of weeks of days; unleavened bread shall be eaten.
 
-[22] On that day the prince shall provide for himself and all the people of the land a young bull for a sin offering.
+[22] And the chieftain shall offer on that day, on behalf of himself and on behalf of all the people of the land, a bull of sin offering.
 
-[23] And on the seven days of the feast he shall provide as a burnt offering to ⟦yhwh|Yahweh|the LORD⟧ seven young bulls and seven rams without blemish, on each of the seven days; and a male goat daily for a sin offering.
+[23] And the seven days of the feast he shall offer a burnt offering to ⟦yhwh|Yahweh|the LORD⟧: seven bulls and seven rams without blemish for the day, the seven days; and as a sin offering a male goat of the goats for the day.
 
-[24] And he shall provide as a grain offering an ephah for each bull, an ephah for each ram, and a hin of oil to each ephah.
+[24] And a grain offering, an ephah for the bull and an ephah for the ram, he shall offer; and oil, a hin for the ephah.
 
-[25] In the seventh month, on the fifteenth day of the month and for the seven days of the feast, he shall make the same provision for sin offerings, burnt offerings, and grain offerings, and for the oil."
+[25] In the seventh, on the fifteenth day of the month, at the feast, he shall offer like these the seven days: as the sin offering, as the burnt offering, and as the grain offering, and as the oil."
 
 ## Changes
 
-- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton יְהוָה rendered directly.
-- **"Lord GOD" → "Lord Yahweh"** (throughout) — Hebrew אֲדֹנָי יְהוִה *Adonai Yahweh*; Ezekiel's distinctive doubled divine title.
-- **"ephah" retained** (vv10, 11, 13, 14, 24) — Hebrew אֵיפָה *ephah* = a dry measure (~22 liters); the standard grain measure; *ephah* retained as the Hebrew unit.
-- **"bath" retained** (vv10, 11, 14) — Hebrew בַּת *bath* = a liquid measure (~22 liters, same as ephah but for liquids); *bath* retained as the Hebrew unit.
-- **"homer" retained** (vv11, 13, 14) — Hebrew חֹמֶר *homer* = the largest dry measure (~220 liters = 10 ephahs); *homer* retained.
-- **"hin" retained** (v24) — Hebrew הִין *hin* = liquid measure (~3.7 liters, 1/6 of a *bath*); *hin* retained.
-- **"gerahs" / "mina" retained** (v12) — Hebrew גֵּרָה *gerah* (1/20 shekel) and מָנֶה *maneh* (mina = 50 shekels); weight measures retained.
-- **"ten thousand" kept** (v1) — MT רֹחַב עֲשָׂרָה אָלֶף "breadth 10,000", as in 48:9 MT; the LXX reads 20,000 (εἴκοσι χιλιάδας), counting the Levites' strip (v5) into the holy district, and many modern versions follow it; the MT is kept.
+- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton יְהוָה rendered directly. **"Lord GOD" → "Lord Yahweh"** (v9, 15, 18) — Hebrew אֲדֹנָי יְהוִה *Adonai Yahweh*, both names.
+- **"And"** (throughout) — the Hebrew joins its clauses with וַ / וְ "and"; the chain is kept, also at the head of v1 (וּבְהַפִּילְכֶם).
+- **"when ye shall divide by lot the land for inheritance" → "when you make the land fall as an inheritance"** (v1) — הִפִּיל, hifil of נָפַל "fall": the land falls to each by the lot (as Josh 13:6). **"ye shall offer an oblation" → "you shall lift up a contribution"** — תָּרִימוּ תְרוּמָה: הֵרִים "lift up", and its noun תְּרוּמָה "contribution", literally "what is lifted off", a part set apart for Yahweh; one root (also v6, 7, 13, 16). **"an holy portion of the land" → "a holy thing from the land"** — קֹדֶשׁ מִן־הָאָרֶץ, literally "holiness from the land"; "portion" is not in the Hebrew (also v4).
+- **"the length of five and twenty thousand reeds" → "the length twenty-five thousand in length"** (v1) — אֹרֶךְ חֲמִשָּׁה וְעֶשְׂרִים אֶלֶף אֹרֶךְ: the Hebrew says "length" twice and names no unit; KJV supplied "reeds", others "cubits" (in v2 only the fifty are "cubits", בָּאַמָּה is not said of the rest); nothing is supplied (also v3, 5, 6). Numbers in words in the ordinary order (Hebrew "five and twenty thousand"). **"ten thousand"** — MT רֹחַב עֲשָׂרָה אָלֶף "breadth ten thousand", as 48:9 MT; the Septuagint reads "twenty thousand" (εἴκοσι χιλιάδας), counting the Levites' strip (v5) into it, and many modern versions follow it; the MT is kept. **"in all the borders thereof" → "in all its border"** — בְּכָל־גְּבוּלָהּ, singular (גְּבוּל "border", also the land inside it).
+- **"for the sanctuary" → "for the Holy"** (v2) — אֶל־הַקֹּדֶשׁ, with the article (as the rooms in Exodus: "place" is not in the Hebrew). **"square round about" → "squared all around"** — מְרֻבָּע, a pual participle. **"for the suburbs thereof" → "of pasture land for it"** — מִגְרָשׁ, the open land round a city (as Num 35).
+- **"and of this measure shalt thou measure" → "And from this measure you shall measure"** (v3) — the written form חמש, qere חֲמִשָּׁה "five" (the same number). **"the sanctuary and the most holy place" → "the sanctuary, most holy"** — הַמִּקְדָּשׁ קֹדֶשׁ קָדָשִׁים: there is no "and"; קֹדֶשׁ קָדָשִׁים without the article is said of the sanctuary, "most holy" (literally "holiness of holinesses").
+- **"the ministers of the sanctuary, which shall come near to minister unto the LORD" → "the ministers of the sanctuary, who come near to minister to Yahweh"** (v4) — מְשָׁרְתֵי … הַקְּרֵבִים לְשָׁרֵת: participles. **"an holy place for the sanctuary" → "a sanctuary for the sanctuary"** — וּמִקְדָּשׁ לַמִּקְדָּשׁ, the one word twice (= holy ground for the sanctuary to stand on).
+- **"have for themselves, for a possession for twenty chambers" → "for them as a possession: twenty chambers"** (v5) — לָהֶם לַאֲחֻזָּה עֶשְׂרִים לְשָׁכֹת, as printed (MT); the Septuagint reads "cities to dwell in" (from memory: Hebrew עָרִים לָשָׁבֶת), which the earlier text followed; the MT is kept. The written form יהיה "it shall be", qere וְהָיָה "and it shall be" (the same sense). אֲחֻזָּה "possession" (also v6–8).
+- **"over against the oblation of the holy portion" → "alongside the holy contribution"** (v6) — לְעֻמַּת תְּרוּמַת הַקֹּדֶשׁ: לְעֻמַּת "alongside"; קֹדֶשׁ as a genitive, "holy" (literally "of holiness"; also v7). **"it shall be for the whole house of Israel" → "for all the house of Israel it shall be"** — the Hebrew order.
+- **"the prince" → "the chieftain"** (v7, 8, 9, 16, 17, 22) — נָשִׂיא, literally "one lifted up" (from נָשָׂא), one word through Ezekiel (as 7:27; 12:10, 12); שַׂר is "prince". **"before the oblation" → "facing the holy contribution"** (v7) — אֶל־פְּנֵי. **"from the west side westward, and from the east side eastward"** — מִפְּאַת־יָם יָמָּה וּמִפְּאַת־קֵדְמָה קָדִימָה, literally "from the side of the sea seaward, and from the side of the front frontward": the Hebrew names the quarters by the sea (west) and the front (east); in the verse by the direction (also v7 "to the east border", literally "the border frontward"). **"over against one of the portions" → "alongside one of the shares"** — לְעֻמּוֹת אַחַד הַחֲלָקִים: חֵלֶק "share".
+- **"In the land shall be his possession in Israel" → "Of the land it shall be his as a possession in Israel"** (v8) — לָאָרֶץ יִהְיֶה־לּוֹ לַאֲחֻזָּה. **"shall no more oppress" → "shall no more wrong"** — יוֹנוּ, hifil of יָנָה "wrong" (לָחַץ is "oppress"). **"and the rest of the land" → "and the land"** — "the rest" is not in the Hebrew. **"according to their tribes" → "by their tribes"** — לְשִׁבְטֵיהֶם.
+- **"Let it suffice you, O princes of Israel" → "Enough for you, chieftains of Israel!"** (v9) — רַב־לָכֶם (as 44:6), no "O". **"remove violence and spoil, and execute judgment and justice" → "Violence and havoc remove, and judgment and righteousness do"** — the objects first, as in the Hebrew; שֹׁד "havoc"; מִשְׁפָּט "judgment", צְדָקָה "righteousness"; עֲשׂוּ "do". **"take away your exactions from my people" → "lift your evictions off from upon my people"** — הָרִימוּ גְרֻשֹׁתֵיכֶם מֵעַל עַמִּי: הָרִימוּ is the verb of תְּרוּמָה (v1, "lift"); גְּרֻשָּׁה, found only here, from גֵּרֵשׁ "drive out": the driving of people off their land (as 46:18).
+- **"Ye shall have just balances, and a just ephah, and a just bath" → "Righteous balances, and a righteous ephah, and a righteous bath you shall have"** (v10) — מֹאזְנֵי־צֶדֶק וְאֵיפַת־צֶדֶק וּבַת־צֶדֶק יְהִי לָכֶם, literally "balances of righteousness" (as Lev 19:36); the Hebrew order. **ephah, bath, homer, kor, hin** (v10, 11, 13, 14, 24) — measures kept as words: אֵיפָה (dry), בַּת (liquid), חֹמֶר (here the measure "homer", another sense of the word than "mortar"), כֹּר, הִין; their sizes are not given in the Hebrew.
+- **"of one measure, that the bath may contain the tenth part of an homer" → "one measure, so that the bath carries a tenth of the homer"** (v11) — תֹּכֶן אֶחָד … לָשֵׂאת מַעְשַׂר הַחֹמֶר: תֹּכֶן "measure"; לָשֵׂאת "to carry" (= hold); מַעְשַׂר and עֲשִׂירִת both "a tenth". **"the measure thereof shall be after the homer" → "by the homer shall be its amount"** — אֶל־הַחֹמֶר יִהְיֶה מַתְכֻּנְתּוֹ: מַתְכֹּנֶת "amount" (one root with תֹּכֶן).
+- **"twenty shekels, five and twenty shekels, fifteen shekels, shall be your maneh" → "twenty shekels, twenty-five shekels, fifteen shekels shall be your mina"** (v12) — as printed: the three sums together make sixty shekels; the Hebrew says "ten and five" for fifteen. The Septuagint has another figure (from memory: "fifty"), which the earlier text ("your mina shall be fifty shekels", with "five shekels shall be five shekels") followed; the MT is kept. שֶׁקֶל "shekel", a weight, not a coin; גֵּרָה "gerah"; מָנֶה "mina".
+- **"This is the oblation that ye shall offer" → "This is the contribution that you shall lift up"** (v13) — הַתְּרוּמָה אֲשֶׁר תָּרִימוּ, as v1. **"and ye shall give the sixth part of an ephah" → "and you shall make a sixth of the ephah"** — וְשִׁשִּׁיתֶם, a verb made from "sixth" (literally "and you shall sixth"); "give" is not the word.
+- **"Concerning the ordinance of oil" → "and the statute of the oil"** (v14) — וְחֹק הַשֶּׁמֶן, חֹק "statute". **"ye shall offer the tenth part of a bath out of the cor, which is an homer of ten baths; for ten baths are an homer" → "a tenth of the bath from the kor; ten baths are a homer, for ten baths are a homer"** — no verb in the Hebrew; the clause is said twice, as printed.
+- **"one lamb out of the flock" → "one sheep from the flock"** (v15) — שֶׂה, one animal of the flock (צֹאן, sheep and goats), not "lamb" (כֶּבֶשׂ). **"out of the fat pastures of Israel" → "from the watering places of Israel"** — מִמַּשְׁקֵה יִשְׂרָאֵל: מַשְׁקֶה "drink, watering" (elsewhere "cupbearer"); the sense here is uncertain (watered land, or a place of watering). **"meat offering" → "grain offering"** — מִנְחָה (also v17, 24, 25). **"to make reconciliation for them" → "to make atonement for them"** — לְכַפֵּר עֲלֵיהֶם.
+- **"All the people of the land shall give this oblation for the prince" → "All the people of the land shall be for this contribution, for the chieftain"** (v16) — כֹּל הָעָם הָאָרֶץ יִהְיוּ אֶל־הַתְּרוּמָה הַזֹּאת לַנָּשִׂיא: no "give" in the Hebrew (= they are bound to this contribution); the MT writes the article on both nouns, "the people, the land", where the phrase is usually עַם הָאָרֶץ "the people of the land".
+- **"it shall be the prince's part to give" → "upon the chieftain shall be"** (v17) — וְעַל־הַנָּשִׂיא יִהְיֶה, literally. **"in the new moons" → "at the months"** — בֶחֳדָשִׁים: חֹדֶשׁ "month"; that the new moon (the first day of the month) is meant goes here. **"in all solemnities" → "at all the appointed times"** — מוֹעֲדֵי, never "feasts" (חַג is "feast"). **"he shall prepare" → "He shall offer"** — יַעֲשֶׂה, literally "he shall do / make" (of a sacrifice "offer"; also v22–25). **"to make reconciliation for the house" → "to make atonement on behalf of the house"** — כִּפֶּר בְּעַד.
+- **"In the first month, in the first day of the month" → "In the first, on the first of the month"** (v18) — בָּרִאשׁוֹן בְּאֶחָד לַחֹדֶשׁ: "month" and "day" are not said the first time (also v21 "In the first", v25 "In the seventh"). **"a young bullock without blemish" → "a bull of the herd without blemish"** — פַּר בֶּן־בָּקָר, literally "a bull, a son of the herd": nothing about age. תָּמִים "without blemish", literally "whole" (also v23). **"and cleanse the sanctuary" → "and you shall purge the sanctuary of sin"** — וְחִטֵּאתָ, piel of חָטָא, literally "de-sin" (as Exod 29:36).
+- **"put it upon the posts of the house" → "put on the doorpost of the house"** (v19) — וְנָתַן אֶל־מְזוּזַת הַבַּיִת: no object in the Hebrew; מְזוּזָה singular (also of the gate). **"the settle of the altar" → "the ledge of the altar"** — הָעֲזָרָה, here a part of the altar (as 43:14, 17, 20; in 2 Chr 4:9 the same word is "enclosure", a court): the shape is not certain.
+- **"the seventh day of the month" → "on the seventh in the month"** (v20) — בְּשִׁבְעָה בַחֹדֶשׁ, as printed; the Septuagint has "in the seventh month, on the first of the month" (from memory), which many follow; the MT is kept. **"for every one that erreth, and for him that is simple" → "for a man who errs and for the simple"** — מֵאִישׁ שֹׁגֶה וּמִפֶּתִי: שָׁגָה "err"; פֶּתִי "the simple" (one easily led). **"so shall ye reconcile the house" → "and you shall make atonement for the house"** — וְכִפַּרְתֶּם אֶת־הַבַּיִת, a direct object.
+- **"ye shall have the passover, a feast of seven days" → "the Pesach shall be yours, a feast of weeks of days"** (v21) — חָג שְׁבֻעוֹת יָמִים, as pointed (שְׁבֻעוֹת "weeks"); "seven days" reads the letters as שִׁבְעַת (from memory: so the Septuagint and most versions), which fits v23 and 45:25; the MT pointing is kept, and the difficulty is named here.
+- **"for himself and for all the people of the land a bullock for a sin offering" → "on behalf of himself and on behalf of all the people of the land, a bull of sin offering"** (v22) — בַּעֲדוֹ וּבְעַד, twice; פַּר חַטָּאת "a bull of sin offering".
+- **"seven bullocks and seven rams without blemish daily" → "seven bulls and seven rams without blemish for the day"** (v23) — לַיּוֹם, literally (also at the end of the verse). **"a kid of the goats" → "a male goat of the goats"** — שְׂעִיר עִזִּים.
+- **"according to the sin offering, according to the burnt offering" → "as the sin offering, as the burnt offering"** (v25) — כַּחַטָּאת כָּעֹלָה וְכַמִּנְחָה וְכַשָּׁמֶן; "in the feast of the seven days" → "at the feast, … the seven days" — בֶּחָג יַעֲשֶׂה כָאֵלֶּה שִׁבְעַת הַיָּמִים.

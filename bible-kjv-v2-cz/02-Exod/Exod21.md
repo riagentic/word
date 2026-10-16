@@ -1,98 +1,121 @@
 # Exodus 21
 
-[1] „Toto jsou práva, která jim předložíš.
+[1] „A toto jsou nařízení, která jim předložíš.
 
-[2] Koupíš-li ⟦hebrew|otroka Ivri|hebrejského otroka⟧, bude sloužit šest let; a sedmého roku odejde svobodný, zadarmo.
+[2] Když koupíš ⟦hebrew|otroka Ivri|hebrejského otroka⟧, šest let bude sloužit a sedmého roku vyjde na svobodu, zadarmo.
 
-[3] Přišel-li sám, odejde sám; byl-li ženatý, odejde s ním i jeho žena.
+[3] Přijde-li sám, sám vyjde; je-li manželem ženy, vyjde jeho žena s ním.
 
-[4] Dá-li mu jeho pán ženu a ona mu porodí syny nebo dcery, žena a její děti budou patřit jejímu pánovi a on odejde sám.
+[4] Dá-li mu jeho pán ženu a ona mu porodí syny nebo dcery, žena a její děti budou patřit jejímu pánu a on vyjde sám.
 
-[5] Jestliže však otrok výslovně prohlásí: ‚Miluji svého pána, svou ženu i své děti; nechci odejít svobodný,‘
+[5] Jestliže však otrok jistě řekne: ‚Miluji svého pána, svou ženu a své syny; nevyjdu na svobodu,‘
 
-[6] pak ho jeho pán přivede k ⟦elohim|Elohim|Bohu⟧; přivede ho ke dveřím nebo k veřeji a jeho pán mu šídlem probodne ucho a bude mu sloužit doživotně.
+[6] pak ho jeho pán přivede k ⟦elohim|Elohim|Bohu⟧ a přivede ho ke dveřím nebo k veřeji a jeho pán mu probodne ucho šídlem a on mu bude sloužit navěky.
 
-[7] Prodá-li muž svou dceru za otrokyni, neodejde tak, jak odcházejí otroci.
+[7] A když muž prodá svou dceru za otrokyni, nevyjde tak, jak vycházejí otroci.
 
-[8] Nezalíbí-li se svému pánovi, který si ji určil pro sebe, nechá ji vykoupit. Nebude mít právo prodat ji cizímu národu, protože jí zrušil věrnost.
+[8] Je-li zlá v očích svého pána, který si ji určil pro sebe, dá ji vyplatit; cizímu lidu ji prodat nemá moc, protože se vůči ní zachoval věrolomně.
 
-[9] Určí-li ji pro svého syna, bude s ní jednat podle práva dcer.
+[9] A určí-li ji pro svého syna, učiní jí podle nařízení o dcerách.
 
-[10] Vezme-li si jinou ženu, nesmí jí zkrátit stravu, oděv ani manželská práva.
+[10] Vezme-li si jinou, neubere jí stravu, přikrývku ani manželské právo.
 
-[11] Neučiní-li pro ni tyto tři věci, odejde svobodná, bez zaplacení stříbra.
+[11] A neučiní-li jí tyto tři věci, vyjde zadarmo, bez peněz.
 
-[12] Kdo udeří člověka tak, že zemře, bude jistě usmrcen.
+[12] Kdo udeří muže tak, že zemře, jistě bude usmrcen.
 
-[13] Jestliže však nečíhal, ale ⟦elohim|Elohim|Bůh⟧ mu ho nechal padnout do ruky, určím ti místo, kam se může utéct.
+[13] Kdo však nečíhal, ale ⟦elohim|Elohim|Bůh⟧ to přivedl jeho ruce: ustanovím ti místo, kam uteče.
 
-[14] Jestliže však někdo proti svému bližnímu osnuje, aby ho zabil lstí, vezmeš ho i od mého oltáře, aby zemřel.
+[14] A když muž bude jednat zpupně proti svému bližnímu, aby ho zabil úskokem, od mého oltáře ho vezmeš, aby zemřel.
 
-[15] Kdo udeří svého otce nebo svou matku, bude jistě usmrcen.
+[15] A kdo udeří svého otce nebo svou matku, jistě bude usmrcen.
 
-[16] Kdo unese člověka – ať už ho prodá, nebo se u něho najde – bude jistě usmrcen.
+[16] A kdo ukradne muže a prodá ho, nebo se najde v jeho ruce, jistě bude usmrcen.
 
-[17] Kdo zlořečí svému otci nebo své matce, bude jistě usmrcen.
+[17] A kdo zlořečí svému otci nebo své matce, jistě bude usmrcen.
 
-[18] Pohádají-li se muži a jeden udeří druhého kamenem nebo pěstí a on nezemře, ale ulehne na lůžko,
+[18] A když se muži budou přít a jeden udeří svého bližního kamenem nebo pěstí a on nezemře, ale padne na lůžko,
 
-[19] jestliže znovu vstane a bude se procházet venku o holi, ten, kdo ho udeřil, bude zproštěn viny; jen mu zaplatí ztrátu času a postará se o jeho úplné uzdravení.
+[19] jestliže vstane a bude chodit venku o své holi, bude ten, kdo udeřil, nevinen; jen dá za jeho sezení a jistě ho vyléčí.
 
-[20] Udeří-li muž svého otroka nebo svou otrokyni holí a otrok mu pod rukou zemře, bude to jistě pomstěno.
+[20] A když muž udeří svého otroka nebo svou otrokyni prutem a ten zemře pod jeho rukou, jistě bude pomstěn.
 
-[21] Přežije-li však otrok den nebo dva, nebude to pomstěno, neboť otrok je jeho majetkem.
+[21] Jestliže však den nebo dva dny obstojí, nebude pomstěn, neboť jsou to jeho peníze.
 
-[22] Perou-li se muži a udeří těhotnou ženu, takže její dítě vyjde, ale bez vážné újmy, bude jistě pokutován podle toho, co mu uloží manžel té ženy, a zaplatí podle rozhodnutí soudců.
+[22] A když se muži budou rvát a uhodí těhotnou ženu a její děti vyjdou a nestane se neštěstí, jistě bude pokutován, jak mu uloží manžel té ženy, a dá skrze rozhodčí.
 
-[23] Dojde-li však k vážné újmě, dáš život za život,
+[23] Stane-li se však neštěstí, dáš duši za duši,
 
 [24] oko za oko, zub za zub, ruku za ruku, nohu za nohu,
 
-[25] popáleninu za popáleninu, ránu za ránu, jizvu za jizvu.
+[25] spáleninu za spáleninu, ránu za ránu, šrám za šrám.
 
-[26] Udeří-li muž svého otroka nebo svou otrokyni do oka a zničí je, propustí ho na svobodu za jeho oko.
+[26] A když muž udeří do oka svého otroka nebo do oka své otrokyně a zkazí je, propustí ho na svobodu za jeho oko.
 
-[27] A vyrazí-li zub svému otroku nebo své otrokyni, propustí ho na svobodu za jeho zub.
+[27] A vyrazí-li zub svého otroka nebo zub své otrokyně, propustí ho na svobodu za jeho zub.
 
-[28] Jestliže býk probodne muže nebo ženu a ti zemřou, býk bude jistě ukamenován a jeho maso se nebude jíst; ale majitel býka bude zproštěn viny.
+[28] A když vůl trkne muže nebo ženu a ten zemře, vůl bude jistě ukamenován a jeho maso se nebude jíst, a majitel vola je nevinen.
 
-[29] Jestliže však býk už dříve trkal a jeho majitel byl varován, ale nehlídal ho, a on zabil muže nebo ženu, býk bude ukamenován a také jeho majitel bude usmrcen.
+[29] Jestliže to však byl vůl trkavý už včera i předevčírem a jeho majitel byl varován a nestřeží ho a on usmrtí muže nebo ženu, vůl bude ukamenován a také jeho majitel bude usmrcen.
 
-[30] Bude-li mu uloženo výkupné, dá jako výkupné za svůj život všechno, co mu bude uloženo.
+[30] Bude-li mu uloženo výkupné, dá za vyplacení své duše podle všeho, co mu bude uloženo.
 
-[31] Ať probodl syna, nebo probodl dceru, bude se s ním jednat podle tohoto práva.
+[31] Nebo trkne-li syna či trkne-li dceru, učiní se mu podle tohoto nařízení.
 
-[32] Probodne-li býk otroka nebo otrokyni, dá majitel býka jejich pánovi třicet šekelů stříbra a býk bude ukamenován.
+[32] Trkne-li vůl otroka nebo otrokyni, dá jeho pánu třicet šekelů stříbra a vůl bude ukamenován.
 
-[33] Otevře-li někdo jámu nebo vykope-li někdo jámu a nezakryje ji a spadne do ní býk nebo osel,
+[33] A když muž otevře jámu nebo když muž vyhloubí jámu a nepřikryje ji a spadne tam vůl nebo osel,
 
-[34] majitel jámy nahradí škodu; dá peníze jeho majiteli a mrtvé zvíře bude jeho.
+[34] majitel jámy to nahradí; vrátí peníze jeho majiteli a mrtvý bude jeho.
 
-[35] Zraní-li býk jednoho muže býka druhého a ten pojde, prodají živého býka a rozdělí si jeho cenu; a rozdělí si také mrtvé zvíře.
+[35] A když něčí vůl uhodí vola jeho bližního a ten zemře, prodají živého vola a rozpůlí peníze za něj a také mrtvého rozpůlí.
 
-[36] Bylo-li však známo, že býk už dříve trkal, a jeho majitel ho nehlídal, jistě nahradí býka za býka a mrtvé zvíře bude jeho.“
+[36] Nebo bylo-li známo, že to byl vůl trkavý už včera i předevčírem, a jeho majitel ho nestřeží, jistě nahradí vola za vola a mrtvý bude jeho.“
 
 ## Změny
 
-- **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
-- **"servant" → „otrok“** (v2–6, 7, 20–21, 26–27, 32) – hebrejsky עֶבֶד / אָמָה *eved / amah*. Jde o otroky jako majetek, nikoli o moderní zaměstnance. Moderní překlady se liší; „otrok“ je sociologicky / ekonomicky přesnější, ale nese konotace moderního transatlantického otroctví, které jsou zavádějící. Popisovaná instituce je starověké předovýchodní dlužní otroctví se zákonnými mezemi (nejvýše šest let pro Hebreje, zákony o propuštění, ochrana před trvalým zmrzačením, sabatní odpočinek).
-- **"judges" → „*Elohim*“** (v6) – hebrejsky הָאֱלֹהִים *ha-Elohim*. Může znamenat „Bůh“ (božský / svatyňový obřad), „bohové“ nebo „soudci“ (jako překlad *Elohim* ve smyslu autorit). Židovská tradice to vykládá jako soud. Nejednoznačné; ponecháno jako „*Elohim*“.
-- **"betrothed her to himself" → „určil pro sebe“** (v8) – hebrejsky יְעָדָהּ *ye'adah*. *Ya'ad* = ustanovit / určit. Pán si ji vyhradil pro sebe (postavení souložnice).
-- **"no power" → „nebude mít právo“** (v8) – modernizováno.
-- **"duty of marriage" → „manželská práva“** (v10) – hebrejsky עֹנָתָהּ *onatah*. Vzácné slovo; pravděpodobně právo na manželský styk (tělesnou důvěrnost). Starověký Přední východ dbal na minimální práva vedlejších manželek.
-- **"surely be put to death" / "surely be punished" / "surely be stoned"** – hebrejské vazby s infinitivem absolutním (מוֹת יוּמָת *mot yumat* aj.) zesilují „naprosto, bez výjimky“. Zachováno („jistě“).
-- **"eye for eye, tooth for tooth" → „oko za oko, zub za zub“** (v23–25) – hebrejsky עַיִן תַּחַת עַיִן *ayin tachat ayin*. *Lex talionis* – zákon úměrné odplaty. Spory o výklad v dávnověku:
-  1. Doslovné tělesné zmrzačení.
-  2. Peněžní ekvivalent / náhrada škody (pozdější standardní rabínský výklad).
-  Souvislost zde (v22, 26, 27) naznačuje, že ve většině případů jde o peněžní náhradu. Jesusova kritika v Matt 5:38 míří na pozdější zneužívání principu k soukromé pomstě.
-- **"her fruit depart from her, and yet no mischief follow" → „její dítě vyjde, ale bez vážné újmy“** (v22) – fráze se čte různě:
-  1. Potrat, který matka přežije (zranění ženy je lehké) – potrat je „vážnou újmou“, takže plný *lex talionis* platí, zemře-li *žena*.
-  2. Předčasný živý porod (dítě přežije, *ason* = „újma“ se vztahuje k smrti dítěte).
-  Každé čtení jinak rámuje postavení plodu / matky. Překlad nejednoznačnost zachovává: „dítě vyjde… bez vážné újmy“ – *ason* se vztahuje na jakoukoli újmu, která následovala.
-- **"a ransom" → „výkupné“** (v30) – hebrejsky כֹּפֶר *kopher*. Výkupné / platba za vykoupení. Týž kořen jako *kaphar* (smířit / přikrýt), obětní výkupné z Lev 17:11. V případech zabití býkem (v29) může majitel místo popravy zaplatit výkupné – ledaže je obětí otrok (v32), kde je pevnou cenou 30 šekelů. Pozn.: Judas zradí Jesuse za 30 stříbrných – za cenu otrokova života podle tohoto zákona.
+- **"God" → „*Elohim*“** (v6, 13) – hebrejsky הָאֱלֹהִים, pokaždé se členem: „ten Elohim“; čeština člen nemá. Jméno Yahweh se v kapitole nevyskytuje; mluví Yahweh (20:22), který ve v13, 14 říká „já“ a „můj oltář“.
+- **"Now these are" → „A toto jsou“; „A“ / „když“ / „-li“** (v celé kapitole) – hebrejština začíná spojkou וְ „a“ a připojuje nařízení k 20:22–26. Hlavní případ uvádí כִּי „když“ (v2, 7, 14, 18, 20, 22, 26, 28, 33, 35), případ jemu podřízený אִם „jestliže / -li“; obojí je odlišeno. Ve v12, 15, 16, 17 je zákon vyjádřen příčestím: „ten, kdo bije muže“.
+- **"judgments" → „nařízení“** (v1, 9, 31) – hebrejsky מִשְׁפָּטִים, מִשְׁפָּט: totéž slovo je „soud“ (23:6); o rozhodnutí stanoveném pro určité případy je to „nařízení“. Ve v9 כְּמִשְׁפַּט הַבָּנוֹת „podle nařízení o dcerách“ je to, co dcerám podle pravidla náleží (KJV „after the manner of daughters“).
+- **"servant" → „otrok“; "maidservant" → „otrokyně“** (v2, 5, 7, 20, 26, 27, 32) – hebrejsky עֶבֶד *eved* a אָמָה *amah*. Sloveso „sloužit“ (v2, 6) je téhož kořene (עָבַד). Zákon otroctví omezuje: šest let, propuštění za tělesnou újmu, pomsta za zabitého otroka.
+- **"an Hebrew servant" → „hebrejského otroka“** (v2) – hebrejsky עֶבֶד עִבְרִי. Zda עִבְרִי zde označuje jen Israelce, nebo širší vrstvu lidí, je sporné; slovo je zachováno.
+- **"go out free for nothing" → „vyjde na svobodu, zadarmo“** (v2, 5, 11) – hebrejsky יֵצֵא לַחָפְשִׁי חִנָּם: חָפְשִׁי „svobodný“, חִנָּם „zadarmo, bez placení“. Ve v11 žena vychází חִנָּם אֵין כָּסֶף, doslova „zadarmo, není stříbra“.
+- **"by himself" → „sám“** (v3, 4) – hebrejsky בְּגַפּוֹ, doslova „se svým tělem“ (גַּף v tomto smyslu jen zde; význam není jistý): sám, bez ženy.
+- **"if he were married" → „je-li manželem ženy“** (v3) – hebrejsky בַּעַל אִשָּׁה, doslova „majitel ženy“. בַּעַל je totéž slovo jako „manžel té ženy“ (v22) a „majitel“ vola a jámy (v28, 29, 34, 36).
+- **"master" → „pán“** (v4, 5, 6, 8, 32) – hebrejsky אָדוֹן, zde v množném tvaru užívaném o jednom pánu (אֲדֹנָיו).
+- **"her children" / "my children" → „její děti“ / „své syny“** (v4, 5) – hebrejsky יְלָדֶיהָ „její děti“ (יֶלֶד), ale בָּנָי „mé syny“; tak i „syny nebo dcery“ ve v4.
+- **"shall plainly say" → „jistě řekne“** (v5) – hebrejský absolutní infinitiv se svým slovesem, אָמֹר יֹאמַר, doslova „říkaje řekne“. Týž tvar stojí ve v12, 15, 16, 17 (מוֹת יוּמָת, doslova „umíraje bude usmrcen“: „jistě bude usmrcen“), v19 (רַפֹּא יְרַפֵּא „léče vyléčí“), v20 (נָקֹם יִנָּקֵם), v22 (עָנוֹשׁ יֵעָנֵשׁ), v28 (סָקוֹל יִסָּקֵל), v36 (שַׁלֵּם יְשַׁלֵּם); pokaždé je to „jistě“ se slovesem.
+- **"unto the judges" → „k *Elohim*“** (v6) – hebrejsky אֶל־הָאֱלֹהִים, „k tomu Elohim“. Čtení: (1) k Bohu, to jest do svatyně, nebo ke dveřím domu jako před Boha; (2) „k soudcům“ (Targum a KJV: uvedeno zpaměti), kteří jednají Božím jménem; jinde se slovo o lidských soudcích zřetelně neužívá; (3) „k bohům“, domácím bůžkům u dveří. Septuaginta má „k soudné stolici Boží“ (uvedeno zpaměti). Verš ponechává slovo, jak stojí; tak i ve 22:8, 9. **„přivede“** je dvakrát הִגִּישׁ „dá přistoupit“.
+- **"bore his ear through with an aul" → „probodne mu ucho šídlem“**; **"for ever" → „navěky“** (v6) – hebrejsky לְעֹלָם „na věk“, zde na dobu jeho života.
+- **"as the menservants do" → „jak vycházejí otroci“** (v7) – hebrejsky כְּצֵאת הָעֲבָדִים.
+- **"If she please not her master" → „Je-li zlá v očích svého pána“** (v8) – hebrejsky רָעָה בְּעֵינֵי, doslova „zlá v očích“. **"who hath betrothed her to himself" → „který si ji určil pro sebe“** – hebrejsky יָעַד „ustanovit, určit“ (kořen slova מוֹעֵד „určený čas“). Psaný text (ketiv) má לֹא „ne“: „který ji neurčil“; tradice čtení (qere) má לוֹ „pro sebe“ a verš se jí drží. **"let her be redeemed" → „dá ji vyplatit“** – hebrejsky הֶפְדָּהּ, od פָּדָה „vyplatit“. **"no power" → „nemá moc“** – hebrejsky לֹא־יִמְשֹׁל, doslova „nebude vládnout, aby ji prodal“ (מָשַׁל „vládnout“). **"dealt deceitfully" → „zachoval se věrolomně“** – hebrejsky בְּבִגְדוֹ־בָהּ, doslova „při svém věrolomném jednání vůči ní“.
+- **"another wife" → „jinou“** (v10) – hebrejsky אַחֶרֶת; „žena“ tam není. **"her food, her raiment, and her duty of marriage" → „stravu, přikrývku ani manželské právo“** – hebrejsky שְׁאֵרָהּ, doslova „její maso“ (tedy jídlo); כְּסוּתָהּ „její přikrývku“ (oděv); עֹנָתָהּ, slovo, které je jen zde a jehož význam je nejistý: podle staré tradice její právo na manželovo lože; jiní je chápou jako „její obydlí“ nebo „její olej“.
+- **"He that smiteth a man" → „Kdo udeří muže“** (v12, 15, 18, 20, 26) – hebrejsky הִכָּה „udeřit“. Ve v22, 35 je jiné sloveso, נָגַף, „uhodit“.
+- **"if a man lie not in wait, but God deliver him into his hand" → „Kdo však nečíhal, ale *Elohim* to přivedl jeho ruce“** (v13) – hebrejsky צָדָה „číhat“ (lovit); אִנָּה לְיָדוֹ, doslova „dal [tomu] potkat jeho ruku“: sloveso nemá předmět. Věta se přeruší a začíná znovu slovem „ustanovím“, jako v hebrejštině.
+- **"come presumptuously … with guile" → „bude jednat zpupně … úskokem“** (v14) – hebrejsky יָזִד, od kořene „vřít“ (Gen 25:29): jednat ze zpupné vůle; עָרְמָה je podstatné jméno od עָרוּם „chytrý“ (Gen 3:1), zde ve zlém smyslu.
+- **"his father, or his mother" → „svého otce nebo svou matku“** (v15, 17) – hebrejština má וְ „a“: „svého otce a svou matku“; míněn je kterýkoli z obou.
+- **"he that stealeth a man, and selleth him, or if he be found in his hand" → „kdo ukradne muže a prodá ho, nebo se najde v jeho ruce“** (v16) – hebrejsky גֹּנֵב „ten, kdo krade“ (ne zvláštní slovo pro únos); obě věty jsou připojeny spojkou וְ, doslova „a prodá ho a najde se v jeho ruce“. Druhá se obvykle chápe jako „nebo“: ukradený muž se najde ještě v zlodějově ruce.
+- **"curseth" → „zlořečí“** (v17) – hebrejsky מְקַלֵּל, piel od קלל „být lehký“: jednat s někým jako s bezcenným, svolávat na něho zlo. Ve 22:28 stojí vedle אָרַר „proklít“. Citováno v Matt 15:4; Mark 7:10.
+- **"strive together" → „přít se“ / „rvát se“** (v18, 22) – dvě hebrejská slovesa: רִיב „přít se“ (slovy, potom ranami) a נָצָה „rvát se, bít se“. **"one smite another" → „jeden udeří svého bližního“** – hebrejsky אִישׁ אֶת־רֵעֵהוּ, „muž svého bližního“. **"with his fist" → „pěstí“** – hebrejsky אֶגְרֹף, jen zde a v Isa 58:4; „pěst“ je staré chápání, někteří myslí na hroudu nebo nástroj. **"keepeth his bed" → „padne na lůžko“** – hebrejsky נָפַל לְמִשְׁכָּב, doslova „padne k ležení“.
+- **"be quit" → „nevinen“** (v19, 28) – hebrejsky נִקָּה, נָקִי: prostý viny i nároku. **"pay for the loss of his time" → „dá za jeho sezení“** (v19) – hebrejsky שִׁבְתּוֹ יִתֵּן, doslova „jeho sezení dá“: שֶׁבֶת je „sezení“ (od יָשַׁב) nebo „přestání“ (od שָׁבַת), doba, kdy nemohl pracovat. „Za“ je doplněno. **"cause him to be thoroughly healed" → „jistě ho vyléčí“** – hebrejský piel רִפֵּא: postará se o jeho vyléčení; „ho“ je doplněno.
+- **"punished" → „pomstěn“** (v20, 21) – hebrejsky נָקַם „pomstít“. Kdo mstí a jak, verš neříká. **"with a rod" → „prutem“** – hebrejština má člen: prut kázně (שֵׁבֶט).
+- **"if he continue a day or two" → „den nebo dva dny obstojí“** (v21) – hebrejsky יַעֲמֹד „stojí“, to jest zůstane naživu. **"he is his money" → „jsou to jeho peníze“** – hebrejsky כַסְפּוֹ, doslova „je jeho stříbrem“: ztráta padá na samotného majitele.
+- **"strive, and hurt a woman with child, so that her fruit depart from her" → „se budou rvát a uhodí těhotnou ženu a její děti vyjdou“** (v22) – slovo od slova: וְנָגְפוּ „a uhodí“ (množné číslo), וְיָצְאוּ יְלָדֶיהָ „a vyjdou její děti“. יְלָדֶיהָ je množné číslo slova יֶלֶד „dítě“, běžného slova pro narozené dítě; proč je v množném čísle, není známo (obecný plurál, nebo možnost dvojčat). יָצָא „vyjít“ se užívá o narození (Gen 25:25, 26); obvyklé slovo pro potrat je jiné (שִׁכֵּל, 23:26).
+- **"and yet no mischief follow" → „a nestane se neštěstí“** (v22, 23) – hebrejsky אָסוֹן *ason*, jen zde a o Benjaminovi v Gen 42:4, 38; 44:29: smrtelná nebo těžká újma. Verš neříká komu: (1) ženě: děti jsou ztraceny a pokuta je za ně, kdežto „duši za duši“ platí za smrt ženy; (2) ženě nebo dětem: narodí se předčasně a žijí a „neštěstí“ je smrt nebo úraz kohokoli z nich. Hebrejština to nechává otevřené a verš také. Septuaginta (uvedeno zpaměti) z toho činí rozdíl mezi dítětem „nevytvořeným“ a „vytvořeným“.
+- **"he shall be surely punished" → „jistě bude pokutován“** (v22) – hebrejsky עָנַשׁ „pokutovat“; jednotné číslo, ačkoli muži byli v množném. **„uloží“** – hebrejsky שִׁית „položit“. **"he shall pay as the judges determine" → „dá skrze rozhodčí“** – hebrejsky וְנָתַן בִּפְלִלִים. Význam je nejistý: פְּלִילִים (Deut 32:31; Job 31:11) se obvykle chápou jako „soudci, rozhodčí“ („s rozhodčími / skrze rozhodčí“); jiní slovo chápou jako „odhad, ocenění“. Není to obvyklé slovo pro soudce (שֹׁפְטִים).
+- **"life for life" → „duši za duši“** (v23) – hebrejsky נֶפֶשׁ תַּחַת נָפֶשׁ; תַּחַת je „místo“, tak v každé dvojici ve v24–27 a ve v36. „Dáš“ je jednotné číslo.
+- **"burning for burning, wound for wound, stripe for stripe" → „spáleninu za spáleninu, ránu za ránu, šrám za šrám“** (v25) – hebrejsky כְּוִיָּה, פֶּצַע, חַבּוּרָה (poslední dvě jako Gen 4:23). **"eye for eye" → „oko za oko“** (v24) – pravidlo stejného za stejné. Zda se provádělo na těle, nebo se platilo v hodnotě, je starý spor; text sám udává jen míru. Citováno v Matt 5:38.
+- **"that it perish" → „zkazí je“** (v26) – hebrejsky שִׁחֵת. **"let him go free" → „propustí ho na svobodu“** (v26, 27) – hebrejsky לַחָפְשִׁי יְשַׁלְּחֶנּוּ; „ho“ stojí za muže i za ženu. **"smite out" → „vyrazí“** (v27) – hebrejsky יַפִּיל „dá vypadnout“.
+- **„vůl“** (v28–36) – hebrejsky שׁוֹר, jeden kus skotu kteréhokoli pohlaví. **"that they die" → „a ten zemře“** (v28) – hebrejsky וָמֵת, jednotné číslo.
+- **"wont to push with his horn in time past" → „vůl trkavý už včera i předevčírem“** (v29, 36) – hebrejsky נַגָּח „trkač“; מִתְּמֹל שִׁלְשֹׁם „od včerejška, třetího dne“ = už dříve. **"it hath been testified to his owner" → „jeho majitel byl varován“** – hebrejsky הוּעַד בִּבְעָלָיו, doslova „bylo svědčeno proti jeho majiteli“. **"hath not kept him in" → „nestřeží ho“** – hebrejsky שָׁמַר „střežit“. **"killed" → „usmrtí“** – hebrejsky הֵמִית.
+- **"a sum of money" → „výkupné“; "the ransom of his life" → „za vyplacení své duše“** (v30) – dvě hebrejská slova: כֹּפֶר *kofer*, cena, která přikrývá život (jeden kořen s כִּפֶּר „vykonat smíření“), a פִּדְיֹן נַפְשׁוֹ „vyplacení jeho duše“, od פָּדָה „vyplatit“; „za“ je doplněno. „Peníze“ ve verši nejsou.
+- **„třicet šekelů stříbra“** (v32) – šekel je váha, ne mince. Cena stanovená za otroka (srov. Zech 11:12; Matt 26:15).
+- **„vyhloubí“** (v33) – hebrejsky כָּרָה. **"an ass" → „osel“** – hebrejsky חֲמוֹר.
+- **"make it good" → „nahradí“** (v34, 36) – hebrejsky שִׁלֵּם, od kořene slova שָׁלוֹם: učinit celým. **"give money unto the owner" → „vrátí peníze jeho majiteli“** (v34) – hebrejsky כֶּסֶף יָשִׁיב, doslova „stříbro vrátí“. **"the dead beast" → „mrtvý“** (v34, 35, 36) – hebrejsky הַמֵּת; „zvíře“ tam není.
+- **"hurt" → „uhodí“** (v35) – hebrejsky נָגַף, sloveso z v22. **"divide the money of it" → „rozpůlí peníze za něj“** – hebrejsky חָצָה „rozpůlit“; כַּסְפּוֹ „jeho stříbro“.
 
 ### Poznámky
 
-- **„Kniha smlouvy“ (kap. 21–23)** – první ucelený právní soubor v Tóře, uspořádaný kolem občanských / trestních / majetkových zákonů. Vykazuje těsné strukturní paralely se starověkými předovýchodními zákoníky (Chammurapi, Ešnunna, chetitské zákony), s osobitými izraelskými rysy: lidštější zákony o otrocích, ochrana matky a plodu, přísnější zákon o zabití, sabatní úprava.
-- **Šestiletá mez otroctví** – hebrejský zákon o otrocích je v kontextu starověkého Předního východu jedinečně lidumilný. Propuštění v sedmém roce (v2) s možností, aby otrok dobrovolně zůstal (v5–6), zachovává otrokovu vůli a důstojnost.
-- **Obřad probodnutí ucha (v6)** – dobrovolná trvalá služba označená viditelným znamením u dveří. Symbolika: otrok si volí příslušnost k domácnosti a na prahu se mu označí ucho.
+- **„Kniha smlouvy“ (kap. 21–23)** – první sbírka zákonů v Tóře, ve 24:7 nazvaná „kniha smlouvy“. Formou se blízce podobá jiným sbírkám zákonů starověkého Předního východu (Chammurapi, Ešnunna, chetitské zákony) a má vlastní rysy: meze otroctví, propuštění zmrzačeného otroka, pomstu za otrokovu smrt.
+- **Šestiletá mez** – propuštění v sedmém roce (v2) s možností, aby otrok ze své vůle zůstal (v5–6); srov. Deut 15:12–18; Jer 34:14.
+- **Ucho u dveří (v6)** – trvalá služba je označena viditelným znamením učiněným u dveří; o kterých dveřích jde (domu, nebo svatyně), verš neříká víc než „k Elohim … ke dveřím nebo k veřeji“.

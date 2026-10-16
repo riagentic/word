@@ -1,86 +1,89 @@
 # Genesis 5
 
-[1] Toto je svitek rodů Adamových. V den, kdy ⟦elohim|Elohim|Bůh⟧ stvořil člověka, učinil ho k podobě ⟦elohim|Elohim|Boží⟧.
+[1] Toto je kniha rodů Adamových. V den, kdy ⟦elohim|Elohim|Bůh⟧ stvořil člověka, v podobě ⟦elohim|Elohim|Boží⟧ ho učinil;
 
-[2] Muže a ženu je stvořil; požehnal jim a dal jim jméno „Lidstvo“ v den, kdy byli stvořeni.
+[2] mužského a ženského pohlaví je stvořil a požehnal jim a dal jim jméno ⟦adam|Adam|Člověk⟧ v den, kdy byli stvořeni.
 
-[3] Adam žil 130 let a zplodil syna ke své podobě, podle svého obrazu, a dal mu jméno ⟦seth|Šet|Šét⟧.
+[3] A Adam žil sto třicet let a zplodil ve své podobě, podle svého obrazu, a dal mu jméno ⟦seth|Šet|Šét⟧.
 
-[4] Adamových dnů poté, co zplodil ⟦seth|Šeta|Šéta⟧, bylo 800 let; a zplodil syny a dcery.
+[4] A dnů Adamových poté, co zplodil ⟦seth|Šeta|Šéta⟧, bylo osm set let, a zplodil syny a dcery.
 
-[5] Všech dnů, které Adam prožil, bylo 930 let; a zemřel.
+[5] A všech dnů Adamových, které žil, bylo devět set třicet let, a zemřel.
 
-[6] ⟦seth|Šet|Šét⟧ žil 105 let a zplodil ⟦enosh|Enoše|Enóše⟧.
+[6] A ⟦seth|Šet|Šét⟧ žil sto pět let a zplodil ⟦enosh|Enoše|Enóše⟧.
 
-[7] ⟦seth|Šet|Šét⟧ žil poté, co zplodil ⟦enosh|Enoše|Enóše⟧, 807 let a zplodil syny a dcery.
+[7] A ⟦seth|Šet|Šét⟧ žil poté, co zplodil ⟦enosh|Enoše|Enóše⟧, osm set sedm let a zplodil syny a dcery.
 
-[8] Všech ⟦seth|Šetových|Šétových⟧ dnů bylo 912 let; a zemřel.
+[8] A všech ⟦seth|Šetových|Šétových⟧ dnů bylo devět set dvanáct let, a zemřel.
 
-[9] ⟦enosh|Enoš|Enóš⟧ žil 90 let a zplodil ⟦kenan|Kenana|Kénana⟧.
+[9] A ⟦enosh|Enoš|Enóš⟧ žil devadesát let a zplodil ⟦kenan|Kenana|Kénana⟧.
 
-[10] ⟦enosh|Enoš|Enóš⟧ žil poté, co zplodil ⟦kenan|Kenana|Kénana⟧, 815 let a zplodil syny a dcery.
+[10] A ⟦enosh|Enoš|Enóš⟧ žil poté, co zplodil ⟦kenan|Kenana|Kénana⟧, osm set patnáct let a zplodil syny a dcery.
 
-[11] Všech ⟦enosh|Enošových|Enóšových⟧ dnů bylo 905 let; a zemřel.
+[11] A všech ⟦enosh|Enošových|Enóšových⟧ dnů bylo devět set pět let, a zemřel.
 
-[12] ⟦kenan|Kenan|Kénan⟧ žil 70 let a zplodil Mahalalela.
+[12] A ⟦kenan|Kenan|Kénan⟧ žil sedmdesát let a zplodil Mahalalela.
 
-[13] ⟦kenan|Kenan|Kénan⟧ žil poté, co zplodil Mahalalela, 840 let a zplodil syny a dcery.
+[13] A ⟦kenan|Kenan|Kénan⟧ žil poté, co zplodil Mahalalela, osm set čtyřicet let a zplodil syny a dcery.
 
-[14] Všech ⟦kenan|Kenanových|Kénanových⟧ dnů bylo 910 let; a zemřel.
+[14] A všech ⟦kenan|Kenanových|Kénanových⟧ dnů bylo devět set deset let, a zemřel.
 
-[15] Mahalalel žil 65 let a zplodil Jereda.
+[15] A Mahalalel žil šedesát pět let a zplodil Jereda.
 
-[16] Mahalalel žil poté, co zplodil Jereda, 830 let a zplodil syny a dcery.
+[16] A Mahalalel žil poté, co zplodil Jereda, osm set třicet let a zplodil syny a dcery.
 
-[17] Všech Mahalalelových dnů bylo 895 let; a zemřel.
+[17] A všech Mahalalelových dnů bylo osm set devadesát pět let, a zemřel.
 
-[18] Jered žil 162 let a zplodil ⟦enoch|Chanocha|Henocha⟧.
+[18] A Jered žil sto šedesát dva roky a zplodil ⟦enoch|Chanocha|Henocha⟧.
 
-[19] Jered žil poté, co zplodil ⟦enoch|Chanocha|Henocha⟧, 800 let a zplodil syny a dcery.
+[19] A Jered žil poté, co zplodil ⟦enoch|Chanocha|Henocha⟧, osm set let a zplodil syny a dcery.
 
-[20] Všech Jeredových dnů bylo 962 let; a zemřel.
+[20] A všech Jeredových dnů bylo devět set šedesát dva roky, a zemřel.
 
-[21] ⟦enoch|Chanoch|Henoch⟧ žil 65 let a zplodil ⟦methuselah|Metušelacha|Metuzaléma⟧.
+[21] A ⟦enoch|Chanoch|Henoch⟧ žil šedesát pět let a zplodil ⟦methuselah|Metušelacha|Metuzaléma⟧.
 
-[22] ⟦enoch|Chanoch|Henoch⟧ chodil s ⟦elohim|Elohim|Bohem⟧ poté, co zplodil ⟦methuselah|Metušelacha|Metuzaléma⟧, 300 let a zplodil syny a dcery.
+[22] A ⟦enoch|Chanoch|Henoch⟧ chodil s ⟦elohim|Elohim|Bohem⟧ poté, co zplodil ⟦methuselah|Metušelacha|Metuzaléma⟧, tři sta let a zplodil syny a dcery.
 
-[23] Všech ⟦enoch|Chanochových|Henochových⟧ dnů bylo 365 let.
+[23] A všech ⟦enoch|Chanochových|Henochových⟧ dnů bylo tři sta šedesát pět let.
 
-[24] ⟦enoch|Chanoch|Henoch⟧ chodil s ⟦elohim|Elohim|Bohem⟧ – a už nebyl, neboť ho ⟦elohim|Elohim|Bůh⟧ vzal.
+[24] A ⟦enoch|Chanoch|Henoch⟧ chodil s ⟦elohim|Elohim|Bohem⟧, a nebylo ho, neboť ho ⟦elohim|Elohim|Bůh⟧ vzal.
 
-[25] ⟦methuselah|Metušelach|Metuzalém⟧ žil 187 let a zplodil ⟦lamech|Lemecha|Lámecha⟧.
+[25] A ⟦methuselah|Metušelach|Metuzalém⟧ žil sto osmdesát sedm let a zplodil ⟦lamech|Lemecha|Lámecha⟧.
 
-[26] ⟦methuselah|Metušelach|Metuzalém⟧ žil poté, co zplodil ⟦lamech|Lemecha|Lámecha⟧, 782 let a zplodil syny a dcery.
+[26] A ⟦methuselah|Metušelach|Metuzalém⟧ žil poté, co zplodil ⟦lamech|Lemecha|Lámecha⟧, sedm set osmdesát dva roky a zplodil syny a dcery.
 
-[27] Všech ⟦methuselah|Metušelachových|Metuzalémových⟧ dnů bylo 969 let; a zemřel.
+[27] A všech ⟦methuselah|Metušelachových|Metuzalémových⟧ dnů bylo devět set šedesát devět let, a zemřel.
 
-[28] ⟦lamech|Lemech|Lámech⟧ žil 182 let a zplodil syna.
+[28] A ⟦lamech|Lemech|Lámech⟧ žil sto osmdesát dva roky a zplodil syna.
 
-[29] Dal mu jméno ⟦noah|Noach|Noe⟧ a řekl: „Ten nám přinese úlevu od naší práce a od lopoty našich rukou, od půdy, kterou ⟦yhwh|Jahve|Hospodin⟧ proklel.“
+[29] A dal mu jméno ⟦noah|Noach|Noe⟧ se slovy: „Tento nás potěší z našeho díla a z bolesti našich rukou, z půdy, kterou ⟦yhwh|Jahve|Hospodin⟧ proklel.“
 
-[30] ⟦lamech|Lemech|Lámech⟧ žil poté, co zplodil ⟦noah|Noacha|Noeho⟧, 595 let a zplodil syny a dcery.
+[30] A ⟦lamech|Lemech|Lámech⟧ žil poté, co zplodil ⟦noah|Noacha|Noeho⟧, pět set devadesát pět let a zplodil syny a dcery.
 
-[31] Všech ⟦lamech|Lemechových|Lámechových⟧ dnů bylo 777 let; a zemřel.
+[31] A všech ⟦lamech|Lemechových|Lámechových⟧ dnů bylo sedm set sedmdesát sedm let, a zemřel.
 
-[32] ⟦noah|Noachovi|Noemu⟧ bylo 500 let a ⟦noah|Noach|Noe⟧ zplodil ⟦shem|Šema|Šéma⟧, Chama a Jefeta.
+[32] A ⟦noah|Noachovi|Noemu⟧ bylo pět set let a ⟦noah|Noach|Noe⟧ zplodil ⟦shem|Šema|Šéma⟧, Chama a Jefeta.
 
 ## Změny
 
-- **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
-- **"book" → „svitek“** (v1) – hebrejsky סֵפֶר *sefer*. „Kniha“ je anachronická (podoba kodexu přichází mnohem později); „svitek“ je přesný.
-- **„Adam“ (v1, 3, 4, 5) a „Lidstvo“ (v2)** – hebrejské אָדָם *adam* se objevuje v celé kapitole. Ve v1 je nadpis „rody *Adamovy*“ – chápáno jako vlastní jméno. Ve v2 je výslovně popsáno pojmenování lidské dvojice: „dal *jim* jméno *adam*“ (plurálový odkaz; Adam je zde stále hromadné „lidstvo“) – v překladu zachováno tím, že je tento výskyt přeložen „Lidstvo“. Od v3 dále je užití jako osobního jména ustálené. KJV zastírá totožnost slova tím, že ve v1 užívá „man“ a ve v2–3 „Adam“; opraveno.
-- **"an hundred and thirty years" → „130 let“** atd. (v celé kapitole) – archaické složené číslovky modernizovány na číslice. Beze změny obsahu.
-- **"Enos" → „Enosh“** (v6, 7, 9, 10, 11) – opravený přepis (viz 4:26).
-- **"Cainan" → „Kenan“** (v9–14) – hebrejsky קֵינָן *Qenan*. Přepis KJV skrze LXX/Vulgatu; „Kenan“ je bližší hebrejským souhláskám a běžný v moderních kritických textech (nezaměňovat s *Qayin* / Cain).
-- **"Mahalaleel" → „Mahalalel“** (v12–17) – hebrejsky מַהֲלַלְאֵל *Mahalal'el* = „chvála El“. KJV zdvojuje koncové -e; modernizováno.
-- **„Enoch chodil s *Elohim*…“ (v22, 24)** – hebrejsky הִתְהַלֵּךְ … אֶת־הָאֱלֹהִים *hithalekh … et ha-Elohim*. Hitpael slovesa *halakh* označuje ustavičnou, zvykovou chůzi – trvalé společenství. Obrat „chodil s *Elohim*“ (užitý o Enochovi a Noahovi a později v příbuzných podobách o Abrahamovi) označuje blízké smluvní společenství. Ponecháno; formulace modernizována. (Pozn.: MT ve v22 užívá *ha-Elohim*, „ten Bůh“ se členem – mírná formálnost.)
-- **"he was not; for God took him" → „už nebyl, neboť ho *Elohim* vzal“** (v24) – hebrejsky וְאֵינֶנּוּ כִּי־לָקַח אֹתוֹ אֱלֹהִים. Strohé „nebyl“ je přeloženo přirozeněji „už nebyl“. Význam: Enoch nezemřel v obvyklém smyslu; *Elohim* ho „vzal“. Východisko rozsáhlých pozdějších enochovských tradic (1 Enoch, Jude 14, Heb 11:5).
-- **„Noah“ – hebrejská etymologie zviditelněna** (v29) – hebrejsky נֹחַ *Noach* od kořene נ-ח-ם / נ-ו-ח. Lamechův výrok užívá *yenachamenu* (od *nacham* = utěšit / přinést úlevu). Slovní hříčka je v hebrejštině viditelná, ale v angličtině (i češtině) se ztrácí; uvedeno zde. „Ten nám přinese úlevu“ vystihuje *nacham* přesně; „útěcha“ v moderním jazyce naznačuje citové konejšení, ale hebrejština míří ke konkrétní úlevě od zemědělské lopoty.
-- **"LORD" → „Yahweh“** (v29) – jako všude.
+- **"God" → „*Elohim*“; "the LORD" → „Yahweh“** (v1, 22, 24; v29) – jména, jak je má hebrejština.
+- **"the book of the generations of Adam" → „kniha rodů Adamových“** (v1) – hebrejsky סֵפֶר, jakákoli psaná listina (v té době svitek; „svitek“ sám je jiné slovo, מְגִלָּה). תּוֹלְדֹת „rody“ jako ve 2:4.
+- **„Adam“ / „člověk“ / „*Adam*“** (v1–5) – jedno hebrejské slovo, אָדָם, ve všech těchto verších bez členu. Ve v1a a v3–5 je to jméno jednoho muže, „Adam“. Ve v1b a v2 je to lidstvo, jako v 1:26–27: „mužského a ženského pohlaví *je* stvořil … a dal *jim* jméno אָדָם“. Proto má v1b „člověka“ a ve v2 stojí samo to slovo jako dané jméno („*Adam*“, to jest „Člověk“). KJV má ve v1b „man“ a ve v2 „Adam“.
+- **"in the likeness of God made he him" → „v podobě *Elohim* ho učinil“** (v1) – hebrejsky בִּדְמוּת אֱלֹהִים: דְּמוּת „podoba“ s בְּ „v“; 1:26–27 má „v našem obrazu (צֶלֶם), podle naší podoby“. „Stvořil“ (בָּרָא) a „učinil“ (עָשָׂה) stojí vedle sebe jako ve 2:3.
+- **"male and female" → „mužského a ženského pohlaví“** (v2) – hebrejsky זָכָר וּנְקֵבָה, jako 1:27.
+- **"begat a son in his own likeness, after his image" → „zplodil ve své podobě, podle svého obrazu“** (v3) – hebrejsky וַיּוֹלֶד בִּדְמוּתוֹ כְּצַלְמוֹ. Sloveso nemá předmět: „syna“ v hebrejštině není. Obě jména z 1:26 se vracejí s vyměněnými předložkami.
+- **"begat" → „zplodil“** (v celé kapitole) – hebrejsky וַיּוֹלֶד, הוֹלִידוֹ, kauzativ slovesa יָלַד, řečeno o otci; pokaždé stejný překlad.
+- **"an hundred and thirty years" → „sto třicet let“** atd. (v celé kapitole) – čísla jsou vypsána slovy v běžném českém pořadí. Hebrejské pořadí kolísá a slovo „rok“ opakuje: „třicet a sto rok“ (v3), „devět set rok a třicet rok“ (v5), „pět let a sto rok“ (v6). Čísla jsou čísla masoretského textu; samaritánský text a Septuaginta mají v mnoha z těchto veršů čísla jiná (po paměti).
+- **"all the days that Adam lived" → „všech dnů Adamových, které žil“** (v5) – hebrejsky כָּל־יְמֵי אָדָם אֲשֶׁר־חַי.
+- **"Enos" → „Enosh“; "Cainan" → „*Qenan*“; "Mahalaleel" → „Mahalalel“** (v6–17) – hebrejsky אֱנוֹשׁ, קֵינָן, מַהֲלַלְאֵל.
+- **"Enoch walked with God" → „*Chanoch* chodil s *Elohim*“** (v22, 24) – hebrejsky וַיִּתְהַלֵּךְ … אֶת־הָאֱלֹהִים. Slovesný tvar je „procházet se, chodit ustavičně“ (jako 3:8; o Noachovi v 6:9). V obou verších má zde *Elohim* člen, הָאֱלֹהִים; na konci v24 ho nemá. Ve v22 stojí „chodil s *Elohim*“ tam, kde ostatní záznamy mají „žil“.
+- **"and he was not; for God took him" → „a nebylo ho, neboť ho *Elohim* vzal“** (v24) – hebrejsky וְאֵינֶנּוּ, doslova „a není ho“: už tam nebyl. Verš neříká „zemřel“ jako ostatní záznamy. לָקַח je „vzít“.
+- **"begat a son" → „zplodil syna“** (v28) – zde hebrejština má בֵּן „syna“.
+- **"This same shall comfort us concerning our work and toil of our hands, because of the ground" → „Tento nás potěší z našeho díla a z bolesti našich rukou, z půdy“** (v29) – hebrejsky זֶה יְנַחֲמֵנוּ מִמַּעֲשֵׂנוּ וּמֵעִצְּבוֹן יָדֵינוּ מִן־הָאֲדָמָה: třikrát מִן „od, z“. נִחַם je „potěšit“; zní podobně jako jméno נֹחַ *Noach* (které samo patří k נוּחַ „odpočinout“). עִצָּבוֹן „bolest“ je slovo z 3:16, 17 a „půda, kterou Yahweh proklel“ se ohlíží k 3:17.
+- **"Noah was five hundred years old" → „Noachovi bylo pět set let“** (v32) – hebrejsky בֶּן־חֲמֵשׁ מֵאוֹת שָׁנָה, doslova „syn pěti set let“.
 
 ### Poznámky
 
-- **Délka života** – extrémní věk v tomto rodokmenu byl vykládán různě: doslovně (tradičně), symbolicky / numerologicky, jako odraz poměrů před potopou nebo podle staroorientálních vzorů (Sumerský královský seznam uvádí předpotopní krále s vládou v délce desítek tisíc let). Text nic nevysvětluje; přeloženo tak, jak je psáno.
-- **Čísla se liší podle textové tradice** – MT, LXX a Samaritánský Pentateuch uvádějí v celé kapitole odlišné délky života i věk při zplození (LXX obecně vyšší). Zde se sleduje MT. Varianty jsou skutečným textovým problémem; pro nejpřesnější čtení je třeba konzultovat všechny tři, ale rozbor by zahltil překladové poznámky. Upozorněno jednou, jdeme dál.
-- **Enoch jako sedmý od Adama** (v21–24) – Enoch je sedmou generací v linii. V Cainově linii z kap. 4 je sedmý Lamech, chlubivý vrah. Paralela je záměrná: Sethova linie vrcholí Enochem, který chodí s *Elohim*, Cainova linie Lamechem, který oslavuje pomstu.
-- **Methuselahova smrt a potopa** – Methuselahových 969 let (v27) přepočtených vůči Lamechovi (182 let při Noahově narození) a Noahovi (600 let při potopě, Gen 7:6) klade Methuselahovu smrt do roku potopy. Mnozí vykladači v tom viděli, že Methuselahova smrt označuje počátek soudu. Text to neuvádí; jde o vypočtený závěr.
+- **v1–2** – verše navazují na 1:26–28 (stvořil, podoba, mužského a ženského pohlaví, požehnal).
+- **v22–24** – *Chanoch* je v tomto rodu sedmý od Adama (Jude 14); o v24 mluví Heb 11:5.
+- **v32** – záznam o *Noachovi* se zde neuzavírá; pokračuje v 9:28–29.

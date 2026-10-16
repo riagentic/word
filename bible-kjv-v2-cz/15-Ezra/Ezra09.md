@@ -1,50 +1,61 @@
 # Ezdráš 9
 
-[1] Když se tyto věci vykonaly, přistoupili ke mně úředníci a řekli: „Lid ⟦israel|Jisraele|Izraele⟧, kněží a ⟦levites|Levijim|lévijci⟧ se neoddělili od národů zemí; převzali ohavnosti ⟦canaanites|Kenaanim|Kenaanců⟧, ⟦hittites|Chittim|Chetejců⟧, ⟦perizzites|Perizzim|Perizejců⟧, ⟦jebusites|Jevusim|Jebúsejců⟧, ⟦ammonites|Ammonim|Amónců⟧, ⟦moabites|Moavim|Moábců⟧, ⟦egyptians|Micrim|Egypťanů⟧ a ⟦amorites|Emorim|Emorejců⟧.
+[1] A když se tyto věci dokončily, přistoupila ke mně knížata a řekla: „Lid ⟦israel|Jisrael|Izrael⟧ a kněží a ⟦levites|Levijim|lévijci⟧ se neoddělili od národů zemí, podle jejich ohavností, ohavností ⟦canaanites|Kenaaniho|Kenaance⟧, ⟦hittites|Chittiho|Chetejce⟧, ⟦perizzites|Perizziho|Perizejce⟧, ⟦jebusites|Jevusiho|Jebúsejce⟧, ⟦ammonites|Ammoniho|Amónovce⟧, ⟦moabites|Moaviho|Moábce⟧, ⟦egyptian|Micriho|Egypťana⟧ a ⟦amorites|Emoriho|Emorejce⟧.
 
-[2] Vzali si z jejich dcer ženy pro sebe i pro své syny, takže se svaté símě smísilo s národy zemí; a ruka úředníků a představených byla v této nevěrnosti první.“
+[2] Neboť si vzali z jejich dcer pro sebe a pro své syny, a svaté símě se smísilo s národy zemí; a ruka knížat a představených byla v této zpronevěře první.“
 
-[3] Když jsem tu věc uslyšel, roztrhl jsem svůj oděv i plášť, rval jsem si vlasy z hlavy a z vousů a zdrcen jsem usedl.
+[3] A když jsem uslyšel to slovo, roztrhl jsem své roucho a svůj plášť a vytrhal jsem si část vlasů z hlavy a z brady a usedl jsem užaslý.
 
-[4] Tu se ke mně shromáždil každý, kdo se chvěl před slovy ⟦elohim|Elohim|Boha⟧ ⟦israel|Jisraele|Izraele⟧, kvůli nevěrnosti těch, kdo se vrátili z vyhnanství. Seděl jsem zdrcen až do večerní oběti z obilí.
+[4] A ke mně se shromáždil každý, kdo se třásl před slovy ⟦elohim|Elohim|Boha⟧ ⟦israel|Jisraele|Izraele⟧, kvůli zpronevěře vyhnanství; a já jsem seděl užaslý až do večerní přídavné oběti.
 
-[5] Při večerní oběti z obilí jsem povstal ze svého postu, a s roztrženým oděvem i pláštěm jsem padl na kolena a rozprostřel ruce k ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧.
+[5] A při večerní přídavné oběti jsem vstal ze svého pokoření, a s roztrženým rouchem a pláštěm, a klesl jsem na kolena a rozprostřel jsem dlaně k ⟦yhwh|Jahvovi|Hospodinu⟧, svému ⟦elohim|Elohim|Bohu⟧.
 
-[6] Řekl jsem: „Můj ⟦elohim|Elohim|Bože⟧, stydím se a hanbím se pozvednout k tobě tvář, můj ⟦elohim|Elohim|Bože⟧; neboť naše nepravosti přerostly nad naši hlavu a naše vina vzrostla až k nebesům.
+[6] A řekl jsem: „Můj ⟦elohim|Elohim|Bože⟧, stydím se a jsem zahanben pozvednout, můj ⟦elohim|Elohim|Bože⟧, svou tvář k tobě; neboť naše nepravosti se rozmnožily nad hlavu a naše vina vyrostla až k nebesům.
 
-[7] Ode dnů našich otců až do tohoto dne jsme ve veliké vině; pro naše nepravosti jsme byli my, naši králové i naši kněží vydáni do ruky králů zemí – meči, zajetí, loupeži a potupě tváře, jak je tomu dnes.
+[7] Ode dnů našich otců jsme ve veliké vině až do tohoto dne; a pro naše nepravosti jsme byli my, naši králové, naši kněží vydáni do ruky králů zemí, meči, zajetí a plenu a hanbě tváře, jako je tomu tohoto dne.
 
-[8] Ale nyní se nám na krátkou chvíli dostalo přízně od ⟦yhwh|Jahveho|Hospodina⟧, našeho ⟦elohim|Elohim|Boha⟧, aby nám ponechal ostatek, který unikne, a dal nám kolík v místě své svatyně, aby náš ⟦elohim|Elohim|Bůh⟧ rozjasnil naše oči a dal nám trochu oživení v našem otroctví.
+[8] A nyní, na malou chvíli, nám byla přízeň od ⟦yhwh|Jahveho|Hospodina⟧, našeho ⟦elohim|Elohim|Boha⟧, aby nám ponechal vyváznutí a dal nám kolík v místě své svatosti, aby náš ⟦elohim|Elohim|Bůh⟧ dal světlo našim očím a dal nám trochu zachování života v našem otroctví.
 
-[9] Jsme totiž otroci; avšak v našem otroctví nás náš ⟦elohim|Elohim|Bůh⟧ neopustil, ale prokázal nám věrnou lásku před králi ⟦persia|Parasu|Persie⟧, aby nám dal oživení – abychom vztyčili dům našeho ⟦elohim|Elohim|Boha⟧, opravili jeho trosky – a aby nám dal zeď v ⟦judah|Jehudě|Judsku⟧ a v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧.
+[9] Neboť otroci jsme; a v našem otroctví nás náš ⟦elohim|Elohim|Bůh⟧ neopustil a vztáhl k nám ⟦steadfast-love|chesed|milosrdenství⟧ před králi ⟦persia|Parasu|Persie⟧, aby nám dal zachování života, abychom vyvýšili dům našeho ⟦elohim|Elohim|Boha⟧ a postavili jeho trosky, a aby nám dal ohradu v ⟦judah|Jehudě|Judsku⟧ a v ⟦jerusalem|Jerušalajim|Jeruzalémě⟧.
 
-[10] A nyní, náš ⟦elohim|Elohim|Bože⟧, co řekneme po tomto? Vždyť jsme opustili tvá přikázání,
+[10] A nyní, co řekneme, náš ⟦elohim|Elohim|Bože⟧, po tomto? Neboť jsme opustili tvá přikázání,
 
-[11] která jsi přikázal skrze své služebníky proroky: ‚Země, do které jdete, abyste ji obsadili, je nečistá země, nečistotou národů zemí, jejich ohavnostmi, jimiž ji naplnili od jednoho konce k druhému svou nečistotou.
+[11] která jsi přikázal skrze ruku svých služebníků proroků se slovy: ‚Země, do které vcházíte, abyste ji obsadili, je země poskvrny, poskvrnou národů zemí, jejich ohavnostmi, jimiž ji naplnili od úst k ústům svou nečistotou.
 
-[12] Proto nedávejte své dcery jejich synům ani neberte jejich dcery svým synům; nehledejte nikdy jejich pokoj ani jejich blaho – abyste byli silní, jedli dobro země a zanechali ji v dědictví svým dětem navěky.‘
+[12] A nyní, své dcery nedávejte jejich synům a jejich dcery neberte svým synům a nehledejte jejich ⟦shalom|šalom|pokoj⟧ a jejich dobro navěky, abyste byli silní a jedli dobro země a dali ji svým synům obsadit navěky.‘
 
-[13] Po všem, co na nás přišlo pro naše zlé skutky a pro naši velikou vinu – když jsi nás, náš ⟦elohim|Elohim|Bože⟧, potrestal méně, než zasloužily naše nepravosti, a dal jsi nám takové vysvobození, jako je toto –
+[13] A po všem, co na nás přišlo pro naše zlé skutky a pro naši velikou vinu – neboť ty, náš ⟦elohim|Elohim|Bože⟧, jsi zadržel pod míru naší nepravosti a dal jsi nám vyváznutí, jako je toto –
 
-[14] máme znovu rušit tvá přikázání a spojovat se sňatky s národy těchto ohavností? Což by ses na nás nerozhněval, až bys nás vyhladil, takže by nezůstal žádný ostatek, žádný, kdo by unikl?
+[14] máme se navrátit k rušení tvých přikázání a spříznit se sňatky s národy těchto ohavností? Což se na nás nerozhněváš až do vyhubení, takže nebude žádný ostatek a vyváznutí?
 
-[15] ⟦yhwh|Jahve|Hospodine⟧, ⟦elohim|Elohim|Bože⟧ ⟦israel|Jisraele|Izraele⟧, ty jsi spravedlivý; vždyť jsme zůstali jako ostatek, jak je tomu dnes. Hle, jsme před tebou ve své vině, ačkoli kvůli tomu nikdo před tebou nemůže obstát.“
+[15] ⟦yhwh|Jahve|Hospodine⟧, ⟦elohim|Elohim|Bože⟧ ⟦israel|Jisraele|Izraele⟧, ty jsi spravedlivý, neboť jsme zůstali jako vyváznutí, jako je tomu tohoto dne. Hle, jsme před tebou ve své vině, neboť nelze obstát před tebou kvůli tomuto.“
 
 ## Změny
 
 - **"LORD" → „Yahweh“** (v celé kapitole) – Tetragrammaton zachován.
-- **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
-- **"princes... rulers" → „úředníci… představení“** (v1, 2) – *sarim / seganim*.
-- **"trespass" → „nevěrnost / vina“** (v2, 4, 6, 7, 13, 14, 15) – *ma'al*; *ashmah*.
-- **"astonied" → „zdrcen“** (v3, 4) – *meshomem*.
-- **"evening sacrifice" → „večerní oběť z obilí“** (v4, 5) – *minchah*.
-- **"heaviness" → „půst“** (v5) – *ta'anit*.
+- **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*; „můj Elohim“ (v5, 6), „náš Elohim“ (v8–10, 13).
+- **„A“** (v celé kapitole) – hebrejština spojuje věty pomocí וַ / וְ „a“; řetěz je zachován, i tam, kde by čeština podřadila (v5, 9, 12).
+- **"Now when these things were done, the princes came to me" → „A když se tyto věci dokončily, přistoupila ke mně knížata“** (v1) – hebrejsky כְּכַלּוֹת „při dokončení“; נָגַשׁ „přistoupit“; שָׂרִים „knížata“ (jako v2; 10:8, 14). **"The people of Israel … doing according to their abominations, even of the Canaanites" → „Lid Jisrael … podle jejich ohavností, ohavností Kenaance“** – hebrejsky הָעָם יִשְׂרָאֵל, obě podstatná jména vedle sebe; „činíce“ není psáno: כְּתוֹעֲבֹתֵיהֶם „podle jejich ohavností“, pak לַ před prvním jménem, „náležející“: ohavnosti jsou ohavnostmi národů („ohavností“ podruhé je v češtině doplněno). Osm jmen jsou jednotná čísla se členem („Kenaanec“), jako Exod 3:8.
+- **"so that the holy seed have mingled themselves with the people of those lands: yea, the hand of the princes and rulers hath been chief in this trespass" → „a svaté símě se smísilo s národy zemí; a ruka knížat a představených byla v této zpronevěře první“** (v2) – hebrejsky וְהִתְעָרְבוּ „a smísili se“ (sloveso v množném čísle u hromadného „símě“); זֶרַע הַקֹּדֶשׁ, doslova „símě svatosti“; עַמֵּי הָאֲרָצוֹת „národy zemí“ (jako v1, 11; ne „těch“); סְגָנִים „představení“ (úředníci pod místodržitelem; hodnost je nejistá); מַעַל „zpronevěra“, porušení důvěry (jako Lev 5:15; 2 Chr 36:14); רִאשׁוֹנָה „první“. „Ženy“ ve v2 v hebrejštině nejsou: „vzali si z jejich dcer“, jako נָשָׂא v 10:44.
+- **"I rent my garment and my mantle, and plucked off the hair of my head and of my beard, and sat down astonied" → „roztrhl jsem své roucho a svůj plášť a vytrhal jsem si část vlasů z hlavy a z brady a usedl jsem užaslý“** (v3) – hebrejsky בֶּגֶד „roucho“, מְעִיל „plášť“; מִשְּׂעַר „část vlasů“ (מִן „z“); מְשׁוֹמֵם, od שָׁמֵם „zpustnout“, o člověku „užasnout“ (také v4). „Slovo“: hebrejsky הַדָּבָר הַזֶּה.
+- **"because of the transgression of those that had been carried away" → „kvůli zpronevěře vyhnanství“** (v4) – hebrejsky מַעַל הַגּוֹלָה: גּוֹלָה „vyhnanství“, vyhnanci jako celek (jako 8:35; 10:6, 8). חָרֵד בְּ „třást se před“. **"evening sacrifice" → „večerní přídavná oběť“** (v4, 5) – hebrejsky מִנְחַת הָעֶרֶב, přídavná (obilná) oběť večera (Exod 29:41).
+- **"I arose up from my heaviness; and having rent my garment and my mantle, I fell upon my knees, and spread out my hands" → „vstal jsem ze svého pokoření, a s roztrženým rouchem a pláštěm, a klesl jsem na kolena a rozprostřel jsem dlaně“** (v5) – hebrejsky תַּעֲנִית, jen zde, podstatné jméno od הִתְעַנָּה „pokořit se“ (8:21): půst; וּבְקָרְעִי, doslova „a při mém trhání“; כָּרַע „sklonit se, pokleknout“; כַּפַּי „mé dlaně“.
+- **"I am ashamed and blush to lift up my face to thee, my God" → „stydím se a jsem zahanben pozvednout, můj Bože, svou tvář k tobě“** (v6) – hebrejsky בֹּשְׁתִּי וְנִכְלַמְתִּי; הֵרִים „pozvednout“; druhé „můj Elohim“ stojí uvnitř věty. **"our iniquities are increased over our head, and our trespass is grown up unto the heavens" → „naše nepravosti se rozmnožily nad hlavu a naše vina vyrostla až k nebesům“** – hebrejsky לְמַעְלָה רֹּאשׁ „nad hlavu“, bez „naši“; אַשְׁמָה „vina“ (také v7, 13, 15).
+- **"have we been in a great trespass unto this day … been delivered … to a spoil, and to confusion of face, as it is this day" → „jsme ve veliké vině až do tohoto dne … jsme byli vydáni … plenu a hanbě tváře, jako je tomu tohoto dne“** (v7) – hebrejsky נִתַּנּוּ „byli jsme dáni“; „my, naši králové, naši kněží“ bez „a“; בִּזָּה „plen“; בֹּשֶׁת פָּנִים „hanba tváře“; כְּהַיּוֹם הַזֶּה „jako je tomu tohoto dne“ (také v15).
+- **"for a little space grace hath been shewed from the LORD our God, to leave us a remnant to escape, and to give us a nail in his holy place" → „na malou chvíli nám byla přízeň od Yahweh, našeho Elohim, aby nám ponechal vyváznutí a dal nám kolík v místě své svatosti“** (v8) – hebrejsky כִּמְעַט־רֶגַע „jako malá chvíle“; תְחִנָּה „přízeň“ (podstatné jméno od חָנַן „projevit přízeň“); פְּלֵיטָה „vyváznutí“ (unikání, nebo ti, kdo unikli: skupina přeživších; také v13, 14, 15); יָתֵד „kolík“ (zaražený stanový kolík: pevná opora); מְקוֹם קָדְשׁוֹ, doslova „místo jeho svatosti“. **"that our God may lighten our eyes, and give us a little reviving in our bondage" → „aby náš Elohim dal světlo našim očím a dal nám trochu zachování života v našem otroctví“** – hebrejsky לְהָאִיר עֵינֵינוּ; מִחְיָה „zachování života“ (jako Gen 45:5; také v9); עַבְדֻת „otroctví“, podstatné jméno od עֶבֶד „otrok“ (v9).
+- **"For we were bondmen; yet our God hath not forsaken us … but hath extended mercy unto us in the sight of the kings of Persia" → „Neboť otroci jsme; … nás náš Elohim neopustil a vztáhl k nám chesed před králi Persie“** (v9) – hebrejsky עֲבָדִים אֲנַחְנוּ, bez slovesa: „jsme“; וַיַּט „a vztáhl“ (jako Gen 39:21); חֶסֶד; לִפְנֵי „před“. **"to set up the house of our God, and to repair the desolations thereof, and to give us a wall" → „abychom vyvýšili dům našeho Elohim a postavili jeho trosky, a aby nám dal ohradu“** – hebrejsky רוֹמֵם „vyvýšit“; הֶעֱמִיד „postavit“ (dosl. „dát stát“); חָרְבֹתָיו „jeho trosky“; גָּדֵר „ohrada, kamenná zeď“ (ne חוֹמָה „městská hradba“: chráněné místo, ne hradba města). Infinitivy nemají podmět; „abychom“ je v češtině doplněno.
+- **"Now, O our God, what shall we say after this?" → „A nyní, co řekneme, náš Elohim, po tomto?“** (v10) – hebrejské pořadí; מִצְוֹת „přikázání“ (také v14).
+- **"by thy servants the prophets … The land, unto which ye go to possess it, is an unclean land with the filthiness of the people of the lands" → „skrze ruku svých služebníků proroků … Země, do které vcházíte, abyste ji obsadili, je země poskvrny, poskvrnou národů zemí“** (v11) – hebrejsky בְּיַד „skrze ruku“; עֲבָדֶיךָ, slovo znamená „otroci“: o mužích Yahweh „služebníci“; אַתֶּם בָּאִים „vcházíte“ (jako Deut 4:5); אֶרֶץ נִדָּה … בְּנִדַּת, jedno slovo נִדָּה „poskvrna“ dvakrát (o tom, co je odvrženo jako nečisté, Lev 15; KJV má „unclean … filthiness“). **"which have filled it from one end to another with their uncleanness" → „jimiž ji naplnili od úst k ústům svou nečistotou“** – hebrejsky מִפֶּה אֶל־פֶּה „od úst k ústům“ (= od konce ke konci, jako 2 Kgs 10:21; 21:16); טֻמְאָה „nečistota“. Slova proroků nejsou citátem jednoho verše; shrnují Lev 18:24–30; Deut 7:1–3.
+- **"Now therefore give not your daughters … nor seek their peace or their wealth for ever: that ye may be strong … and leave it for an inheritance to your children for ever" → „A nyní, své dcery nedávejte … a nehledejte jejich šalom a jejich dobro navěky, abyste byli silní … a dali ji svým synům obsadit navěky“** (v12) – hebrejsky וְעַתָּה „a nyní“; předměty stojí na prvním místě; לֹא־תִדְרְשׁוּ שְׁלֹמָם וְטוֹבָתָם, slova Deut 23:6; לְמַעַן „aby“; וְהוֹרַשְׁתֶּם, hifil od יָרַשׁ, „dáte (svým synům) obsadit“; „ji“ je doplněno; בָּנִים „synové“.
+- **"seeing that thou our God hast punished us less than our iniquities deserve, and hast given us such deliverance as this" → „neboť ty, náš Elohim, jsi zadržel pod míru naší nepravosti a dal jsi nám vyváznutí, jako je toto“** (v13) – hebrejsky חָשַׂכְתָּ לְמַטָּה מֵעֲוֺנֵנוּ, doslova „odepřel jsi dolů od naší nepravosti“: zadržel jsi (úder) pod to, co je naše nepravost („míru“ je v češtině doplněno). „Potrestal“, „méně“, „zasloužily“ psáno není. כִּי „neboť“; פְּלֵיטָה „vyváznutí“ jako v8.
+- **"Should we again break thy commandments, and join in affinity with" → „máme se navrátit k rušení tvých přikázání a spříznit se sňatky s“** (v14) – hebrejsky הֲנָשׁוּב לְהָפֵר, שׁוּב „navrátit se“ + infinitiv (= znovu činit: zachováno); הֵפֵר „rušit“; הִתְחַתֵּן „spříznit se sňatkem“, doslova „učinit se zetěm“. **"till thou hadst consumed us, so that there should be no remnant nor escaping" → „až do vyhubení, takže nebude žádný ostatek a vyváznutí“** – hebrejsky עַד־כַּלֵּה, infinitiv bez předmětu: „až do vyhubení“; אָנַף „rozhněvat se“; שְׁאֵרִית „ostatek“, פְּלֵיטָה „vyváznutí“.
+- **"O LORD God of Israel … for we remain yet escaped … in our trespasses: for we cannot stand before thee because of this" → „Yahweh, Elohim Jisraele … neboť jsme zůstali jako vyváznutí … ve své vině, neboť nelze obstát před tebou kvůli tomuto“** (v15) – hebrejsky נִשְׁאַרְנוּ פְלֵיטָה „zůstali jsme (jako) vyváznutí“; אַשְׁמָתֵינוּ, významem jednotné číslo („naše vina“); כִּי אֵין לַעֲמוֹד, doslova „neboť není, kdo by stál“: nikdo nemůže obstát. כִּי je obakrát „neboť“.
 
 ### Poznámky
 - **Krize smíšených manželství** – nejrozdělující vnitřní otázka poexilního společenství. Ezra posuzuje hromadné smíšené sňatky jako nevěrnost smlouvě.
 - **„Svaté símě“** (v2) – biologická teologie vyvolení uplatněná na manželství. Paralelní starosti v Malachi 2 a Neh 13.
 - **Výčet národů** – některé v Ezrově době již neexistovaly (Hittité, Jebusité); rétorické: zahrnuje všechny nečisté kategorie.
-- **Sebetrýznění** – rvaní vlasů, trhání oděvů, zdrcené sezení – krajní rituální zármutek. Rabínská tradice vidí Ezrovu reakci jako směrodatnou.
+- **Sebetrýznění** – rvaní vlasů, trhání oděvů, užaslé sezení – krajní rituální zármutek. Rabínská tradice vidí Ezrovu reakci jako směrodatnou.
 - **Vzorec modlitby** – vyznání, dějinná rekapitulace, současná milost, prosba. Klasická forma modlitby doby druhého chrámu (srov. Dan 9, Neh 9).
-- **„Potrestal méně, než zasloužily naše nepravosti“** – teologická rovnováha: kázeň Yahweh je krocena milosrdenstvím.
-- **„Kolík v místě své svatyně“** – pevné místo v zemi zaslíbené s chrámem. Nejisté, ale skutečné.
+- **„Zadržel pod míru naší nepravosti“** (v13) – úder Yahweh byl menší než nepravost; zdrženlivost, ne zproštění viny.
+- **„Kolík v místě své svatosti“** (v8) – zaražený stanový kolík: pevná opora v místě domu. Nejistá, ale skutečná.

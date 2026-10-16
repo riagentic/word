@@ -1,49 +1,69 @@
 # Jeremiah 37
 
-[1] ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ son of ⟦josiah|Yoshiyahu|Josiah⟧, whom ⟦nebuchadnezzar|Nevuchadretzar|Nebuchadnezzar⟧ king of ⟦babylon|Bavel|Babylon⟧ made king in the land of ⟦judah|Yehudah|Judah⟧, reigned instead of ⟦coniah|Konyahu|Coniah⟧ son of ⟦jehoiakim|Yehoyaqim|Jehoiakim⟧.
+[1] And King ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ son of ⟦josiah|Yoshiyahu|Josiah⟧ reigned in place of ⟦coniah|Konyahu|Coniah⟧ son of ⟦jehoiakim|Yehoyaqim|Jehoiakim⟧, whom ⟦nebuchadnezzar|Nevuchadretzar|Nebuchadnezzar⟧ king of ⟦babylon|Bavel|Babylon⟧ had made king in the land of ⟦judah|Yehudah|Judah⟧.
 
-[2] But neither he nor his servants nor the people of the land listened to the words of ⟦yhwh|Yahweh|the LORD⟧ that he spoke through ⟦jeremiah|Yirmeyahu|Jeremiah⟧ the prophet.
+[2] And he did not listen, he and his servants and the people of the land, to the words of ⟦yhwh|Yahweh|the LORD⟧ that he spoke by the hand of ⟦jeremiah|Yirmeyahu|Jeremiah⟧ the prophet.
 
-[3] King ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ sent ⟦jehucal|Yehuchal|Jehucal⟧ son of ⟦shelemiah|Shelemyah|Shelemiah⟧, and ⟦zephaniah|Tzefanyah|Zephaniah⟧ son of ⟦maaseiah|Maaseyah|Maaseiah⟧ the priest, to ⟦jeremiah|Yirmeyahu|Jeremiah⟧ the prophet, saying, "Please pray for us to ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧."
+[3] And King ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ sent ⟦jehucal|Yehuchal|Jehucal⟧ son of ⟦shelemiah|Shelemyah|Shelemiah⟧ and ⟦zephaniah|Tzefanyah|Zephaniah⟧ son of ⟦maaseiah|Maaseyah|Maaseiah⟧, the priest, to ⟦jeremiah|Yirmeyahu|Jeremiah⟧ the prophet, saying, "Pray, please, on our behalf to ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧."
 
-[4] Now ⟦jeremiah|Yirmeyahu|Jeremiah⟧ was still going in and out among the people, for he had not yet been put in prison.
+[4] And ⟦jeremiah|Yirmeyahu|Jeremiah⟧ was coming in and going out in the midst of the people, and they had not put him into the house of confinement.
 
-[5] The army of ⟦pharaoh|Paroh|Pharaoh⟧ had come out of ⟦egypt|Mitzrayim|Egypt⟧, and when the ⟦chaldeans|Kasdim|Chaldeans⟧ who were besieging ⟦jerusalem|Yerushalayim|Jerusalem⟧ heard news about them, they withdrew from ⟦jerusalem|Yerushalayim|Jerusalem⟧.
+[5] And the force of ⟦pharaoh|Paroh|Pharaoh⟧ had come out from ⟦egypt|Mitzrayim|Egypt⟧; and the ⟦chaldeans|Kasdim|Chaldeans⟧ who were besieging ⟦jerusalem|Yerushalayim|Jerusalem⟧ heard the report of them, and they went up from ⟦jerusalem|Yerushalayim|Jerusalem⟧.
 
-[6] Then the word of ⟦yhwh|Yahweh|the LORD⟧ came to ⟦jeremiah|Yirmeyahu|Jeremiah⟧ the prophet:
+[6] And the word of ⟦yhwh|Yahweh|the LORD⟧ came to ⟦jeremiah|Yirmeyahu|Jeremiah⟧ the prophet, saying,
 
-[7] "Thus says ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧: Thus shall you say to the king of ⟦judah|Yehudah|Judah⟧ who sent you to me to inquire of me: 'Behold, ⟦pharaoh|Paroh's|Pharaoh's⟧ army that came to help you is about to return to ⟦egypt|Mitzrayim|Egypt⟧, to its own land.
+[7] "Thus says ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧: Thus you shall say to the king of ⟦judah|Yehudah|Judah⟧, who sent you to me to seek me: Behold, the force of ⟦pharaoh|Paroh|Pharaoh⟧ that has come out to you for help is returning to its land, ⟦egypt|Mitzrayim|Egypt⟧.
 
-[8] And the ⟦chaldeans|Kasdim|Chaldeans⟧ shall come back and fight against this city. They shall capture it and burn it with fire.
+[8] And the ⟦chaldeans|Kasdim|Chaldeans⟧ shall return and fight against this city, and they shall capture it and burn it with fire.
 
-[9] Thus says ⟦yhwh|Yahweh|the LORD⟧: Do not deceive yourselves, saying, "The ⟦chaldeans|Kasdim|Chaldeans⟧ will surely leave us," for they will not leave.
+[9] Thus says ⟦yhwh|Yahweh|the LORD⟧: Do not deceive your souls, saying, 'The ⟦chaldeans|Kasdim|Chaldeans⟧ shall surely go away from us'; for they shall not go.
 
-[10] For even if you should defeat the whole army of ⟦chaldeans|Kasdim|Chaldeans⟧ who are fighting against you, and there remained of them only wounded men, every man in his tent, they would rise up and burn this city with fire.'"
+[10] For even if you had struck all the force of the ⟦chaldeans|Kasdim|Chaldeans⟧ who are fighting with you, and there remained among them men pierced through, each man in his tent, they would rise up and burn this city with fire."
 
-[11] Now when the ⟦chaldeans|Kasdim|Chaldean⟧ army had withdrawn from ⟦jerusalem|Yerushalayim|Jerusalem⟧ at the approach of ⟦pharaoh|Paroh's|Pharaoh's⟧ army,
+[11] And it came to pass, when the force of the ⟦chaldeans|Kasdim|Chaldeans⟧ had gone up from ⟦jerusalem|Yerushalayim|Jerusalem⟧ from the face of the force of ⟦pharaoh|Paroh|Pharaoh⟧,
 
-[12] ⟦jeremiah|Yirmeyahu|Jeremiah⟧ set out from ⟦jerusalem|Yerushalayim|Jerusalem⟧ to go to the land of ⟦benjamin|Binyamin|Benjamin⟧ to receive his portion there among the people.
+[12] that ⟦jeremiah|Yirmeyahu|Jeremiah⟧ went out from ⟦jerusalem|Yerushalayim|Jerusalem⟧ to go to the land of ⟦benjamin|Binyamin|Benjamin⟧, to take a share from there in the midst of the people.
 
-[13] When he was at the ⟦benjamin|Binyamin|Benjamin⟧ Gate, a sentry there named ⟦irijah|Yiriyyah|Irijah⟧ son of ⟦shelemiah|Shelemyah|Shelemiah⟧, son of ⟦hananiah|Chananyah|Hananiah⟧, seized ⟦jeremiah|Yirmeyahu|Jeremiah⟧ the prophet, saying, "You are deserting to the ⟦chaldeans|Kasdim|Chaldeans⟧."
+[13] And it came to pass, when he was in the gate of ⟦benjamin|Binyamin|Benjamin⟧, there was there one who had the oversight, and his name was ⟦irijah|Yiriyyah|Irijah⟧ son of ⟦shelemiah|Shelemyah|Shelemiah⟧ son of ⟦hananiah|Chananyah|Hananiah⟧; and he seized ⟦jeremiah|Yirmeyahu|Jeremiah⟧ the prophet, saying, "To the ⟦chaldeans|Kasdim|Chaldeans⟧ you are falling away."
 
-[14] And ⟦jeremiah|Yirmeyahu|Jeremiah⟧ said, "It is a lie; I am not deserting to the ⟦chaldeans|Kasdim|Chaldeans⟧." But ⟦irijah|Yiriyyah|Irijah⟧ would not listen to him, and seized ⟦jeremiah|Yirmeyahu|Jeremiah⟧ and brought him to the officials.
+[14] And ⟦jeremiah|Yirmeyahu|Jeremiah⟧ said, "Falsehood! I am not falling away to the ⟦chaldeans|Kasdim|Chaldeans⟧." And he did not listen to him; and ⟦irijah|Yiriyyah|Irijah⟧ seized ⟦jeremiah|Yirmeyahu|Jeremiah⟧ and brought him to the princes.
 
-[15] And the officials were enraged at ⟦jeremiah|Yirmeyahu|Jeremiah⟧, and they beat him and imprisoned him in the house of ⟦jonathan|Yehonatan|Jonathan⟧ the secretary, for it had been made a prison.
+[15] And the princes were wrathful against ⟦jeremiah|Yirmeyahu|Jeremiah⟧, and they struck him and put him in the house of the bond, the house of ⟦jonathan|Yehonatan|Jonathan⟧ the scribe; for they had made it into the house of confinement.
 
-[16] When ⟦jeremiah|Yirmeyahu|Jeremiah⟧ had come to the dungeon cells and remained there many days,
+[16] For ⟦jeremiah|Yirmeyahu|Jeremiah⟧ had come into the house of the pit and into the vaults, and ⟦jeremiah|Yirmeyahu|Jeremiah⟧ dwelt there many days.
 
-[17] King ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ sent for him and received him. The king questioned him secretly in his house and said, "Is there any word from ⟦yhwh|Yahweh|the LORD⟧?" ⟦jeremiah|Yirmeyahu|Jeremiah⟧ said, "There is." Then he said, "You shall be delivered into the hand of the king of ⟦babylon|Bavel|Babylon⟧."
+[17] And King ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ sent and took him, and the king asked him in his house in secret and said, "Is there a word from ⟦yhwh|Yahweh|the LORD⟧?" And ⟦jeremiah|Yirmeyahu|Jeremiah⟧ said, "There is." And he said, "Into the hand of the king of ⟦babylon|Bavel|Babylon⟧ you shall be given."
 
-[18] ⟦jeremiah|Yirmeyahu|Jeremiah⟧ also said to King ⟦zedekiah|Tzidqiyahu|Zedekiah⟧, "What wrong have I done to you or your servants or this people, that you have put me in prison?
+[18] And ⟦jeremiah|Yirmeyahu|Jeremiah⟧ said to King ⟦zedekiah|Tzidqiyahu|Zedekiah⟧, "What have I sinned against you and against your servants and against this people, that you have put me into the house of confinement?
 
-[19] Where are your prophets who prophesied to you, saying, 'The king of ⟦babylon|Bavel|Babylon⟧ will not come against you and against this land'?
+[19] And where are your prophets who prophesied to you, saying, 'The king of ⟦babylon|Bavel|Babylon⟧ shall not come against you and against this land'?
 
-[20] Now hear, please, O my lord the king: let my humble plea come before you and do not send me back to the house of ⟦jonathan|Yehonatan|Jonathan⟧ the secretary, lest I die there."
+[20] And now hear, please, my lord the king: let my plea for favor fall, please, before you, and do not make me return to the house of ⟦jonathan|Yehonatan|Jonathan⟧ the scribe, and I shall not die there."
 
-[21] So King ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ gave orders, and they committed ⟦jeremiah|Yirmeyahu|Jeremiah⟧ to the court of the guard. And a loaf of bread was given him daily from the bakers' street, until all the bread of the city was gone. So ⟦jeremiah|Yirmeyahu|Jeremiah⟧ remained in the court of the guard.
+[21] And King ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ commanded, and they committed ⟦jeremiah|Yirmeyahu|Jeremiah⟧ to the court of the guard; and a round of bread was given to him for the day from the street of the bakers, until all the bread was finished from the city. And ⟦jeremiah|Yirmeyahu|Jeremiah⟧ dwelt in the court of the guard.
 
 ## Changes
 
-- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"God" → "*Elohim*"** (v3) — Hebrew *Elohim* preserved.
-- **Poetic structure** — entirely prose; Jeremiah's imprisonment narrative during siege.
+- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved. **"God" → "*Elohim*"** (v3, 7).
+- **Layout** — the chapter is prose. **"And"** (throughout) — the Hebrew joins its clauses with וַ / וְ "and"; the chain is kept.
+- **"And king Zedekiah the son of Josiah reigned instead of Coniah the son of Jehoiakim, whom Nebuchadrezzar king of Babylon made king in the land of Judah" → "And King Zedekiah son of Josiah reigned in place of Coniah son of Jehoiakim, whom Nebuchadrezzar … had made king"** (v1) — Hebrew וַיִּמְלָךְ־מֶלֶךְ צִדְקִיָּהוּ, literally "and there reigned as king Zedekiah"; תַּחַת "in place of"; הִמְלִיךְ "made reign". In the Hebrew order "whom" follows "Coniah son of Jehoiakim", but it is Zedekiah whom Nebuchadrezzar made king (2 Kgs 24:17). The name is written נְבוּכַדְרֶאצַּר, with r.
+- **"But neither he, nor his servants, nor the people of the land, did hearken unto the words of the LORD, which he spake by the prophet Jeremiah" → "And he did not listen, he and his servants and the people of the land, to the words of Yahweh that he spoke by the hand of Jeremiah the prophet"** (v2) — Hebrew וְלֹא שָׁמַע הוּא וַעֲבָדָיו …, the singular verb first and then the three subjects; שָׁמַע אֶל "listen to"; בְּיַד "by the hand of".
+- **"Zephaniah the son of Maaseiah the priest"** (v3) — הַכֹּהֵן "the priest" is Zephaniah (as Jer 21:1). **"Pray now unto the LORD our God for us" → "Pray, please, on our behalf to Yahweh our Elohim"** — הִתְפַּלֶּל־נָא בַעֲדֵנוּ, נָא "please", בַּעַד "on behalf of", in the Hebrew order.
+- **"came in and went out among the people: for they had not put him into prison" → "was coming in and going out in the midst of the people, and they had not put him into the house of confinement"** (v4) — Hebrew בָּא וְיֹצֵא, participles; וְלֹא "and not" ("for", "still", "yet" are not written). The reading (qere) is בֵּית הַכְּלוּא "the house of confinement" (כָּלָא "keep back, shut up"); the written text (ketiv) הכליא is another spelling of the same word. בֵּית הַכֶּלֶא (v15, 18) is the same: "house of confinement", as 2 Kgs 25:27.
+- **"Then Pharaoh's army was come forth … they departed from Jerusalem" → "And the force of Pharaoh had come out … and they went up from Jerusalem"** (v5, 11) — Hebrew חֵיל "force" (also v7, 10, 11; as 2 Kgs 25); הַצָּרִים עַל "besieging"; שִׁמְעָם "the report of them"; וַיֵּעָלוּ מֵעַל, literally "went up from upon": they withdrew (as Jer 21:2).
+- **"Then came the word of the LORD unto the prophet Jeremiah, saying" → "And the word of Yahweh came to Jeremiah the prophet, saying"** (v6) — the prophets' formula, with לֵאמֹר "saying".
+- **"to enquire of me … which is come forth to help you, shall return to Egypt into their own land" → "to seek me … that has come out to you for help is returning to its land, Egypt"** (v7) — Hebrew לְדָרְשֵׁנִי, דָּרַשׁ "seek"; לְעֶזְרָה "for help"; שָׁב, a participle (or perfect), "is returning"; לְאַרְצוֹ מִצְרָיִם "to its land, Egypt", in the Hebrew order. "You" is plural: the envoys.
+- **"take it" → "capture it"** (v8) — לָכַד "capture".
+- **"Deceive not yourselves" → "Do not deceive your souls"** (v9) — Hebrew אַל־תַּשִּׁאוּ נַפְשֹׁתֵיכֶם, נֶפֶשׁ "soul". **"The Chaldeans shall surely depart from us: for they shall not depart" → "… shall surely go away from us; for they shall not go"** — הָלֹךְ יֵלְכוּ, literally "going they shall go"; the same verb הָלַךְ "go" in the answer.
+- **"For though ye had smitten the whole army … and there remained but wounded men among them, yet should they rise up" → "For even if you had struck all the force … and there remained among them men pierced through … they would rise up"** (v10) — Hebrew כִּי אִם "for if"; הִכָּה "strike"; "but" (only) is not written; מְדֻקָּרִים "pierced through" (דָּקַר "pierce"). הַנִּלְחָמִים אִתְּכֶם, literally "fighting with you" (= against you).
+- **"And it came to pass, that when the army … was broken up from Jerusalem for fear of Pharaoh's army" → "And it came to pass, when the force … had gone up from Jerusalem from the face of the force of Pharaoh"** (v11) — Hebrew וְהָיָה, בְּהֵעָלוֹת (the nifal of עָלָה "go up"); מִפְּנֵי "from the face of" ("for fear" is not written). The sentence runs on into v12.
+- **"to separate himself thence in the midst of the people" → "to take a share from there in the midst of the people"** (v12) — Hebrew לַחֲלִק מִשָּׁם, from חָלַק "divide, share" (חֵלֶק "share"); the form and the sense are uncertain: a share of land (an inheritance, as Jer 32:6–15) is the common reading; KJV "separate himself", others "slip away".
+- **"a captain of the ward was there, whose name was Irijah" → "there was there one who had the oversight, and his name was Irijah"** (v13) — Hebrew בַּעַל פְּקִדֻת, literally "an owner of oversight" (בַּעַל with a noun: one marked by it; פְּקִדֻת, as פְּקֻדָּה "oversight"); וּשְׁמוֹ "and his name". The verse opens with וַיְהִי "And it came to pass". **"Thou fallest away to the Chaldeans" → "To the Chaldeans you are falling away"** — נֹפֵל אֶל, a participle, in the Hebrew order; נָפַל "fall (away)" of going over to the enemy (as Jer 21:9; 2 Kgs 25:11).
+- **"It is false; I fall not away … but he hearkened not to him: so Irijah took Jeremiah" → "Falsehood! I am not falling away … And he did not listen to him; and Irijah seized Jeremiah"** (v14) — Hebrew שֶׁקֶר "falsehood", one word; "it is" is not written. Here נֹפֵל עַל (v13 אֶל). תָּפַשׂ "seize" (v13, 14). **"the princes" → "the princes"** (v14, 15) — שָׂרִים, the word "prince" (the שַׂר row; "officials" in some versions).
+- **"Wherefore the princes were wroth with Jeremiah, and smote him, and put him in prison in the house of Jonathan the scribe: for they had made that the prison" → "And the princes were wrathful against Jeremiah, and they struck him and put him in the house of the bond, the house of Jonathan the scribe; for they had made it into the house of confinement"** (v15) — Hebrew קָצַף "be wrathful"; הִכָּה "strike"; בֵּית הָאֵסוּר, literally "the house of the bond" (אֵסוּר, from אָסַר "bind": a fetter); then לְבֵית הַכֶּלֶא "into the house of confinement".
+- **"When Jeremiah was entered into the dungeon, and into the cabins, and Jeremiah had remained there many days" → "For Jeremiah had come into the house of the pit and into the vaults, and Jeremiah dwelt there many days"** (v16) — Hebrew כִּי, taken as "for" (it may also be "when", running on into v17); בֵּית הַבּוֹר "the house of the pit" (בּוֹר "pit", a cistern; the dungeon was such a pit, as Exod 12:29); חֲנֻיוֹת is found only here, "vaults" or "cells": the meaning is uncertain. יָשַׁב "dwell".
+- **"sent, and took him out: and the king asked him secretly in his house … Thou shalt be delivered into the hand of the king of Babylon" → "sent and took him, and the king asked him in his house in secret … Into the hand of the king of Babylon you shall be given"** (v17) — Hebrew וַיִּקָּחֵהוּ "and took him" ("out" is not written); בַּסֵּתֶר "in secret"; נָתַן "give", in the Hebrew order.
+- **"What have I offended against thee, or against thy servants, or against this people, that ye have put me in prison?" → "What have I sinned against you and against your servants and against this people, that you have put me into the house of confinement?"** (v18) — Hebrew חָטָא לְ "sin against", with לְ before each; נְתַתֶּם "you have put", plural.
+- **"Where are now your prophets" → "And where are your prophets"** (v19) — the reading (qere) is וְאַיֵּה "and where"; the written text (ketiv) ואיו, perhaps "and where is it": the same question. "Your" and "you" are plural.
+- **"Therefore hear now, I pray thee, O my lord the king: let my supplication, I pray thee, be accepted before thee; that thou cause me not to return … lest I die there" → "And now hear, please, my lord the king: let my plea for favor fall, please, before you, and do not make me return … and I shall not die there"** (v20) — Hebrew וְעַתָּה "and now"; נָא twice; no "O" before "my lord the king" (the reviewer's vocative row). תִּפָּל־נָא תְחִנָּתִי, literally "let my plea for favor fall" (תְּחִנָּה, from חָנַן "show favor"): the plea is laid down before the king; also 38:26. וְלֹא אָמוּת "and I shall not die": the result asked for.
+- **"commanded that they should commit Jeremiah into the court of the prison, and that they should give him daily a piece of bread out of the bakers' street, until all the bread in the city were spent" → "commanded, and they committed Jeremiah to the court of the guard; and a round of bread was given to him for the day from the street of the bakers, until all the bread was finished from the city"** (v21) — Hebrew וַיַּפְקִדוּ "and they committed" (הִפְקִיד, here of putting a man in custody); חֲצַר הַמַּטָּרָה "the court of the guard" (מַטָּרָה "watch, guard"); וְנָתֹן, an infinitive with no subject ("was given"); כִּכַּר־לֶחֶם "a round of bread" (כִּכָּר, the "round" of its row); לַיּוֹם "for the day"; חוּץ "street"; תֹּם "be finished". **"Thus Jeremiah remained" → "And Jeremiah dwelt"** — וַיֵּשֶׁב, יָשַׁב "dwell" (also v16).

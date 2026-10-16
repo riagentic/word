@@ -1,58 +1,78 @@
 # Ezekiel 26
 
-[1] In the eleventh year, on the first day of the month, the word of ⟦yhwh|Yahweh|the LORD⟧ came to me:
+[1] And it came to pass in the eleventh year, on the first of the month, the word of ⟦yhwh|Yahweh|the LORD⟧ came to me, saying,
 
-[2] "Son of man, because ⟦tyre|Tzor|Tyre⟧ said concerning ⟦jerusalem|Yerushalayim|Jerusalem⟧, 'Aha, the gate of the peoples is broken; it has swung open to me. I shall be replenished, now that she is laid waste,'
+[2] "Son of man, because ⟦tyre|Tzor|Tyre⟧ said over ⟦jerusalem|Yerushalayim|Jerusalem⟧, 'Aha! She is broken, the doors of the peoples; she has turned to me; I shall be filled, she is laid waste,'
 
-[3] therefore thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: Behold, I am against you, O ⟦tyre|Tzor|Tyre⟧, and will bring up many nations against you, as the sea brings up its waves.
+[3] therefore thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: Behold, I am against you, ⟦tyre|Tzor|Tyre⟧, and I will bring up against you many nations, as the sea brings up its waves.
 
-[4] They shall destroy the walls of ⟦tyre|Tzor|Tyre⟧ and break down her towers, and I will scrape her soil from her and make her a bare rock.
+[4] And they shall ruin the walls of ⟦tyre|Tzor|Tyre⟧ and throw down her towers; and I will scrape her dust from her and make her a bare crag.
 
-[5] She shall be in the midst of the sea a place for the spreading of nets, for I have spoken, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧. And she shall become plunder for the nations,
+[5] A spreading place of dragnets she shall be in the midst of the sea, for I have spoken, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧; and she shall become plunder for the nations.
 
-[6] and her daughters on the mainland shall be killed by the sword. Then they will know that I am ⟦yhwh|Yahweh|the LORD⟧.
+[6] And her daughters who are in the field shall be killed by the sword; and they shall know that I am ⟦yhwh|Yahweh|the LORD⟧.
 
-[7] "For thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: Behold, I will bring against ⟦tyre|Tzor|Tyre⟧ from the north ⟦nebuchadnezzar|Nevuchadretzar|Nebuchadnezzar⟧ king of ⟦babylon|Bavel|Babylon⟧, king of kings, with horses and chariots, and with horsemen and a host of many soldiers.
+[7] For thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: Behold, I am bringing against ⟦tyre|Tzor|Tyre⟧ ⟦nebuchadnezzar|Nevuchadretzar|Nebuchadnezzar⟧ king of ⟦babylon|Bavel|Babylon⟧ from the north, a king of kings, with horse and with chariots and with horsemen, and an assembly and a numerous people.
 
-[8] He will kill with the sword your daughters on the mainland. He will set up a siege wall against you and throw up a mound against you, and raise a roof of shields against you.
+[8] Your daughters in the field he shall kill with the sword; and he shall set against you a siege wall, and pour out against you a mound, and raise up against you a large shield.
 
-[9] He will direct the shock of his battering rams against your walls, and with his axes he will break down your towers.
+[9] And the blow of his battering ram he shall set against your walls, and your towers he shall break down with his swords.
 
-[10] His horses will be so many that their dust will cover you. Your walls will shake at the noise of the horsemen and wagons and chariots, when he enters your gates as men enter a city that has been breached.
+[10] From the abundance of his horses their dust shall cover you; from the sound of horseman and wheel and chariot your walls shall quake, when he enters your gates as men enter a city split open.
 
-[11] With the hoofs of his horses he will trample all your streets. He will kill your people with the sword, and your mighty pillars will fall to the ground.
+[11] With the hoofs of his horses he shall trample all your streets; your people he shall kill with the sword, and the pillars of your strength shall go down to the ground.
 
-[12] They will plunder your riches and loot your merchandise. They will break down your walls and destroy your pleasant houses. Your stones and timber and soil they will cast into the midst of the waters.
+[12] And they shall spoil your wealth and plunder your merchandise, and throw down your walls, and your desirable houses they shall break down; and your stones and your timber and your dust they shall put in the midst of the waters.
 
-[13] And I will stop the music of your songs, and the sound of your lyres shall be heard no more.
+[13] And I will make cease the din of your songs, and the sound of your lyres shall not be heard any more.
 
-[14] I will make you a bare rock. You shall be a place for the spreading of nets. You shall never be rebuilt, for I am ⟦yhwh|Yahweh|the LORD⟧; I have spoken, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.
+[14] And I will make you a bare crag; a spreading place of dragnets you shall be; you shall not be built any more, for I, ⟦yhwh|Yahweh|the LORD⟧, have spoken, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧.
 
-[15] "Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧ to ⟦tyre|Tzor|Tyre⟧: Will not the coastlands shake at the sound of your fall, when the wounded groan, when slaughter is made in your midst?
+[15] Thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧ to ⟦tyre|Tzor|Tyre⟧: Shall not, at the sound of your fall, when the slain groan, when killing is done in your midst, the coastlands quake?
 
-[16] Then all the princes of the sea will step down from their thrones and remove their robes and strip off their embroidered garments. They will clothe themselves with trembling; they will sit on the ground and tremble every moment and be appalled at you.
+[16] And all the chieftains of the sea shall come down from upon their thrones, and remove their robes, and strip off their garments of embroidery; they shall clothe themselves with tremblings; on the ground they shall sit, and tremble every moment, and be appalled over you.
 
-[17] And they will raise a lamentation over you and say to you:
+[17] And they shall lift up a dirge over you and say to you:
 
-'How you have perished, you who were inhabited from the seas,
-O city renowned,
-who was mighty on the sea;
-she and her inhabitants imposed their terror
-on all her inhabitants!
+'How you have perished, inhabited one from the seas,
+the city praised,
+that was strong in the sea, she and her inhabitants,
+who put their terror on all her inhabitants!
 
 [18] Now the coastlands tremble on the day of your fall,
-and the coastlands that are on the sea are dismayed at your passing.'
+and the coastlands that are in the sea are dismayed at your going out.'
 
-[19] For thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: When I make you a city laid waste, like the cities that are not inhabited, when I bring up the deep over you, and the great waters cover you,
+[19] For thus says ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧: When I make you a city laid waste, like the cities that are not inhabited, when I bring up over you the deep, and the many waters cover you,
 
-[20] then I will make you go down with those who go down to the pit, to the people of old, and I will make you to dwell in the world below, among ruins from of old, with those who go down to the pit, so that you will not be inhabited; but I will set beauty in the land of the living.
+[20] then I will bring you down with those who go down to the pit, to the people of old, and I will make you dwell in the land of the depths, like the ruins from of old, with those who go down to the pit, so that you shall not be inhabited; and I will give beauty in the land of the living.
 
-[21] I will bring you to a dreadful end, and you shall be no more. Though you be sought for, you will never be found again, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧."
+[21] Terrors I will make you, and you shall be no more; and you shall be sought, and you shall not be found any more forever, declares ⟦adonai-yhwh|Lord Yahweh|the Lord GOD⟧."
 
 ## Changes
 
-- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton יְהוָה rendered directly.
-- **"Lord GOD" → "Lord Yahweh"** (throughout) — Hebrew אֲדֹנָי יְהוִה *Adonai Yahweh*; Ezekiel's distinctive doubled divine title.
-- **"Nebuchadrezzar" retained** (v7) — Hebrew נְבוּכַדְרֶאצַּר *Nevukhadrezzar*; Ezekiel (like Jeremiah) uses the more historically accurate form *-rezzar* vs. KJV Daniel's *-rezzar* vs. *-nezzar* variant; both are Hebrew transliterations of Babylonian *Nabû-kudurri-uṣur*.
-- **"the pit" / "world below"** (v20) — Hebrew בּוֹר *bor* = pit/cistern; used for the underworld/realm of the dead; "those who go down to the pit" — *bor* as the grave/underworld.
-- **"dreadful end"** (v21) — Hebrew בַּלָּהוֹת *ballahot* = terrors/sudden destructions; "I will bring you to a dreadful end" — *ballahot* is literally "terrors."
+- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved. **"Lord GOD" → "Lord Yahweh"** (v3, 5, 7, 14, 15, 19, 21) — Hebrew אֲדֹנָי יְהוִה, both names.
+- **"And it came to pass in the eleventh year, in the first day of the month, that the word of the LORD came unto me, saying" → "And it came to pass in the eleventh year, on the first of the month, the word of Yahweh came to me, saying"** (v1) — Hebrew וַיְהִי … הָיָה דְבַר־יְהוָה אֵלַי לֵאמֹר; בְּאֶחָד לַחֹדֶשׁ "on the first of the month" ("day" is not written); which month is not said.
+- **"because that Tyrus hath said against Jerusalem, Aha, she is broken that was the gates of the people: she is turned unto me: I shall be replenished, now she is laid waste" → "because Tyre said over Jerusalem, 'Aha! She is broken, the doors of the peoples; she has turned to me; I shall be filled, she is laid waste'"** (v2) — Hebrew אָמְרָה צֹּר, Tyre feminine; עַל "over" (also "against"); נִשְׁבְּרָה דַּלְתוֹת הָעַמִּים, a feminine singular verb with the plural "doors" (דֶּלֶת "door", not "gates": שַׁעַר); נָסֵבָּה אֵלָי "she has turned to me" (the trade of the peoples now comes to Tyre); אִמָּלְאָה "I shall be filled" (מָלֵא nifal); הָחֳרָבָה "she is laid waste", no "now" written: the cause is left to the two clauses side by side.
+- **"Behold, I am against thee, O Tyrus, and will cause many nations to come up against thee, as the sea causeth his waves to come up" → "Behold, I am against you, Tyre, and I will bring up against you many nations, as the sea brings up its waves"** (v3) — Hebrew הֶעֱלָה "bring up" twice (hifil of עָלָה); no "O".
+- **"And they shall destroy the walls of Tyrus … I will also scrape her dust from her, and make her like the top of a rock" → "And they shall ruin the walls of Tyre … and I will scrape her dust from her and make her a bare crag"** (v4) — Hebrew שִׁחֲתוּ, piel of שָׁחַת "ruin" (its row); הָרַס "throw down" (also v12); סִחָה "scrape" (only here); עָפָר "dust" (its row; also v12); צְחִיחַ סֶלַע "a bare crag" (lit. "a glaring surface of crag", sun-baked and bare; also v14; סֶלַע "crag", its row). "like" is not in the Hebrew. The name צֹר means "rock".
+- **"It shall be a place for the spreading of nets in the midst of the sea: for I have spoken it" → "A spreading place of dragnets she shall be in the midst of the sea, for I have spoken"** (v5) — Hebrew מִשְׁטַח חֲרָמִים, the Hebrew order (also v14); חֵרֶם "dragnet" (the Ecclesiastes row); כִּי אֲנִי דִבַּרְתִּי "for I have spoken", "I" written out; no "it". בַּז "plunder" (its row).
+- **"And her daughters which are in the field shall be slain by the sword" → "And her daughters who are in the field shall be killed by the sword"** (v6) — Hebrew בַּשָּׂדֶה "in the field" (the open country: the towns of Tyre on the mainland; also v8); הָרַג "kill" (its row; also v8, 11).
+- **"Behold, I will bring upon Tyrus Nebuchadrezzar king of Babylon, a king of kings, from the north, with horses, and with chariots, and with horsemen, and companies, and much people" → "Behold, I am bringing against Tyre Nebuchadrezzar king of Babylon from the north, a king of kings, with horse and with chariots and with horsemen, and an assembly and a numerous people"** (v7) — Hebrew הִנְנִי מֵבִיא, a participle; the Hebrew order; נְבוּכַדְרֶאצַּר, the form with *-rezzar* (as Jeremiah); סוּס and רֶכֶב collective singulars (its row); קָהָל "assembly" (its row; not "companies"); עַם־רָב "a numerous people".
+- **"and he shall make a fort against thee, and cast a mount against thee, and lift up the buckler against thee" → "and he shall set against you a siege wall, and pour out against you a mound, and raise up against you a large shield"** (v8) — Hebrew נָתַן דָּיֵק "set a siege wall" (דָּיֵק, a siege work: wall or tower, uncertain); שָׁפַךְ סֹלְלָה "pour out a mound" (the earth ramp is poured; שָׁפַךְ "pour out", its row); הֵקִים "raise up" (its row); צִנָּה "large shield" (the body shield, beside מָגֵן "shield"; raised as a roof over the besiegers: so ESV, the sense, not the word).
+- **"And he shall set engines of war against thy walls, and with his axes he shall break down thy towers" → "And the blow of his battering ram he shall set against your walls, and your towers he shall break down with his swords"** (v9) — Hebrew מְחִי קָבָלּוֹ, both words found only here: מְחִי "blow" (from מָחָה "strike"), קֹבֶל "what is set in front" (taken as the battering ram: uncertain); נָתַץ "break down" (its row; also v12); בְּחַרְבוֹתָיו "with his swords" (חֶרֶב, here of iron tools: KJV "axes", the sense).
+- **"By reason of the abundance of his horses their dust shall cover thee: thy walls shall shake at the noise of the horsemen, and of the wheels, and of the chariots, when he shall enter into thy gates, as men enter into a city wherein is made a breach" → "From the abundance of his horses their dust shall cover you; from the sound of horseman and wheel and chariot your walls shall quake, when he enters your gates as men enter a city split open"** (v10) — Hebrew מִשִּׁפְעַת … מִקּוֹל, "from" twice; אָבָק "dust" (fine dust, another word than עָפָר of v4, 12); פָּרָשׁ, גַּלְגַּל, רֶכֶב singulars; רָעַשׁ "quake" (also v15); כִּמְבוֹאֵי עִיר מְבֻקָּעָה, lit. "as the enterings of a city split open" ("men" supplied; בָּקַע "split", its row).
+- **"With the hoofs of his horses shall he tread down all thy streets … and thy strong garrisons shall go down to the ground" → "With the hoofs of his horses he shall trample all your streets … and the pillars of your strength shall go down to the ground"** (v11) — Hebrew רָמַס "trample"; חוּצוֹת "streets"; מַצְּבוֹת עֻזֵּךְ "the pillars of your strength" (מַצֵּבָה "pillar", a standing stone, perhaps of Tyre's temples; not "garrisons"); עַמֵּךְ "your people" first, as the Hebrew.
+- **"And they shall make a spoil of thy riches, and make a prey of thy merchandise … and destroy thy pleasant houses: and they shall lay thy stones and thy timber and thy dust in the midst of the water" → "And they shall spoil your wealth and plunder your merchandise … and your desirable houses they shall break down; and your stones and your timber and your dust they shall put in the midst of the waters"** (v12) — Hebrew שָׁלַל "spoil" and בָּזַז "plunder" (their rows); חַיִל "wealth" (its row: of goods); רְכֻלָּה "merchandise" (from רָכַל "trade"; also ch. 27); בָּתֵּי חֶמְדָּתֵךְ "houses of your desire" (root חָמַד); the Hebrew order; עֵצַיִךְ "your timber" (lit. "your woods"); שִׂים "put".
+- **"And I will cause the noise of thy songs to cease; and the sound of thy harps shall be no more heard" → "And I will make cease the din of your songs, and the sound of your lyres shall not be heard any more"** (v13) — Hebrew הִשְׁבִּית "make cease" (its row); הֲמוֹן "din" (lit. "multitude": the noise of many, as Jer 47:3); כִּנּוֹר "lyre" (its row).
+- **"And I will make thee like the top of a rock … thou shalt be built no more: for I the LORD have spoken it" → "And I will make you a bare crag … you shall not be built any more, for I, Yahweh, have spoken"** (v14) — as v4–5; כִּי אֲנִי יְהוָה דִּבַּרְתִּי "for I, Yahweh, have spoken".
+- **"Shall not the isles shake at the sound of thy fall, when the wounded cry, when the slaughter is made in the midst of thee?" → "Shall not, at the sound of your fall, when the slain groan, when killing is done in your midst, the coastlands quake?"** (v15) — Hebrew order: the question, the three "when" clauses, the verb last; אָנַק "groan"; חָלָל "slain" (one pierced: its row); בֵּהָרֵג הֶרֶג, lit. "in the being killed of killing"; אִיִּים "coastlands" (its row; also v18).
+- **"Then all the princes of the sea shall come down from their thrones, and lay away their robes, and put off their broidered garments: they shall clothe themselves with trembling … and shall tremble at every moment, and be astonished at thee" → "And all the chieftains of the sea shall come down from upon their thrones, and remove their robes, and strip off their garments of embroidery; they shall clothe themselves with tremblings … and tremble every moment, and be appalled over you"** (v16) — Hebrew וְ "And" (no "then"); מֵעַל "from upon"; נְשִׂיאֵי הַיָּם "chieftains of the sea" (נָשִׂיא, its row; not "princes": שַׂר); בִּגְדֵי רִקְמָתָם "garments of their embroidery"; חֲרָדוֹת plural "tremblings" (חָרַד "tremble", its row); לִרְגָעִים "every moment" (lit. "at moments"); שָׁמֵם "be appalled" (of persons, its row).
+- **"And they shall take up a lamentation for thee, and say to thee, How art thou destroyed, that wast inhabited of seafaring men, the renowned city, which wast strong in the sea, she and her inhabitants, which cause their terror to be on all that haunt it!" → "And they shall lift up a dirge over you and say to you: 'How you have perished, inhabited one from the seas, the city praised, that was strong in the sea, she and her inhabitants, who put their terror on all her inhabitants!'"** (v17) — Hebrew נָשָׂא קִינָה "lift up a dirge" (קִינָה "dirge", its row); אָבַד "perish" (its row); נוֹשֶׁבֶת מִיַּמִּים "inhabited one from the seas" (a nifal participle; the Septuagint reads otherwise, from memory); הַהֻלָּלָה "praised" (pual of הָלַל); לְכָל־יוֹשְׁבֶיהָ "on all her inhabitants", as printed (her own people, or those who dwell round her: uncertain; KJV "all that haunt it"); נָתַן חִתִּית "put terror" (the Ezekiel row, as 32:23–32).
+- **"Now shall the isles tremble in the day of thy fall; yea, the isles that are in the sea shall be troubled at thy departure" → "Now the coastlands tremble on the day of your fall, and the coastlands that are in the sea are dismayed at your going out"** (v18) — Hebrew הָאִיִּן, the plural with an Aramaic ending, beside הָאִיִּים; נִבְהַל "be dismayed" (its row); מִצֵּאתֵךְ "at your going out" (your departure, or your end); "yea" is not in the Hebrew.
+- **"When I shall make thee a desolate city … when I shall bring up the deep upon thee, and great waters shall cover thee" → "When I make you a city laid waste … when I bring up over you the deep, and the many waters cover you"** (v19) — Hebrew עִיר נֶחֱרֶבֶת "a city laid waste" (as v2); תְּהוֹם "deep" (its row); הַמַּיִם הָרַבִּים "the many waters".
+- **"When I shall bring thee down with them that descend into the pit, with the people of old time, and shall set thee in the low parts of the earth, in places desolate of old … that thou be not inhabited; and I shall set glory in the land of the living" → "then I will bring you down with those who go down to the pit, to the people of old, and I will make you dwell in the land of the depths, like the ruins from of old … so that you shall not be inhabited; and I will give beauty in the land of the living"** (v20) — Hebrew וְהוֹרַדְתִּיךְ, the main clause after the "when" clauses of v19; בּוֹר "pit" (its row); אֶל־עַם עוֹלָם "to the people of old" (lit. "people of the age"); הוֹשִׁיב "make dwell"; בְּאֶרֶץ תַּחְתִּיּוֹת "in the land of the depths" (a plural noun, lit. "lowest places": the Ezekiel row, as 31:14; 32:18); כָּחֳרָבוֹת מֵעוֹלָם "like the ruins from of old"; לֹא תֵשֵׁבִי "you shall not be inhabited" (lit. "you shall not dwell, sit"; of a city "be inhabited", as Isa 13:20); וְנָתַתִּי צְבִי "and I will give beauty", first person, as printed (צְבִי "beauty", its row; the Septuagint has "nor stand", reading the verb as second person, from memory).
+- **"I will make thee a terror, and thou shalt be no more: though thou be sought for, yet shalt thou never be found again" → "Terrors I will make you, and you shall be no more; and you shall be sought, and you shall not be found any more forever"** (v21) — Hebrew בַּלָּהוֹת אֶתְּנֵךְ, plural "terrors" (its row; lit. "I will give you"); וְאֵינֵךְ "and you are not"; וּתְבֻקְשִׁי … וְלֹא־תִמָּצְאִי עוֹד לְעוֹלָם, two clauses with "and"; לְעוֹלָם "forever".
+- **Layout** — prose; the dirge of v17b–18 as poetry, one Hebrew line per printed line by the accents ("she and her inhabitants" belongs to the third line).
+
+### Notes
+- **Tyre** — the Phoenician port built on an island off the coast, with towns ("daughters") on the mainland. The eleventh year is that of Jehoiachin's exile (Ezek 1:2), the year Jerusalem fell.

@@ -1,77 +1,88 @@
 # Genesis 50
 
-[1] Then ⟦joseph|Yosef|Joseph⟧ fell on his father's face, wept upon him, and kissed him.
+[1] And ⟦joseph|Yosef|Joseph⟧ fell on the face of his father, and wept over him, and kissed him.
 
-[2] And ⟦joseph|Yosef|Joseph⟧ commanded his servants the physicians to embalm his father; so the physicians embalmed ⟦israel|Yisrael|Israel⟧.
+[2] And ⟦joseph|Yosef|Joseph⟧ commanded his servants the physicians to embalm his father; and the physicians embalmed ⟦israel|Yisrael|Israel⟧.
 
-[3] Forty days were completed for him, for that is how long the days of embalming take; and the ⟦egyptians|Mitzrim|Egyptians⟧ wept for him seventy days.
+[3] And forty days were fulfilled for him, for so are fulfilled the days of the embalming; and the ⟦egyptians|Mitzrim|Egyptians⟧ wept for him seventy days.
 
-[4] When the days of weeping for him were past, ⟦joseph|Yosef|Joseph⟧ spoke to the household of ⟦pharaoh|Paroh|Pharaoh⟧, saying, "If now I have found favor in your eyes, please speak in the ears of ⟦pharaoh|Paroh|Pharaoh⟧, saying,
+[4] And the days of weeping for him passed, and ⟦joseph|Yosef|Joseph⟧ spoke to the house of ⟦pharaoh|Paroh|Pharaoh⟧, saying, "If now I have found favor in your eyes, speak, please, in the ears of ⟦pharaoh|Paroh|Pharaoh⟧, saying,
 
-[5] 'My father made me swear, saying, "Behold, I am about to die. In my grave that I hewed out for myself in the land of ⟦canaan|Kenaan|Canaan⟧, there you shall bury me." Now therefore please let me go up and bury my father, and then I will return.'"
+[5] 'My father made me swear, saying, "Behold, I am dying; in my grave that I dug for myself in the land of ⟦canaan|Kenaan|Canaan⟧, there you shall bury me." And now, please let me go up and bury my father, and I will return.'"
 
-[6] ⟦pharaoh|Paroh|Pharaoh⟧ said, "Go up and bury your father, as he made you swear."
+[6] And ⟦pharaoh|Paroh|Pharaoh⟧ said, "Go up and bury your father, as he made you swear."
 
-[7] So ⟦joseph|Yosef|Joseph⟧ went up to bury his father; and with him went up all the servants of ⟦pharaoh|Paroh|Pharaoh⟧, the elders of his household, and all the elders of the land of ⟦egypt|Mitzrayim|Egypt⟧,
+[7] And ⟦joseph|Yosef|Joseph⟧ went up to bury his father; and there went up with him all the servants of ⟦pharaoh|Paroh|Pharaoh⟧, the elders of his house, and all the elders of the land of ⟦egypt|Mitzrayim|Egypt⟧,
 
-[8] and all the household of ⟦joseph|Yosef|Joseph⟧, his brothers, and his father's household; only their little ones, their flocks, and their herds did they leave in the land of Goshen.
+[8] and all the house of ⟦joseph|Yosef|Joseph⟧, and his brothers, and the house of his father; only their little ones and their flocks and their herds they left in the land of Goshen.
 
-[9] Both chariots and horsemen went up with him; it was a very great company.
+[9] And there went up with him both chariots and horsemen; and the camp was very heavy.
 
-[10] When they came to the threshing-floor of Atad, which is beyond the ⟦jordan|Yarden|Jordan⟧, they mourned there with a great and very heavy lamentation; and he made a mourning for his father seven days.
+[10] And they came to the threshing floor of Atad, which is beyond the ⟦jordan|Yarden|Jordan⟧, and they lamented there a great and very heavy lamentation; and he made a mourning for his father seven days.
 
-[11] When the inhabitants of the land, the ⟦canaanites|Kenaanim|Canaanites⟧, saw the mourning at the threshing-floor of Atad, they said, "This is a grievous mourning for the ⟦egyptians|Mitzrim|Egyptians⟧!" Therefore the place was called ⟦abel-mizraim|Avel Mitzrayim|Abel-mizraim⟧ ("mourning of ⟦egypt|Mitzrayim|Egypt⟧"), which is beyond the ⟦jordan|Yarden|Jordan⟧.
+[11] And the inhabitants of the land, the ⟦canaanites|Kenaanim|Canaanites⟧, saw the mourning at the threshing floor of Atad, and they said, "This is a heavy mourning for the ⟦egyptians|Mitzrim|Egyptians⟧." Therefore its name was called ⟦abel-mizraim|Avel Mitzrayim|Abel-mizraim⟧, which is beyond the ⟦jordan|Yarden|Jordan⟧.
 
-[12] His sons did for him as he had commanded them;
+[12] And his sons did to him so, as he had commanded them.
 
-[13] for his sons carried him to the land of ⟦canaan|Kenaan|Canaan⟧ and buried him in the cave of the field of Machpelah, the field that ⟦abraham|Avraham|Abraham⟧ had bought as a burial holding from ⟦ephron|Efron|Ephron⟧ the ⟦hittite|Chitti|Hittite⟧, before Mamre.
+[13] And his sons carried him to the land of ⟦canaan|Kenaan|Canaan⟧ and buried him in the cave of the field of Machpelah, the field that ⟦abraham|Avraham|Abraham⟧ bought for a possession of a grave from ⟦ephron|Efron|Ephron⟧ the ⟦hittite|Chitti|Hittite⟧, facing Mamre.
 
-[14] After he had buried his father, ⟦joseph|Yosef|Joseph⟧ returned to ⟦egypt|Mitzrayim|Egypt⟧, he and his brothers and all who had gone up with him to bury his father.
+[14] And ⟦joseph|Yosef|Joseph⟧ returned to ⟦egypt|Mitzrayim|Egypt⟧, he and his brothers and all who went up with him to bury his father, after he had buried his father.
 
-[15] When ⟦joseph|Yosef|Joseph⟧'s brothers saw that their father was dead, they said, "What if ⟦joseph|Yosef|Joseph⟧ bears a grudge against us and pays us back in full for all the evil that we did to him?"
+[15] And the brothers of ⟦joseph|Yosef|Joseph⟧ saw that their father was dead, and they said, "What if ⟦joseph|Yosef|Joseph⟧ bears a grudge against us, and surely returns to us all the evil that we dealt him?"
 
-[16] So they sent a message to ⟦joseph|Yosef|Joseph⟧, saying, "Your father gave command before he died, saying,
+[16] And they sent a command to ⟦joseph|Yosef|Joseph⟧, saying, "Your father commanded before his death, saying,
 
-[17] 'Thus you shall say to ⟦joseph|Yosef|Joseph⟧: Please forgive the offense of your brothers and their sin, for they did evil to you.' And now, please forgive the offense of the servants of the ⟦elohim|Elohim|God⟧ of your father." ⟦joseph|Yosef|Joseph⟧ wept when they spoke to him.
+[17] 'Thus you shall say to ⟦joseph|Yosef|Joseph⟧: Ah, please forgive the transgression of your brothers and their sin, for they dealt you evil.' And now, please forgive the transgression of the servants of the ⟦elohim|Elohim|God⟧ of your father." And ⟦joseph|Yosef|Joseph⟧ wept when they spoke to him.
 
-[18] Then his brothers also came and fell down before him and said, "Behold, we are your slaves."
+[18] And his brothers also went and fell down before him, and said, "Behold, we are your slaves."
 
-[19] But ⟦joseph|Yosef|Joseph⟧ said to them, "Do not be afraid, for am I in the place of ⟦elohim|Elohim|God⟧?
+[19] And ⟦joseph|Yosef|Joseph⟧ said to them, "Do not fear, for am I in the place of ⟦elohim|Elohim|God⟧?
 
-[20] As for you, you intended evil against me, but ⟦elohim|Elohim|God⟧ intended it for good, to accomplish what is now being done, to keep many people alive.
+[20] And you, you meant evil against me; ⟦elohim|Elohim|God⟧ meant it for good, in order to do as it is this day, to keep alive a numerous people.
 
-[21] So now do not be afraid; I myself will provide for you and your little ones." Thus he comforted them and spoke to their hearts.
+[21] And now, do not fear; I myself will sustain you and your little ones." And he comforted them and spoke to their heart.
 
-[22] So ⟦joseph|Yosef|Joseph⟧ dwelt in ⟦egypt|Mitzrayim|Egypt⟧, he and his father's household; and ⟦joseph|Yosef|Joseph⟧ lived 110 years.
+[22] And ⟦joseph|Yosef|Joseph⟧ dwelt in ⟦egypt|Mitzrayim|Egypt⟧, he and the house of his father; and ⟦joseph|Yosef|Joseph⟧ lived a hundred and ten years.
 
-[23] ⟦joseph|Yosef|Joseph⟧ saw ⟦ephraim|Efrayim|Ephraim⟧'s children to the third generation; the children of Machir son of ⟦manasseh|Menashe|Manasseh⟧ were also born on ⟦joseph|Yosef|Joseph⟧'s knees.
+[23] And ⟦joseph|Yosef|Joseph⟧ saw sons of the third generation belonging to ⟦ephraim|Efrayim|Ephraim⟧; also the sons of Machir the son of ⟦manasseh|Menashe|Manasseh⟧ were born on the knees of ⟦joseph|Yosef|Joseph⟧.
 
-[24] ⟦joseph|Yosef|Joseph⟧ said to his brothers, "I am about to die, but ⟦elohim|Elohim|God⟧ will surely visit you and bring you up out of this land to the land that he swore to ⟦abraham|Avraham|Abraham⟧, to ⟦isaac|Yitzchaq|Isaac⟧, and to ⟦jacob|Yaaqov|Jacob⟧."
+[24] And ⟦joseph|Yosef|Joseph⟧ said to his brothers, "I am dying; and ⟦elohim|Elohim|God⟧ will surely visit you, and will bring you up from this land to the land that he swore to ⟦abraham|Avraham|Abraham⟧, to ⟦isaac|Yitzchaq|Isaac⟧, and to ⟦jacob|Yaaqov|Jacob⟧."
 
-[25] And ⟦joseph|Yosef|Joseph⟧ made the sons of ⟦israel|Yisrael|Israel⟧ swear, saying, "⟦elohim|Elohim|God⟧ will surely visit you, and you shall carry up my bones from here."
+[25] And ⟦joseph|Yosef|Joseph⟧ made the sons of ⟦israel|Yisrael|Israel⟧ swear, saying, "⟦elohim|Elohim|God⟧ will surely visit you, and you shall bring up my bones from here."
 
-[26] So ⟦joseph|Yosef|Joseph⟧ died, being 110 years old; they embalmed him, and he was put in a coffin in ⟦egypt|Mitzrayim|Egypt⟧.
+[26] And ⟦joseph|Yosef|Joseph⟧ died, a hundred and ten years old; and they embalmed him, and he was put in the coffin in ⟦egypt|Mitzrayim|Egypt⟧.
 
 ## Changes
 
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
-- **"embalm" (v2, 3, 26)** — Hebrew חָנַט *chanat* = mummify / preserve with spices. Standard Egyptian practice; Israelites adopt it for Jacob out of Egyptian context. Egyptian mummification took 70 days total (40 of active preservation + 30 of mourning), matching v3.
-- **"threescore and ten" → "seventy"** (v3) — modernized number form.
-- **"digged" → "hewed out"** (v5) — Hebrew כָּרִיתִי *kariti* = dug / excavated. Jacob had prepared a tomb; the Machpelah cave already held Abraham, Isaac, Sarah, Rebekah, Leah — Jacob ensures his place among them.
-- **"grievous mourning to the Egyptians" → "grievous mourning for the Egyptians"** (v11) — Hebrew כְּבַד־זֶה לְמִצְרָיִם *kavved-zeh le-Mitzrayim*. The Canaanite observers mistake the Hebrew funeral for an Egyptian state-mourning — a natural inference given the Egyptian chariot escort. "For the Egyptians" = on behalf of them (the funeral procession they saw). Name *Abel-Mitzrayim* = "mourning of Egypt / meadow of Egypt" (*avel* = mourning; homonym *avel* = meadow).
-- **"will peradventure hate us" → "What if Joseph bears a grudge against us"** (v15) — Hebrew לוּ יִשְׂטְמֵנוּ יוֹסֵף *lu yistemenu Yosef*. *Satam* = bear a grudge (as in 27:41 of Esau). The brothers fear retained hostility.
-- **"requite us all the evil" → "pays us back in full for all the evil"** (v15) — Hebrew הָשֵׁב יָשִׁיב לָנוּ *hashev yashiv lanu*. Intensive: "surely, surely return / repay." The brothers project onto Joseph their own likely reaction.
-- **v16 Jacob's supposed deathbed command** — there is no prior record of Jacob giving such a command. Either it was given privately (not narrated) or the brothers invented the message to move Joseph. Narrator reports without judging.
-- **"trespass" → "offense"** (v17) — Hebrew פֶּשַׁע *pesha* = transgression / rebellion / crime. Not "trespass" in modern property-law sense.
-- **"am I in the place of God?" (v19)** — same phrase Jacob used to Rachel (30:2). Joseph disclaims any judgment-role — "to forgive or avenge is not mine; I leave it to *Elohim*." Also invocation-of-restraint: if God has used evil for good (v20), the human reprisal would mean second-guessing the divine outcome.
-- **"ye thought evil against me; but God meant it unto good" → "you intended evil against me, but *Elohim* intended it for good"** (v20) — Hebrew חֲשַׁבְתֶּם עָלַי רָעָה אֱלֹהִים חֲשָׁבָהּ לְטֹבָה *chashavtem alay ra'ah Elohim chashvah le-tovah*. The pivotal theological verse of Genesis (some say of the whole Hebrew Bible). *Chashav* = "reckoned / planned." Identical verb for both human malice and divine providence. The same act carries two intentions simultaneously; both are real; the divine prevails.
-- **"spake kindly unto them" → "spoke to their hearts"** (v21) — Hebrew וַיְדַבֵּר עַל־לִבָּם *wa-ydaber al-libbam* = spoke to their heart, as in 34:3. Tender consolation.
-- **"brought up upon Joseph's knees" → "born on Joseph's knees"** (v23) — Hebrew יֻלְּדוּ עַל־בִּרְכֵּי יוֹסֵף *yulledu al-birkhey Yosef*. Ritual adoption gesture (as in 30:3) — Machir's children are accepted as Joseph's heirs.
-- **"visit" (v24, 25)** — Hebrew פָּקַד *paqad* = attend to / visit / take care of (with saving action). Anticipates the Exodus: "*Elohim* will surely *paqad* you" — the visitation-for-redemption that Ex 3:16 announces as imminent.
-- **"coffin" (v26)** — Hebrew אֲרוֹן *aron*. Same word as "ark" of the covenant. Joseph's bones are placed in an *aron*, carried through the wilderness (Ex 13:19) and finally buried at Shechem in the land of promise (Josh 24:32).
+- **"servants" kept** (v2, 7, 17) — Hebrew עֶבֶד, "slave"; here of the men of a ruler's house and of "the servants of the *Elohim* of your father". In v18 the brothers say "we are your slaves" (לַעֲבָדִים), the same word.
+- **"embalm"** (v2, 3, 26) — Hebrew חָנַט; "the embalming" (v3) is הַחֲנֻטִים, a plural noun.
+- **"forty days were fulfilled for him"** (v3) — Hebrew וַיִּמְלְאוּ … יִמְלְאוּ, מָלֵא "be full", twice. "The Egyptians wept": Hebrew מִצְרַיִם, "Mitzrayim (Egypt)" with a plural verb; so also v11 "for the Egyptians" (לְמִצְרָיִם).
+- **"threescore and ten" → "seventy"** (v3) — the Hebrew number שִׁבְעִים.
+- **"house of Pharaoh"** (v4), **"his house"**, **"the house of Joseph"**, **"the house of his father"** (v7, 8, 22) — Hebrew בַּיִת "house" each time; not "household".
+- **"Lo, I die" → "Behold, I am dying"** (v5) and **"I die" → "I am dying"** (v24) — Hebrew אָנֹכִי מֵת, a participle, as 48:21.
+- **"which I have digged for me" → "that I dug for myself"** (v5) — Hebrew כָּרִיתִי, כָּרָה "dig".
+- **"a very great company" → "the camp was very heavy"** (v9) — Hebrew וַיְהִי הַמַּחֲנֶה כָּבֵד מְאֹד; מַחֲנֶה "camp", כָּבֵד "heavy", here of great number. The same word is in v10 ("a great and very heavy lamentation") and v11 ("a heavy mourning").
+- **"they mourned with a great and very sore lamentation" → "they lamented there a great and very heavy lamentation"** (v10) — Hebrew וַיִּסְפְּדוּ־שָׁם מִסְפֵּד, the verb and its own noun, the loud wailing for the dead; "mourning" in v10, 11 is another word, אֵבֶל.
+- **"the inhabitants of the land, the Canaanites" kept** (v11) — Hebrew יוֹשֵׁב הָאָרֶץ הַכְּנַעֲנִי, singular for the whole people ("the one dwelling in the land, the Canaanite"), with the plural verb "they said".
+- **"the name of it was called Abel-mizraim"** (v11) — Hebrew אָבֵל מִצְרַיִם; the name sounds like אֵבֶל מִצְרַיִם "mourning of Egypt". The Hebrew gives no explanation of the name in the verse; none is added.
+- **"which Abraham bought with the field" → "the field that Abraham bought"** (v13) — Hebrew אֲשֶׁר קָנָה אַבְרָהָם אֶת־הַשָּׂדֶה, as 49:30. "Facing Mamre": עַל־פְּנֵי מַמְרֵא, literally "upon the face of Mamre".
+- **"Joseph will peradventure hate us" → "What if Joseph bears a grudge against us"** (v15) — Hebrew לוּ יִשְׂטְמֵנוּ יוֹסֵף; לוּ is "if, if only", and the sentence has no conclusion; שָׂטַם "bear a grudge", as 27:41; 49:23.
+- **"will certainly requite us" → "surely returns to us"** (v15) — Hebrew וְהָשֵׁב יָשִׁיב לָנוּ, the infinitive absolute with its verb, literally "and returning he will return to us". "That we dealt him": גָּמַלְנוּ, as "they dealt you" in v17.
+- **"they sent a messenger unto Joseph" → "they sent a command to Joseph"** (v16) — Hebrew וַיְצַוּוּ אֶל־יוֹסֵף, literally "and they commanded to Joseph", the verb of "your father commanded" in the same verse. Genesis does not tell of this command of Jacob elsewhere.
+- **"Forgive, I pray thee now, the trespass" → "Ah, please forgive the transgression"** (v17) — Hebrew אָנָּא שָׂא נָא פֶּשַׁע; אָנָּא is a word of entreaty, "ah, I beg"; נָשָׂא is literally "lift, bear, take away"; פֶּשַׁע "transgression", חַטָּאת "sin".
+- **"for am I in the place of God?" kept** (v19) — Hebrew הֲתַחַת אֱלֹהִים אָנִי, as 30:2.
+- **"ye thought evil against me; but God meant it unto good" → "you meant evil against me; *Elohim* meant it for good"** (v20) — Hebrew חֲשַׁבְתֶּם עָלַי רָעָה אֱלֹהִים חֲשָׁבָהּ לְטֹבָה: the one verb חָשַׁב ("think, reckon, devise"; the verb of 15:6) twice, rendered by one English verb. The Hebrew has no "but" between the two clauses.
+- **"to bring to pass, as it is this day, to save much people alive" → "in order to do as it is this day, to keep alive a numerous people"** (v20) — Hebrew לְמַעַן עֲשֹׂה כַּיּוֹם הַזֶּה לְהַחֲיֹת עַם־רָב.
+- **"I will nourish you" → "I myself will sustain you"** (v21) — Hebrew אָנֹכִי אֲכַלְכֵּל, as 47:12; the pronoun is written out.
+- **"spake kindly unto them" → "spoke to their heart"** (v21) — Hebrew וַיְדַבֵּר עַל־לִבָּם, literally "spoke upon their heart", as 34:3.
+- **"an hundred and ten years"** (v22, 26) — מֵאָה וָעֶשֶׂר שָׁנִים; in v26 literally "a son of a hundred and ten years".
+- **"Ephraim's children of the third generation" → "sons of the third generation belonging to Ephraim"** (v23) — Hebrew לְאֶפְרַיִם בְּנֵי שִׁלֵּשִׁים, literally "to Ephraim, sons of thirds". "Born on the knees of Joseph": יֻלְּדוּ עַל־בִּרְכֵּי יוֹסֵף, as 30:3.
+- **"God will surely visit you"** (v24, 25) — Hebrew פָּקֹד יִפְקֹד, the infinitive absolute with its verb, literally "visiting he will visit"; פָּקַד "visit", to attend to someone, as 21:1; Exod 3:16; 13:19.
+- **"ye shall carry up my bones" → "you shall bring up my bones"** (v25) — Hebrew וְהַעֲלִתֶם, the verb of "will bring you up" in v24.
+- **"he was put in a coffin" → "he was put in the coffin"** (v26) — Hebrew בָּאָרוֹן, with the article; אֲרוֹן is a chest, the word used later for the ark of the covenant.
 
 ### Notes
 
-- **Joseph's theology reaffirmed (v20)** — the climactic statement of Genesis's providence theme. Human evil and divine good work in the same events — a mature theological formulation that will inform Israel's reading of suffering and salvation throughout the Bible.
-- **Open ending** — Genesis ends with Joseph's bones in an Egyptian coffin, awaiting the exodus. The promise to Abraham (15:13–14) is incomplete; Israel is in the foreign land but not yet redeemed. The final word is "in Egypt" — an unresolved cadence that points forward to the Exodus.
-- **Bones and covenant** — Joseph's oath that they carry his bones back (v25) is the narrative bridge to Exodus. Ex 13:19 shows Moses taking the bones; Josh 24:32 reports their final burial. The ring closes three books later.
+- **v24–25** — Exod 13:19 tells of Moses taking the bones of Joseph, and Josh 24:32 of their burial at Shechem.
+- **v26** — the last words of Genesis are "in Egypt".

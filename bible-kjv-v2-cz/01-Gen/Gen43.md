@@ -1,92 +1,114 @@
 # Genesis 43
 
-[1] Hlad v zemi byl krutý.
+[1] A hlad byl v zemi těžký.
 
-[2] Když dojedli obilí, které přinesli z ⟦egypt|Micrajim|Egypta⟧, jejich otec jim řekl: „Jděte znovu; nakupte nám trochu potravin.“
+[2] I stalo se, když dojedli obilí, které přinesli z ⟦egypt|Micrajim|Egypta⟧, že jim jejich otec řekl: „Vraťte se, nakupte nám trochu potravy.“
 
-[3] Ale ⟦judah|Jehuda|Juda⟧ mu řekl: „Ten muž nás důrazně varoval: ‚Neuvidíte mou tvář, nebude-li s vámi váš bratr.‘
+[3] A ⟦judah|Jehuda|Juda⟧ mu řekl: „Ten muž nás jistě varoval se slovy: ‚Neuvidíte mou tvář, nebude-li s vámi váš bratr.‘
 
-[4] Pošleš-li s námi našeho bratra, sestoupíme a nakoupíme ti potraviny.
+[4] Jestliže s námi našeho bratra pouštíš, sestoupíme a nakoupíme ti potravu.
 
-[5] Ale nepošleš-li ho, nesestoupíme; neboť ten muž nám řekl: ‚Neuvidíte mou tvář, nebude-li s vámi váš bratr.‘“
+[5] Ale jestliže ho nepouštíš, nesestoupíme, neboť ten muž nám řekl: ‚Neuvidíte mou tvář, nebude-li s vámi váš bratr.‘“
 
-[6] ⟦israel|Jisrael|Izrael⟧ řekl: „Proč jste mi tak ublížili tím, že jste tomu muži řekli, že máte ještě bratra?“
+[6] A ⟦israel|Jisrael|Izrael⟧ řekl: „Proč jste mi učinili zlo, že jste tomu muži oznámili, že máte ještě bratra?“
 
-[7] Odpověděli: „Ten muž se nás podrobně vyptával na nás a na náš rod: ‚Žije ještě váš otec? Máte ještě bratra?‘ A my jsme mu odpověděli podle toho, nač se ptal. Mohli jsme snad vědět, že řekne: ‚Přiveďte sem svého bratra‘?“
+[7] A řekli: „Ten muž se jistě ptal na nás a na naše příbuzenstvo se slovy: ‚Žije ještě váš otec? Máte bratra?‘ A oznámili jsme mu to podle těchto slov. Mohli jsme jistě vědět, že řekne: ‚Přiveďte svého bratra dolů‘?“
 
-[8] Tu ⟦judah|Jehuda|Juda⟧ řekl svému otci ⟦israel|Jisraelovi|Izraelovi⟧: „Pošli toho chlapce se mnou a vstaňme a jděme, abychom žili a nezemřeli – my i ty i naše malé děti.
+[8] A ⟦judah|Jehuda|Juda⟧ řekl svému otci ⟦israel|Jisraelovi|Izraelovi⟧: „Pošli toho chlapce se mnou, a vstaňme a jděme, a budeme žít a nezemřeme, my i ty i naše malé děti.
 
-[9] Já sám se za něho zaručím; z mé ruky ho budeš vymáhat. Jestliže ti ho nepřivedu zpět a nepostavím ho před tebe, ať nesu vinu navždy.
+[9] Já sám se za něho zaručím; z mé ruky ho budeš vyžadovat. Jestliže ti ho nepřivedu a nepostavím ho před tebe, zhřešil jsem proti tobě po všechny dny.
 
-[10] Kdybychom totiž neotáleli, jistě bychom už byli dvakrát zpátky.“
+[10] Neboť kdybychom neotáleli, jistě bychom se už dvakrát vrátili.“
 
-[11] Tu jim jejich otec ⟦israel|Jisrael|Izrael⟧ řekl: „Musí-li to tak být, udělejte toto: vezměte do svých nádob něco z nejvybranější úrody země a doneste tomu muži dar – trochu balzámu a trochu medu, pryskyřičnou gumu a myrhovou pryskyřici, pistácie a mandle.
+[11] A jejich otec ⟦israel|Jisrael|Izrael⟧ jim řekl: „Je-li tomu tak, učiňte tedy toto: vezměte do svých nádob z vybrané úrody země a doneste tomu muži dolů dar: trochu balzámu a trochu medu, pryskyřici a ladanum, pistácie a mandle.
 
-[12] Vezměte do ruky dvojnásobek stříbra; a stříbro, které bylo vráceno navrch vašich žoků, doneste zpět ve své ruce – možná to bylo nedopatření.
+[12] A vezměte do ruky dvojnásobné stříbro; a stříbro, které bylo vráceno v ústí vašich vaků, vrátíte ve své ruce. Snad to byl omyl.
 
-[13] Vezměte také svého bratra a vstaňte, jděte znovu k tomu muži.
+[13] A vezměte svého bratra a vstaňte, vraťte se k tomu muži.
 
-[14] Kéž vám ⟦el-shaddai|El Šaddaj|Bůh všemohoucí⟧ dá najít milosrdenství u toho muže, aby vám propustil vašeho druhého bratra i ⟦benjamin|Binjamina|Benjamína⟧. A já – mám-li být zbaven dětí, budu zbaven dětí.“
+[14] A kéž vám ⟦el-shaddai|El Šaddaj|Bůh všemohoucí⟧ dá soucit před tím mužem, ať vám propustí vašeho druhého bratra i ⟦benjamin|Binjamina|Benjamína⟧. A já, jak jsem zbaven dětí, jsem zbaven dětí.“
 
-[15] Muži tedy vzali tento dar; vzali do ruky dvojnásobek stříbra a ⟦benjamin|Binjamina|Benjamína⟧, vstali, sestoupili do ⟦egypt|Micrajim|Egypta⟧ a postavili se před Josefa.
+[15] A ti muži vzali tento dar a dvojnásobné stříbro vzali do ruky, i ⟦benjamin|Binjamina|Benjamína⟧. A vstali a sestoupili do ⟦egypt|Micrajim|Egypta⟧ a postavili se před Josefa.
 
-[16] Když Josef uviděl s nimi ⟦benjamin|Binjamina|Benjamína⟧, řekl správci svého domu: „Uveď ty muže do domu, poraz zvíře a připrav je, neboť tito muži budou se mnou v poledne jíst.“
+[16] A Josef uviděl s nimi ⟦benjamin|Binjamina|Benjamína⟧ a řekl tomu, který byl nad jeho domem: „Uveď ty muže do domu a poraz dobytče a připrav, neboť ti muži budou se mnou v poledne jíst.“
 
-[17] Ten muž udělal, jak Josef řekl, a uvedl ty muže do Josefova domu.
+[17] A ten muž učinil, jak Josef řekl, a ten muž uvedl ty muže do Josefova domu.
 
-[18] Muži dostali strach, protože byli uvedeni do Josefova domu, a řekli: „Uvádějí nás sem kvůli stříbru, které bylo poprvé vráceno do našich žoků – aby se na nás svalili, padli na nás a vzali nás za otroky i s našimi osly.“
+[18] A ti muži se báli, protože byli uvedeni do Josefova domu, a řekli: „Kvůli tomu stříbru, které se na počátku vrátilo v našich vacích, jsme sem uváděni, aby se na nás svalil a vrhl se na nás a vzal nás za otroky, i naše osly.“
 
-[19] Přistoupili tedy ke správci Josefova domu a promluvili k němu u vchodu do domu.
+[19] A přistoupili k muži, který byl nad Josefovým domem, a promluvili k němu u vchodu do domu.
 
-[20] Řekli: „Ach, můj pane, opravdu jsme poprvé sestoupili nakoupit potraviny.
+[20] A řekli: „Ach, můj pane, jistě jsme na počátku sestoupili nakoupit potravu.
 
-[21] A když jsme přišli do nocležiště a otevřeli své žoky, hle, každý měl své stříbro navrchu ve svém žoku – naše stříbro v plné váze. Přinesli jsme ho tedy zpět ve své ruce.
+[21] I stalo se, když jsme přišli na nocležiště, že jsme otevřeli své vaky, a hle, každý měl své stříbro v ústí svého vaku, naše stříbro v jeho váze; a vrátili jsme je ve své ruce.
 
-[22] A přinesli jsme ve své ruce i jiné stříbro, abychom nakoupili potraviny. Nevíme, kdo nám dal naše stříbro do žoků.“
+[22] A jiné stříbro jsme přinesli dolů ve své ruce, abychom nakoupili potravu. Nevíme, kdo nám dal naše stříbro do vaků.“
 
-[23] Řekl: „Pokoj vám; nebojte se. Váš ⟦elohim|Elohim|Bůh⟧ a ⟦elohim|Elohim|Bůh⟧ vašeho otce vám dal do žoků poklad. Vaše stříbro jsem přijal.“ Potom k nim vyvedl ⟦simeon|Šimona|Šimeóna⟧.
+[23] A řekl: „⟦shalom|Šalom|Pokoj⟧ vám; nebojte se. Váš ⟦elohim|Elohim|Bůh⟧ a ⟦elohim|Elohim|Bůh⟧ vašeho otce vám dal do vaků poklad. Vaše stříbro přišlo ke mně.“ A vyvedl k nim ⟦simeon|Šimona|Šimeóna⟧.
 
-[24] Ten muž uvedl ty muže do Josefova domu, dal jim vodu a oni si umyli nohy; a jejich oslům dal píci.
+[24] A ten muž uvedl ty muže do Josefova domu a dal vodu a umyli si nohy a jejich oslům dal píci.
 
-[25] Připravili dar na Josefův příchod v poledne, neboť slyšeli, že tam budou jíst chléb.
+[25] A připravili dar, než přijde Josef v poledne, neboť slyšeli, že tam budou jíst chléb.
 
-[26] Když Josef přišel domů, přinesli mu do domu dar, který měli v ruce, a poklonili se mu až k zemi.
+[26] A Josef přišel do domu a přinesli mu do domu dar, který měli v ruce, a poklonili se mu k zemi.
 
-[27] Zeptal se jich, jak se jim daří, a řekl: „Daří se dobře vašemu otci, tomu starci, o němž jste mluvili? Žije ještě?“
+[27] A zeptal se jich na jejich ⟦shalom|šalom|pokoj⟧ a řekl: „Má ⟦shalom|šalom|pokoj⟧ váš starý otec, o kterém jste mluvili? Žije ještě?“
 
-[28] Odpověděli: „Tvému služebníku, našemu otci, se daří dobře; ještě žije.“ A sklonili hlavy a padli na tvář.
+[28] A řekli: „Tvůj služebník, náš otec, má ⟦shalom|šalom|pokoj⟧; ještě žije.“ A sklonili se a poklonili se.
 
-[29] Pozvedl oči a uviděl svého bratra ⟦benjamin|Binjamina|Benjamína⟧, syna své matky, a řekl: „To je váš nejmladší bratr, o němž jste mi mluvili?“ A řekl: „Kéž je ti ⟦elohim|Elohim|Bůh⟧ milostiv, můj synu.“
+[29] A pozvedl oči a uviděl svého bratra ⟦benjamin|Binjamina|Benjamína⟧, syna své matky, a řekl: „Je toto váš nejmladší bratr, o kterém jste mi mluvili?“ A řekl: „Kéž ti ⟦elohim|Elohim|Bůh⟧ projeví přízeň, můj synu.“
 
-[30] Tu Josef spěšně vyšel, neboť jeho nitro se pohnulo kvůli jeho bratrovi, a hledal místo, kde by se vyplakal. Vešel do své vnitřní komnaty a tam plakal.
+[30] A Josef pospíšil, neboť se pohnul jeho soucit k jeho bratru, a chtěl plakat; a vešel do komnaty a plakal tam.
 
-[31] Potom si umyl tvář a vyšel; ovládl se a řekl: „Podávejte jídlo.“
+[31] A umyl si tvář a vyšel a ovládl se a řekl: „Položte chléb.“
 
-[32] Podávali jemu zvlášť, jim zvlášť a ⟦egyptians|Micrim|Egypťanům⟧, kteří s ním jedli, zvlášť, protože ⟦egyptians|Micrim|Egypťané⟧ nemohli jíst chléb s ⟦hebrews|Ivrim|Hebrejci⟧; to je totiž pro ⟦egyptians|Micrim|Egypťany⟧ ohavnost.
+[32] A položili jemu zvlášť a jim zvlášť a ⟦egyptians|Micrim|Egypťanům⟧, kteří s ním jedli, zvlášť, neboť ⟦egyptians|Micrim|Egypťané⟧ nemohou jíst chléb s ⟦hebrews|Ivrim|Hebrejci⟧, neboť to je pro ⟦egypt|Micrajim|Egypt⟧ ohavnost.
 
-[33] Seděli před ním, prvorozený podle svého prvorozenství a nejmladší podle svého mládí; a muži se na sebe navzájem udiveně dívali.
+[33] A seděli před ním, prvorozený podle svého prvorozenství a nejmladší podle svého mládí, a ti muži žasli, každý k svému bližnímu.
 
-[34] Josef jim posílal porce ze svého stolu, ale ⟦benjamin|Binjaminova|Benjamínova⟧ porce byla pětkrát větší než kterákoli z jejich porcí. A pili a veselili se s ním.
+[34] A dal jim od sebe nosit díly, a ⟦benjamin|Binjaminův|Benjamínův⟧ díl byl pětkrát větší než díly jich všech. A pili a opili se s ním.
 
 ## Změny
 
 - **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
-- **"sore" → „krutý“** (v1) – modernizováno.
-- **"did solemnly protest" → „důrazně varoval“** (v3) – hebrejsky הָעֵד הֵעִד *ha'ed he'id*. Konstrukce s infinitivem absolutním zesilující *ud* (svědčit / varovat). „Protest“ v moderní angličtině = stěžovat si; hebrejština míní právní varování.
-- **"straitly" → „podrobně“** (v7) – archaické → moderní.
-- **"of the best fruits in the land in your vessels" → „do svých nádob něco z nejvybranější úrody země“** (v11) – hebrejsky מִזִּמְרַת הָאָרֶץ *mi-zimrat ha-aretz*. *Zimrah* = píseň / to nejlepší / chvála (zde nejasné; snad „nejlepší / opěvované plodiny“). Přeloženo „nejvybranější úroda“.
-- **"spices, and myrrh, nuts, and almonds" → „pryskyřičnou gumu a myrhovou pryskyřici, pistácie a mandle“** (v11) – hebrejsky נְכֹאת וָלֹט בָּטְנִים וּשְׁקֵדִים. *Nekhot* = guma (viz 37:25); *lot* = myrhová pryskyřice / ladanum; *botnim* = pistácie (hapax); *sheqedim* = mandle. Obchodní zboží Levanty – krutá ironie: muži, na němž nyní závisejí, posílají totéž obchodní zboží, jaké vezla karavana, které prodali Josepha (37:25).
-- **"God Almighty" → „El Shaddai“** (v14) – jako v 17:1.
-- **"ruler of his house" → „správce svého domu“** (v16, 19) – hebrejsky אֲשֶׁר עַל־בֵּיתוֹ *asher al-beito* = „ten, kdo je nad jeho domem“ = majordomus / správce domácnosti.
-- **"seek occasion against us" → „aby se na nás svalili“** (v18) – hebrejsky לְהִתְגֹּלֵל עָלֵינוּ *le-hitgolel aleynu* = „svalit se na nás / padnout na nás“. Idiom nepřátelského útoku.
-- **"the inn" → „nocležiště“** (v21) – jako v 42:27.
-- **"bowels did yearn upon his brother" → „jeho nitro se pohnulo kvůli jeho bratrovi“** (v30) – hebrejsky כִּי־נִכְמְרוּ רַחֲמָיו *ki-nikhmeru rachamav*. *Rachamim* = soucit / milosrdenství, doslova „lůna“ (ženská citová obraznost mateřského soucitu). *Nikhmar* = zahřát se / pohnout se. Doslovné „bowels“ (útroby) v KJV je archaický anglický idiom pro sídlo soucitu.
-- **"abomination" → „ohavnost“ (v32)** – hebrejsky תּוֹעֵבָה *to'evah*. Rituální odpor / nedotknutelnost. Egyptské kastovně-rituální oddělení od cizinců je historicky doloženo; hebrejští pastýři by byli podle egyptských měřítek chrámové čistoty obzvlášť nečistí.
-- **"marvelled" → „se na sebe navzájem udiveně dívali“** (v33) – hebrejsky וַיִּתְמְהוּ הָאֲנָשִׁים אִישׁ אֶל־רֵעֵהוּ *wa-yitmehu ha-anashim ish el-re'ehu*. Žasnou, že je egyptský pán posadil podle pořadí narození – jak to mohl vědět?
-- **"messes" → „porce“** (v34) – „Mess“ v angličtině roku 1611 = porce jídla; dnes archaické (a s opačným významem – „mess“ je nepořádek).
+- **"sore" → „těžký“** (v1) – hebrejsky כָּבֵד, jako 41:31.
+- **"Go again" → „Vraťte se“** (v2, 13) – hebrejsky שֻׁבוּ. „Nakupte“ je שִׁבְרוּ, sloveso „kupovat obilí“, zde s předmětem „trochu potravy“; tak i v4, 20, 22.
+- **"did solemnly protest" → „jistě varoval“** (v3) – hebrejsky הָעֵד הֵעִד, infinitiv absolutní se svým slovesem, doslova „varuje varoval“ (sloveso znamená „svědčit, důrazně varovat“). Týž tvar je „jistě se ptal“ (v7, שָׁאוֹל שָׁאַל), „Mohli jsme jistě vědět“ (v7, הֲיָדוֹעַ נֵדַע) a „jistě jsme sestoupili“ (v20, יָרֹד יָרַדְנוּ).
+- **"send" → „pouštíš“ / „propustí“** (v4, 5, 14) – hebrejsky שִׁלַּח (piel), „poslat pryč, propustit“ toho, kdo je držen; ve v8 je „Pošli“ prostý tvar שִׁלְחָה.
+- **"dealt ye so ill with me" → „učinili jste mi zlo“** (v6) – hebrejsky הֲרֵעֹתֶם לִי. „Že máte ještě bratra“ je v hebrejštině sama otázka: „Máte ještě bratra?“
+- **"according to the tenor of these words" → „podle těchto slov“** (v7) – hebrejsky עַל־פִּי הַדְּבָרִים הָאֵלֶּה, doslova „na ústa těchto slov“.
+- **"lad" → „chlapec“** (v8) – hebrejsky הַנַּעַר.
+- **"let me bear the blame for ever" → „zhřešil jsem proti tobě po všechny dny“** (v9) – hebrejsky וְחָטָאתִי לְךָ כָּל־הַיָּמִים, doslova tak. „Vyžadovat“ je תְּבַקְשֶׁנּוּ, „budeš ho hledat“.
+- **"the best fruits in the land" → „z vybrané úrody země“** (v11) – hebrejsky מִזִּמְרַת הָאָרֶץ; זִמְרָה v tomto smyslu stojí jen zde a její význam je nejistý (to nejlepší, opěvované plodiny země).
+- **"a present" → „dar“** (v11, 15, 25, 26) – hebrejsky מִנְחָה, dar přinášený výše postavenému; totéž slovo jako přídavná oběť na oltáři.
+- **"spices, and myrrh, nuts, and almonds" → „pryskyřici a ladanum, pistácie a mandle“** (v11) – hebrejsky נְכֹאת וָלֹט בָּטְנִים וּשְׁקֵדִים. První dvě slova (jako 37:25) a třetí, které je jen zde, mají nejistý význam; „balzám“ je צֳרִי.
+- **"double money" → „dvojnásobné stříbro“** (v12, 15) – hebrejsky כֶסֶף מִשְׁנֶה; כֶּסֶף je stříbro na váhu, zde cena (také v18, 21, 22, 23).
+- **"sacks" → „vaky“** (v12, 18, 21, 22, 23) – hebrejsky v celé kapitole אַמְתַּחַת; „pytel“ (שַׂק, 42:25, 27, 35) se zde nevyskytuje.
+- **"an oversight" → „omyl“** (v12) – hebrejsky מִשְׁגֶּה.
+- **"God Almighty" → „El Šaddaj“** (v14) – hebrejsky אֵל שַׁדַּי, jako v 17:1; význam slova שַׁדַּי není jistý.
+- **"mercy" → „soucit“** (v14, 30) – hebrejsky pokaždé רַחֲמִים. Ve v30 má hebrejština נִכְמְרוּ רַחֲמָיו, „jeho soucit se rozehřál“; KJV má „bowels“ (útroby).
+- **"If I be bereaved of my children, I am bereaved" → „jak jsem zbaven dětí, jsem zbaven dětí“** (v14) – hebrejsky כַּאֲשֶׁר שָׁכֹלְתִּי שָׁכָלְתִּי; „jestliže“ v hebrejštině není (sloveso samo znamená „být zbaven dětí“).
+- **"ruler of his house" → „ten, který byl nad jeho domem“** (v16, 19) – hebrejsky אֲשֶׁר עַל־בֵּיתוֹ, doslova tak.
+- **"slay" → „poraz dobytče“** (v16) – hebrejsky וּטְבֹחַ טֶבַח, doslova „poraz porážku“; kořen slova „stráže“ (41:10), jiné slovo než שָׁחַט.
+- **"seek occasion against us" → „aby se na nás svalil“** (v18) – hebrejsky לְהִתְגֹּלֵל עָלֵינוּ, doslova „svalit se na nás“; hebrejština neříká kdo.
+- **"at the first time" → „na počátku“** (v18, 20) – hebrejsky בַּתְּחִלָּה, jako 41:21.
+- **"O sir" → „Ach, můj pane“** (v20) – hebrejsky בִּי אֲדֹנִי, doslova „na mne, můj pane“, způsob, jak požádat o slovo.
+- **"the inn" → „nocležiště“** (v21) – hebrejsky הַמָּלוֹן, jako v 42:27. „V jeho váze“ je בְּמִשְׁקָלוֹ.
+- **"I had your money" → „Vaše stříbro přišlo ke mně“** (v23) – hebrejsky כַּסְפְּכֶם בָּא אֵלָי.
+- **"Peace be to you" → „*Šalom* vám“** (v23); **"asked them of their welfare … Is your father well" → „zeptal se jich na jejich pokoj … Má pokoj“** (v27, 28) – hebrejsky pokaždé שָׁלוֹם: וַיִּשְׁאַל לָהֶם לְשָׁלוֹם, doslova „zeptal se jich na pokoj“; הֲשָׁלוֹם אֲבִיכֶם, „Je váš otec pokoj?“
+- **"the old man of whom ye spake" → „váš starý otec, o kterém jste mluvili“** (v27) – hebrejsky אֲבִיכֶם הַזָּקֵן.
+- **"bowed down their heads, and made obeisance" → „sklonili se a poklonili se“** (v28) – hebrejsky וַיִּקְּדוּ וַיִּשְׁתַּחֲווּ. Psaný text (ketiv) má druhé sloveso bez koncovky množného čísla; tradice čtení (qere) má množné číslo, bez rozdílu ve významu.
+- **"your younger brother" → „váš nejmladší bratr“** (v29) – hebrejsky הַקָּטֹן, doslova „ten malý“; ve v33 je „nejmladší“ jiné slovo, הַצָּעִיר, „ten mladý“.
+- **"God be gracious unto thee" → „Kéž ti *Elohim* projeví přízeň“** (v29) – hebrejsky יָחְנְךָ, sloveso od חֵן „přízeň“.
+- **"he sought where to weep" → „chtěl plakat“** (v30) – hebrejsky וַיְבַקֵּשׁ לִבְכּוֹת, doslova „hledal plakat“; „kde“ v hebrejštině není.
+- **"refrained himself" → „ovládl se“** (v31) – hebrejsky וַיִּתְאַפַּק, jako 45:1.
+- **"abomination unto the Egyptians" → „pro Egypt ohavnost“** (v32) – hebrejsky תּוֹעֵבָה … לְמִצְרָיִם: verš má dvakrát „Egypťané“ (הַמִּצְרִים) a potom „Egypt“ (מִצְרָיִם).
+- **"marvelled one at another" → „žasli, každý k svému bližnímu“** (v33) – hebrejsky אִישׁ אֶל־רֵעֵהוּ.
+- **"he took and sent messes" → „dal jim od sebe nosit díly“** (v34) – hebrejsky וַיִּשָּׂא מַשְׂאֹת מֵאֵת פָּנָיו, doslova „a zvedl zvednutí od své tváře“. „Pětkrát“ je חָמֵשׁ יָדוֹת, „pět rukou“.
+- **"were merry" → „opili se“** (v34) – hebrejsky וַיִּשְׁכְּרוּ, sloveso „být opilý“.
 
 ### Poznámky
 
-- **Judah se ujímá slova** – v8–9: Judah se nabízí jako ručitel za Benjamina, zatímco Reuben nabízel vlastní syny (42:37; podivná a znepokojivá nabídka). Judahovo vůdcovství zde nabývá tvaru a vrcholí v jeho velké řeči v kap. 44.
-- **Dvojitá / pětinásobná porce** – Benjaminova pětinásobná porce u stolu je zkouškou: jak bratři odpovědí na zjevné upřednostňování nového nejmladšího, vůči němuž kdysi cítili tutéž starou závist, kterou obraceli proti Josephovi?
-- **Josephovy opakované slzy** – vyprávění staví do popředí Josephovo pohnutí, i když si udržuje přetvářku. Přísnost je odměřená (zkouší je Benjaminem), zatímco náklonnost je nezaměnitelná (odchází, aby plakal).
+- **Judah se ujímá slova** – v8–9: Judah se nabízí jako ručitel za Benjamina, zatímco Reuben nabízel vlastní syny (42:37). Judahovo vůdcovství zde nabývá tvaru a vrcholí v jeho řeči v kap. 44.
+- **Pětinásobný díl** – Benjaminův díl u stolu staví nejmladšího před očima bratrů nad ně, jako kdysi Josepha.
+- **Josephovy opakované slzy** – vyprávění staví do popředí Josephovo pohnutí, i když se jim nedává poznat.

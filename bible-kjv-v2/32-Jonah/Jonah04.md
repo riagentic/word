@@ -1,50 +1,42 @@
 # Jonah 4
 
-[1] But it displeased ⟦jonah|Yonah|Jonah⟧ exceedingly, and he was angry.
+[1] And it was evil to ⟦jonah|Yonah|Jonah⟧, a great evil, and he burned with anger.
 
-[2] And he prayed to ⟦yhwh|Yahweh|the LORD⟧ and said, "O ⟦yhwh|Yahweh|LORD⟧, is not this what I said when I was yet in my country? That is why I made haste to flee to Tarshish; for I knew that you are a gracious ⟦el|El|God⟧ and merciful, slow to anger and abounding in ⟦steadfast-love|chesed|steadfast love⟧, and relenting from disaster.
+[2] And he prayed to ⟦yhwh|Yahweh|the LORD⟧ and said, "Ah, ⟦yhwh|Yahweh|LORD⟧, was not this my word while I was still on my own ground? Therefore I fled beforehand to Tarshish; for I knew that you are ⟦el|El|God⟧ gracious and compassionate, slow to anger and abounding in ⟦steadfast-love|chesed|steadfast love⟧, and relenting concerning the evil.
 
-[3] Therefore now, O ⟦yhwh|Yahweh|LORD⟧, please take my life from me, for it is better for me to die than to live."
+[3] And now, ⟦yhwh|Yahweh|LORD⟧, take my soul from me, please; for my death is better than my life."
 
-[4] And ⟦yhwh|Yahweh|the LORD⟧ said, "Do you do well to be angry?"
+[4] And ⟦yhwh|Yahweh|the LORD⟧ said, "Is it well that you burn with anger?"
 
-[5] ⟦jonah|Yonah|Jonah⟧ went out of the city and sat to the east of the city and made a booth for himself there. He sat under it in the shade, till he should see what would become of the city.
+[5] And ⟦jonah|Yonah|Jonah⟧ went out from the city and sat east of the city; and he made himself a booth there and sat under it in the shade, until he should see what would be in the city.
 
-[6] Now ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ appointed a plant and made it come up over ⟦jonah|Yonah|Jonah⟧, that it might be a shade over his head, to save him from his discomfort. So ⟦jonah|Yonah|Jonah⟧ was exceedingly glad because of the plant.
+[6] And ⟦yhwh|Yahweh|the LORD⟧ ⟦elohim|Elohim|God⟧ appointed a castor-oil plant, and it came up over ⟦jonah|Yonah|Jonah⟧, to be a shade over his head, to deliver him from his evil; and ⟦jonah|Yonah|Jonah⟧ was glad over the castor-oil plant with a great gladness.
 
-[7] But when dawn came up the next day, ⟦elohim|Elohim|God⟧ appointed a worm that attacked the plant, so that it withered.
+[7] And ⟦elohim|Elohim|God⟧ appointed a worm at the going up of the dawn on the next day, and it struck the castor-oil plant, and it withered.
 
-[8] When the sun rose, ⟦elohim|Elohim|God⟧ appointed a scorching east wind, and the sun beat down on the head of ⟦jonah|Yonah|Jonah⟧ so that he was faint. And he asked that he might die and said, "It is better for me to die than to live."
+[8] And it came to pass, when the sun rose, that ⟦elohim|Elohim|God⟧ appointed a sultry east wind; and the sun struck on the head of ⟦jonah|Yonah|Jonah⟧, and he grew faint; and he asked for his soul to die, and said, "My death is better than my life."
 
-[9] But ⟦elohim|Elohim|God⟧ said to ⟦jonah|Yonah|Jonah⟧, "Do you do well to be angry for the plant?" And he said, "Yes, I do well to be angry, angry enough to die."
+[9] And ⟦elohim|Elohim|God⟧ said to ⟦jonah|Yonah|Jonah⟧, "Is it well that you burn with anger over the castor-oil plant?" And he said, "It is well that I burn with anger, to death."
 
-[10] And ⟦yhwh|Yahweh|the LORD⟧ said, "You pity the plant, for which you did not labor, nor did you make it grow, which came into being in a night and perished in a night.
+[10] And ⟦yhwh|Yahweh|the LORD⟧ said, "You, you have pitied the castor-oil plant, for which you did not toil and which you did not make grow, which came to be in a night and perished in a night.
 
-[11] And should not I pity ⟦nineveh|Ninveh|Nineveh⟧, that great city, in which there are more than 120,000 persons who do not know their right hand from their left, and also much cattle?"
+[11] And I, shall I not pity ⟦nineveh|Ninveh|Nineveh⟧, the great city, in which there are more than a hundred and twenty thousand of mankind who do not know between their right hand and their left, and many beasts?"
 
 ## Changes
 
-- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"God" → "*Elohim*" / "El"** (vv7, 8, 9; v2) — Hebrew אֱלֹהִים, and אֵל *El* in v2 ("a gracious El"); narrator uses *Elohim* for the "appointments" of the worm and the wind (the plant in v6 is appointed by Yahweh *Elohim*); Jonah uses Yahweh in his prayer.
-- **"LORD God" → "Yahweh *Elohim*"** (v6) — Hebrew יְהוָה אֱלֹהִים; the combined divine name; *Elohim* retained.
-- **"it displeased Jonah exceedingly, and he was very angry" → "it displeased Jonah exceedingly, and he was angry"** (v1) — Hebrew וַיֵּרַע אֶל יוֹנָה רָעָה גְדוֹלָה וַיִּחַר לוֹ; "exceedingly" already conveys the intensity; "very angry" redundant in the revised text.
-- **"take, I beseech thee, my life from me" → "please take my life from me"** (v3) — modernized; "please" for *na'*.
-- **"Doest thou well to be angry?" → "Do you do well to be angry?"** (v4) — modernized.
-- **"sat on the east side of the city" → "sat to the east of the city"** (v5) — Hebrew מִקֶּדֶם לָעִיר; modernized.
-- **"made him a booth" → "made a booth for himself"** (v5) — modernized.
-- **"in the shadow" → "in the shade"** (v5) — Hebrew בַּצֵּל *batzzel* = in the shade; "shade" more natural.
-- **"the LORD God prepared a gourd" → "Yahweh *Elohim* appointed a plant"** (v6) — Hebrew יְהוָה אֱלֹהִים וַיְמַן קִיקָיוֹן *Yahweh *Elohim* wayeman qiqayon*; *manah* = appointed (consistent with ch. 1); *qiqayon* = castor oil plant or similar; KJV "gourd" is uncertain.
-- **"to deliver him from his grief" → "to save him from his discomfort"** (v6) — Hebrew לְהַצִּיל לוֹ מֵרָעָתוֹ *lehatzil lo mera'ato*; *ra'ah* = discomfort/distress; not grief but physical hardship from the sun.
-- **"Jonah was exceeding glad of the gourd" → "Jonah was exceedingly glad because of the plant"** (v6) — modernized.
-- **"God prepared a worm when the morning rose the next day" → "when dawn came up the next day, *Elohim* appointed a worm"** (v7) — Hebrew וַיְמַן הָאֱלֹהִים תּוֹלַעַת; *manah* = appointed consistently; "dawn came up" more vivid than "morning rose."
-- **"it smote the gourd that it withered" → "that attacked the plant, so that it withered"** (v7) — modernized.
-- **"God prepared a vehement east wind" → "*Elohim* appointed a scorching east wind"** (v8) — Hebrew וַיְמַן הָאֱלֹהִים רוּחַ קָדִים חֲרִישִׁית *wayeman ha'*Elohim* ruach qadim charishit*; *manah* consistently; *charishit* = scorching/sultry; "scorching" more vivid than "vehement."
-- **"he fainted, and wished in himself to die" → "so that he was faint. And he asked that he might die"** (v8) — Hebrew וַיִּתְעַלַּף *wayyit'alef* = fainted/grew faint; "faint" retained; request to die phrased properly.
-- **"Doest thou well to be angry for the gourd?" → "Do you do well to be angry for the plant?"** (v9) — modernized.
-- **"I do well to be angry, even unto death" → "I do well to be angry, angry enough to die"** (v9) — Hebrew הֵיטֵב חָרָה לִי עַד מָוֶת *heytev charah li ad mavet*; "angry enough to die" more vivid.
-- **"Thou hast had pity on the gourd" → "You pity the plant"** (v10) — modernized.
-- **"sixscore thousand persons that cannot discern between their right hand and their left hand" → "more than 120,000 persons who do not know their right hand from their left"** (v11) — Hebrew הַרְבֵּה מִשְׁתֵּים־עֶשְׂרֵה רִבּוֹ *harbeh mishteim-esreh ribbo* = "more than twelve ten-thousands"; "sixscore thousand" = 120,000; numeral substituted; "do not know their right hand from their left" modernized.
+- **"LORD" → "Yahweh"** (throughout) — the Tetragrammaton. יְהוָה־אֱלֹהִים (v6) both names, as Gen 2–3; הָאֱלֹהִים (v7) and אֱלֹהִים (v8, 9) the plain Elohim token. No "O" before Yahweh (v2, 3): the Hebrew has no word for it.
+- **"But it displeased Jonah exceedingly, and he was very angry" → "And it was evil to Jonah, a great evil, and he burned with anger"** (v1) — וַיֵּרַע … רָעָה גְדוֹלָה "it was evil … a great evil": the word of 3:10 (Elohim relented of the evil; to Jonah that was evil); וַיִּחַר לוֹ "it burned to him" (חָרָה without אַף: "burn with anger", its row; as v4, 9).
+- **"I pray thee, O LORD, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou art a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil" → "Ah, Yahweh, was not this my word while I was still on my own ground? Therefore I fled beforehand to Tarshish; for I knew that you are El gracious and compassionate, slow to anger and abounding in chesed, and relenting concerning the evil"** (v2) — אָנָּה "Ah" (its row); דְבָרִי "my word"; אַדְמָתִי "my ground" ("own" for the suffix); קִדַּמְתִּי לִבְרֹחַ "I was beforehand to flee". The formula as Exod 34:6 and its rows: אֵל "El"; חַנּוּן וְרַחוּם "gracious and compassionate" (this order here and Joel 2:13; Exod 34:6 has רַחוּם וְחַנּוּן); אֶרֶךְ אַפַּיִם "slow to anger" (lit. "long of nostrils"); רַב־חֶסֶד "abounding in chesed" (lit. "much of"); וְנִחָם עַל־הָרָעָה "and relenting concerning the evil" (the נִחַם row; not "disaster").
+- **"Therefore now, O LORD, take, I beseech thee, my life from me; for it is better for me to die than to live" → "And now, Yahweh, take my soul from me, please; for my death is better than my life"** (v3) — וְעַתָּה "and now"; נָא "please"; נֶפֶשׁ "soul"; טוֹב מוֹתִי מֵחַיָּי "better my death than my life" (nouns, as v8).
+- **"Doest thou well to be angry?" → "Is it well that you burn with anger?"** (v4) — הַהֵיטֵב חָרָה לָךְ "is it well (that) it burns to you?" (הֵיטֵב adverbial; as v9).
+- **"So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city" → "And Jonah went out from the city and sat east of the city; and he made himself a booth there and sat under it in the shade, until he should see what would be in the city"** (v5) — יָשַׁב "sat" (of the body, the יָשַׁב row); מִקֶּדֶם לָעִיר "east of the city"; סֻכָּה "booth"; מַה־יִּהְיֶה בָּעִיר "what would be in the city".
+- **"And the LORD God prepared a gourd, and made it to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd" → "And Yahweh Elohim appointed a castor-oil plant, and it came up over Jonah, to be a shade over his head, to deliver him from his evil; and Jonah was glad over the castor-oil plant with a great gladness"** (v6) — וַיְמַן "appointed" (as 1:17; v7, 8); קִיקָיוֹן, only in this chapter: the plant is not known for certain; "castor-oil plant" is the best-supported sense (the Egyptian *kiki*, castor oil; from memory); "gourd" (KJV, from the Greek κολοκύνθη, from memory) and "vine" are other readings; one rendering kept (v6, 7, 9, 10). וַיַּעַל "and it came up" (the plant is the subject); לְהַצִּיל "deliver"; מֵרָעָתוֹ "from his evil" (his distress: the word of v1); וַיִּשְׂמַח … שִׂמְחָה גְדוֹלָה "was glad … with a great gladness" (the verb with its own noun).
+- **"But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered" → "And Elohim appointed a worm at the going up of the dawn on the next day, and it struck the castor-oil plant, and it withered"** (v7) — בַּעֲלוֹת הַשַּׁחַר "at the going up of the dawn"; הִכָּה "strike"; יָבֵשׁ "wither".
+- **"And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, It is better for me to die than to live" → "And it came to pass, when the sun rose, that Elohim appointed a sultry east wind; and the sun struck on the head of Jonah, and he grew faint; and he asked for his soul to die, and said, My death is better than my life"** (v8) — וַיְהִי "and it came to pass" kept; חֲרִישִׁית, only here, "sultry" (perhaps "still, silent", from חָרַשׁ, or "scorching": uncertain); וַתַּךְ "struck" (as v7); וַיִּתְעַלָּף "grew faint"; וַיִּשְׁאַל אֶת־נַפְשׁוֹ לָמוּת "he asked for his soul to die".
+- **"Doest thou well to be angry for the gourd? And he said, I do well to be angry, even unto death" → "Is it well that you burn with anger over the castor-oil plant? And he said, It is well that I burn with anger, to death"** (v9) — the words of v4 with עַל "over"; עַד־מָוֶת "to death".
+- **"Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night" → "You, you have pitied the castor-oil plant, for which you did not toil and which you did not make grow, which came to be in a night and perished in a night"** (v10) — the stressed אַתָּה "you"; חוּס "pity" (as v11); עָמַל "toil"; גִּדַּל "make grow"; שֶׁבִּן־לַיְלָה הָיָה וּבִן־לַיְלָה אָבָד lit. "which a son of a night came to be and a son of a night perished" (= within one night, as "a son of … years" is an age).
+- **"And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?" → "And I, shall I not pity Nineveh, the great city, in which there are more than a hundred and twenty thousand of mankind who do not know between their right hand and their left, and many beasts?"** (v11) — the stressed וַאֲנִי "and I", set against "you" of v10; the question has no question word (the sense makes it one); חוּס "pity" (as v10, not "spare"); שְׁתֵּים־עֶשְׂרֵה רִבּוֹ "twelve ten-thousands", given in words (the Numbers row); אָדָם "mankind" (singular collective; "their" for its "his"); יָדַע בֵּין "know between"; בְּהֵמָה רַבָּה "many beasts" (בְּהֵמָה collective; "also" is not in the Hebrew).
 
 ### Notes
-- **Ends with a question** — unique in Bible; challenges the reader.
-- **120,000 who don't know right from left**: likely children or naïve populace.
+- **Ends with a question** — the book closes on Yahweh's question; Jonah's answer is not given.
+- **"who do not know between their right hand and their left"** (v11) — perhaps the little children, or a people without understanding; the Hebrew does not say.

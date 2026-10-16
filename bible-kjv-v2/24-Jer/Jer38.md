@@ -1,71 +1,99 @@
 # Jeremiah 38
 
-[1] Now ⟦shephatiah|Shefatyah|Shephatiah⟧ son of Mattan, ⟦gedaliah|Gedalyahu|Gedaliah⟧ son of ⟦pashhur|Pashchur|Pashhur⟧, ⟦jucal|Yuchal|Jucal⟧ son of ⟦shelemiah|Shelemyah|Shelemiah⟧, and ⟦pashhur|Pashchur|Pashhur⟧ son of ⟦malchiah|Malkiyah|Malchiah⟧ heard the words that ⟦jeremiah|Yirmeyahu|Jeremiah⟧ was saying to all the people:
+[1] And ⟦shephatiah|Shefatyah|Shephatiah⟧ son of Mattan, and ⟦gedaliah|Gedalyahu|Gedaliah⟧ son of ⟦pashhur|Pashchur|Pashhur⟧, and ⟦jucal|Yuchal|Jucal⟧ son of ⟦shelemiah|Shelemyah|Shelemiah⟧, and ⟦pashhur|Pashchur|Pashhur⟧ son of ⟦malchiah|Malkiyah|Malchiah⟧ heard the words that ⟦jeremiah|Yirmeyahu|Jeremiah⟧ was speaking to all the people, saying,
 
-[2] "Thus says ⟦yhwh|Yahweh|the LORD⟧: He who stays in this city shall die by the sword, by famine, and by pestilence, but he who goes out to the ⟦chaldeans|Kasdim|Chaldeans⟧ shall live. He shall have his life as a prize of war, and live.
+[2] "Thus says ⟦yhwh|Yahweh|the LORD⟧: He who dwells in this city shall die by the sword, by the famine, and by the pestilence; and he who goes out to the ⟦chaldeans|Kasdim|Chaldeans⟧ shall live, and his soul shall be his as spoil, and he shall live.
 
-[3] Thus says ⟦yhwh|Yahweh|the LORD⟧: This city shall surely be given into the hand of the army of the king of ⟦babylon|Bavel|Babylon⟧ and be captured."
+[3] Thus says ⟦yhwh|Yahweh|the LORD⟧: This city shall surely be given into the hand of the force of the king of ⟦babylon|Bavel|Babylon⟧, and he shall capture it."
 
-[4] Then the officials said to the king, "Let this man be put to death, for he is weakening the hands of the soldiers who are left in this city, and the hands of all the people, by speaking such words to them. For this man is not seeking the welfare of this people, but their harm."
+[4] And the princes said to the king, "Let this man, please, be put to death, for thus he is slackening the hands of the men of war who are left in this city, and the hands of all the people, by speaking to them according to these words; for this man is not seeking the ⟦shalom|shalom|peace⟧ of this people, but evil."
 
-[5] King ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ said, "Behold, he is in your hands, for the king can do nothing against you."
+[5] And King ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ said, "Behold, he is in your hand; for the king can do nothing against you."
 
-[6] So they took ⟦jeremiah|Yirmeyahu|Jeremiah⟧ and cast him into the cistern of ⟦malchiah|Malkiyah|Malchiah⟧ the king's son, which was in the court of the guard, letting ⟦jeremiah|Yirmeyahu|Jeremiah⟧ down by ropes. And there was no water in the cistern, but only mud, and ⟦jeremiah|Yirmeyahu|Jeremiah⟧ sank in the mud.
+[6] And they took ⟦jeremiah|Yirmeyahu|Jeremiah⟧ and threw him into the pit of ⟦malchiah|Malkiyah|Malchiah⟧ son of the king, which was in the court of the guard, and they let ⟦jeremiah|Yirmeyahu|Jeremiah⟧ down with cords. And in the pit there was no water, but mud; and ⟦jeremiah|Yirmeyahu|Jeremiah⟧ sank in the mud.
 
-[7] When ⟦ebed-melech|Eved-Melech|Ebed-melech⟧ the ⟦cushite|Kushi|Ethiopian⟧, a eunuch who was in the king's house, heard that they had put ⟦jeremiah|Yirmeyahu|Jeremiah⟧ into the cistern — the king was sitting in the ⟦benjamin|Binyamin|Benjamin⟧ Gate —
+[7] And ⟦ebed-melech|Eved-Melech|Ebed-melech⟧ the ⟦cushite|Kushi|Cushite⟧, a eunuch, heard — and he was in the house of the king — that they had put ⟦jeremiah|Yirmeyahu|Jeremiah⟧ into the pit; and the king was sitting in the gate of ⟦benjamin|Binyamin|Benjamin⟧.
 
-[8] ⟦ebed-melech|Eved-Melech|Ebed-melech⟧ went from the king's house and said to the king,
+[8] And ⟦ebed-melech|Eved-Melech|Ebed-melech⟧ went out from the house of the king and spoke to the king, saying,
 
-[9] "My lord the king, these men have done evil in all that they did to ⟦jeremiah|Yirmeyahu|Jeremiah⟧ the prophet by casting him into the cistern, and he will die there of hunger, for there is no bread left in the city."
+[9] "My lord the king, these men have done evil in all that they have done to ⟦jeremiah|Yirmeyahu|Jeremiah⟧ the prophet, whom they have thrown into the pit; and he has died where he is because of the famine, for there is no more bread in the city."
 
-[10] Then the king commanded ⟦ebed-melech|Eved-Melech|Ebed-melech⟧ the ⟦cushite|Kushi|Ethiopian⟧, "Take thirty men with you from here, and lift ⟦jeremiah|Yirmeyahu|Jeremiah⟧ the prophet out of the cistern before he dies."
+[10] And the king commanded ⟦ebed-melech|Eved-Melech|Ebed-melech⟧ the ⟦cushite|Kushi|Cushite⟧, saying, "Take in your hand from here thirty men, and bring up ⟦jeremiah|Yirmeyahu|Jeremiah⟧ the prophet from the pit before he dies."
 
-[11] So ⟦ebed-melech|Eved-Melech|Ebed-melech⟧ took the men with him and went to the house of the king, to a wardrobe in the storehouse, and took from there old rags and worn-out clothes, which he let down to ⟦jeremiah|Yirmeyahu|Jeremiah⟧ in the cistern by ropes.
+[11] And ⟦ebed-melech|Eved-Melech|Ebed-melech⟧ took the men in his hand and went into the house of the king, to the place under the treasury, and took from there worn-out rags and worn-out tatters, and let them down to ⟦jeremiah|Yirmeyahu|Jeremiah⟧ into the pit with cords.
 
-[12] Then ⟦ebed-melech|Eved-Melech|Ebed-melech⟧ the ⟦cushite|Kushi|Ethiopian⟧ said to ⟦jeremiah|Yirmeyahu|Jeremiah⟧, "Put the rags and clothes between your armpits and the ropes." ⟦jeremiah|Yirmeyahu|Jeremiah⟧ did so.
+[12] And ⟦ebed-melech|Eved-Melech|Ebed-melech⟧ the ⟦cushite|Kushi|Cushite⟧ said to ⟦jeremiah|Yirmeyahu|Jeremiah⟧, "Put, please, the worn-out rags and the tatters under your armpits, beneath the cords." And ⟦jeremiah|Yirmeyahu|Jeremiah⟧ did so.
 
-[13] Then they drew ⟦jeremiah|Yirmeyahu|Jeremiah⟧ up with ropes and lifted him out of the cistern. And ⟦jeremiah|Yirmeyahu|Jeremiah⟧ remained in the court of the guard.
+[13] And they drew ⟦jeremiah|Yirmeyahu|Jeremiah⟧ with the cords and brought him up from the pit; and ⟦jeremiah|Yirmeyahu|Jeremiah⟧ dwelt in the court of the guard.
 
-[14] King ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ sent for ⟦jeremiah|Yirmeyahu|Jeremiah⟧ the prophet and received him at the third entrance of the house of ⟦yhwh|Yahweh|the LORD⟧. The king said to ⟦jeremiah|Yirmeyahu|Jeremiah⟧, "I will ask you a question; hide nothing from me."
+[14] And King ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ sent and took ⟦jeremiah|Yirmeyahu|Jeremiah⟧ the prophet to him, to the third entrance that is in the house of ⟦yhwh|Yahweh|the LORD⟧; and the king said to ⟦jeremiah|Yirmeyahu|Jeremiah⟧, "I am asking you a thing; do not hide a thing from me."
 
-[15] ⟦jeremiah|Yirmeyahu|Jeremiah⟧ said to ⟦zedekiah|Tzidqiyahu|Zedekiah⟧, "If I tell you, will you not surely put me to death? And if I give you counsel, you will not listen to me."
+[15] And ⟦jeremiah|Yirmeyahu|Jeremiah⟧ said to ⟦zedekiah|Tzidqiyahu|Zedekiah⟧, "If I tell you, will you not surely put me to death? And if I counsel you, you will not listen to me."
 
-[16] Then King ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ swore secretly to ⟦jeremiah|Yirmeyahu|Jeremiah⟧, "As ⟦yhwh|Yahweh|the LORD⟧ lives, who made our soul, I will not put you to death or deliver you into the hand of these men who seek your life."
+[16] And King ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ swore to ⟦jeremiah|Yirmeyahu|Jeremiah⟧ in secret, saying, "As ⟦yhwh|Yahweh|the LORD⟧ lives, who made for us this soul, I will not put you to death, and I will not give you into the hand of these men who are seeking your soul."
 
-[17] Then ⟦jeremiah|Yirmeyahu|Jeremiah⟧ said to ⟦zedekiah|Tzidqiyahu|Zedekiah⟧, "Thus says ⟦yhwh|Yahweh|the LORD⟧, ⟦elohim|Elohim|God⟧ of Hosts, the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧: If you will surrender to the officials of the king of ⟦babylon|Bavel|Babylon⟧, then your soul shall live, and this city shall not be burned with fire, and you and your house shall live.
+[17] And ⟦jeremiah|Yirmeyahu|Jeremiah⟧ said to ⟦zedekiah|Tzidqiyahu|Zedekiah⟧, "Thus says ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of Hosts, the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧: If you will surely go out to the princes of the king of ⟦babylon|Bavel|Babylon⟧, then your soul shall live, and this city shall not be burned with fire, and you shall live, you and your house.
 
-[18] But if you do not surrender to the officials of the king of ⟦babylon|Bavel|Babylon⟧, then this city shall be given into the hand of the ⟦chaldeans|Kasdim|Chaldeans⟧, and they shall burn it with fire, and you shall not escape from their hand."
+[18] And if you do not go out to the princes of the king of ⟦babylon|Bavel|Babylon⟧, then this city shall be given into the hand of the ⟦chaldeans|Kasdim|Chaldeans⟧, and they shall burn it with fire, and you shall not escape from their hand."
 
-[19] King ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ said to ⟦jeremiah|Yirmeyahu|Jeremiah⟧, "I am afraid of the ⟦judeans|Yehudim|Judeans⟧ who have deserted to the ⟦chaldeans|Kasdim|Chaldeans⟧, lest I be handed over to them and they deal cruelly with me."
+[19] And King ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ said to ⟦jeremiah|Yirmeyahu|Jeremiah⟧, "I am anxious about the ⟦judeans|Yehudim|Judeans⟧ who have fallen away to the ⟦chaldeans|Kasdim|Chaldeans⟧, lest they give me into their hand and they deal ruthlessly with me."
 
-[20] ⟦jeremiah|Yirmeyahu|Jeremiah⟧ said, "You shall not be given to them. Obey now the voice of ⟦yhwh|Yahweh|the LORD⟧ in what I say to you, and it shall be well with you, and your soul shall live.
+[20] And ⟦jeremiah|Yirmeyahu|Jeremiah⟧ said, "They shall not give you. Listen, please, to the voice of ⟦yhwh|Yahweh|the LORD⟧ in what I am speaking to you, and it shall go well with you, and your soul shall live.
 
-[21] But if you refuse to surrender, this is the vision which ⟦yhwh|Yahweh|the LORD⟧ has shown to me:
+[21] And if you refuse to go out, this is the word that ⟦yhwh|Yahweh|the LORD⟧ has shown me:
 
-[22] Behold, all the women left in the house of the king of ⟦judah|Yehudah|Judah⟧ were being led out to the officials of the king of ⟦babylon|Bavel|Babylon⟧ and were saying:
+[22] And behold, all the women who are left in the house of the king of ⟦judah|Yehudah|Judah⟧ are being brought out to the princes of the king of ⟦babylon|Bavel|Babylon⟧, and they are saying:
 
-"'Your trusted friends have deceived you
-and prevailed against you;
-now that your feet are sunk in the mud,
-they turn away from you.'
+'They have incited you and have overcome you,
+the men of your ⟦shalom|shalom|peace⟧;
+your feet have been sunk in the mire,
+they have turned back.'
 
-[23] "All your wives and your sons shall be led out to the ⟦chaldeans|Kasdim|Chaldeans⟧, and you yourself shall not escape from their hand, but shall be seized by the king of ⟦babylon|Bavel|Babylon⟧, and this city shall be burned with fire."
+[23] And all your wives and your sons they are bringing out to the ⟦chaldeans|Kasdim|Chaldeans⟧, and you shall not escape from their hand, for by the hand of the king of ⟦babylon|Bavel|Babylon⟧ you shall be seized, and this city you shall burn with fire."
 
-[24] Then ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ said to ⟦jeremiah|Yirmeyahu|Jeremiah⟧, "Let no one know of these words, and you shall not die.
+[24] And ⟦zedekiah|Tzidqiyahu|Zedekiah⟧ said to ⟦jeremiah|Yirmeyahu|Jeremiah⟧, "Let no man know of these words, and you shall not die.
 
-[25] If the officials hear that I have spoken with you and come to you and say to you, 'Tell us what you said to the king and what the king said to you; hide nothing from us and we will not put you to death,'
+[25] And if the princes hear that I have spoken with you, and they come to you and say to you, 'Tell us, please, what you have spoken to the king — do not hide it from us, and we will not put you to death — and what the king has spoken to you,'
 
-[26] then you shall say to them, 'I made a humble plea to the king that he would not send me back to the house of ⟦jonathan|Yehonatan|Jonathan⟧ to die there.'"
+[26] then you shall say to them, 'I was laying my plea for favor before the king, that he would not make me return to the house of ⟦jonathan|Yehonatan|Jonathan⟧, to die there.'"
 
-[27] Then all the officials came to ⟦jeremiah|Yirmeyahu|Jeremiah⟧ and asked him, and he answered them as the king had instructed him. So they stopped speaking with him, for the conversation had not been overheard.
+[27] And all the princes came to ⟦jeremiah|Yirmeyahu|Jeremiah⟧ and asked him, and he told them according to all these words that the king had commanded. And they were silent from him, for the matter had not been heard.
 
-[28] And ⟦jeremiah|Yirmeyahu|Jeremiah⟧ remained in the court of the guard until the day that ⟦jerusalem|Yerushalayim|Jerusalem⟧ was taken.
+[28] And ⟦jeremiah|Yirmeyahu|Jeremiah⟧ dwelt in the court of the guard until the day that ⟦jerusalem|Yerushalayim|Jerusalem⟧ was captured. And it came to pass, when ⟦jerusalem|Yerushalayim|Jerusalem⟧ was captured —
 
 ## Changes
 
-- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"God" → "*Elohim*"** (v17) — Hebrew *Elohim* preserved.
-- **Poetic structure** — v22 formatted as verse taunt-song; prose narrative preserved.
+- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved. **"God" → "*Elohim*"** (v17).
+- **Layout** — the chapter is prose; only the women's words in v22 (after "and they are saying") are set as four lines, one Hebrew line (colon) per printed line by the accents. **"And"** (throughout) — the Hebrew joins its clauses with וַ / וְ "and"; the chain is kept.
+- **"heard the words that Jeremiah had spoken unto all the people, saying" → "heard the words that Jeremiah was speaking to all the people, saying"** (v1) — Hebrew מְדַבֵּר, a participle; לֵאמֹר "saying" kept. "Jucal" is written יוּכַל (Jer 37:3 יְהוּכַל).
+- **"He that remaineth in this city … but he that goeth forth to the Chaldeans shall live; for he shall have his life for a prey, and shall live" → "He who dwells in this city … and he who goes out to the Chaldeans shall live, and his soul shall be his as spoil, and he shall live"** (v2) — Hebrew הַיֹּשֵׁב, יָשַׁב "dwell"; בַּחֶרֶב בָּרָעָב וּבַדָּבֶר "by the sword, by the famine and by the pestilence" (the articles kept); וְהָיְתָה־לּוֹ נַפְשׁוֹ לְשָׁלָל, literally "his soul shall be to him for spoil" (as Jer 21:9; 39:18). The reading (qere) is וְחָיָה "and shall live"; the written text (ketiv) יחיה "shall live": the same sense.
+- **"This city shall surely be given into the hand of the king of Babylon's army, which shall take it" → "This city shall surely be given into the hand of the force of the king of Babylon, and he shall capture it"** (v3) — Hebrew הִנָּתֹן תִּנָּתֵן, literally "being given it shall be given"; חֵיל "force"; וּלְכָדָהּ "and he shall capture it", singular: the king.
+- **"We beseech thee, let this man be put to death: for thus he weakeneth the hands of the men of war … in speaking such words unto them: for this man seeketh not the welfare of this people, but the hurt" → "Let this man, please, be put to death, for thus he is slackening the hands … by speaking to them according to these words; for this man is not seeking the shalom of this people, but evil"** (v4) — Hebrew יוּמַת נָא; כִּי־עַל־כֵּן, literally "for therefore"; מְרַפֵּא, piel of רָפָה "slacken"; כַּדְּבָרִים הָאֵלֶּה "according to these words"; דֹּרֵשׁ לְשָׁלוֹם, the noun שָׁלוֹם (token); כִּי אִם־לְרָעָה "but for evil" (רָעָה "evil"). אַנְשֵׁי הַמִּלְחָמָה "the men of war" (as 2 Kgs 25:4).
+- **"he is in your hand: for the king is not he that can do any thing against you" → "he is in your hand; for the king can do nothing against you"** (v5) — Hebrew כִּי־אֵין הַמֶּלֶךְ יוּכַל אֶתְכֶם דָּבָר, literally "for the king is not, he is able with you a thing".
+- **"Then took they Jeremiah, and cast him into the dungeon of Malchiah the son of Hammelech" → "And they took Jeremiah and threw him into the pit of Malchiah son of the king"** (v6) — Hebrew הִשְׁלִיךְ "throw"; בּוֹר "pit", here a cistern cut to hold water: it should have water and has only mud (one word through Jer 37–38, as Gen 37:24, where a pit has "no water in it"); בֶּן־הַמֶּלֶךְ "son of the king" ("Hammelech" as a name is KJV's). **"they let down Jeremiah with cords. And in the dungeon there was no water, but mire: so Jeremiah sunk in the mire" → "they let Jeremiah down with cords. And in the pit there was no water, but mud; and Jeremiah sank in the mud"** — וַיְשַׁלְּחוּ "and they let down" (piel of שָׁלַח "send"); חֶבֶל "cord" (also v11–13); כִּי אִם "but" after the negative (mud in place of water: the reviewer's row; also v4); טִיט "mud" (בֹּץ "mire" is another word, v22); טָבַע "sink".
+- **"Now when Ebed-melech the Ethiopian, one of the eunuchs which was in the king's house, heard … the king then sitting in the gate of Benjamin" → "And Ebed-melech the Cushite, a eunuch, heard — and he was in the house of the king — that they had put Jeremiah into the pit; and the king was sitting in the gate of Benjamin"** (v7) — Hebrew הַכּוּשִׁי "the Cushite" (of Cush, south of Egypt); אִישׁ סָרִיס, literally "a man, a eunuch" (סָרִיס is also used of a court officer whether or not castrated: "eunuch / officer"); וְהוּא בְּבֵית הַמֶּלֶךְ, a clause of its own; יָשַׁב of the body, "sit". "Ebed-melech" means "servant of the king".
+- **"spake to the king, saying" → "spoke to the king, saying"** (v8) — דִּבֶּר with לֵאמֹר.
+- **"these men have done evil in all that they have done to Jeremiah the prophet, whom they have cast into the dungeon; and he is like to die for hunger in the place where he is: for there is no more bread in the city" → "… whom they have thrown into the pit; and he has died where he is because of the famine, for there is no more bread in the city"** (v9) — Hebrew הֵרֵעוּ "they have done evil"; וַיָּמָת, the narrative form "and he died", said of what is as good as done ("he is like to die", "he will die" are the sense, not the words); תַּחְתָּיו "in his place, where he is"; מִפְּנֵי הָרָעָב "because of the famine" (רָעָב "famine", as v2).
+- **"Take from hence thirty men with thee, and take up Jeremiah the prophet out of the dungeon" → "Take in your hand from here thirty men, and bring up Jeremiah the prophet from the pit"** (v10) — Hebrew קַח בְּיָדְךָ "take in your hand" (= under your command; also v11 "in his hand"); הֶעֱלָה "bring up" (also v13).
+- **"went into the house of the king under the treasury, and took thence old cast clouts and old rotten rags" → "went into the house of the king, to the place under the treasury, and took from there worn-out rags and worn-out tatters"** (v11) — Hebrew אֶל־תַּחַת הָאוֹצָר, literally "to under the treasury" (אוֹצָר "treasury"); בְּלוֹיֵ, from בָּלָה "wear out"; the reading (qere) סְחָבוֹת "rags" (things dragged about; the written text has the article); מְלָחִים "tatters" (only here and v12; uncertain). Both kinds of cloth are named again in v12.
+- **"Put now these old cast clouts and rotten rags under thine armholes under the cords" → "Put, please, the worn-out rags and the tatters under your armpits, beneath the cords"** (v12) — Hebrew שִׂים נָא; אַצִּלוֹת יָדֶיךָ, literally "the joints of your hands"; מִתַּחַת לַחֲבָלִים "beneath the cords".
+- **"So they drew up Jeremiah with cords, and took him up out of the dungeon: and Jeremiah remained in the court of the prison" → "And they drew Jeremiah with the cords and brought him up from the pit; and Jeremiah dwelt in the court of the guard"** (v13; also 37:21; 38:6, 28) — Hebrew מָשַׁךְ "draw"; יָשַׁב "dwell"; חֲצַר הַמַּטָּרָה "the court of the guard".
+- **"took Jeremiah the prophet unto him into the third entry … I will ask thee a thing; hide nothing from me" → "took Jeremiah the prophet to him, to the third entrance … I am asking you a thing; do not hide a thing from me"** (v14) — Hebrew מָבוֹא "entrance" (a way in; which one is meant is not known); שֹׁאֵל אֲנִי, a participle; דָּבָר "thing" twice; כִּחֵד "hide".
+- **"If I declare it unto thee, wilt thou not surely put me to death? and if I give thee counsel, wilt thou not hearken unto me?" → "If I tell you, will you not surely put me to death? And if I counsel you, you will not listen to me."** (v15) — Hebrew הָמֵת תְּמִיתֵנִי, literally "putting to death will you put me to death"; the second half has no question word: a statement. הִגִּיד "tell"; יָעַץ "counsel"; שָׁמַע אֶל "listen to".
+- **"sware secretly … As the LORD liveth, that made us this soul, I will not put thee to death, neither will I give thee into the hand of these men that seek thy life" → "swore … in secret … As Yahweh lives, who made for us this soul, I will not put you to death, and I will not give you into the hand of these men who are seeking your soul"** (v16) — Hebrew בַּסֵּתֶר "in secret"; אֶת אֲשֶׁר עָשָׂה־לָנוּ אֶת־הַנֶּפֶשׁ הַזֹּאת, literally "who made for us this soul" (the first את is written but not read); the oath אִם … וְאִם, literally "if I put you to death and if I give you …": a sworn "I will not" (the standing decision); מְבַקְשִׁים "seeking", נֶפֶשׁ "soul".
+- **"the God of hosts" → "the Elohim of Hosts"** (v17) — Hebrew יְהוָה אֱלֹהֵי צְבָאוֹת אֱלֹהֵי יִשְׂרָאֵל, "Yahweh, the Elohim of Hosts, the Elohim of Israel" (plain "of Hosts", as the prophets' formula row). **"If thou wilt assuredly go forth unto the king of Babylon's princes, then thy soul shall live" → "If you will surely go out to the princes of the king of Babylon, then your soul shall live"** — Hebrew יָצֹא תֵצֵא, literally "going out you go out" (= surrender, the sense; "surrender" is not the word: also v18, 21); שָׂרֵי "princes" (also v18, 22, 25, 27); וְחָיִתָה אַתָּה וּבֵיתֶךָ "and you shall live, you and your house".
+- **"But if thou wilt not go forth … thou shalt not escape out of their hand" → "And if you do not go out … you shall not escape from their hand"** (v18) — וְאִם "and if"; נִמְלַט "escape" (also v23).
+- **"I am afraid of the Jews that are fallen to the Chaldeans, lest they deliver me into their hand, and they mock me" → "I am anxious about the Judeans who have fallen away to the Chaldeans, lest they give me into their hand and they deal ruthlessly with me"** (v19) — Hebrew דֹּאֵג "anxious" (דָּאַג, not יָרֵא "fear"); הַיְּהוּדִים "the Judeans"; נָפַל אֶל "fall away to" (as 37:13); יִתְּנוּ "they give", with no subject named (the Chaldeans); הִתְעַלֵּל בְּ "deal ruthlessly with" ("mock", "abuse" in other versions).
+- **"They shall not deliver thee. Obey, I beseech thee, the voice of the LORD, which I speak unto thee: so it shall be well unto thee" → "They shall not give you. Listen, please, to the voice of Yahweh in what I am speaking to you, and it shall go well with you"** (v20) — Hebrew לֹא יִתֵּנוּ; שְׁמַע־נָא בְּקוֹל "listen, please, to the voice of" ("obey" is not a Hebrew word here); לַאֲשֶׁר "as to what"; וְיִיטַב לְךָ "and it shall go well with you" (as 2 Kgs 25:24).
+- **"But if thou refuse to go forth, this is the word that the LORD hath shewed me" → "And if you refuse to go out, this is the word that Yahweh has shown me"** (v21) — Hebrew מָאֵן "refuse"; הַדָּבָר "the word" (not "vision"); הִרְאַנִי "has made me see".
+- **"all the women that are left … shall be brought forth … and those women shall say, Thy friends have set thee on, and have prevailed against thee: thy feet are sunk in the mire, and they are turned away back" → "all the women who are left … are being brought out … and they are saying: They have incited you and have overcome you, the men of your shalom; your feet have been sunk in the mire, they have turned back"** (v22) — Hebrew מוּצָאוֹת and אֹמְרוֹת, participles: what the vision shows. הִסִּית "incite"; יָכֹל לְ "overcome"; אַנְשֵׁי שְׁלֹמֶךָ, literally "the men of your shalom" (the noun שָׁלוֹם, token: those who were at peace with you, your trusted friends); הָטְבְּעוּ, the passive of טָבַע "sink"; בֹּץ "mire" (only here); נָסֹגוּ אָחוֹר "they have turned back".
+- **"So they shall bring out all thy wives and thy children to the Chaldeans … but shalt be taken by the hand of the king of Babylon: and thou shalt cause this city to be burned with fire" → "And all your wives and your sons they are bringing out … for by the hand of the king of Babylon you shall be seized, and this city you shall burn with fire"** (v23) — Hebrew מוֹצִאִים, a participle with no subject; בָּנֶיךָ "your sons"; תָּפַשׂ "seize"; תִּשְׂרֹף "you shall burn", active, as printed (the Septuagint and others read "shall be burned", from memory): he burns it by his refusal.
+- **"Let no man know of these words, and thou shalt not die" → "Let no man know of these words, and you shall not die"** (v24) — Hebrew אִישׁ אַל־יֵדַע, a jussive.
+- **"Declare unto us now what thou hast said unto the king, hide it not from us, and we will not put thee to death; also what the king said unto thee" → "Tell us, please, what you have spoken to the king — do not hide it from us, and we will not put you to death — and what the king has spoken to you"** (v25) — Hebrew הַגִּידָה־נָּא; דִּבֶּר "speak" twice; אַל־תְּכַחֵד מִמֶּנּוּ, literally "do not hide from us" ("it" supplied: English needs an object); the Hebrew order kept.
+- **"I presented my supplication before the king, that he would not cause me to return to Jonathan's house, to die there" → "I was laying my plea for favor before the king, that he would not make me return to the house of Jonathan, to die there"** (v26) — Hebrew מַפִּיל אֲנִי תְחִנָּתִי, a participle, literally "I was making my plea for favor fall" (as 37:20); לְבִלְתִּי הֲשִׁיבֵנִי "so as not to make me return".
+- **"and he told them according to all these words that the king had commanded. So they left off speaking with him; for the matter was not perceived" → "… and he told them according to all these words that the king had commanded. And they were silent from him, for the matter had not been heard"** (v27) — Hebrew וַיַּחֲרִשׁוּ מִמֶּנּוּ, literally "and they were silent from him" (הֶחֱרִישׁ מִן, as 1 Sam 7:8): they left off; כִּי לֹא־נִשְׁמַע הַדָּבָר "for the matter was not heard".
+- **"until the day that Jerusalem was taken: and he was there when Jerusalem was taken" → "until the day that Jerusalem was captured. And it came to pass, when Jerusalem was captured —"** (v28) — Hebrew לָכַד nifal "be captured"; the last words, וְהָיָה כַּאֲשֶׁר נִלְכְּדָה יְרוּשָׁלִָם, "and it came to pass, when Jerusalem was captured", open a sentence that 39:1–2 interrupt and 39:3 completes ("all the princes of the king of Babylon came"); "he was there" is not written. The Hebrew marks a paragraph break inside the verse, before these words.
 
 ### Notes
-- **Ebed-Melech** — Gentile Kushite eunuch, the hero who rescues Jeremiah from the cistern.
+
+- **Ebed-melech** — a Cushite eunuch in the king's house, who brings Jeremiah up from the pit (also 39:15–18).

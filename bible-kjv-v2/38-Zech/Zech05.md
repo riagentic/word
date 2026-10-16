@@ -1,28 +1,38 @@
 # Zechariah 5
 
-[1] Again I lifted my eyes and saw, and behold, a flying scroll!
+[1] And I returned and lifted up my eyes and saw, and behold, a flying scroll.
 
-[2] And he said to me, "What do you see?" I answered, "I see a flying scroll. Its length is twenty cubits, and its width ten cubits."
+[2] And he said to me, "What are you seeing?" And I said, "I am seeing a flying scroll; its length twenty cubits, and its breadth ten cubits."
 
-[3] Then he said to me, "This is the curse that goes out over the face of the whole land. For everyone who steals shall be cleaned out according to what is on one side, and everyone who swears falsely shall be cleaned out according to what is on the other side.
+[3] And he said to me, "This is the curse that is going out over the face of all the land; for everyone who steals has been clear from here, according to it, and everyone who swears has been clear from here, according to it.
 
-[4] I will send it out, declares ⟦yhwh|Yahweh|the LORD⟧ of Hosts, and it shall enter the house of the thief, and the house of him who swears falsely by my name. And it shall remain in his house and consume it, both timber and stones."
+[4] I have brought it out, declares ⟦yhwh|Yahweh|the LORD⟧ of Hosts, and it shall come into the house of the thief and into the house of him who swears by my name to falsehood; and it shall lodge in the midst of his house and make an end of it, both its timber and its stones."
 
-[5] Then the messenger who talked with me came forward and said to me, "Lift your eyes and see what this is that is going out."
+[5] And the angel who spoke with me went out and said to me, "Lift up, please, your eyes and see what this is that is going out."
 
-[6] And I said, "What is it?" He said, "This is the ephah that is going out." And he said, "This is their iniquity in all the land."
+[6] And I said, "What is it?" And he said, "This is the ephah that is going out." And he said, "This is their eye in all the land."
 
-[7] And behold, the leaden cover was lifted, and there was a woman sitting in the ephah!
+[7] And behold, a talent of lead was lifted up; and this was one woman sitting in the midst of the ephah.
 
-[8] And he said, "This is ⟦rishah|Rishah — Wickedness|Wickedness⟧." And he thrust her back into the ephah, and thrust down the leaden weight on its opening.
+[8] And he said, "This is ⟦rishah|Rishah|Wickedness⟧." And he threw her into the midst of the ephah, and he threw the stone of lead upon its mouth.
 
-[9] Then I lifted my eyes and saw, and behold, two women coming forward! The wind was in their wings. They had wings like the wings of a stork, and they lifted up the ephah between earth and heaven.
+[9] And I lifted up my eyes and saw, and behold, two women going out, and wind in their wings; and they had wings like the wings of the stork; and they lifted up the ephah between the earth and the heavens.
 
-[10] Then I said to the messenger who talked with me, "Where are they taking the ephah?"
+[10] And I said to the angel who spoke with me, "Where are they taking the ephah?"
 
-[11] He said to me, "To the land of Shinar, to build a house for it. And when this is prepared, they will set the ephah down there on its base."
+[11] And he said to me, "To build for it a house in the land of Shinar; and it shall be made ready, and it shall be set down there upon its base."
 
 ## Changes
 
-- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton יְהוָה rendered directly.
-- **"LORD of hosts" → "Yahweh of Hosts"** (v4) — Hebrew יְהוָה צְבָאוֹת *Yahweh Tzeva'ot*; the military-covenantal divine title preserved.
+- **"LORD" → "Yahweh"** (v4) — Tetragrammaton יְהוָה preserved. **"LORD of hosts" → "Yahweh of Hosts"** (v4) — the prophets' formula row; נְאֻם "declares".
+- **"Then I turned, and lifted up mine eyes, and looked" → "And I returned and lifted up my eyes and saw"** (v1) — וָאָשׁוּב וָאֶשָּׂא … וָאֶרְאֶה, שׁוּב with a second verb (the שׁוּב row: "return and …", = again; as 4:1). **"a flying roll" → "a flying scroll"** — מְגִלָּה "scroll" (its row); עָפָה, a participle "flying" (also v2).
+- **"What seest thou? And I answered, I see" → "What are you seeing? And I said, I am seeing"** (v2) — רֹאֶה twice, a participle; וָאֹמַר "And I said". **"the length thereof is twenty cubits" → "its length twenty cubits"** — no verb in the Hebrew; בָּאַמָּה, literally "by the cubit" (numbers row).
+- **"This is the curse that goeth forth over the face of the whole earth" → "This is the curse that is going out over the face of all the land"** (v3) — אָלָה "curse" (its row); הַיּוֹצֵאת, a participle (also v5, 6, 9 "going out"); אֶרֶץ "land" here (the curse comes into houses in it, v4; "earth" also possible: the אֶרֶץ row; also v6). **"for every one that stealeth shall be cut off as on this side according to it; and every one that sweareth shall be cut off as on that side according to it" → "for everyone who steals has been clear from here, according to it, and everyone who swears has been clear from here, according to it"** — נִקָּה twice, a nifal perfect of the נָקָה "be clear" row: "has been clear" = has gone unpunished until now (so the curse now goes out); or, with a future sense of the perfect, "shall be purged out from here". מִזֶּה … מִזֶּה "from here … from here" (or "on this side … on that side" of the scroll); כָּמוֹהָ "according to it" (the curse, or the writing). Both readings named; the verse keeps the words. הַנִּשְׁבָּע "who swears" (the Hebrew adds "falsely" only in v4).
+- **"I will bring it forth" → "I have brought it out"** (v4) — הוֹצֵאתִיהָ, a perfect (the הוֹצִיא row). **"it shall enter into the house" → "it shall come into the house"** — וּבָאָה, a weqatal (בּוֹא "come"). **"him that sweareth falsely by my name" → "him who swears by my name to falsehood"** — לַשָּׁקֶר, the שֶׁקֶר "falsehood" row (as Lev 19:12). **"and it shall remain in the midst of his house, and shall consume it with the timber thereof and the stones thereof" → "and it shall lodge in the midst of his house and make an end of it, both its timber and its stones"** — וְלָנֶה, from לוּן "lodge (spend the night)"; וְכִלַּתּוּ, the כִּלָּה piel row ("make an end of"; "consume" is אָכַל); עֵצָיו "its timber" (literally "its wood"), וְאֶת … וְאֶת "both … and".
+- **"Then the angel that talked with me went forth" → "And the angel who spoke with me went out"** (v5) — וַיֵּצֵא, the same verb as the scroll's and the ephah's "going out" (v3, 6). **"Lift up now thine eyes" → "Lift up, please, your eyes"** — שָׂא נָא, נָא "please".
+- **"This is an ephah that goeth forth" → "This is the ephah that is going out"** (v6) — הָאֵיפָה with the article; אֵיפָה "ephah" (its row: a measure of grain, here the vessel that holds it; about 22 litres, uncertain). **"This is their resemblance through all the earth" → "This is their eye in all the land"** — Hebrew עֵינָם, "their eye", as printed (the עַיִן "look" row: "eye", also "appearance"; Num 11:7). The Greek has "their iniquity", reading עֲוֹנָם (one letter different; from memory), followed by many versions; the MT is kept, and whose eye ("their": the people of the land, or the thieves and swearers of v3–4) is not said.
+- **"And, behold, there was lifted up a talent of lead: and this is a woman that sitteth in the midst of the ephah" → "And behold, a talent of lead was lifted up; and this was one woman sitting in the midst of the ephah"** (v7) — כִּכַּר עֹפֶרֶת, the כִּכָּר "talent" row (literally "a round": here the round lead lid, a weight; עֹפֶרֶת "lead", its row); נִשֵּׂאת, a participle; וְזֹאת "and this"; אִשָּׁה אַחַת "one woman"; יוֹשֶׁבֶת "sitting" (the יָשַׁב row).
+- **"This is wickedness" → "This is Rishah"** (v8) — הָרִשְׁעָה, "the wickedness" (the רִשְׁעָה row "wickedness"), with the article: wickedness pictured as the woman; the token `rishah` of the earlier text is kept, without the gloss inside it. **"And he cast it into the midst of the ephah; and he cast the weight of lead upon the mouth thereof" → "And he threw her into the midst of the ephah, and he threw the stone of lead upon its mouth"** — הִשְׁלִיךְ twice, "throw" (its row); אֹתָהּ "her" (the woman); אֶבֶן הָעֹפֶרֶת "the stone of lead" (the אֶבֶן "weight" row: literally "stone"); פִּיהָ "its mouth" (the opening of the ephah).
+- **"Then lifted I up mine eyes, and looked, and, behold, there came out two women, and the wind was in their wings" → "And I lifted up my eyes and saw, and behold, two women going out, and wind in their wings"** (v9) — יוֹצְאוֹת a participle; וְרוּחַ "and wind", no article and no verb (the רוּחַ row: "wind" by sense). **"for they had wings like the wings of a stork" → "and they had wings like the wings of the stork"** — וְלָהֵנָּה "and to them" ("for" is not in the Hebrew); הַחֲסִידָה "the stork" (the Lev 11 birds row; the article of a kind). **"between the earth and the heaven" → "between the earth and the heavens"** — בֵּין … וּבֵין (the הִבְדִּיל row: "between … and between"); הַשָּׁמַיִם (its row).
+- **"Whither do these bear the ephah?" → "Where are they taking the ephah?"** (v10) — מוֹלִכוֹת, the hifil of הָלַךְ (the הוֹלִיךְ row "make walk": here of carrying a thing, "take"; literally "make go").
+- **"To build it an house in the land of Shinar: and it shall be established, and set there upon her own base" → "To build for it a house in the land of Shinar; and it shall be made ready, and it shall be set down there upon its base"** (v11) — לָהּ "for it" (feminine: the ephah, or the woman in it); שִׁנְעָר, the old name of Babylonia (Gen 10:10; 11:2); וְהוּכַן, hofal of כּוּן "be made ready, be established"; וְהֻנִּיחָה, hofal of the הִנִּיחַ row ("set down"); מְכֻנָתָהּ, a noun of the same root as וְהוּכַן, "its base" (as מְכוֹנָה, the bases of 1 Kgs 7:27; here the base of a cult image).

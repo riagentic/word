@@ -1,84 +1,104 @@
 # Genesis 6
 
-[1] When humankind began to multiply on the face of the ground, and daughters were born to them,
+[1] And it came to pass, when man began to multiply on the face of the ground, and daughters were born to them,
 
-[2] the sons of ⟦elohim|Elohim|God⟧ saw that the daughters of humankind were good, and they took for themselves wives of all that they chose.
+[2] that the sons of ⟦elohim|Elohim|God⟧ saw the daughters of man, that they were good; and they took for themselves wives from all whom they chose.
 
-[3] Then ⟦yhwh|Yahweh|the LORD⟧ said, "My Spirit shall not contend with humankind forever, since he is indeed flesh; his days shall be 120 years."
+[3] And ⟦yhwh|Yahweh|the LORD⟧ said, "My spirit shall not strive with man forever, in that he also is flesh; and his days shall be a hundred and twenty years."
 
-[4] The ⟦nephilim|Nefilim|Nephilim⟧ were on the earth in those days — and also afterward — when the sons of ⟦elohim|Elohim|God⟧ came in to the daughters of humankind, and they bore children to them. These were the mighty warriors of old, the men of renown.
+[4] The ⟦nephilim|Nefilim|Nephilim⟧ were on the earth in those days, and also afterward, when the sons of ⟦elohim|Elohim|God⟧ would come in to the daughters of man, and they bore to them; these were the mighty ones who were from of old, the men of name.
 
-[5] ⟦yhwh|Yahweh|The LORD⟧ saw that the wickedness of humankind was great on the earth, and that every inclination of the thoughts of his heart was only evil continually.
+[5] And ⟦yhwh|Yahweh|the LORD⟧ saw that the evil of man was great on the earth, and that every inclination of the thoughts of his heart was only evil all the day.
 
-[6] And ⟦yhwh|Yahweh|the LORD⟧ was sorry that he had made humankind on the earth, and it grieved him to his heart.
+[6] And ⟦yhwh|Yahweh|the LORD⟧ was sorry that he had made man on the earth, and he was grieved to his heart.
 
-[7] So ⟦yhwh|Yahweh|the LORD⟧ said, "I will wipe humankind, whom I created, from the face of the ground — humans, livestock, creeping things, and birds of the heavens — for I am sorry that I made them."
+[7] And ⟦yhwh|Yahweh|the LORD⟧ said, "I will wipe out man, whom I have created, from the face of the ground, from man to beast, to creeping thing and to the birds of the heavens, for I am sorry that I have made them."
 
 [8] But ⟦noah|Noach|Noah⟧ found favor in the eyes of ⟦yhwh|Yahweh|the LORD⟧.
 
-[9] These are the generations of ⟦noah|Noach|Noah⟧. ⟦noah|Noach|Noah⟧ was a righteous man, blameless in his generations; ⟦noah|Noach|Noah⟧ walked with ⟦elohim|Elohim|God⟧.
+[9] These are the generations of ⟦noah|Noach|Noah⟧. ⟦noah|Noach|Noah⟧ was a righteous man, blameless in his generations; with ⟦elohim|Elohim|God⟧ ⟦noah|Noach|Noah⟧ walked.
 
-[10] ⟦noah|Noach|Noah⟧ fathered three sons, Shem, ⟦ham|Cham|Ham⟧, and ⟦japheth|Yefet|Japheth⟧.
+[10] And ⟦noah|Noach|Noah⟧ begot three sons: Shem, ⟦ham|Cham|Ham⟧ and ⟦japheth|Yefet|Japheth⟧.
 
-[11] The earth was corrupt before ⟦elohim|Elohim|God⟧, and the earth was filled with violence.
+[11] And the earth was ruined before ⟦elohim|Elohim|God⟧, and the earth was filled with violence.
 
-[12] ⟦elohim|Elohim|God⟧ saw the earth, and behold, it was corrupt, for all flesh had corrupted its way on the earth.
+[12] And ⟦elohim|Elohim|God⟧ saw the earth, and behold, it was ruined, for all flesh had ruined its way on the earth.
 
-[13] And ⟦elohim|Elohim|God⟧ said to ⟦noah|Noach|Noah⟧, "The end of all flesh has come before me, for the earth is filled with violence because of them. Look, I am going to destroy them, along with the earth.
+[13] And ⟦elohim|Elohim|God⟧ said to ⟦noah|Noach|Noah⟧, "The end of all flesh has come before me, for the earth is filled with violence because of them; and behold, I am ruining them with the earth.
 
-[14] Make yourself an ark of gopher wood. Make compartments in the ark, and cover it inside and out with pitch.
+[14] Make for yourself an ark of gopher wood; with compartments you shall make the ark, and you shall pitch it inside and outside with pitch.
 
-[15] This is how you shall make it: the length of the ark 300 cubits, its width 50 cubits, and its height 30 cubits.
+[15] And this is how you shall make it: three hundred cubits the length of the ark, fifty cubits its breadth, and thirty cubits its height.
 
-[16] Make a roof for the ark, and finish it to within a cubit from above. Set the door of the ark in its side; make it with lower, second, and third decks.
+[16] A roof you shall make for the ark, and to a cubit you shall finish it above; and the entrance of the ark you shall set in its side; with lower, second and third decks you shall make it.
 
-[17] And I, behold I, am bringing the flood of waters on the earth, to destroy all flesh in which is the breath of life from under the heavens; everything on the earth shall perish.
+[17] And I, behold, I am bringing the flood, waters upon the earth, to ruin all flesh in which is the spirit of life from under the heavens; all that is on the earth shall expire.
 
-[18] But I will establish my covenant with you, and you shall come into the ark — you, your sons, your wife, and your sons' wives with you.
+[18] And I will establish my covenant with you; and you shall come into the ark, you and your sons and your wife and your sons' wives with you.
 
-[19] Of every living thing, of all flesh, you shall bring two of every kind into the ark to keep them alive with you; they shall be male and female.
+[19] And of all that lives, of all flesh, two of all you shall bring into the ark, to keep alive with you; male and female they shall be.
 
-[20] Of the birds according to their kinds, of the livestock according to their kinds, of every creeping thing of the ground according to its kind — two of every kind shall come to you to be kept alive.
+[20] Of the birds after their kind, and of the beasts after their kind, of every creeping thing of the ground after its kind, two of all shall come to you, to keep alive.
 
-[21] And take for yourself every kind of food that is eaten, and gather it to yourself; it shall be food for you and for them."
+[21] And you, take for yourself of all food that is eaten, and gather it to yourself; and it shall be for you and for them for food."
 
-[22] So ⟦noah|Noach|Noah⟧ did this; he did all that ⟦elohim|Elohim|God⟧ commanded him.
+[22] And ⟦noah|Noach|Noah⟧ did so; according to all that ⟦elohim|Elohim|God⟧ commanded him, so he did.
 
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
-- **"men" → "humankind"** (v1, 2, 3, 4, 5, 6, 7) — Hebrew אָדָם *adam* (collective). Covers both sexes here (v1 explicitly includes daughters).
-- **"sons of God" → "sons of *Elohim*"** (v2, 4) — Hebrew בְּנֵי הָאֱלֹהִים *bene ha-Elohim*. Identity debated:
-  1. Divine beings / angels — oldest reading (1 Enoch, LXX in some MSS has *angeloi tou theou*, Jude 6, 2 Pet 2:4). "Sons of *Elohim*" elsewhere (Job 1:6, 2:1, 38:7) denotes members of the divine council.
+- **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*; in v2, 4, 9, 11 with the article, הָאֱלֹהִים.
+- **"men" → "man"** (v1–7) — Hebrew הָאָדָם *ha-adam*, "man" as a kind, a singular with the article ("them" in v1 and "he … his" in v3, 5 are the Hebrew's own numbers). אִישׁ "man" stands in v9 (a righteous man) and v4 (אַנְשֵׁי "men of").
+- **"And it came to pass … that"** (v1–2) — Hebrew וַיְהִי כִּי … וַיִּרְאוּ; the opening is kept.
+- **"sons of God" → "sons of *Elohim*"** (v2, 4) — Hebrew בְּנֵי הָאֱלֹהִים *bene ha-Elohim*, word for word. Identity debated:
+  1. Divine beings / angels — oldest reading (1 Enoch, Jude 6, 2 Pet 2:4). "Sons of *Elohim*" elsewhere (Job 1:6, 2:1, 38:7) denotes members of the divine council.
   2. Sethite line intermarrying with Cainite line (Augustine, Calvin; harmonizing with genealogy).
   3. Royal / ruling class ("sons of the mighty"; rabbinic reading).
-  Most natural reading of the Hebrew, and the reading of earliest Jewish interpreters, is #1. Translation preserves the phrase literally; readers pick their interpretation.
-- **"fair" → "good"** (v2) — Hebrew טֹבֹת *tovot* = good / desirable. Not specifically "fair" (beautiful) in modern sense; the word covers both attractiveness and general approbation. Same root as the "good" repeatedly spoken in Gen 1.
-- **"My spirit shall not always strive with man" → "My Spirit shall not contend with humankind forever"** (v3) — Hebrew לֹא־יָדוֹן רוּחִי בָאָדָם לְעֹלָם *lo-yadon ruchi ba-adam le-olam*. The verb יָדוֹן is rare; could be:
-  1. From דִּין *din* = "contend / judge" (traditional).
-  2. From some conjectured root = "remain / abide" (LXX *katameinē*: "remain").
-  Both plausible; rendered with "contend" following MT's likely pointing.
-- **"for that he also is flesh" → "since he is indeed flesh"** (v3) — Hebrew בְּשַׁגַּם הוּא בָשָׂר *be-shaggam hu basar* — obscure phrase. Traditional: "since he is indeed flesh." Some read *be-shaggam* as "in their erring" (from *shagag* "to stray"). Traditional rendering kept.
-- **"giants" → "Nephilim"** (v4) — Hebrew נְפִלִים *Nephilim*. Meaning uncertain; possibly from root נפל "to fall" ("fallen ones") or a loanword. LXX γίγαντες ("giants") → KJV "giants." But "giants" is an interpretation, not a translation; the Hebrew word is a proper name or class-name. Preserved as "Nephilim."
-- **"mighty men" → "mighty warriors"** (v4) — Hebrew הַגִּבֹּרִים *ha-gibborim*. Heroes / warriors / champions — the term used for legendary fighters.
-- **"imagination" → "inclination"** (v5) — Hebrew יֵצֶר *yetser* = formed thing / inclination / impulse. In rabbinic usage, the *yetser* of the heart is the moral inclination (*yetser ha-ra* = evil inclination; *yetser ha-tov* = good inclination). "Imagination" in modern English suggests creativity or fantasy — wrong register.
-- **"it repented the LORD" → "Yahweh was sorry"** (v6, 7) — Hebrew וַיִּנָּחֶם יְהוָה *wa-yinnachem Yahweh*. Niphal of נָחַם *nacham* = to regret / be grieved / change one's mind. "Repent" in modern English means to turn from sin, which is not what Yahweh does here. The text depicts genuine divine grief and change of intent. (Same root and wordplay with Noah's name in 5:29: *Noach / nacham*.)
-- **"it grieved him at his heart" → "it grieved him to his heart"** (v6) — Hebrew וַיִּתְעַצֵּב אֶל־לִבּוֹ. The verb is *ats'av* (pain / grieve) — same root as the pain imposed on the woman (3:16) and the human (3:17). Deliberate echo: the pain of creation now falls on the creator.
-- **"I will destroy" → "I will wipe"** (v7) — Hebrew אֶמְחֶה *emcheh* = wipe out / blot out. A wiping-away metaphor, appropriate to the flood imagery about to unfold.
-- **"creeping thing, and the fowls of the air" → "creeping things, and birds of the heavens"** (v7) — see Gen 1 vocabulary.
-- **"grace" → "favor"** (v8) — Hebrew חֵן *chen*. *Chen* = favor / graciousness shown by a superior. "Grace" in English carries heavy theological freight (unmerited redemption) not necessarily in *chen*. "Favor" is neutral and more accurate.
-- **"just… perfect in his generations" → "righteous, blameless in his generations"** (v9) — Hebrew צַדִּיק תָּמִים *tsaddiq tamim*. *Tsaddiq* = righteous (in right relationship / conduct). *Tamim* = whole / complete / without blemish (used of sacrificial animals) — "blameless" or "of integrity," not "perfect" in the philosophical sense.
-- **"walked with God" → "walked with *Elohim*"** (v9) — see 5:22, 24.
-- **"ark of gopher wood" (v14)** — Hebrew תֵּבַת־גֹּפֶר *tevat-gopher*. *Tevah* = box / chest / ark (same word for Moses' basket, Ex 2:3). *Gopher* unidentified — possibly cypress or a now-unknown wood. Preserved.
-- **"rooms" → "compartments"** (v14) — Hebrew קִנִּים *qinnim*, literally "nests." Used here for the internal divisions / cells of the ark.
-- **"pitch it within and without with pitch" → "cover it inside and out with pitch"** (v14) — Hebrew כָּפַר *kaphar* (denominative verb "to pitch / cover") with cognate accusative כֹּפֶר *kopher* (pitch / bitumen). Same root as later *kippur* / "atonement" (covering). Literally "you shall cover it with a covering."
-- **"a window… and in a cubit shalt thou finish it above" → "Make a roof for the ark, and finish it to within a cubit from above"** (v16) — Hebrew צֹהַר *tsohar* — obscure; only here in this sense. Could mean "opening / window" or "roof / light-hole." Ambiguous; rendered with "roof" since the completion "within a cubit from above" implies a sloping roof with an opening beneath. KJV "window" is one possibility; the Hebrew is genuinely unclear.
-- **"stories" → "decks"** (v16) — Hebrew תַּחְתִּיִּם שְׁנִיִּם וּשְׁלִשִׁים *tachtiyyim sheniyyim u-shlishim* = lower, second, and third. "Stories" in modern English is ambiguous (narratives); "decks" is more precise for a ship.
-- **"fowls after their kind" → "birds according to their kinds"** (v20) — see Gen 1 vocabulary.
+  The translation keeps the phrase literally and does not decide.
+- **"fair" → "good"** (v2) — Hebrew טֹבֹת *tovot* = good. The same word as the "good" repeatedly spoken in Gen 1; the sentence has the form of Gen 1 ("saw … that it was good").
+- **"of all which they chose" → "from all whom they chose"** (v2) — Hebrew מִכֹּל אֲשֶׁר בָּחָרוּ, "from all" / "out of all".
+- **"My spirit shall not always strive with man" → "My spirit shall not strive with man forever"** (v3) — Hebrew לֹא־יָדוֹן רוּחִי בָאָדָם לְעֹלָם. The verb יָדוֹן is found only here and its meaning is uncertain:
+  1. From דִּין *din* = "judge / strive at law" (so the pointing is commonly taken): "strive with", "judge in".
+  2. "Remain / abide in" (the reading of the old Greek and Latin versions, from memory; no known Hebrew root gives it).
+  The verse follows 1. בָאָדָם is literally "in man". רוּחִי is "my spirit" or "my breath" (the one word רוּחַ, as "the spirit of life" in v17); no capital, since the Hebrew does not say which.
+- **"for that he also is flesh" → "in that he also is flesh"** (v3) — Hebrew בְּשַׁגַּם הוּא בָשָׂר, uncertain. As pointed it is בְּ + שֶׁ + גַּם, "in that also" (a form of "which" otherwise found in late Hebrew). Others read an infinitive of שָׁגַג "go astray": "in their going astray he is flesh". The pointed text is kept. "Indeed" would drop גַּם "also".
+- **"an hundred and twenty years"** (v3) — מֵאָה וְעֶשְׂרִים שָׁנָה; numbers are written in words, in the ordinary English order.
+- **"giants" → "Nephilim"** (v4) — Hebrew הַנְּפִלִים. Meaning uncertain; possibly from נפל "to fall" ("fallen ones"). "Giants" (so the Septuagint, from memory, and KJV) is an interpretation; the Hebrew word is kept. Elsewhere only Num 13:33.
+- **"when … came in" → "when … would come in"** (v4) — Hebrew אֲשֶׁר יָבֹאוּ, an imperfect: a repeated or continuing act. The Hebrew does not say whether the Nephilim are the children of these unions; the verse leaves it as it stands.
+- **"they bare children to them" → "they bore to them"** (v4) — Hebrew וְיָלְדוּ לָהֶם; no object.
+- **"mighty men" → "mighty ones"** (v4) — Hebrew הַגִּבֹּרִים *ha-gibborim*, from גָּבַר "be strong, prevail" (7:18); the word of 10:8–9.
+- **"men of renown" → "the men of name"** (v4) — Hebrew אַנְשֵׁי הַשֵּׁם, literally "the men of the name": men who had a name, famous men.
+- **"wickedness" → "evil"** (v5) — Hebrew רָעַת … רַע, one root twice in the verse.
+- **"imagination" → "inclination"** (v5) — Hebrew יֵצֶר *yetser*, from יָצַר "form" (2:7): what the thoughts of the heart form. "Imagination" in modern English suggests fantasy.
+- **"continually" → "all the day"** (v5) — Hebrew כָּל־הַיּוֹם.
+- **"it repented the LORD" → "Yahweh was sorry"** (v6, 7) — Hebrew וַיִּנָּחֶם יְהוָה, nifal of נָחַם = to be sorry, to regret. "Repent" in modern English means to turn from sin. (The same root as in the saying on Noah's name, 5:29.)
+- **"it grieved him at his heart" → "he was grieved to his heart"** (v6) — Hebrew וַיִּתְעַצֵּב אֶל־לִבּוֹ; the subject is Yahweh. The root עצב is that of the "pain" of 3:16, 17.
+- **"I will destroy" → "I will wipe out"** (v7) — Hebrew אֶמְחֶה = wipe away, blot out (also 7:4, 23).
+- **"both man, and beast" → "from man to beast, to creeping thing and to the birds"** (v7) — Hebrew מֵאָדָם עַד־בְּהֵמָה עַד־רֶמֶשׂ וְעַד־עוֹף. בְּהֵמָה is "beast", the four-footed animals.
+- **"grace" → "favor"** (v8) — Hebrew חֵן *chen* = favor shown by a superior.
+- **"just… perfect in his generations" → "righteous, blameless in his generations"** (v9) — Hebrew צַדִּיק תָּמִים. *Tamim* = whole / complete / without blemish (used of sacrificial animals). The two "generations" of the verse are two Hebrew words: תּוֹלְדֹת *toledot* ("begettings", the heading formula of Genesis) and דֹּרֹת *dorot* (the generations of men among whom he lived).
+- **"Noah walked with God" → "with *Elohim* Noah walked"** (v9) — the Hebrew order, אֶת־הָאֱלֹהִים first; see 5:22, 24.
+- **"begat" → "begot"** (v10) — Hebrew וַיּוֹלֶד.
+- **"corrupt … corrupted … destroy" → "ruined … ruin"** (v11, 12, 13, 17) — one Hebrew verb, שָׁחַת, five times: the earth was ruined (nifal), all flesh had ruined its way (hifil), and *Elohim* ruins them (hifil, piel). KJV's two words hide the correspondence.
+- **"through them" → "because of them"** (v13) — Hebrew מִפְּנֵיהֶם, literally "from their face".
+- **"I will destroy them with the earth" → "I am ruining them with the earth"** (v13) — Hebrew הִנְנִי מַשְׁחִיתָם, a participle; אֶת־הָאָרֶץ "with the earth".
+- **"ark of gopher wood"** (v14) — Hebrew תֵּבַת עֲצֵי־גֹפֶר. *Tevah* = box / chest (the word for the basket of Moses, Exod 2:3). *Gopher* is found only here; what wood it is is not known, so the word is kept. Literally "of timbers of gopher".
+- **"rooms" → "compartments"** (v14) — Hebrew קִנִּים *qinnim*, literally "nests"; "with" is supplied (the Hebrew sets "nests" beside "the ark").
+- **"pitch it … with pitch"** (v14) — Hebrew וְכָפַרְתָּ … בַּכֹּפֶר, verb and noun of one root, kept as in KJV. Both are found only here in this sense.
+- **"a window… and in a cubit shalt thou finish it above" → "A roof you shall make for the ark, and to a cubit you shall finish it above"** (v16) — Hebrew צֹהַר *tsohar*, found only here; meaning uncertain: "roof" (so most modern lexicons) or "light, window" (so KJV, from the word for noon). "It" in "finish it" is feminine in Hebrew and so is the ark, not the *tsohar*; what the cubit measures is not said.
+- **"door" → "entrance"** (v16) — Hebrew פֶּתַח, the opening; דֶּלֶת "door" is another word.
+- **"stories" → "decks"** (v16) — Hebrew תַּחְתִּיִּם שְׁנִיִּם וּשְׁלִשִׁים, only "lower, second and third (ones)"; the noun is supplied.
+- **"a flood of waters" → "the flood, waters upon the earth"** (v17) — Hebrew אֶת־הַמַּבּוּל מַיִם, "the flood" with "waters" set beside it.
+- **"breath of life" → "spirit of life"** (v17) — Hebrew רוּחַ חַיִּים; רוּחַ is spirit / breath / wind. "Breath of life" in 2:7 is another word (נְשָׁמָה); both stand together in 7:22.
+- **"shall die" → "shall expire"** (v17) — Hebrew יִגְוָע, breathe one's last; "die" (מוּת) is another word (7:21, 22).
+- **"two of every sort" → "two of all"** (v19, 20) — Hebrew שְׁנַיִם מִכֹּל; no word for "sort".
+- **"of every living thing" → "of all that lives"** (v19) — Hebrew מִכָּל־הָחַי, "of all the living".
+- **"to keep them alive" → "to keep alive"** (v19, 20) — Hebrew לְהַחֲיֹת, an infinitive without an object.
+- **"fowls after their kind" → "birds after their kind"** (v20) — Hebrew לְמִינֵהוּ, literally "after its kind" each time.
+- **"Thus did Noah" → "And Noah did so; according to all … so he did"** (v22) — the Hebrew order.
 
 ### Notes
 
-- **"sons of *Elohim* / Nephilim" (v2–4)** — this is the densest interpretive puzzle in Genesis. Cross-references: Job 1:6, 2:1, 38:7 (divine council); Num 13:33 (post-flood Nephilim as giants); 1 Enoch 6–11 (Watchers narrative); 2 Pet 2:4, Jude 6 (angels who sinned, pre-flood). The text is compact and suggestive rather than expository. Translation deliberately preserves the original terms to avoid prejudging.
+- **"sons of *Elohim* / Nephilim" (v2–4)** — this is the densest interpretive puzzle in Genesis. Cross-references: Job 1:6, 2:1, 38:7 (divine council); Num 13:33 (Nephilim after the flood); 1 Enoch 6–11 (Watchers narrative); 2 Pet 2:4, Jude 6 (angels who sinned). The text is compact and suggestive rather than expository. Translation deliberately preserves the original terms to avoid prejudging.
 - **Two flood accounts interwoven** — Gen 6–9 interleaves two recensions (traditional source criticism: J and P), evident from doubled details (different animal counts — pairs in 6:19 vs. sevens of clean animals in 7:2; two different names for God — Yahweh and *Elohim* — alternating). Translation renders as it stands.
-- **"breath of life" (v17)** — Hebrew רוּחַ חַיִּים *ruach chayyim*. Parallel to the *nishmat chayyim* breathed into the human in 2:7. All land animals share in the same animating breath.
+- **"spirit of life" (v17)** — Hebrew רוּחַ חַיִּים *ruach chayyim*, beside the *nishmat chayyim* breathed into the man in 2:7. All flesh shares the same animating breath.

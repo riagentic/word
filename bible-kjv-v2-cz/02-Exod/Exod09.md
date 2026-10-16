@@ -1,90 +1,116 @@
 # Exodus 9
 
-[1] Tu ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Vejdi k ⟦pharaoh|Parohovi|faraónovi⟧ a řekni mu: ‚Toto praví ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦hebrews|Ivrim|Hebrejů⟧: Propusť můj lid, aby mi sloužil.
+[1] A ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Vejdi k ⟦pharaoh|Parohovi|faraónovi⟧ a promluvíš k němu: ‚Toto praví ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦hebrews|Ivrim|Hebrejů⟧: Propusť můj lid, ať mi slouží.
 
-[2] Neboť jestliže je odmítneš propustit a budeš je dál zadržovat,
+[2] Neboť odmítáš-li je propustit a ještě je pevně držíš,
 
-[3] hle, ruka ⟦yhwh|Jahveho|Hospodina⟧ dopadne na tvůj dobytek, který je na poli – na koně, osly, velbloudy, skot i ovce – velmi těžký mor.
+[3] hle, ruka ⟦yhwh|Jahveho|Hospodinova⟧ je na tvém dobytku, který je na poli, na koních, na oslech, na velbloudech, na skotu a na bravu: velmi těžký mor.
 
-[4] Ale ⟦yhwh|Jahve|Hospodin⟧ učiní rozdíl mezi dobytkem ⟦israel|Jisraele|Izraele⟧ a dobytkem ⟦egypt|Micrajim|Egypta⟧ a nezahyne nic ze všeho, co patří synům ⟦israel|Jisraele|Izraele⟧.‘“
+[4] A ⟦yhwh|Jahve|Hospodin⟧ odliší dobytek ⟦israel|Jisraele|Izraele⟧ od dobytka ⟦egypt|Micrajim|Egypta⟧ a ze všeho, co patří synům ⟦israel|Jisraele|Izraele⟧, nezemře ani jedna věc.‘“
 
-[5] ⟦yhwh|Jahve|Hospodin⟧ stanovil určený čas a řekl: „Zítra ⟦yhwh|Jahve|Hospodin⟧ v této zemi učiní tuto věc.“
+[5] A ⟦yhwh|Jahve|Hospodin⟧ stanovil určený čas se slovy: „Zítra ⟦yhwh|Jahve|Hospodin⟧ učiní tuto věc v zemi.“
 
-[6] Nazítří to ⟦yhwh|Jahve|Hospodin⟧ učinil: všechen dobytek ⟦egypt|Micrajim|Egypta⟧ pošel, ale z dobytka synů ⟦israel|Jisraele|Izraele⟧ nepošel ani jeden kus.
+[6] A ⟦yhwh|Jahve|Hospodin⟧ učinil tuto věc nazítří a všechen dobytek ⟦egypt|Micrajim|Egypta⟧ pomřel, a z dobytka synů ⟦israel|Jisraele|Izraele⟧ nezemřel ani jeden.
 
-[7] ⟦pharaoh|Paro|Farao⟧ poslal zjistit, a hle, z dobytka ⟦israel|Jisraele|Izraele⟧ nepošel ani jediný kus; ale ⟦pharaoh|Parohovo|faraónovo⟧ srdce bylo těžké a lid nepropustil.
+[7] A ⟦pharaoh|Paro|farao⟧ poslal, a hle, z dobytka ⟦israel|Jisraele|Izraele⟧ nezemřel ani jediný. A srdce ⟦pharaoh|Parohovo|faraónovo⟧ bylo těžké a nepropustil lid.
 
-[8] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧ a ⟦aaron|Aharonovi|Áronovi⟧: „Naberte si plné hrsti sazí z pece a ať je ⟦moses|Moše|Mojžíš⟧ před očima ⟦pharaoh|Paroha|faraóna⟧ rozhodí k nebesům.
+[8] A ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧ a ⟦aaron|Aharonovi|Áronovi⟧: „Vezměte si plné hrsti sazí z pece a ať je ⟦moses|Moše|Mojžíš⟧ rozhodí k nebesům před očima ⟦pharaoh|Paroha|faraóna⟧.
 
-[9] Stane se z nich jemný prach nad celou egyptskou zemí a na lidech i na dobytku po celé egyptské zemi z něj budou vředy propukající v hnisavé puchýře.“
+[9] A stanou se jemným prachem nad celou zemí ⟦egypt|Micrajim|Egypta⟧ a stanou se na člověku a na zvířeti vředy vyrážejícími v puchýře, v celé zemi ⟦egypt|Micrajim|Egyptě⟧.“
 
-[10] Vzali tedy saze z pece a postavili se před ⟦pharaoh|Paroha|faraóna⟧; ⟦moses|Moše|Mojžíš⟧ je rozhodil k nebesům a staly se z nich vředy propukající v hnisavé puchýře na lidech i na dobytku.
+[10] A vzali saze z pece a postavili se před ⟦pharaoh|Paroha|faraóna⟧ a ⟦moses|Moše|Mojžíš⟧ je rozhodil k nebesům a staly se vředy, vyrážejícími puchýři, na člověku a na zvířeti.
 
-[11] Věštečtí kněží nemohli pro vředy obstát před ⟦moses|Mošem|Mojžíšem⟧, neboť vředy byly na věšteckých kněžích stejně jako na všech ⟦egyptians|Micrim|Egypťanech⟧.
+[11] A kouzelníci nemohli stát před ⟦moses|Mošem|Mojžíšem⟧ kvůli vředům, neboť vředy byly na kouzelnících i na celém ⟦egypt|Micrajim|Egyptě⟧.
 
-[12] Ale ⟦yhwh|Jahve|Hospodin⟧ zatvrdil ⟦pharaoh|Parohovo|faraónovo⟧ srdce a neuposlechl je, jak ⟦yhwh|Jahve|Hospodin⟧ ⟦moses|Mošovi|Mojžíšovi⟧ řekl.
+[12] A ⟦yhwh|Jahve|Hospodin⟧ posilnil srdce ⟦pharaoh|Parohovo|faraónovo⟧ a nenaslouchal jim, jak ⟦yhwh|Jahve|Hospodin⟧ mluvil k ⟦moses|Mošovi|Mojžíšovi⟧.
 
-[13] Tu ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Vstaň časně ráno, postav se před ⟦pharaoh|Paroha|faraóna⟧ a řekni mu: ‚Toto praví ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦hebrews|Ivrim|Hebrejů⟧: Propusť můj lid, aby mi sloužil.
+[13] A ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Vstaň časně ráno a postav se před ⟦pharaoh|Paroha|faraóna⟧ a řekneš mu: ‚Toto praví ⟦yhwh|Jahve|Hospodin⟧, ⟦elohim|Elohim|Bůh⟧ ⟦hebrews|Ivrim|Hebrejů⟧: Propusť můj lid, ať mi slouží.
 
-[14] Neboť tentokrát pošlu všechny své rány na tvé srdce, na tvé služebníky i na tvůj lid – abys poznal, že na celé zemi není nikdo jako já.
+[14] Neboť tentokrát já posílám všechny své rány do tvého srdce a na tvé služebníky a na tvůj lid, abys poznal, že není nikdo jako já na celé zemi.
 
-[15] Vždyť už teď jsem mohl vztáhnout ruku a udeřit tebe i tvůj lid morem a byl bys vyhlazen ze země.
+[15] Neboť už jsem mohl vztáhnout ruku a udeřit tebe i tvůj lid morem, a byl bys vyhlazen ze země.
 
-[16] Ale právě proto jsem tě nechal stát: abych ti ukázal svou moc a aby mé jméno bylo rozhlašováno po celé zemi.
+[16] Avšak právě kvůli tomu jsem ti dal stát: kvůli tomu, abych ti ukázal svou sílu, a aby se o mém jménu vyprávělo po celé zemi.
 
-[17] Ještě stále se vyvyšuješ nad můj lid tím, že ho nepropouštíš.
+[17] Ještě se vyvyšuješ proti mému lidu tím, že je nepropouštíš.
 
-[18] Hle, zítra kolem této doby sešlu velmi těžké krupobití, jaké v ⟦egypt|Micrajim|Egyptě⟧ nebylo ode dne jeho založení až dosud.
+[18] Hle, zítra touto dobou dám pršet velmi těžké krupobití, jaké nebylo v ⟦egypt|Micrajim|Egyptě⟧ ode dne, kdy byl založen, až dosud.
 
-[19] Nyní tedy pošli a shromáždi svůj dobytek a všechno, co máš na poli; na každého člověka i každé zvíře, které se najde na poli a nebude přivedeno domů, dopadne krupobití a zemřou.‘“
+[19] A nyní pošli, dej do bezpečí svůj dobytek a všechno, co máš na poli. Každý člověk i zvíře, které se najde na poli a nebude shromážděno do domu, na ty sestoupí krupobití a zemřou.‘“
 
-[20] Kdo z ⟦pharaoh|Parohových|faraónových⟧ služebníků se bál slova ⟦yhwh|Jahveho|Hospodina⟧, rychle zahnal své služebníky a svůj dobytek do domů.
+[20] Kdo se ze služebníků ⟦pharaoh|Parohových|faraónových⟧ bál slova ⟦yhwh|Jahveho|Hospodinova⟧, dal svým otrokům a svému dobytku utéci do domů.
 
-[21] Kdo si však slovo ⟦yhwh|Jahveho|Hospodina⟧ nevzal k srdci, nechal své služebníky a svůj dobytek na poli.
+[21] A kdo nepřiložil své srdce ke slovu ⟦yhwh|Jahveho|Hospodinovu⟧, nechal své otroky a svůj dobytek na poli.
 
-[22] ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Vztáhni ruku k nebesům, ať je krupobití v celé egyptské zemi – na lidi, na dobytek i na každou polní rostlinu po egyptské zemi.“
+[22] A ⟦yhwh|Jahve|Hospodin⟧ řekl ⟦moses|Mošovi|Mojžíšovi⟧: „Vztáhni ruku k nebesům, ať je krupobití v celé zemi ⟦egypt|Micrajim|Egyptě⟧, na člověku a na zvířeti a na každé bylině pole v zemi ⟦egypt|Micrajim|Egyptě⟧.“
 
-[23] ⟦moses|Moše|Mojžíš⟧ vztáhl svou hůl k nebesům a ⟦yhwh|Jahve|Hospodin⟧ seslal hromy a krupobití a oheň sjížděl k zemi; a ⟦yhwh|Jahve|Hospodin⟧ dal pršet krupobití na egyptskou zemi.
+[23] A ⟦moses|Moše|Mojžíš⟧ vztáhl svou hůl k nebesům a ⟦yhwh|Jahve|Hospodin⟧ dal hromy a krupobití a oheň šel k zemi. A ⟦yhwh|Jahve|Hospodin⟧ dal pršet krupobití na zemi ⟦egypt|Micrajim|Egypta⟧.
 
-[24] Bylo krupobití a oheň v něm neustále šlehal, velmi těžké, jaké nikdy nebylo v celé egyptské zemi od chvíle, kdy se stala národem.
+[24] A bylo krupobití a oheň šlehající uprostřed krupobití, velmi těžké, jaké nebylo v celé zemi ⟦egypt|Micrajim|Egyptě⟧ od doby, kdy se stala národem.
 
-[25] Krupobití pobilo po celé egyptské zemi všechno, co bylo na poli, lidi i dobytek; krupobití pobilo každou polní rostlinu a polámalo každý polní strom.
+[25] A krupobití udeřilo v celé zemi ⟦egypt|Micrajim|Egyptě⟧ všechno, co bylo na poli, od člověka po zvíře, a každou bylinu pole krupobití udeřilo a každý strom pole roztříštilo.
 
-[26] Jedině v zemi Gošen, kde byli synové ⟦israel|Jisraele|Izraele⟧, krupobití nebylo.
+[26] Jen v zemi Gošen, kde byli synové ⟦israel|Jisraele|Izraele⟧, krupobití nebylo.
 
-[27] ⟦pharaoh|Paro|Farao⟧ poslal a zavolal ⟦moses|Moše|Mojžíše⟧ a ⟦aaron|Aharona|Árona⟧ a řekl jim: „Tentokrát jsem zhřešil. ⟦yhwh|Jahve|Hospodin⟧ je spravedlivý, a já i můj lid jsme svévolníci.
+[27] A ⟦pharaoh|Paro|farao⟧ poslal a zavolal ⟦moses|Moše|Mojžíše⟧ a ⟦aaron|Aharona|Árona⟧ a řekl jim: „Zhřešil jsem tentokrát. ⟦yhwh|Jahve|Hospodin⟧ je ten spravedlivý a já a můj lid jsme ti bezbožní.
 
-[28] Proste ⟦yhwh|Jahveho|Hospodina⟧ – vždyť už bylo dost ⟦elohim|Elohim|Božích⟧ hromů a krupobití – a já vás propustím; už tu nezůstanete.“
+[28] Úpěnlivě proste ⟦yhwh|Jahveho|Hospodina⟧, neboť už bylo dost hromů ⟦elohim|Elohim|Božích⟧ a krupobití, a propustím vás a už déle nezůstanete.“
 
-[29] ⟦moses|Moše|Mojžíš⟧ mu řekl: „Jakmile vyjdu z města, rozprostřu ruce k ⟦yhwh|Jahvovi|Hospodinu⟧; hromy ustanou a krupobití už nebude, abys poznal, že země patří ⟦yhwh|Jahvovi|Hospodinu⟧.
+[29] A ⟦moses|Moše|Mojžíš⟧ mu řekl: „Až vyjdu z města, rozprostřu své dlaně k ⟦yhwh|Jahvovi|Hospodinu⟧. Hromy přestanou a krupobití už nebude, abys poznal, že země je ⟦yhwh|Jahveho|Hospodinova⟧.
 
-[30] Ale co se týče tebe a tvých služebníků, vím, že se ⟦yhwh|Jahveho|Hospodina⟧ ⟦elohim|Elohim|Boha⟧ ještě nebojíte.“
+[30] A ty a tvoji služebníci, vím, že se ještě nebojíte před ⟦yhwh|Jahvem|Hospodinem⟧ ⟦elohim|Elohim|Bohem⟧.“
 
-[31] (Len a ječmen byly pobity, neboť ječmen byl v klasech a len v poupatech.
+[31] A len a ječmen byly udeřeny, neboť ječmen byl v klasu a len v poupěti.
 
-[32] Pšenice a špalda však pobity nebyly, protože dozrávají pozdě.)
+[32] A pšenice a špalda udeřeny nebyly, neboť jsou pozdní.
 
-[33] ⟦moses|Moše|Mojžíš⟧ tedy vyšel od ⟦pharaoh|Paroha|faraóna⟧ z města a rozprostřel ruce k ⟦yhwh|Jahvovi|Hospodinu⟧, a hromy i krupobití ustaly a déšť se už na zemi nelil.
+[33] A ⟦moses|Moše|Mojžíš⟧ vyšel od ⟦pharaoh|Paroha|faraóna⟧, z města, a rozprostřel své dlaně k ⟦yhwh|Jahvovi|Hospodinu⟧ a hromy a krupobití přestaly a déšť se nelil na zemi.
 
-[34] Když však ⟦pharaoh|Paro|farao⟧ viděl, že déšť, krupobití a hromy ustaly, hřešil ještě víc a zatvrdil své srdce, on i jeho služebníci.
+[34] A ⟦pharaoh|Paro|farao⟧ viděl, že déšť a krupobití a hromy přestaly, a hřešil ještě víc a obtížil své srdce, on i jeho služebníci.
 
-[35] A ⟦pharaoh|Parohovo|faraónovo⟧ srdce bylo zatvrzeno a syny ⟦israel|Jisraele|Izraele⟧ nepropustil, jak ⟦yhwh|Jahve|Hospodin⟧ řekl skrze ⟦moses|Moše|Mojžíše⟧.
+[35] A srdce ⟦pharaoh|Parohovo|faraónovo⟧ bylo silné a nepropustil syny ⟦israel|Jisraele|Izraele⟧, jak ⟦yhwh|Jahve|Hospodin⟧ mluvil rukou ⟦moses|Mošovou|Mojžíšovou⟧.
 
 ## Změny
 
-- **"LORD" → „Yahweh“** (v celé kapitole) – zachován Tetragrammaton.
-- **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
-- **"murrain" → „mor“** (v3) – hebrejsky דֶּבֶר *dever* = rána / mor (zde především nákaza dobytka; v jiných souvislostech se může týkat i lidí). „Murrain“ je archaická angličtina.
-- **"ashes of the furnace" → „saze z pece“** (v8, 10) – hebrejsky פִּיחַ כִּבְשָׁן *piach kivshan*. *Piach* = saze. *Kivshan* = tavicí pec (jako v Gen 19:28).
-- **"blains" → „hnisavé puchýře“** (v9, 10) – hebrejsky אֲבַעְבֻּעֹת *ava'bu'ot* = pustuly / puchýře. „Blains“ je archaické.
-- **"have raised thee up" → „nechal stát“** (v16) – hebrejsky הֶעֱמַדְתִּיךָ *he'emadtikha* od *amad* = stát (hifil: postavit / nechat stát). Nikoli „povýšil“ ve smyslu dosazení do úřadu; spíše zachoval / nechal tě stát navzdory tvé svévoli, aby ukázal svou moc. Pavel tento verš cituje v Rom 9:17.
-- **"fire ran along upon the ground" → „oheň sjížděl k zemi“** (v23) – hebrejsky וַתִּהֲלַךְ אֵשׁ אָרְצָה. *Halakh* = jít / téct. Blesky sjíždějící dolů.
-- **"fire mingled with the hail" → „oheň v něm neustále šlehal“** (v24) – hebrejsky אֵשׁ מִתְלַקַּחַת *esh mitlaqqachat*. Hitpael od *laqach* – doslova „bere sám sebe / šlehá / přeskakuje sem a tam“. Popisuje blesky uvnitř krupobití.
-- **"rie" → „špalda“** (v32) – hebrejsky כֻּסֶּמֶת *kussemet*. Starobylé obilí – špalda (druh pšenice) nebo dvouzrnka, nikoli žito. Opraveno.
-- **"bolled" → „v poupatech“** (v31) – hebrejsky גִּבְעֹל *giv'ol* = poupě / stvol lnového květu.
+- **"LORD" → „Jahve“** (v celé kapitole) – tetragram. **"God" → „*Elohim*“** (v1, 13, 28, 30) – hebrejsky אֱלֹהִים.
+- **„A“** (v celé kapitole) – hebrejština spojuje věty spojkou וַ / וְ „a“; řetěz je zachován. **"children of Israel" → „synové Jisraele“** (v4, 6, 26, 35) – hebrejsky בְּנֵי יִשְׂרָאֵל.
+- **"and tell him" → „a promluvíš k němu“** (v1) – hebrejsky וְדִבַּרְתָּ; ve v13 וְאָמַרְתָּ „řekneš“.
+- **"and wilt hold them still" → „a ještě je pevně držíš“** (v2) – hebrejsky מַחֲזִיק בָּם, kauzativ slovesa חָזַק „být silný“: „silně se jich držet“. Je to kořen užitý o Pharaohově srdci ve v12, 35.
+- **"the hand of the LORD is upon thy cattle" → „ruka Jahveho je na tvém dobytku“** (v3) – hebrejsky הוֹיָה, příčestí slovesa „být“ doložené jen zde: „je, právě bude“. מִקְנֶה je „dobytek“; בָּקָר „skot“ a צֹאן „brav“ (ovce a kozy).
+- **"a very grievous murrain" → „velmi těžký mor“** (v3) – hebrejsky דֶּבֶר כָּבֵד מְאֹד. כָּבֵד „těžký“ je slovo této kapitoly: mor (v3), srdce Pharaohovo (v7, 34), krupobití (v18, 24).
+- **"shall sever" → „odliší“** (v4) – hebrejsky וְהִפְלָה, jako v 8:22; doslova „odliší mezi dobytkem Israele a mezi dobytkem Egypta“. **"there shall nothing die" → „nezemře ani jedna věc“** – hebrejsky דָּבָר „věc, slovo“, které zní jako דֶּבֶר „mor“ (v3); totéž slovo ve v5, 6 („tuto věc“).
+- **„všechen dobytek Micrajim pomřel“** (v6) – tak hebrejština, כֹּל מִקְנֵה מִצְרָיִם; přesto je dobytek znovu jmenován ve v9, 19–21. Může být míněn dobytek „na poli“ (v3), nebo „všechen“ v širokém smyslu „všeho druhu“. Verš říká, co říká hebrejština.
+- **"the heart of Pharaoh was hardened" → „srdce Parohovo bylo těžké“** (v7) – hebrejsky וַיִּכְבַּד לֵב פַּרְעֹה, prostý kmen slovesa כָּבֵד; nikdo není jmenován jako původce. Ve v34 Pharaoh „obtížil své srdce“ (וַיַּכְבֵּד לִבּוֹ), kauzativ, doslova „učinil své srdce těžkým“. Viz 7:3.
+- **"handfuls of ashes of the furnace" → „plné hrsti sazí z pece“** (v8, 10) – hebrejsky מְלֹא חָפְנֵיכֶם, doslova „plnost vašich dvou hrstí“; פִּיחַ „saze“ (jen zde); כִּבְשָׁן „pec“ (Gen 19:28). **"let Moses sprinkle it" → „ať je Moše rozhodí“** – hebrejsky זָרַק „hodit, rozhodit“ (slovo užívané o chrstnutí krve z misky).
+- **"small dust" → „jemný prach“** (v9) – hebrejsky אָבָק, jiné slovo než עָפָר „prach“ (8:16).
+- **"a boil breaking forth with blains" → „vředy vyrážejícími v puchýře“** (v9, 10) – hebrejsky שְׁחִין „vřed, zanícená rána“ (jednotné číslo, užité o celé nákaze), פֹּרֵחַ „pučící, vyrážející“, אֲבַעְבֻּעֹת, doložené jen zde: „puchýře, neštovičky“; přesný smysl není jistý.
+- **„kouzelníci“** (v11) – hebrejsky חַרְטֻמִּים, jako v 7:11. **"upon all the Egyptians" → „na celém Micrajim“** – hebrejsky וּבְכָל־מִצְרָיִם.
+- **"And the LORD hardened the heart of Pharaoh" → „A Jahve posilnil srdce Parohovo“** (v12) – hebrejsky וַיְחַזֵּק יְהוָה אֶת־לֵב פַּרְעֹה, zesilovací kmen (piel) slovesa חָזַק „být silný“, s Yahweh jako podmětem: poprvé ve vyprávění o ranách je Yahweh jmenován jako ten, kdo to činí (oznámeno ve 4:21; 7:3). Ve v35 stojí totéž sloveso v prostém kmeni se srdcem jako podmětem: „srdce Pharaohovo bylo silné“. Verš ponechává každé, jak je.
+- **"stand before Pharaoh" → „postav se před Paroha“** (v13) – hebrejsky הִתְיַצֵּב.
+- **"I will at this time send all my plagues upon thine heart" → „tentokrát já posílám všechny své rány do tvého srdce“** (v14) – hebrejsky אֲנִי שֹׁלֵחַ, příčestí; מַגֵּפֹתַי, od נָגַף „bít“: „mé údery“; אֶל־לִבְּךָ „k tvému srdci“.
+- **"For now I will stretch out my hand, that I may smite thee" → „Neboť už jsem mohl vztáhnout ruku a udeřit tebe“** (v15) – hebrejsky כִּי עַתָּה שָׁלַחְתִּי … וָאַךְ … וַתִּכָּחֵד, tři minulé tvary: doslova „neboť nyní jsem vztáhl ruku a udeřil tě … a byl jsi vyhlazen“. Jak ukazuje v16 („avšak …“), jde o to, co mohlo být učiněno a nebylo. **"cut off from the earth" → „vyhlazen ze země“** – hebrejsky נִכְחַד „být přiveden ke zmizení“.
+- **"for this cause have I raised thee up" → „kvůli tomu jsem ti dal stát“** (v16) – hebrejsky הֶעֱמַדְתִּיךָ, kauzativ slovesa עָמַד „stát“: „způsobil jsem, že stojíš“, to jest ponechal jsem tě stát, nechal tě zůstat (po v15), nebo jsem tě postavil. Septuaginta má „byl jsi zachován“; Rom 9:17 verš cituje jako „vzbudil jsem tě“ (obojí uvedeno zpaměti). Verš se drží hebrejského slova.
+- **"for to shew in thee my power" → „abych ti ukázal svou sílu“** (v16) – hebrejsky הַרְאֹתְךָ אֶת־כֹּחִי, „dát ti vidět mou sílu“. „Na tobě“ je čtení Septuaginty a Rom 9:17 (zpaměti); masoretský text je zachován. **"that my name may be declared" → „aby se o mém jménu vyprávělo“** – hebrejsky סַפֵּר שְׁמִי, infinitiv, „vyprávět mé jméno“; kdo vypráví, není řečeno.
+- **"As yet exaltest thou thyself against my people" → „Ještě se vyvyšuješ proti mému lidu“** (v17) – hebrejsky מִסְתּוֹלֵל, v tomto tvaru jen zde, od סָלַל „navršit, zvednout (cestu, násep)“: „zvedat se“ jako hráz proti. Smysl je dosti jistý, obraz ne.
+- **"I will cause it to rain a very grievous hail" → „dám pršet velmi těžké krupobití“** (v18) – hebrejsky הִנְנִי מַמְטִיר, příčestí. **"since the foundation thereof" → „ode dne, kdy byl založen“** – hebrejsky לְמִן־הַיּוֹם הִוָּסְדָה.
+- **"Send therefore now, and gather thy cattle" → „A nyní pošli, dej do bezpečí svůj dobytek“** (v19) – hebrejsky הָעֵז, „odvést do útočiště“. **"shall not be brought home" → „nebude shromážděno do domu“** – hebrejsky יֵאָסֵף הַבַּיְתָה. **„člověk … zvíře“** (v9, 10, 19, 22, 25) – hebrejsky אָדָם, בְּהֵמָה, hromadná jednotná čísla.
+- **"made his servants … flee" → „dal svým otrokům … utéci“** (v20, 21) – jedno hebrejské slovo, עֶבֶד, dvakrát: „služebníci Pharaohovi“ (královi muži) a „jeho otroci“ (nevolníci každého z nich). **"regarded not" → „nepřiložil své srdce k“** (v21) – hebrejsky לֹא־שָׂם לִבּוֹ אֶל.
+- **"toward heaven" → „k nebesům“** (v22, 23) – hebrejsky עַל־הַשָּׁמַיִם, doslova „nad / na nebesa“. **"herb" → „bylina“** (v22, 25) – hebrejsky עֵשֶׂב.
+- **"the LORD sent thunder" → „Jahve dal hromy“** (v23, 28, 29, 33, 34) – hebrejsky קֹלֹת, doslova „hlasy“: hebrejské slovo pro hrom je množné číslo od קוֹל „hlas“. Ve v28 je קֹלֹת אֱלֹהִים „hlasy Elohim“: hrom, který přichází od Elohim, nebo „mocný hrom“ (אֱלֹהִים jako výraz nejvyššího stupně). **"the fire ran along upon the ground" → „oheň šel k zemi“** (v23) – hebrejsky וַתִּהֲלַךְ אֵשׁ אָרְצָה.
+- **"fire mingled with the hail" → „oheň šlehající uprostřed krupobití“** (v24) – hebrejsky אֵשׁ מִתְלַקַּחַת, doslova „oheň, který se sám chytá“ (zvratný tvar slovesa לָקַח „vzít“; už jen Ezek 1:4): oheň, který stále vzplává, šlehá sem a tam. Přesný smysl není jistý.
+- **"brake every tree" → „roztříštilo“** (v25) – hebrejsky שִׁבֵּר, zesilovací kmen od „zlomit“. **„udeřilo“** (v25, 31, 32) – hebrejsky הִכָּה a jeho trpný tvar נֻכָּה.
+- **"the LORD is righteous, and I and my people are wicked" → „Jahve je ten spravedlivý a já a můj lid jsme ti bezbožní“** (v27) – hebrejština má u obou člen: הַצַּדִּיק … הָרְשָׁעִים, slova soudu: ten, kdo je v právu, a ti, kdo jsou v neprávu.
+- **"Intreat the LORD (for it is enough) that there be no more mighty thunderings" → „Úpěnlivě proste Jahveho, neboť už bylo dost hromů *Elohim*“** (v28) – hebrejsky וְרַב מִהְיֹת, doslova „a mnoho od toho, aby byly“: je toho víc než dost. **„už déle nezůstanete“** – hebrejsky לֹא תֹסִפוּן לַעֲמֹד, doslova „nepřidáte stát“.
+- **"I will spread abroad my hands" → „rozprostřu své dlaně“** (v29, 33) – hebrejsky כַּפַּי, otevřené dlaně toho, kdo se modlí. **„země je Jahveho“** – hebrejsky לַיהוָה הָאָרֶץ; אֶרֶץ je „země“ jako svět i jako kraj.
+- **"ye will not yet fear the LORD God" → „se ještě nebojíte před Jahvem *Elohim*“** (v30) – hebrejsky טֶרֶם תִּירְאוּן מִפְּנֵי, doslova „ještě se nebojíte od tváře“. Obě jména stojí spolu, יְהוָה אֱלֹהִים, jako v Gen 2–3.
+- **"the barley was in the ear, and the flax was bolled" → „ječmen byl v klasu a len v poupěti“** (v31) – hebrejsky אָבִיב, čerstvé mladé klasy (jméno měsíce vyjití, 13:4); גִּבְעֹל, doložené jen zde: „poupě“ nebo „tobolka“; nejisté.
+- **"the rie" → „špalda“; "they were not grown up" → „jsou pozdní“** (v32) – hebrejsky כֻּסֶּמֶת, druh pšenice (dvouzrnka nebo špalda), ne žito; אֲפִילֹת „pozdní“, doložené jen zde. Závorky KJV ve v31–32 v hebrejštině nejsou.
+- **"the rain was not poured upon the earth" → „déšť se nelil na zemi“** (v33) – hebrejsky נִתַּךְ אָרְצָה.
+- **"he sinned yet more, and hardened his heart" → „hřešil ještě víc a obtížil své srdce“** (v34) – hebrejsky וַיֹּסֶף לַחֲטֹא, doslova „přidal hřešit“; וַיַּכְבֵּד לִבּוֹ, podmětem je Pharaoh.
+- **"the heart of Pharaoh was hardened" → „srdce Parohovo bylo silné“** (v35) – hebrejsky וַיֶּחֱזַק. **"by Moses" → „rukou Mošovou“** – hebrejsky בְּיַד־מֹשֶׁה.
 
 ### Poznámky
 
-- **Výslovně začíná cílené zatvrzování (v12)** – poprvé text říká „Yahweh zatvrdil Pharaohovo srdce“ (ne jen „Pharaohovo srdce bylo zatvrzeno“). Aktivní božské zatvrzování se stupňuje po opakovaném Pharaohově sebezatvrzování; Pavel v Rom 9:17–18 to chápe jako teologický vzorec božího soudního zatvrzení těch, kdo se už sami zatvrdili.
-- **Pharaohovo přiznání hříchu (v27)** – jediné místo v cyklu ran, kde Pharaoh výslovně říká „zhřešil jsem“ (opakováno v 10:16). Pod nátlakem uznává spravedlnost Yahweh; jakmile tlak poleví (v34), odvolává to.
-- **Vzorec stupňování** – rány 1–6: egyptské nepohodlí. Rána 7 (krupobití): zničení zemědělství + ztráty na životech (ti, kdo zůstali venku, umírají). Rány 8–10: katastrofické – kobylky (zničena potrava), tma (náboženská / symbolická rána Raovi), prvorození (smrt).
+- **„Yahweh posilnil srdce Pharaohovo“ (v12)** – u ran před touto text říká „srdce Pharaohovo bylo silné“ (7:13, 22; 8:19), „je těžké / bylo těžké“ (7:14; 9:7) nebo „Pharaoh obtížil své srdce“ (8:15, 32). V této kapitole stojí všechny tři způsoby řeči vedle sebe (v7, 12, 34, 35). Paul čerpá z v16 v Rom 9:17–18.
+- **Pharaohovo „zhřešil jsem“ (v27)** – řečeno znovu v 10:16. Když tlak povolí, bere to zpět (v34).
+- **Ječmen a len (v31–32)** – poznámka klade krupobití do rané části roku, kdy je ječmen v klasu, a připravuje kobylky, které sežerou, co po krupobití zbylo (10:5, 15).

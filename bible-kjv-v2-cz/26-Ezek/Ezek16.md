@@ -1,149 +1,198 @@
 # Ezechiel 16
 
-[1] Přišlo ke mně slovo ⟦yhwh|Jahveho|Hospodina⟧:
+[1] A stalo se ke mně slovo ⟦yhwh|Jahveho|Hospodina⟧ se slovy:
 
 [2] „Synu člověka, dej ⟦jerusalem|Jerušalajim|Jeruzalému⟧ poznat její ohavnosti
 
-[3] a řekni: Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ ⟦jerusalem|Jerušalajim|Jeruzalému⟧: Tvůj původ a tvé narození jsou ze země ⟦canaanites|Kenaanim|Kenaanců⟧; tvůj otec byl ⟦amorite|Emori|Emorejec⟧ a tvá matka ⟦hittite|Chittitka|Chetejka⟧.
+[3] a řekni: Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧ ⟦jerusalem|Jerušalajim|Jeruzalému⟧: Tvé původy a tvá narození jsou ze země ⟦canaanites|Kenaaniho|Kenaance⟧; tvůj otec byl ⟦amorite|Emori|Emorejec⟧ a tvá matka ⟦hittite|Chittitka|Chetejka⟧.
 
-[4] A co se týče tvého narození: v den, kdy ses narodila, ti nepřeřízli pupeční šňůru, neumyli tě vodou, aby tě očistili, nepotřeli tě solí ani nezavinuli do plének.
+[4] A co se týče tvých narození: v den, kdy ses narodila, ti nebyl přeříznut pupek a vodou jsi nebyla omyta k očištění a jistě jsi nebyla natřena solí a jistě jsi nebyla zavinuta do plének.
 
-[5] Žádné oko se nad tebou neslitovalo, aby ti z útrpnosti udělalo něco z toho, ale byla jsi pohozena na širé pole, neboť ses hnusila, v den, kdy ses narodila.
+[5] Nad tebou nelitovalo žádné oko, aby ti učinilo jedno z těchto, ze slitování nad tebou; a byla jsi pohozena na tvář pole, v ošklivosti tvé duše, v den, kdy ses narodila.
 
-[6] A když jsem šel kolem tebe a viděl tě, jak se válíš ve své krvi, řekl jsem ti ve tvé krvi: ‚Žij!‘ Řekl jsem ti ve tvé krvi: ‚Žij!‘
+[6] A šel jsem kolem tebe a viděl jsem tě, jak se zmítáš ve své krvi, a řekl jsem ti ve tvé krvi: Žij! A řekl jsem ti ve tvé krvi: Žij!
 
-[7] Dal jsem ti vzkvétat jako rostlině na poli. I vyrostla jsi, stala ses vysokou a dospěla jsi k plné kráse. Tvá ňadra se vytvarovala a tvé vlasy narostly; ale byla jsi nahá a obnažená.
+[7] Deset tisíc, jako výhonek pole, jsem tě učinil; a rozmnožila ses a stala ses velikou a vešla jsi do ozdoby ozdob. Ňadra se zpevnila a tvé vlasy vyrašily; a byla jsi nahá a obnažená.
 
-[8] Když jsem šel znovu kolem tebe a viděl tě, hle, byla jsi ve věku lásky, i rozprostřel jsem nad tebou cíp svého šatu a přikryl tvou nahotu; složil jsem ti přísahu a vstoupil s tebou do smlouvy, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧, a stala ses mou.
+[8] A šel jsem kolem tebe a viděl jsem tě, a hle, tvůj čas byl časem milování; a rozprostřel jsem nad tebou svůj cíp a přikryl jsem tvou nahotu; a přísahal jsem ti a vešel jsem s tebou do smlouvy, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧, a stala ses mou.
 
-[9] Pak jsem tě omyl vodou, smyl z tebe tvou krev a pomazal tě olejem.
+[9] A umyl jsem tě vodou a opláchl jsem z tebe tvou krev a pomazal jsem tě olejem.
 
-[10] Oblékl jsem tě také do vyšívaného roucha a obul tě do jemné kůže. Zahalil jsem tě do jemného lnu a přikryl tě hedvábím.
+[10] A oblékl jsem tě do výšivky a obul jsem tě do tachaše a ovinul jsem tě jemným lnem a přikryl jsem tě hedvábím.
 
-[11] Ozdobil jsem tě šperky, navlékl ti náramky na zápěstí a na krk řetěz.
+[11] A ozdobil jsem tě ozdobami a dal jsem ti náramky na ruce a řetěz na hrdlo.
 
-[12] Dal jsem ti kroužek do nosu, náušnice do uší a nádhernou korunu na hlavu.
+[12] A dal jsem ti kroužek do nosu a náušnice na uši a korunu krásy na hlavu.
 
-[13] Tak jsi byla ozdobena zlatem a stříbrem a tvůj oděv byl z jemného lnu, hedvábí a vyšívaného roucha. Jedla jsi jemnou mouku, med a olej. Stala ses nesmírně krásnou a dospěla jsi ke královské důstojnosti.
+[13] A byla jsi ozdobena zlatem a stříbrem a tvůj oděv byl jemný len a hedvábí a výšivka; jemnou mouku a med a olej jsi jedla. A byla jsi velmi, velmi krásná a zdařilo se ti dojít ke kralování.
 
-[14] A tvá pověst se rozšířila mezi národy pro tvou krásu, neboť byla dokonalá nádherou, kterou jsem ti daroval, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.
+[14] A vyšlo ti jméno mezi národy pro tvou krásu, neboť byla celá skrze mou nádheru, kterou jsem na tebe položil, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.
 
-[15] Ale ty jsi spoléhala na svou krásu a smilnila jsi kvůli své pověsti a zahrnovala jsi svým smilstvem každého kolemjdoucího; jeho to bylo.
+[15] A spolehla ses na svou krásu a smilnila jsi kvůli svému jménu a vylévala jsi svá smilstva na každého, kdo šel kolem: jemu ať to patří.
 
-[16] Vzala jsi některé ze svých šatů a udělala sis pestrá posvátná místa a na nich jsi smilnila. Nic takového nikdy nebylo a nikdy nebude.
+[16] A vzala jsi ze svých rouch a udělala sis strakaté výšiny a smilnila jsi na nich – věci, které nepřicházejí, a nebude to.
 
-[17] Vzala jsi také své nádherné šperky z mého zlata a z mého stříbra, které jsem ti dal, a udělala sis mužské obrazy a s nimi jsi smilnila.
+[17] A vzala jsi předměty své krásy z mého zlata a z mého stříbra, které jsem ti dal, a udělala sis obrazy mužského pohlaví a smilnila jsi s nimi.
 
-[18] Vzala jsi svá vyšívaná roucha, abys je jimi přikryla, a můj olej a mé kadidlo jsi před ně kladla.
+[18] A vzala jsi svá roucha z výšivky a přikryla jsi je, a můj olej a mé kadidlo jsi položila před ně.
 
-[19] Také můj chléb, který jsem ti dal – krmil jsem tě jemnou moukou, olejem a medem –, jsi před ně kladla jako libou vůni; a tak se stalo, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.
+[19] A můj chléb, který jsem ti dal – jemnou moukou a olejem a medem jsem tě krmil –, jsi položila před ně k upokojující vůni; a stalo se, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.
 
-[20] Vzala jsi své syny a své dcery, které jsi mi porodila, a ty jsi jim obětovala, aby byli pohlceni. Bylo tvé smilstvo tak nepatrnou věcí,
+[20] A vzala jsi své syny a své dcery, které jsi mi porodila, a obětovala jsi je jim k jídlu. Byla snad tvá smilstva málo,
 
-[21] že jsi zabíjela mé děti a vydávala je jim jako ohnivou oběť?
+[21] že jsi zařízla mé syny a dala jsi je, když jsi je jim převáděla?
 
-[22] A při všech svých ohavnostech a svém smilstvu jsi nevzpomněla na dny svého mládí, kdy jsi byla nahá a obnažená a válela ses ve své krvi.
+[22] A při všech svých ohavnostech a svých smilstvech jsi nevzpomněla na dny svého mládí, kdy jsi byla nahá a obnažená; zmítající se ve své krvi jsi byla.
 
-[23] A po vší své svévoli (běda, běda tobě! je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧)
+[23] A stalo se po všem tvém zlu – běda, běda ti! je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧ –,
 
-[24] sis vystavěla klenutou komoru a udělala sis vyvýšené místo na každém náměstí.
+[24] že sis postavila násep a udělala sis vyvýšené místo na každém prostranství.
 
-[25] Na nároží každé ulice sis vystavěla své vyvýšené místo a učinila ze své krásy ohavnost, nabízela ses každému kolemjdoucímu a množila své smilstvo.
+[25] Na každém začátku cesty jsi postavila své vyvýšené místo a učinila jsi svou krásu ohavnou a roztahovala jsi své nohy každému, kdo šel kolem, a rozmnožovala jsi svá smilstva.
 
-[26] Smilnila jsi také s ⟦egyptians|Micrim|Egypťany⟧, svými chlípnými sousedy, a množila své smilstvo, abys mě popouzela k hněvu.
+[26] A smilnila jsi se syny ⟦egypt|Micrajim|Egypta⟧, svými sousedy velikého těla, a rozmnožovala jsi své smilstvo, abys mě popouzela.
 
-[27] Hle, proto jsem proti tobě vztáhl ruku, zmenšil tvůj vyměřený podíl a vydal tě chtivosti tvých nepřátel, dcer ⟦philistines|Pelištim|Pelištejců⟧, které se styděly za tvé necudné chování.
+[27] A hle, vztáhl jsem proti tobě svou ruku a ubral jsem ti tvůj stanovený díl a vydal jsem tě do duše těch, které tě nenávidí, dcer ⟦philistines|Pelištim|Pelištejců⟧, které byly zahanbeny tvou cestou zvrhlosti.
 
-[28] Smilnila jsi také s ⟦assyria|Aššurem|Asyřany⟧, protože jsi nebyla nasycena; ano, smilnila jsi s nimi, a stále jsi nebyla nasycena.
+[28] A smilnila jsi se syny ⟦assyria|Aššuru|Asýrie⟧, protože ses nenasytila; a smilnila jsi s nimi, a ani tak ses nenasytila.
 
-[29] Rozmnožila jsi své smilstvo i s kupeckou zemí ⟦chaldea|Kasdim|Kaldejskem⟧, a ani tím jsi nebyla nasycena.
+[29] A rozmnožovala jsi své smilstvo do země Kenaan, do ⟦chaldea|Kasdim|Kaldejska⟧, a ani tím ses nenasytila.
 
-[30] Jak nemocné je tvé srdce, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧, když jsi dělala všechny tyto věci, skutky nestoudné nevěstky,
+[30] Jak chřadne tvé srdce, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧, když děláš všechno toto, dílo panovačné ženy nevěstky,
 
-[31] když sis stavěla klenutou komoru na nároží každé ulice a dělala své vyvýšené místo na každém náměstí. A přece jsi nebyla jako nevěstka, protože jsi pohrdala mzdou.
+[31] když stavíš svůj násep na začátku každé cesty a děláš své vyvýšené místo na každém prostranství! A nebyla jsi jako nevěstka, když ses vysmívala platu.
 
-[32] Cizoložná manželko, jež místo svého muže přijímá cizí!
+[32] Žena, která cizoloží: místo svého muže bere cizí!
 
-[33] Všem nevěstkám se dávají dary, ale ty jsi dávala své dary všem svým milencům a podplácela je, aby k tobě přicházeli ze všech stran pro tvé smilstvo.
+[33] Všem nevěstkám dávají dar; a ty, ty jsi dávala své dary všem svým milencům a podplácela jsi je, aby k tobě přicházeli ze všech stran v tvých smilstvech.
 
-[34] Tak ses ve svém smilstvu lišila od jiných žen. Nikdo tě k smilstvu nevybízel a ty jsi platila mzdu, zatímco tobě se mzda nedávala; proto ses lišila.
+[34] A bylo v tobě opačné než u žen v tvých smilstvech: a za tebou nikdo nesmilní; a když dáváš plat, kdežto tobě se plat nedává, stala ses opakem.
 
-[35] Proto, nevěstko, slyš slovo ⟦yhwh|Jahveho|Hospodina⟧:
+[35] Proto, nevěstko, slyš slovo ⟦yhwh|Jahveho|Hospodina⟧.
 
-[36] Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Protože se tvá chlípnost rozlila a tvá nahota byla odhalena při tvém smilstvu s tvými milenci a se všemi tvými ohavnými modlami, a pro krev tvých dětí, kterou jsi jim dala,
+[36] Toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Protože byla vylita tvá měď a byla odkryta tvá nahota v tvých smilstvech s tvými milenci a se všemi modlami tvých ohavností, a podle krve tvých synů, kterou jsi jim dala,
 
-[37] proto, hle, shromáždím všechny tvé milence, s nimiž ses těšila, všechny, které jsi milovala, i všechny, které jsi nenáviděla. Shromáždím je proti tobě ze všech stran a odhalím před nimi tvou nahotu, aby viděli celou tvou nahotu.
+[37] proto hle, shromažďuji všechny tvé milence, jimž jsi byla příjemná, a všechny, které jsi milovala, spolu se všemi, které jsi nenáviděla; a shromáždím je proti tobě ze všech stran a odkryji jim tvou nahotu a uvidí celou tvou nahotu.
 
-[38] Budu tě soudit, jak se soudí ženy, které cizoloží a prolévají krev, a uvedu na tebe krev hněvu a žárlivosti.
+[38] A budu tě soudit soudy žen, které cizoloží a které prolévají krev, a dám tě krví zuřivosti a žárlivosti.
 
-[39] Vydám tě do jejich rukou a oni strhnou tvou klenutou komoru a zboří tvá vyvýšená místa. Svléknou z tebe šaty, vezmou tvé nádherné šperky a nechají tě nahou a obnaženou.
+[39] A vydám tě do jejich ruky a strhnou tvůj násep a zboří tvá vyvýšená místa a svléknou z tebe tvá roucha a vezmou předměty tvé krásy a nechají tě nahou a obnaženou.
 
-[40] Přivedou na tebe dav, ukamenují tě a rozsekají tě svými meči.
+[40] A přivedou na tebe shromáždění a ukamenují tě kamením a rozsekají tě svými meči.
 
-[41] Spálí tvé domy a vykonají na tobě soudy před očima mnoha žen. Učiním konec tvému smilstvu a už nebudeš platit mzdu.
+[41] A spálí tvé domy ohněm a vykonají na tobě soudy před očima mnoha žen; a skoncuji s tím, že jsi nevěstkou, a také plat už nebudeš dávat.
 
-[42] Tak ukojím na tobě svou zlobu a má žárlivost od tebe odstoupí. Uklidním se a už se nebudu hněvat.
+[42] A dám své zuřivosti spočinout na tobě a má žárlivost od tebe odstoupí; a budu mít klid a už nebudu popuzen.
 
-[43] Protože jsi nevzpomněla na dny svého mládí, ale rozzuřila jsi mě tím vším, proto, hle, obrátil jsem tvé skutky na tvou hlavu, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧. Nedopustila ses snad nestoudnosti navíc ke všem svým ohavnostem?
+[43] Protože jsi nevzpomněla na dny svého mládí a rozrušovala ses proti mně tím vším, i já, hle, jsem položil tvou cestu na tvou hlavu, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧; a což jsi nespáchala zvrhlost navrch ke všem svým ohavnostem?
 
-[44] Hle, každý, kdo užívá přísloví, užije o tobě toto přísloví: ‚Jaká matka, taková dcera.‘
+[44] Hle, každý, kdo mluví v příslovích, proti tobě řekne toto přísloví: Jaká matka, její dcera.
 
-[45] Jsi dcera své matky, která si ošklivila svého muže i své děti; a jsi sestra svých sester, které si ošklivily své muže i své děti. Vaše matka byla ⟦hittite|Chittitka|Chetejka⟧ a váš otec ⟦amorite|Emori|Emorejec⟧.
+[45] Dcerou své matky jsi ty, která si ošklivila svého muže a své syny; a sestrou svých sester jsi ty, které si ošklivily své muže a své syny. Vaše matka byla ⟦hittite|Chittitka|Chetejka⟧ a váš otec ⟦amorite|Emori|Emorejec⟧.
 
-[46] Tvou starší sestrou je ⟦samaria|Šomron|Samaří⟧, která bydlela se svými dcerami na sever od tebe; a tvou mladší sestrou, která bydlela na jih od tebe, je ⟦sodom|Sedom|Sodoma⟧ se svými dcerami.
+[46] A tvou starší sestrou je ⟦samaria|Šomron|Samaří⟧, ona a její dcery, která bydlí na sever od tebe; a tvou sestrou, mladší než ty, která bydlí na jih od tebe, je ⟦sodom|Sedom|Sodoma⟧ a její dcery.
 
-[47] Nejenže jsi chodila po jejich cestách a jednala podle jejich ohavností; ve velmi krátké době jsi byla zkaženější než ony na všech svých cestách.
+[47] A ne po jejich cestách jsi chodila ani podle jejich ohavností jsi jednala – jako by to bylo velmi málo – a způsobila jsi zkázu víc než ony na všech svých cestách.
 
-[48] Jakože jsem živ, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧, tvá sestra ⟦sodom|Sedom|Sodoma⟧ a její dcery nejednaly tak, jak jsi jednala ty a tvé dcery.
+[48] Jakože jsem živ, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧, ⟦sodom|Sedom|Sodoma⟧, tvá sestra, nejednala, ona a její dcery, jak jsi jednala ty, ty a tvé dcery.
 
-[49] Hle, toto byla vina tvé sestry ⟦sodom|Sedom|Sodomy⟧: ona a její dcery měly pýchu, nadbytek jídla a blahobytný klid, ale chudému a ubožákovi nepomáhaly.
+[49] Hle, toto byla nepravost ⟦sodom|Sedom|Sodomy⟧, tvé sestry: pýcha, sytost chleba a bezstarostný klid měla ona a její dcery; a ruku ubohého a nuzného neposílila.
 
-[50] Byly povýšené a páchaly přede mnou ohavnost. Proto jsem je odstranil, když jsem to viděl.
+[50] A byly povýšené a páchaly přede mnou ohavnost; a odstranil jsem je, když jsem to viděl.
 
-[51] ⟦samaria|Šomron nespáchala|Samaří nespáchalo⟧ ani polovinu tvých hříchů. Spáchala jsi víc ohavností než ony a všemi ohavnostmi, které jsi spáchala, jsi způsobila, že se tvé sestry jeví spravedlivé.
+[51] A ⟦samaria|Šomron nezhřešila|Samaří nezhřešilo⟧ ani podle poloviny tvých hříchů; a ty jsi rozmnožila své ohavnosti víc než ony a učinila jsi své sestry spravedlivými všemi svými ohavnostmi, které jsi páchala.
 
-[52] Nes svou potupu i ty, neboť ses za své sestry přimluvila v soudu; pro tvé hříchy, jimiž jsi jednala ohavněji než ony, jsou ony víc v právu než ty. Styď se tedy i ty a nes svou potupu, neboť jsi způsobila, že se tvé sestry jeví spravedlivé.
+[52] I ty nes svou pohanu, ty, která jsi zakročila za své sestry; tvými hříchy, jimiž sis počínala ohavněji než ony, jsou spravedlivější než ty. I ty buď zahanbena a nes svou pohanu, když jsi učinila své sestry spravedlivými.
 
-[53] Obrátím jejich osud, osud ⟦sodom|Sedom|Sodomy⟧ a jejích dcer i osud ⟦samaria|Šomron|Samaří⟧ a jejích dcer, a obrátím i tvůj vlastní osud uprostřed nich,
+[53] A obnovím jejich úděl, úděl ⟦sodom|Sedom|Sodomy⟧ a jejích dcer a úděl ⟦samaria|Šomron|Samaří⟧ a jejích dcer a úděl tvého údělu uprostřed nich,
 
-[54] abys nesla svou potupu a styděla se za všechno, co jsi učinila, a stala se jim útěchou.
+[54] abys nesla svou pohanu a byla zahanbena za všechno, co jsi učinila, když je těšíš.
 
-[55] Co se týče tvých sester: ⟦sodom|Sedom|Sodoma⟧ a její dcery se vrátí do svého dřívějšího stavu, ⟦samaria|Šomron|Samaří⟧ a její dcery se vrátí do svého dřívějšího stavu, a ty a tvé dcery se vrátíte do svého dřívějšího stavu.
+[55] A tvé sestry, ⟦sodom|Sedom|Sodoma⟧ a její dcery, se navrátí do svého dřívějšího stavu, a ⟦samaria|Šomron|Samaří⟧ a její dcery se navrátí do svého dřívějšího stavu, a ty a tvé dcery se navrátíte do svého dřívějšího stavu.
 
-[56] Nebyla snad tvá sestra ⟦sodom|Sedom|Sodoma⟧ v den tvé pýchy předmětem posměšných řečí ve tvých ústech,
+[56] A ⟦sodom|Sedom|Sodoma⟧, tvá sestra, nebyla zvěstí ve tvých ústech v den tvé pýchy,
 
-[57] dříve než byla odhalena tvá svévole? Teď ses stala předmětem potupy pro dcery Aramu a všechny kolem ní a pro dcery ⟦philistines|Pelištim|Pelištejců⟧, pro všechny kolem, kdo tebou pohrdají.
+[57] dříve než bylo odkryto tvé zlo, jako v čase potupy dcer Aramu a všech kolem ní, dcer ⟦philistines|Pelištim|Pelištejců⟧, které tebou pohrdají ze všech stran.
 
-[58] Neseš trest za svou nestoudnost a své ohavnosti, je výrok ⟦yhwh|Jahveho|Hospodina⟧.
+[58] Svou zvrhlost a své ohavnosti, ty jsi je nesla, je výrok ⟦yhwh|Jahveho|Hospodina⟧.
 
-[59] Neboť toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: Naložím s tebou, jak jsi jednala ty, jež jsi pohrdla přísahou a porušila smlouvu,
+[59] Neboť toto praví ⟦adonai-yhwh|Pán Jahve|Panovník Hospodin⟧: A naložím s tebou, jak jsi jednala ty, která jsi pohrdla přísahou, abys porušila smlouvu.
 
-[60] ale já si vzpomenu na svou smlouvu s tebou ve dnech tvého mládí a ustanovím ti věčnou smlouvu.
+[60] A já, já si vzpomenu na svou smlouvu s tebou ve dnech tvého mládí a ustavím ti věčnou smlouvu.
 
-[61] Tehdy si vzpomeneš na své cesty a budeš se stydět, až přijmeš své sestry, starší i mladší, a já ti je dám za dcery, ne však na základě smlouvy s tebou.
+[61] A vzpomeneš si na své cesty a budeš zahanbena, až vezmeš své sestry, ty starší než ty, spolu s těmi mladšími než ty; a dám ti je za dcery, ale ne z tvé smlouvy.
 
-[62] Ustanovím svou smlouvu s tebou a poznáš, že já jsem ⟦yhwh|Jahve|Hospodin⟧,
+[62] A já, já ustavím svou smlouvu s tebou a poznáš, že já jsem ⟦yhwh|Jahve|Hospodin⟧,
 
-[63] abys vzpomínala a styděla se a už nikdy neotevřela ústa pro svou hanbu, až tě smířím za všechno, co jsi učinila, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.“
+[63] abys vzpomínala a byla zahanbena a už ti nebylo otevření úst kvůli tvé pohaně, až za tebe vykonám smíření za všechno, co jsi učinila, je výrok ⟦adonai-yhwh|Pána Jahveho|Panovníka Hospodina⟧.“
 
 ## Změny
 
-- **"LORD" → „Yahweh“** (v celé kapitole) – tetragram יְהוָה přeložen přímo.
-- **"Lord GOD" → „Pán Yahweh“** (v3, 8, 14, 19, 23, 30, 36, 43, 48, 59, 63) – hebrejsky אֲדֹנָי יְהוִה *Adonai Yahweh*; užíváno v celé této rozsáhlé alegorii.
-- **"thy navel was not cut" → „nepřeřízli pupeční šňůru“** (v4) – hebrejsky שָׁרֵּךְ לֹא כָרַת *sharekh lo khorat* = tvá pupeční šňůra nebyla přeříznuta; „pupeční šňůra“ věcnější a přesnější.
-- **"to supple thee" → „aby tě očistili“** (v4) – hebrejsky לְמִשְׁעִי *lemish'i* = uhladit/očistit; „očistit“ přirozenější; KJV „supple“ je archaické.
-- **"to the lothing of thy person" → „neboť ses hnusila“** (v5) – hebrejsky בְּגֹעַל נַפְשֵׁךְ *bego'al nafshekh* = v ošklivosti tvé bytosti; „hnusila ses“ vystihuje odvržení nemluvněte.
-- **"harlot / whoredoms / fornications" → „nevěstka / smilstvo“** (v celé kapitole) – hebrejsky זָנָה *zanah* = smilnit; v angličtině „whorings“ pro *zenunim* = smilné činy; Ezekielova drastická politicko-teologická metafora modloslužby Israele; otevřený jazyk je v překladu zachován.
-- **"eminent place / high place" → „klenutá komora / vyvýšené místo“** (v24, 25, 31, 39) – hebrejsky גַּב *gab* = klenutá komora/pahorek; רָמָה *ramah* = vyvýšené místo; „klenutá komora“ a „vyvýšené místo“ přesnější než KJV „eminent place“.
-- **"broidered work" → „vyšívané roucho“** (v10, 13, 18) – hebrejsky רִקְמָה *riqmah* = vyšívaná práce; „vyšívané“ modernizováno.
-- **"shod thee with badgers' skin" → „obul tě do jemné kůže“** (v10) – hebrejsky תַּחַשׁ *tachash* = snad dugong, delfín nebo jemná kůže; „jemná kůže“ přesnější než „jezevčí kůže“.
-- **"heathen" → „národy“** (v14) – hebrejsky גּוֹיִם *goyim*; „národy“ důsledně v celé knize.
-- **"How weak is thine heart" → „Jak nemocné je tvé srdce“** (v30) – hebrejsky מָה אֲמֻלָה לִבָּתֵךְ *mah amulah libbatekh* = jak mdlé/nemocné je tvé srdce; „nemocné“ živější.
-- **"fulness of bread, and abundance of idleness" → „nadbytek jídla a blahobytný klid“** (v49) – hebrejsky שְׂבַע לֶחֶם וְשַׁלְוַת הַשְּׁקֵט *seva lechem veshalvat hashsheqet* = sytost chleba a poklidná bezstarostnost; „nadbytek jídla a blahobytný klid“ přirozenější.
-- **"When I shall bring again their captivity" → „Obrátím jejich osud“** (v53) – hebrejsky בְּשׁוּבִי אֶת שְׁבוּתָן *beshuvi et shevutan*; „obrátit osud“ pro *shuv shevut* (důsledná formule v celé knize).
-- **"be confounded" → „styď se“** (v52, 63) – hebrejsky בּוֹשִׁי / וָבֹשְׁתְּ, od בּוֹשׁ *bosh* = stydět se; „stydět se“ přirozenější.
-- **"I am pacified toward thee" → „až tě smířím“** (v63) – hebrejsky כְּפַרְתִּי לָךְ *khiparti lakh* = vykonám za tebe smíření; *kaphar* = smířit; slovo smluvního odpuštění.
+- **"LORD" → „Jahve“** (v celé kapitole) – zachován tetragram. **"Lord GOD" → „Pán Jahve“** (v3, 8, 14, 19, 23, 30, 36, 43, 48, 59, 63) – hebrejsky אֲדֹנָי יְהוִה, obě jména; v58 má jen יְהוָה.
+- **Řeč této kapitoly** – hebrejština mluví otevřeně o narození, o těle, o pohlavním styku a o smilstvu jako o obrazu Jerušalajim a jejího uctívání jiných bohů a spoléhání na jiné národy. Verše zachovávají její slova, jak stojí, nezmírněná ani nezhrublá. זָנָה „smilnit“, זוֹנָה „nevěstka“ a Ezechielovo podstatné jméno תַּזְנוּת „smilstvo“, v množném čísle „smilstva“ (jako זְנוּת, Jer 3:2, 9; 13:27); ne „děvka“, „nevěstčit“, „nemravnost“.
+- **"Again the word of the LORD came unto me, saying" → „A stalo se ke mně slovo Jahveho se slovy“** (v1) – hebrejsky וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר; „opět“ v hebrejštině není.
+- **"Thy birth and thy nativity is of the land of Canaan" → „Tvé původy a tvá narození jsou ze země Kenaaniho“** (v3) – hebrejsky מְכֹרֹתַיִךְ וּמֹלְדֹתַיִךְ מֵאֶרֶץ הַכְּנַעֲנִי: obě podstatná jména v množném čísle; מְכוּרָה „původ“ (také 21:30; 29:14); מוֹלֶדֶת „narození“ (také v4); הַכְּנַעֲנִי „Kenaanec“, jednotné číslo se členem (jako Exod 13:5). **"thy father was an Amorite" → „tvůj otec byl Emori“** – הָאֱמֹרִי se členem; חִתִּית „Chittitka“ (ženský rod).
+- **"thy navel was not cut" → „ti nebyl přeříznut pupek“** (v4) – hebrejsky לֹא־כָרַּת שָׁרֵּךְ, שֹׁר „pupek“ (pupeční šňůra). **"neither wast thou washed in water to supple thee" → „a vodou jsi nebyla omyta k očištění“** – לְמִשְׁעִי, doloženo jen zde: „k očištění / k uhlazení“ (nejisté). **"thou wast not salted at all, nor swaddled at all" → „a jistě jsi nebyla natřena solí a jistě jsi nebyla zavinuta do plének“** – וְהָמְלֵחַ לֹא הֻמְלַחַתְּ וְהָחְתֵּל לֹא חֻתָּלְתְּ, dva absolutní infinitivy se svými slovesy (doslova „a solením jsi nebyla osolena, a zavinováním jsi nebyla zavinuta“); מָלַח „osolit“, zde „natřít solí“. בְּיוֹם הוּלֶּדֶת אֹתָךְ „v den tvého narození“ (také v5).
+- **"None eye pitied thee, to do any of these unto thee, to have compassion upon thee" → „Nad tebou nelitovalo žádné oko, aby ti učinilo jedno z těchto, ze slitování nad tebou“** (v5) – hebrejsky לֹא־חָסָה עָלַיִךְ עַיִן … אַחַת מֵאֵלֶּה לְחֻמְלָה עָלָיִךְ: חוּס „litovat“ (jako 5:11), חֶמְלָה „slitování“, podstatné jméno od חָמַל „slitovat se“ (dva kořeny); אַחַת „jedno“. **"but thou wast cast out in the open field, to the lothing of thy person" → „a byla jsi pohozena na tvář pole, v ošklivosti tvé duše“** – וַתֻּשְׁלְכִי אֶל־פְּנֵי הַשָּׂדֶה בְּגֹעַל נַפְשֵׁךְ: הִשְׁלִיךְ „pohodit“; „tvář pole“; גֹּעַל „ošklivost“, podstatné jméno od גָּעַל „zošklivit si“ (v45): tvá duše byla ošklivena (nebo „v ošklivosti pociťované k tobě“).
+- **"and saw thee polluted in thine own blood" → „jak se zmítáš ve své krvi“** (v6, 22) – hebrejsky מִתְבּוֹסֶסֶת בְּדָמָיִךְ, hitpolel od בּוּס „šlapat“: „kopat kolem sebe, zmítat se“ (nejisté; „poskvrněná“ to slovo není); דָּמִים množné číslo „krve“ (také v9, 22, 36), zde krev porodu. **"I said unto thee when thou wast in thy blood, Live; yea, I said unto thee when thou wast in thy blood, Live" → „a řekl jsem ti ve tvé krvi: Žij! A řekl jsem ti ve tvé krvi: Žij!“** – וָאֹמַר לָךְ בְּדָמַיִךְ חֲיִי dvakrát, slovo za slovem; „ve tvé krvi“ může patřit k „řekl jsem“ i k „žij“: ponecháno otevřené; „když jsi byla“ a „ano“ v hebrejštině nejsou.
+- **"I have caused thee to multiply as the bud of the field" → „Deset tisíc, jako výhonek pole, jsem tě učinil“** (v7) – hebrejsky רְבָבָה כְּצֶמַח הַשָּׂדֶה נְתַתִּיךְ, hebrejský slovosled; רְבָבָה „deset tisíc“ (= bez počtu); נָתַן „dát, učinit“; צֶמַח „výhonek“. **"and thou hast increased and waxen great" → „a rozmnožila ses a stala ses velikou“** – וַתִּרְבִּי וַתִּגְדְּלִי, wayyiqtol. **"and thou art come to excellent ornaments" → „a vešla jsi do ozdoby ozdob“** – וַתָּבֹאִי בַּעֲדִי עֲדָיִים, doslova „v ozdobě ozdob“ (עֲדִי „ozdoby“, jako v11): nejvyšší krása (MT zachován; jinou punktací „do času měsíčků“, zpaměti). **"thy breasts are fashioned" → „Ňadra se zpevnila“** – שָׁדַיִם נָכֹנוּ, bez „tvá“; כּוּן nifal „být upevněn“. **"thine hair is grown" → „tvé vlasy vyrašily“** – צִמֵּחַ, sloveso od צֶמַח. **"whereas thou wast naked and bare" → „a byla jsi nahá a obnažená“** – וְאַתְּ עֵרֹם וְעֶרְיָה (také v22, 39): עֵרֹם „nahý“, עֶרְיָה „obnaženost“ (podstatné jméno).
+- **"Now when I passed by thee, and looked upon thee" → „A šel jsem kolem tebe a viděl jsem tě“** (v8) – hebrejsky וָאֶעֱבֹר … וָאֶרְאֵךְ, jako v6. **"thy time was the time of love" → „tvůj čas byl časem milování“** – עֵת דֹּדִים, דּוֹדִים „milování“ (množné číslo: láska milenců, jako Song 1:2). **"and I spread my skirt over thee" → „a rozprostřel jsem nad tebou svůj cíp“** – וָאֶפְרֹשׂ כְּנָפִי, כָּנָף „cíp“ oděvu, doslova „křídlo“ (jako Ruth 3:9: slib muže, že si ženu vezme). **"and covered thy nakedness" → „a přikryl jsem tvou nahotu“** – עֶרְוָה „nahota“. **"yea, I sware unto thee, and entered into a covenant with thee" → „a přísahal jsem ti a vešel jsem s tebou do smlouvy“** – וָאֶשָּׁבַע לָךְ וָאָבוֹא בִבְרִית אֹתָךְ, pokaždé „a“; בּוֹא בִבְרִית „vejít do smlouvy“ (jako 2 Chr 15:12). **"and thou becamest mine" → „a stala ses mou“** – וַתִּהְיִי לִי, doslova „a stala ses mi“.
+- **"Then washed I thee with water; yea, I throughly washed away thy blood from thee" → „A umyl jsem tě vodou a opláchl jsem z tebe tvou krev“** (v9) – hebrejsky וָאֶרְחָצֵךְ … וָאֶשְׁטֹף דָּמַיִךְ מֵעָלָיִךְ, רָחַץ „umýt“, שָׁטַף „opláchnout“ (dvě slovesa); סוּךְ „pomazat“ (olejem, ne מָשַׁח králů).
+- **"I clothed thee also with broidered work" → „A oblékl jsem tě do výšivky“** (v10, 13, 18) – hebrejsky רִקְמָה (jako Judg 5:30). **"and shod thee with badgers' skin" → „a obul jsem tě do tachaše“** – תַּחַשׁ, slovo kůží příbytku (Exod 25:5; 26:14): zvíře nebo druh kůže není známo; slovo zachováno. **"and I girded thee about with fine linen" → „a ovinul jsem tě jemným lnem“** – וָאֶחְבְּשֵׁךְ בַּשֵּׁשׁ, חָבַשׁ „ovinout, ovázat“; שֵׁשׁ „jemný len“. **"and I covered thee with silk" → „a přikryl jsem tě hedvábím“** – מֶשִׁי, doloženo jen zde a ve v13: „hedvábí“ je odhad (snad jemná nit nebo gáza): nejisté.
+- **"I decked thee also with ornaments" → „A ozdobil jsem tě ozdobami“** (v11) – hebrejsky וָאֶעְדֵּךְ עֶדִי, sloveso a podstatné jméno téhož kořene (také v13 „byla jsi ozdobena“). **"bracelets upon thy hands, and a chain on thy neck" → „náramky na ruce a řetěz na hrdlo“** – צְמִידִים עַל־יָדַיִךְ, יָד „ruka“ (míněno zápěstí); רָבִיד „řetěz“ (jako Gen 41:42); גָּרוֹן „hrdlo“.
+- **"And I put a jewel on thy forehead" → „A dal jsem ti kroužek do nosu“** (v12) – hebrejsky נֶזֶם עַל־אַפֵּךְ, נֶזֶם „kroužek“, אַף „nos“ (ne „čelo“). **"earrings in thine ears" → „náušnice na uši“** – עֲגִילִים עַל־אָזְנָיִךְ, „na“. **"a beautiful crown" → „korunu krásy“** – עֲטֶרֶת תִּפְאֶרֶת; תִּפְאֶרֶת „krása“ (také v17, 39), totéž české slovo jako יֹפִי „krása“ (v13–15, 25): dvě slova.
+- **"Thus wast thou decked … and thy raiment was of fine linen" → „A byla jsi ozdobena … a tvůj oděv byl jemný len“** (v13) – hebrejsky וַתַּעְדִּי; שֵׁשׁ je qere, psaný text má ששי (jiný pravopis téhož slova). **"thou didst eat fine flour, and honey, and oil" → „jemnou mouku a med a olej jsi jedla“** – předměty napřed; qere אָכָלְתְּ „jedla jsi“, psané אכלתי (starý pravopis téhož tvaru, nebo „jedl jsem“): zachováno qere. **"and thou wast exceeding beautiful" → „A byla jsi velmi, velmi krásná“** – וַתִּיפִי בִּמְאֹד מְאֹד. **"and thou didst prosper into a kingdom" → „a zdařilo se ti dojít ke kralování“** – וַתִּצְלְחִי לִמְלוּכָה, צָלַח „zdařit se“; מְלוּכָה „kralování“.
+- **"And thy renown went forth among the heathen" → „A vyšlo ti jméno mezi národy“** (v14) – hebrejsky וַיֵּצֵא לָךְ שֵׁם בַּגּוֹיִם, שֵׁם „jméno“ (také v15). **"for it was perfect through my comeliness" → „neboť byla celá skrze mou nádheru“** – כִּי כָּלִיל הוּא בַּהֲדָרִי, כָּלִיל „celý“; הָדָר „nádhera“.
+- **"But thou didst trust in thine own beauty" → „A spolehla ses na svou krásu“** (v15) – hebrejsky וַתִּבְטְחִי, wayyiqtol „a“. **"and playedst the harlot because of thy renown" → „a smilnila jsi kvůli svému jménu“** – עַל־שְׁמֵךְ, doslova „na svém jménu“. **"and pouredst out thy fornications on every one that passed by; his it was" → „a vylévala jsi svá smilstva na každého, kdo šel kolem: jemu ať to patří“** – לוֹ־יֶהִי, jussiv, doslova „jemu ať je“ (její krása nebo ona sama, daná každému); obě slova jsou nejistá (někteří je mají za písařovo opakování z v16, zpaměti).
+- **"and deckedst thy high places with divers colours" → „a udělala sis strakaté výšiny“** (v16) – hebrejsky וַתַּעֲשִׂי־לָךְ בָּמוֹת טְלֻאוֹת, בָּמָה „výšina“; טָלֻא „strakatý, záplatovaný“ (jako Gen 30:32; Josh 9:5): z látky z mnoha kusů nebo barev. **"the like things shall not come, neither shall it be so" → „věci, které nepřicházejí, a nebude to“** – לֹא בָאוֹת וְלֹא יִהְיֶה, slovo za slovem; smysl není znám (snad „takové věci nepřišly a nebudou“).
+- **"Thou hast also taken thy fair jewels" → „A vzala jsi předměty své krásy“** (v17, 39) – hebrejsky כְּלֵי תִפְאַרְתֵּךְ, כְּלִי „předmět“. **"images of men" → „obrazy mužského pohlaví“** – צַלְמֵי זָכָר, זָכָר „mužského pohlaví“ (jde právě o mužskou postavu); צֶלֶם „obraz“. **"and didst commit whoredom with them" → „a smilnila jsi s nimi“** – זָנָה jako v15.
+- **"And tookest thy broidered garments, and coveredst them" → „A vzala jsi svá roucha z výšivky a přikryla jsi je“** (v18) – hebrejsky בִּגְדֵי רִקְמָתֵךְ. **"and thou hast set mine oil and mine incense before them" → „a můj olej a mé kadidlo jsi položila před ně“** – předměty napřed; qere נָתַתְּ „položila jsi“, psané נתתי jako v13; נָתַן לִפְנֵי „klást před“.
+- **"My meat also which I gave thee" → „A můj chléb, který jsem ti dal“** (v19) – hebrejsky לַחְמִי „můj chléb“. **"wherewith I fed thee" → „jsem tě krmil“** – הֶאֱכַלְתִּיךְ, samostatná věta. **"for a sweet savour" → „k upokojující vůni“** – לְרֵיחַ נִיחֹחַ, slovo oltáře. **"and thus it was" → „a stalo se“** – וַיֶּהִי samo („tak“ v hebrejštině není).
+- **"and these hast thou sacrificed unto them to be devoured" → „a obětovala jsi je jim k jídlu“** (v20) – hebrejsky וַתִּזְבָּחִים לָהֶם לֶאֱכוֹל, זָבַח „obětovat“; לֶאֱכוֹל „k jídlu“ (aby jedli: kdo jí, se neříká). **"Is this of thy whoredoms a small matter" → „Byla snad tvá smilstva málo“** – הַמְעַט מִתַּזְנוּתָיִךְ (qere; psané מתזנתך v jednotném čísle), doslova „je to málo, z tvých smilstev“: příliš málo, a přichází víc (v21).
+- **"That thou hast slain my children, and delivered them to cause them to pass through the fire for them?" → „že jsi zařízla mé syny a dala jsi je, když jsi je jim převáděla?“** (v21) – hebrejsky וַתִּשְׁחֲטִי אֶת־בָּנַי וַתִּתְּנִים בְּהַעֲבִיר אוֹתָם לָהֶם: שָׁחַט „zaříznout“; בָּנַי „mé syny“; הֶעֱבִיר „převést“ („ohněm“ zde v hebrejštině není; je ve 20:31, zpaměti).
+- **"thou hast not remembered" → „jsi nevzpomněla“** (v22, 43) – hebrejsky זָכַרְתְּ je qere, psané זכרתי jako v13. **"and wast polluted in thy blood" → „zmítající se ve své krvi jsi byla“** – מִתְבּוֹסֶסֶת בְּדָמֵךְ הָיִית, jako v6, s הָיִית „byla jsi“ na konci.
+- **"And it came to pass after all thy wickedness, (woe, woe unto thee! saith the Lord GOD;)" → „A stalo se po všem tvém zlu – běda, běda ti! je výrok Pána Jahveho –“** (v23) – hebrejsky וַיְהִי אַחֲרֵי כָּל־רָעָתֵךְ אוֹי אוֹי לָךְ: וַיְהִי „A stalo se“ zachováno; רָעָה „zlo“; אוֹי „běda“ (vedle הוֹי, totéž české slovo).
+- **"That thou hast also built unto thee an eminent place, and hast made thee an high place in every street" → „že sis postavila násep a udělala sis vyvýšené místo na každém prostranství“** (v24, 31, 39) – hebrejsky גַּב „hřbet, násep“ (vyvýšená plošina nebo klenutá stavba: nejisté); רָמָה „vyvýšené místo“ (od רוּם „být vysoký“; jiné slovo než בָּמָה „výšina“, v16); רְחוֹב „prostranství“.
+- **"Thou hast built thy high place at every head of the way" → „Na každém začátku cesty jsi postavila své vyvýšené místo“** (v25, 31) – hebrejsky אֶל־כָּל־רֹאשׁ דֶּרֶךְ, doslova „hlava cesty“, místo napřed. **"and hast made thy beauty to be abhorred" → „a učinila jsi svou krásu ohavnou“** – וַתְּתַעֲבִי אֶת־יָפְיֵךְ, piel od תָּעַב (sloveso od תּוֹעֵבָה „ohavnost“), zde „učinit ohavným“. **"and hast opened thy feet to every one that passed by" → „a roztahovala jsi své nohy každému, kdo šel kolem“** – וַתְּפַשְּׂקִי אֶת־רַגְלַיִךְ, פִּשֵּׂק „roztáhnout dokořán“; רַגְלַיִם „nohy“. **"and multiplied thy whoredoms" → „a rozmnožovala jsi svá smilstva“** – qere תַּזְנוּתָיִךְ (množné číslo), psané תזנתך (jednotné).
+- **"Thou hast also committed fornication with the Egyptians thy neighbours, great of flesh" → „A smilnila jsi se syny Micrajim, svými sousedy velikého těla“** (v26) – hebrejsky בְּנֵי־מִצְרַיִם „synové Micrajim“; גִּדְלֵי בָשָׂר „velikého těla“, slovo za slovem (בָּשָׂר zde o mužském údu, jako 23:20; Lev 15:2). **"to provoke me to anger" → „abys mě popouzela“** – לְהַכְעִיסֵנִי, הִכְעִיס „popouzet“.
+- **"Behold, therefore I have stretched out my hand over thee" → „A hle, vztáhl jsem proti tobě svou ruku“** (v27) – hebrejsky וְהִנֵּה נָטִיתִי יָדִי עָלַיִךְ, „proto“ v hebrejštině není. **"and have diminished thine ordinary food" → „a ubral jsem ti tvůj stanovený díl“** – וָאֶגְרַע חֻקֵּךְ, חֹק zde „stanovený díl“ (pokrmu, jako Gen 47:22; jinde „ustanovení“: jedno slovo). **"and delivered thee unto the will of them that hate thee" → „a vydal jsem tě do duše těch, které tě nenávidí“** – בְּנֶפֶשׁ שֹׂנְאוֹתַיִךְ, נֶפֶשׁ „duše“, zde její žádost (jako Ps 27:12); příčestí je v ženském rodě. **"which are ashamed of thy lewd way" → „které byly zahanbeny tvou cestou zvrhlosti“** – הַנִּכְלָמוֹת מִדַּרְכֵּךְ זִמָּה, נִכְלַם „být zahanben“; זִמָּה „zvrhlost“ (také v43, 58).
+- **"Thou hast played the whore also with the Assyrians, because thou wast unsatiable" → „A smilnila jsi se syny Aššuru, protože ses nenasytila“** (v28) – hebrejsky אֶל־בְּנֵי אַשּׁוּר „synové Aššuru“; מִבִּלְתִּי שָׂבְעָתֵךְ, doslova „z tvého nenasycení“; שָׂבַע „nasytit se“ (také v29). **"and yet couldest not be satisfied" → „a ani tak ses nenasytila“** – וְגַם לֹא שָׂבָעַתְּ.
+- **"Thou hast moreover multiplied thy fornication in the land of Canaan unto Chaldea" → „A rozmnožovala jsi své smilstvo do země Kenaan, do Kasdim“** (v29) – hebrejsky אֶל־אֶרֶץ כְּנַעַן כַּשְׂדִּימָה: כְּנַעַן „Kenaan“ (také „kupec“, Hos 12:7: země obchodníků, zpaměti); כַּשְׂדִּימָה „do Kasdim“, jako přístavek.
+- **"How weak is thine heart" → „Jak chřadne tvé srdce“** (v30) – hebrejsky מָה אֲמֻלָה לִבָּתֵךְ: אָמַל „chřadnout“ (jako 1 Sam 2:5); tvar i ženské לִבָּה „srdce“ jsou doloženy jen zde: nejisté (čte se také „jak jsem proti tobě naplněn hněvem“, z jiného kořene, zpaměti). **"seeing thou doest all these things, the work of an imperious whorish woman" → „když děláš všechno toto, dílo panovačné ženy nevěstky“** – בַּעֲשׂוֹתֵךְ … מַעֲשֵׂה אִשָּׁה־זוֹנָה שַׁלָּטֶת, שַׁלֶּטֶת od שָׁלַט „mít moc nad“: žena, která nikomu nepodléhá.
+- **"and hast not been as an harlot, in that thou scornest hire" → „A nebyla jsi jako nevěstka, když ses vysmívala platu“** (v31) – hebrejsky וְלֹא הָיִית כַּזּוֹנָה לְקַלֵּס אֶתְנָן: qere עָשִׂית „dělala jsi“ a הָיִית „byla jsi“, psané tvary jako v13; קִלֵּס „vysmívat se“; אֶתְנַן „plat“ (co dostává nevěstka; také v34, 41).
+- **"But as a wife that committeth adultery, which taketh strangers instead of her husband!" → „Žena, která cizoloží: místo svého muže bere cizí!“** (v32) – hebrejsky הָאִשָּׁה הַמְּנָאָפֶת תַּחַת אִישָׁהּ תִּקַּח אֶת־זָרִים: „ale jako“ v hebrejštině není; אִשָּׁה / אִישׁ „žena / muž“ manželské dvojice; נָאַף „cizoložit“ (také v38); תַּחַת „místo“; זָר „cizí“.
+- **"They give gifts to all whores" → „Všem nevěstkám dávají dar“** (v33) – hebrejsky לְכָל־זֹנוֹת יִתְּנוּ־נֵדֶה, hebrejský slovosled; נֵדֶה a נָדָן (jen zde) „dar“ (odměna nevěstky; nejisté). **"and hirest them" → „a podplácela jsi je“** – וַתִּשְׁחֳדִי, sloveso od שֹׁחַד „úplatek“. **"on every side" → „ze všech stran“** – מִסָּבִיב (také v37, 57).
+- **"And the contrary is in thee from other women in thy whoredoms" → „A bylo v tobě opačné než u žen v tvých smilstvech“** (v34) – hebrejsky וַיְהִי־בָךְ הֵפֶךְ מִן־הַנָּשִׁים, הֵפֶךְ „opak“ (od הָפַךְ „obrátit“); „jiné“ v hebrejštině není. **"whereas none followeth thee to commit whoredoms" → „a za tebou nikdo nesmilní“** – וְאַחֲרַיִךְ לֹא זוּנָּה, pual od זָנָה bez podmětu: nikdo za tebou nechodí kvůli smilstvu. **"and in that thou givest a reward, and no reward is given unto thee, therefore thou art contrary" → „a když dáváš plat, kdežto tobě se plat nedává, stala ses opakem“** – אֶתְנַן „plat“ dvakrát; וַתְּהִי לְהֶפֶךְ, doslova „a stala ses k opaku“; „proto“ v hebrejštině není.
+- **"Wherefore, O harlot, hear the word of the LORD" → „Proto, nevěstko, slyš slovo Jahveho“** (v35) – hebrejsky לָכֵן זוֹנָה; bez „ó“.
+- **"Because thy filthiness was poured out" → „Protože byla vylita tvá měď“** (v36) – hebrejsky יַעַן הִשָּׁפֵךְ נְחֻשְׁתֵּךְ: נְחֹשֶׁת „bronz, měď“ (jako kov: měďáky, plat z v31–34, zpaměti); bere se také z jiného kořene, „chtíč“ nebo výtok těla (KJV „nečistota“): nejisté; slovo zachováno. **"and thy nakedness discovered through thy whoredoms with thy lovers" → „a byla odkryta tvá nahota v tvých smilstvech s tvými milenci“** – וַתִּגָּלֶה עֶרְוָתֵךְ, גִּלָּה „odkrýt“ (také v37, 57); עַל „s“, doslova „na“; מְאַהֲבִים „milenci“ (také v33, 37). **"and with all the idols of thy abominations" → „a se všemi modlami tvých ohavností“** – גִּלּוּלֵי תוֹעֲבוֹתַיִךְ. **"and by the blood of thy children" → „a podle krve tvých synů“** – וְכִדְמֵי בָנַיִךְ, כְּ „podle“; דְּמֵי množné číslo.
+- **"Behold, therefore I will gather all thy lovers, with whom thou hast taken pleasure" → „proto hle, shromažďuji všechny tvé milence, jimž jsi byla příjemná“** (v37) – hebrejsky הִנְנִי מְקַבֵּץ, příčestí; אֲשֶׁר עָרַבְתְּ עֲלֵיהֶם, עָרַב „být příjemný, sladký“ (jiný kořen než עָרַב „zaručit se“). **"with all them that thou hast hated" → „spolu se všemi, které jsi nenáviděla“** – עַל כָּל־אֲשֶׁר שָׂנֵאת. **"I will even gather them round about against thee" → „a shromáždím je proti tobě ze všech stran“** – וְקִבַּצְתִּי. **"that they may see" → „a uvidí“** – וְרָאוּ.
+- **"And I will judge thee, as women that break wedlock and shed blood are judged" → „A budu tě soudit soudy žen, které cizoloží a které prolévají krev“** (v38) – hebrejsky וּשְׁפַטְתִּיךְ מִשְׁפְּטֵי נֹאֲפוֹת וְשֹׁפְכֹת דָּם, podstatné jméno slovesa: „soudit tě soudy“; שָׁפַךְ „vylít“ (také v15, 36). **"and I will give thee blood in fury and jealousy" → „a dám tě krví zuřivosti a žárlivosti“** – וּנְתַתִּיךְ דַּם חֵמָה וְקִנְאָה, slovo za slovem (= učiním tě krví, kterou prolije zuřivost a žárlivost); חֵמָה „zuřivost“, קִנְאָה „žárlivost“ (také v42).
+- **"And I will also give thee into their hand" → „A vydám tě do jejich ruky“** (v39) – hebrejsky בְּיָדָם, jednotné číslo. **"and they shall throw down thine eminent place, and shall break down thy high places" → „a strhnou tvůj násep a zboří tvá vyvýšená místa“** – הָרַס „strhnout“, נָתַץ „zbořit“. **"they shall strip thee also of thy clothes" → „a svléknou z tebe tvá roucha“** – הִפְשִׁיט „svléknout“; בֶּגֶד „roucho“. **"and leave thee naked and bare" → „a nechají tě nahou a obnaženou“** – הִנִּיחַ „nechat“.
+- **"They shall also bring up a company against thee" → „A přivedou na tebe shromáždění“** (v40) – hebrejsky קָהָל „shromáždění“. **"and thrust thee through with their swords" → „a rozsekají tě svými meči“** – וּבִתְּקוּךְ, בִּתֵּק doloženo jen zde: „rozsekat“ (nejisté). רָגַם „ukamenovat“.
+- **"and execute judgments upon thee in the sight of many women" → „a vykonají na tobě soudy před očima mnoha žen“** (v41) – hebrejsky וְעָשׂוּ־בָךְ שְׁפָטִים לְעֵינֵי, שְׁפָטִים „soudy“ (soudní činy); לְעֵינֵי „před očima“. **"and I will cause thee to cease from playing the harlot" → „a skoncuji s tím, že jsi nevěstkou“** – וְהִשְׁבַּתִּיךְ מִזּוֹנָה, doslova „dám ti přestat od nevěstky“. **"and thou also shalt give no hire any more" → „a také plat už nebudeš dávat“** – předmět napřed.
+- **"So will I make my fury toward thee to rest" → „A dám své zuřivosti spočinout na tobě“** (v42) – hebrejsky וַהֲנִחֹתִי חֲמָתִי בָּךְ (jako 5:13). **"and my jealousy shall depart from thee" → „a má žárlivost od tebe odstoupí“** – וְסָרָה, סוּר „odstoupit“. **"and I will be quiet, and will be no more angry" → „a budu mít klid a už nebudu popuzen“** – שָׁקַט „mít klid“; כָּעַס „být popuzen“ (qal od „popouzet“ ve v26).
+- **"but hast fretted me in all these things" → „a rozrušovala ses proti mně tím vším“** (v43) – hebrejsky וַתִּרְגְּזִי־לִי, רָגַז „rozrušit se“. **"behold, therefore I also will recompense thy way upon thine head" → „i já, hle, jsem položil tvou cestu na tvou hlavu“** – וְגַם־אֲנִי הֵא דַּרְכֵּךְ בְּרֹאשׁ נָתַתִּי, perfektum; הֵא „hle“ (vzácný tvar); נָתַן „položit na“, doslova „dát“ (jako 7:3; smyslem je „odplatit“). **"and thou shalt not commit this lewdness above all thine abominations" → „a což jsi nespáchala zvrhlost navrch ke všem svým ohavnostem?“** – וְלֹא עָשִׂית אֶת־הַזִּמָּה עַל כָּל־תּוֹעֲבֹתָיִךְ (qere; psané עשיתי, „a já jsem nespáchal zvrhlost“): bez tázacího slova; čteno jako otázka, jak žádá souvislost; bere se také jako oznámení („a nespáchala jsi …“ nebo „abys nespáchala …“).
+- **"every one that useth proverbs shall use this proverb against thee" → „každý, kdo mluví v příslovích, proti tobě řekne toto přísloví“** (v44) – hebrejsky כָּל־הַמֹּשֵׁל עָלַיִךְ יִמְשֹׁל, מָשַׁל „mluvit v příslovích“ (sloveso od מָשָׁל); „toto“ je doplněno. **"As is the mother, so is her daughter" → „Jaká matka, její dcera“** – כְּאִמָּה בִּתָּהּ, dvě slova, bez slovesa.
+- **"Thou art thy mother's daughter, that lotheth her husband and her children" → „Dcerou své matky jsi ty, která si ošklivila svého muže a své syny“** (v45) – hebrejsky בַּת־אִמֵּךְ אַתְּ גֹּעֶלֶת אִישָׁהּ וּבָנֶיהָ, hebrejský slovosled; גָּעַל „zošklivit si“; בָּנִים „synové“. **"your mother was an Hittite, and your father an Amorite" → „Vaše matka byla Chittitka a váš otec Emori“** – אִמְּכֶן … אֲבִיכֶן, „vaše“ v množném čísle (sester dohromady).
+- **"And thine elder sister is Samaria, she and her daughters that dwell at thy left hand" → „A tvou starší sestrou je Šomron, ona a její dcery, která bydlí na sever od tebe“** (v46) – hebrejsky הַיּוֹשֶׁבֶת עַל־שְׂמֹאולֵךְ, doslova „která bydlí po tvé levici“ (kdo hledí na východ, má sever po levici); הַגְּדוֹלָה „veliká“ (= starší). **"and thy younger sister, that dwelleth at thy right hand" → „a tvou sestrou, mladší než ty, která bydlí na jih od tebe“** – הַקְּטַנָּה מִמֵּךְ הַיּוֹשֶׁבֶת מִימִינֵךְ, doslova „menší než ty … od tvé pravice“; יָשַׁב „bydlet“.
+- **"Yet hast thou not walked after their ways, nor done after their abominations: but, as if that were a very little thing, thou wast corrupted more than they" → „A ne po jejich cestách jsi chodila ani podle jejich ohavností jsi jednala – jako by to bylo velmi málo – a způsobila jsi zkázu víc než ony“** (v47) – hebrejsky וְלֹא בְדַרְכֵיהֶן הָלַכְתְּ וּבְתוֹעֲבוֹתֵיהֶן עָשִׂית כִּמְעַט קָט וַתַּשְׁחִתִי מֵהֵן: qere עָשִׂית; כִּמְעַט קָט, קָט doloženo jen zde: „jako velmi málo“ (to ti bylo málo; také „za velmi krátkou chvíli“); „by to bylo“ doplněno; הִשְׁחִית „způsobit zkázu“ (KJV „byla jsi zkažena“).
+- **"As I live … Sodom thy sister hath not done" → „Jakože jsem živ … Sedom, tvá sestra, nejednala“** (v48) – hebrejsky חַי־אָנִי … אִם־עָשְׂתָה, přísaha, doslova „jestliže Sedom jednala“: přísežné „nejednala“.
+- **"pride, fulness of bread, and abundance of idleness was in her and in her daughters" → „pýcha, sytost chleba a bezstarostný klid měla ona a její dcery“** (v49) – hebrejsky גָּאוֹן שִׂבְעַת־לֶחֶם וְשַׁלְוַת הַשְׁקֵט הָיָה לָהּ וְלִבְנוֹתֶיהָ: גָּאוֹן „pýcha“ (o lidech); שִׂבְעָה „sytost“ (kořen שָׂבַע); שַׁלְוַת הַשְׁקֵט, doslova „klid toho, že mají klid“ (שַׁלְוָה „klid“, jako Ps 122:7; הַשְׁקֵט od שָׁקַט „mít klid“). **"neither did she strengthen the hand of the poor and needy" → „a ruku ubohého a nuzného neposílila“** – וְיַד־עָנִי וְאֶבְיוֹן לֹא הֶחֱזִיקָה, předmět napřed; עָנִי „ubohý“, אֶבְיוֹן „nuzný“; הֶחֱזִיק „posílit“ (doslova „učinit silnou“).
+- **"And they were haughty, and committed abomination before me: therefore I took them away as I saw good" → „A byly povýšené a páchaly přede mnou ohavnost; a odstranil jsem je, když jsem to viděl“** (v50) – hebrejsky וַתִּגְבְּהֶינָה, doslova „a byly vysoké“; תּוֹעֵבָה „ohavnost“, jednotné číslo; וָאָסִיר „a odstranil jsem“ (bez „proto“); כַּאֲשֶׁר רָאִיתִי „když / jak jsem viděl“ („za dobré“ v hebrejštině není; „to“ doplněno).
+- **"Neither hath Samaria committed half of thy sins" → „A Šomron nezhřešila ani podle poloviny tvých hříchů“** (v51) – hebrejsky וְשֹׁמְרוֹן כַּחֲצִי חַטֹּאתַיִךְ לֹא חָטָאָה, doslova „jako polovina tvých hříchů nezhřešila“; token obsahuje i sloveso, protože jeho rod se mění podle jména (Šomron / Samaří). **"and hast justified thy sisters" → „a učinila jsi své sestry spravedlivými“** – וַתְּצַדְּקִי אֶת־אֲחוֹתַיִךְ (qere, množné číslo; psané „tvou sestru“), piel od צָדַק: učinila je spravedlivými (= aby vedle tebe vypadaly spravedlivé; také v52); qere עָשִׂית.
+- **"Thou also, which hast judged thy sisters, bear thine own shame" → „I ty nes svou pohanu, ty, která jsi zakročila za své sestry“** (v52) – hebrejsky גַּם־אַתְּ שְׂאִי כְלִמָּתֵךְ אֲשֶׁר פִּלַּלְתְּ לַאֲחוֹתֵךְ: כְּלִמָּה „pohana“ (také v54, 63); פִּלֵּל „zakročit“ (vstoupit mezi a rozhodnout; jako Ps 106:30): svými horšími hříchy se za ně přimluvila. **"for thy sins that thou hast committed more abominable than they" → „tvými hříchy, jimiž sis počínala ohavněji než ony“** – הִתְעִיב „počínat si ohavně“ (jako 1 Kgs 21:26). **"they are more righteous than thou" → „jsou spravedlivější než ty“** – תִּצְדַּקְנָה מִמֵּךְ, צָדַק qal „být spravedlivý“. **"yea, be thou confounded also" → „I ty buď zahanbena“** – בּוֹשִׁי, בּוֹשׁ „být zahanben“ (český trpný tvar; נִכְלַם, v54, 61, má totéž české slovo). **"in that thou hast justified thy sisters" → „když jsi učinila své sestry spravedlivými“** – בְּצַדֶּקְתֵּךְ.
+- **"When I shall bring again their captivity … then will I bring again the captivity of thy captives in the midst of them" → „A obnovím jejich úděl … a úděl tvého údělu uprostřed nich“** (v53) – hebrejsky וְשַׁבְתִּי אֶת־שְׁבִיתְהֶן … וּשְׁבוּת שְׁבִיתַיִךְ: שׁוּב שְׁבוּת / שְׁבִית „obnovit úděl“ (jedno spojení; doslova „obrátit zajetí“ nebo „obrátit obrat“, tradičně „navrátit zajetí“); qere שְׁבוּת třikrát, psané שבית; poslední spojení zdvojuje podstatné jméno, zachováno slovo za slovem. „Když … tehdy“ v hebrejštině není: וְ „A“.
+- **"That thou mayest bear thine own shame, and mayest be confounded in all that thou hast done, in that thou art a comfort unto them" → „abys nesla svou pohanu a byla zahanbena za všechno, co jsi učinila, když je těšíš“** (v54) – hebrejsky לְמַעַן תִּשְׂאִי כְלִמָּתֵךְ וְנִכְלַמְתְּ … בְּנַחֲמֵךְ אֹתָן: נִכְלַם „být zahanben“ (také v61); נִחַם piel „těšit“, infinitiv s předmětem.
+- **"When thy sisters … shall return to their former estate … then thou and thy daughters shall return" → „A tvé sestry … se navrátí do svého dřívějšího stavu … a ty a tvé dcery se navrátíte“** (v55) – hebrejsky וַאֲחוֹתַיִךְ … תָּשֹׁבְןָ לְקַדְמָתָן, pokaždé „a“; bez „když … tehdy“; קַדְמָה „dřívější stav“.
+- **"For thy sister Sodom was not mentioned by thy mouth in the day of thy pride" → „A Sedom, tvá sestra, nebyla zvěstí ve tvých ústech v den tvé pýchy“** (v56) – hebrejsky וְלוֹא הָיְתָה סְדֹם אֲחוֹתֵךְ לִשְׁמוּעָה בְּפִיךְ בְּיוֹם גְּאוֹנָיִךְ: שְׁמוּעָה „zvěst“ (věc slyšená); čte se také jako otázka („Nebyla snad Sedom příslovím …?“); גְּאוֹנַיִךְ „tvá pýcha“ (množné číslo).
+- **"Before thy wickedness was discovered, as at the time of thy reproach of the daughters of Syria" → „dříve než bylo odkryto tvé zlo, jako v čase potupy dcer Aramu“** (v57) – hebrejsky בְּטֶרֶם תִּגָּלֶה רָעָתֵךְ כְּמוֹ עֵת חֶרְפַּת בְּנוֹת־אֲרָם: רָעָה „zlo“; חֶרְפָּה „potupa“; אֲרָם „Aram“, jak stojí (mnohé rukopisy a překlady čtou אֱדוֹם „Edom“, zpaměti: MT zachován). **"which despise thee round about" → „které tebou pohrdají ze všech stran“** – הַשָּׁאטוֹת אוֹתָךְ מִסָּבִיב, שׁוּט „pohrdat“ (také 25:6, 15; 28:24, 26).
+- **"Thou hast borne thy lewdness and thine abominations, saith the LORD" → „Svou zvrhlost a své ohavnosti, ty jsi je nesla, je výrok Jahveho“** (v58) – hebrejsky אֶת־זִמָּתֵךְ וְאֶת־תּוֹעֲבוֹתַיִךְ אַתְּ נְשָׂאתִים, předměty napřed, znovu zachycené „je“; perfektum.
+- **"I will even deal with thee as thou hast done" → „A naložím s tebou, jak jsi jednala ty“** (v59) – hebrejsky וְעָשִׂיתִי (qere; psané ועשית, „a učiníš“), „a“. **"which hast despised the oath in breaking the covenant" → „která jsi pohrdla přísahou, abys porušila smlouvu“** – אֲשֶׁר־בָּזִית אָלָה לְהָפֵר בְּרִית: בָּזָה „pohrdnout“; אָלָה „přísaha“ (přísežný svazek, který svolává kletbu na toho, kdo ho poruší; slovo je také „kletba“); הֵפֵר בְּרִית „porušit smlouvu“, infinitiv.
+- **"Nevertheless I will remember my covenant with thee" → „A já, já si vzpomenu na svou smlouvu s tebou“** (v60) – hebrejsky וְזָכַרְתִּי אֲנִי, „a“, s důrazným אֲנִי „já“ (také v62); „avšak“ v hebrejštině není. **"an everlasting covenant" → „věčnou smlouvu“** – בְּרִית עוֹלָם, doslova „smlouva věku“; הֵקִים בְּרִית „ustavit smlouvu“ (také v62).
+- **"Then thou shalt remember thy ways, and be ashamed, when thou shalt receive thy sisters, thine elder and thy younger" → „A vzpomeneš si na své cesty a budeš zahanbena, až vezmeš své sestry, ty starší než ty, spolu s těmi mladšími než ty“** (v61) – hebrejsky וְזָכַרְתְּ … וְנִכְלַמְתְּ בְּקַחְתֵּךְ אֶת־אֲחוֹתַיִךְ הַגְּדֹלוֹת מִמֵּךְ אֶל־הַקְּטַנּוֹת מִמֵּךְ, doslova „ty větší než ty, k těm menším než ty“; לָקַח „vzít“. **"but not by thy covenant" → „ale ne z tvé smlouvy“** – וְלֹא מִבְּרִיתֵךְ, slovo za slovem (ne na základě tvé smlouvy; nebo „ne z tvé strany smlouvy“).
+- **"And I will establish my covenant with thee; and thou shalt know that I am the LORD" → „A já, já ustavím svou smlouvu s tebou a poznáš, že já jsem Jahve“** (v62) – hebrejsky וַהֲקִימוֹתִי אֲנִי אֶת־בְּרִיתִי אִתָּךְ וְיָדַעַתְּ כִּי־אֲנִי יְהוָה, formule poznání (jako 13:14).
+- **"That thou mayest remember, and be confounded, and never open thy mouth any more because of thy shame" → „abys vzpomínala a byla zahanbena a už ti nebylo otevření úst kvůli tvé pohaně“** (v63) – hebrejsky לְמַעַן תִּזְכְּרִי וָבֹשְׁתְּ וְלֹא יִהְיֶה־לָּךְ עוֹד פִּתְחוֹן פֶּה מִפְּנֵי כְּלִמָּתֵךְ: פִּתְחוֹן פֶּה „otevření úst“ (také 29:21); מִפְּנֵי „kvůli“. **"when I am pacified toward thee for all that thou hast done" → „až za tebe vykonám smíření za všechno, co jsi učinila“** – בְּכַפְּרִי־לָךְ לְכָל־אֲשֶׁר עָשִׂית, כִּפֶּר „vykonat smíření“ (doslova „přikrýt“), s לְ „za“.
 
 ### Poznámky
-- **Nejdelší kapitola u Ezekiela** – rozsáhlá alegorie Jerusalemu jako nalezené holčičky, z níž se stala nevěrná manželka.
-- **Hřích Sodomy** (v49) – pýcha, obžerství, útlak chudých; ne pouze sexuální.
+- **v1–63** – jeden výrok ve dvou částech: Jerušalajim jako nalezenec vzatý za ženu, který se stane nevěstkou (v1–43), a její sestry Šomron a Sedom (v44–63). Obraz je hebrejštiny samé; verše ho nesou, Změny vysvětlují jen slova.
+- **Nepravost Sedom** (v49–50) – text jmenuje pýchu, sytost chleba, bezstarostný klid a ubohé ponechané bez pomoci, potom „ohavnost“ (v50).

@@ -1,68 +1,87 @@
 # Genesis 28
 
-[1] ⟦isaac|Yitzchaq|Isaac⟧ called ⟦jacob|Yaaqov|Jacob⟧ and blessed him, and charged him, saying, "You shall not take a wife from the daughters of ⟦canaan|Kenaan|Canaan⟧.
+[1] And ⟦isaac|Yitzchaq|Isaac⟧ called ⟦jacob|Yaaqov|Jacob⟧ and blessed him and commanded him and said to him, "You shall not take a wife from the daughters of ⟦canaan|Kenaan|Canaan⟧.
 
-[2] Arise, go to ⟦paddan-aram|Paddan Aram|Paddan-Aram⟧, to the house of ⟦bethuel|Betuel|Bethuel⟧ your mother's father; and take a wife for yourself from there, from the daughters of ⟦laban|Lavan|Laban⟧ your mother's brother.
+[2] Rise, go to ⟦paddan-aram|Paddan Aram|Paddan-Aram⟧, to the house of ⟦bethuel|Betuel|Bethuel⟧ your mother's father, and take for yourself from there a wife from the daughters of ⟦laban|Lavan|Laban⟧ your mother's brother.
 
-[3] May ⟦el-shaddai|El Shaddai|God Almighty⟧ bless you and make you fruitful and multiply you, that you may become a company of peoples.
+[3] And may ⟦el-shaddai|El Shaddai|God Almighty⟧ bless you and make you fruitful and multiply you, and you shall become an assembly of peoples.
 
-[4] May he give you the blessing of ⟦abraham|Avraham|Abraham⟧, to you and to your offspring with you, that you may take possession of the land of your sojourning, which ⟦elohim|Elohim|God⟧ gave to ⟦abraham|Avraham|Abraham⟧."
+[4] And may he give you the blessing of ⟦abraham|Avraham|Abraham⟧, to you and to your seed with you, that you may possess the land of your sojournings, which ⟦elohim|Elohim|God⟧ gave to ⟦abraham|Avraham|Abraham⟧."
 
-[5] So ⟦isaac|Yitzchaq|Isaac⟧ sent ⟦jacob|Yaaqov|Jacob⟧ away, and he went to ⟦paddan-aram|Paddan Aram|Paddan-Aram⟧, to ⟦laban|Lavan|Laban⟧ son of ⟦bethuel|Betuel|Bethuel⟧ the ⟦aramean|Arammi|Aramean⟧, brother of ⟦rebekah|Rivqah|Rebekah⟧, the mother of ⟦jacob|Yaaqov|Jacob⟧ and ⟦esau|Esav|Esau⟧.
+[5] And ⟦isaac|Yitzchaq|Isaac⟧ sent ⟦jacob|Yaaqov|Jacob⟧, and he went to ⟦paddan-aram|Paddan Aram|Paddan-Aram⟧, to ⟦laban|Lavan|Laban⟧ the son of ⟦bethuel|Betuel|Bethuel⟧ the ⟦aramean|Arammi|Aramean⟧, the brother of ⟦rebekah|Rivqah|Rebekah⟧, the mother of ⟦jacob|Yaaqov|Jacob⟧ and ⟦esau|Esav|Esau⟧.
 
-[6] Now ⟦esau|Esav|Esau⟧ saw that ⟦isaac|Yitzchaq|Isaac⟧ had blessed ⟦jacob|Yaaqov|Jacob⟧ and sent him away to ⟦paddan-aram|Paddan Aram|Paddan-Aram⟧ to take a wife from there, and that as he blessed him he charged him, saying, "You shall not take a wife from the daughters of ⟦canaan|Kenaan|Canaan⟧,"
+[6] And ⟦esau|Esav|Esau⟧ saw that ⟦isaac|Yitzchaq|Isaac⟧ had blessed ⟦jacob|Yaaqov|Jacob⟧ and sent him away to ⟦paddan-aram|Paddan Aram|Paddan-Aram⟧, to take for himself a wife from there, and that when he blessed him he commanded him, saying, "You shall not take a wife from the daughters of ⟦canaan|Kenaan|Canaan⟧."
 
-[7] and that ⟦jacob|Yaaqov|Jacob⟧ had obeyed his father and his mother and had gone to ⟦paddan-aram|Paddan Aram|Paddan-Aram⟧.
+[7] And ⟦jacob|Yaaqov|Jacob⟧ listened to his father and to his mother and went to ⟦paddan-aram|Paddan Aram|Paddan-Aram⟧.
 
-[8] So when ⟦esau|Esav|Esau⟧ saw that the daughters of ⟦canaan|Kenaan|Canaan⟧ did not please ⟦isaac|Yitzchaq|Isaac⟧ his father,
+[8] And ⟦esau|Esav|Esau⟧ saw that the daughters of ⟦canaan|Kenaan|Canaan⟧ were bad in the eyes of ⟦isaac|Yitzchaq|Isaac⟧ his father.
 
-[9] ⟦esau|Esav|Esau⟧ went to ⟦ishmael|Yishmael|Ishmael⟧ and took ⟦mahalath|Machalat|Mahalath⟧ the daughter of ⟦ishmael|Yishmael|Ishmael⟧, ⟦abraham|Avraham|Abraham⟧'s son, the sister of ⟦nebaioth|Nevayot|Nebaioth⟧, as his wife, in addition to the wives he already had.
+[9] And ⟦esau|Esav|Esau⟧ went to ⟦ishmael|Yishmael|Ishmael⟧ and took ⟦mahalath|Machalat|Mahalath⟧ the daughter of ⟦ishmael|Yishmael|Ishmael⟧ the son of ⟦abraham|Avraham|Abraham⟧, the sister of ⟦nebaioth|Nevayot|Nebaioth⟧, in addition to his wives, to be his wife.
 
-[10] ⟦jacob|Yaaqov|Jacob⟧ left ⟦beersheba|Beer Sheva|Beersheba⟧ and went toward ⟦haran-city|Charan|Haran⟧.
+[10] And ⟦jacob|Yaaqov|Jacob⟧ went out from ⟦beersheba|Beer Sheva|Beersheba⟧ and went to ⟦haran-city|Charan|Haran⟧.
 
-[11] He came upon a certain place and stayed there for the night, because the sun had set. Taking one of the stones of the place, he put it under his head, and he lay down in that place.
+[11] And he came upon the place and lodged there, for the sun had set; and he took of the stones of the place and set it at his head, and he lay down in that place.
 
-[12] He dreamed — and behold, a stairway set up on the earth with its top reaching to the heavens, and behold, messengers of ⟦elohim|Elohim|God⟧ ascending and descending on it.
+[12] And he dreamed, and behold, a stairway set up on the earth, and its top reaching to the heavens; and behold, angels of ⟦elohim|Elohim|God⟧ going up and going down on it.
 
-[13] And behold, ⟦yhwh|Yahweh|the LORD⟧ stood above it and said, "I am ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of ⟦abraham|Avraham|Abraham⟧ your father and the ⟦elohim|Elohim|God⟧ of ⟦isaac|Yitzchaq|Isaac⟧. The land on which you lie I will give to you and to your offspring.
+[13] And behold, ⟦yhwh|Yahweh|the LORD⟧ stood by him and said, "I am ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of ⟦abraham|Avraham|Abraham⟧ your father and the ⟦elohim|Elohim|God⟧ of ⟦isaac|Yitzchaq|Isaac⟧. The land on which you are lying, to you I will give it, and to your seed.
 
-[14] And your offspring shall be as the dust of the earth, and you shall spread abroad to the west and to the east and to the north and to the south; and in you and in your offspring all the clans of the earth shall find blessing.
+[14] And your seed shall be as the dust of the earth, and you shall spread abroad to the west and to the east and to the north and to the south; and in you all the clans of the ground shall be blessed, and in your seed.
 
-[15] And behold, I am with you and will keep you wherever you go, and will bring you back to this land; for I will not leave you until I have done what I have spoken to you."
+[15] And behold, I am with you, and I will keep you wherever you go, and I will bring you back to this ground; for I will not forsake you until I have done what I have spoken to you."
 
-[16] ⟦jacob|Yaaqov|Jacob⟧ awoke from his sleep and said, "Surely ⟦yhwh|Yahweh|the LORD⟧ is in this place, and I did not know it."
+[16] And ⟦jacob|Yaaqov|Jacob⟧ awoke from his sleep and said, "Surely ⟦yhwh|Yahweh|the LORD⟧ is in this place, and I did not know."
 
-[17] He was afraid and said, "How awesome is this place! This is none other than the house of ⟦elohim|Elohim|God⟧, and this is the gate of the heavens."
+[17] And he feared and said, "How fearsome is this place! This is nothing but the house of ⟦elohim|Elohim|God⟧, and this is the gate of the heavens."
 
-[18] ⟦jacob|Yaaqov|Jacob⟧ rose early in the morning, took the stone that he had put under his head, and set it up as a pillar, and poured oil on its top.
+[18] And ⟦jacob|Yaaqov|Jacob⟧ rose early in the morning and took the stone that he had set at his head, and he set it as a pillar and poured oil on its top.
 
-[19] He called the name of that place ⟦bethel|Beit El|Bethel⟧; but the name of the city was formerly Luz.
+[19] And he called the name of that place ⟦bethel|Beit El|Bethel⟧; but Luz was the name of the city at the first.
 
-[20] Then ⟦jacob|Yaaqov|Jacob⟧ made a vow, saying, "If ⟦elohim|Elohim|God⟧ will be with me and will keep me in this way that I go, and will give me bread to eat and clothing to wear,
+[20] And ⟦jacob|Yaaqov|Jacob⟧ vowed a vow, saying, "If ⟦elohim|Elohim|God⟧ will be with me and keep me in this way that I am going, and give me bread to eat and a garment to put on,
 
-[21] and I return in peace to my father's house, then ⟦yhwh|Yahweh|the LORD⟧ shall be my ⟦elohim|Elohim|God⟧,
+[21] and I return in ⟦shalom|shalom|peace⟧ to my father's house, and ⟦yhwh|Yahweh|the LORD⟧ shall be my ⟦elohim|Elohim|God⟧,
 
-[22] and this stone, which I have set up as a pillar, shall be ⟦elohim|Elohim|God⟧'s house; and of all that you give me I will surely give a tenth to you."
+[22] and this stone, which I have set as a pillar, shall be the house of ⟦elohim|Elohim|God⟧; and of all that you give me I will surely give a tenth to you."
 
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
 - **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
-- **"God Almighty" → "El Shaddai"** (v3) — as in 17:1.
-- **"a multitude of people" → "a company of peoples"** (v3) — Hebrew קְהַל עַמִּים *qehal ammim*. *Qahal* = assembly / congregation. Israel as a convocation of peoples (the twelve tribes).
-- **"pillows" → "under his head"** (v11, 18) — Hebrew מְרַאֲשֹׁתָיו *mera'ashotav* = "at his head-area / headrest." A single stone, not plural "pillows"; the plural in Hebrew refers to the head-region, not multiple stones. KJV literalism produced the common misunderstanding that Jacob used multiple stones as pillows.
-- **"ladder" → "stairway"** (v12) — Hebrew סֻלָּם *sullam*. Hapax legomenon. "Ladder" is traditional KJV translation, but the vertical ramp / staircase of a Mesopotamian ziggurat is likely in view (the angels "ascending and descending" would more naturally fit a wide stairway than a narrow ladder). Ziggurat-language is apt given the Babel echo.
-- **"angels of God" → "messengers of *Elohim*"** (v12) — Hebrew מַלְאֲכֵי אֱלֹהִים *mal'akhey Elohim*. As elsewhere.
-- **"families" → "clans"** (v14) — as in earlier chapters.
-- **"be blessed" → "find blessing"** (v14) — niphal ambiguity as in 12:3. Preserved.
-- **"How dreadful" → "How awesome"** (v17) — Hebrew נוֹרָא *nora* = awe-inspiring / terrifying / arousing dread. Reverent awe, not merely unpleasantness. "Dreadful" in modern English = very bad.
-- **"Bethel — gloss given"** (v19) — Hebrew בֵּית־אֵל *Beit-El* = "house of El / God." The renaming: Luz becomes Beth-El because Jacob recognizes it as *Elohim*'s dwelling.
-- **"pillar" (v18, 22)** — Hebrew מַצֵּבָה *matsevah*. A standing stone / sacred stele. Mesopotamian, Canaanite, and Israelite use; later Israelite law forbids them (Deut 16:22) because of association with Canaanite cult, but the patriarchs freely use them.
-- **"in this way that I go" (v20)** — Hebrew בַּדֶּרֶךְ הַזֶּה *ba-derekh ha-zeh*. "The way that I am going / this journey."
-- **"raiment to put on" → "clothing to wear"** (v20) — modernized.
+- **"And" kept** (throughout) — Hebrew וַ / וְ at the head of each clause. Verses 6–9 are four separate sentences in Hebrew ("And Esau saw … And Jacob listened … And Esau saw … And Esau went"); they are not joined into one.
+- **"God Almighty" → "El Shaddai"** (v3) — Hebrew אֵל שַׁדַּי, as in 17:1; the meaning of *Shaddai* is not certain.
+- **"charged" → "commanded"** (v1, 6) — Hebrew צִוָּה. In v6 literally "in his blessing him, and he laid a command upon him".
+- **"a multitude of people" → "an assembly of peoples"** (v3) — Hebrew קְהַל עַמִּים *qehal ammim*; קָהָל is an assembly, a gathered body. "And you shall become": Hebrew וְהָיִיתָ.
+- **"seed" kept** (v4, 13, 14) — Hebrew זֶרַע.
+- **"inherit" → "possess"; "the land wherein thou art a stranger" → "the land of your sojournings"** (v4) — Hebrew לְרִשְׁתְּךָ, "take possession of"; אֶרֶץ מְגֻרֶיךָ, a plural noun from גּוּר "sojourn".
+- **"sent away" → "sent"** (v5) — Hebrew וַיִּשְׁלַח, the simple stem; in v6 וְשִׁלַּח is the stem "send away".
+- **"obeyed" → "listened to"** (v7) — Hebrew וַיִּשְׁמַע … אֶל.
+- **"pleased not" → "were bad in the eyes of"** (v8) — Hebrew רָעוֹת … בְּעֵינֵי, word for word.
+- **"unto the wives which he had" → "in addition to his wives"** (v9) — Hebrew עַל־נָשָׁיו, "upon his wives".
+- **"lighted upon a certain place" → "came upon the place"** (v11) — Hebrew בַּמָּקוֹם has the article: "the place".
+- **"took of the stones … and set it"** (v11) — Hebrew וַיִּקַּח מֵאַבְנֵי הַמָּקוֹם וַיָּשֶׂם, "he took from the stones of the place and set"; the Hebrew says neither "one" nor "it"; v18 speaks of "the stone".
+- **"for his pillows" → "at his head"** (v11, 18) — Hebrew מְרַאֲשֹׁתָיו, the place at the head of one who lies down (1 Sam 26:7, where a spear is stuck in the ground there); not "pillows", and the word does not say "under".
+- **"ladder" → "stairway"** (v12) — Hebrew סֻלָּם *sullam*, found only here; the meaning is not certain. "Ladder" is the old rendering and the meaning of the word in later Hebrew; "stairway" or "ramp" follows the root סלל, "heap up, raise (a road)". Either may be right. "On it" (בּוֹ) can also be read "on him".
+- **"angels of God" kept** (v12) — Hebrew מַלְאֲכֵי אֱלֹהִים; the word is "messengers".
+- **"ascending and descending" → "going up and going down"** (v12) — Hebrew עֹלִים וְיֹרְדִים.
+- **"the LORD stood above it" → "Yahweh stood by him"** (v13) — Hebrew נִצָּב עָלָיו. The pronoun can be "him" (Jacob) or "it" (the stairway), and עַל can be "by" or "above": "stood by him" or "stood above it". The same words mean "standing by him" in 18:2, and "standing by" in 24:13; the verse follows that use. "Stood" (נִצָּב), "set up" (מֻצָּב, v12) and "pillar" (מַצֵּבָה, v18) are of one root.
+- **"to thee will I give it, and to thy seed"** (v13) and **"in thee … and in thy seed"** (v14) — the Hebrew order is kept: "and to your seed", "and in your seed" come last in both sentences.
+- **"spread abroad"** (v14) — Hebrew וּפָרַצְתָּ, "break out, burst forth". The four directions are literally "seaward and eastward and northward and toward the Negev".
+- **"families of the earth" → "clans of the ground"; "be blessed"** (v14) — Hebrew מִשְׁפְּחֹת הָאֲדָמָה, as in 12:3; וְנִבְרֲכוּ is the niphal stem, "be blessed" (26:4 has the reflexive stem, "bless themselves").
+- **"this land" → "this ground"; "leave" → "forsake"** (v15) — Hebrew הָאֲדָמָה, the word of v14; עָזַב.
+- **"I knew it not" → "I did not know"** (v16) — the Hebrew has no "it".
+- **"he was afraid … How dreadful" → "he feared … How fearsome"** (v17) — Hebrew וַיִּירָא … נּוֹרָא, the verb "fear" and its participle "to be feared".
+- **"the house of God"** (v17, 22) — Hebrew בֵּית אֱלֹהִים in both verses; it can also be "a house of *Elohim*".
+- **"set it up for a pillar" → "set it as a pillar"** (v18, 22) — Hebrew וַיָּשֶׂם אֹתָהּ מַצֵּבָה, the same verb "set" as "set at his head". מַצֵּבָה *matzevah* is a stone set upright; later law forbids such pillars (Deut 16:22).
+- **"Bethel"** (v19) — Hebrew בֵּית־אֵל *Beit El*, "house of El", after "the house of *Elohim*" in v17.
+- **"vowed a vow"** (v20) — Hebrew וַיִּדַּר … נֶדֶר, verb and noun of one root.
+- **"raiment" → "a garment"** (v20) — Hebrew בֶּגֶד, singular.
+- **"in peace"** (v21) — Hebrew בְּשָׁלוֹם *be-shalom*.
+- **"then shall the LORD be my God" → "and Yahweh shall be my Elohim"** (v21) — the Hebrew of v20–22 is one chain of clauses joined by "and", with no word "then". The answer to "If …" can begin here ("then Yahweh shall be my Elohim, and this stone …") or only in v22 ("… and Yahweh will be my Elohim, then this stone …"). In v22 the form of the sentence changes (the noun stands first), which speaks for the second; most translations take the first. The verse keeps "and" and leaves it open.
+- **"I will surely give the tenth unto thee"** (v22) — Hebrew עַשֵּׂר אֲעַשְּׂרֶנּוּ לָךְ, literally "tithing I will tithe it to you", the infinitive absolute with its verb. Here the vow turns from "he" to "you".
 
 ### Notes
 
-- **Jacob's conditional vow (v20–22)** — famously conditional: "if *Elohim* will be with me, then Yahweh shall be my *Elohim*." Not unreserved faith — a bargain. Jacob, the schemer, negotiating even with God. The narrative lets the tension stand: Yahweh's unconditional promise (v13–15) meets Jacob's conditional response.
+- **Jacob's conditional vow (v20–22)** — famously conditional: "if *Elohim* will be with me …". Not unreserved faith — a bargain. Jacob, the schemer, negotiating even with God. The narrative lets the tension stand: Yahweh's unconditional promise (v13–15) meets Jacob's conditional response.
 - **Bethel and the twelve tribes** — this site becomes a major northern-kingdom sanctuary (later corrupted under Jeroboam I, 1 Kgs 12:29). The Jacob tradition foregrounds Bethel as covenant-making ground where Yahweh speaks directly.
-- **The "gate of the heavens" (v17)** — deliberate counterpoint to Babel. At Babel, humans build a tower to reach heaven and are scattered; at Bethel, Yahweh spontaneously opens a stairway from heaven to a fugitive, and blesses him. Ziggurat from below (Babel) fails; ziggurat from above (Bethel) succeeds.
+- **The "gate of the heavens" (v17)** — a counterpoint to Babel (11:4, "a tower with its top in the heavens"). At Babel, men build to reach the heavens and are scattered; at Bethel, Yahweh himself speaks to a fugitive and blesses him.

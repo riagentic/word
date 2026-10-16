@@ -1,112 +1,117 @@
 # Genesis 3
 
-[1] Had byl chytřejší než všechna divoká zvěř pole, kterou ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ učinil. Řekl ženě: „Opravdu ⟦elohim|Elohim|Bůh⟧ řekl: ‚Nesmíte jíst z žádného stromu zahrady‘?“
+[1] A had byl chytřejší než všichni živočichové pole, které ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ učinil. I řekl ženě: „Opravdu ⟦elohim|Elohim|Bůh⟧ řekl: ‚Nebudete jíst z žádného stromu zahrady‘?“
 
-[2] Žena hadovi řekla: „Z ovoce stromů zahrady jíst smíme;
+[2] A žena řekla hadovi: „Z plodu stromů zahrady jíst smíme,
 
-[3] ale o ovoci stromu, který je uprostřed zahrady, ⟦elohim|Elohim|Bůh⟧ řekl: ‚Nebudete z něho jíst a nebudete se ho dotýkat, jinak zemřete.‘“
+[3] ale o plodu stromu, který je uprostřed zahrady, ⟦elohim|Elohim|Bůh⟧ řekl: ‚Nebudete z něho jíst a nedotknete se ho, abyste nezemřeli.‘“
 
-[4] Had ženě řekl: „Jistě nezemřete.
+[4] A had řekl ženě: „Jistě nezemřete,
 
-[5] Neboť ⟦elohim|Elohim|Bůh⟧ ví, že v den, kdy z něho pojíte, otevřou se vám oči a budete jako ⟦elohim|Elohim|Bůh⟧, znající dobré a zlé.“
+[5] neboť ⟦elohim|Elohim|Bůh⟧ ví, že v den, kdy z něho pojíte, otevřou se vaše oči a budete jako ⟦elohim|Elohim|Bůh⟧, znající dobré a zlé.“
 
-[6] Když žena viděla, že strom je dobrý k jídlu a rozkoší pro oči a že ten strom je žádoucí pro získání prozíravosti, vzala z jeho ovoce a jedla; a dala také svému muži, který byl s ní, a on jedl.
+[6] A žena viděla, že strom je dobrý k jídlu a že je žádostí pro oči a že ten strom je lákavý, aby dával prozíravost, a vzala z jeho plodu a jedla a dala také svému muži, který byl s ní, a on jedl.
 
-[7] Tu se oběma otevřely oči a poznali, že jsou nazí; sešili fíkové listy a udělali si bederní roušky.
+[7] A oběma se otevřely oči a poznali, že jsou nazí; a sešili fíkové listí a učinili si bederní roušky.
 
-[8] Potom uslyšeli zvuk ⟦yhwh|Jahveho|Hospodina⟧ ⟦elohim|Elohim|Boha⟧, jak se prochází po zahradě ve vánku dne, a člověk a jeho žena se skryli před tváří ⟦yhwh|Jahveho|Hospodina⟧ ⟦elohim|Elohim|Boha⟧ mezi stromy zahrady.
+[8] A uslyšeli zvuk ⟦yhwh|Jahveho|Hospodina⟧ ⟦elohim|Elohim|Boha⟧, procházejícího se po zahradě ve větru dne, a člověk a jeho žena se skryli před tváří ⟦yhwh|Jahveho|Hospodina⟧ ⟦elohim|Elohim|Boha⟧ uprostřed stromů zahrady.
 
-[9] ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ zavolal na člověka a řekl mu: „Kde jsi?“
+[9] A ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ zavolal na člověka a řekl mu: „Kde jsi?“
 
-[10] Odpověděl: „Slyšel jsem tvůj zvuk v zahradě a bál jsem se, protože jsem nahý; a skryl jsem se.“
+[10] I řekl: „Slyšel jsem tvůj zvuk v zahradě a bál jsem se, protože jsem nahý, a skryl jsem se.“
 
-[11] Řekl: „Kdo ti pověděl, že jsi nahý? Jedl jsi ze stromu, z něhož jsem ti přikázal nejíst?“
+[11] I řekl: „Kdo ti pověděl, že jsi nahý? Jedl jsi ze stromu, z něhož jsem ti přikázal nejíst?“
 
-[12] Člověk řekl: „Žena, kterou jsi mi dal, aby byla se mnou – ona mi dala ze stromu, a já jsem jedl.“
+[12] I řekl člověk: „Žena, kterou jsi dal, aby byla se mnou, ta mi dala ze stromu, a jedl jsem.“
 
-[13] Tu ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ řekl ženě: „Co jsi to udělala?“ Žena řekla: „Had mě oklamal, a já jsem jedla.“
+[13] I řekl ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ ženě: „Co jsi to učinila?“ A žena řekla: „Had mě oklamal, a jedla jsem.“
 
-[14] ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ řekl hadovi:
+[14] I řekl ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ hadovi:
 
-„Protože jsi to udělal,
-buď proklet víc než všechen dobytek
-a víc než všechna divoká zvěř pole.
-Po břiše se budeš plazit
+„Protože jsi to učinil,
+jsi prokletý víc než všechna zvířata
+a víc než všichni živočichové pole;
+po břiše budeš chodit
 a prach budeš jíst po všechny dny svého života.
 
 [15] A položím nepřátelství
 mezi tebe a ženu
-a mezi tvé semeno a její semeno.
-On tě udeří na hlavu
-a ty ho udeříš na patu.“
+a mezi tvé símě a její símě;
+ono ti zhmoždí hlavu
+a ty mu zhmoždíš patu.“
 
 [16] Ženě řekl:
 
-„Velice rozmnožím tvou bolest v těhotenství;
-v bolesti budeš rodit děti.
-Tvá touha bude směřovat k tvému muži,
+„Jistě rozmnožím tvou bolest a tvé početí;
+v bolesti budeš rodit syny;
+a k tvému muži bude tvá touha,
 a on nad tebou bude vládnout.“
 
-[17] A člověku řekl:
+[17] A Adamovi řekl:
 
 „Protože jsi poslechl hlas své ženy
-a jedl jsi ze stromu, o němž jsem ti přikázal:
+a jedl jsi ze stromu, o němž jsem ti přikázal se slovy:
 ‚Nebudeš z něho jíst,‘
-prokletá je půda kvůli tobě;
-v lopotě z ní budeš jíst po všechny dny svého života.
+je kvůli tobě prokletá půda;
+v bolesti z ní budeš jíst po všechny dny svého života.
 
-[18] Trní a bodláčí ti bude rodit
+[18] A trní a bodláčí ti dá vzejít
 a budeš jíst byliny pole.
 
 [19] V potu své tváře budeš jíst chléb,
-dokud se nevrátíš do půdy,
+dokud se nenavrátíš do půdy,
 neboť z ní jsi byl vzat;
-vždyť prach jsi
+neboť prach jsi
 a v prach se navrátíš.“
 
-[20] Člověk dal své ženě jméno ⟦eve|Chavva|Eva⟧, protože ona byla matkou všech živých.
+[20] A člověk dal své ženě jméno ⟦eve|Chavva|Eva⟧, protože ona byla matkou všech živých.
 
-[21] ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ udělal člověku a jeho ženě suknice z kůže a oblékl je.
+[21] A ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ učinil Adamovi a jeho ženě suknice z kůže a oblékl je.
 
-[22] Potom ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ řekl: „Hle, člověk se stal jako jeden z nás, znající dobré a zlé. Nyní ať nevztáhne ruku, nevezme také ze stromu života, nejí a nežije navěky“ –
+[22] I řekl ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧: „Hle, člověk se stal jako jeden z nás, aby znal dobré a zlé; a nyní, aby nevztáhl ruku a nevzal také ze stromu života a nejedl a nežil navěky –“
 
-[23] a tak ho ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ vyslal ze zahrady ⟦eden|Eden|Éden⟧, aby obdělával půdu, z níž byl vzat.
+[23] A ⟦yhwh|Jahve|Hospodin⟧ ⟦elohim|Elohim|Bůh⟧ ho vyslal ze zahrady ⟦eden|Eden|Éden⟧, aby obdělával půdu, z níž byl vzat.
 
-[24] Vyhnal člověka; a na východ od zahrady ⟦eden|Eden|Éden⟧ postavil ⟦cherubim|keruvim|cheruby⟧ a plamen stále se otáčejícího meče, aby střežili cestu ke stromu života.
+[24] A vyhnal člověka a na východ od zahrady ⟦eden|Eden|Éden⟧ nechal přebývat ⟦cherubim|keruvim|cheruby⟧ a plamen otáčejícího se meče, aby střežili cestu ke stromu života.
 
 ## Změny
 
-- **"LORD" → „Yahweh“** (v celé kapitole) – tetragram zachován.
-- **"God" → „*Elohim*“** (v celé kapitole) – hebrejsky *Elohim*.
-- **"subtil" → „chytřejší“** (v1) – hebrejsky עָרוּם *arum* = chytrý / bystrý / lstivý. KJV „subtil“ je archaické. Důležité: záměrná zvuková hříčka s עֲרוּמִּים *arummim* („nazí“) ve 2:25 těsně předtím – „člověk a jeho žena byli *arummim* a had byl *arum*“. V překladu se ztrácí; zvoleno „chytrý“ (nejbližší jednoslovný ekvivalent).
-- **"beast of the field" → „divoká zvěř pole“** (v1, 14) – hebrejsky חַיַּת הַשָּׂדֶה *chayyat ha-sadeh*. Táž fráze jako v Gen 1.
-- **"Yea, hath God said…" → „Opravdu *Elohim* řekl…“** (v1) – hebrejsky אַף כִּי־אָמַר אֱלֹהִים *aph ki-amar Elohim*. Hadův úvod je zkreslujícím zveličením příkazu *Elohim* („z *žádného* stromu?“ – *Elohim* zakázal jen *jeden*). KJV je doslovné, ale archaické; moderní obrat zachovává hadův rétorický trik.
-- **"as gods" → „jako *Elohim*“** (v5) – hebrejsky כֵּאלֹהִים *k'Elohim*. *Elohim* je gramaticky plurál, ale v celé této kapitole pojí sloveso v singuláru („*Elohim* ví…“ v5). Dvě obhajovaná čtení: „jako Bůh“ (vzorec kapitoly) nebo „jako božské bytosti“ (plurálový odkaz, ozvěna „nás“ z 1:26 a 3:22). Přeloženo „jako *Elohim*“, aby zůstala zachována dvojznačnost hebrejštiny.
-- **"evil" → „zlé“** (v5, 22) – hebrejsky רָע *ra*. Širší než anglické „evil“; EN volí „bad“. Viz poznámku v kap. 2.
-- **"a tree to be desired to make one wise" → „žádoucí pro získání prozíravosti“** (v6) – hebrejsky לְהַשְׂכִּיל *le-haskil* = učinit moudrým / dát prozíravost. Modernizováno.
-- **"aprons" → „bederní roušky“** (v7) – hebrejsky חֲגֹרוֹת *chagorot* = pásy / zavinutí / bederní pokrývky. V roce 1611 znamenalo „apron“ pokrývku podobnou bederní roušce; v moderní angličtině je apron kuchyňská zástěra.
-- **"voice of the LORD God" → „zvuk Yahweh *Elohim*“** (v8) – hebrejsky קוֹל *qol* = zvuk / hlas. V souvislosti jde o zvuk chůze, nikoli o mluvený hlas. KJV „voice“ zavádí (*Elohim* ještě nemluví; člověk slyší kroky / pohyb).
-- **"in the cool of the day" → „ve vánku dne“** (v8) – hebrejsky לְרוּחַ הַיּוֹם *le-ruach ha-yom* = „ve větru / vánku dne“. Totéž slovo *ruach* jako v 1:2 („Duch / vítr / dech“). Obvyklé „cool of the day“ = večerní vánek; hebrejština prostě pojmenovává větrnou denní dobu. Někteří badatelé navrhli, že „ve větru dne“ označuje teofanický bouřlivý vítr (den soudu), ale tradiční čtení o večerním vánku odpovídá prostředí.
-- **"the presence" → „tvář“** (v8) – hebrejsky מִפְּנֵי *mi-pene* = „od tváře“. Ponecháno doslovné „tvář“ (běžný biblický idiom; „presence“ je obvyklá, ale mírně abstrahující glosa).
-- **"Adam" → „člověk“** (v8, 9, 12, 17, 20, 22, 24) – stále הָאָדָם *ha-adam*. Vlastní jméno „Adam“ (bez členu) se ustaluje v kap. 4.
-- **"beguiled" → „oklamal“** (v13) – hebrejsky הִשִּׁיאַנִי *hishi'ani* (od נָשָׁא *nasha*, hifil: oklamat / svést). „Beguile“ je archaické.
-- **"above all cattle, and above every beast of the field" → „víc než všechen dobytek a víc než všechna divoká zvěř pole“** (v14) – hebrejské מִכֹּל *mi-kol* je zde srovnávací: „proklet *víc než* všichni“. (Nikoli „proklet spolu s / hodnostně nad“ – had je prokleta jedinečně, víc než kterékoli zvíře.) Někteří čtou privativně: „proklet *z / pryč ze* všech“ (vyčleněn, vypovězen ze společenství zvířat). V obou čteních nese had zvláštní kletbu.
-- **"bruise… bruise" → „udeří… udeříš“** (v15) – hebrejsky יְשׁוּפְךָ *yeshuphkha* / תְּשׁוּפֶנּוּ *teshuphennu*, obojí od שׁוּף *shuph*. Obakrát je užito totéž sloveso (záměrné zrcadlení: had a semeno na sebe navzájem útočí). KJV „bruise“ odráží jednu možnou glosu (někteří lexikografové je spojují s „rozdrtit“); „udeřit“ lépe zachovává paralelismus. Historické křesťanské čtení chápe v15 jako protoevangelium (předzvěst mesiášského vítězství); LXX má „on (αὐτός) bude střežit tvou hlavu a ty budeš střežit jeho patu“ – jiné sloveso, ale táž symetrická stavba.
-- **"thy seed… her seed"** (v15) – hebrejsky זֶרַע *zera* = semeno, potomstvo (hromadný singulár). Může označovat jednoho potomka i celou linii. Ponecháno „semeno“, protože teologicky působí oba významy; „potomstvo“ je stejně platný moderní překlad.
-- **"sorrow and thy conception" → „bolest v těhotenství“** (v16) – hebrejsky עִצְבוֹנֵךְ וְהֵרֹנֵךְ *itstsavonekh we-heronekh* = „tvou bolest a tvé těhotenství“. Pravděpodobně hendiadys: „bolest tvého těhotenství“. *Itstsavon* = těžká lopota / bolest; totéž slovo je užito ve v17 o lopotě člověka.
-- **"in sorrow thou shalt bring forth children" → „v bolesti budeš rodit děti“** (v16) – totéž hebrejské podstatné jméno *itstsavon*. „Sorrow“ v moderní angličtině = zármutek; hebrejština znamená tělesnou bolest / lopotu.
-- **"thy desire shall be to thy husband, and he shall rule over thee"** (v16) – hebrejsky תְּשׁוּקָה *teshuqah* = touha / dychtění. Slovo se vyskytuje jen na dvou dalších místech: Song 7:11 (erotická touha) a **Gen 4:7**, kde hřích „touží“ po Kainovi – „jeho *teshuqah* směřuje k tobě, ale ty nad ním musíš vládnout“ – se syntaxí totožnou s tímto veršem. Podle této paralely (kterou většina moderních badatelů považuje za rozhodující) není *teshuqah* ženy romantickou touhou, ale snahou ovládat – a „vláda“ muže (מָשַׁל *mashal*) je jeho odpovědí v podobě nadvlády. Verš popisuje poedenské zkřivení partnerství z 2:24 v mocenský zápas, nikoli Boží předpis. Překlad se drží blízko hebrejštiny; výkladový spor je skutečný.
-- **"sorrow" → „lopota“** (v17) – hebrejsky עִצָּבוֹן *itstsavon* (totéž slovo jako ve v16). „Sorrow“ v moderní angličtině = zármutek; „lopota“ vystihuje smysl bolestné práce při obdělávání půdy.
-- **"herb of the field" → „byliny pole“** (v18) – hebrejsky עֵשֶׂב הַשָּׂדֶה *esev ha-sadeh*. Modernizováno.
-- **"Eve"** (v20) – hebrejsky חַוָּה *Chavvah*. Pravděpodobně odvozeno od חָיָה *chayah* („žít“). Slovní hříčka: „Eve, protože byla matkou všech חַי *chay* (živých)“. KJV „Eve“ ponecháno.
-- **"coats of skins" → „suknice z kůže“** (v21) – hebrejsky כָּתְנוֹת עוֹר *kotnot 'or*. *Kuttonet* = suknice (dlouhý oděv podobný košili), nikoli těžký kabát.
-- **"as one of us" → „jako jeden z nás“** (v22) – totéž „nás“ jako v 1:26; viz poznámku tam.
-- **"till the ground" → „obdělávat půdu“** (v23) – hebrejsky לַעֲבֹד אֶת־הָאֲדָמָה *la'avod et ha-adamah*. Totéž sloveso עָבַד *avad* jako ve 2:15 „obdělával ji“. „Till“ je přesné, ale užší.
-- **"Cherubims" → „cheruby“** (v24) – hebrejské כְּרוּבִים *keruvim* je již plurál (hebrejský mužský plurál *-im*); KJV nadbytečně přidává anglické plurálové „-s“. Opraveno.
-- **"flaming sword which turned every way" → „plamen stále se otáčejícího meče“** (v24) – hebrejsky לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת *lahat ha-cherev ha-mit-happekhet* = „plamen vířícího / stále se otáčejícího meče“. *Lahat* je „plamen“ a příčestí *mit-happekhet* je zvratný / rotační tvar – plamen se otáčí / šlehá sem a tam. Slovosled KJV zastírá, že podmětem „otáčení“ je plamen (ne meč).
+- **"the LORD God" → „Yahweh *Elohim*“; "God" → „*Elohim*“** (v celé kapitole) – hebrejsky יְהוָה אֱלֹהִים, pokaždé obě slova. Had a žena říkají jen *Elohim* (v1, 3, 5).
+- **"more subtil than any beast of the field" → „chytřejší než všichni živočichové pole“** (v1) – hebrejsky עָרוּם, „chytrý, rozvážný“: v Příslovích dobrá vlastnost (Prov 12:16), v Job 5:12 špatná; slovo samo to neříká. Zní podobně jako עֲרוּמִּים „nazí“ ve 2:25. חַיַּת הַשָּׂדֶה je „živočich pole“ jako v kap. 1–2.
+- **"Yea, hath God said" → „Opravdu *Elohim* řekl“** (v1) – hebrejsky אַף כִּי־אָמַר אֱלֹהִים, doslova „Vskutku, že *Elohim* řekl …“. Tázací slovo tu není: může jít o otázku nebo o zvolání („Tak *Elohim* dokonce řekl …!“). לֹא … מִכֹּל je „ne … z žádného“ (tak verš) nebo „ne … z každého“.
+- **"lest ye die" → „abyste nezemřeli“** (v3) – hebrejsky פֶּן. Oslovení je ve v1–5 v množném čísle.
+- **"Ye shall not surely die" → „Jistě nezemřete“** (v4) – hebrejsky לֹא־מוֹת תְּמֻתוּן: zápor stojí před samotnými slovy z 2:17, „jistě zemřeš“ (doslova „umíraje zemřeš“). Popírá tu větu („Není pravda, že jistě zemřete“); lze číst i „jistě nezemřete“.
+- **"as gods" → „jako *Elohim*“** (v5) – hebrejsky כֵּאלֹהִים. Příčestí „znající“ je v množném čísle (יֹדְעֵי); může patřit k „vy“, nebo k אֱלֹהִים chápanému jako množné číslo, „jako bohové / božské bytosti, kteří znají“. Verš slovo ponechává.
+- **"evil" → „zlé“** (v5, 22) – hebrejsky רַע, jako 2:9.
+- **"pleasant to the eyes, and a tree to be desired to make one wise" → „žádostí pro oči a … lákavý, aby dával prozíravost“** (v6) – hebrejsky תַאֲוָה־הוּא לָעֵינַיִם, „je žádostí (věcí, po níž se dychtí) pro oči“, a נֶחְמָד … לְהַשְׂכִּיל: נֶחְמָד „lákavý, žádoucí“ jako ve 2:9; הִשְׂכִּיל je „učinit moudrým, dát prozíravost“ nebo „být prozíravý“, také „hledět na“. V kapitole stojí tři různá slova pro žádost: תַּאֲוָה (v6), נֶחְמָד (v6) a תְּשׁוּקָה (v16).
+- **"her husband with her" → „svému muži, který byl s ní“** (v6) – hebrejsky לְאִישָׁהּ עִמָּהּ, doslova „svému muži s ní“; אִישׁ je „muž“ i „manžel“, אִשָּׁה „žena“ i „manželka“.
+- **"aprons" → „bederní roušky“** (v7) – hebrejsky חֲגֹרֹת, to, čím se člověk opásá.
+- **"the voice of the LORD God walking in the garden in the cool of the day" → „zvuk Yahweh *Elohim*, procházejícího se po zahradě ve větru dne“** (v8, 10) – hebrejské קוֹל je „hlas“ i „zvuk“; zde je to zvuk jeho chůze. מִתְהַלֵּךְ je „procházející se“ (tvar užitý v 5:22, 24). לְרוּחַ הַיּוֹם je doslova „k větru dne“: רוּחַ je slovo z 1:2. Obvykle se rozumí jako doba, kdy se zvedá vítr, k večeru; „chlad“ v hebrejštině není.
+- **"from the presence of" → „před tváří“; "amongst the trees" → „uprostřed stromů“** (v8) – hebrejsky מִפְּנֵי „od tváře“, בְּתוֹךְ עֵץ הַגָּן („strom“ jako hromadné jméno).
+- **"Adam" → „člověk“** (v8, 9, 12, 20, 22, 24) – hebrejsky הָאָדָם se členem. Ve v17 a 21 masoretská vokalizace člen nemá (לְאָדָם) a verš má „Adam“; souhlásky by i tam dovolily „člověk“.
+- **"because I was naked" → „protože jsem nahý“; "that thou wast naked" → „že jsi nahý“** (v10, 11) – hebrejské věty bez slovesa, řečené v přítomnosti.
+- **"whom thou gavest to be with me" → „kterou jsi dal, aby byla se mnou“** (v12) – hebrejsky אֲשֶׁר נָתַתָּה עִמָּדִי, doslova „kterou jsi dal se mnou“; „aby byla“ je doplněno. Následuje totéž sloveso: „ta mi dala“.
+- **"beguiled" → „oklamal“** (v13) – hebrejsky הִשִּׁיאַנִי.
+- **"cursed above all cattle, and above every beast of the field" → „jsi prokletý víc než všechna zvířata a víc než všichni živočichové pole“** (v14) – hebrejsky אָרוּר אַתָּה מִכָּל־, totéž מִן jako ve v1, „chytrý víc než všichni“ (a אָרוּר je ozvěnou עָרוּם). Může znamenat také „prokletý pryč ode všech“, oddělený od nich; tak táž slova ve 4:11, „prokletý od půdy“.
+- **"I will put enmity" → „položím nepřátelství“** (v15) – hebrejsky אָשִׁית, sloveso jména Šet ve 4:25.
+- **"thy seed and her seed" → „tvé símě a její símě“** (v15) – hebrejsky זֶרַע „símě“: jedno slovo pro jednoho potomka (4:25) i pro všechny potomky dohromady (13:16).
+- **"it shall bruise thy head, and thou shalt bruise his heel" → „ono ti zhmoždí hlavu a ty mu zhmoždíš patu“** (v15) – hebrejsky הוּא יְשׁוּפְךָ רֹאשׁ וְאַתָּה תְּשׁוּפֶנּוּ עָקֵב. הוּא je zájmeno mužského rodu v jednotném čísle, protože זֶרַע „símě“ je mužského rodu; česky „ono“ (to símě), což může být jeden („on … jemu“) nebo mnozí („oni … jim“); hebrejština to neříká. Sloveso שׁוּף stojí dvakrát a má jeden překlad; je už jen v Job 9:17 a Ps 139:11 a jeho význam je nejistý: „zhmoždit“, „rozdrtit“, nebo „útočit na / chňapat po“. „Hlavu“ a „patu“ připojuje hebrejština bez předložky: „zhmoždí tě na hlavě“.
+- **"I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children" → „Jistě rozmnožím tvou bolest a tvé početí; v bolesti budeš rodit syny“** (v16) – hebrejsky הַרְבָּה אַרְבֶּה, doslova „množe rozmnožím“, infinitiv před svým slovesem, „jistě“ jako ve 2:16–17. עִצְּבוֹנֵךְ וְהֵרֹנֵךְ jsou dvě jména spojená „a“, často chápaná jako jedna myšlenka („tvou bolest při početí“). עִצָּבוֹן „bolest“ (lopota, která bolí) je slovo z v17 a 5:29; „v bolesti“ ve druhém řádku je kratší jméno עֶצֶב téhož kořene. בָנִים je „syny“.
+- **"thy desire shall be to thy husband" → „k tvému muži bude tvá touha“** (v16) – hebrejsky וְאֶל־אִישֵׁךְ תְּשׁוּקָתֵךְ, věta bez slovesa („bude“ je doplněno). תְּשׁוּקָה je doloženo třikrát: zde, ve 4:7 (týmiž slovy, „k tobě je jeho touha, a ty nad ním budeš vládnout“) a v Song 7:10. Znamená „touha, tužba“; jaká touha je zde míněna (po něm, nebo ovládnout ho, jak někteří čtou podle 4:7), slovo neříká. מָשַׁל „vládnout“ jako v 1:18.
+- **"cursed is the ground for thy sake; in sorrow shalt thou eat of it" → „je kvůli tobě prokletá půda; v bolesti z ní budeš jíst“** (v17) – hebrejsky בַּעֲבוּרֶךָ; בְּעִצָּבוֹן, slovo z v16.
+- **"Thorns also and thistles shall it bring forth to thee" → „A trní a bodláčí ti dá vzejít“** (v18) – hebrejsky תַּצְמִיחַ, sloveso z 2:9. „Byliny pole“ je עֵשֶׂב jako v 1:11.
+- **"In the sweat of thy face" → „V potu své tváře“** (v19) – hebrejsky בְּזֵעַת אַפֶּיךָ; אַפַּיִם je doslova „chřípí“ (2:7), zde za tvář.
+- **"called his wife's name Eve" → „dal své ženě jméno *Chavvah*“** (v20) – hebrejsky חַוָּה, což zní podobně jako חַי „živý“: „matka všech živých“ (כָּל־חָי). Doslova „nazval jméno své ženy“.
+- **"coats of skins" → „suknice z kůže“** (v21) – hebrejsky כָּתְנוֹת עוֹר; „kůže“ je v jednotném čísle.
+- **"Behold, the man is become as one of us, to know good and evil" → „Hle, člověk se stal jako jeden z nás, aby znal dobré a zlé“** (v22) – hebrejsky הֵן „hle“; „jeden z nás“ je množné číslo jako v 1:26. לָדַעַת je infinitiv: „aby znal“, „v tom, že zná“.
+- **"and now, lest he put forth his hand" → „a nyní, aby nevztáhl ruku … –“** (v22) – hebrejská věta se po „žil navěky“ přerušuje; co Yahweh *Elohim* učiní, následuje ve v23. Není to příkaz („ať nevztáhne“).
+- **"sent him forth" → „vyslal ho“** (v23) – hebrejsky וַיְשַׁלְּחֵהוּ, totéž sloveso jako „vztáhnout (ruku)“ ve v22 v jiném kmeni. „Z níž byl vzat“ je doslova „která byl vzat odtamtud“.
+- **"he placed at the east of the garden of Eden Cherubims" → „na východ od zahrady Eden nechal přebývat *keruvim*“** (v24) – hebrejsky וַיַּשְׁכֵּן, „dal přebývat“, sloveso od מִשְׁכָּן „příbytek“. מִקֶּדֶם je doslova „zepředu“, na východě. כְּרֻבִים je množné číslo.
+- **"a flaming sword which turned every way" → „plamen otáčejícího se meče“** (v24) – hebrejsky לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת, „plamen meče, který se otáčí“. Příčestí je ženského rodu a patří k „meči“ (v hebrejštině ženského rodu), ne k „plameni“ (mužského rodu).
+- **"to keep the way of the tree of life" → „aby střežili cestu ke stromu života“** (v24) – hebrejsky לִשְׁמֹר, sloveso z 2:15 („aby ji … střežil“); דֶּרֶךְ עֵץ הַחַיִּים je doslova „cestu stromu života“.
 
 ### Poznámky (kontext, ne změny)
 
-- **Totožnost hada** – hebrejské נָחָשׁ *nachash* znamená prostě „had“. Text tohoto hada neztotožňuje se satanem; tato rovnice se rozvíjí v židovské literatuře období druhého chrámu (Kniha moudrosti 2:24) a je běžná v křesťanském čtení (Rev 12:9, 20:2). V samotném vyprávění je had jedním ze zvířat, která *Elohim* učinil.
-- **„nás“ ve v22** – tytéž překladové a výkladové možnosti jako v 1:26 („Učiňme lidstvo“); viz tam.
-- **Tradiční jazyk „pádu“** – kapitola nikde výslovně neužívá slovo „pád“ ani „hřích“. Teologická terminologie byla přidána později.
+- **Had** – hebrejské נָחָשׁ je obyčejné slovo pro hada, zde jednoho z živočichů pole, které Yahweh *Elohim* učinil (v1). Kapitola ho jinak nejmenuje; Rev 12:9 a 20:2 mluví o „dávném hadu“.
+- **v14–19** – výroky jsou verše; řádky sledují hebrejské přízvuky.
+- **v16–17** – „bolest“ (עִצָּבוֹן) je řečena ženě i Adamovi stejně; v 5:29 se k tomu slovu vrací Lemech.

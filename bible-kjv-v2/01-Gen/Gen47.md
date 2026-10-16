@@ -1,83 +1,101 @@
 # Genesis 47
 
-[1] Then ⟦joseph|Yosef|Joseph⟧ came and told ⟦pharaoh|Paroh|Pharaoh⟧, "My father and my brothers, with their flocks and herds and all that they have, have come from the land of ⟦canaan|Kenaan|Canaan⟧; and behold, they are in the land of Goshen."
+[1] And ⟦joseph|Yosef|Joseph⟧ came and told ⟦pharaoh|Paroh|Pharaoh⟧, and said, "My father and my brothers, and their flocks and their herds and all that they have, have come from the land of ⟦canaan|Kenaan|Canaan⟧; and behold, they are in the land of Goshen."
 
-[2] From among his brothers he took five men and presented them to ⟦pharaoh|Paroh|Pharaoh⟧.
+[2] And from among his brothers he took five men and presented them before ⟦pharaoh|Paroh|Pharaoh⟧.
 
-[3] ⟦pharaoh|Paroh|Pharaoh⟧ said to his brothers, "What is your occupation?" They said to ⟦pharaoh|Paroh|Pharaoh⟧, "Your servants are shepherds, both we and our fathers."
+[3] And ⟦pharaoh|Paroh|Pharaoh⟧ said to his brothers, "What is your work?" And they said to ⟦pharaoh|Paroh|Pharaoh⟧, "Your servants are shepherds of the flock, both we and our fathers."
 
-[4] They said to ⟦pharaoh|Paroh|Pharaoh⟧, "We have come to sojourn in the land, for there is no pasture for your servants' flocks, because the famine is severe in the land of ⟦canaan|Kenaan|Canaan⟧. Now therefore, please let your servants dwell in the land of Goshen."
+[4] And they said to ⟦pharaoh|Paroh|Pharaoh⟧, "To sojourn in the land we have come, for there is no pasture for the flock that belongs to your servants, for the famine is heavy in the land of ⟦canaan|Kenaan|Canaan⟧. And now, please let your servants dwell in the land of Goshen."
 
-[5] ⟦pharaoh|Paroh|Pharaoh⟧ said to ⟦joseph|Yosef|Joseph⟧, "Your father and your brothers have come to you.
+[5] And ⟦pharaoh|Paroh|Pharaoh⟧ said to ⟦joseph|Yosef|Joseph⟧, saying, "Your father and your brothers have come to you.
 
-[6] The land of ⟦egypt|Mitzrayim|Egypt⟧ is before you; settle your father and your brothers in the best of the land. Let them dwell in the land of Goshen, and if you know any capable men among them, put them in charge of my livestock."
+[6] The land of ⟦egypt|Mitzrayim|Egypt⟧ is before you; in the best of the land make your father and your brothers dwell. Let them dwell in the land of Goshen; and if you know that there are men of ability among them, then set them as chiefs of livestock over what is mine."
 
-[7] Then ⟦joseph|Yosef|Joseph⟧ brought his father ⟦jacob|Yaaqov|Jacob⟧ in and set him before ⟦pharaoh|Paroh|Pharaoh⟧; and ⟦jacob|Yaaqov|Jacob⟧ blessed ⟦pharaoh|Paroh|Pharaoh⟧.
+[7] And ⟦joseph|Yosef|Joseph⟧ brought in ⟦jacob|Yaaqov|Jacob⟧ his father and made him stand before ⟦pharaoh|Paroh|Pharaoh⟧; and ⟦jacob|Yaaqov|Jacob⟧ blessed ⟦pharaoh|Paroh|Pharaoh⟧.
 
-[8] ⟦pharaoh|Paroh|Pharaoh⟧ said to ⟦jacob|Yaaqov|Jacob⟧, "How many are the days of the years of your life?"
+[8] And ⟦pharaoh|Paroh|Pharaoh⟧ said to ⟦jacob|Yaaqov|Jacob⟧, "How many are the days of the years of your life?"
 
-[9] ⟦jacob|Yaaqov|Jacob⟧ said to ⟦pharaoh|Paroh|Pharaoh⟧, "The days of the years of my sojourning are 130 years. Few and evil have been the days of the years of my life, and they have not reached the days of the years of the life of my fathers in the days of their sojourning."
+[9] And ⟦jacob|Yaaqov|Jacob⟧ said to ⟦pharaoh|Paroh|Pharaoh⟧, "The days of the years of my sojournings are a hundred and thirty years. Few and evil have been the days of the years of my life, and they have not reached the days of the years of the life of my fathers in the days of their sojournings."
 
-[10] Then ⟦jacob|Yaaqov|Jacob⟧ blessed ⟦pharaoh|Paroh|Pharaoh⟧ and went out from ⟦pharaoh|Paroh|Pharaoh⟧'s presence.
+[10] And ⟦jacob|Yaaqov|Jacob⟧ blessed ⟦pharaoh|Paroh|Pharaoh⟧ and went out from before ⟦pharaoh|Paroh|Pharaoh⟧.
 
-[11] So ⟦joseph|Yosef|Joseph⟧ settled his father and his brothers, and gave them a holding in the land of ⟦egypt|Mitzrayim|Egypt⟧, in the best of the land, in the region of ⟦rameses|Raamses|Rameses⟧, as ⟦pharaoh|Paroh|Pharaoh⟧ had commanded.
+[11] And ⟦joseph|Yosef|Joseph⟧ made his father and his brothers dwell, and gave them a possession in the land of ⟦egypt|Mitzrayim|Egypt⟧, in the best of the land, in the land of ⟦rameses|Raamses|Rameses⟧, as ⟦pharaoh|Paroh|Pharaoh⟧ had commanded.
 
-[12] And ⟦joseph|Yosef|Joseph⟧ provided his father and his brothers and all his father's household with bread, according to the number of their dependents.
+[12] And ⟦joseph|Yosef|Joseph⟧ sustained his father and his brothers and all his father's house with bread, according to the little ones.
 
-[13] There was no bread in all the land, for the famine was very severe, so that the land of ⟦egypt|Mitzrayim|Egypt⟧ and the land of ⟦canaan|Kenaan|Canaan⟧ languished from the famine.
+[13] And there was no bread in all the land, for the famine was very heavy; and the land of ⟦egypt|Mitzrayim|Egypt⟧ and the land of ⟦canaan|Kenaan|Canaan⟧ languished because of the famine.
 
-[14] ⟦joseph|Yosef|Joseph⟧ gathered up all the silver that was found in the land of ⟦egypt|Mitzrayim|Egypt⟧ and in the land of ⟦canaan|Kenaan|Canaan⟧ for the grain that they had bought, and ⟦joseph|Yosef|Joseph⟧ brought the silver into ⟦pharaoh|Paroh|Pharaoh⟧'s house.
+[14] And ⟦joseph|Yosef|Joseph⟧ gathered up all the silver that was found in the land of ⟦egypt|Mitzrayim|Egypt⟧ and in the land of ⟦canaan|Kenaan|Canaan⟧, for the grain that they were buying; and ⟦joseph|Yosef|Joseph⟧ brought the silver into the house of ⟦pharaoh|Paroh|Pharaoh⟧.
 
-[15] When the silver of the land of ⟦egypt|Mitzrayim|Egypt⟧ and of the land of ⟦canaan|Kenaan|Canaan⟧ was spent, all the ⟦egyptians|Mitzrim|Egyptians⟧ came to ⟦joseph|Yosef|Joseph⟧, saying, "Give us bread! Why should we die before your face? For the silver is gone."
+[15] And the silver came to an end from the land of ⟦egypt|Mitzrayim|Egypt⟧ and from the land of ⟦canaan|Kenaan|Canaan⟧; and all the ⟦egyptians|Mitzrim|Egyptians⟧ came to ⟦joseph|Yosef|Joseph⟧, saying, "Give us bread! And why should we die before you? For the silver is gone."
 
-[16] ⟦joseph|Yosef|Joseph⟧ said, "Give your livestock, and I will give you bread in exchange for your livestock, if the silver is gone."
+[16] And ⟦joseph|Yosef|Joseph⟧ said, "Give your livestock, and I will give to you for your livestock, if the silver is gone."
 
-[17] So they brought their livestock to ⟦joseph|Yosef|Joseph⟧, and ⟦joseph|Yosef|Joseph⟧ gave them bread in exchange for the horses, the flocks, the herds, and the donkeys. Thus he supplied them with bread in exchange for all their livestock that year.
+[17] And they brought their livestock to ⟦joseph|Yosef|Joseph⟧, and ⟦joseph|Yosef|Joseph⟧ gave them bread for the horses and for the livestock of the flock and for the livestock of the herd and for the donkeys; and he led them on with bread for all their livestock in that year.
 
-[18] When that year was ended, they came to him the second year and said to him, "We will not hide from my lord that our silver is spent, and the herds of livestock belong to my lord; there is nothing left before my lord except our bodies and our land.
+[18] And that year came to an end, and they came to him in the second year and said to him, "We will not hide from my lord that the silver has come to an end, and the livestock of the beasts is my lord's; nothing is left before my lord except our bodies and our ground.
 
-[19] Why should we die before your eyes, both we and our land? Buy us and our land for bread, and we and our land will be slaves to ⟦pharaoh|Paroh|Pharaoh⟧; and give us seed that we may live and not die, and that the land may not be desolate."
+[19] Why should we die before your eyes, both we and our ground? Buy us and our ground for the bread, and we and our ground will be slaves to ⟦pharaoh|Paroh|Pharaoh⟧; and give seed, that we may live and not die, and that the ground may not be desolate."
 
-[20] So ⟦joseph|Yosef|Joseph⟧ bought all the land of ⟦egypt|Mitzrayim|Egypt⟧ for ⟦pharaoh|Paroh|Pharaoh⟧, for every ⟦egyptian|Mitzri|Egyptian⟧ sold his field, because the famine was severe upon them. And the land became ⟦pharaoh|Paroh|Pharaoh⟧'s.
+[20] And ⟦joseph|Yosef|Joseph⟧ bought all the ground of ⟦egypt|Mitzrayim|Egypt⟧ for ⟦pharaoh|Paroh|Pharaoh⟧, for the ⟦egyptians|Mitzrim|Egyptians⟧ sold each man his field, because the famine was strong upon them; and the land became ⟦pharaoh|Paroh|Pharaoh⟧'s.
 
-[21] And as for the people, he transferred them to the cities, from one end of the borders of ⟦egypt|Mitzrayim|Egypt⟧ to the other.
+[21] And the people, he moved them over to the cities, from one end of the border of ⟦egypt|Mitzrayim|Egypt⟧ to its other end.
 
-[22] Only the land of the priests he did not buy, for the priests had an allotment from ⟦pharaoh|Paroh|Pharaoh⟧ and ate from their allotment which ⟦pharaoh|Paroh|Pharaoh⟧ gave them; therefore they did not sell their land.
+[22] Only the ground of the priests he did not buy, for the priests had a fixed portion from ⟦pharaoh|Paroh|Pharaoh⟧, and they ate their fixed portion that ⟦pharaoh|Paroh|Pharaoh⟧ gave them; therefore they did not sell their ground.
 
-[23] Then ⟦joseph|Yosef|Joseph⟧ said to the people, "Behold, I have this day bought you and your land for ⟦pharaoh|Paroh|Pharaoh⟧. Here is seed for you; sow the land.
+[23] And ⟦joseph|Yosef|Joseph⟧ said to the people, "Behold, I have bought you today, and your ground, for ⟦pharaoh|Paroh|Pharaoh⟧. Here is seed for you, and you shall sow the ground.
 
-[24] And at the harvests, you shall give a fifth to ⟦pharaoh|Paroh|Pharaoh⟧, and four parts shall be your own, for seed of the field and for your food, and for those of your households, and for food for your little ones."
+[24] And it shall be at the harvests that you shall give a fifth to ⟦pharaoh|Paroh|Pharaoh⟧, and four parts shall be yours, for seed of the field and for your food and for those who are in your houses, and for food for your little ones."
 
-[25] They said, "You have saved our lives. Let us find favor in the sight of my lord, and we will be ⟦pharaoh|Paroh|Pharaoh⟧'s slaves."
+[25] And they said, "You have kept us alive. Let us find favor in the eyes of my lord, and we will be slaves to ⟦pharaoh|Paroh|Pharaoh⟧."
 
-[26] So ⟦joseph|Yosef|Joseph⟧ made it a statute for the land of ⟦egypt|Mitzrayim|Egypt⟧ to this day that ⟦pharaoh|Paroh|Pharaoh⟧ should have the fifth; only the land of the priests alone did not become ⟦pharaoh|Paroh|Pharaoh⟧'s.
+[26] And ⟦joseph|Yosef|Joseph⟧ made it a statute to this day over the ground of ⟦egypt|Mitzrayim|Egypt⟧, that the fifth is ⟦pharaoh|Paroh|Pharaoh⟧'s; only the ground of the priests alone did not become ⟦pharaoh|Paroh|Pharaoh⟧'s.
 
-[27] Thus ⟦israel|Yisrael|Israel⟧ dwelt in the land of ⟦egypt|Mitzrayim|Egypt⟧, in the country of Goshen; and they gained possessions in it, and were fruitful and multiplied exceedingly.
+[27] And ⟦israel|Yisrael|Israel⟧ dwelt in the land of ⟦egypt|Mitzrayim|Egypt⟧, in the land of Goshen; and they took possession in it, and were fruitful and multiplied exceedingly.
 
-[28] ⟦jacob|Yaaqov|Jacob⟧ lived in the land of ⟦egypt|Mitzrayim|Egypt⟧ seventeen years, so that the days of the years of ⟦jacob|Yaaqov|Jacob⟧'s life were 147 years.
+[28] And ⟦jacob|Yaaqov|Jacob⟧ lived in the land of ⟦egypt|Mitzrayim|Egypt⟧ seventeen years; and the days of ⟦jacob|Yaaqov|Jacob⟧, the years of his life, were a hundred and forty-seven years.
 
-[29] When the time drew near that ⟦israel|Yisrael|Israel⟧ should die, he called his son ⟦joseph|Yosef|Joseph⟧ and said to him, "If now I have found favor in your sight, please put your hand under my thigh, and deal with me in lovingkindness and faithfulness. Please do not bury me in ⟦egypt|Mitzrayim|Egypt⟧,
+[29] And the days of ⟦israel|Yisrael|Israel⟧ drew near to die; and he called his son ⟦joseph|Yosef|Joseph⟧ and said to him, "If now I have found favor in your eyes, please put your hand under my thigh, and do with me ⟦steadfast-love|chesed|steadfast love⟧ and truth: please do not bury me in ⟦egypt|Mitzrayim|Egypt⟧.
 
-[30] but let me lie with my fathers; carry me out of ⟦egypt|Mitzrayim|Egypt⟧, and bury me in their burial place." And he said, "I will do as you have said."
+[30] And I will lie with my fathers, and you shall carry me out of ⟦egypt|Mitzrayim|Egypt⟧ and bury me in their burial place." And he said, "I myself will do according to your word."
 
-[31] He said, "Swear to me." So he swore to him. Then ⟦israel|Yisrael|Israel⟧ bowed himself at the head of the bed.
+[31] And he said, "Swear to me." And he swore to him. And ⟦israel|Yisrael|Israel⟧ bowed down upon the head of the bed.
 
 ## Changes
 
-- **"pilgrimage" → "sojourning"** (v9) — Hebrew מְגוּרַי *meguray*. *Ger* (resident alien) derivative. Jacob describes his life as a series of temporary stays, none permanent. "Pilgrimage" in modern English suggests religious journey; the Hebrew means foreigner-status.
-- **"few and evil" (v9)** — Hebrew מְעַט וְרָעִים *me'at we-ra'im*. Jacob's poignant self-assessment: his 130 years have been hard (in contrast to Abraham's 175 or Isaac's 180). Depression-tinged line from a man who has lost Joseph for twenty years and buried his beloved wife.
-- **"possession" → "holding"** (v11) — Hebrew אֲחֻזָּה *achuzzah*. Legal land-possession, as in 23:4.
-- **"land of Rameses" (v11)** — region in the eastern Nile delta. The city of Rameses was built / rebuilt under Pharaoh Ramses II (13th c. BCE) — which is anachronistic here unless it refers to a pre-existing regional name. Possibly an update by a later editor for contemporary readers.
-- **"nourished" → "provided"** (v12) — Hebrew וַיְכַלְכֵּל *wa-yekhalkel* = sustained / nourished.
-- **"according to their families" → "according to the number of their dependents"** (v12) — Hebrew לְפִי הַטָּף *le-phi ha-taph*. *Taph* = little ones / dependents. Food-distribution proportionate to mouths to feed.
-- **"money" → "silver"** (v14, 15, 16, 18) — Hebrew *kesef*.
-- **"ought" → "anything"** (v18) — archaic spelling.
-- **"servants" → "slaves"** (v19, 25) — Hebrew עֲבָדִים *avadim*. Egyptians voluntarily enter state-serfdom for grain.
-- **"he removed them to cities" → "he transferred them to the cities"** (v21) — Hebrew הֶעֱבִיר אֹתוֹ לֶעָרִים *he'evir oto le-arim*. MT: moved them to the cities (uprooting them from land ties, to consolidate state control). Samaritan and LXX read הֶעֱבִיד *he'evid* = "made them slaves" (single-consonant difference, r/d confusion). Either reading intensifies: Joseph either enserfs the Egyptians or uproots them from ancestral lands.
-- **"bowed himself upon the bed's head" → "bowed himself at the head of the bed"** (v31) — Hebrew וַיִּשְׁתַּחוּ יִשְׂרָאֵל עַל־רֹאשׁ הַמִּטָּה *wa-yishtachu Yisra'el al-rosh ha-mittah*. LXX reads *ha-matteh* ("staff") instead of *ha-mittah* ("bed") — "bowed over the head of his staff." Hebrews 11:21 follows LXX. Vowel-pointing differs; consonantally identical. Either reading: Jacob reverently bows after the oath.
+- **"What is your occupation?" → "What is your work?"** (v3) — Hebrew מַה־מַּעֲשֵׂיכֶם, literally "what are your works?", as 46:33. "Shepherds of the flock": Hebrew רֹעֵה צֹאן (the singular "a shepherd of the flock"); צֹאן is the flock of sheep and goats.
+- **"servants" kept** (v3, 4) — Hebrew עֲבָדֶיךָ, עֶבֶד "slave", here the polite word of men speaking to a king; in v19, 25 the same word is "slaves".
+- **"sore" → "heavy"** (v4, 13) — Hebrew כָּבֵד, "heavy", of the famine. In v20 the word is another, חָזַק "was strong".
+- **"make thy father and brethren to dwell"** (v6, 11) — Hebrew הוֹשֵׁב, וַיּוֹשֵׁב, the causative of יָשַׁב "dwell".
+- **"men of activity" → "men of ability"** (v6) — Hebrew אַנְשֵׁי־חַיִל; חַיִל is strength, ability, worth. "Rulers over my cattle" → "chiefs of livestock over what is mine": Hebrew שָׂרֵי מִקְנֶה עַל־אֲשֶׁר־לִי; שַׂר is "prince", here of men set over a charge.
+- **"pilgrimage" → "sojournings"** (v9) — Hebrew מְגוּרַי, מְגוּרֵיהֶם, plural, from גּוּר "sojourn" (v4), the root of גֵּר "sojourner": the times of living as one who has no land of his own.
+- **"few and evil" kept** (v9) — Hebrew מְעַט וְרָעִים; רַע "evil", here of hard days.
+- **"an hundred and thirty years" / "an hundred forty and seven years"** (v9, 28) — the numbers in words, in the ordinary English order; the Hebrew order is שְׁלֹשִׁים וּמְאַת שָׁנָה "thirty and a hundred years", שֶׁבַע שָׁנִים וְאַרְבָּעִים וּמְאַת שָׁנָה "seven years and forty and a hundred years"; v28 literally "the days of Jacob, the years of his life".
+- **"possession" kept** (v11) — Hebrew אֲחֻזָּה, land held; in v27 the verb of the same root, וַיֵּאָחֲזוּ, "they took possession in it" (literally "they were made holders in it").
+- **"land of Rameses" kept** (v11) — Hebrew בְּאֶרֶץ רַעְמְסֵס, "land", the same word as "land of Egypt"; not "region".
+- **"nourished" → "sustained"** (v12) — Hebrew וַיְכַלְכֵּל.
+- **"according to their families" → "according to the little ones"** (v12) — Hebrew לְפִי הַטָּף, literally "to the mouth of the little ones": in the measure of the little ones each house had.
+- **"fainted" → "languished"** (v13) — Hebrew וַתֵּלַהּ, a verb found only here; the meaning ("languished, was worn out") is uncertain.
+- **"money" → "silver"** (v14, 15, 16, 18) — Hebrew כֶּסֶף, silver, weighed out as payment.
+- **"failed" / "faileth" → "came to an end" / "is gone"** (v15, 16, 18) — two Hebrew verbs: תַּם "came to an end" (v15, 18, of the silver and of the year) and אָפֵס "is gone, is no more" (v15, 16).
+- **"all the Egyptians"** (v15) and **"the Egyptians sold each man his field"** (v20) — Hebrew כָל־מִצְרַיִם, מִצְרַיִם, "Mitzrayim (Egypt)" with a plural verb: the people.
+- **"I will give you for your cattle" → "I will give to you for your livestock"** (v16) — the Hebrew names no object: וְאֶתְּנָה לָכֶם; "bread" is not in the verse.
+- **"fed them" → "led them on"** (v17) — Hebrew וַיְנַהֲלֵם, נָהַל "lead, guide along": he brought them through that year with bread.
+- **"our herds of cattle" → "the livestock of the beasts"** (v18) — Hebrew מִקְנֵה הַבְּהֵמָה; "is my lord's": אֶל־אֲדֹנִי, literally "to my lord".
+- **"our lands" / "land" → "our ground" / "ground"** (v18–26) — Hebrew אֲדָמָה, "ground", the soil that is tilled; אֶרֶץ "land" stands in v20 ("the land became Pharaoh's").
+- **"servants" → "slaves"** (v19, 25) — Hebrew עֲבָדִים.
+- **"he removed them to cities" → "he moved them over to the cities"** (v21) — Hebrew הֶעֱבִיר אֹתוֹ לֶעָרִים, "he made them pass over to the cities". The Samaritan text and the Greek translation are commonly cited for "he made them slaves" (הֶעֱבִיד, one letter different; from memory); the verse keeps the Hebrew text.
+- **"a portion assigned them" → "a fixed portion"** (v22) — Hebrew חֹק, the same word as "statute" in v26: what is laid down, here the allowance laid down for the priests.
+- **"in the increase" → "at the harvests"** (v24) — Hebrew בַּתְּבוּאֹת, "at the yields, the incomings". "Four parts": אַרְבַּע הַיָּדֹת, literally "four hands".
+- **"Thou hast saved our lives" → "You have kept us alive"** (v25) — Hebrew הֶחֱיִתָנוּ, the causative of "live" (v19 "that we may live").
+- **"the time drew nigh that Israel must die" → "the days of Israel drew near to die"** (v29) — Hebrew וַיִּקְרְבוּ יְמֵי־יִשְׂרָאֵל לָמוּת.
+- **"deal kindly and truly with me" → "do with me *chesed* and truth"** (v29) — Hebrew וְעָשִׂיתָ עִמָּדִי חֶסֶד וֶאֱמֶת; חֶסֶד *chesed* and אֱמֶת "truth", two nouns.
+- **"But I will lie with my fathers" → "And I will lie with my fathers"** (v30) — Hebrew וְשָׁכַבְתִּי … וּנְשָׂאתַנִי, two statements joined by "and"; it can also be taken "and when I lie with my fathers, you shall carry me". "I myself": the pronoun אָנֹכִי is written out. "According to your word": כִדְבָרֶךָ.
+- **"bowed himself upon the bed's head" → "bowed down upon the head of the bed"** (v31) — Hebrew וַיִּשְׁתַּחוּ יִשְׂרָאֵל עַל־רֹאשׁ הַמִּטָּה; the Masoretic vowels read הַמִּטָּה *ha-mittah* "the bed". The same consonants can be read הַמַּטֶּה *ha-matteh* "the staff"; so the Greek translation is said to read (from memory), and Heb 11:21 has "bowed down upon the top of his staff". The verse follows the Hebrew as pointed.
 
 ### Notes
 
-- **Joseph's economic reorganization (v13–26)** — Joseph in effect enserfs the Egyptian population to Pharaoh, creating a permanent 20% grain-tax. The story is told neutrally to approvingly by the narrator, though modern readers may note the irony: Joseph's Hebrews will themselves be enslaved to Pharaoh in Egypt in the next generation (Ex 1). The narrative plants that seed of reversal without comment.
-- **"Jacob blessed Pharaoh" (v7, 10)** — remarkable: the patriarch blesses the Egyptian emperor. Jacob's blessing-power exceeds Pharaoh's political power in the narrative's theological logic (Heb 7:7: "the lesser is blessed by the greater").
-- **Jacob's burial-oath (v29–31)** — echoes Abraham's oath-taking formula (24:2–9). Jacob wants burial in the ancestral tomb in Canaan, claiming the land even in death — a covenantal stake in the promised land even during Egyptian sojourn.
+- **v13–26** — the people of Egypt become slaves to Pharaoh and give him a fifth; in Ex 1 the sons of Israel are made to serve in Egypt.
+- **"Jacob blessed Pharaoh" (v7, 10)** — the same verb בֵּרַךְ both times; it is also the word of greeting and of taking leave.
+- **Jacob's burial oath (v29–31)** — the hand under the thigh as in the oath of 24:2–9.

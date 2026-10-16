@@ -1,66 +1,91 @@
 # Exodus 5
 
-[1] Afterward ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧ went in and said to ⟦pharaoh|Paroh|Pharaoh⟧, "Thus says ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧: 'Let my people go, that they may hold a feast to me in the wilderness.'"
+[1] And afterward ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧ came and said to ⟦pharaoh|Paroh|Pharaoh⟧, "Thus says ⟦yhwh|Yahweh|the LORD⟧, the ⟦elohim|Elohim|God⟧ of ⟦israel|Yisrael|Israel⟧: Let my people go, and let them hold a feast to me in the wilderness."
 
-[2] But ⟦pharaoh|Paroh|Pharaoh⟧ said, "Who is ⟦yhwh|Yahweh|the LORD⟧, that I should listen to his voice and let ⟦israel|Yisrael|Israel⟧ go? I do not know ⟦yhwh|Yahweh|the LORD⟧, and moreover I will not let ⟦israel|Yisrael|Israel⟧ go."
+[2] And ⟦pharaoh|Paroh|Pharaoh⟧ said, "Who is ⟦yhwh|Yahweh|the LORD⟧, that I should listen to his voice, to let ⟦israel|Yisrael|Israel⟧ go? I do not know ⟦yhwh|Yahweh|the LORD⟧, and also ⟦israel|Yisrael|Israel⟧ I will not let go."
 
-[3] Then they said, "The ⟦elohim|Elohim|God⟧ of the ⟦hebrews|Ivrim|Hebrews⟧ has met with us. Please let us go a three-days' journey into the wilderness and sacrifice to ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧, lest he fall upon us with pestilence or with the sword."
+[3] And they said, "The ⟦elohim|Elohim|God⟧ of the ⟦hebrews|Ivrim|Hebrews⟧ has met with us. Let us go, please, a way of three days into the wilderness, and let us sacrifice to ⟦yhwh|Yahweh|the LORD⟧ our ⟦elohim|Elohim|God⟧, lest he fall upon us with pestilence or with the sword."
 
-[4] The king of ⟦egypt|Mitzrayim|Egypt⟧ said to them, "⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧, why do you draw the people away from their work? Get to your forced labor!"
+[4] And the king of ⟦egypt|Mitzrayim|Egypt⟧ said to them, "Why, ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧, do you let the people loose from their works? Go to your burdens!"
 
-[5] ⟦pharaoh|Paroh|Pharaoh⟧ said, "Behold, the people of the land are now many, and you would make them cease from their forced labor!"
+[5] And ⟦pharaoh|Paroh|Pharaoh⟧ said, "Behold, the people of the land are now many, and you make them cease from their burdens!"
 
-[6] That same day ⟦pharaoh|Paroh|Pharaoh⟧ commanded the taskmasters of the people and their foremen, saying,
+[6] And ⟦pharaoh|Paroh|Pharaoh⟧ commanded on that day the taskmasters over the people and their officers, saying,
 
-[7] "You shall no longer give the people straw to make bricks, as before. Let them go and gather straw for themselves.
+[7] "You shall no more give straw to the people to make the bricks, as yesterday and the day before. Let them go themselves and gather straw for themselves.
 
-[8] But the quota of bricks that they have been making, you shall lay upon them; you shall not diminish it. For they are lazy; therefore they cry out, saying, 'Let us go and sacrifice to our ⟦elohim|Elohim|God⟧.'
+[8] And the amount of the bricks that they were making yesterday and the day before you shall put upon them; you shall not diminish from it. For they are slack; therefore they are crying out, saying, 'Let us go, let us sacrifice to our ⟦elohim|Elohim|God⟧.'
 
-[9] Let heavier work be laid on the men, and let them labor at it, and let them not regard lying words."
+[9] Let the service be heavy upon the men, and let them work at it, and let them not look to words of falsehood."
 
-[10] So the taskmasters of the people and their foremen went out and said to the people, "Thus says ⟦pharaoh|Paroh|Pharaoh⟧: 'I will not give you straw.
+[10] And the taskmasters of the people and their officers went out and said to the people, saying, "Thus says ⟦pharaoh|Paroh|Pharaoh⟧: I am not giving you straw.
 
-[11] Go, get yourselves straw wherever you can find it; yet none of your work shall be diminished.'"
+[11] You, go, take straw for yourselves from wherever you find it, for not a thing is diminished from your service."
 
-[12] So the people scattered throughout all the land of ⟦egypt|Mitzrayim|Egypt⟧ to gather stubble for straw.
+[12] And the people scattered in all the land of ⟦egypt|Mitzrayim|Egypt⟧ to gather stubble for straw.
 
-[13] The taskmasters pressed them, saying, "Complete your work, your daily quota, as when straw was given."
+[13] And the taskmasters were urging, saying, "Finish your works, the matter of a day in its day, as when there was straw."
 
-[14] And the foremen of the children of ⟦israel|Yisrael|Israel⟧, whom ⟦pharaoh|Paroh|Pharaoh⟧'s taskmasters had set over them, were beaten and asked, "Why have you not completed your quota in making bricks, yesterday and today, as before?"
+[14] And the officers of the sons of ⟦israel|Yisrael|Israel⟧, whom the taskmasters of ⟦pharaoh|Paroh|Pharaoh⟧ had set over them, were struck, saying, "Why have you not finished your fixed portion in making bricks as yesterday and the day before, both yesterday and today?"
 
-[15] Then the foremen of the children of ⟦israel|Yisrael|Israel⟧ came and cried out to ⟦pharaoh|Paroh|Pharaoh⟧, saying, "Why do you deal this way with your servants?
+[15] And the officers of the sons of ⟦israel|Yisrael|Israel⟧ came and cried out to ⟦pharaoh|Paroh|Pharaoh⟧, saying, "Why do you do thus to your servants?
 
-[16] No straw is given to your servants, yet they say to us, 'Make bricks!' And behold, your servants are being beaten, but the fault is with your own people."
+[16] Straw is not given to your servants, and bricks, they say to us, make! And behold, your servants are struck, and the sin is your people's."
 
-[17] He said, "You are lazy, lazy! Therefore you say, 'Let us go and sacrifice to ⟦yhwh|Yahweh|the LORD⟧.'
+[17] And he said, "Slack you are, slack! Therefore you are saying, 'Let us go, let us sacrifice to ⟦yhwh|Yahweh|the LORD⟧.'
 
-[18] Now go and work! No straw shall be given to you, yet you shall deliver the quota of bricks."
+[18] And now go, serve; and straw shall not be given to you, and the measure of bricks you shall give."
 
-[19] The foremen of the children of ⟦israel|Yisrael|Israel⟧ saw themselves in trouble, when they were told, "You shall not diminish your daily quota of bricks."
+[19] And the officers of the sons of ⟦israel|Yisrael|Israel⟧ saw themselves in trouble, saying, "You shall not diminish from your bricks the matter of a day in its day."
 
-[20] As they came out from ⟦pharaoh|Paroh|Pharaoh⟧, they met ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧ standing in their path;
+[20] And they came upon ⟦moses|Moshe|Moses⟧ and ⟦aaron|Aharon|Aaron⟧, who were standing to meet them as they came out from ⟦pharaoh|Paroh|Pharaoh⟧.
 
-[21] and they said to them, "May ⟦yhwh|Yahweh|the LORD⟧ look upon you and judge, because you have made us stink in the eyes of ⟦pharaoh|Paroh|Pharaoh⟧ and in the eyes of his servants, so as to put a sword in their hand to kill us."
+[21] And they said to them, "May ⟦yhwh|Yahweh|the LORD⟧ look upon you and judge, because you have made our smell stink in the eyes of ⟦pharaoh|Paroh|Pharaoh⟧ and in the eyes of his servants, to give a sword into their hand to kill us."
 
-[22] Then ⟦moses|Moshe|Moses⟧ returned to ⟦yhwh|Yahweh|the LORD⟧ and said, "O ⟦adonai|Adonai|Lord⟧, why have you brought harm on this people? Why is it that you sent me?
+[22] And ⟦moses|Moshe|Moses⟧ returned to ⟦yhwh|Yahweh|the LORD⟧ and said, "⟦adonai|Adonai|Lord⟧, why have you done evil to this people? Why is it that you sent me?
 
-[23] Ever since I came to ⟦pharaoh|Paroh|Pharaoh⟧ to speak in your name, he has brought harm on this people; and you have not delivered your people at all."
+[23] And since I came to ⟦pharaoh|Paroh|Pharaoh⟧ to speak in your name, he has done evil to this people, and you have surely not delivered your people."
 
 ## Changes
 
-- **"LORD" → "Yahweh"** (throughout) — Tetragrammaton preserved.
-- **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
-- **"Who is the LORD, that I should obey his voice" → "Who is Yahweh, that I should listen to his voice"** (v2) — Hebrew מִי יְהוָה אֲשֶׁר אֶשְׁמַע בְּקֹלוֹ *mi Yahweh asher eshma be-qolo*. Pharaoh's defiance: he literally does not know Yahweh as a deity in the Egyptian pantheon. The plagues will teach him.
-- **"burdens" → "forced labor"** (v4, 5) — Hebrew סִבְלֹתָם *sivlotam*, as in 1:11.
-- **"officers" → "foremen"** (v6, 10, 14, 15, 19) — Hebrew שֹׁטְרִים *shoterim*. Second-tier supervisors (Hebrew foremen under Egyptian taskmasters) — the native Hebrew overseers caught between Egyptian authority and their own people.
-- **"tale" → "quota"** (v8, 14, 18) — Hebrew מַתְכֹּנֶת *matkonet* = fixed measure / quota. "Tale" in 1611 English = count / tally; archaic.
-- **"vain words" → "lying words"** (v9) — Hebrew דִבְרֵי־שָׁקֶר *divre-shaqer* = words of falsehood. Pharaoh dismisses the Yahweh-feast request as lies.
-- **"evil case" → "trouble"** (v19) — Hebrew בְּרָע *be-ra* = in trouble / calamity.
-- **"have made our savour to be abhorred" → "have made us stink"** (v21) — Hebrew הִבְאַשְׁתֶּם אֶת־רֵיחֵנוּ *hiv'ashtem et-rechenu* = "you have made our smell stink." Vivid idiom: made us offensive / odious. Modernized literally.
-- **"evil entreated" → "brought harm on"** (v22, 23) — Hebrew הֲרֵעֹתָה *hare'otah* = you have done evil / harm to. "Entreat" in modern English = beg; false friend.
+- **"LORD" → "Yahweh"** (throughout) — Hebrew יהוה. **"God" → "*Elohim*"** (throughout) — Hebrew *Elohim*.
+- **"And"** (throughout) — the Hebrew joins its clauses with וַ / וְ "and"; the chain is kept.
+- **"went in, and told Pharaoh" → "came and said to Pharaoh"** (v1) — Hebrew בָּאוּ … וַיֹּאמְרוּ.
+- **"Thus saith the LORD God of Israel" → "Thus says Yahweh, the *Elohim* of Israel"** (v1) — Hebrew כֹּה־אָמַר יְהוָה אֱלֹהֵי יִשְׂרָאֵל, the formula with which a messenger gives the words of the one who sent him; Pharaoh's men use it of him in v10 ("Thus says Pharaoh").
+- **"that they may hold a feast unto me" → "and let them hold a feast to me"** (v1) — Hebrew וְיָחֹגּוּ לִי: חָגַג is to keep a חַג, a pilgrim feast. **"Let my people go"** — Hebrew שַׁלַּח, the piel of שָׁלַח "send": "send away, let go" (v1, 2).
+- **"that I should obey his voice" → "that I should listen to his voice"** (v2) — Hebrew אֲשֶׁר אֶשְׁמַע בְּקֹלוֹ. **"neither will I let Israel go" → "and also Israel I will not let go"** — Hebrew וְגַם אֶת־יִשְׂרָאֵל לֹא אֲשַׁלֵּחַ, with the object first.
+- **"The God of the Hebrews hath met with us" kept** (v3) — Hebrew אֱלֹהֵי הָעִבְרִים נִקְרָא עָלֵינוּ, as in 3:18; the verb is written here with א (as if from קָרָא "call"), in 3:18 with ה. The same sense is meant.
+- **"let us go, we pray thee, three days' journey into the desert, and sacrifice" → "Let us go, please, a way of three days into the wilderness, and let us sacrifice"** (v3) — as in 3:18. **"lest he fall upon us"** — Hebrew פֶּן־יִפְגָּעֵנוּ, from פָּגַע "meet, come upon", here of an attack. "Pestilence" and "sword" both have the article in Hebrew.
+- **"Wherefore do ye, Moses and Aaron, let the people from their works? get you unto your burdens" → "Why, Moses and Aaron, do you let the people loose from their works? Go to your burdens!"** (v4) — Hebrew תַּפְרִיעוּ, the hifil of פָּרַע "let loose" (32:25); מַעֲשָׂיו is "its works" (the people as one). סְבָלוֹת "burdens" as in 1:11.
+- **"ye make them rest from their burdens" → "you make them cease from their burdens"** (v5) — Hebrew וְהִשְׁבַּתֶּם, the hifil of שָׁבַת "cease", the root of *shabbat*. "The people of the land" is עַם הָאָרֶץ.
+- **"the same day" → "on that day"** (v6) — Hebrew בַּיּוֹם הַהוּא.
+- **"the taskmasters of the people, and their officers" → "the taskmasters over the people and their officers"** (v6, 10) — Hebrew הַנֹּגְשִׂים בָּעָם וְאֶת־שֹׁטְרָיו. נֹגֵשׂ is one who drives (3:7); the taskmasters are Pharaoh's (v14). שֹׁטֵר is a lower officer, one who keeps order and lists; these are men of Israel (v14, 15, 19). "Their" is literally "his": the people's, as in v10.
+- **"Ye shall no more give" kept** (v7) — Hebrew לֹא תֹאסִפוּן לָתֵת, literally "you shall not add to give". The verb is written with א, as if from אָסַף "gather"; "add" (יָסַף) is meant. **"as heretofore" → "as yesterday and the day before"** (v7, 8, 14) — Hebrew כִּתְמוֹל שִׁלְשֹׁם, the Hebrew way of saying "before". **"let them go and gather" → "Let them go themselves and gather"** — Hebrew הֵם יֵלְכוּ, with a stressed "they".
+- **"the tale of the bricks" → "the amount of the bricks"; "the tale of bricks" → "the measure of bricks"** (v8, 18) — two nouns from one root (תכן "measure, fix"): מַתְכֹּנֶת in v8, תֹּכֶן in v18.
+- **"ye shall not diminish ought thereof" → "you shall not diminish from it"** (v8) — Hebrew לֹא תִגְרְעוּ מִמֶּנּוּ; the same verb in v11, 19.
+- **"they be idle" → "they are slack"** (v8, 17) — Hebrew נִרְפִּים, the niphal of רָפָה "sink, grow slack"; the word says "slack", not "idle".
+- **"Let there more work be laid upon the men, that they may labour therein" → "Let the service be heavy upon the men, and let them work at it"** (v9) — Hebrew תִּכְבַּד הָעֲבֹדָה … וְיַעֲשׂוּ־בָהּ: כָּבֵד "be heavy", the word of 4:10 and of the heavy heart (7:14); עֲבֹדָה "service" as in 1:14; "work at it" is literally "do in it".
+- **"let them not regard vain words" → "let them not look to words of falsehood"** (v9) — Hebrew וְאַל־יִשְׁעוּ בְּדִבְרֵי־שָׁקֶר; שָׁעָה is "look to" (Gen 4:4), שֶׁקֶר "falsehood".
+- **"I will not give you straw" → "I am not giving you straw"** (v10) — Hebrew אֵינֶנִּי נֹתֵן, a participle.
+- **"Go ye, get you straw where ye can find it: yet not ought of your work shall be diminished" → "You, go, take straw for yourselves from wherever you find it, for not a thing is diminished from your service"** (v11) — Hebrew אַתֶּם לְכוּ קְחוּ לָכֶם … כִּי אֵין נִגְרָע מֵעֲבֹדַתְכֶם דָּבָר: a stressed "you", לָקַח "take", כִּי "for", דָּבָר "a word, a thing".
+- **"were scattered abroad throughout" → "scattered in"** (v12) — Hebrew וַיָּפֶץ, of the people spreading out. **"stubble instead of straw" → "stubble for straw"** — Hebrew קַשׁ לַתֶּבֶן; קֹשֵׁשׁ "gather" is the verb made from קַשׁ "stubble".
+- **"hasted them" → "were urging"** (v13) — Hebrew אָצִים, "pressing, hurrying"; no object is named.
+- **"Fulfil your works, your daily tasks" → "Finish your works, the matter of a day in its day"** (v13, 19) — Hebrew דְּבַר־יוֹם בְּיוֹמוֹ, literally "the word / matter of a day in its day": each day's amount on that day. **"as when there was straw"** — Hebrew כַּאֲשֶׁר בִּהְיוֹת הַתֶּבֶן.
+- **"were beaten, and demanded" → "were struck, saying"** (v14, 16) — Hebrew וַיֻּכּוּ … לֵאמֹר: הִכָּה "strike" (2:11); the Hebrew has only "saying", without naming who says it.
+- **"fulfilled your task" → "finished your fixed portion"** (v14) — Hebrew חָקְכֶם, from חֹק: what is laid down, a fixed portion (Gen 47:22), elsewhere "statute". **"both yesterday and to day, as heretofore" → "as yesterday and the day before, both yesterday and today"** — the Hebrew order.
+- **"dealest thou thus with" → "do you do thus to"; "thy servants"** (v15, 16) — Hebrew עָשָׂה "do"; עֲבָדֶיךָ, the word is "slaves".
+- **"they say to us, Make brick" → "and bricks, they say to us, make!"** (v16) — Hebrew וּלְבֵנִים אֹמְרִים לָנוּ עֲשׂוּ, with "bricks" first.
+- **"but the fault is in thine own people" → "and the sin is your people's"** (v16) — Hebrew וְחָטָאת עַמֶּךָ. The form is hard. As pointed it looks like "and you (or she) have sinned, your people", which does not make a sentence; it is commonly taken as "and the sin is your people's" (the fault lies with your own men). The Septuagint reads "you wrong your people" (cited from memory). The Masoretic Text is kept; the sense is uncertain.
+- **"Go therefore now, and work" → "And now go, serve"** (v18) — Hebrew עִבְדוּ, from עָבַד "serve".
+- **"did see that they were in evil case, after it was said" → "saw themselves in trouble, saying"** (v19) — Hebrew וַיִּרְאוּ … אֹתָם בְּרָע לֵאמֹר, literally "saw them in evil, saying": רַע is "evil, bad"; "them" is taken as "themselves" (it could also be the people). "Saying" stands without a speaker, as in v14.
+- **"they met Moses and Aaron, who stood in the way" → "they came upon Moses and Aaron, who were standing to meet them"** (v20) — Hebrew וַיִּפְגְּעוּ … נִצָּבִים לִקְרָאתָם; "in the way" is not in the Hebrew.
+- **"The LORD look upon you, and judge" → "May Yahweh look upon you and judge"** (v21) — Hebrew יֵרֶא יְהוָה עֲלֵיכֶם וְיִשְׁפֹּט, two wishes.
+- **"ye have made our savour to be abhorred" → "you have made our smell stink"** (v21) — Hebrew הִבְאַשְׁתֶּם אֶת־רֵיחֵנוּ, literally so (Gen 34:30). **"to put a sword in their hand to slay us" → "to give a sword into their hand to kill us"** — Hebrew לָתֶת … לְהָרְגֵנוּ.
+- **"Lord, wherefore hast thou so evil entreated this people?" → "Adonai, why have you done evil to this people?"** (v22, 23) — Hebrew אֲדֹנָי לָמָה הֲרֵעֹתָה לָעָם הַזֶּה; הֵרַע is the hifil of רָעַע "be evil": to do evil, to do harm to. The same verb is used of Pharaoh in v23. **"why is it that thou hast sent me?"** — Hebrew לָמָּה זֶּה שְׁלַחְתָּנִי.
+- **"neither hast thou delivered thy people at all" → "and you have surely not delivered your people"** (v23) — Hebrew וְהַצֵּל לֹא־הִצַּלְתָּ, the infinitive absolute with its verb, literally "and delivering you have not delivered".
 
 ### Notes
 
-- **"Who is Yahweh?" (v2)** — Pharaoh's theological ignorance sets up the narrative arc. The plagues are structured as self-revelation of Yahweh to Pharaoh, Egypt, and Israel. Yahweh's repeated purpose-formula: "that they / you may know that I am Yahweh" (7:5, 7:17, 8:22, 9:14, 9:29, 10:2, 14:4, 14:18).
+- **"Who is Yahweh?" (v2)** — Pharaoh's question sets up the narrative arc. The plagues are structured as self-revelation of Yahweh to Pharaoh, Egypt, and Israel. Yahweh's repeated purpose-formula: "that they / you may know that I am Yahweh" (7:5, 7:17, 8:22, 9:14, 9:29, 10:2, 14:4, 14:18).
 - **First result: worse, not better** — Moses' intervention produces immediate escalation of the oppression. His complaint (v22–23) will recur throughout the wilderness wanderings: why did you send me? why this people? Yahweh's answer comes in ch 6 with intensified promises.
 - **Straw and bricks** — Egyptian mud-brick construction used straw as binder (tempering the clay). Without straw, bricks crack — impossible demand designed to break. Ancient Egyptian brickmaking is extensively attested; the text fits historical reality of the 14th–12th centuries BCE.

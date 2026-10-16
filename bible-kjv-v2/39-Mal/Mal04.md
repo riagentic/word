@@ -1,29 +1,29 @@
 # Malachi 4
 
-[1] "For behold, the day is coming, burning like an oven, when all the arrogant and all evildoers will be stubble. The day that is coming shall set them ablaze, says ⟦yhwh|Yahweh|the LORD⟧ of Hosts, so that it will leave them neither root nor branch.
+[1] For behold, the day is coming, burning like the oven; and all the presumptuous and every doer of wickedness shall be stubble, and the day that is coming shall set them ablaze, says ⟦yhwh|Yahweh|the LORD⟧ of Hosts, so that it shall not leave them root or branch.
 
-[2] "But for you who fear my name,
-the Sun of Righteousness
-shall rise with healing in its wings.
-You shall go out leaping like calves from the stall.
+[2] And for you who fear my name the sun of righteousness shall dawn, and healing in its wings; and you shall go out and leap like calves of the stall.
 
-[3] "And you shall tread down the wicked, for they will be ashes under the soles of your feet, on the day when I act, says ⟦yhwh|Yahweh|the LORD⟧ of Hosts.
+[3] And you shall tread down the wicked, for they shall be ashes under the soles of your feet, on the day when I act, says ⟦yhwh|Yahweh|the LORD⟧ of Hosts.
 
-[4] "Remember the ⟦torah|Torah|law⟧ of my servant ⟦moses|Moshe|Moses⟧, the statutes and rules that I commanded him at ⟦horeb|Chorev|Horeb⟧ for all ⟦israel|Yisrael|Israel⟧.
+[4] Remember the ⟦torah|Torah|Law⟧ of ⟦moses|Moshe|Moses⟧ my servant, which I commanded him in ⟦horeb|Chorev|Horeb⟧ for all ⟦israel|Yisrael|Israel⟧, statutes and ordinances.
 
-[5] **"Behold, I will send you ⟦elijah|Eliyahu|Elijah⟧ the prophet
-before the great and awesome day of ⟦yhwh|Yahweh|the LORD⟧ comes.**
+[5] **Behold, I am sending to you ⟦elijah|Eliyahu|Elijah⟧ the prophet before the coming of the day of ⟦yhwh|Yahweh|the LORD⟧, the great and the fearsome.**
 
-**[6] And he will turn the hearts of fathers to their children
-and the hearts of children to their fathers,
-lest I come and strike the land with a decree of utter destruction."**
+**[6] And he shall turn the heart of fathers to sons, and the heart of sons to their fathers, lest I come and strike the land as a thing devoted to destruction.**
 
 ## Changes
 
 - **"LORD" → "Yahweh"** (throughout) — Tetragrammaton יְהוָה rendered directly.
-- **"LORD of hosts" → "Yahweh of Hosts"** (vv1, 3) — Hebrew יְהוָה צְבָאוֹת *Yahweh Tzeva'ot*; the military-covenantal divine title preserved.
+- **"LORD of hosts" → "Yahweh of Hosts"** (v1, 3) — Hebrew יְהוָה צְבָאוֹת, plain "of Hosts" (no token).
+- **Layout** — prose, as the Hebrew (v2, 5, 6 were set as poetry lines); the quotation marks are dropped.
+- **"For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up … that it shall leave them neither root nor branch" → "For behold, the day is coming, burning like the oven; and all the presumptuous and every doer of wickedness shall be stubble, and the day that is coming shall set them ablaze … so that it shall not leave them root or branch"** (v1) — הִנֵּה … בָּא "behold … is coming" (participle); בֹּעֵר כַּתַּנּוּר "burning like the oven" (article kept; תַּנּוּר "oven", its row); זֵדִים "the presumptuous" (its row, as 3:15); עֹשֵׂה רִשְׁעָה "doer of wickedness" (singular, as 3:15 plural); קַשׁ "stubble" (its row); לִהַט "set ablaze" (the root of לַהַט "flame"); אֲשֶׁר "so that" (or "which"); עָזַב "leave" (its row); שֹׁרֶשׁ וְעָנָף "root and branch": after the negative English says "or".
+- **"But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall" → "And for you who fear my name the sun of righteousness shall dawn, and healing in its wings; and you shall go out and leap like calves of the stall"** (v2) — וְ "and" (not "but"); יִרְאֵי שְׁמִי "who fear my name"; זָרְחָה "shall dawn" (the זָרַח row); שֶׁמֶשׁ צְדָקָה "a sun of righteousness", no article, small letters: the Hebrew makes no title of it; בִּכְנָפֶיהָ "in its wings" (the suffix is feminine, agreeing with שֶׁמֶשׁ; "his" of KJV makes a person of it); כָּנָף "wing" (its row; of the sun's rays); וּמַרְפֵּא "and healing" (no "with": a second subject or a clause, "and healing is in its wings"); פּוּשׁ "leap" (uncertain: "frisk", "paw the ground"; not "grow up"); עֶגְלֵי מַרְבֵּק "calves of the stall" (the stall where they are fattened). Later readings of "the sun of righteousness" as a person belong to the reception, not to the verse.
+- **"And ye shall tread down the wicked … in the day that I shall do this" → "And you shall tread down the wicked … on the day when I act"** (v3) — וְעַסּוֹתֶם "and you shall tread down" (עָסַס, only here: "press, crush"); אֵפֶר "ashes" (its row); כַּפּוֹת רַגְלֵיכֶם "the soles of your feet" (the כַּף row, lit. "palms"); בַּיּוֹם אֲשֶׁר אֲנִי עֹשֶׂה "on the day when I act" (as 3:17; "this" is not written).
+- **"Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments" → "Remember the Torah of Moses my servant, which I commanded him in Horeb for all Israel, statutes and ordinances"** (v4) — תּוֹרַת מֹשֶׁה "the Torah of Moses" (token `torah`, capital: the book of Moses); עַבְדִּי "my servant" (the עֶבֶד row: of Yahweh's men "servant"); בְחֹרֵב "in Horeb"; עַל "for / over"; חֻקִּים וּמִשְׁפָּטִים "statutes and ordinances" (the Deut row; "with" is not written: the two words stand in apposition to "which I commanded").
+- **"Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD" → "Behold, I am sending to you Elijah the prophet before the coming of the day of Yahweh, the great and the fearsome"** (v5) — הִנֵּה אָנֹכִי שֹׁלֵחַ "behold, I am sending" (participle, as 3:1); לָכֶם "to you"; לִפְנֵי בּוֹא יוֹם יְהוָה "before the coming of the day of Yahweh"; הַגָּדוֹל וְהַנּוֹרָא "the great and the fearsome" after the name, with articles (נוֹרָא "fearsome", its row). The word picks up 3:1 ("I am sending my messenger … before me"); the verse does not say that the two are one.
+- **"And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse" → "And he shall turn the heart of fathers to sons, and the heart of sons to their fathers, lest I come and strike the land as a thing devoted to destruction"** (v6) — וְהֵשִׁיב "and he shall turn" (hifil of שׁוּב: "bring back, make return"); לֵב singular "heart" twice; אָבוֹת · בָּנִים "fathers · sons" (the בֵּן row; not "children"), without the article, then "their fathers"; עַל "to" (lit. "upon"); הִכָּה "strike" (its row); הָאָרֶץ "the land" (or "the earth", its row: the land of v4's Israel is nearest); חֵרֶם "a thing devoted to destruction" (its row; KJV "curse"; "as" supplied: the land itself becomes the חֵרֶם). Luke 1:17 takes up the first half in another form ("the hearts of fathers to children, and the disobedient to the wisdom of the just"); that belongs to the New Testament.
 
 ### Notes
-- **v2** — "Sun of Righteousness with healing in wings": messianic (applied to Yeshua).
-- **v5-6** — Elijah's return fulfilled in John the Baptist (Matt 11:14; 17:10-13; Luke 1:17); also foundational for Jewish Passover Seder ("Cup of Elijah").
-- **End of OT** — the Hebrew Bible ends with 2 Chronicles; Christian OT ends here, with the promise of Elijah and the forerunner.
+- **Numbering** — our 4:1–6 are Hebrew 3:19–24: the Hebrew has no fourth chapter; the chapter break follows the Greek and Latin Bibles.
+- **v4–6** — the book ends with the Torah of Moses and the sending of Elijah. In the reading of the synagogue v5 is read again after v6, so that the reading does not end on חֵרֶם (from memory). In the Hebrew order of books Malachi stands at the end of the Twelve, not at the end of the Bible.
